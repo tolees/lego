@@ -1,0 +1,27 @@
+# Copyright (C) 2017, 2018 Pablo Iranzo Gómez <Pablo.Iranzo@gmail.com>
+
+language: python
+dist: trusty
+sudo: required
+
+python:
+- '3.5'
+
+before_install:
+- pip install -U pip
+- pip install -U setuptools
+- pip install -r requirements.txt
+
+install:
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.62.2/hugo_0.62.2_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.62.2_Linux-64bit.deb
+
+script:
+  - hugo
+
+after_success:
+- sed -i "s#https://github.com#https://${GHTOKEN}@github.com#g" .git/config
+- sed -i "s#git@github.com:#https://${GHTOKEN}@github.com/#g" .git/config
+- echo "ofertas.tole.es" > public/CNAME
+- ghp-import -m "Generate Hugo site" -b master public
+- git push --force origin master
