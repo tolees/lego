@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Millennium Falcon  '
-date: 2019/12/03 21:55:51 +0000
+date: 2020-01-12 08:31:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510H2U3sCtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510H2U3sCtL._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Está [LEGO 75257 Star Wars Millennium Falcon  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07NDB4Q7S/?tag=redken08-20) por 114.99 EUR (original: 159.99 EUR) en el siguiente enlace!
+Tienes [LEGO 75257 Star Wars Millennium Falcon  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07NDB4Q7S/?tag=redken08-20) a precio de oferta de 114.99 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510H2U3sCtL._SL200_.jpg)](https://www.amazon.com/dp/B07NDB4Q7S/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07NDB4Q7S/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07NDB4Q7S/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
