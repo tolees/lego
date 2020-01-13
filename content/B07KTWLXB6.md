@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Ninjago 70673 ShuriCopter  Bauset'
-date: 2020-01-10 22:20:08
+date: 2020-01-12 22:19:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dmGgo2wxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dmGgo2wxL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 60236 City Gerade und T-Kreuzung  b'
-date: 2020-01-10 22:20:18
+date: 2020-01-12 22:15:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KFqu9%2BJ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KFqu9%2BJ9L._SL200_.jpg' ]
 comments: true
