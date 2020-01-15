@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70420 Hidden Side Geheimnisvoller F'
-date: 2020-01-14 12:50:42
+date: 2020-01-15 13:53:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oc2sgDhTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oc2sgDhTL._SL200_.jpg' ]
 comments: true
