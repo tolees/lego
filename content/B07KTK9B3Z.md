@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21045 - Architecture Trafalgar Squa'
-date: 2020-01-15 22:15:58
+date: 2020-01-17 02:39:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EjS8vm1jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EjS8vm1jL._SL200_.jpg' ]
 comments: true
