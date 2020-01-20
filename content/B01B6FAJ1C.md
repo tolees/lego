@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago - Pijama para Niños 6-7 Año'
-date: 2020-01-15 22:46:46
+date: 2020-01-20 16:22:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518iuYn3baL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518iuYn3baL._SL200_.jpg' ]
 comments: true
