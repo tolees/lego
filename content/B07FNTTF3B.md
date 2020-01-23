@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO NINJAGO 70668 - Jays Donner-Jet'
-date: 2020-01-16 13:08:03
+date: 2020-01-23 13:27:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vFjmqTvLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vFjmqTvLL._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO NINJAGO 70668 - Jays Donner-Jet](https://www.amazon.com/dp/B07FNTTF3B/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO NINJAGO 70668 - Jays Donner-Jet](https://www.amazon.com/dp/B07FNTTF3B/?tag=redken08-20) a 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51vFjmqTvLL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTTF3B/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07FNTTF3B/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07FNTTF3B/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
