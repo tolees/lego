@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.95264623955431 % en 'LEGO Jungen Langarmshirt Lego Boy Ninjag'
+title: 'Descuento del 42.95264623955431 % en LEGO Jungen Langarmshirt Lego Boy Ninjag'
 date: 2019/12/15 23:42:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ByeHFaRML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ByeHFaRML._SL200_.jpg' ]

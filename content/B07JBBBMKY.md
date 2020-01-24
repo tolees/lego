@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75972 - Overwatch Dorado-Showdown  ' al 33.34444814938313 % de descuento
+title: 'LEGO 75972 - Overwatch Dorado-Showdown   al 33.34444814938313 % de descuento'
 date: 2019/12/28 21:55:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oT9WqrcNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oT9WqrcNL._SL200_.jpg' ]

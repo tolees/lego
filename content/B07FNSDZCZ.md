@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO - DUPLO Movie 2 Visitas de Emmet y ' al 33.34444814938313 % de descuento
+title: 'LEGO - DUPLO Movie 2 Visitas de Emmet y  al 33.34444814938313 % de descuento'
 date: 2019/12/04 14:57:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dNKuMCZjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dNKuMCZjL._SL200_.jpg' ]

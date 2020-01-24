@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Duplo 10907 - Tiere der Welt  Baust' al 30.003000300030003 % de descuento
+title: 'LEGO Duplo 10907 - Tiere der Welt  Baust al 30.003000300030003 % de descuento'
 date: 2019/12/13 15:19:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512uowkzDWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512uowkzDWL._SL200_.jpg' ]

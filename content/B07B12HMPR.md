@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.74220129487934 % en 'LEGO 41451 Unikitty Cloud Car Set Feebee'
+title: 'Descuento del 61.74220129487934 % en LEGO 41451 Unikitty Cloud Car Set Feebee'
 date: 2019/11/13 12:46:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BX1T6ZcnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BX1T6ZcnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 41361 Friends Mias Fohlenstall  bun' al 30.015007503751868 % de descuento
+title: 'Lego 41361 Friends Mias Fohlenstall  bun al 30.015007503751868 % de descuento'
 date: 2020-01-07 06:31:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hOYNDGSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hOYNDGSRL._SL200_.jpg' ]

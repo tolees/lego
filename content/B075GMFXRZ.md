@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.308436145381798 % en 'LEGO Star Wars - Speeder Terrestre de Ha'
+title: 'Descuento del 25.308436145381798 % en LEGO Star Wars - Speeder Terrestre de Ha'
 date: 2019/12/27 14:46:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p4pRq8OUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p4pRq8OUL._SL200_.jpg' ]

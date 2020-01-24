@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75257 Star Wars Millennium Falcon  ' al 28.12675792237016 % de descuento
+title: 'LEGO 75257 Star Wars Millennium Falcon   al 28.12675792237016 % de descuento'
 date: 2020-01-12 08:31:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510H2U3sCtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510H2U3sCtL._SL200_.jpg' ]

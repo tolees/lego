@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60240 City Great Vehicles Kayak Adv' al 34.93493493493494 % de descuento
+title: 'LEGO 60240 City Great Vehicles Kayak Adv al 34.93493493493494 % de descuento'
 date: 2019/11/28 08:29:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514tgaBgGKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514tgaBgGKL._SL200_.jpg' ]

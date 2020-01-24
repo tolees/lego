@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75233 Star Wars Droid Gunship Battl' al 33.333333333333336 % de descuento
+title: 'LEGO 75233 Star Wars Droid Gunship Battl al 33.333333333333336 % de descuento'
 date: 2019/12/01 17:08:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-js3ZUS4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-js3ZUS4L._SL200_.jpg' ]

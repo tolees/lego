@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60227 City Lunar Space Station  Spa' al 33.34074238719717 % de descuento
+title: 'LEGO 60227 City Lunar Space Station  Spa al 33.34074238719717 % de descuento'
 date: 2019/12/29 09:02:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r%2BCQttVzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r%2BCQttVzL._SL200_.jpg' ]

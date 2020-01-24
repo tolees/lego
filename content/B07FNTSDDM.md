@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.00889086463659 % en 'LEGO 70829 Movie 2 with Emmet  Lucy and '
+title: 'Descuento del 40.00889086463659 % en LEGO 70829 Movie 2 with Emmet  Lucy and '
 date: 2020-01-24 01:34:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg' ]

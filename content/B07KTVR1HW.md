@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DC Batman 76138 - Joker auf der Flu' al 30.00750187546888 % de descuento
+title: 'LEGO DC Batman 76138 - Joker auf der Flu al 30.00750187546888 % de descuento'
 date: 2019/12/14 16:25:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BYXJvKKWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BYXJvKKWL._SL200_.jpg' ]

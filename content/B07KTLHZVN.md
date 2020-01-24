@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DC Universe Super Heroes 76118 Supe' al 28.731492597038823 % de descuento
+title: 'LEGO DC Universe Super Heroes 76118 Supe al 28.731492597038823 % de descuento'
 date: 2020-01-23 18:03:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vRzCkhh4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vRzCkhh4L._SL200_.jpg' ]

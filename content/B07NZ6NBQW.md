@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.29697292972395 % en 'LEGO 60203 City Ski Resort with Helicopt'
+title: 'Descuento del 27.29697292972395 % en LEGO 60203 City Ski Resort with Helicopt'
 date: 2019/12/25 09:10:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61D86oF4OUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61D86oF4OUL._SL200_.jpg' ]

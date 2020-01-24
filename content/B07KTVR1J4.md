@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 76122 DC Batman Batcave Clayface In' al 31.792820296873348 % de descuento
+title: 'LEGO 76122 DC Batman Batcave Clayface In al 31.792820296873348 % de descuento'
 date: 2019/12/17 08:53:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ccbf72MuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ccbf72MuL._SL200_.jpg' ]

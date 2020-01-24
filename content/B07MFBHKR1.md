@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.7027027027027 % en 'Lego Wear Girls  Lego Friends cm Sweatsh'
+title: 'Descuento del 44.7027027027027 % en Lego Wear Girls  Lego Friends cm Sweatsh'
 date: 2020-01-24 09:42:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.139043381535032 % en 'LEGO 11001 Classic Bricks and Ideas Buil'
+title: 'Descuento del 25.139043381535032 % en LEGO 11001 Classic Bricks and Ideas Buil'
 date: 2019/12/13 08:54:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Pl9YVlUXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Pl9YVlUXL._SL200_.jpg' ]

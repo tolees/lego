@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60244 - Polizeihubschrauber-Transpo' al 26.672593909757726 % de descuento
+title: 'LEGO 60244 - Polizeihubschrauber-Transpo al 26.672593909757726 % de descuento'
 date: 2020-01-22 14:19:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D4jv2%2BN6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D4jv2%2BN6L._SL200_.jpg' ]

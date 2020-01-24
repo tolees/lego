@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21140 Minecraft The Chicken Coop Bu' al 27.96398199099549 % de descuento
+title: 'LEGO 21140 Minecraft The Chicken Coop Bu al 27.96398199099549 % de descuento'
 date: 2019/12/10 21:51:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL200_.jpg' ]

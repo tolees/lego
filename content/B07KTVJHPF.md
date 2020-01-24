@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60226 - City Mars-Forschungsshuttle' al 34.378126042014 % de descuento
+title: 'LEGO 60226 - City Mars-Forschungsshuttle al 34.378126042014 % de descuento'
 date: 2020-01-23 09:26:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AhIenYAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AhIenYAHL._SL200_.jpg' ]

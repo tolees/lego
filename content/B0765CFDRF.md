@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.011115227862163 % en 'LEGO Juniors  - Persecución por los teja'
+title: 'Descuento del 30.011115227862163 % en LEGO Juniors  - Persecución por los teja'
 date: 2019/12/18 22:57:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rnn9KxkfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rnn9KxkfL._SL200_.jpg' ]

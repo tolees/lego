@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.00312539067383 % en 'LEGO City Krankenhaus  60204  Kinderspie'
+title: 'Descuento del 25.00312539067383 % en LEGO City Krankenhaus  60204  Kinderspie'
 date: 2020-01-07 13:23:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jd3pT6z2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jd3pT6z2L._SL200_.jpg' ]

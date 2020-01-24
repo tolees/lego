@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.005556790397865 % en 'LEGO 75210 Star Wars Landspeeder Include'
+title: 'Descuento del 25.005556790397865 % en LEGO 75210 Star Wars Landspeeder Include'
 date: 2019/12/06 08:40:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RtnllTfQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RtnllTfQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75226 - Inferno Squad Bat' al 25.683789192795192 % de descuento
+title: 'LEGO Star Wars 75226 - Inferno Squad Bat al 25.683789192795192 % de descuento'
 date: 2019/12/20 09:29:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SlOaH10ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SlOaH10ZL._SL200_.jpg' ]

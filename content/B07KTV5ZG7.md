@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 31097 - Creator 3-in-1-Set Stadthau' al 29.40367545943242 % de descuento
+title: 'LEGO 31097 - Creator 3-in-1-Set Stadthau al 29.40367545943242 % de descuento'
 date: 2020-01-24 09:58:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615nr-knLzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/615nr-knLzL._SL200_.jpg' ]

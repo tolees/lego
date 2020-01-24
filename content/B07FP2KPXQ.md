@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75223 Star Wars Microfighters Naboo' al 27.252502780867626 % de descuento
+title: 'LEGO 75223 Star Wars Microfighters Naboo al 27.252502780867626 % de descuento'
 date: 2019/12/19 09:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51quC5pEziL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51quC5pEziL._SL200_.jpg' ]

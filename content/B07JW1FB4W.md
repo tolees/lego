@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.37458193979933 % en 'LEGO Jungen T-Shirt Lego Boy Ninjago CM-'
+title: 'Descuento del 72.37458193979933 % en LEGO Jungen T-Shirt Lego Boy Ninjago CM-'
 date: 2019/12/04 13:39:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xESelgenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xESelgenL._SL200_.jpg' ]

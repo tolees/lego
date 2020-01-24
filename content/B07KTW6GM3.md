@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.869239103258593 % en 'LEGO 70677 NINJAGO Land Bounty Vehicle  '
+title: 'Descuento del 30.869239103258593 % en LEGO 70677 NINJAGO Land Bounty Vehicle  '
 date: 2020-01-04 20:59:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TsIa57BPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TsIa57BPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.57551078725531 % en 'LEGO Disney Princess 43172 - Elsas magis'
+title: 'Descuento del 28.57551078725531 % en LEGO Disney Princess 43172 - Elsas magis'
 date: 2019/12/05 17:37:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sEY4E31sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sEY4E31sL._SL200_.jpg' ]

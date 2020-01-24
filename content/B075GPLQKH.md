@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.02801867911942 % en 'LEGO 60180 City Great Vehicles Monster T'
+title: 'Descuento del 42.02801867911942 % en LEGO 60180 City Great Vehicles Monster T'
 date: 2019/12/23 20:44:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg' ]

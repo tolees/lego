@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain  VG  Lego ' al 33.84615384615384 % de descuento
+title: 'Warner Bros Interactive Spain  VG  Lego  al 33.84615384615384 % de descuento'
 date: 2019/10/18 21:22:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nd3TRXrnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nd3TRXrnL._SL200_.jpg' ]

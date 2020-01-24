@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.43340208763048 % en 'LEGO Star Wars 75083 - AT-DP'
+title: 'Descuento del 34.43340208763048 % en LEGO Star Wars 75083 - AT-DP'
 date: 2019/12/26 09:12:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61D4iyYDlEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61D4iyYDlEL._SL200_.jpg' ]

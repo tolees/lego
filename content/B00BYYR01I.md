@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.585835257890686 % en 'Lego Star Wars R2-D2 Key Light [With Bat'
+title: 'Descuento del 61.585835257890686 % en Lego Star Wars R2-D2 Key Light [With Bat'
 date: 2020-01-08 23:01:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eSK%2B1IM3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eSK%2B1IM3L._SL200_.jpg' ]

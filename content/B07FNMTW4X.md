@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75262 Star Wars Imperial Dropship-2' al 25.012506253126553 % de descuento
+title: 'LEGO 75262 Star Wars Imperial Dropship-2 al 25.012506253126553 % de descuento'
 date: 2019/11/14 20:49:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UEKTliafL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UEKTliafL._SL200_.jpg' ]

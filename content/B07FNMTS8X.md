@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 60210 City Polizei Fliegerstützpunk' al 28.01706894252567 % de descuento
+title: 'Lego 60210 City Polizei Fliegerstützpunk al 28.01706894252567 % de descuento'
 date: 2019/12/22 19:08:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ki1aoEgAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ki1aoEgAL._SL200_.jpg' ]

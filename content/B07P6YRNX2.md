@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.55704697986577 % en 'Custom Brick Design Sith Lord Darth Nihi'
+title: 'Descuento del 33.55704697986577 % en Custom Brick Design Sith Lord Darth Nihi'
 date: 2020-01-08 15:12:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q6FYCYCuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q6FYCYCuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.007144898542457 % en 'LEGO 75973 Overwatch D.Va & Reinhardt Mi'
+title: 'Descuento del 25.007144898542457 % en LEGO 75973 Overwatch D.Va & Reinhardt Mi'
 date: 2019/12/20 09:02:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5124OFSBoKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5124OFSBoKL._SL200_.jpg' ]

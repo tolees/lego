@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.008336112037345 % en 'LEGO 10769 4+ Toy Story 4 RV Vacation Tr'
+title: 'Descuento del 25.008336112037345 % en LEGO 10769 4+ Toy Story 4 RV Vacation Tr'
 date: 2019/12/19 09:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T1rICl35L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T1rICl35L._SL200_.jpg' ]

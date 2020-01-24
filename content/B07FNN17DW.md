@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60213 Feuerwehr am Hafen' al 33.95597064709806 % de descuento
+title: 'LEGO City 60213 Feuerwehr am Hafen al 33.95597064709806 % de descuento'
 date: 2020-01-23 09:26:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w9tQiNx4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w9tQiNx4L._SL200_.jpg' ]

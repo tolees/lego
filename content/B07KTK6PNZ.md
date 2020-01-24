@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.14248345899368 % en 'LEGO 70676 NINJAGO Lloyd s Titan Mech Ac'
+title: 'Descuento del 26.14248345899368 % en LEGO 70676 NINJAGO Lloyd s Titan Mech Ac'
 date: 2019/11/11 16:23:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51APmx%2Bi9rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51APmx%2Bi9rL._SL200_.jpg' ]

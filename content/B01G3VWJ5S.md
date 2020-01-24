@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO - Starter Pack Dimensions  Wii U ' al 32.76063386155129 % de descuento
+title: 'LEGO - Starter Pack Dimensions  Wii U  al 32.76063386155129 % de descuento'
 date: 2020-01-24 02:05:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61vZvXFUPGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61vZvXFUPGL._SL200_.jpg' ]

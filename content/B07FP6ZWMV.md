@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 76116 DC Super Heroes Batman Batsub' al 27.313656828414203 % de descuento
+title: 'LEGO 76116 DC Super Heroes Batman Batsub al 27.313656828414203 % de descuento'
 date: 2019/12/03 09:09:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C27u5rD8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C27u5rD8L._SL200_.jpg' ]

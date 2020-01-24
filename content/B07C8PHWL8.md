@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 10263 Creator Winterliche Feuerwach' al 25.147238582064666 % de descuento
+title: 'LEGO 10263 Creator Winterliche Feuerwach al 25.147238582064666 % de descuento'
 date: 2020-01-21 11:02:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DODc79JXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DODc79JXL._SL200_.jpg' ]

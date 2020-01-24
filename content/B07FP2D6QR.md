@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.964982491245618 % en 'LEGO 41365 Friends Emma s Art Studio Pla'
+title: 'Descuento del 29.964982491245618 % en LEGO 41365 Friends Emma s Art Studio Pla'
 date: 2019/12/07 20:47:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517-upahnrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517-upahnrL._SL200_.jpg' ]

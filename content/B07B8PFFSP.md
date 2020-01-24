@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.70141784820684 % en 'LEGO Star Wars Minifigur 4-Lom mit 2 GAL'
+title: 'Descuento del 41.70141784820684 % en LEGO Star Wars Minifigur 4-Lom mit 2 GAL'
 date: 2020-01-23 18:16:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg' ]

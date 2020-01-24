@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21314 Ideas TRON: Legacy 2x Light C' al 30.01000333444481 % de descuento
+title: 'LEGO 21314 Ideas TRON: Legacy 2x Light C al 30.01000333444481 % de descuento'
 date: 2019/11/23 08:57:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m6MlLoQhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m6MlLoQhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.027027027027028 % en 'LEGO Friends 41020 Hedgehog s Hideaway'
+title: 'Descuento del 27.027027027027028 % en LEGO Friends 41020 Hedgehog s Hideaway'
 date: 2019/12/20 16:42:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5152Pshe-XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5152Pshe-XL._SL200_.jpg' ]

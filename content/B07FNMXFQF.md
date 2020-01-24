@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 42095 Technic Remote-Controlled Stu' al 28.57551078725531 % de descuento
+title: 'LEGO 42095 Technic Remote-Controlled Stu al 28.57551078725531 % de descuento'
 date: 2019/11/27 08:41:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8M2O0Q-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8M2O0Q-L._SL200_.jpg' ]

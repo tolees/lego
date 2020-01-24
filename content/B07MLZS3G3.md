@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spieland 35St. Custom Waffen Set für Min' al 33.355570380253496 % de descuento
+title: 'Spieland 35St. Custom Waffen Set für Min al 33.355570380253496 % de descuento'
 date: 2020-01-23 18:16:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qtkreln-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qtkreln-L._SL200_.jpg' ]

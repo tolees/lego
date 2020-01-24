@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75113 - Rogue One Actionf' al 74.57627118644068 % de descuento
+title: 'LEGO Star Wars 75113 - Rogue One Actionf al 74.57627118644068 % de descuento'
 date: 2019/12/19 16:48:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mB3epvAGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mB3epvAGL._SL200_.jpg' ]

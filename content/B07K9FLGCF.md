@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.557253180732268 % en 'LEGO 75253 Star Wars BOOST Droid Command'
+title: 'Descuento del 30.557253180732268 % en LEGO 75253 Star Wars BOOST Droid Command'
 date: 2020-01-12 08:28:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2BNBhaFOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w%2BNBhaFOL._SL200_.jpg' ]

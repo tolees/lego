@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 40253 Build Up Playset  24-in-1 Mod' al 43.77736085053158 % de descuento
+title: 'LEGO 40253 Build Up Playset  24-in-1 Mod al 43.77736085053158 % de descuento'
 date: 2020-01-05 22:14:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515XP3COZ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515XP3COZ-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75251 Star Wars Darth Vader s Castl' al 25.827152262688557 % de descuento
+title: 'LEGO 75251 Star Wars Darth Vader s Castl al 25.827152262688557 % de descuento'
 date: 2019/11/02 00:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dA11MypxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dA11MypxL._SL200_.jpg' ]

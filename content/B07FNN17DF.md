@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10897 - Meine erste Minnie Ma' al 31.431431431431434 % de descuento
+title: 'LEGO DUPLO 10897 - Meine erste Minnie Ma al 31.431431431431434 % de descuento'
 date: 2019/12/22 19:08:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eMPXGl--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eMPXGl--L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60232 City Town Garage Center Cars ' al 25.007144898542457 % de descuento
+title: 'LEGO 60232 City Town Garage Center Cars  al 25.007144898542457 % de descuento'
 date: 2020-01-08 08:33:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517p4or%2B15L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517p4or%2B15L._SL200_.jpg' ]

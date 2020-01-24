@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Deluxe Emmet Costume' al 65.00650065006501 % de descuento
+title: 'LEGO Deluxe Emmet Costume al 65.00650065006501 % de descuento'
 date: 2020-01-24 01:33:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/419Kym7W5BL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419Kym7W5BL._AC_._SL200_.jpg' ]
