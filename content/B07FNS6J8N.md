@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10900 - Polizeimotorrad al 32.532532532532535 % de descuento'
+title: 'LEGO DUPLO 10900 - Polizeimotorrad al 32.53 % de descuento'
 date: 2019/12/31 10:03:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OrXFTSqYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OrXFTSqYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [LEGO DUPLO 10900 - Polizeimotorrad](https://www.amazon.com/dp/B07FNS6J8N/?tag=redken08-20) con 32.532532532532535 por 6.74 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [LEGO DUPLO 10900 - Polizeimotorrad](https://www.amazon.com/dp/B07FNS6J8N/?tag=redken08-20) con 32.53 de descuento por 6.74 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OrXFTSqYL._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6J8N/?tag=redken08-20)
 

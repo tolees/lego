@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Creator Banco - Juegos de construcc al 50.214346956273225 % de descuento'
+title: 'LEGO Creator Banco - Juegos de construcc al 50.21 % de descuento'
 date: 2019/11/07 15:18:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61pBRkpa68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61pBRkpa68L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 349.9 EUR
 inStock: true
 ---
 
-Está [LEGO Creator Banco - Juegos de construcción  Multicolor  16 año s   2380 Pieza s   Niño/niña  25 cm  25 cm ](https://www.amazon.com/dp/B01AC1E0CA/?tag=redken08-20) con 50.214346956273225 por 174.2 EUR (original: 349.9 EUR) en el siguiente enlace!
+Está [LEGO Creator Banco - Juegos de construcción  Multicolor  16 año s   2380 Pieza s   Niño/niña  25 cm  25 cm ](https://www.amazon.com/dp/B01AC1E0CA/?tag=redken08-20) con 50.21 de descuento por 174.2 EUR (original: 349.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61pBRkpa68L._SL200_.jpg)](https://www.amazon.com/dp/B01AC1E0CA/?tag=redken08-20)
 

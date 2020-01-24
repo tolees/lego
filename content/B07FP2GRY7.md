@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.012004801920767 % en LEGO 60223 City Great Vehicles Harvester'
+title: 'Descuento del 30.01 % en LEGO 60223 City Great Vehicles Harvester'
 date: 2020-01-24 09:19:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jQCr4hHnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jQCr4hHnL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 60223 City Great Vehicles Harvester Transport with Truck and Trailer  plus Combine Tractor Toy  2 Minifigures and Scarecrow Figure  Farm Toys for 5+](https://www.amazon.com/dp/B07FP2GRY7/?tag=redken08-20) con un 30.012004801920767 % con precio de oferta de 17.49 GBP (original: 24.99 GBP) en el siguiente enlace!
+Tienes [LEGO 60223 City Great Vehicles Harvester Transport with Truck and Trailer  plus Combine Tractor Toy  2 Minifigures and Scarecrow Figure  Farm Toys for 5+](https://www.amazon.com/dp/B07FP2GRY7/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 17.49 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51jQCr4hHnL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FP2GRY7/?tag=redken08-20)
 

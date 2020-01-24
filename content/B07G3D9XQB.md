@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.978659553184386 % en LEGO 75946 Harry Potter Hungarian Hornta'
+title: 'Descuento del 35.98 % en LEGO 75946 Harry Potter Hungarian Hornta'
 date: 2019/11/06 09:53:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517OJ40AdXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517OJ40AdXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 75946 Harry Potter Hungarian Horntail Triwizard Challenge Dragon Toy  Gift Idea for Wizarding World Fans  Multicolour](https://www.amazon.com/dp/B07G3D9XQB/?tag=redken08-20) con un 35.978659553184386 % con precio de oferta de 19.2 GBP (original: 29.99 GBP) en el siguiente enlace!
+Tienes [LEGO 75946 Harry Potter Hungarian Horntail Triwizard Challenge Dragon Toy  Gift Idea for Wizarding World Fans  Multicolour](https://www.amazon.com/dp/B07G3D9XQB/?tag=redken08-20) con un 35.98 % de descuento con precio de oferta de 19.2 GBP (original: 29.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517OJ40AdXL._SL200_.jpg)](https://www.amazon.com/dp/B07G3D9XQB/?tag=redken08-20)
 

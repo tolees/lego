@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 39.1389432485323 % en Warner Bros Interactive Spain  VG  Lego '
+title: 'Descuento del 39.14 % en Warner Bros Interactive Spain  VG  Lego '
 date: 2020-01-22 01:35:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519F1L1MICL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519F1L1MICL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45.99 EUR
 inStock: true
 ---
 
-Tienes [Warner Bros Interactive Spain  VG  Lego Dimensions: Nuevo Ghostbuster  Story Pack ](https://www.amazon.com/dp/B01H0GAGG4/?tag=redken08-20) con un 39.1389432485323 % con precio de oferta de 27.99 EUR (original: 45.99 EUR) en el siguiente enlace!
+Tienes [Warner Bros Interactive Spain  VG  Lego Dimensions: Nuevo Ghostbuster  Story Pack ](https://www.amazon.com/dp/B01H0GAGG4/?tag=redken08-20) con un 39.14 % de descuento con precio de oferta de 27.99 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/519F1L1MICL._SL200_.jpg)](https://www.amazon.com/dp/B01H0GAGG4/?tag=redken08-20)
 
