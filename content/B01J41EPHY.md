@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41313 Friends Heartlake Summer Pool'
+title: 'LEGO 41313 Friends Heartlake Summer Pool' al 25.004546281142026 % de descuento
 date: 2019/12/25 09:10:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61vJy6pdQSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61vJy6pdQSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41313 Friends Heartlake Summer Pool Party Set](https://www.amazon.com/dp/B01J41EPHY/?tag=redken08-20) por 41.24 GBP (original: 54.99 GBP) en el siguiente enlace!
+Está [LEGO 41313 Friends Heartlake Summer Pool Party Set](https://www.amazon.com/dp/B01J41EPHY/?tag=redken08-20) con 25.004546281142026 por 41.24 GBP (original: 54.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61vJy6pdQSL._SL200_.jpg)](https://www.amazon.com/dp/B01J41EPHY/?tag=redken08-20)
 

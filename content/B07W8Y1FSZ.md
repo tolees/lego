@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 70432 - Geister-Jahrmarkt  Hidden S'
+title: 'LEGO 70432 - Geister-Jahrmarkt  Hidden S' al 28.18563712742549 % de descuento
 date: 2020-01-10 17:14:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g2zI6pJdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g2zI6pJdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 70432 - Geister-Jahrmarkt  Hidden Side  Bauset](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20) a 35.9 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70432 - Geister-Jahrmarkt  Hidden Side  Bauset](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20) a 35.9 EUR (original: 49.99 EUR) (28.18563712742549 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51g2zI6pJdL._SL200_.jpg)](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20)
 

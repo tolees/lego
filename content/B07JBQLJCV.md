@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75971 Overwatch Hanzo vs. Genji Toy'
+title: 'LEGO 75971 Overwatch Hanzo vs. Genji Toy' al 28.091236494597837 % de descuento
 date: 2020-01-19 17:02:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kvcWzIyaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kvcWzIyaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Está [LEGO 75971 Overwatch Hanzo vs. Genji Toys with Shimada Henchman Minifigure](https://www.amazon.com/dp/B07JBQLJCV/?tag=redken08-20) por 17.97 GBP (original: 24.99 GBP) en el siguiente enlace!
+Está [LEGO 75971 Overwatch Hanzo vs. Genji Toys with Shimada Henchman Minifigure](https://www.amazon.com/dp/B07JBQLJCV/?tag=redken08-20) con 28.091236494597837 por 17.97 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51kvcWzIyaL._SL200_.jpg)](https://www.amazon.com/dp/B07JBQLJCV/?tag=redken08-20)
 

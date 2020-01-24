@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Batman 3: Mas Allá De Gotham'
+title: 'Lego Batman 3: Mas Allá De Gotham' al 66.77039342076017 % de descuento
 date: 2020-01-18 02:34:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61SuoP6K6NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61SuoP6K6NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Está [Lego Batman 3: Mas Allá De Gotham](https://www.amazon.com/dp/B00NUYXCFI/?tag=redken08-20) por 14.95 EUR (original: 44.99 EUR) en el siguiente enlace!
+Está [Lego Batman 3: Mas Allá De Gotham](https://www.amazon.com/dp/B00NUYXCFI/?tag=redken08-20) con 66.77039342076017 por 14.95 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61SuoP6K6NL._SL200_.jpg)](https://www.amazon.com/dp/B00NUYXCFI/?tag=redken08-20)
 

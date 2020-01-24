@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City - Rectas y cruces  7280 '
+title: 'LEGO City - Rectas y cruces  7280 ' al 58.798999165971644 % de descuento
 date: 2019/12/13 17:08:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n7frOyhkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n7frOyhkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Está [LEGO City - Rectas y cruces  7280 ](https://www.amazon.com/dp/B0009JACGO/?tag=redken08-20) por 4.94 EUR (original: 11.99 EUR) en el siguiente enlace!
+Está [LEGO City - Rectas y cruces  7280 ](https://www.amazon.com/dp/B0009JACGO/?tag=redken08-20) con 58.798999165971644 por 4.94 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51n7frOyhkL._SL200_.jpg)](https://www.amazon.com/dp/B0009JACGO/?tag=redken08-20)
 
