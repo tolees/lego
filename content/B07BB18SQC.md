@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Star Wars Minifigur A-Wing Pilot Ta'
+title: 'Lego Star Wars Minifigur A-Wing Pilot Ta al 38.49 % de descuento'
 date: 2020-01-25 18:16:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SAtd27MvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SAtd27MvL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Está [Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit GALAXYARMS Waffe](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20) por 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!
+Está [Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit GALAXYARMS Waffe](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20) con 38.49 de descuento por 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51SAtd27MvL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20)
 

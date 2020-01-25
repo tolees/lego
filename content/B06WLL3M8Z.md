@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars - Rey  75528 '
+title: 'LEGO Star Wars - Rey  75528  al 29.64 % de descuento'
 date: 2019/11/24 22:48:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Está [LEGO Star Wars - Rey  75528 ](https://www.amazon.com/dp/B06WLL3M8Z/?tag=redken08-20) por 18.99 EUR (original: 26.99 EUR) en el siguiente enlace!
+Está [LEGO Star Wars - Rey  75528 ](https://www.amazon.com/dp/B06WLL3M8Z/?tag=redken08-20) con 29.64 de descuento por 18.99 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg)](https://www.amazon.com/dp/B06WLL3M8Z/?tag=redken08-20)
 
