@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41386 Friends Stephanie s Summer He al 30.04 % de descuento'
+title: 'LEGO 41386 Friends Stephanie s Summer He'
 date: 2019/12/26 08:59:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oUrwaEspL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oUrwaEspL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.99 GBP
 inStock: true
 ---
 
-Está [LEGO 41386 Friends Stephanie s Summer Heart Box Toy  Collectible Dolls Set](https://www.amazon.com/dp/B07KTTSJTZ/?tag=redken08-20) con 30.04 de descuento por 5.59 GBP (original: 7.99 GBP) en el siguiente enlace!
+Está [LEGO 41386 Friends Stephanie s Summer Heart Box Toy  Collectible Dolls Set](https://www.amazon.com/dp/B07KTTSJTZ/?tag=redken08-20) por 5.59 GBP (original: 7.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51oUrwaEspL._SL200_.jpg)](https://www.amazon.com/dp/B07KTTSJTZ/?tag=redken08-20)
 

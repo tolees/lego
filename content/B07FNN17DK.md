@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 60207 City Polizei Drohnenjagd  bun al 30.02 % de descuento'
+title: 'Lego 60207 City Polizei Drohnenjagd  bun'
 date: 2020-01-23 10:02:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gNDDfCPML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gNDDfCPML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Lego 60207 City Polizei Drohnenjagd  bunt](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Lego 60207 City Polizei Drohnenjagd  bunt](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20) por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gNDDfCPML._SL200_.jpg)](https://www.amazon.com/dp/B07FNN17DK/?tag=redken08-20)
 
