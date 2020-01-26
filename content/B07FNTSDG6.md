@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60240 City Great Vehicles Kayak Adv al 34.93 % de descuento'
+title: 'LEGO 60240 City Great Vehicles Kayak Adv'
 date: 2019/11/28 08:29:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514tgaBgGKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514tgaBgGKL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60240 City Great Vehicles Kayak Adventure Boat and Truck Toys with Explorer Minifigure  Holiday Sets for Kids](https://www.amazon.com/dp/B07FNTSDG6/?tag=redken08-20) a 6.5 GBP (original: 9.99 GBP) (34.93 %  de descuento) en el siguiente enlace!
+Está [LEGO 60240 City Great Vehicles Kayak Adventure Boat and Truck Toys with Explorer Minifigure  Holiday Sets for Kids](https://www.amazon.com/dp/B07FNTSDG6/?tag=redken08-20) por 6.5 GBP (original: 9.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514tgaBgGKL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSDG6/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNTSDG6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNTSDG6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.01 % en LEGO 70829 Movie 2 with Emmet  Lucy and '
+title: 'LEGO 70829 Movie 2 with Emmet  Lucy and '
 date: 2020-01-24 01:34:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 70829 Movie 2 with Emmet  Lucy and Sharkira Minifigures  3 Buildable Figures and Exploding Vehicle Construction Set](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20) con un 40.01 % de descuento con precio de oferta de 26.99 GBP (original: 44.99 GBP) en el siguiente enlace!
+Tienes [LEGO 70829 Movie 2 with Emmet  Lucy and Sharkira Minifigures  3 Buildable Figures and Exploding Vehicle Construction Set](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20) a precio de oferta de 26.99 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20)
 
