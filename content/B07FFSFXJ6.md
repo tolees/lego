@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego DC Super-Villans Xbox One  Edición  al 60.20 % de descuento'
-date: 2020-01-25 18:17:49
+date: 2020-01-27 18:03:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Yi39HTeIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Yi39HTeIL._AC_._SL200_.jpg' ]
 comments: true

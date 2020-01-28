@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO NINJAGO 70666 - Goldener Drache al 31.67 % de descuento'
-date: 2020-01-23 17:40:01
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wfX1CpRSL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wfX1CpRSL._SL200_.jpg' ]
+title: 'LEGO NINJAGO 70666 - Goldener Drache al 30.02 % de descuento'
+date: 2020-01-28 01:39:51
+thumbnailImage: 'https://m.media-amazon.com/images/I/51wfX1CpRSL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51wfX1CpRSL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FP6QNP8
 description:
-actualPrice: 13.66 EUR
+actualPrice: 13.99 EUR
 comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [LEGO NINJAGO 70666 - Goldener Drache](https://www.amazon.com/dp/B07FP6QNP8/?tag=redken08-20) con 31.67 de descuento por 13.66 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [LEGO NINJAGO 70666 - Goldener Drache](https://www.amazon.com/dp/B07FP6QNP8/?tag=redken08-20) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51wfX1CpRSL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QNP8/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51wfX1CpRSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QNP8/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07FP6QNP8/?tag=redken08-20)
 

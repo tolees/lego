@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Universe Super Heroes 76118 Supe al 28.73 % de descuento'
-date: 2020-01-25 18:20:29
+date: 2020-01-27 18:20:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vRzCkhh4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vRzCkhh4L._AC_._SL200_.jpg' ]
 comments: true
