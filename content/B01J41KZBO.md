@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75524 Star Wars Chirrut Imwe al 26.91 % de descuento'
-date: 2020-01-28 09:50:34
+date: 2020-01-29 11:19:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PMs4UDWNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PMs4UDWNL._AC_._SL200_.jpg' ]
 comments: true
