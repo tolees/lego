@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Star Wars Minifigur A-Wing Pilot Ta al 38.49 % de descuento'
-date: 2020-01-28 19:15:23
+date: 2020-01-29 19:16:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SAtd27MvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SAtd27MvL._AC_._SL200_.jpg' ]
 comments: true
