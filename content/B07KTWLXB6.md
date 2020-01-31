@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Lego Ninjago 70673 ShuriCopter  Bauset'
-date: 2020-01-29 02:47:05
+date: 2020-01-31 04:46:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg' ]
 comments: true
