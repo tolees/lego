@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.71 % en Lego Star Wars - Bañador para niño - Leg'
-date: 2020-01-26 10:23:56
+date: 2020-02-03 14:00:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bFYL9QE7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bFYL9QE7L._AC_._SL200_.jpg' ]
 comments: true
