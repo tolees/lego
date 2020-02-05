@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO 60235 City Adventskalender  Bauset '
-date: 2019/12/26 21:43:41 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-i5Gjf2xL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-i5Gjf2xL._SL200_.jpg' ]
+title: 'Descuento del 29.98 % en LEGO City Town - Calendario de Adviento '
+date: 2020-02-05 19:32:40
+thumbnailImage: 'https://m.media-amazon.com/images/I/51-i5Gjf2xL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51-i5Gjf2xL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NDBT4J3
 description:
-actualPrice: 14.99 EUR
-comparePrice: 19.99 EUR
+actualPrice: 15.37 EUR
+comparePrice: 21.95 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60235 City Adventskalender  Bauset  bunt](https://www.amazon.com/dp/B07NDBT4J3/?tag=redken08-20) a precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [LEGO City Town - Calendario de Adviento 2019  Set con 24 Juguetes de Construcción  Incluye Minifigura de Papá Noel y un Perro Husky  60235 ](https://www.amazon.com/dp/B07NDBT4J3/?tag=redken08-20) con un 29.98 % de descuento con precio de oferta de 15.37 EUR (original: 21.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51-i5Gjf2xL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBT4J3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51-i5Gjf2xL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NDBT4J3/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07NDBT4J3/?tag=redken08-20)
 
