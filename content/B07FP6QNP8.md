@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.02 % en LEGO NINJAGO 70666 - Goldener Drache'
-date: 2020-02-04 04:51:39
+date: 2020-02-05 11:50:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wfX1CpRSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wfX1CpRSL._AC_._SL200_.jpg' ]
 comments: true
