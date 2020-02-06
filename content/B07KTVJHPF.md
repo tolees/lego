@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.74 % en LEGO 60226 - City Mars-Forschungsshuttle'
-date: 2020-02-05 13:18:58
+date: 2020-02-06 19:21:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AhIenYAHL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AhIenYAHL._AC_._SL200_.jpg' ]
 comments: true
