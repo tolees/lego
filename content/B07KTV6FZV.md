@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.18 % en LEGO DC Batman Batmobile 76119 - Verfolg'
-date: 2020-02-05 03:20:41
+date: 2020-02-07 10:00:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DyRVZhHEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DyRVZhHEL._AC_._SL200_.jpg' ]
 comments: true
