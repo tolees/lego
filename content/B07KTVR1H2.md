@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.84 % en LEGO 60234 City Town People Pack - Fun F'
-date: 2020-02-08 01:40:13
+date: 2020-02-09 07:15:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lj9N0tq2L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lj9N0tq2L._AC_._SL200_.jpg' ]
 comments: true
