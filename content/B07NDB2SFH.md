@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Bauset  Mehrf al 28.53 % de descuento'
-date: 2020-02-08 16:17:34
+date: 2020-02-10 16:23:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QMdrCFCmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QMdrCFCmL._AC_._SL200_.jpg' ]
 comments: true
