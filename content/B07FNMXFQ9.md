@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.23 % en LEGO City 60219 Frontlader'
-date: 2019/12/17 09:27:22 +0000
+title: 'Descuento del 28.23 % en LEGO 60219 City Great Vehicles Construct'
+date: 2019/12/20 00:41:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513et77M7BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513et77M7BL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNMXFQ9
 description:
-actualPrice: 6.97 EUR
-comparePrice: 9.99 EUR
+actualPrice: 7.17 GBP
+comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO City 60219 Frontlader](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20) con un 30.23 % de descuento con precio de oferta de 6.97 EUR (original: 9.99 EUR) en el siguiente enlace!
+Tienes [LEGO 60219 City Great Vehicles Construction Loader Building Truck Toy with Road Worker Minifigure](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20) con un 28.23 % de descuento con precio de oferta de 7.17 GBP (original: 9.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513et77M7BL._SL200_.jpg)](https://www.amazon.com/dp/B07FNMXFQ9/?tag=redken08-20)
 
