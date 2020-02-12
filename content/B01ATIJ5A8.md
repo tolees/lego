@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Series 15 Collectible Minifigure 71 al 29.90 % de descuento'
-date: 2020-01-31 05:23:11
+date: 2020-02-02 04:53:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BSC7NEogL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BSC7NEogL._AC_._SL200_.jpg' ]
 comments: true

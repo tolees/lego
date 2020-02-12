@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 29.25 % en LEGO DUPLO Güterzug  10875  Kinderspielz'
-date: 2020-02-03 14:53:35
+title: 'Descuento del 28.61 % en LEGO DUPLO Güterzug  10875  Kinderspielz'
+date: 2020-02-11 21:22:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FvIBba2aL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FvIBba2aL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0765CFDRH
 description:
-actualPrice: 84.89 EUR
+actualPrice: 85.66 EUR
 comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO DUPLO Güterzug  10875  Kinderspielzeug](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20) con un 29.25 % de descuento con precio de oferta de 84.89 EUR (original: 119.99 EUR) en el siguiente enlace!
+Tienes [LEGO DUPLO Güterzug  10875  Kinderspielzeug](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20) con un 28.61 % de descuento con precio de oferta de 85.66 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51FvIBba2aL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20)
 
