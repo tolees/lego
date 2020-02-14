@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 25.01 % en LEGO 31096 Creator 3-in-1 Twin Rotor Hel'
-date: 2019/12/20 09:02:16 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lFKWHDmKL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lFKWHDmKL._SL200_.jpg' ]
+title: 'Descuento del 31.21 % en LEGO 31096 - Creator 3-in-1-Set Doppelro'
+date: 2020-02-13 15:25:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/51lFKWHDmKL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51lFKWHDmKL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTWLXB1
 description:
-actualPrice: 33.74 GBP
-comparePrice: 44.99 GBP
+actualPrice: 34.39 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 31096 Creator 3-in-1 Twin Rotor Helicopter Toy  Jet and ROV Submarine Set](https://www.amazon.com/dp/B07KTWLXB1/?tag=redken08-20) con un 25.01 % de descuento con precio de oferta de 33.74 GBP (original: 44.99 GBP) en el siguiente enlace!
+Tienes [LEGO 31096 - Creator 3-in-1-Set Doppelrotor-Hubschrauber](https://www.amazon.com/dp/B07KTWLXB1/?tag=redken08-20) con un 31.21 % de descuento con precio de oferta de 34.39 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51lFKWHDmKL._SL200_.jpg)](https://www.amazon.com/dp/B07KTWLXB1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51lFKWHDmKL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTWLXB1/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07KTWLXB1/?tag=redken08-20)
 
