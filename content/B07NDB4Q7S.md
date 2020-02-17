@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.50 % en LEGO 75257 Star Wars Millennium Falcon  '
-date: 2020-02-15 23:26:34
+date: 2020-02-17 03:59:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/510H2U3sCtL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510H2U3sCtL._AC_._SL200_.jpg' ]
 comments: true
