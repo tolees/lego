@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41403 Friends Mias magischer Würfel al 31.43 % de descuento'
-date: 2020-02-08 09:16:01
+date: 2020-02-17 13:38:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51naWBwNlwL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51naWBwNlwL._AC_._SL200_.jpg' ]
 comments: true
