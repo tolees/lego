@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 25.01 % en LEGO 60173 City Mountain Police Mountain'
-date: 2019/11/01 12:53:09 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619FhOQuq8L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619FhOQuq8L._SL200_.jpg' ]
+title: 'Descuento del 28.01 % en LEGO City 60173 - Bergpolizei Festnahme '
+date: 2019/12/10 10:40:16 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61G5GqBuiwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61G5GqBuiwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B075GWF9YP
 description:
-actualPrice: 29.99 GBP
-comparePrice: 39.99 GBP
+actualPrice: 35.99 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60173 City Mountain Police Mountain Arrest Chase Chinook Helicopter with Net Shooter  Buggy  3 Minifigures and Bear Figure  Adventure Sets for Kids](https://www.amazon.com/dp/B075GWF9YP/?tag=redken08-20) con un 25.01 % de descuento con precio de oferta de 29.99 GBP (original: 39.99 GBP) en el siguiente enlace!
+Tienes [LEGO City 60173 - Bergpolizei Festnahme in den Bergen  Kinderspielzeug](https://www.amazon.com/dp/B075GWF9YP/?tag=redken08-20) con un 28.01 % de descuento con precio de oferta de 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/619FhOQuq8L._SL200_.jpg)](https://www.amazon.com/dp/B075GWF9YP/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/61G5GqBuiwL._SL200_.jpg)](https://www.amazon.com/dp/B075GWF9YP/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B075GWF9YP/?tag=redken08-20)
 
