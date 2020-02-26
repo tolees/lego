@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain Lego Dimen al 70.02 % de descuento'
-date: 2020-02-24 12:15:29
+date: 2020-02-26 12:17:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/5127Dd0sfmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5127Dd0sfmL._AC_._SL200_.jpg' ]
 comments: true
