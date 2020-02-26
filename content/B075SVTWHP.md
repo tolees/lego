@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41335 Friends Heartlake Mia’s Tree  al 32.09 % de descuento'
-date: 2020-02-21 08:47:35
+title: 'LEGO Friends 41335 - Mias Baumhaus  Kons al 25.44 % de descuento'
+date: 2020-02-22 09:27:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t7GK4hjuL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t7GK4hjuL._AC_._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B075SVTWHP
 description:
-actualPrice: 16.97 GBP
-comparePrice: 24.99 GBP
+actualPrice: 22.36 EUR
+comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [LEGO 41335 Friends Heartlake Mia’s Tree House Playset  Mia and Daniel Mini Dolls  Build and Play Fun Toys for Kids](https://www.amazon.com/dp/B075SVTWHP/?tag=redken08-20) con 32.09 de descuento por 16.97 GBP (original: 24.99 GBP) en el siguiente enlace!
+Está [LEGO Friends 41335 - Mias Baumhaus  Konstruktionsspielzeug](https://www.amazon.com/dp/B075SVTWHP/?tag=redken08-20) con 25.44 de descuento por 22.36 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51t7GK4hjuL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B075SVTWHP/?tag=redken08-20)
 
