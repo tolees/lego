@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41165 Disney Frozen II Anna s Canoe al 44.41 % de descuento'
-date: 2020-02-25 03:52:33
+date: 2020-02-27 03:53:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uhQCPb9iL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uhQCPb9iL._AC_._SL200_.jpg' ]
 comments: true
