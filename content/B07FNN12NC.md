@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.02 % en LEGO Friends - Aventura en el Bosque de '
-date: 2020-02-28 20:23:44
+date: 2020-03-01 20:21:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Mt0XGXypL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Mt0XGXypL._AC_._SL200_.jpg' ]
 comments: true
