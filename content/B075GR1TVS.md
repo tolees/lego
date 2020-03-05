@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars - Han Solo  75535  al 34.48 % de descuento'
-date: 2020-03-03 12:16:09
+date: 2020-03-05 10:52:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RdSdlNc9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RdSdlNc9L._AC_._SL200_.jpg' ]
 comments: true

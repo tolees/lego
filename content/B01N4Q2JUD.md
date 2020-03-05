@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.75 % en Lego 30522 The Batman Movie Exclusive Po'
-date: 2020-03-04 09:07:48
+date: 2020-03-05 10:40:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X3wnK+vbL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X3wnK+vbL._AC_._SL200_.jpg' ]
 comments: true
