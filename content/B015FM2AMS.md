@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.06 % en West Design West DesignLE51475 Lego Juni'
-date: 2020-03-06 18:23:05
+date: 2020-03-08 18:24:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/311qtRSHVAL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311qtRSHVAL._AC_._SL200_.jpg' ]
 comments: true
