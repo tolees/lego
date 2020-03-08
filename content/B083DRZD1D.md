@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.15 % en DUS Light Set for LEGO 42079 Heavy Duty '
-date: 2020-03-07 02:26:36
+date: 2020-03-08 02:31:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ESdGM0NsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ESdGM0NsL._AC_._SL200_.jpg' ]
 comments: true

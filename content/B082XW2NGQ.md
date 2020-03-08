@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.04 % en it if it Technic 4WD RC Off-road Vehicle'
-date: 2020-03-07 02:23:57
+date: 2020-03-08 02:25:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ndDGsDTeL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ndDGsDTeL._AC_._SL200_.jpg' ]
 comments: true
