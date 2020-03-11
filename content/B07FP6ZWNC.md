@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75229 Star Wars Death Star Escape B al 32.01 % de descuento'
-date: 2019/11/29 09:23:22 +0000
+title: 'LEGO Star Wars - Huida de la Estrella de al 25.01 % de descuento'
+date: 2020-01-15 20:16:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515ThWbs%2B%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515ThWbs%2B%2BL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FP6ZWNC
 description:
-actualPrice: 16.99 GBP
-comparePrice: 24.99 GBP
+actualPrice: 22.49 EUR
+comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75229 Star Wars Death Star Escape Battlefront Games Set Collection with Luke Skywalker  Princess Leia and Stormtrooper](https://www.amazon.com/dp/B07FP6ZWNC/?tag=redken08-20) a 16.99 GBP (original: 24.99 GBP) (32.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars - Huida de la Estrella de la Muerte  juguete de construcción para recrear la icónica escena de La Guerra de las Galaxias  75229 ](https://www.amazon.com/dp/B07FP6ZWNC/?tag=redken08-20) a 22.49 EUR (original: 29.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515ThWbs%2B%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6ZWNC/?tag=redken08-20)
 
