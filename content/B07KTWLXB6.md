@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Lego Ninjago 70673 ShuriCopter  Bauset al 31.74 % de descuento'
-date: 2020-02-17 11:58:05
-thumbnailImage: 'https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg' ]
+title: 'Lego Ninjago 70673 ShuriCopter  Bauset al 27.58 % de descuento'
+date: 2020-03-13 17:24:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/51m+rHOeOcL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51m+rHOeOcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTWLXB6
 description:
-actualPrice: 20.47 EUR
+actualPrice: 21.72 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Lego Ninjago 70673 ShuriCopter  Bauset](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20) con 31.74 de descuento por 20.47 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Lego Ninjago 70673 ShuriCopter  Bauset](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20) con 27.58 de descuento por 21.72 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51dmGgo2wxL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51m+rHOeOcL._SL200_.jpg)](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07KTWLXB6/?tag=redken08-20)
 
