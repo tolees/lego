@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.02 % en Lego Chicken Suit Guy Easter Promo Set 5'
-date: 2020-03-13 10:21:57
+date: 2020-03-14 10:24:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51A8sfH6dnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51A8sfH6dnL._SL200_.jpg' ]
 comments: true
