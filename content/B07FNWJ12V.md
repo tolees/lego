@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 31.08 % en LEGO 75241 Star Wars Echo Base Defense i'
-date: 2020-03-12 18:26:08
+title: 'Descuento del 32.54 % en LEGO Star Wars 75241 - Action Battle  Ba'
+date: 2020-03-13 10:35:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51c3YmoDdQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51c3YmoDdQL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNWJ12V
 description:
-actualPrice: 37.9 GBP
-comparePrice: 54.99 GBP
+actualPrice: 40.47 EUR
+comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 75241 Star Wars Echo Base Defense incl. Mini Imperial AT-AT Walker from Episode 5 The Empire Strikes Back Target Shooting Set](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20) con un 31.08 % de descuento con precio de oferta de 37.9 GBP (original: 54.99 GBP) en el siguiente enlace!
+Tienes [LEGO Star Wars 75241 - Action Battle  Bauset](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20) con un 32.54 % de descuento con precio de oferta de 40.47 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51c3YmoDdQL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ12V/?tag=redken08-20)
 
