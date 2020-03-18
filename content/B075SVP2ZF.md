@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Super Heroes Mighty Micros: Supe al 45.15 % de descuento'
-date: 2020-03-16 18:37:34
+date: 2020-03-18 12:16:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zqidxykeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zqidxykeL._SL200_.jpg' ]
 comments: true
