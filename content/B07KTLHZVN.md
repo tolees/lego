@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 28.01 % en LEGO DC Universe Super Heroes 76118 Supe'
-date: 2020-03-02 20:04:06
-thumbnailImage: 'https://m.media-amazon.com/images/I/51vRzCkhh4L._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51vRzCkhh4L._AC_._SL200_.jpg' ]
+title: 'LEGO 76118 DC Mr. Freeze Batcycle Battle al 25.56 % de descuento'
+date: 2020-03-18 20:53:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/51+AXqfLjQL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51+AXqfLjQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTLHZVN
 description:
-actualPrice: 17.99 EUR
-comparePrice: 24.99 EUR
+actualPrice: 14.88 GBP
+comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO DC Universe Super Heroes 76118 Super Heroes Produkttitel fehlt-Wird nachgereicht  Mehrfarbig](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20) con un 28.01 % de descuento con precio de oferta de 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 76118 DC Mr. Freeze Batcycle Battle 2 in1 Bike Set  Batman and Robin Cycle Chase  Multicolour](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20) a 14.88 GBP (original: 19.99 GBP) (25.56 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51vRzCkhh4L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51+AXqfLjQL._SL200_.jpg)](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
