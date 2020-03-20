@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.91 % en LEGO Classic World Fun 10403 Building Ki'
-date: 2020-03-18 20:59:32
+date: 2020-03-20 04:50:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51u3EQqIxzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51u3EQqIxzL._SL200_.jpg' ]
 comments: true
