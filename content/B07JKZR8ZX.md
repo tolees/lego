@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.34 % en LEGO Star Wars The Last Jedi Minifigure '
-date: 2020-03-19 12:57:57
+date: 2020-03-20 12:58:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zI-eEj3GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zI-eEj3GL._SL200_.jpg' ]
 comments: true
