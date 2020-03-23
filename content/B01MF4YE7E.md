@@ -14,10 +14,10 @@ comparePrice: 9.97 USD
 inStock: true
 ---
 
-Está [LEGO Star Wars MiniFigure - Imperial Combat Driver  with Blaster  75141](https://www.amazon.com/dp/B01MF4YE7E/?tag=redken08-20) con 40.32 de descuento por 5.95 USD (original: 9.97 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars MiniFigure - Imperial Combat Driver  with Blaster  75141](https://www.amazon.com/dp/B01MF4YE7E/?tag=redken08-20) a 5.95 USD (original: 9.97 USD) (40.32 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/416uAysYU1L._SL200_.jpg)](https://www.amazon.com/dp/B01MF4YE7E/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01MF4YE7E/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01MF4YE7E/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
