@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Quinlan VOS w Green Lightsaber Star al 63.97 % de descuento'
-date: 2020-03-21 13:03:59
+date: 2020-03-23 12:51:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ob9xCJS7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ob9xCJS7L._SL200_.jpg' ]
 comments: true
