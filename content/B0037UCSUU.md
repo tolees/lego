@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars III The Clone Wars - Sony al 45.22 % de descuento'
-date: 2020-03-21 13:04:08
+date: 2020-03-25 20:58:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/517dlp6FFML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517dlp6FFML._SL200_.jpg' ]
 comments: true

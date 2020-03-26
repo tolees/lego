@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.52 % en LEGO 15 Window & Door Bundle - 10 x 1x4x'
-date: 2020-03-23 20:45:34
+date: 2020-03-25 20:40:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UXHR38GrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UXHR38GrL._SL200_.jpg' ]
 comments: true
