@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Classic 11003 - Bausteine - Witzige al 31.78 % de descuento'
-date: 2020-03-21 09:22:28
+title: 'LEGO Classic 11003 - Bausteine - Witzige al 33.34 % de descuento'
+date: 2020-03-27 09:17:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bkLqIWjXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bkLqIWjXL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FP2KPWS
 description:
-actualPrice: 20.46 EUR
+actualPrice: 19.99 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Classic 11003 - Bausteine - Witzige Figuren](https://www.amazon.com/dp/B07FP2KPWS/?tag=redken08-20) a 20.46 EUR (original: 29.99 EUR) (31.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Classic 11003 - Bausteine - Witzige Figuren](https://www.amazon.com/dp/B07FP2KPWS/?tag=redken08-20) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51bkLqIWjXL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2KPWS/?tag=redken08-20)
 
