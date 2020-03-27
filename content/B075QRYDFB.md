@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.55 % en LEGO Classic Blue Baseplate 10714 Buildi'
-date: 2020-03-26 04:48:55
+date: 2020-03-27 04:55:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kICuHPYPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kICuHPYPL._SL200_.jpg' ]
 comments: true
