@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZJchao Bolsa de almacenamiento- Ideal pa al 41.72 % de descuento'
-date: 2020-03-26 13:24:08
+date: 2020-03-27 13:34:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gc54l8znL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gc54l8znL._SL200_.jpg' ]
 comments: true
