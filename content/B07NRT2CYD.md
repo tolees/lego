@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO City Advent Calendar 60235 Building al 36.68 % de descuento'
-date: 2020-03-27 04:55:16
+title: 'LEGO City Advent Calendar 60235 Building al 31.34 % de descuento'
+date: 2020-03-29 04:57:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/510na3oOH8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510na3oOH8L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NRT2CYD
 description:
-actualPrice: 18.99 USD
+actualPrice: 20.59 USD
 comparePrice: 29.99 USD
 inStock: true
 ---
 
-Está [LEGO City Advent Calendar 60235 Building Kit  234 Pieces ](https://www.amazon.com/dp/B07NRT2CYD/?tag=redken08-20) con 36.68 de descuento por 18.99 USD (original: 29.99 USD) en el siguiente enlace!
+Está [LEGO City Advent Calendar 60235 Building Kit  234 Pieces ](https://www.amazon.com/dp/B07NRT2CYD/?tag=redken08-20) con 31.34 de descuento por 20.59 USD (original: 29.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/510na3oOH8L._SL200_.jpg)](https://www.amazon.com/dp/B07NRT2CYD/?tag=redken08-20)
 
