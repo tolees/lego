@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 36.09 % en LEGO 70832 Movie 2 Emmet s Builder Box B'
-date: 2019/11/26 20:38:45 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg' ]
+title: 'Descuento del 28.01 % en LEGO 70832 Movie 2 Emmet’s Builder Box B'
+date: 2020-03-30 12:45:34
+thumbnailImage: 'https://m.media-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07G3LTRM7
 description:
-actualPrice: 15.97 GBP
+actualPrice: 17.99 GBP
 comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 70832 Movie 2 Emmet s Builder Box Building Kit  Colourful](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20) con un 36.09 % de descuento con precio de oferta de 15.97 GBP (original: 24.99 GBP) en el siguiente enlace!
+Tienes [LEGO 70832 Movie 2 Emmet’s Builder Box Building Kit  Colourful](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20) con un 28.01 % de descuento con precio de oferta de 17.99 GBP (original: 24.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg)](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg)](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20)
 
