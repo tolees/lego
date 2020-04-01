@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.33 % en LEGO 10902 DUPLO Town Police Station wit'
-date: 2019/12/06 12:41:58 +0000
+title: 'Descuento del 31.54 % en LEGO Duplo Town - Comisaría de policía  '
+date: 2019/12/22 21:01:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNTSHZC
 description:
-actualPrice: 18.16 GBP
-comparePrice: 24.99 GBP
+actualPrice: 20.53 EUR
+comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 10902 DUPLO Town Police Station with Light and Sound  Police Car  Jail Cell and 2 Policemen Figures  Toys for Toddlers](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20) con un 27.33 % de descuento con precio de oferta de 18.16 GBP (original: 24.99 GBP) en el siguiente enlace!
+Tienes [LEGO Duplo Town - Comisaría de policía  Juguete Creativo de construcción y Aventuras  10902 ](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20) con un 31.54 % de descuento con precio de oferta de 20.53 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSHZC/?tag=redken08-20)
 

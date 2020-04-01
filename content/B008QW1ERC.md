@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.02 % en IQ Lego Star Wars - Yoda LED Keychain Li'
-date: 2020-03-29 04:52:07
+date: 2020-03-31 20:52:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vhOsrAiML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vhOsrAiML._SL200_.jpg' ]
 comments: true
