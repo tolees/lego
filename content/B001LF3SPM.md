@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Racers Desert Viper al 29.83 % de descuento'
-date: 2020-03-31 04:54:08
+date: 2020-04-01 21:00:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FhQu0fS+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FhQu0fS+L._SL200_.jpg' ]
 comments: true
