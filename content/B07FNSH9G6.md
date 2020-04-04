@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en LEGO NINJAGO 70667 - Kais Feuer-Bike & Z'
-date: 2020-03-30 12:25:56
+date: 2020-04-04 12:36:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JhzuUhz7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JhzuUhz7L._SL200_.jpg' ]
 comments: true
