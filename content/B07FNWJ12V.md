@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75241 Star Wars Echo Base Defense i al 29.08 % de descuento'
-date: 2020-03-23 20:47:49
+date: 2020-04-05 19:44:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gxZl-GEtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gxZl-GEtL._SL200_.jpg' ]
 comments: true

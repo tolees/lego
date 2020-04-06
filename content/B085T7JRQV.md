@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dittzz Technic Auto 919 Hybrid  Sportwag al 30.28 % de descuento'
-date: 2020-04-05 05:08:45
+date: 2020-04-06 05:12:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KOaKREU5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KOaKREU5L._SL200_.jpg' ]
 comments: true
