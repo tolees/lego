@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO Minecraft 21151 - Das letzte Gefech al 25.06 % de descuento'
-date: 2020-03-20 09:15:55
-thumbnailImage: 'https://m.media-amazon.com/images/I/51kIrreKdLL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51kIrreKdLL._SL200_.jpg' ]
+title: 'LEGO Minecraft 21151 - Das letzte Gefech al 25.11 % de descuento'
+date: 2020-04-06 12:25:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNN12PH
 description:
-actualPrice: 14.98 EUR
+actualPrice: 14.97 EUR
 comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [LEGO Minecraft 21151 - Das letzte Gefecht  Bauset](https://www.amazon.com/dp/B07FNN12PH/?tag=redken08-20) con 25.06 de descuento por 14.98 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [LEGO Minecraft 21151 - Das letzte Gefecht  Bauset](https://www.amazon.com/dp/B07FNN12PH/?tag=redken08-20) con 25.11 de descuento por 14.97 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51kIrreKdLL._SL200_.jpg)](https://www.amazon.com/dp/B07FNN12PH/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg)](https://www.amazon.com/dp/B07FNN12PH/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07FNN12PH/?tag=redken08-20)
 
