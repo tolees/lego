@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 33.78 % en LEGO Star Wars Han Solo 75535 Baubare Fi'
-date: 2020-04-02 04:58:42
+title: 'Descuento del 34.59 % en LEGO UK - 75535 Star Wars Han Solo Build'
+date: 2020-04-08 04:49:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B075GR1TVS
 description:
-actualPrice: 19.86 EUR
-comparePrice: 29.99 EUR
+actualPrice: 17.0 GBP
+comparePrice: 25.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO Star Wars Han Solo 75535 Baubare Figur](https://www.amazon.com/dp/B075GR1TVS/?tag=redken08-20) con un 33.78 % de descuento con precio de oferta de 19.86 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO UK - 75535 Star Wars Han Solo Buildable Figure](https://www.amazon.com/dp/B075GR1TVS/?tag=redken08-20) con un 34.59 % de descuento con precio de oferta de 17.0 GBP (original: 25.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg)](https://www.amazon.com/dp/B075GR1TVS/?tag=redken08-20)
 
