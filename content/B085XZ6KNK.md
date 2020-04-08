@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.12 % en Dittzz Technic Avtoros Shaman 8x8 Off-Ro'
-date: 2020-04-07 05:08:09
+date: 2020-04-08 05:33:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WieF8D5zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WieF8D5zL._SL200_.jpg' ]
 comments: true
