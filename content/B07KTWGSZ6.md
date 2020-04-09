@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 29.99 % en LEGO 60233 City Town Donut Shop Opening '
-date: 2020-04-02 08:01:42
-thumbnailImage: 'https://m.media-amazon.com/images/I/51zru98C74L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51zru98C74L._SL200_.jpg' ]
+title: 'Descuento del 27.53 % en LEGO City 60233 - Große Donut-Shop-Eröff'
+date: 2020-04-08 13:10:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/610apGI5l3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/610apGI5l3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTWGSZ6
 description:
-actualPrice: 56.0 GBP
-comparePrice: 79.99 GBP
+actualPrice: 57.97 EUR
+comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60233 City Town Donut Shop Opening Toy Cars Set with Police Motorbike  Truck with Crane Trailer and 10 Minifigures](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20) con un 29.99 % de descuento con precio de oferta de 56.0 GBP (original: 79.99 GBP) en el siguiente enlace!
+Tienes [LEGO City 60233 - Große Donut-Shop-Eröffnung](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20) con un 27.53 % de descuento con precio de oferta de 57.97 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51zru98C74L._SL200_.jpg)](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/610apGI5l3L._SL200_.jpg)](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20)
 

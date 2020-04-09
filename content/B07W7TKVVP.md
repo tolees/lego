@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76896 Speed Champions Nissan GT-R N al 26.96 % de descuento'
-date: 2020-03-25 09:36:41
+date: 2020-04-09 07:39:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fzW1r+dlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fzW1r+dlL._SL200_.jpg' ]
 comments: true
