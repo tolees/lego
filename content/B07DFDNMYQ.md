@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Super-Villains - Nintendo Switch al 60.01 % de descuento'
-date: 2020-04-08 21:54:39
+date: 2020-04-10 07:06:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tlDXNfwGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tlDXNfwGL._SL200_.jpg' ]
 comments: true
