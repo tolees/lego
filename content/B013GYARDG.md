@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Star Wars - Rey  75113  al 59.07 % de descuento'
-date: 2020-04-07 13:27:42
+title: 'LEGO Star Wars - Rey  75113  al 52.83 % de descuento'
+date: 2020-04-10 16:42:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mB3epvAGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mB3epvAGL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B013GYARDG
 description:
 actualPrice: 9.0 EUR
-comparePrice: 21.99 EUR
+comparePrice: 19.08 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Star Wars - Rey  75113 ](https://www.amazon.com/dp/B013GYARDG/?tag=redken08-20) a 9.0 EUR (original: 21.99 EUR) (59.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars - Rey  75113 ](https://www.amazon.com/dp/B013GYARDG/?tag=redken08-20) a 9.0 EUR (original: 19.08 EUR) (52.83 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51mB3epvAGL._SL200_.jpg)](https://www.amazon.com/dp/B013GYARDG/?tag=redken08-20)
 
