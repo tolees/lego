@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.59 % en LEGO UK - 75535 Star Wars Han Solo Build'
-date: 2020-04-09 06:43:40
+date: 2020-04-11 06:50:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg' ]
 comments: true
