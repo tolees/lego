@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.36 % en LEGO 60256 Rennwagen-Duell City Spielzeu'
-date: 2020-04-10 16:06:10
+date: 2020-04-11 16:19:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EvwEMZAQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EvwEMZAQL._SL200_.jpg' ]
 comments: true

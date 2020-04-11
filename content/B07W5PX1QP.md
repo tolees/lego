@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41395 - Freundschaftsbus  Friends   al 28.58 % de descuento'
-date: 2020-04-10 16:06:29
+date: 2020-04-11 16:16:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kFee0-fLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kFee0-fLL._SL200_.jpg' ]
 comments: true

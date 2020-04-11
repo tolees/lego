@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tosbess Technic Wing Body Truck Building al 30.11 % de descuento'
-date: 2020-04-09 14:42:11
+date: 2020-04-11 14:55:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Yi1w35PuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Yi1w35PuL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en LEGO 60258 Tuning-Werkstatt City Bauset '
-date: 2020-04-10 16:06:20
+date: 2020-04-11 16:16:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lRoUzfzrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lRoUzfzrL._SL200_.jpg' ]
 comments: true
