@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76123 - Marvel Super Heroes Captain al 28.01 % de descuento'
-date: 2020-04-10 16:11:05
+date: 2020-04-12 00:06:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qJe1BX3DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qJe1BX3DL._SL200_.jpg' ]
 comments: true

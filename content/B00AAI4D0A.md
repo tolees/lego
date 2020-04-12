@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Friends 41020 Hedgehog s Hideaway al 29.93 % de descuento'
-date: 2020-04-05 12:45:57
+title: 'LEGO Friends 41020 Hedgehog s Hideaway al 69.67 % de descuento'
+date: 2020-04-12 06:49:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/5152Pshe-XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5152Pshe-XL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00AAI4D0A
 description:
-actualPrice: 7.0 GBP
+actualPrice: 3.03 GBP
 comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [LEGO Friends 41020 Hedgehog s Hideaway](https://www.amazon.com/dp/B00AAI4D0A/?tag=redken08-20) con 29.93 de descuento por 7.0 GBP (original: 9.99 GBP) en el siguiente enlace!
+Está [LEGO Friends 41020 Hedgehog s Hideaway](https://www.amazon.com/dp/B00AAI4D0A/?tag=redken08-20) con 69.67 de descuento por 3.03 GBP (original: 9.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5152Pshe-XL._SL200_.jpg)](https://www.amazon.com/dp/B00AAI4D0A/?tag=redken08-20)
 
