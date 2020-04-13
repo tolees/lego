@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en The Lego Ninjago Movie Videogame - Xbox '
-date: 2020-04-11 23:48:58
+date: 2020-04-13 15:57:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/61xoMVaVduL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61xoMVaVduL._SL200_.jpg' ]
 comments: true
