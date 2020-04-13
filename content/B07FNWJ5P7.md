@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 33.36 % en LEGO NINJAGO 70665 - Samurai-Roboter'
-date: 2020-03-30 16:27:26
+title: 'Descuento del 33.29 % en LEGO 70665 NINJAGO Ninja Includes Nya  a'
+date: 2020-04-01 07:34:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51II7Fe2QBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51II7Fe2QBL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNWJ5P7
 description:
-actualPrice: 9.99 EUR
-comparePrice: 14.99 EUR
+actualPrice: 10.0 GBP
+comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO NINJAGO 70665 - Samurai-Roboter](https://www.amazon.com/dp/B07FNWJ5P7/?tag=redken08-20) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [LEGO 70665 NINJAGO Ninja Includes Nya  as Samurai X   Kruncha and Nuckal Minifigures Set Legacy Mech Building Kit](https://www.amazon.com/dp/B07FNWJ5P7/?tag=redken08-20) con un 33.29 % de descuento con precio de oferta de 10.0 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51II7Fe2QBL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ5P7/?tag=redken08-20)
 
