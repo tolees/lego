@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.01 % en LEGO 76123 - Marvel Super Heroes Captain'
-date: 2020-04-12 00:06:08
+date: 2020-04-15 00:05:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qJe1BX3DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qJe1BX3DL._SL200_.jpg' ]
 comments: true

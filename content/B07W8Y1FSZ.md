@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.01 % en LEGO 70432 - Geister-Jahrmarkt  Hidden S'
-date: 2020-04-13 16:13:12
+date: 2020-04-14 16:21:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uA1LzQbML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uA1LzQbML._SL200_.jpg' ]
 comments: true

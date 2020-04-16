@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75271 - Luke Skywalkers Landspeeder al 30.01 % de descuento'
-date: 2020-04-13 16:15:56
+date: 2020-04-14 16:24:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IL3D7UkbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IL3D7UkbL._SL200_.jpg' ]
 comments: true

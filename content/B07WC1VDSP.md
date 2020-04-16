@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.52 % en LEGO 42108 - Kran-LKW  Technic  Bauset'
-date: 2020-04-13 16:12:30
+date: 2020-04-14 16:17:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Sxi7NeFEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Sxi7NeFEL._SL200_.jpg' ]
 comments: true
