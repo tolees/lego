@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO City 60233 - Große Donut-Shop-Eröff al 27.53 % de descuento'
-date: 2020-04-15 15:41:00
+title: 'LEGO City 60233 - Große Donut-Shop-Eröff al 32.38 % de descuento'
+date: 2020-04-18 20:26:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/610apGI5l3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/610apGI5l3L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KTWGSZ6
 description:
-actualPrice: 57.97 EUR
+actualPrice: 54.09 EUR
 comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60233 - Große Donut-Shop-Eröffnung](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20) a 57.97 EUR (original: 79.99 EUR) (27.53 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60233 - Große Donut-Shop-Eröffnung](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20) a 54.09 EUR (original: 79.99 EUR) (32.38 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/610apGI5l3L._SL200_.jpg)](https://www.amazon.com/dp/B07KTWGSZ6/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60203 City Ski Resort  Bauset  Schn al 31.25 % de descuento'
-date: 2020-04-09 07:38:11
+date: 2020-04-17 12:04:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/61pf3OBhzIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61pf3OBhzIL._SL200_.jpg' ]
 comments: true

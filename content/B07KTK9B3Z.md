@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'LEGO 21045 Architecture Trafalgar Square al 29.99 % de descuento'
-date: 2020-03-09 13:10:01
-thumbnailImage: 'https://m.media-amazon.com/images/I/51EjS8vm1jL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51EjS8vm1jL._AC_._SL200_.jpg' ]
+title: 'LEGO 21045 - Architecture Trafalgar Squa al 26.83 % de descuento'
+date: 2020-04-18 00:27:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/51AtqzqObfL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51AtqzqObfL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07KTK9B3Z
 description:
-actualPrice: 56.0 GBP
-comparePrice: 79.99 GBP
+actualPrice: 58.53 EUR
+comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 21045 Architecture Trafalgar Square Building Set with London Landmark National Gallery Collectible Model](https://www.amazon.com/dp/B07KTK9B3Z/?tag=redken08-20) a 56.0 GBP (original: 79.99 GBP) (29.99 %  de descuento) en el siguiente enlace!
+Está [LEGO 21045 - Architecture Trafalgar Square  Bauset](https://www.amazon.com/dp/B07KTK9B3Z/?tag=redken08-20) con 26.83 de descuento por 58.53 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51EjS8vm1jL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KTK9B3Z/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51AtqzqObfL._SL200_.jpg)](https://www.amazon.com/dp/B07KTK9B3Z/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KTK9B3Z/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KTK9B3Z/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

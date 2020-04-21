@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.55 % en LEGO 60180 City Monster Truck'
-date: 2020-03-14 08:57:54
+title: 'Descuento del 25.01 % en LEGO City Great Vehicles - Monster Truck'
+date: 2020-04-14 05:54:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B075GPLQKH
 description:
-actualPrice: 11.16 GBP
-comparePrice: 14.99 GBP
+actualPrice: 14.99 EUR
+comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60180 City Monster Truck](https://www.amazon.com/dp/B075GPLQKH/?tag=redken08-20) con un 25.55 % de descuento con precio de oferta de 11.16 GBP (original: 14.99 GBP) en el siguiente enlace!
+Tienes [LEGO City Great Vehicles - Monster Truck  Juguete de Construcción Divertido de Camión Monstruo  Set de Coches para Niños y Niñas de 6 a 12 Años  60180 ](https://www.amazon.com/dp/B075GPLQKH/?tag=redken08-20) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517ZWjjOs3L._SL200_.jpg)](https://www.amazon.com/dp/B075GPLQKH/?tag=redken08-20)
 
