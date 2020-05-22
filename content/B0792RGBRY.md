@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'LEGO Animales Fantásticos - Huida de Gri al 30.38 % de descuento'
-date: 2020-03-22 06:56:55
-thumbnailImage: 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL200_.jpg' ]
+title: 'Descuento del 26.46 % en LEGO 75951 Harry Potter Fantastic Beasts'
+date: 2020-01-04 08:56:12
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0792RGBRY
 description:
-actualPrice: 20.88 EUR
-comparePrice: 29.99 EUR
+actualPrice: 14.7 GBP
+comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [LEGO Animales Fantásticos - Huida de Grindelwald  Juguete de Construcción del Mundo Mágico de Fantastic Beasts  75951 ](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20) con 30.38 de descuento por 20.88 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s Escape Carriage Toy  Build and Play Toys for Kids](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20) con un 26.46 % de descuento con precio de oferta de 14.7 GBP (original: 19.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51BzgecVIRL._SL200_.jpg)](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL200_.jpg)](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
