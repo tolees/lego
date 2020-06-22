@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 10914 DUPLO Deluxe Steinebox Bauset al 28.01 % de descuento'
-date: 2020-06-04 11:29:54
+title: 'LEGO 10914 DUPLO Classic Deluxe Brick Bo al 31.16 % de descuento'
+date: 2020-04-11 14:50:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51B8-81aIqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51B8-81aIqL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WLMV14S
 description:
-actualPrice: 35.99 EUR
-comparePrice: 49.99 EUR
+actualPrice: 30.97 GBP
+comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Está [LEGO 10914 DUPLO Deluxe Steinebox Bauset mit Aufbewahrungsbox  Erstes Steine-Lernspielzeug für Kleinkinder im Alter von 1  5 Jahren](https://www.amazon.com/dp/B07WLMV14S/?tag=redken08-20) con 28.01 de descuento por 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [LEGO 10914 DUPLO Classic Deluxe Brick Box Building Set with Storage  First Bricks Learning Toy for Toddlers 1.5 Year Old](https://www.amazon.com/dp/B07WLMV14S/?tag=redken08-20) con 31.16 de descuento por 30.97 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51B8-81aIqL._SL200_.jpg)](https://www.amazon.com/dp/B07WLMV14S/?tag=redken08-20)
 
