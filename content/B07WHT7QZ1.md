@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lego: Jurassic World al 50.19 % de descuento'
-date: 2020-06-19 09:23:21
+title: 'Lego: Jurassic World al 26.73 % de descuento'
+date: 2020-06-29 07:52:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LBCA11ZmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LBCA11ZmL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WHT7QZ1
 description:
-actualPrice: 19.9 EUR
+actualPrice: 29.27 EUR
 comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [Lego: Jurassic World](https://www.amazon.com/dp/B07WHT7QZ1/?tag=redken08-20) con 50.19 de descuento por 19.9 EUR (original: 39.95 EUR) en el siguiente enlace!
+Está [Lego: Jurassic World](https://www.amazon.com/dp/B07WHT7QZ1/?tag=redken08-20) con 26.73 de descuento por 29.27 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51LBCA11ZmL._SL200_.jpg)](https://www.amazon.com/dp/B07WHT7QZ1/?tag=redken08-20)
 
