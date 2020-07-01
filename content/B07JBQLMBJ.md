@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.02 % en LEGO 4+ Toy Story 4: Espectáculo Acrobát'
-date: 2020-06-28 15:16:54
+date: 2020-06-30 11:09:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51neQ+-CY4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51neQ+-CY4L._SL200_.jpg' ]
 comments: true
