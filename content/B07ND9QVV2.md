@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Hidden Side Camión Acrobático de  al 37.51 % de descuento'
-date: 2020-06-29 06:34:22
+date: 2020-07-09 00:44:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gpW1a5lsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gpW1a5lsL._SL200_.jpg' ]
 comments: true
