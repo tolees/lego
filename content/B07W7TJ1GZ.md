@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.55 % en LEGO 71706 NINJAGO Coles Speeder  Bauset'
-date: 2020-09-18 09:59:33
+date: 2020-09-21 11:46:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hUCIbxDsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hUCIbxDsL._SL200_.jpg' ]
 comments: true
