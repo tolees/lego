@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.72 % en LEGO 75893 2018 Dodge Challenger SRT Dem'
-date: 2020-09-26 08:26:08
+date: 2020-09-27 14:09:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/512VwAj5-rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512VwAj5-rL._SL200_.jpg' ]
 comments: true
