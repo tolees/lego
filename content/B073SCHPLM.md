@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Worlds al 50.24 % de descuento'
-date: 2020-09-25 08:31:49
+date: 2020-09-30 20:41:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qygTNsTcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qygTNsTcL._SL200_.jpg' ]
 comments: true
