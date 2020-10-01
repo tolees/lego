@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42105 Technic Katamaran  Baukasten al 30.76 % de descuento'
-date: 2020-09-30 14:42:49
+title: 'LEGO Catamarán al 34.03 % de descuento'
+date: 2020-10-01 13:55:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B081F8KXHD
 description:
-actualPrice: 26.99 EUR
-comparePrice: 38.98 EUR
+actualPrice: 34.27 EUR
+comparePrice: 51.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 42105 Technic Katamaran  Baukasten](https://www.amazon.com/dp/B081F8KXHD/?tag=redken08-20) a 26.99 EUR (original: 38.98 EUR) (30.76 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Catamarán](https://www.amazon.com/dp/B081F8KXHD/?tag=redken08-20) a 34.27 EUR (original: 51.95 EUR) (34.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg)](https://www.amazon.com/dp/B081F8KXHD/?tag=redken08-20)
 
