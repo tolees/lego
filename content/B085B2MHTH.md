@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.41 % en LEGO Friends Advent Calendar 41420  Kids'
-date: 2020-10-01 14:34:30
+date: 2020-10-02 17:12:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OoYMRJP4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OoYMRJP4L._SL200_.jpg' ]
 comments: true
