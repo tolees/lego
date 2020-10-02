@@ -14,10 +14,10 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [LEGO Die Unglaublichen - Standard Edition - Nintendo Switch [Importación alemana]](https://www.amazon.com/dp/B07CD5S3PV/?tag=redken08-20) con 36.24 de descuento por 38.25 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [LEGO Die Unglaublichen - Standard Edition - Nintendo Switch [Importación alemana]](https://www.amazon.es/dp/B07CD5S3PV/?tag=redken-21) con 36.24 de descuento por 38.25 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg)](https://www.amazon.com/dp/B07CD5S3PV/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg)](https://www.amazon.es/dp/B07CD5S3PV/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07CD5S3PV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CD5S3PV/?tag=redken-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

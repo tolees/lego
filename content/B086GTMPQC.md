@@ -14,10 +14,10 @@ comparePrice: 7.99 GBP
 inStock: true
 ---
 
-Está [LEGO Speed Champions Lamborghini Huracán Super Trofeo EVO Polybag Set 30342](https://www.amazon.com/dp/B086GTMPQC/?tag=redken08-20) con 57.95 de descuento por 3.36 GBP (original: 7.99 GBP) en el siguiente enlace!
+Está [LEGO Speed Champions Lamborghini Huracán Super Trofeo EVO Polybag Set 30342](https://www.amazon.co.uk/dp/B086GTMPQC/?tag=redken01-21) con 57.95 de descuento por 3.36 GBP (original: 7.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41zjGnrOkrL._SL200_.jpg)](https://www.amazon.com/dp/B086GTMPQC/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41zjGnrOkrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B086GTMPQC/?tag=redken01-21)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B086GTMPQC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B086GTMPQC/?tag=redken01-21)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
