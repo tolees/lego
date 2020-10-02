@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO- Star Wars Episode IX A-Wing Starfi al 26.68 % de descuento'
-date: 2020-10-01 02:14:22
+date: 2020-10-02 08:07:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg' ]
 comments: true
