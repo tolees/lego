@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.81 % en Microsoft - Consola 1 TB  Mando Inalámbr'
-date: 2020-09-30 11:28:33
+date: 2020-10-03 19:49:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-6hRJcMxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-6hRJcMxL._SL200_.jpg' ]
 comments: true
