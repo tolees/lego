@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76148 Marvel Super Heroes vs. Doc O al 27.57 % de descuento'
-date: 2020-10-01 09:25:25
+date: 2020-10-05 12:40:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pJrTaNSnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pJrTaNSnL._SL200_.jpg' ]
 comments: true
