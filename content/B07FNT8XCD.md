@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO Friends - Le spectacle d Andréa - 41368 - Jeu de const
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FNT8XCD/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

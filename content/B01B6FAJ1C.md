@@ -20,4 +20,6 @@ Está [LEGO Ninjago - Pijama para Niños 6-7 Años](https://www.amazon.es/dp/B01
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01B6FAJ1C/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

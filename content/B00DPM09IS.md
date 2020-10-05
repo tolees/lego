@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO 10928 DUPLO Town Bakery Playset with Cafe Van  Cakes an
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B00DPM09IS/?tag=redken01-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

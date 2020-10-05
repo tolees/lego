@@ -20,4 +20,6 @@ Está [LEGO Friends - Le parcours d obstacles de Stéphanie - 41367 - Jeu de con
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FNS9YS1/?tag=redken012-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

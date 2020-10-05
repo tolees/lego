@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO: Marvel Super Heroes](https://www.amazon.es/dp/B00D8WMN
 
 [Visítala!!!](https://www.amazon.es/dp/B00D8WMNEI/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Lego Ninjago 70684 Spinjitzu Slam - Kai vs. Eis-Samurai  Bauset](https:/
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07KTWKFC4/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

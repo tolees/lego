@@ -20,4 +20,6 @@ Ahora mismo tienes [Lego Star Wars Han Solo Minifigure 7965](https://www.amazon.
 
 [Visítala!!!](https://www.amazon.com/dp/B007F1LWYA/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

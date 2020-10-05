@@ -20,4 +20,6 @@ Tienes [ZJchao Bolsa de almacenamiento- Ideal para Lego  Duplo y Juguetes para n
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B012ZVH2FM/?tag=redken-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

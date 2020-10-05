@@ -20,4 +20,6 @@ Tienes [LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug  Bunt](https://ww
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07FNWMBLZ/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

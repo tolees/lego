@@ -20,4 +20,6 @@ Tienes [LEGO Minecraft™ 21152 Das Piratenschiff-Abenteuer](https://www.amazon.
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07FNT8XC3/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

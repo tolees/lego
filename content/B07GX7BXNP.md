@@ -20,4 +20,6 @@ Ahora mismo tienes [LEGO THE LEGO MOVIE 2 Battle Ready Batman and MetalBeard 708
 
 [Visítala!!!](https://www.amazon.com/dp/B07GX7BXNP/?tag=redken08-20)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -20,4 +20,6 @@ Está [Dittzz Technic Auto Ford Mustang  1:10 2.4Ghz RC Auto Bauset mit Motor un
 
 [Ver la oferta!!](https://www.amazon.de/dp/B085TDP7FV/?tag=redken02-21)
 
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
