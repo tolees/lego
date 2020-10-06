@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Hidden Side Il Laboratorio Spettr al 25.01 % de descuento'
-date: 2020-10-02 15:12:47
+date: 2020-10-06 13:50:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hqlv1NSSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hqlv1NSSL._SL200_.jpg' ]
 comments: true
