@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.35 % en LEGO NINJAGO 70672 - Coles Offroad-Bike '
-date: 2020-10-01 09:25:52
+date: 2020-10-06 08:25:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Wcdm-aCbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Wcdm-aCbL._SL200_.jpg' ]
 comments: true
