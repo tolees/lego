@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.02 % en LEGO 41169 Disney Frozen II Olaf the Sno'
-date: 2020-04-21 20:42:57
+title: 'LEGO 41169 Disney Die Eiskönigin 2  Olaf al 38.47 % de descuento'
+date: 2020-10-08 08:35:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Qkq-4pnOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Qkq-4pnOL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07P2GRNTM
 description:
-actualPrice: 9.48 GBP
-comparePrice: 12.99 GBP
+actualPrice: 8.99 EUR
+comparePrice: 14.61 EUR
 inStock: true
 ---
 
-Tienes [LEGO 41169 Disney Frozen II Olaf the Snowman Brick Built Figure  Princess  Elsa and Anna Collection  Multicolour](https://www.amazon.co.uk/dp/B07P2GRNTM/?tag=redken01-21) con un 27.02 % de descuento con precio de oferta de 9.48 GBP (original: 12.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41169 Disney Die Eiskönigin 2  Olaf  Bauset](https://www.amazon.de/dp/B07P2GRNTM/?tag=redken02-21) a 8.99 EUR (original: 14.61 EUR) (38.47 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Qkq-4pnOL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07P2GRNTM/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51Qkq-4pnOL._SL200_.jpg)](https://www.amazon.de/dp/B07P2GRNTM/?tag=redken02-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07P2GRNTM/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.de/dp/B07P2GRNTM/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
