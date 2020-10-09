@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City - Gatto delle nevi  60222 al 25.01 % de descuento'
-date: 2020-10-08 04:56:30
+date: 2020-10-09 05:02:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Rf0yO2AfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Rf0yO2AfL._SL200_.jpg' ]
 comments: true
