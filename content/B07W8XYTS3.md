@@ -14,11 +14,11 @@ comparePrice: 48.73 EUR
 inStock: true
 ---
 
-Está [LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit AR-App](https://www.amazon.de/dp/B07W8XYTS3/?tag=redken02-21) con 26.14 de descuento por 35.99 EUR (original: 48.73 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit AR-App](https://www.amazon.de/dp/B07W8XYTS3/?tag=redken02-21) a 35.99 EUR (original: 48.73 EUR) (26.14 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51jNN1yDfFL._SL200_.jpg)](https://www.amazon.de/dp/B07W8XYTS3/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07W8XYTS3/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07W8XYTS3/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
