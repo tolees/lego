@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60256 Rennwagen-Duell City Spielzeu al 29.09 % de descuento'
-date: 2020-09-29 12:14:57
+date: 2020-10-12 20:14:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg' ]
 comments: true
@@ -19,5 +19,7 @@ Ahora mismo tienes [LEGO 60256 Rennwagen-Duell City Spielzeug mit 2 Rennfahrer-M
 [![](https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg)](https://www.amazon.de/dp/B07W7TMP9M/?tag=redken02-21)
 
 [Visítala!!!](https://www.amazon.de/dp/B07W7TMP9M/?tag=redken02-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
