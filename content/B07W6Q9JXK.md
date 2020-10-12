@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City 60244 Polizeihubschrauber-Tran al 35.84 % de descuento'
-date: 2020-10-11 08:24:29
+date: 2020-10-12 08:36:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg' ]
 comments: true
