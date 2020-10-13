@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.47 % en LEGO® BrickHeadz™ Star Wars™ Le Mandalor'
-date: 2020-10-12 12:41:03
+date: 2020-10-13 02:11:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/511dRQH5boL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511dRQH5boL._SL200_.jpg' ]
 comments: true
