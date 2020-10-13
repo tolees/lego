@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.81 % en LEGO Minecraft 21151 - Das letzte Gefech'
-date: 2020-10-05 12:38:13
+title: 'LEGO 21151 Minecraft The End Battle Coll al 36.67 % de descuento'
+date: 2020-10-13 12:32:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FNN12PH
 description:
-actualPrice: 14.07 EUR
-comparePrice: 19.49 EUR
+actualPrice: 12.66 GBP
+comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO Minecraft 21151 - Das letzte Gefecht  Bauset](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21) con un 27.81 % de descuento con precio de oferta de 14.07 EUR (original: 19.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 21151 Minecraft The End Battle Collectible Toy](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=redken01-21) a 12.66 GBP (original: 19.99 GBP) (36.67 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg)](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07FNN12PH/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
