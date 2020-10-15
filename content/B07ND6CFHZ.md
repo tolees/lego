@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.43 % en LEGO Technic 42099 - 4x4 X-treme Off-Roa'
-date: 2020-10-14 08:12:26
+title: 'Descuento del 28.68 % en LEGO Technic 42099 - 4x4 X-treme Off-Roa'
+date: 2020-10-15 18:29:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KyFgbE4ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KyFgbE4ZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07ND6CFHZ
 description:
-actualPrice: 155.96 EUR
+actualPrice: 159.9 EUR
 comparePrice: 224.19 EUR
 inStock: true
 ---
 
-Tienes [LEGO Technic 42099 - 4x4 X-treme Off-Roader](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21) con un 30.43 % de descuento con precio de oferta de 155.96 EUR (original: 224.19 EUR) en el siguiente enlace!
+Tienes [LEGO Technic 42099 - 4x4 X-treme Off-Roader](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21) con un 28.68 % de descuento con precio de oferta de 159.9 EUR (original: 224.19 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KyFgbE4ZL._SL200_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21)
 
