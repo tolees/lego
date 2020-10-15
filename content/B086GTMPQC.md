@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.55 % en LEGO Speed Champions Lamborghini Huracán'
-date: 2020-10-14 06:24:27
+date: 2020-10-15 12:22:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zjGnrOkrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zjGnrOkrL._SL200_.jpg' ]
 comments: true
