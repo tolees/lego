@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars: A New Hope T-16 Skyhoppe al 40.02 % de descuento'
-date: 2020-10-14 12:58:38
+date: 2020-10-16 08:13:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GpjbkePmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GpjbkePmL._SL200_.jpg' ]
 comments: true
