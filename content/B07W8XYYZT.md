@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.35 % en LEGO 41397 Friends Juice Truck Toy Plays'
-date: 2020-10-15 07:38:58
+date: 2020-10-16 15:48:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/518vHAOqSSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518vHAOqSSL._SL200_.jpg' ]
 comments: true

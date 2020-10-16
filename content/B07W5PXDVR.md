@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 33.35 % en LEGO 41391 Friends Heartlake City Hair S'
-date: 2020-10-15 15:43:37
+title: 'LEGO Friends 41391 Friseursalon von Hear al 27.40 % de descuento'
+date: 2020-10-15 16:14:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zsf05sRIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zsf05sRIL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07W5PXDVR
 description:
-actualPrice: 11.99 GBP
-comparePrice: 17.99 GBP
+actualPrice: 14.15 EUR
+comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Tienes [LEGO 41391 Friends Heartlake City Hair Salon Playset with Emma Mini Doll  Wigs and Hair Accessories for 6+ Year Old](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=redken01-21) con un 33.35 % de descuento con precio de oferta de 11.99 GBP (original: 17.99 GBP) en el siguiente enlace!
+Está [LEGO Friends 41391 Friseursalon von Heartlake City mit Emma Spielfigur](https://www.amazon.de/dp/B07W5PXDVR/?tag=redken02-21) con 27.40 de descuento por 14.15 EUR (original: 19.49 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Zsf05sRIL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51Zsf05sRIL._SL200_.jpg)](https://www.amazon.de/dp/B07W5PXDVR/?tag=redken02-21)
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07W5PXDVR/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
