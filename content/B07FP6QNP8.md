@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® NINJAGO® Le dragon d or Jeu de con al 31.83 % de descuento'
-date: 2020-10-08 23:54:01
+date: 2020-10-18 20:29:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.93 % en Lego Ninjago 70681 Spinjitzu Slam - Lloy'
-date: 2020-10-06 20:25:04
+date: 2020-10-18 20:38:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Csyx2c+1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Csyx2c+1L._SL200_.jpg' ]
 comments: true
