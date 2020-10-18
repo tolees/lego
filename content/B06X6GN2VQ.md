@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.19 % en LEGO Boost 17101 - Programmierbares Robo'
-date: 2020-10-17 13:52:02
+date: 2020-10-18 14:13:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg' ]
 comments: true
