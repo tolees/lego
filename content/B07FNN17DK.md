@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 28.32 % en LEGO City 60207 Polizei Drohnenjagd  bun'
-date: 2020-10-12 20:11:48
+title: 'LEGO City - Police Policía Aérea: A la C al 39.56 % de descuento'
+date: 2020-10-19 16:00:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FNN17DK
 description:
-actualPrice: 13.97 EUR
-comparePrice: 19.49 EUR
+actualPrice: 14.99 EUR
+comparePrice: 24.8 EUR
 inStock: true
 ---
 
-Tienes [LEGO City 60207 Polizei Drohnenjagd  bunt](https://www.amazon.de/dp/B07FNN17DK/?tag=redken02-21) con un 28.32 % de descuento con precio de oferta de 13.97 EUR (original: 19.49 EUR) en el siguiente enlace!
+Está [LEGO City - Police Policía Aérea: A la Caza del Dron  Set Creativo de construcción y Aventuras con dron de Juguete y minifigura Dorada  60207 ](https://www.amazon.es/dp/B07FNN17DK/?tag=redken-21) con 39.56 de descuento por 14.99 EUR (original: 24.8 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg)](https://www.amazon.de/dp/B07FNN17DK/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg)](https://www.amazon.es/dp/B07FNN17DK/?tag=redken-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07FNN17DK/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FNN17DK/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
