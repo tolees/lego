@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Lamborghini Huracán al 37.55 % de descuento'
-date: 2020-10-17 20:10:04
+title: 'LEGO Speed Champions Lamborghini Huracán al 67.58 % de descuento'
+date: 2020-10-20 08:50:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zjGnrOkrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zjGnrOkrL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B086GTMPQC
 description:
-actualPrice: 4.99 GBP
+actualPrice: 2.59 GBP
 comparePrice: 7.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Speed Champions Lamborghini Huracán Super Trofeo EVO Polybag Set 30342](https://www.amazon.co.uk/dp/B086GTMPQC/?tag=redken01-21) a 4.99 GBP (original: 7.99 GBP) (37.55 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Speed Champions Lamborghini Huracán Super Trofeo EVO Polybag Set 30342](https://www.amazon.co.uk/dp/B086GTMPQC/?tag=redken01-21) a 2.59 GBP (original: 7.99 GBP) (67.58 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zjGnrOkrL._SL200_.jpg)](https://www.amazon.co.uk/dp/B086GTMPQC/?tag=redken01-21)
 
