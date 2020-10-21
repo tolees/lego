@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.04 % en LEGO Jurassic World Triceratops Rampage '
-date: 2020-10-19 22:58:55
+date: 2020-10-21 07:32:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UbkMOgqxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UbkMOgqxL._SL200_.jpg' ]
 comments: true
