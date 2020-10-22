@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City 60216 Feuerwehr in der Stadt m al 28.36 % de descuento'
-date: 2020-10-19 02:55:00
+date: 2020-10-22 04:06:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg' ]
 comments: true
