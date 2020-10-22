@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.01 % en LEGO City - Police Policía Aérea: Arrest'
-date: 2020-10-20 13:04:40
+title: 'LEGO 60208 City Police Sky Police Parach al 27.97 % de descuento'
+date: 2020-10-21 19:32:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zu2mz8Y8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zu2mz8Y8L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FNMTW4H
 description:
-actualPrice: 20.99 EUR
-comparePrice: 29.99 EUR
+actualPrice: 18.0 GBP
+comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60208 City Police Sky Police Parachute Arrest with 3 Vehicles: Aeroplane  Car and Motorbike Toys  Crook s Chase Sets for Kids](https://www.amazon.co.uk/dp/B07FNMTW4H/?tag=redken01-21) a 18.0 GBP (original: 24.99 GBP) (27.97 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51zu2mz8Y8L._SL200_.jpg)](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/51zu2mz8Y8L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNMTW4H/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07FNMTW4H/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
