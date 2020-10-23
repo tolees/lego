@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.14 % en LEGO 71711 NINJAGO Jays Cyber-Drache Mec'
-date: 2020-10-12 20:15:56
+date: 2020-10-23 10:03:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg' ]
 comments: true
