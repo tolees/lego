@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.58 % en LEGO 75286 Star Wars General Grievous‘ S'
-date: 2020-10-23 21:58:44
+date: 2020-10-24 22:25:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg' ]
 comments: true
