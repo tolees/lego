@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® Technic L hélicoptère de secours J al 41.41 % de descuento'
-date: 2020-10-23 15:36:51
+date: 2020-10-24 15:43:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg' ]
 comments: true
