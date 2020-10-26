@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture 21051 Tokio Skyline-Ko al 31.62 % de descuento'
-date: 2020-10-25 10:27:18
+date: 2020-10-26 10:45:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MEnbWXo+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MEnbWXo+L._SL200_.jpg' ]
 comments: true
