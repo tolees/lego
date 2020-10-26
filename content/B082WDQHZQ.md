@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario - Pack Inicial: Aventur al 29.24 % de descuento'
-date: 2020-10-25 03:14:28
+date: 2020-10-26 03:37:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/519qfBXEPbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519qfBXEPbL._SL200_.jpg' ]
 comments: true
