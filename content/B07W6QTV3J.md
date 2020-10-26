@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21158 Minecraft Der Panda-Kindergar al 26.83 % de descuento'
-date: 2020-10-10 08:08:18
+date: 2020-10-26 21:16:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dHZiaBwfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dHZiaBwfL._SL200_.jpg' ]
 comments: true
