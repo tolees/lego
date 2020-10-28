@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars - Calendario de Adviento  al 25.41 % de descuento'
-date: 2020-10-27 17:53:05
+date: 2020-10-28 17:59:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pZeVC+qvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pZeVC+qvL._SL200_.jpg' ]
 comments: true
