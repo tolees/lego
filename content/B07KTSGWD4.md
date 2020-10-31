@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.92 % en LEGO 41381- Friends  Boot für Rettungsak'
-date: 2020-10-30 18:09:34
+date: 2020-10-31 18:52:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51y6QpHeqZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51y6QpHeqZL._SL200_.jpg' ]
 comments: true
