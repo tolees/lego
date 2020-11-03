@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21028 Architecture - New York City  al 27.77 % de descuento'
-date: 2020-11-02 18:20:28
+date: 2020-11-03 22:03:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eda0bZppL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eda0bZppL._SL200_.jpg' ]
 comments: true

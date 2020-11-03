@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42101 Technic Strandbuggy & Rennwag al 25.36 % de descuento'
-date: 2020-11-02 18:16:20
+date: 2020-11-03 22:23:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LBvECsmTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LBvECsmTL._SL200_.jpg' ]
 comments: true
