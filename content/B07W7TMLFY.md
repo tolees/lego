@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars   Le chasseur X-wing de P al 36.45 % de descuento'
-date: 2020-11-02 00:37:51
+date: 2020-11-03 06:25:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg' ]
 comments: true
