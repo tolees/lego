@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75892 Speed Champions McLaren Senna al 28.75 % de descuento'
-date: 2020-11-03 06:07:53
+date: 2020-11-04 10:12:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg' ]
 comments: true
