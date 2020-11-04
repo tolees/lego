@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75938 - Jurassic World T. Rex vs. D al 25.91 % de descuento'
-date: 2020-10-30 17:28:00
+date: 2020-11-04 17:14:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S0o5arLDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S0o5arLDL._SL200_.jpg' ]
 comments: true
