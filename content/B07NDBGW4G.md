@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.03 % en LEGO 42100 Technic Control+ Liebherr R 9'
-date: 2020-11-03 12:57:13
+date: 2020-11-04 13:12:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D3YSFZFsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D3YSFZFsL._SL200_.jpg' ]
 comments: true
