@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.68 % en LEGO- Super Mario Set de Expansión: Supe'
-date: 2020-11-03 07:29:48
+date: 2020-11-04 07:38:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xmgAgsF+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xmgAgsF+L._SL200_.jpg' ]
 comments: true
