@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 28.75 % en LEGO 75892 Speed Champions McLaren Senna'
-date: 2020-11-04 10:12:31
+title: 'Descuento del 25.56 % en LEGO 75892 Speed Champions Senna McLaren'
+date: 2020-11-04 22:29:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FNW8PGR
 description:
-actualPrice: 10.41 EUR
-comparePrice: 14.61 EUR
+actualPrice: 9.67 GBP
+comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 75892 Speed Champions McLaren Senna](https://www.amazon.de/dp/B07FNW8PGR/?tag=redken02-21) con un 28.75 % de descuento con precio de oferta de 10.41 EUR (original: 14.61 EUR) en el siguiente enlace!
+Tienes [LEGO 75892 Speed Champions Senna McLaren Driver Minifigure Race Car Building Set  Forza Horizon 4 Expansion Pack Model](https://www.amazon.co.uk/dp/B07FNW8PGR/?tag=redken01-21) con un 25.56 % de descuento con precio de oferta de 9.67 GBP (original: 12.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg)](https://www.amazon.de/dp/B07FNW8PGR/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNW8PGR/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07FNW8PGR/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FNW8PGR/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
