@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42110 Technic Land Rover Defender   al 25.96 % de descuento'
-date: 2020-11-04 13:19:28
+date: 2020-11-05 13:32:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/518Bxj6-OhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518Bxj6-OhL._SL200_.jpg' ]
 comments: true
