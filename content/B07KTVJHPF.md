@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60226 City Mars Research Shuttle Sp al 30.85 % de descuento'
-date: 2020-10-22 09:37:32
+title: 'LEGO City Space Port Juguete de Construc al 27.04 % de descuento'
+date: 2020-11-05 09:38:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51p0jbc9ltL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51p0jbc9ltL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07KTVJHPF
 description:
-actualPrice: 17.28 GBP
-comparePrice: 24.99 GBP
+actualPrice: 21.15 EUR
+comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60226 City Mars Research Shuttle Spaceship Construction Toys for Kids Inspired by NASA with Rover and Drone](https://www.amazon.co.uk/dp/B07KTVJHPF/?tag=redken01-21) a 17.28 GBP (original: 24.99 GBP) (30.85 %  de descuento) en el siguiente enlace!
+Está [LEGO City Space Port Juguete de Construcción de Lanzadera Científica a Marte  multicolor  60226 ](https://www.amazon.es/dp/B07KTVJHPF/?tag=redken-21) con 27.04 de descuento por 21.15 EUR (original: 28.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51p0jbc9ltL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTVJHPF/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51p0jbc9ltL._SL200_.jpg)](https://www.amazon.es/dp/B07KTVJHPF/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KTVJHPF/?tag=redken01-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KTVJHPF/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
