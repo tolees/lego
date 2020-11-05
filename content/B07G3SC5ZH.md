@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75947 Harry Potter Hagrid’s Hut: Bu al 25.99 % de descuento'
-date: 2020-11-04 16:04:39
+date: 2020-11-05 17:02:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg' ]
 comments: true
