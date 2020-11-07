@@ -14,11 +14,11 @@ comparePrice: 399.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Creator 10246 Detektivbüro](https://www.amazon.de/dp/B00RQUG4CK/?tag=redken02-21) a 188.1 EUR (original: 399.99 EUR) (52.97 %  de descuento) en el siguiente enlace!
+Está [LEGO Creator 10246 Detektivbüro](https://www.amazon.de/dp/B00RQUG4CK/?tag=redken02-21) con 52.97 de descuento por 188.1 EUR (original: 399.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61TfQbjLntL._SL200_.jpg)](https://www.amazon.de/dp/B00RQUG4CK/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B00RQUG4CK/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B00RQUG4CK/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
