@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® Technic Porsche 911 RSR Jeu voitur al 29.41 % de descuento'
-date: 2020-11-07 07:56:05
+date: 2020-11-08 13:50:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg' ]
 comments: true
