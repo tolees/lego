@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Super Heroes - Batman y el Robo de  al 38.18 % de descuento'
-date: 2020-10-30 14:20:25
+title: 'LEGO Super Heroes - Batman y el Robo de  al 35.63 % de descuento'
+date: 2020-11-09 18:09:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+q4OHx0oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+q4OHx0oL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07KTK9B3H
 description:
 actualPrice: 9.99 EUR
-comparePrice: 16.16 EUR
+comparePrice: 15.52 EUR
 inStock: true
 ---
 
-Está [LEGO Super Heroes - Batman y el Robo de Enigma Juguete de construcción con un Batmobile para Perseguir al Supervillano  Novedad 2019  76137 ](https://www.amazon.es/dp/B07KTK9B3H/?tag=redken-21) con 38.18 de descuento por 9.99 EUR (original: 16.16 EUR) en el siguiente enlace!
+Está [LEGO Super Heroes - Batman y el Robo de Enigma Juguete de construcción con un Batmobile para Perseguir al Supervillano  Novedad 2019  76137 ](https://www.amazon.es/dp/B07KTK9B3H/?tag=redken-21) con 35.63 de descuento por 9.99 EUR (original: 15.52 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51+q4OHx0oL._SL200_.jpg)](https://www.amazon.es/dp/B07KTK9B3H/?tag=redken-21)
 
