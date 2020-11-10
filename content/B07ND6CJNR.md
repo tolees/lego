@@ -14,11 +14,11 @@ comparePrice: 77.97 EUR
 inStock: true
 ---
 
-Está [LEGO 21155 Minecraft - Die Creeper Mine  Bauset](https://www.amazon.de/dp/B07ND6CJNR/?tag=redken02-21) con 25.05 de descuento por 58.44 EUR (original: 77.97 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 21155 Minecraft - Die Creeper Mine  Bauset](https://www.amazon.de/dp/B07ND6CJNR/?tag=redken02-21) a 58.44 EUR (original: 77.97 EUR) (25.05 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51U9Kz6IM3L._SL200_.jpg)](https://www.amazon.de/dp/B07ND6CJNR/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07ND6CJNR/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07ND6CJNR/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
