@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Star Wars TM - Caza Estelar Ala-A d al 26.68 % de descuento'
-date: 2020-10-29 04:08:55
+title: 'Descuento del 31.61 % en LEGO 75248 Star Wars - Der Aufstieg Skyw'
+date: 2020-11-11 09:23:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07ND6CHW2
 description:
-actualPrice: 21.99 EUR
-comparePrice: 29.99 EUR
+actualPrice: 19.99 EUR
+comparePrice: 29.23 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Star Wars TM - Caza Estelar Ala-A de la Resistencia  Set de Construcción de una Nave Espacial de la Guerra de las Galaxias Episodio IX: El Ascenso de Skywalker  A partir de 7 años  75248 ](https://www.amazon.es/dp/B07ND6CHW2/?tag=redken-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!
+Tienes [LEGO 75248 Star Wars - Der Aufstieg Skywalkers Widerstands A-Wing Starfighter](https://www.amazon.de/dp/B07ND6CHW2/?tag=redken02-21) con un 31.61 % de descuento con precio de oferta de 19.99 EUR (original: 29.23 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg)](https://www.amazon.es/dp/B07ND6CHW2/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg)](https://www.amazon.de/dp/B07ND6CHW2/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07ND6CHW2/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.de/dp/B07ND6CHW2/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
