@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.46 % en LEGO Friends - Establo de los Potros de '
-date: 2020-10-22 13:37:42
+title: 'LEGO 41361 - Friends Mias Fohlenstall  b al 28.42 % de descuento'
+date: 2020-11-07 17:28:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FNN12NN
 description:
-actualPrice: 14.9 EUR
-comparePrice: 19.99 EUR
+actualPrice: 13.95 EUR
+comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Tienes [LEGO Friends - Establo de los Potros de Mia  juguete divertido de construcción para aventuras con caballos y mascotas  41361 ](https://www.amazon.es/dp/B07FNN12NN/?tag=redken-21) con un 25.46 % de descuento con precio de oferta de 14.9 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [LEGO 41361 - Friends Mias Fohlenstall  bunt](https://www.amazon.de/dp/B07FNN12NN/?tag=redken02-21) con 28.42 de descuento por 13.95 EUR (original: 19.49 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg)](https://www.amazon.es/dp/B07FNN12NN/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg)](https://www.amazon.de/dp/B07FNN12NN/?tag=redken02-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07FNN12NN/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07FNN12NN/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
