@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic - Plataforma Elevadora  maq al 29.25 % de descuento'
-date: 2020-11-10 11:24:53
+date: 2020-11-11 11:29:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PqzLT86jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PqzLT86jL._SL200_.jpg' ]
 comments: true
