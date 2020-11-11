@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60264 City Meeresforschungs-U-Boot  al 31.24 % de descuento'
-date: 2020-11-07 05:13:01
+date: 2020-11-11 12:45:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EhKdJl66L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EhKdJl66L._SL200_.jpg' ]
 comments: true
