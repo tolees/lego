@@ -14,11 +14,11 @@ comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75273 Star Wars Poe Damerons X-Wing Starfighter](https://www.amazon.de/dp/B07W7TMLFY/?tag=redken02-21) a 66.9 EUR (original: 97.47 EUR) (31.36 %  de descuento) en el siguiente enlace!
+Está [LEGO 75273 Star Wars Poe Damerons X-Wing Starfighter](https://www.amazon.de/dp/B07W7TMLFY/?tag=redken02-21) con 31.36 de descuento por 66.9 EUR (original: 97.47 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg)](https://www.amazon.de/dp/B07W7TMLFY/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07W7TMLFY/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07W7TMLFY/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
