@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Duplo 10872 Eisenbahnbrücke und Sch al 26.81 % de descuento'
-date: 2020-11-05 11:07:22
+title: 'LEGO 10872 DUPLO Eisenbahnbrücke und Sch al 26.23 % de descuento'
+date: 2020-11-12 21:07:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FpcuGQzBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FpcuGQzBL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0765CFDRJ
 description:
-actualPrice: 17.83 EUR
+actualPrice: 17.97 EUR
 comparePrice: 24.36 EUR
 inStock: true
 ---
 
-Está [LEGO Duplo 10872 Eisenbahnbrücke und Schienen  Konstruktionsspielzeug](https://www.amazon.de/dp/B0765CFDRJ/?tag=redken02-21) con 26.81 de descuento por 17.83 EUR (original: 24.36 EUR) en el siguiente enlace!
+Está [LEGO 10872 DUPLO Eisenbahnbrücke und Schienen  Konstruktionsspielzeug](https://www.amazon.de/dp/B0765CFDRJ/?tag=redken02-21) con 26.23 de descuento por 17.97 EUR (original: 24.36 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51FpcuGQzBL._SL200_.jpg)](https://www.amazon.de/dp/B0765CFDRJ/?tag=redken02-21)
 
