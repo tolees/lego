@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75249 Star Wars - Widerstands Y-Win al 32.60 % de descuento'
-date: 2020-11-10 00:15:42
+date: 2020-11-12 06:23:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PXAAghU5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PXAAghU5L._SL200_.jpg' ]
 comments: true
