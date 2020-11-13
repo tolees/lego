@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.36 % en LEGO 75273 Star Wars Poe Damerons X-Wing'
-date: 2020-11-12 12:23:55
+date: 2020-11-13 12:29:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75248 Star Wars - Der Aufstieg Skyw al 31.61 % de descuento'
-date: 2020-11-12 12:23:02
+date: 2020-11-13 12:29:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg' ]
 comments: true
