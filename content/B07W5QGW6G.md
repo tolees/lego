@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.66 % en LEGO 42104 Technic Renn-Truck mit Rückzi'
-date: 2020-11-13 06:23:53
+date: 2020-11-14 18:55:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IHLRV8ZgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IHLRV8ZgL._SL200_.jpg' ]
 comments: true
