@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.34 % en LEGO 75255  Star Wars Angriff der Klonkr'
-date: 2020-11-14 15:21:42
+date: 2020-11-15 15:57:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QMdrCFCmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QMdrCFCmL._SL200_.jpg' ]
 comments: true
