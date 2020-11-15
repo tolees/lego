@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.99 % en LEGO 70423 Hidden Side Spezialbus Geiste'
-date: 2020-11-04 17:15:29
+date: 2020-11-15 11:06:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/617091s5rsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/617091s5rsL._SL200_.jpg' ]
 comments: true
