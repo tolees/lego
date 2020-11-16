@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® 75276 Stormtrooper Helm  Bauset  S al 25.00 % de descuento'
-date: 2020-11-15 19:10:15
+date: 2020-11-16 19:44:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51450fUeLlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51450fUeLlL._SL200_.jpg' ]
 comments: true
