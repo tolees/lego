@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71366 Super Mario Riesen-Kugelwilli al 30.28 % de descuento'
-date: 2020-10-26 21:18:21
+date: 2020-11-16 14:06:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/5157EUDXUJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5157EUDXUJL._SL200_.jpg' ]
 comments: true
