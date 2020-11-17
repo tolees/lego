@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars - Caza TIE Sith  Maqueta  al 27.75 % de descuento'
-date: 2020-11-16 16:13:54
+date: 2020-11-17 19:00:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KLLnT6W0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KLLnT6W0L._SL200_.jpg' ]
 comments: true
