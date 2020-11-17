@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LEGO 42108 Technic Kran-LKW  Spielzeug   al 30.04 % de descuento'
-date: 2020-11-09 20:28:31
-thumbnailImage: 'https://m.media-amazon.com/images/I/51rLUEvvucL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51rLUEvvucL._SL200_.jpg' ]
+date: 2020-11-17 01:47:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,11 +14,11 @@ comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21) a 68.19 EUR (original: 97.47 EUR) (30.04 %  de descuento) en el siguiente enlace!
+Está [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21) con 30.04 de descuento por 68.19 EUR (original: 97.47 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51rLUEvvucL._SL200_.jpg)](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg)](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
