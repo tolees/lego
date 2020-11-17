@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Está [LEGO City 60221 Tauchyacht mit 2 Taucher-Minifiguren](https://www.amazon.de/dp/B07FNTTF4D/?tag=redken02-21) con 29.35 de descuento por 13.77 EUR (original: 19.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60221 Tauchyacht mit 2 Taucher-Minifiguren](https://www.amazon.de/dp/B07FNTTF4D/?tag=redken02-21) a 13.77 EUR (original: 19.49 EUR) (29.35 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51vWX19N1-L._SL200_.jpg)](https://www.amazon.de/dp/B07FNTTF4D/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FNTTF4D/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07FNTTF4D/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
