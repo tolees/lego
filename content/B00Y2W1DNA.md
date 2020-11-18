@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain Lego Dimen al 36.69 % de descuento'
-date: 2020-11-06 10:44:23
+title: 'Warner Bros Interactive Spain Lego Dimen al 46.70 % de descuento'
+date: 2020-11-17 23:29:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KAL-ndGNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KAL-ndGNL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00Y2W1DNA
 description:
-actualPrice: 9.49 EUR
+actualPrice: 7.99 EUR
 comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Warner Bros Interactive Spain Lego Dimensions - DC Bane](https://www.amazon.es/dp/B00Y2W1DNA/?tag=redken-21) con 36.69 de descuento por 9.49 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Warner Bros Interactive Spain Lego Dimensions - DC Bane](https://www.amazon.es/dp/B00Y2W1DNA/?tag=redken-21) con 46.70 de descuento por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KAL-ndGNL._SL200_.jpg)](https://www.amazon.es/dp/B00Y2W1DNA/?tag=redken-21)
 
