@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60228 City Deep Space Rocket and La al 25.56 % de descuento'
-date: 2020-11-19 04:43:39
+date: 2020-11-20 05:06:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg' ]
 comments: true
