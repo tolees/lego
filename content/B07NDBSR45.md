@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42098 Technic - Autotransporter 2 i al 27.33 % de descuento'
-date: 2020-11-19 20:21:48
+date: 2020-11-20 20:48:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg' ]
 comments: true
