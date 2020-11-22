@@ -14,11 +14,11 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [LEGO City - Police Policía Aérea: Robo del Diamante  juguete divertido y creativo de construcción con vehículos  luces y sonido  60209 ](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21) con 30.91 de descuento por 37.99 EUR (original: 54.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO City - Police Policía Aérea: Robo del Diamante  juguete divertido y creativo de construcción con vehículos  luces y sonido  60209 ](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21) a 37.99 EUR (original: 54.99 EUR) (30.91 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51xrHWft5zL._SL200_.jpg)](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
