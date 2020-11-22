@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.18 % en LEGO City - Ártico Base Móvil de Explora'
-date: 2020-11-21 17:25:47
+date: 2020-11-22 17:30:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aDjzv2G6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aDjzv2G6L._SL200_.jpg' ]
 comments: true

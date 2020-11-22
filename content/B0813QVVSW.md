@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.88 % en LEGO Star Wars TM Caza Estelar del Gener'
-date: 2020-11-21 14:06:17
+date: 2020-11-22 17:23:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg' ]
 comments: true
