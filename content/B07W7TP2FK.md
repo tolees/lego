@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.48 % en LEGO Star Wars - Speeder Terrestre de Lu'
-date: 2020-11-22 20:39:24
+date: 2020-11-23 21:03:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t0zrw2gTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t0zrw2gTL._SL200_.jpg' ]
 comments: true
