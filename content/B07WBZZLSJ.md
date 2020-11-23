@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Está [LEGO Hidden Side 70427 Interaktives Portal Multiplayer AR-Spielset](https://www.amazon.de/dp/B07WBZZLSJ/?tag=redken02-21) con 33.81 de descuento por 12.9 EUR (original: 19.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Hidden Side 70427 Interaktives Portal Multiplayer AR-Spielset](https://www.amazon.de/dp/B07WBZZLSJ/?tag=redken02-21) a 12.9 EUR (original: 19.49 EUR) (33.81 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51fkOCT-ylL._SL200_.jpg)](https://www.amazon.de/dp/B07WBZZLSJ/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07WBZZLSJ/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07WBZZLSJ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 17101 Boost - Programmierbares Robo al 26.27 % de descuento'
-date: 2020-11-05 13:13:57
+title: 'Descuento del 35.89 % en LEGO 17101 Boost Programmierbares Roboti'
+date: 2020-11-23 17:21:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B06X6GN2VQ
 description:
-actualPrice: 114.99 EUR
+actualPrice: 99.99 EUR
 comparePrice: 155.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 17101 Boost - Programmierbares Roboticset](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21) a 114.99 EUR (original: 155.96 EUR) (26.27 %  de descuento) en el siguiente enlace!
+Tienes [LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteuertes Baumodell mit einem programmierbaren  interkativen Roboter-Spielzeug und Bluetooth Hub  Programmierset für Kinder](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21) con un 35.89 % de descuento con precio de oferta de 99.99 EUR (original: 155.96 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg)](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.de/dp/B06X6GN2VQ/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

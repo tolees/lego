@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.04 % en LEGO City Great Vehicles Construction Lo'
-date: 2020-11-22 17:14:56
+date: 2020-11-23 17:35:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg' ]
 comments: true
