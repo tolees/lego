@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41165 Disney Annas Kanufahrt  Bause al 28.42 % de descuento'
-date: 2020-11-09 17:51:43
+title: 'LEGO 41165 Disney Princess Frozen Die Ei al 28.42 % de descuento'
+date: 2020-11-23 13:14:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Está [LEGO 41165 Disney Annas Kanufahrt  Bauset  Mehrfarbig](https://www.amazon.de/dp/B07NDBGW4F/?tag=redken02-21) con 28.42 de descuento por 13.95 EUR (original: 19.49 EUR) en el siguiente enlace!
+Está [LEGO 41165 Disney Princess Frozen Die Eiskönigin 2 Annas Kanufahrt  Bauset mit Minipuppen Anna & Olaf und Hasenfigur  einfach zu bauendes Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren](https://www.amazon.de/dp/B07NDBGW4F/?tag=redken02-21) con 28.42 de descuento por 13.95 EUR (original: 19.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg)](https://www.amazon.de/dp/B07NDBGW4F/?tag=redken02-21)
 

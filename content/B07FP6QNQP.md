@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO City 60236 Gerade und T-Kreuzung  b al 33.37 % de descuento'
-date: 2020-11-16 13:58:24
+title: 'LEGO 60236 City Gerade und T-Kreuzung  2 al 31.11 % de descuento'
+date: 2020-11-23 13:14:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L4OTW0YVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L4OTW0YVL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FP6QNQP
 description:
-actualPrice: 6.49 EUR
+actualPrice: 6.71 EUR
 comparePrice: 9.74 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60236 Gerade und T-Kreuzung  bunt](https://www.amazon.de/dp/B07FP6QNQP/?tag=redken02-21) a 6.49 EUR (original: 9.74 EUR) (33.37 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60236 City Gerade und T-Kreuzung  2 x Grundplatte für alle LEGO Sets](https://www.amazon.de/dp/B07FP6QNQP/?tag=redken02-21) a 6.71 EUR (original: 9.74 EUR) (31.11 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41L4OTW0YVL._SL200_.jpg)](https://www.amazon.de/dp/B07FP6QNQP/?tag=redken02-21)
 
