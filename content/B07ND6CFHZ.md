@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO 42099 Technic - 4x4 X-treme Off-Roa al 26.51 % de descuento'
-date: 2020-11-23 03:55:14
-thumbnailImage: 'https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg' ]
+title: 'LEGO 42099 Technic Control+ 4x4 Allrad X al 28.68 % de descuento'
+date: 2020-11-24 04:21:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07ND6CFHZ
 description:
-actualPrice: 164.76 EUR
+actualPrice: 159.9 EUR
 comparePrice: 224.19 EUR
 inStock: true
 ---
 
-Está [LEGO 42099 Technic - 4x4 X-treme Off-Roader](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21) con 26.51 de descuento por 164.76 EUR (original: 224.19 EUR) en el siguiente enlace!
+Está [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21) con 28.68 de descuento por 159.9 EUR (original: 224.19 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21)
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=redken02-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42110 Technic Land Rover Defender   al 37.31 % de descuento'
-date: 2020-11-23 03:57:36
+date: 2020-11-24 04:26:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/518Bxj6-OhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518Bxj6-OhL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 175.45 EUR
 inStock: true
 ---
 
-Está [LEGO 42110 Technic Land Rover Defender  Bauset  Mehrfarbig](https://www.amazon.de/dp/B07P2GQDQ6/?tag=redken02-21) con 37.31 de descuento por 109.99 EUR (original: 175.45 EUR) en el siguiente enlace!
+Está [LEGO 42110 Technic Land Rover Defender  4x4 Geländewagen  exklusives Sammlerstück  Bauset für Fortgeschrittene](https://www.amazon.de/dp/B07P2GQDQ6/?tag=redken02-21) con 37.31 de descuento por 109.99 EUR (original: 175.45 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/518Bxj6-OhL._SL200_.jpg)](https://www.amazon.de/dp/B07P2GQDQ6/?tag=redken02-21)
 
