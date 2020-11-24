@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 21046 - Architecture Empire State B al 32.30 % de descuento'
-date: 2020-11-23 03:58:29
+title: 'LEGO 21046 Architecture Empire State Bui al 32.30 % de descuento'
+date: 2020-11-24 10:36:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 21046 - Architecture Empire State Building  Bauset](https://www.amazon.de/dp/B07KTLHZVC/?tag=redken02-21) a 65.99 EUR (original: 97.47 EUR) (32.30 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler](https://www.amazon.de/dp/B07KTLHZVC/?tag=redken02-21) a 65.99 EUR (original: 97.47 EUR) (32.30 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg)](https://www.amazon.de/dp/B07KTLHZVC/?tag=redken02-21)
 
