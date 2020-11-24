@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Está [LEGO 76896 Speed Champions Nissan GT-R NISMO Rennwagenspielzeug mit Rennfahrer Minifigur  Rennfahrzeuge Bausets](https://www.amazon.de/dp/B07W7TKVVP/?tag=redken02-21) con 28.99 de descuento por 13.84 EUR (original: 19.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 76896 Speed Champions Nissan GT-R NISMO Rennwagenspielzeug mit Rennfahrer Minifigur  Rennfahrzeuge Bausets](https://www.amazon.de/dp/B07W7TKVVP/?tag=redken02-21) a 13.84 EUR (original: 19.49 EUR) (28.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51fzW1r+dlL._SL200_.jpg)](https://www.amazon.de/dp/B07W7TKVVP/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07W7TKVVP/?tag=redken02-21)
+[Visítala!!!](https://www.amazon.de/dp/B07W7TKVVP/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
