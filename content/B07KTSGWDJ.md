@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60228 City Deep Space Rocket and La al 25.56 % de descuento'
-date: 2020-11-24 11:38:23
+title: 'LEGO City Space Port - Cohete Espacial d al 25.00 % de descuento'
+date: 2020-11-25 17:59:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07KTSGWDJ
 description:
-actualPrice: 66.99 GBP
-comparePrice: 89.99 GBP
+actualPrice: 82.49 EUR
+comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60228 City Deep Space Rocket and Launch Control Mars Expedition Set  Space Toys for Kids inspired by NASA with Astronauts  Scientists and Robot Minifigures](https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=redken01-21) a 66.99 GBP (original: 89.99 GBP) (25.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO City Space Port - Cohete Espacial de Larga Distancia y Centro de Control  Juguete de Construcción Inspirado en la NASA con Minifiguras de Científicos y Astronautas  Expedición a Marte  60228 ](https://www.amazon.es/dp/B07KTSGWDJ/?tag=redken-21) a 82.49 EUR (original: 109.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg)](https://www.amazon.es/dp/B07KTSGWDJ/?tag=redken-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KTSGWDJ/?tag=redken-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
