@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42114 Technic Knickgelenkter Volvo- al 26.14 % de descuento'
-date: 2020-11-24 04:33:49
+title: 'LEGO 42114 Technic Knickgelenkter Volvo- al 26.55 % de descuento'
+date: 2020-11-25 04:42:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/513gF1wnXFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513gF1wnXFL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00DFM7HVK
 description:
-actualPrice: 179.99 EUR
+actualPrice: 179.0 EUR
 comparePrice: 243.69 EUR
 inStock: true
 ---
 
-Está [LEGO 42114 Technic Knickgelenkter Volvo-Dumper  6x6   Modellbauset](https://www.amazon.de/dp/B00DFM7HVK/?tag=redken02-21) con 26.14 de descuento por 179.99 EUR (original: 243.69 EUR) en el siguiente enlace!
+Está [LEGO 42114 Technic Knickgelenkter Volvo-Dumper  6x6   Modellbauset](https://www.amazon.de/dp/B00DFM7HVK/?tag=redken02-21) con 26.55 de descuento por 179.0 EUR (original: 243.69 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/513gF1wnXFL._SL200_.jpg)](https://www.amazon.de/dp/B00DFM7HVK/?tag=redken02-21)
 
