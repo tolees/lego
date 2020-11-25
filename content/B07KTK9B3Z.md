@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21045 Architecture Trafalgar Square al 26.91 % de descuento'
-date: 2020-11-24 10:36:05
+date: 2020-11-25 10:51:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg' ]
 comments: true
