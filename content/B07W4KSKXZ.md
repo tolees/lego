@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'LEGO 60253 City Great Vehicles Ice-Cream al 33.35 % de descuento'
-date: 2020-10-13 19:43:26
-thumbnailImage: 'https://m.media-amazon.com/images/I/51b5Hj2140L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51b5Hj2140L._SL200_.jpg' ]
+title: 'LEGO City Great Vehicles Furgone dei Gel al 30.02 % de descuento'
+date: 2020-11-24 23:51:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/51DGUUEW-oL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51DGUUEW-oL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07W4KSKXZ
 description:
-actualPrice: 11.99 GBP
-comparePrice: 17.99 GBP
+actualPrice: 13.99 EUR
+comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60253 City Great Vehicles Ice-Cream Truck Toy with Skater and Dog Figure for Kids 5+ Year Old](https://www.amazon.co.uk/dp/B07W4KSKXZ/?tag=redken01-21) a 11.99 GBP (original: 17.99 GBP) (33.35 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO City Great Vehicles Furgone dei Gelati con Cliente su Skateboard e Cane  per Bambini dai 5 Anni in su  60253](https://www.amazon.it/dp/B07W4KSKXZ/?tag=redken03-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51b5Hj2140L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W4KSKXZ/?tag=redken01-21)
+[![](https://m.media-amazon.com/images/I/51DGUUEW-oL._SL200_.jpg)](https://www.amazon.it/dp/B07W4KSKXZ/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07W4KSKXZ/?tag=redken01-21)
+[Visítala!!!](https://www.amazon.it/dp/B07W4KSKXZ/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
