@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Fire - Parque de Bomberos  est al 31.57 % de descuento'
-date: 2020-11-24 22:51:59
+date: 2020-11-25 23:06:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X+xDd0xML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X+xDd0xML._SL200_.jpg' ]
 comments: true
