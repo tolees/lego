@@ -14,11 +14,11 @@ comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60248 Einsatz mit dem Feuerwehrhubschrauber mit Quad und Motorrad](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21) a 14.48 EUR (original: 19.49 EUR) (25.71 %  de descuento) en el siguiente enlace!
+Está [LEGO City 60248 Einsatz mit dem Feuerwehrhubschrauber mit Quad und Motorrad](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21) con 25.71 de descuento por 14.48 EUR (original: 19.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg)](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
