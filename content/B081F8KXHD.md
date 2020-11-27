@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.63 % en LEGO 42105 Technic Katamaran  Baukasten '
-date: 2020-11-26 05:05:16
+date: 2020-11-27 05:23:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg' ]
 comments: true
