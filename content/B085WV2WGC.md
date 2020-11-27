@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75318 Star Wars: The Mandalorian El al 27.78 % de descuento'
-date: 2020-11-26 04:25:22
+title: 'LEGO 75318 Star Wars The Mandalorian  Da al 29.47 % de descuento'
+date: 2020-11-26 11:26:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B085WV2WGC
 description:
-actualPrice: 64.99 EUR
-comparePrice: 89.99 EUR
+actualPrice: 54.99 EUR
+comparePrice: 77.97 EUR
 inStock: true
 ---
 
-Está [LEGO 75318 Star Wars: The Mandalorian El Niño  Figura de Baby Yoda  Idea de regalo](https://www.amazon.es/dp/B085WV2WGC/?tag=redken-21) con 27.78 de descuento por 64.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [LEGO 75318 Star Wars The Mandalorian  Das Kind  Bauset  Bauspielzeug zum Sammeln für Fans ab 10 Jahren](https://www.amazon.de/dp/B085WV2WGC/?tag=redken02-21) con 29.47 de descuento por 54.99 EUR (original: 77.97 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg)](https://www.amazon.es/dp/B085WV2WGC/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg)](https://www.amazon.de/dp/B085WV2WGC/?tag=redken02-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B085WV2WGC/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B085WV2WGC/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
