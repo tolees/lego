@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.96 % en LEGO- Super Mario Set de Expansión: Poke'
-date: 2020-11-26 13:53:45
+date: 2020-11-27 15:14:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/515lK43whpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515lK43whpL._SL200_.jpg' ]
 comments: true
