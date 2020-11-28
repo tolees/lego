@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75256 Star Wars Kylo Rens Shuttle   al 25.05 % de descuento'
-date: 2020-11-26 19:23:45
+date: 2020-11-27 23:37:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ip5dCIXEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ip5dCIXEL._SL200_.jpg' ]
 comments: true
