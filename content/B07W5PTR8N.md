@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 40.31 % en LEGO 70430 - Newbury U-Bahn-Station  Hid'
-date: 2020-10-13 09:29:43
-thumbnailImage: 'https://m.media-amazon.com/images/I/51MxKMjgEFL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51MxKMjgEFL._SL200_.jpg' ]
+title: 'Descuento del 27.97 % en LEGO Hidden Side 70430 Newbury Subway Se'
+date: 2020-10-22 09:40:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/511nZ+5bf+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/511nZ+5bf+L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07W5PTR8N
 description:
-actualPrice: 17.9 EUR
-comparePrice: 29.99 EUR
+actualPrice: 18.0 GBP
+comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 70430 - Newbury U-Bahn-Station  Hidden Side  Bauset](https://www.amazon.de/dp/B07W5PTR8N/?tag=redken02-21) con un 40.31 % de descuento con precio de oferta de 17.9 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [LEGO Hidden Side 70430 Newbury Subway Set  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.co.uk/dp/B07W5PTR8N/?tag=redken01-21) con un 27.97 % de descuento con precio de oferta de 18.0 GBP (original: 24.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51MxKMjgEFL._SL200_.jpg)](https://www.amazon.de/dp/B07W5PTR8N/?tag=redken02-21)
+[![](https://m.media-amazon.com/images/I/511nZ+5bf+L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W5PTR8N/?tag=redken01-21)
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07W5PTR8N/?tag=redken02-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07W5PTR8N/?tag=redken01-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
