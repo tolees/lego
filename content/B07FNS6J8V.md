@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Descuento del 25.00 % en LEGO City - Fire Brigada Distrito Centro'
-date: 2020-11-27 06:56:34
-thumbnailImage: 'https://m.media-amazon.com/images/I/61fQPuqWgxL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61fQPuqWgxL._SL200_.jpg' ]
+title: 'Descuento del 26.23 % en LEGO 60216 City Feuerwehr in der Stadt  '
+date: 2020-11-28 00:52:34
+thumbnailImage: 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNS6J8V
 description:
-actualPrice: 82.49 EUR
-comparePrice: 109.99 EUR
+actualPrice: 71.9 EUR
+comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Tienes [LEGO City - Fire Brigada Distrito Centro  Juguete Divertido y Creativo de Bomberos con Camión  Grúa  Edificio  Moto y Helicóptero  60216 ](https://www.amazon.es/dp/B07FNS6J8V/?tag=redken-21) con un 25.00 % de descuento con precio de oferta de 82.49 EUR (original: 109.99 EUR) en el siguiente enlace!
+Tienes [LEGO 60216 City Feuerwehr in der Stadt  Bauset mit Feuerwehrauto  Kran  Hubschrauber  Motorrad und 7 Minifiguren  Feuerwehrspielzeuge für Kinder](https://www.amazon.de/dp/B07FNS6J8V/?tag=redken02-21) con un 26.23 % de descuento con precio de oferta de 71.9 EUR (original: 97.47 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61fQPuqWgxL._SL200_.jpg)](https://www.amazon.es/dp/B07FNS6J8V/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg)](https://www.amazon.de/dp/B07FNS6J8V/?tag=redken02-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07FNS6J8V/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.de/dp/B07FNS6J8V/?tag=redken02-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
