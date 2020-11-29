@@ -14,11 +14,11 @@ comparePrice: 49.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Speed Champions 1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy 75894 Building Kit  481 Pieces ](https://www.amazon.com/dp/B07GZ4PTLK/?tag=tolees-20) a 34.95 USD (original: 49.99 USD) (30.09 %  de descuento) en el siguiente enlace!
+Está [LEGO Speed Champions 1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy 75894 Building Kit  481 Pieces ](https://www.amazon.com/dp/B07GZ4PTLK/?tag=tolees-20) con 30.09 de descuento por 34.95 USD (original: 49.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51CqJm-6nSL._SL200_.jpg)](https://www.amazon.com/dp/B07GZ4PTLK/?tag=tolees-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07GZ4PTLK/?tag=tolees-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07GZ4PTLK/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
