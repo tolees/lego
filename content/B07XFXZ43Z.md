@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75278 Star Wars D-O Droide  Sammler al 26.73 % de descuento'
-date: 2020-11-28 17:44:43
+date: 2020-11-29 18:02:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg' ]
 comments: true
