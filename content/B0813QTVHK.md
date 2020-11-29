@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 71703 NINJAGO - Kräftemessen mit de al 28.94 % de descuento'
-date: 2020-11-23 13:16:15
+title: 'LEGO 71703 NINJAGO Legacy 4+ Kräftemesse al 28.94 % de descuento'
+date: 2020-11-29 13:39:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P8ehSzTPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P8ehSzTPL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 29.23 EUR
 inStock: true
 ---
 
-Está [LEGO 71703 NINJAGO - Kräftemessen mit dem Donner-Jet](https://www.amazon.de/dp/B0813QTVHK/?tag=redken02-21) con 28.94 de descuento por 20.77 EUR (original: 29.23 EUR) en el siguiente enlace!
+Está [LEGO 71703 NINJAGO Legacy 4+ Kräftemessen mit dem Donner-Jet Set  Meister des Spinjitzu Spielzeuge für Kinder](https://www.amazon.de/dp/B0813QTVHK/?tag=redken02-21) con 28.94 de descuento por 20.77 EUR (original: 29.23 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51P8ehSzTPL._SL200_.jpg)](https://www.amazon.de/dp/B0813QTVHK/?tag=redken02-21)
 

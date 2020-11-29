@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'LEGO City Police - Policía: Camión de Tr al 32.51 % de descuento'
-date: 2020-11-28 12:49:50
-thumbnailImage: 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg' ]
+title: 'LEGO City Trasportatore di Elicotteri de al 30.21 % de descuento'
+date: 2020-11-29 05:35:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/51D4jv2+N6L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51D4jv2+N6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07W6Q9JXK
 description:
-actualPrice: 33.74 EUR
-comparePrice: 49.99 EUR
+actualPrice: 31.4 EUR
+comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Está [LEGO City Police - Policía: Camión de Transporte del Helicóptero  Juguete de Construcción de Aventuras  con un Helicóptero  una Moto  un Quad y Minifiguras  60244 ](https://www.amazon.es/dp/B07W6Q9JXK/?tag=redken-21) con 32.51 de descuento por 33.74 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [LEGO City Trasportatore di Elicotteri della Polizia con Quad ATV  Moto e Autoarticolato  60244](https://www.amazon.it/dp/B07W6Q9JXK/?tag=redken03-21) con 30.21 de descuento por 31.4 EUR (original: 44.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg)](https://www.amazon.es/dp/B07W6Q9JXK/?tag=redken-21)
+[![](https://m.media-amazon.com/images/I/51D4jv2+N6L._SL200_.jpg)](https://www.amazon.it/dp/B07W6Q9JXK/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07W6Q9JXK/?tag=redken-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07W6Q9JXK/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
