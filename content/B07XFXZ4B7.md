@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars - Casco de Boba Fett  Set al 27.85 % de descuento'
-date: 2020-11-27 23:07:55
+date: 2020-11-29 01:02:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RRxz9+ksL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RRxz9+ksL._SL200_.jpg' ]
 comments: true
