@@ -14,11 +14,11 @@ comparePrice: 49.99 USD
 inStock: true
 ---
 
-Tienes [LEGO Friends Andrea s Pool Party 41374 Toy Pool Building Set with Andrea and Stephanie Mini Dolls for Pretend Play  Includes Toy Juice Bar and Wave Machine  468 Pieces ](https://www.amazon.com/dp/B07QTDVKK3/?tag=redken08-20) con un 32.05 % de descuento con precio de oferta de 33.97 USD (original: 49.99 USD) en el siguiente enlace!
+Tienes [LEGO Friends Andrea s Pool Party 41374 Toy Pool Building Set with Andrea and Stephanie Mini Dolls for Pretend Play  Includes Toy Juice Bar and Wave Machine  468 Pieces ](https://www.amazon.com/dp/B07QTDVKK3/?tag=tolees-20) con un 32.05 % de descuento con precio de oferta de 33.97 USD (original: 49.99 USD) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61GYb-lU7QL._SL200_.jpg)](https://www.amazon.com/dp/B07QTDVKK3/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/61GYb-lU7QL._SL200_.jpg)](https://www.amazon.com/dp/B07QTDVKK3/?tag=tolees-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07QTDVKK3/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07QTDVKK3/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
