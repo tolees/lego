@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO My First Tow Truck 10918 Educ al 40.06 % de descuento'
-date: 2020-11-26 09:10:03
+date: 2020-11-30 08:46:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WjgFqOukL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WjgFqOukL._SL200_.jpg' ]
 comments: true
