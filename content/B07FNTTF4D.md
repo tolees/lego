@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO City 60221 Tauchyacht mit 2 Taucher al 26.17 % de descuento'
-date: 2020-11-23 13:14:48
+title: 'LEGO 60221 City Tauchyacht  Spielzeug mi al 31.30 % de descuento'
+date: 2020-12-01 09:37:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vWX19N1-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vWX19N1-L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNTTF4D
 description:
-actualPrice: 14.39 EUR
+actualPrice: 13.39 EUR
 comparePrice: 19.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City 60221 Tauchyacht mit 2 Taucher-Minifiguren](https://www.amazon.de/dp/B07FNTTF4D/?tag=tolees0ca-21) a 14.39 EUR (original: 19.49 EUR) (26.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 60221 City Tauchyacht  Spielzeug mit 2 Taucher-Minifiguren  Meerestieren und Schwertfischfigur  Tiefsee-Set für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07FNTTF4D/?tag=tolees0ca-21) a 13.39 EUR (original: 19.49 EUR) (31.30 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51vWX19N1-L._SL200_.jpg)](https://www.amazon.de/dp/B07FNTTF4D/?tag=tolees0ca-21)
 

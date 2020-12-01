@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60244 City Polizeihubschrauber-Tran al 32.08 % de descuento'
-date: 2020-11-30 09:18:38
+title: 'LEGO City Police - Policía: Camión de Tr al 32.51 % de descuento'
+date: 2020-11-30 14:30:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07W6Q9JXK
 description:
-actualPrice: 29.79 EUR
-comparePrice: 43.86 EUR
+actualPrice: 33.74 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21) con 32.08 de descuento por 29.79 EUR (original: 43.86 EUR) en el siguiente enlace!
+Está [LEGO City Police - Policía: Camión de Transporte del Helicóptero  Juguete de Construcción de Aventuras  con un Helicóptero  una Moto  un Quad y Minifiguras  60244 ](https://www.amazon.es/dp/B07W6Q9JXK/?tag=tolees-21) con 32.51 de descuento por 33.74 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg)](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21)
+[![](https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg)](https://www.amazon.es/dp/B07W6Q9JXK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07W6Q9JXK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
