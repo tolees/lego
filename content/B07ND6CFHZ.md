@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.30 % en LEGO 42099 Technic Control+ 4x4 Allrad X'
-date: 2020-11-30 18:13:14
+date: 2020-12-01 18:56:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SFZtmVgGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SFZtmVgGL._SL200_.jpg' ]
 comments: true

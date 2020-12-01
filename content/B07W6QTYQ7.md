@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en LEGO 42106 Technic Stunt-Show mit Truck '
-date: 2020-11-30 06:25:36
+date: 2020-12-01 18:29:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL200_.jpg' ]
 comments: true
