@@ -14,11 +14,11 @@ comparePrice: 58.48 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75276 Star Wars Stormtrooper Helm  Bauset  Sammlerobjekt für Erwachsene](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21) a 43.64 EUR (original: 58.48 EUR) (25.38 %  de descuento) en el siguiente enlace!
+Está [LEGO 75276 Star Wars Stormtrooper Helm  Bauset  Sammlerobjekt für Erwachsene](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21) con 25.38 de descuento por 43.64 EUR (original: 58.48 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51450fUeLlL._SL200_.jpg)](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
