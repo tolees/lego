@@ -14,11 +14,11 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [LEGO 70682 NINJAGO Spinjitzu Slam - Jay  Vom Hersteller nicht Weiterverkauft ](https://www.amazon.de/dp/B07KTVSXLY/?tag=tolees0ca-21) con 35.14 de descuento por 6.48 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70682 NINJAGO Spinjitzu Slam - Jay  Vom Hersteller nicht Weiterverkauft ](https://www.amazon.de/dp/B07KTVSXLY/?tag=tolees0ca-21) a 6.48 EUR (original: 9.99 EUR) (35.14 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51GTGgrCNQL._SL200_.jpg)](https://www.amazon.de/dp/B07KTVSXLY/?tag=tolees0ca-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07KTVSXLY/?tag=tolees0ca-21)
+[Visítala!!!](https://www.amazon.de/dp/B07KTVSXLY/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
