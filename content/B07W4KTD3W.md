@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 21051 Architecture Tokio Modell  Sk al 31.81 % de descuento'
-date: 2020-12-01 18:56:19
+title: 'LEGO 21051 Architecture Tokio Modell  Sk al 26.64 % de descuento'
+date: 2020-12-03 00:52:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NfBgYsa9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NfBgYsa9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07W4KTD3W
 description:
-actualPrice: 39.88 EUR
+actualPrice: 42.9 EUR
 comparePrice: 58.48 EUR
 inStock: true
 ---
 
-Está [LEGO 21051 Architecture Tokio Modell  Skyline-Kollektion  Bauset für Sammler](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21) con 31.81 de descuento por 39.88 EUR (original: 58.48 EUR) en el siguiente enlace!
+Está [LEGO 21051 Architecture Tokio Modell  Skyline-Kollektion  Bauset für Sammler](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21) con 26.64 de descuento por 42.9 EUR (original: 58.48 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NfBgYsa9L._SL200_.jpg)](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21)
 
