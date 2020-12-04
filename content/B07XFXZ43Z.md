@@ -14,11 +14,11 @@ comparePrice: 64.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75278 Star Wars D-O Droid Collectable Model Building Set from The Rise of Skywalker](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21) a 45.0 GBP (original: 64.99 GBP) (30.76 %  de descuento) en el siguiente enlace!
+Está [LEGO 75278 Star Wars D-O Droid Collectable Model Building Set from The Rise of Skywalker](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21) con 30.76 de descuento por 45.0 GBP (original: 64.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
