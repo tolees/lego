@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75278 Star Wars D-O Droide  Sammler al 27.47 % de descuento'
-date: 2020-12-03 06:51:58
+title: 'LEGO 75278 Star Wars D-O Droid Collectab al 30.76 % de descuento'
+date: 2020-12-04 14:09:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07XFXZ43Z
 description:
-actualPrice: 49.49 EUR
-comparePrice: 68.23 EUR
+actualPrice: 45.0 GBP
+comparePrice: 64.99 GBP
 inStock: true
 ---
 
-Está [LEGO 75278 Star Wars D-O Droide  Sammlermodell  Bauset aus Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21) con 27.47 de descuento por 49.49 EUR (original: 68.23 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75278 Star Wars D-O Droid Collectable Model Building Set from The Rise of Skywalker](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21) a 45.0 GBP (original: 64.99 GBP) (30.76 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg)](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21)
+[![](https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
