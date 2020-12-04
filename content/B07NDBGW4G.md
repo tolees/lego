@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'LEGO 42100 Technic Control+ Liebherr R 9 al 28.75 % de descuento'
-date: 2020-12-01 06:14:05
-thumbnailImage: 'https://m.media-amazon.com/images/I/51D3YSFZFsL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51D3YSFZFsL._SL200_.jpg' ]
+title: 'LEGO 42100 Technic Liebherr Bagger R 980 al 28.42 % de descuento'
+date: 2020-12-04 01:26:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NDBGW4G
 description:
-actualPrice: 285.0 GBP
-comparePrice: 399.99 GBP
+actualPrice: 314.0 EUR
+comparePrice: 438.65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 42100 Technic Control+ Liebherr R 9800 Excavator App Controlled Advanced Construction Set with Interactive Motors and Bluetooth Connectivity](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21) a 285.0 GBP (original: 399.99 GBP) (28.75 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 42100 Technic Liebherr Bagger R 9800  App-gesteuertes Konstruktionsspielzeug für Fortgeschrittene mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21) a 314.0 EUR (original: 438.65 EUR) (28.42 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51D3YSFZFsL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)
+[![](https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg)](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)
+[Visítala!!!](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
