@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.34 % en LEGO- City Carrera Aérea Airport Aeropue'
-date: 2020-12-04 07:39:42
+title: 'LEGO 60260 City Airport Air Race Toy  Pl al 33.33 % de descuento'
+date: 2020-12-05 09:01:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B0813QPZTR
 description:
-actualPrice: 21.79 EUR
-comparePrice: 29.99 EUR
+actualPrice: 16.66 GBP
+comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO- City Carrera Aérea Airport Aeropuerto  Set Helicópteros Incorporado  Aviones de Juguete para Niños +5 Años  Multicolor  60260 ](https://www.amazon.es/dp/B0813QPZTR/?tag=tolees-21) con un 27.34 % de descuento con precio de oferta de 21.79 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [LEGO 60260 City Airport Air Race Toy  Plane & Helicopters Play Set  Aeroplane Toys for Kids 5+](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21) con 33.33 de descuento por 16.66 GBP (original: 24.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg)](https://www.amazon.es/dp/B0813QPZTR/?tag=tolees-21)
+[![](https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B0813QPZTR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
