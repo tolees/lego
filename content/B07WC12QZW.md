@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75272 Star Wars Sith TIE Fighter Ba al 25.27 % de descuento'
-date: 2020-12-05 08:17:58
+date: 2020-12-06 08:35:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KLLnT6W0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KLLnT6W0L._SL200_.jpg' ]
 comments: true
