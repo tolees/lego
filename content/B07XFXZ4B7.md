@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75277 Star Wars Boba Fett Helm  Sch al 25.00 % de descuento'
-date: 2020-12-05 20:42:29
+date: 2020-12-06 20:49:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RRxz9+ksL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RRxz9+ksL._SL200_.jpg' ]
 comments: true
