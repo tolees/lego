@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60254 City Rennboot-Transporter LKW al 33.32 % de descuento'
-date: 2020-11-30 09:19:13
+date: 2020-12-07 17:35:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/513d96iobbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513d96iobbL._SL200_.jpg' ]
 comments: true
