@@ -6,7 +6,8 @@ theme = "hugo-shopping-product-catalogue-simple"
 [Params]
 description = "Las últimas rebajas de"
 channel = "https://t.me/s/brickchollo"
-
+ga = "G-CCLRP3R12J"
+yandex = "27d3b6cce1d74b40"
 
 [sitemap]
   changefreq = "daily"
