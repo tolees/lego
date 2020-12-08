@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Dimensions - The Simpsons  Homer al 43.97 % de descuento'
-date: 2020-12-03 07:51:40
+title: 'LEGO Dimensions - The Simpsons  Homer al 26.12 % de descuento'
+date: 2020-12-08 09:50:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Wr0fPR2dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Wr0fPR2dL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00ZWVGYD4
 description:
-actualPrice: 11.99 EUR
+actualPrice: 15.81 EUR
 comparePrice: 21.4 EUR
 inStock: true
 ---
 
-Está [LEGO Dimensions - The Simpsons  Homer](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21) con 43.97 de descuento por 11.99 EUR (original: 21.4 EUR) en el siguiente enlace!
+Está [LEGO Dimensions - The Simpsons  Homer](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21) con 26.12 de descuento por 15.81 EUR (original: 21.4 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Wr0fPR2dL._SL200_.jpg)](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21)
 

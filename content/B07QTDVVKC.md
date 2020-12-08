@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en LEGO Creator 3in1 Twin Rotor Helicopter '
-date: 2020-12-03 09:14:27
+date: 2020-12-08 09:41:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qSl9AsyJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qSl9AsyJL._SL200_.jpg' ]
 comments: true
