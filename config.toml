@@ -13,3 +13,7 @@ yandex = "27d3b6cce1d74b40"
   changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
