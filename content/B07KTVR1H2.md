@@ -14,10 +14,12 @@ comparePrice: 38.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60234 City  Stadtbewohner  Jahrmarkt  Bauset mit 14 Minifiguren  Baupielzeug für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07KTVR1H2/?tag=tolees0ca-21) a 27.99 EUR (original: 38.98 EUR) (28.19 %  de descuento) en el siguiente enlace!
+Está [LEGO 60234 City  Stadtbewohner  Jahrmarkt  Bauset mit 14 Minifiguren  Baupielzeug für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07KTVR1H2/?tag=tolees0ca-21) con 28.19 de descuento por 27.99 EUR (original: 38.98 EUR) en el siguiente enlace!
 
 [![LEGO 60234 City  Stadtbewohner  Jahrmark](https://m.media-amazon.com/images/I/51Jl6y4V17L._SL200_.jpg)](https://www.amazon.de/dp/B07KTVR1H2/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07KTVR1H2/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07KTVR1H2/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
