@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO City - Polizia aerea all inseguimen al 30.02 % de descuento'
-date: 2020-10-25 22:49:49
+title: 'Descuento del 27.96 % en LEGO 60207 City Police Sky Police Drone '
+date: 2020-10-26 17:35:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B07FNN17DK
 description:
-actualPrice: 13.99 EUR
-comparePrice: 19.99 EUR
+actualPrice: 12.96 GBP
+comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO City - Polizia aerea all inseguimento del drone  60207](https://www.amazon.it/dp/B07FNN17DK/?tag=tolees00-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [LEGO 60207 City Police Sky Police Drone Chase Helicopter Toy with Net Shooter  Jail Break Sets for Kids](https://www.amazon.co.uk/dp/B07FNN17DK/?tag=tolees0a-21) con un 27.96 % de descuento con precio de oferta de 12.96 GBP (original: 17.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg)](https://www.amazon.it/dp/B07FNN17DK/?tag=tolees00-21)
+[![](https://m.media-amazon.com/images/I/51gNDDfCPML._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNN17DK/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07FNN17DK/?tag=tolees00-21)
+[Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FNN17DK/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
