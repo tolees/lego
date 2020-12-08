@@ -16,10 +16,10 @@ inStock: true
 
 Está [LEGO Teo 755 L/S Camiseta  Niños  Blanco  Off White   140  Tamaño del Fabricante:140 ](https://www.amazon.es/dp/B071W1CXJP/?tag=tolees-21) con 77.30 de descuento por 6.8 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51-y8nlRTpL._SL200_.jpg)](https://www.amazon.es/dp/B071W1CXJP/?tag=tolees-21)
+[![LEGO Teo 755 L/S Camiseta  Niños  Blanco](https://images-eu.ssl-images-amazon.com/images/I/51-y8nlRTpL._SL200_.jpg)](https://www.amazon.es/dp/B071W1CXJP/?tag=tolees-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071W1CXJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

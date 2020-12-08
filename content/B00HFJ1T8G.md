@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Lego La Grande Aventure : Le Jeu Video](https://www.amazon.fr/dp/B00HFJ1T8G/?tag=tolees0d-21) a 9.99 EUR (original: 29.99 EUR) (66.69 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61cYgzSMI1L._SL200_.jpg)](https://www.amazon.fr/dp/B00HFJ1T8G/?tag=tolees0d-21)
+[![Lego La Grande Aventure : Le Jeu Video](https://m.media-amazon.com/images/I/61cYgzSMI1L._SL200_.jpg)](https://www.amazon.fr/dp/B00HFJ1T8G/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B00HFJ1T8G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

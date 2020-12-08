@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [LEGO Creator 3in1 Twin Rotor Helicopter 31096 Building Kit  569 Pieces ](https://www.amazon.com/dp/B07QTDVVKC/?tag=tolees-20) a 41.99 USD (original: 59.99 USD) (30.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51qSl9AsyJL._SL200_.jpg)](https://www.amazon.com/dp/B07QTDVVKC/?tag=tolees-20)
+[![LEGO Creator 3in1 Twin Rotor Helicopter ](https://m.media-amazon.com/images/I/51qSl9AsyJL._SL200_.jpg)](https://www.amazon.com/dp/B07QTDVVKC/?tag=tolees-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07QTDVVKC/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

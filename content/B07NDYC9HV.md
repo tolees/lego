@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [LEGO Friends Heartlake City Amusement Pier 41375 Toy Rollercoaster Building Kit with Mini Dolls and Toy Dolphin  Build and Play Set includes Toy Carousel  Ticket Kiosk and more  1 251 Pieces ](https://www.amazon.com/dp/B07NDYC9HV/?tag=tolees-20) con un 37.00 % de descuento con precio de oferta de 81.89 USD (original: 129.99 USD) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Z5tC3N+vL._SL200_.jpg)](https://www.amazon.com/dp/B07NDYC9HV/?tag=tolees-20)
+[![LEGO Friends Heartlake City Amusement Pi](https://m.media-amazon.com/images/I/51Z5tC3N+vL._SL200_.jpg)](https://www.amazon.com/dp/B07NDYC9HV/?tag=tolees-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07NDYC9HV/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+
