@@ -14,11 +14,11 @@ comparePrice: 68.23 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 43172 Disney Princess Frozen Elsas magischer Eispalast  Set mit Elsa & Anna Minipuppen und Spielplatz](https://www.amazon.de/dp/B07QGX7QY5/?tag=tolees0ca-21) a 48.73 EUR (original: 68.23 EUR) (28.58 %  de descuento) en el siguiente enlace!
+Está [LEGO 43172 Disney Princess Frozen Elsas magischer Eispalast  Set mit Elsa & Anna Minipuppen und Spielplatz](https://www.amazon.de/dp/B07QGX7QY5/?tag=tolees0ca-21) con 28.58 de descuento por 48.73 EUR (original: 68.23 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51sEY4E31sL._SL200_.jpg)](https://www.amazon.de/dp/B07QGX7QY5/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07QGX7QY5/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07QGX7QY5/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
