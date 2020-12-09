@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® Technic Chevrolet Corvette ZR1 Jeu al 30.23 % de descuento'
-date: 2020-12-08 03:42:33
+date: 2020-12-09 03:47:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pftFY6tTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pftFY6tTL._SL200_.jpg' ]
 comments: true
