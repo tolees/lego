@@ -17,10 +17,12 @@ inStock: true
 prodname: 'LEGO Hidden Side Newbury Subway 70430 Ghost Toy  Cool Augmented Reality Play Experience for Kids  New 2020  348 Pieces '
 ---
 
-Ahora mismo tienes [LEGO Hidden Side Newbury Subway 70430 Ghost Toy  Cool Augmented Reality Play Experience for Kids  New 2020  348 Pieces ](https://www.amazon.com/dp/B07WF9TBTM/?tag=tolees-20) a 20.99 USD (original: 29.99 USD) (30.01 %  de descuento) en el siguiente enlace!
+Está [LEGO Hidden Side Newbury Subway 70430 Ghost Toy  Cool Augmented Reality Play Experience for Kids  New 2020  348 Pieces ](https://www.amazon.com/dp/B07WF9TBTM/?tag=tolees-20) con 30.01 de descuento por 20.99 USD (original: 29.99 USD) en el siguiente enlace!
 
 [![LEGO Hidden Side Newbury Subway 70430 Gh](https://m.media-amazon.com/images/I/51xwCFjloOL._SL200_.jpg)](https://www.amazon.com/dp/B07WF9TBTM/?tag=tolees-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07WF9TBTM/?tag=tolees-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07WF9TBTM/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
