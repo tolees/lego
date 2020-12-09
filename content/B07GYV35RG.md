@@ -14,7 +14,7 @@ currency: USD
 price: 53.49
 comparePrice: 84.99 USD
 inStock: true
-prodname: LEGO NINJAGO Legacy The Ultra Dragon 70679 Building Kit  951 Pieces 
+prodname: 'LEGO NINJAGO Legacy The Ultra Dragon 70679 Building Kit  951 Pieces '
 ---
 
 Ahora mismo tienes [LEGO NINJAGO Legacy The Ultra Dragon 70679 Building Kit  951 Pieces ](https://www.amazon.com/dp/B07GYV35RG/?tag=tolees-20) a 53.49 USD (original: 84.99 USD) (37.06 %  de descuento) en el siguiente enlace!

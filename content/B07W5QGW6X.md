@@ -14,7 +14,7 @@ currency: GBP
 price: 16.5
 comparePrice: 24.99 GBP
 inStock: true
-prodname: LEGO 41253 Trolls World Tour Lonesome Flats Raft Adventure Playset with Poppy  Branch and Hicory
+prodname: 'LEGO 41253 Trolls World Tour Lonesome Flats Raft Adventure Playset with Poppy  Branch and Hicory'
 ---
 
 Tienes [LEGO 41253 Trolls World Tour Lonesome Flats Raft Adventure Playset with Poppy  Branch and Hicory](https://www.amazon.co.uk/dp/B07W5QGW6X/?tag=tolees0a-21) con un 33.97 % de descuento con precio de oferta de 16.5 GBP (original: 24.99 GBP) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.89
 comparePrice: 6.59 EUR
 inStock: true
-prodname: LEGO 71027 Series 20 Produkttitel fehlt-Wird nachgereicht  Sortiert
+prodname: 'LEGO 71027 Series 20 Produkttitel fehlt-Wird nachgereicht  Sortiert'
 ---
 
 Está [LEGO 71027 Series 20 Produkttitel fehlt-Wird nachgereicht  Sortiert](https://www.amazon.de/dp/B07YSV5QZ1/?tag=tolees0ca-21) con 40.97 de descuento por 3.89 EUR (original: 6.59 EUR) en el siguiente enlace!

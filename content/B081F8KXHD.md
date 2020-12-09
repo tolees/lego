@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: LEGO Technic Catamarano e Barca a Vela 2 in 1  Giocattolo Galleggiante  42105
+prodname: 'LEGO Technic Catamarano e Barca a Vela 2 in 1  Giocattolo Galleggiante  42105'
 ---
 
 Ahora mismo tienes [LEGO Technic Catamarano e Barca a Vela 2 in 1  Giocattolo Galleggiante  42105](https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

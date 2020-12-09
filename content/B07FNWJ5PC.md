@@ -14,7 +14,7 @@ currency: EUR
 price: 62.9
 comparePrice: 89.99 EUR
 inStock: true
-prodname: LEGO NINJAGO - Le monastère de Spinjitzu - 70670 - Jeu de construction
+prodname: 'LEGO NINJAGO - Le monastère de Spinjitzu - 70670 - Jeu de construction'
 ---
 
 Está [LEGO NINJAGO - Le monastère de Spinjitzu - 70670 - Jeu de construction](https://www.amazon.fr/dp/B07FNWJ5PC/?tag=tolees0d-21) con 30.10 de descuento por 62.9 EUR (original: 89.99 EUR) en el siguiente enlace!

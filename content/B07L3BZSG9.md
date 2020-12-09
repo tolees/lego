@@ -14,7 +14,7 @@ currency: EUR
 price: 64.99
 comparePrice: 87.72 EUR
 inStock: true
-prodname: LEGO 75938 - Jurassic World T. Rex vs. Dino-Mech  Bauset
+prodname: 'LEGO 75938 - Jurassic World T. Rex vs. Dino-Mech  Bauset'
 ---
 
 Está [LEGO 75938 - Jurassic World T. Rex vs. Dino-Mech  Bauset](https://www.amazon.de/dp/B07L3BZSG9/?tag=tolees0ca-21) con 25.91 de descuento por 64.99 EUR (original: 87.72 EUR) en el siguiente enlace!

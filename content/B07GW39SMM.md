@@ -14,7 +14,7 @@ currency: USD
 price: 62.99
 comparePrice: 89.99 USD
 inStock: true
-prodname: LEGO City Sky Police Air Base 60210 Building Kit  529 Pieces 
+prodname: 'LEGO City Sky Police Air Base 60210 Building Kit  529 Pieces '
 ---
 
 Ahora mismo tienes [LEGO City Sky Police Air Base 60210 Building Kit  529 Pieces ](https://www.amazon.com/dp/B07GW39SMM/?tag=tolees-20) a 62.99 USD (original: 89.99 USD) (30.00 %  de descuento) en el siguiente enlace!

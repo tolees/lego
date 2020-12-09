@@ -14,7 +14,7 @@ currency: GBP
 price: 8.5
 comparePrice: 12.99 GBP
 inStock: true
-prodname: LEGO 41363 Friends Mia s Forest Adventure Building Set  Mia mini-doll and Animal figures  Forest Toys for Kids
+prodname: 'LEGO 41363 Friends Mia s Forest Adventure Building Set  Mia mini-doll and Animal figures  Forest Toys for Kids'
 ---
 
 Tienes [LEGO 41363 Friends Mia s Forest Adventure Building Set  Mia mini-doll and Animal figures  Forest Toys for Kids](https://www.amazon.co.uk/dp/B07FNN12NC/?tag=tolees0a-21) con un 34.57 % de descuento con precio de oferta de 8.5 GBP (original: 12.99 GBP) en el siguiente enlace!

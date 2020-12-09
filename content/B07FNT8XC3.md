@@ -14,7 +14,7 @@ currency: EUR
 price: 39.9
 comparePrice: 59.99 EUR
 inStock: true
-prodname: LEGO® Minecraft™ L aventure du bateau pirate Jeu de construction  8 Ans et Plus  386 Pièces 21152
+prodname: 'LEGO® Minecraft™ L aventure du bateau pirate Jeu de construction  8 Ans et Plus  386 Pièces 21152'
 ---
 
 Está [LEGO® Minecraft™ L aventure du bateau pirate Jeu de construction  8 Ans et Plus  386 Pièces 21152](https://www.amazon.fr/dp/B07FNT8XC3/?tag=tolees0d-21) con 33.49 de descuento por 39.9 EUR (original: 59.99 EUR) en el siguiente enlace!

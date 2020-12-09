@@ -14,15 +14,13 @@ currency: EUR
 price: 21.49
 comparePrice: 29.23 EUR
 inStock: true
-prodname: LEGO 11004 Classic - Bausteine kreativ mit Fenstern  Bauset
+prodname: 'LEGO 11004 Classic - Bausteine kreativ mit Fenstern  Bauset'
 ---
 
-Está [LEGO 11004 Classic - Bausteine kreativ mit Fenstern  Bauset](https://www.amazon.de/dp/B07KTK6PP1/?tag=tolees0ca-21) con 26.48 de descuento por 21.49 EUR (original: 29.23 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 11004 Classic - Bausteine kreativ mit Fenstern  Bauset](https://www.amazon.de/dp/B07KTK6PP1/?tag=tolees0ca-21) a 21.49 EUR (original: 29.23 EUR) (26.48 %  de descuento) en el siguiente enlace!
 
 [![LEGO 11004 Classic - Bausteine kreativ m](https://m.media-amazon.com/images/I/618xcKQc7WL._SL200_.jpg)](https://www.amazon.de/dp/B07KTK6PP1/?tag=tolees0ca-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07KTK6PP1/?tag=tolees0ca-21)
+[Visítala!!!](https://www.amazon.de/dp/B07KTK6PP1/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

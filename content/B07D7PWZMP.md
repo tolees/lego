@@ -14,7 +14,7 @@ currency: USD
 price: 35.97
 comparePrice: 49.99 USD
 inStock: true
-prodname: LEGO Super Heroes Marvel Spider Mech Vs. Venom 76115 Action Toy Building Kit with Web Shooter and Gripping Toy Claw Includes Spider-Man Minifigures Venom and Ghost Spider  604 Pieces 
+prodname: 'LEGO Super Heroes Marvel Spider Mech Vs. Venom 76115 Action Toy Building Kit with Web Shooter and Gripping Toy Claw Includes Spider-Man Minifigures Venom and Ghost Spider  604 Pieces '
 ---
 
 Está [LEGO Super Heroes Marvel Spider Mech Vs. Venom 76115 Action Toy Building Kit with Web Shooter and Gripping Toy Claw Includes Spider-Man Minifigures Venom and Ghost Spider  604 Pieces ](https://www.amazon.com/dp/B07D7PWZMP/?tag=tolees-20) con 28.05 de descuento por 35.97 USD (original: 49.99 USD) en el siguiente enlace!

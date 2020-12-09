@@ -14,7 +14,7 @@ currency: GBP
 price: 249.99
 comparePrice: 349.99 GBP
 inStock: true
-prodname: LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advanced Building Set for Adults  Exclusive Collectible Model
+prodname: 'LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advanced Building Set for Adults  Exclusive Collectible Model'
 ---
 
 Está [LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advanced Building Set for Adults  Exclusive Collectible Model](https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21) con 28.57 de descuento por 249.99 GBP (original: 349.99 GBP) en el siguiente enlace!

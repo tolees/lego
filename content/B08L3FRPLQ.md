@@ -14,7 +14,7 @@ currency: GBP
 price: 27.99
 comparePrice: 39.99 GBP
 inStock: true
-prodname: Fujinfeng 530Pcs Technic Parts and Pieces for Lego  DIY Educational Technic Parts Wheels Beams Pin Connector Bricks Parts
+prodname: 'Fujinfeng 530Pcs Technic Parts and Pieces for Lego  DIY Educational Technic Parts Wheels Beams Pin Connector Bricks Parts'
 ---
 
 Está [Fujinfeng 530Pcs Technic Parts and Pieces for Lego  DIY Educational Technic Parts Wheels Beams Pin Connector Bricks Parts](https://www.amazon.co.uk/dp/B08L3FRPLQ/?tag=tolees0a-21) con 30.01 de descuento por 27.99 GBP (original: 39.99 GBP) en el siguiente enlace!

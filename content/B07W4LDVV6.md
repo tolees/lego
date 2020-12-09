@@ -14,7 +14,7 @@ currency: EUR
 price: 25.0
 comparePrice: 34.99 EUR
 inStock: true
-prodname: LEGO Trolls World Tour Avventura in Mongolfiera di Poppy  Playset con Poppy  Branch  Biggie e Mr Dinkles  41252
+prodname: 'LEGO Trolls World Tour Avventura in Mongolfiera di Poppy  Playset con Poppy  Branch  Biggie e Mr Dinkles  41252'
 ---
 
 Tienes [LEGO Trolls World Tour Avventura in Mongolfiera di Poppy  Playset con Poppy  Branch  Biggie e Mr Dinkles  41252](https://www.amazon.it/dp/B07W4LDVV6/?tag=tolees00-21) con un 28.55 % de descuento con precio de oferta de 25.0 EUR (original: 34.99 EUR) en el siguiente enlace!

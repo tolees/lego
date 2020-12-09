@@ -14,7 +14,7 @@ currency: USD
 price: 5.99
 comparePrice: 9.99 USD
 inStock: true
-prodname: LEGO Creator 3in1 Helicopter Adventure 31092 Building Kit  114Pieces 
+prodname: 'LEGO Creator 3in1 Helicopter Adventure 31092 Building Kit  114Pieces '
 ---
 
 Está [LEGO Creator 3in1 Helicopter Adventure 31092 Building Kit  114Pieces ](https://www.amazon.com/dp/B07HPVV85N/?tag=tolees-20) con 40.04 de descuento por 5.99 USD (original: 9.99 USD) en el siguiente enlace!

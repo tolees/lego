@@ -14,7 +14,7 @@ currency: EUR
 price: 13.95
 comparePrice: 19.49 EUR
 inStock: true
-prodname: LEGO 41361 - Friends Mias Fohlenstall  bunt
+prodname: 'LEGO 41361 - Friends Mias Fohlenstall  bunt'
 ---
 
 Ahora mismo tienes [LEGO 41361 - Friends Mias Fohlenstall  bunt](https://www.amazon.de/dp/B07FNN12NN/?tag=tolees0ca-21) a 13.95 EUR (original: 19.49 EUR) (28.42 %  de descuento) en el siguiente enlace!

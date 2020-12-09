@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 48.73 EUR
 inStock: true
-prodname: LEGO 31104 Creator 3-in-1 Burger-Monster-Truck - Geländewagen - Traktor
+prodname: 'LEGO 31104 Creator 3-in-1 Burger-Monster-Truck - Geländewagen - Traktor'
 ---
 
 Ahora mismo tienes [LEGO 31104 Creator 3-in-1 Burger-Monster-Truck - Geländewagen - Traktor](https://www.amazon.de/dp/B07W5PWLKF/?tag=tolees0ca-21) a 35.99 EUR (original: 48.73 EUR) (26.14 %  de descuento) en el siguiente enlace!

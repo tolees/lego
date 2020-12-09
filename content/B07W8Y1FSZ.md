@@ -14,7 +14,7 @@ currency: GBP
 price: 32.4
 comparePrice: 44.99 GBP
 inStock: true
-prodname: LEGO Hidden Side 70432 Haunted Fairground Set  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android
+prodname: 'LEGO Hidden Side 70432 Haunted Fairground Set  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android'
 ---
 
 Tienes [LEGO Hidden Side 70432 Haunted Fairground Set  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.co.uk/dp/B07W8Y1FSZ/?tag=tolees0a-21) con un 27.98 % de descuento con precio de oferta de 32.4 GBP (original: 44.99 GBP) en el siguiente enlace!

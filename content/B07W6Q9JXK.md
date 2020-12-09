@@ -14,7 +14,7 @@ currency: EUR
 price: 29.79
 comparePrice: 43.86 EUR
 inStock: true
-prodname: LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger
+prodname: 'LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger'
 ---
 
 Ahora mismo tienes [LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21) a 29.79 EUR (original: 43.86 EUR) (32.08 %  de descuento) en el siguiente enlace!

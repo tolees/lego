@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 24.91 EUR
 inStock: true
-prodname: LEGO - Motore di Treno  Set di Costruzioni da 7 Pezzi  Adatto per Bambini da 7 Anni di età
+prodname: 'LEGO - Motore di Treno  Set di Costruzioni da 7 Pezzi  Adatto per Bambini da 7 Anni di età'
 ---
 
 Tienes [LEGO - Motore di Treno  Set di Costruzioni da 7 Pezzi  Adatto per Bambini da 7 Anni di età](https://www.amazon.it/dp/B004RBKZ2Q/?tag=tolees00-21) con un 43.84 % de descuento con precio de oferta de 13.99 EUR (original: 24.91 EUR) en el siguiente enlace!

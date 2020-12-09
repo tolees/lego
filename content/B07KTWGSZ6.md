@@ -14,7 +14,7 @@ currency: EUR
 price: 57.99
 comparePrice: 77.97 EUR
 inStock: true
-prodname: LEGO City 60233 - Große Donut-Shop-Eröffnung
+prodname: 'LEGO City 60233 - Große Donut-Shop-Eröffnung'
 ---
 
 Está [LEGO City 60233 - Große Donut-Shop-Eröffnung](https://www.amazon.de/dp/B07KTWGSZ6/?tag=tolees0ca-21) con 25.63 de descuento por 57.99 EUR (original: 77.97 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: USD
 price: 4.99
 comparePrice: 6.99 USD
 inStock: true
-prodname: LEGO DUPLO My First Tow Truck 10918 Educational Tow Truck Toy  Great Gift for Kids Ages 1 1/2 and up  New 2020  7 Pieces 
+prodname: 'LEGO DUPLO My First Tow Truck 10918 Educational Tow Truck Toy  Great Gift for Kids Ages 1 1/2 and up  New 2020  7 Pieces '
 ---
 
 Está [LEGO DUPLO My First Tow Truck 10918 Educational Tow Truck Toy  Great Gift for Kids Ages 1 1/2 and up  New 2020  7 Pieces ](https://www.amazon.com/dp/B07WJJKNMK/?tag=tolees-20) con 28.61 de descuento por 4.99 USD (original: 6.99 USD) en el siguiente enlace!

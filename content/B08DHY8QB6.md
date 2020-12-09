@@ -14,7 +14,7 @@ currency: EUR
 price: 139.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Dittzz Jeu de Construction - Architecture Centre Commercial Dangle- 3747 Pièces Blocs de Construction Compatible avec Lego
+prodname: 'Dittzz Jeu de Construction - Architecture Centre Commercial Dangle- 3747 Pièces Blocs de Construction Compatible avec Lego'
 ---
 
 Tienes [Dittzz Jeu de Construction - Architecture Centre Commercial Dangle- 3747 Pièces Blocs de Construction Compatible avec Lego](https://www.amazon.fr/dp/B08DHY8QB6/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 139.99 EUR (original: 199.99 EUR) en el siguiente enlace!

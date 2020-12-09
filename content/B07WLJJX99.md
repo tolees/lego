@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: LEGO Super-Héros Marvel  L attaque du camion des Avengers avec figurines de Captain America et de Hawkeye  124 pièces  76143
+prodname: 'LEGO Super-Héros Marvel  L attaque du camion des Avengers avec figurines de Captain America et de Hawkeye  124 pièces  76143'
 ---
 
 Ahora mismo tienes [LEGO Super-Héros Marvel  L attaque du camion des Avengers avec figurines de Captain America et de Hawkeye  124 pièces  76143](https://www.amazon.fr/dp/B07WLJJX99/?tag=tolees0d-21) a 29.9 EUR (original: 39.99 EUR) (25.23 %  de descuento) en el siguiente enlace!

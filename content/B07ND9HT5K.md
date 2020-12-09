@@ -14,7 +14,7 @@ currency: EUR
 price: 2.09
 comparePrice: 5.44 EUR
 inStock: true
-prodname: LEGO Minifigures - 1 Sobre de Minifigura de la Edición 19  Juguete de Construcción Coleccionable de Minifigura con Diferentes Modelos  Cada Sobre Sorpresa Contiene un Personaje Diferente  71025 
+prodname: 'LEGO Minifigures - 1 Sobre de Minifigura de la Edición 19  Juguete de Construcción Coleccionable de Minifigura con Diferentes Modelos  Cada Sobre Sorpresa Contiene un Personaje Diferente  71025 '
 ---
 
 Está [LEGO Minifigures - 1 Sobre de Minifigura de la Edición 19  Juguete de Construcción Coleccionable de Minifigura con Diferentes Modelos  Cada Sobre Sorpresa Contiene un Personaje Diferente  71025 ](https://www.amazon.es/dp/B07ND9HT5K/?tag=tolees-21) con 61.58 de descuento por 2.09 EUR (original: 5.44 EUR) en el siguiente enlace!

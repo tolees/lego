@@ -14,7 +14,7 @@ currency: EUR
 price: 13.39
 comparePrice: 19.49 EUR
 inStock: true
-prodname: LEGO 60221 City Tauchyacht  Spielzeug mit 2 Taucher-Minifiguren  Meerestieren und Schwertfischfigur  Tiefsee-Set für Kinder ab 5 Jahren
+prodname: 'LEGO 60221 City Tauchyacht  Spielzeug mit 2 Taucher-Minifiguren  Meerestieren und Schwertfischfigur  Tiefsee-Set für Kinder ab 5 Jahren'
 ---
 
 Ahora mismo tienes [LEGO 60221 City Tauchyacht  Spielzeug mit 2 Taucher-Minifiguren  Meerestieren und Schwertfischfigur  Tiefsee-Set für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07FNTTF4D/?tag=tolees0ca-21) a 13.39 EUR (original: 19.49 EUR) (31.30 %  de descuento) en el siguiente enlace!

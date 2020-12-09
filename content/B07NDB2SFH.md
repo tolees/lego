@@ -14,7 +14,7 @@ currency: EUR
 price: 84.9
 comparePrice: 114.99 EUR
 inStock: true
-prodname: LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 
+prodname: 'LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 '
 ---
 
 Está [LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 ](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) con 26.17 de descuento por 84.9 EUR (original: 114.99 EUR) en el siguiente enlace!

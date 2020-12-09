@@ -14,7 +14,7 @@ currency: EUR
 price: 7.04
 comparePrice: 9.74 EUR
 inStock: true
-prodname: LEGO 60251 City Monster-Truck  Spielzeug für Kinder ab 5 Jahren
+prodname: 'LEGO 60251 City Monster-Truck  Spielzeug für Kinder ab 5 Jahren'
 ---
 
 Tienes [LEGO 60251 City Monster-Truck  Spielzeug für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07WLMSVCJ/?tag=tolees0ca-21) con un 27.72 % de descuento con precio de oferta de 7.04 EUR (original: 9.74 EUR) en el siguiente enlace!

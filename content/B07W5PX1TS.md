@@ -14,7 +14,7 @@ currency: GBP
 price: 20.0
 comparePrice: 29.99 GBP
 inStock: true
-prodname: LEGO 76149 Super Heroes Marvel Spider-Man The Menace of Mysterio Helicopter Toy for Preschool Kids
+prodname: 'LEGO 76149 Super Heroes Marvel Spider-Man The Menace of Mysterio Helicopter Toy for Preschool Kids'
 ---
 
 Tienes [LEGO 76149 Super Heroes Marvel Spider-Man The Menace of Mysterio Helicopter Toy for Preschool Kids](https://www.amazon.co.uk/dp/B07W5PX1TS/?tag=tolees0a-21) con un 33.31 % de descuento con precio de oferta de 20.0 GBP (original: 29.99 GBP) en el siguiente enlace!

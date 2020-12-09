@@ -14,7 +14,7 @@ currency: EUR
 price: 21.4
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO: El Hobbit
+prodname: 'LEGO: El Hobbit'
 ---
 
 Ahora mismo tienes [LEGO: El Hobbit](https://www.amazon.es/dp/B00IKLZERK/?tag=tolees-21) a 21.4 EUR (original: 29.99 EUR) (28.64 %  de descuento) en el siguiente enlace!

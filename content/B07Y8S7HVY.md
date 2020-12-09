@@ -14,7 +14,7 @@ currency: USD
 price: 32.49
 comparePrice: 49.99 USD
 inStock: true
-prodname: LEGO Hidden Side The Lighthouse of Darkness 70431 Ghost Toy  Unique Augmented Reality Experience for Kids  New 2020  540 Pieces 
+prodname: 'LEGO Hidden Side The Lighthouse of Darkness 70431 Ghost Toy  Unique Augmented Reality Experience for Kids  New 2020  540 Pieces '
 ---
 
 Tienes [LEGO Hidden Side The Lighthouse of Darkness 70431 Ghost Toy  Unique Augmented Reality Experience for Kids  New 2020  540 Pieces ](https://www.amazon.com/dp/B07Y8S7HVY/?tag=tolees-20) con un 35.01 % de descuento con precio de oferta de 32.49 USD (original: 49.99 USD) en el siguiente enlace!

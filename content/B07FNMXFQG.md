@@ -14,7 +14,7 @@ currency: GBP
 price: 12.0
 comparePrice: 17.99 GBP
 inStock: true
-prodname: LEGO 41364 Friends Stephanie s Toy Buggy & Trailer  Stephanie mini-doll and Action Figures  Fun Playset for Kids
+prodname: 'LEGO 41364 Friends Stephanie s Toy Buggy & Trailer  Stephanie mini-doll and Action Figures  Fun Playset for Kids'
 ---
 
 Ahora mismo tienes [LEGO 41364 Friends Stephanie s Toy Buggy & Trailer  Stephanie mini-doll and Action Figures  Fun Playset for Kids](https://www.amazon.co.uk/dp/B07FNMXFQG/?tag=tolees0a-21) a 12.0 GBP (original: 17.99 GBP) (33.30 %  de descuento) en el siguiente enlace!

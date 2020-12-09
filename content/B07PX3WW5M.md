@@ -14,7 +14,7 @@ currency: USD
 price: 23.99
 comparePrice: 49.99 USD
 inStock: true
-prodname: LEGO NINJAGO Katana 4x4 70675 Building Kit  450 Pieces 
+prodname: 'LEGO NINJAGO Katana 4x4 70675 Building Kit  450 Pieces '
 ---
 
 Ahora mismo tienes [LEGO NINJAGO Katana 4x4 70675 Building Kit  450 Pieces ](https://www.amazon.com/dp/B07PX3WW5M/?tag=tolees-20) a 23.99 USD (original: 49.99 USD) (52.01 %  de descuento) en el siguiente enlace!

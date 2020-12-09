@@ -14,7 +14,7 @@ currency: EUR
 price: 29.23
 comparePrice: 38.98 EUR
 inStock: true
-prodname: LEGO 71710 NINJAGO Ninja-Tuning-Fahrzeug mit Waffen und Klingen  Bauset  Prime Empire Rennfahrzeuge
+prodname: 'LEGO 71710 NINJAGO Ninja-Tuning-Fahrzeug mit Waffen und Klingen  Bauset  Prime Empire Rennfahrzeuge'
 ---
 
 Ahora mismo tienes [LEGO 71710 NINJAGO Ninja-Tuning-Fahrzeug mit Waffen und Klingen  Bauset  Prime Empire Rennfahrzeuge](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21) a 29.23 EUR (original: 38.98 EUR) (25.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: USD
 price: 8.99
 comparePrice: 14.99 USD
 inStock: true
-prodname: LEGO City Curve and Crossroad 60237 Building Kit  2 Pieces 
+prodname: 'LEGO City Curve and Crossroad 60237 Building Kit  2 Pieces '
 ---
 
 Está [LEGO City Curve and Crossroad 60237 Building Kit  2 Pieces ](https://www.amazon.com/dp/B07GW39SML/?tag=tolees-20) con 40.03 de descuento por 8.99 USD (original: 14.99 USD) en el siguiente enlace!

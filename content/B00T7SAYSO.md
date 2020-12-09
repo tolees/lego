@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: LEGO DUPLO - L aéroport - 10871 - Jeu de Construction
+prodname: 'LEGO DUPLO - L aéroport - 10871 - Jeu de Construction'
 ---
 
 Está [LEGO DUPLO - L aéroport - 10871 - Jeu de Construction](https://www.amazon.fr/dp/B00T7SAYSO/?tag=tolees0d-21) con 32.01 de descuento por 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!

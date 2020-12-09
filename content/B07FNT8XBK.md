@@ -14,7 +14,7 @@ currency: EUR
 price: 7.27
 comparePrice: 9.74 EUR
 inStock: true
-prodname: LEGO 11001 Classic - Bausteine - Erster Bauspaß
+prodname: 'LEGO 11001 Classic - Bausteine - Erster Bauspaß'
 ---
 
 Está [LEGO 11001 Classic - Bausteine - Erster Bauspaß](https://www.amazon.de/dp/B07FNT8XBK/?tag=tolees0ca-21) con 25.36 de descuento por 7.27 EUR (original: 9.74 EUR) en el siguiente enlace!

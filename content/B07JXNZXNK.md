@@ -14,7 +14,7 @@ currency: USD
 price: 45.15
 comparePrice: 69.99 USD
 inStock: true
-prodname: THE LEGO MOVIE 2 Shimmer & Shine Sparkle Spa! 70837 Building Kit  691 Pieces   Discontinued by Manufacturer 
+prodname: 'THE LEGO MOVIE 2 Shimmer & Shine Sparkle Spa! 70837 Building Kit  691 Pieces   Discontinued by Manufacturer '
 ---
 
 Ahora mismo tienes [THE LEGO MOVIE 2 Shimmer & Shine Sparkle Spa! 70837 Building Kit  691 Pieces   Discontinued by Manufacturer ](https://www.amazon.com/dp/B07JXNZXNK/?tag=tolees-20) a 45.15 USD (original: 69.99 USD) (35.49 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: USD
 price: 27.99
 comparePrice: 39.99 USD
 inStock: true
-prodname: LEGO City People Pack – Fun Fair 60234 Building Kit  183 Pieces 
+prodname: 'LEGO City People Pack – Fun Fair 60234 Building Kit  183 Pieces '
 ---
 
 Está [LEGO City People Pack – Fun Fair 60234 Building Kit  183 Pieces ](https://www.amazon.com/dp/B07PVBZF11/?tag=tolees-20) con 30.01 de descuento por 27.99 USD (original: 39.99 USD) en el siguiente enlace!

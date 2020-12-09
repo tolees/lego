@@ -14,7 +14,7 @@ currency: EUR
 price: 19.98
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO City Arresto con il Paracadute della Polizia Aerea con 3 Veicoli: Aeroplano  Automobile e Moto Giocattolo  Set di Costruzioni per Bambini  60208
+prodname: 'LEGO City Arresto con il Paracadute della Polizia Aerea con 3 Veicoli: Aeroplano  Automobile e Moto Giocattolo  Set di Costruzioni per Bambini  60208'
 ---
 
 Está [LEGO City Arresto con il Paracadute della Polizia Aerea con 3 Veicoli: Aeroplano  Automobile e Moto Giocattolo  Set di Costruzioni per Bambini  60208](https://www.amazon.it/dp/B07FNMTW4H/?tag=tolees00-21) con 33.38 de descuento por 19.98 EUR (original: 29.99 EUR) en el siguiente enlace!

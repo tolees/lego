@@ -14,7 +14,7 @@ currency: GBP
 price: 11.99
 comparePrice: 17.99 GBP
 inStock: true
-prodname: LEGO 75976 Overwatch Wrecking Ball Quadrupedal Robot Mecha Set with Hammond the Hamster
+prodname: 'LEGO 75976 Overwatch Wrecking Ball Quadrupedal Robot Mecha Set with Hammond the Hamster'
 ---
 
 Ahora mismo tienes [LEGO 75976 Overwatch Wrecking Ball Quadrupedal Robot Mecha Set with Hammond the Hamster](https://www.amazon.co.uk/dp/B07NDBYCVH/?tag=tolees0a-21) a 11.99 GBP (original: 17.99 GBP) (33.35 %  de descuento) en el siguiente enlace!

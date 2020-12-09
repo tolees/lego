@@ -14,7 +14,7 @@ currency: USD
 price: 10.59
 comparePrice: 14.99 USD
 inStock: true
-prodname: LEGO Disney Frozen II Olaf 41169 Olaf Snowman Toy Figure Building Kit Christmas Gift  122 Pieces 
+prodname: 'LEGO Disney Frozen II Olaf 41169 Olaf Snowman Toy Figure Building Kit Christmas Gift  122 Pieces '
 ---
 
 Está [LEGO Disney Frozen II Olaf 41169 Olaf Snowman Toy Figure Building Kit Christmas Gift  122 Pieces ](https://www.amazon.com/dp/B07PZF1GQP/?tag=tolees-20) con 29.35 de descuento por 10.59 USD (original: 14.99 USD) en el siguiente enlace!

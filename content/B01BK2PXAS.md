@@ -14,7 +14,7 @@ currency: EUR
 price: 71.99
 comparePrice: 97.47 EUR
 inStock: true
-prodname: LEGO 10907 DUPLO Town - Tiere der Welt für Kleinkinder
+prodname: 'LEGO 10907 DUPLO Town - Tiere der Welt für Kleinkinder'
 ---
 
 Ahora mismo tienes [LEGO 10907 DUPLO Town - Tiere der Welt für Kleinkinder](https://www.amazon.de/dp/B01BK2PXAS/?tag=tolees0ca-21) a 71.99 EUR (original: 97.47 EUR) (26.14 %  de descuento) en el siguiente enlace!

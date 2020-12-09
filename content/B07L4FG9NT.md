@@ -14,7 +14,7 @@ currency: GBP
 price: 80.0
 comparePrice: 119.99 GBP
 inStock: true
-prodname: LEGO 41375 Friends Heartlake City Amusement Pier  Park with Pirate Ghost Ship Roller Coaster  Fun Fair Carousel and Olivia Mini Doll
+prodname: 'LEGO 41375 Friends Heartlake City Amusement Pier  Park with Pirate Ghost Ship Roller Coaster  Fun Fair Carousel and Olivia Mini Doll'
 ---
 
 Está [LEGO 41375 Friends Heartlake City Amusement Pier  Park with Pirate Ghost Ship Roller Coaster  Fun Fair Carousel and Olivia Mini Doll](https://www.amazon.co.uk/dp/B07L4FG9NT/?tag=tolees0a-21) con 33.33 de descuento por 80.0 GBP (original: 119.99 GBP) en el siguiente enlace!

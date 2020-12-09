@@ -14,7 +14,7 @@ currency: EUR
 price: 23.94
 comparePrice: 39.99 EUR
 inStock: true
-prodname: LEGO DUPLO Town Pasticceria  Playset con Furgoncino  Torte e Pasticcini  Grandi Mattoncini per Bambini dai 2 Anni in su  10928
+prodname: 'LEGO DUPLO Town Pasticceria  Playset con Furgoncino  Torte e Pasticcini  Grandi Mattoncini per Bambini dai 2 Anni in su  10928'
 ---
 
 Ahora mismo tienes [LEGO DUPLO Town Pasticceria  Playset con Furgoncino  Torte e Pasticcini  Grandi Mattoncini per Bambini dai 2 Anni in su  10928](https://www.amazon.it/dp/B00DPM09IS/?tag=tolees00-21) a 23.94 EUR (original: 39.99 EUR) (40.14 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.12
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO Super Mario Set de Expansión: Avalancha de Bill Balazos  Juguete de Construcción  71366 
+prodname: 'LEGO Super Mario Set de Expansión: Avalancha de Bill Balazos  Juguete de Construcción  71366 '
 ---
 
 Está [LEGO Super Mario Set de Expansión: Avalancha de Bill Balazos  Juguete de Construcción  71366 ](https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21) con 29.58 de descuento por 21.12 EUR (original: 29.99 EUR) en el siguiente enlace!

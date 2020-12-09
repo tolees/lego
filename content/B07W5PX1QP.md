@@ -14,7 +14,7 @@ currency: EUR
 price: 48.73
 comparePrice: 68.23 EUR
 inStock: true
-prodname: LEGO 41395 Friends Freundschaftsbus mit Bordpool und Rutsche  Sommerferien-Spielsets für Kinder ab 8 Jahren
+prodname: 'LEGO 41395 Friends Freundschaftsbus mit Bordpool und Rutsche  Sommerferien-Spielsets für Kinder ab 8 Jahren'
 ---
 
 Tienes [LEGO 41395 Friends Freundschaftsbus mit Bordpool und Rutsche  Sommerferien-Spielsets für Kinder ab 8 Jahren](https://www.amazon.de/dp/B07W5PX1QP/?tag=tolees0ca-21) con un 28.58 % de descuento con precio de oferta de 48.73 EUR (original: 68.23 EUR) en el siguiente enlace!
