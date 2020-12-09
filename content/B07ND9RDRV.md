@@ -10,8 +10,11 @@ author: ring
 slug: B07ND9RDRV
 description:
 actualPrice: 58.44 EUR
+currency: EUR
+price: 58.44
 comparePrice: 77.97 EUR
 inStock: true
+prodname: LEGO 41167 Disney Die Eiskönigin 2  Schloss Arendelle  Bauset
 ---
 
 Está [LEGO 41167 Disney Die Eiskönigin 2  Schloss Arendelle  Bauset](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21) con 25.05 de descuento por 58.44 EUR (original: 77.97 EUR) en el siguiente enlace!

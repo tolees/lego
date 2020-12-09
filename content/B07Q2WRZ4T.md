@@ -10,8 +10,11 @@ author: ring
 slug: B07Q2WRZ4T
 description:
 actualPrice: 19.49 USD
+currency: USD
+price: 19.49
 comparePrice: 39.99 USD
 inStock: true
+prodname: LEGO Harry Potter and The Prisoner of Azkaban Knight Bus 75957 Building Kit  403 Pieces 
 ---
 
 Ahora mismo tienes [LEGO Harry Potter and The Prisoner of Azkaban Knight Bus 75957 Building Kit  403 Pieces ](https://www.amazon.com/dp/B07Q2WRZ4T/?tag=tolees-20) a 19.49 USD (original: 39.99 USD) (51.26 %  de descuento) en el siguiente enlace!

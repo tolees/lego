@@ -10,8 +10,11 @@ author: ring
 slug: B07W5PWBF5
 description:
 actualPrice: 7.27 EUR
+currency: EUR
+price: 7.27
 comparePrice: 9.74 EUR
 inStock: true
+prodname: LEGO 41396 Friends Welpenspielplatz  Spielset mit Mia und 2 Hunde-Spielzeugfiguren  Welpenrutsche und Karussell für Vorschulkinder
 ---
 
 Tienes [LEGO 41396 Friends Welpenspielplatz  Spielset mit Mia und 2 Hunde-Spielzeugfiguren  Welpenrutsche und Karussell für Vorschulkinder](https://www.amazon.de/dp/B07W5PWBF5/?tag=tolees0ca-21) con un 25.36 % de descuento con precio de oferta de 7.27 EUR (original: 9.74 EUR) en el siguiente enlace!

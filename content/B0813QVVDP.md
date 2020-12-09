@@ -10,8 +10,11 @@ author: ring
 slug: B0813QVVDP
 description:
 actualPrice: 12.96 GBP
+currency: GBP
+price: 12.96
 comparePrice: 17.99 GBP
 inStock: true
+prodname: LEGO 70433 Hidden Side J.B. s Submarine Toy  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android
 ---
 
 Ahora mismo tienes [LEGO 70433 Hidden Side J.B. s Submarine Toy  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.co.uk/dp/B0813QVVDP/?tag=tolees0a-21) a 12.96 GBP (original: 17.99 GBP) (27.96 %  de descuento) en el siguiente enlace!

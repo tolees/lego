@@ -10,8 +10,11 @@ author: ring
 slug: B07FP2KS3X
 description:
 actualPrice: 8.0 GBP
+currency: GBP
+price: 8.0
 comparePrice: 12.99 GBP
 inStock: true
+prodname: LEGO 21148 Children s Toy Colourful
 ---
 
 Tienes [LEGO 21148 Children s Toy Colourful](https://www.amazon.co.uk/dp/B07FP2KS3X/?tag=tolees0a-21) con un 38.41 % de descuento con precio de oferta de 8.0 GBP (original: 12.99 GBP) en el siguiente enlace!

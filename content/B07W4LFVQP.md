@@ -10,8 +10,11 @@ author: ring
 slug: B07W4LFVQP
 description:
 actualPrice: 32.0 EUR
+currency: EUR
+price: 32.0
 comparePrice: 48.73 EUR
 inStock: true
+prodname: LEGO 41255 Trolls World Tour Party in Pop City Baumhaus
 ---
 
 Ahora mismo tienes [LEGO 41255 Trolls World Tour Party in Pop City Baumhaus](https://www.amazon.de/dp/B07W4LFVQP/?tag=tolees0ca-21) a 32.0 EUR (original: 48.73 EUR) (34.33 %  de descuento) en el siguiente enlace!

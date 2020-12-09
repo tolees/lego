@@ -10,8 +10,11 @@ author: ring
 slug: B07FNS6J8N
 description:
 actualPrice: 7.28 EUR
+currency: EUR
+price: 7.28
 comparePrice: 9.74 EUR
 inStock: true
+prodname: LEGO Duplo 10900 Polizeimotorrad mit Polizist
 ---
 
 Está [LEGO Duplo 10900 Polizeimotorrad mit Polizist](https://www.amazon.de/dp/B07FNS6J8N/?tag=tolees0ca-21) con 25.26 de descuento por 7.28 EUR (original: 9.74 EUR) en el siguiente enlace!

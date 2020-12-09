@@ -10,8 +10,11 @@ author: ring
 slug: B07NDBGW4F
 description:
 actualPrice: 12.55 EUR
+currency: EUR
+price: 12.55
 comparePrice: 19.49 EUR
 inStock: true
+prodname: LEGO 41165 Disney Princess Frozen Die Eiskönigin 2 Annas Kanufahrt  Bauset mit Minipuppen Anna & Olaf und Hasenfigur  einfach zu bauendes Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren
 ---
 
 Tienes [LEGO 41165 Disney Princess Frozen Die Eiskönigin 2 Annas Kanufahrt  Bauset mit Minipuppen Anna & Olaf und Hasenfigur  einfach zu bauendes Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren](https://www.amazon.de/dp/B07NDBGW4F/?tag=tolees0ca-21) con un 35.61 % de descuento con precio de oferta de 12.55 EUR (original: 19.49 EUR) en el siguiente enlace!

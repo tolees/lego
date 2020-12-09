@@ -10,8 +10,11 @@ author: ring
 slug: B07WC1RBCM
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: LEGO Trolls World Tour Concerto a Vulcano Rock City  Playset con Poppy  Branch e Barb  Palcoscenico e Chitarre  41254
 ---
 
 Tienes [LEGO Trolls World Tour Concerto a Vulcano Rock City  Playset con Poppy  Branch e Barb  Palcoscenico e Chitarre  41254](https://www.amazon.it/dp/B07WC1RBCM/?tag=tolees00-21) con un 27.51 % de descuento con precio de oferta de 28.99 EUR (original: 39.99 EUR) en el siguiente enlace!

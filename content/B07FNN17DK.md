@@ -10,8 +10,11 @@ author: ring
 slug: B07FNN17DK
 description:
 actualPrice: 14.59 EUR
+currency: EUR
+price: 14.59
 comparePrice: 19.49 EUR
 inStock: true
+prodname: LEGO City 60207 Polizei Drohnenjagd  bunt
 ---
 
 Tienes [LEGO City 60207 Polizei Drohnenjagd  bunt](https://www.amazon.de/dp/B07FNN17DK/?tag=tolees0ca-21) con un 25.14 % de descuento con precio de oferta de 14.59 EUR (original: 19.49 EUR) en el siguiente enlace!

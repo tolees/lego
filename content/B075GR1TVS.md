@@ -10,8 +10,11 @@ author: ring
 slug: B075GR1TVS
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 29.99 EUR
 inStock: true
+prodname: LEGO Star Wars - Han Solo  75535 
 ---
 
 Tienes [LEGO Star Wars - Han Solo  75535 ](https://www.amazon.es/dp/B075GR1TVS/?tag=tolees-21) con un 36.81 % de descuento con precio de oferta de 18.95 EUR (original: 29.99 EUR) en el siguiente enlace!

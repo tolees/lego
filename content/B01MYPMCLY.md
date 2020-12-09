@@ -10,8 +10,11 @@ author: ring
 slug: B01MYPMCLY
 description:
 actualPrice: 16.89 EUR
+currency: EUR
+price: 16.89
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Lego Reloj Analógico para Unisex Niños de Cuarzo con Correa en Plástico 8020837
 ---
 
 Ahora mismo tienes [Lego Reloj Analógico para Unisex Niños de Cuarzo con Correa en Plástico 8020837](https://www.amazon.es/dp/B01MYPMCLY/?tag=tolees-21) a 16.89 EUR (original: 29.99 EUR) (43.68 %  de descuento) en el siguiente enlace!

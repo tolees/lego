@@ -10,8 +10,11 @@ author: ring
 slug: B07WG9ZZ7D
 description:
 actualPrice: 14.95 USD
+currency: USD
+price: 14.95
 comparePrice: 19.99 USD
 inStock: true
+prodname: LEGO Disney Mulan’s Storybook Adventures 43174 Creative Building Kit  New 2020  124 Pieces 
 ---
 
 Ahora mismo tienes [LEGO Disney Mulan’s Storybook Adventures 43174 Creative Building Kit  New 2020  124 Pieces ](https://www.amazon.com/dp/B07WG9ZZ7D/?tag=tolees-20) a 14.95 USD (original: 19.99 USD) (25.21 %  de descuento) en el siguiente enlace!

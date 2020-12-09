@@ -10,8 +10,11 @@ author: ring
 slug: B00Y2W1DNA
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Lego Dimensions - DC Bane
 ---
 
 Está [Lego Dimensions - DC Bane](https://www.amazon.es/dp/B00Y2W1DNA/?tag=tolees-21) con 46.70 de descuento por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

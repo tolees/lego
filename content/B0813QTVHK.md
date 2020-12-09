@@ -10,8 +10,11 @@ author: ring
 slug: B0813QTVHK
 description:
 actualPrice: 19.49 EUR
+currency: EUR
+price: 19.49
 comparePrice: 29.23 EUR
 inStock: true
+prodname: LEGO 71703 NINJAGO Legacy 4+ Kräftemessen mit dem Donner-Jet Set  Meister des Spinjitzu Spielzeuge für Kinder
 ---
 
 Ahora mismo tienes [LEGO 71703 NINJAGO Legacy 4+ Kräftemessen mit dem Donner-Jet Set  Meister des Spinjitzu Spielzeuge für Kinder](https://www.amazon.de/dp/B0813QTVHK/?tag=tolees0ca-21) a 19.49 EUR (original: 29.23 EUR) (33.32 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GX6GPRW
 description:
 actualPrice: 17.99 USD
+currency: USD
+price: 17.99
 comparePrice: 29.99 USD
 inStock: true
+prodname: LEGO Friends Olivia’s Cupcake Café 41366 Building Kit  335 Pieces 
 ---
 
 Ahora mismo tienes [LEGO Friends Olivia’s Cupcake Café 41366 Building Kit  335 Pieces ](https://www.amazon.com/dp/B07GX6GPRW/?tag=tolees-20) a 17.99 USD (original: 29.99 USD) (40.01 %  de descuento) en el siguiente enlace!

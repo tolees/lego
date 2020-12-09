@@ -10,8 +10,11 @@ author: ring
 slug: B07GVYMKW6
 description:
 actualPrice: 5.99 USD
+currency: USD
+price: 5.99
 comparePrice: 9.99 USD
 inStock: true
+prodname: LEGO DUPLO Town Police Bike 10900 Building Blocks  8 Pieces 
 ---
 
 Tienes [LEGO DUPLO Town Police Bike 10900 Building Blocks  8 Pieces ](https://www.amazon.com/dp/B07GVYMKW6/?tag=tolees-20) con un 40.04 % de descuento con precio de oferta de 5.99 USD (original: 9.99 USD) en el siguiente enlace!

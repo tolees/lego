@@ -10,8 +10,11 @@ author: ring
 slug: B07W7TMP9M
 description:
 actualPrice: 13.64 EUR
+currency: EUR
+price: 13.64
 comparePrice: 19.49 EUR
 inStock: true
+prodname: LEGO 60256 City Rennwagen-Duell Spielzeug mit 2 Rennfahrer-Minifiguren  Rallyefahrzeuge für Kinder ab 5 Jahren
 ---
 
 Ahora mismo tienes [LEGO 60256 City Rennwagen-Duell Spielzeug mit 2 Rennfahrer-Minifiguren  Rallyefahrzeuge für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W7TMP9M/?tag=tolees0ca-21) a 13.64 EUR (original: 19.49 EUR) (30.02 %  de descuento) en el siguiente enlace!

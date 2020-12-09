@@ -10,8 +10,11 @@ author: ring
 slug: B07QNZG3V2
 description:
 actualPrice: 149.95 USD
+currency: USD
+price: 149.95
 comparePrice: 199.99 USD
 inStock: true
+prodname: LEGO Star Wars BOOST Droid Commander 75253 Star Wars Droid Building Set with R2 D2 Robot Toy for Kids to Learn to Code  1 177 Pieces 
 ---
 
 Ahora mismo tienes [LEGO Star Wars BOOST Droid Commander 75253 Star Wars Droid Building Set with R2 D2 Robot Toy for Kids to Learn to Code  1 177 Pieces ](https://www.amazon.com/dp/B07QNZG3V2/?tag=tolees-20) a 149.95 USD (original: 199.99 USD) (25.02 %  de descuento) en el siguiente enlace!

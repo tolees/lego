@@ -10,8 +10,11 @@ author: ring
 slug: B07JMXW5CC
 description:
 actualPrice: 51.99 USD
+currency: USD
+price: 51.99
 comparePrice: 69.99 USD
 inStock: true
+prodname: LEGO Star Wars Resistance Major Vonreg’s TIE Fighter 75240 Building Kit  496 Pieces 
 ---
 
 Tienes [LEGO Star Wars Resistance Major Vonreg’s TIE Fighter 75240 Building Kit  496 Pieces ](https://www.amazon.com/dp/B07JMXW5CC/?tag=tolees-20) con un 25.72 % de descuento con precio de oferta de 51.99 USD (original: 69.99 USD) en el siguiente enlace!

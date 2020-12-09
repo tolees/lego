@@ -10,8 +10,11 @@ author: ring
 slug: B07W7TJ1GZ
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 9.99 EUR
 inStock: true
+prodname: LEGO Ninjago - Deportivo Sísmico de Cole  Set de Construcción Inspirado en la Carrera Prime Empire  Incluye dos Minifiguras de Personajes  a Partir de 4 Años  71706 
 ---
 
 Tienes [LEGO Ninjago - Deportivo Sísmico de Cole  Set de Construcción Inspirado en la Carrera Prime Empire  Incluye dos Minifiguras de Personajes  a Partir de 4 Años  71706 ](https://www.amazon.es/dp/B07W7TJ1GZ/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 7.49 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07WLJJXC1
 description:
 actualPrice: 7.27 EUR
+currency: EUR
+price: 7.27
 comparePrice: 9.74 EUR
 inStock: true
+prodname: LEGO 60255 Stunt-Team City Team Spielset mit Quad  Motorrad und Stunt-Rampe mit Flammen
 ---
 
 Tienes [LEGO 60255 Stunt-Team City Team Spielset mit Quad  Motorrad und Stunt-Rampe mit Flammen](https://www.amazon.de/dp/B07WLJJXC1/?tag=tolees0ca-21) con un 25.36 % de descuento con precio de oferta de 7.27 EUR (original: 9.74 EUR) en el siguiente enlace!

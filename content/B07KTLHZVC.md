@@ -10,8 +10,11 @@ author: ring
 slug: B07KTLHZVC
 description:
 actualPrice: 68.22 EUR
+currency: EUR
+price: 68.22
 comparePrice: 97.47 EUR
 inStock: true
+prodname: LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler
 ---
 
 Ahora mismo tienes [LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21) a 68.22 EUR (original: 97.47 EUR) (30.01 %  de descuento) en el siguiente enlace!

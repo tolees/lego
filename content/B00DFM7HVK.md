@@ -10,8 +10,11 @@ author: ring
 slug: B00DFM7HVK
 description:
 actualPrice: 174.49 EUR
+currency: EUR
+price: 174.49
 comparePrice: 243.69 EUR
 inStock: true
+prodname: LEGO 42114 Technic Knickgelenkter Volvo-Dumper  6x6   Modellbauset
 ---
 
 Está [LEGO 42114 Technic Knickgelenkter Volvo-Dumper  6x6   Modellbauset](https://www.amazon.de/dp/B00DFM7HVK/?tag=tolees0ca-21) con 28.40 de descuento por 174.49 EUR (original: 243.69 EUR) en el siguiente enlace!

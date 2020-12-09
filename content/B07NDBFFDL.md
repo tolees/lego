@@ -10,8 +10,11 @@ author: ring
 slug: B07NDBFFDL
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: LEGO Star Wars Cannone della Morte Nera con Minifigure di Obi Wan-Kenobi e dell’Artigliere della Morte Nera Gioco con Cannoni a Molla  Collezione Una Nuova Speranza  per Bambini dai 7 Anni  75246
 ---
 
 Ahora mismo tienes [LEGO Star Wars Cannone della Morte Nera con Minifigure di Obi Wan-Kenobi e dell’Artigliere della Morte Nera Gioco con Cannoni a Molla  Collezione Una Nuova Speranza  per Bambini dai 7 Anni  75246](https://www.amazon.it/dp/B07NDBFFDL/?tag=tolees00-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FNTSDD6
 description:
 actualPrice: 13.64 EUR
+currency: EUR
+price: 13.64
 comparePrice: 19.49 EUR
 inStock: true
+prodname: LEGO 10901 DUPLO Feuerwehrauto mit Feuerwehrmann-Figur  Licht & Geräusche  Spielzeug für Kinder im Alter von 2 bis 5 Jahren
 ---
 
 Está [LEGO 10901 DUPLO Feuerwehrauto mit Feuerwehrmann-Figur  Licht & Geräusche  Spielzeug für Kinder im Alter von 2 bis 5 Jahren](https://www.amazon.de/dp/B07FNTSDD6/?tag=tolees0ca-21) con 30.02 de descuento por 13.64 EUR (original: 19.49 EUR) en el siguiente enlace!

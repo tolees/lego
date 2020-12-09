@@ -10,8 +10,11 @@ author: ring
 slug: B07WHFDKW1
 description:
 actualPrice: 19.96 USD
+currency: USD
+price: 19.96
 comparePrice: 29.99 USD
 inStock: true
+prodname: LEGO City Fire Helicopter Response 60248 Firefighter Toy  Fun Building Set for Kids  New 2020  93 Pieces 
 ---
 
 Está [LEGO City Fire Helicopter Response 60248 Firefighter Toy  Fun Building Set for Kids  New 2020  93 Pieces ](https://www.amazon.com/dp/B07WHFDKW1/?tag=tolees-20) con 33.44 de descuento por 19.96 USD (original: 29.99 USD) en el siguiente enlace!

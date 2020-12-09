@@ -10,8 +10,11 @@ author: ring
 slug: B07JN74VBD
 description:
 actualPrice: 24.49 USD
+currency: USD
+price: 24.49
 comparePrice: 34.99 USD
 inStock: true
+prodname: LEGO Marvel Avengers War Machine Buster 76124 Building Kit  362 Pieces 
 ---
 
 Está [LEGO Marvel Avengers War Machine Buster 76124 Building Kit  362 Pieces ](https://www.amazon.com/dp/B07JN74VBD/?tag=tolees-20) con 30.01 de descuento por 24.49 USD (original: 34.99 USD) en el siguiente enlace!

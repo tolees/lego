@@ -10,8 +10,11 @@ author: ring
 slug: B07WJJG65H
 description:
 actualPrice: 5.99 USD
+currency: USD
+price: 5.99
 comparePrice: 9.99 USD
 inStock: true
+prodname: LEGO Friends Puppy Playground 41396 Starter Building Kit; Best Animal Toy Featuring LEGO Friends Character Mia  New 2020  57 Pieces 
 ---
 
 Tienes [LEGO Friends Puppy Playground 41396 Starter Building Kit; Best Animal Toy Featuring LEGO Friends Character Mia  New 2020  57 Pieces ](https://www.amazon.com/dp/B07WJJG65H/?tag=tolees-20) con un 40.04 % de descuento con precio de oferta de 5.99 USD (original: 9.99 USD) en el siguiente enlace!

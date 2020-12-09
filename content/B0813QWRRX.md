@@ -10,8 +10,11 @@ author: ring
 slug: B0813QWRRX
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.23 EUR
 inStock: true
+prodname: LEGO 10924 DUPLO Cars Lightning McQueens großes Rennen  Disney Pixar Cars Spielzeug für Kleinkinder ab 2 Jahren
 ---
 
 Tienes [LEGO 10924 DUPLO Cars Lightning McQueens großes Rennen  Disney Pixar Cars Spielzeug für Kleinkinder ab 2 Jahren](https://www.amazon.de/dp/B0813QWRRX/?tag=tolees0ca-21) con un 28.19 % de descuento con precio de oferta de 20.99 EUR (original: 29.23 EUR) en el siguiente enlace!

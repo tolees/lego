@@ -10,8 +10,11 @@ author: ring
 slug: B07JMXW12M
 description:
 actualPrice: 69.95 USD
+currency: USD
+price: 69.95
 comparePrice: 99.99 USD
 inStock: true
+prodname: LEGO Marvel Avengers Compound Battle 76131 Building Set includes Toy Car  Helicopter  and popular Avengers Characters Iron Man  Thanos and more  699 Pieces 
 ---
 
 Ahora mismo tienes [LEGO Marvel Avengers Compound Battle 76131 Building Set includes Toy Car  Helicopter  and popular Avengers Characters Iron Man  Thanos and more  699 Pieces ](https://www.amazon.com/dp/B07JMXW12M/?tag=tolees-20) a 69.95 USD (original: 99.99 USD) (30.04 %  de descuento) en el siguiente enlace!

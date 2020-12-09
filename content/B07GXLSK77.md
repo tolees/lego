@@ -10,8 +10,11 @@ author: ring
 slug: B07GXLSK77
 description:
 actualPrice: 29.99 USD
+currency: USD
+price: 29.99
 comparePrice: 39.99 USD
 inStock: true
+prodname: LEGO The LEGO Movie 2 Queen Watevra’s Build Whatever Box! 70825 Pretend Play Toy and Creative Building Kit for Girls and Boys  455 Pieces   Discontinued by Manufacturer 
 ---
 
 Ahora mismo tienes [LEGO The LEGO Movie 2 Queen Watevra’s Build Whatever Box! 70825 Pretend Play Toy and Creative Building Kit for Girls and Boys  455 Pieces   Discontinued by Manufacturer ](https://www.amazon.com/dp/B07GXLSK77/?tag=tolees-20) a 29.99 USD (original: 39.99 USD) (25.01 %  de descuento) en el siguiente enlace!

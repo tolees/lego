@@ -10,8 +10,11 @@ author: ring
 slug: B07WCQY6XC
 description:
 actualPrice: 5.93 USD
+currency: USD
+price: 5.93
 comparePrice: 9.99 USD
 inStock: true
+prodname: LEGO NINJAGO Kai Avatar - Arcade Pod 71714 Mini Arcade Machine Building Kit  New 2020  49 Pieces 
 ---
 
 Ahora mismo tienes [LEGO NINJAGO Kai Avatar - Arcade Pod 71714 Mini Arcade Machine Building Kit  New 2020  49 Pieces ](https://www.amazon.com/dp/B07WCQY6XC/?tag=tolees-20) a 5.93 USD (original: 9.99 USD) (40.64 %  de descuento) en el siguiente enlace!

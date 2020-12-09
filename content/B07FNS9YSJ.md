@@ -10,8 +10,11 @@ author: ring
 slug: B07FNS9YSJ
 description:
 actualPrice: 10.65 EUR
+currency: EUR
+price: 10.65
 comparePrice: 14.61 EUR
 inStock: true
+prodname: LEGO 10884 DUPLO Meine erste Wippe mit Tieren  Vorschulspielzeug für Kinder im Alter von 1 5 Jahren
 ---
 
 Está [LEGO 10884 DUPLO Meine erste Wippe mit Tieren  Vorschulspielzeug für Kinder im Alter von 1 5 Jahren](https://www.amazon.de/dp/B07FNS9YSJ/?tag=tolees0ca-21) con 27.10 de descuento por 10.65 EUR (original: 14.61 EUR) en el siguiente enlace!

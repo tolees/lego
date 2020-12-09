@@ -10,8 +10,11 @@ author: ring
 slug: B07FNTTF3B
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 38.98 EUR
 inStock: true
+prodname: LEGO 70668 NINJAGO - Jays Donner-Jet mit Minifiguren
 ---
 
 Está [LEGO 70668 NINJAGO - Jays Donner-Jet mit Minifiguren](https://www.amazon.de/dp/B07FNTTF3B/?tag=tolees0ca-21) con 25.63 de descuento por 28.99 EUR (original: 38.98 EUR) en el siguiente enlace!

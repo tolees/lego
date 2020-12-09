@@ -10,8 +10,11 @@ author: ring
 slug: B07ND99DMY
 description:
 actualPrice: 39.0 EUR
+currency: EUR
+price: 39.0
 comparePrice: 59.99 EUR
 inStock: true
+prodname: LEGO 70423 Hidden Side Spezialbus Geisterschreck 3000 Kinderspielzeug  Augmented Reality Funktionen
 ---
 
 Está [LEGO 70423 Hidden Side Spezialbus Geisterschreck 3000 Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.de/dp/B07ND99DMY/?tag=tolees0ca-21) con 34.99 de descuento por 39.0 EUR (original: 59.99 EUR) en el siguiente enlace!

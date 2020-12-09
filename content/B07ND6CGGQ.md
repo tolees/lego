@@ -10,8 +10,11 @@ author: ring
 slug: B07ND6CGGQ
 description:
 actualPrice: 33.54 EUR
+currency: EUR
+price: 33.54
 comparePrice: 49.99 EUR
 inStock: true
+prodname: LEGO DUPLO Princess Il Castello di Ghiaccio di Frozen  Set con Mattoncino Luminoso  Mini-doll della Principessa Elsa e di Anna e Figura del Pupazzo di Neve  per Bambini e Bambine di 2 anni  10899
 ---
 
 Ahora mismo tienes [LEGO DUPLO Princess Il Castello di Ghiaccio di Frozen  Set con Mattoncino Luminoso  Mini-doll della Principessa Elsa e di Anna e Figura del Pupazzo di Neve  per Bambini e Bambine di 2 anni  10899](https://www.amazon.it/dp/B07ND6CGGQ/?tag=tolees00-21) a 33.54 EUR (original: 49.99 EUR) (32.91 %  de descuento) en el siguiente enlace!

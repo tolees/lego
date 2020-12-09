@@ -10,8 +10,11 @@ author: ring
 slug: B07NDYC9HV
 description:
 actualPrice: 81.89 USD
+currency: USD
+price: 81.89
 comparePrice: 129.99 USD
 inStock: true
+prodname: LEGO Friends Heartlake City Amusement Pier 41375 Toy Rollercoaster Building Kit with Mini Dolls and Toy Dolphin  Build and Play Set includes Toy Carousel  Ticket Kiosk and more  1 251 Pieces 
 ---
 
 Tienes [LEGO Friends Heartlake City Amusement Pier 41375 Toy Rollercoaster Building Kit with Mini Dolls and Toy Dolphin  Build and Play Set includes Toy Carousel  Ticket Kiosk and more  1 251 Pieces ](https://www.amazon.com/dp/B07NDYC9HV/?tag=tolees-20) con un 37.00 % de descuento con precio de oferta de 81.89 USD (original: 129.99 USD) en el siguiente enlace!

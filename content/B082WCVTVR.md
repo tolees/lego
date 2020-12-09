@@ -10,8 +10,11 @@ author: ring
 slug: B082WCVTVR
 description:
 actualPrice: 7.09 EUR
+currency: EUR
+price: 7.09
 comparePrice: 9.74 EUR
 inStock: true
+prodname: LEGO 71370 Super Mario Feuer-Mario - Anzug- Erweiterungsset  Feuer Power-Up Pack
 ---
 
 Está [LEGO 71370 Super Mario Feuer-Mario - Anzug- Erweiterungsset  Feuer Power-Up Pack](https://www.amazon.de/dp/B082WCVTVR/?tag=tolees0ca-21) con 27.21 de descuento por 7.09 EUR (original: 9.74 EUR) en el siguiente enlace!

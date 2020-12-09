@@ -10,8 +10,11 @@ author: ring
 slug: B07GW2QRBD
 description:
 actualPrice: 5.99 USD
+currency: USD
+price: 5.99
 comparePrice: 9.99 USD
 inStock: true
+prodname: LEGO City Barbecue Burn Out 60212 Building Kit  64 Pieces 
 ---
 
 Tienes [LEGO City Barbecue Burn Out 60212 Building Kit  64 Pieces ](https://www.amazon.com/dp/B07GW2QRBD/?tag=tolees-20) con un 40.04 % de descuento con precio de oferta de 5.99 USD (original: 9.99 USD) en el siguiente enlace!

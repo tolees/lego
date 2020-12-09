@@ -10,8 +10,11 @@ author: ring
 slug: B07FNW6WQ4
 description:
 actualPrice: 27.9 EUR
+currency: EUR
+price: 27.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: LEGO® Technic Chevrolet Corvette ZR1 Jeu de construction voiture 9 Ans et Plus  579 Pièces 42093
 ---
 
 Ahora mismo tienes [LEGO® Technic Chevrolet Corvette ZR1 Jeu de construction voiture 9 Ans et Plus  579 Pièces 42093](https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21) a 27.9 EUR (original: 39.99 EUR) (30.23 %  de descuento) en el siguiente enlace!

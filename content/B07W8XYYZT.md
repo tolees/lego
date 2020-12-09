@@ -10,8 +10,11 @@ author: ring
 slug: B07W8XYYZT
 description:
 actualPrice: 11.99 GBP
+currency: GBP
+price: 11.99
 comparePrice: 17.99 GBP
 inStock: true
+prodname: LEGO 41397 Friends Juice Truck Toy Playset with Emma  Two Dolphins and Beach Scene for Preschool Kids 4 + Year Old
 ---
 
 Está [LEGO 41397 Friends Juice Truck Toy Playset with Emma  Two Dolphins and Beach Scene for Preschool Kids 4 + Year Old](https://www.amazon.co.uk/dp/B07W8XYYZT/?tag=tolees0a-21) con 33.35 de descuento por 11.99 GBP (original: 17.99 GBP) en el siguiente enlace!

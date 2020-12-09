@@ -10,8 +10,11 @@ author: ring
 slug: B06WRRJ3JR
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: LEGO DUPLO Cars - Cafetería de FLO  10846 
 ---
 
 Tienes [LEGO DUPLO Cars - Cafetería de FLO  10846 ](https://www.amazon.es/dp/B06WRRJ3JR/?tag=tolees-21) con un 29.10 % de descuento con precio de oferta de 38.99 EUR (original: 54.99 EUR) en el siguiente enlace!

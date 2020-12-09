@@ -10,8 +10,11 @@ author: ring
 slug: B07WHFDKW2
 description:
 actualPrice: 5.99 USD
+currency: USD
+price: 5.99
 comparePrice: 9.99 USD
 inStock: true
+prodname: LEGO City Forest Fire 60247 Firefighter Toy  Cool Building Toy for Kids  New 2020  84 Pieces 
 ---
 
 Está [LEGO City Forest Fire 60247 Firefighter Toy  Cool Building Toy for Kids  New 2020  84 Pieces ](https://www.amazon.com/dp/B07WHFDKW2/?tag=tolees-20) con 40.04 de descuento por 5.99 USD (original: 9.99 USD) en el siguiente enlace!

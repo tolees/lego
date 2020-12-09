@@ -10,8 +10,11 @@ author: ring
 slug: B00ILHABAS
 description:
 actualPrice: 3.64 GBP
+currency: GBP
+price: 3.64
 comparePrice: 6.79 GBP
 inStock: true
+prodname: LEGO Creator: Transport Plan Jeu De Construction 30189  Dans Un Sac 
 ---
 
 Tienes [LEGO Creator: Transport Plan Jeu De Construction 30189  Dans Un Sac ](https://www.amazon.co.uk/dp/B00ILHABAS/?tag=tolees0a-21) con un 46.39 % de descuento con precio de oferta de 3.64 GBP (original: 6.79 GBP) en el siguiente enlace!
