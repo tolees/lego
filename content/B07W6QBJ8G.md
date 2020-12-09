@@ -14,10 +14,12 @@ comparePrice: 48.73 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifiguren Jay  Nya und Unagami](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21) a 32.99 EUR (original: 48.73 EUR) (32.30 %  de descuento) en el siguiente enlace!
+Está [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifiguren Jay  Nya und Unagami](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21) con 32.30 de descuento por 32.99 EUR (original: 48.73 EUR) en el siguiente enlace!
 
 [![LEGO 71711 NINJAGO Jays Cyber-Drache Mec](https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg)](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
