@@ -17,12 +17,10 @@ inStock: true
 prodname: 'LEGO MOVIE 2 70837 Shimmer and Shine Sparkle Spa Playset'
 ---
 
-Está [LEGO MOVIE 2 70837 Shimmer and Shine Sparkle Spa Playset](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=tolees0a-21) con 26.32 de descuento por 44.2 GBP (original: 59.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO MOVIE 2 70837 Shimmer and Shine Sparkle Spa Playset](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=tolees0a-21) a 44.2 GBP (original: 59.99 GBP) (26.32 %  de descuento) en el siguiente enlace!
 
 [![LEGO MOVIE 2 70837 Shimmer and Shine Spa](https://m.media-amazon.com/images/I/51IzEDjhq-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=tolees0a-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07KQBXKVR/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
