@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Town - Centro Automovilístico  al 27.56 % de descuento'
-date: 2020-12-08 22:20:16
+date: 2020-12-09 22:47:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/519El592JDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519El592JDL._SL200_.jpg' ]
 comments: true
