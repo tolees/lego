@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.19 % en LEGO 10924 DUPLO Cars Lightning McQueens'
-date: 2020-12-07 17:35:33
+date: 2020-12-09 13:04:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VzLTc6fXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VzLTc6fXL._SL200_.jpg' ]
 comments: true
