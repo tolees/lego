@@ -18,10 +18,12 @@ prodname: 'LEGO Marvel Avengers: Avengers Ultimate Quinjet 76126 Building Kit  8
 country: 'com'
 ---
 
-Ahora mismo tienes [LEGO Marvel Avengers: Avengers Ultimate Quinjet 76126 Building Kit  838 Pieces ](https://www.amazon.com/dp/B07JXP6R13/?tag=tolees-20) a 55.99 USD (original: 79.99 USD) (30.00 %  de descuento) en el siguiente enlace!
+Está [LEGO Marvel Avengers: Avengers Ultimate Quinjet 76126 Building Kit  838 Pieces ](https://www.amazon.com/dp/B07JXP6R13/?tag=tolees-20) con 30.00 de descuento por 55.99 USD (original: 79.99 USD) en el siguiente enlace!
 
 [![LEGO Marvel Avengers: Avengers Ultimate ](https://m.media-amazon.com/images/I/51PS8l2z0wL._SL200_.jpg)](https://www.amazon.com/dp/B07JXP6R13/?tag=tolees-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07JXP6R13/?tag=tolees-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07JXP6R13/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

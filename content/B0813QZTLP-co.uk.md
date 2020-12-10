@@ -18,12 +18,10 @@ prodname: 'LEGO 10933 DUPLO Tower Crane & Construction Vehicle Toys with Light &
 country: 'co.uk'
 ---
 
-Está [LEGO 10933 DUPLO Tower Crane & Construction Vehicle Toys with Light & Sound and Push & Go Motor for 2-5 Years Old](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21) con 26.08 de descuento por 85.0 GBP (original: 114.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 10933 DUPLO Tower Crane & Construction Vehicle Toys with Light & Sound and Push & Go Motor for 2-5 Years Old](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21) a 85.0 GBP (original: 114.99 GBP) (26.08 %  de descuento) en el siguiente enlace!
 
 [![LEGO 10933 DUPLO Tower Crane & Construct](https://m.media-amazon.com/images/I/511biGtwMEL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
