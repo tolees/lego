@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42108 Technic Mobile Crane Truck To al 34.45 % de descuento'
-date: 2020-12-09 16:54:13
+date: 2020-12-10 18:29:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg' ]
 comments: true
