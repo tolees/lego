@@ -17,12 +17,10 @@ inStock: true
 prodname: 'LEGO City 60239 Streifenwagen mit Polizist-Minifigur'
 ---
 
-Está [LEGO City 60239 Streifenwagen mit Polizist-Minifigur](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21) con 28.23 de descuento por 6.99 EUR (original: 9.74 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60239 Streifenwagen mit Polizist-Minifigur](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21) a 6.99 EUR (original: 9.74 EUR) (28.23 %  de descuento) en el siguiente enlace!
 
 [![LEGO City 60239 Streifenwagen mit Polizi](https://m.media-amazon.com/images/I/51z0bGBPjaL._SL200_.jpg)](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21)
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21)
+[Visítala!!!](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
