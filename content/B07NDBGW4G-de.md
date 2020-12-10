@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42100 Technic Liebherr Bagger R 980 al 28.42 % de descuento'
-date: 2020-12-09 16:51:30
+date: 2020-12-10 19:44:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg' ]
 comments: true

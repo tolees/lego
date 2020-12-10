@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.04 % en LEGO 60246 City Polizeistation  Bauset m'
-date: 2020-12-09 16:53:10
+date: 2020-12-10 19:51:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL200_.jpg' ]
 comments: true
