@@ -18,10 +18,12 @@ prodname: 'LEGO 41168 Disney Frozen II Elsa s Jewelry Box Creation with Princess
 country: 'co.uk'
 ---
 
-Ahora mismo tienes [LEGO 41168 Disney Frozen II Elsa s Jewelry Box Creation with Princess Elsa Mini Doll and Nokk Figure Lockable Drawer  Mirror and Spinner Turntable  Collectible Toys for Kids](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21) a 26.4 GBP (original: 39.99 GBP) (33.98 %  de descuento) en el siguiente enlace!
+Está [LEGO 41168 Disney Frozen II Elsa s Jewelry Box Creation with Princess Elsa Mini Doll and Nokk Figure Lockable Drawer  Mirror and Spinner Turntable  Collectible Toys for Kids](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21) con 33.98 de descuento por 26.4 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![LEGO 41168 Disney Frozen II Elsa s Jewel](https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21)
 
-[Visítala!!!](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21)
+[Ver la oferta!!](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
