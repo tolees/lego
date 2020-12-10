@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'LEGO 42115 Technic Lamborghini Sián FKP  al 26.58 % de descuento'
+date: 2020-12-10 03:41:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0813RJRYC-de'
+description:
+actualPrice: 271.97 EUR
+currency: EUR
+price: 271.97
+comparePrice: 370.41 EUR
+inStock: true
+prodname: 'LEGO 42115 Technic Lamborghini Sián FKP 37 Rennwagen  erweitertes Bauset für Erwachsene  exklusives Sammlermodell'
+country: 'de'
+---
+
+Está [LEGO 42115 Technic Lamborghini Sián FKP 37 Rennwagen  erweitertes Bauset für Erwachsene  exklusives Sammlermodell](https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21) con 26.58 de descuento por 271.97 EUR (original: 370.41 EUR) en el siguiente enlace!
+
+[![LEGO 42115 Technic Lamborghini Sián FKP ](https://m.media-amazon.com/images/I/51bOdmP8B6L._SL200_.jpg)](https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21)
+
+[Ver la oferta!!](https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

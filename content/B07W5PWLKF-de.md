@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'LEGO 31104 Creator 3-in-1 Burger-Monster al 26.14 % de descuento'
+date: 2020-10-23 12:18:11
+thumbnailImage: 'https://m.media-amazon.com/images/I/51UDnK4FqEL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51UDnK4FqEL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07W5PWLKF-de'
+description:
+actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
+comparePrice: 48.73 EUR
+inStock: true
+prodname: 'LEGO 31104 Creator 3-in-1 Burger-Monster-Truck - Geländewagen - Traktor'
+country: 'de'
+---
+
+Ahora mismo tienes [LEGO 31104 Creator 3-in-1 Burger-Monster-Truck - Geländewagen - Traktor](https://www.amazon.de/dp/B07W5PWLKF/?tag=tolees0ca-21) a 35.99 EUR (original: 48.73 EUR) (26.14 %  de descuento) en el siguiente enlace!
+
+[![LEGO 31104 Creator 3-in-1 Burger-Monster](https://m.media-amazon.com/images/I/51UDnK4FqEL._SL200_.jpg)](https://www.amazon.de/dp/B07W5PWLKF/?tag=tolees0ca-21)
+
+[Visítala!!!](https://www.amazon.de/dp/B07W5PWLKF/?tag=tolees0ca-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 30.57 % en LEGO 70428 - Jacks Strandbuggy  Hidden S'
+date: 2020-12-07 09:25:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/51WkNciFofL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51WkNciFofL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07W6QC6X7-de'
+description:
+actualPrice: 13.88 EUR
+currency: EUR
+price: 13.88
+comparePrice: 19.99 EUR
+inStock: true
+prodname: 'LEGO 70428 - Jacks Strandbuggy  Hidden Side  Bauset'
+country: 'de'
+---
+
+Tienes [LEGO 70428 - Jacks Strandbuggy  Hidden Side  Bauset](https://www.amazon.de/dp/B07W6QC6X7/?tag=tolees0ca-21) con un 30.57 % de descuento con precio de oferta de 13.88 EUR (original: 19.99 EUR) en el siguiente enlace!
+
+[![LEGO 70428 - Jacks Strandbuggy  Hidden S](https://m.media-amazon.com/images/I/51WkNciFofL._SL200_.jpg)](https://www.amazon.de/dp/B07W6QC6X7/?tag=tolees0ca-21)
+
+[Accede a la oferta!!](https://www.amazon.de/dp/B07W6QC6X7/?tag=tolees0ca-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
