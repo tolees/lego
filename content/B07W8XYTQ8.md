@@ -17,10 +17,12 @@ inStock: true
 prodname: 'LEGO Friends 41394 Krankenhaus von Heartlake City mit 3 Spielfiguren'
 ---
 
-Ahora mismo tienes [LEGO Friends 41394 Krankenhaus von Heartlake City mit 3 Spielfiguren](https://www.amazon.de/dp/B07W8XYTQ8/?tag=tolees0ca-21) a 42.99 EUR (original: 58.48 EUR) (26.49 %  de descuento) en el siguiente enlace!
+Está [LEGO Friends 41394 Krankenhaus von Heartlake City mit 3 Spielfiguren](https://www.amazon.de/dp/B07W8XYTQ8/?tag=tolees0ca-21) con 26.49 de descuento por 42.99 EUR (original: 58.48 EUR) en el siguiente enlace!
 
 [![LEGO Friends 41394 Krankenhaus von Heart](https://m.media-amazon.com/images/I/512eOjRWBPL._SL200_.jpg)](https://www.amazon.de/dp/B07W8XYTQ8/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07W8XYTQ8/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07W8XYTQ8/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
