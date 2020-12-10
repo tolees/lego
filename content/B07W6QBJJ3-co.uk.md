@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60257 City Nitro Wheels Service Sta al 33.34 % de descuento'
-date: 2020-12-09 09:54:37
+title: 'LEGO 60257 City Nitro Wheels Service Sta al 33.32 % de descuento'
+date: 2020-12-10 21:26:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VfOUQxFyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VfOUQxFyL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: 'B07W6QBJJ3-co.uk'
 description:
-actualPrice: 29.99 GBP
+actualPrice: 30.0 GBP
 currency: GBP
-price: 29.99
+price: 30.0
 comparePrice: 44.99 GBP
 inStock: true
 prodname: 'LEGO 60257 City Nitro Wheels Service Station Building Set with SUV  Camper Van and Surfboards  Car Toys for Kids'
 country: 'co.uk'
 ---
 
-Está [LEGO 60257 City Nitro Wheels Service Station Building Set with SUV  Camper Van and Surfboards  Car Toys for Kids](https://www.amazon.co.uk/dp/B07W6QBJJ3/?tag=tolees0a-21) con 33.34 de descuento por 29.99 GBP (original: 44.99 GBP) en el siguiente enlace!
+Está [LEGO 60257 City Nitro Wheels Service Station Building Set with SUV  Camper Van and Surfboards  Car Toys for Kids](https://www.amazon.co.uk/dp/B07W6QBJJ3/?tag=tolees0a-21) con 33.32 de descuento por 30.0 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![LEGO 60257 City Nitro Wheels Service Sta](https://m.media-amazon.com/images/I/51VfOUQxFyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W6QBJJ3/?tag=tolees0a-21)
 
