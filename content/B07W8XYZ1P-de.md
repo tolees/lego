@@ -18,10 +18,12 @@ prodname: 'LEGO 60248 City Einsatz mit dem Feuerwehrhubschrauber Spielzeug  Baus
 country: 'de'
 ---
 
-Ahora mismo tienes [LEGO 60248 City Einsatz mit dem Feuerwehrhubschrauber Spielzeug  Bauset mit Quad und Motorrad](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21) a 13.64 EUR (original: 19.49 EUR) (30.02 %  de descuento) en el siguiente enlace!
+Está [LEGO 60248 City Einsatz mit dem Feuerwehrhubschrauber Spielzeug  Bauset mit Quad und Motorrad](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21) con 30.02 de descuento por 13.64 EUR (original: 19.49 EUR) en el siguiente enlace!
 
 [![LEGO 60248 City Einsatz mit dem Feuerweh](https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg)](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21)
 
-[Visítala!!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21)
+[Ver la oferta!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

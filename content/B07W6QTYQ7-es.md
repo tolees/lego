@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic - Espectáculo Acrobático: C al 29.08 % de descuento'
-date: 2020-12-09 14:59:29
+date: 2020-12-10 15:15:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL200_.jpg' ]
 comments: true

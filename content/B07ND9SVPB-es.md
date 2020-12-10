@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars TM - Asaltador AT-ST  Set al 27.84 % de descuento'
-date: 2020-12-09 14:43:17
+date: 2020-12-10 15:17:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/512MhaN4NML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512MhaN4NML._SL200_.jpg' ]
 comments: true
