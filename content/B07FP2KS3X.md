@@ -17,12 +17,10 @@ inStock: true
 prodname: 'LEGO 21148 Children s Toy Colourful'
 ---
 
-Está [LEGO 21148 Children s Toy Colourful](https://www.amazon.co.uk/dp/B07FP2KS3X/?tag=tolees0a-21) con 38.41 de descuento por 8.0 GBP (original: 12.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 21148 Children s Toy Colourful](https://www.amazon.co.uk/dp/B07FP2KS3X/?tag=tolees0a-21) a 8.0 GBP (original: 12.99 GBP) (38.41 %  de descuento) en el siguiente enlace!
 
 [![LEGO 21148 Children s Toy Colourful](https://m.media-amazon.com/images/I/51RJM4dp7bL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FP2KS3X/?tag=tolees0a-21)
 
-[Ver la oferta!!](https://www.amazon.co.uk/dp/B07FP2KS3X/?tag=tolees0a-21)
+[Visítala!!!](https://www.amazon.co.uk/dp/B07FP2KS3X/?tag=tolees0a-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

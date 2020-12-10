@@ -17,12 +17,10 @@ inStock: true
 prodname: 'LEGO Overwatch D.Va and Reinhardt 75973 Mech Building Kit with popular Overwatch Character Minifigures and Buildable Rocket Hammer  455 Pieces '
 ---
 
-Está [LEGO Overwatch D.Va and Reinhardt 75973 Mech Building Kit with popular Overwatch Character Minifigures and Buildable Rocket Hammer  455 Pieces ](https://www.amazon.com/dp/B07G5MJ6CQ/?tag=tolees-20) con 25.01 de descuento por 29.99 USD (original: 39.99 USD) en el siguiente enlace!
+Ahora mismo tienes [LEGO Overwatch D.Va and Reinhardt 75973 Mech Building Kit with popular Overwatch Character Minifigures and Buildable Rocket Hammer  455 Pieces ](https://www.amazon.com/dp/B07G5MJ6CQ/?tag=tolees-20) a 29.99 USD (original: 39.99 USD) (25.01 %  de descuento) en el siguiente enlace!
 
 [![LEGO Overwatch D.Va and Reinhardt 75973 ](https://m.media-amazon.com/images/I/51ezF4qHK1L._SL200_.jpg)](https://www.amazon.com/dp/B07G5MJ6CQ/?tag=tolees-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07G5MJ6CQ/?tag=tolees-20)
+[Visítala!!!](https://www.amazon.com/dp/B07G5MJ6CQ/?tag=tolees-20)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
