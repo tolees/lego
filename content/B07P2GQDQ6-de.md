@@ -26,9 +26,9 @@ Características principales:
 
 - Dieses Sammlermodell des ultimativen Land Rover Defender 2019 fängt die gesamte Raffinesse des Geländewagens ein – mit seinen klaren, modernen Linien und plastischen Oberflächen
 - Das Bauspielzeug verfügt über eine Lenkung, ein sequenzielles 4-Gang-Getriebe, einen Allradantrieb mit 3 Differenzialen, Einzelradaufhängung, einen 6-Zylinder-Reihenmotor und eine Seilwinde
+- Fans der Sets von LEGO Technic sowie der Fahrzeuge von Land Rover kommen mit dieser Nachbildung des Land Rover Defender in den Genuss eines Bauerlebnisses voller realistischer Funktionen
 - Der Innenraum ist mit einem detailreichen Armaturenbrett, einer Gangschaltung mit 2 Stellhebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einem Wählhebel zum Wechseln des Gangs
 - Das Set Land Rover Defender (42110) mit 2.573 Teilen bietet ein Bauerlebnis und ist damit das ideale Geschenk für Baumeister ab 11 Jahren; Das Modell ist 22 cm hoch, 42 cm lang und 20 cm breit
-- Fans der Sets von LEGO Technic sowie der Fahrzeuge von Land Rover kommen mit dieser Nachbildung des Land Rover Defender in den Genuss eines Bauerlebnisses voller realistischer Funktionen
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21)
 

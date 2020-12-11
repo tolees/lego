@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.57 % en LEGO 60260 City Airport Air Race Toy  Pl'
-date: 2020-12-09 21:49:41
+date: 2020-12-11 08:31:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,14 @@ country: 'co.uk'
 Tienes [LEGO 60260 City Airport Air Race Toy  Plane & Helicopters Play Set  Aeroplane Toys for Kids 5+](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21) con un 33.57 % de descuento con precio de oferta de 16.6 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![LEGO 60260 City Airport Air Race Toy  Pl](https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21)
+
+Características principales:
+
+- Includes 2 toy ripcord helicopters and a stunt toy plane, all with opening cockpits that have room for any 1 of the 3 minifigure pilots
+- Kids can launch the helicopters into the air using ripcord tools, making them fly at the pull of a cord, which one will go further?
+- Kids aged 5 plus can zoom, rotate and visualise as they build with Instructions PLUS – part of the LEGO Building Instructions app for mobiles
+- With 2 course pylons for a pretend runway, and aircraft with spinnable propellers and opening minifigure cockpits, the race is serious
+- This air race set includes 3 minifigures: LEGO City Adventures TV series character Rivera and LEGO City Xtreme and Vitarush pilots
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21)
 
