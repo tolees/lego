@@ -26,9 +26,9 @@ Características:
 
 - Dieser Beutel enthält 79 Steinchen in 4 Farben, 20 schimmernde Glitzersteinchen und 10 von insgesamt 16 möglichen individuell bedruckten Steinchen – der genaue Inhalt ist also eine Überraschung
 - Die Steinchen aus dem „Armband Ergänzungsset Comic“ (41916) eignen sich wunderbar für Designs im Zusammenspiel mit anderen LEGO Sets und bieten Kindern kreatives Vergnügen
-- Dieses bezaubernde, fantasievolle Set ist kompakt, bestens tragbar und das ideale Geschenk für junge Designer, die mit den Steinchen ihre Armbänder und Deko Accessoires ergänzen und dann voller Stolz präsentieren können
 - Junge Designfans werden sich über das Ergänzungsset freuen, um ihre vorhandenen Sets zu erweitern. Die Farben und die bedruckten Steinchen machen dieses Set zu einem tollen Geschenk, das Jungen und Mädchen ab 6 Jahren begeistert
 - Fantasievolle Designobjekte. Wenn Kinder die Schmuckstücke und Accessoires aus den unterschiedlichen LEGO DOTS Sets mit den tollen Steinchen gestalten oder sich coole Designs ausdenken, können sie ihrer Fantasie freien Lauf lassen
+- Dieses bezaubernde, fantasievolle Set ist kompakt, bestens tragbar und das ideale Geschenk für junge Designer, die mit den Steinchen ihre Armbänder und Deko Accessoires ergänzen und dann voller Stolz präsentieren können
 
 [Visítala!!!](https://www.amazon.de/dp/B0813Q8PGD/?tag=tolees0ca-21)
 
