@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42108 Technic Mobile Crane Truck To al 34.45 % de descuento'
-date: 2020-12-10 18:29:15
+date: 2020-12-11 20:32:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,14 @@ country: 'co.uk'
 Ahora mismo tienes [LEGO 42108 Technic Mobile Crane Truck Toy  Construction Vehicles Building Set](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21) a 58.99 GBP (original: 89.99 GBP) (34.45 %  de descuento) en el siguiente enlace!
 
 [![LEGO 42108 Technic Mobile Crane Truck To](https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)
+
+Características:
+
+- The crane truck toy features eight wheel steering, four individually controlled outriggers, two cabins and super-high telescopic arm 30 Inch (78 cm) long
+- Classic black and yellow design that looks just like the real thing when fans explore what all the different awesome functions can do
+- Crane operators cabin turns around, hydraulic mechanism lifts the arm 70 Degree, while crane blocks and ropes raise the heavy cargo effortlessly
+- To see how a real crane works: Put out the outriggers, raise the boom and hoist the concrete pillar, then try to put it precisely down
+- This advanced engineering toy model is a challenge for young fans of construction equipment but still easy to build with instructions
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)
 
