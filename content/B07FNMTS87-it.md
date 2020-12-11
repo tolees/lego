@@ -29,8 +29,8 @@ Principales características:
 - Utilizza i personaggi e gli accessori e i mattoncini decorati per aiutare il tuo bambino a capire il ruolo dei pompieri e quello che fanno per noi
 - Gli accessori includono una scala, una manichetta, un estintore, unascia e un falò
 - La caserma dei pompieri misura 26 cm di altezza, 25 cm di larghezza e 12 cm di profondità; lautopompa misura 10 cm di altezza, 14 cm di lunghezza e 7 cm di larghezza
-- Sono ottimali e facili da costruire per le manine dei più piccoli; diversi prodotti LEGO Duplo Town sono disponibili per ricreare scene di vita quotidiana con il tuo bambino nel realistico mondo di Duplo
 - Aiuta il tuo bambino a sviluppare capacità motorie complesse mentre costruisce questo set dei vigili del fuoco; questo giocattolo dei pompieri è ottimale come regalo per i bambini in età prescolare
+- Sono ottimali e facili da costruire per le manine dei più piccoli; diversi prodotti LEGO Duplo Town sono disponibili per ricreare scene di vita quotidiana con il tuo bambino nel realistico mondo di Duplo
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07FNMTS87/?tag=tolees00-21)
 
