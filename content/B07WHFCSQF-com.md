@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Street Sweeper 60249 Construct al 40.04 % de descuento'
-date: 2020-12-10 10:00:54
+date: 2020-12-12 21:11:43
 image: 'https://m.media-amazon.com/images/I/51GBIOaM3XL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,7 @@ Está [LEGO City Street Sweeper 60249 Construction Toy  Cool Building Toy for Ki
 
 ℹ️:
 
+- HD 1080P NIGHT VISION CAMERA
+- Please charging 4 hours by outlet before using.
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07WHFCSQF/?tag=tolees-20)

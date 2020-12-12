@@ -24,10 +24,10 @@ Ahora mismo tienes [LEGO Friends - Barco de Rescate Nuevo juguete de construcci�
 
 🔎:
 
-- This LEGO toy features a three-level motor cruiser, heart-shaped island and underwater coral scene with myriad features and accessory elements
 - The rescue cruiser comes with swivelling crane and a stretcher for transporting sick animals, lookout position and a cockpit area
+- Extending the play further is a separate heart-shaped island where a map hides the location of the underwater treasure chest
+- This LEGO toy features a three-level motor cruiser, heart-shaped island and underwater coral scene with myriad features and accessory elements
 - Includes a water-reactive textile treasure map, coral and sea creature elements, underwater camera, medical instruments and many, many more
 - Includes three mini-doll figures: Olivia, Andrea and Mia, plus a robot and narwhal figures, letting role-play the hero with this rescue boat toy
-- Extending the play further is a separate heart-shaped island where a map hides the location of the underwater treasure chest
 
 [Visítala!!!](https://www.amazon.es/dp/B07KTSGWD4/?tag=tolees-21)
