@@ -24,10 +24,10 @@ Tienes [LEGO 70820 Children s Toy Multi-Coloured](https://www.amazon.co.uk/dp/B0
 
 ℹ️:
 
+- Accessory elements include Lucy’s crossbow, Rex’s gun, Sweet Mayhem’s gun and two extra minifigure heads for Emmet and Lucy with different facial expressions
+- THE LEGO MOVIE 2 70820 Movie Maker construction toy can be built together with all other original LEGO toy building sets and LEGO bricks for creative play
+- Recreate adventures from THE LEGO MOVIE 2 with this action-packed toy for boys and girls aged 8+ and fans of all ages
 - This building set includes three minifigures - Emmet, Lucy and Rex - a Sweet Mayhem mini-doll, brick-built Warrior Kitty, Star, Queen Watevra Wa’Nabi and alien invader figures and a raptor figure
 - Build a movie stage with two interchangeable background images, an adjustable smartphone stand, Emmet’s Escape Buggy, Rex’s Rexplorer and more action props, then film your own LEGO movie
-- Accessory elements include Lucy’s crossbow, Rex’s gun, Sweet Mayhem’s gun and two extra minifigure heads for Emmet and Lucy with different facial expressions
-- Recreate adventures from THE LEGO MOVIE 2 with this action-packed toy for boys and girls aged 8+ and fans of all ages
-- THE LEGO MOVIE 2 70820 Movie Maker construction toy can be built together with all other original LEGO toy building sets and LEGO bricks for creative play
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FNN146S/?tag=tolees0a-21)

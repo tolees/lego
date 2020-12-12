@@ -24,10 +24,10 @@ Está [LEGO 70828 Children s Toy Multi-Coloured](https://www.amazon.co.uk/dp/B07
 
 ℹ️:
 
-- Build the Pop-Up Party Bus, with an opening roof and sides for easy play, foldout loudspeakers and a LEGO light brick to light up the rotating dancefloor, then party on with Disco Kitty and friends
-- Accessory elements include a flip-up disco ball with translucent-coloured elements, two smoothie drinks and a microphone
-- Recreate action-packed adventures from THE LEGO MOVIE 2 with this creative building toy for boys and girls aged 9+ and fans of all ages
-- Includes new 2019 THE LEGO MOVIE 2 characters: Buildable Disco Kitty as Unikitty and Zebe figures, plus Tempo and Melody mini-doll figures
 - THE LEGO MOVIE 2 70828 Pop-Up Party Bus playset can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Includes new 2019 THE LEGO MOVIE 2 characters: Buildable Disco Kitty as Unikitty and Zebe figures, plus Tempo and Melody mini-doll figures
+- Accessory elements include a flip-up disco ball with translucent-coloured elements, two smoothie drinks and a microphone
+- Build the Pop-Up Party Bus, with an opening roof and sides for easy play, foldout loudspeakers and a LEGO light brick to light up the rotating dancefloor, then party on with Disco Kitty and friends
+- Recreate action-packed adventures from THE LEGO MOVIE 2 with this creative building toy for boys and girls aged 9+ and fans of all ages
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07FNWJ12T/?tag=tolees0a-21)
