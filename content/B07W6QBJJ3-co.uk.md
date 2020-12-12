@@ -28,11 +28,11 @@ Está [LEGO 60257 City Nitro Wheels Service Station Building Set with SUV  Campe
 
 Principales características:
 
-- The Service Station playset Includes 4 minifigures: a gas station clerk, employee and 2 surfer minifigures, plus a chihuahua dog figure
-- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 - Kids can serve Octan E, gasoline and snacks at this toy service station with solar panels for gas and electric vehicles
-- The car toys charging point and petrol pump have flexible hoses for connecting to the vehicles, and the SUV and camper have removable roofs
+- The Service Station playset Includes 4 minifigures: a gas station clerk, employee and 2 surfer minifigures, plus a chihuahua dog figure
 - The playset features a service station with shop, Octan E charging point and petrol pump, plus an SUV and a camper van with surfboards
+- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
+- The car toys charging point and petrol pump have flexible hoses for connecting to the vehicles, and the SUV and camper have removable roofs
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07W6QBJJ3/?tag=tolees0a-21)
 

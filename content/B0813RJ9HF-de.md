@@ -28,10 +28,10 @@ Tienes [LEGO 70436 Hidden Side Phantom Feuerwehrauto 3000  Spielzeug  AR-App  in
 
 Características principales:
 
-- Enthält ein digital interaktives Lego Hidden Side Feuerwehrauto mit einem transformierbaren Robo-Mech sowie eine Figur von Nehmaar Reem in Gestalt von The Harbinger
-- Das Lego Feuerwehrauto verwandelt sich, wenn es über die Lego AR-App betrachtet wird, in der Kinder ihre Geistersammlung in einer heimgesuchten digitalen Welt erweitern können
 - Mit den Minifiguren Jack, Parker, J.B., TeeVee und Shattenläufer können Kinder mit Freunden in actiongeladenen realen und digitalen Welten konkurrieren
 - Kinder können das Set bauen, scannen und die Geister auf ihren Tablets/Mobiltelefonen (nicht im Lieferumfang enthalten) jagen, um ein umfassendes Erlebnis zu erhalten
+- Enthält ein digital interaktives Lego Hidden Side Feuerwehrauto mit einem transformierbaren Robo-Mech sowie eine Figur von Nehmaar Reem in Gestalt von The Harbinger
+- Das Lego Feuerwehrauto verwandelt sich, wenn es über die Lego AR-App betrachtet wird, in der Kinder ihre Geistersammlung in einer heimgesuchten digitalen Welt erweitern können
 - Die Erfahrung hat eine erweiterte Multiplayer-Option; Kompatibel mit über 180 iOS- und Android-Geräten - Einzelheiten finden Sie in der Produktbeschreibung
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B0813RJ9HF/?tag=tolees0ca-21)

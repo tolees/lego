@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Disney Pixar’s Toy Story Buzz & B al 40.02 % de descuento'
-date: 2020-11-30 08:46:16
+date: 2020-12-12 13:24:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hUFRY6UWL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51hUFRY6UWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hUFRY6UWL._SL200_.jpg' ]

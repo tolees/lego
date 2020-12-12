@@ -28,9 +28,9 @@ Ahora mismo tienes [LEGO Small Silly StackableKopf Lagerung  Gelb](https://www.a
 
 Características:
 
+- Aus Kunststoff
 - Passt in die LEGO Brick Room Copenhagen
 - Kleine Größe
-- Aus Kunststoff
 - Ursprungsland:DK
 
 [Visítala!!!](https://www.amazon.de/dp/B07H28N9VY/?tag=tolees0ca-21)

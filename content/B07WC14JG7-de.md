@@ -28,9 +28,9 @@ Está [LEGO 10921 DUPLO Super Heroes Marvel Iron Mans Labor-Treffpunkt Set mit S
 
 Principales características:
 
+- Enthält 3 Figuren: Spider-Man, Captain America und Iron Man, beliebte Superhelden aus den Marvel Avengers-Filmen
 - Da sind ein Motorrad von Captain America zum Reparieren, schwere Lasten zum Heben und Verlagern und sogar Spider-Man kann bei einer Fahrt hinter dem Motorrad gezogen werden
 - Verfügt über ein Labor von Iron Man – mit einem fahrenden Kran auf Rädern, einem Drehtisch, einer Systemsteuerung und einem Motorrad
-- Enthält 3 Figuren: Spider-Man, Captain America und Iron Man, beliebte Superhelden aus den Marvel Avengers-Filmen
 - Dieses einfach zu bauende Starter-Set enthält Zubehör wie einen Schraubenschlüssel, ein Schild, ein Zugseil und eine aufklappbare, tragbare Tasche
 - Ein großartiges LEGO Starter-Set für angehende Baumeister und kleine Marvel Avengers-Fans mit sicheren, kinderfreundlichen und einfach zu bauenden großen Elementen
 

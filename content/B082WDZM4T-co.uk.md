@@ -28,11 +28,11 @@ Ahora mismo tienes [LEGO 71368 Super Mario Toad’s Treasure Hunt Expansion Set 
 
 Características:
 
-- Features Toad Houses, a tree, treasure chest, sliding and rotating platforms and 10 action bricks, for solo gameplay or fun with friends
-- Add this treasure-hunting expansion with loads of challenges to the Adventures with Mario Starter Course set (sold separately) for extra fun
-- Players can help Mario figure (not included) find the 3 hidden Blocks and jump on them in the correct order to win bonus digital coins
 - The free LEGO app has digital building instructions, cool viewing tools, inspiration for creative play and more - visit LEGO.com/devicecheck
+- Players can help Mario figure (not included) find the 3 hidden Blocks and jump on them in the correct order to win bonus digital coins
+- Features Toad Houses, a tree, treasure chest, sliding and rotating platforms and 10 action bricks, for solo gameplay or fun with friends
 - Including a Goomba, 2 Cheep Cheeps and Toad and Toadette figures, this set can be combined with other Super Mario toys in various ways
+- Add this treasure-hunting expansion with loads of challenges to the Adventures with Mario Starter Course set (sold separately) for extra fun
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B082WDZM4T/?tag=tolees0a-21)
 
