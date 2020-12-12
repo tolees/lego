@@ -24,10 +24,10 @@ Tienes [LEGO 70824 Children s Toy Multi-Coloured](https://www.amazon.co.uk/dp/B0
 
 ℹ️:
 
-- Includes new 2019 Sweet Mayhem and Susan mini-dolls, a minifigure of Lucy with handcuffs plus five face expression decorations for the queen when you rebuild her into pile-of-bricks form
 - Accessory elements include Sweet Mayhem’s gun, Susan’s two gold-coloured goblet and tray elements
 - Recreate adventures from THE LEGO MOVIE 2 with this fun-packed construction toy for boys and girls ages 6+ and fans of all ages
-- THE LEGO MOVIE 2 70824 Introducing Queen Watevra Wa’Nabi creative toy can be built together with all other original LEGO building sets and LEGO bricks for creative building
 - Build the Banarnar figure and Queen Watevra Wa’Nabi in horse form with a rotating platform and spin into action with this fun THE LEGO MOVIE 2 toy
+- THE LEGO MOVIE 2 70824 Introducing Queen Watevra Wa’Nabi creative toy can be built together with all other original LEGO building sets and LEGO bricks for creative building
+- Includes new 2019 Sweet Mayhem and Susan mini-dolls, a minifigure of Lucy with handcuffs plus five face expression decorations for the queen when you rebuild her into pile-of-bricks form
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FNS6P77/?tag=tolees0a-21)

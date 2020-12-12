@@ -24,10 +24,10 @@ Tienes [LEGO 70825 Children s Toy Multi-Coloured](https://www.amazon.co.uk/dp/B0
 
 ℹ️:
 
-- Recreate adventures from the LEGO Movie 2 with this fun-packed children’s toy for boys and girls aged 6+ and fans of all ages
-- THE LEGO MOVIE 2 70825 Queen Watevra’s build whatever box construction toy can be built together with all other original LEGO sets and LEGO bricks for creative building
-- The LEGO Movie two Queen Watevra’s Build whatever Box toy includes instructions to build each model
 - Build and rebuild the LEGO Movie 2 character Queen Watevra Wa’Nabi into 15 different forms - including an octopus, hammer, bat, devil, gorilla, toaster and rocket
+- The LEGO Movie two Queen Watevra’s Build whatever Box toy includes instructions to build each model
+- THE LEGO MOVIE 2 70825 Queen Watevra’s build whatever box construction toy can be built together with all other original LEGO sets and LEGO bricks for creative building
 - This versatile model also includes inspirational ideas to build the queen into even more shapes, from a grumpy volcano to a happy butterfly or colourful rocket
+- Recreate adventures from the LEGO Movie 2 with this fun-packed children’s toy for boys and girls aged 6+ and fans of all ages
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FP1X88D/?tag=tolees0a-21)
