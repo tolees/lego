@@ -24,9 +24,9 @@ Está [LEGO City Town - Centro Automovilístico Set de construcción con Coches 
 
 ℹ️:
 
-- Includes four LEGO city minifigures: Harl Hubbs, a mechanic, petrol station worker and sports car driver, plus a mug
 - Features three buildings: A drive-through car wash with hose and bucket, a toy garage with car lift and a petrol station pump with flexible hose
 - Accessories include: Two traffic cones, oil dispenser, tools, exhaust pipes, oil barrel and an air intake
+- Includes four LEGO city minifigures: Harl Hubbs, a mechanic, petrol station worker and sports car driver, plus a mug
 - Let your kid build a busy toy garage and fuel station pump with car wash to take care of the different vehicles driving around the city
 - Includes three vehicles: A red sports car with red wheels, yellow-blue tow truck with raising crane arm and a fuel tanker with flexible hose
 
