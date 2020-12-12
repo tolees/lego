@@ -2,35 +2,27 @@
 layout: post
 title: 'LEGO Harry Potter and The Prisoner of Az al 51.26 % de descuento'
 date: 2020-11-22 17:15:43
-thumbnailImage: 'https://m.media-amazon.com/images/I/51b7GXsFP5L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51b7GXsFP5L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51b7GXsFP5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2WRZ4T-com'
-description:
 actualPrice: 19.49 USD
 currency: USD
 price: 19.49
 comparePrice: 39.99 USD
-inStock: true
 prodname: 'LEGO Harry Potter and The Prisoner of Azkaban Knight Bus 75957 Building Kit  403 Pieces '
 country: 'com'
+flag: '🇺🇸'
 buyurl: 'https://www.amazon.com/dp/B07Q2WRZ4T/?tag=tolees-20'
 descuento: '51.26'
-titulo: 'LEGO Harry Potter and The Prisoner of Az'
 ---
 
 Está [LEGO Harry Potter and The Prisoner of Azkaban Knight Bus 75957 Building Kit  403 Pieces ](https://www.amazon.com/dp/B07Q2WRZ4T/?tag=tolees-20) con 51.26 de descuento por 19.49 USD (original: 39.99 USD) en el siguiente enlace!
 
 [![LEGO Harry Potter and The Prisoner of Az](https://m.media-amazon.com/images/I/51b7GXsFP5L._SL200_.jpg)](https://www.amazon.com/dp/B07Q2WRZ4T/?tag=tolees-20)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07Q2WRZ4T/?tag=tolees-20)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
