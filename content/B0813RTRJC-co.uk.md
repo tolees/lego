@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.39 % en LEGO 76159 DC Batman Joker s Trike Chase'
 date: 2020-11-19 14:41:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51d4LJIsbOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51d4LJIsbOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51d4LJIsbOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.99 GBP
 inStock: true
 prodname: 'LEGO 76159 DC Batman Joker s Trike Chase with Batmobile  Harley Quinn & Robin Minifigures'
 country: 'co.uk'
+buyurl: 'https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21'
+descuento: '33.39'
+titulo: 'LEGO 76159 DC Batman Joker s Trike Chase'
 ---
 
 Tienes [LEGO 76159 DC Batman Joker s Trike Chase with Batmobile  Harley Quinn & Robin Minifigures](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21) con un 33.39 % de descuento con precio de oferta de 29.97 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![LEGO 76159 DC Batman Joker s Trike Chase](https://m.media-amazon.com/images/I/51d4LJIsbOL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21)
 

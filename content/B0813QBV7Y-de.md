@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 75968 Harry Potter Ligusterweg 4  S al 29.87 % de descuento'
 date: 2020-11-24 10:51:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zs1j74l9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Zs1j74l9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zs1j74l9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 68.23 EUR
 inStock: true
 prodname: 'LEGO 75968 Harry Potter Ligusterweg 4  Spielzeug-Haus mit Ford Anglia sowie Minifiguren von Dobby und Familie Dursley'
 country: 'de'
+buyurl: 'https://www.amazon.de/dp/B0813QBV7Y/?tag=tolees0ca-21'
+descuento: '29.87'
+titulo: 'LEGO 75968 Harry Potter Ligusterweg 4  S'
 ---
 
 Está [LEGO 75968 Harry Potter Ligusterweg 4  Spielzeug-Haus mit Ford Anglia sowie Minifiguren von Dobby und Familie Dursley](https://www.amazon.de/dp/B0813QBV7Y/?tag=tolees0ca-21) con 29.87 de descuento por 47.85 EUR (original: 68.23 EUR) en el siguiente enlace!
 
 [![LEGO 75968 Harry Potter Ligusterweg 4  S](https://m.media-amazon.com/images/I/51Zs1j74l9L._SL200_.jpg)](https://www.amazon.de/dp/B0813QBV7Y/?tag=tolees0ca-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.de/dp/B0813QBV7Y/?tag=tolees0ca-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO City Garage Center 60232 Building K al 36.33 % de descuento'
 date: 2020-12-01 09:04:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TQ-Xy6OsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TQ-Xy6OsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TQ-Xy6OsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 USD
 inStock: true
 prodname: 'LEGO City Garage Center 60232 Building Kit  234 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07PZQ133B/?tag=tolees-20'
+descuento: '36.33'
+titulo: 'LEGO City Garage Center 60232 Building K'
 ---
 
 Ahora mismo tienes [LEGO City Garage Center 60232 Building Kit  234 Pieces ](https://www.amazon.com/dp/B07PZQ133B/?tag=tolees-20) a 31.83 USD (original: 49.99 USD) (36.33 %  de descuento) en el siguiente enlace!
 
 [![LEGO City Garage Center 60232 Building K](https://m.media-amazon.com/images/I/51TQ-Xy6OsL._SL200_.jpg)](https://www.amazon.com/dp/B07PZQ133B/?tag=tolees-20)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.com/dp/B07PZQ133B/?tag=tolees-20)
 

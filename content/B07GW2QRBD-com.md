@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.04 % en LEGO City Barbecue Burn Out 60212 Buildi'
 date: 2020-11-22 17:15:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+QyZAoqCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+QyZAoqCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+QyZAoqCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 USD
 inStock: true
 prodname: 'LEGO City Barbecue Burn Out 60212 Building Kit  64 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07GW2QRBD/?tag=tolees-20'
+descuento: '40.04'
+titulo: 'LEGO City Barbecue Burn Out 60212 Buildi'
 ---
 
 Tienes [LEGO City Barbecue Burn Out 60212 Building Kit  64 Pieces ](https://www.amazon.com/dp/B07GW2QRBD/?tag=tolees-20) con un 40.04 % de descuento con precio de oferta de 5.99 USD (original: 9.99 USD) en el siguiente enlace!
 
 [![LEGO City Barbecue Burn Out 60212 Buildi](https://m.media-amazon.com/images/I/51+QyZAoqCL._SL200_.jpg)](https://www.amazon.com/dp/B07GW2QRBD/?tag=tolees-20)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07GW2QRBD/?tag=tolees-20)
 

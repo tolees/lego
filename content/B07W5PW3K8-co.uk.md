@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 11008 Classic Bricks and Houses Bui al 30.68 % de descuento'
 date: 2020-11-17 16:31:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zy63lNnbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Zy63lNnbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zy63lNnbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.99 GBP
 inStock: true
 prodname: 'LEGO 11008 Classic Bricks and Houses Building Set  Preschool Toys for 4+ Year Old with Six Easy-to-Build Models'
 country: 'co.uk'
+buyurl: 'https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21'
+descuento: '30.68'
+titulo: 'LEGO 11008 Classic Bricks and Houses Bui'
 ---
 
 Ahora mismo tienes [LEGO 11008 Classic Bricks and Houses Building Set  Preschool Toys for 4+ Year Old with Six Easy-to-Build Models](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21) a 12.47 GBP (original: 17.99 GBP) (30.68 %  de descuento) en el siguiente enlace!
 
 [![LEGO 11008 Classic Bricks and Houses Bui](https://m.media-amazon.com/images/I/51Zy63lNnbL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)
 

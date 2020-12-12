@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en LEGO 70436 Hidden Side Phantom Fire Engi'
 date: 2020-11-13 12:48:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 GBP
 inStock: true
 prodname: 'LEGO 70436 Hidden Side Phantom Fire Engine 3000 Toy  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android'
 country: 'co.uk'
+buyurl: 'https://www.amazon.co.uk/dp/B0813RJ9HF/?tag=tolees0a-21'
+descuento: '25.00'
+titulo: 'LEGO 70436 Hidden Side Phantom Fire Engi'
 ---
 
 Tienes [LEGO 70436 Hidden Side Phantom Fire Engine 3000 Toy  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.co.uk/dp/B0813RJ9HF/?tag=tolees0a-21) con un 25.00 % de descuento con precio de oferta de 44.99 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![LEGO 70436 Hidden Side Phantom Fire Engi](https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0813RJ9HF/?tag=tolees0a-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B0813RJ9HF/?tag=tolees0a-21)
 

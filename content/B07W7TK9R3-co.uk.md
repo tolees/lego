@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 10915 DUPLO My First Alphabet Truck al 39.98 % de descuento'
 date: 2020-11-02 08:36:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nKTDVoU5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nKTDVoU5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nKTDVoU5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 GBP
 inStock: true
 prodname: 'LEGO 10915 DUPLO My First Alphabet Truck Toy for Toddlers 1.5 Year Old  Learning Letters Bricks  Preschool Education'
 country: 'co.uk'
+buyurl: 'https://www.amazon.co.uk/dp/B07W7TK9R3/?tag=tolees0a-21'
+descuento: '39.98'
+titulo: 'LEGO 10915 DUPLO My First Alphabet Truck'
 ---
 
 Ahora mismo tienes [LEGO 10915 DUPLO My First Alphabet Truck Toy for Toddlers 1.5 Year Old  Learning Letters Bricks  Preschool Education](https://www.amazon.co.uk/dp/B07W7TK9R3/?tag=tolees0a-21) a 15.0 GBP (original: 24.99 GBP) (39.98 %  de descuento) en el siguiente enlace!
 
 [![LEGO 10915 DUPLO My First Alphabet Truck](https://m.media-amazon.com/images/I/51nKTDVoU5L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W7TK9R3/?tag=tolees0a-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07W7TK9R3/?tag=tolees0a-21)
 

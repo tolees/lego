@@ -3,6 +3,7 @@ layout: post
 title: 'Lego 76140 Marvel Avengers  Iron Man al 27.21 % de descuento'
 date: 2020-11-16 14:01:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j6EeErJ6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51j6EeErJ6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j6EeErJ6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.74 EUR
 inStock: true
 prodname: 'Lego 76140 Marvel Avengers  Iron Man'
 country: 'de'
+buyurl: 'https://www.amazon.de/dp/B07WC19M5D/?tag=tolees0ca-21'
+descuento: '27.21'
+titulo: 'Lego 76140 Marvel Avengers  Iron Man'
 ---
 
 Está [Lego 76140 Marvel Avengers  Iron Man](https://www.amazon.de/dp/B07WC19M5D/?tag=tolees0ca-21) con 27.21 de descuento por 7.09 EUR (original: 9.74 EUR) en el siguiente enlace!
 
 [![Lego 76140 Marvel Avengers  Iron Man](https://m.media-amazon.com/images/I/51j6EeErJ6L._SL200_.jpg)](https://www.amazon.de/dp/B07WC19M5D/?tag=tolees0ca-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07WC19M5D/?tag=tolees0ca-21)
 

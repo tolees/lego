@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO THE LEGO MOVIE 2 Rex’s Rex-treme Of al 43.35 % de descuento'
 date: 2020-11-18 20:59:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wnwTftx5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wnwTftx5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wnwTftx5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 USD
 inStock: true
 prodname: 'LEGO THE LEGO MOVIE 2 Rex’s Rex-treme Offroader! 70826 Dinosaur Car Toy Set For Boys and Girls  Action Building Kit  236 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07GXLG1BZ/?tag=tolees-20'
+descuento: '43.35'
+titulo: 'LEGO THE LEGO MOVIE 2 Rex’s Rex-treme Of'
 ---
 
 Ahora mismo tienes [LEGO THE LEGO MOVIE 2 Rex’s Rex-treme Offroader! 70826 Dinosaur Car Toy Set For Boys and Girls  Action Building Kit  236 Pieces ](https://www.amazon.com/dp/B07GXLG1BZ/?tag=tolees-20) a 16.99 USD (original: 29.99 USD) (43.35 %  de descuento) en el siguiente enlace!
 
 [![LEGO THE LEGO MOVIE 2 Rex’s Rex-treme Of](https://m.media-amazon.com/images/I/51wnwTftx5L._SL200_.jpg)](https://www.amazon.com/dp/B07GXLG1BZ/?tag=tolees-20)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.com/dp/B07GXLG1BZ/?tag=tolees-20)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 60219 City Frontlader  Baumaschinen al 27.10 % de descuento'
 date: 2020-12-10 09:59:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QyW84WJsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QyW84WJsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QyW84WJsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.74 EUR
 inStock: true
 prodname: 'LEGO 60219 City Frontlader  Baumaschinen-Set mit Straßenarbeiter Minifigur'
 country: 'de'
+buyurl: 'https://www.amazon.de/dp/B07FNMXFQ9/?tag=tolees0ca-21'
+descuento: '27.10'
+titulo: 'LEGO 60219 City Frontlader  Baumaschinen'
 ---
 
 Está [LEGO 60219 City Frontlader  Baumaschinen-Set mit Straßenarbeiter Minifigur](https://www.amazon.de/dp/B07FNMXFQ9/?tag=tolees0ca-21) con 27.10 de descuento por 7.1 EUR (original: 9.74 EUR) en el siguiente enlace!
 
 [![LEGO 60219 City Frontlader  Baumaschinen](https://m.media-amazon.com/images/I/51QyW84WJsL._SL200_.jpg)](https://www.amazon.de/dp/B07FNMXFQ9/?tag=tolees0ca-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07FNMXFQ9/?tag=tolees0ca-21)
 

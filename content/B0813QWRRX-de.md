@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.19 % en LEGO 10924 DUPLO Cars Lightning McQueens'
 date: 2020-12-09 13:04:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VzLTc6fXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VzLTc6fXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VzLTc6fXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.23 EUR
 inStock: true
 prodname: 'LEGO 10924 DUPLO Cars Lightning McQueens großes Rennen  Disney Pixar Cars Spielzeug für Kleinkinder ab 2 Jahren'
 country: 'de'
+buyurl: 'https://www.amazon.de/dp/B0813QWRRX/?tag=tolees0ca-21'
+descuento: '28.19'
+titulo: 'LEGO 10924 DUPLO Cars Lightning McQueens'
 ---
 
 Tienes [LEGO 10924 DUPLO Cars Lightning McQueens großes Rennen  Disney Pixar Cars Spielzeug für Kleinkinder ab 2 Jahren](https://www.amazon.de/dp/B0813QWRRX/?tag=tolees0ca-21) con un 28.19 % de descuento con precio de oferta de 20.99 EUR (original: 29.23 EUR) en el siguiente enlace!
 
 [![LEGO 10924 DUPLO Cars Lightning McQueens](https://m.media-amazon.com/images/I/51VzLTc6fXL._SL200_.jpg)](https://www.amazon.de/dp/B0813QWRRX/?tag=tolees0ca-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B0813QWRRX/?tag=tolees0ca-21)
 

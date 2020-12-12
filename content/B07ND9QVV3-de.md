@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 41168 Disney Die Eiskönigin 2 Elsas al 25.37 % de descuento'
 date: 2020-11-12 13:50:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 38.98 EUR
 inStock: true
 prodname: 'LEGO 41168 Disney Die Eiskönigin 2 Elsas Schmuckkästchen Kreation mit Prinzessin Elsa Minipuppe und Nokk Figur  abschließbarer Schublade  Spiegel und Drehscheibenfunktion  Sammlerspielzeug für Kinder'
 country: 'de'
+buyurl: 'https://www.amazon.de/dp/B07ND9QVV3/?tag=tolees0ca-21'
+descuento: '25.37'
+titulo: 'LEGO 41168 Disney Die Eiskönigin 2 Elsas'
 ---
 
 Está [LEGO 41168 Disney Die Eiskönigin 2 Elsas Schmuckkästchen Kreation mit Prinzessin Elsa Minipuppe und Nokk Figur  abschließbarer Schublade  Spiegel und Drehscheibenfunktion  Sammlerspielzeug für Kinder](https://www.amazon.de/dp/B07ND9QVV3/?tag=tolees0ca-21) con 25.37 de descuento por 29.09 EUR (original: 38.98 EUR) en el siguiente enlace!
 
 [![LEGO 41168 Disney Die Eiskönigin 2 Elsas](https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg)](https://www.amazon.de/dp/B07ND9QVV3/?tag=tolees0ca-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07ND9QVV3/?tag=tolees0ca-21)
 

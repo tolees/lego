@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Hidden Side The Lighthouse of Darkn al 35.01 % de descuento'
 date: 2020-11-13 20:52:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+ka9NXSbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+ka9NXSbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+ka9NXSbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 USD
 inStock: true
 prodname: 'LEGO Hidden Side The Lighthouse of Darkness 70431 Ghost Toy  Unique Augmented Reality Experience for Kids  New 2020  540 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07Y8S7HVY/?tag=tolees-20'
+descuento: '35.01'
+titulo: 'LEGO Hidden Side The Lighthouse of Darkn'
 ---
 
 Está [LEGO Hidden Side The Lighthouse of Darkness 70431 Ghost Toy  Unique Augmented Reality Experience for Kids  New 2020  540 Pieces ](https://www.amazon.com/dp/B07Y8S7HVY/?tag=tolees-20) con 35.01 de descuento por 32.49 USD (original: 49.99 USD) en el siguiente enlace!
 
 [![LEGO Hidden Side The Lighthouse of Darkn](https://m.media-amazon.com/images/I/51+ka9NXSbL._SL200_.jpg)](https://www.amazon.com/dp/B07Y8S7HVY/?tag=tolees-20)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07Y8S7HVY/?tag=tolees-20)
 

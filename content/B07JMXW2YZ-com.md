@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.09 % en LEGO Disney Pixar’s Toy Story 4 Buzz Lig'
 date: 2020-12-09 09:44:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/61s8TkX0+RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61s8TkX0+RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61s8TkX0+RL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 USD
 inStock: true
 prodname: 'LEGO Disney Pixar’s Toy Story 4 Buzz Lightyear & Woody’s Carnival Mania 10770 Building Kit  Carnival Playset with Shooting Game & Toy Story Characters  230 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07JMXW2YZ/?tag=tolees-20'
+descuento: '30.09'
+titulo: 'LEGO Disney Pixar’s Toy Story 4 Buzz Lig'
 ---
 
 Tienes [LEGO Disney Pixar’s Toy Story 4 Buzz Lightyear & Woody’s Carnival Mania 10770 Building Kit  Carnival Playset with Shooting Game & Toy Story Characters  230 Pieces ](https://www.amazon.com/dp/B07JMXW2YZ/?tag=tolees-20) con un 30.09 % de descuento con precio de oferta de 34.95 USD (original: 49.99 USD) en el siguiente enlace!
 
 [![LEGO Disney Pixar’s Toy Story 4 Buzz Lig](https://m.media-amazon.com/images/I/61s8TkX0+RL._SL200_.jpg)](https://www.amazon.com/dp/B07JMXW2YZ/?tag=tolees-20)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07JMXW2YZ/?tag=tolees-20)
 

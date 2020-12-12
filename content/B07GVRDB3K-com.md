@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO City Great Vehicles Construction Lo al 40.04 % de descuento'
 date: 2020-11-23 17:35:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 USD
 inStock: true
 prodname: 'LEGO City Great Vehicles Construction Loader 60219 Building Kit  88 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07GVRDB3K/?tag=tolees-20'
+descuento: '40.04'
+titulo: 'LEGO City Great Vehicles Construction Lo'
 ---
 
 Está [LEGO City Great Vehicles Construction Loader 60219 Building Kit  88 Pieces ](https://www.amazon.com/dp/B07GVRDB3K/?tag=tolees-20) con 40.04 de descuento por 5.99 USD (original: 9.99 USD) en el siguiente enlace!
 
 [![LEGO City Great Vehicles Construction Lo](https://m.media-amazon.com/images/I/51oZWvraJSL._SL200_.jpg)](https://www.amazon.com/dp/B07GVRDB3K/?tag=tolees-20)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07GVRDB3K/?tag=tolees-20)
 

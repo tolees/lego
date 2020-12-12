@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.11 % en LEGO NINJAGO Cole’s Dirt Bike 70672 Buil'
 date: 2020-10-13 16:14:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TxIxZgidL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TxIxZgidL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TxIxZgidL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 USD
 inStock: true
 prodname: 'LEGO NINJAGO Cole’s Dirt Bike 70672 Building Kit  212 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07Q2WVG39/?tag=tolees-20'
+descuento: '25.11'
+titulo: 'LEGO NINJAGO Cole’s Dirt Bike 70672 Buil'
 ---
 
 Tienes [LEGO NINJAGO Cole’s Dirt Bike 70672 Building Kit  212 Pieces ](https://www.amazon.com/dp/B07Q2WVG39/?tag=tolees-20) con un 25.11 % de descuento con precio de oferta de 14.97 USD (original: 19.99 USD) en el siguiente enlace!
 
 [![LEGO NINJAGO Cole’s Dirt Bike 70672 Buil](https://m.media-amazon.com/images/I/51TxIxZgidL._SL200_.jpg)](https://www.amazon.com/dp/B07Q2WVG39/?tag=tolees-20)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07Q2WVG39/?tag=tolees-20)
 

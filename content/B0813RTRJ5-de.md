@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 10931 DUPLO Bagger und Laster Baufa al 30.02 % de descuento'
 date: 2020-12-07 09:45:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rJBpjC8mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rJBpjC8mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rJBpjC8mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.49 EUR
 inStock: true
 prodname: 'LEGO 10931 DUPLO Bagger und Laster Baufahrzeug Spielzeugset für Kleinkinder ab 2 Jahren'
 country: 'de'
+buyurl: 'https://www.amazon.de/dp/B0813RTRJ5/?tag=tolees0ca-21'
+descuento: '30.02'
+titulo: 'LEGO 10931 DUPLO Bagger und Laster Baufa'
 ---
 
 Ahora mismo tienes [LEGO 10931 DUPLO Bagger und Laster Baufahrzeug Spielzeugset für Kleinkinder ab 2 Jahren](https://www.amazon.de/dp/B0813RTRJ5/?tag=tolees0ca-21) a 13.64 EUR (original: 19.49 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
 [![LEGO 10931 DUPLO Bagger und Laster Baufa](https://m.media-amazon.com/images/I/51rJBpjC8mL._SL200_.jpg)](https://www.amazon.de/dp/B0813RTRJ5/?tag=tolees0ca-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.de/dp/B0813RTRJ5/?tag=tolees0ca-21)
 

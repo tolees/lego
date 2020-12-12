@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO City Street Sweeper 60249 Construct al 40.04 % de descuento'
 date: 2020-12-10 10:00:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GBIOaM3XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GBIOaM3XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GBIOaM3XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 USD
 inStock: true
 prodname: 'LEGO City Street Sweeper 60249 Construction Toy  Cool Building Toy for Kids  New 2020  89 Pieces '
 country: 'com'
+buyurl: 'https://www.amazon.com/dp/B07WHFCSQF/?tag=tolees-20'
+descuento: '40.04'
+titulo: 'LEGO City Street Sweeper 60249 Construct'
 ---
 
 Está [LEGO City Street Sweeper 60249 Construction Toy  Cool Building Toy for Kids  New 2020  89 Pieces ](https://www.amazon.com/dp/B07WHFCSQF/?tag=tolees-20) con 40.04 de descuento por 5.99 USD (original: 9.99 USD) en el siguiente enlace!
 
 [![LEGO City Street Sweeper 60249 Construct](https://m.media-amazon.com/images/I/51GBIOaM3XL._SL200_.jpg)](https://www.amazon.com/dp/B07WHFCSQF/?tag=tolees-20)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07WHFCSQF/?tag=tolees-20)
 
