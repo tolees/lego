@@ -25,9 +25,9 @@ Está [LEGO 41168 Disney Frozen II Elsa s Jewelry Box Creation with Princess Els
 ℹ️:
 
 - This beautiful trinket box makes an ideal birthday gift or Christmas gift for a fan of the Disney Frozen films
-- The jewelry box features a lockable drawer with a lock function to flick and keep favorite jewelry safe inside the drawer and a mirror
-- Includes an Elsa mini doll and Nokk, a mythical water spirit figure, plus a spinning function to see them spin around in front of the mirror
-- Kids can make their own Elsa Frozen II intricate jewelry box to keep precious bits and pieces safe and find 2 LEGO rings locked inside
 - The Disney characters can be removed and added to any existing LEGO Disney minifigure and mini doll figure collection
+- Includes an Elsa mini doll and Nokk, a mythical water spirit figure, plus a spinning function to see them spin around in front of the mirror
+- The jewelry box features a lockable drawer with a lock function to flick and keep favorite jewelry safe inside the drawer and a mirror
+- Kids can make their own Elsa Frozen II intricate jewelry box to keep precious bits and pieces safe and find 2 LEGO rings locked inside
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21)

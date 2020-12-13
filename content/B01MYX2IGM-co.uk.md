@@ -24,10 +24,10 @@ Tienes [Lego Batman Movie Joker Watch with Minifigure Link](https://www.amazon.c
 
 ℹ️:
 
-- Buildable children’s LEGO Batman, The Joker watch. Iconic LEGO The Joker minifigure built into bracelet.
-- Easy read watch face. Comfortable and durable. Analogue display. New and improved clasp.
 - Multi-colored, interchangeable watch links. 12 Additional watch links included. Expandable watchband to fit most wrist sizes.
-- For ages 6+. 2 Year warranty. Perfect gift for kids.
+- Buildable children’s LEGO Batman, The Joker watch. Iconic LEGO The Joker minifigure built into bracelet.
 - Japanese Seiko PC21J Quartz movement. Water resistant to 5ATM. Scratch resistant mineral acrylic lens.
+- For ages 6+. 2 Year warranty. Perfect gift for kids.
+- Easy read watch face. Comfortable and durable. Analogue display. New and improved clasp.
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B01MYX2IGM/?tag=tolees0a-21)
