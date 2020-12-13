@@ -24,7 +24,7 @@ Está [LEGO City Street Sweeper 60249 Construction Toy  Cool Building Toy for Ki
 
 ℹ️:
 
-- HD 1080P NIGHT VISION CAMERA
 - Please charging 4 hours by outlet before using.
+- HD 1080P NIGHT VISION CAMERA
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07WHFCSQF/?tag=tolees-20)
