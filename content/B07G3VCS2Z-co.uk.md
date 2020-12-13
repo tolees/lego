@@ -24,7 +24,7 @@ Tienes [LEGO Creator 10269 Harley Davidson Fatboy Expert Series](https://www.ama
 
 ℹ️:
 
-- Secret
 - Confidential.
+- Secret
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07G3VCS2Z/?tag=tolees0a-21)
