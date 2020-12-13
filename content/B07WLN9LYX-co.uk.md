@@ -24,10 +24,10 @@ Está [LEGO 41250 Trolls World Tour Techno Reef Dance Party Playset with Mermaid
 
 ℹ️:
 
-- Accessories include speakers, strobe lights, pretend headlights, diamonds, a hairbrush, coral and underwater flowers
-- Bring Trolls’ universe to inspire compelling, creative play experiences in a colorful celebration of positivity
 - Includes a Trolls mermaid figure for DJ party role-play with removable hair and hairpieces to be decorated with, plus an octopus pal
-- Easy to build! Even younger builders can enjoy the sense of achievement from building independently
+- Bring Trolls’ universe to inspire compelling, creative play experiences in a colorful celebration of positivity
 - Kids can put the mermaid on the heart-shaped reef to see her spin or slide with her octopus friend in a music-inspired underwater adventure
+- Accessories include speakers, strobe lights, pretend headlights, diamonds, a hairbrush, coral and underwater flowers
+- Easy to build! Even younger builders can enjoy the sense of achievement from building independently
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07WLN9LYX/?tag=tolees0a-21)

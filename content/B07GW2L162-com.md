@@ -1,28 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 30.11 % en LEGO City Sky Police Parachute Arrest 60'
-date: 2020-12-11 17:40:30
+title: 'Descuento del 30.13 % en LEGO City Sky Police Parachute Arrest 60'
+date: 2020-12-13 09:02:29
 image: 'https://m.media-amazon.com/images/I/51HOo+6UUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07GW2L162-com'
-actualPrice: 27.95 USD
+actualPrice: 27.94 USD
 currency: USD
-price: 27.95
+price: 27.94
 comparePrice: 39.99 USD
 prodname: 'LEGO City Sky Police Parachute Arrest 60208 Building Kit  218 Pieces '
 country: 'com'
 flag: '🇺🇸'
 buyurl: 'https://www.amazon.com/dp/B07GW2L162/?tag=tolees-20'
-descuento: '30.11'
+descuento: '30.13'
 ---
 
-Tienes [LEGO City Sky Police Parachute Arrest 60208 Building Kit  218 Pieces ](https://www.amazon.com/dp/B07GW2L162/?tag=tolees-20) con un 30.11 % de descuento con precio de oferta de 27.95 USD (original: 39.99 USD) en el siguiente enlace!
+Tienes [LEGO City Sky Police Parachute Arrest 60208 Building Kit  218 Pieces ](https://www.amazon.com/dp/B07GW2L162/?tag=tolees-20) con un 30.13 % de descuento con precio de oferta de 27.94 USD (original: 39.99 USD) en el siguiente enlace!
 
 [![LEGO City Sky Police Parachute Arrest 60](https://m.media-amazon.com/images/I/51HOo+6UUOL._SL200_.jpg)](https://www.amazon.com/dp/B07GW2L162/?tag=tolees-20)
 
 ℹ️:
 
+- Build a super-fast Sky Police toy jet plane with opening cockpit and extending hook to catch the crook’s parachute, plus a police motorbike and a crook’s getaway buggy for epic police adventures!
+- This LEGO City Sky Police Parachute Arrest 60208 cool toys for kids set can be built together with all other original LEGO building toy sets and LEGO bricks for creative building
+- Sky Police Jet measures over 2-inch (7cm) high, 8-inch (22cm) long and 7-inch (20cm) wide Police toy motorbike for kids measures over 1-inch (3cm) high and 2-inch (7cm) long Crook’s parachute toy measures over 11-inch (29cm) high and 7-inch (20cm) wide Crook’s getaway buggy toy car for kids measures over 1-inch (4cm) high, 3-inch (9cm) long and 1-inch (4cm) wide
+- Includes 4 LEGO City minifigures: 2 crook figures and 2 police officer figures
+- 218 pieces – LEGO City Police set for boys and girls aged 5+ and for fans of LEGO City toys and kids of all ages
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07GW2L162/?tag=tolees-20)
