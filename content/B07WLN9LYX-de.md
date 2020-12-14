@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41250 Trolls World Tour Party am Te al 47.04 % de descuento'
-date: 2020-12-09 21:50:52
+date: 2020-12-14 18:58:14
 image: 'https://m.media-amazon.com/images/I/51HUnsoghyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07WLN9LYX/?tag=tolees0ca-21'
 descuento: '47.04'
+average: '15.377575757575755'
 ---
 
 Está [LEGO 41250 Trolls World Tour Party am Techno Riff Tanzparty Spielset mit Meerjungfrauen und Tintenfisch-Figuren](https://www.amazon.de/dp/B07WLN9LYX/?tag=tolees0ca-21) con 47.04 de descuento por 12.9 EUR (original: 24.36 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Está [LEGO 41250 Trolls World Tour Party am Techno Riff Tanzparty Spielset mit 
 
 ℹ️:
 
+- In diesem coolen Set gibt es viel zu entdecken: Lautsprecher, Stroboskope, Scheinwerfer, Diamanten, eine Haarbürste, Korallen und Unterwasserblumen
+- Das Set enthält eine Trolls Meerjungfrau Spielfigur für das Rollenspiel einer DJ-Party, mit abnehmbaren Haaren und Haarzubehör zum Dekorieren, sowie einen Freund den Tintenfisch
+- Einfach zu bauen. Jetzt können auch jüngere Baumeister an ihren selbstständigen Bauerfolgen Spaß haben
+- Bringe das Universum der Trolls dazu, überzeugende, kreative Spielerlebnisse in einer bunten Feier der Positivität zu inspirieren.
+- Kinder können die Meerjungfrau auf das herzförmige Riff setzen, um sie herumwirbeln zu lassen oder mit ihrem Tintenfisch-Freund in einem musikalischen Unterwasser-Abenteuer zu rutschen
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07WLN9LYX/?tag=tolees0ca-21)
