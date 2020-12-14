@@ -24,10 +24,10 @@ Ahora mismo tienes [LEGO Hidden Side 70428 Jack s Beach Buggy Toy  AR Games App 
 
 🔎:
 
+- The experience has been extended with multiplayer option; compatible with 180+ OS and Android devices - check product description for details
+- The augmented reality (AR) play experience is constantly enhanced through new content, ghosts and special events for endless gaming fun
 - The beach buggy toy is equipped to combine creative LEGO play with a digital experience for single or multiplayer augmented reality (AR) gaming
 - The buggy transforms when viewed through a smart device equipped with the free LEGO AR app, kids get to solve mysteries and hunt ghosts
-- The augmented reality (AR) play experience is constantly enhanced through new content, ghosts and special events for endless gaming fun
-- The experience has been extended with multiplayer option; compatible with 180+ OS and Android devices - check product description for details
 - Includes Jack, Parker and possessed mechanic Scott Francis minifigures to battle boss ghost Trucker Dale in a haunted digital world
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07W6QC6X7/?tag=tolees0a-21)
