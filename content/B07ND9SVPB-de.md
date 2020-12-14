@@ -24,10 +24,10 @@ Está [LEGO 75254 Star Wars AT-ST-Räuber  Set mit abfeuerbaren Shootern und 4 M
 
 ℹ️:
 
-- Features posable jointed legs, a wheel-activated turning turret, opening canopy with space for a minifigure inside a detailed cockpit
 - This collectible brick version of the AT-ST Raider from the hit TV series has lots of inspiring features, including 2 firing shooters
-- Immerse your LEGO Star Wars fan in galactic adventures with this unique AT-ST Raider vehicle with lots of play-starting features
 - Includes 4 minifigures: The Mandalorian, Cara Dune and 2 Klatooinian Raider, plus 3 blaster rifles and a blaster
+- Features posable jointed legs, a wheel-activated turning turret, opening canopy with space for a minifigure inside a detailed cockpit
 - All specially decorated elements for a cannibalised look make it a great Christmas present, birthday or just a fun gift for any occasion
+- Immerse your LEGO Star Wars fan in galactic adventures with this unique AT-ST Raider vehicle with lots of play-starting features
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07ND9SVPB/?tag=tolees0ca-21)
