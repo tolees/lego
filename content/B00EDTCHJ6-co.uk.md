@@ -27,8 +27,8 @@ Tienes [LEGO 10886 DUPLO My First Car Creations Building Bricks Set with 4 Build
 - Taxi car for kids measures over 2 Inch (6 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide; garbage truck measures over 2 Inch (7 cm) high, 3 Inch (10 cm) long and 2 Inch (6 cm) wide
 - The LEGO DUPLO 10886 My First Car Creations toddler toy is easy to build and encourages learning through play, language development, fine motor skills development and cognitive development in children
 - Build four cute vehicles out of big building blocks: A toy taxi, garbage truck toy, fire truck toy and a toy helicopter
-- Fire truck for kids measures over 4 Inch (11 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide; Helicopter for kids measures over 3 Inch (9 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide;
-- Enjoy endless pretend play with the traffic light and character decorations, then mix up the bricks and create new toy trucks and toy cars for toddlers
 - 34 pieces – kids’ building toy for boys and girls aged 1.5+
+- Enjoy endless pretend play with the traffic light and character decorations, then mix up the bricks and create new toy trucks and toy cars for toddlers
+- Fire truck for kids measures over 4 Inch (11 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide; Helicopter for kids measures over 3 Inch (9 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide;
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21)
