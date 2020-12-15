@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.85 % en LEGO Star Wars: Die Droiden Saga  Vol. 1'
-date: 2020-12-14 12:30:25
+date: 2020-12-15 12:42:56
 image: 'https://m.media-amazon.com/images/I/51+D13e4snL._SL200_.jpg'
 comments: true
 category: ofertas
