@@ -25,10 +25,10 @@ Tienes [LEGO 60210 City Police Sky Police Air Base Station  Aeroplane with Parat
 
 ℹ️:
 
-- Build a sky police air base with control tower, jail cell, police plane, jetpack, parachute and a car for exciting police chase action
 - LEGO city police toys can be built together with all other LEGO building toy sets and LEGO bricks for creative building
-- Accessory elements include a coffee machine and mug, PC screen, two control tower screens, three pairs of handcuffs and more
 - Includes six LEGO minifigures : Two crook figures, two police officer figures and two Sky police officer figures
+- Build a sky police air base with control tower, jail cell, police plane, jetpack, parachute and a car for exciting police chase action
 - Features a three level police station control tower with storage, office, rotating satellite dish and a jail cell with bed and breakaway wall
+- Accessory elements include a coffee machine and mug, PC screen, two control tower screens, three pairs of handcuffs and more
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07FNMTS8X/?tag=tolees0a-21)
