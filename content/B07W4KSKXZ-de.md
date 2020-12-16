@@ -25,9 +25,9 @@ Ahora mismo tienes [LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigu
 
 🔎:
 
-- Kinder können mit dem Van fahren, Eistüten und Lollis aus dem Servierfenster servieren und dem Skateboardfahrer dabei helfen, coole Tricks auszuführen
-- Enthält 2 Minifiguren und eine Hundefigur sowie eine Reihe großartiger Accessoires: Eistüten, Eis am Stiel, Schutzhelm und einen grünen Geldschein
 - Verfügt über ein farbenfrohes Eiswagen-Spielzeugauto mit lustigen Aufklebern, abnehmbarem Fahrerhausdach und weit öffnenden Seitentüren für einfachen Zugang
+- Enthält 2 Minifiguren und eine Hundefigur sowie eine Reihe großartiger Accessoires: Eistüten, Eis am Stiel, Schutzhelm und einen grünen Geldschein
+- Kinder können mit dem Van fahren, Eistüten und Lollis aus dem Servierfenster servieren und dem Skateboardfahrer dabei helfen, coole Tricks auszuführen
 - Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
 - Lassen Sie Ihre Kinder verschiedene Rollenspielszenarios mit dem leicht zugänglichen Innenraum durch das abnehmbare Dach des Eiswagens genießen
 
