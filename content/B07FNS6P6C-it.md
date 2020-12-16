@@ -27,8 +27,8 @@ Está [LEGO City Great Vehicles Gatto delle Nevi  Giocattolo con Pala Spazza
 
 - Include 2 minifigure LEGO City: uno sciatore e il conducente del gatto delle nevi
 - Sali sulla cabina del gatto delle nevi e percorri le piste innevate
+- Gli accessori includono un paio di sci, 2 bastoncini da sci e 12 bottoncini di neve
 - Contiene un dettagliato gatto delle nevi con cabina per minifigure, tetto apribile, robusti cingoli e una grande pala anteriore, più un cannone da neve a fuoco rapido e a 6 colpi, girevole
 - Ruota il cannone da neve, quindi aziona la manopola per sparare i bottoncini di neve
-- Gli accessori includono un paio di sci, 2 bastoncini da sci e 12 bottoncini di neve
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07FNS6P6C/?tag=tolees00-21)
