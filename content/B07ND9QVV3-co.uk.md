@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41168 Disney Frozen II Elsa s Jewel al 33.98 % de descuento'
-date: 2020-12-14 22:39:31
+date: 2020-12-16 05:01:06
 image: 'https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21'
 descuento: '33.98'
-average: '29.199285714285715'
+average: '29.012666666666668'
 ---
 
 Está [LEGO 41168 Disney Frozen II Elsa s Jewelry Box Creation with Princess Elsa Mini Doll and Nokk Figure Lockable Drawer  Mirror and Spinner Turntable  Collectible Toys for Kids](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21) con 33.98 de descuento por 26.4 GBP (original: 39.99 GBP) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [LEGO 41168 Disney Frozen II Elsa s Jewelry Box Creation with Princess Els
 
 ℹ️:
 
-- Includes an Elsa mini doll and Nokk, a mythical water spirit figure, plus a spinning function to see them spin around in front of the mirror
-- The jewelry box features a lockable drawer with a lock function to flick and keep favorite jewelry safe inside the drawer and a mirror
-- This beautiful trinket box makes an ideal birthday gift or Christmas gift for a fan of the Disney Frozen films
-- The Disney characters can be removed and added to any existing LEGO Disney minifigure and mini doll figure collection
 - Kids can make their own Elsa Frozen II intricate jewelry box to keep precious bits and pieces safe and find 2 LEGO rings locked inside
+- Includes an Elsa mini doll and Nokk, a mythical water spirit figure, plus a spinning function to see them spin around in front of the mirror
+- The Disney characters can be removed and added to any existing LEGO Disney minifigure and mini doll figure collection
+- This beautiful trinket box makes an ideal birthday gift or Christmas gift for a fan of the Disney Frozen films
+- The jewelry box features a lockable drawer with a lock function to flick and keep favorite jewelry safe inside the drawer and a mirror
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21)
