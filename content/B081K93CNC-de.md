@@ -25,7 +25,7 @@ Tienes [Lego Wear Kinder-Unisex LWJIPE Jacke  590 Dark Navy  140](https://www.am
 
 ℹ️:
 
-- Lego Wear winter jacket is breathable, windproof and water-repellent thanks to 3,000 mm hydrostatic head and Bionic-Finisheco coating. Item LWJIPE 705
 - Removable hood with safety button placket, suitable for tumble drying, with 3M Scotchlite reflectors for better visibility
+- Lego Wear winter jacket is breathable, windproof and water-repellent thanks to 3,000 mm hydrostatic head and Bionic-Finisheco coating. Item LWJIPE 705
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B081K93CNC/?tag=tolees0ca-21)

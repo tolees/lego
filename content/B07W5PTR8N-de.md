@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO 70430 - Newbury U-Bahn-Station  Hidden Side  Bauset](ht
 
 🔎:
 
-- The experience has been extended with multiplayer option; compatible with 180+ OS and Android devices - check product description for details
-- The subway model comes to life when viewed through a smart device equipped with the LEGO AR app, kids get to explore and solve mysteries
 - The augmented reality (AR) play experience is constantly enhanced through new content, ghosts and special events for endless gaming fun
 - Includes 3 minifigures: Jack, Parker and Pete Peterson, a skateboard, bike and plasma bricks, for players to battle boss ghost Rat Shaun!
+- The experience has been extended with multiplayer option; compatible with 180+ OS and Android devices - check product description for details
 - Features a digitally interactive subway model, transforming into a Hidden Side portal, for single or multiplayer digital worlds
+- The subway model comes to life when viewed through a smart device equipped with the LEGO AR app, kids get to explore and solve mysteries
 
 [Visítala!!!](https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21)
