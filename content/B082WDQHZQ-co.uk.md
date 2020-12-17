@@ -26,9 +26,9 @@ Está [LEGO 71360 Super Mario Adventures Starter Course Toy Interactive Figure &
 ℹ️:
 
 - LEGO Mario figure has colour sensors, plus LCD screens in his eyes, mouth and belly to display over 100 different instant reactions to movement
-- Download free LEGO Super Mario app with inspirations for fun ways to play and more. Visit LEGO.com/devicecheck for a list of compatible devices
-- The LEGO Mario figure is powered by 2 x AAA batteries (not included), delivering a highly interactive in-game experience
-- Also included is a speaker that plays iconic sounds and music from the video game
 - The figure collects virtual coins as he runs and jumps from the Start Pipe to the Goal Pole, touching 7 action bricks for different interactions
+- The LEGO Mario figure is powered by 2 x AAA batteries (not included), delivering a highly interactive in-game experience
+- Download free LEGO Super Mario app with inspirations for fun ways to play and more. Visit LEGO.com/devicecheck for a list of compatible devices
+- Also included is a speaker that plays iconic sounds and music from the video game
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B082WDQHZQ/?tag=tolees0a-21)
