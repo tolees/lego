@@ -25,10 +25,10 @@ Tienes [LEGO 41392 Friends Camping in Heartlake City  Abenteuer Spielset mit Oli
 
 ℹ️:
 
-- Dieses Camping-Spielzeug enthält ein LEGO Zelt mit weichem Plastikdach, ein Lagerfeuer, ein Teleskop und sogar einen Whirlpool unter einem Baum
-- Nach dem Herunterladen der LEGO Life App haben die Kinder Zugriff auf die digitale Anleitung Instructions PLUS, um eine Ansicht ihres Spielzeug-Zeltlagers im Geistmodus heranzoomen, drehen und anzeigen zu können
-- Das Spielset beinhaltet Betten, Hocker, einen Schrank mit Haarbürste und Lippenstiftständer, eine Laterne, eine Taschenlampe, ein Fernglas, sogar Kirschen in Getränken
 - Enthält zwei Mini-Spielfiguren Mia und Olivia und ein Spielzeug-Eichhörnchen, das im Baumhaus lebt. Auch ein Fahrrad mit Helm und einem Lautsprecher zum Chillen sind da
 - Das Spielzeuglager mit den Mini-Spielzeugfiguren ist mit einer Lichterkette geschmückt, damit das niedliche Zelt mit einem Smartphone fotografiert werden kann, um Bilder an Freunde schicken zu können
+- Dieses Camping-Spielzeug enthält ein LEGO Zelt mit weichem Plastikdach, ein Lagerfeuer, ein Teleskop und sogar einen Whirlpool unter einem Baum
+- Das Spielset beinhaltet Betten, Hocker, einen Schrank mit Haarbürste und Lippenstiftständer, eine Laterne, eine Taschenlampe, ein Fernglas, sogar Kirschen in Getränken
+- Nach dem Herunterladen der LEGO Life App haben die Kinder Zugriff auf die digitale Anleitung Instructions PLUS, um eine Ansicht ihres Spielzeug-Zeltlagers im Geistmodus heranzoomen, drehen und anzeigen zu können
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B07WC14JJ6/?tag=tolees0ca-21)
