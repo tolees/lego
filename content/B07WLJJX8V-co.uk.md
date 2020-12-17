@@ -26,9 +26,9 @@ Tienes [LEGO 75270 Star Wars Obi-Wan’s Hut Building Set with Princess Leia Hol
 ℹ️:
 
 - Includes three minifigures: Obi-Wan Kenobi and Luke Skywalker with Lightsabers, a Tusken Raider with a Gaffi Stick, plus an R2-D2 droid figure
-- Features Obi-Wan Kenobi’s Tatooine desert house with opening dome for easy play and many details to recreate favourite movie scenes
-- Kids can join Luke Skywalker to train to become a Jedi Master, practise their Lightsaber skills with the training remote or play with R2-D2
-- Instructions PLUS guide available in the free LEGO Life app for smartphones and tablets has zoom and rotate viewing tools to assist building
 - The hut folds out for easy access to many play-starting items, like a training remote and a new-for-January 2020 Princess Leia hologram
+- Kids can join Luke Skywalker to train to become a Jedi Master, practise their Lightsaber skills with the training remote or play with R2-D2
+- Features Obi-Wan Kenobi’s Tatooine desert house with opening dome for easy play and many details to recreate favourite movie scenes
+- Instructions PLUS guide available in the free LEGO Life app for smartphones and tablets has zoom and rotate viewing tools to assist building
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B07WLJJX8V/?tag=tolees0a-21)

@@ -25,10 +25,10 @@ Está [LEGO 71366 Super Mario Set de Expansión: Avalancha de Bill Balazos  
 
 ℹ️:
 
-- Contiene 2 Bill Balazos “voladores”, un superchampiñón y una figura de un Shy Guy
-- Descubre cuántas veces puede girar LEGO Mario (figura no incluida) en la plataforma
 - Permite añadir otro nivel al juguete de construcción Pack Inicial: Aventuras con Mario
-- Un trepidante set de expansión para divertirse al estilo LEGO Super Mario girando a toda velocidad
 - No requiere pilas: combínalo con el pack inicial para potenciar la diversión
+- Descubre cuántas veces puede girar LEGO Mario (figura no incluida) en la plataforma
+- Contiene 2 Bill Balazos “voladores”, un superchampiñón y una figura de un Shy Guy
+- Un trepidante set de expansión para divertirse al estilo LEGO Super Mario girando a toda velocidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21)
