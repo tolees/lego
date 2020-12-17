@@ -25,8 +25,8 @@ Está [LEGO 41906 DOTS Ananas Stiftehalter Bastelset für Deko-Accessoires](http
 
 ℹ️:
 
-- Die bunten Steinchen machen Lust darauf, kreativ zu werden und sich an dem fantasievollen neuen Designerlebnis zu erfreuen. Kinder können die Steinchen auch mit den Teilen aus anderen DOTs Artikeln wie dem Armband Ergänzungsset Smiley (41908)
 - Kreatives Bauerlebnis und Designobjekt als Aufbewahrungslösung Beim Verzieren der witzigen Boxen können sich Kinder frei entfalten und ihr Designtalent zum Ausdruck bringen
+- Die bunten Steinchen machen Lust darauf, kreativ zu werden und sich an dem fantasievollen neuen Designerlebnis zu erfreuen. Kinder können die Steinchen auch mit den Teilen aus anderen DOTs Artikeln wie dem Armband Ergänzungsset Smiley (41908)
 - Das LEGO DOTs Set (41906) enthält 2 Schreibtisch Deko-Accessoires – einen großen Stiftehalter und eine kleine Box in der Form eines Wassermelonenstücks –, um die Kreativität der Kinder zu wecken. Der Spielspaß beginnt schon mit dem Zusammenbauen
 - Kleine Designfans werden dieses tolle Set lieben. Die raffinierten und nützlichen Boxen und die verzierten bunten Steinchen begeistern Jungen und Mädchen ab 6 Jahren. Das Set ist ein tolles Geschenk zum Geburtstag, zu Weihnachten.
 - Dekorativ und nützlich: Der Ananas Stiftehalter ist 15 cm hoch und 6 cm breit. Das kreative Bastelset besitzt also genau die richtige Größe, um junge Designer immer wieder neue Entwürfe ausprobieren zu lassen
