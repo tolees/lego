@@ -25,10 +25,10 @@ Está [LEGO 31097 Creator 3-in-1 Set Stadthaus mit Zoohandlung & Café  Bauset m
 
 ℹ️:
 
-- Enthält 3 Minifiguren, die für Spaß in der Stadt bereit sind.
-- Das Stadthaus mit Zoohandlung und Café verfügt über eine Fassade mit Ornamenten, einem Café-Schild sowie einen Außenbereich mit Blumen, Geldautomat, Fußweg, Ampel und Hydrant.
 - Im Erdgeschoss des zweistöckigen Gebäudes befindet sich ein Café mit detailreichem Innen- und Außenbereich. Das Obergeschoss weist die dazugehörige Küche mit Ofen und einen Balkon auf.
-- Dank des modularen Systems von LEGO Creator können Module mit ganzen Geschossen einfach ausgetauscht werden, um das Gebäude nach deinem Geschmack zu gestalten.
 - Dieses LEGO Creator 3-in-1-Spielset bietet 3 verschiedene Baumöglichkeiten: Baue das Stadthaus mit Zoohandlung und Café, ein Bankgebäude oder eine Einkaufsstraße mit Straßenbahn
+- Das Stadthaus mit Zoohandlung und Café verfügt über eine Fassade mit Ornamenten, einem Café-Schild sowie einen Außenbereich mit Blumen, Geldautomat, Fußweg, Ampel und Hydrant.
+- Enthält 3 Minifiguren, die für Spaß in der Stadt bereit sind.
+- Dank des modularen Systems von LEGO Creator können Module mit ganzen Geschossen einfach ausgetauscht werden, um das Gebäude nach deinem Geschmack zu gestalten.
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07KTV5ZG7/?tag=tolees0ca-21)
