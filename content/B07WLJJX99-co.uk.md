@@ -25,10 +25,10 @@ Está [LEGO 76143 Super Heroes Marvel Avengers Truck Take-down Playset 
 
 ℹ️:
 
-- Features a motor-trike with a big front wheel, a drone and the impressive, weaponised and armoured Avengers truck with its hidden weapon
 - Youngsters can assemble the easy-to-build set, or use the simple instructions to get started, the truck looks great on display in kids’ rooms
+- Features a motor-trike with a big front wheel, a drone and the impressive, weaponised and armoured Avengers truck with its hidden weapon
+- Includes four minifigures: Captain America with his shield, Hawkeye with his bow and two AIM Agents, with a gun, flame thrower and jetpack
 - It’s an ambush! When the Marvel Avengers truck is trapped by 2 AIM Agents, kids must help Captain America and Hawkeye fight their way out
 - Kids press the lever to reveal the secret weapon and the huge 6-shot crossbow swings into place, studs shoot out as kids turn the crossbow
-- Includes four minifigures: Captain America with his shield, Hawkeye with his bow and two AIM Agents, with a gun, flame thrower and jetpack
 
 [Ver la oferta!!](https://www.amazon.co.uk/dp/B07WLJJX99/?tag=tolees0a-21)
