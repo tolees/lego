@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.32 % en LEGO 76159 DC Batman Joker s Trike Chase'
-date: 2020-12-17 13:51:05
+date: 2020-12-18 13:58:22
 image: 'https://m.media-amazon.com/images/I/51d4LJIsbOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21'
 descuento: '33.32'
-average: '29.9775'
+average: '29.98'
 ---
 
 Tienes [LEGO 76159 DC Batman Joker s Trike Chase with Batmobile  Harley Quinn & Robin Minifigures](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21) con un 33.32 % de descuento con precio de oferta de 30.0 GBP (original: 44.99 GBP) en el siguiente enlace!
@@ -25,10 +25,10 @@ Tienes [LEGO 76159 DC Batman Joker s Trike Chase with Batmobile  Harley Quinn & 
 
 ℹ️:
 
-- Features 3 Super-Hero vehicles: a monster 3-wheel trike toy, a mini shooting Batmobile toy car, and Robins motorcycle from the Batman movies
 - The Batmobile features a removable engine that also turbocharges the THE JOKER’s trike with its opening and closing mouth on the front
+- Features 3 Super-Hero vehicles: a monster 3-wheel trike toy, a mini shooting Batmobile toy car, and Robins motorcycle from the Batman movies
 - Whether youngsters are fans of DC Comics, RC cars or Batmobile toys, this LEGO Batman playset is an awesome gift for kids aged 7 and up
-- Batmobile has opening cockpit and hood, plus 2 stud shooters at the front, but Jokers 3-wheeler shoots forwards & backwards as well
 - Includes 4 LEGO minifigures: Batman with spreadable cape- wings, Robin with fabric cape, THE JOKER and Harley Quinn with her hammer
+- Batmobile has opening cockpit and hood, plus 2 stud shooters at the front, but Jokers 3-wheeler shoots forwards & backwards as well
 
 [Accede a la oferta!!](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21)
