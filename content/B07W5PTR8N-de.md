@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70430 - Newbury U-Bahn-Station  Hid al 34.64 % de descuento'
-date: 2020-12-17 20:18:10
+date: 2020-12-18 21:23:42
 image: 'https://m.media-amazon.com/images/I/51MxKMjgEFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21'
 descuento: '34.64'
-average: '19.642727272727274'
+average: '19.64122807017544'
 ---
 
 Ahora mismo tienes [LEGO 70430 - Newbury U-Bahn-Station  Hidden Side  Bauset](https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21) a 19.6 EUR (original: 29.99 EUR) (34.64 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO 70430 - Newbury U-Bahn-Station  Hidden Side  Bauset](ht
 
 🔎:
 
-- The subway model comes to life when viewed through a smart device equipped with the LEGO AR app, kids get to explore and solve mysteries
-- Features a digitally interactive subway model, transforming into a Hidden Side portal, for single or multiplayer digital worlds
-- The experience has been extended with multiplayer option; compatible with 180+ OS and Android devices - check product description for details
-- The augmented reality (AR) play experience is constantly enhanced through new content, ghosts and special events for endless gaming fun
-- Includes 3 minifigures: Jack, Parker and Pete Peterson, a skateboard, bike and plasma bricks, for players to battle boss ghost Rat Shaun!
+- Dieses LEGO Hidden Side Spielset ist eine tolle Geschenkidee für Kinder, die gerne mit LEGO Steinen bauen und VR-Erlebnisse und Videospiele lieben
+- Das LEGO Modell erwacht zum Leben, wenn es durch ein Smartphone oder Tablet mit der kostenlosen LEGO Hidden Side AR-App betrachtet wird. Kinder können dann Geheimnisse lüften, Geister jagen und sich mit dem Geisterboss Rat Shaun messen
+- Dieses LEGO AR-Spielset enthält Jack, Parker und Pete Peterson als Minifiguren, sowie eine U-Bahn-Station als interaktives Modell, das sich von Hand in ein Hidden Side Portal verwandeln lässt
+- Kinder ab 8 Jahren können sich mit dem LEGO Hidden Side Spielset Newbury U-Bahn-Station an einem Augemented Reality-Erlebnis im Einzel- oder Mehrspielermodus erfreuen, das die echte und die digitale Spielwelt raffiniert verschmelzen lässt
+- Das fertige Set ist 15 cm hoch, 26 cm breit und 14 cm tief. Das Erlebnis wurde um die Multiplayer-Option erweitert. Kompatibel mit über 180 iOS- und Android-Geräten – Einzelheiten finden Sie in der Produktbeschreibung
 
 [Visítala!!!](https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21)
