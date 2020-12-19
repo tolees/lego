@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42100 Technic Liebherr Bagger R 980 al 29.33 % de descuento'
-date: 2020-12-18 01:59:10
+date: 2020-12-19 07:57:28
 image: 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21'
 descuento: '29.33'
-average: '316.4828352490422'
+average: '316.433536121673'
 ---
 
 Ahora mismo tienes [LEGO 42100 Technic Liebherr Bagger R 9800  App-gesteuertes Konstruktionsspielzeug für Fortgeschrittene mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21) a 310.0 EUR (original: 438.65 EUR) (29.33 %  de descuento) en el siguiente enlace!
