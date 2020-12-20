@@ -26,9 +26,9 @@ Está [LEGO Marvel Avengers Iron Man Hall of Armor 76125 Building Kit Marvel Ton
 ℹ️:
 
 - Recreate exciting action scenes from the Marvel Avengers movies with this buildable superhero toy
-- 524 pieces- Iron Man toy set for boys and girls aged 7+ and for fans and kids; This LEGO Marvel Avengers Iron Man Hall of Armor 76125 building set for kids can be built together with all other original LEGO creative toys and LEGO bricks for creative play
-- This fun Marvel building toy includes 5 minifigures: Iron Man MK 1, Iron Man MK 5, Iron Man MK 41 and Iron Man MK 50 (plus Tony Stark face and hair elements to attach to your chosen Iron Man suit) and 2 Outrider action figures
 - Build Tony Starks Iron Man Hall of Armor with a rotating podium, detachable modules that can be combined and stacked in many different ways, plus a posable Igor Suit mech with minifigure cockpit and mobile robot toy
 - Iron Man Hall of Fame lab measures over 5 inches (13cm) high, 13 inches (35cm) wide and 6 inches (17cm) deep with modules in standard formation; Igor Suit Mech measures over 3 inches (9cm) high, 1 inches (5cm) long and 3 inches (9cm) wide
+- 524 pieces- Iron Man toy set for boys and girls aged 7+ and for fans and kids; This LEGO Marvel Avengers Iron Man Hall of Armor 76125 building set for kids can be built together with all other original LEGO creative toys and LEGO bricks for creative play
+- This fun Marvel building toy includes 5 minifigures: Iron Man MK 1, Iron Man MK 5, Iron Man MK 41 and Iron Man MK 50 (plus Tony Stark face and hair elements to attach to your chosen Iron Man suit) and 2 Outrider action figures
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07JMHJZYN/?tag=tolees-20)
