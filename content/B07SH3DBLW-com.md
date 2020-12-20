@@ -25,7 +25,7 @@ Está [LEGO Star Wars: The Skywalker Saga - Nintendo Switch](https://www.amazon.
 
 ℹ️:
 
-- Play through all nine films in a new, fun filled adventure
 - The galaxy is yours with LEGO Star Wars: The Skywalker Saga, Play all nine saga films and experience fun filled adventure in a galaxy far, far away
+- Play through all nine films in a new, fun filled adventure
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20)
