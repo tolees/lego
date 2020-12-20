@@ -26,8 +26,8 @@ Está [LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Skywalke
 ℹ️:
 
 - Kinder können in das Cockpit des Starfighters springen und in die Schlacht fliegen, dann die Höchstgeschwindigkeit erreichen und die Geschütze abfeuern
-- Den TIE Fighter kennzeichnen ein sich öffnendes Minifiguren-Cockpit und zwei gefederte Flugkörper. Es gibt auch einen Andockturm zum Starten, Landen und Ausstellen
 - Wenn die Missionen der Ersten Ordnung mit diesem superschnellen Sith-TIE-Kämpfer beendet sind, können Kinder es auf dem Turm ausstellen, um ihr Zimmer zu dekorieren
+- Den TIE Fighter kennzeichnen ein sich öffnendes Minifiguren-Cockpit und zwei gefederte Flugkörper. Es gibt auch einen Andockturm zum Starten, Landen und Ausstellen
 - Dieses Set lässt sich hervorragend mit Poe Damerons X-Wing Fighter (75273) für epische Kämpfe zwischen der Ersten Ordnung und dem Widerstand kombinieren
 - Enthält drei Minifiguren: Einen TIE-Pilot der Ersten Ordnung, einen Ritter von Ren und Finn als Minifiguren mit coolen Waffen: Pistolen und ein Schwert
 
