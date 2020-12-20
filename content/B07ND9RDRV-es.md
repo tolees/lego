@@ -25,8 +25,8 @@ Está [LEGO Disney Princess - Aldea del Castillo de Arendelle  Set de construcci
 
 ℹ️:
 
-- Los muebles se han diseñado para que los puedas mover de una estancia a otra y combinarlos fácilmente
 - Al ser modular, las 3 plantas se pueden quitar y volver a montar: así, tu peque y sus amigas pueden jugar en el interior de distintas partes del castillo a la vez
+- Los muebles se han diseñado para que los puedas mover de una estancia a otra y combinarlos fácilmente
 - Incluye minipersonajes de Elsa, Anna y Kristoff, así como 3 figuras LEGO de animales: un gato y 2 pájaros
 - Accesorios incluidos: un retrato con caballete, un cofre del tesoro, una corona, un telescopio, un busto con pedestal, una pajarera, una farola, una caja de regalo, entre otros
 - Contiene un castillo de 3 plantas, con salón del trono, dormitorio y desván, un puesto de pan y un puesto de pescado con un pequeño embarcadero y un bote con sus remos
