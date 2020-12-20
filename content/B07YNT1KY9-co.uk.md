@@ -26,9 +26,9 @@ Ahora mismo tienes [LEGO 40353 Brickheadz Reindeer  Elf and Elfie Toy  Christmas
 🔎:
 
 - May Santa little helpers Reindeer, Elf and Elfie bring you all everything you wished for - a gift of love, peace, and happiness
-- Features buildable LEGO Brickheadz Reindeer, Elf and Elfie characters on LEGO baseplates - a wonderful Christmas collectible toys
 - Reindeer’s baseplate comes with a buildable North Pole scene, featuring a signpost with directions to LEGOLAND in Billund, Denmark
 - The signpost also points out to the US town of Brick, and Santa’s mailbox comes with 2 letter elements - is it the gift-wishes list?
 - Makes a fun seasonal gift for LEGO fans of all ages, to be proudly displayed during the festive season
+- Features buildable LEGO Brickheadz Reindeer, Elf and Elfie characters on LEGO baseplates - a wonderful Christmas collectible toys
 
 [Visítala!!!](https://www.amazon.co.uk/dp/B07YNT1KY9/?tag=tolees0a-21)
