@@ -25,10 +25,10 @@ Tienes [LEGO Harry Potter Advent Calendar 75981  Collectible Toys from The Hogwa
 
 ℹ️:
 
-- Includes Harry Potter, Hermione Granger, Ron Weasley, Padma Patil, Parvati Patil and Cho Chang minifigures, plus buildable models such as a miniature Beauxbatons carriage and dining table with ice-castle centerpiece
-- The 24 Harry Potter gifts found within this special holiday calendar can be built together with all other original LEGO sets and LEGO bricks for endless creative building
 - This magical, festive calendar is a perfect pre-Christmas gift for kids aged 7 and up – with 24 days of surprises and imaginative Harry Potter fun that lasts all year long
-- Give LEGO Harry Potter fans a magical build-up to Christmas with the toy-a-day LEGO Harry Potter Advent Calendar (75981); Behind each of the 24 doors is a different Harry Potter toy to build, play with and display
 - As the big day gets closer, kids can recreate Hogwarts holiday scenes – including the amazing Yule Ball
+- Includes Harry Potter, Hermione Granger, Ron Weasley, Padma Patil, Parvati Patil and Cho Chang minifigures, plus buildable models such as a miniature Beauxbatons carriage and dining table with ice-castle centerpiece
+- Give LEGO Harry Potter fans a magical build-up to Christmas with the toy-a-day LEGO Harry Potter Advent Calendar (75981); Behind each of the 24 doors is a different Harry Potter toy to build, play with and display
+- The 24 Harry Potter gifts found within this special holiday calendar can be built together with all other original LEGO sets and LEGO bricks for endless creative building
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B085B26VXX/?tag=tolees-20)
