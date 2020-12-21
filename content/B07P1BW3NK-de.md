@@ -25,10 +25,10 @@ There's a deal [LEGO 21317 Ideas Disney Steamboat Willie Vintage Sammlermodell](
 
 ℹ️:
 
-- Das Modell verfügt über Dampfrohre, die sich nach oben und unten bewegen, Paddelräder, die sich beim Schieben des Bootes drehen, sowie einen verstellbaren Kran.
-- Dieses kreative Spielzeug von LEGO Ideas kommt mit Anweisungen und lustigen Fakten über den historischen Disney-Zeichentrickfilm „Steamboat Willie“ aus dem Jahr 1928 (evtl. nicht in deutscher Sprache).
+- Dieses Set enthält zwei Minifiguren: Micky Maus und Minnie Maus mit silberfarbenen Verzierungen, plus Papageienfigur
 - Stellen Sie Szenen aus dem schwarz-weißen Disney Micky Maus Zeichentrickfilm Steamboat Willie mit diesem nostalgischen LEDO Ideen Set von Disney nach.
 - Die Bootsbrücke bietet Platz für eine Minifigur, eine Glocke, ein Steuerrad und einen Rettungsring, sowie eine Minnie Maus Gitarre und ein Notenblatt
-- Dieses Set enthält zwei Minifiguren: Micky Maus und Minnie Maus mit silberfarbenen Verzierungen, plus Papageienfigur
+- Dieses kreative Spielzeug von LEGO Ideas kommt mit Anweisungen und lustigen Fakten über den historischen Disney-Zeichentrickfilm „Steamboat Willie“ aus dem Jahr 1928 (evtl. nicht in deutscher Sprache).
+- Das Modell verfügt über Dampfrohre, die sich nach oben und unten bewegen, Paddelräder, die sich beim Schieben des Bootes drehen, sowie einen verstellbaren Kran.
 
 [Buy it now!!](https://www.amazon.de/dp/B07P1BW3NK/?tag=tolees0ca-21)
