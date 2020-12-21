@@ -19,16 +19,16 @@ descuento: '30.01'
 average: '69.11513944223105'
 ---
 
-Está [LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21) con 30.01 de descuento por 68.22 EUR (original: 97.47 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21) a 68.22 EUR (original: 97.47 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![LEGO 21046 Architecture Empire State Bui](https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg)](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)
 
-ℹ️:
+🔎:
 
 - Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
-- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
+- Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
 - 1760 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
-- Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
+- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)
+[Visítala!!!](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)
