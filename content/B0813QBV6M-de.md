@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.40 % en LEGO 21054 Architecture Das Weiße Haus  '
-date: 2020-12-20 02:04:39
+date: 2020-12-21 02:58:01
 image: 'https://m.media-amazon.com/images/I/51grYf7UH7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21'
 descuento: '27.40'
-average: '73.58093220338979'
+average: '73.55722689075627'
 ---
 
 Tienes [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigkeiten für Erwachsene  Geschenkidee zum Sammeln](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21) con un 27.40 % de descuento con precio de oferta de 70.76 EUR (original: 97.47 EUR) en el siguiente enlace!
