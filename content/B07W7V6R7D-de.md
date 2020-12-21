@@ -25,10 +25,10 @@ You've got [LEGO 42109 Technic Top-Gear Rallyeauto mit App-Steuerung und Smart H
 
 ℹ️:
 
-- Die volle Funktionalität erfordert 6 x AA 1,5V Batterien im Smart Hub. Dieses Set ist nicht kompatibel mit LEGO Power Functions Systemen
-- Bedienung über ein Smart Device mit drei Bildschirmen: Funktions- und Kreiselsteuerung plus Ausstattung.Gehen Sie zu LEGO.com/devicecheck für kompatible Geräte
 - Mit diesem fortgeschrittenen Baumodell können Fahrer vorwärts und rückwärts lenken, beschleunigen, bremsen, Geräuscheffekte abspielen und Echtzeit-Feedback erhalten
-- Dieses Spielzeug-Rallyeautomodell wird über die LEGO Technic CONTROL+ App gesteuert und von einem fortschrittlichen Smart Hub mit ein XL Motor und ein L Motor angetrieben
 - Mit multifunktionaler Kreiselsteuerung, fantastischem Farbschema mit Aufklebern und tollen Details, ideal für Kinder, die Rennspielzeug lieben
+- Bedienung über ein Smart Device mit drei Bildschirmen: Funktions- und Kreiselsteuerung plus Ausstattung.Gehen Sie zu LEGO.com/devicecheck für kompatible Geräte
+- Dieses Spielzeug-Rallyeautomodell wird über die LEGO Technic CONTROL+ App gesteuert und von einem fortschrittlichen Smart Hub mit ein XL Motor und ein L Motor angetrieben
+- Die volle Funktionalität erfordert 6 x AA 1,5V Batterien im Smart Hub. Dieses Set ist nicht kompatibel mit LEGO Power Functions Systemen
 
 [Check the deal!!](https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21)

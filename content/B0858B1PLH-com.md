@@ -26,9 +26,9 @@ With a final price of 47.99 USD (original: 59.99 USD) you can find [LEGO Marvel 
 ℹ️:
 
 - The Iron Man Helmet measures over 7.5” (19cm) high, 4” (10cm) wide and 4.5” (12cm) deep; It doesnt need much space for display, but its striking, authentic details are sure to catch the eye of every Marvel fan
-- Test your creative construction superpowers with the LEGO Marvel Avengers Iron Man Helmet; If you’re an adult Marvel fan or model-building enthusiast, this buildable display model is for you
-- Whether you’re a Marvel fan, a LEGO lover or both, this 480-piece construction kit will provide you with a challenging build and absorbing escapism; It makes a great birthday gift, holiday present or personal treat
-- The iconic design of Iron Man’s Helmet is cleverly reproduced with LEGO bricks and graphics stickers to evoke memories of classic Marvel Avengers movie scenes; The buildable model stands on a sturdy base with nameplate
 - Capture the iconic contours and impressive detail of Iron Mans helmet with LEGO bricks, red and gold elements and stickers for eyes; Looks great displayed alongside other LEGO Marvel models
+- The iconic design of Iron Man’s Helmet is cleverly reproduced with LEGO bricks and graphics stickers to evoke memories of classic Marvel Avengers movie scenes; The buildable model stands on a sturdy base with nameplate
+- Whether you’re a Marvel fan, a LEGO lover or both, this 480-piece construction kit will provide you with a challenging build and absorbing escapism; It makes a great birthday gift, holiday present or personal treat
+- Test your creative construction superpowers with the LEGO Marvel Avengers Iron Man Helmet; If you’re an adult Marvel fan or model-building enthusiast, this buildable display model is for you
 
 [Buy it!!](https://www.amazon.com/dp/B0858B1PLH/?tag=tolees-20)
