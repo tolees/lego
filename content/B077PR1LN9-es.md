@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Thomas  Cárdigan para Niñas  Rosa   al 37.52 % de rebaja'
+title: 'Discount of 37.52 % for LEGO Thomas  Cárdigan para Niñas  Rosa  '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ldPkB3Z5L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.52'
 average: '24.96'
 ---
 
-Tienes [LEGO Thomas  Cárdigan para Niñas  Rosa  Dark Pink 490  6 años  Tamaño del Fabricante:116 ](https://www.amazon.es/dp/B077PR1LN9/?tag=tolees-21) con precio final de  24.96 EUR (original: 39.95 EUR) (37.52 %  de rebaja) aqui!
+You've got [LEGO Thomas  Cárdigan para Niñas  Rosa  Dark Pink 490  6 años  Tamaño del Fabricante:116 ](https://www.amazon.es/dp/B077PR1LN9/?tag=tolees-21) with a  37.52 % discount, with final price of 24.96 EUR (original: 39.95 EUR) at the following link:
 
 [![LEGO Thomas  Cárdigan para Niñas  Rosa  ](https://images-eu.ssl-images-amazon.com/images/I/51ldPkB3Z5L._SL200_.jpg)](https://www.amazon.es/dp/B077PR1LN9/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.es/dp/B077PR1LN9/?tag=tolees-21)
+[Check the deal!!](https://www.amazon.es/dp/B077PR1LN9/?tag=tolees-21)

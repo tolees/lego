@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Juniors - Spider-Man vs. Escorpión: con un 25.77 % de descuento'
+title: 'Discount of 25.77 % for LEGO Juniors - Spider-Man vs. Escorpión:'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61zHzofpRvL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.77'
 average: '18.55'
 ---
 
-En este momento está [LEGO Juniors - Spider-Man vs. Escorpión: Batalla callejera  10754 ](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21) a 18.55 EUR (original: 24.99 EUR) (25.77 %  de descuento) en el siguiente enlace!
+You've got [LEGO Juniors - Spider-Man vs. Escorpión: Batalla callejera  10754 ](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21) with a  25.77 % discount, with final price of 18.55 EUR (original: 24.99 EUR) at the following link:
 
 [![LEGO Juniors - Spider-Man vs. Escorpión:](https://images-eu.ssl-images-amazon.com/images/I/61zHzofpRvL._SL200_.jpg)](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21)
+[Check the deal!!](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21)
