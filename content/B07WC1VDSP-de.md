@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahr
 
 🔎:
 
-- Dieses technisch fortgeschrittene Spielzeugmodell ist eine Herausforderung für junge Fans von Baumaschinen, aber mit Anleitung dennoch einfach zu bauen
 - Die Kabine des Kranführers ist drehbar und der Hydraulikmechanismus hebt den Arm um 70° an, während Kranblöcke und Seile die schwere Ladung mühelos anheben
+- Das klassische schwarz-gelbe Design sieht genauso aus wie das Original, während Fans erforschen, was all die verschiedenen fantastischen Funktionen leisten können
 - Um zu sehen, wie ein echter Kran funktioniert: Fahre den Ausleger aus und hebe ihn an, hebe dann die Betonsäule an und versuche schließlich, ihn präzise abzustellen
 - Das Kran-LKW-Spielzeug verfügt über eine 8-Rad-Lenkung, vier einzeln steuerbare Stützfüße, zwei Kabinen und einen superhohen Teleskopausleger von 78 cm Länge
-- Das klassische schwarz-gelbe Design sieht genauso aus wie das Original, während Fans erforschen, was all die verschiedenen fantastischen Funktionen leisten können
+- Dieses technisch fortgeschrittene Spielzeugmodell ist eine Herausforderung für junge Fans von Baumaschinen, aber mit Anleitung dennoch einfach zu bauen
 
 [Visítala!!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)
