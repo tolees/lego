@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.01 % en LEGO Super Mario Whomp’s Lava Trouble Ex'
-date: 2020-12-20 20:14:54
+title: 'Discount of 20.01 % for LEGO Super Mario Whomp’s Lava Trouble Ex'
+date: 2020-12-21 20:33:44
 image: 'https://m.media-amazon.com/images/I/51pQfcyanAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ descuento: '20.01'
 average: '15.99'
 ---
 
-Tienes [LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364 Building Kit; Toy for Kids to Enhance Their Super Mario Adventures with Mario Starter Course  71360   New 2020  133 Pieces ](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20) con un 20.01 % de descuento con precio de oferta de 15.99 USD (original: 19.99 USD) en el siguiente enlace!
+You've got [LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364 Building Kit; Toy for Kids to Enhance Their Super Mario Adventures with Mario Starter Course  71360   New 2020  133 Pieces ](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20) with a  20.01 % discount, with final price of 15.99 USD (original: 19.99 USD) at the following link:
 
 [![LEGO Super Mario Whomp’s Lava Trouble Ex](https://m.media-amazon.com/images/I/51pQfcyanAL._SL200_.jpg)](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20)
 
@@ -27,4 +27,4 @@ Tienes [LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364 Building Kit
 
 - Heat up the competitive LEGO Super Mario action with Whomp’s Lava Trouble Expansion Set (71364). This modular LEGO Super Mario playset features a sliding platform, Whomp figure guarding a P Switch (found only in this set!) and a brick-built, shell-shaped system to topple the Lava Bubble figure. Its the ideal gift toy for kids who own the LEGO Mario figure found in the Adventures with Mario Starter Course (71360). The free LEGO Super Mario app has intuitive Instructions PLUS, featuring cool
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20)
+[Check the deal!!](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20)
