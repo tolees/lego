@@ -25,10 +25,10 @@ Tienes [LEGO 10875 DUPLO Güterzug  „Push & Go“-Lok mit Lichtern und Geräus
 
 ℹ️:
 
-- Enthält einen Güterzugführer, einen Kapitän und einen Ladenbesitzer als LEGO DUPLO Figuren sowie eine Seemöwe als zusätzliche Tierfigur
-- Das Set enthält eine „Push & Go“-Lok mit Lichtern und Geräuschen, 2 Güterwaggons mit Kippfunktion, 5 farbcodierte Funktionssteine, einen Hafenbereich mit kleinem Kran und Boot, einen großen Kran, ein Café, einen Ver- und Entladebahnhof sowie 24 Eisenbahnelemente, unter anderem Weichen, Steigungen, eine Kreuzung und Prellböcke
-- Kleinkinder können den Güterzug durch sanftes Anschieben vorwärts oder rückwärts fahren lassen Um den Zug zu stoppen, muss nur eine Hand fest auf die Lok aufgelegt werden
 - Das Zubehör umfasst unter anderem eine Zapfsäule, eine Kaffeemaschine, eine Tasse, einen Schokoriegel, eine Milchflasche, ein Fischernetz, Brot, Bananen, ein Paket, eine Kasse, einen Schraubenschlüssel, einen Fisch und eine Speisekarte
 - Zeige deinem Kind, wie sich die 5 farbigen Funktionssteine auf den Schienen platzieren und verschieben lassen, um den Zug so zu steuern, dass er ein Signal ertönen lässt, die Lichter einschaltet, betankt wird, die Fahrtrichtung wechselt oder anhält
+- Kleinkinder können den Güterzug durch sanftes Anschieben vorwärts oder rückwärts fahren lassen Um den Zug zu stoppen, muss nur eine Hand fest auf die Lok aufgelegt werden
+- Das Set enthält eine „Push & Go“-Lok mit Lichtern und Geräuschen, 2 Güterwaggons mit Kippfunktion, 5 farbcodierte Funktionssteine, einen Hafenbereich mit kleinem Kran und Boot, einen großen Kran, ein Café, einen Ver- und Entladebahnhof sowie 24 Eisenbahnelemente, unter anderem Weichen, Steigungen, eine Kreuzung und Prellböcke
+- Enthält einen Güterzugführer, einen Kapitän und einen Ladenbesitzer als LEGO DUPLO Figuren sowie eine Seemöwe als zusätzliche Tierfigur
 
 [Accede a la oferta!!](https://www.amazon.de/dp/B0765CFDRH/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO The LEGO Movie 2 Queen Watevra’s Build Whatever Box! 
 
 🔎:
 
-- This THE LEGO MOVIE 2 pretend play toy includes instructions to build each model, plus inspirational ideas to build the queen into even more shapes
 - This discovery toy is perfect for kids ages 6,7, 8+ and lets them recreate and reimagine adventures from THE LEGO MOVIE 2 with this fun-packed creative children’s toy
-- 455 pieces – THE LEGO MOVIE 2 set for boys and girls aged 6+ and for fans and kids; THE LEGO MOVIE 2 Queen Watevra’s Build Whatever Box! 70825 construction toy can be built together with all other original LEGO sets and LEGO bricks for creative building
-- THE LEGO MOVIE 2 building play set includes figure Queen Watevra Wa’Nabi in pile form which measures over 4-inch (11cm) high, 2-inch (7cm) wide and under 1-inch (1cm) deep
 - Let your kids creativity run wild as they build and rebuild THE LEGO MOVIE 2 character Queen Watevra Wa’Nabi into 15 different forms—including an octopus, hammer, bat, devil, gorilla, toaster and rocket
+- This THE LEGO MOVIE 2 pretend play toy includes instructions to build each model, plus inspirational ideas to build the queen into even more shapes
+- THE LEGO MOVIE 2 building play set includes figure Queen Watevra Wa’Nabi in pile form which measures over 4-inch (11cm) high, 2-inch (7cm) wide and under 1-inch (1cm) deep
+- 455 pieces – THE LEGO MOVIE 2 set for boys and girls aged 6+ and for fans and kids; THE LEGO MOVIE 2 Queen Watevra’s Build Whatever Box! 70825 construction toy can be built together with all other original LEGO sets and LEGO bricks for creative building
 
 [Visítala!!!](https://www.amazon.com/dp/B07GXLSK77/?tag=tolees-20)
