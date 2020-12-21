@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.01 % en LEGO Super Mario Desert Pokey Expansion '
-date: 2020-12-20 14:44:56
+title: 'Discount of 20.01 % for LEGO Super Mario Desert Pokey Expansion '
+date: 2020-12-21 16:02:37
 image: 'https://m.media-amazon.com/images/I/5146OQcc3fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,16 +19,12 @@ descuento: '20.01'
 average: '15.99'
 ---
 
-Tienes [LEGO Super Mario Desert Pokey Expansion Set 71363 Building Kit; Toy for Creative Kids to Combine with The Super Mario Adventures with Mario Starter Course  71360  Playset  New 2020  180 Pieces ](https://www.amazon.com/dp/B085899CWH/?tag=tolees-20) con un 20.01 % de descuento con precio de oferta de 15.99 USD (original: 19.99 USD) en el siguiente enlace!
+You've got [LEGO Super Mario Desert Pokey Expansion Set 71363 Building Kit; Toy for Creative Kids to Combine with The Super Mario Adventures with Mario Starter Course  71360  Playset  New 2020  180 Pieces ](https://www.amazon.com/dp/B085899CWH/?tag=tolees-20) with a  20.01 % discount, with final price of 15.99 USD (original: 19.99 USD) at the following link:
 
 [![LEGO Super Mario Desert Pokey Expansion ](https://m.media-amazon.com/images/I/5146OQcc3fL._SL200_.jpg)](https://www.amazon.com/dp/B085899CWH/?tag=tolees-20)
 
 ℹ️:
 
-- This set features a hammer turntable that LEGO Mario (figure not included) uses to knock down a buildable Pokey cactus-like figure, section by section, plus a Monty Mole figure to defeat to earn more rewards
-- Kids can add an exciting, hammer-swinging challenge to their LEGO Super Mario Adventures with Mario Starter Course and compete against friends with this fun-packed Desert Pokey Expansion Set (71363)
-- Music plays when LEGO Mario (figure not included) is placed on the hammer turntable and each of the 3 action bricks in this kids’ building set cause LEGO Mario to react in different ways when he jumps on them
-- This 180-piece, creative LEGO toy playset makes a fun birthday or holiday gift for kids aged 6+ who own the Adventures with Mario Starter Course, inspiring them to build and customize their own unique levels
-- Measuring over 4.5” (12cm) high, 8.5” (21cm) wide and 5” (12cm) deep in its basic formation, this module can be rebuilt and combined with the Starter Course and other LEGO Super Mario Expansion Sets in many ways
+- Fans can add an extra, fun challenge to their LEGO Super Mario Starter Course with this hammer-swinging Desert Pokey Expansion Set (71363). A great gift for kids, it features a buildable desert scene, hammer turntable for LEGO Mario to knock down his cactus-like enemy Pokey section by section, plus a Monty Mole figure to defeat and collect virtual coins. (Note: LEGO Mario figure is not included; find it in the Adventures with Mario Starter Course 71360.) A free LEGO Super Mario app is available
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B085899CWH/?tag=tolees-20)
+[Check the deal!!](https://www.amazon.com/dp/B085899CWH/?tag=tolees-20)

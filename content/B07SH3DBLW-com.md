@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Star Wars: The Skywalker Saga - Nin al 16.75 % de descuento'
-date: 2020-12-20 14:23:38
+title: 'LEGO Star Wars: The Skywalker Saga - Nin at 16.75 % discount'
+date: 2020-12-21 15:17:53
 image: 'https://m.media-amazon.com/images/I/51qSzmHz3lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,13 +19,13 @@ descuento: '16.75'
 average: '49.94'
 ---
 
-Está [LEGO Star Wars: The Skywalker Saga - Nintendo Switch](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20) con 16.75 de descuento por 49.94 USD (original: 59.99 USD) en el siguiente enlace!
+With a final price of 49.94 USD (original: 59.99 USD) you can find [LEGO Star Wars: The Skywalker Saga - Nintendo Switch](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20) with a  16.75 % discount here:
 
 [![LEGO Star Wars: The Skywalker Saga - Nin](https://m.media-amazon.com/images/I/51qSzmHz3lL._SL200_.jpg)](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20)
 
 ℹ️:
 
-- The galaxy is yours with LEGO Star Wars: The Skywalker Saga, Play all nine saga films and experience fun filled adventure in a galaxy far, far away
 - Play through all nine films in a new, fun filled adventure
+- The galaxy is yours with LEGO Star Wars: The Skywalker Saga, Play all nine saga films and experience fun filled adventure in a galaxy far, far away
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20)
+[Buy it!!](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20)

@@ -25,10 +25,10 @@ With a final price of 50.0 EUR (original: 59.9 EUR) you can find [LEGO Ideas 213
 
 ℹ️:
 
-- La compilación de Margaret Hamilton presenta una pila de elementos de libro
-- La construcción de Sally Ride y Mae Jemison presenta un launchpad y el Space Shuttle Challenger
-- Incluye cuatro minifiguras: Nancy Grace Roman, Margaret Hamilton, Sally Ride y Mae Jemison
-- La construcción de Nancy Grace Roman presenta un telescopio espacial Hubble con detalles auténticos
 - Tres construcciones de Lego que ilustran las áreas de experiencia de las 4 mujeres destacadas de la NASA
+- Incluye cuatro minifiguras: Nancy Grace Roman, Margaret Hamilton, Sally Ride y Mae Jemison
+- La construcción de Sally Ride y Mae Jemison presenta un launchpad y el Space Shuttle Challenger
+- La compilación de Margaret Hamilton presenta una pila de elementos de libro
+- La construcción de Nancy Grace Roman presenta un telescopio espacial Hubble con detalles auténticos
 
 [Buy it!!](https://www.amazon.es/dp/B071W77MBJ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Star Wars: The Rise of Skywalker D- al 20.00 % de descuento'
-date: 2020-12-20 14:06:41
+title: '20.00 % deal for LEGO Star Wars: The Rise of Skywalker D-'
+date: 2020-12-21 16:24:06
 image: 'https://m.media-amazon.com/images/I/51-07-DNY5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,16 +19,12 @@ descuento: '20.00'
 average: '54.63142857142857'
 ---
 
-Ahora mismo tienes [LEGO Star Wars: The Rise of Skywalker D-O 75278 Building Kit; Collectible Star Wars Character and a Cool Birthday Gift  Holiday Present or Fun Surprise for Any Star Wars Fan  New 2020  519 Pieces ](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20) a 55.99 USD (original: 69.99 USD) (20.00 %  de descuento) en el siguiente enlace!
+There's a deal [LEGO Star Wars: The Rise of Skywalker D-O 75278 Building Kit; Collectible Star Wars Character and a Cool Birthday Gift  Holiday Present or Fun Surprise for Any Star Wars Fan  New 2020  519 Pieces ](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)  with  20.00 % discount, final price tag of  55.99 USD (original: 69.99 USD) here:
 
 [![LEGO Star Wars: The Rise of Skywalker D-](https://m.media-amazon.com/images/I/51-07-DNY5L._SL200_.jpg)](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)
 
-🔎:
+ℹ️:
 
-- This cool, 519-piece LEGO Star Wars droid building toy is great fun for creative Star Wars fans aged 10+, and makes the best birthday gift, holiday present or special occasion surprise
-- The buildable D-O droid measures 10.5” (27cm) high, 4” (10cm) wide and 6” (16cm) deep; It doesnt take up too much space but will make a big impression displayed at home or in the office
-- The model has posable antennas and its head tilts and rotates 360 degrees just like the Star Wars character; It comes with a built-in display stand, plus an information sign and D-O minifigure to delight collectors
-- Fans can build their own collectible model of the lovable D-O droid from the Star Wars: The Rise of Skywalker movie, reproducing authentic details in LEGO style to create a fantastic build-and-display piece
-- This D-O droid build-and-display model is new for May 2020 and makes a delightful addition to any Star Wars fan or LEGO builder’s collection
+- Spark memories of exciting Star Wars: The Rise of Skywalker movie scenes with this cool LEGO Star Wars D-O (75278) droid building toy. Authentic details of this lovable Star Wars character are superbly recreated with LEGO bricks and fans will be delighted by D-Os 360-degree-rotating and tilting head, and posable antennas. This LEGO set includes a built-in stand for the construction model, plus an information sign with a cute D-O minifigure to make an eye-catching display at home or in a
 
-[Visítala!!!](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)
+[Buy it now!!](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)

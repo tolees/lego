@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.00 % en LEGO Architecture Skyline Collection 210'
-date: 2020-12-20 14:42:39
+title: 'Discount of 20.00 % for LEGO Architecture Skyline Collection 210'
+date: 2020-12-21 15:32:57
 image: 'https://m.media-amazon.com/images/I/51d6pgYSihL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ descuento: '20.00'
 average: '45.444166666666675'
 ---
 
-Tienes [LEGO Architecture Skyline Collection 21043 San Francisco Building Kit includes Alcatraz model  Golden Gate Bridge and other San Francisco architectural landmarks  565 Pieces ](https://www.amazon.com/dp/B07GX7R73M/?tag=tolees-20) con un 20.00 % de descuento con precio de oferta de 39.99 USD (original: 49.99 USD) en el siguiente enlace!
+You've got [LEGO Architecture Skyline Collection 21043 San Francisco Building Kit includes Alcatraz model  Golden Gate Bridge and other San Francisco architectural landmarks  565 Pieces ](https://www.amazon.com/dp/B07GX7R73M/?tag=tolees-20) with a  20.00 % discount, with final price of 39.99 USD (original: 49.99 USD) at the following link:
 
 [![LEGO Architecture Skyline Collection 210](https://m.media-amazon.com/images/I/51d6pgYSihL._SL200_.jpg)](https://www.amazon.com/dp/B07GX7R73M/?tag=tolees-20)
 
@@ -27,4 +27,4 @@ Tienes [LEGO Architecture Skyline Collection 21043 San Francisco Building Kit in
 
 - made in china
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07GX7R73M/?tag=tolees-20)
+[Check the deal!!](https://www.amazon.com/dp/B07GX7R73M/?tag=tolees-20)
