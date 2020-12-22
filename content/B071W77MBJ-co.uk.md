@@ -25,10 +25,10 @@ With a final price of 39.7 GBP (original: 46.9 GBP) you can find [Lego Ideas 213
 
 ℹ️:
 
-- The Margaret Hamilton model contains a stack of book elements that represent the books with the source code of the Apollo Guidance Computer (AGC) flight software.
+- Includes 4 minifigures: Nancy Grace Roman, Margaret Hamilton, Sally Ride and Mae Jemison.
 - The Nancy Grace Roman model includes a movable Hubble space telescope with real details and the calculated representation of a planetary nebula.
 - Includes 3 LEGO models that show the areas of the 4 NASA women.
+- The Margaret Hamilton model contains a stack of book elements that represent the books with the source code of the Apollo Guidance Computer (AGC) flight software.
 - The Sally Ride and Mae Jemison model includes the launch ramp and the Challenger space shuttle with 3 removable rocket steps.
-- Includes 4 minifigures: Nancy Grace Roman, Margaret Hamilton, Sally Ride and Mae Jemison.
 
 [Buy it!!](https://www.amazon.co.uk/dp/B071W77MBJ/?tag=tolees0a-21)
