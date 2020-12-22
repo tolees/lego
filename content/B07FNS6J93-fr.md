@@ -25,10 +25,10 @@ With a final price of 6.55 EUR (original: 9.99 EUR) you can find [LEGO® Movie L
 
 ℹ️:
 
+- Issu de lunivers du film The LEGO Movie 2
+- Construisez le set Les meilleurs amis d’Unikitty ! issu de la suite du film danimation culte LA GRANDE AVENTURE LEGO 2
 - Les ensembles LEGO MOVIE 2 sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - La figurine d’Unikitty mesure plus de 5 cm de hauteur Cornet de glace mesure plus de 5cm de hauteur Barre au chocolat mesure plus de 5 cm de hauteur La table roulante mesure plus de 5 cm de haut, 3 cm de long et 3 cm de large
-- Construisez le set Les meilleurs amis d’Unikitty ! issu de la suite du film danimation culte LA GRANDE AVENTURE LEGO 2
-- Issu de lunivers du film The LEGO Movie 2
 - 76 pièces pour les filles et les garçons de 5 ans et plus
 - Cet ensemble Unikitty LEGO comprend 3 personnages de LA GRANDE AVENTURE LEGO 2 : Unikitty avec 2 visages interchangeables, Cornet de glace et Barre au chocolat, plus une table roulante
 
