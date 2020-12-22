@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 16.65 % en LEGO 75257 Star Wars Millennium Falcon R'
-date: 2020-12-21 03:00:41
+title: 'Discount of 16.65 % for LEGO 75257 Star Wars Millennium Falcon R'
+date: 2020-12-22 03:17:25
 image: 'https://m.media-amazon.com/images/I/51zyvQhbHVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,19 +16,19 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21'
 descuento: '16.65'
-average: '129.80251879699256'
+average: '129.80391791044784'
 ---
 
-Tienes [LEGO 75257 Star Wars Millennium Falcon Raumschiff Bauset mit Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 und D-O  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21) con un 16.65 % de descuento con precio de oferta de 129.99 EUR (original: 155.96 EUR) en el siguiente enlace!
+You've got [LEGO 75257 Star Wars Millennium Falcon Raumschiff Bauset mit Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 und D-O  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21) with a  16.65 % discount, with final price of 129.99 EUR (original: 155.96 EUR) at the following link:
 
 [![LEGO 75257 Star Wars Millennium Falcon R](https://m.media-amazon.com/images/I/51zyvQhbHVL._SL200_.jpg)](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses coole, detailverliebte LEGO Bauspielzeug für Jungen und Mädchen ab 9 Jahren ist mit seinen 1.351 Teilen 14 cm hoch, 44 cm lang und 32 cm breit
-- Der Millennium Falcon beeindruckt Fans jeden Alters, unter anderem mit drehbaren Geschütztürmen an der Ober- und Unterseite, 2 Shootern mit Federmechanismus und einem aufklappbaren Cockpit
 - Der Millennium Falcon ist eine wahre Ikone aus dem Universum von LEGO Star Wars und die ideale Inspirationsquelle für Fans
+- Der Millennium Falcon beeindruckt Fans jeden Alters, unter anderem mit drehbaren Geschütztürmen an der Ober- und Unterseite, 2 Shootern mit Federmechanismus und einem aufklappbaren Cockpit
 - 7 Charaktere von LEGO Star Wars warten darauf, epische Abenteuer zu erleben: Minifiguren von Finn, Chewbacca, Lando Calrissian, C-3PO und Boolio sowie LEGO Figuren der Fanlieblinge D-O und R2-D2
 - Dieses Modell des corellianischen Frachters aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers ist zudem mit abnehmbaren Dachelementen ausgestattet, die den Zugang zum Inneren erleichtern
+- Dieses coole, detailverliebte LEGO Bauspielzeug für Jungen und Mädchen ab 9 Jahren ist mit seinen 1.351 Teilen 14 cm hoch, 44 cm lang und 32 cm breit
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21)
