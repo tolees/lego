@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.00 % en LEGO Friends - Casa de Mia  casa de muñe'
-date: 2020-12-20 15:12:33
+title: 'Discount of 30.00 % for LEGO Friends - Casa de Mia  casa de muñe'
+date: 2020-12-22 06:47:20
 image: 'https://m.media-amazon.com/images/I/510iVwDtyQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21'
 descuento: '30.00'
-average: '60.99527777777777'
+average: '60.54763157894737'
 ---
 
-Tienes [LEGO Friends - Casa de Mia  casa de muñecas divertida para construcción  incluye mascotas  41369 ](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 52.49 EUR (original: 74.99 EUR) en el siguiente enlace!
+You've got [LEGO Friends - Casa de Mia  casa de muñecas divertida para construcción  incluye mascotas  41369 ](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21) with a  30.00 % discount, with final price of 52.49 EUR (original: 74.99 EUR) at the following link:
 
 [![LEGO Friends - Casa de Mia  casa de muñe](https://m.media-amazon.com/images/I/510iVwDtyQL._SL200_.jpg)](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21)
 
@@ -27,13 +27,13 @@ Tienes [LEGO Friends - Casa de Mia  casa de muñecas divertida para construcció
 
 - Ayuda a Mia a practicar su afición por la fotografía de la flora y fauna con la cámara.
 - Cuida de la yegua Metzie y da de comer al conejo en el área de acicalado exterior.
-- Trepa por el rocódromo hasta la habitación de Mia cuando llegue la hora de irse a dormir.
-- Quita el suelo de la habitación de Mia para acceder fácilmente a toda la cocina y ayuda a mamá y papá a preparar el almuerzo.
-- Incluye 3 minipersonajes: LEGO Friends Mia, su mamá, Ann, y su papá, Angus; incluye también 2 figuras de animales: un conejo y un caballo.
-- Interpreta la vida en familia con mamá y papá en esta casa rural de juguete.
-- La cocina cuenta con un horno, una placa con quemadores y una zona de comedor.
 - La habitación de Mia cuenta con una litera, una lámpara, un escritorio y una silla.
+- Quita el suelo de la habitación de Mia para acceder fácilmente a toda la cocina y ayuda a mamá y papá a preparar el almuerzo.
 - Accesorios incluidos: batidora, espátula, recipiente, barra de pan, sartén, huevo frito, plato, cubiertos, 3 tazas, 3 cápsulas para magdalenas y una bandeja de hornear, montura, brida, casco, patines, colmena, teléfono móvil y cámara.
 - Cuenta con una casa estilo cabaña rural de 2 plantas que incluye la habitación de Mia, la sala de estar, el baño con lavabo e inodoro, y una cocina. También tiene un rocódromo con una entrada oculta a la habitación de Mia y un pozo en el exterior con un cubo.
+- Interpreta la vida en familia con mamá y papá en esta casa rural de juguete.
+- La cocina cuenta con un horno, una placa con quemadores y una zona de comedor.
+- Trepa por el rocódromo hasta la habitación de Mia cuando llegue la hora de irse a dormir.
+- Incluye 3 minipersonajes: LEGO Friends Mia, su mamá, Ann, y su papá, Angus; incluye también 2 figuras de animales: un conejo y un caballo.
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21)
+[Check the deal!!](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21)
