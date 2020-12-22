@@ -25,10 +25,10 @@ You've got [LEGO 75947 Harry Potter Hagrid’s Hut: Buckbeak’s Rescue 
 
 ℹ️:
 
-- The buildable Buckbeak the hippogriff figure has moveable wings and head, restrained by a removable chain and is 1 Inch (5 cm) high
+- Includes six LEGO minifigures: Hagrid and (for-June-2019) Harry Potter, Ron Weasley, Hermione Granger, Executioner and the minister of magic
 - On two-section buildable woodland build Hagrids two-room hut, then save the Hippogriff from the executioner and the minister of magic
 - Hagrid´s Hut’s main and desk rooms includes a host of accessories, furniture and a switch-operated light brick for the fireplace
 - Also includes pumpkins, lantern, axe, three wands, egg in a bowl, Hagrid’s pink umbrella, a spider, meat cleaver, lasso, broom, a bucket and many more
-- Includes six LEGO minifigures: Hagrid and (for-June-2019) Harry Potter, Ron Weasley, Hermione Granger, Executioner and the minister of magic
+- The buildable Buckbeak the hippogriff figure has moveable wings and head, restrained by a removable chain and is 1 Inch (5 cm) high
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=tolees0a-21)

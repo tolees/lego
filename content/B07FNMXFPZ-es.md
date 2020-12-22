@@ -25,10 +25,10 @@ With a final price of 21.15 EUR (original: 29.99 EUR) you can find [LEGO City Fi
 
 ℹ️:
 
-- Build a fire truck toy with rotating back end, 2 storage compartments and new directional pump with ‘water jet’ function
-- Accessory elements include a fire axe, 2 helmets, oxygen tank, trash can, motorbike helmet, small fire extinguisher and 5 buildable fire elements
 - Includes 3 LEGO City minifigures : 2 firefighters and a grill chef
-- Features a fire truck toy with a minifigure cab, rotating back end, new directional pump with ‘water jet’ function and 2 storage compartments, plus a toy motorbike
+- Accessory elements include a fire axe, 2 helmets, oxygen tank, trash can, motorbike helmet, small fire extinguisher and 5 buildable fire elements
+- Build a fire truck toy with rotating back end, 2 storage compartments and new directional pump with ‘water jet’ function
 - LEGO City Fire sets set can be built together with all other original LEGO building toy sets and LEGO bricks for creative building
+- Features a fire truck toy with a minifigure cab, rotating back end, new directional pump with ‘water jet’ function and 2 storage compartments, plus a toy motorbike
 
 [Buy it!!](https://www.amazon.es/dp/B07FNMXFPZ/?tag=tolees-21)
