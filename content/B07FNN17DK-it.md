@@ -25,10 +25,10 @@ You've got [LEGO City Polizia Aerea all Inseguimento del Drone  Elicottero G
 
 ℹ️:
 
-- Gira il rotore sull’elicottero della Polizia aerea e decolla
-- Gli accessori includono manette, rete, telecomando e un casco con visiera apribile e maschera di ossigeno
 - Premi lo stantuffo per lanciare la rete e cattura il drone prima che se ne scappi con la statua d’oro
-- Include 3 minifigure LEGO City: un agente della Polizia aerea e un ladro, più una minifigure di statua dorata
+- Gli accessori includono manette, rete, telecomando e un casco con visiera apribile e maschera di ossigeno
+- Gira il rotore sull’elicottero della Polizia aerea e decolla
 - Contiene un elicottero della Polizia aerea con cabina di pilotaggio apribile, rotore funzionante, riflettore orientabile e lancia-reti, più un drone costruibile con rotori funzionanti e artigli apribili
+- Include 3 minifigure LEGO City: un agente della Polizia aerea e un ladro, più una minifigure di statua dorata
 
 [Check the deal!!](https://www.amazon.it/dp/B07FNN17DK/?tag=tolees00-21)
