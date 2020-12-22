@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 40.02 % en LEGO 60260 City Airport Air Race Toy  Pl'
-date: 2020-12-20 21:04:02
+title: 'Discount of 40.02 % for LEGO 60260 City Airport Air Race Toy  Pl'
+date: 2020-12-22 10:48:25
 image: 'https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,19 +16,19 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21'
 descuento: '40.02'
-average: '16.668333333333333'
+average: '16.6012'
 ---
 
-Tienes [LEGO 60260 City Airport Air Race Toy  Plane & Helicopters Play Set  Aeroplane Toys for Kids 5+](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21) con un 40.02 % de descuento con precio de oferta de 14.99 GBP (original: 24.99 GBP) en el siguiente enlace!
+You've got [LEGO 60260 City Airport Air Race Toy  Plane & Helicopters Play Set  Aeroplane Toys for Kids 5+](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21) with a  40.02 % discount, with final price of 14.99 GBP (original: 24.99 GBP) at the following link:
 
 [![LEGO 60260 City Airport Air Race Toy  Pl](https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21)
 
 ℹ️:
 
-- Kids aged 5 plus can zoom, rotate and visualise as they build with Instructions PLUS – part of the LEGO Building Instructions app for mobiles
+- Includes 2 toy ripcord helicopters and a stunt toy plane, all with opening cockpits that have room for any 1 of the 3 minifigure pilots
 - With 2 course pylons for a pretend runway, and aircraft with spinnable propellers and opening minifigure cockpits, the race is serious
 - This air race set includes 3 minifigures: LEGO City Adventures TV series character Rivera and LEGO City Xtreme and Vitarush pilots
-- Includes 2 toy ripcord helicopters and a stunt toy plane, all with opening cockpits that have room for any 1 of the 3 minifigure pilots
+- Kids aged 5 plus can zoom, rotate and visualise as they build with Instructions PLUS – part of the LEGO Building Instructions app for mobiles
 - Kids can launch the helicopters into the air using ripcord tools, making them fly at the pull of a cord, which one will go further?
 
-[Accede a la oferta!!](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21)
+[Check the deal!!](https://www.amazon.co.uk/dp/B0813QPZTR/?tag=tolees0a-21)
