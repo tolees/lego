@@ -26,9 +26,9 @@ With a final price of 4.54 EUR (original: 9.99 EUR) you can find [THE LEGO MOVIE
 ℹ️:
 
 - Erlebe kreative Rollenspiele und stelle mit diesem lustigen Bauspielzeug köstliche Szenen aus dem THE LEGO MOVIE 2 Filmhit nach.
+- Als Zubehör sind eine Teekanne, eine Kaffeetasse und Kuchen enthalten.
 - Die Eistüte Figur ist 5 cm groß.
 - Dieses Einhorn Kitty LEGO Set enthält 3 baubare THE LEGO MOVIE 2 Figuren: Einhorn Kitty mit 2 austauschbaren Gesichtsausdrücken, Eistüte und Schokoriegel – sowie einen Teewagen.
-- Als Zubehör sind eine Teekanne, eine Kaffeetasse und Kuchen enthalten.
 - Die Einhorn Kitty Figur ist 5 cm groß.
 
 [Buy it!!](https://www.amazon.de/dp/B07FNS6J93/?tag=tolees0ca-21)
