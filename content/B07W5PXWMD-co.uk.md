@@ -26,9 +26,9 @@ You've got [LEGO 71708 NINJAGO Gamer s Market Nine Minifigures Set with Digi Jay
 ℹ️:
 
 - Includes nine minifigures: Digi Jay, Scott, Avatar Nya, Avatar Cole, Okino, Red Visor, Richie, plus exclusive Avatar Pink Zane and Avatar Harumi
-- Instructions PLUS offer an interactive guide, available on the free LEGO Life app, with zoom and rotate viewing tools to assist building
-- Features three scenes: A hat stall offering 6 different ninja hats, a weapons shop with a range of weapons for digi heroes and a sword stand
 - Players inside the Prime Empire video game have to watch out for the bad Red Visors and evil Richie at the Market who want to capture them
+- Features three scenes: A hat stall offering 6 different ninja hats, a weapons shop with a range of weapons for digi heroes and a sword stand
+- Instructions PLUS offer an interactive guide, available on the free LEGO Life app, with zoom and rotate viewing tools to assist building
 - Kids can provide the ninjas with different weapons, select a ninja hat to create a new identity or purchase a collectible Key-Tana
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B07W5PXWMD/?tag=tolees0a-21)
