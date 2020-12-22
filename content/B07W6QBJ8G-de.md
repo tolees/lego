@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 32.30 % en LEGO 71711 NINJAGO Jays Cyber-Drache Mec'
-date: 2020-12-19 14:16:05
+title: 'Discount of 32.30 % for LEGO 71711 NINJAGO Jays Cyber-Drache Mec'
+date: 2020-12-22 09:29:50
 image: 'https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,19 +16,19 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21'
 descuento: '32.30'
-average: '35.690689655172406'
+average: '35.60066666666666'
 ---
 
-Tienes [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifiguren Jay  Nya und Unagami](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21) con un 32.30 % de descuento con precio de oferta de 32.99 EUR (original: 48.73 EUR) en el siguiente enlace!
+You've got [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifiguren Jay  Nya und Unagami](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21) with a  32.30 % discount, with final price of 32.99 EUR (original: 48.73 EUR) at the following link:
 
 [![LEGO 71711 NINJAGO Jays Cyber-Drache Mec](https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg)](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Verfügt über einen detaillierten Mech-Drachen mit beweglicher Taille, beweglichem Kopf, beweglichen Gliedmaßen, beweglichem Schwanz und beweglichem Kiefer, der mit seinen Geschützen Raketen abfeuern kann
 - Kinder werden es lieben, mit Unagami, Hausner und Richie auf ihren Hoverboards zu kämpfen, während sie sich mit Digi-Ninjas und Mech-Drachen zusammentun
 - Beinhaltet 5 Minifiguren, die im Prime Empire-Spiel auftreten: Digi Jay, Nya, den Hauptschurken Unagami und seine Handlanger Richie und Hausner
-- Verfügt über einen detaillierten Mech-Drachen mit beweglicher Taille, beweglichem Kopf, beweglichen Gliedmaßen, beweglichem Schwanz und beweglichem Kiefer, der mit seinen Geschützen Raketen abfeuern kann
-- Enthält Gesundheitstafeln und eine aufregende Auswahl an neuen Rüstungen und Waffen von Prime Empire sowie das sammelbare grüne Key-Tana mit einer Halterung
 - Die beiden Ninjas können im Cockpit dieses fantastischen Drachen-Mechs reiten und Geschütze benutzen, um das wertvolle Key-Tana zu ergattern
+- Enthält Gesundheitstafeln und eine aufregende Auswahl an neuen Rüstungen und Waffen von Prime Empire sowie das sammelbare grüne Key-Tana mit einer Halterung
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
