@@ -25,10 +25,10 @@ There's a deal [LEGO Technic Catamarano e Barca a Vela 2 in 1  Giocattolo Galleg
 
 ℹ️:
 
-- Catamarano 2 in 1 galleggiante, ricostruibile in un fantastico yacht da gara
-- Costruisci, ricostruisci, gioca, esponi. Con 2 modelli in 1, lapprendimento non ha fine
-- Adatto per gli appassionati di vela di qualsiasi età dagli 8 anni in su
 - Il set è ricco di dettagli per la navigazione, come vele funzionanti, derive mobili e timone
+- Adatto per gli appassionati di vela di qualsiasi età dagli 8 anni in su
+- Costruisci, ricostruisci, gioca, esponi. Con 2 modelli in 1, lapprendimento non ha fine
+- Catamarano 2 in 1 galleggiante, ricostruibile in un fantastico yacht da gara
 - Alto 44 cm (dalla punta del timone alla cima dellalbero)
 
 [Buy it now!!](https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21)
