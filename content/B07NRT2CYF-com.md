@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.01 % for LEGO Disney Frozen II Elsa’s Jewelry Box'
-date: 2020-12-22 16:16:37
+date: 2020-12-23 20:50:50
 image: 'https://m.media-amazon.com/images/I/51b5gkfYz7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ You've got [LEGO Disney Frozen II Elsa’s Jewelry Box Creation 41168 Disney Jew
 
 ℹ️:
 
+- When it’s fully built, this awesome 300-piece kids jewelry box measures over 9-inch (23cm) high, 5-inch (15cm) wide and 4-inch (12cm) deep and is the perfect Frozen bedroom décor for any Disney fan’s bedroom
+- LEGO Disney Frozen II Elsa’s Jewelry Box Creation can be built together with all other original LEGO sets and LEGO building bricks for endless Frozen adventures. Kids can bring to life Frozen II or make up their own story.
 - This DIY jewelry box is a great arts and craft activity for hours of imaginative play. The finished jewelry box features a mirror, drawer and lock. Plus, it also includes a turntable for an Elsa mini doll and Nokk LEGO figure to spin around on.
 - Kids will love making their own Elsa Frozen II jewelry box to safely store all of their precious bits and pieces, such as their favorite Frozen jewelry. Plus, this Frozen set includes 2 LEGO toy rings locked inside!
-- LEGO Disney Frozen II Elsa’s Jewelry Box Creation can be built together with all other original LEGO sets and LEGO building bricks for endless Frozen adventures. Kids can bring to life Frozen II or make up their own story.
-- When it’s fully built, this awesome 300-piece kids jewelry box measures over 9-inch (23cm) high, 5-inch (15cm) wide and 4-inch (12cm) deep and is the perfect Frozen bedroom décor for any Disney fan’s bedroom
 - This cool DIY craft lets boys and girls aged 6+ build a decorative jewelry box with 2 Frozen characters. Its the perfect holiday gift or birthday gift for pretend play or as Frozen decoration.
 
 [Check the deal!!](https://www.amazon.com/dp/B07NRT2CYF/?tag=tolees-20)
