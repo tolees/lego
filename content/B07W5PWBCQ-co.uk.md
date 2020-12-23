@@ -25,10 +25,10 @@ You've got [LEGO 10925 DUPLO Town Playroom Playable Dolls House Box for Toddlers
 
 ℹ️:
 
-- Includes 2 LEGO DUPLO figures: a boy and a girl that can play together, even on the go, with this portable house-shaped cardboard box
-- There is a gift box with a ribbon bow, 2 cupcakes and a school board with numbers on it, to play imaginary school or a birthday party
 - This fun playset encourages learning and development of language, social and emotional skills by recreating toddlers daily activities
+- Includes 2 LEGO DUPLO figures: a boy and a girl that can play together, even on the go, with this portable house-shaped cardboard box
 - Kids will develop early construction and fine motor skills with these simple builds made of the big building designed bricks for toddlers
 - The box containing this playset is printed inside to transform into a versatile playroom, filled with colourful toys: a horse, small playhouse and balloons
+- There is a gift box with a ribbon bow, 2 cupcakes and a school board with numbers on it, to play imaginary school or a birthday party
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B07W5PWBCQ/?tag=tolees0a-21)
