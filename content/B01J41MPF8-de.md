@@ -26,9 +26,9 @@ There's a deal [LEGO 21034 Architecture London  Skyline-Kollektion  London Eye  
 ℹ️:
 
 - Bauen Sie ein detailgetreues Modell der Skyline von London
-- Das Modell ist über 13 cm hoch, 28 cm breit und 8 cm tief; 468 Teile - Für Jungen und Mädchen zwischen 12 und 12 Jahren
-- Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
 - Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
+- Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
+- Das Modell ist über 13 cm hoch, 28 cm breit und 8 cm tief; 468 Teile - Für Jungen und Mädchen zwischen 12 und 12 Jahren
 - Enthält die National Gallery, die Nelsonsäule, das London Eye, Big Ben und Tower Bridge
 
 [Buy it now!!](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21)

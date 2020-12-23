@@ -27,8 +27,8 @@ With a final price of 32.85 EUR (original: 38.98 EUR) you can find [LEGO 60139 C
 
 - Build a truck that opens into a police mobile command centre, with a detachable cab, jail cell, monitoring room, satellite dish and more cool features
 - LEGO city building toys are compatible with all LEGO construction sets for creative building
-- Includes male and female police officers and male and female crook minifigures, plus police dog figure and accessories
 - Accessory elements include a mug, backpack, two money bills, two cones, wrench, walkie-talkie, lollypop stop sign and a set of handcuffs
+- Includes male and female police officers and male and female crook minifigures, plus police dog figure and accessories
 - Pull off the jail door for a breakout and then chase down the crooks buildable ATV with the police motorbike
 
 [Buy it!!](https://www.amazon.de/dp/B01J41G4SC/?tag=tolees0ca-21)

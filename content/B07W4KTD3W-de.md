@@ -25,10 +25,10 @@ There's a deal [LEGO 21051 Architecture Tokio Modell  Skyline-Kollektion  Bauset
 
 ℹ️:
 
+- Learn more about Tokyo skyline and the model designer in the booklet (in English) or download other languages at manufacturer website
 - Vibrant colours and authentic details of its 6 landmarks models will catch the eye of every passerby with decorative blooming cherry trees
 - The cherry-tree-filled Chidorigafuchi Park, a classic pagoda tower and Shibuya Crossing are also featured in this skyline construction set
-- Together on the baseplate with a Tokyo nameplate, they create a compact, impactful, eye-catching display piece to brighten up any room
 - Includes scale models of TOKYO SKYTREE, the world’s tallest freestanding tower, Tokyo Tower, Mode Gakuen Cocoon Tower and Tokyo Big Sight
-- Learn more about Tokyo skyline and the model designer in the booklet (in English) or download other languages at manufacturer website
+- Together on the baseplate with a Tokyo nameplate, they create a compact, impactful, eye-catching display piece to brighten up any room
 
 [Buy it now!!](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21)
