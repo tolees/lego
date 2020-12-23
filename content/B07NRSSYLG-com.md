@@ -25,10 +25,10 @@ With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Hidden 
 
 ℹ️:
 
-- Introduce youngsters to the exciting world of LEGO Hidden Side: A unique play experience that combines the open creative play of LEGO building toys for kids with an augmented reality app
-- Ghost playset for boys and girls aged 7+ This Wrecked Shrimp Boat 70419 toy building set can be built together with all other original LEGO toys and LEGO bricks for creative play
+- This augmented reality toy for kids includes 4 minifigures: Jack Davids and Parker L. Jackson with smartphones, Captain Jones and Jones Jr., plus the ghost dog, Spencer, and an albino alligator for ghost-hunting adventures
 - A great boys’ and girls’ birthday, Christmas or occasional gift, the Wrecked Shrimp Boat playset lets kids build their very own nautically-inspired shrimp boat that can split into two for hours of fun
 - A tablet or mobile phone is required to get the full interactive play experience, but not included. Compatible with selected iOS and Android devices. Compatible with select mobile devices
-- This augmented reality toy for kids includes 4 minifigures: Jack Davids and Parker L. Jackson with smartphones, Captain Jones and Jones Jr., plus the ghost dog, Spencer, and an albino alligator for ghost-hunting adventures
+- Ghost playset for boys and girls aged 7+ This Wrecked Shrimp Boat 70419 toy building set can be built together with all other original LEGO toys and LEGO bricks for creative play
+- Introduce youngsters to the exciting world of LEGO Hidden Side: A unique play experience that combines the open creative play of LEGO building toys for kids with an augmented reality app
 
 [Buy it!!](https://www.amazon.com/dp/B07NRSSYLG/?tag=tolees-20)
