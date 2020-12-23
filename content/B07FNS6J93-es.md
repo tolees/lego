@@ -25,12 +25,12 @@ With a final price of 5.42 EUR (original: 9.99 EUR) you can find [LEGO La LEGO P
 
 ℹ️:
 
+- El carrito mide más de 5 cm de altura, 3 cm de longitud y 3 cm de ancho
 - Este set LEGO inspirado en Unikitty incluye 3 personajes para construir de la LEGO PELÍCULA 2: Unikitty con 2 expresiones faciales intercambiables, Cucurucho de Helado y Chocolatina; incluye también un carrito de té
-- La figura de Chocolatina mide más de 5 cm de altura
-- La figura de Cucurucho de Helado mide más de 5 cm de altura
 - Disfruta del juego creativo y recrea las deliciosas escenas de la lego película 2 con este divertido juguete para construir
+- La figura de Cucurucho de Helado mide más de 5 cm de altura
+- La figura de Chocolatina mide más de 5 cm de altura
 - Accesorios incluidos: una tetera, una taza de café y una tarta
 - La figura de Unikitty mide más de 5 cm de altura
-- El carrito mide más de 5 cm de altura, 3 cm de longitud y 3 cm de ancho
 
 [Buy it!!](https://www.amazon.es/dp/B07FNS6J93/?tag=tolees-21)
