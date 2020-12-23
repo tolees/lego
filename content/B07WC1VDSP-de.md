@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.06 % deal for LEGO 42108 Technic Kran-LKW  Spielzeug  '
-date: 2020-12-22 03:20:26
+date: 2020-12-23 03:47:07
 image: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21'
 descuento: '23.06'
-average: '72.99464028776987'
+average: '73.00889285714294'
 ---
 
 There's a deal [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)  with  23.06 % discount, final price tag of  74.99 EUR (original: 97.47 EUR) here:
@@ -25,10 +25,10 @@ There's a deal [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeug
 
 ℹ️:
 
-- Um zu sehen, wie ein echter Kran funktioniert: Fahre den Ausleger aus und hebe ihn an, hebe dann die Betonsäule an und versuche schließlich, ihn präzise abzustellen
 - Das Kran-LKW-Spielzeug verfügt über eine 8-Rad-Lenkung, vier einzeln steuerbare Stützfüße, zwei Kabinen und einen superhohen Teleskopausleger von 78 cm Länge
 - Dieses technisch fortgeschrittene Spielzeugmodell ist eine Herausforderung für junge Fans von Baumaschinen, aber mit Anleitung dennoch einfach zu bauen
-- Das klassische schwarz-gelbe Design sieht genauso aus wie das Original, während Fans erforschen, was all die verschiedenen fantastischen Funktionen leisten können
 - Die Kabine des Kranführers ist drehbar und der Hydraulikmechanismus hebt den Arm um 70° an, während Kranblöcke und Seile die schwere Ladung mühelos anheben
+- Um zu sehen, wie ein echter Kran funktioniert: Fahre den Ausleger aus und hebe ihn an, hebe dann die Betonsäule an und versuche schließlich, ihn präzise abzustellen
+- Das klassische schwarz-gelbe Design sieht genauso aus wie das Original, während Fans erforschen, was all die verschiedenen fantastischen Funktionen leisten können
 
 [Buy it now!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60139 City Polizei Mobile Einsatzze at 15.73 % discount'
-date: 2020-12-21 16:21:07
+date: 2020-12-23 03:22:37
 image: 'https://m.media-amazon.com/images/I/51wxtZFdkrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,10 @@ With a final price of 32.85 EUR (original: 38.98 EUR) you can find [LEGO 60139 C
 
 ℹ️:
 
-- Enthält als Minifiguren einen Polizisten und eine Polizistin, einen Ganoven und eine Ganovin sowie einen Polizeihund und Zubehör
-- LEGO City Spielzeug ist kompatibel mit allen LEGO Bausets für kreatives Bauen
-- Bauen Sie Lastwagen, der zu einer mobilen Polizei-Kommandozentrale wird, einschließlich abnehmbarer Fahrerkabine, Gefängniszelle, Überwachungsraum, Satellitenschüssel und weitere cooler Funktionen
-- 374 Teile - Für Jungen und Mädchen zwischen 6 und 12 Jahren
-- Die mobile Einsatzzentrale ist über 11  cm hoch, 23  cm lang und 6  cm breit. Die Zugmaschine ist über 8  cm hoch, 13  cm lang und 6  cm breit. Das Quad ist über 3  cm hoch, 6  cm lang und 3  cm breit. Das Motorrad ist über 3  cm hoch, 6  cm lang und unter 3  cm breit
-- Die Gefängnistür kann für einen Ausbruch entfernt werden. Mit dem Polizeimotorrad lässt sich der baubare Quad des Ganoven schnappen
+- Build a truck that opens into a police mobile command centre, with a detachable cab, jail cell, monitoring room, satellite dish and more cool features
+- LEGO city building toys are compatible with all LEGO construction sets for creative building
+- Includes male and female police officers and male and female crook minifigures, plus police dog figure and accessories
+- Accessory elements include a mug, backpack, two money bills, two cones, wrench, walkie-talkie, lollypop stop sign and a set of handcuffs
+- Pull off the jail door for a breakout and then chase down the crooks buildable ATV with the police motorbike
 
 [Buy it!!](https://www.amazon.de/dp/B01J41G4SC/?tag=tolees0ca-21)
