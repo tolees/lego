@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.11 % deal for LEGO 21051 Architecture Tokio Modell  Sk'
-date: 2020-12-23 03:27:36
+date: 2020-12-24 09:18:45
 image: 'https://m.media-amazon.com/images/I/51NfBgYsa9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21'
 descuento: '24.11'
-average: '42.19976851851854'
+average: '42.21977064220186'
 ---
 
 There's a deal [LEGO 21051 Architecture Tokio Modell  Skyline-Kollektion  Bauset für Sammler](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21)  with  24.11 % discount, final price tag of  44.38 EUR (original: 58.48 EUR) here:
@@ -25,10 +25,10 @@ There's a deal [LEGO 21051 Architecture Tokio Modell  Skyline-Kollektion  Bauset
 
 ℹ️:
 
-- Includes scale models of TOKYO SKYTREE, the world’s tallest freestanding tower, Tokyo Tower, Mode Gakuen Cocoon Tower and Tokyo Big Sight
-- Learn more about Tokyo skyline and the model designer in the booklet (in English) or download other languages at manufacturer website
-- The cherry-tree-filled Chidorigafuchi Park, a classic pagoda tower and Shibuya Crossing are also featured in this skyline construction set
-- Vibrant colours and authentic details of its 6 landmarks models will catch the eye of every passerby with decorative blooming cherry trees
-- Together on the baseplate with a Tokyo nameplate, they create a compact, impactful, eye-catching display piece to brighten up any room
+- Der mit Kirschbäumen gesäumte Chidori-ga-fuchi-Graben, ein klassischer Pagodenturm und die Shibuya-Kreuzung gehören ebenfalls zum Set
+- Dieses Bauset enthält Modelle des Tokyo Tower, des höchsten frei stehenden Turms der Welt, des Mode Gakuen Cocoon Tower, des Tokyo Big Sight und des Tokyo Skytree
+- Lebendige Farben und authentische Details der 6 Wahrzeichen-Modelle werden jeden Passanten mit dekorativen, blühenden Kirschbäumen begeistern
+- Wissenswertes über Tokio und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO architecture kann das Heft auch in anderen Sprachen heruntergeladen werden
+- Wenn die Gebäude auf der Grundplatte mit dem Namensschild Tokyo aneinandergereiht werden, entsteht ein kompaktes und sehr eindrucksvolles Modell
 
 [Buy it now!!](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21)
