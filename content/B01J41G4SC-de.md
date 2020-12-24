@@ -27,9 +27,9 @@ With a final price of 32.85 EUR (original: 38.98 EUR) you can find [LEGO 60139 C
 
 - Die mobile Einsatzzentrale ist über 11  cm hoch, 23  cm lang und 6  cm breit. Die Zugmaschine ist über 8  cm hoch, 13  cm lang und 6  cm breit. Das Quad ist über 3  cm hoch, 6  cm lang und 3  cm breit. Das Motorrad ist über 3  cm hoch, 6  cm lang und unter 3  cm breit
 - Enthält als Minifiguren einen Polizisten und eine Polizistin, einen Ganoven und eine Ganovin sowie einen Polizeihund und Zubehör
+- Die Gefängnistür kann für einen Ausbruch entfernt werden. Mit dem Polizeimotorrad lässt sich der baubare Quad des Ganoven schnappen
 - LEGO City Spielzeug ist kompatibel mit allen LEGO Bausets für kreatives Bauen
 - Bauen Sie Lastwagen, der zu einer mobilen Polizei-Kommandozentrale wird, einschließlich abnehmbarer Fahrerkabine, Gefängniszelle, Überwachungsraum, Satellitenschüssel und weitere cooler Funktionen
 - 374 Teile - Für Jungen und Mädchen zwischen 6 und 12 Jahren
-- Die Gefängnistür kann für einen Ausbruch entfernt werden. Mit dem Polizeimotorrad lässt sich der baubare Quad des Ganoven schnappen
 
 [Buy it!!](https://www.amazon.de/dp/B01J41G4SC/?tag=tolees0ca-21)
