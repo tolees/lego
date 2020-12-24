@@ -26,9 +26,9 @@ You've got [LEGO 75317 BrickHeadz Star Wars The Mandalorian & The Child Baby Yod
 ℹ️:
 
 - The Mandalorian buildable LEGO figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand
-- Both construction models have baseplates to create an eye-catching display
 - LEGO BrickHeadz build-and-display models of The Mandalorian and the Child
-- A great addition to any Star Wars fan’s collection
+- Both construction models have baseplates to create an eye-catching display
 - The "Baby Yoda" Child has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent LEGO elements
+- A great addition to any Star Wars fan’s collection
 
 [Check the deal!!](https://www.amazon.com/dp/B084CKR6VP/?tag=tolees-20)
