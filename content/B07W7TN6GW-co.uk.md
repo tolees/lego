@@ -25,10 +25,10 @@ There's a deal [LEGO 60252 City Great Vehicles Construction Bulldozer Toy with S
 
 ℹ️:
 
+- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
+- Kids can cordon off the site, swing the wrecking ball to knock down the wall, then scoop up bricks with the bulldozer and spin the mixer
+- Includes two worker minifigures and accessories: Road signs and cones, a pneumatic drill, hammer and shovel, cement bricks and a hook to lift
 - This construction site playset features a toy bulldozer with a working bucket, a toy crane with a wrecking ball and a cement mixer
 - Comes with special Starter Bricks and simple printed building guides that help kids grow their confidence and abilities step by step
-- Includes two worker minifigures and accessories: Road signs and cones, a pneumatic drill, hammer and shovel, cement bricks and a hook to lift
-- Kids can cordon off the site, swing the wrecking ball to knock down the wall, then scoop up bricks with the bulldozer and spin the mixer
-- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 
 [Buy it now!!](https://www.amazon.co.uk/dp/B07W7TN6GW/?tag=tolees0a-21)

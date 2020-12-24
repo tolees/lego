@@ -25,10 +25,10 @@ You've got [LEGO 41351 Friends Heartlake Creative Tuning Shop with  Rotating Sh
 
 ℹ️:
 
-- Includes Emma and dean LEGO friends mini-doll figures, plus Chico the cat figure
 - Combine with the 41348 service and care truck, 41349 drifting diner and 41352 the big race day for endless LEGO friends go-kart fun
-- Accessory elements include car polish bottles, paint sprayer, trophy, mug and a cookie
 - Build a creative tuning shop with showroom, lifting platform, office, two go-karts, launcher and lots of elements to customize
+- Accessory elements include car polish bottles, paint sprayer, trophy, mug and a cookie
+- Includes Emma and dean LEGO friends mini-doll figures, plus Chico the cat figure
 - LEGO friends building toys are compatible with all LEGO construction sets for creative building
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B0765C6XTK/?tag=tolees0a-21)
