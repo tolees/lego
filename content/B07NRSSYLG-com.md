@@ -25,10 +25,10 @@ With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Hidden 
 
 ℹ️:
 
+- Download the LEGO Hidden Side app and point your phone at the Wrecked Shrimp Boat to make this building set for kids come alive and reveal the Hidden Side. Move the phone around to discover an ever-changing environment hidden around the model.
 - This augmented reality toy for kids includes 4 minifigures: heroes Jack Davids and Parker L. Jackson, Captain Jonas and his son, Jonas Jr., plus Davidss ghost dog, Spencer, and the legendary albino alligator to role-play the action in the story.
 - Build and play with the physical set and then bring it to life as you interact with the set while viewing it through the AR app. Shipwreck on the island measures over 7” (19cm) high, 9” (24cm) wide and 4” (12cm) deep. Shrimp Boat measures over 5” (15cm) high, 3” (8cm) wide and 7” (18cm) deep.
 - Set in the fictional town of Newbury, where ghosts haunt people and buildings, LEGO Hidden Side playsets let kids play out exciting ghost-hunting adventures that combine physical LEGO models with fully-interactive augmented reality.
 - This Wrecked Shrimp Boat playset features a cool, nautical-inspired shrimp boat that can split into two and be put together again, as well as a brick-built cliff that can become haunted.
-- Download the LEGO Hidden Side app and point your phone at the Wrecked Shrimp Boat to make this building set for kids come alive and reveal the Hidden Side. Move the phone around to discover an ever-changing environment hidden around the model.
 
 [Buy it!!](https://www.amazon.com/dp/B07NRSSYLG/?tag=tolees-20)
