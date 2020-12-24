@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Hidden Side Wrecked Shrimp Boat 704 at 20.01 % discount'
-date: 2020-12-23 14:53:36
+date: 2020-12-24 21:11:04
 image: 'https://m.media-amazon.com/images/I/5169lZHHzML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Hidden 
 
 ℹ️:
 
-- A great boys’ and girls’ birthday, Christmas or occasional gift, the Wrecked Shrimp Boat playset lets kids build their very own nautically-inspired shrimp boat that can split into two for hours of fun
-- This augmented reality toy for kids includes 4 minifigures: Jack Davids and Parker L. Jackson with smartphones, Captain Jones and Jones Jr., plus the ghost dog, Spencer, and an albino alligator for ghost-hunting adventures
-- Introduce youngsters to the exciting world of LEGO Hidden Side: A unique play experience that combines the open creative play of LEGO building toys for kids with an augmented reality app
-- A tablet or mobile phone is required to get the full interactive play experience, but not included. Compatible with selected iOS and Android devices. Compatible with select mobile devices
-- Ghost playset for boys and girls aged 7+ This Wrecked Shrimp Boat 70419 toy building set can be built together with all other original LEGO toys and LEGO bricks for creative play
+- This augmented reality toy for kids includes 4 minifigures: heroes Jack Davids and Parker L. Jackson, Captain Jonas and his son, Jonas Jr., plus Davidss ghost dog, Spencer, and the legendary albino alligator to role-play the action in the story.
+- Build and play with the physical set and then bring it to life as you interact with the set while viewing it through the AR app. Shipwreck on the island measures over 7” (19cm) high, 9” (24cm) wide and 4” (12cm) deep. Shrimp Boat measures over 5” (15cm) high, 3” (8cm) wide and 7” (18cm) deep.
+- Set in the fictional town of Newbury, where ghosts haunt people and buildings, LEGO Hidden Side playsets let kids play out exciting ghost-hunting adventures that combine physical LEGO models with fully-interactive augmented reality.
+- This Wrecked Shrimp Boat playset features a cool, nautical-inspired shrimp boat that can split into two and be put together again, as well as a brick-built cliff that can become haunted.
+- Download the LEGO Hidden Side app and point your phone at the Wrecked Shrimp Boat to make this building set for kids come alive and reveal the Hidden Side. Move the phone around to discover an ever-changing environment hidden around the model.
 
 [Buy it!!](https://www.amazon.com/dp/B07NRSSYLG/?tag=tolees-20)
