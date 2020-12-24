@@ -25,8 +25,8 @@ You've got [LEGO Los Increibles - Edición Exclusiva Amazon - Nintendo Switch](h
 
 ℹ️:
 
-- Oleadas de delincuencia en los distritos de la ciudad
 - El trabajo en familia es la clave: los jugadores deberán trabajar en equipo y combinar las emblemáticas habilidades y los extraordinarios poderes de la familia Parr para construir asombrosas y descomunales estructuras LEGO
+- Oleadas de delincuencia en los distritos de la ciudad
 - Personalización de personajes con un nuevo giro: los jugadores pueden modificar el aspecto de su personaje y sus habilidades
 - Edición exclusiva de Amazon. Incluye DLC con contenido adicional
 - Dos películas, un juego: los jugadores podrán vivir las apasionantes aventuras de la superheroica familia Parr de nuevas maneras mientras se adentran en sus momentos favoritos de las películas Los Increíbles y Los Increíbles 2 en un mundo LEGO lleno de diversión y sorpresas
