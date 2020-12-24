@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic 6x6 Volvo Articulated at 21.76 % discount'
-date: 2020-12-23 15:51:00
+date: 2020-12-24 16:11:55
 image: 'https://m.media-amazon.com/images/I/513gF1wnXFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21'
 descuento: '21.76'
-average: '196.30883838383835'
+average: '196.14524999999995'
 ---
 
 With a final price of 179.95 GBP (original: 229.99 GBP) you can find [LEGO 42114 Technic 6x6 Volvo Articulated Hauler Truck Toy RC Car Construction Vehicle](https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21) with a  21.76 % discount here:
@@ -26,10 +26,10 @@ With a final price of 179.95 GBP (original: 229.99 GBP) you can find [LEGO 42114
 ℹ️:
 
 - Download the LEGO Technic CONTROL+ app and explore the different control screens, challenges, achievements and exclusive content
-- Build your very own remote-controlled model version of the classic A60H Articulated Hauler from Volvo for epic construction role play
+- Building can start without batteries however 6 x AA 1.5 V batteries (not included) are required to enjoy all the cool features of the truck
 - The truck is powered by 1 large angular position motor, 1 XL motor and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
+- Build your very own remote-controlled model version of the classic A60H Articulated Hauler from Volvo for epic construction role play
 - Control the 2,193-piece mighty machine using the app, tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
 - Undertake this rewarding building challenge with loads of authentic details to discover, and bring the construction world to life
-- Building can start without batteries however 6 x AA 1.5 V batteries (not included) are required to enjoy all the cool features of the truck
 
 [Buy it!!](https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21)
