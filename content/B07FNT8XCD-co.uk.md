@@ -25,10 +25,10 @@ You've got [LEGO 41368 Friends Andrea s Talent Show Playset  Andrea and Chloe mi
 
 ℹ️:
 
-- Accessory elements include toy microphone, magic trick set, camera, hairbrush, lipstick, cup, cell phone stand and a fabric skirt for Andrea
-- Magician accessory elements include magician’s cape, magic card, hat, wand and toy rabbit
 - This set features 3 different rotating stage sets for hours of creative play displaying Andrea’s talents
-- Includes 2 mini-doll figures : Andrea and LEGO Friends Chloe, plus a rabbit figure
+- Accessory elements include toy microphone, magic trick set, camera, hairbrush, lipstick, cup, cell phone stand and a fabric skirt for Andrea
 - Build a stage and watch Andrea perform at the LEGO talent show, singing with her toy microphone, playing the toy drums and doing magic tricks
+- Magician accessory elements include magician’s cape, magic card, hat, wand and toy rabbit
+- Includes 2 mini-doll figures : Andrea and LEGO Friends Chloe, plus a rabbit figure
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B07FNT8XCD/?tag=tolees0a-21)

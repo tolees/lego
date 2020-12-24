@@ -25,10 +25,10 @@ With a final price of 39.99 EUR (original: 48.73 EUR) you can find [LEGO 43180 D
 
 ℹ️:
 
-- Das LEGO ǀ Disney Spielset „Belles winterliches Schloss“ (43180) enthält Figuren aus dem Disney Film „Die Schöne und das Biest“, um Kindern ein fesselndes und erfüllendes Bauerlebnis zu vermitteln. Ein tolles Weihnachtsgeschenk
-- Junge Fans des Disney Films „Die Schöne und das Biest“ werden dieses Set mit seinen Details und Zubehörteilen lieben. Das Set ist ein tolles Geschenk für Kinder ab 4 Jahren, denn das Modell ist einfach zu bauen und Spielfiguren animieren zum Spielen
 - Ein einfach zu bauendes Schloss voller Details. Das Schloss ist 23 cm hoch, 25 cm breit und 16 cm tief. Das fantastische Set ist dafür konzipiert, immer wieder aufs Bau- und Spielspaß zu bieten
 - Das Schloss und die Figuren ermöglichen es Kindern, beim Spielen ihrer Fantasie freien Lauf zu lassen. Kinder können das Schloss und die Einrichtung bauen und dann ihre Lieblingsszenen nachstellen oder sich eigene Geschichten ausdenken
 - In dem farbenfrohen und einfach zu bauenden Schloss gibt es mehrere Räume, Möbel zum Zusammenbauen, die Disney Helden Belle und das Biest als Spielfiguren und weitere Objekte, um jungen Baumeistern ein kreatives Spielerlebnis zu bieten
+- Das LEGO ǀ Disney Spielset „Belles winterliches Schloss“ (43180) enthält Figuren aus dem Disney Film „Die Schöne und das Biest“, um Kindern ein fesselndes und erfüllendes Bauerlebnis zu vermitteln. Ein tolles Weihnachtsgeschenk
+- Junge Fans des Disney Films „Die Schöne und das Biest“ werden dieses Set mit seinen Details und Zubehörteilen lieben. Das Set ist ein tolles Geschenk für Kinder ab 4 Jahren, denn das Modell ist einfach zu bauen und Spielfiguren animieren zum Spielen
 
 [Buy it!!](https://www.amazon.de/dp/B0813R1JXB/?tag=tolees0ca-21)
