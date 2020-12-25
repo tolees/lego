@@ -25,10 +25,10 @@ With a final price of 14.99 EUR (original: 19.99 EUR) you can find [LEGO DUPLO -
 
 ℹ️:
 
-- Incluye ladrillos decorados con los números del 0 al 9
+- Este set fomenta las habilidades de construcción e interpretación
+- Cuenta con una locomotora para construir y tres vagones
 - Incluye dos figuras Lego Duplo de niños y una figura de un gato
 - Usa los ladrillos decorados para enseñar a tu hijo los números y a contar
-- Cuenta con una locomotora para construir y tres vagones
-- Este set fomenta las habilidades de construcción e interpretación
+- Incluye ladrillos decorados con los números del 0 al 9
 
 [Buy it!!](https://www.amazon.es/dp/B01J41D4IU/?tag=tolees-21)
