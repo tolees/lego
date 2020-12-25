@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.49 % for LEGO® Minecraft™ L aventure du bateau pi'
-date: 2020-12-22 23:27:51
+date: 2020-12-25 03:35:35
 image: 'https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ You've got [LEGO® Minecraft™ L aventure du bateau pirate Jeu de construction 
 
 ℹ️:
 
+- Les ensembles LEGO Minecraft sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- 386 pièces pour les filles et les garçons de 8 ans et plus.
 - Mesure plus de 15 cm de haut, 23 cm de large et 23 cm de profondeur.
 - Comprend 2 figurines : un pirate et Alex, plus un zombie Minecraft et des figurines Minecraft de dauphin, de perroquet et de tortue.
-- 386 pièces pour les filles et les garçons de 8 ans et plus.
-- Les ensembles LEGO Minecraft sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - Issu de lunivers des jeux Minecraft
 - Construisez laventure du bateau pirate LEGO Minecraft.
 
