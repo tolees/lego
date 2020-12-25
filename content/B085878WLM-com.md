@@ -25,10 +25,10 @@ You've got [LEGO City Air Race 60260 Flying Helicopter & Airplane Toy  Features 
 
 ℹ️:
 
-- This LEGO City Air Race (60260) playset makes a great holiday, birthday or any-other-day gift for kids aged 5 and up and for boys and girls who love toy helicopters and airplanes
 - Stunt plane toy measures over 3" (8 centimeter) high, 7" (20 centimeter) long and 7" (20 centimeter) wide, while each ripcord helicopter measures over 2" (7 centimeter) high, 7" (18 centimeter) long and x4" (12 centimeter) wide
-- The LEGO City Air Race set includes 2 toy ripcord helicopters, a stunt plane, 2 course pylons and 3 LEGO minifigures, including LEGO City TV character Rivera and LEGO City Xtreme and Vitarush pilots
+- This LEGO City Air Race (60260) playset makes a great holiday, birthday or any-other-day gift for kids aged 5 and up and for boys and girls who love toy helicopters and airplanes
 - Send Kids’ imaginations skyward with this multi-vehicle LEGO City Air Race playset, featuring 2 toy flying ripcord helicopters, toy airplane, 3 minifigures, including LEGO City Adventures TV series character Rivera, and more
 - Kids can launch the ripcord helicopters into the air; The toy stunt plane and toy helicopters also have opening cockpits with room for any 1 of the 3 LEGO minifigure pilots included with this airport building set
+- The LEGO City Air Race set includes 2 toy ripcord helicopters, a stunt plane, 2 course pylons and 3 LEGO minifigures, including LEGO City TV character Rivera and LEGO City Xtreme and Vitarush pilots
 
 [Check the deal!!](https://www.amazon.com/dp/B085878WLM/?tag=tolees-20)

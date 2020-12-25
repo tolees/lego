@@ -25,9 +25,9 @@ With a final price of 40.0 USD (original: 49.99 USD) you can find [LEGO Super Ma
 
 ℹ️:
 
+- To reach the fortress and win digital coins, LEGO Mario may need to use the catapult, leap over brick-built lava or across stepping stones in ‘water’, and he reacts in different ways as he meets and defeats each enemy
 - Kids can build another exciting level to add to their LEGO Super Mario Adventures with Mario Starter Course and compete against friends with this Guarded Fortress Expansion Set 71362
 - The player must choose their own route for LEGO Mario (figure not included), defeating either the Bob-omb, Koopa Troopa or Piranha Plant toy figures, before landing on the POW Block to open the fortress door
-- To reach the fortress and win digital coins, LEGO Mario may need to use the catapult, leap over brick-built lava or across stepping stones in ‘water’, and he reacts in different ways as he meets and defeats each enemy
 - This module measures over 7” (18.5cm) high, 14.5” (38cm) wide and 12.5” (32cm) deep in its basic formation and can be rebuilt and combined with the Starter Course and other Expansion Sets in multiple ways
 - This 468-piece, collectible, creative LEGO toy makes a fun birthday or holiday gift for kids aged 8 and up to add to their Adventures with Mario Starter Course 71360, inspiring them to build their own unique levels
 
