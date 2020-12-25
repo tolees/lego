@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Star Wars: The Rise of Skywalker D-'
-date: 2020-12-24 03:41:27
+date: 2020-12-25 09:48:04
 image: 'https://m.media-amazon.com/images/I/51-07-DNY5L._SL200_.jpg'
 comments: true
 category: ofertas
