@@ -25,10 +25,10 @@ With a final price of 114.31 USD (original: 139.99 USD) you can find [LEGO Creat
 
 ℹ️:
 
-- Choose your favorite decade with the miniature, reversible Transit advertising posters, featuring a 1950S or present day London promotion
-- This 6174047 is scaled for shelf display alongside other models in the LEGO Creator Expert vehicle series
-- Measures over 7" (18cm) high, 13" (34cm) long and 5" (13cm) wide
 - The London bus comes with an array of brick-built details, including large windows, bright red curved bodywork, panoramic windshield, specially made standard-tread tires and a destination sign
 - Interior details include worn look seating, open rear boarding deck with a hand pole, ticket bin, fire extinguisher and a half-spiral staircase that leads to the sightseeing deck
+- Measures over 7" (18cm) high, 13" (34cm) long and 5" (13cm) wide
+- This 6174047 is scaled for shelf display alongside other models in the LEGO Creator Expert vehicle series
+- Choose your favorite decade with the miniature, reversible Transit advertising posters, featuring a 1950S or present day London promotion
 
 [Buy it!!](https://www.amazon.com/dp/B073ZMH6F3/?tag=tolees-20)

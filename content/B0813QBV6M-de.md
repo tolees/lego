@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.42 % for LEGO 21054 Architecture Das Weiße Haus  '
-date: 2020-12-24 04:20:33
+date: 2020-12-25 10:12:40
 image: 'https://m.media-amazon.com/images/I/51grYf7UH7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21'
 descuento: '33.42'
-average: '73.37909465020574'
+average: '73.34434426229507'
 ---
 
 You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigkeiten für Erwachsene  Geschenkidee zum Sammeln](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21) with a  33.42 % discount, with final price of 64.9 EUR (original: 97.47 EUR) at the following link:
@@ -26,9 +26,9 @@ You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigk
 ℹ️:
 
 - Das Ausstellungsmodell des Weißen Hauses fängt das neoklassizistische Design und die Pracht dieser weltberühmten Residenz wunderschön ein
-- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
-- Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
-- Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
 - Das Sammlermodell kann zur genaueren Betrachtung der architektonischen Details leicht in drei Abschnitte unterteilt werden
+- Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
+- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
+- Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
 
 [Check the deal!!](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21)
