@@ -25,10 +25,10 @@ With a final price of 19.99 EUR (original: 23.99 EUR) you can find [Lego 10895 D
 
 ℹ️:
 
-- Mit diesem einfach zu bauenden The Lego Movie 2 Spielset für Kleinkinder lassen sich grundlegende Baufertigkeiten spielerisch erlernen
-- Im Zubehör sind eine Schaufel, ein Becher und ein Stoppschild enthalten
-- Fördere die Sprachentwicklung sowie soziale und emotionale Fähigkeiten deines Kindes durch Rollenspiele mit den beliebten Figuren Lucy und Emmet aus The Lego Movie 2
 - Das Set enthält zwei Lego Duplo Figuren: Emmet und Lucy
 - Das Spielset umfasst vier baubare Alien-Eindringlinge aus The Lego Movie 2
+- Fördere die Sprachentwicklung sowie soziale und emotionale Fähigkeiten deines Kindes durch Rollenspiele mit den beliebten Figuren Lucy und Emmet aus The Lego Movie 2
+- Mit diesem einfach zu bauenden The Lego Movie 2 Spielset für Kleinkinder lassen sich grundlegende Baufertigkeiten spielerisch erlernen
+- Im Zubehör sind eine Schaufel, ein Becher und ein Stoppschild enthalten
 
 [Buy it!!](https://www.amazon.de/dp/B07FNSDZCZ/?tag=tolees0ca-21)
