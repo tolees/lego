@@ -25,10 +25,10 @@ You've got [LEGO Architecture Skylines: Tokyo 21051 Building Kit  Collectible Ar
 
 ℹ️:
 
-- The striking LEGO Architecture model of Tokyos distinctive skyline features authentically detailed models of iconic buildings and landmarks, and is a stunning display model for the home or office
 - This authentically detailed set includes a Tokyo nameplate and a booklet with information about Tokyo and the models designer (English language only; other languages can be downloaded at LEGO.com/architecture.)
-- This collectible build-and-display set features buildable models of the Tokyo Tower, Mode Gakuen Cocoon Tower, Tokyo Big Sight, TOKYO SKYTREE, Chidorigafuchi Park, Shibuya Crossing and more!
-- This buildable skyline measures over 11” (28cm) high, 10” (27cm) wide and 3” (10cm) deep, so you dont need a lot of space to display it, but its vibrant colors and authentic details will catch the eye of every passerby!
 - Even new LEGO architects can enjoy this easy-to-build architecture model kit, and it makes a cool creative Japanese-themed gift for adults ages 16+ who are interested in Tokyo
+- This buildable skyline measures over 11” (28cm) high, 10” (27cm) wide and 3” (10cm) deep, so you dont need a lot of space to display it, but its vibrant colors and authentic details will catch the eye of every passerby!
+- This collectible build-and-display set features buildable models of the Tokyo Tower, Mode Gakuen Cocoon Tower, Tokyo Big Sight, TOKYO SKYTREE, Chidorigafuchi Park, Shibuya Crossing and more!
+- The striking LEGO Architecture model of Tokyos distinctive skyline features authentically detailed models of iconic buildings and landmarks, and is a stunning display model for the home or office
 
 [Check the deal!!](https://www.amazon.com/dp/B07WD5XMVX/?tag=tolees-20)
