@@ -25,13 +25,13 @@ With a final price of 94.09 EUR (original: 119.99 EUR) you can find [LEGO 31199 
 
 ℹ️:
 
-- Expón detallados retratos de un emblemático superhéroe con su armadura en tu casa o en la oficina
-- Si lo tuyo es la creatividad y te divierten los proyectos DIY, satisface ambas pasiones a la vez con un set que está esperando que lo crees
-- Sus instrucciones impresas en convierten la construcción en un proceso sencillo y motivador
-- Las piezas LEGO de este set cumplen las normas de calidad más estrictas y funcionan siempre
-- El kit LEGO Art Marvel Studios Iron Man satisface los requisitos de las normas de seguridad más exigentes
-- Crea una obra de arte: combina 3 sets y expón tu diseño
 - Los kits LEGO Art te ofrecen una experiencia de construcción gratificante y satisfactoria
+- El kit LEGO Art Marvel Studios Iron Man satisface los requisitos de las normas de seguridad más exigentes
+- Si lo tuyo es la creatividad y te divierten los proyectos DIY, satisface ambas pasiones a la vez con un set que está esperando que lo crees
+- Crea una obra de arte: combina 3 sets y expón tu diseño
+- Las piezas LEGO de este set cumplen las normas de calidad más estrictas y funcionan siempre
+- Sus instrucciones impresas en convierten la construcción en un proceso sencillo y motivador
+- Expón detallados retratos de un emblemático superhéroe con su armadura en tu casa o en la oficina
 - No requiere pilas: este set pretende, sobre todo, hacerte disfrutar con una relajante experiencia de construcción
 - Disfruta de una envolvente banda sonora mientras construyes, con información detallada sobre la obra
 - Las 3 opciones de construcción hacen de este set una pieza para constructores dispuestos a afrontar un desafío
