@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator Expert London Bus 10258 Bui at 18.34 % discount'
-date: 2020-12-25 09:50:59
+date: 2020-12-26 21:48:34
 image: 'https://m.media-amazon.com/images/I/51v6H0eXdIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,6 @@ With a final price of 114.31 USD (original: 139.99 USD) you can find [LEGO Creat
 
 ℹ️:
 
-- Interior details include worn look seating, open rear boarding deck with a hand pole, ticket bin, fire extinguisher and a half-spiral staircase that leads to the sightseeing deck
-- The London bus comes with an array of brick-built details, including large windows, bright red curved bodywork, panoramic windshield, specially made standard-tread tires and a destination sign
-- Measures over 7" (18cm) high, 13" (34cm) long and 5" (13cm) wide
-- Choose your favorite decade with the miniature, reversible Transit advertising posters, featuring a 1950S or present day London promotion
-- This 6174047 is scaled for shelf display alongside other models in the LEGO Creator Expert vehicle series
+- Celebrate iconic design with this charming double-decker London Bus, featuring a wealth of authentic details, including a bright-red color scheme, panoramic windshield, specially made standard-tread tires, destination sign, and an open rear boarding deck with a hand pole, ticket bin, fire extinguisher and a half-spiral staircase that leads to the upper sightseeing deck. Functions include an opening hood with engine, detailed driver’s cab with a sliding door, and a removable roof and upper deck
 
 [Buy it!!](https://www.amazon.com/dp/B073ZMH6F3/?tag=tolees-20)
