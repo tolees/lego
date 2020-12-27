@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.52 % deal for LEGO Technic - Grúa Todoterreno  Juguete'
-date: 2020-12-25 22:43:15
+date: 2020-12-27 02:38:39
 image: 'https://m.media-amazon.com/images/I/51bwPD6CbQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792RDN2Z/?tag=tolees-21'
 descuento: '18.52'
-average: '213.48116279069768'
+average: '213.58053435114505'
 ---
 
 There's a deal [LEGO Technic - Grúa Todoterreno  Juguete de Construcción  42082 ](https://www.amazon.es/dp/B0792RDN2Z/?tag=tolees-21)  with  18.52 % discount, final price tag of  219.99 EUR (original: 269.99 EUR) here:
@@ -25,15 +25,15 @@ There's a deal [LEGO Technic - Grúa Todoterreno  Juguete de Construcción  4208
 
 ℹ️:
 
-- Posee una combinación de colores en rojo y negro.
-- Abre los compartimentos de almacenamiento para acceder a las cadenas, las herramientas y el extintor.
-- ¡Levanta las secciones de construcción LEGO Technic incluidas y pon a prueba tus habilidades como operario de grúas LEGO!
-- Incluye las siguientes funciones manuales: dirección a las 4 ruedas, tracción a las 4 ruedas, un detallado motor V8 con pistones y ventilador móviles, espejos retrovisores ajustables y una puerta que se abre en la cabina.
 - Set LEGO Technic “2 en 1”: construye también una pilotadora móvil.
-- Este set LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante.
-- Selecciona la sección superior o inferior de la grúa para controlar al detalle un gran número de funciones motorizadas de fácil uso. Baja las patas estabilizadoras, gira la superestructura a 360°, acciona el gancho de izado, ¡o alarga el brazo extensible hasta un metro en el aire!
-- Incorpora un gran motor LEGO Power Functions para controlar las funciones superior e inferior de la grúa.
-- La grúa LEGO Technic más grande y alta a fecha de agosto de 2018, con más de 4.050 piezas.
+- Incluye las siguientes funciones manuales: dirección a las 4 ruedas, tracción a las 4 ruedas, un detallado motor V8 con pistones y ventilador móviles, espejos retrovisores ajustables y una puerta que se abre en la cabina.
+- ¡Levanta las secciones de construcción LEGO Technic incluidas y pon a prueba tus habilidades como operario de grúas LEGO!
 - Abre la puerta para acceder a la detallada cabina del operario.
+- Incorpora un gran motor LEGO Power Functions para controlar las funciones superior e inferior de la grúa.
+- Abre los compartimentos de almacenamiento para acceder a las cadenas, las herramientas y el extintor.
+- Selecciona la sección superior o inferior de la grúa para controlar al detalle un gran número de funciones motorizadas de fácil uso. Baja las patas estabilizadoras, gira la superestructura a 360°, acciona el gancho de izado, ¡o alarga el brazo extensible hasta un metro en el aire!
+- Este set LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante.
+- Posee una combinación de colores en rojo y negro.
+- La grúa LEGO Technic más grande y alta a fecha de agosto de 2018, con más de 4.050 piezas.
 
 [Buy it now!!](https://www.amazon.es/dp/B0792RDN2Z/?tag=tolees-21)
