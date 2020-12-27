@@ -25,10 +25,10 @@ You've got [LEGO DUPLO - Le train de marchandises  - 10875 - Jeu de Construction
 
 ℹ️:
 
-- Construisez le train de marchandises LEGO DUPLO
 - La dragonne Firstbourne comprend une selle pour figurine amovible avec des rênes, des ailes décorées et repliables avec une fonction de battement, des mâchoires, un cou et des pattes amovibles, et une fonction de coup de queue
-- Le train de marchandises avec les camions de marchandises mesure plus de 10 cm de haut, 47 cm de long et 8 cm de large
-- 105 pièces pour les garçons et filles de 2 à 5 ans
 - Les jouets LEGO DUPLO sont compatibles avec les autres ensembles de construction DUPLO pour une construction créative
+- 105 pièces pour les garçons et filles de 2 à 5 ans
+- Construisez le train de marchandises LEGO DUPLO
+- Le train de marchandises avec les camions de marchandises mesure plus de 10 cm de haut, 47 cm de long et 8 cm de large
 
 [Check the deal!!](https://www.amazon.fr/dp/B0765CFDRH/?tag=tolees0d-21)
