@@ -25,15 +25,15 @@ You've got [LEGO 51515 Mindstorms Robot Inventor y Kit de Robótica  Juguete Int
 
 ℹ️:
 
-- Este sensacional juguete incluye una batería recargable fácil de instalar, así que no tendrás que ponerte a buscar pilas por toda la casa cuando la diversión esté a punto de comenzar
+- Los ladrillos para construir LEGO llevan cumpliendo las normas más estrictas del sector desde 1958; por eso ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan fácilmente una y otra vez
 - Los elementos y ladrillos LEGO se someten a rigurosas pruebas destinadas a garantizar que satisfagan los requisitos de las normas de seguridad y calidad más exigentes para que puedas tener la certeza de que estos juguetes electrónicos no se desarmarán durante el desempeño de una misión
 - Robot Inventor es el siguiente gran paso que hará avanzar y disfrutar a fans de LEGO BOOST y niños que adoran construir con LEGO y jugar con robots; También es un regalo fantástico para jóvenes constructores a partir de 10 años por su cumpleaños, por Navidad o en cualquier otra ocasión
-- Con casi 1000 piezas, entre ellas un Hub inteligente, 4 motores medianos, un sensor de color y un sensor de distancia con interfaz de interconexión, los peques también podrán construir divertidos juguetes robóticos de su invención y compartirlos en línea en LEGO Life
-- Los ladrillos para construir LEGO llevan cumpliendo las normas más estrictas del sector desde 1958; por eso ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan fácilmente una y otra vez
-- Los niños podrán construir a Charlie, Tricky, Blast, M.V.P. y Gelo, así como realizar actividades y participar en misiones con la app LEGO MINDSTORMS Robot Inventor basada en Scratch
 - La app de programación gratuita LEGO MINDSTORMS Robot Inventor para niños incluye una interfaz basada en Scratch, instrucciones de construcción digitales, más de 50 actividades y compatibilidad con Python para programadores más avanzados
 - Con el set LEGO MINDSTORMS Robot Inventor (51515), los peques adquieren habilidades STEM esenciales mientras construyen, programan y juegan con creaciones inteligentes y robots teledirigidos que disparan misiles, juegan a la pelota, conducen, y mucho más
 - LEGO MINDSTORMS motiva a los inventores LEGO de todas las edades con inspiradores proyectos para construir, programar y controlar robots interactivos de juguete y otras creaciones con ladrillos, motores, sensores y Hubs inteligentes que podrán compartir después con la comunidad de MINDSTORMS
+- Los niños podrán construir a Charlie, Tricky, Blast, M.V.P. y Gelo, así como realizar actividades y participar en misiones con la app LEGO MINDSTORMS Robot Inventor basada en Scratch
+- Con casi 1000 piezas, entre ellas un Hub inteligente, 4 motores medianos, un sensor de color y un sensor de distancia con interfaz de interconexión, los peques también podrán construir divertidos juguetes robóticos de su invención y compartirlos en línea en LEGO Life
+- Este sensacional juguete incluye una batería recargable fácil de instalar, así que no tendrás que ponerte a buscar pilas por toda la casa cuando la diversión esté a punto de comenzar
 - Blast mide aproximadamente 36 cm de altura y Gelo mide aproximadamente 24 cm de longitud; Los componentes Powered Up de este set también son compatibles con los sets LEGO BOOST Caja de Herramientas Creativas (17101), Comandante Droide (75253) y otros modelos
 
 [Check the deal!!](https://www.amazon.es/dp/B082WD5YV9/?tag=tolees-21)
