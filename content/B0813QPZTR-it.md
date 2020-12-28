@@ -25,11 +25,11 @@ You've got [LEGO City Airport Sfida Aerea  2 Elicotteri Giocattolo Volanti e Aer
 
 ℹ️:
 
-- Include le Instructions PLUS fornite nell’app LEGO Building Instructions
-- I bambini adoreranno lanciare i fantastici elicotteri dotati di ripcord
 - Gara aerea con elicotteri volanti, un aereo acrobatico e divertenti piloti
-- I playset LEGO City Aeroporto stimolano il gioco di ruolo, la fantasia e la creatività
 - Non richiede batterie. Alimentato dalle vivide immaginazioni dei bambini
 - Introduci i bambini nel mondo di LEGO City con il playset della Sfida aerea
+- I bambini adoreranno lanciare i fantastici elicotteri dotati di ripcord
+- Include le Instructions PLUS fornite nell’app LEGO Building Instructions
+- I playset LEGO City Aeroporto stimolano il gioco di ruolo, la fantasia e la creatività
 
 [Check the deal!!](https://www.amazon.it/dp/B0813QPZTR/?tag=tolees00-21)
