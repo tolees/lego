@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 32.30 % for LEGO 71711 NINJAGO Jays Cyber-Drache Mec'
-date: 2020-12-26 17:34:30
+date: 2020-12-28 17:37:12
 image: 'https://m.media-amazon.com/images/I/515qxUYoUkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ You've got [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifigure
 
 ℹ️:
 
-- Die beiden Ninjas können im Cockpit dieses fantastischen Drachen-Mechs reiten und Geschütze benutzen, um das wertvolle Key-Tana zu ergattern
-- Verfügt über einen detaillierten Mech-Drachen mit beweglicher Taille, beweglichem Kopf, beweglichen Gliedmaßen, beweglichem Schwanz und beweglichem Kiefer, der mit seinen Geschützen Raketen abfeuern kann
-- Kinder werden es lieben, mit Unagami, Hausner und Richie auf ihren Hoverboards zu kämpfen, während sie sich mit Digi-Ninjas und Mech-Drachen zusammentun
-- Beinhaltet 5 Minifiguren, die im Prime Empire-Spiel auftreten: Digi Jay, Nya, den Hauptschurken Unagami und seine Handlanger Richie und Hausner
-- Enthält Gesundheitstafeln und eine aufregende Auswahl an neuen Rüstungen und Waffen von Prime Empire sowie das sammelbare grüne Key-Tana mit einer Halterung
+- Kids will love to fight powerful Unagami plus Hausner and Richie on their hoverboards while teaming up with Digi ninjas and mech dragon
+- The 2 ninjas can ride in the cockpit of this awesome Dragon Mech while firing from its spring shooters to keep hold of the valuable Key-Tana
+- Includes five minifigures fighting within the Prime Empire game: Digi Jay, Nya, the main villain Unagami and his henchmen Richie and Hausner
+- Features a detailed mech dragon with posable waist, head, limbs, tail and jaws, that can fire missiles from its spring-loaded shooters
+- Includes health boards and an exciting array of new armour and weapons from Prime Empire, plus collectible green Key-Tana with a holder
 
 [Check the deal!!](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
