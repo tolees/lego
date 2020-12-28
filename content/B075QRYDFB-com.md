@@ -25,10 +25,10 @@ You've got [LEGO Classic Blue Baseplate 10714 Building Kit  1 Piece ](https://ww
 
 ℹ️:
 
+- 1 piece – For boys and girls between the ages of 4 and 99
 - LEGO Classic construction toys are compatible with all LEGO construction sets for creative building
 - This Blue LEGO building plate facilitates a world of creativity for kids
-- 1 piece – For boys and girls between the ages of 4 and 99
-- Build a seaside town, ship on the high seas or whatever you can imagine on this Blue LEGO Baseplate!
 - Measures 32x32 studs or 10 (25cm) square
+- Build a seaside town, ship on the high seas or whatever you can imagine on this Blue LEGO Baseplate!
 
 [Check the deal!!](https://www.amazon.com/dp/B075QRYDFB/?tag=tolees-20)
