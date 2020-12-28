@@ -25,10 +25,10 @@ You've got [LEGO 71711 NINJAGO Jays Cyber-Drache Mech  Bauset mit den Minifigure
 
 ℹ️:
 
-- Includes five minifigures fighting within the Prime Empire game: Digi Jay, Nya, the main villain Unagami and his henchmen Richie and Hausner
-- Features a detailed mech dragon with posable waist, head, limbs, tail and jaws, that can fire missiles from its spring-loaded shooters
-- The 2 ninjas can ride in the cockpit of this awesome Dragon Mech while firing from its spring shooters to keep hold of the valuable Key-Tana
-- Includes health boards and an exciting array of new armour and weapons from Prime Empire, plus collectible green Key-Tana with a holder
 - Kids will love to fight powerful Unagami plus Hausner and Richie on their hoverboards while teaming up with Digi ninjas and mech dragon
+- The 2 ninjas can ride in the cockpit of this awesome Dragon Mech while firing from its spring shooters to keep hold of the valuable Key-Tana
+- Features a detailed mech dragon with posable waist, head, limbs, tail and jaws, that can fire missiles from its spring-loaded shooters
+- Includes five minifigures fighting within the Prime Empire game: Digi Jay, Nya, the main villain Unagami and his henchmen Richie and Hausner
+- Includes health boards and an exciting array of new armour and weapons from Prime Empire, plus collectible green Key-Tana with a holder
 
 [Check the deal!!](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)
