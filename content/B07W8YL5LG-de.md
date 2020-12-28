@@ -25,10 +25,10 @@ There's a deal [LEGO 42102 Technic Mini CLAAS XERION Traktor & Feldhäcksler  2-
 
 ℹ️:
 
+- Der Traktor enthält eine funktionierende Lenkung und ein von den Rädern angetriebenes Rotationsschneidewerk, genau wie ein echter Traktor
 - Das zwei -in-1-Design erlaubt das Mini CLAAS XERION Traktorspielzeug zum Feldhäcksler umzubauen. Es wird in der legendären Lackierung in den Farben Grün, Rot und Grau gehalten
 - Das in der kostenlosen LEGO Life App für Smartphones und Tablets verfügbare digitale Anleitung Instructions PLUS enthält Funktionen zum Heranzoomen, Drehen und Anzeigen der digitalen Modellansicht, um das Bauen zu erleichtern
-- Wenn die Ernte eingebracht werden soll, können Kinder den Traktor zu einem Feldhäcksler umbauen
 - LEGO Technic Bauspielzeug ist ideal für die Entwicklung von technischen Fähigkeiten und ist mit allen LEGO Bausätzen für kreatives Bauen kompatibel
-- Der Traktor enthält eine funktionierende Lenkung und ein von den Rädern angetriebenes Rotationsschneidewerk, genau wie ein echter Traktor
+- Wenn die Ernte eingebracht werden soll, können Kinder den Traktor zu einem Feldhäcksler umbauen
 
 [Buy it now!!](https://www.amazon.de/dp/B07W8YL5LG/?tag=tolees0ca-21)
