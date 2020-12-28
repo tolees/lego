@@ -25,10 +25,10 @@ With a final price of 69.9 EUR (original: 89.99 EUR) you can find [LEGO Disney P
 
 ℹ️:
 
-- Contiene un castillo de 3 plantas, con salón del trono, dormitorio y desván, un puesto de pan y un puesto de pescado con un pequeño embarcadero y un bote con sus remos
 - Incluye minipersonajes de Elsa, Anna y Kristoff, así como 3 figuras LEGO de animales: un gato y 2 pájaros
+- Contiene un castillo de 3 plantas, con salón del trono, dormitorio y desván, un puesto de pan y un puesto de pescado con un pequeño embarcadero y un bote con sus remos
+- Los muebles se han diseñado para que los puedas mover de una estancia a otra y combinarlos fácilmente
 - Accesorios incluidos: un retrato con caballete, un cofre del tesoro, una corona, un telescopio, un busto con pedestal, una pajarera, una farola, una caja de regalo, entre otros
 - Al ser modular, las 3 plantas se pueden quitar y volver a montar: así, tu peque y sus amigas pueden jugar en el interior de distintas partes del castillo a la vez
-- Los muebles se han diseñado para que los puedas mover de una estancia a otra y combinarlos fácilmente
 
 [Buy it!!](https://www.amazon.es/dp/B07ND9RDRV/?tag=tolees-21)
