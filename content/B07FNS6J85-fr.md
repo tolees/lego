@@ -25,12 +25,12 @@ There's a deal [LEGO® Star Wars™ Chasseur stellaire X-Wing™ de la tranchée
 
 ℹ️:
 
-- Les ensembles LEGO Star Wars sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- 132 pièces pour les filles et les garçons de 4 ans et plus
-- Inclut 2 figurines LEGO Star Wars : Luke Skywalker avec son costume de pilote X-wing et un Stormtrooper, ainsi qu’une figurine LEGO de R2-D2
 - Issu de lunivers des films Star Wars
+- 132 pièces pour les filles et les garçons de 4 ans et plus
 - Construisez le Chasseur stellaire X-Wing et rejouez d’inoubliables aventures spatiales LEGO Star Wars
-- Le X-wing LEGO Star Wars mesure plus de 9 cm de haut, 15 cm de long et 18 cm de large
 - Les ensembles LEGO 4+ sont spécialement conçus pour être amusants et faciles pour les jeunes enfants Cela permet de les aider à développer leur confiance en eux avec des instructions de montage simples pour une entrée en douceur dans la construction en briques LEGO
+- Les ensembles LEGO Star Wars sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Inclut 2 figurines LEGO Star Wars : Luke Skywalker avec son costume de pilote X-wing et un Stormtrooper, ainsi qu’une figurine LEGO de R2-D2
+- Le X-wing LEGO Star Wars mesure plus de 9 cm de haut, 15 cm de long et 18 cm de large
 
 [Buy it now!!](https://www.amazon.fr/dp/B07FNS6J85/?tag=tolees0d-21)
