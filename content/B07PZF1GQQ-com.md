@@ -25,10 +25,10 @@ There's a deal [LEGO Disney Frozen II Enchanted Treehouse 41164 Toy Treehouse Bu
 
 ℹ️:
 
-- Kids can build the LEGO Disney Frozen II Enchanted Treehouse building kit over and over again for endless imaginative play. Plus, this set fits with any other original LEGO sets or LEGO building bricks.
-- This 302-piece treehouse playset measures over 7-inch (20cm) high, 9-inch (25cm) wide and 7-inch (20cm) deep; plus, it makes the perfect Christmas present or birthday gift for boys and girls.
-- Frozen fans can take on new adventures with this build and play LEGO treehouse toy featuring 3 Frozen II characters, Anna, Olaf and Mattias. This Frozen set lets kids explore the enchanted forest and discover mythical ancient stones.
-- This toy treehouse kit includes Olaf, Mattias and Anna mini-doll figures with a LEGO bunny figure for hours of creative play. Kids wont want to stop creating as they discover the zip line, flying fish toy function and mythical stones.
 - This cool toy building set will take boys and girls aged 6+ on endless Frozen adventures as they explore the miniature tree trunk bedroom and upstairs miniature dining room. Plus, this set includes camping and fishing areas
+- Frozen fans can take on new adventures with this build and play LEGO treehouse toy featuring 3 Frozen II characters, Anna, Olaf and Mattias. This Frozen set lets kids explore the enchanted forest and discover mythical ancient stones.
+- Kids can build the LEGO Disney Frozen II Enchanted Treehouse building kit over and over again for endless imaginative play. Plus, this set fits with any other original LEGO sets or LEGO building bricks.
+- This toy treehouse kit includes Olaf, Mattias and Anna mini-doll figures with a LEGO bunny figure for hours of creative play. Kids wont want to stop creating as they discover the zip line, flying fish toy function and mythical stones.
+- This 302-piece treehouse playset measures over 7-inch (20cm) high, 9-inch (25cm) wide and 7-inch (20cm) deep; plus, it makes the perfect Christmas present or birthday gift for boys and girls.
 
 [Buy it now!!](https://www.amazon.com/dp/B07PZF1GQQ/?tag=tolees-20)

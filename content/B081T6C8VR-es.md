@@ -25,11 +25,11 @@ There's a deal [Lego Marvel Super Heroes 2 - Edición Exclusiva Amazon - Nintend
 
 ℹ️:
 
-- Competitivo para cuatro jugadores; en el modo lucha, hasta cuatro jugadores podrán elegir a sus héroes favoritos de Marvel para poder enfrentarse entre ellos
-- Diversidad de personajes y localizaciones; los jugadores podrán disfrutar de gran cantidad de super héroes de marvel, como Thor, Hulk, Spiderman o Los Guardianes de la Galaxia entre otros, y además con distintas apariencias dependiendo de la época en la que se encuentren
-- Mucho humor; como es habitual en los juegos de LEGO, el humor característico de la compañía estará presente en esta entrega
-- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
-- DLC Classic Guardians of the Galaxy Character Pack; antes de Star-Lord, Gamora, Drax, Rocket y Groot, otro equipo operaba bajo el nombre Guardianes de la Galaxia; añade a los Guardianes Clásicos de la Galaxia a tu lista; este Pack de personajes incluye a: Charlie-27 Major Astro Martinex Yondu Starhawk Aleta Ogord Nikki
 - Una aventura completamente nueva del Universo Marvel; los jugadores se sumergirán en una nueva y y excitante aventura que continúa desde donde lo dejó la primera entrega, en un relato original que transporta a los jugadores a un mundo único de LEGO, el cual ofrece horas y horas de una experiencia de juego épica
+- Competitivo para cuatro jugadores; en el modo lucha, hasta cuatro jugadores podrán elegir a sus héroes favoritos de Marvel para poder enfrentarse entre ellos
+- DLC Classic Guardians of the Galaxy Character Pack; antes de Star-Lord, Gamora, Drax, Rocket y Groot, otro equipo operaba bajo el nombre Guardianes de la Galaxia; añade a los Guardianes Clásicos de la Galaxia a tu lista; este Pack de personajes incluye a: Charlie-27 Major Astro Martinex Yondu Starhawk Aleta Ogord Nikki
+- Diversidad de personajes y localizaciones; los jugadores podrán disfrutar de gran cantidad de super héroes de marvel, como Thor, Hulk, Spiderman o Los Guardianes de la Galaxia entre otros, y además con distintas apariencias dependiendo de la época en la que se encuentren
+- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- Mucho humor; como es habitual en los juegos de LEGO, el humor característico de la compañía estará presente en esta entrega
 
 [Buy it now!!](https://www.amazon.es/dp/B081T6C8VR/?tag=tolees-21)
