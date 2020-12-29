@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.98 % deal for Lego Super Heroes Tri-Pack 3 Sets Includ'
-date: 2020-12-26 03:57:19
+date: 2020-12-28 22:50:42
 image: 'https://m.media-amazon.com/images/I/51GbjWEjGFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ There's a deal [Lego Super Heroes Tri-Pack 3 Sets Included: Iron Man  Thanos  & 
 ℹ️:
 
 - 3 Sets included: Iron Man, Thanos, & Spider-Man 452 Total Pieces
-- Iron Man 148 pieces , Thanos 152 pieces , Spider-Man 152 pieces
 - Recommended Ages: 6+ Years
+- Iron Man 148 pieces , Thanos 152 pieces , Spider-Man 152 pieces
 
 [Buy it now!!](https://www.amazon.com/dp/B08FBTPVYN/?tag=tolees-20)
