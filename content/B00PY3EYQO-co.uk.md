@@ -25,10 +25,10 @@ You've got [LEGO 10698 Classic Large Creative Brick Box Construction Set  Toy St
 
 ℹ️:
 
-- Contains 790 pieces, including eight different types of windows and doors with eight different frames
 - Build your own buildings and more with this collection of LEGO bricks in 33 different colours
-- All models pictured can be built from this set simultaneously
+- Contains 790 pieces, including eight different types of windows and doors with eight different frames
 - Special pieces also include two different sized green baseplates, three sets of eyes, six tires and six wheel rims
 - LEGO Classic are compatible with all LEGO construction sets for creative building
+- All models pictured can be built from this set simultaneously
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=tolees0a-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75968 Harry Potter 4 Privet Drive H at 18.53 % discount'
-date: 2020-12-22 15:07:41
+date: 2020-12-30 11:09:19
 image: 'https://m.media-amazon.com/images/I/51Zs1j74l9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV7Y/?tag=tolees0a-21'
 descuento: '18.53'
-average: '53.45347457627118'
+average: '53.44508333333333'
 ---
 
 With a final price of 52.95 GBP (original: 64.99 GBP) you can find [LEGO 75968 Harry Potter 4 Privet Drive House Set with Ford Anglia  Dobby Figure and Dursley Family](https://www.amazon.co.uk/dp/B0813QBV7Y/?tag=tolees0a-21) with a  18.53 % discount here:
@@ -25,10 +25,10 @@ With a final price of 52.95 GBP (original: 64.99 GBP) you can find [LEGO 75968 H
 
 ℹ️:
 
+- A secret mechanism allows Hogwarts acceptance letters to fly in through the fireplace, disturbing the familys afternoon cake
+- Complete with Privet Drive sign, Harrys cupboard under the stairs, and Ron flying the Ford Anglia car with opening roof, doors and boot
 - A chain attaches from the car boot to the bedroom window to whisk it and Harry away from the Dursleys and onto further adventures
 - Includes 6 minifigures: Harry Potter, Ron Weasley, Dudley, Petunia and Vernon Dursley and Dobby, plus Hedwig and numerous accessories
 - This detailed replica of the Dursleys 2-storey house has so many features inside and outside to bring the movie location and action to life
-- A secret mechanism allows Hogwarts acceptance letters to fly in through the fireplace, disturbing the familys afternoon cake
-- Complete with Privet Drive sign, Harrys cupboard under the stairs, and Ron flying the Ford Anglia car with opening roof, doors and boot
 
 [Buy it!!](https://www.amazon.co.uk/dp/B0813QBV7Y/?tag=tolees0a-21)
