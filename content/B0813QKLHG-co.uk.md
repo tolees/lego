@@ -27,9 +27,9 @@ You've got [LEGO 31200 Art Star Wars The Sith Collectors DIY Poster  Wall Décor
 
 - With the complementary Soundtrack, you can dive deep into the build with fun Star Wars-related stories and interviews
 - Features 3-in-1 rebuildable portrait set : in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
-- Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, new hanging element and piece separator
-- 1 Picture - 4 options; pictured models can not be built simultaneously
 - This LEGO art piece measures over 15.5 inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be displayed
+- 1 Picture - 4 options; pictured models can not be built simultaneously
 - When combined with another 2 sets to create Darth Vader wall art it makes a great gift for creative builders and Star Wars fans
+- Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, new hanging element and piece separator
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B0813QKLHG/?tag=tolees0a-21)
