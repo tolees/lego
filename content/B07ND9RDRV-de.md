@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41167 Disney Princess Frozen Die Ei al 25.05 % de descuento'
-date: 2020-12-17 13:42:56
+title: 'LEGO 41167 Disney Princess Frozen Die Ei at 25.05 % discount'
+date: 2020-12-31 11:58:42
 image: 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,19 +16,19 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21'
 descuento: '25.05'
-average: '58.275319148936155'
+average: '58.27874999999999'
 ---
 
-Está [LEGO 41167 Disney Princess Frozen Die Eiskönigin 2 Schloss Arendelle  Bauset mit Anna  Elsa und Kristoff Minipuppen  Schloss  Marktständen  Ruderboot sowie Tierfiguren  Spielset für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21) con 25.05 de descuento por 58.44 EUR (original: 77.97 EUR) en el siguiente enlace!
+With a final price of 58.44 EUR (original: 77.97 EUR) you can find [LEGO 41167 Disney Princess Frozen Die Eiskönigin 2 Schloss Arendelle  Bauset mit Anna  Elsa und Kristoff Minipuppen  Schloss  Marktständen  Ruderboot sowie Tierfiguren  Spielset für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21) with a  25.05 % discount here:
 
 [![LEGO 41167 Disney Princess Frozen Die Ei](https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg)](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses LEGO Bauset enthält 521 Teile und bietet Jungen und Mädchen ab 5 Jahren sowie Fans und Kindern jeden Alters großartigen Spielspaß
-- Sobald die Schachtel geöffnet wird, geht der Spaß mit den Figuren aus -Die Eiskönigin 2- los. Außer dem Schloss mit Thronsaal und Schlafzimmer kann man Marktstände und ein Ruderboot bauen
-- Die Bausteine aus dem Bauset -Schloss Arendelle- (41167) von LEGO , Disney "Die Eiskönigin 2" können mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
-- Das Schloss ist 30 cm hoch, 30 cm breit und 12 cm tief. Auch kleine Fans von Anna und Elsa können es eigenständig zusammenbauen und stundenlangen Spaß mit Ihren Lieblingshelden von Disney erleben
-- Baue dieses dreistöckige Disney Schloss und spiele magische Momente aus Disneys -Die Eiskönigin 2- nach. Anschließend kann man die verschiedenen Stockwerke und die Möbel neu anordnen
+- Features a 3-storey castle with throne room, bedroom and attic, baker’s stall, fishmonger’s stall with small dock and a rowing boat with oars
+- The modular style means the 3 storeys can be taken apart and reassembled, making it easy to play inside different parts at the same time
+- Includes Elsa, Anna and Kristoff mini dolls, plus 3 animal figures: a cat and 2 birds, accessories include a fish, crab, broom and a sword
+- Accessory elements include a portrait and easel, treasure chest, crown, telescope, bust with stand, bird house, lamppost, gift box and more
+- Combine with the 41164 Enchanted Treehouse, 41165 Anna’s Canoe Expedition, 41166 Elsa’s Wagon Adventure, 41168 Elsa’s Jewelry Box and 41169 Olaf
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)

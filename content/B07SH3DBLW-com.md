@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars: The Skywalker Saga - Nin at 16.75 % discount'
-date: 2020-12-28 22:13:44
+date: 2020-12-31 11:30:30
 image: 'https://m.media-amazon.com/images/I/51qSzmHz3lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ With a final price of 49.94 USD (original: 59.99 USD) you can find [LEGO Star Wa
 
 ℹ️:
 
-- Play through all nine films in a new, fun filled adventure
 - The galaxy is yours with LEGO Star Wars: The Skywalker Saga, Play all nine saga films and experience fun filled adventure in a galaxy far, far away
+- Play through all nine films in a new, fun filled adventure
 
 [Buy it!!](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20)
