@@ -25,10 +25,10 @@ You've got [LEGO: El Hobbit](https://www.amazon.es/dp/B00IKLZERK/?tag=tolees-21)
 
 ℹ️:
 
+- Plataforma del juego: PlayStation 4
 - Tipo de producto: videojuego de acción y aventura
 - El jugador puede mover a lo largo de diferentes eventos en los diferentes personajes
-- El juego viene con una una función donde el usuario debe localizar materiales específicos para construir un objeto de Lego grande
 - El juego está compuesto por un gran mapa, en lugar de un único centro
-- Plataforma del juego: PlayStation 4
+- El juego viene con una una función donde el usuario debe localizar materiales específicos para construir un objeto de Lego grande
 
 [Check the deal!!](https://www.amazon.es/dp/B00IKLZERK/?tag=tolees-21)
