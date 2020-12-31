@@ -25,10 +25,10 @@ With a final price of 15.05 EUR (original: 19.49 EUR) you can find [LEGO 60248 C
 
 ℹ️:
 
-- Das Zubehör umfasst Feuerflammen, Ölfässer, eine Axt, eine Schweißmaske und Ausrüstung sowie Feuerlöscher für viele Rollenspielszenarios
 - Enthält einen Hubschrauber mit Zugriemen, der wirklich fliegt, ein Quad und ein Rohr mit Flammen , das von mutigen Feuerwehrleuten gelöscht werden kann
-- Enthält drei Minifiguren: einen Top-Feuerwehrpiloten, einen unfallanfälligen Arbeiter und Freya McCloud, die Feuerwehrchefin von City TV
-- Dieses Feuerwehrbauset erfordert grundlegende Fähigkeiten, um erstmalige Baumeister zu ermutigen und gleichzeitig andere LEGO-Sets zu erweitern
 - Kinder werden an dem Zugriemen ziehen, um den neuen Überwachungshubschrauber in die Luft zu bringen und mit dem Quad schnell zur Rettung zu fahren
+- Dieses Feuerwehrbauset erfordert grundlegende Fähigkeiten, um erstmalige Baumeister zu ermutigen und gleichzeitig andere LEGO-Sets zu erweitern
+- Das Zubehör umfasst Feuerflammen, Ölfässer, eine Axt, eine Schweißmaske und Ausrüstung sowie Feuerlöscher für viele Rollenspielszenarios
+- Enthält drei Minifiguren: einen Top-Feuerwehrpiloten, einen unfallanfälligen Arbeiter und Freya McCloud, die Feuerwehrchefin von City TV
 
 [Buy it!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21)
