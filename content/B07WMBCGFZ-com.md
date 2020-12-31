@@ -25,10 +25,10 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Technic
 
 ℹ️:
 
-- When built, the LEGO Dragster measures over 12” (32cm) long, 4” (12cm) high and 3” (10cm) wide, making this building toy just the right size for race-day role-play
 - Kids can learn how a dragster works, then lock in the wheelie bar to perform heart-pumping wheelies, or attempt to win the speed record!
-- Pull back and release, it really is that simple; even young racers will be able to recreate the thrill and speed of race day, and they can rebuild their Dragster into a pull-back LEGO Hot Rod!
 - This 2-in-1 LEGO Technic car racing toy sparks imagination, offers endless build-and-play fun, and is a creativity-filled holiday, birthday or anyday gift for kids ages 7+ who like building challenges, hot rods and pull-back toy cars
+- Pull back and release, it really is that simple; even young racers will be able to recreate the thrill and speed of race day, and they can rebuild their Dragster into a pull-back LEGO Hot Rod!
 - It’s always race day with this 2-in-1 LEGO Technic Dragster pull-back toy car that rebuilds into a cool Hot Rod!
+- When built, the LEGO Dragster measures over 12” (32cm) long, 4” (12cm) high and 3” (10cm) wide, making this building toy just the right size for race-day role-play
 
 [Buy it!!](https://www.amazon.com/dp/B07WMBCGFZ/?tag=tolees-20)
