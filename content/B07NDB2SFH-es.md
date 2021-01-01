@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 26.17 % for LEGO Star Wars TM - Yoda  Set de constru'
-date: 2020-12-31 05:59:05
+date: 2021-01-01 10:59:57
 image: 'https://m.media-amazon.com/images/I/5173mjtoTnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
 descuento: '26.17'
-average: '94.7630678466077'
+average: '94.705219941349'
 ---
 
 You've got [LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 ](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) with a  26.17 % discount, with final price of 84.9 EUR (original: 114.99 EUR) at the following link:
