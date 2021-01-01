@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® Speed Champions Mini Cooper Rally  at 28.22 % discount'
-date: 2020-12-30 17:30:58
+date: 2020-12-31 23:26:43
 image: 'https://m.media-amazon.com/images/I/516iOLM7eJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FNTMWMT/?tag=tolees0d-21'
 descuento: '28.22'
-average: '45.75115555555555'
+average: '45.75907488986784'
 ---
 
 With a final price of 46.65 EUR (original: 64.99 EUR) you can find [LEGO® Speed Champions Mini Cooper Rally 1967 et Mini John Cooper Works Buggy 2018 8 Ans et Plus  481 Pièces 75894](https://www.amazon.fr/dp/B07FNTMWMT/?tag=tolees0d-21) with a  28.22 % discount here:

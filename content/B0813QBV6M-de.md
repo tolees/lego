@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.42 % for LEGO 21054 Architecture Das Weiße Haus  '
-date: 2020-12-30 23:14:28
+date: 2020-12-31 23:35:04
 image: 'https://m.media-amazon.com/images/I/51grYf7UH7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21'
 descuento: '33.42'
-average: '73.07626984126982'
+average: '73.01188976377951'
 ---
 
 You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigkeiten für Erwachsene  Geschenkidee zum Sammeln](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21) with a  33.42 % discount, with final price of 64.9 EUR (original: 97.47 EUR) at the following link:
@@ -25,10 +25,10 @@ You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigk
 
 ℹ️:
 
-- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
 - Das Sammlermodell kann zur genaueren Betrachtung der architektonischen Details leicht in drei Abschnitte unterteilt werden
-- Das Ausstellungsmodell des Weißen Hauses fängt das neoklassizistische Design und die Pracht dieser weltberühmten Residenz wunderschön ein
-- Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
 - Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
+- Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
+- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
+- Das Ausstellungsmodell des Weißen Hauses fängt das neoklassizistische Design und die Pracht dieser weltberühmten Residenz wunderschön ein
 
 [Check the deal!!](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21)
