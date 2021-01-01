@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 31100 Creator 3-in-1 Sportwagen-  H al 35.42 % de descuento'
-date: 2020-11-30 09:18:39
+title: 'LEGO 31100 Creator 3-in-1 Sportwagen-  H at 35.42 % discount'
+date: 2021-01-01 12:52:19
 image: 'https://m.media-amazon.com/images/I/5129mjnW5HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21'
 descuento: '35.42'
+average: '6.694615384615385'
 ---
 
-Está [LEGO 31100 Creator 3-in-1 Sportwagen-  Hot Rod-  Flieger-Bauset  Spielzeuge für Jungen und Mädchen ab 7 Jahren](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21) con 35.42 de descuento por 6.29 EUR (original: 9.74 EUR) en el siguiente enlace!
+With a final price of 6.29 EUR (original: 9.74 EUR) you can find [LEGO 31100 Creator 3-in-1 Sportwagen-  Hot Rod-  Flieger-Bauset  Spielzeuge für Jungen und Mädchen ab 7 Jahren](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21) with a  35.42 % discount here:
 
 [![LEGO 31100 Creator 3-in-1 Sportwagen-  H](https://m.media-amazon.com/images/I/5129mjnW5HL._SL200_.jpg)](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Der rot-schwarze Sportwagen hat einen schwarzen hinteren Motor mit Saugrohr und einen Spoiler auf dem Heck sowie 2 Auspuffrohre. Alle Modelle sind rot-schwarz-grau
+- Das Creator 3-in-1-Set bietet Kindern gleich 3 Bauoptionen: Sie können einen Sportwagen, einen Hot Rod oder einen historischen Flieger bauen
+- Dieses faszinierende Spielzeug ist kompakt genug, um es überall mitzunehmen, und groß genug, um eine Minifigur (nicht enthalten) unterzubringen. Einfache Bauanleitungen sind enthalten
+- LEGO Creator 3-in-1-Sets bieten drei verschiedene Bau- und Spielerlebnisse mit eigenständigen Modellen zum Bauen, Spielen und Wiederaufbauen
+- Der Hot-Rod ist mit breiten, spurstabilen Raupenreifen, einer vorderen Lufthutze und einem Kühlergrill sowie einem Mittelmotor ausgestattet und das Flugzeug verfügt über zwei Motoren
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21)
