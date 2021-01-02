@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % deal for LEGO Technic 42096 Porsche 911 RSR Race '
-date: 2020-12-31 17:57:09
+date: 2021-01-01 23:31:49
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21'
 descuento: '20.01'
-average: '112.04035242290747'
+average: '112.04008771929823'
 ---
 
 There's a deal [LEGO Technic 42096 Porsche 911 RSR Race Car Advanced Building Set  Exclusive Collectible Model](https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21)  with  20.01 % discount, final price tag of  111.98 GBP (original: 139.99 GBP) here:
@@ -25,10 +25,10 @@ There's a deal [LEGO Technic 42096 Porsche 911 RSR Race Car Advanced Building Se
 
 ℹ️:
 
-- Realistic details include aerodynamic bodywork, black spoked rims, working differential, working steering, independent suspension and a six-cylinder boxer engine with moving pistons
 - This LEGO Technic Porsche 911 RSR 42096 set can be built together with all other original LEGO sets and LEGO bricks for creative building
-- 1580 pieces – Porsche 911 RSR model car measures over 5 Inch (13 cm) high, 19 Inch (50 cm) long and 7 Inch (20 cm) wide
 - Exclusive LEGO Technic replica of the Porsche 911 RSR sports car for boys and girls aged 10+ and for fans of all ages
+- Realistic details include aerodynamic bodywork, black spoked rims, working differential, working steering, independent suspension and a six-cylinder boxer engine with moving pistons
 - Build and explore the LEGO Technic Porsche 911 RSR - an icon of innovative engineering and design
+- 1580 pieces – Porsche 911 RSR model car measures over 5 Inch (13 cm) high, 19 Inch (50 cm) long and 7 Inch (20 cm) wide
 
 [Buy it now!!](https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21)
