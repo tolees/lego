@@ -25,10 +25,10 @@ With a final price of 81.6 EUR (original: 97.47 EUR) you can find [LEGO 60228 Ci
 
 ℹ️:
 
-- Das von der NASA inspirierte LEGO City Set „Weltraumrakete mit Kontrollzentrum“ kann zusammen mit allen anderen LEGO Sets und LEGO Steinen verwendet werden.
-- Baue eine mehrstufige Rakete und ein Kontrollzentrum, sowie ein Einschienenbahnsystem, damit die Astronauten vom Kontrollzentrum zum Trainingsgelände und zur Rakete gelangen
 - Die Rakete ist 42 cm hoch, 11 cm breit und 6 cm tief. Das Kontrollzentrum ist im geschlossenen Zustand 18 cm hoch, 13 cm breit und 13 cm tief
-- 837 Teile – Von der NASA inspiriertes Spielzeug für Mädchen und Jungen ab 7 Jahren, für Fans und für Kinder jeden Alters.
 - Enthält LEGO City Minifiguren: 2 Astronauten, 2 Wissenschaftler, den Startdirektor, einen Techniker des Bodenpersonals, eine Roboterfigur und einen Rover mit beweglichem Greifarm
+- Baue eine mehrstufige Rakete und ein Kontrollzentrum, sowie ein Einschienenbahnsystem, damit die Astronauten vom Kontrollzentrum zum Trainingsgelände und zur Rakete gelangen
+- 837 Teile – Von der NASA inspiriertes Spielzeug für Mädchen und Jungen ab 7 Jahren, für Fans und für Kinder jeden Alters.
+- Das von der NASA inspirierte LEGO City Set „Weltraumrakete mit Kontrollzentrum“ kann zusammen mit allen anderen LEGO Sets und LEGO Steinen verwendet werden.
 
 [Buy it!!](https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21)
