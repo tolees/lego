@@ -26,8 +26,8 @@ You've got [LEGO City Space Mars Research Shuttle 60226 Space Shuttle Toy Buildi
 ℹ️:
 
 - Includes 2 LEGO City Mars astronaut minifigures, plus a helidrone and storage drone
-- Research shuttle measures over 3-inch (9cm) high, 9-inch (23cm) long and 8-inch (21cm) wide Mars rover measures over 1-inch (5cm) high, 2-inch (7cm) long and 2-inch (6cm) wide Helidrone measures over 1-inch (4cm) long and 1-inch (3cm) wide Storage drone measures over 1-inch (3cm) high and 1-inch (3cm) long Mars scenery build measures over 1-inch (3cm) wide
 - 273 pieces –Astronaut construction toy for boys and girls aged 5+ and for fans of LEGO toys and kids of all ages
+- Research shuttle measures over 3-inch (9cm) high, 9-inch (23cm) long and 8-inch (21cm) wide Mars rover measures over 1-inch (5cm) high, 2-inch (7cm) long and 2-inch (6cm) wide Helidrone measures over 1-inch (4cm) long and 1-inch (3cm) wide Storage drone measures over 1-inch (3cm) high and 1-inch (3cm) long Mars scenery build measures over 1-inch (3cm) wide
 - Build an exciting space shuttle toy model that offers plenty of imaginative action possibilities and a Mars rover with articulated grappling arm to retrieve geodes!
 - This LEGO City Mars Research Shuttle 60226 outer space toy set makes a great gift for kids and can be built together with all other original LEGO toys and LEGO bricks for more creative play
 

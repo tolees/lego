@@ -25,9 +25,9 @@ You've got [Lego Speed Champions 30342](https://www.amazon.com/dp/B084CWBTCV/?ta
 
 ℹ️:
 
-- Small collectable item, not necessarily suitable as a childs gift
-- LEGO Speed Champions Polybag Set
 - Lamborghini Huracan Super Trofeo EVO
 - Contains 70 pieces including Pull-back motor
+- Small collectable item, not necessarily suitable as a childs gift
+- LEGO Speed Champions Polybag Set
 
 [Check the deal!!](https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20)
