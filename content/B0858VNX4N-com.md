@@ -25,10 +25,10 @@ With a final price of 56.0 USD (original: 69.99 USD) you can find [LEGO Harry Po
 
 ℹ️:
 
-- The house measures over 6” (17cm) high, 6” (16cm) wide and 4” (12cm) deep and the car is over 4” (12cm) long; The large scale and authentic detail make this playset ideal for display as well as hands-on play
-- LEGO Harry Potter 4 Privet Drive (75968) recreates lots of exciting movie scenes, including Harry’s cupboard under the stairs, mail pouring in from the fireplace and Harry’s escape in the flying Ford Anglia
-- Includes 6 minifigures – Harry Potter, Ron Weasley, Dudley Dursley, Vernon Dursley, Petunia Dursley and Dobby – Hedwig the owl, a flying car with opening roof, doors and trunk, plus loads of authentic accessories
 - This dollhouse playset will engage and entertain boys and girls aged 8 and up; The collectible building toy inspires imaginative stories and role-playing games with minifigures and more from the Harry Potter movies
+- LEGO Harry Potter 4 Privet Drive (75968) recreates lots of exciting movie scenes, including Harry’s cupboard under the stairs, mail pouring in from the fireplace and Harry’s escape in the flying Ford Anglia
 - Kids can recreate all the incredible events that happen at the Dursley’s family home in Privet Drive and, with so many minifigures and fun features to inspire them, create endless Harry Potter adventures of their own
+- Includes 6 minifigures – Harry Potter, Ron Weasley, Dudley Dursley, Vernon Dursley, Petunia Dursley and Dobby – Hedwig the owl, a flying car with opening roof, doors and trunk, plus loads of authentic accessories
+- The house measures over 6” (17cm) high, 6” (16cm) wide and 4” (12cm) deep and the car is over 4” (12cm) long; The large scale and authentic detail make this playset ideal for display as well as hands-on play
 
 [Buy it!!](https://www.amazon.com/dp/B0858VNX4N/?tag=tolees-20)
