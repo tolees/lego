@@ -25,12 +25,12 @@ With a final price of 48.0 EUR (original: 64.9 EUR) you can find [LEGO Star Wars
 
 ℹ️:
 
-- El speeder de transporte cuenta con espacio para Rey y BB-8, y lleva una base transparente con la que realmente parece flotar
-- Armas incluidas: espada láser azul de Rey, pistola bláster del piloto de Treadspeeder y bláster del soldado jet
-- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker con este divertido juguete LEGO Star Wars para niños
-- El elemento moldeado que representa un cohete y los propulsores del soldado jet son novedad en octubre de 2019
-- Este set es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
-- El speeder de transporte mide más de 10 cm de altura, 19 cm de longitud y 11 cm de ancho
 - El Treadspeeder tiene un asiento para un soldado, así como una oruga de caucho y 2 cañones laterales que disparan para fomentar el juego simbólico y dar paso a la acción más emocionante
+- El elemento moldeado que representa un cohete y los propulsores del soldado jet son novedad en octubre de 2019
+- Armas incluidas: espada láser azul de Rey, pistola bláster del piloto de Treadspeeder y bláster del soldado jet
+- El speeder de transporte mide más de 10 cm de altura, 19 cm de longitud y 11 cm de ancho
+- El speeder de transporte cuenta con espacio para Rey y BB-8, y lleva una base transparente con la que realmente parece flotar
+- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker con este divertido juguete LEGO Star Wars para niños
+- Este set es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
 
 [Buy it!!](https://www.amazon.es/dp/B07ND6C3RK/?tag=tolees-21)

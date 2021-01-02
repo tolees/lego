@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 31.05 % for Dittzz Kit de LED Lumière pour Blocs De '
-date: 2020-12-31 23:38:13
+date: 2021-01-02 00:03:59
 image: 'https://m.media-amazon.com/images/I/41KI1RgTQ+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ You've got [Dittzz Kit de LED Lumière pour Blocs De Construction  Jeu de Lumiè
 
 ℹ️:
 
-- Matériel: ABS; Surface lisse sans bavures. Insérez fermement sans desserrer
-- Alimentation: alimentée par le boîtier de la batterie, vous devez préparer la batterie vous-même
-- Conception innovante: combinez les blocs de construction avec des lumières colorées pour rendre les blocs de construction plus attrayants
 - Installation simple: Les accessoires déclairage sont faciles à fixer et sont équipés dinstructions électroniques. Veuillez demander au vendeur après lachat de vous aider à installer de manière plus intuitive.
+- Conception innovante: combinez les blocs de construction avec des lumières colorées pour rendre les blocs de construction plus attrayants
+- Alimentation: alimentée par le boîtier de la batterie, vous devez préparer la batterie vous-même
+- Matériel: ABS; Surface lisse sans bavures. Insérez fermement sans desserrer
 - Application:lensemble de lumière est utilisé pour Eclairer LEGO 76896 GT-R NISMO (Les modèles Lego ne sont pas inclus)
 
 [Check the deal!!](https://www.amazon.fr/dp/B0886CXCQ8/?tag=tolees0d-21)
