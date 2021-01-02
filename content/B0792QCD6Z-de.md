@@ -25,10 +25,10 @@ You've got [LEGO Star Wars Imperial AT-Hauler  75219   Star Wars Spielzeug](http
 
 ℹ️:
 
+- Stell die spannenden Szenen aus „Solo: A Star Wars Story“ nach!
 - Enthält 5 LEGO Minifiguren: Qira, Val, Rio Durant und 2 von Drydens Wächtern
+- Die Ausrüstung umfasst 2 Blaster, 3 Blaster-Pistolen und 4 in einem Gestell befestigte Blaster-Gewehre im Container
 - Lässt sich mit den Sets „Cloud-Rider Swoop-Bikes“ (75215) und „Imperial Conveyex Transport“ (75217) kombinieren, um den ultimativen Überfall auf einen Hochgeschwindigkeitszug verüben zu können!
 - Der Transporter verfügt über schwenkbare Hubarme mit beweglichen Haken zum Einklinken, ein aufklappbares Minifiguren Cockpit, seitlich befestigte Shooter und eine unter dem Cockpit befindlich Plattform für den Transport von Minifiguren
-- Die Ausrüstung umfasst 2 Blaster, 3 Blaster-Pistolen und 4 in einem Gestell befestigte Blaster-Gewehre im Container
-- Stell die spannenden Szenen aus „Solo: A Star Wars Story“ nach!
 
 [Check the deal!!](https://www.amazon.de/dp/B0792QCD6Z/?tag=tolees0ca-21)
