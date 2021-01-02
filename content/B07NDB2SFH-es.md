@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 26.17 % for LEGO Star Wars TM - Yoda  Set de constru'
-date: 2021-01-01 10:59:57
+date: 2021-01-02 11:12:03
 image: 'https://m.media-amazon.com/images/I/5173mjtoTnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
 descuento: '26.17'
-average: '94.705219941349'
+average: '94.64804664723034'
 ---
 
 You've got [LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 ](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) with a  26.17 % discount, with final price of 84.9 EUR (original: 114.99 EUR) at the following link:
@@ -26,7 +26,7 @@ You've got [LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de
 ℹ️:
 
 - Este modelo coleccionable inspirado en Star Wars: El Ataque de los Clones es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
-- Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set
 - La figura LEGO Star Wars de Yoda con la espada láser mide más de 41 cm de altura
+- Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set
 
 [Check the deal!!](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21)
