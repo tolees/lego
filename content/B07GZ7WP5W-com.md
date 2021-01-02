@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions McLaren Senna 75892 at 20.01 % discount'
-date: 2020-12-31 11:13:26
+date: 2021-01-02 05:40:44
 image: 'https://m.media-amazon.com/images/I/51OnXKgocWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'com'
 flag: '🇺🇸'
 buyurl: 'https://www.amazon.com/dp/B07GZ7WP5W/?tag=tolees-20'
 descuento: '20.01'
-average: '15.774137931034481'
+average: '15.529999999999998'
 ---
 
 With a final price of 11.99 USD (original: 14.99 USD) you can find [LEGO Speed Champions McLaren Senna 75892 Building Kit  219 Pieces ](https://www.amazon.com/dp/B07GZ7WP5W/?tag=tolees-20) with a  20.01 % discount here:
