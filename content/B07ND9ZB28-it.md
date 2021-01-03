@@ -25,12 +25,12 @@ There's a deal [LEGO Hidden Side Attacco alla Capanna dei Gamberetti  App p
 
 ℹ️:
 
-- Per usufruire dellesperienza della realtà aumentata completa, è necessario utilizzare un tablet o un telefono cellulare, non inclusi
-- Scarica l’app LEGO Hidden Side e scansiona il playset Attacco alla Capanna dei Gamberetti con il telefono per portarlo in vita, muovi il telefono per scoprire l’ambiente in evoluzione
 - Questo esclusivo set contiene un go-kart, la cucina della capanna estremamente dettagliata e una grande insegna che può essere staccata e trasformata in un cartello infestato.
-- I bambini devono chiedere il permesso prima di andare online
-- Costruisci e gioca con il set fisico e poi portalo in vita interagendo con il set mentre lo osservi attraverso la realtà aumentata dell’app
 - Include 6 personaggi: Jack Davids e la minifigure della ragazza Parker L. Jackson con smartphone, lo chef Enzo con due coltelli, Sally con vassoio e tazza, Ronny e il cane fantasma di Davids, Spencer
+- Per usufruire dellesperienza della realtà aumentata completa, è necessario utilizzare un tablet o un telefono cellulare, non inclusi
 - Ambientati a Newbury, i playset LEGO Hidden Side consentono ai bambini di vivere emozionanti avventure combinando i set LEGO con una realtà aumentata interattiva
+- Costruisci e gioca con il set fisico e poi portalo in vita interagendo con il set mentre lo osservi attraverso la realtà aumentata dell’app
+- Scarica l’app LEGO Hidden Side e scansiona il playset Attacco alla Capanna dei Gamberetti con il telefono per portarlo in vita, muovi il telefono per scoprire l’ambiente in evoluzione
+- I bambini devono chiedere il permesso prima di andare online
 
 [Buy it now!!](https://www.amazon.it/dp/B07ND9ZB28/?tag=tolees00-21)
