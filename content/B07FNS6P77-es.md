@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 40.97 % for LEGO La LEGO Película 2 - Se presenta la'
-date: 2021-01-02 00:35:04
+date: 2021-01-03 14:13:39
 image: 'https://m.media-amazon.com/images/I/51n2kr1zh2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNS6P77/?tag=tolees-21'
 descuento: '40.97'
-average: '10.891084337349396'
+average: '10.912470588235292'
 ---
 
 You've got [LEGO La LEGO Película 2 - Se presenta la Reina Soyloque Quiera con un juguete creativo de construcción con las aventuras de Watevra Wa Nabi  70824 ](https://www.amazon.es/dp/B07FNS6P77/?tag=tolees-21) with a  40.97 % discount, with final price of 11.8 EUR (original: 19.99 EUR) at the following link:
@@ -25,13 +25,13 @@ You've got [LEGO La LEGO Película 2 - Se presenta la Reina Soyloque Quiera con 
 
 ℹ️:
 
+- Recrea las escenas de la LEGO PELÍCULA 2 con este creativo set de construcción
 - Reconstruye el caballo para transformar a la metamorfósica reina loque quiera en un montón de ladrillos con 4 expresiones faciales intercambiables
-- Banarnar mide más de 3 cm de altura
+- Accesorios incluidos: 2 juegos de cáliz y bandeja dorados de Susan y esposas para la minifigura la LEGO PELÍCULA 2 de Lucy
 - El caballo con plataforma de la reina loque quiera mide más de 11 cm de altura, 9 cm de longitud y 6 cm de ancho
 - Incluye 5 personajes de la LEGO PELÍCULA 2: modelos para construir de la Reina loque Quiera en forma de caballo y Banarnar, minipersonajes de Dulce Caos y Susan (novedades en enero de 2019), y una minifigura de Lucy (novedad en enero de 2019)
-- Recrea las escenas de la LEGO PELÍCULA 2 con este creativo set de construcción
-- Accesorios incluidos: 2 juegos de cáliz y bandeja dorados de Susan y esposas para la minifigura la LEGO PELÍCULA 2 de Lucy
-- Incluye el arma de Dulce Caos
 - Este divertido juguete para construir cuenta con una plataforma giratoria para la reina loque quiera en forma de caballo
+- Incluye el arma de Dulce Caos
+- Banarnar mide más de 3 cm de altura
 
 [Check the deal!!](https://www.amazon.es/dp/B07FNS6P77/?tag=tolees-21)
