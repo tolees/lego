@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Star Wars: The Rise of Skywalker D-'
-date: 2021-01-02 05:47:38
+date: 2021-01-04 19:31:00
 image: 'https://m.media-amazon.com/images/I/51-07-DNY5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'com'
 flag: '🇺🇸'
 buyurl: 'https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20'
 descuento: '20.00'
-average: '54.80125'
+average: '55.039'
 ---
 
 There's a deal [LEGO Star Wars: The Rise of Skywalker D-O 75278 Building Kit; Collectible Star Wars Character and a Cool Birthday Gift  Holiday Present or Fun Surprise for Any Star Wars Fan  New 2020  519 Pieces ](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)  with  20.00 % discount, final price tag of  55.99 USD (original: 69.99 USD) here:
@@ -25,10 +25,10 @@ There's a deal [LEGO Star Wars: The Rise of Skywalker D-O 75278 Building Kit; Co
 
 ℹ️:
 
-- Fans can build their own collectible model of the lovable D-O droid from the Star Wars: The Rise of Skywalker movie, reproducing authentic details in LEGO style to create a fantastic build-and-display piece
-- The buildable D-O droid measures 10.5” (27cm) high, 4” (10cm) wide and 6” (16cm) deep; It doesnt take up too much space but will make a big impression displayed at home or in the office
-- The model has posable antennas and its head tilts and rotates 360 degrees just like the Star Wars character; It comes with a built-in display stand, plus an information sign and D-O minifigure to delight collectors
 - This cool, 519-piece LEGO Star Wars droid building toy is great fun for creative Star Wars fans aged 10+, and makes the best birthday gift, holiday present or special occasion surprise
+- Fans can build their own collectible model of the lovable D-O droid from the Star Wars: The Rise of Skywalker movie, reproducing authentic details in LEGO style to create a fantastic build-and-display piece
 - This D-O droid build-and-display model is new for May 2020 and makes a delightful addition to any Star Wars fan or LEGO builder’s collection
+- The model has posable antennas and its head tilts and rotates 360 degrees just like the Star Wars character; It comes with a built-in display stand, plus an information sign and D-O minifigure to delight collectors
+- The buildable D-O droid measures 10.5” (27cm) high, 4” (10cm) wide and 6” (16cm) deep; It doesnt take up too much space but will make a big impression displayed at home or in the office
 
 [Buy it now!!](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)
