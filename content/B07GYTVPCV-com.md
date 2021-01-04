@@ -25,10 +25,10 @@ With a final price of 11.99 USD (original: 14.99 USD) you can find [LEGO Speed C
 
 ℹ️:
 
+- Measures over 1-inch (4 cm) high, 5-inch (14cm) long and 1-inch (5cm) wide
+- Build the Chevrolet Camaro ZL1 Race Car featuring a minifigure cockpit with adjustable roll cage, removable windshield and Chevrolet Camaro-branded rims
 - 198 pieces – Stock car toy for boys and girls aged 7+ and for fans and kids of all ages
 - This LEGO Speed Champions Chevrolet Camaro ZL1 Race Car 75891 building toy can be built together with all other original LEGO sets and LEGO toy construction sets for creative play
-- Build the Chevrolet Camaro ZL1 Race Car featuring a minifigure cockpit with adjustable roll cage, removable windshield and Chevrolet Camaro-branded rims
-- Measures over 1-inch (4 cm) high, 5-inch (14cm) long and 1-inch (5cm) wide
 - Includes a Chevy Camaro racing driver minifigure with a helmet and a fuel canister
 
 [Buy it!!](https://www.amazon.com/dp/B07GYTVPCV/?tag=tolees-20)
