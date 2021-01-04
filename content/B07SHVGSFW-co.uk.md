@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'LEGO Ideas Space Rocket Ride Set 40335 at 22.01 % discount'
-date: 2020-12-22 14:48:37
+title: 'LEGO Ideas Space Rocket Ride Set 40335 at 20.48 % discount'
+date: 2021-01-04 00:12:52
 image: 'https://m.media-amazon.com/images/I/51dJjlytLmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07SHVGSFW-co.uk'
-actualPrice: 23.0 GBP
+actualPrice: 23.45 GBP
 currency: GBP
-price: 23.0
+price: 23.45
 comparePrice: 29.49 GBP
 prodname: 'LEGO Ideas Space Rocket Ride Set 40335'
 country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B07SHVGSFW/?tag=tolees0a-21'
-descuento: '22.01'
-average: '26.00916666666667'
+descuento: '20.48'
+average: '26.125714285714288'
 ---
 
-With a final price of 23.0 GBP (original: 29.49 GBP) you can find [LEGO Ideas Space Rocket Ride Set 40335](https://www.amazon.co.uk/dp/B07SHVGSFW/?tag=tolees0a-21) with a  22.01 % discount here:
+With a final price of 23.45 GBP (original: 29.49 GBP) you can find [LEGO Ideas Space Rocket Ride Set 40335](https://www.amazon.co.uk/dp/B07SHVGSFW/?tag=tolees0a-21) with a  20.48 % discount here:
 
 [![LEGO Ideas Space Rocket Ride Set 40335](https://m.media-amazon.com/images/I/51dJjlytLmL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07SHVGSFW/?tag=tolees0a-21)
 
 ℹ️:
 
-- Contains 150 pcs + 1 Minifigure
+- Small collectable item - Not necessarily suitable as a childs gift
 - Space Rocket Ride
 - LEGO Ideas CUUSOO Set
-- Small collectable item - Not necessarily suitable as a childs gift
+- Contains 150 pcs + 1 Minifigure
 
 [Buy it!!](https://www.amazon.co.uk/dp/B07SHVGSFW/?tag=tolees0a-21)
