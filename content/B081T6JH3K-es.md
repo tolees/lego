@@ -26,10 +26,10 @@ You've got [LEGO Marvel Super Heroes - Edición Exclusiva Amazon - PlayStation 4
 ℹ️:
 
 - Deja un reguero de destrucción mientras atraviesas muros o lanzas coches utilizando tu súper fuerza
-- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
 - DLC Asgard Character Pack; contiene 8 nuevos personajes: Odin, Sif, Hogun, Volstagg, Fandral y Jane Foster en el lado del bien, y los elfos Oscuros Malekith y Kurse en el equipo del mal
 - Golpea, esquiva y vuela en el primer juego de LEGO con más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool
 - Crea personajes únicos gracias a las opciones de personalización
 - Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
 
 [Check the deal!!](https://www.amazon.es/dp/B081T6JH3K/?tag=tolees-21)
