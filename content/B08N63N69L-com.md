@@ -25,10 +25,10 @@ There's a deal [Lego Star Wars Advent Calendar 2020 Building Set  Fun Christmas 
 
 ℹ️:
 
+- Open a new ‘door’ each day to reveal the day’s present.
 - Also includes 12 fun mini build toys including the Millennium Falcon, an A-wing, TIE Fighter, X-wing, Droid Control Ship, Anakin’s Podracer and Darth Vader’s Castle
 - This 311-piece advent calendar building set makes a fun holiday gift for kids.
-- Open a new ‘door’ each day to reveal the day’s present.
-- Lego 75279 includes 6 LEGO minifigures and 6 LEGO figures, such as Poe Dameron, Darth Vader and Tauntaun with a red nose, plus a foldout playmat with a Millennium Falcon image for role play.
 - Exclusive Christmas sweater holiday-themed Darth Vader comes with a smile face variant from Episode 6 Final Duel.
+- Lego 75279 includes 6 LEGO minifigures and 6 LEGO figures, such as Poe Dameron, Darth Vader and Tauntaun with a red nose, plus a foldout playmat with a Millennium Falcon image for role play.
 
 [Buy it now!!](https://www.amazon.com/dp/B08N63N69L/?tag=tolees-20)

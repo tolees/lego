@@ -25,10 +25,10 @@ There's a deal [LEGO Friends La gara di Equitazione di Stephanie  Mini-doll
 
 ℹ️:
 
-- Include 2 mini-doll: Stephanie e Zack, più 2 cavalli
-- Contiene 2 scuderie, unarea di toelettatura e lavaggio, balcone, podio a forma di ferro di cavallo e ostacoli
-- Gli accessori di toelettatura includono spazzole, una spugna, un flacone spray, alcune rosette, fiocchi e un pettine
 - Gli accessori includono una telecamera, un binocolo, un forcone, carote, fieno, 2 bicchieri da cocktail con ciliegie, 2 selle e 2 briglie
 - Utilizza l’area della toelettatura per strigliare e spazzolare i cavalli
+- Include 2 mini-doll: Stephanie e Zack, più 2 cavalli
+- Gli accessori di toelettatura includono spazzole, una spugna, un flacone spray, alcune rosette, fiocchi e un pettine
+- Contiene 2 scuderie, unarea di toelettatura e lavaggio, balcone, podio a forma di ferro di cavallo e ostacoli
 
 [Buy it now!!](https://www.amazon.it/dp/B07FNS9YS1/?tag=tolees00-21)
