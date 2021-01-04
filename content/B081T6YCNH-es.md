@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 35.91 % for LEGO Batman 3: Más allá de Gotham - Edic'
-date: 2020-12-28 10:09:49
+date: 2021-01-04 01:08:34
 image: 'https://m.media-amazon.com/images/I/51VWMDKoo3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ You've got [LEGO Batman 3: Más allá de Gotham - Edición Exclusiva Amazon - Pl
 
 ℹ️:
 
-- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
-- Elenco de héroes y villanos de DC Comics: juega y desbloquea más de 150 personajes únicos con increíbles poderes y habilidades, incluyendo a miembros de la Liga de la Justicia y grandes figuras de LEGO como Cyborg, Solomon Grundy y muchos más
 - Hackea ordenadores: entra en un mundo virtual para escapar de laberintos, combatir en las arenas, y correr para encontrar el código
+- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- DLC Batman Beyond Pack; este nuevo pack permite al jugador controlar un nuevo Batman, Terry McGinnis, acceder a villanos mortales como el Tizón radiactivo y enfrentarse al regreso del Joker
 - Emocionantes combates espaciales: lucha con Batman y sus aliados en el espacio exterior, visitando varios mundos Lantern como Zamaron y Odym
 - Entornos icónicos: visita el Salón de Justicia, la Batcueva, o La Atalaya de la Liga de la Justicia para acceder a tiendas y salas de trofeos o personalizar héroes y vehículos
-- DLC Batman Beyond Pack; este nuevo pack permite al jugador controlar un nuevo Batman, Terry McGinnis, acceder a villanos mortales como el Tizón radiactivo y enfrentarse al regreso del Joker
+- Elenco de héroes y villanos de DC Comics: juega y desbloquea más de 150 personajes únicos con increíbles poderes y habilidades, incluyendo a miembros de la Liga de la Justicia y grandes figuras de LEGO como Cyborg, Solomon Grundy y muchos más
 
 [Check the deal!!](https://www.amazon.es/dp/B081T6YCNH/?tag=tolees-21)
