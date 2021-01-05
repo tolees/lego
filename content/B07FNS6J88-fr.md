@@ -25,10 +25,10 @@ There's a deal [LEGO® Creator L avion de course Jeu de construction  7 Ans et P
 
 ℹ️:
 
+- 333 pièces pour les filles et les garçons à partir de 7 ans.
+- Les ensembles LEGO Creator sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - Construisez cet avion à hélice puis transformez-le pour créer un hélicoptère ou un jet pour vivre davantage d’aventure et d’action aériennes.
 - Lavion de course mesure plus de 10 cm de haut, 23 cm de long et 26 cm de large. Lhélicoptère mesure plus de 11 cm de haut, 19 cm de long et 8 cm de large. Le jet mesure plus de 10 cm de haut, 22 cm de long et 24 cm de large.
 - Inclut 3 modèles de construction dans cet ensemble 3-en-1 LEGO Creator. Possibilité de construire l’avion de course puis de le transformer pour avoir davantage d’action avec un puissant hélicoptère ou un jet rapide avec des propulseurs rotatifs.
-- 333 pièces pour les filles et les garçons à partir de 7 ans.
-- Les ensembles LEGO Creator sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 
 [Buy it now!!](https://www.amazon.fr/dp/B07FNS6J88/?tag=tolees0d-21)
