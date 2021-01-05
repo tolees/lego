@@ -25,10 +25,10 @@ You've got [LEGO 10907 DUPLO Tiere der Welt  Lernspielzeug für Kleinkinder im A
 
 ℹ️:
 
-- Bauen Sie mit Ihrem Kleinkind eine Welt mit vielen verschiedenen Tieren an unterschiedlichen Orten
-- Das Lernspielzeug für Kleinkinder umfasst 6 LEGO DUPLO Figuren: einen Weltenbummler, einen Pilot, einen Surfer mit Kind sowie einen Kanufahrer mit Kind
-- Darüber hinaus sind 15 Tierfiguren enthalten: eine erwachsene und eine Babygiraffe, ein erwachsener und ein Babylöwe, ein erwachsener Panda und ein Babypanda, ein Reh und ein Rehkitz, ein erwachsener und ein Babywal und viele weitere Tierfiguren
-- Die Savanne ist 17 cm hoch, 22 cm breit und 6 cm tief. Der Tempel ist 20 cm hoch, 27 cm breit und 9 cm tief. Das Auto ist 9 cm hoch, 14 cm lang und 6 cm breit. Das Flugzeug ist 11 cm hoch, 18 cm lang und 19 cm breit
 - 121 Teile - Tierforscher-Spielzeug für Mädchen und Jungen ab 2 Jahren
+- Bauen Sie mit Ihrem Kleinkind eine Welt mit vielen verschiedenen Tieren an unterschiedlichen Orten
+- Darüber hinaus sind 15 Tierfiguren enthalten: eine erwachsene und eine Babygiraffe, ein erwachsener und ein Babylöwe, ein erwachsener Panda und ein Babypanda, ein Reh und ein Rehkitz, ein erwachsener und ein Babywal und viele weitere Tierfiguren
+- Das Lernspielzeug für Kleinkinder umfasst 6 LEGO DUPLO Figuren: einen Weltenbummler, einen Pilot, einen Surfer mit Kind sowie einen Kanufahrer mit Kind
+- Die Savanne ist 17 cm hoch, 22 cm breit und 6 cm tief. Der Tempel ist 20 cm hoch, 27 cm breit und 9 cm tief. Das Auto ist 9 cm hoch, 14 cm lang und 6 cm breit. Das Flugzeug ist 11 cm hoch, 18 cm lang und 19 cm breit
 
 [Check the deal!!](https://www.amazon.de/dp/B01BK2PXAS/?tag=tolees0ca-21)
