@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 34.01 % for Lego Harry Potter Collection pour Ninten'
-date: 2021-01-01 23:53:41
+date: 2021-01-05 02:17:33
 image: 'https://m.media-amazon.com/images/I/51osluLTA9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HGQBMT5/?tag=tolees0d-21'
 descuento: '34.01'
-average: '32.01533333333333'
+average: '32.07625'
 ---
 
 You've got [Lego Harry Potter Collection pour Nintendo Switch](https://www.amazon.fr/dp/B07HGQBMT5/?tag=tolees0d-21) with a  34.01 % discount, with final price of 32.99 EUR (original: 49.99 EUR) at the following link:

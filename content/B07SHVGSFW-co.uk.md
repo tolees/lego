@@ -25,9 +25,9 @@ With a final price of 23.45 GBP (original: 29.49 GBP) you can find [LEGO Ideas S
 
 ℹ️:
 
-- Space Rocket Ride
-- Contains 150 pcs + 1 Minifigure
 - Small collectable item - Not necessarily suitable as a childs gift
+- Space Rocket Ride
 - LEGO Ideas CUUSOO Set
+- Contains 150 pcs + 1 Minifigure
 
 [Buy it!!](https://www.amazon.co.uk/dp/B07SHVGSFW/?tag=tolees0a-21)
