@@ -26,9 +26,9 @@ With a final price of 7.42 EUR (original: 9.74 EUR) you can find [LEGO 60219 Cit
 ℹ️:
 
 - Umfasst ein Frontlader-Bauspielzeug mit hebbarem Frontarm, kippbarer Schaufel und Überrollkäfig.
-- Kippe die Schaufel des Frontaderspielzeugs, um den Betonschutt aufzuheben und die Straße zu säubern.
-- Hebe den Arm des Frontladers, um den Zaun zu entfernen, nachdem man den Beton mit dem Presslufthammer aufgebrochen hat.
-- Enthält eine LEGO City Straßenarbeiter-Minifigur.
 - Als Zubehör sind ein Presslufthammer und eine kleine baubare Szene mit Zaun und Betonstapel enthalten.
+- Kippe die Schaufel des Frontaderspielzeugs, um den Betonschutt aufzuheben und die Straße zu säubern.
+- Enthält eine LEGO City Straßenarbeiter-Minifigur.
+- Hebe den Arm des Frontladers, um den Zaun zu entfernen, nachdem man den Beton mit dem Presslufthammer aufgebrochen hat.
 
 [Buy it!!](https://www.amazon.de/dp/B07FNMXFQ9/?tag=tolees0ca-21)
