@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic Bricks Bricks Plates 1504 P at 15.66 % discount'
-date: 2020-12-31 11:16:26
+date: 2021-01-05 07:29:50
 image: 'https://m.media-amazon.com/images/I/61cW+If2LwL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Guarded Fortress Expans at 19.98 % discount'
-date: 2021-01-03 05:57:27
+date: 2021-01-05 07:43:19
 image: 'https://m.media-amazon.com/images/I/51zpXSC7TDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,6 @@ With a final price of 40.0 USD (original: 49.99 USD) you can find [LEGO Super Ma
 
 ℹ️:
 
-- Kids can build another exciting level to add to their LEGO Super Mario Adventures with Mario Starter Course and compete against friends with this Guarded Fortress Expansion Set 71362
-- To reach the fortress and win digital coins, LEGO Mario may need to use the catapult, leap over brick-built lava or across stepping stones in ‘water’, and he reacts in different ways as he meets and defeats each enemy
-- The player must choose their own route for LEGO Mario (figure not included), defeating either the Bob-omb, Koopa Troopa or Piranha Plant toy figures, before landing on the POW Block to open the fortress door
-- This module measures over 7” (18.5cm) high, 14.5” (38cm) wide and 12.5” (32cm) deep in its basic formation and can be rebuilt and combined with the Starter Course and other Expansion Sets in multiple ways
-- This 468-piece, collectible, creative LEGO toy makes a fun birthday or holiday gift for kids aged 8 and up to add to their Adventures with Mario Starter Course 71360, inspiring them to build their own unique levels
+- Kids choose their own route for LEGO Mario to reach the Guarded Fortress with this fun-packed Expansion Set (71362). A fantastic gift for kids who own the LEGO Super Mario Starter Course (71360), it features a buildable fortress, catapult, brick-built water and lava routes and POW Block, plus Bob-omb, Koopa Troopa and Piranha Plant toy figures for LEGO Mario to defeat. (Note: LEGO Mario figure is not included; find it in the Starter Course set). A free LEGO Super Mario app is available for this
 
 [Buy it!!](https://www.amazon.com/dp/B0858TS4TG/?tag=tolees-20)
