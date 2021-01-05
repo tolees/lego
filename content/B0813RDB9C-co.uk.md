@@ -25,9 +25,9 @@ You've got [LEGO 41425 Friends Olivia s Flower Garden Play Set with Tools  Zobo 
 
 ℹ️:
 
-- Olivia’s Flower Garden includes a buildable mini-doll figure, farmer Zobo the robot figure, cute hamster figure, and, of course, flowers
-- The fast-to-build starter building set features a plant-collecting vehicle and a greenhouse where kids can pretend to grow blooms and fruit
 - This 92-piece model for ages 6 and up comes with step-by-step instructions so kids can build confidently on their own
+- The fast-to-build starter building set features a plant-collecting vehicle and a greenhouse where kids can pretend to grow blooms and fruit
+- Olivia’s Flower Garden includes a buildable mini-doll figure, farmer Zobo the robot figure, cute hamster figure, and, of course, flowers
 - Also includes a strawberry cake, hat, bucket, fork and shovel to help young botanists nurture rare plants and study them with Olivia
 - Check out other LEGO sets: Heartlake City Park Café (41426), Emmas Fashion Shop (41427), Beach House (41428), Summer Fun Water Park (41430)
 

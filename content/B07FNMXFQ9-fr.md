@@ -26,9 +26,9 @@ With a final price of 7.9 EUR (original: 9.99 EUR) you can find [LEGO City - La 
 ℹ️:
 
 - Construisez la robuste chargeuse LEGO City.
-- Comprend une figurine d’ouvrier sur la route LEGO City.
 - La chargeuse mesure plus de 7 cm de haut, 12 cm de long et 5 cm de large. La clôture et le pieu en béton mesurent plus de 4 cm de large.
 - Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - 88 pièces pour les filles et les garçons de 5 ans et plus.
+- Comprend une figurine d’ouvrier sur la route LEGO City.
 
 [Buy it!!](https://www.amazon.fr/dp/B07FNMXFQ9/?tag=tolees0d-21)
