@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars: The Skywalker Saga - Nin at 16.75 % discount'
-date: 2021-01-05 07:26:15
+date: 2021-01-06 13:24:18
 image: 'https://m.media-amazon.com/images/I/51qSzmHz3lL._SL200_.jpg'
 comments: true
 category: ofertas
