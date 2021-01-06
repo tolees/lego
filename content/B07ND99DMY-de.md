@@ -25,10 +25,10 @@ With a final price of 42.99 EUR (original: 59.99 EUR) you can find [LEGO 70423 H
 
 ℹ️:
 
-- Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
+- Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
 - Entdecke die Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug für Kinder mit einer App mit Augmented Reality verbindet
 - Dieses Spielzeug mit Augmented Reality für Kinder enthält 6 Figuren, mit denen die Kinder ihre eigenen Geisterjäger-Abenteuer unternehmen können
-- Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
+- Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
 - Der energiegeladene Spielzeug-Schulbus verfügt über eine Kommandostation, ausklappbare Kanonen zum Entfluchen, Scanner auf dem Dach und Platz für 4 Minifiguren für Geisterjäger-Abenteuer
 
 [Buy it!!](https://www.amazon.de/dp/B07ND99DMY/?tag=tolees0ca-21)

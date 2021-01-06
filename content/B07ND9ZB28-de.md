@@ -25,10 +25,10 @@ There's a deal [LEGO 70422 Hidden Side Angriff auf die Garnelen-Hütte Kinderspi
 
 ℹ️:
 
-- Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
-- Entdecke die Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug für Kinder mit einer App mit Augmented Reality verbindet
-- Dieses Spielset liefert jede Menge Spielideen, darunter ein Hightech-Gokart mit Platz für 2 Minifiguren und eine äußerst detailreiche Restaurantküche für tolle Rollenspiele
 - Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
 - Das Spielzeug mit Funktionen der Augmented Reality enthält für fantastische Geisterjäger-Abenteuer 6 Figuren: die Helden Jack Davids und Parker L. Jackson und mehr
+- Dieses Spielset liefert jede Menge Spielideen, darunter ein Hightech-Gokart mit Platz für 2 Minifiguren und eine äußerst detailreiche Restaurantküche für tolle Rollenspiele
+- Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
+- Entdecke die Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug für Kinder mit einer App mit Augmented Reality verbindet
 
 [Buy it now!!](https://www.amazon.de/dp/B07ND9ZB28/?tag=tolees0ca-21)
