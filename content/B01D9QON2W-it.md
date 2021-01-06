@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.46 % for LEGO- Star Wars Morte Nera  Multicolore '
-date: 2021-01-04 20:20:23
+date: 2021-01-06 02:13:47
 image: 'https://m.media-amazon.com/images/I/51JhUpWtVzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01D9QON2W/?tag=tolees00-21'
 descuento: '20.46'
-average: '541.8239449541283'
+average: '543.2145045045044'
 ---
 
 You've got [LEGO- Star Wars Morte Nera  Multicolore  5702015593946](https://www.amazon.it/dp/B01D9QON2W/?tag=tolees00-21) with a  20.46 % discount, with final price of 619.0 EUR (original: 778.18 EUR) at the following link:
