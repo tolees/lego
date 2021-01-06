@@ -26,9 +26,9 @@ With a final price of 48.98 EUR (original: 58.48 EUR) you can find [LEGO 75276 S
 ℹ️:
 
 - Features a build and display model of a Star Wars Stormtrooper helmet with super-details and beautifully recreated iconic contours
-- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
 - The Stormtrooper’s sinister look is reproduced in detail with LEGO bricks plus graphics stickers
-- Lots of love for all Star Wars fans! This set is a part of a collectible LEGO Star Wars series for adults and more patient teenagers
 - The helmet comes with a base and nameplate to show it off at home or as an eye-catching office desk ornament
+- Lots of love for all Star Wars fans! This set is a part of a collectible LEGO Star Wars series for adults and more patient teenagers
+- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
 
 [Buy it!!](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)
