@@ -25,10 +25,10 @@ With a final price of 86.82 USD (original: 104.95 USD) you can find [CREATOR Leg
 
 ℹ️:
 
-- In the box: buildable, posable Tyrannosaurus rex, Triceratops and Pteranodon skeleton models with displays stands, plus a LEGO paleontologist minifigure and sapiens skeleton figure, to recreate a natural history museum
-- This LEGO Ideas Dinosaur Fossils 21320 construction toy is compatible with the LEGO construction toys, bricks and characters that you already own so you can create your own unique toy museum
 - This collectible, 910-piece set makes a fantastic archaeology toy gift for all aged 16+ who love to build solo or to share their interest in natural history, dinosaurs and LEGO building with friends and family
 - These 1: 32 scale pterosaur and dinosaur skeleton toy models make an eye-catching centerpiece in any room, with the T. rex skeleton model the biggest of the 3, measuring over 7 (20cm) tall and 15 (40cm) long
+- In the box: buildable, posable Tyrannosaurus rex, Triceratops and Pteranodon skeleton models with displays stands, plus a LEGO paleontologist minifigure and sapiens skeleton figure, to recreate a natural history museum
+- This LEGO Ideas Dinosaur Fossils 21320 construction toy is compatible with the LEGO construction toys, bricks and characters that you already own so you can create your own unique toy museum
 - Role-play as a paleontologist and imagine what life on Earth was like millions of years ago as you build intricately detailed LEGO models of pterosaur and dinosaur skeletons for display!
 
 [Buy it!!](https://www.amazon.com/dp/B07ZD6TZKH/?tag=tolees-20)
