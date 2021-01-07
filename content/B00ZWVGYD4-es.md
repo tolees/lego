@@ -26,7 +26,7 @@ With a final price of 15.99 EUR (original: 21.4 EUR) you can find [LEGO Dimensio
 ℹ️:
 
 - LEGO Number 71202
-- Homer
 - Level Pack
+- Homer
 
 [Buy it!!](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21)
