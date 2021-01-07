@@ -25,10 +25,10 @@ You've got [LEGO 21028 Architecture New York City Bauset  Skyline-Kollektion](ht
 
 ℹ️:
 
-- Bauen Sie ein detailgetreues Modell der New Yorker Skyline mit der Freiheitsstatue
 - Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
-- Das Modell enthält das Flatiron Building, das Chrysler Building, das Empire State Building und das One World Trade Center
 - Die New Yorker Skyline ist 26 cm hoch, 23 cm breit und 3 cm tief; 598 Teile - Für Jungen und Mädchen ab 12 Jahren
+- Das Modell enthält das Flatiron Building, das Chrysler Building, das Empire State Building und das One World Trade Center
 - Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
+- Bauen Sie ein detailgetreues Modell der New Yorker Skyline mit der Freiheitsstatue
 
 [Check the deal!!](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21)
