@@ -25,10 +25,10 @@ You've got [LEGO Jurassic World Dr. Wu s Lab: Baby Dinosaurs Breakout 75939 Fun 
 
 ℹ️:
 
-- Kids can dream up exciting Jurassic World stories of scientific breakthroughs and dinosaur escapes with 2 minifigures – Owen Grady and Dr. Henry Wu – plus baby Triceratops and Ankylosaurus toy figures
 - Hours of creative role-play fun awaits children with this Dr. Wu´s Lab: Baby Dinosaurs Breakout (75939) toy playset, featuring a detailed, brick-built version of Dr. Wu’s lab from LEGO Jurassic World
 - Features a knock-down ‘glass wall function, brick-built dinosaur egg incubator, microscope and adjustable robot arm, laptop element, pop-up panel with an ‘alarm’ message and more to spark fans’ imaginations
-- There are so many ways to play with this 164-piece building kit, making it a brilliant birthday present or holiday gift for creative boys and girls aged 6 and up to introduce them to LEGO Jurassic World sets
+- Kids can dream up exciting Jurassic World stories of scientific breakthroughs and dinosaur escapes with 2 minifigures – Owen Grady and Dr. Henry Wu – plus baby Triceratops and Ankylosaurus toy figures
 - The lab measures over 3” (10cm) high, 8” (22cm) wide and 3” (8cm) deep – a compact size to pack in a bag for play on the go – and combines brilliantly with other LEGO Jurassic World sets for even more play options
+- There are so many ways to play with this 164-piece building kit, making it a brilliant birthday present or holiday gift for creative boys and girls aged 6 and up to introduce them to LEGO Jurassic World sets
 
 [Check the deal!!](https://www.amazon.com/dp/B0858DDQ9Z/?tag=tolees-20)
