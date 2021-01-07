@@ -25,9 +25,9 @@ You've got [LEGO 51515 MINDSTORMS Roboter-Erfinder Robotik-Kit  5-in-1 App-geste
 
 ℹ️:
 
+- Fünf einzigartige Modelle lassen sich mit der kostenlosen Roboter-Erfinder-App bauen und programmieren
 - Dieses tolle Geschenk ist der natürliche nächste Schritt für LEGO BOOST Fans
 - Intelligente Modelle und kompatible Teile bedeuten maximales und dauerhaftes Spielvergnügen
-- Fünf einzigartige Modelle lassen sich mit der kostenlosen Roboter-Erfinder-App bauen und programmieren
 - Beim Bauen, Programmieren und Spielen erwerben Kinder wertvolle MINT-Fähigkeiten
 - Jede Menge Teile ermöglichen Kindern den Bau eigener fantastischer Modelle
 
