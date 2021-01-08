@@ -25,10 +25,10 @@ With a final price of 34.94 EUR (original: 43.86 EUR) you can find [LEGO 60244 C
 
 ℹ️:
 
-- Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
+- The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
 - The transporter truck has a detailed driver’s cab, mobile prison cell, computer and road barriers with many realistic details
 - Kids can rip open the cell to let the crook escape, then launch the new-for-January-2020 police helicopter that really flies into the air
 - Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
-- The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
+- Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
 
 [Buy it!!](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21)
