@@ -25,10 +25,10 @@ You've got [LEGO 75889 - SPEED CHAMPIONS -](https://www.amazon.co.uk/dp/B075GQBN
 
 ℹ️:
 
+- Includes seven minifigures: a classic Ferrari 250 GTO racer, a Ferrari 488 GTE racer, a historic Ferrari 312 T4 racer, a track post, a racing mechanic and two visitors
+- This construction toy is suitable for children aged 8-14 years
+- Take off the windscreen of the Ferrari 250 GTO and the 488 GTE and put the minifigures in the vehicles
 - The race-ready Ferrari 250 GTO, 488 GTE and the historic 312 T4 assembly each feature a minifigure cockpit, wheels with rubber tyres, authentic design details, racing colours and racing stickers
 - Includes three famous Ferrari racing cars, a workshop/museum and a complementary race track
-- Take off the windscreen of the Ferrari 250 GTO and the 488 GTE and put the minifigures in the vehicles
-- This construction toy is suitable for children aged 8-14 years
-- Includes seven minifigures: a classic Ferrari 250 GTO racer, a Ferrari 488 GTE racer, a historic Ferrari 312 T4 racer, a track post, a racing mechanic and two visitors
 
 [Check the deal!!](https://www.amazon.co.uk/dp/B075GQBNPW/?tag=tolees0a-21)
