@@ -1,7 +1,7 @@
 baseURL = "https://lego.tole.es"
-title = "Lego barato para todos los gustos"
+title = "LEGO barato - Cheap - Angebote - Cadeaux"
 theme = "portfolio"
-languageCode = "es-es"
+languageCode = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 paginate = 30
@@ -15,7 +15,7 @@ paginate = 30
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Ofertas en Lego"
+  description = "LEGO deals, ofertas, angebote, chollos"
   copyright = ""
   sidebarAbout = []
   # Enable Google Analytics by entering your tracking code
