@@ -25,10 +25,10 @@ You've got [LEGO® Harry Potter™ La Tour d’Astronomie de Poudlard  Jeu de Co
 
 ℹ️:
 
-- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
-- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
 - Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
 - Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle
+- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
 - Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
 
 [Check the deal!!](https://www.amazon.fr/dp/B0813QBV6V/?tag=tolees0d-21)
