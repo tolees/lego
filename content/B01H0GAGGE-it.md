@@ -25,10 +25,10 @@ With a final price of 20.0 EUR (original: 25.9 EUR) you can find [Lego LEGO Dime
 
 ℹ️:
 
-- metterlo sul LEGO Toy Pad
 - Estendere la vostra avventura attraverso la raccolta di dati ulteriori mini, veicoli, oggetti e nuovo livello
 - indipendente dalla piattaforma
-- La Batmobile LEGO
+- metterlo sul LEGO Toy Pad
 - 3 omini LEGO (Batman, Gandalf un Cool-Tag)
+- La Batmobile LEGO
 
 [Buy it!!](https://www.amazon.it/dp/B01H0GAGGE/?tag=tolees00-21)

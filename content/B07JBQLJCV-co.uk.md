@@ -25,10 +25,10 @@ With a final price of 15.0 GBP (original: 24.99 GBP) you can find [LEGO 75971 Ov
 
 ℹ️:
 
-- Build a LEGO version of the Hanamura dojo from the Hanamura Overwatch map, plus 2 of the most liked Overwatch characters
-- Includes Hanzo, Genji and Shimada Henchman minifigures
-- Features a weapons stand, health pack, and 2 hidden disc shooters that represent the dragon spirits of each brother
 - The perfect gift for fans of the blockbuster Overwatch game
 - Overwatch character weapons include Genji’s Ryu-Ichimonji sword and Hanzo’s Storm Bow
+- Includes Hanzo, Genji and Shimada Henchman minifigures
+- Build a LEGO version of the Hanamura dojo from the Hanamura Overwatch map, plus 2 of the most liked Overwatch characters
+- Features a weapons stand, health pack, and 2 hidden disc shooters that represent the dragon spirits of each brother
 
 [Buy it!!](https://www.amazon.co.uk/dp/B07JBQLJCV/?tag=tolees0a-21)
