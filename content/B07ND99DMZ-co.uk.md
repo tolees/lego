@@ -25,10 +25,10 @@ With a final price of 91.99 GBP (original: 109.99 GBP) you can find [LEGO Hidden
 
 ℹ️:
 
-- School transforms and features a hidden chamber, bus station out front, computer lab, library, bathroom, chemistry room, bell tower and 8 minifigures
-- The app is compatible with selected iOS/Android/mobile devices for better ghost hunting. Check compatibility at lego.com/devicecheck
 - Download the app, then scan the model to make it come alive and reveal the Hidden Side, while playing and viewing through the AR app
 - This construction set can be played with right out of the box, but for a full experience, a tablet/mobile phone is required (not included)
+- The app is compatible with selected iOS/Android/mobile devices for better ghost hunting. Check compatibility at lego.com/devicecheck
 - Moving the phone around reveals an ever-changing environment hidden around the model, the entire school can change from normal to haunted
+- School transforms and features a hidden chamber, bus station out front, computer lab, library, bathroom, chemistry room, bell tower and 8 minifigures
 
 [Buy it!!](https://www.amazon.co.uk/dp/B07ND99DMZ/?tag=tolees0a-21)
