@@ -25,10 +25,10 @@ With a final price of 27.9 EUR (original: 39.99 EUR) you can find [LEGO Harry Po
 
 ℹ️:
 
-- Este autobús LEGO de 3 pisos cuenta con un panel lateral abisagrado abatible y un techo desmontable para abrir al máximo las posibilidades de juego.
-- Incluye también una cama que se desliza y una lámpara colgante que se mueve cuando el autobús gira y da un viraje brusco.
 - El Autobús Noctámbulo mide más de 16 cm de altura, 16 cm de longitud y 6 cm de ancho.
+- Incluye también una cama que se desliza y una lámpara colgante que se mueve cuando el autobús gira y da un viraje brusco.
 - Incluye 3 minifiguras LEGO Harry Potter (novedad en junio de 2019): Harry Potter, Stan Shunpike y Ernie Prang.
 - La cabeza reducida parlanchina y el arcón de Harry Potter, que contiene una varita, una carta, una chocolatina y un frasco de poción, añaden más dosis de acción e invitan a jugar y usar la imaginación.
+- Este autobús LEGO de 3 pisos cuenta con un panel lateral abisagrado abatible y un techo desmontable para abrir al máximo las posibilidades de juego.
 
 [Buy it!!](https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21)
