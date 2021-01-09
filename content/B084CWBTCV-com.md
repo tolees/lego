@@ -1,31 +1,33 @@
 ---
 layout: post
-title: 'Discount of 18.95 % for Lego Speed Champions 30342'
-date: 2021-01-05 01:50:34
+title: 'Discount of 17.90 % for Lego Speed Champions 30342'
+date: 2021-01-09 08:03:31
 image: 'https://m.media-amazon.com/images/I/41GVQIXzmPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B084CWBTCV-com'
-actualPrice: 7.27 USD
+actualPrice: 6.56 USD
 currency: USD
-price: 7.27
-comparePrice: 8.97 USD
+price: 6.56
+comparePrice: 7.99 USD
 prodname: 'Lego Speed Champions 30342'
 country: 'com'
 flag: '🇺🇸'
 buyurl: 'https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20'
-descuento: '18.95'
-average: '7.456249999999999'
+descuento: '17.90'
+average: '7.465263157894736'
 ---
 
-You've got [Lego Speed Champions 30342](https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20) with a  18.95 % discount, with final price of 7.27 USD (original: 8.97 USD) at the following link:
+You've got [Lego Speed Champions 30342](https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20) with a  17.90 % discount, with final price of 6.56 USD (original: 7.99 USD) at the following link:
 
 [![Lego Speed Champions 30342](https://m.media-amazon.com/images/I/41GVQIXzmPL._SL200_.jpg)](https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20)
 
 ℹ️:
 
-- Ages 6+
-- 70 Pieces
+- Small collectable item, not necessarily suitable as a childs gift
+- Contains 70 pieces including Pull-back motor
+- LEGO Speed Champions Polybag Set
+- Lamborghini Huracan Super Trofeo EVO
 
 [Check the deal!!](https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20)
