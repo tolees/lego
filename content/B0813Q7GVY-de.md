@@ -25,10 +25,10 @@ With a final price of 74.99 EUR (original: 97.47 EUR) you can find [LEGO 41430 F
 
 ℹ️:
 
-- Dieses detailreiche Spielzeug bringt das Vergnügen eines Wasserparks ins Kinderzimmer. Das LEGO Friends Spielset beschäftigt Kinder stundenlang, während sie das Bauprojekt meistern und dann alle Details erkunden
 - Dieses unterhaltsame Spielzeug bietet unzählige Spielmöglichkeiten. Die Spielfiguren können die drei Rutschen hinuntersausen oder sich im Whirlpool entspannen. Kinder können in die Rolle der Badeaufsicht schlüpfen und die Schwimmer im Auge behalten
-- Das Modell ist 31 cm hoch, 33 cm breit und 19 cm tief. Das ist schon eine beträchtliche Größe, doch der Wasserpark kann auch noch ausgebaut werden. Denn das Set lässt sich mit allen bereits vorhandenen LEGO Steinen kombinieren
-- Mit dabei sind auch die LEGO Friends Heldinnen Stephanie, Emma und Olivia als baubare Spielfiguren sowie Mason als Badeaufsicht. Die Flamingofigur Pinky (ab Juni 2020) verleiht dem Set einen zusätzlichen Farbtupfer
 - Soll ein kleiner Baumeister beschäftigt werden? Dann ist dieses Set genau das richtige Geburtstags- oder Weihnachtsgeschenk. Das 1001-teilige Bauset inspiriert Kinder ab 8 Jahren. Und das fertige Modell werden sie voller Stolz präsentieren
+- Mit dabei sind auch die LEGO Friends Heldinnen Stephanie, Emma und Olivia als baubare Spielfiguren sowie Mason als Badeaufsicht. Die Flamingofigur Pinky (ab Juni 2020) verleiht dem Set einen zusätzlichen Farbtupfer
+- Dieses detailreiche Spielzeug bringt das Vergnügen eines Wasserparks ins Kinderzimmer. Das LEGO Friends Spielset beschäftigt Kinder stundenlang, während sie das Bauprojekt meistern und dann alle Details erkunden
+- Das Modell ist 31 cm hoch, 33 cm breit und 19 cm tief. Das ist schon eine beträchtliche Größe, doch der Wasserpark kann auch noch ausgebaut werden. Denn das Set lässt sich mit allen bereits vorhandenen LEGO Steinen kombinieren
 
 [Buy it!!](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21)
