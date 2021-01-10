@@ -25,10 +25,10 @@ You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigk
 
 ℹ️:
 
-- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
-- Das Ausstellungsmodell des Weißen Hauses fängt das neoklassizistische Design und die Pracht dieser weltberühmten Residenz wunderschön ein
-- Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
 - Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
+- Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
+- Das Ausstellungsmodell des Weißen Hauses fängt das neoklassizistische Design und die Pracht dieser weltberühmten Residenz wunderschön ein
 - Das Sammlermodell kann zur genaueren Betrachtung der architektonischen Details leicht in drei Abschnitte unterteilt werden
+- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
 
 [Check the deal!!](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21)
