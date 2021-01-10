@@ -25,10 +25,10 @@ You've got [LEGO Classic Mattoncini e Idee  Giocattoli da Costruzione  11001](
 
 ℹ️:
 
-- Contiene coloratissimi elementi LEGO per un gioco creativo open-end
-- Starter kit LEGO, ideale per i bambini creativi
-- Include mattoncini, occhi, ruote e cerniere LEGO per la creazione di modelli semplici
 - Crea un dinosauro, un pianoforte, una casa, un treno o qualsiasi altra cosa tu possa immaginare
+- Contiene coloratissimi elementi LEGO per un gioco creativo open-end
+- Include mattoncini, occhi, ruote e cerniere LEGO per la creazione di modelli semplici
+- Starter kit LEGO, ideale per i bambini creativi
 - Visita LEGOit/classic per istruzioni per la costruzione aggiuntive, divertenti video, idee e ispirazione
 
 [Check the deal!!](https://www.amazon.it/dp/B07FNT8XBK/?tag=tolees00-21)
