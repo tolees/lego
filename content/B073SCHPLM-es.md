@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Lego Worlds at 18.48 % discount'
-date: 2021-01-03 22:11:15
+title: 'Lego Worlds at 50.24 % discount'
+date: 2021-01-10 08:22:12
 image: 'https://m.media-amazon.com/images/I/51qygTNsTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B073SCHPLM-es'
-actualPrice: 32.6 EUR
+actualPrice: 19.9 EUR
 currency: EUR
-price: 32.6
+price: 19.9
 comparePrice: 39.99 EUR
 prodname: 'Lego Worlds'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21'
-descuento: '18.48'
-average: '22.896153846153847'
+descuento: '50.24'
+average: '22.682142857142857'
 ---
 
-With a final price of 32.6 EUR (original: 39.99 EUR) you can find [Lego Worlds](https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21) with a  18.48 % discount here:
+With a final price of 19.9 EUR (original: 39.99 EUR) you can find [Lego Worlds](https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21) with a  50.24 % discount here:
 
 [![Lego Worlds](https://m.media-amazon.com/images/I/51qygTNsTcL._SL200_.jpg)](https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21)
 
