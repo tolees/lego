@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.45 % deal for LEGO IDEAS 21324 Barrio Sésamo'
-date: 2021-01-10 21:00:00
+date: 2021-01-10 21:00:02
 image: 'https://m.media-amazon.com/images/I/51TCb88HusL._SL200_.jpg'
 comments: true
 category: ofertas
