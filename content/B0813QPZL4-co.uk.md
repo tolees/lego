@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41426 Friends Heartlake City Park C at 44.41 % discount'
-date: 2021-01-10 10:24:34
+date: 2021-01-11 10:32:11
 image: 'https://m.media-amazon.com/images/I/519CIhTb5eL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ With a final price of 10.0 GBP (original: 17.99 GBP) you can find [LEGO 41426 Fr
 ℹ️:
 
 - Check out our other sets: Emmas Fashion Shop (41427), Summer Fun Water Park (41430), Olivias Flower Garden (41425) and Beach House (41428)
-- Features a till, display, hinged waffle iron, drinks blender, ice cream servings in different flavours, cooking ingredients and menus
 - This playset comes with an open park counter decked out to look like a Parisian eatery, and lots of toy coffee shop and kitchen accessories
-- Includes buildable Stephanie and Mia mini-dolls plus a squirrel figure – kids can pretend to be Mia on her skateboard wearing a helmet
+- Features a till, display, hinged waffle iron, drinks blender, ice cream servings in different flavours, cooking ingredients and menus
 - Kids can hang with BFFs, like on the LEGO Friends TV show, with this fully kitted kitchen and lots of elements to inspire fun food play
+- Includes buildable Stephanie and Mia mini-dolls plus a squirrel figure – kids can pretend to be Mia on her skateboard wearing a helmet
 
 [Buy it!!](https://www.amazon.co.uk/dp/B0813QPZL4/?tag=tolees0a-21)
