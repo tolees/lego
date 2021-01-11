@@ -25,9 +25,9 @@ There's a deal [LEGO Star Wars 501st Legion Clone Troopers 75280 Building Kit  C
 
 ℹ️:
 
-- This LEGO Star Wars building kit includes 4 LEGO minifigures: 3 new-for-2020 501st Clone Troopers and a 501st Jet Trooper, with jetpack element, plus 2 Battle Droids and weapons for battles
 - Kids can role-play as 501st Legion Clone Troopers and relive exciting action from Star Wars: The Clone Wars with this LEGO Star Wars action set (75280), featuring an AT-RT Walker and BARC Speeder
 - The compact, robust LEGO Star Wars AT-RT Walker measures over 7” (17cm) high, 3.5” (9cm) long and 3” (8cm) wide – a convenient size to slip into a childs backpack with the BARC Speeder ready for play wherever they go
+- This LEGO Star Wars building kit includes 4 LEGO minifigures: 3 new-for-2020 501st Clone Troopers and a 501st Jet Trooper, with jetpack element, plus 2 Battle Droids and weapons for battles
 - This 285-piece construction playset makes an ideal birthday present or holiday gift for boys and girls aged 7+; The 2 vehicles can also be driven in the LEGO Star Wars: The Skywalker Saga video game
 - The AT-RT Walker has posable legs, a stud shooter, attachment points for a blaster and electrobinoculars element, and the BARC Speeder has 2 stud shooters to inspire creative play
 
