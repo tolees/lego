@@ -25,10 +25,10 @@ With a final price of 71.9 EUR (original: 84.99 EUR) you can find [LEGO Architec
 
 ℹ️:
 
-- Misura 12 cm di altezza, 24 cm di larghezza e 20 cm di profondità
+- Interpretazione Lego Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square
 - Include una targhetta decorativa di Trafalgar Square
+- Misura 12 cm di altezza, 24 cm di larghezza e 20 cm di profondità
 - Questo set include oltre 1.190 pezzi
 - Scopri unesperienza di costruzione impegnativa ma gratificante con questo set Lego Architecture
-- Interpretazione Lego Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square
 
 [Buy it!!](https://www.amazon.it/dp/B07KTK9B3Z/?tag=tolees00-21)
