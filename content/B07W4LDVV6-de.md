@@ -25,10 +25,10 @@ There's a deal [LEGO 41252 Trolls World Tour Poppys Heißluftballon Abenteuer Sp
 
 ℹ️:
 
-- Mit 3 Trolls-Minifiguren: Poppy, Branch und Biggie als exklusiver Charakter sowie Herr Dinkles und jede Menge Trolls Extras
-- Es gibt eine Karte und ein Fernglas zum Navigieren sowie bewegliche Herz-Flügel, um die Position zu ändern. Kinder werden es lieben, den rosafarbenen Ballon zu lenken
 - Es gibt sehr viel zu entdecken. Finde die Musiksaite zum Sammeln, die im Metronom versteckt ist
-- Das LEGO Trolls World Tour Poppys Heißluftballon Abenteuer Spielset ermöglicht es den Trolls Fans, ihre Lieblingsszenen aus dem Film zum Leben zu erwecken
+- Mit 3 Trolls-Minifiguren: Poppy, Branch und Biggie als exklusiver Charakter sowie Herr Dinkles und jede Menge Trolls Extras
 - Trolls Fans werden es genießen, neue Looks für die Minifiguren zu kreieren und ihr Haar mit einem Fernglas, Cupcake, Herz oder Blumen vor dem Abenteuer zu stylen
+- Das LEGO Trolls World Tour Poppys Heißluftballon Abenteuer Spielset ermöglicht es den Trolls Fans, ihre Lieblingsszenen aus dem Film zum Leben zu erwecken
+- Es gibt eine Karte und ein Fernglas zum Navigieren sowie bewegliche Herz-Flügel, um die Position zu ändern. Kinder werden es lieben, den rosafarbenen Ballon zu lenken
 
 [Buy it now!!](https://www.amazon.de/dp/B07W4LDVV6/?tag=tolees0ca-21)
