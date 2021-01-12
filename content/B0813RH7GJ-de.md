@@ -25,9 +25,9 @@ With a final price of 58.99 EUR (original: 77.97 EUR) you can find [LEGO 71721 N
 
 ℹ️:
 
+- The LEGO dragon has moving legs, wings and tail, it can fire missiles from 2 shooters and drop bones and spiders out of its ribcage
 - Features a toy fort with traps plus a dragon toy to recreate scenes from the NINJAGO TV series, and an exciting and action-packed board game
 - Includes 6 minifigures: Hero Kai, Hero Jay, Hero Nya, Skull Sorcerer and 2 Skeleton Warriors – all part of the game after spinning the dice
-- The LEGO dragon has moving legs, wings and tail, it can fire missiles from 2 shooters and drop bones and spiders out of its ribcage
 - Check out other NINJAGO playable sets: Skull Sorcerer’s Dungeons 71722, Journey to the Skull Dungeons 71717 and Zanes Mino Creature 71719
 - Ninjas need to watch out for the traps! When activated, the statue falls on the ninjas. It is hard to escape the Dungeons of Shintaro
 
