@@ -25,10 +25,10 @@ With a final price of 69.99 EUR (original: 89.99 EUR) you can find [LEGO Ideas D
 
 ℹ️:
 
-- Du hast noch keine Erfahrungen im Bauen mit LEGO? Keine Sorge! Das Paläontologen-Set enthält eine Broschüre mit einer einfach zu befolgenden Bauanleitung, interessanten Fakten über Tyrannosaurus Rex, Triceratops und Pteranodon sowie Informationen über den Fan und die LEGO Designer, die das Set entwickelt haben.
 - Das Dinosaurier-Fossilien-Set mit faszinierenden Details enthält baubare, bewegliche Spielzeug-Modelle der Skelette von Tyrannosaurus Rex, Triceratops und Pteranodon in einem Maßstab von 1:32. Jedes der Modelle hat einen Ausstellungsständer für naturkundliche Museumsstücke im LEGO Stil.
 - Außerdem umfasst das Set 2 Minifiguren: einen Homo sapiens und eine Paläontologen-Minifigur mit einer baubaren Kiste, einem Dinosaurier-Ei, Knochen, Hut und Buch-Elementen für kreatives Rollenspiel. Für ein fesselndes und lohnendes Bauerlebnis umfasst das Dinosaurier-Spielset von LEGO Ideas 910 Teile.
 - Ein tolles Paläontologen-Geschenk für LEGO Baumeister ab 16 Jahren und alle, die eine Leidenschaft für Naturkunde und Dinosaurier haben.
+- Du hast noch keine Erfahrungen im Bauen mit LEGO? Keine Sorge! Das Paläontologen-Set enthält eine Broschüre mit einer einfach zu befolgenden Bauanleitung, interessanten Fakten über Tyrannosaurus Rex, Triceratops und Pteranodon sowie Informationen über den Fan und die LEGO Designer, die das Set entwickelt haben.
 - Die Skelett-Modelle der Dinosaurier sind tolle Ausstellungsstücke. Das größte Skelett-Modell ist das von T. Rex, es ist 20 cm hoch und 40 cm lang.
 
 [Buy it!!](https://www.amazon.de/dp/B07ZD6TZKH/?tag=tolees0ca-21)
