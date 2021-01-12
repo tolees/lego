@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.08 % deal for LEGO 75278 Star Wars D-O Droid Collectab'
-date: 2020-12-22 16:02:41
+date: 2021-01-12 03:34:24
 image: 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21'
 descuento: '23.08'
-average: '53.98607142857142'
+average: '56.11544117647058'
 ---
 
 There's a deal [LEGO 75278 Star Wars D-O Droid Collectable Model Building Set from The Rise of Skywalker](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21)  with  23.08 % discount, final price tag of  49.99 GBP (original: 64.99 GBP) here:
@@ -25,10 +25,10 @@ There's a deal [LEGO 75278 Star Wars D-O Droid Collectable Model Building Set fr
 
 ℹ️:
 
-- The excitable little droid robot model has posable antennas and a tilting head that rotates 360 degrees just like the Star Wars character
 - Combine with LEGO 75187 Star Wars BB-8 Droid to create impressing display models of loveable robots collection
-- The model comes in green-white-grey colours with a display stand plus an information sign and D-O minifigure to delight collectors
+- The excitable little droid robot model has posable antennas and a tilting head that rotates 360 degrees just like the Star Wars character
 - This build-and-display model comes with step-by-step instructions it makes a great gift for creative kids even young builders can take on
 - Features a collectible model of the D-O droid robot from the Star Wars The Rise of Skywalker movie reproducing details in LEGO style
+- The model comes in green-white-grey colours with a display stand plus an information sign and D-O minifigure to delight collectors
 
 [Buy it now!!](https://www.amazon.co.uk/dp/B07XFXZ43Z/?tag=tolees0a-21)
