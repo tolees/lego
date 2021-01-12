@@ -25,11 +25,11 @@ There's a deal [LEGO Creator Creature degli Abissi: Squalo  Granchio e Calama
 
 ℹ️:
 
+- Guarda i fantastici colori blu e bianco dello squalo
 - Con questo set potrai costruire un modello aggiuntivo Le istruzioni per la costruzione di una balena sono disponibili su LEGOcom
 - Divertiti con 3 possibilità di costruzione con questo set LEGO Creator 3 in 1
+- Costruisci lo squalo con il granchio e il tesoro, quindi ricostruiscili per creare un calamaro flessibile o un rana pescatrice con bocca gigante
 - Apri la bocca dello squalo per rivelare i suoi spaventosi denti appuntiti
 - Aiuta a proteggere il simpatico granchio e la sua cassa del tesoro
-- Costruisci lo squalo con il granchio e il tesoro, quindi ricostruiscili per creare un calamaro flessibile o un rana pescatrice con bocca gigante
-- Guarda i fantastici colori blu e bianco dello squalo
 
 [Buy it now!!](https://www.amazon.it/dp/B07FNS6J7R/?tag=tolees00-21)
