@@ -25,10 +25,10 @@ There's a deal [LEGO 60253 City Great Vehicles Ice-Cream Truck Toy with�
 
 ℹ️:
 
-- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
-- Kids can help drive the van, serve ice-cream cones and lollies from the serving hatch and help the skateboarder perform cool tricks
-- Let kids enjoy sunny, summer-day fun with easy-access van interior and a movable van roof ice-cream post, to role-play familiar scenes
-- Features a colourful ice-cream van toy car with funny stickers, removable drivers cabin roof and wide-opening side doors for easy access
 - Includes two minifigures and a dog figure, plus an array of awesome accessories: A popsicle, cone, safety helmet and a green banknote
+- Kids can help drive the van, serve ice-cream cones and lollies from the serving hatch and help the skateboarder perform cool tricks
+- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
+- Features a colourful ice-cream van toy car with funny stickers, removable drivers cabin roof and wide-opening side doors for easy access
+- Let kids enjoy sunny, summer-day fun with easy-access van interior and a movable van roof ice-cream post, to role-play familiar scenes
 
 [Buy it now!!](https://www.amazon.co.uk/dp/B07W4KSKXZ/?tag=tolees0a-21)
