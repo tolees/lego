@@ -25,10 +25,10 @@ There's a deal [LEGO 75273 Star Wars Poe Damerons X-Wing Starfighter Bauset  Ser
 
 ℹ️:
 
-- Dieses Set lässt sich hervorragend mit anderen aus der Der Aufstieg Skywalkers -Reihe kombinieren: Sith TIE Fighter (75272) für epische Kämpfe zwischen Erster Ordnung und Widerstand
-- Die verstellbaren Flügel des X-Wing-Jägers gehen für Flug- und Angriffsmodi nach oben oder unten und feuern mit Bolzen geladene Geschütze und federbelastete Raketen ab
 - Verfügt über ein Minifiguren-Cockpit zum Öffnen, Platz für R2-D2, verstellbare Tragflächen, mit Bolzen geladene Geschütze sowie ein einziehbares Fahrwerk
 - Enthält drei Minifiguren - Poe Dameron, einen Ritter von Ren, Jannah – mit neuen Features und Waffen sowie einen R2-Dzwei LEGO-Droiden
+- Die verstellbaren Flügel des X-Wing-Jägers gehen für Flug- und Angriffsmodi nach oben oder unten und feuern mit Bolzen geladene Geschütze und federbelastete Raketen ab
 - Kinder können in diesem Raumschiff mit Poe Dameron gegen die Erste Ordnung in die Schlacht ziehen oder mit Jannahs coolen Waffen auf dem Boden gegen den Ritter von Ren kämpfen
+- Dieses Set lässt sich hervorragend mit anderen aus der Der Aufstieg Skywalkers -Reihe kombinieren: Sith TIE Fighter (75272) für epische Kämpfe zwischen Erster Ordnung und Widerstand
 
 [Buy it now!!](https://www.amazon.de/dp/B07W7TMLFY/?tag=tolees0ca-21)
