@@ -25,10 +25,10 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Star Wa
 
 ℹ️:
 
-- The Mustafarian mine measures over 5” (14cm) high, 4” (12cm) wide and 4” (12cm) deep – a compact size for portability – and opens up to a width of 9” (23cm)
-- With iconic Star Wars rivals, Lightsabers and a molten lava explosion, this foldout LEGO set has all youngsters need to role-play Anakin vs Obi-Wan battles on the planet Mustafar
-- Kids can build a Mustafarian mine and place the Lightsaber-wielding Anakin Skywalker and Obi-Wan Kenobi LEGO minifigures on sliding, rotating platforms to recreate the epic Lightsaber Duel on Mustafar
-- Both minifigures are new for January 2020, with burnt, battle-worn clothing decorations, and there are lots of LEGO bricks to inspire young fans to build creatively with other LEGO Star Wars sets
 - This LEGO Star Wars building set sparks imagination, offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 7+ who love Star Wars, LEGO Star Wars and space battle toys
+- The Mustafarian mine measures over 5” (14cm) high, 4” (12cm) wide and 4” (12cm) deep – a compact size for portability – and opens up to a width of 9” (23cm)
+- Both minifigures are new for January 2020, with burnt, battle-worn clothing decorations, and there are lots of LEGO bricks to inspire young fans to build creatively with other LEGO Star Wars sets
+- Kids can build a Mustafarian mine and place the Lightsaber-wielding Anakin Skywalker and Obi-Wan Kenobi LEGO minifigures on sliding, rotating platforms to recreate the epic Lightsaber Duel on Mustafar
+- With iconic Star Wars rivals, Lightsabers and a molten lava explosion, this foldout LEGO set has all youngsters need to role-play Anakin vs Obi-Wan battles on the planet Mustafar
 
 [Buy it!!](https://www.amazon.com/dp/B07WFHWSLR/?tag=tolees-20)
