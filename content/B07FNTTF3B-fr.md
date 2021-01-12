@@ -25,11 +25,11 @@ With a final price of 33.24 EUR (original: 39.99 EUR) you can find [LEGO® NINJA
 
 ℹ️:
 
+- Issu de lunivers de la série LEGO NINJAGO
 - Inclut 4 figurines LEGO NINJAGO : Jay, Nya, Pythor et Lasha
-- Le Supersonic de Jay mesure plus de 8 cm de haut, 28 cm de long et 30 cm de large
 - Les ensembles LEGO NINJAGO sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Le Supersonic de Jay mesure plus de 8 cm de haut, 28 cm de long et 30 cm de large
 - Construisez le jet supersonic de Jay LEGO NINJAGO Legacy
 - 490 pièces pour les filles et les garçons à partir de 9 ans
-- Issu de lunivers de la série LEGO NINJAGO
 
 [Buy it!!](https://www.amazon.fr/dp/B07FNTTF3B/?tag=tolees0d-21)
