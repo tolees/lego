@@ -25,10 +25,10 @@ With a final price of 11.99 USD (original: 14.99 USD) you can find [LEGO Speed C
 
 ℹ️:
 
-- Includes a Ferrari racing driver minifigure with a helmet
-- Ferrari F40 Competizione car toy measures over 1-inch (4cm) high, 5-inch (13cm) long and 1-inch (5cm) wide
-- This LEGO Speed Champions Ferrari F40 Competizione 75890 fast car playset can be built together with all other original LEGO building toys and LEGO bricks for creative building
 - 198 pieces – Racing car toy for boys and girls aged 7+ and for fans and kids of all ages
+- Ferrari F40 Competizione car toy measures over 1-inch (4cm) high, 5-inch (13cm) long and 1-inch (5cm) wide
 - Build, race and display the Ferrari F40 Competizione with a minifigure cockpit, removable windshield, plus interchangeable car spoilers and hoods to turn the Competizione into the classic F40 road car!
+- Includes a Ferrari racing driver minifigure with a helmet
+- This LEGO Speed Champions Ferrari F40 Competizione 75890 fast car playset can be built together with all other original LEGO building toys and LEGO bricks for creative building
 
-[Buy it!!](https://www.amazon.com/dp/B07GYV375R/?tag=tolees-20)
+[🛒 Buy it!!](https://www.amazon.com/dp/B07GYV375R/?tag=tolees-20)
