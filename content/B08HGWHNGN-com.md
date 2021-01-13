@@ -25,8 +25,8 @@ There's a deal [LEGO Harry Potter Hedwig 75979](https://www.amazon.com/dp/B08HGW
 
 ℹ️:
 
-- With a wingspan of over 13 (34cm) and a beak-to-tail measurement of over 7 (20cm), this mechanical Hedwig collectible LEGO set makes an impressive display that is sure to be the center of attention.
 - This authentic toy shows Hedwig the snowy owl delivering an important letter from Hogwarts. Also included is a detachable LEGO Harry Potter minifigure and a mini Hedwig toy.
+- With a wingspan of over 13 (34cm) and a beak-to-tail measurement of over 7 (20cm), this mechanical Hedwig collectible LEGO set makes an impressive display that is sure to be the center of attention.
 - This LEGO Harry Potter set doesnt need any batteries. The moving wings are powered purely by a hand-turned mechanism at the rear of the toy.
 
 [Buy it now!!](https://www.amazon.com/dp/B08HGWHNGN/?tag=tolees-20)
