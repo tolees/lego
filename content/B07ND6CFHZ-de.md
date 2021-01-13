@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42099 Technic Control+ 4x4 Allrad X at 27.30 % discount'
-date: 2021-01-12 16:42:53
+date: 2021-01-13 16:58:30
 image: 'https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '27.30'
-average: '164.68421926910295'
+average: '164.67860927152313'
 ---
 
 With a final price of 162.99 EUR (original: 224.19 EUR) you can find [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) with a  27.30 % discount here:
@@ -25,10 +25,10 @@ With a final price of 162.99 EUR (original: 224.19 EUR) you can find [LEGO 42099
 
 ℹ️:
 
-- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
-- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
-- Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
 - Das coole Geländewagen-Modell wird mit der LEGO Technic Control+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben
+- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
 - Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei Bildschirme auf einem Mobilgerät gesteuert.
+- Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
+- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
 
-[Buy it!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
+[🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
