@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Discount of 31.29 % for LEGO Friends 41387 - Olivias Sommer-Herz'
+date: 2020-01-15 17:19:03
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qEhqNaFLL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07KTK971G-de'
+actualPrice: 5.49 EUR
+currency: EUR
+price: 5.49
+comparePrice: 7.99 EUR
+prodname: 'LEGO Friends 41387 - Olivias Sommer-Herzbox  Bauset'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B07KTK971G/?tag=tolees0ca-21'
+descuento: '31.29'
+average: '5.49'
+---
+
+You've got [LEGO Friends 41387 - Olivias Sommer-Herzbox  Bauset](https://www.amazon.de/dp/B07KTK971G/?tag=tolees0ca-21) with a  31.29 % discount, with final price of 5.49 EUR (original: 7.99 EUR) at the following link:
+
+[![LEGO Friends 41387 - Olivias Sommer-Herz](https://images-eu.ssl-images-amazon.com/images/I/51qEhqNaFLL._SL200_.jpg)](https://www.amazon.de/dp/B07KTK971G/?tag=tolees0ca-21)
+
+ℹ️:
+
+
+[🛒 Check the deal!!](https://www.amazon.de/dp/B07KTK971G/?tag=tolees0ca-21)
