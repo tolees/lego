@@ -26,9 +26,9 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Speed C
 ℹ️:
 
 - The Nissan GT-R NISMO measures 1” (5cm) high, 6” (16cm) long and 2” (7cm) wide: new for 2020, all LEGO Speed Champions cars are now 25% bigger to include even more details from the original versions!
-- With a buildable Nissan GT-R NISMO and 1 collectible minifigure in a Nissan racing suit, this model car kit will captivate both kids and car fans, inspiring them to independent play and letting them stage races with friends
+- A rare chance to own an authentically detailed LEGO replica of the legendary Nissan GT-R NISMO!
 - The mini version of the Nissan GT-R NISMO can be built and displayed or used to race against other LEGO Speed Champions cars
 - This 298-piece Nissan GT-R NISMO model car kit provides an exciting mission for boys and girls ages 8+ who love to create and play with toy racing cars. It will make a cherished gift at any time of year
-- A rare chance to own an authentically detailed LEGO replica of the legendary Nissan GT-R NISMO!
+- With a buildable Nissan GT-R NISMO and 1 collectible minifigure in a Nissan racing suit, this model car kit will captivate both kids and car fans, inspiring them to independent play and letting them stage races with friends
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WHMBVTF/?tag=tolees-20)

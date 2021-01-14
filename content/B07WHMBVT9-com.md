@@ -25,10 +25,10 @@ With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Star Wa
 
 ℹ️:
 
-- Lukes landspeeder measures over 1” (5cm) high, 7” (20cm) long and 4” (11cm) wide
 - This LEGO Star Wars building set sparks imagination, offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 7+ who love Star Wars, LEGO Star Wars and space battle toys
-- Fans can reimagine action from Star Wars: A New Hope with this brilliantly detailed Star Wars toy, and there are plenty of LEGO bricks to encourage endless creative building and play
-- Let young Jedi role-play as Luke Skywalker driving this new-for-January 2020 Star Wars X-34 landspeeder with cool details, including a trunk for his macrobinoculars!
 - This iconic Star Wars toy includes 3 minifigures: Luke Skywalker (with a new-for-January-2020 fabric poncho), C-3PO, and an armed Jawa in its buildable cave hideout!
+- Let young Jedi role-play as Luke Skywalker driving this new-for-January 2020 Star Wars X-34 landspeeder with cool details, including a trunk for his macrobinoculars!
+- Fans can reimagine action from Star Wars: A New Hope with this brilliantly detailed Star Wars toy, and there are plenty of LEGO bricks to encourage endless creative building and play
+- Lukes landspeeder measures over 1” (5cm) high, 7” (20cm) long and 4” (11cm) wide
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WHMBVT9/?tag=tolees-20)

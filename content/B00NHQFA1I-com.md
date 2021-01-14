@@ -25,10 +25,10 @@ With a final price of 26.49 USD (original: 34.99 USD) you can find [LEGO Classic
 
 ℹ️:
 
-- Kids will spend hours engaging in pretend play with this medium-sized building kit. This build your own play toy allows kids to create toy trains or tiger figurines with this classic collection of LEGO bricks in 35 different colors
+- In this creative kit with 484 pieces the green baseplate measures over 3 inches long and 6 inches wide; for boys and girls between the ages of 4 and 99 years old
 - Kids can use their imagination to bring to life any building toy they want with these colorful toys, fostering kids playtime and building creativity throughout the process
 - This creative toy for boys and girls includes windows, toy eyes, 18 tires and toy wheel rims that can be placed on a green baseplate for kids to role play; plus the container can be used as toy storage
-- In this creative kit with 484 pieces the green baseplate measures over 3 inches long and 6 inches wide; for boys and girls between the ages of 4 and 99 years old
 - Kids wont have to stop the role play with just the LEGO Creative Brick playset as these building toys are compatible with all LEGO construction sets for creative play
+- Kids will spend hours engaging in pretend play with this medium-sized building kit. This build your own play toy allows kids to create toy trains or tiger figurines with this classic collection of LEGO bricks in 35 different colors
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B00NHQFA1I/?tag=tolees-20)

@@ -25,10 +25,10 @@ There's a deal [LEGO Creator Expert 10276 Colosseum  9036pcs ](https://www.amazo
 
 ℹ️:
 
-- Anyone with a passion for architecture models will appreciate the amazing detail packed into this Colosseum souvenir. With 3 stories, the model is adorned with columns of the Doric, Ionic and Corinthian orders.
-- With an astounding 9,036 pieces, this Colosseum model is the biggest LEGO set ever (as at November 2020), providing hours of relaxation for adults who love building sets.
 - If you’re looking for special gifts for architecture fans or history lovers, this building set is a great choice, providing hours of hands-on building experiences with a stunning Colosseum model to display.
-- Bring to life your own brick-built model of the mighty Colosseum with this engaging and rewarding LEGO Colosseum (10276) model kit for adults.
+- With an astounding 9,036 pieces, this Colosseum model is the biggest LEGO set ever (as at November 2020), providing hours of relaxation for adults who love building sets.
+- Anyone with a passion for architecture models will appreciate the amazing detail packed into this Colosseum souvenir. With 3 stories, the model is adorned with columns of the Doric, Ionic and Corinthian orders.
 - This Colosseum architecture model measures over 10.5” (27cm) high, 20.5” (52cm) wide and 23.5” (59cm) deep. With 9,036 pieces it’s one of the biggest LEGO sets in the world, but is easy to lift and turn.
+- Bring to life your own brick-built model of the mighty Colosseum with this engaging and rewarding LEGO Colosseum (10276) model kit for adults.
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08P11X1HX/?tag=tolees-20)
