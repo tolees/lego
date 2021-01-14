@@ -25,10 +25,10 @@ There's a deal [LEGO 42103 Technic Dragster Rennauto oder Hot Road  2-in-1 Set m
 
 ℹ️:
 
-- Dieses zwei -in-1-Modell bietet jeden Tag tollen Motorsport, denn der Dragster Rennwagen lässt sich auch noch in einen coolen Hot Rod umbauen, genau wie bei einem echten Dragster
-- Mithilfe der digitalen Anleitung Instructions PLUS in der kostenlosen LEGO Life App mit Funktionen zum Heranzoomen und Drehen lässt sich jedoch auch noch eine unterhaltsame Baumethode entdecken
-- Zurückziehen und loslassen. Mehr ist wirklich nicht nötig. Sogar junge Rennfahrer sind in der Lage, Nervenkitzel eines rasanten Autorennens nachzustellen
 - Mit eingerasteter Wheelie-Stütze kann das Modell atemberaubende Wheelies machen. Mit allen vier Rädern auf der Straße lassen sich jedoch auch Geschwindigkeitsrekorde aufstellen
+- Mithilfe der digitalen Anleitung Instructions PLUS in der kostenlosen LEGO Life App mit Funktionen zum Heranzoomen und Drehen lässt sich jedoch auch noch eine unterhaltsame Baumethode entdecken
 - Einmal gebaut, geht der Spaß weiter. Baue die Mini-Ampel ein, das Auto dann zurückziehen und loslassen
+- Dieses zwei -in-1-Modell bietet jeden Tag tollen Motorsport, denn der Dragster Rennwagen lässt sich auch noch in einen coolen Hot Rod umbauen, genau wie bei einem echten Dragster
+- Zurückziehen und loslassen. Mehr ist wirklich nicht nötig. Sogar junge Rennfahrer sind in der Lage, Nervenkitzel eines rasanten Autorennens nachzustellen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7V6R6Y/?tag=tolees0ca-21)
