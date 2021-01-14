@@ -25,10 +25,10 @@ You've got [LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-B
 
 ℹ️:
 
-- Die digitale Anleitung Instructions PLUS, erhältlich in der kostenlosen LEGO Life App für Smartphones und Tablets, verfügt über Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, die Kindern beim Bauen helfen
-- Verfügt über drei Konstruktionsmodelle, die nach Schlachten einfach wiederaufgebaut werden können: Der Snowspeeder, die Echo Base-Verteidigungsstation und ein Speeder-Bike
-- Kinder können helfen, Echo Base vor bösen Angriffen des Imperiums zu schützen – die Verteidigungsstation verfügt über ein Laser-Disc-Geschütz, mit dem sie auf den Eindringling schießen können
-- Mit dem Starter-Stein-Chassis lernen Kinder, den Zweck des Bauens nach Schritten zu verstehen, und steigern gleichzeitig ihr Selbstvertrauen
 - Beinhaltet zwei Minifiguren: Star Wars Widerstands-Piloten Wedge Antilles und einen Snowtrooper mit Waffen
+- Mit dem Starter-Stein-Chassis lernen Kinder, den Zweck des Bauens nach Schritten zu verstehen, und steigern gleichzeitig ihr Selbstvertrauen
+- Kinder können helfen, Echo Base vor bösen Angriffen des Imperiums zu schützen – die Verteidigungsstation verfügt über ein Laser-Disc-Geschütz, mit dem sie auf den Eindringling schießen können
+- Verfügt über drei Konstruktionsmodelle, die nach Schlachten einfach wiederaufgebaut werden können: Der Snowspeeder, die Echo Base-Verteidigungsstation und ein Speeder-Bike
+- Die digitale Anleitung Instructions PLUS, erhältlich in der kostenlosen LEGO Life App für Smartphones und Tablets, verfügt über Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, die Kindern beim Bauen helfen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
