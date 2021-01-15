@@ -25,10 +25,10 @@ There's a deal [LEGO Star Wars Jedi Interceptor di Anakin Star Wars TM Giocattol
 
 ℹ️:
 
-- Questo giocattolo costruibile per i bambini non richiede batterie, e quindi l’azione non si ferma mai
+- Lo starfighter è dotato di deflettori alari ripiegabili e shooter a molla per le battaglie
 - I set LEGO Star Wars offrono a bambini (e ai fan) un’intera galassia di azione e divertimento
 - Giocattolo costruibile compatto e facilmente trasportabile in una borsa per giocare ovunque
+- Questo giocattolo costruibile per i bambini non richiede batterie, e quindi l’azione non si ferma mai
 - Famigerato Jedi Interceptor, per avventure LEGO Star Wars. Minifigure LEGO di Anakin Skywalker con spada laser e personaggio R2-D2 per giochi di ruolo
-- Lo starfighter è dotato di deflettori alari ripiegabili e shooter a molla per le battaglie
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B0813R8PHT/?tag=tolees00-21)
