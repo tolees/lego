@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 16.67 % for LEGO 10696 Classic Medium Creative Brick'
-date: 2021-01-14 17:00:11
+date: 2021-01-15 18:02:23
 image: 'https://m.media-amazon.com/images/I/514YhyJAETL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21'
 descuento: '16.67'
-average: '25.237615894039735'
+average: '25.235986842105262'
 ---
 
 You've got [LEGO 10696 Classic Medium Creative Brick Box  Easy Toy Storage  Lego Masters Fan Gift](https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21) with a  16.67 % discount, with final price of 24.99 GBP (original: 29.99 GBP) at the following link:
@@ -25,10 +25,10 @@ You've got [LEGO 10696 Classic Medium Creative Brick Box  Easy Toy Storage  Lego
 
 ℹ️:
 
+- All illustrated models can be built from this set at the same time
 - Includes 18 tires and 18 rims
-- Contains a wide range of LEGO bricks in 35 different colors
 - LEGO Classic is designed to serve as an inspiration for endless creativity when building with LEGO bricks
 - The special elements include an 8 x 16 cm base plate, a window with frame and 3 pairs of eyes
-- All illustrated models can be built from this set at the same time
+- Contains a wide range of LEGO bricks in 35 different colors
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21)
