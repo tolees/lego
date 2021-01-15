@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'LEGO Le Magicobus Harry Potter Bus Viole at 27.13 % discount'
-date: 2021-01-07 23:09:35
+title: 'LEGO Le Magicobus Harry Potter Bus Viole at 32.73 % discount'
+date: 2021-01-14 23:46:13
 image: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KX54VHF-fr'
-actualPrice: 29.14 EUR
+actualPrice: 26.9 EUR
 currency: EUR
-price: 29.14
+price: 26.9
 comparePrice: 39.99 EUR
 prodname: 'LEGO Le Magicobus Harry Potter Bus Violet à 3 Niveaux Jeu d Assemblage  75957'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21'
-descuento: '27.13'
-average: '31.752549019607823'
+descuento: '32.73'
+average: '31.785096153846133'
 ---
 
-With a final price of 29.14 EUR (original: 39.99 EUR) you can find [LEGO Le Magicobus Harry Potter Bus Violet à 3 Niveaux Jeu d Assemblage  75957](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21) with a  27.13 % discount here:
+With a final price of 26.9 EUR (original: 39.99 EUR) you can find [LEGO Le Magicobus Harry Potter Bus Violet à 3 Niveaux Jeu d Assemblage  75957](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21) with a  32.73 % discount here:
 
 [![LEGO Le Magicobus Harry Potter Bus Viole](https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg)](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21)
 
 ℹ️:
 
-- Stan Shunpike émet des billets et Ernie Prang n’a toujours pas maîtrisé ses aptitudes de direction - la course sera cahoteuse
-- Inclut 3 nouvelles figurines LEGO Harry Potter pour juin 2019: Harry Potter, Stan Shunpike et Ernie Prang
-- Construisez le jouet LEGO Knight Bus à 3 niveaux avec un panneau latéral à ouverture articulée, un toit amovible, un lit coulissant mobile et un lustre pivotant
 - Donnez à votre jeune sorcière ou sorcier le trajet de sa vie à bord du bus Harry Potter LEGO Knight! Lorsque les enfants prennent l’autobus violet à trois étages, ils se rendent compte qu’il s’agit d’une folle course vers Poudlard. Avec un panneau latéral à charnière pour un accès facile à lintérieur et un toit amovible pour révéler le pont supérieur, ce bus magique déborde de potentiel de jeu. Une fois que la malle de Harry a été chargée, il est temps de tenir fermement; Pendant que le Knight Bus séloigne, déviant dans les virages et rebondissant sur les bosses, les enfants adoreront la coulisse du lit et le lustre pivotant du plafond. Lensemble de jeu de jouets Knight Bus est livré avec 3 figurines et de nombreux accessoires amusants pour transporter les magiciens, les sorcières et les moldus dans un monde de jeux imaginatifs;
 - Comprend la tête effrontée Shrunken Head et la poitrine de Harry Potter contenant une baguette, une lettre, une barre de chocolat et une bouteille de potion
+- Inclut 3 nouvelles figurines LEGO Harry Potter pour juin 2019: Harry Potter, Stan Shunpike et Ernie Prang
+- Stan Shunpike émet des billets et Ernie Prang n’a toujours pas maîtrisé ses aptitudes de direction - la course sera cahoteuse
+- Construisez le jouet LEGO Knight Bus à 3 niveaux avec un panneau latéral à ouverture articulée, un toit amovible, un lit coulissant mobile et un lustre pivotant
 
-[Buy it!!](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21)
+[🛒 Buy it!!](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21)
