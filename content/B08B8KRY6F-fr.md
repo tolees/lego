@@ -25,10 +25,10 @@ With a final price of 79.99 EUR (original: 159.98 EUR) you can find [Kepae Modè
 
 ℹ️:
 
-- Adapté aux enfants à partir de 8 ans et plus
 - Le livret technique de montage fourni avec est très clair et précis.
-- cest un excellent jouet et un très beau cadeau à offrir, soit pour ado soit pour adulte.
-- Grande Architecture de1326 pièces
 - Dimensions du produit: 19,2 x 17,5 x 25,5 cm
+- Grande Architecture de1326 pièces
+- Adapté aux enfants à partir de 8 ans et plus
+- cest un excellent jouet et un très beau cadeau à offrir, soit pour ado soit pour adulte.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B08B8KRY6F/?tag=tolees0d-21)
