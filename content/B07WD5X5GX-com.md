@@ -25,10 +25,10 @@ There's a deal [LEGO DUPLO Classic Heart Box 10909 First Building Playset and Le
 
 ℹ️:
 
-- With this versatile playset, your preschooler can start building with the 15 easy-to-build models, then move on to free-building creativity and creating fun role play scenarios
-- Share fun and learning with your toddler as they build cute colorful models and imagine their own creations with bright, easy-to-handle LEGO DUPLO bricks that spark creativity!
-- Includes 80 LEGO DUPLO bricks, instructions for 15 models and combines with other LEGO DUPLO sets to expand kids creative play and learning possibilities
 - Includes 80 colorful, toddler-friendly bricks that can be built into 15 easy-to-make cute objects that toddlers will recognize from everyday life, including a house, ice cream, whale and flower
+- Share fun and learning with your toddler as they build cute colorful models and imagine their own creations with bright, easy-to-handle LEGO DUPLO bricks that spark creativity!
+- With this versatile playset, your preschooler can start building with the 15 easy-to-build models, then move on to free-building creativity and creating fun role play scenarios
 - With easy instructions and safe, easy-to-handle LEGO DUPLO bricks, its an educational toddler toy that makes a great holiday, birthday or anyday gift for boys and girls ages 18 months and up
+- Includes 80 LEGO DUPLO bricks, instructions for 15 models and combines with other LEGO DUPLO sets to expand kids creative play and learning possibilities
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07WD5X5GX/?tag=tolees-20)
