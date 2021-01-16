@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.96 % deal for LEGO 42103 Technic Dragster Rennauto ode'
-date: 2021-01-14 04:52:56
+date: 2021-01-16 00:53:03
 image: 'https://m.media-amazon.com/images/I/51HFD62i3XL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W7V6R6Y/?tag=tolees0ca-21'
 descuento: '17.96'
-average: '17.685361702127658'
+average: '17.671054852320673'
 ---
 
 There's a deal [LEGO 42103 Technic Dragster Rennauto oder Hot Road  2-in-1 Set mit Rückziehmotor  Sammlung von Dragster Rennfahrzeugen](https://www.amazon.de/dp/B07W7V6R6Y/?tag=tolees0ca-21)  with  17.96 % discount, final price tag of  15.99 EUR (original: 19.49 EUR) here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 21.78 % for LEGO 75286 Star Wars General Grievous‘ S'
-date: 2021-01-13 16:59:45
+date: 2021-01-16 00:19:37
 image: 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,10 @@ You've got [LEGO 75286 Star Wars General Grievous‘ Starfighter Bauset](https:/
 
 ℹ️:
 
-- Zu diesem fantastischen Bauspielzeug gehören auch 3 LEGO Star Wars Minifiguren – General Grievous, Obi-Wan Kenobi mit Lichtschwert sowie ein Airborne Clone Trooper mit Blaster –, um unterhaltsame Rollenspiele und kreative Abenteuer zu ermöglichen
-- Dieses 487-teilige Set bietet viele Spielmöglichkeiten, die das Spielzeug zu einem tollen Geburtstags- oder Weihnachtsgeschenk für Jungen und Mädchen ab 9 Jahren machen, um ihnen die LEGO Star Wars Bauspielzeuge vorzustellen oder ihre Sammlungen zu erweitern
-- General Grievous‘ Starfighter verfügt über ein Cockpit für eine LEGO Minifigur, 2 Shooter mit Federmechanismus sowie ein einziehbares Fahrwerk, um die Fantasie der Fans anzuregen und Kinder allein oder zusammen mit Freunden spielen zu lassen
-- Keine Batterien erforderlich! Diesem LEGO Star Wars Raumschiff-Bauspielzeug reicht die Fantasie der Kinder als Antrieb, um beim Spielen mit dem Starfighter und den LEGO Minifiguren die besten galaktischen Abenteuer zu erleben
-- Das Bau- und Spielset 75286 enthält General Grievous‘ Starfighter aus dem Film „Star Wars: Die Rache der Sith“, um Kinder legendäre Actionszenen mit General Grievous und Obi-Wan Kenobi nachspielen zu lassen
-- Dieses Baumodell ist 8 cm hoch, 30 cm lang und 17 cm breit. Fans können auch im Videospiel „LEGO Star Wars: Die Skywalker Saga“ mit dem Raumschiff fliegen
+- Comes with illustrated, step-by-step instructions so that even Star Wars fans new to LEGO can build this spacecraft independently
+- Help Obi-Wan Kenobi take on General Grievous’s Starfighter with its opening cockpit, 2 spring-loaded shooters and retractable landing gear
+- A super gift idea for Star Wars fan, great for solo or group play and an awesome addition to combine with and expand other LEGO sets
+- Includes 3 LEGO minifigures: General Grievous, Obi-Wan Kenobi with his Lightsaber and an Airborne Clone Trooper with a blaster
+- Re-imagine classic action battles from Star Wars: Revenge of the Sith with the Starfighter, minifigures and all the cool weapons
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813QVVSW/?tag=tolees0ca-21)

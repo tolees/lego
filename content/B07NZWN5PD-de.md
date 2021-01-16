@@ -25,8 +25,8 @@ You've got [Steinchenwelt Lego Speed Champions 2er Set: 75890 Ferrari F40 Compet
 
 ℹ️:
 
-- LEGO Speed Champions 75892 McLaren Senna
 - LEGO 2er Set bestehend aus:
 - LEGO Speed Champions 75890 Ferrari F40 Competizione
+- LEGO Speed Champions 75892 McLaren Senna
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07NZWN5PD/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.93 % deal for LEGO 21034 Architecture London  Skyline-'
-date: 2021-01-13 11:09:38
+date: 2021-01-16 00:06:13
 image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21'
 descuento: '17.93'
-average: '31.60324786324787'
+average: '31.60652542372882'
 ---
 
 There's a deal [LEGO 21034 Architecture London  Skyline-Kollektion  London Eye  Big Ben  Tower Bridge  Bauset  Geschenkidee für Sammler](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21)  with  17.93 % discount, final price tag of  31.99 EUR (original: 38.98 EUR) here:
