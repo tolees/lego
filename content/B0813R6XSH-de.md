@@ -25,10 +25,10 @@ You've got [LEGO 75284 Star Wars Transportraumschiff der Ritter von Ren  Bauset 
 
 ℹ️:
 
-- Includes 3 LEGO minifigures: 2 Knights of Ren with new helmet designs, and Rey with her blue Lightsaber
-- Open up a galaxy of entertainment for kids (and adult Star Wars fans) with the LEGO Star Wars Knights of Ren Transport Ship
 - Comes with easy-to-follow, illustrated instructions so that even Star Wars fans new to LEGO can build with Jedi-like confidence
-- The ship ‘hovers’ with hidden skis underneath, has 2 opening cockpits, a minifigure prison compartment and 2 spring-loaded shooters
+- Open up a galaxy of entertainment for kids (and adult Star Wars fans) with the LEGO Star Wars Knights of Ren Transport Ship
+- Includes 3 LEGO minifigures: 2 Knights of Ren with new helmet designs, and Rey with her blue Lightsaber
 - Perfect for boys and girls aged 9+ to add to their LEGO Star Wars collections and combine with other LEGO sets for extra ingenious fun
+- The ship ‘hovers’ with hidden skis underneath, has 2 opening cockpits, a minifigure prison compartment and 2 spring-loaded shooters
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813R6XSH/?tag=tolees0ca-21)
