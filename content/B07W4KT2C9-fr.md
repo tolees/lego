@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture Modèle Dubaï  Skyline  at 15.68 % discount'
-date: 2021-01-14 23:44:00
+date: 2021-01-16 06:32:37
 image: 'https://m.media-amazon.com/images/I/51re8MnYAYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W4KT2C9/?tag=tolees0d-21'
 descuento: '15.68'
-average: '54.69579710144929'
+average: '54.69728571428573'
 ---
 
 With a final price of 54.8 EUR (original: 64.99 EUR) you can find [LEGO Architecture Modèle Dubaï  Skyline Collection  Ensemble de construction à collectionner  129 pièces  21052](https://www.amazon.fr/dp/B07W4KT2C9/?tag=tolees0d-21) with a  15.68 % discount here:
