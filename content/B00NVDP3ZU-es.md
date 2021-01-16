@@ -25,15 +25,15 @@ You've got [LEGO Classic - Caja de ladrillos Creativos  Set de Construcción con
 
 ℹ️:
 
+- Las numerosas ruedas facilitan la creación de vehículos y el juego con los mismos.
+- La base verde mide más de 8 cm de longitud y 16 cm de ancho.
+- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
 - Viene en una útil caja de almacenamiento de plástico.
-- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
 - Contiene 18 neumáticos y 18 llantas.
 - Las piezas especiales fomentan la construcción imaginativa.
 - Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
-- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
-- La base verde mide más de 8 cm de longitud y 16 cm de ancho.
-- Piezas especiales incluidas: base verde de 8 cm x 16 cm, una ventana con marco y 3 pares de ojos.
+- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
 - Ideas incluidas con el set y disponibles en LEGO.com/classic para ayudarte a dar tus primeros pasos.
-- Las numerosas ruedas facilitan la creación de vehículos y el juego con los mismos.
+- Piezas especiales incluidas: base verde de 8 cm x 16 cm, una ventana con marco y 3 pares de ojos.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B00NVDP3ZU/?tag=tolees-21)
