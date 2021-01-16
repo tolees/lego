@@ -25,13 +25,13 @@ With a final price of 46.25 EUR (original: 54.99 EUR) you can find [LEGO Archite
 
 ℹ️:
 
-- Recrea las ciudades más dinámicas del mundo con los modelos LEGO Architecture Skyline Collection.
+- Mide más de 22 cm de altura, 28 cm de ancho y 11 cm de profundidad.
+- Interpretación LEGO Architecture de París.
 - Este set incluye más de 694 elementos.
 - Representa algunos de los monumentos más famosos de París, como el Arco del Triunfo, los Campos Elíseos, la Torre Montparnasse, el Grand Palais, la Torre Eiffel y el Louvre, y cuenta con áreas ajardinadas y arboladas.
-- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada estructura, así como datos históricos sobre París y su legado arquitectónico (sólo en francés e inglés; disponible en otros idiomas en LEGO.com/architecture).
 - Incluye una base de baldosas de 4x32 y una placa decorativa con la palabra “Paris”.
-- Interpretación LEGO Architecture de París.
-- Mide más de 22 cm de altura, 28 cm de ancho y 11 cm de profundidad.
+- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada estructura, así como datos históricos sobre París y su legado arquitectónico (sólo en francés e inglés; disponible en otros idiomas en LEGO.com/architecture).
 - Los sets LEGO Architecture celebran el mundo de la arquitectura por medio del ladrillo LEGO y están dirigidos a amantes de los viajes, el diseño, la arquitectura y la historia.
+- Recrea las ciudades más dinámicas del mundo con los modelos LEGO Architecture Skyline Collection.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07FNN147J/?tag=tolees-21)

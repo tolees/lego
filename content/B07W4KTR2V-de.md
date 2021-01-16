@@ -25,10 +25,10 @@ With a final price of 36.99 EUR (original: 48.73 EUR) you can find [LEGO 31105 C
 
 ℹ️:
 
-- Die Konditorei hat einen detaillierten Innenraum mit Kocheinrichtungen, Kaffeegarten für einen Kunden und sogar eine Satellitenantenne auf dem Dach
 - Der Blumenladen bietet viele Blumen in Vasen, Sonnenschutz-Markisen, ein Dachfenster und ein großes rotes Schild seines Handels
+- Das Stadthaus hat eine Wohnung im Obergeschoss, ein Spielzeugladen im Erdgeschoss und viele architektonische Details und Spielzubehör zum gemeinsamen Spielen
 - Enthält 2 Minifiguren, eine aus Steinen gebaute Vogelfigur, Zubehör wie Möbel, Lampen, eine Kasse, Banknoten, Kuchen, Spielzeuge und Kisten
 - Ausgestattet mit einem zweigeschossigen Stadthaus, das sich zu einer Konditorei mit Werkstatt und einem Blumenladen mit Dachfenster umbaut, sowie einem funktionierenden Raketen-Münzfahrgeschäft
-- Das Stadthaus hat eine Wohnung im Obergeschoss, ein Spielzeugladen im Erdgeschoss und viele architektonische Details und Spielzubehör zum gemeinsamen Spielen
+- Die Konditorei hat einen detaillierten Innenraum mit Kocheinrichtungen, Kaffeegarten für einen Kunden und sogar eine Satellitenantenne auf dem Dach
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W4KTR2V/?tag=tolees0ca-21)
