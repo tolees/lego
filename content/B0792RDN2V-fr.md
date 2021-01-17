@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.73 % deal for LEGO Harry Potter La Grande Salle du châ'
-date: 2021-01-16 01:08:31
+date: 2021-01-17 02:00:54
 image: 'https://m.media-amazon.com/images/I/512WyegAHQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21'
 descuento: '22.73'
-average: '94.80511538461533'
+average: '94.7301908396946'
 ---
 
 There's a deal [LEGO Harry Potter La Grande Salle du château de Poudlard 75954 Jeu de Construction](https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21)  with  22.73 % discount, final price tag of  84.99 EUR (original: 109.99 EUR) here:
@@ -25,11 +25,11 @@ There's a deal [LEGO Harry Potter La Grande Salle du château de Poudlard 75954 
 
 ℹ️:
 
-- 878 pièces  pour les filles et les garçons de 9 à 14 ans
-- Issu de lunivers des films Harry Potter
 - Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- La grande salle du châteaude Poudlard mesure plus de 37 cm de haut, 30 cm de large et 18 cm de profondeur
-- Ensemble comprenant 10 figurines : Harry Potter, Ron Weasley, Hermione Granger, Drago Malefoy, Susan Bones, le professeur McGonagall, le Professeur Quirrell avec le visage double de Lord Voldemort , Hagrid, Albus Dumbledore, Nick Quasi Sans-Tête, les créatures Basilic et Fumseck, et les figurines Hedwige et Croûtard
+- Issu de lunivers des films Harry Potter
 - Construisez la grande salle du château de Poudlard
+- Ensemble comprenant 10 figurines : Harry Potter, Ron Weasley, Hermione Granger, Drago Malefoy, Susan Bones, le professeur McGonagall, le Professeur Quirrell avec le visage double de Lord Voldemort , Hagrid, Albus Dumbledore, Nick Quasi Sans-Tête, les créatures Basilic et Fumseck, et les figurines Hedwige et Croûtard
+- 878 pièces  pour les filles et les garçons de 9 à 14 ans
+- La grande salle du châteaude Poudlard mesure plus de 37 cm de haut, 30 cm de large et 18 cm de profondeur
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21)
