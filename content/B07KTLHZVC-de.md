@@ -25,9 +25,9 @@ With a final price of 71.99 EUR (original: 97.47 EUR) you can find [LEGO 21046 A
 
 ℹ️:
 
+- Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
 - Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
 - Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
-- Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
 - 1760 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
 

@@ -25,10 +25,10 @@ With a final price of 12.32 EUR (original: 14.61 EUR) you can find [LEGO 75266 S
 
 ℹ️:
 
+- Kids can attach a blaster to the front of the speeder, ready to fire at any moment, and lead troopers into enemy territory for the battle
+- Instructions PLUS are available via the LEGO Life App with zoom in, rotate and visualise tools to guide the real-life building process
+- Includes 4 minifigures: First Order Officer, Sith Trooper and 2 Sith Jet Troopers, with 4 stud-shooting blasters and 2 jetpack elements
 - Add the 75263 Resistance Y-wing Microfighter for First Order vs Resistance battles or 75264 Kylo Ren’s Shuttle Microfighter for more fun
 - Features a battle speeder with room in the cockpit for 2 minifigures, 2 blasting blue engines and grey-blue-black colour scheme
-- Instructions PLUS are available via the LEGO Life App with zoom in, rotate and visualise tools to guide the real-life building process
-- Kids can attach a blaster to the front of the speeder, ready to fire at any moment, and lead troopers into enemy territory for the battle
-- Includes 4 minifigures: First Order Officer, Sith Trooper and 2 Sith Jet Troopers, with 4 stud-shooting blasters and 2 jetpack elements
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W6Q9JZD/?tag=tolees0ca-21)
