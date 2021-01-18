@@ -25,10 +25,10 @@ You've got [LEGO Movie - La Reine aux mille visages - 70824 - Jeu de constructio
 
 ℹ️:
 
-- Construisez le set La Reine Watevra WaNabi issu de la suite du film danimation culte LA GRANDE AVENTURE LEGO 2
-- 115 pièces pour les filles et les garçons de 6 ans et plus
-- La Reine Watevra WaNabi en cheval avec la plateforme mesure plus de 11 cm de haut, 9 cm de long et 6 cm de large Banamar mesure plus de 3 cm de haut
 - Comprend 5 personnages LA GRANDE AVENTURE LEGO 2 : des minifigurines de la Reine Watevra WaNabi en forme de cheval et de Banamar, plus les mini-poupées de Sweet Mayhem et Susan et une nouvelle minifigurine de Lucy
+- Construisez le set La Reine Watevra WaNabi issu de la suite du film danimation culte LA GRANDE AVENTURE LEGO 2
 - Les ensembles LEGO Movie sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- La Reine Watevra WaNabi en cheval avec la plateforme mesure plus de 11 cm de haut, 9 cm de long et 6 cm de large Banamar mesure plus de 3 cm de haut
+- 115 pièces pour les filles et les garçons de 6 ans et plus
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B07FNS6P77/?tag=tolees0d-21)

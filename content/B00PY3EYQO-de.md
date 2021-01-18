@@ -25,10 +25,10 @@ You've got [LEGO 10698 Classic Große kreative Bausteine-Box  Spielzeugaufbewahr
 
 ℹ️:
 
+- Die grünen Grundplatten sind jeweils über 16 cm lang und 16 cm breit sowie 12 cm lang und 6 cm breit
 - Mit dieser klassischen LEGO Steinesammlung in 33 verschiedenen Farben lassen sich eigene sensationelle Gebäude bauen
+- Enthält acht verschiedene Arten von Fenstern und Türen, zwei grüne Grundplatten und sechs Reifen und Felgen
 - LEGO Kreative Bausteine sind kompatibel mit allen LEGO Bausets für kreatives Bauen
 - 790 Teile - Für Jungen und Mädchen zwischen vier und 99 Jahren
-- Enthält acht verschiedene Arten von Fenstern und Türen, zwei grüne Grundplatten und sechs Reifen und Felgen
-- Die grünen Grundplatten sind jeweils über 16 cm lang und 16 cm breit sowie 12 cm lang und 6 cm breit
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B00PY3EYQO/?tag=tolees0ca-21)
