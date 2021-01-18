@@ -28,7 +28,7 @@ There's a deal [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Rennwagen
 - Build your own model of the car that technical features earned a place in rallying history if only because of their extreme character
 - For car fans delight, the new for January 2020, LEGO Speed Champions replicas are now 25 Percent bigger and more realistic than ever
 - The model brilliantly reflects the original with its famous yellow and white livery, front engine, bulked-up bumper and vast rear wing
-- Features a classic rally car reborn for the 35th anniversary of the quattro, one of the kings of the Group B rally racing circuit
 - Includes 1 collectible LEGO driver minifigure in an authentic Audi race suit
+- Features a classic rally car reborn for the 35th anniversary of the quattro, one of the kings of the Group B rally racing circuit
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21)
