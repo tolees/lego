@@ -25,11 +25,11 @@ With a final price of 19.99 EUR (original: 29.23 EUR) you can find [LEGO 71366�
 
 ℹ️:
 
-- Dieses kreative 132-teilige LEGO Spielzeug ist ein tolles Geburtstags- oder Weihnachtsgeschenk, mit dem Kinder ab 7 Jahren ihr Starterset „Abenteuer mit Mario“ (71360) ergänzen können. Es inspiriert sie dazu, ganz eigene Spiellevel zu gestalten
-- Die kreativen LEGO Super Mario Bau- und Spielsets holen einen bei Familien überaus beliebten Videospielcharakter in die echte Welt. Sie gestatten es Fans, die Sets beliebig zu erweitern und umzubauen, um unzählige Spiellevels zu gestalten, die es allein oder zusammen mit Freunden und Geschwistern zu meistern gilt
 - Die Spieler platzieren die nicht enthaltene LEGO Mario Figur auf der genoppten oder glatten Seite der kreisenden Plattform, um den Schwierigkeitsgrad zu verändern. Wie viele Umdrehungen schafft LEGO Mario, ohne herunterzufallen oder von den Riesen-Kugelwillis heruntergestoßen zu werden?
-- Die Kraft eines Supersterns wird nicht benötigt, um LEGO Steine zusammenzustecken oder zu trennen! Sie entsprechen den höchsten Branchenstandards, damit sie sich immer wieder mühelos zu robusten Modellen zusammenstecken lassen
-- In der kostenlosen LEGO Super Mario App finden Kinder digitale Bauanleitungen sowie coole Anzeigefunktionen und Spielideen. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
 - Dieses einzigartige Spielset enthält eine kreisende Plattform für die LEGO Mario Figur (nicht im Set enthalten) und einen Kreisel mit 2 „fliegenden“ Riesen-Kugelwillis. Ein Shy Guy als zusätzliche Figur und ein Superpilz eröffnen weitere spannende Spieloptionen
+- Die Kraft eines Supersterns wird nicht benötigt, um LEGO Steine zusammenzustecken oder zu trennen! Sie entsprechen den höchsten Branchenstandards, damit sie sich immer wieder mühelos zu robusten Modellen zusammenstecken lassen
+- Dieses kreative 132-teilige LEGO Spielzeug ist ein tolles Geburtstags- oder Weihnachtsgeschenk, mit dem Kinder ab 7 Jahren ihr Starterset „Abenteuer mit Mario“ (71360) ergänzen können. Es inspiriert sie dazu, ganz eigene Spiellevel zu gestalten
+- In der kostenlosen LEGO Super Mario App finden Kinder digitale Bauanleitungen sowie coole Anzeigefunktionen und Spielideen. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
+- Die kreativen LEGO Super Mario Bau- und Spielsets holen einen bei Familien überaus beliebten Videospielcharakter in die echte Welt. Sie gestatten es Fans, die Sets beliebig zu erweitern und umzubauen, um unzählige Spiellevels zu gestalten, die es allein oder zusammen mit Freunden und Geschwistern zu meistern gilt
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B082WDBGMP/?tag=tolees0ca-21)
