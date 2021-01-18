@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60248 City Einsatz mit dem Feuerweh at 26.17 % discount'
-date: 2021-01-11 13:13:37
+date: 2021-01-18 14:16:25
 image: 'https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21'
 descuento: '26.17'
-average: '15.557419354838709'
+average: '15.486666666666665'
 ---
 
 With a final price of 14.39 EUR (original: 19.49 EUR) you can find [LEGO 60248 City Einsatz mit dem Feuerwehrhubschrauber Spielzeug  Bauset mit Quad und Motorrad](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21) with a  26.17 % discount here:
@@ -25,10 +25,10 @@ With a final price of 14.39 EUR (original: 19.49 EUR) you can find [LEGO 60248 C
 
 ℹ️:
 
-- Dieses Feuerwehrbauset erfordert grundlegende Fähigkeiten, um erstmalige Baumeister zu ermutigen und gleichzeitig andere LEGO-Sets zu erweitern
-- Enthält drei Minifiguren: einen Top-Feuerwehrpiloten, einen unfallanfälligen Arbeiter und Freya McCloud, die Feuerwehrchefin von City TV
-- Enthält einen Hubschrauber mit Zugriemen, der wirklich fliegt, ein Quad und ein Rohr mit Flammen , das von mutigen Feuerwehrleuten gelöscht werden kann
 - Das Zubehör umfasst Feuerflammen, Ölfässer, eine Axt, eine Schweißmaske und Ausrüstung sowie Feuerlöscher für viele Rollenspielszenarios
+- Dieses Feuerwehrbauset erfordert grundlegende Fähigkeiten, um erstmalige Baumeister zu ermutigen und gleichzeitig andere LEGO-Sets zu erweitern
+- Enthält einen Hubschrauber mit Zugriemen, der wirklich fliegt, ein Quad und ein Rohr mit Flammen , das von mutigen Feuerwehrleuten gelöscht werden kann
+- Enthält drei Minifiguren: einen Top-Feuerwehrpiloten, einen unfallanfälligen Arbeiter und Freya McCloud, die Feuerwehrchefin von City TV
 - Kinder werden an dem Zugriemen ziehen, um den neuen Überwachungshubschrauber in die Luft zu bringen und mit dem Quad schnell zur Rettung zu fahren
 
-[Buy it!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21)
+[🛒 Buy it!!](https://www.amazon.de/dp/B07W8XYZ1P/?tag=tolees0ca-21)

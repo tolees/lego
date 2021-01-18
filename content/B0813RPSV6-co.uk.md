@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 19.97 % for LEGO 41427 Friends Emma s Fashion Shop A'
-date: 2020-09-25 09:41:46
+date: 2021-01-18 14:55:00
 image: 'https://m.media-amazon.com/images/I/51aY5vFLRFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ You've got [LEGO 41427 Friends Emma s Fashion Shop Accessories Store Play Set wi
 
 ℹ️:
 
+- Includes 2 buildable Emma and Andrea mini-dolls, a stylish scooter, till, sewing machine, scissors, cash bill, 2 textile skirts and dummies
+- Kids can remove the upstairs studio for easy access to the shop below, or for 2 friends playing at the same time in 1 area each
+- Features a 2-floors doll house with separable fashion shop and removable studio with sewing area and clothes, for 2 players at a time
+- In the tailor’s studio and fashion shop little fashionistas role-play as they build and imagine being a designer making and selling outfits
+- Check out other LEGO sets: Summer Fun Water Park 41430, Olivias Flower Garden 41425, Heartlake City Park Café 41426 and Beach House 41428
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RPSV6/?tag=tolees0a-21)
