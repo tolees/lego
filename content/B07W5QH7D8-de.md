@@ -25,10 +25,10 @@ You've got [LEGO 41251 Trolle World Tour Poppy’s Wohnblüte Spielset  tragbare
 
 ℹ️:
 
-- Dieses Set lässt sich mit dem LEGO Trolls World Tour Party in Pop City (41255) Bauset kombinieren, denn Poppys Wohnblüte passt dort wunderbar an den großen Baum drauf
-- Poppys Baumhaus lässt sich zusammenklappen und schließen zu einem tragbaren Spielzeug für unterwegs, mit ihrem Schlafzimmer und einem Kosmetikraum mit Haarschmuck im Inneren
-- Mit 3 Spielszenen: ein tragbares Spielzeug für unterwegs mit Möbeln, eine Filzblume und ein Wasserfall
-- Kinder können Poppys Haare mit Herzen und Blumen stylen, dann nach der Schatzkarte suchen oder sie auf der großen Filzblume am Haar schwingen
 - Es enthält Poppy als Trolls-Minifigur und Troll-Zubehör: Karte, Haarbürste, Lutscher, Schere, Buch, Mandoline, Haarzubehör und Cupcakes
+- Mit 3 Spielszenen: ein tragbares Spielzeug für unterwegs mit Möbeln, eine Filzblume und ein Wasserfall
+- Dieses Set lässt sich mit dem LEGO Trolls World Tour Party in Pop City (41255) Bauset kombinieren, denn Poppys Wohnblüte passt dort wunderbar an den großen Baum drauf
+- Kinder können Poppys Haare mit Herzen und Blumen stylen, dann nach der Schatzkarte suchen oder sie auf der großen Filzblume am Haar schwingen
+- Poppys Baumhaus lässt sich zusammenklappen und schließen zu einem tragbaren Spielzeug für unterwegs, mit ihrem Schlafzimmer und einem Kosmetikraum mit Haarschmuck im Inneren
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5QH7D8/?tag=tolees0ca-21)
