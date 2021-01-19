@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cUESeDU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B14J4CB-co.uk'
+slug: 'B07B14J4CB-co.uk LEGO 41453 - UNIKITTY - PARTY'
 actualPrice: 17.99 GBP
 currency: GBP
 price: 17.99

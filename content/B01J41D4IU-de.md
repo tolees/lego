@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/616dqzrjgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J41D4IU-de'
+slug: 'B01J41D4IU-de LEGO Duplo 10847 - Zahlenzug  Vorschulspielzeug'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

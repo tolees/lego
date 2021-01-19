@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n1kU6UMbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2W5H2V-com'
+slug: 'B07Q2W5H2V-com LEGO Overwatch Junkrat & Roadhog 75977 Building Kit  Overwatch Toy for Girls and Boys Aged 9+  380 Pieces '
 actualPrice: 39.97 USD
 currency: USD
 price: 39.97

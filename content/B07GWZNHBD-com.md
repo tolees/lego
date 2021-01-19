@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eAESJh5bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWZNHBD-com'
+slug: 'B07GWZNHBD-com LEGO THE LEGO MOVIE 2 Movie Maker 70820 Building Kit For Kids  Build and Play Creative Director Roleplay Toy with Free Movie Maker App  482 Pieces '
 actualPrice: 37.99 USD
 currency: USD
 price: 37.99

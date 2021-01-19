@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e13OV8SgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCMBJKE-com'
+slug: 'B01BCMBJKE-com LEGO Star Wars: The Force Awakens'
 actualPrice: 13.98 USD
 currency: USD
 price: 13.98

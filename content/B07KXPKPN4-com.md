@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OwXxf+82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXPKPN4-com'
+slug: 'B07KXPKPN4-com The LEGO Movie 2 Videogame - Xbox One'
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

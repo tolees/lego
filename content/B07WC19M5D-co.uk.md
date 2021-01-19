@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j6EeErJ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC19M5D-co.uk'
+slug: 'B07WC19M5D-co.uk LEGO 76140 Super Heroes Marvel Avengers Iron Man Mech Playset  Battle Action Figure for Kids 6 + Year Old'
 actualPrice: 7.2 GBP
 currency: GBP
 price: 7.2

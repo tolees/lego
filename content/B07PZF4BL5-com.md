@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vGNjtdSmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZF4BL5-com'
+slug: 'B07PZF4BL5-com LEGO Minecraft The Wool Farm 21153 Building Kit  260 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

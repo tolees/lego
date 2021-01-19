@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uH-2o8qsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BN5BIQU-co.uk'
+slug: 'B01BN5BIQU-co.uk LEGO Doctor Who - Cyberman Minifigure'
 actualPrice: 4 GBP
 currency: GBP
 price: 4

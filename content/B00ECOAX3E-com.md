@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514FkfEZKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ECOAX3E-com'
+slug: 'B00ECOAX3E-com The LEGO Movie Videogame - Xbox One'
 actualPrice: 16.99 USD
 currency: USD
 price: 16.99

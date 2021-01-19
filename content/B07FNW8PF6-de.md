@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OzfNWS-VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNW8PF6-de'
+slug: 'B07FNW8PF6-de THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

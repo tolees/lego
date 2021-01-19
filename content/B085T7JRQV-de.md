@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KOaKREU5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T7JRQV-de'
+slug: 'B085T7JRQV-de Dittzz Technic Auto 919 Hybrid  Sportwagen Bauset  1586 Stücke Bausteine Kompatibel mit Lego Technic'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

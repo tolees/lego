@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Rk9JVNCML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A00W4RQ-de'
+slug: 'B01A00W4RQ-de LEGO Stadt Blaues Auto 30349 pe-beutel'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

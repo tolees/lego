@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RZGxXGNOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MS59V7S-com'
+slug: 'B07MS59V7S-com The LEGO Movie 2: The Second Part  Special Edition/DVD '
 actualPrice: 7.5 USD
 currency: USD
 price: 7.5

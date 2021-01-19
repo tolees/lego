@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+Cn3PNqoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC19LZK-de'
+slug: 'B07WC19LZK-de LEGO 10926 DUPLO Kinderzimmer-Spielbox für Kleinkinder ab 2 Jahren  Große Steine Lernspielzeug'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

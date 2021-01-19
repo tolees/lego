@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y41tqzh5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPSM5JX-de'
+slug: 'B07QPSM5JX-de Spieland 150St. Custom Waffen Set für SWAT Team Polizei Soldaten Mini Figuren  passen zum Lego'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

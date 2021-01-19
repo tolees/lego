@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j09NP4s4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TM72R-de'
+slug: 'B07W7TM72R-de LEGO 41401 Friends Stephanies magischer Würfel  Sammlerbauset  Mini-Spielset  tragbares Spielzeug für unterwegs'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

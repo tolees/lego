@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51M9a4H7xtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDL3N1Z-com'
+slug: 'B07MDL3N1Z-com LEGO | Disney Pixar’s Toy Story 4 Carnival Thrill Coaster 10771 Building Kit  98 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

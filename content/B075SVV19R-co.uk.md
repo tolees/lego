@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bYld2hK8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075SVV19R-co.uk'
+slug: 'B075SVV19R-co.uk LEGO 41153 Disney Princess Ariel s Royal Celebration Boat Toy  Ariel and Prince Eric Mini Dolls  The Little Mermaid Toys'
 actualPrice: 37.89 GBP
 currency: GBP
 price: 37.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zfv6crStL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCMBTTA-com'
+slug: 'B01BCMBTTA-com LEGO Star Wars: The Force Awakens - Wii U Standard Edition'
 actualPrice: 7.78 USD
 currency: USD
 price: 7.78

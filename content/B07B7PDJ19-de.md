@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415ful0xpeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7PDJ19-de'
+slug: 'B07B7PDJ19-de LEGO Star Wars Minifigur Dengar mit 2 Bonus Waffen'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

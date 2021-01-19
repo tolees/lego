@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61q3KIrtFdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGJCKS2-com'
+slug: 'B00NGJCKS2-com LEGO 42031 Cherry Picker'
 actualPrice: 49.95 USD
 currency: USD
 price: 49.95

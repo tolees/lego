@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TT9NUimDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFX5Z36-co.uk'
+slug: 'B07ZFX5Z36-co.uk LEGO City Super Pack 3-in-1 Pack 66619  The Sky Police Drone Net Shooter Set  Barbecue Burn Out Set and Police Patrol Car'
 actualPrice: 29.99 GBP
 currency: GBP
 price: 29.99

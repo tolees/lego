@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lGyR+l5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J41KZJ6-co.uk'
+slug: 'B01J41KZJ6-co.uk LEGO 75525 Star Wars Baze Malbus'
 actualPrice: 15.75 GBP
 currency: GBP
 price: 15.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zI-eEj3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKZR8ZX-com'
+slug: 'B07JKZR8ZX-com LEGO Star Wars The Last Jedi Minifigure - Finn  with Silver Blaster  75176'
 actualPrice: 6.49 USD
 currency: USD
 price: 6.49

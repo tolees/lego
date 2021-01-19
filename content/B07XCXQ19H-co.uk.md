@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51shBWvu2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCXQ19H-co.uk'
+slug: 'B07XCXQ19H-co.uk LEGO 41405 Friends Andrea s Shopping Play Cube Series 2 Pet Shop Toy  Collectible Mini Set  Portable Travel Case'
 actualPrice: 5.81 GBP
 currency: GBP
 price: 5.81

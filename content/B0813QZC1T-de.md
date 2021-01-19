@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hGHqoWSfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813QZC1T-de'
+slug: 'B0813QZC1T-de LEGO 41398 4+ – Stephanies Familienhaus'
 actualPrice: 28.26 EUR
 currency: EUR
 price: 28.26

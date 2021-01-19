@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IRacdwF2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RFBKNX-com'
+slug: 'B075RFBKNX-com LEGO Minecraft The Nether Portal 21143 Building Kit  470 Pieces '
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

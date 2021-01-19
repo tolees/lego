@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XZ9SXR5gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWN712V-de'
+slug: 'B07KWN712V-de Lego Wear Mädchen LWTIPPI 608-T-SHIRT L/S Langarmshirt  Gelb  Light Orange 275    Herstellergröße: 116 '
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78

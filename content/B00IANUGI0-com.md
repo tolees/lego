@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eKqN2LUtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IANUGI0-com'
+slug: 'B00IANUGI0-com LEGO DUPLO All-in-One-Box-of-Fun Building Kit 10572 Open Ended Toy for Imaginative Play with Large LEGO bricks made for toddlers and preschoolers  65 Pieces '
 actualPrice: 23.97 USD
 currency: USD
 price: 23.97

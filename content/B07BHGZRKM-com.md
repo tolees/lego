@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61LIOGLl6qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHGZRKM-com'
+slug: 'B07BHGZRKM-com LEGO DUPLO Minnie’s Birthday Party 10873 Building Blocks  21 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

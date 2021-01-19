@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qVUVTEM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1JZT5K-com'
+slug: 'B07Q1JZT5K-com LEGO Hidden Side Shrimp Shack Attack 70422 Augmented Reality [AR] Building Set with Ghost Minifigures and Toy Car for Ghost Hunting  Tech Toy for Boys and Girls  579 Pieces '
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

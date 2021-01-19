@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Pndz8JXRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVR1J4-de'
+slug: 'B07KTVR1J4-de LEGO DC Batman Clayface 76122 - Invasion in die Bathöhle  Bauset'
 actualPrice: 72.12 EUR
 currency: EUR
 price: 72.12

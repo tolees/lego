@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EEgleHncL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4FJJ5J-com'
+slug: 'B07D4FJJ5J-com LEGO Super Heroes: Avengers: Infinity War MiniFigure - MK 43 Iron Man  Exclusive  76105'
 actualPrice: 15.0 USD
 currency: USD
 price: 15.0

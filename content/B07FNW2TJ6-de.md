@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNW2TJ6-de'
+slug: 'B07FNW2TJ6-de Lego 41360 Friends Emmas mobile Tierarztpraxis  bunt'
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qwrq7KvvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0849YL78H-com'
+slug: 'B0849YL78H-com LEGO Jurassic World: Legend of Isla Nublar'
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

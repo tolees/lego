@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51F6hLvI7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T4CLTT-de'
+slug: 'B085T4CLTT-de Dittzz Technic Sportwagen M-Benz C63   1:8 2.4Ghz RC Auto Bauset mit Motor und Fernbedienung  1989Stücke Bausteine Kompatibel mit Lego Technic'
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

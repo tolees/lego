@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rgAZ2sBSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WYY4DT-de'
+slug: 'B082WYY4DT-de H0_V 522Teile 2.4GHz RC Modell Geländewagen Buggy Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

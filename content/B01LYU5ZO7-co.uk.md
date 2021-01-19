@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aZZJs1tpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYU5ZO7-co.uk'
+slug: 'B01LYU5ZO7-co.uk LEGO Lights IQLGL-KE99 DC Comics Super Heroes Harley Quinn Key Light'
 actualPrice: 6.99 GBP
 currency: GBP
 price: 6.99

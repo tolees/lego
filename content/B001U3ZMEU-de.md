@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-wjG-AVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001U3ZMEU-de'
+slug: 'B001U3ZMEU-de LEGO City 7639 - Wohnmobil'
 actualPrice: 91.89 EUR
 currency: EUR
 price: 91.89

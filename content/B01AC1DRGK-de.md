@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zbvk4x0jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AC1DRGK-de'
+slug: 'B01AC1DRGK-de LEGO Star Wars 75148 - Encounter on Jakku'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

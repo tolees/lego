@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V08slG-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KQ1JVU-co.uk'
+slug: 'B008KQ1JVU-co.uk LEGO Brick 1 Knob Stackable Storage Box  Red  1.2 Litre'
 actualPrice: 5.95 GBP
 currency: GBP
 price: 5.95

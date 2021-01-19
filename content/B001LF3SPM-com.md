@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FhQu0fS+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001LF3SPM-com'
+slug: 'B001LF3SPM-com LEGO Racers Desert Viper'
 actualPrice: 7.01 USD
 currency: USD
 price: 7.01

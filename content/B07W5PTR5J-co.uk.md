@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q9aG8TkEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5PTR5J-co.uk'
+slug: 'B07W5PTR5J-co.uk LEGO 10929 DUPLO Town Modular Playhouse 3-in-1 Set  Dolls House for 2+ Year Old Girls and Boys with Figures and Animals for Toddlers'
 actualPrice: 36.5 GBP
 currency: GBP
 price: 36.5

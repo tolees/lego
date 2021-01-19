@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lQzdGv2pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5VVV1H-com'
+slug: 'B07H5VVV1H-com LEGO Harry Potter: Collection - Xbox One'
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

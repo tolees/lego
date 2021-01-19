@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517C2I-XWBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TDP7FV-de'
+slug: 'B085TDP7FV-de Dittzz Technic Auto Ford Mustang  1:10 2.4Ghz RC Auto Bauset mit Motor und Fernbedienung  3181 Stücke Bausteine Kompatibel mit Lego Technic'
 actualPrice: 138.99 EUR
 currency: EUR
 price: 138.99

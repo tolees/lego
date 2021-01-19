@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h40cxMXQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FZQXTC-com'
+slug: 'B082FZQXTC-com CREATOR 2019 Lego Gingerbread House Mini Limited Edition 40337'
 actualPrice: 27.95 USD
 currency: USD
 price: 27.95

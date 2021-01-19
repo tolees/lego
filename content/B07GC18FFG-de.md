@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411afw2WZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GC18FFG-de'
+slug: 'B07GC18FFG-de LEGO Jungen Boy Star WARS-CM-50240-CAP Kappe  Schwarz  Black 995   54'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

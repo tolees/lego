@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+nqZR336L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMHKNMX-com'
+slug: 'B07BMHKNMX-com LEGO Disney Pixar s The Incredibles - PS4'
 actualPrice: 18.0 USD
 currency: USD
 price: 18.0

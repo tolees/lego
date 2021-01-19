@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tri7+4QKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5PTR7N-de'
+slug: 'B07W5PTR7N-de LEGO 43170 - Vaianas Boot  Disney Princess  Bauset'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

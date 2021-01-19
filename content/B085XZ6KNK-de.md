@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WieF8D5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XZ6KNK-de'
+slug: 'B085XZ6KNK-de Dittzz Technic Avtoros Shaman 8x8 Off-Roader Modell  2.4Ghz RC Auto 1:8 Geländewagen Bauset   2615 Teile Bausteine Kompatibel mit Lego Technic'
 actualPrice: 207.99 EUR
 currency: EUR
 price: 207.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QYY0PZYVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRSY3RW-com'
+slug: 'B07NRSY3RW-com LEGO Harry Potter Advent Calendar 75964 Building Kit  305 Pieces '
 actualPrice: 31.5 USD
 currency: USD
 price: 31.5

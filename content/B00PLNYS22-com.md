@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SkA+jKYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PLNYS22-com'
+slug: 'B00PLNYS22-com LEGO Storage Box'
 actualPrice: 28.32 USD
 currency: USD
 price: 28.32

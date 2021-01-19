@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UYgZCnVuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N39UJA3-co.uk'
+slug: 'B01N39UJA3-co.uk LEGO DISKX18617 Kit Legoman Costume Accessory  Yellow Hands  One Size'
 actualPrice: 11.99 GBP
 currency: GBP
 price: 11.99

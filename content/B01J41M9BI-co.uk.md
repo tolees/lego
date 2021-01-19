@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q3Jo0O-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J41M9BI-co.uk'
+slug: 'B01J41M9BI-co.uk LEGO 71017 Minifigure Batman Movie'
 actualPrice: 4.89 GBP
 currency: GBP
 price: 4.89

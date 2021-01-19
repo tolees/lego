@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/615Bu6mThTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ECOAX3O-com'
+slug: 'B00ECOAX3O-com The LEGO Movie Videogame - Nintendo 3DS Standard Edition'
 actualPrice: 14.96 USD
 currency: USD
 price: 14.96

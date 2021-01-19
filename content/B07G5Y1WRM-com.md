@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515t7knIrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5Y1WRM-com'
+slug: 'B07G5Y1WRM-com LEGO 6250958 Overwatch 75974 Bastion Building Kit  Overwatch Game Robot Action Figure  602 Pieces '
 actualPrice: 37.99 USD
 currency: USD
 price: 37.99

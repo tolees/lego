@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XAlqWmiZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5QH7CH-de'
+slug: 'B07W5QH7CH-de LEGO 21162 Minecraft Das Taiga-Abenteuer Spielzeug'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

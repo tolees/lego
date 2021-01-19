@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eVXksvbQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009IGZSTK-co.uk'
+slug: 'B009IGZSTK-co.uk Lego Kids Analogue Quartz Watch with Plastic Strap 8020189'
 actualPrice: 12.5 GBP
 currency: GBP
 price: 12.5

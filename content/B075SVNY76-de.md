@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BDaPLwhvL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075SVNY76-de'
+slug: 'B075SVNY76-de LEGO Creator 31071 - Forschungsdrohne Bauspielzeug'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

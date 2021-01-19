@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+AXqfLjQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTLHZVN-co.uk'
+slug: 'B07KTLHZVN-co.uk LEGO 76118 DC Mr. Freeze Batcycle Battle 2 in1 Bike Set  Batman and Robin Cycle Chase  multicolour'
 actualPrice: 13.0 GBP
 currency: GBP
 price: 13.0

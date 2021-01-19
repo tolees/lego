@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512SwfrSkuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS6J88-co.uk'
+slug: 'B07FNS6J88-co.uk LEGO 31094 Creator 3in1 Race Plane Helicopter and Jet Building Set  Airplane Playset with Pilot Minifigure  Toys for Kids 7 Years Old and Older'
 actualPrice: 17.5 GBP
 currency: GBP
 price: 17.5

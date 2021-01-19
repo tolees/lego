@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jrs-ZPclL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VVPKGGK-de'
+slug: 'B06VVPKGGK-de LEGO Super Heroes 76085 - Das Kräftemessen um Atlantis'
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

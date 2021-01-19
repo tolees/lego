@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pqQe7sfRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNN12PM-co.uk'
+slug: 'B07FNN12PM-co.uk LEGO 60237 City Supplementary Curve and Crossroad 2 x Base Plates for all LEGO Building Sets'
 actualPrice: 7.0 GBP
 currency: GBP
 price: 7.0

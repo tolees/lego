@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xyNSXOJcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMXW3XL-com'
+slug: 'B07JMXW3XL-com LEGO | Disney Pixar’s Toy Story Duke Caboom’s Stunt Show 10767 Building Kit  120 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

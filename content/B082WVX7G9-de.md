@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nAu47OK6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WVX7G9-de'
+slug: 'B082WVX7G9-de H0 V 1369Teile 1:20 2.4GHz RC Modell LKW Truck Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 actualPrice: 138.99 EUR
 currency: EUR
 price: 138.99

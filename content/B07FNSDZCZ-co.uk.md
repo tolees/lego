@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HySUSGGiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNSDZCZ-co.uk'
+slug: 'B07FNSDZCZ-co.uk LEGO 10895 DUPLO Emmet and Lucy’s Visitors from the DUPLO Planet'
 actualPrice: 16.22 GBP
 currency: GBP
 price: 16.22

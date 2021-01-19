@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNW2TJ6-co.uk'
+slug: 'B07FNW2TJ6-co.uk LEGO 41360 Friends Emma s Mobile Vet Clinic Playset  Vet Van Emma mini-doll and Dog figure  Toy Vet Kit for Kids'
 actualPrice: 6.4 GBP
 currency: GBP
 price: 6.4

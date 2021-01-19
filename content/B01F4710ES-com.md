@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JRwM8U-zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F4710ES-com'
+slug: 'B01F4710ES-com LEGO DC Super Hero Girls Super Hero High School 41232 Superhero Toy'
 actualPrice: 59.76 USD
 currency: USD
 price: 59.76

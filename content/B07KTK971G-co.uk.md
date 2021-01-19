@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51qEhqNaFLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK971G-co.uk'
+slug: 'B07KTK971G-co.uk LEGO 41387 Friends Olivia s Summer Heart Box Toy  Collectible Dolls Set'
 actualPrice: 6 GBP
 currency: GBP
 price: 6

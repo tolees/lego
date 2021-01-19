@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512uowkzDWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BK2PXAS-co.uk'
+slug: 'B01BK2PXAS-co.uk LEGO 10907 DUPLO Town World Animals Adventure Learning Toys for Toddlers 2 - 5 Years Old with Airplane and 15 Duplo Animals'
 actualPrice: 63.0 GBP
 currency: GBP
 price: 63.0

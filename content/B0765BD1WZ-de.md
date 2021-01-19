@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cNjvo0VeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765BD1WZ-de'
+slug: 'B0765BD1WZ-de LEGO Duplo 10873 Disney Minnies Geburtstagsparty  Spielzeug'
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UA39i4taL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZHDX36-co.uk'
+slug: 'B079ZHDX36-co.uk LEGO DISK66145K Brick Costume Kids Iconic Red Building Block Childrens Outfit  Child  Medium'
 actualPrice: 31.65 GBP
 currency: GBP
 price: 31.65

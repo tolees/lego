@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rWyjsofiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTN4MV-co.uk'
+slug: 'B07FNTN4MV-co.uk LEGO 71023 Movie 2 Minifigures Collectible Toy Variety  Style Picked at Random   Multi-Colour  Pack of 1'
 actualPrice: 2.45 GBP
 currency: GBP
 price: 2.45

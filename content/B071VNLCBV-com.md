@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lJ2qKukQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VNLCBV-com'
+slug: 'B071VNLCBV-com LEGO Friends Andrea s Speedboat Transporter 41316 Building Kit  309 Piece '
 actualPrice: 20.0 USD
 currency: USD
 price: 20.0

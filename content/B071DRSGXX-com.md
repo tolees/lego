@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W8l-yLTmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071DRSGXX-com'
+slug: 'B071DRSGXX-com LEGO Collectible Minifigure Series 17 - French Connoisseur  71018 '
 actualPrice: 8.99 USD
 currency: USD
 price: 8.99

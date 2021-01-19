@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YfHGs60ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S5VFKJ2-com'
+slug: 'B00S5VFKJ2-com LEGO Star Wars Minifig Anakin Skywalker Clone Wars'
 actualPrice: 8.95 USD
 currency: USD
 price: 8.95

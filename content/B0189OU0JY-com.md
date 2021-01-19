@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uJ+HN+v1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0189OU0JY-com'
+slug: 'B0189OU0JY-com Lego Star Wars: Droid Tales'
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

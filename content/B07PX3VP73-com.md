@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61pOsfyqShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX3VP73-com'
+slug: 'B07PX3VP73-com LEGO Jurassic World Baryonyx Face Off: The Treasure Hunt 75935 Building Kit  434 Pieces '
 actualPrice: 47.99 USD
 currency: USD
 price: 47.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yjLbQsCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KQ1TQU-com'
+slug: 'B008KQ1TQU-com LEGO Storage Brick 4  Yellow'
 actualPrice: 18.73 USD
 currency: USD
 price: 18.73

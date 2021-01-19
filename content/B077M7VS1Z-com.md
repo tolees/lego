@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21K6h7H-xKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077M7VS1Z-com'
+slug: 'B077M7VS1Z-com LEGO Friends/City Minifigure - Baby Ola  in Blanket  New for 2017! Very Cute'
 actualPrice: 6.95 USD
 currency: USD
 price: 6.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61xWwHLreGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J41KJ4M-de'
+slug: 'B01J41KJ4M-de LEGO Star Wars 75161 - Microfighter'
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

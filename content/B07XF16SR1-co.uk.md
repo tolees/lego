@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XqypifZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF16SR1-co.uk'
+slug: 'B07XF16SR1-co.uk LEGO 41409 Friends Emma s Shopping Play Cube Series 2 Toy Shop  Collectible Mini Set  Portable Travel Case'
 actualPrice: 5.81 GBP
 currency: GBP
 price: 5.81

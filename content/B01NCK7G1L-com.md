@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kVzfTbcoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCK7G1L-com'
+slug: 'B01NCK7G1L-com LEGO BATMAN MOVIE The Penguin Arctic Roller 70911 Building Kit'
 actualPrice: 38.34 USD
 currency: USD
 price: 38.34

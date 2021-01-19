@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YxY-WWC2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CVGV928-com'
+slug: 'B01CVGV928-com LEGO STAR WARS Jyn Erso 75119 Star Wars Toy'
 actualPrice: 8.15 USD
 currency: USD
 price: 8.15

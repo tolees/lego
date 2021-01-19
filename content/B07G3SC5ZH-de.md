@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zbP52mp2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3SC5ZH-de'
+slug: 'B07G3SC5ZH-de LEGO Harry Potter und der Gefangene von Askaban 75947 - Hagrids Hütte: Seidenschnabels Rettung  Bauset'
 actualPrice: 50.74 EUR
 currency: EUR
 price: 50.74

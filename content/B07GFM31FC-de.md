@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q5Gw+rMFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFM31FC-de'
+slug: 'B07GFM31FC-de maisterkaio-de Figur Enfys Nest -- Star Wars --  aus 75215  kompatibel mit anderem Lego '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

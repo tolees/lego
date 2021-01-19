@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fBX1EgzvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ML2R9Q-de'
+slug: 'B086ML2R9Q-de Leic LED-Beleuchtungssatz Bausteine Lichtset für Lego 76897 Seed Champions 1985 Audi Sport Quattros S1  nur Lichtset  ohne Lego '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

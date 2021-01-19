@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nkIgu0p-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TN6CR-co.uk'
+slug: 'B07W7TN6CR-co.uk LEGO 11006 Classic Creative Blue Bricks Learning Starter Set  Preschool Toys for Kids 4+ Year Old'
 actualPrice: 3.5 GBP
 currency: GBP
 price: 3.5

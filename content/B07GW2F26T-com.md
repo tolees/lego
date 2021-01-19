@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RsimDmQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GW2F26T-com'
+slug: 'B07GW2F26T-com LEGO City Burger Bar Fire Rescue 60214 Building Kit  327 Pieces '
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

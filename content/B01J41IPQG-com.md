@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61QPA8S0rEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J41IPQG-com'
+slug: 'B01J41IPQG-com LEGO Batcave Break in 70909'
 actualPrice: 160.0 USD
 currency: USD
 price: 160.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61VoT8XawqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCMBRJ2-com'
+slug: 'B01BCMBRJ2-com LEGO Star Wars: The Force Awakens - Nintendo 3DS Standard Edition'
 actualPrice: 9.55 USD
 currency: USD
 price: 9.55

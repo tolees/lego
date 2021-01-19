@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GLZFTZ-de'
+slug: 'B075GLZFTZ-de LEGO Duplo 10869 - Ausflug auf den Bauernhof  Lernspielzeug für Kinder'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

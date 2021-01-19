@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Bwy6Rf4EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075M96T8V-com'
+slug: 'B075M96T8V-com LEGO DUPLO Large Playground Brick Box 10864 Building Block  71 Pieces '
 actualPrice: 40.75 USD
 currency: USD
 price: 40.75

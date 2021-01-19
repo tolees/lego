@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+r3YSkQQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNMWRS-com'
+slug: 'B07VNNMWRS-com Lego Jurassic World - Nintendo Switch'
 actualPrice: 25.9 USD
 currency: USD
 price: 25.9

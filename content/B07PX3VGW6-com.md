@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jQNoV7jpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX3VGW6-com'
+slug: 'B07PX3VGW6-com LEGO Classic Windows of Creativity 11004 Building Kit  450 Pieces '
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

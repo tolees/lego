@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K3ZFSYmVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVDOH2U-de'
+slug: 'B00NVDOH2U-de LEGO Classic 10700 - Bauplatte'
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

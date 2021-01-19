@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yzk+BQ8vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BYYR01I-co.uk'
+slug: 'B00BYYR01I-co.uk LEGO R2D2 Key Light'
 actualPrice: 7.73 GBP
 currency: GBP
 price: 7.73

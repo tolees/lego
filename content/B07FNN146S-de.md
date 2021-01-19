@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5101A82wpbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNN146S-de'
+slug: 'B07FNN146S-de THE LEGO MOVIE 2 70820 LEGO Movie Maker'
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

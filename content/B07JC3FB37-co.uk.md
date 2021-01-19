@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wq7ntanjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC3FB37-co.uk'
+slug: 'B07JC3FB37-co.uk LEGO 10770 4+ Toy Story 4 Buzz and Woody’s Carnival Mania with Buzz Lightyear and Woody Minifigures'
 actualPrice: 37.42 GBP
 currency: GBP
 price: 37.42

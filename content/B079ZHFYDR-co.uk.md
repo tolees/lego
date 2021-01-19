@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wD1nNQ9FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZHFYDR-co.uk'
+slug: 'B079ZHFYDR-co.uk LEGO DISK66267K Classic DC Costume  Boys  Robin  Medium'
 actualPrice: 32.99 GBP
 currency: GBP
 price: 32.99

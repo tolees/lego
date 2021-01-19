@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VFbIbCKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EL6HMWW-com'
+slug: 'B01EL6HMWW-com IQ Lego Star Wars Kylo Ren LED Head Lamp'
 actualPrice: 17.99 USD
 currency: USD
 price: 17.99

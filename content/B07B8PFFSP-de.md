@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uMBxyLOdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8PFFSP-de'
+slug: 'B07B8PFFSP-de LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iWgfauydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU59EOO-com'
+slug: 'B01MU59EOO-com LEGO 30523 Batman Movie The Joker Battle Training polybag Mini Set'
 actualPrice: 8.61 USD
 currency: USD
 price: 8.61

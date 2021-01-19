@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qjjSwkGQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LPO6WF6-com'
+slug: 'B01LPO6WF6-com LEGO Harry Potter Collection - PlayStation 4'
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

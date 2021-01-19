@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eRIjJRxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLJJX99-de'
+slug: 'B07WLJJX99-de LEGO 76143 Marvel Avengers Superhelden – Truck-Festnahme Set Der Fall mit Captain America und Hawkeye Minifiguren'
 actualPrice: 30.06 EUR
 currency: EUR
 price: 30.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u9m8KZGGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXEMXGK-com'
+slug: 'B01MXEMXGK-com LEGO Star Wars Chirrut Îmwe 75524 Star Wars Toy'
 actualPrice: 15.0 USD
 currency: USD
 price: 15.0

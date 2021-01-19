@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hltMpJGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLZPS6M-com'
+slug: 'B07JLZPS6M-com LEGO | Disney Pixar’s Toy Story 4 RV Vacation 10769 Building Kit  178 Pieces '
 actualPrice: 29.73 USD
 currency: USD
 price: 29.73

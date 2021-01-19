@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510tksUIOoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWJ5PC-co.uk'
+slug: 'B07FNWJ5PC-co.uk LEGO 70670 NINJAGO Monastery of Spinjitzu Wu  Jay  Nya  Zane  Cole  Lloyd  Kai and Wyplash Minifigures Ninja Training Playground Set with Accessories'
 actualPrice: 55.99 GBP
 currency: GBP
 price: 55.99

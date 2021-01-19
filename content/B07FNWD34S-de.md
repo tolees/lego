@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lLVYAYurL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWD34S-de'
+slug: 'B07FNWD34S-de LEGO Creator 31091 - Transporter für Space Shuttle'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

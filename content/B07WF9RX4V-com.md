@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dJBYRDywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF9RX4V-com'
+slug: 'B07WF9RX4V-com LEGO City Construction Bulldozer 60252 Toy Construction Set  Cool Building Set for Kids  New 2020  126 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

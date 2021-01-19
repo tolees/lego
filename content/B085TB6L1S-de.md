@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WXSTr8lpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TB6L1S-de'
+slug: 'B085TB6L1S-de Dittzz Technic Offroader Bauset   1:8 2.4Ghz RC Auto mit Motor und Fernbedienung  2343 Stücke Bausteine Kompatibel mit Lego Technic'
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

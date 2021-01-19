@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FoP6WFDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYV355J-com'
+slug: 'B07GYV355J-com LEGO NINJAGO Legacy Golden Dragon 70666 Building Kit  171 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

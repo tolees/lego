@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-Y67iiY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711RJQBP-com'
+slug: 'B0711RJQBP-com LEGO Marvel Superheroes 2 - Nintendo Switch'
 actualPrice: 14.99 USD
 currency: USD
 price: 14.99

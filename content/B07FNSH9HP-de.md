@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZmHFlFA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNSH9HP-de'
+slug: 'B07FNSH9HP-de LEGO DUPLO 10908 - Flugzeug'
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

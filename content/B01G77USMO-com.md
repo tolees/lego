@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gnUgMEwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G77USMO-com'
+slug: 'B01G77USMO-com LEGO Star Wars - Han Solo in Carbonite LED Lite - Key Chain'
 actualPrice: 13.99 USD
 currency: USD
 price: 13.99

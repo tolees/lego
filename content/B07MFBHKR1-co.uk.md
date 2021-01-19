@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFBHKR1-co.uk'
+slug: 'B07MFBHKR1-co.uk Lego Wear Girls  Lego Friends cm Sweatshirt  Pink  Pink 468   122 cm'
 actualPrice: 10.23 GBP
 currency: GBP
 price: 10.23

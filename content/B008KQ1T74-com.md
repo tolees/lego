@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fZ+pSwDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KQ1T74-com'
+slug: 'B008KQ1T74-com LEGO Storage Brick 4  Blue'
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

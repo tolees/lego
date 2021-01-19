@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510+-7XJjzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS9YSJ-co.uk'
+slug: 'B07FNS9YSJ-co.uk LEGO 10884 DUPLO My First Balancing Animals Building Bricks Set  Preschool Toys for 1.5 Years Old'
 actualPrice: 9.67 GBP
 currency: GBP
 price: 9.67

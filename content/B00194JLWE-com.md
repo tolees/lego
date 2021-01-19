@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lJu1mw93L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00194JLWE-com'
+slug: 'B00194JLWE-com Lego Star Wars Super Battle Droid Minifigure'
 actualPrice: 9.75 USD
 currency: USD
 price: 9.75

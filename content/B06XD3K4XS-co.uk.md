@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dvu6zlHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD3K4XS-co.uk'
+slug: 'B06XD3K4XS-co.uk LEGO 10904 DUPLO Town Baby Animals Toys for Toddlers 2 - 5 Years old'
 actualPrice: 7.26 GBP
 currency: GBP
 price: 7.26

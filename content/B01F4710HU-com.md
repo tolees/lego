@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61vSv623enL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F4710HU-com'
+slug: 'B01F4710HU-com LEGO DC Super Heroes Girls Harley Quinn to The Rescue 41231 DC Collectible'
 actualPrice: 20.89 USD
 currency: USD
 price: 20.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519sGXu0noL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF9TGFH-com'
+slug: 'B07WF9TGFH-com LEGO Minifigures DC Super Heroes Series 71026 Collectible Set  New 2020  1 of 16 to Collects  Featuring Characters from DC Universe Comic Books'
 actualPrice: 3.99 USD
 currency: USD
 price: 3.99

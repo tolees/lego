@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xhkvcYlqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BZ8R9H2-com'
+slug: 'B01BZ8R9H2-com LEGO Star Wars Minifigure - Boba Fett Bounty Hunter with Blaster Gun'
 actualPrice: 25.0 USD
 currency: USD
 price: 25.0

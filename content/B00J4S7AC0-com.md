@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sKH-V4JML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J4S7AC0-com'
+slug: 'B00J4S7AC0-com LEGO Ultra Agents 70164 Hurricane Heist'
 actualPrice: 47.9 USD
 currency: USD
 price: 47.9

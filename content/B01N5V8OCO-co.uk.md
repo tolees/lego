@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f9c7uf6ZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5V8OCO-co.uk'
+slug: 'B01N5V8OCO-co.uk LEGO DISK18268K Deluxe Costume  Skeleton  Medium'
 actualPrice: 34.99 GBP
 currency: GBP
 price: 34.99

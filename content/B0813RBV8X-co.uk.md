@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Lm1S6cxYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813RBV8X-co.uk'
+slug: 'B0813RBV8X-co.uk LEGO 70437 Hidden Side Mystery Castle Toy  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android'
 actualPrice: 72.0 GBP
 currency: GBP
 price: 72.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tuyLaRYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZS4SHC-de'
+slug: 'B006ZS4SHC-de LEGO Technic 9396 - Großer Helikopter'
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

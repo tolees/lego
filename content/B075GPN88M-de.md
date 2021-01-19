@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ABkZj42hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GPN88M-de'
+slug: 'B075GPN88M-de LEGO Minecraft 21141 - Zombiehöhle Beliebtes  Kinderspielzeug'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61txkxri-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003A2JBNC-co.uk'
+slug: 'B003A2JBNC-co.uk LEGO Games 3849: Orient Bazaar'
 actualPrice: 8.99 GBP
 currency: GBP
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jcPqnKA1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2GRWP-de'
+slug: 'B07FP2GRWP-de LEGO City 60212 Feuerwehr beim Grillfest'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

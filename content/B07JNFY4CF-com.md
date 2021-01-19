@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FsArerIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNFY4CF-com'
+slug: 'B07JNFY4CF-com LEGO THE LEGO MOVIE 2 The Rexcelsior; 70839 Building Kit  1820 Pieces '
 actualPrice: 119.95 USD
 currency: USD
 price: 119.95

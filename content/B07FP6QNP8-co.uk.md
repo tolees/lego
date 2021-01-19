@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eTenhz8rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP6QNP8-co.uk'
+slug: 'B07FP6QNP8-co.uk LEGO 70666 Children s Toy Colourful'
 actualPrice: 8.99 GBP
 currency: GBP
 price: 8.99

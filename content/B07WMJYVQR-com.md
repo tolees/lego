@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510nGl4TiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMJYVQR-com'
+slug: 'B07WMJYVQR-com LEGO Marvel Avengers Truck Take-Down 76143 Captain America and Hawkeye Superhero Action  Cool Minifigures and Vehicles  New 2020  477 Pieces '
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

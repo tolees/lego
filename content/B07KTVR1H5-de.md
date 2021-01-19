@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519El592JDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVR1H5-de'
+slug: 'B07KTVR1H5-de LEGO City 60232 - Große Werkstatt'
 actualPrice: 32.16 EUR
 currency: EUR
 price: 32.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LnTM63gsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2GRY3-de'
+slug: 'B07FP2GRY3-de LEGO Marvel Super Heroes 76124 War Machine Buster'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NPOxD0ggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDVYF25-com'
+slug: 'B07NDVYF25-com Lego Marvel Collection - PlayStation 4'
 actualPrice: 27.93 USD
 currency: USD
 price: 27.93

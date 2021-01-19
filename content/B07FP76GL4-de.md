@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YaiJl7PZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP76GL4-de'
+slug: 'B07FP76GL4-de LEGO NINJAGO 70664 - Spinjitzu Lloyd vs. Garmadon'
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

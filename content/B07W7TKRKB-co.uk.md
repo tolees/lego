@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518KzhOnUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TKRKB-co.uk'
+slug: 'B07W7TKRKB-co.uk LEGO 41389 Friends Ice Cream Cart Playset with Stephanie  Scooter andDash the Dog Figure  for Kids 6+ Years old'
 actualPrice: 5.0 GBP
 currency: GBP
 price: 5.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mpoezwPWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BK2KPR4-de'
+slug: 'B01BK2KPR4-de LEGO Duplo 10910 - U-Boot-Abenteuer  Bauset'
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

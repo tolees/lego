@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gW6H4BVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHQ5FDY-com'
+slug: 'B07MHQ5FDY-com LEGO Movie 2  The Second Part  Blu-Ray '
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

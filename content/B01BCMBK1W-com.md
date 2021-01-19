@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sPEknBb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCMBK1W-com'
+slug: 'B01BCMBK1W-com LEGO Star Wars: Force Awakens Deluxe Edition - PlayStation 4'
 actualPrice: 17.17 USD
 currency: USD
 price: 17.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PfLJ6i5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4FG9NT-de'
+slug: 'B07L4FG9NT-de LEGO 41375 - Friends Vergnügungspark von Heartlake City  Bauset'
 actualPrice: 92.98 EUR
 currency: EUR
 price: 92.98

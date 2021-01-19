@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61NPECPz-WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GXY51TW-de'
+slug: 'B00GXY51TW-de The LEGO Movie Videogame - [PlayStation Vita]'
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

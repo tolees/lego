@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Fx3Q3obgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3H14RV-com'
+slug: 'B07N3H14RV-com LEGO Movie 2 The Video Game - Xbox One [Digital Code]'
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

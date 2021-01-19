@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xZmXVw7kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDW7NM2-com'
+slug: 'B07NDW7NM2-com Lego Marvel Collection - Xbox One'
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

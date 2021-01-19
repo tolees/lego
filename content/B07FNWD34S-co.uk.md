@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BHXdyB8VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWD34S-co.uk'
+slug: 'B07FNWD34S-co.uk LEGO 31091 Creator 3in1 Shuttle Transporter Spaceship  Helicopter Transporter and Car with Caravan  Adventures Building Set  Vehicle Toys for Kids 7 Years Old and Older'
 actualPrice: 17.6 GBP
 currency: GBP
 price: 17.6

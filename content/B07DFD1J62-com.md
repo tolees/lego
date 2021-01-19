@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FeI9U7ukL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFD1J62-com'
+slug: 'B07DFD1J62-com LEGO DC Super-Villains - PlayStation 4'
 actualPrice: 16.0 USD
 currency: USD
 price: 16.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JlmzJw39L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003FOA2VK-com'
+slug: 'B003FOA2VK-com LEGO Functions Power Functions IR Speed Remote Control 8879  1 Piece '
 actualPrice: 4.99 USD
 currency: USD
 price: 4.99

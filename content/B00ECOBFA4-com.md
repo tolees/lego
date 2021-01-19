@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ivA6SPDJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ECOBFA4-com'
+slug: 'B00ECOBFA4-com The LEGO Movie Videogame - Xbox 360 Standard Edition'
 actualPrice: 9.02 USD
 currency: USD
 price: 9.02

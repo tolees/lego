@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mbprtn39L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Z3GW98-com'
+slug: 'B075Z3GW98-com LEGO Super Heroes - Harley Quinn with Black and Red Tutu'
 actualPrice: 8.99 USD
 currency: USD
 price: 8.99

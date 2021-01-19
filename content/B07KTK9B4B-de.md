@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TOV3SkwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK9B4B-de'
+slug: 'B07KTK9B4B-de LEGO 41362 - Friends Supermarkt von Heartlake City  Bauset'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

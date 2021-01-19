@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DFtVkLigL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4R3HD5-com'
+slug: 'B07G4R3HD5-com LEGO Classic 10717 Bricks Bricks Bricks 1500 Piece Set - Encourages Creativity in all Ages - Ideal for Creators of all Ages - Brick Separator Included'
 actualPrice: 67.72 USD
 currency: USD
 price: 67.72

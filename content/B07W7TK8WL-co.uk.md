@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511sfYwQkdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TK8WL-co.uk'
+slug: 'B07W7TK8WL-co.uk LEGO 76147 Super Heroes Marvel Spider-Man Vulture s Trucker Robbery Playset for Preschool Kids 4+ Year Old'
 actualPrice: 15.0 GBP
 currency: GBP
 price: 15.0

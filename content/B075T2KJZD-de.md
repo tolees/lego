@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vPtdJjZGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075T2KJZD-de'
+slug: 'B075T2KJZD-de LEGO Ninjago 70640 - Hauptquartier der Motorradfahrer  Bauspielzeug'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

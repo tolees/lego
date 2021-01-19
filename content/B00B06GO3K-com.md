@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RGxAOYGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B06GO3K-com'
+slug: 'B00B06GO3K-com Lego Star Wars Republic Trooper Minifigure'
 actualPrice: 10.0 USD
 currency: USD
 price: 10.0

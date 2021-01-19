@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vhOsrAiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008QW1ERC-com'
+slug: 'B008QW1ERC-com IQ Lego Star Wars - Yoda LED Keychain Light'
 actualPrice: 10.99 USD
 currency: USD
 price: 10.99

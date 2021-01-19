@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-rWDzrhWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNW8PF6-co.uk'
+slug: 'B07FNW8PF6-co.uk LEGO Movie 2 70827 Ultrakatty and Warrior Lucy'
 actualPrice: 18.0 GBP
 currency: GBP
 price: 18.0

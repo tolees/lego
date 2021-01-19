@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KiEm14PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VKT49P-com'
+slug: 'B079VKT49P-com LEGO Minecraft MiniFigure - Baby Zombie  Very Cute  21141'
 actualPrice: 1.59 USD
 currency: USD
 price: 1.59

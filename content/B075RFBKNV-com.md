@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61VNjDq-5JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RFBKNV-com'
+slug: 'B075RFBKNV-com LEGO Friends Emma’s Art Café 41336 Building Set  378 Pieces '
 actualPrice: 23.93 USD
 currency: USD
 price: 23.93

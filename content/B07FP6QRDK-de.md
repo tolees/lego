@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513jph9bQkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP6QRDK-de'
+slug: 'B07FP6QRDK-de LEGO DUPLO 10898 - Meine erste Micky Maus'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

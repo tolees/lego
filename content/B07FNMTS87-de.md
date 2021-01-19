@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514IByqhg8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNMTS87-de'
+slug: 'B07FNMTS87-de LEGO DUPLO 10903 - Feuerwehrwache'
 actualPrice: 40.92 EUR
 currency: EUR
 price: 40.92

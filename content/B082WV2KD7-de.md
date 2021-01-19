@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VO74R5L7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WV2KD7-de'
+slug: 'B082WV2KD7-de H0_V 1628Teile 1:10 2.4GHz RC Modell LKW Truck Sportwagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

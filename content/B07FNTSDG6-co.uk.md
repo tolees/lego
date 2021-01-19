@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514tgaBgGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTSDG6-co.uk'
+slug: 'B07FNTSDG6-co.uk LEGO 60240 City Kayak Adventure'
 actualPrice: 6.5 GBP
 currency: GBP
 price: 6.5

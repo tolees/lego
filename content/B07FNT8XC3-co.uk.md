@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNT8XC3-co.uk'
+slug: 'B07FNT8XC3-co.uk LEGO 21152 Minecraft The Pirate Ship Adventure Building Kit  Colourful'
 actualPrice: 36.0 GBP
 currency: GBP
 price: 36.0

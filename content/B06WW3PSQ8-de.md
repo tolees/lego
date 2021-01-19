@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SU4zYu63L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WW3PSQ8-de'
+slug: 'B06WW3PSQ8-de LEGO Nexo Knights 70373 - Combo NEXO Kräfte'
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

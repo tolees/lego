@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UFzIhASxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015FM2G9K-co.uk'
+slug: 'B015FM2G9K-co.uk LEGO DesignLE51504 West Design Junior Selection 9 Pieces Graphite Pencils Pack  Multi-Color  60 x 80 cm'
 actualPrice: 6.49 GBP
 currency: GBP
 price: 6.49

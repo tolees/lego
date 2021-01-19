@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513FDMo8JhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNSH9FR-de'
+slug: 'B07FNSH9FR-de LEGO NINJAGO 70669 - Coles Powerbohrer'
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NMLF2e7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086VYFZB4-de'
+slug: 'B086VYFZB4-de PARIO Display Halterung DIY Bauspiel MOC Ständer für Lego 75257 Star Wars Millennium Falcon'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

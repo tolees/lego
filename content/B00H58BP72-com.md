@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61FaJ5pRKML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H58BP72-com'
+slug: 'B00H58BP72-com 2 Pounds Bulk Lego Bricks - Random Selection of Vintage Lego Bricks'
 actualPrice: 34.98 USD
 currency: USD
 price: 34.98

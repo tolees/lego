@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sA+KsY+mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTW3NB7-de'
+slug: 'B07KTW3NB7-de LEGO DC Batman 76120 - Batwing und der Riddler-Überfall  Bauset'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

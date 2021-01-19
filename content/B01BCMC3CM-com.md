@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513vb66N09L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCMC3CM-com'
+slug: 'B01BCMC3CM-com LEGO Star Wars: The Force Awakens - Xbox 360 Standard Edition'
 actualPrice: 13.12 USD
 currency: USD
 price: 13.12

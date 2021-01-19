@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QmhMaUK2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6PQ1P5-co.uk'
+slug: 'B07K6PQ1P5-co.uk Shaw T-Shirts I Might Look Like I m Listening But In My Head I m BUILDING LEGO SETS - Vintage Style Poster - Metal Wall Art Sign - M0353 - Size A5'
 actualPrice: 6.75 GBP
 currency: GBP
 price: 6.75

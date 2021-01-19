@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PlAOxmBYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NE5LA4-co.uk'
+slug: 'B003NE5LA4-co.uk LEGO Storage Brick 8 Knobs  Stackable Storage Box  12 l  White'
 actualPrice: 25.42 GBP
 currency: GBP
 price: 25.42

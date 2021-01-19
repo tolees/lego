@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518XpMERBrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNN17DW-de'
+slug: 'B07FNN17DW-de LEGO City 60213 Feuerwehr am Hafen'
 actualPrice: 10.71 EUR
 currency: EUR
 price: 10.71

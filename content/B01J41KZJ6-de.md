@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lGyR+l5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J41KZJ6-de'
+slug: 'B01J41KZJ6-de LEGO Star Wars - Rogue One Actionfigur'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

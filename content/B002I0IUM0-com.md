@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61IpKthrWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002I0IUM0-com'
+slug: 'B002I0IUM0-com LEGO Star Wars III: The Clone Wars'
 actualPrice: 3.22 USD
 currency: USD
 price: 3.22

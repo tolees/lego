@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U0QS9oKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778NP61L-com'
+slug: 'B0778NP61L-com LEGO Brick Drawer  8 Knobs  2 Drawers  Stackable Storage Box  Aqua Mint Green'
 actualPrice: 22.49 USD
 currency: USD
 price: 22.49

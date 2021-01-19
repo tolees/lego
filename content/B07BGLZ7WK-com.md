@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xhz6NN8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGLZ7WK-com'
+slug: 'B07BGLZ7WK-com LEGO City Tracks 60205 Building Kit  20 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513m0WGNObL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CFDQK-de'
+slug: 'B0765CFDQK-de LEGO Ninjago 70645 Drachenmeister Cole'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

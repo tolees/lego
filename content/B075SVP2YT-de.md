@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51otYUo--PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075SVP2YT-de'
+slug: 'B075SVP2YT-de LEGO Friends 41339 - Mias Wohnmobil Cooles Kinderspielzeug'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

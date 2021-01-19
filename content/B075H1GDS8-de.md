@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RwofF2H9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075H1GDS8-de'
+slug: 'B075H1GDS8-de LEGO Duplo 10863 Meine erste Steinebox mit Ziehtieren  Kreatives Spielen'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

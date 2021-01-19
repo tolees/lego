@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mpn532YTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P61PR44-com'
+slug: 'B07P61PR44-com The Lego Movie 2: The Second Part 3D  Blu-ray 3D + Blu Ray + Digital '
 actualPrice: 17.14 USD
 currency: USD
 price: 17.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516a1cM12hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4KVGJM-co.uk'
+slug: 'B07W4KVGJM-co.uk LEGO 10913 DUPLO Classic Brick Box Building Set with Storage  First Bricks Learning Toy for Toddlers 1.5 Year Old'
 actualPrice: 16.0 GBP
 currency: GBP
 price: 16.0

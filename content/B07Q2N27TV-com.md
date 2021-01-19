@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wJQpjJaiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2N27TV-com'
+slug: 'B07Q2N27TV-com LEGO DC Batman Batmobile: Pursuit of The Joker 76119 Building Kit  342 Pieces '
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

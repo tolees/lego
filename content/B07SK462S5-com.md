@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uz8rwdrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK462S5-com'
+slug: 'B07SK462S5-com Lego Star Wars Skywalker Saga - PlayStation 4 Standard Edition'
 actualPrice: 49.94 USD
 currency: USD
 price: 49.94

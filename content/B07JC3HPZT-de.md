@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC3HPZT-de'
+slug: 'B07JC3HPZT-de LEGO Duplo 10894 Disney Pixar Toy-Story-Zug  Bausteine'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

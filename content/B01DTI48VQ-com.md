@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515ni2cciIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DTI48VQ-com'
+slug: 'B01DTI48VQ-com LEGO Chicken Suit Guy Minifigure with Coop'
 actualPrice: 5.3 USD
 currency: USD
 price: 5.3

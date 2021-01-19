@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LzJcYRxHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XYDNMZ-de'
+slug: 'B085XYDNMZ-de Dittzz Technic Auto Bausteine AMG-G65  2.4Ghz RC Sportwagen Bauset mit Motor und Fernbedienung  1662 Teile Bausteine Kompatibel mit Lego Technic'
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

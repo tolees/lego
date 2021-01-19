@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514LCWFQlFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQWKM6L-com'
+slug: 'B07KQWKM6L-com Lego Background Birthday for Boy 7x5 Customized Photography Backdrop Birthday Wall Backgrounds for Kids Lego Stars War Theme Baby Photo Backdrops'
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

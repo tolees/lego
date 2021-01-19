@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51shBWvu2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCXQ19H-de'
+slug: 'B07XCXQ19H-de LEGO 41405 Andreas magischer Würfel - Tiergeschäft Friends Bauset'
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

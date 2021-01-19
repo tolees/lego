@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5154jXV2K1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWVM5J4-com'
+slug: 'B07QWVM5J4-com LEGO DUPLO Town Submarine Adventure 10910 Building Kit  24 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

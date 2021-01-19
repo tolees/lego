@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IkGckXXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2MXBML-com'
+slug: 'B07Q2MXBML-com LEGO Harry Potter and The Goblet of Fire Beauxbatons’ Carriage: Arrival at Hogwarts 75958 Building Kit  430 Pieces '
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

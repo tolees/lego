@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Hv0xYZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT9CCZG-co.uk'
+slug: 'B01MT9CCZG-co.uk The LEGO Batman Movie MiniFigure - Batman w/ Utility Belt and Bat-a-Rang'
 actualPrice: 5.99 GBP
 currency: GBP
 price: 5.99

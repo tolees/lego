@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zByZu6LBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBPRXWN-de'
+slug: 'B07JBPRXWN-de LEGO Marvel Spider-Man 76130 - Far From Home Stark-Jet und der Drohnenangriff  Bauset'
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

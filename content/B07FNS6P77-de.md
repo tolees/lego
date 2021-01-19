@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n2kr1zh2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS6P77-de'
+slug: 'B07FNS6P77-de THE LEGO MOVIE 2 70824 Das ist Königin Wasimma Si-Willi'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

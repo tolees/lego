@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AABQRa3wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP1X8B4-de'
+slug: 'B07FP1X8B4-de LEGO Disney 41161 - Aladdins und Jasmins Palastabenteuer'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

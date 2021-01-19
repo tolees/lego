@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mkj56goxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767SZLGH-com'
+slug: 'B0767SZLGH-com LEGO Star Wars Last Jedi Minifigure - Supreme Leader Snoke  75190 '
 actualPrice: 4.99 USD
 currency: USD
 price: 4.99

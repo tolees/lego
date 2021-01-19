@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xGJFGMARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KMUUQVK-com'
+slug: 'B01KMUUQVK-com LEGO DUPLO My First Number Train 10847 Learning and Counting Train Set Building Kit and Educational Toy for 1 1/2-3 Year Olds  23 pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

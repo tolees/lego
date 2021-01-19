@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cKzVVKtIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX3T2FF-com'
+slug: 'B07PX3T2FF-com LEGO Harry Potter and The Goblet of Fire The Rise of Voldemort 75965 Building Kit  184 Pieces '
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

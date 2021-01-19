@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51782r0Oy2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNT8XBF-de'
+slug: 'B07FNT8XBF-de LEGO NINJAGO 70663 - Spinjitzu Nya & Wu'
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5
