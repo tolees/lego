@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYF64LK-co.uk LEGO Deluxe Emmet Costume'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 31.99 GBP
 currency: GBP
 price: 31.99

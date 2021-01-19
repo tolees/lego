@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNT8XBF-co.uk LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 11.19 GBP
 currency: GBP
 price: 11.19

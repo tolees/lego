@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GXY51TW-de The LEGO Movie Videogame - [PlayStation Vita]'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B98HI8Y-com LEGO: Marvel Super Heroes - Nintendo 3DS'
-tags: [ 'tole.es','lego:', ]
+tags: [ 'lego:', ]
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

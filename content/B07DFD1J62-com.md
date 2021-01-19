@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFD1J62-com LEGO DC Super-Villains - PlayStation 4'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 16.0 USD
 currency: USD
 price: 16.0

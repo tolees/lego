@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZRXOVOG-com IQ Lego Star Wars Han Solo LED Key Light'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 9.5 USD
 currency: USD
 price: 9.5

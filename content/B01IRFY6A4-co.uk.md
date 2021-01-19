@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IRFY6A4-co.uk LEGO 15 Window & Door Bundle - 10 x 1x4x3 Windows With...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 9.99 GBP
 currency: GBP
 price: 9.99

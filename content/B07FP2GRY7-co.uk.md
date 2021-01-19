@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2GRY7-co.uk LEGO 60223 City Great Vehicles Harvester Transport with...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 17.49 GBP
 currency: GBP
 price: 17.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AW1R5Y0-com LEGO Star Wars Galactic Empire Battle Pack 75134'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 44.99 USD
 currency: USD
 price: 44.99

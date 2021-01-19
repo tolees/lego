@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WD62ZNF-com LEGO NINJAGO Jay and Lloyd’s Velocity Racers 71709...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

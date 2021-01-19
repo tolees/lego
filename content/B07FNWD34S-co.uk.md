@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWD34S-co.uk LEGO 31091 Creator 3in1 Shuttle Transporter Spaceship...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 17.6 GBP
 currency: GBP
 price: 17.6

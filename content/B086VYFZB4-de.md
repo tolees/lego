@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VYFZB4-de PARIO Display Halterung DIY Bauspiel MOC Ständer für Lego...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

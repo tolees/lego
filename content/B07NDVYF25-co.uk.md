@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDVYF25-co.uk LEGO Marvel Collection for PlayStation 4'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 19.5 GBP
 currency: GBP
 price: 19.5

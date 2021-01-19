@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WHZ80HG-com LEGO Star Wars Kylo Ren s Command Shuttle 75104 Star Wars...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 100.0 USD
 currency: USD
 price: 100.0

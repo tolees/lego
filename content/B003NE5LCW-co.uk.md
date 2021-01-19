@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5LCW-co.uk LEGO Brick 2 Knobs Stackable Storage Box Bright Blue...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 9.99 GBP
 currency: GBP
 price: 9.99

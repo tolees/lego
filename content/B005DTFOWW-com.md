@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DTFOWW-com LEGO Quinlan VOS w Green Lightsaber Star Wars Minifigure'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 8.99 USD
 currency: USD
 price: 8.99

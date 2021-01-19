@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCMBP44-com LEGO Star Wars: The Force Awakens - PlayStation 3...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 14.0 USD
 currency: USD
 price: 14.0

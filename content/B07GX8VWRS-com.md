@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX8VWRS-com LEGO Creator 3in1 Race Plane 31094 Building Kit 333 Pieces'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

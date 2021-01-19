@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KQ1UDC-com LEGO Storage Brick 4 Black'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 19.49 USD
 currency: USD
 price: 19.49

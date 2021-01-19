@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GW29P8G-com LEGO City Great Vehicles Snow Groomer 60222 Building Kit...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778STBX5-com LEGO Brick Drawer 4 Knobs 1 Drawer Stackable Storage Box...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 14.99 USD
 currency: USD
 price: 14.99

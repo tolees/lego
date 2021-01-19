@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHGZRKM-com LEGO DUPLO Minnie’s Birthday Party 10873 Building Blocks...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

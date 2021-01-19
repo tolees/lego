@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792RGBRY-co.uk LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 14.7 GBP
 currency: GBP
 price: 14.7

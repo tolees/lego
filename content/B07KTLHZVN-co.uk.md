@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTLHZVN-co.uk LEGO 76118 DC Mr. Freeze Batcycle Battle 2 in1 Bike Set...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 13.0 GBP
 currency: GBP
 price: 13.0

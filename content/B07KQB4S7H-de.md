@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQB4S7H-de The Lego Movie 2 70838 Königin Wasimma Si Willis gar nicht...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 73.13 EUR
 currency: EUR
 price: 73.13

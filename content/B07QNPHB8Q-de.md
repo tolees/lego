@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNPHB8Q-de Spieland 200St. Custom Waffen Set für SWAT Team Polizei...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCK7G1L-com LEGO BATMAN MOVIE The Penguin Arctic Roller 70911...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 38.34 USD
 currency: USD
 price: 38.34

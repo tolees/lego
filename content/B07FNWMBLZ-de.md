@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWMBLZ-de LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug Bunt'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

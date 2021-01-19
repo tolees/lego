@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDW7NM2-com Lego Marvel Collection - Xbox One'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

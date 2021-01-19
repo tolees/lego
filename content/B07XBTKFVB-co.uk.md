@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBTKFVB-co.uk LEGO 41906 DOTS Pineapple Pencil Holder DIY Desk...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 12.0 GBP
 currency: GBP
 price: 12.0

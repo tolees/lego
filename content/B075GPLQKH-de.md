@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GPLQKH-de LEGO City 60180 - Starke Fahrzeuge Monster-Truck...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

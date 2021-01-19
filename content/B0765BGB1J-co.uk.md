@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765BGB1J-co.uk LEGO 60192 City Arctic Expedition Arctic Ice Crawler...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 11.8 GBP
 currency: GBP
 price: 11.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PTR5J-co.uk LEGO 10929 DUPLO Town Modular Playhouse 3-in-1 Set...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 36.5 GBP
 currency: GBP
 price: 36.5

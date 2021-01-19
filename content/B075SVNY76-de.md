@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SVNY76-de LEGO Creator 31071 - Forschungsdrohne Bauspielzeug'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

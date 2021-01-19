@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813Q5JNS-co.uk LEGO 41907 DOTS Desk Organiser DIY Arts and Crafts for...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 11.99 GBP
 currency: GBP
 price: 11.99

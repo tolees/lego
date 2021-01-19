@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015FM28XE-co.uk LEGO Buildable Ruler'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 8.89 GBP
 currency: GBP
 price: 8.89

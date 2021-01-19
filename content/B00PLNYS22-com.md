@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PLNYS22-com LEGO Storage Box'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 28.32 USD
 currency: USD
 price: 28.32
