@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mjh5r51gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3D9XQB-co.uk LEGO Harry Potter 75946 Hungarian Horntail Triwizard Challenge Dragon Toy  Harry Potter Gift Ideas'
+slug: 'B07G3D9XQB-co.uk LEGO Harry Potter 75946 Hungarian Horntail Triwizard...'
+tags: lego
 actualPrice: 23.99 GBP
 currency: GBP
 price: 23.99

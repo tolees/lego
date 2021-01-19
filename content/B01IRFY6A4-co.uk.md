@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UXHR38GrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IRFY6A4-co.uk LEGO 15 Window & Door Bundle - 10 x 1x4x3 Windows With Glass & 5 x 1x4x6 Doors - White'
+slug: 'B01IRFY6A4-co.uk LEGO 15 Window & Door Bundle - 10 x 1x4x3 Windows With...'
+tags: lego
 actualPrice: 9.99 GBP
 currency: GBP
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SAtd27MvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB18SQC-de Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit GALAXYARMS Waffe'
+slug: 'B07BB18SQC-de Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit...'
+tags: lego
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

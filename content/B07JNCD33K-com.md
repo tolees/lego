@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SgaEJ030L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNCD33K-com LEGO Star Wars Resistance Black Ace TIE Interceptor 75242 Building Kit  396 Pieces '
+slug: 'B07JNCD33K-com LEGO Star Wars Resistance Black Ace TIE Interceptor 75242...'
+tags: lego
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

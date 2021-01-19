@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513fLu31wpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXMPSRS-com LEGO Classic Basic Brick Set 11002 Building Kit  300 Pieces '
+slug: 'B07GXMPSRS-com LEGO Classic Basic Brick Set 11002 Building Kit 300 Pieces'
+tags: lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

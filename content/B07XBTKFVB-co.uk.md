@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-iVtUUGzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBTKFVB-co.uk LEGO 41906 DOTS Pineapple Pencil Holder DIY Desk Accessories Decorations Set  Art and Craft for Kids'
+slug: 'B07XBTKFVB-co.uk LEGO 41906 DOTS Pineapple Pencil Holder DIY Desk...'
+tags: lego
 actualPrice: 12.0 GBP
 currency: GBP
 price: 12.0

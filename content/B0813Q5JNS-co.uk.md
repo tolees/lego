@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pMzhrTUKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813Q5JNS-co.uk LEGO 41907 DOTS Desk Organiser DIY Arts and Crafts for Kids  Room Decorations & Desk Accessories Projects'
+slug: 'B0813Q5JNS-co.uk LEGO 41907 DOTS Desk Organiser DIY Arts and Crafts for...'
+tags: lego
 actualPrice: 11.99 GBP
 currency: GBP
 price: 11.99

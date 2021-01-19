@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415yP7TWagL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DR2F2J-co.uk DUS Light Set for LEGO Architecture San Francisco 21043  LED Included Only No LEGO Kit '
+slug: 'B083DR2F2J-co.uk DUS Light Set for LEGO Architecture San Francisco 21043...'
+tags: lego
 actualPrice: 20.99 GBP
 currency: GBP
 price: 20.99

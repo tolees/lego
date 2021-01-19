@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mGqab59qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTW32JP-de LEGO 75935 - Jurassic World Baryonyx  Kräftemessen: die Schatzsuche  Bauset'
+slug: 'B07KTW32JP-de LEGO 75935 - Jurassic World Baryonyx Kräftemessen: die...'
+tags: lego
 actualPrice: 47.44 EUR
 currency: EUR
 price: 47.44

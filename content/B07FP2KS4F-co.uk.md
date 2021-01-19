@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HTG-WS6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2KS4F-co.uk LEGO Movie 2 70821 Emmet and Benny’s Build and Fix Workshop'
+slug: 'B07FP2KS4F-co.uk LEGO Movie 2 70821 Emmet and Benny’s Build and Fix...'
+tags: lego
 actualPrice: 11.0 GBP
 currency: GBP
 price: 11.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jQCr4hHnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2GRY7-co.uk LEGO 60223 City Great Vehicles Harvester Transport with Truck and Trailer  plus Combine Tractor Toy  2 Minifigures and Scarecrow Figure  Farm Toys for 5+'
+slug: 'B07FP2GRY7-co.uk LEGO 60223 City Great Vehicles Harvester Transport with...'
+tags: lego
 actualPrice: 17.49 GBP
 currency: GBP
 price: 17.49

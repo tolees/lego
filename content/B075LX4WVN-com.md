@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fd0iXi5mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LX4WVN-com LEGO DUPLO Town Airport 10871 Building Blocks  29 Pieces '
+slug: 'B075LX4WVN-com LEGO DUPLO Town Airport 10871 Building Blocks 29 Pieces'
+tags: lego
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

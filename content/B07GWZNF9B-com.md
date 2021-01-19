@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zOuY3TKeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWZNF9B-com LEGO Creator 3in1 Futuristic Flyer 31086 Building Kit  157 Pieces '
+slug: 'B07GWZNF9B-com LEGO Creator 3in1 Futuristic Flyer 31086 Building Kit 157...'
+tags: lego
 actualPrice: 11.99 USD
 currency: USD
 price: 11.99

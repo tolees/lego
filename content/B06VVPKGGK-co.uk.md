@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jrs-ZPclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VVPKGGK-co.uk LEGO DC Comics Super Heroes 76085 Justice League Battle Of Atlantis Toy'
+slug: 'B06VVPKGGK-co.uk LEGO DC Comics Super Heroes 76085 Justice League Battle...'
+tags: lego
 actualPrice: 16.85 GBP
 currency: GBP
 price: 16.85

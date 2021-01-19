@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+QlQSt9mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTTSJTZ-co.uk LEGO 41386 Friends Stephanie’s Summer Heart Box Toy  Collectible Dolls Set'
+slug: 'B07KTTSJTZ-co.uk LEGO 41386 Friends Stephanie’s Summer Heart Box Toy...'
+tags: lego
 actualPrice: 5.59 GBP
 currency: GBP
 price: 5.59

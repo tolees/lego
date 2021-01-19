@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5L9K-com LEGO Storage Brick 8 Black'
+tags: lego
 actualPrice: 29.68 USD
 currency: USD
 price: 29.68

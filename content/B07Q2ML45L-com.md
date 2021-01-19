@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bSpiy9YcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2ML45L-com LEGO Friends Mia s Horse Trailer 41371 Building Kit with Mia and Emma Mini Dolls Includes Toy Truck  Horse  and Rabbit for Creative Play  216 Pieces '
+slug: 'B07Q2ML45L-com LEGO Friends Mia s Horse Trailer 41371 Building Kit with...'
+tags: lego
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

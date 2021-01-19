@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510BWlSMV3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWKHLRV-com LEGO City Sky Police Diamond Heist 60209 Building Kit  400 Pieces '
+slug: 'B07GWKHLRV-com LEGO City Sky Police Diamond Heist 60209 Building Kit 400...'
+tags: lego
 actualPrice: 43.49 USD
 currency: USD
 price: 43.49

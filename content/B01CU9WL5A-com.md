@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xJLNVxOXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CU9WL5A-com LEGO DUPLO Town Truck & Tracked Excavator 10812 Dump Truck and Excavator Kids Construction Toy with DUPLO Construction Worker Figures  26 pieces '
+slug: 'B01CU9WL5A-com LEGO DUPLO Town Truck & Tracked Excavator 10812 Dump...'
+tags: lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

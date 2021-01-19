@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GTGgrCNQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVSXLY-co.uk LEGO 70681 NINJAGO Spinjitzu Slam - Jay  Tornado Spinner Launcher and Shooter Set  Action Toys for Boys and Girls'
+slug: 'B07KTVSXLY-co.uk LEGO 70681 NINJAGO Spinjitzu Slam - Jay Tornado Spinner...'
+tags: lego
 actualPrice: 6.0 GBP
 currency: GBP
 price: 6.0

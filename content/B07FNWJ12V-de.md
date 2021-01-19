@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gxZl-GEtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWJ12V-de LEGO Star Wars 75241 - Action Battle  Bauset'
+slug: 'B07FNWJ12V-de LEGO Star Wars 75241 - Action Battle Bauset'
+tags: lego
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

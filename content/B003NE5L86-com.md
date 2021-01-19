@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mqjGo02XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NE5L86-com LEGO Storage Head  Large  Boy  9-1/2 x 9-1/2 x 10-3/4 Inches  Yellow'
+slug: 'B003NE5L86-com LEGO Storage Head Large Boy 9-1/2 x 9-1/2 x 10-3/4 Inches...'
+tags: lego
 actualPrice: 24.99 USD
 currency: USD
 price: 24.99

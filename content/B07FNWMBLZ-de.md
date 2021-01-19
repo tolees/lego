@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513WmAWlCHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWMBLZ-de LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug  Bunt'
+slug: 'B07FNWMBLZ-de LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug Bunt'
+tags: lego
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

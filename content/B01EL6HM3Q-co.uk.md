@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bPkJY-wXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EL6HM3Q-co.uk LEGO Lights IQLGL-KE95 Star Wars Episode VII Poe Dameron Key Light'
+slug: 'B01EL6HM3Q-co.uk LEGO Lights IQLGL-KE95 Star Wars Episode VII Poe...'
+tags: lego
 actualPrice: 8.05 GBP
 currency: GBP
 price: 8.05

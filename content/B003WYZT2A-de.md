@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ps27jYMaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WYZT2A-de LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit Minifigur und Gliederarmband zum Zusammenbauen   schwarz/weiß   Kunststoff   Gehäusedurchmesser 25 mm   analoge Quarzuhr   Junge/ Mädchen   offiziell'
+slug: 'B003WYZT2A-de LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit...'
+tags: lego
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

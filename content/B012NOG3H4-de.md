@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012NOG3H4-de LEGO Star Wars 75116 - Rogue One Actionfigur'
+tags: lego
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

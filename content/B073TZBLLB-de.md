@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x3EveX6BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073TZBLLB-de Lego Star Wars Kinder FLANELL / BIBER Bettwäsche Wende Motiv warm & kuschelig 2 tlg. Kissenbezug 80x80 + Bettbezug 135x200 cm 100 % Baumwolle'
+slug: 'B073TZBLLB-de Lego Star Wars Kinder FLANELL / BIBER Bettwäsche Wende...'
+tags: lego
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

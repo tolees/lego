@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AgDmVpOhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DTYPJZ-de H0_V 407 Stück Custom Bausteine Halterung Ständer Kompatibel mit Lego Star Wars Millennium Falcon 75192'
+slug: 'B083DTYPJZ-de H0_V 407 Stück Custom Bausteine Halterung Ständer...'
+tags: lego
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

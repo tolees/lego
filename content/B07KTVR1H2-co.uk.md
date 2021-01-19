@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Jl6y4V17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVR1H2-co.uk LEGO 60234 City Town People Pack - Fun Fair Building Set with 14 Minifigures  Toys for Kids 5 Years Old'
+slug: 'B07KTVR1H2-co.uk LEGO 60234 City Town People Pack - Fun Fair Building...'
+tags: lego
 actualPrice: 24.49 GBP
 currency: GBP
 price: 24.49

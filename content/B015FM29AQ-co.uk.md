@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xmzUtmHPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015FM29AQ-co.uk Lego 9 Count Coloured Gel Pens  Assorted Colours'
+slug: 'B015FM29AQ-co.uk Lego 9 Count Coloured Gel Pens Assorted Colours'
+tags: lego
 actualPrice: 12.46 GBP
 currency: GBP
 price: 12.46

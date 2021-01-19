@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-XJo75PAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TM73M-co.uk LEGO City 60245 Police Monster Truck Heist Building Set with Van  Motorbike  Bank  and Magnetic Brick'
+slug: 'B07W7TM73M-co.uk LEGO City 60245 Police Monster Truck Heist Building Set...'
+tags: lego
 actualPrice: 29.99 GBP
 currency: GBP
 price: 29.99

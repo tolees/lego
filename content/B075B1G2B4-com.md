@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E+epM6LZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075B1G2B4-com LEGO Star Wars - Supreme Leader Snoke with Palpatine Hologram'
+slug: 'B075B1G2B4-com LEGO Star Wars - Supreme Leader Snoke with Palpatine...'
+tags: lego
 actualPrice: 6.39 USD
 currency: USD
 price: 6.39

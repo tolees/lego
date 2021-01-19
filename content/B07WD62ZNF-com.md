@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ktuNgEfBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WD62ZNF-com LEGO NINJAGO Jay and Lloyd’s Velocity Racers 71709 Building Kit for Kids and Hot Toys  New 2020  322 Pieces '
+slug: 'B07WD62ZNF-com LEGO NINJAGO Jay and Lloyd’s Velocity Racers 71709...'
+tags: lego
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

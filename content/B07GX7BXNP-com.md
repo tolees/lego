@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513wFue-I-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX7BXNP-com LEGO THE LEGO MOVIE 2 Battle Ready Batman and MetalBeard 70836 Building Kit  Superhero and Pirate Mech Toy  168 Pieces '
+slug: 'B07GX7BXNP-com LEGO THE LEGO MOVIE 2 Battle Ready Batman and MetalBeard...'
+tags: lego
 actualPrice: 13.59 USD
 currency: USD
 price: 13.59

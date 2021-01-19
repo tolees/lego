@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519xUZw18hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCMBP44-com LEGO Star Wars: The Force Awakens - PlayStation 3 Standard Edition'
+slug: 'B01BCMBP44-com LEGO Star Wars: The Force Awakens - PlayStation 3...'
+tags: lego
 actualPrice: 14.0 USD
 currency: USD
 price: 14.0

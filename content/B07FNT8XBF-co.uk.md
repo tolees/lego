@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Jr4WYVvpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNT8XBF-co.uk LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO Customisable Spinner Toy Set'
+slug: 'B07FNT8XBF-co.uk LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO...'
+tags: lego
 actualPrice: 11.19 GBP
 currency: GBP
 price: 11.19

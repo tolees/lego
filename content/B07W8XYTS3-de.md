@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jNN1yDfFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8XYTS3-de LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit AR-App'
+slug: 'B07W8XYTS3-de LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit...'
+tags: lego
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

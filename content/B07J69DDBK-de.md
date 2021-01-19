@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tYJZtouCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J69DDBK-de LEGO Marvel Spider-Man 76128 - Far From Home Duell mit Molten Man  Bauset'
+slug: 'B07J69DDBK-de LEGO Marvel Spider-Man 76128 - Far From Home Duell mit...'
+tags: lego
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

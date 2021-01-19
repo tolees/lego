@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SalaC5TQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0076VIZBW-com LEGO Classic Brick Separator 630 Building Kit  1 Piece '
+slug: 'B0076VIZBW-com LEGO Classic Brick Separator 630 Building Kit 1 Piece'
+tags: lego
 actualPrice: 3.99 USD
 currency: USD
 price: 3.99

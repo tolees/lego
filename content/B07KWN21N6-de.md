@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j5ToFp5zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWN21N6-de Lego Wear Mädchen LWSIMONE 611-SWEATSHIRT Sweatshirt  Grau  Grey Melange 921    Herstellergröße: 128 '
+slug: 'B07KWN21N6-de Lego Wear Mädchen LWSIMONE 611-SWEATSHIRT Sweatshirt Grau...'
+tags: lego
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HZcH4DXHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG9X587-com LEGO Minecraft The Villager Raid 21160 Building Toy Action Playset for Boys and Girls Who Love Minecraft  New 2020  562 Pieces '
+slug: 'B07WG9X587-com LEGO Minecraft The Villager Raid 21160 Building Toy...'
+tags: lego
 actualPrice: 47.99 USD
 currency: USD
 price: 47.99

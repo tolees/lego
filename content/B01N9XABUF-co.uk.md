@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OS+zUM9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9XABUF-co.uk Lego Vampire Classic Costume  Medium  7-8 Years '
+slug: 'B01N9XABUF-co.uk Lego Vampire Classic Costume Medium 7-8 Years'
+tags: lego
 actualPrice: 21.95 GBP
 currency: GBP
 price: 21.95

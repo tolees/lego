@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HFPGZVQ-es Lego Star Wars Chewbacca Key Light [With Battery]'
+tags: lego
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

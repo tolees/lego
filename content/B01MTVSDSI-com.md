@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512raB4EiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTVSDSI-com LEGO Star Wars Rey 75528 Building Kit  85 Piece '
+slug: 'B01MTVSDSI-com LEGO Star Wars Rey 75528 Building Kit 85 Piece'
+tags: lego
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

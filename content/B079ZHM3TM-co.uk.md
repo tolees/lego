@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JagWI+vPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZHM3TM-co.uk LEGO DISK66168K Brick Costume Kids Iconic Blue Building Block Childrens Outfit  Child  Medium'
+slug: 'B079ZHM3TM-co.uk LEGO DISK66168K Brick Costume Kids Iconic Blue Building...'
+tags: lego
 actualPrice: 21.48 GBP
 currency: GBP
 price: 21.48

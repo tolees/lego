@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418EBAFDZ3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZHWSBL-co.uk LEGO DISKX14271 Kit Costume  Mask  One Size'
+slug: 'B079ZHWSBL-co.uk LEGO DISKX14271 Kit Costume Mask One Size'
+tags: lego
 actualPrice: 16.99 GBP
 currency: GBP
 price: 16.99

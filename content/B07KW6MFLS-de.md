@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BPg8pp2dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW6MFLS-de Lego Wear Mädchen Lego Tec Play LWALFRED 706-Fäustlinge mit Membran Fäustlinge  Violett  Bordeaux 383   6  Herstellergröße:134/140 '
+slug: 'B07KW6MFLS-de Lego Wear Mädchen Lego Tec Play LWALFRED 706-Fäustlinge...'
+tags: lego
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

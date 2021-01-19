@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XqypifZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF16SR1-de LEGO 41409 Friends Emmas magischer Würfel – Spielzeuggeschäft  Bauset  bunt'
+slug: 'B07XF16SR1-de LEGO 41409 Friends Emmas magischer Würfel –...'
+tags: lego
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

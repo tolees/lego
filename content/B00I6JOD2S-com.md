@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61sQsm5v+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I6JOD2S-com The LEGO Movie  DVD  Special Edition'
+slug: 'B00I6JOD2S-com The LEGO Movie DVD Special Edition'
+tags: lego
 actualPrice: 5.0 USD
 currency: USD
 price: 5.0

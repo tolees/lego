@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XNOXc-ZcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTLFBPG-co.uk LEGO 31095 Creator 3in1 Fairground Carousel Set  Fair Fun Adventures  Space Themed Model'
+slug: 'B07KTLFBPG-co.uk LEGO 31095 Creator 3in1 Fairground Carousel Set Fair...'
+tags: lego
 actualPrice: 31.47 GBP
 currency: GBP
 price: 31.47

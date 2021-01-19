@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ShLNKeLTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZR6WHM-de Spieland Custom Battle Szene Set für Lego Mini Figuren Militär Soldaten SWAT Team Polizei'
+slug: 'B07MZR6WHM-de Spieland Custom Battle Szene Set für Lego Mini Figuren...'
+tags: lego
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

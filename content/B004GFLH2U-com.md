@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qUtNUq+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GFLH2U-com LEGO Star Wars Minifigure - General Grievous Clone Wars Version Tan  2010 '
+slug: 'B004GFLH2U-com LEGO Star Wars Minifigure - General Grievous Clone Wars...'
+tags: lego
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

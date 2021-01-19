@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3LTRM7-co.uk LEGO 70832 Movie 2 Emmet’s Builder Box Building Kit  Colourful'
+slug: 'B07G3LTRM7-co.uk LEGO 70832 Movie 2 Emmet’s Builder Box Building Kit...'
+tags: lego
 actualPrice: 14.99 GBP
 currency: GBP
 price: 14.99

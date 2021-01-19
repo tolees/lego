@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-8eL61ynL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJJKNRG-com LEGO Trolls World Tour Techno Reef Dance Party 41250 Building Kit  Awesome Trolls Playset for Creative Play  New 2020  173 Pieces '
+slug: 'B07WJJKNRG-com LEGO Trolls World Tour Techno Reef Dance Party 41250...'
+tags: lego
 actualPrice: 16.82 USD
 currency: USD
 price: 16.82

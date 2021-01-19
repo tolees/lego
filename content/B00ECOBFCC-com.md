@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECOBFCC-com The LEGO Movie Videogame - PlayStation 3'
+tags: lego
 actualPrice: 14.96 USD
 currency: USD
 price: 14.96

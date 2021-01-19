@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+nsd28r7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813RH7GJ-co.uk LEGO 71721 NINJAGO Skull Sorcerer s Dragon Toy 2in1 Building Set & Board Game with Skeleton Army Figures'
+slug: 'B0813RH7GJ-co.uk LEGO 71721 NINJAGO Skull Sorcerer s Dragon Toy 2in1...'
+tags: lego
 actualPrice: 60.0 GBP
 currency: GBP
 price: 60.0

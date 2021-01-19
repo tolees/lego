@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UTNbel-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XWQVZQ-de Dittzz Technic Auto Bausteine  1:10 2.4Ghz RC Auto Bauset mit Motor und Fernbedienung  1928 Teile Bausteine Kompatibel mit Lego Technic'
+slug: 'B085XWQVZQ-de Dittzz Technic Auto Bausteine 1:10 2.4Ghz RC Auto Bauset...'
+tags: lego
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

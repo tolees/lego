@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51I6cfG671L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GQBMMV-co.uk LEGO 10864 DUPLO My First Large Playground Brick Box with Bouncy Car and Windmill  Easy Toy Storage Set for Kids 2-5'
+slug: 'B075GQBMMV-co.uk LEGO 10864 DUPLO My First Large Playground Brick Box...'
+tags: lego
 actualPrice: 29.58 GBP
 currency: GBP
 price: 29.58

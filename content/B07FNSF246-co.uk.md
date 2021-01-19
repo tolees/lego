@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qp3a0Bb+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNSF246-co.uk LEGO 76117 DC Super Heroes Batman Mech vs Poison Ivy Mech Batman  Poison Ivy  The Flash and Firefly Minifigures Building Set'
+slug: 'B07FNSF246-co.uk LEGO 76117 DC Super Heroes Batman Mech vs Poison Ivy...'
+tags: lego
 actualPrice: 24.0 GBP
 currency: GBP
 price: 24.0

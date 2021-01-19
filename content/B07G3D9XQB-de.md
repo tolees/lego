@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mjh5r51gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3D9XQB-de LEGO Harry Potter und der Feuerkelch  – Das Trimagische Turnier: der ungarische Hornschwanz  75946   Bauset'
+slug: 'B07G3D9XQB-de LEGO Harry Potter und der Feuerkelch – Das Trimagische...'
+tags: lego
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

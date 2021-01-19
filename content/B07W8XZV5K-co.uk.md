@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EXOih3pmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8XZV5K-co.uk LEGO 10917 DUPLO My First Fire Truck Toy  Fire-Engine Starter Set for Toddlers 1 .5 Year Old'
+slug: 'B07W8XZV5K-co.uk LEGO 10917 DUPLO My First Fire Truck Toy Fire-Engine...'
+tags: lego
 actualPrice: 3.5 GBP
 currency: GBP
 price: 3.5

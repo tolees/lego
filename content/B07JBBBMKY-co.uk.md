@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oT9WqrcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBBBMKY-co.uk LEGO 75972 Overwatch Dorado Showdown Playset with Dorado-style building  Truck and Soldier: 76  Reaper  McCree Minifigures'
+slug: 'B07JBBBMKY-co.uk LEGO 75972 Overwatch Dorado Showdown Playset with...'
+tags: lego
 actualPrice: 21.0 GBP
 currency: GBP
 price: 21.0

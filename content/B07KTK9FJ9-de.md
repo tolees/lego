@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK9FJ9-de LEGO 41373 - Friends Lustiges Oktopus-Karussell  Bauset'
+slug: 'B07KTK9FJ9-de LEGO 41373 - Friends Lustiges Oktopus-Karussell Bauset'
+tags: lego
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

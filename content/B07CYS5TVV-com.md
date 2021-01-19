@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ktxiuDguL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYS5TVV-com LEGO Solo: A Star Wars Story MiniFigure - Corellian Hound Animal Dog  75209 '
+slug: 'B07CYS5TVV-com LEGO Solo: A Star Wars Story MiniFigure - Corellian Hound...'
+tags: lego
 actualPrice: 2.99 USD
 currency: USD
 price: 2.99

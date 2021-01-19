@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/618xcKQc7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK6PP1-co.uk LEGO 11004 Classic Windows of Creativity Brickset  Fun Colourful Toy Bricks'
+slug: 'B07KTK6PP1-co.uk LEGO 11004 Classic Windows of Creativity Brickset Fun...'
+tags: lego
 actualPrice: 18.75 GBP
 currency: GBP
 price: 18.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418B7WH9WPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RPF2H4-co.uk LEGO Star Wars: Super Battle Droid with Normal Arm Minifigure'
+slug: 'B000RPF2H4-co.uk LEGO Star Wars: Super Battle Droid with Normal Arm...'
+tags: lego
 actualPrice: 1.19 GBP
 currency: GBP
 price: 1.19

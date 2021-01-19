@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NnXd1AfyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHF9KDV-com LEGO City Service Station 60257 Pretend Play Toy  Building Sets for Kids  New 2020  354 Pieces '
+slug: 'B07WHF9KDV-com LEGO City Service Station 60257 Pretend Play Toy Building...'
+tags: lego
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

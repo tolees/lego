@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JR+YwVqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS6J8X-de LEGO City 60217 Löschflugzeug der Feuerwehr  Kinderspielzeug'
+slug: 'B07FNS6J8X-de LEGO City 60217 Löschflugzeug der Feuerwehr Kinderspielzeug'
+tags: lego
 actualPrice: 28.2 EUR
 currency: EUR
 price: 28.2

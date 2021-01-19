@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qng6vJdhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NHQFA5E-com LEGO Classic Creative Bricks 10692 Building Blocks  Learning Toy  221 Pieces '
+slug: 'B00NHQFA5E-com LEGO Classic Creative Bricks 10692 Building Blocks...'
+tags: lego
 actualPrice: 13.59 USD
 currency: USD
 price: 13.59

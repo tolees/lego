@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CrkvjpGwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQB4S7H-de The Lego Movie 2 70838 Königin Wasimma Si Willis gar nicht böser Space-Tempel  Bauset'
+slug: 'B07KQB4S7H-de The Lego Movie 2 70838 Königin Wasimma Si Willis gar nicht...'
+tags: lego
 actualPrice: 73.13 EUR
 currency: EUR
 price: 73.13

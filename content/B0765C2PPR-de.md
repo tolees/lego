@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wdMdTISrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765C2PPR-de LEGO Friends Das große Rennen 41352 Kinderspielzeug'
+slug: 'B0765C2PPR-de LEGO Friends Das große Rennen 41352 Kinderspielzeug'
+tags: lego
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

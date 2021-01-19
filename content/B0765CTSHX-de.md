@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51jd3pT6z2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CTSHX-de LEGO City Krankenhaus  60204  Kinderspielzeug'
+slug: 'B0765CTSHX-de LEGO City Krankenhaus 60204 Kinderspielzeug'
+tags: lego
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

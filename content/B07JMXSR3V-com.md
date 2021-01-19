@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EKviw5Q3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMXSR3V-com LEGO Marvel Avengers Captain America: Outriders Attack 76123 Building Kit  167 Pieces '
+slug: 'B07JMXSR3V-com LEGO Marvel Avengers Captain America: Outriders Attack...'
+tags: lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

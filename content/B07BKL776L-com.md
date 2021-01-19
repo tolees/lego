@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xc35sosOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKL776L-com LEGO NINJAGO Zane - Dragon Master 70648 Building Kit  92 Piece '
+slug: 'B07BKL776L-com LEGO NINJAGO Zane - Dragon Master 70648 Building Kit 92...'
+tags: lego
 actualPrice: 10.71 USD
 currency: USD
 price: 10.71

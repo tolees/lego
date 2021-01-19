@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515XP3COZ-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBBVPQ6-co.uk LEGO 40253 Build Up Playset  24-in-1 Model  Fun Christmas Construction Toy for Kids'
+slug: 'B07JBBVPQ6-co.uk LEGO 40253 Build Up Playset 24-in-1 Model Fun Christmas...'
+tags: lego
 actualPrice: 8.99 GBP
 currency: GBP
 price: 8.99

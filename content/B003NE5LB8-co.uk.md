@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31k%2B3Bxb1XL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NE5LB8-co.uk LEGO Brick 4 Knobs Stackable Storage Box  Yellow  5.7 Litre'
+slug: 'B003NE5LB8-co.uk LEGO Brick 4 Knobs Stackable Storage Box Yellow 5.7 Litre'
+tags: lego
 actualPrice: 14.95 GBP
 currency: GBP
 price: 14.95

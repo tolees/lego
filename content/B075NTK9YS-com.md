@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518eua-YBXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NTK9YS-com LEGO Disney Princess Ariel’s Royal Celebration Boat 41153 Children s Toy Construction Set  380 Pieces '
+slug: 'B075NTK9YS-com LEGO Disney Princess Ariel’s Royal Celebration Boat 41153...'
+tags: lego
 actualPrice: 42.28 USD
 currency: USD
 price: 42.28

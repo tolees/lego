@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VV73L7S-de LEGO Star Wars 75177 - First Order Heavy Scout Walker'
+tags: lego
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98

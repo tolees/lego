@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gkqsf4cDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BP91VR7-co.uk LEGO Series 18 CLASSIC POLICE OFFICER Minifigure  #08/17  - Bagged 71021'
+slug: 'B07BP91VR7-co.uk LEGO Series 18 CLASSIC POLICE OFFICER Minifigure #08/17...'
+tags: lego
 actualPrice: 16.49 GBP
 currency: GBP
 price: 16.49

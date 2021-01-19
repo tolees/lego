@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kTaQVKPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001U7NGUS-com Early Simple Machines for Kindergarten STEM by LEGO Education DUPLO'
+slug: 'B001U7NGUS-com Early Simple Machines for Kindergarten STEM by LEGO...'
+tags: lego
 actualPrice: 139.11 USD
 currency: USD
 price: 139.11

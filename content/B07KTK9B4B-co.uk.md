@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511Z3BPYdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK9B4B-co.uk LEGO 41362 Friends Heartlake City Supermarket Grocery Store Set  Toy for 4 Year Old Girl and Boy with Buildable Toy Car'
+slug: 'B07KTK9B4B-co.uk LEGO 41362 Friends Heartlake City Supermarket Grocery...'
+tags: lego
 actualPrice: 17.99 GBP
 currency: GBP
 price: 17.99

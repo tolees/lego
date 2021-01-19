@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZENUUd40L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078LHSB6P-com LEGO 5005233 Exclusives Hamleys Royal Guard Minifigure  Polybag '
+slug: 'B078LHSB6P-com LEGO 5005233 Exclusives Hamleys Royal Guard Minifigure...'
+tags: lego
 actualPrice: 16.35 USD
 currency: USD
 price: 16.35

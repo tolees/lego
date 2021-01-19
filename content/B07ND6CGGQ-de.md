@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MWxuoJa+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND6CGGQ-de LEGO DUPLO 10899 Disney Elsas Eispalast  Bausteine'
+slug: 'B07ND6CGGQ-de LEGO DUPLO 10899 Disney Elsas Eispalast Bausteine'
+tags: lego
 actualPrice: 36.06 EUR
 currency: EUR
 price: 36.06

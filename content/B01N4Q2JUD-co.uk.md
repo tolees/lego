@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51590OWZcPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4Q2JUD-co.uk Lego 30522 The Batman Movie Exclusive Polybag Batman in the Phantom Zone'
+slug: 'B01N4Q2JUD-co.uk Lego 30522 The Batman Movie Exclusive Polybag Batman in...'
+tags: lego
 actualPrice: 4.89 GBP
 currency: GBP
 price: 4.89

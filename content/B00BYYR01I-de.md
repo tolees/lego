@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BYYR01I-de Lego Star Wars R2-D2 Key Light [With Battery]'
+tags: lego
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

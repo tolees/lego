@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51omG-DWfxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTKCRYR-co.uk LEGO 41371 Friends Mia s Horse Trailer Toy  Stable Extension Set  4 x 4 Buggy  Mia and Emma Mini Dolls'
+slug: 'B07KTKCRYR-co.uk LEGO 41371 Friends Mia s Horse Trailer Toy Stable...'
+tags: lego
 actualPrice: 18.67 GBP
 currency: GBP
 price: 18.67

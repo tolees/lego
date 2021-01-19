@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51BzgecVIRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792RGBRY-de LEGO Phantastische Tierwesen: Grindelwalds Verbrechen - Grindelwalds Flucht  75951  Bauset  132 Teile '
+slug: 'B0792RGBRY-de LEGO Phantastische Tierwesen: Grindelwalds Verbrechen -...'
+tags: lego
 actualPrice: 25 EUR
 currency: EUR
 price: 25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xfN9mSnEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXLG1C7-com LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit  Spaceship Toy with Dinosaur Figures  1172 Pieces '
+slug: 'B07GXLG1C7-com LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit...'
+tags: lego
 actualPrice: 73.99 USD
 currency: USD
 price: 73.99

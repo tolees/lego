@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Aq01LL9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVDOWUW-de LEGO Classic 10692 - Bausteine-Set  Spielzeug mit Lerncharakter'
+slug: 'B00NVDOWUW-de LEGO Classic 10692 - Bausteine-Set Spielzeug mit...'
+tags: lego
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

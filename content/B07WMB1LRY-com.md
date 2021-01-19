@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lgd3wNvgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMB1LRY-com LEGO Trolls World Tour Volcano Rock City Concert 41254  Cool Trolls Toy Building Kit for Kids  New 2020  387 Pieces '
+slug: 'B07WMB1LRY-com LEGO Trolls World Tour Volcano Rock City Concert 41254...'
+tags: lego
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

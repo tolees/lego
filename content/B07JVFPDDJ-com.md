@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gVgFFPmfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVFPDDJ-com LEGO Star Wars Minifigure - Jango Fett  Holiday Santa Jango  75023'
+slug: 'B07JVFPDDJ-com LEGO Star Wars Minifigure - Jango Fett Holiday Santa...'
+tags: lego
 actualPrice: 16.99 USD
 currency: USD
 price: 16.99

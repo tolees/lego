@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zsiscyeFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXYXFYX-com LEGO THE LEGO MOVIE 2 Minifigures 71023 Building Kit  1 Minifigure '
+slug: 'B07GXYXFYX-com LEGO THE LEGO MOVIE 2 Minifigures 71023 Building Kit 1...'
+tags: lego
 actualPrice: 2.33 USD
 currency: USD
 price: 2.33

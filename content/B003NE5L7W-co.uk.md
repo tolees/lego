@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5L7W-co.uk Lego Storage Head Large Girl'
+tags: lego
 actualPrice: 16.99 GBP
 currency: GBP
 price: 16.99

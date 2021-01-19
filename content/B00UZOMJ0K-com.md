@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xO9mJtEfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UZOMJ0K-com LEGO Ideas CUUSOO - Female Scientist Minifigure with Sextant  Syringe and Purple Bottle  21110 '
+slug: 'B00UZOMJ0K-com LEGO Ideas CUUSOO - Female Scientist Minifigure with...'
+tags: lego
 actualPrice: 6.69 USD
 currency: USD
 price: 6.69

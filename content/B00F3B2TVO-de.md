@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51madyg7JjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F3B2TVO-de LEGO Duplo 10572 - Große Steinebox  Kreatives Lernspielzeug'
+slug: 'B00F3B2TVO-de LEGO Duplo 10572 - Große Steinebox Kreatives Lernspielzeug'
+tags: lego
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

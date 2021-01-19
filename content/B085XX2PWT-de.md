@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515PDcckSyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XX2PWT-de Dittzz Technic Auto Bausteine   Auto Bauset  3358 Teiles Bausteine Kompatibel mit Lego Technic'
+slug: 'B085XX2PWT-de Dittzz Technic Auto Bausteine Auto Bauset 3358 Teiles...'
+tags: lego
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

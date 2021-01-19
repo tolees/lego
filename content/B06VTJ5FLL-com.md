@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61apJIxAfPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VTJ5FLL-com Lego Batman Movie  The  2017  [Blu-ray]'
+slug: 'B06VTJ5FLL-com Lego Batman Movie The 2017 [Blu-ray]'
+tags: lego
 actualPrice: 29.99 USD
 currency: USD
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YXPort5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EWOLZHC-com LEGO  City  Coast Guard Seaplane Bagged  30225 '
+slug: 'B00EWOLZHC-com LEGO City Coast Guard Seaplane Bagged 30225'
+tags: lego
 actualPrice: 10.99 USD
 currency: USD
 price: 10.99

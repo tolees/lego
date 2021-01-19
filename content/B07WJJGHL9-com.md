@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51M6o9H69KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJJGHL9-com LEGO Creator 3in1 Monster Burger Truck 31104 Building Kit  Cool Buildable Toy for Kids  New 2020  499 Pieces '
+slug: 'B07WJJGHL9-com LEGO Creator 3in1 Monster Burger Truck 31104 Building Kit...'
+tags: lego
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

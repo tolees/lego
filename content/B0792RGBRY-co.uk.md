@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792RGBRY-co.uk LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s Escape Carriage Toy  Build and Play Toys for Kids'
+slug: 'B0792RGBRY-co.uk LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s...'
+tags: lego
 actualPrice: 14.7 GBP
 currency: GBP
 price: 14.7

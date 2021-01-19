@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HUm%2Bh7S7L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK9FJV-de LEGO Friends 41388 - Mias sommerliche Herzbox  Bauset'
+slug: 'B07KTK9FJV-de LEGO Friends 41388 - Mias sommerliche Herzbox Bauset'
+tags: lego
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

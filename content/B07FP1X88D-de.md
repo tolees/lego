@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bo8TEJGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP1X88D-de THE LEGO MOVIE 2 70825 Königin Wasimma Si-Willis Bau-Was-Du-Willst-Box!'
+slug: 'B07FP1X88D-de THE LEGO MOVIE 2 70825 Königin Wasimma Si-Willis Bau-Was-...'
+tags: lego
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

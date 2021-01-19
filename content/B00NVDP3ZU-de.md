@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51agpAhwo9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVDP3ZU-de LEGO Classic 10696 Mittelgroße Bausteine-Box  Lernspielzeug'
+slug: 'B00NVDP3ZU-de LEGO Classic 10696 Mittelgroße Bausteine-Box Lernspielzeug'
+tags: lego
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

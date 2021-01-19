@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41urqMkdIKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJTGS33-com Lego Star Wars Poly Top Flannel Pants Boys 2 piece Pajamas Set  8  Grey/Multi '
+slug: 'B07GJTGS33-com Lego Star Wars Poly Top Flannel Pants Boys 2 piece...'
+tags: lego
 actualPrice: 14.99 USD
 currency: USD
 price: 14.99

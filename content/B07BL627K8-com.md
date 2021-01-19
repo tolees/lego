@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519K8xh6a7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL627K8-com LEGO The Powerpuff Girls Mojo Jojo Strikes 41288 Building Kit  228 Pieces '
+slug: 'B07BL627K8-com LEGO The Powerpuff Girls Mojo Jojo Strikes 41288 Building...'
+tags: lego
 actualPrice: 21.22 USD
 currency: USD
 price: 21.22

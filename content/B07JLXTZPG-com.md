@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C7klN2+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLXTZPG-com LEGO Star Wars Minifigure - Luke Skywalker  Bacta Tank Outfit  75203 2018 Version'
+slug: 'B07JLXTZPG-com LEGO Star Wars Minifigure - Luke Skywalker Bacta Tank...'
+tags: lego
 actualPrice: 3.99 USD
 currency: USD
 price: 3.99

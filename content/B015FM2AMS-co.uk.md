@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311qtRSHVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015FM2AMS-co.uk West Design West DesignLE51475 Lego Junior Selection Gel Pen  Red  Multi-Color'
+slug: 'B015FM2AMS-co.uk West Design West DesignLE51475 Lego Junior Selection...'
+tags: lego
 actualPrice: 3.0 GBP
 currency: GBP
 price: 3.0

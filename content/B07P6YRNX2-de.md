@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q6FYCYCuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6YRNX2-de Custom Brick Design Sith Lord Darth Nihilus Figur - - modifizierte Minifigur des bekannten Klemmbausteinherstellers und somit voll kompatibel zu Lego'
+slug: 'B07P6YRNX2-de Custom Brick Design Sith Lord Darth Nihilus Figur - -...'
+tags: lego
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

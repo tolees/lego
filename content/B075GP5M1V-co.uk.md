@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VenXHsECL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GP5M1V-co.uk LEGO 10867 DUPLO Town Farmers  Market Set  Building Bricks Farm Toy for Kids Age 2-5'
+slug: 'B075GP5M1V-co.uk LEGO 10867 DUPLO Town Farmers Market Set Building...'
+tags: lego
 actualPrice: 15.1 GBP
 currency: GBP
 price: 15.1

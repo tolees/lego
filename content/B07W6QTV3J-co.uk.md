@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kU90oFRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6QTV3J-co.uk LEGO 21158 Minecraft The Panda Nursery Building Set with Alex and Animal Figures  Toys for Kids 7+ Years Old'
+slug: 'B07W6QTV3J-co.uk LEGO 21158 Minecraft The Panda Nursery Building Set...'
+tags: lego
 actualPrice: 13.0 GBP
 currency: GBP
 price: 13.0

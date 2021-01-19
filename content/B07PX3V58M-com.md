@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jVw9a9WoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX3V58M-com LEGO Disney Frozen II Elsa’s Wagon Carriage Adventure 41166 Building Kit with Elsa & Sven Toy Figure  116 Pieces '
+slug: 'B07PX3V58M-com LEGO Disney Frozen II Elsa’s Wagon Carriage Adventure...'
+tags: lego
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

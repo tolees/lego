@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517H3Jj637L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BK2KPR4-co.uk LEGO 10910 DUPLO Town Submarine Adventure Bath Toy  Air Bubbles  Set for 2 Year Old'
+slug: 'B01BK2KPR4-co.uk LEGO 10910 DUPLO Town Submarine Adventure Bath Toy Air...'
+tags: lego
 actualPrice: 12.0 GBP
 currency: GBP
 price: 12.0

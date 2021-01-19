@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51231gmzPWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTTF3B-co.uk LEGO 70668 Ninjago Legacy Jay’s Storm Fighter Building Kit  Colourful'
+slug: 'B07FNTTF3B-co.uk LEGO 70668 Ninjago Legacy Jay’s Storm Fighter Building...'
+tags: lego
 actualPrice: 24.5 GBP
 currency: GBP
 price: 24.5

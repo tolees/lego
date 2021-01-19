@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61sq8eBR+vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W53FHJJ-com Lego Batman Movie  The  Blu-ray   BD '
+slug: 'B06W53FHJJ-com Lego Batman Movie The Blu-ray BD'
+tags: lego
 actualPrice: 8.83 USD
 currency: USD
 price: 8.83

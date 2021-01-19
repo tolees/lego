@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMDG5ZP-com LEGO Disney Pixar s The Incredibles - Nintendo Switch'
+tags: lego
 actualPrice: 24.88 USD
 currency: USD
 price: 24.88

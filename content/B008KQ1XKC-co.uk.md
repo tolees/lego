@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LQPou5SgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KQ1XKC-co.uk LEGO Storage Brick With 8 Knobs  in Bright Blue'
+slug: 'B008KQ1XKC-co.uk LEGO Storage Brick With 8 Knobs in Bright Blue'
+tags: lego
 actualPrice: 25.94 GBP
 currency: GBP
 price: 25.94

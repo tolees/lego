@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPRN75J-co.uk Lego Girl s Friends cm Sweatshirt  Pink  Pink 468   104'
+slug: 'B07MPRN75J-co.uk Lego Girl s Friends cm Sweatshirt Pink Pink 468 104'
+tags: lego
 actualPrice: 8.2 GBP
 currency: GBP
 price: 8.2

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GR1TVS-de LEGO Star Wars Han Solo 75535 Baubare Figur'
+tags: lego
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

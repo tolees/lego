@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t7GK4hjuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075SVTWHP-co.uk LEGO 41335 Friends Heartlake Mia’s Tree House Playset  Mia and Daniel Mini Dolls  Build and Play Fun Toys for Kids'
+slug: 'B075SVTWHP-co.uk LEGO 41335 Friends Heartlake Mia’s Tree House Playset...'
+tags: lego
 actualPrice: 17.84 GBP
 currency: GBP
 price: 17.84

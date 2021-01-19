@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51qEhqNaFLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK971G-de LEGO Friends 41387 - Olivias Sommer-Herzbox  Bauset'
+slug: 'B07KTK971G-de LEGO Friends 41387 - Olivias Sommer-Herzbox Bauset'
+tags: lego
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

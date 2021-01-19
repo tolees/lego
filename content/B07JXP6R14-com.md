@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uw5oqxJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXP6R14-com LEGO Marvel Spider-Man Far From Home: Molten Man Battle 76128 Building Kit  294 Pieces '
+slug: 'B07JXP6R14-com LEGO Marvel Spider-Man Far From Home: Molten Man Battle...'
+tags: lego
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

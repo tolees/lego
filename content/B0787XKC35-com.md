@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GxA1TQfNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787XKC35-com LEGO Star Wars Solo: A Star Wars Story Han Solo 75535 Building Kit  101 Piece '
+slug: 'B0787XKC35-com LEGO Star Wars Solo: A Star Wars Story Han Solo 75535...'
+tags: lego
 actualPrice: 18.27 USD
 currency: USD
 price: 18.27

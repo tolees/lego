@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lsH8tnw0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3X51RJ-co.uk LEGO 76127 Captain Marvel and The Skrull Attack Building Kit'
+slug: 'B07G3X51RJ-co.uk LEGO 76127 Captain Marvel and The Skrull Attack...'
+tags: lego
 actualPrice: 18.75 GBP
 currency: GBP
 price: 18.75

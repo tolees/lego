@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zKtwthCOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW8S1ZD-co.uk Lego Wear Boy s Lego Lwsiam Sweatshirt  Grey  Grey Melange 921   104'
+slug: 'B07KW8S1ZD-co.uk Lego Wear Boy s Lego Lwsiam Sweatshirt Grey Grey...'
+tags: lego
 actualPrice: 19.79 GBP
 currency: GBP
 price: 19.79

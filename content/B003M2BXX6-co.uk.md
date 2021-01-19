@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S6EJEJ1xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003M2BXX6-co.uk LEGO 9002144 Yellow Brick Kids Light Up Alarm Clock | yelow | plastic | 2.75 inches tall | LCD display | boy girl | official'
+slug: 'B003M2BXX6-co.uk LEGO 9002144 Yellow Brick Kids Light Up Alarm Clock |...'
+tags: lego
 actualPrice: 19.99 GBP
 currency: GBP
 price: 19.99

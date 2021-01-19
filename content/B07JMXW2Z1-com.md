@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zZQgJPYhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMXW2Z1-com LEGO Star Wars: The Force Awakens Duel on Starkiller Base 75236 Building Kit  191 Pieces '
+slug: 'B07JMXW2Z1-com LEGO Star Wars: The Force Awakens Duel on Starkiller Base...'
+tags: lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

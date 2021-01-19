@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xCoaIsWuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP711YX-de LEGO Star Wars 75238 Action Battle Endor Attacke  Bauset'
+slug: 'B07FP711YX-de LEGO Star Wars 75238 Action Battle Endor Attacke Bauset'
+tags: lego
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

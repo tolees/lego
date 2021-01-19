@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517DFFcDQ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2N1LVB-com LEGO DC Batman: Batman vs The Riddler Robbery 76137 Building Kit  59 Pieces '
+slug: 'B07Q2N1LVB-com LEGO DC Batman: Batman vs The Riddler Robbery 76137...'
+tags: lego
 actualPrice: 7.99 USD
 currency: USD
 price: 7.99

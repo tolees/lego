@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aRosCavXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4LFVQP-co.uk LEGO 41255 Trolls World Tour Pop Village Celebration Treehouse Building Set with  2 Pods  Portable Travel Toys'
+slug: 'B07W4LFVQP-co.uk LEGO 41255 Trolls World Tour Pop Village Celebration...'
+tags: lego
 actualPrice: 35.99 GBP
 currency: GBP
 price: 35.99

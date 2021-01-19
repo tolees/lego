@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hAo5ZE9YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNCD33H-com LEGO Star Wars: The Empire Strikes Back Action Battle Hoth Generator Attack 75239 Building Kit  235 Pieces '
+slug: 'B07JNCD33H-com LEGO Star Wars: The Empire Strikes Back Action Battle...'
+tags: lego
 actualPrice: 20.2 USD
 currency: USD
 price: 20.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z-9ccnImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4KTD62-de LEGO 43177 - Belle Märchenbuch  Disney Princess  Bauset'
+slug: 'B07W4KTD62-de LEGO 43177 - Belle Märchenbuch Disney Princess Bauset'
+tags: lego
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

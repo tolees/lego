@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hgxCHT9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTTF41-de LEGO 76123 - Marvel Super Heroes Captain America: Outrider-Attacke'
+slug: 'B07FNTTF41-de LEGO 76123 - Marvel Super Heroes Captain America:...'
+tags: lego
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

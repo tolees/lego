@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H6PiFpCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H5X3RKA-co.uk Lego Legends of Chima Cragger Boys Pyjamas  4   Green  Size 4'
+slug: 'B00H5X3RKA-co.uk Lego Legends of Chima Cragger Boys Pyjamas 4 Green Size 4'
+tags: lego
 actualPrice: 3.99 GBP
 currency: GBP
 price: 3.99

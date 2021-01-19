@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oCyMVWYiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WM9NL1H-com LEGO Disney Belle’s Storybook Adventures 43177 Creative Building Kit Toy  New 2020  111 Pieces '
+slug: 'B07WM9NL1H-com LEGO Disney Belle’s Storybook Adventures 43177 Creative...'
+tags: lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

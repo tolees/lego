@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N7Ep1WXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXC4TGV-com LEGO THE LEGO MOVIE 2 Escape Buggy 70829 Building Kit  Build and Play Toy Car with Action Heroes  550 Pieces '
+slug: 'B07GXC4TGV-com LEGO THE LEGO MOVIE 2 Escape Buggy 70829 Building Kit...'
+tags: lego
 actualPrice: 36.99 USD
 currency: USD
 price: 36.99

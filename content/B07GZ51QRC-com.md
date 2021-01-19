@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OSJhpSI-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZ51QRC-com LEGO Minecraft The End Battle 21151 Ender Dragon Building Kit includes Dragon Slayer and Enderman Toy Figures for Dragon Fighting Adventures  222 Pieces '
+slug: 'B07GZ51QRC-com LEGO Minecraft The End Battle 21151 Ender Dragon Building...'
+tags: lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

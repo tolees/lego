@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVDJQK8-co.uk LEGO Movie 70817: Batman and Super Angry Kitty Attack'
+tags: lego
 actualPrice: 9.99 GBP
 currency: GBP
 price: 9.99

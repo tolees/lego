@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZJudFb8sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813QWRNW-co.uk LEGO 10919 DUPLO DC Batman Batcave with Batmobile & JOKER Car Toy for Toddlers from 2 Years Old'
+slug: 'B0813QWRNW-co.uk LEGO 10919 DUPLO DC Batman Batcave with Batmobile &...'
+tags: lego
 actualPrice: 22.5 GBP
 currency: GBP
 price: 22.5

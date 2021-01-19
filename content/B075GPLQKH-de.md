@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517ZWjjOs3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GPLQKH-de LEGO City 60180 - Starke Fahrzeuge Monster-Truck  Kinderspielzeug'
+slug: 'B075GPLQKH-de LEGO City 60180 - Starke Fahrzeuge Monster-Truck...'
+tags: lego
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

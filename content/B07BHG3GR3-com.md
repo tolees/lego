@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pjN-zcqiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHG3GR3-com LEGO City Arctic Scout Truck 60194 Building Kit  322 Pieces '
+slug: 'B07BHG3GR3-com LEGO City Arctic Scout Truck 60194 Building Kit 322 Pieces'
+tags: lego
 actualPrice: 41.0 USD
 currency: USD
 price: 41.0

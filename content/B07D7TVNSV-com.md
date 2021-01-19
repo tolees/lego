@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tv9ErkNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7TVNSV-com LEGO Marvel Spider-Man: Spider-Man Bike Rescue 76113 Building Kit  235 Pieces '
+slug: 'B07D7TVNSV-com LEGO Marvel Spider-Man: Spider-Man Bike Rescue 76113...'
+tags: lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

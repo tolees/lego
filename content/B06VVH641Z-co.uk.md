@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aGCG+5e3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VVH641Z-co.uk LEGO Star Wars The Last Jedi 75176 Resistance Transport Pod Toy'
+slug: 'B06VVH641Z-co.uk LEGO Star Wars The Last Jedi 75176 Resistance Transport...'
+tags: lego
 actualPrice: 28.0 GBP
 currency: GBP
 price: 28.0

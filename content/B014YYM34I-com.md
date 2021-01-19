@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i7nnolFKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014YYM34I-com LEGO Force Awakens Star Wars Minifigure - BB-8 Astromech Droid  75105 '
+slug: 'B014YYM34I-com LEGO Force Awakens Star Wars Minifigure - BB-8 Astromech...'
+tags: lego
 actualPrice: 4.94 USD
 currency: USD
 price: 4.94
