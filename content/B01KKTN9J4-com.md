@@ -25,9 +25,9 @@ There's a deal [LEGO City Police Mobile Command Center Truck 60139 Building Toy 
 
 ℹ️:
 
+- Police station toy includes male and female police officers action figures and male and female crook minifigures, plus police dog figure and accessories
 - Chase the bad guys in LEGO City as you build a truck that opens into a police mobile command center truck playset, with a detachable cab, jail cell, monitoring room, satellite dish, atv, motorbike and more cool cop features!
 - Mobile command center police toy is over 4” high, 9” long, and 2” wide. The police truck cab is over 3” high, 5” long, and 2” wide. ATV toy is over 1” high, 2” long, and 1” wide. Police motorbike is over 1” high, 2” long, and under 1” wide
-- Police station toy includes male and female police officers action figures and male and female crook minifigures, plus police dog figure and accessories
 - The action-packed fun never stops with this police play set. Play the crooks as they pull off the toy jail door for a breakout, and then save the day as cops who chase down the crooks’ buildable ATV with the police motorbike
 - 374 pieces in this action police chase toy set for boys and girls between the ages of 6 and 12 years old
 
