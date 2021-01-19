@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHQ5FDY-com LEGO Movie 2 The Second Part Blu-Ray'
-tags: lego
+tags: tole.es, lego
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPRN75J-co.uk Lego Girl s Friends cm Sweatshirt Pink Pink 468 104'
-tags: lego
+tags: tole.es, lego
 actualPrice: 8.2 GBP
 currency: GBP
 price: 8.2

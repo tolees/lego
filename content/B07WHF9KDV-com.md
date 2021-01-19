@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHF9KDV-com LEGO City Service Station 60257 Pretend Play Toy Building...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

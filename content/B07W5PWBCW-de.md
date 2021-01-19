@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PWBCW-de LEGO 11007 Classic Grünes Kreativ-Set Lernstarter-Set...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

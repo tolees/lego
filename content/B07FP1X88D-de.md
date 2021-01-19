@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP1X88D-de THE LEGO MOVIE 2 70825 Königin Wasimma Si-Willis Bau-Was-...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

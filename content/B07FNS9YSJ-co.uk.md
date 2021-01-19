@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS9YSJ-co.uk LEGO 10884 DUPLO My First Balancing Animals Building...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 9.67 GBP
 currency: GBP
 price: 9.67

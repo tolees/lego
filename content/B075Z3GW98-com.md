@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Z3GW98-com LEGO Super Heroes - Harley Quinn with Black and Red Tutu'
-tags: lego
+tags: tole.es, lego
 actualPrice: 8.99 USD
 currency: USD
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTTF41-fr LEGO® Marvel Super Heroes™ Captain America et l attaque...'
-tags: lego®
+tags: tole.es, lego®
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

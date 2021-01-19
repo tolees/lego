@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVDOH2U-de LEGO Classic 10700 - Bauplatte'
-tags: lego
+tags: tole.es, lego
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

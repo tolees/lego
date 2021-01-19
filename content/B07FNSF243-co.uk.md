@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSF243-co.uk LEGO 76115 Marvel Super Heroes Spider Mech vs. Venom...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 32.46 GBP
 currency: GBP
 price: 32.46

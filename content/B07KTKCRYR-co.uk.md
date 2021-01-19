@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTKCRYR-co.uk LEGO 41371 Friends Mia s Horse Trailer Toy Stable...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 18.67 GBP
 currency: GBP
 price: 18.67

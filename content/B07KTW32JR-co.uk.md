@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTW32JR-co.uk LEGO 75934 avec 3 Figurines Dont et Jurassic World...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 14.87 GBP
 currency: GBP
 price: 14.87

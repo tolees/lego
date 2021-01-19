@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4LFVQP-co.uk LEGO 41255 Trolls World Tour Pop Village Celebration...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 35.99 GBP
 currency: GBP
 price: 35.99

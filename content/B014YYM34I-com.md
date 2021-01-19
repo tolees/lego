@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014YYM34I-com LEGO Force Awakens Star Wars Minifigure - BB-8 Astromech...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 4.94 USD
 currency: USD
 price: 4.94

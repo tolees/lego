@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3VML9-com LEGO Hidden Side Paranormal Intercept Bus 3000 70423...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 47.0 USD
 currency: USD
 price: 47.0

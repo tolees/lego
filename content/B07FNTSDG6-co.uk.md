@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTSDG6-co.uk LEGO 60240 City Kayak Adventure'
-tags: lego
+tags: tole.es, lego
 actualPrice: 6.5 GBP
 currency: GBP
 price: 6.5

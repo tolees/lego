@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP76GM5-de LEGO Creator 31093 - Hausboot'
-tags: lego
+tags: tole.es, lego
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

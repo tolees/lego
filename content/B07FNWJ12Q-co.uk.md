@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWJ12Q-co.uk LEGO 70680 NINJAGO Monastery Training Includes Kai and...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 6.29 GBP
 currency: GBP
 price: 6.29

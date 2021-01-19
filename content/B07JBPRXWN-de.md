@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBPRXWN-de LEGO Marvel Spider-Man 76130 - Far From Home Stark-Jet und...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

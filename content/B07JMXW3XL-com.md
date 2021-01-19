@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMXW3XL-com LEGO | Disney Pixar’s Toy Story Duke Caboom’s Stunt Show...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

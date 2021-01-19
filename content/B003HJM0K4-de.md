@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HJM0K4-de LEGO 8869 Power Functions Schalter für die Power...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

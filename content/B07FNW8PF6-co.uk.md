@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNW8PF6-co.uk LEGO 70827 Children s Toy Multi-Coloured'
-tags: lego
+tags: tole.es, lego
 actualPrice: 20.01 GBP
 currency: GBP
 price: 20.01
@@ -26,10 +26,10 @@ You've got [LEGO 70827 Children s Toy Multi-Coloured](https://www.amazon.co.uk/d
 
 ℹ️:
 
-- Includes new 2019 Lucy and Emmet minifigures, a brick-built alien invader, plus extra bricks to combine Ultrakatty with 70829 Emmet and Lucy’s Escape Buggy and create The Ultra Escape Buggy
-- THE LEGO MOVIE 2 70827 Ultrakatty and Warrior Lucy toy building set can be built together with all other original LEGO construction toys and LEGO bricks for creative building
-- Accessory elements include Lucy’s crossbow weapon, quiver and STOP sign shield element
-- Recreate action-packed adventures from THE LEGO MOVIE 2 with this creative toy for boys and girls aged 8+ and fans of all ages
 - Build Ultrakatty, with a minifigure cockpit with reins, poseable head with three different facial expressions and a poseable tail and legs and ride into battle against the alien invader with Lucy
+- THE LEGO MOVIE 2 70827 Ultrakatty and Warrior Lucy toy building set can be built together with all other original LEGO construction toys and LEGO bricks for creative building
+- Recreate action-packed adventures from THE LEGO MOVIE 2 with this creative toy for boys and girls aged 8+ and fans of all ages
+- Accessory elements include Lucy’s crossbow weapon, quiver and STOP sign shield element
+- Includes new 2019 Lucy and Emmet minifigures, a brick-built alien invader, plus extra bricks to combine Ultrakatty with 70829 Emmet and Lucy’s Escape Buggy and create The Ultra Escape Buggy
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNW8PF6/?tag=tolees0a-21)

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7TVNSV-com LEGO Marvel Spider-Man: Spider-Man Bike Rescue 76113...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

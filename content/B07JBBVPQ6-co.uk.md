@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBBVPQ6-co.uk LEGO 40253 Build Up Playset 24-in-1 Model Fun Christmas...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 8.99 GBP
 currency: GBP
 price: 8.99

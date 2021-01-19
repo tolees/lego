@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNMTS87-de LEGO DUPLO 10903 - Feuerwehrwache'
-tags: lego
+tags: tole.es, lego
 actualPrice: 40.92 EUR
 currency: EUR
 price: 40.92

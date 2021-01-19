@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLMV14S-fr LEGO DUPLO La boîte de briques deluxe Ensemble de...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

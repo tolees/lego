@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1K195S-com LEGO Harry Potter Hagrid s Hut: Buckbeak s Rescue 75947...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 47.99 USD
 currency: USD
 price: 47.99

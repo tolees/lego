@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTK9FJV-de LEGO Friends 41388 - Mias sommerliche Herzbox Bauset'
-tags: lego
+tags: tole.es, lego
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

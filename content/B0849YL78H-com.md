@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0849YL78H-com LEGO Jurassic World: Legend of Isla Nublar'
-tags: lego
+tags: tole.es, lego
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

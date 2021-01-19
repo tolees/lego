@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVDJKN6-de LEGO Classic 10701 - Graue Bauplatte Lernspielzeug'
-tags: lego
+tags: tole.es, lego
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

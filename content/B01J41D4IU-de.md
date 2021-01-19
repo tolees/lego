@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J41D4IU-de LEGO Duplo 10847 - Zahlenzug Vorschulspielzeug'
-tags: lego
+tags: tole.es, lego
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

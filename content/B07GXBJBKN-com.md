@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXBJBKN-com LEGO Friends Stephanie’s Horse Jumping 41367 Building Kit...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

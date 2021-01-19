@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWVM5J4-com LEGO DUPLO Town Submarine Adventure 10910 Building Kit 24...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2MXBML-com LEGO Harry Potter and The Goblet of Fire Beauxbatons’...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

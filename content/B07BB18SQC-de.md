@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB18SQC-de Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

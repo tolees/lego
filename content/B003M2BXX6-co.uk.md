@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003M2BXX6-co.uk LEGO 9002144 Yellow Brick Kids Light Up Alarm Clock |...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 19.99 GBP
 currency: GBP
 price: 19.99

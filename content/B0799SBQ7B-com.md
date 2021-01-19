@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0799SBQ7B-com LEGO Star Wars - R4-P17 Astromech Droid Minifig'
-tags: lego
+tags: tole.es, lego
 actualPrice: 5.69 USD
 currency: USD
 price: 5.69

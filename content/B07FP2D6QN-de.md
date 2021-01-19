@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2D6QN-de Lego 41357 Friends Olivias Herzbox bunt'
-tags: lego
+tags: tole.es, lego
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

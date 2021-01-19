@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2KS4F-co.uk LEGO Movie 2 70821 Emmet and Benny’s Build and Fix...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 11.0 GBP
 currency: GBP
 price: 11.0

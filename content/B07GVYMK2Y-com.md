@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVYMK2Y-com LEGO City Sky Police Drone Chase 60207 Building Kit 192...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 21.99 USD
 currency: USD
 price: 21.99

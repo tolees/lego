@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTVR1H2-co.uk LEGO 60234 City Town People Pack - Fun Fair Building...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 24.49 GBP
 currency: GBP
 price: 24.49

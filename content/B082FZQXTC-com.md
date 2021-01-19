@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FZQXTC-com CREATOR 2019 Lego Gingerbread House Mini Limited Edition...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 27.95 USD
 currency: USD
 price: 27.95

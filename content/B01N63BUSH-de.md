@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N63BUSH-de LEGO Nexo Ritter macht Strandtuch'
-tags: lego
+tags: tole.es, lego
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKL776L-com LEGO NINJAGO Zane - Dragon Master 70648 Building Kit 92...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 10.71 USD
 currency: USD
 price: 10.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A00W4RQ-de LEGO Stadt Blaues Auto 30349 pe-beutel'
-tags: lego
+tags: tole.es, lego
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

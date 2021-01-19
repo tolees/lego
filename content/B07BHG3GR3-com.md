@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHG3GR3-com LEGO City Arctic Scout Truck 60194 Building Kit 322 Pieces'
-tags: lego
+tags: tole.es, lego
 actualPrice: 41.0 USD
 currency: USD
 price: 41.0

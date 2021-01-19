@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWC7M8Q-co.uk Lego Wear Boy s Lego Lwsiam Sweatshirt Grey Grey...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 17.94 GBP
 currency: GBP
 price: 17.94

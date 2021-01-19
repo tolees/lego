@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLJJX99-de LEGO 76143 Marvel Avengers Superhelden – Truck-Festnahme...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 30.06 EUR
 currency: EUR
 price: 30.06

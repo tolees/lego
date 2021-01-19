@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6J8X-de LEGO City 60217 Löschflugzeug der Feuerwehr Kinderspielzeug'
-tags: lego
+tags: tole.es, lego
 actualPrice: 28.2 EUR
 currency: EUR
 price: 28.2

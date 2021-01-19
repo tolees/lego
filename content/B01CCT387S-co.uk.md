@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CCT387S-co.uk LEGO 75119 Star Wars Jyn Erso'
-tags: lego
+tags: tole.es, lego
 actualPrice: 15.06 GBP
 currency: GBP
 price: 15.06

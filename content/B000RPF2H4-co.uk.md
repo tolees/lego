@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RPF2H4-co.uk LEGO Star Wars: Super Battle Droid with Normal Arm...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 1.19 GBP
 currency: GBP
 price: 1.19

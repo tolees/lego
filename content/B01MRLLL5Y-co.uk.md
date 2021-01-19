@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRLLL5Y-co.uk LEGO 21308 Adventure Time Toy Creative role-playing Set'
-tags: lego
+tags: tole.es, lego
 actualPrice: 24.81 GBP
 currency: GBP
 price: 24.81
