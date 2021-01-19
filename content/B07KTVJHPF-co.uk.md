@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'LEGO 60226 City Mars Research Shuttle Sp at 32.01 % discount'
-date: 2021-01-16 11:26:52
+date: 2021-01-19 20:56:31
 image: 'https://m.media-amazon.com/images/I/51p0jbc9ltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVJHPF-co.uk'
+slug: 'B07KTVJHPF-co.uk LEGO 60226 City Mars Research Shuttle Spaceship...'
+tags: [ 'lego', ]
 actualPrice: 16.99 GBP
 currency: GBP
 price: 16.99
@@ -16,7 +17,7 @@ country: 'co.uk'
 flag: '🇬🇧'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTVJHPF/?tag=tolees0a-21'
 descuento: '32.01'
-average: '20.20875776397517'
+average: '20.169263803680998'
 ---
 
 With a final price of 16.99 GBP (original: 24.99 GBP) you can find [LEGO 60226 City Mars Research Shuttle Spaceship Construction Toys for Kids Inspired by NASA with Rover and Drone](https://www.amazon.co.uk/dp/B07KTVJHPF/?tag=tolees0a-21) with a  32.01 % discount here:
@@ -25,10 +26,10 @@ With a final price of 16.99 GBP (original: 24.99 GBP) you can find [LEGO 60226 C
 
 ℹ️:
 
-- Accessory elements include a helmet, extra vehicular activity suit with a visor, scanner and two (for-June-2019) geodes with blue crystals
-- Storage drone features an opening compartment and helidrone a spinning rotor blade and scanner to read a secret symbol discovered on Mars
 - This LEGO city Mars research shuttle 60226 spaceship toy set makes an ideal gift and can be built together with all other original LEGO toys
+- Storage drone features an opening compartment and helidrone a spinning rotor blade and scanner to read a secret symbol discovered on Mars
 - Includes two astronaut minifigures to drive the Mars rover with (for-June-2019) articulated grappling arm, laser and tilting solar panels
+- Accessory elements include a helmet, extra vehicular activity suit with a visor, scanner and two (for-June-2019) geodes with blue crystals
 - This building set features a space research shuttle with opening cockpit, two large opening doors and space inside for a storage drone
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTVJHPF/?tag=tolees0a-21)
