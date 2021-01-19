@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8XZV5K-co.uk LEGO 10917 DUPLO My First Fire Truck Toy Fire-Engine...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 3.5 GBP
 currency: GBP
 price: 3.5

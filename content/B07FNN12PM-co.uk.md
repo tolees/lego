@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNN12PM-co.uk LEGO 60237 City Supplementary Curve and Crossroad 2 x...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 7.0 GBP
 currency: GBP
 price: 7.0

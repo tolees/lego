@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRTDW7X-com LEGO NINJAGO ShuriCopter 70673 Kids Toy Helicopter...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

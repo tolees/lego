@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001U3ZMEU-de LEGO City 7639 - Wohnmobil'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 91.89 EUR
 currency: EUR
 price: 91.89

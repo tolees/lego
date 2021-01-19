@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWLLY1W-de Lego Wear Mädchen Lego Tec Boy LWJOSEFINE...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 56.71 EUR
 currency: EUR
 price: 56.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWMG66Q-de LEGO Jungen CM-50316-T-SHIRT L/S Langarmshirt Grün Green...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NKOW7EK-co.uk LEGO Animal Minifigure Husky Arctic Sled Dog with Bone...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 0.59 GBP
 currency: GBP
 price: 0.59

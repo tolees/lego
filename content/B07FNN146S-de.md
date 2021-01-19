@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNN146S-de THE LEGO MOVIE 2 70820 LEGO Movie Maker'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

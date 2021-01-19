@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765BGB4B-de LEGO 10881 Disney Mickys Boot Bunt'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

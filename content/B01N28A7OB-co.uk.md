@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N28A7OB-co.uk LEGO DISK18464L Classic Costume Boys Firefighter Small'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 29.99 GBP
 currency: GBP
 price: 29.99

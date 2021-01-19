@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTTF41-co.uk LEGO 76123 Marvel Avengers Endgame Outriders Attack...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 15.99 GBP
 currency: GBP
 price: 15.99

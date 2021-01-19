@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFM31FC-de maisterkaio-de Figur Enfys Nest -- Star Wars -- aus 75215...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

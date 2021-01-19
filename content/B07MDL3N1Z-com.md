@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDL3N1Z-com LEGO | Disney Pixar’s Toy Story 4 Carnival Thrill Coaster...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

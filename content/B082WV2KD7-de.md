@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WV2KD7-de H0_V 1628Teile 1:10 2.4GHz RC Modell LKW Truck Sportwagen...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

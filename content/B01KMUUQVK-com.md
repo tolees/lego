@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KMUUQVK-com LEGO DUPLO My First Number Train 10847 Learning and...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

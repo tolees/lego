@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6J88-co.uk LEGO 31094 Creator 3in1 Race Plane Helicopter and Jet...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 17.5 GBP
 currency: GBP
 price: 17.5

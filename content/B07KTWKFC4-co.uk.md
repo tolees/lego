@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTWKFC4-co.uk LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS Samurai Ninja...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 12.59 GBP
 currency: GBP
 price: 12.59

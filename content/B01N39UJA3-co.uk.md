@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N39UJA3-co.uk LEGO DISKX18617 Kit Legoman Costume Accessory Yellow...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 11.99 GBP
 currency: GBP
 price: 11.99

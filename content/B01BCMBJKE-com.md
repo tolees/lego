@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCMBJKE-com LEGO Star Wars: The Force Awakens'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 13.98 USD
 currency: USD
 price: 13.98

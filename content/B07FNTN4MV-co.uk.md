@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTN4MV-co.uk LEGO 71023 Movie 2 Minifigures Collectible Toy Variety...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 2.45 GBP
 currency: GBP
 price: 2.45

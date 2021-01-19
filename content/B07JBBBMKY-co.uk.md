@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBBBMKY-co.uk LEGO 75972 Overwatch Dorado Showdown Playset with...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 21.0 GBP
 currency: GBP
 price: 21.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KQ1TQU-com LEGO Storage Brick 4 Yellow'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 18.73 USD
 currency: USD
 price: 18.73

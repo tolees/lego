@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJTGS33-com Lego Star Wars Poly Top Flannel Pants Boys 2 piece...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 14.99 USD
 currency: USD
 price: 14.99

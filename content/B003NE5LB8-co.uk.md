@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5LB8-co.uk LEGO Brick 4 Knobs Stackable Storage Box Yellow 5.7 Litre'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 14.95 GBP
 currency: GBP
 price: 14.95

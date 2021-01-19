@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PY3G6-de LEGO City 60247 Waldbrand Buggy mit Feuerwehrmann'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

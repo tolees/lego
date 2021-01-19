@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TB6L1S-de Dittzz Technic Offroader Bauset 1:8 2.4Ghz RC Auto mit...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

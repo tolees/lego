@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLZS3G3-de Spieland 35St. Custom Waffen Set für Mini Figuren SWAT...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

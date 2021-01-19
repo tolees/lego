@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTTF3B-co.uk LEGO 70668 Ninjago Legacy Jay’s Storm Fighter Building...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 24.5 GBP
 currency: GBP
 price: 24.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8YKYY3-co.uk LEGO 21157 Minecraft BigFig Pig with Baby Zombie...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 9.0 GBP
 currency: GBP
 price: 9.0

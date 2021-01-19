@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5V8OCO-co.uk LEGO DISK18268K Deluxe Costume Skeleton Medium'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 34.99 GBP
 currency: GBP
 price: 34.99

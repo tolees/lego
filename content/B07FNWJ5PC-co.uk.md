@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWJ5PC-co.uk LEGO 70670 NINJAGO Monastery of Spinjitzu Wu Jay Nya...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 55.99 GBP
 currency: GBP
 price: 55.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GQBMMZ-de LEGO Duplo 10870 Tiere auf dem Bauernhof Lernspielzeug'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

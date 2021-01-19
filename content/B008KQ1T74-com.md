@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KQ1T74-com LEGO Storage Brick 4 Blue'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

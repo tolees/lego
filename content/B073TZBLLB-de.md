@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TZBLLB-de Lego Star Wars Kinder FLANELL / BIBER Bettwäsche Wende...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

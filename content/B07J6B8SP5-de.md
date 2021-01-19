@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6B8SP5-de LEGO 10771 - Disney Pixar’s Toy Story 4 Buzz wilde...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

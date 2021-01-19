@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYV355J-com LEGO NINJAGO Legacy Golden Dragon 70666 Building Kit 171...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

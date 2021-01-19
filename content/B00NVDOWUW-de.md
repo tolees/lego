@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVDOWUW-de LEGO Classic 10692 - Bausteine-Set Spielzeug mit...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AC1DRGK-de LEGO Star Wars 75148 - Encounter on Jakku'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

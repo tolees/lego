@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WYY4DT-de H0_V 522Teile 2.4GHz RC Modell Geländewagen Buggy...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

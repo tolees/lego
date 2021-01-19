@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VVH641Z-co.uk LEGO Star Wars The Last Jedi 75176 Resistance Transport...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 28.0 GBP
 currency: GBP
 price: 28.0

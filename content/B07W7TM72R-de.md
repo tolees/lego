@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7TM72R-de LEGO 41401 Friends Stephanies magischer Würfel...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

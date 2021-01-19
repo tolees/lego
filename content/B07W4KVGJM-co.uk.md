@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4KVGJM-co.uk LEGO 10913 DUPLO Classic Brick Box Building Set with...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 16.0 GBP
 currency: GBP
 price: 16.0

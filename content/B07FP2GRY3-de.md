@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2GRY3-de LEGO Marvel Super Heroes 76124 War Machine Buster'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

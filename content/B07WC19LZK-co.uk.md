@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC19LZK-co.uk LEGO 10926 DUPLO Town Bedroom Playable Dolls House Box...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 9.75 GBP
 currency: GBP
 price: 9.75

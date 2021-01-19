@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J41IPQG-com LEGO Batcave Break in 70909'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 160.0 USD
 currency: USD
 price: 160.0

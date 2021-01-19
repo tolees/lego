@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF9RX4V-com LEGO City Construction Bulldozer 60252 Toy Construction...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

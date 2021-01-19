@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CVGV928-com LEGO STAR WARS Jyn Erso 75119 Star Wars Toy'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 8.15 USD
 currency: USD
 price: 8.15

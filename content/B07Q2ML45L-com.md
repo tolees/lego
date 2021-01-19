@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2ML45L-com LEGO Friends Mia s Horse Trailer 41371 Building Kit with...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SVV19R-co.uk LEGO 41153 Disney Princess Ariel s Royal Celebration...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 37.89 GBP
 currency: GBP
 price: 37.89

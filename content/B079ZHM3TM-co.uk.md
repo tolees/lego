@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZHM3TM-co.uk LEGO DISK66168K Brick Costume Kids Iconic Blue Building...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 21.48 GBP
 currency: GBP
 price: 21.48

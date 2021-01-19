@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTTF41-de LEGO 76123 - Marvel Super Heroes Captain America:...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

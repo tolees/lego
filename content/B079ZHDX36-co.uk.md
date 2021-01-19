@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZHDX36-co.uk LEGO DISK66145K Brick Costume Kids Iconic Red Building...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 31.65 GBP
 currency: GBP
 price: 31.65

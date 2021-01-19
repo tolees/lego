@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVFPDDJ-com LEGO Star Wars Minifigure - Jango Fett Holiday Santa...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 16.99 USD
 currency: USD
 price: 16.99

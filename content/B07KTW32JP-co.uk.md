@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTW32JP-co.uk LEGO 75935 Jurassic World Baryonyx Face-Off: The...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 48.49 GBP
 currency: GBP
 price: 48.49
