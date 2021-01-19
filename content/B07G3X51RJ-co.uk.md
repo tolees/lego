@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3X51RJ-co.uk LEGO 76127 Captain Marvel and The Skrull Attack...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 18.75 GBP
 currency: GBP
 price: 18.75

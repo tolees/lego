@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NN9SBJ-de Dittzz Display Ständer Bausteine Halterung Ständer Für...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

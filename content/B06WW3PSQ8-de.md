@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WW3PSQ8-de LEGO Nexo Knights 70373 - Combo NEXO Kräfte'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

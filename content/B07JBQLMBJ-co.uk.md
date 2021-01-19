@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBQLMBJ-co.uk LEGO 10767 4+ Toy Story 4 Duke Caboom’s Stunt Show with...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 8.99 GBP
 currency: GBP
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2GRYJ-de Lego 41383 Friends Olivias Hamster-Spielplatz bunt'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

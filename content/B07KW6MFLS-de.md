@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW6MFLS-de Lego Wear Mädchen Lego Tec Play LWALFRED 706-Fäustlinge...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3VP73-com LEGO Jurassic World Baryonyx Face Off: The Treasure Hunt...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 47.99 USD
 currency: USD
 price: 47.99

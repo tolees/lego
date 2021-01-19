@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF16SR1-co.uk LEGO 41409 Friends Emma s Shopping Play Cube Series 2...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 5.81 GBP
 currency: GBP
 price: 5.81

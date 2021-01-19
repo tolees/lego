@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6QC2QG-fr LEGO Figurines Série DC Super Héros avec 9 Super-Héros ou...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

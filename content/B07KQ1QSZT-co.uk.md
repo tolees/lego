@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ1QSZT-co.uk LEGO MOVIE 2 70839 The Rexcelsior! Rex and Emmet s...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 94.95 GBP
 currency: GBP
 price: 94.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7TN6CR-co.uk LEGO 11006 Classic Creative Blue Bricks Learning...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 3.5 GBP
 currency: GBP
 price: 3.5

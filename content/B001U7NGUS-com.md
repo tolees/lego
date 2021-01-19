@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001U7NGUS-com Early Simple Machines for Kindergarten STEM by LEGO...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 139.11 USD
 currency: USD
 price: 139.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XZ6KNK-de Dittzz Technic Avtoros Shaman 8x8 Off-Roader Modell 2.4Ghz...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 207.99 EUR
 currency: EUR
 price: 207.99

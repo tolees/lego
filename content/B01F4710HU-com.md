@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F4710HU-com LEGO DC Super Heroes Girls Harley Quinn to The Rescue...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 20.89 USD
 currency: USD
 price: 20.89

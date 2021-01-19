@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EL6HM3Q-co.uk LEGO Lights IQLGL-KE95 Star Wars Episode VII Poe...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 8.05 GBP
 currency: GBP
 price: 8.05

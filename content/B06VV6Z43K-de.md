@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VV6Z43K-de LEGO Star Wars 75180 - Rathtar Escape Spielzeug'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

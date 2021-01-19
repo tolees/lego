@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BK2KPR4-co.uk LEGO 10910 DUPLO Town Submarine Adventure Bath Toy Air...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 12.0 GBP
 currency: GBP
 price: 12.0

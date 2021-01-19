@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085T7JRQV-de Dittzz Technic Auto 919 Hybrid Sportwagen Bauset 1586...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3V58M-com LEGO Disney Frozen II Elsa’s Wagon Carriage Adventure...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

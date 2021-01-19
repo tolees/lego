@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4FG9NT-de LEGO 41375 - Friends Vergnügungspark von Heartlake City...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 92.98 EUR
 currency: EUR
 price: 92.98

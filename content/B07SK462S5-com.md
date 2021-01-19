@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK462S5-com Lego Star Wars Skywalker Saga - PlayStation 4 Standard...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 49.94 USD
 currency: USD
 price: 49.94

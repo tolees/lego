@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8PFFSP-de LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AXFK96M-com LEGO Star Wars: The Empire Strikes Out'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 6.48 USD
 currency: USD
 price: 6.48

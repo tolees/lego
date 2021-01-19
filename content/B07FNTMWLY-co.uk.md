@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTMWLY-co.uk LEGO 41355 Friends Emma s Heart Box Set Emma mini-doll...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 5.0 GBP
 currency: GBP
 price: 5.0

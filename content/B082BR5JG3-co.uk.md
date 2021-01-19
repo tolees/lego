@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BR5JG3-co.uk LEGO 21163 Minecraft The Redstone Battle Building Set...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 33.49 GBP
 currency: GBP
 price: 33.49

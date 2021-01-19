@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2GRX7-fr LEGO® DUPLO® Mes 1ers pas Mon premier puzzle amusant Jeu...'
-tags: tole.es, lego®
+tags: [ tole.es, lego® ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

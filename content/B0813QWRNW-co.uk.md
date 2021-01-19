@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813QWRNW-co.uk LEGO 10919 DUPLO DC Batman Batcave with Batmobile &...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 22.5 GBP
 currency: GBP
 price: 22.5

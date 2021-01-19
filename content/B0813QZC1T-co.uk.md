@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813QZC1T-co.uk LEGO 41398 Friends 4+ Stephanie s House Dollhouse Play...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 25.0 GBP
 currency: GBP
 price: 25.0
@@ -27,9 +27,9 @@ With a final price of 25.0 GBP (original: 34.99 GBP) you can find [LEGO 41398 Fr
 ℹ️:
 
 - This building set comes with a Starter Brick baseplate and wall element, making building simple so the family role-play fun can begin quickly
-- Includes LEGO Friends Stephanie, Alicia and James mini-dolls and Dash the Dog figure, plus hockey a stick, bike, helmet and trophy cup
 - The 2-storey house has a bedroom, restroom, kitchen and dining room, plus a garden swing and decorative elements from the Friends TV series
-- Accessories include kitchen equipment, a croissant, milk and cereal boxes, a pan and fried egg, hairbrush and a bowl and bone for the dog
 - The upstairs section is removable, making it easy for little fingers to play with all the downstairs details, or 2 friends to share the fun
+- Accessories include kitchen equipment, a croissant, milk and cereal boxes, a pan and fried egg, hairbrush and a bowl and bone for the dog
+- Includes LEGO Friends Stephanie, Alicia and James mini-dolls and Dash the Dog figure, plus hockey a stick, bike, helmet and trophy cup
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813QZC1T/?tag=tolees0a-21)

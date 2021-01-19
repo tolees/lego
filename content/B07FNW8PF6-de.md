@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNW8PF6-de THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

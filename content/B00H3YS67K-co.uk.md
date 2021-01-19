@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H3YS67K-co.uk The LEGO Movie Videogame Nintendo Wii U'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 6.21 GBP
 currency: GBP
 price: 6.21

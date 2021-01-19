@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CU9WL5A-com LEGO DUPLO Town Truck & Tracked Excavator 10812 Dump...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

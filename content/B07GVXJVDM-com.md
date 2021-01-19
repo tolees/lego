@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVXJVDM-com LEGO City Great Vehicles Garbage Truck 60220 Building Kit...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LWMV1N-com LEGO City Forest Tractor 60181 Building Kit 174 Pieces'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 14.38 USD
 currency: USD
 price: 14.38

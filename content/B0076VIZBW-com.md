@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0076VIZBW-com LEGO Classic Brick Separator 630 Building Kit 1 Piece'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 3.99 USD
 currency: USD
 price: 3.99

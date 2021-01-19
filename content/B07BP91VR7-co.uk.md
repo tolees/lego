@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP91VR7-co.uk LEGO Series 18 CLASSIC POLICE OFFICER Minifigure #08/17...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 16.49 GBP
 currency: GBP
 price: 16.49

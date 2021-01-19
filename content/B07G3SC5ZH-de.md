@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3SC5ZH-de LEGO Harry Potter und der Gefangene von Askaban 75947 -...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 50.74 EUR
 currency: EUR
 price: 50.74

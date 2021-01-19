@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711RJQBP-com LEGO Marvel Superheroes 2 - Nintendo Switch'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 14.99 USD
 currency: USD
 price: 14.99
