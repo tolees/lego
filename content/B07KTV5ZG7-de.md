@@ -26,9 +26,9 @@ With a final price of 64.99 EUR (original: 77.97 EUR) you can find [LEGO 31097 C
 
 ℹ️:
 
-- Enthält 3 Minifiguren, die für Spaß in der Stadt bereit sind.
 - Dieses LEGO Creator 3-in-1-Spielset bietet 3 verschiedene Baumöglichkeiten: Baue das Stadthaus mit Zoohandlung und Café, ein Bankgebäude oder eine Einkaufsstraße mit Straßenbahn
 - Das Stadthaus mit Zoohandlung und Café verfügt über eine Fassade mit Ornamenten, einem Café-Schild sowie einen Außenbereich mit Blumen, Geldautomat, Fußweg, Ampel und Hydrant.
+- Enthält 3 Minifiguren, die für Spaß in der Stadt bereit sind.
 - Im Erdgeschoss des zweistöckigen Gebäudes befindet sich ein Café mit detailreichem Innen- und Außenbereich. Das Obergeschoss weist die dazugehörige Küche mit Ofen und einen Balkon auf.
 - Dank des modularen Systems von LEGO Creator können Module mit ganzen Geschossen einfach ausgetauscht werden, um das Gebäude nach deinem Geschmack zu gestalten.
 

@@ -26,10 +26,10 @@ With a final price of 46.6 EUR (original: 58.48 EUR) you can find [LEGO 75254 St
 
 ℹ️:
 
-- Der 540-teilige AT-ST-Räuber ist 25 cm hoch, 15 cm lang und 13 cm breit
 - Diese LEGO Version des AT-ST-Räubers aus der TV-Hitserie The Mandalorian inspiriert Jungen und Mädchen ab 8 Jahren zu tollem Spielspaß.
-- Dieses Sammlerstück zum Zusammenbauen verfügt über zahlreiche anregende Merkmale und Funktionen, darunter bewegliche Beine, ein drehbarer, aufklappbarer Geschützturm und 2 abfeuerbare Shooter
-- Mit dem einzigartigen AT-ST-Räuber können alle Fans von LEGO Star Wars in galaktische Abenteuer eintauchen
+- Der 540-teilige AT-ST-Räuber ist 25 cm hoch, 15 cm lang und 13 cm breit
 - Mit 4 Charakteren von LEGO Star Wars – dem Mandalorianer, Cara Dune und 2 klatooiniaschen Räubern als Minifiguren – sowie 3 Blaster-Gewehren und einem Blaster steht Action nichts mehr im Wege
+- Mit dem einzigartigen AT-ST-Räuber können alle Fans von LEGO Star Wars in galaktische Abenteuer eintauchen
+- Dieses Sammlerstück zum Zusammenbauen verfügt über zahlreiche anregende Merkmale und Funktionen, darunter bewegliche Beine, ein drehbarer, aufklappbarer Geschützturm und 2 abfeuerbare Shooter
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND9SVPB/?tag=tolees0ca-21)
