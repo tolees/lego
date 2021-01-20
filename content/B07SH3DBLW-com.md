@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'LEGO Star Wars: The Skywalker Saga - Nin at 16.75 % discount'
-date: 2021-01-14 17:57:15
+date: 2021-01-20 13:50:36
 image: 'https://m.media-amazon.com/images/I/51qSzmHz3lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH3DBLW-com'
+slug: 'B07SH3DBLW-com LEGO Star Wars: The Skywalker Saga - Nintendo Switch'
+tags: [ 'lego', ]
 actualPrice: 49.94 USD
 currency: USD
 price: 49.94
@@ -25,7 +26,7 @@ With a final price of 49.94 USD (original: 59.99 USD) you can find [LEGO Star Wa
 
 ℹ️:
 
-- The galaxy is yours with LEGO Star Wars: The Skywalker Saga, Play all nine saga films and experience fun filled adventure in a galaxy far, far away
 - Play through all nine films in a new, fun filled adventure
+- The galaxy is yours with LEGO Star Wars: The Skywalker Saga, Play all nine saga films and experience fun filled adventure in a galaxy far, far away
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07SH3DBLW/?tag=tolees-20)

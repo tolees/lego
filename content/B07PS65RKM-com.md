@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Discount of 20.01 % for LEGO City Space Mars Research Shuttle 60'
-date: 2021-01-18 18:34:40
+date: 2021-01-20 13:40:28
 image: 'https://m.media-amazon.com/images/I/51h35foGGQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS65RKM-com'
+slug: 'B07PS65RKM-com LEGO City Space Mars Research Shuttle 60226 Space Shuttle...'
+tags: [ 'lego', ]
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99
