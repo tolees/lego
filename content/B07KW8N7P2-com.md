@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW8N7P2-com LEGO Ideas International Space Station 21321 864 Pieces...'
+sku: 'B07KW8N7P2-com'
 tags: [ 'lego', ]
 actualPrice: 92.04 USD
 currency: USD

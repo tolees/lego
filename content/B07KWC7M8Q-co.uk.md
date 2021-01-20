@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWC7M8Q-co.uk Lego Wear Boy s Lego Lwsiam Sweatshirt Grey Grey...'
+sku: 'B07KWC7M8Q-co.uk'
 tags: [ 'lego', ]
 actualPrice: 17.94 GBP
 currency: GBP

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMHK2PM-com LEGO THE LEGO MOVIE 2 Queen Watevra’s So Not Evil Space...'
+sku: 'B07JMHK2PM-com'
 tags: [ 'lego', ]
 actualPrice: 79.99 USD
 currency: USD

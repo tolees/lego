@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778NP61L-com LEGO Brick Drawer 8 Knobs 2 Drawers Stackable Storage Box...'
+sku: 'B0778NP61L-com'
 tags: [ 'lego', ]
 actualPrice: 22.49 USD
 currency: USD

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWN712V-de Lego Wear Mädchen LWTIPPI 608-T-SHIRT L/S Langarmshirt...'
+sku: 'B07KWN712V-de'
 tags: [ 'lego', ]
 actualPrice: 12.78 EUR
 currency: EUR

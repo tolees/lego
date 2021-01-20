@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GFLH2U-com LEGO Star Wars Minifigure - General Grievous Clone Wars...'
+sku: 'B004GFLH2U-com'
 tags: [ 'lego', ]
 actualPrice: 19.99 USD
 currency: USD

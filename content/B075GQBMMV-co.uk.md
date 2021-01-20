@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GQBMMV-co.uk LEGO 10864 DUPLO My First Large Playground Brick Box...'
+sku: 'B075GQBMMV-co.uk'
 tags: [ 'lego', ]
 actualPrice: 29.58 GBP
 currency: GBP

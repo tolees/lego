@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RFBKNX-com LEGO Minecraft The Nether Portal 21143 Building Kit 470...'
+sku: 'B075RFBKNX-com'
 tags: [ 'lego', ]
 actualPrice: 31.99 USD
 currency: USD

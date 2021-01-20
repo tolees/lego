@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765BGB1J-de LEGO City Arktis-Eiskran auf Stelzen 60192 Kinderspielzeug'
+sku: 'B0765BGB1J-de'
 tags: [ 'lego', ]
 actualPrice: 16.2 EUR
 currency: EUR

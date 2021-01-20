@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5LA4-co.uk LEGO Storage Brick 8 Knobs Stackable Storage Box 12 l...'
+sku: 'B003NE5LA4-co.uk'
 tags: [ 'lego', ]
 actualPrice: 25.42 GBP
 currency: GBP

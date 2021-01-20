@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ4YMSP-com LEGO NINJAGO Legacy Monastery of Spinjitzu 70670 Battle...'
+sku: 'B07GZ4YMSP-com'
 tags: [ 'lego', ]
 actualPrice: 65.0 USD
 currency: USD

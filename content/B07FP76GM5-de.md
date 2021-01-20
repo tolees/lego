@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP76GM5-de LEGO Creator 31093 - Hausboot'
+sku: 'B07FP76GM5-de'
 tags: [ 'lego', ]
 actualPrice: 24.39 EUR
 currency: EUR

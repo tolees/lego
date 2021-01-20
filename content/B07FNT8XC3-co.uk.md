@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNT8XC3-co.uk LEGO 21152 Minecraft The Pirate Ship Adventure Building...'
+sku: 'B07FNT8XC3-co.uk'
 tags: [ 'lego', ]
 actualPrice: 36.0 GBP
 currency: GBP

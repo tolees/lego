@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8XYZ2W-de LEGO 71714 NINJAGO Avatar Kai – Tragbare Arcade Kapsel...'
+sku: 'B07W8XYZ2W-de'
 tags: [ 'lego', ]
 actualPrice: 6.95 EUR
 currency: EUR

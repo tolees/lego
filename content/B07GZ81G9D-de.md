@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ81G9D-de Lego Harry Potter Collection [Xbox One]'
+sku: 'B07GZ81G9D-de'
 tags: [ 'lego', ]
 actualPrice: 19.96 EUR
 currency: EUR

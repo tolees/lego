@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2KPWS-de LEGO Classic 11003 - Bausteine - Witzige Figuren'
+sku: 'B07FP2KPWS-de'
 tags: [ 'lego', ]
 actualPrice: 20.38 EUR
 currency: EUR

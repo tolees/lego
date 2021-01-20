@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LPLB6G-com LEGO Writing System STAR WARS C-3PO C3PO Pen'
+sku: 'B000LPLB6G-com'
 tags: [ 'lego', ]
 actualPrice: 15.07 USD
 currency: USD

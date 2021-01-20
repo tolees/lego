@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFX5Z36-co.uk LEGO City Super Pack 3-in-1 Pack 66619 The Sky Police...'
+sku: 'B07ZFX5Z36-co.uk'
 tags: [ 'lego', ]
 actualPrice: 29.99 GBP
 currency: GBP

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU59EOO-com LEGO 30523 Batman Movie The Joker Battle Training polybag...'
+sku: 'B01MU59EOO-com'
 tags: [ 'lego', ]
 actualPrice: 8.61 USD
 currency: USD

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBQLJCV-de LEGO 75971 - Overwatch Hanzo vs. Genji Bauset'
+sku: 'B07JBQLJCV-de'
 tags: [ 'lego', ]
 actualPrice: 19.95 EUR
 currency: EUR

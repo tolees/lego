@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWZNF9B-com LEGO Creator 3in1 Futuristic Flyer 31086 Building Kit 157...'
+sku: 'B07GWZNF9B-com'
 tags: [ 'lego', ]
 actualPrice: 11.99 USD
 currency: USD

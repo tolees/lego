@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLL3M8Z-co.uk LEGO Star Wars The Last Jedi 75528 Rey Toy'
+sku: 'B06WLL3M8Z-co.uk'
 tags: [ 'lego', ]
 actualPrice: 9.99 GBP
 currency: GBP

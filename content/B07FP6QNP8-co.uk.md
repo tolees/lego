@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP6QNP8-co.uk LEGO 70666 Children s Toy Colourful'
+sku: 'B07FP6QNP8-co.uk'
 tags: [ 'lego', ]
 actualPrice: 8.99 GBP
 currency: GBP

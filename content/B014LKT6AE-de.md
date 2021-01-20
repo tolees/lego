@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014LKT6AE-de Lego Ninjago Kinder Ninja Rucksack'
+sku: 'B014LKT6AE-de'
 tags: [ 'lego', ]
 actualPrice: 9.95 EUR
 currency: EUR

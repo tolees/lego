@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBPRXWN-de LEGO Marvel Spider-Man 76130 - Far From Home Stark-Jet und...'
+sku: 'B07JBPRXWN-de'
 tags: [ 'lego', ]
 actualPrice: 41.98 EUR
 currency: EUR

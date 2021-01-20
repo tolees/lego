@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWKHLRV-com LEGO City Sky Police Diamond Heist 60209 Building Kit 400...'
+sku: 'B07GWKHLRV-com'
 tags: [ 'lego', ]
 actualPrice: 43.49 USD
 currency: USD

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767SZLGH-com LEGO Star Wars Last Jedi Minifigure - Supreme Leader...'
+sku: 'B0767SZLGH-com'
 tags: [ 'lego', ]
 actualPrice: 4.99 USD
 currency: USD

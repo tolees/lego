@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NPCNZ1-co.uk Dittzz Vertical Display Stand For LEGO 75257 Star Wars...'
+sku: 'B085NPCNZ1-co.uk'
 tags: [ 'lego', ]
 actualPrice: 13.99 GBP
 currency: GBP

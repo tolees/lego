@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQ61H3K-com LEGO Super Heroes Classic TV Series Batman Minifigure -...'
+sku: 'B01MQ61H3K-com'
 tags: [ 'lego', ]
 actualPrice: 6.89 USD
 currency: USD

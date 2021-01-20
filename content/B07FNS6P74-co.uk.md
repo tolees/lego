@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6P74-co.uk LEGO 70826 Movie 2 with Emmet and Rex Minifigures Recon...'
+sku: 'B07FNS6P74-co.uk'
 tags: [ 'lego', ]
 actualPrice: 20.8 GBP
 currency: GBP

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UZOMJ0K-com LEGO Ideas CUUSOO - Female Scientist Minifigure with...'
+sku: 'B00UZOMJ0K-com'
 tags: [ 'lego', ]
 actualPrice: 6.69 USD
 currency: USD

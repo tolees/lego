@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F4710ES-com LEGO DC Super Hero Girls Super Hero High School 41232...'
+sku: 'B01F4710ES-com'
 tags: [ 'lego', ]
 actualPrice: 59.76 USD
 currency: USD

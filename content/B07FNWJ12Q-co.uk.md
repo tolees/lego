@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWJ12Q-co.uk LEGO 70680 NINJAGO Monastery Training Includes Kai and...'
+sku: 'B07FNWJ12Q-co.uk'
 tags: [ 'lego', ]
 actualPrice: 6.29 GBP
 currency: GBP

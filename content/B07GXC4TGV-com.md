@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXC4TGV-com LEGO THE LEGO MOVIE 2 Escape Buggy 70829 Building Kit...'
+sku: 'B07GXC4TGV-com'
 tags: [ 'lego', ]
 actualPrice: 36.99 USD
 currency: USD

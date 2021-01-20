@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC3L19N-co.uk LEGO 75974 Overwatch Bastion Toy with Ganymede Figure'
+sku: 'B07JC3L19N-co.uk'
 tags: [ 'lego', ]
 actualPrice: 41.24 GBP
 currency: GBP

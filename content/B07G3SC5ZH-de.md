@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3SC5ZH-de LEGO Harry Potter und der Gefangene von Askaban 75947 -...'
+sku: 'B07G3SC5ZH-de'
 tags: [ 'lego', ]
 actualPrice: 50.74 EUR
 currency: EUR

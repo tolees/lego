@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WYZT2A-de LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit...'
+sku: 'B003WYZT2A-de'
 tags: [ 'lego', ]
 actualPrice: 17.99 EUR
 currency: EUR

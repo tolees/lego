@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT9CCZG-co.uk The LEGO Batman Movie MiniFigure - Batman w/ Utility...'
+sku: 'B01MT9CCZG-co.uk'
 tags: [ 'lego', ]
 actualPrice: 5.99 GBP
 currency: GBP

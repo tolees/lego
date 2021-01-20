@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WG9X589-com LEGO Minecraft Pig BigFig and Baby Zombie Character 21157...'
+sku: 'B07WG9X589-com'
 tags: [ 'lego', ]
 actualPrice: 11.2 USD
 currency: USD
@@ -26,10 +27,10 @@ There's a deal [LEGO Minecraft Pig BigFig and Baby Zombie Character 21157 Cool B
 
 ℹ️:
 
-- This easy-to-build LEGO set makes a great holiday, birthday or anyday gift for all Minecraft players ages 7 and up and anyone wanting to expand their LEGO Minecraft collection
 - Put Minecraft adventures in kids hands with authentic real-world LEGO models of two iconic characters from the popular video game: a LEGO BigFig Pig and a Baby Zombie that are fun to build, play with, display and collect
-- The extra-large, easy-to-build BigFig Pig and the Baby Zombie add a whole new physical dimension to the Minecraft game, and movable limbs maximize possibilities for independent play and action poses
 - At over 4” (10cm) long and 2” (6cm) high, the LEGO BigFig Pig offers Minecraft fun on a large scale, whether its having adventures with Baby Zombie at over 2” (7cm) tall or with other BigFigs from the world of LEGO Minecraft
 - This awesome LEGO Minecraft BigFig Pig and Baby Zombie are fun to build, bring the video games action-packed creativity to life, and are great additions to any LEGO Minecraft fans collection
+- This easy-to-build LEGO set makes a great holiday, birthday or anyday gift for all Minecraft players ages 7 and up and anyone wanting to expand their LEGO Minecraft collection
+- The extra-large, easy-to-build BigFig Pig and the Baby Zombie add a whole new physical dimension to the Minecraft game, and movable limbs maximize possibilities for independent play and action poses
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07WG9X589/?tag=tolees-20)

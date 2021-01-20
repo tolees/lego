@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DRZD1D-co.uk DUS Light Set for LEGO 42079 Heavy Duty Forklift...'
+sku: 'B083DRZD1D-co.uk'
 tags: [ 'lego', ]
 actualPrice: 18.99 GBP
 currency: GBP

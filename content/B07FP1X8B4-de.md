@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP1X8B4-de LEGO Disney 41161 - Aladdins und Jasmins Palastabenteuer'
+sku: 'B07FP1X8B4-de'
 tags: [ 'lego', ]
 actualPrice: 20.99 EUR
 currency: EUR

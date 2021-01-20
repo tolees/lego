@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0787XKC35-com LEGO Star Wars Solo: A Star Wars Story Han Solo 75535...'
+sku: 'B0787XKC35-com'
 tags: [ 'lego', ]
 actualPrice: 18.27 USD
 currency: USD

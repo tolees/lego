@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6J8X-co.uk LEGO 60217 City Fire Fire Plane Toy Aeroplane Set with...'
+sku: 'B07FNS6J8X-co.uk'
 tags: [ 'lego', ]
 actualPrice: 22.99 GBP
 currency: GBP

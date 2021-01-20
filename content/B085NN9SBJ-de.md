@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NN9SBJ-de Dittzz Display Ständer Bausteine Halterung Ständer Für...'
+sku: 'B085NN9SBJ-de'
 tags: [ 'lego', ]
 actualPrice: 17.99 EUR
 currency: EUR

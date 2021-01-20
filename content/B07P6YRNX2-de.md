@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6YRNX2-de Custom Brick Design Sith Lord Darth Nihilus Figur - -...'
+sku: 'B07P6YRNX2-de'
 tags: [ 'lego', ]
 actualPrice: 9.9 EUR
 currency: EUR

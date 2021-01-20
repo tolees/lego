@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FK49JPM-de Lego 90029 LED Lampe Star Wars Darth Vader 20 cm'
+sku: 'B01FK49JPM-de'
 tags: [ 'lego', ]
 actualPrice: 13.99 EUR
 currency: EUR

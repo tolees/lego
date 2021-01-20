@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXPKPN4-com The LEGO Movie 2 Videogame - Xbox One'
+sku: 'B07KXPKPN4-com'
 tags: [ 'lego', ]
 actualPrice: 9.99 USD
 currency: USD

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FWQ8DEC-co.uk Room Copenhagen LEGO Brick 4 Knobs Stackable Storage...'
+sku: 'B00FWQ8DEC-co.uk'
 tags: [ 'lego', ]
 actualPrice: 11.48 GBP
 currency: GBP

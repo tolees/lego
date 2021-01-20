@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTWLXB1-de LEGO 31096 - Creator 3-in-1-Set Doppelrotor-Hubschrauber'
+sku: 'B07KTWLXB1-de'
 tags: [ 'lego', ]
 actualPrice: 36.99 EUR
 currency: EUR

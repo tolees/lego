@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDVMFL4-com LEGO THE LEGO MOVIE 2 The Rexcelsior; 70839 Building Kit...'
+sku: 'B07NDVMFL4-com'
 tags: [ 'lego', ]
 actualPrice: 112.99 USD
 currency: USD

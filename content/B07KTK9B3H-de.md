@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTK9B3H-de LEGO DC Batman 76137 - Batman vs. der Raub des Riddler Bauset'
+sku: 'B07KTK9B3H-de'
 tags: [ 'lego', ]
 actualPrice: 6.99 EUR
 currency: EUR

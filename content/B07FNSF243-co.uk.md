@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSF243-co.uk LEGO 76115 Marvel Super Heroes Spider Mech vs. Venom...'
+sku: 'B07FNSF243-co.uk'
 tags: [ 'lego', ]
 actualPrice: 32.46 GBP
 currency: GBP

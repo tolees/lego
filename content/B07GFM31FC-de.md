@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFM31FC-de maisterkaio-de Figur Enfys Nest -- Star Wars -- aus 75215...'
+sku: 'B07GFM31FC-de'
 tags: [ 'lego', ]
 actualPrice: 6.99 EUR
 currency: EUR

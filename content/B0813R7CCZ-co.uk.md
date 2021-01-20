@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813R7CCZ-co.uk LEGO 41915 DOTS Jewellery Box Tiles Beads Set DIY Arts...'
+sku: 'B0813R7CCZ-co.uk'
 tags: [ 'lego', ]
 actualPrice: 13.5 GBP
 currency: GBP

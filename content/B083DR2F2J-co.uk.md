@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DR2F2J-co.uk DUS Light Set for LEGO Architecture San Francisco 21043...'
+sku: 'B083DR2F2J-co.uk'
 tags: [ 'lego', ]
 actualPrice: 20.99 GBP
 currency: GBP

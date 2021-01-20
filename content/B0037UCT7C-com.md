@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0037UCT7C-com LEGO Star Wars III The Clone Wars - Playstation 3'
+sku: 'B0037UCT7C-com'
 tags: [ 'lego', ]
 actualPrice: 9.89 USD
 currency: USD

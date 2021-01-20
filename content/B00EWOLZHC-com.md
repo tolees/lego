@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EWOLZHC-com LEGO City Coast Guard Seaplane Bagged 30225'
+sku: 'B00EWOLZHC-com'
 tags: [ 'lego', ]
 actualPrice: 10.99 USD
 currency: USD

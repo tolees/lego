@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSDZCZ-co.uk LEGO 10895 DUPLO Emmet and Lucy’s Visitors from the...'
+sku: 'B07FNSDZCZ-co.uk'
 tags: [ 'lego', ]
 actualPrice: 16.22 GBP
 currency: GBP

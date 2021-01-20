@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AAI4D0A-co.uk LEGO Friends 41020 Hedgehog s Hideaway'
+sku: 'B00AAI4D0A-co.uk'
 tags: [ 'lego', ]
 actualPrice: 3.03 GBP
 currency: GBP

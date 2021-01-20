@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J69DDBK-de LEGO Marvel Spider-Man 76128 - Far From Home Duell mit...'
+sku: 'B07J69DDBK-de'
 tags: [ 'lego', ]
 actualPrice: 21.99 EUR
 currency: EUR

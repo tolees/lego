@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTK9B4B-co.uk LEGO 41362 Friends Heartlake City Supermarket Grocery...'
+sku: 'B07KTK9B4B-co.uk'
 tags: [ 'lego', ]
 actualPrice: 17.99 GBP
 currency: GBP

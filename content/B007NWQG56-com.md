@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NWQG56-com IQ Lego Star Wars Darth Vader LED Head Lamp'
+sku: 'B007NWQG56-com'
 tags: [ 'lego', ]
 actualPrice: 12.89 USD
 currency: USD

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TDP7FV-de Dittzz Technic Auto Ford Mustang 1:10 2.4Ghz RC Auto...'
+sku: 'B085TDP7FV-de'
 tags: [ 'lego', ]
 actualPrice: 138.99 EUR
 currency: EUR

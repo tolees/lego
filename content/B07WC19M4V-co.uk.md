@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC19M4V-co.uk LEGO 71715 NINJAGO Jay Avatar - Arcade Pod Portable...'
+sku: 'B07WC19M4V-co.uk'
 tags: [ 'lego', ]
 actualPrice: 3.75 GBP
 currency: GBP

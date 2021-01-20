@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRT2CYD-com LEGO City Advent Calendar 60235 Building Kit 234 Pieces'
+sku: 'B07NRT2CYD-com'
 tags: [ 'lego', ]
 actualPrice: 23.0 USD
 currency: USD

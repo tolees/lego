@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LX4WVN-com LEGO DUPLO Town Airport 10871 Building Blocks 29 Pieces'
+sku: 'B075LX4WVN-com'
 tags: [ 'lego', ]
 actualPrice: 19.99 USD
 currency: USD

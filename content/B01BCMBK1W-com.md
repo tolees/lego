@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCMBK1W-com LEGO Star Wars: Force Awakens Deluxe Edition - PlayStation 4'
+sku: 'B01BCMBK1W-com'
 tags: [ 'lego', ]
 actualPrice: 17.17 USD
 currency: USD

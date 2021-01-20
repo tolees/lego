@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5V8TD0-co.uk LEGO DISK18271K Deluxe Costume Mummy Medium'
+sku: 'B01N5V8TD0-co.uk'
 tags: [ 'lego', ]
 actualPrice: 24.99 GBP
 currency: GBP

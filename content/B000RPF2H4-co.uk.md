@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RPF2H4-co.uk LEGO Star Wars: Super Battle Droid with Normal Arm...'
+sku: 'B000RPF2H4-co.uk'
 tags: [ 'lego', ]
 actualPrice: 1.19 GBP
 currency: GBP

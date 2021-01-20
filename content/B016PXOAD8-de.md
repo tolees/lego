@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016PXOAD8-de Lego 90032 Minitaschenlampe Star Wars R2-D2 7 6 cm'
+sku: 'B016PXOAD8-de'
 tags: [ 'lego', ]
 actualPrice: 7.95 EUR
 currency: EUR

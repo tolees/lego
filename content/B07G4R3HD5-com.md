@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4R3HD5-com LEGO Classic 10717 Bricks Bricks Bricks 1500 Piece Set -...'
+sku: 'B07G4R3HD5-com'
 tags: [ 'lego', ]
 actualPrice: 67.72 USD
 currency: USD

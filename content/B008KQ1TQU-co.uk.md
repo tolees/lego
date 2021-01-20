@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KQ1TQU-co.uk Lego Storage Brick 4 Medium Yellow'
+sku: 'B008KQ1TQU-co.uk'
 tags: [ 'lego', ]
 actualPrice: 16.86 GBP
 currency: GBP

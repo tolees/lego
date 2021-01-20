@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTK94T6-co.uk LEGO 41374 Friends Andrea’s Pool Party Set with Andrea...'
+sku: 'B07KTK94T6-co.uk'
 tags: [ 'lego', ]
 actualPrice: 32.0 GBP
 currency: GBP

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3V58M-com LEGO Disney Frozen II Elsa’s Wagon Carriage Adventure...'
+sku: 'B07PX3V58M-com'
 tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD

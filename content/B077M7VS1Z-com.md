@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077M7VS1Z-com LEGO Friends/City Minifigure - Baby Ola in Blanket New...'
+sku: 'B077M7VS1Z-com'
 tags: [ 'lego', ]
 actualPrice: 6.95 USD
 currency: USD

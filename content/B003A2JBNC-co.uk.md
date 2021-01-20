@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003A2JBNC-co.uk LEGO Games 3849: Orient Bazaar'
+sku: 'B003A2JBNC-co.uk'
 tags: [ 'lego', ]
 actualPrice: 8.99 GBP
 currency: GBP

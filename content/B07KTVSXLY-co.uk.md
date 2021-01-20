@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTVSXLY-co.uk LEGO 70681 NINJAGO Spinjitzu Slam - Jay Tornado Spinner...'
+sku: 'B07KTVSXLY-co.uk'
 tags: [ 'lego', ]
 actualPrice: 6.0 GBP
 currency: GBP

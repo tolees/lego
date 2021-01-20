@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXLG1C7-com LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit...'
+sku: 'B07GXLG1C7-com'
 tags: [ 'lego', ]
 actualPrice: 73.99 USD
 currency: USD

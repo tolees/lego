@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF9TGFH-com LEGO Minifigures DC Super Heroes Series 71026 Collectible...'
+sku: 'B07WF9TGFH-com'
 tags: [ 'lego', ]
 actualPrice: 3.99 USD
 currency: USD

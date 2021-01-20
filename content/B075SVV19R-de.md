@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SVV19R-de LEGO Disney 41153 - Princess Arielles königliches...'
+sku: 'B075SVV19R-de'
 tags: [ 'lego', ]
 actualPrice: 34.99 EUR
 currency: EUR

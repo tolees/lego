@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PY3G6-de LEGO City 60247 Waldbrand Buggy mit Feuerwehrmann'
+sku: 'B07W5PY3G6-de'
 tags: [ 'lego', ]
 actualPrice: 7.19 EUR
 currency: EUR

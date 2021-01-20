@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7TVNSV-com LEGO Marvel Spider-Man: Spider-Man Bike Rescue 76113...'
+sku: 'B07D7TVNSV-com'
 tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD

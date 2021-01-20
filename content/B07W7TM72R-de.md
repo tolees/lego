@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7TM72R-de LEGO 41401 Friends Stephanies magischer Würfel...'
+sku: 'B07W7TM72R-de'
 tags: [ 'lego', ]
 actualPrice: 7.99 EUR
 currency: EUR

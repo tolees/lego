@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711RJQBP-com LEGO Marvel Superheroes 2 - Nintendo Switch'
+sku: 'B0711RJQBP-com'
 tags: [ 'lego', ]
 actualPrice: 14.99 USD
 currency: USD

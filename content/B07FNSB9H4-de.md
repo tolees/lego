@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSB9H4-de LEGO Star Wars 75236 - Duell um die Starkiller-Basis Bauset'
+sku: 'B07FNSB9H4-de'
 tags: [ 'lego', ]
 actualPrice: 14.61 EUR
 currency: EUR

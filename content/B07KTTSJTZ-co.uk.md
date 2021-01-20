@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTTSJTZ-co.uk LEGO 41386 Friends Stephanie’s Summer Heart Box Toy...'
+sku: 'B07KTTSJTZ-co.uk'
 tags: [ 'lego', ]
 actualPrice: 5.59 GBP
 currency: GBP

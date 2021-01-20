@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZR6WHM-de Spieland Custom Battle Szene Set für Lego Mini Figuren...'
+sku: 'B07MZR6WHM-de'
 tags: [ 'lego', ]
 actualPrice: 13.99 EUR
 currency: EUR

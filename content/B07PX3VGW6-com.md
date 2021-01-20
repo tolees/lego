@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3VGW6-com LEGO Classic Windows of Creativity 11004 Building Kit 450...'
+sku: 'B07PX3VGW6-com'
 tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD

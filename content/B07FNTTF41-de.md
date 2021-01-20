@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTTF41-de LEGO 76123 - Marvel Super Heroes Captain America:...'
+sku: 'B07FNTTF41-de'
 tags: [ 'lego', ]
 actualPrice: 18.0 EUR
 currency: EUR

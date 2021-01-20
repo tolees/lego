@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CCT387S-co.uk LEGO 75119 Star Wars Jyn Erso'
+sku: 'B01CCT387S-co.uk'
 tags: [ 'lego', ]
 actualPrice: 15.06 GBP
 currency: GBP

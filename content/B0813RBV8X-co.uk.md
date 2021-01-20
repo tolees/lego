@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813RBV8X-co.uk LEGO 70437 Hidden Side Mystery Castle Toy AR Games App...'
+sku: 'B0813RBV8X-co.uk'
 tags: [ 'lego', ]
 actualPrice: 72.0 GBP
 currency: GBP

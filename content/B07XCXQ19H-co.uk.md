@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCXQ19H-co.uk LEGO 41405 Friends Andrea s Shopping Play Cube Series 2...'
+sku: 'B07XCXQ19H-co.uk'
 tags: [ 'lego', ]
 actualPrice: 5.81 GBP
 currency: GBP

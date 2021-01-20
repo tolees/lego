@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VRKC9N-de LEGO Marvel Superheroes 2 [PlayStation 4]'
+sku: 'B071VRKC9N-de'
 tags: [ 'lego', ]
 actualPrice: 16.99 EUR
 currency: EUR

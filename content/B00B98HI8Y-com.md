@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B98HI8Y-com LEGO: Marvel Super Heroes - Nintendo 3DS'
+sku: 'B00B98HI8Y-com'
 tags: [ 'lego:', ]
 actualPrice: 9.99 USD
 currency: USD

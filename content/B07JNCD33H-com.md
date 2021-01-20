@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNCD33H-com LEGO Star Wars: The Empire Strikes Back Action Battle...'
+sku: 'B07JNCD33H-com'
 tags: [ 'lego', ]
 actualPrice: 20.2 USD
 currency: USD

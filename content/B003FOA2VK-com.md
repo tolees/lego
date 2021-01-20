@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003FOA2VK-com LEGO Functions Power Functions IR Speed Remote Control...'
+sku: 'B003FOA2VK-com'
 tags: [ 'lego', ]
 actualPrice: 4.99 USD
 currency: USD

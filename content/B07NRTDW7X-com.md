@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRTDW7X-com LEGO NINJAGO ShuriCopter 70673 Kids Toy Helicopter...'
+sku: 'B07NRTDW7X-com'
 tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD

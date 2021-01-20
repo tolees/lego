@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVDOH2U-de LEGO Classic 10700 - Bauplatte'
+sku: 'B00NVDOH2U-de'
 tags: [ 'lego', ]
 actualPrice: 5.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3D9XQB-de LEGO Harry Potter und der Feuerkelch – Das Trimagische...'
+sku: 'B07G3D9XQB-de'
 tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR

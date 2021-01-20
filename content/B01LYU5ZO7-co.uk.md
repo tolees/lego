@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYU5ZO7-co.uk LEGO Lights IQLGL-KE99 DC Comics Super Heroes Harley...'
+sku: 'B01LYU5ZO7-co.uk'
 tags: [ 'lego', ]
 actualPrice: 6.99 GBP
 currency: GBP

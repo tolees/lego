@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RDZLZ5-com LEGO Minecraft The Zombie Cave 21141 Building Kit with...'
+sku: 'B075RDZLZ5-com'
 tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD

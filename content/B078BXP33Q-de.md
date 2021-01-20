@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BXP33Q-de 3X DC-15 Blaster Gewehr Custom Waffen für Lego Star Wars...'
+sku: 'B078BXP33Q-de'
 tags: [ 'lego', ]
 actualPrice: 2.7 EUR
 currency: EUR

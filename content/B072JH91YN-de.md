@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JH91YN-de LEGO Dimensions - Fun Pack - Teen Titans Go!'
+sku: 'B072JH91YN-de'
 tags: [ 'lego', ]
 actualPrice: 6.99 EUR
 currency: EUR

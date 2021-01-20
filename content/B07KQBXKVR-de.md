@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQBXKVR-de The Lego Movie 2 70837 Schimmerndes Glitzer-Spa Bauset'
+sku: 'B07KQBXKVR-de'
 tags: [ 'lego', ]
 actualPrice: 43.67 EUR
 currency: EUR

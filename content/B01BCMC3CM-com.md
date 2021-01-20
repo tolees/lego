@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCMC3CM-com LEGO Star Wars: The Force Awakens - Xbox 360 Standard...'
+sku: 'B01BCMC3CM-com'
 tags: [ 'lego', ]
 actualPrice: 13.12 USD
 currency: USD

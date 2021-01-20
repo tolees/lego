@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY8D7D5-co.uk LEGO 75965 Harry Potter and The Goblet of Fire The Rise...'
+sku: 'B07NY8D7D5-co.uk'
 tags: [ 'lego', ]
 actualPrice: 13.49 GBP
 currency: GBP

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTVR1H5-de LEGO City 60232 - Große Werkstatt'
+sku: 'B07KTVR1H5-de'
 tags: [ 'lego', ]
 actualPrice: 32.16 EUR
 currency: EUR

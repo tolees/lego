@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5L86-com LEGO Storage Head Large Boy 9-1/2 x 9-1/2 x 10-3/4 Inches...'
+sku: 'B003NE5L86-com'
 tags: [ 'lego', ]
 actualPrice: 24.99 USD
 currency: USD

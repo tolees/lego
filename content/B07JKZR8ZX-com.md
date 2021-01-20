@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKZR8ZX-com LEGO Star Wars The Last Jedi Minifigure - Finn with...'
+sku: 'B07JKZR8ZX-com'
 tags: [ 'lego', ]
 actualPrice: 6.49 USD
 currency: USD

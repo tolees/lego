@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTDVVKD-com LEGO Hidden Side Paranormal Intercept Bus 3000 70423...'
+sku: 'B07QTDVVKD-com'
 tags: [ 'lego', ]
 actualPrice: 44.0 USD
 currency: USD

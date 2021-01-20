@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2N27TV-com LEGO DC Batman Batmobile: Pursuit of The Joker 76119...'
+sku: 'B07Q2N27TV-com'
 tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD

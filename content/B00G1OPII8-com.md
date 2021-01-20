@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G1OPII8-com LEGO Technic Pegs Joints Peg-Joints Pack'
+sku: 'B00G1OPII8-com'
 tags: [ 'lego', ]
 actualPrice: 29.95 USD
 currency: USD

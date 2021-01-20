@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PTR7N-de LEGO 43170 - Vaianas Boot Disney Princess Bauset'
+sku: 'B07W5PTR7N-de'
 tags: [ 'lego', ]
 actualPrice: 6.99 EUR
 currency: EUR

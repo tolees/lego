@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BR5JG3-co.uk LEGO 21163 Minecraft The Redstone Battle Building Set...'
+sku: 'B082BR5JG3-co.uk'
 tags: [ 'lego', ]
 actualPrice: 33.49 GBP
 currency: GBP

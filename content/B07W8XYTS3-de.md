@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8XYTS3-de LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit...'
+sku: 'B07W8XYTS3-de'
 tags: [ 'lego', ]
 actualPrice: 35.99 EUR
 currency: EUR

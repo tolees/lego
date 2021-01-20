@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AXFK96M-com LEGO Star Wars: The Empire Strikes Out'
+sku: 'B00AXFK96M-com'
 tags: [ 'lego', ]
 actualPrice: 6.48 USD
 currency: USD

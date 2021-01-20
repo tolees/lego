@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC3L19N-de LEGO 75974 - Overwatch Bastion Bauset'
+sku: 'B07JC3L19N-de'
 tags: [ 'lego', ]
 actualPrice: 45.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4Q2JUD-co.uk Lego 30522 The Batman Movie Exclusive Polybag Batman in...'
+sku: 'B01N4Q2JUD-co.uk'
 tags: [ 'lego', ]
 actualPrice: 4.89 GBP
 currency: GBP

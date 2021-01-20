@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001LF3SPM-com LEGO Racers Desert Viper'
+sku: 'B001LF3SPM-com'
 tags: [ 'lego', ]
 actualPrice: 7.01 USD
 currency: USD

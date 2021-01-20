@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTW32JP-de LEGO 75935 - Jurassic World Baryonyx Kräftemessen: die...'
+sku: 'B07KTW32JP-de'
 tags: [ 'lego', ]
 actualPrice: 47.44 EUR
 currency: EUR

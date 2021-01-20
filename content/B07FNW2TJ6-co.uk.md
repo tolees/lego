@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNW2TJ6-co.uk LEGO 41360 Friends Emma s Mobile Vet Clinic Playset Vet...'
+sku: 'B07FNW2TJ6-co.uk'
 tags: [ 'lego', ]
 actualPrice: 6.4 GBP
 currency: GBP

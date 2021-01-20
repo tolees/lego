@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XYDNMZ-de Dittzz Technic Auto Bausteine AMG-G65 2.4Ghz RC Sportwagen...'
+sku: 'B085XYDNMZ-de'
 tags: [ 'lego', ]
 actualPrice: 115.99 EUR
 currency: EUR

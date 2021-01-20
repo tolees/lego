@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNCD33K-com LEGO Star Wars Resistance Black Ace TIE Interceptor 75242...'
+sku: 'B07JNCD33K-com'
 tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD

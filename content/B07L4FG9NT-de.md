@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4FG9NT-de LEGO 41375 - Friends Vergnügungspark von Heartlake City...'
+sku: 'B07L4FG9NT-de'
 tags: [ 'lego', ]
 actualPrice: 92.98 EUR
 currency: EUR

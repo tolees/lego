@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y662RDR-de Spieland Custom Waffen Set für Mini Figuren Soldaten SWAT...'
+sku: 'B07Y662RDR-de'
 tags: [ 'lego', ]
 actualPrice: 9.99 EUR
 currency: EUR

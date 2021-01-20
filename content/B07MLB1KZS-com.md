@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLB1KZS-com LEGO Movie 2 The: The Second Part 4K Ultra HD + Blu-ray +...'
+sku: 'B07MLB1KZS-com'
 tags: [ 'lego', ]
 actualPrice: 16.46 USD
 currency: USD

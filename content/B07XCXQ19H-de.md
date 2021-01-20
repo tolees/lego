@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCXQ19H-de LEGO 41405 Andreas magischer Würfel - Tiergeschäft Friends...'
+sku: 'B07XCXQ19H-de'
 tags: [ 'lego', ]
 actualPrice: 7.27 EUR
 currency: EUR

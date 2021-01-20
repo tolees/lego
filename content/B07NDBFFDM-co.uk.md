@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBFFDM-co.uk LEGO 41166 Disney Frozen II Elsa s Wagon Adventurewith...'
+sku: 'B07NDBFFDM-co.uk'
 tags: [ 'lego', ]
 actualPrice: 15.81 GBP
 currency: GBP

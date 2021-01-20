@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7V6TKY-de LEGO 21156 Minecraft BigFig Creeper und Ozelot Bauset'
+sku: 'B07W7V6TKY-de'
 tags: [ 'lego', ]
 actualPrice: 10.87 EUR
 currency: EUR

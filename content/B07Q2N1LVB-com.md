@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2N1LVB-com LEGO DC Batman: Batman vs The Riddler Robbery 76137...'
+sku: 'B07Q2N1LVB-com'
 tags: [ 'lego', ]
 actualPrice: 7.99 USD
 currency: USD

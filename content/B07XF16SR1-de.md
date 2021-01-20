@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF16SR1-de LEGO 41409 Friends Emmas magischer Würfel –...'
+sku: 'B07XF16SR1-de'
 tags: [ 'lego', ]
 actualPrice: 6.99 EUR
 currency: EUR

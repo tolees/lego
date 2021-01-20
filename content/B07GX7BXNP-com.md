@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX7BXNP-com LEGO THE LEGO MOVIE 2 Battle Ready Batman and MetalBeard...'
+sku: 'B07GX7BXNP-com'
 tags: [ 'lego', ]
 actualPrice: 13.59 USD
 currency: USD

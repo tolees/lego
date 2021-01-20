@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCMBJKE-com LEGO Star Wars: The Force Awakens'
+sku: 'B01BCMBJKE-com'
 tags: [ 'lego', ]
 actualPrice: 13.98 USD
 currency: USD

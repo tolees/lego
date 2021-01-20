@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ8NZ2M-de HUISHENG Build on Brick Tasse Becher zur Junge oder Männer...'
+sku: 'B07CQ8NZ2M-de'
 tags: [ 'lego', ]
 actualPrice: 12.95 EUR
 currency: EUR

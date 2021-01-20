@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765BD1WZ-de LEGO Duplo 10873 Disney Minnies Geburtstagsparty Spielzeug'
+sku: 'B0765BD1WZ-de'
 tags: [ 'lego', ]
 actualPrice: 14.26 EUR
 currency: EUR
