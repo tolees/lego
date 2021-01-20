@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'LEGO 75256 Star Wars Kylo Rens Shuttle   at 17.94 % discount'
-date: 2021-01-19 01:43:14
+date: 2021-01-20 02:31:54
 image: 'https://m.media-amazon.com/images/I/51ip5dCIXEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9TJF6-de'
+slug: 'B07ND9TJF6-de LEGO 75256 Star Wars Kylo Rens Shuttle Raumschiff-Bauset...'
+tags: [ 'lego', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99
@@ -16,7 +17,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21'
 descuento: '17.94'
-average: '93.69663265306122'
+average: '93.71212837837838'
 ---
 
 With a final price of 95.99 EUR (original: 116.97 EUR) you can find [LEGO 75256 Star Wars Kylo Rens Shuttle  Raumschiff-Bauset mit 2 Spring Shootern  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21) with a  17.94 % discount here:
@@ -25,10 +26,10 @@ With a final price of 95.99 EUR (original: 116.97 EUR) you can find [LEGO 75256 
 
 ℹ️:
 
+- Spiele actiongeladene Szenen aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nach – mit Kylo Rens Shuttle und weiteren tollen Bauspielzeugen von LEGO Star Wars
 - Mit diesem Spielzeug von LEGO Star Wars können Jungen und Mädchen ab 10 Jahren Abenteuer erleben
-- Kylo Rens Shuttle aus dem fantastischen Star-Wars-Universum der Konstruktionsspielzeuge regt Kinder dazu an, tolle LEGO Abenteuer zu erleben
 - Unter anderem weist es klappbare Flügel, ein Cockpit mit Platz für 3 Minifiguren sowie 2 Shooter auf. Mit ausgeklappten Flügeln ist dieses 1.005-teilige Set 35 cm hoch, 21 cm lang, 50 cm breit
 - Dieses beeindruckende Bauspielzeug enthält 6 LEGO Minifiguren: Kylo Ren mit seinem Lichtschwert, General Pryde, einen Sith-Truppler, einen Sturmtruppler der Ersten Ordnung und 2 Ritter von Ren
-- Spiele actiongeladene Szenen aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nach – mit Kylo Rens Shuttle und weiteren tollen Bauspielzeugen von LEGO Star Wars
+- Kylo Rens Shuttle aus dem fantastischen Star-Wars-Universum der Konstruktionsspielzeuge regt Kinder dazu an, tolle LEGO Abenteuer zu erleben
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21)
