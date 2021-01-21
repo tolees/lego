@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO Technic Chevrolet Corvette ZR1 4209'
-date: 2021-01-20 01:47:58
+date: 2021-01-21 02:30:15
 image: 'https://m.media-amazon.com/images/I/51pmhULl3pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07GYTVQN5-com LEGO Technic Chevrolet Corvette ZR1 42093 Building Kit...'
+sku: 'B07GYTVQN5-com'
 tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD

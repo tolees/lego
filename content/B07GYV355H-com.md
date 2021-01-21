@@ -1,12 +1,13 @@
 ---
 layout: post
 title: '19.97 % deal for LEGO Speed Champions 2018 Dodge Challeng'
-date: 2021-01-20 01:50:55
+date: 2021-01-21 02:31:43
 image: 'https://m.media-amazon.com/images/I/51X5bJYgaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07GYV355H-com LEGO Speed Champions 2018 Dodge Challenger SRT Demon and...'
+sku: 'B07GYV355H-com'
 tags: [ 'lego', ]
 actualPrice: 24.0 USD
 currency: USD
