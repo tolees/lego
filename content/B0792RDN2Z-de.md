@@ -27,10 +27,10 @@ There's a deal [LEGO 42082 Technic Geländegängiger Kranwagen oder mobiler Frei
 
 ℹ️:
 
-- Wähle den oberen oder unteren Kranmodus zur Steuerung der motorisierten Funktionen, die sich ganz leicht bedienen lassen. Lass die Stützfüße hinunter, schwenke den Aufbau um 360 Grad, betätige die Hubwinde oder fahr den Ausleger bis zu einem Meter aus!
-- Der bisher größte und höchste LEGO Technic Kran (Stand: August 2018) besteht aus mehr als 4.050 Teilen
-- LEGO Technic 2-in-1-Modell: Lässt sich in einen Mobilen Freifallhammer umbauen
 - Manuelle Funktionen: Allradlenkung, Allradantrieb, detailreicher V8-Motor mit beweglichen Kolben und drehendem Lüfter, verstellbare Außenspiegel und eine aufklappbare Kabinentür
+- Wähle den oberen oder unteren Kranmodus zur Steuerung der motorisierten Funktionen, die sich ganz leicht bedienen lassen. Lass die Stützfüße hinunter, schwenke den Aufbau um 360 Grad, betätige die Hubwinde oder fahr den Ausleger bis zu einem Meter aus!
+- LEGO Technic 2-in-1-Modell: Lässt sich in einen Mobilen Freifallhammer umbauen
 - Mit LEGO Power Functions: Der große Motor dient zur Steuerung der oberen und unteren Funktionen des Krans
+- Der bisher größte und höchste LEGO Technic Kran (Stand: August 2018) besteht aus mehr als 4.050 Teilen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B0792RDN2Z/?tag=tolees0ca-21)
