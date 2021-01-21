@@ -27,10 +27,10 @@ With a final price of 42.99 GBP (original: 64.99 GBP) you can find [LEGO 75272�
 
 ℹ️:
 
+- This set combines brilliantly with Poe Damerons X-wing Fighter (75273) for epic First Order vs. Resistance battles
+- Fighter features an opening minifigure cockpit and two spring-loaded missiles; there’s also a docking tower for launch, landing and to display
+- Includes three minifigures: The First Order TIE Pilot, Knight of Ren and Finn minifigures with cool weapons: Guns and a sword
 - Kids can leap into the cockpit of the starfighter and fly into battle, then hit top speed and fire the spring-loaded shooters!
 - When the First Order missions with this super-fast Sith TIE Fighter have ended, kids can display it on the tower to decorate their room
-- Fighter features an opening minifigure cockpit and two spring-loaded missiles; there’s also a docking tower for launch, landing and to display
-- This set combines brilliantly with Poe Damerons X-wing Fighter (75273) for epic First Order vs. Resistance battles
-- Includes three minifigures: The First Order TIE Pilot, Knight of Ren and Finn minifigures with cool weapons: Guns and a sword
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07WC12QZW/?tag=tolees0a-21)
