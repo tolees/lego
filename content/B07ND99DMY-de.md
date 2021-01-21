@@ -27,10 +27,10 @@ With a final price of 48.08 EUR (original: 59.99 EUR) you can find [LEGO 70423 H
 
 ℹ️:
 
+- Der energiegeladene Spielzeug-Schulbus verfügt über eine Kommandostation, ausklappbare Kanonen zum Entfluchen, Scanner auf dem Dach und Platz für 4 Minifiguren für Geisterjäger-Abenteuer
 - Entdecke die Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug für Kinder mit einer App mit Augmented Reality verbindet
 - Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
 - Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
-- Der energiegeladene Spielzeug-Schulbus verfügt über eine Kommandostation, ausklappbare Kanonen zum Entfluchen, Scanner auf dem Dach und Platz für 4 Minifiguren für Geisterjäger-Abenteuer
 - Dieses Spielzeug mit Augmented Reality für Kinder enthält 6 Figuren, mit denen die Kinder ihre eigenen Geisterjäger-Abenteuer unternehmen können
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND99DMY/?tag=tolees0ca-21)
