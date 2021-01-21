@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Discount of 19.96 % for LEGO Super Mario Whomp’s Lava Trouble Ex'
-date: 2021-01-19 20:04:05
+date: 2021-01-21 07:38:45
 image: 'https://m.media-amazon.com/images/I/51pQfcyanAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0858FSSTG-com LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364...'
+sku: 'B0858FSSTG-com'
 tags: [ 'lego', ]
 actualPrice: 16.0 USD
 currency: USD
@@ -26,10 +27,6 @@ You've got [LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364 Building
 
 ℹ️:
 
-- This 133-piece, creative LEGO toy playset makes a fun birthday or holiday gift for kids aged 6 and up to add to their Adventures with Mario Starter Course (71360), inspiring them to build and customize their own levels
-- Measuring over 3” (8.5cm) high, 8.5” (22cm) wide and 6.5” (16.5cm) deep in its basic formation, this module can be rebuilt and combined with the Starter Course and other Expansion Sets in multivarious ways
-- Kids will love seeing and hearing the different ways LEGO Mario reacts as he encounters each enemy and earns a shower of digital coins for doing tricks after defeating the Whomp and activating the P Switch
-- The player can build their own challenging course with a sliding platform for LEGO Mario (figure not included) to balance on, Whomp and Lava Bubble figures, and the P Switch, which is found only in this set
-- Kids can create an action-packed new level to add to their LEGO Super Mario Adventures with Mario Starter Course and compete against friends with this Whomp’s Lava Trouble Expansion Set (71364)
+- Heat up the competitive LEGO Super Mario action with Whomp’s Lava Trouble Expansion Set (71364). This modular LEGO Super Mario playset features a sliding platform, Whomp figure guarding a P Switch (found only in this set!) and a brick-built, shell-shaped system to topple the Lava Bubble figure. Its the ideal gift toy for kids who own the LEGO Mario figure found in the Adventures with Mario Starter Course (71360). The free LEGO Super Mario app has intuitive Instructions PLUS, featuring cool
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20)
