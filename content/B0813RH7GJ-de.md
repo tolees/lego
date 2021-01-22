@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'LEGO 71721 NINJAGO Drache des Totenkopfm at 24.34 % discount'
-date: 2021-01-20 02:37:43
+date: 2021-01-22 12:59:09
 image: 'https://m.media-amazon.com/images/I/51+nsd28r7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0813RH7GJ-de LEGO 71721 NINJAGO Drache des Totenkopfmagiers 2-in-1...'
+sku: 'B0813RH7GJ-de'
 tags: [ 'lego', ]
 actualPrice: 58.99 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813RH7GJ/?tag=tolees0ca-21'
 descuento: '24.34'
-average: '57.19888888888889'
+average: '57.254'
 ---
 
 With a final price of 58.99 EUR (original: 77.97 EUR) you can find [LEGO 71721 NINJAGO Drache des Totenkopfmagiers  2-in-1 Bauset und Brettspiel mit Skelett-Rittern Minifiguren](https://www.amazon.de/dp/B0813RH7GJ/?tag=tolees0ca-21) with a  24.34 % discount here:
