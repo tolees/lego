@@ -27,8 +27,8 @@ There's a deal [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortge
 
 ℹ️:
 
-- Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle auThentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder- und Rücklichter
 - Dieses Spielzeugauto zum Sammeln überzeugt mit einer auThentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details
+- Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle auThentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder- und Rücklichter
 - Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
 - Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
 - Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
