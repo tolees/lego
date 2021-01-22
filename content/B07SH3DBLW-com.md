@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'LEGO Star Wars: The Skywalker Saga - Nin at 16.75 % discount'
-date: 2021-01-20 13:50:36
+date: 2021-01-22 00:39:40
 image: 'https://m.media-amazon.com/images/I/51qSzmHz3lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07SH3DBLW-com LEGO Star Wars: The Skywalker Saga - Nintendo Switch'
+sku: 'B07SH3DBLW-com'
 tags: [ 'lego', ]
 actualPrice: 49.94 USD
 currency: USD
