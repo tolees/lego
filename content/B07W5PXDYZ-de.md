@@ -29,8 +29,8 @@ You've got [LEGO 76898 Speed Champions Formula E Panasonic Jaguar Racing GEN2 ca
 
 - Der Jaguar I-PACE eTROPHY mit seiner markanten Flosse tritt weltweit in der offiziellen Support-Serie an
 - Verfügt über 2 nachgebildete Formel E- und I-PACE eTROPHY-Jaguar-Rennwagen, die auf 2 aufregenden vollelektrischen Rennwagen basieren sowie eine detaillierte Startlinie
-- Der Jaguar Racing Gen2 der Formel E von Panasonic ist ein brandneuer, eleganter Einsitzer, der in der aufregenden ABB FIA Formel E-Meisterschaft antritt
 - Ab Januar 2020 sind die Jaguar Racing Gen2-Automodelle der Formel E von Panasonic 25 Prozent größer als frühere LEGO Speed ​​Champions-Nachbauten
 - Enthält 2 Fahrer-Minifiguren in Jaguar-Rennanzügen
+- Der Jaguar Racing Gen2 der Formel E von Panasonic ist ein brandneuer, eleganter Einsitzer, der in der aufregenden ABB FIA Formel E-Meisterschaft antritt
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5PXDYZ/?tag=tolees0ca-21)
