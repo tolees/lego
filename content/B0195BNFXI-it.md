@@ -27,9 +27,9 @@ You've got [Lego Avengers - PlayStation Vita](https://www.amazon.it/dp/B0195BNFX
 
 ℹ️:
 
-- Un variegato roster di personaggi Marvel
+- Nuovi e avanzati poteri e abilità
 - Una varietà di famose location
 - Free Roaming Gameplay
-- Nuovi e avanzati poteri e abilità
+- Un variegato roster di personaggi Marvel
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B0195BNFXI/?tag=tolees00-21)
