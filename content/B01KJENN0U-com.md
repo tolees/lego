@@ -27,10 +27,10 @@ With a final price of 33.99 USD (original: 39.99 USD) you can find [LEGO Archite
 
 ℹ️:
 
-- This architectural model kit of the London skyline was developed for all with an interest in travel, architecture, building, culture, history, or design After you build the model, display it in your home or office for some great London décor
-- Build a detailed model of the London skyline, complete with 5 iconic landmarks This building set is sure to delight kids and adults alike as they recreate the famous London sites with cool model buildings and more
 - Iconic architecture set measures over 5-inch high, 11-inch wide and 3-inch deep 468 pieces This great London gift is perfect for adults and for boys and girls ages 12 and older
-- The LEGO Architecture Skyline Collection opens a window to the most incredible cityscapes from around the globe LEGO Architecture models are compatible with all LEGO construction sets for creative building
+- This architectural model kit of the London skyline was developed for all with an interest in travel, architecture, building, culture, history, or design After you build the model, display it in your home or office for some great London décor
 - London model features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge Includes collectible booklet containing information about the design, architecture and history of the famous landmarks
+- The LEGO Architecture Skyline Collection opens a window to the most incredible cityscapes from around the globe LEGO Architecture models are compatible with all LEGO construction sets for creative building
+- Build a detailed model of the London skyline, complete with 5 iconic landmarks This building set is sure to delight kids and adults alike as they recreate the famous London sites with cool model buildings and more
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B01KJENN0U/?tag=tolees-20)
