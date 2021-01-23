@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.93 % deal for LEGO 75288 Star Wars AT-AT  Walker Spiel'
-date: 2021-01-22 03:52:11
+date: 2021-01-23 07:46:54
 image: 'https://m.media-amazon.com/images/I/51jwnyV-gCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,10 +27,10 @@ There's a deal [LEGO 75288 Star Wars AT-AT  Walker Spielzeug  40. Jubiläum Set 
 
 ℹ️:
 
-- Dieses Bauspielzeug für Kinder enthält 6 LEGO Star Wars Minifiguren – Luke Skywalker, General Veers, 2 AT-AT Drivers und 2 Snowtroopers mit Ausrüstung –, um das Kräftemessen zwischen Imperium und Rebellenallianz als Rollenspiele nachzustellen.
-- Für den AT-AT Walker aus diesem Star Wars Bauset werden keine Batterien benötigt. Er besteht ausschließlich aus LEGO Steinen, als Antrieb für unzählige galaktische Abenteuer und kreatives Spielvergnügen reicht dem AT-AT die Fantasie der Kinder.
-- Der AT-AT Walker ist 34 cm hoch, 38 cm lang und 15 cm breit. Fans können den AT-AT Walker auch im Videospiel „LEGO Star Wars: Die Skywalker Saga“ steuern.
-- Der AT-AT verfügt über ein Cockpit für 3 LEGO Minifiguren, aufklappbare Seitenwände, Shooter mit Federmechanismus, einen Speeder, eine Seilwinde, eine Bodenluke, in die Luke seinen Thermaldetonator hineinwerfen kann und weitere Zubehörelemente.
-- Fans der klassischen Star Wars Trilogie und des Videospiels „LEGO Star Wars: Die Skywalker Saga“ werden mit Begeisterung die Schlacht auf Hoth mit dieser beweglichen Version des legendären AT-AT Walkers (75288) aus LEGO Steinen nachstellen.
+- There are also foldout panels, a speeder bike, winch, bottom hatch so Luke can throw in the thermal detonator element, and more
+- Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
+- Detailed LEGO brick version of the iconic AT-AT (75288) Walker - celebrate 40 years of Star Wars with this 40th Anniversary set
+- Features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
+- The AT-AT vehicle measures over 13 Inch (34 cm) high, 14.5 Inch (38 cm) long and 5.5 Inch (15 cm) wide. Fans can also drive it in the LEGO Star Wars: The Skywalker Saga video game
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B0813Q5JKX/?tag=tolees0ca-21)

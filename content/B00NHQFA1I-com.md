@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic Medium Creative Brick Box 1 at 37.12 % discount'
-date: 2021-01-22 06:45:14
+date: 2021-01-23 07:00:44
 image: 'https://m.media-amazon.com/images/I/51ZxWAH1QvL._SL200_.jpg'
 comments: true
 category: ofertas
