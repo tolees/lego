@@ -29,8 +29,8 @@ There's a deal [LEGO 10920 DUPLO Frozen II Elsa and Olaf s Ice Party Toy  Large 
 
 - As they role-play endless adventures, preschool kids also build their creative-thinking, fine-motor, visual-spatial and emotional skills
 - All bricks and pieces meet the highest safety and quality standards, they are perfect for little fingers to pick up, place and pull apart
+- Disney’s Elsa and her adorable snowman friend, Olaf, from the blockbuster Frozen movies, are building an icehouse to have a tea party in
 - Includes Elsa and Snowman figures; accessories include a teapot, hot chocolate and cakes on the table, plus two delicious cupcakes for a party
 - A great starter set for budding builders and little Disney Princess Frozen fans, with safe, toddler-friendly, easy to build large pieces
-- Disney’s Elsa and her adorable snowman friend, Olaf, from the blockbuster Frozen movies, are building an icehouse to have a tea party in
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TM7S8/?tag=tolees0a-21)
