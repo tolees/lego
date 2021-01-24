@@ -27,10 +27,10 @@ There's a deal [Lego Ninjago - Lego Ninjago 70681 Spinjitzu Slam - Lloyd  Baus
 
 ℹ️:
 
-- Dieses Sammlerset enthält Lloyd VS als Minifigur mit „energiegeladenem“ Kapuzenelement sowie ein Schwert und 2 Spinnen-Figuren, die auf den „Eis“-Zielen platzier werden.
 - Baue das Ninja-Spielzeug „Spinjitzu Slam – Lloyd“ mit Starter und Lloyds Tornado-Spinner und spiele den Ninja-Tornado-Effekt aus der NINJAGO TV-Serie nach!
 - Der Tornado-Starter mit LEGO  NINJAGO Spinjitzu-Spinner-Spielzeug ist 5 cm hoch, 3 breit und 8 cm tief.
-- Das Spielset „Spinjitzu Slam – Lloyd“ (70681) von LEGO  NINJAGO ist ein tolles Geschenk für Kinder und kann für noch mehr kreativen Bauspaß zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden.
 - 70 Teile – Spinjitzu-Spinner-Spielset von EGO NINJAGO für Mädchen und Jungen ab 7 Jahren, für Fans und für große Kinder jedes Alters
+- Das Spielset „Spinjitzu Slam – Lloyd“ (70681) von LEGO  NINJAGO ist ein tolles Geschenk für Kinder und kann für noch mehr kreativen Bauspaß zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden.
+- Dieses Sammlerset enthält Lloyd VS als Minifigur mit „energiegeladenem“ Kapuzenelement sowie ein Schwert und 2 Spinnen-Figuren, die auf den „Eis“-Zielen platzier werden.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07KTWFH1V/?tag=tolees0ca-21)
