@@ -27,10 +27,10 @@ With a final price of 65.98 GBP (original: 79.99 GBP) you can find [Super Heroes
 
 ℹ️:
 
-- Features a buildable "Batcave on wheels" toy truck, with 4 vehicles: a Batjet, BatQuad, motorcycle, and a water scooter, plus 6 minifigures
-- The Mobile Bat Base toy trucks opening roof and side provide easy access to Batman’s Batcave accessories and all detachable vehicles
-- Kids join Batman, Batgirl and Nightwing minifigures on the hunt for notorious Super-Villains Mr Freeze, Man-Bat and Bronze Tiger
 - It’s a great ‘build your own truck’ birthday gift for all children aged 6 and up who enjoy imaginative play, not just for Batman movie fans
+- The Mobile Bat Base toy trucks opening roof and side provide easy access to Batman’s Batcave accessories and all detachable vehicles
+- Features a buildable "Batcave on wheels" toy truck, with 4 vehicles: a Batjet, BatQuad, motorcycle, and a water scooter, plus 6 minifigures
 - The high-tech truck is packed with exciting hidden features, there is even an onboard jail and an explosion feature for escaping villains
+- Kids join Batman, Batgirl and Nightwing minifigures on the hunt for notorious Super-Villains Mr Freeze, Man-Bat and Bronze Tiger
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813QWS7K/?tag=tolees0a-21)
