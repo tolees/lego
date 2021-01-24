@@ -28,8 +28,8 @@ You've got [LEGO 51515 Mindstorms Robot Inventor Robotics Kit  5-in-1 App Contro
 ℹ️:
 
 - Features five different models with their own capabilities and personalities, which can be programmed via the Mindstorms Robot Inventor app
-- Kids gain essential stem skills as they build, code and play with remote control robots that shoot missiles, play ball, drive around and more
 - Blast can scan its environment and fire darts if it senses danger, while Charlie can give out high fives, dance, play the drums and smile
+- Kids gain essential stem skills as they build, code and play with remote control robots that shoot missiles, play ball, drive around and more
 - Tricky is the master of sports, the four legged Gelo can walk and avoid obstacles, and M.V.P. can be rebuilt into a buggy, crane or truck
 - Features a rechargeable Intelligent Hub (seen in Spike Prime), 5 x 5 LED screen with smiley faces and speaker for expressing robot messages
 
