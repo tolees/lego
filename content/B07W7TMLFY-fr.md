@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.18 % deal for LEGO Star Wars  Le chasseur X-wing de Po'
-date: 2021-01-25 14:18:36
+date: 2021-01-26 20:28:10
 image: 'https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W7TMLFY/?tag=tolees0d-21'
 descuento: '18.18'
-average: '86.0190725806451'
+average: '86.0508399999999'
 ---
 
 There's a deal [LEGO Star Wars  Le chasseur X-wing de Poe Dameron  Set de construction  Collection L Ascension de Skywalker  75273](https://www.amazon.fr/dp/B07W7TMLFY/?tag=tolees0d-21)  with  18.18 % discount, final price tag of  89.99 EUR (original: 109.99 EUR) here:
