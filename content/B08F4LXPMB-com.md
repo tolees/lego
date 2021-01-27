@@ -27,10 +27,10 @@ You've got [LEGO Technic: Ducati Panigale V4 R 42107  646 Pieces  2020 with Vali
 
 ℹ️:
 
-- A representation of the famous Ducati Panigale V4 R to build, explore and display. LEGO Technic fans and motorcycle enthusiasts will love this stunning building challenge.
 - Looking for the best gifts for motorbike fans? This is a great choice. It’s also a super challenge for LEGO Technic fans aged 10+ who will get a thrill from seeing how a motorcycle works. This eye-catching model (42107) looks stunning on display. Its dimensions have been designed to give a true representation of the real-life model. Measures over 12” (32cm) long, 6” (16cm) high and 3” (8cm) wide.
-- Valinor Tech Authorization Only. Valinor is providing environmental friendly packaging service
 - Recreate the thrill of owning a Ducati Panigale V4 R, with front and rear suspension for realistic model movement. The classic red color scheme brings the motorcycle to life, with true Italian flair.
+- Valinor Tech Authorization Only. Valinor is providing environmental friendly packaging service
+- A representation of the famous Ducati Panigale V4 R to build, explore and display. LEGO Technic fans and motorcycle enthusiasts will love this stunning building challenge.
 - Build your own Ducati Panigale V4 R to gain a unique insight into the features and functions that make up this iconic motorcycle. Also includes a 2-speed gear-box – a first for LEGO Technic motorcycles.
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08F4LXPMB/?tag=tolees-20)

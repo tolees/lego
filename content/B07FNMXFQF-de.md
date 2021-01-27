@@ -27,10 +27,10 @@ With a final price of 64.89 EUR (original: 77.97 EUR) you can find [LEGO 42095 T
 
 ℹ️:
 
-- Dieses Lego Technic Set soll ein fesselndes und lohnendes Bauerlebnis vermitteln. Es bewegt sich wirklichkeitsgetreu, besitzt realistische Mechanismen und fördert die motorischen Fähigkeiten, die Auge-Hand-Koordination und die Fantasie der Kinder
-- Enthält ein rasantes, voll motorisiertes ferngesteuertes Kettenfahrzeug mit großen hinteren Zahnkränzen für eine fantastische Beschleunigung
-- Hat ein cooles Farbmuster in Gelb und Blau - mit coolen Aufklebern
 - Enthält die folgenden Lego Power Functions Komponenten: zwei große Motoren, Empfänger, Batteriebox und Fernsteuerung
 - Brettere durch raues Gelände und über Hindernisse, fahre vorwärts, rückwärts, nach links oder rechts und vollführe 360-Grad-Wendungen oder coole Wheelies bei Höchstgeschwindigkeit
+- Enthält ein rasantes, voll motorisiertes ferngesteuertes Kettenfahrzeug mit großen hinteren Zahnkränzen für eine fantastische Beschleunigung
+- Dieses Lego Technic Set soll ein fesselndes und lohnendes Bauerlebnis vermitteln. Es bewegt sich wirklichkeitsgetreu, besitzt realistische Mechanismen und fördert die motorischen Fähigkeiten, die Auge-Hand-Koordination und die Fantasie der Kinder
+- Hat ein cooles Farbmuster in Gelb und Blau - mit coolen Aufklebern
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21)
