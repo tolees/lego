@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 29.37 % for LEGO Technic: Ducati Panigale V4 R 42107'
-date: 2021-01-23 00:39:59
+title: 'Discount of 29.39 % for LEGO Technic: Ducati Panigale V4 R 42107'
+date: 2021-01-27 02:20:40
 image: 'https://m.media-amazon.com/images/I/514bts74z9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,16 +12,16 @@ tags: [ 'lego', ]
 actualPrice: 79.99 USD
 currency: USD
 price: 79.99
-comparePrice: 113.26 USD
+comparePrice: 113.29 USD
 prodname: 'LEGO Technic: Ducati Panigale V4 R 42107  646 Pieces  2020 with Valinor Frustration-Free Packaging'
 country: 'com'
 flag: '🇺🇸'
 buyurl: 'https://www.amazon.com/dp/B08F4LXPMB/?tag=tolees-20'
-descuento: '29.37'
-average: '108.821666666666'
+descuento: '29.39'
+average: '103.055333333333'
 ---
 
-You've got [LEGO Technic: Ducati Panigale V4 R 42107  646 Pieces  2020 with Valinor Frustration-Free Packaging](https://www.amazon.com/dp/B08F4LXPMB/?tag=tolees-20) with a  29.37 % discount, with final price of 79.99 USD (original: 113.26 USD) at the following link:
+You've got [LEGO Technic: Ducati Panigale V4 R 42107  646 Pieces  2020 with Valinor Frustration-Free Packaging](https://www.amazon.com/dp/B08F4LXPMB/?tag=tolees-20) with a  29.39 % discount, with final price of 79.99 USD (original: 113.29 USD) at the following link:
 
 [![LEGO Technic: Ducati Panigale V4 R 42107](https://m.media-amazon.com/images/I/514bts74z9L._SL200_.jpg)](https://www.amazon.com/dp/B08F4LXPMB/?tag=tolees-20)
 
