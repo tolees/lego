@@ -27,13 +27,13 @@ There's a deal [LEGO Ideas - Barco en una botella  21313 ](https://www.amazon.es
 
 ℹ️:
 
-- La botella cuenta con un detallado corcho para construir con un elemento que representa un sello de cera (novedad en febrero de 2018) y más de 280 elementos de color azul translúcido que representan el agua en su interior
-- El buque cuenta con cubierta elevada a popa, camarote del capitán, 6 cañones, 3 mástiles, cofa y diferentes elementos, como velas impresas y la bandera del barco
 - Incluye también un folleto con instrucciones de construcción e información sobre el fan creador del set y los diseñadores de LEGO
+- Contiene una botella que se construye con ladrillos LEGO, un buque y un expositor
+- La botella cuenta con un detallado corcho para construir con un elemento que representa un sello de cera (novedad en febrero de 2018) y más de 280 elementos de color azul translúcido que representan el agua en su interior
 - El expositor cuenta con una placa con el nombre del barco, Leviathan, una brújula integrada (no funciona de verdad) con una detallada rosa de los vientos y aguja giratoria dorada, 2 esferas terrestres y detalles dorados
+- Junto con el soporte, la botella mide más de 10 cm de altura, 31 cm de ancho y 10 cm de profundidad
+- El buque cuenta con cubierta elevada a popa, camarote del capitán, 6 cañones, 3 mástiles, cofa y diferentes elementos, como velas impresas y la bandera del barco
 - El buque mide más de 8 cm de altura, 14 cm de longitud y 5 cm de ancho
 - Este juguete de construcción es apto para niños a partir de 10 años
-- Junto con el soporte, la botella mide más de 10 cm de altura, 31 cm de ancho y 10 cm de profundidad
-- Contiene una botella que se construye con ladrillos LEGO, un buque y un expositor
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B079PDGK55/?tag=tolees-21)

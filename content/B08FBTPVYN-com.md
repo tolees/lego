@@ -27,8 +27,8 @@ There's a deal [Lego Super Heroes Tri-Pack 3 Sets Included: Iron Man  Thanos  & 
 
 ℹ️:
 
-- 3 Sets included: Iron Man, Thanos, & Spider-Man 452 Total Pieces
-- Recommended Ages: 6+ Years
 - Iron Man 148 pieces , Thanos 152 pieces , Spider-Man 152 pieces
+- Recommended Ages: 6+ Years
+- 3 Sets included: Iron Man, Thanos, & Spider-Man 452 Total Pieces
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08FBTPVYN/?tag=tolees-20)
