@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Architecture - London [21034 - 468  at 17.95 % discount'
-date: 2021-01-22 00:27:33
+date: 2021-01-27 13:48:56
 image: 'https://m.media-amazon.com/images/I/51mcwZ37enL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KJENN0U/?tag=tolees00-21'
 descuento: '17.95'
-average: '64.64852272727273'
+average: '64.6268131868132'
 ---
 
 With a final price of 63.99 EUR (original: 77.99 EUR) you can find [Lego Architecture - London [21034 - 468 Pieces]](https://www.amazon.it/dp/B01KJENN0U/?tag=tolees00-21) with a  17.95 % discount here:
