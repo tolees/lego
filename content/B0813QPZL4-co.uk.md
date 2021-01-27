@@ -27,10 +27,10 @@ With a final price of 13.28 GBP (original: 17.99 GBP) you can find [Lego Friends
 
 ℹ️:
 
-- This playset comes with an open park counter decked out to look like a Parisian eatery, and lots of toy coffee shop and kitchen accessories
 - Check out our other sets: Emmas Fashion Shop (41427), Summer Fun Water Park (41430), Olivias Flower Garden (41425) and Beach House (41428)
-- Includes buildable Stephanie and Mia mini-dolls plus a squirrel figure – kids can pretend to be Mia on her skateboard wearing a helmet
+- This playset comes with an open park counter decked out to look like a Parisian eatery, and lots of toy coffee shop and kitchen accessories
 - Features a till, display, hinged waffle iron, drinks blender, ice cream servings in different flavours, cooking ingredients and menus
 - Kids can hang with BFFs, like on the LEGO Friends TV show, with this fully kitted kitchen and lots of elements to inspire fun food play
+- Includes buildable Stephanie and Mia mini-dolls plus a squirrel figure – kids can pretend to be Mia on her skateboard wearing a helmet
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813QPZL4/?tag=tolees0a-21)
