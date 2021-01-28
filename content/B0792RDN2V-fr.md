@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.73 % deal for LEGO Harry Potter La Grande Salle du châ'
-date: 2021-01-27 10:25:15
+date: 2021-01-28 14:19:26
 image: 'https://m.media-amazon.com/images/I/512WyegAHQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21'
 descuento: '22.73'
-average: '94.3366071428571'
+average: '94.2703191489361'
 ---
 
 There's a deal [LEGO Harry Potter La Grande Salle du château de Poudlard 75954 Jeu de Construction](https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21)  with  22.73 % discount, final price tag of  84.99 EUR (original: 109.99 EUR) here:
@@ -27,11 +27,11 @@ There's a deal [LEGO Harry Potter La Grande Salle du château de Poudlard 75954 
 
 ℹ️:
 
-- Construisez la grande salle du château de Poudlard
-- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- La grande salle du châteaude Poudlard mesure plus de 37 cm de haut, 30 cm de large et 18 cm de profondeur
 - 878 pièces  pour les filles et les garçons de 9 à 14 ans
-- Issu de lunivers des films Harry Potter
+- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Ensemble comprenant 10 figurines : Harry Potter, Ron Weasley, Hermione Granger, Drago Malefoy, Susan Bones, le professeur McGonagall, le Professeur Quirrell avec le visage double de Lord Voldemort , Hagrid, Albus Dumbledore, Nick Quasi Sans-Tête, les créatures Basilic et Fumseck, et les figurines Hedwige et Croûtard
+- Construisez la grande salle du château de Poudlard
+- La grande salle du châteaude Poudlard mesure plus de 37 cm de haut, 30 cm de large et 18 cm de profondeur
+- Issu de lunivers des films Harry Potter
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21)
