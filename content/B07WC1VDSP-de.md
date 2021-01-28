@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.99 % deal for LEGO 42108 Technic Kran-LKW  Spielzeug  '
-date: 2021-01-26 20:20:32
+date: 2021-01-28 01:39:57
 image: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21'
 descuento: '19.99'
-average: '75.1334911242606'
+average: '75.1502941176473'
 ---
 
 There's a deal [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)  with  19.99 % discount, final price tag of  77.99 EUR (original: 97.47 EUR) here:
