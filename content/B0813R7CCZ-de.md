@@ -27,9 +27,9 @@ With a final price of 14.87 EUR (original: 19.49 EUR) you can find [LEGO 41915 D
 
 ℹ️:
 
-- Mit Ziersteinchen ist die Schmuckbox 3 cm hoch, 12 cm breit und 14 cm tief und passt in jedes Kinderzimmer. In diesem Kreativset können junge Designer ihren Schmuck wunderbar aufbewahren
 - Das Vergnügen beginnt schon mit dem Zusammenbauen der hübschen Schmuckbox. Kinder können die Steinchen mit den Elementen aus anderen DOTS Sets wie dem „Armband Ergänzungsset Smiley“ (41908) kombinieren, damit die Box ideal zur Einrichtung passt
 - Das coole LEGO DOTS Set „Schmuckbox“ (41915) lässt Kinder ihre Begeisterung für kreative Designprojekte entdecken. Alle Flächen können verziert werden. Es bereitet Kindern viel Freude, die Box zu verzieren und umzugestalten
+- Mit Ziersteinchen ist die Schmuckbox 3 cm hoch, 12 cm breit und 14 cm tief und passt in jedes Kinderzimmer. In diesem Kreativset können junge Designer ihren Schmuck wunderbar aufbewahren
 - Beim Verzieren der Schmuckbox können sich Kinder frei entfalten und ihr Designtalent zum Ausdruck bringen, indem sie die in der Verpackung des LEGO DOTS Sets 41915 enthalten Musterideen nachbilden oder sich eigene Designs ausdenken
 - Jeder junge Designfan wird dieses tolle Set lieben. Die Schmuckbox und die bunten Steinchen sind ein tolles Geschenk für Kinder ab 6 Jahren – zum Geburtstag, zu Weihnachten oder zu anderen Anlässen
 

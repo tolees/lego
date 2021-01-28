@@ -27,10 +27,10 @@ With a final price of 14.66 EUR (original: 19.49 EUR) you can find [LEGO 21158 M
 
 ℹ️:
 
-- Ein großartiges Set für Panda-Fans und Minecraft-Spieler, die ihr Lieblingsspiel auch mal auf eine andere Weise erleben möchten. Erfordert nur sehr grundlegende Fähigkeiten im Zusammenbauen von Steinen
-- Inklusive 2 Pandas, Alex und ein Ozelot. Mama und Baby Panda Figuren sitzen, stehen und bewegen ihre Köpfe
-- Das Zubehör umfasst einen Fisch, einen Kuchen, eine Lampe und falls es irgendwo Gold zum Ausgraben gibt, hat Alex eine Spitzhacke dabei
 - Der Ozelot hat einen beweglichen Schwanz, es gibt reichlich Bambus für die putzigen Pandas zu fressen, damit sich die Kinder um sie kümmern können und Alex hat einen Kuchen für alle mitgebracht
+- Das Zubehör umfasst einen Fisch, einen Kuchen, eine Lampe und falls es irgendwo Gold zum Ausgraben gibt, hat Alex eine Spitzhacke dabei
+- Inklusive 2 Pandas, Alex und ein Ozelot. Mama und Baby Panda Figuren sitzen, stehen und bewegen ihre Köpfe
 - Der Panda-Kindergarten verfügt über eine Hütte für Pandas mit einem Dachbett für ein müdes Baby und einen kleinen Teich mit Wasserfall, Bäumen und Blumen
+- Ein großartiges Set für Panda-Fans und Minecraft-Spieler, die ihr Lieblingsspiel auch mal auf eine andere Weise erleben möchten. Erfordert nur sehr grundlegende Fähigkeiten im Zusammenbauen von Steinen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W6QTV3J/?tag=tolees0ca-21)
