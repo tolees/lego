@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.90 % deal for LEGO Technic - Chevrolet Corvette ZR1  m'
-date: 2021-01-26 06:41:16
+date: 2021-01-28 12:36:37
 image: 'https://m.media-amazon.com/images/I/51pftFY6tTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNW6WQ4/?tag=tolees-21'
 descuento: '28.90'
-average: '39.0349999999999'
+average: '39.0114242424241'
 ---
 
 There's a deal [LEGO Technic - Chevrolet Corvette ZR1  maqueta de coche de juguete 2 en 1 para construir  42093 ](https://www.amazon.es/dp/B07FNW6WQ4/?tag=tolees-21)  with  28.90 % discount, final price tag of  31.99 EUR (original: 44.99 EUR) here:
@@ -27,14 +27,14 @@ There's a deal [LEGO Technic - Chevrolet Corvette ZR1  maqueta de coche de jugue
 
 ℹ️:
 
+- El Chevrolet Corvette mide más de 8 cm de altura, 29 cm de longitud y 12 cm de ancho.
+- La réplica del exclusivo Chevrolet Corvette ZR1 incluye numerosas características de gran realismo, entre las que destacan el gran alerón trasero, los 4 tubos de escape, las llantas negras de radios con neumáticos de perfil bajo, el volante que funciona de verdad y un detallado motor V8 con pistones móviles.
+- Los sets LEGO Technic reproducen movimientos y mecanismos de gran realismo que permiten a los jóvenes constructores LEGO adentrarse en el universo de la ingeniería de un modo accesible y práctico.
+- Este coche de juguete coleccionable cuenta con una genuina combinación de colores en naranja y negro e incluye una lámina de adhesivos para aportar un mayor nivel de detalle.
+- Acciona el mecanismo de dirección y mueve el vehículo para activar los pistones del motor V8 a la vista.
+- El deportivo clásico mide más de 8 cm de altura, 23 cm de longitud y 12 cm de ancho.
+- Apto para mayores de 9 años.
 - Set LEGO Technic “2 en 1”: construye también un deportivo clásico.
 - Este modelo LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante.
-- El Chevrolet Corvette mide más de 8 cm de altura, 29 cm de longitud y 12 cm de ancho.
-- El deportivo clásico mide más de 8 cm de altura, 23 cm de longitud y 12 cm de ancho.
-- La réplica del exclusivo Chevrolet Corvette ZR1 incluye numerosas características de gran realismo, entre las que destacan el gran alerón trasero, los 4 tubos de escape, las llantas negras de radios con neumáticos de perfil bajo, el volante que funciona de verdad y un detallado motor V8 con pistones móviles.
-- Acciona el mecanismo de dirección y mueve el vehículo para activar los pistones del motor V8 a la vista.
-- Este coche de juguete coleccionable cuenta con una genuina combinación de colores en naranja y negro e incluye una lámina de adhesivos para aportar un mayor nivel de detalle.
-- Los sets LEGO Technic reproducen movimientos y mecanismos de gran realismo que permiten a los jóvenes constructores LEGO adentrarse en el universo de la ingeniería de un modo accesible y práctico.
-- Apto para mayores de 9 años.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FNW6WQ4/?tag=tolees-21)
