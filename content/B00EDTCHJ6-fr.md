@@ -27,10 +27,10 @@ You've got [LEGO DUPLO Mes 1ers pas - Mes premiers véhicules - 10886 - Jeu de c
 
 ℹ️:
 
-- Les ensembles LEGO DUPLO Mes 1ers pas sont compatibles avec tous les ensembles de construction LEGO DUPLO pour une expérience de construction sans limite
-- 34 pièces pour les petits de 1 an et demi et plus
-- Le camion de pompiers mesure plus de 11 cm de haut, 9 cm de long et 6 cm de large Lhélicoptère mesure plus de 9 cm de haut, 9 cm de long et 6 cm de large Le taxi mesure plus de 6 cm de haut, 9 cm de long et 6 cm de large Le camion poubelle mesure plus de 7 cm de haut, 10 cm de long et 6 cm de large
 - Comprend 4 véhicules LEGO DUPLO à construire : un camion de pompiers, un hélicoptère, un taxi et un camion poubelle
+- 34 pièces pour les petits de 1 an et demi et plus
 - Construisez des véhicules colorés avec Mes premiers véhicules LEGO DUPLO
+- Les ensembles LEGO DUPLO Mes 1ers pas sont compatibles avec tous les ensembles de construction LEGO DUPLO pour une expérience de construction sans limite
+- Le camion de pompiers mesure plus de 11 cm de haut, 9 cm de long et 6 cm de large Lhélicoptère mesure plus de 9 cm de haut, 9 cm de long et 6 cm de large Le taxi mesure plus de 6 cm de haut, 9 cm de long et 6 cm de large Le camion poubelle mesure plus de 7 cm de haut, 10 cm de long et 6 cm de large
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B00EDTCHJ6/?tag=tolees0d-21)

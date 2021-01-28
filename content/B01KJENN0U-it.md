@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lego Architecture - London [21034 - 468  at 17.95 % discount'
-date: 2021-01-27 13:48:56
+title: 'Lego Architecture - London [21034 - 468  at 19.59 % discount'
+date: 2021-01-28 20:30:50
 image: 'https://m.media-amazon.com/images/I/51mcwZ37enL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,19 +9,19 @@ author: ring
 slug: 'B01KJENN0U-it Lego Architecture - London [21034 - 468 Pieces]'
 sku: 'B01KJENN0U-it'
 tags: [ 'lego', ]
-actualPrice: 63.99 EUR
+actualPrice: 62.71 EUR
 currency: EUR
-price: 63.99
+price: 62.71
 comparePrice: 77.99 EUR
 prodname: 'Lego Architecture - London [21034 - 468 Pieces]'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KJENN0U/?tag=tolees00-21'
-descuento: '17.95'
-average: '64.6268131868132'
+descuento: '19.59'
+average: '64.5855913978495'
 ---
 
-With a final price of 63.99 EUR (original: 77.99 EUR) you can find [Lego Architecture - London [21034 - 468 Pieces]](https://www.amazon.it/dp/B01KJENN0U/?tag=tolees00-21) with a  17.95 % discount here:
+With a final price of 62.71 EUR (original: 77.99 EUR) you can find [Lego Architecture - London [21034 - 468 Pieces]](https://www.amazon.it/dp/B01KJENN0U/?tag=tolees00-21) with a  19.59 % discount here:
 
 [![Lego Architecture - London [21034 - 468 ](https://m.media-amazon.com/images/I/51mcwZ37enL._SL200_.jpg)](https://www.amazon.it/dp/B01KJENN0U/?tag=tolees00-21)
 
