@@ -27,10 +27,10 @@ There's a deal [LEGO Star Wars: The Rise of Skywalker Pasaana Speeder Chase 7525
 
 ℹ️:
 
-- Kids will love battling Reys transport speeder jet toy against the rubber-tracked treadspeeder bike to see who will be victorious. These building models also make a fun display piece or collectors item.
 - Exciting moments from the blockbuster Star Wars: The Rise of Skywalker movie await with this 373-piece building jet speeder & space bike toy that goes great with other LEGO Star Wars building play sets or stands alone as a great holiday gift set
-- Let any youngster build and play with this double set of play-starting LEGO Star Wars vehicles models from the blockbuster Star Wars: The Rise of Skywalker movie! This building playset includes a Transport toy jet and a Treadspeeder for space-racing action
-- Transport speeder space bike model measures over 3-inch (10cm) high, 7-inch (19cm) long and 4-inch (11cm) wide. Treadspeeder jet toy buildable figure measures over 1-inch (4cm) high, 5-inch (15cm) long and 2-inch (6cm) wide.
+- Kids will love battling Reys transport speeder jet toy against the rubber-tracked treadspeeder bike to see who will be victorious. These building models also make a fun display piece or collectors item.
 - This fun set of themed vehicles includes 3 LEGO Star Wars minifigure characters with weapons to get the action started straight away. These action figures include Rey, a First Order Jet Trooper and a First Order Treadspeeder Driver, plus a BB-8 droid LEGO figure.
+- Transport speeder space bike model measures over 3-inch (10cm) high, 7-inch (19cm) long and 4-inch (11cm) wide. Treadspeeder jet toy buildable figure measures over 1-inch (4cm) high, 5-inch (15cm) long and 2-inch (6cm) wide.
+- Let any youngster build and play with this double set of play-starting LEGO Star Wars vehicles models from the blockbuster Star Wars: The Rise of Skywalker movie! This building playset includes a Transport toy jet and a Treadspeeder for space-racing action
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07PX3XF7J/?tag=tolees-20)
