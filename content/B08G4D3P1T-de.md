@@ -28,9 +28,9 @@ With a final price of 22.99 EUR (original: 29.99 EUR) you can find [LEGO 60281 C
 ℹ️:
 
 - Includes 3 minifigures: a plants worker, firefighter helicopter pilot and the LEGO City Adventures TV series hero Clemmons
-- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
-- LEGO accessories include a stretcher (stored in the helicopters cargo hold), firefighter helmet, wrench and a safety helmet
-- Kids can stack the flames to create big fires, then shoot the helicopters water cannon elements to put them out at the top of the tower
 - Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
+- Kids can stack the flames to create big fires, then shoot the helicopters water cannon elements to put them out at the top of the tower
+- LEGO accessories include a stretcher (stored in the helicopters cargo hold), firefighter helmet, wrench and a safety helmet
+- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4D3P1T/?tag=tolees0ca-21)
