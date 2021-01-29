@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '21.45 % deal for LEGO 17101 Boost Programmierbares Roboti'
-date: 2021-01-28 10:22:45
+title: '23.43 % deal for LEGO 17101 Boost Programmierbares Roboti'
+date: 2021-01-29 22:25:27
 image: 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,16 +12,16 @@ tags: [ 'lego', ]
 actualPrice: 122.51 EUR
 currency: EUR
 price: 122.51
-comparePrice: 155.96 EUR
+comparePrice: 159.99 EUR
 prodname: 'LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteuertes Modell mit einem programmierbaren  interkativen Roboter Spielzeug und Bluetooth Hub  Coding Set für Kinder'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21'
-descuento: '21.45'
-average: '123.807728937728'
+descuento: '23.43'
+average: '123.79829090909'
 ---
 
-There's a deal [LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteuertes Modell mit einem programmierbaren  interkativen Roboter Spielzeug und Bluetooth Hub  Coding Set für Kinder](https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21)  with  21.45 % discount, final price tag of  122.51 EUR (original: 155.96 EUR) here:
+There's a deal [LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteuertes Modell mit einem programmierbaren  interkativen Roboter Spielzeug und Bluetooth Hub  Coding Set für Kinder](https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21)  with  23.43 % discount, final price tag of  122.51 EUR (original: 159.99 EUR) here:
 
 [![LEGO 17101 Boost Programmierbares Roboti](https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg)](https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21)
 
@@ -29,9 +29,9 @@ There's a deal [LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteue
 
 - 847 Teile - Für Jungen und Mädchen zwischen 7 und 12 Jahren
 - Guitar4000 5 cm hoch, 42 cm lang, 14 cm breit
-- Einen von fünf multifunktionalen Robotern bauen und ihn mithilfe der intuitiv bedienbaren LEGO Boost App spannende Aktivitäten ausführen
-- LEGO Boost Bauspielzeug ist kompatibel mit allen LEGO Bausets für kreatives Bauen
-- Roboter 27 cm hoch Katze 17 cm groß MTR4 12 cm hoch, 23 cm lang, 14 cm breit
 - Grundsätzlich funktionieren Apple Geräte ab iOS 103 sowie Android Geräte ab Android 50 mit Bluetooth 41 oder höher
+- LEGO Boost Bauspielzeug ist kompatibel mit allen LEGO Bausets für kreatives Bauen
+- Einen von fünf multifunktionalen Robotern bauen und ihn mithilfe der intuitiv bedienbaren LEGO Boost App spannende Aktivitäten ausführen
+- Roboter 27 cm hoch Katze 17 cm groß MTR4 12 cm hoch, 23 cm lang, 14 cm breit
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21)
