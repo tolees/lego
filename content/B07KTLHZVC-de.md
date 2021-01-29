@@ -27,9 +27,9 @@ With a final price of 70.51 EUR (original: 97.47 EUR) you can find [Lego Archite
 
 ℹ️:
 
-- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
-- Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
 - Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
+- Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
+- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
 - Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
 - 1760 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 
