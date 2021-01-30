@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % deal for LEGO Star Wars: The Rise of Skywalker Pa'
-date: 2021-01-29 02:02:17
+date: 2021-01-30 02:43:41
 image: 'https://m.media-amazon.com/images/I/51G+bz+CPqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'com'
 flag: '🇺🇸'
 buyurl: 'https://www.amazon.com/dp/B07PX3XF7J/?tag=tolees-20'
 descuento: '20.01'
-average: '34.2204347826086'
+average: '34.1274999999999'
 ---
 
 There's a deal [LEGO Star Wars: The Rise of Skywalker Pasaana Speeder Chase 75250 Hovering Transport Speeder Building Kit with Action Figures  373 Pieces ](https://www.amazon.com/dp/B07PX3XF7J/?tag=tolees-20)  with  20.01 % discount, final price tag of  31.99 USD (original: 39.99 USD) here:
@@ -27,10 +27,10 @@ There's a deal [LEGO Star Wars: The Rise of Skywalker Pasaana Speeder Chase 7525
 
 ℹ️:
 
-- Exciting moments from the blockbuster Star Wars: The Rise of Skywalker movie await with this 373-piece building jet speeder & space bike toy that goes great with other LEGO Star Wars building play sets or stands alone as a great holiday gift set
-- Kids will love battling Reys transport speeder jet toy against the rubber-tracked treadspeeder bike to see who will be victorious. These building models also make a fun display piece or collectors item.
-- This fun set of themed vehicles includes 3 LEGO Star Wars minifigure characters with weapons to get the action started straight away. These action figures include Rey, a First Order Jet Trooper and a First Order Treadspeeder Driver, plus a BB-8 droid LEGO figure.
-- Transport speeder space bike model measures over 3-inch (10cm) high, 7-inch (19cm) long and 4-inch (11cm) wide. Treadspeeder jet toy buildable figure measures over 1-inch (4cm) high, 5-inch (15cm) long and 2-inch (6cm) wide.
-- Let any youngster build and play with this double set of play-starting LEGO Star Wars vehicles models from the blockbuster Star Wars: The Rise of Skywalker movie! This building playset includes a Transport toy jet and a Treadspeeder for space-racing action
+- Weapons include Rey’s blue Lightsaber, the Treadspeeder Driver’s blaster pistol and the Jet Trooper’s blaster. Recreate exciting moments from the Star Wars: The Rise of Skywalker movie with this fun LEGO Star Wars kids’ toy.
+- This set makes a great birthday gift, Christmas present or just a Star Wars gift for any occasion. Transport speeder measures over 3” (10cm) high, 7” (19cm) long and 4” (11cm) wide. Treadspeeder measures over 1” (4cm) high, 5” (15cm) long and 2” (6cm) wide.
+- Transport speeder has space for Rey and BB-8 and features a transparent stand for an authentic ‘hovering look. Treadspeeder has a seat for a trooper plus a rubber tank track and 2 side-mounted stud shooters for exciting role-play action. Molded rocket element and Jet Trooper rocket elements are new for October 2019.
+- Comes with exciting LEGO Star Wars characters including 3 minifigures – Rey, First Order Jet Trooper and a First Order Treadspeeder Driver – plus a BB-8 droid LEGO figure.
+- Inspire action-packed play with these 2 LEGO Star Wars construction toys from the Star Wars: The Rise of Skywalker movie. Creative kids and collectors will love the fun details, like the treadspeeder’s tank track, side-mounted stud shooters and a transparent stand for a ‘hovering look.
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07PX3XF7J/?tag=tolees-20)

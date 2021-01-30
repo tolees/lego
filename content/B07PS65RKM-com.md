@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.01 % for LEGO City Space Mars Research Shuttle 60'
-date: 2021-01-28 21:39:18
+date: 2021-01-30 02:38:32
 image: 'https://m.media-amazon.com/images/I/51h35foGGQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,10 +27,10 @@ You've got [LEGO City Space Mars Research Shuttle 60226 Space Shuttle Toy Buildi
 
 ℹ️:
 
-- Research shuttle measures over 3-inch (9cm) high, 9-inch (23cm) long and 8-inch (21cm) wide Mars rover measures over 1-inch (5cm) high, 2-inch (7cm) long and 2-inch (6cm) wide Helidrone measures over 1-inch (4cm) long and 1-inch (3cm) wide Storage drone measures over 1-inch (3cm) high and 1-inch (3cm) long Mars scenery build measures over 1-inch (3cm) wide
-- Includes 2 LEGO City Mars astronaut minifigures, plus a helidrone and storage drone
-- Build an exciting space shuttle toy model that offers plenty of imaginative action possibilities and a Mars rover with articulated grappling arm to retrieve geodes!
-- This LEGO City Mars Research Shuttle 60226 outer space toy set makes a great gift for kids and can be built together with all other original LEGO toys and LEGO bricks for more creative play
-- 273 pieces –Astronaut construction toy for boys and girls aged 5+ and for fans of LEGO toys and kids of all ages
+- This building set for kids features a space research shuttle with opening cockpit, 2 large opening doors and space inside for the storage drone, plus a NASA-inspired Mars rover with new-for-June-2019 articulated grappling arm, laser and tilting solar panels, storage drone with opening compartment, plus a helidrone with spinning rotor blade and scanner to read a secret symbol discovered on Mars!
+- Research shuttle measures over 3” (9cm) high, 9” (23cm) long and 8” (21cm) wide. Mars rover measures over 1” (5cm) high, 2” (7cm) long and 2” (6cm) wide. Helidrone measures over 1” (4cm) long and 1” (3cm) wide. Storage drone measures over 1” (3cm) high and 1” (3cm) long. Mars scenery build measures over 1” (3cm) wide.
+- Inspire space and science play with a cool Mars research shuttle and rover toy playset. Includes 2 LEGO City astronaut minifigures.
+- Accessory elements include a helmet with blue visor, Extra Vehicular Activity suit with golden visor, scanner and 2 new-for-June-2019 geodes with blue crystals.
+- Download LEGO Life the app at the iOS or Android app store. Ask your parents permission before going online. This fun construction toy makes a great gift for kids.
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07PS65RKM/?tag=tolees-20)
