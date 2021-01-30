@@ -27,12 +27,12 @@ You've got [LEGO 60275 City Polizeihubschrauber Spielzeug mit Polizisten und Gau
 
 ℹ️:
 
-- Zu diesem 4+ Spielset gibt es eine einfache gedruckte sowie eine digitale Bauanleitung. Ein spezieller Starterstein lässt auch absolute Neulinge die Freude am eigenen Bauerfolg mit den LEGO Spielzeugen erleben
-- Das Spielset „Polizeihubschrauber“ (60275) führt Jungen und Mädchen ab 4 Jahren an das fantastische LEGO City Universum heran, das Kinder in endlose kreative Spielabenteuer eintauchen lässt
-- Der Hubschrauber ist 8 cm hoch, 12 cm lang und 5 cm breit, damit der LEGO City Polizeipilot genug Platz hat
-- Inhalt des Sets: Enthält einen robusten Spielzeug-Polizeihubschrauber, ein Wassermotorrad und 2 Geldscheine sowie einen Polizisten und eine Ganovin als Minifiguren. Fehlt nur noch ein Funken Fantasie für endlosen Spielspaß
-- Der Hubschrauber ist mit der Aufschrift „Police“ und einem Suchscheinwerfer versehen
-- Der Polizeihubschrauber verfügt über ein Minifigur-Cockpit, drehbare Rotoren und einen aufklappbaren Rumpf für die gefasste Ganovin. Die Ganovin und die stibitzten Geldscheine lassen sich am Wassermotorrad befestigen
 - Fantastisches Weihnachts-, Geburtstags- und Überraschungsgeschenk für LEGO City Fans und eine tolle Einführung ins LEGO City Universum für Jungen und Mädchen ab 4 Jahren
+- Der Hubschrauber ist 8 cm hoch, 12 cm lang und 5 cm breit, damit der LEGO City Polizeipilot genug Platz hat
+- Zu diesem 4+ Spielset gibt es eine einfache gedruckte sowie eine digitale Bauanleitung. Ein spezieller Starterstein lässt auch absolute Neulinge die Freude am eigenen Bauerfolg mit den LEGO Spielzeugen erleben
+- Der Polizeihubschrauber verfügt über ein Minifigur-Cockpit, drehbare Rotoren und einen aufklappbaren Rumpf für die gefasste Ganovin. Die Ganovin und die stibitzten Geldscheine lassen sich am Wassermotorrad befestigen
+- Das Spielset „Polizeihubschrauber“ (60275) führt Jungen und Mädchen ab 4 Jahren an das fantastische LEGO City Universum heran, das Kinder in endlose kreative Spielabenteuer eintauchen lässt
+- Der Hubschrauber ist mit der Aufschrift „Police“ und einem Suchscheinwerfer versehen
+- Inhalt des Sets: Enthält einen robusten Spielzeug-Polizeihubschrauber, ein Wassermotorrad und 2 Geldscheine sowie einen Polizisten und eine Ganovin als Minifiguren. Fehlt nur noch ein Funken Fantasie für endlosen Spielspaß
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4HRF6D/?tag=tolees0ca-21)
