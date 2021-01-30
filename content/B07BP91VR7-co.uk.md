@@ -16,6 +16,7 @@ comparePrice: 41.67 GBP
 prodname: 'LEGO Series 18 CLASSIC POLICE OFFICER Minifigure  #08/17  - Bagged 71021'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07BP91VR7/?tag=tolees0a-21'
 descuento: '60.43'
 average: '16.49'

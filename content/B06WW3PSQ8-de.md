@@ -16,6 +16,7 @@ comparePrice: 5.32 EUR
 prodname: 'LEGO Nexo Knights 70373 - Combo NEXO Kräfte'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WW3PSQ8/?tag=tolees0ca-21'
 descuento: '56.39'
 average: '3.8200000000000003'

@@ -16,6 +16,7 @@ comparePrice: 13.55 GBP
 prodname: 'LEGO Buildable Ruler'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B015FM28XE/?tag=tolees0a-21'
 descuento: '34.39'
 average: '10.90875'

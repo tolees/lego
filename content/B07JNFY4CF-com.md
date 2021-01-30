@@ -16,6 +16,7 @@ comparePrice: 149.99 USD
 prodname: 'LEGO THE LEGO MOVIE 2 The Rexcelsior; 70839 Building Kit  1820 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JNFY4CF/?tag=tolees-20'
 descuento: '20.03'
 average: '119.95'

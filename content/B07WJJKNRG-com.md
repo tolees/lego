@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Trolls World Tour Techno Reef Dance Party 41250 Building Kit  Awesome Trolls Playset for Creative Play  New 2020  173 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WJJKNRG/?tag=tolees-20'
 descuento: '15.86'
 average: '13.406666666666666'

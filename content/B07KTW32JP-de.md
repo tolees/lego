@@ -16,6 +16,7 @@ comparePrice: 58.48 EUR
 prodname: 'LEGO 75935 - Jurassic World Baryonyx  Kräftemessen: die Schatzsuche  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTW32JP/?tag=tolees0ca-21'
 descuento: '18.88'
 average: '44.31923076923078'

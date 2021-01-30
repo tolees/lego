@@ -16,6 +16,7 @@ comparePrice: 19.98 GBP
 prodname: 'Lego Storage Brick 4 Medium Yellow'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B008KQ1TQU/?tag=tolees0a-21'
 descuento: '15.62'
 average: '19.463333333333335'

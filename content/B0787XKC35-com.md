@@ -16,6 +16,7 @@ comparePrice: 24.99 USD
 prodname: 'LEGO Star Wars Solo: A Star Wars Story Han Solo 75535 Building Kit  101 Piece '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0787XKC35/?tag=tolees-20'
 descuento: '26.89'
 average: '17.817'

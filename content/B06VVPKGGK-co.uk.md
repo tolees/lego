@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO DC Comics Super Heroes 76085 Justice League Battle Of Atlantis Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B06VVPKGGK/?tag=tolees0a-21'
 descuento: '15.71'
 average: '16.105'

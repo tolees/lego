@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lego Wear Mädchen Lego Tec Boy LWJOSEFINE 716-Skijacke/Winterjacke  3in1  Jacke  Mehrfarbig  Dark Navy 590    Herstellergröße:116 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWL3B62/?tag=tolees0ca-21'
 descuento: '56.12'
 average: '43.86'

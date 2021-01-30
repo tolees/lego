@@ -16,6 +16,7 @@ comparePrice: 8.99 GBP
 prodname: 'LEGO 71715 NINJAGO Jay Avatar - Arcade Pod Portable Playset  Collectible Prime Empire Ninja Toys for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07WC19M4V/?tag=tolees0a-21'
 descuento: '58.29'
 average: '5.25'

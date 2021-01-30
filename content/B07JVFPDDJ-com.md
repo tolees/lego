@@ -16,6 +16,7 @@ comparePrice: 29.95 USD
 prodname: 'LEGO Star Wars Minifigure - Jango Fett  Holiday Santa Jango  75023'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JVFPDDJ/?tag=tolees-20'
 descuento: '43.27'
 average: '16.99'

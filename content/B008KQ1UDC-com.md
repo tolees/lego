@@ -16,6 +16,7 @@ comparePrice: 31.99 USD
 prodname: 'LEGO Storage Brick 4  Black'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B008KQ1UDC/?tag=tolees-20'
 descuento: '39.07'
 average: '16.725'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO NINJAGO 70669 - Coles Powerbohrer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNSH9FR/?tag=tolees0ca-21'
 descuento: '26.03'
 average: '39.80571428571428'

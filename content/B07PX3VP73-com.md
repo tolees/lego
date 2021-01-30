@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'LEGO Jurassic World Baryonyx Face Off: The Treasure Hunt 75935 Building Kit  434 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07PX3VP73/?tag=tolees-20'
 descuento: '20.00'
 average: '48.382'

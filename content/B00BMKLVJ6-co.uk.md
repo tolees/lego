@@ -16,6 +16,7 @@ comparePrice: 309.99 GBP
 prodname: 'LEGO 31313 Mindstorms EV3 Robotics Kit  5 in 1 App Controlled Model with Programmable Interactive Toy Robot  RC  Servo Motor and Bluetooth Hub  Coding Skills Boost Set for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00BMKLVJ6/?tag=tolees0a-21'
 descuento: '15.16'
 average: '255.37352941176474'

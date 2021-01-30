@@ -16,6 +16,7 @@ comparePrice: 24.36 EUR
 prodname: 'LEGO 76123 - Marvel Super Heroes Captain America: Outrider-Attacke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNTTF41/?tag=tolees0ca-21'
 descuento: '26.11'
 average: '18.41'

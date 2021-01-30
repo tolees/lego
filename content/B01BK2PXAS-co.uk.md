@@ -16,6 +16,7 @@ comparePrice: 89.99 GBP
 prodname: 'LEGO 10907 DUPLO Town World Animals Adventure Learning Toys for Toddlers 2 - 5 Years Old with Airplane and 15 Duplo Animals'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01BK2PXAS/?tag=tolees0a-21'
 descuento: '29.99'
 average: '63.123333333333335'

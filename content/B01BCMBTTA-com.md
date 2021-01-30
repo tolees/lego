@@ -16,6 +16,7 @@ comparePrice: 11.11 USD
 prodname: 'LEGO Star Wars: The Force Awakens - Wii U Standard Edition'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01BCMBTTA/?tag=tolees-20'
 descuento: '29.97'
 average: '9.82'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LEGO 41373 - Friends Lustiges Oktopus-Karussell  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTK9FJ9/?tag=tolees0ca-21'
 descuento: '32.51'
 average: '28.39962962962964'

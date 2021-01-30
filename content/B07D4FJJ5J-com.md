@@ -16,6 +16,7 @@ comparePrice: 18.99 USD
 prodname: 'LEGO Super Heroes: Avengers: Infinity War MiniFigure - MK 43 Iron Man  Exclusive  76105'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07D4FJJ5J/?tag=tolees-20'
 descuento: '21.01'
 average: '16.994999999999997'

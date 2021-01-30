@@ -16,6 +16,7 @@ comparePrice: 19.7 USD
 prodname: 'LEGO DC Super-Villains - PlayStation 4'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07DFD1J62/?tag=tolees-20'
 descuento: '18.78'
 average: '15.278571428571428'

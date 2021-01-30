@@ -16,6 +16,7 @@ comparePrice: 23.75 GBP
 prodname: 'LEGO 9002144 Yellow Brick Kids Light Up Alarm Clock | yelow | plastic | 2.75 inches tall | LCD display | boy girl | official'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B003M2BXX6/?tag=tolees0a-21'
 descuento: '15.83'
 average: '19.99'

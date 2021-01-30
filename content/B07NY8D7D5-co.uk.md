@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 75965 Harry Potter and The Goblet of Fire The Rise of Voldemort Collectible Building Set for Wizarding World Fans'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07NY8D7D5/?tag=tolees0a-21'
 descuento: '32.52'
 average: '15.025454545454545'

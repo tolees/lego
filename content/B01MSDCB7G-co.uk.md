@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO Ninjago Movie 23480K Lego Kai Classic Costume  7-8 Years'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01MSDCB7G/?tag=tolees0a-21'
 descuento: '17.51'
 average: '15.595263157894736'

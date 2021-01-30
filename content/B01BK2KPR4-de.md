@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Duplo 10910 - U-Boot-Abenteuer  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BK2KPR4/?tag=tolees0ca-21'
 descuento: '29.46'
 average: '14.350000000000001'

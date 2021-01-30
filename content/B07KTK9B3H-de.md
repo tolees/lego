@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DC Batman 76137 - Batman vs. der Raub des Riddler  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTK9B3H/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '9.711290322580647'

@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'LEGO Hidden Side Paranormal Intercept Bus 3000 70423 Augmented Reality [AR] Building Kit with Toy Bus  Toy App allows for endless Creative Play with Ghost Toys and Vehicle  689 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07PX3VML9/?tag=tolees-20'
 descuento: '21.65'
 average: '47.403157894736836'

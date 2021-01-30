@@ -16,6 +16,7 @@ comparePrice: 59.99 GBP
 prodname: 'LEGO 75935 Jurassic World Baryonyx Face-Off: The Treasure Hunt Dinosaur Playset with Off Road Buggy Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTW32JP/?tag=tolees0a-21'
 descuento: '19.17'
 average: '43.894'

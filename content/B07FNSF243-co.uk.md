@@ -16,6 +16,7 @@ comparePrice: 44.99 GBP
 prodname: 'LEGO 76115 Marvel Super Heroes Spider Mech vs. Venom Battle Action Figures Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNSF243/?tag=tolees0a-21'
 descuento: '27.85'
 average: '31.62'

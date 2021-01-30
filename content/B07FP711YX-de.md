@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Star Wars 75238 Action Battle Endor Attacke  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP711YX/?tag=tolees0ca-21'
 descuento: '26.88'
 average: '21.930499999999995'

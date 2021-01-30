@@ -16,6 +16,7 @@ comparePrice: 7.99 GBP
 prodname: 'LEGO 71017 Minifigure Batman Movie'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01J41M9BI/?tag=tolees0a-21'
 descuento: '38.80'
 average: '4.406400000000001'

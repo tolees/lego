@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Marvel Superheroes 2 [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '22.787999999999997'

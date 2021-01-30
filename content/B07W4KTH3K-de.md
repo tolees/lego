@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'LEGO 43176 - Arielle Märchenbuch  Disney Princess  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W4KTH3K/?tag=tolees0ca-21'
 descuento: '23.70'
 average: '14.29'

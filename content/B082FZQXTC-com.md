@@ -16,6 +16,7 @@ comparePrice: 69.99 USD
 prodname: 'CREATOR 2019 Lego Gingerbread House Mini Limited Edition 40337'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B082FZQXTC/?tag=tolees-20'
 descuento: '60.07'
 average: '27.95'

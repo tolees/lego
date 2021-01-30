@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Marvel Avengers Truck Take-Down 76143 Captain America and Hawkeye Superhero Action  Cool Minifigures and Vehicles  New 2020  477 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WMJYVQR/?tag=tolees-20'
 descuento: '20.01'
 average: '31.99'

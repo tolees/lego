@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO The Powerpuff Girls Mojo Jojo Strikes 41288 Building Kit  228 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07BL627K8/?tag=tolees-20'
 descuento: '29.24'
 average: '21.22'

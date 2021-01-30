@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 21158 Minecraft The Panda Nursery Building Set with Alex and Animal Figures  Toys for Kids 7+ Years Old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W6QTV3J/?tag=tolees0a-21'
 descuento: '34.97'
 average: '13.633636363636365'

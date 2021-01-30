@@ -16,6 +16,7 @@ comparePrice: 55.19 USD
 prodname: 'LEGO Storage Head  Large  Boy  9-1/2 x 9-1/2 x 10-3/4 Inches  Yellow'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B003NE5L86/?tag=tolees-20'
 descuento: '54.72'
 average: '24.917142857142856'

@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'LEGO City Sky Police Diamond Heist 60209 Building Kit  400 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GWKHLRV/?tag=tolees-20'
 descuento: '27.50'
 average: '43.49'

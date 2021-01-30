@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Duplo 10572 - Große Steinebox  Kreatives Lernspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00F3B2TVO/?tag=tolees0ca-21'
 descuento: '33.44'
 average: '19.96'

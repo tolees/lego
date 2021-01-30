@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Classic Basic Brick Set 11002 Building Kit  300 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GXMPSRS/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

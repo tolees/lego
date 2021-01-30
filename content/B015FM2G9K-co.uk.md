@@ -16,6 +16,7 @@ comparePrice: 10.08 GBP
 prodname: 'LEGO DesignLE51504 West Design Junior Selection 9 Pieces Graphite Pencils Pack  Multi-Color  60 x 80 cm'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B015FM2G9K/?tag=tolees0a-21'
 descuento: '35.62'
 average: '6.49'

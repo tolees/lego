@@ -16,6 +16,7 @@ comparePrice: 44.99 GBP
 prodname: 'LEGO 41374 Friends Andrea’s Pool Party Set with Andrea and Stephanie Mini-Dolls  DJ Box  Aquarium and Fish'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTK94T6/?tag=tolees0a-21'
 descuento: '28.87'
 average: '37.33076923076923'

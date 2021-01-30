@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO Star Wars The Last Jedi 75528 Rey Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B06WLL3M8Z/?tag=tolees0a-21'
 descuento: '50.03'
 average: '13.727500000000001'

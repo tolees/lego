@@ -16,6 +16,7 @@ comparePrice: 44.95 USD
 prodname: 'Lego Batman Movie  The  2017  [Blu-ray]'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B06VTJ5FLL/?tag=tolees-20'
 descuento: '33.28'
 average: '29.99'

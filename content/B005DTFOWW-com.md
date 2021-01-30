@@ -16,6 +16,7 @@ comparePrice: 24.95 USD
 prodname: 'LEGO Quinlan VOS w Green Lightsaber Star Wars Minifigure'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B005DTFOWW/?tag=tolees-20'
 descuento: '63.97'
 average: '8.99'

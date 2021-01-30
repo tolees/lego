@@ -16,6 +16,7 @@ comparePrice: 38.98 EUR
 prodname: 'LEGO 76143 Marvel Avengers Superhelden – Truck-Festnahme Set Der Fall mit Captain America und Hawkeye Minifiguren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WLJJX99/?tag=tolees0ca-21'
 descuento: '22.88'
 average: '30.06'

@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'Lego Star Wars Poly Top Flannel Pants Boys 2 piece Pajamas Set  8  Grey/Multi '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GJTGS33/?tag=tolees-20'
 descuento: '25.01'
 average: '14.99'

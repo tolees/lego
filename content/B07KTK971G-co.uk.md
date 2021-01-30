@@ -16,6 +16,7 @@ comparePrice: 7.99 GBP
 prodname: 'LEGO 41387 Friends Olivia s Summer Heart Box Toy  Collectible Dolls Set'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTK971G/?tag=tolees0a-21'
 descuento: '24.91'
 average: '6.7425'

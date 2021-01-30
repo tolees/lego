@@ -16,6 +16,7 @@ comparePrice: 7.99 GBP
 prodname: 'LEGO 41355 Friends Emma s Heart Box Set  Emma mini-doll and Acessories  Collectible Toys for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNTMWLY/?tag=tolees0a-21'
 descuento: '37.42'
 average: '5.0'

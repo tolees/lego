@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'LEGO Jungen Boy Star WARS-CM-50240-CAP Kappe  Schwarz  Black 995   54'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GC18FFG/?tag=tolees0ca-21'
 descuento: '49.92'
 average: '8.99'

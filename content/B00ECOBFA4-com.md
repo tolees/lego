@@ -16,6 +16,7 @@ comparePrice: 16.99 USD
 prodname: 'The LEGO Movie Videogame - Xbox 360 Standard Edition'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00ECOBFA4/?tag=tolees-20'
 descuento: '46.91'
 average: '9.02'

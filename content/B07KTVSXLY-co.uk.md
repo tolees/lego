@@ -16,6 +16,7 @@ comparePrice: 8.99 GBP
 prodname: 'LEGO 70681 NINJAGO Spinjitzu Slam - Jay  Tornado Spinner Launcher and Shooter Set  Action Toys for Boys and Girls'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTVSXLY/?tag=tolees0a-21'
 descuento: '33.26'
 average: '6.0'

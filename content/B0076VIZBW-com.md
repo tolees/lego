@@ -16,6 +16,7 @@ comparePrice: 4.99 USD
 prodname: 'LEGO Classic Brick Separator 630 Building Kit  1 Piece '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0076VIZBW/?tag=tolees-20'
 descuento: '20.04'
 average: '3.99'

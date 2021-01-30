@@ -16,6 +16,7 @@ comparePrice: 14.99 USD
 prodname: 'LEGO Creator 3in1 Futuristic Flyer 31086 Building Kit  157 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GWZNF9B/?tag=tolees-20'
 descuento: '20.01'
 average: '11.99'

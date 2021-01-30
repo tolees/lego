@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Lego 41383 Friends Olivias Hamster-Spielplatz  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP2GRYJ/?tag=tolees0ca-21'
 descuento: '27.03'
 average: '7.585714285714285'

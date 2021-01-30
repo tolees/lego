@@ -16,6 +16,7 @@ comparePrice: 17.99 GBP
 prodname: 'LEGO 10867 DUPLO Town Farmers  Market Set  Building Bricks Farm Toy for Kids Age 2-5'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B075GP5M1V/?tag=tolees0a-21'
 descuento: '16.06'
 average: '11.744000000000002'

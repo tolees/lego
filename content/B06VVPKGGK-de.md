@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEGO Super Heroes 76085 - Das Kräftemessen um Atlantis'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06VVPKGGK/?tag=tolees0ca-21'
 descuento: '32.37'
 average: '17.695'

@@ -16,6 +16,7 @@ comparePrice: 97.47 EUR
 prodname: 'LEGO DC Batman Clayface 76122 - Invasion in die Bathöhle  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTVR1J4/?tag=tolees0ca-21'
 descuento: '26.01'
 average: '71.0558620689655'

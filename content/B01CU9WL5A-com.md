@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO DUPLO Town Truck & Tracked Excavator 10812 Dump Truck and Excavator Kids Construction Toy with DUPLO Construction Worker Figures  26 pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01CU9WL5A/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

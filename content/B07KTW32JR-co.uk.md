@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 75934 avec 3 Figurines Dont et Jurassic World Dilophosaurus on The Loose Set with 3 Minifigures  Drone and Dinosaur Figure  Multicolour'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTW32JR/?tag=tolees0a-21'
 descuento: '25.61'
 average: '17.455'

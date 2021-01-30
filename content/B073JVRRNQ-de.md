@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'The LEGO NINJAGO Movie Videogame - [Nintendo Switch]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073JVRRNQ/?tag=tolees0ca-21'
 descuento: '23.92'
 average: '37.386'

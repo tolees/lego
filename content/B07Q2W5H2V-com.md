@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO Overwatch Junkrat & Roadhog 75977 Building Kit  Overwatch Toy for Girls and Boys Aged 9+  380 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07Q2W5H2V/?tag=tolees-20'
 descuento: '20.04'
 average: '39.97'

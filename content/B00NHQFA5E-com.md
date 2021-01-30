@@ -16,6 +16,7 @@ comparePrice: 16.99 USD
 prodname: 'LEGO Classic Creative Bricks 10692 Building Blocks  Learning Toy  221 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00NHQFA5E/?tag=tolees-20'
 descuento: '20.01'
 average: '13.59'

@@ -16,6 +16,7 @@ comparePrice: 7.99 GBP
 prodname: 'LEGO 41386 Friends Stephanie’s Summer Heart Box Toy  Collectible Dolls Set'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTTSJTZ/?tag=tolees0a-21'
 descuento: '30.04'
 average: '8.166'

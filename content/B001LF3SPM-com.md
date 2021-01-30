@@ -16,6 +16,7 @@ comparePrice: 9.99 USD
 prodname: 'LEGO Racers Desert Viper'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B001LF3SPM/?tag=tolees-20'
 descuento: '29.83'
 average: '7.008333333333333'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO City Arktis-Eiskran auf Stelzen 60192 Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0765BGB1J/?tag=tolees0ca-21'
 descuento: '18.96'
 average: '16.2'

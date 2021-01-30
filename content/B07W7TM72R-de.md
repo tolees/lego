@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO 41401 Friends Stephanies magischer Würfel  Sammlerbauset  Mini-Spielset  tragbares Spielzeug für unterwegs'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '8.32'

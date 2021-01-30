@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Dittzz Technic Auto Bausteine   Auto Bauset  3358 Teiles Bausteine Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085XX2PWT/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '139.99'

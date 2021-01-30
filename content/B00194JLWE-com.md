@@ -16,6 +16,7 @@ comparePrice: 14.99 USD
 prodname: 'Lego Star Wars Super Battle Droid Minifigure'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00194JLWE/?tag=tolees-20'
 descuento: '34.96'
 average: '9.356000000000002'

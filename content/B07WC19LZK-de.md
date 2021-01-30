@@ -16,6 +16,7 @@ comparePrice: 14.61 EUR
 prodname: 'LEGO 10926 DUPLO Kinderzimmer-Spielbox für Kleinkinder ab 2 Jahren  Große Steine Lernspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WC19LZK/?tag=tolees0ca-21'
 descuento: '24.78'
 average: '10.94111111111111'

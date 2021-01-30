@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO NINJAGO 70664 - Spinjitzu Lloyd vs. Garmadon'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP76GL4/?tag=tolees0ca-21'
 descuento: '29.01'
 average: '14.263333333333332'

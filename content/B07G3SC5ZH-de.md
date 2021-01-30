@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO Harry Potter und der Gefangene von Askaban 75947 - Hagrids Hütte: Seidenschnabels Rettung  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G3SC5ZH/?tag=tolees0ca-21'
 descuento: '15.42'
 average: '53.414166666666674'

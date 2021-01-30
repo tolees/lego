@@ -16,6 +16,7 @@ comparePrice: 41.99 USD
 prodname: 'LEGO Storage Brick 8 Black'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B003NE5L9K/?tag=tolees-20'
 descuento: '29.32'
 average: '29.68'

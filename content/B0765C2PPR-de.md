@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO Friends Das große Rennen 41352 Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0765C2PPR/?tag=tolees0ca-21'
 descuento: '35.91'
 average: '37.54894736842106'

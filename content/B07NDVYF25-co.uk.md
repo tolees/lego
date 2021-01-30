@@ -16,6 +16,7 @@ comparePrice: 29.99 GBP
 prodname: 'LEGO Marvel Collection for PlayStation 4'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07NDVYF25/?tag=tolees0a-21'
 descuento: '34.98'
 average: '20.645'

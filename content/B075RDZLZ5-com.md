@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Minecraft The Zombie Cave 21141 Building Kit with Popular Minecraft Characters Steve and Zombie Figure  separate TNT Toy  Coal and more for Creative Play  241 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075RDZLZ5/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 16.62 GBP
 prodname: 'LEGO 60192 City Arctic Expedition Arctic Ice Crawler Building Set with Heavy Lift Crane  Winter Adventure Toys for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0765BGB1J/?tag=tolees0a-21'
 descuento: '29.00'
 average: '11.566666666666666'

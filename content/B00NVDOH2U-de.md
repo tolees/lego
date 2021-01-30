@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'LEGO Classic 10700 - Bauplatte'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NVDOH2U/?tag=tolees0ca-21'
 descuento: '27.53'
 average: '6.09'

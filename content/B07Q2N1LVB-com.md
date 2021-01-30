@@ -16,6 +16,7 @@ comparePrice: 9.99 USD
 prodname: 'LEGO DC Batman: Batman vs The Riddler Robbery 76137 Building Kit  59 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07Q2N1LVB/?tag=tolees-20'
 descuento: '20.02'
 average: '7.99'

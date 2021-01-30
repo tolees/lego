@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 10895 DUPLO Emmet and Lucy’s Visitors from the DUPLO Planet'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNSDZCZ/?tag=tolees0a-21'
 descuento: '35.09'
 average: '17.783333333333335'

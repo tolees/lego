@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: '3X DC-15 Blaster Gewehr Custom Waffen für Lego Star Wars Figuren -Schwarz-'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078BXP33Q/?tag=tolees0ca-21'
 descuento: '30.77'
 average: '2.7'

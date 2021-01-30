@@ -16,6 +16,7 @@ comparePrice: 79.99 USD
 prodname: 'LEGO NINJAGO Legacy Monastery of Spinjitzu 70670 Battle Toy Building Kit includes Ninja Toy Weapons and Training Equipment for Creative Play  1 070 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GZ4YMSP/?tag=tolees-20'
 descuento: '18.74'
 average: '65.0'

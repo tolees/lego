@@ -16,6 +16,7 @@ comparePrice: 44.99 GBP
 prodname: 'LEGO 21163 Minecraft The Redstone Battle Building Set with Golem and Monster Figures  Toys for Kids 8+ Years Old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B082BR5JG3/?tag=tolees0a-21'
 descuento: '25.56'
 average: '33.49'

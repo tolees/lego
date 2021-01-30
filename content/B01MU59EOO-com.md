@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO 30523 Batman Movie The Joker Battle Training polybag Mini Set'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01MU59EOO/?tag=tolees-20'
 descuento: '56.93'
 average: '8.998666666666665'

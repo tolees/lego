@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Lego Wear Mädchen LWSIMONE 611-SWEATSHIRT Sweatshirt  Grau  Grey Melange 921    Herstellergröße: 128 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWN21N6/?tag=tolees0ca-21'
 descuento: '70.01'
 average: '11.98'

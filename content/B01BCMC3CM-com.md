@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Star Wars: The Force Awakens - Xbox 360 Standard Edition'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01BCMC3CM/?tag=tolees-20'
 descuento: '67.19'
 average: '12.335'

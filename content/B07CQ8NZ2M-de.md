@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'HUISHENG Build on Brick Tasse  Becher zur Junge oder Männer Kinder Papa Junge  Ostern Geburtstag Einschulung Vatertag Weihnachten Geschenk Idee  Kompatibel für Lego  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CQ8NZ2M/?tag=tolees0ca-21'
 descuento: '18.81'
 average: '12.95'

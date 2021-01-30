@@ -16,6 +16,7 @@ comparePrice: 24.99 USD
 prodname: 'LEGO DUPLO Town Airport 10871 Building Blocks  29 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075LX4WVN/?tag=tolees-20'
 descuento: '20.01'
 average: '19.99'

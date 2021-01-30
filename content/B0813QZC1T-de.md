@@ -16,6 +16,7 @@ comparePrice: 38.98 EUR
 prodname: 'LEGO 41398 4+ – Stephanies Familienhaus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0813QZC1T/?tag=tolees0ca-21'
 descuento: '27.50'
 average: '28.26'

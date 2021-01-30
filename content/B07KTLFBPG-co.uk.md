@@ -16,6 +16,7 @@ comparePrice: 44.99 GBP
 prodname: 'LEGO 31095 Creator 3in1 Fairground Carousel Set  Fair Fun Adventures  Space Themed Model'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTLFBPG/?tag=tolees0a-21'
 descuento: '30.05'
 average: '32.233333333333334'

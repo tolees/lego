@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO DC Batman 76120 - Batwing und der Riddler-Überfall  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTW3NB7/?tag=tolees0ca-21'
 descuento: '26.01'
 average: '39.47357142857142'

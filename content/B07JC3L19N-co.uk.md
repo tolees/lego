@@ -16,6 +16,7 @@ comparePrice: 54.99 GBP
 prodname: 'LEGO 75974 Overwatch Bastion Toy with Ganymede Figure'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07JC3L19N/?tag=tolees0a-21'
 descuento: '25.00'
 average: '40.93444444444445'

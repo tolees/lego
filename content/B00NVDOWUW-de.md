@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Classic 10692 - Bausteine-Set  Spielzeug mit Lerncharakter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NVDOWUW/?tag=tolees0ca-21'
 descuento: '26.68'
 average: '10.99'

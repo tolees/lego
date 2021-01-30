@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO Disney Princess Ariel’s Royal Celebration Boat 41153 Children s Toy Construction Set  380 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075NTK9YS/?tag=tolees-20'
 descuento: '15.42'
 average: '42.28'

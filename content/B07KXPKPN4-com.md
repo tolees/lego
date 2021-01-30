@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'The LEGO Movie 2 Videogame - Xbox One'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07KXPKPN4/?tag=tolees-20'
 descuento: '75.02'
 average: '13.323333333333334'

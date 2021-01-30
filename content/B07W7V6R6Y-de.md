@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO 42103 Technic Dragster Rennauto oder Hot Road  2-in-1 Set mit Rückziehmotor  Sammlung von Dragster Rennfahrzeugen'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7V6R6Y/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '17.5342248062016'
@@ -27,10 +28,10 @@ There's a deal [LEGO 42103 Technic Dragster Rennauto oder Hot Road  2-in-1 Set m
 
 ℹ️:
 
-- Mit eingerasteter Wheelie-Stütze kann das Modell atemberaubende Wheelies machen. Mit allen vier Rädern auf der Straße lassen sich jedoch auch Geschwindigkeitsrekorde aufstellen
-- Zurückziehen und loslassen. Mehr ist wirklich nicht nötig. Sogar junge Rennfahrer sind in der Lage, Nervenkitzel eines rasanten Autorennens nachzustellen
-- Mithilfe der digitalen Anleitung Instructions PLUS in der kostenlosen LEGO Life App mit Funktionen zum Heranzoomen und Drehen lässt sich jedoch auch noch eine unterhaltsame Baumethode entdecken
 - Dieses zwei -in-1-Modell bietet jeden Tag tollen Motorsport, denn der Dragster Rennwagen lässt sich auch noch in einen coolen Hot Rod umbauen, genau wie bei einem echten Dragster
+- Mit eingerasteter Wheelie-Stütze kann das Modell atemberaubende Wheelies machen. Mit allen vier Rädern auf der Straße lassen sich jedoch auch Geschwindigkeitsrekorde aufstellen
+- Mithilfe der digitalen Anleitung Instructions PLUS in der kostenlosen LEGO Life App mit Funktionen zum Heranzoomen und Drehen lässt sich jedoch auch noch eine unterhaltsame Baumethode entdecken
 - Einmal gebaut, geht der Spaß weiter. Baue die Mini-Ampel ein, das Auto dann zurückziehen und loslassen
+- Zurückziehen und loslassen. Mehr ist wirklich nicht nötig. Sogar junge Rennfahrer sind in der Lage, Nervenkitzel eines rasanten Autorennens nachzustellen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7V6R6Y/?tag=tolees0ca-21)

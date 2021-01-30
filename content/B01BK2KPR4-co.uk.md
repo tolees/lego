@@ -16,6 +16,7 @@ comparePrice: 14.99 GBP
 prodname: 'LEGO 10910 DUPLO Town Submarine Adventure Bath Toy  Air Bubbles  Set for 2 Year Old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01BK2KPR4/?tag=tolees0a-21'
 descuento: '19.95'
 average: '12.0'

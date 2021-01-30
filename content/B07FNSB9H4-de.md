@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Star Wars 75236 - Duell um die Starkiller-Basis  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNSB9H4/?tag=tolees0ca-21'
 descuento: '26.91'
 average: '16.159000000000002'

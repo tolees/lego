@@ -16,6 +16,7 @@ comparePrice: 7.98 GBP
 prodname: 'The LEGO Batman Movie MiniFigure - Batman w/ Utility Belt and Bat-a-Rang'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01MT9CCZG/?tag=tolees0a-21'
 descuento: '24.94'
 average: '5.192222222222222'

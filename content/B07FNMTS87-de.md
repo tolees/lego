@@ -16,6 +16,7 @@ comparePrice: 48.73 EUR
 prodname: 'LEGO DUPLO 10903 - Feuerwehrwache'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNMTS87/?tag=tolees0ca-21'
 descuento: '16.03'
 average: '36.19611111111111'

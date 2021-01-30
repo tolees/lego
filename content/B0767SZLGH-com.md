@@ -16,6 +16,7 @@ comparePrice: 15.99 USD
 prodname: 'LEGO Star Wars Last Jedi Minifigure - Supreme Leader Snoke  75190 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0767SZLGH/?tag=tolees-20'
 descuento: '68.79'
 average: '4.8100000000000005'

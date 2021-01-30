@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lego Wear Mädchen LWTIPPI 608-T-SHIRT L/S Langarmshirt  Gelb  Light Orange 275    Herstellergröße: 116 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWN712V/?tag=tolees0ca-21'
 descuento: '57.33'
 average: '12.78'

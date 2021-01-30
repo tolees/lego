@@ -16,6 +16,7 @@ comparePrice: 21.77 GBP
 prodname: 'Lego Kids Analogue Quartz Watch with Plastic Strap 8020189'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B009IGZSTK/?tag=tolees0a-21'
 descuento: '42.58'
 average: '12.5'

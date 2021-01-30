@@ -16,6 +16,7 @@ comparePrice: 19.95 USD
 prodname: 'LEGO Star Wars Minifigure - Luke Skywalker  Bacta Tank Outfit  75203 2018 Version'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JLXTZPG/?tag=tolees-20'
 descuento: '80.00'
 average: '5.485'

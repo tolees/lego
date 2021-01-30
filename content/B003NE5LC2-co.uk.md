@@ -16,6 +16,7 @@ comparePrice: 19.19 GBP
 prodname: 'LEGO Brick 4 Knobs Stackable Storage Box  White  5.7 Litre'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B003NE5LC2/?tag=tolees0a-21'
 descuento: '27.10'
 average: '15.729375000000001'

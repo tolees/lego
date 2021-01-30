@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 11004 Classic Windows of Creativity Brickset  Fun Colourful Toy Bricks'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTK6PP1/?tag=tolees0a-21'
 descuento: '24.97'
 average: '18.746666666666666'

@@ -16,6 +16,7 @@ comparePrice: 29.23 EUR
 prodname: 'LEGO Classic 11003 - Bausteine - Witzige Figuren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP2KPWS/?tag=tolees0ca-21'
 descuento: '30.28'
 average: '20.63037037037037'

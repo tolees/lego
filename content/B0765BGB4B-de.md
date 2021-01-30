@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO 10881 Disney Mickys Boot  Bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0765BGB4B/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '22.656666666666666'

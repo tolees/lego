@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEGO Nexo Ritter macht Strandtuch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N63BUSH/?tag=tolees0ca-21'
 descuento: '64.03'
 average: '8.99'

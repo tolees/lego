@@ -16,6 +16,7 @@ comparePrice: 14.99 USD
 prodname: 'Lego Star Wars: Droid Tales'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0189OU0JY/?tag=tolees-20'
 descuento: '33.36'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 30.96 GBP
 prodname: 'LEGO Storage Brick 8 Knobs  Stackable Storage Box  12 l  White'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B003NE5LA4/?tag=tolees0a-21'
 descuento: '17.89'
 average: '24.90833333333334'

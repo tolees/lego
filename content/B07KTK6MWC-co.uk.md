@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 41372 Friends Stephanie’s Gymnastics Show Playset with 3 Sport Disciplines Accessories  Stephanie and Mia Mini Dolls'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTK6MWC/?tag=tolees0a-21'
 descuento: '36.01'
 average: '18.895'

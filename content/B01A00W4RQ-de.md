@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'LEGO Stadt Blaues Auto 30349 pe-beutel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01A00W4RQ/?tag=tolees0ca-21'
 descuento: '37.42'
 average: '5.0'

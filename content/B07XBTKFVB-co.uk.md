@@ -16,6 +16,7 @@ comparePrice: 17.99 GBP
 prodname: 'LEGO 41906 DOTS Pineapple Pencil Holder DIY Desk Accessories Decorations Set  Art and Craft for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07XBTKFVB/?tag=tolees0a-21'
 descuento: '33.30'
 average: '12.748749999999998'

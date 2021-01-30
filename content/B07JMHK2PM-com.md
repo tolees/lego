@@ -16,6 +16,7 @@ comparePrice: 99.99 USD
 prodname: 'LEGO THE LEGO MOVIE 2 Queen Watevra’s So Not Evil Space Palace 70838 Building Kit  995 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JMHK2PM/?tag=tolees-20'
 descuento: '20.00'
 average: '72.72333333333333'

@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO DUPLO Minnie’s Birthday Party 10873 Building Blocks  21 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07BHGZRKM/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

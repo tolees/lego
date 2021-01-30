@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 76118 DC Mr. Freeze Batcycle Battle 2 in1 Bike Set  Batman and Robin Cycle Chase  multicolour'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTLHZVN/?tag=tolees0a-21'
 descuento: '34.97'
 average: '13.626666666666667'

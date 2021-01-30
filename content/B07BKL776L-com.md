@@ -16,6 +16,7 @@ comparePrice: 14.99 USD
 prodname: 'LEGO NINJAGO Zane - Dragon Master 70648 Building Kit  92 Piece '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07BKL776L/?tag=tolees-20'
 descuento: '28.55'
 average: '10.71'

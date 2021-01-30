@@ -16,6 +16,7 @@ comparePrice: 48.73 EUR
 prodname: 'LEGO 31095 - Creator 3-in-1-Set Jahrmarktkarussell'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTLFBPG/?tag=tolees0ca-21'
 descuento: '20.40'
 average: '35.244545454545445'

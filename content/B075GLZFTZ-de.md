@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO Duplo 10869 - Ausflug auf den Bauernhof  Lernspielzeug für Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075GLZFTZ/?tag=tolees0ca-21'
 descuento: '26.67'
 average: '43.99'

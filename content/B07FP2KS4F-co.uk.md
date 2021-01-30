@@ -16,6 +16,7 @@ comparePrice: 17.99 GBP
 prodname: 'LEGO Movie 2 70821 Emmet and Benny’s Build and Fix Workshop'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FP2KS4F/?tag=tolees0a-21'
 descuento: '38.85'
 average: '11.695'

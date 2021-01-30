@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'Lego Marvel Collection - Xbox One'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07NDW7NM2/?tag=tolees-20'
 descuento: '66.68'
 average: '17.32777777777778'

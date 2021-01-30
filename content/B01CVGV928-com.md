@@ -16,6 +16,7 @@ comparePrice: 24.99 USD
 prodname: 'LEGO STAR WARS Jyn Erso 75119 Star Wars Toy'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01CVGV928/?tag=tolees-20'
 descuento: '67.39'
 average: '9.94888888888889'

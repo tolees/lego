@@ -16,6 +16,7 @@ comparePrice: 34.99 USD
 prodname: 'LEGO Storage Box'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00PLNYS22/?tag=tolees-20'
 descuento: '19.06'
 average: '28.32'

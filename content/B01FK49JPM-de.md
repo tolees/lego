@@ -16,6 +16,7 @@ comparePrice: 19.33 EUR
 prodname: 'Lego 90029 LED Lampe Star Wars  Darth Vader  20 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FK49JPM/?tag=tolees0ca-21'
 descuento: '27.63'
 average: '18.284772727272724'

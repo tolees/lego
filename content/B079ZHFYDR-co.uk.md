@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DISK66267K Classic DC Costume  Boys  Robin  Medium'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B079ZHFYDR/?tag=tolees0a-21'
 descuento: '67.01'
 average: '32.99'

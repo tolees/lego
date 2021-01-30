@@ -16,6 +16,7 @@ comparePrice: 20.11 GBP
 prodname: 'Room Copenhagen LEGO Brick 4 Knobs Stackable Storage Box  Cool Yellow  5.7 Litre'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00FWQ8DEC/?tag=tolees0a-21'
 descuento: '42.91'
 average: '11.48'

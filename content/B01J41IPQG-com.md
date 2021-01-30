@@ -16,6 +16,7 @@ comparePrice: 282.9 USD
 prodname: 'LEGO Batcave Break in 70909'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01J41IPQG/?tag=tolees-20'
 descuento: '43.44'
 average: '159.495'

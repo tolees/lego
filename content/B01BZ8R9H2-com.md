@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Star Wars Minifigure - Boba Fett Bounty Hunter with Blaster Gun'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01BZ8R9H2/?tag=tolees-20'
 descuento: '16.64'
 average: '23.5'

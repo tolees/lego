@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO 41409 Friends Emmas magischer Würfel – Spielzeuggeschäft  Bauset  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XF16SR1/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '7.806666666666667'

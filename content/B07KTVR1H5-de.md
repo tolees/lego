@@ -16,6 +16,7 @@ comparePrice: 38.98 EUR
 prodname: 'LEGO City 60232 - Große Werkstatt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTVR1H5/?tag=tolees0ca-21'
 descuento: '17.50'
 average: '29.42619047619047'

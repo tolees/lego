@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 76123 Marvel Avengers Endgame Outriders Attack Captain America’s Motorcycle Toy  Super Heroes Playset'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNTTF41/?tag=tolees0a-21'
 descuento: '20.01'
 average: '15.880416666666667'

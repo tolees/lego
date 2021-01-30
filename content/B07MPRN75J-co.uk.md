@@ -16,6 +16,7 @@ comparePrice: 18.5 GBP
 prodname: 'Lego Girl s Friends cm Sweatshirt  Pink  Pink 468   104'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07MPRN75J/?tag=tolees0a-21'
 descuento: '55.68'
 average: '8.945'

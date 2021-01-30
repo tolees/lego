@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'Lego Stormtrooper Torch'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B007NWQK34/?tag=tolees-20'
 descuento: '53.32'
 average: '14.0'

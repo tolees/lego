@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit Minifigur und Gliederarmband zum Zusammenbauen   schwarz/weiß   Kunststoff   Gehäusedurchmesser 25 mm   analoge Quarzuhr   Junge/ Mädchen   offiziell'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003WYZT2A/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '17.99'

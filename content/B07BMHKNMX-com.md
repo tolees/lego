@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Disney Pixar s The Incredibles - PS4'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07BMHKNMX/?tag=tolees-20'
 descuento: '54.99'
 average: '15.993333333333334'

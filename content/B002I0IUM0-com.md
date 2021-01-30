@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Star Wars III: The Clone Wars'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B002I0IUM0/?tag=tolees-20'
 descuento: '83.89'
 average: '24.857499999999998'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO Star Wars 75161 - Microfighter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J41KJ4M/?tag=tolees0ca-21'
 descuento: '45.85'
 average: '5.98625'

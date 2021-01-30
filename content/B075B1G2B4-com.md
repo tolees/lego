@@ -16,6 +16,7 @@ comparePrice: 15.99 USD
 prodname: 'LEGO Star Wars - Supreme Leader Snoke with Palpatine Hologram'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075B1G2B4/?tag=tolees-20'
 descuento: '60.04'
 average: '5.93375'

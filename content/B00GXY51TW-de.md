@@ -16,6 +16,7 @@ comparePrice: 19.69 EUR
 prodname: 'The LEGO Movie Videogame - [PlayStation Vita]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21'
 descuento: '75.77'
 average: '11.55'

@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Harry Potter Advent Calendar 75964 Building Kit  305 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07NRSY3RW/?tag=tolees-20'
 descuento: '21.23'
 average: '30.916923076923077'

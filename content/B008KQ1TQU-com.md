@@ -16,6 +16,7 @@ comparePrice: 31.99 USD
 prodname: 'LEGO Storage Brick 4  Yellow'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B008KQ1TQU/?tag=tolees-20'
 descuento: '41.45'
 average: '18.73'

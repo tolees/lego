@@ -16,6 +16,7 @@ comparePrice: 15.99 GBP
 prodname: 'LEGO 10767 4+ Toy Story 4 Duke Caboom’s Stunt Show with Woody Minifigure'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07JBQLMBJ/?tag=tolees0a-21'
 descuento: '43.78'
 average: '11.537857142857142'

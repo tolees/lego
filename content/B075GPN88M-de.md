@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'LEGO Minecraft 21141 - Zombiehöhle Beliebtes  Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075GPN88M/?tag=tolees0ca-21'
 descuento: '23.19'
 average: '14.7625'

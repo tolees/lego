@@ -16,6 +16,7 @@ comparePrice: 8.99 GBP
 prodname: 'LEGO 43173 Disney Princess Aurora s Royal Carriage Playset  Sleeping Beauty Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TJ1FQ/?tag=tolees0a-21'
 descuento: '27.81'
 average: '6.49'

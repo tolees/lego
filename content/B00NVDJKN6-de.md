@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Classic 10701 - Graue Bauplatte  Lernspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NVDJKN6/?tag=tolees0ca-21'
 descuento: '32.02'
 average: '9.69'

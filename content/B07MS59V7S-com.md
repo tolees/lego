@@ -16,6 +16,7 @@ comparePrice: 14.97 USD
 prodname: 'The LEGO Movie 2: The Second Part  Special Edition/DVD '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07MS59V7S/?tag=tolees-20'
 descuento: '49.90'
 average: '7.5'

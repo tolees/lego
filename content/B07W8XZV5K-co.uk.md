@@ -16,6 +16,7 @@ comparePrice: 4.97 GBP
 prodname: 'LEGO 10917 DUPLO My First Fire Truck Toy  Fire-Engine Starter Set for Toddlers 1 .5 Year Old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=tolees0a-21'
 descuento: '29.58'
 average: '3.5'

@@ -16,6 +16,7 @@ comparePrice: 4.99 USD
 prodname: 'LEGO Minifigures DC Super Heroes Series 71026 Collectible Set  New 2020  1 of 16 to Collects  Featuring Characters from DC Universe Comic Books'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WF9TGFH/?tag=tolees-20'
 descuento: '20.04'
 average: '4.79'

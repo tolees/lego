@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Star Wars: The Force Awakens'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01BCMCDBI/?tag=tolees-20'
 descuento: '33.57'
 average: '13.49'

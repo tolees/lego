@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Star Wars: The Force Awakens Duel on Starkiller Base 75236 Building Kit  191 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JMXW2Z1/?tag=tolees-20'
 descuento: '20.01'
 average: '16.79'

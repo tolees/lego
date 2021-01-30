@@ -16,6 +16,7 @@ comparePrice: 9.95 USD
 prodname: 'LEGO Friends/City Minifigure - Baby Ola  in Blanket  New for 2017! Very Cute'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B077M7VS1Z/?tag=tolees-20'
 descuento: '30.15'
 average: '6.95'

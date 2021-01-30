@@ -16,6 +16,7 @@ comparePrice: 18.94 GBP
 prodname: 'LEGO Movie 70817: Batman and Super Angry Kitty Attack'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00NVDJQK8/?tag=tolees0a-21'
 descuento: '47.25'
 average: '11.66'

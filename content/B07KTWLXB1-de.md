@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO 31096 - Creator 3-in-1-Set Doppelrotor-Hubschrauber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTWLXB1/?tag=tolees0ca-21'
 descuento: '26.01'
 average: '35.16953488372093'

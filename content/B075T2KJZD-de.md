@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LEGO Ninjago 70640 - Hauptquartier der Motorradfahrer  Bauspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21'
 descuento: '17.50'
 average: '31.485'

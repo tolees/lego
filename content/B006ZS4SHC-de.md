@@ -16,6 +16,7 @@ comparePrice: 244.95 EUR
 prodname: 'LEGO Technic 9396 - Großer Helikopter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006ZS4SHC/?tag=tolees0ca-21'
 descuento: '42.85'
 average: '140.0'

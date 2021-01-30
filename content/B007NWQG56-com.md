@@ -16,6 +16,7 @@ comparePrice: 16.99 USD
 prodname: 'IQ Lego Star Wars Darth Vader LED Head Lamp'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B007NWQG56/?tag=tolees-20'
 descuento: '24.13'
 average: '13.892'

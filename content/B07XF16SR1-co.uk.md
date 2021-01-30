@@ -16,6 +16,7 @@ comparePrice: 7.99 GBP
 prodname: 'LEGO 41409 Friends Emma s Shopping Play Cube Series 2 Toy Shop  Collectible Mini Set  Portable Travel Case'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07XF16SR1/?tag=tolees0a-21'
 descuento: '27.28'
 average: '5.81'

@@ -16,6 +16,7 @@ comparePrice: 7.99 GBP
 prodname: 'Lego Legends of Chima Cragger Boys Pyjamas  4   Green  Size 4'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00H5X3RKA/?tag=tolees0a-21'
 descuento: '50.06'
 average: '3.99'

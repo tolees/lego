@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO City Service Station 60257 Pretend Play Toy  Building Sets for Kids  New 2020  354 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WHF9KDV/?tag=tolees-20'
 descuento: '20.00'
 average: '39.99'

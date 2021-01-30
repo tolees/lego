@@ -16,6 +16,7 @@ comparePrice: 4.99 GBP
 prodname: 'LEGO 11006 Classic Creative Blue Bricks Learning Starter Set  Preschool Toys for Kids 4+ Year Old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21'
 descuento: '29.86'
 average: '4.8725000000000005'

@@ -16,6 +16,7 @@ comparePrice: 17.09 EUR
 prodname: 'LEGO Star Wars 75116 - Rogue One Actionfigur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B012NOG3H4/?tag=tolees0ca-21'
 descuento: '16.62'
 average: '15.64'

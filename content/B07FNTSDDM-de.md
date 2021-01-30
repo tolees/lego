@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'THE LEGO MOVIE 2 70829 Emmets und Lucys Flucht-Buggy!'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNTSDDM/?tag=tolees0ca-21'
 descuento: '36.47'
 average: '28.33'

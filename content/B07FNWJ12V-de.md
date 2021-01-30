@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO Star Wars 75241 - Action Battle  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNWJ12V/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '43.71081081081081'

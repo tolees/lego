@@ -16,6 +16,7 @@ comparePrice: 14.61 EUR
 prodname: 'LEGO 21156 Minecraft BigFig Creeper und Ozelot  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W7V6TKY/?tag=tolees0ca-21'
 descuento: '25.60'
 average: '12.803333333333333'

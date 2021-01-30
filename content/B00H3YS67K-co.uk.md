@@ -16,6 +16,7 @@ comparePrice: 18.95 GBP
 prodname: 'The LEGO Movie Videogame  Nintendo Wii U '
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00H3YS67K/?tag=tolees0a-21'
 descuento: '67.23'
 average: '5.957142857142857'

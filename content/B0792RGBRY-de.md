@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Phantastische Tierwesen: Grindelwalds Verbrechen - Grindelwalds Flucht  75951  Bauset  132 Teile '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0792RGBRY/?tag=tolees0ca-21'
 descuento: '16.64'
 average: '21.490000000000002'

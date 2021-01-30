@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Ninjago 70645 Drachenmeister Cole'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0765CFDQK/?tag=tolees0ca-21'
 descuento: '63.31'
 average: '5.5'

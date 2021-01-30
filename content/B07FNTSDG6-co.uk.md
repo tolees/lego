@@ -16,6 +16,7 @@ comparePrice: 9.99 GBP
 prodname: 'LEGO 60240 City Kayak Adventure'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNTSDG6/?tag=tolees0a-21'
 descuento: '34.93'
 average: '6.416666666666667'

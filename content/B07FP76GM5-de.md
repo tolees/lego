@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Creator 31093 - Hausboot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP76GM5/?tag=tolees0ca-21'
 descuento: '18.67'
 average: '21.036923076923074'

@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO City Burger Bar Fire Rescue 60214 Building Kit  327 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GW2F26T/?tag=tolees-20'
 descuento: '20.01'
 average: '31.99'

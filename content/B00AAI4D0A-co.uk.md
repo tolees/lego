@@ -16,6 +16,7 @@ comparePrice: 9.99 GBP
 prodname: 'LEGO Friends 41020 Hedgehog s Hideaway'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00AAI4D0A/?tag=tolees0a-21'
 descuento: '69.67'
 average: '6.841'

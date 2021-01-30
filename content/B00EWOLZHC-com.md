@@ -16,6 +16,7 @@ comparePrice: 12.95 USD
 prodname: 'LEGO  City  Coast Guard Seaplane Bagged  30225 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00EWOLZHC/?tag=tolees-20'
 descuento: '15.14'
 average: '10.99'

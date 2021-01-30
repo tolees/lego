@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO 75970 - Overwatch Tracer vs. Widowmaker  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J6BFKC8/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '11.8825'

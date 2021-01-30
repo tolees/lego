@@ -16,6 +16,7 @@ comparePrice: 29.99 GBP
 prodname: 'DUS Light Set for LEGO Architecture San Francisco 21043  LED Included Only No LEGO Kit '
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B083DR2F2J/?tag=tolees0a-21'
 descuento: '30.01'
 average: '20.99'

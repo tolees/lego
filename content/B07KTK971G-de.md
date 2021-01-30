@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'LEGO Friends 41387 - Olivias Sommer-Herzbox  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTK971G/?tag=tolees0ca-21'
 descuento: '31.29'
 average: '5.49'

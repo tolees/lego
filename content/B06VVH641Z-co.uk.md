@@ -16,6 +16,7 @@ comparePrice: 39.99 GBP
 prodname: 'LEGO Star Wars The Last Jedi 75176 Resistance Transport Pod Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B06VVH641Z/?tag=tolees0a-21'
 descuento: '29.98'
 average: '31.477999999999998'

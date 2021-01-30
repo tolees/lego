@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'The LEGO Movie Videogame - PlayStation 3'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00ECOBFCC/?tag=tolees-20'
 descuento: '25.16'
 average: '14.95'

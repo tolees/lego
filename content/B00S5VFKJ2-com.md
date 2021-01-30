@@ -16,6 +16,7 @@ comparePrice: 11.95 USD
 prodname: 'LEGO Star Wars Minifig Anakin Skywalker Clone Wars'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00S5VFKJ2/?tag=tolees-20'
 descuento: '25.10'
 average: '8.95'

@@ -16,6 +16,7 @@ comparePrice: 17.99 GBP
 prodname: 'LEGO 70666 Children s Toy Colourful'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FP6QNP8/?tag=tolees0a-21'
 descuento: '50.03'
 average: '11.8504'

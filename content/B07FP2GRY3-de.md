@@ -16,6 +16,7 @@ comparePrice: 34.11 EUR
 prodname: 'LEGO Marvel Super Heroes 76124 War Machine Buster'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP2GRY3/?tag=tolees0ca-21'
 descuento: '23.81'
 average: '25.492318840579706'

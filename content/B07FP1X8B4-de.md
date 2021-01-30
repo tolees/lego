@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Disney 41161 - Aladdins und Jasmins Palastabenteuer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP1X8B4/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '21.9275'

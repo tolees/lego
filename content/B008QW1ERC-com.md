@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'IQ Lego Star Wars - Yoda LED Keychain Light'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B008QW1ERC/?tag=tolees-20'
 descuento: '45.02'
 average: '10.99'

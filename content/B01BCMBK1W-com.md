@@ -16,6 +16,7 @@ comparePrice: 20.35 USD
 prodname: 'LEGO Star Wars: Force Awakens Deluxe Edition - PlayStation 4'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01BCMBK1W/?tag=tolees-20'
 descuento: '15.63'
 average: '18.94857142857143'

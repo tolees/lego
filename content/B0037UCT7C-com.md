@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Star Wars III The Clone Wars - Playstation 3'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0037UCT7C/?tag=tolees-20'
 descuento: '50.53'
 average: '47.92857142857142'

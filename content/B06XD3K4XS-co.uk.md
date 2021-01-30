@@ -16,6 +16,7 @@ comparePrice: 9.99 GBP
 prodname: 'LEGO 10904 DUPLO Town Baby Animals Toys for Toddlers 2 - 5 Years old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B06XD3K4XS/?tag=tolees0a-21'
 descuento: '27.33'
 average: '7.7379999999999995'

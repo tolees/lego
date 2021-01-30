@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DC Super Heroes Mighty Micros: Supergirl vs. Brainiac 76094 Superheldenspielzeug für Mädchen und Jungen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075SVP2ZF/?tag=tolees0ca-21'
 descuento: '34.93'
 average: '6.82'

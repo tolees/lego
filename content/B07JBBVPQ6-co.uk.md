@@ -16,6 +16,7 @@ comparePrice: 15.99 GBP
 prodname: 'LEGO 40253 Build Up Playset  24-in-1 Model  Fun Christmas Construction Toy for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07JBBVPQ6/?tag=tolees0a-21'
 descuento: '43.78'
 average: '10.628333333333334'

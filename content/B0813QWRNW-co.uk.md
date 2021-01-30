@@ -16,6 +16,7 @@ comparePrice: 29.99 GBP
 prodname: 'LEGO 10919 DUPLO DC Batman Batcave with Batmobile & JOKER Car Toy for Toddlers from 2 Years Old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0813QWRNW/?tag=tolees0a-21'
 descuento: '24.97'
 average: '22.5'

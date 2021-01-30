@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Lego Star Wars Chewbacca Key Light [With Battery]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HFPGZVQ/?tag=tolees-21'
 descuento: '23.25'
 average: '7.7146774193548415'

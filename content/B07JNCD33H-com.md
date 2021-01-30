@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Star Wars: The Empire Strikes Back Action Battle Hoth Generator Attack 75239 Building Kit  235 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JNCD33H/?tag=tolees-20'
 descuento: '32.64'
 average: '23.16714285714286'

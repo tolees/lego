@@ -16,6 +16,7 @@ comparePrice: 8.96 GBP
 prodname: 'LEGO Brick 1 Knob Stackable Storage Box  Red  1.2 Litre'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B008KQ1JVU/?tag=tolees0a-21'
 descuento: '33.59'
 average: '5.96'

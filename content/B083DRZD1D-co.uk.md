@@ -16,6 +16,7 @@ comparePrice: 27.99 GBP
 prodname: 'DUS Light Set for LEGO 42079 Heavy Duty Forklift Technic  LED Included Only No LEGO Kit '
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B083DRZD1D/?tag=tolees0a-21'
 descuento: '32.15'
 average: '18.99'

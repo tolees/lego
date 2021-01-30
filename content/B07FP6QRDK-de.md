@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DUPLO 10898 - Meine erste Micky Maus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP6QRDK/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '8.655'

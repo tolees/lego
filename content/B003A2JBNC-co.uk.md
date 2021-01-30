@@ -16,6 +16,7 @@ comparePrice: 17.99 GBP
 prodname: 'LEGO Games 3849: Orient Bazaar'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B003A2JBNC/?tag=tolees0a-21'
 descuento: '50.03'
 average: '18.97'

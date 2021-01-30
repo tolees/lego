@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Marvel Avengers Captain America: Outriders Attack 76123 Building Kit  167 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JMXSR3V/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

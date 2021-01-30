@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Custom Brick Design Sith Lord Darth Nihilus Figur - - modifizierte Minifigur des bekannten Klemmbausteinherstellers und somit voll kompatibel zu Lego'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21'
 descuento: '33.56'
 average: '9.9'

@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO 6250958 Overwatch 75974 Bastion Building Kit  Overwatch Game Robot Action Figure  602 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07G5Y1WRM/?tag=tolees-20'
 descuento: '24.00'
 average: '37.71863636363637'

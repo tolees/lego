@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'LEGO Star Wars 75148 - Encounter on Jakku'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AC1DRGK/?tag=tolees0ca-21'
 descuento: '31.43'
 average: '44.64923076923077'

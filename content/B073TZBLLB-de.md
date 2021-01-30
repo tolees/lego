@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Lego Star Wars Kinder FLANELL / BIBER Bettwäsche Wende Motiv warm & kuschelig 2 tlg. Kissenbezug 80x80 + Bettbezug 135x200 cm 100 % Baumwolle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073TZBLLB/?tag=tolees0ca-21'
 descuento: '39.96'
 average: '26.99'

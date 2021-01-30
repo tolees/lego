@@ -16,6 +16,7 @@ comparePrice: 12.18 GBP
 prodname: 'LEGO Brick 2 Knobs Stackable Storage Box  Bright Blue  2.6 Litre'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B003NE5LCW/?tag=tolees0a-21'
 descuento: '17.98'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO Star Wars 75177 - First Order Heavy Scout Walker'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06VV73L7S/?tag=tolees0ca-21'
 descuento: '18.35'
 average: '46.75150000000001'

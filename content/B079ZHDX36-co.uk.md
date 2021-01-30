@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DISK66145K Brick Costume Kids Iconic Red Building Block Childrens Outfit  Child  Medium'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B079ZHDX36/?tag=tolees0a-21'
 descuento: '68.35'
 average: '31.656666666666666'

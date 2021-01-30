@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Minecraft The Chicken Coop 21140 Building Kit  198 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075RDWR3N/?tag=tolees-20'
 descuento: '20.01'
 average: '20.945'

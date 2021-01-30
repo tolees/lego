@@ -16,6 +16,7 @@ comparePrice: 24.36 EUR
 prodname: 'LEGO Creator 31091 - Transporter für Space Shuttle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNWD34S/?tag=tolees0ca-21'
 descuento: '26.15'
 average: '17.166999999999998'

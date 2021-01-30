@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO: Marvel Super Heroes - Nintendo 3DS'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00B98HI8Y/?tag=tolees-20'
 descuento: '50.03'
 average: '9.99'

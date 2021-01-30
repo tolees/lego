@@ -16,6 +16,7 @@ comparePrice: 15.99 USD
 prodname: 'LEGO Super Heroes Classic TV Series Batman Minifigure - Bruce Wayne  76052 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01MQ61H3K/?tag=tolees-20'
 descuento: '56.91'
 average: '6.89'

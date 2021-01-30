@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'LEGO Minecraft The Villager Raid 21160 Building Toy Action Playset for Boys and Girls Who Love Minecraft  New 2020  562 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WG9X587/?tag=tolees-20'
 descuento: '20.00'
 average: '47.99'

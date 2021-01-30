@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 41335 Friends Heartlake Mia’s Tree House Playset  Mia and Daniel Mini Dolls  Build and Play Fun Toys for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B075SVTWHP/?tag=tolees0a-21'
 descuento: '28.61'
 average: '20.567142857142855'

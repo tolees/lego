@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'LEGO City 60212 Feuerwehr beim Grillfest'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP2GRWP/?tag=tolees0ca-21'
 descuento: '33.37'
 average: '6.350833333333334'

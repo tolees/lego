@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Friends Andrea s Speedboat Transporter 41316 Building Kit  309 Piece '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B071VNLCBV/?tag=tolees-20'
 descuento: '33.31'
 average: '32.425'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'The Lego Movie 2 70837 Schimmerndes Glitzer-Spa  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KQBXKVR/?tag=tolees0ca-21'
 descuento: '37.61'
 average: '41.81425000000001'

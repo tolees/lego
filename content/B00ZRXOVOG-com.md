@@ -16,6 +16,7 @@ comparePrice: 11.69 USD
 prodname: 'IQ Lego Star Wars Han Solo LED Key Light'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00ZRXOVOG/?tag=tolees-20'
 descuento: '18.73'
 average: '9.5'

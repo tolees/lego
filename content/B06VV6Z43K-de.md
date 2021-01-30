@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LEGO Star Wars 75180 - Rathtar Escape Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06VV6Z43K/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '70.97857142857143'

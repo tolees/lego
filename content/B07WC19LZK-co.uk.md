@@ -16,6 +16,7 @@ comparePrice: 12.99 GBP
 prodname: 'LEGO 10926 DUPLO Town Bedroom Playable Dolls House Box for Toddlers 2+ Year Old  Large Bricks Learning Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07WC19LZK/?tag=tolees0a-21'
 descuento: '24.94'
 average: '7.366666666666666'

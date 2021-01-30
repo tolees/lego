@@ -16,6 +16,7 @@ comparePrice: 30.0 GBP
 prodname: 'LEGO 41453 - UNIKITTY - PARTY'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07B14J4CB/?tag=tolees0a-21'
 descuento: '40.03'
 average: '17.464000000000002'

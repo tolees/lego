@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Marvel Spider-Man: Spider-Man Bike Rescue 76113 Building Kit  235 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07D7TVNSV/?tag=tolees-20'
 descuento: '20.01'
 average: '20.751999999999995'

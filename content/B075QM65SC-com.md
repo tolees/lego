@@ -16,6 +16,7 @@ comparePrice: 15.99 USD
 prodname: 'LEGO Star Wars R3-S1 Astromech Droid'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075QM65SC/?tag=tolees-20'
 descuento: '22.01'
 average: '12.47'

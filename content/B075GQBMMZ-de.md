@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'LEGO Duplo 10870 Tiere auf dem Bauernhof  Lernspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075GQBMMZ/?tag=tolees0ca-21'
 descuento: '28.23'
 average: '7.214'

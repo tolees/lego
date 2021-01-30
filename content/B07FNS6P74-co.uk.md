@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 70826 Movie 2 with Emmet and Rex Minifigures  Recon the Dinosaur and Buildable Plantimal Figure Building Set  VehicleToys for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNS6P74/?tag=tolees0a-21'
 descuento: '16.77'
 average: '21.64'

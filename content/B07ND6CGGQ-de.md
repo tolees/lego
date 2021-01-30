@@ -16,6 +16,7 @@ comparePrice: 48.73 EUR
 prodname: 'LEGO DUPLO 10899 Disney Elsas Eispalast  Bausteine'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21'
 descuento: '26.00'
 average: '36.309347826086956'

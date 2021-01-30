@@ -16,6 +16,7 @@ comparePrice: 9.88 GBP
 prodname: 'LEGO R2D2 Key Light'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00BYYR01I/?tag=tolees0a-21'
 descuento: '21.76'
 average: '7.73'

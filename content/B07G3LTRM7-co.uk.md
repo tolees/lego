@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 70832 Movie 2 Emmet’s Builder Box Building Kit  Colourful'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07G3LTRM7/?tag=tolees0a-21'
 descuento: '40.02'
 average: '16.867500000000003'

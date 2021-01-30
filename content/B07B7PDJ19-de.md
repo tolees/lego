@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LEGO Star Wars Minifigur Dengar mit 2 Bonus Waffen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B7PDJ19/?tag=tolees0ca-21'
 descuento: '41.70'
 average: '6.99'

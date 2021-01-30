@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO DC Super Heroes Girls Harley Quinn to The Rescue 41231 DC Collectible'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01F4710HU/?tag=tolees-20'
 descuento: '30.34'
 average: '18.326'

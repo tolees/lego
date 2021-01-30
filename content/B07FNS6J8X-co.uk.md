@@ -16,6 +16,7 @@ comparePrice: 34.99 GBP
 prodname: 'LEGO 60217 City Fire Fire Plane Toy Aeroplane Set with Buggy  3 Firefighter Minifigures  Skunk Animal Figure and Buildable Burning Trees  Fireman Toys for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNS6J8X/?tag=tolees0a-21'
 descuento: '34.30'
 average: '23.994999999999997'

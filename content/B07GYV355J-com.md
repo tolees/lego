@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO NINJAGO Legacy Golden Dragon 70666 Building Kit  171 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GYV355J/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO 21162 Minecraft Das Taiga-Abenteuer Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W5QH7CH/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '8.275714285714287'

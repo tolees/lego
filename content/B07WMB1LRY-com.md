@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Trolls World Tour Volcano Rock City Concert 41254  Cool Trolls Toy Building Kit for Kids  New 2020  387 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WMB1LRY/?tag=tolees-20'
 descuento: '20.01'
 average: '31.99'

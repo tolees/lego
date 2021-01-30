@@ -16,6 +16,7 @@ comparePrice: 6.51 GBP
 prodname: 'West Design West DesignLE51475 Lego Junior Selection Gel Pen  Red  Multi-Color'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B015FM2AMS/?tag=tolees0a-21'
 descuento: '53.92'
 average: '3.1561290322580646'

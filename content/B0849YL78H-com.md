@@ -16,6 +16,7 @@ comparePrice: 14.98 USD
 prodname: 'LEGO Jurassic World: Legend of Isla Nublar'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0849YL78H/?tag=tolees-20'
 descuento: '33.31'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 12.99 USD
 prodname: 'LEGO Collectible Minifigure Series 17 - French Connoisseur  71018 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B071DRSGXX/?tag=tolees-20'
 descuento: '30.79'
 average: '8.99'

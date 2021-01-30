@@ -16,6 +16,7 @@ comparePrice: 9.99 GBP
 prodname: 'LEGO 60237 City Supplementary Curve and Crossroad 2 x Base Plates for all LEGO Building Sets'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNN12PM/?tag=tolees0a-21'
 descuento: '29.93'
 average: '7.229230769230769'

@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Friends Stephanie’s Horse Jumping 41367 Building Kit  337 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GXBJBKN/?tag=tolees-20'
 descuento: '20.01'
 average: '31.99'

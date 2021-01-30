@@ -16,6 +16,7 @@ comparePrice: 29.23 EUR
 prodname: 'LEGO Duplo 10863 Meine erste Steinebox mit Ziehtieren  Kreatives Spielen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075H1GDS8/?tag=tolees0ca-21'
 descuento: '24.77'
 average: '21.049473684210533'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Minecraft 21140 - Hühnerstall  Unterhaltungsspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075GPHS2G/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '15.39'

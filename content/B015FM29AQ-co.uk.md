@@ -16,6 +16,7 @@ comparePrice: 19.04 GBP
 prodname: 'Lego 9 Count Coloured Gel Pens  Assorted Colours'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B015FM29AQ/?tag=tolees0a-21'
 descuento: '34.56'
 average: '12.46'

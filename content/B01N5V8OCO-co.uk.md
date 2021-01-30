@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DISK18268K Deluxe Costume  Skeleton  Medium'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01N5V8OCO/?tag=tolees0a-21'
 descuento: '65.01'
 average: '34.99'

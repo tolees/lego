@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Star Wars Han Solo 75535 Baubare Figur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075GR1TVS/?tag=tolees0ca-21'
 descuento: '17.14'
 average: '21.597749999999998'

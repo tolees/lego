@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DISK66168K Brick Costume Kids Iconic Blue Building Block Childrens Outfit  Child  Medium'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B079ZHM3TM/?tag=tolees0a-21'
 descuento: '78.52'
 average: '21.48'

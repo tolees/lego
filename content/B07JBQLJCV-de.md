@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEGO 75971 - Overwatch Hanzo vs. Genji  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JBQLJCV/?tag=tolees0ca-21'
 descuento: '20.17'
 average: '18.693333333333335'

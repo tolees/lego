@@ -16,6 +16,7 @@ comparePrice: 16.99 GBP
 prodname: 'LEGO DISKX18617 Kit Legoman Costume Accessory  Yellow Hands  One Size'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01N39UJA3/?tag=tolees0a-21'
 descuento: '29.43'
 average: '11.99'

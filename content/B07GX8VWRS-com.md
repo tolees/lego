@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Creator 3in1 Race Plane 31094 Building Kit  333 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GX8VWRS/?tag=tolees-20'
 descuento: '20.01'
 average: '24.98333333333333'

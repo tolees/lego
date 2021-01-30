@@ -16,6 +16,7 @@ comparePrice: 29.98 USD
 prodname: 'The Lego Movie 2: The Second Part 3D  Blu-ray 3D + Blu Ray + Digital '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07P61PR44/?tag=tolees-20'
 descuento: '42.83'
 average: '18.385'

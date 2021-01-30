@@ -16,6 +16,7 @@ comparePrice: 21.06 GBP
 prodname: 'Lego Storage Head Large Girl'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B003NE5L7W/?tag=tolees0a-21'
 descuento: '19.33'
 average: '16.99'

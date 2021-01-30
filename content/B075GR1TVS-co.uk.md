@@ -16,6 +16,7 @@ comparePrice: 25.99 GBP
 prodname: 'LEGO UK - 75535 Star Wars Han Solo Buildable Figure'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B075GR1TVS/?tag=tolees0a-21'
 descuento: '34.59'
 average: '23.873478260869565'

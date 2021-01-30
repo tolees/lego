@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Lego 41357 Friends Olivias Herzbox  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP2D6QN/?tag=tolees0ca-21'
 descuento: '26.53'
 average: '5.87'

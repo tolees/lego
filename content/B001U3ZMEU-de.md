@@ -16,6 +16,7 @@ comparePrice: 131.28 EUR
 prodname: 'LEGO City 7639 - Wohnmobil'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001U3ZMEU/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '88.40333333333334'

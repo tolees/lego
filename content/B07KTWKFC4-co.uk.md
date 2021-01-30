@@ -16,6 +16,7 @@ comparePrice: 17.99 GBP
 prodname: 'LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS Samurai Ninja Toy with 2 Tornado Spinner Launchers  Masters of Spinjitzu Playset'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTWKFC4/?tag=tolees0a-21'
 descuento: '30.02'
 average: '14.398333333333332'

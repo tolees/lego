@@ -16,6 +16,7 @@ comparePrice: 48.73 EUR
 prodname: 'LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit AR-App'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W8XYTS3/?tag=tolees0ca-21'
 descuento: '26.14'
 average: '38.705'

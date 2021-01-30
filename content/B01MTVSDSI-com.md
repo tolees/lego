@@ -16,6 +16,7 @@ comparePrice: 24.99 USD
 prodname: 'LEGO Star Wars Rey 75528 Building Kit  85 Piece '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01MTVSDSI/?tag=tolees-20'
 descuento: '20.01'
 average: '22.992666666666665'

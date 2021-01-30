@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'The LEGO Movie Videogame - Xbox One'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00ECOAX3E/?tag=tolees-20'
 descuento: '15.01'
 average: '11.676666666666666'

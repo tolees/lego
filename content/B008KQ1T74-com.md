@@ -16,6 +16,7 @@ comparePrice: 31.99 USD
 prodname: 'LEGO Storage Brick 4  Blue'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B008KQ1T74/?tag=tolees-20'
 descuento: '37.51'
 average: '19.729999999999997'

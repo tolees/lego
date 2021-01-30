@@ -16,6 +16,7 @@ comparePrice: 74.99 GBP
 prodname: 'LEGO 71721 NINJAGO Skull Sorcerer s Dragon Toy 2in1 Building Set & Board Game with Skeleton Army Figures'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0813RH7GJ/?tag=tolees0a-21'
 descuento: '19.99'
 average: '60.0'

@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: 'H0_V 407 Stück Custom Bausteine Halterung Ständer Kompatibel mit Lego Star Wars Millennium Falcon 75192'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083DTYPJZ/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '25.99'

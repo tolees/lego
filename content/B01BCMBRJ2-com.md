@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Star Wars: The Force Awakens - Nintendo 3DS Standard Edition'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01BCMBRJ2/?tag=tolees-20'
 descuento: '52.23'
 average: '12.51'

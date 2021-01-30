@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 75524 Star Wars Chirrut Imwe'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01J41KZBO/?tag=tolees0a-21'
 descuento: '20.21'
 average: '14.33054794520548'

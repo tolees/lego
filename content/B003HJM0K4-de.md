@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LEGO 8869 Power Functions Schalter für die Power Functions-Motoren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003HJM0K4/?tag=tolees0ca-21'
 descuento: '17.43'
 average: '9.9'

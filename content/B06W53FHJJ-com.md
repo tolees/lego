@@ -16,6 +16,7 @@ comparePrice: 14.97 USD
 prodname: 'Lego Batman Movie  The  Blu-ray   BD '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B06W53FHJJ/?tag=tolees-20'
 descuento: '41.02'
 average: '8.83'

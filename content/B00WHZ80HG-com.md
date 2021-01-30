@@ -16,6 +16,7 @@ comparePrice: 119.99 USD
 prodname: 'LEGO Star Wars Kylo Ren s Command Shuttle 75104 Star Wars Toy'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00WHZ80HG/?tag=tolees-20'
 descuento: '16.66'
 average: '131.23250000000002'

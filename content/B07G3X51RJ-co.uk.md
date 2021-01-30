@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 76127 Captain Marvel and The Skrull Attack Building Kit'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07G3X51RJ/?tag=tolees0a-21'
 descuento: '24.97'
 average: '25.369999999999997'

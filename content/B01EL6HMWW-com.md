@@ -16,6 +16,7 @@ comparePrice: 24.95 USD
 prodname: 'IQ Lego Star Wars Kylo Ren LED Head Lamp'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01EL6HMWW/?tag=tolees-20'
 descuento: '27.90'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Minecraft The Wool Farm 21153 Building Kit  260 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07PZF4BL5/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

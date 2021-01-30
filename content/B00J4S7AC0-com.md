@@ -16,6 +16,7 @@ comparePrice: 69.99 USD
 prodname: 'LEGO Ultra Agents 70164 Hurricane Heist'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00J4S7AC0/?tag=tolees-20'
 descuento: '31.56'
 average: '47.9'

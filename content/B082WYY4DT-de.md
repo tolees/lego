@@ -16,6 +16,7 @@ comparePrice: 97.43 EUR
 prodname: 'H0_V 522Teile 2.4GHz RC Modell Geländewagen Buggy Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082WYY4DT/?tag=tolees0ca-21'
 descuento: '38.43'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Duplo 10847 - Zahlenzug  Vorschulspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J41D4IU/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '12.722857142857142'

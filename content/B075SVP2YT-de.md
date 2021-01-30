@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Friends 41339 - Mias Wohnmobil Cooles Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075SVP2YT/?tag=tolees0ca-21'
 descuento: '25.46'
 average: '37.99'

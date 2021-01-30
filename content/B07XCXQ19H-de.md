@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO 41405 Andreas magischer Würfel - Tiergeschäft Friends Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XCXQ19H/?tag=tolees0ca-21'
 descuento: '27.23'
 average: '7.485'

@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'Lego Jurassic World - Nintendo Switch'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07VNNMWRS/?tag=tolees-20'
 descuento: '35.23'
 average: '21.171999999999997'

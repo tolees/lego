@@ -16,6 +16,7 @@ comparePrice: 119.99 USD
 prodname: 'LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit  Spaceship Toy with Dinosaur Figures  1172 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GXLG1C7/?tag=tolees-20'
 descuento: '38.34'
 average: '72.355'

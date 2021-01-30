@@ -16,6 +16,7 @@ comparePrice: 49.99 GBP
 prodname: 'LEGO 21152 Minecraft The Pirate Ship Adventure Building Kit  Colourful'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNT8XC3/?tag=tolees0a-21'
 descuento: '27.99'
 average: '37.989999999999995'

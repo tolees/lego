@@ -16,6 +16,7 @@ comparePrice: 164.95 USD
 prodname: 'Early Simple Machines for Kindergarten STEM by LEGO Education DUPLO'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B001U7NGUS/?tag=tolees-20'
 descuento: '15.67'
 average: '139.11'

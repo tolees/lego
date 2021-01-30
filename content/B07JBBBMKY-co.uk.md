@@ -16,6 +16,7 @@ comparePrice: 29.99 GBP
 prodname: 'LEGO 75972 Overwatch Dorado Showdown Playset with Dorado-style building  Truck and Soldier: 76  Reaper  McCree Minifigures'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07JBBBMKY/?tag=tolees0a-21'
 descuento: '29.98'
 average: '22.310909090909092'

@@ -16,6 +16,7 @@ comparePrice: 15.99 USD
 prodname: 'LEGO Super Heroes - Harley Quinn with Black and Red Tutu'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075Z3GW98/?tag=tolees-20'
 descuento: '43.78'
 average: '8.99'

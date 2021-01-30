@@ -16,6 +16,7 @@ comparePrice: 112.99 EUR
 prodname: 'Dittzz Technic Auto Huracan LP 610  Sportwagen Bauset   1696 Stücke Bausteine Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085SZ3J4S/?tag=tolees0ca-21'
 descuento: '30.09'
 average: '78.99'

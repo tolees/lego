@@ -16,6 +16,7 @@ comparePrice: 15.78 EUR
 prodname: 'LEGO Dimensions - Fun Pack - Teen Titans Go!'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072JH91YN/?tag=tolees0ca-21'
 descuento: '55.70'
 average: '6.99'

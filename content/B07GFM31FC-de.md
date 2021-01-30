@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'maisterkaio-de Figur Enfys Nest -- Star Wars --  aus 75215  kompatibel mit anderem Lego '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GFM31FC/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '6.99'

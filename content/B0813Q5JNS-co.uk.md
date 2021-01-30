@@ -16,6 +16,7 @@ comparePrice: 17.99 GBP
 prodname: 'LEGO 41907 DOTS Desk Organiser DIY Arts and Crafts for Kids  Room Decorations & Desk Accessories Projects'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0813Q5JNS/?tag=tolees0a-21'
 descuento: '33.35'
 average: '11.994285714285715'

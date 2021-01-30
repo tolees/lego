@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO THE LEGO MOVIE 2 Escape Buggy 70829 Building Kit  Build and Play Toy Car with Action Heroes  550 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GXC4TGV/?tag=tolees-20'
 descuento: '26.01'
 average: '36.99'

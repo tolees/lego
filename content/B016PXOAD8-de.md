@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Lego 90032 Minitaschenlampe Star Wars  R2-D2  7 6 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016PXOAD8/?tag=tolees0ca-21'
 descuento: '33.08'
 average: '10.495454545454546'

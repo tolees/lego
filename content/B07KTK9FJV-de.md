@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'LEGO Friends 41388 - Mias sommerliche Herzbox  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21'
 descuento: '31.29'
 average: '6.59'

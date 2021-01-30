@@ -16,6 +16,7 @@ comparePrice: 35.99 USD
 prodname: 'LEGO Brick Drawer  8 Knobs  2 Drawers  Stackable Storage Box  Aqua Mint Green'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0778NP61L/?tag=tolees-20'
 descuento: '37.51'
 average: '22.49'

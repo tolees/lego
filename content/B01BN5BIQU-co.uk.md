@@ -16,6 +16,7 @@ comparePrice: 6.99 GBP
 prodname: 'LEGO Doctor Who - Cyberman Minifigure'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01BN5BIQU/?tag=tolees0a-21'
 descuento: '42.78'
 average: '4.598000000000001'

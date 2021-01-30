@@ -16,6 +16,7 @@ comparePrice: 8.99 GBP
 prodname: 'LEGO 70680 NINJAGO Monastery Training Includes Kai and Nya Minifigures Building Set'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNWJ12Q/?tag=tolees0a-21'
 descuento: '30.03'
 average: '6.993333333333334'

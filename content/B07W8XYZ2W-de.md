@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'LEGO 71714 NINJAGO Avatar Kai – Tragbare Arcade Kapsel  Ninja-Spielzeug für Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W8XYZ2W/?tag=tolees0ca-21'
 descuento: '28.64'
 average: '7.298'

@@ -16,6 +16,7 @@ comparePrice: 15.99 GBP
 prodname: 'LEGO 15 Window & Door Bundle - 10 x 1x4x3 Windows With Glass & 5 x 1x4x6 Doors - White'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01IRFY6A4/?tag=tolees0a-21'
 descuento: '37.52'
 average: '9.61133333333333'

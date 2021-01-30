@@ -16,6 +16,7 @@ comparePrice: 14.25 EUR
 prodname: 'The LEGO Movie Videogame - [Nintendo Wii U]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GXY51YM/?tag=tolees0ca-21'
 descuento: '22.88'
 average: '12.184000000000001'

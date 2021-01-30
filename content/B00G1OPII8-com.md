@@ -16,6 +16,7 @@ comparePrice: 36.99 USD
 prodname: 'LEGO Technic Pegs  Joints  Peg-Joints Pack'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00G1OPII8/?tag=tolees-20'
 descuento: '19.03'
 average: '29.95'

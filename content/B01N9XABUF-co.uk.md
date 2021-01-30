@@ -16,6 +16,7 @@ comparePrice: 37.46 GBP
 prodname: 'Lego Vampire Classic Costume  Medium  7-8 Years '
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01N9XABUF/?tag=tolees0a-21'
 descuento: '41.40'
 average: '21.95'

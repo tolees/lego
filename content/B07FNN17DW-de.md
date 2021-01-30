@@ -16,6 +16,7 @@ comparePrice: 14.61 EUR
 prodname: 'LEGO City 60213 Feuerwehr am Hafen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNN17DW/?tag=tolees0ca-21'
 descuento: '26.69'
 average: '10.711612903225804'

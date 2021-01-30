@@ -16,6 +16,7 @@ comparePrice: 39.94 GBP
 prodname: 'LEGO 21308 Adventure Time Toy  Creative role-playing Set'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01MRLLL5Y/?tag=tolees0a-21'
 descuento: '37.88'
 average: '39.334761904761905'

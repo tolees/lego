@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Lego 41360 Friends Emmas mobile Tierarztpraxis  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNW2TJ6/?tag=tolees0ca-21'
 descuento: '24.82'
 average: '7.981999999999999'

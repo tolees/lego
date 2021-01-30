@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO DC Batman Batmobile: Pursuit of The Joker 76119 Building Kit  342 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07Q2N27TV/?tag=tolees-20'
 descuento: '20.01'
 average: '23.99'

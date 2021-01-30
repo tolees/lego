@@ -16,6 +16,7 @@ comparePrice: 13.99 USD
 prodname: 'LEGO Force Awakens Star Wars Minifigure - BB-8 Astromech Droid  75105 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B014YYM34I/?tag=tolees-20'
 descuento: '64.69'
 average: '5.9591666666666665'

@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO City Sky Police Drone Chase 60207 Building Kit  192 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GVYMK2Y/?tag=tolees-20'
 descuento: '26.68'
 average: '21.99'

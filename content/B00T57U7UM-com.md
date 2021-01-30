@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Marvel s Avengers - PlayStation 4'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00T57U7UM/?tag=tolees-20'
 descuento: '82.52'
 average: '6.99'

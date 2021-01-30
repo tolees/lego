@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s Escape Carriage Toy  Build and Play Toys for Kids'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0792RGBRY/?tag=tolees0a-21'
 descuento: '26.46'
 average: '13.422500000000001'

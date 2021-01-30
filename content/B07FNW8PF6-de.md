@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNW8PF6/?tag=tolees0ca-21'
 descuento: '23.47'
 average: '22.2475'

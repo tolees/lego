@@ -16,6 +16,7 @@ comparePrice: 19.98 USD
 prodname: 'LEGO Movie 2  The Second Part  Blu-Ray '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07MHQ5FDY/?tag=tolees-20'
 descuento: '50.00'
 average: '8.934'

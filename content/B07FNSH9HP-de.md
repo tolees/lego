@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DUPLO 10908 - Flugzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNSH9HP/?tag=tolees0ca-21'
 descuento: '28.23'
 average: '7.085'

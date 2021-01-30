@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit GALAXYARMS Waffe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BB18SQC/?tag=tolees0ca-21'
 descuento: '38.49'
 average: '7.99'

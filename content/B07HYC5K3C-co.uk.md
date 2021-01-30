@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO Deluxe Emmet Costume'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07HYC5K3C/?tag=tolees0a-21'
 descuento: '65.01'
 average: '34.99'

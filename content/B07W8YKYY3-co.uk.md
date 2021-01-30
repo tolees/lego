@@ -16,6 +16,7 @@ comparePrice: 12.99 GBP
 prodname: 'LEGO 21157 Minecraft BigFig Pig with Baby Zombie Figures Building Set  Toys for Kids 7+ Years Old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W8YKYY3/?tag=tolees0a-21'
 descuento: '30.72'
 average: '9.0'

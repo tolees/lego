@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Movie 2 The Video Game - Xbox One [Digital Code]'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07N3H14RV/?tag=tolees-20'
 descuento: '60.02'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 GBP
 prodname: 'LEGO Star Wars Planets 9678: Twin-Pod Cloud Car and Bespin'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B006ZS54LQ/?tag=tolees0a-21'
 descuento: '41.94'
 average: '5.8'

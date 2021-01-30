@@ -16,6 +16,7 @@ comparePrice: 9.99 USD
 prodname: 'LEGO Star Wars - R4-P17 Astromech Droid Minifig'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0799SBQ7B/?tag=tolees-20'
 descuento: '43.04'
 average: '5.69'

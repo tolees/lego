@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO NINJAGO Jay and Lloyd’s Velocity Racers 71709 Building Kit for Kids and Hot Toys  New 2020  322 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WD62ZNF/?tag=tolees-20'
 descuento: '20.01'
 average: '23.99'

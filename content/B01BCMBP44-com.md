@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Star Wars: The Force Awakens - PlayStation 3 Standard Edition'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01BCMBP44/?tag=tolees-20'
 descuento: '64.99'
 average: '13.031666666666668'

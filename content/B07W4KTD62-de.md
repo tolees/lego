@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO 43177 - Belle Märchenbuch  Disney Princess  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W4KTD62/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '14.06090909090909'

@@ -16,6 +16,7 @@ comparePrice: 69.99 USD
 prodname: 'LEGO BATMAN MOVIE The Penguin Arctic Roller 70911 Building Kit'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01NCK7G1L/?tag=tolees-20'
 descuento: '45.22'
 average: '43.21666666666667'

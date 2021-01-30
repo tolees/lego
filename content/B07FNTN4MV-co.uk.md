@@ -16,6 +16,7 @@ comparePrice: 2.99 GBP
 prodname: 'LEGO 71023 Movie 2 Minifigures Collectible Toy Variety  Style Picked at Random   Multi-Colour  Pack of 1'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNTN4MV/?tag=tolees0a-21'
 descuento: '18.06'
 average: '1.7133333333333334'

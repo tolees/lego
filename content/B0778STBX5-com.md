@@ -16,6 +16,7 @@ comparePrice: 24.99 USD
 prodname: 'LEGO Brick Drawer  4 Knobs  1 Drawer  Stackable Storage Box  Bright Red'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0778STBX5/?tag=tolees-20'
 descuento: '40.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 7.99 GBP
 prodname: 'LEGO 41405 Friends Andrea s Shopping Play Cube Series 2 Pet Shop Toy  Collectible Mini Set  Portable Travel Case'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07XCXQ19H/?tag=tolees0a-21'
 descuento: '27.28'
 average: '5.81'

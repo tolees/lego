@@ -16,6 +16,7 @@ comparePrice: 3.99 USD
 prodname: 'LEGO THE LEGO MOVIE 2 Minifigures 71023 Building Kit  1 Minifigure '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GXYXFYX/?tag=tolees-20'
 descuento: '41.60'
 average: '2.33'

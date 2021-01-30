@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B8PFFSP/?tag=tolees0ca-21'
 descuento: '41.70'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'THE LEGO MOVIE 2 70825 Königin Wasimma Si-Willis Bau-Was-Du-Willst-Box!'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP1X88D/?tag=tolees0ca-21'
 descuento: '49.01'
 average: '22.65844444444444'

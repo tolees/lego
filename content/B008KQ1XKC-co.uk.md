@@ -16,6 +16,7 @@ comparePrice: 33.43 GBP
 prodname: 'LEGO Storage Brick With 8 Knobs  in Bright Blue'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B008KQ1XKC/?tag=tolees0a-21'
 descuento: '22.41'
 average: '23.947678571428575'

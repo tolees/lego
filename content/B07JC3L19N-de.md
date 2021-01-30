@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO 75974 - Overwatch Bastion  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JC3L19N/?tag=tolees0ca-21'
 descuento: '23.34'
 average: '45.99'

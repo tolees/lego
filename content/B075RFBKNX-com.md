@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Minecraft The Nether Portal 21143 Building Kit  470 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075RFBKNX/?tag=tolees-20'
 descuento: '20.01'
 average: '31.99'

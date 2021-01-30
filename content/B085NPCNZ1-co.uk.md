@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'Dittzz Vertical Display Stand For LEGO 75257 Star Wars Millennium Falcon Starship  Lego set not included '
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B085NPCNZ1/?tag=tolees0a-21'
 descuento: '30.02'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 USD
 prodname: 'LEGO Functions Power Functions IR Speed Remote Control 8879  1 Piece '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B003FOA2VK/?tag=tolees-20'
 descuento: '66.71'
 average: '4.99'

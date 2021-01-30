@@ -16,6 +16,7 @@ comparePrice: 34.11 EUR
 prodname: 'LEGO Harry Potter und der Feuerkelch  – Das Trimagische Turnier: der ungarische Hornschwanz  75946   Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G3D9XQB/?tag=tolees0ca-21'
 descuento: '26.74'
 average: '25.429268292682924'

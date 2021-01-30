@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'LEGO Duplo 10873 Disney Minnies Geburtstagsparty  Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0765BD1WZ/?tag=tolees0ca-21'
 descuento: '26.83'
 average: '15.459166666666668'

@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DISK18464L Classic Costume  Boys  Firefighter  Small'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01N28A7OB/?tag=tolees0a-21'
 descuento: '70.01'
 average: '29.99'

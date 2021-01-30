@@ -16,6 +16,7 @@ comparePrice: 8.48 GBP
 prodname: 'LEGO Lights IQLGL-KE99 DC Comics Super Heroes Harley Quinn Key Light'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01LYU5ZO7/?tag=tolees0a-21'
 descuento: '17.57'
 average: '6.99'

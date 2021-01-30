@@ -16,6 +16,7 @@ comparePrice: 24.99 USD
 prodname: 'LEGO Star Wars Chirrut Îmwe 75524 Star Wars Toy'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01MXEMXGK/?tag=tolees-20'
 descuento: '39.98'
 average: '15.351666666666663'

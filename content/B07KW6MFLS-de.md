@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lego Wear Mädchen Lego Tec Play LWALFRED 706-Fäustlinge mit Membran Fäustlinge  Violett  Bordeaux 383   6  Herstellergröße:134/140 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KW6MFLS/?tag=tolees0ca-21'
 descuento: '42.00'
 average: '17.37'

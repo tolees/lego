@@ -16,6 +16,7 @@ comparePrice: 48.73 EUR
 prodname: 'LEGO Hidden Side 70432 Geister-Jahrmarkt mit AR-App'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W8Y1FSZ/?tag=tolees0ca-21'
 descuento: '26.14'
 average: '36.583030303030306'

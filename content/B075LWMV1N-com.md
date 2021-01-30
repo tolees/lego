@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO City Forest Tractor 60181 Building Kit  174 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075LWMV1N/?tag=tolees-20'
 descuento: '28.06'
 average: '20.580000000000002'

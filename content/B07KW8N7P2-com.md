@@ -16,6 +16,7 @@ comparePrice: 118.0 USD
 prodname: 'LEGO Ideas International Space Station 21321 864 Pieces White'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07KW8N7P2/?tag=tolees-20'
 descuento: '22.00'
 average: '92.04'

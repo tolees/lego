@@ -16,6 +16,7 @@ comparePrice: 11.38 EUR
 prodname: 'LEGO Jungen CM-50316-T-SHIRT L/S Langarmshirt  Grün  Green 866    Herstellergröße: 128 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWMG66Q/?tag=tolees0ca-21'
 descuento: '18.10'
 average: '9.32'

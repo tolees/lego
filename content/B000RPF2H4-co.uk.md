@@ -16,6 +16,7 @@ comparePrice: 5.93 GBP
 prodname: 'LEGO Star Wars: Super Battle Droid with Normal Arm Minifigure'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B000RPF2H4/?tag=tolees0a-21'
 descuento: '79.93'
 average: '1.19'

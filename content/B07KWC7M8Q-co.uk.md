@@ -16,6 +16,7 @@ comparePrice: 35.47 GBP
 prodname: 'Lego Wear Boy s Lego Lwsiam Sweatshirt  Grey  Grey Melange 921   48  Size: 110 '
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KWC7M8Q/?tag=tolees0a-21'
 descuento: '49.42'
 average: '27.705'

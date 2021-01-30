@@ -16,6 +16,7 @@ comparePrice: 32.99 USD
 prodname: 'LEGO Friends Emma’s Art Café 41336 Building Set  378 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075RFBKNV/?tag=tolees-20'
 descuento: '27.46'
 average: '23.93'

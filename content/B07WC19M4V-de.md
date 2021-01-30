@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'LEGO 71715 NINJAGO Avatar Jay – Tragbare Arcade Kapsel  Ninja-Spielzeug für Kinder zum Sammeln'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WC19M4V/?tag=tolees0ca-21'
 descuento: '26.08'
 average: '7.2'

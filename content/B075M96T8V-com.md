@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO DUPLO Large Playground Brick Box 10864 Building Block  71 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B075M96T8V/?tag=tolees-20'
 descuento: '18.48'
 average: '40.75'

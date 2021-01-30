@@ -16,6 +16,7 @@ comparePrice: 44.99 GBP
 prodname: 'LEGO 41255 Trolls World Tour Pop Village Celebration Treehouse Building Set with  2 Pods  Portable Travel Toys'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W4LFVQP/?tag=tolees0a-21'
 descuento: '20.00'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Classic 10696 Mittelgroße Bausteine-Box  Lernspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NVDP3ZU/?tag=tolees0ca-21'
 descuento: '16.84'
 average: '22.465'

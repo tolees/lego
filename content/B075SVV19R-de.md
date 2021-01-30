@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO Disney 41153 - Princess Arielles königliches Hochzeitsboot  Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075SVV19R/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '33.71714285714286'

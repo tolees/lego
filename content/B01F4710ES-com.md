@@ -16,6 +16,7 @@ comparePrice: 79.99 USD
 prodname: 'LEGO DC Super Hero Girls Super Hero High School 41232 Superhero Toy'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01F4710ES/?tag=tolees-20'
 descuento: '25.29'
 average: '62.325'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO 41362 - Friends Supermarkt von Heartlake City  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTK9B4B/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '23.155454545454546'

@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'The Lego Ninjago Movie Videogame - Xbox One'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B073HNLYN5/?tag=tolees-20'
 descuento: '17.46'
 average: '15.784285714285716'

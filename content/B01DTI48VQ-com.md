@@ -16,6 +16,7 @@ comparePrice: 9.33 USD
 prodname: 'LEGO Chicken Suit Guy Minifigure with Coop'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01DTI48VQ/?tag=tolees-20'
 descuento: '43.19'
 average: '5.3'

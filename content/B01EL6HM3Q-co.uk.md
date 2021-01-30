@@ -16,6 +16,7 @@ comparePrice: 11.43 GBP
 prodname: 'LEGO Lights IQLGL-KE95 Star Wars Episode VII Poe Dameron Key Light'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01EL6HM3Q/?tag=tolees0a-21'
 descuento: '29.57'
 average: '6.327692307692308'

@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'LEGO 42031 Cherry Picker'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00NGJCKS2/?tag=tolees-20'
 descuento: '16.74'
 average: '44.010000000000005'

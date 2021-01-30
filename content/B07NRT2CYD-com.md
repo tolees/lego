@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO City Advent Calendar 60235 Building Kit  234 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07NRT2CYD/?tag=tolees-20'
 descuento: '23.31'
 average: '20.841428571428573'

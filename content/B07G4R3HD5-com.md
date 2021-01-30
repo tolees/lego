@@ -16,6 +16,7 @@ comparePrice: 79.99 USD
 prodname: 'LEGO Classic 10717 Bricks Bricks Bricks 1500 Piece Set - Encourages Creativity in all Ages - Ideal for Creators of all Ages - Brick Separator Included'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07G4R3HD5/?tag=tolees-20'
 descuento: '15.34'
 average: '67.255'

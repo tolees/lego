@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'The Lego Movie 2 70838 Königin Wasimma Si Willis gar nicht böser Space-Tempel  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KQB4S7H/?tag=tolees0ca-21'
 descuento: '26.86'
 average: '71.48133333333334'

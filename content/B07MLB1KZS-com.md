@@ -16,6 +16,7 @@ comparePrice: 41.99 USD
 prodname: 'LEGO Movie 2 The: The Second Part  4K Ultra HD + Blu-ray + Digital '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07MLB1KZS/?tag=tolees-20'
 descuento: '60.80'
 average: '16.366'

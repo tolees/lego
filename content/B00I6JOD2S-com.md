@@ -16,6 +16,7 @@ comparePrice: 5.97 USD
 prodname: 'The LEGO Movie  DVD  Special Edition'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00I6JOD2S/?tag=tolees-20'
 descuento: '16.25'
 average: '5.0'

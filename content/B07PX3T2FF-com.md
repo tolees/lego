@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Harry Potter and The Goblet of Fire The Rise of Voldemort 75965 Building Kit  184 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07PX3T2FF/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DISK18271K Deluxe Costume  Mummy  Medium'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01N5V8TD0/?tag=tolees0a-21'
 descuento: '75.01'
 average: '24.99'

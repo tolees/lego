@@ -16,6 +16,7 @@ comparePrice: 8.0 GBP
 prodname: 'Lego 30522 The Batman Movie Exclusive Polybag Batman in the Phantom Zone'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01N4Q2JUD/?tag=tolees0a-21'
 descuento: '38.88'
 average: '4.176170212765958'

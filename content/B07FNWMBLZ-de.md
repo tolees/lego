@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug  Bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNWMBLZ/?tag=tolees0ca-21'
 descuento: '25.28'
 average: '29.88'

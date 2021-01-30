@@ -16,6 +16,7 @@ comparePrice: 8.0 GBP
 prodname: 'LEGO 41389 Friends Ice Cream Cart Playset with Stephanie  Scooter andDash the Dog Figure  for Kids 6+ Years old'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TKRKB/?tag=tolees0a-21'
 descuento: '37.50'
 average: '5.946666666666666'

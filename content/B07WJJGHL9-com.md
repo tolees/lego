@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO Creator 3in1 Monster Burger Truck 31104 Building Kit  Cool Buildable Toy for Kids  New 2020  499 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WJJGHL9/?tag=tolees-20'
 descuento: '20.00'
 average: '39.99'

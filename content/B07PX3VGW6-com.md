@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Classic Windows of Creativity 11004 Building Kit  450 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07PX3VGW6/?tag=tolees-20'
 descuento: '20.01'
 average: '23.99'

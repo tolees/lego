@@ -16,6 +16,7 @@ comparePrice: 24.99 GBP
 prodname: 'LEGO 31094 Creator 3in1 Race Plane Helicopter and Jet Building Set  Airplane Playset with Pilot Minifigure  Toys for Kids 7 Years Old and Older'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNS6J88/?tag=tolees0a-21'
 descuento: '29.97'
 average: '20.119999999999997'

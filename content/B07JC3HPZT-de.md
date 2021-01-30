@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'LEGO Duplo 10894 Disney Pixar Toy-Story-Zug  Bausteine'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21'
 descuento: '28.68'
 average: '14.233749999999999'

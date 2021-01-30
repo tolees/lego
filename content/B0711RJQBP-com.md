@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Marvel Superheroes 2 - Nintendo Switch'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B0711RJQBP/?tag=tolees-20'
 descuento: '50.02'
 average: '14.99'

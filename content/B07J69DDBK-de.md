@@ -16,6 +16,7 @@ comparePrice: 29.23 EUR
 prodname: 'LEGO Marvel Spider-Man 76128 - Far From Home Duell mit Molten Man  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J69DDBK/?tag=tolees0ca-21'
 descuento: '24.77'
 average: '22.207'

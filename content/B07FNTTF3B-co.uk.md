@@ -16,6 +16,7 @@ comparePrice: 34.99 GBP
 prodname: 'LEGO 70668 Ninjago Legacy Jay’s Storm Fighter Building Kit  Colourful'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNTTF3B/?tag=tolees0a-21'
 descuento: '29.98'
 average: '28.17'

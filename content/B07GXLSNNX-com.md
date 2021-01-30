@@ -16,6 +16,7 @@ comparePrice: 69.99 USD
 prodname: 'LEGO THE LEGO MOVIE 2 Sweet Mayhem’s Systar Starship; 70830 Building Kit  Spaceship Toy for 9+ Year Old Girls and Boys  502 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GXLSNNX/?tag=tolees-20'
 descuento: '40.02'
 average: '40.54'

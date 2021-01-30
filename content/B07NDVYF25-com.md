@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'Lego Marvel Collection - PlayStation 4'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07NDVYF25/?tag=tolees-20'
 descuento: '53.44'
 average: '19.279999999999998'

@@ -16,6 +16,7 @@ comparePrice: 17.99 USD
 prodname: 'Lego Star Wars Han Solo Minifigure 7965'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B007F1LWYA/?tag=tolees-20'
 descuento: '33.35'
 average: '11.99'

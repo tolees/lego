@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Lego Star Wars R2-D2 Key Light [With Battery]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BYYR01I/?tag=tolees0ca-21'
 descuento: '61.59'
 average: '4.99'

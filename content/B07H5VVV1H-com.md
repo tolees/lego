@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Harry Potter: Collection - Xbox One'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07H5VVV1H/?tag=tolees-20'
 descuento: '46.68'
 average: '15.384'

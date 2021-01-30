@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Dittzz Display Ständer Bausteine Halterung Ständer Für Lego 75257 Star Wars Millennium Falcon  Lego Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085NN9SBJ/?tag=tolees0ca-21'
 descuento: '30.78'
 average: '17.99'

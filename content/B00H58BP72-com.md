@@ -16,6 +16,7 @@ comparePrice: 99.99 USD
 prodname: '2 Pounds Bulk Lego Bricks - Random Selection of Vintage Lego Bricks'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00H58BP72/?tag=tolees-20'
 descuento: '65.02'
 average: '33.24076923076924'

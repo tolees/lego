@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO City Great Vehicles Garbage Truck 60220 Building Kit  90 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GVXJVDM/?tag=tolees-20'
 descuento: '20.01'
 average: '16.169999999999998'

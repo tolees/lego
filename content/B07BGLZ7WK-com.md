@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO City Tracks 60205 Building Kit  20 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07BGLZ7WK/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

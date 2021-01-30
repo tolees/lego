@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO Marvel Spider-Man Far From Home: Molten Man Battle 76128 Building Kit  294 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JXP6R14/?tag=tolees-20'
 descuento: '20.01'
 average: '23.99'

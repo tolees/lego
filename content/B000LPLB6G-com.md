@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Writing System STAR WARS C-3PO C3PO Pen'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B000LPLB6G/?tag=tolees-20'
 descuento: '24.61'
 average: '15.07'

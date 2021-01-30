@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DC Comics UK 70916 "The Batwing" Construction Toy'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B06XMQKBTS/?tag=tolees0a-21'
 descuento: '19.99'
 average: '82.60000000000001'

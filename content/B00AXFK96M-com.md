@@ -16,6 +16,7 @@ comparePrice: 14.98 USD
 prodname: 'LEGO Star Wars: The Empire Strikes Out'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00AXFK96M/?tag=tolees-20'
 descuento: '56.74'
 average: '6.48'

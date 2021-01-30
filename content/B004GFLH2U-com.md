@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO Star Wars Minifigure - General Grievous Clone Wars Version Tan  2010 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B004GFLH2U/?tag=tolees-20'
 descuento: '60.01'
 average: '19.99'

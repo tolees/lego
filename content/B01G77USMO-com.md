@@ -16,6 +16,7 @@ comparePrice: 24.95 USD
 prodname: 'LEGO Star Wars - Han Solo in Carbonite LED Lite - Key Chain'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01G77USMO/?tag=tolees-20'
 descuento: '43.93'
 average: '13.99'

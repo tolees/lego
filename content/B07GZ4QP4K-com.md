@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Star Wars TIE Fighter Attack 75237 4+ Building Kit  77 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GZ4QP4K/?tag=tolees-20'
 descuento: '20.01'
 average: '18.8875'

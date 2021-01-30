@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Lego Ninjago Kinder Ninja Rucksack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014LKT6AE/?tag=tolees0ca-21'
 descuento: '52.51'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO Creator 31071 - Forschungsdrohne Bauspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075SVNY76/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '7.031666666666666'

@@ -16,6 +16,7 @@ comparePrice: 9.95 USD
 prodname: 'LEGO Solo: A Star Wars Story MiniFigure - Corellian Hound Animal Dog  75209 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07CYS5TVV/?tag=tolees-20'
 descuento: '69.95'
 average: '2.99'

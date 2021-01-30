@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LEGO City 60217 Löschflugzeug der Feuerwehr  Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNS6J8X/?tag=tolees0ca-21'
 descuento: '29.48'
 average: '27.546874999999996'

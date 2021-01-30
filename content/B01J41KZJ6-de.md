@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEGO Star Wars - Rogue One Actionfigur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J41KZJ6/?tag=tolees0ca-21'
 descuento: '49.98'
 average: '16.352800000000006'

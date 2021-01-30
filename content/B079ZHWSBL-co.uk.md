@@ -16,6 +16,7 @@ comparePrice: 99.99 GBP
 prodname: 'LEGO DISKX14271 Kit Costume  Mask  One Size'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B079ZHWSBL/?tag=tolees0a-21'
 descuento: '83.01'
 average: '16.99'

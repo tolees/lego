@@ -16,6 +16,7 @@ comparePrice: 29.99 GBP
 prodname: 'LEGO Harry Potter 75946 Hungarian Horntail Triwizard Challenge Dragon Toy  Harry Potter Gift Ideas'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07G3D9XQB/?tag=tolees0a-21'
 descuento: '20.01'
 average: '21.967777777777773'

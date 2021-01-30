@@ -16,6 +16,7 @@ comparePrice: 35.99 GBP
 prodname: 'LEGO City 60245 Police Monster Truck Heist Building Set with Van  Motorbike  Bank  and Magnetic Brick'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TM73M/?tag=tolees0a-21'
 descuento: '16.67'
 average: '31.342857142857138'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO NINJAGO 70663 - Spinjitzu Nya & Wu'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNT8XBF/?tag=tolees0ca-21'
 descuento: '47.47'
 average: '12.245000000000001'

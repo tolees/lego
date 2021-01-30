@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO DUPLO Disney Pixar Toy Story Train 10894 Perfect for Preschoolers  Toddler Train Set includes Toy Story Character favorites Buzz Lightyear and Woody  21 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GXY6JKP/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'THE LEGO MOVIE 2 70824 Das ist Königin Wasimma Si-Willi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNS6P77/?tag=tolees0ca-21'
 descuento: '40.22'
 average: '12.005454545454544'

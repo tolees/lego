@@ -16,6 +16,7 @@ comparePrice: 89.99 USD
 prodname: 'Lego Background Birthday for Boy 7x5 Customized Photography Backdrop Birthday Wall Backgrounds for Kids Lego Stars War Theme Baby Photo Backdrops'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07KQWKM6L/?tag=tolees-20'
 descuento: '55.56'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 10.97 USD
 prodname: 'LEGO Ideas CUUSOO - Female Scientist Minifigure with Sextant  Syringe and Purple Bottle  21110 '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00UZOMJ0K/?tag=tolees-20'
 descuento: '39.02'
 average: '6.69'

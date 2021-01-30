@@ -16,6 +16,7 @@ comparePrice: 10.95 USD
 prodname: 'LEGO Minecraft MiniFigure - Baby Zombie  Very Cute  21141'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B079VKT49P/?tag=tolees-20'
 descuento: '85.48'
 average: '1.59'

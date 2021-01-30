@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'LEGO City Arctic Scout Truck 60194 Building Kit  322 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07BHG3GR3/?tag=tolees-20'
 descuento: '31.66'
 average: '41.0'

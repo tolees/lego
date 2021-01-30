@@ -16,6 +16,7 @@ comparePrice: 15.95 USD
 prodname: 'LEGO Star Wars The Last Jedi Minifigure - Finn  with Silver Blaster  75176'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07JKZR8ZX/?tag=tolees-20'
 descuento: '59.31'
 average: '5.575714285714286'

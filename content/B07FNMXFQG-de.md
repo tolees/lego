@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lego 41364 Friends Stephanies Cabrio mit Anhänger  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNMXFQG/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '14.546666666666667'

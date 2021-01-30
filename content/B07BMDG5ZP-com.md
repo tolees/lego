@@ -16,6 +16,7 @@ comparePrice: 39.99 USD
 prodname: 'LEGO Disney Pixar s The Incredibles - Nintendo Switch'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07BMDG5ZP/?tag=tolees-20'
 descuento: '37.78'
 average: '21.619999999999997'

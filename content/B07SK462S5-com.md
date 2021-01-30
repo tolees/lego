@@ -16,6 +16,7 @@ comparePrice: 59.99 USD
 prodname: 'Lego Star Wars Skywalker Saga - PlayStation 4 Standard Edition'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07SK462S5/?tag=tolees-20'
 descuento: '16.75'
 average: '52.4525'

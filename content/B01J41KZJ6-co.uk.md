@@ -16,6 +16,7 @@ comparePrice: 19.99 GBP
 prodname: 'LEGO 75525 Star Wars Baze Malbus'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B01J41KZJ6/?tag=tolees0a-21'
 descuento: '21.21'
 average: '14.92311475409836'

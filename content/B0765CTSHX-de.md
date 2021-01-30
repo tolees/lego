@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'LEGO City Krankenhaus  60204  Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0765CTSHX/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '59.99'

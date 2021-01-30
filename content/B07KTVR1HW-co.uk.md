@@ -16,6 +16,7 @@ comparePrice: 34.99 GBP
 prodname: 'LEGO 76138 DC Batman 4+ Batman and The Joker Escape  Toys for Boys and Girls Age 4 with Buildable Helicopter'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07KTVR1HW/?tag=tolees0a-21'
 descuento: '25.01'
 average: '24.52363636363636'

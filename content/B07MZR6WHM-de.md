@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Spieland Custom Battle Szene Set für Lego Mini Figuren Militär Soldaten SWAT Team Polizei'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZR6WHM/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '13.99'

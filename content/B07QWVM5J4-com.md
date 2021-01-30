@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO DUPLO Town Submarine Adventure 10910 Building Kit  24 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07QWVM5J4/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

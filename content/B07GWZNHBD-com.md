@@ -16,6 +16,7 @@ comparePrice: 49.99 USD
 prodname: 'LEGO THE LEGO MOVIE 2 Movie Maker 70820 Building Kit For Kids  Build and Play Creative Director Roleplay Toy with Free Movie Maker App  482 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07GWZNHBD/?tag=tolees-20'
 descuento: '24.00'
 average: '34.848'

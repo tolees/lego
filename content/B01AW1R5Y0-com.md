@@ -16,6 +16,7 @@ comparePrice: 52.98 USD
 prodname: 'LEGO Star Wars Galactic Empire Battle Pack 75134'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B01AW1R5Y0/?tag=tolees-20'
 descuento: '15.08'
 average: '45.82333333333334'

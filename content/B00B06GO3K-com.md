@@ -16,6 +16,7 @@ comparePrice: 14.99 USD
 prodname: 'Lego Star Wars Republic Trooper Minifigure'
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B00B06GO3K/?tag=tolees-20'
 descuento: '33.29'
 average: '10.0'

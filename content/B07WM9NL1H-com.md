@@ -16,6 +16,7 @@ comparePrice: 19.99 USD
 prodname: 'LEGO Disney Belle’s Storybook Adventures 43177 Creative Building Kit Toy  New 2020  111 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07WM9NL1H/?tag=tolees-20'
 descuento: '20.01'
 average: '15.99'

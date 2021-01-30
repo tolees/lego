@@ -16,6 +16,7 @@ comparePrice: 23.99 USD
 prodname: 'LEGO 5005233 Exclusives Hamleys Royal Guard Minifigure  Polybag '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B078LHSB6P/?tag=tolees-20'
 descuento: '31.85'
 average: '16.35'

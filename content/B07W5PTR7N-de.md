@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'LEGO 43170 - Vaianas Boot  Disney Princess  Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W5PTR7N/?tag=tolees0ca-21'
 descuento: '28.23'
 average: '9.762857142857143'

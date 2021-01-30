@@ -16,6 +16,7 @@ comparePrice: 15.99 GBP
 prodname: 'LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO Customisable Spinner Toy Set'
 country: 'co.uk'
 flag: '🇬🇧'
+brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=tolees0a-21'
 descuento: '30.02'
 average: '11.19'

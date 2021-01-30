@@ -16,6 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO NINJAGO ShuriCopter 70673 Kids Toy Helicopter Building Set with Ninja Minifigures and Toy Ninja Weapons  361 Pieces '
 country: 'com'
 flag: '🇺🇸'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B07NRTDW7X/?tag=tolees-20'
 descuento: '20.01'
 average: '23.99'

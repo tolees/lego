@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO City 60180 - Starke Fahrzeuge Monster-Truck  Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075GPLQKH/?tag=tolees0ca-21'
 descuento: '22.71'
 average: '15.22'
