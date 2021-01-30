@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lego Architecture - LEGO 21046 Architect at 27.66 % discount'
-date: 2021-01-29 02:27:24
+title: 'Lego Architecture - LEGO 21046 Architect at 29.48 % discount'
+date: 2021-01-30 03:03:29
 image: 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [ 'lego', ]
 actualPrice: 70.51 EUR
 currency: EUR
 price: 70.51
-comparePrice: 97.47 EUR
+comparePrice: 99.99 EUR
 prodname: 'Lego Architecture - LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21'
-descuento: '27.66'
-average: '69.8719218241043'
+descuento: '29.48'
+average: '69.8760517799354'
 ---
 
-With a final price of 70.51 EUR (original: 97.47 EUR) you can find [Lego Architecture - LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21) with a  27.66 % discount here:
+With a final price of 70.51 EUR (original: 99.99 EUR) you can find [Lego Architecture - LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21) with a  29.48 % discount here:
 
 [![Lego Architecture - LEGO 21046 Architect](https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg)](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
-- Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
-- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
-- Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
 - 1760 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
+- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
+- Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
+- Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
+- Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)
