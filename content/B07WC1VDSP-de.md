@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.00 % deal for LEGO 42108 Technic Kran-LKW  Spielzeug  '
-date: 2021-01-30 08:27:58
+date: 2021-01-31 09:25:19
 image: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21'
 descuento: '22.00'
-average: '75.1751311953356'
+average: '75.1833139534887'
 ---
 
 There's a deal [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)  with  22.00 % discount, final price tag of  77.99 EUR (original: 99.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeug
 
 ℹ️:
 
-- Das Kran-LKW-Spielzeug verfügt über eine 8-Rad-Lenkung, vier einzeln steuerbare Stützfüße, zwei Kabinen und einen superhohen Teleskopausleger von 78 cm Länge
-- Die Kabine des Kranführers ist drehbar und der Hydraulikmechanismus hebt den Arm um 70° an, während Kranblöcke und Seile die schwere Ladung mühelos anheben
-- Um zu sehen, wie ein echter Kran funktioniert: Fahre den Ausleger aus und hebe ihn an, hebe dann die Betonsäule an und versuche schließlich, ihn präzise abzustellen
-- Dieses technisch fortgeschrittene Spielzeugmodell ist eine Herausforderung für junge Fans von Baumaschinen, aber mit Anleitung dennoch einfach zu bauen
-- Das klassische schwarz-gelbe Design sieht genauso aus wie das Original, während Fans erforschen, was all die verschiedenen fantastischen Funktionen leisten können
+- This advanced engineering toy model is a challenge for young fans of construction equipment but still easy to build with instructions
+- Classic black and yellow design that looks just like the real thing when fans explore what all the different awesome functions can do
+- The crane truck toy features eight wheel steering, four individually controlled outriggers, two cabins and super-high telescopic arm 30 Inch (78 cm) long
+- To see how a real crane works: Put out the outriggers, raise the boom and hoist the concrete pillar, then try to put it precisely down
+- Crane operators cabin turns around, hydraulic mechanism lifts the arm 70 Degree, while crane blocks and ropes raise the heavy cargo effortlessly
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)
