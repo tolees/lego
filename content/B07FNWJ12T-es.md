@@ -28,11 +28,11 @@ With a final price of 46.93 EUR (original: 99.99 EUR) you can find [LEGO Pelícu
 
 ℹ️:
 
-- Zebe mide más de 8 cm de altura
-- Incluye 2 figuras la LEGO PELÍCULA 2 para construir: Unikitty en su versión de Kitty Disco y Zebe; incluye también minipersonajes de Tempo y Melody
-- La figura para construir de unikitty en su versión de kitty disco es una novedad en enero de 2019
-- El juguete para construir fiestabús pop-up cuenta con cabina abatible para la figura de zebe, techo y laterales abatibles para fácil itar el juego, 2 altavoces desplegables, un ladrillo lego con luz para iluminar la pista de baile giratoria, una bola de discoteca retráctil con elementos translúcidos de colores, 2 refrescos y un micrófono
-- Recrea las escenas más divertidas de la LEGO PELÍCULA 2 con este llamativo juguete de construcción
 - El Fiestabús Pop-Up mide más de 24 cm de altura, 30 cm de longitud y 23 cm de ancho
+- El juguete para construir fiestabús pop-up cuenta con cabina abatible para la figura de zebe, techo y laterales abatibles para fácil itar el juego, 2 altavoces desplegables, un ladrillo lego con luz para iluminar la pista de baile giratoria, una bola de discoteca retráctil con elementos translúcidos de colores, 2 refrescos y un micrófono
+- La figura para construir de unikitty en su versión de kitty disco es una novedad en enero de 2019
+- Zebe mide más de 8 cm de altura
+- Recrea las escenas más divertidas de la LEGO PELÍCULA 2 con este llamativo juguete de construcción
+- Incluye 2 figuras la LEGO PELÍCULA 2 para construir: Unikitty en su versión de Kitty Disco y Zebe; incluye también minipersonajes de Tempo y Melody
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07FNWJ12T/?tag=tolees-21)
