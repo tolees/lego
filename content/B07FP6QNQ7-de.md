@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO 42096 Technic Porsche 911 RSR  Renn'
-date: 2021-01-30 02:58:19
+date: 2021-01-31 04:40:26
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 149.99 EUR
 prodname: 'LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgeschrittene  exklusives Sammlerstück'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21'
 descuento: '20.00'
-average: '115.870240963855'
+average: '115.882612612612'
 ---
 
 There's a deal [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgeschrittene  exklusives Sammlerstück](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21)  with  20.00 % discount, final price tag of  119.99 EUR (original: 149.99 EUR) here:
@@ -27,10 +28,10 @@ There's a deal [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortge
 
 ℹ️:
 
-- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
 - Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle auThentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder- und Rücklichter
-- Dieses Spielzeugauto zum Sammeln überzeugt mit einer auThentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details
-- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
 - Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
+- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
+- Dieses Spielzeugauto zum Sammeln überzeugt mit einer auThentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details
+- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21)
