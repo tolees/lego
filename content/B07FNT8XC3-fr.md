@@ -28,11 +28,11 @@ You've got [LEGO® Minecraft™ L aventure du bateau pirate Jeu de construction 
 
 ℹ️:
 
-- Mesure plus de 15 cm de haut, 23 cm de large et 23 cm de profondeur.
-- Comprend 2 figurines : un pirate et Alex, plus un zombie Minecraft et des figurines Minecraft de dauphin, de perroquet et de tortue.
-- Construisez laventure du bateau pirate LEGO Minecraft.
-- Les ensembles LEGO Minecraft sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
-- Issu de lunivers des jeux Minecraft
 - 386 pièces pour les filles et les garçons de 8 ans et plus.
+- Construisez laventure du bateau pirate LEGO Minecraft.
+- Comprend 2 figurines : un pirate et Alex, plus un zombie Minecraft et des figurines Minecraft de dauphin, de perroquet et de tortue.
+- Issu de lunivers des jeux Minecraft
+- Les ensembles LEGO Minecraft sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- Mesure plus de 15 cm de haut, 23 cm de large et 23 cm de profondeur.
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B07FNT8XC3/?tag=tolees0d-21)
