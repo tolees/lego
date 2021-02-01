@@ -28,10 +28,10 @@ There's a deal [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaid
 
 ℹ️:
 
+- LEGO City Police toys can be built together with all other LEGO building toy sets and LEGO bricks for creative building
+- Build a super-fast Sky Police toy jet plane with opening cockpit and extending hook to catch the crook’s parachute
 - Accessory elements include : pilot’s helmet with opening visor/oxygen mask, handcuffs, 2 backpacks and 2 money bags
 - Features a police toy motorbike and a crook’s getaway toy buggy for epic police adventures
-- Build a super-fast Sky Police toy jet plane with opening cockpit and extending hook to catch the crook’s parachute
-- LEGO City Police toys can be built together with all other LEGO building toy sets and LEGO bricks for creative building
 - Includes 4 LEGO City minifigures : 2 crooks and 2 police officer figures
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)
