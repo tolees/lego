@@ -28,9 +28,9 @@ You've got [LEGO Disney Princess - Olaf  Juguete de Construcción del Muñeco de
 
 ℹ️:
 
-- óptimo para decorar tu casa o tu oficina e inundar de felicidad cada día
 - Olaf mide más de 14 cm de altura, 10 cm de ancho y 5 cm de profundidad
-- Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz
+- óptimo para decorar tu casa o tu oficina e inundar de felicidad cada día
 - Disfruta construyendo y reconstruyendo a tu personaje de Disney Frozen favorito
+- Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21)

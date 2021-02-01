@@ -1,36 +1,37 @@
 ---
 layout: post
-title: '27.01 % deal for LEGO City - Police Policía Aérea: Arrest'
-date: 2021-01-13 13:34:53
+title: '16.67 % deal for LEGO City - Police Policía Aérea: Arrest'
+date: 2021-02-01 16:45:18
 image: 'https://m.media-amazon.com/images/I/51b0cjhKMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNMTW4H-es'
-actualPrice: 21.89 EUR
+slug: 'B07FNMTW4H-es LEGO City - Police Policía Aérea: Arresto del Ladrón...'
+sku: 'B07FNMTW4H-es'
+tags: [ 'lego', ]
+actualPrice: 24.99 EUR
 currency: EUR
-price: 21.89
+price: 24.99
 comparePrice: 29.99 EUR
 prodname: 'LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 '
 country: 'es'
 flag: '🇪🇸'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21'
-descuento: '27.01'
-average: '20.649455782312927'
+descuento: '16.67'
+average: '20.6787837837838'
 ---
 
-There's a deal [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)  with  27.01 % discount, final price tag of  21.89 EUR (original: 29.99 EUR) here:
+There's a deal [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)  with  16.67 % discount, final price tag of  24.99 EUR (original: 29.99 EUR) here:
 
 [![LEGO City - Police Policía Aérea: Arrest](https://m.media-amazon.com/images/I/51b0cjhKMuL._SL200_.jpg)](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)
 
 ℹ️:
 
-- Contiene un veloz jet de la Policía Aérea con cabina abatible para una minifigura y gancho extensible para atrapar el paracaídas de fina tela recubierta, así como una moto de policía y el buggy de juguete para la huida de los ladrones.
-- Incluye 4 minifiguras LEGO City: 2 agentes de la Policía Aérea y 2 ladrones.
-- El paracaídas de juguete del ladrón mide más de 29 cm de altura y 20 cm de ancho.
-- Lanza el paracaídas de juguete al aire e intenta cogerlo con el gancho extensible del jet.
-- Accesorios incluidos: un casco de piloto con visera abatible y máscara de oxígeno, unas esposas, 2 mochilas y 2 sacas de dinero.
-- El jet de la Policía Aérea mide más de 7 cm de altura, 22 cm de longitud y 20 cm de ancho.
-- El buggy de fuga del ladrón mide más de 4 cm de altura, 9 cm de longitud y 4 cm de ancho.
+- Features a police toy motorbike and a crook’s getaway toy buggy for epic police adventures
+- Accessory elements include : pilot’s helmet with opening visor/oxygen mask, handcuffs, 2 backpacks and 2 money bags
+- LEGO City Police toys can be built together with all other LEGO building toy sets and LEGO bricks for creative building
+- Includes 4 LEGO City minifigures : 2 crooks and 2 police officer figures
+- Build a super-fast Sky Police toy jet plane with opening cockpit and extending hook to catch the crook’s parachute
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)

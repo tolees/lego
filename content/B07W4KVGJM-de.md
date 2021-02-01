@@ -29,8 +29,8 @@ There's a deal [LEGO 10913 DUPLO Classic Steinebox  Bauset mit Aufbewahrungsbox 
 ℹ️:
 
 - Enthält auch 2 DUPLO Minifiguren und zum Lernen von Nummern mit 1, 2, 3 nummerierte Steine. 15 einfache Bauideen für den einfachen Start
-- Zum Set gehören 65 bunte Steine sowie vertraute Elemente zur Anregung des Geistes von Kleinkindern, darunter ein Auto mit beweglichen Rädern, ein Dach, ein Fenster und Blumen
 - Es entwickelt kreatives Denken und Problemlösungsfähigkeiten, visuell-räumliche Aufmerksamkeit und Feinmotorik und lehrt durch Rollenspiele
+- Zum Set gehören 65 bunte Steine sowie vertraute Elemente zur Anregung des Geistes von Kleinkindern, darunter ein Auto mit beweglichen Rädern, ein Dach, ein Fenster und Blumen
 - Alle Farben, Gestalten, Personen und Zahlen werden bequem in einer attraktiven Steinebox im LEGO DUPLO-Stil aufbewahrt
 - Mit sicheren, farbenfrohen, benutzerfreundlichen Steinen und Teilen bringt dieses Lernspielzeug Entwicklungsvorteile für Kleinkinder und Kinder im Vorschulalter
 

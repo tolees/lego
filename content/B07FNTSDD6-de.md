@@ -28,10 +28,10 @@ With a final price of 14.66 EUR (original: 19.99 EUR) you can find [LEGO 10901 D
 
 ℹ️:
 
-- Hilf dem mutigen Feuerwehrmann dabei, die Leiter hochzuklettern, um die Katze aus dem Baum zu retten.
-- Enthält 2 LEGO DUPLOFiguren: einen Feuerwehrmann und ein Kind sowie eine Katzenfigur.
-- Erlebe mit den modernen Figuren beim Rollenspiel jede Menge Spaß, eile zur Rettung und feiere die Helden aus dem echten Leben.
-- Auf Knopfdruck lassen sich Licht- und Geräuscheffekte einschalten, sodass alle kleinen Feuerwehrleute mit diesem roten Spielzeug-Feuerwehrauto für Kleinkinder schnell zum Einsatzort fahren können!
 - Mit Feuerwehrauto für Kinder – mit Licht- und Geräuscheffekten, klappbarer Leiter und einer herausziehbaren Schublade – sowie einem Baum zum Zusammenbauen.
+- Enthält 2 LEGO DUPLOFiguren: einen Feuerwehrmann und ein Kind sowie eine Katzenfigur.
+- Auf Knopfdruck lassen sich Licht- und Geräuscheffekte einschalten, sodass alle kleinen Feuerwehrleute mit diesem roten Spielzeug-Feuerwehrauto für Kleinkinder schnell zum Einsatzort fahren können!
+- Hilf dem mutigen Feuerwehrmann dabei, die Leiter hochzuklettern, um die Katze aus dem Baum zu retten.
+- Erlebe mit den modernen Figuren beim Rollenspiel jede Menge Spaß, eile zur Rettung und feiere die Helden aus dem echten Leben.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNTSDD6/?tag=tolees0ca-21)
