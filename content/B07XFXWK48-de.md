@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75276 Star Wars Stormtrooper Helm   at 20.00 % discount'
-date: 2021-01-30 20:54:59
+date: 2021-02-01 21:45:09
 image: 'https://m.media-amazon.com/images/I/51450fUeLlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 47.99 EUR (original: 59.99 EUR) you can find [LEGO 75276 S
 
 ℹ️:
 
-- Dieser 647-teilige Modellbausatz eines Star Wars Charakters ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans ab 18 Jahren und bietet erfahrenen LEGO Baumeistern ein lohnendes Bauerlebnis.
-- Star Wars Fans können ihre Loyalität zum Imperium und ihr herausragendes Können als LEGO Baumeister unter Beweis stellen, indem sie diese faszinierend detailreiche Nachbildung eines Sturmtruppler-Helms bauen und präsentieren.
-- Die legendäre Form und die authentischen Details eines Sturmtruppler-Helms lassen sich mit LEGO Steinen und Grafiken zum Aufkleben nachbilden. Wird er als Schaustück präsentiert, werden Erinnerungen an Actionszenen aus dem Star Wars Film wach.
-- Dieser Helm gehört zu einer LEGO Star Wars Sammlerserie mit Baumodellen und Schaustücken, zu der auch das Sets „Boba Fett Helm“ (75277) gehört.
-- Das LEGO Star Wars Bauset und Sammlerstück „Stormtrooper Helm“ ist 18 cm hoch, 13 cm breit und 14 cm tief. Mit diesen Abmessungen macht es besonders großen Eindruck als Schaustück im Büro oder in den eigenen vier Wänden.
+- Lots of love for all Star Wars fans! This set is a part of a collectible LEGO Star Wars series for adults and more patient teenagers
+- Features a build and display model of a Star Wars Stormtrooper helmet with super-details and beautifully recreated iconic contours
+- The helmet comes with a base and nameplate to show it off at home or as an eye-catching office desk ornament
+- The Stormtrooper’s sinister look is reproduced in detail with LEGO bricks plus graphics stickers
+- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)
