@@ -28,8 +28,8 @@ There's a deal [LEGO 21313 Ideas Nave in Bottiglia  Ritirato dal Produttore ](ht
 
 ℹ️:
 
-- Marca: Lego
-- Giocattoli e modellismo
 - Dimensioni: 8x20x20 cm
+- Giocattoli e modellismo
+- Marca: Lego
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B079PDGK55/?tag=tolees00-21)
