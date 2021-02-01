@@ -28,10 +28,10 @@ You've got [LEGO Star Wars AT-ST Raider 75254 The Mandalorian Collectible All Te
 
 ℹ️:
 
-- This Star Wars collectible building AT-ST toy has lots of features to inspire young minds, including jointed posable legs, a turning turret that opens and 2 firing shooters
-- Immerse your LEGO Star Wars fan in galactic adventures with this unique AT-ST Raider model building kit with lots of play-starting features It makes a perfect holiday gift for all Star Wars collectors
-- This collectible raider model includes 4 LEGO Star Wars minifigure characters: The Mandalorian, Cara Dune and 2 Klatooinian Raider, plus 3 blaster rifles and a blaster Theres plenty to get the Star Wars action started straight away
-- This 540-piece LEGO Star Wars AT-ST Walker collectible model kit measures over 9-inch (25cm) high, 5-inch (15cm) long and 5-inch (13cm) wide
 - Inspire boys and girls aged 8+ with this LEGO brick version of the AT-ST Raider from the hit TV series, The Mandalorian This toy raider building model fosters both imaginative and creative play and sets the scene to play out LEGO action battles
+- Immerse your LEGO Star Wars fan in galactic adventures with this unique AT-ST Raider model building kit with lots of play-starting features It makes a perfect holiday gift for all Star Wars collectors
+- This Star Wars collectible building AT-ST toy has lots of features to inspire young minds, including jointed posable legs, a turning turret that opens and 2 firing shooters
+- This 540-piece LEGO Star Wars AT-ST Walker collectible model kit measures over 9-inch (25cm) high, 5-inch (15cm) long and 5-inch (13cm) wide
+- This collectible raider model includes 4 LEGO Star Wars minifigure characters: The Mandalorian, Cara Dune and 2 Klatooinian Raider, plus 3 blaster rifles and a blaster Theres plenty to get the Star Wars action started straight away
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07Q2WB3D3/?tag=tolees-20)

@@ -28,10 +28,10 @@ There's a deal [LEGO Harry Potter Hagrid s Hut: Buckbeak s Rescue 75947 Toy Hut 
 
 ℹ️:
 
-- The LEGO Hagrid’s Hut: Buckbeak’s Rescue 75947 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building, allowing kids to make the Harry Potter world all their own!
-- Inside the toy hut, kids will find a fire brick that lights up with the push of a button (batteries included), Better hurry outside to release Buckbeak from the chain before the Executioner arrives!
-- With this Harry Potter toy, kids can build and explore Hagrid-s 2-room hut, then save Buckbeak from the Executioner by hiding him in Hagrid’s pumpkin patch
-- Hagrid’s Hut is over 6 inches (16cm) high, 9 inches (23cm) wide and 4 inches (12cm) deep Buckbeak (wings open) is over 1 inches (5cm) high, 2 inches (7cm) long and 4 inches (12cm) wide. 496 pieces – Harry Potter LEGO set for boys and girls aged 8+ and for fans and big kids of all ages
 - This Harry Potter LEGO set includes 6 minifigures: Harry Potter, Ron Weasley, Hermione Granger, Hagrid, Executioner and the Minister of Magic, plus a Buckbeak the Hippogriff figure
+- Hagrid’s Hut is over 6 inches (16cm) high, 9 inches (23cm) wide and 4 inches (12cm) deep Buckbeak (wings open) is over 1 inches (5cm) high, 2 inches (7cm) long and 4 inches (12cm) wide. 496 pieces – Harry Potter LEGO set for boys and girls aged 8+ and for fans and big kids of all ages
+- With this Harry Potter toy, kids can build and explore Hagrid-s 2-room hut, then save Buckbeak from the Executioner by hiding him in Hagrid’s pumpkin patch
+- Inside the toy hut, kids will find a fire brick that lights up with the push of a button (batteries included), Better hurry outside to release Buckbeak from the chain before the Executioner arrives!
+- The LEGO Hagrid’s Hut: Buckbeak’s Rescue 75947 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building, allowing kids to make the Harry Potter world all their own!
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07Q1K195S/?tag=tolees-20)
