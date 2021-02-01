@@ -29,8 +29,8 @@ With a final price of 27.99 GBP (original: 34.99 GBP) you can find [LEGO 75957 H
 ℹ️:
 
 - Includes three (for-June-2019) LEGO Harry Potter minifigures: Harry Potter, Stan Shunpike and Ernie Prang
-- Build the three-level LEGO night Bus toy with hinged opening side panel, removable roof and a movable sliding bed and swinging chandelier
 - The LEGO knight bus 75957 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Build the three-level LEGO night Bus toy with hinged opening side panel, removable roof and a movable sliding bed and swinging chandelier
 - Stan shunpike is issuing tickets and Ernie Prang still hasn’t mastered his steering skills, it is going to be a bumpy ride
 - Includes the cheeky shrunken head and Harry Potter’s chest containing a wand, letter, chocolate bar and a potion bottle
 
