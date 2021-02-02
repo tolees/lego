@@ -28,7 +28,7 @@ With a final price of 21.13 EUR (original: 29.0 EUR) you can find [Time Warner -
 
 ℹ️:
 
-- Il franchise di videogiochi Lego più venduto, torna con un viaggio ricco di azione e umorismo basato sul film di successo di Star Wars
 - In Lego Star Wars: il risveglio della forza, i giocatori rivivono lazione del film di Star Wars: il risveglio della forza.
+- Il franchise di videogiochi Lego più venduto, torna con un viaggio ricco di azione e umorismo basato sul film di successo di Star Wars
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07CZ5BZC4/?tag=tolees00-21)
