@@ -28,11 +28,11 @@ With a final price of 22.99 EUR (original: 29.99 EUR) you can find [LEGO 76385 H
 
 ℹ️:
 
-- Für Kinder ab 8 Jahren. Tolles Geschenk für Fans, die Harry Potter Abenteuer einmal auf eine ganz andere Art und Weise erleben möchten
-- Enthält Harry Potter, Cho Chang und Professor Flitwick als Minifiguren, eine Tafel, ein Bücherregal, einen Kamin, ein Zauberbuch und jede Menge authentisches Zubehör
 - LEGO Harry Potter Hogwarts Moment: Zauberkunstunterricht (76385) ist ein Bauset aus LEGO Steinen in Buchform, das beim Aufklappen das Klassenzimmer für Professor Flitwicks Zauberkunstunterricht auf Schloss Hogwarts preisgibt
-- Enthält authentisches Zubehör, das Kinder aus den Harry Potter Filmen vertraut ist, wie zum Beispiel eine Feder und ein Lehrbuch, mit denen Schüler den Schwebezauber lernen
-- Schlag das Buch auf, um Professor Flitwicks Zauberkunstunterricht zu besuchen. Es gibt jede Menge magische Utensilien zum Üben und authentisches Zubehör für noch mehr Spielspaß
 - Dieses magische Set aus der „Hogwarts Moment“ Reihe ist 12 cm hoch, 8 cm breit und 4 cm dick - die ideale Größe, um das Set mitzunehmen oder im Bücherregal aufzubewahren
+- Schlag das Buch auf, um Professor Flitwicks Zauberkunstunterricht zu besuchen. Es gibt jede Menge magische Utensilien zum Üben und authentisches Zubehör für noch mehr Spielspaß
+- Enthält Harry Potter, Cho Chang und Professor Flitwick als Minifiguren, eine Tafel, ein Bücherregal, einen Kamin, ein Zauberbuch und jede Menge authentisches Zubehör
+- Enthält authentisches Zubehör, das Kinder aus den Harry Potter Filmen vertraut ist, wie zum Beispiel eine Feder und ein Lehrbuch, mit denen Schüler den Schwebezauber lernen
+- Für Kinder ab 8 Jahren. Tolles Geschenk für Fans, die Harry Potter Abenteuer einmal auf eine ganz andere Art und Weise erleben möchten
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G41SJSQ/?tag=tolees0ca-21)

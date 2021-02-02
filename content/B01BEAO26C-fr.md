@@ -29,7 +29,7 @@ You've got [Warner Bros - Lego Star Wars : le Réveil de la Force](https://www.a
 ℹ️:
 
 - 1000597232
-- 2 ans
 - WARNER
+- 2 ans
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B01BEAO26C/?tag=tolees0d-21)
