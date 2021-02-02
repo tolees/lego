@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 19.38 % for LEGO Creator Aerogenerador Vestas - Maqu'
-date: 2021-02-01 04:40:10
+date: 2021-02-02 04:48:47
 image: 'https://m.media-amazon.com/images/I/51Kp14II7KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07BLG2LZX/?tag=tolees-21'
 descuento: '19.38'
-average: '205.813138686131'
+average: '205.836231884058'
 ---
 
 You've got [LEGO Creator Aerogenerador Vestas - Maqueta de Juguete de Molino de Viento Moderno  10268 ](https://www.amazon.es/dp/B07BLG2LZX/?tag=tolees-21) with a  19.38 % discount, with final price of 209.0 EUR (original: 259.24 EUR) at the following link:
@@ -28,15 +28,10 @@ You've got [LEGO Creator Aerogenerador Vestas - Maqueta de Juguete de Molino de 
 
 ℹ️:
 
-- Este set incluye más de 800 piezas y es apto para mayores de 12 años
-- Incluye un motor LEGO Power Functions mediano, un alimentador a pilas y 2 cables prolongadores de 50 cm (novedad en enero de 2018)
-- Incluye 3 minifiguras: una mujer y 2 técnicos de Vestas con una V impresa en el torso; contiene también una figura de un perro
-- Mide aproximadamente 100 cm de altura, 62 cm de ancho y 31 cm de profundidad
-- Accesorios incluidos: 2 cascos de seguridad, herramientas y 2 sobres
-- Abre las puertas del vehículo de mantenimiento y despliega el compartimento de herramientas retráctil
-- Celebra la tecnología que nos permite aprovechar las energías renovables con este juguete científico para construir
-- Incluye un abeto fabricado en plástico vegetal obtenido a partir de fuentes sostenibles (novedad en enero de 2019)
-- El set LEGO Creator Expert Aerogenerador Vestas cuenta también con un aerogenerador con aspas ajustables, una detallada torre y góndola móvil con balizas de señalización para el tráfico aéreo; un vehículo de mantenimiento de Vestas; árboles y vegetación; y una casa con jardín, flores, valla y patio con 2 sillas, mesa y sombrilla
-- Gira la góndola a la izquierda o a la derecha y activa el motor Power Functions incluido para mover las aspas ajustables del aerogenerador e iluminar de verdad el porche de la casa
+- This big LEGO set also includes 3 minifigures: A woman and two Vestas service technicians, plus a dog figure
+- Includes a new-for-January-2019 spruce tree, manufactured from sustainably sourced plant-based plastic
+- Accessory elements include two safety helmets, tools and two envelopes
+- Build an icon of wind energy with the collectible LEGO Creator Expert Vestas wind turbine, complete with power functions motorised blades, trees and greenery, cozy cottage and a Vestas service van
+- Celebrate renewable energy technology with this buildable science toy
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07BLG2LZX/?tag=tolees-21)
