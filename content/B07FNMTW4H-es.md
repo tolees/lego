@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % deal for LEGO City - Police Policía Aérea: Arrest'
-date: 2021-02-01 16:45:18
+date: 2021-02-02 17:03:14
 image: 'https://m.media-amazon.com/images/I/51b0cjhKMuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21'
 descuento: '16.67'
-average: '20.6787837837838'
+average: '20.7362666666667'
 ---
 
 There's a deal [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)  with  16.67 % discount, final price tag of  24.99 EUR (original: 29.99 EUR) here:
@@ -28,10 +28,12 @@ There's a deal [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaid
 
 ℹ️:
 
-- LEGO City Police toys can be built together with all other LEGO building toy sets and LEGO bricks for creative building
-- Build a super-fast Sky Police toy jet plane with opening cockpit and extending hook to catch the crook’s parachute
-- Accessory elements include : pilot’s helmet with opening visor/oxygen mask, handcuffs, 2 backpacks and 2 money bags
-- Features a police toy motorbike and a crook’s getaway toy buggy for epic police adventures
-- Includes 4 LEGO City minifigures : 2 crooks and 2 police officer figures
+- El paracaídas de juguete del ladrón mide más de 29 cm de altura y 20 cm de ancho.
+- Accesorios incluidos: un casco de piloto con visera abatible y máscara de oxígeno, unas esposas, 2 mochilas y 2 sacas de dinero.
+- Contiene un veloz jet de la Policía Aérea con cabina abatible para una minifigura y gancho extensible para atrapar el paracaídas de fina tela recubierta, así como una moto de policía y el buggy de juguete para la huida de los ladrones.
+- Lanza el paracaídas de juguete al aire e intenta cogerlo con el gancho extensible del jet.
+- El buggy de fuga del ladrón mide más de 4 cm de altura, 9 cm de longitud y 4 cm de ancho.
+- El jet de la Policía Aérea mide más de 7 cm de altura, 22 cm de longitud y 20 cm de ancho.
+- Incluye 4 minifiguras LEGO City: 2 agentes de la Policía Aérea y 2 ladrones.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)
