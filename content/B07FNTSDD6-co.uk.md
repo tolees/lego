@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10901 DUPLO Town Fire Truck   Light at 27.24 % discount'
-date: 2021-02-01 12:44:13
+date: 2021-02-02 16:58:14
 image: 'https://m.media-amazon.com/images/I/51y-KBR0VHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNTSDD6/?tag=tolees0a-21'
 descuento: '27.24'
-average: '13.7233333333333'
+average: '14.388'
 ---
 
 With a final price of 13.09 GBP (original: 17.99 GBP) you can find [LEGO 10901 DUPLO Town Fire Truck   Light & Sound  Firefighter Figure  Toy for Kids Age 2-5](https://www.amazon.co.uk/dp/B07FNTSDD6/?tag=tolees0a-21) with a  27.24 % discount here:
@@ -28,10 +28,10 @@ With a final price of 13.09 GBP (original: 17.99 GBP) you can find [LEGO 10901 D
 
 ℹ️:
 
-- The LEGO DUPLO 10901 Fire Truck educational toy is easy to build and encourages learning through play, language development, fine motor skills development and cognitive development in children
+- Build a LEGO DUPLO fire truck toy with flashing lights and siren sound, plus a buildable tree and cat to rescue
 - 21 pieces – kids’ firefighter toy for boys and girls aged 2+
 - This toddler fire truck building toy includes two LEGO DUPLO figures: A firefighter figure and a child figure, plus a cat
-- Build a LEGO DUPLO fire truck toy with flashing lights and siren sound, plus a buildable tree and cat to rescue
+- The LEGO DUPLO 10901 Fire Truck educational toy is easy to build and encourages learning through play, language development, fine motor skills development and cognitive development in children
 - Firefighter truck measures over 3 Inch (10 cm) high, 5 Inch (14 cm) long and 2 Inch (7 cm) wide
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNTSDD6/?tag=tolees0a-21)
