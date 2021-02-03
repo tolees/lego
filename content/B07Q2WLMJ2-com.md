@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Star Wars: The Rise of Skywalker Re'
-date: 2021-02-01 03:32:08
+date: 2021-02-03 15:59:48
 image: 'https://m.media-amazon.com/images/I/51p8NtPbKsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07Q2WLMJ2/?tag=tolees-20'
 descuento: '20.00'
-average: '59.0319148936169'
+average: '58.9685416666665'
 ---
 
 There's a deal [LEGO Star Wars: The Rise of Skywalker Resistance Y-Wing Starfighter 75249 New Advanced Collectible Starship Model Building Kit  578 Pieces ](https://www.amazon.com/dp/B07Q2WLMJ2/?tag=tolees-20)  with  20.00 % discount, final price tag of  55.99 USD (original: 69.99 USD) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO Star Wars: The Rise of Skywalker Resistance Y-Wing Starfigh
 
 ℹ️:
 
-- Inspire young minds and collectors with this LEGO Star Wars 75249 Resistance Y-Wing Starfighter model. This updated version of the classic fighter-bomber, a.k.a. wishbone, featured in the Star Wars: The Rise of Skywalker movie, has a new-for-October-2019 color scheme, opening cockpit with space for a minifigure inside, firing spring-loaded shooters and dropping bombs that will inspire kids to create action-packed Star Wars scenes with their friends.
-- With Poe Dameron, Zorii Bliss and First Order Snowtrooper Star Wars characters, plus D-O and astromech droid LEGO figures, this starship playset makes a great addition to any fan’s collection. Includes 5 LEGO Star Wars characters: Poe Dameron, Zorii Bliss and First Order Snowtrooper minifigures, and D-O and astromech droid LEGO figures.
-- This starship makes a great birthday gift, Christmas present or just a fun Star Wars gift for any occasion. Star Wars building set measures over 2” (7cm) high, 16” (43cm) long and 7” (19cm) wide.
-- Weapons include Poes blaster pistol, Zoriis 2 blaster pistols and the First Order Snowtroopers blaster. The Y-wings color scheme and Zoriis molded helmet are new for October 2019. Recreate exciting moments from the Star Wars: The Rise of Skywalker movie.
-- Star Wars Resistance Y-wing Starfighter, a.k.a. wishbone, features an opening minifigure cockpit, folding landing gear, 2 spring-loaded shooters and top-loaded bombs with trigger-activated release.
+- This Y-Wing building kit lets you create fantastic moments from the blockbuster Star Wars: The Rise of Skywalker movie Play out your favorite scenes with this inspirational and collectible model playset
+- Build, play with and display a collectible missile-firing, bomb-dropping LEGO Star Wars Resistance Y-wing advanced starship model, featuring a new-for-October-2019 color scheme as seen in the Star Wars: The Rise of Skywalker movie
+- This collectible Star Wars playset includes 5 LEGO Star Wars characters; Poe Dameron, Zorii Bliss and First Order Snowtrooper minifigures, and D-O and astromech droid These LEGO minifigures get the action started right away
+- This advanced 578-piece LEGO Star Wars Starfighter kids toy for boys and girls aged 8+ measures over 2-inch (7cm) high, 16-inch (43cm) long and 7-inch (19cm) wide
+- This LEGO Y-wing Starfighter model, aka wishbone, has lots of features that kids and adult collectors will really appreciate, including an opening cockpit, firing spring-loaded shooters and bomb elements that can be dropped
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07Q2WLMJ2/?tag=tolees-20)
