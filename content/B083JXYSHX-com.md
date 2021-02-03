@@ -28,10 +28,10 @@ There's a deal [LEGO Minions: Brick-Built Minions and Their Lair  75551  Buildin
 
 ℹ️:
 
-- A creative building set that lets Minions fans build their favorite Minion character; Kids can build both Kevin and Stuart, and then rebuild Kevin into Bob
-- Makes a great birthday present for kids aged 8 and up who love Minions toys; After playing with their creation, kids will love putting their models on display
 - Once the character is built, the fun goes on; Kids will love seeing the eyes turn, then they can explore the intricate room playset inside, using the fun accessories to create their own Minion stories
-- Inspired by the Minions: The Rise of Gru movie, kids can explore kung fu with Bob, build inventions with Kevin or let Stuart take a nap in his bedroom
+- A creative building set that lets Minions fans build their favorite Minion character; Kids can build both Kevin and Stuart, and then rebuild Kevin into Bob
 - Each brick-built LEGO Minion measures over 3” (9cm) long and 4” (11cm) wide; Kevin is over 5” (15cm) tall, Stuart is 5” (14cm) tall, and Bob is 4” (12cm) tall, making them ideal for play and display
+- Makes a great birthday present for kids aged 8 and up who love Minions toys; After playing with their creation, kids will love putting their models on display
+- Inspired by the Minions: The Rise of Gru movie, kids can explore kung fu with Bob, build inventions with Kevin or let Stuart take a nap in his bedroom
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B083JXYSHX/?tag=tolees-20)

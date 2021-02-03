@@ -28,10 +28,10 @@ With a final price of 39.99 USD (original: 49.99 USD) you can find [LEGO Technic
 
 ℹ️:
 
-- The trailer cleverly transforms into a stunt show ramp to propel the toy stunt motorbike towards the ring of fire so kids can perfect their jaw-dropping stunts!
-- This 2-in-1 LEGO Technic stunt motorbike toy sparks imagination, offers endless build-and-play fun, and is an action-filled holiday, birthday or anyday gift for kids ages 8+ who like building challenges, trucks and pull-back car toys
 - With the ring of fire width over 7” (18cm) and height at 11” (28cm), this is an impressive set thats the ideal size for role-play
 - Kids will love building all the elements of this super-fun toy set, recreating the thrills of a daring motorcycle show, then rebuilding the model into a Stadium Truck set!
+- The trailer cleverly transforms into a stunt show ramp to propel the toy stunt motorbike towards the ring of fire so kids can perfect their jaw-dropping stunts!
 - Kids will love competing with friends to perform the ultimate leap through flames with this amazing LEGO Technic toy building set that includes a pull-back motorbike, a truck, a trailer and ring of fire for stunt-action fun!
+- This 2-in-1 LEGO Technic stunt motorbike toy sparks imagination, offers endless build-and-play fun, and is an action-filled holiday, birthday or anyday gift for kids ages 8+ who like building challenges, trucks and pull-back car toys
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WCQVPJS/?tag=tolees-20)
