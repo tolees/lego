@@ -28,11 +28,11 @@ You've got [LEGO 41934 DOTS Sternen Freundschaftsarmbänder Schmuckset  DIY Armb
 
 ℹ️:
 
-- Designfans werden dieses kreative Set lieben. Die robusten Armbänder, die farbenfrohen Steinchen und die besonders bedruckten Steinchen sind tolle Geschenke für Kinder ab 6 Jahren
 - Der Spielspaß beginnt mit dem Verzieren der schmalen Armbänder. Einfache Anleitungen lassen Kinder im Handumdrehen eigene Designs gestalten und die Muster immer wieder verändern
 - Das eigenständige Spielset lässt Kinder sofort kreativ werden. Kinder können aber auch die Steinchen aus dem LEGO DOTS Ergänzungsset Geheimnisse (41921) benutzen, um die eigenen Designs mit coolen Ideen aufzupeppen
-- Tragbarer Schmuck. Jedes Armband ist 20 cm lang und lässt aufstrebende Designer die unterschiedlichsten Entwürfe ausprobieren und ihr Lieblingsdesign anschließend tragen
-- Einzigartige Schmuckstücke zum Vorzeigen. Das Set enthält 2 verstellbare schmale Armbänder und 32 bunte Steinchen, um Kindern freie Hand bei ihren Designs zu lassen. Das Spielvergnügen beginnt schon mit dem Öffnen der Tüte
 - Schenke einem kreativ veranlagten Kind die LEGO DOTS Sternen Freundschaftsarmbänder (41934). Das Kind wird von den grenzenlosen Designmöglichkeiten überrascht sein.
+- Designfans werden dieses kreative Set lieben. Die robusten Armbänder, die farbenfrohen Steinchen und die besonders bedruckten Steinchen sind tolle Geschenke für Kinder ab 6 Jahren
+- Einzigartige Schmuckstücke zum Vorzeigen. Das Set enthält 2 verstellbare schmale Armbänder und 32 bunte Steinchen, um Kindern freie Hand bei ihren Designs zu lassen. Das Spielvergnügen beginnt schon mit dem Öffnen der Tüte
+- Tragbarer Schmuck. Jedes Armband ist 20 cm lang und lässt aufstrebende Designer die unterschiedlichsten Entwürfe ausprobieren und ihr Lieblingsdesign anschließend tragen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4CQFFT/?tag=tolees0ca-21)

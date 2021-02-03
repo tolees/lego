@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60228 City Weltraumrakete mit Kontr at 25.00 % discount'
-date: 2021-02-02 04:40:42
+date: 2021-02-03 04:49:01
 image: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '75.9857913669064'
+average: '75.9786785714285'
 ---
 
 With a final price of 74.99 EUR (original: 99.99 EUR) you can find [LEGO 60228 City Weltraumrakete mit Kontrollzentrum  Expedition zum Mars Set  von der NASA inspiriertes Weltraumspielzeug für Kinder mit Astronauten  Wissenschaftlern und Roboter-Minifiguren](https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21) with a  25.00 % discount here:
@@ -28,10 +28,10 @@ With a final price of 74.99 EUR (original: 99.99 EUR) you can find [LEGO 60228 C
 
 ℹ️:
 
-- Includes an opening launch control tower with removable window, a launchpad with opening tower arms to launch the rocket and a research area
-- Accessory elements include two (for-June-2019) geodes, two helmets, a magnifying glass, scanner element, wrench and many more
-- Includes six LEGO city minifigures: Two astronauts, two scientists, launch director, ground crew technician and a robot figure, plus accessories
-- Feat. a rover with articulated, (for-June-2019) grappling arm, space telescope with folding solar panels and magnifying glass and two cars
-- This large NASA-inspired multi-stage rocket can be customised in different ways with the booster, payload storage and cockpit modules
+- Enthält LEGO City Minifiguren: 2 Astronauten, 2 Wissenschaftler, den Startdirektor, einen Techniker des Bodenpersonals, eine Roboterfigur und einen Rover mit beweglichem Greifarm
+- Die Rakete ist 42 cm hoch, 11 cm breit und 6 cm tief. Das Kontrollzentrum ist im geschlossenen Zustand 18 cm hoch, 13 cm breit und 13 cm tief
+- Das von der NASA inspirierte LEGO City Set „Weltraumrakete mit Kontrollzentrum“ kann zusammen mit allen anderen LEGO Sets und LEGO Steinen verwendet werden.
+- Baue eine mehrstufige Rakete und ein Kontrollzentrum, sowie ein Einschienenbahnsystem, damit die Astronauten vom Kontrollzentrum zum Trainingsgelände und zur Rakete gelangen
+- 837 Teile – Von der NASA inspiriertes Spielzeug für Mädchen und Jungen ab 7 Jahren, für Fans und für Kinder jeden Alters.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21)
