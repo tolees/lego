@@ -28,10 +28,10 @@ With a final price of 21.99 EUR (original: 29.99 EUR) you can find [LEGO 70420 H
 
 ℹ️:
 
-- Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
-- Das Spielset geheimnisvoller Friedhof ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Kinder. Für kreativen Spielspaß können sie damit ihren eigenen geheimnisvollen Spielzeug-Friedhof bauen
-- Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
 - Entdecke die Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug für Kinder mit einer App mit Augmented Reality verbindet
+- Das Spielset geheimnisvoller Friedhof ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Kinder. Für kreativen Spielspaß können sie damit ihren eigenen geheimnisvollen Spielzeug-Friedhof bauen
 - Dieses Spielzeug mit Funktionen der Augmented Reality für Kinder enthält für packende Geisterjäger-Abenteuer 4 Minifiguren
+- Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
+- Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND9GYZ3/?tag=tolees0ca-21)

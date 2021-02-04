@@ -29,9 +29,9 @@ There's a deal [LEGO Hidden Side 70430 Newbury Subway Set  AR Games App  Interac
 ℹ️:
 
 - Features a digitally interactive subway model, transforming into a Hidden Side portal, for single or multiplayer digital worlds
+- The subway model comes to life when viewed through a smart device equipped with the LEGO AR app, kids get to explore and solve mysteries
+- The augmented reality (AR) play experience is constantly enhanced through new content, ghosts and special events for endless gaming fun
 - The experience has been extended with multiplayer option; compatible with 180+ OS and Android devices - check product description for details
 - Includes 3 minifigures: Jack, Parker and Pete Peterson, a skateboard, bike and plasma bricks, for players to battle boss ghost Rat Shaun!
-- The augmented reality (AR) play experience is constantly enhanced through new content, ghosts and special events for endless gaming fun
-- The subway model comes to life when viewed through a smart device equipped with the LEGO AR app, kids get to explore and solve mysteries
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W5PTR8N/?tag=tolees0a-21)

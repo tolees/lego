@@ -28,10 +28,10 @@ There's a deal [Lego Friends - LEGO 41401 Friends Stephanies magischer Würfel  
 
 ℹ️:
 
-- Das Spielset enthält die Bäckerin Stephanie als Spielfigur, ein Überraschungshaustier, einen Kuchen, 2 Bäckerei-Kulissen und viel mehr Zubehör zum Backen
-- Der Würfel kann geteilt und mit anderen Würfeln kombiniert werden. Kinder können Würfel zum Spaß verbinden oder an einem Spieltag mitnehmen, um den Spaß mit Freunden zu teilen
 - Das Zubehör umfasst eine Kochpfanne, einen Schneebesen, einen Schrank, einen Kuchen mit Dekorationen, einen Herd mit Backofen und ein Aufkleberblatt zur individuellen Gestaltung des Würfels
 - Es gibt 5 Würfel zu sammeln (separat erhältlich), jeder mit einem geheimnisvollen Haustier, was ein Überraschungselement darstellt - Kinder können alle bezaubernden Haustiere sammeln oder mit Freunden tauschen
+- Das Spielset enthält die Bäckerin Stephanie als Spielfigur, ein Überraschungshaustier, einen Kuchen, 2 Bäckerei-Kulissen und viel mehr Zubehör zum Backen
 - Dieses Spielzeug mit Stephanie als Bäckerin ist handlich genug, um es überall mitnehmen zu können. Dank den kompakten Abmessungen ist der Würfel der ideale Reisebegleiter
+- Der Würfel kann geteilt und mit anderen Würfeln kombiniert werden. Kinder können Würfel zum Spaß verbinden oder an einem Spieltag mitnehmen, um den Spaß mit Freunden zu teilen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21)
