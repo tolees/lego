@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.38 % deal for LEGO 21313 Ideas Nave in Bottiglia  Riti'
-date: 2021-02-01 09:02:33
+date: 2021-02-04 03:56:23
 image: 'https://m.media-amazon.com/images/I/5114vhY+PYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'lego', ]
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99
-comparePrice: 159.49 EUR
+comparePrice: 159.5 EUR
 prodname: 'LEGO 21313 Ideas Nave in Bottiglia  Ritirato dal Produttore '
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B079PDGK55/?tag=tolees00-21'
 descuento: '20.38'
-average: '140.890446428572'
+average: '140.788706896553'
 ---
 
-There's a deal [LEGO 21313 Ideas Nave in Bottiglia  Ritirato dal Produttore ](https://www.amazon.it/dp/B079PDGK55/?tag=tolees00-21)  with  20.38 % discount, final price tag of  126.99 EUR (original: 159.49 EUR) here:
+There's a deal [LEGO 21313 Ideas Nave in Bottiglia  Ritirato dal Produttore ](https://www.amazon.it/dp/B079PDGK55/?tag=tolees00-21)  with  20.38 % discount, final price tag of  126.99 EUR (original: 159.5 EUR) here:
 
 [![LEGO 21313 Ideas Nave in Bottiglia  Riti](https://m.media-amazon.com/images/I/5114vhY+PYL._SL200_.jpg)](https://www.amazon.it/dp/B079PDGK55/?tag=tolees00-21)
 
