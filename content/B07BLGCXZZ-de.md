@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Y-Wing Starfighter 75181  at 18.19 % discount'
-date: 2021-02-03 23:14:25
+date: 2021-02-04 23:17:53
 image: 'https://m.media-amazon.com/images/I/51L4mOOViuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07BLGCXZZ/?tag=tolees0ca-21'
 descuento: '18.19'
-average: '343.975131578945'
+average: '343.439090909089'
 ---
 
 With a final price of 302.7 EUR (original: 369.99 EUR) you can find [LEGO Star Wars Y-Wing Starfighter 75181 Star Wars Spielzeug](https://www.amazon.de/dp/B07BLGCXZZ/?tag=tolees0ca-21) with a  18.19 % discount here:
@@ -28,10 +28,10 @@ With a final price of 302.7 EUR (original: 369.99 EUR) you can find [LEGO Star W
 
 ℹ️:
 
-- Verfügt über authentische Details, ein aufklappbares Minifiguren-Cockpit, radbetätigte drehbare Ionenkanonen auf dem Dach, einfahrbare Landekufen und Platz für den im Set enthaltenen Astromech-Droiden R2-BHD
 - Enthält den Gold Leader als Minifigur und den Droiden R2-BHD als zusätzliche Figur
+- Verfügt über authentische Details, ein aufklappbares Minifiguren-Cockpit, radbetätigte drehbare Ionenkanonen auf dem Dach, einfahrbare Landekufen und Platz für den im Set enthaltenen Astromech-Droiden R2-BHD
 - Der perfekte Mittelpunkt jeder LEGO Star Wars Sammlung
-- Dieses LEGO Star Wars Set ist ab dem Alter von 14 Jahren geeignet
 - Präsentiere das Modell auf dem kippbaren Ständer mit Infoschild
+- Dieses LEGO Star Wars Set ist ab dem Alter von 14 Jahren geeignet
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07BLGCXZZ/?tag=tolees0ca-21)
