@@ -29,9 +29,9 @@ There's a deal [LEGO 60208 City Polizei Flucht mit dem Fallschirm  Bausatz mit F
 ℹ️:
 
 - Enthält vier Lego City Minifiguren: zwei Polizisten und zwei Räuber
-- Enthält ein superschnelles Polizeiflugzeug mit Cockpit zum Öffnen für die Minifigur und einen ausfahrbarem Haken zum Fangen des Fallschirms aus beschichtetem Gewebe sowie ein Polizeimotorrad und den Flucht-Buggy der Räuber
-- Das Polizeiflugzeug ist 7 cm hoch, 22 cm lang und 20 cm breit
 - Als Zubehör sind ein Pilotenhelm mit Visier zum Öffnen und Sauerstoffmaske, Handschellen, zwei Rucksäcke und zwei Geldsäcke enthalten
+- Das Polizeiflugzeug ist 7 cm hoch, 22 cm lang und 20 cm breit
 - Wirf den Fallschirm in die Luft und versuche, es ihn mit dem ausfahrbaren Haken des Flugzeugs zu fangen
+- Enthält ein superschnelles Polizeiflugzeug mit Cockpit zum Öffnen für die Minifigur und einen ausfahrbarem Haken zum Fangen des Fallschirms aus beschichtetem Gewebe sowie ein Polizeimotorrad und den Flucht-Buggy der Räuber
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07FNMTW4H/?tag=tolees0ca-21)
