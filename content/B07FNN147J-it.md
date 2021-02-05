@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture Parigi  Set di Costruz at 15.26 % discount'
-date: 2021-02-02 09:55:14
+date: 2021-02-05 04:17:42
 image: 'https://m.media-amazon.com/images/I/51Z5jQEdUOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07FNN147J/?tag=tolees00-21'
 descuento: '15.26'
-average: '48.7716393442624'
+average: '48.7026984126985'
 ---
 
 With a final price of 46.6 EUR (original: 54.99 EUR) you can find [LEGO Architecture Parigi  Set di Costruzioni con Torre Eiffel  Louvre  Collezione Skyline  Idea Regalo Collezionabile  21044](https://www.amazon.it/dp/B07FNN147J/?tag=tolees00-21) with a  15.26 % discount here:
@@ -30,8 +30,8 @@ With a final price of 46.6 EUR (original: 54.99 EUR) you can find [LEGO Architec
 
 - Interpretazione LEGO Architecture di Parigi
 - Contiene una selezione di famosi monumenti di Parigi, tra cui l’Arco di Trionfo, gli Champs-Elysées, la Tour Montparnasse, il Grand Palais, la Torre Eiffel e il Louvre, oltre a zone verdi e alberate
-- Il libretto incluso contiene informazioni sul designer, l’architettura e la storia di ogni struttura, più fatti storici su Parigi e il suo patrimonio architettonico (Solo in lingua francese e inglese Altre lingue disponibili per il download su LEGOcom/architecture)
 - Ricrea le città più dinamiche del mondo con la LEGO Architecture Skyline Collection
 - Include una base con tegole 4x32 e la targhetta decorativa di Parigi
+- Il libretto incluso contiene informazioni sul designer, l’architettura e la storia di ogni struttura, più fatti storici su Parigi e il suo patrimonio architettonico (Solo in lingua francese e inglese Altre lingue disponibili per il download su LEGOcom/architecture)
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07FNN147J/?tag=tolees00-21)

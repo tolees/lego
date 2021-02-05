@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60228 City Weltraumrakete mit Kontr at 25.00 % discount'
-date: 2021-02-04 05:39:12
+date: 2021-02-05 06:24:36
 image: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '75.9716666666666'
+average: '75.9647535211267'
 ---
 
 With a final price of 74.99 EUR (original: 99.99 EUR) you can find [LEGO 60228 City Weltraumrakete mit Kontrollzentrum  Expedition zum Mars Set  von der NASA inspiriertes Weltraumspielzeug für Kinder mit Astronauten  Wissenschaftlern und Roboter-Minifiguren](https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21) with a  25.00 % discount here:
