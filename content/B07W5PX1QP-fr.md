@@ -28,8 +28,8 @@ With a final price of 49.2 EUR (original: 69.99 EUR) you can find [LEGO Friends 
 
 ℹ️:
 
-- Comprend des mini-poupées Olivia, Mia et Stephanie, lensemble de jeu est livré avec de nombreux détails garantissant des heures de jeu de rôle ininterrompu
 - Comprend un jouet de bus de vacances entièrement équipé avec 5 zones de jeu : un toit ouvert avec toboggan, une cuisine, une piscine, une tente et un stand de réparation
+- Comprend des mini-poupées Olivia, Mia et Stephanie, lensemble de jeu est livré avec de nombreux détails garantissant des heures de jeu de rôle ininterrompu
 - Livré avec de nombreux accessoires de mini-poupée, une figurine de hamster, un ordinateur portable, un appareil photo, une casserole, un œuf, des carreaux décoratifs, une couverture, un cookie et bien dautres
 - Une piscine glisse sous le bus, un filet de tennis amovible permet de samuser à lextérieur du bus, et le stand de réparation fournit des outils
 - Le pont supérieur glisse proprement vers larrière pour un accès facile aux zones de vie fraîches ci-dessous et un toit à charnière permet un accès facile aux chambres

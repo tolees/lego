@@ -28,10 +28,10 @@ With a final price of 55.07 EUR (original: 69.99 EUR) you can find [LEGO 75272 S
 
 ℹ️:
 
-- Den TIE Fighter kennzeichnen ein sich öffnendes Minifiguren-Cockpit und zwei gefederte Flugkörper. Es gibt auch einen Andockturm zum Starten, Landen und Ausstellen
-- Dieses Set lässt sich hervorragend mit Poe Damerons X-Wing Fighter (75273) für epische Kämpfe zwischen der Ersten Ordnung und dem Widerstand kombinieren
 - Wenn die Missionen der Ersten Ordnung mit diesem superschnellen Sith-TIE-Kämpfer beendet sind, können Kinder es auf dem Turm ausstellen, um ihr Zimmer zu dekorieren
+- Den TIE Fighter kennzeichnen ein sich öffnendes Minifiguren-Cockpit und zwei gefederte Flugkörper. Es gibt auch einen Andockturm zum Starten, Landen und Ausstellen
 - Enthält drei Minifiguren: Einen TIE-Pilot der Ersten Ordnung, einen Ritter von Ren und Finn als Minifiguren mit coolen Waffen: Pistolen und ein Schwert
 - Kinder können in das Cockpit des Starfighters springen und in die Schlacht fliegen, dann die Höchstgeschwindigkeit erreichen und die Geschütze abfeuern
+- Dieses Set lässt sich hervorragend mit Poe Damerons X-Wing Fighter (75273) für epische Kämpfe zwischen der Ersten Ordnung und dem Widerstand kombinieren
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)
