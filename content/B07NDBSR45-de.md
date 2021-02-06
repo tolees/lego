@@ -28,10 +28,10 @@ With a final price of 109.99 EUR (original: 146.21 EUR) you can find [LEGO 42098
 
 ℹ️:
 
-- Enthält außerdem ein blaues Auto mit funktionstüchtiger Lenkung und V8-Motor mit beweglichen Kolben
 - Realistische Merkmale und Funktionen für stundenlange Spiel- und Konstruktionserlebnisse
-- Der Autotransporter ist 22 cm hoch, 86 cm lang und 13 cm breit
 - Der Autotransporter verfügt über bewegliche Autodecks, eine Heckrampe zum Be- und Entladen, eine Sicherungsmöglichkeit für die Fahrzeuge während des Transports und eine Fahrerkabine
 - Dieses Autotransporter-Spielzeug kann zusammen mit dem LEGO Technic Set Chevrolet Corvette ZR1 (42093) verwendet werden
+- Enthält außerdem ein blaues Auto mit funktionstüchtiger Lenkung und V8-Motor mit beweglichen Kolben
+- Der Autotransporter ist 22 cm hoch, 86 cm lang und 13 cm breit
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07NDBSR45/?tag=tolees0ca-21)
