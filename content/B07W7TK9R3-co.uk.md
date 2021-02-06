@@ -28,10 +28,10 @@ There's a deal [LEGO 10915 DUPLO My First Alphabet Truck Toy for Toddlers 1.5 Ye
 
 ℹ️:
 
-- A simple guide provides toddlers with ideas and inspiration to get them building while delivering developmental benefits to preschool kids
 - Toddlers improve their fine motor skills as they stack letter bricks onto the truck while learning how to spell basic words (F-U-N)
-- Includes a boy, girl and adorable teddy bear to Introduce preschoolers to learning with an open-ended creative play that inspires young minds
-- Features a truck with 26 toddler-friendly bricks displaying all the letters of the English alphabet to learn while loading and unloading
 - Easy for small hands to pick up and place colourful bricks and pieces which encourage the development of language, social and emotional skills
+- A simple guide provides toddlers with ideas and inspiration to get them building while delivering developmental benefits to preschool kids
+- Features a truck with 26 toddler-friendly bricks displaying all the letters of the English alphabet to learn while loading and unloading
+- Includes a boy, girl and adorable teddy bear to Introduce preschoolers to learning with an open-ended creative play that inspires young minds
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TK9R3/?tag=tolees0a-21)
