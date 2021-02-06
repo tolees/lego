@@ -28,10 +28,10 @@ There's a deal [LEGO 75269 Star Wars Duel on Mustafar Revenge of the Sith Playse
 
 ℹ️:
 
+- Includes two LEGO Star Wars minifigures: Anakin Skywalker and Obi-Wan Kenobi with Lightsabers
+- Kids can use Instructions PLUS, available in the free LEGO Life app, to zoom in on, rotate and visualise while building the real model
 - Platforms rotate, slide and model folds out for exciting Lightsaber duels, kids can shoot ‘molten lava’ elements for lava red-hot action
 - Features a folding out Mustafarian mine with lava explosion function and sliding and rotating platforms for the minifigures to do battle
-- Kids can use Instructions PLUS, available in the free LEGO Life app, to zoom in on, rotate and visualise while building the real model
 - Accessories include 2 Lightsabers, plus flames and other hot-red lava elements to perform pretend lava explosion
-- Includes two LEGO Star Wars minifigures: Anakin Skywalker and Obi-Wan Kenobi with Lightsabers
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TN6HQ/?tag=tolees0a-21)
