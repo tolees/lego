@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.97 % deal for LEGO Speed Champions 2018 Dodge Challeng'
-date: 2021-02-04 16:19:38
+date: 2021-02-07 05:38:59
 image: 'https://m.media-amazon.com/images/I/51X5bJYgaeL._SL200_.jpg'
 comments: true
 category: ofertas

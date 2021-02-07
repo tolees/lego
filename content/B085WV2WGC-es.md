@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.22 % for LEGO 75318 Star Wars: The Mandalorian El'
-date: 2021-02-06 04:21:03
+date: 2021-02-07 04:44:57
 image: 'https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21'
 descuento: '22.22'
-average: '86.3046666666665'
+average: '86.1092814371256'
 ---
 
 You've got [LEGO 75318 Star Wars: The Mandalorian El Niño  Figura de Baby Yoda  Idea de regalo](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21) with a  22.22 % discount, with final price of 69.99 EUR (original: 89.99 EUR) at the following link:
@@ -33,10 +33,10 @@ You've got [LEGO 75318 Star Wars: The Mandalorian El Niño  Figura de Baby Yoda 
 - La gama LEGO Star Wars tiene sets de construcción a la medida de los gustos de los fans de cualquier edad
 - Los ladrillos LEGO se conectan y separan fácilmente: no hace falta usar la Fuerza
 - Encantadora maqueta del Niño para construir y exponer, adecuada para fans de Star Wars: The Mandalorian
-- Los componentes LEGO se someten a pruebas destinadas a garantizar que satisfagan los requisitos de las normas de seguridad galácticas exigentes
 - Este set se basa en el placer de construir con LEGO: no necesita pilas
-- Cuenta con cabeza, boca y orejas articuladas que le permiten adoptar adorables expresiones
-- Incluye instrucciones fáciles de seguir para disfrutar de una experiencia de construcción placentera
 - Adecuado como regalo sorpresa, de cumpleaños o de Navidad para fans a partir de 10 años
+- Incluye instrucciones fáciles de seguir para disfrutar de una experiencia de construcción placentera
+- Los componentes LEGO se someten a pruebas destinadas a garantizar que satisfagan los requisitos de las normas de seguridad galácticas exigentes
+- Cuenta con cabeza, boca y orejas articuladas que le permiten adoptar adorables expresiones
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21)

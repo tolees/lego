@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Heroes - LEGO 76160 DC Batman Mobi at 17.51 % discount'
-date: 2021-02-05 06:24:21
+date: 2021-02-07 05:58:23
 image: 'https://m.media-amazon.com/images/I/51cjJXd7NeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Super Heroes'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QWS7K/?tag=tolees0a-21'
 descuento: '17.51'
-average: '71.9652822580647'
+average: '71.9174000000002'
 ---
 
 With a final price of 65.98 GBP (original: 79.99 GBP) you can find [Super Heroes - LEGO 76160 DC Batman Mobile Bat Base Batcave Truck Toy with Jet Plane  Quad Bike  Motorbike & Water Scooter](https://www.amazon.co.uk/dp/B0813QWS7K/?tag=tolees0a-21) with a  17.51 % discount here:
