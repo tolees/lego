@@ -28,10 +28,10 @@ There's a deal [LEGO 41255 Trolls World Tour Party in Pop City Baumhaus Set mit 
 
 ℹ️:
 
-- Hänge die beiden Wohnblüten an den Baum oder schließe sie für den Spaß unterwegs. Für noch mehr Spaß können Kinder eine dritte Wohnblüte hinzufügen: Poppys Wohnblüte (41251) (separat erhältlich)
 - Dieses erstaunliche LEGO Trolls Baumhaus Spielset regt zu endlosen Abenteuer und kreativem Spiel. Für Trolls Fans gibt es viel zu entdecken
-- Kinder können die Trolls-Haare mit Cupcakes, Herzen und Blumen stylen. Guy Diamond kann sogar ein Ei in seinem Haar verstecken, bereit, Tiny Diamond zu schlüpfen
-- Von den Zweigen dieses supercoolen Baums hängen gleich zwei Wohnblüten hinab: in einer davon leben die glitzernden Trolls Guy Diamond und Tiny Diamond, die andere ist für Cooper
 - Mit 4 Trolls-Minifiguren: Poppy, Branch, Cooper, Guy Diamond und Tiny Diamond sowie einer Vielzahl von Zubehör
+- Von den Zweigen dieses supercoolen Baums hängen gleich zwei Wohnblüten hinab: in einer davon leben die glitzernden Trolls Guy Diamond und Tiny Diamond, die andere ist für Cooper
+- Hänge die beiden Wohnblüten an den Baum oder schließe sie für den Spaß unterwegs. Für noch mehr Spaß können Kinder eine dritte Wohnblüte hinzufügen: Poppys Wohnblüte (41251) (separat erhältlich)
+- Kinder können die Trolls-Haare mit Cupcakes, Herzen und Blumen stylen. Guy Diamond kann sogar ein Ei in seinem Haar verstecken, bereit, Tiny Diamond zu schlüpfen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W4LFVQP/?tag=tolees0ca-21)
