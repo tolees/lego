@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 21045 Architecture Trafalgar Square at 15.60 % discount'
-date: 2021-02-01 02:56:09
+title: 'LEGO 21045 Architecture Trafalgar Square at 16.39 % discount'
+date: 2021-02-08 17:37:26
 image: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07KTK9B3Z-co.uk LEGO 21045 Architecture Trafalgar Square Building Set...'
 sku: 'B07KTK9B3Z-co.uk'
 tags: [ 'lego', ]
-actualPrice: 67.51 GBP
+actualPrice: 66.88 GBP
 currency: GBP
-price: 67.51
+price: 66.88
 comparePrice: 79.99 GBP
 prodname: 'LEGO 21045 Architecture Trafalgar Square Building Set with London Landmark National Gallery Collectible Model'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21'
-descuento: '15.60'
-average: '68.947108433735'
+descuento: '16.39'
+average: '68.9225'
 ---
 
-With a final price of 67.51 GBP (original: 79.99 GBP) you can find [LEGO 21045 Architecture Trafalgar Square Building Set with London Landmark National Gallery Collectible Model](https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21) with a  15.60 % discount here:
+With a final price of 66.88 GBP (original: 79.99 GBP) you can find [LEGO 21045 Architecture Trafalgar Square Building Set with London Landmark National Gallery Collectible Model](https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21) with a  16.39 % discount here:
 
 [![LEGO 21045 Architecture Trafalgar Square](https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21)
 
