@@ -28,10 +28,10 @@ With a final price of 54.8 EUR (original: 64.99 EUR) you can find [LEGO Architec
 
 ℹ️:
 
+- Anyone with a passion for Dubai will enjoy building and proudly showing off this striking model at home or in the office
 - This version of Dubai’s skyline features detailed scale models of its most spectacular landmarks with the iconic sail-shaped silhouette
+- Learn more about Dubai skyline and the model designer in the booklet (in English) or download other languages at manufacturer website
 - Features famous landmarks: The Burj Khalifa, Jumeirah Emirates Towers Hotel, Burj Al Arab Jumeirah hotel, Dubai Frame and The Dubai Fountain
 - The set brings together highly detailed models of iconic Dubai buildings and landmarks to inspire all admirers of this exciting, modern city
-- Learn more about Dubai skyline and the model designer in the booklet (in English) or download other languages at manufacturer website
-- Anyone with a passion for Dubai will enjoy building and proudly showing off this striking model at home or in the office
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07W4KT2C9/?tag=tolees0d-21)
