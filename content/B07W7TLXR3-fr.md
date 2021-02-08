@@ -28,10 +28,10 @@ There's a deal [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurin
 
 ℹ️:
 
-- Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show
-- Expand your LEGO Star Wars collection with this great battle pack
-- Fire the stud blasters then seat the trooper on a stud-shooting speeder
-- Includes a defense fort with an attachment point for a blaster, and a speeder bike
 - Features 4 Star Wars Mandalorian warrior minifigures, each with stud-shooting blasters
+- Expand your LEGO Star Wars collection with this great battle pack
+- Includes a defense fort with an attachment point for a blaster, and a speeder bike
+- Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show
+- Fire the stud blasters then seat the trooper on a stud-shooting speeder
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)
