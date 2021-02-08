@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75266 Star Wars Sith Troopers Battl at 23.35 % discount'
-date: 2021-02-06 23:09:59
+date: 2021-02-07 23:21:25
 image: 'https://m.media-amazon.com/images/I/51HvYacsX8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9JZD/?tag=tolees0ca-21'
 descuento: '23.35'
-average: '14.0578714859439'
+average: '14.0374103585658'
 ---
 
 With a final price of 11.49 EUR (original: 14.99 EUR) you can find [LEGO 75266 Star Wars Sith Troopers Battle Pack Spielset mit Battle Speeder  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07W6Q9JZD/?tag=tolees0ca-21) with a  23.35 % discount here:
@@ -28,10 +28,10 @@ With a final price of 11.49 EUR (original: 14.99 EUR) you can find [LEGO 75266 S
 
 ℹ️:
 
-- Enthält vier Minifiguren: Den Offizier der Ersten Ordnung, Sith Trooper und zwei Sith Jet Troopers, mit vier mit Bolzen schießenden Blastern und zwei Jetpack-Elementen
+- Füge den Y-Wing-Microfighter 7526drei für Kämpfe zwischen der Ersten Ordnung und dem Widerstand hinzu oder den Shuttle-Microfighter 7526vier von Kylo Ren für umso mehr Spaß
 - Die digitale Anleitung Instructions PLUS ist über die LEGO Life App mit Werkzeugen zum Heranzoomen, Drehen und Anzeigen verfügbar, die den realen Bauprozess begleiten
 - Kinder können an der Vorderseite des Speeders einen Blaster anbringen, der jederzeit feuerbereit ist, und Soldaten für den Kampf in feindliches Gebiet führen
+- Enthält vier Minifiguren: Den Offizier der Ersten Ordnung, Sith Trooper und zwei Sith Jet Troopers, mit vier mit Bolzen schießenden Blastern und zwei Jetpack-Elementen
 - Verfügt über einen Battle Speeder mit Platz im Cockpit für zwei Minifiguren, zwei blaue Sprengtriebwerke und ein grau-blau-schwarzes Farbschema
-- Füge den Y-Wing-Microfighter 7526drei für Kämpfe zwischen der Ersten Ordnung und dem Widerstand hinzu oder den Shuttle-Microfighter 7526vier von Kylo Ren für umso mehr Spaß
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W6Q9JZD/?tag=tolees0ca-21)

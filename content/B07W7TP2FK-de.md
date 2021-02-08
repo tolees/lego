@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75271 Star Wars Luke Skywalkers Lan at 19.64 % discount'
-date: 2021-02-06 05:23:20
+date: 2021-02-07 23:32:50
 image: 'https://m.media-amazon.com/images/I/51t0zrw2gTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21'
 descuento: '19.64'
-average: '25.5427710843374'
+average: '25.5088235294118'
 ---
 
 With a final price of 24.1 EUR (original: 29.99 EUR) you can find [LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset mit Java Minifigur  Serie Eine Neue Hoffnug Serie](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21) with a  19.64 % discount here:
@@ -30,8 +30,8 @@ With a final price of 24.1 EUR (original: 29.99 EUR) you can find [LEGO 75271 St
 
 - Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
 - Kinder können nach dem Jawa Ausschau halten, der sich in einer Höhle versteckt und bereit ist, Luke zu überfallen. Dann können sie Lukes Blasterpistole nehmen und gegen diesen Wüstenräuber kämpfen
-- Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
 - Bietet einen Landspeeder mit viel Platz für Luke- und C-3PO-Minifiguren sowie ein baubares Höhlenversteck für eine bewaffnete Jawa-Minifigur
+- Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
 - Der Landspeeder hat einen Kofferraum für Lukes Makrobinokular und einen Clip für seine Blasterpistole, drei gigantische Motoren und eine Waffe, mit der er auf den Feind feuern kann
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21)
