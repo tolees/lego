@@ -28,10 +28,10 @@ There's a deal [LEGO 21011 Brandenburger Tor LEGO® Architecture](https://www.am
 
 ℹ️:
 
-- Eine Broschüre mit Details zum Design und zur Geschichte liegt bei (nur in englischer Sprache Andere Sprachen stehen als Download zur Verfügung)
 - Sammle alle Modelle der Reihe Sehenswürdigkeiten
 - LEGO Architecture inspiriert nicht nur zukünftige Architekten, Techniker und Konstrukteure, sondern auch Liebhaber der Architektur auf der ganzen Welt, die den LEGO Stein als Medium nutzen, um angesehene Gebäude nachzubauen
-- Interpretation des architektonischen Meisterwerks Brandenburger Tor
 - Das Gebäude ist 9, 2 cm hoch, 22, 4 cm breit und 9, 6  cm tief
+- Eine Broschüre mit Details zum Design und zur Geschichte liegt bei (nur in englischer Sprache Andere Sprachen stehen als Download zur Verfügung)
+- Interpretation des architektonischen Meisterwerks Brandenburger Tor
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B005DXPKYU/?tag=tolees0ca-21)

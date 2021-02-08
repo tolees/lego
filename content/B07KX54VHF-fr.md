@@ -30,8 +30,8 @@ With a final price of 22.39 EUR (original: 39.99 EUR) you can find [LEGO Le Magi
 
 - The LEGO knight bus 75957 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building
 - Build the three-level LEGO night Bus toy with hinged opening side panel, removable roof and a movable sliding bed and swinging chandelier
-- Includes three (for-June-2019) LEGO Harry Potter minifigures: Harry Potter, Stan Shunpike and Ernie Prang
 - Stan shunpike is issuing tickets and Ernie Prang still hasn’t mastered his steering skills, it is going to be a bumpy ride
+- Includes three (for-June-2019) LEGO Harry Potter minifigures: Harry Potter, Stan Shunpike and Ernie Prang
 - Includes the cheeky shrunken head and Harry Potter’s chest containing a wand, letter, chocolate bar and a potion bottle
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21)
