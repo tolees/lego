@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.97 % deal for LEGO Speed Champions 2018 Dodge Challeng'
-date: 2021-02-07 05:38:59
+date: 2021-02-09 17:58:27
 image: 'https://m.media-amazon.com/images/I/51X5bJYgaeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07GYV355H/?tag=tolees-20'
 descuento: '19.97'
-average: '26.7675'
+average: '26.7110204081633'
 ---
 
 There's a deal [LEGO Speed Champions 2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T 75893 Building Kit  478 Pieces ](https://www.amazon.com/dp/B07GYV355H/?tag=tolees-20)  with  19.97 % discount, final price tag of  24.0 USD (original: 29.99 USD) here:

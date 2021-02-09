@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas - 21320 Dinosaur Fossils at 20.15 % discount'
-date: 2021-02-08 17:31:40
+date: 2021-02-09 17:49:07
 image: 'https://m.media-amazon.com/images/I/51AiWhU5swL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07ZD6TZKH/?tag=tolees0a-21'
 descuento: '20.15'
-average: '71.8932894736841'
+average: '71.7283333333333'
 ---
 
 With a final price of 65.46 GBP (original: 81.98 GBP) you can find [LEGO Ideas - 21320 Dinosaur Fossils](https://www.amazon.co.uk/dp/B07ZD6TZKH/?tag=tolees0a-21) with a  20.15 % discount here:
