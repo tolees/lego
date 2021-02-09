@@ -28,10 +28,10 @@ With a final price of 29.9 USD (original: 39.99 USD) you can find [LEGO DC Wonde
 
 ℹ️:
 
-- Kids can fix the Wonder Woman minifigure to the rotating transmitter as she flies around the tower, Max stands at the controls; When the Super-Villain, Cheetah, arrives, it’s time for an epic battle
+- A winged Wonder Woman and Cheetah minifigures provide super-hero action, while a Max minifigure is at the control center; High above, the transmitter tower rotates through 360 degrees and up and down
 - Boys and girls aged 8 and up will enjoy exciting, imaginative adventures with this popular LEGO DC Wonder Woman toy; An action-packed gift for all young super heroes
 - Measuring 7” (19 cm) high and 6” (17cm) wide, with a radar dish measuring 7” (20cm) across, the LEGO DC Wonder Woman vs Cheetah (76157) set encourages imaginative play on a large scale
 - This 2-sided model includes a high-tech bunker and a revolving transmitter tower; When kids bring Wonder Woman (Diana Prince) and her archenemy, Cheetah (Dr Barbara Minerva), to the scene, anything can happen
-- A winged Wonder Woman and Cheetah minifigures provide super-hero action, while a Max minifigure is at the control center; High above, the transmitter tower rotates through 360 degrees and up and down
+- Kids can fix the Wonder Woman minifigure to the rotating transmitter as she flies around the tower, Max stands at the controls; When the Super-Villain, Cheetah, arrives, it’s time for an epic battle
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B083JXYK71/?tag=tolees-20)
