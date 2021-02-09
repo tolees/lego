@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.35 % deal for LEGO 75267 Star Wars Mandalorianer Battl'
-date: 2021-02-07 17:18:54
+date: 2021-02-09 00:05:54
 image: 'https://m.media-amazon.com/images/I/518rbzVp2iL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TLXR3/?tag=tolees0ca-21'
 descuento: '21.35'
-average: '14.8311151079135'
+average: '14.8093928571427'
 ---
 
 There's a deal [LEGO 75267 Star Wars Mandalorianer Battle Pack Set mit 4 Minifiguren  Speeder-Bike und Verteidigungsfestung](https://www.amazon.de/dp/B07W7TLXR3/?tag=tolees0ca-21)  with  21.35 % discount, final price tag of  11.79 EUR (original: 14.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 75267 Star Wars Mandalorianer Battle Pack Set mit 4 Minifig
 
 ℹ️:
 
+- Schießen Sie die Bolzen ab und setzen Sie den Soldaten dann auf einen mit Bolzen schießenden Beschleuniger
+- Beinhaltet eine Verteidigungsfestung mit einem Befestigungspunkt für einen Blaster und ein Speeder-Bike
+- Erweitere deine LEGO Star Wars-Sammlung mit diesem großartigen Battle Pack
 - Bietet vier Star Wars-Minifiguren von Mandalorianischen Kriegern, jede mit Bolzen schießenden Blastern
 - Kinder können eine furchterregende Mandalorianische Armee aufbauen und aufregende Szenen nachbauen, wie aus der TV-Show, Star Wars: The Mandalorian
-- Erweitere deine LEGO Star Wars-Sammlung mit diesem großartigen Battle Pack
-- Beinhaltet eine Verteidigungsfestung mit einem Befestigungspunkt für einen Blaster und ein Speeder-Bike
-- Schießen Sie die Bolzen ab und setzen Sie den Soldaten dann auf einen mit Bolzen schießenden Beschleuniger
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TLXR3/?tag=tolees0ca-21)
