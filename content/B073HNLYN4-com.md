@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % deal for WB Games - The LEGO Ninjago Movie Videog'
-date: 2021-02-07 10:54:56
+date: 2021-02-09 12:27:37
 image: 'https://m.media-amazon.com/images/I/510u1yBQnAL._SL200_.jpg'
 comments: true
 category: ofertas
