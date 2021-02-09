@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City 60244 Police Helicopter Transp at 33.11 % discount'
-date: 2021-02-07 20:35:29
+date: 2021-02-09 14:05:36
 image: 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W6Q9JXK/?tag=tolees0a-21'
 descuento: '33.11'
-average: '34.9466666666667'
+average: '33.7757142857143'
 ---
 
 With a final price of 26.75 GBP (original: 39.99 GBP) you can find [LEGO City 60244 Police Helicopter Transport with ATV Quad Bike  Motorbike and Truck with Trailer](https://www.amazon.co.uk/dp/B07W6Q9JXK/?tag=tolees0a-21) with a  33.11 % discount here:
@@ -28,9 +28,9 @@ With a final price of 26.75 GBP (original: 39.99 GBP) you can find [LEGO City 60
 
 ℹ️:
 
-- Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
-- The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
-- The transporter truck has a detailed driver?s cab, mobile prison cell, computer and road barriers with many realistic details
 - Kids can rip open the cell to let the crook escape, then launch the new-for-January-2020 police helicopter that really flies into the air
+- Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
+- The transporter truck has a detailed driver?s cab, mobile prison cell, computer and road barriers with many realistic details
+- The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W6Q9JXK/?tag=tolees0a-21)
