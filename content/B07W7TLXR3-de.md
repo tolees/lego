@@ -30,8 +30,8 @@ There's a deal [LEGO 75267 Star Wars Mandalorianer Battle Pack Set mit 4 Minifig
 
 - Schießen Sie die Bolzen ab und setzen Sie den Soldaten dann auf einen mit Bolzen schießenden Beschleuniger
 - Beinhaltet eine Verteidigungsfestung mit einem Befestigungspunkt für einen Blaster und ein Speeder-Bike
-- Erweitere deine LEGO Star Wars-Sammlung mit diesem großartigen Battle Pack
 - Bietet vier Star Wars-Minifiguren von Mandalorianischen Kriegern, jede mit Bolzen schießenden Blastern
+- Erweitere deine LEGO Star Wars-Sammlung mit diesem großartigen Battle Pack
 - Kinder können eine furchterregende Mandalorianische Armee aufbauen und aufregende Szenen nachbauen, wie aus der TV-Show, Star Wars: The Mandalorian
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TLXR3/?tag=tolees0ca-21)
