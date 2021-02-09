@@ -28,10 +28,10 @@ With a final price of 409.99 EUR (original: 499.0 EUR) you can find [LEGO Harry 
 
 ℹ️:
 
+- Build an iconic Hogwarts Castle replica from the Harry Potter series, with classrooms, towers, Whomping Willow, Hagrid’s hut and five buildable boats
+- This Harry Potter set also includes 27 microfigures, 5 Dementors, Aragog and Basilisk figures, plus a buildable Hungarian Horntail figure
 - Hogwarts Castle model measures over 22 Inch (58 cm) high, 27 Inch (69 cm) wide and 16 Inch (43 cm) deep
 - This LEGO Harry Potter Hogwarts Castle 71043 fantasy building toy can be built together with all other original LEGO construction toys and LEGO bricks for creative play
-- This Harry Potter set also includes 27 microfigures, 5 Dementors, Aragog and Basilisk figures, plus a buildable Hungarian Horntail figure
-- Build an iconic Hogwarts Castle replica from the Harry Potter series, with classrooms, towers, Whomping Willow, Hagrid’s hut and five buildable boats
 - 6020 pieces – Harry Potter exclusive advanced building set for boys and girls aged 16+ and for Harry Potter fans and big kids of all ages
 - This collectible Harry Potter merchandise item includes four LEGO Harry Potter minifigures: A Godric Gryffindor figure, Helga Hufflepuff figure, Salazar Slytherin figure and Rowena Ravenclaw figure
 
