@@ -29,9 +29,9 @@ There's a deal [LEGO 75273 Star Wars Poe Dameron s X-wing Fighter Building Set  
 ℹ️:
 
 - The X-wing fighter adjustable wings go up or down for cruise and attack modes and it fires stud shooters and spring-loaded missiles
-- This set combines brilliantly with The Rise of Skywalker: Sith TIE Fighter (75272) for epic First Order vs. Resistance battles
-- Features an opening minifigure cockpit, space for R2-D2, adjustable wings, stud and spring-loaded shooters plus retractable landing gear
-- Kids can battle First Order with Poe Dameron in this starship or fight on the ground against the Knight of Ren with Jannah’s cool weapons
 - Includes three minifigures – Poe Dameron, Knight of Ren and Jannah with new-for-January-2020 features and weapons, plus an R2-D2 LEGO droid
+- This set combines brilliantly with The Rise of Skywalker: Sith TIE Fighter (75272) for epic First Order vs. Resistance battles
+- Kids can battle First Order with Poe Dameron in this starship or fight on the ground against the Knight of Ren with Jannah’s cool weapons
+- Features an opening minifigure cockpit, space for R2-D2, adjustable wings, stud and spring-loaded shooters plus retractable landing gear
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TMLFY/?tag=tolees0a-21)
