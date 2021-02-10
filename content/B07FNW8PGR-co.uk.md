@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 23.48 % for LEGO 75892 Speed Champions Senna McLaren'
-date: 2021-02-09 11:47:38
+date: 2021-02-10 17:30:15
 image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNW8PGR/?tag=tolees0a-21'
 descuento: '23.48'
-average: '12.5560209424085'
+average: '12.5289119170986'
 ---
 
 You've got [LEGO 75892 Speed Champions Senna McLaren Driver Minifigure Race Car Building Set  Forza Horizon 4 Expansion Pack Model](https://www.amazon.co.uk/dp/B07FNW8PGR/?tag=tolees0a-21) with a  23.48 % discount, with final price of 9.94 GBP (original: 12.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75892 Speed Champions Senna McLaren Driver Minifigure Race Car 
 
 ℹ️:
 
-- 219 pieces – Model car for boys and girls aged 7+ and for fans and kids of all ages
 - Includes a McLaren racing driver minifigure in a racing suit featuring the McLaren Senna and Pirelli logos, a helmet and spanner
+- 219 pieces – Model car for boys and girls aged 7+ and for fans and kids of all ages
+- McLaren Senna toy car for kids measures over 1 Inch (4 cm) high, 5 Inch (15 cm) long and 1 Inch (5 cm) wide; Wind tunnel measures over 1 Inch (5 cm) high, 2 Inch (6 cm) wide and 1 Inch (4 cm) deep
 - Build the awesome McLaren Senna, featuring a minifigure cockpit, removable windshield, interchangeable wheel rims and McLaren and Senna logo stickers and a wind tunnel then play out car development and race scenarios
 - This LEGO Speed Champions McLaren Senna 75892 toy car playset can be built together with all other original LEGO toy construction sets and LEGO bricks for creative play
-- McLaren Senna toy car for kids measures over 1 Inch (4 cm) high, 5 Inch (15 cm) long and 1 Inch (5 cm) wide; Wind tunnel measures over 1 Inch (5 cm) high, 2 Inch (6 cm) wide and 1 Inch (4 cm) deep
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNW8PGR/?tag=tolees0a-21)
