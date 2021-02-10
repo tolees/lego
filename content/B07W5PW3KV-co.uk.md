@@ -29,9 +29,9 @@ You've got [LEGO 31102 Creator 3-in-1 Fire Dragon  Tiger  Scorpion Building Set 
 ℹ️:
 
 - Includes a treasure chest with a golden chain, precious stones and a sword - hear the dragon scaring off treasure seekers with its roar
-- The poisonous scorpion toy has posable legs, pincers and famous deadly tail curved forward over the back, topped with its venomous stinger
-- 3-in-1 set features powerful, ready for action animals toys from fantasy and reality: A fearsome, fire-breathing dragon, a tiger and a scorpion
 - The sabre-toothed tiger toy with a distinctive pair of long razor-sharp canine teeth has posable limbs, head and jaw to growl at his prey
+- The poisonous scorpion toy has posable legs, pincers and famous deadly tail curved forward over the back, topped with its venomous stinger
 - The dragon toy has a posable head, jaw, legs, tail, wings and claws and with flames coming out of his mouth he is truly the most powerful
+- 3-in-1 set features powerful, ready for action animals toys from fantasy and reality: A fearsome, fire-breathing dragon, a tiger and a scorpion
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PW3KV/?tag=tolees0a-21)
