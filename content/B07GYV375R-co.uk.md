@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Ferrari F40 Competi at 15.80 % discount'
-date: 2021-02-09 11:24:12
+title: 'LEGO Speed Champions Ferrari F40 Competi at 19.97 % discount'
+date: 2021-02-10 11:29:54
 image: 'https://m.media-amazon.com/images/I/51VJm5rjoML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'lego', ]
 actualPrice: 15.99 GBP
 currency: GBP
 price: 15.99
-comparePrice: 18.99 GBP
+comparePrice: 19.98 GBP
 prodname: 'LEGO Speed Champions Ferrari F40 Competizone 75890'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07GYV375R/?tag=tolees0a-21'
-descuento: '15.80'
-average: '25.8478048780488'
+descuento: '19.97'
+average: '25.3893023255815'
 ---
 
-With a final price of 15.99 GBP (original: 18.99 GBP) you can find [LEGO Speed Champions Ferrari F40 Competizone 75890](https://www.amazon.co.uk/dp/B07GYV375R/?tag=tolees0a-21) with a  15.80 % discount here:
+With a final price of 15.99 GBP (original: 19.98 GBP) you can find [LEGO Speed Champions Ferrari F40 Competizone 75890](https://www.amazon.co.uk/dp/B07GYV375R/?tag=tolees0a-21) with a  19.97 % discount here:
 
 [![LEGO Speed Champions Ferrari F40 Competi](https://m.media-amazon.com/images/I/51VJm5rjoML._SL200_.jpg)](https://www.amazon.co.uk/dp/B07GYV375R/?tag=tolees0a-21)
 
