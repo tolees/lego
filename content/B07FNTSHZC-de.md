@@ -28,10 +28,10 @@ With a final price of 21.5 EUR (original: 29.99 EUR) you can find [LEGO 10902 DU
 
 ℹ️:
 
-- Als Zubehörelemente sind eine Tasse sowie als Donuts und Überwachungskamera bedruckte Steine enthalten.
-- Mit einer einfach zu bauenden Polizeistation mit aufklappbarer Zellentür und Spielzeug-Polizeiauto mit Licht- und Geräuscheffekten.
-- Enthält 3 LEGO DUPLOFiguren: 2 Polizisten und 1 Räuber.
 - Auf Knopfdruck kannst du die Licht- und Geräuscheffekte des Polizeiautos aktivieren.
 - Nehme den Räuber und wirf ihn in die Gefängniszelle der Spielzeug-Polizeistation.
+- Mit einer einfach zu bauenden Polizeistation mit aufklappbarer Zellentür und Spielzeug-Polizeiauto mit Licht- und Geräuscheffekten.
+- Enthält 3 LEGO DUPLOFiguren: 2 Polizisten und 1 Räuber.
+- Als Zubehörelemente sind eine Tasse sowie als Donuts und Überwachungskamera bedruckte Steine enthalten.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNTSHZC/?tag=tolees0ca-21)
