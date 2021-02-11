@@ -28,10 +28,10 @@ There's a deal [DUPLO Town - LEGO 10931 DUPLO Truck & Tracked Excavator Construc
 
 ℹ️:
 
-- Construction site toy set with vehicles and workers assists 2+ year old toddlers in developing fine motor skills
-- Includes 2 contemporary worker figures so preschoolers can act out construction site stories
-- Features a push-along truck with a tip function, a push-along excavator with a rotating digger, and a toy boulder that kids can open up
-- LEGO DUPLO playsets are designed to entertain, stimulate and inspire the minds of preschoolers with familiar scenes and fun characters
 - Combine with LEGO DUPLO 10930 Bulldozer to extend the fun!
+- Features a push-along truck with a tip function, a push-along excavator with a rotating digger, and a toy boulder that kids can open up
+- Includes 2 contemporary worker figures so preschoolers can act out construction site stories
+- Construction site toy set with vehicles and workers assists 2+ year old toddlers in developing fine motor skills
+- LEGO DUPLO playsets are designed to entertain, stimulate and inspire the minds of preschoolers with familiar scenes and fun characters
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813RTRJ5/?tag=tolees0a-21)
