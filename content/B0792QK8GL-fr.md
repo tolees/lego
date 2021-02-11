@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.60 % deal for LEGO Harry Potter - Le Saule Cogneur du '
-date: 2021-02-10 18:55:25
+date: 2021-02-11 19:07:36
 image: 'https://m.media-amazon.com/images/I/51FyQUatZTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21'
 descuento: '17.60'
-average: '62.565'
+average: '62.4542857142857'
 ---
 
 There's a deal [LEGO Harry Potter - Le Saule Cogneur du château de Poudlard - 75953 - Jeu de Construction](https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21)  with  17.60 % discount, final price tag of  61.79 EUR (original: 74.99 EUR) here:
@@ -28,11 +28,11 @@ There's a deal [LEGO Harry Potter - Le Saule Cogneur du château de Poudlard - 7
 
 ℹ️:
 
+- Issu de lunivers des films Harry Potter
+- Construisez le saule cogneur du château de Poudlard
+- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Six figurines incluses : Harry Potter , Ron Weasley, Hermione Granger, Seamus Finnigan, Argus Rusard, Severus Rogue, ainsi quune figurine de la chouette Hedwige
 - Le saule cogneur mesure plus de 7 cm de haut, 20 cm de large et 20 cm de profondeur; la partie du château de Poudlard mesure plus de 27 cm de haut, 35 cm de large et 8 cm de profondeur
-- Issu de lunivers des films Harry Potter
-- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Construisez le saule cogneur du château de Poudlard
 - 753 pièces  pour les filles et les garçons de 8 à 14 ans
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21)
