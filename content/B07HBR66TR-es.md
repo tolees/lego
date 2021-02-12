@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Entertainment - at 23.30 % discount'
-date: 2021-02-10 22:37:20
+date: 2021-02-11 23:10:01
 image: 'https://m.media-amazon.com/images/I/51R8NCX0tlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07HBR66TR/?tag=tolees-21'
 descuento: '23.30'
-average: '32.418'
+average: '32.0133333333333'
 ---
 
 With a final price of 29.99 EUR (original: 39.1 EUR) you can find [Warner Bros. Interactive Entertainment - LEGO Harry Potter Collection - Nintendo Switch [Importación inglesa]](https://www.amazon.es/dp/B07HBR66TR/?tag=tolees-21) with a  23.30 % discount here:
