@@ -28,10 +28,10 @@ With a final price of 51.97 GBP (original: 64.99 GBP) you can find [LEGO 41395 F
 
 ℹ️:
 
-- A swimming pool slides out from beneath the bus, a removable tennis net allows for fun outside the bus and the repairs stand provides tools
 - The top deck slides back neatly for easy access to the cool living areas below and a hinged roof allows for easy access to the bedrooms
+- Includes Olivia, Mia and Stephanie mini-dolls, the playset comes with many details guaranteeing hours of uninterrupted role-playing fun
 - Features fully equipped holiday bus toy with five areas of play: An open rooftop with a slide, kitchen, swimming pool, tent and repairs stand
 - Comes with lots of mini-doll accessories, a hamster figure, a laptop, camera, pan, egg, decorative tiles, blanket, cookie and many more
-- Includes Olivia, Mia and Stephanie mini-dolls, the playset comes with many details guaranteeing hours of uninterrupted role-playing fun
+- A swimming pool slides out from beneath the bus, a removable tennis net allows for fun outside the bus and the repairs stand provides tools
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W5PX1QP/?tag=tolees0a-21)
