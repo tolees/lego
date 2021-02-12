@@ -28,10 +28,10 @@ With a final price of 41.51 GBP (original: 49.99 GBP) you can find [LEGO 75254 S
 
 ℹ️:
 
-- Features posable jointed legs, a wheel-activated turning turret, opening canopy with space for a minifigure inside a detailed cockpit
-- Immerse your LEGO Star Wars fan in galactic adventures with this unique AT-ST Raider vehicle with lots of play-starting features
 - This collectible brick version of the AT-ST Raider from the hit TV series has lots of inspiring features, including 2 firing shooters
-- All specially decorated elements for a cannibalised look make it a great Christmas present, birthday or just a fun gift for any occasion
 - Includes 4 minifigures: The Mandalorian, Cara Dune and 2 Klatooinian Raider, plus 3 blaster rifles and a blaster
+- All specially decorated elements for a cannibalised look make it a great Christmas present, birthday or just a fun gift for any occasion
+- Immerse your LEGO Star Wars fan in galactic adventures with this unique AT-ST Raider vehicle with lots of play-starting features
+- Features posable jointed legs, a wheel-activated turning turret, opening canopy with space for a minifigure inside a detailed cockpit
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07ND9SVPB/?tag=tolees0a-21)

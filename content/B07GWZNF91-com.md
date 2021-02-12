@@ -28,10 +28,10 @@ There's a deal [LEGO Creator 3in1 Deep Sea Creatures 31088 Make a Shark  Squid  
 
 ℹ️:
 
-- This LEGO Creator 3in1 Deep Sea Creatures building set in which kids can build 3 ocean animals can be built with all other original LEGO sets and LEGO bricks for endless pretend play, This build and play set includes the perfect animal toys for kids
-- In addition to building multiple toy animal figures, this deep sea creatures playset includes a scary model shark with an opening mouth, pointy teeth, posable fins, movable joints and reflective eyes-- the perfect action toy for imaginative play
 - Toy shark is over 3 inches (8cm) high, 8 inches (21cm) long and 3 inches (9cm) wide; Toy crab is over 1 inches (3cm) long and 4 inches (11cm) wide; Toy squid is over 1 inches (4cm) high, 7 inches (18cm) long and 8 inches (22cm) wide; Angler Fish is over 1 inches (5cm) high, 5 inches (14cm) long and 3 inches (8cm) wide
 - With LEGO Creator 3in1 sets kids get 3 different build and play experiences for hours of pretend play with these toy sea creatures, This 230 piece animal set is ideal for boys and girls aged 7+ and make a great holiday or birthday gift
+- This LEGO Creator 3in1 Deep Sea Creatures building set in which kids can build 3 ocean animals can be built with all other original LEGO sets and LEGO bricks for endless pretend play, This build and play set includes the perfect animal toys for kids
 - Kids can create their own animal with this build and rebuild ocean playset featuring 3 toy sea creatures, They can go from building a scary toy shark and a crab with a box of treasure to building a flexible toy squid or a giant-mouthed Angler Fish
+- In addition to building multiple toy animal figures, this deep sea creatures playset includes a scary model shark with an opening mouth, pointy teeth, posable fins, movable joints and reflective eyes-- the perfect action toy for imaginative play
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07GWZNF91/?tag=tolees-20)

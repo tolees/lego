@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO 60216 City Fire Downtown Fire Briga'
-date: 2021-02-11 01:30:51
+date: 2021-02-12 02:16:37
 image: 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21'
 descuento: '20.00'
-average: '71.388373015873'
+average: '71.3931102362205'
 ---
 
 You've got [LEGO 60216 City Fire Downtown Fire Brigade with Fire Engine Truck Toy  Crane  Helicopter  Motorbike and 7 Minifigures  Fireman Toys for Kids](https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21) with a  20.00 % discount, with final price of 71.99 GBP (original: 89.99 GBP) at the following link:
@@ -31,8 +31,8 @@ You've got [LEGO 60216 City Fire Downtown Fire Brigade with Fire Engine Truck To
 - Toy truck features working light and sound brick, extending stabilizers, opening storage space, extending/swiveling turntable ladder and a fire hose with pump system with ‘water jet’ function
 - Toy Helicopter features opening cockpit, spinning rotors and stud shooter, ROS-T3 the remote-operated vehicle (ROV) with extending claws and stud shooter, plus a fire toy motorbike
 - Includes 7 LEGO City minifigures : 2 construction workers, a pilot and 4 firefighters
+- Build a fire ladder toy truck, extending swivel ladder and fire hose with pump system and ‘water jet’ function, plus a swiveling crane with working winch, 3-level building and a toy helicopter
 - 3-level building features construction area, tool holders, falling lamppost and a toilet, plus a free-standing crane with rotating arm and functioning winch with hook
 - Accessory elements include 2 warning lights, a radio, 2 sets of smoke gear, remote-control element for the crane and more
-- Build a fire ladder toy truck, extending swivel ladder and fire hose with pump system and ‘water jet’ function, plus a swiveling crane with working winch, 3-level building and a toy helicopter
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21)
