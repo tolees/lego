@@ -29,9 +29,9 @@ With a final price of 12.95 GBP (original: 17.99 GBP) you can find [LEGO 10901 D
 ℹ️:
 
 - 21 pieces – kids’ firefighter toy for boys and girls aged 2+
-- The LEGO DUPLO 10901 Fire Truck educational toy is easy to build and encourages learning through play, language development, fine motor skills development and cognitive development in children
 - Firefighter truck measures over 3 Inch (10 cm) high, 5 Inch (14 cm) long and 2 Inch (7 cm) wide
-- Build a LEGO DUPLO fire truck toy with flashing lights and siren sound, plus a buildable tree and cat to rescue
+- The LEGO DUPLO 10901 Fire Truck educational toy is easy to build and encourages learning through play, language development, fine motor skills development and cognitive development in children
 - This toddler fire truck building toy includes two LEGO DUPLO figures: A firefighter figure and a child figure, plus a cat
+- Build a LEGO DUPLO fire truck toy with flashing lights and siren sound, plus a buildable tree and cat to rescue
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNTSDD6/?tag=tolees0a-21)
