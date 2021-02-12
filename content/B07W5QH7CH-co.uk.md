@@ -28,10 +28,10 @@ With a final price of 6.61 GBP (original: 8.99 GBP) you can find [LEGO 21162 Min
 
 ℹ️:
 
-- Features freezing cold Taiga snow-capped mountains to climb, campfire to warm up, red berries to feed on and TNT to blast out rare ore with
 - Will Steve be able to defend the ore with his sword when the Skeleton riding the Wolf attacks with his bow? Will the fox help?
-- Includes 4 favourite Minecraft characters: Steve, Skeleton, Wolf and the new-for-January-2020 Fox figure, both with posable tails
-- The playset brings all the online excitement of Minecraft into the real world with its models Requires only basic building skills
 - Accessories include a golden sword, bow, TNT bricks and berry bushes Look out – there’s a Wolf on the hunt! The Skeleton may enjoy the ride
+- Features freezing cold Taiga snow-capped mountains to climb, campfire to warm up, red berries to feed on and TNT to blast out rare ore with
+- The playset brings all the online excitement of Minecraft into the real world with its models Requires only basic building skills
+- Includes 4 favourite Minecraft characters: Steve, Skeleton, Wolf and the new-for-January-2020 Fox figure, both with posable tails
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W5QH7CH/?tag=tolees0a-21)
