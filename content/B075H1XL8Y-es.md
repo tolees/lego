@@ -28,13 +28,13 @@ You've got [LEGO Architecture - Shanghái  Set de Construcción de Skyline con e
 
 ℹ️:
 
+- Incluye una base de 4x32 y una placa identificativa de Shanghái.
+- Recrea las ciudades más dinámicas del mundo con la colección LEGO Architecture Skyline.
+- El río Huangpu está reproducido en la base mediante placas.
 - La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a amantes de los viajes, el diseño, la arquitectura y la historia.
 - El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada estructura, así como datos históricos sobre Shanghái y su legado arquitectónico (sólo en inglés; disponible para descargar en otros idiomas en LEGO.com/architecture). Pide permiso a tus papás antes de conectarte a Internet.
-- Recrea las ciudades más dinámicas del mundo con la colección LEGO Architecture Skyline.
-- Incluye una base de 4x32 y una placa identificativa de Shanghái.
-- El río Huangpu está reproducido en la base mediante placas.
-- Cuenta con algunas de las atracciones más populares de la ciudad, como el Templo Ciudad de Dios, el Templo y Pagoda de Longhua, el Hotel Radisson Blu, la zona del Bund, la Perla Oriental, el World Financial Center y la Torre de Shanghái.
 - Interpretación LEGO Architecture de Shanghái (China).
+- Cuenta con algunas de las atracciones más populares de la ciudad, como el Templo Ciudad de Dios, el Templo y Pagoda de Longhua, el Hotel Radisson Blu, la zona del Bund, la Perla Oriental, el World Financial Center y la Torre de Shanghái.
 - Mide más de 25 cm de altura, 28 cm de ancho y 7 cm de profundidad.
 - Este juguete turístico coleccionable incluye más de 595 piezas y es apto para mayores de 12 años.
 
