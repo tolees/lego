@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '33.39 % deal for Lego Worlds'
-date: 2020-03-30 13:18:00
+title: '66.64 % deal for Warner Bros Interactive Spain - Lego Wor'
+date: 2021-02-12 08:24:44
 image: 'https://m.media-amazon.com/images/I/61z9W5TRiYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6ELXT4-es Lego Worlds'
+slug: 'B01N6ELXT4-es Warner Bros Interactive Spain - Lego Worlds'
 sku: 'B01N6ELXT4-es'
 tags: [ 'lego', ]
-actualPrice: 19.95 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 19.95
+price: 9.99
 comparePrice: 29.95 EUR
-prodname: 'Lego Worlds'
+prodname: 'Warner Bros Interactive Spain - Lego Worlds'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B01N6ELXT4/?tag=tolees-21'
-descuento: '33.39'
-average: '19.148666666666664'
+descuento: '66.64'
+average: '18.0711764705882'
 ---
 
-There's a deal [Lego Worlds](https://www.amazon.es/dp/B01N6ELXT4/?tag=tolees-21)  with  33.39 % discount, final price tag of  19.95 EUR (original: 29.95 EUR) here:
+There's a deal [Warner Bros Interactive Spain - Lego Worlds](https://www.amazon.es/dp/B01N6ELXT4/?tag=tolees-21)  with  66.64 % discount, final price tag of  9.99 EUR (original: 29.95 EUR) here:
 
-[![Lego Worlds](https://m.media-amazon.com/images/I/61z9W5TRiYL._SL200_.jpg)](https://www.amazon.es/dp/B01N6ELXT4/?tag=tolees-21)
+[![Warner Bros Interactive Spain - Lego Wor](https://m.media-amazon.com/images/I/61z9W5TRiYL._SL200_.jpg)](https://www.amazon.es/dp/B01N6ELXT4/?tag=tolees-21)
 
 ℹ️:
 

@@ -28,8 +28,8 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Star Wa
 
 ℹ️:
 
-- The Snowspeeder starship building toy measures over 1” (5cm) high, 4” (11cm) long and 3” (9cm) wide, so it easily fits into a bag with the other Star Wars builds and minifigures to keep kids entertained on the go
 - To inspire extra play possibilities, the defense station has a ‘laser’ disc shooter for Wedge Antilles, and kids can use the building bricks to build creatively with other LEGO Star Wars sets!
+- The Snowspeeder starship building toy measures over 1” (5cm) high, 4” (11cm) long and 3” (9cm) wide, so it easily fits into a bag with the other Star Wars builds and minifigures to keep kids entertained on the go
 - This easy-to-build LEGO Star Wars set sparks imagination, offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 4+ who love Star Wars, LEGO Star Wars and space battle toys
 - With a simple-to-build Snowspeeder, speeder bike and Echo Base defense station, this children’s building toy is a fun and safe way to introduce little Rebels ages 4+ to LEGO Star Wars action!
 - The Snowspeeder has a Starter Brick chassis to help children learn to build, and they can create their own role-play stories with 2 minifigures: Star Wars Rebel pilot hero Wedge Antilles and a Snowtrooper with weapon!

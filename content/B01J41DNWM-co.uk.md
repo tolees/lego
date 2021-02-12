@@ -29,8 +29,8 @@ You've got [LEGO 31058 Creator Mighty Dinosaurs Toy  3 in 1 Model  Triceratops a
 ℹ️:
 
 - LEGO creator 3-in-1 building sets are compatible with all LEGO construction toys for creative building
-- Pose the T-Rexs arms, legs, tail and head and open its mouth to reveal ferocious teeth
 - Have fun with this T-Rex, featuring a dark-green and beige colour scheme, bright orange eyes, poseable joints and head, large claws and an opening mouth
+- Pose the T-Rexs arms, legs, tail and head and open its mouth to reveal ferocious teeth
 - Rebuild this 3-in-1 LEGO creator mighty Dinosaurs model to create a Triceratops or a Pterodactyl
 - Also includes the Dinosaur’s prey in the form of a buildable rib cage
 
