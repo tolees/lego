@@ -28,10 +28,10 @@ You've got [LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinze
 
 ℹ️:
 
-- Die Hütte ist ausklappbar und bietet einfachen Zugang zu vielen spielerischen Gegenständen wie einer Trainingsfernbedienung und einem Hologramm der Prinzessin Leia
 - Verfügt über das Tatooine-Wüstenhaus von Obi-Wan Kenobi mit einer Öffnungskuppel zum einfachen Spielen und vielen Details, um Lieblingsfilmszenen nachzubilden
 - Kinder können mit Luke Skywalker trainieren, um ein Jedi-Meister zu werden, ihre Lichtschwertfähigkeiten mit der Trainingsfernbedienung üben oder mit R2-Dzwei spielen
-- Enthält drei Minifiguren: Obi-Wan Kenobi und Luke Skywalker mit Lichtschwertern, einen Tusken Raider mit einem Gaffi-Stock sowie eine R2-D2-Droidenfigur
+- Die Hütte ist ausklappbar und bietet einfachen Zugang zu vielen spielerischen Gegenständen wie einer Trainingsfernbedienung und einem Hologramm der Prinzessin Leia
 - Der in der kostenlosen LEGO Life-App für Smartphones und Tablets verfügbare Instructions PLUS-Leitfaden enthält Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, um das Bauen zu unterstützen
+- Enthält drei Minifiguren: Obi-Wan Kenobi und Luke Skywalker mit Lichtschwertern, einen Tusken Raider mit einem Gaffi-Stock sowie eine R2-D2-Droidenfigur
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)
