@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 71366 Super Mario Boomer Bill Barra at 20.01 % discount'
-date: 2021-02-12 00:28:20
+title: 'LEGO 71366 Super Mario Boomer Bill Barra at 24.21 % discount'
+date: 2021-02-13 12:27:16
 image: 'https://m.media-amazon.com/images/I/5157EUDXUJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B082WDBGMP-co.uk LEGO 71366 Super Mario Boomer Bill Barrage Expansion...'
 sku: 'B082WDBGMP-co.uk'
 tags: [ 'lego', ]
-actualPrice: 19.99 GBP
+actualPrice: 18.94 GBP
 currency: GBP
-price: 19.99
+price: 18.94
 comparePrice: 24.99 GBP
 prodname: 'LEGO 71366 Super Mario Boomer Bill Barrage Expansion Set Buildable Game'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21'
-descuento: '20.01'
-average: '19.99'
+descuento: '24.21'
+average: '19.8284615384615'
 ---
 
-With a final price of 19.99 GBP (original: 24.99 GBP) you can find [LEGO 71366 Super Mario Boomer Bill Barrage Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21) with a  20.01 % discount here:
+With a final price of 18.94 GBP (original: 24.99 GBP) you can find [LEGO 71366 Super Mario Boomer Bill Barrage Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21) with a  24.21 % discount here:
 
 [![LEGO 71366 Super Mario Boomer Bill Barra](https://m.media-amazon.com/images/I/5157EUDXUJL._SL200_.jpg)](https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21)
 
 ℹ️:
 
+- Players place LEGO Mario figure (not included) on the platform’s smooth end for added difficulty. How many times can they spin?
 - Includes a Shy Guy figure and a Super Mushroom to boost the gameplay - lets see Mario falling or being knocked off by the Boomer Bills!
 - Find new ways to play with the LEGO Mario figure from the Adventures Mario Starter Course set (sold separately) with this expansion set
-- Players place LEGO Mario figure (not included) on the platform’s smooth end for added difficulty. How many times can they spin?
 - Advance your skills with the free LEGO app with viewing tools, digital building instructions, plus inspiration for creative play and more
 - Features a spinner with 2 ‘flying’ Boomer Bill figures and a rotating platform with 2 difficulty levels (with or without studs) for more fun
 
