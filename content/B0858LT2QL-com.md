@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.97 % deal for LEGO Star Wars 501st Legion Clone Troope'
-date: 2021-02-11 18:49:00
+date: 2021-02-13 06:20:46
 image: 'https://m.media-amazon.com/images/I/51mmNE1cErL._SL200_.jpg'
 comments: true
 category: ofertas
