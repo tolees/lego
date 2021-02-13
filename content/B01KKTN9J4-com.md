@@ -28,9 +28,9 @@ There's a deal [LEGO City Police Mobile Command Center Truck 60139 Building Toy 
 
 ℹ️:
 
-- ATV measures over 1 (3cm) high, 2 (7cm) long and 1 (5cm) wide, motorbike measures over 1 (3cm) high, 2 (7cm) long and under 1 (2cm) wide
-- Mobile command center measures over 4 (11cm) high, 9 (23cm) long and 2 (6cm) wide, truck cab measures over 3 (8cm) high, 5 (13cm) long and 2 (7cm) wide
-- two police officers and two crooks, plus a police dog figure
 - Includes four minifigures
+- two police officers and two crooks, plus a police dog figure
+- Mobile command center measures over 4 (11cm) high, 9 (23cm) long and 2 (6cm) wide, truck cab measures over 3 (8cm) high, 5 (13cm) long and 2 (7cm) wide
+- ATV measures over 1 (3cm) high, 2 (7cm) long and 1 (5cm) wide, motorbike measures over 1 (3cm) high, 2 (7cm) long and under 1 (2cm) wide
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B01KKTN9J4/?tag=tolees-20)

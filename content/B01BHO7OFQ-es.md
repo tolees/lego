@@ -28,10 +28,10 @@ There's a deal [Warner Bros. Entertainment - LEGO Star Wars: El Despertar De La 
 
 ℹ️:
 
-- Tipo de producto: videojuego
-- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
-- Plataforma del juego: PlayStation 4
 - El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
+- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
+- Tipo de producto: videojuego
+- Plataforma del juego: PlayStation 4
 - Los jugadores se pondrán en el papel de los héroes de la película
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B01BHO7OFQ/?tag=tolees-21)
