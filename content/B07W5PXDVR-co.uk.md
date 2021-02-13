@@ -28,10 +28,10 @@ You've got [LEGO 41391 Friends Heartlake City Hair Salon Playset with Emma Mini 
 
 ℹ️:
 
-- The toy hairdressers feature two chairs, one with a hairdryer, a hair-washing sink, cash desk and a separate stand for hairdressers pieces
-- Wonderfully detailed stations allow kids to see the mini-doll figures progress through the pretend hair salon with an open back access
-- This hair salon playset accessories also include a coffee machine and a broom, even a hairstyle catalogue, just like a real salon
-- Includes accessories stand, scissors, brush, tiara, bow, hand hairdryer, shampoo bottle and hairspray, plus coffee and cookies to serve
 - Includes two mini-dolls, Emma and the stylist Nina with detachable heads, the movable upper body part to sit in the chair and different wigs
+- Wonderfully detailed stations allow kids to see the mini-doll figures progress through the pretend hair salon with an open back access
+- Includes accessories stand, scissors, brush, tiara, bow, hand hairdryer, shampoo bottle and hairspray, plus coffee and cookies to serve
+- This hair salon playset accessories also include a coffee machine and a broom, even a hairstyle catalogue, just like a real salon
+- The toy hairdressers feature two chairs, one with a hairdryer, a hair-washing sink, cash desk and a separate stand for hairdressers pieces
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21)
