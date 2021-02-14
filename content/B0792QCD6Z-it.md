@@ -28,10 +28,10 @@ You've got [LEGO- Star Wars Includes Qi’ra  Val  Rio Durant And 2 of Dryden’
 
 ℹ️:
 
-- Include un container per il carico apribile e costruibile con trave di sollevamento
 - Ruota i bracci del sollevatore per le modalità di atterraggio e volo
 - Carica il container, aggancialo e sollevalo
 - Include 5 minifigure Lego: Qi’ra, Val, Rio Durant e 2 delle guardie di Dryden
+- Include un container per il carico apribile e costruibile con trave di sollevamento
 - Dotato di piloni rotanti con ganci di sollevamento mobili, cabina di pilotaggio per minifigure apribile, shooter laterali e piattaforma sottostante per il trasporto di minifigure
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B0792QCD6Z/?tag=tolees00-21)

@@ -28,8 +28,8 @@ With a final price of 79.9 EUR (original: 94.99 EUR) you can find [LEGO Super H
 
 ℹ️:
 
-- Questo set di Batman è dotato di veicoli, armi ed equipaggiamenti gadget ispirati ai film
 - Il tettuccio apribile permette ai bambini di accedere alla parte interna di un camion dotato di un bat-equipaggiamento completo
+- Questo set di Batman è dotato di veicoli, armi ed equipaggiamenti gadget ispirati ai film
 - Include un Batjet, un BatQuad, una motocicletta, un jet ski, un camion e 6 minifigure
 - Il veicolo Bat-base mobile completo è lungo più di 38 cm
 - Un’ottima idea regalo di compleanno di tipo “costruisci il tuo veicolo” per bambini dai 6 anni in su

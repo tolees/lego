@@ -28,10 +28,10 @@ With a final price of 21.84 EUR (original: 29.99 EUR) you can find [LEGO 75271 S
 
 ℹ️:
 
-- Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
-- Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
-- Bietet einen Landspeeder mit viel Platz für Luke- und C-3PO-Minifiguren sowie ein baubares Höhlenversteck für eine bewaffnete Jawa-Minifigur
-- Kinder können nach dem Jawa Ausschau halten, der sich in einer Höhle versteckt und bereit ist, Luke zu überfallen. Dann können sie Lukes Blasterpistole nehmen und gegen diesen Wüstenräuber kämpfen
 - Der Landspeeder hat einen Kofferraum für Lukes Makrobinokular und einen Clip für seine Blasterpistole, drei gigantische Motoren und eine Waffe, mit der er auf den Feind feuern kann
+- Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
+- Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
+- Kinder können nach dem Jawa Ausschau halten, der sich in einer Höhle versteckt und bereit ist, Luke zu überfallen. Dann können sie Lukes Blasterpistole nehmen und gegen diesen Wüstenräuber kämpfen
+- Bietet einen Landspeeder mit viel Platz für Luke- und C-3PO-Minifiguren sowie ein baubares Höhlenversteck für eine bewaffnete Jawa-Minifigur
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21)
