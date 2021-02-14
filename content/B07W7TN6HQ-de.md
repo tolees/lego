@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.57 % deal for LEGO 75269 Star Wars Duell auf Mustafar '
-date: 2021-02-13 01:07:33
+date: 2021-02-14 01:23:00
 image: 'https://m.media-amazon.com/images/I/518nopqfm1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TN6HQ/?tag=tolees0ca-21'
 descuento: '26.57'
-average: '21.1031249999999'
+average: '20.9411764705882'
 ---
 
 There's a deal [LEGO 75269 Star Wars Duell auf Mustafar  Die Rache der Sith  Spielset mit Anakin Skywalker und Obi-Wan Kenobi Minifiguren](https://www.amazon.de/dp/B07W7TN6HQ/?tag=tolees0ca-21)  with  26.57 % discount, final price tag of  18.35 EUR (original: 24.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 75269 Star Wars Duell auf Mustafar  Die Rache der Sith  Spi
 
 ℹ️:
 
-- Verfügt über eine ausklappbare Mustafar-Mine mit Lava-Explosionsfunktion und verschiebbaren und drehbaren Plattformen für der Kampf der Minifiguren
 - Plattformen drehen und verschieben sich und das Modell lässt sich für aufregende Lichtschwert-Duelle ausklappen. Kinder können geschmolzene Lava-Elemente für glühende Lava-Action schießen
+- Beinhaltet zwei LEGO Star Wars Minifiguren: Anakin Skywalker und Obi-Wan Kenobi mit Lichtschwertern
 - Mit der digitalen Anleitung Instructions PLUS, die in der kostenlosen LEGO Life-App verfügbar ist, können Kinder heranzoomen, drehen und anzeigen, während sie das echte Modell bauen
 - Zum Zubehör gehören zwei Lichtschwerter sowie Flammen und andere schweißrote Lavaelemente, um eine Lavaexplosion vorzutäuschen
-- Beinhaltet zwei LEGO Star Wars Minifiguren: Anakin Skywalker und Obi-Wan Kenobi mit Lichtschwertern
+- Verfügt über eine ausklappbare Mustafar-Mine mit Lava-Explosionsfunktion und verschiebbaren und drehbaren Plattformen für der Kampf der Minifiguren
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TN6HQ/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.01 % deal for LEGO 42106 Technic Stunt-Show mit Truck '
-date: 2021-02-13 00:51:23
+date: 2021-02-14 01:04:07
 image: 'https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21'
 descuento: '26.01'
-average: '38.7080141843972'
+average: '38.6959154929578'
 ---
 
 There's a deal [LEGO 42106 Technic Stunt-Show mit Truck und Motorrad Spielset  2-in-1 Modell mit Rückziehmotor und Anhänger](https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21)  with  26.01 % discount, final price tag of  36.99 EUR (original: 49.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42106 Technic Stunt-Show mit Truck und Motorrad Spielset  2
 
 ℹ️:
 
-- Der Anhänger lässt sich geschickt in eine Rampe verwandeln, um das Motorrad durch den Feuerring zu treiben. Danach wird er für den Weg zum nächsten Event wieder aufgebaut
-- Breitreifen halten die Fahrzeuge auf Kurs und das rot-blau-schwarze Farbkonzept sowie die Aufkleber und Flammen erzeugen den Nervenkitzel einer gewagten Motorradshow
-- Der Spielzeug-LKW zeichnet sich mit einer oberen Lenkung, aufklappbaren Türen sowie mit coolen Aufklebern aus und das Motorrad hat dicke Reifen und noch mehr Aufkleber-Details
-- Wenn alle Bausteine verbunden werden, erhält man eine ideale Größe für ein Rollenspiel, so dass die Freude an diesem Spielzeug noch lange nach seinem Bau dauern wird
 - Das zwei -in-1-Set beinhaltet einen Truck mit Anhänger und Stunt-Motorrad, beide mit Rückziehmotor. Sie lassen sich zu einem Monstertruck und einer Stunt-Rampe umbauen
+- Der Anhänger lässt sich geschickt in eine Rampe verwandeln, um das Motorrad durch den Feuerring zu treiben. Danach wird er für den Weg zum nächsten Event wieder aufgebaut
+- Wenn alle Bausteine verbunden werden, erhält man eine ideale Größe für ein Rollenspiel, so dass die Freude an diesem Spielzeug noch lange nach seinem Bau dauern wird
+- Der Spielzeug-LKW zeichnet sich mit einer oberen Lenkung, aufklappbaren Türen sowie mit coolen Aufklebern aus und das Motorrad hat dicke Reifen und noch mehr Aufkleber-Details
+- Breitreifen halten die Fahrzeuge auf Kurs und das rot-blau-schwarze Farbkonzept sowie die Aufkleber und Flammen erzeugen den Nervenkitzel einer gewagten Motorradshow
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21)
