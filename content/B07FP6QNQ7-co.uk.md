@@ -28,10 +28,10 @@ There's a deal [LEGO Technic 42096 Porsche 911 RSR Race Car Advanced Building Se
 
 ℹ️:
 
-- This LEGO Technic Porsche 911 RSR 42096 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - Exclusive LEGO Technic replica of the Porsche 911 RSR sports car for boys and girls aged 10+ and for fans of all ages
+- Realistic details include aerodynamic bodywork, black spoked rims, working differential, working steering, independent suspension and a six-cylinder boxer engine with moving pistons
 - 1580 pieces – Porsche 911 RSR model car measures over 5 Inch (13 cm) high, 19 Inch (50 cm) long and 7 Inch (20 cm) wide
 - Build and explore the LEGO Technic Porsche 911 RSR - an icon of innovative engineering and design
-- Realistic details include aerodynamic bodywork, black spoked rims, working differential, working steering, independent suspension and a six-cylinder boxer engine with moving pistons
+- This LEGO Technic Porsche 911 RSR 42096 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21)
