@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 38.57 % for LEGO 75890 Speed Champions Ferrari F40 C'
-date: 2021-02-11 18:20:01
+date: 2021-02-14 08:47:11
 image: 'https://m.media-amazon.com/images/I/51f1zIZ9DLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FP2KPXC/?tag=tolees0a-21'
 descuento: '38.57'
-average: '14.4120000000002'
+average: '14.2641379310347'
 ---
 
 You've got [LEGO 75890 Speed Champions Ferrari F40 Competizione Racing Driver Minifigure Building Set  Vehicle Toys for Kids  Forza Horizon 4 Expansion Pack Model](https://www.amazon.co.uk/dp/B07FP2KPXC/?tag=tolees0a-21) with a  38.57 % discount, with final price of 7.98 GBP (original: 12.99 GBP) at the following link:
@@ -28,9 +28,9 @@ You've got [LEGO 75890 Speed Champions Ferrari F40 Competizione Racing Driver Mi
 
 ℹ️:
 
-- Includes a Ferrari racing driver minifigure with a helmet
 - Build, race and display the Ferrari F40 Competizione with a minifigure cockpit, removable windshield, plus interchangeable car spoilers and hoods to turn the Competizione into the classic F40 road car
-- This LEGO Speed Champions Ferrari F40 Competizione 75890 fast car playset can be built together with all other original LEGO building toys and LEGO bricks for creative building
 - 198 pieces – Racing car toy for boys and girls aged 7+ and for fans and kids of all ages
+- This LEGO Speed Champions Ferrari F40 Competizione 75890 fast car playset can be built together with all other original LEGO building toys and LEGO bricks for creative building
+- Includes a Ferrari racing driver minifigure with a helmet
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FP2KPXC/?tag=tolees0a-21)
