@@ -28,10 +28,10 @@ With a final price of 19.99 USD (original: 24.99 USD) you can find [LEGO DUPLO T
 
 ℹ️:
 
-- This airport toy building set includes an airport building with luggage slide, suitcase, boarding gate and revolving air traffic control tower, plus a buildable airplane toy for toddlers
 - 29 pieces – Preschool toy for boys and girls between the ages of 2 and 5 years
+- This airport toy building set includes an airport building with luggage slide, suitcase, boarding gate and revolving air traffic control tower, plus a buildable airplane toy for toddlers
 - Airport measures over 8-inch (22cm) high, 5-inch (14cm) wide and 4-inch (11cm) deep Plane measures over 3-inch (9cm) high, 7-inch (18cm) long and 6-inch (17cm) wide
-- Build this LEGO DUPLO airport playset with toy plane out of large building blocks!
 - Use the modern characters, accessories and decorated bricks to have fun while role-playing what happens at the airport before your toddler’s first trip on a plane
+- Build this LEGO DUPLO airport playset with toy plane out of large building blocks!
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B075LX4WVN/?tag=tolees-20)
