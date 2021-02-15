@@ -28,10 +28,10 @@ With a final price of 67.99 EUR (original: 79.99 EUR) you can find [LEGO Creator
 
 ℹ️:
 
-- L’edificio a 2 piani è dotato di un caffè al piano terra con aree a sedere interne e esterne, cucina al livello superiore con stufa e balcone e una terrazza panoramica con fiori
-- Include 3 minifigure, tutte pronte per tanto divertimento in centro città
 - Il Negozio degli animali & Café è dotato di una facciata colorata con dettagli decorati, insegna del caffè decorativa e grandi finestre, più un’area esterna con fiori, bancomat, marciapiede, semaforo e idrante antincendio
-- L’edificio a 3 piani contiene un negozio di animali con interni dettagliati al pianoterra, acquario e un cane, un tucano e un topolino in mattoncini, un appartamento al secondo livello con TV e divano, una camera da letto con letto e comodino con telefono al livello superiore e una terrazza sul tetto con pannello solare
 - Divertiti con 3 possibilità di costruzione con questo set di gioco LEGO Creator 3 in 1; costruisci il Negozio degli animali e Café e quindi ricostruiscili per creare una banca a più piani o una strada con mercato e tram
+- L’edificio a 2 piani è dotato di un caffè al piano terra con aree a sedere interne e esterne, cucina al livello superiore con stufa e balcone e una terrazza panoramica con fiori
+- L’edificio a 3 piani contiene un negozio di animali con interni dettagliati al pianoterra, acquario e un cane, un tucano e un topolino in mattoncini, un appartamento al secondo livello con TV e divano, una camera da letto con letto e comodino con telefono al livello superiore e una terrazza sul tetto con pannello solare
+- Include 3 minifigure, tutte pronte per tanto divertimento in centro città
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07KTV5ZG7/?tag=tolees00-21)
