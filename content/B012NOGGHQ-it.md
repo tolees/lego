@@ -29,9 +29,9 @@ You've got [LEGO Architecture New York City  Set di Costruzioni  21028](https
 ℹ️:
 
 - Include una base con tegole 4x32 e la targhetta decorativa "New York City"
-- Il libretto incluso contiene informazioni sul design, larchitettura e la storia di ogni edificio, più fatti storici su New York e il suo patrimonio architettonico (solo in inglese; altre lingue disponibili per il download sul sito LEGO Architecture)
 - Ricrea le città più belle del mondo con la collezione LEGO Architecture Skyline
 - Contiene il grattacielo Flatiron, il Chrysler Building, lEmpire State Building, il One World Trade Center e la Statua della Libertà
+- Il libretto incluso contiene informazioni sul design, larchitettura e la storia di ogni edificio, più fatti storici su New York e il suo patrimonio architettonico (solo in inglese; altre lingue disponibili per il download sul sito LEGO Architecture)
 - Interpretazione LEGO dei più famosi edifici di New York
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B012NOGGHQ/?tag=tolees00-21)
