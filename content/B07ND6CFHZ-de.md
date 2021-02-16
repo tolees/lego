@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42099 Technic Control+ 4x4 Allrad X at 24.41 % discount'
-date: 2021-02-15 07:55:58
+date: 2021-02-16 08:18:16
 image: 'https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '24.41'
-average: '165.061747851001'
+average: '165.111880341879'
 ---
 
 With a final price of 173.86 EUR (original: 229.99 EUR) you can find [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) with a  24.41 % discount here:
@@ -28,10 +28,10 @@ With a final price of 173.86 EUR (original: 229.99 EUR) you can find [LEGO 42099
 
 ℹ️:
 
-- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
-- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
-- Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei Bildschirme auf einem Mobilgerät gesteuert.
 - Das coole Geländewagen-Modell wird mit der LEGO Technic Control+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben
+- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
 - Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
+- Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei Bildschirme auf einem Mobilgerät gesteuert.
+- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
