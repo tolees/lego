@@ -29,9 +29,9 @@ With a final price of 23.0 GBP (original: 34.99 GBP) you can find [LEGO 41393 Fr
 ℹ️:
 
 - Features a TV studio baking show with Three play sections: Two cooking stations and the main stage for a winner to take a prize - the golden cup
-- Includes rotating cake stands, ovens opening just like in a grown-up kitchen plus lots of baking accessories: Cupcakes, fruit and utensils
 - Kids will spin the wheel above the stage to choose which crazy ingredients the bakers must include and get creative with the decorations
-- Accessories include a whisk, chocolate, cash check, trophy, milk carton, a packet of sugar and icing, plus kitchen equipment
 - The playset includes Stephanie, David and a judge mini-dolls, to realistically recreate the baking TV shows kids watch with the whole family
+- Includes rotating cake stands, ovens opening just like in a grown-up kitchen plus lots of baking accessories: Cupcakes, fruit and utensils
+- Accessories include a whisk, chocolate, cash check, trophy, milk carton, a packet of sugar and icing, plus kitchen equipment
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W8Y1FRJ/?tag=tolees0a-21)

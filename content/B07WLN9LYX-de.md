@@ -28,10 +28,10 @@ With a final price of 17.9 EUR (original: 24.36 EUR) you can find [LEGO 41250 Tr
 
 ℹ️:
 
+- Kinder können die Meerjungfrau auf das herzförmige Riff setzen, um sie herumwirbeln zu lassen oder mit ihrem Tintenfisch-Freund in einem musikalischen Unterwasser-Abenteuer zu rutschen
 - In diesem coolen Set gibt es viel zu entdecken: Lautsprecher, Stroboskope, Scheinwerfer, Diamanten, eine Haarbürste, Korallen und Unterwasserblumen
 - Einfach zu bauen. Jetzt können auch jüngere Baumeister an ihren selbstständigen Bauerfolgen Spaß haben
-- Das Set enthält eine Trolls Meerjungfrau Spielfigur für das Rollenspiel einer DJ-Party, mit abnehmbaren Haaren und Haarzubehör zum Dekorieren, sowie einen Freund den Tintenfisch
 - Bringe das Universum der Trolls dazu, überzeugende, kreative Spielerlebnisse in einer bunten Feier der Positivität zu inspirieren.
-- Kinder können die Meerjungfrau auf das herzförmige Riff setzen, um sie herumwirbeln zu lassen oder mit ihrem Tintenfisch-Freund in einem musikalischen Unterwasser-Abenteuer zu rutschen
+- Das Set enthält eine Trolls Meerjungfrau Spielfigur für das Rollenspiel einer DJ-Party, mit abnehmbaren Haaren und Haarzubehör zum Dekorieren, sowie einen Freund den Tintenfisch
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WLN9LYX/?tag=tolees0ca-21)
