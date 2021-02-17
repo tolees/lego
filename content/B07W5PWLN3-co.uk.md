@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 27.79 % for LEGO 76895 Speed Champions Ferrari F8 Tr'
-date: 2021-02-13 01:19:11
+date: 2021-02-17 20:29:52
 image: 'https://m.media-amazon.com/images/I/517J+PF8OzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5PWLN3/?tag=tolees0a-21'
 descuento: '27.79'
-average: '20.7089743589744'
+average: '20.5160000000001'
 ---
 
 You've got [LEGO 76895 Speed Champions Ferrari F8 Tributo Racer Toy with Racing Driver Minifigure  Race Cars Building Sets](https://www.amazon.co.uk/dp/B07W5PWLN3/?tag=tolees0a-21) with a  27.79 % discount, with final price of 12.99 GBP (original: 17.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 76895 Speed Champions Ferrari F8 Tributo Racer Toy with Racing 
 
 ℹ️:
 
-- This stunningly detailed toy car includes many of the original features, as seen on the most powerful V8 car Ferrari has ever made
-- New for January 2020, LEGO Speed Champions replicas are now 25 Percent bigger and more realistic than ever
 - LEGO Speed Champions building sets for kids let car fans construct mini versions of some of the world’s most famous cars
-- Includes a Ferrari driver minifigure wearing a helmet that can be placed behind the wheel for racing action
+- New for January 2020, LEGO Speed Champions replicas are now 25 Percent bigger and more realistic than ever
 - Racing cars fans can create their very own super-fast F8 Tributo model car before displaying the sleek mini replica
+- Includes a Ferrari driver minifigure wearing a helmet that can be placed behind the wheel for racing action
+- This stunningly detailed toy car includes many of the original features, as seen on the most powerful V8 car Ferrari has ever made
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PWLN3/?tag=tolees0a-21)
