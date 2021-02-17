@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Harry Potter - Le Saule Cogneur du '
-date: 2021-02-16 14:30:37
+date: 2021-02-17 15:57:44
 image: 'https://m.media-amazon.com/images/I/51FyQUatZTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21'
 descuento: '20.00'
-average: '61.715'
+average: '61.5581818181818'
 ---
 
 There's a deal [LEGO Harry Potter - Le Saule Cogneur du château de Poudlard - 75953 - Jeu de Construction](https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21)  with  20.00 % discount, final price tag of  59.99 EUR (original: 74.99 EUR) here:
@@ -28,11 +28,11 @@ There's a deal [LEGO Harry Potter - Le Saule Cogneur du château de Poudlard - 7
 
 ℹ️:
 
-- Construisez le saule cogneur du château de Poudlard
-- 753 pièces  pour les filles et les garçons de 8 à 14 ans
-- Six figurines incluses : Harry Potter , Ron Weasley, Hermione Granger, Seamus Finnigan, Argus Rusard, Severus Rogue, ainsi quune figurine de la chouette Hedwige
-- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Le saule cogneur mesure plus de 7 cm de haut, 20 cm de large et 20 cm de profondeur; la partie du château de Poudlard mesure plus de 27 cm de haut, 35 cm de large et 8 cm de profondeur
 - Issu de lunivers des films Harry Potter
+- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Construisez le saule cogneur du château de Poudlard
+- Six figurines incluses : Harry Potter , Ron Weasley, Hermione Granger, Seamus Finnigan, Argus Rusard, Severus Rogue, ainsi quune figurine de la chouette Hedwige
+- 753 pièces  pour les filles et les garçons de 8 à 14 ans
+- Le saule cogneur mesure plus de 7 cm de haut, 20 cm de large et 20 cm de profondeur; la partie du château de Poudlard mesure plus de 27 cm de haut, 35 cm de large et 8 cm de profondeur
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21)

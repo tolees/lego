@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76385 Harry Potter Hogwarts Moment: at 23.34 % discount'
-date: 2021-02-16 08:23:37
+date: 2021-02-17 15:03:21
 image: 'https://m.media-amazon.com/images/I/51aNqptovhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -13,27 +13,26 @@ actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
 comparePrice: 29.99 EUR
-prodname: 'LEGO 76385 Harry Potter Hogwarts Moment: Zauberkunstunterricht  sammelbares Spielzeugbuch  Reisekoffer  tragbares Spielset'
+prodname: 'LEGO 76385 Harry Potter Hogwarts Moment: Zauberkunstunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G41SJSQ/?tag=tolees0ca-21'
 descuento: '23.34'
-average: '24.0566666666666'
+average: '23.99'
 ---
 
-With a final price of 22.99 EUR (original: 29.99 EUR) you can find [LEGO 76385 Harry Potter Hogwarts Moment: Zauberkunstunterricht  sammelbares Spielzeugbuch  Reisekoffer  tragbares Spielset](https://www.amazon.de/dp/B08G41SJSQ/?tag=tolees0ca-21) with a  23.34 % discount here:
+With a final price of 22.99 EUR (original: 29.99 EUR) you can find [LEGO 76385 Harry Potter Hogwarts Moment: Zauberkunstunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück](https://www.amazon.de/dp/B08G41SJSQ/?tag=tolees0ca-21) with a  23.34 % discount here:
 
 [![LEGO 76385 Harry Potter Hogwarts Moment:](https://m.media-amazon.com/images/I/51aNqptovhL._SL200_.jpg)](https://www.amazon.de/dp/B08G41SJSQ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
-- Kids open the sets cover to reveal Professor Flitwicks spell-casting lesson, lots of magical supplies to practice with and extend the play
-- There are 3 more sets for kids to collect, recreating famous Hogwarts classrooms, that interlock to create a 360-degree environment
-- Also includes blackboard, bookshelf, fireplace, and a feather and textbook to help students learn the levitation charm – Wingardium Leviosa
-- When the lesson ends, close the cover and take it with you wherever you go, it is of a Ideal travel size and easy to carry around
-- Includes 3 minifigures: Harry Potter, Professor Flitwick standing on a pile of books to be seen, and Cho Chang, the Head of Ravenclaw House
-- Combine all LEGO Harry Potter Hogwarts Moment sets: Transfiguration Class (76382), Potions Class (76383), and Herbology Class (76384)
+- Dieses magische Set aus der „Hogwarts Moment“ Reihe ist 12 cm hoch, 8 cm breit und 4 cm dick - die ideale Größe, um das Set mitzunehmen oder im Bücherregal aufzubewahren
+- Enthält authentisches Zubehör, das Kinder aus den Harry Potter Filmen vertraut ist, wie zum Beispiel eine Feder und ein Lehrbuch, mit denen Schüler den Schwebezauber lernen
+- LEGO Harry Potter Hogwarts Moment: Zauberkunstunterricht (76385) ist ein Bauset aus LEGO Steinen in Buchform, das beim Aufklappen das Klassenzimmer für Professor Flitwicks Zauberkunstunterricht auf Schloss Hogwarts preisgibt
+- Enthält Harry Potter, Cho Chang und Professor Flitwick als Minifiguren, eine Tafel, ein Bücherregal, einen Kamin, ein Zauberbuch und jede Menge authentisches Zubehör
+- Schlag das Buch auf, um Professor Flitwicks Zauberkunstunterricht zu besuchen. Es gibt jede Menge magische Utensilien zum Üben und authentisches Zubehör für noch mehr Spielspaß
+- Für Kinder ab 8 Jahren. Tolles Geschenk für Fans, die Harry Potter Abenteuer einmal auf eine ganz andere Art und Weise erleben möchten
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G41SJSQ/?tag=tolees0ca-21)
