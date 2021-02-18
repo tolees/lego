@@ -28,15 +28,15 @@ You've got [Minecraft Game Caja Modular 3.0 2en1 Castillo Fortaleza Granja Set
 
 ℹ️:
 
-- El set incluye todo lo que los niños necesitan para interpretar imaginativas aventuras Minecraft en un asombroso castillo, una ajetreada granja y fascinantes entornos inventados por ellos mientras exploran nuevas formas de jugar a su juego favorito.
-- Este juguete de construcción Minecraft incluye 564 ladrillos y elementos, así como populares personajes del juego (Steve, Alex, un Creeper, un cerdo y un zombi) y un montón de divertidas funciones y opciones: desde un detonador de TNT hasta un enfrentamiento con un Creeper.
-- Los ladrillos y elementos LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que el set de construcción de tu peque satisfaga los requisitos de las normas de seguridad y calidad más exigentes del mundo.
-- Los sets de construcción LEGO cumplen las normas más estrictas del sector, lo que significa que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se arman y desarman perfectamente una y otra vez; así ha sido desde 1958.
-- Las instrucciones impresas están genial, ¡pero la experiencia digital Instructions PLUS es FABULOSA! Con la app Instrucciones de Montaje LEGO, incluso los jóvenes constructores podrán acercar, girar y visualizar sus maquetas mientras crean su propio mundo de Minecraft.
 - La Caja Modular 3.0 LEGO Minecraft es un fantástico regalo u obsequio de cumpleaños para jugadores a partir de 8 años. Tanto si juegan a solas como en grupo, este juguete de construcción proporcionará a los peques infinita diversión al estilo Minecraft en el mundo real.
-- Los kits LEGO Minecraft combinan la gran vitalidad del universo Minecraft virtual con la construcción en el mundo real. Con sus detalladas maquetas, elementos y personajes, así como con montones de divertidas funciones, estos sets ofrecen a los jugadores una nueva dimensión de diversión al estilo Minecraft.
 - Con el castillo, que mide aproximadamente 18 cm de altura, 27 cm de anchura y 26 cm de profundidad, y la granja, que mide aproximadamente 16 cm de altura, 26 cm de anchura y 26 cm de profundidad, este juego ofrecerá la diversión del universo Minecraft a una escala de épicas proporciones.
-- Este juguete de construcción Minecraft para construir y jugar no lleva pilas. La diversión se alimenta de la imaginación de los niños, ¡por eso nunca se agota!
+- Los kits LEGO Minecraft combinan la gran vitalidad del universo Minecraft virtual con la construcción en el mundo real. Con sus detalladas maquetas, elementos y personajes, así como con montones de divertidas funciones, estos sets ofrecen a los jugadores una nueva dimensión de diversión al estilo Minecraft.
+- Los sets de construcción LEGO cumplen las normas más estrictas del sector, lo que significa que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se arman y desarman perfectamente una y otra vez; así ha sido desde 1958.
+- Este juguete de construcción Minecraft incluye 564 ladrillos y elementos, así como populares personajes del juego (Steve, Alex, un Creeper, un cerdo y un zombi) y un montón de divertidas funciones y opciones: desde un detonador de TNT hasta un enfrentamiento con un Creeper.
 - Traslada las aventuras creativas de los jugadores de Minecraft al mundo real con la Caja Modular 3.0 (21161). ¡Está repleta de ladrillos de construcción LEGO Minecraft y figuras reconocibles para estimular el juego imaginativo sin límites!
+- Los ladrillos y elementos LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que el set de construcción de tu peque satisfaga los requisitos de las normas de seguridad y calidad más exigentes del mundo.
+- El set incluye todo lo que los niños necesitan para interpretar imaginativas aventuras Minecraft en un asombroso castillo, una ajetreada granja y fascinantes entornos inventados por ellos mientras exploran nuevas formas de jugar a su juego favorito.
+- Este juguete de construcción Minecraft para construir y jugar no lleva pilas. La diversión se alimenta de la imaginación de los niños, ¡por eso nunca se agota!
+- Las instrucciones impresas están genial, ¡pero la experiencia digital Instructions PLUS es FABULOSA! Con la app Instrucciones de Montaje LEGO, incluso los jóvenes constructores podrán acercar, girar y visualizar sus maquetas mientras crean su propio mundo de Minecraft.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B082BRRY14/?tag=tolees-21)

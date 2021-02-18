@@ -28,10 +28,10 @@ There's a deal [LEGO 42103 Technic Dragster Racing Car Toy to Hot Rod 
 
 ℹ️:
 
-- 2-in-1 Dragster car that rebuilds into a cool Hot Rod with bold colours and flames shooting from the exhaust, just like a real dragster
 - This racing car toy features easy to switch-between-tricks 2-position wheelie bar, to attempt heart-pumping wheelies or the speed record
+- Once built, the fun goes on - let them set up the mini traffic lights then pull back the toy car and release to send it zooming along
+- 2-in-1 Dragster car that rebuilds into a cool Hot Rod with bold colours and flames shooting from the exhaust, just like a real dragster
 - To discover a fun new way to build the model car, see the digital Instructions PLUS from the free LEGO Life app with zoom and rotate tools
 - Stabilising back wheels keep it on track and powered through the pull-back motor for young racers recreates the thrill and speed of race day
-- Once built, the fun goes on - let them set up the mini traffic lights then pull back the toy car and release to send it zooming along
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7V6R6Y/?tag=tolees0a-21)
