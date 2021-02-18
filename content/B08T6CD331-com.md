@@ -29,8 +29,8 @@ You've got [Lego Speed Champions McLaren Elva 30343](https://www.amazon.com/dp/B
 ℹ️:
 
 - Small, powerful, ready for action and portable enough to go wherever kids go
+- Powered by the imagination, with no need for batteries Endless hours of play!
 - For ages 6+
 - Unlimited play and fun begin with the first brick connections
-- Powered by the imagination, with no need for batteries Endless hours of play!
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08T6CD331/?tag=tolees-20)

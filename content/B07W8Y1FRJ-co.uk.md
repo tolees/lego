@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41393 Friends Baking Competition Pl at 34.27 % discount'
-date: 2021-02-17 09:17:05
+date: 2021-02-18 21:02:18
 image: 'https://m.media-amazon.com/images/I/51ZrngAJw-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W8Y1FRJ/?tag=tolees0a-21'
 descuento: '34.27'
-average: '26.8182666666666'
+average: '26.7190909090908'
 ---
 
 With a final price of 23.0 GBP (original: 34.99 GBP) you can find [LEGO 41393 Friends Baking Competition Playset with Toy Cakes  Cupcakes and Stephanie Mini Doll for 6 + Year Old](https://www.amazon.co.uk/dp/B07W8Y1FRJ/?tag=tolees0a-21) with a  34.27 % discount here:
@@ -28,10 +28,10 @@ With a final price of 23.0 GBP (original: 34.99 GBP) you can find [LEGO 41393 Fr
 
 ℹ️:
 
-- Kids will spin the wheel above the stage to choose which crazy ingredients the bakers must include and get creative with the decorations
 - The playset includes Stephanie, David and a judge mini-dolls, to realistically recreate the baking TV shows kids watch with the whole family
+- Kids will spin the wheel above the stage to choose which crazy ingredients the bakers must include and get creative with the decorations
 - Features a TV studio baking show with Three play sections: Two cooking stations and the main stage for a winner to take a prize - the golden cup
-- Includes rotating cake stands, ovens opening just like in a grown-up kitchen plus lots of baking accessories: Cupcakes, fruit and utensils
 - Accessories include a whisk, chocolate, cash check, trophy, milk carton, a packet of sugar and icing, plus kitchen equipment
+- Includes rotating cake stands, ovens opening just like in a grown-up kitchen plus lots of baking accessories: Cupcakes, fruit and utensils
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W8Y1FRJ/?tag=tolees0a-21)
