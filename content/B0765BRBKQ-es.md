@@ -28,10 +28,10 @@ You've got [LEGO City - Ártico Base Móvil de Exploración  Juguete Creativo de
 
 ℹ️:
 
-- Accesorios incluidos: 2 sierras, un martillo neumático, 2 piquetas, 2 tazas, una radio, un hueso, una cámara y 2 pares de raquetas para la nieve
 - Usa la grúa para desplegar la base ártica móvil y excava luego el mamut
-- Incluye 6 mini figuras LEGO: 4 exploradores árticos, un líder de la expedición ártica y un conductor; incluye también una figura de un mamut
 - Incluye también una figura de un mamut “congelado” dentro de un gran modelo de hielo con ladrillos blancos y azul translúcido
 - Todos los vehículos, salvo la motonieve, se pueden enganchar para formar un tren de exploración
+- Incluye 6 mini figuras LEGO: 4 exploradores árticos, un líder de la expedición ártica y un conductor; incluye también una figura de un mamut
+- Accesorios incluidos: 2 sierras, un martillo neumático, 2 piquetas, 2 tazas, una radio, un hueso, una cámara y 2 pares de raquetas para la nieve
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21)
