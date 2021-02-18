@@ -28,10 +28,10 @@ There's a deal [LEGO 76152 Marvel 4+ Avengers Wrath of Loki Set  Super Heroes Se
 
 ℹ️:
 
-- Captain Marvel puts her helmet on and launches her jet, Hulk starts throwing bricks and Loki shoots discs from his glider trying to escape
-- Kids can create and role-play so many epic action stories as they team up with the Avengers to stop Loki from stealing the Tesseract
 - This building set for kids 4+ years old includes Starter Bricks, so even younger kids can experience the joy of creative construction
-- Includes 5 LEGO minifigures: Iron Man with "stream-jet" exhaust, Thor with a hammer and sword, Hulk, Captain Marvel & Loki with fabric capes
+- Captain Marvel puts her helmet on and launches her jet, Hulk starts throwing bricks and Loki shoots discs from his glider trying to escape
 - Features easy to build Avengers Tower, Captain Marvel’s Quinjet, Loki’s glider, plus Tesseract artefact and accessories
+- Includes 5 LEGO minifigures: Iron Man with "stream-jet" exhaust, Thor with a hammer and sword, Hulk, Captain Marvel & Loki with fabric capes
+- Kids can create and role-play so many epic action stories as they team up with the Avengers to stop Loki from stealing the Tesseract
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813Q5JLQ/?tag=tolees0a-21)
