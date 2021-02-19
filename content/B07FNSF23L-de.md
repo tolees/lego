@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.01 % for LEGO 31090 Creator Unterwasser-Roboter  '
-date: 2021-02-19 21:00:05
+date: 2021-02-19 21:00:06
 image: 'https://m.media-amazon.com/images/I/51aPJshlx7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [LEGO 31090 Creator Unterwasser-Roboter  U-Boot oder Unterwasser-Kran
 
 ℹ️:
 
-- Öffne den Helm des Roboters und nimm das Roboterauge heraus, um ein Kontrollzentrum freizulegen.
-- Der Unterwasser-Roboter verfügt über äußerst bewegliche Gelenke, eine Sichtkuppel mit rotem Roboterauge, Hände mit Bohrer, Greifer und Klammer, Ballasttanks und große Roboterfüße, um den Meeresgrund zu erkunden. Zudem enthält das Set einen baubaren Mantarochen und ein kleines Stück baubaren Meeresgrund mit Meerespflanze und Goldnugget-Elementen.
-- Dieses LEGO Creator 3-in-1-Set bietet 3 verschiedene Baumöglichkeiten: man kann den Unterwasser-Roboter und den Mantarochen auch in ein Spielzeug-U-Boot mit Greifarm oder einen Unterwasser-Kran für die Schatzsuche umbauen.
-- Der Unterwasser-Roboter ist in den Farben Gelb, Grau, Schwarz und Rot gehalten.
 - Bewege den Kopf, die Arme und die Beine des Roboters, um ihn in coole Actionposen zu stellen.
+- Öffne den Helm des Roboters und nimm das Roboterauge heraus, um ein Kontrollzentrum freizulegen.
+- Dieses LEGO Creator 3-in-1-Set bietet 3 verschiedene Baumöglichkeiten: man kann den Unterwasser-Roboter und den Mantarochen auch in ein Spielzeug-U-Boot mit Greifarm oder einen Unterwasser-Kran für die Schatzsuche umbauen.
+- Der Unterwasser-Roboter verfügt über äußerst bewegliche Gelenke, eine Sichtkuppel mit rotem Roboterauge, Hände mit Bohrer, Greifer und Klammer, Ballasttanks und große Roboterfüße, um den Meeresgrund zu erkunden. Zudem enthält das Set einen baubaren Mantarochen und ein kleines Stück baubaren Meeresgrund mit Meerespflanze und Goldnugget-Elementen.
+- Der Unterwasser-Roboter ist in den Farben Gelb, Grau, Schwarz und Rot gehalten.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNSF23L/?tag=tolees0ca-21)

@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'LEGO 76143 Marvel Avengers Superhelden – at 22.88 % discount'
-date: 2020-07-23 12:55:32
-image: 'https://m.media-amazon.com/images/I/51eRIjJRxiL._SL200_.jpg'
+title: 'LEGO 76143 Super Heroes Marvel Avengers  at 25.01 % discount'
+date: 2021-02-19 21:16:45
+image: 'https://m.media-amazon.com/images/I/51OzmSB2IYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLJJX99-de LEGO 76143 Marvel Avengers Superhelden – Truck-Festnahme...'
+slug: 'B07WLJJX99-de LEGO 76143 Super Heroes Marvel Avengers Truck-Festnahme...'
 sku: 'B07WLJJX99-de'
 tags: [ 'lego', ]
-actualPrice: 30.06 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 30.06
-comparePrice: 38.98 EUR
-prodname: 'LEGO 76143 Marvel Avengers Superhelden – Truck-Festnahme Set Der Fall mit Captain America und Hawkeye Minifiguren'
+price: 29.99
+comparePrice: 39.99 EUR
+prodname: 'LEGO 76143 Super Heroes Marvel Avengers Truck-Festnahme Spielset mit Captain America und Hawkeye Minifiguren'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WLJJX99/?tag=tolees0ca-21'
-descuento: '22.88'
-average: '30.06'
+descuento: '25.01'
+average: '30.0425'
 ---
 
-With a final price of 30.06 EUR (original: 38.98 EUR) you can find [LEGO 76143 Marvel Avengers Superhelden – Truck-Festnahme Set Der Fall mit Captain America und Hawkeye Minifiguren](https://www.amazon.de/dp/B07WLJJX99/?tag=tolees0ca-21) with a  22.88 % discount here:
+With a final price of 29.99 EUR (original: 39.99 EUR) you can find [LEGO 76143 Super Heroes Marvel Avengers Truck-Festnahme Spielset mit Captain America und Hawkeye Minifiguren](https://www.amazon.de/dp/B07WLJJX99/?tag=tolees0ca-21) with a  25.01 % discount here:
 
-[![LEGO 76143 Marvel Avengers Superhelden –](https://m.media-amazon.com/images/I/51eRIjJRxiL._SL200_.jpg)](https://www.amazon.de/dp/B07WLJJX99/?tag=tolees0ca-21)
+[![LEGO 76143 Super Heroes Marvel Avengers ](https://m.media-amazon.com/images/I/51OzmSB2IYL._SL200_.jpg)](https://www.amazon.de/dp/B07WLJJX99/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Enthält 4 Minifiguren: Captain America mit seinem Schild, Hawkeye mit seinem Bogen und 2 AIM-Agenten mit einer Pistole, einem Flammenwerfer und einem Jetpack
+- Verfügt über ein Motorrad mit großem Vorderrad, eine Drohne und den beeindruckenden, bewaffneten und gepanzerten Avengers-Truck mit seiner versteckten Waffe
+- Kinder drücken den Hebel, um die Geheimwaffe zu enthüllen, und die riesige 6-Schuss-Armbrust schwingt ein, die Bolzen schießen heraus, wenn Kinder die Armbrust drehen
+- Es ist ein Hinterhalt. Wenn der Marvel Avengers-Truck von 2 AIM-Agenten gefangen wird, müssen Kinder Captain America und Hawkeye dabei helfen, ihren Weg nach draußen zu finden
+- Kinder können das einfach zu bauende Set zusammenstellen oder die einfachen Anweisungen verwenden, um loszulegen. Der Truck sieht in Kinderzimmern großartig aus
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WLJJX99/?tag=tolees0ca-21)

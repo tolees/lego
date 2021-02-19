@@ -28,10 +28,10 @@ You've got [LEGO 76898 Speed Champions Formula E Panasonic Jaguar Racing
 
 ℹ️:
 
-- The Jaguar I-PACE eTROPHY, with its distinctive fin, competes around the world in the official support series
-- Includes two driver minifigures in Jaguar race suits, to race on temporary street circuits in the centre of the world’s major cities
 - Features 2 replica Formula E and I-PACE eTROPHY Jaguar racing cars based on 2 exciting all-electric race cars and a detailed start line
-- New for January 2020, the Formula E Panasonic Jaguar Racing Generation 2 car models are now 25 Percent bigger than previous LEGO Speed Champions replicas
 - The Formula E Panasonic Jaguar Racing Generation 2 car is an all-new slick single-seater that races in the exciting ABB FIA Formula E Championship
+- Includes two driver minifigures in Jaguar race suits, to race on temporary street circuits in the centre of the world’s major cities
+- New for January 2020, the Formula E Panasonic Jaguar Racing Generation 2 car models are now 25 Percent bigger than previous LEGO Speed Champions replicas
+- The Jaguar I-PACE eTROPHY, with its distinctive fin, competes around the world in the official support series
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PXDYZ/?tag=tolees0a-21)
