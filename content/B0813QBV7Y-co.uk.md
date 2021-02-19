@@ -28,10 +28,10 @@ With a final price of 49.99 GBP (original: 64.99 GBP) you can find [Harry Potter
 
 ℹ️:
 
+- A chain attaches from the car boot to the bedroom window to whisk it and Harry away from the Dursleys and onto further adventures
+- This detailed replica of the Dursleys 2-storey house has so many features inside and outside to bring the movie location and action to life
 - Includes 6 minifigures: Harry Potter, Ron Weasley, Dudley, Petunia and Vernon Dursley and Dobby, plus Hedwig and numerous accessories
 - Complete with Privet Drive sign, Harrys cupboard under the stairs, and Ron flying the Ford Anglia car with opening roof, doors and boot
-- A chain attaches from the car boot to the bedroom window to whisk it and Harry away from the Dursleys and onto further adventures
 - A secret mechanism allows Hogwarts acceptance letters to fly in through the fireplace, disturbing the familys afternoon cake
-- This detailed replica of the Dursleys 2-storey house has so many features inside and outside to bring the movie location and action to life
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813QBV7Y/?tag=tolees0a-21)
