@@ -28,7 +28,7 @@ There's a deal [LEGO Wear MW - Sweatjacke Mit Kapuze Ninjago Sudadera  590 Azul 
 
 ℹ️:
 
-- Sweatcardigan de niño con estampado de Lego Ninjago en el pecho
 - cremallera en la parte delantera.
+- Sweatcardigan de niño con estampado de Lego Ninjago en el pecho
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B081D8MKXH/?tag=tolees-21)
