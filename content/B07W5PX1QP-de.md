@@ -28,10 +28,10 @@ With a final price of 51.9 EUR (original: 69.99 EUR) you can find [LEGO 41395 Fr
 
 ℹ️:
 
-- Das Spielset enthält jede Menge Spielzubehör, eine Hamsterfigur, einen Laptop, eine Kamera, eine Pfanne, ein Ei, dekorative Fliesen, eine Decke, ein Keks und vieles mehr
-- Das Oberdeck lässt sich einfach zurückschieben, um den Zugang zu den kühlen Wohnbereichen darunter zu erleichtern, und ein Klappdach ermöglicht einen einfachen Zugang zu den Schlafzimmern
-- Aus dem Swimmingpool rutscht man hinter dem Bus heraus, ein abnehmbares Tennisnetz sorgt für Spaß außerhalb des Busses und der Reparaturstand bietet Werkzeuge
 - Dieses Spielset enthält Spielfiguren Olivia, Mia und Stephanie. Das Spielzeug wird mit vielen Details geliefert, die stundenlangen, ununterbrochenen Rollenspielvergnügen garantieren
 - Voll ausgestatteter Ferienbus mit fünf Spielbereichen: einem offenen Dach mit Rutsche, einer Küche, einem Swimmingpool, einem Zelt und einem Reparaturstand
+- Das Spielset enthält jede Menge Spielzubehör, eine Hamsterfigur, einen Laptop, eine Kamera, eine Pfanne, ein Ei, dekorative Fliesen, eine Decke, ein Keks und vieles mehr
+- Aus dem Swimmingpool rutscht man hinter dem Bus heraus, ein abnehmbares Tennisnetz sorgt für Spaß außerhalb des Busses und der Reparaturstand bietet Werkzeuge
+- Das Oberdeck lässt sich einfach zurückschieben, um den Zugang zu den kühlen Wohnbereichen darunter zu erleichtern, und ein Klappdach ermöglicht einen einfachen Zugang zu den Schlafzimmern
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W5PX1QP/?tag=tolees0ca-21)

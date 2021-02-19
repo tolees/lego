@@ -28,10 +28,10 @@ You've got [LEGO 76150 Super Heroes Marvel Spider-Man Jet vs. Venom Mech Playset
 
 ℹ️:
 
+- Features a fearsome, black 4-armed mech with opening cockpit and posable arms and legs and Spider-Man Noirs jet plane with stud shooters
+- Kids can position mechs arms and legs for action or to strike a pose for display, its cockpit opens for the Venom minifigure to enter
 - Includes three minifigures: Spider-Man, the evil alien Venom and new-for-January-2020 Spider-Man Noir for superheroes to prevail
 - Kids can fire discs from the jet’s shooters and launch the flick missiles with a push-button function to start a jet attack on Venoms mech
-- Kids can position mechs arms and legs for action or to strike a pose for display, its cockpit opens for the Venom minifigure to enter
-- Features a fearsome, black 4-armed mech with opening cockpit and posable arms and legs and Spider-Man Noirs jet plane with stud shooters
 - This easy-to-build set can be simply assembled, or attached instructions may be used, the mech looks great on display in kids’ rooms
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PY3JF/?tag=tolees0a-21)
