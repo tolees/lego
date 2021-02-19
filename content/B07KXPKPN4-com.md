@@ -29,7 +29,7 @@ There's a deal [The LEGO Movie 2 Videogame - Xbox One](https://www.amazon.com/dp
 ℹ️:
 
 - Discover new worlds
-- Test your Master Building skills
 - Journey into outer space
+- Test your Master Building skills
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07KXPKPN4/?tag=tolees-20)

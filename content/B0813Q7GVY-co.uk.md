@@ -29,9 +29,9 @@ With a final price of 71.99 GBP (original: 89.99 GBP) you can find [Lego Friends
 ℹ️:
 
 - Includes Stephanie, Emma, Olivia and Mason buildable mini-doll figures, plus Pinky the flamingo figure
-- Features 3 cool slides, including a tube slide, water cannons, a lifeguard seat, mini ice cream truck and loads of park decorations
-- Check out other LEGO Friends summer sets: Heartlake City Aeroplane 41429, Beach House 41428, Party Boat 41433, Olivias Flower Garden 41425
 - Mini-dolls can zoom down the 3 slides, relax in the hot tub, be a lifeguard keeping an eye on the swimmers or serve ice cream in the van
+- Check out other LEGO Friends summer sets: Heartlake City Aeroplane 41429, Beach House 41428, Party Boat 41433, Olivias Flower Garden 41425
+- Features 3 cool slides, including a tube slide, water cannons, a lifeguard seat, mini ice cream truck and loads of park decorations
 - It also features a hot tub, locker rooms, cute unicorn floatie, shower and toilet, plus 3 colourful swimming mattresses and fun accessories
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813Q7GVY/?tag=tolees0a-21)
