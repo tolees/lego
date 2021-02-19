@@ -30,8 +30,8 @@ With a final price of 18.95 GBP (original: 24.99 GBP) you can find [LEGO 71366 S
 
 - Find new ways to play with the LEGO Mario figure from the Adventures Mario Starter Course set (sold separately) with this expansion set
 - Features a spinner with 2 ‘flying’ Boomer Bill figures and a rotating platform with 2 difficulty levels (with or without studs) for more fun
-- Players place LEGO Mario figure (not included) on the platform’s smooth end for added difficulty. How many times can they spin?
 - Advance your skills with the free LEGO app with viewing tools, digital building instructions, plus inspiration for creative play and more
+- Players place LEGO Mario figure (not included) on the platform’s smooth end for added difficulty. How many times can they spin?
 - Includes a Shy Guy figure and a Super Mushroom to boost the gameplay - lets see Mario falling or being knocked off by the Boomer Bills!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21)
