@@ -28,10 +28,10 @@ There's a deal [LEGO 10913 DUPLO Classic Brick Box Building Set with Storage  Fi
 
 ℹ️:
 
-- It develops creative thinking and problem-solving abilities, visual-spatial awareness and fine motor skills, learning through role-play
-- Includes 65 colourful bricks plus familiar pieces to stimulate toddlers’ minds, including a car with moving wheels, a roof, window and flowers
 - All the captivating colours, shapes, people and numbers are conveniently stored in an attractive brick box with a LEGO DUPLO style stud lid
 - With safe, colourful, easy-to-handle bricks and pieces, this educational toy for toddlers delivers developmental benefits to preschool kids
+- Includes 65 colourful bricks plus familiar pieces to stimulate toddlers’ minds, including a car with moving wheels, a roof, window and flowers
+- It develops creative thinking and problem-solving abilities, visual-spatial awareness and fine motor skills, learning through role-play
 - Also includes two DUPLO people figures and 1-2-3 number-learning bricks, even 2 bread bricks, comes with 15 Easy Building Ideas for easy start
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W4KVGJM/?tag=tolees0a-21)
