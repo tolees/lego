@@ -28,10 +28,10 @@ You've got [LEGO 41449 Friends Andrea s Family House Playset  Doll House with Sw
 
 ℹ️:
 
-- Features 2-floors dollhouse full of authentic details where kids can meet Andreas family and play house role-swap, solo or with friends
+- Includes 4 LEGO Friends minidolls: Andrea, her friend Stephanie, Mum and Dad, and 1 microdoll sister Liz from the LEGO Friends TV show
 - Kids can put on a music show from the garage studio, take a dip in the pool or make a meal in the modern kitchen diner
+- Features 2-floors dollhouse full of authentic details where kids can meet Andreas family and play house role-swap, solo or with friends
 - In the kitchen, the workbench swings out to let little fingers Inch Andreas Dad takes some cupcakes out of the oven. Mmmm, theyre delicious
 - Cleverly designed to make play easier, the playsets top floor is removable so the downstairs level is accessible, and the garage door lifts
-- Includes 4 LEGO Friends minidolls: Andrea, her friend Stephanie, Mum and Dad, and 1 microdoll sister Liz from the LEGO Friends TV show
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4MQQKH/?tag=tolees0a-21)
