@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 20.00 % for LEGO 75255 Star Wars Yoda Bauset  Sammle'
-date: 2021-02-17 21:17:54
+title: 'Discount of 21.32 % for LEGO 75255 Star Wars Yoda Bauset  Sammle'
+date: 2021-02-19 09:59:33
 image: 'https://m.media-amazon.com/images/I/51QMdrCFCmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07NDB2SFH-de LEGO 75255 Star Wars Yoda Bauset Sammlermodell mit...'
 sku: 'B07NDB2SFH-de'
 tags: [ 'lego', ]
-actualPrice: 79.99 EUR
+actualPrice: 78.67 EUR
 currency: EUR
-price: 79.99
+price: 78.67
 comparePrice: 99.99 EUR
 prodname: 'LEGO 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21'
-descuento: '20.00'
-average: '77.9601694915254'
+descuento: '21.32'
+average: '77.9641573033708'
 ---
 
-You've got [LEGO 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21) with a  20.00 % discount, with final price of 79.99 EUR (original: 99.99 EUR) at the following link:
+You've got [LEGO 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21) with a  21.32 % discount, with final price of 78.67 EUR (original: 99.99 EUR) at the following link:
 
 [![LEGO 75255 Star Wars Yoda Bauset  Sammle](https://m.media-amazon.com/images/I/51QMdrCFCmL._SL200_.jpg)](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21)
 
