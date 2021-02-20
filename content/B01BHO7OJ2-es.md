@@ -28,10 +28,10 @@ With a final price of 9.99 EUR (original: 19.89 EUR) you can find [Warner Bros. 
 
 ℹ️:
 
-- Plataforma del juego: Xbox One
-- Tipo de producto: videojuego
 - Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
 - Los jugadores se pondrán en el papel de los héroes de la película
+- Plataforma del juego: Xbox One
 - El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
+- Tipo de producto: videojuego
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B01BHO7OJ2/?tag=tolees-21)
