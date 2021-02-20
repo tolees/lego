@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.00 % deal for LEGO Minecraft - La Invasión de los Illa'
-date: 2021-02-19 10:12:03
+date: 2021-02-20 17:10:30
 image: 'https://m.media-amazon.com/images/I/51n1vqpZmeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W8YJBM2/?tag=tolees-21'
 descuento: '28.00'
-average: '68.3093103448275'
+average: '67.6177419354838'
 ---
 
 There's a deal [LEGO Minecraft - La Invasión de los Illager  Juguete de Construcción Basado en el Videojuego  Set para Recrear las Aventuras de Minecraft  21160    color/modelo surtido](https://www.amazon.es/dp/B07W8YJBM2/?tag=tolees-21)  with  28.00 % discount, final price tag of  57.59 EUR (original: 79.99 EUR) here:
@@ -28,15 +28,15 @@ There's a deal [LEGO Minecraft - La Invasión de los Illager  Juguete de Constru
 
 ℹ️:
 
-- Los peques pueden lanzarse directamente y disfrutar de la diversión de construir a su aire, ¡o seguir las sencillas instrucciones para ponerse a construir de inmediato!
-- En The LEGO Group, dejamos caer, aplastamos, retorcemos, calentamos, mordemos, doblamos, rayamos y estiramos los ladrillos y elementos LEGO para asegurarnos de que satisfacen los requisitos de las normas de seguridad y calidad.
-- Los sets de construcción LEGO Minecraft trasladan al mundo real la gran vitalidad del universo Minecraft virtual. Con sus maquetas de alta calidad y gran realismo.
-- Lleva a los jugadores de Minecraft a una nueva dimensión tangible con este set LEGO Minecraft rebosante de acción. Los jóvenes constructores podrán reorganizar las 3 secciones y crear con las manos un sinfín de aventuras.
-- Una misteriosa figura de Kai se apresura a rescatar a los aldeanos, su casa del desierto, su puesto de comercio y sus cultivos.
 - Los sets de construcción LEGO cumplen las normas más estrictas del sector, además de nuestros propios y rigurosos criterios de calidad, para garantizar que los ladrillos ofrecen siempre las mismas cualidades.
-- A los peques les van a encantar los Illager (novedad en enero de 2020) y la bestia que montan: su enorme devastador con mandíbulas mordedoras. Estos tipos tan malos inundarán de conflictos y de acción el juego.
-- A los niños y niñas a partir de 7 años les apasionará construir este versátil set Minecraft, jugar con él, reorganizarlo y volver a jugar una y otra vez. Es un fantástico regalo de cumpleaños o Navidad para peques.
 - Este juego físico y sin pilas potencia la destreza, la creatividad y las habilidades de resolución de problemas de los más pequeños. Tanto si juegan solos como en grupo, ¡la imaginación de los niños hará que la diversión no pare nunca!
+- En The LEGO Group, dejamos caer, aplastamos, retorcemos, calentamos, mordemos, doblamos, rayamos y estiramos los ladrillos y elementos LEGO para asegurarnos de que satisfacen los requisitos de las normas de seguridad y calidad.
+- A los niños y niñas a partir de 7 años les apasionará construir este versátil set Minecraft, jugar con él, reorganizarlo y volver a jugar una y otra vez. Es un fantástico regalo de cumpleaños o Navidad para peques.
+- Los peques pueden lanzarse directamente y disfrutar de la diversión de construir a su aire, ¡o seguir las sencillas instrucciones para ponerse a construir de inmediato!
+- Los sets de construcción LEGO Minecraft trasladan al mundo real la gran vitalidad del universo Minecraft virtual. Con sus maquetas de alta calidad y gran realismo.
+- A los peques les van a encantar los Illager (novedad en enero de 2020) y la bestia que montan: su enorme devastador con mandíbulas mordedoras. Estos tipos tan malos inundarán de conflictos y de acción el juego.
 - El set de 3 secciones mide aproximadamente 46 cm de longitud, 34 cm de anchura y 26 cm de altura. Cuando las secciones se reorganizan y combinan con otros sets LEGO, ¡la diversión crece para pasarlo aún mejor!
+- Una misteriosa figura de Kai se apresura a rescatar a los aldeanos, su casa del desierto, su puesto de comercio y sus cultivos.
+- Lleva a los jugadores de Minecraft a una nueva dimensión tangible con este set LEGO Minecraft rebosante de acción. Los jóvenes constructores podrán reorganizar las 3 secciones y crear con las manos un sinfín de aventuras.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07W8YJBM2/?tag=tolees-21)
