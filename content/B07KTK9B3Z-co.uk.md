@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21045 Architecture Trafalgar Square at 15.98 % discount'
-date: 2021-02-19 01:49:11
+date: 2021-02-20 02:17:21
 image: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21'
 descuento: '15.98'
-average: '68.8213483146066'
+average: '68.8034444444443'
 ---
 
 With a final price of 67.21 GBP (original: 79.99 GBP) you can find [LEGO 21045 Architecture Trafalgar Square Building Set with London Landmark National Gallery Collectible Model](https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21) with a  15.98 % discount here:
@@ -28,9 +28,9 @@ With a final price of 67.21 GBP (original: 79.99 GBP) you can find [LEGO 21045 A
 
 ℹ️:
 
-- The sections at the rear of the national gallery can be removed for access to a detailed interior with brick-built statue and paintings
 - Tree-lined borders, ornate lampposts, two london buses, two black cabs and a tiled baseplate depicting the surrounding roads complete the model
-- Features the national gallery with detailed interior, Nelson’s Column flanked by four lions, two trafalgar square fountains, amongst others
+- The sections at the rear of the national gallery can be removed for access to a detailed interior with brick-built statue and paintings
 - This highly detailed interpretation of Trafalgar Square with a decorative nameplate captures the essence of a historical London landmark
+- Features the national gallery with detailed interior, Nelson’s Column flanked by four lions, two trafalgar square fountains, amongst others
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21)
