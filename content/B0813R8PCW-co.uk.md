@@ -28,10 +28,10 @@ There's a deal [LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus Dinosau
 
 ℹ️:
 
-- Children can role-play thrilling action with 5 LEGO minifigures, including Owen Grady, Claire Dearing and brothers Gray and Zach Mitchell
-- Features a research station building with an entrance turnstile, ticket booth, and gyrosphere, plus 2 dinosaur figures and outdoor setting
 - LEGO dinosaur figures come with posable legs, the Indominus Rex has a movable jaw, and Ankylosaurus has a swiping tail to knock trees down
 - Check out other new LEGO Jurassic World sets: Dr. Wus Lab: Baby Dinosaurs Breakout 75939, or Gallimimus and Pteranodon Breakout 75940
 - The gyrosphere deployment station has a trigger to launch a gyrosphere with a minifigure inside, surrounded by jungle with smash-down trees
+- Children can role-play thrilling action with 5 LEGO minifigures, including Owen Grady, Claire Dearing and brothers Gray and Zach Mitchell
+- Features a research station building with an entrance turnstile, ticket booth, and gyrosphere, plus 2 dinosaur figures and outdoor setting
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813R8PCW/?tag=tolees0a-21)

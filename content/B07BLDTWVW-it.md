@@ -28,10 +28,10 @@ With a final price of 410.49 EUR (original: 489.9 EUR) you can find [LEGO Harry 
 
 ℹ️:
 
-- Gli accessori includono la spada di Gryffindor, la tazza Helga Hufflepuffs, le bacchette magiche, le bacchette magiche, gli striscioni di casa, le fiamme, una caldaia e 2 lenti di ingrandimento.
-- Contiene 4 minifigure: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin e Rowena Ravenclaw con una piastra di appoggio per minifigure.
 - Comprende un modello costruibile in miniatura di castello Hogwarts, Hagrids Hütt, il salice e 5 barche.
-- Prendete spazio nel grosso e mangiate con i professori e gli studenti di Hogwarts.
+- Gli accessori includono la spada di Gryffindor, la tazza Helga Hufflepuffs, le bacchette magiche, le bacchette magiche, gli striscioni di casa, le fiamme, una caldaia e 2 lenti di ingrandimento.
 - Il lucchetto Hogwarts è alto 58 cm, largo 69 cm, profondità 43 cm.
+- Prendete spazio nel grosso e mangiate con i professori e gli studenti di Hogwarts.
+- Contiene 4 minifigure: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin e Rowena Ravenclaw con una piastra di appoggio per minifigure.
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07BLDTWVW/?tag=tolees00-21)

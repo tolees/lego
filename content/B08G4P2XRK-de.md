@@ -29,11 +29,11 @@ There's a deal [LEGO 41448 Friends Heartlake City Kino Set mit Telefon-Halter](h
 ℹ️:
 
 - Junge Filmfans werden das LEGO Friends Heartlake City Kino (41448) lieben. In dem klassischen Kino ist Premierenabend, deshalb schreitet ein glamouröser LEGO Friends Filmstar über den roten Teppich
-- Wie alle LEGO Friends Sets enthält auch dieses Modell jede Menge cooles Zubehör für ein lebhaftes Spielerlebnis. Es gibt Eintrittskarten, Stift und Papier, Popcorn, Slush-Eis und Geldscheine
-- Das interaktive Heartlake City Kino ist ein cooles Geburtstags-, Weihnachts- oder Überraschungsgeschenk, das Filmfans ab 7 Jahren ein Lächeln ins Gesicht zaubert
-- Das aufklappbare Spielzeug verfügt über eine Kasse und einen roten Teppich und gibt aufgeklappt einen Vorführraum, eine Toilette und ein Popcornkiosk preis. Enthält die LEGO Friends Heldin Andrea und 2 weitere Spielfiguren
 - Im Heartlake City Kino können Kinder den Spielfiguren auch eigene Filme vorführen, indem sie ein Smartphone gegen die Leinwand lehnen, die umgeklappt auch ein Tablet halten kann
-- Kinder können in die Rolle des Superfans Andrea oder des Filmstars Amelia schlüpfen, die sich als VIP die Premiere ansieht, und so tun, als würden sie Eintrittskarten und Popcorn verkaufen oder den Spielzeug-Projektor bedienen
+- Wie alle LEGO Friends Sets enthält auch dieses Modell jede Menge cooles Zubehör für ein lebhaftes Spielerlebnis. Es gibt Eintrittskarten, Stift und Papier, Popcorn, Slush-Eis und Geldscheine
+- Das aufklappbare Spielzeug verfügt über eine Kasse und einen roten Teppich und gibt aufgeklappt einen Vorführraum, eine Toilette und ein Popcornkiosk preis. Enthält die LEGO Friends Heldin Andrea und 2 weitere Spielfiguren
 - Dieses Spielzeug-Kino ist 17 cm hoch, 27 cm breit und 19 cm tief und bereichert als spektakuläres Deko-Objekt jedes Kinderzimmer
+- Das interaktive Heartlake City Kino ist ein cooles Geburtstags-, Weihnachts- oder Überraschungsgeschenk, das Filmfans ab 7 Jahren ein Lächeln ins Gesicht zaubert
+- Kinder können in die Rolle des Superfans Andrea oder des Filmstars Amelia schlüpfen, die sich als VIP die Premiere ansieht, und so tun, als würden sie Eintrittskarten und Popcorn verkaufen oder den Spielzeug-Projektor bedienen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08G4P2XRK/?tag=tolees0ca-21)
