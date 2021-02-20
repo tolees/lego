@@ -28,10 +28,10 @@ With a final price of 28.82 GBP (original: 34.99 GBP) you can find [LEGO 75893 2
 
 ℹ️:
 
-- Gear up for drag racing action with the 2018 Dodge Challenger SRT Demon with 2 sets of wheel rims and rear spoiler, the 1970 Dodge Charger R/T with removable supercharger, plus a buildable drag racing Christmas tree start light
-- 478 pieces – Toy car playset for boys and girls aged 7+ and for fans and kids of all ages
+- 2018 Dodge Challenger SRT Demon model car measures over 1 Inch (4 cm) high, 5 Inch (14 cm) long and 2 Inch (6 cm) wide; 1970 Dodge Charger R/T measures over 1 Inch (4 cm) high, 5 Inch (15 cm) long and 1 Inch (5 cm) wide; Christmas tree start light measures over 4 Inch (11 cm) high, 1 Inch (4 cm) wide and 1 Inch (3 cm) deep
 - Includes 3 minifigures: a Challenger driver and Charger driver with helmets and a race marshal with a checkered flag
 - LEGO Speed Champions 2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T 75893 toy cars for kids can be built together with all other original LEGO building toys and LEGO bricks for creative play
-- 2018 Dodge Challenger SRT Demon model car measures over 1 Inch (4 cm) high, 5 Inch (14 cm) long and 2 Inch (6 cm) wide; 1970 Dodge Charger R/T measures over 1 Inch (4 cm) high, 5 Inch (15 cm) long and 1 Inch (5 cm) wide; Christmas tree start light measures over 4 Inch (11 cm) high, 1 Inch (4 cm) wide and 1 Inch (3 cm) deep
+- Gear up for drag racing action with the 2018 Dodge Challenger SRT Demon with 2 sets of wheel rims and rear spoiler, the 1970 Dodge Charger R/T with removable supercharger, plus a buildable drag racing Christmas tree start light
+- 478 pieces – Toy car playset for boys and girls aged 7+ and for fans and kids of all ages
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNSDZDN/?tag=tolees0a-21)
