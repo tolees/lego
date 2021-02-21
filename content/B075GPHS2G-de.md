@@ -2,7 +2,7 @@
 layout: post
 title: '30.02 % deal for LEGO Minecraft 21140 - Hühnerstall  Unte'
 date: 2020-01-13 17:34:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.39'
 
 There's a deal [LEGO Minecraft 21140 - Hühnerstall  Unterhaltungsspielzeug](https://www.amazon.de/dp/B075GPHS2G/?tag=tolees0ca-21)  with  30.02 % discount, final price tag of  13.99 EUR (original: 19.99 EUR) here:
 
-[![LEGO Minecraft 21140 - Hühnerstall  Unte](https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL200_.jpg)](https://www.amazon.de/dp/B075GPHS2G/?tag=tolees0ca-21)
+[![LEGO Minecraft 21140 - Hühnerstall  Unte](https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL400_.jpg)](https://www.amazon.de/dp/B075GPHS2G/?tag=tolees0ca-21)
 
 ℹ️:
 

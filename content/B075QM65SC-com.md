@@ -2,7 +2,7 @@
 layout: post
 title: '22.01 % deal for LEGO Star Wars R3-S1 Astromech Droid'
 date: 2020-03-24 12:56:14
-image: 'https://m.media-amazon.com/images/I/51itenSVStL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51itenSVStL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.47'
 
 There's a deal [LEGO Star Wars R3-S1 Astromech Droid](https://www.amazon.com/dp/B075QM65SC/?tag=tolees-20)  with  22.01 % discount, final price tag of  12.47 USD (original: 15.99 USD) here:
 
-[![LEGO Star Wars R3-S1 Astromech Droid](https://m.media-amazon.com/images/I/51itenSVStL._SL200_.jpg)](https://www.amazon.com/dp/B075QM65SC/?tag=tolees-20)
+[![LEGO Star Wars R3-S1 Astromech Droid](https://m.media-amazon.com/images/I/51itenSVStL._SL400_.jpg)](https://www.amazon.com/dp/B075QM65SC/?tag=tolees-20)
 
 ℹ️:
 

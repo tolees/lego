@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Harry Potter Collection [Xbox One] at 20.13 % discount'
 date: 2020-04-16 17:41:30
-image: 'https://m.media-amazon.com/images/I/51P0Qs-60zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51P0Qs-60zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.936666666666664'
 
 With a final price of 19.96 EUR (original: 24.99 EUR) you can find [Lego Harry Potter Collection [Xbox One]](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21) with a  20.13 % discount here:
 
-[![Lego Harry Potter Collection [Xbox One]](https://m.media-amazon.com/images/I/51P0Qs-60zL._SL200_.jpg)](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21)
+[![Lego Harry Potter Collection [Xbox One]](https://m.media-amazon.com/images/I/51P0Qs-60zL._SL400_.jpg)](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '30.09 % deal for Dittzz Technic Auto Huracan LP 610  Spor'
 date: 2020-03-24 21:04:21
-image: 'https://m.media-amazon.com/images/I/41OhUzdNSRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OhUzdNSRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '78.99'
 
 There's a deal [Dittzz Technic Auto Huracan LP 610  Sportwagen Bauset   1696 Stücke Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085SZ3J4S/?tag=tolees0ca-21)  with  30.09 % discount, final price tag of  78.99 EUR (original: 112.99 EUR) here:
 
-[![Dittzz Technic Auto Huracan LP 610  Spor](https://m.media-amazon.com/images/I/41OhUzdNSRL._SL200_.jpg)](https://www.amazon.de/dp/B085SZ3J4S/?tag=tolees0ca-21)
+[![Dittzz Technic Auto Huracan LP 610  Spor](https://m.media-amazon.com/images/I/41OhUzdNSRL._SL400_.jpg)](https://www.amazon.de/dp/B085SZ3J4S/?tag=tolees0ca-21)
 
 ℹ️:
 

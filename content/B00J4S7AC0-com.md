@@ -2,7 +2,7 @@
 layout: post
 title: '31.56 % deal for LEGO Ultra Agents 70164 Hurricane Heist'
 date: 2020-04-09 07:05:43
-image: 'https://m.media-amazon.com/images/I/51sKH-V4JML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sKH-V4JML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.9'
 
 There's a deal [LEGO Ultra Agents 70164 Hurricane Heist](https://www.amazon.com/dp/B00J4S7AC0/?tag=tolees-20)  with  31.56 % discount, final price tag of  47.9 USD (original: 69.99 USD) here:
 
-[![LEGO Ultra Agents 70164 Hurricane Heist](https://m.media-amazon.com/images/I/51sKH-V4JML._SL200_.jpg)](https://www.amazon.com/dp/B00J4S7AC0/?tag=tolees-20)
+[![LEGO Ultra Agents 70164 Hurricane Heist](https://m.media-amazon.com/images/I/51sKH-V4JML._SL400_.jpg)](https://www.amazon.com/dp/B00J4S7AC0/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '65.01 % deal for LEGO DISK18268K Deluxe Costume  Skeleton'
 date: 2020-03-01 11:53:15
-image: 'https://m.media-amazon.com/images/I/41f9c7uf6ZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f9c7uf6ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 There's a deal [LEGO DISK18268K Deluxe Costume  Skeleton  Medium](https://www.amazon.co.uk/dp/B01N5V8OCO/?tag=tolees0a-21)  with  65.01 % discount, final price tag of  34.99 GBP (original: 99.99 GBP) here:
 
-[![LEGO DISK18268K Deluxe Costume  Skeleton](https://m.media-amazon.com/images/I/41f9c7uf6ZL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B01N5V8OCO/?tag=tolees0a-21)
+[![LEGO DISK18268K Deluxe Costume  Skeleton](https://m.media-amazon.com/images/I/41f9c7uf6ZL._AC_._SL400_.jpg)](https://www.amazon.co.uk/dp/B01N5V8OCO/?tag=tolees0a-21)
 
 ℹ️:
 

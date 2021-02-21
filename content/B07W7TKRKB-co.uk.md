@@ -2,7 +2,7 @@
 layout: post
 title: '37.50 % deal for LEGO 41389 Friends Ice Cream Cart Playse'
 date: 2020-07-16 11:43:36
-image: 'https://m.media-amazon.com/images/I/518KzhOnUyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518KzhOnUyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.946666666666666'
 
 There's a deal [LEGO 41389 Friends Ice Cream Cart Playset with Stephanie  Scooter andDash the Dog Figure  for Kids 6+ Years old](https://www.amazon.co.uk/dp/B07W7TKRKB/?tag=tolees0a-21)  with  37.50 % discount, final price tag of  5.0 GBP (original: 8.0 GBP) here:
 
-[![LEGO 41389 Friends Ice Cream Cart Playse](https://m.media-amazon.com/images/I/518KzhOnUyL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W7TKRKB/?tag=tolees0a-21)
+[![LEGO 41389 Friends Ice Cream Cart Playse](https://m.media-amazon.com/images/I/518KzhOnUyL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W7TKRKB/?tag=tolees0a-21)
 
 ℹ️:
 

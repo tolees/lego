@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 30.72 % for LEGO 21157 Minecraft BigFig Pig with Bab'
 date: 2020-04-09 19:29:06
-image: 'https://m.media-amazon.com/images/I/51AY1nF1ewL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AY1nF1ewL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 You've got [LEGO 21157 Minecraft BigFig Pig with Baby Zombie Figures Building Set  Toys for Kids 7+ Years Old](https://www.amazon.co.uk/dp/B07W8YKYY3/?tag=tolees0a-21) with a  30.72 % discount, with final price of 9.0 GBP (original: 12.99 GBP) at the following link:
 
-[![LEGO 21157 Minecraft BigFig Pig with Bab](https://m.media-amazon.com/images/I/51AY1nF1ewL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W8YKYY3/?tag=tolees0a-21)
+[![LEGO 21157 Minecraft BigFig Pig with Bab](https://m.media-amazon.com/images/I/51AY1nF1ewL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W8YKYY3/?tag=tolees0a-21)
 
 ℹ️:
 

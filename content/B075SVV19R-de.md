@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Disney 41153 - Princess Arielles kö at 30.01 % discount'
 date: 2020-01-17 09:25:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bYld2hK8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bYld2hK8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.71714285714286'
 
 With a final price of 34.99 EUR (original: 49.99 EUR) you can find [LEGO Disney 41153 - Princess Arielles königliches Hochzeitsboot  Kinderspielzeug](https://www.amazon.de/dp/B075SVV19R/?tag=tolees0ca-21) with a  30.01 % discount here:
 
-[![LEGO Disney 41153 - Princess Arielles kö](https://images-eu.ssl-images-amazon.com/images/I/51bYld2hK8L._SL200_.jpg)](https://www.amazon.de/dp/B075SVV19R/?tag=tolees0ca-21)
+[![LEGO Disney 41153 - Princess Arielles kö](https://images-eu.ssl-images-amazon.com/images/I/51bYld2hK8L._SL400_.jpg)](https://www.amazon.de/dp/B075SVV19R/?tag=tolees0ca-21)
 
 ℹ️:
 

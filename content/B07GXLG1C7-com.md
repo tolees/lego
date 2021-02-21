@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 38.34 % for LEGO The Movie 2 Rex’s Rexplorer; 70835 '
 date: 2020-04-07 12:56:52
-image: 'https://m.media-amazon.com/images/I/51xfN9mSnEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xfN9mSnEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.355'
 
 You've got [LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit  Spaceship Toy with Dinosaur Figures  1172 Pieces ](https://www.amazon.com/dp/B07GXLG1C7/?tag=tolees-20) with a  38.34 % discount, with final price of 73.99 USD (original: 119.99 USD) at the following link:
 
-[![LEGO The Movie 2 Rex’s Rexplorer; 70835 ](https://m.media-amazon.com/images/I/51xfN9mSnEL._SL200_.jpg)](https://www.amazon.com/dp/B07GXLG1C7/?tag=tolees-20)
+[![LEGO The Movie 2 Rex’s Rexplorer; 70835 ](https://m.media-amazon.com/images/I/51xfN9mSnEL._SL400_.jpg)](https://www.amazon.com/dp/B07GXLG1C7/?tag=tolees-20)
 
 ℹ️:
 

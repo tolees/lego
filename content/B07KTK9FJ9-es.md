@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Friends - Pulpo Mecánico  Juguete D at 15.29 % discount'
 date: 2020-05-01 09:35:46
-image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.33142857142857'
 
 With a final price of 31.2 EUR (original: 36.83 EUR) you can find [LEGO Friends - Pulpo Mecánico  Juguete Divertido de Construcción Giratorio para Niñas y Niños de más de 7 Años con Mini Muñeca de Andrea  41373 ](https://www.amazon.es/dp/B07KTK9FJ9/?tag=tolees-21) with a  15.29 % discount here:
 
-[![LEGO Friends - Pulpo Mecánico  Juguete D](https://m.media-amazon.com/images/I/51UnUv3ID3L._SL200_.jpg)](https://www.amazon.es/dp/B07KTK9FJ9/?tag=tolees-21)
+[![LEGO Friends - Pulpo Mecánico  Juguete D](https://m.media-amazon.com/images/I/51UnUv3ID3L._SL400_.jpg)](https://www.amazon.es/dp/B07KTK9FJ9/?tag=tolees-21)
 
 ℹ️:
 

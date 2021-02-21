@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 33.59 % for LEGO Brick 1 Knob Stackable Storage Box '
 date: 2020-04-09 14:42:19
-image: 'https://m.media-amazon.com/images/I/31V08slG-tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V08slG-tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.96'
 
 You've got [LEGO Brick 1 Knob Stackable Storage Box  Red  1.2 Litre](https://www.amazon.co.uk/dp/B008KQ1JVU/?tag=tolees0a-21) with a  33.59 % discount, with final price of 5.95 GBP (original: 8.96 GBP) at the following link:
 
-[![LEGO Brick 1 Knob Stackable Storage Box ](https://m.media-amazon.com/images/I/31V08slG-tL._SL200_.jpg)](https://www.amazon.co.uk/dp/B008KQ1JVU/?tag=tolees0a-21)
+[![LEGO Brick 1 Knob Stackable Storage Box ](https://m.media-amazon.com/images/I/31V08slG-tL._SL400_.jpg)](https://www.amazon.co.uk/dp/B008KQ1JVU/?tag=tolees0a-21)
 
 ℹ️:
 

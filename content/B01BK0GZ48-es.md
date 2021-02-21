@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Star Wars Minifigur C-3PO out of se at 20.63 % discount'
 date: 2020-04-18 02:06:22
-image: 'https://m.media-amazon.com/images/I/41q7aUxoLAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q7aUxoLAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.0'
 
 With a final price of 7.0 EUR (original: 8.82 EUR) you can find [Lego Star Wars Minifigur C-3PO out of set 75136  sw700 ](https://www.amazon.es/dp/B01BK0GZ48/?tag=tolees-21) with a  20.63 % discount here:
 
-[![Lego Star Wars Minifigur C-3PO out of se](https://m.media-amazon.com/images/I/41q7aUxoLAL._SL200_.jpg)](https://www.amazon.es/dp/B01BK0GZ48/?tag=tolees-21)
+[![Lego Star Wars Minifigur C-3PO out of se](https://m.media-amazon.com/images/I/41q7aUxoLAL._SL400_.jpg)](https://www.amazon.es/dp/B01BK0GZ48/?tag=tolees-21)
 
 ℹ️:
 

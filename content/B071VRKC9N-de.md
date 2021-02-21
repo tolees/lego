@@ -2,7 +2,7 @@
 layout: post
 title: '15.01 % deal for LEGO Marvel Superheroes 2 [PlayStation 4'
 date: 2020-04-02 07:40:21
-image: 'https://m.media-amazon.com/images/I/61O+th5TpML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61O+th5TpML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.787999999999997'
 
 There's a deal [LEGO Marvel Superheroes 2 [PlayStation 4]](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21)  with  15.01 % discount, final price tag of  16.99 EUR (original: 19.99 EUR) here:
 
-[![LEGO Marvel Superheroes 2 [PlayStation 4](https://m.media-amazon.com/images/I/61O+th5TpML._SL200_.jpg)](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21)
+[![LEGO Marvel Superheroes 2 [PlayStation 4](https://m.media-amazon.com/images/I/61O+th5TpML._SL400_.jpg)](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21)
 
 ℹ️:
 

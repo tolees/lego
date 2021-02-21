@@ -2,7 +2,7 @@
 layout: post
 title: '29.58 % deal for LEGO 10917 DUPLO My First Fire Truck Toy'
 date: 2020-03-21 20:56:38
-image: 'https://m.media-amazon.com/images/I/51EXOih3pmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EXOih3pmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.5'
 
 There's a deal [LEGO 10917 DUPLO My First Fire Truck Toy  Fire-Engine Starter Set for Toddlers 1 .5 Year Old](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=tolees0a-21)  with  29.58 % discount, final price tag of  3.5 GBP (original: 4.97 GBP) here:
 
-[![LEGO 10917 DUPLO My First Fire Truck Toy](https://m.media-amazon.com/images/I/51EXOih3pmL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=tolees0a-21)
+[![LEGO 10917 DUPLO My First Fire Truck Toy](https://m.media-amazon.com/images/I/51EXOih3pmL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W8XZV5K/?tag=tolees0a-21)
 
 ℹ️:
 

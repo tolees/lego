@@ -2,7 +2,7 @@
 layout: post
 title: '85.48 % deal for LEGO Minecraft MiniFigure - Baby Zombie '
 date: 2020-03-22 20:55:48
-image: 'https://m.media-amazon.com/images/I/31KiEm14PSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KiEm14PSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.59'
 
 There's a deal [LEGO Minecraft MiniFigure - Baby Zombie  Very Cute  21141](https://www.amazon.com/dp/B079VKT49P/?tag=tolees-20)  with  85.48 % discount, final price tag of  1.59 USD (original: 10.95 USD) here:
 
-[![LEGO Minecraft MiniFigure - Baby Zombie ](https://m.media-amazon.com/images/I/31KiEm14PSL._SL200_.jpg)](https://www.amazon.com/dp/B079VKT49P/?tag=tolees-20)
+[![LEGO Minecraft MiniFigure - Baby Zombie ](https://m.media-amazon.com/images/I/31KiEm14PSL._SL400_.jpg)](https://www.amazon.com/dp/B079VKT49P/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 28.55 % for LEGO NINJAGO Zane - Dragon Master 70648 '
 date: 2020-04-02 08:02:25
-image: 'https://m.media-amazon.com/images/I/51xc35sosOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xc35sosOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.71'
 
 You've got [LEGO NINJAGO Zane - Dragon Master 70648 Building Kit  92 Piece ](https://www.amazon.com/dp/B07BKL776L/?tag=tolees-20) with a  28.55 % discount, with final price of 10.71 USD (original: 14.99 USD) at the following link:
 
-[![LEGO NINJAGO Zane - Dragon Master 70648 ](https://m.media-amazon.com/images/I/51xc35sosOL._SL200_.jpg)](https://www.amazon.com/dp/B07BKL776L/?tag=tolees-20)
+[![LEGO NINJAGO Zane - Dragon Master 70648 ](https://m.media-amazon.com/images/I/51xc35sosOL._SL400_.jpg)](https://www.amazon.com/dp/B07BKL776L/?tag=tolees-20)
 
 ℹ️:
 

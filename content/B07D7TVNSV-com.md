@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % deal for LEGO Marvel Spider-Man: Spider-Man Bike '
 date: 2020-04-17 22:23:52
-image: 'https://m.media-amazon.com/images/I/51tv9ErkNPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tv9ErkNPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.751999999999995'
 
 There's a deal [LEGO Marvel Spider-Man: Spider-Man Bike Rescue 76113 Building Kit  235 Pieces ](https://www.amazon.com/dp/B07D7TVNSV/?tag=tolees-20)  with  20.01 % discount, final price tag of  15.99 USD (original: 19.99 USD) here:
 
-[![LEGO Marvel Spider-Man: Spider-Man Bike ](https://m.media-amazon.com/images/I/51tv9ErkNPL._SL200_.jpg)](https://www.amazon.com/dp/B07D7TVNSV/?tag=tolees-20)
+[![LEGO Marvel Spider-Man: Spider-Man Bike ](https://m.media-amazon.com/images/I/51tv9ErkNPL._SL400_.jpg)](https://www.amazon.com/dp/B07D7TVNSV/?tag=tolees-20)
 
 ℹ️:
 

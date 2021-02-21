@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 76118 DC Mr. Freeze Batcycle Battle at 34.97 % discount'
 date: 2020-07-10 22:54:51
-image: 'https://m.media-amazon.com/images/I/51+AXqfLjQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+AXqfLjQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.626666666666667'
 
 With a final price of 13.0 GBP (original: 19.99 GBP) you can find [LEGO 76118 DC Mr. Freeze Batcycle Battle 2 in1 Bike Set  Batman and Robin Cycle Chase  multicolour](https://www.amazon.co.uk/dp/B07KTLHZVN/?tag=tolees0a-21) with a  34.97 % discount here:
 
-[![LEGO 76118 DC Mr. Freeze Batcycle Battle](https://m.media-amazon.com/images/I/51+AXqfLjQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTLHZVN/?tag=tolees0a-21)
+[![LEGO 76118 DC Mr. Freeze Batcycle Battle](https://m.media-amazon.com/images/I/51+AXqfLjQL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07KTLHZVN/?tag=tolees0a-21)
 
 ℹ️:
 

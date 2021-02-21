@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Minecraft The End Battle 21151 Ende at 20.01 % discount'
 date: 2020-04-02 20:58:04
-image: 'https://m.media-amazon.com/images/I/51OSJhpSI-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OSJhpSI-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Minecraft The End Battle 21151 Ender Dragon Building Kit includes Dragon Slayer and Enderman Toy Figures for Dragon Fighting Adventures  222 Pieces ](https://www.amazon.com/dp/B07GZ51QRC/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO Minecraft The End Battle 21151 Ende](https://m.media-amazon.com/images/I/51OSJhpSI-L._SL200_.jpg)](https://www.amazon.com/dp/B07GZ51QRC/?tag=tolees-20)
+[![LEGO Minecraft The End Battle 21151 Ende](https://m.media-amazon.com/images/I/51OSJhpSI-L._SL400_.jpg)](https://www.amazon.com/dp/B07GZ51QRC/?tag=tolees-20)
 
 ℹ️:
 

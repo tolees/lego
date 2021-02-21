@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 76127 Captain Marvel and The Skrull at 24.97 % discount'
 date: 2020-06-11 06:44:18
-image: 'https://m.media-amazon.com/images/I/51lsH8tnw0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lsH8tnw0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.369999999999997'
 
 With a final price of 18.75 GBP (original: 24.99 GBP) you can find [LEGO 76127 Captain Marvel and The Skrull Attack Building Kit](https://www.amazon.co.uk/dp/B07G3X51RJ/?tag=tolees0a-21) with a  24.97 % discount here:
 
-[![LEGO 76127 Captain Marvel and The Skrull](https://m.media-amazon.com/images/I/51lsH8tnw0L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07G3X51RJ/?tag=tolees0a-21)
+[![LEGO 76127 Captain Marvel and The Skrull](https://m.media-amazon.com/images/I/51lsH8tnw0L._SL400_.jpg)](https://www.amazon.co.uk/dp/B07G3X51RJ/?tag=tolees0a-21)
 
 ℹ️:
 

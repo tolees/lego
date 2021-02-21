@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 20.01 % for LEGO Harry Potter and The Goblet of Fire'
 date: 2020-04-17 22:45:15
-image: 'https://m.media-amazon.com/images/I/51cKzVVKtIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cKzVVKtIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 You've got [LEGO Harry Potter and The Goblet of Fire The Rise of Voldemort 75965 Building Kit  184 Pieces ](https://www.amazon.com/dp/B07PX3T2FF/?tag=tolees-20) with a  20.01 % discount, with final price of 15.99 USD (original: 19.99 USD) at the following link:
 
-[![LEGO Harry Potter and The Goblet of Fire](https://m.media-amazon.com/images/I/51cKzVVKtIL._SL200_.jpg)](https://www.amazon.com/dp/B07PX3T2FF/?tag=tolees-20)
+[![LEGO Harry Potter and The Goblet of Fire](https://m.media-amazon.com/images/I/51cKzVVKtIL._SL400_.jpg)](https://www.amazon.com/dp/B07PX3T2FF/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 20.01 % for LEGO Marvel Spider-Man Far From Home: Mo'
 date: 2020-06-11 10:03:15
-image: 'https://m.media-amazon.com/images/I/51uw5oqxJjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uw5oqxJjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 You've got [LEGO Marvel Spider-Man Far From Home: Molten Man Battle 76128 Building Kit  294 Pieces ](https://www.amazon.com/dp/B07JXP6R14/?tag=tolees-20) with a  20.01 % discount, with final price of 23.99 USD (original: 29.99 USD) at the following link:
 
-[![LEGO Marvel Spider-Man Far From Home: Mo](https://m.media-amazon.com/images/I/51uw5oqxJjL._SL200_.jpg)](https://www.amazon.com/dp/B07JXP6R14/?tag=tolees-20)
+[![LEGO Marvel Spider-Man Far From Home: Mo](https://m.media-amazon.com/images/I/51uw5oqxJjL._SL400_.jpg)](https://www.amazon.com/dp/B07JXP6R14/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '33.31 % deal for LEGO Friends Andrea s Speedboat Transpor'
 date: 2020-04-06 20:53:22
-image: 'https://m.media-amazon.com/images/I/51lJ2qKukQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lJ2qKukQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.425'
 
 There's a deal [LEGO Friends Andrea s Speedboat Transporter 41316 Building Kit  309 Piece ](https://www.amazon.com/dp/B071VNLCBV/?tag=tolees-20)  with  33.31 % discount, final price tag of  20.0 USD (original: 29.99 USD) here:
 
-[![LEGO Friends Andrea s Speedboat Transpor](https://m.media-amazon.com/images/I/51lJ2qKukQL._SL200_.jpg)](https://www.amazon.com/dp/B071VNLCBV/?tag=tolees-20)
+[![LEGO Friends Andrea s Speedboat Transpor](https://m.media-amazon.com/images/I/51lJ2qKukQL._SL400_.jpg)](https://www.amazon.com/dp/B071VNLCBV/?tag=tolees-20)
 
 ℹ️:
 

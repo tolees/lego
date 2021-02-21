@@ -2,7 +2,7 @@
 layout: post
 title: '41.02 % deal for Lego Batman Movie  The  Blu-ray   BD '
 date: 2020-04-07 12:56:51
-image: 'https://m.media-amazon.com/images/I/61sq8eBR+vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61sq8eBR+vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.83'
 
 There's a deal [Lego Batman Movie  The  Blu-ray   BD ](https://www.amazon.com/dp/B06W53FHJJ/?tag=tolees-20)  with  41.02 % discount, final price tag of  8.83 USD (original: 14.97 USD) here:
 
-[![Lego Batman Movie  The  Blu-ray   BD ](https://m.media-amazon.com/images/I/61sq8eBR+vL._SL200_.jpg)](https://www.amazon.com/dp/B06W53FHJJ/?tag=tolees-20)
+[![Lego Batman Movie  The  Blu-ray   BD ](https://m.media-amazon.com/images/I/61sq8eBR+vL._SL400_.jpg)](https://www.amazon.com/dp/B06W53FHJJ/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % deal for LEGO City Burger Bar Fire Rescue 60214 B'
 date: 2020-04-16 17:08:25
-image: 'https://m.media-amazon.com/images/I/51RsimDmQqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RsimDmQqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 There's a deal [LEGO City Burger Bar Fire Rescue 60214 Building Kit  327 Pieces ](https://www.amazon.com/dp/B07GW2F26T/?tag=tolees-20)  with  20.01 % discount, final price tag of  31.99 USD (original: 39.99 USD) here:
 
-[![LEGO City Burger Bar Fire Rescue 60214 B](https://m.media-amazon.com/images/I/51RsimDmQqL._SL200_.jpg)](https://www.amazon.com/dp/B07GW2F26T/?tag=tolees-20)
+[![LEGO City Burger Bar Fire Rescue 60214 B](https://m.media-amazon.com/images/I/51RsimDmQqL._SL400_.jpg)](https://www.amazon.com/dp/B07GW2F26T/?tag=tolees-20)
 
 ℹ️:
 

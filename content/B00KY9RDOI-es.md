@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 30.09 % for LEGO Star Wars 75052  Minifigura de Gree'
 date: 2020-03-07 02:42:30
-image: 'https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.026249999999997'
 
 You've got [LEGO Star Wars 75052  Minifigura de Greedo con pistola blaster](https://www.amazon.es/dp/B00KY9RDOI/?tag=tolees-21) with a  30.09 % discount, with final price of 18.7 EUR (original: 26.75 EUR) at the following link:
 
-[![LEGO Star Wars 75052  Minifigura de Gree](https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00KY9RDOI/?tag=tolees-21)
+[![LEGO Star Wars 75052  Minifigura de Gree](https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00KY9RDOI/?tag=tolees-21)
 
 ℹ️:
 

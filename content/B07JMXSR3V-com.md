@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Marvel Avengers Captain America: Ou at 20.01 % discount'
 date: 2020-04-17 22:33:59
-image: 'https://m.media-amazon.com/images/I/51EKviw5Q3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EKviw5Q3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Marvel Avengers Captain America: Outriders Attack 76123 Building Kit  167 Pieces ](https://www.amazon.com/dp/B07JMXSR3V/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO Marvel Avengers Captain America: Ou](https://m.media-amazon.com/images/I/51EKviw5Q3L._SL200_.jpg)](https://www.amazon.com/dp/B07JMXSR3V/?tag=tolees-20)
+[![LEGO Marvel Avengers Captain America: Ou](https://m.media-amazon.com/images/I/51EKviw5Q3L._SL400_.jpg)](https://www.amazon.com/dp/B07JMXSR3V/?tag=tolees-20)
 
 ℹ️:
 

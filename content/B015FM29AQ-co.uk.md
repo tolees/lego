@@ -2,7 +2,7 @@
 layout: post
 title: '34.56 % deal for Lego 9 Count Coloured Gel Pens  Assorted'
 date: 2020-01-27 01:30:26
-image: 'https://m.media-amazon.com/images/I/41xmzUtmHPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xmzUtmHPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.46'
 
 There's a deal [Lego 9 Count Coloured Gel Pens  Assorted Colours](https://www.amazon.co.uk/dp/B015FM29AQ/?tag=tolees0a-21)  with  34.56 % discount, final price tag of  12.46 GBP (original: 19.04 GBP) here:
 
-[![Lego 9 Count Coloured Gel Pens  Assorted](https://m.media-amazon.com/images/I/41xmzUtmHPL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B015FM29AQ/?tag=tolees0a-21)
+[![Lego 9 Count Coloured Gel Pens  Assorted](https://m.media-amazon.com/images/I/41xmzUtmHPL._AC_._SL400_.jpg)](https://www.amazon.co.uk/dp/B015FM29AQ/?tag=tolees0a-21)
 
 ℹ️:
 

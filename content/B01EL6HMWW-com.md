@@ -2,7 +2,7 @@
 layout: post
 title: 'IQ Lego Star Wars Kylo Ren LED Head Lamp at 27.90 % discount'
 date: 2020-03-27 13:16:34
-image: 'https://m.media-amazon.com/images/I/41VFbIbCKnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VFbIbCKnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 With a final price of 17.99 USD (original: 24.95 USD) you can find [IQ Lego Star Wars Kylo Ren LED Head Lamp](https://www.amazon.com/dp/B01EL6HMWW/?tag=tolees-20) with a  27.90 % discount here:
 
-[![IQ Lego Star Wars Kylo Ren LED Head Lamp](https://m.media-amazon.com/images/I/41VFbIbCKnL._SL200_.jpg)](https://www.amazon.com/dp/B01EL6HMWW/?tag=tolees-20)
+[![IQ Lego Star Wars Kylo Ren LED Head Lamp](https://m.media-amazon.com/images/I/41VFbIbCKnL._SL400_.jpg)](https://www.amazon.com/dp/B01EL6HMWW/?tag=tolees-20)
 
 ℹ️:
 

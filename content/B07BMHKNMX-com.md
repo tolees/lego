@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Disney Pixar s The Incredibles - PS at 54.99 % discount'
 date: 2020-04-17 00:24:18
-image: 'https://m.media-amazon.com/images/I/51+nqZR336L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+nqZR336L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.993333333333334'
 
 With a final price of 18.0 USD (original: 39.99 USD) you can find [LEGO Disney Pixar s The Incredibles - PS4](https://www.amazon.com/dp/B07BMHKNMX/?tag=tolees-20) with a  54.99 % discount here:
 
-[![LEGO Disney Pixar s The Incredibles - PS](https://m.media-amazon.com/images/I/51+nqZR336L._SL200_.jpg)](https://www.amazon.com/dp/B07BMHKNMX/?tag=tolees-20)
+[![LEGO Disney Pixar s The Incredibles - PS](https://m.media-amazon.com/images/I/51+nqZR336L._SL400_.jpg)](https://www.amazon.com/dp/B07BMHKNMX/?tag=tolees-20)
 
 ℹ️:
 

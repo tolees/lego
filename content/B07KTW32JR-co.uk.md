@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 25.61 % for LEGO 75934 avec 3 Figurines Dont et Jura'
 date: 2020-03-14 08:57:52
-image: 'https://m.media-amazon.com/images/I/51Gw980VQUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Gw980VQUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.455'
 
 You've got [LEGO 75934 avec 3 Figurines Dont et Jurassic World Dilophosaurus on The Loose Set with 3 Minifigures  Drone and Dinosaur Figure  Multicolour](https://www.amazon.co.uk/dp/B07KTW32JR/?tag=tolees0a-21) with a  25.61 % discount, with final price of 14.87 GBP (original: 19.99 GBP) at the following link:
 
-[![LEGO 75934 avec 3 Figurines Dont et Jura](https://m.media-amazon.com/images/I/51Gw980VQUL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTW32JR/?tag=tolees0a-21)
+[![LEGO 75934 avec 3 Figurines Dont et Jura](https://m.media-amazon.com/images/I/51Gw980VQUL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07KTW32JR/?tag=tolees0a-21)
 
 ℹ️:
 

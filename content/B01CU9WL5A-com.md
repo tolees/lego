@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 20.01 % for LEGO DUPLO Town Truck & Tracked Excavato'
 date: 2020-04-17 21:52:28
-image: 'https://m.media-amazon.com/images/I/51xJLNVxOXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xJLNVxOXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 You've got [LEGO DUPLO Town Truck & Tracked Excavator 10812 Dump Truck and Excavator Kids Construction Toy with DUPLO Construction Worker Figures  26 pieces ](https://www.amazon.com/dp/B01CU9WL5A/?tag=tolees-20) with a  20.01 % discount, with final price of 15.99 USD (original: 19.99 USD) at the following link:
 
-[![LEGO DUPLO Town Truck & Tracked Excavato](https://m.media-amazon.com/images/I/51xJLNVxOXL._SL200_.jpg)](https://www.amazon.com/dp/B01CU9WL5A/?tag=tolees-20)
+[![LEGO DUPLO Town Truck & Tracked Excavato](https://m.media-amazon.com/images/I/51xJLNVxOXL._SL400_.jpg)](https://www.amazon.com/dp/B01CU9WL5A/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '20.03 % deal for LEGO THE LEGO MOVIE 2 The Rexcelsior; 70'
 date: 2020-04-14 15:33:44
-image: 'https://m.media-amazon.com/images/I/51FsArerIRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FsArerIRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.95'
 
 There's a deal [LEGO THE LEGO MOVIE 2 The Rexcelsior; 70839 Building Kit  1820 Pieces ](https://www.amazon.com/dp/B07JNFY4CF/?tag=tolees-20)  with  20.03 % discount, final price tag of  119.95 USD (original: 149.99 USD) here:
 
-[![LEGO THE LEGO MOVIE 2 The Rexcelsior; 70](https://m.media-amazon.com/images/I/51FsArerIRL._SL200_.jpg)](https://www.amazon.com/dp/B07JNFY4CF/?tag=tolees-20)
+[![LEGO THE LEGO MOVIE 2 The Rexcelsior; 70](https://m.media-amazon.com/images/I/51FsArerIRL._SL400_.jpg)](https://www.amazon.com/dp/B07JNFY4CF/?tag=tolees-20)
 
 ℹ️:
 

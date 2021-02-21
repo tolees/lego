@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Friends - Caja Corazón de Stephanie at 37.55 % discount'
 date: 2020-05-06 19:02:02
-image: 'https://m.media-amazon.com/images/I/51rGW0qpNyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rGW0qpNyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 With a final price of 4.99 EUR (original: 7.99 EUR) you can find [LEGO Friends - Caja Corazón de Stephanie  divertido set de construcción coleccionable para guardar tus cosas  41356 ](https://www.amazon.es/dp/B07FNS9YRS/?tag=tolees-21) with a  37.55 % discount here:
 
-[![LEGO Friends - Caja Corazón de Stephanie](https://m.media-amazon.com/images/I/51rGW0qpNyL._SL200_.jpg)](https://www.amazon.es/dp/B07FNS9YRS/?tag=tolees-21)
+[![LEGO Friends - Caja Corazón de Stephanie](https://m.media-amazon.com/images/I/51rGW0qpNyL._SL400_.jpg)](https://www.amazon.es/dp/B07FNS9YRS/?tag=tolees-21)
 
 ℹ️:
 

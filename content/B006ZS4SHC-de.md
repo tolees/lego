@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Technic 9396 - Großer Helikopter at 42.85 % discount'
 date: 2020-04-17 23:36:14
-image: 'https://m.media-amazon.com/images/I/51tuyLaRYxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tuyLaRYxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '140.0'
 
 With a final price of 140.0 EUR (original: 244.95 EUR) you can find [LEGO Technic 9396 - Großer Helikopter](https://www.amazon.de/dp/B006ZS4SHC/?tag=tolees0ca-21) with a  42.85 % discount here:
 
-[![LEGO Technic 9396 - Großer Helikopter](https://m.media-amazon.com/images/I/51tuyLaRYxL._SL200_.jpg)](https://www.amazon.de/dp/B006ZS4SHC/?tag=tolees0ca-21)
+[![LEGO Technic 9396 - Großer Helikopter](https://m.media-amazon.com/images/I/51tuyLaRYxL._SL400_.jpg)](https://www.amazon.de/dp/B006ZS4SHC/?tag=tolees0ca-21)
 
 ℹ️:
 

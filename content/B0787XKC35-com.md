@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 26.89 % for LEGO Star Wars Solo: A Star Wars Story H'
 date: 2020-04-16 16:56:39
-image: 'https://m.media-amazon.com/images/I/51GxA1TQfNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GxA1TQfNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.817'
 
 You've got [LEGO Star Wars Solo: A Star Wars Story Han Solo 75535 Building Kit  101 Piece ](https://www.amazon.com/dp/B0787XKC35/?tag=tolees-20) with a  26.89 % discount, with final price of 18.27 USD (original: 24.99 USD) at the following link:
 
-[![LEGO Star Wars Solo: A Star Wars Story H](https://m.media-amazon.com/images/I/51GxA1TQfNL._SL200_.jpg)](https://www.amazon.com/dp/B0787XKC35/?tag=tolees-20)
+[![LEGO Star Wars Solo: A Star Wars Story H](https://m.media-amazon.com/images/I/51GxA1TQfNL._SL400_.jpg)](https://www.amazon.com/dp/B0787XKC35/?tag=tolees-20)
 
 ℹ️:
 

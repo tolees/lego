@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Minifigures DC Super Heroes Series  at 20.04 % discount'
 date: 2020-04-09 23:23:38
-image: 'https://m.media-amazon.com/images/I/519sGXu0noL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519sGXu0noL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.79'
 
 With a final price of 3.99 USD (original: 4.99 USD) you can find [LEGO Minifigures DC Super Heroes Series 71026 Collectible Set  New 2020  1 of 16 to Collects  Featuring Characters from DC Universe Comic Books](https://www.amazon.com/dp/B07WF9TGFH/?tag=tolees-20) with a  20.04 % discount here:
 
-[![LEGO Minifigures DC Super Heroes Series ](https://m.media-amazon.com/images/I/519sGXu0noL._SL200_.jpg)](https://www.amazon.com/dp/B07WF9TGFH/?tag=tolees-20)
+[![LEGO Minifigures DC Super Heroes Series ](https://m.media-amazon.com/images/I/519sGXu0noL._SL400_.jpg)](https://www.amazon.com/dp/B07WF9TGFH/?tag=tolees-20)
 
 ℹ️:
 

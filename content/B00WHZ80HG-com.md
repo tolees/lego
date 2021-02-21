@@ -2,7 +2,7 @@
 layout: post
 title: '16.66 % deal for LEGO Star Wars Kylo Ren s Command Shuttl'
 date: 2020-04-16 16:55:11
-image: 'https://m.media-amazon.com/images/I/61wP8ZdkOEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61wP8ZdkOEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '131.23250000000002'
 
 There's a deal [LEGO Star Wars Kylo Ren s Command Shuttle 75104 Star Wars Toy](https://www.amazon.com/dp/B00WHZ80HG/?tag=tolees-20)  with  16.66 % discount, final price tag of  100.0 USD (original: 119.99 USD) here:
 
-[![LEGO Star Wars Kylo Ren s Command Shuttl](https://m.media-amazon.com/images/I/61wP8ZdkOEL._SL200_.jpg)](https://www.amazon.com/dp/B00WHZ80HG/?tag=tolees-20)
+[![LEGO Star Wars Kylo Ren s Command Shuttl](https://m.media-amazon.com/images/I/61wP8ZdkOEL._SL400_.jpg)](https://www.amazon.com/dp/B00WHZ80HG/?tag=tolees-20)
 
 ℹ️:
 

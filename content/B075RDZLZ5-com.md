@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % deal for LEGO Minecraft The Zombie Cave 21141 Bui'
 date: 2020-04-17 22:11:44
-image: 'https://m.media-amazon.com/images/I/51Sa6rcPtDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Sa6rcPtDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 There's a deal [LEGO Minecraft The Zombie Cave 21141 Building Kit with Popular Minecraft Characters Steve and Zombie Figure  separate TNT Toy  Coal and more for Creative Play  241 Pieces ](https://www.amazon.com/dp/B075RDZLZ5/?tag=tolees-20)  with  20.01 % discount, final price tag of  15.99 USD (original: 19.99 USD) here:
 
-[![LEGO Minecraft The Zombie Cave 21141 Bui](https://m.media-amazon.com/images/I/51Sa6rcPtDL._SL200_.jpg)](https://www.amazon.com/dp/B075RDZLZ5/?tag=tolees-20)
+[![LEGO Minecraft The Zombie Cave 21141 Bui](https://m.media-amazon.com/images/I/51Sa6rcPtDL._SL400_.jpg)](https://www.amazon.com/dp/B075RDZLZ5/?tag=tolees-20)
 
 ℹ️:
 

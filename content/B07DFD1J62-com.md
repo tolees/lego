@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO DC Super-Villains - PlayStation 4 at 18.78 % discount'
 date: 2020-04-17 00:25:16
-image: 'https://m.media-amazon.com/images/I/51FeI9U7ukL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FeI9U7ukL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.278571428571428'
 
 With a final price of 16.0 USD (original: 19.7 USD) you can find [LEGO DC Super-Villains - PlayStation 4](https://www.amazon.com/dp/B07DFD1J62/?tag=tolees-20) with a  18.78 % discount here:
 
-[![LEGO DC Super-Villains - PlayStation 4](https://m.media-amazon.com/images/I/51FeI9U7ukL._SL200_.jpg)](https://www.amazon.com/dp/B07DFD1J62/?tag=tolees-20)
+[![LEGO DC Super-Villains - PlayStation 4](https://m.media-amazon.com/images/I/51FeI9U7ukL._SL400_.jpg)](https://www.amazon.com/dp/B07DFD1J62/?tag=tolees-20)
 
 ℹ️:
 

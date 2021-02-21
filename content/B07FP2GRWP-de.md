@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 33.37 % for LEGO City 60212 Feuerwehr beim Grillfest'
 date: 2020-08-25 12:28:16
-image: 'https://m.media-amazon.com/images/I/51jcPqnKA1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jcPqnKA1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.350833333333334'
 
 You've got [LEGO City 60212 Feuerwehr beim Grillfest](https://www.amazon.de/dp/B07FP2GRWP/?tag=tolees0ca-21) with a  33.37 % discount, with final price of 6.49 EUR (original: 9.74 EUR) at the following link:
 
-[![LEGO City 60212 Feuerwehr beim Grillfest](https://m.media-amazon.com/images/I/51jcPqnKA1L._SL200_.jpg)](https://www.amazon.de/dp/B07FP2GRWP/?tag=tolees0ca-21)
+[![LEGO City 60212 Feuerwehr beim Grillfest](https://m.media-amazon.com/images/I/51jcPqnKA1L._SL400_.jpg)](https://www.amazon.de/dp/B07FP2GRWP/?tag=tolees0ca-21)
 
 ℹ️:
 

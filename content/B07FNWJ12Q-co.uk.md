@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 70680 NINJAGO Monastery Training In at 30.03 % discount'
 date: 2020-01-13 20:37:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51VWDeDZdlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VWDeDZdlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.993333333333334'
 
 With a final price of 6.29 GBP (original: 8.99 GBP) you can find [LEGO 70680 NINJAGO Monastery Training Includes Kai and Nya Minifigures Building Set](https://www.amazon.co.uk/dp/B07FNWJ12Q/?tag=tolees0a-21) with a  30.03 % discount here:
 
-[![LEGO 70680 NINJAGO Monastery Training In](https://images-eu.ssl-images-amazon.com/images/I/51VWDeDZdlL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNWJ12Q/?tag=tolees0a-21)
+[![LEGO 70680 NINJAGO Monastery Training In](https://images-eu.ssl-images-amazon.com/images/I/51VWDeDZdlL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FNWJ12Q/?tag=tolees0a-21)
 
 ℹ️:
 

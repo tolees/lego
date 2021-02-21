@@ -2,7 +2,7 @@
 layout: post
 title: '37.14 % deal for LEGO Ninjago - Spinjitzu Slam: Zane Set '
 date: 2020-05-29 15:05:28
-image: 'https://m.media-amazon.com/images/I/51FegmFgdcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FegmFgdcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.06'
 
 There's a deal [LEGO Ninjago - Spinjitzu Slam: Zane Set de construcción de Peonza Ninja de Juguete  Novedad 2019  70683 ](https://www.amazon.es/dp/B07KTW7QMX/?tag=tolees-21)  with  37.14 % discount, final price tag of  8.75 EUR (original: 13.92 EUR) here:
 
-[![LEGO Ninjago - Spinjitzu Slam: Zane Set ](https://m.media-amazon.com/images/I/51FegmFgdcL._SL200_.jpg)](https://www.amazon.es/dp/B07KTW7QMX/?tag=tolees-21)
+[![LEGO Ninjago - Spinjitzu Slam: Zane Set ](https://m.media-amazon.com/images/I/51FegmFgdcL._SL400_.jpg)](https://www.amazon.es/dp/B07KTW7QMX/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '29.86 % deal for LEGO 11006 Classic Creative Blue Bricks '
 date: 2020-03-28 20:33:13
-image: 'https://m.media-amazon.com/images/I/51nkIgu0p-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nkIgu0p-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8725000000000005'
 
 There's a deal [LEGO 11006 Classic Creative Blue Bricks Learning Starter Set  Preschool Toys for Kids 4+ Year Old](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)  with  29.86 % discount, final price tag of  3.5 GBP (original: 4.99 GBP) here:
 
-[![LEGO 11006 Classic Creative Blue Bricks ](https://m.media-amazon.com/images/I/51nkIgu0p-L._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)
+[![LEGO 11006 Classic Creative Blue Bricks ](https://m.media-amazon.com/images/I/51nkIgu0p-L._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)
 
 ℹ️:
 

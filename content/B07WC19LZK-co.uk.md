@@ -2,7 +2,7 @@
 layout: post
 title: '24.94 % deal for LEGO 10926 DUPLO Town Bedroom Playable D'
 date: 2020-08-26 17:21:58
-image: 'https://m.media-amazon.com/images/I/51+Cn3PNqoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+Cn3PNqoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.366666666666666'
 
 There's a deal [LEGO 10926 DUPLO Town Bedroom Playable Dolls House Box for Toddlers 2+ Year Old  Large Bricks Learning Toy](https://www.amazon.co.uk/dp/B07WC19LZK/?tag=tolees0a-21)  with  24.94 % discount, final price tag of  9.75 GBP (original: 12.99 GBP) here:
 
-[![LEGO 10926 DUPLO Town Bedroom Playable D](https://m.media-amazon.com/images/I/51+Cn3PNqoL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07WC19LZK/?tag=tolees0a-21)
+[![LEGO 10926 DUPLO Town Bedroom Playable D](https://m.media-amazon.com/images/I/51+Cn3PNqoL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07WC19LZK/?tag=tolees0a-21)
 
 ℹ️:
 

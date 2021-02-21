@@ -2,7 +2,7 @@
 layout: post
 title: '37.51 % deal for LEGO Storage Brick 4  Blue'
 date: 2020-04-08 05:07:31
-image: 'https://m.media-amazon.com/images/I/31fZ+pSwDwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fZ+pSwDwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.729999999999997'
 
 There's a deal [LEGO Storage Brick 4  Blue](https://www.amazon.com/dp/B008KQ1T74/?tag=tolees-20)  with  37.51 % discount, final price tag of  19.99 USD (original: 31.99 USD) here:
 
-[![LEGO Storage Brick 4  Blue](https://m.media-amazon.com/images/I/31fZ+pSwDwL._SL200_.jpg)](https://www.amazon.com/dp/B008KQ1T74/?tag=tolees-20)
+[![LEGO Storage Brick 4  Blue](https://m.media-amazon.com/images/I/31fZ+pSwDwL._SL400_.jpg)](https://www.amazon.com/dp/B008KQ1T74/?tag=tolees-20)
 
 ℹ️:
 

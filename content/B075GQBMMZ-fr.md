@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 30.03 % for LEGO DUPLO - Les animaux de la ferme - 1'
 date: 2020-08-13 22:13:21
-image: 'https://m.media-amazon.com/images/I/51V43SUbiOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51V43SUbiOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 You've got [LEGO DUPLO - Les animaux de la ferme - 10870 - Jeu de Construction](https://www.amazon.fr/dp/B075GQBMMZ/?tag=tolees0d-21) with a  30.03 % discount, with final price of 6.99 EUR (original: 9.99 EUR) at the following link:
 
-[![LEGO DUPLO - Les animaux de la ferme - 1](https://m.media-amazon.com/images/I/51V43SUbiOL._SL200_.jpg)](https://www.amazon.fr/dp/B075GQBMMZ/?tag=tolees0d-21)
+[![LEGO DUPLO - Les animaux de la ferme - 1](https://m.media-amazon.com/images/I/51V43SUbiOL._SL400_.jpg)](https://www.amazon.fr/dp/B075GQBMMZ/?tag=tolees0d-21)
 
 ℹ️:
 

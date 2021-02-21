@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 30.02 % for LEGO 70663 Spinjitzu Nya and Wu Ninja NI'
 date: 2020-01-13 16:33:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Jr4WYVvpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Jr4WYVvpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.19'
 
 You've got [LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO Customisable Spinner Toy Set](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=tolees0a-21) with a  30.02 % discount, with final price of 11.19 GBP (original: 15.99 GBP) at the following link:
 
-[![LEGO 70663 Spinjitzu Nya and Wu Ninja NI](https://images-eu.ssl-images-amazon.com/images/I/51Jr4WYVvpL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=tolees0a-21)
+[![LEGO 70663 Spinjitzu Nya and Wu Ninja NI](https://images-eu.ssl-images-amazon.com/images/I/51Jr4WYVvpL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FNT8XBF/?tag=tolees0a-21)
 
 ℹ️:
 

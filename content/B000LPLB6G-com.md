@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 24.61 % for LEGO Writing System STAR WARS C-3PO C3PO'
 date: 2020-03-24 12:53:56
-image: 'https://m.media-amazon.com/images/I/41bQocbnXzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bQocbnXzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.07'
 
 You've got [LEGO Writing System STAR WARS C-3PO C3PO Pen](https://www.amazon.com/dp/B000LPLB6G/?tag=tolees-20) with a  24.61 % discount, with final price of 15.07 USD (original: 19.99 USD) at the following link:
 
-[![LEGO Writing System STAR WARS C-3PO C3PO](https://m.media-amazon.com/images/I/41bQocbnXzL._SL200_.jpg)](https://www.amazon.com/dp/B000LPLB6G/?tag=tolees-20)
+[![LEGO Writing System STAR WARS C-3PO C3PO](https://m.media-amazon.com/images/I/41bQocbnXzL._SL400_.jpg)](https://www.amazon.com/dp/B000LPLB6G/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 56.93 % for LEGO 30523 Batman Movie The Joker Battle'
 date: 2020-04-16 17:06:53
-image: 'https://m.media-amazon.com/images/I/51iWgfauydL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iWgfauydL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.998666666666665'
 
 You've got [LEGO 30523 Batman Movie The Joker Battle Training polybag Mini Set](https://www.amazon.com/dp/B01MU59EOO/?tag=tolees-20) with a  56.93 % discount, with final price of 8.61 USD (original: 19.99 USD) at the following link:
 
-[![LEGO 30523 Batman Movie The Joker Battle](https://m.media-amazon.com/images/I/51iWgfauydL._SL200_.jpg)](https://www.amazon.com/dp/B01MU59EOO/?tag=tolees-20)
+[![LEGO 30523 Batman Movie The Joker Battle](https://m.media-amazon.com/images/I/51iWgfauydL._SL400_.jpg)](https://www.amazon.com/dp/B01MU59EOO/?tag=tolees-20)
 
 ℹ️:
 

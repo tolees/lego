@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 25.37 % for LEGO Fantastic Beasts - Maleta de Criatu'
 date: 2020-03-20 06:44:32
-image: 'https://m.media-amazon.com/images/I/51QKeKclw1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QKeKclw1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.515'
 
 You've got [LEGO Fantastic Beasts - Maleta de Criaturas Mágicas de Newt  Juguete de Construcción Inspirado en Animales Fantásticos  75952 ](https://www.amazon.es/dp/B0792RMHLN/?tag=tolees-21) with a  25.37 % discount, with final price of 41.04 EUR (original: 54.99 EUR) at the following link:
 
-[![LEGO Fantastic Beasts - Maleta de Criatu](https://m.media-amazon.com/images/I/51QKeKclw1L._SL200_.jpg)](https://www.amazon.es/dp/B0792RMHLN/?tag=tolees-21)
+[![LEGO Fantastic Beasts - Maleta de Criatu](https://m.media-amazon.com/images/I/51QKeKclw1L._SL400_.jpg)](https://www.amazon.es/dp/B0792RMHLN/?tag=tolees-21)
 
 ℹ️:
 

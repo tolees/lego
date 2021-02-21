@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Lights IQLGL-KE95 Star Wars Episode at 29.57 % discount'
 date: 2020-04-07 12:48:11
-image: 'https://m.media-amazon.com/images/I/41bPkJY-wXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bPkJY-wXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.327692307692308'
 
 With a final price of 8.05 GBP (original: 11.43 GBP) you can find [LEGO Lights IQLGL-KE95 Star Wars Episode VII Poe Dameron Key Light](https://www.amazon.co.uk/dp/B01EL6HM3Q/?tag=tolees0a-21) with a  29.57 % discount here:
 
-[![LEGO Lights IQLGL-KE95 Star Wars Episode](https://m.media-amazon.com/images/I/41bPkJY-wXL._SL200_.jpg)](https://www.amazon.co.uk/dp/B01EL6HM3Q/?tag=tolees0a-21)
+[![LEGO Lights IQLGL-KE95 Star Wars Episode](https://m.media-amazon.com/images/I/41bPkJY-wXL._SL400_.jpg)](https://www.amazon.co.uk/dp/B01EL6HM3Q/?tag=tolees0a-21)
 
 ℹ️:
 

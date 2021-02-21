@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO DUPLO Disney Pixar Toy Story Train  at 20.01 % discount'
 date: 2020-04-17 16:19:13
-image: 'https://m.media-amazon.com/images/I/51v7BC+mURL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51v7BC+mURL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO DUPLO Disney Pixar Toy Story Train 10894 Perfect for Preschoolers  Toddler Train Set includes Toy Story Character favorites Buzz Lightyear and Woody  21 Pieces ](https://www.amazon.com/dp/B07GXY6JKP/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO DUPLO Disney Pixar Toy Story Train ](https://m.media-amazon.com/images/I/51v7BC+mURL._SL200_.jpg)](https://www.amazon.com/dp/B07GXY6JKP/?tag=tolees-20)
+[![LEGO DUPLO Disney Pixar Toy Story Train ](https://m.media-amazon.com/images/I/51v7BC+mURL._SL400_.jpg)](https://www.amazon.com/dp/B07GXY6JKP/?tag=tolees-20)
 
 ℹ️:
 

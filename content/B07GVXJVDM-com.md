@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO City Great Vehicles Garbage Truck 6 at 20.01 % discount'
 date: 2020-04-16 16:50:25
-image: 'https://m.media-amazon.com/images/I/51PJUB38HUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PJUB38HUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.169999999999998'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO City Great Vehicles Garbage Truck 60220 Building Kit  90 Pieces ](https://www.amazon.com/dp/B07GVXJVDM/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO City Great Vehicles Garbage Truck 6](https://m.media-amazon.com/images/I/51PJUB38HUL._SL200_.jpg)](https://www.amazon.com/dp/B07GVXJVDM/?tag=tolees-20)
+[![LEGO City Great Vehicles Garbage Truck 6](https://m.media-amazon.com/images/I/51PJUB38HUL._SL400_.jpg)](https://www.amazon.com/dp/B07GVXJVDM/?tag=tolees-20)
 
 ℹ️:
 

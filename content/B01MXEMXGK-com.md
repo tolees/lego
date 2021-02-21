@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars Chirrut Îmwe 75524 Star W at 39.98 % discount'
 date: 2020-04-16 16:56:01
-image: 'https://m.media-amazon.com/images/I/51u9m8KZGGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51u9m8KZGGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.351666666666663'
 
 With a final price of 15.0 USD (original: 24.99 USD) you can find [LEGO Star Wars Chirrut Îmwe 75524 Star Wars Toy](https://www.amazon.com/dp/B01MXEMXGK/?tag=tolees-20) with a  39.98 % discount here:
 
-[![LEGO Star Wars Chirrut Îmwe 75524 Star W](https://m.media-amazon.com/images/I/51u9m8KZGGL._SL200_.jpg)](https://www.amazon.com/dp/B01MXEMXGK/?tag=tolees-20)
+[![LEGO Star Wars Chirrut Îmwe 75524 Star W](https://m.media-amazon.com/images/I/51u9m8KZGGL._SL400_.jpg)](https://www.amazon.com/dp/B01MXEMXGK/?tag=tolees-20)
 
 ℹ️:
 

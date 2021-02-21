@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % deal for LEGO City Great Vehicles Snow Groomer 60'
 date: 2020-04-17 22:28:41
-image: 'https://m.media-amazon.com/images/I/51HFyIx83ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HFyIx83ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 There's a deal [LEGO City Great Vehicles Snow Groomer 60222 Building Kit  197 Pieces ](https://www.amazon.com/dp/B07GW29P8G/?tag=tolees-20)  with  20.01 % discount, final price tag of  15.99 USD (original: 19.99 USD) here:
 
-[![LEGO City Great Vehicles Snow Groomer 60](https://m.media-amazon.com/images/I/51HFyIx83ML._SL200_.jpg)](https://www.amazon.com/dp/B07GW29P8G/?tag=tolees-20)
+[![LEGO City Great Vehicles Snow Groomer 60](https://m.media-amazon.com/images/I/51HFyIx83ML._SL400_.jpg)](https://www.amazon.com/dp/B07GW29P8G/?tag=tolees-20)
 
 ℹ️:
 

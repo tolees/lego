@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars Galactic Empire Battle Pa at 15.08 % discount'
 date: 2020-04-16 16:56:08
-image: 'https://m.media-amazon.com/images/I/51T4d+3IzlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51T4d+3IzlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.82333333333334'
 
 With a final price of 44.99 USD (original: 52.98 USD) you can find [LEGO Star Wars Galactic Empire Battle Pack 75134](https://www.amazon.com/dp/B01AW1R5Y0/?tag=tolees-20) with a  15.08 % discount here:
 
-[![LEGO Star Wars Galactic Empire Battle Pa](https://m.media-amazon.com/images/I/51T4d+3IzlL._SL200_.jpg)](https://www.amazon.com/dp/B01AW1R5Y0/?tag=tolees-20)
+[![LEGO Star Wars Galactic Empire Battle Pa](https://m.media-amazon.com/images/I/51T4d+3IzlL._SL400_.jpg)](https://www.amazon.com/dp/B01AW1R5Y0/?tag=tolees-20)
 
 ℹ️:
 

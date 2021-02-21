@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO DC Batman: Batman vs The Riddler Ro at 20.02 % discount'
 date: 2020-04-05 04:53:59
-image: 'https://m.media-amazon.com/images/I/517DFFcDQ7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517DFFcDQ7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 With a final price of 7.99 USD (original: 9.99 USD) you can find [LEGO DC Batman: Batman vs The Riddler Robbery 76137 Building Kit  59 Pieces ](https://www.amazon.com/dp/B07Q2N1LVB/?tag=tolees-20) with a  20.02 % discount here:
 
-[![LEGO DC Batman: Batman vs The Riddler Ro](https://m.media-amazon.com/images/I/517DFFcDQ7L._SL200_.jpg)](https://www.amazon.com/dp/B07Q2N1LVB/?tag=tolees-20)
+[![LEGO DC Batman: Batman vs The Riddler Ro](https://m.media-amazon.com/images/I/517DFFcDQ7L._SL400_.jpg)](https://www.amazon.com/dp/B07Q2N1LVB/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO NINJAGO 70669 - Coles Powerbohrer at 26.03 % discount'
 date: 2020-01-29 21:20:06
-image: 'https://m.media-amazon.com/images/I/513FDMo8JhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513FDMo8JhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.80571428571428'
 
 With a final price of 36.98 EUR (original: 49.99 EUR) you can find [LEGO NINJAGO 70669 - Coles Powerbohrer](https://www.amazon.de/dp/B07FNSH9FR/?tag=tolees0ca-21) with a  26.03 % discount here:
 
-[![LEGO NINJAGO 70669 - Coles Powerbohrer](https://m.media-amazon.com/images/I/513FDMo8JhL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07FNSH9FR/?tag=tolees0ca-21)
+[![LEGO NINJAGO 70669 - Coles Powerbohrer](https://m.media-amazon.com/images/I/513FDMo8JhL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07FNSH9FR/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars: The Force Awakens Duel o at 20.01 % discount'
 date: 2020-04-17 22:34:14
-image: 'https://m.media-amazon.com/images/I/51zZQgJPYhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zZQgJPYhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.79'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Star Wars: The Force Awakens Duel on Starkiller Base 75236 Building Kit  191 Pieces ](https://www.amazon.com/dp/B07JMXW2Z1/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO Star Wars: The Force Awakens Duel o](https://m.media-amazon.com/images/I/51zZQgJPYhL._SL200_.jpg)](https://www.amazon.com/dp/B07JMXW2Z1/?tag=tolees-20)
+[![LEGO Star Wars: The Force Awakens Duel o](https://m.media-amazon.com/images/I/51zZQgJPYhL._SL400_.jpg)](https://www.amazon.com/dp/B07JMXW2Z1/?tag=tolees-20)
 
 ℹ️:
 

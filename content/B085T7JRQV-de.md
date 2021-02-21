@@ -2,7 +2,7 @@
 layout: post
 title: '30.28 % deal for Dittzz Technic Auto 919 Hybrid  Sportwag'
 date: 2020-04-08 05:33:39
-image: 'https://m.media-amazon.com/images/I/51KOaKREU5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KOaKREU5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.99'
 
 There's a deal [Dittzz Technic Auto 919 Hybrid  Sportwagen Bauset  1586 Stücke Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085T7JRQV/?tag=tolees0ca-21)  with  30.28 % discount, final price tag of  75.99 EUR (original: 108.99 EUR) here:
 
-[![Dittzz Technic Auto 919 Hybrid  Sportwag](https://m.media-amazon.com/images/I/51KOaKREU5L._SL200_.jpg)](https://www.amazon.de/dp/B085T7JRQV/?tag=tolees0ca-21)
+[![Dittzz Technic Auto 919 Hybrid  Sportwag](https://m.media-amazon.com/images/I/51KOaKREU5L._SL400_.jpg)](https://www.amazon.de/dp/B085T7JRQV/?tag=tolees0ca-21)
 
 ℹ️:
 

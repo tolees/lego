@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 20.01 % for LEGO NINJAGO Jay and Lloyd’s Velocity Ra'
 date: 2020-04-11 23:25:38
-image: 'https://m.media-amazon.com/images/I/51ktuNgEfBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ktuNgEfBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 You've got [LEGO NINJAGO Jay and Lloyd’s Velocity Racers 71709 Building Kit for Kids and Hot Toys  New 2020  322 Pieces ](https://www.amazon.com/dp/B07WD62ZNF/?tag=tolees-20) with a  20.01 % discount, with final price of 23.99 USD (original: 29.99 USD) at the following link:
 
-[![LEGO NINJAGO Jay and Lloyd’s Velocity Ra](https://m.media-amazon.com/images/I/51ktuNgEfBL._SL200_.jpg)](https://www.amazon.com/dp/B07WD62ZNF/?tag=tolees-20)
+[![LEGO NINJAGO Jay and Lloyd’s Velocity Ra](https://m.media-amazon.com/images/I/51ktuNgEfBL._SL400_.jpg)](https://www.amazon.com/dp/B07WD62ZNF/?tag=tolees-20)
 
 ℹ️:
 

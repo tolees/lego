@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars - Scout Trooper y Speeder at 15.60 % discount'
 date: 2020-05-11 10:10:51
-image: 'https://m.media-amazon.com/images/I/51FGHJjYZeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FGHJjYZeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.197500000000005'
 
 With a final price of 50.63 EUR (original: 59.99 EUR) you can find [LEGO Star Wars - Scout Trooper y Speeder Bike  75532  Juego de construcción](https://www.amazon.es/dp/B06WVBM8Z2/?tag=tolees-21) with a  15.60 % discount here:
 
-[![LEGO Star Wars - Scout Trooper y Speeder](https://m.media-amazon.com/images/I/51FGHJjYZeL._SL200_.jpg)](https://www.amazon.es/dp/B06WVBM8Z2/?tag=tolees-21)
+[![LEGO Star Wars - Scout Trooper y Speeder](https://m.media-amazon.com/images/I/51FGHJjYZeL._SL400_.jpg)](https://www.amazon.es/dp/B06WVBM8Z2/?tag=tolees-21)
 
 ℹ️:
 

@@ -1,40 +1,40 @@
 ---
 layout: post
-title: 'Discount of 18.60 % for LEGO Star Wars - Casco de Boba Fett  Set'
-date: 2021-02-07 16:32:17
-image: 'https://m.media-amazon.com/images/I/51RRxz9+ksL._SL200_.jpg'
+title: 'Discount of 27.85 % for LEGO Star Wars - Casco de Boba Fett  Set'
+date: 2021-02-21 22:35:57
+image: 'https://m.media-amazon.com/images/I/51RRxz9+ksL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07XFXZ4B7-es LEGO Star Wars - Casco de Boba Fett Set de Construcción...'
 sku: 'B07XFXZ4B7-es'
 tags: [ 'lego', ]
-actualPrice: 52.9 EUR
+actualPrice: 46.89 EUR
 currency: EUR
-price: 52.9
+price: 46.89
 comparePrice: 64.99 EUR
 prodname: 'LEGO Star Wars - Casco de Boba Fett  Set de Construcción Coleccionable del Caza Recompensas de la Guerra de las Galaxias  75277 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21'
-descuento: '18.60'
-average: '57.8237254901964'
+descuento: '27.85'
+average: '58.1936842105267'
 ---
 
-You've got [LEGO Star Wars - Casco de Boba Fett  Set de Construcción Coleccionable del Caza Recompensas de la Guerra de las Galaxias  75277 ](https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21) with a  18.60 % discount, with final price of 52.9 EUR (original: 64.99 EUR) at the following link:
+You've got [LEGO Star Wars - Casco de Boba Fett  Set de Construcción Coleccionable del Caza Recompensas de la Guerra de las Galaxias  75277 ](https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21) with a  27.85 % discount, with final price of 46.89 EUR (original: 64.99 EUR) at the following link:
 
-[![LEGO Star Wars - Casco de Boba Fett  Set](https://m.media-amazon.com/images/I/51RRxz9+ksL._SL200_.jpg)](https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21)
+[![LEGO Star Wars - Casco de Boba Fett  Set](https://m.media-amazon.com/images/I/51RRxz9+ksL._SL400_.jpg)](https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21)
 
 ℹ️:
 
-- El Casco de Boba Fett forma parte de una gama de modelos coleccionables LEGO Star Wars para construir y exponer, integrada también por el Casco de Soldado de Asalto (75276): no te lo pierdas
+- No ocupa mucho espacio, pero sus detalles entusiasmarán a cualquier fan de Star Wars
 - Expuesta sobre su base con placa de datos, esta maqueta traerá recuerdos de las trepidantes escenas de la saga Star Wars
 - Rinde homenaje a uno de los cazarrecompensas más aterradores del universo Star Wars y pon a prueba tus habilidades de construcción con LEGO para crear este modelo: el Casco de Boba Fett (75277)
-- El juguete de construcción LEGO Star Wars Casco de Boba Fett mide aproximadamente 18 cm de altura, 11 cm de anchura y 11 cm de profundidad
-- No ocupa mucho espacio, pero sus detalles entusiasmarán a cualquier fan de Star Wars
-- Los genuinos detalles del Casco de Boba Fett se han reproducido con ladrillos LEGO
 - El óptimo regalo de cumpleaños, de Navidad o sorpresa para fans de Star Wars a partir de 18 años y para constructores LEGO con experiencia
 - El Casco de Boba Fett, una versión de 625 piezas del que aparece en Star Wars, plantea un desafiante proyecto de construcción
+- El juguete de construcción LEGO Star Wars Casco de Boba Fett mide aproximadamente 18 cm de altura, 11 cm de anchura y 11 cm de profundidad
+- El Casco de Boba Fett forma parte de una gama de modelos coleccionables LEGO Star Wars para construir y exponer, integrada también por el Casco de Soldado de Asalto (75276): no te lo pierdas
+- Los genuinos detalles del Casco de Boba Fett se han reproducido con ladrillos LEGO
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21)

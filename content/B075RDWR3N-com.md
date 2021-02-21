@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 20.01 % for LEGO Minecraft The Chicken Coop 21140 Bu'
 date: 2020-04-17 22:11:28
-image: 'https://m.media-amazon.com/images/I/51+XDWwPvrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+XDWwPvrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.945'
 
 You've got [LEGO Minecraft The Chicken Coop 21140 Building Kit  198 Pieces ](https://www.amazon.com/dp/B075RDWR3N/?tag=tolees-20) with a  20.01 % discount, with final price of 15.99 USD (original: 19.99 USD) at the following link:
 
-[![LEGO Minecraft The Chicken Coop 21140 Bu](https://m.media-amazon.com/images/I/51+XDWwPvrL._SL200_.jpg)](https://www.amazon.com/dp/B075RDWR3N/?tag=tolees-20)
+[![LEGO Minecraft The Chicken Coop 21140 Bu](https://m.media-amazon.com/images/I/51+XDWwPvrL._SL400_.jpg)](https://www.amazon.com/dp/B075RDWR3N/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 20.01 % for LEGO Minecraft The Nether Portal 21143 B'
 date: 2020-04-08 12:36:30
-image: 'https://m.media-amazon.com/images/I/51IRacdwF2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IRacdwF2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 You've got [LEGO Minecraft The Nether Portal 21143 Building Kit  470 Pieces ](https://www.amazon.com/dp/B075RFBKNX/?tag=tolees-20) with a  20.01 % discount, with final price of 31.99 USD (original: 39.99 USD) at the following link:
 
-[![LEGO Minecraft The Nether Portal 21143 B](https://m.media-amazon.com/images/I/51IRacdwF2L._SL200_.jpg)](https://www.amazon.com/dp/B075RFBKNX/?tag=tolees-20)
+[![LEGO Minecraft The Nether Portal 21143 B](https://m.media-amazon.com/images/I/51IRacdwF2L._SL400_.jpg)](https://www.amazon.com/dp/B075RFBKNX/?tag=tolees-20)
 
 ℹ️:
 

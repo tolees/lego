@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 41.45 % for LEGO Storage Brick 4  Yellow'
 date: 2020-04-07 12:56:06
-image: 'https://m.media-amazon.com/images/I/31yjLbQsCcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yjLbQsCcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.73'
 
 You've got [LEGO Storage Brick 4  Yellow](https://www.amazon.com/dp/B008KQ1TQU/?tag=tolees-20) with a  41.45 % discount, with final price of 18.73 USD (original: 31.99 USD) at the following link:
 
-[![LEGO Storage Brick 4  Yellow](https://m.media-amazon.com/images/I/31yjLbQsCcL._SL200_.jpg)](https://www.amazon.com/dp/B008KQ1TQU/?tag=tolees-20)
+[![LEGO Storage Brick 4  Yellow](https://m.media-amazon.com/images/I/31yjLbQsCcL._SL400_.jpg)](https://www.amazon.com/dp/B008KQ1TQU/?tag=tolees-20)
 
 ℹ️:
 

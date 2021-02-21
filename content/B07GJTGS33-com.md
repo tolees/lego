@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Star Wars Poly Top Flannel Pants Bo at 25.01 % discount'
 date: 2020-03-23 20:57:01
-image: 'https://m.media-amazon.com/images/I/41urqMkdIKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41urqMkdIKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 With a final price of 14.99 USD (original: 19.99 USD) you can find [Lego Star Wars Poly Top Flannel Pants Boys 2 piece Pajamas Set  8  Grey/Multi ](https://www.amazon.com/dp/B07GJTGS33/?tag=tolees-20) with a  25.01 % discount here:
 
-[![Lego Star Wars Poly Top Flannel Pants Bo](https://m.media-amazon.com/images/I/41urqMkdIKL._SL200_.jpg)](https://www.amazon.com/dp/B07GJTGS33/?tag=tolees-20)
+[![Lego Star Wars Poly Top Flannel Pants Bo](https://m.media-amazon.com/images/I/41urqMkdIKL._SL400_.jpg)](https://www.amazon.com/dp/B07GJTGS33/?tag=tolees-20)
 
 ℹ️:
 

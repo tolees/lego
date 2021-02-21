@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 70681 NINJAGO Spinjitzu Slam - Jay  at 33.26 % discount'
 date: 2020-07-08 05:06:55
-image: 'https://m.media-amazon.com/images/I/51GTGgrCNQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GTGgrCNQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.0'
 
 With a final price of 6.0 GBP (original: 8.99 GBP) you can find [LEGO 70681 NINJAGO Spinjitzu Slam - Jay  Tornado Spinner Launcher and Shooter Set  Action Toys for Boys and Girls](https://www.amazon.co.uk/dp/B07KTVSXLY/?tag=tolees0a-21) with a  33.26 % discount here:
 
-[![LEGO 70681 NINJAGO Spinjitzu Slam - Jay ](https://m.media-amazon.com/images/I/51GTGgrCNQL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTVSXLY/?tag=tolees0a-21)
+[![LEGO 70681 NINJAGO Spinjitzu Slam - Jay ](https://m.media-amazon.com/images/I/51GTGgrCNQL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07KTVSXLY/?tag=tolees0a-21)
 
 ℹ️:
 

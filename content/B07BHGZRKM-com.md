@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO DUPLO Minnie’s Birthday Party 10873 at 20.01 % discount'
 date: 2020-04-17 22:21:34
-image: 'https://m.media-amazon.com/images/I/61LIOGLl6qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61LIOGLl6qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO DUPLO Minnie’s Birthday Party 10873 Building Blocks  21 Pieces ](https://www.amazon.com/dp/B07BHGZRKM/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO DUPLO Minnie’s Birthday Party 10873](https://m.media-amazon.com/images/I/61LIOGLl6qL._SL200_.jpg)](https://www.amazon.com/dp/B07BHGZRKM/?tag=tolees-20)
+[![LEGO DUPLO Minnie’s Birthday Party 10873](https://m.media-amazon.com/images/I/61LIOGLl6qL._SL400_.jpg)](https://www.amazon.com/dp/B07BHGZRKM/?tag=tolees-20)
 
 ℹ️:
 

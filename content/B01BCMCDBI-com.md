@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars: The Force Awakens at 33.57 % discount'
 date: 2020-04-09 23:54:57
-image: 'https://m.media-amazon.com/images/I/51UJw4rFoIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UJw4rFoIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.49'
 
 With a final price of 13.28 USD (original: 19.99 USD) you can find [LEGO Star Wars: The Force Awakens](https://www.amazon.com/dp/B01BCMCDBI/?tag=tolees-20) with a  33.57 % discount here:
 
-[![LEGO Star Wars: The Force Awakens](https://m.media-amazon.com/images/I/51UJw4rFoIL._SL200_.jpg)](https://www.amazon.com/dp/B01BCMCDBI/?tag=tolees-20)
+[![LEGO Star Wars: The Force Awakens](https://m.media-amazon.com/images/I/51UJw4rFoIL._SL400_.jpg)](https://www.amazon.com/dp/B01BCMCDBI/?tag=tolees-20)
 
 ℹ️:
 

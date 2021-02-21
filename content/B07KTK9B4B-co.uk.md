@@ -2,7 +2,7 @@
 layout: post
 title: '28.01 % deal for LEGO 41362 Friends Heartlake City Superm'
 date: 2020-08-19 07:39:17
-image: 'https://m.media-amazon.com/images/I/511Z3BPYdiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511Z3BPYdiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.00545454545454'
 
 There's a deal [LEGO 41362 Friends Heartlake City Supermarket Grocery Store Set  Toy for 4 Year Old Girl and Boy with Buildable Toy Car](https://www.amazon.co.uk/dp/B07KTK9B4B/?tag=tolees0a-21)  with  28.01 % discount, final price tag of  17.99 GBP (original: 24.99 GBP) here:
 
-[![LEGO 41362 Friends Heartlake City Superm](https://m.media-amazon.com/images/I/511Z3BPYdiL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07KTK9B4B/?tag=tolees0a-21)
+[![LEGO 41362 Friends Heartlake City Superm](https://m.media-amazon.com/images/I/511Z3BPYdiL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07KTK9B4B/?tag=tolees0a-21)
 
 ℹ️:
 

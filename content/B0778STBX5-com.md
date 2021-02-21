@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 40.02 % for LEGO Brick Drawer  4 Knobs  1 Drawer  St'
 date: 2020-04-06 04:54:28
-image: 'https://m.media-amazon.com/images/I/31p5XC0U8ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31p5XC0U8ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 You've got [LEGO Brick Drawer  4 Knobs  1 Drawer  Stackable Storage Box  Bright Red](https://www.amazon.com/dp/B0778STBX5/?tag=tolees-20) with a  40.02 % discount, with final price of 14.99 USD (original: 24.99 USD) at the following link:
 
-[![LEGO Brick Drawer  4 Knobs  1 Drawer  St](https://m.media-amazon.com/images/I/31p5XC0U8ML._SL200_.jpg)](https://www.amazon.com/dp/B0778STBX5/?tag=tolees-20)
+[![LEGO Brick Drawer  4 Knobs  1 Drawer  St](https://m.media-amazon.com/images/I/31p5XC0U8ML._SL400_.jpg)](https://www.amazon.com/dp/B0778STBX5/?tag=tolees-20)
 
 ℹ️:
 

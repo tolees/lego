@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % deal for LEGO | Disney Pixar’s Toy Story 4 Carniv'
 date: 2020-04-17 22:38:19
-image: 'https://m.media-amazon.com/images/I/51M9a4H7xtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M9a4H7xtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 There's a deal [LEGO | Disney Pixar’s Toy Story 4 Carnival Thrill Coaster 10771 Building Kit  98 Pieces ](https://www.amazon.com/dp/B07MDL3N1Z/?tag=tolees-20)  with  20.01 % discount, final price tag of  15.99 USD (original: 19.99 USD) here:
 
-[![LEGO | Disney Pixar’s Toy Story 4 Carniv](https://m.media-amazon.com/images/I/51M9a4H7xtL._SL200_.jpg)](https://www.amazon.com/dp/B07MDL3N1Z/?tag=tolees-20)
+[![LEGO | Disney Pixar’s Toy Story 4 Carniv](https://m.media-amazon.com/images/I/51M9a4H7xtL._SL400_.jpg)](https://www.amazon.com/dp/B07MDL3N1Z/?tag=tolees-20)
 
 ℹ️:
 

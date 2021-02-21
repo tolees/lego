@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars - Supreme Leader Snoke wi at 60.04 % discount'
 date: 2020-04-16 16:55:58
-image: 'https://m.media-amazon.com/images/I/41E+epM6LZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E+epM6LZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.93375'
 
 With a final price of 6.39 USD (original: 15.99 USD) you can find [LEGO Star Wars - Supreme Leader Snoke with Palpatine Hologram](https://www.amazon.com/dp/B075B1G2B4/?tag=tolees-20) with a  60.04 % discount here:
 
-[![LEGO Star Wars - Supreme Leader Snoke wi](https://m.media-amazon.com/images/I/41E+epM6LZL._SL200_.jpg)](https://www.amazon.com/dp/B075B1G2B4/?tag=tolees-20)
+[![LEGO Star Wars - Supreme Leader Snoke wi](https://m.media-amazon.com/images/I/41E+epM6LZL._SL400_.jpg)](https://www.amazon.com/dp/B075B1G2B4/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Harry Potter Collection - PlayStati at 20.01 % discount'
 date: 2020-04-16 07:54:51
-image: 'https://m.media-amazon.com/images/I/51qjjSwkGQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qjjSwkGQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.39'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Harry Potter Collection - PlayStation 4](https://www.amazon.com/dp/B01LPO6WF6/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO Harry Potter Collection - PlayStati](https://m.media-amazon.com/images/I/51qjjSwkGQL._SL200_.jpg)](https://www.amazon.com/dp/B01LPO6WF6/?tag=tolees-20)
+[![LEGO Harry Potter Collection - PlayStati](https://m.media-amazon.com/images/I/51qjjSwkGQL._SL400_.jpg)](https://www.amazon.com/dp/B01LPO6WF6/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 25.16 % for The LEGO Movie Videogame - Nintendo 3DS '
 date: 2020-04-09 07:18:20
-image: 'https://m.media-amazon.com/images/I/615Bu6mThTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/615Bu6mThTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.96'
 
 You've got [The LEGO Movie Videogame - Nintendo 3DS Standard Edition](https://www.amazon.com/dp/B00ECOAX3O/?tag=tolees-20) with a  25.16 % discount, with final price of 14.96 USD (original: 19.99 USD) at the following link:
 
-[![The LEGO Movie Videogame - Nintendo 3DS ](https://m.media-amazon.com/images/I/615Bu6mThTL._SL200_.jpg)](https://www.amazon.com/dp/B00ECOAX3O/?tag=tolees-20)
+[![The LEGO Movie Videogame - Nintendo 3DS ](https://m.media-amazon.com/images/I/615Bu6mThTL._SL400_.jpg)](https://www.amazon.com/dp/B00ECOAX3O/?tag=tolees-20)
 
 ℹ️:
 

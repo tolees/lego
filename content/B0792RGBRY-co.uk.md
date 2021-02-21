@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 26.46 % for LEGO 75951 Harry Potter Fantastic Beasts'
 date: 2020-01-04 08:56:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.422500000000001'
 
 You've got [LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s Escape Carriage Toy  Build and Play Toys for Kids](https://www.amazon.co.uk/dp/B0792RGBRY/?tag=tolees0a-21) with a  26.46 % discount, with final price of 14.7 GBP (original: 19.99 GBP) at the following link:
 
-[![LEGO 75951 Harry Potter Fantastic Beasts](https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL200_.jpg)](https://www.amazon.co.uk/dp/B0792RGBRY/?tag=tolees0a-21)
+[![LEGO 75951 Harry Potter Fantastic Beasts](https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL400_.jpg)](https://www.amazon.co.uk/dp/B0792RGBRY/?tag=tolees0a-21)
 
 ℹ️:
 

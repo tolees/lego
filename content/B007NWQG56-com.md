@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 24.13 % for IQ Lego Star Wars Darth Vader LED Head L'
 date: 2020-04-14 07:39:41
-image: 'https://m.media-amazon.com/images/I/41qStx9xUqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qStx9xUqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.892'
 
 You've got [IQ Lego Star Wars Darth Vader LED Head Lamp](https://www.amazon.com/dp/B007NWQG56/?tag=tolees-20) with a  24.13 % discount, with final price of 12.89 USD (original: 16.99 USD) at the following link:
 
-[![IQ Lego Star Wars Darth Vader LED Head L](https://m.media-amazon.com/images/I/41qStx9xUqL._SL200_.jpg)](https://www.amazon.com/dp/B007NWQG56/?tag=tolees-20)
+[![IQ Lego Star Wars Darth Vader LED Head L](https://m.media-amazon.com/images/I/41qStx9xUqL._SL400_.jpg)](https://www.amazon.com/dp/B007NWQG56/?tag=tolees-20)
 
 ℹ️:
 

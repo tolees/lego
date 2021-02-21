@@ -2,7 +2,7 @@
 layout: post
 title: '43.04 % deal for LEGO Star Wars - R4-P17 Astromech Droid '
 date: 2020-04-14 07:40:24
-image: 'https://m.media-amazon.com/images/I/41ec0CghlkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ec0CghlkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.69'
 
 There's a deal [LEGO Star Wars - R4-P17 Astromech Droid Minifig](https://www.amazon.com/dp/B0799SBQ7B/?tag=tolees-20)  with  43.04 % discount, final price tag of  5.69 USD (original: 9.99 USD) here:
 
-[![LEGO Star Wars - R4-P17 Astromech Droid ](https://m.media-amazon.com/images/I/41ec0CghlkL._SL200_.jpg)](https://www.amazon.com/dp/B0799SBQ7B/?tag=tolees-20)
+[![LEGO Star Wars - R4-P17 Astromech Droid ](https://m.media-amazon.com/images/I/41ec0CghlkL._SL400_.jpg)](https://www.amazon.com/dp/B0799SBQ7B/?tag=tolees-20)
 
 ℹ️:
 

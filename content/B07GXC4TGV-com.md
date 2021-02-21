@@ -2,7 +2,7 @@
 layout: post
 title: '26.01 % deal for LEGO THE LEGO MOVIE 2 Escape Buggy 70829'
 date: 2020-03-28 12:53:00
-image: 'https://m.media-amazon.com/images/I/51N7Ep1WXwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51N7Ep1WXwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 There's a deal [LEGO THE LEGO MOVIE 2 Escape Buggy 70829 Building Kit  Build and Play Toy Car with Action Heroes  550 Pieces ](https://www.amazon.com/dp/B07GXC4TGV/?tag=tolees-20)  with  26.01 % discount, final price tag of  36.99 USD (original: 49.99 USD) here:
 
-[![LEGO THE LEGO MOVIE 2 Escape Buggy 70829](https://m.media-amazon.com/images/I/51N7Ep1WXwL._SL200_.jpg)](https://www.amazon.com/dp/B07GXC4TGV/?tag=tolees-20)
+[![LEGO THE LEGO MOVIE 2 Escape Buggy 70829](https://m.media-amazon.com/images/I/51N7Ep1WXwL._SL400_.jpg)](https://www.amazon.com/dp/B07GXC4TGV/?tag=tolees-20)
 
 ℹ️:
 

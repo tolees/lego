@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 39.17 % for LEGO Friends - Espectáculo de Talentos d'
 date: 2020-04-16 18:12:55
-image: 'https://m.media-amazon.com/images/I/510V2fWbCnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510V2fWbCnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.07000000000001'
 
 You've got [LEGO Friends - Espectáculo de Talentos de Andrea  set creativo e imaginativo con escenario de conciertos e instrumentos de juguete  41368 ](https://www.amazon.es/dp/B07FNT8XCD/?tag=tolees-21) with a  39.17 % discount, with final price of 33.45 EUR (original: 54.99 EUR) at the following link:
 
-[![LEGO Friends - Espectáculo de Talentos d](https://m.media-amazon.com/images/I/510V2fWbCnL._SL200_.jpg)](https://www.amazon.es/dp/B07FNT8XCD/?tag=tolees-21)
+[![LEGO Friends - Espectáculo de Talentos d](https://m.media-amazon.com/images/I/510V2fWbCnL._SL400_.jpg)](https://www.amazon.es/dp/B07FNT8XCD/?tag=tolees-21)
 
 ℹ️:
 

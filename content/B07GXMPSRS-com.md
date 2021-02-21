@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Classic Basic Brick Set 11002 Build at 20.01 % discount'
 date: 2020-04-17 22:29:17
-image: 'https://m.media-amazon.com/images/I/513fLu31wpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513fLu31wpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Classic Basic Brick Set 11002 Building Kit  300 Pieces ](https://www.amazon.com/dp/B07GXMPSRS/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO Classic Basic Brick Set 11002 Build](https://m.media-amazon.com/images/I/513fLu31wpL._SL200_.jpg)](https://www.amazon.com/dp/B07GXMPSRS/?tag=tolees-20)
+[![LEGO Classic Basic Brick Set 11002 Build](https://m.media-amazon.com/images/I/513fLu31wpL._SL400_.jpg)](https://www.amazon.com/dp/B07GXMPSRS/?tag=tolees-20)
 
 ℹ️:
 

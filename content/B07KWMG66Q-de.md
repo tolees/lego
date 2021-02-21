@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Jungen CM-50316-T-SHIRT L/S Langarm at 18.10 % discount'
 date: 2020-01-26 18:01:31
-image: 'https://m.media-amazon.com/images/I/41sJnFaYuYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sJnFaYuYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.32'
 
 With a final price of 9.32 EUR (original: 11.38 EUR) you can find [LEGO Jungen CM-50316-T-SHIRT L/S Langarmshirt  Grün  Green 866    Herstellergröße: 128 ](https://www.amazon.de/dp/B07KWMG66Q/?tag=tolees0ca-21) with a  18.10 % discount here:
 
-[![LEGO Jungen CM-50316-T-SHIRT L/S Langarm](https://m.media-amazon.com/images/I/41sJnFaYuYL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07KWMG66Q/?tag=tolees0ca-21)
+[![LEGO Jungen CM-50316-T-SHIRT L/S Langarm](https://m.media-amazon.com/images/I/41sJnFaYuYL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07KWMG66Q/?tag=tolees0ca-21)
 
 ℹ️:
 

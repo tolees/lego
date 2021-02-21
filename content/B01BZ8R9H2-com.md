@@ -2,7 +2,7 @@
 layout: post
 title: '16.64 % deal for LEGO Star Wars Minifigure - Boba Fett Bo'
 date: 2020-04-10 23:18:56
-image: 'https://m.media-amazon.com/images/I/41xhkvcYlqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xhkvcYlqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.5'
 
 There's a deal [LEGO Star Wars Minifigure - Boba Fett Bounty Hunter with Blaster Gun](https://www.amazon.com/dp/B01BZ8R9H2/?tag=tolees-20)  with  16.64 % discount, final price tag of  25.0 USD (original: 29.99 USD) here:
 
-[![LEGO Star Wars Minifigure - Boba Fett Bo](https://m.media-amazon.com/images/I/41xhkvcYlqL._SL200_.jpg)](https://www.amazon.com/dp/B01BZ8R9H2/?tag=tolees-20)
+[![LEGO Star Wars Minifigure - Boba Fett Bo](https://m.media-amazon.com/images/I/41xhkvcYlqL._SL400_.jpg)](https://www.amazon.com/dp/B01BZ8R9H2/?tag=tolees-20)
 
 ℹ️:
 

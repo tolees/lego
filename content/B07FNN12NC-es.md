@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Friends - Aventura en el Bosque de  at 54.50 % discount'
 date: 2020-04-13 08:28:25
-image: 'https://m.media-amazon.com/images/I/51nWZs9uggL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nWZs9uggL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.452307692307693'
 
 With a final price of 6.82 EUR (original: 14.99 EUR) you can find [LEGO Friends - Aventura en el Bosque de Mia  juguete creativo de construcción de aventuras con patinete y animales  41363 ](https://www.amazon.es/dp/B07FNN12NC/?tag=tolees-21) with a  54.50 % discount here:
 
-[![LEGO Friends - Aventura en el Bosque de ](https://m.media-amazon.com/images/I/51nWZs9uggL._SL200_.jpg)](https://www.amazon.es/dp/B07FNN12NC/?tag=tolees-21)
+[![LEGO Friends - Aventura en el Bosque de ](https://m.media-amazon.com/images/I/51nWZs9uggL._SL400_.jpg)](https://www.amazon.es/dp/B07FNN12NC/?tag=tolees-21)
 
 ℹ️:
 

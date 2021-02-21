@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % deal for LEGO Classic Creative Bricks 10692 Build'
 date: 2020-04-14 07:34:20
-image: 'https://m.media-amazon.com/images/I/51qng6vJdhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qng6vJdhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.59'
 
 There's a deal [LEGO Classic Creative Bricks 10692 Building Blocks  Learning Toy  221 Pieces ](https://www.amazon.com/dp/B00NHQFA5E/?tag=tolees-20)  with  20.01 % discount, final price tag of  13.59 USD (original: 16.99 USD) here:
 
-[![LEGO Classic Creative Bricks 10692 Build](https://m.media-amazon.com/images/I/51qng6vJdhL._SL200_.jpg)](https://www.amazon.com/dp/B00NHQFA5E/?tag=tolees-20)
+[![LEGO Classic Creative Bricks 10692 Build](https://m.media-amazon.com/images/I/51qng6vJdhL._SL400_.jpg)](https://www.amazon.com/dp/B00NHQFA5E/?tag=tolees-20)
 
 ℹ️:
 

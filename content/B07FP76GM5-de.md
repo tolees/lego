@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Creator 31093 - Hausboot at 18.67 % discount'
 date: 2020-02-15 09:19:11
-image: 'https://m.media-amazon.com/images/I/51qH+KtEeOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qH+KtEeOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.036923076923074'
 
 With a final price of 24.39 EUR (original: 29.99 EUR) you can find [LEGO Creator 31093 - Hausboot](https://www.amazon.de/dp/B07FP76GM5/?tag=tolees0ca-21) with a  18.67 % discount here:
 
-[![LEGO Creator 31093 - Hausboot](https://m.media-amazon.com/images/I/51qH+KtEeOL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07FP76GM5/?tag=tolees0ca-21)
+[![LEGO Creator 31093 - Hausboot](https://m.media-amazon.com/images/I/51qH+KtEeOL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07FP76GM5/?tag=tolees0ca-21)
 
 ℹ️:
 

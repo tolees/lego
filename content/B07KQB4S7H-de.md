@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 26.86 % for The Lego Movie 2 70838 Königin Wasimma S'
 date: 2020-08-25 12:28:18
-image: 'https://m.media-amazon.com/images/I/51CrkvjpGwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CrkvjpGwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.48133333333334'
 
 You've got [The Lego Movie 2 70838 Königin Wasimma Si Willis gar nicht böser Space-Tempel  Bauset](https://www.amazon.de/dp/B07KQB4S7H/?tag=tolees0ca-21) with a  26.86 % discount, with final price of 73.13 EUR (original: 99.99 EUR) at the following link:
 
-[![The Lego Movie 2 70838 Königin Wasimma S](https://m.media-amazon.com/images/I/51CrkvjpGwL._SL200_.jpg)](https://www.amazon.de/dp/B07KQB4S7H/?tag=tolees0ca-21)
+[![The Lego Movie 2 70838 Königin Wasimma S](https://m.media-amazon.com/images/I/51CrkvjpGwL._SL400_.jpg)](https://www.amazon.de/dp/B07KQB4S7H/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 27.19 % for LEGO DUPLO - Gran Zona de Juegos  10864 '
 date: 2020-03-24 22:28:36
-image: 'https://m.media-amazon.com/images/I/51VOctyL6aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VOctyL6aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.94'
 
 You've got [LEGO DUPLO - Gran Zona de Juegos  10864 ](https://www.amazon.es/dp/B075GQBMMV/?tag=tolees-21) with a  27.19 % discount, with final price of 36.4 EUR (original: 49.99 EUR) at the following link:
 
-[![LEGO DUPLO - Gran Zona de Juegos  10864 ](https://m.media-amazon.com/images/I/51VOctyL6aL._SL200_.jpg)](https://www.amazon.es/dp/B075GQBMMV/?tag=tolees-21)
+[![LEGO DUPLO - Gran Zona de Juegos  10864 ](https://m.media-amazon.com/images/I/51VOctyL6aL._SL400_.jpg)](https://www.amazon.es/dp/B075GQBMMV/?tag=tolees-21)
 
 ℹ️:
 

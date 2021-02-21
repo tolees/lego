@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Super Heroes - Harley Quinn al Resc at 26.98 % discount'
 date: 2020-03-28 18:58:22
-image: 'https://m.media-amazon.com/images/I/61FgG6nnrKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61FgG6nnrKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.445'
 
 With a final price of 21.9 EUR (original: 29.99 EUR) you can find [LEGO Super Heroes - Harley Quinn al Rescate  41231 ](https://www.amazon.es/dp/B01J41F4CE/?tag=tolees-21) with a  26.98 % discount here:
 
-[![LEGO Super Heroes - Harley Quinn al Resc](https://m.media-amazon.com/images/I/61FgG6nnrKL._SL200_.jpg)](https://www.amazon.es/dp/B01J41F4CE/?tag=tolees-21)
+[![LEGO Super Heroes - Harley Quinn al Resc](https://m.media-amazon.com/images/I/61FgG6nnrKL._SL400_.jpg)](https://www.amazon.es/dp/B01J41F4CE/?tag=tolees-21)
 
 ℹ️:
 

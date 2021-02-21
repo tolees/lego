@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 37.78 % for LEGO Disney Pixar s The Incredibles - Ni'
 date: 2020-04-17 00:24:17
-image: 'https://m.media-amazon.com/images/I/514EKy26qUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514EKy26qUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.619999999999997'
 
 You've got [LEGO Disney Pixar s The Incredibles - Nintendo Switch](https://www.amazon.com/dp/B07BMDG5ZP/?tag=tolees-20) with a  37.78 % discount, with final price of 24.88 USD (original: 39.99 USD) at the following link:
 
-[![LEGO Disney Pixar s The Incredibles - Ni](https://m.media-amazon.com/images/I/514EKy26qUL._SL200_.jpg)](https://www.amazon.com/dp/B07BMDG5ZP/?tag=tolees-20)
+[![LEGO Disney Pixar s The Incredibles - Ni](https://m.media-amazon.com/images/I/514EKy26qUL._SL400_.jpg)](https://www.amazon.com/dp/B07BMDG5ZP/?tag=tolees-20)
 
 ℹ️:
 

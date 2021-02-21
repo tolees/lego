@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 27.03 % for Lego 41383 Friends Olivias Hamster-Spiel'
 date: 2020-03-30 12:26:15
-image: 'https://m.media-amazon.com/images/I/51wg2yHYUSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wg2yHYUSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.585714285714285'
 
 You've got [Lego 41383 Friends Olivias Hamster-Spielplatz  bunt](https://www.amazon.de/dp/B07FP2GRYJ/?tag=tolees0ca-21) with a  27.03 % discount, with final price of 7.29 EUR (original: 9.99 EUR) at the following link:
 
-[![Lego 41383 Friends Olivias Hamster-Spiel](https://m.media-amazon.com/images/I/51wg2yHYUSL._SL200_.jpg)](https://www.amazon.de/dp/B07FP2GRYJ/?tag=tolees0ca-21)
+[![Lego 41383 Friends Olivias Hamster-Spiel](https://m.media-amazon.com/images/I/51wg2yHYUSL._SL400_.jpg)](https://www.amazon.de/dp/B07FP2GRYJ/?tag=tolees0ca-21)
 
 ℹ️:
 

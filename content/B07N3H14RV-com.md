@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 60.02 % for LEGO Movie 2 The Video Game - Xbox One ['
 date: 2020-04-17 00:25:53
-image: 'https://m.media-amazon.com/images/I/51Fx3Q3obgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Fx3Q3obgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 You've got [LEGO Movie 2 The Video Game - Xbox One [Digital Code]](https://www.amazon.com/dp/B07N3H14RV/?tag=tolees-20) with a  60.02 % discount, with final price of 15.99 USD (original: 39.99 USD) at the following link:
 
-[![LEGO Movie 2 The Video Game - Xbox One [](https://m.media-amazon.com/images/I/51Fx3Q3obgL._SL200_.jpg)](https://www.amazon.com/dp/B07N3H14RV/?tag=tolees-20)
+[![LEGO Movie 2 The Video Game - Xbox One [](https://m.media-amazon.com/images/I/51Fx3Q3obgL._SL400_.jpg)](https://www.amazon.com/dp/B07N3H14RV/?tag=tolees-20)
 
 ℹ️:
 

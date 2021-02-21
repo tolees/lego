@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 64.99 % for LEGO Star Wars: The Force Awakens - Play'
 date: 2020-04-09 23:55:01
-image: 'https://m.media-amazon.com/images/I/519xUZw18hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519xUZw18hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.031666666666668'
 
 You've got [LEGO Star Wars: The Force Awakens - PlayStation 3 Standard Edition](https://www.amazon.com/dp/B01BCMBP44/?tag=tolees-20) with a  64.99 % discount, with final price of 14.0 USD (original: 39.99 USD) at the following link:
 
-[![LEGO Star Wars: The Force Awakens - Play](https://m.media-amazon.com/images/I/519xUZw18hL._SL200_.jpg)](https://www.amazon.com/dp/B01BCMBP44/?tag=tolees-20)
+[![LEGO Star Wars: The Force Awakens - Play](https://m.media-amazon.com/images/I/519xUZw18hL._SL400_.jpg)](https://www.amazon.com/dp/B01BCMBP44/?tag=tolees-20)
 
 ℹ️:
 

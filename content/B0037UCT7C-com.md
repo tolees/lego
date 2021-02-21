@@ -2,7 +2,7 @@
 layout: post
 title: '50.53 % deal for LEGO Star Wars III The Clone Wars - Play'
 date: 2020-04-07 04:51:59
-image: 'https://m.media-amazon.com/images/I/51nERA5OpfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nERA5OpfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.92857142857142'
 
 There's a deal [LEGO Star Wars III The Clone Wars - Playstation 3](https://www.amazon.com/dp/B0037UCT7C/?tag=tolees-20)  with  50.53 % discount, final price tag of  9.89 USD (original: 19.99 USD) here:
 
-[![LEGO Star Wars III The Clone Wars - Play](https://m.media-amazon.com/images/I/51nERA5OpfL._SL200_.jpg)](https://www.amazon.com/dp/B0037UCT7C/?tag=tolees-20)
+[![LEGO Star Wars III The Clone Wars - Play](https://m.media-amazon.com/images/I/51nERA5OpfL._SL400_.jpg)](https://www.amazon.com/dp/B0037UCT7C/?tag=tolees-20)
 
 ℹ️:
 

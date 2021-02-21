@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Classic Windows of Creativity 11004 at 20.01 % discount'
 date: 2020-03-28 12:59:46
-image: 'https://m.media-amazon.com/images/I/51jQNoV7jpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jQNoV7jpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Classic Windows of Creativity 11004 Building Kit  450 Pieces ](https://www.amazon.com/dp/B07PX3VGW6/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO Classic Windows of Creativity 11004](https://m.media-amazon.com/images/I/51jQNoV7jpL._SL200_.jpg)](https://www.amazon.com/dp/B07PX3VGW6/?tag=tolees-20)
+[![LEGO Classic Windows of Creativity 11004](https://m.media-amazon.com/images/I/51jQNoV7jpL._SL400_.jpg)](https://www.amazon.com/dp/B07PX3VGW6/?tag=tolees-20)
 
 ℹ️:
 

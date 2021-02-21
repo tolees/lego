@@ -2,7 +2,7 @@
 layout: post
 title: '30.79 % deal for LEGO Collectible Minifigure Series 17 - '
 date: 2020-03-24 20:52:44
-image: 'https://m.media-amazon.com/images/I/41W8l-yLTmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W8l-yLTmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 There's a deal [LEGO Collectible Minifigure Series 17 - French Connoisseur  71018 ](https://www.amazon.com/dp/B071DRSGXX/?tag=tolees-20)  with  30.79 % discount, final price tag of  8.99 USD (original: 12.99 USD) here:
 
-[![LEGO Collectible Minifigure Series 17 - ](https://m.media-amazon.com/images/I/41W8l-yLTmL._SL200_.jpg)](https://www.amazon.com/dp/B071DRSGXX/?tag=tolees-20)
+[![LEGO Collectible Minifigure Series 17 - ](https://m.media-amazon.com/images/I/41W8l-yLTmL._SL400_.jpg)](https://www.amazon.com/dp/B071DRSGXX/?tag=tolees-20)
 
 ℹ️:
 

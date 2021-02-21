@@ -2,7 +2,7 @@
 layout: post
 title: '25.00 % deal for LEGO 75974 Overwatch Bastion Toy with Ga'
 date: 2020-04-16 07:09:28
-image: 'https://m.media-amazon.com/images/I/51t7nosiYlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51t7nosiYlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.93444444444445'
 
 There's a deal [LEGO 75974 Overwatch Bastion Toy with Ganymede Figure](https://www.amazon.co.uk/dp/B07JC3L19N/?tag=tolees0a-21)  with  25.00 % discount, final price tag of  41.24 GBP (original: 54.99 GBP) here:
 
-[![LEGO 75974 Overwatch Bastion Toy with Ga](https://m.media-amazon.com/images/I/51t7nosiYlL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07JC3L19N/?tag=tolees0a-21)
+[![LEGO 75974 Overwatch Bastion Toy with Ga](https://m.media-amazon.com/images/I/51t7nosiYlL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07JC3L19N/?tag=tolees0a-21)
 
 ℹ️:
 

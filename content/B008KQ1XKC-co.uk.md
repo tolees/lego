@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 22.41 % for LEGO Storage Brick With 8 Knobs  in Brig'
 date: 2020-08-23 04:16:56
-image: 'https://m.media-amazon.com/images/I/31LQPou5SgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LQPou5SgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.947678571428575'
 
 You've got [LEGO Storage Brick With 8 Knobs  in Bright Blue](https://www.amazon.co.uk/dp/B008KQ1XKC/?tag=tolees0a-21) with a  22.41 % discount, with final price of 25.94 GBP (original: 33.43 GBP) at the following link:
 
-[![LEGO Storage Brick With 8 Knobs  in Brig](https://m.media-amazon.com/images/I/31LQPou5SgL._SL200_.jpg)](https://www.amazon.co.uk/dp/B008KQ1XKC/?tag=tolees0a-21)
+[![LEGO Storage Brick With 8 Knobs  in Brig](https://m.media-amazon.com/images/I/31LQPou5SgL._SL400_.jpg)](https://www.amazon.co.uk/dp/B008KQ1XKC/?tag=tolees0a-21)
 
 ℹ️:
 

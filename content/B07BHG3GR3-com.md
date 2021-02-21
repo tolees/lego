@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO City Arctic Scout Truck 60194 Build at 31.66 % discount'
 date: 2020-03-18 21:23:48
-image: 'https://m.media-amazon.com/images/I/51pjN-zcqiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pjN-zcqiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.0'
 
 With a final price of 41.0 USD (original: 59.99 USD) you can find [LEGO City Arctic Scout Truck 60194 Building Kit  322 Pieces ](https://www.amazon.com/dp/B07BHG3GR3/?tag=tolees-20) with a  31.66 % discount here:
 
-[![LEGO City Arctic Scout Truck 60194 Build](https://m.media-amazon.com/images/I/51pjN-zcqiL._SL200_.jpg)](https://www.amazon.com/dp/B07BHG3GR3/?tag=tolees-20)
+[![LEGO City Arctic Scout Truck 60194 Build](https://m.media-amazon.com/images/I/51pjN-zcqiL._SL400_.jpg)](https://www.amazon.com/dp/B07BHG3GR3/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 44.56 % for Lego Star Wars Darth Vader Head Lamp [Wi'
 date: 2020-01-29 18:16:59
-image: 'https://m.media-amazon.com/images/I/41pi5M9tWJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pi5M9tWJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.42'
 
 You've got [Lego Star Wars Darth Vader Head Lamp [With Battery]](https://www.amazon.es/dp/B007NWQG56/?tag=tolees-21) with a  44.56 % discount, with final price of 9.42 EUR (original: 16.99 EUR) at the following link:
 
-[![Lego Star Wars Darth Vader Head Lamp [Wi](https://m.media-amazon.com/images/I/41pi5M9tWJL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B007NWQG56/?tag=tolees-21)
+[![Lego Star Wars Darth Vader Head Lamp [Wi](https://m.media-amazon.com/images/I/41pi5M9tWJL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B007NWQG56/?tag=tolees-21)
 
 ℹ️:
 

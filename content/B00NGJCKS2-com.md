@@ -2,7 +2,7 @@
 layout: post
 title: '16.74 % deal for LEGO 42031 Cherry Picker'
 date: 2020-04-11 23:29:54
-image: 'https://m.media-amazon.com/images/I/61q3KIrtFdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61q3KIrtFdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.010000000000005'
 
 There's a deal [LEGO 42031 Cherry Picker](https://www.amazon.com/dp/B00NGJCKS2/?tag=tolees-20)  with  16.74 % discount, final price tag of  49.95 USD (original: 59.99 USD) here:
 
-[![LEGO 42031 Cherry Picker](https://m.media-amazon.com/images/I/61q3KIrtFdL._SL200_.jpg)](https://www.amazon.com/dp/B00NGJCKS2/?tag=tolees-20)
+[![LEGO 42031 Cherry Picker](https://m.media-amazon.com/images/I/61q3KIrtFdL._SL400_.jpg)](https://www.amazon.com/dp/B00NGJCKS2/?tag=tolees-20)
 
 ℹ️:
 

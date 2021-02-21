@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO DISKX14271 Kit Costume  Mask  One S at 83.01 % discount'
 date: 2020-03-06 02:20:30
-image: 'https://m.media-amazon.com/images/I/418EBAFDZ3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418EBAFDZ3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 With a final price of 16.99 GBP (original: 99.99 GBP) you can find [LEGO DISKX14271 Kit Costume  Mask  One Size](https://www.amazon.co.uk/dp/B079ZHWSBL/?tag=tolees0a-21) with a  83.01 % discount here:
 
-[![LEGO DISKX14271 Kit Costume  Mask  One S](https://m.media-amazon.com/images/I/418EBAFDZ3L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B079ZHWSBL/?tag=tolees0a-21)
+[![LEGO DISKX14271 Kit Costume  Mask  One S](https://m.media-amazon.com/images/I/418EBAFDZ3L._AC_._SL400_.jpg)](https://www.amazon.co.uk/dp/B079ZHWSBL/?tag=tolees0a-21)
 
 ℹ️:
 

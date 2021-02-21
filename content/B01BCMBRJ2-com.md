@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 52.23 % for LEGO Star Wars: The Force Awakens - Nint'
 date: 2020-04-09 23:55:25
-image: 'https://m.media-amazon.com/images/I/61VoT8XawqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61VoT8XawqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.51'
 
 You've got [LEGO Star Wars: The Force Awakens - Nintendo 3DS Standard Edition](https://www.amazon.com/dp/B01BCMBRJ2/?tag=tolees-20) with a  52.23 % discount, with final price of 9.55 USD (original: 19.99 USD) at the following link:
 
-[![LEGO Star Wars: The Force Awakens - Nint](https://m.media-amazon.com/images/I/61VoT8XawqL._SL200_.jpg)](https://www.amazon.com/dp/B01BCMBRJ2/?tag=tolees-20)
+[![LEGO Star Wars: The Force Awakens - Nint](https://m.media-amazon.com/images/I/61VoT8XawqL._SL400_.jpg)](https://www.amazon.com/dp/B01BCMBRJ2/?tag=tolees-20)
 
 ℹ️:
 

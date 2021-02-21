@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars 75161 - Microfighter at 45.85 % discount'
 date: 2020-01-03 06:24:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61xWwHLreGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61xWwHLreGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.98625'
 
 With a final price of 5.41 EUR (original: 9.99 EUR) you can find [LEGO Star Wars 75161 - Microfighter](https://www.amazon.de/dp/B01J41KJ4M/?tag=tolees0ca-21) with a  45.85 % discount here:
 
-[![LEGO Star Wars 75161 - Microfighter](https://images-eu.ssl-images-amazon.com/images/I/61xWwHLreGL._SL200_.jpg)](https://www.amazon.de/dp/B01J41KJ4M/?tag=tolees0ca-21)
+[![LEGO Star Wars 75161 - Microfighter](https://images-eu.ssl-images-amazon.com/images/I/61xWwHLreGL._SL400_.jpg)](https://www.amazon.de/dp/B01J41KJ4M/?tag=tolees0ca-21)
 
 ℹ️:
 

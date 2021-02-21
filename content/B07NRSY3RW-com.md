@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Harry Potter Advent Calendar 75964  at 21.23 % discount'
 date: 2020-08-11 16:11:00
-image: 'https://m.media-amazon.com/images/I/51QYY0PZYVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QYY0PZYVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.916923076923077'
 
 With a final price of 31.5 USD (original: 39.99 USD) you can find [LEGO Harry Potter Advent Calendar 75964 Building Kit  305 Pieces ](https://www.amazon.com/dp/B07NRSY3RW/?tag=tolees-20) with a  21.23 % discount here:
 
-[![LEGO Harry Potter Advent Calendar 75964 ](https://m.media-amazon.com/images/I/51QYY0PZYVL._SL200_.jpg)](https://www.amazon.com/dp/B07NRSY3RW/?tag=tolees-20)
+[![LEGO Harry Potter Advent Calendar 75964 ](https://m.media-amazon.com/images/I/51QYY0PZYVL._SL400_.jpg)](https://www.amazon.com/dp/B07NRSY3RW/?tag=tolees-20)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % deal for LEGO Disney Belle’s Storybook Adventures'
 date: 2020-04-08 12:38:21
-image: 'https://m.media-amazon.com/images/I/51oCyMVWYiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oCyMVWYiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 There's a deal [LEGO Disney Belle’s Storybook Adventures 43177 Creative Building Kit Toy  New 2020  111 Pieces ](https://www.amazon.com/dp/B07WM9NL1H/?tag=tolees-20)  with  20.01 % discount, final price tag of  15.99 USD (original: 19.99 USD) here:
 
-[![LEGO Disney Belle’s Storybook Adventures](https://m.media-amazon.com/images/I/51oCyMVWYiL._SL200_.jpg)](https://www.amazon.com/dp/B07WM9NL1H/?tag=tolees-20)
+[![LEGO Disney Belle’s Storybook Adventures](https://m.media-amazon.com/images/I/51oCyMVWYiL._SL400_.jpg)](https://www.amazon.com/dp/B07WM9NL1H/?tag=tolees-20)
 
 ℹ️:
 

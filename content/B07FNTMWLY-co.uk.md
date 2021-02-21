@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 41355 Friends Emma s Heart Box Set  at 37.42 % discount'
 date: 2020-01-30 22:37:38
-image: 'https://m.media-amazon.com/images/I/51IqUOL54BL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IqUOL54BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 With a final price of 5.0 GBP (original: 7.99 GBP) you can find [LEGO 41355 Friends Emma s Heart Box Set  Emma mini-doll and Acessories  Collectible Toys for Kids](https://www.amazon.co.uk/dp/B07FNTMWLY/?tag=tolees0a-21) with a  37.42 % discount here:
 
-[![LEGO 41355 Friends Emma s Heart Box Set ](https://m.media-amazon.com/images/I/51IqUOL54BL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07FNTMWLY/?tag=tolees0a-21)
+[![LEGO 41355 Friends Emma s Heart Box Set ](https://m.media-amazon.com/images/I/51IqUOL54BL._AC_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FNTMWLY/?tag=tolees0a-21)
 
 ℹ️:
 

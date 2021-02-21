@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 40.01 % for Reloj modificable infantil con figurita '
 date: 2020-07-18 11:30:45
-image: 'https://m.media-amazon.com/images/I/414a0-nxrjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414a0-nxrjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.787142857142857'
 
 You've got [Reloj modificable infantil con figurita de la tropa de asalto de LEGO Star Wars 8021032](https://www.amazon.es/dp/B0753MCC6B/?tag=tolees-21) with a  40.01 % discount, with final price of 17.99 EUR (original: 29.99 EUR) at the following link:
 
-[![Reloj modificable infantil con figurita ](https://m.media-amazon.com/images/I/414a0-nxrjL._SL200_.jpg)](https://www.amazon.es/dp/B0753MCC6B/?tag=tolees-21)
+[![Reloj modificable infantil con figurita ](https://m.media-amazon.com/images/I/414a0-nxrjL._SL400_.jpg)](https://www.amazon.es/dp/B0753MCC6B/?tag=tolees-21)
 
 ℹ️:
 

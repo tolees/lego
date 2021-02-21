@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Girl s Friends cm Sweatshirt  Pink  at 55.68 % discount'
 date: 2020-02-20 19:51:27
-image: 'https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.945'
 
 With a final price of 8.2 GBP (original: 18.5 GBP) you can find [Lego Girl s Friends cm Sweatshirt  Pink  Pink 468   104](https://www.amazon.co.uk/dp/B07MPRN75J/?tag=tolees0a-21) with a  55.68 % discount here:
 
-[![Lego Girl s Friends cm Sweatshirt  Pink ](https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B07MPRN75J/?tag=tolees0a-21)
+[![Lego Girl s Friends cm Sweatshirt  Pink ](https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07MPRN75J/?tag=tolees0a-21)
 
 ℹ️:
 

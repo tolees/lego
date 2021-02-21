@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 20.00 % for LEGO Harry Potter and The Goblet of Fire'
 date: 2020-04-01 21:00:42
-image: 'https://m.media-amazon.com/images/I/51IkGckXXkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IkGckXXkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 You've got [LEGO Harry Potter and The Goblet of Fire Beauxbatons’ Carriage: Arrival at Hogwarts 75958 Building Kit  430 Pieces ](https://www.amazon.com/dp/B07Q2MXBML/?tag=tolees-20) with a  20.00 % discount, with final price of 39.99 USD (original: 49.99 USD) at the following link:
 
-[![LEGO Harry Potter and The Goblet of Fire](https://m.media-amazon.com/images/I/51IkGckXXkL._SL200_.jpg)](https://www.amazon.com/dp/B07Q2MXBML/?tag=tolees-20)
+[![LEGO Harry Potter and The Goblet of Fire](https://m.media-amazon.com/images/I/51IkGckXXkL._SL400_.jpg)](https://www.amazon.com/dp/B07Q2MXBML/?tag=tolees-20)
 
 ℹ️:
 

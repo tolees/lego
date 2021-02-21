@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 17.89 % for LEGO Storage Brick 8 Knobs  Stackable St'
 date: 2020-02-26 03:50:04
-image: 'https://m.media-amazon.com/images/I/31PlAOxmBYL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PlAOxmBYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.90833333333334'
 
 You've got [LEGO Storage Brick 8 Knobs  Stackable Storage Box  12 l  White](https://www.amazon.co.uk/dp/B003NE5LA4/?tag=tolees0a-21) with a  17.89 % discount, with final price of 25.42 GBP (original: 30.96 GBP) at the following link:
 
-[![LEGO Storage Brick 8 Knobs  Stackable St](https://m.media-amazon.com/images/I/31PlAOxmBYL._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B003NE5LA4/?tag=tolees0a-21)
+[![LEGO Storage Brick 8 Knobs  Stackable St](https://m.media-amazon.com/images/I/31PlAOxmBYL._AC_._SL400_.jpg)](https://www.amazon.co.uk/dp/B003NE5LA4/?tag=tolees0a-21)
 
 ℹ️:
 

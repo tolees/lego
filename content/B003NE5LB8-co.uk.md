@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Brick 4 Knobs Stackable Storage Box at 19.84 % discount'
 date: 2020-01-19 02:19:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31k%2B3Bxb1XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k%2B3Bxb1XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 With a final price of 14.95 GBP (original: 18.65 GBP) you can find [LEGO Brick 4 Knobs Stackable Storage Box  Yellow  5.7 Litre](https://www.amazon.co.uk/dp/B003NE5LB8/?tag=tolees0a-21) with a  19.84 % discount here:
 
-[![LEGO Brick 4 Knobs Stackable Storage Box](https://images-eu.ssl-images-amazon.com/images/I/31k%2B3Bxb1XL._SL200_.jpg)](https://www.amazon.co.uk/dp/B003NE5LB8/?tag=tolees0a-21)
+[![LEGO Brick 4 Knobs Stackable Storage Box](https://images-eu.ssl-images-amazon.com/images/I/31k%2B3Bxb1XL._SL400_.jpg)](https://www.amazon.co.uk/dp/B003NE5LB8/?tag=tolees0a-21)
 
 ℹ️:
 

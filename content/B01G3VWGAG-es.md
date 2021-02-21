@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Dimensions Starter Pack - Xbox 360  at 28.86 % discount'
 date: 2020-03-30 10:31:46
-image: 'https://m.media-amazon.com/images/I/61rGZ0xL5hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61rGZ0xL5hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.08181818181818'
 
 With a final price of 28.45 EUR (original: 39.99 EUR) you can find [Lego Dimensions Starter Pack - Xbox 360 [Importación Italiana]](https://www.amazon.es/dp/B01G3VWGAG/?tag=tolees-21) with a  28.86 % discount here:
 
-[![Lego Dimensions Starter Pack - Xbox 360 ](https://m.media-amazon.com/images/I/61rGZ0xL5hL._SL200_.jpg)](https://www.amazon.es/dp/B01G3VWGAG/?tag=tolees-21)
+[![Lego Dimensions Starter Pack - Xbox 360 ](https://m.media-amazon.com/images/I/61rGZ0xL5hL._SL400_.jpg)](https://www.amazon.es/dp/B01G3VWGAG/?tag=tolees-21)
 
 ℹ️:
 

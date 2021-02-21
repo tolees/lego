@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Marvel Collection - Xbox One at 66.68 % discount'
 date: 2020-06-03 20:01:32
-image: 'https://m.media-amazon.com/images/I/51xZmXVw7kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xZmXVw7kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.32777777777778'
 
 With a final price of 19.99 USD (original: 59.99 USD) you can find [Lego Marvel Collection - Xbox One](https://www.amazon.com/dp/B07NDW7NM2/?tag=tolees-20) with a  66.68 % discount here:
 
-[![Lego Marvel Collection - Xbox One](https://m.media-amazon.com/images/I/51xZmXVw7kL._SL200_.jpg)](https://www.amazon.com/dp/B07NDW7NM2/?tag=tolees-20)
+[![Lego Marvel Collection - Xbox One](https://m.media-amazon.com/images/I/51xZmXVw7kL._SL400_.jpg)](https://www.amazon.com/dp/B07NDW7NM2/?tag=tolees-20)
 
 ℹ️:
 

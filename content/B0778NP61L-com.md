@@ -2,7 +2,7 @@
 layout: post
 title: '37.51 % deal for LEGO Brick Drawer  8 Knobs  2 Drawers  S'
 date: 2020-03-19 04:45:15
-image: 'https://m.media-amazon.com/images/I/31U0QS9oKYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31U0QS9oKYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.49'
 
 There's a deal [LEGO Brick Drawer  8 Knobs  2 Drawers  Stackable Storage Box  Aqua Mint Green](https://www.amazon.com/dp/B0778NP61L/?tag=tolees-20)  with  37.51 % discount, final price tag of  22.49 USD (original: 35.99 USD) here:
 
-[![LEGO Brick Drawer  8 Knobs  2 Drawers  S](https://m.media-amazon.com/images/I/31U0QS9oKYL._SL200_.jpg)](https://www.amazon.com/dp/B0778NP61L/?tag=tolees-20)
+[![LEGO Brick Drawer  8 Knobs  2 Drawers  S](https://m.media-amazon.com/images/I/31U0QS9oKYL._SL400_.jpg)](https://www.amazon.com/dp/B0778NP61L/?tag=tolees-20)
 
 ℹ️:
 

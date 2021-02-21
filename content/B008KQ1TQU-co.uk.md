@@ -2,7 +2,7 @@
 layout: post
 title: 'Discount of 15.62 % for Lego Storage Brick 4 Medium Yellow'
 date: 2020-01-27 01:30:53
-image: 'https://m.media-amazon.com/images/I/41+9F5X7-+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+9F5X7-+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.463333333333335'
 
 You've got [Lego Storage Brick 4 Medium Yellow](https://www.amazon.co.uk/dp/B008KQ1TQU/?tag=tolees0a-21) with a  15.62 % discount, with final price of 16.86 GBP (original: 19.98 GBP) at the following link:
 
-[![Lego Storage Brick 4 Medium Yellow](https://m.media-amazon.com/images/I/41+9F5X7-+L._AC_._SL200_.jpg)](https://www.amazon.co.uk/dp/B008KQ1TQU/?tag=tolees0a-21)
+[![Lego Storage Brick 4 Medium Yellow](https://m.media-amazon.com/images/I/41+9F5X7-+L._AC_._SL400_.jpg)](https://www.amazon.co.uk/dp/B008KQ1TQU/?tag=tolees0a-21)
 
 ℹ️:
 
