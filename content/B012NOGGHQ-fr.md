@@ -28,10 +28,10 @@ You've got [LEGO Architecture - New York - 21028 - Jeu de Construction](https://
 
 ℹ️:
 
-- Comprend le Flatiron Building, le Chrysler Building, lEmpire State Building, le One World Trade Center et la Statue de la Liberté Inclut une plaque de base 4x32 avec un écriteau décoratif "New York"
-- Les modèles LEGO Archicture sont compatibles avec tous les ensembles de construction LEGO pour une construction sans limite
 - Mesure 26 cm de haut, 25 cm de large et 4 cm de profondeur
 - 598 pièces pour les garçons et les filles de plus de 12 ans
+- Comprend le Flatiron Building, le Chrysler Building, lEmpire State Building, le One World Trade Center et la Statue de la Liberté Inclut une plaque de base 4x32 avec un écriteau décoratif "New York"
+- Les modèles LEGO Archicture sont compatibles avec tous les ensembles de construction LEGO pour une construction sans limite
 - Construisez un modèle détaillé de la Skyline de New York, avec la Statue de la Liberté !
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B012NOGGHQ/?tag=tolees0d-21)
