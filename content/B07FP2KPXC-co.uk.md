@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 31.56 % for LEGO 75890 Speed Champions Ferrari F40 C'
-date: 2021-02-20 14:11:40
+date: 2021-02-21 17:14:06
 image: 'https://m.media-amazon.com/images/I/51f1zIZ9DLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FP2KPXC/?tag=tolees0a-21'
 descuento: '31.56'
-average: '14.0592708333335'
+average: '13.9537755102043'
 ---
 
 You've got [LEGO 75890 Speed Champions Ferrari F40 Competizione Racing Driver Minifigure Building Set  Vehicle Toys for Kids  Forza Horizon 4 Expansion Pack Model](https://www.amazon.co.uk/dp/B07FP2KPXC/?tag=tolees0a-21) with a  31.56 % discount, with final price of 8.89 GBP (original: 12.99 GBP) at the following link:
