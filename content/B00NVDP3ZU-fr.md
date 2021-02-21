@@ -28,10 +28,10 @@ You've got [LEGO Classic 10696 Boîte à Briques Créative Moyenne  Jeu de Const
 
 ℹ️:
 
-- Les éléments spéciaux comprennent une plaque de base de 8 x 16 cm, une fenêtre avec cadre et 3 paires dyeux
+- Tous les modèles illustrés peuvent être construits à partir de cet ensemble en même temps
 - Contient une large gamme de briques LEGO de 35 couleurs différentes
 - LEGO Classic est conçu pour servir dinspiration à une créativité sans fin lors de la construction avec des briques LEGO
 - Comprend 18 pneus et 18 jantes ainsi quune plaque de base verte
-- Tous les modèles illustrés peuvent être construits à partir de cet ensemble en même temps
+- Les éléments spéciaux comprennent une plaque de base de 8 x 16 cm, une fenêtre avec cadre et 3 paires dyeux
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B00NVDP3ZU/?tag=tolees0d-21)
