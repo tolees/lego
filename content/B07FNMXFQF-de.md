@@ -29,8 +29,8 @@ With a final price of 63.98 EUR (original: 79.99 EUR) you can find [LEGO 42095 T
 ℹ️:
 
 - Features a high-speed, fully motorized, remote-controlled toy vehicle with tracks and large rear sprockets for amazing acceleration
-- LEGO Power Functions include : 2 large motors, receiver, battery box and a remote control
 - This 2-in-1 remote-controlled tracked vehicle rebuilds into a remote-controlled toy racer
+- LEGO Power Functions include : 2 large motors, receiver, battery box and a remote control
 - Also features a fresh yellow and blue color scheme with cool stickers
 - This LEGO Technic RC Stunt Racer 42095 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 
