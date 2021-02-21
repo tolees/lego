@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.06 % deal for LEGO 71368 Super Mario Toad’s Treasure H'
-date: 2021-02-19 21:30:42
+date: 2021-02-21 05:52:53
 image: 'https://m.media-amazon.com/images/I/5196-gednuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDZM4T/?tag=tolees0a-21'
 descuento: '40.06'
-average: '58.438372093023'
+average: '58.1318181818179'
 ---
 
 There's a deal [LEGO 71368 Super Mario Toad’s Treasure Hunt Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B082WDZM4T/?tag=tolees0a-21)  with  40.06 % discount, final price tag of  44.95 GBP (original: 74.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 71368 Super Mario Toad’s Treasure Hunt Expansion Set Buil
 
 ℹ️:
 
-- Players can help Mario figure (not included) find the 3 hidden Blocks and jump on them in the correct order to win bonus digital coins
-- Add this treasure-hunting expansion with loads of challenges to the Adventures with Mario Starter Course set (sold separately) for extra fun
-- Features Toad Houses, a tree, treasure chest, sliding and rotating platforms and 10 action bricks, for solo gameplay or fun with friends
 - Including a Goomba, 2 Cheep Cheeps and Toad and Toadette figures, this set can be combined with other Super Mario toys in various ways
+- Features Toad Houses, a tree, treasure chest, sliding and rotating platforms and 10 action bricks, for solo gameplay or fun with friends
+- Add this treasure-hunting expansion with loads of challenges to the Adventures with Mario Starter Course set (sold separately) for extra fun
 - The free LEGO app has digital building instructions, cool viewing tools, inspiration for creative play and more - visit LEGO.com/devicecheck
+- Players can help Mario figure (not included) find the 3 hidden Blocks and jump on them in the correct order to win bonus digital coins
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B082WDZM4T/?tag=tolees0a-21)
