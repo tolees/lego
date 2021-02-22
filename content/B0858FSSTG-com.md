@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 19.96 % for LEGO Super Mario Whomp’s Lava Trouble Ex'
-date: 2021-02-19 20:32:26
-image: 'https://m.media-amazon.com/images/I/51pQfcyanAL._SL200_.jpg'
+date: 2021-02-22 05:41:56
+image: 'https://m.media-amazon.com/images/I/51pQfcyanAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.8030434782609'
 
 You've got [LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364 Building Kit; Toy for Kids to Enhance Their Super Mario Adventures with Mario Starter Course  71360   New 2020  133 Pieces ](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20) with a  19.96 % discount, with final price of 16.0 USD (original: 19.99 USD) at the following link:
 
-[![LEGO Super Mario Whomp’s Lava Trouble Ex](https://m.media-amazon.com/images/I/51pQfcyanAL._SL200_.jpg)](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20)
+[![LEGO Super Mario Whomp’s Lava Trouble Ex](https://m.media-amazon.com/images/I/51pQfcyanAL._SL400_.jpg)](https://www.amazon.com/dp/B0858FSSTG/?tag=tolees-20)
 
 ℹ️:
 
