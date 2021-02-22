@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Discount of 28.53 % for LEGO 10900 DUPLO Polizeimotorrad  Bauset'
-date: 2021-01-31 21:08:50
-image: 'https://m.media-amazon.com/images/I/51VxgRlB3yL._SL200_.jpg'
+title: 'Discount of 27.03 % for LEGO 10900 DUPLO Polizeimotorrad  Bauset'
+date: 2021-02-22 14:41:32
+image: 'https://m.media-amazon.com/images/I/51VxgRlB3yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6J8N-de LEGO 10900 DUPLO Polizeimotorrad Bauset mit Polizisten als...'
 sku: 'B07FNS6J8N-de'
 tags: [ 'lego', ]
-actualPrice: 7.14 EUR
+actualPrice: 7.29 EUR
 currency: EUR
-price: 7.14
+price: 7.29
 comparePrice: 9.99 EUR
 prodname: 'LEGO 10900 DUPLO Polizeimotorrad  Bauset mit Polizisten als Minifigur  Spielzeug für Kleinkinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNS6J8N/?tag=tolees0ca-21'
-descuento: '28.53'
-average: '7.52541666666666'
+descuento: '27.03'
+average: '7.50730769230768'
 ---
 
-You've got [LEGO 10900 DUPLO Polizeimotorrad  Bauset mit Polizisten als Minifigur  Spielzeug für Kleinkinder](https://www.amazon.de/dp/B07FNS6J8N/?tag=tolees0ca-21) with a  28.53 % discount, with final price of 7.14 EUR (original: 9.99 EUR) at the following link:
+You've got [LEGO 10900 DUPLO Polizeimotorrad  Bauset mit Polizisten als Minifigur  Spielzeug für Kleinkinder](https://www.amazon.de/dp/B07FNS6J8N/?tag=tolees0ca-21) with a  27.03 % discount, with final price of 7.29 EUR (original: 9.99 EUR) at the following link:
 
-[![LEGO 10900 DUPLO Polizeimotorrad  Bauset](https://m.media-amazon.com/images/I/51VxgRlB3yL._SL200_.jpg)](https://www.amazon.de/dp/B07FNS6J8N/?tag=tolees0ca-21)
+[![LEGO 10900 DUPLO Polizeimotorrad  Bauset](https://m.media-amazon.com/images/I/51VxgRlB3yL._SL400_.jpg)](https://www.amazon.de/dp/B07FNS6J8N/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Enthält eine LEGO DUPLOPolizistenfigur.
-- Während das Kind mit dem Spielzeug-Polizeimotorrad durch die Gegend fährt, um Menschen in Not zu helfen, erlebt es endlosen Polizeispaß.
-- Enthält außerdem ein doppelseitiges Schildelement zum Regeln des Verkehrs.
 - Das Nachspielen von Polizeieinsätzen und Verkehrskontrollen fördert die Sprachentwicklung und die Rollenspielfähigkeiten.
+- Enthält außerdem ein doppelseitiges Schildelement zum Regeln des Verkehrs.
+- Enthält eine LEGO DUPLOPolizistenfigur.
 - Mit Spielzeug-Polizeimotorrad und Polizeikiosk mit aufklappbarem Fenster.
+- Während das Kind mit dem Spielzeug-Polizeimotorrad durch die Gegend fährt, um Menschen in Not zu helfen, erlebt es endlosen Polizeispaß.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNS6J8N/?tag=tolees0ca-21)

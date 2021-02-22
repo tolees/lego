@@ -28,10 +28,10 @@ You've got [LEGO 60258 City Tuning-Werkstatt Bauset mit Abschleppwagen  Hot Rod 
 
 ℹ️:
 
+- Verfügt über eine Spielzeuggarage, einen Wohnanhänger und 6 coole Fahrzeuge, darunter einen Abschleppwagen, einen Hot Rod, ein raketengetriebenes Motorrad und eine Hundehütte
 - Zum Zubehör gehören ein Schraubenschlüssel, ein Wagenheber, eine Tasse, ein Geldschein, eine Pizzaschachtel, ein Teller und eine Wurst, eine Schweißausrüstung, eine Fräsmaschine und vieles mehr
 - Kinder können in der Werkstatt den Motorheber bedienen, Autospielzeug mit dem Wagenheber anheben, kaputte Fahrzeuge mit dem Abschleppwagen retten und vieles mehr
-- Verfügt über eine Spielzeuggarage, einen Wohnanhänger und 6 coole Fahrzeuge, darunter einen Abschleppwagen, einen Hot Rod, ein raketengetriebenes Motorrad und eine Hundehütte
-- Unsere kleinen Mechaniker betätigen den Hebel, um die Autos für das Abschleppen vorzubereiten, und drehen den Drehknopf, um den Motorheber mit Hebefunktionen zu betreiben
 - Das Set enthält 7 Minifiguren, einschließlich Harl Hubbs und Tread Octane aus der LEGO-City-TV-Serie, 2 Mechaniker, 3 Kunden und eine Figur von Jawls der Bulldogge
+- Unsere kleinen Mechaniker betätigen den Hebel, um die Autos für das Abschleppen vorzubereiten, und drehen den Drehknopf, um den Motorheber mit Hebefunktionen zu betreiben
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W6QBNM5/?tag=tolees0ca-21)

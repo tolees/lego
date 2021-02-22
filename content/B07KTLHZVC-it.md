@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Architecture Empire State Building  at 16.37 % discount'
-date: 2021-02-20 23:48:43
-image: 'https://m.media-amazon.com/images/I/41h2Ca50EuL._SL200_.jpg'
+date: 2021-02-22 14:58:27
+image: 'https://m.media-amazon.com/images/I/41h2Ca50EuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21'
 descuento: '16.37'
-average: '93.0752991452992'
+average: '93.0661016949153'
 ---
 
 With a final price of 91.99 EUR (original: 109.99 EUR) you can find [LEGO Architecture Empire State Building  Grattacielo Storico di New York  Set da Costruzione e Modello di Monumento da Collezione  21046](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21) with a  16.37 % discount here:
 
-[![LEGO Architecture Empire State Building ](https://m.media-amazon.com/images/I/41h2Ca50EuL._SL200_.jpg)](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21)
+[![LEGO Architecture Empire State Building ](https://m.media-amazon.com/images/I/41h2Ca50EuL._SL400_.jpg)](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21)
 
 ℹ️:
 

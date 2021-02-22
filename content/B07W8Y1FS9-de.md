@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'LEGO 60242 City Polizei Festnahme auf de at 27.51 % discount'
-date: 2021-02-08 21:19:32
-image: 'https://m.media-amazon.com/images/I/51ncejaqW4L._SL200_.jpg'
+title: 'LEGO 60242 City Polizei Festnahme auf de at 28.61 % discount'
+date: 2021-02-22 14:43:54
+image: 'https://m.media-amazon.com/images/I/51ncejaqW4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07W8Y1FS9-de LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2...'
 sku: 'B07W8Y1FS9-de'
 tags: [ 'lego', ]
-actualPrice: 14.49 EUR
+actualPrice: 14.27 EUR
 currency: EUR
-price: 14.49
+price: 14.27
 comparePrice: 19.99 EUR
 prodname: 'LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2 Spielzeugautos  Verfolgungsjagd Bausets für Kinder ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21'
-descuento: '27.51'
-average: '14.7730158730159'
+descuento: '28.61'
+average: '14.9549253731343'
 ---
 
-With a final price of 14.49 EUR (original: 19.99 EUR) you can find [LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2 Spielzeugautos  Verfolgungsjagd Bausets für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21) with a  27.51 % discount here:
+With a final price of 14.27 EUR (original: 19.99 EUR) you can find [LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2 Spielzeugautos  Verfolgungsjagd Bausets für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21) with a  28.61 % discount here:
 
-[![LEGO 60242 City Polizei Festnahme auf de](https://m.media-amazon.com/images/I/51ncejaqW4L._SL200_.jpg)](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)
+[![LEGO 60242 City Polizei Festnahme auf de](https://m.media-amazon.com/images/I/51ncejaqW4L._SL400_.jpg)](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)
 
 ℹ️:
 
