@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 19.99 % for LEGO Star Wars: The Rise of Skywalker Kn'
-date: 2021-02-19 20:24:02
-image: 'https://m.media-amazon.com/images/I/51IWnYBVtxL._SL200_.jpg'
+date: 2021-02-21 23:20:55
+image: 'https://m.media-amazon.com/images/I/51IWnYBVtxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B0858FHGJJ/?tag=tolees-20'
 descuento: '19.99'
-average: '61.8586363636364'
+average: '61.6039130434783'
 ---
 
 You've got [LEGO Star Wars: The Rise of Skywalker Knights of Ren Transport Ship 75284 Spacecraft Set  Features Knights of Ren and Rey Minifigures to Role-Play Star Wars Missions  New 2020  595 Pieces ](https://www.amazon.com/dp/B0858FHGJJ/?tag=tolees-20) with a  19.99 % discount, with final price of 56.0 USD (original: 69.99 USD) at the following link:
 
-[![LEGO Star Wars: The Rise of Skywalker Kn](https://m.media-amazon.com/images/I/51IWnYBVtxL._SL200_.jpg)](https://www.amazon.com/dp/B0858FHGJJ/?tag=tolees-20)
+[![LEGO Star Wars: The Rise of Skywalker Kn](https://m.media-amazon.com/images/I/51IWnYBVtxL._SL400_.jpg)](https://www.amazon.com/dp/B0858FHGJJ/?tag=tolees-20)
 
 ℹ️:
 
