@@ -29,9 +29,9 @@ You've got [LEGO 11001 Classic Bausteine - Erster Bauspaß  Konstruktionsspielze
 ℹ️:
 
 - Baue einen Dinosaurier, ein Keyboard, ein Haus, eine Eisenbahn oder was auch immer man sich vorstellen kann.
-- Ideales LEGO Starterset für kreative Kinder.
-- Enthält LEGO Steine, Augen, Räder und Scharniere für einfache Modelle.
 - Mehr Bauanleitungen, Bauideen und Anregungen stehen online zur Verfügung.
 - Mit bunten LEGO Elementen für grenzenlos kreatives Spielen.
+- Enthält LEGO Steine, Augen, Räder und Scharniere für einfache Modelle.
+- Ideales LEGO Starterset für kreative Kinder.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNT8XBK/?tag=tolees0ca-21)

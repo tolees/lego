@@ -29,9 +29,9 @@ With a final price of 7.49 EUR (original: 9.99 EUR) you can find [LEGO 60279 Cit
 ℹ️:
 
 - Kids can become everyday heroes with this cool playset, filled with realistic features for action-packed firefighting fun
-- Features a steerable fire truck with a plow, fire hose, blazing logs, a megaphone and a LEGO firefighter minifigure with a cool helmet
 - In addition to printed instructions, tree LEGO Building Instructions Plus avaiable in app with zoom/rotate viewing tool for smart devices
-- Let the firefighter grab the extinguisher and shoot water elements from the stud-shooter fire hose to knock out the fire; good work
 - The toy fire truck can be steered in all directions by pushing and tilting it left and right, to sweep away the flames using its front plow
+- Let the firefighter grab the extinguisher and shoot water elements from the stud-shooter fire hose to knock out the fire; good work
+- Features a steerable fire truck with a plow, fire hose, blazing logs, a megaphone and a LEGO firefighter minifigure with a cool helmet
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4VXHR4/?tag=tolees0ca-21)

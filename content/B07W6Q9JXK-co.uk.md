@@ -28,9 +28,9 @@ With a final price of 27.9 GBP (original: 39.99 GBP) you can find [LEGO City 602
 
 ℹ️:
 
-- Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
-- The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
 - The transporter truck has a detailed driver?s cab, mobile prison cell, computer and road barriers with many realistic details
+- The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
+- Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
 - Kids can rip open the cell to let the crook escape, then launch the new-for-January-2020 police helicopter that really flies into the air
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W6Q9JXK/?tag=tolees0a-21)
