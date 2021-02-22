@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Star Wars: A New Hope Luke Skywalke at 20.01 % discount'
-date: 2021-02-19 08:28:07
-image: 'https://m.media-amazon.com/images/I/51vnDO6HZSL._SL200_.jpg'
+date: 2021-02-22 11:55:26
+image: 'https://m.media-amazon.com/images/I/51vnDO6HZSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.975'
 
 With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Star Wars: A New Hope Luke Skywalker’s Landspeeder 75271 Building Kit  Collectible Star Wars Set  New 2020  236 Pieces ](https://www.amazon.com/dp/B07WHMBVT9/?tag=tolees-20) with a  20.01 % discount here:
 
-[![LEGO Star Wars: A New Hope Luke Skywalke](https://m.media-amazon.com/images/I/51vnDO6HZSL._SL200_.jpg)](https://www.amazon.com/dp/B07WHMBVT9/?tag=tolees-20)
+[![LEGO Star Wars: A New Hope Luke Skywalke](https://m.media-amazon.com/images/I/51vnDO6HZSL._SL400_.jpg)](https://www.amazon.com/dp/B07WHMBVT9/?tag=tolees-20)
 
 ℹ️:
 
