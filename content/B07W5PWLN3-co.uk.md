@@ -28,10 +28,10 @@ You've got [LEGO 76895 Speed Champions Ferrari F8 Tributo Racer Toy with Racing 
 
 ℹ️:
 
-- New for January 2020, LEGO Speed Champions replicas are now 25 Percent bigger and more realistic than ever
-- Racing cars fans can create their very own super-fast F8 Tributo model car before displaying the sleek mini replica
+- This stunningly detailed toy car includes many of the original features, as seen on the most powerful V8 car Ferrari has ever made
 - Includes a Ferrari driver minifigure wearing a helmet that can be placed behind the wheel for racing action
 - LEGO Speed Champions building sets for kids let car fans construct mini versions of some of the world’s most famous cars
-- This stunningly detailed toy car includes many of the original features, as seen on the most powerful V8 car Ferrari has ever made
+- Racing cars fans can create their very own super-fast F8 Tributo model car before displaying the sleek mini replica
+- New for January 2020, LEGO Speed Champions replicas are now 25 Percent bigger and more realistic than ever
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PWLN3/?tag=tolees0a-21)

@@ -28,10 +28,10 @@ With a final price of 56.98 GBP (original: 74.99 GBP) you can find [LEGO 71721 N
 
 ℹ️:
 
-- Ninjas need to watch out for the traps! When activated, the statue falls on the ninjas. It is hard to escape the Dungeons of Shintaro
 - The LEGO dragon has moving legs, wings and tail, it can fire missiles from 2 shooters and drop bones and spiders out of its ribcage
-- Includes 6 minifigures: Hero Kai, Hero Jay, Hero Nya, Skull Sorcerer and 2 Skeleton Warriors – all part of the game after spinning the dice
 - Features a toy fort with traps plus a dragon toy to recreate scenes from the NINJAGO TV series, and an exciting and action-packed board game
+- Ninjas need to watch out for the traps! When activated, the statue falls on the ninjas. It is hard to escape the Dungeons of Shintaro
+- Includes 6 minifigures: Hero Kai, Hero Jay, Hero Nya, Skull Sorcerer and 2 Skeleton Warriors – all part of the game after spinning the dice
 - Check out other NINJAGO playable sets: Skull Sorcerer’s Dungeons 71722, Journey to the Skull Dungeons 71717 and Zanes Mino Creature 71719
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813RH7GJ/?tag=tolees0a-21)
