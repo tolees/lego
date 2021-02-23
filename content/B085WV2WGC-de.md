@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 17.61 % for LEGO 75318 Star Wars The Mandalorian  Da'
-date: 2021-02-21 01:08:46
-image: 'https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg'
+date: 2021-02-22 23:47:57
+image: 'https://m.media-amazon.com/images/I/518BDEgmS2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B085WV2WGC/?tag=tolees0ca-21'
 descuento: '17.61'
-average: '75.8074999999998'
+average: '75.6485561497324'
 ---
 
 You've got [LEGO 75318 Star Wars The Mandalorian  Das Kind  Bauset  Bauspielzeug zum Sammeln für Fans ab 10 Jahren](https://www.amazon.de/dp/B085WV2WGC/?tag=tolees0ca-21) with a  17.61 % discount, with final price of 65.9 EUR (original: 79.99 EUR) at the following link:
 
-[![LEGO 75318 Star Wars The Mandalorian  Da](https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg)](https://www.amazon.de/dp/B085WV2WGC/?tag=tolees0ca-21)
+[![LEGO 75318 Star Wars The Mandalorian  Da](https://m.media-amazon.com/images/I/518BDEgmS2L._SL400_.jpg)](https://www.amazon.de/dp/B085WV2WGC/?tag=tolees0ca-21)
 
 ℹ️:
 
