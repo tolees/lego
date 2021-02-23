@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '29.86 % deal for LEGO 11006 Classic Creative Blue Bricks '
-date: 2020-03-28 20:33:13
-image: 'https://m.media-amazon.com/images/I/51nkIgu0p-L._SL400_.jpg'
+title: '49.30 % deal for LEGO Classic - LEGO 11006 Classic Creati'
+date: 2021-02-23 21:41:04
+image: 'https://m.media-amazon.com/images/I/51G81dHbBPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TN6CR-co.uk LEGO 11006 Classic Creative Blue Bricks Learning...'
+slug: 'B07W7TN6CR-co.uk LEGO Classic - LEGO 11006 Classic Creative Blue Bricks...'
 sku: 'B07W7TN6CR-co.uk'
 tags: [ 'lego', ]
-actualPrice: 3.5 GBP
+actualPrice: 2.53 GBP
 currency: GBP
-price: 3.5
+price: 2.53
 comparePrice: 4.99 GBP
-prodname: 'LEGO 11006 Classic Creative Blue Bricks Learning Starter Set  Preschool Toys for Kids 4+ Year Old'
+prodname: 'LEGO Classic - LEGO 11006 Classic Creative Blue Bricks Learning Starter Set  Preschool Toys for Kids 4+ Year Old'
 country: 'co.uk'
 flag: '🇬🇧'
-brand: ''
+brand: 'LEGO Classic'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21'
-descuento: '29.86'
-average: '4.8725000000000005'
+descuento: '49.30'
+average: '4.42'
 ---
 
-There's a deal [LEGO 11006 Classic Creative Blue Bricks Learning Starter Set  Preschool Toys for Kids 4+ Year Old](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)  with  29.86 % discount, final price tag of  3.5 GBP (original: 4.99 GBP) here:
+There's a deal [LEGO Classic - LEGO 11006 Classic Creative Blue Bricks Learning Starter Set  Preschool Toys for Kids 4+ Year Old](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)  with  49.30 % discount, final price tag of  2.53 GBP (original: 4.99 GBP) here:
 
-[![LEGO 11006 Classic Creative Blue Bricks ](https://m.media-amazon.com/images/I/51nkIgu0p-L._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)
+[![LEGO Classic - LEGO 11006 Classic Creati](https://m.media-amazon.com/images/I/51G81dHbBPL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)
 
 ℹ️:
 
+- Big bricks are safe, toddler-friendly and easy for small hands to pick up and place while developing language, social and emotional skills
+- The 3 easy-to-build toys with fun features can be assembled simultaneously with this big bricks starter set for children aged 4 and over
+- Features a blue whale toy with big round eyes and a waterspout, a train toy with revolving wheels, and a mini robot toy with movable arms
+- LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
+- Classic Creative Blue and large bricks set is handy enough for parents to take the creative fun wherever their kids go
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TN6CR/?tag=tolees0a-21)
