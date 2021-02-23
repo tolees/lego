@@ -28,10 +28,10 @@ There's a deal [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der 
 
 ℹ️:
 
+- Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
+- Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
 - Das Modell Widerstands Y-Wing Starfighter kann Raketen abfeuern und Bomben abwerfen. Mit neuer Farbgestaltung (ab Oktober 2019), wie sie im Film Star Wars: Der Aufstieg Skywalkers zu sehen ist
 - Dieses Spielset enthält 5 Figuren von LEGO Star Wars: Poe Dameron, Zorii Bliss und einen Sturmtruppler der Ersten Ordnung als Minifiguren sowie LEGO Figuren von D-O und einem Astromech-Droiden
 - Der 578-teilige Spielzeug-Sternenjäger von LEGO Star Wars für Jungen und Mädchen ab 8 Jahren ist 7 cm hoch, 43 cm lang und 19 cm breit
-- Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
-- Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)
