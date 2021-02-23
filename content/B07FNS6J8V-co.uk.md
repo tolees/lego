@@ -28,11 +28,11 @@ You've got [LEGO 60216 City Fire Downtown Fire Brigade with Fire Engine Truck To
 
 ℹ️:
 
-- Toy truck features working light and sound brick, extending stabilizers, opening storage space, extending/swiveling turntable ladder and a fire hose with pump system with ‘water jet’ function
-- Build a fire ladder toy truck, extending swivel ladder and fire hose with pump system and ‘water jet’ function, plus a swiveling crane with working winch, 3-level building and a toy helicopter
-- Includes 7 LEGO City minifigures : 2 construction workers, a pilot and 4 firefighters
 - Accessory elements include 2 warning lights, a radio, 2 sets of smoke gear, remote-control element for the crane and more
+- Build a fire ladder toy truck, extending swivel ladder and fire hose with pump system and ‘water jet’ function, plus a swiveling crane with working winch, 3-level building and a toy helicopter
+- Toy truck features working light and sound brick, extending stabilizers, opening storage space, extending/swiveling turntable ladder and a fire hose with pump system with ‘water jet’ function
 - Toy Helicopter features opening cockpit, spinning rotors and stud shooter, ROS-T3 the remote-operated vehicle (ROV) with extending claws and stud shooter, plus a fire toy motorbike
 - 3-level building features construction area, tool holders, falling lamppost and a toilet, plus a free-standing crane with rotating arm and functioning winch with hook
+- Includes 7 LEGO City minifigures : 2 construction workers, a pilot and 4 firefighters
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21)
