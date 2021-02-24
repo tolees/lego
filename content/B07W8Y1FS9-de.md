@@ -29,9 +29,9 @@ With a final price of 14.26 EUR (original: 19.99 EUR) you can find [LEGO 60242 C
 ℹ️:
 
 - Beinhaltet zwei Minifiguren: Duke DeTain und den Ganoven Vito, um Szenen von Verfolgungsjagden aus der LEGO City Adventures TV-Serie nachzuspielen
-- Unterstützt Ihr Kind bei der Beherrschung der Feinmotorik und fördert die Fantasie und Kreativität mit diesem einfach zu bauenden Spielzeug, das für Kinder im Vorschulalter geeignet ist
-- Zum Set-Zubehör gehören ein gestohlener Tresor mit Goldbarren und einer Banknote, eine Kiste mit Fisch, Handschellen und eine Autobahnsperre, um die Autos anzuhalten
 - Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
 - Beinhaltet zwei schnelle Autos: Das Polizei-Auto und das Fluchtauto des Ganoven, zusammen bieten sie fantastische Verfolgungsjagden und unterhaltsame Autounfälle
+- Zum Set-Zubehör gehören ein gestohlener Tresor mit Goldbarren und einer Banknote, eine Kiste mit Fisch, Handschellen und eine Autobahnsperre, um die Autos anzuhalten
+- Unterstützt Ihr Kind bei der Beherrschung der Feinmotorik und fördert die Fantasie und Kreativität mit diesem einfach zu bauenden Spielzeug, das für Kinder im Vorschulalter geeignet ist
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)
