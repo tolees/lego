@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75272 Star Wars Sith TIE Fighter Ba at 21.56 % discount'
-date: 2021-02-23 05:57:45
+date: 2021-02-24 05:59:53
 image: 'https://m.media-amazon.com/images/I/51KLLnT6W0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21'
 descuento: '21.56'
-average: '54.6287903225806'
+average: '54.6309599999999'
 ---
 
 With a final price of 54.9 EUR (original: 69.99 EUR) you can find [LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21) with a  21.56 % discount here:
@@ -28,10 +28,10 @@ With a final price of 54.9 EUR (original: 69.99 EUR) you can find [LEGO 75272 St
 
 ℹ️:
 
-- Wenn die Missionen der Ersten Ordnung mit diesem superschnellen Sith-TIE-Kämpfer beendet sind, können Kinder es auf dem Turm ausstellen, um ihr Zimmer zu dekorieren
-- Enthält drei Minifiguren: Einen TIE-Pilot der Ersten Ordnung, einen Ritter von Ren und Finn als Minifiguren mit coolen Waffen: Pistolen und ein Schwert
 - Kinder können in das Cockpit des Starfighters springen und in die Schlacht fliegen, dann die Höchstgeschwindigkeit erreichen und die Geschütze abfeuern
 - Dieses Set lässt sich hervorragend mit Poe Damerons X-Wing Fighter (75273) für epische Kämpfe zwischen der Ersten Ordnung und dem Widerstand kombinieren
 - Den TIE Fighter kennzeichnen ein sich öffnendes Minifiguren-Cockpit und zwei gefederte Flugkörper. Es gibt auch einen Andockturm zum Starten, Landen und Ausstellen
+- Wenn die Missionen der Ersten Ordnung mit diesem superschnellen Sith-TIE-Kämpfer beendet sind, können Kinder es auf dem Turm ausstellen, um ihr Zimmer zu dekorieren
+- Enthält drei Minifiguren: Einen TIE-Pilot der Ersten Ordnung, einen Ritter von Ren und Finn als Minifiguren mit coolen Waffen: Pistolen und ein Schwert
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)
