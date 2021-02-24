@@ -28,10 +28,10 @@ There's a deal [LEGO 42105 Technic Katamaran  Baukasten  Motorboot  2-in-1 schwi
 
 ℹ️:
 
-- Bauen, umbauen, spielen, präsentieren, Das 2-in-1-Modell bietet dauerhaften Lernspaß
 - Von der Unterkante des Ruders bis zur Mastspitze ist der Katamaran 44 cm hoch
-- Eine Fülle an funktionierender Segelausstattung, wie die Segel, die Schwerter und das Ruder
 - Das 2-in-1-Set enthält einen Katamaran, der tatsächlich schwimmt und lässt sich in ein cooles Rennboot umbauen
+- Eine Fülle an funktionierender Segelausstattung, wie die Segel, die Schwerter und das Ruder
 - Perfekt für Segelfans ab 8 Jahren
+- Bauen, umbauen, spielen, präsentieren, Das 2-in-1-Modell bietet dauerhaften Lernspaß
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B081F8KXHD/?tag=tolees0ca-21)
