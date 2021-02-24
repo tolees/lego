@@ -28,10 +28,10 @@ You've got [LEGO 75268 Star Wars Snowspeeder and Speeder Bike Playset w
 
 ℹ️:
 
-- Kids can help to defend Echo Base from evil Empire attacks - the defence station has a laser disc shooter to fire at the invader
-- Includes two minifigures: Star Wars Rebel pilot hero Wedge Antilles and a Snowtrooper with weapons
-- The learn-to-build Starter Brick chassis helps children learn to understand the purpose of building steps while boosting their confidence
 - Instructions PLUS guide available in the free LEGO Life app for smartphones and tablets has zoom and rotate viewing tools to help kids build
+- Includes two minifigures: Star Wars Rebel pilot hero Wedge Antilles and a Snowtrooper with weapons
 - Features three construction models that are easy to rebuild after battles: The snowspeeder, echo base defence station and a speeder bike
+- The learn-to-build Starter Brick chassis helps children learn to understand the purpose of building steps while boosting their confidence
+- Kids can help to defend Echo Base from evil Empire attacks - the defence station has a laser disc shooter to fire at the invader
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PW3NV/?tag=tolees0a-21)
