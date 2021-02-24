@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 31.11 % for LEGO 60258 City Nitro Wheels Tuning Work'
-date: 2021-02-23 12:55:34
+date: 2021-02-24 13:45:01
 image: 'https://m.media-amazon.com/images/I/51P4HaxtYIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=tolees0a-21'
 descuento: '31.11'
-average: '72.3366779661015'
+average: '72.2670033670032'
 ---
 
 You've got [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set with Tow Truck  Hot Rod  Camping Trailer and Motorbike](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=tolees0a-21) with a  31.11 % discount, with final price of 61.99 GBP (original: 89.99 GBP) at the following link:
