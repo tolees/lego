@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 28.82 % for LEGO Technic  La voiture de rallye contr'
-date: 2021-02-24 14:02:27
+date: 2021-02-25 19:01:51
 image: 'https://m.media-amazon.com/images/I/51CSmFWtivL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W7V6R7D/?tag=tolees0d-21'
 descuento: '28.82'
-average: '108.74534562212'
+average: '108.662283105023'
 ---
 
 You've got [LEGO Technic  La voiture de rallye contrôlée  CONTROL+ RC Racing Cars  115 pièces  42109](https://www.amazon.fr/dp/B07W7V6R7D/?tag=tolees0d-21) with a  28.82 % discount, with final price of 99.65 EUR (original: 139.99 EUR) at the following link:
