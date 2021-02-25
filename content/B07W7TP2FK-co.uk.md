@@ -29,8 +29,8 @@ With a final price of 21.24 GBP (original: 24.99 GBP) you can find [LEGO 75271 S
 ℹ️:
 
 - Features a landspeeder with plenty of space for Luke and C-3PO minifigures, plus a buildable cave hideout for an armed Jawa minifigure
-- The landspeeder has a trunk for Lukes macrobinoculars and a clip for his blaster rifle, 3 gigantic engines and a gun to fire at enemy
 - Includes three minifigures: Luke Skywalker (with a new-for-January-2020 fabric poncho), C-3PO, plus an armed Jawa for conflict play
 - Kids can look out for the Jawa hiding in a cave, ready to ambush Luke, then grab Luke?s blaster rifle and battle this desert scavenger
+- The landspeeder has a trunk for Lukes macrobinoculars and a clip for his blaster rifle, 3 gigantic engines and a gun to fire at enemy
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W7TP2FK/?tag=tolees0a-21)
