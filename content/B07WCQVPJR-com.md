@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Catamaran 42105 Model Sailb at 20.00 % discount'
-date: 2021-02-23 05:26:49
+date: 2021-02-25 12:21:22
 image: 'https://m.media-amazon.com/images/I/513UTC7p0dL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ With a final price of 39.99 USD (original: 49.99 USD) you can find [LEGO Technic
 ℹ️:
 
 - Item Package Quantity: 1
-- Model Number: 6288772
 - made in china
 - Package Weight: 900 grams
+- Model Number: 6288772
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WCQVPJR/?tag=tolees-20)
