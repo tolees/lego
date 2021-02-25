@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars: A New Hope Luke Skywalke at 20.01 % discount'
-date: 2021-02-22 11:55:26
+date: 2021-02-25 21:28:40
 image: 'https://m.media-amazon.com/images/I/51vnDO6HZSL._SL400_.jpg'
 comments: true
 category: ofertas
