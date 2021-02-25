@@ -28,10 +28,10 @@ With a final price of 69.99 EUR (original: 84.99 EUR) you can find [LEGO Archite
 
 ℹ️:
 
+- Include una targhetta decorativa di Trafalgar Square
+- Interpretazione Lego Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square
 - Scopri unesperienza di costruzione impegnativa ma gratificante con questo set Lego Architecture
 - Questo set include oltre 1.190 pezzi
-- Interpretazione Lego Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square
-- Include una targhetta decorativa di Trafalgar Square
 - Misura 12 cm di altezza, 24 cm di larghezza e 20 cm di profondità
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07KTK9B3Z/?tag=tolees00-21)
