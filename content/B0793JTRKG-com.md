@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture Statue of Liberty 2104 at 16.08 % discount'
-date: 2021-02-25 11:55:58
+date: 2021-02-26 22:22:02
 image: 'https://m.media-amazon.com/images/I/51hjJH0ZQyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ With a final price of 100.7 USD (original: 119.99 USD) you can find [LEGO Archit
 
 ℹ️:
 
-- Delivers a rewarding building experience to all with an interest in architecture, travel, history and design
 - Features a detailed pedestal and iconic Lady Liberty statue complete with crown and golden torch
+- Delivers a rewarding building experience to all with an interest in architecture, travel, history and design
 - Statue of Liberty model measures over 17-inch (44cm) high, 5-inch (14cm) wide and 5-inch (14cm) deep
 - 1,685 pieces – For boys and girls over 16 years old
 - Bring a symbolic centerpiece to your home or office with this Statue of Liberty model
