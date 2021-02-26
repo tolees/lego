@@ -29,8 +29,8 @@ With a final price of 106.2 GBP (original: 124.99 GBP) you can find [City Oceans
 ℹ️:
 
 - Includes a team of 8 explorers with LEGO City Adventures TV series hero Harl Hubbs minifigure, shark and stingray figures, plus accessories
-- Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
 - This multi-vehicle toy also includes a research submarine, helicopter, speedboat, shark cage and pirate shipwreck with hidden treasure
+- Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
 - Toy ship that really floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm and storage
 - Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
 
