@@ -28,15 +28,15 @@ With a final price of 16.46 EUR (original: 19.99 EUR) you can find [LEGO DOTS - 
 
 ℹ️:
 
-- Las fans del arte y las manualidades o las creaciones DIY van a adorar este fabuloso set. Las ingeniosas y útiles cajas, así como las vistosas piezas decorativas, fascinarán a cualquier peque que reciba este fantástico regalo para niñas y niños a partir de 6 años por su cumpleaños, por Navidad o un día inesperado.
 - Los ladrillos y piezas decorativas LEGO cumplen las normas más estrictas del sector y nuestros propios criterios de calidad, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan fácilmente una y otra vez; así ha sido desde 1958.
-- ¡Se alimenta de la imaginación de las peques para desplegar la creatividad y divertirse hasta el infinito! Los juguetes sin pilas contribuyen a potenciar el juego independiente y las habilidades de resolución de problemas de las niñas; además, les aportan la satisfacción de crear algo nuevo por sí mismas.
-- Abre la caja y la creación empieza con el propio ensamblaje del portalápices y el estuche.
-- Decorativo y útil. Este fascinante y creativo set DIY de un portalápices con forma de piña que mide aproximadamente 15 cm de altura y 6 cm de anchura es perfecto para que las jóvenes diseñadoras practiquen elaborando diversas creaciones una y otra vez.
-- Propón divertidas manualidades a tu peque con los sets LEGO DOTS. Este ingenioso set de cajas ofrece ideas de diseño inspiradoras que ayudan a las niñas a adquirir confianza y contribuyen a desarrollar su creatividad.
 - ¡Presume de creatividad con un espacio de almacenamiento muy decorativo! Las niñas podrán desarrollar habilidades como el diseño y la autoexpresión mientras decoran las divertidas cajas inspirándose en los patrones que proponemos en la caja del set o inventándose otros originales con su estilo personal.
 - Las vistosas piezas decorativas son geniales para divertirse creando de una manera nueva e imaginativa. Tu peque también puede intercambiar las piezas decorativas con las de otros artículos DOTS, como el pack DOTS Extra: Edición 1 (41908) u otros sets de objetos decorativos.
+- Abre la caja y la creación empieza con el propio ensamblaje del portalápices y el estuche.
+- ¡Se alimenta de la imaginación de las peques para desplegar la creatividad y divertirse hasta el infinito! Los juguetes sin pilas contribuyen a potenciar el juego independiente y las habilidades de resolución de problemas de las niñas; además, les aportan la satisfacción de crear algo nuevo por sí mismas.
+- Decorativo y útil. Este fascinante y creativo set DIY de un portalápices con forma de piña que mide aproximadamente 15 cm de altura y 6 cm de anchura es perfecto para que las jóvenes diseñadoras practiquen elaborando diversas creaciones una y otra vez.
 - Las sencillas instrucciones hacen facilísimo el proceso de construcción. Con la bandeja de almacenamiento incluida, no se tarda nada en recoger y guardar.
+- Propón divertidas manualidades a tu peque con los sets LEGO DOTS. Este ingenioso set de cajas ofrece ideas de diseño inspiradoras que ayudan a las niñas a adquirir confianza y contribuyen a desarrollar su creatividad.
+- Las fans del arte y las manualidades o las creaciones DIY van a adorar este fabuloso set. Las ingeniosas y útiles cajas, así como las vistosas piezas decorativas, fascinarán a cualquier peque que reciba este fantástico regalo para niñas y niños a partir de 6 años por su cumpleaños, por Navidad o un día inesperado.
 - Fomenta la creatividad de tu peque con estas adorables cajas decorativas de escritorio LEGO DOTS (41906): un portalápices alto con forma de piña y una pequeña rodaja de sandía. El juego empieza con el propio ensamblaje, ¡nada más abrir la caja!
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07XBTKFVB/?tag=tolees-21)

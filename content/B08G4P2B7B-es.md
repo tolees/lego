@@ -29,12 +29,12 @@ You've got [LEGO 31112 Creator 3en1 León Salvaje  Avestruz y Jabalí Set de Con
 ℹ️:
 
 - El set de construcción LEGO Creator 3en1 León Salvaje (31112) alimentará la imaginación de los niños con 3 maquetas en 1: el León Salvaje, un avestruz y un jabalí
-- Este impresionante set LEGO incluye también un buitre que los niños podrán usar con las 3 maquetas para construir con ladrillos: sus aventuras en la sabana serán aún más divertidas
-- La maqueta del león mide aproximadamente 12 cm de altura: el tamaño portátil óptimo para jugar en casa o sobre la marcha
-- Este set LEGO Creator 3en1 de 224 piezas propone una divertidísima tarea de construcción apta para niños a partir de 7 años y es como recompensa para niños creativos
-- Los niños que adoran la diversión podrán disfrutar de aventuras en el desierto con un temible león, un avestruz superveloz y un fiero jabalí, e inventar graciosas situaciones con el buitre
 - Los 3 animales de juguete son articulados: el león puede mover las patas, la cola, la cabeza y la mandíbula; el avestruz puede mover el cuello y las patas; y el jabalí puede mover las patas, la cabeza y la mandíbula
-- Los sets LEGO Creator 3en1 permiten a los niños disfrutar del mejor juego de interpretación mientras imaginan trepidantes historias a partir de las 3 vistosas maquetas que se pueden crear con cada caja
+- Los niños que adoran la diversión podrán disfrutar de aventuras en el desierto con un temible león, un avestruz superveloz y un fiero jabalí, e inventar graciosas situaciones con el buitre
 - Busca otros fascinantes juegos LEGO Creator 3en1 novedad en enero de 2021: Ciberdrón (31111), Transporte de Coches de Carreras (31113), Supermoto (31114) y Casa Surfera en la Playa (31118)
+- Este impresionante set LEGO incluye también un buitre que los niños podrán usar con las 3 maquetas para construir con ladrillos: sus aventuras en la sabana serán aún más divertidas
+- Este set LEGO Creator 3en1 de 224 piezas propone una divertidísima tarea de construcción apta para niños a partir de 7 años y es como recompensa para niños creativos
+- La maqueta del león mide aproximadamente 12 cm de altura: el tamaño portátil óptimo para jugar en casa o sobre la marcha
+- Los sets LEGO Creator 3en1 permiten a los niños disfrutar del mejor juego de interpretación mientras imaginan trepidantes historias a partir de las 3 vistosas maquetas que se pueden crear con cada caja
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08G4P2B7B/?tag=tolees-21)
