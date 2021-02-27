@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.01 % deal for LEGO City - Police Policía Aérea: Arrest'
-date: 2021-02-25 22:52:53
+date: 2021-02-27 00:45:38
 image: 'https://m.media-amazon.com/images/I/51b0cjhKMuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21'
 descuento: '30.01'
-average: '20.7460256410257'
+average: '20.7491139240507'
 ---
 
 There's a deal [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)  with  30.01 % discount, final price tag of  20.99 EUR (original: 29.99 EUR) here:
@@ -29,11 +29,11 @@ There's a deal [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaid
 ℹ️:
 
 - Contiene un veloz jet de la Policía Aérea con cabina abatible para una minifigura y gancho extensible para atrapar el paracaídas de fina tela recubierta, así como una moto de policía y el buggy de juguete para la huida de los ladrones.
-- El jet de la Policía Aérea mide más de 7 cm de altura, 22 cm de longitud y 20 cm de ancho.
 - Accesorios incluidos: un casco de piloto con visera abatible y máscara de oxígeno, unas esposas, 2 mochilas y 2 sacas de dinero.
-- El paracaídas de juguete del ladrón mide más de 29 cm de altura y 20 cm de ancho.
-- Incluye 4 minifiguras LEGO City: 2 agentes de la Policía Aérea y 2 ladrones.
-- Lanza el paracaídas de juguete al aire e intenta cogerlo con el gancho extensible del jet.
 - El buggy de fuga del ladrón mide más de 4 cm de altura, 9 cm de longitud y 4 cm de ancho.
+- Incluye 4 minifiguras LEGO City: 2 agentes de la Policía Aérea y 2 ladrones.
+- El paracaídas de juguete del ladrón mide más de 29 cm de altura y 20 cm de ancho.
+- Lanza el paracaídas de juguete al aire e intenta cogerlo con el gancho extensible del jet.
+- El jet de la Policía Aérea mide más de 7 cm de altura, 22 cm de longitud y 20 cm de ancho.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21)
