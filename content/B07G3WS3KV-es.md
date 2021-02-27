@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Creator - Lego Ideas - NASA Apollo  at 20.84 % discount'
-date: 2021-02-26 15:12:20
+date: 2021-02-27 15:19:53
 image: 'https://m.media-amazon.com/images/I/512+SGox+OL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lego Creator'
 buyurl: 'https://www.amazon.es/dp/B07G3WS3KV/?tag=tolees-21'
 descuento: '20.84'
-average: '113.567531380754'
+average: '113.490125000001'
 ---
 
 With a final price of 94.99 EUR (original: 119.99 EUR) you can find [Lego Creator - Lego Ideas - NASA Apollo 11 Lunar Lander  maqueta de Juguete del Primer alunizaje tripulado  Juguete de construcción del módulo Lunar Eagle  a Partir de 16 años  10266 ](https://www.amazon.es/dp/B07G3WS3KV/?tag=tolees-21) with a  20.84 % discount here:
@@ -28,13 +28,13 @@ With a final price of 94.99 EUR (original: 119.99 EUR) you can find [Lego Creato
 
 ℹ️:
 
-- Mide más de 20 cm de altura, 22 cm de ancho y 20 cm de profundidad
 - Celebra la exploración espacial con este detalladísimo modelo de exposición
 - Piezas decoradas incluidas (novedad en junio de 2019): placa de identificación con el texto “Apollo 11 Lunar Lander” y elementos dorados
-- Incluye 2 minifiguras de astronautas con cascos con visor dorado, decoradas con motivos de la NASA
-- La etapa de descenso está equipada con platos de alunizaje y paneles dorados (novedad en junio de 2019), escotillas que se abren y despliegan una cámara y un láser, y una escalera
 - La etapa de ascenso cuenta con un detallado interior con espacio para 2 minifiguras de astronautas
-- Este set LEGO avanzado se compone de una detallada réplica del módulo lunar Eagle, con etapas de descenso y ascenso independientes, así como de una base que representa la superficie lunar con un cráter, pisadas y una bandera de los EE. UU
 - Accesorios incluidos: un reflector láser y una videocámara para construir
+- La etapa de descenso está equipada con platos de alunizaje y paneles dorados (novedad en junio de 2019), escotillas que se abren y despliegan una cámara y un láser, y una escalera
+- Incluye 2 minifiguras de astronautas con cascos con visor dorado, decoradas con motivos de la NASA
+- Este set LEGO avanzado se compone de una detallada réplica del módulo lunar Eagle, con etapas de descenso y ascenso independientes, así como de una base que representa la superficie lunar con un cráter, pisadas y una bandera de los EE. UU
+- Mide más de 20 cm de altura, 22 cm de ancho y 20 cm de profundidad
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07G3WS3KV/?tag=tolees-21)
