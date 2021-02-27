@@ -29,9 +29,9 @@ With a final price of 42.74 EUR (original: 54.99 EUR) you can find [LEGO DUPLO P
 ℹ️:
 
 - Ayuda a tu pequeño a dominar las habilidades básicas de construcción y a mejorar su motricidad fina invitándolo a montar y recolocar los ladrillos para construir
-- Estos juguetes para construir orientados a los bebés se han diseñado para ayudar a tu peque a desarrollar sus habilidades sociales, emocionales y lingüísticas
-- Incluye 3 figuras LEGO DUPLO: Anna, Elsa y Olaf
-- El juguete Disney Frozen: Castillo de Hielo mide más de 28 cm de altura, 19 cm de ancho y 16 cm de profundidad
 - El castillo de juguete Disney Frozen cuenta con tobogán, mesa, sillas y utensilios de cocina, envuélvelo en una iluminación multicolor con el ladrillo luminoso especial accionado por botón
+- Incluye 3 figuras LEGO DUPLO: Anna, Elsa y Olaf
+- Estos juguetes para construir orientados a los bebés se han diseñado para ayudar a tu peque a desarrollar sus habilidades sociales, emocionales y lingüísticas
+- El juguete Disney Frozen: Castillo de Hielo mide más de 28 cm de altura, 19 cm de ancho y 16 cm de profundidad
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07ND6CGGQ/?tag=tolees-21)
