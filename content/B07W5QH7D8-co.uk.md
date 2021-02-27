@@ -29,9 +29,9 @@ You've got [LEGO 41251 Trolls World Tour Poppy’s Pod Playhouse Playset  Portab
 ℹ️:
 
 - Includes Poppy minifigure and Trolls-inspired accessories: Map, hairbrush, lollypop, scissors, book, mandoline, hairpieces and cupcakes
-- Poppys treetop pod home folds and closes into a portable travel toy, with her bedroom and a vanity unit with hair accessories inside
-- Features three play scenes: A portable travel toy pod with furniture, a felt flower a waterfall
-- Combine Poppy’s Pod with the LEGO Trolls World Tour Pop Village Celebration (41255) set where Poppy’s Pod can be placed on top of the large tree
 - Kids can style Poppys hair with hearts and flowers, then look for the treasure map or swing her on the big felt flower by her hair
+- Combine Poppy’s Pod with the LEGO Trolls World Tour Pop Village Celebration (41255) set where Poppy’s Pod can be placed on top of the large tree
+- Features three play scenes: A portable travel toy pod with furniture, a felt flower a waterfall
+- Poppys treetop pod home folds and closes into a portable travel toy, with her bedroom and a vanity unit with hair accessories inside
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5QH7D8/?tag=tolees0a-21)

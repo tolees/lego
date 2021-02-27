@@ -30,8 +30,8 @@ There's a deal [LEGO Technic - Grúa Móvil  Set de Construcción de Vehículo d
 
 - Este fascinante juguete de construcción reserva un montón de oportunidades de aprender sobre la ingeniería y el movimiento. Dirección a las 8 ruedas, 4 estabilizadores controlados por separado, 2 cabinas y brazo telescópico superlargo.
 - Observa cómo funciona una grúa real con este trepidante set LEGO para fans de la construcción y las obras. Conduce el vehículo, coloca los estabilizadores, eleva la pluma e iza el pilar de hormigón con el sistema de poleas.
-- A los fans de las grúas mayores de 10 años les va a encantar este formidable set LEGO Technic (42108). Es una magnífica elección si estás buscando el mejor regalo para un entusiasta de LEGO Technic dispuesto a afrontar un nuevo desafío.
-- Te llamará la atención el tamaño de esta grúa LEGO. Tiene un brazo de 78 cm: ¡es altísima! Sus impresionantes dimensiones la convierten en una sensacional maqueta de exposición de 48 cm de longitud y 11 cm de anchura.
 - Diviértete construyendo esta desafiante maqueta. Luego explora cómo funcionan sus diferentes características. Usa el pilar para que la grúa demuestre de lo que es capaz antes de conducir el camión rumbo al siguiente trabajo.
+- Te llamará la atención el tamaño de esta grúa LEGO. Tiene un brazo de 78 cm: ¡es altísima! Sus impresionantes dimensiones la convierten en una sensacional maqueta de exposición de 48 cm de longitud y 11 cm de anchura.
+- A los fans de las grúas mayores de 10 años les va a encantar este formidable set LEGO Technic (42108). Es una magnífica elección si estás buscando el mejor regalo para un entusiasta de LEGO Technic dispuesto a afrontar un nuevo desafío.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07WC1VDSP/?tag=tolees-21)
