@@ -28,11 +28,11 @@ You've got [LEGO Speed Champions - Ferrari F40 Competizione  juguete de construc
 
 ℹ️:
 
-- Cambia el capó y el alerón para transformar el F40 Competizione en el clásico turismo Ferrari F40.
-- Desmonta el parabrisas para introducir la minifigura en el coche.
 - El Ferrari F40 Competizione para construir, preparado para enfrentarse a cualquier carrera, cuenta con cabina para una minifigura con parabrisas desmontable, ruedas con neumáticos de competición de caucho, elementos translúcidos a modo de faros, colores deportivos y detalles de diseño de gran realismo, e incluye capós y alerones traseros intercambiables.
+- Cambia el capó y el alerón para transformar el F40 Competizione en el clásico turismo Ferrari F40.
+- Incluye una minifigura de un piloto de Ferrari.
+- Desmonta el parabrisas para introducir la minifigura en el coche.
 - Incluye también el casco del piloto de Ferrari.
 - El coche para niños Ferrari F40 Competizione mide más de 4 cm de altura, 13 cm de longitud y 5 cm de ancho.
-- Incluye una minifigura de un piloto de Ferrari.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07FP2KPXC/?tag=tolees-21)
