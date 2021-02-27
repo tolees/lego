@@ -1,0 +1,42 @@
+---
+layout: post
+title: '21.41 % deal for LEGO City Great Vehicles - Yate de Buceo'
+date: 2021-02-27 07:35:03
+image: 'https://m.media-amazon.com/images/I/51vWX19N1-L._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07FNTTF4D-es LEGO City Great Vehicles - Yate de Buceo juguete creativo...'
+sku: 'B07FNTTF4D-es'
+tags: [ 'lego', ]
+actualPrice: 15.71 EUR
+currency: EUR
+price: 15.71
+comparePrice: 19.99 EUR
+prodname: 'LEGO City Great Vehicles - Yate de Buceo  juguete creativo de construcción de barco con minifiguras de submarinistas y animales marinos  60221 '
+country: 'es'
+flag: '🇪🇸'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.es/dp/B07FNTTF4D/?tag=tolees-21'
+descuento: '21.41'
+average: '16.6238461538462'
+---
+
+There's a deal [LEGO City Great Vehicles - Yate de Buceo  juguete creativo de construcción de barco con minifiguras de submarinistas y animales marinos  60221 ](https://www.amazon.es/dp/B07FNTTF4D/?tag=tolees-21)  with  21.41 % discount, final price tag of  15.71 EUR (original: 19.99 EUR) here:
+
+[![LEGO City Great Vehicles - Yate de Buceo](https://m.media-amazon.com/images/I/51vWX19N1-L._SL400_.jpg)](https://www.amazon.es/dp/B07FNTTF4D/?tag=tolees-21)
+
+ℹ️:
+
+- Se compone de un gran Yate de Buceo recreativo de juguete con cubierta, techo desmontable, foco de búsqueda móvil y espacio para dormir/de almacenamiento en el interior.
+- Ábrelo y encontrarás una joya y un cangrejo.
+- Desmonta el techo del yate para acceder a la cubierta inferior y echarte una siesta.
+- Incluye 2 minifiguras de buceadores LEGO City y las figuras de un pez espada y un cangrejo.
+- ¿Qué contiene el cofre del tesoro
+- La escena del lecho marino mide más de 5 cm de altura, 4 cm de ancho y 4 cm de profundidad.
+- Incluye también una escena del lecho marino con un cofre del tesoro que se abre.
+- El Yate de Buceo de juguete mide más de 8 cm de altura, 23 cm de longitud y 6 cm de ancho.
+- ¡Asciende a la superficie y vuelve al yate con tu tesoro!
+- Accesorios incluidos: un equipo de submarinismo, una cámara, una joya, una videocámara, una máscara de oxígeno, una figura de un pez y una boya para construir.
+
+[🛒 Buy it now!!](https://www.amazon.es/dp/B07FNTTF4D/?tag=tolees-21)
