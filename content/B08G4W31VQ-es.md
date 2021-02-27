@@ -29,12 +29,12 @@ With a final price of 23.96 EUR (original: 29.99 EUR) you can find [LEGO 71735 N
 ℹ️:
 
 - Este juego de juguetes ninja cuenta con 7 minifiguras: los ninja Jay, Kai y Lloyd Legacy, los Maestros Elementales Bolobo, Gravis y Jacob, y el malvado Eyezor, de la temporada 4 de la serie para televisión
+- LEGO NINJAGO cuenta con una fascinante colección de entretenidos juguetes para niños que les reservan un sinfín de horas de diversión imaginativa mientras aprenden habilidades fundamentales para la vida y se embarcan en aventuras con sus héroes
+- El templo ninja contiene una plataforma de combate para escenificar emocionantes duelos, una armería giratoria y un arma-spinner para practicar habilidades ninja, así como una colección de Espadas de Jade que se entregarán a los ganadores
+- Encuentra más minifiguras doradas especiales coleccionables en estos otros sets NINJAGO: Destructor de Roca (71736), Deportivo Ninja X-1 (71737) y Combate en el Titán Robot de Zane (71738)
 - El templo ninja mide aproximadamente 17 cm de altura, 16 cm de anchura y 24 cm de profundidad: un set portátil óptimo para jugar en cualquier lugar, durante un viaje o en casa
 - Incluye una minifigura dorada de Lloyd Legacy coleccionable con una pequeña base para celebrar el 10 aniversario de los juguetes NINJAGO
-- LEGO NINJAGO cuenta con una fascinante colección de entretenidos juguetes para niños que les reservan un sinfín de horas de diversión imaginativa mientras aprenden habilidades fundamentales para la vida y se embarcan en aventuras con sus héroes
-- El set de construcción LEGO NINJAGO Legacy Torneo de los Elementos (71735) incluye un detallado templo interactivo para que los niños practiquen sus habilidades ninja y representen asombrosas batallas
 - Este juego de combate de 283 piezas con figuras coleccionables ofrece una divertida experiencia de construcción a peques a partir de 6 años; además, es el regalo óptimo para jóvenes apasionados y apasionadas de NINJAGO
-- Encuentra más minifiguras doradas especiales coleccionables en estos otros sets NINJAGO: Destructor de Roca (71736), Deportivo Ninja X-1 (71737) y Combate en el Titán Robot de Zane (71738)
-- El templo ninja contiene una plataforma de combate para escenificar emocionantes duelos, una armería giratoria y un arma-spinner para practicar habilidades ninja, así como una colección de Espadas de Jade que se entregarán a los ganadores
+- El set de construcción LEGO NINJAGO Legacy Torneo de los Elementos (71735) incluye un detallado templo interactivo para que los niños practiquen sus habilidades ninja y representen asombrosas batallas
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08G4W31VQ/?tag=tolees-21)
