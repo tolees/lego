@@ -28,10 +28,10 @@ There's a deal [LEGO Creator Expert 10276 Colosseum  9036pcs ](https://www.amazo
 
 ℹ️:
 
-- Age: 18 years and above.
-- The stately number of 9,036 pieces makes this model of the Colosseum the largest LEGO set of all time (Version: November 2020) and provides model building enthusiasts many hours of relaxation.
-- If the Romans could make do without any batteries, so can you. Your imagination provides the driving force for this model construction project so no batteries are required.
 - As an architectural model, the Colosseum measures 27 cm high, 52 cm wide and 59 cm deep. With its 9,036 pieces, the model is one of the largest LEGO sets in the world, yet it can be easily lifted and rotated.
+- If the Romans could make do without any batteries, so can you. Your imagination provides the driving force for this model construction project so no batteries are required.
 - To aid inspiration, the model comes with a picture book with assembly instructions and all kinds of interesting information about design and history (English language not guaranteed).
+- The stately number of 9,036 pieces makes this model of the Colosseum the largest LEGO set of all time (Version: November 2020) and provides model building enthusiasts many hours of relaxation.
+- Age: 18 years and above.
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08P11X1HX/?tag=tolees-20)
