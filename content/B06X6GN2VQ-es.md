@@ -28,12 +28,12 @@ There's a deal [LEGO 17101 BOOST Caja de Herramientas Creativas  Robot de Juguet
 
 ℹ️:
 
+- Construye, programa y controla el Autoconstructor para producir auténticos modelos LEGO en miniatura
+- Construye y programa robots y modelos, y completa las más de 60 emocionantes actividades que incluye la app LEGO BOOST; las instrucciones de construcción de los 5 modelos sólo están disponibles en la app gratuita LEGO BOOST (para ciertos dispositivos inteligentes iOS, Android y Kindle); la app se actualiza periódicamente con nuevos desafíos y opciones de programación, y está diseñada para fomentar el juego social
+- Cuida de tu propia mascota con Frankie el gato; asegúrate de darle la comida correcta si no quieres que se enfade
+- Construye el M.T.R.4 y elige entre diferentes herramientas y accesorios de personalización para completar misiones o luchar contra otros róvers
 - Programa a Vernie el robot para que baile, dispare a la diana, cante beatbox, use su palo de hockey o incluso juegue a algo
 - Aprende a tocar una canción y rocanrolea con la Guitarra4000
-- Cuida de tu propia mascota con Frankie el gato; asegúrate de darle la comida correcta si no quieres que se enfade
-- Construye, programa y controla el Autoconstructor para producir auténticos modelos LEGO en miniatura
-- Construye el M.T.R.4 y elige entre diferentes herramientas y accesorios de personalización para completar misiones o luchar contra otros róvers
-- Construye y programa robots y modelos, y completa las más de 60 emocionantes actividades que incluye la app LEGO BOOST; las instrucciones de construcción de los 5 modelos sólo están disponibles en la app gratuita LEGO BOOST (para ciertos dispositivos inteligentes iOS, Android y Kindle); la app se actualiza periódicamente con nuevos desafíos y opciones de programación, y está diseñada para fomentar el juego social
 - Incluye un concentrador motorizado LEGO, un motor adicional y un sensor de color y distancia, así como más de 840 piezas LEGO para construir y reconstruir cualquiera de los 5 modelos multifuncionales
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B06X6GN2VQ/?tag=tolees-21)
