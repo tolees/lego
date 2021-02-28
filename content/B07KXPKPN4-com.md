@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '75.02 % deal for The LEGO Movie 2 Videogame - Xbox One'
-date: 2021-02-22 23:11:30
+date: 2021-02-28 11:30:13
 image: 'https://m.media-amazon.com/images/I/51OwXxf+82L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ There's a deal [The LEGO Movie 2 Videogame - Xbox One](https://www.amazon.com/dp
 
 ℹ️:
 
-- Journey into outer space
 - Test your Master Building skills
 - Discover new worlds
+- Journey into outer space
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07KXPKPN4/?tag=tolees-20)
