@@ -29,9 +29,9 @@ With a final price of 11.99 USD (original: 14.99 USD) you can find [LEGO Star Wa
 ℹ️:
 
 - The Star Wars First Order Stormtrooper speeder measures over 1” (4cm) high, 3” (10cm) long and 3” (8cm) wide
-- This LEGO Star Wars building set sparks imagination, offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 6+ who love Star Wars: The Rise of Skywalker, LEGO Star Wars and space battle toys
-- An ideal way to collect a LEGO Stormtrooper army, the First Order Officer and Sith Jet Trooper minifigures are new for January 2020, and there are lots of building bricks to stimulate young fans’ imaginations!
-- Let young kids lead an army of Star Wars Sith troopers into battle and recreate action from Star Wars: The Rise of Skywalker with this awesome LEGO Stormtrooper construction toy vehicle!
 - With 4 cool minifigures: First Order Officer, Sith Trooper and 2 Sith Jet Troopers; 4 stud-shooting blasters and 2 jetpack elements, theres plenty to inspire creative storytelling!
+- An ideal way to collect a LEGO Stormtrooper army, the First Order Officer and Sith Jet Trooper minifigures are new for January 2020, and there are lots of building bricks to stimulate young fans’ imaginations!
+- This LEGO Star Wars building set sparks imagination, offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 6+ who love Star Wars: The Rise of Skywalker, LEGO Star Wars and space battle toys
+- Let young kids lead an army of Star Wars Sith troopers into battle and recreate action from Star Wars: The Rise of Skywalker with this awesome LEGO Stormtrooper construction toy vehicle!
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WDD7T65/?tag=tolees-20)
