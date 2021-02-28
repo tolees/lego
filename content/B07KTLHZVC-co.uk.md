@@ -28,9 +28,9 @@ With a final price of 74.99 GBP (original: 89.99 GBP) you can find [LEGO 21046 A
 
 ℹ️:
 
-- Finish this representation with a tiled baseplate depicting fifth avenue and the surrounding roads, completed with six iconic yellow cabs
-- 360 degrees displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office
 - This highly detailed replica accurately recreates the symmetrical lines of the structure, four curtain wall facades and art deco antenna tower
 - At 21 Inch (55 cm) high, this Empire State Building model is the tallest LEGO architecture model to date (July 2019). Contains 1760 pieces
+- 360 degrees displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office
+- Finish this representation with a tiled baseplate depicting fifth avenue and the surrounding roads, completed with six iconic yellow cabs
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21)
