@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 15.00 % for LEGO 21170 Minecraft Das Schweinehaus Ba'
-date: 2021-02-25 07:17:13
+title: 'Discount of 20.00 % for LEGO 21170 Minecraft Das Schweinehaus Ba'
+date: 2021-02-28 12:23:25
 image: 'https://m.media-amazon.com/images/I/51X8GRMN4JL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: ring
 slug: 'B08G4GPS3P-de LEGO 21170 Minecraft Das Schweinehaus Bauset mit Alex und...'
 sku: 'B08G4GPS3P-de'
 tags: [ 'lego', ]
-actualPrice: 42.49 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 42.49
+price: 39.99
 comparePrice: 49.99 EUR
 prodname: 'LEGO 21170 Minecraft Das Schweinehaus Bauset mit Alex und der Creeper Figuren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4GPS3P/?tag=tolees0ca-21'
-descuento: '15.00'
-average: '42.6563636363636'
+descuento: '20.00'
+average: '42.2461538461538'
 ---
 
-You've got [LEGO 21170 Minecraft Das Schweinehaus Bauset mit Alex und der Creeper Figuren](https://www.amazon.de/dp/B08G4GPS3P/?tag=tolees0ca-21) with a  15.00 % discount, with final price of 42.49 EUR (original: 49.99 EUR) at the following link:
+You've got [LEGO 21170 Minecraft Das Schweinehaus Bauset mit Alex und der Creeper Figuren](https://www.amazon.de/dp/B08G4GPS3P/?tag=tolees0ca-21) with a  20.00 % discount, with final price of 39.99 EUR (original: 49.99 EUR) at the following link:
 
 [![LEGO 21170 Minecraft Das Schweinehaus Ba](https://m.media-amazon.com/images/I/51X8GRMN4JL._SL400_.jpg)](https://www.amazon.de/dp/B08G4GPS3P/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Authentisches LEGO Minecraft Bau- und Spielset mit dem beliebten Onlinespielcharakter Alex, einem kultverdächtigen Creeper, zwei Schweinen, Zubehör für Alex und Karotten für die Schweine
-- Die unterschiedlichen LEGO Minecraft Spielsets erwecken das Minecraft Onlinespiel mit Charakteren, Kulissen und Funktionen zum Leben, die sich mit den unverwüstlichen LEGO Steinen nachbilden lassen
-- Für Kinder ab 8 Jahren. Das ideale Geschenk für Kinder, die sich ein neuartiges Minecraft Spielerlebnis wünschen
 - Nachdem die Kinder das schweineförmiges Haus aufgebaut haben, können sie das Dach abnehmen, um die verborgenen Räume zu erkunden, sich vor dem Creeper zu verstecken, die Schweine zu versorgen – und das Haus mit der Explosionsfunktion zu zerstören
 - Das Modell ist 14 cm hoch, 20 cm breit und 19 cm tief, regt zum aktiven Spielen an und bereichert als spektakuläres Schaustück das Zimmer jedes Minecraft Fans
-- Das LEGO Minecraft Set „Das Schweinehaus“ (21170) weckt die Leidenschaft eines Minecraft Spielers für das Onlinespiel. Das Spielvergnügen und die Kreativität aus Minecraft treffen auf das aktive Bauerlebnis und die Vielseitigkeit des LEGO Steins.
+- Für Kinder ab 8 Jahren. Das ideale Geschenk für Kinder, die sich ein neuartiges Minecraft Spielerlebnis wünschen
 - Dieses LEGO Minecraft Set ist besonders robust und lässt sich leicht umgestalten und mit anderen LEGO Minecraft Spielzeugen kombinieren
+- Die unterschiedlichen LEGO Minecraft Spielsets erwecken das Minecraft Onlinespiel mit Charakteren, Kulissen und Funktionen zum Leben, die sich mit den unverwüstlichen LEGO Steinen nachbilden lassen
+- Authentisches LEGO Minecraft Bau- und Spielset mit dem beliebten Onlinespielcharakter Alex, einem kultverdächtigen Creeper, zwei Schweinen, Zubehör für Alex und Karotten für die Schweine
+- Das LEGO Minecraft Set „Das Schweinehaus“ (21170) weckt die Leidenschaft eines Minecraft Spielers für das Onlinespiel. Das Spielvergnügen und die Kreativität aus Minecraft treffen auf das aktive Bauerlebnis und die Vielseitigkeit des LEGO Steins.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4GPS3P/?tag=tolees0ca-21)
