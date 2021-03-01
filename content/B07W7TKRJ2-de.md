@@ -29,8 +29,8 @@ With a final price of 7.39 EUR (original: 9.99 EUR) you can find [Lego Creator -
 ℹ️:
 
 - LEGO Creator 3-in-1-Sets bieten drei verschiedene Bau- und Spielerlebnisse mit eigenständigen Modellen zum Bauen, Spielen und Wiederaufbauen
-- Der rot-schwarze Sportwagen hat einen schwarzen hinteren Motor mit Saugrohr und einen Spoiler auf dem Heck sowie 2 Auspuffrohre. Alle Modelle sind rot-schwarz-grau
 - Der Hot-Rod ist mit breiten, spurstabilen Raupenreifen, einer vorderen Lufthutze und einem Kühlergrill sowie einem Mittelmotor ausgestattet und das Flugzeug verfügt über zwei Motoren
+- Der rot-schwarze Sportwagen hat einen schwarzen hinteren Motor mit Saugrohr und einen Spoiler auf dem Heck sowie 2 Auspuffrohre. Alle Modelle sind rot-schwarz-grau
 - Dieses faszinierende Spielzeug ist kompakt genug, um es überall mitzunehmen, und groß genug, um eine Minifigur (nicht enthalten) unterzubringen. Einfache Bauanleitungen sind enthalten
 - Das Creator 3-in-1-Set bietet Kindern gleich 3 Bauoptionen: Sie können einen Sportwagen, einen Hot Rod oder einen historischen Flieger bauen
 
