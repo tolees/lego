@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 30.03 % for LEGO 11001 Classic Bausteine - Erster Ba'
-date: 2021-02-22 14:41:26
+date: 2021-03-01 13:21:29
 image: 'https://m.media-amazon.com/images/I/51Ef49adhPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNT8XBK/?tag=tolees0ca-21'
 descuento: '30.03'
-average: '8.22928571428572'
+average: '8.074375'
 ---
 
 You've got [LEGO 11001 Classic Bausteine - Erster Bauspaß  Konstruktionsspielzeug](https://www.amazon.de/dp/B07FNT8XBK/?tag=tolees0ca-21) with a  30.03 % discount, with final price of 6.99 EUR (original: 9.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 11001 Classic Bausteine - Erster Bauspaß  Konstruktionsspielze
 
 ℹ️:
 
-- Baue einen Dinosaurier, ein Keyboard, ein Haus, eine Eisenbahn oder was auch immer man sich vorstellen kann.
-- Mehr Bauanleitungen, Bauideen und Anregungen stehen online zur Verfügung.
-- Mit bunten LEGO Elementen für grenzenlos kreatives Spielen.
-- Enthält LEGO Steine, Augen, Räder und Scharniere für einfache Modelle.
 - Ideales LEGO Starterset für kreative Kinder.
+- Enthält LEGO Steine, Augen, Räder und Scharniere für einfache Modelle.
+- Mit bunten LEGO Elementen für grenzenlos kreatives Spielen.
+- Mehr Bauanleitungen, Bauideen und Anregungen stehen online zur Verfügung.
+- Baue einen Dinosaurier, ein Keyboard, ein Haus, eine Eisenbahn oder was auch immer man sich vorstellen kann.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNT8XBK/?tag=tolees0ca-21)
