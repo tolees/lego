@@ -30,8 +30,8 @@ There's a deal [LEGO Creator 3in1 Space Rover Explorer 31107 Building Toy for Ki
 
 - This set gives kids 3 options to build: A LEGO Creator 3in1 Space Rover Explorer toy, space base or space flyer, to play with solo or with other sets. The set also has an astronaut minifigure for extra play fun
 - Any fan of creative building will love this awesome set; The sturdy Space Rover Explorer, space base and space flyer models make a great gift for boys and girls aged 8+
-- This LEGO Creator 3in1 Space Rover Explorer 31107 set encourages kids’ creative play, featuring 3 models in 1, a Space Rover Explorer, space base or space flyer; Building and rebuilding extends the play endlessly
 - The Space Rover Explorer measures over 6” (17cm) high, 7” (20cm) long and 4” (11cm) wide, meaning this exciting action toy is full of awesome details and big enough for serious adventures
 - Kids can stretch their creativity and building skills as they study an alien in a Space Rover Explorer, recharge in a space base, go planet-hopping in a space flyer or build something new
+- This LEGO Creator 3in1 Space Rover Explorer 31107 set encourages kids’ creative play, featuring 3 models in 1, a Space Rover Explorer, space base or space flyer; Building and rebuilding extends the play endlessly
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B0858S9D8Q/?tag=tolees-20)
