@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 19.99 % for LEGO Star Wars: The Rise of Skywalker Kn'
-date: 2021-03-01 10:57:31
+date: 2021-03-02 11:36:56
 image: 'https://m.media-amazon.com/images/I/51IWnYBVtxL._SL400_.jpg'
 comments: true
 category: ofertas
