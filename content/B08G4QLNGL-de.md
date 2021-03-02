@@ -28,11 +28,11 @@ You've got [LEGO 41666 Friends Magische Würfel Andreas Häschen-Würfel Mini-Se
 
 ℹ️:
 
-- Ein tolles kleines Geburtstagsgeschenk für Kinder ab 6 Jahren, die gerne Tiere umsorgen. Außerdem bietet dieses ideale spontane Geschenk Zugang zum großen LEGO Spieluniversum
-- Der Würfel enthält die LEGO Friends Heldin Andrea als Spielfigur, eine Häschenfigur in einer von vier Farben, einen baubaren Stall, einen Pilz und einen Baum sowie einen Korb mit Zubehör, um die Fantasie zu wecken
-- In diesen nur 8 cm langen und 13 cm breiten Würfel passt jede Menge LEGO Spielspaß. Mit den Stoffohren (neu ab Januar 2021) und dem niedlichen Häschengesicht beeindruckt die kompakte Tragebox auch als Deko-Element
 - Kinder können die Elemente aus dem LEGO Friends Würfel herausnehmen oder darin verstauen, um sich auch unterwegs zu beschäftigen oder eine Freundin mitspielen zu lassen
-- LEGO Friends Tier-Würfel sind ideale spontane Geschenke für Kinder, die gerne überall kreativ spielen. Das Reiseset „Andreas Häschen-Würfel“ (41666) inspiriert zum fürsorglichen Rollenspiel und eignet sich hervorragend als Deko-Element
+- Ein tolles kleines Geburtstagsgeschenk für Kinder ab 6 Jahren, die gerne Tiere umsorgen. Außerdem bietet dieses ideale spontane Geschenk Zugang zum großen LEGO Spieluniversum
 - Die beliebten Heartlake City Spielzeuge ermöglichen es fürsorglichen Kindern, an der Seite vertrauter LEGO Friends Charaktere mit Spielzeug-Tieren zu spielen
+- Der Würfel enthält die LEGO Friends Heldin Andrea als Spielfigur, eine Häschenfigur in einer von vier Farben, einen baubaren Stall, einen Pilz und einen Baum sowie einen Korb mit Zubehör, um die Fantasie zu wecken
+- LEGO Friends Tier-Würfel sind ideale spontane Geschenke für Kinder, die gerne überall kreativ spielen. Das Reiseset „Andreas Häschen-Würfel“ (41666) inspiriert zum fürsorglichen Rollenspiel und eignet sich hervorragend als Deko-Element
+- In diesen nur 8 cm langen und 13 cm breiten Würfel passt jede Menge LEGO Spielspaß. Mit den Stoffohren (neu ab Januar 2021) und dem niedlichen Häschengesicht beeindruckt die kompakte Tragebox auch als Deko-Element
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4QLNGL/?tag=tolees0ca-21)
