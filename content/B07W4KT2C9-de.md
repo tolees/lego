@@ -29,9 +29,9 @@ With a final price of 40.99 EUR (original: 59.99 EUR) you can find [LEGO 21052 A
 ℹ️:
 
 - Dieses Set vereint detailgetreue Modelle berühmter Gebäude und Wahrzeichen Dubais, um alle Bewunderer dieser aufregenden, modernen Stadt zu inspirieren
-- Diese Dubai-Skyline-Version zeigt detailgetreue Modelle der spektakulärsten Sehenswürdigkeiten mit der legendären, segelförmigen Silhouette
-- Wissenswertes über Dubai und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO architecture kann das Heft auch in anderen Sprachen heruntergeladen werden
-- Der berühmte Burj Khalifa, das Jumeirah Emirates Towers Hotel, das Burj Al Arab Jumeirah Hotel, der Dubai Frame und die Dubai Fountain sind in diesem Architektur-Modellbausatz enthalten
 - Jeder, der eine Leidenschaft für Dubai hat, wird es genießen, dieses auffällige Modell zu Hause oder im Büro zu bauen und es mit Stolz zu präsentieren
+- Diese Dubai-Skyline-Version zeigt detailgetreue Modelle der spektakulärsten Sehenswürdigkeiten mit der legendären, segelförmigen Silhouette
+- Der berühmte Burj Khalifa, das Jumeirah Emirates Towers Hotel, das Burj Al Arab Jumeirah Hotel, der Dubai Frame und die Dubai Fountain sind in diesem Architektur-Modellbausatz enthalten
+- Wissenswertes über Dubai und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO architecture kann das Heft auch in anderen Sprachen heruntergeladen werden
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W4KT2C9/?tag=tolees0ca-21)
