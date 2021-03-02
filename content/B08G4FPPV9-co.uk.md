@@ -28,12 +28,12 @@ You've got [LEGO 43102 VIDIYO Candy Mermaid BeatBox Music Video Maker Musical To
 
 ℹ️:
 
-- With over 90 BeatBits and 12 characters to collect, all inspired by different musical genres, kids will love this expanding, share-with-friends toy
 - The augmented reality app is compatible with over 180+ iOS/Android/mobile devices. Check compatibility at lego.com/devicecheck
+- With over 90 BeatBits and 12 characters to collect, all inspired by different musical genres, kids will love this expanding, share-with-friends toy
+- BeatBits tiles placed on the stage unlock special effects in the app when scanned to add and create unique, new music videos every time
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 - Includes a mermaid minifigure with guitar, 14 random BeatBits, 2 special BeatBits and a scene that allows interactive music video making
 - Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
-- BeatBits tiles placed on the stage unlock special effects in the app when scanned to add and create unique, new music videos every time
 - Use the app to bring the mermaid to life within an awesome pop music video to share online. See your mermaid rock out on her sweet guitar
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4FPPV9/?tag=tolees0a-21)
