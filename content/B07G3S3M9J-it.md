@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter La Torre dell Orologio at 17.49 % discount'
-date: 2021-03-01 13:20:51
+date: 2021-03-02 13:37:25
 image: 'https://m.media-amazon.com/images/I/51GeNtR5KJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07G3S3M9J/?tag=tolees00-21'
 descuento: '17.49'
-average: '90.0634463276836'
+average: '89.9789385474861'
 ---
 
 With a final price of 82.5 EUR (original: 99.99 EUR) you can find [LEGO Harry Potter La Torre dell Orologio di Hogwarts  Giocattolo Compatibile con i Playset della Sala Grande e il Platano Picchiatore  75948](https://www.amazon.it/dp/B07G3S3M9J/?tag=tolees00-21) with a  17.49 % discount here:
