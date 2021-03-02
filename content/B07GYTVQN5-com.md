@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO Technic Chevrolet Corvette ZR1 4209'
-date: 2021-02-28 23:01:14
+date: 2021-03-02 04:47:00
 image: 'https://m.media-amazon.com/images/I/51pmhULl3pL._SL400_.jpg'
 comments: true
 category: ofertas
