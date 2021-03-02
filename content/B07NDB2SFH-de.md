@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.09 % for LEGO 75255 Star Wars Yoda Bauset  Sammle'
-date: 2021-02-22 18:34:27
+date: 2021-03-01 23:19:59
 image: 'https://m.media-amazon.com/images/I/51QMdrCFCmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21'
 descuento: '22.09'
-average: '77.9630939226519'
+average: '78.2316353887398'
 ---
 
 You've got [LEGO 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21) with a  22.09 % discount, with final price of 77.9 EUR (original: 99.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer 
 
 ℹ️:
 
-- Dieses Yoda-Modell ist das ideale Geschenk von LEGO Star Wars für Jungen und Mädchen ab 12 Jahren. Damit bildet sie das beeindruckende Herzstück einer jeden Star-Wars-Sammlung
-- Yoda-Figur von LEGO Star Wars zum Ausstellen – eine detaillierte, baubare Version des unverwechselbaren Jedi-Meisters, der sich bei Kindern und Fans großer Beliebtheit erfreut
-- Es verfügt über einen beweglichen Kopf, bewegliche Augenbrauen, Finger und Zehen sowie über ein großes grünes Lichtschwert, das einen jeden Star-Wars-Fan in Staunen versetzt
-- Die 1.771-teilige Sammelfigur basiert auf der Version des Jedi-Meisters aus dem Film Star Wars: Angriff der Klonkrieger; Mit Lichtschwert ist sie 41 cm hoch.
-- Ergänzt wird dieser Fanliebling durch ein Infoschild und einen Präsentationsständer für die enthaltene Yoda-Minifigur
+- Also features a fact plaque with details about the Jedi master, and a stand for the included Yoda minifigure and Lightsaber to impress any fan
+- Display LEGO Star Wars character Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore
+- This Star Wars: Attack of the Clones collectible makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
+- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
+- This version of Jedi Master Yoda, collectible figure with Lightsaber stands over 16 Inch (41 cm) tall, a centrepiece for any Star Wars collection
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21)
