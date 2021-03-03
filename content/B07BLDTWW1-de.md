@@ -28,9 +28,9 @@ There's a deal [LEGO Ideas Voltron  21311  Bauset  2.321 Teile ](https://www.a
 
 ℹ️:
 
-- Dieses Set enthält mehr als 2.321 Teile
 - Stelle die Figuren aus oder spiele die spannende Action aus der animierten Voltron-Fernsehserie aus den 1980er-Jahren und der modernen DreamWorks Serie "Voltron: Legendärer Verteidiger" nach.
 - Spiele mit den einzelnen Löwen oder kombiniere sie mithilfe der besonders robusten Gelenke zu Voltron: Der schwarze Löwe bildet Kopf und Brustkorb, der rote und der grüne Löwe fungieren jeweils als Arm und der gelbe und der blaue Löwe bilden je ein Bein.
+- Dieses Set enthält mehr als 2.321 Teile
 - Mit 5 baubaren und beweglichen Löwen, die miteinander kombiniert werden können, um den gigantischen Superroboter Voltron zu bilden.
 - Enthält eine Broschüre mit der Bauanleitung und Informationen über den Fan und die LEGO Designer, die das Set entwickelt haben.
 
