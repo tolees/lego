@@ -28,14 +28,14 @@ With a final price of 153.4 EUR (original: 199.2 EUR) you can find [Juego princi
 
 ℹ️:
 
-- Valores clave de aprendizaje:
 - Disponible tanto para equipos de escritorio como para tabletas
+- Investigación, modelado y diseño de soluciones
+- Habilidades de colaboración y presentación
+- Valores clave de aprendizaje:
+- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
+- Evaluación integrada
 - Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
 - Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
-- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
-- Habilidades de colaboración y presentación
-- Investigación, modelado y diseño de soluciones
-- Evaluación integrada
 - Habilidades básicas de programación
 - Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
 
