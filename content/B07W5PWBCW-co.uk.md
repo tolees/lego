@@ -28,10 +28,10 @@ You've got [LEGO Classic - LEGO 11007 Classic Creative Green Bricks Learning Sta
 
 ℹ️:
 
+- Big bricks are safe, toddler-friendly and easy for small hands to pick up and place, while developing language, social and emotional skills
+- This big bricks starter set for children aged 4 and over with 3 easy-to-build toys with fun features lets assemble them simultaneously
 - LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
 - Creative fun on the go! This large bricks set is handy enough for parents to take the imaginative play with them wherever their kids go
 - There are 3 fun brick toys to build: a dog, a helicopter with rotating blades and an apple tree with a delicious-looking detachable apple
-- This big bricks starter set for children aged 4 and over with 3 easy-to-build toys with fun features lets assemble them simultaneously
-- Big bricks are safe, toddler-friendly and easy for small hands to pick up and place, while developing language, social and emotional skills
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PWBCW/?tag=tolees0a-21)
