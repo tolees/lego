@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43107 VIDIYO HipHop Robot BeatBox M at 33.35 % discount'
-date: 2021-03-02 08:33:40
+date: 2021-03-03 12:47:01
 image: 'https://m.media-amazon.com/images/I/51DH83w+ejL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ With a final price of 11.99 GBP (original: 17.99 GBP) you can find [LEGO 43107 V
 
 ℹ️:
 
-- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
-- BeatBits tiles placed on the stage unlock special effects in the app when scanned to add and create unique, new music videos every time
-- Includes a robot minifigure, microphone accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
-- With over 90 BeatBits and 12 characters to collect, all inspired by different musical genres, kids will love this expanding, share-with-friends toy
 - The augmented reality app is compatible with over 180+ iOS/Android/mobile devices. Check compatibility at lego.com/devicecheck
-- Use the app to bring the robot to life with an awesome hip-hop music video to share online, and use the bling effect to make minifigures gold
+- Includes a robot minifigure, microphone accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
+- BeatBits tiles placed on the stage unlock special effects in the app when scanned to add and create unique, new music videos every time
+- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 - Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
+- Use the app to bring the robot to life with an awesome hip-hop music video to share online, and use the bling effect to make minifigures gold
+- With over 90 BeatBits and 12 characters to collect, all inspired by different musical genres, kids will love this expanding, share-with-friends toy
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4FRM1T/?tag=tolees0a-21)

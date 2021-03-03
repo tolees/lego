@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.35 % deal for LEGO 43104 VIDIYO Alien DJ BeatBox Music'
-date: 2021-03-02 08:33:44
+date: 2021-03-03 12:47:50
 image: 'https://m.media-amazon.com/images/I/51Z2wh3voAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ There's a deal [LEGO 43104 VIDIYO Alien DJ BeatBox Music Video Maker Musical Toy
 
 ℹ️:
 
-- Includes an alien DJ minifigure, LP record accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
-- With over 90 BeatBits and 12 characters to collect, all inspired by different musical genres, kids will love this expanding, share-with-friends toy
-- The augmented reality app is compatible with over 180+ iOS/Android/mobile devices. Check compatibility at lego.com/devicecheck
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 - Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 - Use the app to bring the alien DJ to life with extraterrestrial vibes, and glowsticks that leave light trails as the character waves them
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
+- Includes an alien DJ minifigure, LP record accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
+- With over 90 BeatBits and 12 characters to collect, all inspired by different musical genres, kids will love this expanding, share-with-friends toy
 - BeatBits tiles placed on the stage unlock special effects in the app when scanned to add and create unique, new music videos every time
+- The augmented reality app is compatible with over 180+ iOS/Android/mobile devices. Check compatibility at lego.com/devicecheck
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4P4W4B/?tag=tolees0a-21)
