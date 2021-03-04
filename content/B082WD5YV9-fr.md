@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 16.67 % for LEGO MINDSTORMS Robot Inventor 51515 - K'
-date: 2021-03-03 13:04:09
+date: 2021-03-04 18:46:51
 image: 'https://m.media-amazon.com/images/I/51FWF84FDwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B082WD5YV9/?tag=tolees0d-21'
 descuento: '16.67'
-average: '308.160104166666'
+average: '307.993367346938'
 ---
 
 You've got [LEGO MINDSTORMS Robot Inventor 51515 - Kit de Robotique 5 en 1 STEM avec Robots Télécommandés  Jeu Intéractif pour Enfants  949 Pièces ](https://www.amazon.fr/dp/B082WD5YV9/?tag=tolees0d-21) with a  16.67 % discount, with final price of 299.99 EUR (original: 359.99 EUR) at the following link:
