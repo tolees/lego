@@ -28,11 +28,11 @@ You've got [LEGO 60292 City Stadtzentrum Bauset mit Spielzeug-Motorbike  Fahrrad
 
 ℹ️:
 
+- Enthält LEGO Straßenplatten, Elemente für alle Baumodelle (Pizzeria, Autowaschanlage, Dojo, Park, Wertstoffsammelstelle, LKW, Elektroauto, Motorrad und Fahrrad) sowie 8 Minifiguren, eine Babyfigur und eine Blindenhundfigur
 - Das LEGO City Spielset „Stadtzentrum“ ist ein beeindruckendes Geschenk zu Weihnachten, zum Geburtstag oder zu jedem anderen Anlass für alle Fans der TV-Serie „LEGO City – Abenteuer“ und für Kinder, die kreativen Spielspaß lieben
 - In dem LEGO Set gibt es unzählige realistische Funktionen. Kinder können zum Beispiel die Fahrzeuge durch die Autowaschanlage fahren und die Reinigungsbürsten drehen oder die Wertstoffcontainer mit dem LKW-Kran aufladen
-- Enthält LEGO Straßenplatten, Elemente für alle Baumodelle (Pizzeria, Autowaschanlage, Dojo, Park, Wertstoffsammelstelle, LKW, Elektroauto, Motorrad und Fahrrad) sowie 8 Minifiguren, eine Babyfigur und eine Blindenhundfigur
-- Das hochwertige LEGO City Spielset „Stadtzentrum“ (60292) enthält detailreiche Gebäude, coole Fahrzeuge und witzige Charaktere aus der TV-Serie „LEGO City – Abenteuer“. Ein tolles Geschenk für Kinder ab 6 Jahren
 - Neben einer einfachen gedruckten Bauanleitung gibt es zu dem Set auch interaktive Instructions PLUS in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets, die Kinder in wahre Baumeister verwandeln
+- Das hochwertige LEGO City Spielset „Stadtzentrum“ (60292) enthält detailreiche Gebäude, coole Fahrzeuge und witzige Charaktere aus der TV-Serie „LEGO City – Abenteuer“. Ein tolles Geschenk für Kinder ab 6 Jahren
 - Das fertige LEGO City Bauspielzeug „Stadtzentrum“ ist 24 cm hoch, 41 cm breit und 44 cm tief
 - Pizzakartons und eine Pizzaschaufel sind als Zubehör enthalten. Mithilfe der beiliegenden LEGO Straßenplatten können Kinder das Modell mit anderen LEGO Spielsets verbinden, um eine eigene Stadt aufzubauen
 
