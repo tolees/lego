@@ -28,10 +28,10 @@ With a final price of 15.99 EUR (original: 19.49 EUR) you can find [LEGO 70427 H
 
 ℹ️:
 
-- Dieses LEGO Hidden Side Bauspielzeug kombiniert das kreative Spielerlebnis der LEGO Sets mit einer App, um ein faszinierendes Spielerlebnis mit Augmented Reality Funtkionen zu bieten – im Einzel- oder Mehrspielermodus. Ideal für Kinder ab 7 Jahren
 - Das LEGO Hidden Side Modell enthält einen spukenden Baum, den Kinder in eine digitalen Spielwelt interagieren können, mit witzigen Funktionen sowie den Geisterjäger Jack und die spukenden Minifiguren Axel Chops, Scrimper und Waylon
+- Das fertige LEGO Modell Hidden Side Portal (70427) ist 17 cm hoch, 22 cm breit und 13 cm tief
+- Dieses LEGO Hidden Side Bauspielzeug kombiniert das kreative Spielerlebnis der LEGO Sets mit einer App, um ein faszinierendes Spielerlebnis mit Augmented Reality Funtkionen zu bieten – im Einzel- oder Mehrspielermodus. Ideal für Kinder ab 7 Jahren
 - Das Erlebnis wurde um die Multiplayer-Option erweitert. Kompatibel mit über 180 iOS- und Android-Geräten – Einzelheiten finden Sie in der Produktbeschreibung
 - Die Interaktion mit dem Modell lässt Dinge in der App passieren, Kinder jagen und fangen Geister für die spätere Verwendung im Spiel, und der Spaß kennt kein Ende
-- Das fertige LEGO Modell Hidden Side Portal (70427) ist 17 cm hoch, 22 cm breit und 13 cm tief
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WBZZLSJ/?tag=tolees0ca-21)

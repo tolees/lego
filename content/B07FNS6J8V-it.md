@@ -1,42 +1,42 @@
 ---
 layout: post
-title: 'Discount of 19.05 % for LEGO City Fire Missione Antincendio in C'
-date: 2021-02-16 10:35:30
-image: 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg'
+title: 'Discount of 15.00 % for LEGO City Fire Missione Antincendio in C'
+date: 2021-03-04 20:14:55
+image: 'https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6J8V-it LEGO City Fire Missione Antincendio in Città con Autopompa...'
 sku: 'B07FNS6J8V-it'
 tags: [ 'lego', ]
-actualPrice: 84.99 EUR
+actualPrice: 89.24 EUR
 currency: EUR
-price: 84.99
+price: 89.24
 comparePrice: 104.99 EUR
 prodname: 'LEGO City Fire Missione Antincendio in Città con Autopompa  Gru  Elicottero  Moto e 7 Minifigure  Giocattoli Ispirati ai Pompieri per Bambini  60216'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07FNS6J8V/?tag=tolees00-21'
-descuento: '19.05'
-average: '92.5912711864405'
+descuento: '15.00'
+average: '92.6845801526718'
 ---
 
-You've got [LEGO City Fire Missione Antincendio in Città con Autopompa  Gru  Elicottero  Moto e 7 Minifigure  Giocattoli Ispirati ai Pompieri per Bambini  60216](https://www.amazon.it/dp/B07FNS6J8V/?tag=tolees00-21) with a  19.05 % discount, with final price of 84.99 EUR (original: 104.99 EUR) at the following link:
+You've got [LEGO City Fire Missione Antincendio in Città con Autopompa  Gru  Elicottero  Moto e 7 Minifigure  Giocattoli Ispirati ai Pompieri per Bambini  60216](https://www.amazon.it/dp/B07FNS6J8V/?tag=tolees00-21) with a  15.00 % discount, with final price of 89.24 EUR (original: 104.99 EUR) at the following link:
 
-[![LEGO City Fire Missione Antincendio in C](https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL200_.jpg)](https://www.amazon.it/dp/B07FNS6J8V/?tag=tolees00-21)
+[![LEGO City Fire Missione Antincendio in C](https://m.media-amazon.com/images/I/61Cs6vRNRkL._SL400_.jpg)](https://www.amazon.it/dp/B07FNS6J8V/?tag=tolees00-21)
 
 ℹ️:
 
-- Gli accessori: 2 luci di segnalazione, una radio, 2 macchine per il fumo, 12 elementi acqua, martello pneumatico, sandwich, 2 bottiglie, 2 asce antincendio e telecomando per la gru e il ROV R.O.S.-T3
-- Include 7 minifigure LEGO City: 2 operai edili, un pilota e 4 pompieri
-- Sposta il braccio della gru e solleva il wc con largano; premi il mattoncino luminoso e sonoro del camion dei pompieri mentre trasporti i pompieri sul luogo dellincendio
 - Oltre 900 pezzi; il cantiere edile, incluso il lampione e la toilette portatile, misura 27 cm di altezza, 22 cm di larghezza e 12 cm di profondità
-- Solleva la scala e premi i soffietti per lanciare gli elementi acqua e abbattere gli elementi fiamma
+- Include 7 minifigure LEGO City: 2 operai edili, un pilota e 4 pompieri
 - Inoltre un elicottero antincendio con cabina di pilotaggio, rotori e shooter a 3 colpi, il veicolo a comando remoto (ROV) R.O.S.-T3 con artigli estensibili e multi shooter, più una moto antincendio
-- Contiene inoltre un camion dei pompieri con mattoncino luminoso e sonoro, stabilizzatori, compartimento per gli attrezzi, scala girevole ed estensibile, manichetta antincendio e pompa spara-acqua
-- Contiene un edificio a 3 piani con tetto, cantiere edile con recinzione, porta-attrezzi, lampione abbattibile e un wc, più una gru a piantana con braccio girevole e argano con gancio funzionante
 - Il camion 8 cm di altezza, 39 cm di lunghezza, 6 cm di larghezza; la gru 24 cm di altezza, 21 cm di lunghezza, 11 cm di larghezza; lelicottero 8 cm di altezza, 19 cm di lunghezza, 4 cm di larghezza
 - Carica e premi gli stantuffi sugli shooter a 3 colpi dellelicottero e del ROV R.O.S.-T3 per combattere le fiamme
+- Sposta il braccio della gru e solleva il wc con largano; premi il mattoncino luminoso e sonoro del camion dei pompieri mentre trasporti i pompieri sul luogo dellincendio
+- Solleva la scala e premi i soffietti per lanciare gli elementi acqua e abbattere gli elementi fiamma
+- Gli accessori: 2 luci di segnalazione, una radio, 2 macchine per il fumo, 12 elementi acqua, martello pneumatico, sandwich, 2 bottiglie, 2 asce antincendio e telecomando per la gru e il ROV R.O.S.-T3
+- Contiene un edificio a 3 piani con tetto, cantiere edile con recinzione, porta-attrezzi, lampione abbattibile e un wc, più una gru a piantana con braccio girevole e argano con gancio funzionante
+- Contiene inoltre un camion dei pompieri con mattoncino luminoso e sonoro, stabilizzatori, compartimento per gli attrezzi, scala girevole ed estensibile, manichetta antincendio e pompa spara-acqua
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B07FNS6J8V/?tag=tolees00-21)
