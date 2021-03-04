@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'LEGO 75893 Speed Champions 2018 Dodge Ch at 17.43 % discount'
-date: 2021-02-21 00:33:44
-image: 'https://m.media-amazon.com/images/I/512VwAj5-rL._SL200_.jpg'
+title: 'LEGO 75893 Speed Champions 2018 Dodge Ch at 20.01 % discount'
+date: 2021-03-04 11:30:30
+image: 'https://m.media-amazon.com/images/I/512VwAj5-rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSDZDN-de LEGO 75893 Speed Champions 2018 Dodge Challenger SRT Demon...'
 sku: 'B07FNSDZDN-de'
 tags: [ 'lego', ]
-actualPrice: 33.02 EUR
+actualPrice: 31.99 EUR
 currency: EUR
-price: 33.02
+price: 31.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 75893 Speed Champions 2018 Dodge Challenger SRT Demon und 1970 Dodge Charger R/T Bauset  Rallyeauto  Spielfahrzeuge für Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21'
-descuento: '17.43'
-average: '33.3532441471571'
+descuento: '20.01'
+average: '33.3971061093246'
 ---
 
-With a final price of 33.02 EUR (original: 39.99 EUR) you can find [LEGO 75893 Speed Champions 2018 Dodge Challenger SRT Demon und 1970 Dodge Charger R/T Bauset  Rallyeauto  Spielfahrzeuge für Kinder](https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21) with a  17.43 % discount here:
+With a final price of 31.99 EUR (original: 39.99 EUR) you can find [LEGO 75893 Speed Champions 2018 Dodge Challenger SRT Demon und 1970 Dodge Charger R/T Bauset  Rallyeauto  Spielfahrzeuge für Kinder](https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21) with a  20.01 % discount here:
 
-[![LEGO 75893 Speed Champions 2018 Dodge Ch](https://m.media-amazon.com/images/I/512VwAj5-rL._SL200_.jpg)](https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21)
+[![LEGO 75893 Speed Champions 2018 Dodge Ch](https://m.media-amazon.com/images/I/512VwAj5-rL._SL400_.jpg)](https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Enthält 3 Minifiguren: ein Fahrer für den Challenger, ein Fahrer für den Charger und ein Streckenposten.
-- Nimm die Windschutzscheiben ab und setze die Minifiguren in die Fahrzeuge
 - Der 2018 Dodge Challenger SRT Demon zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen, 2 Sätzen Felgen, Heckspoiler, Doppelauspuff, authentischen Designdetails und dekorativen Aufklebern
-- Der muskulöse 1970 Dodge Charger R/T zum Bauen umfasst ein Cockpit für eine Minifigur, eine abnehmbare Windschutzscheibe, Räder mit Gummireifen, einen abnehmbaren Kompressor und eine zusätzliche Motorhaube, transparente Elemente als Leuchten, authentische Designdetails und dekorative Aufkleber
+- Nimm die Windschutzscheiben ab und setze die Minifiguren in die Fahrzeuge
+- Enthält 3 Minifiguren: ein Fahrer für den Challenger, ein Fahrer für den Charger und ein Streckenposten.
 - Dieses Spielzeugauto-Set enthält eine hebelbetriebene Startampel zum Bauen und transparenten Elementen als Leuchten
+- Der muskulöse 1970 Dodge Charger R/T zum Bauen umfasst ein Cockpit für eine Minifigur, eine abnehmbare Windschutzscheibe, Räder mit Gummireifen, einen abnehmbaren Kompressor und eine zusätzliche Motorhaube, transparente Elemente als Leuchten, authentische Designdetails und dekorative Aufkleber
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21)
