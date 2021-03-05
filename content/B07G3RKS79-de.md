@@ -29,7 +29,7 @@ There's a deal [LEGO - Confidential](https://www.amazon.de/dp/B07G3RKS79/?tag=to
 ℹ️:
 
 - Confidential
-- Confidential
 - Geheim
+- Confidential
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07G3RKS79/?tag=tolees0ca-21)
