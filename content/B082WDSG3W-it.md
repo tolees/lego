@@ -29,9 +29,9 @@ With a final price of 25.49 EUR (original: 29.99 EUR) you can find [LEGO Super M
 ℹ️:
 
 - Questo set di costruzione non richiede batterie e prende vita quando viene combinato con il personaggio di LEGO Mario dello Starter Pack; il set viene fornito con istruzioni illustrate per bambini
-- Il blocco del tempo offre ai giocatori la possibilità di guadagnare più tempo durante il gioco; il set include anche i personaggi giocattolo di Goomba e Koopa da sconfiggere per vincere più monete
-- L’app LEGO Super Mario gratuita fornisce istruzioni di montaggio digitali, strumenti di visualizzazione, suggerimenti per giocare e divertirsi in modo creativo e molto altro
 - Set di espansione Scivolo della Pianta Piranha (71365)  per creare una divertente sfida su scivolo e altalena e ampliare il Percorso di base Avventure con Mario LEGO
+- L’app LEGO Super Mario gratuita fornisce istruzioni di montaggio digitali, strumenti di visualizzazione, suggerimenti per giocare e divertirsi in modo creativo e molto altro
 - Questo set è formato da unaltalena costruibile con piattaforma su rotaie su cui posizionare LEGO Mario (personaggio non incluso), per perfezionare l abilità dei bambini nella raccolta delle monete
+- Il blocco del tempo offre ai giocatori la possibilità di guadagnare più tempo durante il gioco; il set include anche i personaggi giocattolo di Goomba e Koopa da sconfiggere per vincere più monete
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B082WDSG3W/?tag=tolees00-21)

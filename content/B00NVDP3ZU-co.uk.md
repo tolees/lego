@@ -28,10 +28,10 @@ You've got [LEGO 10696 Classic Medium Creative Brick Box  Easy Toy Storage  Lego
 
 ℹ️:
 
-- The special elements include an 8 x 16 cm base plate, a window with frame and 3 pairs of eyes
 - LEGO Classic is designed to serve as an inspiration for endless creativity when building with LEGO bricks
-- Contains a wide range of LEGO bricks in 35 different colors
 - All illustrated models can be built from this set at the same time
+- Contains a wide range of LEGO bricks in 35 different colors
+- The special elements include an 8 x 16 cm base plate, a window with frame and 3 pairs of eyes
 - Includes 18 tires and 18 rims
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21)
