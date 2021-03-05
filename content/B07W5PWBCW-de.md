@@ -28,10 +28,10 @@ You've got [LEGO Classic - LEGO 11007 Classic Grünes Kreativ-Set  Lernstarter-S
 
 ℹ️:
 
-- Kreativer Spaß für unterwegs. Dieses große Steine-Set ist handlich genug, um es überall mitzunehmen
-- Aus den 60 grünen LEGO Steinen entstehen 3 Modelle: ein Hund, ein Hubschrauber mit drehendem Rotor sowie ein Apfelbaum mit einem abnehmbaren Apfel
 - LEGO Spielzeuge erfüllen die höchsten Branchenstandards, damit sie sich stets mühelos kombinieren, zusammenstecken und wieder zerlegen lassen
-- Dieses tolle Starter-Set für Kinder ab 4 Jahren enthält 3 einfach zu bauende Spielzeuge, ermöglicht aber auch den Bau eigener kreativer Modelle
+- Aus den 60 grünen LEGO Steinen entstehen 3 Modelle: ein Hund, ein Hubschrauber mit drehendem Rotor sowie ein Apfelbaum mit einem abnehmbaren Apfel
+- Kreativer Spaß für unterwegs. Dieses große Steine-Set ist handlich genug, um es überall mitzunehmen
 - Große Steine sind sicher, kinderfreundlich und für kleine Hände leicht zu nehmen und zu platzieren, während sprachliche, soziale und emotionale Fähigkeiten entwickelt werden
+- Dieses tolle Starter-Set für Kinder ab 4 Jahren enthält 3 einfach zu bauende Spielzeuge, ermöglicht aber auch den Bau eigener kreativer Modelle
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5PWBCW/?tag=tolees0ca-21)
