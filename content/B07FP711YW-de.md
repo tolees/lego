@@ -28,8 +28,8 @@ With a final price of 11.25 EUR (original: 14.99 EUR) you can find [LEGO 75891 S
 
 ℹ️:
 
-- Das Stockcar Chevrolet Camaro ZL1 zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur und einstellbarem Überrollkäfig, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und dem Markenzeichen von Chevrolet Camaro auf den Felgen, transparenten Elementen als Leuchten, Rennfarben, Rennaufklebern und anderen authentischen Designdetails
 - Enthält eine Rennfahrer-Minifigur in Camaro-Kluft
+- Das Stockcar Chevrolet Camaro ZL1 zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur und einstellbarem Überrollkäfig, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und dem Markenzeichen von Chevrolet Camaro auf den Felgen, transparenten Elementen als Leuchten, Rennfarben, Rennaufklebern und anderen authentischen Designdetails
 - Dieses Konstruktionsspielzeug eignet sich ausgezeichnet als Geschenk für Kinder und Liebhaber jeden Alters
 - Nimm die Windschutzscheibe ab, hebe den Überrollkäfig an und setze die Minifigur in den Wagen
 - Als Zubehör sind ein Treibstoffkanister, ein Schraubenschlüssel und der Helm des Rennfahrers in Camaro-Kluft enthalten
