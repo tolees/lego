@@ -28,10 +28,10 @@ You've got [LEGO 75286 Star Wars General Grievous’s Starfighter Set](https://w
 
 ℹ️:
 
-- Comes with illustrated, step-by-step instructions so that even Star Wars fans new to LEGO can build this spacecraft independently
+- Includes 3 LEGO minifigures: General Grievous, Obi-Wan Kenobi with his Lightsaber and an Airborne Clone Trooper with a blaster
 - A super gift idea for Star Wars fan, great for solo or group play and an awesome addition to combine with and expand other LEGO sets
 - Re-imagine classic action battles from Star Wars: Revenge of the Sith with the Starfighter, minifigures and all the cool weapons
-- Includes 3 LEGO minifigures: General Grievous, Obi-Wan Kenobi with his Lightsaber and an Airborne Clone Trooper with a blaster
+- Comes with illustrated, step-by-step instructions so that even Star Wars fans new to LEGO can build this spacecraft independently
 - Help Obi-Wan Kenobi take on General Grievous’s Starfighter with its opening cockpit, 2 spring-loaded shooters and retractable landing gear
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QVVSW/?tag=tolees0a-21)
