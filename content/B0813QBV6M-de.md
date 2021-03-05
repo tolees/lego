@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 32.00 % for LEGO 21054 Architecture Das Weiße Haus  '
-date: 2021-03-04 12:05:00
+date: 2021-03-05 19:38:10
 image: 'https://m.media-amazon.com/images/I/51grYf7UH7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21'
 descuento: '32.00'
-average: '72.8732394366196'
+average: '72.85952247191'
 ---
 
 You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigkeiten für Erwachsene  Geschenkidee zum Sammeln  Bauset](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21) with a  32.00 % discount, with final price of 67.99 EUR (original: 99.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigk
 
 ℹ️:
 
-- Das Sammlermodell kann zur genaueren Betrachtung der architektonischen Details leicht in drei Abschnitte unterteilt werden
-- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
-- Das Ausstellungsmodell des Weißen Hauses fängt das neoklassizistische Design und die Pracht dieser weltberühmten Residenz wunderschön ein
-- Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
-- Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
+- The Architecture display model of The White House beautifully captures the neoclassical design and splendour of this world-famous residence
+- Includes clear instructions so even LEGO newcomers can build with confidence, and a coffee-table-style booklet telling The White House story
+- The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
+- Features details like the Executive Residence, West Wing, East Wing and connecting colonnades, the Jacqueline Kennedy Garden and Rose Garden
+- Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21)
