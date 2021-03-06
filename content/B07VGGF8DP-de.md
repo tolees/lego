@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 21.49 % for LEGO Ideas 21319 - FRIENDS Central Perk '
-date: 2021-03-04 23:38:22
+date: 2021-03-06 04:52:47
 image: 'https://m.media-amazon.com/images/I/61tL5sAvjhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO Ideas'
 buyurl: 'https://www.amazon.de/dp/B07VGGF8DP/?tag=tolees0ca-21'
 descuento: '21.49'
-average: '57.836688741722'
+average: '57.8176973684212'
 ---
 
 You've got [LEGO Ideas 21319 - FRIENDS Central Perk Café  Bauset](https://www.amazon.de/dp/B07VGGF8DP/?tag=tolees0ca-21) with a  21.49 % discount, with final price of 54.95 EUR (original: 69.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO Ideas 21319 - FRIENDS Central Perk Café  Bauset](https://www.a
 
 ℹ️:
 
-- Dies ist eine Version des FRIENDS Cafés CENTRAL PERK aus LEGO Steinen. Es steckt voller Details, die allen Fans lustige Szenen aus dem TV-Serienklassiker Friends ins Gedächtnis rufen
-- Dieses LEGO Sammlerset mit 1.079 Teilen ist ein tolles Friends-Erinnerungsstück. Es bietet ein Bauerlebnis für Baumeister ab 16 Jahren, die gerne allein oder mit Freunden und Familie bauen
-- Inhalt: Die Kulisse des Cafés CENTRAL PERK sowie Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, Phoebe Buffay und Gunther als Minifiguren zum Nachspielen beliebter Szenen
-- Das Set CENTRAL PERK (21319) von LEGO Ideas zur TV-Serie FRIENDS lässt sich mit vorhandenen LEGO Bausteinen sowie Figuren kombinieren und damit deine ganz eigenen Modelle und Geschichten erfinden
 - Dieses farbenfrohe Set zur TV-Serie Friends ist 11 cm hoch, 29 cm breit und 22 cm tief. Als Ausstellungsstück ist es ein echter Blickfang
+- Dies ist eine Version des FRIENDS Cafés CENTRAL PERK aus LEGO Steinen. Es steckt voller Details, die allen Fans lustige Szenen aus dem TV-Serienklassiker Friends ins Gedächtnis rufen
+- Das Set CENTRAL PERK (21319) von LEGO Ideas zur TV-Serie FRIENDS lässt sich mit vorhandenen LEGO Bausteinen sowie Figuren kombinieren und damit deine ganz eigenen Modelle und Geschichten erfinden
+- Inhalt: Die Kulisse des Cafés CENTRAL PERK sowie Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, Phoebe Buffay und Gunther als Minifiguren zum Nachspielen beliebter Szenen
+- Dieses LEGO Sammlerset mit 1.079 Teilen ist ein tolles Friends-Erinnerungsstück. Es bietet ein Bauerlebnis für Baumeister ab 16 Jahren, die gerne allein oder mit Freunden und Familie bauen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07VGGF8DP/?tag=tolees0ca-21)
