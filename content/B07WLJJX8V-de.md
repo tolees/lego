@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 27.11 % for LEGO 75270 Star Wars Obi-Wans Hütte Baus'
-date: 2021-03-05 20:00:45
+date: 2021-03-06 23:24:22
 image: 'https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21'
 descuento: '27.11'
-average: '24.9626714801445'
+average: '24.940430107527'
 ---
 
 You've got [LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinzessin Leia  Serie Eine Neue Hoffnung](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21) with a  27.11 % discount, with final price of 21.86 EUR (original: 29.99 EUR) at the following link:
