@@ -28,9 +28,9 @@ There's a deal [LEGO 75954 Harry Potter Hogwarts Great Hall Castle Toy  Gift Ide
 
 ℹ️:
 
-- LEGO Harry Potter advanced building sets are compatible with all LEGO construction sets for creative building
 - 4-level tower features movable Grand Staircase spiral steps at its base, potions room, treasure room with chest and a turret featuring the Mirror of Erised with changeable pictures and roosting spot for Fawkes.
 - Hogwarts Great Hall with house banners, tower with movable spiral staircase, potions room and treasure room!
+- LEGO Harry Potter advanced building sets are compatible with all LEGO construction sets for creative building
 - Accessory elements include 7 wands, 3 tumblers, an umbrella, lantern, broom, sorting hat, cauldrons, potions, candles, 2 wizard brooms, food, trophy, teapot, chest and a spider and a boat with hanging lantern
 - Also includes buildable Basilisk and Fawkes creatures, plus Hedwig and Scabbers figures
 - Includes 10 minifigures: Harry Potter, Ron Weasley, Hermione Granger, Draco Malfoy, Susan Bones, Professor McGonagall, Professor Quirrell with dual Lord Voldemort face, Hagrid, Albus Dumbledore and Nearly Headless Nick

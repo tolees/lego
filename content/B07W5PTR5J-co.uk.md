@@ -28,10 +28,10 @@ There's a deal [LEGO 10929 DUPLO Town Modular Playhouse 3-in-1 Set  Dolls House 
 
 ℹ️:
 
+- Accessories include a guitar, toy horse, small playhouse, cake, teapot and pan, decorative stickers, even storage bricks to fold towels down
+- Includes five DUPLO figures: A mum, dad, child, dog and a teddy bear, all designed to inspire a comforting emotional attachment in toddlers
 - This accessible dollhouse is perfect for playing together to teach toddlers about everyday life routines, such as mealtime and bedtime
 - Features an opening fridge, bathroom with toilet, bedroom with bed, opening windows, doors and drawers, even soft blankets to cover with
 - The house rebuilds in three ways: As a 4-floors tower-house or residential house with fully equipped kitchen, living room, bathroom and bedroom
-- Accessories include a guitar, toy horse, small playhouse, cake, teapot and pan, decorative stickers, even storage bricks to fold towels down
-- Includes five DUPLO figures: A mum, dad, child, dog and a teddy bear, all designed to inspire a comforting emotional attachment in toddlers
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W5PTR5J/?tag=tolees0a-21)
