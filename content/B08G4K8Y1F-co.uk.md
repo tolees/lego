@@ -28,10 +28,10 @@ You've got [LEGO 42118 Technic Monster Jam Grave Digger Truck Toy to Off-Road Bu
 
 ℹ️:
 
-- Features 2 in 1 building set with a pull-back motor and authentic treats: a monster jam digger toy truck that rebuilds into an off-road buggy
 - With vehicles that look and function like real ones, the LEGO Technic universe offers a great introduction to engineering for young LEGO fans
-- The exciting world of Monster Jam comes to life, as kids recreate the epic stunts of one of the most famous and iconic monster trucks of all time
-- Check out the free LEGO Building Instructions app for Instructions PLUS, with zoom and rotate tools to help kids get building
 - Authentic touches include stickers with ghost and fire graphics, huge tyres, red headlights and a bendable flag which moves up and down
+- Features 2 in 1 building set with a pull-back motor and authentic treats: a monster jam digger toy truck that rebuilds into an off-road buggy
+- Check out the free LEGO Building Instructions app for Instructions PLUS, with zoom and rotate tools to help kids get building
+- The exciting world of Monster Jam comes to life, as kids recreate the epic stunts of one of the most famous and iconic monster trucks of all time
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4K8Y1F/?tag=tolees0a-21)

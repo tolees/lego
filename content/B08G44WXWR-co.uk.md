@@ -28,10 +28,10 @@ With a final price of 6.72 GBP (original: 8.99 GBP) you can find [LEGO 76168 Mar
 
 ℹ️:
 
-- Includes a Captain America minifigure that scales up the action with this mighty, movable mech and it can hold the small shield in its hand
 - Kids open the mech cockpit, place the Captain America minifigure inside, then save the world with the movable mechs super-sized shield
 - Features a posable mech with a large shield that fits in its gripping hand, plus a smaller shield that also attaches to the mechs leg
-- There are more LEGO Marvel mechs to collect and combine to provide kids with endless fun recreating movie action and dreaming up stories
+- Includes a Captain America minifigure that scales up the action with this mighty, movable mech and it can hold the small shield in its hand
 - A great birthday, holiday or just-because gift for any young superhero aged 7 and up, Ideal for hands-on, imaginative play
+- There are more LEGO Marvel mechs to collect and combine to provide kids with endless fun recreating movie action and dreaming up stories
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G44WXWR/?tag=tolees0a-21)
