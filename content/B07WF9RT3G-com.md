@@ -28,10 +28,10 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO City Sa
 
 ℹ️:
 
-- When built, the safari off-roader measures over 3" (10cm) high, 6" (16cm) long and 2" (6cm) wide
 - The safari off-roader has a removable roof rack for storing the photographers tree costume and a camera mount for taking the perfect photo!
+- Unleash the wild fun of LEGO City with this safari off-roader playset designed to inspire open-ended, independent role-play based on real-life scenarios!
 - This LEGO City building set sparks imagination, offers endless build-and-play fun, and is an action-filled holiday, birthday or anyday gift for kids ages 5+ who like wild animals, safari, off-roader trucks and adventure toys
 - Comes with everything a kid needs for an action-packed safari, including a zebra-patterned, all-terrain vehicle, a photographers tree costume, 2 explorer minifigures, and lioness and parrot figures
-- Unleash the wild fun of LEGO City with this safari off-roader playset designed to inspire open-ended, independent role-play based on real-life scenarios!
+- When built, the safari off-roader measures over 3" (10cm) high, 6" (16cm) long and 2" (6cm) wide
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WF9RT3G/?tag=tolees-20)
