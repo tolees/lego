@@ -28,11 +28,11 @@ You've got [LEGO Hidden Side Graveyard Mystery 70420 Building Kit  App Toy for 7
 
 ℹ️:
 
-- A great kids’ birthday gift or Christmas gift, the Graveyard Mystery playset lets kids build their very own haunted graveyard toy with a twisting statue, grave that opens and haunted toy tree for hours of creative play
 - A tablet or mobile phone is required to experience the fill augmented reality play experience, but not included. Compatible with selected iOS and Android devices. Compatible with select mobile devices
-- A ghost playset for boys and girls aged 7+, this Graveyard Mystery 70420 building set can be built together with all other original LEGO toys and LEGO bricks for creative play
 - Introduce youngsters to the exciting world of LEGO Hidden Side : A unique play experience that combines the open creative play of LEGO building toys for kids with an augmented reality app
-- This augmented reality toy for kids includes 4 minifigures: heroes Jack Davids and Parker L. Jackson with smartphones, a skeleton figure and Mr. Branson, plus the ghost dog, Spencer, for the best ghost-hunting adventures
+- A ghost playset for boys and girls aged 7+, this Graveyard Mystery 70420 building set can be built together with all other original LEGO toys and LEGO bricks for creative play
 - This graveyard ghost-catching adventure toy measures over 5” (14cm) high and 12” (32cm) wide and is full of cool details that interact with the augmented reality app for a fully interactive play experience
+- A great kids’ birthday gift or Christmas gift, the Graveyard Mystery playset lets kids build their very own haunted graveyard toy with a twisting statue, grave that opens and haunted toy tree for hours of creative play
+- This augmented reality toy for kids includes 4 minifigures: heroes Jack Davids and Parker L. Jackson with smartphones, a skeleton figure and Mr. Branson, plus the ghost dog, Spencer, for the best ghost-hunting adventures
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07NRT5BHZ/?tag=tolees-20)
