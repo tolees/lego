@@ -30,7 +30,7 @@ You've got [LEGO 60239 City Polizei Streifenwagen  Spielzeugauto mit Polizisten-
 
 - Das Set enthält außerdem ein Lego Polizeiauto mit abnehmbaren Dach, Platz für eine Minifigur im Inneren des Wagens und coole Verzierungen
 - Der Streifenwagen ist 4 cm hoch, 12 cm lang und 5 cm breit
-- Des Weiteren enthält das Set zwei Polizei-Pylone
 - Zu dem Set gehört eine Lego Polizist-Minifigur
+- Des Weiteren enthält das Set zwei Polizei-Pylone
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21)

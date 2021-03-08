@@ -28,10 +28,10 @@ With a final price of 31.99 EUR (original: 39.99 EUR) you can find [LEGO 75893 S
 
 ℹ️:
 
-- Der 2018 Dodge Challenger SRT Demon zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen, 2 Sätzen Felgen, Heckspoiler, Doppelauspuff, authentischen Designdetails und dekorativen Aufklebern
-- Dieses Spielzeugauto-Set enthält eine hebelbetriebene Startampel zum Bauen und transparenten Elementen als Leuchten
-- Enthält 3 Minifiguren: ein Fahrer für den Challenger, ein Fahrer für den Charger und ein Streckenposten.
-- Nimm die Windschutzscheiben ab und setze die Minifiguren in die Fahrzeuge
 - Der muskulöse 1970 Dodge Charger R/T zum Bauen umfasst ein Cockpit für eine Minifigur, eine abnehmbare Windschutzscheibe, Räder mit Gummireifen, einen abnehmbaren Kompressor und eine zusätzliche Motorhaube, transparente Elemente als Leuchten, authentische Designdetails und dekorative Aufkleber
+- Nimm die Windschutzscheiben ab und setze die Minifiguren in die Fahrzeuge
+- Enthält 3 Minifiguren: ein Fahrer für den Challenger, ein Fahrer für den Charger und ein Streckenposten.
+- Dieses Spielzeugauto-Set enthält eine hebelbetriebene Startampel zum Bauen und transparenten Elementen als Leuchten
+- Der 2018 Dodge Challenger SRT Demon zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen, 2 Sätzen Felgen, Heckspoiler, Doppelauspuff, authentischen Designdetails und dekorativen Aufklebern
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21)
