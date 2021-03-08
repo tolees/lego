@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO Technic Chevrolet Corvette ZR1 4209'
-date: 2021-03-06 04:35:59
+date: 2021-03-08 04:33:32
 image: 'https://m.media-amazon.com/images/I/51pmhULl3pL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07GYTVQN5/?tag=tolees-20'
 descuento: '20.00'
-average: '49.0248780487806'
+average: '48.809761904762'
 ---
 
 You've got [LEGO Technic Chevrolet Corvette ZR1 42093 Building Kit  579 Pieces ](https://www.amazon.com/dp/B07GYTVQN5/?tag=tolees-20) with a  20.00 % discount, with final price of 39.99 USD (original: 49.99 USD) at the following link:
