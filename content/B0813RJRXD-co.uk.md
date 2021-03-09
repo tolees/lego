@@ -28,10 +28,10 @@ You've got [City Oceans - LEGO 60264 City Ocean Exploration Submarine Deep Sea U
 
 ℹ️:
 
-- Comes with 4 minifigures, including 2 divers & Jessica Sharpe from the LEGO City Adventures TV series, a glowing anglerfish and a crab figure
 - Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
-- The submarine’s inspection arms can lift objects like sunken treasure, as the anglerfish suddenly comes out of the cave, scaring the divers
-- Check out other LEGO City Oceans sets: Ocean Exploration Ship 60266, Ocean Exploration Base 60265, and Ocean Mini-Submarine 60263
 - Features a submarine with built-in SUV drone to explore the seabed, a coral-covered cave and a glowing anglerfish with motion function
+- Check out other LEGO City Oceans sets: Ocean Exploration Ship 60266, Ocean Exploration Base 60265, and Ocean Mini-Submarine 60263
+- The submarine’s inspection arms can lift objects like sunken treasure, as the anglerfish suddenly comes out of the cave, scaring the divers
+- Comes with 4 minifigures, including 2 divers & Jessica Sharpe from the LEGO City Adventures TV series, a glowing anglerfish and a crab figure
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RJRXD/?tag=tolees0a-21)

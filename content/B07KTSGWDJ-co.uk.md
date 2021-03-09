@@ -30,8 +30,8 @@ With a final price of 74.99 GBP (original: 89.99 GBP) you can find [LEGO 60228 C
 
 - This large NASA-inspired multi-stage rocket can be customised in different ways with the booster, payload storage and cockpit modules
 - Accessory elements include two (for-June-2019) geodes, two helmets, a magnifying glass, scanner element, wrench and many more
-- Includes an opening launch control tower with removable window, a launchpad with opening tower arms to launch the rocket and a research area
 - Feat. a rover with articulated, (for-June-2019) grappling arm, space telescope with folding solar panels and magnifying glass and two cars
 - Includes six LEGO city minifigures: Two astronauts, two scientists, launch director, ground crew technician and a robot figure, plus accessories
+- Includes an opening launch control tower with removable window, a launchpad with opening tower arms to launch the rocket and a research area
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=tolees0a-21)
