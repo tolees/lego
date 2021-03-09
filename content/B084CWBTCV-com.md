@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 60.03 % for Lego Speed Champions 30342'
-date: 2021-03-07 23:14:51
+date: 2021-03-09 00:27:29
 image: 'https://m.media-amazon.com/images/I/41GVQIXzmPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,9 @@ You've got [Lego Speed Champions 30342](https://www.amazon.com/dp/B084CWBTCV/?ta
 
 ℹ️:
 
-- Ages 6+
-- 70 Pieces
+- Contains 70 pieces including Pull-back motor
+- Small collectable item, not necessarily suitable as a childs gift
+- LEGO Speed Champions Polybag Set
+- Lamborghini Huracan Super Trofeo EVO
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20)
