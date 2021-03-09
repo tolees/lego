@@ -28,10 +28,10 @@ With a final price of 14.99 USD (original: 19.99 USD) you can find [LEGO The LEG
 
 ℹ️:
 
-- Queen Watevra Wa’Nabi toy horse measures over 4-inch (11cm) high, 3-inch (9cm) long and 2-inch (6cm) wide; Banarnar stands 1-inch (3cm) tall
-- The creative fun never ends when building the Banarnar figure and Queen Watevra Wa’Nabi in horse form. The playset includes a rotating platform to spin into action with this fun THE LEGO MOVIE 2 toy for girls and boys
-- 115 pieces – Building set for boys and girls aged 6+ and for fans and kids; THE LEGO MOVIE 2 Introducing Queen Watevra Wa’Nabi 70824 creative toy can be built together with all other original LEGO building sets and LEGO bricks for creative play!
-- Playset includes 2 mini-dolls—Sweet Mayhem and Susan—a THE LEGO MOVIE 2 minifigure of Lucy with handcuffs, plus 4 face expression decorations for the queen when you rebuild her into pile-of-bricks form
 - With this fun-packed pretend play construction toy, your little girl or boy can build and play with their favorite THE LEGO MOVIE 2 characters and recreate adventures from the movie
+- The creative fun never ends when building the Banarnar figure and Queen Watevra Wa’Nabi in horse form. The playset includes a rotating platform to spin into action with this fun THE LEGO MOVIE 2 toy for girls and boys
+- Playset includes 2 mini-dolls—Sweet Mayhem and Susan—a THE LEGO MOVIE 2 minifigure of Lucy with handcuffs, plus 4 face expression decorations for the queen when you rebuild her into pile-of-bricks form
+- Queen Watevra Wa’Nabi toy horse measures over 4-inch (11cm) high, 3-inch (9cm) long and 2-inch (6cm) wide; Banarnar stands 1-inch (3cm) tall
+- 115 pieces – Building set for boys and girls aged 6+ and for fans and kids; THE LEGO MOVIE 2 Introducing Queen Watevra Wa’Nabi 70824 creative toy can be built together with all other original LEGO building sets and LEGO bricks for creative play!
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07GX6GNPF/?tag=tolees-20)

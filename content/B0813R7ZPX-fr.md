@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31199 Art Iron Man de Marvel Studio at 15.00 % discount'
-date: 2021-03-07 06:41:59
+date: 2021-03-09 12:01:57
 image: 'https://m.media-amazon.com/images/I/51ktSCyPnpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813R7ZPX/?tag=tolees0d-21'
 descuento: '15.00'
-average: '99.49'
+average: '99.5168817204301'
 ---
 
 With a final price of 101.99 EUR (original: 119.99 EUR) you can find [LEGO 31199 Art Iron Man de Marvel Studios  Cadre artistique  Set de construction pour adultes  3156 Pièces](https://www.amazon.fr/dp/B0813R7ZPX/?tag=tolees0d-21) with a  15.00 % discount here:
