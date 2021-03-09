@@ -28,10 +28,10 @@ There's a deal [LEGO 10256 - CREATOR EXPERT -](https://www.amazon.co.uk/dp/B077T
 
 ℹ️:
 
+- Lego interpretation of a real architectural wonder - the Taj Mahal.
+- Try out your skills as a Lego building master with one of the largest Lego models of all times.
 - It can be divided into 7 modules to be transported easier.
 - New version of the model released in 2008 with 4 facades with elevations and round windows, one main dome, 4 domed secondary chambers and 4 minarets, which all have magnificent adornments. A raised platform is surrounded by elevations and the base by elaborate tiles. The entire model impresses with its countless magnificent details.
 - Special elements include 6 blue 16 x 32 base plates, white 1 x 5 x 4 stones with arches, many transparent elements and gems, as well as 1 x 2 strips with nubs.
-- Lego interpretation of a real architectural wonder - the Taj Mahal.
-- Try out your skills as a Lego building master with one of the largest Lego models of all times.
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B077TZTDF6/?tag=tolees0a-21)
