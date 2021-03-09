@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.56 % deal for LEGO 76897 Speed Champions 1985 Audi Spo'
-date: 2021-03-02 23:29:43
+date: 2021-03-09 06:29:30
 image: 'https://m.media-amazon.com/images/I/51zBhBOMzzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21'
 descuento: '26.56'
-average: '17.2003103448277'
+average: '17.2925418060202'
 ---
 
 There's a deal [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Rennwagenspielzeug mit Rennfahrer Minifigur  Rennwagen Bauset](https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21)  with  26.56 % discount, final price tag of  14.68 EUR (original: 19.99 EUR) here:
