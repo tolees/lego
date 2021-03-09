@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.39 % for LEGO 75257 Star Wars Millennium Falcon R'
-date: 2021-03-08 05:46:02
+date: 2021-03-09 07:24:33
 image: 'https://m.media-amazon.com/images/I/51zyvQhbHVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21'
 descuento: '22.39'
-average: '131.020364583334'
+average: '130.984870466322'
 ---
 
 You've got [LEGO 75257 Star Wars Millennium Falcon Raumschiff Bauset mit Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 und D-O  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21) with a  22.39 % discount, with final price of 124.17 EUR (original: 159.99 EUR) at the following link:
