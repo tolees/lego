@@ -28,12 +28,12 @@ With a final price of 4.99 EUR (original: 9.92 EUR) you can find [LEGO 43101 VID
 
 ℹ️:
 
-- Hay 12 mini figuras para coleccionar: bailarines, raperos, guitarristas, baterías, cantantes y más, todos inspirados en diferentes géneros musicales
-- Un set de extensión para cualquiera de los juguetes musicales LEGO VIDIYO BeatBox Edición 1 que permite añadir más personajes coloridos y efectos visuales a los vídeos musicales
-- Descarga la app gratuita de realidad aumentada VIDIYO Creador de Vídeos Musicales y escanea los BeatBits para desbloquear los efectos especiales de vídeo, de sonido, cambios de vestuario, y más
-- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo; busca LEGO VIDIYO en App Store o Google Play
 - Cada caja de sorpresa contiene una mini figura de Bandmates Edición 1, 2 BeatBits elegidos al azar, un BeatBit especial y un accesorio addicional para una diversión infinita
+- Descarga la app gratuita de realidad aumentada VIDIYO Creador de Vídeos Musicales y escanea los BeatBits para desbloquear los efectos especiales de vídeo, de sonido, cambios de vestuario, y más
+- Un set de extensión para cualquiera de los juguetes musicales LEGO VIDIYO BeatBox Edición 1 que permite añadir más personajes coloridos y efectos visuales a los vídeos musicales
 - Hay más que 90 BeatBits: a los peques les encantará ir ampliando su colección
+- Hay 12 mini figuras para coleccionar: bailarines, raperos, guitarristas, baterías, cantantes y más, todos inspirados en diferentes géneros musicales
 - Combina con cualquiera de los juguetes musicales de la Edición 1: Candy Mermaid 43102, Punk Pirate 43103, Alien DJ 43104, Party Llama  43105, Unicorn DJ 43106 o HipHop Robot 43107
+- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo; busca LEGO VIDIYO en App Store o Google Play
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08G4JXV79/?tag=tolees-21)
