@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture Statue of Liberty 2104 at 16.74 % discount'
-date: 2021-03-08 23:37:14
+date: 2021-03-10 06:12:41
 image: 'https://m.media-amazon.com/images/I/51hjJH0ZQyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B0793JTRKG/?tag=tolees-20'
 descuento: '16.74'
-average: '106.974107142858'
+average: '106.730172413794'
 ---
 
 With a final price of 99.9 USD (original: 119.99 USD) you can find [LEGO Architecture Statue of Liberty 21042 Building Kit  1685 Pieces ](https://www.amazon.com/dp/B0793JTRKG/?tag=tolees-20) with a  16.74 % discount here:
@@ -28,10 +28,10 @@ With a final price of 99.9 USD (original: 119.99 USD) you can find [LEGO Archite
 
 ℹ️:
 
+- Bring a symbolic centerpiece to your home or office with this Statue of Liberty model
+- Delivers a rewarding building experience to all with an interest in architecture, travel, history and design
 - Statue of Liberty model measures over 17-inch (44cm) high, 5-inch (14cm) wide and 5-inch (14cm) deep
 - Features a detailed pedestal and iconic Lady Liberty statue complete with crown and golden torch
-- Bring a symbolic centerpiece to your home or office with this Statue of Liberty model
 - 1,685 pieces – For boys and girls over 16 years old
-- Delivers a rewarding building experience to all with an interest in architecture, travel, history and design
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B0793JTRKG/?tag=tolees-20)

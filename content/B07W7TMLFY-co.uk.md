@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.68 % deal for LEGO 75273 Star Wars Poe Dameron s X-win'
-date: 2021-03-05 06:28:03
+date: 2021-03-10 06:06:45
 image: 'https://m.media-amazon.com/images/I/5140EXTiw9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TMLFY/?tag=tolees0a-21'
 descuento: '16.68'
-average: '75.7237125748502'
+average: '75.7149112426034'
 ---
 
 There's a deal [LEGO 75273 Star Wars Poe Dameron s X-wing Fighter Building Set  The Rise of Skywalker Movie Series](https://www.amazon.co.uk/dp/B07W7TMLFY/?tag=tolees0a-21)  with  16.68 % discount, final price tag of  74.98 GBP (original: 89.99 GBP) here:
