@@ -28,10 +28,10 @@ You've got [LEGO Architecture Skyline Collection 21043 San Francisco Building Ki
 
 ℹ️:
 
-- The LEGO Architecture collection allows kids and adults to recreate famous landmarks from around the world, from Paris to China and beyond
 - City model measures over 6 inches (16cm) high, 11 inches (28cm) wide and 2 inches (7cm) deep; 565 pieces, Makes the perfect San Francisco gift for boys and girls aged 12+ and for adults of all ages
+- The LEGO Architecture collection allows kids and adults to recreate famous landmarks from around the world, from Paris to China and beyond
+- This San Francisco building set captures the essence of the San Francisco skyline with models of the citys most iconic architectural marvels, from the Golden Gate Bridge to the Transamerica Pyramid
 - Architecture building kit includes “painted ladies” buildings near Alamo Square, 555 California Street, the Transamerica Pyramid, Salesforce Tower, Coit Tower, Fort Point, Golden Gate Bridge and Alcatraz Island models
 - This San Francisco skyline set from LEGO Architecture can be built together with all other original LEGO sets and LEGO bricks for creative building. Build and display this San Francisco collectible toy in your home or office!
-- This San Francisco building set captures the essence of the San Francisco skyline with models of the citys most iconic architectural marvels, from the Golden Gate Bridge to the Transamerica Pyramid
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07GX7R73M/?tag=tolees-20)
