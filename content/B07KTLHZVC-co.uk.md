@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21046 Architecture Empire State Bui at 16.67 % discount'
-date: 2021-03-05 11:29:41
+date: 2021-03-11 05:31:08
 image: 'https://m.media-amazon.com/images/I/417cnfJXXHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21'
 descuento: '16.67'
-average: '81.3204232804234'
+average: '81.1892227979276'
 ---
 
 With a final price of 74.99 GBP (original: 89.99 GBP) you can find [LEGO 21046 Architecture Empire State Building New York Landmark Collectible Model Building Set](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21) with a  16.67 % discount here:
@@ -30,7 +30,7 @@ With a final price of 74.99 GBP (original: 89.99 GBP) you can find [LEGO 21046 A
 
 - Finish this representation with a tiled baseplate depicting fifth avenue and the surrounding roads, completed with six iconic yellow cabs
 - At 21 Inch (55 cm) high, this Empire State Building model is the tallest LEGO architecture model to date (July 2019). Contains 1760 pieces
-- This highly detailed replica accurately recreates the symmetrical lines of the structure, four curtain wall facades and art deco antenna tower
 - 360 degrees displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office
+- This highly detailed replica accurately recreates the symmetrical lines of the structure, four curtain wall facades and art deco antenna tower
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21)
