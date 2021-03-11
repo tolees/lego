@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.01 % for Harry Potter TM - LEGO 75979 Harry Potte'
-date: 2021-02-28 16:26:01
+date: 2021-03-10 22:46:01
 image: 'https://m.media-amazon.com/images/I/51tRZk4gyOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Harry Potter TM'
 buyurl: 'https://www.amazon.co.uk/dp/B0813S3VDM/?tag=tolees0a-21'
 descuento: '20.01'
-average: '31.3041249999998'
+average: '31.2400606060603'
 ---
 
 You've got [Harry Potter TM - LEGO 75979 Harry Potter Hedwig the Owl Figure Collectible Display Model with Moving Wings](https://www.amazon.co.uk/dp/B0813S3VDM/?tag=tolees0a-21) with a  20.01 % discount, with final price of 27.99 GBP (original: 34.99 GBP) at the following link:
@@ -29,9 +29,9 @@ You've got [Harry Potter TM - LEGO 75979 Harry Potter Hedwig the Owl Figure Coll
 ℹ️:
 
 - Display Hedwig at home in all her snowy glory, carrying a Hogwarts letter, atop a sturdy base with nameplate in typical Harry Potter font
-- Enjoy the rewarding building experience and the detail of the completed Hedwig model on display with her big, round, golden eyes
 - Features a detachable Harry Potter minifigure display in Gryffindor colours, with a wand and a smaller Hedwig figure with wings spread
-- This collectible Hedwig is a wonderful addition to any LEGO Harry Potter collection, as everyone loves this cheeky white pet
 - Turn the handle to witness the cleverly designed jointed wings flapping effortlessly, bringing Hedwig the owl to life
+- Enjoy the rewarding building experience and the detail of the completed Hedwig model on display with her big, round, golden eyes
+- This collectible Hedwig is a wonderful addition to any LEGO Harry Potter collection, as everyone loves this cheeky white pet
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813S3VDM/?tag=tolees0a-21)

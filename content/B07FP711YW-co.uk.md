@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75891 Speed Champions Chevrolet Cam at 15.01 % discount'
-date: 2021-03-05 06:28:11
+date: 2021-03-10 22:29:13
 image: 'https://m.media-amazon.com/images/I/51JHWsJzaVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FP711YW/?tag=tolees0a-21'
 descuento: '15.01'
-average: '13.5002645502645'
+average: '13.4492746113989'
 ---
 
 With a final price of 11.04 GBP (original: 12.99 GBP) you can find [LEGO 75891 Speed Champions Chevrolet Camaro ZL1 Race Car Collectible](https://www.amazon.co.uk/dp/B07FP711YW/?tag=tolees0a-21) with a  15.01 % discount here:
@@ -28,10 +28,10 @@ With a final price of 11.04 GBP (original: 12.99 GBP) you can find [LEGO 75891�
 
 ℹ️:
 
-- Build the Chevrolet Camaro ZL1 Race Car featuring a minifigure cockpit with adjustable roll cage, removable windshield and Chevrolet Camaro-branded rims
-- Includes a Chevy Camaro racing driver minifigure with a helmet and a fuel canister
-- Measures over 1 Inch (4 cm) high, 5 Inch (14 cm) long and 1 Inch (5 cm) wide
 - 198 pieces – Stock car toy for boys and girls aged 7+ and for fans and kids of all ages
+- Includes a Chevy Camaro racing driver minifigure with a helmet and a fuel canister
 - This LEGO Speed Champions Chevrolet Camaro ZL1 Race Car 75891 building toy can be built together with all other original LEGO sets and LEGO toy construction sets for creative play
+- Measures over 1 Inch (4 cm) high, 5 Inch (14 cm) long and 1 Inch (5 cm) wide
+- Build the Chevrolet Camaro ZL1 Race Car featuring a minifigure cockpit with adjustable roll cage, removable windshield and Chevrolet Camaro-branded rims
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FP711YW/?tag=tolees0a-21)
