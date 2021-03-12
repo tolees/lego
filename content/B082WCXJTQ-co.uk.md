@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76167 Super Heroes Marvel Avengers  at 33.97 % discount'
-date: 2021-03-10 17:42:57
+date: 2021-03-12 19:13:34
 image: 'https://m.media-amazon.com/images/I/51w+RB7H1EL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 16.5 GBP (original: 24.99 GBP) you can find [LEGO 76167 Su
 
 ℹ️:
 
-- Other accessories include a cup, wrench, fire extinguisher, a box of Tony’s Toys, remotes, and a variety of cool weapons to battle bad guys
-- This intricate playset is full of imaginative role play possibilities and puts Iron Man adventures right into the hands of young superheroes
-- Just like in the movies, the armoury has cool screens, a mini Iron Man prototype model figure and a burger for Tony to snack on
 - Includes a Tony Stark minifigure, awesome hot rod car for him to repair and drive, 2 Iron Man suits, and 2 enemy A.I.M. Agent minifigures
+- Just like in the movies, the armoury has cool screens, a mini Iron Man prototype model figure and a burger for Tony to snack on
+- This intricate playset is full of imaginative role play possibilities and puts Iron Man adventures right into the hands of young superheroes
 - Combine the armoury set with LEGO 76125 Iron Man Hall of Armor to bring further Marvel movie action to life
+- Other accessories include a cup, wrench, fire extinguisher, a box of Tony’s Toys, remotes, and a variety of cool weapons to battle bad guys
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B082WCXJTQ/?tag=tolees0a-21)
