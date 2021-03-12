@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71366 Super Mario Boomer Bill Barra at 20.01 % discount'
-date: 2021-03-11 11:29:51
+date: 2021-03-12 12:13:50
 image: 'https://m.media-amazon.com/images/I/5157EUDXUJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21'
 descuento: '20.01'
-average: '19.2856250000001'
+average: '19.3270588235295'
 ---
 
 With a final price of 19.99 GBP (original: 24.99 GBP) you can find [LEGO 71366 Super Mario Boomer Bill Barrage Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21) with a  20.01 % discount here:
