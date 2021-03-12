@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions 76895 Ferrari F8 Tr at 19.96 % discount'
-date: 2021-03-10 23:21:27
+date: 2021-03-11 23:30:14
 image: 'https://m.media-amazon.com/images/I/513+cZnd2PL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ With a final price of 16.0 USD (original: 19.99 USD) you can find [LEGO Speed Ch
 
 ℹ️:
 
-- This LEGO Speed Champions Ferrari model car kit offers endless build-and-play racing fun and makes an action-packed holiday, birthday or anyday gift for kid ages 8+ who love Ferraris, model cars, racecars and racing toys
-- Includes a building kit of a Ferrari F8 Tributo model and 1 collectible Ferrari racing driver minifigure
-- The Ferrari F8 Tributo measures 1” (4cm) high, 5” (15cm) long and 3” (8cm) wide: all 2020 LEGO Speed Champions are 25% bigger, meaning the toy model cars reflect the real-life versions better than ever before!
-- The first ever opportunity to build a car toy replica of the super-fast Ferrari F8 Tributo, which kids can display home or use to have exciting races with their friends!
-- This spectacular toy playset featuring a brilliantly detailed Ferrari F8 Tributo is an ideal gift for those with a passion for building LEGO replica model cars and using them to stage their own races
+- Racing enthusiasts of all ages will love to build this mini replica from LEGO bricks. They can create their very own super-fast F8 Tributo model car before displaying the sleek mini replica or challenging other cars to thrilling races. LEGO Speed Champions cars are now 25% bigger than ever before, meaning even more authentic details. This F8 Tributo toy model car has the same beautiful design as the original, which boasts the fastest V8 engine in Ferrari’s history. This red toy model car kit
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WFHWSLP/?tag=tolees-20)
