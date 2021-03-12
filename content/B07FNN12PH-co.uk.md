@@ -29,9 +29,9 @@ With a final price of 14.99 GBP (original: 19.99 GBP) you can find [LEGO 21151 
 ℹ️:
 
 - This LEGO Minecraft set includes a new-for-January-2019 dragon slayer minifigure with a potion and ender pearl, plus an ender dragon figurine with highly posable limbs and an enderman figure
-- Measures over 3 Inch (9 cm) high, 9 Inch (23 cm) wide and 5 Inch (13 cm) deep; 222 pieces - for boys and girls aged 7+ and for fans and kids of all ages
 - Build and venture to the End dimension, complete with a ferocious fireball-shooting ender dragon, enderman and a dragon slayer, plus an obsidian pillar and an end crystal with pop-up functionality
 - The LEGO Minecraft the End Battle 21151 building set can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Measures over 3 Inch (9 cm) high, 9 Inch (23 cm) wide and 5 Inch (13 cm) deep; 222 pieces - for boys and girls aged 7+ and for fans and kids of all ages
 - Also includes a code for redeeming a dragon slayer skin in the Minecraft Bedrock Edition online game
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=tolees0a-21)
