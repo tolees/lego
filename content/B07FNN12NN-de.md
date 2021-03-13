@@ -28,10 +28,10 @@ With a final price of 13.95 EUR (original: 19.49 EUR) you can find [LEGO 41361 F
 
 ℹ️:
 
-- Enthält die Lego Friends Spielfigur Mia, zwei Fohlenfiguren und eine Kaninchenfigur; So gelingt ihnen der ideale Einstieg in die Welt des Bauens mit Lego Steinen
-- Die Lego 4+ Reihe bietet dem Kind eine Welt mit seinen Lieblingsfiguren aus Film und Fernsehen sowie mit Alltagshelden
 - Dieses Set umfasst auch einen einfach zu bauenden Fohlenstall, Traktor, Kaninchenstall und Paddock
-- Die Lego 4+ Sets sind einfach zu bauen und bieten jede Menge Spaß. Sie stärken auch das Selbstbewusstsein, indem Kindergarten- und Grundschulkinder die einfachen Bauschritte ganz allein durchführen können
+- Enthält die Lego Friends Spielfigur Mia, zwei Fohlenfiguren und eine Kaninchenfigur; So gelingt ihnen der ideale Einstieg in die Welt des Bauens mit Lego Steinen
 - Zum Zubehör gehören eine Bürste, eine Schaufel, eine Aufbewahrungskiste, eine Karotte, Heu und ein Apfel
+- Die Lego 4+ Sets sind einfach zu bauen und bieten jede Menge Spaß. Sie stärken auch das Selbstbewusstsein, indem Kindergarten- und Grundschulkinder die einfachen Bauschritte ganz allein durchführen können
+- Die Lego 4+ Reihe bietet dem Kind eine Welt mit seinen Lieblingsfiguren aus Film und Fernsehen sowie mit Alltagshelden
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNN12NN/?tag=tolees0ca-21)
