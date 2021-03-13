@@ -29,10 +29,10 @@ With a final price of 17.99 GBP (original: 21.99 GBP) you can find [LEGO 41926 D
 ℹ️:
 
 - The kit is great for group party activities or solo play and the cupcakes are a fun favour that boys and girls aged 6+ will love
-- LEGO DOTS sets offer open-ended creativity and encourage kids self-expression through creating and customizing cool craft items
-- To add more artistic fun, mix with tiles from other LEGO DOTS Extra DOTS Series 1 (41908) and Extra DOTS Series 2 (41916) packs
-- Kids can decorate the cupcakes using the included design ideas or use their creativity and skills to make up their own colorful patterns
 - Its a LEGO DOTS party Each of tasty-looking cupcake toys has a removable icing top and a hidden compartment inside to keep secrets safe
+- Kids can decorate the cupcakes using the included design ideas or use their creativity and skills to make up their own colorful patterns
+- To add more artistic fun, mix with tiles from other LEGO DOTS Extra DOTS Series 1 (41908) and Extra DOTS Series 2 (41916) packs
 - This sweet creative party kit features 8 customizable cupcakes, a sticker sheet, buildable birthday candles and plenty of colourful tiles
+- LEGO DOTS sets offer open-ended creativity and encourage kids self-expression through creating and customizing cool craft items
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4P1N3N/?tag=tolees0a-21)
