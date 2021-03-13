@@ -28,11 +28,11 @@ You've got [LEGO 43192 Disney Princess Cinderellas königliche Kutsche Spielzeug
 
 ℹ️:
 
-- LEGO ǀ Disney Sets enthalten tolle Figuren, um kleine Kinder spannende Szenen nachstellen zu lassen. Dieses lustige Spielset fördert die Kreativität und Fantasie der Kinder
 - Noch hilfreicher als die gedruckte Bauanleitung sind die digitalen Instructions PLUS in der LEGO Building Instructions App. Jüngere Baumeister können während des Bauens eine digitale Modellansicht vergrößern und näher betrachten
-- Das bezaubernde LEGO ǀ Disney Set „Cinderellas königliche Kutsche“ (43192) ist eine tolles Geschenk für Kinder und Fans der Disney Heldin Cinderella. Es inspiriert zu spannenden und kreativen Rollenspielen
-- Mit den Pferden ist die Kutsche 13 cm hoch, 27 cm lang und 9 cm breit. Das ist die ideale Größe zum Spielen und Ausstellen – und für viele kreative Rollenspiele
 - Entdecke die Kutsche für 2 Spielfiguren, ein Kürbisbeet mit kleinem Tisch und eine Schatztruhe, die hinten auf die Kusche passt. 3 LEGO Tierfiguren sind ebenfalls enthalten
+- Das bezaubernde LEGO ǀ Disney Set „Cinderellas königliche Kutsche“ (43192) ist eine tolles Geschenk für Kinder und Fans der Disney Heldin Cinderella. Es inspiriert zu spannenden und kreativen Rollenspielen
+- LEGO ǀ Disney Sets enthalten tolle Figuren, um kleine Kinder spannende Szenen nachstellen zu lassen. Dieses lustige Spielset fördert die Kreativität und Fantasie der Kinder
+- Mit den Pferden ist die Kutsche 13 cm hoch, 27 cm lang und 9 cm breit. Das ist die ideale Größe zum Spielen und Ausstellen – und für viele kreative Rollenspiele
 - Dieses tolle LEGO ǀ Disney Set enthält unter anderem eine Einladung zum Ball, einen Zauberstab, eine Krone und einen Glasschuh. Damit lassen sich beliebte Filmszenen nachstellen und unendlicher Rollenspielspaß erleben
 - Fans der Disney Heldin Cinderella werden dieses Set lieben. Die gold-weiße Kutsche und das Pferdegespann sind ein fantastisches Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Jungen und Mädchen ab 6 Jahren
 
