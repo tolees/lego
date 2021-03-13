@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 17.86 % for LEGO 21318 La casa del árbol  r  Ideas'
-date: 2021-03-12 16:09:48
+date: 2021-03-13 16:44:57
 image: 'https://m.media-amazon.com/images/I/51hGg4S4NEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07PX3WW5N/?tag=tolees-21'
 descuento: '17.86'
-average: '251.419295774646'
+average: '250.704999999998'
 ---
 
 You've got [LEGO 21318 La casa del árbol  r  Ideas](https://www.amazon.es/dp/B07PX3WW5N/?tag=tolees-21) with a  17.86 % discount, with final price of 199.99 EUR (original: 243.48 EUR) at the following link:
