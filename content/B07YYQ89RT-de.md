@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.09 % for LEGO 42111 Technic Fast & Furious Dom s '
-date: 2021-03-12 06:24:07
+date: 2021-03-14 18:31:48
 image: 'https://m.media-amazon.com/images/I/51hpO7RCQHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07YYQ89RT/?tag=tolees0ca-21'
 descuento: '25.09'
-average: '81.0904325699749'
+average: '81.0280604534009'
 ---
 
 You've got [LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Rennwagen Modell  ikonisches Bauset für Sammler](https://www.amazon.de/dp/B07YYQ89RT/?tag=tolees0ca-21) with a  25.09 % discount, with final price of 74.9 EUR (original: 99.99 EUR) at the following link:
