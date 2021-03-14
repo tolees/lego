@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'LEGO DUPLO Town Aeroporto  Set di Costru at 20.01 % discount'
+date: 2021-03-14 15:23:17
+image: 'https://m.media-amazon.com/images/I/51om39cvOjL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00T7SAYSO-it LEGO DUPLO Town Aeroporto Set di Costruzioni con Aeroplano...'
+sku: 'B00T7SAYSO-it'
+tags: [ 'lego', ]
+actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
+comparePrice: 24.99 EUR
+prodname: 'LEGO DUPLO Town Aeroporto  Set di Costruzioni con Aeroplano Giocattolo per Bambini dai 2 ai 5 Anni  10871'
+country: 'it'
+flag: '🇮🇹'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.it/dp/B00T7SAYSO/?tag=tolees00-21'
+descuento: '20.01'
+average: '19.99'
+---
+
+With a final price of 19.99 EUR (original: 24.99 EUR) you can find [LEGO DUPLO Town Aeroporto  Set di Costruzioni con Aeroplano Giocattolo per Bambini dai 2 ai 5 Anni  10871](https://www.amazon.it/dp/B00T7SAYSO/?tag=tolees00-21) with a  20.01 % discount here:
+
+[![LEGO DUPLO Town Aeroporto  Set di Costru](https://m.media-amazon.com/images/I/51om39cvOjL._SL400_.jpg)](https://www.amazon.it/dp/B00T7SAYSO/?tag=tolees00-21)
+
+ℹ️:
+
+- Gli accessori includono una valigia e un mattoncino regalo
+- Include 3 personaggi LEGO DUPLO: un pilota, un papà e un bambino
+- Recati all’aeroporto e fai il check-in mettendo il bagaglio sullo scivolo
+- Contiene un terminale aeroportuale con scivolo per bagagli, cancello di imbarco e torre di controllo girevole, più un aereo costruibile con ruote
+- Aiuta il pilota a effettuare i controlli di sicurezza sull’aereo prima del decollo
+
+[🛒 Buy it!!](https://www.amazon.it/dp/B00T7SAYSO/?tag=tolees00-21)
