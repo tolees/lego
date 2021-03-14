@@ -29,10 +29,10 @@ You've got [LEGO 75283 Star Wars Armored Assault Tank  AAT  Bauset mit Ahsoka Ta
 ℹ️:
 
 - The tank features 2 spring-loaded shooters and a rotating turret with an elevating cannon plus opening front and turret hatches
-- This 286-piece construction toy makes a great holiday gift and offers a fun, rewarding building challenge for boys and girls aged 7 and up
 - The set comes with easy-to-follow, printed instructions so kids can build independently then enjoy endless Star Wars battle action play
+- This 286-piece construction toy makes a great holiday gift and offers a fun, rewarding building challenge for boys and girls aged 7 and up
+- Includes Ahsoka Tano and Ahsoka’s Clone Trooper minifigures, AAT Driver Battle Droid and Battle Droid LEGO figures, all with cool weapons
 - Easily portable to keep kids entertained with Star Wars adventures on their travels, or build and display it at home
 - Re-enact exciting 501st Legion versus Battle Droid battles from Star Wars: The Clone Wars with this awesome Armoured Assault Tank (AAT)
-- Includes Ahsoka Tano and Ahsoka’s Clone Trooper minifigures, AAT Driver Battle Droid and Battle Droid LEGO figures, all with cool weapons
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B081P5P1SM/?tag=tolees0ca-21)
