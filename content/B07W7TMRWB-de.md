@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.15 % deal for Lego Creator - LEGO 31101 Creator 3-in-1'
-date: 2021-03-01 13:25:26
+date: 2021-03-15 14:03:25
 image: 'https://m.media-amazon.com/images/I/51XvKMppctL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lego Creator'
 buyurl: 'https://www.amazon.de/dp/B07W7TMRWB/?tag=tolees0ca-21'
 descuento: '27.15'
-average: '10.9656666666666'
+average: '11.2820588235294'
 ---
 
 There's a deal [Lego Creator - LEGO 31101 Creator 3-in-1 Monster Truck  Spielzeugauto-  Muscle Car-  Dragster-Bauset  Fahrzeugsammlung Serie](https://www.amazon.de/dp/B07W7TMRWB/?tag=tolees0ca-21)  with  27.15 % discount, final price tag of  10.92 EUR (original: 14.99 EUR) here:

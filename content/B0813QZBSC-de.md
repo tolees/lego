@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Discount of 25.75 % for LEGO 41909 DOTS Meerjungfrauen Freundsch'
+date: 2021-03-15 14:03:00
+image: 'https://m.media-amazon.com/images/I/51kIQuxsNwL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B0813QZBSC-de LEGO 41909 DOTS Meerjungfrauen Freundschaftsarmbänder...'
+sku: 'B0813QZBSC-de'
+tags: [ 'lego', ]
+actualPrice: 5.19 EUR
+currency: EUR
+price: 5.19
+comparePrice: 6.99 EUR
+prodname: 'LEGO 41909 DOTS Meerjungfrauen Freundschaftsarmbänder Schmuckset  DIY-Geschenke aus Steinchen  Kunst und Handwerk für Kinder'
+country: 'de'
+flag: '🇩🇪'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.de/dp/B0813QZBSC/?tag=tolees0ca-21'
+descuento: '25.75'
+average: '5.19'
+---
+
+You've got [LEGO 41909 DOTS Meerjungfrauen Freundschaftsarmbänder Schmuckset  DIY-Geschenke aus Steinchen  Kunst und Handwerk für Kinder](https://www.amazon.de/dp/B0813QZBSC/?tag=tolees0ca-21) with a  25.75 % discount, with final price of 5.19 EUR (original: 6.99 EUR) at the following link:
+
+[![LEGO 41909 DOTS Meerjungfrauen Freundsch](https://m.media-amazon.com/images/I/51kIQuxsNwL._SL400_.jpg)](https://www.amazon.de/dp/B0813QZBSC/?tag=tolees0ca-21)
+
+ℹ️:
+
+- Nach dem Öffnen der Verpackung kann das Verzieren der Armbänder sofort beginnen. Einfach zu befolgende Vorschläge erleichtern das Design, damit Kinder auf den selbstgebastelten Schmuck stolz sein können und sich an der eigenen Kreativität erfreuen
+- Die Steinchen aus LEGO DOTS Sets fördern die Kreativität und das gemeinsame Bastelvergnügen mit Freunden. Kinder können Steinchen aus dem LEGO DOTS „Armband Ergänzungsset Smiley“ (41908) hinzufügen, um besondere Freundschaftsarmbänder zu gestalten
+- Das LEGO DOTS Spielzeug „Meerjungfrauen Freundschaftsarmbänder“ (41909) enthält 2 verstellbare Armbänder und 32 bunte Steinchen, um Kindern riesiges Designvergnügen zu bereiten. Das Spielen beginnt mit dem Verzieren
+- Jede Menge kreative Ideen für Freundschaftsarmbänder. Beim Verzieren der coolen Armbänder können Kinder ihr Designtalent zum Ausdruck bringen, indem sie die auf der Verpackung dargestellten Ideen nachbilden oder sich einen individuellen Look ausdenken
+- Jeder junge Designfan wird dieses coole Set lieben. Die flexiblen Armbänder und die verzierten bunten Steinchen machen das Set zu einem tollen Geschenk für Jungen und Mädchen ab 6 Jahren – zum Geburtstag, zu Weihnachten oder zu sonstigen Anlässen
+- Kompakt, einfach und bestens tragbar. Jedes der Armbänder ist 20 cm lang und eignet sich wunderbar, um junge Designer Ideen ausprobieren und die beste Version dann selber tragen oder teilen zu lassen
+- Als Antrieb für Designspaß ohne Grenzen reicht die Fantasie kreativer Kinder. Das Spielzeug ermöglicht ein selbstständiges Spielerlebnis und fördert die Kreativität. In eigener Regie etwas völlig zu erschaffen, bereitet Kindern riesige Freude
+
+[🛒 Check the deal!!](https://www.amazon.de/dp/B0813QZBSC/?tag=tolees0ca-21)

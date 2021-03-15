@@ -1,0 +1,39 @@
+---
+layout: post
+title: '25.23 % deal for LEGO 10953 DUPLO Mein erstes Einhorn Spi'
+date: 2021-03-15 14:10:35
+image: 'https://m.media-amazon.com/images/I/51o9VjFi+nL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08GP8NL1H-de LEGO 10953 DUPLO Mein erstes Einhorn Spielzeugzug für 1...'
+sku: 'B08GP8NL1H-de'
+tags: [ 'lego', ]
+actualPrice: 7.47 EUR
+currency: EUR
+price: 7.47
+comparePrice: 9.99 EUR
+prodname: 'LEGO 10953 DUPLO Mein erstes Einhorn Spielzeugzug für 1 5-jährige Jungen & Mädchen  Mein Erstes Bauset'
+country: 'de'
+flag: '🇩🇪'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.de/dp/B08GP8NL1H/?tag=tolees0ca-21'
+descuento: '25.23'
+average: '7.47'
+---
+
+There's a deal [LEGO 10953 DUPLO Mein erstes Einhorn Spielzeugzug für 1 5-jährige Jungen & Mädchen  Mein Erstes Bauset](https://www.amazon.de/dp/B08GP8NL1H/?tag=tolees0ca-21)  with  25.23 % discount, final price tag of  7.47 EUR (original: 9.99 EUR) here:
+
+[![LEGO 10953 DUPLO Mein erstes Einhorn Spi](https://m.media-amazon.com/images/I/51o9VjFi+nL._SL400_.jpg)](https://www.amazon.de/dp/B08GP8NL1H/?tag=tolees0ca-21)
+
+ℹ️:
+
+- Enthält Baukarten mit Bildern, die das Modell in Originalgröße darstellen. Kinder können die Steine beim Bauen auf die Baukarte legen, während Eltern dem Kind etwas über Farben und Formen beibringen
+- Das Spielzeug ist 13 cm hoch, 23 cm lang und 6 cm breit
+- Beim Bauen und Spielen mit Eltern verbessern Kinder ihre Feinmotorik und lernen Farben und Formen kennen
+- Allen LEGO DUPLO Spielsets liegt ein fundiertes Konzept zugrunde. Fantasievolle Funktionen inspirieren zu entwicklungsförderndem Spielspaß, den Eltern und Betreuungskräfte gemeinsam mit ihren Kleinen erleben können
+- Dieses pfiffige robuste Spielset ist ein tolles Geschenk für Kinder ab 18 Monaten zum Geburtstag, zu Weihnachten oder einfach so
+- Enthält ein baubares Einhorn, 2 Sterne, einen Regenbogen und 2 „Waggons“ auf Rädern, die sich schieben lassen. Alle Formen sind wunderbar abgerundet und lassen sich leicht von kleinen Fingern greifen und zielgenau platzieren
+- Überraschen Sie ein Kleinkind mit dem bunten LEGO DUPLO Set "Mein erstes Einhorn" (10953). Dank seiner Formen lässt sich dieses vielseitige Spielzeug leicht von kleinen Fingern greifen, absetzen und ziehen
+
+[🛒 Buy it now!!](https://www.amazon.de/dp/B08GP8NL1H/?tag=tolees0ca-21)

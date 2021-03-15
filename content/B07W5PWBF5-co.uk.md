@@ -28,10 +28,10 @@ There's a deal [Lego Friends - LEGO 41396 Friends Puppy Playground Playset with 
 
 ℹ️:
 
-- LEGO bricks have met the highest quality standards, which ensures they connect perfectly for strong structures and pull apart easily
-- Features a puppy slide with a Starter Brick to make building easier for little ones, plus a spinning merry go round for dog figures
 - Accessories include Mias sunglasses, skateboard, hairbrush, bowl, dog biscuit, 2 bones and 2 bows and a biscuit for the dog figures!
-- Includes Mia minidoll figure with her dogs Cookie and Coco in Heartlake City Park - let kids join Mia for fun and games with her puppies!
+- Features a puppy slide with a Starter Brick to make building easier for little ones, plus a spinning merry go round for dog figures
 - With intuitive Instructions PLUS from the LEGO Life app even younger builders can zoom, rotate and visualise this model as they create
+- Includes Mia minidoll figure with her dogs Cookie and Coco in Heartlake City Park - let kids join Mia for fun and games with her puppies!
+- LEGO bricks have met the highest quality standards, which ensures they connect perfectly for strong structures and pull apart easily
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W5PWBF5/?tag=tolees0a-21)
