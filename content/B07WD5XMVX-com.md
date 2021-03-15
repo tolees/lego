@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO Architecture Skylines: Tokyo 21051 '
-date: 2021-03-10 23:05:51
+date: 2021-03-15 18:45:28
 image: 'https://m.media-amazon.com/images/I/51yY1+7cgkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07WD5XMVX/?tag=tolees-20'
 descuento: '20.00'
-average: '58.4017073170732'
+average: '57.9174418604652'
 ---
 
 You've got [LEGO Architecture Skylines: Tokyo 21051 Building Kit  Collectible Architecture Building Set for Adults  New 2020  547 Pieces ](https://www.amazon.com/dp/B07WD5XMVX/?tag=tolees-20) with a  20.00 % discount, with final price of 47.99 USD (original: 59.99 USD) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO Architecture Skylines: Tokyo 21051 Building Kit  Collectible Ar
 
 ℹ️:
 
-- The striking LEGO Architecture model of Tokyos distinctive skyline features authentically detailed models of iconic buildings and landmarks, and is a stunning display model for the home or office
-- This buildable skyline measures over 11” (28cm) high, 10” (27cm) wide and 3” (10cm) deep, so you dont need a lot of space to display it, but its vibrant colors and authentic details will catch the eye of every passerby!
-- This collectible build-and-display set features buildable models of the Tokyo Tower, Mode Gakuen Cocoon Tower, Tokyo Big Sight, TOKYO SKYTREE, Chidorigafuchi Park, Shibuya Crossing and more!
 - Even new LEGO architects can enjoy this easy-to-build architecture model kit, and it makes a cool creative Japanese-themed gift for adults ages 16+ who are interested in Tokyo
+- The striking LEGO Architecture model of Tokyos distinctive skyline features authentically detailed models of iconic buildings and landmarks, and is a stunning display model for the home or office
+- This collectible build-and-display set features buildable models of the Tokyo Tower, Mode Gakuen Cocoon Tower, Tokyo Big Sight, TOKYO SKYTREE, Chidorigafuchi Park, Shibuya Crossing and more!
+- This buildable skyline measures over 11” (28cm) high, 10” (27cm) wide and 3” (10cm) deep, so you dont need a lot of space to display it, but its vibrant colors and authentic details will catch the eye of every passerby!
 - This authentically detailed set includes a Tokyo nameplate and a booklet with information about Tokyo and the models designer (English language only; other languages can be downloaded at LEGO.com/architecture.)
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07WD5XMVX/?tag=tolees-20)

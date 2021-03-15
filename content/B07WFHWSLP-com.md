@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions 76895 Ferrari F8 Tr at 19.96 % discount'
-date: 2021-03-13 23:42:49
+date: 2021-03-15 18:55:48
 image: 'https://m.media-amazon.com/images/I/513+cZnd2PL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07WFHWSLP/?tag=tolees-20'
 descuento: '19.96'
-average: '23.7170000000001'
+average: '23.5656862745099'
 ---
 
 With a final price of 16.0 USD (original: 19.99 USD) you can find [LEGO Speed Champions 76895 Ferrari F8 Tributo Toy Cars for Kids  Building Kit Featuring Minifigure  New 2020  275 Pieces ](https://www.amazon.com/dp/B07WFHWSLP/?tag=tolees-20) with a  19.96 % discount here:
