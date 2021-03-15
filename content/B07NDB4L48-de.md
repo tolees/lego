@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.01 % deal for Lego Minecraft - LEGO 21153 Minecraft Di'
-date: 2021-02-22 14:42:23
+date: 2021-03-15 13:59:22
 image: 'https://m.media-amazon.com/images/I/51or-UsHrdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lego Minecraft'
 buyurl: 'https://www.amazon.de/dp/B07NDB4L48/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '16.1840476190476'
+average: '16.1297727272727'
 ---
 
 There's a deal [Lego Minecraft - LEGO 21153 Minecraft Die Schaffarm  Bauset mit Steve und Schaffiguren](https://www.amazon.de/dp/B07NDB4L48/?tag=tolees0ca-21)  with  25.01 % discount, final price tag of  14.99 EUR (original: 19.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [Lego Minecraft - LEGO 21153 Minecraft Die Schaffarm  Bauset mit 
 
 ℹ️:
 
+- 222 Teile – Für Mädchen und Jungen ab 7 Jahren, für Fans und für große Kinder jedes Alters
+- Die Farm ist 12 cm hoch, 19 cm breit und 14 cm tief
 - Baue 1 von 3 Modellen und versorge das Schaf auf der Schaffarm. Das Set umfasst eine Birke, einen Zaun, einen Bach, Trittsteine, Getreide, Blumen, 2x gefärbte Minecraft-Schafe und einem Lamm
 - Das LEGO MinecraftSet enthält Steve als Minifigur mit Schere zum Scheren der Schafe, eine rote und eine gelbe Schaffigur und eine Lammfigur
-- Die Farm ist 12 cm hoch, 19 cm breit und 14 cm tief
-- 222 Teile – Für Mädchen und Jungen ab 7 Jahren, für Fans und für große Kinder jedes Alters
 - Für noch mehr kreativen Bauspaß mit LEGO Minecraft enthält das Set außerdem zusätzliche LEGO Steine
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07NDB4L48/?tag=tolees0ca-21)
