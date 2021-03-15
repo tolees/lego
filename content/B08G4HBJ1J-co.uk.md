@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'LEGO 71736 NINJAGO Legacy Boulder Blaste at 20.01 % discount'
+date: 2021-03-15 00:31:25
+image: 'https://m.media-amazon.com/images/I/519QCyetuZL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08G4HBJ1J-co.uk LEGO 71736 NINJAGO Legacy Boulder Blaster Aeroplane Toy...'
+sku: 'B08G4HBJ1J-co.uk'
+tags: [ 'lego', ]
+actualPrice: 27.99 GBP
+currency: GBP
+price: 27.99
+comparePrice: 34.99 GBP
+prodname: 'LEGO 71736 NINJAGO Legacy Boulder Blaster Aeroplane Toy with Prison and Collectible Gold Ninja Kai Figure'
+country: 'co.uk'
+flag: '🇬🇧'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.co.uk/dp/B08G4HBJ1J/?tag=tolees0a-21'
+descuento: '20.01'
+average: '33.7487096774194'
+---
+
+With a final price of 27.99 GBP (original: 34.99 GBP) you can find [LEGO 71736 NINJAGO Legacy Boulder Blaster Aeroplane Toy with Prison and Collectible Gold Ninja Kai Figure](https://www.amazon.co.uk/dp/B08G4HBJ1J/?tag=tolees0a-21) with a  20.01 % discount here:
+
+[![LEGO 71736 NINJAGO Legacy Boulder Blaste](https://m.media-amazon.com/images/I/519QCyetuZL._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4HBJ1J/?tag=tolees0a-21)
+
+ℹ️:
+
+- Includes 4 minifigures: Cole, Lloyd and Kai Legacy to take on the evil Eyezor, recreating scenes from season 4 of the LEGO NINJAGO TV series
+- Kids will be excited to rapidly fire 8 missiles at enemies from the ninja airplanes rotating front or to release a captured ninja from prison
+- Features a super cool airplane with shooting studs, an opening cockpit, and a ninja prison to give kids an action-packed play experience
+- Includes a limited edition golden Kai Legacy collectible minifigure with a small stand to celebrate the 10th anniversary of NINJAGO toys
+- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, X-1 Ninja Charger 71737 and Zanes Titan Mech Battle 71738
+
+[🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4HBJ1J/?tag=tolees0a-21)
