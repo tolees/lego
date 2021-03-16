@@ -29,9 +29,9 @@ With a final price of 18.02 GBP (original: 24.99 GBP) you can find [LEGO 60214 C
 ℹ️:
 
 - Includes 3 LEGO City minifigures : 2 firefighters and a grill chef
-- Features a fire truck toy with a minifigure cab, rotating back end, new directional pump with ‘water jet’ function and 2 storage compartments, plus a toy motorbike
-- Build a fire truck toy with rotating back end, 2 storage compartments and new directional pump with ‘water jet’ function
 - LEGO City Fire sets set can be built together with all other original LEGO building toy sets and LEGO bricks for creative building
+- Build a fire truck toy with rotating back end, 2 storage compartments and new directional pump with ‘water jet’ function
+- Features a fire truck toy with a minifigure cab, rotating back end, new directional pump with ‘water jet’ function and 2 storage compartments, plus a toy motorbike
 - Accessory elements include a fire axe, 2 helmets, oxygen tank, trash can, motorbike helmet, small fire extinguisher and 5 buildable fire elements
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNMXFPZ/?tag=tolees0a-21)
