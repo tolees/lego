@@ -5,7 +5,7 @@ date: 2020-02-01 04:29:17
 image: 'https://m.media-amazon.com/images/I/51bYld2hK8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SVV19R-co.uk LEGO 41153 Disney Princess Ariel s Royal Celebration...'
 sku: 'B075SVV19R-co.uk'
 tags: [ 'lego', ]

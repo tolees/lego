@@ -5,7 +5,7 @@ date: 2020-01-19 02:19:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31k%2B3Bxb1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NE5LB8-co.uk LEGO Brick 4 Knobs Stackable Storage Box Yellow 5.7 Litre'
 sku: 'B003NE5LB8-co.uk'
 tags: [ 'lego', ]

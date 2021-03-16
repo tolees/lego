@@ -5,7 +5,7 @@ date: 2020-03-28 13:07:20
 image: 'https://m.media-amazon.com/images/I/51782r0Oy2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNT8XBF-de LEGO NINJAGO 70663 - Spinjitzu Nya & Wu'
 sku: 'B07FNT8XBF-de'
 tags: [ 'lego', ]

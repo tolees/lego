@@ -5,7 +5,7 @@ date: 2020-03-27 04:41:48
 image: 'https://m.media-amazon.com/images/I/41rYfuWdgFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSDCB7G-co.uk LEGO Ninjago Movie 23480K Lego Kai Classic Costume 7-8...'
 sku: 'B01MSDCB7G-co.uk'
 tags: [ 'lego', ]

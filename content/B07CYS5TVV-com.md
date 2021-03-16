@@ -5,7 +5,7 @@ date: 2020-03-23 04:53:26
 image: 'https://m.media-amazon.com/images/I/41ktxiuDguL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYS5TVV-com LEGO Solo: A Star Wars Story MiniFigure - Corellian Hound...'
 sku: 'B07CYS5TVV-com'
 tags: [ 'lego', ]

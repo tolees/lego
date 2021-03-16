@@ -5,7 +5,7 @@ date: 2020-02-14 07:30:20
 image: 'https://m.media-amazon.com/images/I/51Qtkreln-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLZS3G3-de Spieland 35St. Custom Waffen Set für Mini Figuren SWAT...'
 sku: 'B07MLZS3G3-de'
 tags: [ 'lego', ]

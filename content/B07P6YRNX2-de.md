@@ -5,7 +5,7 @@ date: 2020-04-11 08:03:50
 image: 'https://m.media-amazon.com/images/I/51Q6FYCYCuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6YRNX2-de Custom Brick Design Sith Lord Darth Nihilus Figur - -...'
 sku: 'B07P6YRNX2-de'
 tags: [ 'lego', ]

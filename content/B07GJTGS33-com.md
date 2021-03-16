@@ -5,7 +5,7 @@ date: 2020-03-23 20:57:01
 image: 'https://m.media-amazon.com/images/I/41urqMkdIKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJTGS33-com Lego Star Wars Poly Top Flannel Pants Boys 2 piece...'
 sku: 'B07GJTGS33-com'
 tags: [ 'lego', ]

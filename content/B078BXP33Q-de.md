@@ -5,7 +5,7 @@ date: 2020-01-19 02:43:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ofcesL%2ByL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BXP33Q-de 3X DC-15 Blaster Gewehr Custom Waffen für Lego Star Wars...'
 sku: 'B078BXP33Q-de'
 tags: [ 'lego', ]

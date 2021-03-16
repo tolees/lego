@@ -5,7 +5,7 @@ date: 2020-04-14 07:39:41
 image: 'https://m.media-amazon.com/images/I/41qStx9xUqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NWQG56-com IQ Lego Star Wars Darth Vader LED Head Lamp'
 sku: 'B007NWQG56-com'
 tags: [ 'lego', ]

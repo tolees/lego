@@ -5,7 +5,7 @@ date: 2020-04-16 07:55:08
 image: 'https://m.media-amazon.com/images/I/51lQzdGv2pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5VVV1H-com LEGO Harry Potter: Collection - Xbox One'
 sku: 'B07H5VVV1H-com'
 tags: [ 'lego', ]

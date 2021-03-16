@@ -5,7 +5,7 @@ date: 2020-04-16 07:09:15
 image: 'https://m.media-amazon.com/images/I/51mGqab59qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTW32JP-co.uk LEGO 75935 Jurassic World Baryonyx Face-Off: The...'
 sku: 'B07KTW32JP-co.uk'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 15:43:09
 image: 'https://m.media-amazon.com/images/I/51D2dgXnacL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VV6Z43K-de LEGO Star Wars 75180 - Rathtar Escape Spielzeug'
 sku: 'B06VV6Z43K-de'
 tags: [ 'lego', ]

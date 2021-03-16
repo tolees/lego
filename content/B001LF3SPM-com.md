@@ -5,7 +5,7 @@ date: 2020-04-01 21:00:32
 image: 'https://m.media-amazon.com/images/I/51FhQu0fS+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001LF3SPM-com LEGO Racers Desert Viper'
 sku: 'B001LF3SPM-com'
 tags: [ 'lego', ]

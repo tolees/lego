@@ -5,7 +5,7 @@ date: 2020-02-24 13:17:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51t7nosiYlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC3L19N-de LEGO 75974 - Overwatch Bastion Bauset'
 sku: 'B07JC3L19N-de'
 tags: [ 'lego', ]

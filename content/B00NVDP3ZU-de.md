@@ -5,7 +5,7 @@ date: 2020-04-13 23:47:34
 image: 'https://m.media-amazon.com/images/I/51agpAhwo9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVDP3ZU-de LEGO Classic 10696 Mittelgroße Bausteine-Box Lernspielzeug'
 sku: 'B00NVDP3ZU-de'
 tags: [ 'lego', ]

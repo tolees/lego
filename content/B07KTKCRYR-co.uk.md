@@ -5,7 +5,7 @@ date: 2020-01-10 08:39:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51omG-DWfxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTKCRYR-co.uk LEGO 41371 Friends Mia s Horse Trailer Toy Stable...'
 sku: 'B07KTKCRYR-co.uk'
 tags: [ 'lego', ]

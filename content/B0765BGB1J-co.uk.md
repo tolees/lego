@@ -5,7 +5,7 @@ date: 2020-01-25 08:57:07
 image: 'https://m.media-amazon.com/images/I/516g3ynHbiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765BGB1J-co.uk LEGO 60192 City Arctic Expedition Arctic Ice Crawler...'
 sku: 'B0765BGB1J-co.uk'
 tags: [ 'lego', ]

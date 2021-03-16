@@ -5,7 +5,7 @@ date: 2020-01-04 09:25:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IwrFwzc5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765BGB4B-de LEGO 10881 Disney Mickys Boot Bunt'
 sku: 'B0765BGB4B-de'
 tags: [ 'lego', ]

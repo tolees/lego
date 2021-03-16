@@ -5,7 +5,7 @@ date: 2020-03-18 12:18:46
 image: 'https://m.media-amazon.com/images/I/51Rw8VQ1U0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016PXOAD8-de Lego 90032 Minitaschenlampe Star Wars R2-D2 7 6 cm'
 sku: 'B016PXOAD8-de'
 tags: [ 'lego', ]

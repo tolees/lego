@@ -5,7 +5,7 @@ date: 2020-04-16 17:42:37
 image: 'https://m.media-amazon.com/images/I/51D5PKt3RKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VV73L7S-de LEGO Star Wars 75177 - First Order Heavy Scout Walker'
 sku: 'B06VV73L7S-de'
 tags: [ 'lego', ]

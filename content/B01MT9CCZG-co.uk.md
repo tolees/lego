@@ -5,7 +5,7 @@ date: 2020-03-23 20:45:52
 image: 'https://m.media-amazon.com/images/I/41-Hv0xYZIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT9CCZG-co.uk The LEGO Batman Movie MiniFigure - Batman w/ Utility...'
 sku: 'B01MT9CCZG-co.uk'
 tags: [ 'lego', ]

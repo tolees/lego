@@ -5,7 +5,7 @@ date: 2020-03-22 04:54:48
 image: 'https://m.media-amazon.com/images/I/41ZENUUd40L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LHSB6P-com LEGO 5005233 Exclusives Hamleys Royal Guard Minifigure...'
 sku: 'B078LHSB6P-com'
 tags: [ 'lego', ]

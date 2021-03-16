@@ -5,7 +5,7 @@ date: 2020-04-01 12:45:23
 image: 'https://m.media-amazon.com/images/I/311qtRSHVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015FM2AMS-co.uk West Design West DesignLE51475 Lego Junior Selection...'
 sku: 'B015FM2AMS-co.uk'
 tags: [ 'lego', ]

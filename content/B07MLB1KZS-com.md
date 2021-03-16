@@ -5,7 +5,7 @@ date: 2020-04-14 07:35:27
 image: 'https://m.media-amazon.com/images/I/510ezhD9kmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLB1KZS-com LEGO Movie 2 The: The Second Part 4K Ultra HD + Blu-ray +...'
 sku: 'B07MLB1KZS-com'
 tags: [ 'lego', ]

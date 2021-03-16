@@ -5,7 +5,7 @@ date: 2020-04-09 23:55:22
 image: 'https://m.media-amazon.com/images/I/41gnUgMEwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G77USMO-com LEGO Star Wars - Han Solo in Carbonite LED Lite - Key Chain'
 sku: 'B01G77USMO-com'
 tags: [ 'lego', ]

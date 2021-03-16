@@ -5,7 +5,7 @@ date: 2020-03-19 21:00:43
 image: 'https://m.media-amazon.com/images/I/61siHUYnufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LWMV1N-com LEGO City Forest Tractor 60181 Building Kit 174 Pieces'
 sku: 'B075LWMV1N-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 16:33:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Jr4WYVvpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNT8XBF-co.uk LEGO 70663 Spinjitzu Nya and Wu Ninja NINJAGO...'
 sku: 'B07FNT8XBF-co.uk'
 tags: [ 'lego', ]

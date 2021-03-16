@@ -5,7 +5,7 @@ date: 2020-04-16 17:08:25
 image: 'https://m.media-amazon.com/images/I/51RsimDmQqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GW2F26T-com LEGO City Burger Bar Fire Rescue 60214 Building Kit 327...'
 sku: 'B07GW2F26T-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:43:13
 image: 'https://m.media-amazon.com/images/I/51y41tqzh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPSM5JX-de Spieland 150St. Custom Waffen Set für SWAT Team Polizei...'
 sku: 'B07QPSM5JX-de'
 tags: [ 'lego', ]

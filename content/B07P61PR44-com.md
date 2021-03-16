@@ -5,7 +5,7 @@ date: 2020-04-14 07:35:27
 image: 'https://m.media-amazon.com/images/I/51mpn532YTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P61PR44-com The Lego Movie 2: The Second Part 3D Blu-ray 3D + Blu Ray...'
 sku: 'B07P61PR44-com'
 tags: [ 'lego', ]

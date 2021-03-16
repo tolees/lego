@@ -5,7 +5,7 @@ date: 2020-04-20 12:08:39
 image: 'https://m.media-amazon.com/images/I/61Bwy6Rf4EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075M96T8V-com LEGO DUPLO Large Playground Brick Box 10864 Building...'
 sku: 'B075M96T8V-com'
 tags: [ 'lego', ]

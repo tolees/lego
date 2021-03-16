@@ -5,7 +5,7 @@ date: 2020-04-03 21:02:12
 image: 'https://m.media-amazon.com/images/I/515PDcckSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XX2PWT-de Dittzz Technic Auto Bausteine Auto Bauset 3358 Teiles...'
 sku: 'B085XX2PWT-de'
 tags: [ 'lego', ]

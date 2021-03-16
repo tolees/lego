@@ -5,7 +5,7 @@ date: 2020-03-19 04:45:15
 image: 'https://m.media-amazon.com/images/I/31U0QS9oKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778NP61L-com LEGO Brick Drawer 8 Knobs 2 Drawers Stackable Storage Box...'
 sku: 'B0778NP61L-com'
 tags: [ 'lego', ]

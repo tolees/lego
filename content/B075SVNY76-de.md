@@ -5,7 +5,7 @@ date: 2020-01-01 22:58:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BDaPLwhvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SVNY76-de LEGO Creator 31071 - Forschungsdrohne Bauspielzeug'
 sku: 'B075SVNY76-de'
 tags: [ 'lego', ]

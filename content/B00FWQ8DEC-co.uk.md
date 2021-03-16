@@ -5,7 +5,7 @@ date: 2020-02-25 19:50:47
 image: 'https://m.media-amazon.com/images/I/31cfnIV6ypL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FWQ8DEC-co.uk Room Copenhagen LEGO Brick 4 Knobs Stackable Storage...'
 sku: 'B00FWQ8DEC-co.uk'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-02 07:40:21
 image: 'https://m.media-amazon.com/images/I/61O+th5TpML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VRKC9N-de LEGO Marvel Superheroes 2 [PlayStation 4]'
 sku: 'B071VRKC9N-de'
 tags: [ 'lego', ]

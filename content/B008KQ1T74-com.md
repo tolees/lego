@@ -5,7 +5,7 @@ date: 2020-04-08 05:07:31
 image: 'https://m.media-amazon.com/images/I/31fZ+pSwDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008KQ1T74-com LEGO Storage Brick 4 Blue'
 sku: 'B008KQ1T74-com'
 tags: [ 'lego', ]

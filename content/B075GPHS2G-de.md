@@ -5,7 +5,7 @@ date: 2020-01-13 17:34:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BkYMQw0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GPHS2G-de LEGO Minecraft 21140 - Hühnerstall Unterhaltungsspielzeug'
 sku: 'B075GPHS2G-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 22:38:19
 image: 'https://m.media-amazon.com/images/I/51M9a4H7xtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDL3N1Z-com LEGO | Disney Pixar’s Toy Story 4 Carnival Thrill Coaster...'
 sku: 'B07MDL3N1Z-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-03 12:45:55
 image: 'https://m.media-amazon.com/images/I/51TT9NUimDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFX5Z36-co.uk LEGO City Super Pack 3-in-1 Pack 66619 The Sky Police...'
 sku: 'B07ZFX5Z36-co.uk'
 tags: [ 'lego', ]

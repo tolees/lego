@@ -5,7 +5,7 @@ date: 2020-04-16 16:52:06
 image: 'https://m.media-amazon.com/images/I/51qwrq7KvvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0849YL78H-com LEGO Jurassic World: Legend of Isla Nublar'
 sku: 'B0849YL78H-com'
 tags: [ 'lego', ]

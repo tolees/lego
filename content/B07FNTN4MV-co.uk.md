@@ -5,7 +5,7 @@ date: 2020-04-13 07:13:57
 image: 'https://m.media-amazon.com/images/I/51rWyjsofiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNTN4MV-co.uk LEGO 71023 Movie 2 Minifigures Collectible Toy Variety...'
 sku: 'B07FNTN4MV-co.uk'
 tags: [ 'lego', ]

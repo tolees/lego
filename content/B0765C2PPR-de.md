@@ -5,7 +5,7 @@ date: 2020-04-06 13:06:57
 image: 'https://m.media-amazon.com/images/I/51wdMdTISrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765C2PPR-de LEGO Friends Das große Rennen 41352 Kinderspielzeug'
 sku: 'B0765C2PPR-de'
 tags: [ 'lego', ]

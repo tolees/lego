@@ -5,7 +5,7 @@ date: 2020-04-09 14:42:19
 image: 'https://m.media-amazon.com/images/I/31V08slG-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008KQ1JVU-co.uk LEGO Brick 1 Knob Stackable Storage Box Red 1.2 Litre'
 sku: 'B008KQ1JVU-co.uk'
 tags: [ 'lego', ]

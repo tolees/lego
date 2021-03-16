@@ -5,7 +5,7 @@ date: 2020-04-17 19:04:45
 image: 'https://m.media-amazon.com/images/I/31S6EJEJ1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003M2BXX6-co.uk LEGO 9002144 Yellow Brick Kids Light Up Alarm Clock |...'
 sku: 'B003M2BXX6-co.uk'
 tags: [ 'lego', ]

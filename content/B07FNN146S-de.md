@@ -5,7 +5,7 @@ date: 2020-04-06 13:07:01
 image: 'https://m.media-amazon.com/images/I/5101A82wpbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNN146S-de THE LEGO MOVIE 2 70820 LEGO Movie Maker'
 sku: 'B07FNN146S-de'
 tags: [ 'lego', ]

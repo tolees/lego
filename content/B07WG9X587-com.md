@@ -5,7 +5,7 @@ date: 2020-04-17 23:01:03
 image: 'https://m.media-amazon.com/images/I/51HZcH4DXHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WG9X587-com LEGO Minecraft The Villager Raid 21160 Building Toy...'
 sku: 'B07WG9X587-com'
 tags: [ 'lego', ]

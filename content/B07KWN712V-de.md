@@ -5,7 +5,7 @@ date: 2020-01-27 01:55:46
 image: 'https://m.media-amazon.com/images/I/41XZ9SXR5gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWN712V-de Lego Wear Mädchen LWTIPPI 608-T-SHIRT L/S Langarmshirt...'
 sku: 'B07KWN712V-de'
 tags: [ 'lego', ]

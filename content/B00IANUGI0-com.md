@@ -5,7 +5,7 @@ date: 2020-03-30 12:59:00
 image: 'https://m.media-amazon.com/images/I/51eKqN2LUtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IANUGI0-com LEGO DUPLO All-in-One-Box-of-Fun Building Kit 10572 Open...'
 sku: 'B00IANUGI0-com'
 tags: [ 'lego', ]

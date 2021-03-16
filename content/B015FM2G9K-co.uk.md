@@ -5,7 +5,7 @@ date: 2020-03-04 11:43:00
 image: 'https://m.media-amazon.com/images/I/41UFzIhASxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015FM2G9K-co.uk LEGO DesignLE51504 West Design Junior Selection 9...'
 sku: 'B015FM2G9K-co.uk'
 tags: [ 'lego', ]

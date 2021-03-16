@@ -5,7 +5,7 @@ date: 2020-04-11 23:25:28
 image: 'https://m.media-amazon.com/images/I/517aRebcsJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRTDW7X-com LEGO NINJAGO ShuriCopter 70673 Kids Toy Helicopter...'
 sku: 'B07NRTDW7X-com'
 tags: [ 'lego', ]

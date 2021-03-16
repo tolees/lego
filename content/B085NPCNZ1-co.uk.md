@@ -5,7 +5,7 @@ date: 2020-04-08 04:59:35
 image: 'https://m.media-amazon.com/images/I/41V-42EDlbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NPCNZ1-co.uk Dittzz Vertical Display Stand For LEGO 75257 Star Wars...'
 sku: 'B085NPCNZ1-co.uk'
 tags: [ 'lego', ]

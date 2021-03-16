@@ -5,7 +5,7 @@ date: 2020-03-17 18:22:34
 image: 'https://m.media-amazon.com/images/I/41JagWI+vPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZHM3TM-co.uk LEGO DISK66168K Brick Costume Kids Iconic Blue Building...'
 sku: 'B079ZHM3TM-co.uk'
 tags: [ 'lego', ]

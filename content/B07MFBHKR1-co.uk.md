@@ -5,7 +5,7 @@ date: 2020-01-24 09:42:20
 image: 'https://m.media-amazon.com/images/I/41C1qZ7S0TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFBHKR1-co.uk Lego Wear Girls Lego Friends cm Sweatshirt Pink Pink...'
 sku: 'B07MFBHKR1-co.uk'
 tags: [ 'lego', ]

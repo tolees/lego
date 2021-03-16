@@ -5,7 +5,7 @@ date: 2020-01-30 22:37:38
 image: 'https://m.media-amazon.com/images/I/51IqUOL54BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNTMWLY-co.uk LEGO 41355 Friends Emma s Heart Box Set Emma mini-doll...'
 sku: 'B07FNTMWLY-co.uk'
 tags: [ 'lego', ]

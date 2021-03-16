@@ -5,7 +5,7 @@ date: 2020-03-10 18:24:01
 image: 'https://m.media-amazon.com/images/I/41wD1nNQ9FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZHFYDR-co.uk LEGO DISK66267K Classic DC Costume Boys Robin Medium'
 sku: 'B079ZHFYDR-co.uk'
 tags: [ 'lego', ]

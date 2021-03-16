@@ -5,7 +5,7 @@ date: 2020-04-17 22:11:44
 image: 'https://m.media-amazon.com/images/I/51Sa6rcPtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RDZLZ5-com LEGO Minecraft The Zombie Cave 21141 Building Kit with...'
 sku: 'B075RDZLZ5-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 12:56:52
 image: 'https://m.media-amazon.com/images/I/51xfN9mSnEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXLG1C7-com LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit...'
 sku: 'B07GXLG1C7-com'
 tags: [ 'lego', ]

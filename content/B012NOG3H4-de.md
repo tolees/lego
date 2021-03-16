@@ -5,7 +5,7 @@ date: 2020-04-16 17:41:48
 image: 'https://m.media-amazon.com/images/I/51c+QiVPOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012NOG3H4-de LEGO Star Wars 75116 - Rogue One Actionfigur'
 sku: 'B012NOG3H4-de'
 tags: [ 'lego', ]

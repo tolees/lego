@@ -5,7 +5,7 @@ date: 2020-04-07 04:51:52
 image: 'https://m.media-amazon.com/images/I/41ILmWeIsSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007F1LWYA-com Lego Star Wars Han Solo Minifigure 7965'
 sku: 'B007F1LWYA-com'
 tags: [ 'lego', ]

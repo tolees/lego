@@ -5,7 +5,7 @@ date: 2020-04-09 23:54:56
 image: 'https://m.media-amazon.com/images/I/51zfv6crStL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCMBTTA-com LEGO Star Wars: The Force Awakens - Wii U Standard Edition'
 sku: 'B01BCMBTTA-com'
 tags: [ 'lego', ]

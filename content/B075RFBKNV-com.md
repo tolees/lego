@@ -5,7 +5,7 @@ date: 2020-03-21 16:53:21
 image: 'https://m.media-amazon.com/images/I/61VNjDq-5JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RFBKNV-com LEGO Friends Emma’s Art Café 41336 Building Set 378 Pieces'
 sku: 'B075RFBKNV-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-18 21:23:15
 image: 'https://m.media-amazon.com/images/I/518eua-YBXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NTK9YS-com LEGO Disney Princess Ariel’s Royal Celebration Boat 41153...'
 sku: 'B075NTK9YS-com'
 tags: [ 'lego', ]

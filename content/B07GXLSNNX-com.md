@@ -5,7 +5,7 @@ date: 2020-04-16 16:50:43
 image: 'https://m.media-amazon.com/images/I/51OyChlFNdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXLSNNX-com LEGO THE LEGO MOVIE 2 Sweet Mayhem’s Systar Starship;...'
 sku: 'B07GXLSNNX-com'
 tags: [ 'lego', ]

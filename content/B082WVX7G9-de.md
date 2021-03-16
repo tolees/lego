@@ -5,7 +5,7 @@ date: 2020-04-16 08:19:33
 image: 'https://m.media-amazon.com/images/I/51nAu47OK6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WVX7G9-de H0 V 1369Teile 1:20 2.4GHz RC Modell LKW Truck Bausteine...'
 sku: 'B082WVX7G9-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 22:33:59
 image: 'https://m.media-amazon.com/images/I/51EKviw5Q3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMXSR3V-com LEGO Marvel Avengers Captain America: Outriders Attack...'
 sku: 'B07JMXSR3V-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-27 13:16:34
 image: 'https://m.media-amazon.com/images/I/41VFbIbCKnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EL6HMWW-com IQ Lego Star Wars Kylo Ren LED Head Lamp'
 sku: 'B01EL6HMWW-com'
 tags: [ 'lego', ]

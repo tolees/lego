@@ -5,7 +5,7 @@ date: 2020-04-17 22:28:39
 image: 'https://m.media-amazon.com/images/I/51zOuY3TKeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWZNF9B-com LEGO Creator 3in1 Futuristic Flyer 31086 Building Kit 157...'
 sku: 'B07GWZNF9B-com'
 tags: [ 'lego', ]

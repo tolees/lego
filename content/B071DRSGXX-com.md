@@ -5,7 +5,7 @@ date: 2020-03-24 20:52:44
 image: 'https://m.media-amazon.com/images/I/41W8l-yLTmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071DRSGXX-com LEGO Collectible Minifigure Series 17 - French...'
 sku: 'B071DRSGXX-com'
 tags: [ 'lego', ]

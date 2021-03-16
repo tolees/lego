@@ -5,7 +5,7 @@ date: 2020-03-30 12:55:20
 image: 'https://m.media-amazon.com/images/I/51lgd3wNvgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMB1LRY-com LEGO Trolls World Tour Volcano Rock City Concert 41254...'
 sku: 'B07WMB1LRY-com'
 tags: [ 'lego', ]

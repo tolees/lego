@@ -5,7 +5,7 @@ date: 2020-04-16 17:07:50
 image: 'https://m.media-amazon.com/images/I/61vSv623enL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F4710HU-com LEGO DC Super Heroes Girls Harley Quinn to The Rescue...'
 sku: 'B01F4710HU-com'
 tags: [ 'lego', ]

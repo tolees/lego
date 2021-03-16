@@ -5,7 +5,7 @@ date: 2020-04-09 23:54:47
 image: 'https://m.media-amazon.com/images/I/51YxY-WWC2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CVGV928-com LEGO STAR WARS Jyn Erso 75119 Star Wars Toy'
 sku: 'B01CVGV928-com'
 tags: [ 'lego', ]

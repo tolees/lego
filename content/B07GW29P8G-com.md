@@ -5,7 +5,7 @@ date: 2020-04-17 22:28:41
 image: 'https://m.media-amazon.com/images/I/51HFyIx83ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GW29P8G-com LEGO City Great Vehicles Snow Groomer 60222 Building Kit...'
 sku: 'B07GW29P8G-com'
 tags: [ 'lego', ]

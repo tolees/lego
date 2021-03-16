@@ -5,7 +5,7 @@ date: 2020-03-21 20:56:38
 image: 'https://m.media-amazon.com/images/I/51EXOih3pmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8XZV5K-co.uk LEGO 10917 DUPLO My First Fire Truck Toy Fire-Engine...'
 sku: 'B07W8XZV5K-co.uk'
 tags: [ 'lego', ]

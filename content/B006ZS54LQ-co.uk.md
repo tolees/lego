@@ -5,7 +5,7 @@ date: 2020-01-16 10:42:04
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ZS54LQ-co.uk LEGO Star Wars Planets 9678: Twin-Pod Cloud Car and Bespin'
 sku: 'B006ZS54LQ-co.uk'
 tags: [ 'lego', ]

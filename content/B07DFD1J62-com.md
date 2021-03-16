@@ -5,7 +5,7 @@ date: 2020-04-17 00:25:16
 image: 'https://m.media-amazon.com/images/I/51FeI9U7ukL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFD1J62-com LEGO DC Super-Villains - PlayStation 4'
 sku: 'B07DFD1J62-com'
 tags: [ 'lego', ]

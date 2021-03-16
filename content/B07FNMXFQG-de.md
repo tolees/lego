@@ -5,7 +5,7 @@ date: 2020-01-06 13:08:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lhe1UpWuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNMXFQG-de Lego 41364 Friends Stephanies Cabrio mit Anhänger bunt'
 sku: 'B07FNMXFQG-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 16:56:01
 image: 'https://m.media-amazon.com/images/I/51u9m8KZGGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXEMXGK-com LEGO Star Wars Chirrut Îmwe 75524 Star Wars Toy'
 sku: 'B01MXEMXGK-com'
 tags: [ 'lego', ]

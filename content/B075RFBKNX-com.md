@@ -5,7 +5,7 @@ date: 2020-04-08 12:36:30
 image: 'https://m.media-amazon.com/images/I/51IRacdwF2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RFBKNX-com LEGO Minecraft The Nether Portal 21143 Building Kit 470...'
 sku: 'B075RFBKNX-com'
 tags: [ 'lego', ]

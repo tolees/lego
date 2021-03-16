@@ -5,7 +5,7 @@ date: 2020-03-31 04:47:54
 image: 'https://m.media-amazon.com/images/I/41RGxAOYGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B06GO3K-com Lego Star Wars Republic Trooper Minifigure'
 sku: 'B00B06GO3K-com'
 tags: [ 'lego', ]

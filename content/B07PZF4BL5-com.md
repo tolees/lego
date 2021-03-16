@@ -5,7 +5,7 @@ date: 2020-04-14 15:33:54
 image: 'https://m.media-amazon.com/images/I/51vGNjtdSmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZF4BL5-com LEGO Minecraft The Wool Farm 21153 Building Kit 260 Pieces'
 sku: 'B07PZF4BL5-com'
 tags: [ 'lego', ]

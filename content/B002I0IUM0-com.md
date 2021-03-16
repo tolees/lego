@@ -5,7 +5,7 @@ date: 2020-04-17 21:21:55
 image: 'https://m.media-amazon.com/images/I/61IpKthrWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002I0IUM0-com LEGO Star Wars III: The Clone Wars'
 sku: 'B002I0IUM0-com'
 tags: [ 'lego', ]

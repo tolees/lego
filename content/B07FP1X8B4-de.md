@@ -5,7 +5,7 @@ date: 2020-01-10 13:12:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AABQRa3wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP1X8B4-de LEGO Disney 41161 - Aladdins und Jasmins Palastabenteuer'
 sku: 'B07FP1X8B4-de'
 tags: [ 'lego', ]

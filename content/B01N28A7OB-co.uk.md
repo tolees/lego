@@ -5,7 +5,7 @@ date: 2020-03-04 02:47:39
 image: 'https://m.media-amazon.com/images/I/41K3L9XBTLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N28A7OB-co.uk LEGO DISK18464L Classic Costume Boys Firefighter Small'
 sku: 'B01N28A7OB-co.uk'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-14 08:57:52
 image: 'https://m.media-amazon.com/images/I/51Gw980VQUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTW32JR-co.uk LEGO 75934 avec 3 Figurines Dont et Jurassic World...'
 sku: 'B07KTW32JR-co.uk'
 tags: [ 'lego', ]

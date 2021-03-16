@@ -5,7 +5,7 @@ date: 2020-04-07 12:57:42
 image: 'https://m.media-amazon.com/images/I/41h40cxMXQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FZQXTC-com CREATOR 2019 Lego Gingerbread House Mini Limited Edition...'
 sku: 'B082FZQXTC-com'
 tags: [ 'lego', ]

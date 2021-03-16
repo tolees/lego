@@ -5,7 +5,7 @@ date: 2020-04-16 16:56:35
 image: 'https://m.media-amazon.com/images/I/41Mkj56goxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767SZLGH-com LEGO Star Wars Last Jedi Minifigure - Supreme Leader...'
 sku: 'B0767SZLGH-com'
 tags: [ 'lego', ]

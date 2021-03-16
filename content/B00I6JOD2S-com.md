@@ -5,7 +5,7 @@ date: 2020-04-17 21:34:49
 image: 'https://m.media-amazon.com/images/I/61sQsm5v+SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I6JOD2S-com The LEGO Movie DVD Special Edition'
 sku: 'B00I6JOD2S-com'
 tags: [ 'lego', ]

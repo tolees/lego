@@ -5,7 +5,7 @@ date: 2020-04-11 08:03:59
 image: 'https://m.media-amazon.com/images/I/51lGyR+l5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J41KZJ6-de LEGO Star Wars - Rogue One Actionfigur'
 sku: 'B01J41KZJ6-de'
 tags: [ 'lego', ]

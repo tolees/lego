@@ -5,7 +5,7 @@ date: 2020-02-02 12:44:04
 image: 'https://m.media-amazon.com/images/I/31mT+It4LpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NE5L7W-co.uk Lego Storage Head Large Girl'
 sku: 'B003NE5L7W-co.uk'
 tags: [ 'lego', ]

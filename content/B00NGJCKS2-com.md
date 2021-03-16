@@ -5,7 +5,7 @@ date: 2020-04-11 23:29:54
 image: 'https://m.media-amazon.com/images/I/61q3KIrtFdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGJCKS2-com LEGO 42031 Cherry Picker'
 sku: 'B00NGJCKS2-com'
 tags: [ 'lego', ]

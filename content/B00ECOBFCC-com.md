@@ -5,7 +5,7 @@ date: 2020-04-12 23:56:32
 image: 'https://m.media-amazon.com/images/I/61ngXu6FTZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECOBFCC-com The LEGO Movie Videogame - PlayStation 3'
 sku: 'B00ECOBFCC-com'
 tags: [ 'lego', ]

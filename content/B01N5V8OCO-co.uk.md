@@ -5,7 +5,7 @@ date: 2020-03-01 11:53:15
 image: 'https://m.media-amazon.com/images/I/41f9c7uf6ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5V8OCO-co.uk LEGO DISK18268K Deluxe Costume Skeleton Medium'
 sku: 'B01N5V8OCO-co.uk'
 tags: [ 'lego', ]

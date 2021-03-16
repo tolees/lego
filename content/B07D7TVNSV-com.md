@@ -5,7 +5,7 @@ date: 2020-04-17 22:23:52
 image: 'https://m.media-amazon.com/images/I/51tv9ErkNPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7TVNSV-com LEGO Marvel Spider-Man: Spider-Man Bike Rescue 76113...'
 sku: 'B07D7TVNSV-com'
 tags: [ 'lego', ]

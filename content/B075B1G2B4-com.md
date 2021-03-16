@@ -5,7 +5,7 @@ date: 2020-04-16 16:55:58
 image: 'https://m.media-amazon.com/images/I/41E+epM6LZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075B1G2B4-com LEGO Star Wars - Supreme Leader Snoke with Palpatine...'
 sku: 'B075B1G2B4-com'
 tags: [ 'lego', ]

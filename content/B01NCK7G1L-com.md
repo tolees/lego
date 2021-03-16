@@ -5,7 +5,7 @@ date: 2020-04-07 12:56:47
 image: 'https://m.media-amazon.com/images/I/51kVzfTbcoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCK7G1L-com LEGO BATMAN MOVIE The Penguin Arctic Roller 70911...'
 sku: 'B01NCK7G1L-com'
 tags: [ 'lego', ]

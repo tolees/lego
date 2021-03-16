@@ -5,7 +5,7 @@ date: 2020-04-09 19:29:06
 image: 'https://m.media-amazon.com/images/I/51AY1nF1ewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8YKYY3-co.uk LEGO 21157 Minecraft BigFig Pig with Baby Zombie...'
 sku: 'B07W8YKYY3-co.uk'
 tags: [ 'lego', ]

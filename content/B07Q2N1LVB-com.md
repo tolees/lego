@@ -5,7 +5,7 @@ date: 2020-04-05 04:53:59
 image: 'https://m.media-amazon.com/images/I/517DFFcDQ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2N1LVB-com LEGO DC Batman: Batman vs The Riddler Robbery 76137...'
 sku: 'B07Q2N1LVB-com'
 tags: [ 'lego', ]

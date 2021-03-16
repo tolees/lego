@@ -5,7 +5,7 @@ date: 2020-01-03 06:24:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61xWwHLreGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J41KJ4M-de LEGO Star Wars 75161 - Microfighter'
 sku: 'B01J41KJ4M-de'
 tags: [ 'lego', ]

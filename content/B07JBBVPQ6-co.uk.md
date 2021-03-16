@@ -5,7 +5,7 @@ date: 2020-01-05 22:14:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/515XP3COZ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBBVPQ6-co.uk LEGO 40253 Build Up Playset 24-in-1 Model Fun Christmas...'
 sku: 'B07JBBVPQ6-co.uk'
 tags: [ 'lego', ]

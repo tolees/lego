@@ -5,7 +5,7 @@ date: 2020-04-11 08:03:58
 image: 'https://m.media-amazon.com/images/I/51fjtWKpqPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZP5TYN-de Spieland Custom Waffen Set für Mini Figuren SWAT Team...'
 sku: 'B07MZP5TYN-de'
 tags: [ 'lego', ]

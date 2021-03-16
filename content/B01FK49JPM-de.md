@@ -5,7 +5,7 @@ date: 2020-04-16 17:42:40
 image: 'https://m.media-amazon.com/images/I/51yKjXdPjML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FK49JPM-de Lego 90029 LED Lampe Star Wars Darth Vader 20 cm'
 sku: 'B01FK49JPM-de'
 tags: [ 'lego', ]

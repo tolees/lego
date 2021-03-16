@@ -5,7 +5,7 @@ date: 2020-03-16 10:41:00
 image: 'https://m.media-amazon.com/images/I/31q5Gw+rMFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFM31FC-de maisterkaio-de Figur Enfys Nest -- Star Wars -- aus 75215...'
 sku: 'B07GFM31FC-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 12:56:06
 image: 'https://m.media-amazon.com/images/I/31yjLbQsCcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008KQ1TQU-com LEGO Storage Brick 4 Yellow'
 sku: 'B008KQ1TQU-com'
 tags: [ 'lego', ]

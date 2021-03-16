@@ -5,7 +5,7 @@ date: 2020-04-17 00:23:40
 image: 'https://m.media-amazon.com/images/I/51sPEknBb3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCMBK1W-com LEGO Star Wars: Force Awakens Deluxe Edition - PlayStation 4'
 sku: 'B01BCMBK1W-com'
 tags: [ 'lego', ]

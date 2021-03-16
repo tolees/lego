@@ -5,7 +5,7 @@ date: 2020-01-07 13:23:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HUm%2Bh7S7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTK9FJV-de LEGO Friends 41388 - Mias sommerliche Herzbox Bauset'
 sku: 'B07KTK9FJV-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-19 12:46:27
 image: 'https://m.media-amazon.com/images/I/41gUp2mNwzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003M2G0SY-co.uk LEGO Kids Star Wars Plastic Watch with Link Bracelet...'
 sku: 'B003M2G0SY-co.uk'
 tags: [ 'lego', ]

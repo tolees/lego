@@ -5,7 +5,7 @@ date: 2020-04-11 07:27:31
 image: 'https://m.media-amazon.com/images/I/41vhOsrAiML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008QW1ERC-com IQ Lego Star Wars - Yoda LED Keychain Light'
 sku: 'B008QW1ERC-com'
 tags: [ 'lego', ]

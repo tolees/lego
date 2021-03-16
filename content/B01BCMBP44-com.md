@@ -5,7 +5,7 @@ date: 2020-04-09 23:55:01
 image: 'https://m.media-amazon.com/images/I/519xUZw18hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCMBP44-com LEGO Star Wars: The Force Awakens - PlayStation 3...'
 sku: 'B01BCMBP44-com'
 tags: [ 'lego', ]

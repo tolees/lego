@@ -5,7 +5,7 @@ date: 2020-04-12 06:49:23
 image: 'https://m.media-amazon.com/images/I/51590OWZcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4Q2JUD-co.uk Lego 30522 The Batman Movie Exclusive Polybag Batman in...'
 sku: 'B01N4Q2JUD-co.uk'
 tags: [ 'lego', ]

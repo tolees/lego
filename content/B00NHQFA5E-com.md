@@ -5,7 +5,7 @@ date: 2020-04-14 07:34:20
 image: 'https://m.media-amazon.com/images/I/51qng6vJdhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NHQFA5E-com LEGO Classic Creative Bricks 10692 Building Blocks...'
 sku: 'B00NHQFA5E-com'
 tags: [ 'lego', ]

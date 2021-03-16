@@ -5,7 +5,7 @@ date: 2020-04-01 21:06:35
 image: 'https://m.media-amazon.com/images/I/616dqzrjgIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J41D4IU-de LEGO Duplo 10847 - Zahlenzug Vorschulspielzeug'
 sku: 'B01J41D4IU-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-09 23:23:38
 image: 'https://m.media-amazon.com/images/I/519sGXu0noL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WF9TGFH-com LEGO Minifigures DC Super Heroes Series 71026 Collectible...'
 sku: 'B07WF9TGFH-com'
 tags: [ 'lego', ]

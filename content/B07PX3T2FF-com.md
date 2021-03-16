@@ -5,7 +5,7 @@ date: 2020-04-17 22:45:15
 image: 'https://m.media-amazon.com/images/I/51cKzVVKtIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX3T2FF-com LEGO Harry Potter and The Goblet of Fire The Rise of...'
 sku: 'B07PX3T2FF-com'
 tags: [ 'lego', ]

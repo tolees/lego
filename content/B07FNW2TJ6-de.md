@@ -5,7 +5,7 @@ date: 2020-03-21 09:22:13
 image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNW2TJ6-de Lego 41360 Friends Emmas mobile Tierarztpraxis bunt'
 sku: 'B07FNW2TJ6-de'
 tags: [ 'lego', ]

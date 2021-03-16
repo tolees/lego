@@ -5,7 +5,7 @@ date: 2020-01-06 20:43:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qEhqNaFLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTK971G-co.uk LEGO 41387 Friends Olivia s Summer Heart Box Toy...'
 sku: 'B07KTK971G-co.uk'
 tags: [ 'lego', ]

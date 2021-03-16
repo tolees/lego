@@ -5,7 +5,7 @@ date: 2020-04-14 07:40:24
 image: 'https://m.media-amazon.com/images/I/41ec0CghlkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0799SBQ7B-com LEGO Star Wars - R4-P17 Astromech Droid Minifig'
 sku: 'B0799SBQ7B-com'
 tags: [ 'lego', ]

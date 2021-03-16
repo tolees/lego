@@ -5,7 +5,7 @@ date: 2020-03-23 20:57:47
 image: 'https://m.media-amazon.com/images/I/41YXPort5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EWOLZHC-com LEGO City Coast Guard Seaplane Bagged 30225'
 sku: 'B00EWOLZHC-com'
 tags: [ 'lego', ]

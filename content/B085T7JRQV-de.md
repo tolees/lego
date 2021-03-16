@@ -5,7 +5,7 @@ date: 2020-04-08 05:33:39
 image: 'https://m.media-amazon.com/images/I/51KOaKREU5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T7JRQV-de Dittzz Technic Auto 919 Hybrid Sportwagen Bauset 1586...'
 sku: 'B085T7JRQV-de'
 tags: [ 'lego', ]

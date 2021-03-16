@@ -5,7 +5,7 @@ date: 2020-04-17 22:29:17
 image: 'https://m.media-amazon.com/images/I/513fLu31wpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXMPSRS-com LEGO Classic Basic Brick Set 11002 Building Kit 300 Pieces'
 sku: 'B07GXMPSRS-com'
 tags: [ 'lego', ]

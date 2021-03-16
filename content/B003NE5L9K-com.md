@@ -5,7 +5,7 @@ date: 2020-03-31 04:53:41
 image: 'https://m.media-amazon.com/images/I/41hwLDiEUCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NE5L9K-com LEGO Storage Brick 8 Black'
 sku: 'B003NE5L9K-com'
 tags: [ 'lego', ]

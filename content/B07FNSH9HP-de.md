@@ -5,7 +5,7 @@ date: 2020-03-17 09:21:51
 image: 'https://m.media-amazon.com/images/I/51ZmHFlFA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSH9HP-de LEGO DUPLO 10908 - Flugzeug'
 sku: 'B07FNSH9HP-de'
 tags: [ 'lego', ]

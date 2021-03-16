@@ -5,7 +5,7 @@ date: 2020-04-16 16:56:08
 image: 'https://m.media-amazon.com/images/I/51T4d+3IzlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AW1R5Y0-com LEGO Star Wars Galactic Empire Battle Pack 75134'
 sku: 'B01AW1R5Y0-com'
 tags: [ 'lego', ]

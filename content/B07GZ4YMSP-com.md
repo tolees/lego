@@ -5,7 +5,7 @@ date: 2020-03-22 22:01:41
 image: 'https://m.media-amazon.com/images/I/51vmDVUHzBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZ4YMSP-com LEGO NINJAGO Legacy Monastery of Spinjitzu 70670 Battle...'
 sku: 'B07GZ4YMSP-com'
 tags: [ 'lego', ]

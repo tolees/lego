@@ -5,7 +5,7 @@ date: 2020-04-09 23:21:47
 image: 'https://m.media-amazon.com/images/I/41zsiscyeFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXYXFYX-com LEGO THE LEGO MOVIE 2 Minifigures 71023 Building Kit 1...'
 sku: 'B07GXYXFYX-com'
 tags: [ 'lego', ]

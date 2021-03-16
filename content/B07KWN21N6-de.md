@@ -5,7 +5,7 @@ date: 2020-01-27 17:50:50
 image: 'https://m.media-amazon.com/images/I/41j5ToFp5zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWN21N6-de Lego Wear Mädchen LWSIMONE 611-SWEATSHIRT Sweatshirt Grau...'
 sku: 'B07KWN21N6-de'
 tags: [ 'lego', ]

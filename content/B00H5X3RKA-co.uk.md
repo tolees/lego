@@ -5,7 +5,7 @@ date: 2020-04-02 20:43:17
 image: 'https://m.media-amazon.com/images/I/51H6PiFpCgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H5X3RKA-co.uk Lego Legends of Chima Cragger Boys Pyjamas 4 Green Size 4'
 sku: 'B00H5X3RKA-co.uk'
 tags: [ 'lego', ]

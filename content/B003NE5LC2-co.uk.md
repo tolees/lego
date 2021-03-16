@@ -5,7 +5,7 @@ date: 2020-04-12 06:49:22
 image: 'https://m.media-amazon.com/images/I/21425GSgcrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NE5LC2-co.uk LEGO Brick 4 Knobs Stackable Storage Box White 5.7 Litre'
 sku: 'B003NE5LC2-co.uk'
 tags: [ 'lego', ]

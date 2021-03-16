@@ -5,7 +5,7 @@ date: 2020-04-07 21:24:47
 image: 'https://m.media-amazon.com/images/I/5154jXV2K1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWVM5J4-com LEGO DUPLO Town Submarine Adventure 10910 Building Kit 24...'
 sku: 'B07QWVM5J4-com'
 tags: [ 'lego', ]

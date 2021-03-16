@@ -5,7 +5,7 @@ date: 2020-01-29 19:16:42
 image: 'https://m.media-amazon.com/images/I/51SAtd27MvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB18SQC-de Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit...'
 sku: 'B07BB18SQC-de'
 tags: [ 'lego', ]

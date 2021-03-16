@@ -5,7 +5,7 @@ date: 2020-01-01 22:58:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ShLNKeLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZR6WHM-de Spieland Custom Battle Szene Set für Lego Mini Figuren...'
 sku: 'B07MZR6WHM-de'
 tags: [ 'lego', ]

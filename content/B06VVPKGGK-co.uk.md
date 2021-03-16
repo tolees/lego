@@ -5,7 +5,7 @@ date: 2020-04-16 07:08:24
 image: 'https://m.media-amazon.com/images/I/51jrs-ZPclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VVPKGGK-co.uk LEGO DC Comics Super Heroes 76085 Justice League Battle...'
 sku: 'B06VVPKGGK-co.uk'
 tags: [ 'lego', ]

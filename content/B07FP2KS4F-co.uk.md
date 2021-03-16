@@ -5,7 +5,7 @@ date: 2020-04-16 07:09:18
 image: 'https://m.media-amazon.com/images/I/51HTG-WS6HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2KS4F-co.uk LEGO Movie 2 70821 Emmet and Benny’s Build and Fix...'
 sku: 'B07FP2KS4F-co.uk'
 tags: [ 'lego', ]

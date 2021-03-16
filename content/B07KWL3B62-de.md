@@ -5,7 +5,7 @@ date: 2020-01-27 01:55:40
 image: 'https://m.media-amazon.com/images/I/41ZtJ6D9tdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWL3B62-de Lego Wear Mädchen Lego Tec Boy LWJOSEFINE...'
 sku: 'B07KWL3B62-de'
 tags: [ 'lego', ]

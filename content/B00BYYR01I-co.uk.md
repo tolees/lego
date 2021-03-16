@@ -5,7 +5,7 @@ date: 2020-01-26 17:38:51
 image: 'https://m.media-amazon.com/images/I/41yzk+BQ8vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BYYR01I-co.uk LEGO R2D2 Key Light'
 sku: 'B00BYYR01I-co.uk'
 tags: [ 'lego', ]

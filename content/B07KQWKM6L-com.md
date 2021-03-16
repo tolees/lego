@@ -5,7 +5,7 @@ date: 2020-03-24 12:56:15
 image: 'https://m.media-amazon.com/images/I/514LCWFQlFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQWKM6L-com Lego Background Birthday for Boy 7x5 Customized...'
 sku: 'B07KQWKM6L-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-30 11:25:32
 image: 'https://m.media-amazon.com/images/I/51BHXdyB8VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWD34S-co.uk LEGO 31091 Creator 3in1 Shuttle Transporter Spaceship...'
 sku: 'B07FNWD34S-co.uk'
 tags: [ 'lego', ]

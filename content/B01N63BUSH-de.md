@@ -5,7 +5,7 @@ date: 2020-04-07 13:03:33
 image: 'https://m.media-amazon.com/images/I/51JmM-2IytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N63BUSH-de LEGO Nexo Ritter macht Strandtuch'
 sku: 'B01N63BUSH-de'
 tags: [ 'lego', ]

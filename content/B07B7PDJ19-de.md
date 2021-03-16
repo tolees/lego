@@ -5,7 +5,7 @@ date: 2020-02-14 07:29:21
 image: 'https://m.media-amazon.com/images/I/415ful0xpeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7PDJ19-de LEGO Star Wars Minifigur Dengar mit 2 Bonus Waffen'
 sku: 'B07B7PDJ19-de'
 tags: [ 'lego', ]

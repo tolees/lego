@@ -5,7 +5,7 @@ date: 2020-03-27 08:50:13
 image: 'https://m.media-amazon.com/images/I/514tgaBgGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNTSDG6-co.uk LEGO 60240 City Kayak Adventure'
 sku: 'B07FNTSDG6-co.uk'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 16:54:50
 image: 'https://m.media-amazon.com/images/I/41lJu1mw93L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00194JLWE-com Lego Star Wars Super Battle Droid Minifigure'
 sku: 'B00194JLWE-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-02-03 09:25:28
 image: 'https://m.media-amazon.com/images/I/51vPtdJjZGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075T2KJZD-de LEGO Ninjago 70640 - Hauptquartier der Motorradfahrer...'
 sku: 'B075T2KJZD-de'
 tags: [ 'lego', ]

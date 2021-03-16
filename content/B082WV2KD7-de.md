@@ -5,7 +5,7 @@ date: 2020-01-23 01:35:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VO74R5L7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WV2KD7-de H0_V 1628Teile 1:10 2.4GHz RC Modell LKW Truck Sportwagen...'
 sku: 'B082WV2KD7-de'
 tags: [ 'lego', ]

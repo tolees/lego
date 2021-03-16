@@ -5,7 +5,7 @@ date: 2020-03-06 18:28:35
 image: 'https://m.media-amazon.com/images/I/51jrs-ZPclL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VVPKGGK-de LEGO Super Heroes 76085 - Das Kräftemessen um Atlantis'
 sku: 'B06VVPKGGK-de'
 tags: [ 'lego', ]

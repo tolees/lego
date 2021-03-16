@@ -5,7 +5,7 @@ date: 2020-02-19 03:53:53
 image: 'https://m.media-amazon.com/images/I/415yP7TWagL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DR2F2J-co.uk DUS Light Set for LEGO Architecture San Francisco 21043...'
 sku: 'B083DR2F2J-co.uk'
 tags: [ 'lego', ]

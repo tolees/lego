@@ -5,7 +5,7 @@ date: 2020-04-17 22:21:34
 image: 'https://m.media-amazon.com/images/I/61LIOGLl6qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHGZRKM-com LEGO DUPLO Minnie’s Birthday Party 10873 Building Blocks...'
 sku: 'B07BHGZRKM-com'
 tags: [ 'lego', ]

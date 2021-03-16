@@ -5,7 +5,7 @@ date: 2020-03-17 18:23:16
 image: 'https://m.media-amazon.com/images/I/41zKtwthCOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW8S1ZD-co.uk Lego Wear Boy s Lego Lwsiam Sweatshirt Grey Grey...'
 sku: 'B07KW8S1ZD-co.uk'
 tags: [ 'lego', ]

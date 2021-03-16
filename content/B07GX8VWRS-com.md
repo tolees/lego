@@ -5,7 +5,7 @@ date: 2020-04-17 22:29:24
 image: 'https://m.media-amazon.com/images/I/41KZ5C2oorL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX8VWRS-com LEGO Creator 3in1 Race Plane 31094 Building Kit 333 Pieces'
 sku: 'B07GX8VWRS-com'
 tags: [ 'lego', ]

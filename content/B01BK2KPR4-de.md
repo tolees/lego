@@ -5,7 +5,7 @@ date: 2020-02-20 20:12:16
 image: 'https://m.media-amazon.com/images/I/51mpoezwPWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BK2KPR4-de LEGO Duplo 10910 - U-Boot-Abenteuer Bauset'
 sku: 'B01BK2KPR4-de'
 tags: [ 'lego', ]

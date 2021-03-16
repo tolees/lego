@@ -5,7 +5,7 @@ date: 2020-04-05 13:01:42
 image: 'https://m.media-amazon.com/images/I/51-wjG-AVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001U3ZMEU-de LEGO City 7639 - Wohnmobil'
 sku: 'B001U3ZMEU-de'
 tags: [ 'lego', ]

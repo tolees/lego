@@ -5,7 +5,7 @@ date: 2020-03-27 04:40:27
 image: 'https://m.media-amazon.com/images/I/316LouJRBOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NKOW7EK-co.uk LEGO Animal Minifigure Husky Arctic Sled Dog with Bone...'
 sku: 'B00NKOW7EK-co.uk'
 tags: [ 'lego', ]

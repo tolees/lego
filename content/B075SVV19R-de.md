@@ -5,7 +5,7 @@ date: 2020-01-17 09:25:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bYld2hK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SVV19R-de LEGO Disney 41153 - Princess Arielles königliches...'
 sku: 'B075SVV19R-de'
 tags: [ 'lego', ]

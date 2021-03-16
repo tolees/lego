@@ -5,7 +5,7 @@ date: 2020-04-09 23:56:55
 image: 'https://m.media-amazon.com/images/I/41C7klN2+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLXTZPG-com LEGO Star Wars Minifigure - Luke Skywalker Bacta Tank...'
 sku: 'B07JLXTZPG-com'
 tags: [ 'lego', ]

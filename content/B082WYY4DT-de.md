@@ -5,7 +5,7 @@ date: 2020-03-18 21:21:55
 image: 'https://m.media-amazon.com/images/I/41rgAZ2sBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WYY4DT-de H0_V 522Teile 2.4GHz RC Modell Geländewagen Buggy...'
 sku: 'B082WYY4DT-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-08 20:12:44
 image: 'https://m.media-amazon.com/images/I/512a0dAyAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRLLL5Y-co.uk LEGO 21308 Adventure Time Toy Creative role-playing Set'
 sku: 'B01MRLLL5Y-co.uk'
 tags: [ 'lego', ]

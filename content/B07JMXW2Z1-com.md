@@ -5,7 +5,7 @@ date: 2020-04-17 22:34:14
 image: 'https://m.media-amazon.com/images/I/51zZQgJPYhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMXW2Z1-com LEGO Star Wars: The Force Awakens Duel on Starkiller Base...'
 sku: 'B07JMXW2Z1-com'
 tags: [ 'lego', ]

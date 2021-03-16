@@ -5,7 +5,7 @@ date: 2020-03-30 12:26:15
 image: 'https://m.media-amazon.com/images/I/51wg2yHYUSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2GRYJ-de Lego 41383 Friends Olivias Hamster-Spielplatz bunt'
 sku: 'B07FP2GRYJ-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 12:47:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51I6cfG671L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GQBMMV-co.uk LEGO 10864 DUPLO My First Large Playground Brick Box...'
 sku: 'B075GQBMMV-co.uk'
 tags: [ 'lego', ]

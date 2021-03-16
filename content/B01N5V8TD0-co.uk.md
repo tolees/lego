@@ -5,7 +5,7 @@ date: 2020-03-22 04:42:59
 image: 'https://m.media-amazon.com/images/I/412S6KY+qjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5V8TD0-co.uk LEGO DISK18271K Deluxe Costume Mummy Medium'
 sku: 'B01N5V8TD0-co.uk'
 tags: [ 'lego', ]

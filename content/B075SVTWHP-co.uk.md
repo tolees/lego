@@ -5,7 +5,7 @@ date: 2020-03-12 20:33:51
 image: 'https://m.media-amazon.com/images/I/51t7GK4hjuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SVTWHP-co.uk LEGO 41335 Friends Heartlake Mia’s Tree House Playset...'
 sku: 'B075SVTWHP-co.uk'
 tags: [ 'lego', ]

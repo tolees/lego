@@ -5,7 +5,7 @@ date: 2020-04-17 21:52:28
 image: 'https://m.media-amazon.com/images/I/51xJLNVxOXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CU9WL5A-com LEGO DUPLO Town Truck & Tracked Excavator 10812 Dump...'
 sku: 'B01CU9WL5A-com'
 tags: [ 'lego', ]

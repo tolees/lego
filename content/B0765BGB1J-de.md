@@ -5,7 +5,7 @@ date: 2020-02-10 09:22:03
 image: 'https://m.media-amazon.com/images/I/516g3ynHbiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765BGB1J-de LEGO City Arktis-Eiskran auf Stelzen 60192 Kinderspielzeug'
 sku: 'B0765BGB1J-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 22:55:09
 image: 'https://m.media-amazon.com/images/I/61Nbo6iOuVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XMQKBTS-co.uk LEGO DC Comics UK 70916 "The Batwing" Construction Toy'
 sku: 'B06XMQKBTS-co.uk'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:18:14
 image: 'https://m.media-amazon.com/images/I/51hxHTo2r5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ8NZ2M-de HUISHENG Build on Brick Tasse Becher zur Junge oder Männer...'
 sku: 'B07CQ8NZ2M-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-23 12:51:12
 image: 'https://m.media-amazon.com/images/I/41ob9xCJS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DTFOWW-com LEGO Quinlan VOS w Green Lightsaber Star Wars Minifigure'
 sku: 'B005DTFOWW-com'
 tags: [ 'lego', ]

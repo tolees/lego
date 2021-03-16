@@ -5,7 +5,7 @@ date: 2020-03-24 21:04:21
 image: 'https://m.media-amazon.com/images/I/41OhUzdNSRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085SZ3J4S-de Dittzz Technic Auto Huracan LP 610 Sportwagen Bauset 1696...'
 sku: 'B085SZ3J4S-de'
 tags: [ 'lego', ]

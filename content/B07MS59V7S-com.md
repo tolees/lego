@@ -5,7 +5,7 @@ date: 2020-04-14 07:35:33
 image: 'https://m.media-amazon.com/images/I/51RZGxXGNOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS59V7S-com The LEGO Movie 2: The Second Part Special Edition/DVD'
 sku: 'B07MS59V7S-com'
 tags: [ 'lego', ]

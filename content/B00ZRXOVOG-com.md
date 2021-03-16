@@ -5,7 +5,7 @@ date: 2020-04-09 23:54:52
 image: 'https://m.media-amazon.com/images/I/41l7hw-Sm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZRXOVOG-com IQ Lego Star Wars Han Solo LED Key Light'
 sku: 'B00ZRXOVOG-com'
 tags: [ 'lego', ]

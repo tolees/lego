@@ -5,7 +5,7 @@ date: 2020-04-09 23:23:06
 image: 'https://m.media-amazon.com/images/I/21K6h7H-xKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077M7VS1Z-com LEGO Friends/City Minifigure - Baby Ola in Blanket New...'
 sku: 'B077M7VS1Z-com'
 tags: [ 'lego', ]

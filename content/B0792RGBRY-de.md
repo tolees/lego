@@ -5,7 +5,7 @@ date: 2020-01-07 09:20:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BzgecVIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792RGBRY-de LEGO Phantastische Tierwesen: Grindelwalds Verbrechen -...'
 sku: 'B0792RGBRY-de'
 tags: [ 'lego', ]

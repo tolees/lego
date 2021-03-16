@@ -5,7 +5,7 @@ date: 2020-04-09 23:31:42
 image: 'https://m.media-amazon.com/images/I/51-Y67iiY9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711RJQBP-com LEGO Marvel Superheroes 2 - Nintendo Switch'
 sku: 'B0711RJQBP-com'
 tags: [ 'lego', ]

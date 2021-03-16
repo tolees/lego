@@ -5,7 +5,7 @@ date: 2020-02-12 08:29:03
 image: 'https://m.media-amazon.com/images/I/510tksUIOoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWJ5PC-co.uk LEGO 70670 NINJAGO Monastery of Spinjitzu Wu Jay Nya...'
 sku: 'B07FNWJ5PC-co.uk'
 tags: [ 'lego', ]

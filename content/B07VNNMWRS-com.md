@@ -5,7 +5,7 @@ date: 2020-04-17 22:57:50
 image: 'https://m.media-amazon.com/images/I/51+r3YSkQQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNNMWRS-com Lego Jurassic World - Nintendo Switch'
 sku: 'B07VNNMWRS-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-01-13 20:37:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VWDeDZdlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWJ12Q-co.uk LEGO 70680 NINJAGO Monastery Training Includes Kai and...'
 sku: 'B07FNWJ12Q-co.uk'
 tags: [ 'lego', ]

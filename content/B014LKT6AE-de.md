@@ -5,7 +5,7 @@ date: 2020-04-07 13:02:56
 image: 'https://m.media-amazon.com/images/I/51IFDti8HJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014LKT6AE-de Lego Ninjago Kinder Ninja Rucksack'
 sku: 'B014LKT6AE-de'
 tags: [ 'lego', ]

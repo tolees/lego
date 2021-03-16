@@ -5,7 +5,7 @@ date: 2020-03-06 12:58:29
 image: 'https://m.media-amazon.com/images/I/512uowkzDWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BK2PXAS-co.uk LEGO 10907 DUPLO Town World Animals Adventure Learning...'
 sku: 'B01BK2PXAS-co.uk'
 tags: [ 'lego', ]

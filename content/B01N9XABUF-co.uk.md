@@ -5,7 +5,7 @@ date: 2020-03-18 20:39:57
 image: 'https://m.media-amazon.com/images/I/41OS+zUM9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9XABUF-co.uk Lego Vampire Classic Costume Medium 7-8 Years'
 sku: 'B01N9XABUF-co.uk'
 tags: [ 'lego', ]

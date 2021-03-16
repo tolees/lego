@@ -5,7 +5,7 @@ date: 2020-03-28 12:59:46
 image: 'https://m.media-amazon.com/images/I/51jQNoV7jpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX3VGW6-com LEGO Classic Windows of Creativity 11004 Building Kit 450...'
 sku: 'B07PX3VGW6-com'
 tags: [ 'lego', ]

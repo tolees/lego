@@ -5,7 +5,7 @@ date: 2020-04-09 07:18:20
 image: 'https://m.media-amazon.com/images/I/615Bu6mThTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECOAX3O-com The LEGO Movie Videogame - Nintendo 3DS Standard Edition'
 sku: 'B00ECOAX3O-com'
 tags: [ 'lego', ]

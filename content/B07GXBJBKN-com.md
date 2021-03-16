@@ -5,7 +5,7 @@ date: 2020-04-14 07:34:48
 image: 'https://m.media-amazon.com/images/I/51lO718x09L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXBJBKN-com LEGO Friends Stephanie’s Horse Jumping 41367 Building Kit...'
 sku: 'B07GXBJBKN-com'
 tags: [ 'lego', ]

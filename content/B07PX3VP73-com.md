@@ -5,7 +5,7 @@ date: 2020-04-14 07:35:34
 image: 'https://m.media-amazon.com/images/I/61pOsfyqShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX3VP73-com LEGO Jurassic World Baryonyx Face Off: The Treasure Hunt...'
 sku: 'B07PX3VP73-com'
 tags: [ 'lego', ]

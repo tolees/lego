@@ -5,7 +5,7 @@ date: 2020-04-17 23:52:30
 image: 'https://m.media-amazon.com/images/I/61Rk9JVNCML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A00W4RQ-de LEGO Stadt Blaues Auto 30349 pe-beutel'
 sku: 'B01A00W4RQ-de'
 tags: [ 'lego', ]

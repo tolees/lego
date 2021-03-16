@@ -5,7 +5,7 @@ date: 2020-03-31 04:53:20
 image: 'https://m.media-amazon.com/images/I/51JRwM8U-zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F4710ES-com LEGO DC Super Hero Girls Super Hero High School 41232...'
 sku: 'B01F4710ES-com'
 tags: [ 'lego', ]

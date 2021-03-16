@@ -5,7 +5,7 @@ date: 2020-04-09 16:06:18
 image: 'https://m.media-amazon.com/images/I/513wFue-I-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX7BXNP-com LEGO THE LEGO MOVIE 2 Battle Ready Batman and MetalBeard...'
 sku: 'B07GX7BXNP-com'
 tags: [ 'lego', ]

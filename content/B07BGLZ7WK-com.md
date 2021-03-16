@@ -5,7 +5,7 @@ date: 2020-04-14 07:55:10
 image: 'https://m.media-amazon.com/images/I/51xhz6NN8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGLZ7WK-com LEGO City Tracks 60205 Building Kit 20 Pieces'
 sku: 'B07BGLZ7WK-com'
 tags: [ 'lego', ]

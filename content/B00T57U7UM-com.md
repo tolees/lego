@@ -5,7 +5,7 @@ date: 2020-03-21 13:05:00
 image: 'https://m.media-amazon.com/images/I/51L2i8WhbFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T57U7UM-com LEGO Marvel s Avengers - PlayStation 4'
 sku: 'B00T57U7UM-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 04:53:04
 image: 'https://m.media-amazon.com/images/I/41SalaC5TQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0076VIZBW-com LEGO Classic Brick Separator 630 Building Kit 1 Piece'
 sku: 'B0076VIZBW-com'
 tags: [ 'lego', ]

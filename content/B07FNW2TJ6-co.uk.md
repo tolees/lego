@@ -5,7 +5,7 @@ date: 2020-04-12 06:50:11
 image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNW2TJ6-co.uk LEGO 41360 Friends Emma s Mobile Vet Clinic Playset Vet...'
 sku: 'B07FNW2TJ6-co.uk'
 tags: [ 'lego', ]

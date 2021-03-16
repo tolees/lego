@@ -5,7 +5,7 @@ date: 2020-04-16 08:23:31
 image: 'https://m.media-amazon.com/images/I/51NMLF2e7HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086VYFZB4-de PARIO Display Halterung DIY Bauspiel MOC Ständer für Lego...'
 sku: 'B086VYFZB4-de'
 tags: [ 'lego', ]

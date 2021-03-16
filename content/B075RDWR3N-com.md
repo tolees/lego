@@ -5,7 +5,7 @@ date: 2020-04-17 22:11:28
 image: 'https://m.media-amazon.com/images/I/51+XDWwPvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RDWR3N-com LEGO Minecraft The Chicken Coop 21140 Building Kit 198...'
 sku: 'B075RDWR3N-com'
 tags: [ 'lego', ]

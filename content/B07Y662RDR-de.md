@@ -5,7 +5,7 @@ date: 2020-04-08 05:26:48
 image: 'https://m.media-amazon.com/images/I/51K-sD0UG5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y662RDR-de Spieland Custom Waffen Set für Mini Figuren Soldaten SWAT...'
 sku: 'B07Y662RDR-de'
 tags: [ 'lego', ]

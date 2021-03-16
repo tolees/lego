@@ -5,7 +5,7 @@ date: 2020-04-17 08:15:26
 image: 'https://m.media-amazon.com/images/I/51MCsOJ9OhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H3YS67K-co.uk The LEGO Movie Videogame Nintendo Wii U'
 sku: 'B00H3YS67K-co.uk'
 tags: [ 'lego', ]

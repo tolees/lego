@@ -5,7 +5,7 @@ date: 2020-04-02 12:43:37
 image: 'https://m.media-amazon.com/images/I/61vj5X+CcrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVDJQK8-co.uk LEGO Movie 70817: Batman and Super Angry Kitty Attack'
 sku: 'B00NVDJQK8-co.uk'
 tags: [ 'lego', ]

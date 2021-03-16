@@ -5,7 +5,7 @@ date: 2020-04-14 16:31:50
 image: 'https://m.media-amazon.com/images/I/51TOV3SkwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTK9B4B-de LEGO 41362 - Friends Supermarkt von Heartlake City Bauset'
 sku: 'B07KTK9B4B-de'
 tags: [ 'lego', ]

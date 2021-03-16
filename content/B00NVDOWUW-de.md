@@ -5,7 +5,7 @@ date: 2020-04-09 07:38:41
 image: 'https://m.media-amazon.com/images/I/51Aq01LL9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVDOWUW-de LEGO Classic 10692 - Bausteine-Set Spielzeug mit...'
 sku: 'B00NVDOWUW-de'
 tags: [ 'lego', ]

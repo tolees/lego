@@ -5,7 +5,7 @@ date: 2020-04-15 00:41:07
 image: 'https://m.media-amazon.com/images/I/41aiy3H015L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HFPGZVQ-es Lego Star Wars Chewbacca Key Light [With Battery]'
 sku: 'B00HFPGZVQ-es'
 tags: [ 'lego', ]

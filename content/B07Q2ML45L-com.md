@@ -5,7 +5,7 @@ date: 2020-03-30 12:55:38
 image: 'https://m.media-amazon.com/images/I/51bSpiy9YcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2ML45L-com LEGO Friends Mia s Horse Trailer 41371 Building Kit with...'
 sku: 'B07Q2ML45L-com'
 tags: [ 'lego', ]

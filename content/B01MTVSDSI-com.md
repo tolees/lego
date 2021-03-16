@@ -5,7 +5,7 @@ date: 2020-04-16 16:53:34
 image: 'https://m.media-amazon.com/images/I/512raB4EiVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTVSDSI-com LEGO Star Wars Rey 75528 Building Kit 85 Piece'
 sku: 'B01MTVSDSI-com'
 tags: [ 'lego', ]

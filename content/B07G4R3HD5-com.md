@@ -5,7 +5,7 @@ date: 2020-04-12 23:25:31
 image: 'https://m.media-amazon.com/images/I/51DFtVkLigL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4R3HD5-com LEGO Classic 10717 Bricks Bricks Bricks 1500 Piece Set -...'
 sku: 'B07G4R3HD5-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 18:58:39
 image: 'https://m.media-amazon.com/images/I/418B7WH9WPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RPF2H4-co.uk LEGO Star Wars: Super Battle Droid with Normal Arm...'
 sku: 'B000RPF2H4-co.uk'
 tags: [ 'lego', ]

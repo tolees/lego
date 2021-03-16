@@ -5,7 +5,7 @@ date: 2020-02-02 08:41:54
 image: 'https://m.media-amazon.com/images/I/51qp3a0Bb+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSF246-co.uk LEGO 76117 DC Super Heroes Batman Mech vs Poison Ivy...'
 sku: 'B07FNSF246-co.uk'
 tags: [ 'lego', ]

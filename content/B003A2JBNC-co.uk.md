@@ -5,7 +5,7 @@ date: 2020-03-11 10:25:40
 image: 'https://m.media-amazon.com/images/I/61txkxri-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003A2JBNC-co.uk LEGO Games 3849: Orient Bazaar'
 sku: 'B003A2JBNC-co.uk'
 tags: [ 'lego', ]

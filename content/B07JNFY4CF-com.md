@@ -5,7 +5,7 @@ date: 2020-04-14 15:33:44
 image: 'https://m.media-amazon.com/images/I/51FsArerIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNFY4CF-com LEGO THE LEGO MOVIE 2 The Rexcelsior; 70839 Building Kit...'
 sku: 'B07JNFY4CF-com'
 tags: [ 'lego', ]

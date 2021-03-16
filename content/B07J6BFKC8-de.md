@@ -5,7 +5,7 @@ date: 2020-01-12 06:36:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Hwp9OhOpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6BFKC8-de LEGO 75970 - Overwatch Tracer vs. Widowmaker Bauset'
 sku: 'B07J6BFKC8-de'
 tags: [ 'lego', ]

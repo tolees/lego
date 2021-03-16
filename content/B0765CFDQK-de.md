@@ -5,7 +5,7 @@ date: 2020-01-24 01:50:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513m0WGNObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765CFDQK-de LEGO Ninjago 70645 Drachenmeister Cole'
 sku: 'B0765CFDQK-de'
 tags: [ 'lego', ]

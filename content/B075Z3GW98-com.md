@@ -5,7 +5,7 @@ date: 2020-03-22 20:57:00
 image: 'https://m.media-amazon.com/images/I/41mbprtn39L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z3GW98-com LEGO Super Heroes - Harley Quinn with Black and Red Tutu'
 sku: 'B075Z3GW98-com'
 tags: [ 'lego', ]

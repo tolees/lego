@@ -5,7 +5,7 @@ date: 2020-03-31 05:02:18
 image: 'https://m.media-amazon.com/images/I/41V-42EDlbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NN9SBJ-de Dittzz Display Ständer Bausteine Halterung Ständer Für...'
 sku: 'B085NN9SBJ-de'
 tags: [ 'lego', ]

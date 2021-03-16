@@ -5,7 +5,7 @@ date: 2020-04-15 07:19:42
 image: 'https://m.media-amazon.com/images/I/51Jo-qHYEEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLD53JY-com LEGO City Fire Chief Response Truck 60231 Building Kit...'
 sku: 'B07NLD53JY-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-08 05:08:29
 image: 'https://m.media-amazon.com/images/I/61apJIxAfPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VTJ5FLL-com Lego Batman Movie The 2017 [Blu-ray]'
 sku: 'B06VTJ5FLL-com'
 tags: [ 'lego', ]

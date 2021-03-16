@@ -5,7 +5,7 @@ date: 2020-01-23 08:40:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VenXHsECL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GP5M1V-co.uk LEGO 10867 DUPLO Town Farmers Market Set Building...'
 sku: 'B075GP5M1V-co.uk'
 tags: [ 'lego', ]

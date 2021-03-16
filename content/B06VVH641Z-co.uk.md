@@ -5,7 +5,7 @@ date: 2020-04-16 16:17:24
 image: 'https://m.media-amazon.com/images/I/51aGCG+5e3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VVH641Z-co.uk LEGO Star Wars The Last Jedi 75176 Resistance Transport...'
 sku: 'B06VVH641Z-co.uk'
 tags: [ 'lego', ]

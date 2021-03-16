@@ -5,7 +5,7 @@ date: 2020-03-18 21:23:48
 image: 'https://m.media-amazon.com/images/I/51pjN-zcqiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHG3GR3-com LEGO City Arctic Scout Truck 60194 Building Kit 322 Pieces'
 sku: 'B07BHG3GR3-com'
 tags: [ 'lego', ]

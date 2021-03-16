@@ -5,7 +5,7 @@ date: 2020-03-11 02:21:29
 image: 'https://m.media-amazon.com/images/I/41UA39i4taL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZHDX36-co.uk LEGO DISK66145K Brick Costume Kids Iconic Red Building...'
 sku: 'B079ZHDX36-co.uk'
 tags: [ 'lego', ]

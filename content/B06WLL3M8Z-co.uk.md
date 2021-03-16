@@ -5,7 +5,7 @@ date: 2020-01-09 22:25:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLL3M8Z-co.uk LEGO Star Wars The Last Jedi 75528 Rey Toy'
 sku: 'B06WLL3M8Z-co.uk'
 tags: [ 'lego', ]

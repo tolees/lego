@@ -5,7 +5,7 @@ date: 2020-01-20 04:41:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51madyg7JjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F3B2TVO-de LEGO Duplo 10572 - Große Steinebox Kreatives Lernspielzeug'
 sku: 'B00F3B2TVO-de'
 tags: [ 'lego', ]

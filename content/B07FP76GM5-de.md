@@ -5,7 +5,7 @@ date: 2020-02-15 09:19:11
 image: 'https://m.media-amazon.com/images/I/51qH+KtEeOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP76GM5-de LEGO Creator 31093 - Hausboot'
 sku: 'B07FP76GM5-de'
 tags: [ 'lego', ]

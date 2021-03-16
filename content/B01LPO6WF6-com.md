@@ -5,7 +5,7 @@ date: 2020-04-16 07:54:51
 image: 'https://m.media-amazon.com/images/I/51qjjSwkGQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LPO6WF6-com LEGO Harry Potter Collection - PlayStation 4'
 sku: 'B01LPO6WF6-com'
 tags: [ 'lego', ]

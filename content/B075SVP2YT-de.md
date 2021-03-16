@@ -5,7 +5,7 @@ date: 2020-01-27 21:22:56
 image: 'https://m.media-amazon.com/images/I/51otYUo--PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SVP2YT-de LEGO Friends 41339 - Mias Wohnmobil Cooles Kinderspielzeug'
 sku: 'B075SVP2YT-de'
 tags: [ 'lego', ]

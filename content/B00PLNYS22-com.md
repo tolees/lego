@@ -5,7 +5,7 @@ date: 2020-03-25 20:48:25
 image: 'https://m.media-amazon.com/images/I/41SkA+jKYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PLNYS22-com LEGO Storage Box'
 sku: 'B00PLNYS22-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-01-27 12:48:29
 image: 'https://m.media-amazon.com/images/I/51jQCr4hHnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2GRY7-co.uk LEGO 60223 City Great Vehicles Harvester Transport with...'
 sku: 'B07FP2GRY7-co.uk'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-22 13:08:07
 image: 'https://m.media-amazon.com/images/I/51J4lv6WYgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBQLJCV-de LEGO 75971 - Overwatch Hanzo vs. Genji Bauset'
 sku: 'B07JBQLJCV-de'
 tags: [ 'lego', ]

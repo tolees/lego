@@ -5,7 +5,7 @@ date: 2020-04-15 07:45:54
 image: 'https://m.media-amazon.com/images/I/51WXSTr8lpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TB6L1S-de Dittzz Technic Offroader Bauset 1:8 2.4Ghz RC Auto mit...'
 sku: 'B085TB6L1S-de'
 tags: [ 'lego', ]

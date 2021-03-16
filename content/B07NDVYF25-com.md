@@ -5,7 +5,7 @@ date: 2020-04-17 00:26:17
 image: 'https://m.media-amazon.com/images/I/51NPOxD0ggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDVYF25-com Lego Marvel Collection - PlayStation 4'
 sku: 'B07NDVYF25-com'
 tags: [ 'lego', ]

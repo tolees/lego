@@ -5,7 +5,7 @@ date: 2020-03-21 20:49:43
 image: 'https://m.media-amazon.com/images/I/41EwGqLfwxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQ61H3K-com LEGO Super Heroes Classic TV Series Batman Minifigure -...'
 sku: 'B01MQ61H3K-com'
 tags: [ 'lego', ]

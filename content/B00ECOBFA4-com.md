@@ -5,7 +5,7 @@ date: 2020-04-16 17:24:48
 image: 'https://m.media-amazon.com/images/I/51ivA6SPDJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECOBFA4-com The LEGO Movie Videogame - Xbox 360 Standard Edition'
 sku: 'B00ECOBFA4-com'
 tags: [ 'lego', ]

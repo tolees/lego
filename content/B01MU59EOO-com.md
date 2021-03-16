@@ -5,7 +5,7 @@ date: 2020-04-16 17:06:53
 image: 'https://m.media-amazon.com/images/I/51iWgfauydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU59EOO-com LEGO 30523 Batman Movie The Joker Battle Training polybag...'
 sku: 'B01MU59EOO-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-03-24 12:56:14
 image: 'https://m.media-amazon.com/images/I/51itenSVStL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QM65SC-com LEGO Star Wars R3-S1 Astromech Droid'
 sku: 'B075QM65SC-com'
 tags: [ 'lego', ]

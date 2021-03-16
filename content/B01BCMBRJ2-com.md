@@ -5,7 +5,7 @@ date: 2020-04-09 23:55:25
 image: 'https://m.media-amazon.com/images/I/61VoT8XawqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCMBRJ2-com LEGO Star Wars: The Force Awakens - Nintendo 3DS Standard...'
 sku: 'B01BCMBRJ2-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-09 23:54:57
 image: 'https://m.media-amazon.com/images/I/51UJw4rFoIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCMCDBI-com LEGO Star Wars: The Force Awakens'
 sku: 'B01BCMCDBI-com'
 tags: [ 'lego', ]

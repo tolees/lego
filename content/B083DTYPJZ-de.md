@@ -5,7 +5,7 @@ date: 2020-01-19 02:42:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AgDmVpOhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DTYPJZ-de H0_V 407 Stück Custom Bausteine Halterung Ständer...'
 sku: 'B083DTYPJZ-de'
 tags: [ 'lego', ]

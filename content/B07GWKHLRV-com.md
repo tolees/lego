@@ -5,7 +5,7 @@ date: 2020-04-03 08:08:45
 image: 'https://m.media-amazon.com/images/I/510BWlSMV3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWKHLRV-com LEGO City Sky Police Diamond Heist 60209 Building Kit 400...'
 sku: 'B07GWKHLRV-com'
 tags: [ 'lego', ]

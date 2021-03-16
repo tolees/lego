@@ -5,7 +5,7 @@ date: 2020-03-15 08:43:11
 image: 'https://m.media-amazon.com/images/I/519q3RAveuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSF243-co.uk LEGO 76115 Marvel Super Heroes Spider Mech vs. Venom...'
 sku: 'B07FNSF243-co.uk'
 tags: [ 'lego', ]

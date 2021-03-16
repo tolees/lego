@@ -5,7 +5,7 @@ date: 2020-03-15 02:25:07
 image: 'https://m.media-amazon.com/images/I/517H3Jj637L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BK2KPR4-co.uk LEGO 10910 DUPLO Town Submarine Adventure Bath Toy Air...'
 sku: 'B01BK2KPR4-co.uk'
 tags: [ 'lego', ]

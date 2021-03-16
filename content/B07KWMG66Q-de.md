@@ -5,7 +5,7 @@ date: 2020-01-26 18:01:31
 image: 'https://m.media-amazon.com/images/I/41sJnFaYuYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWMG66Q-de LEGO Jungen CM-50316-T-SHIRT L/S Langarmshirt Grün Green...'
 sku: 'B07KWMG66Q-de'
 tags: [ 'lego', ]

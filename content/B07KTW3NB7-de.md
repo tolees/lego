@@ -5,7 +5,7 @@ date: 2020-02-07 17:34:53
 image: 'https://m.media-amazon.com/images/I/51sA+KsY+mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTW3NB7-de LEGO DC Batman 76120 - Batwing und der Riddler-Überfall...'
 sku: 'B07KTW3NB7-de'
 tags: [ 'lego', ]

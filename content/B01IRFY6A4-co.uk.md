@@ -5,7 +5,7 @@ date: 2020-04-14 22:54:40
 image: 'https://m.media-amazon.com/images/I/41UXHR38GrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IRFY6A4-co.uk LEGO 15 Window & Door Bundle - 10 x 1x4x3 Windows With...'
 sku: 'B01IRFY6A4-co.uk'
 tags: [ 'lego', ]

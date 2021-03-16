@@ -5,7 +5,7 @@ date: 2020-03-14 09:27:11
 image: 'https://m.media-amazon.com/images/I/51EB8zQ4GbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2D6QN-de Lego 41357 Friends Olivias Herzbox bunt'
 sku: 'B07FP2D6QN-de'
 tags: [ 'lego', ]

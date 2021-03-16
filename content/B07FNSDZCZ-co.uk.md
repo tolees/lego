@@ -5,7 +5,7 @@ date: 2020-03-18 20:53:56
 image: 'https://m.media-amazon.com/images/I/51HySUSGGiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSDZCZ-co.uk LEGO 10895 DUPLO Emmet and Lucy’s Visitors from the...'
 sku: 'B07FNSDZCZ-co.uk'
 tags: [ 'lego', ]

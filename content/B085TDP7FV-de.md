@@ -5,7 +5,7 @@ date: 2020-03-20 05:00:14
 image: 'https://m.media-amazon.com/images/I/517C2I-XWBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TDP7FV-de Dittzz Technic Auto Ford Mustang 1:10 2.4Ghz RC Auto...'
 sku: 'B085TDP7FV-de'
 tags: [ 'lego', ]

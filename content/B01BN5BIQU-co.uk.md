@@ -5,7 +5,7 @@ date: 2020-01-19 02:24:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uH-2o8qsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BN5BIQU-co.uk LEGO Doctor Who - Cyberman Minifigure'
 sku: 'B01BN5BIQU-co.uk'
 tags: [ 'lego', ]

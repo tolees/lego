@@ -5,7 +5,7 @@ date: 2020-01-27 18:26:47
 image: 'https://m.media-amazon.com/images/I/51x3EveX6BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TZBLLB-de Lego Star Wars Kinder FLANELL / BIBER Bettwäsche Wende...'
 sku: 'B073TZBLLB-de'
 tags: [ 'lego', ]

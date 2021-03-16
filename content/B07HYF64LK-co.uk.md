@@ -5,7 +5,7 @@ date: 2020-04-02 12:44:26
 image: 'https://m.media-amazon.com/images/I/419Kym7W5BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYF64LK-co.uk LEGO Deluxe Emmet Costume'
 sku: 'B07HYF64LK-co.uk'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-02-08 15:51:55
 image: 'https://m.media-amazon.com/images/I/51gkqsf4cDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BP91VR7-co.uk LEGO Series 18 CLASSIC POLICE OFFICER Minifigure #08/17...'
 sku: 'B07BP91VR7-co.uk'
 tags: [ 'lego', ]

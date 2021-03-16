@@ -5,7 +5,7 @@ date: 2020-04-17 21:41:49
 image: 'https://m.media-amazon.com/images/I/41YfHGs60ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S5VFKJ2-com LEGO Star Wars Minifig Anakin Skywalker Clone Wars'
 sku: 'B00S5VFKJ2-com'
 tags: [ 'lego', ]

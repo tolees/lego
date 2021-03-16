@@ -5,7 +5,7 @@ date: 2020-03-24 04:57:07
 image: 'https://m.media-amazon.com/images/I/51UTNbel-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XWQVZQ-de Dittzz Technic Auto Bausteine 1:10 2.4Ghz RC Auto Bauset...'
 sku: 'B085XWQVZQ-de'
 tags: [ 'lego', ]

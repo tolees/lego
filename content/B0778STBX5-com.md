@@ -5,7 +5,7 @@ date: 2020-04-06 04:54:28
 image: 'https://m.media-amazon.com/images/I/31p5XC0U8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778STBX5-com LEGO Brick Drawer 4 Knobs 1 Drawer Stackable Storage Box...'
 sku: 'B0778STBX5-com'
 tags: [ 'lego', ]

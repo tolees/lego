@@ -5,7 +5,7 @@ date: 2020-04-12 06:49:03
 image: 'https://m.media-amazon.com/images/I/5152Pshe-XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AAI4D0A-co.uk LEGO Friends 41020 Hedgehog s Hideaway'
 sku: 'B00AAI4D0A-co.uk'
 tags: [ 'lego', ]

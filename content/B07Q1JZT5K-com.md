@@ -5,7 +5,7 @@ date: 2020-04-16 16:51:14
 image: 'https://m.media-amazon.com/images/I/51qVUVTEM9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1JZT5K-com LEGO Hidden Side Shrimp Shack Attack 70422 Augmented...'
 sku: 'B07Q1JZT5K-com'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-01-07 13:23:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jd3pT6z2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765CTSHX-de LEGO City Krankenhaus 60204 Kinderspielzeug'
 sku: 'B0765CTSHX-de'
 tags: [ 'lego', ]

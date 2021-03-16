@@ -5,7 +5,7 @@ date: 2020-04-17 21:24:28
 image: 'https://m.media-amazon.com/images/I/41qUtNUq+9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GFLH2U-com LEGO Star Wars Minifigure - General Grievous Clone Wars...'
 sku: 'B004GFLH2U-com'
 tags: [ 'lego', ]

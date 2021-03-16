@@ -5,7 +5,7 @@ date: 2020-01-04 08:56:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792RGBRY-co.uk LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s...'
 sku: 'B0792RGBRY-co.uk'
 tags: [ 'lego', ]

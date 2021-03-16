@@ -5,7 +5,7 @@ date: 2020-03-08 02:31:59
 image: 'https://m.media-amazon.com/images/I/41ESdGM0NsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DRZD1D-co.uk DUS Light Set for LEGO 42079 Heavy Duty Forklift...'
 sku: 'B083DRZD1D-co.uk'
 tags: [ 'lego', ]

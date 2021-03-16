@@ -5,7 +5,7 @@ date: 2020-03-28 12:53:00
 image: 'https://m.media-amazon.com/images/I/51N7Ep1WXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXC4TGV-com LEGO THE LEGO MOVIE 2 Escape Buggy 70829 Building Kit...'
 sku: 'B07GXC4TGV-com'
 tags: [ 'lego', ]

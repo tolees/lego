@@ -5,7 +5,7 @@ date: 2020-03-14 13:27:47
 image: 'https://m.media-amazon.com/images/I/513WmAWlCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWMBLZ-de LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug Bunt'
 sku: 'B07FNWMBLZ-de'
 tags: [ 'lego', ]

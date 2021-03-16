@@ -5,7 +5,7 @@ date: 2020-04-17 23:34:05
 image: 'https://m.media-amazon.com/images/I/41Ps27jYMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WYZT2A-de LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit...'
 sku: 'B003WYZT2A-de'
 tags: [ 'lego', ]

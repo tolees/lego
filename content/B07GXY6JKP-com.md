@@ -5,7 +5,7 @@ date: 2020-04-17 16:19:13
 image: 'https://m.media-amazon.com/images/I/51v7BC+mURL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXY6JKP-com LEGO DUPLO Disney Pixar Toy Story Train 10894 Perfect for...'
 sku: 'B07GXY6JKP-com'
 tags: [ 'lego', ]

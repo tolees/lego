@@ -5,7 +5,7 @@ date: 2020-04-02 08:02:25
 image: 'https://m.media-amazon.com/images/I/51xc35sosOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKL776L-com LEGO NINJAGO Zane - Dragon Master 70648 Building Kit 92...'
 sku: 'B07BKL776L-com'
 tags: [ 'lego', ]

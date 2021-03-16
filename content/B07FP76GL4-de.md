@@ -5,7 +5,7 @@ date: 2020-03-13 09:12:56
 image: 'https://m.media-amazon.com/images/I/51YaiJl7PZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP76GL4-de LEGO NINJAGO 70664 - Spinjitzu Lloyd vs. Garmadon'
 sku: 'B07FP76GL4-de'
 tags: [ 'lego', ]

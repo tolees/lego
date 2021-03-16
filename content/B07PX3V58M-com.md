@@ -5,7 +5,7 @@ date: 2020-04-10 15:25:00
 image: 'https://m.media-amazon.com/images/I/51jVw9a9WoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX3V58M-com LEGO Disney Frozen II Elsa’s Wagon Carriage Adventure...'
 sku: 'B07PX3V58M-com'
 tags: [ 'lego', ]

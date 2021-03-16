@@ -5,7 +5,7 @@ date: 2020-01-27 17:51:07
 image: 'https://m.media-amazon.com/images/I/41BPg8pp2dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW6MFLS-de Lego Wear Mädchen Lego Tec Play LWALFRED 706-Fäustlinge...'
 sku: 'B07KW6MFLS-de'
 tags: [ 'lego', ]

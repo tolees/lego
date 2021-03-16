@@ -5,7 +5,7 @@ date: 2020-04-09 23:55:10
 image: 'https://m.media-amazon.com/images/I/513vb66N09L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCMC3CM-com LEGO Star Wars: The Force Awakens - Xbox 360 Standard...'
 sku: 'B01BCMC3CM-com'
 tags: [ 'lego', ]

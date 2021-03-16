@@ -5,7 +5,7 @@ date: 2020-04-16 17:43:15
 image: 'https://m.media-amazon.com/images/I/51OnwvTY39L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNPHB8Q-de Spieland 200St. Custom Waffen Set für SWAT Team Polizei...'
 sku: 'B07QNPHB8Q-de'
 tags: [ 'lego', ]

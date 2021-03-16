@@ -5,7 +5,7 @@ date: 2020-04-07 21:35:32
 image: 'https://m.media-amazon.com/images/I/51n2kr1zh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNS6P77-de THE LEGO MOVIE 2 70824 Das ist Königin Wasimma Si-Willi'
 sku: 'B07FNS6P77-de'
 tags: [ 'lego', ]

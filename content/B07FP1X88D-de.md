@@ -5,7 +5,7 @@ date: 2020-04-07 21:33:27
 image: 'https://m.media-amazon.com/images/I/51bo8TEJGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP1X88D-de THE LEGO MOVIE 2 70825 Königin Wasimma Si-Willis Bau-Was-...'
 sku: 'B07FP1X88D-de'
 tags: [ 'lego', ]

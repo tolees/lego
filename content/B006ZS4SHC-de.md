@@ -5,7 +5,7 @@ date: 2020-04-17 23:36:14
 image: 'https://m.media-amazon.com/images/I/51tuyLaRYxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ZS4SHC-de LEGO Technic 9396 - Großer Helikopter'
 sku: 'B006ZS4SHC-de'
 tags: [ 'lego', ]

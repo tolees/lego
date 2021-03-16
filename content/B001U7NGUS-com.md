@@ -5,7 +5,7 @@ date: 2020-04-16 16:52:42
 image: 'https://m.media-amazon.com/images/I/51kTaQVKPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001U7NGUS-com Early Simple Machines for Kindergarten STEM by LEGO...'
 sku: 'B001U7NGUS-com'
 tags: [ 'lego', ]

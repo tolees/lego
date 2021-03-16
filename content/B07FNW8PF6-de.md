@@ -5,7 +5,7 @@ date: 2020-02-09 09:37:42
 image: 'https://m.media-amazon.com/images/I/51OzfNWS-VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNW8PF6-de THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!'
 sku: 'B07FNW8PF6-de'
 tags: [ 'lego', ]

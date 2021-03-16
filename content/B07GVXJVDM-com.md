@@ -5,7 +5,7 @@ date: 2020-04-16 16:50:25
 image: 'https://m.media-amazon.com/images/I/51PJUB38HUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVXJVDM-com LEGO City Great Vehicles Garbage Truck 60220 Building Kit...'
 sku: 'B07GVXJVDM-com'
 tags: [ 'lego', ]

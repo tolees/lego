@@ -5,7 +5,7 @@ date: 2020-01-27 01:30:26
 image: 'https://m.media-amazon.com/images/I/41xmzUtmHPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015FM29AQ-co.uk Lego 9 Count Coloured Gel Pens Assorted Colours'
 sku: 'B015FM29AQ-co.uk'
 tags: [ 'lego', ]

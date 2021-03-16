@@ -5,7 +5,7 @@ date: 2020-04-10 23:18:56
 image: 'https://m.media-amazon.com/images/I/41xhkvcYlqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BZ8R9H2-com LEGO Star Wars Minifigure - Boba Fett Bounty Hunter with...'
 sku: 'B01BZ8R9H2-com'
 tags: [ 'lego', ]

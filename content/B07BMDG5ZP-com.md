@@ -5,7 +5,7 @@ date: 2020-04-17 00:24:17
 image: 'https://m.media-amazon.com/images/I/514EKy26qUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMDG5ZP-com LEGO Disney Pixar s The Incredibles - Nintendo Switch'
 sku: 'B07BMDG5ZP-com'
 tags: [ 'lego', ]

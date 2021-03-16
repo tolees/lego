@@ -5,7 +5,7 @@ date: 2020-03-25 16:35:29
 image: 'https://m.media-amazon.com/images/I/51231gmzPWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNTTF3B-co.uk LEGO 70668 Ninjago Legacy Jay’s Storm Fighter Building...'
 sku: 'B07FNTTF3B-co.uk'
 tags: [ 'lego', ]

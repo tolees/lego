@@ -5,7 +5,7 @@ date: 2020-03-08 04:41:26
 image: 'https://m.media-amazon.com/images/I/51Mmp+tfdDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JH91YN-de LEGO Dimensions - Fun Pack - Teen Titans Go!'
 sku: 'B072JH91YN-de'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-01 12:45:27
 image: 'https://m.media-amazon.com/images/I/51Q3Jo0O-qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J41M9BI-co.uk LEGO 71017 Minifigure Batman Movie'
 sku: 'B01J41M9BI-co.uk'
 tags: [ 'lego', ]

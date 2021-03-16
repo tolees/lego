@@ -5,7 +5,7 @@ date: 2020-04-16 16:56:39
 image: 'https://m.media-amazon.com/images/I/51GxA1TQfNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0787XKC35-com LEGO Star Wars Solo: A Star Wars Story Han Solo 75535...'
 sku: 'B0787XKC35-com'
 tags: [ 'lego', ]
