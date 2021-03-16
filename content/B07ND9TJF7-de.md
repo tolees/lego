@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.15 % deal for LEGO 75249 Star Wars Widerstands Y-Wing '
-date: 2021-03-14 06:13:59
+date: 2021-03-16 12:39:40
 image: 'https://m.media-amazon.com/images/I/51Q88jSfO0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21'
 descuento: '27.15'
-average: '56.0157377049178'
+average: '55.9829967426708'
 ---
 
 There's a deal [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)  with  27.15 % discount, final price tag of  50.99 EUR (original: 69.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der 
 
 ℹ️:
 
-- Dieses Spielset enthält 5 Figuren von LEGO Star Wars: Poe Dameron, Zorii Bliss und einen Sturmtruppler der Ersten Ordnung als Minifiguren sowie LEGO Figuren von D-O und einem Astromech-Droiden
+- Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
+- Der 578-teilige Spielzeug-Sternenjäger von LEGO Star Wars für Jungen und Mädchen ab 8 Jahren ist 7 cm hoch, 43 cm lang und 19 cm breit
 - Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
 - Das Modell Widerstands Y-Wing Starfighter kann Raketen abfeuern und Bomben abwerfen. Mit neuer Farbgestaltung (ab Oktober 2019), wie sie im Film Star Wars: Der Aufstieg Skywalkers zu sehen ist
-- Der 578-teilige Spielzeug-Sternenjäger von LEGO Star Wars für Jungen und Mädchen ab 8 Jahren ist 7 cm hoch, 43 cm lang und 19 cm breit
-- Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
+- Dieses Spielset enthält 5 Figuren von LEGO Star Wars: Poe Dameron, Zorii Bliss und einen Sturmtruppler der Ersten Ordnung als Minifiguren sowie LEGO Figuren von D-O und einem Astromech-Droiden
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Rescue Helicopter 42092 Bui at 20.01 % discount'
-date: 2021-03-13 23:46:44
+date: 2021-03-16 11:56:56
 image: 'https://m.media-amazon.com/images/I/512Te4940GL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 31.99 USD (original: 39.99 USD) you can find [LEGO Technic
 
 ℹ️:
 
-- This LEGO Technic Rescue Helicopter 42092 set can be built together with all other original LEGO sets and LEGO bricks for creative building
-- This 2-in-1 LEGO Technic toy helicopter rebuilds into a Concept Plane
 - Build a realistic Rescue Helicopter toy with opening side and rear doors, working winch and a rescue stretcher
+- This 2-in-1 LEGO Technic toy helicopter rebuilds into a Concept Plane
 - Rescue Helicopter measures over 4 inches (12cm) high, 11 inches (29cm) long and 9 inches (23cm) wide Concept Plane measures over 2 inches (7cm) high, 10 inches (27cm) long and 11 inches (30cm)
+- This LEGO Technic Rescue Helicopter 42092 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - 325 pieces – For boys and girls aged 8+ and for fans and big kids of all ages
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07GZ3N18C/?tag=tolees-20)
