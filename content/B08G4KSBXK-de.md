@@ -28,12 +28,12 @@ You've got [LEGO 76384 Harry Potter Hogwarts Moment: Kräuterkundeunterricht Set
 
 ℹ️:
 
-- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
-- Includes Cedric Diggory, Neville Longbottom and Professor Sprout minifigures, gardening equipment and enchanted plants to practice with
-- 4 collectible Hogwarts sets interlock to create an innovative 360-degree play space, designed to recreate a different classroom moments
-- For travel convenience, when the lesson ends, close the cover and take it with you wherever you go, it is of the Ideal portable size
-- The book unfolds to reveal the Hogwarts greenhouse, where an Herbology lesson on repotting Mandrakes is taking place
-- Combine all LEGO Harry Potter Hogwarts Moment sets: Transfiguration Class (76382), Potions Class (76383), and Charms Class (76385)
 - Includes a spell book, pumpkin patch, watering station with bucket and golden faucet, earmuffs, pruning scissors and a greenhouse backdrop
+- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
+- The book unfolds to reveal the Hogwarts greenhouse, where an Herbology lesson on repotting Mandrakes is taking place
+- Includes Cedric Diggory, Neville Longbottom and Professor Sprout minifigures, gardening equipment and enchanted plants to practice with
+- Combine all LEGO Harry Potter Hogwarts Moment sets: Transfiguration Class (76382), Potions Class (76383), and Charms Class (76385)
+- For travel convenience, when the lesson ends, close the cover and take it with you wherever you go, it is of the Ideal portable size
+- 4 collectible Hogwarts sets interlock to create an innovative 360-degree play space, designed to recreate a different classroom moments
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4KSBXK/?tag=tolees0ca-21)
