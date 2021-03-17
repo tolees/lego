@@ -28,10 +28,10 @@ You've got [LEGO 70686 NINJAGO Kais Spinjitzu-Kreisel Set  rot](https://www.amaz
 
 ℹ️:
 
-- Dieses LEGO Spinjitzu-Set zum Sammeln (ab Juni 2020) ermöglicht es Kindern, die Figur des Wirbelnden Kai in den Spinjitzu-Kreisel zu setzen und dann loszuschicken. So ist stundenlanges actionreiches NINJAGO Spielvergnügen garantiert
 - Dieses 48-teilige Ninja-Kinderspielzeug ist ein lohnendes Bauprojekt für Jungen und Mädchen ab 7 Jahren und inspiriert Ninja-Fans zu fantasievollen Spielabenteuern. Ein tolles Geburtstagsgeschenk oder LEGO Geschenk zu jedem Anlass
 - NINJAGO Zubehörset mit Spinjitzu-Kreisel aus NINJAGO Klingen, Start-Pad und Kai als LEGO Ninja-Minifigur. Dieses Spielzeug garantiert stundenlanges Spielvergnügen, wenn Kinder den NINJAGO Helden Kai seine Spinjitzu-Künste idealionieren lassen
 - Das ideale NINJAGO Zubehörset für jede Menge Ninja-Spielspaß in den eigenen vier Wänden oder unterwegs. Der Spinjitzu-Kreisel aus NINJAGO Klingen und Start-Pad ist 7 cm hoch, 10 cm lang und 7 cm breit
 - NINJAGO Zubehörset mit Spinjitzu-Kreisel und Kai-Minifigur für actionreiche Ninja-Rollenspiele. Kinder mit blühender Fantasie, die gerne spielen, werden dieses LEGO NINJAGO Spinjitzu-Bauset lieben
+- Dieses LEGO Spinjitzu-Set zum Sammeln (ab Juni 2020) ermöglicht es Kindern, die Figur des Wirbelnden Kai in den Spinjitzu-Kreisel zu setzen und dann loszuschicken. So ist stundenlanges actionreiches NINJAGO Spielvergnügen garantiert
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813RWMGB/?tag=tolees0ca-21)

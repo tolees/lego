@@ -28,11 +28,11 @@ You've got [LEGO 71733 NINJAGO Battle Set: Cole vs. Geisterkämpfer  Spielset mi
 
 ℹ️:
 
-- Zu dem Ninja-Spielzeug gehören auch ein Marktplatz aus LEGO Steinen als Kampfarena sowie ein Actionkreisel, der Cole loswirbeln und seinen Gegner umstoßen lässt
 - Das Ninja-Spielset enthält zwei Minifiguren: einen ab Januar 2021 erhältlichen Cole und einen Legacy Geisterkämpfer aus der LEGO NINJAGO TV-Serie sowie 4 exklusive schwarze Waffen
+- Noch größere LEGO NINJAGO Battles lassen sich zusammen mit anderen Sets austragen: Kai vs. Skulkin (71730), Zane vs. Nindroid (71731) und Jay vs. Serpentine (71732)
+- Zu dem Ninja-Spielzeug gehören auch ein Marktplatz aus LEGO Steinen als Kampfarena sowie ein Actionkreisel, der Cole loswirbeln und seinen Gegner umstoßen lässt
+- Mit nur 51 Teilen ist dieses Spielzeug ein tolles erstes LEGO Set für Baumeister ab 6 Jahren und ein wunderbares Überraschungsgeschenk, das kleine Ninja gar nicht mehr weglegen wollen
 - Das LEGO NINJAGO Battle Set: Cole vs. Geisterkämpfer (71733) enthält alles Nötige, damit Kinder actionreiche Duelle zwischen dem Ninja-Helden Cole und dem bösen Geisterkämpfer austragen können
 - Das Set ist 7 cm hoch, 5 cm breit und 8 cm tief. Das ist die ideale Größe für Duelle im eigenen Kinderzimmer oder bei einem Freund
-- Mit nur 51 Teilen ist dieses Spielzeug ein tolles erstes LEGO Set für Baumeister ab 6 Jahren und ein wunderbares Überraschungsgeschenk, das kleine Ninja gar nicht mehr weglegen wollen
-- Noch größere LEGO NINJAGO Battles lassen sich zusammen mit anderen Sets austragen: Kai vs. Skulkin (71730), Zane vs. Nindroid (71731) und Jay vs. Serpentine (71732)
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4KHLBB/?tag=tolees0ca-21)

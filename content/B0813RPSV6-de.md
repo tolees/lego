@@ -28,10 +28,10 @@ You've got [LEGO 41427 Friends Emmas Mode-Geschäft  Spielset mit Andrea und Emm
 
 ℹ️:
 
-- Kinder können das Obergeschoss abnehmen, um mit dem Atelier und dem Geschäft separat zu spielen. Dann haben sie auch besseren Zugang zu den faszinierenden Funktionen im Geschäft, zum Beispiel auf den Kleiderkreisel und die drehbare Umkleide
+- Das zweigeschossige Gebäude ist 17 cm hoch und 16 cm breit und bereichert als cooles Schaustück jedes Kinderzimmer. Kinder können das Modell auch mit anderen LEGO Spielzeugen kombinieren, um noch mehr kreativen Spielspaß zu erleben
+- Soll das Set Kinder ab 6 Jahren beschäftigen? Dieses 343-teilige Set ist ein fantastisches Weihnachts- oder Geburtstagsgeschenk für Jungen und Mädchen, die Mode-Rollenspiele lieben und sich gerne von einem lohnenden Bauprojekt fesseln lassen
 - Emmas Mode-Geschäft (41427) bietet Kinder riesigen Fashion-Spielspaß. In dem Geschäft im Erdgeschoss können Kinder so tun, als würden sie Kleidung kaufen. Im Schneideratelier im Obergeschoss entwerfen und nähen sie dann Outfits
 - Dieses Bauset enthält ein Schneideratelier und ein Mode-Geschäft, zwei baubare Spielfiguren und Mode-Accessoires wie die glänzenden Stoffröcke (ab Juni 2020), eine Schere und Stoff, um Kinder stundenlang kreativ zu beschäftigen
-- Soll das Set Kinder ab 6 Jahren beschäftigen? Dieses 343-teilige Set ist ein fantastisches Weihnachts- oder Geburtstagsgeschenk für Jungen und Mädchen, die Mode-Rollenspiele lieben und sich gerne von einem lohnenden Bauprojekt fesseln lassen
-- Das zweigeschossige Gebäude ist 17 cm hoch und 16 cm breit und bereichert als cooles Schaustück jedes Kinderzimmer. Kinder können das Modell auch mit anderen LEGO Spielzeugen kombinieren, um noch mehr kreativen Spielspaß zu erleben
+- Kinder können das Obergeschoss abnehmen, um mit dem Atelier und dem Geschäft separat zu spielen. Dann haben sie auch besseren Zugang zu den faszinierenden Funktionen im Geschäft, zum Beispiel auf den Kleiderkreisel und die drehbare Umkleide
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813RPSV6/?tag=tolees0ca-21)

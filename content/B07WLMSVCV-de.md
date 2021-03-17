@@ -28,10 +28,10 @@ With a final price of 19.48 EUR (original: 29.99 EUR) you can find [LEGO 60254 C
 
 ℹ️:
 
-- Beinhaltet 2 Minifiguren: LKW- und Rennfahrer. Die LKW-Kabine verfügt über sich öffnende Türen, ein abnehmbares Dach und Transportsicherungsstangen
 - Kinder können das Jet-Boot entladen, sich dann dem Rennfahrer des Xtreme-Teams an Bord anschließen, über die Wellen fahren und neue Geschwindigkeitsrekorde aufstellen
-- Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
 - Kinder werden das coole Transporter-LKW-Spielzeug mit Anhänger und einem sportlichen, aerodynamischen, Speed-Rennboot lieben
+- Beinhaltet 2 Minifiguren: LKW- und Rennfahrer. Die LKW-Kabine verfügt über sich öffnende Türen, ein abnehmbares Dach und Transportsicherungsstangen
 - Das aerodynamische Schnellboot mit Jetantrieb verfügt über ein Cockpit zum Öffnen und bietet Platz für den Xtreme-Rennfahrer - und dazu schwimmt es noch wirklich auf dem Wasser
+- Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WLMSVCV/?tag=tolees0ca-21)

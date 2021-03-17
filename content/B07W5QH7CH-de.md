@@ -28,10 +28,10 @@ With a final price of 7.49 EUR (original: 9.99 EUR) you can find [LEGO 21162 Min
 
 ℹ️:
 
-- Wird Steve in der Lage sein, das Erz mit seinem Schwert zu verteidigen, wenn das Skelett, das auf dem Wolf reitet, mit seinem Bogen angreift? Wird der Fuchs helfen?
 - Das Spielset überträgt die ganze Online-Aufregung von Minecraft mit seinen Modellen in die reale Welt. Erfordert nur sehr grundlegende Fähigkeiten im Zusammenbauen von Steinen
+- Zum Zubehör gehören ein goldenes Schwert, ein Bogen, TNT-Steine und Beerensträucher. Vorsicht - ein Wolf ist auf der Jagd
 - Es gibt schneebedeckte Berge, ein Lagerfeuer zum Aufwärmen, rote Beeren zum Essen und TNT zum Sprengen von seltenem Erz
 - Das Set enthält 6 Minecraft Figuren: Steve, ein Skelett, einen Wolf und einen Fuchs, beide mit beweglichen Gliedern
-- Zum Zubehör gehören ein goldenes Schwert, ein Bogen, TNT-Steine und Beerensträucher. Vorsicht - ein Wolf ist auf der Jagd
+- Wird Steve in der Lage sein, das Erz mit seinem Schwert zu verteidigen, wenn das Skelett, das auf dem Wolf reitet, mit seinem Bogen angreift? Wird der Fuchs helfen?
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W5QH7CH/?tag=tolees0ca-21)

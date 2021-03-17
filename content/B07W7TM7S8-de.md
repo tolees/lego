@@ -28,9 +28,9 @@ There's a deal [LEGO 10920 DUPLO Princess Frozen II Elsas und Olafs Eis-Café Sp
 
 ℹ️:
 
-- Alle Steine und Teile erfüllen höchste Sicherheits- und Qualitätsstandards, sie eignen sich ideal für kleine Finger zum Aufnehmen, Platzieren und Auseinanderziehen
 - Ein großartiges Starter Set für angehende Baumeister und kleine Fans von Disney Prinzessin Elsa mit sicheren, kinderfreundlichen und einfach zu bauenden großen Elementen
 - Während sie endlose Abenteuer spielen, bauen Vorschulkinder auch ihre kreativen, feinmotorischen, visuellen und emotionalen Fähigkeiten auf
+- Alle Steine und Teile erfüllen höchste Sicherheits- und Qualitätsstandards, sie eignen sich ideal für kleine Finger zum Aufnehmen, Platzieren und Auseinanderziehen
 - Disneys Elsa und ihr bezaubernder Schneemann-Freund Olaf aus den Eiskönigin-Filmen bauen ein Eishaus, in dem eine Teeparty stattfinden soll
 - Beinhaltet eine Elsa- und eine Schneemann-Spielfigur. Zum Zubehör gehören eine Teekanne, heiße Schokolade und ein Kuchen auf dem Tisch sowie 2 köstliche Cupcakes für eine Party
 

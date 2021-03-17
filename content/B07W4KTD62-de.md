@@ -28,10 +28,10 @@ With a final price of 14.89 EUR (original: 19.99 EUR) you can find [LEGO 43177 D
 
 ℹ️:
 
-- Aufklappbares Buch mit dem Schloss des Biests in der Mitte, der Schlossaußenseite auf der einen Seite und dem Ballsaal innen auf der anderen Seite
-- Dieses Spielzeug für die Minispielwelt beinhaltet die magische Rose, den Schlafplatz für Disneys Belle, und eine Tanzfläche, um die Filmszenen nachzubilden
-- Enthält außerdem Madame Garderobe, Madame Pottine, Tassilo und Herrn von Unruh als LEGO Disney Figuren sowie zwei Aufkleber-Bögen zur Personalisierung des tragbaren Spielsets
 - Wenn die Kinder Durst haben, können sie eine Tasse Tee von der bezaubernden Madame Pottine trinken, aber Vorsicht, Tassilo kichert, wenn er voll ist
+- Enthält außerdem Madame Garderobe, Madame Pottine, Tassilo und Herrn von Unruh als LEGO Disney Figuren sowie zwei Aufkleber-Bögen zur Personalisierung des tragbaren Spielsets
+- Dieses Spielzeug für die Minispielwelt beinhaltet die magische Rose, den Schlafplatz für Disneys Belle, und eine Tanzfläche, um die Filmszenen nachzubilden
+- Aufklappbares Buch mit dem Schloss des Biests in der Mitte, der Schlossaußenseite auf der einen Seite und dem Ballsaal innen auf der anderen Seite
 - Enthält zwei detaillierte Mini-Spielfiguren, Disney Prinzessin Belle und das Biest, das sich in Prinz Adam verwandeln kann - das Spiel beginnt, wenn sich das Buch öffnet
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W4KTD62/?tag=tolees0ca-21)

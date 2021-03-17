@@ -28,10 +28,10 @@ You've got [LEGO 41391 Friends Friseursalon von Heartlake City  Spielset mit Emm
 
 ℹ️:
 
+- Dieses Friseursalon-Zubehör beinhaltet auch eine Kaffeemaschine und einen Besen, sogar einen Friseurkatalog, genau wie ein echter Salon
 - Inklusive Zubehörständer, Schere, Bürste, Diadem, Schleife, Handhaartrockner, Shampoo-Flasche und Haarspray, sowie Kaffee und Kekse zum Servieren
 - Wunderbar detaillierte Stationen ermöglichen es den Kindern, die Spielfiguren in dem Friseursalon mit offenem Deck zu sehen
-- Das Friseursalon verfügt über zwei Friseurstühle, einen mit Haartrockner, ein Haarwaschbecken, eine Kasse und einen separaten Ständer für Friseurelemente
-- Dieses Friseursalon-Zubehör beinhaltet auch eine Kaffeemaschine und einen Besen, sogar einen Friseurkatalog, genau wie ein echter Salon
 - Es gibt zwei Spielfiguren, Emma und die Stylistin Nina, mit abnehmbaren Köpfen, dem beweglichen Oberkörperteil zum Sitzen im Stuhl und verschiedenen Perücken
+- Das Friseursalon verfügt über zwei Friseurstühle, einen mit Haartrockner, ein Haarwaschbecken, eine Kasse und einen separaten Ständer für Friseurelemente
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5PXDVR/?tag=tolees0ca-21)

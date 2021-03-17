@@ -28,10 +28,10 @@ With a final price of 7.49 EUR (original: 9.99 EUR) you can find [LEGO 76140 Sup
 
 ℹ️:
 
-- Die digitale Anleitung Instructions Plus ist über die LEGO Life App zum einfachen Zusammenbauen verfügbar. Kinder ab 6 Jahren können das Set heranzoomen, drehen und anzeigen, während sie bauen
 - Für angehende Bauherren, die die Abenteuer der Avengers nachbauen möchten, können Sie LEGO Super Heroes 76141 Marvel Avengers Thanos Mech für gemeinsame Super-Action hinzufügen
 - Enthält 1 Iron Man-Minifigur, die oben auf dem gepanzerten Mech mit den mit Bolzen geladenen Geschützen eingesetzt wird, sowie bewegliche Arme und Beine für mehr Mobilität
 - Die größere Version von Iron Man verfügt über einen Brustpanzer mit seinem wichtigen Energiekern und ein sich öffnendes Cockpit für 1 Minifigur
 - Kinder können das Cockpit des Mechs öffnen, die Avengers-Minifigur einsetzen, die Gliedmaßen des Mechs positionieren und das mit Bolzen geladene Geschütz auf Feinde abfeuern
+- Die digitale Anleitung Instructions Plus ist über die LEGO Life App zum einfachen Zusammenbauen verfügbar. Kinder ab 6 Jahren können das Set heranzoomen, drehen und anzeigen, während sie bauen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WC19M5D/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ There's a deal [LEGO Classic - LEGO 11006 Classic Blaues Kreativ-Set  Lernstarte
 
 ℹ️:
 
-- Das Spielset enthält einen Blauwal mit großen runden Augen und einer Blasfontäne, eine Lok mit drehenden Rädern sowie einen Mini-Roboter mit beweglichen Armen
-- Die 3 einfach zu bauenden Spielzeuge mit lustigen Eigenschaften, können dank diesem Starter-Set für Kinder ab 4 Jahren kreativ miteinander gebaut werden
-- Große Steine sind sicher, kinderfreundlich und für kleine Hände leicht zu nehmen und zu platzieren, während sprachliche, soziale und emotionale Fähigkeiten entwickelt werden
-- LEGO Classic – Blaues Kreativ-Set ist handlich genug, um es überall mitzunehmen. Durch Kombination mit anderen LEGO Sets eröffnen sich weitere Möglichkeiten
 - LEGO Spielzeuge erfüllen die höchsten Branchenstandards, damit sie sich stets mühelos kombinieren, zusammenstecken und wieder zerlegen lassen
+- Große Steine sind sicher, kinderfreundlich und für kleine Hände leicht zu nehmen und zu platzieren, während sprachliche, soziale und emotionale Fähigkeiten entwickelt werden
+- Das Spielset enthält einen Blauwal mit großen runden Augen und einer Blasfontäne, eine Lok mit drehenden Rädern sowie einen Mini-Roboter mit beweglichen Armen
+- LEGO Classic – Blaues Kreativ-Set ist handlich genug, um es überall mitzunehmen. Durch Kombination mit anderen LEGO Sets eröffnen sich weitere Möglichkeiten
+- Die 3 einfach zu bauenden Spielzeuge mit lustigen Eigenschaften, können dank diesem Starter-Set für Kinder ab 4 Jahren kreativ miteinander gebaut werden
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TN6CR/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ There's a deal [LEGO 21166 Minecraft Die verlassene Mine Bauset  Zombiehöhle mi
 
 ℹ️:
 
-- Dieses actionreiche Set inspiriert zu fantasievollem Spielspaß ohne Grenzen
-- Ein tolles Geschenk für Kinder ab 7 Jahren, die gerne Minecraft spielen
-- Dieses vielseitige Bauset verleiht dem Minecraft Erlebnis eine völlig neue Dimension
-- Einfache und bestens verständliche Bauanleitungen lassen Kinder sofort mit Bauen und Spielen beginnen
 - Enthält Minecraft Charaktere und Kreaturen: Steve, einen Zombie, eine Spinne und einen Schleim
-- Keine Batterien erforderlich. Als Antrieb für aktives Spielvergnügen reicht die Fantasie der Kinder
+- Dieses vielseitige Bauset verleiht dem Minecraft Erlebnis eine völlig neue Dimension
 - Kinder können eine Vorrichtung betätigen, um Kies herabfallen zu lassen und Steve vor den feindseligen Kreaturen zu beschützen
+- Ein tolles Geschenk für Kinder ab 7 Jahren, die gerne Minecraft spielen
+- Keine Batterien erforderlich. Als Antrieb für aktives Spielvergnügen reicht die Fantasie der Kinder
+- Dieses actionreiche Set inspiriert zu fantasievollem Spielspaß ohne Grenzen
+- Einfache und bestens verständliche Bauanleitungen lassen Kinder sofort mit Bauen und Spielen beginnen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B085WV4WST/?tag=tolees0ca-21)
