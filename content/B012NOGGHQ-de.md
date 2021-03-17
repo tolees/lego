@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012NOGGHQ-de LEGO 21028 Architecture New York City Bauset Skyline-...'
 sku: 'B012NOGGHQ-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Jeux de construction','Jeux et Jouets','Jeux et jouets','LEGO','LEGO Steine & Co.','Produkte','Spielzeug','lego', ]
+tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building & Construction Toys','Costruzioni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','LEGO','LEGO Steine & Co.','Produkte','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
@@ -31,7 +31,7 @@ You've got [LEGO 21028 Architecture New York City Bauset  Skyline-Kollektion](ht
 - Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
 - Die New Yorker Skyline ist 26 cm hoch, 23 cm breit und 3 cm tief; 598 Teile - Für Jungen und Mädchen ab 12 Jahren
 - Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
-- Bauen Sie ein detailgetreues Modell der New Yorker Skyline mit der Freiheitsstatue
 - Das Modell enthält das Flatiron Building, das Chrysler Building, das Empire State Building und das One World Trade Center
+- Bauen Sie ein detailgetreues Modell der New Yorker Skyline mit der Freiheitsstatue
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21)
