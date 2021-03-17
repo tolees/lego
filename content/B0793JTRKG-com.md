@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793JTRKG-com LEGO Architecture Statue of Liberty 21042 Building Kit...'
 sku: 'B0793JTRKG-com'
-tags: [ 'Building Toys','Toy Building Sets','Toys & Games','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Building Toys','Spielzeug','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 99.88 USD
 currency: USD
 price: 99.88
@@ -28,9 +28,9 @@ With a final price of 99.88 USD (original: 119.99 USD) you can find [LEGO Archit
 
 ℹ️:
 
+- Features a detailed pedestal and iconic Lady Liberty statue complete with crown and golden torch
 - 1,685 pieces – For boys and girls over 16 years old
 - Delivers a rewarding building experience to all with an interest in architecture, travel, history and design
-- Features a detailed pedestal and iconic Lady Liberty statue complete with crown and golden torch
 - Bring a symbolic centerpiece to your home or office with this Statue of Liberty model
 - Statue of Liberty model measures over 17-inch (44cm) high, 5-inch (14cm) wide and 5-inch (14cm) deep
 
