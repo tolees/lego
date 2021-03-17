@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTLHZVC-de Lego Architecture - LEGO 21046 Architecture Empire State...'
 sku: 'B07KTLHZVC-de'
-tags: [ 'lego','lego architecture', ]
+tags: [ '355357031','Accessoires de décoration intérieure','Aeronautica e spazio per bambini','Ameublement et décoration','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Cuisine et Maison','Décoration de la maison','Décorations murales','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Types','Toys & Games','Toys Store','lego','lego architecture', ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9
@@ -28,10 +28,10 @@ With a final price of 62.9 EUR (original: 99.99 EUR) you can find [Lego Architec
 
 ℹ️:
 
+- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
+- Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
 - 1760 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
-- Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
-- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
 - Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)

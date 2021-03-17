@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK9B3Z-de Lego Architecture - LEGO 21045 Architecture Trafalgar...'
 sku: 'B07KTK9B3Z-de'
-tags: [ 'lego','lego architecture', ]
+tags: [ '355357031','Accessoires de décoration intérieure','Aeronautica e spazio per bambini','Ameublement et décoration','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Cuisine et Maison','Décoration de la maison','Décorations murales','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Types','Toys & Games','Toys Store','lego','lego architecture', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99
@@ -28,10 +28,10 @@ With a final price of 54.99 EUR (original: 79.99 EUR) you can find [Lego Archite
 
 ℹ️:
 
-- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
-- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Trafalgar Squares!
 - 1.197 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Das Modell von LEGO Architecture umfasst ein dekoratives Trafalgar-Square-Namensschild.
+- Baue diese äußerst detailreiche LEGO Architecture Interpretation des Trafalgar Squares!
 - Umfasst die National Gallery, die Nelsonsäule (bewacht von 4 Löwen), 2 Brunnen, 4 Statuensockeln, 10 Bäume, 6 Laternen, 2 Londoner Busse und 2 schwarze Taxis.
+- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTK9B3Z/?tag=tolees0ca-21)

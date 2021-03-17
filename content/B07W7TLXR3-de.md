@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TLXR3-de LEGO 75267 Star Wars Mandalorianer Battle Pack Set mit 4...'
 sku: 'B07W7TLXR3-de'
-tags: [ 'lego', ]
+tags: [ '355357031','Accessoires de décoration intérieure','Aeronautica e spazio per bambini','Ameublement et décoration','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Cuisine et Maison','Décoration de la maison','Décorations murales','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41
@@ -28,10 +28,10 @@ There's a deal [LEGO 75267 Star Wars Mandalorianer Battle Pack Set mit 4 Minifig
 
 ℹ️:
 
-- Kinder können eine furchterregende Mandalorianische Armee aufbauen und aufregende Szenen nachbauen, wie aus der TV-Show, Star Wars: The Mandalorian
 - Beinhaltet eine Verteidigungsfestung mit einem Befestigungspunkt für einen Blaster und ein Speeder-Bike
-- Erweitere deine LEGO Star Wars-Sammlung mit diesem großartigen Battle Pack
 - Schießen Sie die Bolzen ab und setzen Sie den Soldaten dann auf einen mit Bolzen schießenden Beschleuniger
+- Erweitere deine LEGO Star Wars-Sammlung mit diesem großartigen Battle Pack
+- Kinder können eine furchterregende Mandalorianische Armee aufbauen und aufregende Szenen nachbauen, wie aus der TV-Show, Star Wars: The Mandalorian
 - Bietet vier Star Wars-Minifiguren von Mandalorianischen Kriegern, jede mit Bolzen schießenden Blastern
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TLXR3/?tag=tolees0ca-21)
