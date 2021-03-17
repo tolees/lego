@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014YYM34I-com LEGO Force Awakens Star Wars Minifigure - BB-8 Astromech...'
 sku: 'B014YYM34I-com'
-tags: [ 'lego', ]
+tags: [ '355357031','Accessoires de décoration intérieure','Aeronautica e spazio per bambini','Ameublement et décoration','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Cuisine et Maison','Décoration de la maison','Décorations murales','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 4.94 USD
 currency: USD
 price: 4.94

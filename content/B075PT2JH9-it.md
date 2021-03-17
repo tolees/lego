@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075PT2JH9-it LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina...'
 sku: 'B075PT2JH9-it'
-tags: [ '355357031','Aeronautica e spazio per bambini','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Aeronautica e spazio per bambini','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 839.0 EUR
 currency: EUR
 price: 839.0
@@ -28,8 +28,8 @@ There's a deal [LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina Giocatt
 
 ℹ️:
 
-- Giocattoli e modellismo
 - Dimensioni: 15x25x40 cm
+- Giocattoli e modellismo
 - Marca: Lego
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21)

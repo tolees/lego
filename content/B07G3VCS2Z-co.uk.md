@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3VCS2Z-co.uk LEGO Creator 10269 Harley Davidson Fatboy Expert Series'
 sku: 'B07G3VCS2Z-co.uk'
-tags: [ '355357031','Aeronautica e spazio per bambini','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego','lego creator', ]
+tags: [ '355357031','Aeronautica e spazio per bambini','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego','lego creator', ]
 actualPrice: 80.18 GBP
 currency: GBP
 price: 80.18

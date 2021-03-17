@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXLG1C7-com LEGO The Movie 2 Rex’s Rexplorer; 70835 Building Kit...'
 sku: 'B07GXLG1C7-com'
-tags: [ 'lego', ]
+tags: [ '355357031','Accessoires de décoration intérieure','Aeronautica e spazio per bambini','Ameublement et décoration','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Cuisine et Maison','Décoration de la maison','Décorations murales','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 73.99 USD
 currency: USD
 price: 73.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXBJBKN-com LEGO Friends Stephanie’s Horse Jumping 41367 Building Kit...'
 sku: 'B07GXBJBKN-com'
-tags: [ 'lego', ]
+tags: [ '355357031','Accessoires de décoration intérieure','Aeronautica e spazio per bambini','Ameublement et décoration','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Cuisine et Maison','Décoration de la maison','Décorations murales','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99
