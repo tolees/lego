@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'LEGO Speed Champions 76895 Ferrari F8 Tr at 19.96 % discount'
-date: 2021-03-15 18:55:48
+date: 2021-03-17 00:13:31
 image: 'https://m.media-amazon.com/images/I/513+cZnd2PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFHWSLP-com LEGO Speed Champions 76895 Ferrari F8 Tributo Toy Cars...'
 sku: 'B07WFHWSLP-com'
 tags: [ 'lego', ]

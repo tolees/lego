@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO 31115 Creator 3-in-1 Weltraum-Mech  at 24.01 % discount'
+date: 2021-03-17 00:53:56
+image: 'https://m.media-amazon.com/images/I/51SA7XzIxwL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08G48YZ2D-de LEGO 31115 Creator 3-in-1 Weltraum-Mech Weltraumroboter...'
+sku: 'B08G48YZ2D-de'
+tags: [ 'lego', ]
+actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
+comparePrice: 24.99 EUR
+prodname: 'LEGO 31115 Creator 3-in-1 Weltraum-Mech  Weltraumroboter oder Lastenträger Spielzeug  Actionfigur Bauset mit Alien Figur'
+country: 'de'
+flag: '🇩🇪'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.de/dp/B08G48YZ2D/?tag=tolees0ca-21'
+descuento: '24.01'
+average: '23.81'
+---
+
+With a final price of 18.99 EUR (original: 24.99 EUR) you can find [LEGO 31115 Creator 3-in-1 Weltraum-Mech  Weltraumroboter oder Lastenträger Spielzeug  Actionfigur Bauset mit Alien Figur](https://www.amazon.de/dp/B08G48YZ2D/?tag=tolees0ca-21) with a  24.01 % discount here:
+
+[![LEGO 31115 Creator 3-in-1 Weltraum-Mech ](https://m.media-amazon.com/images/I/51SA7XzIxwL._SL400_.jpg)](https://www.amazon.de/dp/B08G48YZ2D/?tag=tolees0ca-21)
+
+ℹ️:
+
+- Der Mech ist 15 cm groß. Das ist die perfekte Größe, um auch unterwegs mit dem Modell spielen zu können
+- Das Weltraum-Mech Modell enthält eine grüne Alien-Figur und einen Satz Kristalle, um den Abenteuern der Kinder im Weltraum eine zusätzliche Dimension zu verleihen
+- Kreative Kinder können den Mech und den Alien um Kristalle wetteifern lassen, mit dem vierbeinigen Weltraum-Lastenträger Planeten erkunden oder Duelle mit einem zweibeinigen Mech austragen
+- Der bewegliche Weltraum-Mech kann seinen Gesichtsausdruck ändern und trägt eine Kreissäge und einen Raketenrucksack. In den vierbeinigen Weltraum-Lastenträger und in den zweibeinigen Mech passt jeweils ein Roboter-Pilot
+- Erlebe noch größere Abenteuer mit den anderen LEGO Creator 3-in-1-Sets: Wilder Löwe (31112), Rennwagentransporter (31113), Geländemotorrad (31114), Safari-Baumhaus (31116) und Surfer-Strandhaus (31118)
+- Mit diesem LEGO Creator 3-in-1-Set – Weltraum-Mech Bauset (31115) Bausatz können fantasievolle Kinder drei aufregende Modelle bauen: ein Mech-Spielzeug, einen Lastenträger und ein Weltraumroboter-Spielzeug
+- 327 Teile machen dieses LEGO Creator 3-in-1-Set zu einem anspruchsvollen Modell für begeisterte Weltraumfans ab 7 Jahren. Ein perfektes Geburtstags- oder Weihnachtsgeschenk
+
+[🛒 Buy it!!](https://www.amazon.de/dp/B08G48YZ2D/?tag=tolees0ca-21)
