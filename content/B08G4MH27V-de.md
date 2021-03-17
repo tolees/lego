@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'Discount of 23.32 % for LEGO 31111 Creator 3-in-1 Cyber-Drohne  '
-date: 2021-02-22 12:45:52
+title: 'Discount of 25.03 % for LEGO 31111 Creator 3-in-1 Cyber-Drohne  '
+date: 2021-03-17 21:40:00
 image: 'https://m.media-amazon.com/images/I/51nHVJefXzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4MH27V-de LEGO 31111 Creator 3-in-1 Cyber-Drohne Bauset mit Cyber...'
 sku: 'B08G4MH27V-de'
-tags: [ 'lego', ]
-actualPrice: 7.66 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
+actualPrice: 7.49 EUR
 currency: EUR
-price: 7.66
+price: 7.49
 comparePrice: 9.99 EUR
 prodname: 'LEGO 31111 Creator 3-in-1 Cyber-Drohne  Bauset mit Cyber Mech und Motorroller  Weltraumspielzeug für Kinder ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4MH27V/?tag=tolees0ca-21'
-descuento: '23.32'
-average: '7.13625'
+descuento: '25.03'
+average: '7.17555555555555'
 ---
 
-You've got [LEGO 31111 Creator 3-in-1 Cyber-Drohne  Bauset mit Cyber Mech und Motorroller  Weltraumspielzeug für Kinder ab 6 Jahren](https://www.amazon.de/dp/B08G4MH27V/?tag=tolees0ca-21) with a  23.32 % discount, with final price of 7.66 EUR (original: 9.99 EUR) at the following link:
+You've got [LEGO 31111 Creator 3-in-1 Cyber-Drohne  Bauset mit Cyber Mech und Motorroller  Weltraumspielzeug für Kinder ab 6 Jahren](https://www.amazon.de/dp/B08G4MH27V/?tag=tolees0ca-21) with a  25.03 % discount, with final price of 7.49 EUR (original: 9.99 EUR) at the following link:
 
 [![LEGO 31111 Creator 3-in-1 Cyber-Drohne  ](https://m.media-amazon.com/images/I/51nHVJefXzL._SL400_.jpg)](https://www.amazon.de/dp/B08G4MH27V/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Dieses 113-teilige LEGO Creator 3-in-1-Set stellt Kinder ab 6 Jahren vor eine witzige Bauaufgabe und ist eine tolle Überraschung
-- LEGO Creator 3-in-1-Sets ermöglichen Kinder grenzenlosen Spielspaß, wenn sie sich fantasievolle Actiongeschichten zu den 3 farbenfrohen Modellen in jeder Box ausdenken
 - Die Cyber-Drohne ist 6 cm hoch, 14 cm lang und 6 cm breit. Das ist die ideale Größe, um auch unterwegs mit ihr spielen zu können
 - Ab Januar 2021 darfen Sie Sie auch auf weitere tolle LEGO Creator 3-in-1-Sets freuen: Wilder Löwe (31112), Rennwagentransporter (31113), Geländemotorrad (31114) und Surfer-Strandhaus (31118)
+- LEGO Creator 3-in-1-Sets ermöglichen Kinder grenzenlosen Spielspaß, wenn sie sich fantasievolle Actiongeschichten zu den 3 farbenfrohen Modellen in jeder Box ausdenken
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4MH27V/?tag=tolees0ca-21)

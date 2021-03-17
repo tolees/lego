@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO 41167 Disney Princess Frozen Die Ei at 27.50 % discount'
-date: 2021-03-01 13:15:29
+date: 2021-03-17 21:32:02
 image: 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND9RDRV-de LEGO 41167 Disney Princess Frozen Die Eiskönigin 2 Schloss...'
 sku: 'B07ND9RDRV-de'
-tags: [ 'lego', ]
+tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21'
 descuento: '27.50'
-average: '58.2672'
+average: '58.6833333333333'
 ---
 
 With a final price of 57.99 EUR (original: 79.99 EUR) you can find [LEGO 41167 Disney Princess Frozen Die Eiskönigin 2 Schloss Arendelle  Bauset mit Anna  Elsa und Kristoff Minipuppen  Schloss  Marktständen  Ruderboot sowie Tierfiguren  Spielset für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21) with a  27.50 % discount here:
@@ -28,10 +28,10 @@ With a final price of 57.99 EUR (original: 79.99 EUR) you can find [LEGO 41167 D
 
 ℹ️:
 
-- Die Bausteine aus dem Bauset -Schloss Arendelle- (41167) von LEGO , Disney "Die Eiskönigin 2" können mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
-- Dieses LEGO Bauset enthält 521 Teile und bietet Jungen und Mädchen ab 5 Jahren sowie Fans und Kindern jeden Alters großartigen Spielspaß
 - Das Schloss ist 30 cm hoch, 30 cm breit und 12 cm tief. Auch kleine Fans von Anna und Elsa können es eigenständig zusammenbauen und stundenlangen Spaß mit Ihren Lieblingshelden von Disney erleben
-- Baue dieses dreistöckige Disney Schloss und spiele magische Momente aus Disneys -Die Eiskönigin 2- nach. Anschließend kann man die verschiedenen Stockwerke und die Möbel neu anordnen
+- Dieses LEGO Bauset enthält 521 Teile und bietet Jungen und Mädchen ab 5 Jahren sowie Fans und Kindern jeden Alters großartigen Spielspaß
 - Sobald die Schachtel geöffnet wird, geht der Spaß mit den Figuren aus -Die Eiskönigin 2- los. Außer dem Schloss mit Thronsaal und Schlafzimmer kann man Marktstände und ein Ruderboot bauen
+- Die Bausteine aus dem Bauset -Schloss Arendelle- (41167) von LEGO , Disney "Die Eiskönigin 2" können mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
+- Baue dieses dreistöckige Disney Schloss und spiele magische Momente aus Disneys -Die Eiskönigin 2- nach. Anschließend kann man die verschiedenen Stockwerke und die Möbel neu anordnen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)

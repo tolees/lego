@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QKLHG-fr LEGO 31200 Art Star Wars Les Siths Set pour Adultes...'
 sku: 'B0813QKLHG-fr'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Costruzioni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Bürobedarf & Schreibwaren','Büromaterial','Costruzioni','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Polizei & Feuerwehr','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Toy Types','Toys & Games','Toys Store','Utensilienschalen','lego', ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99
@@ -28,11 +28,11 @@ You've got [LEGO 31200 Art Star Wars Les Siths Set pour Adultes  Edition Collect
 
 ℹ️:
 
-- Cette oeuvre d’art LEGO mesure 40 cm de chaque côté et une fois complété de la signature Star Wars pourra être fièrement exposé
 - Set à construire et reconstruire 3 en 1 - créer un des 3 portrait de puissants Siths Lords : Dark Maul, Kylo Ren et Dark Vador
+- Possibilité de le compléter avec les deux autres sets afin de créer une décoration murale Dark Vador. C’est un cadeau exceptionnel pour les adeptes de sets de construction et fans de Star Wars
+- Cette oeuvre d’art LEGO mesure 40 cm de chaque côté et une fois complété de la signature Star Wars pourra être fièrement exposé
+- 1 image - 3 options. Les différents modèles ne peuvent pas être construits en même temps.
 - Incluant 9 toiles de décoration murale, une tuile comportant la signature des Star Wars, un cadre à fabriquer LEGO, un système d’accrochage et un séparateur de pièce
 - Incluant la bande-son afin de s’immerger totalement dans l’univers Star Wars pendant la construction du set, comprenant histoires uniques et interviews
-- 1 image - 3 options. Les différents modèles ne peuvent pas être construits en même temps.
-- Possibilité de le compléter avec les deux autres sets afin de créer une décoration murale Dark Vador. C’est un cadeau exceptionnel pour les adeptes de sets de construction et fans de Star Wars
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B0813QKLHG/?tag=tolees0d-21)

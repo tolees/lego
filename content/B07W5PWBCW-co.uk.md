@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5PWBCW-co.uk LEGO Classic - LEGO 11007 Classic Creative Green Bricks...'
 sku: 'B07W5PWBCW-co.uk'
-tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego','lego classic', ]
+tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Polizei & Feuerwehr','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Toy Types','Toys & Games','Toys Store','Utensilienschalen','lego','lego classic', ]
 actualPrice: 3.01 GBP
 currency: GBP
 price: 3.01
@@ -29,9 +29,9 @@ You've got [LEGO Classic - LEGO 11007 Classic Creative Green Bricks Learning Sta
 ℹ️:
 
 - Creative fun on the go! This large bricks set is handy enough for parents to take the imaginative play with them wherever their kids go
-- Big bricks are safe, toddler-friendly and easy for small hands to pick up and place, while developing language, social and emotional skills
-- This big bricks starter set for children aged 4 and over with 3 easy-to-build toys with fun features lets assemble them simultaneously
 - LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
+- This big bricks starter set for children aged 4 and over with 3 easy-to-build toys with fun features lets assemble them simultaneously
+- Big bricks are safe, toddler-friendly and easy for small hands to pick up and place, while developing language, social and emotional skills
 - There are 3 fun brick toys to build: a dog, a helicopter with rotating blades and an apple tree with a delicious-looking detachable apple
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PWBCW/?tag=tolees0a-21)

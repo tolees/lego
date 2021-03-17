@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '25.72 % deal for LEGO 41429 Friends Heartlake City Flugze'
-date: 2021-03-13 13:31:13
+title: '31.03 % deal for LEGO 41429 Friends Heartlake City Flugze'
+date: 2021-03-17 21:21:10
 image: 'https://m.media-amazon.com/images/I/51cyJOCeSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813RWM2C-de LEGO 41429 Friends Heartlake City Flugzeug Spielzeug...'
 sku: 'B0813RWM2C-de'
-tags: [ 'lego', ]
-actualPrice: 51.99 EUR
+tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
+actualPrice: 48.27 EUR
 currency: EUR
-price: 51.99
+price: 48.27
 comparePrice: 69.99 EUR
 prodname: 'LEGO 41429 Friends Heartlake City Flugzeug  Spielzeug  Sommerferien Serie'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813RWM2C/?tag=tolees0ca-21'
-descuento: '25.72'
-average: '54.2784210526316'
+descuento: '31.03'
+average: '53.7061904761905'
 ---
 
-There's a deal [LEGO 41429 Friends Heartlake City Flugzeug  Spielzeug  Sommerferien Serie](https://www.amazon.de/dp/B0813RWM2C/?tag=tolees0ca-21)  with  25.72 % discount, final price tag of  51.99 EUR (original: 69.99 EUR) here:
+There's a deal [LEGO 41429 Friends Heartlake City Flugzeug  Spielzeug  Sommerferien Serie](https://www.amazon.de/dp/B0813RWM2C/?tag=tolees0ca-21)  with  31.03 % discount, final price tag of  48.27 EUR (original: 69.99 EUR) here:
 
 [![LEGO 41429 Friends Heartlake City Flugze](https://m.media-amazon.com/images/I/51cyJOCeSFL._SL400_.jpg)](https://www.amazon.de/dp/B0813RWM2C/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Includes movable boarding steps, seatback TV screens, check-in desk with X-ray, plus the tail section opens to store passengers’ luggage
-- Kids can check-in to head off on vacation, put their cases in overhead compartments, serve aeroplane food, watch movies or visit the pilot
-- Features a toy plane with 3 removable roof sections for easy access, openable luggage compartments, and detailed cockpit and passenger area
-- Includes buildable Stephanie, Olivia and Captain Ashley mini-dolls, a dog figure, plus lots of fun aeroplane and holiday accessories
-- Check out other LEGO Friends sets: Beach House 41428, Party Boat 41433, Heartlake City Park Café 41426 and Summer Fun Water Park 41430
+- Der Spielzeugflieger ist 13 cm hoch, 36 cm lang und 33 cm breit. Da alle LEGO Sets kompatibel sind, lässt sich dieses Spielzeug wunderbar mit anderen vorhandenen LEGO Steinen kombinieren, um Kindern ein kreatives Spielerlebnis zu vermitteln
+- Das 574-teilige Set zum Thema Flugreisen ist ein tolles Geschenk für Kinder ab 7 Jahren, die Spielzeug-Fahrzeuge mögen und nur wenig Bauerfahrung besitzen. Das Set bietet ein stimulierendes Bauerlebnis und bereitet Freude am eigenen Bauerfolg
+- Das Modell verfügt über eine Fluggastkabine und einen rollenden Servierwagen. Die Kabine lässt sich öffnen, um die aufklappbaren Gepäckfächer preiszugeben. Darüber hinaus gibt es einen Check-in-Schalter und eine rollende Fluggasttreppe
+- Mit den LEGO Friends Heldinnen Stephanie und Olivia können sich Kinder in unterhaltsame Abenteuer an Bord des Flugzeugs stürzen. Sie können die Figuren einchecken oder in die Rolle der Pilotin schlüpfen und als Flugkapitänin das Flugzeug steuern
+- Mit dem Spielset kennt der Spielspaß keine Grenzen. An Bord des detailreichen Spielzeug-Fliegers erleben Kinder unzählige kreative Reiseszenarien, denen dank der zahlreichen coolen Funktionen und Zubehörelemente keine Grenzen gesetzt sind
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B0813RWM2C/?tag=tolees0ca-21)
