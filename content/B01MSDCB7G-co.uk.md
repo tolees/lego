@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSDCB7G-co.uk LEGO Ninjago Movie 23480K Lego Kai Classic Costume 7-8...'
 sku: 'B01MSDCB7G-co.uk'
-tags: [ 'Antique & Collectible Toys','Antique & Collectible Toys & Figurines','Antiques & Collectibles','Architecture','Arts & Photography','Bauspielzeug & Konstruktionsspielzeug','Books','Building Toys','Childrens Activities, Crafts & Games Books','Childrens Activity Books','Childrens Architecture Books','Childrens Arts, Music & Photography Books','Childrens Books','Childrens Computer Hardware & Robotics Books','Childrens Computers & Technology Books','Childrens Craft & Hobby Books','Childrens Game Books','Childrens Model Building Books','Childrens Programming Books','Childrens Science & Nature Books','Computer Programming','Computer Science','Computers & Technology','Crafts & Hobbies','Crafts, Hobbies & Home','Engineering','Engineering & Transportation','Industrial Manufacturing Systems','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Robotics','Robotics & Automation','Spielzeug','Toy & Model Crafts','Toy Building Sets','Toys & Games','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 16.49 GBP
 currency: GBP
 price: 16.49

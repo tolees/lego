@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLL3M8Z-co.uk LEGO Star Wars The Last Jedi 75528 Rey Toy'
 sku: 'B06WLL3M8Z-co.uk'
-tags: [ 'Antique & Collectible Toys','Antique & Collectible Toys & Figurines','Antiques & Collectibles','Architecture','Arts & Photography','Bauspielzeug & Konstruktionsspielzeug','Books','Building Toys','Childrens Activities, Crafts & Games Books','Childrens Activity Books','Childrens Architecture Books','Childrens Arts, Music & Photography Books','Childrens Books','Childrens Computer Hardware & Robotics Books','Childrens Computers & Technology Books','Childrens Craft & Hobby Books','Childrens Game Books','Childrens Model Building Books','Childrens Programming Books','Childrens Science & Nature Books','Computer Programming','Computer Science','Computers & Technology','Crafts & Hobbies','Crafts, Hobbies & Home','Engineering','Engineering & Transportation','Industrial Manufacturing Systems','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Robotics','Robotics & Automation','Spielzeug','Toy & Model Crafts','Toy Building Sets','Toys & Games','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 9.99 GBP
 currency: GBP
 price: 9.99
