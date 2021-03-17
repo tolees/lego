@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Discount of 27.11 % for LEGO 75270 Star Wars Obi-Wans Hütte Baus'
-date: 2021-03-15 14:04:09
+date: 2021-03-17 18:38:26
 image: 'https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLJJX8V-de LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm...'
 sku: 'B07WLJJX8V-de'
-tags: [ 'lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 21.86 EUR
 currency: EUR
 price: 21.86
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21'
 descuento: '27.11'
-average: '25.0013356164384'
+average: '25.0171283783784'
 ---
 
 You've got [LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinzessin Leia  Serie Eine Neue Hoffnung](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21) with a  27.11 % discount, with final price of 21.86 EUR (original: 29.99 EUR) at the following link:
@@ -30,8 +30,8 @@ You've got [LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinze
 
 - Der in der kostenlosen LEGO Life-App für Smartphones und Tablets verfügbare Instructions PLUS-Leitfaden enthält Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, um das Bauen zu unterstützen
 - Kinder können mit Luke Skywalker trainieren, um ein Jedi-Meister zu werden, ihre Lichtschwertfähigkeiten mit der Trainingsfernbedienung üben oder mit R2-Dzwei spielen
+- Die Hütte ist ausklappbar und bietet einfachen Zugang zu vielen spielerischen Gegenständen wie einer Trainingsfernbedienung und einem Hologramm der Prinzessin Leia
 - Verfügt über das Tatooine-Wüstenhaus von Obi-Wan Kenobi mit einer Öffnungskuppel zum einfachen Spielen und vielen Details, um Lieblingsfilmszenen nachzubilden
 - Enthält drei Minifiguren: Obi-Wan Kenobi und Luke Skywalker mit Lichtschwertern, einen Tusken Raider mit einem Gaffi-Stock sowie eine R2-D2-Droidenfigur
-- Die Hütte ist ausklappbar und bietet einfachen Zugang zu vielen spielerischen Gegenständen wie einer Trainingsfernbedienung und einem Hologramm der Prinzessin Leia
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)

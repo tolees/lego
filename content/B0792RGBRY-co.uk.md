@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792RGBRY-co.uk LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s...'
 sku: 'B0792RGBRY-co.uk'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
+tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hardware y juegos para Nintendo Switch','Hobbys','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','Videojuegos','lego', ]
 actualPrice: 14.7 GBP
 currency: GBP
 price: 14.7

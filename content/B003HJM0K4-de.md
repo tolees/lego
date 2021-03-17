@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HJM0K4-de LEGO 8869 Power Functions Schalter für die Power...'
 sku: 'B003HJM0K4-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
+tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hardware y juegos para Nintendo Switch','Hobbys','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','Videojuegos','lego', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

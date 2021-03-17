@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0168UDLX8-es La Lego Película Edición Especial Blu-Ray [Blu-ray]'
 sku: 'B0168UDLX8-es'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
+tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hardware y juegos para Nintendo Switch','Hobbys','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','Videojuegos','lego', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

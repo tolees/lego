@@ -1,42 +1,42 @@
 ---
 layout: post
-title: 'Discount of 18.03 % for LEGO Architecture Architecture La Casa B'
-date: 2021-03-16 16:38:52
+title: 'Discount of 18.04 % for LEGO Architecture Architecture La Casa B'
+date: 2021-03-17 17:20:15
 image: 'https://m.media-amazon.com/images/I/51grYf7UH7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6M-es LEGO Architecture Architecture La Casa Blanca Colección...'
 sku: 'B0813QBV6M-es'
-tags: [ 'lego','lego architecture', ]
-actualPrice: 90.16 EUR
+tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','lego','lego architecture', ]
+actualPrice: 90.15 EUR
 currency: EUR
-price: 90.16
+price: 90.15
 comparePrice: 109.99 EUR
 prodname: 'LEGO Architecture Architecture La Casa Blanca  Colección Lugares Emblemáticos para Adultos  Idea de Regalo Coleccionable  multicolor  Lego ES 21054 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lego Architecture'
 buyurl: 'https://www.amazon.es/dp/B0813QBV6M/?tag=tolees-21'
-descuento: '18.03'
-average: '93.6020422535214'
+descuento: '18.04'
+average: '93.5779020979024'
 ---
 
-You've got [LEGO Architecture Architecture La Casa Blanca  Colección Lugares Emblemáticos para Adultos  Idea de Regalo Coleccionable  multicolor  Lego ES 21054 ](https://www.amazon.es/dp/B0813QBV6M/?tag=tolees-21) with a  18.03 % discount, with final price of 90.16 EUR (original: 109.99 EUR) at the following link:
+You've got [LEGO Architecture Architecture La Casa Blanca  Colección Lugares Emblemáticos para Adultos  Idea de Regalo Coleccionable  multicolor  Lego ES 21054 ](https://www.amazon.es/dp/B0813QBV6M/?tag=tolees-21) with a  18.04 % discount, with final price of 90.15 EUR (original: 109.99 EUR) at the following link:
 
 [![LEGO Architecture Architecture La Casa B](https://m.media-amazon.com/images/I/51grYf7UH7L._SL400_.jpg)](https://www.amazon.es/dp/B0813QBV6M/?tag=tolees-21)
 
 ℹ️:
 
-- Los ladrillos para construir LEGO cumplen las normas más estrictas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entres sí, y se conectan y separan fácilmente una y otra vez; así ha sido desde 1958.
-- La maqueta se puede dividir fácilmente en 3 secciones para contemplar de cerca los detalles arquitectónicos. Esta pieza para exponer, que seguro será un gran tema de conversación, incluye un ladrillo LEGO con la inscripción “The White House” para dar el acabado perfecto a tu obra.
+- La maqueta de exposición LEGO Architecture La Casa Blanca (21054) captura con extrema belleza el diseño neoclásico y el esplendor de una residencia célebre en el mundo entero: la ocupada por todos los presidentes de los Estados Unidos desde 1800.
 - Incluye claras instrucciones que permiten construir con confianza incluso a los recién llegados al mundo de LEGO, así como un cuidado folleto con la historia de La Casa Blanca (solo en inglés; otros idiomas disponibles en LEGO.com/architecture).
-- Esta maqueta LEGO Architecture construible, que mide 11 cm de altura, 47 cm de anchura y 20 cm de profundidad, es un magnífico objeto de exposición para tu casa o tu oficina. También es el mejor regalo que le puedes hacer a un amigo creativo.
+- Este set de construcción para adultos forma parte de la colección de inspiradores kits de maquetas LEGO diseñados para ti, el exigente buscador de aficiones, y que te estarán esperando cuando quieras emprender tu próximo proyecto creativo.
+- Los ladrillos para construir LEGO cumplen las normas más estrictas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entres sí, y se conectan y separan fácilmente una y otra vez; así ha sido desde 1958.
 - Si has ido a La Casa Blanca, ubicada en el número 1600 de la avenida Pennsylvania, en Washington D. C., sueñas con visitarla o simplemente te encanta viajar, la arquitectura, la historia o el diseño, este kit de construcción creativa es para ti.
 - Disfruta de este set de construcción LEGO para adultos, que incluye dependencias como la Residencia Ejecutiva, el Ala Oeste y el Ala Este de La Casa Blanca, con las columnatas que las conectan, así como el Jardín de las Rosas y el Jardín de Jacqueline Kennedy.
-- No requiere pilas: este elegante proyecto DIY te propone recrear La Casa Blanca con ladrillos LEGO y concentrarte en una actividad que te hará sentir relajado y como nuevo cuando hayas terminado.
-- La maqueta de exposición LEGO Architecture La Casa Blanca (21054) captura con extrema belleza el diseño neoclásico y el esplendor de una residencia célebre en el mundo entero: la ocupada por todos los presidentes de los Estados Unidos desde 1800.
+- Esta maqueta LEGO Architecture construible, que mide 11 cm de altura, 47 cm de anchura y 20 cm de profundidad, es un magnífico objeto de exposición para tu casa o tu oficina. También es el mejor regalo que le puedes hacer a un amigo creativo.
+- La maqueta se puede dividir fácilmente en 3 secciones para contemplar de cerca los detalles arquitectónicos. Esta pieza para exponer, que seguro será un gran tema de conversación, incluye un ladrillo LEGO con la inscripción “The White House” para dar el acabado perfecto a tu obra.
 - Los ladrillos y elementos LEGO se someten a rigurosas pruebas destinadas a garantizar que cada set construcción satisfaga los requisitos de las normas de seguridad y calidad más exigentes. Por eso esta maqueta en miniatura de La Casa Blanca iguala en resistencia a su belleza.
-- Este set de construcción para adultos forma parte de la colección de inspiradores kits de maquetas LEGO diseñados para ti, el exigente buscador de aficiones, y que te estarán esperando cuando quieras emprender tu próximo proyecto creativo.
+- No requiere pilas: este elegante proyecto DIY te propone recrear La Casa Blanca con ladrillos LEGO y concentrarte en una actividad que te hará sentir relajado y como nuevo cuando hayas terminado.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B0813QBV6M/?tag=tolees-21)
