@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TN6HQ-de LEGO 75269 Star Wars Duell auf Mustafar Die Rache der Sith...'
 sku: 'B07W7TN6HQ-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Elektronische Spiele für Kinder','Hobbys','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','lego', ]
+tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Elektronische Spiele für Kinder','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','lego', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99
@@ -29,9 +29,9 @@ There's a deal [LEGO 75269 Star Wars Duell auf Mustafar  Die Rache der Sith  Spi
 ℹ️:
 
 - Verfügt über eine ausklappbare Mustafar-Mine mit Lava-Explosionsfunktion und verschiebbaren und drehbaren Plattformen für der Kampf der Minifiguren
-- Plattformen drehen und verschieben sich und das Modell lässt sich für aufregende Lichtschwert-Duelle ausklappen. Kinder können geschmolzene Lava-Elemente für glühende Lava-Action schießen
-- Beinhaltet zwei LEGO Star Wars Minifiguren: Anakin Skywalker und Obi-Wan Kenobi mit Lichtschwertern
 - Zum Zubehör gehören zwei Lichtschwerter sowie Flammen und andere schweißrote Lavaelemente, um eine Lavaexplosion vorzutäuschen
+- Beinhaltet zwei LEGO Star Wars Minifiguren: Anakin Skywalker und Obi-Wan Kenobi mit Lichtschwertern
 - Mit der digitalen Anleitung Instructions PLUS, die in der kostenlosen LEGO Life-App verfügbar ist, können Kinder heranzoomen, drehen und anzeigen, während sie das echte Modell bauen
+- Plattformen drehen und verschieben sich und das Modell lässt sich für aufregende Lichtschwert-Duelle ausklappen. Kinder können geschmolzene Lava-Elemente für glühende Lava-Action schießen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TN6HQ/?tag=tolees0ca-21)
