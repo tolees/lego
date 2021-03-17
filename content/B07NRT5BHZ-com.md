@@ -28,9 +28,9 @@ You've got [LEGO Hidden Side Graveyard Mystery 70420 Building Kit  App Toy for 7
 
 ℹ️:
 
-- Download the LEGO Hidden Side app and point your phone at the Graveyard Mystery playset to make this building set for kids come alive and reveal the Hidden Side. Move the phone around to discover an ever-changing environment hidden around the model.
 - This augmented reality toy includes 4 minifigures: heroes Jack Davids and Parker L. Jackson, a skeleton figure and Mr. Branson, plus Davidss ghost dog figure, Spencer, to pretend play the ghost-catching play in this graveyard toy and in the AR app.
 - This Graveyard Mystery unique toy features a tombstone statue that twists, grave that open and a haunted toy tree with posable arms.
+- Download the LEGO Hidden Side app and point your phone at the Graveyard Mystery playset to make this building set for kids come alive and reveal the Hidden Side. Move the phone around to discover an ever-changing environment hidden around the model.
 - Build and play with the physical set and then bring it to life as you interact with the set while viewing it through the app. Graveyard measures over 5” (14cm) high, 12” (32cm) wide and 3” (10cm) deep
 - Set in the fictional town of Newbury, where ghosts haunt people and buildings, LEGO Hidden Side playsets let kids play out exciting ghost-hunting adventures that combine physical LEGO models with fully-interactive augmented reality.
 
