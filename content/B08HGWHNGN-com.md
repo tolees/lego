@@ -1,11 +1,11 @@
 ---
 layout: post
 title: '26.32 % deal for LEGO Harry Potter Hedwig 75979'
-date: 2021-03-08 04:31:20
+date: 2021-03-17 07:14:28
 image: 'https://m.media-amazon.com/images/I/61xMMHw5dyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HGWHNGN-com LEGO Harry Potter Hedwig 75979'
 sku: 'B08HGWHNGN-com'
 tags: [ 'lego', ]
@@ -28,8 +28,8 @@ There's a deal [LEGO Harry Potter Hedwig 75979](https://www.amazon.com/dp/B08HGW
 
 ℹ️:
 
+- This authentic toy shows Hedwig the snowy owl delivering an important letter from Hogwarts. Also included is a detachable LEGO Harry Potter minifigure and a mini Hedwig toy.
 - This LEGO Harry Potter set doesnt need any batteries. The moving wings are powered purely by a hand-turned mechanism at the rear of the toy.
 - With a wingspan of over 13 (34cm) and a beak-to-tail measurement of over 7 (20cm), this mechanical Hedwig collectible LEGO set makes an impressive display that is sure to be the center of attention.
-- This authentic toy shows Hedwig the snowy owl delivering an important letter from Hogwarts. Also included is a detachable LEGO Harry Potter minifigure and a mini Hedwig toy.
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08HGWHNGN/?tag=tolees-20)

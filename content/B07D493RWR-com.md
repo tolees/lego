@@ -1,11 +1,11 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Harry Potter Hogwarts Express 75955'
-date: 2021-03-16 01:18:58
+date: 2021-03-17 06:39:08
 image: 'https://m.media-amazon.com/images/I/61ffWgkKqEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D493RWR-com LEGO Harry Potter Hogwarts Express 75955 Toy Train...'
 sku: 'B07D493RWR-com'
 tags: [ 'lego', ]
@@ -28,10 +28,6 @@ There's a deal [LEGO Harry Potter Hogwarts Express 75955 Toy Train Building Set 
 
 ℹ️:
 
-- The Hogwarts Express train replica measures over 3 inches (9cm) high, 18 inches (46cm) long and 1 inches (5cm) wide, This model train set includes 801 pieces for boys and girls aged between 8 and 14
-- This LEGO Hogwarts Express can be built with other toy vehicles or LEGO original sets for creative play, Kids will enjoy creating their own adventures with this Harry Potter train and other wizard toys
-- Kids can recreate their favorite Harry Potter scenes with this train replica and Harry Potter characters, They can order candy from the Trolley Witch or fly the Dementor into the carriage for hours of imaginative play
-- This model train set includes a variety of Harry Potter Minifigures, including Ron Weasley, Hermione Granger, Remus Lupin, the Trolley Witch and Harry Potter, plus Dementor and Scabbers figures. The Hogwarts Express is the perfect Harry Potter Gift
-- Kids can transport themselves to the world of Harry Potter with this LEGO Hogwarts Express train set, This model train comes with removable side panels and roof, plus a railway toy bridge and Platform 9¾ for creative play
+- Step aboard the iconic LEGO Harry Potter 75955 Hogwarts Express train from King’s Cross Station. This action-packed building set features a railway bridge with a clock and steps leading to Platform 9¾, moving brick wall entrance, ‘Wanted’ poster and Daily Prophet newspapers, plus a train toy and carriage with 4 seats and removable side panel and roof. Order candy from the Trolley Witch, fly the Dementor into the carriage and recreate fantasy realm scenes from blockbuster Harry Potter movies.
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07D493RWR/?tag=tolees-20)

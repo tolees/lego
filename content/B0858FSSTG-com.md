@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Discount of 19.96 % for LEGO Super Mario Whomp’s Lava Trouble Ex'
-date: 2021-03-15 06:40:30
+date: 2021-03-17 06:24:06
 image: 'https://m.media-amazon.com/images/I/51pQfcyanAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0858FSSTG-com LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364...'
 sku: 'B0858FSSTG-com'
 tags: [ 'lego', ]
