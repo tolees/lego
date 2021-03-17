@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO Architecture - Empire State Buildin at 18.69 % discount'
-date: 2021-03-15 23:43:53
+date: 2021-03-17 04:30:58
 image: 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTLHZVC-es LEGO Architecture - Empire State Building Nuevo Juego de...'
 sku: 'B07KTLHZVC-es'
-tags: [ 'lego', ]
+tags: [ 'lego','lego architecture', ]
 actualPrice: 93.5 EUR
 currency: EUR
 price: 93.5
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lego Architecture'
 buyurl: 'https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21'
 descuento: '18.69'
-average: '93.5176492537311'
+average: '93.5175185185182'
 ---
 
 With a final price of 93.5 EUR (original: 114.99 EUR) you can find [LEGO Architecture - Empire State Building Nuevo Juego de Construcción  Maqueta de Juguete de la Icónica Torre de New York  21046 ](https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21) with a  18.69 % discount here:
@@ -28,14 +28,14 @@ With a final price of 93.5 EUR (original: 114.99 EUR) you can find [LEGO Archite
 
 ℹ️:
 
-- Interpretación LEGO Architecture del Empire State Building, un hito arquitectónico neoyorquino del mundo real.
-- Este set incluye más de 1750 elementos.
-- Disfruta de una experiencia de construcción agradablemente compleja y gratificante con este set LEGO Architecture.
+- Mide más de 55 cm de altura, 20 cm de ancho y 12 cm de profundidad.
 - Este modelo de exposición, diseñado para verlo desde todos los ángulos, cuenta con 4 detalladísimas fachadas, la torre de la antena de color plateado y una base de baldosas que representa la Quinta Avenida y las calzadas de alrededor, transitadas por 6 taxis amarillos.
 - Con sus 55 cm de altura, esta interpretación del Empire State Building es el modelo LEGO Architecture más alto hasta la fecha (julio de 2019).
+- Este set incluye más de 1750 elementos.
 - El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de la estructura, así como datos históricos sobre el Empire State Building y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
-- La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a todos aquellos interesados en los viajes, la arquitectura, la historia y el diseño.
-- Mide más de 55 cm de altura, 20 cm de ancho y 12 cm de profundidad.
 - Incluye una placa decorativa con la etiqueta “Empire State Building”.
+- Disfruta de una experiencia de construcción agradablemente compleja y gratificante con este set LEGO Architecture.
+- Interpretación LEGO Architecture del Empire State Building, un hito arquitectónico neoyorquino del mundo real.
+- La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a todos aquellos interesados en los viajes, la arquitectura, la historia y el diseño.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21)
