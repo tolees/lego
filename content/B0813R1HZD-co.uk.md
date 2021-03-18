@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R1HZD-co.uk LEGO 76165 Marvel Iron Man Helmet Display Building Set...'
 sku: 'B0813R1HZD-co.uk'
-tags: [ 'Architectural History','Architectural Photography','Architectural Types','Architecture','Architecture References','Arts & Photography','Bauspielzeug & Konstruktionsspielzeug','Books','Building & Construction Toys','Elektronische Spiele für Kinder','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','Photography & Video','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Teen & Young Adult','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Architectural History','Architectural Photography','Architectural Types','Architecture','Architecture References','Arts & Photography','Bauspielzeug & Konstruktionsspielzeug','Books','Building & Construction Toys','Coffrets de figurines pour enfants','Costruzioni','Cuisine et Maison','Dekoartikel','Décoration de la maison','Décorations murales','Elektronische Spiele für Kinder','Figurines pour enfants','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','Küche, Haushalt & Wohnen','Photography & Video','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Teen & Young Adult','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','lego', ]
 actualPrice: 44.99 GBP
 currency: GBP
 price: 44.99
@@ -28,9 +28,9 @@ With a final price of 44.99 GBP (original: 54.99 GBP) you can find [LEGO 76165 M
 
 ℹ️:
 
+- Test your creative construction superpowers with the striking Marvel Avengers Iron Man Helmet LEGO building set for adults
 - A cool adult building set to spark memories of epic Marvel movie scenes as the iconic shape and details of Iron Man’s helmet come together
 - Iron Man’s helmet is part of an impressive series of LEGO helmet build-and-display models – collect them all to complete the set
-- Test your creative construction superpowers with the striking Marvel Avengers Iron Man Helmet LEGO building set for adults
 - The authentic details of the 480 piece displayable model, standing on a sturdy base with nameplate, make it a stunning centrepiece
 - Clear instructions ensure an enjoyable and rewarding building experience that evokes the classic comic-book artistry of Iron Man’s helmet
 

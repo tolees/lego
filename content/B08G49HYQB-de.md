@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G49HYQB-de LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1...'
 sku: 'B08G49HYQB-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Jeux de construction','Jeux et Jouets','Jeux et jouets','Spielzeug','lego', ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Coffrets de figurines pour enfants','Costruzioni','Cuisine et Maison','Dekoartikel','Décoration de la maison','Décorations murales','Figurines pour enfants','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','Spielzeug','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49
@@ -28,11 +28,11 @@ You've got [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  B
 
 ℹ️:
 
+- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
+- Kinder, die Spielzeugflieger lieben, können unzählige Details entdecken. Aufklappbare Triebwerksabdeckungen, das Fahrwerk und der drehende Propeller ermöglichen Rollenspiele und rasante Flüge
+- Kinder werden diese robuste Kunstflugmaschine gerne zusammenbauen und dann in einen Düsenflieger verwandeln
 - Instructions PLUS ist eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
 - Das Rennflugzeug ist 9 cm hoch, 18 cm lang und 23 cm breit
-- Kinder werden diese robuste Kunstflugmaschine gerne zusammenbauen und dann in einen Düsenflieger verwandeln
-- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
 - Das LEGO Technic Rennflugzeug (42117) ist ein tolles Geschenk für Nachwuchspiloten. Die kräftigen Farben, die Aufkleber der Sponsoren und der drehende Propeller lassen das Modell wie das echte Vorbild aussehen
-- Kinder, die Spielzeugflieger lieben, können unzählige Details entdecken. Aufklappbare Triebwerksabdeckungen, das Fahrwerk und der drehende Propeller ermöglichen Rollenspiele und rasante Flüge
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21)

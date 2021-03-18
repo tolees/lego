@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4G3MQ5-de LEGO 60289 City Flugshow-Jet-Transporter Truck Spielzeug...'
 sku: 'B08G4G3MQ5-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Jeux de construction','Jeux et Jouets','Jeux et jouets','Spielzeug','lego', ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Coffrets de figurines pour enfants','Costruzioni','Cuisine et Maison','Dekoartikel','Décoration de la maison','Décorations murales','Figurines pour enfants','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','Spielzeug','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','lego', ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28
@@ -31,9 +31,9 @@ There's a deal [LEGO 60289 City Flugshow-Jet-Transporter Truck Spielzeug mit Anh
 - Das beeindruckende Bauset enthält einen Sattelschlepper mit Sitz für die Fahrer-Minifigur sowie einen starken Jet mit verstellbaren Heckflügeln und getöntem Minifigur-Cockpit
 - Das Set ist ein tolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Jungen und Mädchen ab 5 Jahren
 - Inhalt des Sets: Alles, was Kinder zum Bauen eines Sattelschleppers mit Aufleger für den supercoolen Jet benötigen, witziges Zubehör sowie ein Pilot und ein Fahrer als Minifiguren
-- Mit aufgeladenem Jet ist der fertige LEGO City Flugshow-Jet-Transporter 8 cm hoch, 34 cm lang und 17 cm breit
 - Neben einer gedruckten Bauanleitung gibt es zu dem Set in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets auch Instructions PLUS – eine interaktive Bauanleitung für junge Baumeister mit Dreh- und Vergrößerungsfunktionen
-- Als Zubehör sind ein Kaffeebecher, ein Werkzeugkasten, ein Schraubenschlüssel, ein Hammer, 2 Einwinkstäbe, ein Pilotenhelm und eine Atemmaske enthalten
 - Das spektakuläre LEGO City Bauset „Flugshow-Jet-Transporter“ (60289) enthält coole Fahrzeuge und lustige Figuren für fantasievolle Rollenspiele und ist ein tolles Geschenk für kleine Helden des Alltags
+- Mit aufgeladenem Jet ist der fertige LEGO City Flugshow-Jet-Transporter 8 cm hoch, 34 cm lang und 17 cm breit
+- Als Zubehör sind ein Kaffeebecher, ein Werkzeugkasten, ein Schraubenschlüssel, ein Hammer, 2 Einwinkstäbe, ein Pilotenhelm und eine Atemmaske enthalten
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08G4G3MQ5/?tag=tolees0ca-21)

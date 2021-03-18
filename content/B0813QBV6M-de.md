@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6M-de LEGO 21054 Architecture Das Weiße Haus Sammlung von...'
 sku: 'B0813QBV6M-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Jeux de construction','Jeux et Jouets','Jeux et jouets','Spielzeug','lego', ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Coffrets de figurines pour enfants','Costruzioni','Cuisine et Maison','Dekoartikel','Décoration de la maison','Décorations murales','Figurines pour enfants','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','Spielzeug','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','lego', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99
@@ -28,10 +28,10 @@ You've got [LEGO 21054 Architecture Das Weiße Haus  Sammlung von Sehenswürdigk
 
 ℹ️:
 
+- Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
+- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
+- Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
 - Das Sammlermodell kann zur genaueren Betrachtung der architektonischen Details leicht in drei Abschnitte unterteilt werden
 - Das Ausstellungsmodell des Weißen Hauses fängt das neoklassizistische Design und die Pracht dieser weltberühmten Residenz wunderschön ein
-- Genießen Sie den Bau einer echten amerikanischen Ikone: Das Weiße Haus, das seit 1800 von jedem Präsidenten der Vereinigten Staaten bewohnt wird, mit diesem klassischen Set für Erwachsene
-- Enthält klare Anweisungen, damit auch Lego Neulinge mit Zuversicht bauen können, und eine Broschüre im Couchtisch-Stil, die die Geschichte des Weißen Hauses erzählt
-- Mit Details wie der Executive Residence, dem West Wing, dem East Wing und den verbindenden Kolonnaden, dem Jacqueline Kennedy Garden und dem Rosengarten
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21)

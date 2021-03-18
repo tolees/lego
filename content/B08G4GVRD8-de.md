@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4GVRD8-de LEGO 71745 NINJAGO Lloyds Dschungel-Bike Bauset Spielzeug...'
 sku: 'B08G4GVRD8-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Jeux de construction','Jeux et Jouets','Jeux et jouets','Spielzeug','lego', ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Coffrets de figurines pour enfants','Costruzioni','Cuisine et Maison','Dekoartikel','Décoration de la maison','Décorations murales','Figurines pour enfants','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','Spielzeug','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','lego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
@@ -28,11 +28,11 @@ There's a deal [LEGO 71745 NINJAGO Lloyds Dschungel-Bike Bauset  Spielzeug Motor
 
 ℹ️:
 
-- Freue dich auf weitere NINJAGO Sets zur TV-Serie: Dschungeldrache (71746), Das Dorf der Wächter (71747) und Duell der Katamarane (71748)
 - Das Bike ist 16 cm hoch, 21 cm lang und 6 cm breit. Das ist die perfekte Größe, um zu Hause oder unterwegs mit dem Set zu spielen
-- Dieses Ninja-Spielset bietet Kindern ab 7 Jahren eine spannende Bauaufgabe und ist ein tolles Geschenk
-- Das Bike verfügt über eine funktionierende Federung und ein aufklappbares Cockpit für Island Lloyd. Der abnehmbare Flieger lässt sich in ein Surfbrett für Island Nya verwandeln
-- Ninja-Spielset mit 3 Minifiguren: Island Lloyd und Island Nya nehmen es mit dem Hüter des Grolls auf, der mit einem coolen Speer und einem Schild ausgerüstet ist
 - LEGO NINJAGO Lloyds Dschungel-Bike (71745) ist ein starkes 2-in-1-Spielset mit Ninja-Bike und Surfbrett. Die beiden Modelle bieten Kindern unzählige Spielmöglichkeiten
+- Dieses Ninja-Spielset bietet Kindern ab 7 Jahren eine spannende Bauaufgabe und ist ein tolles Geschenk
+- Ninja-Spielset mit 3 Minifiguren: Island Lloyd und Island Nya nehmen es mit dem Hüter des Grolls auf, der mit einem coolen Speer und einem Schild ausgerüstet ist
+- Das Bike verfügt über eine funktionierende Federung und ein aufklappbares Cockpit für Island Lloyd. Der abnehmbare Flieger lässt sich in ein Surfbrett für Island Nya verwandeln
+- Freue dich auf weitere NINJAGO Sets zur TV-Serie: Dschungeldrache (71746), Das Dorf der Wächter (71747) und Duell der Katamarane (71748)
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08G4GVRD8/?tag=tolees0ca-21)

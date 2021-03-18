@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '18.62 % deal for LEGO Millennium Falcon Costruzioni Picco'
-date: 2021-03-17 08:31:29
+date: 2021-03-18 08:57:42
 image: 'https://m.media-amazon.com/images/I/51ePA8PZNAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B075PT2JH9-it LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina...'
 sku: 'B075PT2JH9-it'
-tags: [ '355357031','Aeronautica e spazio per bambini','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ 'Building & Construction Toys','Costruzioni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 839.0 EUR
 currency: EUR
 price: 839.0
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21'
 descuento: '18.62'
-average: '873.890185185185'
+average: '873.633639705882'
 ---
 
 There's a deal [LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina Giocattolo 140  Multicolore  5702015869935](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21)  with  18.62 % discount, final price tag of  839.0 EUR (original: 1030.99 EUR) here:
@@ -28,8 +28,8 @@ There's a deal [LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina Giocatt
 
 ℹ️:
 
-- Dimensioni: 15x25x40 cm
 - Giocattoli e modellismo
+- Dimensioni: 15x25x40 cm
 - Marca: Lego
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21)

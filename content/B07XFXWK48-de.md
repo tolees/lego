@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFXWK48-de LEGO 75276 Star Wars Stormtrooper Helm Bauset...'
 sku: 'B07XFXWK48-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Jeux de construction','Jeux et Jouets','Jeux et jouets','Spielzeug','lego', ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Coffrets de figurines pour enfants','Costruzioni','Cuisine et Maison','Dekoartikel','Décoration de la maison','Décorations murales','Figurines pour enfants','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','Spielzeug','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','lego', ]
 actualPrice: 44.87 EUR
 currency: EUR
 price: 44.87
@@ -29,9 +29,9 @@ With a final price of 44.87 EUR (original: 59.99 EUR) you can find [LEGO 75276 S
 ℹ️:
 
 - Star Wars Fans können ihre Loyalität zum Imperium und ihr herausragendes Können als LEGO Baumeister unter Beweis stellen, indem sie diese faszinierend detailreiche Nachbildung eines Sturmtruppler-Helms bauen und präsentieren.
-- Die legendäre Form und die authentischen Details eines Sturmtruppler-Helms lassen sich mit LEGO Steinen und Grafiken zum Aufkleben nachbilden. Wird er als Schaustück präsentiert, werden Erinnerungen an Actionszenen aus dem Star Wars Film wach.
 - Das LEGO Star Wars Bauset und Sammlerstück „Stormtrooper Helm“ ist 18 cm hoch, 13 cm breit und 14 cm tief. Mit diesen Abmessungen macht es besonders großen Eindruck als Schaustück im Büro oder in den eigenen vier Wänden.
 - Dieser Helm gehört zu einer LEGO Star Wars Sammlerserie mit Baumodellen und Schaustücken, zu der auch das Sets „Boba Fett Helm“ (75277) gehört.
 - Dieser 647-teilige Modellbausatz eines Star Wars Charakters ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans ab 18 Jahren und bietet erfahrenen LEGO Baumeistern ein lohnendes Bauerlebnis.
+- Die legendäre Form und die authentischen Details eines Sturmtruppler-Helms lassen sich mit LEGO Steinen und Grafiken zum Aufkleben nachbilden. Wird er als Schaustück präsentiert, werden Erinnerungen an Actionszenen aus dem Star Wars Film wach.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)
