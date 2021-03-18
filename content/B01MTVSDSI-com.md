@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTVSDSI-com LEGO Star Wars Rey 75528 Building Kit 85 Piece'
 sku: 'B01MTVSDSI-com'
+tags: [ 'lego', ]
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

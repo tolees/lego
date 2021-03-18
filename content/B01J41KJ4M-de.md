@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41KJ4M-de LEGO Star Wars 75161 - Microfighter'
 sku: 'B01J41KJ4M-de'
+tags: [ 'lego', ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

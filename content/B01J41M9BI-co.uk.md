@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41M9BI-co.uk LEGO 71017 Minifigure Batman Movie'
 sku: 'B01J41M9BI-co.uk'
+tags: [ 'lego', ]
 actualPrice: 4.89 GBP
 currency: GBP
 price: 4.89

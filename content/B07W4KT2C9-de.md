@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'LEGO 21052 Architecture Dubai Modell  Sk at 30.01 % discount'
-date: 2021-03-17 12:43:51
+date: 2021-03-18 13:12:50
 image: 'https://m.media-amazon.com/images/I/512DjCNuiSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07W4KT2C9-de LEGO 21052 Architecture Dubai Modell Skyline-Kollektion...'
 sku: 'B07W4KT2C9-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W4KT2C9/?tag=tolees0ca-21'
 descuento: '30.01'
-average: '42.1605797101449'
+average: '42.1595965417867'
 ---
 
 With a final price of 41.99 EUR (original: 59.99 EUR) you can find [LEGO 21052 Architecture Dubai Modell  Skyline-Kollektion  Bauset für Sammler](https://www.amazon.de/dp/B07W4KT2C9/?tag=tolees0ca-21) with a  30.01 % discount here:

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003M2G0SY-co.uk LEGO Kids Star Wars Plastic Watch with Link Bracelet...'
 sku: 'B003M2G0SY-co.uk'
+tags: [ 'lego', ]
 actualPrice: 11.23 GBP
 currency: GBP
 price: 11.23

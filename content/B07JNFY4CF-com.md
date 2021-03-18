@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNFY4CF-com LEGO THE LEGO MOVIE 2 The Rexcelsior; 70839 Building Kit...'
 sku: 'B07JNFY4CF-com'
+tags: [ 'lego', ]
 actualPrice: 119.95 USD
 currency: USD
 price: 119.95

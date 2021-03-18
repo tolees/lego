@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00194JLWE-com Lego Star Wars Super Battle Droid Minifigure'
 sku: 'B00194JLWE-com'
+tags: [ 'lego', ]
 actualPrice: 9.75 USD
 currency: USD
 price: 9.75

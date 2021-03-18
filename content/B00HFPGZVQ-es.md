@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HFPGZVQ-es Lego Star Wars Chewbacca Key Light [With Battery]'
 sku: 'B00HFPGZVQ-es'
+tags: [ 'lego', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

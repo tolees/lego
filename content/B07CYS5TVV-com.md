@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYS5TVV-com LEGO Solo: A Star Wars Story MiniFigure - Corellian Hound...'
 sku: 'B07CYS5TVV-com'
+tags: [ 'lego', ]
 actualPrice: 2.99 USD
 currency: USD
 price: 2.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6PQ1P5-co.uk Shaw T-Shirts I Might Look Like I m Listening But In My...'
 sku: 'B07K6PQ1P5-co.uk'
+tags: [ 'lego', ]
 actualPrice: 6.75 GBP
 currency: GBP
 price: 6.75

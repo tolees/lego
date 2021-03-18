@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5VVV1H-com LEGO Harry Potter: Collection - Xbox One'
 sku: 'B07H5VVV1H-com'
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

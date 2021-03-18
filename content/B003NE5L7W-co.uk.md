@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003NE5L7W-co.uk Lego Storage Head Large Girl'
 sku: 'B003NE5L7W-co.uk'
+tags: [ 'lego', ]
 actualPrice: 16.99 GBP
 currency: GBP
 price: 16.99

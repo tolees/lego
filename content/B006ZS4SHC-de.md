@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZS4SHC-de LEGO Technic 9396 - Großer Helikopter'
 sku: 'B006ZS4SHC-de'
+tags: [ 'lego', ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

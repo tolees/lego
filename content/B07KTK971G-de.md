@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK971G-de LEGO Friends 41387 - Olivias Sommer-Herzbox Bauset'
 sku: 'B07KTK971G-de'
+tags: [ 'lego', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

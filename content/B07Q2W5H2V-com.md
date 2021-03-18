@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2W5H2V-com LEGO Overwatch Junkrat & Roadhog 75977 Building Kit...'
 sku: 'B07Q2W5H2V-com'
+tags: [ 'lego', ]
 actualPrice: 39.97 USD
 currency: USD
 price: 39.97

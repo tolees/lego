@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002I0IUM0-com LEGO Star Wars III: The Clone Wars'
 sku: 'B002I0IUM0-com'
+tags: [ 'lego', ]
 actualPrice: 3.22 USD
 currency: USD
 price: 3.22

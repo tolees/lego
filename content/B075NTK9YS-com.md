@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NTK9YS-com LEGO Disney Princess Ariel’s Royal Celebration Boat 41153...'
 sku: 'B075NTK9YS-com'
+tags: [ 'lego', ]
 actualPrice: 42.28 USD
 currency: USD
 price: 42.28

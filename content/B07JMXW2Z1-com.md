@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMXW2Z1-com LEGO Star Wars: The Force Awakens Duel on Starkiller Base...'
 sku: 'B07JMXW2Z1-com'
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

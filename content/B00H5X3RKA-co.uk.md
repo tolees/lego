@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H5X3RKA-co.uk Lego Legends of Chima Cragger Boys Pyjamas 4 Green Size 4'
 sku: 'B00H5X3RKA-co.uk'
+tags: [ 'lego', ]
 actualPrice: 3.99 GBP
 currency: GBP
 price: 3.99

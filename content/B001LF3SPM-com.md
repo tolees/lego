@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001LF3SPM-com LEGO Racers Desert Viper'
 sku: 'B001LF3SPM-com'
+tags: [ 'lego', ]
 actualPrice: 7.01 USD
 currency: USD
 price: 7.01

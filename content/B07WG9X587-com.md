@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WG9X587-com LEGO Minecraft The Villager Raid 21160 Building Toy...'
 sku: 'B07WG9X587-com'
+tags: [ 'lego', ]
 actualPrice: 47.99 USD
 currency: USD
 price: 47.99

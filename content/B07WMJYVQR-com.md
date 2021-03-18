@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMJYVQR-com LEGO Marvel Avengers Truck Take-Down 76143 Captain...'
 sku: 'B07WMJYVQR-com'
+tags: [ 'lego', ]
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

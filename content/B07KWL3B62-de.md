@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWL3B62-de Lego Wear Mädchen Lego Tec Boy LWJOSEFINE...'
 sku: 'B07KWL3B62-de'
+tags: [ 'lego', ]
 actualPrice: 43.86 EUR
 currency: EUR
 price: 43.86

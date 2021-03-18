@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJJGHL9-com LEGO Creator 3in1 Monster Burger Truck 31104 Building Kit...'
 sku: 'B07WJJGHL9-com'
+tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

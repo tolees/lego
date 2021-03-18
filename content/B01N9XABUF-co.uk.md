@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9XABUF-co.uk Lego Vampire Classic Costume Medium 7-8 Years'
 sku: 'B01N9XABUF-co.uk'
+tags: [ 'lego', ]
 actualPrice: 21.95 GBP
 currency: GBP
 price: 21.95

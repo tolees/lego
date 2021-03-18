@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P61PR44-com The Lego Movie 2: The Second Part 3D Blu-ray 3D + Blu Ray...'
 sku: 'B07P61PR44-com'
+tags: [ 'lego', ]
 actualPrice: 17.14 USD
 currency: USD
 price: 17.14

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1JZT5K-com LEGO Hidden Side Shrimp Shack Attack 70422 Augmented...'
 sku: 'B07Q1JZT5K-com'
+tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

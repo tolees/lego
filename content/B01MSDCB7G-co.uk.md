@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSDCB7G-co.uk LEGO Ninjago Movie 23480K Lego Kai Classic Costume 7-8...'
 sku: 'B01MSDCB7G-co.uk'
+tags: [ 'lego', ]
 actualPrice: 16.49 GBP
 currency: GBP
 price: 16.49

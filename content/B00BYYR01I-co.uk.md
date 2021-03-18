@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BYYR01I-co.uk LEGO R2D2 Key Light'
 sku: 'B00BYYR01I-co.uk'
+tags: [ 'lego', ]
 actualPrice: 7.73 GBP
 currency: GBP
 price: 7.73

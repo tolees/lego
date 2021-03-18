@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3H14RV-com LEGO Movie 2 The Video Game - Xbox One [Digital Code]'
 sku: 'B07N3H14RV-com'
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

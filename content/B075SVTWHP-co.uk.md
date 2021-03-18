@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075SVTWHP-co.uk LEGO 41335 Friends Heartlake Mia’s Tree House Playset...'
 sku: 'B075SVTWHP-co.uk'
+tags: [ 'lego', ]
 actualPrice: 17.84 GBP
 currency: GBP
 price: 17.84

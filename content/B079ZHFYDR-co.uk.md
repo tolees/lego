@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZHFYDR-co.uk LEGO DISK66267K Classic DC Costume Boys Robin Medium'
 sku: 'B079ZHFYDR-co.uk'
+tags: [ 'lego', ]
 actualPrice: 32.99 GBP
 currency: GBP
 price: 32.99

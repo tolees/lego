@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075M96T8V-com LEGO DUPLO Large Playground Brick Box 10864 Building...'
 sku: 'B075M96T8V-com'
+tags: [ 'lego', ]
 actualPrice: 40.75 USD
 currency: USD
 price: 40.75

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK9B4B-de LEGO 41362 - Friends Supermarkt von Heartlake City Bauset'
 sku: 'B07KTK9B4B-de'
+tags: [ 'lego', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

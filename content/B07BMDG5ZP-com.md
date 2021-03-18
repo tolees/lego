@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMDG5ZP-com LEGO Disney Pixar s The Incredibles - Nintendo Switch'
 sku: 'B07BMDG5ZP-com'
+tags: [ 'lego', ]
 actualPrice: 24.88 USD
 currency: USD
 price: 24.88

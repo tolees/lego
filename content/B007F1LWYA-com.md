@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007F1LWYA-com Lego Star Wars Han Solo Minifigure 7965'
 sku: 'B007F1LWYA-com'
+tags: [ 'lego', ]
 actualPrice: 11.99 USD
 currency: USD
 price: 11.99

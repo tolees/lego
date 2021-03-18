@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BZ8R9H2-com LEGO Star Wars Minifigure - Boba Fett Bounty Hunter with...'
 sku: 'B01BZ8R9H2-com'
+tags: [ 'lego', ]
 actualPrice: 25.0 USD
 currency: USD
 price: 25.0

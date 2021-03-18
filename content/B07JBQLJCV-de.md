@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBQLJCV-de LEGO 75971 - Overwatch Hanzo vs. Genji Bauset'
 sku: 'B07JBQLJCV-de'
+tags: [ 'lego', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

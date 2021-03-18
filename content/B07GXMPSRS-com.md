@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXMPSRS-com LEGO Classic Basic Brick Set 11002 Building Kit 300 Pieces'
 sku: 'B07GXMPSRS-com'
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

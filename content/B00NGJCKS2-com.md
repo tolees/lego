@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGJCKS2-com LEGO 42031 Cherry Picker'
 sku: 'B00NGJCKS2-com'
+tags: [ 'lego', ]
 actualPrice: 49.95 USD
 currency: USD
 price: 49.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW2F26T-com LEGO City Burger Bar Fire Rescue 60214 Building Kit 327...'
 sku: 'B07GW2F26T-com'
+tags: [ 'lego', ]
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

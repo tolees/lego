@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765CFDQK-de LEGO Ninjago 70645 Drachenmeister Cole'
 sku: 'B0765CFDQK-de'
+tags: [ 'lego', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTW32JR-co.uk LEGO 75934 avec 3 Figurines Dont et Jurassic World...'
 sku: 'B07KTW32JR-co.uk'
+tags: [ 'lego', ]
 actualPrice: 14.87 GBP
 currency: GBP
 price: 14.87

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078LHSB6P-com LEGO 5005233 Exclusives Hamleys Royal Guard Minifigure...'
 sku: 'B078LHSB6P-com'
+tags: [ 'lego', ]
 actualPrice: 16.35 USD
 currency: USD
 price: 16.35

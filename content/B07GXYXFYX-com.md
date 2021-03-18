@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXYXFYX-com LEGO THE LEGO MOVIE 2 Minifigures 71023 Building Kit 1...'
 sku: 'B07GXYXFYX-com'
+tags: [ 'lego', ]
 actualPrice: 2.33 USD
 currency: USD
 price: 2.33

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015FM29AQ-co.uk Lego 9 Count Coloured Gel Pens Assorted Colours'
 sku: 'B015FM29AQ-co.uk'
+tags: [ 'lego', ]
 actualPrice: 12.46 GBP
 currency: GBP
 price: 12.46

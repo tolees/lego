@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMB1LRY-com LEGO Trolls World Tour Volcano Rock City Concert 41254...'
 sku: 'B07WMB1LRY-com'
+tags: [ 'lego', ]
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

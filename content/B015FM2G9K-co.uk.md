@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015FM2G9K-co.uk LEGO DesignLE51504 West Design Junior Selection 9...'
 sku: 'B015FM2G9K-co.uk'
+tags: [ 'lego', ]
 actualPrice: 6.49 GBP
 currency: GBP
 price: 6.49

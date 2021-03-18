@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HJM0K4-de LEGO 8869 Power Functions Schalter für die Power...'
 sku: 'B003HJM0K4-de'
+tags: [ 'lego', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

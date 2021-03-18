@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KQ1JVU-co.uk LEGO Brick 1 Knob Stackable Storage Box Red 1.2 Litre'
 sku: 'B008KQ1JVU-co.uk'
+tags: [ 'lego', ]
 actualPrice: 5.95 GBP
 currency: GBP
 price: 5.95

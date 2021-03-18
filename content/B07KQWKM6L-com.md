@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQWKM6L-com Lego Background Birthday for Boy 7x5 Customized...'
 sku: 'B07KQWKM6L-com'
+tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008QW1ERC-com IQ Lego Star Wars - Yoda LED Keychain Light'
 sku: 'B008QW1ERC-com'
+tags: [ 'lego', ]
 actualPrice: 10.99 USD
 currency: USD
 price: 10.99

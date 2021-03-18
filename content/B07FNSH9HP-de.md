@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNSH9HP-de LEGO DUPLO 10908 - Flugzeug'
 sku: 'B07FNSH9HP-de'
+tags: [ 'lego', ]
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

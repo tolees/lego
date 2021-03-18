@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LPO6WF6-com LEGO Harry Potter Collection - PlayStation 4'
 sku: 'B01LPO6WF6-com'
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

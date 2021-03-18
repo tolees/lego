@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VNLCBV-com LEGO Friends Andrea s Speedboat Transporter 41316...'
 sku: 'B071VNLCBV-com'
+tags: [ 'lego', ]
 actualPrice: 20.0 USD
 currency: USD
 price: 20.0

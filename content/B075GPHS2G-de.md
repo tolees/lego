@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GPHS2G-de LEGO Minecraft 21140 - Hühnerstall Unterhaltungsspielzeug'
 sku: 'B075GPHS2G-de'
+tags: [ 'lego', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

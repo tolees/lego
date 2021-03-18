@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XMQKBTS-co.uk LEGO DC Comics UK 70916 "The Batwing" Construction Toy'
 sku: 'B06XMQKBTS-co.uk'
+tags: [ 'lego', ]
 actualPrice: 80.0 GBP
 currency: GBP
 price: 80.0

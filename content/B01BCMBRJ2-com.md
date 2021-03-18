@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BCMBRJ2-com LEGO Star Wars: The Force Awakens - Nintendo 3DS Standard...'
 sku: 'B01BCMBRJ2-com'
+tags: [ 'lego', ]
 actualPrice: 9.55 USD
 currency: USD
 price: 9.55

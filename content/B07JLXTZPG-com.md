@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLXTZPG-com LEGO Star Wars Minifigure - Luke Skywalker Bacta Tank...'
 sku: 'B07JLXTZPG-com'
+tags: [ 'lego', ]
 actualPrice: 3.99 USD
 currency: USD
 price: 3.99

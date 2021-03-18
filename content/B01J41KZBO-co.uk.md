@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41KZBO-co.uk LEGO 75524 Star Wars Chirrut Imwe'
 sku: 'B01J41KZBO-co.uk'
+tags: [ 'lego', ]
 actualPrice: 15.95 GBP
 currency: GBP
 price: 15.95

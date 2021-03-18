@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BN5BIQU-co.uk LEGO Doctor Who - Cyberman Minifigure'
 sku: 'B01BN5BIQU-co.uk'
+tags: [ 'lego', ]
 actualPrice: 4 GBP
 currency: GBP
 price: 4

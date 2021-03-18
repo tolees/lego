@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007NWQK34-com Lego Stormtrooper Torch'
 sku: 'B007NWQK34-com'
+tags: [ 'lego', ]
 actualPrice: 14.0 USD
 currency: USD
 price: 14.0

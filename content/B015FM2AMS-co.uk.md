@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015FM2AMS-co.uk West Design West DesignLE51475 Lego Junior Selection...'
 sku: 'B015FM2AMS-co.uk'
+tags: [ 'lego', ]
 actualPrice: 3.0 GBP
 currency: GBP
 price: 3.0

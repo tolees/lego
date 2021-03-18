@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK971G-co.uk LEGO 41387 Friends Olivia s Summer Heart Box Toy...'
 sku: 'B07KTK971G-co.uk'
+tags: [ 'lego', ]
 actualPrice: 6 GBP
 currency: GBP
 price: 6

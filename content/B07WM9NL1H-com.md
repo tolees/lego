@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WM9NL1H-com LEGO Disney Belle’s Storybook Adventures 43177 Creative...'
 sku: 'B07WM9NL1H-com'
+tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

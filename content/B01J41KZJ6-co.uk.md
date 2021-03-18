@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41KZJ6-co.uk LEGO 75525 Star Wars Baze Malbus'
 sku: 'B01J41KZJ6-co.uk'
+tags: [ 'lego', ]
 actualPrice: 15.75 GBP
 currency: GBP
 price: 15.75
