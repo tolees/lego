@@ -28,10 +28,10 @@ There's a deal [LEGO 70428 - Jacks Strandbuggy  Hidden Side  Bauset](https://www
 
 ℹ️:
 
+- Beinhaltet Jack, Parker und den besessenen Mechaniker Scott Francis als Minifiguren für den Kampf gegen Geisterboss Trucker Dale in einer gespenstischen digitalen Welt
 - Das fertige LEGO Hidden Side Modell Jacks Strandbuggy (70428) ist 10 cm hoch, 11 cm lang und 8 cm breit
-- Das Erlebnis wurde um die Multiplayer-Option erweitert. Kompatibel mit über 180 iOS- und Android-Geräten – Einzelheiten finden Sie in der Produktbeschreibung
 - Das Strandbuggy-Spielzeug ist so ausgestattet, dass es kreatives LEGO-Spiel mit einem digitalen Erlebnis für Augmented-Reality-Spiele im Einzel- oder Mehrspielermodus kombiniert
 - Der Buggy verwandelt sich, wenn er mit einem Smart-Gerät betrachtet wird, das mit der kostenlosen LEGO AR-App ausgestattet ist. Kinder können damit Rätsel lösen und Geister jagen
-- Beinhaltet Jack, Parker und den besessenen Mechaniker Scott Francis als Minifiguren für den Kampf gegen Geisterboss Trucker Dale in einer gespenstischen digitalen Welt
+- Das Erlebnis wurde um die Multiplayer-Option erweitert. Kompatibel mit über 180 iOS- und Android-Geräten – Einzelheiten finden Sie in der Produktbeschreibung
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W6QC6X7/?tag=tolees0ca-21)
