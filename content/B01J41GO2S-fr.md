@@ -28,12 +28,12 @@ There's a deal [LEGO Speed Champions - Mercedes-AMG GT3 - 75877- Jeu de Construc
 
 ℹ️:
 
-- Inclut une figurine de pilote de course Mercedes-AMG
-- Elle comprend des roues avec des pneus en caoutchouc, des jantes jaunes et des finitions noires, une prise d’air avant détachable, un aileron arrière ajustable et détachable, un pare-brise amovible et des couleurs de course et des autocollants de graphiques de course authentiques
-- Les accessoires incluent le casque du pilote de course Mercedes-AMG et une clé anglaise
-- Nombre de pièces : 196
-- Personnalise la spectaculaire AMG GT3 pour la course !
 - LEGO Speed Champions met les enfants aux commandes tandis quils conduisent des voitures de course telles que des McLaren, des Porsche et des Ferrari
+- Nombre de pièces : 196
 - Âges : 7-14
+- Personnalise la spectaculaire AMG GT3 pour la course !
+- Inclut une figurine de pilote de course Mercedes-AMG
+- Les accessoires incluent le casque du pilote de course Mercedes-AMG et une clé anglaise
+- Elle comprend des roues avec des pneus en caoutchouc, des jantes jaunes et des finitions noires, une prise d’air avant détachable, un aileron arrière ajustable et détachable, un pare-brise amovible et des couleurs de course et des autocollants de graphiques de course authentiques
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B01J41GO2S/?tag=tolees0d-21)

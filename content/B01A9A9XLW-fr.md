@@ -28,15 +28,15 @@ With a final price of 165.0 EUR (original: 199.2 EUR) you can find [LEGO Educati
 
 ℹ️:
 
-- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
-- Compétences de collaboration et de présentation
 - Outil de documentation intégré pour apporter un support informatif aux projets : images, captures décran, vidéos et texte
-- Disponible sur ordinateur et sur tablette
-- Esprit critique et résolution des problèmes ACV :
-- Implication des élèves dans les domaines scientifiques en les rendant tangibles et pertinents
-- Évaluation intégrée
 - Compétences de base en programmation
-- Observation, modélisation et conception de solutions
+- Compétences de collaboration et de présentation
+- Esprit critique et résolution des problèmes ACV :
+- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
+- Disponible sur ordinateur et sur tablette
+- Implication des élèves dans les domaines scientifiques en les rendant tangibles et pertinents
 - Principales valeurs pédagogiques :
+- Évaluation intégrée
+- Observation, modélisation et conception de solutions
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B01A9A9XLW/?tag=tolees0d-21)
