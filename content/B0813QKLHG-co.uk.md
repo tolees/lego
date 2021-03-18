@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QKLHG-co.uk LEGO 31200 Art Star Wars The Sith Collectors DIY Poster...'
 sku: 'B0813QKLHG-co.uk'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 91.99 GBP
 currency: GBP
 price: 91.99
@@ -28,11 +28,11 @@ You've got [LEGO 31200 Art Star Wars The Sith Collectors DIY Poster  Wall Décor
 
 ℹ️:
 
-- Features 3-in-1 rebuildable portrait set : in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
-- With the complementary Soundtrack, you can dive deep into the build with fun Star Wars-related stories and interviews
-- This LEGO art piece measures over 15.5 inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be displayed
-- 1 Picture - 4 options; pictured models can not be built simultaneously
-- Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, new hanging element and piece separator
 - When combined with another 2 sets to create Darth Vader wall art it makes a great gift for creative builders and Star Wars fans
+- This LEGO art piece measures over 15.5 inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be displayed
+- Features 3-in-1 rebuildable portrait set : in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
+- 1 Picture - 4 options; pictured models can not be built simultaneously
+- With the complementary Soundtrack, you can dive deep into the build with fun Star Wars-related stories and interviews
+- Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, new hanging element and piece separator
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QKLHG/?tag=tolees0a-21)

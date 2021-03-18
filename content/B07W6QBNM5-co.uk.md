@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6QBNM5-co.uk LEGO 60258 City Nitro Wheels Tuning Workshop Building...'
 sku: 'B07W6QBNM5-co.uk'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 61.99 GBP
 currency: GBP
 price: 61.99
@@ -28,10 +28,10 @@ You've got [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set with Tow T
 
 ℹ️:
 
-- Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
-- Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more
-- Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
-- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
 - Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
+- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
+- Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
+- Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more
+- Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=tolees0a-21)

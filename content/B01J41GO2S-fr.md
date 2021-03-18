@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41GO2S-fr LEGO Speed Champions - Mercedes-AMG GT3 - 75877- Jeu de...'
 sku: 'B01J41GO2S-fr'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9
@@ -30,10 +30,10 @@ There's a deal [LEGO Speed Champions - Mercedes-AMG GT3 - 75877- Jeu de Construc
 
 - Inclut une figurine de pilote de course Mercedes-AMG
 - Elle comprend des roues avec des pneus en caoutchouc, des jantes jaunes et des finitions noires, une prise d’air avant détachable, un aileron arrière ajustable et détachable, un pare-brise amovible et des couleurs de course et des autocollants de graphiques de course authentiques
-- LEGO Speed Champions met les enfants aux commandes tandis quils conduisent des voitures de course telles que des McLaren, des Porsche et des Ferrari
-- Personnalise la spectaculaire AMG GT3 pour la course !
-- Nombre de pièces : 196
-- Âges : 7-14
 - Les accessoires incluent le casque du pilote de course Mercedes-AMG et une clé anglaise
+- Nombre de pièces : 196
+- Personnalise la spectaculaire AMG GT3 pour la course !
+- LEGO Speed Champions met les enfants aux commandes tandis quils conduisent des voitures de course telles que des McLaren, des Porsche et des Ferrari
+- Âges : 7-14
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B01J41GO2S/?tag=tolees0d-21)

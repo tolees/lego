@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNN147J-fr LEGO® Architecture Paris Jeu de construction 12 Ans et...'
 sku: 'B07FNN147J-fr'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego','lego®', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Robots électroniques pour enfants','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego','lego®', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9
@@ -28,10 +28,10 @@ With a final price of 39.9 EUR (original: 49.99 EUR) you can find [LEGO® Archit
 
 ℹ️:
 
-- Mesure plus de 22 cm de haut, 28 cm de large et 11 cm de profondeur
 - 649 pièces pour les filles et les garçons de 12 ans et plus
-- Inclut une sélection de monuments célèbres de Paris, dont l’Arc de Triomphe, les Champs-Elysées, la Tour Montparnasse, le Grand Palais, la Tour Eiffel et le Louvre, ainsi que des zones avec de l’herbe et des arbres
 - Les ensembles LEGO Architecture sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Mesure plus de 22 cm de haut, 28 cm de large et 11 cm de profondeur
+- Inclut une sélection de monuments célèbres de Paris, dont l’Arc de Triomphe, les Champs-Elysées, la Tour Montparnasse, le Grand Palais, la Tour Eiffel et le Louvre, ainsi que des zones avec de l’herbe et des arbres
 - Construisez les principaux monuments emblématiques de la ville Paris
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07FNN147J/?tag=tolees0d-21)

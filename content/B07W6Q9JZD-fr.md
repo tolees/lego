@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6Q9JZD-fr LEGO Star Wars Coffret de bataille Sith Troopers avec...'
 sku: 'B07W6Q9JZD-fr'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Robots électroniques pour enfants','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22
@@ -28,10 +28,10 @@ With a final price of 12.22 EUR (original: 17.25 EUR) you can find [LEGO Star Wa
 
 ℹ️:
 
-- Ajoutez Microfighter Y-wing de la Résistance 75263 pour les combats entre le Premier Ordre et la Résistance ou Microfighter Navette de Kylo Ren 75263 pour plus de plaisir
-- Les enfants peuvent fixer un fusil blaster à la partie avant du speeder pour être prêts à tirer à tout moment et mener les troopers dans le territoire ennemi pour livrer une bataille
 - Un speeder de bataille avec 2 places pour figurines dans le cockpit, 2 moteurs blaster bleus et le fuselage gris-bleu-noir
 - Comprend 4 figurines : Un officier du Premier Ordre, un Sith trooper, et 2 Jet troopers Sith équipés de 4 canons blaster à tenons et de 2 jet-packs
+- Les enfants peuvent fixer un fusil blaster à la partie avant du speeder pour être prêts à tirer à tout moment et mener les troopers dans le territoire ennemi pour livrer une bataille
 - Le guide Instructions PLUS, disponibles dans lappli LEGO Life, comporte des outils de zoom, de rotation et de visualisation pour accompagner le processus de construction de versions réelles
+- Ajoutez Microfighter Y-wing de la Résistance 75263 pour les combats entre le Premier Ordre et la Résistance ou Microfighter Navette de Kylo Ren 75263 pour plus de plaisir
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07W6Q9JZD/?tag=tolees0d-21)

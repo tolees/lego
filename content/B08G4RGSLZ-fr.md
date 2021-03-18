@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4RGSLZ-fr LEGO Technic 42124 Buggy tout-terrain à piloter avec...'
 sku: 'B08G4RGSLZ-fr'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Robots électroniques pour enfants','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99
@@ -28,12 +28,12 @@ You've got [LEGO Technic 42124 Buggy tout-terrain à piloter avec CONTROL+ App  
 
 ℹ️:
 
-- Les couleurs et les autocollants inspirés des années 80 affichent un style délicieusement rétro.
-- Ce buggy tout-terrain constitue un formidable cadeau. Et parce que les adultes nostalgiques de voitures télécommandées classiques des années 80 vont l’adorer, ce modèle offre une expérience que toutes les générations pourront partager.
 - Le kit de construction LEGO Buggy tout-terrain (42124) offre des heures de jeu. Ce buggy tout-terrain télécommandé regorge de fonctions inspirées des voitures télécommandées originales des années 80.
-- Le buggy tout-terrain télécommandé mesure plus de 13 cm de haut au niveau du toit, 19 cm de haut (antenne incluse), 28 cm de long et 16 cm de large.
 - Les pilotes effectuent facilement des figures grâce aux suspensions avant et arrière de la voiture, à ses pneus massifs et à son avant incliné.
 - L’application gratuite CONTROL+ à télécharger ajoute une nouvelle dimension à ce buggy télécommandé. Cette application permet de contrôler la voiture, de réaliser des cascades et de débloquer des défis, des effets sonores et plus encore.
+- Ce buggy tout-terrain constitue un formidable cadeau. Et parce que les adultes nostalgiques de voitures télécommandées classiques des années 80 vont l’adorer, ce modèle offre une expérience que toutes les générations pourront partager.
+- Les couleurs et les autocollants inspirés des années 80 affichent un style délicieusement rétro.
+- Le buggy tout-terrain télécommandé mesure plus de 13 cm de haut au niveau du toit, 19 cm de haut (antenne incluse), 28 cm de long et 16 cm de large.
 - Pour bénéficier de toutes les caractéristiques de ce jouet contrôlé via une application, 6 piles LR6/AA (non fournies) sont nécessaires.
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B08G4RGSLZ/?tag=tolees0d-21)

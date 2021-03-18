@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R7ZPX-fr LEGO 31199 Art Iron Man de Marvel Studios Cadre artistique...'
 sku: 'B0813R7ZPX-fr'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99
@@ -28,10 +28,10 @@ With a final price of 101.99 EUR (original: 119.99 EUR) you can find [LEGO 31199
 
 ℹ️:
 
-- Ce set LEGO de 3 156 pièces permet à chacun dexprimer sa créativité. Il inclut 9 plaques support pour décoration murale, une plaque signature de Marvel Studios, un cadre LEGO en briques, un nouvel élément de suspension et un séparateur de pièces pour rendre la reconstruction plus facile
 - La création d’un tableau LEGO unique représentant l’une des armures MARK III, HULKBUSTER MARK I ou MARK LXXXV d’Iron Man constitue un moment de détente. La bande son immersive permet de découvrir des informations surprenantes au fur et à mesure de la construction
 - Ce set 3-en-1 LEGO Art mesure plus de 40 cm de côté. Il peut être exposé sur un mur ou une étagère pour en faire ressortir chaque détail. Il constitue un formidable cadeau à soffrir ou à offrir à tout constructeur créatif passionné par les super-héros ou Iron Man
 - Ce kit LEGO unique permet aux amateurs dexprimer leur passion pour la construction et les super-héros. Afin de repousser vraiment les limites de la créativité, les passionnés peuvent acheter et combiner 3 sets pour créer un fabuleux triptyque sur le thème d’Iron Man à exposer à la maison ou au bureau
+- Ce set LEGO de 3 156 pièces permet à chacun dexprimer sa créativité. Il inclut 9 plaques support pour décoration murale, une plaque signature de Marvel Studios, un cadre LEGO en briques, un nouvel élément de suspension et un séparateur de pièces pour rendre la reconstruction plus facile
 - Ce set LEGO Art Iron Man de Marvel Studios (31199) inclut un modèle et 3 options de construction. Chacun peut exposer sa version préférée de l’armure d’Iron Man sur un mur ou une étagère après avoir savouré des moments de qualité consacrés à sa construction
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B0813R7ZPX/?tag=tolees0d-21)

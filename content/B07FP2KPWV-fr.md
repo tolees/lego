@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP2KPWV-fr LEGO® Technic L hélicoptère de secours Jeu de construction...'
 sku: 'B07FP2KPWV-fr'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego','lego®', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Robots électroniques pour enfants','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego','lego®', ]
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5
@@ -31,7 +31,7 @@ You've got [LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans
 - Comprend des rotors qui tournent, des portes latérales et arrière qui s’ouvrent, un treuil qui fonctionne et une civière de secours.
 - Construisez lhélicoptère de secours LEGO Technic 2-in-1.
 - 325 pièces pour les filles et les garçons de 8 ans et plus.
-- L’hélicoptère de secours mesure plus de 12 cm de haut, 29 cm de long et 23 cm de large. L’avion futuriste mesure plus de 7 cm de haut, 27 cm de long et 30 cm de large.
 - Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- L’hélicoptère de secours mesure plus de 12 cm de haut, 29 cm de long et 23 cm de large. L’avion futuriste mesure plus de 7 cm de haut, 27 cm de long et 30 cm de large.
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21)

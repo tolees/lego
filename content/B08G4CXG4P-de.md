@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4CXG4P-de LEGO 75302 Star Wars Imperial Shuttle Bauset mit Luke...'
 sku: 'B08G4CXG4P-de'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Coffrets de figurines pour enfants','Costruzioni','Decorazioni per interni','Figurines pour enfants','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Coffrets de figurines pour enfants','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Figurines pour enfants','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Robots électroniques pour enfants','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9
@@ -28,11 +28,11 @@ With a final price of 64.9 EUR (original: 79.99 EUR) you can find [LEGO 75302 St
 
 ℹ️:
 
-- Baue das elegante Imperial Shuttle (75302) als Modell aus LEGO Steinen. Das Set lässt Kinder Actionszenen aus der klassischen Star Wars Trilogie nachstellen
-- Das Imperial Shuttle ist 25 cm hoch, 24 cm lang und 35 cm breit. Zwischen den spannenden Abenteuern werden Kinder das Modell gerne im Kinderzimmer ausstellen
 - Das Imperial Shuttle verfügt über ein aufklappbares Minifigur-Cockpit, eine aufklappbare Hauptkabine für 2 LEGO Minifiguren, Schwenkflügel für den Flug- und Landemodus sowie 2 Shooter
-- Das fantastische Modell ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Star Wars Fans ab 9 Jahren. Das Set bietet riesigen Bau- und Spielspaß – auch zusammen mit Verwandten oder Freunden
 - Beinhaltet 3 LEGO Minifiguren. Darth Vader und Luke Skywalker, beide mit Lichtschwert, sowie ein Imperialer Offizier mit Blasterpistole sorgen für Spaß und kreatives Spielen
 - Ist das Set für einen jungen Star Wars Fan gedacht, der noch kein LEGO Modell gebaut hat? Kein Problem. Dem Set liegt eine einfache Bauanleitung bei, damit Kinder das Modell mit dem Selbstbewusstsein eines Jedi bauen können
+- Das Imperial Shuttle ist 25 cm hoch, 24 cm lang und 35 cm breit. Zwischen den spannenden Abenteuern werden Kinder das Modell gerne im Kinderzimmer ausstellen
+- Das fantastische Modell ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Star Wars Fans ab 9 Jahren. Das Set bietet riesigen Bau- und Spielspaß – auch zusammen mit Verwandten oder Freunden
+- Baue das elegante Imperial Shuttle (75302) als Modell aus LEGO Steinen. Das Set lässt Kinder Actionszenen aus der klassischen Star Wars Trilogie nachstellen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4CXG4P/?tag=tolees0ca-21)

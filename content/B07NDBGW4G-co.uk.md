@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDBGW4G-co.uk LEGO 42100 Technic Control+ Liebherr R 9800 Excavator...'
 sku: 'B07NDBGW4G-co.uk'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ '355357031','Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Casa e cucina','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Decorazioni per interni','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Frontoni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 299.99 GBP
 currency: GBP
 price: 299.99
@@ -28,10 +28,10 @@ There's a deal [LEGO 42100 Technic Control+ Liebherr R 9800 Excavator App Contro
 
 ℹ️:
 
-- One-touch, multi-function control: connect to hubs, ensuring super-precisionvia your smart device with 4 alternative control screens
-- Operated via the intuitive CONTROL+ app, powered by 2 Bluetooth-controlled Smart Hubs with 7 (3 XL and 4 L) motors to enable precise movements
-- Drive forward, reverse, steer, rotate the superstructure, extend, raise and lower the boom, open and tilt the bucket and get model feedback
-- Smart Hubs feature Low Energy (BLE) connectivity, activation button, 6 axis sensor (3 gyro/3 accelerometer sensors) and 4 connectivity ports
 - Use pre-set commands or record the model’s actions to create complex sequences of movements and complete challenges to unlock reward badges
+- Drive forward, reverse, steer, rotate the superstructure, extend, raise and lower the boom, open and tilt the bucket and get model feedback
+- Operated via the intuitive CONTROL+ app, powered by 2 Bluetooth-controlled Smart Hubs with 7 (3 XL and 4 L) motors to enable precise movements
+- One-touch, multi-function control: connect to hubs, ensuring super-precisionvia your smart device with 4 alternative control screens
+- Smart Hubs feature Low Energy (BLE) connectivity, activation button, 6 axis sensor (3 gyro/3 accelerometer sensors) and 4 connectivity ports
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)

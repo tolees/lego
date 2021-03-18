@@ -1,38 +1,37 @@
 ---
 layout: post
-title: 'Discount of 18.75 % for LEGO Star Wars TM - Halcón Milenario  Ju'
-date: 2021-02-23 21:07:25
-image: 'https://m.media-amazon.com/images/I/51zyvQhbHVL._SL400_.jpg'
+title: 'Discount of 18.75 % for LEGO 75257 Star Wars Halcón Milenario  R'
+date: 2021-03-18 02:14:02
+image: 'https://m.media-amazon.com/images/I/51phuzu1hyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07NDB4Q7S-es LEGO Star Wars TM - Halcón Milenario Juguete de...'
+author: 'tole.es'
+slug: 'B07NDB4Q7S-es LEGO 75257 Star Wars Halcón Milenario Regalo para Día del...'
 sku: 'B07NDB4Q7S-es'
-tags: [ 'lego', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO City','Posters','Produkte','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99
 comparePrice: 159.99 EUR
-prodname: 'LEGO Star Wars TM - Halcón Milenario  Juguete de Construcción de Nave Espacial  Incluye Minifiguras de Finn  Chewbacca  Lando  C-3PO  R2-D2 y otros  Inspirado en La Guerra de Las Galaxias  75257 '
+prodname: 'LEGO 75257 Star Wars Halcón Milenario  Regalo para Día del Padre  Set de Construcción de Nave Espacial con Mini Figuras'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21'
 descuento: '18.75'
-average: '138.084887780548'
+average: '139.477208237988'
 ---
 
-You've got [LEGO Star Wars TM - Halcón Milenario  Juguete de Construcción de Nave Espacial  Incluye Minifiguras de Finn  Chewbacca  Lando  C-3PO  R2-D2 y otros  Inspirado en La Guerra de Las Galaxias  75257 ](https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21) with a  18.75 % discount, with final price of 129.99 EUR (original: 159.99 EUR) at the following link:
+You've got [LEGO 75257 Star Wars Halcón Milenario  Regalo para Día del Padre  Set de Construcción de Nave Espacial con Mini Figuras](https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21) with a  18.75 % discount, with final price of 129.99 EUR (original: 159.99 EUR) at the following link:
 
-[![LEGO Star Wars TM - Halcón Milenario  Ju](https://m.media-amazon.com/images/I/51zyvQhbHVL._SL400_.jpg)](https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21)
+[![LEGO 75257 Star Wars Halcón Milenario  R](https://m.media-amazon.com/images/I/51phuzu1hyL._SL400_.jpg)](https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21)
 
 ℹ️:
 
-- Por fuera, el modelo LEGO Star Wars Halcón Milenario está equipado con torretas defensivas superior e inferior giratorias (en la torreta inferior caben 2 minifiguras), 2 cañones automáticos, una rampa descendente y una cabina abatible con espacio para 2 minifiguras
-- Armas incluidas: ballesta que dispara de Chewbacca, bláster de Finn y bláster de Lando
-- Usa tu imaginación para interpretar las escenas de la película Star Wars: El Ascenso de Skywalker con el legendario carguero Corelliano
-- Este set LEGO Star Wars es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio coleccionable inspirado en el universo Star Wars
-- La nave estelar mide más de 14 cm de altura, 44 cm de longitud y 32 cm de ancho
-- El interior incluye numerosos detalles: área de carga con 2 contendedores, ordenador de navegación con silla giratoria, sofá y tablero holográfico de Dejarik, cocina, litera, compartimento de contrabando oculto e hiperpropulsor con herramientas para hacer reparaciones
+- El interior incluye numerosos detalles: área de carga con 2 contenedores, ordenador de navegación con silla giratoria, sofá y tablero holográfico de Dejarik
+- LEGO Star Wars Halcón Milenario está equipado con torretas defensivas superior e inferior giratorias, 2 cañones automáticos, una rampa descendente y una cabina abatible
+- Este set de construcción de nave espacial incluye también las armas: ballesta que dispara de Chewbacca, bláster de Finn y bláster de Lando
+- Un gratificante proyecto de construcción para ti, o un regalo especial para Día del Padre, cumpleaños o de Navidad para esa persona especial
+- Usa tu imaginación para interpretar las escenas de la película Star Wars; el Ascenso de Skywalker con este legendario nave espacial con mini figuras
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21)
