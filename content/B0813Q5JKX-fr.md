@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '15.00 % deal for LEGO Star Wars AT-AT- Jeu de constructio'
-date: 2021-03-17 08:36:26
+date: 2021-03-18 09:05:30
 image: 'https://m.media-amazon.com/images/I/51jwnyV-gCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813Q5JKX-fr LEGO Star Wars AT-AT- Jeu de construction d’un superbe...'
 sku: 'B0813Q5JKX-fr'
-tags: [ '355357031','Aeronautica e spazio per bambini','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
+tags: [ 'Jeux de construction','lego', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813Q5JKX/?tag=tolees0d-21'
 descuento: '15.00'
-average: '146.661357702349'
+average: '146.605922077921'
 ---
 
 There's a deal [LEGO Star Wars AT-AT- Jeu de construction d’un superbe marcheur de la bataille de Hoth  incluant le personnage de Luke Skywalker  1 267 pièces  75288](https://www.amazon.fr/dp/B0813Q5JKX/?tag=tolees0d-21)  with  15.00 % discount, final price tag of  135.99 EUR (original: 159.99 EUR) here:
@@ -28,15 +28,15 @@ There's a deal [LEGO Star Wars AT-AT- Jeu de construction d’un superbe marcheu
 
 ℹ️:
 
+- Un modèle de marcheur AT-AT à construire pour le plus grand plaisir des fans de la trilogie Star Wars originale
+- Fantastique cadeau d’anniversaire ou de Noël pour les enfants de 10 ans et plus
+- Ce jouet à construire sans piles stimule l’imagination des enfants
 - Inclut des instructions étape par étape pour réaliser cette construction difficile
+- Fusils à ressort, treuil, speeder bike et bien plus encore, pour un jeu réaliste
 - Il y en a pour tous les âges dans l’excellentissime gamme LEGO Star Wars
 - Pas besoin d’avoir recours à la Force avec les briques LEGO – elles s’assemblent et se séparent facilement
-- 6 figurines LEGO – dont Luke Skywalker – et des armes pour une action épique
-- Ce jouet à construire sans piles stimule l’imagination des enfants
-- Fantastique cadeau d’anniversaire ou de Noël pour les enfants de 10 ans et plus
-- Fusils à ressort, treuil, speeder bike et bien plus encore, pour un jeu réaliste
-- Un modèle de marcheur AT-AT à construire pour le plus grand plaisir des fans de la trilogie Star Wars originale
 - Les composants LEGO sont testés pour répondre aux normes de sécurité galactiques les plus élevées
 - Un modèle emblématique à construire et à exposer lorsqu’il est à larrêt entre deux combats
+- 6 figurines LEGO – dont Luke Skywalker – et des armes pour une action épique
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B0813Q5JKX/?tag=tolees0d-21)

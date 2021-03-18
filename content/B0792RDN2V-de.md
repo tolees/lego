@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792RDN2V-de LEGO 75954 Harry Potter Die große Halle von Hogwarts...'
 sku: 'B0792RDN2V-de'
-tags: [ '249195031','Accessoires de décoration intérieure','Adaptadores de red','Adaptadores de red USB','Ameublement et décoration','Bauspielzeug & Konstruktionsspielzeug','Botas para niña','Botas para niño','Building & Construction Toys','Computer','Computer & Zubehör','Costruzioni','Cuisine et Maison','Dekoartikel','Dispositivos de red','Décoration de la maison','Décorations murales','Giochi e giocattoli','Informática','Interne Komponenten & Hardware','Jeux de construction','Jeux et Jouets','Jeux et jouets','Komponenten & Ersatzteile','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Spielzeug','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','Zapatos','Zapatos para niñas pequeñas','Zapatos para niños pequeños','Zapatos y complementos','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9
@@ -28,10 +28,10 @@ There's a deal [LEGO 75954 Harry Potter Die große Halle von Hogwarts  Geschenks
 
 ℹ️:
 
-- Die große Halle ist mit Tischen, Lehrertisch mit Stühlen, Kamin, 2 doppelseitigen Hausbannern und 4 „schwebenden“ Kerzen, Lebensmitteln (Truthahnkeule, Eiscreme und einem kleinen Kuchen), Besen, einem Pokal und einem Teekessel ausgestattet.
 - Die große Halle von Hogwarts ist über 37 cm hoch, 30 cm breit und 18 cm tief.
 - Die Zubehörteile beinhalten 7 Zauberstäbe, 3 Bechergläser, einen Schirm, eine Laterne, einen Besen, den Sprechenden Hut, Kessel, Zaubertränke, Kerzen, 2 Hexenbesen, Lebensmittel, einen Pokal, einen Teekessel, Truhe und eine Spinne.
-- Der vierstöckige Turm verfügt im Erdgeschoss über eine bewegliche Wendeltreppe, ein Zaubertränke-Klassenzimmer, ein Schatzzimmer mit Truhe und ein Turmzimmer mit dem Spiegel Nerhegeb mit austauschbaren Bildern und Schlafplatz für Fawkes.
 - Drehe Quirinus Quirrells Kopf und verwandle ihn so in Lord Voldemort!
+- Der vierstöckige Turm verfügt im Erdgeschoss über eine bewegliche Wendeltreppe, ein Zaubertränke-Klassenzimmer, ein Schatzzimmer mit Truhe und ein Turmzimmer mit dem Spiegel Nerhegeb mit austauschbaren Bildern und Schlafplatz für Fawkes.
+- Die große Halle ist mit Tischen, Lehrertisch mit Stühlen, Kamin, 2 doppelseitigen Hausbannern und 4 „schwebenden“ Kerzen, Lebensmitteln (Truthahnkeule, Eiscreme und einem kleinen Kuchen), Besen, einem Pokal und einem Teekessel ausgestattet.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B0792RDN2V/?tag=tolees0ca-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DFM7HVK-co.uk LEGO 42114 Technic 6x6 Volvo Articulated Hauler Truck...'
 sku: 'B00DFM7HVK-co.uk'
-tags: [ '249195031','Accessoires de décoration intérieure','Adaptadores de red','Adaptadores de red USB','Ameublement et décoration','Bauspielzeug & Konstruktionsspielzeug','Botas para niña','Botas para niño','Building & Construction Toys','Computer','Computer & Zubehör','Costruzioni','Cuisine et Maison','Dekoartikel','Dispositivos de red','Décoration de la maison','Décorations murales','Giochi e giocattoli','Informática','Interne Komponenten & Hardware','Jeux de construction','Jeux et Jouets','Jeux et jouets','Komponenten & Ersatzteile','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Repeater','Router','Spielzeug','Toy Types','Toys & Games','Toys Store','Wohnaccessoires & Deko','Zapatos','Zapatos para niñas pequeñas','Zapatos para niños pequeños','Zapatos y complementos','lego', ]
+tags: [ 'Building & Construction Toys','lego', ]
 actualPrice: 169.99 GBP
 currency: GBP
 price: 169.99
@@ -28,11 +28,11 @@ With a final price of 169.99 GBP (original: 229.99 GBP) you can find [LEGO 42114
 
 ℹ️:
 
-- Building can start without batteries however 6 x AA 1.5 V batteries (not included) are required to enjoy all the cool features of the truck
+- Undertake this rewarding building challenge with loads of authentic details to discover, and bring the construction world to life
 - Download the LEGO Technic CONTROL+ app and explore the different control screens, challenges, achievements and exclusive content
-- Build your very own remote-controlled model version of the classic A60H Articulated Hauler from Volvo for epic construction role play
+- Building can start without batteries however 6 x AA 1.5 V batteries (not included) are required to enjoy all the cool features of the truck
 - Control the 2,193-piece mighty machine using the app, tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
 - The truck is powered by 1 large angular position motor, 1 XL motor and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
-- Undertake this rewarding building challenge with loads of authentic details to discover, and bring the construction world to life
+- Build your very own remote-controlled model version of the classic A60H Articulated Hauler from Volvo for epic construction role play
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21)

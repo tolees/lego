@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3VCS2Z-co.uk LEGO Creator 10269 Harley Davidson Fatboy Expert Series'
 sku: 'B07G3VCS2Z-co.uk'
-tags: [ 'Building & Construction Toys','Costruzioni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Toy Types','Toys & Games','Toys Store','lego','lego creator', ]
+tags: [ 'Building & Construction Toys','lego','lego creator', ]
 actualPrice: 80.18 GBP
 currency: GBP
 price: 80.18
@@ -28,7 +28,7 @@ You've got [LEGO Creator 10269 Harley Davidson Fatboy Expert Series](https://www
 
 ℹ️:
 
-- Secret
 - Confidential.
+- Secret
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07G3VCS2Z/?tag=tolees0a-21)

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Discount of 27.86 % for LEGO Star Wars - Imperial AT-Hauler  Jug'
-date: 2021-03-17 02:22:08
+date: 2021-03-18 09:01:52
 image: 'https://m.media-amazon.com/images/I/51qnRkoh0kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0792QCD6Z-es LEGO Star Wars - Imperial AT-Hauler Juguete de La Guerra...'
 sku: 'B0792QCD6Z-es'
-tags: [ 'lego','lego star wars', ]
+tags: [ 'Juegos de construcción para niños','lego','lego star wars', ]
 actualPrice: 82.95 EUR
 currency: EUR
 price: 82.95
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21'
 descuento: '27.86'
-average: '83.8779523809525'
+average: '83.8691981132077'
 ---
 
 You've got [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Galaxias con Nave Espacial Basado en la Película de Han Solo  Incluye 5 Minifiguras  75219 ](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) with a  27.86 % discount, with final price of 82.95 EUR (original: 114.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Gal
 
 ℹ️:
 
-- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
-- Incluye 5 minifiguras lego: qi’ra, val, rio durant y 2 guardias de dryden
 - Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
 - Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), ¡y organiza el asalto ferroviario definitivo a toda velocidad!
 - Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
+- Incluye 5 minifiguras lego: qi’ra, val, rio durant y 2 guardias de dryden
+- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
