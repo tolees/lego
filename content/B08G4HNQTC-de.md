@@ -28,12 +28,12 @@ You've got [LEGO 71738 NINJAGO Legacy Zanes Titan-Mech Ninja Bauset mit Jay als 
 
 ℹ️:
 
-- Das LEGO NINJAGO Legacy Spielset „Zanes Titan-Mech“ (71738) ist eine Version des beweglichen Mechs, der eine Kettensäge schwingt, um Kindern spannende Action zu ermöglichen
 - Das Action-Spielset enthält 4 Minifiguren aus der 5. Staffel der NINJAGO TV-Serie – die Ninja Jay Legacy und Zane sowie die Geisterkämpfer Ghoultar und Seelenschütze mit cooler Ausrüstung
+- Dieses 840-teilige Ninja-Spielset bietet Fans ab 9 Jahren ein lohnendes Bauerlebnis und ist ein tolles Geschenk für Kinder, die gerne mit LEGO Steinen bauen und Ninja-Action lieben
+- Der Spielzeug-Mech verfügt über bewegliche Arme und Beine sowie 2 Shooter und hält ein Schwert und eine Kettensäge in den Händen, um packende Abenteuer zu ermöglichen
+- Das LEGO NINJAGO Legacy Spielset „Zanes Titan-Mech“ (71738) ist eine Version des beweglichen Mechs, der eine Kettensäge schwingt, um Kindern spannende Action zu ermöglichen
+- Weitere besondere goldene Minifiguren zum Sammeln finden Sie in den anderen NINJAGO Sets: Turnier der Elemente (71735), Coles Felsenbrecher (71736) und X-1 Ninja Supercar (71737)
 - Enthält Jay Legacy als goldene Minifigur zum Sammeln auf einem kleinen Ständer zur Feier des 10-jährigen Jubiläums der NINJAGO Spielzeuge
 - Zanes Titan-Mech ist 26 cm groß, 9 cm lang und 15 cm breit. Zwischen den actionreichen Duellen bereichert er als Schaustück jedes Kinderzimmer
-- Der Spielzeug-Mech verfügt über bewegliche Arme und Beine sowie 2 Shooter und hält ein Schwert und eine Kettensäge in den Händen, um packende Abenteuer zu ermöglichen
-- Dieses 840-teilige Ninja-Spielset bietet Fans ab 9 Jahren ein lohnendes Bauerlebnis und ist ein tolles Geschenk für Kinder, die gerne mit LEGO Steinen bauen und Ninja-Action lieben
-- Weitere besondere goldene Minifiguren zum Sammeln finden Sie in den anderen NINJAGO Sets: Turnier der Elemente (71735), Coles Felsenbrecher (71736) und X-1 Ninja Supercar (71737)
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4HNQTC/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ With a final price of 51.83 GBP (original: 79.99 GBP) you can find [LEGO 21155�
 ℹ️:
 
 - Includes an anvil and oven, desert and mesa setting with two signs, cactus and irrigated vegetable patch and weapons: two pickaxes and a sword
-- Includes three minifigures: Steve, August-2019 Minecraft Blacksmith and a husk, plus creeper, cow and bat figures
-- Hop aboard the minecart and head into the gold-rich creeper mine or collect your treasure and pull the lever to deliver it to the chest
 - Accessories include three TNT blocks, two chests and four golden ore elements. Use the TNT to blast out the stone and clear the blocked rail track
 - Features a mine with rail track, minecart and three explosion functions; shelter with a large creeper statue, two creeper banners, ladders and bed
+- Hop aboard the minecart and head into the gold-rich creeper mine or collect your treasure and pull the lever to deliver it to the chest
+- Includes three minifigures: Steve, August-2019 Minecraft Blacksmith and a husk, plus creeper, cow and bat figures
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07ND6CJNR/?tag=tolees0a-21)
