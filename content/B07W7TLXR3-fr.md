@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '20.01 % deal for LEGO Star Wars  Coffret de bataille Mand'
-date: 2021-03-15 19:16:07
+date: 2021-03-18 00:51:22
 image: 'https://m.media-amazon.com/images/I/51-DXaK6fCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7TLXR3-fr LEGO Star Wars Coffret de bataille Mandalorien 4 avec 4...'
 sku: 'B07W7TLXR3-fr'
-tags: [ 'lego', ]
+tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21'
 descuento: '20.01'
-average: '14.7762798634816'
+average: '14.7573898305088'
 ---
 
 There's a deal [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurines  un speeder bike et un fort miniature  120 pièces  75267](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)  with  20.01 % discount, final price tag of  11.99 EUR (original: 14.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurin
 
 ℹ️:
 
-- Élargissez votre collection LEGO Star Wars avec ce formidable coffret de bataille
-- Inclut 4 figurines de guerrier mandaloriens Star Wars, chacune équipée dun fusil blaster à tenons
 - Tirer avec les tenons blaster, puis placez le tropper sur le speeder équipé de fusils à tenons
 - Les enfants peuvent construire une redoutable armée de Mandaloriens, recréer des scènes de la série télévisée Star Wars : The Mandalorian
 - Un fort de défense avec un point dattache pour un fusil blaster, et un speeder bike
+- Élargissez votre collection LEGO Star Wars avec ce formidable coffret de bataille
+- Inclut 4 figurines de guerrier mandaloriens Star Wars, chacune équipée dun fusil blaster à tenons
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)

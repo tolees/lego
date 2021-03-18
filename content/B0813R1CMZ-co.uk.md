@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'City Oceans - LEGO 60266 City Ocean Expl at 28.00 % discount'
-date: 2021-03-17 01:52:54
+date: 2021-03-18 01:56:44
 image: 'https://m.media-amazon.com/images/I/51q89OcubML._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813R1CMZ-co.uk City Oceans - LEGO 60266 City Ocean Exploration Ship...'
 sku: 'B0813R1CMZ-co.uk'
-tags: [ 'city oceans','lego', ]
+tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Decorazioni per interni','Frontoni','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','Toy Types','Toys & Games','Toys Store','city oceans','lego', ]
 actualPrice: 89.99 GBP
 currency: GBP
 price: 89.99
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'City Oceans'
 buyurl: 'https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21'
 descuento: '28.00'
-average: '109.993690036901'
+average: '109.847142857143'
 ---
 
 With a final price of 89.99 GBP (original: 124.99 GBP) you can find [City Oceans - LEGO 60266 City Ocean Exploration Ship Floating Toy Boat  Deep Sea Underwater Set  Diving Adventure for Kids](https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21) with a  28.00 % discount here:
@@ -29,9 +29,9 @@ With a final price of 89.99 GBP (original: 124.99 GBP) you can find [City Oceans
 ℹ️:
 
 - Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
-- Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
-- This multi-vehicle toy also includes a research submarine, helicopter, speedboat, shark cage and pirate shipwreck with hidden treasure
-- Toy ship that really floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm and storage
 - Includes a team of 8 explorers with LEGO City Adventures TV series hero Harl Hubbs minifigure, shark and stingray figures, plus accessories
+- Toy ship that really floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm and storage
+- This multi-vehicle toy also includes a research submarine, helicopter, speedboat, shark cage and pirate shipwreck with hidden treasure
+- Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21)
