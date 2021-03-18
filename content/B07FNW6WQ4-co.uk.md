@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '25.01 % deal for LEGO 42093 Technic Chevrolet Corvette ZR'
-date: 2021-03-15 05:54:16
+date: 2021-03-18 06:57:18
 image: 'https://m.media-amazon.com/images/I/61BOKCgM9vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNW6WQ4-co.uk LEGO 42093 Technic Chevrolet Corvette ZR1 Race Car 2 in...'
 sku: 'B07FNW6WQ4-co.uk'
-tags: [ 'lego', ]
+tags: [ 'Activities, Crafts & Games for Children','Activity Books for Children','Architectural History','Architectural Photography','Architectural Types','Architecture','Architecture References','Arts & Photography','Bauspielzeug & Konstruktionsspielzeug','Books','Building & Construction Toys','Childrens Books','Childrens Books on Crafts & Hobbies','Childrens Books on Model Making','Elektronische Spiele für Kinder','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','Photography & Video','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Teen & Young Adult','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 29.99 GBP
 currency: GBP
 price: 29.99
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNW6WQ4/?tag=tolees0a-21'
 descuento: '25.01'
-average: '33.1149999999997'
+average: '33.0873451327431'
 ---
 
 There's a deal [LEGO 42093 Technic Chevrolet Corvette ZR1 Race Car  2 in 1 Hot Rod Toy Car Model  Racing Vehicles Collection](https://www.amazon.co.uk/dp/B07FNW6WQ4/?tag=tolees0a-21)  with  25.01 % discount, final price tag of  29.99 GBP (original: 39.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42093 Technic Chevrolet Corvette ZR1 Race Car  2 in 1 Hot R
 
 ℹ️:
 
-- This collectible car model features a large rear wing, 4 tailpipes, black spoked rims with low-profile tyres, working steering and visible moving V8 pistons
-- Features an authentic orange and black colour scheme plus a cool sticker sheet for additional detailing
-- Build and experience an iconic supercar - the LEGO Technic Chevrolet Corvette ZR1 toy car
-- This LEGO Technic Chevrolet Corvette ZR1 42093 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - 2-in-1 LEGO Technic set : rebuilds into a Hot Rod replica model
+- Build and experience an iconic supercar - the LEGO Technic Chevrolet Corvette ZR1 toy car
+- Features an authentic orange and black colour scheme plus a cool sticker sheet for additional detailing
+- This collectible car model features a large rear wing, 4 tailpipes, black spoked rims with low-profile tyres, working steering and visible moving V8 pistons
+- This LEGO Technic Chevrolet Corvette ZR1 42093 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07FNW6WQ4/?tag=tolees0a-21)
