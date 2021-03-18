@@ -28,15 +28,15 @@ With a final price of 21.99 EUR (original: 29.99 EUR) you can find [LEGO Friends
 
 ℹ️:
 
-- Tu peque puede enganchar el remolque del caballo de juguete y pasar luego a recoger a Emma en el todoterreno de Mia.
-- Accesorios incluidos: manta para la yegua, montura, bridas, casco de equitación, zanahoria, heno, cepillo, lazo y gafas de sol.
-- Las múltiples situaciones de juego permiten echar a volar la imaginación en un ambiente al aire libre.
-- Este juguete infantil basado en la equitación incluye 2 minipersonajes: Mia y Emma; incluye también una yegua de juguete y una figura de un conejo.
-- Este set forma parte del mundo de LEGO Friends, inspirado en emocionantes escenarios de la vida real y los héroes del día a día.
 - Es ideal como regalo de Navidad o de fiestas para jóvenes constructoras creativas.
-- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a las constructoras más pequeñas a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
 - Cuenta con un buggy 4x4 y un remolque para caballos LEGO Friends de juguete para construir con lateral abatible y puerta trasera con bisagras, una escena del bosque para construir donde vive el conejito y una caja de accesorios para cuidar a la yegua.
+- Accesorios incluidos: manta para la yegua, montura, bridas, casco de equitación, zanahoria, heno, cepillo, lazo y gafas de sol.
+- Tu peque puede enganchar el remolque del caballo de juguete y pasar luego a recoger a Emma en el todoterreno de Mia.
+- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a las constructoras más pequeñas a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
+- Este set forma parte del mundo de LEGO Friends, inspirado en emocionantes escenarios de la vida real y los héroes del día a día.
 - Ayuda a tu joven constructora a expresar su sensibilidad hacia los animales dándole la oportunidad de cuidar y alimentar a la yegua con una zanahoria y un poco de heno.
 - Los sets LEGO Friends ecuestres fomentan el juego imaginativo y convierten la construcción en una actividad creativa y divertida.
+- Las múltiples situaciones de juego permiten echar a volar la imaginación en un ambiente al aire libre.
+- Este juguete infantil basado en la equitación incluye 2 minipersonajes: Mia y Emma; incluye también una yegua de juguete y una figura de un conejo.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07KTKCRYR/?tag=tolees-21)
