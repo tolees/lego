@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QPZTR-de LEGO 60260 City Air Race Spielzeug Flugzeug & Hubschrauber...'
 sku: 'B0813QPZTR-de'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO Creator','LEGO Racers','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
+tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO Creator','LEGO Racers','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23
@@ -28,11 +28,11 @@ You've got [LEGO 60260 City Air Race Spielzeug  Flugzeug & Hubschrauber Spielset
 
 ℹ️:
 
-- Mithilfe der Zugriemen können Kinder die beiden Hubschrauber losfliegen lassen. Die Spielzeug-Kunstflugmaschine und die Hubschrauber verfügen auch über aufklappbare Cockpits für jeweils eine der Piloten-Minifiguren aus diesem Flughafen-Bauset
-- Keine Batterien erforderlich! Die Fantasie der Kinder reicht dem Bauset „Air Race“ als Antrieb! Wie lassen sich die Hubschrauber mit den Zugriemen starten? Das wird in der Videoanleitung gezeigt. Einfach den QR-Code in der Bauanleitung scannen!
+- Das LEGO City Spielset „Air Race“(60260) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
 - Das LEGO City Spielset „Air Race“ besteht unter anderem aus zwei fliegenden Spielzeug-Hubschraubern mit Zugriemen und drei Minifiguren, darunter auch Rivera aus der TV-Serie „LEGO City Adventures“, um die Fantasie der Kinder zu wecken
 - Die Spielzeug-Kunstflugmaschine ist 8 cm hoch, 20 cm lang und 20 cm breit; die beiden Hubschrauber mit Zugriemen sind jeweils 7 cm hoch, 18 cm lang und 12 cm breit
-- Das LEGO City Spielset „Air Race“(60260) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
+- Keine Batterien erforderlich! Die Fantasie der Kinder reicht dem Bauset „Air Race“ als Antrieb! Wie lassen sich die Hubschrauber mit den Zugriemen starten? Das wird in der Videoanleitung gezeigt. Einfach den QR-Code in der Bauanleitung scannen!
 - Das LEGO City Set „Air Race“ enthält zwei Spielzeug-Hubschrauber mit Zugriemen, eine Kunstflugmaschine, zwei Pylonen als Wendemarken und drei Minifiguren, genauer gesagt Rivera, die LEGO City TV-Heldin, und die beiden LEGO City Piloten Xtreme und Vitarush
+- Mithilfe der Zugriemen können Kinder die beiden Hubschrauber losfliegen lassen. Die Spielzeug-Kunstflugmaschine und die Hubschrauber verfügen auch über aufklappbare Cockpits für jeweils eine der Piloten-Minifiguren aus diesem Flughafen-Bauset
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813QPZTR/?tag=tolees0ca-21)

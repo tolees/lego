@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNSF23L-de LEGO 31090 Creator Unterwasser-Roboter U-Boot oder...'
 sku: 'B07FNSF23L-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
+tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26
@@ -28,10 +28,10 @@ You've got [LEGO 31090 Creator Unterwasser-Roboter  U-Boot oder Unterwasser-Kran
 
 ℹ️:
 
-- Bewege den Kopf, die Arme und die Beine des Roboters, um ihn in coole Actionposen zu stellen.
-- Der Unterwasser-Roboter ist in den Farben Gelb, Grau, Schwarz und Rot gehalten.
-- Öffne den Helm des Roboters und nimm das Roboterauge heraus, um ein Kontrollzentrum freizulegen.
-- Dieses LEGO Creator 3-in-1-Set bietet 3 verschiedene Baumöglichkeiten: man kann den Unterwasser-Roboter und den Mantarochen auch in ein Spielzeug-U-Boot mit Greifarm oder einen Unterwasser-Kran für die Schatzsuche umbauen.
 - Der Unterwasser-Roboter verfügt über äußerst bewegliche Gelenke, eine Sichtkuppel mit rotem Roboterauge, Hände mit Bohrer, Greifer und Klammer, Ballasttanks und große Roboterfüße, um den Meeresgrund zu erkunden. Zudem enthält das Set einen baubaren Mantarochen und ein kleines Stück baubaren Meeresgrund mit Meerespflanze und Goldnugget-Elementen.
+- Der Unterwasser-Roboter ist in den Farben Gelb, Grau, Schwarz und Rot gehalten.
+- Dieses LEGO Creator 3-in-1-Set bietet 3 verschiedene Baumöglichkeiten: man kann den Unterwasser-Roboter und den Mantarochen auch in ein Spielzeug-U-Boot mit Greifarm oder einen Unterwasser-Kran für die Schatzsuche umbauen.
+- Bewege den Kopf, die Arme und die Beine des Roboters, um ihn in coole Actionposen zu stellen.
+- Öffne den Helm des Roboters und nimm das Roboterauge heraus, um ein Kontrollzentrum freizulegen.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNSF23L/?tag=tolees0ca-21)

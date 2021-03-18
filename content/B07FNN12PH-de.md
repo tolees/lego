@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNN12PH-de LEGO 21151 Minecraft Das letzte Gefecht Bauset für Sammler'
 sku: 'B07FNN12PH-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Elektronische Spiele für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
+tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68
@@ -28,10 +28,10 @@ With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 21151 M
 
 ℹ️:
 
+- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
+- Überprüfe die Drachenjäger-Rüstung, nimm den Trank, die Enderperle und den verzauberten Bogen und sei bereit für das letzte Gefecht
 - Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen
 - Dieses Minecraft-Spielzeug umfasst ein Enderdrachen-Spielzeug mit beweglichen Gliedmaßen und eine Enderman-Figur sowie ein Minecraft-Ende-Setting mit Obsidiansäule und einem Enderkristall mit Pop-up-Funktion
-- Überprüfe die Drachenjäger-Rüstung, nimm den Trank, die Enderperle und den verzauberten Bogen und sei bereit für das letzte Gefecht
 - Zur Ausrüstung gehört ein verzauberter Bogen
-- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21)

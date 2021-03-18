@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLMSVCJ-de LEGO 60251 City Monster-Truck Spielzeug für Kinder ab 5...'
 sku: 'B07WLMSVCJ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49
@@ -29,8 +29,8 @@ With a final price of 7.49 EUR (original: 9.99 EUR) you can find [LEGO 60251 Cit
 ℹ️:
 
 - Includes 1 driver minifigure to power the monster truck over the terrain at lightning speed - ideal toy for fans of high-speed action
-- Kids can show their driving skills with fantastic sliding turns, immense thrilling jumps and amazing landings with this sturdy truck model
 - With its cool fanged-monster bodywork stickers and orange-purple colours kids will love to put this colourful Monster Truck toy on display
+- Kids can show their driving skills with fantastic sliding turns, immense thrilling jumps and amazing landings with this sturdy truck model
 - This truck toy features big, chunky tyres, colourful fanged-monster decoration, and room behind the steering wheel for the driver minifigure
 - Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 

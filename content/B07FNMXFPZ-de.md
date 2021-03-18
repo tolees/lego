@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNMXFPZ-de LEGO 60214 City Feuerwehreinsatz im Burger-Restaurant...'
 sku: 'B07FNMXFPZ-de'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Elektronische Spiele für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO Racers','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
+tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO Racers','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
 actualPrice: 20.81 EUR
 currency: EUR
 price: 20.81
@@ -28,10 +28,10 @@ With a final price of 20.81 EUR (original: 29.99 EUR) you can find [LEGO 60214 C
 
 ℹ️:
 
-- Enthält ein Feuerwehrspielzeug mit einer Fahrerkabine für Minifiguren, drehbarer Einheit im hinteren Fahrzeugteil, einer ausrichtbaren Wasserpumpe mit „Wasserstrahl“-Funktion (Neuheit ab Januar 2019) und zwei Staufächern sowie ein Motorrad.
 - Platziere ein oder alle Flammenelemente auf dem Schild des Burger-Restaurants und der Mülltonne, um entweder einen kleinen Brand oder ein riesiges Flammeninferno zu löschen.
-- Umfasst zudem ein Burger-Restaurant mit Burger-Schild, einem Schiebefenster für Mitnehm-Service zum Öffnen und eine Mülltonne.
-- Enthält 3 LEGO City Minifiguren: einen Feuerwehrmann, eine Feuerwehrfrau und einen Burger-Koch.
 - Als Zubehör sind eine Feuerwehraxt (Neuheit ab Januar 2019), 2 Helme mit Visier zum Öffnen, eine Sauerstoffflasche, eine Mülltone, ein Motorradhelm, ein kleiner Feuerlöscher und 5 baubare Elemente enthalten.
+- Umfasst zudem ein Burger-Restaurant mit Burger-Schild, einem Schiebefenster für Mitnehm-Service zum Öffnen und eine Mülltonne.
+- Enthält ein Feuerwehrspielzeug mit einer Fahrerkabine für Minifiguren, drehbarer Einheit im hinteren Fahrzeugteil, einer ausrichtbaren Wasserpumpe mit „Wasserstrahl“-Funktion (Neuheit ab Januar 2019) und zwei Staufächern sowie ein Motorrad.
+- Enthält 3 LEGO City Minifiguren: einen Feuerwehrmann, eine Feuerwehrfrau und einen Burger-Koch.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNMXFPZ/?tag=tolees0ca-21)
