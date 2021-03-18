@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGLZ7WK-com LEGO City Tracks 60205 Building Kit 20 Pieces'
 sku: 'B07BGLZ7WK-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

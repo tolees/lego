@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DFM7HVK-co.uk LEGO 42114 Technic 6x6 Volvo Articulated Hauler Truck...'
 sku: 'B00DFM7HVK-co.uk'
-tags: [ 'Building & Construction Toys','lego', ]
 actualPrice: 169.99 GBP
 currency: GBP
 price: 169.99

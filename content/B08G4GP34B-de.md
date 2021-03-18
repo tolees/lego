@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4GP34B-de LEGO 75301 Star Wars Luke Skywalkers X-Wing Fighter...'
 sku: 'B08G4GP34B-de'
-tags: [ 'lego', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

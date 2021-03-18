@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GP8NL1H-de LEGO 10953 DUPLO Mein erstes Einhorn Spielzeugzug für 1...'
 sku: 'B08GP8NL1H-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

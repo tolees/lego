@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDBFFDM-de LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 Elsa...'
 sku: 'B07NDBFFDM-de'
-tags: [ 'lego', ]
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

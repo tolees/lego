@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KJENN0U-de LEGO Architecture London Skyline Collection 21034 Building...'
 sku: 'B01KJENN0U-de'
-tags: [ 'lego', ]
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

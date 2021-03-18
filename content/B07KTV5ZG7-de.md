@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTV5ZG7-de LEGO 31097 Creator 3-in-1 Set Stadthaus mit Zoohandlung &...'
 sku: 'B07KTV5ZG7-de'
-tags: [ 'lego', ]
 actualPrice: 64.88 EUR
 currency: EUR
 price: 64.88

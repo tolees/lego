@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6Q9G1Y-es LEGO 76899 Speed Champions Lamborghini Urus ST-X &...'
 sku: 'B07W6Q9G1Y-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

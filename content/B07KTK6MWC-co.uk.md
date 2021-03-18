@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTK6MWC-co.uk LEGO 41372 Friends Stephanie’s Gymnastics Show Playset...'
 sku: 'B07KTK6MWC-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.99 GBP
 currency: GBP
 price: 15.99

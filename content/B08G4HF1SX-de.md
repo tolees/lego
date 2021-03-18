@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4HF1SX-de LEGO 41924 DOTS Geheimbox Katze Raumaccessoires &...'
 sku: 'B08G4HF1SX-de'
-tags: [ 'lego', ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6M-de LEGO 21054 Architecture Das Weiße Haus Sammlung von...'
 sku: 'B0813QBV6M-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

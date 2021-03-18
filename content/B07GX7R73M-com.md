@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GX7R73M-com LEGO Architecture Skyline Collection 21043 San Francisco...'
 sku: 'B07GX7R73M-com'
-tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

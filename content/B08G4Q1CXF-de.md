@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4Q1CXF-de LEGO 76173 Spider-Man und Ghost Rider vs. Carnage mit...'
 sku: 'B08G4Q1CXF-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

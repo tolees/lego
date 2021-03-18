@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4KT2C9-de LEGO 21052 Architecture Dubai Modell Skyline-Kollektion...'
 sku: 'B07W4KT2C9-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

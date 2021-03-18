@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KKTN9J4-com LEGO City Police Mobile Command Center Truck 60139...'
 sku: 'B01KKTN9J4-com'
-tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

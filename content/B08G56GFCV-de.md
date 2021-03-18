@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G56GFCV-de LEGO 31113 Creator 3-in-1 Rennwagentransporter mit...'
 sku: 'B08G56GFCV-de'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Coffrets de figurines pour enfants','Costruzioni','Decorazioni per interni','Figurines pour enfants','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

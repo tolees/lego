@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TMRWB-de Lego Creator - LEGO 31101 Creator 3-in-1 Monster Truck...'
 sku: 'B07W7TMRWB-de'
-tags: [ 'lego', ]
 actualPrice: 10.92 EUR
 currency: EUR
 price: 10.92

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS6J8V-es LEGO City Fire - LEGO 60216 City Brigada de Bomberos del...'
 sku: 'B07FNS6J8V-es'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO City','Posters','Produkte','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego','lego city fire', ]
 actualPrice: 89.68 EUR
 currency: EUR
 price: 89.68

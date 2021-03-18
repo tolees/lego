@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDBGW4F-co.uk LEGO 41165 Disney Frozen II Anna s Canoe Expedition...'
 sku: 'B07NDBGW4F-co.uk'
-tags: [ 'lego', ]
 actualPrice: 13.01 GBP
 currency: GBP
 price: 13.01

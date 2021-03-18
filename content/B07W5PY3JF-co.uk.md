@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PY3JF-co.uk LEGO 76150 Super Heroes Marvel Spider-Man Jet vs. Venom...'
 sku: 'B07W5PY3JF-co.uk'
-tags: [ 'lego', ]
 actualPrice: 26.26 GBP
 currency: GBP
 price: 26.26

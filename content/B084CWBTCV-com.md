@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084CWBTCV-com Lego Speed Champions 30342'
 sku: 'B084CWBTCV-com'
-tags: [ 'lego', ]
 actualPrice: 7.97 USD
 currency: USD
 price: 7.97

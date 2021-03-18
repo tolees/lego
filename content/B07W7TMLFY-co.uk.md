@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TMLFY-co.uk LEGO 75273 Star Wars Poe Dameron s X-wing Fighter...'
 sku: 'B07W7TMLFY-co.uk'
-tags: [ 'lego', ]
 actualPrice: 74.98 GBP
 currency: GBP
 price: 74.98

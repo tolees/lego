@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLJJX7R-de LEGO 60241 City 4+ Polizeihundestaffel mit Auto und...'
 sku: 'B07WLJJX7R-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

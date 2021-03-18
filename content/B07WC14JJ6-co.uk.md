@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC14JJ6-co.uk LEGO 41392 Friends Nature Glamping Outdoor Adventure...'
 sku: 'B07WC14JJ6-co.uk'
-tags: [ 'lego', ]
 actualPrice: 16.5 GBP
 currency: GBP
 price: 16.5

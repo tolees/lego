@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND9TJF6-de LEGO 75256 Star Wars Kylo Rens Shuttle Raumschiff-Bauset...'
 sku: 'B07ND9TJF6-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Costruzioni','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 93.33 EUR
 currency: EUR
 price: 93.33

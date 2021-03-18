@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D493RWR-com LEGO Harry Potter Hogwarts Express 75955 Toy Train...'
 sku: 'B07D493RWR-com'
-tags: [ 'lego', ]
 actualPrice: 63.99 USD
 currency: USD
 price: 63.99

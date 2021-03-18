@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC1VDSP-de LEGO 42108 Technic Kran-LKW Spielzeug Bausatz für...'
 sku: 'B07WC1VDSP-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building & Construction Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 77.59 EUR
 currency: EUR
 price: 77.59

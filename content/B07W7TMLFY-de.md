@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TMLFY-de LEGO 75273 Star Wars Poe Damerons X-Wing Starfighter...'
 sku: 'B07W7TMLFY-de'
-tags: [ 'lego', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

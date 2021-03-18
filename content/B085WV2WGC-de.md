@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WV2WGC-de LEGO 75318 Star Wars The Mandalorian Das Kind Bauset...'
 sku: 'B085WV2WGC-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 62.36 EUR
 currency: EUR
 price: 62.36

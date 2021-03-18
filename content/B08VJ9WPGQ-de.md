@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ9WPGQ-de Giplar Technik Bausteine Auto Ferngesteuerter Wohnmobil...'
 sku: 'B08VJ9WPGQ-de'
-tags: [ 'lego', ]
 actualPrice: 379.99 EUR
 currency: EUR
 price: 379.99

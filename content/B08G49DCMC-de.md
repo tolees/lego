@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G49DCMC-de LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker...'
 sku: 'B08G49DCMC-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Sammelfiguren','Spielfiguren-Spielesets für Kinder','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

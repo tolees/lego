@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MS59V7S-com The LEGO Movie 2: The Second Part Special Edition/DVD'
 sku: 'B07MS59V7S-com'
-tags: [ 'lego', ]
 actualPrice: 7.5 USD
 currency: USD
 price: 7.5

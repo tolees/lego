@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RXP5C-de LEGO 76153 Super Heroes Marvel Avengers - Helicarrier...'
 sku: 'B0813RXP5C-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

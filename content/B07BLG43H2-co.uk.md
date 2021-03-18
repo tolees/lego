@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLG43H2-co.uk LEGO 75955 Harry Potter Hogwarts Express Train Toy...'
 sku: 'B07BLG43H2-co.uk'
-tags: [ 'lego', ]
 actualPrice: 55.99 GBP
 currency: GBP
 price: 55.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRT2CYF-com LEGO Disney Frozen II Elsa’s Jewelry Box Creation 41168...'
 sku: 'B07NRT2CYF-com'
-tags: [ 'lego', ]
 actualPrice: 29.99 USD
 currency: USD
 price: 29.99

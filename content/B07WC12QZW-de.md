@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC12QZW-de LEGO 75272 Star Wars Sith TIE Fighter Bauset Serie Der...'
 sku: 'B07WC12QZW-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building & Construction Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

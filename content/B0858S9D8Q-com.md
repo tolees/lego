@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0858S9D8Q-com LEGO Creator 3in1 Space Rover Explorer 31107 Building Toy...'
 sku: 'B0858S9D8Q-com'
-tags: [ 'lego', ]
 actualPrice: 33.99 USD
 currency: USD
 price: 33.99

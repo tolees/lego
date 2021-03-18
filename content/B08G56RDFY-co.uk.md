@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G56RDFY-co.uk LEGO 31118 Creator 3 in 1 Surfer Beach House Lighthouse...'
 sku: 'B08G56RDFY-co.uk'
-tags: [ 'lego', ]
 actualPrice: 34.97 GBP
 currency: GBP
 price: 34.97

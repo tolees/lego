@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JXYSHX-com LEGO Minions: Brick-Built Minions and Their Lair 75551...'
 sku: 'B083JXYSHX-com'
-tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

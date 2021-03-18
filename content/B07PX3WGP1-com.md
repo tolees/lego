@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PX3WGP1-com LEGO Speed Champions 1974 Porsche 911 Turbo 3.0 75895...'
 sku: 'B07PX3WGP1-com'
-tags: [ 'lego', ]
 actualPrice: 11.99 USD
 currency: USD
 price: 11.99

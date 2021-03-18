@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CKR6VP-de LEGO 75317 BrickHeadz Star Wars Der Mandalorianer und das...'
 sku: 'B084CKR6VP-de'
-tags: [ 'lego', ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

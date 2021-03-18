@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4RP2DC-de LEGO 71384 Super Mario Pinguin-Mario Anzug Power Up Pack...'
 sku: 'B08G4RP2DC-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

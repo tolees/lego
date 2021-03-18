@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GNZ4RJ1-de LEGO 10957 DUPLO Mein erster Feuerwehrhubschrauber und...'
 sku: 'B08GNZ4RJ1-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

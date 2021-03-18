@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073HNLYN5-com The Lego Ninjago Movie Videogame - Xbox One'
 sku: 'B073HNLYN5-com'
-tags: [ 'lego', ]
 actualPrice: 16.5 USD
 currency: USD
 price: 16.5

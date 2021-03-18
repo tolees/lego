@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RJRXD-de LEGO 60264 City Meeresforschungs-U-Boot Tiefsee-...'
 sku: 'B0813RJRXD-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

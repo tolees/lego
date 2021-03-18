@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765CTSHX-de LEGO City Krankenhaus 60204 Kinderspielzeug'
 sku: 'B0765CTSHX-de'
-tags: [ 'lego', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

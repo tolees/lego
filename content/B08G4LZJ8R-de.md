@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4LZJ8R-de LEGO 60284 City Baustellen-LKW Spielzeug Frontlader für...'
 sku: 'B08G4LZJ8R-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

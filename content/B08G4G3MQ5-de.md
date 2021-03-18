@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4G3MQ5-de LEGO 60289 City Flugshow-Jet-Transporter Truck Spielzeug...'
 sku: 'B08G4G3MQ5-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

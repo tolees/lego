@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6BFKC8-de LEGO 75970 - Overwatch Tracer vs. Widowmaker Bauset'
 sku: 'B07J6BFKC8-de'
-tags: [ 'lego', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

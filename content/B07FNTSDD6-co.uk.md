@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNTSDD6-co.uk LEGO 10901 DUPLO Town Fire Truck Light & Sound...'
 sku: 'B07FNTSDD6-co.uk'
-tags: [ 'lego', ]
 actualPrice: 12.72 GBP
 currency: GBP
 price: 12.72

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QM65SC-com LEGO Star Wars R3-S1 Astromech Droid'
 sku: 'B075QM65SC-com'
-tags: [ 'lego', ]
 actualPrice: 12.47 USD
 currency: USD
 price: 12.47

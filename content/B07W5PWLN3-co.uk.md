@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PWLN3-co.uk LEGO 76895 Speed Champions Ferrari F8 Tributo Racer Toy...'
 sku: 'B07W5PWLN3-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.29 GBP
 currency: GBP
 price: 15.29

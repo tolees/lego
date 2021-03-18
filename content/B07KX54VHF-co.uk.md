@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KX54VHF-co.uk LEGO 75957 Harry Potter Knight Bus Toy Triple-decker...'
 sku: 'B07KX54VHF-co.uk'
-tags: [ 'lego', ]
 actualPrice: 24.99 GBP
 currency: GBP
 price: 24.99

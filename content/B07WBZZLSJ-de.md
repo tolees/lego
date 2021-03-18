@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WBZZLSJ-de LEGO 70427 Hidden Side Portal Set interaktives Multiplayer...'
 sku: 'B07WBZZLSJ-de'
-tags: [ 'lego', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

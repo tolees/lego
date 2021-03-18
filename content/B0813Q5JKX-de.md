@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813Q5JKX-de LEGO 75288 Star Wars AT-AT Walker Spielzeug 40. Jubiläum...'
 sku: 'B0813Q5JKX-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 117.55 EUR
 currency: EUR
 price: 117.55

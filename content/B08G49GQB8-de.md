@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G49GQB8-de LEGO 41662 Friends Magische Würfel Olivias Flamingo-Würfel...'
 sku: 'B08G49GQB8-de'
-tags: [ 'lego', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

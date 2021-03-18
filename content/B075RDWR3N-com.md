@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RDWR3N-com LEGO Minecraft The Chicken Coop 21140 Building Kit 198...'
 sku: 'B075RDWR3N-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

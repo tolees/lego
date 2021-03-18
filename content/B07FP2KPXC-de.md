@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP2KPXC-de LEGO 75890 Speed Champions Ferrari F40 Competizione Bauset...'
 sku: 'B07FP2KPXC-de'
-tags: [ 'lego', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T2KJZD-de LEGO Ninjago 70640 - Hauptquartier der Motorradfahrer...'
 sku: 'B075T2KJZD-de'
-tags: [ 'lego', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

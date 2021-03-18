@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZ4FNB2-com LEGO Technic Remote Controlled Stunt Racer 42095 Building...'
 sku: 'B07GZ4FNB2-com'
-tags: [ 'lego', ]
 actualPrice: 84.27 USD
 currency: USD
 price: 84.27

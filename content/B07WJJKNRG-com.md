@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJJKNRG-com LEGO Trolls World Tour Techno Reef Dance Party 41250...'
 sku: 'B07WJJKNRG-com'
-tags: [ 'lego', ]
 actualPrice: 16.82 USD
 currency: USD
 price: 16.82

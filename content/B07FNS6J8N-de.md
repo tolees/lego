@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS6J8N-de LEGO 10900 DUPLO Polizeimotorrad Bauset mit Polizisten als...'
 sku: 'B07FNS6J8N-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNN17CM-co.uk LEGO 60215 City Fire Fire Station Garage Building Set...'
 sku: 'B07FNN17CM-co.uk'
-tags: [ 'lego', ]
 actualPrice: 39.06 GBP
 currency: GBP
 price: 39.06

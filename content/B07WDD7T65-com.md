@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDD7T65-com LEGO Star Wars Sith Troopers Battle Pack 75266...'
 sku: 'B07WDD7T65-com'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Building Toys','Spielzeug','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 11.99 USD
 currency: USD
 price: 11.99

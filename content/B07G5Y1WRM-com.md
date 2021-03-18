@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G5Y1WRM-com LEGO 6250958 Overwatch 75974 Bastion Building Kit...'
 sku: 'B07G5Y1WRM-com'
-tags: [ 'lego', ]
 actualPrice: 37.99 USD
 currency: USD
 price: 37.99

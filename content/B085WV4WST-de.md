@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WV4WST-de LEGO 21166 Minecraft Die verlassene Mine Bauset...'
 sku: 'B085WV4WST-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

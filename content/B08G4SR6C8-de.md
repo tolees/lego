@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4SR6C8-de LEGO 42120 Technic Luftkissenboot für Rettungseinsätze...'
 sku: 'B08G4SR6C8-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 21.83 EUR
 currency: EUR
 price: 21.83

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NVDP3ZU-de LEGO Classic 10696 Mittelgroße Bausteine-Box Lernspielzeug'
 sku: 'B00NVDP3ZU-de'
-tags: [ 'lego', ]
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

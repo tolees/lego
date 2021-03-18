@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRYC-co.uk LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car...'
 sku: 'B0813RJRYC-co.uk'
-tags: [ 'lego', ]
 actualPrice: 247.12 GBP
 currency: GBP
 price: 247.12

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4P1N3N-es LEGO 41926 DOTS Kit para Fiesta Creativa Incluye Cupcakes...'
 sku: 'B08G4P1N3N-es'
-tags: [ 'lego', ]
 actualPrice: 19.46 EUR
 currency: EUR
 price: 19.46

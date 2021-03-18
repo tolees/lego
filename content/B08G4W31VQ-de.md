@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4W31VQ-de LEGO 71735 NINJAGO Turnier der Elemente Tempel Bauset mit...'
 sku: 'B08G4W31VQ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

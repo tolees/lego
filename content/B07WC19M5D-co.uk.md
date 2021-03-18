@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC19M5D-co.uk LEGO 76140 Super Heroes Marvel Avengers Iron Man Mech...'
 sku: 'B07WC19M5D-co.uk'
-tags: [ 'lego', ]
 actualPrice: 7.2 GBP
 currency: GBP
 price: 7.2

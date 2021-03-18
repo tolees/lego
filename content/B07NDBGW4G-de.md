@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDBGW4G-de LEGO 42100 Technic Liebherr Bagger R 9800 App-gesteuertes...'
 sku: 'B07NDBGW4G-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 323.99 EUR
 currency: EUR
 price: 323.99

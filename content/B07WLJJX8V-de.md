@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLJJX8V-de LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm...'
 sku: 'B07WLJJX8V-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Costruzioni','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 21.86 EUR
 currency: EUR
 price: 21.86

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRXD-co.uk City Oceans - LEGO 60264 City Ocean Exploration...'
 sku: 'B0813RJRXD-co.uk'
-tags: [ 'lego', ]
 actualPrice: 21.0 GBP
 currency: GBP
 price: 21.0

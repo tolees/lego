@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHMBVT9-com LEGO Star Wars: A New Hope Luke Skywalker’s Landspeeder...'
 sku: 'B07WHMBVT9-com'
-tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDBGKPG-co.uk LEGO 21154 Minecraft The Blaze Bridge Building Set with...'
 sku: 'B07NDBGKPG-co.uk'
-tags: [ 'lego', ]
 actualPrice: 29.99 GBP
 currency: GBP
 price: 29.99

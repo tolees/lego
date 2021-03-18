@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CC37F63-com LEGO City Passenger Train 60197 Building Kit 677 Pieces...'
 sku: 'B07CC37F63-com'
-tags: [ 'lego', ]
 actualPrice: 127.99 USD
 currency: USD
 price: 127.99

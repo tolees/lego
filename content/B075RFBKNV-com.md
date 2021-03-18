@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RFBKNV-com LEGO Friends Emma’s Art Café 41336 Building Set 378 Pieces'
 sku: 'B075RFBKNV-com'
-tags: [ 'lego', ]
 actualPrice: 23.93 USD
 currency: USD
 price: 23.93

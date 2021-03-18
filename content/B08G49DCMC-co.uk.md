@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G49DCMC-co.uk LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker...'
 sku: 'B08G49DCMC-co.uk'
-tags: [ 'Musical Toy Instruments','lego', ]
 actualPrice: 11.95 GBP
 currency: GBP
 price: 11.95

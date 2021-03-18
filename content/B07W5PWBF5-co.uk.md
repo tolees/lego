@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PWBF5-co.uk Lego Friends - LEGO 41396 Friends Puppy Playground...'
 sku: 'B07W5PWBF5-co.uk'
-tags: [ 'lego', ]
 actualPrice: 6.67 GBP
 currency: GBP
 price: 6.67

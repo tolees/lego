@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QBJJ3-co.uk LEGO 60257 City Nitro Wheels Service Station Building...'
 sku: 'B07W6QBJJ3-co.uk'
-tags: [ 'lego', ]
 actualPrice: 31.49 GBP
 currency: GBP
 price: 31.49

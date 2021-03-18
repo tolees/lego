@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813Q5JLQ-de LEGO 76152 Super Heroes Marvel 4+ Avengers – Lokis Rache...'
 sku: 'B0813Q5JLQ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

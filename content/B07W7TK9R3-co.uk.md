@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TK9R3-co.uk LEGO 10915 DUPLO My First Alphabet Truck Toy for...'
 sku: 'B07W7TK9R3-co.uk'
-tags: [ 'lego', ]
 actualPrice: 17.99 GBP
 currency: GBP
 price: 17.99

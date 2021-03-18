@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G56LY1Z-de LEGO 43186 Disney Princess Frozen 2 Salamander Bruni Set...'
 sku: 'B08G56LY1Z-de'
-tags: [ 'lego', ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

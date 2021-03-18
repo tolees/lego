@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WD5BV6-de LEGO 71372 Super Mario Katzen-Mario - Anzug...'
 sku: 'B082WD5BV6-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

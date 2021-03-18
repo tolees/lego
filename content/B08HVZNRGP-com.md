@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVZNRGP-com LEGO Creator 3in1 Wild Lion 31112 3in1 Toy Building Kit...'
 sku: 'B08HVZNRGP-com'
-tags: [ 'lego', ]
 actualPrice: 11.99 USD
 currency: USD
 price: 11.99

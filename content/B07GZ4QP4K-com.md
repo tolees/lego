@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZ4QP4K-com LEGO Star Wars TIE Fighter Attack 75237 4+ Building Kit...'
 sku: 'B07GZ4QP4K-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

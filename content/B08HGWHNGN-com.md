@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGWHNGN-com LEGO Harry Potter Hedwig 75979'
 sku: 'B08HGWHNGN-com'
-tags: [ 'lego', ]
 actualPrice: 68.49 USD
 currency: USD
 price: 68.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R6XSH-de LEGO 75284 Star Wars Transportraumschiff der Ritter von...'
 sku: 'B0813R6XSH-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RWMGB-de LEGO 70686 NINJAGO Kais Spinjitzu-Kreisel Set rot'
 sku: 'B0813RWMGB-de'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO Creator','LEGO Racers','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

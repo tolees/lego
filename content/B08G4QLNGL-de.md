@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4QLNGL-de LEGO 41666 Friends Magische Würfel Andreas Häschen-Würfel...'
 sku: 'B08G4QLNGL-de'
-tags: [ 'lego', ]
 actualPrice: 7.57 EUR
 currency: EUR
 price: 7.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T57U7UM-com LEGO Marvel s Avengers - PlayStation 4'
 sku: 'B00T57U7UM-com'
-tags: [ 'lego', ]
 actualPrice: 6.99 USD
 currency: USD
 price: 6.99

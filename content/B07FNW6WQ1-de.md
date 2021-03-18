@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNW6WQ1-de LEGO 60220 City Müllabfuhr LKW Spielzeug mit 2...'
 sku: 'B07FNW6WQ1-de'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO Racers','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

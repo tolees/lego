@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4KWY36-de LEGO 60292 City Stadtzentrum Bauset mit Spielzeug-...'
 sku: 'B08G4KWY36-de'
-tags: [ 'lego', ]
 actualPrice: 74.85 EUR
 currency: EUR
 price: 74.85

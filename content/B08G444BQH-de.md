@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G444BQH-de LEGO 75300 Star Wars Imperial TIE Fighter Spielzeug mit...'
 sku: 'B08G444BQH-de'
-tags: [ 'lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

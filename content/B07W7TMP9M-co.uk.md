@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TMP9M-co.uk LEGO 60256 City Nitro Wheels Racing Cars Toy with 2...'
 sku: 'B07W7TMP9M-co.uk'
-tags: [ 'lego', ]
 actualPrice: 12.0 GBP
 currency: GBP
 price: 12.0

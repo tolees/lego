@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QWS7K-de LEGO 76160 Super Heroes DC Batman Mobile Batbasis Truck...'
 sku: 'B0813QWS7K-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

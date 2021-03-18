@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EL6HMWW-com IQ Lego Star Wars Kylo Ren LED Head Lamp'
 sku: 'B01EL6HMWW-com'
-tags: [ 'lego', ]
 actualPrice: 17.99 USD
 currency: USD
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP2KPWV-de LEGO 42092 Technic Rettungshubschrauber 2-in-1...'
 sku: 'B07FP2KPWV-de'
-tags: [ 'lego', ]
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

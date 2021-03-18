@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WDBGMP-es LEGO 71366 Super Mario Set de Expansión: Avalancha de Bill...'
 sku: 'B082WDBGMP-es'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO City','Posters','Produkte','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

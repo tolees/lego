@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4HPRCR-de LEGO 76382 Harry Potter Hogwarts Moment:...'
 sku: 'B08G4HPRCR-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

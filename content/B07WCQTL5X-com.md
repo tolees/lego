@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCQTL5X-com LEGO Trolls World Tour Poppy’s Pod 41251 Trolls Toy...'
 sku: 'B07WCQTL5X-com'
-tags: [ 'lego', ]
 actualPrice: 14.16 USD
 currency: USD
 price: 14.16

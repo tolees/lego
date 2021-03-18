@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDB4Q7S-co.uk LEGO 75257 Star Wars Millennium Falcon Starship...'
 sku: 'B07NDB4Q7S-co.uk'
-tags: [ 'lego', ]
 actualPrice: 107.78 GBP
 currency: GBP
 price: 107.78

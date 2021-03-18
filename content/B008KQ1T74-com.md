@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KQ1T74-com LEGO Storage Brick 4 Blue'
 sku: 'B008KQ1T74-com'
-tags: [ 'lego', ]
 actualPrice: 19.99 USD
 currency: USD
 price: 19.99

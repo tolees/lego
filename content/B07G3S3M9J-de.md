@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3S3M9J-de LEGO 75948 Harry Potter Hogwarts Uhrenturm Spielzeug...'
 sku: 'B07G3S3M9J-de'
-tags: [ 'lego', ]
 actualPrice: 69.5 EUR
 currency: EUR
 price: 69.5

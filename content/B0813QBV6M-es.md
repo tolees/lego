@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6M-es LEGO Architecture Architecture La Casa Blanca Colección...'
 sku: 'B0813QBV6M-es'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','lego','lego architecture', ]
 actualPrice: 90.15 EUR
 currency: EUR
 price: 90.15

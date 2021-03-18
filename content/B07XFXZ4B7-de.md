@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFXZ4B7-de LEGO 75277 Star Wars Boba Fett Helm Schaustück Bauset zum...'
 sku: 'B07XFXZ4B7-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

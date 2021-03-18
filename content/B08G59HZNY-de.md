@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G59HZNY-de LEGO 31116 Creator 3-in-1 Safari-Baumhaus Katamaran oder...'
 sku: 'B08G59HZNY-de'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Coffrets de figurines pour enfants','Costruzioni','Decorazioni per interni','Figurines pour enfants','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

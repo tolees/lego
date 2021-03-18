@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GYV355H-com LEGO Speed Champions 2018 Dodge Challenger SRT Demon and...'
 sku: 'B07GYV355H-com'
-tags: [ 'lego', ]
 actualPrice: 24.0 USD
 currency: USD
 price: 24.0

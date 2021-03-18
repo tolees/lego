@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4P1N3N-co.uk LEGO 41926 DOTS Creative Party Kit with Cupcakes...'
 sku: 'B08G4P1N3N-co.uk'
-tags: [ 'lego', ]
 actualPrice: 17.99 GBP
 currency: GBP
 price: 17.99

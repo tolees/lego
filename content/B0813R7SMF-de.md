@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R7SMF-de LEGO 76158 Super Heroes DC Batman 4+ Verfolgung des...'
 sku: 'B0813R7SMF-de'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO Creator','LEGO Racers','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

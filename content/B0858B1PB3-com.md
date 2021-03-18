@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0858B1PB3-com LEGO Super Mario Piranha Plant Power Slide Expansion Set...'
 sku: 'B0858B1PB3-com'
-tags: [ 'lego', ]
 actualPrice: 22.85 USD
 currency: USD
 price: 22.85

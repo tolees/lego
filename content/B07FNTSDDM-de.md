@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNTSDDM-de THE LEGO MOVIE 2 70829 Emmets und Lucys Flucht-Buggy!'
 sku: 'B07FNTSDDM-de'
-tags: [ 'lego', ]
 actualPrice: 31.76 EUR
 currency: EUR
 price: 31.76

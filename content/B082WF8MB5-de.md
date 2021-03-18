@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WF8MB5-de LEGO 71367 Super Mario Marios Haus und Yoshi –...'
 sku: 'B082WF8MB5-de'
-tags: [ 'Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

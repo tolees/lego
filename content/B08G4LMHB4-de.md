@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4LMHB4-de LEGO 60288 City Rennbuggy-Transporter Truck mit Anhänger...'
 sku: 'B08G4LMHB4-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

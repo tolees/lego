@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H58BP72-com 2 Pounds Bulk Lego Bricks - Random Selection of Vintage...'
 sku: 'B00H58BP72-com'
-tags: [ 'lego', ]
 actualPrice: 34.98 USD
 currency: USD
 price: 34.98

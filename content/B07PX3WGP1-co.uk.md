@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PX3WGP1-co.uk LEGO Speed Champions 1974 Porsche 911 Turbo 30 75895'
 sku: 'B07PX3WGP1-co.uk'
-tags: [ 'lego', ]
 actualPrice: 25.04 GBP
 currency: GBP
 price: 25.04

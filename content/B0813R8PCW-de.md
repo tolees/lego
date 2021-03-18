@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R8PCW-de LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus...'
 sku: 'B0813R8PCW-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

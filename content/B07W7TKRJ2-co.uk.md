@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TKRJ2-co.uk Lego Creator - LEGO 31100 Creator 3in1 Sports Car - Hot...'
 sku: 'B07W7TKRJ2-co.uk'
-tags: [ 'lego', ]
 actualPrice: 6.44 GBP
 currency: GBP
 price: 6.44

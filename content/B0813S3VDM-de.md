@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813S3VDM-de LEGO 75979 Harry Potter Hedwig mit beweglichen Flügeln...'
 sku: 'B0813S3VDM-de'
-tags: [ 'lego', ]
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDRT8B-com LEGO Technic Land Rover Defender 42110 Building Kit 2573...'
 sku: 'B07VFDRT8B-com'
-tags: [ 'lego', ]
 actualPrice: 159.99 USD
 currency: USD
 price: 159.99

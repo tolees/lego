@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRYG-co.uk Lego Friends - LEGO 41428 Friends Beach House Mini...'
 sku: 'B0813RJRYG-co.uk'
-tags: [ 'lego', ]
 actualPrice: 33.26 GBP
 currency: GBP
 price: 33.26

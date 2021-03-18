@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4P2XRK-co.uk LEGO 41448 Friends Heartlake City Movie Theater Cinema...'
 sku: 'B08G4P2XRK-co.uk'
-tags: [ 'lego', ]
 actualPrice: 32.41 GBP
 currency: GBP
 price: 32.41

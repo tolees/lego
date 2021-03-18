@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WCXJTQ-co.uk LEGO 76167 Super Heroes Marvel Avengers Iron Man Armory...'
 sku: 'B082WCXJTQ-co.uk'
-tags: [ 'lego', ]
 actualPrice: 16.5 GBP
 currency: GBP
 price: 16.5

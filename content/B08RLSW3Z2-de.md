@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RLSW3Z2-de LEGO Ideas Exclusiv 40448 Oldtimer Vintage Car'
 sku: 'B08RLSW3Z2-de'
-tags: [ 'lego', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

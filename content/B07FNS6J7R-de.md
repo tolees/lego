@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS6J7R-de LEGO 31088 Creator Bewohner der Tiefsee mit Hai Krabbe und...'
 sku: 'B07FNS6J7R-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 10.92 EUR
 currency: EUR
 price: 10.92

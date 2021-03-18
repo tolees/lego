@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV7Y-de LEGO 75968 Harry Potter Ligusterweg 4 Spielzeug-Haus mit...'
 sku: 'B0813QBV7Y-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

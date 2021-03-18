@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PXDYZ-de LEGO 76898 Speed Champions Formula E Panasonic Jaguar...'
 sku: 'B07W5PXDYZ-de'
-tags: [ 'lego', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

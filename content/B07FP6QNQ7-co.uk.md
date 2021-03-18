@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP6QNQ7-co.uk LEGO Technic 42096 Porsche 911 RSR Race Car Advanced...'
 sku: 'B07FP6QNQ7-co.uk'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO City','Posters','Produkte','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 118.22 GBP
 currency: GBP
 price: 118.22

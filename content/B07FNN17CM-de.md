@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNN17CM-de LEGO 60215 City Feuerwehr-Station Bauset mit Lastwagen...'
 sku: 'B07FNN17CM-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

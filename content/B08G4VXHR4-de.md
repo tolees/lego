@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4VXHR4-de LEGO 60279 City Mini-Löschfahrzeug Spielzeug Feuerwehrauto...'
 sku: 'B08G4VXHR4-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

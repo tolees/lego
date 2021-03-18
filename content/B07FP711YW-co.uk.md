@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP711YW-co.uk LEGO 75891 Speed Champions Chevrolet Camaro ZL1 Race...'
 sku: 'B07FP711YW-co.uk'
-tags: [ 'lego', ]
 actualPrice: 11.04 GBP
 currency: GBP
 price: 11.04

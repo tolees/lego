@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZ3N18C-com LEGO Technic Rescue Helicopter 42092 Building Kit 325 Pieces'
 sku: 'B07GZ3N18C-com'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building & Construction Toys','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

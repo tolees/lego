@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BMKLVJ6-co.uk LEGO 31313 Mindstorms EV3 Robotics Kit 5 in 1 App...'
 sku: 'B00BMKLVJ6-co.uk'
-tags: [ 'lego', ]
 actualPrice: 263.0 GBP
 currency: GBP
 price: 263.0

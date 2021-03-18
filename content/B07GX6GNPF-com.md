@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GX6GNPF-com LEGO The LEGO Movie 2 Introducing Queen Watevra Wa’Nabi...'
 sku: 'B07GX6GNPF-com'
-tags: [ 'lego', ]
 actualPrice: 14.99 USD
 currency: USD
 price: 14.99

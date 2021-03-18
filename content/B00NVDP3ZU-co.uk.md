@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NVDP3ZU-co.uk LEGO 10696 Classic Medium Creative Brick Box Easy Toy...'
 sku: 'B00NVDP3ZU-co.uk'
-tags: [ 'lego', ]
 actualPrice: 24.82 GBP
 currency: GBP
 price: 24.82

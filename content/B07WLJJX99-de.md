@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLJJX99-de LEGO 76143 Super Heroes Marvel Avengers Truck-Festnahme...'
 sku: 'B07WLJJX99-de'
-tags: [ 'lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

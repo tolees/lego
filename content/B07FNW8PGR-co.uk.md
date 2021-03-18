@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNW8PGR-co.uk LEGO 75892 Speed Champions Senna McLaren Driver...'
 sku: 'B07FNW8PGR-co.uk'
-tags: [ 'lego', ]
 actualPrice: 9.58 GBP
 currency: GBP
 price: 9.58

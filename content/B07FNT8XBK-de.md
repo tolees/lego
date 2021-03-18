@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNT8XBK-de LEGO 11001 Classic Bausteine - Erster Bauspaß...'
 sku: 'B07FNT8XBK-de'
-tags: [ 'lego', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TM73M-co.uk LEGO City 60245 Police Monster Truck Heist Building Set...'
 sku: 'B07W7TM73M-co.uk'
-tags: [ 'lego', ]
 actualPrice: 31.49 GBP
 currency: GBP
 price: 31.49

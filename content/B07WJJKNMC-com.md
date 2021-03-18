@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJJKNMC-com LEGO Architecture Skylines: Dubai 21052 Building Kit...'
 sku: 'B07WJJKNMC-com'
-tags: [ 'lego', ]
 actualPrice: 47.99 USD
 currency: USD
 price: 47.99

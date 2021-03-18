@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PXDVR-co.uk LEGO 41391 Friends Heartlake City Hair Salon Playset...'
 sku: 'B07W5PXDVR-co.uk'
-tags: [ 'lego', ]
 actualPrice: 13.37 GBP
 currency: GBP
 price: 13.37

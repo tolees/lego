@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0858HRS4L-com LEGO Star Wars Anakin’s Jedi Interceptor 75281 Building...'
 sku: 'B0858HRS4L-com'
-tags: [ 'lego', ]
 actualPrice: 24.0 USD
 currency: USD
 price: 24.0

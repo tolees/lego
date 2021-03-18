@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BSV66TE-de LEGO 60291 City Modernes Familienhaus Puppenhaus Bauset...'
 sku: 'B00BSV66TE-de'
-tags: [ 'lego', ]
 actualPrice: 35.77 EUR
 currency: EUR
 price: 35.77

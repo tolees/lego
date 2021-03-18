@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TKRKB-co.uk LEGO 41389 Friends Ice Cream Cart Playset with...'
 sku: 'B07W7TKRKB-co.uk'
-tags: [ 'lego', ]
 actualPrice: 5.0 GBP
 currency: GBP
 price: 5.0

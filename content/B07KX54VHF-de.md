@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KX54VHF-de LEGO 75957 Harry Potter Der Fahrende Ritter Spielzeug...'
 sku: 'B07KX54VHF-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 29.18 EUR
 currency: EUR
 price: 29.18

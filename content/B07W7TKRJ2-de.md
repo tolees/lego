@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TKRJ2-de Lego Creator - LEGO 31100 Creator 3-in-1 Sportwagen- Hot...'
 sku: 'B07W7TKRJ2-de'
-tags: [ 'lego', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

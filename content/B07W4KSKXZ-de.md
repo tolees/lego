@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4KSKXZ-de LEGO 60253 City Eiswagen Spielzeug mit Skater- und...'
 sku: 'B07W4KSKXZ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

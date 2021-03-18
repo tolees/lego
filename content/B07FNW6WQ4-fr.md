@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNW6WQ4-fr LEGO® Technic Chevrolet Corvette ZR1 Jeu de construction...'
 sku: 'B07FNW6WQ4-fr'
-tags: [ 'Jeux de construction','lego','lego®', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

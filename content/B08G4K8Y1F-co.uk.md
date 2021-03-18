@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4K8Y1F-co.uk LEGO 42118 Technic Monster Jam Grave Digger Truck Toy...'
 sku: 'B08G4K8Y1F-co.uk'
-tags: [ 'lego', ]
 actualPrice: 14.4 GBP
 currency: GBP
 price: 14.4

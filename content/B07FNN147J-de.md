@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNN147J-de LEGO 21044 Architecture Paris Modell mit Eiffelturm und...'
 sku: 'B07FNN147J-de'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Coffrets de figurines pour enfants','Costruzioni','Decorazioni per interni','Figurines pour enfants','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

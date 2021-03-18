@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4GPS3P-de LEGO 21170 Minecraft Das Schweinehaus Bauset mit Alex und...'
 sku: 'B08G4GPS3P-de'
-tags: [ 'lego', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

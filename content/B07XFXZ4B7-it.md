@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFXZ4B7-it LEGO Star Wars Casco di Boba Fett Set di Costruzioni da...'
 sku: 'B07XFXZ4B7-it'
-tags: [ 'Activities, Crafts & Games for Children','Activity Books for Children','Architectural History','Architectural Photography','Architectural Types','Architecture','Architecture References','Arts & Photography','Bauspielzeug & Konstruktionsspielzeug','Books','Building & Construction Toys','Childrens Books','Childrens Books on Arts, Music & Photography','Childrens Books on Crafts & Hobbies','Childrens Books on Model Making','Childrens Books on Performing Arts','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbies & Games','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','Literature & Fiction for Children','Miniature Model Making','Photography & Video','Sammelfiguren','Sammelfiguren & Requisiten','Science Fiction & Fantasy for Children','Science Fiction for Children','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Sports, Hobbies & Games','Teen & Young Adult','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

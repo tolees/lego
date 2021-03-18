@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2GQDQ6-co.uk LEGO 42110 Technic Land Rover Defender Off Road 4x4 Car...'
 sku: 'B07P2GQDQ6-co.uk'
-tags: [ 'Building & Construction Toys','lego', ]
 actualPrice: 118.32 GBP
 currency: GBP
 price: 118.32

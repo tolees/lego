@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5PXDWT-de LEGO 60249 City Straßenkehrmaschine mit Fahrer...'
 sku: 'B07W5PXDWT-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

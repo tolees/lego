@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP6QNQ7-es LEGO Technic - Porsche 911 RSR maqueta de juguete de coche...'
 sku: 'B07FP6QNQ7-es'
-tags: [ 'lego', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

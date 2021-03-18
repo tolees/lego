@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RX3YR-de LEGO 41423 Friends Tiger-Rettung mit Heißluftballon...'
 sku: 'B0813RX3YR-de'
-tags: [ 'lego', ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

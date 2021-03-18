@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003NE5L9K-com LEGO Storage Brick 8 Black'
 sku: 'B003NE5L9K-com'
-tags: [ 'lego', ]
 actualPrice: 29.68 USD
 currency: USD
 price: 29.68

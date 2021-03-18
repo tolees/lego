@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFXZ43Z-de LEGO 75278 Star Wars D-O Droide Sammlermodell Bauset aus...'
 sku: 'B07XFXZ43Z-de'
-tags: [ 'lego', ]
 actualPrice: 49.2 EUR
 currency: EUR
 price: 49.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BCMBTTA-com LEGO Star Wars: The Force Awakens - Wii U Standard Edition'
 sku: 'B01BCMBTTA-com'
-tags: [ 'lego', ]
 actualPrice: 7.78 USD
 currency: USD
 price: 7.78

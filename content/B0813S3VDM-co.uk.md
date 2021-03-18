@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813S3VDM-co.uk Harry Potter TM - LEGO 75979 Harry Potter Hedwig the...'
 sku: 'B0813S3VDM-co.uk'
-tags: [ 'lego', ]
 actualPrice: 27.99 GBP
 currency: GBP
 price: 27.99

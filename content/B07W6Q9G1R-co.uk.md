@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6Q9G1R-co.uk LEGO 76897 Speed Champions Audi Sport quattro S1 Racer...'
 sku: 'B07W6Q9G1R-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.29 GBP
 currency: GBP
 price: 15.29

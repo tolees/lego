@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLMSVCJ-de LEGO 60251 City Monster-Truck Spielzeug für Kinder ab 5...'
 sku: 'B07WLMSVCJ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

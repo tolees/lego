@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNTSDD6-de LEGO 10901 DUPLO Feuerwehrauto mit Feuerwehrmann-Figur...'
 sku: 'B07FNTSDD6-de'
-tags: [ 'lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

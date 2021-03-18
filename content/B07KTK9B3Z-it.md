@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK9B3Z-it LEGO Architecture Trafalgar Square con Galleria Nazionale...'
 sku: 'B07KTK9B3Z-it'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hardware y juegos para Nintendo Switch','Hobbys','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','Videojuegos','lego', ]
 actualPrice: 71.16 EUR
 currency: EUR
 price: 71.16

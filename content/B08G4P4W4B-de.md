@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4P4W4B-de LEGO 43104 VIDIYO Alien DJ BeatBox Music Video Maker Musik...'
 sku: 'B08G4P4W4B-de'
-tags: [ 'lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

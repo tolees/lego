@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PW3NV-co.uk LEGO 75268 Star Wars Snowspeeder and Speeder Bike...'
 sku: 'B07W5PW3NV-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.29 GBP
 currency: GBP
 price: 15.29

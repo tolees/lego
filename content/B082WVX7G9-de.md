@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WVX7G9-de H0 V 1369Teile 1:20 2.4GHz RC Modell LKW Truck Bausteine...'
 sku: 'B082WVX7G9-de'
-tags: [ 'lego', ]
 actualPrice: 138.99 EUR
 currency: EUR
 price: 138.99

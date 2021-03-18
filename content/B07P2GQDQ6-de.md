@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2GQDQ6-de LEGO 42110 Technic Land Rover Defender 4x4 Geländewagen...'
 sku: 'B07P2GQDQ6-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 136.96 EUR
 currency: EUR
 price: 136.96

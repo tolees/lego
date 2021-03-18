@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TJ1FQ-co.uk LEGO 43173 Disney Princess Aurora s Royal Carriage...'
 sku: 'B07W7TJ1FQ-co.uk'
-tags: [ 'lego', ]
 actualPrice: 6.49 GBP
 currency: GBP
 price: 6.49

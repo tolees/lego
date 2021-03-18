@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNTTF4D-co.uk LEGO 60221 City Great Vehicles Diving Yacht Boat Toy...'
 sku: 'B07FNTTF4D-co.uk'
-tags: [ 'lego', ]
 actualPrice: 12.43 GBP
 currency: GBP
 price: 12.43

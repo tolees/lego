@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8YL5LG-co.uk LEGO 42102 Technic Mini CLAAS XERION Tractor to...'
 sku: 'B07W8YL5LG-co.uk'
-tags: [ 'lego', ]
 actualPrice: 7.64 GBP
 currency: GBP
 price: 7.64

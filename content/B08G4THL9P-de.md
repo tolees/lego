@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4THL9P-de LEGO 60287 City Traktor Spielzeug Bauernhofset mit...'
 sku: 'B08G4THL9P-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

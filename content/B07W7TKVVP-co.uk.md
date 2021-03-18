@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TKVVP-co.uk LEGO 76896 Speed Champions Nissan GT-R NISMO Racer Toy...'
 sku: 'B07W7TKVVP-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.29 GBP
 currency: GBP
 price: 15.29

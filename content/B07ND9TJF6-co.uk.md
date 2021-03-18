@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND9TJF6-co.uk LEGO 75256 Star Wars Kylo Ren’s Shuttle Starship...'
 sku: 'B07ND9TJF6-co.uk'
-tags: [ 'lego', ]
 actualPrice: 79.54 GBP
 currency: GBP
 price: 79.54

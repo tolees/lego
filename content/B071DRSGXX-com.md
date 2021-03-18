@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071DRSGXX-com LEGO Collectible Minifigure Series 17 - French...'
 sku: 'B071DRSGXX-com'
-tags: [ 'lego', ]
 actualPrice: 8.99 USD
 currency: USD
 price: 8.99

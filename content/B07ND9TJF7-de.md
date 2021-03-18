@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND9TJF7-de LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset...'
 sku: 'B07ND9TJF7-de'
-tags: [ 'lego', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLJJX99-co.uk LEGO 76143 Super Heroes Marvel Avengers Truck Take-down...'
 sku: 'B07WLJJX99-co.uk'
-tags: [ 'lego', ]
 actualPrice: 23.0 GBP
 currency: GBP
 price: 23.0

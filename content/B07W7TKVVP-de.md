@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TKVVP-de LEGO 76896 Speed Champions Nissan GT-R NISMO...'
 sku: 'B07W7TKVVP-de'
-tags: [ 'lego', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRT5BHZ-com LEGO Hidden Side Graveyard Mystery 70420 Building Kit App...'
 sku: 'B07NRT5BHZ-com'
-tags: [ 'lego', ]
 actualPrice: 17.99 USD
 currency: USD
 price: 17.99

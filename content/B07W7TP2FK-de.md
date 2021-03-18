@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TP2FK-de LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset...'
 sku: 'B07W7TP2FK-de'
-tags: [ 'lego', ]
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

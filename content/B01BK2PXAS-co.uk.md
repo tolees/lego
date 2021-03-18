@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BK2PXAS-co.uk LEGO 10907 DUPLO Town World Animals Adventure Learning...'
 sku: 'B01BK2PXAS-co.uk'
-tags: [ 'lego', ]
 actualPrice: 63.0 GBP
 currency: GBP
 price: 63.0

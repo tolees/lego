@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WDQHZQ-de LEGO 71360 Super Mario Abenteuer mit Mario – Starterset...'
 sku: 'B082WDQHZQ-de'
-tags: [ 'lego', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

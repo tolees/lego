@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC3HPZT-de DUPLO Toy Story TM - LEGO 10894 DUPLO Toy-Story-Zug...'
 sku: 'B07JC3HPZT-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','duplo toy story tm','lego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

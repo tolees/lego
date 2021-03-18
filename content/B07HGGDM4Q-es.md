@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGGDM4Q-es Warner Bros. Interactive Spain - Lego Harry Potter...'
 sku: 'B07HGGDM4Q-es'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hardware y juegos para Nintendo Switch','Hobbys','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','Videojuegos','lego','warner bros. interactive spain', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

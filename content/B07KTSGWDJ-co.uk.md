@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTSGWDJ-co.uk LEGO 60228 City Deep Space Rocket and Launch Control...'
 sku: 'B07KTSGWDJ-co.uk'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Posters','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 72.99 GBP
 currency: GBP
 price: 72.99

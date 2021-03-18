@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNNMWRS-com Lego Jurassic World - Nintendo Switch'
 sku: 'B07VNNMWRS-com'
-tags: [ 'lego', ]
 actualPrice: 25.9 USD
 currency: USD
 price: 25.9

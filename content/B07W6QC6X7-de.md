@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6QC6X7-de LEGO 70428 - Jacks Strandbuggy Hidden Side Bauset'
 sku: 'B07W6QC6X7-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

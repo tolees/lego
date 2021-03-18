@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BCMCDBI-com LEGO Star Wars: The Force Awakens'
 sku: 'B01BCMCDBI-com'
-tags: [ 'lego', ]
 actualPrice: 13.28 USD
 currency: USD
 price: 13.28

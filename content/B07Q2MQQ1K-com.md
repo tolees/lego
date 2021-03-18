@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q2MQQ1K-com LEGO Disney Frozen II Anna’s Canoe Expedition 41165...'
 sku: 'B07Q2MQQ1K-com'
-tags: [ 'lego', ]
 actualPrice: 14.99 USD
 currency: USD
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4FRM1T-co.uk LEGO 43107 VIDIYO HipHop Robot BeatBox Music Video...'
 sku: 'B08G4FRM1T-co.uk'
-tags: [ 'Game Accessories','lego', ]
 actualPrice: 11.95 GBP
 currency: GBP
 price: 11.95

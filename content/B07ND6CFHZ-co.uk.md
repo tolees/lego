@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND6CFHZ-co.uk LEGO 42099 Technic Control+ 4x4 X-treme Off-Roader...'
 sku: 'B07ND6CFHZ-co.uk'
-tags: [ 'lego', ]
 actualPrice: 159.99 GBP
 currency: GBP
 price: 159.99

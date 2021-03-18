@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4KTH3K-de LEGO 43176 - Arielle Märchenbuch Disney Princess Bauset'
 sku: 'B07W4KTH3K-de'
-tags: [ 'lego', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

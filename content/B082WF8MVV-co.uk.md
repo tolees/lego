@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WF8MVV-co.uk LEGO 71369 Super Mario Bowser’s Castle Boss Battle...'
 sku: 'B082WF8MVV-co.uk'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO City','Posters','Produkte','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 73.98 GBP
 currency: GBP
 price: 73.98

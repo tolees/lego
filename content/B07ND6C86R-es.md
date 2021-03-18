@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND6C86R-es LEGO - Hidden Side Expreso Fantasma Juguete de...'
 sku: 'B07ND6C86R-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
 actualPrice: 64.45 EUR
 currency: EUR
 price: 64.45

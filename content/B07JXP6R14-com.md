@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JXP6R14-com LEGO Marvel Spider-Man Far From Home: Molten Man Battle...'
 sku: 'B07JXP6R14-com'
-tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99

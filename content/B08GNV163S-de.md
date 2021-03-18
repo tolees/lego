@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GNV163S-de LEGO 10955 DUPLO Mein erster Tierzug mit Elefanten Tiger...'
 sku: 'B08GNV163S-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RH7GJ-de LEGO 71721 NINJAGO Drache des Totenkopfmagiers 2-in-1...'
 sku: 'B0813RH7GJ-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Utensilienschalen','lego', ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

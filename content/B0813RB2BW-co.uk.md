@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RB2BW-co.uk DUPLO Town - LEGO 10930 DUPLO Bulldozer Construction...'
 sku: 'B0813RB2BW-co.uk'
-tags: [ 'lego', ]
 actualPrice: 6.41 GBP
 currency: GBP
 price: 6.41

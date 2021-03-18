@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVYMLWJ-com LEGO City Great Vehicles Diving Yacht 60221 Building Kit...'
 sku: 'B07GVYMLWJ-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

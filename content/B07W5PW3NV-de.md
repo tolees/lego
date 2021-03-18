@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PW3NV-de LEGO 75268 Star Wars Snowspeeder Verteidigungsstation und...'
 sku: 'B07W5PW3NV-de'
-tags: [ 'lego', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJQT81G-com LEGO Star Wars Snowspeeder 75268 Starship Toy Building...'
 sku: 'B07WJQT81G-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

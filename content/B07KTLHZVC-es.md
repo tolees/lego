@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTLHZVC-es LEGO Architecture - Empire State Building Nuevo Juego de...'
 sku: 'B07KTLHZVC-es'
-tags: [ 'lego','lego architecture', ]
 actualPrice: 93.5 EUR
 currency: EUR
 price: 93.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P11X1HX-com LEGO Creator Expert 10276 Colosseum 9036pcs'
 sku: 'B08P11X1HX-com'
-tags: [ 'lego', ]
 actualPrice: 788.0 USD
 currency: USD
 price: 788.0

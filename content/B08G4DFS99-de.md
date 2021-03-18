@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4DFS99-de LEGO 71747 NINJAGO Das Dorf der Wächter Bauset mit Ninja...'
 sku: 'B08G4DFS99-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

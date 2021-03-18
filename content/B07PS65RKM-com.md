@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PS65RKM-com LEGO City Space Mars Research Shuttle 60226 Space Shuttle...'
 sku: 'B07PS65RKM-com'
-tags: [ 'lego', ]
 actualPrice: 31.99 USD
 currency: USD
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NHQFA1I-com LEGO Classic Medium Creative Brick Box 10696 Building...'
 sku: 'B00NHQFA1I-com'
-tags: [ 'lego', ]
 actualPrice: 26.49 USD
 currency: USD
 price: 26.49

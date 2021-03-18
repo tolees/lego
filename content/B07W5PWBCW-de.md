@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PWBCW-de LEGO Classic - LEGO 11007 Classic Grünes Kreativ-Set...'
 sku: 'B07W5PWBCW-de'
-tags: [ 'lego', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

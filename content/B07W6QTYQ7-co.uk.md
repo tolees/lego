@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QTYQ7-co.uk LEGO 42106 Technic Stunt Show Truck & Bike Toys Set...'
 sku: 'B07W6QTYQ7-co.uk'
-tags: [ 'lego', ]
 actualPrice: 36.99 GBP
 currency: GBP
 price: 36.99

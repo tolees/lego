@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JXRWQT-com LEGO Minions Unstoppable Bike Chase 75549 Minions Toy...'
 sku: 'B083JXRWQT-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

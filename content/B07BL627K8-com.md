@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BL627K8-com LEGO The Powerpuff Girls Mojo Jojo Strikes 41288 Building...'
 sku: 'B07BL627K8-com'
-tags: [ 'lego', ]
 actualPrice: 21.22 USD
 currency: USD
 price: 21.22

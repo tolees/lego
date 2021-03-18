@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6QBNM5-de LEGO 60258 City Tuning-Werkstatt Bauset mit Abschleppwagen...'
 sku: 'B07W6QBNM5-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

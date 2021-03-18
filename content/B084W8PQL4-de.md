@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084W8PQL4-de LEGO 43187 Disney Princess Rapunzels Turm Spielset mit 2...'
 sku: 'B084W8PQL4-de'
-tags: [ 'lego', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

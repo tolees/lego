@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4PBFLQ-co.uk LEGO 60276 City Police Prisoner Transport Tow Truck Toy...'
 sku: 'B08G4PBFLQ-co.uk'
-tags: [ 'lego', ]
 actualPrice: 12.0 GBP
 currency: GBP
 price: 12.0

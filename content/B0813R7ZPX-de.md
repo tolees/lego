@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R7ZPX-de LEGO 31199 Art Marvel Studios Iron Man – Kunstbild...'
 sku: 'B0813R7ZPX-de'
-tags: [ 'lego', ]
 actualPrice: 87.9 EUR
 currency: EUR
 price: 87.9

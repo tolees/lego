@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3S3M9J-co.uk LEGO 75948 Harry Potter Hogwarts Castle Clock Tower Toy...'
 sku: 'B07G3S3M9J-co.uk'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO City','Posters','Produkte','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 69.99 GBP
 currency: GBP
 price: 69.99

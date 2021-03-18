@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4P4W4B-co.uk LEGO 43104 VIDIYO Alien DJ BeatBox Music Video Maker...'
 sku: 'B08G4P4W4B-co.uk'
-tags: [ 'Musical Toy Instruments','lego', ]
 actualPrice: 11.95 GBP
 currency: GBP
 price: 11.95

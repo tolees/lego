@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KMUUQVK-com LEGO DUPLO My First Number Train 10847 Learning and...'
 sku: 'B01KMUUQVK-com'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Elektronische Spiele für Kinder','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

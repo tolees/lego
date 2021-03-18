@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4KSBXK-de LEGO 76384 Harry Potter Hogwarts Moment:...'
 sku: 'B08G4KSBXK-de'
-tags: [ 'lego', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

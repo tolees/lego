@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4P2B7B-de LEGO 31112 Creator 3-in-1 Wilder Löwe Strauß und...'
 sku: 'B08G4P2B7B-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

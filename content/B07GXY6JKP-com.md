@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXY6JKP-com LEGO DUPLO Disney Pixar Toy Story Train 10894 Perfect for...'
 sku: 'B07GXY6JKP-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

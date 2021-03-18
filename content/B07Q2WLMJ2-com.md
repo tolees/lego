@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2WLMJ2-com LEGO Star Wars: The Rise of Skywalker Resistance Y-Wing...'
 sku: 'B07Q2WLMJ2-com'
-tags: [ 'lego', ]
 actualPrice: 56.0 USD
 currency: USD
 price: 56.0

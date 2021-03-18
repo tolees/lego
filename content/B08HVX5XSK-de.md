@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVX5XSK-de Lego Technic 42118 - Monster Jam - Grave Digger Truck 212...'
 sku: 'B08HVX5XSK-de'
-tags: [ 'lego', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

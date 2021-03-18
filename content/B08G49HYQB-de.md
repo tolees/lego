@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G49HYQB-de LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1...'
 sku: 'B08G49HYQB-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

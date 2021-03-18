@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHMBVTF-fr LEGO Speed Champions 76896 - N-i-s-s-a-n GT-R NISMO Blanc...'
 sku: 'B07WHMBVTF-fr'
-tags: [ 'Jeux de construction','lego', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

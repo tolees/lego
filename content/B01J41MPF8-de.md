@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41MPF8-de LEGO 21034 Architecture London Skyline-Kollektion London...'
 sku: 'B01J41MPF8-de'
-tags: [ 'Accessori decorativi per la casa','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Casa e cucina','Coffrets de figurines pour enfants','Costruzioni','Decorazioni per interni','Figurines pour enfants','Frontoni','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Model Building','Model Building Kits','Motor Vehicle Model Building Kits','Robots électroniques pour enfants','Spielzeug','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0858DDQ9Z-com LEGO Jurassic World Dr. Wu s Lab: Baby Dinosaurs Breakout...'
 sku: 'B0858DDQ9Z-com'
-tags: [ 'lego', ]
 actualPrice: 16.0 USD
 currency: USD
 price: 16.0

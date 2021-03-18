@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QVVSW-co.uk LEGO 75286 Star Wars General Grievous’s Starfighter Set'
 sku: 'B0813QVVSW-co.uk'
-tags: [ 'lego', ]
 actualPrice: 62.39 GBP
 currency: GBP
 price: 62.39

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GR1TVS-co.uk LEGO UK - 75535 Star Wars Han Solo Buildable Figure'
 sku: 'B075GR1TVS-co.uk'
-tags: [ 'lego', ]
 actualPrice: 17.0 GBP
 currency: GBP
 price: 17.0

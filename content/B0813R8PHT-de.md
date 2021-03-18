@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R8PHT-de LEGO 75281 Star Wars Anakins Jedi Interceptor Bauset mit...'
 sku: 'B0813R8PHT-de'
-tags: [ 'lego', ]
 actualPrice: 21.86 EUR
 currency: EUR
 price: 21.86

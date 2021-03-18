@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLN9LYX-de LEGO 41250 Trolls World Tour Party am Techno Riff...'
 sku: 'B07WLN9LYX-de'
-tags: [ 'lego', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

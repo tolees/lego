@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND9RDRV-de LEGO 41167 Disney Princess Frozen Die Eiskönigin 2 Schloss...'
 sku: 'B07ND9RDRV-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

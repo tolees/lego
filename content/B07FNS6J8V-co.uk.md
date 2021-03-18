@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS6J8V-co.uk LEGO 60216 City Fire Downtown Fire Brigade with Fire...'
 sku: 'B07FNS6J8V-co.uk'
-tags: [ 'Building & Construction Toys','lego', ]
 actualPrice: 74.99 GBP
 currency: GBP
 price: 74.99

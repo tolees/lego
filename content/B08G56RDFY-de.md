@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G56RDFY-de LEGO 31118 Creator 3-in-1 Surfer-Strandhaus Leuchtturm &...'
 sku: 'B08G56RDFY-de'
-tags: [ 'lego', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PY3JF-de LEGO 76150 Super Heroes Spiderjet vs. Venom Mech Spielset...'
 sku: 'B07W5PY3JF-de'
-tags: [ 'lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

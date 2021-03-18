@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792RDN2V-de LEGO 75954 Harry Potter Die große Halle von Hogwarts...'
 sku: 'B0792RDN2V-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9

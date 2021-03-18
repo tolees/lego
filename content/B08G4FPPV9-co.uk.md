@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4FPPV9-co.uk LEGO 43102 VIDIYO Candy Mermaid BeatBox Music Video...'
 sku: 'B08G4FPPV9-co.uk'
-tags: [ 'Kids Electric Learning Toys','lego', ]
 actualPrice: 11.95 GBP
 currency: GBP
 price: 11.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WFHWSLR-com LEGO Star Wars: Revenge of the Sith Duel on Mustafar...'
 sku: 'B07WFHWSLR-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G44DS1X-co.uk LEGO 41444 Friends Heartlake City Organic Café Playset...'
 sku: 'B08G44DS1X-co.uk'
-tags: [ 'lego', ]
 actualPrice: 19.97 GBP
 currency: GBP
 price: 19.97

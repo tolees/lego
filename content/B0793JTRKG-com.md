@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793JTRKG-com LEGO Architecture Statue of Liberty 21042 Building Kit...'
 sku: 'B0793JTRKG-com'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Building Toys','Spielzeug','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 99.88 USD
 currency: USD
 price: 99.88

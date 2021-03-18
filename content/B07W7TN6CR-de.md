@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TN6CR-de LEGO Classic - LEGO 11006 Classic Blaues Kreativ-Set...'
 sku: 'B07W7TN6CR-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego','lego classic', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RH7GJ-co.uk LEGO 71721 NINJAGO Skull Sorcerer s Dragon Toy 2in1...'
 sku: 'B0813RH7GJ-co.uk'
-tags: [ 'lego', ]
 actualPrice: 56.98 GBP
 currency: GBP
 price: 56.98

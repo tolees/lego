@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PX1QP-co.uk LEGO 41395 Friends Friendship Bus Toy with Swimming...'
 sku: 'B07W5PX1QP-co.uk'
-tags: [ 'lego', ]
 actualPrice: 51.97 GBP
 currency: GBP
 price: 51.97

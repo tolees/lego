@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H8CR8K3-de Italienisches Supercar blau 12-Zylinder 3842 Teile...'
 sku: 'B08H8CR8K3-de'
-tags: [ 'lego', ]
 actualPrice: 143.02 EUR
 currency: EUR
 price: 143.02

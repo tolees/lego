@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CKR6VP-co.uk LEGO 75317 BrickHeadz Star Wars The Mandalorian & The...'
 sku: 'B084CKR6VP-co.uk'
-tags: [ 'lego', ]
 actualPrice: 13.52 GBP
 currency: GBP
 price: 13.52

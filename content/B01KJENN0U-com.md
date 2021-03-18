@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KJENN0U-com LEGO Architecture London Skyline Collection 21034...'
 sku: 'B01KJENN0U-com'
-tags: [ 'lego', ]
 actualPrice: 33.99 USD
 currency: USD
 price: 33.99

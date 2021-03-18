@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QVVSW-es LEGO 75286 Star Wars Caza Estelar del General Grievous Set...'
 sku: 'B0813QVVSW-es'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

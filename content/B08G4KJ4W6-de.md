@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4KJ4W6-de LEGO 60280 City Feuerwehrauto Spielzeug mit Feuerwehrmann...'
 sku: 'B08G4KJ4W6-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

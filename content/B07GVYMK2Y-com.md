@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GVYMK2Y-com LEGO City Sky Police Drone Chase 60207 Building Kit 192...'
 sku: 'B07GVYMK2Y-com'
-tags: [ 'lego', ]
 actualPrice: 21.99 USD
 currency: USD
 price: 21.99

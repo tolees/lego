@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZS54LQ-co.uk LEGO Star Wars Planets 9678: Twin-Pod Cloud Car and Bespin'
 sku: 'B006ZS54LQ-co.uk'
-tags: [ 'lego', ]
 actualPrice: 5.8 GBP
 currency: GBP
 price: 5.8

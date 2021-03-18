@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNTTF4D-de LEGO 60221 City Tauchyacht Spielzeug mit 2 Taucher-...'
 sku: 'B07FNTTF4D-de'
-tags: [ 'lego', ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

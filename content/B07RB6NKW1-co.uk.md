@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RB6NKW1-co.uk LEGO 76144 Super Heroes Marvel Avengers Endgame Hulk...'
 sku: 'B07RB6NKW1-co.uk'
-tags: [ 'lego', ]
 actualPrice: 44.99 GBP
 currency: GBP
 price: 44.99

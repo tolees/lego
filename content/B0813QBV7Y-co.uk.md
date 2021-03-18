@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QBV7Y-co.uk Harry Potter TM - LEGO 75968 Harry Potter 4 Privet...'
 sku: 'B0813QBV7Y-co.uk'
-tags: [ 'lego', ]
 actualPrice: 47.99 GBP
 currency: GBP
 price: 47.99

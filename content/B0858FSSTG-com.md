@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0858FSSTG-com LEGO Super Mario Whomp’s Lava Trouble Expansion Set 71364...'
 sku: 'B0858FSSTG-com'
-tags: [ 'lego', ]
 actualPrice: 16.0 USD
 currency: USD
 price: 16.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4FJJ5J-com LEGO Super Heroes: Avengers: Infinity War MiniFigure - MK...'
 sku: 'B07D4FJJ5J-com'
-tags: [ 'lego', ]
 actualPrice: 15.0 USD
 currency: USD
 price: 15.0

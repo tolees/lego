@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNN17DW-de LEGO City 60213 Feuerwehr am Hafen'
 sku: 'B07FNN17DW-de'
-tags: [ 'lego', ]
 actualPrice: 10.71 EUR
 currency: EUR
 price: 10.71

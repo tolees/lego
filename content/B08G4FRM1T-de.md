@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4FRM1T-de LEGO 43107 VIDIYO HipHop Robot BeatBox Music Video Maker...'
 sku: 'B08G4FRM1T-de'
-tags: [ 'lego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

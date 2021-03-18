@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R6HZV-de LEGO 31107 Creator 3-in-1 Planeten Erkundungs-Rover...'
 sku: 'B0813R6HZV-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

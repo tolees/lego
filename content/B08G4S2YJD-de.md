@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4S2YJD-de LEGO 43106 VIDIYO Unicorn DJ BeatBox Music Video Maker...'
 sku: 'B08G4S2YJD-de'
-tags: [ 'lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

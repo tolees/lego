@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRSY3RW-com LEGO Harry Potter Advent Calendar 75964 Building Kit 305...'
 sku: 'B07NRSY3RW-com'
-tags: [ 'lego', ]
 actualPrice: 31.5 USD
 currency: USD
 price: 31.5

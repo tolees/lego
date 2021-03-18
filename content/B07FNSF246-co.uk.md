@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNSF246-co.uk LEGO 76117 DC Super Heroes Batman Mech vs Poison Ivy...'
 sku: 'B07FNSF246-co.uk'
-tags: [ 'lego', ]
 actualPrice: 24.0 GBP
 currency: GBP
 price: 24.0

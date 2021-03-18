@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5QGW6X-de LEGO 41253 Trolls World Tour Floßabenteuer in...'
 sku: 'B07W5QGW6X-de'
-tags: [ 'lego', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

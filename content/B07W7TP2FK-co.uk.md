@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TP2FK-co.uk LEGO 75271 Star Wars Luke Skywalker’s Landspeeder...'
 sku: 'B07W7TP2FK-co.uk'
-tags: [ 'lego', ]
 actualPrice: 21.24 GBP
 currency: GBP
 price: 21.24

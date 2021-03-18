@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMJL9W5-com LEGO Speed Champions 1985 Audi Sport Quattro S1 76897 Toy...'
 sku: 'B07WMJL9W5-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

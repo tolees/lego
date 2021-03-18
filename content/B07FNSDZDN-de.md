@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNSDZDN-de LEGO 75893 Speed Champions 2018 Dodge Challenger SRT Demon...'
 sku: 'B07FNSDZDN-de'
-tags: [ 'lego', ]
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTLHZVC-co.uk LEGO 21046 Architecture Empire State Building New York...'
 sku: 'B07KTLHZVC-co.uk'
-tags: [ 'lego', ]
 actualPrice: 74.99 GBP
 currency: GBP
 price: 74.99

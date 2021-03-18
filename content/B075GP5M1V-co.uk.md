@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GP5M1V-co.uk LEGO 10867 DUPLO Town Farmers Market Set Building...'
 sku: 'B075GP5M1V-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.1 GBP
 currency: GBP
 price: 15.1

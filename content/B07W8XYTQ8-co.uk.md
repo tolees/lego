@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8XYTQ8-co.uk LEGO 41394 Friends Heartlake City Hospital Playset with...'
 sku: 'B07W8XYTQ8-co.uk'
-tags: [ 'lego', ]
 actualPrice: 39.51 GBP
 currency: GBP
 price: 39.51

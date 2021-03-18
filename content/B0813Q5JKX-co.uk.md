@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813Q5JKX-co.uk LEGO 75288 Star Wars AT-AT Walker Toy 40th Anniversary Set'
 sku: 'B0813Q5JKX-co.uk'
-tags: [ 'lego', ]
 actualPrice: 104.59 GBP
 currency: GBP
 price: 104.59

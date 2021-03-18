@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4H3SQG-de LEGO 75295 Star Wars Millennium Falcon Microfighter...'
 sku: 'B08G4H3SQG-de'
-tags: [ 'lego', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

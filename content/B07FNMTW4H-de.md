@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMTW4H-de LEGO 60208 City Polizei Flucht mit dem Fallschirm Bausatz...'
 sku: 'B07FNMTW4H-de'
-tags: [ 'lego', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

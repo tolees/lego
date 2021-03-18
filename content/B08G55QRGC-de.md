@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G55QRGC-de LEGO 43192 Disney Princess Cinderellas königliche Kutsche...'
 sku: 'B08G55QRGC-de'
-tags: [ 'lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

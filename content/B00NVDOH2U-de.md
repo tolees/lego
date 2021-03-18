@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NVDOH2U-de LEGO 10700 Classic Grüne Bauplatte 25 cm x 25 cm...'
 sku: 'B00NVDOH2U-de'
-tags: [ 'lego', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8Y1FRJ-co.uk LEGO 41393 Friends Baking Competition Playset with Toy...'
 sku: 'B07W8Y1FRJ-co.uk'
-tags: [ 'Building & Construction Toys','lego', ]
 actualPrice: 23.99 GBP
 currency: GBP
 price: 23.99

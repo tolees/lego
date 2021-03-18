@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BRRY14-de LEGO 21161 Minecraft Die Crafting-Box 3.0 2-in-1 Set...'
 sku: 'B082BRRY14-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDB2SFH-de LEGO 75255 Star Wars Yoda Bauset Sammlermodell mit...'
 sku: 'B07NDB2SFH-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Costruzioni','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

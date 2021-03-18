@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0849YL78H-com LEGO Jurassic World: Legend of Isla Nublar'
 sku: 'B0849YL78H-com'
-tags: [ 'lego', ]
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

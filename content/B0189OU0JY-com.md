@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0189OU0JY-com Lego Star Wars: Droid Tales'
 sku: 'B0189OU0JY-com'
-tags: [ 'lego', ]
 actualPrice: 9.99 USD
 currency: USD
 price: 9.99

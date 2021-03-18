@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4XKKDV-de LEGO 41439 Friends Mobiler Katzensalon Spielset mit Katzen...'
 sku: 'B08G4XKKDV-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R1CMZ-de LEGO 60266 City Meeresforschungsschiff schwimmendes...'
 sku: 'B0813R1CMZ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

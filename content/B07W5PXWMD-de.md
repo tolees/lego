@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PXWMD-de Lego Ninjago - LEGO 71708 NINJAGO Marktplatz Minifiguren-...'
 sku: 'B07W5PXWMD-de'
-tags: [ 'lego', ]
 actualPrice: 22.62 EUR
 currency: EUR
 price: 22.62

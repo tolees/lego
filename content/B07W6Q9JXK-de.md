@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6Q9JXK-de LEGO 60244 City Polizeihubschrauber-Transport Bauset mit...'
 sku: 'B07W6Q9JXK-de'
-tags: [ 'lego', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC1VFZH-de LEGO 21159 Minecraft Der Plünderer-Außenposten Bauset mit...'
 sku: 'B07WC1VFZH-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

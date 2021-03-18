@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R6HZB-de LEGO 76164 Marvel Avengers Iron Man Hulkbuster vs....'
 sku: 'B0813R6HZB-de'
-tags: [ 'lego', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PX3T2FF-com LEGO Harry Potter and The Goblet of Fire The Rise of...'
 sku: 'B07PX3T2FF-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

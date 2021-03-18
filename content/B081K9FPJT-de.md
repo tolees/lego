@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081K9FPJT-de Lego Wear Jungen LWJOSHUA - Lego Tec COOL Jacke 508 Light...'
 sku: 'B081K9FPJT-de'
-tags: [ 'lego', ]
 actualPrice: 62.09 EUR
 currency: EUR
 price: 62.09

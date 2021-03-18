@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFBHKR1-co.uk Lego Wear Girls Lego Friends cm Sweatshirt Pink Pink...'
 sku: 'B07MFBHKR1-co.uk'
-tags: [ 'lego', ]
 actualPrice: 10.23 GBP
 currency: GBP
 price: 10.23

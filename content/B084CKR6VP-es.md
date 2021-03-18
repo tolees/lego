@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084CKR6VP-es LEGO Brickheadz - LEGO Star Wars BrickHeadz - El...'
 sku: 'B084CKR6VP-es'
-tags: [ 'lego','lego brickheadz', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

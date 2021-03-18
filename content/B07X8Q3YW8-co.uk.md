@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8Q3YW8-co.uk LEGO 41902 DOTS Sparkly Unicorn Bracelet DIY Jewellery...'
 sku: 'B07X8Q3YW8-co.uk'
-tags: [ 'lego', ]
 actualPrice: 3.74 GBP
 currency: GBP
 price: 3.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTVR1HW-co.uk LEGO 76138 DC Batman 4+ Batman and The Joker Escape...'
 sku: 'B07KTVR1HW-co.uk'
-tags: [ 'lego', ]
 actualPrice: 26.24 GBP
 currency: GBP
 price: 26.24

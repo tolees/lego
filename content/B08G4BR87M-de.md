@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4BR87M-de LEGO 71740 NINJAGO Jays Elektro-Mech Actionfigur Spielzeug...'
 sku: 'B08G4BR87M-de'
-tags: [ 'lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

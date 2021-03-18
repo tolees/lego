@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXLSNNX-com LEGO THE LEGO MOVIE 2 Sweet Mayhem’s Systar Starship;...'
 sku: 'B07GXLSNNX-com'
-tags: [ 'lego', ]
 actualPrice: 41.98 USD
 currency: USD
 price: 41.98

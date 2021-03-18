@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC12QW7-de LEGO Classic - LEGO 11010 Classic Weiße Bauplatte 25 cm x...'
 sku: 'B07WC12QW7-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego','lego classic', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

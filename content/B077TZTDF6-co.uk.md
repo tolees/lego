@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077TZTDF6-co.uk LEGO 10256 - CREATOR EXPERT -'
 sku: 'B077TZTDF6-co.uk'
-tags: [ 'lego', ]
 actualPrice: 400.23 GBP
 currency: GBP
 price: 400.23

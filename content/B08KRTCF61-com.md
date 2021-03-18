@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KRTCF61-com LEGO City Police Patrol Boat 60277 Building Kit; Cool...'
 sku: 'B08KRTCF61-com'
-tags: [ 'lego', ]
 actualPrice: 49.99 USD
 currency: USD
 price: 49.99

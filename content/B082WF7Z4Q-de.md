@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WF7Z4Q-de LEGO 71362 Super Mario Bewachte Festung – Erweiterungsset...'
 sku: 'B082WF7Z4Q-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 35.27 EUR
 currency: EUR
 price: 35.27

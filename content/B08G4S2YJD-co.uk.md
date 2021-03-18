@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4S2YJD-co.uk LEGO 43106 VIDIYO Unicorn DJ BeatBox Music Video Maker...'
 sku: 'B08G4S2YJD-co.uk'
-tags: [ 'Kids Play Figures','lego', ]
 actualPrice: 11.95 GBP
 currency: GBP
 price: 11.95

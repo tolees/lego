@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5PWBCW-co.uk LEGO Classic - LEGO 11007 Classic Creative Green Bricks...'
 sku: 'B07W5PWBCW-co.uk'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Polizei & Feuerwehr','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Toy Types','Toys & Games','Toys Store','Utensilienschalen','lego','lego classic', ]
 actualPrice: 3.01 GBP
 currency: GBP
 price: 3.01

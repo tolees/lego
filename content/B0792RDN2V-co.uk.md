@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792RDN2V-co.uk LEGO 75954 Harry Potter Hogwarts Great Hall Castle Toy...'
 sku: 'B0792RDN2V-co.uk'
-tags: [ 'lego', ]
 actualPrice: 68.7 GBP
 currency: GBP
 price: 68.7

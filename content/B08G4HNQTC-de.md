@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4HNQTC-de LEGO 71738 NINJAGO Legacy Zanes Titan-Mech Ninja Bauset...'
 sku: 'B08G4HNQTC-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

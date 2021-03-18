@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7V6R6Y-de LEGO 42103 Technic Dragster Rennauto oder Hot Road 2-in-1...'
 sku: 'B07W7V6R6Y-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

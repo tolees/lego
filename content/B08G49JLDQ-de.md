@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G49JLDQ-de LEGO 41442 Friends Tierrettungs-Quad Spielzeug ab 6 Jahren...'
 sku: 'B08G49JLDQ-de'
-tags: [ 'lego', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

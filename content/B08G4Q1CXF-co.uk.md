@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4Q1CXF-co.uk LEGO 76173 Spider-Man and Ghost Rider vs. Carnage with...'
 sku: 'B08G4Q1CXF-co.uk'
-tags: [ 'lego', ]
 actualPrice: 13.99 GBP
 currency: GBP
 price: 13.99

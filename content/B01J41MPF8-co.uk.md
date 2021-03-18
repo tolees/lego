@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J41MPF8-co.uk LEGO 21034 Architecture London Skyline Model Building...'
 sku: 'B01J41MPF8-co.uk'
-tags: [ 'lego', ]
 actualPrice: 25.53 GBP
 currency: GBP
 price: 25.53

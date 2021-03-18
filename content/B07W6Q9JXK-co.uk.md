@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6Q9JXK-co.uk LEGO City 60244 Police Helicopter Transport with ATV...'
 sku: 'B07W6Q9JXK-co.uk'
-tags: [ 'lego', ]
 actualPrice: 27.9 GBP
 currency: GBP
 price: 27.9

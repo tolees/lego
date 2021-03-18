@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4CKL16-de LEGO 42121 Technic Hydraulikbagger Bauset 2-in-1 Modell...'
 sku: 'B08G4CKL16-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

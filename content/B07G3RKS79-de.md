@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3RKS79-de LEGO - Confidential'
 sku: 'B07G3RKS79-de'
-tags: [ 'lego', ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

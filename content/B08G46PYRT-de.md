@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G46PYRT-de LEGO 31202 Art Disney s Mickey Mouse Set Poster...'
 sku: 'B08G46PYRT-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 87.9 EUR
 currency: EUR
 price: 87.9

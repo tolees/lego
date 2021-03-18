@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6Q9JZD-de LEGO 75266 Star Wars Sith Troopers Battle Pack Spielset...'
 sku: 'B07W6Q9JZD-de'
-tags: [ 'lego', ]
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

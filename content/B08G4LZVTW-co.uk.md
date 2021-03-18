@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4LZVTW-co.uk LEGO 42122 Technic Jeep Wrangler 4x4 Toy Car Off Roader...'
 sku: 'B08G4LZVTW-co.uk'
-tags: [ 'lego', ]
 actualPrice: 34.99 GBP
 currency: GBP
 price: 34.99

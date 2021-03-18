@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRT576H-com LEGO Hidden Side El Fuego’s Stunt Truck 70421 Building...'
 sku: 'B07NRT576H-com'
-tags: [ 'lego', ]
 actualPrice: 27.49 USD
 currency: USD
 price: 27.49

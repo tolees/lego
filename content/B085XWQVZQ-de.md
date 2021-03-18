@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XWQVZQ-de Dittzz Technic Auto Bausteine 1:10 2.4Ghz RC Auto Bauset...'
 sku: 'B085XWQVZQ-de'
-tags: [ 'lego', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

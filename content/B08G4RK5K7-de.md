@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4RK5K7-de LEGO 41440 Friends Heartlake City Bäckerei Spielset...'
 sku: 'B08G4RK5K7-de'
-tags: [ 'Aeronautica e spazio per bambini','Antique & Collectible Toys','Antique & Collectible Toys & Figurines','Antiques & Collectibles','Architecture','Arts & Photography','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Books','Building Toys','Childrens Activities, Crafts & Games Books','Childrens Activity Books','Childrens Architecture Books','Childrens Arts, Music & Photography Books','Childrens Books','Childrens Computer Hardware & Robotics Books','Childrens Computers & Technology Books','Childrens Craft & Hobby Books','Childrens Game Books','Childrens Model Building Books','Childrens Programming Books','Childrens Science & Nature Books','Computer Programming','Computer Science','Computers & Technology','Crafts & Hobbies','Crafts, Hobbies & Home','Engineering','Engineering & Transportation','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Industrial Manufacturing Systems','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Letteratura e narrativa per bambini','Libri','Libri per bambini','Model Building','Robotics','Robotics & Automation','Scienze, natura e tecnologia per bambini','Spielzeug','Toy & Model Crafts','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDBGKPG-de Lego Minecraft - LEGO 21154 Minecraft Die Brücke Bauset...'
 sku: 'B07NDBGKPG-de'
-tags: [ 'lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

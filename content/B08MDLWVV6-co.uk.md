@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MDLWVV6-co.uk LEGO IDEAS 21324 Sesame Street'
 sku: 'B08MDLWVV6-co.uk'
-tags: [ 'lego', ]
 actualPrice: 162.99 GBP
 currency: GBP
 price: 162.99

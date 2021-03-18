@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8XYZ2K-co.uk LEGO 71710 Ninjago Ninja Tuner Car with Spreading...'
 sku: 'B07W8XYZ2K-co.uk'
-tags: [ 'lego', ]
 actualPrice: 26.24 GBP
 currency: GBP
 price: 26.24

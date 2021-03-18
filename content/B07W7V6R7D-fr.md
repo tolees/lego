@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7V6R7D-fr LEGO Technic La voiture de rallye contrôlée CONTROL+ RC...'
 sku: 'B07W7V6R7D-fr'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Bürobedarf & Schreibwaren','Büromaterial','Costruzioni','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Polizei & Feuerwehr','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Toy Types','Toys & Games','Toys Store','Utensilienschalen','lego', ]
 actualPrice: 99.65 EUR
 currency: EUR
 price: 99.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EDTCHJ6-co.uk LEGO 10886 DUPLO My First Car Creations Building Bricks...'
 sku: 'B00EDTCHJ6-co.uk'
-tags: [ 'lego', ]
 actualPrice: 11.0 GBP
 currency: GBP
 price: 11.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFHWSLP-com LEGO Speed Champions 76895 Ferrari F8 Tributo Toy Cars...'
 sku: 'B07WFHWSLP-com'
-tags: [ 'lego', ]
 actualPrice: 16.0 USD
 currency: USD
 price: 16.0

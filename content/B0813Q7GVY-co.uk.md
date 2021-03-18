@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813Q7GVY-co.uk Lego Friends - LEGO 41430 Friends Summer Fun Water Park...'
 sku: 'B0813Q7GVY-co.uk'
-tags: [ 'Building & Construction Toys','lego','lego friends', ]
 actualPrice: 72.0 GBP
 currency: GBP
 price: 72.0

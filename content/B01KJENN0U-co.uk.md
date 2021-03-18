@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KJENN0U-co.uk Lego Architecture - London [21034 - 468 Pieces]'
 sku: 'B01KJENN0U-co.uk'
-tags: [ 'lego', ]
 actualPrice: 42.12 GBP
 currency: GBP
 price: 42.12

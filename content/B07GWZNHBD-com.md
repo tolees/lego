@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GWZNHBD-com LEGO THE LEGO MOVIE 2 Movie Maker 70820 Building Kit For...'
 sku: 'B07GWZNHBD-com'
-tags: [ 'lego', ]
 actualPrice: 37.99 USD
 currency: USD
 price: 37.99

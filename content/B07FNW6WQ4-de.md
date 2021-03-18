@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNW6WQ4-de LEGO 42093 Technic Chevrolet Corvette ZR1 Rennwagen oder...'
 sku: 'B07FNW6WQ4-de'
-tags: [ 'lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

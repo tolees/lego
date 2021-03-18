@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLJJX8V-co.uk LEGO 75270 Star Wars Obi-Wan’s Hut Building Set with...'
 sku: 'B07WLJJX8V-co.uk'
-tags: [ 'lego', ]
 actualPrice: 21.24 GBP
 currency: GBP
 price: 21.24

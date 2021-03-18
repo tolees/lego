@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WDBGMP-co.uk LEGO 71366 Super Mario Boomer Bill Barrage Expansion...'
 sku: 'B082WDBGMP-co.uk'
-tags: [ 'lego', ]
 actualPrice: 19.99 GBP
 currency: GBP
 price: 19.99

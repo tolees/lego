@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QBJ8G-co.uk LEGO 71711 Ninjago Jay s Cyber Dragon Mech Building Set...'
 sku: 'B07W6QBJ8G-co.uk'
-tags: [ 'lego', ]
 actualPrice: 33.74 GBP
 currency: GBP
 price: 33.74

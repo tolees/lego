@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4MQQKH-co.uk LEGO 41449 Friends Andrea s Family House Playset Doll...'
 sku: 'B08G4MQQKH-co.uk'
-tags: [ 'lego', ]
 actualPrice: 45.97 GBP
 currency: GBP
 price: 45.97

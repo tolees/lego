@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTVJHPF-co.uk LEGO 60226 City Mars Research Shuttle Spaceship...'
 sku: 'B07KTVJHPF-co.uk'
-tags: [ 'Building & Construction Toys','lego', ]
 actualPrice: 16.99 GBP
 currency: GBP
 price: 16.99

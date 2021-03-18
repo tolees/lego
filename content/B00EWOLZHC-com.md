@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EWOLZHC-com LEGO City Coast Guard Seaplane Bagged 30225'
 sku: 'B00EWOLZHC-com'
-tags: [ 'lego', ]
 actualPrice: 10.99 USD
 currency: USD
 price: 10.99

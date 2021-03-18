@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RWM2C-co.uk Lego Friends - LEGO 41429 Friends Heartlake City...'
 sku: 'B0813RWM2C-co.uk'
-tags: [ 'lego', ]
 actualPrice: 44.92 GBP
 currency: GBP
 price: 44.92

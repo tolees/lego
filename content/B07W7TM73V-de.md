@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TM73V-de LEGO 60246 City Polizeistation Bauset mit 2 Trucks Leucht-...'
 sku: 'B07W7TM73V-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

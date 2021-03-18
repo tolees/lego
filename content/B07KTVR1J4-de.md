@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTVR1J4-de LEGO DC Batman Clayface 76122 - Invasion in die Bathöhle...'
 sku: 'B07KTVR1J4-de'
-tags: [ 'lego', ]
 actualPrice: 72.12 EUR
 currency: EUR
 price: 72.12

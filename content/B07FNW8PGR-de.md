@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNW8PGR-de LEGO 75892 Speed Champions McLaren Senna Rennwagen Bauset...'
 sku: 'B07FNW8PGR-de'
-tags: [ 'lego', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

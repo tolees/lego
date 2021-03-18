@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813Q8PGD-de LEGO 41916 DOTS Armband Ergänzungsset Comic - Serie 2 DIY...'
 sku: 'B0813Q8PGD-de'
-tags: [ 'lego', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

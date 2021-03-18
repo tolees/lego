@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFXZ43Z-co.uk LEGO 75278 Star Wars D-O Droid Collectable Model...'
 sku: 'B07XFXZ43Z-co.uk'
-tags: [ 'lego', ]
 actualPrice: 42.6 GBP
 currency: GBP
 price: 42.6

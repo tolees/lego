@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081P5P1SM-de LEGO 75283 Star Wars Armored Assault Tank AAT Bauset mit...'
 sku: 'B081P5P1SM-de'
-tags: [ 'lego', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

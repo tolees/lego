@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SZ3J4S-de Dittzz Technic Auto Huracan LP 610 Sportwagen Bauset 1696...'
 sku: 'B085SZ3J4S-de'
-tags: [ 'lego', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

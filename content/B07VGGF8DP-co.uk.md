@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGGF8DP-co.uk LEGO 21319 Ideas Central Perk Friends TV Show Series...'
 sku: 'B07VGGF8DP-co.uk'
-tags: [ 'lego', ]
 actualPrice: 54.99 GBP
 currency: GBP
 price: 54.99

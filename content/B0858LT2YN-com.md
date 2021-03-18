@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0858LT2YN-com LEGO Star Wars: The Clone Wars Armored Assault Tank AAT...'
 sku: 'B0858LT2YN-com'
-tags: [ 'lego', ]
 actualPrice: 32.0 USD
 currency: USD
 price: 32.0

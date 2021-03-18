@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4JP88F-de LEGO 41925 DOTS Geheimbox mit Schlüsselhalter Set...'
 sku: 'B08G4JP88F-de'
-tags: [ 'lego', ]
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4SZS66-de LEGO 21164 Minecraft Das Korallenriff Bauset mit Alex 2...'
 sku: 'B08G4SZS66-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

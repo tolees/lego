@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TN6GW-co.uk LEGO 60252 City Great Vehicles Construction Bulldozer...'
 sku: 'B07W7TN6GW-co.uk'
-tags: [ 'lego', ]
 actualPrice: 12.4 GBP
 currency: GBP
 price: 12.4

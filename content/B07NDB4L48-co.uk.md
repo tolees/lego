@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDB4L48-co.uk LEGO 21153 Minecraft The Wool Farm Adventures Building...'
 sku: 'B07NDB4L48-co.uk'
-tags: [ 'lego', ]
 actualPrice: 13.08 GBP
 currency: GBP
 price: 13.08

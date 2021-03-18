@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GYTVQN5-com LEGO Technic Chevrolet Corvette ZR1 42093 Building Kit...'
 sku: 'B07GYTVQN5-com'
-tags: [ 'lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99

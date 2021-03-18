@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BK2TMK0-de LEGO 10906 DUPLO Town Baumhaus im Dschungel Bauset...'
 sku: 'B01BK2TMK0-de'
-tags: [ 'lego', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

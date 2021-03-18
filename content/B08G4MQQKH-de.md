@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4MQQKH-de LEGO 41449 Friends Andreas Haus Spielset Puppenhaus mit...'
 sku: 'B08G4MQQKH-de'
-tags: [ 'lego', ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

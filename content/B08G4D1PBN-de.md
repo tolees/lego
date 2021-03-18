@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4D1PBN-de LEGO 75299 Star Wars: The Mandalorian Ärger auf Tatooine...'
 sku: 'B08G4D1PBN-de'
-tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

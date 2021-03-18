@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4JYYV1-de LEGO 71380 Super Mario Baumeister-Set für eigene Abenteuer...'
 sku: 'B08G4JYYV1-de'
-tags: [ 'lego', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PXWMD-co.uk LEGO 71708 NINJAGO Gamer s Market Nine Minifigures Set...'
 sku: 'B07W5PXWMD-co.uk'
-tags: [ 'lego', ]
 actualPrice: 22.49 GBP
 currency: GBP
 price: 22.49

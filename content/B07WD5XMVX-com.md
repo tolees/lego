@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WD5XMVX-com LEGO Architecture Skylines: Tokyo 21051 Building Kit...'
 sku: 'B07WD5XMVX-com'
-tags: [ 'lego', ]
 actualPrice: 47.99 USD
 currency: USD
 price: 47.99

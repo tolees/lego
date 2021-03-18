@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4D3P1T-de LEGO 60281 City Feuerwehrhubschrauber Spielzeug mit...'
 sku: 'B08G4D3P1T-de'
-tags: [ 'lego', ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

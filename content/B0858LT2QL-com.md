@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0858LT2QL-com LEGO Star Wars 501st Legion Clone Troopers 75280 Building...'
 sku: 'B0858LT2QL-com'
-tags: [ 'lego', ]
 actualPrice: 24.0 USD
 currency: USD
 price: 24.0

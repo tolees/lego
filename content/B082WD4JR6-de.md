@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WD4JR6-de LEGO 43184 Disney Princess Raya und der Sisu Drache...'
 sku: 'B082WD4JR6-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

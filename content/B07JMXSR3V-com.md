@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMXSR3V-com LEGO Marvel Avengers Captain America: Outriders Attack...'
 sku: 'B07JMXSR3V-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

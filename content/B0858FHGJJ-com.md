@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0858FHGJJ-com LEGO Star Wars: The Rise of Skywalker Knights of Ren...'
 sku: 'B0858FHGJJ-com'
-tags: [ 'lego', ]
 actualPrice: 55.99 USD
 currency: USD
 price: 55.99

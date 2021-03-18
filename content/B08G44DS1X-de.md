@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G44DS1X-de LEGO 41444 Friends Heartlake City Bio-Café Spielset für...'
 sku: 'B08G44DS1X-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZ51QRC-com LEGO Minecraft The End Battle 21151 Ender Dragon Building...'
 sku: 'B07GZ51QRC-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

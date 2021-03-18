@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WDSG3W-de LEGO 71365 Super Mario Piranha-Pflanze-Powerwippe –...'
 sku: 'B082WDSG3W-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNN12PH-co.uk LEGO 21151 Minecraft The End Battle Collectible Toy'
 sku: 'B07FNN12PH-co.uk'
-tags: [ 'lego', ]
 actualPrice: 14.99 GBP
 currency: GBP
 price: 14.99

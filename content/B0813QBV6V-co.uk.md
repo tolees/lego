@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6V-co.uk Harry Potter TM - LEGO 75969 Harry Potter Hogwarts...'
 sku: 'B0813QBV6V-co.uk'
-tags: [ 'Building & Construction Toys','harry potter tm','lego', ]
 actualPrice: 68.89 GBP
 currency: GBP
 price: 68.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TN6CR-co.uk LEGO Classic - LEGO 11006 Classic Creative Blue Bricks...'
 sku: 'B07W7TN6CR-co.uk'
-tags: [ 'lego', ]
 actualPrice: 2.53 GBP
 currency: GBP
 price: 2.53

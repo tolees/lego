@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5QH7D8-co.uk LEGO 41251 Trolls World Tour Poppy’s Pod Playhouse...'
 sku: 'B07W5QH7D8-co.uk'
-tags: [ 'lego', ]
 actualPrice: 14.99 GBP
 currency: GBP
 price: 14.99

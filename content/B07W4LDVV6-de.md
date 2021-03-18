@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4LDVV6-de LEGO 41252 Trolls World Tour Poppys Heißluftballon...'
 sku: 'B07W4LDVV6-de'
-tags: [ 'lego', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

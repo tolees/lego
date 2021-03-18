@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK9B3Z-de Lego Architecture - LEGO 21045 Architecture Trafalgar...'
 sku: 'B07KTK9B3Z-de'
-tags: [ '355357031','Accessoires de décoration intérieure','Aeronautica e spazio per bambini','Ameublement et décoration','Astronomia per bambini','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Collectible Figures & Accessories','Collectible Figures & Memorabilia','Costruzioni','Cuisine et Maison','Décoration de la maison','Décorations murales','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Giochi e giocattoli','Hobbies','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO friends','Letteratura e narrativa per bambini','Libri','Libri per bambini','Musical Toy Instruments','Produkte','Scienze, natura e tecnologia per bambini','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Types','Toys & Games','Toys Store','lego','lego architecture', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

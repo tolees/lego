@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7V6R6Y-co.uk LEGO 42103 Technic Dragster Racing Car Toy to Hot Rod...'
 sku: 'B07W7V6R6Y-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.13 GBP
 currency: GBP
 price: 15.13

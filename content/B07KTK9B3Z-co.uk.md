@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTK9B3Z-co.uk LEGO 21045 Architecture Trafalgar Square Building Set...'
 sku: 'B07KTK9B3Z-co.uk'
-tags: [ 'lego', ]
 actualPrice: 66.95 GBP
 currency: GBP
 price: 66.95

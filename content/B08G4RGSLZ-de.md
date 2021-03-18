@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4RGSLZ-de LEGO 42124 Technic Geländewagen Buggy CONTROL+ App-...'
 sku: 'B08G4RGSLZ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 97.9 EUR
 currency: EUR
 price: 97.9

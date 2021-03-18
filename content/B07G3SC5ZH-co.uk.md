@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3SC5ZH-co.uk LEGO 75947 Harry Potter Hagrid’s Hut: Buckbeak’s Rescue...'
 sku: 'B07G3SC5ZH-co.uk'
-tags: [ 'lego', ]
 actualPrice: 39.99 GBP
 currency: GBP
 price: 39.99

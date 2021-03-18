@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNS6J7R-co.uk LEGO 31088 Creator Deep Sea Creatures: Shark Crab and...'
 sku: 'B07FNS6J7R-co.uk'
-tags: [ 'lego', ]
 actualPrice: 9.46 GBP
 currency: GBP
 price: 9.46

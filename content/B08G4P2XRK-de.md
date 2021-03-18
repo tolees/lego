@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4P2XRK-de LEGO 41448 Friends Heartlake City Kino Set mit Telefon-Halter'
 sku: 'B08G4P2XRK-de'
-tags: [ 'lego', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QTV3J-co.uk LEGO 21158 Minecraft The Panda Nursery Building Set...'
 sku: 'B07W6QTV3J-co.uk'
-tags: [ 'lego', ]
 actualPrice: 13.0 GBP
 currency: GBP
 price: 13.0

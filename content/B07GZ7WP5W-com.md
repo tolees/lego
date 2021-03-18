@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZ7WP5W-com LEGO Speed Champions McLaren Senna 75892 Building Kit 219...'
 sku: 'B07GZ7WP5W-com'
-tags: [ 'lego', ]
 actualPrice: 11.99 USD
 currency: USD
 price: 11.99

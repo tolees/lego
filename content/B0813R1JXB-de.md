@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R1JXB-de LEGO 43180 Disney Princess Belles winterliches Schloss Die...'
 sku: 'B0813R1JXB-de'
-tags: [ 'lego', ]
 actualPrice: 37.94 EUR
 currency: EUR
 price: 37.94

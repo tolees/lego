@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDB4Q7S-es LEGO 75257 Star Wars Halcón Milenario Regalo para Día del...'
 sku: 'B07NDB4Q7S-es'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Giochi e giocattoli','Juegos de construcción para niños','Juguetes','Juguetes y juegos','LEGO','LEGO City','Posters','Produkte','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813Q5JLQ-co.uk LEGO 76152 Marvel 4+ Avengers Wrath of Loki Set Super...'
 sku: 'B0813Q5JLQ-co.uk'
-tags: [ 'lego', ]
 actualPrice: 41.16 GBP
 currency: GBP
 price: 41.16

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813S3VDM-es LEGO 75979 Harry Potter Hedwig Juguete de Construcción de...'
 sku: 'B0813S3VDM-es'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Building Toys','Costruzioni','Elektronische Spiele für Kinder','Giochi e giocattoli','Hobbys','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinderspielfiguren & -fahrzeuge','LEGO','LEGO Steine & Co.','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

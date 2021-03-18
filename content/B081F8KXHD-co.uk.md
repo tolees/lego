@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081F8KXHD-co.uk LEGO 42105 Technic Catamaran to Race Power Boat 2in1...'
 sku: 'B081F8KXHD-co.uk'
-tags: [ 'lego', ]
 actualPrice: 25.0 GBP
 currency: GBP
 price: 25.0

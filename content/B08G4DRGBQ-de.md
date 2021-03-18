@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4DRGBQ-de LEGO 41445 Friends Tierrettungswagen Spielzeugauto...'
 sku: 'B08G4DRGBQ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

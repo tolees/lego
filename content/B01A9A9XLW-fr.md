@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A9A9XLW-fr LEGO Education 45300 Ensemble de Base'
 sku: 'B01A9A9XLW-fr'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Building & Construction Toys','Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Costruzioni','Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Giochi e giocattoli','Jeux de construction','Jeux et Jouets','Jeux et jouets','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Posters','Produkte','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Spielzeug','Tableaux, posters et arts décoratifs','Toy Types','Toys & Games','Toys Store','Vehículos de juguete para niños','lego', ]
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

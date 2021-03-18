@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QZC1T-de LEGO 41398 Friends 4+ Stephanies Familienhaus Puppenhaus...'
 sku: 'B0813QZC1T-de'
-tags: [ 'lego', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

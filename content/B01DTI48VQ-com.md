@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DTI48VQ-com LEGO Chicken Suit Guy Minifigure with Coop'
 sku: 'B01DTI48VQ-com'
-tags: [ 'lego', ]
 actualPrice: 5.3 USD
 currency: USD
 price: 5.3

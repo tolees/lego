@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G46PN5C-de LEGO 71746 NINJAGO Dschungeldrache Bauset mit Ninja Lloyd...'
 sku: 'B08G46PN5C-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

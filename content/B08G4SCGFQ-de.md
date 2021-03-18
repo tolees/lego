@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4SCGFQ-de LEGO 41665 Friends Magische Würfel Stephanies Katzen-...'
 sku: 'B08G4SCGFQ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TKVQ5-de LEGO 10927 DUPLO Pizza-Stand Spielset mit Pizza und einer...'
 sku: 'B07W7TKVQ5-de'
-tags: [ 'lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

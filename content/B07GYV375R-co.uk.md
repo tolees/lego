@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GYV375R-co.uk LEGO Speed Champions Ferrari F40 Competizone 75890'
 sku: 'B07GYV375R-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.99 GBP
 currency: GBP
 price: 15.99

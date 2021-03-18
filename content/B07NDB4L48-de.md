@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDB4L48-de Lego Minecraft - LEGO 21153 Minecraft Die Schaffarm Bauset...'
 sku: 'B07NDB4L48-de'
-tags: [ 'Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego','lego minecraft', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

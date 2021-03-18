@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4HBJ1J-co.uk LEGO 71736 NINJAGO Legacy Boulder Blaster Aeroplane Toy...'
 sku: 'B08G4HBJ1J-co.uk'
-tags: [ 'lego', ]
 actualPrice: 27.99 GBP
 currency: GBP
 price: 27.99

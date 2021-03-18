@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003NE5LC2-co.uk LEGO Brick 4 Knobs Stackable Storage Box White 5.7 Litre'
 sku: 'B003NE5LC2-co.uk'
-tags: [ 'lego', ]
 actualPrice: 13.99 GBP
 currency: GBP
 price: 13.99

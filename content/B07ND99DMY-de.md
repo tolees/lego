@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND99DMY-de LEGO 70423 Hidden Side Spezialbus Geisterschreck 3000...'
 sku: 'B07ND99DMY-de'
-tags: [ 'lego', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

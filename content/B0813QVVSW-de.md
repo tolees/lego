@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QVVSW-de LEGO 75286 Star Wars General Grievous‘ Starfighter Bauset'
 sku: 'B0813QVVSW-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

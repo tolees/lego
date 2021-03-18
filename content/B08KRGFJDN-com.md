@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KRGFJDN-com LEGO City Family House 60291 Building Kit; Toy for Kids...'
 sku: 'B08KRGFJDN-com'
-tags: [ 'lego', ]
 actualPrice: 49.99 USD
 currency: USD
 price: 49.99

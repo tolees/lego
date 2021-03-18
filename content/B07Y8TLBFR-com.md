@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y8TLBFR-com LEGO Friends Friendship Bus 41395 LEGO Heartlake City Toy...'
 sku: 'B07Y8TLBFR-com'
-tags: [ 'lego', ]
 actualPrice: 55.99 USD
 currency: USD
 price: 55.99

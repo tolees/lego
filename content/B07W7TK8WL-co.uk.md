@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TK8WL-co.uk LEGO 76147 Super Heroes Marvel Spider-Man Vulture s...'
 sku: 'B07W7TK8WL-co.uk'
-tags: [ 'lego', ]
 actualPrice: 15.0 GBP
 currency: GBP
 price: 15.0

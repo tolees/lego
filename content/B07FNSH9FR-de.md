@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNSH9FR-de LEGO NINJAGO 70669 - Coles Powerbohrer'
 sku: 'B07FNSH9FR-de'
-tags: [ 'lego', ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

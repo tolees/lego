@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QB7LH-de Lego Ninjago - LEGO 71712 NINJAGO Empire Tempel des...'
 sku: 'B07W6QB7LH-de'
-tags: [ 'lego', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

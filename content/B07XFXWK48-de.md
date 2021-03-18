@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFXWK48-de LEGO 75276 Star Wars Stormtrooper Helm Bauset...'
 sku: 'B07XFXWK48-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 44.87 EUR
 currency: EUR
 price: 44.87

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G48YZ2D-de LEGO 31115 Creator 3-in-1 Weltraum-Mech Weltraumroboter...'
 sku: 'B08G48YZ2D-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

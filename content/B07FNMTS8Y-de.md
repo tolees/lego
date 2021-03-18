@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMTS8Y-de LEGO 76125 Super Heroes Marvel Avengers Iron Mans...'
 sku: 'B07FNMTS8Y-de'
-tags: [ 'lego', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

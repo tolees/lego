@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P1BVN1K-de LEGO Speed Champions - LEGO 75895 Speed Champions 1974...'
 sku: 'B07P1BVN1K-de'
-tags: [ 'lego', ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

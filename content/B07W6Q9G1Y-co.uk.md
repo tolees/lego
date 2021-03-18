@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6Q9G1Y-co.uk LEGO 76899 Speed Champions Lamborghini Urus ST-X &...'
 sku: 'B07W6Q9G1Y-co.uk'
-tags: [ 'lego', ]
 actualPrice: 41.24 GBP
 currency: GBP
 price: 41.24

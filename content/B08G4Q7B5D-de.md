@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4Q7B5D-de LEGO 21168 Mincecraft Der Wirrwald Nether Spielset mit...'
 sku: 'B08G4Q7B5D-de'
-tags: [ 'lego', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

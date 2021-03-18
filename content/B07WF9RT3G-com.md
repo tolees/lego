@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WF9RT3G-com LEGO City Safari Off-Roader 60267 Off-Road Toy Cool Toy...'
 sku: 'B07WF9RT3G-com'
-tags: [ 'lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99

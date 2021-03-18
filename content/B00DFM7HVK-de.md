@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DFM7HVK-de LEGO 42114 Technic Control+ Knickgelenkter Volvo-Dumper...'
 sku: 'B00DFM7HVK-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Spielzeug','lego', ]
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9

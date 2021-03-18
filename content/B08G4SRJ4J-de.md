@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4SRJ4J-de LEGO 60286 City Strand-Rettungsquad Spielzeug mit...'
 sku: 'B08G4SRJ4J-de'
-tags: [ 'lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

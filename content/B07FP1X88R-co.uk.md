@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP1X88R-co.uk LEGO 11002 Classic Basic Brick Set Construction Toy'
 sku: 'B07FP1X88R-co.uk'
-tags: [ 'lego', ]
 actualPrice: 12.72 GBP
 currency: GBP
 price: 12.72

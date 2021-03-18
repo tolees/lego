@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WF8MB5-co.uk LEGO 71367 Super Mario House & Yoshi Expansion Set...'
 sku: 'B082WF8MB5-co.uk'
-tags: [ 'Building & Construction Toys','lego', ]
 actualPrice: 18.57 GBP
 currency: GBP
 price: 18.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084TNKGJL-co.uk Warner Bros. Interactive Entertainment - LEGO Marvel...'
 sku: 'B084TNKGJL-co.uk'
-tags: [ 'lego', ]
 actualPrice: 16.49 GBP
 currency: GBP
 price: 16.49

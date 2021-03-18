@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTLFBPG-co.uk LEGO 31095 Creator 3in1 Fairground Carousel Set Fair...'
 sku: 'B07KTLFBPG-co.uk'
-tags: [ 'lego', ]
 actualPrice: 31.47 GBP
 currency: GBP
 price: 31.47

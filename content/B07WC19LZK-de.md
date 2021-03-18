@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC19LZK-de LEGO 10926 DUPLO Kinderzimmer-Spielbox für Kleinkinder ab...'
 sku: 'B07WC19LZK-de'
-tags: [ 'lego', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

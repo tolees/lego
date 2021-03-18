@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T6CD331-com Lego Speed Champions McLaren Elva 30343'
 sku: 'B08T6CD331-com'
-tags: [ 'lego', ]
 actualPrice: 4.5 USD
 currency: USD
 price: 4.5

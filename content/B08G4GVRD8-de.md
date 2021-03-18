@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4GVRD8-de LEGO 71745 NINJAGO Lloyds Dschungel-Bike Bauset Spielzeug...'
 sku: 'B08G4GVRD8-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

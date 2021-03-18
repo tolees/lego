@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZD6TZKH-co.uk LEGO Ideas Dinosaur fossils construction toy.'
 sku: 'B07ZD6TZKH-co.uk'
-tags: [ 'lego', ]
 actualPrice: 69.99 GBP
 currency: GBP
 price: 69.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VVPKGGK-co.uk LEGO DC Comics Super Heroes 76085 Justice League Battle...'
 sku: 'B06VVPKGGK-co.uk'
-tags: [ 'lego', ]
 actualPrice: 16.85 GBP
 currency: GBP
 price: 16.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WDSG3W-co.uk LEGO 71365 Super Mario Piranha Plant Power Slide...'
 sku: 'B082WDSG3W-co.uk'
-tags: [ 'lego', ]
 actualPrice: 18.8 GBP
 currency: GBP
 price: 18.8

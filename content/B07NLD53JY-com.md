@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLD53JY-com LEGO City Fire Chief Response Truck 60231 Building Kit...'
 sku: 'B07NLD53JY-com'
-tags: [ 'lego', ]
 actualPrice: 23.99 USD
 currency: USD
 price: 23.99
