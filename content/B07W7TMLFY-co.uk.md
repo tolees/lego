@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '16.68 % deal for LEGO 75273 Star Wars Poe Dameron s X-win'
-date: 2021-03-15 00:29:41
+date: 2021-03-19 07:49:40
 image: 'https://m.media-amazon.com/images/I/51rk3T57GML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7TMLFY-co.uk LEGO 75273 Star Wars Poe Dameron s X-wing Fighter...'
 sku: 'B07W7TMLFY-co.uk'
+tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 74.98 GBP
 currency: GBP
 price: 74.98
@@ -18,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TMLFY/?tag=tolees0a-21'
 descuento: '16.68'
-average: '75.7020930232557'
+average: '75.6937931034482'
 ---
 
 There's a deal [LEGO 75273 Star Wars Poe Dameron s X-wing Fighter Building Set  The Rise of Skywalker Movie Series](https://www.amazon.co.uk/dp/B07W7TMLFY/?tag=tolees0a-21)  with  16.68 % discount, final price tag of  74.98 GBP (original: 89.99 GBP) here:
@@ -27,10 +28,10 @@ There's a deal [LEGO 75273 Star Wars Poe Dameron s X-wing Fighter Building Set  
 
 ℹ️:
 
-- This set combines brilliantly with The Rise of Skywalker: Sith TIE Fighter (75272) for epic First Order vs. Resistance battles
 - The X-wing fighter adjustable wings go up or down for cruise and attack modes and it fires stud shooters and spring-loaded missiles
-- Features an opening minifigure cockpit, space for R2-D2, adjustable wings, stud and spring-loaded shooters plus retractable landing gear
-- Includes three minifigures – Poe Dameron, Knight of Ren and Jannah with new-for-January-2020 features and weapons, plus an R2-D2 LEGO droid
 - Kids can battle First Order with Poe Dameron in this starship or fight on the ground against the Knight of Ren with Jannah’s cool weapons
+- Includes three minifigures – Poe Dameron, Knight of Ren and Jannah with new-for-January-2020 features and weapons, plus an R2-D2 LEGO droid
+- This set combines brilliantly with The Rise of Skywalker: Sith TIE Fighter (75272) for epic First Order vs. Resistance battles
+- Features an opening minifigure cockpit, space for R2-D2, adjustable wings, stud and spring-loaded shooters plus retractable landing gear
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TMLFY/?tag=tolees0a-21)
