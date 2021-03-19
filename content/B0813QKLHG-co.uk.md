@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO 31200 Art Star Wars The Sith Collec'
-date: 2021-03-18 01:53:25
+date: 2021-03-19 02:49:31
 image: 'https://m.media-amazon.com/images/I/519UiO1jMxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813QKLHG-co.uk LEGO 31200 Art Star Wars The Sith Collectors DIY Poster...'
 sku: 'B0813QKLHG-co.uk'
+tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego', ]
 actualPrice: 91.99 GBP
 currency: GBP
 price: 91.99
@@ -18,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QKLHG/?tag=tolees0a-21'
 descuento: '20.00'
-average: '98.3563605442179'
+average: '98.3133445945948'
 ---
 
 You've got [LEGO 31200 Art Star Wars The Sith Collectors DIY Poster  Wall Décor  Multipart Canvas  Set for Adults](https://www.amazon.co.uk/dp/B0813QKLHG/?tag=tolees0a-21) with a  20.00 % discount, with final price of 91.99 GBP (original: 114.99 GBP) at the following link:
@@ -27,11 +28,11 @@ You've got [LEGO 31200 Art Star Wars The Sith Collectors DIY Poster  Wall Décor
 
 ℹ️:
 
-- This LEGO art piece measures over 15.5 inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be displayed
 - When combined with another 2 sets to create Darth Vader wall art it makes a great gift for creative builders and Star Wars fans
-- Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, new hanging element and piece separator
-- Features 3-in-1 rebuildable portrait set : in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
 - With the complementary Soundtrack, you can dive deep into the build with fun Star Wars-related stories and interviews
+- This LEGO art piece measures over 15.5 inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be displayed
 - 1 Picture - 4 options; pictured models can not be built simultaneously
+- Features 3-in-1 rebuildable portrait set : in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
+- Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, new hanging element and piece separator
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QKLHG/?tag=tolees0a-21)
