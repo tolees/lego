@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'LEGO City Great Vehicles Diving Yacht 60 at 20.01 % discount'
-date: 2021-03-17 00:16:49
+date: 2021-03-19 21:57:12
 image: 'https://m.media-amazon.com/images/I/51sXB8IeY-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07GVYMLWJ-com LEGO City Great Vehicles Diving Yacht 60221 Building Kit...'
 sku: 'B07GVYMLWJ-com'
+tags: [ 'Building Toys','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 15.99 USD
 currency: USD
 price: 15.99
@@ -18,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07GVYMLWJ/?tag=tolees-20'
 descuento: '20.01'
-average: '15.9959374999999'
+average: '15.9957575757575'
 ---
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO City Great Vehicles Diving Yacht 60221 Building Kit  148 Pieces ](https://www.amazon.com/dp/B07GVYMLWJ/?tag=tolees-20) with a  20.01 % discount here:
@@ -27,10 +28,10 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO City Gr
 
 ℹ️:
 
-- Build a sleek diving yacht with removable roof, turning searchlight, buildable buoy, opening treasure chest and a sea floor scene for amazing underwater adventures!
+- Diving yacht measures over 3-inch (8cm) high, 9-inch (23cm) long and 2-inch (6cm) wide Sea floor scene measures over 1-inch (5cm) high, 1-inch (4cm) wide and 1-inch (4cm) deep
 - Includes 2 LEGO City diver minifigures, plus swordfish and crab figures
 - This LEGO City Great Vehicles Diving Yacht 60221 toy boat set can be built together with all other original LEGO building toy sets and LEGO bricks for boat toy building and play
-- Diving yacht measures over 3-inch (8cm) high, 9-inch (23cm) long and 2-inch (6cm) wide Sea floor scene measures over 1-inch (5cm) high, 1-inch (4cm) wide and 1-inch (4cm) deep
 - 148 pieces – Creative play set for boys and girls aged 5+ and for fans of toy boat building toys and kids of all ages
+- Build a sleek diving yacht with removable roof, turning searchlight, buildable buoy, opening treasure chest and a sea floor scene for amazing underwater adventures!
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07GVYMLWJ/?tag=tolees-20)

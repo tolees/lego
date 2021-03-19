@@ -29,9 +29,9 @@ With a final price of 5.66 EUR (original: 7.99 EUR) you can find [LEGO 10714 Cla
 ℹ️:
 
 - Lass deiner Kreativität freien Lauf mit den LEGO Classic Sets
-- Dieses kreative Unterhaltungsspielzeug ist für Kinder im Alter von vier bis 99 Jahren geeignet
-- Baue deine eigene Stadt am Meer oder einen sonnigen Pool, schippere über die hohe See oder was dir sonst so einfällt
-- Modulgröße: 32x32; 25 cm breit und 25 cm lang
 - Eine echte Bereicherung für jede LEGO Sammlung
+- Dieses kreative Unterhaltungsspielzeug ist für Kinder im Alter von vier bis 99 Jahren geeignet
+- Modulgröße: 32x32; 25 cm breit und 25 cm lang
+- Baue deine eigene Stadt am Meer oder einen sonnigen Pool, schippere über die hohe See oder was dir sonst so einfällt
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B075GWNH88/?tag=tolees0ca-21)

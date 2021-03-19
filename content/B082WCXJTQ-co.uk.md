@@ -28,10 +28,10 @@ With a final price of 18.56 GBP (original: 24.99 GBP) you can find [LEGO 76167 S
 
 ℹ️:
 
-- Just like in the movies, the armoury has cool screens, a mini Iron Man prototype model figure and a burger for Tony to snack on
-- Combine the armoury set with LEGO 76125 Iron Man Hall of Armor to bring further Marvel movie action to life
 - Other accessories include a cup, wrench, fire extinguisher, a box of Tony’s Toys, remotes, and a variety of cool weapons to battle bad guys
 - This intricate playset is full of imaginative role play possibilities and puts Iron Man adventures right into the hands of young superheroes
+- Combine the armoury set with LEGO 76125 Iron Man Hall of Armor to bring further Marvel movie action to life
+- Just like in the movies, the armoury has cool screens, a mini Iron Man prototype model figure and a burger for Tony to snack on
 - Includes a Tony Stark minifigure, awesome hot rod car for him to repair and drive, 2 Iron Man suits, and 2 enemy A.I.M. Agent minifigures
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B082WCXJTQ/?tag=tolees0a-21)
