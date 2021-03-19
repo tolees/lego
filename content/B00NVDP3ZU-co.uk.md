@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Discount of 17.24 % for LEGO 10696 Classic Medium Creative Brick'
-date: 2021-03-15 05:04:43
+title: 'Discount of 16.81 % for LEGO 10696 Classic Medium Creative Brick'
+date: 2021-03-19 00:37:20
 image: 'https://m.media-amazon.com/images/I/514YhyJAETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVDP3ZU-co.uk LEGO 10696 Classic Medium Creative Brick Box Easy Toy...'
 sku: 'B00NVDP3ZU-co.uk'
-actualPrice: 24.82 GBP
+tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego', ]
+actualPrice: 24.95 GBP
 currency: GBP
-price: 24.82
+price: 24.95
 comparePrice: 29.99 GBP
 prodname: 'LEGO 10696 Classic Medium Creative Brick Box  Easy Toy Storage  Lego Masters Fan Gift'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21'
-descuento: '17.24'
-average: '24.9306951871655'
+descuento: '16.81'
+average: '24.9308994708992'
 ---
 
-You've got [LEGO 10696 Classic Medium Creative Brick Box  Easy Toy Storage  Lego Masters Fan Gift](https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21) with a  17.24 % discount, with final price of 24.82 GBP (original: 29.99 GBP) at the following link:
+You've got [LEGO 10696 Classic Medium Creative Brick Box  Easy Toy Storage  Lego Masters Fan Gift](https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21) with a  16.81 % discount, with final price of 24.95 GBP (original: 29.99 GBP) at the following link:
 
 [![LEGO 10696 Classic Medium Creative Brick](https://m.media-amazon.com/images/I/514YhyJAETL._SL400_.jpg)](https://www.amazon.co.uk/dp/B00NVDP3ZU/?tag=tolees0a-21)
 
