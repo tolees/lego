@@ -29,9 +29,9 @@ There's a deal [LEGO 60221 City Great Vehicles Diving Yacht Boat Toy with Diver 
 ℹ️:
 
 - LEGO City Vehicles sets can be built together with all other LEGO building toy sets and bricks for creative building
-- Features a large diving yacht boat toy with sun deck, removable roof, turning searchlight and storage/sleeping space inside
-- Build a sleek diving large leasure toy yacht for amazing underwater adventures
 - Accessory elements include diving gear, a camera, gem element, video camera, oxygen mask, fish figure and a buildable buoy
+- Features a large diving yacht boat toy with sun deck, removable roof, turning searchlight and storage/sleeping space inside
 - Includes 2 LEGO City diver minifigures, plus swordfish and crab figures, plus sea floor scene with an opening treasure chest
+- Build a sleek diving large leasure toy yacht for amazing underwater adventures
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07FNTTF4D/?tag=tolees0a-21)
