@@ -28,10 +28,10 @@ There's a deal [LEGO City Race Buggy Transporter 60288 Building Kit; Fun Toy for
 
 ℹ️:
 
-- Put kids’ creativity in the fast lane with this multi-model playset – an impressive introduction to the exciting LEGO City Great Vehicles universe
-- The SUV off-roader seats the 2 minifigures; Kids can steer the Baja race buggy by tilting it left and right and can also combine this playset with other original LEGO sets for even more action
-- This LEGO City Race Buggy Transporter (60288) playset makes a great Holiday, birthday or any-other-day surprise for boys and girls aged 5 and up
-- This set has everything kids need to create a toy SUV off-roader and trailer with fold-down ramps for transporting the steerable Baja race buggy, plus 2 driver minifigures and cool accessories
 - When built, the race buggy transporter (including the trailer and Baja race buggy) measures over 2.5 in. (7 cm) high, 11.5 in. (30 cm) long and 2.5 in. (6 cm) wide
+- The SUV off-roader seats the 2 minifigures; Kids can steer the Baja race buggy by tilting it left and right and can also combine this playset with other original LEGO sets for even more action
+- This set has everything kids need to create a toy SUV off-roader and trailer with fold-down ramps for transporting the steerable Baja race buggy, plus 2 driver minifigures and cool accessories
+- This LEGO City Race Buggy Transporter (60288) playset makes a great Holiday, birthday or any-other-day surprise for boys and girls aged 5 and up
+- Put kids’ creativity in the fast lane with this multi-model playset – an impressive introduction to the exciting LEGO City Great Vehicles universe
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08HVYQ6N9/?tag=tolees-20)

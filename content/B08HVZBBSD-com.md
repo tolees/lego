@@ -28,10 +28,10 @@ There's a deal [LEGO City Holiday Camper Van 60283 Building Kit; Cool Vacation T
 
 ℹ️:
 
-- A top Holiday, birthday or any-other-day gift for kids aged 5 and up who love model vehicles and role-play toys
-- Kids can travel wherever their imaginations take them with this classic LEGO City Holiday Camper Van (60283) playset, packed with realistic features to inspire fun, real-life role play
 - This set has everything a kid needs to create an awesome camper van with lots of cool features, plus mom and dad minifigures and a cute baby figure
-- The holiday camper van has a furnished interior, which includes a table, kitchenette and sleeping area; And with an opening side panel and removable roof there’s plenty of room for hands-on play
+- A top Holiday, birthday or any-other-day gift for kids aged 5 and up who love model vehicles and role-play toys
 - When built, the holiday camper van measures over 3.5 in. (9 cm) high, 6 in. (16 cm) long and 2 in. (5 cm) wide
+- Kids can travel wherever their imaginations take them with this classic LEGO City Holiday Camper Van (60283) playset, packed with realistic features to inspire fun, real-life role play
+- The holiday camper van has a furnished interior, which includes a table, kitchenette and sleeping area; And with an opening side panel and removable roof there’s plenty of room for hands-on play
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08HVZBBSD/?tag=tolees-20)

@@ -28,10 +28,10 @@ There's a deal [LEGO City Road Plates 60304 Building Kit; Cool Building Toy for 
 
 ℹ️:
 
-- Kids get 5 LEGO Road Plates featuring traffic lane markings, speed bumps and a crosswalk, plus glow-in-the-dark streetlights, toy traffic lights, road signs, trees and greenery
+- Kids can add a realistic backdrop to their LEGO play with this LEGO City Road Plates (60304) building set; The perfect starting point for an awesome build-and-play experience
 - Kids can create a realistic LEGO road layout with lots of authentic details and connect to other LEGO City Road Plate building sets to expand their city creations
 - When built, the primary Road Plate layout measures over 5 in. (13 cm) high, 17.5 in. (44 cm) wide and 15 in. (38 cm) deep
-- Kids can add a realistic backdrop to their LEGO play with this LEGO City Road Plates (60304) building set; The perfect starting point for an awesome build-and-play experience
+- Kids get 5 LEGO Road Plates featuring traffic lane markings, speed bumps and a crosswalk, plus glow-in-the-dark streetlights, toy traffic lights, road signs, trees and greenery
 - This LEGO City Road Plates playset makes a great Holiday, birthday or any-other-day gift for kids aged 5 and up
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08HVYJFVC/?tag=tolees-20)
