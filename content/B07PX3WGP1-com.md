@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % deal for LEGO Speed Champions 1974 Porsche 911 Tu'
-date: 2021-03-19 07:30:14
+date: 2021-03-20 08:36:51
 image: 'https://m.media-amazon.com/images/I/51FnadTjzQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ There's a deal [LEGO Speed Champions 1974 Porsche 911 Turbo 3.0 75895 Building K
 
 ℹ️:
 
-- Kids can add an exciting digital dimension to their racing play and ‘drive this car in the Forza Horizon 4 LEGO Speed Champions expansion pack (sold separately)
-- Inspire kids and all Porsche fans to build, race and display this white 1974 Porsche 911 Turbo 3.0 toy car with a removable windshield to place a minifigure in the cockpit and authentic design details including the iconic ‘whale tail’ rear spoiler!
-- 180 pieces – Fun birthday gift for boys and girls aged 7+ and for fans and kids of all ages; This LEGO Speed Champions 1974 Porsche 911 Turbo 3.0 75895 model race car kit can be built together with all other LEGO sets and LEGO bricks for creative play
-- Porsche 911 Turbo 3.0 model car measures over 1” (4cm) high, 5” (15cm) long and 2” (6cm) wide
-- This LEGO sports car set includes a new-for-August-2019 classic Porsche 911 driver minifigure with a helmet element, plus 3 cone elements for racing play action
+- Kids and all Porsche fans will love to build, race and proudly display the LEGO Speed Champions 75895 1974 Porsche 911 Turbo 3.0. This white, collectible toy car model of one of the world’s most recognizable classic sports cars has a minifigure cockpit with a removable windshield and is packed with authentic details, including the iconic ‘whale tail rear spoiler. A classic Porsche 911 driver minifigure and 3 cones to play out race scenarios are also included in this model car kit. Fans can add
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07PX3WGP1/?tag=tolees-20)

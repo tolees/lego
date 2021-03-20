@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 19.98 % for LEGO Star Wars AT-ST Raider 75254 The Ma'
-date: 2021-03-19 08:13:50
+date: 2021-03-20 08:54:02
 image: 'https://m.media-amazon.com/images/I/51kscRaRbPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [LEGO Star Wars AT-ST Raider 75254 The Mandalorian Collectible All Te
 
 ℹ️:
 
-- This Star Wars collectible building AT-ST toy has lots of features to inspire young minds, including jointed posable legs, a turning turret that opens and 2 firing shooters
-- This 540-piece LEGO Star Wars AT-ST Walker collectible model kit measures over 9-inch (25cm) high, 5-inch (15cm) long and 5-inch (13cm) wide
-- Immerse your LEGO Star Wars fan in galactic adventures with this unique AT-ST Raider model building kit with lots of play-starting features It makes a perfect holiday gift for all Star Wars collectors
-- Inspire boys and girls aged 8+ with this LEGO brick version of the AT-ST Raider from the hit TV series, The Mandalorian This toy raider building model fosters both imaginative and creative play and sets the scene to play out LEGO action battles
-- This collectible raider model includes 4 LEGO Star Wars minifigure characters: The Mandalorian, Cara Dune and 2 Klatooinian Raider, plus 3 blaster rifles and a blaster Theres plenty to get the Star Wars action started straight away
+- LEGO Star Wars AT-ST vehicle features posable jointed legs, a wheel-activated turning turret, opening canopy with space for a minifigure inside a detailed cockpit, and specially decorated elements for a cannibalized look.
+- Makes a great birthday gift, Christmas present or just a Star Wars gift for any occasion. LEGO Star Wars AT-ST walker building toy measures over 9” (25cm) high, 5” (15cm) long and 5” (13cm) wide.
+- Inspire every Lego builder or fan with the Star Wars vehicle "AT-ST Walker" (75254). Includes 4 Lego Star Wars characters: the Mandalorian, Cara Dune and 2 Klatooinian runners as minifigures.
+- Weapons include 3 blaster rifles and a blaster. Recreate amazing adventures from the hit Star Wars: TV series The Mandalorian.
+- Excite any LEGO builder or fan with this 75254 Star Wars AT-ST Raider vehicle. This brick-built Star Wars construction toy features the same cannibalized look of the walker from the hit Star Wars TV series, The Mandalorian, including jointed posable legs, a turning turret that opens up to reveal a detailed interior with space to sit a minifigure, plus 2 firing shooters.
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07Q2WB3D3/?tag=tolees-20)
