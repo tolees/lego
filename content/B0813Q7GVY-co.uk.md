@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Friends - LEGO 41430 Friends Summer at 19.99 % discount'
-date: 2021-03-19 09:52:04
+date: 2021-03-20 10:32:47
 image: 'https://m.media-amazon.com/images/I/51fP2ndONbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Lego Friends'
 buyurl: 'https://www.amazon.co.uk/dp/B0813Q7GVY/?tag=tolees0a-21'
 descuento: '19.99'
-average: '83.4555363321796'
+average: '83.376804123711'
 ---
 
 With a final price of 72.0 GBP (original: 89.99 GBP) you can find [Lego Friends - LEGO 41430 Friends Summer Fun Water Park Resort Play Set with Stephanie  Emma & Olivia Mini Dolls  Summer Holiday Toys](https://www.amazon.co.uk/dp/B0813Q7GVY/?tag=tolees0a-21) with a  19.99 % discount here:
@@ -30,8 +30,8 @@ With a final price of 72.0 GBP (original: 89.99 GBP) you can find [Lego Friends 
 
 - Check out other LEGO Friends summer sets: Heartlake City Aeroplane 41429, Beach House 41428, Party Boat 41433, Olivias Flower Garden 41425
 - Includes Stephanie, Emma, Olivia and Mason buildable mini-doll figures, plus Pinky the flamingo figure
+- Features 3 cool slides, including a tube slide, water cannons, a lifeguard seat, mini ice cream truck and loads of park decorations
 - Mini-dolls can zoom down the 3 slides, relax in the hot tub, be a lifeguard keeping an eye on the swimmers or serve ice cream in the van
 - It also features a hot tub, locker rooms, cute unicorn floatie, shower and toilet, plus 3 colourful swimming mattresses and fun accessories
-- Features 3 cool slides, including a tube slide, water cannons, a lifeguard seat, mini ice cream truck and loads of park decorations
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813Q7GVY/?tag=tolees0a-21)

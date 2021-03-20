@@ -28,9 +28,9 @@ You've got [LEGO 75890 Speed Champions Ferrari F40 Competizione  Bauset mit Renn
 
 ℹ️:
 
+- Build, race and display the Ferrari F40 Competizione with a minifigure cockpit, removable windshield, plus interchangeable car spoilers and hoods to turn the Competizione into the classic F40 road car
+- This LEGO Speed Champions Ferrari F40 Competizione 75890 fast car playset can be built together with all other original LEGO building toys and LEGO bricks for creative building
 - 198 pieces – Racing car toy for boys and girls aged 7+ and for fans and kids of all ages
 - Includes a Ferrari racing driver minifigure with a helmet
-- This LEGO Speed Champions Ferrari F40 Competizione 75890 fast car playset can be built together with all other original LEGO building toys and LEGO bricks for creative building
-- Build, race and display the Ferrari F40 Competizione with a minifigure cockpit, removable windshield, plus interchangeable car spoilers and hoods to turn the Competizione into the classic F40 road car
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FP2KPXC/?tag=tolees0ca-21)
