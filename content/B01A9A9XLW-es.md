@@ -28,15 +28,15 @@ With a final price of 154.51 EUR (original: 199.2 EUR) you can find [Juego princ
 
 ℹ️:
 
+- Habilidades de colaboración y presentación
+- Habilidades básicas de programación
+- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
+- Evaluación integrada
+- Valores clave de aprendizaje:
+- Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
+- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
+- Investigación, modelado y diseño de soluciones
 - Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
 - Disponible tanto para equipos de escritorio como para tabletas
-- Evaluación integrada
-- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
-- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
-- Habilidades de colaboración y presentación
-- Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
-- Valores clave de aprendizaje:
-- Habilidades básicas de programación
-- Investigación, modelado y diseño de soluciones
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B01A9A9XLW/?tag=tolees-21)
