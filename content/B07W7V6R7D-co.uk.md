@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 27.86 % for LEGO 42109 Technic CONTROL+ App-Controll'
-date: 2021-03-19 02:57:02
+date: 2021-03-20 04:34:50
 image: 'https://m.media-amazon.com/images/I/51CSmFWtivL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7V6R7D/?tag=tolees0a-21'
 descuento: '27.86'
-average: '98.6101336898389'
+average: '98.5652393617015'
 ---
 
 You've got [LEGO 42109 Technic CONTROL+ App-Controlled Top Gear Rally Car RC Racing Cars](https://www.amazon.co.uk/dp/B07W7V6R7D/?tag=tolees0a-21) with a  27.86 % discount, with final price of 90.17 GBP (original: 124.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 42109 Technic CONTROL+ App-Controlled Top Gear Rally Ca
 
 ℹ️:
 
-- With this advanced building model, drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback
 - This toy rally car model is controlled via the LEGO Technic CONTROL+ app and powered by an advanced Smart Hub with 1 XL motor and 1 L motor
-- Features multi-function gyro control, awesome colour scheme with stickers and amazing details perfect for kids who love racing toys
-- Build the car; download the app; get ready for action; take on challenges in the free LEGO Technic CONTROL+ App
+- With this advanced building model, drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback
 - Operated via a smart device with 3 screens: Function and gyro control plus achievements
+- Build the car; download the app; get ready for action; take on challenges in the free LEGO Technic CONTROL+ App
+- Features multi-function gyro control, awesome colour scheme with stickers and amazing details perfect for kids who love racing toys
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W7V6R7D/?tag=tolees0a-21)
