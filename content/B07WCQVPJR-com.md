@@ -28,9 +28,9 @@ With a final price of 39.99 USD (original: 49.99 USD) you can find [LEGO Technic
 
 ℹ️:
 
-- Package Weight: 900 grams
 - Item Package Quantity: 1
 - Model Number: 6288772
+- Package Weight: 900 grams
 - made in china
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WCQVPJR/?tag=tolees-20)
