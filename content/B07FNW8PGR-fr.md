@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 19.08 % for LEGO® Speed Champions McLaren Senna Jeu '
-date: 2021-03-19 02:12:36
+date: 2021-03-20 03:29:44
 image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FNW8PGR/?tag=tolees0d-21'
 descuento: '19.08'
-average: '12.8010163934427'
+average: '12.7966449511401'
 ---
 
 You've got [LEGO® Speed Champions McLaren Senna Jeu de constructionvoiture  7 Ans et Plus  219 Pièces 75892](https://www.amazon.fr/dp/B07FNW8PGR/?tag=tolees0d-21) with a  19.08 % discount, with final price of 12.13 EUR (original: 14.99 EUR) at the following link:
