@@ -28,8 +28,8 @@ There's a deal [LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina Giocatt
 
 ℹ️:
 
+- Dimensioni: 15x25x40 cm
 - Marca: Lego
 - Giocattoli e modellismo
-- Dimensioni: 15x25x40 cm
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21)
