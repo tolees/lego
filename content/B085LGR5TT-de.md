@@ -28,10 +28,10 @@ You've got [LEGO 75274 Star Wars TIE Fighter Pilot™ Helm .](https://www.amazon
 
 ℹ️:
 
+- Der TIE Fighter Pilot Helm ist 19 cm hoch, 13 cm breit und 15 cm tief. Als Schaustück beansprucht er nur wenig Platz, sticht mit seinen faszinierend authentischen Details aber trotzdem sofort ins Auge!
 - Dieser 723-teilige Star Wars Modellbausatz vermittelt erfahrenen LEGO Baumeistern ein anspruchsvolles und fesselndes Bauerlebnis und ist ein großartiges Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Star Wars Fans ab 18 Jahren.
 - Dieses LEGO Set gehört zu einer Serie von LEGO Star Wars Baumodellen und Sammlerstücken – sieh dir auch unbedingt den „Stormtrooper Helm“ (75276), den „Boba Fett Helm“ (75277) und „D-O“ (75278) an.
-- Der TIE Fighter Pilot Helm ist 19 cm hoch, 13 cm breit und 15 cm tief. Als Schaustück beansprucht er nur wenig Platz, sticht mit seinen faszinierend authentischen Details aber trotzdem sofort ins Auge!
-- Das legendäre Design des TIE Fighter Pilot Helms wird mit LEGO Steinen und Grafiken zum Aufkleben nachgestellt, um Erinnerungen an spannende Star Wars Filmszenen zu wecken. Mithilfe des Sockels und des Namensschildes entsteht ein cooles Schaustück.
 - Beim Bauen des Star Wars TIE Fighter Pilot Helms sind meisterliche Baufähigkeiten gefragt. Fans werden riesige Freude daran haben, die zahlreichen Details mit LEGO Steinen nachzubilden und ein wunderbares Schaustück zu erschaffen.
+- Das legendäre Design des TIE Fighter Pilot Helms wird mit LEGO Steinen und Grafiken zum Aufkleben nachgestellt, um Erinnerungen an spannende Star Wars Filmszenen zu wecken. Mithilfe des Sockels und des Namensschildes entsteht ein cooles Schaustück.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B085LGR5TT/?tag=tolees0ca-21)

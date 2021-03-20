@@ -28,12 +28,12 @@ With a final price of 21.28 EUR (original: 29.99 EUR) you can find [LEGO 31116 C
 
 ℹ️:
 
-- Das 397-teilige LEGO Creator 3-in-1-Spielset bietet kleinen Tierfreunden ab 7 Jahren großen Bauspaß. Ein tolles Geburtstags- oder Weihnachtsgeschenk, um Kindern große Freude zu bereiten
-- Das Baumhaus ist mit Couch, Leiter, Toilette und Waschbecken ausgestattet. Außerdem kann man eine bewegliche Giraffe, einen Flamingo und einen Nashornvogel mit den LEGO Steinen bauen
+- Das LEGO Baumhaus ist 18 cm hoch, 12 cm breit und 12 cm tief. Diese stattliche Größe macht das Modell zu einem echten Hingucker im Kinderzimmer
 - Das LEGO Creator 3-in-1-Bauset „Safari-Baumhaus“ (31116) beinhaltet 3 Modelle, um die Fantasie der Kinder anzuregen: ein Baumhaus, ein Flugzeug und ein Boot
 - Dieses LEGO Set beinhaltet Jungen- und Mädchen-Minifiguren mit einer Kamera für spannende Foto-Safaris
-- Das LEGO Baumhaus ist 18 cm hoch, 12 cm breit und 12 cm tief. Diese stattliche Größe macht das Modell zu einem echten Hingucker im Kinderzimmer
-- Erlebe noch größere Abenteuer mit den anderen LEGO Creator 3-in-1-Sets: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113), Geländemotorrad (31114) und Surfer-Strandhaus (31118)
 - Zu dem Doppeldecker mit Minifigur-Cockpit gehören auch ein Löwe, ein Baum und ein afrikanischer Papagei. Der Katamaran mit verstellbarem Segel wird durch ein Krokodil und einen Marabustorch ergänzt
+- Das 397-teilige LEGO Creator 3-in-1-Spielset bietet kleinen Tierfreunden ab 7 Jahren großen Bauspaß. Ein tolles Geburtstags- oder Weihnachtsgeschenk, um Kindern große Freude zu bereiten
+- Erlebe noch größere Abenteuer mit den anderen LEGO Creator 3-in-1-Sets: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113), Geländemotorrad (31114) und Surfer-Strandhaus (31118)
+- Das Baumhaus ist mit Couch, Leiter, Toilette und Waschbecken ausgestattet. Außerdem kann man eine bewegliche Giraffe, einen Flamingo und einen Nashornvogel mit den LEGO Steinen bauen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G59HZNY/?tag=tolees0ca-21)
