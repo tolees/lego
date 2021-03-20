@@ -28,10 +28,10 @@ You've got [LEGO 60247 City Waldbrand  Bauset mit Buggy und Feuerwehrmann](https
 
 ℹ️:
 
-- Junge Feuerwehrmänner können mit dem leistungsstarken Wasserwerfer die Flammen löschen und dann die verschlafene Eule aus dem Baum retten
 - Das Waldbrandspielzeug enthält die Feuerwehrminifigur des LEGO City TV-Helden Clemmons und eine schläfrige Eulenfigur, die gerettet werden muss
-- Zu den Accessoires gehört ein Feuerlöscher und Flammen, mit denen Kinder zu Feuerwehrhelden werden können. Benötigt nur sehr grundlegende Fähigkeiten zum Bauen
 - Verfügt über einen coolen Buggy mit Wasserwerfer und Platz für den Feuerwehrmann/Fahrer sowie einen Spielzeugbaum mit beweglichen Zweigen und Flammen, die zu bekämpfen sind
 - Kinder können dem Feuerwehrmann Clemmons dabei helfen, sich in den superschnellen Buggy für den Schnelleinsatz zu setzen und eine Feuerwehraktion zur Rettung der Eule zu spielen
+- Zu den Accessoires gehört ein Feuerlöscher und Flammen, mit denen Kinder zu Feuerwehrhelden werden können. Benötigt nur sehr grundlegende Fähigkeiten zum Bauen
+- Junge Feuerwehrmänner können mit dem leistungsstarken Wasserwerfer die Flammen löschen und dann die verschlafene Eule aus dem Baum retten
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)

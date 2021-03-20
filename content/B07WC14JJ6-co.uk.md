@@ -28,10 +28,10 @@ You've got [LEGO 41392 Friends Nature Glamping Outdoor Adventure Playset with Te
 
 ℹ️:
 
-- Download the LEGO Life app to access Instructions Plus so your kid can watch their toy camp guide in rotate, zoom and ghost modes
-- Includes two mini-dolls Mia and Olivia and a squirrel figure who lives in the treehouse, also a bike with helmet and a speaker to chill out
-- Features three play sections: A fully equipped tent with a soft plastic roof, a pretend campfire with a telescope and a hot tub under a tree
-- The playset includes beds, stools, a cupboard with a hairbrush and lipstick stand, a lantern, torch, binoculars, even cherries in drinks
 - The mini-doll toy camp is decorated with a garland of lights, so take a photo of the cute tent with a smartphone, then send pics to friends
+- Download the LEGO Life app to access Instructions Plus so your kid can watch their toy camp guide in rotate, zoom and ghost modes
+- Features three play sections: A fully equipped tent with a soft plastic roof, a pretend campfire with a telescope and a hot tub under a tree
+- Includes two mini-dolls Mia and Olivia and a squirrel figure who lives in the treehouse, also a bike with helmet and a speaker to chill out
+- The playset includes beds, stools, a cupboard with a hairbrush and lipstick stand, a lantern, torch, binoculars, even cherries in drinks
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07WC14JJ6/?tag=tolees0a-21)
