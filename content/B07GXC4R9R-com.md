@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Architecture Skyline Collection 210'
-date: 2021-03-16 01:06:43
+date: 2021-03-19 22:06:11
 image: 'https://m.media-amazon.com/images/I/511brTld2hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXC4R9R-com LEGO Architecture Skyline Collection 21044 Paris Skyline...'
 sku: 'B07GXC4R9R-com'
+tags: [ 'Building Toys','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 39.99 USD
 currency: USD
 price: 39.99
@@ -18,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07GXC4R9R/?tag=tolees-20'
 descuento: '20.00'
-average: '50.2354545454545'
+average: '49.7899999999999'
 ---
 
 There's a deal [LEGO Architecture Skyline Collection 21044 Paris Skyline Building Kit With Eiffel Tower Model and other Paris City Architecture for build and display  649 Pieces ](https://www.amazon.com/dp/B07GXC4R9R/?tag=tolees-20)  with  20.00 % discount, final price tag of  39.99 USD (original: 49.99 USD) here:
@@ -29,8 +30,8 @@ There's a deal [LEGO Architecture Skyline Collection 21044 Paris Skyline Buildin
 
 - Architecture building kit lovers will adore this Paris skyline model, With over 600 pieces, this collectible toy transforms into a picturesque toy city that looks perfect on display as a centerpiece
 - The LEGO Paris Skyline Building Kit captures the essence of French architecture and is a wonderful collectible toy for adults and children ages 12+, This immersive city model is the perfect addition to any gift list thanks to its detail and creativity
+- This Paris skyline model measures over 8 inches (22cm) high, 11 inches (28cm) wide and 4 inches (11cm) deep, comprising 649 individual pieces that ensure an exciting teen and adult building experience full of culture, history and architectural art
 - This collectible toy city model includes a number of historic Paris skyline monuments including an Eiffel Tower model, an Arc de Triomphe model, the Louvre, Grand Palais, Champs-Elysées, and much more for fun kid and adult building.
 - This LEGO Paris toy model captures the Paris skyline and incorporates a number of Iconic French architecture attractions making it the perfect architecture building kit for children and adults alike
-- This Paris skyline model measures over 8 inches (22cm) high, 11 inches (28cm) wide and 4 inches (11cm) deep, comprising 649 individual pieces that ensure an exciting teen and adult building experience full of culture, history and architectural art
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07GXC4R9R/?tag=tolees-20)

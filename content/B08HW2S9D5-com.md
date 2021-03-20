@@ -28,10 +28,10 @@ You've got [LEGO City Tractor 60287 Building Kit; Cool Toy for Kids  New 2021  1
 
 ℹ️:
 
-- This set has everything kids need to create a cool toy tractor with lots of realistic features, plus 2 hay bales, a crate of veggie elements, farmer and daughter minifigures and a rabbit figure
-- The LEGO City Great Vehicles tractor toy makes a great Holiday, birthday or any-other-day surprise for boys and girls aged 5 and up
 - When built, the tractor measures over 4 in. (10 cm) high, 6.5 in. (17 cm) long and 2.5 in. (7 cm) wide
-- This LEGO City Tractor (60287) toy has huge rear tires, a tipping loader bucket, raisable boom and a minifigure cab; Kids can combine it with other LEGO toy playsets for fun play and cool displays
+- The LEGO City Great Vehicles tractor toy makes a great Holiday, birthday or any-other-day surprise for boys and girls aged 5 and up
 - Help creativity gain traction with this iconic LEGO City Tractor (60287) playset, an impressive introduction to the exciting world of LEGO City; Ideal for boys and girls aged 5 and up
+- This set has everything kids need to create a cool toy tractor with lots of realistic features, plus 2 hay bales, a crate of veggie elements, farmer and daughter minifigures and a rabbit figure
+- This LEGO City Tractor (60287) toy has huge rear tires, a tipping loader bucket, raisable boom and a minifigure cab; Kids can combine it with other LEGO toy playsets for fun play and cool displays
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08HW2S9D5/?tag=tolees-20)

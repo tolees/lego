@@ -29,9 +29,9 @@ With a final price of 20.0 GBP (original: 24.99 GBP) you can find [LEGO 60254 Ci
 ℹ️:
 
 - The aerodynamic jet-powered speed boat has an opening cockpit with room for the Xtreme racing driver – and it really floats on water
+- Kids can unload the jet-powered boat, then join the Xtreme team racing driver onboard, power over the waves and set new water speed records
 - Includes 2 minifigures: truck and racing drivers. The truck cab features opening doors, removable roof and transport restraining bars
 - Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 - Kids will love the cool transporter toy truck with a trailer and a sporty aerodynamic, jet-powered speed racing boat that floats
-- Kids can unload the jet-powered boat, then join the Xtreme team racing driver onboard, power over the waves and set new water speed records
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07WLMSVCV/?tag=tolees0a-21)
