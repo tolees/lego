@@ -28,10 +28,10 @@ There's a deal [LEGO 75953 Harry Potter Die Peitschende Weide von Hogwarts  Spie
 
 ℹ️:
 
-- Der Schlossbereich von Hogwarts ist über 27 cm hoch, 35 cm breit und 8 cm tief.
 - Die Zubehörteile umfassen Zaubertränke, Kessel, 2 Koffer, 5 Zauberstäbe, Kerzen, eine Laterne, eine Ausgabe des Tagespropheten und ein magisches Zauberspruch-Blatt, einen Besen, Tische, einen Stuhl, Werkzeuge und 2 Tintenfässer mit einer Feder.
+- Der dreistöckige Schlossbereich von Hogwarts besteht aus einem Tor, einem Wehrgang, 3 Türmen, einem Schlafsaal mit 2 Betten, ein Zaubertränke-Klassenzimmer mit Arbeitstisch und dem Büro von Severus Snape.
 - Mit eine baubaren Modell der Peitschenden Weide, des Ford Anglia und eines Bereichs von Schloss Hogwarts.
 - Drehe die Äste der Peitschenden Weide, um das Auto einzufangen, und wirf es dann auf den Boden, damit Ron und Harry durch das Schlosstor fahren können.
-- Der dreistöckige Schlossbereich von Hogwarts besteht aus einem Tor, einem Wehrgang, 3 Türmen, einem Schlafsaal mit 2 Betten, ein Zaubertränke-Klassenzimmer mit Arbeitstisch und dem Büro von Severus Snape.
+- Der Schlossbereich von Hogwarts ist über 27 cm hoch, 35 cm breit und 8 cm tief.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B0792QK8GL/?tag=tolees0ca-21)
