@@ -29,9 +29,9 @@ You've got [Lego Friends - LEGO 41423 Friends Tiger Hot Air Balloon Jungle Rescu
 ℹ️:
 
 - This brick-built jungle playset features a hot air balloon with a chain and hinged arms to attach the rescue crate and fly to safety
-- Check the digital Instructions PLUS via the LEGO Building Instructions app to visualise. For extra fun combine with other Jungle Rescue sets
-- Accessories include 2 walkie-talkies, binoculars, a feeding bottle and syringe to care for the cubs, and diamonds found in the stream
 - There is a tilting function to upend animal characters down the multi-level bubbling waterfall as the hot air balloon soars above
+- Check the digital Instructions PLUS via the LEGO Building Instructions app to visualise. For extra fun combine with other Jungle Rescue sets
 - Includes buildable Andrea and Emma mini-dolls, 2 white tiger cub figures, a toy frog, spider, parrot and baby turtle amongst the flowers
+- Accessories include 2 walkie-talkies, binoculars, a feeding bottle and syringe to care for the cubs, and diamonds found in the stream
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RX3YR/?tag=tolees0a-21)
