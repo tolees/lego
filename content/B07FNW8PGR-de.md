@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.08 % for LEGO 75892 Speed Champions McLaren Senna'
-date: 2021-03-20 09:39:22
+date: 2021-03-21 15:23:34
 image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21'
 descuento: '25.08'
-average: '14.743607305936'
+average: '14.7276363636363'
 ---
 
 You've got [LEGO 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennfahrer-Minifigur  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21) with a  25.08 % discount, with final price of 11.23 EUR (original: 14.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennf
 
 ℹ️:
 
-- Der McLaren Senna zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und austauschbaren Felgen, Heckspoiler, transparenten Elementen als Leuchten, Aufklebern mit den Logos von McLaren und Senna und authentischen Designdetails.
-- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
-- Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
-- Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
 - Zubehör: McLaren-Rennfahrerhelm und Schraubenschlüssel.
+- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
+- Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
+- Der McLaren Senna zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und austauschbaren Felgen, Heckspoiler, transparenten Elementen als Leuchten, Aufklebern mit den Logos von McLaren und Senna und authentischen Designdetails.
+- Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)
