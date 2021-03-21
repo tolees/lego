@@ -28,11 +28,11 @@ You've got [LEGO 76382 Harry Potter Hogwarts Moment: Verwandlungsunterricht Set 
 
 ℹ️:
 
-- LEGO Harry Potter Hogwarts Moment: Verwandlungsunterricht (76382) ist ein Bauset aus LEGO Steinen in Buchform, das beim Aufklappen das Klassenzimmer für den Verwandlungsunterricht auf Schloss Hogwarts preisgibt
-- Kinder schlagen das Buch auf, um an Professor McGonagalls Verwandlungsunterricht teilzunehmen. Es gibt jede Menge magische Utensilien zum Üben – hilf Ron dabei, seine Ratte in einen Kelch zu verwandeln
-- Enthält Hermine Granger, Ron Weasley und Professor McGonagall als Minifiguren, eine Tafel, 2 Tische, 2 Stühle, eine Schatztruhe, einen Schrank, ein Zauberbuch und jede Menge authentisches Zubehör
-- Für Kinder ab 8 Jahren. Tolles Geschenk für Fans, die Harry Potter Abenteuer einmal auf eine ganz andere Art und Weise erleben möchten
-- Enthält eine Teetasse, einen Silberkelch und einen Frosch zum Üben der Verwandlungskünste sowie Rons Ratte Krätze
 - Dieses magische Set aus der „Hogwarts Moment“ Reihe ist 12 cm hoch, 8 cm breit und 4 cm dick - die ideale Größe, um das Set mitzunehmen oder im Bücherregal aufzubewahren
+- Für Kinder ab 8 Jahren. Tolles Geschenk für Fans, die Harry Potter Abenteuer einmal auf eine ganz andere Art und Weise erleben möchten
+- Kinder schlagen das Buch auf, um an Professor McGonagalls Verwandlungsunterricht teilzunehmen. Es gibt jede Menge magische Utensilien zum Üben – hilf Ron dabei, seine Ratte in einen Kelch zu verwandeln
+- LEGO Harry Potter Hogwarts Moment: Verwandlungsunterricht (76382) ist ein Bauset aus LEGO Steinen in Buchform, das beim Aufklappen das Klassenzimmer für den Verwandlungsunterricht auf Schloss Hogwarts preisgibt
+- Enthält Hermine Granger, Ron Weasley und Professor McGonagall als Minifiguren, eine Tafel, 2 Tische, 2 Stühle, eine Schatztruhe, einen Schrank, ein Zauberbuch und jede Menge authentisches Zubehör
+- Enthält eine Teetasse, einen Silberkelch und einen Frosch zum Üben der Verwandlungskünste sowie Rons Ratte Krätze
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4HPRCR/?tag=tolees0ca-21)

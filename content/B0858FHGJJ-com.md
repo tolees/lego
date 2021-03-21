@@ -28,10 +28,10 @@ You've got [LEGO Star Wars: The Rise of Skywalker Knights of Ren Transport Ship 
 
 ℹ️:
 
-- Recreate battles from Star Wars: The Rise of Skywalker with this awesome Knights of Ren Transport Ship (75284) LEGO building toy for kids
-- The space vehicle building toy has ‘skis underneath for a hover effect, opening LEGO minifigure cockpits for each of the Knights, a compartment to keep Rey captive, and 2 spring-loaded shooters for fun battles
-- This Star Wars spacecraft construction toy measures over 3.5” (8cm) high, 11.5” (29cm) long and 6.5” (17cm) wide; Fans can also fly it in the LEGO Star Wars: The Skywalker Saga video game
 - This spacecraft building kit includes 3 LEGO Star Wars minifigures – 2 Knights of Ren with helmets and lots of weapons, and Rey with a Lightsaber – to role-play stories solo or with friends
+- The space vehicle building toy has ‘skis underneath for a hover effect, opening LEGO minifigure cockpits for each of the Knights, a compartment to keep Rey captive, and 2 spring-loaded shooters for fun battles
+- Recreate battles from Star Wars: The Rise of Skywalker with this awesome Knights of Ren Transport Ship (75284) LEGO building toy for kids
 - This 595-piece set offers a fun, creative and rewarding building challenge for boys and girls aged 9+ and makes a super holiday gift, birthday present or special surprise for kids and any Star Wars enthusiast
+- This Star Wars spacecraft construction toy measures over 3.5” (8cm) high, 11.5” (29cm) long and 6.5” (17cm) wide; Fans can also fly it in the LEGO Star Wars: The Skywalker Saga video game
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B0858FHGJJ/?tag=tolees-20)
