@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO Creator 3in1 Surfer Beach House 311'
-date: 2021-03-20 14:45:11
+date: 2021-03-21 21:14:06
 image: 'https://m.media-amazon.com/images/I/51fNq2qhEEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [LEGO Creator 3in1 Surfer Beach House 31118 Building Kit Featuring Be
 
 ℹ️:
 
-- This 564-piece LEGO Creator 3in1 toy set is a rewarding building experience for LEGO fans aged 8 and up and makes a great birthday or holiday gift
-- The surf shack has 2 floors with hinges so it can fold open for different play options and comes with 3 brick-built sea animals – a dolphin, sea turtle and baby sea turtle
-- The LEGO Creator 3in1 Surfer Beach House (31118) building set will captivate kids for hours and features 3 models in 1 – a surf shack, a lighthouse and a pool house
 - The lighthouse toy features a small boat and a manta ray, while the pool house consists of 2 floors and comes with surfboards and a brick-built swimming pool
 - This LEGO toy set also includes man and woman minifigures for kids to include in their fun beach adventures
+- The LEGO Creator 3in1 Surfer Beach House (31118) building set will captivate kids for hours and features 3 models in 1 – a surf shack, a lighthouse and a pool house
+- This 564-piece LEGO Creator 3in1 toy set is a rewarding building experience for LEGO fans aged 8 and up and makes a great birthday or holiday gift
+- The surf shack has 2 floors with hinges so it can fold open for different play options and comes with 3 brick-built sea animals – a dolphin, sea turtle and baby sea turtle
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08HVYR2P5/?tag=tolees-20)

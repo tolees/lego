@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Superbike 31114 Toy Mo at 20.01 % discount'
-date: 2021-03-20 14:48:04
+date: 2021-03-21 21:16:38
 image: 'https://m.media-amazon.com/images/I/5133MIo9MoL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO Creator
 ℹ️:
 
 - The Superbike measures over 4 in. (11 cm) high, 7 in. (19 cm) long and 2 in. (6 cm) wide – the perfect portable size to play with at home or to take to a friend’s house
-- A host of exciting adventures are on offer to imaginative kids, who can stage super-fast races around the track with a modern or classic LEGO motorbike or take to the sky on a hoverbike
+- The Superbike features moving handlebars, a working suspension and a kickstand, while the classic motorbike also comes with a kickstand so kids can proudly display it
 - The motorbike toy set makes the ideal reward for kids aged 8 and up who have a real passion for toy motorbikes and creative building
 - The LEGO Creator 3in1 Superbike (31114) set inspires endless creative building, featuring 3 models in 1 – a modern motorbike, a classic motorcycle and a futuristic hoverbike
-- The Superbike features moving handlebars, a working suspension and a kickstand, while the classic motorbike also comes with a kickstand so kids can proudly display it
+- A host of exciting adventures are on offer to imaginative kids, who can stage super-fast races around the track with a modern or classic LEGO motorbike or take to the sky on a hoverbike
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B08HVZ77XG/?tag=tolees-20)

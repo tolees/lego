@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Discount of 50.24 % for Warner Bros Interactive Spain  VG  - La '
-date: 2021-03-18 09:40:44
+date: 2021-03-21 20:32:03
 image: 'https://m.media-amazon.com/images/I/51efkSzQNLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07M5SZ3BQ-es Warner Bros Interactive Spain VG - La Lego Película 2: El...'
 sku: 'B07M5SZ3BQ-es'
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','lego','warner bros interactive spain (vg)', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21'
 descuento: '50.24'
-average: '24.202380952381'
+average: '23.8282608695652'
 ---
 
 You've got [Warner Bros Interactive Spain  VG  - La Lego Película 2: El Videojuego](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21) with a  50.24 % discount, with final price of 19.9 EUR (original: 39.99 EUR) at the following link:

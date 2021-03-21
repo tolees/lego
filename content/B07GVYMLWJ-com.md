@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Great Vehicles Diving Yacht 60 at 20.01 % discount'
-date: 2021-03-19 21:57:12
+date: 2021-03-21 21:09:45
 image: 'https://m.media-amazon.com/images/I/51sXB8IeY-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07GVYMLWJ/?tag=tolees-20'
 descuento: '20.01'
-average: '15.9957575757575'
+average: '15.995588235294'
 ---
 
 With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO City Great Vehicles Diving Yacht 60221 Building Kit  148 Pieces ](https://www.amazon.com/dp/B07GVYMLWJ/?tag=tolees-20) with a  20.01 % discount here:
@@ -28,10 +28,10 @@ With a final price of 15.99 USD (original: 19.99 USD) you can find [LEGO City Gr
 
 ℹ️:
 
-- Includes 2 LEGO City diver minifigures, plus swordfish and crab figures
-- Build a sleek diving yacht with removable roof, turning searchlight, buildable buoy, opening treasure chest and a sea floor scene for amazing underwater adventures!
-- This LEGO City Great Vehicles Diving Yacht 60221 toy boat set can be built together with all other original LEGO building toy sets and LEGO bricks for boat toy building and play
 - 148 pieces – Creative play set for boys and girls aged 5+ and for fans of toy boat building toys and kids of all ages
+- Includes 2 LEGO City diver minifigures, plus swordfish and crab figures
 - Diving yacht measures over 3-inch (8cm) high, 9-inch (23cm) long and 2-inch (6cm) wide Sea floor scene measures over 1-inch (5cm) high, 1-inch (4cm) wide and 1-inch (4cm) deep
+- This LEGO City Great Vehicles Diving Yacht 60221 toy boat set can be built together with all other original LEGO building toy sets and LEGO bricks for boat toy building and play
+- Build a sleek diving yacht with removable roof, turning searchlight, buildable buoy, opening treasure chest and a sea floor scene for amazing underwater adventures!
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07GVYMLWJ/?tag=tolees-20)
