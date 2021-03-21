@@ -28,9 +28,9 @@ You've got [LEGO 11002 Classic Basic Brick Set Construction Toy](https://w
 
 ℹ️:
 
-- Discover timeless adventures with this LEGO Classic Basic Brick Set, including a selection of colourful LEGO bricks, plus wheels and eyes
-- 300 pieces – for boys and girls aged 4+ and for fans and kids of all ages
 - The LEGO Classic Basic Brick Set 11002 can be built together with all other original LEGO sets and LEGO bricks for creative building
+- 300 pieces – for boys and girls aged 4+ and for fans and kids of all ages
+- Discover timeless adventures with this LEGO Classic Basic Brick Set, including a selection of colourful LEGO bricks, plus wheels and eyes
 - Build kids’ toys with a hint of nostalgia and enjoy creative fun with a LEGO dinosaur, knight on horseback, monster truck, bird in a birdhouse, a cute dog, toy airplane or whatever you can imagine
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21)
