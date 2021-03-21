@@ -28,12 +28,12 @@ With a final price of 44.15 EUR (original: 54.99 EUR) you can find [LEGO 21044 A
 
 ℹ️:
 
-- Los sets LEGO Architecture celebran el mundo de la arquitectura por medio del ladrillo LEGO y están dirigidos a amantes de los viajes, el diseño, la arquitectura y la historia
-- Representa algunos de los monumentos más famosos de París, como el Arco del Triunfo, los Campos Elíseos, la Torre Montparnasse, el Grand Palais, la Torre Eiffel y el Louvre, y cuenta con áreas ajardinadas y arboladas
-- Mide más de 22 cm de altura, 28 cm de ancho y 11 cm de profundidad
-- Este set incluye más de 694 elementos
-- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada estructura, así como datos históricos sobre París y su legado arquitectónico (sólo en francés e inglés)
 - Incluye una base de baldosas de 4x32 y una placa decorativa con la palabra “Paris”
+- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada estructura, así como datos históricos sobre París y su legado arquitectónico (sólo en francés e inglés)
+- Mide más de 22 cm de altura, 28 cm de ancho y 11 cm de profundidad
+- Los sets LEGO Architecture celebran el mundo de la arquitectura por medio del ladrillo LEGO y están dirigidos a amantes de los viajes, el diseño, la arquitectura y la historia
 - Recrea las ciudades más dinámicas del mundo con los modelos LEGO Architecture Skyline Collection
+- Representa algunos de los monumentos más famosos de París, como el Arco del Triunfo, los Campos Elíseos, la Torre Montparnasse, el Grand Palais, la Torre Eiffel y el Louvre, y cuenta con áreas ajardinadas y arboladas
+- Este set incluye más de 694 elementos
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07FNN147J/?tag=tolees-21)
