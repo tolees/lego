@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % deal for LEGO Speed Champions 1974 Porsche 911 Tu'
-date: 2021-03-20 08:36:51
+date: 2021-03-21 09:06:58
 image: 'https://m.media-amazon.com/images/I/51FnadTjzQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07PX3WGP1/?tag=tolees-20'
 descuento: '20.01'
-average: '16.3945'
+average: '16.2870731707317'
 ---
 
 There's a deal [LEGO Speed Champions 1974 Porsche 911 Turbo 3.0 75895 Building Kit  180 Pieces ](https://www.amazon.com/dp/B07PX3WGP1/?tag=tolees-20)  with  20.01 % discount, final price tag of  11.99 USD (original: 14.99 USD) here:

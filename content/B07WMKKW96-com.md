@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Formula E Panasonic at 20.01 % discount'
-date: 2021-03-20 08:19:42
+date: 2021-03-21 09:02:03
 image: 'https://m.media-amazon.com/images/I/51RbvgzBCuL._SL400_.jpg'
 comments: true
 category: ofertas
