@@ -1,40 +1,37 @@
 ---
 layout: post
-title: '15.00 % deal for LEGO Technic - Porsche 911 RSR  maqueta '
-date: 2021-02-24 07:09:31
+title: '23.50 % deal for LEGO 42096 Technic Porsche 911 RSR  Rega'
+date: 2021-03-22 08:08:13
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07FP6QNQ7-es LEGO Technic - Porsche 911 RSR maqueta de juguete de coche...'
+author: 'tole.es'
+slug: 'B07FP6QNQ7-es LEGO 42096 Technic Porsche 911 RSR Regalo para Día del...'
 sku: 'B07FP6QNQ7-es'
-actualPrice: 135.99 EUR
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+actualPrice: 122.39 EUR
 currency: EUR
-price: 135.99
+price: 122.39
 comparePrice: 159.99 EUR
-prodname: 'LEGO Technic - Porsche 911 RSR  maqueta de juguete de coche deportivo de carreras para construir  42096 '
+prodname: 'LEGO 42096 Technic Porsche 911 RSR  Regalo para Día del Padre  Coche de Carreras Set de Construcción de Coleccionista'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FP6QNQ7/?tag=tolees-21'
-descuento: '15.00'
-average: '133.467795918368'
+descuento: '23.50'
+average: '135.13620689655'
 ---
 
-There's a deal [LEGO Technic - Porsche 911 RSR  maqueta de juguete de coche deportivo de carreras para construir  42096 ](https://www.amazon.es/dp/B07FP6QNQ7/?tag=tolees-21)  with  15.00 % discount, final price tag of  135.99 EUR (original: 159.99 EUR) here:
+There's a deal [LEGO 42096 Technic Porsche 911 RSR  Regalo para Día del Padre  Coche de Carreras Set de Construcción de Coleccionista](https://www.amazon.es/dp/B07FP6QNQ7/?tag=tolees-21)  with  23.50 % discount, final price tag of  122.39 EUR (original: 159.99 EUR) here:
 
-[![LEGO Technic - Porsche 911 RSR  maqueta ](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL400_.jpg)](https://www.amazon.es/dp/B07FP6QNQ7/?tag=tolees-21)
+[![LEGO 42096 Technic Porsche 911 RSR  Rega](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL400_.jpg)](https://www.amazon.es/dp/B07FP6QNQ7/?tag=tolees-21)
 
 ℹ️:
 
-- El set incluye 1.580 elementos.
-- Los sets LEGO Technic reproducen movimientos y mecanismos de gran realismo que permiten a los jóvenes constructores LEGO adentrarse en el universo de la ingeniería de un modo accesible y práctico.
-- Apto para mayores de 10 años.
-- Este modelo LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante.
-- Réplica del Porsche 911 RSR con numerosas características genuinas, como un alerón trasero con soportes “cuello de cisne”, un difusor trasero extendido y retrovisores laterales aerodinámicos, además de llantas de radios negros y faros delanteros y traseros de aspecto auténtico. Incorpora también una detallada cabina, un sistema de suspensión diferencial independiente que funciona de verdad y un motor bóxer de seis cilindros con pistones móviles situado delante del eje trasero.
-- Abre las puertas para acceder a una cabina repleta de detalles de gran realismo, como una pantalla de radar, un volante conectado al mecanismo de dirección, un sistema de extinción de incendios y un mapa del circuito de Laguna Seca impreso en la puerta del conductor.
-- Contempla el motor bóxer de seis cilindros con pistones móviles.
-- El Porsche 911 RSR mide más de 13 cm de altura, 50 cm de longitud y 20 cm de ancho.
-- Este coche de juguete coleccionable cuenta también con una genuina combinación de colores en blanco, rojo y negro e incluye una lámina de adhesivos para aportar un mayor nivel de detalle.
+- Un gratificante proyecto de construcción para ti, o un regalo especial para Día del Padre, cumpleaños o de Navidad para esa persona especial
+- El set de construcción incluye 1580 elementos
+- Contempla el motor bóxer de seis cilindros con pistones móviles
+- Abre las puertas para acceder a una cabina repleta de detalles de gran realismo, como una pantalla de radar, un volante conectado al mecanismo de dirección, un sistema de extinción de incendios y un mapa del circuito de Laguna Seca impreso en la puerta del conductor
+- Este coche de carreras de coleccionista cuenta también con una genuina combinación de colores e incluye una lámina de adhesivos para aportar un mayor nivel de detalle
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FP6QNQ7/?tag=tolees-21)
