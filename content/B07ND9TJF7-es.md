@@ -28,11 +28,11 @@ There's a deal [LEGO Star Wars TM - Caza Estelar Ala-Y de la Resistencia  Juguet
 
 ℹ️:
 
-- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker
-- Esta nave estelar es fantástica para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un divertido obsequio inspirado en el universo Star Wars
-- Armas incluidas: pistola bláster de Poe, 2 pistolas bláster de Zorii y blásteres de los soldados de las nieves de la Primera Orden
-- La combinación de colores del Ala-Y y el casco moldeado de Zorii son novedad en octubre de 2019
 - El set de construcción Star Wars mide más de 7 cm de altura, 43 cm de longitud y 19 cm de ancho
+- Armas incluidas: pistola bláster de Poe, 2 pistolas bláster de Zorii y blásteres de los soldados de las nieves de la Primera Orden
+- Esta nave estelar es fantástica para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un divertido obsequio inspirado en el universo Star Wars
 - El Caza Estelar Ala-Y de la Resistencia Star Wars, apodado Wishbone, cuenta con cabina abatible para una minifigura, tren de aterrizaje retráctil, 2 cañones automáticos y bombas de carga superior que se sueltan al apretar un gatillo
+- La combinación de colores del Ala-Y y el casco moldeado de Zorii son novedad en octubre de 2019
+- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07ND9TJF7/?tag=tolees-21)
