@@ -28,10 +28,10 @@ With a final price of 36.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 C
 
 ℹ️:
 
-- The surf shack has 2 floors with hinges to fold sides open, while the 2 floors pool house comes with surfboards and a brick-built swimming pool
-- Look out for other new LEGO Creator 3in1 sets: Cyber Drone 31111, Wild Lion 31112, Race Car Transporter 31113 and Superbike 31114
-- Features 3 models in 1: a surf shack, a lighthouse and a pool house, with 2 LEGO boy and girl minifigures to include in fun beach adventures
 - Includes 3 brick-built sea animals: a dolphin, sea turtle, baby sea turtle and a crab figure; the lighthouse also includes a small boat
+- Look out for other new LEGO Creator 3in1 sets: Cyber Drone 31111, Wild Lion 31112, Race Car Transporter 31113 and Superbike 31114
+- The surf shack has 2 floors with hinges to fold sides open, while the 2 floors pool house comes with surfboards and a brick-built swimming pool
 - Both the surf beach house and pool house open into different configurations to give kids more entertaining story options
+- Features 3 models in 1: a surf shack, a lighthouse and a pool house, with 2 LEGO boy and girl minifigures to include in fun beach adventures
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21)

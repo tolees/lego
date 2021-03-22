@@ -28,12 +28,12 @@ You've got [LEGO Technic - Land Rover Defender  Juguete de Construcción de Coch
 
 ℹ️:
 
-- Abre las puertas para acceder al detallado habitáculo
-- Levanta el capó y descubre el detallado motor de 6 cilindros en línea con pistones móviles
-- Funciones incluidas: caja de cambios secuencial de 4 velocidades, tracción integral con 3 diferenciales, sistema de suspensión independiente en ambos ejes, detallado motor de 6 cilindros en línea y cabrestante que funciona de verdad
+- Contempla la clásica combinación de colores en verde oliva, gris y negro
 - Gira la rueda de repuesto que va sujeta detrás para abrir el portón trasero
+- Abre las puertas para acceder al detallado habitáculo
 - Sistema de transmisión (novedad en octubre de 2019) con 2 palancas para accionar las relaciones de transmisión (alta o baja) y un selector para cambiar de marcha: la caja de cambios LEGO Technic más sofisticada hasta hoy
 - El habitáculo cuenta con un detallado salpicadero, volante que funciona de verdad y asientos traseros que se pliegan hacia delante y revelan la caja de cambios secuencial de 4 velocidades
-- Contempla la clásica combinación de colores en verde oliva, gris y negro
+- Levanta el capó y descubre el detallado motor de 6 cilindros en línea con pistones móviles
+- Funciones incluidas: caja de cambios secuencial de 4 velocidades, tracción integral con 3 diferenciales, sistema de suspensión independiente en ambos ejes, detallado motor de 6 cilindros en línea y cabrestante que funciona de verdad
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07P2GQDQ6/?tag=tolees-21)
