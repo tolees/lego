@@ -1,38 +1,37 @@
 ---
 layout: post
-title: 'LEGO 31118 Creator 3-in-1 Surfer-Strandh at 34.01 % discount'
-date: 2021-03-08 13:36:02
-image: 'https://m.media-amazon.com/images/I/51snLzheaEL._SL400_.jpg'
+title: 'LEGO 31118 Creator 3-in-1 Surfer-Strandh at 26.01 % discount'
+date: 2021-03-22 17:10:27
+image: 'https://m.media-amazon.com/images/I/51SULXNEV2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G56RDFY-de LEGO 31118 Creator 3-in-1 Surfer-Strandhaus Leuchtturm &...'
 sku: 'B08G56RDFY-de'
-actualPrice: 32.99 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+actualPrice: 36.99 EUR
 currency: EUR
-price: 32.99
+price: 36.99
 comparePrice: 49.99 EUR
 prodname: 'LEGO 31118 Creator 3-in-1 Surfer-Strandhaus  Leuchtturm & Poolhaus  Sommer-Bauset'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21'
-descuento: '34.01'
-average: '36.8434375000001'
+descuento: '26.01'
+average: '37.9318421052632'
 ---
 
-With a final price of 32.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 Creator 3-in-1 Surfer-Strandhaus  Leuchtturm & Poolhaus  Sommer-Bauset](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21) with a  34.01 % discount here:
+With a final price of 36.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 Creator 3-in-1 Surfer-Strandhaus  Leuchtturm & Poolhaus  Sommer-Bauset](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21) with a  26.01 % discount here:
 
-[![LEGO 31118 Creator 3-in-1 Surfer-Strandh](https://m.media-amazon.com/images/I/51snLzheaEL._SL400_.jpg)](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21)
+[![LEGO 31118 Creator 3-in-1 Surfer-Strandh](https://m.media-amazon.com/images/I/51SULXNEV2L._SL400_.jpg)](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses 564-teilige LEGO Creator 3-in-1-Spielset bietet LEGO Fans ab 8 Jahren ein anspruchsvolles Bauerlebnis. Die Modelle begeistern als Geburtstags- oder Weihnachtsgeschenk
-- Das LEGO Creator 3-in-1-Bauset „Surfer-Strandhaus“ (31118) wird Kinder viele Stunden fesseln. Das Set beinhaltet eine Surfer-Hütte, einen Leuchtturm und ein Poolhaus
-- Zu dem Leuchtturm gehören auch ein kleines Boot und ein Teufelsrochen. Das Poolhaus mit Surfbrettern besteht dagegen aus 2 Geschossen und einem Pool
-- Das LEGO Strandhaus ist 19 cm hoch, 17 cm breit und 15 cm tief. Diese stolze Größe macht das Modell zu einem echten Hingucker im Kinderzimmer
-- Die beiden Etagen der Surfer-Hütte sind mit Scharnieren versehen, um die Hütte aufklappen zu können. 3 Meeresbewohner aus LEGO Steinen – ein Delfin, eine Schildkröte und ein Schildkrötenbaby – bieten weitere Spieloptionen
-- Dieses LEGO Spielset beinhaltet zudem einen Mann und eine Frau als Minifiguren, um Kinder spannende Strandabenteuer erleben zu lassen
-- Ab Januar 2021 darfen Sie Sie auch auf weitere tolle LEGO Creator 3-in-1-Sets freuen: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113) und Geländemotorrad (31114)
+- The surf shack has 2 floors with hinges to fold sides open, while the 2 floors pool house comes with surfboards and a brick-built swimming pool
+- Look out for other new LEGO Creator 3in1 sets: Cyber Drone 31111, Wild Lion 31112, Race Car Transporter 31113 and Superbike 31114
+- Features 3 models in 1: a surf shack, a lighthouse and a pool house, with 2 LEGO boy and girl minifigures to include in fun beach adventures
+- Includes 3 brick-built sea animals: a dolphin, sea turtle, baby sea turtle and a crab figure; the lighthouse also includes a small boat
+- Both the surf beach house and pool house open into different configurations to give kids more entertaining story options
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'City Oceans - LEGO 60266 City Ocean Expl at 28.00 % discount'
-date: 2021-03-21 10:10:31
+date: 2021-03-22 17:20:29
 image: 'https://m.media-amazon.com/images/I/51q89OcubML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'City Oceans'
 buyurl: 'https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21'
 descuento: '28.00'
-average: '109.490000000001'
+average: '109.350714285716'
 ---
 
 With a final price of 89.99 GBP (original: 124.99 GBP) you can find [City Oceans - LEGO 60266 City Ocean Exploration Ship Floating Toy Boat  Deep Sea Underwater Set  Diving Adventure for Kids](https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21) with a  28.00 % discount here:
