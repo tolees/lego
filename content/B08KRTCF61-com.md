@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 16.67 % for LEGO City Police Patrol Boat 60277 Build'
-date: 2021-03-19 22:06:36
+date: 2021-03-23 11:07:30
 image: 'https://m.media-amazon.com/images/I/51dj6cPHV0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ You've got [LEGO City Police Patrol Boat 60277 Building Kit; Cool Police Toy for
 ℹ️:
 
 - Kids can play out scenes from the LEGO City Adventures TV series with this floating police patrol boat toy; It’s packed with cool features and comes with fun LEGO City TV minifigure characters
-- This LEGO City Police Patrol Boat (60277) playset makes a great Holiday, birthday or any-other-day gift for kids aged 5 and up
 - The police patrol boat toy measures over 5 in. (13 cm) high, 13 in (33 cm) long and 5 in. (12 cm) wide
 - Kids can sail the toy boat on water, fire the net shooter to entangle the crooks, flick a lever to launch the scuba scooter and create stories featuring the included LEGO City TV characters
 - This set has all kids need to build a floating toy police boat with a cool control station and prison hold, plus a drone, scuba scooter, minisub, LEGO City TV characters and a toy shark figure
+- This LEGO City Police Patrol Boat (60277) playset makes a great Holiday, birthday or any-other-day gift for kids aged 5 and up
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08KRTCF61/?tag=tolees-20)
