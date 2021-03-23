@@ -28,10 +28,10 @@ You've got [LEGO City Ice-Cream Truck 60253  Cool Building Set for Kids  New 202
 
 ℹ️:
 
+- Little builders can help the ice-cream lady drive the truck, serve ice-cream cones and popsicles from the serving hatch, and help the skateboarder perform cool tricks!
 - Kids can create sunny, summer-day fun with this LEGO City Ice-Cream Truck designed to inspire creative, independent role-play based on everyday life
 - This fun-filled set for kids sparks creative play with a brightly colored ice-cream truck, ice-cream lady and skateboarder minifigures, plus a dog figure
-- Little builders can help the ice-cream lady drive the truck, serve ice-cream cones and popsicles from the serving hatch, and help the skateboarder perform cool tricks!
-- When built, the ice-cream truck measures over 4" (11cm) high, 5" (15cm) long and 2" (6cm) wide
 - This easy-to-build LEGO City building set sparks imagination, offers endless build-and-play fun, and is a fun-filled holiday, birthday or anyday gift for kids ages 5+ who like ice cream trucks and toy trucks
+- When built, the ice-cream truck measures over 4" (11cm) high, 5" (15cm) long and 2" (6cm) wide
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07WGB1151/?tag=tolees-20)

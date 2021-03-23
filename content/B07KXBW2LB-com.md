@@ -28,8 +28,8 @@ You've got [WB Games - The LEGO Movie 2 Videogame - PlayStation 4](https://www.a
 
 ℹ️:
 
-- Test your Master Building skills
 - Journey into outer space
+- Test your Master Building skills
 - Discover new worlds
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07KXBW2LB/?tag=tolees-20)
