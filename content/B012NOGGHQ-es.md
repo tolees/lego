@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.86 % for Lego Architecture - LEGO 21028 Architect'
-date: 2021-03-22 14:04:15
+date: 2021-03-23 16:41:46
 image: 'https://m.media-amazon.com/images/I/51eda0bZppL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lego Architecture'
 buyurl: 'https://www.amazon.es/dp/B012NOGGHQ/?tag=tolees-21'
 descuento: '22.86'
-average: '51.9158781362005'
+average: '51.8482918149464'
 ---
 
 You've got [Lego Architecture - LEGO 21028 Architecture Skyline Collection Ciudad de Nueva York Set de Construcción Modelo de Colección Maqueta Decorativa](https://www.amazon.es/dp/B012NOGGHQ/?tag=tolees-21) with a  22.86 % discount, with final price of 42.42 EUR (original: 54.99 EUR) at the following link:
@@ -28,11 +28,11 @@ You've got [Lego Architecture - LEGO 21028 Architecture Skyline Collection Ciuda
 
 ℹ️:
 
-- Recrea las ciudades más hermosas del mundo con la colección LEGO Architecture Skyline
 - Mide 26 cm de altura, 25 cm de ancho y 4 cm de profundidad
-- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre la ciudad de Nueva York y su legado arquitectónico (sólo en inglés)
 - La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a todos aquellos interesados en el diseño, la arquitectura y la historia
+- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre la ciudad de Nueva York y su legado arquitectónico (sólo en inglés)
 - Incluye una base de 4x32 y una placa decorativa con la etiqueta “New York City” (Ciudad de Nueva York)
+- Recrea las ciudades más hermosas del mundo con la colección LEGO Architecture Skyline
 - Cuenta con el edificio Flatiron, el edificio Chrysler, el edificio Empire State, el complejo One World Trade Center y la Estatua de la Libertad
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B012NOGGHQ/?tag=tolees-21)
