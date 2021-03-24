@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75256 Star Wars Kylo Rens Shuttle   at 22.22 % discount'
-date: 2021-03-23 13:10:32
+title: 'LEGO 75256 Star Wars Kylo Rens Shuttle   at 25.08 % discount'
+date: 2021-03-24 13:30:44
 image: 'https://m.media-amazon.com/images/I/51ip5dCIXEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07ND9TJF6-de LEGO 75256 Star Wars Kylo Rens Shuttle Raumschiff-Bauset...'
 sku: 'B07ND9TJF6-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 93.33 EUR
+actualPrice: 89.9 EUR
 currency: EUR
-price: 93.33
+price: 89.9
 comparePrice: 119.99 EUR
 prodname: 'LEGO 75256 Star Wars Kylo Rens Shuttle  Raumschiff-Bauset mit 2 Spring Shootern  Der Aufstieg Skywalkers Kollektion'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21'
-descuento: '22.22'
-average: '95.270888324873'
+descuento: '25.08'
+average: '95.2437626262625'
 ---
 
-With a final price of 93.33 EUR (original: 119.99 EUR) you can find [LEGO 75256 Star Wars Kylo Rens Shuttle  Raumschiff-Bauset mit 2 Spring Shootern  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21) with a  22.22 % discount here:
+With a final price of 89.9 EUR (original: 119.99 EUR) you can find [LEGO 75256 Star Wars Kylo Rens Shuttle  Raumschiff-Bauset mit 2 Spring Shootern  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21) with a  25.08 % discount here:
 
 [![LEGO 75256 Star Wars Kylo Rens Shuttle  ](https://m.media-amazon.com/images/I/51ip5dCIXEL._SL400_.jpg)](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21)
 
