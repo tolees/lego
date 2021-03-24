@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '26.56 % deal for LEGO 21166 Minecraft Die verlassene Mine'
-date: 2021-03-17 21:32:36
+date: 2021-03-24 18:59:27
 image: 'https://m.media-amazon.com/images/I/51EPSGnC9pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B085WV4WST-de LEGO 21166 Minecraft Die verlassene Mine Bauset...'
 sku: 'B085WV4WST-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68
@@ -27,12 +28,12 @@ There's a deal [LEGO 21166 Minecraft Die verlassene Mine Bauset  Zombiehöhle mi
 
 ℹ️:
 
+- Keine Batterien erforderlich. Als Antrieb für aktives Spielvergnügen reicht die Fantasie der Kinder
+- Dieses vielseitige Bauset verleiht dem Minecraft Erlebnis eine völlig neue Dimension
+- Enthält Minecraft Charaktere und Kreaturen: Steve, einen Zombie, eine Spinne und einen Schleim
+- Kinder können eine Vorrichtung betätigen, um Kies herabfallen zu lassen und Steve vor den feindseligen Kreaturen zu beschützen
 - Ein tolles Geschenk für Kinder ab 7 Jahren, die gerne Minecraft spielen
 - Einfache und bestens verständliche Bauanleitungen lassen Kinder sofort mit Bauen und Spielen beginnen
 - Dieses actionreiche Set inspiriert zu fantasievollem Spielspaß ohne Grenzen
-- Kinder können eine Vorrichtung betätigen, um Kies herabfallen zu lassen und Steve vor den feindseligen Kreaturen zu beschützen
-- Keine Batterien erforderlich. Als Antrieb für aktives Spielvergnügen reicht die Fantasie der Kinder
-- Enthält Minecraft Charaktere und Kreaturen: Steve, einen Zombie, eine Spinne und einen Schleim
-- Dieses vielseitige Bauset verleiht dem Minecraft Erlebnis eine völlig neue Dimension
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B085WV4WST/?tag=tolees0ca-21)
