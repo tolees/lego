@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31118 Creator 3-in-1 Surfer-Strandh at 26.01 % discount'
-date: 2021-03-22 17:10:27
+date: 2021-03-25 08:44:10
 image: 'https://m.media-amazon.com/images/I/51SULXNEV2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21'
 descuento: '26.01'
-average: '37.9318421052632'
+average: '37.9076923076923'
 ---
 
 With a final price of 36.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 Creator 3-in-1 Surfer-Strandhaus  Leuchtturm & Poolhaus  Sommer-Bauset](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21) with a  26.01 % discount here:
@@ -28,10 +28,12 @@ With a final price of 36.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 C
 
 ℹ️:
 
-- Includes 3 brick-built sea animals: a dolphin, sea turtle, baby sea turtle and a crab figure; the lighthouse also includes a small boat
-- Look out for other new LEGO Creator 3in1 sets: Cyber Drone 31111, Wild Lion 31112, Race Car Transporter 31113 and Superbike 31114
-- The surf shack has 2 floors with hinges to fold sides open, while the 2 floors pool house comes with surfboards and a brick-built swimming pool
-- Both the surf beach house and pool house open into different configurations to give kids more entertaining story options
-- Features 3 models in 1: a surf shack, a lighthouse and a pool house, with 2 LEGO boy and girl minifigures to include in fun beach adventures
+- Dieses LEGO Spielset beinhaltet zudem einen Mann und eine Frau als Minifiguren, um Kinder spannende Strandabenteuer erleben zu lassen
+- Das LEGO Strandhaus ist 19 cm hoch, 17 cm breit und 15 cm tief. Diese stolze Größe macht das Modell zu einem echten Hingucker im Kinderzimmer
+- Das LEGO Creator 3-in-1-Bauset „Surfer-Strandhaus“ (31118) wird Kinder viele Stunden fesseln. Das Set beinhaltet eine Surfer-Hütte, einen Leuchtturm und ein Poolhaus
+- Zu dem Leuchtturm gehören auch ein kleines Boot und ein Teufelsrochen. Das Poolhaus mit Surfbrettern besteht dagegen aus 2 Geschossen und einem Pool
+- Die beiden Etagen der Surfer-Hütte sind mit Scharnieren versehen, um die Hütte aufklappen zu können. 3 Meeresbewohner aus LEGO Steinen – ein Delfin, eine Schildkröte und ein Schildkrötenbaby – bieten weitere Spieloptionen
+- Dieses 564-teilige LEGO Creator 3-in-1-Spielset bietet LEGO Fans ab 8 Jahren ein anspruchsvolles Bauerlebnis. Die Modelle begeistern als Geburtstags- oder Weihnachtsgeschenk
+- Ab Januar 2021 darfen Sie Sie auch auf weitere tolle LEGO Creator 3-in-1-Sets freuen: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113) und Geländemotorrad (31114)
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21)
