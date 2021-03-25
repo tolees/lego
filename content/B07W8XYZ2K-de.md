@@ -28,10 +28,10 @@ There's a deal [Lego Ninjago Produkttitel fehlt - Wird nachgereicht](https://www
 
 ℹ️:
 
-- Enthält ein Ninja-Tuning-Fahrzeug mit Waffen und Klingen, die es durch Drehen des Key-Tanas in ein fliegendes Schlachtauto-Spielzeug verwandeln
-- Das Auto verfügt über eine sehr detaillierte Karosserie mit vielen beweglichen Teilen, einem pinkfarbenen Cockpit zum Öffnen und farbenfrohen Aufklebern, um sich durch das Prime Empire durchzuschlagen
 - Enthält 4 Minifiguren, die im Spiel kämpfen: Digi Kai, Scott und 2 Rote Visiere kommen mit neuen Gesundheitstafeln, um ihre verbleibenden Lebenspunkte anzuzeigen
-- Zu den Accessoires gehören ein Schild, Prime Controller -Waffen, Waffen der Roten Visiere, Sensen, Katanas und vieles mehr sowie das Sammlerstück, das lila Key-Tana
 - Die schwer gepanzerten Tuning-Fahrzeug-Räder können unten weggeklappt werden, wenn das Auto nach dem Spreizen der Klingen und dem Wechsel in den Flugmodus fliegt
+- Das Auto verfügt über eine sehr detaillierte Karosserie mit vielen beweglichen Teilen, einem pinkfarbenen Cockpit zum Öffnen und farbenfrohen Aufklebern, um sich durch das Prime Empire durchzuschlagen
+- Zu den Accessoires gehören ein Schild, Prime Controller -Waffen, Waffen der Roten Visiere, Sensen, Katanas und vieles mehr sowie das Sammlerstück, das lila Key-Tana
+- Enthält ein Ninja-Tuning-Fahrzeug mit Waffen und Klingen, die es durch Drehen des Key-Tanas in ein fliegendes Schlachtauto-Spielzeug verwandeln
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21)
