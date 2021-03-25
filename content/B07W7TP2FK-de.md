@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'LEGO 75271 Star Wars Luke Skywalkers Lan at 27.18 % discount'
-date: 2021-03-21 15:04:02
+title: 'LEGO Produkttitel fehlt - Wird nachgerei at 27.11 % discount'
+date: 2021-03-25 02:45:18
 image: 'https://m.media-amazon.com/images/I/51t0zrw2gTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W7TP2FK-de LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset...'
+slug: 'B07W7TP2FK-de LEGO Produkttitel fehlt - Wird nachgereicht'
 sku: 'B07W7TP2FK-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 21.84 EUR
+actualPrice: 21.86 EUR
 currency: EUR
-price: 21.84
+price: 21.86
 comparePrice: 29.99 EUR
-prodname: 'LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset mit Java Minifigur  Serie Eine Neue Hoffnug Serie'
+prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21'
-descuento: '27.18'
-average: '24.8531007751938'
+descuento: '27.11'
+average: '24.8421481481481'
 ---
 
-With a final price of 21.84 EUR (original: 29.99 EUR) you can find [LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset mit Java Minifigur  Serie Eine Neue Hoffnug Serie](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21) with a  27.18 % discount here:
+With a final price of 21.86 EUR (original: 29.99 EUR) you can find [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21) with a  27.11 % discount here:
 
-[![LEGO 75271 Star Wars Luke Skywalkers Lan](https://m.media-amazon.com/images/I/51t0zrw2gTL._SL400_.jpg)](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21)
+[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51t0zrw2gTL._SL400_.jpg)](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der Landspeeder hat einen Kofferraum für Lukes Makrobinokular und einen Clip für seine Blasterpistole, drei gigantische Motoren und eine Waffe, mit der er auf den Feind feuern kann
-- Kinder können nach dem Jawa Ausschau halten, der sich in einer Höhle versteckt und bereit ist, Luke zu überfallen. Dann können sie Lukes Blasterpistole nehmen und gegen diesen Wüstenräuber kämpfen
-- Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
-- Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
-- Bietet einen Landspeeder mit viel Platz für Luke- und C-3PO-Minifiguren sowie ein baubares Höhlenversteck für eine bewaffnete Jawa-Minifigur
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21)

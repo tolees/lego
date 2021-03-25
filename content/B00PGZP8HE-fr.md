@@ -1,27 +1,28 @@
 ---
 layout: post
-title: '16.43 % deal for Lego Creator Expert - 10220-Le Camping C'
-date: 2021-02-22 06:52:31
+title: '19.60 % deal for Lego Creator Expert - 10220-Le Camping C'
+date: 2021-03-25 03:36:23
 image: 'https://m.media-amazon.com/images/I/5151ZpHOVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PGZP8HE-fr Lego Creator Expert - 10220-Le Camping Car Volkswagen T1'
 sku: 'B00PGZP8HE-fr'
-actualPrice: 166.3 EUR
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','lego', ]
+actualPrice: 159.99 EUR
 currency: EUR
-price: 166.3
+price: 159.99
 comparePrice: 199.0 EUR
 prodname: 'Lego Creator Expert - 10220-Le Camping Car Volkswagen T1'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21'
-descuento: '16.43'
-average: '118.251949152542'
+descuento: '19.60'
+average: '127.482084805653'
 ---
 
-There's a deal [Lego Creator Expert - 10220-Le Camping Car Volkswagen T1](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)  with  16.43 % discount, final price tag of  166.3 EUR (original: 199.0 EUR) here:
+There's a deal [Lego Creator Expert - 10220-Le Camping Car Volkswagen T1](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)  with  19.60 % discount, final price tag of  159.99 EUR (original: 199.0 EUR) here:
 
 [![Lego Creator Expert - 10220-Le Camping C](https://m.media-amazon.com/images/I/5151ZpHOVgL._SL400_.jpg)](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)
 
