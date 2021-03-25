@@ -28,15 +28,15 @@ With a final price of 32.5 EUR (original: 44.99 EUR) you can find [LEGO El Puent
 
 ℹ️:
 
-- Mide más de 11 cm de altura, 25 cm de ancho y 13 cm de profundidad.
-- Activa las funciones de desprendimiento de grava y de vuelo de los Blazes.
-- La estructura para construir representa la dimensión Nether Minecraft y cuenta con un puente, lava, magma, arena de almas, piedra luminosa, grava y bloques de cuarzo del Nether, un soporte para pociones, 2 pociones y un cofre que contiene un tesoro.
+- Armas incluidas: 2 espadas Minecraft y un pico.
 - Lucha contra el esqueleto Wither y evita a los Blazes que te acechan volando para cruzar el puente y hacerte con el tesoro.
 - Incluye una minifigura de Alex, así como un esqueleto Wither y 2 figuras de Blazes con varas de Blaze giratorias.
 - Da rienda suelta a tu imaginación: ¡reconstruye el set y vive nuevas aventuras al estilo LEGO Minecraft!
-- El set incluye más de 370 elementos.
 - ¡Ponte tu armadura de diamante, blande tu espada de diamante y dirígete al Puente del Blaze!
-- Armas incluidas: 2 espadas Minecraft y un pico.
+- El set incluye más de 370 elementos.
+- Mide más de 11 cm de altura, 25 cm de ancho y 13 cm de profundidad.
+- Activa las funciones de desprendimiento de grava y de vuelo de los Blazes.
 - Accesorios incluidos: un cofre con elementos que representan un tesoro.
+- La estructura para construir representa la dimensión Nether Minecraft y cuenta con un puente, lava, magma, arena de almas, piedra luminosa, grava y bloques de cuarzo del Nether, un soporte para pociones, 2 pociones y un cofre que contiene un tesoro.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07NDBGKPG/?tag=tolees-21)

@@ -29,14 +29,14 @@ You've got [LEGO La Aventura del Barco Pirata](https://www.amazon.es/dp/B07FNT8X
 ℹ️:
 
 - Da rienda suelta a tu imaginación: ¡reconstruye el set y vive nuevas aventuras al estilo LEGO Minecraft!
-- Contiene un escenario Minecraft para construir inspirado en una isla y un barco pirata de juguete con lanzamisiles que funcionan de verdad, detalles dorados, bandera pirata, pasarela y un bote de remos.
-- Armas incluidas: una espada.
-- Mide más de 15 cm de altura, 23 cm de ancho y 23 cm de profundidad.
 - Mueve las secciones modulares del barco para crear un naufragio al estilo Minecraft.
-- Este set incluye más de 386 elementos.
-- Accesorios incluidos: un mapa, TNT, una base para el fuego, 2 palas, un cofre, un tesoro, una bandera pirata, una botella de agua, una antorcha y una brújula.
-- Incluye 2 minifiguras: un pirata y Alex; incluye también un zombi Minecraft y figuras Minecraft de un delfín, un loro y una tortuga (novedades en enero de 2019).
-- Cuida del simpático loro y dale de comer al delfín.
 - Sube tus patas de cangrejo a bordo de un barco pirata Minecraft. Dispara los cañones para ahuyentar a las criaturas hostiles y proteger los huevos de la tortuga del ataque del zombi.
+- Mide más de 15 cm de altura, 23 cm de ancho y 23 cm de profundidad.
+- Accesorios incluidos: un mapa, TNT, una base para el fuego, 2 palas, un cofre, un tesoro, una bandera pirata, una botella de agua, una antorcha y una brújula.
+- Armas incluidas: una espada.
+- Cuida del simpático loro y dale de comer al delfín.
+- Incluye 2 minifiguras: un pirata y Alex; incluye también un zombi Minecraft y figuras Minecraft de un delfín, un loro y una tortuga (novedades en enero de 2019).
+- Este set incluye más de 386 elementos.
+- Contiene un escenario Minecraft para construir inspirado en una isla y un barco pirata de juguete con lanzamisiles que funcionan de verdad, detalles dorados, bandera pirata, pasarela y un bote de remos.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07FNT8XC3/?tag=tolees-21)
