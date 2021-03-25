@@ -29,9 +29,9 @@ There's a deal [LEGO Speed Champions Produkttitel fehlt - Wird nachgereicht](htt
 ℹ️:
 
 - LEGO Speed ​​Champions Repliken sind seit Januar 2020 25 Prozent größer und realistischer als je zuvor
-- Autofans können mit LEGO Speed ​​Champions-Bausets für Kinder Mini-Versionen einiger der berühmtesten Autos der Welt bauen
 - Enthält 1 LEGO-Minifigur in einem Nissan-Rennanzug zum Sammeln
 - Diese detailgetreue Nachbildung basiert auf dem Weltrekord-Drift-Auto, das seit 50 Jahren von Autoenthusiasten geliebt wird
 - Der Nissan GT-R NISMO hält den Rekord für den schnellsten Drift - jetzt können Kinder ihren Platz an der Startlinie einnehmen und zum Sieg fahren
+- Autofans können mit LEGO Speed ​​Champions-Bausets für Kinder Mini-Versionen einiger der berühmtesten Autos der Welt bauen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TKVVP/?tag=tolees0ca-21)

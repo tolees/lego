@@ -28,8 +28,8 @@ You've got [LEGO 75283 Star Wars Armored Assault Tank  AAT  Bauset mit Ahsoka Ta
 
 ℹ️:
 
-- Als Bauspielzeug verfügt der AAT über zahlreiche coole Funktionen, die ein actionreiches Spielerlebnis bieten. Hierzu zählen 2 Shooter mit Federmechanismus, ein rotierender Geschützturm mit hochschwenkbarer Kanone sowie aufklappbare Luken vorne und am Geschützturm, in die die Kampfdroiden hineinpassen
 - Diese 286-teilige Bauspielzeug ist ein tolles Weihnachts- oder Geburtstagsgeschenk und stellt Jungen und Mädchen ab 7 Jahren vor eine spannende Bauherausforderung. Es lässt sich perfekt mit anderen LEGO Star Wars Sets kombinieren, um noch mehr kreatives Spielvergnügen zu bieten
+- Als Bauspielzeug verfügt der AAT über zahlreiche coole Funktionen, die ein actionreiches Spielerlebnis bieten. Hierzu zählen 2 Shooter mit Federmechanismus, ein rotierender Geschützturm mit hochschwenkbarer Kanone sowie aufklappbare Luken vorne und am Geschützturm, in die die Kampfdroiden hineinpassen
 - Das fantastische LEGO Bauspielzeug „Armored Assault Tank (AAT)“ (75283) eignet sich bestens, um Kinder die spannenden Auseinandersetzungen zwischen der 501. Legion und den Kampfdroiden aus „Star Wars: The Clone Wars“ nachstellen zu lassen
 - Dieses Set enthält 2 LEGO Star Wars Minifiguren – Ahsoka Tano und Ahsokas Clone Trooper – einen Kampfdroiden als AAT Piloten und einen Kampfdroiden als weitere LEGO Figuren sowie coole Ausrüstung (unter anderem 2 Lichtschwerter) für actionreiche Rollenspiele
 - Diesem Bau- und Spielset reicht das Vorstellungsvermögen kreativer Kinder als Antrieb, Batterien werden nicht benötigt. Deshalb müssen die galaktischen Abenteuer niemals enden, und auch Freunde oder Geschwister können mitspielen!
