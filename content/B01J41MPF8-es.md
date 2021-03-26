@@ -1,39 +1,39 @@
 ---
 layout: post
-title: '26.65 % deal for Lego Architecture - LEGO 21034 Architect'
-date: 2021-03-22 17:23:34
+title: '37.65 % deal for LEGO 21034 Architecture Londres Set de C'
+date: 2021-03-26 08:17:55
 image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01J41MPF8-es Lego Architecture - LEGO 21034 Architecture Londres Set de...'
+slug: 'B01J41MPF8-es LEGO 21034 Architecture Londres Set de Construcción con...'
 sku: 'B01J41MPF8-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego','lego architecture', ]
-actualPrice: 33.0 EUR
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+actualPrice: 28.05 EUR
 currency: EUR
-price: 33.0
+price: 28.05
 comparePrice: 44.99 EUR
-prodname: 'Lego Architecture - LEGO 21034 Architecture Londres Set de Construcción con Big Ben  London Eye  el Puente de la Torre Modelo de Coleccionista'
+prodname: 'LEGO 21034 Architecture Londres Set de Construcción con Big Ben  London Eye  el Puente de la Torre Modelo de Coleccionista'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Lego Architecture'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21'
-descuento: '26.65'
-average: '42.4235587188611'
+descuento: '37.65'
+average: '42.3378397212544'
 ---
 
-There's a deal [Lego Architecture - LEGO 21034 Architecture Londres Set de Construcción con Big Ben  London Eye  el Puente de la Torre Modelo de Coleccionista](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)  with  26.65 % discount, final price tag of  33.0 EUR (original: 44.99 EUR) here:
+There's a deal [LEGO 21034 Architecture Londres Set de Construcción con Big Ben  London Eye  el Puente de la Torre Modelo de Coleccionista](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)  with  37.65 % discount, final price tag of  28.05 EUR (original: 44.99 EUR) here:
 
-[![Lego Architecture - LEGO 21034 Architect](https://m.media-amazon.com/images/I/51GnSyDIy-L._SL400_.jpg)](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
+[![LEGO 21034 Architecture Londres Set de C](https://m.media-amazon.com/images/I/51GnSyDIy-L._SL400_.jpg)](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
 
 ℹ️:
 
 - Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre
-- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres)
-- Mide más de 15 cm de altura, 28 cm de ancho y 8 cm de profundidad
-- El río Támesis de Londres está representado en la base mediante placas transparentes
-- Este set incluye más de 460 elementos LEGO y proporciona una experiencia de construcción apropiada para niños a partir de 12 años
-- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan
 - El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre Londres y su legado arquitectónico (sólo en inglés)
+- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres)
+- El río Támesis de Londres está representado en la base mediante placas transparentes
+- Mide más de 15 cm de altura, 28 cm de ancho y 8 cm de profundidad
+- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan
+- Este set incluye más de 460 elementos LEGO y proporciona una experiencia de construcción apropiada para niños a partir de 12 años
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
