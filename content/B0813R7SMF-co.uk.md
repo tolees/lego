@@ -29,8 +29,8 @@ With a final price of 6.33 GBP (original: 8.99 GBP) you can find [Super Heroes -
 ℹ️:
 
 - Big LEGO bricks for preschoolers help develop hand dexterity, eye-hand coordination and assist in acquiring developmental skills for life
-- LEGO DC Batman sets inspire imagination and creative thinking as kids enjoy role-play fun with superhero minifigures from DC comics & movies
 - LEGO 4+ sets with a special Starter Brick let even younger preschool kids grow their confidence as they learn & build "all by themselves"
+- LEGO DC Batman sets inspire imagination and creative thinking as kids enjoy role-play fun with superhero minifigures from DC comics & movies
 - Includes Batman and The Penguin minifigures, 2 boats: the Batboat and the Penguin’s duck boat, plus a Batarang and an Umbrella accessories
 - The Penguin has escaped aboard his crazy duck boat and kids launched the Batboat to fire the Batboat’s laser and throw Batman’s Batarang
 
