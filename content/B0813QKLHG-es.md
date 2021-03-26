@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Discount of 25.03 % for LEGO- Art Póster de Coleccionistas Star '
-date: 2021-02-28 20:10:21
+title: 'Discount of 20.00 % for LEGO 31200 Art Star Wars: Los Sith Póste'
+date: 2021-03-26 07:01:32
 image: 'https://m.media-amazon.com/images/I/519UiO1jMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B0813QKLHG-es LEGO- Art Póster de Coleccionistas Star Wars: Los Sith...'
+author: 'tole.es'
+slug: 'B0813QKLHG-es LEGO 31200 Art Star Wars: Los Sith Póster DIY Regalo para...'
 sku: 'B0813QKLHG-es'
-actualPrice: 89.96 EUR
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+actualPrice: 95.99 EUR
 currency: EUR
-price: 89.96
+price: 95.99
 comparePrice: 119.99 EUR
-prodname: 'LEGO- Art Póster de Coleccionistas Star Wars: Los Sith Decoración de Pared  Set de Construcción para Adultos  31200 '
+prodname: 'LEGO 31200 Art Star Wars: Los Sith Póster DIY  Regalo para Día del Padre  Set de Coleccionista Manualidades para Adultos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21'
-descuento: '25.03'
-average: '109.200410958903'
+descuento: '20.00'
+average: '109.635384615384'
 ---
 
-You've got [LEGO- Art Póster de Coleccionistas Star Wars: Los Sith Decoración de Pared  Set de Construcción para Adultos  31200 ](https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21) with a  25.03 % discount, with final price of 89.96 EUR (original: 119.99 EUR) at the following link:
+You've got [LEGO 31200 Art Star Wars: Los Sith Póster DIY  Regalo para Día del Padre  Set de Coleccionista Manualidades para Adultos](https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21) with a  20.00 % discount, with final price of 95.99 EUR (original: 119.99 EUR) at the following link:
 
-[![LEGO- Art Póster de Coleccionistas Star ](https://m.media-amazon.com/images/I/519UiO1jMxL._SL400_.jpg)](https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21)
+[![LEGO 31200 Art Star Wars: Los Sith Póste](https://m.media-amazon.com/images/I/519UiO1jMxL._SL400_.jpg)](https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21)
 
 ℹ️:
 
+- Reinterpreta a estos legendarios Lores Sith y descubre el efecto antiestrés de este proyecto de manualidades para adultos
+- Un gratificante proyecto de construcción para ti, o un regalo especial para Día del Padre, cumpleaños o de Navidad para esa persona especial
+- Pon a prueba tu creatividad, compra y combina 3 de los sets para dar forma a un diseño inspirado en Darth Vader y expón tu póster DIY en casa o en la oficina
+- Explora tu “lado oscuro” creativo con este set LEGO de 3406 piezas que incluye 9 placas para decoración mura, un marco LEGO y un elemento exclusivo para colgar tu obra
 - Con banda sonora complementaria, podrás comenzar a construir mientras escuchas divertidas historias y entrevistas sobre Star Wars
-- 1 fotografía - 4 opciones: los modelos no se pueden construir simultáneamente
-- Incluye un set de retratos 3 en 1 - en un momento crea el retrato de 1 de los 3 Siths más poderosos: Darth Maul, Kylo Ren y Darth Vader
-- Combínalos con otros 2 sets y crea un póster completo de Darth Vader para convertirlo en un gran regalo para amantes del bricolaje y de Star Wars
-- Esta obra de arte 3 en 1 mide más de 40 centímetros cuadrados y, cuando esté completada con la firma de Star Wars, puede ser orgullosamente expuesta en la pared
-- Incluye 9 lienzos de pared, un exclusivo azulejo de Star Wars, un marco creado con bloques de LEGO, un colgador y un separador
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21)
