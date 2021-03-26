@@ -1,42 +1,42 @@
 ---
 layout: post
-title: 'Discount of 15.11 % for LEGO Star Wars - Cabaña de Obi-Wan  con '
-date: 2021-03-22 14:23:40
+title: 'Discount of 27.84 % for LEGO Cabaña de OBI-WAN'
+date: 2021-03-26 16:46:36
 image: 'https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07WLJJX8V-es LEGO Star Wars - Cabaña de Obi-Wan con Techo Desplegable...'
+slug: 'B07WLJJX8V-es LEGO Cabaña de OBI-WAN'
 sku: 'B07WLJJX8V-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
-actualPrice: 25.46 EUR
+actualPrice: 21.64 EUR
 currency: EUR
-price: 25.46
+price: 21.64
 comparePrice: 29.99 EUR
-prodname: 'LEGO Star Wars - Cabaña de Obi-Wan  con Techo Desplegable  Incluye un Droide y Holograma de la Princesa Leia  Minifiguras de Obi-Wan Kenobi  Luke Skywalker y R2-D2  75270 '
+prodname: 'LEGO Cabaña de OBI-WAN'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07WLJJX8V/?tag=tolees-21'
-descuento: '15.11'
-average: '28.8396517412938'
+descuento: '27.84'
+average: '28.8152450980395'
 ---
 
-You've got [LEGO Star Wars - Cabaña de Obi-Wan  con Techo Desplegable  Incluye un Droide y Holograma de la Princesa Leia  Minifiguras de Obi-Wan Kenobi  Luke Skywalker y R2-D2  75270 ](https://www.amazon.es/dp/B07WLJJX8V/?tag=tolees-21) with a  15.11 % discount, with final price of 25.46 EUR (original: 29.99 EUR) at the following link:
+You've got [LEGO Cabaña de OBI-WAN](https://www.amazon.es/dp/B07WLJJX8V/?tag=tolees-21) with a  27.84 % discount, with final price of 21.64 EUR (original: 29.99 EUR) at the following link:
 
-[![LEGO Star Wars - Cabaña de Obi-Wan  con ](https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg)](https://www.amazon.es/dp/B07WLJJX8V/?tag=tolees-21)
+[![LEGO Cabaña de OBI-WAN](https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg)](https://www.amazon.es/dp/B07WLJJX8V/?tag=tolees-21)
 
 ℹ️:
 
-- Da rienda suelta a la imaginación de tu peque con este juego de construcción sin pilas que les invita a desarrollar sus capacidades creativas mientras se hacen pasar por sus héroes de Star Wars e interpretan un sinfín de emocionantes historias.
-- ¡Los constructores no necesitarán usar los poderes Jedi para conectar o separar los ladrillos LEGO! Llevan cumpliendo las normas más estrictas del sector desde 1958 para garantizar que ofrecen siempre las mismas cualidades.
-- Los juguetes de construcción LEGO Star Wars abren las puertas a una galaxia de aventuras de construcción y juego para que los peques (y los fans adultos) inventen sus propias aventuras o recreen las escenas de la saga.
-- La casa de Obi Wan en Tatooine mide aproximadamente 9 cm de altura, 12 cm de anchura y 11 cm de profundidad cuando está cerrada, un tamaño compacto ideal para guardarla en una bolsa con las minifiguras Star Wars.
-- Los ladrillos y elementos LEGO se someten a las pruebas más exhaustivas para que tengas la certeza de que este popular juguete de construcción para niños satisface los requisitos de las normas de seguridad más exigentes aquí, en la Tierra.
+- ¡Siente la Fuerza! Esta maqueta de juguete LEGO (75270) construible, inspirada en la casa de Obi-Wan Kenobi en Tatooine, se abre para facilitar el juego y cuenta con numerosos detalles.
 - Haz que este juguete de construcción Star Wars sea aún más divertido para tu peque con Instructions PLUS, disponible en la app LEGO Life. Incluso los niños más pequeños podrán acercar, girar y visualizar esta maqueta.
+- ¡Los constructores no necesitarán usar los poderes Jedi para conectar o separar los ladrillos LEGO! Llevan cumpliendo las normas más estrictas del sector desde 1958 para garantizar que ofrecen siempre las mismas cualidades.
+- Además de unos macrobinoculares, un droide de entrenamiento para afinar las habilidades de manejo de la espada láser y muchos otros estímulos, hay montones de elementos para poner en marcha el juego y numerosos ladrillos LEGO.
+- La casa de Obi Wan en Tatooine mide aproximadamente 9 cm de altura, 12 cm de anchura y 11 cm de profundidad cuando está cerrada, un tamaño compacto ideal para guardarla en una bolsa con las minifiguras Star Wars.
+- Da rienda suelta a la imaginación de tu peque con este juego de construcción sin pilas que les invita a desarrollar sus capacidades creativas mientras se hacen pasar por sus héroes de Star Wars e interpretan un sinfín de emocionantes historias.
+- Los juguetes de construcción LEGO Star Wars abren las puertas a una galaxia de aventuras de construcción y juego para que los peques (y los fans adultos) inventen sus propias aventuras o recreen las escenas de la saga.
 - Ideal para jugar a solas o para practicar el juego en grupo, este set de 200 piezas es un estupendo regalo de Navidad, un obsequio perfecto para un cumpleaños o una fantástica sorpresa especial para niños a partir de 7 años.
 - Este juguete de construcción Star Wars de moda incluye minifiguras de Obi-Wan Kenobi y Luke Skywalker con espadas láser, a R2-D2 y una minifigura de un bandido Tusken para jugar a representar situaciones de conflicto.
-- Además de unos macrobinoculares, un droide de entrenamiento para afinar las habilidades de manejo de la espada láser y muchos otros estímulos, hay montones de elementos para poner en marcha el juego y numerosos ladrillos LEGO.
-- ¡Siente la Fuerza! Esta maqueta de juguete LEGO (75270) construible, inspirada en la casa de Obi-Wan Kenobi en Tatooine, se abre para facilitar el juego y cuenta con numerosos detalles.
+- Los ladrillos y elementos LEGO se someten a las pruebas más exhaustivas para que tengas la certeza de que este popular juguete de construcción para niños satisface los requisitos de las normas de seguridad más exigentes aquí, en la Tierra.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07WLJJX8V/?tag=tolees-21)
