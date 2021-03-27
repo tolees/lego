@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 27.76 % for LEGO 75317 BrickHeadz Star Wars Der Mand'
-date: 2021-03-25 08:51:01
+date: 2021-03-27 17:05:08
 image: 'https://m.media-amazon.com/images/I/511dRQH5boL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B084CKR6VP/?tag=tolees0ca-21'
 descuento: '27.76'
-average: '19.6362857142855'
+average: '19.5812014134273'
 ---
 
 You've got [LEGO 75317 BrickHeadz Star Wars Der Mandalorianer und das Kind  Bauset für Sammler](https://www.amazon.de/dp/B084CKR6VP/?tag=tolees0ca-21) with a  27.76 % discount, with final price of 14.44 EUR (original: 19.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75317 BrickHeadz Star Wars Der Mandalorianer und das Kind  Baus
 
 ℹ️:
 
-- Jedes dieser faszinierenden Bauspielzeuge für Kinder verfügt über eine Bodenplatte zum Aufstellen und Präsentieren der Figur.
-- Der Mandalorianer und das Kind als LEGO BrickHeadz Baumodelle und Schaustücke.
 - Ein grandioses Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans ab 10 Jahren.
 - Bei diesem Set steht die Freude am Bauen mit LEGO Steinen im Vordergrund. Batterien werden nicht benötigt.
+- Der Mandalorianer und das Kind als LEGO BrickHeadz Baumodelle und Schaustücke.
 - Authentische Details rufen die spannenden Geschichten aus „ Star Wars: The Mandalorian“ in Erinnerung.
+- Jedes dieser faszinierenden Bauspielzeuge für Kinder verfügt über eine Bodenplatte zum Aufstellen und Präsentieren der Figur.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B084CKR6VP/?tag=tolees0ca-21)
