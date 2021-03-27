@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.01 % for LEGO City Ice-Cream Truck 60253  Cool Bu'
-date: 2021-03-23 13:23:57
+date: 2021-03-27 10:46:09
 image: 'https://m.media-amazon.com/images/I/516ZPL-o30L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07WGB1151/?tag=tolees-20'
 descuento: '20.01'
-average: '19.29125'
+average: '18.3909090909091'
 ---
 
 You've got [LEGO City Ice-Cream Truck 60253  Cool Building Set for Kids  New 2020  200 Pieces ](https://www.amazon.com/dp/B07WGB1151/?tag=tolees-20) with a  20.01 % discount, with final price of 15.99 USD (original: 19.99 USD) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO City Ice-Cream Truck 60253  Cool Building Set for Kids  New 202
 
 ℹ️:
 
-- Kids can create sunny, summer-day fun with this LEGO City Ice-Cream Truck designed to inspire creative, independent role-play based on everyday life
 - Little builders can help the ice-cream lady drive the truck, serve ice-cream cones and popsicles from the serving hatch, and help the skateboarder perform cool tricks!
-- When built, the ice-cream truck measures over 4" (11cm) high, 5" (15cm) long and 2" (6cm) wide
+- Kids can create sunny, summer-day fun with this LEGO City Ice-Cream Truck designed to inspire creative, independent role-play based on everyday life
 - This fun-filled set for kids sparks creative play with a brightly colored ice-cream truck, ice-cream lady and skateboarder minifigures, plus a dog figure
+- When built, the ice-cream truck measures over 4" (11cm) high, 5" (15cm) long and 2" (6cm) wide
 - This easy-to-build LEGO City building set sparks imagination, offers endless build-and-play fun, and is a fun-filled holiday, birthday or anyday gift for kids ages 5+ who like ice cream trucks and toy trucks
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07WGB1151/?tag=tolees-20)
