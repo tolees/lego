@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.37 % deal for Warner Bros. Interactive Spain - Lego Ha'
-date: 2021-03-26 17:32:05
+date: 2021-03-27 21:38:39
 image: 'https://m.media-amazon.com/images/I/51vy4YZcEVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21'
 descuento: '20.37'
-average: '25.145612244898'
+average: '25.0407'
 ---
 
 There's a deal [Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar](https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21)  with  20.37 % discount, final price tag of  19.9 EUR (original: 24.99 EUR) here:
@@ -29,7 +29,7 @@ There's a deal [Warner Bros. Interactive Spain - Lego Harry Potter Collection - 
 ℹ️:
 
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
-- Dos juegos remasterizados, ahora en un solo disco.
 - Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
+- Dos juegos remasterizados, ahora en un solo disco.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21)
