@@ -28,12 +28,12 @@ You've got [LEGO 41449 Friends Andreas Haus Spielset  Puppenhaus mit Schwimmbad 
 
 ℹ️:
 
-- Dieses kreative Geschenk ist 20 cm hoch, 26 cm breit und 12 cm tief und fasziniert als spektakuläres Deko-Modell, das kaum Platz beansprucht
 - Kinder können den Nachbarn im Garagenstudio eine Musikshow vorführen, in Andreas Zimmer spielen, im Pool planschen oder eine Mahlzeit in Wohnküche zubereiten
-- Das 2-stöckige LEGO Friends Modell „Andreas Haus“ (41449) begeistert kleine Baumeister, die mit diesem hochwertigen Spielset coole Funktionen entdecken und den Familienalltag nachstellen können
-- Als Geburtstagsgeschenk begeistert das Set Kinder, die Puppenhäuser lieben. Kinder ab 6 Jahren werden dieses hochwertige Spielzeug mit Freude auspacken und auch alle ihre Freunde damit spielen lassen
-- Umweltbewussten Kindern wird das zukunftsfähige Haus mit den Solarmodulen auf dem Dach gefallen. Wie alle LEGO Friends Hausmodelle enthält auch dieses Set jede Menge cooles Zubehör
 - Das raffinierte Design erleichtert das Spielen. Das Obergeschoss lässt sich abnehmen, um Zugang zum Erdgeschoss zu bieten, und in der Küche kann die Arbeitsfläche ausgeklappt werden, damit kleine Finger hineingreifen können
+- Als Geburtstagsgeschenk begeistert das Set Kinder, die Puppenhäuser lieben. Kinder ab 6 Jahren werden dieses hochwertige Spielzeug mit Freude auspacken und auch alle ihre Freunde damit spielen lassen
+- Das 2-stöckige LEGO Friends Modell „Andreas Haus“ (41449) begeistert kleine Baumeister, die mit diesem hochwertigen Spielset coole Funktionen entdecken und den Familienalltag nachstellen können
+- Umweltbewussten Kindern wird das zukunftsfähige Haus mit den Solarmodulen auf dem Dach gefallen. Wie alle LEGO Friends Hausmodelle enthält auch dieses Set jede Menge cooles Zubehör
+- Dieses kreative Geschenk ist 20 cm hoch, 26 cm breit und 12 cm tief und fasziniert als spektakuläres Deko-Modell, das kaum Platz beansprucht
 - Das toll aufgemachte Set enthält 5 LEGO Friends Spielfiguren einschließlich einer Mikro-Spielfigur (neu ab Januar 2021). Die Serie von Charakteren inspiriert zu unzähligen Familienrollenspielen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4MQQKH/?tag=tolees0ca-21)
