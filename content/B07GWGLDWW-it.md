@@ -28,7 +28,7 @@ With a final price of 23.0 EUR (original: 28.09 EUR) you can find [Warner Bros -
 
 ℹ️:
 
-- Plaform: Nintendo Switch
 - Attributi: Nintendo Switch, Videogioco
+- Plaform: Nintendo Switch
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07GWGLDWW/?tag=tolees00-21)
