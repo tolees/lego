@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros - Switch Lego Harry Potter C at 18.12 % discount'
-date: 2021-03-26 18:46:32
+date: 2021-03-27 23:29:44
 image: 'https://m.media-amazon.com/images/I/518Apq747hL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Warner Bros'
 buyurl: 'https://www.amazon.it/dp/B07GWGLDWW/?tag=tolees00-21'
 descuento: '18.12'
-average: '26.5224999999998'
+average: '26.2876666666665'
 ---
 
 With a final price of 23.0 EUR (original: 28.09 EUR) you can find [Warner Bros - Switch Lego Harry Potter Collection - Nintendo Switch](https://www.amazon.it/dp/B07GWGLDWW/?tag=tolees00-21) with a  18.12 % discount here:
@@ -28,7 +28,7 @@ With a final price of 23.0 EUR (original: 28.09 EUR) you can find [Warner Bros -
 
 ℹ️:
 
-- Attributi: Nintendo Switch, Videogioco
 - Plaform: Nintendo Switch
+- Attributi: Nintendo Switch, Videogioco
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07GWGLDWW/?tag=tolees00-21)
