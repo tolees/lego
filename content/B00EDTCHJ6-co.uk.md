@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Discount of 26.62 % for LEGO 10886 DUPLO My First Car Creations '
-date: 2021-02-17 18:04:14
-image: 'https://m.media-amazon.com/images/I/51E1kY-1NAL._SL200_.jpg'
+title: 'Discount of 41.29 % for LEGO 10886 DUPLO My First Car Creations '
+date: 2021-03-29 18:32:22
+image: 'https://m.media-amazon.com/images/I/51E1kY-1NAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EDTCHJ6-co.uk LEGO 10886 DUPLO My First Car Creations Building Bricks...'
 sku: 'B00EDTCHJ6-co.uk'
-actualPrice: 11.0 GBP
+tags: [ 'Baby & Toddler Toys','Building & Construction Toys','Early Development & Activity Toys','Sorting, Stacking & Plugging Toys','Toy Types','Toys & Games','Toys Store','lego', ]
+actualPrice: 8.8 GBP
 currency: GBP
-price: 11.0
+price: 8.8
 comparePrice: 14.99 GBP
-prodname: 'LEGO 10886 DUPLO My First Car Creations Building Bricks Set with 4 Buildable Vehicles for 1.5 Years Old'
+prodname: 'LEGO 10886 DUPLO My First Car Creations Building Bricks Set with 4 Buildable Vehicles for 1.5 Years Old'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21'
-descuento: '26.62'
-average: '11.0'
+descuento: '41.29'
+average: '10.5199999999999'
 ---
 
-You've got [LEGO 10886 DUPLO My First Car Creations Building Bricks Set with 4 Buildable Vehicles for 1.5 Years Old](https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21) with a  26.62 % discount, with final price of 11.0 GBP (original: 14.99 GBP) at the following link:
+You've got [LEGO 10886 DUPLO My First Car Creations Building Bricks Set with 4 Buildable Vehicles for 1.5 Years Old](https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21) with a  41.29 % discount, with final price of 8.8 GBP (original: 14.99 GBP) at the following link:
 
-[![LEGO 10886 DUPLO My First Car Creations ](https://m.media-amazon.com/images/I/51E1kY-1NAL._SL200_.jpg)](https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21)
+[![LEGO 10886 DUPLO My First Car Creations ](https://m.media-amazon.com/images/I/51E1kY-1NAL._SL400_.jpg)](https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21)
 
 ℹ️:
 
-- 34 pieces – kids’ building toy for boys and girls aged 1.5+
-- Build four cute vehicles out of big building blocks: A toy taxi, garbage truck toy, fire truck toy and a toy helicopter
-- Fire truck for kids measures over 4 Inch (11 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide; Helicopter for kids measures over 3 Inch (9 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide;
-- The LEGO DUPLO 10886 My First Car Creations toddler toy is easy to build and encourages learning through play, language development, fine motor skills development and cognitive development in children
-- Taxi car for kids measures over 2 Inch (6 cm) high, 3 Inch (9 cm) long and 2 Inch (6 cm) wide; garbage truck measures over 2 Inch (7 cm) high, 3 Inch (10 cm) long and 2 Inch (6 cm) wide
-- Enjoy endless pretend play with the traffic light and character decorations, then mix up the bricks and create new toy trucks and toy cars for toddlers
+- Create and connect with your young child as you build iconic vehicles with LEGO DUPLO 10886 My First Car Creations set
+- Inspire little imaginations as they create all sorts of wonderful, colourful cars of their own
+- Encourage social and emotional skills as toddlers enjoy role-play fun with the decorated characters traveling in these cute toy cars
+- Features 4 buildable LEGO DUPLO vehicles: a fire truck, helicopter,taxi and a garbage truck
+- Includes a brick decorated as a traffic light and decorated bricks with different windows, drivers and passengers
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21)
