@@ -28,14 +28,14 @@ With a final price of 153.4 EUR (original: 214.9 EUR) you can find [Set di base 
 
 ℹ️:
 
-- Aspetti fondamentali dellapprendimento
 - Mattoncini System per una costruzione pertinente alletà
-- Fantastici colori
-- Stimola linteresse per la tecnologia e la programmazione, con progetti pratici e pertinenti USP
-- Consenti agli studenti di esplorare, creare e condividere i progetti con più persone
 - Consolida le conoscenze incoraggiando la sperimentazione e la risoluzione dei problemi
 - Contenitore robusto
+- Consenti agli studenti di esplorare, creare e condividere i progetti con più persone
 - Set funzionale, per unagevole gestione della classe
 - Stimola la curiosità consentendo agli studenti di modellare, analizzare e progettare idee in diversi campi scientifici
+- Fantastici colori
+- Stimola linteresse per la tecnologia e la programmazione, con progetti pratici e pertinenti USP
+- Aspetti fondamentali dellapprendimento
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B01A9A9XLW/?tag=tolees00-21)
