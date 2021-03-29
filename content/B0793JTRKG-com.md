@@ -29,9 +29,9 @@ With a final price of 99.54 USD (original: 119.99 USD) you can find [LEGO Archit
 ℹ️:
 
 - Features a detailed pedestal and iconic Lady Liberty statue complete with crown and golden torch
-- Delivers a rewarding building experience to all with an interest in architecture, travel, history and design
-- Bring a symbolic centerpiece to your home or office with this Statue of Liberty model
 - 1,685 pieces – For boys and girls over 16 years old
+- Bring a symbolic centerpiece to your home or office with this Statue of Liberty model
+- Delivers a rewarding building experience to all with an interest in architecture, travel, history and design
 - Statue of Liberty model measures over 17-inch (44cm) high, 5-inch (14cm) wide and 5-inch (14cm) deep
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B0793JTRKG/?tag=tolees-20)
