@@ -28,10 +28,10 @@ There's a deal [LEGO Minecraft The Bee Farm 21165 Minecraft Building Action Toy 
 
 ℹ️:
 
+- Includes a beekeeper with elytra wings, villager, baby sheep, 4 friendly bees and 4 angry bees. The set also includes a rotatable flying feature from which the bees can fly free to wreak havoc!
 - The LEGO Minecraft The Bee Farm (21165) playset is buzzing with role-play possibilities. Minecraft players and non-players alike can enjoy endless, hands-on, imaginative play with fun characters and creatures from the online game.
 - Featuring characters and creatures from the online game, the LEGO Minecraft The Bee Farm (21165) playset is buzzing with hands-on, role-play possibilities for Minecraft players and non-players alike.
-- Kids can join 4 friendly bees as they help flowers and crops to grow – and help the beekeeper to fend off 4 angry bees, which hover in the air, whizz round in circles and fly free to frighten the sheep and the villager.
-- Includes a beekeeper with elytra wings, villager, baby sheep, 4 friendly bees and 4 angry bees. The set also includes a rotatable flying feature from which the bees can fly free to wreak havoc!
 - Minecraft players and non-players alike aged 8 and up will get a buzz from this fun bee toy. Makes a great birthday or holiday gift for kids looking for new ways to play their favorite game. This versatile LEGO Minecraft playset measures over 7” (19cm) high, 6” (16cm) wide and 5” (13cm) deep. Players can build, play, rearrange and play again, and combine it with other LEGO Minecraft toys for even more fun. Also new in 2021 are 21166 & 21167
+- Kids can join 4 friendly bees as they help flowers and crops to grow – and help the beekeeper to fend off 4 angry bees, which hover in the air, whizz round in circles and fly free to frighten the sheep and the villager.
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08HW13Y44/?tag=tolees-20)

@@ -28,10 +28,10 @@ With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Star Wa
 
 ℹ️:
 
-- Great for solo or group play, this 248-piece construction kit combines brilliantly with other LEGO Star Wars sets and makes a top birthday present, holiday gift or special surprise for kids aged 7+
-- Kids will love pretending to be Anakin Skywalker piloting this LEGO brick-built model of Anakin’s Jedi Interceptor (75281), the iconic vehicle featured in Star Wars: Revenge of the Sith and Star Wars: The Clone Wars
-- This LEGO Star Wars building toy includes an Anakin Skywalker LEGO minifigure, plus an R2-D2 LEGO droid figure for role-play action; Anakin fits in the Jedi Interceptors opening cockpit and R2-D2 can sit on the wing
-- Anakins Jedi Interceptor measures over 2.5” (6cm) high, 6.5” (19cm) long and 7.5” (17cm) wide; For even more creative fun, fans can also pilot the vehicle in the LEGO Star Wars: The Skywalker Saga video game
 - The Jedi Interceptor construction toy features 2 spring-loaded shooters for battle play and foldout wing flaps for attack mode; Anakin’s Lightsaber and spare ammo clip under the wing
+- This LEGO Star Wars building toy includes an Anakin Skywalker LEGO minifigure, plus an R2-D2 LEGO droid figure for role-play action; Anakin fits in the Jedi Interceptors opening cockpit and R2-D2 can sit on the wing
+- Great for solo or group play, this 248-piece construction kit combines brilliantly with other LEGO Star Wars sets and makes a top birthday present, holiday gift or special surprise for kids aged 7+
+- Anakins Jedi Interceptor measures over 2.5” (6cm) high, 6.5” (19cm) long and 7.5” (17cm) wide; For even more creative fun, fans can also pilot the vehicle in the LEGO Star Wars: The Skywalker Saga video game
+- Kids will love pretending to be Anakin Skywalker piloting this LEGO brick-built model of Anakin’s Jedi Interceptor (75281), the iconic vehicle featured in Star Wars: Revenge of the Sith and Star Wars: The Clone Wars
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B0858HRS4L/?tag=tolees-20)
