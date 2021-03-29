@@ -1,35 +1,37 @@
 ---
 layout: post
-title: 'LEGO 21046 Architecture Empire State Bui at 16.67 % discount'
-date: 2021-03-15 00:38:51
+title: 'LEGO 21046 Architecture Empire State Bui at 27.78 % discount'
+date: 2021-03-29 15:01:00
 image: 'https://m.media-amazon.com/images/I/417cnfJXXHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTLHZVC-co.uk LEGO 21046 Architecture Empire State Building New York...'
 sku: 'B07KTLHZVC-co.uk'
-actualPrice: 74.99 GBP
+tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego', ]
+actualPrice: 64.99 GBP
 currency: GBP
-price: 74.99
+price: 64.99
 comparePrice: 89.99 GBP
-prodname: 'LEGO 21046 Architecture Empire State Building New York Landmark Collectible Model Building Set'
+prodname: 'LEGO 21046 Architecture Empire State Building New York Landmark Collectible Model Building Set'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21'
-descuento: '16.67'
-average: '81.0633502538072'
+descuento: '27.78'
+average: '80.5979904306222'
 ---
 
-With a final price of 74.99 GBP (original: 89.99 GBP) you can find [LEGO 21046 Architecture Empire State Building New York Landmark Collectible Model Building Set](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21) with a  16.67 % discount here:
+With a final price of 64.99 GBP (original: 89.99 GBP) you can find [LEGO 21046 Architecture Empire State Building New York Landmark Collectible Model Building Set](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21) with a  27.78 % discount here:
 
-[![LEGO 21046 Architecture Empire State Bui](https://m.media-amazon.com/images/I/417cnfJXXHL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21)
+[![LEGO 21046 Architecture Empire State Bui](https://m.media-amazon.com/images/I/417cnfJXXHL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21)
 
 ℹ️:
 
-- 360 degrees displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office
-- At 21 Inch (55 cm) high, this Empire State Building model is the tallest LEGO architecture model to date (July 2019). Contains 1760 pieces
-- This highly detailed replica accurately recreates the symmetrical lines of the structure, four curtain wall facades and art deco antenna tower
-- Finish this representation with a tiled baseplate depicting fifth avenue and the surrounding roads, completed with six iconic yellow cabs
+- 360°-displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office.
+- At 21 Inch (55 cm) high, this Empire State Building model is the tallest LEGO Architecture model to date (July 2019). Contains 1760 pieces.
+- Finish this representation with a tiled baseplate depicting Fifth Avenue and the surrounding roads, completed with 6 iconic yellow cabs.
+- This highly detailed replica accurately recreates the symmetrical lines of the structure, 4 curtain wall facades and art deco antenna tower.
+- Information about the architecture and history of each structure, in many langugaes is available for download at LEGO.com/architecture
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21)

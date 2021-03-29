@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31097 Creator 3-in-1 Set Stadthaus  at 21.37 % discount'
-date: 2021-03-28 00:50:08
+date: 2021-03-29 16:05:08
 image: 'https://m.media-amazon.com/images/I/61wqCBGkwaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07KTV5ZG7/?tag=tolees0ca-21'
 descuento: '21.37'
-average: '62.0447311827957'
+average: '62.0627368421052'
 ---
 
 With a final price of 62.9 EUR (original: 79.99 EUR) you can find [LEGO 31097 Creator 3-in-1 Set Stadthaus mit Zoohandlung & Café  Bauset mit 3 Minifiguren und Tierfiguren: Hund  Tukan und Maus](https://www.amazon.de/dp/B07KTV5ZG7/?tag=tolees0ca-21) with a  21.37 % discount here:
@@ -29,9 +29,9 @@ With a final price of 62.9 EUR (original: 79.99 EUR) you can find [LEGO 31097 Cr
 ℹ️:
 
 - Dieses LEGO Creator 3-in-1-Spielset bietet 3 verschiedene Baumöglichkeiten: Baue das Stadthaus mit Zoohandlung und Café, ein Bankgebäude oder eine Einkaufsstraße mit Straßenbahn
-- Enthält 3 Minifiguren, die für Spaß in der Stadt bereit sind.
 - Im Erdgeschoss des zweistöckigen Gebäudes befindet sich ein Café mit detailreichem Innen- und Außenbereich. Das Obergeschoss weist die dazugehörige Küche mit Ofen und einen Balkon auf.
 - Dank des modularen Systems von LEGO Creator können Module mit ganzen Geschossen einfach ausgetauscht werden, um das Gebäude nach deinem Geschmack zu gestalten.
+- Enthält 3 Minifiguren, die für Spaß in der Stadt bereit sind.
 - Das Stadthaus mit Zoohandlung und Café verfügt über eine Fassade mit Ornamenten, einem Café-Schild sowie einen Außenbereich mit Blumen, Geldautomat, Fußweg, Ampel und Hydrant.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTV5ZG7/?tag=tolees0ca-21)
