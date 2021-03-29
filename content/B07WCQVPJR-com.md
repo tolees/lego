@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Catamaran 42105 Model Sailb at 20.00 % discount'
-date: 2021-03-21 20:56:21
+date: 2021-03-29 02:53:07
 image: 'https://m.media-amazon.com/images/I/513UTC7p0dL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07WCQVPJR/?tag=tolees-20'
 descuento: '20.00'
-average: '41.6214285714288'
+average: '41.5888000000002'
 ---
 
 With a final price of 39.99 USD (original: 49.99 USD) you can find [LEGO Technic Catamaran 42105 Model Sailboat Building Kit  New 2020  404 Pieces ](https://www.amazon.com/dp/B07WCQVPJR/?tag=tolees-20) with a  20.00 % discount here:
@@ -28,9 +28,9 @@ With a final price of 39.99 USD (original: 49.99 USD) you can find [LEGO Technic
 
 ℹ️:
 
-- Model Number: 6288772
-- Package Weight: 900 grams
 - Item Package Quantity: 1
 - made in china
+- Model Number: 6288772
+- Package Weight: 900 grams
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WCQVPJR/?tag=tolees-20)
