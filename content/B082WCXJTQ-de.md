@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'LEGO 76167 Super Heroes Marvel Avengers  at 28.24 % discount'
-date: 2021-03-17 21:31:03
+title: 'LEGO 76167 Super Heroes Marvel Avengers  at 24.17 % discount'
+date: 2021-03-30 20:15:27
 image: 'https://m.media-amazon.com/images/I/51w+RB7H1EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B082WCXJTQ-de LEGO 76167 Super Heroes Marvel Avengers Iron Mans Arsenal...'
 sku: 'B082WCXJTQ-de'
-actualPrice: 21.52 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+actualPrice: 22.74 EUR
 currency: EUR
-price: 21.52
+price: 22.74
 comparePrice: 29.99 EUR
 prodname: 'LEGO 76167 Super Heroes Marvel Avengers Iron Mans Arsenal Set  Erweiterungsset'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B082WCXJTQ/?tag=tolees0ca-21'
-descuento: '28.24'
-average: '24.1222222222222'
+descuento: '24.17'
+average: '24.0634042553192'
 ---
 
-With a final price of 21.52 EUR (original: 29.99 EUR) you can find [LEGO 76167 Super Heroes Marvel Avengers Iron Mans Arsenal Set  Erweiterungsset](https://www.amazon.de/dp/B082WCXJTQ/?tag=tolees0ca-21) with a  28.24 % discount here:
+With a final price of 22.74 EUR (original: 29.99 EUR) you can find [LEGO 76167 Super Heroes Marvel Avengers Iron Mans Arsenal Set  Erweiterungsset](https://www.amazon.de/dp/B082WCXJTQ/?tag=tolees0ca-21) with a  24.17 % discount here:
 
 [![LEGO 76167 Super Heroes Marvel Avengers ](https://m.media-amazon.com/images/I/51w+RB7H1EL._SL400_.jpg)](https://www.amazon.de/dp/B082WCXJTQ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Ein facettenreiches Superhelden-Spielset, mit dem Kinder Iron Mans Abenteuer selbst nachspielen können
 - Ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren
-- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
-- Enthält Tony Stark als Minifigur, 2 Iron Man-Rüstungen und einen megastarken Hot Rod
 - Inspiriert zu spannenden Superheldenabenteuern und bereichert als spektakuläres Schaustück jedes Kinderzimmer
+- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
+- Ein facettenreiches Superhelden-Spielset, mit dem Kinder Iron Mans Abenteuer selbst nachspielen können
+- Enthält Tony Stark als Minifigur, 2 Iron Man-Rüstungen und einen megastarken Hot Rod
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B082WCXJTQ/?tag=tolees0ca-21)
