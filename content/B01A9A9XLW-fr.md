@@ -29,14 +29,14 @@ With a final price of 165.0 EUR (original: 199.2 EUR) you can find [LEGO Educati
 ℹ️:
 
 - Principales valeurs pédagogiques :
-- Outil de documentation intégré pour apporter un support informatif aux projets : images, captures décran, vidéos et texte
 - Évaluation intégrée
-- Implication des élèves dans les domaines scientifiques en les rendant tangibles et pertinents
-- Compétences de collaboration et de présentation
-- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
 - Compétences de base en programmation
+- Implication des élèves dans les domaines scientifiques en les rendant tangibles et pertinents
 - Esprit critique et résolution des problèmes ACV :
 - Observation, modélisation et conception de solutions
 - Disponible sur ordinateur et sur tablette
+- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
+- Outil de documentation intégré pour apporter un support informatif aux projets : images, captures décran, vidéos et texte
+- Compétences de collaboration et de présentation
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B01A9A9XLW/?tag=tolees0d-21)
