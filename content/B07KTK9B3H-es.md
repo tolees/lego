@@ -28,15 +28,15 @@ With a final price of 16.2 EUR (original: 21.75 EUR) you can find [LEGO Super He
 
 ℹ️:
 
-- Este juguete de superhéroes es el mejor regalo de cumpleaños para los preescolares y peques fascinados con Batman.
+- Los juguetes creativos LEGO 4+ introducen a tu peque en el amplísimo universo de sus películas, personajes de televisión y héroes cotidianos favoritos.
 - El cajero automático para construir dispone de un punto de conexión para la dinamita de Enigma.
-- Los sets de construcción de juguetes LEGO 4+ están especialmente diseñados para entretener a los peques de una manera fácil y divertida, ayudándoles a adquirir confianza mediante los sencillos pasos de construcción, perfectos para iniciarse en la construcción con ladrillos LEGO.
+- Armas incluidas: batarang de Batman y dinamita de Enigma.
+- Los sets de construcción LEGO 4+, comercializados anteriormente con la marca LEGO Juniors, se pueden combinar con todos los ladrillos LEGO y sets LEGO originales para estimular la construcción creativa.
 - Este set LEGO DC Batman incluye 2 minifiguras: Batman y Enigma.
 - La minifigura de Enigma es novedad en junio de 2019.
-- Accesorios incluidos: monopatín para construir y palanca de Enigma.
-- Los sets de construcción LEGO 4+, comercializados anteriormente con la marca LEGO Juniors, se pueden combinar con todos los ladrillos LEGO y sets LEGO originales para estimular la construcción creativa.
-- Los juguetes creativos LEGO 4+ introducen a tu peque en el amplísimo universo de sus películas, personajes de televisión y héroes cotidianos favoritos.
-- Armas incluidas: batarang de Batman y dinamita de Enigma.
 - El coche de juguete de fácil construcción basado en el Batmobile cuenta con chasis de construcción rápida, cabina para una minifigura, 2 puntos de conexión independientes para el batarang de Batman, 2 batwings y un escape en llamas.
+- Este juguete de superhéroes es el mejor regalo de cumpleaños para los preescolares y peques fascinados con Batman.
+- Accesorios incluidos: monopatín para construir y palanca de Enigma.
+- Los sets de construcción de juguetes LEGO 4+ están especialmente diseñados para entretener a los peques de una manera fácil y divertida, ayudándoles a adquirir confianza mediante los sencillos pasos de construcción, perfectos para iniciarse en la construcción con ladrillos LEGO.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07KTK9B3H/?tag=tolees-21)
