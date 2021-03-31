@@ -28,10 +28,10 @@ There's a deal [LEGO 76383 Harry Potter Hogwarts Moment: Potions Class Co
 
 ℹ️:
 
-- It opens to transport kids to Professor Snapes dungeon, there is potion-making equipment to practice with – and a secret chamber to explore!
-- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
-- Includes Draco Malfoy, Seamus Finnigan & Professor Snape minifigures, it features a distinctly coloured cover decorated with a unique motif
 - Accessories include a potion book, blackboard, armchair, table, spoon, knife, cup, pot, purple potion, secret chamber and a dungeon backdrop
+- Includes Draco Malfoy, Seamus Finnigan & Professor Snape minifigures, it features a distinctly coloured cover decorated with a unique motif
+- It opens to transport kids to Professor Snapes dungeon, there is potion-making equipment to practice with – and a secret chamber to explore!
 - The portable set is of perfect size for travel convenience, when the lesson ends, close the cover and take it with you wherever you go
+- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4CN5YD/?tag=tolees0a-21)

@@ -29,11 +29,11 @@ With a final price of 100.99 EUR (original: 129.99 EUR) you can find [LEGO City 
 ℹ️:
 
 - Ce set de construction constitue un formidable cadeau de Noël, danniversaire ou autre pour les enfants passionnés par lexploration sous-marine et les fans de la série télévisée LEGO City Adventures
-- Une fois construit, le bateau d’exploration mesure plus de 18 cm de haut, 63 cm de long et 17 cm de large, tandis que l’épave de bateau pirate mesure plus de 16 cm de haut, 13 cm de long et 8 cm de large
-- Un bateau dexploration flottant, avec une grue qui fonctionne, une cage à requins, un canot de sauvetage, un sous-marin, un hélicoptère, 8 figurines, dont Harl Hubbs, le personnage de la série télévisée LEGO City, un requin et une raie
-- Le set LEGO City Le bateau d’exploration océanique (60266) comprend plusieurs modèles et constitue un merveilleux cadeau pour les jeunes explorateurs Il inclut tout ce dont les enfants ont besoin pour une expérience de jeu amusante et gratifiante
-- À la recherche de jouets passionnants pour des enfants de 5 ans et plus
 - Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche
+- Le set LEGO City Le bateau d’exploration océanique (60266) comprend plusieurs modèles et constitue un merveilleux cadeau pour les jeunes explorateurs Il inclut tout ce dont les enfants ont besoin pour une expérience de jeu amusante et gratifiante
+- Un bateau dexploration flottant, avec une grue qui fonctionne, une cage à requins, un canot de sauvetage, un sous-marin, un hélicoptère, 8 figurines, dont Harl Hubbs, le personnage de la série télévisée LEGO City, un requin et une raie
 - Que contient la boîte
+- À la recherche de jouets passionnants pour des enfants de 5 ans et plus
+- Une fois construit, le bateau d’exploration mesure plus de 18 cm de haut, 63 cm de long et 17 cm de large, tandis que l’épave de bateau pirate mesure plus de 16 cm de haut, 13 cm de long et 8 cm de large
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21)
