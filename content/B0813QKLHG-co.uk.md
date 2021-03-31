@@ -28,11 +28,11 @@ You've got [Zebra 2020 LEGO 31200 Art Star Wars The Sith Collectors DIY�
 
 ℹ️:
 
-- 1 Picture - 3 Options. Pictured models can not be built simultaneously.
+- Features 3-in-1 rebuildable portrait set - in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
 - This LEGO art piece measures over 15.5 Inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be proudly displayed
 - When combined with another 2 sets to create ultimate Darth Vader wall art it makes a great gift for creative builders and Star Wars fans
+- 1 Picture - 3 Options. Pictured models can not be built simultaneously.
 - Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, unique new hanging element and piece separator
 - With the complementary Soundtrack, you can dive deep into the build with fun Star Wars-related stories and interviews
-- Features 3-in-1 rebuildable portrait set - in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QKLHG/?tag=tolees0a-21)
