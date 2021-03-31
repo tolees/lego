@@ -29,8 +29,8 @@ You've got [LEGO 75295 Star Wars Millennium Falcon Microfighter Spielzeug mit Ha
 ℹ️:
 
 - Der Millennium Falcon Microfighter (75295) verfügt über einen Sitz für eine LEGO Minifigur und 2 Shooter. Han Solo ist außerdem mit einer Blasterpistole ausgerüstet, um kreativen Spielspaß zu ermöglichen
-- Dieses 101-teilige Bauspielzeug ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für kreative Kinder ab 6 Jahren und lässt sich einfach bauen und nach actionreichen Missionen wieder mühelos zusammensetzen
 - Diese LEGO Microfighters Version des Millennium Falcon aus der klassischen Star Wars Trilogie lässt junge Kinder in die Rolle des mutigen Rebellen aus dem Star Wars Universum schlüpfen
+- Dieses 101-teilige Bauspielzeug ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für kreative Kinder ab 6 Jahren und lässt sich einfach bauen und nach actionreichen Missionen wieder mühelos zusammensetzen
 - Der Microfighter ist 4 cm hoch, 8 cm lang und 7 cm breit. Dank dieses kompakten Formats passt das Modell leicht in einen Kinderrucksack, um auch unterwegs Spielspaß zu bieten
 - Dieses Bau- und Spielset lässt sich wunderbar mit dem Set „AT-AT vs. Tauntaun Microfighters“ (75298) kombinieren, um noch weitere Spielmöglichkeiten zu bieten
 - Ist das Set für einen jungen Star Wars Fan ohne nennenswerte LEGO Bauerfahrung gedacht? Kein Problem. Eine illustrierte Schritt-für-Schritt-Bauanleitung lässt Kinder selbstbewusst bauen
