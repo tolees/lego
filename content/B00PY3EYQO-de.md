@@ -29,11 +29,11 @@ You've got [LEGO Classic - Lego 10698 Classic Große kreative Bausteine-Box  Auf
 ℹ️:
 
 - Spezielle Elemente regen zu besonders fantasievollen Bauvorhaben und zum kreativen Spielen an.
-- Beinhaltet 8 verschiedene Typen von Fenstern und Türen mit 8 verschiedenen Rahmen.
-- Zu den speziellen Elementen zählen auch 2 unterschiedlich große grüne Grundplatten, 3 Augenpaare, 6 Reifen und 6 Felgen.
-- LEGO Classic wurde entwickelt, um als Inspiration für endlose Kreativität beim Bauen mit LEGO Steinen zu dienen.
-- Eine Vielzahl an Fenstern und Türen eröffnet ganz neue Möglichkeiten für das klassische Bauen mit LEGO Steinen.
 - Alle abgebildeten Modelle lassen sich gleichzeitig aus diesem Set bauen.
+- LEGO Classic wurde entwickelt, um als Inspiration für endlose Kreativität beim Bauen mit LEGO Steinen zu dienen.
 - Enthält ein breites Spektrum an LEGO Steinen in 33 verschiedenen Farben.
+- Beinhaltet 8 verschiedene Typen von Fenstern und Türen mit 8 verschiedenen Rahmen.
+- Eine Vielzahl an Fenstern und Türen eröffnet ganz neue Möglichkeiten für das klassische Bauen mit LEGO Steinen.
+- Zu den speziellen Elementen zählen auch 2 unterschiedlich große grüne Grundplatten, 3 Augenpaare, 6 Reifen und 6 Felgen.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B00PY3EYQO/?tag=tolees0ca-21)
