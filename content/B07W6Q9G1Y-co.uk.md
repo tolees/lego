@@ -30,8 +30,8 @@ There's a deal [LEGO 76899 Speed Champions Lamborghini Urus ST-X & Lambo
 
 - New for January 2020, LEGO Speed Champions replicas are now 25% bigger and more realistic than ever to car fans delight
 - Includes 2 racing driver minifigures to recreate all the thrills and spills of the racetrack. Now, who will win the big race?
-- The sleek Lamborghini Huracán has a new black & gold livery embellished with gold details and realistic stickers to mark superb aerodynamics
-- Features 2 brilliantly detailed Lamborghini car toys for racing action, these replicas come with a starting line with ’lights’ for more fun
 - The powerful Lamborghini Urus ST-X triumph combines race circuit and off-road track, it comes with lateral racing exhausts and green livery
+- Features 2 brilliantly detailed Lamborghini car toys for racing action, these replicas come with a starting line with ’lights’ for more fun
+- The sleek Lamborghini Huracán has a new black & gold livery embellished with gold details and realistic stickers to mark superb aerodynamics
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W6Q9G1Y/?tag=tolees0a-21)

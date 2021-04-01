@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.01 % for LEGO BrickHeadz Star Wars The Mandaloria'
-date: 2021-03-26 04:58:07
+date: 2021-04-01 08:28:10
 image: 'https://m.media-amazon.com/images/I/51lxC6y5zUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B0849S7C5W/?tag=tolees-20'
 descuento: '20.01'
-average: '19.8088235294118'
+average: '19.5966666666667'
 ---
 
 You've got [LEGO BrickHeadz Star Wars The Mandalorian & The Child 75317 Building Kit  Toy for Kids and Any Star Wars Fan Featuring Buildable The Mandalorian and The Child Figures  New 2020  295 Pieces ](https://www.amazon.com/dp/B0849S7C5W/?tag=tolees-20) with a  20.01 % discount, with final price of 15.99 USD (original: 19.99 USD) at the following link:

@@ -29,8 +29,8 @@ You've got [LEGO 76384 Harry Potter Hogwarts Moment: Herbology Class Col
 ℹ️:
 
 - The book unfolds to reveal the Hogwarts greenhouse, where an Herbology lesson on repotting Mandrakes is taking place
-- Includes a spell book, pumpkin patch, watering station with bucket and golden faucet, earmuffs, pruning scissors & a greenhouse backdrop
 - The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
+- Includes a spell book, pumpkin patch, watering station with bucket and golden faucet, earmuffs, pruning scissors & a greenhouse backdrop
 - Includes Cedric Diggory, Neville Longbottom and Professor Sprout minifigures, gardening equipment and enchanted plants to practice with
 - For travel convenience, when the lesson ends, close the cover and take it with you wherever you go, it is of the perfect portable size
 
