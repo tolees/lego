@@ -31,7 +31,7 @@ There's a deal [LEGO 43184 Disney Princess Raya and Sisu Dragon Toy  fr
 - Even younger builders can zoom in on and visualise models as they build while using the free LEGO Building Instructions PLUS app
 - Fans of Disney’s Raya and the Last Dragon will adore this toy set packed with many details and story starters for kids 6+ years old
 - The palace gate has a secret room to hold a small box with a diamond and the waterfall opens up to immerse kids in the fantasy world
-- Features a posable Sisu Dragon LEGO figure, based on the new Disney movie Raya and the Last Dragon, plus a palace gate and waterfall builds
 - Includes warrior Disneys Princess Raya minidoll with her iconic conical straw hat, Filipinos sundang "wavy" sword and a map
+- Features a posable Sisu Dragon LEGO figure, based on the new Disney movie Raya and the Last Dragon, plus a palace gate and waterfall builds
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B082WD4JR6/?tag=tolees0a-21)
