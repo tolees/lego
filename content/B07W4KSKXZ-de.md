@@ -1,36 +1,39 @@
 ---
 layout: post
-title: '25.01 % deal for LEGO 60253 City Eiswagen Spielzeug mit S'
-date: 2021-03-17 13:06:56
+title: '22.51 % deal for LEGO 60253 City Eiswagen Spielzeug mit S'
+date: 2021-04-01 01:45:11
 image: 'https://m.media-amazon.com/images/I/51b5Hj2140L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07W4KSKXZ-de LEGO 60253 City Eiswagen Spielzeug mit Skater- und...'
 sku: 'B07W4KSKXZ-de'
-actualPrice: 14.99 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+actualPrice: 15.49 EUR
 currency: EUR
-price: 14.99
+price: 15.49
 comparePrice: 19.99 EUR
-prodname: 'LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigur  Bauset für Kinder ab 5 Jahren'
+prodname: 'LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigur  Bauset für Kinder ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21'
-descuento: '25.01'
-average: '18.2551648351648'
+descuento: '22.51'
+average: '18.142947368421'
 ---
 
-There's a deal [LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigur  Bauset für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)  with  25.01 % discount, final price tag of  14.99 EUR (original: 19.99 EUR) here:
+There's a deal [LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigur  Bauset für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)  with  22.51 % discount, final price tag of  15.49 EUR (original: 19.99 EUR) here:
 
-[![LEGO 60253 City Eiswagen Spielzeug mit S](https://m.media-amazon.com/images/I/51b5Hj2140L._SL400_.jpg)](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)
+[![LEGO 60253 City Eiswagen Spielzeug mit S](https://m.media-amazon.com/images/I/51b5Hj2140L._SL400_.jpg)](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Kinder können mit dem Van fahren, Eistüten und Lollis aus dem Servierfenster servieren und dem Skateboardfahrer dabei helfen, coole Tricks auszuführen
-- Enthält 2 Minifiguren und eine Hundefigur sowie eine Reihe großartiger Accessoires: Eistüten, Eis am Stiel, Schutzhelm und einen grünen Geldschein
-- Verfügt über ein farbenfrohes Eiswagen-Spielzeugauto mit lustigen Aufklebern, abnehmbarem Fahrerhausdach und weit öffnenden Seitentüren für einfachen Zugang
-- Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
-- Lassen Sie Ihre Kinder verschiedene Rollenspielszenarios mit dem leicht zugänglichen Innenraum durch das abnehmbare Dach des Eiswagens genießen
+- Batterien werden nicht benötigt. Als Antrieb reicht dem LEGO City Eiswagen die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
+- Mit diesem Bauset ist das Bauen wirklich kinderleicht. Zu dem Set gibt es eine einfache gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung für Kinder. Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
+- Welches Kind läuft nicht begeistert zum Eiswagen? Kinder vergnügen sich gerne mit dem LEGO City Bauset „Eiswagen“, das echten Sommerspaß verspricht und unzählige kreative Alltags-Rollenspiele ermöglicht.
+- Kinder helfen der Eisverkäuferin, den Eiswagen zu fahren und an der Eistheke Eiswaffeln und Eis am Stiel zu verkaufen, und dem Skateboarder, tolle Tricks zu zeigen. Dieser farbenfrohe Eiswagen ist auch ein tolles Schaustück.
+- Der fertig gebaute Eiswagen ist 11 cm hoch, 15 cm lang und 6 cm breit. Die Eisverkäuferin hat reichlich Platz, um den Eiswagen zu fahren und Kunden zu bedienen.
+- Dieses Bauset für Kinder enthält einen farbenfrohen Eiswagen, eine Eisverkäuferin und einen Skateboarder als Minifiguren sowie eine Hundefigur. Perfekt für ein fantasievolles, selbstständiges Spielerlebnis.
+- Das LEGO City Spielset „Eiswagen“ (60253) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Grundlegende Baufähigkeiten reichen völlig.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)

@@ -1,37 +1,39 @@
 ---
 layout: post
-title: '25.00 % deal for LEGO 76899 Speed Champions Lamborghini U'
-date: 2021-03-22 10:14:29
+title: '18.42 % deal for LEGO Speed Champions - Lego 76899 Speed '
+date: 2021-04-01 01:54:46
 image: 'https://m.media-amazon.com/images/I/51b4UGtFbBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W6Q9G1Y-de LEGO 76899 Speed Champions Lamborghini Urus ST-X &...'
+slug: 'B07W6Q9G1Y-de LEGO Speed Champions - Lego 76899 Speed Champions...'
 sku: 'B07W6Q9G1Y-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 44.99 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','lego speed champions', ]
+actualPrice: 48.94 EUR
 currency: EUR
-price: 44.99
+price: 48.94
 comparePrice: 59.99 EUR
-prodname: 'LEGO 76899 Speed Champions Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO  Rennwagen Set'
+prodname: 'LEGO Speed Champions - Lego 76899 Speed Champions Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO  Rennwagen-Set'
 country: 'de'
 flag: '🇩🇪'
-brand: 'LEGO'
+brand: 'LEGO Speed Champions'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21'
-descuento: '25.00'
-average: '46.6154968944098'
+descuento: '18.42'
+average: '46.8725825825824'
 ---
 
-There's a deal [LEGO 76899 Speed Champions Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO  Rennwagen Set](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)  with  25.00 % discount, final price tag of  44.99 EUR (original: 59.99 EUR) here:
+There's a deal [LEGO Speed Champions - Lego 76899 Speed Champions Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO  Rennwagen-Set](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)  with  18.42 % discount, final price tag of  48.94 EUR (original: 59.99 EUR) here:
 
-[![LEGO 76899 Speed Champions Lamborghini U](https://m.media-amazon.com/images/I/51b4UGtFbBL._SL400_.jpg)](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)
+[![LEGO Speed Champions - Lego 76899 Speed ](https://m.media-amazon.com/images/I/51b4UGtFbBL._SL400_.jpg)](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Lamborghini Urus ST-X und Lamborghini Huracán Super Trofeo EVO, 2 tolle Sammlerstücke in einem Set
-- Dieses 659-teilige Bauset ist ein faszinierendes Geschenk für Jungen und Mädchen ab 8 Jahren
-- Robust genug, um in eine Tasche gesteckt zu werden und Kinder überall spielen zu lassen
-- Tolle Spielzeugautos, die Bauspaß und spannende Rennen versprechen und auch als Schaustücke beeindrucken
-- Enthält eine Startampel und 2 Rennfahrer-Minifiguren für packende Renn-Action
+- Das LEGO Spielset zum Sammeln enthält 2 Lamborghini-Rennwagen als originalgetreue Baumodelle. Das Bauset ist das perfekte Geschenk für alle, die Rennwagen lieben und gerne spannende Rennen austragen.
+- Das Set „Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO“ enthält die beiden Rennwagen als LEGO Nachbildungen, eine Startlinie mit Startampel sowie 2 Rennfahrer-Minifiguren.
+- Dieser 659-teilige Lamborghini-Modellbausatz ist ein tolles LEGO Geschenk und beschert Jungen und Mädchen ab 9 Jahren ein lohnendes Bauerlebnis. Diese Flitzer lassen Kinder wunderbar allein oder zusammen mit Freunden spielen.
+- Ist dieses Lamborghini-Spielset für einen ungeübten LEGO Baumeister gedacht? Ja! Dem Set liegt eine einfache Bauanleitung bei, damit der Bauspaß sofort beginnen kann.
+- Für dieses Bauset werden keinen Batterien benötigt. Sobald die beiden Modelle gebaut sind, beginnt das Spielvergnügen. Als Antrieb reicht diesen Spielzeugautos die Fantasie der Kinder. Die Renn-Action muss folglich niemals enden!
+- Die Speed Champions Spielzeug-Rennwagen sind jetzt um 25 Prozent größer. Das Modell des Lamborghini Huracán ist 5 cm hoch, 16 cm lang und 7 cm breit. Die beiden Autos besitzen die perfekten Abmessungen, um auch überall mit hingenommen zu werden.
+- Mit den beiden Rennwagen (neu ab Januar 2020) gibt Lamborghini sein eindrucksvolles LEGO Speed Champions Debüt. Dieses Sammlerset enthält zwei Modellautos als coole Schaustücke oder Spielzeugrennwagen für spannende Renn-Action.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)
