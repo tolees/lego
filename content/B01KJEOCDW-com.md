@@ -28,9 +28,9 @@ With a final price of 11.99 USD (original: 14.99 USD) you can find [LEGO Creator
 
 ℹ️:
 
-- rebuilds into a Triceratops or a Pterodactyl
+- Triceratops measures over 3 (9cm) tall
 - Pterodactyl measures over 1 (4cm) high, 7 (18cm) long and 9 (25cm) wide
 - T. Rex measures over 4 (11cm) tall
-- Triceratops measures over 3 (9cm) tall
+- rebuilds into a Triceratops or a Pterodactyl
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B01KJEOCDW/?tag=tolees-20)
