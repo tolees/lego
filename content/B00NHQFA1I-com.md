@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'LEGO Classic Medium Creative Brick Box 1 at 24.29 % discount'
-date: 2021-02-19 08:35:59
-image: 'https://m.media-amazon.com/images/I/51ZxWAH1QvL._SL200_.jpg'
+date: 2021-04-01 12:31:15
+image: 'https://m.media-amazon.com/images/I/51ZxWAH1QvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NHQFA1I-com LEGO Classic Medium Creative Brick Box 10696 Building...'
 sku: 'B00NHQFA1I-com'
+tags: [ 'Building Toys','Toy Building Sets','Toys & Games','lego', ]
 actualPrice: 26.49 USD
 currency: USD
 price: 26.49
@@ -23,7 +24,7 @@ average: '27.8483720930233'
 
 With a final price of 26.49 USD (original: 34.99 USD) you can find [LEGO Classic Medium Creative Brick Box 10696 Building Toys for Creative Play; Kids Creative Kit  484 Pieces ](https://www.amazon.com/dp/B00NHQFA1I/?tag=tolees-20) with a  24.29 % discount here:
 
-[![LEGO Classic Medium Creative Brick Box 1](https://m.media-amazon.com/images/I/51ZxWAH1QvL._SL200_.jpg)](https://www.amazon.com/dp/B00NHQFA1I/?tag=tolees-20)
+[![LEGO Classic Medium Creative Brick Box 1](https://m.media-amazon.com/images/I/51ZxWAH1QvL._SL400_.jpg)](https://www.amazon.com/dp/B00NHQFA1I/?tag=tolees-20)
 
 ℹ️:
 
