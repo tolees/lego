@@ -28,10 +28,10 @@ There's a deal [LEGO 42093 Technic Chevrolet Corvette ZR1 Race Car  2 i
 
 ℹ️:
 
-- The 2-in-1 LEGO Technic 42093 Chevrolet Corvette ZR1 set rebuilds intoa Hot Rod replica.
-- This exclusive Chevrolet Corvette ZR1 replica model comes with an authentic orange and black colour scheme plus a cool sticker sheet for additional detailing.
-- Build and experience an iconic supercar—the LEGO Technic Chevrolet Corvette ZR1!
-- This collectible car model features a large rear wing, 4 tailpipes, black spoked rims with low-profile tyres, working steering and visible moving V8 pistons.
 - Operate the working steering and maneuver the vehicle to activate the visible V8 pistons.
+- The 2-in-1 LEGO Technic 42093 Chevrolet Corvette ZR1 set rebuilds intoa Hot Rod replica.
+- Build and experience an iconic supercar—the LEGO Technic Chevrolet Corvette ZR1!
+- This exclusive Chevrolet Corvette ZR1 replica model comes with an authentic orange and black colour scheme plus a cool sticker sheet for additional detailing.
+- This collectible car model features a large rear wing, 4 tailpipes, black spoked rims with low-profile tyres, working steering and visible moving V8 pistons.
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07FNW6WQ4/?tag=tolees0a-21)
