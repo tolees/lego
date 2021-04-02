@@ -28,9 +28,9 @@ You've got [LEGO Star Wars: The Empire Strikes Out](https://www.amazon.com/dp/B0
 
 ℹ️:
 
-- NR
-- Run Time: 22
 - CHILDREN/FAMILY
+- Run Time: 22
 - Release Date: 6/17/2014
+- NR
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B00AXFK96M/?tag=tolees-20)
