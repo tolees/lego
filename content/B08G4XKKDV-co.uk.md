@@ -28,10 +28,10 @@ You've got [LEGO 41439 Friends Cat Grooming Car  Playset with Kittens �
 
 ℹ️:
 
+- Kids 4+ will have fun imagining collecting cats in the car and giving them a makeover at the grooming parlor for pussycats
+- This set is packed with cute accessories, including a cat biscuit, a kitten feeding bottle, hair piece, scissors, hair brush and a banknote
 - Apart from printed guide, using Digital Instructions PLUS via the LEGO Life app, kids can zoom, rotate and visualize the set as they build
 - A Starter Brick gets the building going, so there’s more time to play! Reward hard work by this everyday toy gift that entertains for hours
 - This compact cat toy includes a kitty-styled car, a cat beauty salon, LEGO Friends Emma and Mia minidolls, plus a cat and a kitten figure
-- This set is packed with cute accessories, including a cat biscuit, a kitten feeding bottle, hair piece, scissors, hair brush and a banknote
-- Kids 4+ will have fun imagining collecting cats in the car and giving them a makeover at the grooming parlor for pussycats
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4XKKDV/?tag=tolees0a-21)
