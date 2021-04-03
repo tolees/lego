@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Manufacturing - LEGO: DC Comics S at 33.53 % discount'
-date: 2021-04-02 06:12:07
+date: 2021-04-03 07:12:39
 image: 'https://m.media-amazon.com/images/I/51DZyx7NQrL._SL400_.jpg'
 comments: true
 category: ofertas

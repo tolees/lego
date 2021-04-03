@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 19.65 % for WB Games - LEGO Harry Potter: Collection'
-date: 2021-04-02 06:13:51
+date: 2021-04-03 07:03:57
 image: 'https://m.media-amazon.com/images/I/51SZC9S6cSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ You've got [WB Games - LEGO Harry Potter: Collection - Nintendo Switch](https://
 
 ℹ️:
 
-- 2 top selling video games remastered in 1 package
+- Two top-selling videogames remastered in One package!
 - Take an interactive journey through a myriad of iconic locations from the beloved films with signature LEGO humor and charm
-- Spell pack DLC included on disc featuring 5 spells cantos, densaugeo, ducklifors, malodors and tentaclifors
+- Spell Pack DLC included on disc featuring 5 spells-cantis, densaugeo, ducklifors, melofors and tentaclifors
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07H5VTHJX/?tag=tolees-20)
