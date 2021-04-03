@@ -29,9 +29,9 @@ There's a deal [LEGO 75249 Star Wars Resistance Y-Wing  Starfighter Batt
 ℹ️:
 
 - Includes 6 LEGO Star Wars characters: Poe Dameron, Zorii Bliss and First Order Stormtrooper minifigures, plus D-O and astromech droid
-- Fantastic moments from the blockbuster Star Wars starship makes a great Christmas present, birthday or just a fun gift for any occasion
-- New for October 2019 weapons include Poe’s 1 and Zorii’s 2 blaster pistols, new molded helmet plus First Order Stormtroopers’ blasters
 - This Y-wing Starfighter, a.k.a. Wishbone, has lots of features that kids and collectors will really appreciate including an opening cockpit
+- New for October 2019 weapons include Poe’s 1 and Zorii’s 2 blaster pistols, new molded helmet plus First Order Stormtroopers’ blasters
+- Fantastic moments from the blockbuster Star Wars starship makes a great Christmas present, birthday or just a fun gift for any occasion
 - Features firing spring-loaded shooters and bomb elements that can be dropped and a new-for-October-2019 colour scheme as seen in the movie
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07ND9TJF7/?tag=tolees0a-21)
