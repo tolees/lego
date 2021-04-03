@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'LEGO 41395 Friends Friendship Bus Toy wi at 20.03 % discount'
-date: 2021-02-19 20:00:29
-image: 'https://m.media-amazon.com/images/I/51jEMYQpSLL._SL200_.jpg'
+title: 'Lego Friends - LEGO 41395 Friends Friend at 30.84 % discount'
+date: 2021-04-03 00:12:29
+image: 'https://m.media-amazon.com/images/I/51jEMYQpSLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07W5PX1QP-co.uk LEGO 41395 Friends Friendship Bus Toy with Swimming...'
+author: 'tole.es'
+slug: 'B07W5PX1QP-co.uk Lego Friends - LEGO 41395 Friends Friendship Bus Toy...'
 sku: 'B07W5PX1QP-co.uk'
-actualPrice: 51.97 GBP
+tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego','lego friends', ]
+actualPrice: 44.95 GBP
 currency: GBP
-price: 51.97
+price: 44.95
 comparePrice: 64.99 GBP
-prodname: 'LEGO 41395 Friends Friendship Bus Toy with Swimming Pool and Slide  Summer Holiday Playsets for 8+ Year Old'
+prodname: 'Lego Friends - LEGO 41395 Friends Friendship Bus Toy with Swimming Pool and Slide  Summer Holiday Playsets for 8+ Year Old'
 country: 'co.uk'
 flag: '🇬🇧'
-brand: 'LEGO'
+brand: 'Lego Friends'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5PX1QP/?tag=tolees0a-21'
-descuento: '20.03'
-average: '51.7747619047619'
+descuento: '30.84'
+average: '51.4645454545454'
 ---
 
-With a final price of 51.97 GBP (original: 64.99 GBP) you can find [LEGO 41395 Friends Friendship Bus Toy with Swimming Pool and Slide  Summer Holiday Playsets for 8+ Year Old](https://www.amazon.co.uk/dp/B07W5PX1QP/?tag=tolees0a-21) with a  20.03 % discount here:
+With a final price of 44.95 GBP (original: 64.99 GBP) you can find [Lego Friends - LEGO 41395 Friends Friendship Bus Toy with Swimming Pool and Slide  Summer Holiday Playsets for 8+ Year Old](https://www.amazon.co.uk/dp/B07W5PX1QP/?tag=tolees0a-21) with a  30.84 % discount here:
 
-[![LEGO 41395 Friends Friendship Bus Toy wi](https://m.media-amazon.com/images/I/51jEMYQpSLL._SL200_.jpg)](https://www.amazon.co.uk/dp/B07W5PX1QP/?tag=tolees0a-21)
+[![Lego Friends - LEGO 41395 Friends Friend](https://m.media-amazon.com/images/I/51jEMYQpSLL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W5PX1QP/?tag=tolees0a-21)
 
 ℹ️:
 
-- Comes with lots of mini-doll accessories, a hamster figure, a laptop, camera, pan, egg, decorative tiles, blanket, cookie and many more
-- The top deck slides back neatly for easy access to the cool living areas below and a hinged roof allows for easy access to the bedrooms
-- Includes Olivia, Mia and Stephanie mini-dolls, the playset comes with many details guaranteeing hours of uninterrupted role-playing fun
-- A swimming pool slides out from beneath the bus, a removable tennis net allows for fun outside the bus and the repairs stand provides tools
-- Features fully equipped holiday bus toy with five areas of play: An open rooftop with a slide, kitchen, swimming pool, tent and repairs stand
+- Comes with lots of mini-doll accessories, a hamster figure, a laptop, camera, pan, egg, decorative tiles, blanket, cookie and many more
+- The top deck slides back neatly for easy access to the cool living areas below, and a hinged roof allows for easy access to the bedrooms
+- A swimming pool slides out from beneath the bus, a removable tennis net allows for fun outside the bus, and the repairs stand provides tools
+- Includes Olivia, Mia and Stephanie mini-dolls, the playset comes with many details guaranteeing hours of uninterrupted role-playing fun
+- Features fully equipped holiday bus toy with 5 areas of play: an open rooftop with a slide, kitchen, swimming pool, tent and repairs stand
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W5PX1QP/?tag=tolees0a-21)

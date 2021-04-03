@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.56 % for LEGO 75318 Star Wars: The Mandalorian Th'
-date: 2021-03-31 21:20:21
+date: 2021-04-03 00:24:05
 image: 'https://m.media-amazon.com/images/I/518BDEgmS2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B085WV2WGC/?tag=tolees0a-21'
 descuento: '33.56'
-average: '75.9060162601627'
+average: '75.4355200000001'
 ---
 
 You've got [LEGO 75318 Star Wars: The Mandalorian The Child Baby Yoda Figure Gift Idea](https://www.amazon.co.uk/dp/B085WV2WGC/?tag=tolees0a-21) with a  33.56 % discount, with final price of 46.5 GBP (original: 69.99 GBP) at the following link:
@@ -28,8 +28,8 @@ You've got [LEGO 75318 Star Wars: The Mandalorian The Child Baby Yoda 
 
 ℹ️:
 
-- Features a charming, brick-built toy model of The Child, aka Baby Yoda, from Star Wars: The Mandalorian, with all of its cute features
 - Easy-to-follow instructions depict multi-directional building steps, with a frame and sections clipped to the side using the SNOT technique
+- Features a charming, brick-built toy model of The Child, aka Baby Yoda, from Star Wars: The Mandalorian, with all of its cute features
 - The set also includes a gearshift knob from the Razor Crest spaceship – the Child’s favorite toy – which can be placed in its hand
 - Alse features an information sign and the Child LEGO minifigure to complete a striking build-and-display model for 10+ years old fans
 - The cutest character in the galaxy has posable head, mouth and ears for a range of lovable expressions, bringing it to life when playing!
