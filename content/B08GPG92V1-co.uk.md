@@ -28,10 +28,10 @@ There's a deal [LEGO 92177 Ideas Ship in a Bottle Collectors Building S
 
 ℹ️:
 
-- The sides of the Leviathan are fitted with cannons with shafts that stick through gun ports which are pearl-gold clips
+- Features a LEGO brick-built bottle, with the Flagship Leviathan, and a display stand with the ship’s nameplate over blue water bricks
 - The Ship features a raised deck at the stern, captain’s quarters, and assorted elements including a series of flag and banner pieces
 - Three masts have crow’s nests and printed sails with a sea monster that has a dragon head and octopus tentacles on the lower part of the body
 - The Bottle features a buildable cork with a red printed wax seal and initials of Tiago Catarino, and translucent shaped or textured bricks
-- Features a LEGO brick-built bottle, with the Flagship Leviathan, and a display stand with the ship’s nameplate over blue water bricks
+- The sides of the Leviathan are fitted with cannons with shafts that stick through gun ports which are pearl-gold clips
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08GPG92V1/?tag=tolees0a-21)
