@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCFHE - LEGO Star Wars: The Yoda Chronic at 58.28 % discount'
-date: 2021-04-02 06:48:26
+date: 2021-04-03 17:04:39
 image: 'https://m.media-amazon.com/images/I/51HNJMXrIXL._SL400_.jpg'
 comments: true
 category: ofertas
