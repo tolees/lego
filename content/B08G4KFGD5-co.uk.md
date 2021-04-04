@@ -28,10 +28,10 @@ There's a deal [LEGO 71386 Super Mario Character Pack Series 2  Collecti
 
 ℹ️:
 
-- Fans can expand their LEGO Super Mario toy universe with 10 Character Packs, each containing 1 buildable, fun character and an action brick
-- The Adventures with Mario Starter Course (71360) with the LEGO Mario figure, is needed for the full play experience
-- 10 unique LEGO Super Mario toy characters to collect and play with: Huckit Crab, Spiny Cheep Cheep, Ninji, Foo, Parachute Goomba and more
 - More characters in the Series 2 include: Para-Beetle, Poison Mushroom, Thwimp, Fly Guy & Bone Goomba, offering new ways to win digital coins
 - Each Series 2 pack contains a mystery bag pack with a collectible buildable character and an action tag to add unique and new challenges
+- 10 unique LEGO Super Mario toy characters to collect and play with: Huckit Crab, Spiny Cheep Cheep, Ninji, Foo, Parachute Goomba and more
+- The Adventures with Mario Starter Course (71360) with the LEGO Mario figure, is needed for the full play experience
+- Fans can expand their LEGO Super Mario toy universe with 10 Character Packs, each containing 1 buildable, fun character and an action brick
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4KFGD5/?tag=tolees0a-21)
