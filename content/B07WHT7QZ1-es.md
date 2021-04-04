@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 50.19 % for Warner Bros Interactive Spain - Lego: Ju'
-date: 2021-04-01 18:18:37
+date: 2021-04-04 15:54:04
 image: 'https://m.media-amazon.com/images/I/51LBCA11ZmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07WHT7QZ1/?tag=tolees-21'
 descuento: '50.19'
-average: '22.3379999999999'
+average: '22.2219047619047'
 ---
 
 You've got [Warner Bros Interactive Spain - Lego: Jurassic World](https://www.amazon.es/dp/B07WHT7QZ1/?tag=tolees-21) with a  50.19 % discount, with final price of 19.9 EUR (original: 39.95 EUR) at the following link:

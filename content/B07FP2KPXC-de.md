@@ -28,9 +28,9 @@ You've got [LEGO Speed Champions - Lego 75890 Speed Champions Ferrari F40 Compet
 
 ℹ️:
 
+- Tausche Kühlerhaube und Spoiler aus, um den F40 Competizione in den klassischen Ferrari F40 Straßenwagen zu verwandeln
 - Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen
 - Der Ferrari F40 Competizione zum Bauen ist startklar für das nächste Rennen mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Rennreifen aus Gummi, transparenten Elementen als Leuchten, Rennfarben, authentischen Designdetails und austauschbaren Kühlerhauben und Heckspoilern
-- Tausche Kühlerhaube und Spoiler aus, um den F40 Competizione in den klassischen Ferrari F40 Straßenwagen zu verwandeln
 - Enthält eine Rennfahrer-Minifigur in Ferrari-Kluft
 - Enthält außerdem einen Ferrari-Rennfahrerhelm
 
