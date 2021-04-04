@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 56.74 % for LEGO Star Wars: The Empire Strikes Out'
-date: 2021-04-02 07:31:17
+date: 2021-04-04 09:02:32
 image: 'https://m.media-amazon.com/images/I/51CH1MGLgaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ You've got [LEGO Star Wars: The Empire Strikes Out](https://www.amazon.com/dp/B0
 
 ℹ️:
 
-- CHILDREN/FAMILY
-- Run Time: 22
 - Release Date: 6/17/2014
+- CHILDREN/FAMILY
 - NR
+- Run Time: 22
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B00AXFK96M/?tag=tolees-20)

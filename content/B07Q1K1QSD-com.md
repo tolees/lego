@@ -28,10 +28,10 @@ You've got [LEGO Architecture Empire State Building 21046 New York City Skyline 
 
 ℹ️:
 
+- Build and display this highly detailed LEGO Architecture interpretation of the Empire State Building!
 - This 360°-displayable LEGO Architecture Empire State Building model features 4 highly detailed facades, a silver-colored antenna tower and surrounding roads complete with iconic yellow cabs
 - This LEGO Architecture model is finished with a decorative Empire State Building nameplate
-- Measures over 21-inch (55cm) high, 7-inch (20cm) wide and 4-inch (12cm) deep 1760 pieces – For boys and girls aged 12+ and for fans and big kids of all ages
 - The LEGO Architecture 21046 Empire State Building set can be built together with all other original LEGO building sets and LEGO bricks for creative building
-- Build and display this highly detailed LEGO Architecture interpretation of the Empire State Building!
+- Measures over 21-inch (55cm) high, 7-inch (20cm) wide and 4-inch (12cm) deep 1760 pieces – For boys and girls aged 12+ and for fans and big kids of all ages
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07Q1K1QSD/?tag=tolees-20)

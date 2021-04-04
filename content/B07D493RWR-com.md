@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Harry Potter Hogwarts Express 75955'
-date: 2021-04-01 13:45:35
+date: 2021-04-04 09:18:07
 image: 'https://m.media-amazon.com/images/I/61ffWgkKqEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,16 +13,16 @@ actualPrice: 63.99 USD
 currency: USD
 price: 63.99
 comparePrice: 79.99 USD
-prodname: 'LEGO Harry Potter Hogwarts Express 75955 Toy Train Building Set includes Model Train and Harry Potter Minifigures Hermione Granger and Ron Weasley  801 Pieces '
+prodname: 'LEGO Harry Potter Hogwarts Express 75955 Toy Train Building Set Includes Model Train and Harry Potter Minifigures Hermione Granger and Ron Weasley  801 Pieces '
 country: 'com'
 flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07D493RWR/?tag=tolees-20'
 descuento: '20.00'
-average: '69.2161111111111'
+average: '68.9410526315789'
 ---
 
-There's a deal [LEGO Harry Potter Hogwarts Express 75955 Toy Train Building Set includes Model Train and Harry Potter Minifigures Hermione Granger and Ron Weasley  801 Pieces ](https://www.amazon.com/dp/B07D493RWR/?tag=tolees-20)  with  20.00 % discount, final price tag of  63.99 USD (original: 79.99 USD) here:
+There's a deal [LEGO Harry Potter Hogwarts Express 75955 Toy Train Building Set Includes Model Train and Harry Potter Minifigures Hermione Granger and Ron Weasley  801 Pieces ](https://www.amazon.com/dp/B07D493RWR/?tag=tolees-20)  with  20.00 % discount, final price tag of  63.99 USD (original: 79.99 USD) here:
 
 [![LEGO Harry Potter Hogwarts Express 75955](https://m.media-amazon.com/images/I/61ffWgkKqEL._SL400_.jpg)](https://www.amazon.com/dp/B07D493RWR/?tag=tolees-20)
 
