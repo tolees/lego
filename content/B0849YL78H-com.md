@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.31 % for LEGO Jurassic World: Legend of Isla Nubl'
-date: 2020-04-16 16:52:06
+date: 2021-04-04 20:05:19
 image: 'https://m.media-amazon.com/images/I/51qwrq7KvvL._SL400_.jpg'
 comments: true
 category: ofertas

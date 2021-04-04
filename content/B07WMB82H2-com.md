@@ -28,10 +28,10 @@ With a final price of 10.39 USD (original: 12.99 USD) you can find [LEGO Technic
 
 ℹ️:
 
-- This LEGO Technic building toy sparks imagination, offers endless build-and-play fun, and is a creativity-filled holiday, birthday or anyday gift for kids ages 7+ who like building challenges, tractors and farm equipment toys
-- Working steering and a rotary cutter driven by the wheels gives kids a great introduction to engineering and lets them create their own small tractor adventures
-- Measuring over 5” (14cm) long, 2” (7cm) high, and 3” (8cm) wide, this small tractor toy is the ideal size for role-play adventures, and looks super on display with other toy farm equipment
-- There’s plenty for kids to discover with this LEGO Technic Mini CLAAS XERION tractor
 - Kids can build the Mini CLAAS XERION tractor to tackle jobs around the farm, then rebuild the model into a cool Harvester, so the play lasts even longer
+- Working steering and a rotary cutter driven by the wheels gives kids a great introduction to engineering and lets them create their own small tractor adventures
+- There’s plenty for kids to discover with this LEGO Technic Mini CLAAS XERION tractor
+- This LEGO Technic building toy sparks imagination, offers endless build-and-play fun, and is a creativity-filled holiday, birthday or anyday gift for kids ages 7+ who like building challenges, tractors and farm equipment toys
+- Measuring over 5” (14cm) long, 2” (7cm) high, and 3” (8cm) wide, this small tractor toy is the ideal size for role-play adventures, and looks super on display with other toy farm equipment
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WMB82H2/?tag=tolees-20)
