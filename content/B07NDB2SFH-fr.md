@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 18.18 % for LEGO 75255 Star Wars Yoda   Jeu de Const'
-date: 2021-04-03 03:21:50
+date: 2021-04-04 11:01:01
 image: 'https://m.media-amazon.com/images/I/513uZBQxmvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21'
 descuento: '18.18'
-average: '90.8222745098034'
+average: '90.8157976653691'
 ---
 
 You've got [LEGO 75255 Star Wars Yoda   Jeu de Construction](https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21) with a  18.18 % discount, with final price of 89.99 EUR (original: 109.99 EUR) at the following link:
@@ -29,8 +29,8 @@ You've got [LEGO 75255 Star Wars Yoda   Jeu de Construction](https://www.amazon
 ℹ️:
 
 - Ce modèle à collectionner inspiré de Star Wars : LAttaque des clones constitue un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour toute occasion.
+- Deux personnages Yoda LEGO Star Wars à collectionner dans un même set !
 - Comprend de nombreux détails : une tête et des sourcils mobiles, des doigts et des orteils articulés, le sabre laser vert de Yoda, ainsi qu’une plaque descriptive avec des informations sur le Maître Jedi et un présentoir pour la figurine de Yoda incluse.
 - Le personnage de Yoda LEGO Star Wars avec son sabre laser mesure plus de 41 cm de haut.
-- Deux personnages Yoda LEGO Star Wars à collectionner dans un même set !
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21)

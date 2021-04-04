@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60228 City Deep Space Rocket and La at 20.00 % discount'
-date: 2021-04-03 03:27:51
+date: 2021-04-04 11:36:07
 image: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=tolees0a-21'
 descuento: '20.00'
-average: '74.7281733746131'
+average: '74.7113230769232'
 ---
 
 With a final price of 71.99 GBP (original: 89.99 GBP) you can find [LEGO 60228 City Deep Space Rocket and Launch Control Building Set  Space Toys for Kids inspired by NASA with Astronauts  Scientists and Robot Minifigures](https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=tolees0a-21) with a  20.00 % discount here:
