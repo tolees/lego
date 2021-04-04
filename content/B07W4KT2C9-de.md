@@ -28,12 +28,12 @@ With a final price of 50.92 EUR (original: 59.99 EUR) you can find [Lego Archite
 
 ℹ️:
 
-- Der Burj Khalifa, das Jumeirah Emirates Towers Hotel, das Burj Al Arab Jumeirah Hotel, der Dubai Frame und die Dubai Fountain sind in diesem Architektur-Modellbausatz enthalten. Das Set ist ein bezauberndes Souvenir für alle, die Dubai mögen.
-- Dieses batterielose Bauspielzeug für Erwachsene bietet ein ebenso entspannendes wie fesselndes Bauerlebnis, das jeden Stress vergessen lässt. Beim Bauen dieses faszinierenden Architektur-Modells lässt sich wunderbar entspannen!
-- Enthält eine Grundplatte mit dem Namensschild ,Dubai‘, um das Modell präsentieren zu können. Wissenswertes über Dubai und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO.com/architecture kann das Heft auch in anderen Sprachen heruntergeladen werden.
-- Dieses spektakuläre LEGO Architecture Bauset für Erwachsene vereint detailreiche Modelle berühmter Gebäude und Wahrzeichen aus Dubai, um die Bewunderer dieser faszinierenden modernen Stadt zu inspirieren.
-- Durch die gedruckte Bauanleitung ist dieses Set sowohl für Einsteiger als auch forgeschrittene Baumeister geeignet.
 - Dieses einfach zu bauende Bauset eignet sich auch für LEGO Architekten, die zum ersten Mal mit LEGO Steinen kreativ werden. Ein cooles Geschenk für Baumeister ab 16 Jahren, die in Dubai leben oder gewohnt haben, dort Urlaub gemacht haben oder davon träumen, eines Tages in diese Stadt zu reisen.
 - Das kompakte Skyline-Modell von Dubai ist 33 cm hoch, 27 cm breit und 7 cm tief. Es beansprucht folglich nur wenig Platz, macht aber gewaltigen Eindruck, wo auch immer es präsentiert wird!
+- Enthält eine Grundplatte mit dem Namensschild ,Dubai‘, um das Modell präsentieren zu können. Wissenswertes über Dubai und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO.com/architecture kann das Heft auch in anderen Sprachen heruntergeladen werden.
+- Der Burj Khalifa, das Jumeirah Emirates Towers Hotel, das Burj Al Arab Jumeirah Hotel, der Dubai Frame und die Dubai Fountain sind in diesem Architektur-Modellbausatz enthalten. Das Set ist ein bezauberndes Souvenir für alle, die Dubai mögen.
+- Durch die gedruckte Bauanleitung ist dieses Set sowohl für Einsteiger als auch forgeschrittene Baumeister geeignet.
+- Dieses batterielose Bauspielzeug für Erwachsene bietet ein ebenso entspannendes wie fesselndes Bauerlebnis, das jeden Stress vergessen lässt. Beim Bauen dieses faszinierenden Architektur-Modells lässt sich wunderbar entspannen!
+- Dieses spektakuläre LEGO Architecture Bauset für Erwachsene vereint detailreiche Modelle berühmter Gebäude und Wahrzeichen aus Dubai, um die Bewunderer dieser faszinierenden modernen Stadt zu inspirieren.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W4KT2C9/?tag=tolees0ca-21)
