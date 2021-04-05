@@ -29,9 +29,9 @@ You've got [LEGO - Constructions  Multicolores  21318](https://www.amazon.fr/dp/
 ℹ️:
 
 - Feuilles interchangeables : vert en été et jaune en automne
-- Le sommet des arbres et les toits des abris sont amovibles pour un accès et un jeu faciles.
-- Cet ensemble LEGO Ideas comprend 4 figurines : maman, papa et 2 enfants, plus un oiseau.
 - Maison sur larbre LEGO avec 3 cabines : chambre principale, salle de bain et chambre denfant.
+- Cet ensemble LEGO Ideas comprend 4 figurines : maman, papa et 2 enfants, plus un oiseau.
+- Le sommet des arbres et les toits des abris sont amovibles pour un accès et un jeu faciles.
 - Ce jeu de 3 036 pièces comprend une base de paysage, un arbre avec feuilles interchangeables
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B07XGDYG2H/?tag=tolees0d-21)
