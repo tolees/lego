@@ -28,9 +28,9 @@ You've got [LEGO 76125 Super Heroes Marvel Avengers Iron Man Hall of A
 
 ℹ️:
 
+- Includes a desk, kitchen, weapon storage, tool storage and Iron Man suit storage modules, a radar dish and more
 - Igor Suit mech features an opening minifigure cockpit and posable arms and legs
 - An Iron Man lab with detachable modules and a rotating podium with 2 posable robotic arms for Tony Stark to get suited up as Iron Man
-- Includes a desk, kitchen, weapon storage, tool storage and Iron Man suit storage modules, a radar dish and more
 - Includes 6 minifigures: Iron Man MK 1, Iron Man MK 5, Iron Man MK 41 and Iron Man MK 50 and 2 Outriders.
 - Recreate exciting action from the Marvel Avengers movies with this cool LEGO building set for kids
 
