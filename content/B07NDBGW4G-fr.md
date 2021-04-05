@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.78 % deal for LEGO Technic Set de Construction la Pell'
-date: 2021-04-04 02:32:01
+date: 2021-04-05 03:58:54
 image: 'https://m.media-amazon.com/images/I/516ASeai0xL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDBGW4G/?tag=tolees0d-21'
 descuento: '27.78'
-average: '364.31632352941'
+average: '364.172271062269'
 ---
 
 There's a deal [LEGO Technic Set de Construction la Pelleteuse Liebherr R 9800  42100  4108 Pièces](https://www.amazon.fr/dp/B07NDBGW4G/?tag=tolees0d-21)  with  27.78 % discount, final price tag of  324.99 EUR (original: 449.99 EUR) here:
@@ -28,12 +28,12 @@ There's a deal [LEGO Technic Set de Construction la Pelleteuse Liebherr R 9800  
 
 ℹ️:
 
-- Ce modèle de pelleteuse peut être commandé avec lapplication LEGO TECHNIC CONTROL+, pour une expérience de jeu des plus immersive et réaliste
-- Commande multifonction : avancer, reculer, tourner, faire pivoter la superstructure, étendre, élever et abaisser le bras, ouvrir et incliner le godet, et consulter en temps réel des informations telles que la position du bras et de la superstructure, la consommation dénergie et la distance parcourue
-- Défis et victoires : relever des défis permet de gagner des récompenses
 - La pelleteuse Liebherr R 9800 LEGO Technic peut être contrôlée via un smartphone ou une tablette, avec 4 écrans différents Pour obtenir la liste des dispositifs compatibles : LEGOcom/devicecheck
 - Commande par touche unique : faire glisser le doigt sur lécran en suivant lun des motifs permet de faire bouger le bras selon la commande
 - Mouvements personnalisés : lutilisateur peut utiliser des commandes prédéfinies ou enregistrer les actions du modèle pour créer des séquences complexes de mouvements
 - Une réplique de la pelleteuse Liebherr R 9800 avec des détails et des fonctions réalistes, complétée par des coloris authentiques agrémentés dautocollants
+- Ce modèle de pelleteuse peut être commandé avec lapplication LEGO TECHNIC CONTROL+, pour une expérience de jeu des plus immersive et réaliste
+- Défis et victoires : relever des défis permet de gagner des récompenses
+- Commande multifonction : avancer, reculer, tourner, faire pivoter la superstructure, étendre, élever et abaisser le bras, ouvrir et incliner le godet, et consulter en temps réel des informations telles que la position du bras et de la superstructure, la consommation dénergie et la distance parcourue
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07NDBGW4G/?tag=tolees0d-21)
