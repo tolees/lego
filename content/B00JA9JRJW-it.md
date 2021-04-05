@@ -28,7 +28,7 @@ You've got [Warner Bros. Interactive Entertainment - The Lego Movie + Vitruvius 
 
 ℹ️:
 
-- Elettronica
 - Warner Home Video
+- Elettronica
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B00JA9JRJW/?tag=tolees00-21)

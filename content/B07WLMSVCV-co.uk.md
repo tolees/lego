@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'City Great Vehicles LEGO 60254 Race Boat at 19.97 % discount'
-date: 2021-04-03 06:10:55
+date: 2021-04-05 08:14:57
 image: 'https://m.media-amazon.com/images/I/513d96iobbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'City Great Vehicles'
 buyurl: 'https://www.amazon.co.uk/dp/B07WLMSVCV/?tag=tolees0a-21'
 descuento: '19.97'
-average: '20.1150000000001'
+average: '20.111891891892'
 ---
 
 With a final price of 20.0 GBP (original: 24.99 GBP) you can find [City Great Vehicles LEGO 60254 Race Boat Transporter Truck Toy with Trailer and Speedboat  Floating Bath Toy for Kids 5 - 7 Year Old](https://www.amazon.co.uk/dp/B07WLMSVCV/?tag=tolees0a-21) with a  19.97 % discount here:
