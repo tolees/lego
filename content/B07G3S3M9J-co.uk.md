@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Hogwarts Castle  at 22.36 % discount'
-date: 2021-04-04 11:16:00
+date: 2021-04-05 15:32:52
 image: 'https://m.media-amazon.com/images/I/51EqLQG0MKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07G3S3M9J/?tag=tolees0a-21'
 descuento: '22.36'
-average: '75.7113897280969'
+average: '75.6821084337352'
 ---
 
 With a final price of 65.99 GBP (original: 84.99 GBP) you can find [LEGO 75948 Harry Potter Hogwarts Castle Clock Tower Toy  Compatible with Great Hall and Whomping Willow Sets](https://www.amazon.co.uk/dp/B07G3S3M9J/?tag=tolees0a-21) with a  22.36 % discount here:
