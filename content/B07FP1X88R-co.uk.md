@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Discount of 29.35 % for LEGO 11002 Classic Basic Brick Set Const'
-date: 2021-03-21 21:42:56
+title: 'Discount of 30.52 % for LEGO Classic - LEGO 11002 Classic Basic '
+date: 2021-04-06 20:52:35
 image: 'https://m.media-amazon.com/images/I/51lyF7eYNsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07FP1X88R-co.uk LEGO 11002 Classic Basic Brick Set Construction Toy'
+slug: 'B07FP1X88R-co.uk LEGO Classic - LEGO 11002 Classic Basic Brick Set...'
 sku: 'B07FP1X88R-co.uk'
-tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego', ]
-actualPrice: 12.71 GBP
+tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego','lego classic', ]
+actualPrice: 12.5 GBP
 currency: GBP
-price: 12.71
+price: 12.5
 comparePrice: 17.99 GBP
-prodname: 'LEGO 11002 Classic Basic Brick Set Construction Toy'
+prodname: 'LEGO Classic - LEGO 11002 Classic Basic Brick Set Construction Toy'
 country: 'co.uk'
 flag: '🇬🇧'
-brand: 'LEGO'
+brand: 'LEGO Classic'
 buyurl: 'https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21'
-descuento: '29.35'
-average: '13.7646153846154'
+descuento: '30.52'
+average: '13.6742857142857'
 ---
 
-You've got [LEGO 11002 Classic Basic Brick Set Construction Toy](https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21) with a  29.35 % discount, with final price of 12.71 GBP (original: 17.99 GBP) at the following link:
+You've got [LEGO Classic - LEGO 11002 Classic Basic Brick Set Construction Toy](https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21) with a  30.52 % discount, with final price of 12.5 GBP (original: 17.99 GBP) at the following link:
 
-[![LEGO 11002 Classic Basic Brick Set Const](https://m.media-amazon.com/images/I/51lyF7eYNsL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21)
+[![LEGO Classic - LEGO 11002 Classic Basic ](https://m.media-amazon.com/images/I/51lyF7eYNsL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21)
 
 ℹ️:
 
-- Discover timeless adventures with this LEGO Classic Basic Brick Set, including a selection of colourful LEGO bricks, plus wheels and eyes
-- The LEGO Classic Basic Brick Set 11002 can be built together with all other original LEGO sets and LEGO bricks for creative building
-- Build kids’ toys with a hint of nostalgia and enjoy creative fun with a LEGO dinosaur, knight on horseback, monster truck, bird in a birdhouse, a cute dog, toy airplane or whatever you can imagine
-- 300 pieces – for boys and girls aged 4+ and for fans and kids of all ages
+- Includes age-appropriate instructions to help children discover their creative building skills.
+- Discover timeless creative fun with this charming LEGO Classic 11002 Basic Brick Set.
+- Choose from a selection of bright and colourful LEGO bricks, wheels and eyes to create a wide variety of iconic LEGO models
+- This building set offers 3 levels of complexity and makes an excellentstarter kit for budding LEGO builders.
+- Visit LEGO.com/classic for additional building instructions, fun videos, ideas and inspiration.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21)
