@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'City Oceans - LEGO 60266 City Oceans Exp at 35.99 % discount'
-date: 2021-04-05 09:14:57
+date: 2021-04-06 14:49:24
 image: 'https://m.media-amazon.com/images/I/51q89OcubML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'City Oceans'
 buyurl: 'https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21'
 descuento: '35.99'
-average: '108.180668896324'
+average: '108.086733333336'
 ---
 
 With a final price of 80.0 GBP (original: 124.99 GBP) you can find [City Oceans - LEGO 60266 City Oceans Exploration Ship Floating Toy Boat  Deep Sea Underwater Set  Diving Adventure for Kids](https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21) with a  35.99 % discount here:
@@ -28,10 +28,10 @@ With a final price of 80.0 GBP (original: 124.99 GBP) you can find [City Oceans 
 
 ℹ️:
 
-- Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
-- Toy ship that really floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm and storage
-- This multi-vehicle toy also includes a research submarine, helicopter, speedboat, shark cage and pirate shipwreck with hidden treasure
 - Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
+- Toy ship that really floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm and storage
 - Includes a team of 8 explorers with LEGO City Adventures TV series hero Harl Hubbs minifigure, shark and stingray figures, plus accessories
+- This multi-vehicle toy also includes a research submarine, helicopter, speedboat, shark cage and pirate shipwreck with hidden treasure
+- Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21)
