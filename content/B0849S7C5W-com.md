@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.01 % for LEGO BrickHeadz Star Wars The Mandaloria'
-date: 2021-04-04 09:19:30
+date: 2021-04-06 02:19:41
 image: 'https://m.media-amazon.com/images/I/51lxC6y5zUL._SL400_.jpg'
 comments: true
 category: ofertas
