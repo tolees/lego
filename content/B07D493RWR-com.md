@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO Harry Potter Hogwarts Express 75955'
-date: 2021-04-04 09:18:07
+date: 2021-04-06 08:10:36
 image: 'https://m.media-amazon.com/images/I/61ffWgkKqEL._SL400_.jpg'
 comments: true
 category: ofertas

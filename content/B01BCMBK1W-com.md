@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.63 % deal for LEGO Star Wars: Force Awakens Deluxe Edi'
-date: 2020-04-17 00:23:40
+date: 2021-04-06 08:05:07
 image: 'https://m.media-amazon.com/images/I/51sPEknBb3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,5 +28,8 @@ There's a deal [LEGO Star Wars: Force Awakens Deluxe Edition - PlayStation 4](ht
 
 ℹ️:
 
+- LEGO Star Wars: The Force Awakens
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- The Force is strong with this one. Get the Deluxe Edition now and gain access to the main game, season pass content, and an exclusive Finn (FN-2187)TM MinFig.
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B01BCMBK1W/?tag=tolees-20)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Nissan GT-R NISMO 7 at 20.01 % discount'
-date: 2021-04-04 09:23:28
+date: 2021-04-06 08:13:51
 image: 'https://m.media-amazon.com/images/I/51Ih2n+FmAL._SL400_.jpg'
 comments: true
 category: ofertas
