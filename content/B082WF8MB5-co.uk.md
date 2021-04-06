@@ -28,9 +28,9 @@ There's a deal [LEGO 71367 Super Mario House & Yoshi Expansion Set Buil
 
 ℹ️:
 
-- Digital building instructions, zooming tools, tips for creative play and sharing options can be found in the free downloadable LEGO app
 - Rock LEGO Mario figure to sleep on the hammock, make him talk by placing him on his friend Yoshi’s tag and defeat the Goomba to win coins
 - Features a buildable house with an opening door and roof and a Super Star Block underneath, and a hammock to rock Mario figure (not included)
+- Digital building instructions, zooming tools, tips for creative play and sharing options can be found in the free downloadable LEGO app
 - The Starter Course, Expansion Sets and Power-Up Packs let fans construct their own unique enhanced levels for unlimited creative fun
 - Expand levels with this extension to the Adventures with Mario Starter Course set (sold separately) to play solo or compete with friends
 

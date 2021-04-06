@@ -28,12 +28,12 @@ There's a deal [Lego Ninjago - Lego 71710 NINJAGO Ninja-Tuning-Fahrzeug mit�
 
 ℹ️:
 
-- Starkes LEGO NINJAGO Ninja-Tuning-Fahrzeug, das sich in einen Spielzeug-Flieger verwandeln lässt. Ein tolles Geburtstagsgeschenk für Kinder, die gerne NINJAGO Autos bauen und es lieben, sich eigene Rollenspiele mit ihren geliebten Ninja-Helden auszudenken.
-- Dieser LEGO NINJAGO Flitzer ist das perfekte Spielzeug für zu Hause und unterwegs. Das Ninja-Tuning-Fahrzeug ist 6 cm hoch, 33 cm lang und 11 cm breit.
-- Dieses Bauset enthält ein Ninja-Tuning-Fahrzeug und 4 Minifiguren: die NINJAGO Helden Digi Kai und Scott sowie zwei Rot Visiere. Kleine Kinder werden gerne der echten Welt entfliehen und Actionszenen mit diesem Flitzer nachstellen, um sich ein Key-Tana zu holen.
-- Dieses fantastische Kinderspielzeug eröffnet kleinen Baumeistern viele Möglichkeiten, denn sie können dem Ninja-Tuning-Fahrzeug auch Flügel spendieren und es in einen Flieger verwandeln. Die 4 Baufiguren sind mit neuen Display-Tafeln ausgestattet, die ihre verbliebenen Leben anzeigen.
 - Das perfekte LEGO Geschenk für junge Baumeister. Den Steinen und Baufiguren liegen einfache Bauanleitungen bei, um den LEGO Flitzer schnell startklar zu machen.
 - Dieses 419-teilige Ninja-Spielset bietet Jungen und Mädchen ab 8 Jahren ein lohnendes Bauerlebnis und ist zudem ein tolles Geburtstagsgeschenk. Das Spielset ist ab Januar 2020 erhältlich und wird Mini-Ninja garantiert viele Stunden intensiv beschäftigen und ihnen jede Menge Rennspaß bieten.
+- Dieses fantastische Kinderspielzeug eröffnet kleinen Baumeistern viele Möglichkeiten, denn sie können dem Ninja-Tuning-Fahrzeug auch Flügel spendieren und es in einen Flieger verwandeln. Die 4 Baufiguren sind mit neuen Display-Tafeln ausgestattet, die ihre verbliebenen Leben anzeigen.
+- Starkes LEGO NINJAGO Ninja-Tuning-Fahrzeug, das sich in einen Spielzeug-Flieger verwandeln lässt. Ein tolles Geburtstagsgeschenk für Kinder, die gerne NINJAGO Autos bauen und es lieben, sich eigene Rollenspiele mit ihren geliebten Ninja-Helden auszudenken.
+- Dieser LEGO NINJAGO Flitzer ist das perfekte Spielzeug für zu Hause und unterwegs. Das Ninja-Tuning-Fahrzeug ist 6 cm hoch, 33 cm lang und 11 cm breit.
 - Für dieses Spielset werden keine Batterien benötigt. Sobald das Auto gebaut ist, steht spannendem Spielspaß in der NINJAGO Fantasiewelt nichts mehr im Weg – und zwar ohne einen Tankstopp.
+- Dieses Bauset enthält ein Ninja-Tuning-Fahrzeug und 4 Minifiguren: die NINJAGO Helden Digi Kai und Scott sowie zwei Rot Visiere. Kleine Kinder werden gerne der echten Welt entfliehen und Actionszenen mit diesem Flitzer nachstellen, um sich ein Key-Tana zu holen.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21)

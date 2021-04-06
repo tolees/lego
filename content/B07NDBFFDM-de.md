@@ -28,10 +28,10 @@ With a final price of 21.84 EUR (original: 29.99 EUR) you can find [LEGO 41166 D
 
 ℹ️:
 
-- Mit dem speziellen Startbaustein können kleine Baumeister einfach eine Kutsche für Elsa und das Rentier bauen und darin aufregende Abenteuer mit den Figuren aus Disneys -Die Eiskönigin 2- nachspielen
-- Das Disney Bauset für Einsteiger unterstützt die Entwicklung der Feinmotorik und enthält eine Spielfigur von Elsa sowie zwei LEGO Tierfiguren (Sven und ein Rentierbaby) für tollen Rollenspielspaß
-- Die leicht verständliche Bauanleitung des Spielsets für Mädchen und Jungen hilft Kindern dabei, die Bauschritte zu verstehen, sodass ihnen der ideale Einstieg in die Welt des Bauens mit LEGO Steinen gelingt
 - Die Kutsche mit Sven ist 7 cm hoch, 21 cm lang und 12 cm breit. Der Stall ist 6 cm hoch, 8 cm breit und 6 cm tief
+- Die leicht verständliche Bauanleitung des Spielsets für Mädchen und Jungen hilft Kindern dabei, die Bauschritte zu verstehen, sodass ihnen der ideale Einstieg in die Welt des Bauens mit LEGO Steinen gelingt
+- Das Disney Bauset für Einsteiger unterstützt die Entwicklung der Feinmotorik und enthält eine Spielfigur von Elsa sowie zwei LEGO Tierfiguren (Sven und ein Rentierbaby) für tollen Rollenspielspaß
 - 116 Teile – ein tolles Weihnachtsgeschenk für Jungen und Mädchen ab 4 Jahren und für Fans und Kinder jeden Alters
+- Mit dem speziellen Startbaustein können kleine Baumeister einfach eine Kutsche für Elsa und das Rentier bauen und darin aufregende Abenteuer mit den Figuren aus Disneys -Die Eiskönigin 2- nachspielen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21)

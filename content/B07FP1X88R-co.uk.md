@@ -29,9 +29,9 @@ You've got [LEGO Classic - LEGO 11002 Classic Basic Brick Set Construction
 ℹ️:
 
 - Includes age-appropriate instructions to help children discover their creative building skills.
-- Discover timeless creative fun with this charming LEGO Classic 11002 Basic Brick Set.
 - Choose from a selection of bright and colourful LEGO bricks, wheels and eyes to create a wide variety of iconic LEGO models
 - This building set offers 3 levels of complexity and makes an excellentstarter kit for budding LEGO builders.
+- Discover timeless creative fun with this charming LEGO Classic 11002 Basic Brick Set.
 - Visit LEGO.com/classic for additional building instructions, fun videos, ideas and inspiration.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FP1X88R/?tag=tolees0a-21)
