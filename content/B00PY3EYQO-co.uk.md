@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.11 % for LEGO UK - LEGO 10698 Classic Large Creat'
-date: 2021-04-05 13:45:34
+date: 2021-04-07 02:52:41
 image: 'https://m.media-amazon.com/images/I/51nuW3OQfvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO UK'
 buyurl: 'https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=tolees0a-21'
 descuento: '25.11'
-average: '32.8972571428572'
+average: '32.8805113636364'
 ---
 
 You've got [LEGO UK - LEGO 10698 Classic Large Creative Brick Box Construction Set  Toy Storage  Fun Colourful Toy Bricks for LEGO Masters](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=tolees0a-21) with a  25.11 % discount, with final price of 29.95 GBP (original: 39.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO UK - LEGO 10698 Classic Large Creative Brick Box Constru
 
 ℹ️:
 
-- Large number of windows and doors facilitates classic LEGO construction and is designed to inspire open-ended creativity with the LEGO brick
 - Ideas included with the set and online at LEGO.com/classic to help you get started.
+- Large number of windows and doors facilitates classic LEGO construction and is designed to inspire open-ended creativity with the LEGO brick
 - Includes a wide range of LEGO bricks in 33 different colors, 8 different types of windows and doors with 8 different frames.
-- Comes in a useful plastic storage box; all models pictured can be built from this set simultaneously.
 - Special pieces include 2 different sized green baseplates, 3 sets of eyes, 6 tires and 6 wheel rims, encouraging imaginative building play.
+- Comes in a useful plastic storage box; all models pictured can be built from this set simultaneously.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=tolees0a-21)

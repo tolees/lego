@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.55 % deal for LEGO 42105 Technic Catamaran to Race Pow'
-date: 2021-04-05 13:55:26
+date: 2021-04-07 02:20:50
 image: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Technic'
 buyurl: 'https://www.amazon.co.uk/dp/B081F8KXHD/?tag=tolees0a-21'
 descuento: '28.55'
-average: '30.5600966183575'
+average: '30.5333653846154'
 ---
 
 There's a deal [LEGO 42105 Technic Catamaran to Race Power Boat 2in1 Floating Model Toy](https://www.amazon.co.uk/dp/B081F8KXHD/?tag=tolees0a-21)  with  28.55 % discount, final price tag of  25.0 GBP (original: 34.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42105 Technic Catamaran to Race Power Boat 2in1 Fl
 
 ℹ️:
 
+- At over 12 Inch (32 cm) long, 8 Inch (22 cm) wide and 17 Inch (44 cm) high, this awesome model sailboat is made for easy handling in the bathtub.
+- Ideal for developing engineering skills, these fantastic floating models feature a green-blue-orange colour scheme for an impressive display.
 - Features 2in1 Catamaran model toy which really floats on water! It rebuilds into a cool power speed boat toy, inspired by real race boats.
 - Fans can angle the sails for a racing position, raise and lower the 2 daggerboards to maximise stability, then use the rudder to steer.
-- Ideal for developing engineering skills, these fantastic floating models feature a green-blue-orange colour scheme for an impressive display.
 - For the first time ever both models float on water - check this classic 2-hull catamaran design, working sails, daggerboards and rudder!
-- At over 12 Inch (32 cm) long, 8 Inch (22 cm) wide and 17 Inch (44 cm) high, this awesome model sailboat is made for easy handling in the bathtub.
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B081F8KXHD/?tag=tolees0a-21)

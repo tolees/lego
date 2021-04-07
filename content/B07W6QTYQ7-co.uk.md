@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.98 % deal for LEGO 42106 Technic Stunt Show Truck & Bi'
-date: 2021-04-06 01:40:58
+date: 2021-04-07 02:51:33
 image: 'https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=tolees0a-21'
 descuento: '17.98'
-average: '38.127292576419'
+average: '38.1219565217389'
 ---
 
 There's a deal [LEGO 42106 Technic Stunt Show Truck & Bike Toys Set  2in1 Model with Pull-Back Motor and Trailer](https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=tolees0a-21)  with  17.98 % discount, final price tag of  36.9 GBP (original: 44.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42106 Technic Stunt Show Truck & Bike Toys Set  2
 
 ℹ️:
 
-- Wide tyres keep vehicles on track and red-blue-black colour scheme plus stickers and flames recreate the thrills of a daring motorcycle show
-- The trailer cleverly transforms into a ramp to propel the motorbike towards the ring of fire, then rebuilds back to go to the next event
 - 2in1 set features a truck with trailer and stunt motorcycle, both with pull-back motor, that rebuilds into a monster truck and a stunt ramp
+- Wide tyres keep vehicles on track and red-blue-black colour scheme plus stickers and flames recreate the thrills of a daring motorcycle show
 - When all the elements are combined, this makes an ideal size for role-playing so the fun goes on long after the super-fun model toy is built
+- The trailer cleverly transforms into a ramp to propel the motorbike towards the ring of fire, then rebuilds back to go to the next event
 - The truck toy features top steering, opening doors and cool stickers, and the motorbike has chunky tyres and even more sticker details
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W6QTYQ7/?tag=tolees0a-21)

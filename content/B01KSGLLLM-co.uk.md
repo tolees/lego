@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 40220 Blocks at 43.10 % discount'
-date: 2021-04-05 08:02:12
+date: 2021-04-07 01:52:55
 image: 'https://m.media-amazon.com/images/I/410yRSRwXfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B01KSGLLLM/?tag=tolees0a-21'
 descuento: '43.10'
-average: '14.412'
+average: '14.0009090909091'
 ---
 
 With a final price of 9.89 GBP (original: 17.38 GBP) you can find [LEGO 40220 Blocks](https://www.amazon.co.uk/dp/B01KSGLLLM/?tag=tolees0a-21) with a  43.10 % discount here:
@@ -28,9 +28,9 @@ With a final price of 9.89 GBP (original: 17.38 GBP) you can find [LEGO 40220 Bl
 
 ℹ️:
 
-- Only available for purchase from the Leicester Square Lego store
-- The LEGO Creator London Bus V29 40220 celebrates iconic design and helps to build and fuel young imaginations.
-- Stickers for number plates, route number, destination and advertising banners
 - Bus with turning wheels and transparent window and light elements
+- The LEGO Creator London Bus V29 40220 celebrates iconic design and helps to build and fuel young imaginations.
+- Only available for purchase from the Leicester Square Lego store
+- Stickers for number plates, route number, destination and advertising banners
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B01KSGLLLM/?tag=tolees0a-21)
