@@ -28,10 +28,10 @@ There's a deal [LEGO Technic Getaway Truck 42090 Building Kit  128 Pieces ](http
 
 ℹ️:
 
-- 128 pieces – For boys and girls aged 7+ and for fans and kids of all ages
 - This LEGO Technic Getaway Truck 42090 set can be built together with all other original LEGO sets and LEGO bricks for creative building
-- Build a super-rugged Getaway Truck with a powerful pull-back motor, huge chunky tires, heavy-duty front bumper and an awesome color scheme with flame stickers for a distinct bad-guy look!
+- 128 pieces – For boys and girls aged 7+ and for fans and kids of all ages
 - Combine this monster truck model with the 42091 Police Pursuit pull-back for action-packed car chases, or to create the Ultimate 4x4 combi model
 - Measures over 2-inch (7cm) high, 7-inch (18cm) long and 3-inch (10cm) wide Combi model measures over 3-inch (10cm) high, 9-inch (23cm) long and 3-inch (10cm) wide
+- Build a super-rugged Getaway Truck with a powerful pull-back motor, huge chunky tires, heavy-duty front bumper and an awesome color scheme with flame stickers for a distinct bad-guy look!
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07GZ9H4WM/?tag=tolees-20)

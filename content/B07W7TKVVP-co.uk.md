@@ -28,10 +28,10 @@ There's a deal [LEGO 76896 Speed Champions Nissan GT-R NISMO Racer Toy �
 
 ℹ️:
 
-- This brilliantly detailed replica is based on the world record-breaking drift car that has been loved by car enthusiasts for 50 years
-- Includes 1 LEGO collectible minifigure in a Nissan racing suit
-- The Nissan GT-R NISMO holds the record for the fastest drift - now, kids can take their place on the start line and race to victory!
 - New for January 2020, LEGO Speed Champions replicas are now 25% bigger and more realistic than ever
+- This brilliantly detailed replica is based on the world record-breaking drift car that has been loved by car enthusiasts for 50 years
+- The Nissan GT-R NISMO holds the record for the fastest drift - now, kids can take their place on the start line and race to victory!
+- Includes 1 LEGO collectible minifigure in a Nissan racing suit
 - Car fans can construct mini versions of some of the world’s most famous cars with LEGO Speed Champions building sets for kids
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TKVVP/?tag=tolees0a-21)

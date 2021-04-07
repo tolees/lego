@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic 42095 - Le Bolide télécomma at 22.50 % discount'
-date: 2021-04-05 14:48:10
+date: 2021-04-07 04:16:59
 image: 'https://m.media-amazon.com/images/I/51PPXrkFnwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FNMXFQF/?tag=tolees0d-21'
 descuento: '22.50'
-average: '71.5610256410257'
+average: '71.5202978723405'
 ---
 
 With a final price of 61.99 EUR (original: 79.99 EUR) you can find [LEGO Technic 42095 - Le Bolide télécommandé](https://www.amazon.fr/dp/B07FNMXFQF/?tag=tolees0d-21) with a  22.50 % discount here:
