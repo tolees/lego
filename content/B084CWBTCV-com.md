@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 60.03 % for Lego Speed Champions 30342'
-date: 2021-04-06 02:25:02
+date: 2021-04-07 14:22:37
 image: 'https://m.media-amazon.com/images/I/41GVQIXzmPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ You've got [Lego Speed Champions 30342](https://www.amazon.com/dp/B084CWBTCV/?ta
 
 ℹ️:
 
-- LEGO Speed Champions Polybag Set
 - Lamborghini Huracan Super Trofeo EVO
 - Small collectable item, not necessarily suitable as a childs gift
 - Contains 70 pieces including Pull-back motor
+- LEGO Speed Champions Polybag Set
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B084CWBTCV/?tag=tolees-20)
