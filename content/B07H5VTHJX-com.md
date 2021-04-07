@@ -28,8 +28,8 @@ You've got [WB Games - LEGO Harry Potter: Collection - Nintendo Switch](https://
 
 ℹ️:
 
-- Spell pack DLC included on disc featuring 5 spells cantos, densaugeo, ducklifors, malodors and tentaclifors
-- 2 top selling video games remastered in 1 package
 - Take an interactive journey through a myriad of iconic locations from the beloved films with signature LEGO humor and charm
+- 2 top selling video games remastered in 1 package
+- Spell pack DLC included on disc featuring 5 spells cantos, densaugeo, ducklifors, malodors and tentaclifors
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07H5VTHJX/?tag=tolees-20)
