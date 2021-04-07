@@ -28,9 +28,9 @@ With a final price of 9.89 GBP (original: 17.38 GBP) you can find [LEGO 40220 Bl
 
 ℹ️:
 
-- Bus with turning wheels and transparent window and light elements
-- The LEGO Creator London Bus V29 40220 celebrates iconic design and helps to build and fuel young imaginations.
 - Only available for purchase from the Leicester Square Lego store
+- Bus with turning wheels and transparent window and light elements
 - Stickers for number plates, route number, destination and advertising banners
+- The LEGO Creator London Bus V29 40220 celebrates iconic design and helps to build and fuel young imaginations.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B01KSGLLLM/?tag=tolees0a-21)

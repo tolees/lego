@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Formula E Panasonic at 20.01 % discount'
-date: 2021-04-06 02:13:02
+date: 2021-04-07 03:24:24
 image: 'https://m.media-amazon.com/images/I/51RbvgzBCuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 23.99 USD (original: 29.99 USD) you can find [LEGO Speed C
 
 ℹ️:
 
-- These buildable Formula E Panasonic Jaguar Racing Gen2 car and Jaguar I-PACE eTROPHY LEGO models are accompanied by 2 minifigures in racing suits and a start line with three ‘lights for staging fun racing action
-- These Jaguar toy cars are perfect for showing off on display or battling it out with other cars in your own championships races at home
-- Awesome building kit featuring 2 Jaguar replicas: Formula E and I-PACE eTROPHY Jaguar racecars with realistic details!
 - This 565-piece building kit provides boys and girls ages 8+ with a fun challenge to complete, inspiring them to create thrilling scenes with their Jaguar racing cars on their own or with friends
 - The Jaguar I-PACE eTROPHY car measures 2” (6cm) high, 6” (16cm) long and 2” (6cm) wide: new for 2020, all LEGO Speed Champions cars are now 25% bigger to include even more details from the original versions!
+- Awesome building kit featuring 2 Jaguar replicas: Formula E and I-PACE eTROPHY Jaguar racecars with realistic details!
+- These Jaguar toy cars are perfect for showing off on display or battling it out with other cars in your own championships races at home
+- These buildable Formula E Panasonic Jaguar Racing Gen2 car and Jaguar I-PACE eTROPHY LEGO models are accompanied by 2 minifigures in racing suits and a start line with three ‘lights for staging fun racing action
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WMKKW96/?tag=tolees-20)
