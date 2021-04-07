@@ -28,10 +28,10 @@ There's a deal [LEGO Minions Unstoppable Bike Chase  75549  Minions Toy Building
 
 ℹ️:
 
-- This is a great birthday present or exciting treat for a Minions fan aged 6 and up; Ideal for creative fun, its an awesome toy for kids who love building toys and Minion escapades
-- An action-packed Minions toy motorbike building set (75549), featuring Gru, Stuart and Bob toy figures; Kids can enjoy full-speed action as they role-play epic scenes from the Minions: The Rise of Gru movie
 - Role play is easy with this toy motorbike set; With 3 figures, including the exclusive Gru LEGO minifigure, only available in this set, kids will love making up their own Minion stories
-- This toy motorbike measures over 3” (10cm) high, 5” (13cm) long and 1” (5cm) wide, making it just the right size for creative play
+- This is a great birthday present or exciting treat for a Minions fan aged 6 and up; Ideal for creative fun, its an awesome toy for kids who love building toys and Minion escapades
 - There are lots of ways to play with this fun set; Gru’s on a mission and kids can help by putting the Minions on the front of the bike, pulling them along on the rocket skates, or giving them a toy banana treat
+- An action-packed Minions toy motorbike building set (75549), featuring Gru, Stuart and Bob toy figures; Kids can enjoy full-speed action as they role-play epic scenes from the Minions: The Rise of Gru movie
+- This toy motorbike measures over 3” (10cm) high, 5” (13cm) long and 1” (5cm) wide, making it just the right size for creative play
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B083JXRWQT/?tag=tolees-20)
