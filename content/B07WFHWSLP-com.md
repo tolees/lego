@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions 76895 Ferrari F8 Tr at 19.96 % discount'
-date: 2021-04-06 08:06:44
+date: 2021-04-07 08:29:01
 image: 'https://m.media-amazon.com/images/I/513+cZnd2PL._SL400_.jpg'
 comments: true
 category: ofertas
