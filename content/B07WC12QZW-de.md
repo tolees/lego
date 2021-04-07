@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75272 Star Wars Sith TIE Fighter Ba at 28.58 % discount'
-date: 2021-03-27 16:47:35
+date: 2021-04-07 09:19:05
 image: 'https://m.media-amazon.com/images/I/51KLLnT6W0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21'
 descuento: '28.58'
-average: '54.5943971631204'
+average: '54.6174825174824'
 ---
 
 With a final price of 49.99 EUR (original: 69.99 EUR) you can find [LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21) with a  28.58 % discount here:
@@ -28,12 +28,12 @@ With a final price of 49.99 EUR (original: 69.99 EUR) you can find [LEGO 75272�
 
 ℹ️:
 
-- Der TIE Fighter verfügt über ein aufklappbares Minifigur-Cockpit und 2 Raketen mit Federmechanismus. Es gibt auch einen Andockturm zum Starten, Landen und Präsentieren des Baumodells sowie 3 Minifiguren für actionreiche Rollenspiele.
 - Für dieses Bau- und Spielset werden keine Batterien benötigt. Der TIE Starfighter besteht ausschließlich aus LEGO Steinen – und als Antrieb für unzählige Star Wars Action-Abenteuer reicht die Kreativität der Kinder.
-- Ist dieses Star Wars Bauspielzeug auch für ein Kind gedacht, das noch keine LEGO Sets besitzt? Ja! Denn es liegt eine einfache gedruckte Bauanleitung bei. Nach dem Öffnen der Box kann es sofort losgehen!
-- Der TIE-Pilot der Ersten Ordnung, der Ritter von Ren und Finn sind mit cooler Ausrüstung ausgestattet. Das Set lässt sich auch wunderbar mit „Poe Damerons X-Wing Starfighter“ (75273) kombinieren, damit sich Erste Ordnung legendäre Schlachten mit dem Widerstand liefern kann.
-- Der Star Wars TIE Fighter ist 21 cm hoch, 24 cm lang und 22 cm breit. Wenn er nicht gerade Missionen für die Erste Ordnung fliegt, ist er ein eindrucksvolles Schaustück, das jedes Zimmer schmückt!
 - Das Sith TIE Fighter (75272) zum Zusammenbauen besitzt ein schnittiges Design (neu ab Januar 2020) – genau wie in „Star Wars: Der Aufstieg Skywalkers–, um Kinder spannenden Missionen als Pilot der Ersten Ordnung fliegen zu lassen!
+- Der TIE-Pilot der Ersten Ordnung, der Ritter von Ren und Finn sind mit cooler Ausrüstung ausgestattet. Das Set lässt sich auch wunderbar mit „Poe Damerons X-Wing Starfighter“ (75273) kombinieren, damit sich Erste Ordnung legendäre Schlachten mit dem Widerstand liefern kann.
+- Ist dieses Star Wars Bauspielzeug auch für ein Kind gedacht, das noch keine LEGO Sets besitzt? Ja! Denn es liegt eine einfache gedruckte Bauanleitung bei. Nach dem Öffnen der Box kann es sofort losgehen!
+- Der TIE Fighter verfügt über ein aufklappbares Minifigur-Cockpit und 2 Raketen mit Federmechanismus. Es gibt auch einen Andockturm zum Starten, Landen und Präsentieren des Baumodells sowie 3 Minifiguren für actionreiche Rollenspiele.
+- Der Star Wars TIE Fighter ist 21 cm hoch, 24 cm lang und 22 cm breit. Wenn er nicht gerade Missionen für die Erste Ordnung fliegt, ist er ein eindrucksvolles Schaustück, das jedes Zimmer schmückt!
 - Das 470-teilige Set mit legendären Star Wars Charakteren stellt Jungen und Mädchen ab 9 Jahren vor eine ebenso unterhaltsame wie lohnende Bauherausforderung und ist ein Supergeschenk zum Geburtstag, zu Weihnachten oder als besondere Belohnung.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)
