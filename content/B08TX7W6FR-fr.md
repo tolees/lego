@@ -29,8 +29,8 @@ You've got [LEGO Speed Champions 30343 McLaren Elva [KLOCKI]](https://www.amazon
 ℹ️:
 
 - Contient 86 pièces + instructions (français non garanti)
-- Lego Racers Ensemble de sacs en plastique
 - McLaren Elva
 - Petit article à collectionner - Ne convient pas nécessairement comme cadeau pour un enfant
+- Lego Racers Ensemble de sacs en plastique
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B08TX7W6FR/?tag=tolees0d-21)
