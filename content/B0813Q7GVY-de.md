@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41430 Friends Wasserpark von Heartl at 25.00 % discount'
-date: 2021-04-06 15:28:07
+title: 'LEGO 41430 Friends Wasserpark von Heartl at 27.24 % discount'
+date: 2021-04-07 22:02:52
 image: 'https://m.media-amazon.com/images/I/51fP2ndONbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0813Q7GVY-de LEGO 41430 Friends Wasserpark von Heartlake City Spielset...'
 sku: 'B0813Q7GVY-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 74.99 EUR
+actualPrice: 72.75 EUR
 currency: EUR
-price: 74.99
+price: 72.75
 comparePrice: 99.99 EUR
 prodname: 'LEGO 41430 Friends Wasserpark von Heartlake City  Spielset mit Mini Puppen Stephanie  Emma und Olivia  Sommerferien-Serie'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21'
-descuento: '25.00'
-average: '74.5449401197602'
+descuento: '27.24'
+average: '74.539582089552'
 ---
 
-With a final price of 74.99 EUR (original: 99.99 EUR) you can find [LEGO 41430 Friends Wasserpark von Heartlake City  Spielset mit Mini Puppen Stephanie  Emma und Olivia  Sommerferien-Serie](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21) with a  25.00 % discount here:
+With a final price of 72.75 EUR (original: 99.99 EUR) you can find [LEGO 41430 Friends Wasserpark von Heartlake City  Spielset mit Mini Puppen Stephanie  Emma und Olivia  Sommerferien-Serie](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21) with a  27.24 % discount here:
 
 [![LEGO 41430 Friends Wasserpark von Heartl](https://m.media-amazon.com/images/I/51fP2ndONbL._SL400_.jpg)](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21)
 

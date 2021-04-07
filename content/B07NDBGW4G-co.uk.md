@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '25.00 % deal for LEGO 42100 Technic Control+ Liebherr R 9'
-date: 2021-03-22 18:07:03
-image: 'https://m.media-amazon.com/images/I/51D3YSFZFsL._SL400_.jpg'
+title: '27.50 % deal for LEGO 42100 Technic Control+ Liebherr R 9'
+date: 2021-04-07 21:37:14
+image: 'https://m.media-amazon.com/images/I/512Vee3tS6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07NDBGW4G-co.uk LEGO 42100 Technic Control+ Liebherr R 9800 Excavator...'
 sku: 'B07NDBGW4G-co.uk'
-tags: [ 'Building & Construction Toys','Toy Types','Toys & Games','Toys Store','lego', ]
-actualPrice: 299.99 GBP
+tags: [ 'Building & Construction Toys','Toys & Games','Toys Store','lego', ]
+actualPrice: 289.99 GBP
 currency: GBP
-price: 299.99
+price: 289.99
 comparePrice: 399.99 GBP
-prodname: 'LEGO 42100 Technic Control+ Liebherr R 9800 Excavator App Controlled Advanced Construction Set with Interactive Motors and Bluetooth Connectivity'
+prodname: 'LEGO 42100 Technic Control+ Liebherr R 9800 Excavator App Controlled Advanced Construction Set with Interactive Motors and Bluetooth Connectivity'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21'
-descuento: '25.00'
-average: '322.175528455288'
+descuento: '27.50'
+average: '324.834987277355'
 ---
 
-There's a deal [LEGO 42100 Technic Control+ Liebherr R 9800 Excavator App Controlled Advanced Construction Set with Interactive Motors and Bluetooth Connectivity](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)  with  25.00 % discount, final price tag of  299.99 GBP (original: 399.99 GBP) here:
+There's a deal [LEGO 42100 Technic Control+ Liebherr R 9800 Excavator App Controlled Advanced Construction Set with Interactive Motors and Bluetooth Connectivity](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)  with  27.50 % discount, final price tag of  289.99 GBP (original: 399.99 GBP) here:
 
-[![LEGO 42100 Technic Control+ Liebherr R 9](https://m.media-amazon.com/images/I/51D3YSFZFsL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)
+[![LEGO 42100 Technic Control+ Liebherr R 9](https://m.media-amazon.com/images/I/512Vee3tS6L._SL400_.jpg)](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)
 
 ℹ️:
 
-- Operated via the intuitive CONTROL+ app, powered by 2 Bluetooth-controlled Smart Hubs with 7 (3 XL and 4 L) motors to enable precise movements
-- Drive forward, reverse, steer, rotate the superstructure, extend, raise and lower the boom, open and tilt the bucket and get model feedback
-- One-touch, multi-function control: connect to hubs, ensuring super-precisionvia your smart device with 4 alternative control screens
-- Use pre-set commands or record the model’s actions to create complex sequences of movements and complete challenges to unlock reward badges
-- Smart Hubs feature Low Energy (BLE) connectivity, activation button, 6 axis sensor (3 gyro/3 accelerometer sensors) and 4 connectivity ports
+- Smart Hubs feature Low Energy (BLE) connectivity, activation button, 6 axis sensor (3 gyro/3 accelerometer sensors) and 4 connectivity ports
+- Operated via the intuitive CONTROL+ app, powered by 2 Bluetooth-controlled Smart Hubs with 7 (3XL and 4L) motors to enable precise movements
+- Use pre-set commands or record the model’s actions to create complex sequences of movements and complete challenges to unlock reward badges
+- Drive forward, reverse, steer, rotate the superstructure, extend, raise and lower the boom, open and tilt the bucket and get model feedback
+- One-touch, multi-function control: connect to hubs, ensuring super-precisionvia your smart device with 4 alternative control screens
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07NDBGW4G/?tag=tolees0a-21)
