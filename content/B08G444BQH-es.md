@@ -28,10 +28,10 @@ There's a deal [LEGO 75300 Star Wars Caza Tie Imperial Juguete de Const
 
 ℹ️:
 
-- El caza TIE está equipado con cabina abatible para una mini figura LEGO y 2 cañones automáticos que prometen acción a raudales
 - Cuando los fans tengan en las manos el juego construible Caza TIE Imperial (75300), poseerán su propia versión para construir con ladrillos LEGO (capaz de disparar) de la icónica nave y podrán recrear escenas de la trilogía clásica de Star Wars
 - Mide aproximadamente 17 cm de altura, 14 cm de longitud y 15 cm de anchura. Sus dimensiones convierten al modelo en una llamativa pieza de exposición que quedará impresionante en la habitación de cualquier peque entre sesiones de juego y batallas
-- Además de 2 mini figuras LEGO Star Wars: un piloto de caza TIE con una pistola bláster y un soldado de asalto con un bláster, incluye también una figura LEGO de un droide de protocolo NI-L8 para interpretar grandes aventuras
 - Adecuado para construir a solas o para compartir la diversión con amigos y familiares, este set es el óptimo regalo de cumpleaños, obsequio de Navidad o premio sorpresa para niños creativos y fans de Star Wars a partir de 8 años
+- El caza TIE está equipado con cabina abatible para una mini figura LEGO y 2 cañones automáticos que prometen acción a raudales
+- Además de 2 mini figuras LEGO Star Wars: un piloto de caza TIE con una pistola bláster y un soldado de asalto con un bláster, incluye también una figura LEGO de un droide de protocolo NI-L8 para interpretar grandes aventuras
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B08G444BQH/?tag=tolees-21)
