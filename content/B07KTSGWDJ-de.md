@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60228 City Weltraumrakete mit Kontr at 30.99 % discount'
-date: 2021-04-07 21:59:52
+date: 2021-04-08 23:30:43
 image: 'https://m.media-amazon.com/images/I/51NBJWS-CuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21'
 descuento: '30.99'
-average: '76.5347282608696'
+average: '76.5143089430895'
 ---
 
 With a final price of 69.0 EUR (original: 99.99 EUR) you can find [LEGO 60228 City Weltraumrakete mit Kontrollzentrum  Expedition zum Mars Set  von der NASA inspiriertes Weltraumspielzeug für Kinder mit Astronauten  Wissenschaftlern und Roboter-Minifiguren](https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21) with a  30.99 % discount here:
@@ -28,10 +28,10 @@ With a final price of 69.0 EUR (original: 99.99 EUR) you can find [LEGO 60228 Ci
 
 ℹ️:
 
-- Das von der NASA inspirierte LEGO City Set „Weltraumrakete mit Kontrollzentrum“ kann zusammen mit allen anderen LEGO Sets und LEGO Steinen verwendet werden.
 - Enthält LEGO City Minifiguren: 2 Astronauten, 2 Wissenschaftler, den Startdirektor, einen Techniker des Bodenpersonals, eine Roboterfigur und einen Rover mit beweglichem Greifarm
+- Baue eine mehrstufige Rakete und ein Kontrollzentrum, sowie ein Einschienenbahnsystem, damit die Astronauten vom Kontrollzentrum zum Trainingsgelände und zur Rakete gelangen
+- Das von der NASA inspirierte LEGO City Set „Weltraumrakete mit Kontrollzentrum“ kann zusammen mit allen anderen LEGO Sets und LEGO Steinen verwendet werden.
 - 837 Teile – Von der NASA inspiriertes Spielzeug für Mädchen und Jungen ab 7 Jahren, für Fans und für Kinder jeden Alters.
 - Die Rakete ist 42 cm hoch, 11 cm breit und 6 cm tief. Das Kontrollzentrum ist im geschlossenen Zustand 18 cm hoch, 13 cm breit und 13 cm tief
-- Baue eine mehrstufige Rakete und ein Kontrollzentrum, sowie ein Einschienenbahnsystem, damit die Astronauten vom Kontrollzentrum zum Trainingsgelände und zur Rakete gelangen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21)
