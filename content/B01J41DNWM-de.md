@@ -28,10 +28,10 @@ You've got [LEGO 31058 Creator Dinosaurier  3-in-1 Modell: T-Rex  Triceratops od
 
 ℹ️:
 
-- Bewege die Arme, Beine, den Schwanz und den Kopf des T-Rex und öffne sein Maul, damit die scharfen Zähne zum Vorschein kommen.
-- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
-- Enthält das 3-in-1-Modell eines T-Rex mit leuchtend orangen Augen, beweglichen Gelenken, einem beweglichen Kopf, großen Klauen und einem aufklappbaren Maul mit spitzen Zähnen. Ebenfalls enthalten sind die Überreste der letzten Mahlzeit des Dinos – und zwar in Gestalt eines Brustkorbs zum Zusammenbauen.
 - Der T-Rex ist 11 cm groß. Der Triceratops ist 9 cm groß. Der Pterodactylus ist 4 cm hoch, 18 cm lang und 25 cm breit.
+- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
+- Bewege die Arme, Beine, den Schwanz und den Kopf des T-Rex und öffne sein Maul, damit die scharfen Zähne zum Vorschein kommen.
 - Dieses Set enthält mehr als 170 Teile und bietet Kindern im Alter von 7 bis 12 Jahren ein altersgerechtes Bau- und Spielerlebnis.
+- Enthält das 3-in-1-Modell eines T-Rex mit leuchtend orangen Augen, beweglichen Gelenken, einem beweglichen Kopf, großen Klauen und einem aufklappbaren Maul mit spitzen Zähnen. Ebenfalls enthalten sind die Überreste der letzten Mahlzeit des Dinos – und zwar in Gestalt eines Brustkorbs zum Zusammenbauen.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B01J41DNWM/?tag=tolees0ca-21)
