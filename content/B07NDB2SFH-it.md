@@ -28,9 +28,9 @@ You've got [LEGO Star Wars Yoda  Set di Costruzioni  Modello Collezionab
 
 ℹ️:
 
+- Questo oggetto da collezione Star Wars: Lattacco dei cloni è un ottimo regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione
 - Il personaggio di Yoda LEGO Star Wars Yoda con la spada laser è alto 41 cm
 - Il personaggio di Yoda è dotato di testa e sopracciglia mobili, dita delle mani e dei piedi snodabili, spada laser verde e targhetta con dettagli del Maestro Jedi, più un supporto con la spada laser
-- Questo oggetto da collezione Star Wars: Lattacco dei cloni è un ottimo regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione
 - Colleziona due personaggi di Yoda LEGO Star Wars in un ottimo set
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B07NDB2SFH/?tag=tolees00-21)
