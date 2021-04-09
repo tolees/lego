@@ -28,10 +28,10 @@ You've got [The LEGO Movie 2 70824 Das ist Königin Wasimma SI-Willi](https://ww
 
 ℹ️:
 
+- Die Zubehörteile umfassen Susans 2 goldene Kelch- und Tablett-Elemente sowie die Handschellen der THE LEGO MOVIE 2 Minifigur Lucy.
+- Das Set enthält 5 THE LEGO MOVIE 2 Figuren: baubare Figuren von Königin Wasimma Si-Willi in Pferdegestalt und Banarnar sowie neue Spielfiguren von Sweet Mischmasch und Susan und eine neue Lucy-Minifigur.
 - Dieses tolle Bauset verfügt über eine drehbare Plattform für Königin Wasimma Si-Willi in Pferdegestalt.
 - Zur Ausrüstung gehört Sweet Mischmaschs Gewehr.
-- Das Set enthält 5 THE LEGO MOVIE 2 Figuren: baubare Figuren von Königin Wasimma Si-Willi in Pferdegestalt und Banarnar sowie neue Spielfiguren von Sweet Mischmasch und Susan und eine neue Lucy-Minifigur.
 - Baue das Pferd um und verwandle Königin Watevra WaNabi in einen Steinhaufen mit 4 austauschbaren Gesichtsausdruckselementen.
-- Die Zubehörteile umfassen Susans 2 goldene Kelch- und Tablett-Elemente sowie die Handschellen der THE LEGO MOVIE 2 Minifigur Lucy.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNS6P77/?tag=tolees0ca-21)
