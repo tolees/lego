@@ -28,11 +28,11 @@ With a final price of 33.56 EUR (original: 39.99 EUR) you can find [LEGO 41168�
 
 ℹ️:
 
-- Este joyero inspirado en Elsa, el personaje de Frozen, cuenta con cajón con cierre, espejo, función de giro para Elsa y el Nokk, y 2 anillos LEGO.
-- Mide más de 23 cm de altura, 15 cm de ancho y 12 cm de profundidad.
 - Este precioso estuche joyero es un regalo de cumpleaños o de Navidad ideal para fans de las películas de Disney Frozen.
-- Incluye un minipersonaje de Elsa y una figura LEGO de un Nokk.
 - Los personajes Disney se pueden quitar e incorporar a cualquier colección de minifiguras y minipersonajes LEGO Disney.
+- Mide más de 23 cm de altura, 15 cm de ancho y 12 cm de profundidad.
+- Este joyero inspirado en Elsa, el personaje de Frozen, cuenta con cajón con cierre, espejo, función de giro para Elsa y el Nokk, y 2 anillos LEGO.
 - Guarda tus joyas favoritas en el cajón y desliza el cierre para mantenerlas a buen recaudo.
+- Incluye un minipersonaje de Elsa y una figura LEGO de un Nokk.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07ND9QVV3/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.26 % deal for Lego Creator - LEGO 31101 Creator 3in1 M'
-date: 2021-04-09 19:37:42
+date: 2021-04-10 19:52:11
 image: 'https://m.media-amazon.com/images/I/51XvKMppctL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Lego Creator'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TMRWB/?tag=tolees0a-21'
 descuento: '43.26'
-average: '9.18142857142857'
+average: '8.955'
 ---
 
 There's a deal [Lego Creator - LEGO 31101 Creator 3in1 Monster Truck Demolition Car Toy - Muscle Car - Dragster Building Set   Vehicle Collection Series](https://www.amazon.co.uk/dp/B07W7TMRWB/?tag=tolees0a-21)  with  43.26 % discount, final price tag of  7.37 GBP (original: 12.99 GBP) here:
@@ -30,8 +30,8 @@ There's a deal [Lego Creator - LEGO 31101 Creator 3in1 Monster Truck Demol
 
 - Features 3 toy models in 1, a monster truck with huge tyres, a high-performance muscle car with a finish line and a "digger" - dragster car
 - The green-yellow monster truck features a heavy-duty working suspension and oversized tyres, ideal to roll over obstacles, like small cars
+- The smaller muscle car has a relatively lightweight two-door body with a pretend large rear-engine especially designed for drag racing
 - With LEGO Creator 3-in-1 sets kids can build, play and rebuild again and again for plenty of action for fans of racing and heavy-duty cars
 - The specialised competition digger car used in drag racing features a back spoiler, engine and bigger back tyres for faster performance
-- The smaller muscle car has a relatively lightweight two-door body with a pretend large rear-engine especially designed for drag racing
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TMRWB/?tag=tolees0a-21)
