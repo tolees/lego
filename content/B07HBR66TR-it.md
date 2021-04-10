@@ -28,7 +28,7 @@ With a final price of 29.99 EUR (original: 39.1 EUR) you can find [Warner Bros -
 
 ℹ️:
 
-- Included on disc featuring 5 spells - Cantis, Densaugeo, Ducklifors, Melofors and Tentaclifors.
 - Included on disc featuring 10 characters - Godric Gryffindor, Harry (Yule Ball), Helga Hufflepuff, Lockhart (Straightjacket), Luna (Lion Head), Peeves, Hermione (Pink Dress), Ron Weasley (Ghoul), Rowena Ravenclaw and Salazar Slytherin.
+- Included on disc featuring 5 spells - Cantis, Densaugeo, Ducklifors, Melofors and Tentaclifors.
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07HBR66TR/?tag=tolees00-21)
