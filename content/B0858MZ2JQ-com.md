@@ -28,10 +28,10 @@ There's a deal [LEGO Super Mario Builder Mario Power-Up Pack 71373 Building Kit 
 
 ℹ️:
 
-- When LEGO Mario (figure not included) is wearing this outfit, a player can earn digital coins by making him stomp hard on LEGO bricks in the course they have created
-- Kids can enjoy brick-stomping, coin-collecting LEGO Super Mario gameplay with this Builder Mario Power-Up Pack (71373), featuring an interactive outfit for LEGO Mario to wear
 - Other LEGO Mario upgrades are available to combine with the Starter Course and Expansion Sets, including the Fire Mario Power-Up Pack (71370), Propeller Power-Up Pack (71371) and Cat Mario Power-Up Pack (71372)
 - The buildable costume fits on the LEGO Mario figure that is included in the Adventures with Mario Starter Course (71360) toy playset to boost the in-game possibilities
+- When LEGO Mario (figure not included) is wearing this outfit, a player can earn digital coins by making him stomp hard on LEGO bricks in the course they have created
 - This 10-piece LEGO building set makes a fabulous birthday or holiday gift for kids and fans aged 6 and up, adding yet more play options to their Adventures with Mario Starter Course (71360) and Expansion Sets
+- Kids can enjoy brick-stomping, coin-collecting LEGO Super Mario gameplay with this Builder Mario Power-Up Pack (71373), featuring an interactive outfit for LEGO Mario to wear
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B0858MZ2JQ/?tag=tolees-20)
