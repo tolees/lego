@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75957 Harry Potter Autobús Noctámbu at 16.08 % discount'
-date: 2021-04-09 05:23:29
+date: 2021-04-10 05:48:12
 image: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21'
 descuento: '16.08'
-average: '34.9327428571429'
+average: '34.9249431818182'
 ---
 
 With a final price of 33.56 EUR (original: 39.99 EUR) you can find [LEGO 75957 Harry Potter Autobús Noctámbulo  Juguete de Construcción del Mágico Bbús de 3 Plantas con 3 Mini Figuras](https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21) with a  16.08 % discount here:
