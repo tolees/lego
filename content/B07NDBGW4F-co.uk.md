@@ -31,7 +31,7 @@ There's a deal [LEGO 41165 Disney Frozen II Anna s Canoe Expedition with
 - LEGO 4+ sets are specially designed to be fun and easy for youngsters and help to grow their confidence with simple building steps
 - Features an ice canoe with lamp and river scene with ice slide, seesaw, movable foliage and rocks with a sleeping earth giant image
 - Use the LEGO Life app to access the intuitive building instructions with easy-to-use zoom, rotate and ghost-mode to visualize their creations
-- Combine with the 41166 Elsa’s Wagon Adventure set for even more 4+ LEGO Disney Frozen II magic and to help your child develop fine motor skills
 - This building set for beginners includes a special Starter Brick base and 2 mini doll figures: Anna and Olaf, plus a LEGO bunny figure
+- Combine with the 41166 Elsa’s Wagon Adventure set for even more 4+ LEGO Disney Frozen II magic and to help your child develop fine motor skills
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07NDBGW4F/?tag=tolees0a-21)
