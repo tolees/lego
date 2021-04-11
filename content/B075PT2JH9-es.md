@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % deal for LEGO STAR WARS - Millennium Falcon™'
-date: 2021-04-10 05:33:33
+date: 2021-04-11 11:27:53
 image: 'https://m.media-amazon.com/images/I/51ePA8PZNAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B075PT2JH9/?tag=tolees-21'
 descuento: '20.00'
-average: '838.778888888887'
+average: '837.819374999998'
 ---
 
 There's a deal [LEGO STAR WARS - Millennium Falcon™](https://www.amazon.es/dp/B075PT2JH9/?tag=tolees-21)  with  20.00 % discount, final price tag of  639.2 EUR (original: 799.0 EUR) here:
