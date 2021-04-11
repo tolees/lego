@@ -28,10 +28,10 @@ There's a deal [LEGO 75281 Star Wars Anakin s Jedi Interceptor Toy with�
 
 ℹ️:
 
-- The Interceptor features a revamped design, 2 spring-loaded shooters for battle and foldout wing flaps for attack mode
-- Comes with step-by-step, illustrated building instructions so young builders can commence with confidence
 - Includes Anakin Skywalker minifigure to sit in the opening cockpit of the Interceptor, plus an R2-D2 LEGO droid figure to sit on the wing
-- Anakin’s Lightsaber and spare ammo clip under the compact Interceptor’s wing, perfect to fit into a kid’s bag ready for play anywhere
+- Comes with step-by-step, illustrated building instructions so young builders can commence with confidence
 - Build Anakin Skywalker’s iconic Jedi Interceptor featured in Star Wars: Revenge of the Sith and Star Wars: The Clone Wars
+- Anakin’s Lightsaber and spare ammo clip under the compact Interceptor’s wing, perfect to fit into a kid’s bag ready for play anywhere
+- The Interceptor features a revamped design, 2 spring-loaded shooters for battle and foldout wing flaps for attack mode
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813R8PHT/?tag=tolees0a-21)
