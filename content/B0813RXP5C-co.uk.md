@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.72 % deal for Super Heroes LEGO 76153 Marvel Avengers '
-date: 2021-04-10 05:20:41
+date: 2021-04-11 05:24:26
 image: 'https://m.media-amazon.com/images/I/61I45bo8B8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Super Heroes'
 buyurl: 'https://www.amazon.co.uk/dp/B0813RXP5C/?tag=tolees0a-21'
 descuento: '22.72'
-average: '98.7120433436534'
+average: '98.6697222222224'
 ---
 
 There's a deal [Super Heroes LEGO 76153 Marvel Avengers Helicarrier Toy with Iron Man  Thor & Captain Marvel  Series](https://www.amazon.co.uk/dp/B0813RXP5C/?tag=tolees0a-21)  with  22.72 % discount, final price tag of  85.0 GBP (original: 109.99 GBP) here:
@@ -30,8 +30,8 @@ There's a deal [Super Heroes LEGO 76153 Marvel Avengers Helicarrier Toy wit
 
 - Includes Iron Man, Captain Marvel, Thor, Black Widow, War Machine, Nick Fury, and A.I.M. Agent minifigures, and a M.O.D.O.K. figure
 - Features the S.H.I.E.L.D. Helicarrier, hi-tech flying aircraft toy carrier with a cockpit for 3 minifigures, and a small fighter toy jet
+- M.O.D.O.K. – the big-brained supervillain – is on the attack, and Avengers are ready for action to return the bad guy to his prison cell
 - Marvel Avengers fans can recreate thrilling scenes and dream up their own stories with this playset - an awesome gift for kids aged 9 and up!
 - The Helicarrier has rotors, realistic rotating blades, mega missile launcher, sphere cannons, 6-stud shooters, plus a special prison cell
-- M.O.D.O.K. – the big-brained supervillain – is on the attack, and Avengers are ready for action to return the bad guy to his prison cell
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813RXP5C/?tag=tolees0a-21)
