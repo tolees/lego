@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 16.69 % for LEGO 60216  City Downtown Fire Brigade w'
-date: 2021-04-09 17:14:50
+date: 2021-04-10 23:24:05
 image: 'https://m.media-amazon.com/images/I/61Prl-r6VFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21'
 descuento: '16.69'
-average: '71.8989123867069'
+average: '71.9081626506024'
 ---
 
 You've got [LEGO 60216  City Downtown Fire Brigade with Fire Engine Truck Toy  Crane  Helicopter  Motorbike and 7 Minifigures  Fireman Toys for Kids](https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21) with a  16.69 % discount, with final price of 74.97 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 60216  City Downtown Fire Brigade with Fire Engine Tr
 
 ℹ️:
 
-- Raise the ladder and squeeze the bellows to launch the water elements and knock the fire elements down.
-- Join in the excitement downtown with the fire rescue heroes and protect the citizens of LEGO City with the incredible 60216 Downtown Fire Brigade set!
-- Load and push the plungers on the 3-stud shooters of the helicopter and R.O.S.-T3 the ROV to help battle the blaze.
-- Swing the crane around and lift the porta-loo into the air with the winch and press the fire ladder truck light and sound brick as you race the firefighters to the scene.
 - A fire helicopter with opening cockpit with a new-for-January-20193-stud shooter.
+- Swing the crane around and lift the porta-loo into the air with the winch and press the fire ladder truck light and sound brick as you race the firefighters to the scene.
+- Join in the excitement downtown with the fire rescue heroes and protect the citizens of LEGO City with the incredible 60216 Downtown Fire Brigade set!
+- Raise the ladder and squeeze the bellows to launch the water elements and knock the fire elements down.
+- Load and push the plungers on the 3-stud shooters of the helicopter and R.O.S.-T3 the ROV to help battle the blaze.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21)
