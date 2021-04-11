@@ -28,9 +28,9 @@ With a final price of 45.59 EUR (original: 54.99 EUR) you can find [LEGO 10899 D
 
 ℹ️:
 
-- El juguete Disney Frozen: Castillo de Hielo mide más de 28 cm de altura, 19 cm de ancho y 16 cm de profundidad.
-- Estos juguetes para construir orientados a los bebés se han diseñado como estímulo de la interpretación y la narración de historias para ayudar a tu peque a desarrollar sus habilidades sociales, emocionales y lingüísticas.
 - Incluye 3 figuras LEGO DUPLO: Anna, Elsa y Olaf.
+- Estos juguetes para construir orientados a los bebés se han diseñado como estímulo de la interpretación y la narración de historias para ayudar a tu peque a desarrollar sus habilidades sociales, emocionales y lingüísticas.
+- El juguete Disney Frozen: Castillo de Hielo mide más de 28 cm de altura, 19 cm de ancho y 16 cm de profundidad.
 - El castillo de juguete Disney Frozen cuenta con tobogán, mesa, sillas y utensilios de cocina. Envuélvelo en una iluminación multicolor con el ladrillo luminoso especial accionado por botón.
 - Ayuda a tu pequeño a dominar las habilidades básicas de construcción y a mejorar su motricidad fina invitándolo a montar y recolocar los ladrillos para construir: una manera perfecta de acercarle al juego imaginativo y sus infinitas posibilidades.
 
