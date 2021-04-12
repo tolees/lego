@@ -28,10 +28,10 @@ With a final price of 19.94 GBP (original: 24.99 GBP) you can find [LEGO 71365�
 
 ℹ️:
 
-- Features a platform on rails on a seesaw with Piranha Plants at either end, and a Time Block to earn extra time while players quickly seesaw
+- This module also includes Goomba and Koopa Troopa toy figures for LEGO Mario (not included) to defeat to win more coins while seesawing!
 - Add this brilliant extension to kids LEGO Super Mario Adventures with Mario Starter Course set to master the sliding, seesaw challenge
+- Features a platform on rails on a seesaw with Piranha Plants at either end, and a Time Block to earn extra time while players quickly seesaw
 - Collectible LEGO Super Mario toy building sets bring an iconic character into the real world and give kids and all fans loads of play options
 - Find digital building instructions, cool viewing tools, inspiration for creative play and more in the free LEGO app for smart devices
-- This module also includes Goomba and Koopa Troopa toy figures for LEGO Mario (not included) to defeat to win more coins while seesawing!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B082WDSG3W/?tag=tolees0a-21)
