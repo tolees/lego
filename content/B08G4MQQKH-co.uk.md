@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.07 % for LEGO 41449 Friends Andrea s Family House'
-date: 2021-04-10 07:26:43
+date: 2021-04-12 04:12:22
 image: 'https://m.media-amazon.com/images/I/51tCMiRb1uL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4MQQKH/?tag=tolees0a-21'
 descuento: '25.07'
-average: '49.8445454545455'
+average: '49.4366666666667'
 ---
 
 You've got [LEGO 41449 Friends Andrea s Family House Playset  Doll House with Swimming Pool and Music Studio](https://www.amazon.co.uk/dp/B08G4MQQKH/?tag=tolees0a-21) with a  25.07 % discount, with final price of 44.95 GBP (original: 59.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 41449 Friends Andrea s Family House Playset  Doll House
 
 ℹ️:
 
-- Features 2-floors dollhouse full of authentic details where kids can meet Andrea’s family and play house role-swap,  solo or with friends
 - Cleverly designed to make play easier, the playset’s top floor is removable so the downstairs level is accessible, and the garage door lifts
-- Kids can put on a music show from the garage studio, take a dip in the pool or make a meal in the modern kitchen diner
-- Includes 4 LEGO Friends minidolls: Andrea, her friend Stephanie, Mum and Dad, and 1 microdoll sister Liz from the LEGO Friends TV show
 - In the kitchen, the workbench swings out to let little fingers in. Andrea’s Dad takes some cupcakes out of the oven. Mmmm, they’re delicious!
+- Features 2-floors dollhouse full of authentic details where kids can meet Andrea’s family and play house role-swap,  solo or with friends
+- Includes 4 LEGO Friends minidolls: Andrea, her friend Stephanie, Mum and Dad, and 1 microdoll sister Liz from the LEGO Friends TV show
+- Kids can put on a music show from the garage studio, take a dip in the pool or make a meal in the modern kitchen diner
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4MQQKH/?tag=tolees0a-21)
