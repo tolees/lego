@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 42099 Technic Control+ 4x4 Allrad X at 26.96 % discount'
-date: 2021-04-12 11:29:38
-image: 'https://m.media-amazon.com/images/I/51Prlht3VeS._SL400_.jpg'
+date: 2021-04-13 11:37:47
+image: 'https://m.media-amazon.com/images/I/51Prlht3VeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,18 +19,18 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '26.96'
-average: '168.532237442923'
+average: '168.531002277905'
 ---
 
 With a final price of 167.99 EUR (original: 229.99 EUR) you can find [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) with a  26.96 % discount here:
 
-[![LEGO 42099 Technic Control+ 4x4 Allrad X](https://m.media-amazon.com/images/I/51Prlht3VeS._SL400_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
+[![LEGO 42099 Technic Control+ 4x4 Allrad X](https://m.media-amazon.com/images/I/51Prlht3VeS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
-- Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
 - Das coole Geländewagen-Modell wird mit der LEGO Technic Control+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben
+- Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
+- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
 - Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
 - Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei Bildschirme auf einem Mobilgerät gesteuert.
 
