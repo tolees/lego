@@ -30,10 +30,10 @@ There's a deal [LEGO Speed Champions - Lego 76899 Speed Champions Lamborghini Ur
 
 - Das LEGO Spielset zum Sammeln enthält 2 Lamborghini-Rennwagen als originalgetreue Baumodelle. Das Bauset ist das perfekte Geschenk für alle, die Rennwagen lieben und gerne spannende Rennen austragen.
 - Mit den beiden Rennwagen (neu ab Januar 2020) gibt Lamborghini sein eindrucksvolles LEGO Speed Champions Debüt. Dieses Sammlerset enthält zwei Modellautos als coole Schaustücke oder Spielzeugrennwagen für spannende Renn-Action.
-- Die Speed Champions Spielzeug-Rennwagen sind jetzt um 25 Prozent größer. Das Modell des Lamborghini Huracán ist 5 cm hoch, 16 cm lang und 7 cm breit. Die beiden Autos besitzen die perfekten Abmessungen, um auch überall mit hingenommen zu werden.
-- Ist dieses Lamborghini-Spielset für einen ungeübten LEGO Baumeister gedacht? Ja! Dem Set liegt eine einfache Bauanleitung bei, damit der Bauspaß sofort beginnen kann.
 - Für dieses Bauset werden keinen Batterien benötigt. Sobald die beiden Modelle gebaut sind, beginnt das Spielvergnügen. Als Antrieb reicht diesen Spielzeugautos die Fantasie der Kinder. Die Renn-Action muss folglich niemals enden!
 - Das Set „Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO“ enthält die beiden Rennwagen als LEGO Nachbildungen, eine Startlinie mit Startampel sowie 2 Rennfahrer-Minifiguren.
+- Die Speed Champions Spielzeug-Rennwagen sind jetzt um 25 Prozent größer. Das Modell des Lamborghini Huracán ist 5 cm hoch, 16 cm lang und 7 cm breit. Die beiden Autos besitzen die perfekten Abmessungen, um auch überall mit hingenommen zu werden.
+- Ist dieses Lamborghini-Spielset für einen ungeübten LEGO Baumeister gedacht? Ja! Dem Set liegt eine einfache Bauanleitung bei, damit der Bauspaß sofort beginnen kann.
 - Dieser 659-teilige Lamborghini-Modellbausatz ist ein tolles LEGO Geschenk und beschert Jungen und Mädchen ab 9 Jahren ein lohnendes Bauerlebnis. Diese Flitzer lassen Kinder wunderbar allein oder zusammen mit Freunden spielen.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)
