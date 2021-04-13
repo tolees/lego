@@ -30,8 +30,8 @@ With a final price of 14.39 EUR (original: 19.99 EUR) you can find [Lego Minecra
 
 - Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen
 - Überprüfe die Drachenjäger-Rüstung, nimm den Trank, die Enderperle und den verzauberten Bogen und sei bereit für das letzte Gefecht
-- Zur Ausrüstung gehört ein verzauberter Bogen
-- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
 - Dieses Minecraft-Spielzeug umfasst ein Enderdrachen-Spielzeug mit beweglichen Gliedmaßen und eine Enderman-Figur sowie ein Minecraft-Ende-Setting mit Obsidiansäule und einem Enderkristall mit Pop-up-Funktion
+- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
+- Zur Ausrüstung gehört ein verzauberter Bogen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21)
