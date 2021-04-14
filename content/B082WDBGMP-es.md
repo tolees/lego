@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71366 Super Mario Set de Expansión: at 16.97 % discount'
-date: 2021-04-13 17:35:18
+date: 2021-04-14 17:36:57
 image: 'https://m.media-amazon.com/images/I/51h4fHDYI2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21'
 descuento: '16.97'
-average: '22.8144907407405'
+average: '22.8241013824882'
 ---
 
 With a final price of 24.9 EUR (original: 29.99 EUR) you can find [LEGO 71366 Super Mario Set de Expansión: Avalancha de Bill Balazos  Juguete de Construcción para Niños y Niñas a Partir de 7 años](https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21) with a  16.97 % discount here:
