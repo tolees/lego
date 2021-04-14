@@ -1,41 +1,42 @@
 ---
 layout: post
-title: 'Discount of 17.03 % for LEGO Harry Potter Torre di Astronomia di'
-date: 2021-03-17 02:22:06
-image: 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL400_.jpg'
+title: 'Discount of 15.81 % for LEGO Harry Potter Torre di Astronomia di'
+date: 2021-04-14 00:30:00
+image: 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6V-it LEGO Harry Potter Torre di Astronomia di Hogwarts...'
 sku: 'B0813QBV6V-it'
-actualPrice: 87.11 EUR
+tags: [ 'Costruzioni','Giochi e giocattoli','lego', ]
+actualPrice: 88.39 EUR
 currency: EUR
-price: 87.11
+price: 88.39
 comparePrice: 104.99 EUR
-prodname: 'LEGO Harry Potter Torre di Astronomia di Hogwarts  Giocattolo Compatibile con i Playset La Sala Grande e Il Platano Picchiatore  75969'
+prodname: 'LEGO Harry Potter Torre di Astronomia di Hogwarts  Giocattolo Compatibile con i Playset La Sala Grande e Il Platano Picchiatore  75969'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21'
-descuento: '17.03'
-average: '95.5752884615388'
+descuento: '15.81'
+average: '95.473760330579'
 ---
 
-You've got [LEGO Harry Potter Torre di Astronomia di Hogwarts  Giocattolo Compatibile con i Playset La Sala Grande e Il Platano Picchiatore  75969](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21) with a  17.03 % discount, with final price of 87.11 EUR (original: 104.99 EUR) at the following link:
+You've got [LEGO Harry Potter Torre di Astronomia di Hogwarts  Giocattolo Compatibile con i Playset La Sala Grande e Il Platano Picchiatore  75969](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21) with a  15.81 % discount, with final price of 88.39 EUR (original: 104.99 EUR) at the following link:
 
-[![LEGO Harry Potter Torre di Astronomia di](https://m.media-amazon.com/images/I/51+4CsFSz+L._SL400_.jpg)](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21)
+[![LEGO Harry Potter Torre di Astronomia di](https://m.media-amazon.com/images/I/51+4CsFSz+L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21)
 
 ℹ️:
 
-- Il modello, alto più di 40 cm, largo 29 cm e profondo 17 cm, è collegabile ai set LEGO Hogwarts 75953, 75954 e 75948 (per alcuni set la disponibilità è limitata)
 - Visitare l’Aula di Pozioni e partecipare alla festa, studiare le piante di mandragora nella serra, esplorare il dormitorio dei Corvonero e infine raggiungere la torre più alta per la lezione di astronomia permetterà ai bambini di entrare in un mondo permeato di magia
-- Non richiede batterie; questo pratico set da costruzione di Harry Potter offre infinite opzioni di gioco creativo alimentate esclusivamente dall’immaginazione dei bambini
-- I bambini possono organizzare giochi di ruolo basati sulle magiche storie di Hogwarts utilizzando i personaggi più amati, le ambientazioni famose e i dettagli realistici della Torre di Astronomia di Hogwarts LEGO Harry Potter (75969)
-- Dal 1958, i set da costruzione LEGO soddisfano i più elevati standard di settore; questo significa che tutti i mattoncini sono di qualità uniforme e compatibili e si montano e si smontano ottimamente ogni volta, senza bisogno di ricorrere alla magia
-- I set da costruzione LEGO Harry Potter portano le meraviglie dei film nella realtà; creature e personaggi famosi, ambientazioni fantastiche e funzioni e accessori mettono la magia di Harry Potter a disposizione dei bambini
-- Grazie alle sue fantastiche minifigure LEGO, che includono Draco Malfoy e Neville Paciock, questo esclusivo set di gioco Harry Potter è il regalo ideale per bambini dai 9 anni in su
 - Questo set di Hogwarts include molti ambienti resi familiari dai film di Harry Potter, 8 minifigure di personaggi famosi, un giocattolo che raffigura Edvige e numerosi accessori originali, tra cui piante di mandragora, lettere, bacchette magiche e un libro delle pozioni
-- E quando l’azione finisce, il modello farà una bella figura nella cameretta di ogni bambino
+- Il modello, alto più di 40 cm, largo 29 cm e profondo 17 cm, è collegabile ai set LEGO Hogwarts 75953, 75954 e 75948 (per alcuni set la disponibilità è limitata)
+- I set da costruzione LEGO Harry Potter portano le meraviglie dei film nella realtà; creature e personaggi famosi, ambientazioni fantastiche e funzioni e accessori mettono la magia di Harry Potter a disposizione dei bambini
 - Le istruzioni semplici consentono ai bambini di costruire e di giocare immediatamente; esplorare questo magico castello giocattolo li incoraggerà a sognare e ideare infinite opzioni di gioco di ruolo
+- I bambini possono organizzare giochi di ruolo basati sulle magiche storie di Hogwarts utilizzando i personaggi più amati, le ambientazioni famose e i dettagli realistici della Torre di Astronomia di Hogwarts LEGO Harry Potter (75969)
+- Non richiede batterie; questo pratico set da costruzione di Harry Potter offre infinite opzioni di gioco creativo alimentate esclusivamente dall’immaginazione dei bambini
+- E quando l’azione finisce, il modello farà una bella figura nella cameretta di ogni bambino
+- Dal 1958, i set da costruzione LEGO soddisfano i più elevati standard di settore; questo significa che tutti i mattoncini sono di qualità uniforme e compatibili e si montano e si smontano ottimamente ogni volta, senza bisogno di ricorrere alla magia
+- Grazie alle sue fantastiche minifigure LEGO, che includono Draco Malfoy e Neville Paciock, questo esclusivo set di gioco Harry Potter è il regalo ideale per bambini dai 9 anni in su
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21)

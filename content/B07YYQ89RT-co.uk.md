@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 26.67 % for LEGO 42111 Technic Fast & Furious Dom s '
-date: 2021-04-12 17:37:08
-image: 'https://m.media-amazon.com/images/I/51hpO7RCQHL._SL400_.jpg'
+date: 2021-04-14 00:11:55
+image: 'https://m.media-amazon.com/images/I/51hpO7RCQHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21'
 descuento: '26.67'
-average: '74.042679045093'
+average: '74.0213756613758'
 ---
 
 You've got [LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Racing Car Model Iconic Collector s Building Set](https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21) with a  26.67 % discount, with final price of 65.99 GBP (original: 89.99 GBP) at the following link:
 
-[![LEGO 42111 Technic Fast & Furious Dom s ](https://m.media-amazon.com/images/I/51hpO7RCQHL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21)
+[![LEGO 42111 Technic Fast & Furious Dom s ](https://m.media-amazon.com/images/I/51hpO7RCQHL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21)
 
 ℹ️:
 
-- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
-- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
 - Makes the ideal gift for any car or Fast & Furious enthusiast; perfectly sized to create an awesome display piece to show off
-- Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger R/T
+- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
 - Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car in the famous wheelstand position
+- Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger R/T
+- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21)
