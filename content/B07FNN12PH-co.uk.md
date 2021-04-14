@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 21151 Minecraft The End Battle Coll at 25.01 % discount'
-date: 2021-04-12 11:32:59
-image: 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL400_.jpg'
+date: 2021-04-14 07:50:13
+image: 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNN12PH/?tag=tolees0a-21'
 descuento: '25.01'
-average: '16.7429166666667'
+average: '16.6728'
 ---
 
 With a final price of 14.99 GBP (original: 19.99 GBP) you can find [LEGO 21151 Minecraft The End Battle Collectible Toy](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=tolees0a-21) with a  25.01 % discount here:
 
-[![LEGO 21151 Minecraft The End Battle Coll](https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=tolees0a-21)
+[![LEGO 21151 Minecraft The End Battle Coll](https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=tolees0a-21)
 
 ℹ️:
 
-- Includes a new-for-January-2019 dragon slayer minifigure, plus ender dragon and enderman figure.
-- Also includes a code for redeeming a dragon slayer skin in the Minecraft Bedrock Edition online game!
 - Weapons include an enchanted bow and accessories include an ender pearl and a potion.
 - This Minecraft toy features a buildable ender dragon toy with highly posable limbs and an enderman figure, plus a Minecraft End setting with obsidian pillar and an end crystal with pop-up functionality.
+- Also includes a code for redeeming a dragon slayer skin in the Minecraft Bedrock Edition online game!
 - Shoot fireball missiles from the ender dragon and move its limbs tocreate dynamic poses.
+- Includes a new-for-January-2019 dragon slayer minifigure, plus ender dragon and enderman figure.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNN12PH/?tag=tolees0a-21)
