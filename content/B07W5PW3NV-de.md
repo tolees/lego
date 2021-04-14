@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 25.51 % for LEGO Produkttitel fehlt - Wird nachgerei'
-date: 2021-04-11 20:30:14
-image: 'https://m.media-amazon.com/images/I/51cpIc64bzL._SL400_.jpg'
+date: 2021-04-14 16:34:46
+image: 'https://m.media-amazon.com/images/I/51cpIc64bzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21'
 descuento: '25.51'
-average: '17.4609090909092'
+average: '17.4320224719102'
 ---
 
 You've got [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21) with a  25.51 % discount, with final price of 14.89 EUR (original: 19.99 EUR) at the following link:
 
-[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51cpIc64bzL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
+[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51cpIc64bzL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
 
 ℹ️:
 
