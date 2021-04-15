@@ -28,10 +28,10 @@ You've got [LEGO 42092 Technic Rettungshubschrauber Bauset  2-in-1 Flugzeug Spie
 
 ℹ️:
 
-- Enthält drehbare Rotoren, sich öffnende Seiten- und Hecktüren, eine funktionierende Seilwinde und eine Rettungstrage
-- Hat ein cooles Farbmuster in Rot, Weiß und Schwarz
 - Öffne die Seitentüren und lasse die Winde mit der Rettungstrage herab
-- Dieses leicht zu bauende Set ist ideal für angehende Lego Technic Baumeister
 - Dieser Lego Technic Spielzeughubschrauber soll ein fesselndes und lohnendes Bauerlebnis vermitteln
+- Hat ein cooles Farbmuster in Rot, Weiß und Schwarz
+- Enthält drehbare Rotoren, sich öffnende Seiten- und Hecktüren, eine funktionierende Seilwinde und eine Rettungstrage
+- Dieses leicht zu bauende Set ist ideal für angehende Lego Technic Baumeister
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FP2KPWV/?tag=tolees0ca-21)
