@@ -28,15 +28,15 @@ You've got [LEGO 75318 Star Wars El Niño The Mandalorian  Set de Const
 
 ℹ️:
 
+- La gama LEGO Star Wars tiene sets de construcción a la medida de los gustos de los fans de cualquier edad
+- Encantadora maqueta del Niño para construir y exponer, adecuada para fans de Star Wars: The Mandalorian
+- Este set se basa en el placer de construir con LEGO: no necesita pilas
+- Los ladrillos LEGO se conectan y separan fácilmente: no hace falta usar la Fuerza
+- Adecuado como regalo sorpresa, de cumpleaños o de Navidad para fans a partir de 10 años
+- Incluye un elemento que representa un pomo de una palanca de cambios, el juguete favorito del Niño, para que lo sujete con la mano
 - Los componentes LEGO se someten a pruebas destinadas a garantizar que satisfagan los requisitos de las normas de seguridad galácticas exigentes
 - El letrero informativo y la minifigura LEGO del Niño dan el acabado óptimo a una encantadora pieza de exposición
-- Cuenta con cabeza, boca y orejas articuladas que le permiten adoptar adorables expresiones
-- Los ladrillos LEGO se conectan y separan fácilmente: no hace falta usar la Fuerza
-- Encantadora maqueta del Niño para construir y exponer, adecuada para fans de Star Wars: The Mandalorian
 - Incluye instrucciones fáciles de seguir para disfrutar de una experiencia de construcción placentera
-- Adecuado como regalo sorpresa, de cumpleaños o de Navidad para fans a partir de 10 años
-- Este set se basa en el placer de construir con LEGO: no necesita pilas
-- La gama LEGO Star Wars tiene sets de construcción a la medida de los gustos de los fans de cualquier edad
-- Incluye un elemento que representa un pomo de una palanca de cambios, el juguete favorito del Niño, para que lo sujete con la mano
+- Cuenta con cabeza, boca y orejas articuladas que le permiten adoptar adorables expresiones
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21)
