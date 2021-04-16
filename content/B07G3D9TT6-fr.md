@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Blocks  10265  Coloré at 15.77 % discount'
-date: 2021-04-15 05:40:10
+date: 2021-04-16 06:17:22
 image: 'https://m.media-amazon.com/images/I/51H23Gcp-QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07G3D9TT6/?tag=tolees0d-21'
 descuento: '15.77'
-average: '135.658008130079'
+average: '135.581619433196'
 ---
 
 With a final price of 116.79 EUR (original: 138.66 EUR) you can find [LEGO Blocks  10265  Coloré](https://www.amazon.fr/dp/B07G3D9TT6/?tag=tolees0d-21) with a  15.77 % discount here:
