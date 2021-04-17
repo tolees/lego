@@ -28,10 +28,10 @@ With a final price of 395.99 EUR (original: 485.89 EUR) you can find [LEGO 71043
 
 ℹ️:
 
-- Inclut 4 figurines: godric gryffindor, Helga hufflepuff, Salazar slytherin et rowena ravenala avec un plateau de réglage à construire pour figurines.
-- Les accessoires comprennent lépée de gryffindor, Helga hufflepuffs becher, baguettes magiques, abreuvoir magique, bannière de maison, flammes, chaudière et 2 verres grossissants.
-- Le cadenas Hogwarts mesure plus de 58 cm de haut, 69 cm de large et 43 cm de profondeur.
 - Prends de la place dans le grand Hall et pars avec les pros et les élèves de Poudlard !
+- Le cadenas Hogwarts mesure plus de 58 cm de haut, 69 cm de large et 43 cm de profondeur.
+- Inclut 4 figurines: godric gryffindor, Helga hufflepuff, Salazar slytherin et rowena ravenala avec un plateau de réglage à construire pour figurines.
 - Comprend un modèle miniature à construire de château de Poudlard, Hagrid hutte, losier Floculant et 5 bateaux.
+- Les accessoires comprennent lépée de gryffindor, Helga hufflepuffs becher, baguettes magiques, abreuvoir magique, bannière de maison, flammes, chaudière et 2 verres grossissants.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07BLDTWVW/?tag=tolees0d-21)
