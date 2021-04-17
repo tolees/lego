@@ -28,10 +28,10 @@ With a final price of 13.95 EUR (original: 19.49 EUR) you can find [Lego Friends
 
 ℹ️:
 
-- Dieses Set umfasst auch einen einfach zu bauenden Fohlenstall, Traktor, Kaninchenstall und Paddock.
-- Enthält die LEGO Friends Spielfigur Mia, 2 Fohlenfiguren und eine Kaninchenfigur.
 - Die LEGO 4+ Reihe bietet dem Kind eine Welt mit seinen Lieblingsfiguren aus Film und Fernsehen sowie mit Alltagshelden.
-- Zum Zubehör gehören eine Bürste, eine Schaufel, eine Aufbewahrungskiste, eine Karotte, Heu und ein Apfel.
+- Enthält die LEGO Friends Spielfigur Mia, 2 Fohlenfiguren und eine Kaninchenfigur.
+- Dieses Set umfasst auch einen einfach zu bauenden Fohlenstall, Traktor, Kaninchenstall und Paddock.
 - Die LEGO 4+ Sets sind einfach zu bauen und bieten jede Menge Spaß. Sie stärken auch das Selbstbewusstsein, indem Kindergarten- und Grundschulkinder die einfachen Bauschritte ganz allein durchführen können. So gelingt ihnen der ideale Einstieg in die Welt des Bauens mit LEGO Steinen.
+- Zum Zubehör gehören eine Bürste, eine Schaufel, eine Aufbewahrungskiste, eine Karotte, Heu und ein Apfel.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNN12NN/?tag=tolees0ca-21)
