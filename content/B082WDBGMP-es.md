@@ -28,8 +28,8 @@ With a final price of 24.9 EUR (original: 29.99 EUR) you can find [LEGO 71366 
 
 ℹ️:
 
-- Contiene 2 Bill Balazos “voladores”, un superchampiñón y una figura de un Shy Guy
 - Un trepidante set de expansión para divertirse al estilo LEGO Super Mario girando a toda velocidad
+- Contiene 2 Bill Balazos “voladores”, un superchampiñón y una figura de un Shy Guy
 - No requiere pilas: combínalo con el pack inicial para potenciar la diversión
 - Descubre cuántas veces puede girar LEGO Mario (figura no incluida) en la plataforma
 - Permite añadir otro nivel al juguete de construcción Pack Inicial: Aventuras con Mario
