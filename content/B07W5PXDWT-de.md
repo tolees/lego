@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 36.74 % for LEGO 60249 City Straßenkehrmaschine mit '
-date: 2021-04-16 20:03:31
+date: 2021-04-18 12:44:18
 image: 'https://m.media-amazon.com/images/I/51L2foy5UDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21'
 descuento: '36.74'
-average: '7.72350877192982'
+average: '7.69931034482758'
 ---
 
 You've got [LEGO 60249 City Straßenkehrmaschine mit Fahrer  Spielzeugautos Sets für Kinder](https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21) with a  36.74 % discount, with final price of 6.32 EUR (original: 9.99 EUR) at the following link:
@@ -28,12 +28,12 @@ You've got [LEGO 60249 City Straßenkehrmaschine mit Fahrer  Spielzeugauto
 
 ℹ️:
 
-- Die Straßenkehrmaschine bietet einen tollen Einstieg in die aufregende LEGO City Welt. Das perfekte Set für Kinder ab 5 Jahren, inspiriert zu unzähligen fantasievollen Rollenspielen, die auf Alltagsszenarien basieren.
-- Zu dieser Straßenkehrmaschine gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
-- Das LEGO City Spielset „Straßenkehrmaschine“ (60249) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
 - Die Straßenkehrmaschine ist 6 cm hoch, 10 cm lang und 7 cm breit. In der Kabine ist Platz für den Fahrer – und hinten passt die glitschige Banane hinein!
 - Das Bauset „Straßenkehrmaschine“ kommt ohne Batterien aus, damit die Kinder sofort spielen können!
-- Inhalt des Sets: Eine coole LEGO City Straßenkehrmaschine mit Platz für eine Minifigur sowie eine Mülltonne, eine Schaufel und eine Banane. Alles, was ein Kind für selbstständigen Spielspaß benötigt.
+- Das LEGO City Spielset „Straßenkehrmaschine“ (60249) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
+- Zu dieser Straßenkehrmaschine gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
 - Diese Straßenkehrmaschine verfügt über realistische Bürsten, die sich drehen, wenn das Spielzeug angeschoben wird. Kinder können dieses Set auch mit anderen echten LEGO Spielsets kombinieren, um mit ihnen zu spielen oder coole Schaustücke zu erschaffen.
+- Die Straßenkehrmaschine bietet einen tollen Einstieg in die aufregende LEGO City Welt. Das perfekte Set für Kinder ab 5 Jahren, inspiriert zu unzähligen fantasievollen Rollenspielen, die auf Alltagsszenarien basieren.
+- Inhalt des Sets: Eine coole LEGO City Straßenkehrmaschine mit Platz für eine Minifigur sowie eine Mülltonne, eine Schaufel und eine Banane. Alles, was ein Kind für selbstständigen Spielspaß benötigt.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21)
