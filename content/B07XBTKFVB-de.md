@@ -28,12 +28,12 @@ With a final price of 14.89 EUR (original: 19.99 EUR) you can find [LEGO 41906 D
 
 ℹ️:
 
+- Nach dem Auspacken beginnt der Designspaß bereits mit dem Zusammenbauen des Stiftehalters und der Schreibtisch-Box.
+- Kreatives Bauerlebnis und Designobjekt als Aufbewahrungslösung! Beim Verzieren der witzigen Boxen können sich Kinder frei entfalten und ihr Designtalent zum Ausdruck bringen, indem sie die auf der Verpackung vorgeschlagenen Muster nachbilden oder sich einen eigenen coolen Look ausdenken.
+- Das LEGO DOTS Set (41906) enthält 2 Schreibtisch Deko-Accessoires – einen großen Stiftehalter und eine kleine Box in der Form eines Wassermelonenstücks –, um die Kreativität der Kinder zu wecken. Der Spielspaß beginnt schon mit dem Zusammenbauen der Boxen!
+- Dekorativ und nützlich: Der „Ananas Stiftehalter“ ist 15 cm hoch und 6 cm breit. Das kreative Bastelset besitzt also genau die richtige Größe, um junge Designer immer wieder neue Entwürfe ausprobieren zu lassen.
+- Als Antrieb für Designspaß ohne Grenzen reicht die Fantasie kreativer Kinder! Batterieloses Spielzeug ermöglicht ein selbstständiges Spielerlebnis und fördert die Problemlösefähigkeit. In eigener Regie etwas völlig Neues zu erschaffen, bereitet Kindern riesige Freude.
 - Kleine Designfans werden dieses tolle Set lieben. Die raffinierten und nützlichen Boxen und die verzierten bunten Steinchen begeistern Jungen und Mädchen ab 6 Jahren. Das Set ist ein tolles Geschenk zum Geburtstag, zu Weihnachten oder zu sonstigen Anlässen.
 - Die bunten Steinchen machen Lust darauf, kreativ zu werden und sich an dem fantasievollen neuen Designerlebnis zu erfreuen. Kinder können die Steinchen auch mit den Teilen aus anderen DOTS Artikeln wie dem „Armband Ergänzungsset Smiley“ (41908) oder anderen Sets mit Designobjekten kombinieren!
-- Das LEGO DOTS Set (41906) enthält 2 Schreibtisch Deko-Accessoires – einen großen Stiftehalter und eine kleine Box in der Form eines Wassermelonenstücks –, um die Kreativität der Kinder zu wecken. Der Spielspaß beginnt schon mit dem Zusammenbauen der Boxen!
-- Kreatives Bauerlebnis und Designobjekt als Aufbewahrungslösung! Beim Verzieren der witzigen Boxen können sich Kinder frei entfalten und ihr Designtalent zum Ausdruck bringen, indem sie die auf der Verpackung vorgeschlagenen Muster nachbilden oder sich einen eigenen coolen Look ausdenken.
-- Als Antrieb für Designspaß ohne Grenzen reicht die Fantasie kreativer Kinder! Batterieloses Spielzeug ermöglicht ein selbstständiges Spielerlebnis und fördert die Problemlösefähigkeit. In eigener Regie etwas völlig Neues zu erschaffen, bereitet Kindern riesige Freude.
-- Dekorativ und nützlich: Der „Ananas Stiftehalter“ ist 15 cm hoch und 6 cm breit. Das kreative Bastelset besitzt also genau die richtige Größe, um junge Designer immer wieder neue Entwürfe ausprobieren zu lassen.
-- Nach dem Auspacken beginnt der Designspaß bereits mit dem Zusammenbauen des Stiftehalters und der Schreibtisch-Box.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07XBTKFVB/?tag=tolees0ca-21)
