@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO Super Mario Master Your Adventure M'
-date: 2021-04-17 19:28:58
+date: 2021-04-18 23:39:51
 image: 'https://m.media-amazon.com/images/I/51xK4rVgYrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ You've got [LEGO Super Mario Master Your Adventure Maker Set 71380 Building Kit;
 
 ℹ️:
 
-- This 366-piece LEGO building set makes a fun birthday or holiday gift toy for creative kids aged 6 and up to add to their Adventures with Mario Starter Course (71360), required for interactive play
 - The model kit includes a sliding platform and lots of LEGO elements to build new challenges and trigger different reactions in LEGO Mario (figure not included)
+- This 366-piece LEGO building set makes a fun birthday or holiday gift toy for creative kids aged 6 and up to add to their Adventures with Mario Starter Course (71360), required for interactive play
 - Includes LEGO toy figures of 4 iconic Super Mario enemy characters – Larry and a Goomba, Bob-omb and Koopa Paratroopa – to add to the play experience
 - Young builders can customize their LEGO Super Mario Adventures with Mario Starter Course and Expansion Sets in limitless ways with this versatile Master Your Adventure Maker Set (71380)
 - Features a Customization Machine, Customization Time Block and 2 Customization Item Blocks so players can choose their own rewards, plus a Special Pipe: Dash 30 for extra fun interactive play options
