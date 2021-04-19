@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.45 % deal for LEGO 42108 Technic Mobile Crane Truck To'
-date: 2021-04-18 18:24:09
+date: 2021-04-19 18:55:59
 image: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21'
 descuento: '24.45'
-average: '75.9923544303795'
+average: '75.9721464646462'
 ---
 
 There's a deal [LEGO 42108 Technic Mobile Crane Truck Toy  Construction Vehicles Building Set](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)  with  24.45 % discount, final price tag of  67.99 GBP (original: 89.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42108 Technic Mobile Crane Truck Toy  Construction 
 
 ℹ️:
 
-- To see how a real crane works: put out the outriggers, raise the boom and hoist the concrete pillar, then try to put it precisely down
-- This advanced engineering toy model is a challenge for young fans of construction equipment but still easy to build with instructions
-- Classic black and yellow design that looks just like the real thing when fans explore what all the different awesome functions can do
-- Crane operators cabin turns around, hydraulic mechanism lifts the arm 70°, while crane blocks and ropes raise the heavy cargo effortlessly
 - The crane truck toy features 8-wheel steering, 4 individually controlled outriggers, 2 cabins and super-high telescopic arm 30” (78cm) long!
+- Classic black and yellow design that looks just like the real thing when fans explore what all the different awesome functions can do
+- This advanced engineering toy model is a challenge for young fans of construction equipment but still easy to build with instructions
+- Crane operators cabin turns around, hydraulic mechanism lifts the arm 70°, while crane blocks and ropes raise the heavy cargo effortlessly
+- To see how a real crane works: put out the outriggers, raise the boom and hoist the concrete pillar, then try to put it precisely down
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)
