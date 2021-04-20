@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41430 Friends Wasserpark von Heartl at 27.82 % discount'
-date: 2021-04-18 12:19:21
+title: 'LEGO 41430 Friends Wasserpark von Heartl at 27.81 % discount'
+date: 2021-04-20 18:30:00
 image: 'https://m.media-amazon.com/images/I/51fP2ndONbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B0813Q7GVY-de LEGO 41430 Friends Wasserpark von Heartlake City Spielset...'
 sku: 'B0813Q7GVY-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 72.17 EUR
+actualPrice: 72.18 EUR
 currency: EUR
-price: 72.17
+price: 72.18
 comparePrice: 99.99 EUR
 prodname: 'LEGO 41430 Friends Wasserpark von Heartlake City  Spielset mit Mini Puppen Stephanie  Emma und Olivia  Sommerferien-Serie'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21'
-descuento: '27.82'
-average: '74.4741279069764'
+descuento: '27.81'
+average: '74.4624855491326'
 ---
 
-With a final price of 72.17 EUR (original: 99.99 EUR) you can find [LEGO 41430 Friends Wasserpark von Heartlake City  Spielset mit Mini Puppen Stephanie  Emma und Olivia  Sommerferien-Serie](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21) with a  27.82 % discount here:
+With a final price of 72.18 EUR (original: 99.99 EUR) you can find [LEGO 41430 Friends Wasserpark von Heartlake City  Spielset mit Mini Puppen Stephanie  Emma und Olivia  Sommerferien-Serie](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21) with a  27.81 % discount here:
 
 [![LEGO 41430 Friends Wasserpark von Heartl](https://m.media-amazon.com/images/I/51fP2ndONbL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Mit dabei sind auch die LEGO Friends Heldinnen Stephanie, Emma und Olivia als baubare Spielfiguren sowie Mason als Badeaufsicht. Die Flamingofigur Pinky (ab Juni 2020) verleiht dem Set einen zusätzlichen Farbtupfer
-- Dieses unterhaltsame Spielzeug bietet unzählige Spielmöglichkeiten. Die Spielfiguren können die drei Rutschen hinuntersausen oder sich im Whirlpool entspannen. Kinder können in die Rolle der Badeaufsicht schlüpfen und die Schwimmer im Auge behalten
 - Soll ein kleiner Baumeister beschäftigt werden? Dann ist dieses Set genau das richtige Geburtstags- oder Weihnachtsgeschenk. Das 1001-teilige Bauset inspiriert Kinder ab 8 Jahren. Und das fertige Modell werden sie voller Stolz präsentieren
 - Dieses detailreiche Spielzeug bringt das Vergnügen eines Wasserparks ins Kinderzimmer. Das LEGO Friends Spielset beschäftigt Kinder stundenlang, während sie das Bauprojekt meistern und dann alle Details erkunden
 - Das Modell ist 31 cm hoch, 33 cm breit und 19 cm tief. Das ist schon eine beträchtliche Größe, doch der Wasserpark kann auch noch ausgebaut werden. Denn das Set lässt sich mit allen bereits vorhandenen LEGO Steinen kombinieren
+- Dieses unterhaltsame Spielzeug bietet unzählige Spielmöglichkeiten. Die Spielfiguren können die drei Rutschen hinuntersausen oder sich im Whirlpool entspannen. Kinder können in die Rolle der Badeaufsicht schlüpfen und die Schwimmer im Auge behalten
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21)
