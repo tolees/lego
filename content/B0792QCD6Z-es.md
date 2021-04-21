@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 21.74 % for LEGO STAR WARS Imperial AT-Hauler'
-date: 2021-04-20 00:52:22
+date: 2021-04-21 07:42:51
 image: 'https://m.media-amazon.com/images/I/51qnRkoh0kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21'
 descuento: '21.74'
-average: '83.7338645418328'
+average: '83.7586904761906'
 ---
 
 You've got [LEGO STAR WARS Imperial AT-Hauler](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) with a  21.74 % discount, with final price of 89.99 EUR (original: 114.99 EUR) at the following link:
@@ -28,14 +28,14 @@ You've got [LEGO STAR WARS Imperial AT-Hauler](https://www.amazon.es/dp/B0792QCD
 
 ℹ️:
 
-- Incluye un contenedor de mercancía para construir que se abre, equ ipad o con una viga de izado
-- Gira los brazos de elevación para pasar a los modos de aterrizaje o vuelo
-- Incluye 5 minifiguras lego : qira, val, rio durant y 2 guardias de dryden
-- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
-- Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
-- Recrea las emocionantes escenas de Han Solo: a Star Wars Story
-- Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), y organiza el asalto ferroviario definitivo a toda velocidad
-- El imperial at-hauler mide más de 12 cm de altura, 32 cm de longitud y 21 cm de ancho
 - Carga el contenedor, engánchalo y levántalo para transportarlo
+- Gira los brazos de elevación para pasar a los modos de aterrizaje o vuelo
+- Incluye un contenedor de mercancía para construir que se abre, equ ipad o con una viga de izado
+- Recrea las emocionantes escenas de Han Solo: a Star Wars Story
+- Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
+- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
+- Incluye 5 minifiguras lego : qira, val, rio durant y 2 guardias de dryden
+- El imperial at-hauler mide más de 12 cm de altura, 32 cm de longitud y 21 cm de ancho
+- Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), y organiza el asalto ferroviario definitivo a toda velocidad
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
