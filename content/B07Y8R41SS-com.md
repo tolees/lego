@@ -28,10 +28,10 @@ There's a deal [Room Copenhagen  Lego Storage Head - Stackable Storage Solution 
 
 ℹ️:
 
+- BUILD YOUR COLLECTION: These figure heads are stackable allowing you to organize and decorate playrooms and kids’ rooms while saving storage space
+- FUN EXPRESSIONS: Get creative with your cleaning by sorting your bricks in LEGO Stackable Storage Heads just like the ones on your minifigures
 - EASY STORAGE SOLUTION: Tidy up all your LEGO bricks into one convenient place so they never get lost or stepped on again
 - DIFFERENT STYLES and SIZES: Available in three sizes as well as different faces including a skeleton and pumpkin for a playful variety of organization options
-- FUN EXPRESSIONS: Get creative with your cleaning by sorting your bricks in LEGO Stackable Storage Heads just like the ones on your minifigures
-- BUILD YOUR COLLECTION: These figure heads are stackable allowing you to organize and decorate playrooms and kids’ rooms while saving storage space
 - PRODUCT SPECIFICATIONS: Measures 9.45” x 9.45” x 10.67” inches holding up to 500 bricks and made of nontoxic BPA free plastic intended for ages 3 years and older
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07Y8R41SS/?tag=tolees-20)
