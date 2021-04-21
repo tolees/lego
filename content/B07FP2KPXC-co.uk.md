@@ -28,10 +28,10 @@ You've got [LEGO 75890 Speed Champions Ferrari F40 Competizione Racing D
 
 ℹ️:
 
-- This 2-in-1 model is packed with authentic details.
 - Includes a Ferrari racing driver minifigure with a helmet - remove the windshield to place the minifigure in the car.
 - Build an amazing Ferrari F40 Competizione vehicle and transform it into the classic F40 road car, the last car that Enzo Ferrari oversaw in his lifetime!
-- This car toy features a minifigure cockpit, wheels with rubber racing tyres, translucent light-style elements, racing colours, plus interchangeable hoods and rear spoilers.
+- This 2-in-1 model is packed with authentic details.
 - Get set for thrilling race action with the LEGO Speed Champions 75890 Ferrari F40 Competizione and challenge your friends.
+- This car toy features a minifigure cockpit, wheels with rubber racing tyres, translucent light-style elements, racing colours, plus interchangeable hoods and rear spoilers.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FP2KPXC/?tag=tolees0a-21)
