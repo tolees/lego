@@ -28,10 +28,10 @@ You've got [Lego Architecture - LEGO 21054 Architecture The White House Mo
 
 ℹ️:
 
-- Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
-- The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
 - Includes clear instructions so even LEGO newcomers can build with confidence, and a coffee-table-style booklet telling The White House story
 - The Architecture display model of The White House beautifully captures the neoclassical design and splendour of this world-famous residence
+- Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
 - Features details like the Executive Residence, West Wing, East Wing and connecting colonnades, the Jacqueline Kennedy Garden and Rose Garden
+- The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QBV6M/?tag=tolees0a-21)
