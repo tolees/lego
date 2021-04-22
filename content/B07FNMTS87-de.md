@@ -29,9 +29,9 @@ With a final price of 29.71 EUR (original: 49.99 EUR) you can find [LEGO 10903 D
 ℹ️:
 
 - Auf Knopfdruck kann man die Sirene und das Blaulicht des Feuerwehrwagens aktivieren.
-- Mach mit beim Training der Feuerwehrleute in der Feuerwehrwache und eile bei einem Notruf im roten Spielzeug-Feuerwehrwagen zum Einsatzort.
+- Enthält 2 LEGO DUPLOFeuerwehr-Figuren und eine Hundefigur.
 - Als Zubehörelemente sind eine Leiter, ein Schlauch, ein Feuerlöscher, eine Axt und ein Lagerfeuer enthalten.
 - Mit einfach zu bauender Spielzeug-Feuerwehrwache mit Turm und einem Spielzeug-Feuerwehrwagen mit Licht- und Geräuscheffekten für Kinder.
-- Enthält 2 LEGO DUPLOFeuerwehr-Figuren und eine Hundefigur.
+- Mach mit beim Training der Feuerwehrleute in der Feuerwehrwache und eile bei einem Notruf im roten Spielzeug-Feuerwehrwagen zum Einsatzort.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNMTS87/?tag=tolees0ca-21)
