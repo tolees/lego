@@ -29,9 +29,9 @@ With a final price of 16.75 EUR (original: 50.5 EUR) you can find [Warner Bros -
 ℹ️:
 
 - metterlo sul LEGO Toy Pad
-- La Batmobile LEGO
-- 3 omini LEGO (Batman, Gandalf un Cool-Tag)
 - indipendente dalla piattaforma
 - Estendere la vostra avventura attraverso la raccolta di dati ulteriori mini, veicoli, oggetti e nuovo livello
+- La Batmobile LEGO
+- 3 omini LEGO (Batman, Gandalf un Cool-Tag)
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B01H0GAGGE/?tag=tolees00-21)
