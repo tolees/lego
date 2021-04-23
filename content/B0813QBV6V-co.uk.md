@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO 75969 Harry Potter Hogwarts Castle '
-date: 2021-04-22 19:47:19
+date: 2021-04-23 21:22:43
 image: 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6V-co.uk LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower...'
 sku: 'B0813QBV6V-co.uk'
-tags: [ 'Building & Construction Toys','Toys & Games','Toys Store','lego', ]
+tags: [ 'Building & Construction Toys','Toy Building Sets','Toys & Games','Toys Store','lego', ]
 actualPrice: 71.99 GBP
 currency: GBP
 price: 71.99
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21'
 descuento: '20.00'
-average: '73.5098125'
+average: '73.5050778816199'
 ---
 
 You've got [LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21) with a  20.00 % discount, with final price of 71.99 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy�
 
 ℹ️:
 
-- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create  Hogwarts Castle!
 - Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create  Hogwarts Castle!
 - Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
-- Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
 - Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21)
