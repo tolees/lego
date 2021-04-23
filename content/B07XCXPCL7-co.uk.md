@@ -28,10 +28,10 @@ There's a deal [LEGO 41904 DOTS Animal Picture Holders DIY Desk Accessories Deco
 
 ℹ️:
 
-- Kids can decorate the cubes following suggestions in the packaging to design the cat, dog, llama or other animal faces or any way they like
-- This sweet cube set features 3 animal cubes with lids and photo holders, it is small and made to be used as do-it-yourself room decor
 - Offers loads of possibilities for kids who love creative DIY play and freedom to design, redesign, decorate and use
-- Kids can add the tiles from other DOTS sets or the Extra DOTS - series 1 pack (41908) to decorate the cubes to match their room decor
+- Kids can decorate the cubes following suggestions in the packaging to design the cat, dog, llama or other animal faces or any way they like
 - Reusable tray for portability offers easy organisation, storage and travel options
+- This sweet cube set features 3 animal cubes with lids and photo holders, it is small and made to be used as do-it-yourself room decor
+- Kids can add the tiles from other DOTS sets or the Extra DOTS - series 1 pack (41908) to decorate the cubes to match their room decor
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07XCXPCL7/?tag=tolees0a-21)
