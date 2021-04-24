@@ -28,8 +28,8 @@ There's a deal [LEGO 21034 - Set Costruzioni Londra](https://www.amazon.it/dp/B0
 
 ℹ️:
 
+- Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben (Elizabeth Tower) e il Tower Bridge
 - L fiume Tamigi è riprodotto con tegole trasparenti su base
 - Interpretazione LEGO Architecture di Londra
-- Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben (Elizabeth Tower) e il Tower Bridge
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)
