@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 32.57 % for LEGO 42115 Technic Lamborghini Sián FKP '
-date: 2021-04-18 03:25:36
+date: 2021-04-24 07:18:52
 image: 'https://m.media-amazon.com/images/I/51DGVeEgUNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21'
 descuento: '32.57'
-average: '270.647351351349'
+average: '270.461021505374'
 ---
 
 You've got [LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advanced Building Set for Adults  Exclusive Collectible Model](https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21) with a  32.57 % discount, with final price of 235.99 GBP (original: 349.99 GBP) at the following link:
@@ -28,11 +28,11 @@ You've got [LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advanced Build
 
 ℹ️:
 
-- With its elegant design and superb detailing of the decorated elements, the model is a realistic representation of the original sports car
-- The Sián FKP 37 LEGO model is presented in luxury packaging and provides a stunning display piece to build and enjoy
-- Includes a collectors building instruction booklet, decorative display plate, and unique serial number
-- This 3,696-piece LEGO Technic 1:8 scale model car brings you closer than ever to the real Lamborghini Sián FKP 37
-- Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
 - Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
+- Includes a collectors building instruction booklet, decorative display plate, and unique serial number
+- Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
+- This 3,696-piece LEGO Technic 1:8 scale model car brings you closer than ever to the real Lamborghini Sián FKP 37
+- The Sián FKP 37 LEGO model is presented in luxury packaging and provides a stunning display piece to build and enjoy
+- With its elegant design and superb detailing of the decorated elements, the model is a realistic representation of the original sports car
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21)
