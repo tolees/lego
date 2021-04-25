@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10903 DUPLO Town Fire Station  Ligh at 37.51 % discount'
-date: 2021-04-24 07:18:42
+date: 2021-04-25 07:39:40
 image: 'https://m.media-amazon.com/images/I/514IByqhg8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ With a final price of 24.99 GBP (original: 39.99 GBP) you can find [LEGO 10903�
 
 - Accessory elements include a ladder, hose, fire extinguisher, axe and a campfire.
 - Use the modern characters, accessories and decorated bricks to have fun while helping your toddler learn about everything firefighters do for us.
-- Includes 2 LEGO DUPLO firefighter figures plus a dog figure.
 - LEGO DUPLO 10903 Fire Station set features an easy-to-build fire station toy with tower and a fire truck toy for toddlers.
+- Includes 2 LEGO DUPLO firefighter figures plus a dog figure.
 - Press the button on the kids fire truck toy to activate the siren andlights.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNMTS87/?tag=tolees0a-21)
