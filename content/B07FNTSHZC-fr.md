@@ -28,12 +28,12 @@ With a final price of 20.99 EUR (original: 29.99 EUR) you can find [LEGO® DUPLO
 
 ℹ️:
 
-- Inclut 3 figurines LEGO DUPLO : 2 policiers et un bandit
-- Il faut attraper le bandit et lemmener au commissariat de police pour aller en prison
 - Les accessoires incluent une tasse, ainsi que des briques décorées de beignets et une caméra de sécurité
 - Comprend un commissariat de police de facile à construire avec une porte de cellule qui s’ouvre et une voiture de police avec des lumières et une sirène sonore
+- Il faut attraper le bandit et lemmener au commissariat de police pour aller en prison
 - Permet daider son enfant à maîtriser des compétences de construction de base avec ce modèle facile à construire
-- Possibilité dappuyer sur le bouton pour activer la sirène et les lumières de la voiture de police
+- Inclut 3 figurines LEGO DUPLO : 2 policiers et un bandit
 - On peut utiliser les personnages modernes, les accessoires et les briques décorées pour samuser avec son enfant tout en l’aidant à découvrir la police
+- Possibilité dappuyer sur le bouton pour activer la sirène et les lumières de la voiture de police
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07FNTSHZC/?tag=tolees0d-21)
