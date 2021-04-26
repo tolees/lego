@@ -28,10 +28,10 @@ There's a deal [LEGO 42097 Technic La grue araignée  Discontinué par le Fabric
 
 ℹ️:
 
-- La grue araignée
-- Les enfants auront deux fois plus de plaisir à construire et à jouer en découvrant les blocs de construction de 2 machines mécaniques réelles, avec cette grue araignée 2-en-1 LEGO Technic de 920 pièces qui peut se transformer en grue à tour compacte.
-- Cette grue amusante est équipée de robustes chenilles, de stabilisateurs qui se déplient, dun bras extensible, dun treuil avec un long câble et un dispositif de blocage, ainsi que dune superstructure qui pivote à 180° et de couleurs classiques jaune et noir.
-- Nombre de pièces: 920
 - Âge recommandé par le fabricant: 10+
+- Les enfants auront deux fois plus de plaisir à construire et à jouer en découvrant les blocs de construction de 2 machines mécaniques réelles, avec cette grue araignée 2-en-1 LEGO Technic de 920 pièces qui peut se transformer en grue à tour compacte.
+- Nombre de pièces: 920
+- La grue araignée
+- Cette grue amusante est équipée de robustes chenilles, de stabilisateurs qui se déplient, dun bras extensible, dun treuil avec un long câble et un dispositif de blocage, ainsi que dune superstructure qui pivote à 180° et de couleurs classiques jaune et noir.
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07NDBGVG1/?tag=tolees0d-21)
