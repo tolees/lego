@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 41167 Disney Princess Frozen Die Ei at 27.50 % discount'
-date: 2021-04-12 08:19:09
-image: 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL400_.jpg'
+date: 2021-04-26 12:27:48
+image: 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21'
 descuento: '27.50'
-average: '58.868596491228'
+average: '58.853448275862'
 ---
 
 With a final price of 57.99 EUR (original: 79.99 EUR) you can find [LEGO 41167 Disney Princess Frozen Die Eiskönigin 2 Schloss Arendelle  Bauset mit Anna  ELSA und Kristoff Mini Puppen  Marktständen  Ruderboot sowie Tierfiguren  Spielzeug ab 5 Jahren](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21) with a  27.50 % discount here:
 
-[![LEGO 41167 Disney Princess Frozen Die Ei](https://m.media-amazon.com/images/I/51ijWY3BBlL._SL400_.jpg)](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)
+[![LEGO 41167 Disney Princess Frozen Die Ei](https://m.media-amazon.com/images/I/51ijWY3BBlL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Die Bausteine aus dem Bauset -Schloss Arendelle- (41167) von LEGO , Disney "Die Eiskönigin 2" können mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Dieses LEGO Bauset enthält 521 Teile und bietet Jungen und Mädchen ab 5 Jahren sowie Fans und Kindern jeden Alters großartigen Spielspaß
 - Das Schloss ist 30 cm hoch, 30 cm breit und 12 cm tief. Auch kleine Fans von Anna und Elsa können es eigenständig zusammenbauen und stundenlangen Spaß mit Ihren Lieblingshelden von Disney erleben
-- Baue dieses dreistöckige Disney Schloss und spiele magische Momente aus Disneys -Die Eiskönigin 2- nach. Anschließend kann man die verschiedenen Stockwerke und die Möbel neu anordnen
+- Die Bausteine aus dem Bauset -Schloss Arendelle- (41167) von LEGO , Disney "Die Eiskönigin 2" können mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Sobald die Schachtel geöffnet wird, geht der Spaß mit den Figuren aus -Die Eiskönigin 2- los. Außer dem Schloss mit Thronsaal und Schlafzimmer kann man Marktstände und ein Ruderboot bauen
+- Baue dieses dreistöckige Disney Schloss und spiele magische Momente aus Disneys -Die Eiskönigin 2- nach. Anschließend kann man die verschiedenen Stockwerke und die Möbel neu anordnen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)
