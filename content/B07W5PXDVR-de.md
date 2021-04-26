@@ -28,12 +28,12 @@ You've got [LEGO 41391 Friends Friseursalon von Heartlake City  Spielset�
 
 ℹ️:
 
-- Dieses Set bietet viele detailreiche Elementen, um die Fantasie der Kinder anzuregen. Es gibt 2 Spielfiguren, 2 Friseurstühle, ein Becken zum Haarewaschen und jede Menge Zubehör, etwa Spielzeugbürsten und Perücken, um ein realistisches Ambiente zu erzeugen.
-- Dieser Spielzeug-Friseursalon ist nur 11 cm hoch und 17 cm lang – und deshalb kompakt genug, um ihn aufgestellt zu lassen. Die Kinder können ihn aber auch mit anderen LEGO Sets kombinieren, um noch mehr kreativen Spielspaß zu erleben!
-- Das LEGO Friends Set „Friseursalon von Heartlake City“ beschert kleinen Friseurinnen stundenlangen kreativen Spielspaß. Sie können so tun, als würden sie ihre Freundinnen frisieren, oder in die Rolle der Kundin schlüpfen, die gerne einen neuen Haarschnitt hätte!
 - Für den „Friseursalon von Heartlake City“ werden keine Batterien benötigt. Um kreativen Spielspaß zu erleben, reichen die einfache Bauanleitung, ein wenig Bauerfahrung und die lebhafte Fantasie eines Kindes.
 - Der „Friseursalon von Heartlake City“ (41391) ist das perfekte Geschenk für Kinder mit wenig Bauerfahrung und jeder Menge Fantasie. Es ist ein tolles Geschenk für Kinder ab 6 Jahren – zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass.
-- Kinder sehen begeistert zu, wie sich die Spielfigur an den einzelnen Friseurstationen verwandelt. Noch mehr Spielspaß ist möglich, wenn sich auch die Minifiguren aus all den anderen LEGO Sets im Salon frisieren lassen.
 - Ist ihr kleiner Baumeister bereit für ein tolles Spielerlebnis? Laden Sie die LEGO Life App herunter und helfen Sie ihnen, die Instructions PLUS zu verwenden, um ihren Friseursalon im Zoom-, Rotations- und Geistermodus zu sehen. Es ist ein Bauset für das digitale Zeitalter!
+- Dieses Set bietet viele detailreiche Elementen, um die Fantasie der Kinder anzuregen. Es gibt 2 Spielfiguren, 2 Friseurstühle, ein Becken zum Haarewaschen und jede Menge Zubehör, etwa Spielzeugbürsten und Perücken, um ein realistisches Ambiente zu erzeugen.
+- Kinder sehen begeistert zu, wie sich die Spielfigur an den einzelnen Friseurstationen verwandelt. Noch mehr Spielspaß ist möglich, wenn sich auch die Minifiguren aus all den anderen LEGO Sets im Salon frisieren lassen.
+- Das LEGO Friends Set „Friseursalon von Heartlake City“ beschert kleinen Friseurinnen stundenlangen kreativen Spielspaß. Sie können so tun, als würden sie ihre Freundinnen frisieren, oder in die Rolle der Kundin schlüpfen, die gerne einen neuen Haarschnitt hätte!
+- Dieser Spielzeug-Friseursalon ist nur 11 cm hoch und 17 cm lang – und deshalb kompakt genug, um ihn aufgestellt zu lassen. Die Kinder können ihn aber auch mit anderen LEGO Sets kombinieren, um noch mehr kreativen Spielspaß zu erleben!
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5PXDVR/?tag=tolees0ca-21)
