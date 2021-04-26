@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 21.11 % for LEGO 75969 Harry Potter Hogwarts Castle '
-date: 2021-04-25 15:39:36
+date: 2021-04-26 21:38:17
 image: 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21'
 descuento: '21.11'
-average: '73.4972670807453'
+average: '73.4895046439628'
 ---
 
 You've got [LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21) with a  21.11 % discount, with final price of 70.99 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy�
 
 ℹ️:
 
-- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
 - Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
-- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create  Hogwarts Castle!
-- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
 - Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create  Hogwarts Castle!
+- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21)
