@@ -30,7 +30,7 @@ There's a deal [LEGO 70681 NINJAGO Spinjitzu Slam - Lloyd Set for Kids with Torn
 
 - This collectible toy includes a Lloyd FS minifigure with a ‘powered-up’ hood, plus a sword and 2 spider figures to place on the ‘ice’ targets
 - Lloyd can be placed in his tornado spinner, attached to the launcher and send spiraling towards the target.
-- Kids can create their own Spinjitzu Slam challenges and compete against their friends with this action-packed toy building set.
 - Add 70682 Spinjitzu Slam - Jay, 70683 Spinjitzu Slam - Zane and 70684 Spinjitzu Slam - Kai vs. Samurai LEGO NINJAGO playsets for more fun
+- Kids can create their own Spinjitzu Slam challenges and compete against their friends with this action-packed toy building set.
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07KTWFH1V/?tag=tolees0a-21)
