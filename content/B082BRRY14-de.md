@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 27.50 % for LEGO 21161 Minecraft Die Crafting-Box 3.'
-date: 2021-04-12 08:21:53
-image: 'https://m.media-amazon.com/images/I/51zBldoXFjL._SL400_.jpg'
+date: 2021-04-27 12:16:10
+image: 'https://m.media-amazon.com/images/I/51zBldoXFjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21'
 descuento: '27.50'
-average: '59.90375'
+average: '60.2761538461538'
 ---
 
 You've got [LEGO 21161 Minecraft Die Crafting-Box 3.0 2-in-1 Set Schloss oder Farm mit Figuren: Steve  Alex und Creeper](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21) with a  27.50 % discount, with final price of 57.99 EUR (original: 79.99 EUR) at the following link:
 
-[![LEGO 21161 Minecraft Die Crafting-Box 3.](https://m.media-amazon.com/images/I/51zBldoXFjL._SL400_.jpg)](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21)
+[![LEGO 21161 Minecraft Die Crafting-Box 3.](https://m.media-amazon.com/images/I/51zBldoXFjL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Bietet ein Design, das einfach zu ändern ist, mit einfach zu verbindenden Modulteilen, mit 3 alternativen Modellkonfigurationen und Anweisungen
 - Kinder finden hier eine Vielzahl von lustigen Eigenschaften, von einem TNT-Launcher bis zu einer Creeper-Konfrontation, und 3 kleine Grundplatten, um ein einfaches Bauen und Zugreifen zu ermöglichen
+- Bietet ein Design, das einfach zu ändern ist, mit einfach zu verbindenden Modulteilen, mit 3 alternativen Modellkonfigurationen und Anweisungen
+- Die einzelnen Modelle können wieder aufgebaut oder die Landschaft kann neu konfiguriert werden, indem die Modulteile einfach neu positioniert werden
 - Enthält 564 Steine und Teile sowie beliebte Charaktere aus dem Spiel: Steve, Alex, Creeper, Schwein und Zombie, um Minecraft-Abenteuer zu spielen
 - Baue ein cooles Schloss, eine geschäftige Farm oder eine fantastische Umgebung wie einen Gemüsegarten, um neue Möglichkeiten zu erkunden, wie man das Spiel im wirklichen Leben spielt
-- Die einzelnen Modelle können wieder aufgebaut oder die Landschaft kann neu konfiguriert werden, indem die Modulteile einfach neu positioniert werden
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21)
