@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 23.01 % for LEGO STAR WARS - Chirrut Îmwe  75524 '
-date: 2021-04-27 12:19:45
+date: 2021-04-30 22:22:43
 image: 'https://m.media-amazon.com/images/I/51PMs4UDWNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B01J41KZBO/?tag=tolees-21'
 descuento: '23.01'
-average: '22.9584905660377'
+average: '22.9181481481481'
 ---
 
 You've got [LEGO STAR WARS - Chirrut Îmwe  75524 ](https://www.amazon.es/dp/B01J41KZBO/?tag=tolees-21) with a  23.01 % discount, with final price of 20.78 EUR (original: 26.99 EUR) at the following link:
@@ -29,7 +29,7 @@ You've got [LEGO STAR WARS - Chirrut Îmwe  75524 ](https://www.amazon.es/dp/B01
 ℹ️:
 
 - Equipada con túnica de tela y elementos decorados
-- Cuenta con ballesta plegable con cañón automático
 - Es perfecta para reproducir las emocionantes escenas del éxito cinematográfico Star Wars: Rogue One
+- Cuenta con ballesta plegable con cañón automático
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B01J41KZBO/?tag=tolees-21)
