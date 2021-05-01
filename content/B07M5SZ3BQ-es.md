@@ -28,8 +28,8 @@ You've got [Warner Bros Interactive Spain  VG  - La Lego Película 2: El Videoju
 
 ℹ️:
 
-- Desbloquea y juega con más de 100 personajes
 - Multitud de personajes heroicos
+- Desbloquea y juega con más de 100 personajes
 - Utiliza nuevas armaduras y coches para derrotar a los alienígenas
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21)
