@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.37 % deal for LEGO 71384 Super Mario Penguin Mario Pow'
-date: 2021-04-27 07:27:00
+date: 2021-05-02 15:21:10
 image: 'https://m.media-amazon.com/images/I/51ISFlaYfLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4RP2DC/?tag=tolees0a-21'
 descuento: '33.37'
-average: '8.65666666666667'
+average: '8.39'
 ---
 
 There's a deal [LEGO 71384 Super Mario Penguin Mario Power-Up Pack  Expansion Set Sliding Costume](https://www.amazon.co.uk/dp/B08G4RP2DC/?tag=tolees0a-21)  with  33.37 % discount, final price tag of  5.99 GBP (original: 8.99 GBP) here:
@@ -29,9 +29,9 @@ There's a deal [LEGO 71384 Super Mario Penguin Mario Power-Up Pack  Expa
 ℹ️:
 
 - Collectible LEGO Super Mario toy sets: the Starter Course & Expansion Sets, plus Power-Up Packs, allow fans to create their own unique levels
-- When LEGO Mario is fitted with this suit, players can collect extra digital coins for making him slide on his belly like a penguin
 - Features an interactive Penguin suit for LEGO Mario figure (not included), adding belly-sliding fun to LEGO Mario Starter Course (71360) playset
-- Collectible LEGO Super Mario toy playsets bring an iconic Nintendo character into the real world, offering limitless potential to expand
 - Other LEGO Mario upgrades are available to use with the Starter Course and Expansion Sets, including the Tanooki Mario Power-Up Pack (71385)
+- Collectible LEGO Super Mario toy playsets bring an iconic Nintendo character into the real world, offering limitless potential to expand
+- When LEGO Mario is fitted with this suit, players can collect extra digital coins for making him slide on his belly like a penguin
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4RP2DC/?tag=tolees0a-21)

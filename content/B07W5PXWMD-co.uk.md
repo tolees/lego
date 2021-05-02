@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.01 % for Ninjago LEGO 71708 Gamer s Market 9 Mini'
-date: 2021-04-19 19:39:01
+date: 2021-05-02 14:34:48
 image: 'https://m.media-amazon.com/images/I/51D-reA5T1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Ninjago'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5PXWMD/?tag=tolees0a-21'
 descuento: '25.01'
-average: '20.395'
+average: '20.6277777777778'
 ---
 
 You've got [Ninjago LEGO 71708 Gamer s Market 9 Minifigures Set with Digi Jay  Avatar Pink Zane and Avatar Harumi](https://www.amazon.co.uk/dp/B07W5PXWMD/?tag=tolees0a-21) with a  25.01 % discount, with final price of 22.49 GBP (original: 29.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [Ninjago LEGO 71708 Gamer s Market 9 Minifigures Set with Digi
 
 ℹ️:
 
-- Kids can provide the ninjas with different weapons, select a ninja hat to create a new identity or purchase a collectible Key-Tana
 - Players inside the Prime Empire video game have to watch out for the bad Red Visors and evil Richie at the Market who want to capture them
-- Instructions PLUS offer an interactive guide, available on the free LEGO Life app, with zoom and rotate viewing tools to assist building
-- Includes 9 minifigures: Digi Jay, Scott, Avatar Nya, Avatar Cole, Okino, Red Visor, Richie, plus exclusive Avatar Pink Zane & Avatar Harumi
 - Features 3 scenes: a hat stall offering 6 different ninja hats, a weapons shop with a range of weapons for digi heroes, and a sword stand
+- Instructions PLUS offer an interactive guide, available on the free LEGO Life app, with zoom and rotate viewing tools to assist building
+- Kids can provide the ninjas with different weapons, select a ninja hat to create a new identity or purchase a collectible Key-Tana
+- Includes 9 minifigures: Digi Jay, Scott, Avatar Nya, Avatar Cole, Okino, Red Visor, Richie, plus exclusive Avatar Pink Zane & Avatar Harumi
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PXWMD/?tag=tolees0a-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Boost - Comandante Droide at 19.25 % discount'
-date: 2021-05-01 13:11:14
+date: 2021-05-02 15:29:20
 image: 'https://m.media-amazon.com/images/I/513riy2qpvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B07K9FLGCF/?tag=tolees-21'
 descuento: '19.25'
-average: '178.845190839695'
+average: '178.779201520913'
 ---
 
 With a final price of 161.49 EUR (original: 199.99 EUR) you can find [LEGO Star Wars Boost - Comandante Droide  Juguete de Construcción con 3 Robots Controlados por App  con R2-D2  Incluye sensor de distancia  motor y bluetooth  Set robótico programable  75253 ](https://www.amazon.es/dp/B07K9FLGCF/?tag=tolees-21) with a  19.25 % discount here:

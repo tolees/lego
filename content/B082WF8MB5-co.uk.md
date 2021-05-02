@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '26.45 % deal for LEGO 71367 Super Mario House & Yoshi Exp'
-date: 2021-04-11 19:27:56
-image: 'https://m.media-amazon.com/images/I/51Mt-xngc0L._SL400_.jpg'
+title: '28.01 % deal for LEGO 71367 Super Mario House & Yoshi Exp'
+date: 2021-05-02 15:17:14
+image: 'https://m.media-amazon.com/images/I/51Mt-xngc0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B082WF8MB5-co.uk LEGO 71367 Super Mario House & Yoshi Expansion Set...'
 sku: 'B082WF8MB5-co.uk'
 tags: [ 'Building & Construction Toys','Toys & Games','Toys Store','lego', ]
-actualPrice: 18.38 GBP
+actualPrice: 17.99 GBP
 currency: GBP
-price: 18.38
+price: 17.99
 comparePrice: 24.99 GBP
 prodname: 'LEGO 71367 Super Mario House & Yoshi Expansion Set Buildable Game'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WF8MB5/?tag=tolees0a-21'
-descuento: '26.45'
-average: '20.8525925925926'
+descuento: '28.01'
+average: '20.7503571428572'
 ---
 
-There's a deal [LEGO 71367 Super Mario House & Yoshi Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B082WF8MB5/?tag=tolees0a-21)  with  26.45 % discount, final price tag of  18.38 GBP (original: 24.99 GBP) here:
+There's a deal [LEGO 71367 Super Mario House & Yoshi Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B082WF8MB5/?tag=tolees0a-21)  with  28.01 % discount, final price tag of  17.99 GBP (original: 24.99 GBP) here:
 
-[![LEGO 71367 Super Mario House & Yoshi Exp](https://m.media-amazon.com/images/I/51Mt-xngc0L._SL400_.jpg)](https://www.amazon.co.uk/dp/B082WF8MB5/?tag=tolees0a-21)
+[![LEGO 71367 Super Mario House & Yoshi Exp](https://m.media-amazon.com/images/I/51Mt-xngc0L._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B082WF8MB5/?tag=tolees0a-21)
 
 ℹ️:
 
 - Rock LEGO Mario figure to sleep on the hammock, make him talk by placing him on his friend Yoshi’s tag and defeat the Goomba to win coins
 - Expand levels with this extension to the Adventures with Mario Starter Course set (sold separately) to play solo or compete with friends
-- Digital building instructions, zooming tools, tips for creative play and sharing options can be found in the free downloadable LEGO app
-- Features a buildable house with an opening door and roof and a Super Star Block underneath, and a hammock to rock Mario figure (not included)
 - The Starter Course, Expansion Sets and Power-Up Packs let fans construct their own unique enhanced levels for unlimited creative fun
+- Features a buildable house with an opening door and roof and a Super Star Block underneath, and a hammock to rock Mario figure (not included)
+- Digital building instructions, zooming tools, tips for creative play and sharing options can be found in the free downloadable LEGO app
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B082WF8MB5/?tag=tolees0a-21)
