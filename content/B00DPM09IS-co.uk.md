@@ -29,9 +29,9 @@ You've got [DUPLO Town LEGO 10928 Bakery Playset with Cafe Van  Cakes and
 ℹ️:
 
 - This educational large bricks toy for toddlers mixes everyday experience with imaginary scenarios-lets hop into the van to deliver cakes!
-- This toy for toddlers features a busy bakery with café and delivery van, table and chairs for customers, cakes, cupcakes and food appliances!
 - Includes a cash register, oven with cupcakes and oven gloves decorations, a food processor, 2 cupcakes and 2 decorated cakes
-- Includes 2 DUPLO figures: a girl and the bakery seller figure for pretend role-play of cooking and serving or delivering food to customers!
 - This fun playset encourages learning and development of language, social and emotional skills by recreating familiar scenes from everyday life
+- This toy for toddlers features a busy bakery with café and delivery van, table and chairs for customers, cakes, cupcakes and food appliances!
+- Includes 2 DUPLO figures: a girl and the bakery seller figure for pretend role-play of cooking and serving or delivering food to customers!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00DPM09IS/?tag=tolees0a-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.78 % deal for LEGO 21034 - Set Costruzioni Londra'
-date: 2021-04-24 11:20:34
+date: 2021-05-03 08:55:23
 image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21'
 descuento: '17.78'
-average: '39.2464204545457'
+average: '39.2336723163844'
 ---
 
 There's a deal [LEGO 21034 - Set Costruzioni Londra](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)  with  17.78 % discount, final price tag of  36.99 EUR (original: 44.99 EUR) here:
