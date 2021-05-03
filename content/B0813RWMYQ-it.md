@@ -28,10 +28,10 @@ You've got [LEGO DUPLO Cantiere di Demolizione  Set da Costruzione con 
 
 ℹ️:
 
-- La palla da demolizione oscilla da un lato all’altro, buttando giù il piccolo edificio
-- Progettati per coinvolgere, educare e divertire i bambini in età prescolare dai 2 anni in su
-- Questi veicoli adatti per i più piccoli sono abbastanza grandi per lavorare sul serio
 - Genitori e bambini in età prescolare possono divertirsi con 3 straordinari veicoli da cantiere
+- Progettati per coinvolgere, educare e divertire i bambini in età prescolare dai 2 anni in su
+- La palla da demolizione oscilla da un lato all’altro, buttando giù il piccolo edificio
 - Include 3 operai edili, una gru, un autoribaltabile e un bulldozer
+- Questi veicoli adatti per i più piccoli sono abbastanza grandi per lavorare sul serio
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B0813RWMYQ/?tag=tolees00-21)
