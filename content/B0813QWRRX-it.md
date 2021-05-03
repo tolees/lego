@@ -28,10 +28,10 @@ You've got [LEGO DUPLO Cars Il Giorno della Gara di Saetta McQueen  Gi
 
 ℹ️:
 
-- Inventando nuove storie e avvincenti giochi di ruolo, i bambini potranno acquisire capacità motorie complesse
 - Un regalo adatto di Natale, di compleanno o per qualsiasi altra occasione per i bambini e le bambine dai 2 anni in su
-- Il set di gioco LEGO DUPLO Disney e Pixar Cars farà sfrecciare le giovani menti
-- Partecipa insieme a Saetta McQueen e Cricchetto alle gare e alle attività in officina
 - Saetta McQueen misura 6 cm di lunghezza e Cricchetto 12 cm
+- Inventando nuove storie e avvincenti giochi di ruolo, i bambini potranno acquisire capacità motorie complesse
+- Partecipa insieme a Saetta McQueen e Cricchetto alle gare e alle attività in officina
+- Il set di gioco LEGO DUPLO Disney e Pixar Cars farà sfrecciare le giovani menti
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B0813QWRRX/?tag=tolees00-21)
