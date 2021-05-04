@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.09 % deal for Star Wars TM - LEGO 75267 Star Wars Mand'
-date: 2021-05-03 22:08:17
+date: 2021-05-04 22:30:24
 image: 'https://m.media-amazon.com/images/I/518rbzVp2iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Star Wars TM'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TLXR3/?tag=tolees0a-21'
 descuento: '23.09'
-average: '15.76593220339'
+average: '15.6696666666668'
 ---
 
 There's a deal [Star Wars TM - LEGO 75267 Star Wars Mandalorian Battle Pack Set with 4 Minifigures  Speeder Bike and Mini-fort](https://www.amazon.co.uk/dp/B07W7TLXR3/?tag=tolees0a-21)  with  23.09 % discount, final price tag of  9.99 GBP (original: 12.99 GBP) here:
@@ -28,9 +28,9 @@ There's a deal [Star Wars TM - LEGO 75267 Star Wars Mandalorian Battle Pac
 
 ℹ️:
 
-- Includes a defense fort with an attachment point for a blaster, and a speeder bike
 - Fire the stud blasters then seat the trooper on a stud-shooting speeder
 - Features 4 Star Wars Mandalorian warrior minifigures, each with stud-shooting blasters
+- Includes a defense fort with an attachment point for a blaster, and a speeder bike
 - Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show
 - Expand your LEGO Star Wars collection with this great battle pack
 
