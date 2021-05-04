@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 27.93 % for LEGO 41425 Friends Olivias Blumengarten '
-date: 2021-04-17 08:07:56
+title: 'Discount of 42.44 % for LEGO 41425 Friends Olivias Blumengarten '
+date: 2021-05-04 16:37:41
 image: 'https://m.media-amazon.com/images/I/51S-g6LkqHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0813RDB9C-de LEGO 41425 Friends Olivias Blumengarten Spielset mit...'
 sku: 'B0813RDB9C-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 7.2 EUR
+actualPrice: 5.75 EUR
 currency: EUR
-price: 7.2
+price: 5.75
 comparePrice: 9.99 EUR
 prodname: 'LEGO 41425 Friends Olivias Blumengarten Spielset mit Gartengeräten  Zobo-Roboterfigur und Spielzeug-Wagen zum Sammeln von Pflanzen'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813RDB9C/?tag=tolees0ca-21'
-descuento: '27.93'
-average: '9.0'
+descuento: '42.44'
+average: '8.76785714285714'
 ---
 
-You've got [LEGO 41425 Friends Olivias Blumengarten Spielset mit Gartengeräten  Zobo-Roboterfigur und Spielzeug-Wagen zum Sammeln von Pflanzen](https://www.amazon.de/dp/B0813RDB9C/?tag=tolees0ca-21) with a  27.93 % discount, with final price of 7.2 EUR (original: 9.99 EUR) at the following link:
+You've got [LEGO 41425 Friends Olivias Blumengarten Spielset mit Gartengeräten  Zobo-Roboterfigur und Spielzeug-Wagen zum Sammeln von Pflanzen](https://www.amazon.de/dp/B0813RDB9C/?tag=tolees0ca-21) with a  42.44 % discount, with final price of 5.75 EUR (original: 9.99 EUR) at the following link:
 
 [![LEGO 41425 Friends Olivias Blumengarten ](https://m.media-amazon.com/images/I/51S-g6LkqHL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0813RDB9C/?tag=tolees0ca-21)
 

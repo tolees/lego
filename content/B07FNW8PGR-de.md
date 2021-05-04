@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 24.95 % for LEGO Speed Champions - Lego 75892 Speed '
-date: 2021-04-12 08:18:17
-image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL400_.jpg'
+date: 2021-05-04 16:37:40
+image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'LEGO Speed Champions'
 buyurl: 'https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21'
 descuento: '24.95'
-average: '14.5947325102878'
+average: '14.5868571428569'
 ---
 
 You've got [LEGO Speed Champions - Lego 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennfahrer-Minifigur  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21) with a  24.95 % discount, with final price of 11.25 EUR (original: 14.99 EUR) at the following link:
 
-[![LEGO Speed Champions - Lego 75892 Speed ](https://m.media-amazon.com/images/I/51N8SILh5RL._SL400_.jpg)](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)
+[![LEGO Speed Champions - Lego 75892 Speed ](https://m.media-amazon.com/images/I/51N8SILh5RL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Zubehör: McLaren-Rennfahrerhelm und Schraubenschlüssel.
-- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
 - Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
 - Der McLaren Senna zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und austauschbaren Felgen, Heckspoiler, transparenten Elementen als Leuchten, Aufklebern mit den Logos von McLaren und Senna und authentischen Designdetails.
+- Zubehör: McLaren-Rennfahrerhelm und Schraubenschlüssel.
+- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
 - Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)
