@@ -28,10 +28,10 @@ There's a deal [Star Wars TM - LEGO 75267 Star Wars Mandalorian Battle Pac
 
 ℹ️:
 
+- Expand your LEGO Star Wars collection with this great battle pack
 - Fire the stud blasters then seat the trooper on a stud-shooting speeder
 - Features 4 Star Wars Mandalorian warrior minifigures, each with stud-shooting blasters
 - Includes a defense fort with an attachment point for a blaster, and a speeder bike
 - Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show
-- Expand your LEGO Star Wars collection with this great battle pack
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W7TLXR3/?tag=tolees0a-21)
