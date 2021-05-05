@@ -28,10 +28,10 @@ With a final price of 37.66 EUR (original: 49.99 EUR) you can find [LEGO 43185 D
 
 ℹ️:
 
-- Bouns Boot ist 13 cm hoch, 28 cm lang und 8 cm breit. Viele tolle Details regen die Fantasie an und bieten jedes Mal wieder Bau- und Spielspaß
 - Die 3 Modelle in diesem Set regen die Fantasie an und lassen sich für noch mehr Spielspaß mit den anderen LEGO ǀ Disney Sets zum Film „Raya und der letzte Drache“ kombinieren
 - Noch hilfreicher als die gedruckte Bauanleitung sind die digitalen Instructions PLUS in der LEGO Building Instructions App. Jüngere Baumeister können während des Bauens eine digitale Modellansicht vergrößern und näher betrachten
 - Wecke die Kreativität eines Kindes mit diesem faszinierenden Set. LEGO ǀ Disney Bouns Boot (43185) beinhaltet jede Menge Zubehör und Funktionen, die Kinder zu fantasievollen Rollenspielen anregen
+- Bouns Boot ist 13 cm hoch, 28 cm lang und 8 cm breit. Viele tolle Details regen die Fantasie an und bieten jedes Mal wieder Bau- und Spielspaß
 - Das Set aus großem Krabbenkutter, kleinerem Boot und Steg basiert auf dem neuen Disney Film „Raya und der letzte Drache“. Sisu in Menschengestalt und Boun als Spielfiguren sowie 3 LEGO Ongi-Figuren sind ebenfalls enthalten
 - Tolle Belohnung für Jungen und Mädchen ab 6 Jahren. Fans des Disney Films „Raya und der letzte Drache“ werden dieses Set lieben, denn die pfiffigen Modelle ermöglichen viele fantasievolle Rollenspiele
 
