@@ -28,11 +28,11 @@ With a final price of 14.71 EUR (original: 19.99 EUR) you can find [LEGO 41924 D
 
 ℹ️:
 
-- Bereiten Sie einem Kind mit der LEGO DOTS Geheimbox Katze (41924) eine große Freude. Das Set beinhaltet eine Box mit 2 Geheimfächern, eine Aufbewahrungsschale und Steinchen. Der Spielspaß beginnt schon mit dem Öffnen der Schale
+- Schon beim Zusammensetzen der Box ist Kreativität gefragt. Dank der einfachen Bauanleitung gelingt dieser erste Schritt im Handumdrehen – genau wie das Aufräumen mithilfe der beiliegenden Aufbewahrungsschale.
 - Designfans werden von diesem fantasievollen Spielzeug begeistert sein. Die nützliche Geheimbox ist ein tolles Ostergeschenk für Kinder, die gerne basteln und Accessoires selbst gestalten
+- Bereiten Sie einem Kind mit der LEGO DOTS Geheimbox Katze (41924) eine große Freude. Das Set beinhaltet eine Box mit 2 Geheimfächern, eine Aufbewahrungsschale und Steinchen. Der Spielspaß beginnt schon mit dem Öffnen der Schale
+- Designerversteck! Die Geheimbox ist 12 cm hoch, 7 cm breit und 7 cm tief und bietet genug Platz, um kleine Geheimnisse sicher aufzubewahren
 - Die enthaltenen Steinchen eignen sich für coole Designs. Kinder können aber auch die Steinchen aus anderen Sets mit Deko-Accessoires oder aus dem DOTS Ergänzungsset Geheimnisse (41921) benutzen
 - Beim Verzieren der Geheimbox können Kinder ihr Designtalent und ihre Persönlichkeit zum Ausdruck bringen, indem sie die auf der Verpackung und in der Bauanleitung vorgeschlagenen Muster nachbilden oder sich eigene lustige Designs ausdenken
-- Designerversteck! Die Geheimbox ist 12 cm hoch, 7 cm breit und 7 cm tief und bietet genug Platz, um kleine Geheimnisse sicher aufzubewahren
-- Schon beim Zusammensetzen der Box ist Kreativität gefragt. Dank der einfachen Bauanleitung gelingt dieser erste Schritt im Handumdrehen – genau wie das Aufräumen mithilfe der beiliegenden Aufbewahrungsschale.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4HF1SX/?tag=tolees0ca-21)
