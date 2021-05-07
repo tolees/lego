@@ -28,10 +28,10 @@ You've got [LEGO Moto della Polizia](https://www.amazon.it/dp/B07FNS6J8N/?tag=to
 
 ℹ️:
 
-- Contiene una moto della polizia giocattolo e un chiosco della polizia con finestra apribile.
 - Incoraggia lo sviluppo del linguaggio e il gioco simbolico attraverso le situazioni di intervento della polizia e il controllo del traffico.
-- Divertiti con questo fantastico tema della polizia mentre il tuo bambino in età prescolare guida la motocicletta alla ricerca di persone che lo possano aiutare!
+- Contiene una moto della polizia giocattolo e un chiosco della polizia con finestra apribile.
 - Include il personaggio dell’agente di polizia LEGO DUPLO.
 - Include anche un paletta con scritta “stop” e “go”.
+- Divertiti con questo fantastico tema della polizia mentre il tuo bambino in età prescolare guida la motocicletta alla ricerca di persone che lo possano aiutare!
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B07FNS6J8N/?tag=tolees00-21)
