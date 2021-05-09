@@ -28,11 +28,11 @@ You've got [LEGO Star Wars - Speeder Terrestre de Moloch  Juguete de La Guerra d
 
 ℹ️:
 
+- Incluye también la pistola bláster de moloch y el látigo de rebolt
+- Interpreta las legendarias escenas de persecución de la película de han solo con el speeder terrestre de han solo (75209)
+- Cuenta con cabina abierta para una minifigura, jaula que se abre para los perros de caza, compartimento de almacenamiento trasero, cañón de repetición y ruedas ocultas para que parezca flotar
 - Incluye minifiguras de moloch y rebolt; incluye también 2 figuras de perros de caza corellianos
 - Este juguete lego star wars es apto para niños de 8 a 12 años
 - Mide más de 6 cm de altura, 16 cm de longitud y 11 cm de ancho
-- Cuenta con cabina abierta para una minifigura, jaula que se abre para los perros de caza, compartimento de almacenamiento trasero, cañón de repetición y ruedas ocultas para que parezca flotar
-- Interpreta las legendarias escenas de persecución de la película de han solo con el speeder terrestre de han solo (75209)
-- Incluye también la pistola bláster de moloch y el látigo de rebolt
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B075GQBNPL/?tag=tolees-21)
