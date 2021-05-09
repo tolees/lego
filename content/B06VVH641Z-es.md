@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.65 % deal for LEGO 75176 Resistance Transport Pod  Mul'
-date: 2021-05-08 19:53:59
+date: 2021-05-09 19:57:18
 image: 'https://m.media-amazon.com/images/I/51aGCG+5e3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B06VVH641Z/?tag=tolees-21'
 descuento: '15.65'
-average: '37.4829411764706'
+average: '37.4962857142857'
 ---
 
 There's a deal [LEGO 75176 Resistance Transport Pod  Multicolor](https://www.amazon.es/dp/B06VVH641Z/?tag=tolees-21)  with  15.65 % discount, final price tag of  37.95 EUR (original: 44.99 EUR) here:
@@ -29,9 +29,9 @@ There's a deal [LEGO 75176 Resistance Transport Pod  Multicolor](https://www.ama
 ℹ️:
 
 - Usa la rueda para disparar los cañones automáticos
-- Armas incluidas: bláster de finn y arma aturdidora y pistola bláster de rose
 - Incluye minifiguras de finn y rose, así como una figura de bb-8
-- Quita el panel superior para acceder al escondite clandestino del polizón bb-8
 - Cuenta con cabina para 2 minifiguras con parabrisas desmontable, paneles y un almacén de armas, cañón lateral orientable y dos cañones automáticos
+- Quita el panel superior para acceder al escondite clandestino del polizón bb-8
+- Armas incluidas: bláster de finn y arma aturdidora y pistola bláster de rose
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B06VVH641Z/?tag=tolees-21)
