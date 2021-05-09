@@ -28,9 +28,9 @@ There's a deal [LEGO 75176 Resistance Transport Pod  Multicolor](https://www.ama
 
 ℹ️:
 
+- Cuenta con cabina para 2 minifiguras con parabrisas desmontable, paneles y un almacén de armas, cañón lateral orientable y dos cañones automáticos
 - Usa la rueda para disparar los cañones automáticos
 - Incluye minifiguras de finn y rose, así como una figura de bb-8
-- Cuenta con cabina para 2 minifiguras con parabrisas desmontable, paneles y un almacén de armas, cañón lateral orientable y dos cañones automáticos
 - Quita el panel superior para acceder al escondite clandestino del polizón bb-8
 - Armas incluidas: bláster de finn y arma aturdidora y pistola bláster de rose
 
