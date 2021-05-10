@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.21 % deal for LEGO 42120 Technic Luftkissenboot für Re'
-date: 2021-05-03 08:26:48
+date: 2021-05-10 12:37:38
 image: 'https://m.media-amazon.com/images/I/51VIQQoIQvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4SR6C8/?tag=tolees0ca-21'
 descuento: '27.21'
-average: '25.6975555555555'
+average: '25.6746808510638'
 ---
 
 There's a deal [LEGO 42120 Technic Luftkissenboot für Rettungseinsätze  2-in-1 Modell  Bauset für Jungen und Mädchen  Spielzeug ab 8 Jahren](https://www.amazon.de/dp/B08G4SR6C8/?tag=tolees0ca-21)  with  27.21 % discount, final price tag of  21.83 EUR (original: 29.99 EUR) here:

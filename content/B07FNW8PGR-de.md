@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 24.95 % for LEGO Speed Champions - Lego 75892 Speed '
-date: 2021-05-04 16:37:40
+date: 2021-05-10 12:30:51
 image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO Speed Champions'
 buyurl: 'https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21'
 descuento: '24.95'
-average: '14.5868571428569'
+average: '14.5789473684208'
 ---
 
 You've got [LEGO Speed Champions - Lego 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennfahrer-Minifigur  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21) with a  24.95 % discount, with final price of 11.25 EUR (original: 14.99 EUR) at the following link:
