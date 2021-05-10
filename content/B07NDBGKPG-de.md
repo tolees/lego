@@ -28,10 +28,10 @@ With a final price of 29.99 EUR (original: 39.99 EUR) you can find [Lego Minecra
 
 ℹ️:
 
-- Für noch mehr kreativen Bauspaß kann das LEGO Minecraft Set Die Brücke (21154) zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
+- 370 Teile – Für Mädchen und Jungen ab 8 Jahren, für Fans und für große Kinder jedes Alters
 - Das Bauset von LEGO Minecraft zum Sammeln enthält eine Alex-Minifigur mit Minecraft-Schwert sowie ein Wither-Skelett und 2x Lohefiguren mit herumwirbelnden Ruten
 - Brich auf zur Brücke mit fliegenden Lohen und Steinschlag, brennender Lava-, Magma-, Seelensand-, Glowstone-, Kies- und Netherquarz-Blöcken, 2 Tränken und einer Truhe mit einem Schatz
-- 370 Teile – Für Mädchen und Jungen ab 8 Jahren, für Fans und für große Kinder jedes Alters
 - Das Modell ist 11 cm hoch, 25 cm breit und 13 cm tief
+- Für noch mehr kreativen Bauspaß kann das LEGO Minecraft Set Die Brücke (21154) zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07NDBGKPG/?tag=tolees0ca-21)
