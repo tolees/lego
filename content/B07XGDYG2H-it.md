@@ -28,10 +28,10 @@ You've got [LEGO- Costruzioni  Multicolore  21318](https://www.amazon.it/dp/B07X
 
 ℹ️:
 
+- Questo impegnativo giocattolo costruibile di 3.036 pezzi contiene una base con paesaggio, albero con foglie intercambiabili
+- La cima degli alberi e i tetti delle casette sono rimovibili per un facile accesso e gioco.
 - Casa sullalbero LEGO con 3 cabine: camera da letto principale, bagno e cameretta dei bambini.
 - Foglie intercambiabili: verdi in estate e gialle in autunno
-- La cima degli alberi e i tetti delle casette sono rimovibili per un facile accesso e gioco.
 - Questo set LEGO Ideas include 4 minifigure: la mamma, il papà e 2 bambini, più un uccellino.
-- Questo impegnativo giocattolo costruibile di 3.036 pezzi contiene una base con paesaggio, albero con foglie intercambiabili
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B07XGDYG2H/?tag=tolees00-21)
