@@ -28,11 +28,11 @@ With a final price of 22.49 EUR (original: 29.99 EUR) you can find [LEGO Tren de
 
 ℹ️:
 
-- Diseñado por expertos, incluye elementos que las manitas de tu bebé podrán coger y colocar fácilmente, así como divertidos accesorios que estimulan el juego de interpretación: una guitarra, globos flexibles, regalos y un vestido de tela para Minnie.
 - Para mayores de 2 años. Este excepcional regalo convertirá el cumpleaños de cualquier bebé en una celebración memorable.
-- Todos los juegos de construcción LEGO DUPLO se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan los requisitos de las normas más estrictas en materia de seguridad infantil.
+- El tren mide aproximadamente 15,5 cm de altura, 35,5 cm de longitud y 13,5 cm de anchura. Este versátil juguete de construcción para bebés ofrece la oportunidad de jugar de muchas formas distintas y muy entretenidas.
 - Las sencillas instrucciones impresas permiten a los papás compartir una agradable experiencia de construcción con sus peques.
 - El Tren de Cumpleaños de Mickey y Minnie LEGO DUPLO su motricidad fina mientras construyen y juegan con el tren, aprenden a reconocer los números mientras apilan los ladrillos y desarrollan su conciencia social y sensibilidad emocional mientras interpretan historias con los personajes Disney.
-- El tren mide aproximadamente 15,5 cm de altura, 35,5 cm de longitud y 13,5 cm de anchura. Este versátil juguete de construcción para bebés ofrece la oportunidad de jugar de muchas formas distintas y muy entretenidas.
+- Diseñado por expertos, incluye elementos que las manitas de tu bebé podrán coger y colocar fácilmente, así como divertidos accesorios que estimulan el juego de interpretación: una guitarra, globos flexibles, regalos y un vestido de tela para Minnie.
+- Todos los juegos de construcción LEGO DUPLO se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan los requisitos de las normas más estrictas en materia de seguridad infantil.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08GPKTN2B/?tag=tolees-21)
