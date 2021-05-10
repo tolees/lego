@@ -28,10 +28,10 @@ There's a deal [dc comics - LEGO Dimensions Level Pack Mission Imp.](https://www
 
 ℹ️:
 
-- metterlo sul Lego - Giocattoli - Pad
 - operatingSystem: Nessun sistema operativo
 - Editore: Warner
 - Estendere la vostra avventura attraverso la raccolta di dati ulteriori mini, veicoli, oggetti e nuovo livello
 - indipendente dalla piattaforma
+- metterlo sul Lego - Giocattoli - Pad
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B01H1QWWEW/?tag=tolees00-21)

@@ -30,8 +30,8 @@ With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 10909 D
 
 - 15 einfach zu bauende Modelle inspirieren zu einem völlig freien Bauerlebnis
 - Kleinkinder werden ans Bauen herangeführt und in ihrer Entwicklung gefördert
-- Kleinkinder kennen jedes der zu bauenden Modelle aus dem Alltag
 - Dieses kreative Bauspielzeug bereitet Jungen und Mädchen ab 18 Monaten große Freude
+- Kleinkinder kennen jedes der zu bauenden Modelle aus dem Alltag
 - Dieser bunte Mix aus Steinen regt zum kreativen Spielen an
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B081F8QRJ5/?tag=tolees0ca-21)
