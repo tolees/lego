@@ -28,10 +28,10 @@ With a final price of 15.96 GBP (original: 24.99 GBP) you can find [LEGO 60214�
 
 ℹ️:
 
+- Help your child be a hero with the awesome LEGO City 60214 Burger Bar Fire Rescue set!
+- The simple guide to building and creative play will help your young firefighter understand the purpose of the building steps and grow their imagination and confidence.
 - This fun set also features a fire truck with minifigure cab, 2 storagecompartments and rotating back end!
 - This action-packed LEGO City set makes an ideal gift for preschoolers and youngsters.
 - Squeeze the bellows on the water pump to launch the water elements and knock down the flames!
-- The simple guide to building and creative play will help your young firefighter understand the purpose of the building steps and grow their imagination and confidence.
-- Help your child be a hero with the awesome LEGO City 60214 Burger Bar Fire Rescue set!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNMXFPZ/?tag=tolees0a-21)
