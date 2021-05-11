@@ -28,8 +28,8 @@ With a final price of 29.99 GBP (original: 39.99 GBP) you can find [LEGO  2115
 
 ℹ️:
 
-- Features a buildable Minecraft Nether setting with a bridge, lava, magma, soul sand, glowstone, gravel and nether quartz blocks
 - Kids may activate the gravel rockfall and the flying blaze functions as they battle the hostile mobs to cross the bridge and win the treasure
+- Features a buildable Minecraft Nether setting with a bridge, lava, magma, soul sand, glowstone, gravel and nether quartz blocks
 - Includes an Alex minifigure, wither skeleton, brewing stand, 2 blaze figures with spinning blaze rods, 2 potions and a chest with treasure
 - Kids can also combine this collectible Minecraft playset with other sets to create a unique LEGO Minecraft universe for both play and display
 - Weapons include 2 Minecraft swords and a pickaxe, and accessories include a chest with treasure elements
