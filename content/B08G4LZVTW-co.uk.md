@@ -28,9 +28,9 @@ You've got [LEGO 42122 Technic Jeep Wrangler 4x4 Toy Car  Off Roader S
 
 ℹ️:
 
+- The world of LEGO Technic collectible toys with realistic mechanisms is a great way to introduce kids to engineering concepts
 - Features Jeep Wrangler SUV car model with an eye-catching, realistic yellow-and-black colour scheme, that looks great in action or on display
 - Kids will love the cars button to operate the front steering, opening doors and hood, and prestigious Jeep Wrangler Rubicon branding
-- The world of LEGO Technic collectible toys with realistic mechanisms is a great way to introduce kids to engineering concepts
 - Includes authentic Jeep Wrangler details, like the classic round headlights, seven-slot grille, full-size spare tyre and fold-down back seats
 - With front steering, powerful axle-articulation suspension and a winch, kids can play out a world of off-roading adventures
 
