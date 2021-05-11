@@ -28,7 +28,7 @@ With a final price of 23.44 EUR (original: 50.0 EUR) you can find [Warner Bros -
 
 ℹ️:
 
-- Lego Marvel Super Heroes: Vesti i panni di diversi personaggi mentre uniscono le forze per impedire a Loki e a unorda di Criminali Marvel di assemblare unarma capace di distruggere il pianeta
 - La collezione Lego Marvel include tre giochi Lego Marvel: Lego Marvel Super Heroes, Lego Marvel Avengers e Lego Marvel Super Heroes, più tutto il contenuto del Season Pass di ogni gioco!
+- Lego Marvel Super Heroes: Vesti i panni di diversi personaggi mentre uniscono le forze per impedire a Loki e a unorda di Criminali Marvel di assemblare unarma capace di distruggere il pianeta
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B085SYSPTD/?tag=tolees00-21)
