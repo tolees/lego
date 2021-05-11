@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Autobús Noctámbulo at 16.08 % discount'
-date: 2021-05-10 02:00:09
+date: 2021-05-11 09:47:36
 image: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21'
 descuento: '16.08'
-average: '34.9563101604278'
+average: '34.9488829787234'
 ---
 
 With a final price of 33.56 EUR (original: 39.99 EUR) you can find [LEGO Autobús Noctámbulo](https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21) with a  16.08 % discount here:
