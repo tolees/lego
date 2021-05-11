@@ -28,10 +28,10 @@ There's a deal [LEGO 71384 Super Mario Penguin Mario Power-Up Pack  Expa
 
 ℹ️:
 
-- Features an interactive Penguin suit for LEGO Mario figure (not included), adding belly-sliding fun to LEGO Mario Starter Course (71360) playset
-- Collectible LEGO Super Mario toy playsets bring an iconic Nintendo character into the real world, offering limitless potential to expand
 - Other LEGO Mario upgrades are available to use with the Starter Course and Expansion Sets, including the Tanooki Mario Power-Up Pack (71385)
 - Collectible LEGO Super Mario toy sets: the Starter Course & Expansion Sets, plus Power-Up Packs, allow fans to create their own unique levels
+- Collectible LEGO Super Mario toy playsets bring an iconic Nintendo character into the real world, offering limitless potential to expand
+- Features an interactive Penguin suit for LEGO Mario figure (not included), adding belly-sliding fun to LEGO Mario Starter Course (71360) playset
 - When LEGO Mario is fitted with this suit, players can collect extra digital coins for making him slide on his belly like a penguin
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4RP2DC/?tag=tolees0a-21)
