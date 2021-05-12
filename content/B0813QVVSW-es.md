@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 17.37 % for LEGO Caza Estelar del General Grievous'
-date: 2021-05-11 02:02:10
+date: 2021-05-12 03:56:08
 image: 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813QVVSW/?tag=tolees-21'
 descuento: '17.37'
-average: '74.6933165829146'
+average: '74.6924812030075'
 ---
 
 You've got [LEGO Caza Estelar del General Grievous](https://www.amazon.es/dp/B0813QVVSW/?tag=tolees-21) with a  17.37 % discount, with final price of 74.36 EUR (original: 89.99 EUR) at the following link:
@@ -28,15 +28,15 @@ You've got [LEGO Caza Estelar del General Grievous](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- El Caza Estelar del General Grievous está equipado con cabina abatible para una minifigura LEGO, 2 cañones automáticos y tren de aterrizaje retráctil; todos sus detalles y accesorios activarán la imaginación de los fans mientras juegan a solas o comparten la diversión con amigos.
-- Los ladrillos LEGO llevan cumpliendo escrupulosamente las normas más estrictas del sector desde 1958; por ello, ofrecen siempre las mismas cualidades y se conectan y separan fácilmente una y otra vez… ¡sin necesidad de usar la Fuerza!
-- No hay problema. Trae instrucciones ilustradas paso a paso para que pueda construirlo él solo… ¡y sentirse tan especial como un Jedi!
-- ¡No requiere pilas! Este popular juguete de construcción LEGO Star Wars con una nave espacial se alimenta de la imaginación de los niños, así que podrán usar el caza estelar y las minifiguras LEGO para interpretar las mejores aventuras galácticas.
 - ¿Estás pensando en comprarle este kit de construcción de una nave espacial a un fan de Star Wars que nunca ha construido ningún set LEGO
+- Esta maqueta de construcción mide aproximadamente 8 cm de altura, 30 cm de longitud y 17 cm de anchura. Los fans también podrán hacer que se lance a la batalla en el videojuego LEGO Star Wars: La Saga Skywalker.
+- No hay problema. Trae instrucciones ilustradas paso a paso para que pueda construirlo él solo… ¡y sentirse tan especial como un Jedi!
+- El Caza Estelar del General Grievous está equipado con cabina abatible para una minifigura LEGO, 2 cañones automáticos y tren de aterrizaje retráctil; todos sus detalles y accesorios activarán la imaginación de los fans mientras juegan a solas o comparten la diversión con amigos.
+- Este alucinante juguete de construcción para niños incluye 3 minifiguras LEGO Star Wars (el General Grievous, Obi-Wan Kenobi con una espada láser y un soldado clon aerotransportado con un bláster) para interpretar divertidas y creativas historias.
+- ¡No requiere pilas! Este popular juguete de construcción LEGO Star Wars con una nave espacial se alimenta de la imaginación de los niños, así que podrán usar el caza estelar y las minifiguras LEGO para interpretar las mejores aventuras galácticas.
 - Los niños podrán representar las legendarias batallas entre el General Grievous y Obi-Wan Kenobi con el juego de construcción Caza Estelar del General Grievous (75286), una fantástica versión de la nave que aparece en Star Wars: La Venganza de los Sith.
+- Los ladrillos LEGO llevan cumpliendo escrupulosamente las normas más estrictas del sector desde 1958; por ello, ofrecen siempre las mismas cualidades y se conectan y separan fácilmente una y otra vez… ¡sin necesidad de usar la Fuerza!
 - Hay muchas maneras de jugar con este set de 487 piezas, por eso es un divertido regalo de cumpleaños o Navidad para niños y niñas a partir de 9 años: les descubrirá los juguetes de construcción LEGO Star Wars o les servirá para ampliar su colección.
 - Hay sets LEGO Star Wars a la medida de los gustos de cualquier fan, tenga la edad que tenga y tanto si lo que quiere es recrear escenas de las películas como si lo que le apasiona es interpretar sus propias historias o, simplemente, construir y exponer las espectaculares maquetas de construcción.
-- Este alucinante juguete de construcción para niños incluye 3 minifiguras LEGO Star Wars (el General Grievous, Obi-Wan Kenobi con una espada láser y un soldado clon aerotransportado con un bláster) para interpretar divertidas y creativas historias.
-- Esta maqueta de construcción mide aproximadamente 8 cm de altura, 30 cm de longitud y 17 cm de anchura. Los fans también podrán hacer que se lance a la batalla en el videojuego LEGO Star Wars: La Saga Skywalker.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B0813QVVSW/?tag=tolees-21)
