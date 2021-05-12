@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hidden Side LEGO 70427 Welcome to the wi at 25.01 % discount'
-date: 2021-04-18 11:49:39
+date: 2021-05-12 15:38:55
 image: 'https://m.media-amazon.com/images/I/51Ct6JR5e+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Hidden Side'
 buyurl: 'https://www.amazon.co.uk/dp/B07WBZZLSJ/?tag=tolees0a-21'
 descuento: '25.01'
-average: '13.045'
+average: '13.1933333333333'
 ---
 
 With a final price of 13.49 GBP (original: 17.99 GBP) you can find [Hidden Side LEGO 70427 Welcome to the with AR Games App](https://www.amazon.co.uk/dp/B07WBZZLSJ/?tag=tolees0a-21) with a  25.01 % discount here:
