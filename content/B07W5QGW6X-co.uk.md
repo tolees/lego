@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 29.41 % for LEGO 41253 Trolls World Tour Lonesome Fl'
-date: 2021-05-12 15:38:45
+date: 2021-05-13 19:30:45
 image: 'https://m.media-amazon.com/images/I/51JwLwF-YCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5QGW6X/?tag=tolees0a-21'
 descuento: '29.41'
-average: '16.4311111111111'
+average: '16.4947368421053'
 ---
 
 You've got [LEGO 41253 Trolls World Tour Lonesome Flats Raft Adventure Playset with Poppy  Branch and Hicory](https://www.amazon.co.uk/dp/B07W5QGW6X/?tag=tolees0a-21) with a  29.41 % discount, with final price of 17.64 GBP (original: 24.99 GBP) at the following link:
