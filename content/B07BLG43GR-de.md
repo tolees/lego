@@ -1,0 +1,37 @@
+---
+layout: post
+title: '16.27 % deal for Lego Creator - LEGO Creator Expert James'
+date: 2021-05-15 16:05:01
+image: 'https://m.media-amazon.com/images/I/511Sf7GhUcL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07BLG43GR-de Lego Creator - LEGO Creator Expert James Bond Aston Martin...'
+sku: 'B07BLG43GR-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','lego creator', ]
+actualPrice: 125.58 EUR
+currency: EUR
+price: 125.58
+comparePrice: 149.99 EUR
+prodname: 'Lego Creator - LEGO Creator Expert James Bond Aston Martin DB5  10262  LEGO für Sammler'
+country: 'de'
+flag: '🇩🇪'
+brand: 'Lego Creator'
+buyurl: 'https://www.amazon.de/dp/B07BLG43GR/?tag=tolees0ca-21'
+descuento: '16.27'
+average: '138.623956043953'
+---
+
+There's a deal [Lego Creator - LEGO Creator Expert James Bond Aston Martin DB5  10262  LEGO für Sammler](https://www.amazon.de/dp/B07BLG43GR/?tag=tolees0ca-21)  with  16.27 % discount, final price tag of  125.58 EUR (original: 149.99 EUR) here:
+
+[![Lego Creator - LEGO Creator Expert James](https://m.media-amazon.com/images/I/511Sf7GhUcL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07BLG43GR/?tag=tolees0ca-21)
+
+ℹ️:
+
+- Hol dir diese Nachbildung des Aston Martin DB5 aus dem James Bond Klassiker „Goldfinger“ – ein echtes Sammlerstück für jeden Fan.
+- Authentische Nachbildung des Sportwagens Aston Martin DB5 aus dem Jahr 1965, der ein klassisches Design besitzt.
+- Dieses Set enthält mehr als 1.290 Teile und ist geeignet für Fans ab 16 Jahren.
+- Zieh die Heckstoßstange nach hinten, um ungebetene Mitfahrer mit dem Schleudersitz rauszukatapultieren.
+- Das LEGO Modell James Bond Aston Martin DB5 verfügt außerdem über aufklappbare Türen und ein detailreiches Interieur mit einfahrbarem Verfolgungscomputer und einem Türfach mit Telefon.
+
+[🛒 Buy it now!!](https://www.amazon.de/dp/B07BLG43GR/?tag=tolees0ca-21)
