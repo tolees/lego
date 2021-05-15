@@ -28,8 +28,8 @@ There's a deal [LEGO DOTS Portaoggetti da Scrivania  Accessori Fai da Te
 
 ℹ️:
 
-- I bambini possono creare modelli particolari utilizzando gli elementi inclusi o aggiungendo elementi di altri set
 - Creazione funzionale, la dimensione adatta per la cameretta di un bambino
+- I bambini possono creare modelli particolari utilizzando gli elementi inclusi o aggiungendo elementi di altri set
 - Stimola la creatività fai da te con questo portaoggetti da scrivania con cassetto e portafoto
 - Accendi la passione degli amanti delle attività artistiche e manuali con questo divertente kit che ispira la creatività
 - Migliora le competenze nel design liberando la creatività e trovando ispirazione in attività artistiche e manuali
