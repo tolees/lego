@@ -28,10 +28,10 @@ You've got [LEGO Classic Mattoncini Creativi  Set di Costruzioni Classico
 
 ℹ️:
 
-- Contiene 2 paia di occhi per realizzare tante fantastiche creature
-- LEGO Classic è ideale per ispirare la creatività con i mattoncini LEGO
 - Include una gamma di mattoncini LEGO in 20 colori diversi
-- Include un separatore di mattoncini e una robusta scatola per riporre gli elementi
 - Gli elementi speciali stimolano attività di costruzione, tutti i modelli raffigurati possono essere costruiti con questo set contemporaneamente
+- Contiene 2 paia di occhi per realizzare tante fantastiche creature
+- Include un separatore di mattoncini e una robusta scatola per riporre gli elementi
+- LEGO Classic è ideale per ispirare la creatività con i mattoncini LEGO
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B00NVDOWUW/?tag=tolees00-21)
