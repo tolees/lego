@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % deal for LEGO Classic Creative Bricks 10692 Build'
-date: 2021-05-15 19:22:31
+date: 2021-05-16 19:38:57
 image: 'https://m.media-amazon.com/images/I/51qng6vJdhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ There's a deal [LEGO Classic Creative Bricks 10692 Building Blocks  Learning Toy
 
 ℹ️:
 
-- LEGO Classic is designed to inspire open-ended creativity with the LEGO brick; Includes a brick separator and comes in a sturdy storage box
 - Features a wide range of LEGO bricks in 29 different colors
-- Special pieces encourage imaginative building and include 2 different sets of eyes, windows, 2 types of door, wheels, axles and propellers
+- LEGO Classic is designed to inspire open-ended creativity with the LEGO brick; Includes a brick separator and comes in a sturdy storage box
 - Ideas included with the set and online at LEGO.com/classic to help you get started; All models pictured can be built from this set simultaneously
+- Special pieces encourage imaginative building and include 2 different sets of eyes, windows, 2 types of door, wheels, axles and propellers
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B00NHQFA5E/?tag=tolees-20)
