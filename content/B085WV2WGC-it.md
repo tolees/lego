@@ -28,10 +28,10 @@ You've got [LEGO Star Wars The Mandalorian Il Bambino Baby Yoda  Idea 
 
 ℹ️:
 
-- Un cartello informativo e la minifigure del Bambino LEGO completano il modello per formare un pezzo da esposizione
-- Grazioso modello da costruire ed esporre del Bambino per i fan di Star Wars: Il Mandaloriano
-- Testa, bocca e orecchie orientabili per assumere varie incantevoli espressioni
-- Include un pomello per la leva di cambio, il giocattolo preferito del bambino, da posizionare tra le sue mani
 - Un ottimo regalo di compleanno o di Natale o unottima sorpresa per gli appassionati dai 10 anni in su
+- Testa, bocca e orecchie orientabili per assumere varie incantevoli espressioni
+- Un cartello informativo e la minifigure del Bambino LEGO completano il modello per formare un pezzo da esposizione
+- Include un pomello per la leva di cambio, il giocattolo preferito del bambino, da posizionare tra le sue mani
+- Grazioso modello da costruire ed esporre del Bambino per i fan di Star Wars: Il Mandaloriano
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B085WV2WGC/?tag=tolees00-21)
