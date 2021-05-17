@@ -28,9 +28,9 @@ There's a deal [LEGO 60256 City Rennwagen-Duell Spielzeug mit 2 Rennfahrer-Minif
 
 ℹ️:
 
-- Das Rennwagen-Duell-Set wird mit einer einfachen Bauanleitung geliefert, die Ihrem angehenden LEGO-Baumeister hilft, seine Baukünste zu erlernen
 - Das rot-weiße Auto hat einen superschnellen, benzinbetriebenen Motor, und das gelb-blaue Auto hat einen superleisen, superkraftvollen, elektrischen Motor
 - Mit Spielzeugautos mit Elektro- und Benzinantrieb, abnehmbarer Motorhaube und 2 orangefarbenen Verkehrskegeln zur Markierung der Ziellinie
+- Das Rennwagen-Duell-Set wird mit einer einfachen Bauanleitung geliefert, die Ihrem angehenden LEGO-Baumeister hilft, seine Baukünste zu erlernen
 - Beinhaltet 2 Rennfahrer-Minifiguren mit Rennhelmen, 2 Leitkegeln und Action mit Vollgas
 - Ideal für Kinder, die Rennautospielzeug lieben. Ihr kleiner Rennfahrer wird endlose Highspeed-Action genießen, um herauszufinden, welche Art von Motor besser ist
 
