@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 55.53 % for LEGO 43105 VIDIYO Party Llama BeatBox Mu'
-date: 2021-05-10 19:33:06
+date: 2021-05-18 07:34:15
 image: 'https://m.media-amazon.com/images/I/517FlqSu7YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G49DCMC/?tag=tolees0a-21'
 descuento: '55.53'
-average: '12.0138805970151'
+average: '11.9548529411766'
 ---
 
 You've got [LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08G49DCMC/?tag=tolees0a-21) with a  55.53 % discount, with final price of 8.0 GBP (original: 17.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker Mus
 
 ℹ️:
 
-- Includes a llama minifigure with maracas accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
-- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
-- Use the app to bring the party llama to life with tropical tunes, and the tropical techno effect adding colourful LEGO plants to your video
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 - Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
+- Includes a llama minifigure with maracas accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
+- Use the app to bring the party llama to life with tropical tunes, and the tropical techno effect adding colourful LEGO plants to your video
+- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G49DCMC/?tag=tolees0a-21)
