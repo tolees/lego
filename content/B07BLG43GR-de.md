@@ -28,10 +28,10 @@ There's a deal [Lego Creator - LEGO Creator Expert James Bond Aston Martin DB5
 
 ℹ️:
 
-- Authentische Nachbildung des Sportwagens Aston Martin DB5 aus dem Jahr 1965, der ein klassisches Design besitzt.
 - Hol dir diese Nachbildung des Aston Martin DB5 aus dem James Bond Klassiker „Goldfinger“ – ein echtes Sammlerstück für jeden Fan.
+- Zieh die Heckstoßstange nach hinten, um ungebetene Mitfahrer mit dem Schleudersitz rauszukatapultieren.
+- Authentische Nachbildung des Sportwagens Aston Martin DB5 aus dem Jahr 1965, der ein klassisches Design besitzt.
 - Das LEGO Modell James Bond Aston Martin DB5 verfügt außerdem über aufklappbare Türen und ein detailreiches Interieur mit einfahrbarem Verfolgungscomputer und einem Türfach mit Telefon.
 - Dieses Set enthält mehr als 1.290 Teile und ist geeignet für Fans ab 16 Jahren.
-- Zieh die Heckstoßstange nach hinten, um ungebetene Mitfahrer mit dem Schleudersitz rauszukatapultieren.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07BLG43GR/?tag=tolees0ca-21)
