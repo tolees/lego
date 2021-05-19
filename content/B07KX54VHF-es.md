@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75957 Harry Potter Autobús Noctámbu at 16.08 % discount'
-date: 2021-05-17 16:30:54
+date: 2021-05-19 04:33:52
 image: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21'
 descuento: '16.08'
-average: '34.9129015544041'
+average: '34.9059278350515'
 ---
 
 With a final price of 33.56 EUR (original: 39.99 EUR) you can find [LEGO 75957 Harry Potter Autobús Noctámbulo  Juguete de Construcción del Mágico autobús de 3 Plantas con 3 Mini Figuras](https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21) with a  16.08 % discount here:
@@ -28,10 +28,10 @@ With a final price of 33.56 EUR (original: 39.99 EUR) you can find [LEGO 75957�
 
 ℹ️:
 
-- El Autobús Noctámbulo mide más de 16 cm de altura, 16 cm de longitud y 6 cm de ancho.
+- La cabeza reducida parlanchina y el arcón de Harry Potter, que contiene una varita, una carta, una chocolatina y un frasco de poción, añaden más dosis de acción e invitan a jugar y usar la imaginación.
 - Incluye 3 minifiguras LEGO Harry Potter (novedad en junio de 2019): Harry Potter, Stan Shunpike y Ernie Prang.
 - Este autobús LEGO de 3 pisos cuenta con un panel lateral abisagrado abatible y un techo desmontable para abrir al máximo las posibilidades de juego.
 - Incluye también una cama que se desliza y una lámpara colgante que se mueve cuando el autobús gira y da un viraje brusco.
-- La cabeza reducida parlanchina y el arcón de Harry Potter, que contiene una varita, una carta, una chocolatina y un frasco de poción, añaden más dosis de acción e invitan a jugar y usar la imaginación.
+- El Autobús Noctámbulo mide más de 16 cm de altura, 16 cm de longitud y 6 cm de ancho.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21)
