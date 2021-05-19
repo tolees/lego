@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 29.38 % for LEGO 42110 Technic Land Rover Defender O'
-date: 2021-05-18 16:38:32
+date: 2021-05-19 16:58:28
 image: 'https://m.media-amazon.com/images/I/51dnH8LVzEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07P2GQDQ6/?tag=tolees0a-21'
 descuento: '29.38'
-average: '141.362880952384'
+average: '141.29548693587'
 ---
 
 You've got [LEGO 42110 Technic Land Rover Defender Off Road 4x4 Car  Exclusive Collectible Model  Advanced Building Set](https://www.amazon.co.uk/dp/B07P2GQDQ6/?tag=tolees0a-21) with a  29.38 % discount, with final price of 112.99 GBP (original: 159.99 GBP) at the following link:
