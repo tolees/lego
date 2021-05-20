@@ -28,10 +28,10 @@ With a final price of 29.99 EUR (original: 39.99 EUR) you can find [LEGO City T
 
 ℹ️:
 
-- Include 14 minifigure
-- i bambini possono usare il tavolino del face painting
-- Questo set è ottimo per aggiungere più persone e oggetti ai diversi set della città
 - Personaggi extra in un unico pack conveniente
 - Più 3 anatre di gomma, un cappellino con elica, un palloncino-animale, un martello costruibile e altri accessori
+- Include 14 minifigure
+- Questo set è ottimo per aggiungere più persone e oggetti ai diversi set della città
+- i bambini possono usare il tavolino del face painting
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07KTVR1H2/?tag=tolees00-21)
