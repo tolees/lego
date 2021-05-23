@@ -29,7 +29,7 @@ There's a deal [LEGO - 60167 - Le QG des Garde-Côtes](https://www.amazon.fr/dp/
 ℹ️:
 
 - Âge : 6 - 12 ans
-- Les garde-côtes en mission de sauvetage !
 - Inclut sept figurines, plus des figurines de requin et de poulpe.
+- Les garde-côtes en mission de sauvetage !
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B06X6GN35Y/?tag=tolees0d-21)

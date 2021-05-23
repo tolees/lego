@@ -28,9 +28,9 @@ You've got [LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy�
 
 ℹ️:
 
-- Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
-- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
 - Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
+- Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
 - Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create  Hogwarts Castle!
 - Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
 
