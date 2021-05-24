@@ -28,10 +28,10 @@ You've got [LEGO UK - LEGO 10698 Classic Large Creative Brick Box Constru
 
 ℹ️:
 
-- Includes a wide range of LEGO bricks in 33 different colors, 8 different types of windows and doors with 8 different frames.
 - Comes in a useful plastic storage box; all models pictured can be built from this set simultaneously.
+- Large number of windows and doors facilitates classic LEGO construction and is designed to inspire open-ended creativity with the LEGO brick
 - Ideas included with the set and online at LEGO.com/classic to help you get started.
 - Special pieces include 2 different sized green baseplates, 3 sets of eyes, 6 tires and 6 wheel rims, encouraging imaginative building play.
-- Large number of windows and doors facilitates classic LEGO construction and is designed to inspire open-ended creativity with the LEGO brick
+- Includes a wide range of LEGO bricks in 33 different colors, 8 different types of windows and doors with 8 different frames.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00PY3EYQO/?tag=tolees0a-21)
