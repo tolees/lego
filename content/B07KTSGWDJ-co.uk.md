@@ -28,9 +28,9 @@ With a final price of 73.98 GBP (original: 89.99 GBP) you can find [LEGO 60228 C
 
 ℹ️:
 
-- Includes an opening launch control tower with removable window, a launchpad with opening tower arms to launch the rocket, and a research area
 - Includes 6 LEGO City minifigures: 2 astronauts, 2 scientists, Launch Director, ground crew technician and a robot figure, plus accessories
-- Accessory elements include 2 new-for-June-2019 geodes, 2 helmets, a magnifying glass, scanner element, wrench and many more.
 - Feat. a rover with articulated, new-for-June-2019 grappling arm, space telescope with folding solar panels and magnifying glass and 2 cars
+- Accessory elements include 2 new-for-June-2019 geodes, 2 helmets, a magnifying glass, scanner element, wrench and many more.
+- Includes an opening launch control tower with removable window, a launchpad with opening tower arms to launch the rocket, and a research area
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=tolees0a-21)

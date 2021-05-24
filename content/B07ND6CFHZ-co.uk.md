@@ -31,7 +31,7 @@ With a final price of 159.99 GBP (original: 199.99 GBP) you can find [LEGO 4209
 - Drive forward, reverse, steer, accelerate, brake, traverse obstacles, play sound effects and get real-time feedback, such as a speed / tilt log
 - This sturdy app-controlled truck with high-rise independent suspension, large wheels and chunky tyres operates via the intuitive CONTROL+ app
 - One-touch, multi-function control: connect to Smart Hub, ensuring super-precisionvia your smart device with 3 alternative control screens
-- It is powered by an advanced Smart Hub with 2 XL and 1 L motors to see the 4x4 X-treme truck carry out complicated manoeuvres
 - Smart Hubs feature Low Energy (BLE) connectivity, activation button, 6 axis sensor (3 gyro/3 accelerometer sensors) and 4 connectivity ports
+- It is powered by an advanced Smart Hub with 2 XL and 1 L motors to see the 4x4 X-treme truck carry out complicated manoeuvres
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07ND6CFHZ/?tag=tolees0a-21)
