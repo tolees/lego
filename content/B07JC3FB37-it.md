@@ -28,10 +28,10 @@ There's a deal [LEGO Juniors 4+ Toy Story 4 Buzz e Woody e la Mania del�
 
 ℹ️:
 
-- Include le minifigure di 3 personaggi di Toy Story: Woody, Buzz Lightyear e Bo Peep, più i personaggi Lego di Ducky e Bunny
+- Contiene un tiro al bersaglio di carnevale, elementi razzo decorati abbattibili e separabili, cannone funzionante, più una base Starter Brick e una base da parete decorata per consentire ai bambini di cominciare a costruire e a giocare velocemente con i mattoncini
+- Questo simpatico set include anche la giostra Terrorantulus girevole, dotata di bracci regolabili, più 2 auto dellautoscontro con telaio Starter Brick
 - I set di gioco Lego 4+, precedentemente chiamati Lego Juniors, sono compatibili con tutti i giocattoli Lego per attività di costruzione creative
 - Gli accessori includono 6 bottoncini, una cassa, 3 elementi per razzo decorativi, un grande gelato, 2 gelati più piccoli, gelato in bicchiere e un porzionatore di gelato, secchio e il bastone da pastore di Bo Peep
-- Questo simpatico set include anche la giostra Terrorantulus girevole, dotata di bracci regolabili, più 2 auto dellautoscontro con telaio Starter Brick
-- Contiene un tiro al bersaglio di carnevale, elementi razzo decorati abbattibili e separabili, cannone funzionante, più una base Starter Brick e una base da parete decorata per consentire ai bambini di cominciare a costruire e a giocare velocemente con i mattoncini
+- Include le minifigure di 3 personaggi di Toy Story: Woody, Buzz Lightyear e Bo Peep, più i personaggi Lego di Ducky e Bunny
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B07JC3FB37/?tag=tolees00-21)
