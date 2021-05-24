@@ -28,9 +28,9 @@ With a final price of 48.2 GBP (original: 64.99 GBP) you can find [Lego Friends 
 
 ℹ️:
 
-- Comes with lots of mini-doll accessories, a hamster figure, a laptop, camera, pan, egg, decorative tiles, blanket, cookie and many more
 - Includes Olivia, Mia and Stephanie mini-dolls, the playset comes with many details guaranteeing hours of uninterrupted role-playing fun
 - A swimming pool slides out from beneath the bus, a removable tennis net allows for fun outside the bus, and the repairs stand provides tools
+- Comes with lots of mini-doll accessories, a hamster figure, a laptop, camera, pan, egg, decorative tiles, blanket, cookie and many more
 - The top deck slides back neatly for easy access to the cool living areas below, and a hinged roof allows for easy access to the bedrooms
 - Features fully equipped holiday bus toy with 5 areas of play: an open rooftop with a slide, kitchen, swimming pool, tent and repairs stand
 
