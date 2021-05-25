@@ -29,9 +29,9 @@ You've got [Lego Creator - LEGO 31104 Creator 3in1 Monster Burger Truck T
 ℹ️:
 
 - 3in1 set features a monstrous gigantic truck with giant burger sign, a beefy offroader and a powerful pulling tractor for heavy loads
+- Kids can haul heavy tyres with the realistic tractor that has 2 golden top exhausts, and the off-roader is ready to find a spot on the beach
 - Includes 2 minifigures and a dog figure, and accessories: a garden table with umbrella, bottle, hamburger and 2 chairs to chill out
 - The truck has a working suspension, opening hatch,  foldable steps, big wheels with wide tyres to drive over curbs and many more details
 - More accessories include a burger turning blade, ketchup and mustard bottles and bricks plus vegetable supplements to cook perfect burgers
-- Kids can haul heavy tyres with the realistic tractor that has 2 golden top exhausts, and the off-roader is ready to find a spot on the beach
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PWLKF/?tag=tolees0a-21)
