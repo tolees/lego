@@ -28,10 +28,10 @@ You've got [LEGO 21161 Minecraft Die Crafting-Box 3.0 2-in-1 Set Schloss oder Fa
 
 ℹ️:
 
-- Baue ein cooles Schloss, eine geschäftige Farm oder eine fantastische Umgebung wie einen Gemüsegarten, um neue Möglichkeiten zu erkunden, wie man das Spiel im wirklichen Leben spielt
-- Die einzelnen Modelle können wieder aufgebaut oder die Landschaft kann neu konfiguriert werden, indem die Modulteile einfach neu positioniert werden
-- Kinder finden hier eine Vielzahl von lustigen Eigenschaften, von einem TNT-Launcher bis zu einer Creeper-Konfrontation, und 3 kleine Grundplatten, um ein einfaches Bauen und Zugreifen zu ermöglichen
-- Bietet ein Design, das einfach zu ändern ist, mit einfach zu verbindenden Modulteilen, mit 3 alternativen Modellkonfigurationen und Anweisungen
 - Enthält 564 Steine und Teile sowie beliebte Charaktere aus dem Spiel: Steve, Alex, Creeper, Schwein und Zombie, um Minecraft-Abenteuer zu spielen
+- Die einzelnen Modelle können wieder aufgebaut oder die Landschaft kann neu konfiguriert werden, indem die Modulteile einfach neu positioniert werden
+- Bietet ein Design, das einfach zu ändern ist, mit einfach zu verbindenden Modulteilen, mit 3 alternativen Modellkonfigurationen und Anweisungen
+- Kinder finden hier eine Vielzahl von lustigen Eigenschaften, von einem TNT-Launcher bis zu einer Creeper-Konfrontation, und 3 kleine Grundplatten, um ein einfaches Bauen und Zugreifen zu ermöglichen
+- Baue ein cooles Schloss, eine geschäftige Farm oder eine fantastische Umgebung wie einen Gemüsegarten, um neue Möglichkeiten zu erkunden, wie man das Spiel im wirklichen Leben spielt
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21)
