@@ -28,10 +28,10 @@ There's a deal [LEGO Friends Vet Clinic Rescue Helicopter 41692 Building Kit; Ma
 
 ℹ️:
 
-- The helicopter measures over 4 in. (10 cm) high, 7 in. (19 cm) long and 1.5 in. (5 cm) wide – small enough for kids to keep out, ready for LEGO Friends animal rescues anywhere in their bedroom!
-- Delight a little hero with the LEGO Friends Vet Clinic Rescue Helicopter (41692) toy. Kids can play out limitless animal-saving stories as they swoop to rescue a stranded bunny
-- This colorful children’s animal playset includes LEGO Friends Stephanie and Mia mini-dolls, a rabbit and a bunny toy, and a helicopter with spinnable rotors, vets kit and a hinged rear tailgate
-- This baby animal toy makes a great birthday or Holiday gift for kids aged 6+ who love imaginative rescue play
 - Kids can pretend to have a picnic with their pet rabbit, fly into action to rescue the bunny from an island, stretcher it to safety and care for once it’s been saved from the claws of the crab
+- The helicopter measures over 4 in. (10 cm) high, 7 in. (19 cm) long and 1.5 in. (5 cm) wide – small enough for kids to keep out, ready for LEGO Friends animal rescues anywhere in their bedroom!
+- This colorful children’s animal playset includes LEGO Friends Stephanie and Mia mini-dolls, a rabbit and a bunny toy, and a helicopter with spinnable rotors, vets kit and a hinged rear tailgate
+- Delight a little hero with the LEGO Friends Vet Clinic Rescue Helicopter (41692) toy. Kids can play out limitless animal-saving stories as they swoop to rescue a stranded bunny
+- This baby animal toy makes a great birthday or Holiday gift for kids aged 6+ who love imaginative rescue play
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08HW2MS1R/?tag=tolees-20)
