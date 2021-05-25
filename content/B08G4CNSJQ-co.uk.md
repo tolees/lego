@@ -28,10 +28,10 @@ You've got [LEGO 75298 Star Wars AT-AT vs. Tauntaun Microfighters  Buil
 
 ℹ️:
 
-- This awesome 205-piece construction toy makes the best birthday present, holiday gift or unexpected treat for kids 6+ years old
 - Includes minifigures of Luke Skywalker, with a lightsaber, and an AT-AT Driver, each with a stud shooter and an electrobinoculars element
-- Get ready for action on the icy planet of Hoth - the set comes with clear instructions so kids can build independently and confidently
 - The compact Tauntaun and AT-AT make for a very portable toy as they fit in a child’s backpack for play on their travels
+- This awesome 205-piece construction toy makes the best birthday present, holiday gift or unexpected treat for kids 6+ years old
+- Get ready for action on the icy planet of Hoth - the set comes with clear instructions so kids can build independently and confidently
 - Features 2 LEGO minifigures and a quick-to-build, posable AT-AT Walker and Tauntaun construction model for the LEGO minifigures to sit on
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4CNSJQ/?tag=tolees0a-21)
