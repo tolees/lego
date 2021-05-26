@@ -28,10 +28,10 @@ There's a deal [LEGO 21166 Minecraft The Abandoned Mine Building Set  Zo
 
 ℹ️:
 
-- LEGO Minecraft The "Abandoned" Mine set packed with play value brings the game excitement into the real world with characters that kids love
-- Includes a familiar cast: Steve, a zombie, spider and living slime, plus coal, iron and diamond elements and a falling gravel feature
 - Whether playing with friends or solo, the exploding fun set boosts kids’ creative thinking, problem-solving skills and hand dexterity
-- Kids can use a hand-operated device to release the high-level rocks crashing down on the hostile mobs, like in the classic game action!
 - Players may help Steve mine for essential resources while luring the zombie, spider and living slime to the cave entrance to fight them!
+- Includes a familiar cast: Steve, a zombie, spider and living slime, plus coal, iron and diamond elements and a falling gravel feature
+- LEGO Minecraft The "Abandoned" Mine set packed with play value brings the game excitement into the real world with characters that kids love
+- Kids can use a hand-operated device to release the high-level rocks crashing down on the hostile mobs, like in the classic game action!
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B085WV4WST/?tag=tolees0a-21)
