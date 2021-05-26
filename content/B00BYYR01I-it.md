@@ -28,9 +28,9 @@ With a final price of 9.99 EUR (original: 12.99 EUR) you can find [LEGO- Star Wa
 
 ℹ️:
 
-- Alimentato da 2 batterie CR2025 incluse
+- Catenella e anello portachiavi
 - Luce LED azionabile con un pulsante.
 - Catenella e anello portachiavi
-- Catenella e anello portachiavi
+- Alimentato da 2 batterie CR2025 incluse
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B00BYYR01I/?tag=tolees00-21)

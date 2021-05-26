@@ -28,10 +28,10 @@ There's a deal [Dots LEGO 41907 Desk Organiser DIY Arts and Crafts for K
 
 ℹ️:
 
-- The sturdy tray offers easy organisation, storage and transport of this unique accessory that fits kids rooms or mood when they redecorate
 - Features a multicoloured desk organiser with 2 sections to hold pencils and paperclips, a nifty opening drawer and a photo holder
-- Includes plenty of colourful tiles to decorate the set with, either following the provided patterns or coming up with their own designs
 - This decorative storage container is perfect for kids who love playing with arts and crafts, allowing them to create a unique desk accessory
 - Tiles can be swapped between all DOTS packs, such as Extra DOTS - Series 2 (41916), Picture Frames Set of 3 (41914) or Jewellery Box (41915)
+- The sturdy tray offers easy organisation, storage and transport of this unique accessory that fits kids rooms or mood when they redecorate
+- Includes plenty of colourful tiles to decorate the set with, either following the provided patterns or coming up with their own designs
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813Q5JNS/?tag=tolees0a-21)

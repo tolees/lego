@@ -28,10 +28,10 @@ You've got [LEGO 21319 Ideas Central Perk Friends TV Show Series with 
 
 ℹ️:
 
-- Build, display and recreate your favourite scenes from the classic American sitcom Friends with uncountable accessory elements for endless fun
-- This Central Perk café is packed with authentic details to show off on display and inspire hilarious memories of the classic Friends TV show
 - Includes 7 specially designed minifigures: Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, Phoebe Buffay and Gunther
 - Features the iconic main seating area including furniture, stage for musical performances, TV studio details and characters own items
 - An ideal Friends-themed gift for your own friends and family who love the TV show, this great hot toy will grab attention when displayed
+- This Central Perk café is packed with authentic details to show off on display and inspire hilarious memories of the classic Friends TV show
+- Build, display and recreate your favourite scenes from the classic American sitcom Friends with uncountable accessory elements for endless fun
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07VGGF8DP/?tag=tolees0a-21)

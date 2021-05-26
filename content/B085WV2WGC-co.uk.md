@@ -29,9 +29,9 @@ You've got [LEGO 75318 Star Wars: The Mandalorian The Child Baby Yoda 
 ℹ️:
 
 - Easy-to-follow instructions depict multi-directional building steps, with a frame and sections clipped to the side using the SNOT technique
-- The cutest character in the galaxy has posable head, mouth and ears for a range of lovable expressions, bringing it to life when playing!
 - Alse features an information sign and the Child LEGO minifigure to complete a striking build-and-display model for 10+ years old fans
 - Features a charming, brick-built toy model of The Child, aka Baby Yoda, from Star Wars: The Mandalorian, with all of its cute features
 - The set also includes a gearshift knob from the Razor Crest spaceship – the Child’s favorite toy – which can be placed in its hand
+- The cutest character in the galaxy has posable head, mouth and ears for a range of lovable expressions, bringing it to life when playing!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B085WV2WGC/?tag=tolees0a-21)
