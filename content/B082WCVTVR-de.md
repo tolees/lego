@@ -28,11 +28,11 @@ With a final price of 5.15 EUR (original: 9.99 EUR) you can find [LEGO 71370 Sup
 
 ℹ️:
 
+- LEGO Steine und Teile werden streng getestet und gründlich analysiert, damit jedes LEGO Bauset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
+- Weitere verfügbare LEGO Mario Upgrades lassen sich ebenfalls mit dem Starterset und den Erweiterungssets kombinieren, zum Beispiel die Anzüge „Propeller-Mario“ (71371), „Katzen-Mario“ (71372) und „Baumeister-Mario“ (71373)
+- Die kostenlose LEGO Super Mario App enthält Bauanleitungen, ebenso unterhaltsame wie kreative Spielideen und vieles mehr, um Kindern Freude zu bereiten. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
+- Kinder erleben noch mehr spannende LEGO Super Mario Spielaction mit dem Anzug „Feuer-Mario“ (71370). Dieses Outfit zum Zusammenbauen verleiht LEGO Mario besondere Fähigkeiten und lässt ihn ganz unterschiedlich reagieren
 - Für dieses kreative Bauspielzeug werden keine Batterien benötigt – die LEGO Mario Figur aus dem Starterset muss nur in das Outfit schlüpfen. Dem Bauset liegt eine verständliche Bauanleitung bei, damit sich Kinder selbstständig ans Werk machen können
 - Wenn die LEGO Mario Figur (nicht im Set enthalten) mit diesem Outfit aufgepeppt wird, gewinnt er Feuerkraft, um es mit Widersachern aufzunehmen und weitere Münzen zu sammeln. Dadurch wird das In-Game-Erlebnis noch aufregender
-- Weitere verfügbare LEGO Mario Upgrades lassen sich ebenfalls mit dem Starterset und den Erweiterungssets kombinieren, zum Beispiel die Anzüge „Propeller-Mario“ (71371), „Katzen-Mario“ (71372) und „Baumeister-Mario“ (71373)
-- LEGO Steine und Teile werden streng getestet und gründlich analysiert, damit jedes LEGO Bauset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
-- Kinder erleben noch mehr spannende LEGO Super Mario Spielaction mit dem Anzug „Feuer-Mario“ (71370). Dieses Outfit zum Zusammenbauen verleiht LEGO Mario besondere Fähigkeiten und lässt ihn ganz unterschiedlich reagieren
-- Die kostenlose LEGO Super Mario App enthält Bauanleitungen, ebenso unterhaltsame wie kreative Spielideen und vieles mehr, um Kindern Freude zu bereiten. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B082WCVTVR/?tag=tolees0ca-21)
