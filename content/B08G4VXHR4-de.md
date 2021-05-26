@@ -28,12 +28,12 @@ With a final price of 6.16 EUR (original: 9.99 EUR) you can find [LEGO 60279 Cit
 
 ℹ️:
 
-- Dieses Feuerwehrauto ist eine tolle Einführung in die faszinierende LEGO City Spielwelt, in der Kinder realistische Löscheinsätze nachspielen können. Geeignet für Kinder ab 5 Jahren
-- Kinder können das Feuerwehrauto lenken, indem sie es nach links und rechts neigen, die LEGO Flammen mit dem Räumschild wegschieben und Wasserelemente mit der Löschkanone verschießen, um die Flammen umzustoßen
-- Neben einer einfachen gedruckten Bauanleitung gibt es zu dem Set auch interaktive Instructions PLUS in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets, die Kinder in wahre Baumeister verwandeln
-- Das LEGO Feuerwehr-Spielset ist ein tolles kleines Geschenk für jeden Anlass. Es eignet sich ideal für Jungen und Mädchen ab 5 Jahren und erfordert nur grundlegende Baufähigkeiten
 - Ein Megafon, ein Feuerwehrhelm und Holzklötze mit Flammen sind als LEGO Zubehör enthalten
-- Inhalt des Sets: Das LEGO City Spielset „Mini-Löschfahrzeug“ (60279) enthält ein lenkbares Feuerwehrauto mit Räumschild und Löschschlauch, brennende LEGO Holzklötze und einen Feuerwehrmann als Minifigur mit coolem Helm
+- Das LEGO Feuerwehr-Spielset ist ein tolles kleines Geschenk für jeden Anlass. Es eignet sich ideal für Jungen und Mädchen ab 5 Jahren und erfordert nur grundlegende Baufähigkeiten
 - Das fertige Mini-Löschfahrzeug ist 6 cm hoch, 10 cm lang und 5 cm breit
+- Kinder können das Feuerwehrauto lenken, indem sie es nach links und rechts neigen, die LEGO Flammen mit dem Räumschild wegschieben und Wasserelemente mit der Löschkanone verschießen, um die Flammen umzustoßen
+- Inhalt des Sets: Das LEGO City Spielset „Mini-Löschfahrzeug“ (60279) enthält ein lenkbares Feuerwehrauto mit Räumschild und Löschschlauch, brennende LEGO Holzklötze und einen Feuerwehrmann als Minifigur mit coolem Helm
+- Neben einer einfachen gedruckten Bauanleitung gibt es zu dem Set auch interaktive Instructions PLUS in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets, die Kinder in wahre Baumeister verwandeln
+- Dieses Feuerwehrauto ist eine tolle Einführung in die faszinierende LEGO City Spielwelt, in der Kinder realistische Löscheinsätze nachspielen können. Geeignet für Kinder ab 5 Jahren
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4VXHR4/?tag=tolees0ca-21)
