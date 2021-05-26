@@ -29,8 +29,8 @@ You've got [LEGO 60216  City Downtown Fire Brigade with Fire Engine Tr
 ℹ️:
 
 - Load and push the plungers on the 3-stud shooters of the helicopter and R.O.S.-T3 the ROV to help battle the blaze.
-- A fire helicopter with opening cockpit with a new-for-January-20193-stud shooter.
 - Raise the ladder and squeeze the bellows to launch the water elements and knock the fire elements down.
+- A fire helicopter with opening cockpit with a new-for-January-20193-stud shooter.
 - Join in the excitement downtown with the fire rescue heroes and protect the citizens of LEGO City with the incredible 60216 Downtown Fire Brigade set!
 - Swing the crane around and lift the porta-loo into the air with the winch and press the fire ladder truck light and sound brick as you race the firefighters to the scene.
 
