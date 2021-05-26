@@ -28,10 +28,10 @@ With a final price of 6.97 GBP (original: 9.99 GBP) you can find [DUPLO Town LEG
 
 ℹ️:
 
-- This fun playset encourages learning and development of language, social and emotional skills by recreating familiar scenes from everyday life
 - Features a colourful pizza stand with a wood-style countertop, and includes a menu, table, chair, a pizza serving shovel – and pizza!
-- With easy-to-handle bricks and friendly, familiar characters, LEGO DUPLO Town toys develop kids’ creative-thinking and fine motor skills
-- LEGO DUPLO toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart perfectly every time
 - Includes 2 DUPLO figures: a pizza man and a cute dog figure. Does the doggy deserve a slice? He looks on so hopefully!
+- LEGO DUPLO toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart perfectly every time
+- This fun playset encourages learning and development of language, social and emotional skills by recreating familiar scenes from everyday life
+- With easy-to-handle bricks and friendly, familiar characters, LEGO DUPLO Town toys develop kids’ creative-thinking and fine motor skills
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W7TKVQ5/?tag=tolees0a-21)
