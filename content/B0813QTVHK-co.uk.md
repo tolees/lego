@@ -29,9 +29,9 @@ You've got [LEGO 71703 NINJAGO Legacy 4+ Storm Fighter Battle Toy Jet 
 ℹ️:
 
 - Features a toy car, toy jet and a temple with attached jail, from early seasons of the TV series of exciting ninja adventures against Lasha
-- LEGO 4+ building sets for preschool kids help develop building skills while developing hand dexterity, and emotional and social expertise
-- Includes Kai, Jay and Venomari Lasha LEGO NINJAGO minifigures, multiple different weapons, and is an easy build for high-flying adventures
-- Learn to build with 4+ LEGO sets! It has Starter Brick bases to help little ninjas learn to build and create their own NINJAGO adventures
 - The ninja jet has folding wings and opening cockpit and the toy car has shooters - Ninja fans will love firing missiles from Lasha’s vehicle
+- LEGO 4+ building sets for preschool kids help develop building skills while developing hand dexterity, and emotional and social expertise
+- Learn to build with 4+ LEGO sets! It has Starter Brick bases to help little ninjas learn to build and create their own NINJAGO adventures
+- Includes Kai, Jay and Venomari Lasha LEGO NINJAGO minifigures, multiple different weapons, and is an easy build for high-flying adventures
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QTVHK/?tag=tolees0a-21)

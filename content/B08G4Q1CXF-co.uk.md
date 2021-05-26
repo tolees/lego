@@ -28,10 +28,10 @@ With a final price of 12.97 GBP (original: 17.99 GBP) you can find [LEGO 76173�
 
 ℹ️:
 
-- Includes Spider-Man, Carnage and Ghost Rider minifigures to roleplay endless, imaginative superhero adventures
-- Features a flame-covered, 3-stud shooter supercharger-equipped car and 3 iconic characters from the Marvel Universe, plus lots of weapons
-- Ghost Rider’s robust, stylish car has a removable roof, removable flames and a 3-stud-shooter supercharger peeking out of its hood
-- The free LEGO Building Instructions app includes digital Instructions PLUS, which allows kids to zoom, rotate and visualize as they build
 - Using the extra elements provided, kids can detach the flames from Ghost Rider’s car and transform it into a sleek, black muscle car
+- Features a flame-covered, 3-stud shooter supercharger-equipped car and 3 iconic characters from the Marvel Universe, plus lots of weapons
+- The free LEGO Building Instructions app includes digital Instructions PLUS, which allows kids to zoom, rotate and visualize as they build
+- Includes Spider-Man, Carnage and Ghost Rider minifigures to roleplay endless, imaginative superhero adventures
+- Ghost Rider’s robust, stylish car has a removable roof, removable flames and a 3-stud-shooter supercharger peeking out of its hood
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4Q1CXF/?tag=tolees0a-21)

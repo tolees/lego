@@ -28,10 +28,10 @@ There's a deal [LEGO 21153 Minecraft The Wool Farm Adventures Building S
 
 ℹ️:
 
-- Includes Steve minifigure, 2 dyed sheep and a baby sheep, plus coloured bricks for building 1 of 3 fun structures to decorate the farm.
-- Kids can also combine this collectible Minecraft playset with other sets to create a unique LEGO Minecraft universe for both play and display
 - This collectible toy includes building instructions for 3 alternative statues and includes additional LEGO bricks for improvised building.
+- Includes Steve minifigure, 2 dyed sheep and a baby sheep, plus coloured bricks for building 1 of 3 fun structures to decorate the farm.
 - Includes a Steve minifigure, plus new-for-August-2019 red, yellow and baby sheep figures. Accessory elements include sheep shears.
 - Easy-to-reconfigure modular design for quick and easy rebuilding features a birch tree, fence, stream, stepping-stones, crops and flowers.
+- Kids can also combine this collectible Minecraft playset with other sets to create a unique LEGO Minecraft universe for both play and display
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07NDB4L48/?tag=tolees0a-21)
