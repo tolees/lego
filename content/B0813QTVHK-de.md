@@ -28,10 +28,10 @@ You've got [LEGO 71703 NINJAGO Legacy 4+ Kräftemessen mit dem Donner-Jet Set  M
 
 ℹ️:
 
+- Das NINJAGO Legacy Set enthält einen coolen Ninja-Jet mit Schwenkflügeln und ein Spielzeug-Auto mit Shooter, damit Ninja-Fans spannende Actionszenen aus der NINJAGO TV-Serie „Meister des Spinjitzu“ nachstellen können
+- Dieses Ninja-Spielzeug (ab Juni 2020) ist heiß ersehntes Update zu den klassischen Staffeln der NINJAGO TV-Serie. Der Tempel ist 10 cm hoch, 13 cm lang und 20 cm breit. Das ist die ideale Größe, um überall mit dem Baumodell zu spielen
+- Dieses 165-teilige NINJAGO Action-Set mit Baufiguren bietet Kindern ab 4 Jahren ein unterhaltsames Bauerlebnis und ist ein begehrtes Geburtstags- oder Weihnachtsgeschenk für begeisterte Ninja-Fans
 - Dieses Set enthält Starter-Bauplatten, die es kleinen Ninja erleichtern, die Modelle zu bauen und sich eigene Abenteuer mit den Minifiguren Kai, Jay und Lasha sowie mit einem Spielzeug-Jet und einem Tempel mit angebautem Gefängnis auszudenken
 - LEGO NINJAGO Set mit Kai und Jay aus den ersten Staffeln der TV-Serie für spannende Abenteuer und ein actionreiches Kräftemessen mit Lasha. Dieses Set ist das ideale Spielzeug, um Kinder im Vorschulalter ihre Baufähigkeiten verbessern zu lassen
-- Dieses Ninja-Spielzeug (ab Juni 2020) ist heiß ersehntes Update zu den klassischen Staffeln der NINJAGO TV-Serie. Der Tempel ist 10 cm hoch, 13 cm lang und 20 cm breit. Das ist die ideale Größe, um überall mit dem Baumodell zu spielen
-- Das NINJAGO Legacy Set enthält einen coolen Ninja-Jet mit Schwenkflügeln und ein Spielzeug-Auto mit Shooter, damit Ninja-Fans spannende Actionszenen aus der NINJAGO TV-Serie „Meister des Spinjitzu“ nachstellen können
-- Dieses 165-teilige NINJAGO Action-Set mit Baufiguren bietet Kindern ab 4 Jahren ein unterhaltsames Bauerlebnis und ist ein begehrtes Geburtstags- oder Weihnachtsgeschenk für begeisterte Ninja-Fans
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813QTVHK/?tag=tolees0ca-21)
