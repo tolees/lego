@@ -28,10 +28,10 @@ With a final price of 20.72 EUR (original: 25.0 EUR) you can find [The LEGO Movi
 
 ℹ️:
 
-- La licorne Kitty Spa est équipée dun jacuzzi, dun arc, déléments deau bleus transparents et dun lavabo avec brosse.
-- La moto est équipée dun siège minifigurine et la rampe dispose de 2 éléments de flamme transparents.
-- Ce kit 3 en 1 comprend 3 modèles à monter : une moto Lucys avec une rampe, une scène de danse et un licorne Kitty Spa.
-- La scène de danse est équipée dun podium rotatif pour une mini figurine et dun baldaquin avec des éléments lumineux colorés et transparents.
 - Contient 2 figurines du film « The Lego Movie 2 » : la mini figurine Lucy disponible à partir de janvier 2019 et une figurine licorne Kitty en briques Lego.
+- La licorne Kitty Spa est équipée dun jacuzzi, dun arc, déléments deau bleus transparents et dun lavabo avec brosse.
+- Ce kit 3 en 1 comprend 3 modèles à monter : une moto Lucys avec une rampe, une scène de danse et un licorne Kitty Spa.
+- La moto est équipée dun siège minifigurine et la rampe dispose de 2 éléments de flamme transparents.
+- La scène de danse est équipée dun podium rotatif pour une mini figurine et dun baldaquin avec des éléments lumineux colorés et transparents.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07G3SZFM9/?tag=tolees0d-21)
