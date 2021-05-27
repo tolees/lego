@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.73 % deal for LEGO 41916 Armband Ergänzungsset Comic'
-date: 2021-05-25 08:27:27
+date: 2021-05-27 08:29:06
 image: 'https://m.media-amazon.com/images/I/51yQjdxTCOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813Q8PGD/?tag=tolees0ca-21'
 descuento: '35.73'
-average: '2.42150000000001'
+average: '2.42341463414635'
 ---
 
 There's a deal [LEGO 41916 Armband Ergänzungsset Comic](https://www.amazon.de/dp/B0813Q8PGD/?tag=tolees0ca-21)  with  35.73 % discount, final price tag of  2.5 EUR (original: 3.89 EUR) here:
