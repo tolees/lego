@@ -30,8 +30,8 @@ You've got [Warner Bros Interactive Spain - La LEGO Película: El Videojuego](ht
 
 - Los ambientes están completamente hechos de piezas de Lego
 - Los jugadores siguen las instrucciones para construir objetos con piezas específicas como conjuntos LEGO de la vida real
-- Tipo de producto: videojuego de acción y aventura
 - Plataforma del juego: PlayStation Vita
 - El juego pone a los jugadores en control de varios personajes de la película
+- Tipo de producto: videojuego de acción y aventura
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B00HFVCKU0/?tag=tolees-21)

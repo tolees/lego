@@ -28,10 +28,10 @@ You've got [Warner Bros. Interactive Entertainment - Lego Batman 3 : Au-delà de
 
 ℹ️:
 
-- Classification PEGI : ages_7_and_over
-- Editeur : Warner Bros
 - Date de sortie : 2014-11-12
+- Classification PEGI : ages_7_and_over
 - Edition : Standard
 - Plate-forme : Xbox One
+- Editeur : Warner Bros
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B00KPP9NRQ/?tag=tolees0d-21)
