@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.01 % deal for Ninjago LEGO 71710 Ninja Tuner Car with '
-date: 2021-05-19 07:31:41
+date: 2021-05-27 15:23:42
 image: 'https://m.media-amazon.com/images/I/51hejF-DNpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Ninjago'
 buyurl: 'https://www.amazon.co.uk/dp/B07W8XYZ2K/?tag=tolees0a-21'
 descuento: '25.01'
-average: '30.09225'
+average: '29.9982926829268'
 ---
 
 There's a deal [Ninjago LEGO 71710 Ninja Tuner Car with Spreading Blades Building Set  Prime Empire Racing Vehicles](https://www.amazon.co.uk/dp/B07W8XYZ2K/?tag=tolees0a-21)  with  25.01 % discount, final price tag of  26.24 GBP (original: 34.99 GBP) here:
