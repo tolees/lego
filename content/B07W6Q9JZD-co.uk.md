@@ -28,10 +28,10 @@ With a final price of 9.99 GBP (original: 12.99 GBP) you can find [Star Wars TM 
 
 ℹ️:
 
-- Features a battle speeder with room in the cockpit for 2 minifigures, 2 blasting blue engines and grey-blue-black colour scheme
-- Add the 75263 Resistance Y-wing Microfighter for First Order vs. Resistance battles or 75264 Kylo Ren’s Shuttle Microfighter for more fun
-- Instructions PLUS are available via the LEGO Life App with zoom in, rotate and visualise tools to guide the real-life building process
 - Kids can attach a blaster to the front of the speeder, ready to fire at any moment, and lead troopers into enemy territory for the battle
+- Add the 75263 Resistance Y-wing Microfighter for First Order vs. Resistance battles or 75264 Kylo Ren’s Shuttle Microfighter for more fun
 - Includes 4 minifigures: First Order Officer, Sith Trooper and 2 Sith Jet Troopers, with 4 stud-shooting blasters and 2 jetpack elements
+- Instructions PLUS are available via the LEGO Life App with zoom in, rotate and visualise tools to guide the real-life building process
+- Features a battle speeder with room in the cockpit for 2 minifigures, 2 blasting blue engines and grey-blue-black colour scheme
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W6Q9JZD/?tag=tolees0a-21)
