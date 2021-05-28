@@ -28,10 +28,10 @@ There's a deal [LEGO 10949 DUPLO Town Farm Animal Care Toy for Toddlers
 
 ℹ️:
 
-- Includes a pig, sheep, duck and cat figure, each beautifully coloured and specially designed for toddlers to pick up and play with
-- Cute animals and accessories inspire imaginative role-play activities for 2+ year olds such as feeding and preparing the barn for bedtime
 - Features a buildable barn, realistically textured hay bale, flower, and 4 farm animal figures to encourage endless hands-on creative play
-- Building is fun with colourful pieces designed for small hands, accompanied by a simple guide that engages kids with a picture story
+- Cute animals and accessories inspire imaginative role-play activities for 2+ year olds such as feeding and preparing the barn for bedtime
 - Watch preschool kids develop fine motor skills and expand their social and emotional understanding as they act out animal-care activities
+- Building is fun with colourful pieces designed for small hands, accompanied by a simple guide that engages kids with a picture story
+- Includes a pig, sheep, duck and cat figure, each beautifully coloured and specially designed for toddlers to pick up and play with
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08GPDXXHP/?tag=tolees0a-21)

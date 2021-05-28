@@ -28,10 +28,10 @@ With a final price of 19.78 GBP (original: 34.99 GBP) you can find [LEGO 71736�
 
 ℹ️:
 
-- Kids will be excited to rapidly fire 8 missiles at enemies from the ninja airplane’s rotating front or to release a captured ninja from prison
 - Includes a limited edition golden Kai Legacy collectible minifigure with a small stand to celebrate the 10th anniversary of NINJAGO toys
+- Kids will be excited to rapidly fire 8 missiles at enemies from the ninja airplane’s rotating front or to release a captured ninja from prison
 - Includes 4 minifigures: Cole, Lloyd and Kai Legacy to take on the evil Eyezor, recreating scenes from season 4 of the LEGO NINJAGO TV series
-- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, X-1 Ninja Charger 71737 and Zane’s Titan Mech Battle 71738
 - Features a super cool airplane with shooting studs, an opening cockpit, and a ninja prison to give kids an action-packed play experience
+- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, X-1 Ninja Charger 71737 and Zane’s Titan Mech Battle 71738
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4HBJ1J/?tag=tolees0a-21)

@@ -28,10 +28,10 @@ You've got [LEGO 60292 City Town Centre Building Set with Toy Motorbike
 
 ℹ️:
 
-- Includes 8 story-inspiring LEGO minifigures with a baby, guide dog figures and accessory elements: pizza boxes, tools, weapons and helmets
-- Features Toy Pizzeria, Dojo, Car Wash, EV Charge Point, EV, Police Bicycle, Fire Motorcycle, Recycling Station, Roof Garden, Park and a Truck
-- The police are chasing a crook, a firefighter is battling a blaze at the pizzeria, kids are learning martial arts and baby is on a kids’ ride
-- Kids can drive vehicles through the car wash to spin the washer brushes, collect the recycling containers with the truck’s crane and more!
 - Comes with 2 accessible buildings, 4 cool vehicles and a set of Road Plates, featuring Shirley Keeper & Madison from the LEGO City Adventures TV series
+- The police are chasing a crook, a firefighter is battling a blaze at the pizzeria, kids are learning martial arts and baby is on a kids’ ride
+- Features Toy Pizzeria, Dojo, Car Wash, EV Charge Point, EV, Police Bicycle, Fire Motorcycle, Recycling Station, Roof Garden, Park and a Truck
+- Kids can drive vehicles through the car wash to spin the washer brushes, collect the recycling containers with the truck’s crane and more!
+- Includes 8 story-inspiring LEGO minifigures with a baby, guide dog figures and accessory elements: pizza boxes, tools, weapons and helmets
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4KWY36/?tag=tolees0a-21)

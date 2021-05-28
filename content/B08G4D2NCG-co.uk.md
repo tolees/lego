@@ -28,10 +28,10 @@ There's a deal [LEGO 71731 NINJAGO Legacy Epic Battle Set – Zane vs.�
 
 ℹ️:
 
-- This super-cool 1 of 4 colectible sets lets kids stage thrilling battles between good and evil to seize a set of prized 4 ninja weapons
-- Includes a small brick-built Nindroid factory and a spinning battle platform for Zane to use to knock over his opponent in their epic clashes
-- Features 2 minifigures: a new-for-January-2021 Zane and a Legacy Nindroid from the NINJAGO TV series, plus 4 exclusive white weapons
-- Kids can take on the robot warrior with Zane’s Elemental Ice Shurikens, but have to watch out as Nindroid retaliates with a large sword!
 - Recreate more LEGO NINJAGO battles with other sets: Kai vs. Skulkin (71730), Jay vs. Serpentine (71732) and Cole vs. Ghost Warrior (71733)
+- Kids can take on the robot warrior with Zane’s Elemental Ice Shurikens, but have to watch out as Nindroid retaliates with a large sword!
+- Features 2 minifigures: a new-for-January-2021 Zane and a Legacy Nindroid from the NINJAGO TV series, plus 4 exclusive white weapons
+- Includes a small brick-built Nindroid factory and a spinning battle platform for Zane to use to knock over his opponent in their epic clashes
+- This super-cool 1 of 4 colectible sets lets kids stage thrilling battles between good and evil to seize a set of prized 4 ninja weapons
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4D2NCG/?tag=tolees0a-21)

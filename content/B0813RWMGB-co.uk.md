@@ -29,9 +29,9 @@ You've got [Ninjago LEGO 70686 Spinjitzu Burst - Kai Red Ninja Spinner S
 ℹ️:
 
 - Features 1 Kai minifigure, a spinner of co-injected blades with a launch-pad and button to take Kai minifigure off and spin him into the air
-- Spinjitzu Burst spinning toy for kids to launch Kai minifigure into a spin and enjoy recreating action scenes from the world of NINJAGO
-- Ninja fans will enjoy building this cool playset before using it to compete in gripping battles with their friends playing as Cole or Lloyd
-- This 48-piece playset is easy to build, so children aged 7+ can quickly be engrossed in hours of active and imaginative play
 - For more creative ninja battles check out other new LEGO Spinjitzu Burst sets: Spinjitzu Burst Cole 70685 and Spinjitzu Burst Lloyd 70687
+- Ninja fans will enjoy building this cool playset before using it to compete in gripping battles with their friends playing as Cole or Lloyd
+- Spinjitzu Burst spinning toy for kids to launch Kai minifigure into a spin and enjoy recreating action scenes from the world of NINJAGO
+- This 48-piece playset is easy to build, so children aged 7+ can quickly be engrossed in hours of active and imaginative play
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RWMGB/?tag=tolees0a-21)
