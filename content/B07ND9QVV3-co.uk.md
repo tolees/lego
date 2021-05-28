@@ -28,10 +28,10 @@ With a final price of 23.55 GBP (original: 39.99 GBP) you can find [LEGO 41168�
 
 ℹ️:
 
-- The jewelry box features a lockable drawer with a lock function to flick and keep favorite jewelry safe inside the drawer and a mirror
-- This beautiful trinket box makes an ideal birthday gift or Christmas gift for a fan of the Disney Frozen films
-- Includes an Elsa mini doll and Nokk, a mythical water spirit figure, plus a spinning function to see them spin around in front of the mirror
 - The Disney characters can be removed and added to any existing LEGO Disney minifigure and mini doll figure collection
 - Kids can make their own Elsa Frozen II intricate jewelry box to keep precious bits and pieces safe and find 2 LEGO rings locked inside!
+- This beautiful trinket box makes an ideal birthday gift or Christmas gift for a fan of the Disney Frozen films
+- The jewelry box features a lockable drawer with a lock function to flick and keep favorite jewelry safe inside the drawer and a mirror
+- Includes an Elsa mini doll and Nokk, a mythical water spirit figure, plus a spinning function to see them spin around in front of the mirror
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07ND9QVV3/?tag=tolees0a-21)
