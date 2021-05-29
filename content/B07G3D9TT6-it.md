@@ -30,8 +30,8 @@ With a final price of 116.27 EUR (original: 139.99 EUR) you can find [LEGO Ford 
 
 - Giocattoli e modellismo
 - Marca: lego
-- Formula migliorata e completa
-- Comodo e facile da utilizzare
 - Dimensioni: 40x25x15 cm
+- Comodo e facile da utilizzare
+- Formula migliorata e completa
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07G3D9TT6/?tag=tolees00-21)
