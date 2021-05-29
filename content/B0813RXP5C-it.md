@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.19 % deal for LEGO Super Heroes Marvel Helicarrier deg'
-date: 2021-05-27 18:56:06
+date: 2021-05-29 19:41:03
 image: 'https://m.media-amazon.com/images/I/61I45bo8B8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21'
 descuento: '19.19'
-average: '117.742786259544'
+average: '117.615946969699'
 ---
 
 There's a deal [LEGO Super Heroes Marvel Helicarrier degli Avengers con Iron Man  Thor e Capitan Marvel  Serie Supereroi  76153](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21)  with  19.19 % discount, final price tag of  101.0 EUR (original: 124.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO Super Heroes Marvel Helicarrier degli Avengers con Iron
 
 ℹ️:
 
-- Include le minifigure di Iron Man, Capitan Marvel, Thor, Black Widow, War Machine e Nick Fury
 - L’Helicarrier, lungo più di 37 cm, è ottimo per il gioco e l’esposizione
-- Il set di gioco Helicarrier è un’ottima idea regalo per i bambini dai 9 anni in su
 - L’Helicarrier trasporterà i bambini sulle scene avvincenti dei film Marvel
+- Include le minifigure di Iron Man, Capitan Marvel, Thor, Black Widow, War Machine e Nick Fury
+- Il set di gioco Helicarrier è un’ottima idea regalo per i bambini dai 9 anni in su
 - I fan potranno unirsi ai loro personaggi Marvel Avengers preferiti per affrontare il supercriminale M O D O K
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21)
