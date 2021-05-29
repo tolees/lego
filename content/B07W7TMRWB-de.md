@@ -28,10 +28,10 @@ There's a deal [Lego Creator - Lego 31101 Creator 3-in-1 Monster Truck  Muscle C
 
 ℹ️:
 
-- Der grün-gelbe Monster-Truck verfügt über ein hochbelastbares Hochleistungsfahrwerk und überdimensionierte Raupenreifen, ideal zum Überrollen von Hindernissen, wie z. B. Kleinwagen
-- Das kleinere Muscle-Car hat eine relativ leichte zweitürige Karosserie mit einem großen Heckmotor, der speziell für Drag Racing entwickelt wurde
 - Mit den LEGO Creator 3-in-1-Sets können die Kinder immer wieder bauen, spielen und wieder umbauen - für jede Menge Aktionen für Fans von Renn- und Schwerlastwagen
+- Das kleinere Muscle-Car hat eine relativ leichte zweitürige Karosserie mit einem großen Heckmotor, der speziell für Drag Racing entwickelt wurde
 - Das Set bietet Kindern 3 Bauoptionen: einen Monster-Truck, ein Muscle Car oder einen superschnellen Dragster
+- Der grün-gelbe Monster-Truck verfügt über ein hochbelastbares Hochleistungsfahrwerk und überdimensionierte Raupenreifen, ideal zum Überrollen von Hindernissen, wie z. B. Kleinwagen
 - Der für den Rennsport spezialisierte Dragster verfügt über einen Heckspoiler, einen Motor und einen großen hinteren Raupenreifen für schnelle Leistung
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TMRWB/?tag=tolees0ca-21)

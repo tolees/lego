@@ -29,7 +29,7 @@ With a final price of 159.99 EUR (original: 198.99 EUR) you can find [LEGO - Le 
 ℹ️:
 
 - Inclut sept figurines plus des figurines de léopard, de crocodile, de serpent, de grenouille et deux araignées.
-- Les explorateurs de la ville de LEGO City partent à la découverte des secrets de la jungle !
 - Âge : 8 - 12 ans
+- Les explorateurs de la ville de LEGO City partent à la découverte des secrets de la jungle !
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B06VV73LFR/?tag=tolees0d-21)

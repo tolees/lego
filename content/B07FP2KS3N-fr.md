@@ -28,10 +28,10 @@ You've got [LEGO Friends - La maison de Mia - 41369 - Jeu de construction](https
 
 ℹ️:
 
-- Construisez la maison de famille de Mia et découvrez la nature.
+- Inclut 3 mini-poupées : Mia LEGO Friends, sa mère Ann et son père Angus, plus 2 figurines d’animaux : un lapin et un cheval.
 - 715 pièces pour les filles et les garçons de 6 ans et plus.
+- Construisez la maison de famille de Mia et découvrez la nature.
 - Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - Mesure plus de 22 cm de haut, 31 cm de large et 9 cm de profondeur.
-- Inclut 3 mini-poupées : Mia LEGO Friends, sa mère Ann et son père Angus, plus 2 figurines d’animaux : un lapin et un cheval.
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B07FP2KS3N/?tag=tolees0d-21)

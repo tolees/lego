@@ -28,10 +28,10 @@ With a final price of 33.66 GBP (original: 44.99 GBP) you can find [LEGO 21044�
 
 ℹ️:
 
-- LEGO Architecture sets celebrate the world of architecture through the medium of the LEGO brick, and are developed for all with an interest in travel, design, architecture and history.
-- This set has been designed todeliver a rewarding and relaxing building experience and makes a truly“mangnifique” centerpiece for the home or office.
-- Highly detailed LEGO Architecture interpretation of the Paris skyline, featuring a selection of famous landmarks, including the Arc de Triomphe, Champs-Elysées, Tour Montparnasse, Grand Palais, Eiffel Tower and the Louvre, plus grass and tree areas.
 - The included booklet contains information about the designer, architecture and history of each structure.
+- This set has been designed todeliver a rewarding and relaxing building experience and makes a truly“mangnifique” centerpiece for the home or office.
+- LEGO Architecture sets celebrate the world of architecture through the medium of the LEGO brick, and are developed for all with an interest in travel, design, architecture and history.
 - Each skyline model is scaled to give an accurate representation of the comparative size of the featured structures, with realistic colour depiction.
+- Highly detailed LEGO Architecture interpretation of the Paris skyline, featuring a selection of famous landmarks, including the Arc de Triomphe, Champs-Elysées, Tour Montparnasse, Grand Palais, Eiffel Tower and the Louvre, plus grass and tree areas.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNN147J/?tag=tolees0a-21)
