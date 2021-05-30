@@ -28,12 +28,12 @@ You've got [Lego Ninjago - Lego 71711 NINJAGO Jays Cyber-Drache Mech  Baus
 
 ℹ️:
 
-- Dieses 518-teilige LEGO Set mit Drachen-Mech und Ninja-Actionfiguren stellt Jungen und Mädchen ab 8 Jahren vor eine aufregende Bauherausforderung und ist ein tolles LEGO Geschenk zum Geburtstag, zu Weihnachten oder zu sonstigen Anlässen. NINJAGO Fans werden begeistert sein.
-- Dieser faszinierend detailreiche Drachen-Mech verfügt über einen beweglichen Kopf und bewegliche Gliedmaßen. Mit seinen Shootern lassen sich Raketen abfeuern. Die Baufiguren sind mit Display-Tafeln sowie aufregenden neuen Rüstungen und Ausrüstungselementen aus Prime Empire ausgestattet.
-- Dieses Bauset enthält einen Cyber-Drachen und 5 Minifiguren: die NINJAGO Helden Digi Jay und Digi Nya sowie Unagami, Hausner und Richie. Der Drachen-Mech und die Baufiguren eignen sich wunderbar, um spannende Szenen aus der TV-Serie nachzustellen.
-- Der LEGO NINJAGO Drache besitzt ein atemberaubendes Design. Dieses Spielset für Kinder enthält 5 Minifiguren, um spannende Actionszenen aus Prime Empire nachstellen zu können. Das perfekte Geschenk für begeisterte NINJAGO Fans oder Kinder, die Abenteuer lieben und gerne kreativ werden.
 - Das perfekte LEGO Geschenk für junge Baumeister. Den Steinen und Baufiguren liegen einfache Bauanleitungen bei, damit sich die Kinder rasch in Actionabenteuer stürzen können.
+- Dieses 518-teilige LEGO Set mit Drachen-Mech und Ninja-Actionfiguren stellt Jungen und Mädchen ab 8 Jahren vor eine aufregende Bauherausforderung und ist ein tolles LEGO Geschenk zum Geburtstag, zu Weihnachten oder zu sonstigen Anlässen. NINJAGO Fans werden begeistert sein.
 - Dieser Drachen-Mech (neu ab Januar 2020) besitzt die perfekte Größe, um zu Hause oder unterwegs riesigen Spielspaß zu bieten. Der bewegliche Drache ist 12 cm hoch, 39 cm lang und 33 cm breit.
+- Der LEGO NINJAGO Drache besitzt ein atemberaubendes Design. Dieses Spielset für Kinder enthält 5 Minifiguren, um spannende Actionszenen aus Prime Empire nachstellen zu können. Das perfekte Geschenk für begeisterte NINJAGO Fans oder Kinder, die Abenteuer lieben und gerne kreativ werden.
+- Dieses Bauset enthält einen Cyber-Drachen und 5 Minifiguren: die NINJAGO Helden Digi Jay und Digi Nya sowie Unagami, Hausner und Richie. Der Drachen-Mech und die Baufiguren eignen sich wunderbar, um spannende Szenen aus der TV-Serie nachzustellen.
+- Dieser faszinierend detailreiche Drachen-Mech verfügt über einen beweglichen Kopf und bewegliche Gliedmaßen. Mit seinen Shootern lassen sich Raketen abfeuern. Die Baufiguren sind mit Display-Tafeln sowie aufregenden neuen Rüstungen und Ausrüstungselementen aus Prime Empire ausgestattet.
 - Für diesen Drachen-Mech werden keine Batterien benötigt. Sobald er gebaut ist, bietet er Actionspaß ohne Unterbrechung – und zwar sowohl in Prime Empire als auch in NINJAGO City.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W6QBJ8G/?tag=tolees0ca-21)

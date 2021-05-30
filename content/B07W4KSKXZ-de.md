@@ -28,12 +28,12 @@ There's a deal [LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hunde
 
 ℹ️:
 
-- Das LEGO City Spielset „Eiswagen“ (60253) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Grundlegende Baufähigkeiten reichen völlig.
-- Mit diesem Bauset ist das Bauen wirklich kinderleicht. Zu dem Set gibt es eine einfache gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung für Kinder. Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
-- Kinder helfen der Eisverkäuferin, den Eiswagen zu fahren und an der Eistheke Eiswaffeln und Eis am Stiel zu verkaufen, und dem Skateboarder, tolle Tricks zu zeigen. Dieser farbenfrohe Eiswagen ist auch ein tolles Schaustück.
-- Der fertig gebaute Eiswagen ist 11 cm hoch, 15 cm lang und 6 cm breit. Die Eisverkäuferin hat reichlich Platz, um den Eiswagen zu fahren und Kunden zu bedienen.
-- Batterien werden nicht benötigt. Als Antrieb reicht dem LEGO City Eiswagen die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
-- Dieses Bauset für Kinder enthält einen farbenfrohen Eiswagen, eine Eisverkäuferin und einen Skateboarder als Minifiguren sowie eine Hundefigur. Perfekt für ein fantasievolles, selbstständiges Spielerlebnis.
 - Welches Kind läuft nicht begeistert zum Eiswagen? Kinder vergnügen sich gerne mit dem LEGO City Bauset „Eiswagen“, das echten Sommerspaß verspricht und unzählige kreative Alltags-Rollenspiele ermöglicht.
+- Dieses Bauset für Kinder enthält einen farbenfrohen Eiswagen, eine Eisverkäuferin und einen Skateboarder als Minifiguren sowie eine Hundefigur. Perfekt für ein fantasievolles, selbstständiges Spielerlebnis.
+- Batterien werden nicht benötigt. Als Antrieb reicht dem LEGO City Eiswagen die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
+- Der fertig gebaute Eiswagen ist 11 cm hoch, 15 cm lang und 6 cm breit. Die Eisverkäuferin hat reichlich Platz, um den Eiswagen zu fahren und Kunden zu bedienen.
+- Mit diesem Bauset ist das Bauen wirklich kinderleicht. Zu dem Set gibt es eine einfache gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung für Kinder. Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
+- Das LEGO City Spielset „Eiswagen“ (60253) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Grundlegende Baufähigkeiten reichen völlig.
+- Kinder helfen der Eisverkäuferin, den Eiswagen zu fahren und an der Eistheke Eiswaffeln und Eis am Stiel zu verkaufen, und dem Skateboarder, tolle Tricks zu zeigen. Dieser farbenfrohe Eiswagen ist auch ein tolles Schaustück.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)
