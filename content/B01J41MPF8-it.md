@@ -28,9 +28,9 @@ There's a deal [LEGO Architecture Londra  Set di Costruzioni Collezione S
 
 ℹ️:
 
-- Da usare sotto la diretta sorveglianza di un adulto
-- Facile da montare
-- Multicolore
 - Numero modello: 21034
+- Facile da montare
+- Da usare sotto la diretta sorveglianza di un adulto
+- Multicolore
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)
