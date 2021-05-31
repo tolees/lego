@@ -28,15 +28,15 @@ With a final price of 22.49 EUR (original: 29.99 EUR) you can find [LEGO 60281�
 
 ℹ️:
 
-- Accesorios LEGO incluidos: una camilla (almacenada en la bodega de carga del helicóptero), un casco de bombero, una llave inglesa y un casco de seguridad.
-- Todos los componentes LEGO City cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez.
-- Lo que los niños necesitan para construir un helicóptero de juguete, una moto, una central eléctrica y fuegos LEGO, así como 3 minifiguras, entre ellas Clemmons, de la serie para televisión LEGO City: Aventuras en la Ciudad.
-- Los sets de bomberos LEGO City fomentan el juego de interpretación imaginativo con sus detallados edificios, fantásticos vehículos, divertidos personajes y escenarios que representan la vida real de una manera entretenida e imaginativa.
 - Tu peque podrá apilar las llamas LEGO para crear grandes fuegos, disparar los elementos que representan cañones de agua para apagarlos y crear historias basadas en la serie LEGO City: Aventuras en la Ciudad con 3 divertidas minifiguras.
-- Una vez construido, el Helicóptero de Rescate de Bomberos de juguete mide aproximadamente 10 cm de altura, 26 cm de longitud y 9 cm de anchura.
+- Lo que los niños necesitan para construir un helicóptero de juguete, una moto, una central eléctrica y fuegos LEGO, así como 3 minifiguras, entre ellas Clemmons, de la serie para televisión LEGO City: Aventuras en la Ciudad.
+- Todos los componentes LEGO City cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez.
 - Un regalo que encantará a héroes cotidianos a partir de 5 años, el juego Helicóptero de Rescate de Bomberos (60281) es ideal para niños que adoran los vehículos de bomberos y fans de la serie para televisión LEGO City: Aventuras en la Ciudad.
-- Una fantástica idea de regalo para cualquier ocasión, este juego de bomberos ofrece infinitas horas de diversión a fans de LEGO City y niños a partir de 5 años que adoren el juego imaginativo. Solo se requieren habilidades de construcción básicas.
 - Viene con una sencilla guía de construcción impresa y la experiencia Instructions PLUS: una guía de construcción interactiva para pequeños constructores, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes.
+- Una vez construido, el Helicóptero de Rescate de Bomberos de juguete mide aproximadamente 10 cm de altura, 26 cm de longitud y 9 cm de anchura.
+- Los sets de bomberos LEGO City fomentan el juego de interpretación imaginativo con sus detallados edificios, fantásticos vehículos, divertidos personajes y escenarios que representan la vida real de una manera entretenida e imaginativa.
 - ¿Qué contiene la caja
+- Una fantástica idea de regalo para cualquier ocasión, este juego de bomberos ofrece infinitas horas de diversión a fans de LEGO City y niños a partir de 5 años que adoren el juego imaginativo. Solo se requieren habilidades de construcción básicas.
+- Accesorios LEGO incluidos: una camilla (almacenada en la bodega de carga del helicóptero), un casco de bombero, una llave inglesa y un casco de seguridad.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08G4D3P1T/?tag=tolees-21)
