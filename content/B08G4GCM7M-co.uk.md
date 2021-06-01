@@ -28,10 +28,10 @@ With a final price of 33.75 GBP (original: 43.39 GBP) you can find [LEGO 76182 D
 
 ℹ️:
 
-- Ideal for any adult model-making fan, it makes a great birthday gift for Batman fans, Christmas present or personal treat
 - LEGO DC Batman Cowl mask building set for adults features a LEGO brick recreation of the iconic Batman helmet as worn by the Caped Crusader
-- This piece of Batman collectible memorabilia will provide pleasure and satisfaction long after the hands-on work has been completed
-- It captures forever the unmistakable style of Batman in a captivating ornamental display model created with adults in mind
 - With transparent bricks to represent the face & a stylish fact plaque attached to a sturdy base, this remarkable model is a fine décor piece
+- Ideal for any adult model-making fan, it makes a great birthday gift for Batman fans, Christmas present or personal treat
+- It captures forever the unmistakable style of Batman in a captivating ornamental display model created with adults in mind
+- This piece of Batman collectible memorabilia will provide pleasure and satisfaction long after the hands-on work has been completed
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4GCM7M/?tag=tolees0a-21)
