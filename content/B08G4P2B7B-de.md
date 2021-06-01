@@ -28,12 +28,12 @@ You've got [LEGO 31112 Creator 3-in-1 Wilder Löwe  Strauß oder Warzenschwein S
 
 ℹ️:
 
-- Kinder werden von den Wüstenabenteuern mit dem wilden Löwen, dem flinken Strauß und dem kräftigen Warzenschwein begeistert sein. Der Geier sorgt für zusätzlichen Spielspaß
-- Die 3 Spielzeugtiere sind äußerst beweglich: Der Löwe kann Beine, Schwanz, Kopf und Kiefer bewegen, der Strauß Hals und Beine und das Warzenschwein Beine, Kopf und Kiefer
-- Ab Januar 2021 darfen Sie Sie auch auf weitere tolle LEGO Creator 3-in-1-Sets freuen: Cyber-Drohne (31111), Rennwagentransporter (31113), Geländemotorrad (31114) und Surfer-Strandhaus (31118)
-- Das eindrucksvolle LEGO Set beinhaltet auch einen Geier, der mit allen 3 Modellen aus LEGO Steinen kombiniert werden kann und weitere Abenteuer ermöglicht
-- Das LEGO Creator 3-in-1-Bauset „Wilder Löwe“ (31112) regt die Fantasie an. Drei Modelle – ein wilder Löwe, ein Vogel Strauß und ein Warzenschwein – sind möglich.
-- Der Löwe ist 12 cm groß. Das ist die ideale Größe, um auch unterwegs mit ihm spielen zu können
 - Dieses 224-teilige LEGO Creator 3-in-1-Set bietet unterhaltsame Bauaufgaben und ist ein tolles Geschenk für kreative Kinder ab 7 Jahren
+- Das eindrucksvolle LEGO Set beinhaltet auch einen Geier, der mit allen 3 Modellen aus LEGO Steinen kombiniert werden kann und weitere Abenteuer ermöglicht
+- Die 3 Spielzeugtiere sind äußerst beweglich: Der Löwe kann Beine, Schwanz, Kopf und Kiefer bewegen, der Strauß Hals und Beine und das Warzenschwein Beine, Kopf und Kiefer
+- Kinder werden von den Wüstenabenteuern mit dem wilden Löwen, dem flinken Strauß und dem kräftigen Warzenschwein begeistert sein. Der Geier sorgt für zusätzlichen Spielspaß
+- Der Löwe ist 12 cm groß. Das ist die ideale Größe, um auch unterwegs mit ihm spielen zu können
+- Das LEGO Creator 3-in-1-Bauset „Wilder Löwe“ (31112) regt die Fantasie an. Drei Modelle – ein wilder Löwe, ein Vogel Strauß und ein Warzenschwein – sind möglich.
+- Ab Januar 2021 darfen Sie Sie auch auf weitere tolle LEGO Creator 3-in-1-Sets freuen: Cyber-Drohne (31111), Rennwagentransporter (31113), Geländemotorrad (31114) und Surfer-Strandhaus (31118)
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4P2B7B/?tag=tolees0ca-21)
