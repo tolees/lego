@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60279 City Fire Hazard Truck Toy  F at 33.26 % discount'
-date: 2021-05-30 20:33:58
+date: 2021-06-01 08:03:03
 image: 'https://m.media-amazon.com/images/I/51JPVGBIXxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4VXHR4/?tag=tolees0a-21'
 descuento: '33.26'
-average: '6.99666666666667'
+average: '6.897'
 ---
 
 With a final price of 6.0 GBP (original: 8.99 GBP) you can find [LEGO 60279 City Fire Hazard Truck Toy  Fire Engine with Firefighter Minifigure for 5 Years Old Boys and Girls](https://www.amazon.co.uk/dp/B08G4VXHR4/?tag=tolees0a-21) with a  33.26 % discount here:
@@ -28,10 +28,10 @@ With a final price of 6.0 GBP (original: 8.99 GBP) you can find [LEGO 60279 Ci
 
 ℹ️:
 
-- The toy fire truck can be steered in all directions by pushing and tilting it left and right, to sweep away the flames using its front plow
-- Let the firefighter grab the extinguisher and shoot water elements from the stud-shooter fire hose to knock out the fire. Good work!
-- Kids can become everyday heroes with this cool playset, filled with realistic features for action-packed firefighting fun
-- Features a steerable fire truck with a plow, fire hose, blazing logs, a megaphone and a LEGO firefighter minifigure with a cool helmet
 - In addition to printed instructions, tree LEGO Building Instructions Plus avaiable in app with zoom/rotate viewing tool for smart devices
+- The toy fire truck can be steered in all directions by pushing and tilting it left and right, to sweep away the flames using its front plow
+- Features a steerable fire truck with a plow, fire hose, blazing logs, a megaphone and a LEGO firefighter minifigure with a cool helmet
+- Kids can become everyday heroes with this cool playset, filled with realistic features for action-packed firefighting fun
+- Let the firefighter grab the extinguisher and shoot water elements from the stud-shooter fire hose to knock out the fire. Good work!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4VXHR4/?tag=tolees0a-21)
