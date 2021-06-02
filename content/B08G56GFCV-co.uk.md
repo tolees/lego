@@ -30,8 +30,8 @@ With a final price of 17.47 GBP (original: 24.99 GBP) you can find [LEGO 31113�
 
 - Look out for other new LEGO Creator 3in1 sets: Cyber Drone 31111, Wild Lion 31112, Superbike 31114 and Surfer Beach House 31118
 - The carrier truck with a detachable trailer carries 2 cars that can be loaded on & off its 2 ramps; a kickstand lets the trailer stand on its own
-- This toy truck crane swivels 360 degrees and  lifts cargo up and down, while the mini tugboat also features a working cran
 - Racing action! The perfect treat for thrill seekers looking for hours of gripping action with 3 cool vehicle adventures, on land and sea
 - Features 3 models in 1: a car carrier truck, crane truck and a tugboat with crane, of a perfect portable size to take to a friend’s house
+- This toy truck crane swivels 360 degrees and  lifts cargo up and down, while the mini tugboat also features a working cran
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G56GFCV/?tag=tolees0a-21)
