@@ -28,14 +28,14 @@ There's a deal [LEGO 42100 Technic Control+ Excavadora Liebherr R 9800 S
 
 ℹ️:
 
-- Movimientos personalizados: usa los comandos predefinidos o graba las acciones del modelo para crear complejas secuencias de movimiento.
-- La app te permite conectarte a varios concentradores, garantizándote movimientos precisos y de gran realismo.
-- Cuenta con 3 motores XL, 4 motores L y 2 Smarthubs controlados por Bluetooth.
-- Desafíos y logros: supera desafíos para desbloquear insignias.
 - Control multifunción: conduce hacia delante o hacia atrás, maniobra, gira la superestructura, extiende, sube y baja la pluma, abre e inclina la cuchara y recibe información sobre el modelo, como la posición de la superestructura y la pluma, el consumo de energía y la distancia conducida.
 - Esta réplica de la excavadora Liebherr R 9800, equipada con numerosas características y funciones de gran realismo, está rematada con una genuina combinación de colores y alucinantes detalles en adhesivos.
 - Control con un toque: selecciona un patrón de arrastre en pantalla y mira cómo responde la excavadora a tus órdenes.
+- Cuenta con 3 motores XL, 4 motores L y 2 Smarthubs controlados por Bluetooth.
 - El Smarthub incluye conectividad Bluetooth Low Energy (BLE), un botón de activación, un sensor de 6 ejes y 4 puertos de conexión.
+- Movimientos personalizados: usa los comandos predefinidos o graba las acciones del modelo para crear complejas secuencias de movimiento.
+- Desafíos y logros: supera desafíos para desbloquear insignias.
+- La app te permite conectarte a varios concentradores, garantizándote movimientos precisos y de gran realismo.
 - La Excavadora Liebherr R 9800 LEGO Technic controlada por app se maneja mediante un dispositivo inteligente con 4 pantallas de control alternativas. Visita LEGO.com/devicecheck para consultar la lista de dispositivos compatibles.
 - Este modelo basado en una excavadora se acompaña de la app LEGO TECHNIC CONTROL+ para ofrecerte una experiencia de juego más envolvente y realista, ¡y horas de diversión!
 
