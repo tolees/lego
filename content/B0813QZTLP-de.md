@@ -29,9 +29,9 @@ You've got [LEGO 10933 DUPLO Große Baustelle mit Licht und Ton  Fahrzeuge mit P
 ℹ️:
 
 - Ein abwechslungsreiches und großes Spielset mit einem Turmkran und 4 Fahrzeugen: großem Radlader, Mini-Radlader, Muldenkipper und Bagger
-- Kinder können Vorräte liefern, einen Turm bauen, Trümmer räumen und wenn es Zeit für das Mittagessen ist, gibt es sogar einen Hotdog-Stand vor Ort, den man besuchen kann
-- 15 verschiedene Accessoires inspirieren kleine Bauherren, verschiedene Szenarien zu spielen
-- Enthält 5 Duplo Figuren: eine Malerin und Kranführerin, 2 männliche Bauarbeiter und einen Hotdog-Macher sowie eine Katzenfigur
 - Enthält viele coole Funktionen wie Licht- und Tonbausteinen, um die geschäftige Baustelle zum Leben zu erwecken, und den Push und Go Motor des Radladers
+- Kinder können Vorräte liefern, einen Turm bauen, Trümmer räumen und wenn es Zeit für das Mittagessen ist, gibt es sogar einen Hotdog-Stand vor Ort, den man besuchen kann
+- Enthält 5 Duplo Figuren: eine Malerin und Kranführerin, 2 männliche Bauarbeiter und einen Hotdog-Macher sowie eine Katzenfigur
+- 15 verschiedene Accessoires inspirieren kleine Bauherren, verschiedene Szenarien zu spielen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813QZTLP/?tag=tolees0ca-21)
