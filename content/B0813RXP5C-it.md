@@ -28,10 +28,10 @@ There's a deal [LEGO Super Heroes Marvel Helicarrier degli Avengers con Iron
 
 ℹ️:
 
-- Il set di gioco Helicarrier è un’ottima idea regalo per i bambini dai 9 anni in su
-- I fan potranno unirsi ai loro personaggi Marvel Avengers preferiti per affrontare il supercriminale M O D O K
-- L’Helicarrier trasporterà i bambini sulle scene avvincenti dei film Marvel
-- Include le minifigure di Iron Man, Capitan Marvel, Thor, Black Widow, War Machine e Nick Fury
 - L’Helicarrier, lungo più di 37 cm, è ottimo per il gioco e l’esposizione
+- L’Helicarrier trasporterà i bambini sulle scene avvincenti dei film Marvel
+- Il set di gioco Helicarrier è un’ottima idea regalo per i bambini dai 9 anni in su
+- Include le minifigure di Iron Man, Capitan Marvel, Thor, Black Widow, War Machine e Nick Fury
+- I fan potranno unirsi ai loro personaggi Marvel Avengers preferiti per affrontare il supercriminale M O D O K
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21)

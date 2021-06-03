@@ -29,9 +29,9 @@ You've got [LEGO 60264 City Meeresforschungs-U-Boot  Tiefsee-Unterwasser Set  Ta
 ℹ️:
 
 - Die Untersuchungsarme des U-Bootes können Gegenstände wie versunkene Schätze heben, wenn der Seeteufel plötzlich aus der Höhle kommt und die Taucher erschreckt
-- Enthält 4 Minifiguren, darunter 2 Taucher und Jessica Sharpe aus der Lego City Adventures TV-Serie, einen leuchtenden Seeteufel und eine Krabbenfigur
 - Verwenden Sie Instructions PLUS, das als Teil der kostenlosen Lego Building Instructions-App für intelligente Geräte verfügbar ist, um zu zoomen, zu drehen und zu visualisieren
 - Verfügt über ein U-Boot mit eingebauter Unterwasserdrohne zur Erkundung des Meeresbodens, eine mit Korallen bedeckte Höhle und einen leuchtenden Seeteufel mit Bewegungsfunktion
+- Enthält 4 Minifiguren, darunter 2 Taucher und Jessica Sharpe aus der Lego City Adventures TV-Serie, einen leuchtenden Seeteufel und eine Krabbenfigur
 - Schauen Sie sich andere Lego City Ozean-Sets an: Meeresforschungsschiff 60266, Meeresforschungsbasis 60265 und Mini-U-Boot für Meeresforscher 60263
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813RJRXD/?tag=tolees0ca-21)
