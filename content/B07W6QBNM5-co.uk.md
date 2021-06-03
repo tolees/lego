@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 31.11 % for LEGO 60258 City Nitro Wheels Tuning Work'
-date: 2021-05-30 20:02:23
+date: 2021-06-03 20:42:52
 image: 'https://m.media-amazon.com/images/I/51P4HaxtYIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=tolees0a-21'
 descuento: '31.11'
-average: '70.4928125000001'
+average: '70.4487564766841'
 ---
 
 You've got [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set with Tow Truck  Hot Rod  Camping Trailer and Motorbike](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=tolees0a-21) with a  31.11 % discount, with final price of 61.99 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set w
 
 ℹ️:
 
-- Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
-- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
 - Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
-- Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
 - Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more!
+- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
+- Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
+- Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=tolees0a-21)

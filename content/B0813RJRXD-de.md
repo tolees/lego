@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 31.34 % for LEGO 60264 City Meeresforschungs-U-Boot '
-date: 2021-05-18 08:09:32
+date: 2021-06-03 21:07:11
 image: 'https://m.media-amazon.com/images/I/51EhKdJl66L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813RJRXD/?tag=tolees0ca-21'
 descuento: '31.34'
-average: '22.6861061946902'
+average: '22.6677192982456'
 ---
 
 You've got [LEGO 60264 City Meeresforschungs-U-Boot  Tiefsee-Unterwasser Set  Tauch Abenteuerspielzeug für Kinder](https://www.amazon.de/dp/B0813RJRXD/?tag=tolees0ca-21) with a  31.34 % discount, with final price of 20.59 EUR (original: 29.99 EUR) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 60264 City Meeresforschungs-U-Boot  Tiefsee-Unterwasser Set  Ta
 
 ℹ️:
 
-- Verwenden Sie Instructions PLUS, das als Teil der kostenlosen Lego Building Instructions-App für intelligente Geräte verfügbar ist, um zu zoomen, zu drehen und zu visualisieren
-- Enthält 4 Minifiguren, darunter 2 Taucher und Jessica Sharpe aus der Lego City Adventures TV-Serie, einen leuchtenden Seeteufel und eine Krabbenfigur
-- Verfügt über ein U-Boot mit eingebauter Unterwasserdrohne zur Erkundung des Meeresbodens, eine mit Korallen bedeckte Höhle und einen leuchtenden Seeteufel mit Bewegungsfunktion
 - Die Untersuchungsarme des U-Bootes können Gegenstände wie versunkene Schätze heben, wenn der Seeteufel plötzlich aus der Höhle kommt und die Taucher erschreckt
+- Enthält 4 Minifiguren, darunter 2 Taucher und Jessica Sharpe aus der Lego City Adventures TV-Serie, einen leuchtenden Seeteufel und eine Krabbenfigur
+- Verwenden Sie Instructions PLUS, das als Teil der kostenlosen Lego Building Instructions-App für intelligente Geräte verfügbar ist, um zu zoomen, zu drehen und zu visualisieren
+- Verfügt über ein U-Boot mit eingebauter Unterwasserdrohne zur Erkundung des Meeresbodens, eine mit Korallen bedeckte Höhle und einen leuchtenden Seeteufel mit Bewegungsfunktion
 - Schauen Sie sich andere Lego City Ozean-Sets an: Meeresforschungsschiff 60266, Meeresforschungsbasis 60265 und Mini-U-Boot für Meeresforscher 60263
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813RJRXD/?tag=tolees0ca-21)
