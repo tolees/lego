@@ -28,12 +28,12 @@ There's a deal [LEGO 71746 NINJAGO Dschungeldrache Bauset  mit Ninja Lloy
 
 ℹ️:
 
-- Dieses coole Bauset ist ein äußerst begehrtes Geburtstags- oder Weihnachtsgeschenk for Kinder ab 8 Jahren, die Ninja lieben und sich gerne kreativ beschäftigen.
-- Freue dich auf weitere NINJAGO Sets zur TV-Serie: Lloyds Dschungel-Bike (71745), Das Dorf der Wächter (71747) und Duell der Katamarane (71748).
 - Beinhaltet 4 Minifiguren aus der LEGO NINJAGO TV-Serie: Island Lloyd, Island Zane, PoulErik und den Hüter des Donners. Ihre coole Ausrüstung ermöglicht noch spannendere Action.
+- Freue dich auf weitere NINJAGO Sets zur TV-Serie: Lloyds Dschungel-Bike (71745), Das Dorf der Wächter (71747) und Duell der Katamarane (71748).
 - Die Flügel, die Beine und der Schwanz des Drachen lassen sich bewegen. Er kann sein Maul öffnen und schließen. Auf dem abnehmbaren Sattel kann ein Ninja losreiten.
-- LEGO NINJAGO Dschungeldrache (71746): Mit dem beweglichen Drachen aus diesem Spielset können Kinder spannende Szenen aus der TV-Serie nachstellen oder sich eigene Abenteuer ausdenken.
-- Der Dschungeldrache ist 15 cm hoch, 30 cm lang und 17 cm breit. Nach jedem spannenden Duell bereichert er als spektakulärer Blickfang das Kinderzimmer.
 - Das Set beinhaltet auch ein cooles Surfbrett mit Segel und Shooter für spannende Ninja-Duelle. Die Spielgefährten werden von den Spielmöglichkeiten begeistert sein.
+- LEGO NINJAGO Dschungeldrache (71746): Mit dem beweglichen Drachen aus diesem Spielset können Kinder spannende Szenen aus der TV-Serie nachstellen oder sich eigene Abenteuer ausdenken.
+- Dieses coole Bauset ist ein äußerst begehrtes Geburtstags- oder Weihnachtsgeschenk for Kinder ab 8 Jahren, die Ninja lieben und sich gerne kreativ beschäftigen.
+- Der Dschungeldrache ist 15 cm hoch, 30 cm lang und 17 cm breit. Nach jedem spannenden Duell bereichert er als spektakulärer Blickfang das Kinderzimmer.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08G46PN5C/?tag=tolees0ca-21)
