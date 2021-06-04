@@ -28,15 +28,15 @@ There's a deal [LEGO 60285 City Deportivo Coche de Carreras Descapotable 
 
 ℹ️:
 
-- Una vez construido, el Deportivo LEGO City mide aproximadamente 4 cm de altura, 12 cm de longitud y 5 cm de anchura.
-- El set de construcción LEGO City Deportivo (60285) es fantástico para sorprender a niños y niñas a partir de 5 años por su cumpleaños, por Navidad o en cualquier otra ocasión.
 - Fascinante diseño con una llamativa carrocería, un alerón trasero ajustable de juguete, modernas llantas negras con neumáticos de gran tracción y una detallada cabina tintada con asiento para la minifigura incluida de un piloto.
-- Todo lo que los peques necesitan para crear el impresionante Deportivo LEGO City Grandes Vehículos, con espacio para una minifigura de un piloto al volante. Un sueño para niños que adoran los vehículos asombrosos.
-- Se alimenta de la gran imaginación de los pequeños: ¡solo tienes que abrir las bolsas de ladrillos y el juego comenzará de inmediato!
+- Una vez construido, el Deportivo LEGO City mide aproximadamente 4 cm de altura, 12 cm de longitud y 5 cm de anchura.
+- ¿Qué contiene la caja
 - Mete el turbo a la creatividad de tu peque con los sets LEGO City Grandes Vehículos: contienen detallados vehículos y personajes que estimulan el juego imaginativo mientras ayudan a los niños a mejorar sus habilidades físicas y su confianza.
 - Invita a los niños y niñas a partir de 5 años a descubrir el emocionante mundo de LEGO City con el impactante set de construcción Deportivo: un inspirador vehículo que dará alas a la imaginación y la interpretación de aventuras.
 - Los componentes LEGO cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez; así ha sido desde 1958.
-- ¿Qué contiene la caja
+- El set de construcción LEGO City Deportivo (60285) es fantástico para sorprender a niños y niñas a partir de 5 años por su cumpleaños, por Navidad o en cualquier otra ocasión.
+- Todo lo que los peques necesitan para crear el impresionante Deportivo LEGO City Grandes Vehículos, con espacio para una minifigura de un piloto al volante. Un sueño para niños que adoran los vehículos asombrosos.
+- Se alimenta de la gran imaginación de los pequeños: ¡solo tienes que abrir las bolsas de ladrillos y el juego comenzará de inmediato!
 - Incluye una sencilla guía de construcción impresa y la experiencia Instructions PLUS: una guía de construcción interactiva para pequeños constructores, disponible en la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B08G4FLP8Q/?tag=tolees-21)
