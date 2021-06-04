@@ -28,11 +28,11 @@ With a final price of 13.9 EUR (original: 19.99 EUR) you can find [LEGO 41924 DO
 
 ℹ️:
 
-- Überraschungssteinchen und mehr Steinchen können aus anderen LEGO DOTS Extra DOTS Sets hinzufügt werden: Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921)
 - Mädchen und Jungen ab 6 Jahren können ihre Designfähigkeiten entwickeln und beim Dekorieren ihre Persönlichkeit zeigen. Kreativität zum Bewundern
+- Überraschungssteinchen und mehr Steinchen können aus anderen LEGO DOTS Extra DOTS Sets hinzufügt werden: Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921)
+- LEGO Sets fördern die freie Kreativität. Kinder können dabei Fähgikeiten wie ihre Vorstellungskraft und das problemlösende Denken weiterentwickeln
 - Diese Schreibtischdeko stellt eine coole Katze dar, in deren Pfoten eine Notiz oder ein kleines Fotos passt. Der Körper der Katze dient als Stiftehalter mit zwei Geheimfächer
 - Das Bastelset für Kinder kann nach dem Bauen als ein Kinderzimmer-Deko oder Schreibtischdeko dienen. Die Teile aus anderen Sets passen sehr gut dazu
-- LEGO Sets fördern die freie Kreativität. Kinder können dabei Fähgikeiten wie ihre Vorstellungskraft und das problemlösende Denken weiterentwickeln
 - Gesicht, Augen und Beine lassen sich umgestalten, um der Katze einen anderen Ausdruck zu verleihen. Dazu dient ein schlüsselförmiger Steinchenentferner
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4HF1SX/?tag=tolees0ca-21)

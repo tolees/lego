@@ -28,10 +28,10 @@ With a final price of 7.42 EUR (original: 9.99 EUR) you can find [LEGO 76168 Mar
 
 ℹ️:
 
+- Ein tolles Geburtstags-, Weihnachts- oder Gelegenheitsgeschenk für Superhelden ab 7 Jahren
+- Enthält Captain America als Minifigur und einen baubaren Mech mit großem Schild, der in seine Greifhand passt, sowie einen kleineren Schild für die Minifigur, der sich auch am Bein des Mech befestigen lässt
+- LEGO Marvel Avengers Classic Captain America Mech (76168) ist eine Superbelohnung im Großformat. Der mächtige bewegliche Mech und die Minifigur versprechen riesigen Actionspaß
 - Kinder öffnen das Cockpit des Mech, stecken Captain America hinein und benutzen dann den riesigen Schild des beweglichen Mech, um die Welt vor Bösewichten zu beschützen und ihre Lieblingsfilmszenen nachzustellen
 - Es gibt noch mehr LEGO Marvel Mechs zum Sammeln und Kombinieren, um Kinder unzählige Actionszenen aus den Filme nachstellen oder sich eigene Geschichten ausdenken zu lassen
-- Enthält Captain America als Minifigur und einen baubaren Mech mit großem Schild, der in seine Greifhand passt, sowie einen kleineren Schild für die Minifigur, der sich auch am Bein des Mech befestigen lässt
-- Ein tolles Geburtstags-, Weihnachts- oder Gelegenheitsgeschenk für Superhelden ab 7 Jahren
-- LEGO Marvel Avengers Classic Captain America Mech (76168) ist eine Superbelohnung im Großformat. Der mächtige bewegliche Mech und die Minifigur versprechen riesigen Actionspaß
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G44WXWR/?tag=tolees0ca-21)
