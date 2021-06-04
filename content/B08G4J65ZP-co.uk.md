@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.98 % deal for LEGO 71382 Super Mario Piranha Plant Puz'
-date: 2021-06-03 08:02:17
+date: 2021-06-04 11:37:00
 image: 'https://m.media-amazon.com/images/I/51Cj1smtPbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ There's a deal [LEGO 71382 Super Mario Piranha Plant Puzzling Challenge 
 
 ℹ️:
 
-- Kids can jump on Spiny to earn coins, then spin on the carousel to knock the Piranha Plants out but beware of poisoned swamp
 - Kids can create challenges in the poisonous Soda Jungle to win digital coins, jumping on all 3 red bricks within the time limit
+- Kids can jump on Spiny to earn coins, then spin on the carousel to knock the Piranha Plants out but beware of poisoned swamp
 - Master your jumping and avoid the poison swamp with the Piranha Plants Expansion set, a great addition to the Mario Starter Course (71360)
 - Includes LEGO toy figures of iconic Super Mario enemies: 2 Piranha Plants and a Spiny figure for LEGO Mario (figure not included) to defeat
 - Features a spinning carousel to knock the Piranha Plants out of the way to reach 3 red-coin blocks, offering players the chance to win big
