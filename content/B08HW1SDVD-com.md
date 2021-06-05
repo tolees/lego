@@ -28,10 +28,10 @@ You've got [LEGO Technic McLaren Senna GTR 42123 Toy Car Model Building Kit; Bui
 
 ℹ️:
 
-- Enjoy steering the McLaren toy car using the wheel on top
-- Check out this supercar toy model’s authentic features, like the detailed V8 engine with moving pistons and dihedral doors that open ‘up and out in the unmistakable style of the real McLaren
-- This awesome track-focused supercar toy model looks great on display and is sure to capture the imagination of any kid or adult with a passion for supercars, motorsport and McLaren
 - A stunning build for supercar fans, the LEGO Technic McLaren Senna GTR 42123 model building kit is packed with realistic details inspired by the iconic original
+- This awesome track-focused supercar toy model looks great on display and is sure to capture the imagination of any kid or adult with a passion for supercars, motorsport and McLaren
+- Enjoy steering the McLaren toy car using the wheel on top
 - This set makes a great choice for kids aged 10 and up who’d love to build and display their own McLaren race car
+- Check out this supercar toy model’s authentic features, like the detailed V8 engine with moving pistons and dihedral doors that open ‘up and out in the unmistakable style of the real McLaren
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08HW1SDVD/?tag=tolees-20)
