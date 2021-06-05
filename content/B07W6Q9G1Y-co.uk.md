@@ -28,9 +28,9 @@ There's a deal [LEGO Lamborghini Urus ST-X & Lamborghini Huracán  76899 ](https
 
 ℹ️:
 
+- The powerful Lamborghini Urus ST-X triumph combines race circuit and off-road track, it comes with lateral racing exhausts and green livery
 - Includes 2 racing driver minifigures to recreate all the thrills and spills of the racetrack. Now, who will win the big race?
 - Features 2 brilliantly detailed Lamborghini car toys for racing action, these replicas come with a starting line with ’lights’ for more fun
 - The sleek Lamborghini Huracán has a new black & gold livery embellished with gold details and realistic stickers to mark superb aerodynamics
-- The powerful Lamborghini Urus ST-X triumph combines race circuit and off-road track, it comes with lateral racing exhausts and green livery
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W6Q9G1Y/?tag=tolees0a-21)
