@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 60266 City Le Bateau d’Exploration  at 22.31 % discount'
-date: 2021-06-03 20:38:22
-image: 'https://m.media-amazon.com/images/I/51q89OcubML._SL500_._SL400_.jpg'
+date: 2021-06-05 20:52:14
+image: 'https://m.media-amazon.com/images/I/51lx7TurxsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,24 +19,24 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21'
 descuento: '22.31'
-average: '115.186575342465'
+average: '115.138122866893'
 ---
 
 With a final price of 100.99 EUR (original: 129.99 EUR) you can find [LEGO 60266 City Le Bateau d’Exploration océanique  Jouet de Bateau Flottant  Ensemble sous-Marin  Aventure de plongée pour Enfants](https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21) with a  22.31 % discount here:
 
-[![LEGO 60266 City Le Bateau d’Exploration ](https://m.media-amazon.com/images/I/51q89OcubML._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21)
+[![LEGO 60266 City Le Bateau d’Exploration ](https://m.media-amazon.com/images/I/51lx7TurxsS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21)
 
 ℹ️:
 
-- À la recherche de jouets passionnants pour des enfants de 7 ans et plus
-- Le set LEGO City Le bateau d’exploration océanique (60266) comprend plusieurs modèles et constitue un merveilleux cadeau pour les jeunes explorateurs. Il inclut tout ce dont les enfants ont besoin pour une expérience de jeu amusante et gratifiante.
 - Les héros de LEGO City sont fiers de soutenir le travail d’avant-garde des explorateurs de National Geographic, qui contribuent à bâtir un monde meilleur pour tous. Les sets LEGO City sur le thème de locéan permettent aux enfants de découvrir le monde passionnant de lexploration sous-marine.
+- Pas besoin de piles. Ce formidable jouet composé de plusieurs modèles, dont un bateau flottant, fonctionne grâce à limagination débordante des jeunes enfants.
+- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche.
+- À la recherche de jouets passionnants pour des enfants de 7 ans et plus
+- Que contient la boîte
+- Une fois construit, le bateau d’exploration mesure plus de 18 cm de haut, 63 cm de long et 17 cm de large, tandis que l’épave de bateau pirate mesure plus de 16 cm de haut, 13 cm de long et 8 cm de large.
+- Le set LEGO City Le bateau d’exploration océanique (60266) comprend plusieurs modèles et constitue un merveilleux cadeau pour les jeunes explorateurs. Il inclut tout ce dont les enfants ont besoin pour une expérience de jeu amusante et gratifiante.
+- Le set inclut un guide de construction imprimé facile à suivre et figure dans Instructions PLUS, un guide interactif pour les constructeurs en herbe. Disponible dans l’application gratuite LEGO Instructions de montage pour appareils intelligents.
 - Un bateau dexploration flottant, avec une grue qui fonctionne, une cage à requins, un canot de sauvetage, un sous-marin, un hélicoptère, 8 figurines, dont Harl Hubbs, le personnage de la série télévisée LEGO City, un requin et une raie.
 - Ce set de construction constitue un formidable cadeau de Noël, danniversaire ou autre pour les enfants passionnés par lexploration sous-marine et les fans de la série télévisée LEGO City Adventures.
-- Une fois construit, le bateau d’exploration mesure plus de 18 cm de haut, 63 cm de long et 17 cm de large, tandis que l’épave de bateau pirate mesure plus de 16 cm de haut, 13 cm de long et 8 cm de large.
-- Pas besoin de piles. Ce formidable jouet composé de plusieurs modèles, dont un bateau flottant, fonctionne grâce à limagination débordante des jeunes enfants.
-- Que contient la boîte
-- Le set inclut un guide de construction imprimé facile à suivre et figure dans Instructions PLUS, un guide interactif pour les constructeurs en herbe. Disponible dans l’application gratuite LEGO Instructions de montage pour appareils intelligents.
-- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21)
