@@ -28,10 +28,10 @@ There's a deal [Juniors LEGO 10770 4+ Toy Story 4 Buzz and Woody’s Carnival Ma
 
 ℹ️:
 
-- Includes Buzz Lightyear, Woody and Bo Peep minifigures, plus Ducky and Bunny toy story figures
-- Help your child replay exciting toy story movie scenes or make up their own stories
-- Features an ice cream shop with register, a table and benches
-- Features a carnival shooting game, decorated rocket elements that can be knocked down and separate, working cannon
 - This cute set also includes a Terrorantulus ride that turns and has adjustable arms, plus two bumper cars with starter brick chassis
+- Features a carnival shooting game, decorated rocket elements that can be knocked down and separate, working cannon
+- Includes Buzz Lightyear, Woody and Bo Peep minifigures, plus Ducky and Bunny toy story figures
+- Features an ice cream shop with register, a table and benches
+- Help your child replay exciting toy story movie scenes or make up their own stories
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07JC3FB37/?tag=tolees0a-21)
