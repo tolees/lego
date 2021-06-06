@@ -30,8 +30,8 @@ You've got [LEGO Speed Champions - Lego 75892 Speed Champions McLaren Senna Renn
 
 - Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
 - Der McLaren Senna zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und austauschbaren Felgen, Heckspoiler, transparenten Elementen als Leuchten, Aufklebern mit den Logos von McLaren und Senna und authentischen Designdetails.
-- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
-- Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
 - Zubehör: McLaren-Rennfahrerhelm und Schraubenschlüssel.
+- Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
+- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)
