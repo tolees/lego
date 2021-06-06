@@ -28,10 +28,10 @@ There's a deal [LEGO City Passenger Train 60197 Building Kit  677 Pieces   Overb
 
 ℹ️:
 
-- Passenger Train locomotive with cars measures over 4” (11cm) high, 27” (69cm) long and 1” (5cm) wide Engine section measures over 4” (11cm) high, 10” (26cm) long and 1” (5cm) wide Platform measures over 2” (7cm) high, 4” (11cm) wide and 2” (6cm) deep
-- Build a remote control passenger train set with motorized engine, 2 cars, platform, signals and configurable circular track with this train set and tracks for kids!
 - Use a 10-speed Bluetooth remote control to operate the motorized railway toy and take the 4 minifigures on their journey: 2 passengers, a train conductor and a train attendant
+- Passenger Train locomotive with cars measures over 4” (11cm) high, 27” (69cm) long and 1” (5cm) wide Engine section measures over 4” (11cm) high, 10” (26cm) long and 1” (5cm) wide Platform measures over 2” (7cm) high, 4” (11cm) wide and 2” (6cm) deep
 - 677 pieces – Train set for boys and girls aged between 6 and 12 and for fans and kids of all ages
 - The LEGO City Passenger Train 60197 construction set can be built together with all other original LEGO sets and LEGO building bricks for creative construction
+- Build a remote control passenger train set with motorized engine, 2 cars, platform, signals and configurable circular track with this train set and tracks for kids!
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07CC37F63/?tag=tolees-20)
