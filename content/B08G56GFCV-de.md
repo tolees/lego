@@ -28,12 +28,12 @@ With a final price of 18.05 EUR (original: 24.99 EUR) you can find [LEGO 31113 C
 
 ℹ️:
 
+- Ideales Geschenk für LEGO Fans ab 7 Jahren, die sich für coole LKWs und Boote begeistern
+- Das fantastische LEGO Creator 3-in-1-Spielset „Rennwagentransporter“ (31113) enthält gleich drei Modelle – einen Autotransporter, einen Fahrzeugkran und einen Schlepper mit Kran. Unzählige kreative Spielmöglichkeiten sind garantiert
+- Der Rennwagentransporter ist ein Sattelschlepper mit abkoppelbarem Auflieger, auf den mithilfe der beiden Rampen 2 Autos aufgeladen werden können. Dank eines Klappständers kann der Anhänger allein stehen
+- Zu dem Autotransporter gehören auch ein blauer und ein roter Rennwagen, damit Kinder spannende Rennen auf der Rennstrecke austragen können
 - Der Autotransporter ist 7 cm hoch, 24 cm lang und 4 cm breit. Das ist die ideale Größe für stundenlangen Spielspaß zu Hause oder bei Freunden
 - Der Fahrzeugkran verfügt über einen um 360 Grad schwenkbaren Kran, der Lasten heben und absetzen kann. An Bord des Mini-Schleppers befindet sich ein funktionierender Kran
-- Zu dem Autotransporter gehören auch ein blauer und ein roter Rennwagen, damit Kinder spannende Rennen auf der Rennstrecke austragen können
-- Das fantastische LEGO Creator 3-in-1-Spielset „Rennwagentransporter“ (31113) enthält gleich drei Modelle – einen Autotransporter, einen Fahrzeugkran und einen Schlepper mit Kran. Unzählige kreative Spielmöglichkeiten sind garantiert
-- Ideales Geschenk für LEGO Fans ab 7 Jahren, die sich für coole LKWs und Boote begeistern
-- Der Rennwagentransporter ist ein Sattelschlepper mit abkoppelbarem Auflieger, auf den mithilfe der beiden Rampen 2 Autos aufgeladen werden können. Dank eines Klappständers kann der Anhänger allein stehen
 - Ab Januar 2021 darfen Sie Sie auch auf weitere tolle LEGO Creator 3-in-1-Sets freuen: Cyber-Drohne (31111), Wilder Löwe (31112), Geländemotorrad (31114) und Surfer-Strandhaus (31118)
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G56GFCV/?tag=tolees0ca-21)
