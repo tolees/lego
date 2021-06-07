@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 34.29 % for LEGO 42115 Technic Lamborghini Sián FKP '
-date: 2021-06-04 17:48:04
+date: 2021-06-07 02:46:21
 image: 'https://m.media-amazon.com/images/I/51DGVeEgUNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21'
 descuento: '34.29'
-average: '268.914742268038'
+average: '268.715128205125'
 ---
 
 You've got [LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advanced Building Set for Adults  Exclusive Collectible Model](https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21) with a  34.29 % discount, with final price of 229.99 GBP (original: 349.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advan
 
 ℹ️:
 
-- Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
 - Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
-- Includes a collector’s building instruction booklet, decorative display plate, and unique serial number
 - This 3,696-piece LEGO Technic 1:8 scale model car brings you closer than ever to the real Lamborghini Sián FKP 37
 - The Sián FKP 37 LEGO model is presented in luxury packaging and provides a stunning display piece to build and enjoy
+- Includes a collector’s building instruction booklet, decorative display plate, and unique serial number
+- Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21)
