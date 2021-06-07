@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Discount of 25.01 % for LEGO Trolls World Tour Poppy’s Hot Air B'
-date: 2021-05-21 11:41:00
-image: 'https://m.media-amazon.com/images/I/514QulPN58L._SL400_.jpg'
+title: 'Discount of 32.31 % for LEGO Trolls World Tour Poppy’s Hot Air B'
+date: 2021-06-07 08:32:26
+image: 'https://m.media-amazon.com/images/I/514QulPN58L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07WM8XBMR-com LEGO Trolls World Tour Poppy’s Hot Air Balloon Adventure...'
 sku: 'B07WM8XBMR-com'
 tags: [ 'Building Toys','Toy Building Sets','Toys & Games','lego', ]
-actualPrice: 22.49 USD
+actualPrice: 20.3 USD
 currency: USD
-price: 22.49
+price: 20.3
 comparePrice: 29.99 USD
-prodname: 'LEGO Trolls World Tour Poppy’s Hot Air Balloon Adventure 41252 Building Kit  An Ideal Holiday Gift for Creative Play  New 2020  250 Pieces '
+prodname: 'LEGO Trolls World Tour Poppy’s Hot Air Balloon Adventure 41252 Building Kit  an Ideal for Creative Play  New 2020  250 Pieces '
 country: 'com'
 flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B07WM8XBMR/?tag=tolees-20'
-descuento: '25.01'
-average: '22.49'
+descuento: '32.31'
+average: '21.76'
 ---
 
-You've got [LEGO Trolls World Tour Poppy’s Hot Air Balloon Adventure 41252 Building Kit  An Ideal Holiday Gift for Creative Play  New 2020  250 Pieces ](https://www.amazon.com/dp/B07WM8XBMR/?tag=tolees-20) with a  25.01 % discount, with final price of 22.49 USD (original: 29.99 USD) at the following link:
+You've got [LEGO Trolls World Tour Poppy’s Hot Air Balloon Adventure 41252 Building Kit  an Ideal for Creative Play  New 2020  250 Pieces ](https://www.amazon.com/dp/B07WM8XBMR/?tag=tolees-20) with a  32.31 % discount, with final price of 20.3 USD (original: 29.99 USD) at the following link:
 
-[![LEGO Trolls World Tour Poppy’s Hot Air B](https://m.media-amazon.com/images/I/514QulPN58L._SL400_.jpg)](https://www.amazon.com/dp/B07WM8XBMR/?tag=tolees-20)
+[![LEGO Trolls World Tour Poppy’s Hot Air B](https://m.media-amazon.com/images/I/514QulPN58L._SL500_._SL400_.jpg)](https://www.amazon.com/dp/B07WM8XBMR/?tag=tolees-20)
 
 ℹ️:
 
-- A creative gift that inspires Trolls fans from 6 years old to imaginative fun. This LEGO set (new from 2020) is a great gift for anyone who loves toy vehicles and the Trolls characters.
-- The pink hot air balloon is the perfect gift for any Trolls fan. The set contains lots of features so children can recreate their favourite scenes from the movie Trolls World Tour as adventurous role play.
-- There is a lot to discover! Children can use the movable heart wings to change the position of the balloon, play with the minifigures and hair of the trolls, and then search the music string to collect hidden in the metronome.
-- The 3 Trolls minifigures - Poppy, Branch and Biggie (as exclusive character) as well as Mr Dinkles - let the fun start immediately. Plenty of Trolls extras ensure that the fun of playing continues even when the model is finished.
-- The cute Trolls playset 41252 is just the right size for fun role-playing games. The hot air balloon measures 22 cm high, 17 cm long and 13 cm wide. Thanks to the digital instructions PLUS, available in the free LEGO Life app, children can enjoy a new building experience and can be shown by the cool interactive view functions how to build the model.
+- This awesome LEGO Trolls World Tour movie building toy sparks imagination, offers endless build-and-play fun, and is a creativity-filled holiday, birthday or anyday gift for fans of Trolls toys ages 6+
+- Kids can use the flapping hearts to alter the position of the balloon, play with the minifigures (and the Trolls’ hair ), then find the collectible musical string hidden in the metronome
+- With 3 Trolls minifigures in this set, (Poppy, Branch, plus exclusive character Biggie (and Mr Dinkles), and a stack of Trolls-inspired extras, the play begins right away and the fun goes on after the model is built
+- This LEGO pink hot air balloon toy from DreamWorks Trolls World Tour movie lets kids recreate their favorite scenes for lots of role-play adventures
+- With the balloon measuring over 8” (22cm) high, 6” (17cm) long, 5” (13cm) wide, this cute Trolls gift for girls and boys is a great size for role-play fun
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07WM8XBMR/?tag=tolees-20)
