@@ -28,10 +28,10 @@ You've got [LEGO Technic Chevrolet Corvette ZR1 42093 Building Kit  579 Pieces ]
 
 ℹ️:
 
-- 2-in-1 LEGO Technic set: rebuilds into a Hot Rod replica model
-- This LEGO Technic Chevrolet Corvette ZR1 42093 set can be built together with all other original LEGO sets and LEGO bricks for creative building
-- Build and experience an iconic supercar—the LEGO Technic Chevrolet Corvette ZR1!
-- Chevrolet Corvette ZR1 measures over 3” (8cm) high, 11” (29cm) long and 4” (12cm) wide Hot Rod measures over 3” (8cm) high, 9” (23cm) long and 4” (12cm) wide 579 pieces – For boys and girls aged 9+ and for fans and big kids of all ages
 - This collectible car model features a large rear wing, 4 tailpipes, black spoked rims with low-profile tires, working steering and visible moving V8 pistons
+- This LEGO Technic Chevrolet Corvette ZR1 42093 set can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Chevrolet Corvette ZR1 measures over 3” (8cm) high, 11” (29cm) long and 4” (12cm) wide Hot Rod measures over 3” (8cm) high, 9” (23cm) long and 4” (12cm) wide 579 pieces – For boys and girls aged 9+ and for fans and big kids of all ages
+- Build and experience an iconic supercar—the LEGO Technic Chevrolet Corvette ZR1!
+- 2-in-1 LEGO Technic set: rebuilds into a Hot Rod replica model
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07GYTVQN5/?tag=tolees-20)
