@@ -28,10 +28,10 @@ With a final price of 10.99 EUR (original: 14.99 EUR) you can find [Warner Bros.
 
 ℹ️:
 
-- Plataforma del juego: PlayStation 4
-- LEGO Harry Potter: Años 5-7 transportará a los jugadores a través de los tres últimos libros y las cuatro últimas películas
-- Tipo de producto: videojuego
 - LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
 - El paquete trae dos videojuegos más vendidos remasterizados en un disco
+- Plataforma del juego: PlayStation 4
+- Tipo de producto: videojuego
+- LEGO Harry Potter: Años 5-7 transportará a los jugadores a través de los tres últimos libros y las cuatro últimas películas
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B01M06BS9E/?tag=tolees-21)

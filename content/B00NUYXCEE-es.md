@@ -28,7 +28,7 @@ You've got [Warner Bros Interactive Spain - LEGO Batman 3 Más allá de Gotham](
 
 ℹ️:
 
-- Plataforma : PlayStation Vita
 - PEGI 7
+- Plataforma : PlayStation Vita
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B00NUYXCEE/?tag=tolees-21)
