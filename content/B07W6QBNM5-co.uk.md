@@ -28,10 +28,10 @@ You've got [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set w
 
 ℹ️:
 
-- Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
-- Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more!
-- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
-- Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
 - Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
+- Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
+- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
+- Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more!
+- Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W6QBNM5/?tag=tolees0a-21)
