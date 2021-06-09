@@ -28,10 +28,10 @@ With a final price of 49.03 GBP (original: 64.99 GBP) you can find [Star Wars TM
 
 ℹ️:
 
-- This set combines brilliantly with Poe Damerons X-wing Fighter (75273) for epic First Order vs. Resistance battles!
 - Fighter features an opening minifigure cockpit and 2 spring-loaded missiles. There’s also a docking tower for launch, landing and to display
-- Kids can leap into the cockpit of the starfighter and fly into battle, then hit top speed and fire the spring-loaded shooters!
+- This set combines brilliantly with Poe Damerons X-wing Fighter (75273) for epic First Order vs. Resistance battles!
 - Includes 3 minifigures: The First Order TIE Pilot, Knight of Ren and Finn minifigures with cool weapons: guns and a sword
 - When the First Order missions with this super-fast Sith TIE Fighter have ended, kids can display it on the tower to decorate their room
+- Kids can leap into the cockpit of the starfighter and fly into battle, then hit top speed and fire the spring-loaded shooters!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07WC12QZW/?tag=tolees0a-21)
