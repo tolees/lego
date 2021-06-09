@@ -28,11 +28,11 @@ With a final price of 10.74 EUR (original: 14.99 EUR) you can find [LEGO 41925 D
 
 ℹ️:
 
-- Die Box lässt sich leicht zusammensetzen und abschließen, um kleine Geheimnisse und Schätze sicher aufzubewahren. Das Set kann dann als Schreibtischdeko benutzt werden
+- Das Bastelset für Kinder ist ein ideales Geburtstags- oder Weihnachtseschenk für junge Designer die gerne basteln, und sich durch Design und Kreation ausdrücken möchten
 - Fördern Sie die Kreativität Ihrer Kinder durch LEGO DOTS Sets - anpassbaren Schmuck oder Raumdekor und bringen Sie den Jugendlichen die Freude am LEGO-Spiel
-- Das Kreativset verfügt über eine buchförmige Box mit Schloss und Aufbewahrungsraum, eine kleine Box mit Bilderrahmen, 2 Schlüsseln sowie ein Ablagefach
 - Weitere künstlerische Möglichkeiten finden Sie in anderen LEGO DOTS Sets: Extra DOTS Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921)
 - Die zum Set gehörenden Steinchen eignen sich hervorragend für einzigartige Designs. Die Box bietet eine offene, spielerische Inspiration zum kreiern
-- Das Bastelset für Kinder ist ein ideales Geburtstags- oder Weihnachtseschenk für junge Designer die gerne basteln, und sich durch Design und Kreation ausdrücken möchten
+- Die Box lässt sich leicht zusammensetzen und abschließen, um kleine Geheimnisse und Schätze sicher aufzubewahren. Das Set kann dann als Schreibtischdeko benutzt werden
+- Das Kreativset verfügt über eine buchförmige Box mit Schloss und Aufbewahrungsraum, eine kleine Box mit Bilderrahmen, 2 Schlüsseln sowie ein Ablagefach
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4JP88F/?tag=tolees0ca-21)

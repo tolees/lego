@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '30.72 % deal for LEGO 41443 Friends Olivia s Electric Car'
-date: 2021-06-02 20:04:52
-image: 'https://m.media-amazon.com/images/I/51HxXyslPgL._SL500_._SL400_.jpg'
+date: 2021-06-09 07:33:03
+image: 'https://m.media-amazon.com/images/I/51SP7KHcg6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,14 +24,14 @@ average: '9.0'
 
 There's a deal [LEGO 41443 Friends Olivia s Electric Car Toy  Eco Education Playset for Kids 6+](https://www.amazon.co.uk/dp/B08G4BMD2K/?tag=tolees0a-21)  with  30.72 % discount, final price tag of  9.0 GBP (original: 12.99 GBP) here:
 
-[![LEGO 41443 Friends Olivia s Electric Car](https://m.media-amazon.com/images/I/51HxXyslPgL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4BMD2K/?tag=tolees0a-21)
+[![LEGO 41443 Friends Olivia s Electric Car](https://m.media-amazon.com/images/I/51SP7KHcg6S._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4BMD2K/?tag=tolees0a-21)
 
 ℹ️:
 
 - Includes 2 LEGO minidolls Mia and Olivia, and Elliot the puppy figure to sit at the back of the car to spark creative storytelling
-- It also features a charging station with a toy wind turbine & a solar panel, kids can spin the turbine sails to ‘generate’ the electricity
-- LEGO Friends toys come with colorful buildings, cool toy vehicles and relatable characters to stimulate kids passions amid realistic settings
-- Features a buildable electric car for all kids who love vehicles and the environment, with a passion for a greener, modern way of life
 - The electric toy car’s wheels spin so kids can ‘drive’ it round, at a picnic spot it hooks up to the charging station with a cable
+- Features a buildable electric car for all kids who love vehicles and the environment, with a passion for a greener, modern way of life
+- LEGO Friends toys come with colorful buildings, cool toy vehicles and relatable characters to stimulate kids passions amid realistic settings
+- It also features a charging station with a toy wind turbine & a solar panel, kids can spin the turbine sails to ‘generate’ the electricity
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4BMD2K/?tag=tolees0a-21)

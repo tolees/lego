@@ -29,9 +29,9 @@ With a final price of 66.98 GBP (original: 84.99 GBP) you can find [LEGO 75948�
 ℹ️:
 
 - Build the 3-level LEGO Hogwarts Castle Clock Tower with iconic locations and 8 minifigures from the Harry Potter movies.
-- Includes 8 new-for-June-2019 Harry Potter minifigures: Harry, Ron, Hermione,  Fleur, Cedric, Viktor, Dumbledore and Madame Maxime.
-- All figures come with wands and their Yule Ball costumes with scene including 2 icy tables, buildable icy sculpture and a Christmas Tree.
 - Locations include the Defense Against the Dark Arts classroom, Dumbledore’s Office, Hospital Wing, Prefects’ Bathroom and a Yule Ball scene.
 - Features a clock-changing mechanism to create Time-Turner time travel adventures, and a ‘dance’ function to get the Yule Ball really moving!
+- Includes 8 new-for-June-2019 Harry Potter minifigures: Harry, Ron, Hermione,  Fleur, Cedric, Viktor, Dumbledore and Madame Maxime.
+- All figures come with wands and their Yule Ball costumes with scene including 2 icy tables, buildable icy sculpture and a Christmas Tree.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07G3S3M9J/?tag=tolees0a-21)

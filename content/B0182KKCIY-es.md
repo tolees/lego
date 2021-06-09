@@ -28,9 +28,9 @@ There's a deal [Warner Bros. Entertainment - LEGO Vengadores - [Edición: Españ
 
 ℹ️:
 
-- Plataforma del juego: PlayStation 4
 - El juego cuenta con más de cien personajes jugables
 - Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
+- Plataforma del juego: PlayStation 4
 - Cada pareja de personajes tiene su propio ataque de equipo
 - Tipo de producto: videojuego de acción y aventura
 

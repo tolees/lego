@@ -28,11 +28,11 @@ With a final price of 75.34 EUR (original: 89.99 EUR) you can find [LEGO 41167�
 
 ℹ️:
 
-- Accesorios incluidos: un retrato con caballete, un cofre del tesoro, una corona, un telescopio, un busto con pedestal, una pajarera, una farola, una caja de regalo, un regalo, un pez, un cangrejo, pan, verduras, una escoba y una espada.
-- Levanta el edredón, mete a un minipersonaje en la cama, ¡y luego arrópalo bien!
 - Este set inspirado en Frozen que adorará cualquier fan de la película Frozen II es fantástico para regalar con motivo de un cumpleaños o por Navidad.
-- Combínalo con los sets Casa del Árbol Encantada (41164), Expedición en Canoa de Anna (41165), Aventura en Carreta de Elsa (41166), Joyero Creativo de Elsa (41168) y Olaf (41169) para disfrutar de más aventuras todavía en el mundo de LEGO l Disney Frozen II.
+- Levanta el edredón, mete a un minipersonaje en la cama, ¡y luego arrópalo bien!
+- Accesorios incluidos: un retrato con caballete, un cofre del tesoro, una corona, un telescopio, un busto con pedestal, una pajarera, una farola, una caja de regalo, un regalo, un pez, un cangrejo, pan, verduras, una escoba y una espada.
 - El castillo de Frozen mide más de 30 cm de altura, 30 cm de ancho y 12 cm de profundidad.
+- Combínalo con los sets Casa del Árbol Encantada (41164), Expedición en Canoa de Anna (41165), Aventura en Carreta de Elsa (41166), Joyero Creativo de Elsa (41168) y Olaf (41169) para disfrutar de más aventuras todavía en el mundo de LEGO l Disney Frozen II.
 - Contiene un castillo de 3 plantas, con salón del trono, dormitorio y desván, un puesto de pan y un puesto de pescado con un pequeño embarcadero y un bote con sus remos.
 - Incluye minipersonajes de Elsa, Anna y Kristoff, así como 3 figuras LEGO de animales: un gato y 2 pájaros.
 - Los muebles se han diseñado para que los puedas mover de una estancia a otra y combinarlos fácilmente.
