@@ -28,13 +28,13 @@ With a final price of 66.54 EUR (original: 79.99 EUR) you can find [Lego Archite
 
 ℹ️:
 
-- Das Set enthält über 1.190 Teile.
+- Das LEGO Architecture Set bietet ein anspruchsvolles und lohnendes Bauerlebnis.
 - Mit der National Gallery, der Nelsonsäule (bewacht von 4 Löwen), 2 Brunnen, 4 Statuensockeln, 10 Bäumen, 6 Laternen und einer mit Platten besetzten Grundplatte, die den Platz und die Straßenabschnitte darstellt und 2 Londoner Busse und 2 schwarze Taxis aufweist.
-- LEGO Architecture Interpretation des Trafalgar Square, einem realen Wahrzeichen von London.
-- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
+- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
 - Das beiliegende Heft enthält Informationen über die Architektur und die Geschichte der einzelnen Bauwerke sowie historische Fakten zum Trafalgar Square und architektonischen Erbe dieses berühmten Platzes (nur in englischer Sprache, das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden).
 - Enthält ein dekoratives Trafalgar-Square-Namensschild.
-- Das LEGO Architecture Set bietet ein anspruchsvolles und lohnendes Bauerlebnis.
-- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
+- LEGO Architecture Interpretation des Trafalgar Square, einem realen Wahrzeichen von London.
+- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
+- Das Set enthält über 1.190 Teile.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTK9B3Z/?tag=tolees0ca-21)
