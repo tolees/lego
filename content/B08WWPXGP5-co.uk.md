@@ -28,15 +28,15 @@ With a final price of 40.21 GBP (original: 59.99 GBP) you can find [LEGO Friends
 
 ℹ️:
 
-- LEGO kids’ toys are tested to the max to make sure they meet stringent global standards, ensuring a safe and happy play experience
-- This LEGO Friends set packs in lots of pretend school toys such as creative drama dress-up props, musical instruments, a ladybird to study under the microscope, plus brushes, paints and an easel
-- New LEGO toys meet stringent industry standards to ensure they are consistent, compatible and connect and pull apart consistently every time – it’s been that way since 1958
-- The playset comes with 3 mini-doll figures to play with, including new boy Julian and a teacher figure. The model also has 3 classrooms to build and explore, as well as a canteen, lockers, toilet and playground
-- Introduce youngsters to the world of Heartlake City toys. They’ll find cool vehicles, realistic buildings and everyday heroes – perfect for kids who love to roleplay the real world
-- This 605-piece school gift delivers a rewarding building experience for kids aged 6+, making it the perfect Christmas or birthday present for youngsters who love to play out real-life stories
 - Attractive 2-storey Heartlake City School (41682) is brimming with creative details so kids can enjoy hours of fun recreating their perfect school day with LEGO Friends Olivia
 - This extensive LEGO Friends playset offers hours of make-believe school fun. Packed with play starters, it’s great for solo building or for enjoying with family and friends
-- Measures over 6 in. (17 cm) high, 9 in. (25 cm) wide and 3 in. (9 cm) deep, and sits on a sturdy baseplate, making it an impressive stand-alone display
 - The dining table is hinged so that it swings out of the canteen, allowing kids to easily play out friendship stories during their lunch break
+- Introduce youngsters to the world of Heartlake City toys. They’ll find cool vehicles, realistic buildings and everyday heroes – perfect for kids who love to roleplay the real world
+- New LEGO toys meet stringent industry standards to ensure they are consistent, compatible and connect and pull apart consistently every time – it’s been that way since 1958
+- LEGO kids’ toys are tested to the max to make sure they meet stringent global standards, ensuring a safe and happy play experience
+- The playset comes with 3 mini-doll figures to play with, including new boy Julian and a teacher figure. The model also has 3 classrooms to build and explore, as well as a canteen, lockers, toilet and playground
+- This LEGO Friends set packs in lots of pretend school toys such as creative drama dress-up props, musical instruments, a ladybird to study under the microscope, plus brushes, paints and an easel
+- This 605-piece school gift delivers a rewarding building experience for kids aged 6+, making it the perfect Christmas or birthday present for youngsters who love to play out real-life stories
+- Measures over 6 in. (17 cm) high, 9 in. (25 cm) wide and 3 in. (9 cm) deep, and sits on a sturdy baseplate, making it an impressive stand-alone display
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08WWPXGP5/?tag=tolees0a-21)
