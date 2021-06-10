@@ -28,12 +28,12 @@ There's a deal [LEGO 75267 Star Wars Mandalorianer Battle Pack Set mit 
 
 ℹ️:
 
+- Die in der kostenlosen LEGO Life App verfügbaren Instructions PLUS erleichtern Kindern die Entwicklung von Baufähigkeiten, denn sie ermöglichen es ihnen, die digitale Modellansicht während des Bauens zu vergrößern, zu drehen und näher zu betrachten.
 - Mit den 4 Star Wars Mandalorianer-Minifiguren lassen sich spannende Abenteuer erleben, denn jede von ihnen trägt einen Shooter-Blaster. Außerdem gibt es eine Festung mit Befestigungspunkt für einen Blaster sowie ein Speeder-Bike mit Shootern.
 - Junge Star Wars Fans können eine ganze Streitmacht sammeln, und es gibt jede Menge LEGO Steine, die Kinder zum selbstständigen Spielen inspirieren. Sie können aber auch Freunde mitspielen lassen oder das Battle Pack mit anderen LEGO Star Wars Sets kombinieren.
-- Mit diesem coolen Bauspielzeug (75267) können Kinder eine beeindruckende Mandalorianer-Streitmacht aufbauen, Szenen aus der TV-Serie „Star Wars: The Mandalorian“ nachspielen und sich eigene spannende Geschichten ausdenken.
 - Diesem LEGO Bauspielzeug und Sammelobjekt reicht die Kreativität der Kinder als Antrieb, Batterien werden nicht benötigt. Deshalb werden die Abenteuer mit den Star Wars Charakteren kein Ende nehmen!
-- Das 102-teilige Star Wars Bau- und Spielset ist rasch gebaut (und nach dem Actionspaß schnell wieder repariert). Ein tolles Geschenk für Jungen und Mädchen ab 6 Jahren zu Weihnachten oder als besondere Überraschung.
 - Der LEGO Star Wars Mandalorianer-Speeder ist 4 cm hoch, 8 cm lang und 6 cm breit. Deshalb passt er zusammen mit der Festung und den Minifiguren leicht in jeden Kinderrucksack, um auch unterwegs damit spielen zu können.
-- Die in der kostenlosen LEGO Life App verfügbaren Instructions PLUS erleichtern Kindern die Entwicklung von Baufähigkeiten, denn sie ermöglichen es ihnen, die digitale Modellansicht während des Bauens zu vergrößern, zu drehen und näher zu betrachten.
+- Mit diesem coolen Bauspielzeug (75267) können Kinder eine beeindruckende Mandalorianer-Streitmacht aufbauen, Szenen aus der TV-Serie „Star Wars: The Mandalorian“ nachspielen und sich eigene spannende Geschichten ausdenken.
+- Das 102-teilige Star Wars Bau- und Spielset ist rasch gebaut (und nach dem Actionspaß schnell wieder repariert). Ein tolles Geschenk für Jungen und Mädchen ab 6 Jahren zu Weihnachten oder als besondere Überraschung.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TLXR3/?tag=tolees0ca-21)
