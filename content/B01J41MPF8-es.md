@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '16.31 % deal for LEGO 21034 Architecture Skyline Collecti'
-date: 2021-06-07 14:19:02
-image: 'https://m.media-amazon.com/images/I/51H-lC7TFBS._SL500_._SL400_.jpg'
+date: 2021-06-10 15:02:36
+image: 'https://m.media-amazon.com/images/I/51Gja97SSbS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,24 +19,24 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21'
 descuento: '16.31'
-average: '41.6238888888892'
+average: '41.6007848837212'
 ---
 
 There's a deal [LEGO 21034 Architecture Skyline Collection Londres  Set de Construcción  Modelo de Coleccionista  Maqueta Decorativa](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)  with  16.31 % discount, final price tag of  37.65 EUR (original: 44.99 EUR) here:
 
-[![LEGO 21034 Architecture Skyline Collecti](https://m.media-amazon.com/images/I/51H-lC7TFBS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
+[![LEGO 21034 Architecture Skyline Collecti](https://m.media-amazon.com/images/I/51Gja97SSbS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
 
 ℹ️:
 
-- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre Londres y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
-- Este set incluye más de 460 elementos LEGO y proporciona una experiencia de construcción apropiada para niños a partir de 12 años.
-- Mide más de 15 cm de altura, 28 cm de ancho y 8 cm de profundidad.
-- Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre.
-- Interpretación LEGO Architecture de Londres.
 - El río Támesis de Londres está representado en la base mediante placas transparentes.
+- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre Londres y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
+- Mide más de 15 cm de altura, 28 cm de ancho y 8 cm de profundidad.
+- Este set incluye más de 460 elementos LEGO y proporciona una experiencia de construcción apropiada para niños a partir de 12 años.
+- Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre.
 - La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a amantes de los viajes, el diseño, la arquitectura y la historia.
+- Interpretación LEGO Architecture de Londres.
 - Recrea las ciudades más hermosas del mundo con la colección LEGO Architecture Skyline.
-- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan.
 - Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres).
+- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
