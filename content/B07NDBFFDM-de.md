@@ -1,37 +1,40 @@
 ---
 layout: post
-title: 'LEGO 41166 Disney Princess Frozen Die Ei at 31.34 % discount'
-date: 2021-05-20 08:16:16
-image: 'https://m.media-amazon.com/images/I/51mkgKdnHNL._SL500_._SL400_.jpg'
+title: 'LEGO 41166 Disney Princess Frozen Die Ei at 27.11 % discount'
+date: 2021-06-11 12:10:09
+image: 'https://m.media-amazon.com/images/I/51FbY5iqL6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07NDBFFDM-de LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 ELSA...'
 sku: 'B07NDBFFDM-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 20.59 EUR
+actualPrice: 21.86 EUR
 currency: EUR
-price: 20.59
+price: 21.86
 comparePrice: 29.99 EUR
-prodname: 'LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 ELSA und die Rentierkutsche  Bauset mit ELSA Mini Puppe und 2 Rentierfiguren für Vorschulkinder im Alter von 4-7 Jahren'
+prodname: 'LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 ELSA und die Rentierkutsche  Bauset mit ELSA-Minipuppe und 2 Rentierfiguren  Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21'
-descuento: '31.34'
-average: '23.9846428571428'
+descuento: '27.11'
+average: '24.1043333333333'
 ---
 
-With a final price of 20.59 EUR (original: 29.99 EUR) you can find [LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 ELSA und die Rentierkutsche  Bauset mit ELSA Mini Puppe und 2 Rentierfiguren für Vorschulkinder im Alter von 4-7 Jahren](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21) with a  31.34 % discount here:
+With a final price of 21.86 EUR (original: 29.99 EUR) you can find [LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 ELSA und die Rentierkutsche  Bauset mit ELSA-Minipuppe und 2 Rentierfiguren  Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21) with a  27.11 % discount here:
 
-[![LEGO 41166 Disney Princess Frozen Die Ei](https://m.media-amazon.com/images/I/51mkgKdnHNL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21)
+[![LEGO 41166 Disney Princess Frozen Die Ei](https://m.media-amazon.com/images/I/51FbY5iqL6S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21)
 
 ℹ️:
 
-- 116 Teile – ein tolles Weihnachtsgeschenk für Jungen und Mädchen ab 4 Jahren und für Fans und Kinder jeden Alters
-- Mit dem speziellen Startbaustein können kleine Baumeister einfach eine Kutsche für Elsa und das Rentier bauen und darin aufregende Abenteuer mit den Figuren aus Disneys -Die Eiskönigin 2- nachspielen
-- Die Kutsche mit Sven ist 7 cm hoch, 21 cm lang und 12 cm breit. Der Stall ist 6 cm hoch, 8 cm breit und 6 cm tief
-- Das Disney Bauset für Einsteiger unterstützt die Entwicklung der Feinmotorik und enthält eine Spielfigur von Elsa sowie zwei LEGO Tierfiguren (Sven und ein Rentierbaby) für tollen Rollenspielspaß
-- Die leicht verständliche Bauanleitung des Spielsets für Mädchen und Jungen hilft Kindern dabei, die Bauschritte zu verstehen, sodass ihnen der ideale Einstieg in die Welt des Bauens mit LEGO Steinen gelingt
+- Zu den Zubehör-Elementen gehört ein Porträt und eine Staffelei, eine Schatztruhe, eine Krone, ein Teleskop, eine Büste mit Standfuß, ein Vogelhaus, ein Laternenmast, eine Geschenkbox, ein Geschenk, Fisch, Krabben, Brot, Gemüse, ein Besen und ein Schwert.
+- Dieses LEGO | Disney Set aus „Die Eiskönigin 2“ ist ein ideales Geschenk zum Geburtstag oder zu Weihnachten.
+- Durch den modularen Aufbau können die 3 Stockwerke auseinander genommen und neu zugeordnet werden, um somit einen einfachen Zugang zu den verschiedenen Teilen des Palasts zu ermöglichen
+- Mit diesem LEGO | Disney Set aus „Die Eiskönigin 2“ wird die Fantasie der Kinder angeregt, um neue Teile der Geschichte mit den LEGOSteinen zu erschaffen.
+- Die Möbel-Elemente könnten einfach zwischen den einzelnen Räumen hin und her bewegt werden.
+- Die Bettdecke kann angehoben werden, sodass eine LEGO Minidoll ins Bett gelegt und mit der Bettdecke zugedeckt werden kann.
+- Umfasst 3 LEGO Minidolls: Elsa, Anna und Kristoff sowie 2 LEGO Tierfiguren: eine Katze und zwei Vögel.
+- Enthält einen 3-stöckigen Palast mit Thronsall, Schlafzimmer und Dachboden, Bäckerstand, Fischhändlerstand mit kleinem Anlegesteg und ein Ruderboot mit Rudern.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21)
