@@ -30,8 +30,8 @@ You've got [LEGO 21163 Minecraft Das Redstone-Kräftemessen Set mit Figuren: Gol
 
 - Das Spielset bringt das unterhaltsame Onlinespiel „Minecraft Dungeons“ in die echte Welt
 - Das vielseitige Spielset ist ein tolles Geburtstagsgeschenk für Kinder ab 8 Jahren
-- Enthält 4 Minecraft Helden sowie ein Redstone-Monster und einen Redstone-Golem
 - Ein riesiges Redstone-Monster und ein Redstone-Golem bieten spannende Action
 - Das bewegliche Redstone-Monster ist 16 cm groß
+- Enthält 4 Minecraft Helden sowie ein Redstone-Monster und einen Redstone-Golem
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B082BR5JG3/?tag=tolees0ca-21)

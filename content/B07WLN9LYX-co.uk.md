@@ -28,9 +28,9 @@ With a final price of 15.0 GBP (original: 19.99 GBP) you can find [LEGO 41250 Tr
 
 ℹ️:
 
-- Bring Trolls’ universe to inspire compelling, creative play experiences in a colorful celebration of positivity
-- Kids can put the mermaid on the heart-shaped reef to see her spin or slide with her octopus friend in a music-inspired underwater adventure
 - Product description will be provided as soon as it becomes available.
+- Bring Trolls’ universe to inspire compelling, creative play experiences in a colorful celebration of positivity
 - Accessories include speakers, strobe lights, pretend headlights, diamonds, a hairbrush, coral and underwater flowers
+- Kids can put the mermaid on the heart-shaped reef to see her spin or slide with her octopus friend in a music-inspired underwater adventure
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07WLN9LYX/?tag=tolees0a-21)
