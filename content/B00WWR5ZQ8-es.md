@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO: Ju at 33.36 % discount'
-date: 2021-06-10 18:47:15
+date: 2021-06-11 19:48:52
 image: 'https://m.media-amazon.com/images/I/51fpd8dlArL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00WWR5ZQ8/?tag=tolees-21'
 descuento: '33.36'
-average: '13.2025'
+average: '12.8455555555556'
 ---
 
 With a final price of 9.99 EUR (original: 14.99 EUR) you can find [Warner Bros Interactive Spain - LEGO: Jurassic World](https://www.amazon.es/dp/B00WWR5ZQ8/?tag=tolees-21) with a  33.36 % discount here:
@@ -28,10 +28,10 @@ With a final price of 9.99 EUR (original: 14.99 EUR) you can find [Warner Bros I
 
 ℹ️:
 
-- Las películas están representadas prestando gran atención a los detalles
 - El juego cuenta con más de 100 personajes desbloqueables para jugar
 - Plataforma del juego: PlayStation 4
-- Cada personaje tiene una habilidad especial
 - Tipo de producto: videojuego de acción y aventura
+- Las películas están representadas prestando gran atención a los detalles
+- Cada personaje tiene una habilidad especial
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B00WWR5ZQ8/?tag=tolees-21)
