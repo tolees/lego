@@ -29,9 +29,9 @@ With a final price of 9.99 EUR (original: 14.99 EUR) you can find [Warner Bros I
 ℹ️:
 
 - El juego cuenta con más de 100 personajes desbloqueables para jugar
-- Plataforma del juego: PlayStation 4
 - Tipo de producto: videojuego de acción y aventura
-- Las películas están representadas prestando gran atención a los detalles
+- Plataforma del juego: PlayStation 4
 - Cada personaje tiene una habilidad especial
+- Las películas están representadas prestando gran atención a los detalles
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B00WWR5ZQ8/?tag=tolees-21)
