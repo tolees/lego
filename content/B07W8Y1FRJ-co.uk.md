@@ -30,8 +30,8 @@ With a final price of 24.97 GBP (original: 34.99 GBP) you can find [Lego Friends
 
 - Features a TV studio baking show with 3 play sections: 2 cooking stations and the main stage for a winner to take a prize - the golden cup!
 - The playset includes Stephanie, David and a judge mini-dolls, to realistically recreate the baking TV shows kids watch with the whole family
-- Includes rotating cake stands, ovens opening just like in a grown-up kitchen plus lots of baking accessories: cupcakes, fruit and utensils
 - Accessories include a whisk, chocolate, cash check, trophy, milk carton, a packet of sugar and icing, plus kitchen equipment
 - Kids will spin the wheel above the stage to choose which crazy ingredients the bakers must include and get creative with the decorations
+- Includes rotating cake stands, ovens opening just like in a grown-up kitchen plus lots of baking accessories: cupcakes, fruit and utensils
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W8Y1FRJ/?tag=tolees0a-21)

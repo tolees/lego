@@ -28,10 +28,10 @@ You've got [LEGO 43192 Disney Princess Cinderella’s Royal Carriage Toy�
 
 ℹ️:
 
-- Includes 2 minidolls: Cinderella and the Fairy Godmother, Gus Gus the mouse, and the gold and white Royal Carriage has 2 LEGO horse figures
-- The set is loaded with fun accessories, including a ball invitation, wand, crown and glass slippers to recreate favourite scenes from the movie
-- Printed and digital Instructions PLUS! in the LEGO Building Instructions app are available, to zoom/visualise models as they are built
 - Discover a carriage with room for 2 minidolls, a pumpkin patch with a small table and a treasure chest that fits on the back of the carriage
+- Printed and digital Instructions PLUS! in the LEGO Building Instructions app are available, to zoom/visualise models as they are built
+- The set is loaded with fun accessories, including a ball invitation, wand, crown and glass slippers to recreate favourite scenes from the movie
+- Includes 2 minidolls: Cinderella and the Fairy Godmother, Gus Gus the mouse, and the gold and white Royal Carriage has 2 LEGO horse figures
 - It’s time for some magic! Cinderella is ready to head to the ball, only she needs to be home before midnight! Will Gus Gus remind her?
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G55QRGC/?tag=tolees0a-21)
