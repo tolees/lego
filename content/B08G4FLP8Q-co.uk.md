@@ -28,10 +28,10 @@ There's a deal [LEGO 60285 City Great Vehicles Sports Car Toy with Remo
 
 ℹ️:
 
-- It includes LEGO driver minifigure and makes a great seasonal, birthday or any-other-day surprise gift for kids who love cool cars
-- Children aged 5+ can zoom, rotate and visualise as they build with Instructions PLUS on the LEGO Building Instructions app
 - Supercool design, aerodynamic shape, authentic details and its stellar blue finish will turbo-charge kids’ creative foot-to-the-floor role-play
 - In comes with a detailed tinted cockpit with room behind the steering wheel for the driver and a removable roof for open-top driving
+- It includes LEGO driver minifigure and makes a great seasonal, birthday or any-other-day surprise gift for kids who love cool cars
 - Features a sports car with an eye-catching bodywork, an adjustable rear toy spoiler and sporty black rims with ground-gripping tires
+- Children aged 5+ can zoom, rotate and visualise as they build with Instructions PLUS on the LEGO Building Instructions app
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4FLP8Q/?tag=tolees0a-21)

@@ -28,10 +28,10 @@ There's a deal [LEGO Classic - LEGO 11008 Classic Bricks and Houses Buildi
 
 ℹ️:
 
-- Each model has its own significant features: the windmill has sails that turn, the igloo is icy-white, and the lighthouse brightly coloured
-- The LEGO Classic Bricks and Houses set is a great way to introduce kids to creative construction when they build their own dream home
-- LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
 - Big bricks are safe, toddler-friendly and easy for small hands to pick up and place while developing language, social and emotional skills
 - The set builds simultaneously into 6 places to live: a family home, a lighthouse, an igloo, a castle, a small house and a windmill.
+- Each model has its own significant features: the windmill has sails that turn, the igloo is icy-white, and the lighthouse brightly coloured
+- LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
+- The LEGO Classic Bricks and Houses set is a great way to introduce kids to creative construction when they build their own dream home
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)
