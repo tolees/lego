@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.00 % for LEGO 51515 MINDSTORMS Roboter-Erfinder R'
-date: 2021-06-09 19:57:24
+date: 2021-06-13 17:34:15
 image: 'https://m.media-amazon.com/images/I/5192nH8rjAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B082WD5YV9/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '273.993515625001'
+average: '273.962480620156'
 ---
 
 You've got [LEGO 51515 MINDSTORMS Roboter-Erfinder Robotik-Kit  5-in-1 App-gesteuertes  programmierbares  interaktives Spielzeug für Kinder](https://www.amazon.de/dp/B082WD5YV9/?tag=tolees0ca-21) with a  25.00 % discount, with final price of 269.99 EUR (original: 359.99 EUR) at the following link:
