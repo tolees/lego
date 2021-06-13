@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.41 % deal for LEGO Classic - LEGO 11008 Classic Bricks'
-date: 2021-06-12 00:10:05
+date: 2021-06-13 12:51:51
 image: 'https://m.media-amazon.com/images/I/51rGbxsEeAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO Classic'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21'
 descuento: '44.41'
-average: '10.7057142857143'
+average: '10.6175'
 ---
 
 There's a deal [LEGO Classic - LEGO 11008 Classic Bricks and Houses Building Set  Preschool Toys for 4+ Year Old with 6 Easy-to-Build Models](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)  with  44.41 % discount, final price tag of  10.0 GBP (original: 17.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO Classic - LEGO 11008 Classic Bricks and Houses Buildi
 
 ℹ️:
 
+- Each model has its own significant features: the windmill has sails that turn, the igloo is icy-white, and the lighthouse brightly coloured
+- The LEGO Classic Bricks and Houses set is a great way to introduce kids to creative construction when they build their own dream home
 - Big bricks are safe, toddler-friendly and easy for small hands to pick up and place while developing language, social and emotional skills
 - The set builds simultaneously into 6 places to live: a family home, a lighthouse, an igloo, a castle, a small house and a windmill.
-- Each model has its own significant features: the windmill has sails that turn, the igloo is icy-white, and the lighthouse brightly coloured
 - LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
-- The LEGO Classic Bricks and Houses set is a great way to introduce kids to creative construction when they build their own dream home
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)
