@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 26.69 % for LEGO 76159 Super Heroes DC Batman Joker '
-date: 2021-06-12 07:28:56
+date: 2021-06-14 15:37:57
 image: 'https://m.media-amazon.com/images/I/51d4LJIsbOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21'
 descuento: '26.69'
-average: '30.7599999999999'
+average: '30.8768421052631'
 ---
 
 You've got [LEGO 76159 Super Heroes DC Batman Joker s Trike Chase with Batmobile  Harley Quinn & Robin Minifigures](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21) with a  26.69 % discount, with final price of 32.98 GBP (original: 44.99 GBP) at the following link:
@@ -29,9 +29,9 @@ You've got [LEGO 76159 Super Heroes DC Batman Joker s Trike Chase with�
 ℹ️:
 
 - Batmobile has opening cockpit and hood, plus 2 stud shooters at the front, but Jokers 3-wheeler shoots forwards & backwards as well!
-- Includes 4 LEGO minifigures: Batman with spreadable cape- wings, Robin with fabric cape, THE JOKER and Harley Quinn with her hammer
-- The Batmobile features a removable  engine that also turbocharges the THE JOKER’s trike with its opening and closing mouth on the front
-- Whether youngsters are fans of DC Comics, RC cars or Batmobile toys, this LEGO Batman playset is an awesome gift for kids aged 7 and up
 - Features 3 Super-Hero vehicles: a monster 3-wheel trike toy, a mini shooting Batmobile toy car, and Robins motorcycle from the Batman movies
+- The Batmobile features a removable  engine that also turbocharges the THE JOKER’s trike with its opening and closing mouth on the front
+- Includes 4 LEGO minifigures: Batman with spreadable cape- wings, Robin with fabric cape, THE JOKER and Harley Quinn with her hammer
+- Whether youngsters are fans of DC Comics, RC cars or Batmobile toys, this LEGO Batman playset is an awesome gift for kids aged 7 and up
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21)
