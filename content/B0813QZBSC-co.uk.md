@@ -29,9 +29,9 @@ You've got [LEGO 41909 DOTS Mermaid Vibes Bracelets Jewellery Set  Tiles
 ℹ️:
 
 - Kids can decorate and share the bracelets, following the included pattern ideas or coming up with their own, a very special look
+- The flexible bracelets and colourful decorated tiles make a thrilling Christmas, birthday or anytime gift for boys and girls aged 6 and up
 - This limited edition creative set features 2 adjustable bands and 32 tiles for buddying friends, easy and totally portable fun for all!
 - Any fan of DIY or arts and crafts will love this creative set of 32 tiles decorated with shells and Mermaid tails scales in pastel colours
 - Over 7” (20cm) long, the bracelets are perfect for young designers to try new ideas and then share or wear their best version
-- The flexible bracelets and colourful decorated tiles make a thrilling Christmas, birthday or anytime gift for boys and girls aged 6 and up
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QZBSC/?tag=tolees0a-21)
