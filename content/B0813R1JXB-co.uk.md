@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43180 Disney Princess Belle’s Castl at 33.32 % discount'
-date: 2021-06-04 19:33:13
+date: 2021-06-14 19:36:27
 image: 'https://m.media-amazon.com/images/I/51xQ72Y5CHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 30.0 GBP (original: 44.99 GBP) you can find [LEGO 43180 
 
 ℹ️:
 
-- Features an easy-to-build castle with 3 separable sections and multiple rooms to play with from Disney’s Beauty and the Beast movie
-- Includes 2 Disney mini doll figures, Belle and the Beast, who can be transformed into the Prince, and the enchanted rose to break the spell!
-- Other well-known characters include Mrs Potts, Chip, Cogsworth, Wardrobe and Lumiere, plus a bird and snowman figure
 - Accessories include 2 celebratory cakes, ice cream, a wig, hat, hairbrush, vanity table with mirror, storybook, and snowball catapult!
 - Big Starter Bricks give preschool kids aged 4+ a fun build that helps them grow confidence in their skills and take pride in the creation
+- Features an easy-to-build castle with 3 separable sections and multiple rooms to play with from Disney’s Beauty and the Beast movie
+- Other well-known characters include Mrs Potts, Chip, Cogsworth, Wardrobe and Lumiere, plus a bird and snowman figure
+- Includes 2 Disney mini doll figures, Belle and the Beast, who can be transformed into the Prince, and the enchanted rose to break the spell!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813R1JXB/?tag=tolees0a-21)
