@@ -28,9 +28,9 @@ With a final price of 14.89 EUR (original: 19.99 EUR) you can find [LEGO 41915 D
 
 ℹ️:
 
-- Dieses Set zum Basteln für Kinder ist ein komplettes, lustiges Set, mit dem junge Bastler ihre Wertsachen aufbewahren können. Das Aussehen lässt sich leicht ändern, ohne es wieder aufzubauen.
-- Dieses Schmuckkästchen für Mädchen und Jungen umfasst ein Schloss und verschiebbare Trennwände, um Kinderschmuck oder andere tragbare DOTS Accessoires aufzubewahren
 - Dieses unterhaltsame Spielzeug lässt sich auch wunderbar mit anderen LEGO Spielsets kombinieren, um Kinder beim Spielen richtig kreativ werden zu lassen
+- Dieses Schmuckkästchen für Mädchen und Jungen umfasst ein Schloss und verschiebbare Trennwände, um Kinderschmuck oder andere tragbare DOTS Accessoires aufzubewahren
+- Dieses Set zum Basteln für Kinder ist ein komplettes, lustiges Set, mit dem junge Bastler ihre Wertsachen aufbewahren können. Das Aussehen lässt sich leicht ändern, ohne es wieder aufzubauen.
 - Dieses Set enthält 3 DIY Bilderrahmen und 398 bunte Steinchen, sowie ein Aufbewahrungsfach. Die Kinder können den Bilderrahmen ihr ganz persönliches Design verleihen
 - Kinder können ihre Persönlichkeit ausdrücken, indem sie ihre eigene Kinderzimmer-Deko kreieren, die zum Schmuck und zu den Accessoires ihrer Freunde passt
 
