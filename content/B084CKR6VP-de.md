@@ -28,13 +28,13 @@ You've got [LEGO 75317 Star Wars Der Mandalorianer und das Kind  Sammlermodell  
 
 ℹ️:
 
-- Fans der TV-Serie „Star Wars: The Mandalorian“ und kreative Kinder werden hellauf begeistert sein, ihre eigenen LEGO BrickHeadz Versionen des Kindes und des Mandalorianers aus dem Set 75317 zu erschaffen und authentische Details nachzubilden, um ein cooles Schaustück entstehen zu lassen.
-- Der Mandalorianer ist 8 cm groß, und das Kind im schwebenden Kinderwagen ist ebenfalls 8 cm hoch. Beide beanspruchen nur wenig Platz, beeindrucken aber dennoch als Schaustücke, wo auch immer sie zur Schau gestellt werden.
-- Kleine Fans werden das Bauspielzeug mit den verstellbaren Ohren lieben, mit denen sich unterschiedliche Gemütslagen darstellen lassen. Gefallen wird ihnen auch der „Kinderwagen“, der auf einem durchsichtigen LEGO Element zu schweben scheint. Zu beiden Baumodellen gibt es Bodenplatten, um die Figuren aufstellen und präsentieren zu können.
-- Sind diese Baumodelle für einen Star Wars Fan gedacht, der noch keine LEGO Sets hat? Kein Problem. Dem Set liegt eine Schritt-für-Schritt-Bauanleitung bei, damit sich jeder Fan mit dem Selbstvertrauen eines Jedi an dieses Bauprojekt heranwagen kann!
 - Dieses 295-teilige LEGO BrickHeadz Star Wars Bauspielzeug ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans der Serie „Star Wars: The Mandalorian“ und LEGO Baumeister ab 10 Jahren.
+- Das faszinierende Spektrum der LEGO Star Wars Bauspielzeuge umfasst Sammelobjekte, Baumodelle und Schaustücke, mit denen sich legendäre Szenen aus dem Star Wars Universum nachstellen lassen. Es gibt Sets für Fans jeden Alters.
 - Die kultverdächtige Ausrüstung des Mandalorianers – ein am Rücken befestigtes Blastergewehr und die Blasterpistole in seiner Hand – dürfen natürlich auch an der LEGO Baufigur nicht fehlen, um die spannenden Szenen aus „Star Wars: The Mandalorian“ in Erinnerung zu rufen.
 - Dieses batterielose Bauspielzeug bietet einem oder mehreren Kindern ein unterhaltsames Bauerlebnis, wenn sie die LEGO BrickHeadz Versionen der beiden beliebten Helden aus „Star Wars: The Mandalorian“ entstehen lassen.
-- Das faszinierende Spektrum der LEGO Star Wars Bauspielzeuge umfasst Sammelobjekte, Baumodelle und Schaustücke, mit denen sich legendäre Szenen aus dem Star Wars Universum nachstellen lassen. Es gibt Sets für Fans jeden Alters.
+- Sind diese Baumodelle für einen Star Wars Fan gedacht, der noch keine LEGO Sets hat? Kein Problem. Dem Set liegt eine Schritt-für-Schritt-Bauanleitung bei, damit sich jeder Fan mit dem Selbstvertrauen eines Jedi an dieses Bauprojekt heranwagen kann!
+- Kleine Fans werden das Bauspielzeug mit den verstellbaren Ohren lieben, mit denen sich unterschiedliche Gemütslagen darstellen lassen. Gefallen wird ihnen auch der „Kinderwagen“, der auf einem durchsichtigen LEGO Element zu schweben scheint. Zu beiden Baumodellen gibt es Bodenplatten, um die Figuren aufstellen und präsentieren zu können.
+- Fans der TV-Serie „Star Wars: The Mandalorian“ und kreative Kinder werden hellauf begeistert sein, ihre eigenen LEGO BrickHeadz Versionen des Kindes und des Mandalorianers aus dem Set 75317 zu erschaffen und authentische Details nachzubilden, um ein cooles Schaustück entstehen zu lassen.
+- Der Mandalorianer ist 8 cm groß, und das Kind im schwebenden Kinderwagen ist ebenfalls 8 cm hoch. Beide beanspruchen nur wenig Platz, beeindrucken aber dennoch als Schaustücke, wo auch immer sie zur Schau gestellt werden.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B084CKR6VP/?tag=tolees0ca-21)
