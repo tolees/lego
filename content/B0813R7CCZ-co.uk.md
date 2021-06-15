@@ -28,10 +28,10 @@ With a final price of 13.19 GBP (original: 17.99 GBP) you can find [LEGO 41915�
 
 ℹ️:
 
-- All surfaces can be decorated, allowing kids to have fun designing and redesigning the jewellery holder over and over to match their moods!
+- Tiles can be swapped from any of the other DOTS packs: Extra DOTS - Series 2 (41916), Desk Organiser (41907) or Picture Frames Set (41914)
 - Kids can express themselves by creating their very own room décor to match their or their buddies jewellery and desk organising accessories
 - The personalised jewellery box features a lock and movable separators to hold jewellery or keep any of the LEGO DOTS wearables safe and tidy
 - This LEGO DOTS set is a complete, fun DIY kit for kids to store their valuables, with a look that is easily changeable without rebuilding
-- Tiles can be swapped from any of the other DOTS packs: Extra DOTS - Series 2 (41916), Desk Organiser (41907) or Picture Frames Set (41914)
+- All surfaces can be decorated, allowing kids to have fun designing and redesigning the jewellery holder over and over to match their moods!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813R7CCZ/?tag=tolees0a-21)

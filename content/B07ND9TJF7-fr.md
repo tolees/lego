@@ -28,12 +28,12 @@ There's a deal [LEGO 75249 Star Wars Y-Wing Starfighter de la Résistance  
 
 ℹ️:
 
-- Inclut 5 personnages LEGO Star Wars : les figurines de Poe Dameron, Zorii Bliss et dun Snowtrooper du Premier Ordre, plus D-O et un droïde astromech LEGO.
-- Les couleurs de l’Y-wing et du casque moulé de Zorii sont des nouveautés d’octobre 2019.
-- Les armes incluent le pistolet blaster de Poe, les 2 pistolets blaster de Zorii et le fusil blaster du Snowtrooper du Premier Ordre.
-- L’Y-wing Starfighter de la Résistance LEGO Star Wars, surnommé « La fourchette », comprend un cockpit qui souvre pour une figurine, un train datterrissage escamotable, 2 fusils à ressort et des bombes à chargement supérieur avec mécanisme de largage.
-- Cette construction Star Wars mesure plus de 7 cm de haut, 43 cm de long et 19 cm de large.
 - Pour recréer les scènes passionnantes du film Star Wars : L’Ascension de Skywalker.
+- Inclut 5 personnages LEGO Star Wars : les figurines de Poe Dameron, Zorii Bliss et dun Snowtrooper du Premier Ordre, plus D-O et un droïde astromech LEGO.
+- L’Y-wing Starfighter de la Résistance LEGO Star Wars, surnommé « La fourchette », comprend un cockpit qui souvre pour une figurine, un train datterrissage escamotable, 2 fusils à ressort et des bombes à chargement supérieur avec mécanisme de largage.
+- Les armes incluent le pistolet blaster de Poe, les 2 pistolets blaster de Zorii et le fusil blaster du Snowtrooper du Premier Ordre.
+- Les couleurs de l’Y-wing et du casque moulé de Zorii sont des nouveautés d’octobre 2019.
+- Cette construction Star Wars mesure plus de 7 cm de haut, 43 cm de long et 19 cm de large.
 - Ce vaisseau constitue un magnifique cadeau pour un anniversaire ou pour Noël, et une belle surprise Star Wars pour toute occasion.
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07ND9TJF7/?tag=tolees0d-21)
