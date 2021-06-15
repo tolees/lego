@@ -28,10 +28,10 @@ With a final price of 72.0 USD (original: 89.99 USD) you can find [LEGO Harry Po
 
 ℹ️:
 
-- This Harry Potter set features the 3-level LEGO Hogwarts Castle Clock Tower with iconic locations from the Harry Potter movies, including the Defense Against the Dark Arts classroom, Dumbledore’s Office and a section of the Icy Ballroom
-- The LEGO Hogwarts Clock Tower 75948 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building, and makes a great Harry Potter gift for any wizard enthusiast!
-- This Harry Potter LEGO set includes 8 minifigures of your favorite characters: Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore and Madame Maxime
-- The Hogwarts Clock Tower measures over 13 inches (35cm) high, 13 inches (34cm) wide and 7 inches (18cm) deep, 922 pieces – Harry Potter LEGO set for boys and girls aged 9+ and for fans and big kids of all ages
 - Kids can create their own Harry Potter world with LEGOs collection of building sets inspired by the iconic books and movies
+- The Hogwarts Clock Tower measures over 13 inches (35cm) high, 13 inches (34cm) wide and 7 inches (18cm) deep, 922 pieces – Harry Potter LEGO set for boys and girls aged 9+ and for fans and big kids of all ages
+- This Harry Potter set features the 3-level LEGO Hogwarts Castle Clock Tower with iconic locations from the Harry Potter movies, including the Defense Against the Dark Arts classroom, Dumbledore’s Office and a section of the Icy Ballroom
+- This Harry Potter LEGO set includes 8 minifigures of your favorite characters: Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore and Madame Maxime
+- The LEGO Hogwarts Clock Tower 75948 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building, and makes a great Harry Potter gift for any wizard enthusiast!
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07QQ39RY3/?tag=tolees-20)
