@@ -29,9 +29,9 @@ With a final price of 179.99 EUR (original: 249.99 EUR) you can find [LEGO 42114
 ℹ️:
 
 - Dieses Modell strotzt nur so vor authentischen Details. Die LEGO Technic CONTROL+ App verschafft Kindern die volle Kontrolle über ihr Modell, denn sie enthält Steuerbildschirme, Herausforderungen und Belohnungen sowie exklusive Inhalte
+- Auf der Suche nach einem ferngesteuerten Spielzeug-Laster? Dieser fantastische LEGO Technic Modellbausatz enthält einen appgesteuerten Volvo-Dumper und ist ein tolles Geschenk für jeden Baumeister ab 11 Jahren
 - Das LEGO Technic Bauset „Knickgelenkter Volvo-Dumper (6x6)“ (42114) lässt Kinder die Geheimnisse von Mega-Baufahrzeugen lüften, indem sie mithilfe der App das Modell lenken, die Mulde kippen und die Gänge wechseln
 - Die Spielzeug-Version des Volvo-Dumpers ist 20 cm hoch, 60 cm lang und 20 cm breit und eignet sich wunderbar für Rollenspiele auf der Baustelle. Das Set lässt sich mit anderen Bausets kombinieren, um noch mehr Spaß zu bieten
-- Auf der Suche nach einem ferngesteuerten Spielzeug-Laster? Dieser fantastische LEGO Technic Modellbausatz enthält einen appgesteuerten Volvo-Dumper und ist ein tolles Geschenk für jeden Baumeister ab 11 Jahren
 - Kinder werden es lieben, ihre eigene Modellversion des knickgelenkten Volvo-Dumpers A60H zu bauen. Und dank der coolen Funktionen in der LEGO Technic CONTROL+ App geht der Spaß erst richtig los, wenn das Modell fertig ist
 - Während des Bauens werden noch keine Batterien benötigt. Um jedoch die coolen technischen Funktionen dieses appgesteuerten Spielzeugs im vollen Umfang genießen zu können, musst du dem Modell 6 AA-Batterien (1,5 V) spendieren
 

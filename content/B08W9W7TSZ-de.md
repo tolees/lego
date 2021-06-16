@@ -28,12 +28,12 @@ You've got [LEGO 71750 NINJAGO Lloyds Hydro-Mech  Unterwasser Set  Spielzeug fü
 
 ℹ️:
 
-- Schauen Sie sich auch die anderen LEGO NINJAGO Sets an: Der Tempel des unendlichen Ozeans (71755) und der Unterwassersegler (71756) - für noch mehr Spielspaß
 - Die Kinder können in das Cockpit des Mechs springen, das große Schwert schwingen und den Guard mit seiner massiven hydraulischen Klaue greifen
-- Das LEGO Unterwasser Set enthält eine Action-Figur - ein bewegliches Mech-Spielzeug mit einem Cockpit, das sich öffnen lässt, damit Lloyd hineinfahren kann
-- Entdecken Sie weitere Sets, die auf der TV-Serie NINJAGO: Seabound basieren, darunter Ninja Unterwasserspeeder (71752) und Unterwasserdrache (71754)
 - Die beiden Ninja Mini Figuren können um das wertvolle Wellenamulett kämpfen, das ebenfalls im Set enthalten ist, um die LEGO NINJAGO City zu schützen
-- Das Spielzeug für Kinder ab 7 Jahren hat bewegliche Gliedmaßen, ein großes Schwert in der einen Hand und eine hydraulische, aufklappbare Klaue in der anderen
+- Entdecken Sie weitere Sets, die auf der TV-Serie NINJAGO: Seabound basieren, darunter Ninja Unterwasserspeeder (71752) und Unterwasserdrache (71754)
 - Enthalten sind 2 LEGO NINJAGO Figuren: Scuba Lloyd mit Maske, Luftflasche und Schwimmflossen und ein gefährlicher aalartiger Maaray Guard, plus deren Waffen
+- Das Spielzeug für Kinder ab 7 Jahren hat bewegliche Gliedmaßen, ein großes Schwert in der einen Hand und eine hydraulische, aufklappbare Klaue in der anderen
+- Das LEGO Unterwasser Set enthält eine Action-Figur - ein bewegliches Mech-Spielzeug mit einem Cockpit, das sich öffnen lässt, damit Lloyd hineinfahren kann
+- Schauen Sie sich auch die anderen LEGO NINJAGO Sets an: Der Tempel des unendlichen Ozeans (71755) und der Unterwassersegler (71756) - für noch mehr Spielspaß
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08W9W7TSZ/?tag=tolees0ca-21)
