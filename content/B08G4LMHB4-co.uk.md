@@ -28,9 +28,9 @@ With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 60288 
 
 ℹ️:
 
-- Features a toy SUV off-roader with seats for 2 minifigures and trailer with fold-down ramps for transporting the steerable Baja race buggy
 - The time has arrived to break records... it’s race day! LEGO accessories include a toy race helmet, fire extinguisher, wrench and a hammer
 - High-speed thrills await 2 LEGO driver minifigures as the Baja race buggy can be steered in all directions by tilting it left and right
+- Features a toy SUV off-roader with seats for 2 minifigures and trailer with fold-down ramps for transporting the steerable Baja race buggy
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 - Kids can lower the trailer ramps and unload the supercool Baja buggy, then lift the role cage and climb aboard while putting on a safety helmet
 
