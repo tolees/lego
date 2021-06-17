@@ -28,8 +28,8 @@ With a final price of 10.99 EUR (original: 14.95 EUR) you can find [Warner Bros 
 
 ℹ️:
 
-- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
-- Desbloquea y juega con más de 200 de tus personajes favoritos.
 - Dos juegos remasterizados, ahora en un solo disco.
+- Desbloquea y juega con más de 200 de tus personajes favoritos.
+- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07HGK87FQ/?tag=tolees-21)
