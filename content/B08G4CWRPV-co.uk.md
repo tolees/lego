@@ -28,10 +28,10 @@ You've got [LEGO 76175 Marvel Spider-Man Attack on the Spider Lair Buil
 
 ℹ️:
 
-- As a teenagers den it has a computer, PlayStation, basketball hoop with ball shooter, skateboard with a ramp, and a drinks area
-- Young superheroes join Spider-Man playing games in his HQ until 2 super villains force their way in - it’s time for battle to save the day
-- Features a versatile building with 3 playing areas and 2 functions: it is the ultimate superhero headquarters crossed with a teenagers room
 - As Spider-Mans HQ it features Peter Parker´s camera, training equipment, motorbike, Iron Spider Suit, weapons and even its own jail
 - Includes Spider-Man, Green Goblin and Venom minifigures - kids must use the amazing equipment and their own skills to catch the bad guys!
+- Features a versatile building with 3 playing areas and 2 functions: it is the ultimate superhero headquarters crossed with a teenagers room
+- Young superheroes join Spider-Man playing games in his HQ until 2 super villains force their way in - it’s time for battle to save the day
+- As a teenagers den it has a computer, PlayStation, basketball hoop with ball shooter, skateboard with a ramp, and a drinks area
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4CWRPV/?tag=tolees0a-21)
