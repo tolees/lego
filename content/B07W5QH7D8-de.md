@@ -28,11 +28,11 @@ You've got [LEGO 41251 Trolls Poppys Wohnblüte](https://www.amazon.de/dp/B07W5Q
 
 ℹ️:
 
+- Anzahl der Teile: 103
 - Vom Hersteller nicht mehr verkauft
 - Poppys Wohnblüte
+- Vom Hersteller empfohlenes Alter: 4+
 - Bewegliche Funktionen, Zubehör und vieles mehr ermöglichen ein fantasievolles Spielerlebnis.
 - Lässt sich mit dem LEGO TROLLS WORLD TOUR Spielset „Party in Pop City“ (41255) kombinieren.
-- Vom Hersteller empfohlenes Alter: 4+
-- Anzahl der Teile: 103
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W5QH7D8/?tag=tolees0ca-21)
