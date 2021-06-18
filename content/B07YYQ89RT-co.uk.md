@@ -28,10 +28,10 @@ You've got [LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Racing Car Mod
 
 ℹ️:
 
-- This car model building kit makes the ideal gift for any car or Fast and Furious enthusiast; Ideally sized to create an awesome display piece to show off
-- Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car model in the famous wheelstand position
-- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
-- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
 - Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger R/T
+- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
+- Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car model in the famous wheelstand position
+- This car model building kit makes the ideal gift for any car or Fast and Furious enthusiast; Ideally sized to create an awesome display piece to show off
+- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21)
