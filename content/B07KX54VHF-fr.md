@@ -28,10 +28,10 @@ With a final price of 29.99 EUR (original: 39.99 EUR) you can find [LEGO 75957 H
 
 ℹ️:
 
-- Le Magicobus mesure plus de 16 cm de haut, 16 cm de long et 6 cm de large.
-- La tête réduite facétieuse et la malle dHarry Potter contenant une baguette magique, une lettre, une barre de chocolat et un flacon de potion enrichissent laction et stimulent limagination.
-- Ce bus LEGO à 3 niveaux comprend un panneau latéral articulé qui souvre et un toit amovible, pour encore plus de possibilités de jeu.
-- Inclut 3 figurines LEGO Harry Potter (nouveautés de juin 2019) : Harry Potter, Stan Rocade et Ernie Danlmur.
 - Inclut également un lit qui glisse et un lustre qui se balance au gré des mouvements et des virages du bus.
+- Ce bus LEGO à 3 niveaux comprend un panneau latéral articulé qui souvre et un toit amovible, pour encore plus de possibilités de jeu.
+- Le Magicobus mesure plus de 16 cm de haut, 16 cm de long et 6 cm de large.
+- Inclut 3 figurines LEGO Harry Potter (nouveautés de juin 2019) : Harry Potter, Stan Rocade et Ernie Danlmur.
+- La tête réduite facétieuse et la malle dHarry Potter contenant une baguette magique, une lettre, une barre de chocolat et un flacon de potion enrichissent laction et stimulent limagination.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21)
