@@ -28,15 +28,15 @@ You've got [LEGO 10696 Classic Caja de Ladrillos Creativos Mediana  Jueg
 
 ℹ️:
 
-- Ideas incluidas con el set y disponibles en LEGO.com/classic para ayudarte a dar tus primeros pasos.
-- Contiene 18 neumáticos y 18 llantas.
-- Viene en una útil caja de almacenamiento de plástico.
+- Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
 - Piezas especiales incluidas: base verde de 8 cm x 16 cm, una ventana con marco y 3 pares de ojos.
 - Las numerosas ruedas facilitan la creación de vehículos y el juego con los mismos.
-- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
 - Las piezas especiales fomentan la construcción imaginativa.
-- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
+- Ideas incluidas con el set y disponibles en LEGO.com/classic para ayudarte a dar tus primeros pasos.
 - La base verde mide más de 8 cm de longitud y 16 cm de ancho.
-- Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
+- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
+- Contiene 18 neumáticos y 18 llantas.
+- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
+- Viene en una útil caja de almacenamiento de plástico.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B00NVDP3ZU/?tag=tolees-21)

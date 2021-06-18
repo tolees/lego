@@ -28,10 +28,10 @@ There's a deal [LEGO 21159 Minecraft The Pillager Outpost Action Figures�
 
 ℹ️:
 
-- Includes a Knight, Iron Golem with posable arms, Sheep and 2 Pillager action figures, plus 2 archery practise figures with pumpkin heads!
-- Accessories include 2 bows, an axe, TNT, 3 pumpkin heads and flowers to bring online fun into the real world with authentic-looking models
-- The crossbow-wielding, new-for-January-2020 Pillagers have captured the friendly Iron Golem giant and put him in the cage!
 - Features customizable 3-section: a tent with a table, Pillagers cage and an archery practice area with dummies for archery practice
 - Players can blast open the cage with a TNT explosion function to rescue the Iron Golem, then take on the troublesome Pillagers!
+- Accessories include 2 bows, an axe, TNT, 3 pumpkin heads and flowers to bring online fun into the real world with authentic-looking models
+- Includes a Knight, Iron Golem with posable arms, Sheep and 2 Pillager action figures, plus 2 archery practise figures with pumpkin heads!
+- The crossbow-wielding, new-for-January-2020 Pillagers have captured the friendly Iron Golem giant and put him in the cage!
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07WC1VFZH/?tag=tolees0a-21)
