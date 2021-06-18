@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.58 % for LEGO 42111 Technic Fast & Furious Dom s '
-date: 2021-06-17 21:32:52
+date: 2021-06-18 21:34:01
 image: 'https://m.media-amazon.com/images/I/51fnW+WxJ5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21'
 descuento: '25.58'
-average: '73.1528873239436'
+average: '73.1384074941451'
 ---
 
 You've got [LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Racing Car Model Building Kit  Iconic Collector s Set  Gift Idea](https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21) with a  25.58 % discount, with final price of 66.97 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Racing Car Mod
 
 ℹ️:
 
-- Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger R/T
-- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
+- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
 - Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car model in the famous wheelstand position
 - This car model building kit makes the ideal gift for any car or Fast and Furious enthusiast; Ideally sized to create an awesome display piece to show off
-- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
+- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
+- Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger R/T
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21)
