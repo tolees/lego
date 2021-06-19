@@ -28,12 +28,12 @@ With a final price of 51.99 EUR (original: 69.99 EUR) you can find [LEGO 75272�
 
 ℹ️:
 
-- Der TIE-Pilot der Ersten Ordnung, der Ritter von Ren und Finn sind mit cooler Ausrüstung ausgestattet. Das Set lässt sich auch wunderbar mit „Poe Damerons X-Wing Starfighter“ (75273) kombinieren, damit sich Erste Ordnung legendäre Schlachten mit dem Widerstand liefern kann.
+- Für dieses Bau- und Spielset werden keine Batterien benötigt. Der TIE Starfighter besteht ausschließlich aus LEGO Steinen – und als Antrieb für unzählige Star Wars Action-Abenteuer reicht die Kreativität der Kinder.
 - Der TIE Fighter verfügt über ein aufklappbares Minifigur-Cockpit und 2 Raketen mit Federmechanismus. Es gibt auch einen Andockturm zum Starten, Landen und Präsentieren des Baumodells sowie 3 Minifiguren für actionreiche Rollenspiele.
 - Das Sith TIE Fighter (75272) zum Zusammenbauen besitzt ein schnittiges Design (neu ab Januar 2020) – genau wie in „Star Wars: Der Aufstieg Skywalkers–, um Kinder spannenden Missionen als Pilot der Ersten Ordnung fliegen zu lassen!
-- Das 470-teilige Set mit legendären Star Wars Charakteren stellt Jungen und Mädchen ab 9 Jahren vor eine ebenso unterhaltsame wie lohnende Bauherausforderung und ist ein Supergeschenk zum Geburtstag, zu Weihnachten oder als besondere Belohnung.
 - Ist dieses Star Wars Bauspielzeug auch für ein Kind gedacht, das noch keine LEGO Sets besitzt? Ja! Denn es liegt eine einfache gedruckte Bauanleitung bei. Nach dem Öffnen der Box kann es sofort losgehen!
+- Der TIE-Pilot der Ersten Ordnung, der Ritter von Ren und Finn sind mit cooler Ausrüstung ausgestattet. Das Set lässt sich auch wunderbar mit „Poe Damerons X-Wing Starfighter“ (75273) kombinieren, damit sich Erste Ordnung legendäre Schlachten mit dem Widerstand liefern kann.
 - Der Star Wars TIE Fighter ist 21 cm hoch, 24 cm lang und 22 cm breit. Wenn er nicht gerade Missionen für die Erste Ordnung fliegt, ist er ein eindrucksvolles Schaustück, das jedes Zimmer schmückt!
-- Für dieses Bau- und Spielset werden keine Batterien benötigt. Der TIE Starfighter besteht ausschließlich aus LEGO Steinen – und als Antrieb für unzählige Star Wars Action-Abenteuer reicht die Kreativität der Kinder.
+- Das 470-teilige Set mit legendären Star Wars Charakteren stellt Jungen und Mädchen ab 9 Jahren vor eine ebenso unterhaltsame wie lohnende Bauherausforderung und ist ein Supergeschenk zum Geburtstag, zu Weihnachten oder als besondere Belohnung.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)
