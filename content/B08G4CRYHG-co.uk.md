@@ -28,10 +28,10 @@ You've got [LEGO 71748 NINJAGO Catamaran Sea Battle Building Set with 4
 
 ℹ️:
 
-- The Keepers’ battle catamaran has 2 spring-loaded shooters and can split into 3 separate boats for buddying ninjas to take a part in battles
-- The ninjas’ own catamaran toy features 2 spring-loaded shooters and can fold up into speed mode or fold back out for attack mode
 - Includes 6 minifigures: Island Jay, Zane and Kai, to take on Chief Mammatus, Rumble Keeper and Thunder Keeper – all with cool weapons!
-- The action-packed ninja playset features 2 catamarans so kids 9+ years old can stage multiple thrilling clashes at sea
 - One of the boat toys houses a mini prison for the ninjas, and one features 2 stud shooters and a casket of diamonds
+- The ninjas’ own catamaran toy features 2 spring-loaded shooters and can fold up into speed mode or fold back out for attack mode
+- The action-packed ninja playset features 2 catamarans so kids 9+ years old can stage multiple thrilling clashes at sea
+- The Keepers’ battle catamaran has 2 spring-loaded shooters and can split into 3 separate boats for buddying ninjas to take a part in battles
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4CRYHG/?tag=tolees0a-21)
