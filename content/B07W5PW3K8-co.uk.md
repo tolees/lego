@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '44.41 % deal for LEGO Classic - LEGO 11008 Classic Bricks'
-date: 2021-06-18 06:49:55
-image: 'https://m.media-amazon.com/images/I/519QLD85ekL._SL500_._SL400_.jpg'
+date: 2021-06-20 03:14:22
+image: 'https://m.media-amazon.com/images/I/51Sptcn3xcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO Classic'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21'
 descuento: '44.41'
-average: '10.4490909090909'
+average: '10.4116666666667'
 ---
 
 There's a deal [LEGO Classic - LEGO 11008 Classic Bricks and Houses Building Set  Preschool Toys for 4+ Year Old with 6 Easy-to-Build Models](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)  with  44.41 % discount, final price tag of  10.0 GBP (original: 17.99 GBP) here:
 
-[![LEGO Classic - LEGO 11008 Classic Bricks](https://m.media-amazon.com/images/I/519QLD85ekL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)
+[![LEGO Classic - LEGO 11008 Classic Bricks](https://m.media-amazon.com/images/I/51Sptcn3xcL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)
 
 ℹ️:
 
 - The set builds simultaneously into 6 places to live: a family home, a lighthouse, an igloo, a castle, a small house and a windmill.
-- Big bricks are safe, toddler-friendly and easy for small hands to pick up and place while developing language, social and emotional skills
-- LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
 - Each model has its own significant features: the windmill has sails that turn, the igloo is icy-white, and the lighthouse brightly coloured
+- LEGO brick toys meet the highest industry standards, so they are consistent, compatible and connect and pull apart easily
+- Big bricks are safe, toddler-friendly and easy for small hands to pick up and place while developing language, social and emotional skills
 - The LEGO Classic Bricks and Houses set is a great way to introduce kids to creative construction when they build their own dream home
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W5PW3K8/?tag=tolees0a-21)
