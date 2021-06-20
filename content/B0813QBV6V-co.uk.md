@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Discount of 27.78 % for Harry Potter TM - LEGO 75969 Harry Potte'
-date: 2021-06-17 22:03:20
+title: 'Discount of 27.78 % for LEGO 75969 Harry Potter Hogwarts Castle '
+date: 2021-06-19 22:30:09
 image: 'https://m.media-amazon.com/images/I/51EO4bHt4iS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0813QBV6V-co.uk Harry Potter TM - LEGO 75969 Harry Potter Hogwarts...'
+slug: 'B0813QBV6V-co.uk LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower...'
 sku: 'B0813QBV6V-co.uk'
-tags: [ 'Building & Construction Toys','Toy Building Sets','Toys & Games','Toys Store','harry potter tm','lego', ]
+tags: [ 'Building & Construction Toys','Toy Building Sets','Toys & Games','Toys Store','lego', ]
 actualPrice: 64.99 GBP
 currency: GBP
 price: 64.99
 comparePrice: 89.99 GBP
-prodname: 'Harry Potter TM - LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets'
+prodname: 'LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets'
 country: 'co.uk'
 flag: '🇬🇧'
-brand: 'Harry Potter TM'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21'
 descuento: '27.78'
-average: '73.0459550561801'
+average: '73.0233893557426'
 ---
 
-You've got [Harry Potter TM - LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21) with a  27.78 % discount, with final price of 64.99 GBP (original: 89.99 GBP) at the following link:
+You've got [LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21) with a  27.78 % discount, with final price of 64.99 GBP (original: 89.99 GBP) at the following link:
 
-[![Harry Potter TM - LEGO 75969 Harry Potte](https://m.media-amazon.com/images/I/51EO4bHt4iS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21)
+[![LEGO 75969 Harry Potter Hogwarts Castle ](https://m.media-amazon.com/images/I/51EO4bHt4iS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21)
 
 ℹ️:
 
