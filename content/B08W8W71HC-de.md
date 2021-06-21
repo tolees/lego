@@ -28,11 +28,11 @@ You've got [LEGO 76900 Speed Champions Koenigsegg Jesko Rennauto  Spielzeugauto 
 
 ℹ️:
 
-- Kinder können mit ihrem eigenen LEGO Speed Champions Koenigsegg Jesko Rennwagen Spielzeugmodell einen der ersten 300 mph Supercars der Welt erkunden
-- Dieser LEGO Rennwagen verfügt über ein breites 8-Bolzen-Chassis, das Platz für ein 2-sitziges Cockpit mit Platz bietet, somit haben 2 Minifiguren im Modellauto Platz
-- Die Kinder können den Aufbau des Spielzeugautos genau erkunden, während sie bauen, bevor sie es ausstellen - ein perfektes LEGO Geschenk für Jungen und Mädchen
-- Die im Set enthaltene LEGO Spielzeug-Rennfahrer-Minifigur Koenigsegg wird durch einen Rennanzug, einen Schutzhelm und einen Schraubenschlüssel ergänzt
 - Die vielen originalgetreuen Details am Auto als auch am Fahrer machen es zum dem perfekten Modellauto zum selber Bauen und auch Liebhaber sind begeistert
+- Die Kinder können den Aufbau des Spielzeugautos genau erkunden, während sie bauen, bevor sie es ausstellen - ein perfektes LEGO Geschenk für Jungen und Mädchen
 - Mit den Spielzeugautos von LEGO Speed Champions können Kinder und auch Auto-Fans Mini-Versionen der führenden Autos der Welt sammeln und konstruieren
+- Kinder können mit ihrem eigenen LEGO Speed Champions Koenigsegg Jesko Rennwagen Spielzeugmodell einen der ersten 300 mph Supercars der Welt erkunden
+- Die im Set enthaltene LEGO Spielzeug-Rennfahrer-Minifigur Koenigsegg wird durch einen Rennanzug, einen Schutzhelm und einen Schraubenschlüssel ergänzt
+- Dieser LEGO Rennwagen verfügt über ein breites 8-Bolzen-Chassis, das Platz für ein 2-sitziges Cockpit mit Platz bietet, somit haben 2 Minifiguren im Modellauto Platz
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08W8W71HC/?tag=tolees0ca-21)
