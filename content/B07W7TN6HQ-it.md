@@ -28,15 +28,15 @@ There's a deal [LEGO Star Wars Duello su Mustafar  Playset La Vendetta dei Si
 
 ℹ️:
 
-- La miniera di Mustafar è elevata 14 cm, larga 12 cm e profonda 12 cm, dimensioni ottimali per portare con sé; se aperta, raggiunge una larghezza di 23 cm per offrire esperienze di gioco alternative
-- Le semplici Instructions PLUS, disponibili nellapp LEGO Life gratuita, consentono anche ai più piccoli di visualizzare il modello di costruzione da tutte le angolazioni mentre lo realizzano
-- Iconici rivali di Star Wars? OK; spade laser? OK; funzione di esplosione della lava fusa? OK; questo set consentirà a tutti i giovani fan di inscenare duelli tra Anakin e Obi-Wan sul pianeta Mustafar
-- I kit costruibili LEGO Star Wars consentono ai bambini (e i fan adulti) di rivivere le scene della saga di Star Wars, inventare nuove storie o costruire ed esporre i modelli collezionabili
 - I bambini possono costruire una miniera mustafariana e posizionare le minifigure LEGO armate di spada laser di Anakin Skywalker e Obi-Wan Kenobi su piattaforme scorrevoli e rotanti
+- Iconici rivali di Star Wars? OK; spade laser? OK; funzione di esplosione della lava fusa? OK; questo set consentirà a tutti i giovani fan di inscenare duelli tra Anakin e Obi-Wan sul pianeta Mustafar
 - Questo set LEGO da 208 pezzi offre innumerevoli opzioni di gioco, rendendolo un divertente regalo per ragazzi e ragazze di età superiore ai 7 anni per presentarli a LEGO Star Wars
-- Stimola limmaginazione dei bambini con il set di gioco costruibile di Mustafar senza batteria, mentre ricreano le appassionanti avventure ispirate a Star Wars: La vendetta dei Sith
-- Entrambe le minifigure indossano abiti bruciati e rovinati dal combattimento; vengono inoltre forniti numerosi mattoncini LEGO per incoraggiare i giovani fan a realizzare costruzioni creative
 - Gli elementi e i mattoncini LEGO vengono sottoposti a diversi test rigorosi per verificare che ogni set di gioco soddisfi elevati standard di sicurezza sulla Terra..; e nelle galassie più lontane
+- La miniera di Mustafar è elevata 14 cm, larga 12 cm e profonda 12 cm, dimensioni ottimali per portare con sé; se aperta, raggiunge una larghezza di 23 cm per offrire esperienze di gioco alternative
+- Stimola limmaginazione dei bambini con il set di gioco costruibile di Mustafar senza batteria, mentre ricreano le appassionanti avventure ispirate a Star Wars: La vendetta dei Sith
+- Le semplici Instructions PLUS, disponibili nellapp LEGO Life gratuita, consentono anche ai più piccoli di visualizzare il modello di costruzione da tutte le angolazioni mentre lo realizzano
+- I kit costruibili LEGO Star Wars consentono ai bambini (e i fan adulti) di rivivere le scene della saga di Star Wars, inventare nuove storie o costruire ed esporre i modelli collezionabili
 - I costruttori non avranno bisogno dei poteri dei Jedi per montare e smontare i mattoncini LEGO; questi soddisfano elevati standard del settore, per garantire costruzioni omogenee e resistenti
+- Entrambe le minifigure indossano abiti bruciati e rovinati dal combattimento; vengono inoltre forniti numerosi mattoncini LEGO per incoraggiare i giovani fan a realizzare costruzioni creative
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B07W7TN6HQ/?tag=tolees00-21)

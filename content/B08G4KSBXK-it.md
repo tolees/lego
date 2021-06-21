@@ -28,12 +28,12 @@ You've got [LEGO Harry Potter Lezione di Erbologia a Hogwarts  Playset da Collez
 
 ℹ️:
 
-- Basterà aprire la copertina e i bambini potranno partecipare alla lezione di erbologia della Professoressa Sprite, esercitarsi con gli attrezzi da giardino e le piante magiche e ascoltare i consigli per proteggersi dalla terribile mandragora
-- Questo magico set Lezione di erbologia a Hogwarts misura 12 cm di altezza, 8 cm di larghezza e 4 cm di profondità, le dimensioni ottimale per essere trasportato e giocare ovunque, ma anche per essere esposto su una libreria
-- Lezione di erbologia a Hogwarts (76384) LEGO Harry Potter è un libro in mattoncini che si apre e rivela al suo interno la serra di Hogwarts dei film di Harry Potter in cui si svolge la lezione di erbologia
 - Esistono altri set della serie da collezionare, ognuno progettato in modo da ricreare una diversa lezione magica
+- Lezione di erbologia a Hogwarts (76384) LEGO Harry Potter è un libro in mattoncini che si apre e rivela al suo interno la serra di Hogwarts dei film di Harry Potter in cui si svolge la lezione di erbologia
 - Include accessori autentici, tra cui una paletta d’argento e cesoie da giardinaggio, oltre a uno sfondo che riproduce l’inconfondibile serra dei film di Harry Potter
 - Include le minifigure di Cedric Diggory, Neville Paciock e della Professoressa Sprite, un libro degli incantesimi, un orto di zucche, una zona per annaffiare con secchio e rubinetto dorato e lo sfondo di una serra
 - Un regalo ottimale per giovani maghi e streghe alla ricerca di nuovi modi per vivere magiche ed emozionanti avventure con Harry Potter
+- Questo magico set Lezione di erbologia a Hogwarts misura 12 cm di altezza, 8 cm di larghezza e 4 cm di profondità, le dimensioni ottimale per essere trasportato e giocare ovunque, ma anche per essere esposto su una libreria
+- Basterà aprire la copertina e i bambini potranno partecipare alla lezione di erbologia della Professoressa Sprite, esercitarsi con gli attrezzi da giardino e le piante magiche e ascoltare i consigli per proteggersi dalla terribile mandragora
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B08G4KSBXK/?tag=tolees00-21)
