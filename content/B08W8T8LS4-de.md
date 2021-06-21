@@ -28,10 +28,10 @@ With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 76901 S
 
 ℹ️:
 
-- Ein perfektes Spielzeugauto mit Zubehör im Set für Jungen und Mädchen ab 7 Jahren und für diejenigen mit einer Leidenschaft für kultige Sportwagen
-- Kinder und Autoenthusiasten werden an dem Modellauto zum selber Bauen jede Menge Freude haben, bis sie ihren fertig zusammegesetzten Toyota GR Supra in den Händen halten
-- Authentisch detaillierte Nachbildung des legendären Toyota GR Supra zu einem LEGO Rennwagen mit erstaunlichen Funktionen für Spielspaß für Jung und Alt
-- Mit seinem breiteren 8-Bolzen-Chassis bietet es Platz für 2 Minifiguren - eine ist enthalten: ein Rennfahrer mit Helm und Ausrüstung und allem, was dazu gehört
 - Die Minifigur in Form eines Rennfahrers ist beweglich und natürlich echtheitsgetreu mit einem Toyota-Rennanzug, einem Sicherheitshelm und einem Schraubenschlüssel ausgestattet
+- Mit seinem breiteren 8-Bolzen-Chassis bietet es Platz für 2 Minifiguren - eine ist enthalten: ein Rennfahrer mit Helm und Ausrüstung und allem, was dazu gehört
+- Ein perfektes Spielzeugauto mit Zubehör im Set für Jungen und Mädchen ab 7 Jahren und für diejenigen mit einer Leidenschaft für kultige Sportwagen
+- Authentisch detaillierte Nachbildung des legendären Toyota GR Supra zu einem LEGO Rennwagen mit erstaunlichen Funktionen für Spielspaß für Jung und Alt
+- Kinder und Autoenthusiasten werden an dem Modellauto zum selber Bauen jede Menge Freude haben, bis sie ihren fertig zusammegesetzten Toyota GR Supra in den Händen halten
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08W8T8LS4/?tag=tolees0ca-21)
