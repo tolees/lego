@@ -28,9 +28,9 @@ You've got [LEGO 21170 Minecraft The Pig House Building Set with Alex 
 
 ℹ️:
 
-- The house has an opening side, removable roof to explore hidden rooms and a detonating explosion function collapsing the whole house!
-- The extensive range of LEGO Minecraft playsets bring the online Minecraft game to life with recreated characters, scenes and features
 - There is plenty to do, with 2 cute pigs to care for and the iconic Creeper determined to ambush the players - lets hide in the pig’s head
+- The extensive range of LEGO Minecraft playsets bring the online Minecraft game to life with recreated characters, scenes and features
+- The house has an opening side, removable roof to explore hidden rooms and a detonating explosion function collapsing the whole house!
 - Features a pig-shaped house and popular gaming character Alex, an iconic Creeper, 2 pigs, accessories for Alex and carrots for the pigs
 - Kids can redesign by moving the head-room somewhere else or use the explosion function to blast the model to pieces to start anew
 
