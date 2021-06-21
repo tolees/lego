@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 50.03 % for Nintendo - LEGO: Batman 3. Más Allá De G'
-date: 2021-06-17 10:12:11
+date: 2021-06-21 03:48:25
 image: 'https://m.media-amazon.com/images/I/61F3Z4ax1kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B00NUYXCAS/?tag=tolees-21'
 descuento: '50.03'
-average: '15.7075'
+average: '14.564'
 ---
 
 You've got [Nintendo - LEGO: Batman 3. Más Allá De Gotham](https://www.amazon.es/dp/B00NUYXCAS/?tag=tolees-21) with a  50.03 % discount, with final price of 9.99 EUR (original: 19.99 EUR) at the following link:
@@ -28,7 +28,7 @@ You've got [Nintendo - LEGO: Batman 3. Más Allá De Gotham](https://www.amazon.
 
 ℹ️:
 
-- Plataforma: Nintendo 3DS, New Nintendo 3DS
 - PEGI 7
+- Plataforma: Nintendo 3DS, New Nintendo 3DS
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B00NUYXCAS/?tag=tolees-21)
