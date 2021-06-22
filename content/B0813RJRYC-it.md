@@ -29,10 +29,10 @@ You've got [LEGO Technic Lamborghini Sián FKP 37  Set di Costruzioni p
 ℹ️:
 
 - Include un libro di istruzioni per la costruzione con contenuti esclusivi
-- Appositamente progettata per gli appassionati di auto super sportive e per i costruttori LEGO adulti
-- Adatto per chiunque stia cercando un progetto di costruzione gratificante
-- Questo set di gioco LEGO Technic non richiede batterie
 - Costruisci un modello in scala LEGO Technic della Lamborghini Sián FKP 37
+- Questo set di gioco LEGO Technic non richiede batterie
+- Adatto per chiunque stia cercando un progetto di costruzione gratificante
+- Appositamente progettata per gli appassionati di auto super sportive e per i costruttori LEGO adulti
 - LEGO Technic Lamborghini Sián FKP 37 con dettagli di lusso
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B0813RJRYC/?tag=tolees00-21)
