@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '26.66 % deal for LEGO 42096 Technic Porsche 911 RSR  Set '
-date: 2021-06-19 23:22:49
-image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg'
+date: 2021-06-21 23:52:42
+image: 'https://m.media-amazon.com/images/I/51JDBJGNdlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21'
 descuento: '26.66'
-average: '123.497397849463'
+average: '123.439593147752'
 ---
 
 There's a deal [LEGO 42096 Technic Porsche 911 RSR  Set Voiture de Course Détaillée à Construire  Modèle et Jouet a Collectionner  pour Enfants de 10 Ans et Plus](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)  with  26.66 % discount, final price tag of  110.0 EUR (original: 149.99 EUR) here:
 
-[![LEGO 42096 Technic Porsche 911 RSR  Set ](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)
+[![LEGO 42096 Technic Porsche 911 RSR  Set ](https://m.media-amazon.com/images/I/51JDBJGNdlS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)
 
 ℹ️:
 
 - Les coloris blanc, rouge et noir avec des autocollants détaillés ajoutent la touche finale à ce superbe modèle LEGO Technic Porsche 911 RSR
-- Ce modèle LEGO Technic comprend des mouvements et mécanismes réalistes et est conçu pour offrir une expérience de construction immersive et gratifiante
-- Ouvrez la porte de ce véhicule LEGO et accédez à l’écran radar, à la direction qui fonctionne, au système d’extinction et à la carte du circuit Laguna Seca
-- Construisez et explorez ce modèle LEGO Technic Porsche 911 RSR, une icône en matière d’ingénierie et de design innovants
 - Il comprend un corps aérodynamique, des jantes noires à rayon, une direction et un différentiel qui fonctionnent, une suspension indépendante et un moteur à six cylindres à plat
+- Ouvrez la porte de ce véhicule LEGO et accédez à l’écran radar, à la direction qui fonctionne, au système d’extinction et à la carte du circuit Laguna Seca
+- Ce modèle LEGO Technic comprend des mouvements et mécanismes réalistes et est conçu pour offrir une expérience de construction immersive et gratifiante
+- Construisez et explorez ce modèle LEGO Technic Porsche 911 RSR, une icône en matière d’ingénierie et de design innovants
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)
