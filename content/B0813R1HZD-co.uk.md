@@ -29,9 +29,9 @@ With a final price of 41.25 GBP (original: 54.99 GBP) you can find [LEGO 76165�
 ℹ️:
 
 - The authentic details of the 480-piece displayable model, standing on a sturdy base with nameplate, make it a stunning centrepiece
+- Clear instructions ensure an enjoyable and rewarding building experience that evokes the classic comic-book artistry of Iron Man’s helmet
 - Iron Man’s helmet is part of an impressive series of LEGO helmet build-and-display models – collect them all to complete the set
 - Test your creative construction superpowers with the striking Marvel Avengers Iron Man Helmet LEGO building set for adults
 - A cool adult building set to spark memories of epic Marvel movie scenes as the iconic shape and details of Iron Man’s helmet come together
-- Clear instructions ensure an enjoyable and rewarding building experience that evokes the classic comic-book artistry of Iron Man’s helmet
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813R1HZD/?tag=tolees0a-21)

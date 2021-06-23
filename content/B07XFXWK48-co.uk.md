@@ -28,11 +28,11 @@ With a final price of 41.25 GBP (original: 54.99 GBP) you can find [LEGO 75276�
 
 ℹ️:
 
-- The helmet comes with a base and nameplate to show it off at home or as an eye-catching office desk ornament
-- The Stormtrooper’s sinister look is reproduced in detail with LEGO bricks plus graphics stickers
-- Features a build and display model of a Star Wars Stormtrooper helmet with super-details and beautifully recreated iconic contours
-- Lots of love for all  Star Wars fans! This set is a part of a collectible LEGO Star Wars series for adults and more patient  teenagers
-- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
 - This cool, collectible LEGO Star Wars Stormtrooper Helmet measures 7” (18cm) high, 5” (13cm) wide and 5” (13cm) deep and will make a big visual impact displayed at home or at your workplace. 11.8 x 19.1 x 35.4 cm is the box dimension
+- Lots of love for all  Star Wars fans! This set is a part of a collectible LEGO Star Wars series for adults and more patient  teenagers
+- The helmet comes with a base and nameplate to show it off at home or as an eye-catching office desk ornament
+- Features a build and display model of a Star Wars Stormtrooper helmet with super-details and beautifully recreated iconic contours
+- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
+- The Stormtrooper’s sinister look is reproduced in detail with LEGO bricks plus graphics stickers
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07XFXWK48/?tag=tolees0a-21)
