@@ -28,10 +28,10 @@ You've got [LEGO 10274 Creator Expert Ghostbusters ECTO-1 Car Large Set�
 
 ℹ️:
 
-- A delight for adult Ghostbusters: Afterlife fans, including the Proton Pack which swivels out of a side panel to trap ghouls and ghosts
-- This buildable classic car model is a stunning replica of the iconic ECTO-1, based on the 1959 Cadillac Miller-Meteor Futura Duplex
-- The car features spookily good details: working steering, a trapdoor with ghost trap, an extending gunner seat, plus a moving ghost sniffer
 - Check out the scissor seat mechanism that extends and rotates the rear seat, and other intriguing elements attached in unique ways
+- This buildable classic car model is a stunning replica of the iconic ECTO-1, based on the 1959 Cadillac Miller-Meteor Futura Duplex
 - The movie model car boasts Ghostbusters paranormal detection equipment, with individual details explained in the collectors guide
+- The car features spookily good details: working steering, a trapdoor with ghost trap, an extending gunner seat, plus a moving ghost sniffer
+- A delight for adult Ghostbusters: Afterlife fans, including the Proton Pack which swivels out of a side panel to trap ghouls and ghosts
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4PD84J/?tag=tolees0a-21)
