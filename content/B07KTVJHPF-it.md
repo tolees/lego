@@ -29,10 +29,10 @@ With a final price of 21.22 EUR (original: 29.99 EUR) you can find [LEGO City S
 ℹ️:
 
 - Utilizza l’app LEGO Life per accedere alle intuitive istruzioni per la costruzione “Instructions PLUS”
-- Include 2 minifigure di astronauta LEGO City
-- Gli accessori includono un casco con visiera blu, tuta extraveicolare con visiera dorata, scanner e 2 geodi con cristalli blu
 - Questo divertente giocattolo costruibile è un bello regalo per i bambini
 - Contiene uno shuttle con cabina di pilotaggio, 2 sportelli e spazio per il drone magazzino, un rover ispirato alla NASA, laser e pannelli solari inclinabili, drone magazzino, un heli-drone e scanner
+- Include 2 minifigure di astronauta LEGO City
+- Gli accessori includono un casco con visiera blu, tuta extraveicolare con visiera dorata, scanner e 2 geodi con cristalli blu
 - Aiuta i più giovani a costruire meglio con le funzioni di ingrandimento, rotazione e modalità ghost, facili da usare, e visualizza le creazioni durante la costruzione
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07KTVJHPF/?tag=tolees00-21)
