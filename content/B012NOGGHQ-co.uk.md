@@ -28,10 +28,10 @@ You've got [LEGO 21028 Architecture New York City Skyline Building Set](
 
 ℹ️:
 
+- Model features the Flatiron, Chrysler, Empire State and One World Trade Center Buildings and is 10”/26cm high, 9”/25cm wide and 1”/4cm deep
 - Capture the architectural essence of New York City with this magnificent set that brings together iconic buildings in an inspirational skyline setting
+- Build a detailed model of the New York City Skyline, including the miniature Statue of Liberty, and 4x32 tiled base with decorative nameplate
 - Includes collectible booklet containing information about the design, architecture and history of the buildings
 - This wonderful model focuses on the amazing architectural diversity of one of the worlds most dynamic cities
-- Build a detailed model of the New York City Skyline, including the miniature Statue of Liberty, and 4x32 tiled base with decorative nameplate
-- Model features the Flatiron, Chrysler, Empire State and One World Trade Center Buildings and is 10”/26cm high, 9”/25cm wide and 1”/4cm deep
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B012NOGGHQ/?tag=tolees0a-21)
