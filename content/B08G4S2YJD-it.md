@@ -29,11 +29,11 @@ There's a deal [LEGO VIDIYO Unicorn DJ BeatBox Creatore Video Musicali con Unico
 ℹ️:
 
 - Scarica e usa l’app per dare vita al DJ unicorno al ritmo del K-pop coreano e prova divertenti effetti speciali come il castello LEGO con nuvole e cascate arcobaleno
-- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
-- Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito prima dellacquisto: cerca "LEGO VIDIYO" su App Store o Google Play
 - Scopri tanti altri effetti speciali, sfide e personalizzazioni, seleziona e condividi online con gli amici in un feed social sicuro e adatto ai bambini
 - Con oltre 90 BeatBits e 12 personaggi da collezionare, tutti ispirati a diversi generi musicali, i bambini potranno creare una collezione da condividere con gli amici
 - Le tessere BeatBits posizionate sul palco sbloccano effetti speciali nell’app, per creare video musicali unici e sempre nuovi
 - Questo giocattolo musicale include la minifigure di un DJ unicorno, un disco LP, 14 BeatBits casuali, 2 BeatBits speciali e un palco che consente di creare video musicali interattivi
+- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
+- Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito prima dellacquisto: cerca "LEGO VIDIYO" su App Store o Google Play
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B08G4S2YJD/?tag=tolees00-21)
