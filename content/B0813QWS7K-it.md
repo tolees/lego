@@ -28,10 +28,10 @@ With a final price of 71.99 EUR (original: 94.99 EUR) you can find [LEGO Super�
 
 ℹ️:
 
-- Questo set di Batman è dotato di veicoli, armi ed equipaggiamenti gadget ispirati ai film
 - Il veicolo Bat-base mobile completo è lungo più di 38 cm
-- Un’ottima idea regalo di compleanno di tipo “costruisci il tuo veicolo” per bambini dai 6 anni in su
 - Include un Batjet, un BatQuad, una motocicletta, un jet ski, un camion e 6 minifigure
+- Un’ottima idea regalo di compleanno di tipo “costruisci il tuo veicolo” per bambini dai 6 anni in su
+- Questo set di Batman è dotato di veicoli, armi ed equipaggiamenti gadget ispirati ai film
 - Il tettuccio apribile permette ai bambini di accedere alla parte interna di un camion dotato di un bat-equipaggiamento completo
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B0813QWS7K/?tag=tolees00-21)
