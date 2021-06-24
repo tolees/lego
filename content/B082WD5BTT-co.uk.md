@@ -29,9 +29,9 @@ You've got [LEGO 71363 Super Mario Desert Pokey Expansion Set Buildable�
 ℹ️:
 
 - Features a desert scene and hammer turntable for LEGO Mario (not included) to knock down his cactus-like enemy Pokey section by section
+- More inspiration for creative play, digital building instructions, and cool viewing tools can be found in the free downloadable LEGO app
 - Includes a Monty Mole figure to defeat and collect virtual coins
 - Kids can add an exciting, hammer-swinging expansion to their LEGO Super Mario Adventures Starter Course set and compete against each other
-- More inspiration for creative play, digital building instructions, and cool viewing tools can be found in the free downloadable LEGO app
 - Music plays when Mario is placed on the turntable and each of the 3 action bricks causes him to react in different ways when he jumps on them
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B082WD5BTT/?tag=tolees0a-21)
