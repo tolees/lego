@@ -28,13 +28,13 @@ There's a deal [LEGO Technic Porsche 911 RSR  Auto da Corsa  Set di Costruzio
 
 ℹ️:
 
+- I set LEGO Technic presentano movimenti e meccanismi realistici che introducono i giovani costruttori LEGO alluniverso dellingegneria in modo accessibile e vicino alla realtà
+- Include anche un dettagliato abitacolo, sospensioni differenziali indipendenti e visibili e motore boxer a sei cilindri con pistoni mobili posizionati davanti allasse posteriore
+- La replica della Porsche 911 RSR è dotata di ala posteriore con supporti "a collo di cigno", diffusore posteriore e specchietti laterali aerodinamici, cerchi a razze neri, fari anteriori e posteriori
+- Ammira il dettagliato motore boxer a sei cilindri con pistoni mobili
 - La Porsche 911 RSR misura 13 cm di altezza, 50 cm di lunghezza e 20 cm di larghezza
 - Questauto giocattolo collezionabile è dotata anche di unautentica livrea bianca, rossa e nera oltre a un foglio con adesivi per aggiungere ulteriori dettagli
-- Ammira il dettagliato motore boxer a sei cilindri con pistoni mobili
 - Questo set include 1.580 pezzi; questo modello LEGO Technic è stato progettato per offrire unesperienza di costruzione coinvolgente e gratificante; idoneo per la fascia di età di 10+ anni
 - Apri gli sportelli per accedere allabitacolo: uno schermo radar, sterzo funzionante, estintore e una mappa del circuito di Laguna Seca stampata sulla portiera del guidatore
-- I set LEGO Technic presentano movimenti e meccanismi realistici che introducono i giovani costruttori LEGO alluniverso dellingegneria in modo accessibile e vicino alla realtà
-- La replica della Porsche 911 RSR è dotata di ala posteriore con supporti "a collo di cigno", diffusore posteriore e specchietti laterali aerodinamici, cerchi a razze neri, fari anteriori e posteriori
-- Include anche un dettagliato abitacolo, sospensioni differenziali indipendenti e visibili e motore boxer a sei cilindri con pistoni mobili posizionati davanti allasse posteriore
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B07FP6QNQ7/?tag=tolees00-21)
