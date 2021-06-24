@@ -28,11 +28,11 @@ With a final price of 36.99 EUR (original: 48.73 EUR) you can find [LEGO 60257 C
 
 ℹ️:
 
-- Anzahl der Teile: 354
-- Tankstelle
 - Coole Gebäude, Fahrzeuge und Charaktere ermöglichen ein Spielerlebnis ohne Grenzen.
-- Diese LEGO Tankstelle strotzt nur so vor coolen Details und Funktionen.
+- Tankstelle
 - Vom Hersteller nicht mehr verkauft
+- Anzahl der Teile: 354
+- Diese LEGO Tankstelle strotzt nur so vor coolen Details und Funktionen.
 - Vom Hersteller empfohlenes Alter: 5+
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W6QBJJ3/?tag=tolees0ca-21)

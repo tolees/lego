@@ -28,12 +28,12 @@ With a final price of 21.52 EUR (original: 29.99 EUR) you can find [LEGO 71735 N
 
 ℹ️:
 
-- Der Ninja-Tempel ist 17 cm hoch, 16 cm breit und 24 cm tief. Das kompakte Set für unterwegs bereitet auch zu Hause riesiges Spielvergnügen
-- Ninja-Spielset mit sieben Minifiguren: dem Ninja Jay, Kai und Lloyd Legacy, den Elementarmeistern Bolobo, Gravis und Jacob sowie dem Bösewicht Eyezor aus der 4. Staffel der TV-Serie
 - Enthält Lloyd Legacy als goldene Minifigur zum Sammeln auf einem kleinen Ständer zur Feier des 10-jährigen Jubiläums der NINJAGO Spielzeuge
-- Weitere goldene Minifiguren zum Sammeln finden Sie in den anderen NINJAGO Sets: Coles Felsenbrecher (71736), X-1 Ninja Supercar (71737) und Zanes Titan-Mech (71738)
-- Dieses 283-teilige Action-Spielset bietet Jungen und Mädchen ab 6 Jahren riesigen Bauspaß und ist ein tolles Geschenk für jedes Kind, das sich für NINJAGO Abenteuer begeistert
-- Das LEGO NINJAGO Legacy Bauset „Turnier der Elemente“ (71735) enthält einen detailreichen interaktiven Tempel, in dem Kinder Ninja-Techniken üben und packende Duelle austragen können
+- Der Ninja-Tempel ist 17 cm hoch, 16 cm breit und 24 cm tief. Das kompakte Set für unterwegs bereitet auch zu Hause riesiges Spielvergnügen
 - In dem Ninja-Tempel gibt es eine Arena-Plattform für packende Duelle, eine kreiselnde Übungsattrappe und einen Actionkreisel zum Üben der Ninja-Techniken sowie verschiedene Jadeklingen als Siegestrophäen
+- Dieses 283-teilige Action-Spielset bietet Jungen und Mädchen ab 6 Jahren riesigen Bauspaß und ist ein tolles Geschenk für jedes Kind, das sich für NINJAGO Abenteuer begeistert
+- Ninja-Spielset mit sieben Minifiguren: dem Ninja Jay, Kai und Lloyd Legacy, den Elementarmeistern Bolobo, Gravis und Jacob sowie dem Bösewicht Eyezor aus der 4. Staffel der TV-Serie
+- Weitere goldene Minifiguren zum Sammeln finden Sie in den anderen NINJAGO Sets: Coles Felsenbrecher (71736), X-1 Ninja Supercar (71737) und Zanes Titan-Mech (71738)
+- Das LEGO NINJAGO Legacy Bauset „Turnier der Elemente“ (71735) enthält einen detailreichen interaktiven Tempel, in dem Kinder Ninja-Techniken üben und packende Duelle austragen können
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4W31VQ/?tag=tolees0ca-21)
