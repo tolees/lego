@@ -28,10 +28,10 @@ There's a deal [Lego Creator - Lego 31088 Creator Bewohner der Tiefsee  3-in-1 S
 
 ℹ️:
 
-- Das Set „Bewohner der Tiefsee“ enthält einen unheimlichen Hai mit aufklappbarem Maul, spitzen Zähnen, beweglichen Flossen, beweglichen Gelenken und reflektierenden Augen sowie eine Krabbe mit einer Schatztruhe.
-- Sieh dir die coole blau-weiße Farbgebung des Hais an.
 - Hilf der Krabbe dabei, ihre Schatztruhe zu beschützen.
-- Öffne das Maul des Hais und entdecke seine furchteinflößenden, spitzen Zähne.
+- Sieh dir die coole blau-weiße Farbgebung des Hais an.
 - Dieses LEGO Creator 3-in-1-Set bietet 3 verschiedene Baumöglichkeiten: Baue den Hai mit Krabbe und Schatztruhe, einen beweglichen Tintenfisch oder einen Seeteufel mit riesigem Maul.
+- Öffne das Maul des Hais und entdecke seine furchteinflößenden, spitzen Zähne.
+- Das Set „Bewohner der Tiefsee“ enthält einen unheimlichen Hai mit aufklappbarem Maul, spitzen Zähnen, beweglichen Flossen, beweglichen Gelenken und reflektierenden Augen sowie eine Krabbe mit einer Schatztruhe.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07FNS6J7R/?tag=tolees0ca-21)

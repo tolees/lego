@@ -28,10 +28,10 @@ You've got [LEGO Hidden Side 70424 Ghost Train Express Construction Set  AR Game
 
 ℹ️:
 
-- This construction set can be played with right out of the box, but for a full experience, a tablet/mobile phone is required (not included)
-- This train features ghost wings that fold-out with the flip of a lever, and chamber to remove the ghosts haunting Ms. Santos.
 - Download the app and scan the model to make it come alive. Moving the phone around reveals an ever-changing environment hidden around the model
+- This construction set can be played with right out of the box, but for a full experience, a tablet/mobile phone is required (not included)
 - Play out exciting ghost-hunting adventures that combine physical LEGO models with an interactive augmented reality play experience
 - The app is compatible with selected iOS/Android/mobile devices for better ghost hunting. Check compatibility at lego.com/devicecheck
+- This train features ghost wings that fold-out with the flip of a lever, and chamber to remove the ghosts haunting Ms. Santos.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07ND6C86R/?tag=tolees0a-21)
