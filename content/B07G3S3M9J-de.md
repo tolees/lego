@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Hogwarts Uhrentu at 22.77 % discount'
-date: 2021-06-19 23:22:40
-image: 'https://m.media-amazon.com/images/I/51MFdW7S36S._SL500_._SL400_.jpg'
+date: 2021-06-24 23:35:57
+image: 'https://m.media-amazon.com/images/I/51Lz4Af+YfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07G3S3M9J/?tag=tolees0ca-21'
 descuento: '22.77'
-average: '72.3836982968371'
+average: '72.3876811594204'
 ---
 
 With a final price of 69.5 EUR (original: 89.99 EUR) you can find [LEGO 75948 Harry Potter Hogwarts Uhrenturm Spielzeug kompatibel mit der Großen Halle und der Peitschenden Weide Sets](https://www.amazon.de/dp/B07G3S3M9J/?tag=tolees0ca-21) with a  22.77 % discount here:
 
-[![LEGO 75948 Harry Potter Hogwarts Uhrentu](https://m.media-amazon.com/images/I/51MFdW7S36S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07G3S3M9J/?tag=tolees0ca-21)
+[![LEGO 75948 Harry Potter Hogwarts Uhrentu](https://m.media-amazon.com/images/I/51Lz4Af+YfS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07G3S3M9J/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses Set enthält den dreistöckigen Hogwarts Uhrenturm, die Eingangshalle, das Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel, Dumbledores Büro und vieles mehr
-- Enthält 8x Harry-Potter-Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore und Madame Maxime
 - Die Uhr kann für tolle Abenteuer mit dem Zeitumkehrer verstellt werden. Die Tanzfunktion bringt den Weihnachtsball erst richtig in Schwung
-- Alle Figuren besitzen einen Zauberstab und Festumhänge
 - Der Hogwarts Uhrenturm ist 35 cm hoch, 34 cm breit und 18 cm tief
+- Dieses Set enthält den dreistöckigen Hogwarts Uhrenturm, die Eingangshalle, das Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel, Dumbledores Büro und vieles mehr
+- Alle Figuren besitzen einen Zauberstab und Festumhänge
+- Enthält 8x Harry-Potter-Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore und Madame Maxime
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07G3S3M9J/?tag=tolees0ca-21)
