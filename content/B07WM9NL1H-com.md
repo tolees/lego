@@ -28,10 +28,10 @@ There's a deal [LEGO Disney Belle’s Storybook Adventures 43177 Creative Buildi
 
 ℹ️:
 
-- With the open book measuring over 9” (23cm) wide, 4” (12cm) deep and 3” (8cm) high, this amazing playset is big enough for new adventures or packable for on-the-go fun
-- This LEGO Disney Beauty and the Beast playset sparks imagination, offers endless build-and-play fun, and is a creativity-filled holiday, birthday or anyday gift for kids ages 5+ who like Disney Princess Belle and mini-dolls
-- Kids can flex their role-play and creative skills as they uncover the mysteries of the castle, including the magical rose, a place for Disneys Belle to sleep and a dance floor
 - Little princess fans will be thrilled to play with their favorite Disney Beauty and the Beast characters, Belle, Beast, Mrs. Potts, Chip, Cogsworth and Wardrobe in micro-size!
+- This LEGO Disney Beauty and the Beast playset sparks imagination, offers endless build-and-play fun, and is a creativity-filled holiday, birthday or anyday gift for kids ages 5+ who like Disney Princess Belle and mini-dolls
+- With the open book measuring over 9” (23cm) wide, 4” (12cm) deep and 3” (8cm) high, this amazing playset is big enough for new adventures or packable for on-the-go fun
 - Open this LEGO Disney Beauty and the Beast storybook, and youll find an adorable micro-world packed with micro-dolls, incredible details, action and adventure!
+- Kids can flex their role-play and creative skills as they uncover the mysteries of the castle, including the magical rose, a place for Disneys Belle to sleep and a dance floor
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07WM9NL1H/?tag=tolees-20)
