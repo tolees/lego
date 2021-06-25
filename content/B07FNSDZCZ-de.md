@@ -28,10 +28,10 @@ With a final price of 19.7 EUR (original: 29.99 EUR) you can find [LEGO 10895 DU
 
 ℹ️:
 
-- Das Spielset umfasst vier baubare Alien-Eindringlinge aus THE LEGO MOVIE 2
-- Im Zubehör sind eine Schaufel, ein Becher und ein Stoppschild enthalten
-- Anzahl der Teile: 53
 - Besucher vom LEGO DUPLO Planeten
 - Vom Hersteller empfohlenes Alter: 2+
+- Im Zubehör sind eine Schaufel, ein Becher und ein Stoppschild enthalten
+- Anzahl der Teile: 53
+- Das Spielset umfasst vier baubare Alien-Eindringlinge aus THE LEGO MOVIE 2
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNSDZCZ/?tag=tolees0ca-21)

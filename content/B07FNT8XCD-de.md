@@ -28,10 +28,10 @@ You've got [Lego Friends - Lego 41368 Friends Andreas Talentshow  Vom Hersteller
 
 ℹ️:
 
-- Anzahl der Teile: 492
+- Vom Hersteller empfohlenes Alter: 7+
 - Mit einer Hauptbühne mit drehbaren Lautsprechern, 3 einzelnen auswechselbaren Mini-Sets, 2 Backstage-Bereichen, einem Jurorentisch mit Bewertungsknopf und Fähnchenfunktionen, einem Ständer zum Befestigen eines Mobiltelefons, Feuerwerksfunktionen und einem Zauberkasten
+- Anzahl der Teile: 492
 - Zum Zubehör gehören ein Mikrofon, ein Zaubertrick-Set, eine Kamera, eine Haarbürste, ein Lippenstift, eine Tasse, ein Mobiltelefon-Ständer und ein Wechsel-Stoffrock für Andrea
 - Andreas Talentshow
-- Vom Hersteller empfohlenes Alter: 7+
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNT8XCD/?tag=tolees0ca-21)
