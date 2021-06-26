@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 16.68 % for LEGO Star Wars Yoda  75255 '
-date: 2021-06-24 22:56:03
+date: 2021-06-25 23:27:19
 image: 'https://m.media-amazon.com/images/I/518ZOcwewUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21'
 descuento: '16.68'
-average: '84.9852864583328'
+average: '84.9592987012982'
 ---
 
 You've got [LEGO Star Wars Yoda  75255 ](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21) with a  16.68 % discount, with final price of 74.98 GBP (original: 89.99 GBP) at the following link:
