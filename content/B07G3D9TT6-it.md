@@ -28,8 +28,8 @@ With a final price of 111.99 EUR (original: 139.99 EUR) you can find [LEGO Ford 
 
 ℹ️:
 
-- Formula migliorata e completa
 - Dimensioni: 40x25x15 cm
+- Formula migliorata e completa
 - Giocattoli e modellismo
 - Marca: lego
 - Comodo e facile da utilizzare
