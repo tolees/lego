@@ -28,11 +28,11 @@ With a final price of 34.68 GBP (original: 44.49 GBP) you can find [LEGO 75305�
 
 ℹ️:
 
-- Slightly smaller, it complements the new-for-May-2021 Darth Vader Helmet (75304), 834 pieces & 20cm/8in tall LEGO set for adults
-- Makes a super treat for yourself and a challenge for your building skills with this iconic Star Wars collectible
-- The collectible LEGO Star Wars building set for adults features a wonderfully detailed LEGO brick version of a Scout Trooper Helmet
 - This 18cm/7in premium-quality pop-culture buildable model doesn’t take up much space, but it is sure to catch the eye of every passerby
-- To complete an impressive centrepiece for the home or office this Star Wars collectible set for adults has a display stand with a nameplate
+- The collectible LEGO Star Wars building set for adults features a wonderfully detailed LEGO brick version of a Scout Trooper Helmet
 - Part of a series of collectible LEGO Star Wars build-to-display helmet models reproduced in LEGO style, it is a top gift idea for adults
+- Makes a super treat for yourself and a challenge for your building skills with this iconic Star Wars collectible
+- To complete an impressive centrepiece for the home or office this Star Wars collectible set for adults has a display stand with a nameplate
+- Slightly smaller, it complements the new-for-May-2021 Darth Vader Helmet (75304), 834 pieces & 20cm/8in tall LEGO set for adults
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4GNRD4/?tag=tolees0a-21)
