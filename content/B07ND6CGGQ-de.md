@@ -28,10 +28,10 @@ With a final price of 42.46 EUR (original: 49.99 EUR) you can find [LEGO 10899 D
 
 ℹ️:
 
-- Das Bauset -Elsas Eispalast- enthält 3 LEGO DUPLO Spielfiguren: Anna, Elsa und Olaf und einen speziellen Leuchtstein, der das Schloss auf Knopfdruck in bunten Farben beleuchtet
-- Elsas Eispalast ist 28 cm hoch, 19 cm breit und 16 cm tief
-- Das Spielzeug-Set -Elsas Eispalast- von LEGO DUPLO l Disney ist einfach zu bauen, regt zum spielerischen Lernen an, fördert die Feinmotorik und sorgt bei Kindern für jede Menge kreativen Spielspaß
-- Fantasievolles Spielvergnügen mit Elsas Eispalast-. Das Set verfügt über eine Rutsche, Eis Steine, einen Leuchtstein, der auf Knopfdruck in Farben leuchtet und die Kleider von Anna und Elsa
 - 59 Teile – Bauspielzeug für Mädchen und Jungen ab 2 Jahren
+- Das Bauset -Elsas Eispalast- enthält 3 LEGO DUPLO Spielfiguren: Anna, Elsa und Olaf und einen speziellen Leuchtstein, der das Schloss auf Knopfdruck in bunten Farben beleuchtet
+- Fantasievolles Spielvergnügen mit Elsas Eispalast-. Das Set verfügt über eine Rutsche, Eis Steine, einen Leuchtstein, der auf Knopfdruck in Farben leuchtet und die Kleider von Anna und Elsa
+- Das Spielzeug-Set -Elsas Eispalast- von LEGO DUPLO l Disney ist einfach zu bauen, regt zum spielerischen Lernen an, fördert die Feinmotorik und sorgt bei Kindern für jede Menge kreativen Spielspaß
+- Elsas Eispalast ist 28 cm hoch, 19 cm breit und 16 cm tief
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)
