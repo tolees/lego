@@ -28,10 +28,10 @@ You've got [LEGO 10924 DUPLO Cars Lightning McQueens großes Rennen  Disney Pixa
 
 ℹ️:
 
-- Kinder können Lightning McQueen zu einem Piston Cup-Sieg fahren, ihn mit Hooks Truck-Haken abschleppen oder Reparaturen in der Spielzeugwerkstatt durchführen
 - Mit Lightning McQueen- und Hook-Rennwagen von Cars, der Ausrüstung für die Reparatur und der bekannten Rennbahn sowie mit dem Piston Cup-Podium
 - Nach dem Rennen kann das 2-in-1 Hook Set in eine Autoreparaturwerkstatt mit einer Zapfsäule eingebaut werden, damit kleine Fahrer Mechaniker werden können
-- Die großen Steine sind so konzipiert, dass kleine Hände leicht Feinmotorik entwickeln können, wenn Kinder endlose, einfallsreiche Geschichten spielen
 - Enthält einen Benzinkanister, eine Zapfsäule, einen Schraubenschlüssel und einen Drehteller zur Anzeige on Autos sowie eine grüne Flagge, die Mama halten kann, um das Rennen zu starten
+- Kinder können Lightning McQueen zu einem Piston Cup-Sieg fahren, ihn mit Hooks Truck-Haken abschleppen oder Reparaturen in der Spielzeugwerkstatt durchführen
+- Die großen Steine sind so konzipiert, dass kleine Hände leicht Feinmotorik entwickeln können, wenn Kinder endlose, einfallsreiche Geschichten spielen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813QWRRX/?tag=tolees0ca-21)
