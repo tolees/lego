@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 60226 City Mars-Forschungsshuttle m at 29.21 % discount'
-date: 2021-06-16 08:11:30
-image: 'https://m.media-amazon.com/images/I/51jjmZoBoFS._SL500_._SL400_.jpg'
+date: 2021-06-28 20:17:30
+image: 'https://m.media-amazon.com/images/I/51gjEngMowS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07KTVJHPF/?tag=tolees0ca-21'
 descuento: '29.21'
-average: '23.527564102564'
+average: '23.5527848101265'
 ---
 
 With a final price of 21.23 EUR (original: 29.99 EUR) you can find [LEGO 60226 City Mars-Forschungsshuttle mit 2 Minifiguren und Flugdrohne  Bauspielzeug für Kinder inspiriert von der NASA](https://www.amazon.de/dp/B07KTVJHPF/?tag=tolees0ca-21) with a  29.21 % discount here:
 
-[![LEGO 60226 City Mars-Forschungsshuttle m](https://m.media-amazon.com/images/I/51jjmZoBoFS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07KTVJHPF/?tag=tolees0ca-21)
+[![LEGO 60226 City Mars-Forschungsshuttle m](https://m.media-amazon.com/images/I/51gjEngMowS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07KTVJHPF/?tag=tolees0ca-21)
 
 ℹ️:
 
