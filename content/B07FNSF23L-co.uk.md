@@ -28,10 +28,10 @@ You've got [LEGO 31090 Creator Underwater Robot  Crane and Submarine  3�
 
 ℹ️:
 
-- Enjoy 3 building opportunities with this LEGO Creator 3in1 set!
 - The Underwater Robot features highly flexible joints, viewing dome with red robot eye, mechanical-style hands with drill, claw and grabber, ballast tanks and large robot feet for traversing the seabed.
-- Build the Underwater Robot and manta ray, then rebuild to create a toySubmarine with a manipulator arm, or an Underwater Crane treasure huntcenter.
-- Open the Robot’s helmet and remove the robot eye to reveal a control console and move the Robot’s head, arms and legs to create cool action poses!
 - The Underwater Robot comes with a cool yellow, grey, black and red colour scheme.
+- Open the Robot’s helmet and remove the robot eye to reveal a control console and move the Robot’s head, arms and legs to create cool action poses!
+- Enjoy 3 building opportunities with this LEGO Creator 3in1 set!
+- Build the Underwater Robot and manta ray, then rebuild to create a toySubmarine with a manipulator arm, or an Underwater Crane treasure huntcenter.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNSF23L/?tag=tolees0a-21)
