@@ -28,10 +28,10 @@ There's a deal [LEGO Technic Fast & Furious Dom’s Dodge Charger 42111 Race Car
 
 ℹ️:
 
-- Authentic features let kids recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower; After playing, kids can show off the model in the famous wheelstand position
 - LEGO Technic building kits are thoroughly tested to make sure each one meets the highest global safety and quality standards; No batteries are required for this fun race-car toy
-- Introduce youngsters to a world of building fun with LEGO Technic sets; With awesome vehicle designs and cool functions, the fun goes on long after the model is built
 - With 1,077 pieces, this cool building set provides a fun challenge for kids who love toy model cars; Inspired by the original 1970s Dodge Charger R/T, this faithful replica is packed with realistic details
 - Inspire kids to recreate their favorite scenes from the Fast & Furious movies with this amazing LEGO Technic Dom’s Dodge Charger 42111, an awesome replica model of the classic muscle car
+- Introduce youngsters to a world of building fun with LEGO Technic sets; With awesome vehicle designs and cool functions, the fun goes on long after the model is built
+- Authentic features let kids recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower; After playing, kids can show off the model in the famous wheelstand position
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B083JZHG42/?tag=tolees-20)
