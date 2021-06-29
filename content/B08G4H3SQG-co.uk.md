@@ -28,10 +28,10 @@ You've got [LEGO 75295 Star Wars Millennium Falcon Microfighter Toy with
 
 ℹ️:
 
-- This buildable playset combines brilliantly with the AT-AT vs. Tauntaun Microfighters (75298) set to open up even more play options
 - The microfighter has a seat for the included Han Solo LEGO minifigure and 2 stud shooters, for fun, creative play
-- It comes with illustrated, step-by-step instructions so even LEGO newcomers can build with confidence
-- Features a quick-to-build brick LEGO Microfighters version of the Millennium Falcon from the classic Star Wars trilogy
+- This buildable playset combines brilliantly with the AT-AT vs. Tauntaun Microfighters (75298) set to open up even more play options
 - Kids can jump in the cockpit to launch into space, fire the stud shooters at Imperial starships and fend off enemies with Han’s blaster pistol
+- Features a quick-to-build brick LEGO Microfighters version of the Millennium Falcon from the classic Star Wars trilogy
+- It comes with illustrated, step-by-step instructions so even LEGO newcomers can build with confidence
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4H3SQG/?tag=tolees0a-21)
