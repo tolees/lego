@@ -28,12 +28,12 @@ With a final price of 16.2 EUR (original: 19.99 EUR) you can find [LEGO 60242 
 
 ℹ️:
 
-- Dieses coole LEGO City Polizei-Set „Festnahme auf der Autobahn“ (60242) inspiriert zu fantasievollen, realitätsnahen Rollenspielen und vermittelt Kindern den Nervenkitzel rasanter und actionreicher Autoverfolgungsjagden.
+- Das Set enthält den LEGO City TV-Helden Duke DeTain und den Ganoven Vito als Minifiguren, ein cooles Spielzeug-Polizeiauto, einen sportlichen Fluchtwagen sowie einen gestohlenen Tresor und ein Fischkiste. Einer wilden Verfolgungsjagd steht also nichts mehr im Weg!
 - Batterien werden nicht benötigt! Als Antrieb reicht diesem coolen Spielzeug die Fantasie der Kinder, damit der Spielspaß sofort beginnen kann!
+- Zu diesem Polizei-Spielset gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
 - Kinder können die Charaktere und Autos aus diesem Set mit anderen LEGO Spielsets kombinieren, um eigene Spielzeuge und Schaustücke zu erschaffen.
 - Dieses Bauspielzeug verspricht jede Menge Action und ist ein tolles Geschenk zu jedem Anlass für Jungen und Mädchen ab 5 Jahren, die beim Spielen gerne ihrer Fantasie freien Lauf lassen. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
-- Zu diesem Polizei-Spielset gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
 - Dukes Polizeiauto ist 4 cm hoch, 12 cm lang und 5 cm breit. Vitos Cabrio ist dagegen 3 cm hoch, 11 cm lang und 5 cm breit.
-- Das Set enthält den LEGO City TV-Helden Duke DeTain und den Ganoven Vito als Minifiguren, ein cooles Spielzeug-Polizeiauto, einen sportlichen Fluchtwagen sowie einen gestohlenen Tresor und ein Fischkiste. Einer wilden Verfolgungsjagd steht also nichts mehr im Weg!
+- Dieses coole LEGO City Polizei-Set „Festnahme auf der Autobahn“ (60242) inspiriert zu fantasievollen, realitätsnahen Rollenspielen und vermittelt Kindern den Nervenkitzel rasanter und actionreicher Autoverfolgungsjagden.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)
