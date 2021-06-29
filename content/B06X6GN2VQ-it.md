@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.18 % deal for LEGO Boost Toolbox Creativa  Kit di Robo'
-date: 2021-06-28 05:08:00
+date: 2021-06-29 05:26:08
 image: 'https://m.media-amazon.com/images/I/51Iag4UmcHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B06X6GN2VQ/?tag=tolees00-21'
 descuento: '18.18'
-average: '149.835589123867'
+average: '149.803192771084'
 ---
 
 There's a deal [LEGO Boost Toolbox Creativa  Kit di Robotica per Ragazzi  Modello da Costruire 5 in 1 Controllato Via App con Robot Giocattolo Interattivo Programmabile e Hub Bluetooth  Set di Codifica  17101](https://www.amazon.it/dp/B06X6GN2VQ/?tag=tolees00-21)  with  18.18 % discount, final price tag of  139.08 EUR (original: 169.99 EUR) here:
@@ -28,11 +28,11 @@ There's a deal [LEGO Boost Toolbox Creativa  Kit di Robotica per Ragazzi  Model
 
 ℹ️:
 
-- Software intuitivo, facile da usare, con interfaccia di codifica drag-and-drop basata su icone.
-- Il motore interattivo è un motore codificato.
 - Il Move Hub è dotato di connettività Bluetooth Low Energy (BLE), due motori codificati, pulsante di attivazione, sensore di inclinazione interno e una luce.
 - Costruisci e codifica robot e modelli, e completa fantastiche attività con il tappetino e l’intuitiva app LEGO® BOOST, disponibile per i tablet iOS 10.3 e Android 5.0 (verifica la compatibilità su LEGO.com/DeviceCheck )
 - Include oltre 840 pezzi LEGO®, più il LEGO Move Hub, un motore interattivo e un sensore di distanza e colori.
+- Il motore interattivo è un motore codificato.
 - Il sensore dei colori e della distanza rileva la distanza, il movimento e i colori e può anche funzionare come una luce.
+- Software intuitivo, facile da usare, con interfaccia di codifica drag-and-drop basata su icone.
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B06X6GN2VQ/?tag=tolees00-21)
