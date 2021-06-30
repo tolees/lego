@@ -28,10 +28,10 @@ You've got [LEGO 10932 DUPLO Town  Wrecking Ball Demolition Construction
 
 ℹ️:
 
-- Kids can swing the wrecking ball from side to side to demolish the small house, then clear the site with the bulldozer and the truck
-- Includes male and female construction worker figures, a bird figure, house construction "blueprint", shovel, road barrier and cone
-- This playset uses big bricks elements designed to be easy for small hands; an ideal LEGO starter set for preschool boys and girls
 - Construction site toy with vehicles and workers assists 2+ year old toddlers in developing emotional abilities and fine motor skills
+- Kids can swing the wrecking ball from side to side to demolish the small house, then clear the site with the bulldozer and the truck
 - Features an adjustable crane, dump truck, bulldozer with wheels, a small house and a selection of boulders
+- This playset uses big bricks elements designed to be easy for small hands; an ideal LEGO starter set for preschool boys and girls
+- Includes male and female construction worker figures, a bird figure, house construction "blueprint", shovel, road barrier and cone
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RWMYQ/?tag=tolees0a-21)
