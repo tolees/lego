@@ -28,10 +28,10 @@ With a final price of 241.32 EUR (original: 389.99 EUR) you can find [LEGO Star 
 
 ℹ️:
 
+- Der perfekte Mittelpunkt jeder LEGO Star Wars Sammlung
 - Dieses LEGO Star Wars Set ist ab dem Alter von 14 Jahren geeignet
 - Enthält den Gold Leader als Minifigur und den Droiden R2-BHD als zusätzliche Figur
 - Verfügt über authentische Details, ein aufklappbares Minifiguren-Cockpit, radbetätigte drehbare Ionenkanonen auf dem Dach, einfahrbare Landekufen und Platz für den im Set enthaltenen Astromech-Droiden R2-BHD
 - Präsentiere das Modell auf dem kippbaren Ständer mit Infoschild
-- Der perfekte Mittelpunkt jeder LEGO Star Wars Sammlung
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07BLGCXZZ/?tag=tolees0ca-21)
