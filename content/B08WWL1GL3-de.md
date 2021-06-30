@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.77 % for LEGO 76192 Marvel Super Heroes™'
-date: 2021-06-26 08:23:20
+date: 2021-06-30 08:56:57
 image: 'https://m.media-amazon.com/images/I/51y9mwunwCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
