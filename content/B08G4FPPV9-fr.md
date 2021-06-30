@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 35.02 % for LEGO 43102 VIDIYO Candy Mermaid Beatbox '
-date: 2021-06-04 06:14:34
+title: 'Discount of 30.02 % for LEGO 43102 VIDIYO Candy Mermaid Beatbox '
+date: 2021-06-30 13:56:14
 image: 'https://m.media-amazon.com/images/I/51e8TX8ITCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B08G4FPPV9-fr LEGO 43102 VIDIYO Candy Mermaid Beatbox Créateur de Clip...'
 sku: 'B08G4FPPV9-fr'
 tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','lego', ]
-actualPrice: 12.99 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 12.99
+price: 13.99
 comparePrice: 19.99 EUR
 prodname: 'LEGO 43102 VIDIYO Candy Mermaid Beatbox Créateur de Clip Vidéo Musique  Jouet Musical avec Sirène  Appli Set de Réalité Augmentée'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08G4FPPV9/?tag=tolees0d-21'
-descuento: '35.02'
-average: '12.99'
+descuento: '30.02'
+average: '13.09'
 ---
 
-You've got [LEGO 43102 VIDIYO Candy Mermaid Beatbox Créateur de Clip Vidéo Musique  Jouet Musical avec Sirène  Appli Set de Réalité Augmentée](https://www.amazon.fr/dp/B08G4FPPV9/?tag=tolees0d-21) with a  35.02 % discount, with final price of 12.99 EUR (original: 19.99 EUR) at the following link:
+You've got [LEGO 43102 VIDIYO Candy Mermaid Beatbox Créateur de Clip Vidéo Musique  Jouet Musical avec Sirène  Appli Set de Réalité Augmentée](https://www.amazon.fr/dp/B08G4FPPV9/?tag=tolees0d-21) with a  30.02 % discount, with final price of 13.99 EUR (original: 19.99 EUR) at the following link:
 
 [![LEGO 43102 VIDIYO Candy Mermaid Beatbox ](https://m.media-amazon.com/images/I/51e8TX8ITCL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08G4FPPV9/?tag=tolees0d-21)
 
 ℹ️:
 
-- Les éléments LEGO sont conformes aux normes les plus strictes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
-- Les sets LEGO VIDIYO offrent une nouvelle expérience de jeu social et permettent aux garçons et aux filles de devenir réalisateurs, producteurs et vedettes de leurs propres clips musicaux.
-- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux. Les enfants vont adorer voir leur personnage prendre vie dans leur clip vidéo.
-- Scannez les BeatBits dans l’appli pour débloquer des effets spéciaux tels que l’effet salle de spectacle avec des sons de cuivres.
-- Une expérience musicale amusante pour les garçons et les filles de 7 ans et plus qui méritent une surprise. Ce set constitue également un superbe cadeau de fêtes pour les enfants fans de musique, de danse et de spectacles.
-- L’application LEGO VIDIYO est compatible avec une sélection d’appareils iOS et Android. Vérifiez la compatibilité sur w..com/devicecheck. Les enfants doivent demander l’autorisation de leurs parents avant de se connecter.
 - La BeatBox mesure plus de 8 cm de haut, 7 cm de long et 10 cm de large.
-- Invitez les enfants à réaliser des clips vidéo dont ils sont les stars avec le set LEGO VIDIYO Candy Mermaid BeatBox (43102). Inclut une figurine sirène avec une guitare, 14 BeatBits aléatoires et 2 BeatBits spéciaux.
-- La BeatBox se ferme pour permettre aux enfants d’emporter leur monde musical en tournée partout avec eux. À l’intérieur, ils peuvent ranger la scène à scanner en briques, 16 BeatBits et la guitare de la sirène.
+- L’application LEGO VIDIYO est compatible avec une sélection d’appareils iOS et Android. Vérifiez la compatibilité sur w..com/devicecheck. Les enfants doivent demander l’autorisation de leurs parents avant de se connecter.
 - Les éléments LEGO sont soumis à des tests de chute, de chaleur, d’écrasement et de torsion, puis analysés afin de s’assurer qu’ils sont conformes aux normes de sécurité les plus élevées.
+- Une expérience musicale amusante pour les garçons et les filles de 7 ans et plus qui méritent une surprise. Ce set constitue également un superbe cadeau de fêtes pour les enfants fans de musique, de danse et de spectacles.
+- Invitez les enfants à réaliser des clips vidéo dont ils sont les stars avec le set LEGO VIDIYO Candy Mermaid BeatBox (43102). Inclut une figurine sirène avec une guitare, 14 BeatBits aléatoires et 2 BeatBits spéciaux.
+- Les sets LEGO VIDIYO offrent une nouvelle expérience de jeu social et permettent aux garçons et aux filles de devenir réalisateurs, producteurs et vedettes de leurs propres clips musicaux.
+- La BeatBox se ferme pour permettre aux enfants d’emporter leur monde musical en tournée partout avec eux. À l’intérieur, ils peuvent ranger la scène à scanner en briques, 16 BeatBits et la guitare de la sirène.
+- Scannez les BeatBits dans l’appli pour débloquer des effets spéciaux tels que l’effet salle de spectacle avec des sons de cuivres.
+- Téléchargez l’application gratuite LEGO VIDIYO pour scanner la figurine et les BeatBits d’effets spéciaux. Les enfants vont adorer voir leur personnage prendre vie dans leur clip vidéo.
+- Les éléments LEGO sont conformes aux normes les plus strictes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B08G4FPPV9/?tag=tolees0d-21)
