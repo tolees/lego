@@ -29,9 +29,9 @@ There's a deal [Lego Friends - LEGO 41394 Friends Heartlake City Hospital 
 ℹ️:
 
 - Includes toy ambulance with space for a patient and a stretcher in the back, a mini-doll wheelchair and medical accessories for play options
-- Also includes chocolate, balloon, and a banana. Whoops, Ethan just fell over it, he broke his leg and has to be taken by the ambulance!
-- Includes Emma, Ethan and Dr Maria mini-dolls, plus a buildable X-ray scanner, microscope, bandages, stethoscope, syringe and thermometer
 - With this playset, kids will role-play as a doctor, patient and visitor Emma, and recreate real-life scenarios while developing empathy
 - Features 3 floors open access building with 3 play sections: a reception, examination room, hospital room with a bed, and a rooftop garden
+- Also includes chocolate, balloon, and a banana. Whoops, Ethan just fell over it, he broke his leg and has to be taken by the ambulance!
+- Includes Emma, Ethan and Dr Maria mini-dolls, plus a buildable X-ray scanner, microscope, bandages, stethoscope, syringe and thermometer
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W8XYTQ8/?tag=tolees0a-21)

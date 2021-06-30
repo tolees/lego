@@ -28,10 +28,10 @@ With a final price of 14.99 EUR (original: 19.99 EUR) you can find [LEGO Hidden 
 
 ℹ️:
 
-- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
-- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält 3 Minifiguren: Jack Davids, J.B. und Douglas Elton sowie Jacks Geisterhund Spencer für das actionreiche Rollenspiel-Abenteuer
-- Das Spielset „J.B.’s Geisterlabor“ umfasst ein cooles Labor, das von einem verrückten Wissenschaftler inspiriert wurde, mit einer „Tesla-betriebenen“ Kammer, um die Geister loszuwerden.
-- Lade die LEGO Hidden Side App herunter und richte dein Smartphone auf J.B.s Geisterlabor, um das LEGO Modell zum Leben zu erwecken und die Tür zur Hidden Side zu öffnen.
 - LEGO Hidden Side spielt in der fiktiven Stadt Newbury, in der Menschen und Häuser von Geistern besessen sind. Kinder können mit dem Spielset aufregende Geisterjagd-Abenteuer erleben.
+- Das Spielset „J.B.’s Geisterlabor“ umfasst ein cooles Labor, das von einem verrückten Wissenschaftler inspiriert wurde, mit einer „Tesla-betriebenen“ Kammer, um die Geister loszuwerden.
+- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält 3 Minifiguren: Jack Davids, J.B. und Douglas Elton sowie Jacks Geisterhund Spencer für das actionreiche Rollenspiel-Abenteuer
+- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
+- Lade die LEGO Hidden Side App herunter und richte dein Smartphone auf J.B.s Geisterlabor, um das LEGO Modell zum Leben zu erwecken und die Tür zur Hidden Side zu öffnen.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CGGP/?tag=tolees0ca-21)
