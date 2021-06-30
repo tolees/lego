@@ -28,12 +28,12 @@ With a final price of 14.9 EUR (original: 19.99 EUR) you can find [LEGO VIDIYO H
 
 ℹ️:
 
-- Le tessere BeatBits posizionate sul palco sbloccano effetti speciali nell’app, per creare video musicali unici e sempre nuovi
-- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
-- Con oltre 90 BeatBits e 12 personaggi da collezionare, tutti ispirati a diversi generi musicali, i bambini potranno creare una collezione da condividere con gli amici
-- Scarica e usa l’app per dare vita al robot in un fantastico video musicale hip-hop da condividere online e rendi le minifigure dorate con un filtro speciale
 - Scopri tanti altri effetti speciali, sfide e personalizzazioni, seleziona e condividi online con gli amici in un feed social sicuro e adatto ai bambini
-- Questo giocattolo musicale include la minifigure di un robot, un microfono, 14 BeatBits casuali, 2 BeatBits speciali e un palco che consente di creare video musicali interattivi
+- Con oltre 90 BeatBits e 12 personaggi da collezionare, tutti ispirati a diversi generi musicali, i bambini potranno creare una collezione da condividere con gli amici
+- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
 - Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito prima dellacquisto: cerca "LEGO VIDIYO" su App Store o Google Play
+- Scarica e usa l’app per dare vita al robot in un fantastico video musicale hip-hop da condividere online e rendi le minifigure dorate con un filtro speciale
+- Questo giocattolo musicale include la minifigure di un robot, un microfono, 14 BeatBits casuali, 2 BeatBits speciali e un palco che consente di creare video musicali interattivi
+- Le tessere BeatBits posizionate sul palco sbloccano effetti speciali nell’app, per creare video musicali unici e sempre nuovi
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B08G4FRM1T/?tag=tolees00-21)
