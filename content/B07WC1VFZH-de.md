@@ -28,12 +28,12 @@ There's a deal [Lego Minecraft - Lego 21159 Minecraft Der Plünderer-Außenposte
 
 ℹ️:
 
-- Keine Batterien erforderlich. Die Fantasie der Kinder reicht diesem Spielzeug als Antrieb, um den Spielspaß nie enden zu lassen! Dieses Set ermöglicht aktiven, echten Spielspaß, der die Geschicklichkeit, den Einfallsreichtum und die Problemlösefähigkeit der Kinder fördert.
-- Das Modell ist 33 cm lang, 20 cm hoch und 18 cm breit und lässt sich in 3 separate Module unterteilen und anders zusammenstellen, damit sich die Kinder neue Geschichten einfallen lassen und in immer neue Abenteuer stürzen können!
-- Dieses vielseitige Minecraft Set für Mädchen und Jungen ab 7 Jahren eignet sich als Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen! Ein tolles Set für Fans der LEGO Steine sowie für Minecraft Spieler, die ihr Lieblingsspiel mal ganz anders erleben möchten.
-- Dank der einfachen Bauanleitung können die Kinder sofort bauen und spielen! Und sollte die Bauanleitung verloren gehen, lässt sie sich einfach auf LEGO.com/de-de/service/buildinginstructions herunterladen.
 - Die Kinder sprengen den Minecraft Käfig mit TNT auf, um den Eisengolem zu retten. Dann verscheuchen sie die lästigen Plünderer! Und wenn das Kräftemessen dann vorbei ist, lässt sich das 3-teilige Set für neue Abenteuer umbauen.
+- Dank der einfachen Bauanleitung können die Kinder sofort bauen und spielen! Und sollte die Bauanleitung verloren gehen, lässt sie sich einfach auf LEGO.com/de-de/service/buildinginstructions herunterladen.
 - Das 3-teilige LEGO Minecraft Set enthält beliebte Charaktere aus dem Computerspiel – Plünderer und einen Eisengolem – sowie ein Modell zum Umgestalten,für abenteuerliche Rettungsaktionen.
+- Dieses vielseitige Minecraft Set für Mädchen und Jungen ab 7 Jahren eignet sich als Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen! Ein tolles Set für Fans der LEGO Steine sowie für Minecraft Spieler, die ihr Lieblingsspiel mal ganz anders erleben möchten.
 - Kinder werden die mit Armbrüsten ausgerüsteten LEGO Minecraft Plünderer lieben – neu ab Januar 2020. Darüber hinaus gibt es eine coole TNT-Explosionsfunktion, ein voll ausgestattetes Zelt sowie eine Trainingsanlage mit Zielattrappen für Armbrustschützen.
+- Das Modell ist 33 cm lang, 20 cm hoch und 18 cm breit und lässt sich in 3 separate Module unterteilen und anders zusammenstellen, damit sich die Kinder neue Geschichten einfallen lassen und in immer neue Abenteuer stürzen können!
+- Keine Batterien erforderlich. Die Fantasie der Kinder reicht diesem Spielzeug als Antrieb, um den Spielspaß nie enden zu lassen! Dieses Set ermöglicht aktiven, echten Spielspaß, der die Geschicklichkeit, den Einfallsreichtum und die Problemlösefähigkeit der Kinder fördert.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07WC1VFZH/?tag=tolees0ca-21)

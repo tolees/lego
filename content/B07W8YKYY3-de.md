@@ -28,11 +28,11 @@ You've got [Lego Minecraft - Lego 75270 Star Wars Obi-WANS Hütte](https://www.a
 
 ℹ️:
 
+- Obi-Wans Hütte
+- Anzahl der Teile: 200
 - Vom Hersteller nicht mehr verkauft
 - Prinzessin Leia als Hologramm-Element eröffnet weitere faszinierende Spieloptionen.
-- Obi-Wans Hütte
 - Enthält 4 Minifiguren und 2 Star Wars Lichtschwerter für actionreiche Rollenspiele.
-- Anzahl der Teile: 200
 - Vom Hersteller empfohlenes Alter: 7+
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W8YKYY3/?tag=tolees0ca-21)
