@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO El Señor De Los Anillos: Frodo Bagg at 37.24 % discount'
-date: 2021-06-13 09:39:43
+date: 2021-07-01 13:27:37
 image: 'https://m.media-amazon.com/images/I/61KFQ2hRp6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
