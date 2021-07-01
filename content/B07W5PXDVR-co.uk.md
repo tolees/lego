@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 27.79 % for Lego Friends - LEGO 41391 Friends Heartl'
-date: 2021-06-09 07:31:17
-image: 'https://m.media-amazon.com/images/I/51Zsf05sRIL._SL500_._SL400_.jpg'
+date: 2021-07-01 07:21:38
+image: 'https://m.media-amazon.com/images/I/51xfuuJVwJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'Lego Friends'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21'
 descuento: '27.79'
-average: '14.4193333333334'
+average: '14.3732258064517'
 ---
 
 You've got [Lego Friends - LEGO 41391 Friends Heartlake City Hair Salon Playset with Emma Mini Doll  Wigs and Hair Accessories  for 6+ Year Old](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21) with a  27.79 % discount, with final price of 12.99 GBP (original: 17.99 GBP) at the following link:
 
-[![Lego Friends - LEGO 41391 Friends Heartl](https://m.media-amazon.com/images/I/51Zsf05sRIL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21)
+[![Lego Friends - LEGO 41391 Friends Heartl](https://m.media-amazon.com/images/I/51xfuuJVwJS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21)
 
 ℹ️:
 
 - Includes 2 mini-dolls, Emma and the stylist Nina, with detachable heads, the movable upper body part to sit in the chair, and different wigs
 - This hair salon playset accessories also include a coffee machine and a broom, even a hairstyle catalogue, just like a real salon.
+- The toy hairdressers feature 2 chairs, one with a hairdryer, a hair-washing sink, cash desk and a separate stand for hairdressers pieces
 - Wonderfully detailed stations allow kids to see the mini-doll figures progress through the pretend hair salon with an open back access
 - Includes accessories stand, scissors, brush, tiara, bow, hand hairdryer, shampoo bottle and hairspray, plus coffee and cookies to serve
-- The toy hairdressers feature 2 chairs, one with a hairdryer, a hair-washing sink, cash desk and a separate stand for hairdressers pieces
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21)
