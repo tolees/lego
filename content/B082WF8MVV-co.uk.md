@@ -28,10 +28,10 @@ You've got [LEGO 71369 Super Mario Bowser’s Castle Boss Battle Expansi
 
 ℹ️:
 
+- For more entertainment download the free LEGO app with digital building instructions, zooming tools, inspiring play ideas and more
+- Defeat enemies in flipping, shaking or balancing challenges with this expansion to the LEGO Super Mario Starter Course set (sold separately)
 - Challenges includes getting to the Time Block and ? Block, and shaking the bridge until Mario falls over - fun for solo or group play!
 - Kids will love battling the final boss Bowser, stomping on the flippers with LEGO Mario figure (not included) to raise Bowser’s arms
-- Defeat enemies in flipping, shaking or balancing challenges with this expansion to the LEGO Super Mario Starter Course set (sold separately)
-- For more entertainment download the free LEGO app with digital building instructions, zooming tools, inspiring play ideas and more
 - Features Bowser, Dry Bones, Boo and Lava Bubble figures, castle towers with rotating and shaking platforms, a ? Block, Time Block and more
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B082WF8MVV/?tag=tolees0a-21)
