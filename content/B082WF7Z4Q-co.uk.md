@@ -29,9 +29,9 @@ You've got [LEGO 71362 Super Mario Guarded Fortress Expansion Set Builda
 ℹ️:
 
 - The modular Starter Course and Expansion Sets, plus Power-Up Packs, allow fans to build their own levels for unlimited creative game fun
-- The free LEGO app has digital building instructions, cool viewing tools, inspiration for creative play and more - visit LEGO.com/devicecheck
-- Features a buildable fortress with a catapult, brick-built water and lava routes, and a POW Block, for solo building fun or group games
 - To reach the fortress and win digital coins, Mario figure may need to use the catapult, leap over brick-built lava or cross stepping stones
 - Includes Bob-omb, Koopa Troopa and Piranha Plant toy figures for LEGO Mario to defeat (LEGO Starter Course set Mario figure is not included)
+- The free LEGO app has digital building instructions, cool viewing tools, inspiration for creative play and more - visit LEGO.com/devicecheck
+- Features a buildable fortress with a catapult, brick-built water and lava routes, and a POW Block, for solo building fun or group games
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B082WF7Z4Q/?tag=tolees0a-21)
