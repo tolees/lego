@@ -28,10 +28,10 @@ With a final price of 21.97 EUR (original: 29.99 EUR) you can find [LEGO 76167 S
 
 ℹ️:
 
-- Ein facettenreiches Superhelden-Spielset, mit dem Kinder Iron Mans Abenteuer selbst nachspielen können
-- Ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren
-- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
-- Enthält Tony Stark als Minifigur, 2 Iron Man-Rüstungen und einen megastarken Hot Rod
 - Inspiriert zu spannenden Superheldenabenteuern und bereichert als spektakuläres Schaustück jedes Kinderzimmer
+- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
+- Ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren
+- Ein facettenreiches Superhelden-Spielset, mit dem Kinder Iron Mans Abenteuer selbst nachspielen können
+- Enthält Tony Stark als Minifigur, 2 Iron Man-Rüstungen und einen megastarken Hot Rod
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B082WCXJTQ/?tag=tolees0ca-21)
