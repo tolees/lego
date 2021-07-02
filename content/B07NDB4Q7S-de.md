@@ -29,8 +29,8 @@ You've got [LEGO STAR WARS - Lego 75257 Star Wars Millennium Falcon Raumschiff B
 ℹ️:
 
 - Dieses coole, detailverliebte LEGO Bauspielzeug für Jungen und Mädchen ab 9 Jahren ist mit seinen 1.351 Teilen 14 cm hoch, 44 cm lang und 32 cm breit
-- 7 Charaktere von LEGO Star Wars warten darauf, epische Abenteuer zu erleben: Minifiguren von Finn, Chewbacca, Lando Calrissian, C-3PO und Boolio sowie LEGO Figuren der Fanlieblinge D-O und R2-D2
 - Der Millennium Falcon beeindruckt Fans jeden Alters, unter anderem mit drehbaren Geschütztürmen an der Ober- und Unterseite, 2 Shootern mit Federmechanismus und einem aufklappbaren Cockpit
+- 7 Charaktere von LEGO Star Wars warten darauf, epische Abenteuer zu erleben: Minifiguren von Finn, Chewbacca, Lando Calrissian, C-3PO und Boolio sowie LEGO Figuren der Fanlieblinge D-O und R2-D2
 - Dieses Modell des corellianischen Frachters aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers ist zudem mit abnehmbaren Dachelementen ausgestattet, die den Zugang zum Inneren erleichtern
 - Der Millennium Falcon ist eine wahre Ikone aus dem Universum von LEGO Star Wars und die ideale Inspirationsquelle für Fans
 
