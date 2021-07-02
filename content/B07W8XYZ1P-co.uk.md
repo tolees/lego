@@ -28,10 +28,10 @@ With a final price of 12.98 GBP (original: 17.99 GBP) you can find [City Fire LE
 
 ℹ️:
 
-- Features ripcord helicopter that really flies, fire ATV quad bike and a pipe with flames to put down by brave firefighters
-- Accessories include fire flames, oil drums, an axe, welding mask and equipment, plus fire extinguisher for many role-playing scenarios
-- This firefighter building set requires basic building skills to encourage first time young builders, while adding features to other LEGO sets
 - Kids will pull the ripcord to launch the new-for-January-2020 surveillance ripcord helicopter into the air and race to the rescue in the ATV quad
 - Includes 3 minifigures: an ace firefighter pilot, accident-prone worker and City TV fire chief Freya McCloud
+- This firefighter building set requires basic building skills to encourage first time young builders, while adding features to other LEGO sets
+- Features ripcord helicopter that really flies, fire ATV quad bike and a pipe with flames to put down by brave firefighters
+- Accessories include fire flames, oil drums, an axe, welding mask and equipment, plus fire extinguisher for many role-playing scenarios
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W8XYZ1P/?tag=tolees0a-21)

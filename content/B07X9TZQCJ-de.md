@@ -28,8 +28,8 @@ With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO Minions
 
 ℹ️:
 
-- Dank der einfach verständlichen digitalen Anleitung Instructions PLUS, die in der kostenlosen LEGO Life App verfügbar ist, ist es ein Spielzeug für Kinder ab 6 Jahren
 - Die Kinder können Gru helfen, den Tierkreisstein vor den Bösewichten zu schützen, aber sie müssen schnell sein, um die Bösewichte zu überlisten
+- Dank der einfach verständlichen digitalen Anleitung Instructions PLUS, die in der kostenlosen LEGO Life App verfügbar ist, ist es ein Spielzeug für Kinder ab 6 Jahren
 - Enthalten ist ein detailliertes, fantasievolles Monster-Motorrad und Raketen-Skates für die Minions, für alle Fans von Minions und schnellen Fahrzeugen
 - Mit dabei sind 3 Figuren: die Minion Figuren von Stuart und Bob und die exklusive LEGO Minifigur von Gru, die nur in diesem Set erhältlich ist
 - Mit dem Minions Spielzeug können Kinder Szenen aus den Filmen nachstellen oder aber auch ganz nach ihren eigenen Vorstellungen ein Abenteuer zusammenstellen
