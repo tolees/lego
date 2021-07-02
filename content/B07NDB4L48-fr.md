@@ -28,15 +28,15 @@ There's a deal [LEGO 21153 Minecraft La Ferme à Laine  Set de Construction a
 
 ℹ️:
 
-- Les accessoires incluent des cisailles à mouton.
-- Le modèle comprend une ferme Minecraft avec un bouleau, une clôture, un ruisseau, des pierres pour le traverser, des cultures, des fleurs, 2 moutons Minecraft teints et un agneau, ainsi que des briques LEGO colorées pour construire lune des 3 structures amusantes qui décoreront la ferme.
-- Cisailles en main, en route pour la ferme à laine !
-- Inclut une figurine de Steve, des moutons rouge et jaune et un agneau (nouveautés daoût 2019).
-- Limagination ne connaît pas de limites : cet ensemble peut être transformé pour encore plus de créations LEGO Minecraft !
-- Une conception modulaire facile à reconfigurer pour des modèles faciles et rapides à reconstruire.
-- Les enfants peuvent construire lune des 3 structures ou leurs propres créations pour ajouter une touche personnelle à la ferme.
 - La ferme mesure plus de 12 cm de haut, 19 cm de large et 14 cm de profondeur.
-- Cet ensemble de jeu LEGO Minecraft inclut plus de 250 pièces.
+- Limagination ne connaît pas de limites : cet ensemble peut être transformé pour encore plus de créations LEGO Minecraft !
 - Ce jouet Minecraft comprend également des briques LEGO supplémentaires pour des constructions créatives.
+- Cet ensemble de jeu LEGO Minecraft inclut plus de 250 pièces.
+- Inclut une figurine de Steve, des moutons rouge et jaune et un agneau (nouveautés daoût 2019).
+- Cisailles en main, en route pour la ferme à laine !
+- Une conception modulaire facile à reconfigurer pour des modèles faciles et rapides à reconstruire.
+- Le modèle comprend une ferme Minecraft avec un bouleau, une clôture, un ruisseau, des pierres pour le traverser, des cultures, des fleurs, 2 moutons Minecraft teints et un agneau, ainsi que des briques LEGO colorées pour construire lune des 3 structures amusantes qui décoreront la ferme.
+- Les enfants peuvent construire lune des 3 structures ou leurs propres créations pour ajouter une touche personnelle à la ferme.
+- Les accessoires incluent des cisailles à mouton.
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07NDB4L48/?tag=tolees0d-21)
