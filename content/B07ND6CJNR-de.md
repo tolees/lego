@@ -28,10 +28,10 @@ With a final price of 59.89 EUR (original: 79.99 EUR) you can find [Lego Minecra
 
 ℹ️:
 
-- Das Bauset von LEGO Minecraft enthält 3x Minifiguren: Steve, einen Minecraft-Schmied und einen Wüstenzombie – sowie Creeper-, Kuh- und Fledermausfiguren
-- 834 Teile – Für Mädchen und Jungen ab 8 Jahren, für Fans und für große Kinder jedes Alters
-- Die Mine ist 22 cm hoch, 38 cm breit und 22 cm tief
-- Dieses Set beinhaltet die berühmte Crepper-Statue, Schienen mit einer Lore, einen Unterschlupf mit Bett, Amboss, Ofen, Truhe und 3x Explosionsfunktionen
 - Für noch mehr kreativen Bauspaß kann das LEGO Minecraft Set Die Creeper Mine (21155) zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
+- Die Mine ist 22 cm hoch, 38 cm breit und 22 cm tief
+- 834 Teile – Für Mädchen und Jungen ab 8 Jahren, für Fans und für große Kinder jedes Alters
+- Dieses Set beinhaltet die berühmte Crepper-Statue, Schienen mit einer Lore, einen Unterschlupf mit Bett, Amboss, Ofen, Truhe und 3x Explosionsfunktionen
+- Das Bauset von LEGO Minecraft enthält 3x Minifiguren: Steve, einen Minecraft-Schmied und einen Wüstenzombie – sowie Creeper-, Kuh- und Fledermausfiguren
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CJNR/?tag=tolees0ca-21)
