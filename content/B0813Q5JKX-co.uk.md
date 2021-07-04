@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.72 % deal for LEGO 75288 Star Wars  AT-AT Walker Toy 4'
-date: 2021-07-02 23:53:03
+date: 2021-07-04 00:04:35
 image: 'https://m.media-amazon.com/images/I/51nUY+23gBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21'
 descuento: '20.72'
-average: '131.232422062349'
+average: '131.183971291865'
 ---
 
 There's a deal [LEGO 75288 Star Wars  AT-AT Walker Toy 40th Anniversary Set](https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21)  with  20.72 % discount, final price tag of  110.98 GBP (original: 139.99 GBP) here:
