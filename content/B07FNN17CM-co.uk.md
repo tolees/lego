@@ -30,8 +30,8 @@ You've got [LEGO 60215 City Fire Station Garage Building Set with Truck
 
 - Spin the rotors to launch thedrone and rotate the camera to search for fires.
 - This set can be built together with all other LEGO building toy sets for creative building
-- Press the light and sound brick on the off-road vehicle to clear the way as you speed to the fire.
 - Load a water element into the fire hose and extinguisher and push the levers to shoot them at the fire and ‘put’ them out.
 - Feature-packed 3-level Fire Station with scout tower and separate garage, a fire off-road vehicle with fire hose and light and sound brick, plus a drone and a water scooter!
+- Press the light and sound brick on the off-road vehicle to clear the way as you speed to the fire.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNN17CM/?tag=tolees0a-21)
