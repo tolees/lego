@@ -28,12 +28,12 @@ There's a deal [LEGO 42108 Technic Kran-LKW Baufahrzeug  Spielzeug ab 10 Jahren]
 
 ℹ️:
 
-- Dieses actionreiche LEGO Set für Fans von Baumaschinen zeigt, wie ein echter Mobilkran funktioniert. Lenke den LKW, fahr die Stützfüße und dann den Ausleger aus und heb den Betonpfeiler an.
 - Viel Spaß beim Bauen dieses anspruchsvollen Modells. Entdecke wozu die verschiedenen Funktionen dienen. Benutze den Pfeiler, um den Kran auf Herz und Nieren zu prüfen, bevor du mit dem Mobilkran zum nächsten Einsatz fährst.
-- Besonders auffällig ist die Größe dieses LEGO Krans. Der Teleskopausleger lässt sich auf stolze 78 cm ausfahren, das ist ganz schön hoch. Die eindrucksvollen Abmessungen (48 cm lang, 11 cm breit) machen den Kran zu einem fantastischen Schaustück.
-- Dieses coole Bauspielzeug vermittelt sehr viel Wissenswertes über Technik und Bewegung. Die 8-Rad-Lenkung, 4 einzeln gesteuerte Stützfüße, 2 Kabinen und ein superhoher Teleskopausleger machen diesen Mobilkran zu einem megastarken Modell.
 - Für diesen Spielzeug-Mobilkran werden keine Batterien benötigt. Für den Anfang reichen Neugier und die Freude am bauen!
+- Dieses actionreiche LEGO Set für Fans von Baumaschinen zeigt, wie ein echter Mobilkran funktioniert. Lenke den LKW, fahr die Stützfüße und dann den Ausleger aus und heb den Betonpfeiler an.
 - Juckt es dich schon in den Fingern? Dann nichts wie los! Dank der beiliegenden einfachen Bauanleitung kann der Bauspaß sofort beginnen.
+- Dieses coole Bauspielzeug vermittelt sehr viel Wissenswertes über Technik und Bewegung. Die 8-Rad-Lenkung, 4 einzeln gesteuerte Stützfüße, 2 Kabinen und ein superhoher Teleskopausleger machen diesen Mobilkran zu einem megastarken Modell.
 - Kranfans ab 10 Jahren werden das LEGO Technic Set (42108) lieben. Ein tolles Geschenk für alle, die LEGO Technic Modelle lieben und sich einer neuen Bauherausforderung stellen möchten.
+- Besonders auffällig ist die Größe dieses LEGO Krans. Der Teleskopausleger lässt sich auf stolze 78 cm ausfahren, das ist ganz schön hoch. Die eindrucksvollen Abmessungen (48 cm lang, 11 cm breit) machen den Kran zu einem fantastischen Schaustück.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)
