@@ -28,10 +28,10 @@ With a final price of 63.99 USD (original: 79.99 USD) you can find [LEGO Creator
 
 ℹ️:
 
+- Kids can build and rebuild 3 fun toys with this LEGO Creator 3in1 set. Build your own Townhouse Pet Shop and Café and then rebuild it to create a multi-story Bank or Market Street with tram!
+- Packed with details for imaginative play, including a café with upper-level
 - The 3in1 Townhouse Pet Shop and Café model measures over 9 inches (25cm) high, 7 inches (20cm) wide and 8 inches (22cm) deep
 - With 3 alternative builds, 3 minifigures and dog, toucan and mouse figures, this 969-piece LEGO Creator 3in1 set will keep boys and girls over 9 years old, and fans and big kids of all ages, entertained for hours
 - This LEGO Creator 3in1 Townhouse Pet Shop and Café 31097 creative toy is a perfect gift for kids who love to build and role-play, It can be built together with all other original LEGO sets and LEGO bricks for more creative fun
-- Kids can build and rebuild 3 fun toys with this LEGO Creator 3in1 set. Build your own Townhouse Pet Shop and Café and then rebuild it to create a multi-story Bank or Market Street with tram!
-- Packed with details for imaginative play, including a café with upper-level
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07QQ39VMY/?tag=tolees-20)
