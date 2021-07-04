@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.29 % for LEGO 60287 City Great Vehicles Tractor T'
-date: 2021-07-03 07:26:37
+date: 2021-07-04 07:44:34
 image: 'https://m.media-amazon.com/images/I/51VMvP2TmRS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21'
 descuento: '33.29'
-average: '12.9389999999999'
+average: '12.844193548387'
 ---
 
 You've got [LEGO 60287 City Great Vehicles Tractor Toy  Farm Set with Rabbit Figure for 5 Years Old Boys and Girls](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21) with a  33.29 % discount, with final price of 10.0 GBP (original: 14.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 60287 City Great Vehicles Tractor Toy  Farm Set with 
 
 ℹ️:
 
-- Features a cool toy tractor with huge rear tyres, a tipping loader bucket, raisable boom and a minifigure cab to accommodate a minifigure
-- Kids can load hay bales and crate with a pumpkin, apple and carrots into the tractor bucket, then raise the boom to lift them into the air
-- Includes LEGO farmer and daughter minifigures, a rabbit figure, plus 2 hay bales, and a crate of veggie elements for fun farming action
-- The red tractors tyres will face no problems driving the crop to the farmer and his daugter, where hungry rabbits await!
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- Features a cool toy tractor with huge rear tyres, a tipping loader bucket, raisable boom and a minifigure cab to accommodate a minifigure
+- Includes LEGO farmer and daughter minifigures, a rabbit figure, plus 2 hay bales, and a crate of veggie elements for fun farming action
+- Kids can load hay bales and crate with a pumpkin, apple and carrots into the tractor bucket, then raise the boom to lift them into the air
+- The red tractors tyres will face no problems driving the crop to the farmer and his daugter, where hungry rabbits await!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21)
