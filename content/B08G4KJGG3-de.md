@@ -28,13 +28,13 @@ You've got [LEGO 10280 Creator Expert Blumenstrauß  künstliche Blumen  Botanik
 
 ℹ️:
 
-- Die anpassbaren Elemente lassen Ihre Fantasie aufblühen. Positionieren Sie die Blüten und Blätter und verändern Sie die Länge der Stängel, um wunderbare Arrangements zu erschaffen
-- Das LEGO Bauset „Blumenstrauß“ (10280) ist ein besonderes Geschenk und ein anspruchsvolles Bauprojekt, um aus LEGO Steinen einen faszinierenden Blumenschmuck entstehen zu lassen. Hinweis: Es ist keine Vase enthalten
-- Die Blumen aus 17 ungewöhnlichen LEGO Elementen mit realistischen Blütenformen und -farben lassen ein ebenso überraschendes wie sehenswertes Schaustück entstehen
-- Der LEGO Blumenstrauß gehört zur LEGO Botanik Kollektion. Für diese wegweisende Produktreihe werden einige Elemente aus Biokunststoff verwendet, der aus nachhaltig angebautem Zuckerrohr gewonnen wird
-- Die Stängel sind in unterschiedlichen Längen enthalten. Das Löwenmäulchen ist beispielsweise mit seinem geraden Stängel 36 cm hoch
-- Soll es das bestmögliche Geschenk für einen Geburtstag, zu einem Jubiläum oder einem anderen besonderen Anlass sein? Der LEGO Blumenstrauß ist ein außergewöhnliches Geschenk für Freunde, die Lieben oder Sie selbst – und zwar zu jeder Jahreszeit
 - Als allererster LEGO Blumenstrauß enthält dieses Set jede Menge neue Farben und Formen, die erwachsene LEGO Fans lieben werden
+- Soll es das bestmögliche Geschenk für einen Geburtstag, zu einem Jubiläum oder einem anderen besonderen Anlass sein? Der LEGO Blumenstrauß ist ein außergewöhnliches Geschenk für Freunde, die Lieben oder Sie selbst – und zwar zu jeder Jahreszeit
+- Das LEGO Bauset „Blumenstrauß“ (10280) ist ein besonderes Geschenk und ein anspruchsvolles Bauprojekt, um aus LEGO Steinen einen faszinierenden Blumenschmuck entstehen zu lassen. Hinweis: Es ist keine Vase enthalten
+- Der LEGO Blumenstrauß gehört zur LEGO Botanik Kollektion. Für diese wegweisende Produktreihe werden einige Elemente aus Biokunststoff verwendet, der aus nachhaltig angebautem Zuckerrohr gewonnen wird
+- Die Blumen aus 17 ungewöhnlichen LEGO Elementen mit realistischen Blütenformen und -farben lassen ein ebenso überraschendes wie sehenswertes Schaustück entstehen
+- Die anpassbaren Elemente lassen Ihre Fantasie aufblühen. Positionieren Sie die Blüten und Blätter und verändern Sie die Länge der Stängel, um wunderbare Arrangements zu erschaffen
 - Dieser Blumenstrauß begeistert mit lebendigen Farben und interessanten Formen nach dem Vorbild echter Blumen wie Rosen, Löwenmäulchen, Mohnblumen, Astern, Gänseblümchen und Gräsern
+- Die Stängel sind in unterschiedlichen Längen enthalten. Das Löwenmäulchen ist beispielsweise mit seinem geraden Stängel 36 cm hoch
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4KJGG3/?tag=tolees0ca-21)
