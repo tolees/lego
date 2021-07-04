@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Creator Expert - Stadtleben  1025 at 27.99 % discount'
-date: 2021-07-03 17:50:41
+date: 2021-07-04 17:52:06
 image: 'https://m.media-amazon.com/images/I/51uvJMQ7+CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B01N5LSM4U/?tag=tolees0a-21'
 descuento: '27.99'
-average: '236.418530805688'
+average: '236.285130023641'
 ---
 
 With a final price of 179.99 GBP (original: 249.95 GBP) you can find [LEGO - Creator Expert - Stadtleben  10255 ](https://www.amazon.co.uk/dp/B01N5LSM4U/?tag=tolees0a-21) with a  27.99 % discount here:
