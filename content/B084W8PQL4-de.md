@@ -28,10 +28,10 @@ You've got [LEGO 43187 Disney Princess Rapunzels Turm Set mit 2 Mini Puppen aus 
 
 ℹ️:
 
-- Das LEGO-Disney-Set enthält Mini Puppen von Rapunzel und Flynn Rider sowie Pascal das Chamäleon als LEGO-Disney-Figur zum Spielen in einer typischen Disney-Umgebung
 - Enthält einen detailreichen Turm mit 4 Etagen und 4 Räumen, 2 kleinere Modelle, Charaktere aus dem Film „Rapunzel – Neu verföhnt“ und anderes Zubehör für kreatives Spielen
 - Die zwei kleineren Modelle sind zum einen eine Schaukel aus Rapunzels Haar und zum anderen die Taverne „Zum Quietscheentchen“ mit Hocker und Klavier
 - Fans von Disneys Rapunzel können sie mit Pascal im Turm besuchen und sich dann mit Rapunzel in ihrem Hobbyraum kreativ austoben
+- Das LEGO-Disney-Set enthält Mini Puppen von Rapunzel und Flynn Rider sowie Pascal das Chamäleon als LEGO-Disney-Figur zum Spielen in einer typischen Disney-Umgebung
 - Im Turm kannst du 4 verschiedene Räume entdecken: einen Hobbyraum, ein Schlafzimmer, ein gemütliches Wohnzimmer und eine Höhle mit Geheimtür
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B084W8PQL4/?tag=tolees0ca-21)
