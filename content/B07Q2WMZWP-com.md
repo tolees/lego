@@ -28,10 +28,10 @@ You've got [LEGO Disney Frozen II Arendelle Castle Village 41167 Toy Castle Buil
 
 ℹ️:
 
-- Kids can bring to life Their favorite movie adventures with Anna and Elsa mini dolls plus an Kristoff figure. The frozen castle features a throne room, bedroom, Village market stalls and a toy row boat to create endless storylines.
 - The building bricks in the LEGO Disney Frozen II Arendelles castle Village build and play set fit together with all other original LEGO sets and LEGO bricks for creative play.
-- Kids will love building this 3-story Disney castle to play out magical moments from Disneys Frozen II. Theyll get lost in pretend play as they mix and match the different floors and toy furniture for endless Frozen fun!
-- This 521-piece model castle measures over 11-inch (30cm) high, 11-inch (30cm) wide and 4-inch (12cm) deep for hours of creative play as Frozen fans build alongside their favorite Disney heroes.
+- Kids can bring to life Their favorite movie adventures with Anna and Elsa mini dolls plus an Kristoff figure. The frozen castle features a throne room, bedroom, Village market stalls and a toy row boat to create endless storylines.
 - This LEGO Frozen set is an ideal toy building kit for boys and girls aged 5+. kids can build and rebuild the 3 stories of this Frozen castle Playset for both independent play and group play.
+- This 521-piece model castle measures over 11-inch (30cm) high, 11-inch (30cm) wide and 4-inch (12cm) deep for hours of creative play as Frozen fans build alongside their favorite Disney heroes.
+- Kids will love building this 3-story Disney castle to play out magical moments from Disneys Frozen II. Theyll get lost in pretend play as they mix and match the different floors and toy furniture for endless Frozen fun!
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07Q2WMZWP/?tag=tolees-20)
