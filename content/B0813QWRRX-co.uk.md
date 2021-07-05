@@ -28,10 +28,10 @@ You've got [LEGO 10924 DUPLO Cars Lightning McQueen s Race Day Disney P
 
 ℹ️:
 
-- After the race, the 2-in-1 Mater tow set can be built into a car-repair workshop with a gas pump, for little drivers to become mechanics
-- Kids can drive Lightning McQueen to a Piston Cup victory, tow him with Mater’s truck hook, or do repairs in the toy workshop
-- Includes a gasoline can, gas pump, wrench and a turntable to display cars, plus a green flag that Mum can hold to start the race!
-- The big bricks are designed to be easy for small hands to develop fine motor skills as kids role-play endless imaginative stories
 - Features Lightning McQueen and Mater race cars from Cars, the familiar racetrack and repair workshop settings, and Piston Cup podium
+- Includes a gasoline can, gas pump, wrench and a turntable to display cars, plus a green flag that Mum can hold to start the race!
+- After the race, the 2-in-1 Mater tow set can be built into a car-repair workshop with a gas pump, for little drivers to become mechanics
+- The big bricks are designed to be easy for small hands to develop fine motor skills as kids role-play endless imaginative stories
+- Kids can drive Lightning McQueen to a Piston Cup victory, tow him with Mater’s truck hook, or do repairs in the toy workshop
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QWRRX/?tag=tolees0a-21)

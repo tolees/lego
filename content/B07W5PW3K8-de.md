@@ -28,10 +28,10 @@ There's a deal [LEGO Classic - Lego 11008 Classic Bausteine - Bunte Häuser Baus
 
 ℹ️:
 
-- Große Steine sind sicher, kinderfreundlich und für kleine Hände leicht zu nehmen und zu platzieren, während sprachliche, soziale und emotionale Fähigkeiten entwickelt werden
 - Das LEGO Classic Set Bausteine - bunte Häuser eignet sich besonders, um Kinder an kreative Bauprojekte heranzuführen
-- LEGO Spielzeuge erfüllen die höchsten Branchenstandards, damit sie sich stets mühelos kombinieren, zusammenstecken und wieder zerlegen lassen
 - Mit diesem Set lassen sich 6 verschiedene Häuser errichten: ein Familienhaus, ein Leuchtturm, ein Iglu, eine Burg, ein kleines Haus und eine Windmühle
+- LEGO Spielzeuge erfüllen die höchsten Branchenstandards, damit sie sich stets mühelos kombinieren, zusammenstecken und wieder zerlegen lassen
 - Jedes Modell hat seine eigenen Merkmale: Die Windmühle hat Flügel, die sich drehen, das Iglu ist schneeweiß und der Leuchtturm ist leuchtend bunt
+- Große Steine sind sicher, kinderfreundlich und für kleine Hände leicht zu nehmen und zu platzieren, während sprachliche, soziale und emotionale Fähigkeiten entwickelt werden
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W5PW3K8/?tag=tolees0ca-21)

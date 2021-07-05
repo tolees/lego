@@ -30,8 +30,8 @@ You've got [LEGO 60239 City Police Patrol Car Toy with Policeman Minifi
 
 - Become an everyday hero of the LEGO City Police force!
 - LEGO City 60239 Police Patrol Car set introduces your child to an unlimited world of their everyday heroes and makes an excellent gift.
-- Includes a LEGO police officer minifigure and 2 traffic cone accessoryelements.
-- Build a speedy toy police patrol car with removable roof, minifigure cab and iconic decoration.
 - Building and creative play will help your young adventurer understand the purpose of the building steps and  grow their imagination and confidence.
+- Build a speedy toy police patrol car with removable roof, minifigure cab and iconic decoration.
+- Includes a LEGO police officer minifigure and 2 traffic cone accessoryelements.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNW8PHF/?tag=tolees0a-21)

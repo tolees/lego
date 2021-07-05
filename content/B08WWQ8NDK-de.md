@@ -28,12 +28,12 @@ With a final price of 66.99 EUR (original: 89.99 EUR) you can find [LEGO 31119 C
 
 ℹ️:
 
-- Das Autoscooter-Fahrgeschäft verfügt über 3 Wagen und einen Fahrkartenschalter mit Ansagemikrofon, um in dem LEGO Freizeitpark um die Wette zu fahren
-- Diese große LEGO-Set mit unglaublichen 1002 Teilen ist das ideale Spielzeug für Jungen und Mädchen ab 9 Jahre und kann auch in der Gruppe gespielt werden
 - Das Konstruktionsspielzeug lässt sich mit weiteren tollen neuen LEGO Creator Sets erweitern, darunter Raketen Abenteuer (31117) und Mittelalterliches Schloss (31120)
 - Dieser LEGO Freizeitpark ist ein 3in1-Modell mit einem Riesenrad, das sich nach und nach in einen Autoscooter oder eine Schiffschaukel umbauen lässt
-- Die Schiffschaukel wird mit einem Krallen- und einem Kaugummiautomaten geliefert, um mit diesem spektakulären LEGO Set den ultimativen Ausflug in den Freizeitpark zu erleben
 - Das große, sich drehende Riesenrad hat 8 Gondeln für die Minifiguren, einen Fahrkartenschalter, einen Ballonwagen mit Ballontieren und eine Hunde-Figur
+- Diese große LEGO-Set mit unglaublichen 1002 Teilen ist das ideale Spielzeug für Jungen und Mädchen ab 9 Jahre und kann auch in der Gruppe gespielt werden
+- Die Schiffschaukel wird mit einem Krallen- und einem Kaugummiautomaten geliefert, um mit diesem spektakulären LEGO Set den ultimativen Ausflug in den Freizeitpark zu erleben
 - In diesem Set sind folgende Figuren enthalten: Mama, Papa, Kind und 2 Schausteller, um den Kindern einen aufregenden Tag auf dem Spielplatz zu ermöglichen
+- Das Autoscooter-Fahrgeschäft verfügt über 3 Wagen und einen Fahrkartenschalter mit Ansagemikrofon, um in dem LEGO Freizeitpark um die Wette zu fahren
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08WWQ8NDK/?tag=tolees0ca-21)

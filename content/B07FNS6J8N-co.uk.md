@@ -29,9 +29,9 @@ You've got [LEGO 10900 DUPLO Town Police Bike Building Bricks Set with�
 ℹ️:
 
 - Encourage language development and pretend play as young children learn through playing out police rescue and traffic control situations.
-- LEGO DUPLO products are easy to build and specially designed to be safe and suitable for small hands.
-- Toddlers will love zooming through town on the Police Bike and play out real-life scenarios in LEGO DUPLO Town.
-- This fun set features a police bike toy and a police kiosk with opening window.
 - Includes a police officer LEGO DUPLO figure and a reversible stop and go sign element.
+- This fun set features a police bike toy and a police kiosk with opening window.
+- Toddlers will love zooming through town on the Police Bike and play out real-life scenarios in LEGO DUPLO Town.
+- LEGO DUPLO products are easy to build and specially designed to be safe and suitable for small hands.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNS6J8N/?tag=tolees0a-21)

@@ -28,12 +28,12 @@ There's a deal [LEGO Speed Champions - Lego 76896 Speed Champions Nissan GT-R NI
 
 ℹ️:
 
-- Batterien werden nicht benötigt, damit der Spielspaß und die Renn-Action niemals enden. Dieses Actionspielzeug wartet nur darauf, über die Rennstrecke zu donnern!
-- Ein Nissan GT-R NISMO als Baumodell sowie 1 Minifigur im Nissan-Rennanzug zum Sammeln. Dieser Modellbausatz wird Kinder und Autofans gleichermaßen begeistern, zu einem selbstständigen Spielerlebnis inspirieren und Rennen mit Freunden austragen lassen.
 - Dem Bauset liegt eine einfache Bauanleitung bei, damit die Fans ihren Flitzer möglichst rasch zusammenbauen und schon bald ins Rennen schicken können.
-- Eine seltene Gelegenheit eine originalgetreue LEGO Nachbildung des legendären Nissan GT-R NISMO sein Eigen zu nennen. Das perfekte Geschenk für alle, die sich für Bauspielzeuge und Autorennen begeistern.
-- Der Nissan GT-R NISMO als Mini-Version (neu ab Januar 2020) bietet Bauspaß, beeindruckt als Schaustück und eignet sich für Rennen gegen andere LEGO Speed Champions Autos.
-- Der Nissan GT-R NISMO ist 5 cm hoch, 16 cm lang und 7 cm breit. Alle neuen LEGO Speed Champions Flitzer sind ab Januar 2020 um 25 Prozent größer und enthalten noch mehr Details der Originalfahrzeuge!
 - Dieser 298-teilige Modellbausatz des Nissan GT-R NISMO ermöglicht kreativen Jungen und Mädchen ab 8 Jahren, die gerne mit Spielzeug-Rennwagen spielen, aufregende Motorsportabenteuer. Dieses Geschenk bereitet zu jedem Anlass riesige Freude.
+- Der Nissan GT-R NISMO als Mini-Version (neu ab Januar 2020) bietet Bauspaß, beeindruckt als Schaustück und eignet sich für Rennen gegen andere LEGO Speed Champions Autos.
+- Ein Nissan GT-R NISMO als Baumodell sowie 1 Minifigur im Nissan-Rennanzug zum Sammeln. Dieser Modellbausatz wird Kinder und Autofans gleichermaßen begeistern, zu einem selbstständigen Spielerlebnis inspirieren und Rennen mit Freunden austragen lassen.
+- Der Nissan GT-R NISMO ist 5 cm hoch, 16 cm lang und 7 cm breit. Alle neuen LEGO Speed Champions Flitzer sind ab Januar 2020 um 25 Prozent größer und enthalten noch mehr Details der Originalfahrzeuge!
+- Batterien werden nicht benötigt, damit der Spielspaß und die Renn-Action niemals enden. Dieses Actionspielzeug wartet nur darauf, über die Rennstrecke zu donnern!
+- Eine seltene Gelegenheit eine originalgetreue LEGO Nachbildung des legendären Nissan GT-R NISMO sein Eigen zu nennen. Das perfekte Geschenk für alle, die sich für Bauspielzeuge und Autorennen begeistern.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W7TKVVP/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ There's a deal [LEGO 76897 Speed Champions Audi Sport quattro S1 Racer 
 
 ℹ️:
 
-- The model brilliantly reflects the original with its famous yellow and white livery, front engine, bulked-up bumper and vast rear wing
-- Build your own model of the car that technical features earned a place in rallying history if only because of their extreme character
-- For car fans delight, the new for January 2020, LEGO Speed Champions replicas are now 25% bigger and more realistic than ever
-- Includes 1 collectible LEGO driver minifigure in an authentic Audi race suit
 - Features a classic rally car reborn for the 35th anniversary of the quattro, one of the kings of the Group B rally racing circuit
+- The model brilliantly reflects the original with its famous yellow and white livery, front engine, bulked-up bumper and vast rear wing
+- For car fans delight, the new for January 2020, LEGO Speed Champions replicas are now 25% bigger and more realistic than ever
+- Build your own model of the car that technical features earned a place in rallying history if only because of their extreme character
+- Includes 1 collectible LEGO driver minifigure in an authentic Audi race suit
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W6Q9G1R/?tag=tolees0a-21)
