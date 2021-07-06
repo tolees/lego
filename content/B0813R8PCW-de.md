@@ -28,8 +28,8 @@ There's a deal [LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus  Dinosa
 
 ℹ️:
 
-- Lego Dinosaurierfiguren haben bewegliche Beine, der Indominus Rex hat einen beweglichen Kiefer und der Ankylosaurus hat einen schwingenden Schwanz, um Bäume zu fällen
 - Schauen Sie sich andere neue Lego Jurassic World-Sets an: Dr, Wus Labor: Ausbruch der Baby-Dinosaurier 75939 oder Ausbruch von Gallimimus und Pteranodon 75940
+- Lego Dinosaurierfiguren haben bewegliche Beine, der Indominus Rex hat einen beweglichen Kiefer und der Ankylosaurus hat einen schwingenden Schwanz, um Bäume zu fällen
 - Kinder können mit 5 Lego Minifiguren, darunter Owen Grady, Claire Dearing und die Brüder Gray und Zach Mitchell, spannende Action spielen
 - Verfügt über ein Forschungsstationsgebäude mit einem Drehkreuz, einem Ticketschalter und einer Gyrosphäre sowie 2 Dinosaurierfiguren und einer Außenumgebung
 - Die Gyrosphären-Bereitstellungsstation hat einen Auslöser, um die mit einer Minifigur besetzte Gyrosphäre zu starten, die von einem Dschungel mit umgestürzten Bäumen umgeben ist
