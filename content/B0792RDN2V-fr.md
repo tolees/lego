@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.72 % deal for LEGO 75954 Harry Potter La Grande Salle '
-date: 2021-07-05 06:14:42
+date: 2021-07-06 06:28:34
 image: 'https://m.media-amazon.com/images/I/51Hz1JsLSuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21'
 descuento: '20.72'
-average: '96.4220444444445'
+average: '96.4015964523282'
 ---
 
 There's a deal [LEGO 75954 Harry Potter La Grande Salle du château de Poudlard  Ensemble de Construction pour Enfants](https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21)  with  20.72 % discount, final price tag of  87.2 EUR (original: 109.99 EUR) here:
@@ -28,15 +28,15 @@ There's a deal [LEGO 75954 Harry Potter La Grande Salle du château de Po
 
 ℹ️:
 
-- La tour à 4 niveaux comporte les marches en spirale du grand escalier mobile à sa base, la salle des potions, la salle des trésors avec le coffre et une tourelle avec le miroir du Riséd avec des images changeantes et un perchoir pour Fumseck.
-- Ensemble comprenant 10 figurines : Harry Potter, Ron Weasley, Hermione Granger, Drago Malefoy, Susan Bones, le professeur McGonagall, le Professeur Quirrell avec le visage double de Lord Voldemort , Hagrid, Albus Dumbledore, Nick Quasi Sans-Tête, les créatures Basilic et Fumseck, et les figurines Hedwige et Croûtard.
-- Le choixpeau magique sélectionne les maisons des étudiants !
-- La grande salle comporte des tables, une table principale avec des sièges, une cheminée, 2 bannières réversible, 4 bougies «flottantes», de la nourriture (cuisse de dinde, glace et un petit gâteau), des balais, une coupe de trophée et une théière.
-- Comprend également un bateau avec une lanterne suspendue.
-- Harry et Drago utilisent leurs baguettes magiques dans le club de Duel !
-- Hermione et Susan ont besoin daide pour créer des potions magiques.
-- Les élèves naviguent dans le bateau jusquau château de Poudlard.
 - Accueil des nouveaux étudiants avec Hagrid et les professeurs Dumbledore et McGonagall.
+- Hermione et Susan ont besoin daide pour créer des potions magiques.
+- La tour à 4 niveaux comporte les marches en spirale du grand escalier mobile à sa base, la salle des potions, la salle des trésors avec le coffre et une tourelle avec le miroir du Riséd avec des images changeantes et un perchoir pour Fumseck.
 - Comprend la grande salle et une tour.
+- Les élèves naviguent dans le bateau jusquau château de Poudlard.
+- Ensemble comprenant 10 figurines : Harry Potter, Ron Weasley, Hermione Granger, Drago Malefoy, Susan Bones, le professeur McGonagall, le Professeur Quirrell avec le visage double de Lord Voldemort , Hagrid, Albus Dumbledore, Nick Quasi Sans-Tête, les créatures Basilic et Fumseck, et les figurines Hedwige et Croûtard.
+- Comprend également un bateau avec une lanterne suspendue.
+- Le choixpeau magique sélectionne les maisons des étudiants !
+- Harry et Drago utilisent leurs baguettes magiques dans le club de Duel !
+- La grande salle comporte des tables, une table principale avec des sièges, une cheminée, 2 bannières réversible, 4 bougies «flottantes», de la nourriture (cuisse de dinde, glace et un petit gâteau), des balais, une coupe de trophée et une théière.
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21)
