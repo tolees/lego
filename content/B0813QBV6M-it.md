@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 19.00 % for LEGO Architecture La Casa Bianca  Collez'
-date: 2021-07-05 06:31:02
+date: 2021-07-06 07:06:08
 image: 'https://m.media-amazon.com/images/I/51rnlk6oAWS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813QBV6M/?tag=tolees00-21'
 descuento: '19.00'
-average: '88.8728134556573'
+average: '88.8611280487803'
 ---
 
 You've got [LEGO Architecture La Casa Bianca  Collezione Monumenti per Adulti  Idea Regalo da Collezione  21054](https://www.amazon.it/dp/B0813QBV6M/?tag=tolees00-21) with a  19.00 % discount, with final price of 85.04 EUR (original: 104.99 EUR) at the following link:
