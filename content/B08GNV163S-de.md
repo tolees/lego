@@ -28,12 +28,12 @@ You've got [LEGO 10955 DUPLO Mein erster Tierzug mit Elefanten  Tiger  Panda und
 
 ℹ️:
 
-- Enthält Baukarten mit Bildern, die das Modell in Originalgröße darstellen. Kinder können die Steine beim Bauen auf die Baukarte legen, während die Eltern dem Kind etwas über Farben und Formen beibringen
-- Das Spielzeug ist 14 cm hoch, 45 cm lang und 6 cm breit und lässt sich zum Bauen und Spielen wunderbar von kleinen Fingern greifen
-- Die unverwechselbaren Tiere stellen Kleinkinder vor unterschiedlich komplexe Bauaufgaben und fördern ihre Baufähigkeiten. Spezielle Funktionen wie der Wackelhals der Giraffe bieten noch mehr Spielspaß
 - Kinder bauen die Waggons zusammen und reihen sie aneinander, stellen die Tiere auf Zug oder stapeln sie aufeinander. Bei fantasievollen Rollenspielen verbessern sie außerdem ihre Feinmotorik
+- Dieses entwicklungsfördernde Spielset für Kinder ab 18 Monaten bietet aktiven, Bauspaß und fantasievolle Spielmöglichkeiten. Ein tolles Geschenk für Kleinkinder
+- Das Spielzeug ist 14 cm hoch, 45 cm lang und 6 cm breit und lässt sich zum Bauen und Spielen wunderbar von kleinen Fingern greifen
 - Das zauberhafte LEGO DUPLO Set "Mein erster Tierzug" (10955) ist ein tolles Geschenk für Kleinkinder, denn das vielseitige Bauset enthält 4 Tiere als Baufiguren, die sich leicht von kleinen Fingern greifen, zielgenau platzieren und ziehen lassen
 - Enthält 4 Baufiguren: einen Elefanten (4 Teile), einen Tiger (2 Teile), eine Giraffe (3 Teile) und einen Panda (2 Teile) sowie 4 Schiebe-Waggons mit Rädern
-- Dieses entwicklungsfördernde Spielset für Kinder ab 18 Monaten bietet aktiven, Bauspaß und fantasievolle Spielmöglichkeiten. Ein tolles Geschenk für Kleinkinder
+- Enthält Baukarten mit Bildern, die das Modell in Originalgröße darstellen. Kinder können die Steine beim Bauen auf die Baukarte legen, während die Eltern dem Kind etwas über Farben und Formen beibringen
+- Die unverwechselbaren Tiere stellen Kleinkinder vor unterschiedlich komplexe Bauaufgaben und fördern ihre Baufähigkeiten. Spezielle Funktionen wie der Wackelhals der Giraffe bieten noch mehr Spielspaß
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08GNV163S/?tag=tolees0ca-21)
