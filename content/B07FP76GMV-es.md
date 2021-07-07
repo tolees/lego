@@ -28,10 +28,10 @@ There's a deal [LEGO 75239 Star Wars TM Action Battle: Ataque al Generador de Ho
 
 ℹ️:
 
-- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco
 - Edad recomendada por el fabricante: 7+
 - Número de piezas: 235
 - Action Battle: Ataque al Generador de Hoth
 - Este juguete de construcción incluye también 2 cañones y 4 misiles
+- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FP76GMV/?tag=tolees-21)
