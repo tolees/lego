@@ -28,15 +28,15 @@ There's a deal [LEGO Creator - Helicóptero de Doble Hélice Nuevo juguete de co
 
 ℹ️:
 
-- Contempla la alucinante combinación de colores en naranja, azul, blanco, negro y gris del helicóptero.
-- Acciona el engranaje para hacer girar los enormes rotores sincronizados del helicóptero.
-- Desliza la puerta lateral del helicóptero para abrirla y acciona el engranaje para usar el cabrestante, que funciona de verdad.
-- Disfruta de 3 oportunidades de construcción con este set LEGO Creator 3en1. Construye el Helicóptero de Doble Hélice y conviértelo después en un reactor o un aerodeslizador de juguete para seguir disfrutando de más aventuras trepidantes.
 - El Helicóptero de Doble Hélice está equipado con enormes rotores sincronizados, cabina con parabrisas tintado y 2 asientos, puerta lateral corredera, bodega de carga trasera con compuerta que se abre y cabrestante que funciona de verdad, e incluye un submarino ROV que cabe en la bodega de carga.
-- El reactor de juguete mide más de 8 cm de altura, 26 cm de longitud y 27 cm de ancho.
 - Incluye una minifigura de un piloto, listo para emprender aventuras.
-- Abre la compuerta de la bodega de carga trasera del helicóptero y carga el submarino ROV incluido.
+- Desliza la puerta lateral del helicóptero para abrirla y acciona el engranaje para usar el cabrestante, que funciona de verdad.
+- Contempla la alucinante combinación de colores en naranja, azul, blanco, negro y gris del helicóptero.
+- Disfruta de 3 oportunidades de construcción con este set LEGO Creator 3en1. Construye el Helicóptero de Doble Hélice y conviértelo después en un reactor o un aerodeslizador de juguete para seguir disfrutando de más aventuras trepidantes.
+- Acciona el engranaje para hacer girar los enormes rotores sincronizados del helicóptero.
 - El aerodeslizador de juguete mide más de 9 cm de altura, 20 cm de longitud y 8 cm de ancho.
 - El Helicóptero de Doble Hélice de juguete mide más de 17 cm de altura, 37 cm de longitud y 33 cm de ancho.
+- El reactor de juguete mide más de 8 cm de altura, 26 cm de longitud y 27 cm de ancho.
+- Abre la compuerta de la bodega de carga trasera del helicóptero y carga el submarino ROV incluido.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07KTWLXB1/?tag=tolees-21)
