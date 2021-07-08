@@ -28,11 +28,11 @@ There's a deal [LEGO L arrestation en Parachute](https://www.amazon.fr/dp/B07FNM
 
 ℹ️:
 
-- Le parachute du voleur mesure plus de 29 cm de haut et 20 cm de large.
-- Inclut 4 figurines LEGO City : 2 policiers et 2 voleurs.
-- Comprend un jet de police ultra-rapide avec un cockpit pour figurine qui s’ouvre et un crochet qui s’étend pour attraper le parachute en tissu fin et enduit, une moto de police et le buggy dévasion du voleur.
 - Le buggy d’évasion du voleur mesure plus de 4 cm de haut, 9 cm de long et 4 cm de large.
+- Comprend un jet de police ultra-rapide avec un cockpit pour figurine qui s’ouvre et un crochet qui s’étend pour attraper le parachute en tissu fin et enduit, une moto de police et le buggy dévasion du voleur.
+- Le parachute du voleur mesure plus de 29 cm de haut et 20 cm de large.
 - Le jet de la police mesure plus de 7 cm de haut, 22 cm de long et 20 cm de large.
+- Inclut 4 figurines LEGO City : 2 policiers et 2 voleurs.
 - Les accessoires incluent un casque du pilote avec une visière qui souvre et un masque à oxygène, des menottes, 2 sacs à dos et 2 sacs dargent.
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07FNMTW4H/?tag=tolees0d-21)
