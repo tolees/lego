@@ -28,10 +28,10 @@ With a final price of 31.97 GBP (original: 44.99 GBP) you can find [LEGO 75551�
 
 ℹ️:
 
-- A creative set that lets Minions fans build their favourite Minion character: build both Kevin and Stuart, and then rebuild Kevin into Bob
 - Each character features turning eyes and an intricate room playset inside, with instruments and devices, containing one of the Minion figures
-- Includes 3 Minion figures: Stuart, Kevin & Bob; kids can create inventions in the lab with Kevin or watch Stuart take a nap in his bedroom
 - Brick-build Minion characters may be a wonderful travel case - companion to play with when on the go or sharing role-playing with friends
+- A creative set that lets Minions fans build their favourite Minion character: build both Kevin and Stuart, and then rebuild Kevin into Bob
+- Includes 3 Minion figures: Stuart, Kevin & Bob; kids can create inventions in the lab with Kevin or watch Stuart take a nap in his bedroom
 - Includes accessories, such as tools, hats and weapons; after playing with their creation, kids will love putting their models on display
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07XBTQ69V/?tag=tolees0a-21)
