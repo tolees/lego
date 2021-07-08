@@ -28,10 +28,10 @@ There's a deal [LEGO 41448 Friends Heartlake City Movie Theater Cinema S
 
 ℹ️:
 
-- Features an art deco-style cinema, packed with authentic details: a VIP area, popcorn kiosk, slushy cups and a toy projector to operate!
-- Kids can role-play superfan Andrea or movie star Amelia, and VIP screening room has exclusive seats for 5 of their most fabulous friends
-- The set opens out to reveal a movie screen and seats, it can hold a smartphone or tablet against the screen for real-world movie screenings
 - Includes 3 minidolls:  Andrea, Amelia and Julian, a ticket desk, red-carpet area and a restroom for kids while watching the premier
 - The Heartlake City cinema lets kids screen their own movies for the minidolls, enabling a dynamic play lasting for hours
+- Features an art deco-style cinema, packed with authentic details: a VIP area, popcorn kiosk, slushy cups and a toy projector to operate!
+- The set opens out to reveal a movie screen and seats, it can hold a smartphone or tablet against the screen for real-world movie screenings
+- Kids can role-play superfan Andrea or movie star Amelia, and VIP screening room has exclusive seats for 5 of their most fabulous friends
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4P2XRK/?tag=tolees0a-21)

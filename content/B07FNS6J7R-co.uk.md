@@ -28,10 +28,10 @@ There's a deal [LEGO 31088 Creator Deep Sea Creatures: Shark  Crab and 
 
 ℹ️:
 
-- Build the shark with crab and treasure, and then rebuild to create aflexible Squid or a giant-mouthed Angler Fish.
-- Enjoy 3 building opportunities with this LEGO Creator 3in1 set!
-- Check out the Shark’s cool dark-blue and white colour scheme!
 - The Deep Sea Creatures set features a scary shark with an opening mouth, pointy teeth, posable fins, movable body joints and reflective eyes.
 - Enjoy an additional build with this set. Building instructions for a whale – available at LEGO.com
+- Check out the Shark’s cool dark-blue and white colour scheme!
+- Build the shark with crab and treasure, and then rebuild to create aflexible Squid or a giant-mouthed Angler Fish.
+- Enjoy 3 building opportunities with this LEGO Creator 3in1 set!
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07FNS6J7R/?tag=tolees0a-21)
