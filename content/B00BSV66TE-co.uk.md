@@ -28,10 +28,10 @@ You've got [LEGO 60291 City  Family House Modern Dollhouse Building Set
 
 ℹ️:
 
-- Includes LEGO Mum, Dad, daughter and son minifigures and a Labrador retriever figure, even its poo, plus plenty of modern life accessories
-- Kids can cook, grill, paint, play a guitar, grow veggies in the organic garden, bathe the Labrador retriever or enjoy a game of road hockey
-- Welcome to the eco-friendly home with solar panels and an Octan-E charging station for the cool electric car - a toy for eco-conscious kids
 - Features a detailed 3-level dollhouse with lots of well-equipped rooms: living room, kitchen, hobby room, bedroom & bathroom for role-playing
 - With the included LEGO City Road Plate system, it can be combined and connected to other LEGO City range playsets to expand LEGO city!
+- Kids can cook, grill, paint, play a guitar, grow veggies in the organic garden, bathe the Labrador retriever or enjoy a game of road hockey
+- Includes LEGO Mum, Dad, daughter and son minifigures and a Labrador retriever figure, even its poo, plus plenty of modern life accessories
+- Welcome to the eco-friendly home with solar panels and an Octan-E charging station for the cool electric car - a toy for eco-conscious kids
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00BSV66TE/?tag=tolees0a-21)

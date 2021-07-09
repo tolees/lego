@@ -28,13 +28,13 @@ With a final price of 178.35 EUR (original: 229.99 EUR) you can find [LEGO Techn
 
 ℹ️:
 
-- Questo fuoristrada telecomandato richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
-- Non compatibile con i sistemi LEGO Power Functions
-- Controllo one-touch: trascina una direzione sullo schermo e guarda il fuoristrada effettuare la manovra; sfide e successi: completa le sfide per sbloccare i badge premio
-- Il Fuoristrada X-treme 4 x 4 misura 19 cm di altezza, 33 cm di lunghezza e 22 cm di larghezza
 - Controllato tramite lapp LEGO TECHNIC CONTROL+ e alimentato da uno Smart Hub con 2 motori XL e 1 motore L per unesperienza di gioco coinvolgente, movimenti autentici e ore e ore di divertimento
-- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
+- Controllo one-touch: trascina una direzione sullo schermo e guarda il fuoristrada effettuare la manovra; sfide e successi: completa le sfide per sbloccare i badge premio
 - Il Fuoristrada X-treme 4 x 4 controllato da app LEGO è comandato tramite dispositivo smart con 3 schermate alternative
+- Non compatibile con i sistemi LEGO Power Functions
+- Questo fuoristrada telecomandato richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
 - Controllo multifunzione: guida in avanti, indietro, sterza, accelera, frena, supera ostacoli, riproduci effetti sonori e ottieni feedback in tempo reale
+- Il Fuoristrada X-treme 4 x 4 misura 19 cm di altezza, 33 cm di lunghezza e 22 cm di larghezza
+- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B07ND6CFHZ/?tag=tolees00-21)

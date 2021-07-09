@@ -28,10 +28,10 @@ With a final price of 44.97 GBP (original: 59.99 GBP) you can find [LEGO 10952�
 
 ℹ️:
 
+- Includes 4 LEGO DUPLO figures and 8 animal figures: a pig, sheep, horse, dog, hen, rooster, plus a mum and baby cow figures for more fun
 - Features several farm buildings: a buildable barn with opening doors, an animal pen, chicken coop, strawberry-shaped stall, and a tractor
 - Also includes realistically textured hay bales and lots of cool accessories: a bucket, pitchfork, plate, broom, flowers, and drinking trough
 - The buildable barn can be reconfigured for different adventures; a simple building guide includes a story that features models from the set
 - This 97-piece toy for toddlers 2+ years old lets kids build fine motor, emotional and social skills as they play while caring for animals
-- Includes 4 LEGO DUPLO figures and 8 animal figures: a pig, sheep, horse, dog, hen, rooster, plus a mum and baby cow figures for more fun
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08GPRK8LB/?tag=tolees0a-21)
