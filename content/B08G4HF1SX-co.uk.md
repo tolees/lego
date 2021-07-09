@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO 41924 DOTS Secret Holder Cat Box  R at 33.30 % discount'
-date: 2021-07-08 07:41:41
+date: 2021-07-09 08:44:08
 image: 'https://m.media-amazon.com/images/I/51OMRkCxLvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08G4HF1SX-co.uk LEGO 41924 DOTS Secret Holder Cat Box Room Accessories...'
 sku: 'B08G4HF1SX-co.uk'
-tags: [ 'Building & Construction Toys','Toys & Games','Toys Store','lego', ]
+tags: [ 'Building & Construction Toys','Toy Building Sets','Toys & Games','Toys Store','lego', ]
 actualPrice: 12.0 GBP
 currency: GBP
 price: 12.0
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4HF1SX/?tag=tolees0a-21'
 descuento: '33.30'
-average: '15.211875'
+average: '15.0229411764706'
 ---
 
 With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 41924 DOTS Secret Holder Cat Box  Room Accessories & Desk Décor Ideas  DIY Arts and Crafts for Kids](https://www.amazon.co.uk/dp/B08G4HF1SX/?tag=tolees0a-21) with a  33.30 % discount here:
@@ -28,10 +28,10 @@ With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 41924 
 
 ℹ️:
 
-- Features a cat themed box with 2 hidden compartments, plus a storage tray and tiles to customize this DIY hiding spot for tucking away secrets
-- Kids aged 6 and up can stretch their design skills and show off as they decorate the Secret Holder - there is Creative Personality on display
+- The cat’s face, ears and legs can be redesigned to reflect any position or mood, kids can also use tiles from the other kits and bags
 - The cat’s body becomes a pencil holder, it holds a note or small photo in its paws, there’s also a key-shaped tile remover for an easy redo
 - LEGO DOTS kits encourage self-expression and creativity through customizable jewellery or room decor projects, bringing the joy of LEGO play
-- The cat’s face, ears and legs can be redesigned to reflect any position or mood, kids can also use tiles from the other kits and bags
+- Features a cat themed box with 2 hidden compartments, plus a storage tray and tiles to customize this DIY hiding spot for tucking away secrets
+- Kids aged 6 and up can stretch their design skills and show off as they decorate the Secret Holder - there is Creative Personality on display
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4HF1SX/?tag=tolees0a-21)

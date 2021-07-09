@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.92 % deal for LEGO 31201 Art Harry Potter Hogwarts Cre'
-date: 2021-07-07 19:35:37
+date: 2021-07-09 08:42:47
 image: 'https://m.media-amazon.com/images/I/511OfBgmZBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G459QSQ/?tag=tolees0a-21'
 descuento: '33.92'
-average: '78.8485714285714'
+average: '78.49125'
 ---
 
 There's a deal [LEGO 31201 Art Harry Potter Hogwarts Crests Poster  Canvas Wall Décor  DIY Set for Adults](https://www.amazon.co.uk/dp/B08G459QSQ/?tag=tolees0a-21)  with  33.92 % discount, final price tag of  75.99 GBP (original: 114.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 31201 Art Harry Potter Hogwarts Crests Poster  Canv
 
 ℹ️:
 
-- Featuring 4,249 pieces, it includes 9 canvas wall decor plates, exclusive Harry Potter logo tile, brick-built frame, and a hanging element
-- With the included Soundtrack, you learn more about the houses – Gryffindor, Slytherin, Hufflepuff or Ravenclaw, and many other Hogwarts fun facts
 - Perfect for adults to display, LEGO Art kits offer a rewarding building experience while enjoying ones passion for creative arts and crafts
-- Build and display 1 of 4 possible detailed Harry Potter Hogwarts Crests (one at the time), a stunning décor piece of unique mosaic wall art
+- With the included Soundtrack, you learn more about the houses – Gryffindor, Slytherin, Hufflepuff or Ravenclaw, and many other Hogwarts fun facts
 - To extend the stress relief, combine 4 of the sets to create the ultimate all Hogwarts crests display to adore your walls or shelves
+- Build and display 1 of 4 possible detailed Harry Potter Hogwarts Crests (one at the time), a stunning décor piece of unique mosaic wall art
+- Featuring 4,249 pieces, it includes 9 canvas wall decor plates, exclusive Harry Potter logo tile, brick-built frame, and a hanging element
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G459QSQ/?tag=tolees0a-21)
