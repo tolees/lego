@@ -28,9 +28,9 @@ With a final price of 26.24 GBP (original: 34.99 GBP) you can find [LEGO 60230 C
 
 ℹ️:
 
-- Features a rocky ground scene, drone with spinning rotor, a test rocket with stand, spinning G-force training machine, and a robot figure.
-- Plus Extra Vehicular Activity suit with light, rubbish bin, mug, drone remote, pizza boxes, pizza, 2 new-for-June-2019 geodes and a toolbox.
 - Includes 14 minifigures: 7 astronauts, a reporter, camera operator, personal trainer, drone/ rocket/mechanical engineers and a botanist
+- Plus Extra Vehicular Activity suit with light, rubbish bin, mug, drone remote, pizza boxes, pizza, 2 new-for-June-2019 geodes and a toolbox.
 - Accessory elements include a magnifying glass, welder, white flag, megaphone, camera, microphone, alien head on a stick, 3 astronaut helmets
+- Features a rocky ground scene, drone with spinning rotor, a test rocket with stand, spinning G-force training machine, and a robot figure.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07G3S9Z3C/?tag=tolees0a-21)
