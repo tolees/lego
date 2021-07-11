@@ -28,10 +28,10 @@ There's a deal [LEGO 60284 City Great Vehicles Roadwork Truck Toy  Front
 
 ℹ️:
 
+- The roadworks playset comes with a LEGO worker minifigure, his safety helmet, a rat figure, and a Starter Brick element for an easy start
+- The construction set for 4+ youngsters features a front-end loader, wheelbarrow, roadworks sign, a shovel and traffic cones
 - This easy-to-build construction playset helps younger kids discover the joy of building their own LEGO toys and show off their creations
 - Kids can cordon off areas with the roadworks sign and traffic cones, fill and tip the front-end loader’s bucket and play out fun scenarios
-- The roadworks playset comes with a LEGO worker minifigure, his safety helmet, a rat figure, and a Starter Brick element for an easy start
 - To help, it includes a simple 4+ building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
-- The construction set for 4+ youngsters features a front-end loader, wheelbarrow, roadworks sign, a shovel and traffic cones
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4LZJ8R/?tag=tolees0a-21)
