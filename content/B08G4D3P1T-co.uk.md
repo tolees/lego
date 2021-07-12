@@ -28,10 +28,10 @@ With a final price of 15.0 GBP (original: 24.99 GBP) you can find [LEGO 60281 
 
 ℹ️:
 
-- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 - Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
 - Kids can stack the flames to create big fires, then shoot the helicopter’s water cannon elements to put them out at the top of the tower!
-- Includes 3 minifigures: a plants worker, firefighter helicopter pilot and the LEGO City Adventures TV series hero Clemmons
+- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 - LEGO accessories include a stretcher (stored in the helicopter’s cargo hold), firefighter helmet, wrench and a safety helmet
+- Includes 3 minifigures: a plants worker, firefighter helicopter pilot and the LEGO City Adventures TV series hero Clemmons
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4D3P1T/?tag=tolees0a-21)

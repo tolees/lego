@@ -28,11 +28,11 @@ You've got [LEGO 41665 Friends Magische Würfel Stephanies Katzen-Würfel Mini-S
 
 ℹ️:
 
-- Der Würfel ist 7 cm hoch und 8 cm breit. Wegen des niedlichen Katzendesigns möchten Kinder dieses Reisespielzeug am liebsten als Deko-Element aufgestellt lassen
 - LEGO Friends Würfel bieten riesigen Spaß auf kleinem Raum. Dieser Würfel enthält die LEGO Friends Heldin Stephanie als Spielfigur, eine Katzenfigur in einer Überraschungsfarbe, einen Vogel und eine baubare Kulisse
-- Kinder lernen Heartlake City kennen. Die Heimat der LEGO Friends Heldinnen bietet jede Menge fantasievollen Spielspaß. Dort treffen die Kinder Charaktere, die ihnen selbst sehr ähnlich sind – und jeder ist herzlich willkommen
 - Kinder können die Elemente herausnehmen, um ungehindert mit ihnen zu spielen, oder im Würfel verstauen, um sie überallhin mitzunehmen
-- Eine bezaubernde spontane Belohnung für Kinder ab 6 Jahren, die Spielzeug-Tiere lieben. Diese einfachen Modelle sind ein toller erster Schritt in die faszinierende LEGO Bau- und Spielwelt
 - Das LEGO Friends Spielset „Stephanies Katzen-Würfel“ ist ein tolles spontanes Geschenk mit einem Spielzeug-Tier. Außerdem ist der tragbare Würfel ein fantastischer Begleiter zu jedem Spieltreffen und ein niedliches Deko-Element fürs Kinderzimmer
+- Eine bezaubernde spontane Belohnung für Kinder ab 6 Jahren, die Spielzeug-Tiere lieben. Diese einfachen Modelle sind ein toller erster Schritt in die faszinierende LEGO Bau- und Spielwelt
+- Kinder lernen Heartlake City kennen. Die Heimat der LEGO Friends Heldinnen bietet jede Menge fantasievollen Spielspaß. Dort treffen die Kinder Charaktere, die ihnen selbst sehr ähnlich sind – und jeder ist herzlich willkommen
+- Der Würfel ist 7 cm hoch und 8 cm breit. Wegen des niedlichen Katzendesigns möchten Kinder dieses Reisespielzeug am liebsten als Deko-Element aufgestellt lassen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4SCGFQ/?tag=tolees0ca-21)
