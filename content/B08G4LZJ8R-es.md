@@ -28,15 +28,15 @@ There's a deal [LEGO 60284 City Vehículo de Obras en Carretera Juguete�
 
 ℹ️:
 
-- Viene con una sencilla guía de construcción 4+ e Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes. Esta guía interactiva ayuda a los niños a convertirse en maestros constructores.
-- Los elementos y ladrillos LEGO City se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que cada juego satisfaga rigurosos estándares mundiales de seguridad.
 - Aquí tienes una fantástica manera de descubrir el emocionante mundo de LEGO City. Perfecto para niños y niñas a partir de 4 años, este set está diseñado para promover el juego independiente y creativo basado en situaciones de la vida real.
-- El juego LEGO City Vehículo de Obras en Carretera (60284) incluye una cargadora frontal, una carretilla, conos de tráfico, una señal de obras en carretera y una pala, así como una minifigura de un trabajador y una figura de una rata.
-- Una vez construido, el vehículo mide aproximadamente 8 cm de altura, 8 cm de longitud y 6 cm de anchura.
-- Los componentes LEGO cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez; así ha sido desde 1958.
-- Los niños pueden acordonar áreas con los conos de tráfico y la señal de obras en carretera, llenar y vaciar la pala de la cargadora frontal e interpretar divertidas situaciones con la minifigura del trabajador y la figura de la rata.
-- Los sets 4+ LEGO City invitan a niños y adultos a descubrir el placer de construir y jugar juntos. Con ladrillos para principiantes y sencillas guías de construcción, ayudan a los peques a adquirir habilidades fundamentales para la vida.
+- Los elementos y ladrillos LEGO City se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que cada juego satisfaga rigurosos estándares mundiales de seguridad.
+- Viene con una sencilla guía de construcción 4+ e Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes. Esta guía interactiva ayuda a los niños a convertirse en maestros constructores.
 - Los sets LEGO City Grandes Vehículos ayudan a los niños a desarrollar sus habilidades físicas y a reforzar su confianza con detallados edificios, vehículos de gran realismo y divertidos personajes que estimulan el juego independiente y libre.
+- El juego LEGO City Vehículo de Obras en Carretera (60284) incluye una cargadora frontal, una carretilla, conos de tráfico, una señal de obras en carretera y una pala, así como una minifigura de un trabajador y una figura de una rata.
+- Los componentes LEGO cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez; así ha sido desde 1958.
+- Los sets 4+ LEGO City invitan a niños y adultos a descubrir el placer de construir y jugar juntos. Con ladrillos para principiantes y sencillas guías de construcción, ayudan a los peques a adquirir habilidades fundamentales para la vida.
+- Los niños pueden acordonar áreas con los conos de tráfico y la señal de obras en carretera, llenar y vaciar la pala de la cargadora frontal e interpretar divertidas situaciones con la minifigura del trabajador y la figura de la rata.
+- Una vez construido, el vehículo mide aproximadamente 8 cm de altura, 8 cm de longitud y 6 cm de anchura.
 - El set incluye accesorios, como un casco de seguridad para el trabajador.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B08G4LZJ8R/?tag=tolees-21)
