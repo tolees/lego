@@ -28,10 +28,10 @@ You've got [LEGO 10886 DUPLO My First Car Creations Building Bricks Set
 
 ℹ️:
 
-- Features 4 buildable LEGO DUPLO vehicles: a fire truck, helicopter,taxi and a garbage truck
-- Encourage social and emotional skills as toddlers enjoy role-play fun with the decorated characters traveling in these cute toy cars
-- Create and connect with your young child as you build iconic vehicles with LEGO DUPLO 10886 My First Car Creations set
 - Includes a brick decorated as a traffic light and decorated bricks with different windows, drivers and passengers
+- Encourage social and emotional skills as toddlers enjoy role-play fun with the decorated characters traveling in these cute toy cars
+- Features 4 buildable LEGO DUPLO vehicles: a fire truck, helicopter,taxi and a garbage truck
+- Create and connect with your young child as you build iconic vehicles with LEGO DUPLO 10886 My First Car Creations set
 - Inspire little imaginations as they create all sorts of wonderful, colourful cars of their own
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B00EDTCHJ6/?tag=tolees0a-21)
