@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 33.29 % for LEGO 60287 City Great Vehicles Tractor T'
-date: 2021-07-12 07:42:54
-image: 'https://m.media-amazon.com/images/I/51VMvP2TmRS._SL500_._SL400_.jpg'
+date: 2021-07-13 11:51:34
+image: 'https://m.media-amazon.com/images/I/51-nSMDBeZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21'
 descuento: '33.29'
-average: '12.3829729729729'
+average: '12.3202631578947'
 ---
 
 You've got [LEGO 60287 City Great Vehicles Tractor Toy  Farm Set with Rabbit Figure for 5 Years Old Boys and Girls](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21) with a  33.29 % discount, with final price of 10.0 GBP (original: 14.99 GBP) at the following link:
 
-[![LEGO 60287 City Great Vehicles Tractor T](https://m.media-amazon.com/images/I/51VMvP2TmRS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21)
+[![LEGO 60287 City Great Vehicles Tractor T](https://m.media-amazon.com/images/I/51-nSMDBeZS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21)
 
 ℹ️:
 
+- Includes LEGO farmer and daughter minifigures, a rabbit figure, plus 2 hay bales, and a crate of veggie elements for fun farming action
+- The red tractors tyres will face no problems driving the crop to the farmer and his daugter, where hungry rabbits await!
+- Features a cool toy tractor with huge rear tyres, a tipping loader bucket, raisable boom and a minifigure cab to accommodate a minifigure
 - Kids can load hay bales and crate with a pumpkin, apple and carrots into the tractor bucket, then raise the boom to lift them into the air
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
-- Includes LEGO farmer and daughter minifigures, a rabbit figure, plus 2 hay bales, and a crate of veggie elements for fun farming action
-- Features a cool toy tractor with huge rear tyres, a tipping loader bucket, raisable boom and a minifigure cab to accommodate a minifigure
-- The red tractors tyres will face no problems driving the crop to the farmer and his daugter, where hungry rabbits await!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21)
