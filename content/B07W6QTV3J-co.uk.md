@@ -28,10 +28,10 @@ With a final price of 15.0 GBP (original: 19.99 GBP) you can find [LEGO 21158 
 
 ℹ️:
 
-- The nursery features a hut for the pandas with a rooftop bed for a tired baby, and a small pond with waterfall, trees and flowers
 - Great for panda-lovers and Minecraft players wanting new ways to play their favourite game. Requires only very basic building skills
-- Accessories include a fish, cake, lamp and a diamond pickaxe accessory for Alex if there’s any Minecraft gold to be mined
+- The nursery features a hut for the pandas with a rooftop bed for a tired baby, and a small pond with waterfall, trees and flowers
 - Includes 2 buildable pandas, Alex and Ocelot. New-for-January-2020, Mom and baby panda characters sit, stand and move their heads
 - An ocelot has a movable tail,  there’s bamboo to eat and caring for the adorable toy pandas, Alex has brought a cake to share
+- Accessories include a fish, cake, lamp and a diamond pickaxe accessory for Alex if there’s any Minecraft gold to be mined
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W6QTV3J/?tag=tolees0a-21)
