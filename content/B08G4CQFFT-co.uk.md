@@ -28,10 +28,10 @@ You've got [LEGO 41934 DOTS Starlight Bracelets Jewellery Set  DIY Wrist
 
 ℹ️:
 
-- This is a perfect gift for buddying designers to practise their creations and then wear their favourite version, they will never get bored
-- Containes 2 adjustable 7 in./20 cm long bands with special, opalescent star-inspired and star-map-decorated tiles to build, wear & share
 - Wearing personalised jewellery encourages self-expression when kids come up with their own, new look - let them be themselves!
+- Containes 2 adjustable 7 in./20 cm long bands with special, opalescent star-inspired and star-map-decorated tiles to build, wear & share
 - Features 2 slim, adjustable bands and 32 tiles, to let kids creatively express themselves as part of shared fun with their Best Friends
 - These clever, hand-made bracelets encourage open-ended design possibilities to help build children’s creativity and confidence through fun
+- This is a perfect gift for buddying designers to practise their creations and then wear their favourite version, they will never get bored
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4CQFFT/?tag=tolees0a-21)
