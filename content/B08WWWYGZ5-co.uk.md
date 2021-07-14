@@ -28,10 +28,10 @@ With a final price of 89.98 GBP (original: 119.99 GBP) you can find [LEGO 71756 
 
 ℹ️:
 
-- The LEGO underwater vehicle features a submarine toy that releases a buildable mech toy for fans to stage gripping stories under the sea
-- The toy submarine has 2 spring-loaded shooters, 2 folding wings, an opening cockpit & a detachable mech, and it carries 2 cool mini submarines
+- Also includes Prince Kalmaar and a Maaray Guard minifigures, plus 2 Wu Bots and Princes chariot pulled by a giant sea creature
 - Includes 10 minifigures from the NINJAGO: Seabound TV series: Scuba Kai, Scuba Cole, Scuba Jay, Scuba Lloyd, Scuba Zane and Scuba Nya
 - This 1,159-piece large LEGO set for kids 9+ years old makes a great birthday or holiday gift for LEGO NINJAGO or Ninja toy fans
-- Also includes Prince Kalmaar and a Maaray Guard minifigures, plus 2 Wu Bots and Princes chariot pulled by a giant sea creature
+- The LEGO underwater vehicle features a submarine toy that releases a buildable mech toy for fans to stage gripping stories under the sea
+- The toy submarine has 2 spring-loaded shooters, 2 folding wings, an opening cockpit & a detachable mech, and it carries 2 cool mini submarines
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08WWWYGZ5/?tag=tolees0a-21)

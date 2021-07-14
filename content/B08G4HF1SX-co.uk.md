@@ -28,9 +28,9 @@ With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 41924 
 
 ℹ️:
 
-- The cat’s body becomes a pencil holder, it holds a note or small photo in its paws, there’s also a key-shaped tile remover for an easy redo
 - LEGO DOTS kits encourage self-expression and creativity through customizable jewellery or room decor projects, bringing the joy of LEGO play
 - The cat’s face, ears and legs can be redesigned to reflect any position or mood, kids can also use tiles from the other kits and bags
+- The cat’s body becomes a pencil holder, it holds a note or small photo in its paws, there’s also a key-shaped tile remover for an easy redo
 - Kids aged 6 and up can stretch their design skills and show off as they decorate the Secret Holder - there is Creative Personality on display
 - Features a cat themed box with 2 hidden compartments, plus a storage tray and tiles to customize this DIY hiding spot for tucking away secrets
 

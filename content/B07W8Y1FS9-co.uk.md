@@ -28,10 +28,10 @@ With a final price of 12.47 GBP (original: 17.99 GBP) you can find [LEGO 60242�
 
 ℹ️:
 
+- The set accessories include a stolen safe with gold bars and a banknote, a crate of fish, handcuffs and a road stop to crash the cars!
 - Includes 2 minifigures: Duke DeTain and thief Vito to recreate scenes from LEGO City Adventures TV series in car chase plays
+- Features 2 fast cars: Toy Police Car and Thief’s Getaway Car, the scene is set for awesome car-chase adventures and funny car-crashes
 - Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 - Helps your child master fine motor skills and develop imagination and creativity with this easy-to-build toy suitable for preschool kids
-- The set accessories include a stolen safe with gold bars and a banknote, a crate of fish, handcuffs and a road stop to crash the cars!
-- Features 2 fast cars: Toy Police Car and Thief’s Getaway Car, the scene is set for awesome car-chase adventures and funny car-crashes
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W8Y1FS9/?tag=tolees0a-21)
