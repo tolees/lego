@@ -28,10 +28,10 @@ You've got [LEGO 31107 Creator 3in1 Space Rover Explorer  Base & Shuttl
 
 ℹ️:
 
+- Young space explorers will love choosing from this LEGO Creator 3in1 set of cosmic fun: a Space Rover Explorer, space base or space flyer
+- Includes an astronaut minifigure and a buildable and posable fun alien figure; the 3in1 set makes a great anytime gift for boys & girls 8+
 - A realistic, detailed space base with living quarters or super-fast spaceship make it easy for astronauts to explore Mars and new planets
 - Features an exploration vehicle with robust wheels, working crane and suspension, cockpit, lab/living area, plus a robot with moving arms
-- Includes an astronaut minifigure and a buildable and posable fun alien figure; the 3in1 set makes a great anytime gift for boys & girls 8+
-- Young space explorers will love choosing from this LEGO Creator 3in1 set of cosmic fun: a Space Rover Explorer, space base or space flyer
 - Parts of the vehicle are removable for easy access; accessories include tableware, shortwave transmitter, edible plants and lab equipment
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813R6HZV/?tag=tolees0a-21)

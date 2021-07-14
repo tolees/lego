@@ -28,10 +28,10 @@ There's a deal [LEGO 60289 City Great Vehicles Airshow Jet Transporter T
 
 ℹ️:
 
-- Features 2 LEGO vehicles: an articulated transporter truck with seating for the driver minifigure, a trailer and a cool jet airplane
-- The jet comes with adjustable tail fins, a tinted minifigure cockpit and it includes 2 LEGO minifigures: a pilot and a driver
-- Kids drive the powerful transporter to deliver the jet, before taking to the sky for an impressive airshow, sending their creativity sky high
 - Accessory elements include a coffee cup, toolbox, wrench, hammer, 2 marshaling wands, flight helmet and an air mask
+- Features 2 LEGO vehicles: an articulated transporter truck with seating for the driver minifigure, a trailer and a cool jet airplane
+- Kids drive the powerful transporter to deliver the jet, before taking to the sky for an impressive airshow, sending their creativity sky high
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- The jet comes with adjustable tail fins, a tinted minifigure cockpit and it includes 2 LEGO minifigures: a pilot and a driver
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4G3MQ5/?tag=tolees0a-21)
