@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 25.00 % for LEGO STAR WARS - Lego 75257 Star Wars Mi'
-date: 2021-07-12 00:53:18
-image: 'https://m.media-amazon.com/images/I/519YyMylDSS._SL500_._SL400_.jpg'
+date: 2021-07-14 01:06:02
+image: 'https://m.media-amazon.com/images/I/516Hbm+CQMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '128.761292246522'
+average: '128.726554455447'
 ---
 
 You've got [LEGO STAR WARS - Lego 75257 Star Wars Millennium Falcon Raumschiff Bauset mit Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 und D-O  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21) with a  25.00 % discount, with final price of 119.99 EUR (original: 159.99 EUR) at the following link:
 
-[![LEGO STAR WARS - Lego 75257 Star Wars Mi](https://m.media-amazon.com/images/I/519YyMylDSS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21)
+[![LEGO STAR WARS - Lego 75257 Star Wars Mi](https://m.media-amazon.com/images/I/516Hbm+CQMS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21)
 
 ℹ️:
 

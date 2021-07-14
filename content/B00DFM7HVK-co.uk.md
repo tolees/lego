@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic 6x6 Volvo Articulated at 30.44 % discount'
-date: 2021-07-12 00:51:42
+date: 2021-07-14 01:07:18
 image: 'https://m.media-amazon.com/images/I/51t9F6AV20L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21'
 descuento: '30.44'
-average: '185.622488151659'
+average: '185.501580188679'
 ---
 
 With a final price of 159.99 GBP (original: 229.99 GBP) you can find [LEGO 42114 Technic 6x6 Volvo Articulated Hauler Truck Toy RC Car Construction Vehicle](https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21) with a  30.44 % discount here:
