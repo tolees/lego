@@ -30,8 +30,8 @@ You've got [LEGO 21164 Minecraft The Coral Reef Building Set with Alex 
 
 - Kids join Alex as she dives to search for hidden treasure among the colourful coral reef and fights off a surprise attack by a drowned zombie
 - Also includes a Drowned, Zombie-like figure and 2 puffer fish - 1 ‘inflated’, 1 normal size, bursting with Minecraft colour and action
-- Kids can turn the big yellow rock to uncover the hidden treasure chest which opens to reveal a fish and a pearl, to blowfishs surprise
 - Features popular gaming character Alex, the Minecraft daredevil, with a diving helmet, magic trousers and sword. Will Alex defeat the zombie?
 - This endlessly entertaining, feature-packed toy is an ideal gift for kids who like to build and explore, with more sets to collect & combine
+- Kids can turn the big yellow rock to uncover the hidden treasure chest which opens to reveal a fish and a pearl, to blowfishs surprise
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4SZS66/?tag=tolees0a-21)
