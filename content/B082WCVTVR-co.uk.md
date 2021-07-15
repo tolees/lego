@@ -29,9 +29,9 @@ With a final price of 5.0 GBP (original: 8.99 GBP) you can find [LEGO 71370 Su
 ℹ️:
 
 - This collectible accessory fits on the Mario figure, causing unique sounds and a unique image to appear on LEGO Mario’s torso screen
+- Check out other upgrades: Propeller Mario Power-Up Pack (71371), Cat Mario Power-Up Pack (71372) and Builder Mario Power-Up Pack (71373)
 - When the LEGO Mario figure is powered up with this suit, he can gain Fire Attack power, a new way to attack enemies and collect extra coins
 - Features a buildable costume that gives the Starter Course LEGO Mario figure (not included) special abilities and causes different reactions
-- Check out other upgrades: Propeller Mario Power-Up Pack (71371), Cat Mario Power-Up Pack (71372) and Builder Mario Power-Up Pack (71373)
 - Tips for creative solo or group gameplay, digital instructions, viewing tools and more can be found on the free downloadable LEGO app
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B082WCVTVR/?tag=tolees0a-21)
