@@ -28,10 +28,10 @@ With a final price of 98.0 EUR (original: 134.99 EUR) you can find [LEGO City O
 
 ℹ️:
 
+- Scopri gli altri set oceanici LEGO City: Base per esplorazioni oceaniche 60265, Sottomarino da esplorazione oceanica 60264, Minisottomarino oceanico 60263
 - Questo giocattolo comprende anche un sottomarino per le ricerche, un elicottero, un motoscafo, una gabbia per squali e il relitto di una nave pirata con un tesoro nascosto
+- Nave giocattolo che galleggia davvero, con cabina accessibile e laboratorio, gru funzionante, elisuperficie, braccio mobile e deposito
 - Il set comprende 8 esploratori, tra cui il protagonista della serie TV LEGO City Adventures Harl Hubbs, uno squalo, una pastinaca e tanti accessori
 - Usa le Instructions PLUS, disponibili nell’ambito dell’app LEGO Building Instructions per dispositivi smart, per zoomare, ruotare e visualizzare gli elementi
-- Scopri gli altri set oceanici LEGO City: Base per esplorazioni oceaniche 60265, Sottomarino da esplorazione oceanica 60264, Minisottomarino oceanico 60263
-- Nave giocattolo che galleggia davvero, con cabina accessibile e laboratorio, gru funzionante, elisuperficie, braccio mobile e deposito
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B0813R1CMZ/?tag=tolees00-21)
