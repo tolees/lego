@@ -28,9 +28,9 @@ There's a deal [Super Heroes LEGO 76153 Marvel Avengers Helicarrier Toy wit
 
 ℹ️:
 
+- The Helicarrier has rotors, realistic rotating blades, mega missile launcher, sphere cannons, 6-stud shooters, plus a special prison cell
 - Includes Iron Man, Captain Marvel, Thor, Black Widow, War Machine, Nick Fury, and A.I.M. Agent minifigures, and a M.O.D.O.K. figure
 - Features the S.H.I.E.L.D. Helicarrier, hi-tech flying aircraft toy carrier with a cockpit for 3 minifigures, and a small fighter toy jet
-- The Helicarrier has rotors, realistic rotating blades, mega missile launcher, sphere cannons, 6-stud shooters, plus a special prison cell
 - M.O.D.O.K. – the big-brained supervillain – is on the attack, and Avengers are ready for action to return the bad guy to his prison cell
 - Marvel Avengers fans can recreate thrilling scenes and dream up their own stories with this playset - an awesome gift for kids aged 9 and up!
 
