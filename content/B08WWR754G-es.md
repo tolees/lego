@@ -28,12 +28,12 @@ You've got [LEGO 43111 VIDIYO Candy Castle Stage  Creador de Vídeos Musicales d
 
 ℹ️:
 
-- Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
 - Escanea los BeatBits en la aplicación para desbloquear efectos especiales, como el que hace que los caballos de carrusel aparezcan en los videos musicales para niños
-- Incluye 2 mini figuras con accesorios, 14 BeatBits aleatorios y 2 BeatBits especiales que dan vida al modelo y las mini figuras en la aplicación
+- Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
 - Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
 - Inspira a los niños con este creador de videos musicales LEGO VIDIYO Candy Castle Stage que les permite protagonizar sus propios programas en una app de realidad aumentada
 - A los niños les encantará hacer cambios en sus videos, como cambiar la escena para crear un bosque de helados digital o un fondo con un cañón de chocolate
+- Incluye 2 mini figuras con accesorios, 14 BeatBits aleatorios y 2 BeatBits especiales que dan vida al modelo y las mini figuras en la aplicación
 - Escanea los BeatBits en la aplicación para desbloquear efectos especiales como el efecto de sonido de la ópera rock y emocionantes imágenes de fuego, como en un concierto real
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08WWR754G/?tag=tolees-21)
