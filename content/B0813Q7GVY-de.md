@@ -28,8 +28,8 @@ With a final price of 75.99 EUR (original: 99.99 EUR) you can find [LEGO 41430 F
 
 ℹ️:
 
-- Dazu kommt auch Heißwassersprudelbecken, Umkleideräume, Einhorn-Floatie, eine Dusche und eine Toilette sowie 3 farbenfrohe Schwimmmatratzen und lustige Accessoires
 - Das LEGO Friends Wasserpark enthält Mini Puppen Stephanie, Emma, ​​Olivia und Mason, sowie eine Tierfigur Flamingo Pinky. Alles zum Spaß bereit
+- Dazu kommt auch Heißwassersprudelbecken, Umkleideräume, Einhorn-Floatie, eine Dusche und eine Toilette sowie 3 farbenfrohe Schwimmmatratzen und lustige Accessoires
 - Die Mini Puppen können ins Wasser rutschen, im Heißwassersprudelbecken entspannen, als Rettungsschwimmer auf den Schwimmern aufpassen oder im Van Eis servieren
 - Dieses Konstruktionsspielzeug verfügt über 3 coole Rutschen, darunter eine Röhrenrutsche, Wasserkanonen, Rettungsschwimmer-Sitz, Mini-Eiswagen und jede Menge Parkdekorationen
 - Ein tolles Spielzeug ab 8 Jahren für Mädchen und Jungen, perfekt als Weihnachts- oder auch Geburtstagsgeschenk Die Teile sind auch mit anderen LEGO-Sets kompatibel
