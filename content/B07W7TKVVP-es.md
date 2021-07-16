@@ -29,14 +29,14 @@ There's a deal [LEGO 76896 Speed Champions Nissan GT-R NISMO Juguete de�
 ℹ️:
 
 - La miniversión del Nissan GT-R NISMO (novedad en enero de 2020) se puede construir y exponer, o usar para competir contra otros coches LEGO Speed Champions.
-- Los juguetes de construcción LEGO Speed Champions ofrecen a los fans la oportunidad de crear algunos de los modelos más famosos y fascinantes del mundo. Podrán incluso exponer sus coches de carreras u organizar emocionantes competiciones.
-- Los ladrillos LEGO llevan cumpliendo las normas más estrictas del sector desde 1958, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y se separan con facilidad una y otra vez.
-- No requiere pilas, así que la diversión y la emoción de las carreras no se agotará nunca. ¡Este juguete de acción siempre estará listo para reinar en los circuitos a toda velocidad!
-- Estos ladrillos y elementos LEGO se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
-- Una oportunidad única de poseer una réplica LEGO con detalles de gran realismo del legendario Nissan GT-R NISMO. Es el regalo perfecto para los apasionados de la construcción de juguetes, ¡y de conducirlos en veloces carreras!
 - El Nissan GT-R NISMO en versión construible y 1 minifigura con mono de competición Nissan. Esta maqueta fascinará a niños y fans de los coches, y les abrirá las puertas tanto al juego independiente como a la posibilidad de organizar carreras.
-- Este kit de construcción trae instrucciones paso a paso fáciles de seguir, de manera que los fans no tienen motivo para preocuparse: podrán armar su coche de carreras de juguete tan rápido como quieran.
+- Estos ladrillos y elementos LEGO se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
 - Esta maqueta de 298 piezas del Nissan GT-R NISMO propone una emocionante misión a los niños y niñas a partir de 8 años que adoran crear coches de carreras de juguete y divertirse jugando con ellos. Es un fantástico regalo.
 - El Nissan GT-R NISMO mide aproximadamente 5 cm de altura, 16 cm de longitud y 7 cm de anchura. Todos los coches LEGO Speed Champions novedad en enero de 2020 son ahora un 25 % más grandes: ¡incluyen aún más detalles!
+- Los ladrillos LEGO llevan cumpliendo las normas más estrictas del sector desde 1958, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y se separan con facilidad una y otra vez.
+- Este kit de construcción trae instrucciones paso a paso fáciles de seguir, de manera que los fans no tienen motivo para preocuparse: podrán armar su coche de carreras de juguete tan rápido como quieran.
+- No requiere pilas, así que la diversión y la emoción de las carreras no se agotará nunca. ¡Este juguete de acción siempre estará listo para reinar en los circuitos a toda velocidad!
+- Una oportunidad única de poseer una réplica LEGO con detalles de gran realismo del legendario Nissan GT-R NISMO. Es el regalo perfecto para los apasionados de la construcción de juguetes, ¡y de conducirlos en veloces carreras!
+- Los juguetes de construcción LEGO Speed Champions ofrecen a los fans la oportunidad de crear algunos de los modelos más famosos y fascinantes del mundo. Podrán incluso exponer sus coches de carreras u organizar emocionantes competiciones.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07W7TKVVP/?tag=tolees-21)

@@ -28,10 +28,10 @@ With a final price of 89.73 EUR (original: 119.99 EUR) you can find [LEGO STAR W
 
 ℹ️:
 
-- Dieses beeindruckende Bauspielzeug enthält 6 LEGO Minifiguren: Kylo Ren mit seinem Lichtschwert, General Pryde, einen Sith-Truppler, einen Sturmtruppler der Ersten Ordnung und 2 Ritter von Ren
-- Unter anderem weist es klappbare Flügel, ein Cockpit mit Platz für 3 Minifiguren sowie 2 Shooter auf. Mit ausgeklappten Flügeln ist dieses 1.005-teilige Set 35 cm hoch, 21 cm lang, 50 cm breit
-- Kylo Rens Shuttle aus dem fantastischen Star-Wars-Universum der Konstruktionsspielzeuge regt Kinder dazu an, tolle LEGO Abenteuer zu erleben
 - Mit diesem Spielzeug von LEGO Star Wars können Jungen und Mädchen ab 10 Jahren Abenteuer erleben
 - Spiele actiongeladene Szenen aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nach – mit Kylo Rens Shuttle und weiteren tollen Bauspielzeugen von LEGO Star Wars
+- Dieses beeindruckende Bauspielzeug enthält 6 LEGO Minifiguren: Kylo Ren mit seinem Lichtschwert, General Pryde, einen Sith-Truppler, einen Sturmtruppler der Ersten Ordnung und 2 Ritter von Ren
+- Kylo Rens Shuttle aus dem fantastischen Star-Wars-Universum der Konstruktionsspielzeuge regt Kinder dazu an, tolle LEGO Abenteuer zu erleben
+- Unter anderem weist es klappbare Flügel, ein Cockpit mit Platz für 3 Minifiguren sowie 2 Shooter auf. Mit ausgeklappten Flügeln ist dieses 1.005-teilige Set 35 cm hoch, 21 cm lang, 50 cm breit
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21)
