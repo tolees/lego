@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 55.53 % for LEGO 43102 VIDIYO Candy Mermaid BeatBox '
-date: 2021-07-15 12:02:41
+date: 2021-07-17 19:35:29
 image: 'https://m.media-amazon.com/images/I/510Z8lfM0EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4FPPV9/?tag=tolees0a-21'
 descuento: '55.53'
-average: '11.4892207792206'
+average: '11.4008860759492'
 ---
 
 You've got [LEGO 43102 VIDIYO Candy Mermaid BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08G4FPPV9/?tag=tolees0a-21) with a  55.53 % discount, with final price of 8.0 GBP (original: 17.99 GBP) at the following link:
@@ -28,9 +28,9 @@ You've got [LEGO 43102 VIDIYO Candy Mermaid BeatBox Music Video Maker M
 
 ℹ️:
 
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
-- Includes a mermaid minifigure with guitar, 14 random BeatBits, 2 special BeatBits and a scene that allows interactive music video making
 - Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
+- Includes a mermaid minifigure with guitar, 14 random BeatBits, 2 special BeatBits and a scene that allows interactive music video making
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 - Use the app to bring the mermaid to life within an awesome pop music video to share online. See your mermaid rock out on her sweet guitar
 - Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 

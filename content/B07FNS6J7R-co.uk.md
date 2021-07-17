@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '38.57 % deal for LEGO 31088 Creator Deep Sea Creatures: S'
-date: 2021-07-08 19:22:08
-image: 'https://m.media-amazon.com/images/I/518tYdaHmRS._SL500_._SL400_.jpg'
+date: 2021-07-17 19:34:38
+image: 'https://m.media-amazon.com/images/I/51x85-ECijS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNS6J7R/?tag=tolees0a-21'
 descuento: '38.57'
-average: '10.3080952380952'
+average: '10.2539534883721'
 ---
 
 There's a deal [LEGO 31088 Creator Deep Sea Creatures: Shark  Crab and Squid or Angler Fish   3 in 1 Seaside Adventures Building Set  Toys for Kids 7 Years Old and Older](https://www.amazon.co.uk/dp/B07FNS6J7R/?tag=tolees0a-21)  with  38.57 % discount, final price tag of  7.98 GBP (original: 12.99 GBP) here:
 
-[![LEGO 31088 Creator Deep Sea Creatures: S](https://m.media-amazon.com/images/I/518tYdaHmRS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FNS6J7R/?tag=tolees0a-21)
+[![LEGO 31088 Creator Deep Sea Creatures: S](https://m.media-amazon.com/images/I/51x85-ECijS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FNS6J7R/?tag=tolees0a-21)
 
 ℹ️:
 
-- The Deep Sea Creatures set features a scary shark with an opening mouth, pointy teeth, posable fins, movable body joints and reflective eyes.
-- Enjoy an additional build with this set. Building instructions for a whale – available at LEGO.com
 - Check out the Shark’s cool dark-blue and white colour scheme!
+- Enjoy an additional build with this set. Building instructions for a whale – available at LEGO.com
 - Build the shark with crab and treasure, and then rebuild to create aflexible Squid or a giant-mouthed Angler Fish.
 - Enjoy 3 building opportunities with this LEGO Creator 3in1 set!
+- The Deep Sea Creatures set features a scary shark with an opening mouth, pointy teeth, posable fins, movable body joints and reflective eyes.
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07FNS6J7R/?tag=tolees0a-21)
