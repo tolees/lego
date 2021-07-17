@@ -29,9 +29,9 @@ With a final price of 12.99 EUR (original: 23.69 EUR) you can find [LEGO 10767 4
 ℹ️:
 
 - Número de piezas: 120
+- Incluye 2 minifiguras: Woody y Duke Caboom
 - Este fantástico set contiene una rampa decorada con franjas con un espacio para poner los coches y un anillo de fuego ajustable; Además, cuenta con 2 bases de construcción rápida para que tu peque empiece a construir con ladrillos LEGO y a jugar enseguida en un emocionante mundo inspirado en Disney
 - Edad recomendada por el fabricante: 4+
 - Espectáculo Acrobático de Duke Caboom
-- Incluye 2 minifiguras: Woody y Duke Caboom
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07JBQLMBJ/?tag=tolees-21)
