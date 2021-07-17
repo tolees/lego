@@ -30,8 +30,8 @@ You've got [LEGO 10933 DUPLO Town Tower Crane & Construction Vehicle To
 
 - Includes 5 DUPLO figures: a female painter and crane driver, 2 male construction workers and a hotdog guy, plus a cat figure
 - 15 different accessories inspire little builders to play out different scenarios
-- Includes lots of cool features, such as Light and Sound bricks to bring the busy site to life, and the bulldozer’s Push & Go friction motor
 - Features a diverse and treat-packed set with a tower crane and 4 vehicles: big bulldozer, mini bulldozer, dump truck and digger
+- Includes lots of cool features, such as Light and Sound bricks to bring the busy site to life, and the bulldozer’s Push & Go friction motor
 - Kids can deliver supplies, build a tower, clear rubble, and when it’s time for lunch, there’s even an on-site hotdog stand to visit!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21)

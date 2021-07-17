@@ -28,9 +28,9 @@ There's a deal [LEGO 43104 VIDIYO Alien DJ BeatBox Music Video Maker Mu
 
 ℹ️:
 
+- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 - Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
 - Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
-- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 - Use the app to bring the alien DJ to life with extraterrestrial vibes, and glowsticks that leave light trails as the character waves them!
 - Includes an alien DJ minifigure, LP record accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
 
