@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.73 % deal for LEGO 42096 Technic Porsche 911 RSR  Renn'
-date: 2021-07-16 02:23:06
+date: 2021-07-17 02:38:07
 image: 'https://m.media-amazon.com/images/I/51BauBa+aLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21'
 descuento: '24.73'
-average: '115.61160714286'
+average: '115.606237623765'
 ---
 
 There's a deal [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgeschrittene  exklusives Sammlerstück](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21)  with  24.73 % discount, final price tag of  112.9 EUR (original: 149.99 EUR) here:
@@ -29,9 +29,9 @@ There's a deal [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortge
 ℹ️:
 
 - Dieses Spielzeugauto zum Sammeln überzeugt mit einer authentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details; Das Modell egnet sich ideal als Geschenk zum Vatertag oder zu anderen Anlässen
-- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
 - Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle auThentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder und Rücklichter
-- Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
+- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
 - Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
+- Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21)

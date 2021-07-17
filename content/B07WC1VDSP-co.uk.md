@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.22 % deal for LEGO 42108 Technic Mobile Crane Truck To'
-date: 2021-07-16 02:26:49
+date: 2021-07-17 02:41:18
 image: 'https://m.media-amazon.com/images/I/517Ca+AWtGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21'
 descuento: '22.22'
-average: '74.6959649122805'
+average: '74.6856673960611'
 ---
 
 There's a deal [LEGO 42108 Technic Mobile Crane Truck Toy for Kids 10+ Years Old  Construction Vehicles Model Building Set](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)  with  22.22 % discount, final price tag of  69.99 GBP (original: 89.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42108 Technic Mobile Crane Truck Toy for Kids 10+ Years Old
 
 ℹ️:
 
-- Crane operators cabin turns around, hydraulic mechanism lifts the arm 70°, while crane blocks and ropes raise the heavy cargo effortlessly
-- This advanced engineering toy model is a challenge for young fans of construction equipment but still easy to build with instructions
-- To see how a real crane works: put out the outriggers, raise the boom and hoist the concrete pillar, then try to put it precisely down
 - Classic black and yellow design that looks just like the real thing when fans explore what all the different awesome functions can do
+- This advanced engineering toy model is a challenge for young fans of construction equipment but still easy to build with instructions
 - The crane truck toy features 8-wheel steering, 4 individually controlled outriggers, 2 cabins and super-high telescopic arm 30inches (78cm) long!
+- Crane operators cabin turns around, hydraulic mechanism lifts the arm 70°, while crane blocks and ropes raise the heavy cargo effortlessly
+- To see how a real crane works: put out the outriggers, raise the boom and hoist the concrete pillar, then try to put it precisely down
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)
