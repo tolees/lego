@@ -28,9 +28,9 @@ There's a deal [LEGO 42100 Technic Control+ Liebherr R 9800 Excavator Ap
 
 ℹ️:
 
+- Operated via the intuitive CONTROL+ app, powered by 2 Bluetooth-controlled Smart Hubs with 7 (3XL and 4L) motors to enable precise movements
 - One-touch, multi-function control: connect to hubs, ensuring super-precisionvia your smart device with 4 alternative control screens
 - Smart Hubs feature Low Energy (BLE) connectivity, activation button, 6 axis sensor (3 gyro/3 accelerometer sensors) and 4 connectivity ports
-- Operated via the intuitive CONTROL+ app, powered by 2 Bluetooth-controlled Smart Hubs with 7 (3XL and 4L) motors to enable precise movements
 - Drive forward, reverse, steer, rotate the superstructure, extend, raise and lower the boom, open and tilt the bucket and get model feedback
 - Use pre-set commands or record the model’s actions to create complex sequences of movements and complete challenges to unlock reward badges
 
