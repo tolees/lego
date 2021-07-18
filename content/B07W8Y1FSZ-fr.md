@@ -29,9 +29,9 @@ With a final price of 38.49 EUR (original: 54.99 EUR) you can find [LEGO Hidden 
 ℹ️:
 
 - Lexpérience a été enrichie par la mise en place de loption multijoueur Compatible avec plus de 180 systèmes dexploitation et appareils Android - consultez la description du produit pour plus de détails
-- Le modèle de la fête foraine sanime lorsqu’il est observé à travers un dispositif intelligent équipé de l’application gratuite de réalité augmentée LEGO, les enfants peuvent explorer les environs et résoudre des mystères
-- Comprend 5 figurines : Jack, Parker, JB, Jimbo Loblo et Terry Top, plusieurs joueurs peuvent sengager dans des batailles épiques contre Tragico le Clown
 - Contient un modèle numérique interactif de fête foraine avec aux montagnes russes, une tour de chute et dautres éléments mobiles Option pour un seul ou plusieurs joueurs
+- Le modèle de la fête foraine sanime lorsqu’il est observé à travers un dispositif intelligent équipé de l’application gratuite de réalité augmentée LEGO, les enfants peuvent explorer les environs et résoudre des mystères
 - L’expérience de jeu en réalité augmentée (AR) est constamment mise à jour avec de nouveaux contenus, fantômes et événements spéciaux pour assurer un plaisir de jeu infini
+- Comprend 5 figurines : Jack, Parker, JB, Jimbo Loblo et Terry Top, plusieurs joueurs peuvent sengager dans des batailles épiques contre Tragico le Clown
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07W8Y1FSZ/?tag=tolees0d-21)
