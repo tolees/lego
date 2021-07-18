@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 49.92 % for LEGO 41909 DOTS Mermaid Vibes Bracelets '
-date: 2021-07-17 07:38:21
+date: 2021-07-18 11:27:22
 image: 'https://m.media-amazon.com/images/I/51GLURdJBuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QZBSC/?tag=tolees0a-21'
 descuento: '49.92'
-average: '3.36'
+average: '3.3'
 ---
 
 You've got [LEGO 41909 DOTS Mermaid Vibes Bracelets Jewellery Set  Tiles DIY Gifts  Arts and Crafts for Kids](https://www.amazon.co.uk/dp/B0813QZBSC/?tag=tolees0a-21) with a  49.92 % discount, with final price of 3.0 GBP (original: 5.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 41909 DOTS Mermaid Vibes Bracelets Jewellery Set  Tiles
 
 ℹ️:
 
-- This limited edition creative set features 2 adjustable bands and 32 tiles for buddying friends, easy and totally portable fun for all!
 - The flexible bracelets and colourful decorated tiles make a thrilling Christmas, birthday or anytime gift for boys and girls aged 6 and up
+- Any fan of DIY or arts and crafts will love this creative set of 32 tiles decorated with shells and Mermaid tails scales in pastel colours
+- This limited edition creative set features 2 adjustable bands and 32 tiles for buddying friends, easy and totally portable fun for all!
 - Kids can decorate and share the bracelets, following the included pattern ideas or coming up with their own, a very special look
 - Over 7” (20cm) long, the bracelets are perfect for young designers to try new ideas and then share or wear their best version
-- Any fan of DIY or arts and crafts will love this creative set of 32 tiles decorated with shells and Mermaid tails scales in pastel colours
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QZBSC/?tag=tolees0a-21)

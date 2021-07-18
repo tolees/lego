@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 27.79 % for Lego Friends - LEGO 41391 Friends Heartl'
-date: 2021-07-01 07:21:38
+date: 2021-07-18 11:27:22
 image: 'https://m.media-amazon.com/images/I/51xfuuJVwJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Lego Friends'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21'
 descuento: '27.79'
-average: '14.3732258064517'
+average: '14.3300000000001'
 ---
 
 You've got [Lego Friends - LEGO 41391 Friends Heartlake City Hair Salon Playset with Emma Mini Doll  Wigs and Hair Accessories  for 6+ Year Old](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21) with a  27.79 % discount, with final price of 12.99 GBP (original: 17.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [Lego Friends - LEGO 41391 Friends Heartlake City Hair Salon P
 
 ℹ️:
 
-- Wonderfully detailed stations allow kids to see the mini-doll figures progress through the pretend hair salon with an open back access
-- The toy hairdressers feature 2 chairs, one with a hairdryer, a hair-washing sink, cash desk and a separate stand for hairdressers pieces
-- Includes 2 mini-dolls, Emma and the stylist Nina, with detachable heads, the movable upper body part to sit in the chair, and different wigs
 - This hair salon playset accessories also include a coffee machine and a broom, even a hairstyle catalogue, just like a real salon.
+- Includes 2 mini-dolls, Emma and the stylist Nina, with detachable heads, the movable upper body part to sit in the chair, and different wigs
 - Includes accessories stand, scissors, brush, tiara, bow, hand hairdryer, shampoo bottle and hairspray, plus coffee and cookies to serve
+- The toy hairdressers feature 2 chairs, one with a hairdryer, a hair-washing sink, cash desk and a separate stand for hairdressers pieces
+- Wonderfully detailed stations allow kids to see the mini-doll figures progress through the pretend hair salon with an open back access
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21)
