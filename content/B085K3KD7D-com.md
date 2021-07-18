@@ -29,9 +29,9 @@ There's a deal [LEGO DOTS Power Bracelet 41919 DIY Creative Craft Kit for Kids W
 ℹ️:
 
 - The tiles in this kit can be combined with other sets as part of arts and crafts fun; Kids can also use tiles from the LEGO DOTS Extra DOTS - Series 2 (41916) pack to spice up their bracelets with cute new styles
+- With the bracelet measuring over 7inches (20cm) long, this exciting DIY creative kit is perfect for young creatives to practice their designs and then wear their favorite version
 - Any fan of DIY or arts and crafts will love this creative set; The flexible bracelet toy and colorful decorated tiles are a thrilling holiday, birthday or anytime gift for boys and girls aged 6 and up
 - Support your kid’s love of creative DIY with this empowering LEGO DOTS Power Bracelet (41919) kit, featuring an adjustable band and 32 bold and colorful tiles; Play starts with decorating, straight out of the bag
 - Kids can push their design and self-expression skills as they decorate the easy DIY bracelet, following the pattern ideas on the packaging or coming up with their own, unique look
-- With the bracelet measuring over 7inches (20cm) long, this exciting DIY creative kit is perfect for young creatives to practice their designs and then wear their favorite version
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B085K3KD7D/?tag=tolees-20)
