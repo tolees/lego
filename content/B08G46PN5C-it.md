@@ -30,11 +30,11 @@ There's a deal [LEGO NINJAGO Dragone della Giungla  Costruzioni per Bambini 8+ A
 
 - Il set di gioco Dragone della giungla LEGO NINJAGO (71746) include un fantastico dragone snodabile per consentire ai bambini di ricreare le scene della serie TV o di inventare nuove ed emozionanti storie
 - Il set include inoltre una fantastica tavola da surf con vela e una funzione di tiro per stupire i compagni di gioco e aggiungere ancora più opzioni alle battaglie ninja dei bambini
-- Il Dragone della giungla misura 15 cm di altezza, 30 cm di lunghezza e 17 cm di larghezza ed è ottimo da esporre con orgoglio in qualsiasi cameretta tra una battaglia e laltra
-- Cerca altri set NINJAGO ispirati alla serie TV, tra cui Moto della giungla di Lloyd (71745), Il villaggio dei Guardiani (71747) e Battaglia in mare dei catamarani (71748)
-- LEGO NINJAGO offre un’incredibile collezione di fantastici giocattoli perfetti sia per giocare che da esporre e che consentono ai bambini di apprendere competenze di vita positive inventando straordinarie avventure con i loro eroi ninja
-- Questo fantastico set di gioco costruibile è una perfetta idea regalo per il compleanno o per qualsiasi altra occasione per i bambini dagli 8 anni in su che amano i ninja e il divertimento creativo
 - Il dragone giocattolo possiede ali, zampe e coda estremamente snodabili, la mascella che si apre e si chiude e una sella rimovibile per consentire a un ninja di cavalcarlo durante le avventure in battaglia
+- Cerca altri set NINJAGO ispirati alla serie TV, tra cui Moto della giungla di Lloyd (71745), Il villaggio dei Guardiani (71747) e Battaglia in mare dei catamarani (71748)
 - Include 4 minifigure della serie TV LEGO NINJAGO: Lloyd dell’isola, Zane dell’isola, Poul-Erik e Thunder Keeper, tutti dotati di armi straordinarie per aumentare il divertimento in battaglia
+- LEGO NINJAGO offre un’incredibile collezione di fantastici giocattoli perfetti sia per giocare che da esporre e che consentono ai bambini di apprendere competenze di vita positive inventando straordinarie avventure con i loro eroi ninja
+- Il Dragone della giungla misura 15 cm di altezza, 30 cm di lunghezza e 17 cm di larghezza ed è ottimo da esporre con orgoglio in qualsiasi cameretta tra una battaglia e laltra
+- Questo fantastico set di gioco costruibile è una perfetta idea regalo per il compleanno o per qualsiasi altra occasione per i bambini dagli 8 anni in su che amano i ninja e il divertimento creativo
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B08G46PN5C/?tag=tolees00-21)
