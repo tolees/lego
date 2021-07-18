@@ -28,10 +28,10 @@ With a final price of 5.9 EUR (original: 7.99 EUR) you can find [Lego Friends - 
 
 ℹ️:
 
-- Mit baubarer Box in Mias Farben, Mia-Schriftzug als Dekoration und einer baubaren Sandburg
 - Vom Hersteller empfohlenes Alter: 6+
-- Mias sommerliche Herzbox
-- Anzahl der Teile: 85
 - Zum LEGO Friends Zubehör in diesem Set gehören eine Muschel und eine Flagge
+- Anzahl der Teile: 85
+- Mit baubarer Box in Mias Farben, Mia-Schriftzug als Dekoration und einer baubaren Sandburg
+- Mias sommerliche Herzbox
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21)

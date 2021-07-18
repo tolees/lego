@@ -28,10 +28,10 @@ With a final price of 21.0 GBP (original: 27.99 GBP) you can find [LEGO 75299 
 
 ℹ️:
 
-- The set also features a buildable Tusken semi-round hinged hut hideout and spring-loaded, missile-shooting ballista for the Tusken Raider
-- Includes The Mandalorian and Tusken Raider LEGO minifigures, each with weapons for roleplay battles, plus a camp fire, pan and a bone!
-- It comes with illustrated, step-by-step instructions so even LEGO newcomers can build with confidence
 - Features a speeder model with a LEGO minifigure seat and saddlebag for the Child to sit in, from Star Wars: The Mandalorian Season 2 series
+- It comes with illustrated, step-by-step instructions so even LEGO newcomers can build with confidence
+- The set also features a buildable Tusken semi-round hinged hut hideout and spring-loaded, missile-shooting ballista for the Tusken Raider
 - Also includes a cute LEGO figure of The Child - the fan-favorite popular character affectionately known as Baby Yoda
+- Includes The Mandalorian and Tusken Raider LEGO minifigures, each with weapons for roleplay battles, plus a camp fire, pan and a bone!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4D1PBN/?tag=tolees0a-21)
