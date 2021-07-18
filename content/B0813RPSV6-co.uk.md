@@ -28,10 +28,10 @@ You've got [Lego Friends - LEGO 41427 Friends Emma s Fashion Shop Accessor
 
 ℹ️:
 
-- Features a 2-floors doll house with separable fashion shop and removable studio with sewing area and clothes, for 2 players at a time!
+- Check out other LEGO sets: Summer Fun Water Park 41430, Olivias Flower Garden 41425, Heartlake City Park Café 41426 and Beach House 41428
+- Includes 2 buildable Emma and Andrea mini-dolls, a stylish scooter, till, sewing machine, scissors, cash bill, 2 textile skirts and dummies
 - In the tailor’s studio and fashion shop little fashionistas role-play as they build and imagine being a designer making and selling outfits
 - Kids can remove the upstairs studio for easy access to the shop below, or for 2 friends playing at the same time in 1 area each
-- Includes 2 buildable Emma and Andrea mini-dolls, a stylish scooter, till, sewing machine, scissors, cash bill, 2 textile skirts and dummies
-- Check out other LEGO sets: Summer Fun Water Park 41430, Olivias Flower Garden 41425, Heartlake City Park Café 41426 and Beach House 41428
+- Features a 2-floors doll house with separable fashion shop and removable studio with sewing area and clothes, for 2 players at a time!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RPSV6/?tag=tolees0a-21)

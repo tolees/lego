@@ -28,10 +28,10 @@ With a final price of 6.75 GBP (original: 8.99 GBP) you can find [LEGO 60286 C
 
 ℹ️:
 
-- Features a toy ATV with a trailer for transporting the included water scooter, plus a lifeguard minifigure and a shark figure for beach fun
-- The toy ATV that features an opening roll cage and the water scooter can accommodate the lifeguard LEGO minifigure
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- The toy ATV that features an opening roll cage and the water scooter can accommodate the lifeguard LEGO minifigure
 - LEGO accessories in the set include a toy walkie-talkie and binoculars, everything kids needs for hours of creative solo or team rescue play!
 - Kids help the lifeguard patrol the coastal waters powering through the surf and taking care not to harm the shark, before moving to another beach
+- Features a toy ATV with a trailer for transporting the included water scooter, plus a lifeguard minifigure and a shark figure for beach fun
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4SRJ4J/?tag=tolees0a-21)

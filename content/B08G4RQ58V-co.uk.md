@@ -28,10 +28,10 @@ With a final price of 13.5 GBP (original: 17.99 GBP) you can find [LEGO 31114 
 
 ℹ️:
 
-- Look out for other new LEGO Creator 3in1 sets: Cyber Drone 31111, Wild Lion 31112, Race Car Transporter 31113 and Surfer Beach House 31118
-- The classic motorbike also comes with a kickstand so kids can proudly display it after exciting racing adventures
-- The Superbike features moving handlebars, a working suspension and a kickstand, to stage super-fast races around the track or to display
 - Features 3 models in 1: a modern motorbike, a classic motorcycle and a futuristic hoverbike to take to the sky, for a solo or team play
+- The classic motorbike also comes with a kickstand so kids can proudly display it after exciting racing adventures
+- Look out for other new LEGO Creator 3in1 sets: Cyber Drone 31111, Wild Lion 31112, Race Car Transporter 31113 and Surfer Beach House 31118
+- The Superbike features moving handlebars, a working suspension and a kickstand, to stage super-fast races around the track or to display
 - The motorbike toy set makes the ideal reward for kids aged 8 and up who have a real passion for toy motorcycles and creative building
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4RQ58V/?tag=tolees0a-21)
