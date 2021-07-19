@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41430 Friends Wasserpark von Heartl at 24.00 % discount'
-date: 2021-07-18 03:17:13
+date: 2021-07-19 03:47:38
 image: 'https://m.media-amazon.com/images/I/51vr4XE6OlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21'
 descuento: '24.00'
-average: '75.2749140049136'
+average: '75.2766666666663'
 ---
 
 With a final price of 75.99 EUR (original: 99.99 EUR) you can find [LEGO 41430 Friends Wasserpark von Heartlake City Set Spielzeug ab 8 Jahren mit Mini Puppen Emma & Olivia  Konstruktionsspielzeug](https://www.amazon.de/dp/B0813Q7GVY/?tag=tolees0ca-21) with a  24.00 % discount here:
