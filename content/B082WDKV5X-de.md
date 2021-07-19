@@ -30,10 +30,10 @@ You've got [LEGO 43181 Disney Princess Raya und der Herzpalast Spielset 
 
 - Das Modell basiert auf dem neuen Disney Film „Raya und der letzte Drache“. Das Set beinhaltet einen Palast mit 6 Zimmern und 2 Türmen, die Spielfiguren Raya und Namaari sowie Tuk Tuk und Namaaris Serlot als LEGO Figuren.
 - Noch hilfreicher als die gedruckte Bauanleitung sind die digitalen Instructions PLUS in der LEGO Building Instructions App. Jüngere Baumeister können während des Bauens eine digitale Modellansicht vergrößern und näher betrachten.
+- Fans des Disney Films „Raya und der letzte Drache“ werden von den Details und Funktionen dieses Spielzeugs begeistert sein. Diverse Funktionen und Elemente inspirieren Kinder ab 7 Jahren zum Spielen mit diesem angesagten Geschenk.
 - Überrasche ein Kind mit diesem einzigartigen Set. LEGO ǀ Disney Raya und der Herzpalast (43181) enthält jede Menge Zubehör und Funktionen, die Kinder zu fantasievollen Rollenspielen anregen.
-- Der Palast ist 24 cm hoch, 28 cm breit und 16 cm tief. Das detailreiche Modell lässt Kinder wunderbar allein oder zusammen mit Freunden bauen und spielen.
 - Das Modell ist ein tolles Spielzeug und ein echter Hingucker. Kinder können das Modell bauen und fotografieren und das LEGO ǀ Disney Set „Raya und der Herzpalast“ dann in den sozialen Medien teilen!
 - In dem Palast befinden sich eine große Schatztruhe und eine Geheimkammer hinter einer drehbaren Wand. Die Türme in der Mitte und an den Seiten lassen sich aufklappen. Lässt sich mit LEGO ǀ Disney Raya und der Drache Sisu (43184) kombinieren.
-- Fans des Disney Films „Raya und der letzte Drache“ werden von den Details und Funktionen dieses Spielzeugs begeistert sein. Diverse Funktionen und Elemente inspirieren Kinder ab 7 Jahren zum Spielen mit diesem angesagten Geschenk.
+- Der Palast ist 24 cm hoch, 28 cm breit und 16 cm tief. Das detailreiche Modell lässt Kinder wunderbar allein oder zusammen mit Freunden bauen und spielen.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B082WDKV5X/?tag=tolees0ca-21)
