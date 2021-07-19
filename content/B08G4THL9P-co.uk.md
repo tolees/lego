@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.29 % for LEGO 60287 City Great Vehicles Tractor T'
-date: 2021-07-18 08:12:57
+date: 2021-07-19 11:26:45
 image: 'https://m.media-amazon.com/images/I/51-nSMDBeZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21'
 descuento: '33.29'
-average: '12.0992857142857'
+average: '12.0504651162791'
 ---
 
 You've got [LEGO 60287 City Great Vehicles Tractor Toy  Farm Set with Rabbit Figure for 5 Years Old Boys and Girls](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21) with a  33.29 % discount, with final price of 10.0 GBP (original: 14.99 GBP) at the following link:
@@ -30,8 +30,8 @@ You've got [LEGO 60287 City Great Vehicles Tractor Toy  Farm Set with 
 
 - Includes LEGO farmer and daughter minifigures, a rabbit figure, plus 2 hay bales, and a crate of veggie elements for fun farming action
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
-- The red tractors tyres will face no problems driving the crop to the farmer and his daugter, where hungry rabbits await!
 - Features a cool toy tractor with huge rear tyres, a tipping loader bucket, raisable boom and a minifigure cab to accommodate a minifigure
 - Kids can load hay bales and crate with a pumpkin, apple and carrots into the tractor bucket, then raise the boom to lift them into the air
+- The red tractors tyres will face no problems driving the crop to the farmer and his daugter, where hungry rabbits await!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4THL9P/?tag=tolees0a-21)
