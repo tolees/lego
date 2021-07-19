@@ -28,10 +28,10 @@ You've got [LEGO 76159 Super Heroes DC Batman Joker s Trike Chase with�
 
 ℹ️:
 
-- Batmobile has opening cockpit and hood, plus 2 stud shooters at the front, but Jokers 3-wheeler shoots forwards & backwards as well!
-- The Batmobile features a removable  engine that also turbocharges the THE JOKER’s trike with its opening and closing mouth on the front
-- Includes 4 LEGO minifigures: Batman with spreadable cape- wings, Robin with fabric cape, THE JOKER and Harley Quinn with her hammer
-- Whether youngsters are fans of DC Comics, RC cars or Batmobile toys, this LEGO Batman playset is an awesome gift for kids aged 7 and up
 - Features 3 Super-Hero vehicles: a monster 3-wheel trike toy, a mini shooting Batmobile toy car, and Robins motorcycle from the Batman movies
+- Includes 4 LEGO minifigures: Batman with spreadable cape- wings, Robin with fabric cape, THE JOKER and Harley Quinn with her hammer
+- The Batmobile features a removable  engine that also turbocharges the THE JOKER’s trike with its opening and closing mouth on the front
+- Batmobile has opening cockpit and hood, plus 2 stud shooters at the front, but Jokers 3-wheeler shoots forwards & backwards as well!
+- Whether youngsters are fans of DC Comics, RC cars or Batmobile toys, this LEGO Batman playset is an awesome gift for kids aged 7 and up
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RTRJC/?tag=tolees0a-21)
