@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '49.96 % deal for LEGO 43186 Disney Frozen 2 Bruni the Sal'
-date: 2021-07-17 19:35:16
+date: 2021-07-19 07:32:32
 image: 'https://m.media-amazon.com/images/I/51iO9PSO4BS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G56LY1Z/?tag=tolees0a-21'
 descuento: '49.96'
-average: '8.74124999999996'
+average: '8.57999999999996'
 ---
 
 There's a deal [LEGO 43186 Disney Frozen 2 Bruni the Salamander Buildable Character Set](https://www.amazon.co.uk/dp/B08G56LY1Z/?tag=tolees0a-21)  with  49.96 % discount, final price tag of  6.0 GBP (original: 11.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 43186 Disney Frozen 2 Bruni the Salamander Buildabl
 
 ℹ️:
 
-- Bruni, a fire spirit with big eyes and an opening mouth, spreads his flame when tensions rise but cools off with a snowflake on its tongue
 - Features a LEGO buildable salamander figure, a small buildable toy campfire, a snowflake and 2 buildable toy marshmallows on sticks
-- Comes with printed and digital Instructions PLUS! in the LEGO Building Instructions app, for kids to be guided through the building process
 - Portable and ready for fun, Bruni the Salamander stands over 1.5 in./4 cm high and 5.5 in./14 cm long when toasting marshmallows by a fire
+- Comes with printed and digital Instructions PLUS! in the LEGO Building Instructions app, for kids to be guided through the building process
 - This character set helps grow kids’ construction skills and makes a good play addition to any other LEGO ǀ Disney Frozen 2 sets
+- Bruni, a fire spirit with big eyes and an opening mouth, spreads his flame when tensions rise but cools off with a snowflake on its tongue
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G56LY1Z/?tag=tolees0a-21)
