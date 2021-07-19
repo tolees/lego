@@ -28,9 +28,9 @@ You've got [LEGO 60287 City Great Vehicles Tractor Toy  Farm Set with 
 
 ℹ️:
 
-- Includes LEGO farmer and daughter minifigures, a rabbit figure, plus 2 hay bales, and a crate of veggie elements for fun farming action
-- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 - Features a cool toy tractor with huge rear tyres, a tipping loader bucket, raisable boom and a minifigure cab to accommodate a minifigure
+- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- Includes LEGO farmer and daughter minifigures, a rabbit figure, plus 2 hay bales, and a crate of veggie elements for fun farming action
 - Kids can load hay bales and crate with a pumpkin, apple and carrots into the tractor bucket, then raise the boom to lift them into the air
 - The red tractors tyres will face no problems driving the crop to the farmer and his daugter, where hungry rabbits await!
 

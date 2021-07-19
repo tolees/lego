@@ -28,13 +28,13 @@ You've got [LEGO 76180 DC Batman vs. Joker: Verfolgungsjagd im Batmobil  Set mit
 
 ℹ️:
 
-- Dieses LEGO 4+ Set beinhaltet ein Starterelement (das Fahrgestell des Autos) und eine einfache Bauanleitung, um Kindern ab 4 Jahren das Bauen beizubringen und sie Vertrauen in die eigenen kreativen Fähigkeiten entwickeln zu lassen
-- Beinhaltet drei Minifiguren – Batman, Batgirl und Joker – ein baubares Spielzeug-Batmobil, einen knalligen Hot Rod, einen Banktresor und viele authentische Extras
-- Für noch mehr Bauspaß sind in der kostenlosen LEGO Building Instructions App Instructions PLUS verfügbar, die Kinder beim Bauen eine digitale Modellansicht vergrößern, drehen und näher betrachten lassen
-- LEGO 4+ Sets stellen Kindern ab 4 Jahren eine Spielwelt mit beliebten Filmfiguren, TV-Charakteren und Alltagshelden vor, in die sie gerne mit ihren Eltern und anderen Spielpartnern eintauchen
-- Das Batmobil ist 6 cm hoch, 20 cm lang und 7 cm breit. Das Modell ist groß genug für spannende Abenteuer und lässt sich zum Bauen und Spielen wunderbar von kleinen Händen greifen
-- Wenn Joker seinen Hot Rod benutzt, um einen Banktresor voll Geld zu stehlen, helfen Kinder Batman and Batgirl. Sie feuern mit den Waffen des Batmobils, werfen den Batarang und benutzen den Enterhakenwerfer, um den Schurken aufzuhalten
-- Eine einfache Bauanleitung liegt bei. Die Teile sind in separate Beutel verteilt, die jeweils ein Element zum Spielen und eine Figur enthalten, damit sich Kinder immer auf einen Schritt konzentrieren können
 - LEGO DC Batman: Batman vs. The Joker: Verfolgungsjagd im Batmobil (76180) ist ein supercooles Superhelden-Spielset. Das Set fördert das Vorstellungsvermögen und die Fingerfertigkeit und stärkt das Selbstvertrauen von Kindern ab 4 Jahren
+- Dieses LEGO 4+ Set beinhaltet ein Starterelement (das Fahrgestell des Autos) und eine einfache Bauanleitung, um Kindern ab 4 Jahren das Bauen beizubringen und sie Vertrauen in die eigenen kreativen Fähigkeiten entwickeln zu lassen
+- Wenn Joker seinen Hot Rod benutzt, um einen Banktresor voll Geld zu stehlen, helfen Kinder Batman and Batgirl. Sie feuern mit den Waffen des Batmobils, werfen den Batarang und benutzen den Enterhakenwerfer, um den Schurken aufzuhalten
+- Beinhaltet drei Minifiguren – Batman, Batgirl und Joker – ein baubares Spielzeug-Batmobil, einen knalligen Hot Rod, einen Banktresor und viele authentische Extras
+- Eine einfache Bauanleitung liegt bei. Die Teile sind in separate Beutel verteilt, die jeweils ein Element zum Spielen und eine Figur enthalten, damit sich Kinder immer auf einen Schritt konzentrieren können
+- Für noch mehr Bauspaß sind in der kostenlosen LEGO Building Instructions App Instructions PLUS verfügbar, die Kinder beim Bauen eine digitale Modellansicht vergrößern, drehen und näher betrachten lassen
+- Das Batmobil ist 6 cm hoch, 20 cm lang und 7 cm breit. Das Modell ist groß genug für spannende Abenteuer und lässt sich zum Bauen und Spielen wunderbar von kleinen Händen greifen
+- LEGO 4+ Sets stellen Kindern ab 4 Jahren eine Spielwelt mit beliebten Filmfiguren, TV-Charakteren und Alltagshelden vor, in die sie gerne mit ihren Eltern und anderen Spielpartnern eintauchen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4QHPFN/?tag=tolees0ca-21)
