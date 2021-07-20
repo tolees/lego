@@ -28,9 +28,9 @@ With a final price of 34.99 EUR (original: 49.66 EUR) you can find [LEGO City Tu
 
 ℹ️:
 
-- Le guide électronique Instructions PLUS disponible dans lappli gratuite LEGO Life pour appareils intelligents aide les enfants à zoomer, faire pivoter et visualiser le modèle au fur et à mesure de sa construction
 - Les enfants peuvent servir Octan E, de lessence et des snacks au comptoir de cette station-service avec des panneaux solaires pour les véhicules à essence et électriques
 - La borne de chargement et la pompe à essence sont équipées de tuyaux souples pour pouvoir être branchées aux véhicules ; le 4x4 et le camping-car ont des toits amovibles
+- Le guide électronique Instructions PLUS disponible dans lappli gratuite LEGO Life pour appareils intelligents aide les enfants à zoomer, faire pivoter et visualiser le modèle au fur et à mesure de sa construction
 - Le set contient un modèle de station-service avec une boutique, une borne de chargement en Octan E et une pompe à essence, ainsi quun 4x4, un camping-car avec des planches de surf
 - Le set de jeu La station-service contient 4 figurines : un employé de la station-service, une conductrice et de 2 surfeurs, ainsi quun chihuahua
 
