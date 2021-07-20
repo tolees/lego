@@ -28,12 +28,12 @@ You've got [LEGO 43105 VIDIYO Party Llama Beatbox Music Video Maker Musik Spielz
 
 ℹ️:
 
-- Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online mit Freunden in einem sicheren, kinderfreundlichen sozialen Feed
+- Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
 - Mit der kostenlosen LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
-- Dieses Musikspielzeug enthält eine Lama Minifigur mit Maracas als Zubehör, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
+- Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
+- Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online mit Freunden in einem sicheren, kinderfreundlichen sozialen Feed
 - BeatBits-Steine, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
 - Nutze die App, um das Party Lama mit tropischen Melodien zum Leben zu erwecken und füge mit dem tropischen Techno-Effekt bunte LEGO Pflanzen in dein Video ein
-- Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
-- Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
+- Dieses Musikspielzeug enthält eine Lama Minifigur mit Maracas als Zubehör, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G49DCMC/?tag=tolees0ca-21)
