@@ -28,10 +28,10 @@ With a final price of 57.91 GBP (original: 69.99 GBP) you can find [LEGO 75302�
 
 ℹ️:
 
+- The elegant Imperial Shuttle features an opening minifigure cockpit, foldable wings for flight and landing mode, plus 2 stud shooters
+- It comes with easy-to-follow instructions so a Star Wars fan who is a LEGO beginner will soon be building with Jedi-like confidence
 - Includes 3 LEGO minifigures – Darth Vader and Luke Skywalker, both with a lightsaber, and an Imperial Officer with a blaster pistol
 - The shuttles main compartment has an opening with space for 2 LEGO minifigures to play out scenes from the classic Star Wars trilogy
-- The elegant Imperial Shuttle features an opening minifigure cockpit, foldable wings for flight and landing mode, plus 2 stud shooters
 - This action-packed building toy looks awesome on display and also includes a handcuffs accessory element for additional fun, creative play
-- It comes with easy-to-follow instructions so a Star Wars fan who is a LEGO beginner will soon be building with Jedi-like confidence
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4CXG4P/?tag=tolees0a-21)
