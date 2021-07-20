@@ -28,10 +28,10 @@ There's a deal [Lego Architecture - LEGO 21051 Architecture Tokyo Model  Sk
 
 ℹ️:
 
-- The cherry-tree-filled Chidorigafuchi Park, a classic pagoda tower and Shibuya Crossing are also featured in this skyline construction set
-- Together on the baseplate with a ‘Tokyo’ nameplate, they create a compact, impactful, eye-catching display piece to brighten up any room!
 - Vibrant colours and authentic details of its 6 landmarks models will catch the eye of every passerby with decorative blooming cherry trees
+- The cherry-tree-filled Chidorigafuchi Park, a classic pagoda tower and Shibuya Crossing are also featured in this skyline construction set
 - Includes scale models of TOKYO SKYTREE, the world’s tallest freestanding tower, Tokyo Tower, Mode Gakuen Cocoon Tower and Tokyo Big Sight
 - Learn more about Tokyo skyline and the model designer in the booklet (in English) or download other languages at LEGO.com/architecture
+- Together on the baseplate with a ‘Tokyo’ nameplate, they create a compact, impactful, eye-catching display piece to brighten up any room!
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W4KTD3W/?tag=tolees0a-21)
