@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60280 City Fire Ladder Truck Toy wi at 44.41 % discount'
-date: 2021-07-20 19:36:23
+date: 2021-07-21 19:40:51
 image: 'https://m.media-amazon.com/images/I/51PelikJliS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4KJ4W6/?tag=tolees0a-21'
 descuento: '44.41'
-average: '11.2814285714286'
+average: '11.12125'
 ---
 
 With a final price of 10.0 GBP (original: 17.99 GBP) you can find [LEGO 60280 City Fire Ladder Truck Toy with Firefighter Minifigure for 4+ Years Old Boys and Girls](https://www.amazon.co.uk/dp/B08G4KJ4W6/?tag=tolees0a-21) with a  44.41 % discount here:
@@ -28,10 +28,10 @@ With a final price of 10.0 GBP (original: 17.99 GBP) you can find [LEGO 60280 
 
 ℹ️:
 
-- Includes LEGO City Adventures TV series fire chief Freya McCloud and LEGO firefighter minifigures, plus LEGO Starter Brick element
 - Includes a simple 4+ building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
+- Features a toy fire engine with a ladder, extinguisher, stackable flames and a water hydrant, plus accessories: firefighter axe and helmet
 - Kids can raise the extinguisher ladder, stow firefighter tools in the truck’s storage compartment and create stories while saving the day
 - A treat for kids aged 4 and up, this firefighter playset makes a perfect birthday, seasonal or any-other-day gift for fans of LEGO City
-- Features a toy fire engine with a ladder, extinguisher, stackable flames and a water hydrant, plus accessories: firefighter axe and helmet
+- Includes LEGO City Adventures TV series fire chief Freya McCloud and LEGO firefighter minifigures, plus LEGO Starter Brick element
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4KJ4W6/?tag=tolees0a-21)
