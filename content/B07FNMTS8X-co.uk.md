@@ -28,10 +28,10 @@ You've got [LEGO 60210 City Sky Police Air Base Building Set for Kids  Fun Toy P
 
 ℹ️:
 
+- Accessory elements include a coffee machine and mug, PC screen, 2 control tower screens, 3 pairs of handcuffs, 2 walkie-talkies, 3 helmets with opening visors, a police hat and a security camera.
 - Patrol the LEGO City streets from above with the highly detailed 60210 Sky Police Air Base toy set and recreate exciting adventures on land and in the air.
+- Includes 6 LEGO City minifigures: 2 Sky Police officers, 2 police officers and 2 crooks.
 - This fantastic set features a 3-level police station control tower with jetpack storage, office, rotating satellite dish on the roof, attached tool storage and a jail cell with bed and breakaway wall.
 - Also includes a Sky Police airplane toy with removable nose cone and ahatch underneath to launch the included thin, coated cloth parachute, SkyPolice toy jetpack with foldable wings, police motorbike toy and a toygetaway car with chain and hook for the crooks.
-- Accessory elements include a coffee machine and mug, PC screen, 2 control tower screens, 3 pairs of handcuffs, 2 walkie-talkies, 3 helmets with opening visors, a police hat and a security camera.
-- Includes 6 LEGO City minifigures: 2 Sky Police officers, 2 police officers and 2 crooks.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNMTS8X/?tag=tolees0a-21)

@@ -28,10 +28,10 @@ You've got [LEGO 41665 Friends Stephanie’s Cat Cube Series 4 Mini Set  Collect
 
 ℹ️:
 
-- Inside of this portable travel toy, kids will find LEGO Friends Stephanie minidoll and her cat, which comes in 1 surprise colour out of 4
-- Cubes can be stacked or connected to allow kids to create their own mini-world of animal toys, keeping them company while they play
-- The cute cat styling of the cube ensures kids will want to keep this portable toy out on display to decorate their bedroom
-- Includes also a bird and a buildable kitty gym, an adorable just-because gift for kids aged 6+ who love to play with animal toys on the go
 - Kids can split the cube so they can take them to a friend’s home and share - it is the ideal playdate companion thanks to compact dimensions
+- Cubes can be stacked or connected to allow kids to create their own mini-world of animal toys, keeping them company while they play
+- Inside of this portable travel toy, kids will find LEGO Friends Stephanie minidoll and her cat, which comes in 1 surprise colour out of 4
+- Includes also a bird and a buildable kitty gym, an adorable just-because gift for kids aged 6+ who love to play with animal toys on the go
+- The cute cat styling of the cube ensures kids will want to keep this portable toy out on display to decorate their bedroom
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4SCGFQ/?tag=tolees0a-21)
