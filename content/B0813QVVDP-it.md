@@ -28,9 +28,9 @@ You've got [LEGO Hidden Side Sottomarino di J.B.  App per Giochi AR  Playset Mu
 
 ℹ️:
 
-- Comprende un sottomarino colorato con bracci mobili, un propulsore e una cabina apribile per 1 minifigura, nonché un misterioso fondale marino
-- Il kit comprende le minifigure di Vaughn Geist, Parker e della Statua del Male, insieme alla figura dello squalo e ad altri accessori divertenti; il prodotto è adatto ai bambini dai 7 anni in poi
 - Possibilità di esperienza multiplayer; compatibile con i dispositivo 180+ OS e Android – controlla la descrizione del prodotto per maggiori dettagli
+- Il kit comprende le minifigure di Vaughn Geist, Parker e della Statua del Male, insieme alla figura dello squalo e ad altri accessori divertenti; il prodotto è adatto ai bambini dai 7 anni in poi
+- Comprende un sottomarino colorato con bracci mobili, un propulsore e una cabina apribile per 1 minifigura, nonché un misterioso fondale marino
 - I bambini, osservando il mondo interattivo digitale delle profondità marine per mezzo dellapp LEGO AR, potranno combattere i fantasmi e trovare oggetti interessanti
 - La costruzione e il gioco possono iniziare immediatamente, ma per vivere appieno lesperienza digitale è richiesto luso di un tablet/smartphone (non compresi)
 
