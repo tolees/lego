@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 18.86 % for LEGO 21161 Minecraft Die Crafting-Box 3.'
-date: 2021-07-05 12:18:16
+title: 'Discount of 30.00 % for LEGO 21161 Minecraft Die Crafting-Box 3.'
+date: 2021-07-21 08:33:38
 image: 'https://m.media-amazon.com/images/I/518T7QwLn+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,34 @@ author: 'tole.es'
 slug: 'B082BRRY14-de LEGO 21161 Minecraft Die Crafting-Box 3.0 2-in-1 Set...'
 sku: 'B082BRRY14-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 64.9 EUR
+actualPrice: 55.99 EUR
 currency: EUR
-price: 64.9
+price: 55.99
 comparePrice: 79.99 EUR
 prodname: 'LEGO 21161 Minecraft Die Crafting-Box 3.0 2-in-1 Set Schloss oder Farm mit Figuren: Steve  Alex und Creeper'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21'
-descuento: '18.86'
-average: '60.365588235294'
+descuento: '30.00'
+average: '60.2405714285713'
 ---
 
-You've got [LEGO 21161 Minecraft Die Crafting-Box 3.0 2-in-1 Set Schloss oder Farm mit Figuren: Steve  Alex und Creeper](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21) with a  18.86 % discount, with final price of 64.9 EUR (original: 79.99 EUR) at the following link:
+You've got [LEGO 21161 Minecraft Die Crafting-Box 3.0 2-in-1 Set Schloss oder Farm mit Figuren: Steve  Alex und Creeper](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21) with a  30.00 % discount, with final price of 55.99 EUR (original: 79.99 EUR) at the following link:
 
 [![LEGO 21161 Minecraft Die Crafting-Box 3.](https://m.media-amazon.com/images/I/518T7QwLn+S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Die einzelnen Modelle können wieder aufgebaut oder die Landschaft kann neu konfiguriert werden, indem die Modulteile einfach neu positioniert werden
-- Bietet ein Design, das einfach zu ändern ist, mit einfach zu verbindenden Modulteilen, mit 3 alternativen Modellkonfigurationen und Anweisungen
-- Kinder finden hier eine Vielzahl von lustigen Eigenschaften, von einem TNT-Launcher bis zu einer Creeper-Konfrontation, und 3 kleine Grundplatten, um ein einfaches Bauen und Zugreifen zu ermöglichen
-- Enthält 564 Steine und Teile sowie beliebte Charaktere aus dem Spiel: Steve, Alex, Creeper, Schwein und Zombie, um Minecraft-Abenteuer zu spielen
-- Baue ein cooles Schloss, eine geschäftige Farm oder eine fantastische Umgebung wie einen Gemüsegarten, um neue Möglichkeiten zu erkunden, wie man das Spiel im wirklichen Leben spielt
+- LEGO Minecraft Sets bringen die Begeisterung für das Minecraft Onlinespiel und ein aktives Bauerlebnis mit den eigenen Händen unter einen Hut. Detailreiche Modelle, Elemente und Figuren sowie jede Menge toller Funktionen bieten eine völlig neue Dimension des Minecraft Erlebnisses
+- LEGO Bausets erfüllen die höchsten Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets mühelos zusammenstecken und wieder zerlegen lassen – und das schon seit 1958
+- LEGO Steine und Teile werden strengen Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit die Bausets für Kinder den höchsten Sicherheits- und Qualitätsstandards der Welt entsprechen
+- Das LEGO Minecraft Set „Die Crafting-Box 3.0“ ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 8 Jahren. Dieses Bauspielzeug bereitet Kindern ein aktives Minecraft Spielvergnügen, egal ob sie allein oder mit anderen zusammen spielen
+- Gedruckte Bauanleitungen erfüllen ihren Zweck, aber die digitalen Instructions PLUS sind einfach MEGASTARK! Die LEGO Building Instructions App ermöglicht es sogar jungen Baumeistern, die digitalen Ansichten ihrer Modelle zu vergrößern und zu drehen, während sie ihre eigene Minecraft Welt erschaffen
+- Dieses Minecraft Set enthält 564 Steine und Teile, beliebte Figuren aus dem Videospiel – Steve, Alex, ein Schwein und einen Zombie – sowie zahlreiche spannende Funktionen, unter anderem einen TNT-Werfer und eine Begegnung mit einem Creeper!
+- Dieses Minecraft Set zum Bauen und Spielen kommt völlig ohne Batterien aus. Als Antrieb für endlosen Bauspaß reicht die Fantasie der Kinder
+- Die Burg ist 18 cm hoch, 27 cm breit und 26 cm tief, und die Farm ist 16 cm hoch, 26 cm breit und 26 cm tief. Mit diesen Abmessungen bietet das Spielset Minecraft Spaß in einem faszinierenden Maßstab
+- Das Set enthält alles, was Kinder benötigen, um fantasievolle Minecraft Abenteuer in einer coolen Burg, auf einer Farm oder in eigenen tollen Umgebungen zu erleben. Kinder entdecken neue Möglichkeiten, ihr Lieblingsspiel zu spielen
+- Die Crafting-Box 3.0 (21161) lässt Minecraft Fans ihre kreativen Abenteuer in die echte Welt holen. Die Box ist randvoll mit LEGO Minecraft Steinen und bekannten Figuren, die unzählige fantasievolle Spielmöglichkeiten bieten!
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B082BRRY14/?tag=tolees0ca-21)

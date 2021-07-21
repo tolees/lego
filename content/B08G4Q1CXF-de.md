@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 76173 Spider-Man und Ghost Rider vs at 26.56 % discount'
-date: 2021-07-14 20:11:19
-image: 'https://m.media-amazon.com/images/I/51T1ReQ+2YS._SL500_._SL400_.jpg'
+date: 2021-07-21 08:34:55
+image: 'https://m.media-amazon.com/images/I/51Caz8RO5JS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,21 +19,21 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21'
 descuento: '26.56'
-average: '15.2665333333333'
+average: '15.2588157894737'
 ---
 
 With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 76173 Spider-Man und Ghost Rider vs. Carnage mit Spielzeugauto zum Bauen  Marvel Super Heroes Set](https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21) with a  26.56 % discount here:
 
-[![LEGO 76173 Spider-Man und Ghost Rider vs](https://m.media-amazon.com/images/I/51T1ReQ+2YS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21)
+[![LEGO 76173 Spider-Man und Ghost Rider vs](https://m.media-amazon.com/images/I/51Caz8RO5JS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Kinder können die Flammen abnehmen, um das Auto von Ghost Rider in ein schnittiges schwarzes Muscle Car zu verwandeln
+- Für Kinder ab 7 Jahren. Dieses herausragende Set ist das ideale Geburtstags-, Weihnachts- oder Überraschungsgeschenk für junge Superhelden
+- In der kostenlosen LEGO Building Instructions App sind Instructions PLUS zugänglich, die Kinder beim Bauen eine digitale Modellansicht vergrößern und drehen lassen, um noch mehr Bauspaß zu bieten
 - Zu den witzigen Extras zählen Spider-Gwens Skateboard und Netze, Mysterios schimmernder Kuppelhelm sowie Geld als Beute für Doctor Octopus
 - Enthält Spider-Man, Carnage und Ghost Rider als Minifiguren. Ghost Riders schickes robustes Auto verfügt über ein abnehmbares Dach, abnehmbare Flammen und einen 3-schüssigen Shooter im Kompressor, der aus der Motorhaube herausragt
-- In der kostenlosen LEGO Building Instructions App sind Instructions PLUS zugänglich, die Kinder beim Bauen eine digitale Modellansicht vergrößern und drehen lassen, um noch mehr Bauspaß zu bieten
 - Drei klassische Marvel Charaktere und das megastarke Auto von Ghost Rider bieten unzählige Möglichkeiten. Kinder können das Set bauen und als Dekoelement präsentieren und fantasievolle Superheldenabenteuer als Rollenspiele inszenieren
+- Kinder können die Flammen abnehmen, um das Auto von Ghost Rider in ein schnittiges schwarzes Muscle Car zu verwandeln
 - LEGO Marvel Spider-Man: Spider-Man und Ghost Rider vs. Carnage (76173) ist ein hochwertiges Bauset mit 3 legendären Charakteren aus dem Marvel Universum, die unzählige fantasievolle Spielmöglichkeiten bieten
-- Für Kinder ab 7 Jahren. Dieses herausragende Set ist das ideale Geburtstags-, Weihnachts- oder Überraschungsgeschenk für junge Superhelden
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21)
