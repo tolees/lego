@@ -28,11 +28,11 @@ There's a deal [LEGO Creator 3in1 Underwater Robot 31090 Building Kit  207 Piece
 
 ℹ️:
 
-- The Underwater Robot features flexible joints, viewing dome with red robot eye, mechanical-style hands with drill, claw and grabber, and huge feet for traversing the ocean floor in search of gold
 - 207 pieces – For boys and girls aged 7+ and for fans and kids of all ages
-- Build and rebuild 3 models with this 3in1 set. Build the Underwater Robot toy and manta ray, and then rebuild to create a toy Submarine with a manipulator arm, or an Underwater Crane treasure hunt center!
-- This LEGO Creator 3in1 Underwater Robot 31090 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - Underwater Crane measures over 4 inches (12cm) high, 5 inches (13cm) long and 7 inches (18cm) wide
+- Build and rebuild 3 models with this 3in1 set. Build the Underwater Robot toy and manta ray, and then rebuild to create a toy Submarine with a manipulator arm, or an Underwater Crane treasure hunt center!
+- The Underwater Robot features flexible joints, viewing dome with red robot eye, mechanical-style hands with drill, claw and grabber, and huge feet for traversing the ocean floor in search of gold
+- This LEGO Creator 3in1 Underwater Robot 31090 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - Underwater Robot stands over 5 inches (14cm) high manta ray measures over 1 inches (3cm) high, 2 inches (6cm) long and 2 inches (7cm) wide Submarine measures over 3 inches (9cm) high, 6 inches (17cm) long and 5 inches (13cm) wide
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07GX7RNGB/?tag=tolees-20)
