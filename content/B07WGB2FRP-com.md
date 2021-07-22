@@ -28,10 +28,10 @@ You've got [LEGO NINJAGO Gamer’s Market 71708 Ninja Market Building Kit  218 P
 
 ℹ️:
 
-- The market measures over 5” (14 cm) high and 3” (9 cm) wide
-- This LEGO NINJAGO ninja set offers endless build-and-play fun and is a ninja warrior-filled holiday, birthday or anyday gift for kids ages 7+ who love the Prime Empire video game, collecting minifigures and LEGO NINJAGO sets
 - The amazing LEGO NINJAGO Gamers Market comes with 9 exclusive LEGO minifigures from Prime Empire!
-- The amazing Gamers Market is packed with fun details, including stalls offering different ninja hats and battle accessories so that kids can get their 9 minifigures ready for action!
+- This LEGO NINJAGO ninja set offers endless build-and-play fun and is a ninja warrior-filled holiday, birthday or anyday gift for kids ages 7+ who love the Prime Empire video game, collecting minifigures and LEGO NINJAGO sets
+- The market measures over 5” (14 cm) high and 3” (9 cm) wide
 - The building set features 9 minifigures for playing out Prime Empire action, including NINJAGO Digi Jay, Avatar Nya and Avatar Cole, plus exclusive figures of Avatar Pink Zane and Harumi!
+- The amazing Gamers Market is packed with fun details, including stalls offering different ninja hats and battle accessories so that kids can get their 9 minifigures ready for action!
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07WGB2FRP/?tag=tolees-20)

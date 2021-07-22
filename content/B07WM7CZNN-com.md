@@ -28,10 +28,10 @@ There's a deal [LEGO DUPLO Town Bakery 10928 Educational Play Café Toy for Todd
 
 ℹ️:
 
+- The main building measures over 5” (15cm) high, 7” (19cm) wide and 4” (11cm) deep, and combines with other LEGO DUPLO sets to expand kids creative play and learning possibilities
 - At the awesome LEGO DUPLO bakery, kids can help the baker cook with the mixing machine and oven, serve food and toy cakes in the café, then drive the van to deliver cupcakes
 - Toddlers develop fine motor, and social and emotional skills as they build, play, redesign and play again with this busy bakery and cupcake delivery set
 - Boys and girls ages 2+ will love playing out imaginative stories with the LEGO DUPLO Bakery with café and delivery van
-- The main building measures over 5” (15cm) high, 7” (19cm) wide and 4” (11cm) deep, and combines with other LEGO DUPLO sets to expand kids creative play and learning possibilities
 - The awesome LEGO DUPLO bakery and café provides toddlers, parents and caregivers with lots of role-play fun to share together, and is an ideal LEGO starter set, packed with playful learning for kids to enjoy
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07WM7CZNN/?tag=tolees-20)

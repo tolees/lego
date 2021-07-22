@@ -28,10 +28,10 @@ You've got [LEGO Creator 3in1 Sunset Track Racer 31089 Building Kit  221 Pieces 
 
 ℹ️:
 
+- The Sunset Track Racer features aerodynamic bodywork, rounded and tinted windshield, visible rear-mounted engine, large rear spoiler and ground-gripping tires
+- This LEGO Creator 3in1 Sunset Track Racer 31089 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - 221 pieces – For boys and girls aged 7+ and for fans and kids of all ages
 - Build and rebuild 3 models with this 3in1 set. Build the Sunset Track racer and then rebuild for high-speed motor sport action with an open-top Classic Race Car or a powerful LEGO Speed Boat!
 - Sunset Track Racer measures over 1” (5cm) high, 6” (16cm) long and 2” (7cm) wide Classic Race Car measures over 1” (4cm) high, 5” (14cm) long and 2” (7cm) wide Speed Boat measures over 1” (4cm) high, 5” (14cm) long and 2” (7cm) wide
-- The Sunset Track Racer features aerodynamic bodywork, rounded and tinted windshield, visible rear-mounted engine, large rear spoiler and ground-gripping tires
-- This LEGO Creator 3in1 Sunset Track Racer 31089 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07GX8WQZJ/?tag=tolees-20)
