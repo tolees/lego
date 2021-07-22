@@ -28,11 +28,11 @@ With a final price of 16.76 EUR (original: 19.99 EUR) you can find [LEGO Máquin
 
 ℹ️:
 
-- Contiene una detallada Máquina Pisanieves con cabina para una minifigura, techo que se abre, robustas orugas segmentadas y una gran pala delantera, así como un cañón de nieve giratorio de disparo rápido con 6 cargas.
-- Accesorios incluidos: un par de esquís, 2 bastones de esquí y 12 cargas de nieve.
 - Presiona los laterales de la pala para recoger la nieve a medida que avanzas.
+- Accesorios incluidos: un par de esquís, 2 bastones de esquí y 12 cargas de nieve.
 - La Máquina Pisanieves mide más de 10 cm de altura, 18 cm de longitud y 12 cm de ancho.
 - Incluye 2 minifiguras LEGO City: un esquiador y un conductor.
+- Contiene una detallada Máquina Pisanieves con cabina para una minifigura, techo que se abre, robustas orugas segmentadas y una gran pala delantera, así como un cañón de nieve giratorio de disparo rápido con 6 cargas.
 - Mueve el cañón de nieve para orientarlo al lugar correcto y gira el pomo para disparar las cargas de nieve.
 - Sube a la cabina de la Máquina Pisanieves y abre camino a través de la nieve.
 
