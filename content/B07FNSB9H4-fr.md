@@ -28,12 +28,12 @@ There's a deal [LEGO Duel sur la Base Starkiller](https://www.amazon.fr/dp/B07FN
 
 ℹ️:
 
-- Il est possible de faire pivoter les bases pour envoyer Rey et Kylo dans une bataille tournante de sabre laser !
-- L’ensemble de construction LEGO Star Wars mesure plus de 8 cm de haut, 12 cm de large et 9 cm de profondeur.
 - Le jouet de construction Star Wars à collectionner comprend des bases rotatives pour des duels tournants au sabre laser, des arbres qui se renversent (un avec un blaster caché), et des charnières pour recréer une crevasse qui souvre que les personnages doivent éviter.
-- Inclut des figurines de Rey et de Kylo Ren LEGO Star Wars.
-- La figurine de Kylo Ren comprend une décoration pour le torse, la tête et les jambes nouvelle pour avril 2019.
 - Les arbres de la Base Starkiller peuvent sabattre pour révéler le blaster caché.
+- Inclut des figurines de Rey et de Kylo Ren LEGO Star Wars.
 - Les armes incluent le sabre laser bleu de Rey et le sabre laser rouge de Kylo Ren.
+- La figurine de Kylo Ren comprend une décoration pour le torse, la tête et les jambes nouvelle pour avril 2019.
+- L’ensemble de construction LEGO Star Wars mesure plus de 8 cm de haut, 12 cm de large et 9 cm de profondeur.
+- Il est possible de faire pivoter les bases pour envoyer Rey et Kylo dans une bataille tournante de sabre laser !
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B07FNSB9H4/?tag=tolees0d-21)
