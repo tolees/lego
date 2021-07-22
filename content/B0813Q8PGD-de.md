@@ -28,11 +28,11 @@ There's a deal [LEGO 41916 DOTS Armband Ergänzungsset Comic](https://www.amazon
 
 ℹ️:
 
-- Armband Ergänzungsset Comic
-- Fantasievolle Designobjekte! Wenn Kinder die Schmuckstücke und Deko Accessoires aus den unterschiedlichen LEGO DOTS Bastelsets gemäß den enthaltenen Vorlagen mit diesen tollen Steinchen gestalten oder sich coole neue Designs ausdenken, können sie ihrer Fantasie freien Lauf lassen
-- Vom Hersteller nicht mehr verkauft
-- Die Steinchen aus dem „Armband Ergänzungsset Comic“ (41916) eignen sich wunderbar für neue Designs im Zusammenspiel mit anderen LEGO Sets und bieten Kindern kreatives Vergnügen
 - Anzahl der Teile: 109
 - Vom Hersteller empfohlenes Alter: 6+
+- Vom Hersteller nicht mehr verkauft
+- Armband Ergänzungsset Comic
+- Die Steinchen aus dem „Armband Ergänzungsset Comic“ (41916) eignen sich wunderbar für neue Designs im Zusammenspiel mit anderen LEGO Sets und bieten Kindern kreatives Vergnügen
+- Fantasievolle Designobjekte! Wenn Kinder die Schmuckstücke und Deko Accessoires aus den unterschiedlichen LEGO DOTS Bastelsets gemäß den enthaltenen Vorlagen mit diesen tollen Steinchen gestalten oder sich coole neue Designs ausdenken, können sie ihrer Fantasie freien Lauf lassen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B0813Q8PGD/?tag=tolees0ca-21)
