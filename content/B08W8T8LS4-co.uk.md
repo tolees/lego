@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76901 Speed Champions Toyota GR Sup at 24.96 % discount'
-date: 2021-07-21 13:21:31
+date: 2021-07-23 02:38:49
 image: 'https://m.media-amazon.com/images/I/51VJnREgwaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 13.5 GBP (original: 17.99 GBP) you can find [LEGO 76901 Sp
 
 ℹ️:
 
-- Kids and car enthusiasts can explore the makeup of the real-life Toyota GR Supra as they build, before putting their creation on display
 - A perfect playset for boys and girls aged 7 and up and for those with a passion for iconic sports cars
-- Driver minifigure has a Toyota racing suit, safety helmet and wrench, providing plenty of inspiration for imaginative, high-speed play
-- With its wider 8-stud chassis, the collectible model car toy has room for 2 minifigures and lots of authentic detailing
 - Authentically detailed LEGO replica of the legendary Toyota GR Supra, plus racing driver minifigure
+- Driver minifigure has a Toyota racing suit, safety helmet and wrench, providing plenty of inspiration for imaginative, high-speed play
+- Kids and car enthusiasts can explore the makeup of the real-life Toyota GR Supra as they build, before putting their creation on display
+- With its wider 8-stud chassis, the collectible model car toy has room for 2 minifigures and lots of authentic detailing
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08W8T8LS4/?tag=tolees0a-21)
