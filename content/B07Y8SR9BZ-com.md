@@ -28,10 +28,10 @@ You've got [LEGO Star Wars Poe Dameron s X-Wing Fighter 75273 Building Kit  Cool
 
 ℹ️:
 
-- It has loads of play-inspiring features including an opening minifigure cockpit, space for R2-D2, adjustable wings for cruise and attack mode, stud and spring-loaded shooters and retractable landing gear
-- Includes an R2-D2 LEGO droid plus 3 Star Wars character minifigures Poe Dameron, Knight of Ren and Jannah with new-for-January-2020 features, plus blasters, a bowcaster and more
-- Kids can role-play as Resistance hero Poe Dameron and fly into battle with this new-for-January-2020 LEGO Star Wars version of the classic X-wing starfighter from Star Wars: The Rise of Skywalker!
 - The X-wing fighter building toy measures over 3” (8cm) high, 14” (37cm) long and 12” (32cm) wide, so it makes an eye-catching centerpiece to show off to friends when it’s not being flown on Resistance missions!
+- Kids can role-play as Resistance hero Poe Dameron and fly into battle with this new-for-January-2020 LEGO Star Wars version of the classic X-wing starfighter from Star Wars: The Rise of Skywalker!
+- Includes an R2-D2 LEGO droid plus 3 Star Wars character minifigures Poe Dameron, Knight of Ren and Jannah with new-for-January-2020 features, plus blasters, a bowcaster and more
 - This LEGO Star Wars building set sparks imagination, offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 9+ who love Star Wars, LEGO Star Wars and space battle toys
+- It has loads of play-inspiring features including an opening minifigure cockpit, space for R2-D2, adjustable wings for cruise and attack mode, stud and spring-loaded shooters and retractable landing gear
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07Y8SR9BZ/?tag=tolees-20)
