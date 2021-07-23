@@ -28,13 +28,13 @@ With a final price of 6.99 EUR (original: 9.99 EUR) you can find [LEGO La charge
 
 ℹ️:
 
-- La cage de protection se soulève et permet de descencre de la chargeuse après une dure journée travail.
-- Le bras de la chargeuse se soulève pour enlever la clôture après avoir cassé le béton avec le marteau-piqueur.
 - Le godet sur la chargeuse sincline et ramasse le béton cassé pour nettoyer la rue.
+- Le bras de la chargeuse se soulève pour enlever la clôture après avoir cassé le béton avec le marteau-piqueur.
+- Comprend une chargeuse avec un bras frontal qui se lève, un godet basculant et une cage de protection.
 - Les accessoires comprennent un marteau-piqueur et une petite construction comprenant une clôture et un pieu de béton.
 - Comprend une figurine d’ouvrier sur la route LEGO City.
-- La chargeuse mesure plus de 7 cm de haut, 12 cm de long et 5 cm de large.
 - La clôture et le pieu en béton mesurent plus de 4 cm de large.
-- Comprend une chargeuse avec un bras frontal qui se lève, un godet basculant et une cage de protection.
+- La chargeuse mesure plus de 7 cm de haut, 12 cm de long et 5 cm de large.
+- La cage de protection se soulève et permet de descencre de la chargeuse après une dure journée travail.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07FNMXFQ9/?tag=tolees0d-21)

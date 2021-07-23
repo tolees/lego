@@ -28,11 +28,11 @@ With a final price of 13.99 EUR (original: 16.99 EUR) you can find [LEGO Friends
 
 ℹ️:
 
-- Le tracteur mesure plus de 4 cm de haut, 10 cm de long et 5 cm de large.
 - Construisez lécurie de Mia et laissez votre enfant exprimer sa passion pour les animaux.
-- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
-- 118 pièces pour les filles et les garçons de 4 ans et plus.
 - Les ensembles LEGO 4+ sont spécialement conçus pour être amusants et faciles pour les jeunes enfants. Cela permet de les aider à développer leur confiance en eux avec des instructions de montage simples pour une entrée en douceur dans la construction en briques LEGO.
 - Inclut une mini-poupée Mia LEGO Friends, plus 2 figurines de poulain et une figurine de lapin.
+- 118 pièces pour les filles et les garçons de 4 ans et plus.
+- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- Le tracteur mesure plus de 4 cm de haut, 10 cm de long et 5 cm de large.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07FNN12NN/?tag=tolees0d-21)
