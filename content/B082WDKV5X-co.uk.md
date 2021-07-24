@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 17.67 % for LEGO 43181 Disney Princess Raya and the '
-date: 2021-07-23 07:54:34
+date: 2021-07-24 11:32:46
 image: 'https://m.media-amazon.com/images/I/51FgUmVsjgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDKV5X/?tag=tolees0a-21'
 descuento: '17.67'
-average: '48.368'
+average: '48.0109090909091'
 ---
 
 You've got [LEGO 43181 Disney Princess Raya and the Heart Palace Playset  Castle Toy with Namaari Minidoll  Tuk Tuk and Serlot Figures](https://www.amazon.co.uk/dp/B082WDKV5X/?tag=tolees0a-21) with a  17.67 % discount, with final price of 44.44 GBP (original: 53.98 GBP) at the following link:
@@ -29,9 +29,9 @@ You've got [LEGO 43181 Disney Princess Raya and the Heart Palace Playset  Castle
 ℹ️:
 
 - Features an exotic palace based on the new Disney movie Raya and the Last Dragon, with 6 rooms, 2 opening towers and 1 central tower
-- Includes Raya and Namaari mini-doll figures, plus bug-like companion Tuk Tuk and Namaari’s Serlot LEGO figures to enact exciting adventures
-- Fans of Disney’s Raya and the Last Dragon will adore this castle set with its many details and story starters for kids 6+ years old
 - The palace has a revolving wall with a secret room and large treasure chest; the opening central and side towers enable multiple-scene play
 - Accessories include Raya’s conical straw hat, 3 toy swords, plus grapes, ice cream, drinks and fruit
+- Fans of Disney’s Raya and the Last Dragon will adore this castle set with its many details and story starters for kids 6+ years old
+- Includes Raya and Namaari mini-doll figures, plus bug-like companion Tuk Tuk and Namaari’s Serlot LEGO figures to enact exciting adventures
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B082WDKV5X/?tag=tolees0a-21)

@@ -28,10 +28,10 @@ With a final price of 11.9 EUR (original: 29.99 EUR) you can find [Warner Bros I
 
 ℹ️:
 
-- Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
 - Supera 45 misiones cargadas de acción
 - Completa los desafíos y gana recompensas
 - Combate a los enemigos utilizando habilidades y superpoderes como volar, trepar muros y la invisibilidad
 - Utiliza rápidos movimientos de combate y activa supermovimientos como la palmada de trueno de Hulk y la armadura de Iron Man
+- Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B00FKQ4OFG/?tag=tolees-21)
