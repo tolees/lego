@@ -28,12 +28,12 @@ You've got [LEGO 41685 Friends Mundo de Magia: Montaña Rusa  Parque de Atraccio
 
 ℹ️:
 
-- El set de construcción LEGO Friends de un parque de atracciones cuenta con 2 atracciones, un puesto de palomitas de maíz, un fotomatón y una carpa con cubierta de tela que alberga el espectáculo
+- Incluye 4 mini muñecas LEGO con muchos papeles para jugar: pueden comprar palomitas de maíz, jugar a tragar fuego o refrescarse en el baño
 - Compatible con otros juegos LEGO Friends Mundo de Magia: Acrobacias 41686, Mundo de Magia: Puestos de Feria 41687 o Mundo de Magia: Caravana 41688
-- Además, echa un vistazo a la Noria y Tobogán del Mundo de la Magia LEGO (41689)
-- Este juguete para niños y niñas +8 años también cuenta con trucos de magia: una caja hace que desaparezca una mini muñeca y otro acto de desaparición que involucra magia
-- Incluye 4 mini muñecas LEGO con muchos papeles para jugar: pueden comprar palomitas de maíz, jugar a tragar fuego o refrescarse en el baño
-- Incluye 4 mini muñecas LEGO con muchos papeles para jugar: pueden comprar palomitas de maíz, jugar a tragar fuego o refrescarse en el baño
+- El set de construcción LEGO Friends de un parque de atracciones cuenta con 2 atracciones, un puesto de palomitas de maíz, un fotomatón y una carpa con cubierta de tela que alberga el espectáculo
 - Los niños pueden sorprender a sus familiares y amigos realizando trucos de magia, subirse a una montaña rusa repleta de funciones o dar vueltas en una atracción de péndulo
+- Además, echa un vistazo a la Noria y Tobogán del Mundo de la Magia LEGO (41689)
+- Incluye 4 mini muñecas LEGO con muchos papeles para jugar: pueden comprar palomitas de maíz, jugar a tragar fuego o refrescarse en el baño
+- Este juguete para niños y niñas +8 años también cuenta con trucos de magia: una caja hace que desaparezca una mini muñeca y otro acto de desaparición que involucra magia
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08WX4KLK3/?tag=tolees-21)
