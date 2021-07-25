@@ -30,8 +30,8 @@ You've got [LEGO 60206 City Polizei Flugzeugpatrouille  Flugzeugspielzeug  einfa
 
 - Die LEGO 4+ Sets sind einfach zu bauen und bieten jede Menge Spaß. Sie stärken das Selbstbewusstsein von Kindergarten- und Grundschulkindern, indem sie die einfachen Bauschritte ganz allein durchführen können. So gelingt ihnen der ideale Einstieg in die Welt des Bauens mit LEGO Steinen.
 - Enthält ein leicht zu bauendes Polizeiflugzeug mit Cockpit zum Öffnen für die Minifigur, einen Suchscheinwerfer sowie einen speziellen Starter-Stein, mit dem Ihr Kind schnell den Einstieg in das Bauen und Spielen in der Welt von LEGO City findet.
+- Als Zubehör sind 2 Juwelen-Elemente, eine Brechstange und ein Paar Handschellen enthalten.
 - Mit dabei ist ein Mini-Tresor zum Öffnen mit Platz für Beute.
 - Enthält 2 LEGO City Minifiguren: einen Polizeipiloten und einen Räuber.
-- Als Zubehör sind 2 Juwelen-Elemente, eine Brechstange und ein Paar Handschellen enthalten.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNW8PH9/?tag=tolees0ca-21)
