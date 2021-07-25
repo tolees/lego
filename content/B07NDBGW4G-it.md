@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.44 % deal for LEGO Technic Escavatore Liebherr R 9800 '
-date: 2021-07-08 07:26:35
+date: 2021-07-25 04:32:07
 image: 'https://m.media-amazon.com/images/I/51VVXnh1s4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07NDBGW4G/?tag=tolees00-21'
 descuento: '24.44'
-average: '376.251644144145'
+average: '376.842043956046'
 ---
 
 There's a deal [LEGO Technic Escavatore Liebherr R 9800  Set di Costruzioni Avanzato Controllato con App  Motori Interattivi e Connessione Bluetooth  42100](https://www.amazon.it/dp/B07NDBGW4G/?tag=tolees00-21)  with  24.44 % discount, final price tag of  340.0 EUR (original: 449.99 EUR) here:
@@ -28,13 +28,12 @@ There's a deal [LEGO Technic Escavatore Liebherr R 9800  Set di Costruzioni A
 
 ℹ️:
 
-- Include 3 motori XL, 4 motori L e 2 Smart Hub controllati tramite Bluetooth
-- Questo escavatore richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
-- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
-- Lapp consente agli utenti di connettersi a più hub, assicurando movimenti precisi e realistici
-- Questo modello di escavatore è azionabile tramite l’app LEGO TECHNIC CONTROL+ per un’esperienza di gioco realistica e ore di divertimento tramite dispositivo smart con 4 schermate alternative
-- Controllo multifunzione; i costruttori possono guidare in avanti, indietro, sterzare, ruotare la sovrastruttura, sollevare e abbassare il braccio, aprire e inclinare la benna e ottenere feedback
-- Questo giocattolo costruibile LEGO Technic introduce i costruttori LEGO ad elementi di ingegneria
-- Controllo one-touch e movimenti personalizzati: usa i comandi preimpostati o registra le azioni del modello per creare sequenze di movimenti complesse
+- Replica dell’Escavatore Liebherr R 9800 con una gamma di caratteristiche e funzioni realistiche, una fantastica e autentica livrea e incredibili adesivi
+- L’Escavatore Liebherr R 9800 controllato da app LEGO Technic è comandato tramite dispositivo smart con 4 schermate alternative
+- Sfide e successi: Completa le sfide per sbloccare i badge premio
+- Questo modello di escavatore è azionabile tramite l’app LEGO TECHNIC CONTROL+ per un’esperienza di gioco ancora più coinvolgente e realistica e ore e ore di divertimento
+- Visita LEGOcom/devicecheck per un elenco dei dispositivi smart compatibili Controllo multifunzione: I costruttori possono guidare in avanti, indietro, sterzare, ruotare la sovrastruttura, sollevare e abbassare il braccio, aprire e inclinare la benna e ottenere feedback sul modello, come la posizione del braccio e della sovrastruttura, il consumo energetico e la distanza di guida
+- Movimenti personalizzati: Usa i comandi preimpostati o registra le azioni del modello per creare sequenze di movimenti complesse
+- Controllo one-touch: Seleziona una traiettoria di trascinamento sullo schermo e guarda l’escavatore rispondere al comando
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B07NDBGW4G/?tag=tolees00-21)
