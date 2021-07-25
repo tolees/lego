@@ -29,11 +29,11 @@ There's a deal [LEGO Creator Expert-Taj Mahal  detallada maqueta de juguete de u
 ℹ️:
 
 - Interpretación LEGO de una maravilla arquitectónica del mundo real: el Taj Mahal
+- Se divide en 7 secciones modulares para facilitar el transporte
 - Este set incluye más de 5900 elementos LEGO
 - Pon a prueba tus habilidades de construcción con uno de los modelos LEGO más grandes jamás creados
-- Se divide en 7 secciones modulares para facilitar el transporte
-- Elementos especiales incluidos: 6 bases azules 16 x 32, ladrillos blancos con arco 1 x 5 x 4, numerosos elementos transparentes, ladrillos “Erling” y placas con espiga central
-- Comercializado originalmente en 2008, el modelo cuenta con 4 fachadas con arcos y ventanas ojivales; cúpula central, 4 cámaras abovedadas auxiliares y 4 minaretes, todos ellos con remates decorativos; plataforma elevada con arcos embutidos; detalles ornamentales; y un elaborado mosaico alrededor de la base
 - Mide más de 43 cm de altura, 51 cm de ancho y 51 cm de profundidad
+- Comercializado originalmente en 2008, el modelo cuenta con 4 fachadas con arcos y ventanas ojivales; cúpula central, 4 cámaras abovedadas auxiliares y 4 minaretes, todos ellos con remates decorativos; plataforma elevada con arcos embutidos; detalles ornamentales; y un elaborado mosaico alrededor de la base
+- Elementos especiales incluidos: 6 bases azules 16 x 32, ladrillos blancos con arco 1 x 5 x 4, numerosos elementos transparentes, ladrillos “Erling” y placas con espiga central
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B077TZTDF6/?tag=tolees-21)
