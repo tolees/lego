@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 54.50 % for LEGO 41664 Friends Mia’s Pug Cube Series'
-date: 2021-07-23 19:30:03
+date: 2021-07-26 07:50:29
 image: 'https://m.media-amazon.com/images/I/51lOdmkgCeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ You've got [LEGO 41664 Friends Mia’s Pug Cube Series 4 Mini Set  Collectible T
 ℹ️:
 
 - Features a cute, dog-styled portable travel box with a pug toy puppy to look after - small in size, it’s a top gift for fun on the go
-- Includes LEGO Friends Mia minidoll toy, a pug toy in a surprise colour and a buildable cabinet to store the pug’s chew bone and dog biscuit
-- This compact animal pocket-sized portable travel toy allows kids to play wherever they go on their travels with detachable elements inside
-- Only opening the cube reveals the surprise: what mystery colour will the cute puppy hiding inside the smooth yellow travel case be?
 - Thanks to its textile ears and pug face, this pocket-sized portable toy is the perfect gift to add a dash of doggy cuteness to a kid’s desk
+- This compact animal pocket-sized portable travel toy allows kids to play wherever they go on their travels with detachable elements inside
+- Includes LEGO Friends Mia minidoll toy, a pug toy in a surprise colour and a buildable cabinet to store the pug’s chew bone and dog biscuit
+- Only opening the cube reveals the surprise: what mystery colour will the cute puppy hiding inside the smooth yellow travel case be?
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4SJHDQ/?tag=tolees0a-21)
