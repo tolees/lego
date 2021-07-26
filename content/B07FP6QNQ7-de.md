@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.73 % deal for LEGO 42096 Technic Porsche 911 RSR  Renn'
-date: 2021-07-25 04:12:29
+date: 2021-07-26 04:30:24
 image: 'https://m.media-amazon.com/images/I/51QkIotTFOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21'
 descuento: '24.73'
-average: '115.611741682977'
+average: '115.606445312502'
 ---
 
 There's a deal [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgeschrittene  exklusives Sammlerstück](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21)  with  24.73 % discount, final price tag of  112.9 EUR (original: 149.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortge
 
 ℹ️:
 
-- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
-- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
 - Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle auThentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder und Rücklichter
-- Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
+- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
 - Dieses Spielzeugauto zum Sammeln überzeugt mit einer authentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details; Das Modell egnet sich ideal als Geschenk zum Vatertag oder zu anderen Anlässen
+- Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
+- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21)
