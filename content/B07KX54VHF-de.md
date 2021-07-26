@@ -28,10 +28,10 @@ With a final price of 29.2 EUR (original: 39.99 EUR) you can find [LEGO 75957 Ha
 
 ℹ️:
 
-- Enthält zudem ein bewegliches Bett und einen Kronleuchter, der umherwirbelt, wenn der Bus wilde Fahrmanöver ausführt
-- Enthält 3x LEGO Harry Potter Minifiguren: Harry Potter, Stan Shunpike und Ernie Prang
 - Dieser LEGO Dreifachdeckerbus verfügt über eine aufklappbare Seitenwand und ein abnehmbares Dach für maximales Spielvergnügen
-- Der Fahrende Ritter ist 16 cm hoch, 16 cm lang und 6 cm breit
 - Der vorlaute Schrumpfkopf und Harry Potters Truhe mit Zauberstab, Brief, Schokoriegel und einem Zaubertrankflasche sorgen für noch mehr Action und regen zu fantasievollem Spielspaß an
+- Enthält zudem ein bewegliches Bett und einen Kronleuchter, der umherwirbelt, wenn der Bus wilde Fahrmanöver ausführt
+- Der Fahrende Ritter ist 16 cm hoch, 16 cm lang und 6 cm breit
+- Enthält 3x LEGO Harry Potter Minifiguren: Harry Potter, Stan Shunpike und Ernie Prang
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21)

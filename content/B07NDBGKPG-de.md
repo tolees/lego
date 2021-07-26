@@ -28,15 +28,15 @@ With a final price of 29.99 EUR (original: 39.99 EUR) you can find [LEGO 21154 M
 
 ℹ️:
 
-- Als Zubehör sind 3 TNT-Blöcke, 2 Truhen und 4 Golderz-Elemente enthalten.
-- Die Ausrüstungsgegenstände umfassen 2 Spitzhacken und ein Schwert.
-- Sammle deine Schätze in der riesigen Creeper-Statue, zieh am Hebel und befördere die Schätze in die Truhe.
-- Das Set umfasst eine Mine mit Schienen, Lore und 3 Explosionsfunktionen, einen Unterschlupf mit riesiger Creeper-Statue, 2 Creeper-Bannern, Leitern, Bett, Amboss und einem Ofen sowie eine Wüsten- und Tafelbergkulisse mit 2 Schildern, Kaktus und bewässertem Gemüsebeet.
-- Tritt mit deinem Eisen-Schwert gegen den Wüstenzombie an.
-- Mit dem Minecraft-TNT kannst du den Stein sprengen und die blockierten Schienen räumen.
-- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
-- Steig in die Lore und fahr in die LEGO Creeper Goldmine.
 - Das Set enthält mehr als 830 Teile.
+- Das Set umfasst eine Mine mit Schienen, Lore und 3 Explosionsfunktionen, einen Unterschlupf mit riesiger Creeper-Statue, 2 Creeper-Bannern, Leitern, Bett, Amboss und einem Ofen sowie eine Wüsten- und Tafelbergkulisse mit 2 Schildern, Kaktus und bewässertem Gemüsebeet.
+- Steig in die Lore und fahr in die LEGO Creeper Goldmine.
+- Als Zubehör sind 3 TNT-Blöcke, 2 Truhen und 4 Golderz-Elemente enthalten.
+- Tritt mit deinem Eisen-Schwert gegen den Wüstenzombie an.
+- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
+- Die Ausrüstungsgegenstände umfassen 2 Spitzhacken und ein Schwert.
+- Mit dem Minecraft-TNT kannst du den Stein sprengen und die blockierten Schienen räumen.
 - Das Set enthält 3 Minifiguren – Steve, einen Minecraft-Schmied (neu ab August 2019) und einen Wüstenzombie – sowie Creeper-, Kuh- und Fledermausfiguren.
+- Sammle deine Schätze in der riesigen Creeper-Statue, zieh am Hebel und befördere die Schätze in die Truhe.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07NDBGKPG/?tag=tolees0ca-21)

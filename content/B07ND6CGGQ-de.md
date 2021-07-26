@@ -29,14 +29,14 @@ With a final price of 35.99 EUR (original: 49.99 EUR) you can find [LEGO 10899 D
 ℹ️:
 
 - Dieses LEGO Minecraft Spielzeug enthält außerdem zusätzliche LEGO Steine für kreatives Bauvergnügen.
-- Die Farm ist 12 cm hoch, 19 cm breit und 14 cm tief.
 - Dieses LEGO Minecraft Spielset umfasst mehr als 250 Teile.
-- Schnapp dir deine Schere und mach dich auf der Schaffarm an die Arbeit.
-- Baue 1 von 3 Modellen oder deine eigenen Kreationen und verleihe deiner Farm einen persönlichen Touch.
 - Als Zubehör ist unter anderem eine Schere zum Scheren der Schafe enthalten.
-- Enthält eine Steve-Minifigur, eine rote und eine gelbe Schaffigur und eine Lammfigur (neu ab August 2019).
-- Das modulare Design ermöglicht ein schnelles und einfaches Umbauen.
-- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
+- Schnapp dir deine Schere und mach dich auf der Schaffarm an die Arbeit.
 - Das Set beinhaltet eine LEGO Minecraft Farmkulisse mit einer Birke, einem Zaun, einem Bach, Trittsteinen, Getreide, Blumen, 2 gefärbten Minecraft-Schafen und einem Lamm sowie farbige LEGO Steine zum Bauen von einem von 3 tollen Modellen zum Dekorieren der Farm.
+- Die Farm ist 12 cm hoch, 19 cm breit und 14 cm tief.
+- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
+- Das modulare Design ermöglicht ein schnelles und einfaches Umbauen.
+- Baue 1 von 3 Modellen oder deine eigenen Kreationen und verleihe deiner Farm einen persönlichen Touch.
+- Enthält eine Steve-Minifigur, eine rote und eine gelbe Schaffigur und eine Lammfigur (neu ab August 2019).
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)
