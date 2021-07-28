@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 23.34 % for LEGO 75255 Star Wars Yoda Construction S'
-date: 2021-07-26 04:02:03
+date: 2021-07-28 04:11:35
 image: 'https://m.media-amazon.com/images/I/518ZOcwewUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21'
 descuento: '23.34'
-average: '84.3434558823523'
+average: '84.2685609756091'
 ---
 
 You've got [LEGO 75255 Star Wars Yoda Construction Set  Collectable Model with Display Stand  The Attack of the Clones Collection](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21) with a  23.34 % discount, with final price of 68.99 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75255 Star Wars Yoda Construction Set  Collectable Model with D
 
 ℹ️:
 
-- Also features a fact plaque with details about the Jedi master, and a stand for the included Yoda minifigure and Lightsaber to impress any fan
-- Display LEGO Star Wars character Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
 - This version of Jedi Master Yoda, collectible figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any Star Wars collection
-- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
 - This Star Wars: Attack of the Clones collectible makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
+- Display LEGO Star Wars character Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
+- Also features a fact plaque with details about the Jedi master, and a stand for the included Yoda minifigure and Lightsaber to impress any fan
+- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21)
