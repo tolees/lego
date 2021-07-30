@@ -29,8 +29,8 @@ There's a deal [LEGO 60220 City Great Vehicles Garbage Truck Toy with 2 Minifigu
 ℹ️:
 
 - Accessory elements include a garbage can, shovel, broom, banana, fish, small branch and 7 LEGO brick elements.
-- Includes a Starter Brick base thathelps even first-time builders discover the pride of construction on theirown.
 - LEGO 4+ introduces your child to an unlimited world of their everyday heroes and makes an excellent gift.
+- Includes a Starter Brick base thathelps even first-time builders discover the pride of construction on theirown.
 - Features an easy-to-build garbage truck toy with an opening 2-minifigure cab and tilting container .
 - LEGO City Garbage Truck set with simple building steps gives your child a great start to LEGO building and help grow their confidence.
 
