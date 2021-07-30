@@ -28,10 +28,10 @@ You've got [LEGO 41450 Friends Heartlake City Shopping Mall Building Set
 
 ℹ️:
 
-- Includes 6 charatcers: 4 minidolls including Olivia and Emma, micro-doll Henry and baby Sophie plus accessories for a big family day out
+- This 1,032-piece set has multiple playing areas for buddying friends, offering hours of imaginative fun and will make a stunning centrepiece
 - Also features a moving escalator, a slide to connect the second and third floors, a cashpoint, baby-changing station, and a baby pram!
+- Includes 6 charatcers: 4 minidolls including Olivia and Emma, micro-doll Henry and baby Sophie plus accessories for a big family day out
 - Features a 3-floor, 3-wing mall with 5 shops including tech, music, fashion and toys, a photo booth, fashion stand and a food court
 - The stores are stocked with countless accessories, with the 3rd-floor food court offering a bubble-tea stand and a noodle restaurant
-- This 1,032-piece set has multiple playing areas for buddying friends, offering hours of imaginative fun and will make a stunning centrepiece
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4JFB9T/?tag=tolees0a-21)
