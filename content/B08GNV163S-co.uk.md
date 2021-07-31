@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 35.02 % for LEGO 10955 DUPLO My First Animal Train w'
-date: 2021-07-30 08:08:49
+date: 2021-07-31 08:09:53
 image: 'https://m.media-amazon.com/images/I/51ustek2rWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08GNV163S/?tag=tolees0a-21'
 descuento: '35.02'
-average: '12.8041666666665'
+average: '12.8184615384614'
 ---
 
 You've got [LEGO 10955 DUPLO My First Animal Train with Elephant  Tiger  Panda and Giraffe for Toddlers 1 .5 Years Old](https://www.amazon.co.uk/dp/B08GNV163S/?tag=tolees0a-21) with a  35.02 % discount, with final price of 12.99 GBP (original: 19.99 GBP) at the following link:

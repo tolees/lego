@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60288 City Great Vehicles Race Bugg at 33.30 % discount'
-date: 2021-07-30 08:07:33
+date: 2021-07-31 08:12:20
 image: 'https://m.media-amazon.com/images/I/51789+6xYYS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21'
 descuento: '33.30'
-average: '12.0369230769229'
+average: '12.0359999999998'
 ---
 
 With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 60288 City Great Vehicles Race Buggy Transporter  Toy Truck with Trailer and Steerable Baja Race Car](https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21) with a  33.30 % discount here:
@@ -30,8 +30,8 @@ With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 60288 
 
 - The time has arrived to break records... it’s race day! LEGO accessories include a toy race helmet, fire extinguisher, wrench and a hammer
 - High-speed thrills await 2 LEGO driver minifigures as the Baja race buggy can be steered in all directions by tilting it left and right
-- Features a toy SUV off-roader with seats for 2 minifigures and trailer with fold-down ramps for transporting the steerable Baja race buggy
 - Kids can lower the trailer ramps and unload the supercool Baja buggy, then lift the role cage and climb aboard while putting on a safety helmet
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- Features a toy SUV off-roader with seats for 2 minifigures and trailer with fold-down ramps for transporting the steerable Baja race buggy
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21)
