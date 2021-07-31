@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.21 % for LEGO 75255 Star Wars Yoda Construction S'
-date: 2021-07-29 04:17:10
+date: 2021-07-31 04:25:27
 image: 'https://m.media-amazon.com/images/I/518ZOcwewUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21'
 descuento: '22.21'
-average: '84.2338442822378'
+average: '84.1992961165042'
 ---
 
 You've got [LEGO 75255 Star Wars Yoda Construction Set  Collectable Model with Display Stand  The Attack of the Clones Collection](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21) with a  22.21 % discount, with final price of 70.0 GBP (original: 89.99 GBP) at the following link:
@@ -30,8 +30,8 @@ You've got [LEGO 75255 Star Wars Yoda Construction Set  Collectable Model with D
 
 - Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
 - Also features a fact plaque with details about the Jedi master, and a stand for the included Yoda minifigure and Lightsaber to impress any fan
-- Display LEGO Star Wars character Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
 - This Star Wars: Attack of the Clones collectible makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
+- Display LEGO Star Wars character Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
 - This version of Jedi Master Yoda, collectible figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any Star Wars collection
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21)
