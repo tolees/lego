@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.26 % for LEGO 41442 Friends Vet Clinic Rescue Bug'
-date: 2021-07-31 08:12:16
+date: 2021-08-02 15:39:27
 image: 'https://m.media-amazon.com/images/I/51MxSGn9l0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21'
 descuento: '33.26'
-average: '6.54363636363636'
+average: '6.46'
 ---
 
 You've got [LEGO 41442 Friends Vet Clinic Rescue Buggy Quad Bike Toy for Kids 6+ Years Old  with Stephanie and Andrea Minidolls](https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21) with a  33.26 % discount, with final price of 6.0 GBP (original: 8.99 GBP) at the following link:
@@ -31,7 +31,7 @@ You've got [LEGO 41442 Friends Vet Clinic Rescue Buggy Quad Bike Toy f
 - The Vet Clinic Rescue Buggy is compatible with the Vet Clinic Ambulance (41445) and Heartlake City Vet Clinic (41446) for animal-loving kids
 - This animal rescue toy includes 2 LEGO Friends Stephanie and Andrea minidolls, and a new-for-January-2021 puppy figure to play with
 - Kids can race to the aid of an animal in trouble, freeing it from a fallen tree with an all-action quad bike, then play and picnic together
-- Features a cute buildable countryside picnic scene, quad bike toy, and a hinged tree to ‘trap’ the dog, initiating the rescue mission
 - Accessories include a feeding bottle and bone for the dog, walkie-talkie, chain to lift the tree, picnic-cloth tile, sandwich and a mug
+- Features a cute buildable countryside picnic scene, quad bike toy, and a hinged tree to ‘trap’ the dog, initiating the rescue mission
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21)
