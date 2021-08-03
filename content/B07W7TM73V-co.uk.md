@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.55 % for LEGO 60246 City Police Station Building '
-date: 2021-07-31 04:51:25
+date: 2021-08-03 05:05:51
 image: 'https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TM73V/?tag=tolees0a-21'
 descuento: '20.55'
-average: '69.9683253588514'
+average: '69.9756190476188'
 ---
 
 You've got [LEGO 60246 City Police Station Building Set with 2 Truck Toys  Light & Sound Bricks  Drone and Motorbike](https://www.amazon.co.uk/dp/B07W7TM73V/?tag=tolees0a-21) with a  20.55 % discount, with final price of 71.5 GBP (original: 89.99 GBP) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.72 % deal for LEGO 75288 Star Wars AT-AT Walker Toy 40'
-date: 2021-08-01 04:32:14
+date: 2021-08-03 04:36:41
 image: 'https://m.media-amazon.com/images/I/51nUY+23gBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21'
 descuento: '20.72'
-average: '130.130249433105'
+average: '130.043792325055'
 ---
 
 There's a deal [LEGO 75288 Star Wars AT-AT Walker Toy 40th Anniversary Set](https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21)  with  20.72 % discount, final price tag of  110.98 GBP (original: 139.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 75288 Star Wars AT-AT Walker Toy 40th Anniversary Set](http
 
 ℹ️:
 
-- Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
 - The AT-AT vehicle measures over 13” (34cm) high, 14.5” (38cm) long and 5.5” (15cm) wide. Fans can also drive it in the LEGO Star Wars: The Skywalker Saga video game
-- Features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
+- Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
 - There are also foldout panels, a speeder bike, winch, bottom hatch so Luke can throw in the thermal detonator element, and more
+- Features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
 - Detailed LEGO brick version of the iconic AT-AT (75288) Walker - celebrate 40 years of Star Wars with this 40th Anniversary set
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21)
