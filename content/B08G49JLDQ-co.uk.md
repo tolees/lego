@@ -29,9 +29,9 @@ You've got [LEGO 41442 Friends Vet Clinic Rescue Buggy Quad Bike Toy f
 ℹ️:
 
 - Kids can race to the aid of an animal in trouble, freeing it from a fallen tree with an all-action quad bike, then play and picnic together
-- Features a cute buildable countryside picnic scene, quad bike toy, and a hinged tree to ‘trap’ the dog, initiating the rescue mission
-- Accessories include a feeding bottle and bone for the dog, walkie-talkie, chain to lift the tree, picnic-cloth tile, sandwich and a mug
 - The Vet Clinic Rescue Buggy is compatible with the Vet Clinic Ambulance (41445) and Heartlake City Vet Clinic (41446) for animal-loving kids
+- Features a cute buildable countryside picnic scene, quad bike toy, and a hinged tree to ‘trap’ the dog, initiating the rescue mission
 - This animal rescue toy includes 2 LEGO Friends Stephanie and Andrea minidolls, and a new-for-January-2021 puppy figure to play with
+- Accessories include a feeding bottle and bone for the dog, walkie-talkie, chain to lift the tree, picnic-cloth tile, sandwich and a mug
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21)
