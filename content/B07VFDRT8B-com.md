@@ -28,10 +28,10 @@ You've got [LEGO Technic Land Rover Defender 42110 Building Kit  2573 Pieces ](h
 
 ℹ️:
 
-- Developed in partnership with Land Rover, this building toy has working steering, 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension, detailed in-line 6-cylinder engine and a working winch
 - Fans of LEGO Technic sets and Land Rover vehicles will enjoy an immersive and rewarding building experience with this highly authentic LEGO Technic Land Rover Defender replica, packed with realistic features and functions
-- This collectible model of the quintessential 2019 Land Rover Defender really captures the vehicle’s level of refinement with its clean, modern lines and sculpted surfaces, making it a great display piece for the home or office
-- This 2,573-piece LEGO Technic Land Rover Defender 42110 delivers an immersive building experience and makes an ideal Christmas or birthday gift for all aged 11+. Measures over 8-inch (22cm) high, 16-inch (42cm) long and 7-inch (20cm) wide
 - Cabin features a detailed dashboard, working steering wheel, gear section with 2 levers for engaging high or low gear ratios and a selector for changing gear, plus forward-folding seats for visual access to the gearbox
+- Developed in partnership with Land Rover, this building toy has working steering, 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension, detailed in-line 6-cylinder engine and a working winch
+- This 2,573-piece LEGO Technic Land Rover Defender 42110 delivers an immersive building experience and makes an ideal Christmas or birthday gift for all aged 11+. Measures over 8-inch (22cm) high, 16-inch (42cm) long and 7-inch (20cm) wide
+- This collectible model of the quintessential 2019 Land Rover Defender really captures the vehicle’s level of refinement with its clean, modern lines and sculpted surfaces, making it a great display piece for the home or office
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07VFDRT8B/?tag=tolees-20)
