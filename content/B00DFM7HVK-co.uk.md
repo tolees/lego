@@ -29,9 +29,9 @@ With a final price of 169.99 GBP (original: 229.99 GBP) you can find [LEGO 42114
 ℹ️:
 
 - Download the LEGO Technic CONTROL+ app and explore the different control screens, challenges, achievements and exclusive content
-- The truck is powered by 1 large angular position motor, 1 XL motor and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
+- Control the 2,193-piece mighty machine using the app – tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
 - Building can start without batteries however 6 x AA 1.5V batteries (not included) are required to enjoy all the cool features of the truck
 - Build your very own remote-controlled model version of the classic A60H Articulated Hauler from Volvo for epic construction role play
-- Control the 2,193-piece mighty machine using the app – tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
+- The truck is powered by 1 large angular position motor, 1 XL motor and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21)
