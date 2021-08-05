@@ -28,11 +28,11 @@ With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 43177 Di
 
 ℹ️:
 
-- The LEGO Disney Princess buildable toy reveals a complete micro-world to thrill any child as a great Christmas, birthday or anytime gift for kids aged 5+
-- This Beauty and the Beast micro-world travel toy includes the magical rose, a place for Disney’s Belle to sleep, plus a dance floor to recreate the movie scenes
-- If kids feel thirsty, they can pour a cup of tea from the adorable Mrs Potts, should be careful though, Chip giggles when he’s full
-- Comes with 2 detailed micro-doll figures, Disney Princess Belle, and Beast transforming into Prince Adam - play starts when the book opens
-- This travel toy features an opening book with the Beast’s castle in the centre, the outside of the castle on one side and the inside ballroom on the other
 - Also includes Wardrobe, Mrs Potts, Chip and Cogsworth LEGO figures for Disney, plus 2 sticker sheets to personalise the portable case
+- This travel toy features an opening book with the Beast’s castle in the centre, the outside of the castle on one side and the inside ballroom on the other
+- If kids feel thirsty, they can pour a cup of tea from the adorable Mrs Potts, should be careful though, Chip giggles when he’s full
+- This Beauty and the Beast micro-world travel toy includes the magical rose, a place for Disney’s Belle to sleep, plus a dance floor to recreate the movie scenes
+- The LEGO Disney Princess buildable toy reveals a complete micro-world to thrill any child as a great Christmas, birthday or anytime gift for kids aged 5+
+- Comes with 2 detailed micro-doll figures, Disney Princess Belle, and Beast transforming into Prince Adam - play starts when the book opens
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W4KTD62/?tag=tolees0a-21)
