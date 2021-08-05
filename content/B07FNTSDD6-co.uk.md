@@ -28,10 +28,10 @@ With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 10901 
 
 ℹ️:
 
+- Help your little firefighter rush to the rescue with this easy to build Fire Truck.
+- Includes 2 LEGO DUPLO figures: a firefighter and a child, plus a cat figure.
 - Use the modern characters to have fun while role-playing rescue situations and celebrating real-life heroes.
 - Features a fire truck for children with tilting ladder and an opening drawer.
 - Press the button to activate the lights and sounds, and speed to the rescue in this red fire truck toy for toddlers!
-- Includes 2 LEGO DUPLO figures: a firefighter and a child, plus a cat figure.
-- Help your little firefighter rush to the rescue with this easy to build Fire Truck.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07FNTSDD6/?tag=tolees0a-21)
