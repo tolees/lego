@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.30 % for LEGO 42104 Technic Race Truck Toy to Rac'
-date: 2021-07-30 08:03:05
+date: 2021-08-05 11:38:31
 image: 'https://m.media-amazon.com/images/I/51IHLRV8ZgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W5QGW6G/?tag=tolees0a-21'
 descuento: '33.30'
-average: '20.0238461538462'
+average: '19.6324390243902'
 ---
 
 You've got [LEGO 42104 Technic Race Truck Toy to Racing Car 2in1 Model  Pull-Back Motor  Racer Vehicles Collection](https://www.amazon.co.uk/dp/B07W5QGW6G/?tag=tolees0a-21) with a  33.30 % discount, with final price of 12.0 GBP (original: 17.99 GBP) at the following link:
