@@ -28,10 +28,10 @@ You've got [LEGO 41449 Friends Casa Familiar de Andrea Juguete de Construcción 
 
 ℹ️:
 
-- En la cocina, el banco de trabajo se abre para dejar pasar los dedos; el padre de Andrea saca unas magdalenas del horno; mmmm, ¡están deliciosas!
 - Los niños pueden montar un espectáculo musical desde el estudio de música en el garaje, darse un chapuzón en la piscina o preparar una comida en la moderna cocina-comedor
-- Incluye 4 mini muñecas LEGO Friends: Andrea, su amiga Stephanie, Mamá y Papá, y 1 micro muñeca de la hermana Liz de la serie de televisión LEGO Friends
 - Casa de Muñecas diseñado para facilitar el juego, el piso superior es desmontable para que el nivel inferior sea accesible, y la puerta del garaje se levanta
+- En la cocina, el banco de trabajo se abre para dejar pasar los dedos; el padre de Andrea saca unas magdalenas del horno; mmmm, ¡están deliciosas!
+- Incluye 4 mini muñecas LEGO Friends: Andrea, su amiga Stephanie, Mamá y Papá, y 1 micro muñeca de la hermana Liz de la serie de televisión LEGO Friends
 - Asombra a tu pequeña constructora con la Casa de Familiar de Andrea LEGO Friends de 2 plantas; podrá explorar sus fantásticos detalles y representar la vida en familia
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08G4MQQKH/?tag=tolees-21)
