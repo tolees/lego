@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71380 Super Mario Master Your Adven at 38.01 % discount'
-date: 2021-08-05 11:39:12
+date: 2021-08-06 11:41:30
 image: 'https://m.media-amazon.com/images/I/512qlxHSDIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4JYYV1/?tag=tolees0a-21'
 descuento: '38.01'
-average: '31.8313888888891'
+average: '31.8086486486489'
 ---
 
 With a final price of 30.99 GBP (original: 49.99 GBP) you can find [LEGO 71380 Super Mario Master Your Adventure Maker Set  Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B08G4JYYV1/?tag=tolees0a-21) with a  38.01 % discount here:
@@ -29,9 +29,9 @@ With a final price of 30.99 GBP (original: 49.99 GBP) you can find [LEGO 71380�
 ℹ️:
 
 - Features 3 Action Bricks: a Customization Machine to select rewards offered by the Time Block and 2 Item Blocks, plus a sliding platfrom
-- Includes a Special Pipe Dash 30 allowing players to develop new levels - finish the level in 30 seconds to win extra digital coins!
-- Customize LEGO Super Mario Starter Course and Expansion Sets in limitless ways, with this versatile Master Your Adventure Maker Set.
 - Comes with 4 LEGO figures of iconic Super Mario enemies to defeat: Larry, a Goomba, Bob-omb and Koopa Paratroopa
+- Customize LEGO Super Mario Starter Course and Expansion Sets in limitless ways, with this versatile Master Your Adventure Maker Set.
 - Incl. a sliding platform and lots of LEGO elements to build new challenges and trigger different reactions in LEGO Mario (figure not included)
+- Includes a Special Pipe Dash 30 allowing players to develop new levels - finish the level in 30 seconds to win extra digital coins!
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4JYYV1/?tag=tolees0a-21)
