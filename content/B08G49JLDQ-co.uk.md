@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 33.26 % for LEGO 41442 Friends Vet Clinic Rescue Bug'
-date: 2021-08-09 12:00:05
-image: 'https://m.media-amazon.com/images/I/51MxSGn9l0L._SL500_._SL400_.jpg'
+date: 2021-08-10 12:28:24
+image: 'https://m.media-amazon.com/images/I/51msXV8tvBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21'
 descuento: '33.26'
-average: '6.31473684210526'
+average: '6.299'
 ---
 
 You've got [LEGO 41442 Friends Vet Clinic Rescue Buggy Quad Bike Toy for Kids 6+ Years Old  with Stephanie and Andrea Minidolls](https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21) with a  33.26 % discount, with final price of 6.0 GBP (original: 8.99 GBP) at the following link:
 
-[![LEGO 41442 Friends Vet Clinic Rescue Bug](https://m.media-amazon.com/images/I/51MxSGn9l0L._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21)
+[![LEGO 41442 Friends Vet Clinic Rescue Bug](https://m.media-amazon.com/images/I/51msXV8tvBL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21)
 
 ℹ️:
 
-- This animal rescue toy includes 2 LEGO Friends Stephanie and Andrea minidolls, and a new-for-January-2021 puppy figure to play with
-- Accessories include a feeding bottle and bone for the dog, walkie-talkie, chain to lift the tree, picnic-cloth tile, sandwich and a mug
 - Kids can race to the aid of an animal in trouble, freeing it from a fallen tree with an all-action quad bike, then play and picnic together
 - The Vet Clinic Rescue Buggy is compatible with the Vet Clinic Ambulance (41445) and Heartlake City Vet Clinic (41446) for animal-loving kids
 - Features a cute buildable countryside picnic scene, quad bike toy, and a hinged tree to ‘trap’ the dog, initiating the rescue mission
+- Accessories include a feeding bottle and bone for the dog, walkie-talkie, chain to lift the tree, picnic-cloth tile, sandwich and a mug
+- This animal rescue toy includes 2 LEGO Friends Stephanie and Andrea minidolls, and a new-for-January-2021 puppy figure to play with
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21)
