@@ -28,10 +28,10 @@ There's a deal [LEGO 43112 VIDIYO Robo HipHop Car BeatBox Music Video Maker Musi
 
 ℹ️:
 
-- Includes 2 minifigures with toy music accessories, 14 random BeatBits and 2 special BeatBits for the characters to perform on in the videos!
-- The LEGO VIDIYO Robo HipHop Car music video maker set brings minifigures into life in the free LEGO augmented reality app
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
-- Scan the BeatBits in the LEGO app to unlock special effects: adding cool robot sounds to songs or decorating videos with graffiti artwork
 - Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
+- Scan the BeatBits in the LEGO app to unlock special effects: adding cool robot sounds to songs or decorating videos with graffiti artwork
+- The LEGO VIDIYO Robo HipHop Car music video maker set brings minifigures into life in the free LEGO augmented reality app
+- Includes 2 minifigures with toy music accessories, 14 random BeatBits and 2 special BeatBits for the characters to perform on in the videos!
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08WWZFXWP/?tag=tolees0a-21)

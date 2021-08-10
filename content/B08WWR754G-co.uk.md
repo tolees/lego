@@ -28,10 +28,10 @@ You've got [LEGO 43111 VIDIYO Candy Castle Stage BeatBox Music Video Maker Music
 
 ℹ️:
 
-- Includes 2 minifigures with accessories, 14 random BeatBits and 2 special BeatBits that bring the model and minifigures to life in the app
-- Inspire kids with the LEGO VIDIYO Candy Castle Stage music video maker toy allowing them to star in their own shows in an augmented reality app
-- Scan the BeatBits in the app to unlock special effects, like the one that makes carousel horses appear in kids’ music videos
 - Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
+- Inspire kids with the LEGO VIDIYO Candy Castle Stage music video maker toy allowing them to star in their own shows in an augmented reality app
+- Includes 2 minifigures with accessories, 14 random BeatBits and 2 special BeatBits that bring the model and minifigures to life in the app
+- Scan the BeatBits in the app to unlock special effects, like the one that makes carousel horses appear in kids’ music videos
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08WWR754G/?tag=tolees0a-21)
