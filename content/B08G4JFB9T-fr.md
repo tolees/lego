@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Discount of 35.75 % for LEGO 41450 Friends Le Centre Commercial '
-date: 2021-08-09 05:51:24
-image: 'https://m.media-amazon.com/images/I/51STvmrKcuL._SL500_._SL400_.jpg'
+date: 2021-08-10 06:26:29
+image: 'https://m.media-amazon.com/images/I/51uDcketnyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,21 +19,21 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08G4JFB9T/?tag=tolees0d-21'
 descuento: '35.75'
-average: '78.6275'
+average: '77.5207692307692'
 ---
 
 You've got [LEGO 41450 Friends Le Centre Commercial de Heartlake City  Jeu de Construction avec 5 Magasins  4 Minidolls et la Figurine du Bébé](https://www.amazon.fr/dp/B08G4JFB9T/?tag=tolees0d-21) with a  35.75 % discount, with final price of 64.24 EUR (original: 99.99 EUR) at the following link:
 
-[![LEGO 41450 Friends Le Centre Commercial ](https://m.media-amazon.com/images/I/51STvmrKcuL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08G4JFB9T/?tag=tolees0d-21)
+[![LEGO 41450 Friends Le Centre Commercial ](https://m.media-amazon.com/images/I/51uDcketnyS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08G4JFB9T/?tag=tolees0d-21)
 
 ℹ️:
 
 - Le centre commercial compte 5 boutiques reflétant les divers centres d’intérêt des enfants : technologie, mode, musique et jouets. Au 3ème étage se trouve un espace restauration avec un stand de thé aux perles et un restaurant de nouilles.
-- Mesurant plus de 26 cm de haut, 40 cm de large et 16 cm de profondeur, ce jouet interactif de 1 032 pièces attirera tous les regards une fois exposé.
-- Les constructeurs de 8 ans et plus vont adorer faire du shopping et jouer à se promener avec leurs meilleurs amis au centre commercial. Un formidable cadeau pour un anniversaire ou une occasion spéciale.
-- Les enfants découvrent l’univers de LEGO Friends, où tout le monde est bienvenu et où ils font la connaissance de compagnons de jeu qui leur ressemblent.
 - Le centre commercial de Heartlake City LEGO Friends (41450) inclut 6 personnages, dont 4 mini-poupées LEGO Friends, une micro-poupée et un bébé, ainsi que des accessoires pour donner vie au jeu de shopping.
 - Le set regorge de détails soignés, dont un distributeur automatique et un espace à langer, des boutiques remplies d’accessoires réalistes, un escalator mobile et un toboggan pour relier le 2ème et le 3ème étage.
 - Un grand centre commercial doté de boutiques, d’un photomaton, d’un plateau de mode rotatif et d’un espace restauration. Regorge de détails futés pour permettre aux enfants de recréer une journée en famille au centre commercial de Heartlake City.
+- Les constructeurs de 8 ans et plus vont adorer faire du shopping et jouer à se promener avec leurs meilleurs amis au centre commercial. Un formidable cadeau pour un anniversaire ou une occasion spéciale.
+- Mesurant plus de 26 cm de haut, 40 cm de large et 16 cm de profondeur, ce jouet interactif de 1 032 pièces attirera tous les regards une fois exposé.
+- Les enfants découvrent l’univers de LEGO Friends, où tout le monde est bienvenu et où ils font la connaissance de compagnons de jeu qui leur ressemblent.
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B08G4JFB9T/?tag=tolees0d-21)

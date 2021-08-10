@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '18.89 % deal for LEGO 42108 Technic Mobile Crane Truck To'
-date: 2021-08-07 05:43:37
-image: 'https://m.media-amazon.com/images/I/51NbLa+19xL._SL500_._SL400_.jpg'
+date: 2021-08-10 05:57:23
+image: 'https://m.media-amazon.com/images/I/51tc7q8rXOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21'
 descuento: '18.89'
-average: '74.5618644067794'
+average: '74.5552320675103'
 ---
 
 There's a deal [LEGO 42108 Technic Mobile Crane Truck Toy  Construction Vehicles Building Set](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)  with  18.89 % discount, final price tag of  72.99 GBP (original: 89.99 GBP) here:
 
-[![LEGO 42108 Technic Mobile Crane Truck To](https://m.media-amazon.com/images/I/51NbLa+19xL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)
+[![LEGO 42108 Technic Mobile Crane Truck To](https://m.media-amazon.com/images/I/51tc7q8rXOL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07WC1VDSP/?tag=tolees0a-21)
 
 ℹ️:
 
