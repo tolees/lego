@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Warner Bros Interactive Spain  VG  - LEG at 52.10 % discount'
+date: 2021-08-11 21:04:51
+image: 'https://m.media-amazon.com/images/I/51TXLrLsv-S._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B081T7FJR3-es Warner Bros Interactive Spain VG - LEGO Jurassic World -...'
+sku: 'B081T7FJR3-es'
+tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','lego','warner bros interactive spain (vg)', ]
+actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
+comparePrice: 24.95 EUR
+prodname: 'Warner Bros Interactive Spain  VG  - LEGO Jurassic World - Edición Exclusiva Amazon - PlayStation 4'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Warner Bros Interactive Spain (VG)'
+buyurl: 'https://www.amazon.es/dp/B081T7FJR3/?tag=tolees-21'
+descuento: '52.10'
+average: '16.2445454545455'
+---
+
+With a final price of 11.95 EUR (original: 24.95 EUR) you can find [Warner Bros Interactive Spain  VG  - LEGO Jurassic World - Edición Exclusiva Amazon - PlayStation 4](https://www.amazon.es/dp/B081T7FJR3/?tag=tolees-21) with a  52.10 % discount here:
+
+[![Warner Bros Interactive Spain  VG  - LEG](https://m.media-amazon.com/images/I/51TXLrLsv-S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B081T7FJR3/?tag=tolees-21)
+
+ℹ️:
+
+- Rellena y explora la Isla Nublar y la Isla Sorna
+- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- DLC Trilogy Pack #1; busca dinosaurios alrededor de la isla en el Animal Control Vehicle y juega como personajes de franquicia clásicos como Eric y Paul Kirby
+- Personaliza tu propia colección de dinosaurios: colecciona ámbar LEGO y experimenta con ADN para crear originales dinosaurios, como el Dilophosaurus Rex
+- Siembra el caos con dinosaurios LEGO: elije entre 20 dinosaurios, incluyendo el amable Triceratops, el leal Raptor, el salvaje Compy e incluso el T; rex
+- Revive momentos clave de las cuatro películas de Jurassic
+
+[🛒 Buy it!!](https://www.amazon.es/dp/B081T7FJR3/?tag=tolees-21)
