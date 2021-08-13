@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.45 % deal for LEGO City Fire Rescue Helicopter 60281 B'
-date: 2021-08-05 19:59:40
+date: 2021-08-13 14:45:41
 image: 'https://m.media-amazon.com/images/I/51fIiXl4mjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [LEGO City Fire Rescue Helicopter 60281 Building Kit; Firefighter
 
 ℹ️:
 
-- Kids can stack the LEGO flames to create big fires, then shoot the helicopters water cannon elements to put them out and create LEGO City Adventures TV series stories with 3 fun minifigures
-- When built, the fire rescue helicopter toy measures over 3.5 in. (10 cm) high, 10 in. (26 cm) long and 3.5 in. (9 cm) wide
-- A treat for everyday heroes aged 5 and up, this Fire Rescue Helicopter (60281) playset is perfect for kids who love cool firefighting vehicles and for fans of the LEGO City Adventures TV series
 - This set has everything kids need to build a toy helicopter, motorbike, power station setting and LEGO fires, plus 3 minifigures, including Clemmons from the LEGO City Adventures TV series
 - A great gift idea for any occasion, this firefighter playset delivers endless hours of fun for LEGO City fans and kids aged 5 and up who love imaginative play
+- A treat for everyday heroes aged 5 and up, this Fire Rescue Helicopter (60281) playset is perfect for kids who love cool firefighting vehicles and for fans of the LEGO City Adventures TV series
+- When built, the fire rescue helicopter toy measures over 3.5 in. (10 cm) high, 10 in. (26 cm) long and 3.5 in. (9 cm) wide
+- Kids can stack the LEGO flames to create big fires, then shoot the helicopters water cannon elements to put them out and create LEGO City Adventures TV series stories with 3 fun minifigures
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08HW22B2W/?tag=tolees-20)
