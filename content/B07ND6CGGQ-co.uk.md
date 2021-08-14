@@ -28,10 +28,10 @@ With a final price of 32.99 GBP (original: 44.99 GBP) you can find [LEGO 10899 D
 
 ℹ️:
 
-- Help your child improve their fine motor abilities as the building bricks are assembled and re-positioned for endless imaginative play.
-- A special button-operated light brick provides multicoloured illumination for the castle.
 - This Disney Frozen castle toy features a slide, transparent ‘ice’ bricks, plus table, chairs and kitchen equipment.
+- Help your child improve their fine motor abilities as the building bricks are assembled and re-positioned for endless imaginative play.
 - This buildable toys for toddlers is designed to encourage role-play and storytelling to help your child develop language, social and emotional skills.
+- A special button-operated light brick provides multicoloured illumination for the castle.
 - Includes 3 figures: Princess Elsa, Anna and Olaf the Snowman, plus their beautiful dresses addrealistic details.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07ND6CGGQ/?tag=tolees0a-21)
