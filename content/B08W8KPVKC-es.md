@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76186 Marvel Vengadores Dragon Flye at 19.65 % discount'
-date: 2021-08-12 20:00:18
+date: 2021-08-14 00:15:12
 image: 'https://m.media-amazon.com/images/I/51gzLzuc7eS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W8KPVKC/?tag=tolees-21'
 descuento: '19.65'
-average: '17.355'
+average: '17.29'
 ---
 
 With a final price of 15.99 EUR (original: 19.9 EUR) you can find [LEGO 76186 Marvel Vengadores Dragon Flyer de Black Panther  Juguete de Construcción de Avión del Avengers con Superhéroes](https://www.amazon.es/dp/B08W8KPVKC/?tag=tolees-21) with a  19.65 % discount here:
