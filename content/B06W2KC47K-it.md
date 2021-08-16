@@ -28,10 +28,10 @@ With a final price of 140.96 EUR (original: 169.99 EUR) you can find [LEGO 70618
 
 ℹ️:
 
-- Età consigliata dal produttore: 9-14
 - Il Vascello del Destino è dotato di 3 livelli modulari (ponte superiore, dojo di Wu e ponte centrale
-- Vascello del Destino
 - Scafo), un polena con drago a due teste, 3 vele decorate, un festone con lanterne, 2 ancore issabili e abbassabili, maniglia con teschio dei pirati del cielo, 2 barili e 3 casse, camera da letto di Wu con letto per una minifigure e bagno nello scafo, dojo con una pergamena, manichino di addestramento e 3 armi di addestramento e armi nascoste sotto il ponte
 - Numero di pezzi: 2295
+- Vascello del Destino
+- Età consigliata dal produttore: 9-14
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B06W2KC47K/?tag=tolees00-21)

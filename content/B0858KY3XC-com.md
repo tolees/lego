@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.01 % for LEGO Super Mario Boomer Bill Barrage Exp'
-date: 2021-07-22 07:56:38
+date: 2021-08-16 08:29:33
 image: 'https://m.media-amazon.com/images/I/51+roufQONL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ You've got [LEGO Super Mario Boomer Bill Barrage Expansion Set 71366 Building Ki
 
 ℹ️:
 
-- This unique toy playset features a spinning platform for LEGO Mario (figure not included), a spinner with 2 ‘flying Boomer Bill figures, plus a Shy Guy figure and a Super Mushroom to boost the gameplay
-- This 132-piece, creative LEGO toy makes a fun birthday or holiday gift for kids aged 7 and up, inspiring kids to customize their own unique levels to add to their Adventures with Mario Starter Course (71360)
-- Measuring over 4.5” (11.5cm) high, 9” (24cm) wide and 7.5” (20cm) deep in its basic formation, this modular playset can be rebuilt and combined with the Starter Course and other Expansion Sets in many ways
-- Players place LEGO Mario (figure not included) on the platforms studded end or the smooth end for added difficulty to see how many times can they spin LEGO Mario without him falling or being knocked off by the Boomer Bills
-- Kids will love the fast-spinning, coin-collecting challenge they can create with this Boomer Bill Barrage Expansion Set (71366), bringing extra action to their LEGO Super Mario Adventures with Mario Starter Course
+- LEGO Super Mario fans can take on a fast-spinning challenge with this Boomer Bill Barrage Expansion Set (71366). A great gift for kids to add to their LEGO Super Mario Starter Course (71360), this collectible toy playset features a spinner with 2 ‘flying Boomer Bill figures and a rotating platform with 2 difficulty levels (with or without studs). An enemy Shy Guy figure and a Super Mushroom boost the gameplay options. The free LEGO Super Mario app has intuitive Instructions PLUS, featuring cool
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B0858KY3XC/?tag=tolees-20)
