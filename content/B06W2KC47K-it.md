@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70618 THE LEGO NINJAGO Movie Vascel at 17.08 % discount'
-date: 2021-08-15 06:45:05
+date: 2021-08-16 06:54:41
 image: 'https://m.media-amazon.com/images/I/61np1Aaqs3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B06W2KC47K/?tag=tolees00-21'
 descuento: '17.08'
-average: '260.271213114755'
+average: '259.881307189543'
 ---
 
 With a final price of 140.96 EUR (original: 169.99 EUR) you can find [LEGO 70618 THE LEGO NINJAGO Movie Vascello del Destino  Ritirato dal Produttore ](https://www.amazon.it/dp/B06W2KC47K/?tag=tolees00-21) with a  17.08 % discount here:
@@ -28,10 +28,10 @@ With a final price of 140.96 EUR (original: 169.99 EUR) you can find [LEGO 70618
 
 ℹ️:
 
+- Età consigliata dal produttore: 9-14
+- Il Vascello del Destino è dotato di 3 livelli modulari (ponte superiore, dojo di Wu e ponte centrale
 - Vascello del Destino
 - Scafo), un polena con drago a due teste, 3 vele decorate, un festone con lanterne, 2 ancore issabili e abbassabili, maniglia con teschio dei pirati del cielo, 2 barili e 3 casse, camera da letto di Wu con letto per una minifigure e bagno nello scafo, dojo con una pergamena, manichino di addestramento e 3 armi di addestramento e armi nascoste sotto il ponte
 - Numero di pezzi: 2295
-- Il Vascello del Destino è dotato di 3 livelli modulari (ponte superiore, dojo di Wu e ponte centrale
-- Età consigliata dal produttore: 9-14
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B06W2KC47K/?tag=tolees00-21)
