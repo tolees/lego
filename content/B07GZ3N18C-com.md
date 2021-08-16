@@ -28,10 +28,10 @@ With a final price of 29.99 USD (original: 39.99 USD) you can find [LEGO Technic
 
 ℹ️:
 
+- LEGO Technic 2-in-1 Set: Can be converted into a concept plane. The rescue helicopter measures 12 cm high, 29 cm long and 23 cm wide. The concept aircraft measures 7 cm high, 27 cm long and 30 cm wide.
 - This easy to build set is ideal for budding LEGO Technic builders. LEGO Technic sets are characterised by realistic movement and mechanisms that introduce young LEGO builders into the world of technology in a clear and realistic way.
 - Open the side doors and let the winch down with the rescue carrier. This LEGO Technic toy helicopter is designed to provide an engaging and rewarding building experience.
 - Recall the super-cool LEGO Technic 2-in-1 rescue helicopter (42092). It has many realistic functions and features, such as rotating rotors, opening sides and rear doors, a really working winch and a rescue carrier.
-- LEGO Technic 2-in-1 Set: Can be converted into a concept plane. The rescue helicopter measures 12 cm high, 29 cm long and 23 cm wide. The concept aircraft measures 7 cm high, 27 cm long and 30 cm wide.
 - Includes rotating rotors, opening sides and rear doors, a working winch and a rescue carrier. Has a cool colour pattern in red, white and black.
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07GZ3N18C/?tag=tolees-20)
