@@ -28,10 +28,10 @@ There's a deal [LEGO 21160 Minecraft The Illager Raid Village Building Set with 
 
 ℹ️:
 
-- Features 3 Minecraft locations: a flat-roof desert house, trading post and a field with crops to be defended against ravaging Illagers!
-- Accessories include a sword, axe, 2 bows, plants and Illagers standard, a chest with an opening lid, plus the cat has a posable tail!
+- Illagers are on the rampage, led by the Pillager Captain, with him is a Vindicator and a Ravager, whose mouth snaps open and shut
 - Includes 2 Villagers, 2 new-for-January-2020 Illagers, Kai, Pig and Cat figures, plus a big, biting Ravager, which the Illagers can ride
 - The trading post building has a detachable roof for fun to continue indoors, there are blue ponds and decorated tiles in the village
-- Illagers are on the rampage, led by the Pillager Captain, with him is a Vindicator and a Ravager, whose mouth snaps open and shut
+- Accessories include a sword, axe, 2 bows, plants and Illagers standard, a chest with an opening lid, plus the cat has a posable tail!
+- Features 3 Minecraft locations: a flat-roof desert house, trading post and a field with crops to be defended against ravaging Illagers!
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W8YJBM2/?tag=tolees0a-21)
