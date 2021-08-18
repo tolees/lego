@@ -28,11 +28,11 @@ With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 10950 D
 
 ℹ️:
 
-- Beim Transportieren des Heuballens und dem Füttern der Schafe entwickeln Kleinkinder feinmotorische Fähigkeiten und sozial-emotionale Kompetenz
-- Beinhaltet einen Traktor, eine Karre, zwei Schafe sowie einen Bauern und ein Kind. Ein baubarer Baum, Bauernhofwerkzeuge und ein Heuballen sind ebenfalls enthalten
-- Die Bauanleitung beinhaltet eine lustige Bildergeschichte mit Modellen aus dem Set. Das Vergnügen beschränkt sich also nicht nur auf kreatives Bauen und fantasievolles Spielen
-- Der Traktor ist 15 cm lang und der Baum ist 11 cm hoch. Das Set bietet viele Spielmöglichkeiten und lässt sich vielseitig mit allen LEGO DUPLO Bauernhof-Spielzeugen kombinieren
 - Tolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Kinder ab 2 Jahren, die Traktoren und Tiere lieben und gerne kreativ spielen
+- Beim Transportieren des Heuballens und dem Füttern der Schafe entwickeln Kleinkinder feinmotorische Fähigkeiten und sozial-emotionale Kompetenz
+- Der Traktor ist 15 cm lang und der Baum ist 11 cm hoch. Das Set bietet viele Spielmöglichkeiten und lässt sich vielseitig mit allen LEGO DUPLO Bauernhof-Spielzeugen kombinieren
+- Beinhaltet einen Traktor, eine Karre, zwei Schafe sowie einen Bauern und ein Kind. Ein baubarer Baum, Bauernhofwerkzeuge und ein Heuballen sind ebenfalls enthalten
 - Das LEGO DUPLO Spielset „Traktor und Tierpflege“ (10950) lässt Kleinkinder fantasievoll spielen und spielerisch lernen. Kinder, die Fahrzeuge und Tiere lieben, können den Traktor fahren und die Schafe füttern
+- Die Bauanleitung beinhaltet eine lustige Bildergeschichte mit Modellen aus dem Set. Das Vergnügen beschränkt sich also nicht nur auf kreatives Bauen und fantasievolles Spielen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08GP2TFJD/?tag=tolees0ca-21)

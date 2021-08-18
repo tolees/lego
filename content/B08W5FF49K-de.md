@@ -28,11 +28,11 @@ There's a deal [LEGO 41441 Friends Trainingskoppel und Pferdeanhänger  Spielzeu
 
 ℹ️:
 
-- Dieses kreative Spielzeug für Mädchen und Jungen ab 4 Jahre wird auch mit 2 Startbausteinen geliefert, die eine teilweise konstruierte Basis für das Auto und die Ställe bieten
 - Dieses LEGO Friends Pferde Spielzeug für Kinder ab 4 Jahren enthält außerdem Stallungen zum Unterstellen der Pferde und eine Mistgabel zum Reinigen der Ställe
 - Mit dabei sind zwei LEGO Friends Mini-Puppen Emma und Stephanie im Reitoutfit, plus Zubehör: ein Apfel und eine Karotte zum Füttern der Pferde
-- Enthalten sind eine Pferde Figur mit beweglichem Kopf, eine Fohlen Figur, ein Auto mit Anhänger und Stallungen, so dass es viele Möglichkeiten zum Spielen gibt
 - Das LEGO Friends Pferdestall Spielzeug wird mit Putzzeug, Hindernissen und Trainingszügel geliefert, mit dem Kinder dem Pferd beibringen können, an der Longe zu laufen
 - Dank einfacher Bildanleitungen der Instructions PLUS und in der kostenlosen LEGO App gibt es keine Barriere beim Bauen, auch nicht für Kinder, die gerade erst lesen lernen
+- Enthalten sind eine Pferde Figur mit beweglichem Kopf, eine Fohlen Figur, ein Auto mit Anhänger und Stallungen, so dass es viele Möglichkeiten zum Spielen gibt
+- Dieses kreative Spielzeug für Mädchen und Jungen ab 4 Jahre wird auch mit 2 Startbausteinen geliefert, die eine teilweise konstruierte Basis für das Auto und die Ställe bieten
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08W5FF49K/?tag=tolees0ca-21)
