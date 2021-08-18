@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 10950 DUPLO Traktor und Tierpflege  at 29.91 % discount'
-date: 2021-07-26 08:28:49
+title: 'LEGO 10950 DUPLO Traktor und Tierpflege  at 26.56 % discount'
+date: 2021-08-18 08:35:26
 image: 'https://m.media-amazon.com/images/I/51qiWxmuF5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08GP2TFJD-de LEGO 10950 DUPLO Traktor und Tierpflege Kleinkinder...'
 sku: 'B08GP2TFJD-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 14.01 EUR
+actualPrice: 14.68 EUR
 currency: EUR
-price: 14.01
+price: 14.68
 comparePrice: 19.99 EUR
 prodname: 'LEGO 10950 DUPLO Traktor und Tierpflege Kleinkinder Spielzeug ab 2 Jahren  Bauernhof  Spielset mit Bauern und Schafen Figuren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08GP2TFJD/?tag=tolees0ca-21'
-descuento: '29.91'
-average: '14.6500000000001'
+descuento: '26.56'
+average: '14.6527272727274'
 ---
 
-With a final price of 14.01 EUR (original: 19.99 EUR) you can find [LEGO 10950 DUPLO Traktor und Tierpflege Kleinkinder Spielzeug ab 2 Jahren  Bauernhof  Spielset mit Bauern und Schafen Figuren](https://www.amazon.de/dp/B08GP2TFJD/?tag=tolees0ca-21) with a  29.91 % discount here:
+With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 10950 DUPLO Traktor und Tierpflege Kleinkinder Spielzeug ab 2 Jahren  Bauernhof  Spielset mit Bauern und Schafen Figuren](https://www.amazon.de/dp/B08GP2TFJD/?tag=tolees0ca-21) with a  26.56 % discount here:
 
 [![LEGO 10950 DUPLO Traktor und Tierpflege ](https://m.media-amazon.com/images/I/51qiWxmuF5L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08GP2TFJD/?tag=tolees0ca-21)
 

@@ -28,10 +28,10 @@ With a final price of 7.2 GBP (original: 8.99 GBP) you can find [LEGO 60251 City
 
 ℹ️:
 
-- Kids can show their driving skills with fantastic sliding turns, immense thrilling jumps and amazing landings with this sturdy truck model
-- With its cool fanged-monster bodywork stickers and orange-purple colours kids will love to put this colourful Monster Truck toy on display
 - This truck toy features big, chunky tyres, colourful fanged-monster decoration, and    room behind the steering wheel for the driver minifigure
 - Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 - Includes 1 driver minifigure to power the monster truck over the terrain at lightning speed - ideal toy for fans of high-speed action
+- Kids can show their driving skills with fantastic sliding turns, immense thrilling jumps and amazing landings with this sturdy truck model
+- With its cool fanged-monster bodywork stickers and orange-purple colours kids will love to put this colourful Monster Truck toy on display
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07WLMSVCJ/?tag=tolees0a-21)
