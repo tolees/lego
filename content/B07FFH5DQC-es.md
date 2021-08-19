@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 25.13 % for Warner Bros Interactive Spain - Lego DC '
-date: 2021-07-28 09:14:06
+title: 'Discount of 17.18 % for Warner Bros Interactive Spain - Lego DC '
+date: 2021-08-19 08:42:04
 image: 'https://m.media-amazon.com/images/I/51dUj1VlxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,26 +12,26 @@ tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9
-comparePrice: 19.9 EUR
+comparePrice: 17.99 EUR
 prodname: 'Warner Bros Interactive Spain - Lego DC Super-Villans Nintendo Switch  Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21'
-descuento: '25.13'
-average: '18.707'
+descuento: '17.18'
+average: '18.0725'
 ---
 
-You've got [Warner Bros Interactive Spain - Lego DC Super-Villans Nintendo Switch  Edición Estándar](https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21) with a  25.13 % discount, with final price of 14.9 EUR (original: 19.9 EUR) at the following link:
+You've got [Warner Bros Interactive Spain - Lego DC Super-Villans Nintendo Switch  Edición Estándar](https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21) with a  17.18 % discount, with final price of 14.9 EUR (original: 17.99 EUR) at the following link:
 
 [![Warner Bros Interactive Spain - Lego DC ](https://m.media-amazon.com/images/I/51dUj1VlxCL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21)
 
 ℹ️:
 
-- Los jugadores lucharán contra oponentes, resolverán puzles y superarán obstáculos usando amenazadoras bromas y tácticas.
-- Tus amigos y familiares pueden unirse a tu partida en cualquier momento gracias a la experiencia local cooperativa para dos jugadores.
 - Hay nuevos lugares por explorar.
+- Los jugadores lucharán contra oponentes, resolverán puzles y superarán obstáculos usando amenazadoras bromas y tácticas.
 - Los jugadores deben combatir el mal con el mal - tanto si se trata de hacer pintadas por la ciudad o usar toxinas del miedo para aterrorizar a los personajes que haya cerca y darles un susto, los supervillanos tienen barra libre para usar cualquier truco de su arsenal y detener el malvado plan del Sindicato de la Justicia.
+- Tus amigos y familiares pueden unirse a tu partida en cualquier momento gracias a la experiencia local cooperativa para dos jugadores.
 - Los eventos centrales, diferentes para héroes y villanos, permiten a los jugadores realizar misiones junto a otros villanos o acabar con los malos en misiones de héroes.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21)
