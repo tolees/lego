@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.22 % for LEGO 75255 Star Wars Yoda Construction S'
-date: 2021-08-16 06:04:59
+date: 2021-08-20 06:25:08
 image: 'https://m.media-amazon.com/images/I/518ZOcwewUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21'
 descuento: '22.22'
-average: '83.7971933962259'
+average: '83.7001873536294'
 ---
 
 You've got [LEGO 75255 Star Wars Yoda Construction Set  Collectable Model with Display Stand  The Attack of the Clones Collection](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21) with a  22.22 % discount, with final price of 69.99 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75255 Star Wars Yoda Construction Set  Collectable Model with D
 
 ℹ️:
 
-- This Star Wars: Attack of the Clones collectible makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
-- Display LEGO Star Wars character Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
-- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
-- Also features a fact plaque with details about the Jedi master, and a stand for the included Yoda minifigure and Lightsaber to impress any fan
 - This version of Jedi Master Yoda, collectible figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any Star Wars collection
+- Display LEGO Star Wars character Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
+- This Star Wars: Attack of the Clones collectible makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
+- Also features a fact plaque with details about the Jedi master, and a stand for the included Yoda minifigure and Lightsaber to impress any fan
+- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21)
