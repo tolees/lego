@@ -28,12 +28,12 @@ With a final price of 24.69 EUR (original: 29.99 EUR) you can find [LEGO 60226 C
 
 ℹ️:
 
-- Descarga la LEGO Life en las respectivas tiendas de apps de los dispositivos iOS o Android. Pide permiso a tus padres antes de conectarte a Internet.
-- Este set de construcción para niños contiene una lanzadera científica espacial con cabina abatible, 2 grandes compuertas que se abren y espacio dentro para el dron de carga, un róver de Marte basado en los vehículos que usa la NASA, con brazo articulado con función de sujeción (novedad en junio de 2019), paneles solares inclinables y láser, un dron de carga con compartimento que se abre, ¡y un dron explorador con hélice giratoria y escáner para escanear un símbolo secreto descubierto en Marte!
-- La lanzadera científica mide más de 9 cm de altura, 23 cm de longitud y 21 cm de ancho.
-- Este divertido juguete de construcción es un fantástico regalo para niños.
 - Accesorios incluidos: un casco con visor azul, un traje de actividad extravehicular con visor dorado, un escáner y 2 geodas con cristales azules (novedad en junio de 2019).
-- Incluye 2 minifiguras LEGO City de astronautas.
+- Descarga la LEGO Life en las respectivas tiendas de apps de los dispositivos iOS o Android. Pide permiso a tus padres antes de conectarte a Internet.
 - Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a los constructores más pequeños a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
+- Este set de construcción para niños contiene una lanzadera científica espacial con cabina abatible, 2 grandes compuertas que se abren y espacio dentro para el dron de carga, un róver de Marte basado en los vehículos que usa la NASA, con brazo articulado con función de sujeción (novedad en junio de 2019), paneles solares inclinables y láser, un dron de carga con compartimento que se abre, ¡y un dron explorador con hélice giratoria y escáner para escanear un símbolo secreto descubierto en Marte!
+- Este divertido juguete de construcción es un fantástico regalo para niños.
+- Incluye 2 minifiguras LEGO City de astronautas.
+- La lanzadera científica mide más de 9 cm de altura, 23 cm de longitud y 21 cm de ancho.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07KTVJHPF/?tag=tolees-21)
