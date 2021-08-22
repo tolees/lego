@@ -28,10 +28,10 @@ You've got [LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker Mus
 
 ℹ️:
 
-- Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 - Use the app to bring the party llama to life with tropical tunes, and the tropical techno effect adding colourful LEGO plants to your video
 - Includes a llama minifigure with maracas accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
+- Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
 - Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G49DCMC/?tag=tolees0a-21)

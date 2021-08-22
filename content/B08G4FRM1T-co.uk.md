@@ -28,9 +28,9 @@ With a final price of 8.99 GBP (original: 17.99 GBP) you can find [LEGO 43107 
 
 ℹ️:
 
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
-- Includes a robot minifigure, microphone accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
 - Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
+- Includes a robot minifigure, microphone accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 - Use the app to bring the robot to life with an awesome hip-hop music video to share online, and use the bling effect to make minifigures gold
 - Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
 
