@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Hidden Side 70418 J.B.’s Geisterlab at 25.01 % discount'
-date: 2021-08-04 12:11:29
+date: 2021-08-23 08:44:30
 image: 'https://m.media-amazon.com/images/I/51hqlv1NSSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CGGP/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '14.2401694915254'
+average: '14.2526666666666'
 ---
 
 With a final price of 14.99 EUR (original: 19.99 EUR) you can find [LEGO Hidden Side 70418 J.B.’s Geisterlabor  Spielzeug für Kinder mit Augmented Reality Funktionen](https://www.amazon.de/dp/B07ND6CGGP/?tag=tolees0ca-21) with a  25.01 % discount here:
@@ -28,10 +28,10 @@ With a final price of 14.99 EUR (original: 19.99 EUR) you can find [LEGO Hidden 
 
 ℹ️:
 
+- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
 - Lade die LEGO Hidden Side App herunter und richte dein Smartphone auf J.B.s Geisterlabor, um das LEGO Modell zum Leben zu erwecken und die Tür zur Hidden Side zu öffnen.
 - LEGO Hidden Side spielt in der fiktiven Stadt Newbury, in der Menschen und Häuser von Geistern besessen sind. Kinder können mit dem Spielset aufregende Geisterjagd-Abenteuer erleben.
-- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält 3 Minifiguren: Jack Davids, J.B. und Douglas Elton sowie Jacks Geisterhund Spencer für das actionreiche Rollenspiel-Abenteuer
-- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
 - Das Spielset „J.B.’s Geisterlabor“ umfasst ein cooles Labor, das von einem verrückten Wissenschaftler inspiriert wurde, mit einer „Tesla-betriebenen“ Kammer, um die Geister loszuwerden.
+- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält 3 Minifiguren: Jack Davids, J.B. und Douglas Elton sowie Jacks Geisterhund Spencer für das actionreiche Rollenspiel-Abenteuer
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CGGP/?tag=tolees0ca-21)
