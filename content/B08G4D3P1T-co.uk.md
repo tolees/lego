@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60281 City Fire Rescue Helicopter T at 39.98 % discount'
-date: 2021-08-22 15:32:21
+date: 2021-08-23 15:42:06
 image: 'https://m.media-amazon.com/images/I/51QgiJg6YoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4D3P1T/?tag=tolees0a-21'
 descuento: '39.98'
-average: '16.1437999999999'
+average: '16.1213725490195'
 ---
 
 With a final price of 15.0 GBP (original: 24.99 GBP) you can find [LEGO 60281 City Fire Rescue Helicopter Toy with Motorbike  Firefighter and Pilot Minifigures](https://www.amazon.co.uk/dp/B08G4D3P1T/?tag=tolees0a-21) with a  39.98 % discount here:
@@ -28,10 +28,10 @@ With a final price of 15.0 GBP (original: 24.99 GBP) you can find [LEGO 60281 
 
 ℹ️:
 
-- LEGO accessories include a stretcher (stored in the helicopter’s cargo hold), firefighter helmet, wrench and a safety helmet
-- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
-- Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
 - Includes 3 minifigures: a plants worker, firefighter helicopter pilot and the LEGO City Adventures TV series hero Clemmons
 - Kids can stack the flames to create big fires, then shoot the helicopter’s water cannon elements to put them out at the top of the tower!
+- Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
+- LEGO accessories include a stretcher (stored in the helicopter’s cargo hold), firefighter helmet, wrench and a safety helmet
+- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4D3P1T/?tag=tolees0a-21)

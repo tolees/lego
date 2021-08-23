@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 46.41 % for LEGO 41445 Friends Vet Clinic Ambulance '
-date: 2021-08-22 15:32:32
+date: 2021-08-23 15:42:05
 image: 'https://m.media-amazon.com/images/I/51uZ2DRHeOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4DRGBQ/?tag=tolees0a-21'
 descuento: '46.41'
-average: '17.7166666666664'
+average: '17.6367647058821'
 ---
 
 You've got [LEGO 41445 Friends Vet Clinic Ambulance Toy Car  Animal Rescue Playset with Olivia and Emma Minidolls](https://www.amazon.co.uk/dp/B08G4DRGBQ/?tag=tolees0a-21) with a  46.41 % discount, with final price of 15.0 GBP (original: 27.99 GBP) at the following link:
@@ -29,9 +29,9 @@ You've got [LEGO 41445 Friends Vet Clinic Ambulance Toy Car  Animal Res
 ℹ️:
 
 - The ambulance toy car has a side-hinged panel to reach in to play and lots of vet’s kit, such as a stethoscope, x-ray, ice pack and otoscope
-- This LEGO Friends animal rescue toy includes 2 minidolls Olivia and Emma, a toy mother cat and her kitten, plus a toy rabbit figure
-- The Vet Clinic Ambulance toy contains a cute, brick-built tree house and rescue vehicle to spark animal-saving storytelling and teamwork play
-- Winding and spinning rapid functions add to the excitement and help give this great-value holiday or birthday gift for kids a big-toy feel
 - Accessories include a basket to scoop the kitten from the rapids with a lifting mechanism, a carrot to feed the rabbit and printed bricks
+- This LEGO Friends animal rescue toy includes 2 minidolls Olivia and Emma, a toy mother cat and her kitten, plus a toy rabbit figure
+- Winding and spinning rapid functions add to the excitement and help give this great-value holiday or birthday gift for kids a big-toy feel
+- The Vet Clinic Ambulance toy contains a cute, brick-built tree house and rescue vehicle to spark animal-saving storytelling and teamwork play
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4DRGBQ/?tag=tolees0a-21)
