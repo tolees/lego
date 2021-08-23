@@ -28,10 +28,10 @@ You've got [LEGO 21152 Minecraft The Pirate Ship Adventure Building Kit]
 
 ℹ️:
 
-- Weapons include a sword and accessory elements include a map, TNT, fire element base, 2 shovels, chest, treasure, pirate banner, water bottle, torch and a compass.
-- Fire the cannons to ward off the hostile mobs and protect the turtle’s eggs from the zombie attack.
-- This LEGO Minecraft Pirate Ship Adventure set comes with 2 minifigures: a pirate and Alex, plus a Minecraft zombie and, new-for-January-2019 Minecraft dolphin, parrot and turtle figures.
 - Build a pirate ship toy with working flick-missile cannons, gold detailing, pirate banner, gangplank and rowboat, plus a host of Minecraft mobs—all in a LEGO Minecraft skull island setting!
 - Move the modular ship sections to create a Minecraft shipwreck.
+- Fire the cannons to ward off the hostile mobs and protect the turtle’s eggs from the zombie attack.
+- This LEGO Minecraft Pirate Ship Adventure set comes with 2 minifigures: a pirate and Alex, plus a Minecraft zombie and, new-for-January-2019 Minecraft dolphin, parrot and turtle figures.
+- Weapons include a sword and accessory elements include a map, TNT, fire element base, 2 shovels, chest, treasure, pirate banner, water bottle, torch and a compass.
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNT8XC3/?tag=tolees0a-21)
