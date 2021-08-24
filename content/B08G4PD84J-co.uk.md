@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.00 % for LEGO 10274 Creator Expert Ghostbusters E'
-date: 2021-08-09 07:31:55
+date: 2021-08-24 07:43:12
 image: 'https://m.media-amazon.com/images/I/51AMNfhYQ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4PD84J/?tag=tolees0a-21'
 descuento: '25.00'
-average: '165.362272727275'
+average: '164.687333333336'
 ---
 
 You've got [LEGO 10274 Creator Expert Ghostbusters ECTO-1 Car Large Set for Adults  Collectible Model for Display](https://www.amazon.co.uk/dp/B08G4PD84J/?tag=tolees0a-21) with a  25.00 % discount, with final price of 134.99 GBP (original: 179.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 10274 Creator Expert Ghostbusters ECTO-1 Car Large Set�
 
 ℹ️:
 
-- This buildable classic car model is a stunning replica of the iconic ECTO-1, based on the 1959 Cadillac Miller-Meteor Futura Duplex
-- The movie model car boasts Ghostbusters paranormal detection equipment, with individual details explained in the collectors guide
+- A delight for adult Ghostbusters: Afterlife fans, including the Proton Pack which swivels out of a side panel to trap ghouls and ghosts
 - The car features spookily good details: working steering, a trapdoor with ghost trap, an extending gunner seat, plus a moving ghost sniffer
 - Check out the scissor seat mechanism that extends and rotates the rear seat, and other intriguing elements attached in unique ways
-- A delight for adult Ghostbusters: Afterlife fans, including the Proton Pack which swivels out of a side panel to trap ghouls and ghosts
+- The movie model car boasts Ghostbusters paranormal detection equipment, with individual details explained in the collectors guide
+- This buildable classic car model is a stunning replica of the iconic ECTO-1, based on the 1959 Cadillac Miller-Meteor Futura Duplex
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4PD84J/?tag=tolees0a-21)

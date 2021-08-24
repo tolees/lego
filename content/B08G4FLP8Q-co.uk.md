@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '55.51 % deal for LEGO 60285 City Great Vehicles Sports Ca'
-date: 2021-08-09 12:00:46
-image: 'https://m.media-amazon.com/images/I/51302T9-z9S._SL500_._SL400_.jpg'
+date: 2021-08-24 07:43:31
+image: 'https://m.media-amazon.com/images/I/51QgWlnXCjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,14 +24,14 @@ average: '4.0'
 
 There's a deal [LEGO 60285 City Great Vehicles Sports Car Toy with Removable Roof  Racing Cars Building Sets](https://www.amazon.co.uk/dp/B08G4FLP8Q/?tag=tolees0a-21)  with  55.51 % discount, final price tag of  4.0 GBP (original: 8.99 GBP) here:
 
-[![LEGO 60285 City Great Vehicles Sports Ca](https://m.media-amazon.com/images/I/51302T9-z9S._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4FLP8Q/?tag=tolees0a-21)
+[![LEGO 60285 City Great Vehicles Sports Ca](https://m.media-amazon.com/images/I/51QgWlnXCjL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4FLP8Q/?tag=tolees0a-21)
 
 ℹ️:
 
-- Supercool design, aerodynamic shape, authentic details and its stellar blue finish will turbo-charge kids’ creative foot-to-the-floor role-play
-- In comes with a detailed tinted cockpit with room behind the steering wheel for the driver and a removable roof for open-top driving
-- It includes LEGO driver minifigure and makes a great seasonal, birthday or any-other-day surprise gift for kids who love cool cars
 - Features a sports car with an eye-catching bodywork, an adjustable rear toy spoiler and sporty black rims with ground-gripping tires
 - Children aged 5+ can zoom, rotate and visualise as they build with Instructions PLUS on the LEGO Building Instructions app
+- It includes LEGO driver minifigure and makes a great seasonal, birthday or any-other-day surprise gift for kids who love cool cars
+- Supercool design, aerodynamic shape, authentic details and its stellar blue finish will turbo-charge kids’ creative foot-to-the-floor role-play
+- In comes with a detailed tinted cockpit with room behind the steering wheel for the driver and a removable roof for open-top driving
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4FLP8Q/?tag=tolees0a-21)
