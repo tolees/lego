@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.57 % deal for LEGO 41443 Friends Olivia s Electric Car'
-date: 2021-08-23 15:41:57
+date: 2021-08-24 16:01:21
 image: 'https://m.media-amazon.com/images/I/51Qkf+Kc-2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4BMD2K/?tag=tolees0a-21'
 descuento: '38.57'
-average: '8.184'
+average: '8.17615384615384'
 ---
 
 There's a deal [LEGO 41443 Friends Olivia s Electric Car Toy  Eco Education Playset for Kids 6](https://www.amazon.co.uk/dp/B08G4BMD2K/?tag=tolees0a-21)  with  38.57 % discount, final price tag of  7.98 GBP (original: 12.99 GBP) here:
