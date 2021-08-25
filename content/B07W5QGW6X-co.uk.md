@@ -28,9 +28,9 @@ You've got [LEGO 41253 Trolls World Tour Lonesome Flats Raft Adventure Playset w
 
 ℹ️:
 
-- Kids will love to make new looks for the Trolls, styling their hair with binoculars, stars and hearts or flowers before adventure starts
 - Let Trolls fans join Poppy and her pals, presenting pop music to the country trolls, then find the musical string to restore harmony
-- Product description will be provided as soon as it becomes available.
 - Features floating raft with adjustable canopy, stage with revolving dancefloor, jail and more
+- Product description will be provided as soon as it becomes available.
+- Kids will love to make new looks for the Trolls, styling their hair with binoculars, stars and hearts or flowers before adventure starts
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5QGW6X/?tag=tolees0a-21)
