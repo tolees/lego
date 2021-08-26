@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '55.51 % deal for LEGO 60285 City Great Vehicles Sports Ca'
-date: 2021-08-24 07:43:31
+date: 2021-08-26 19:24:09
 image: 'https://m.media-amazon.com/images/I/51QgWlnXCjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ There's a deal [LEGO 60285 City Great Vehicles Sports Car Toy with Remo
 
 ℹ️:
 
-- Children aged 5+ can zoom, rotate and visualise as they build with Instructions PLUS on the LEGO Building Instructions app
-- In comes with a detailed tinted cockpit with room behind the steering wheel for the driver and a removable roof for open-top driving
 - Supercool design, aerodynamic shape, authentic details and its stellar blue finish will turbo-charge kids’ creative foot-to-the-floor role-play
+- In comes with a detailed tinted cockpit with room behind the steering wheel for the driver and a removable roof for open-top driving
+- Children aged 5+ can zoom, rotate and visualise as they build with Instructions PLUS on the LEGO Building Instructions app
 - Features a sports car with an eye-catching bodywork, an adjustable rear toy spoiler and sporty black rims with ground-gripping tires
 - It includes LEGO driver minifigure and makes a great seasonal, birthday or any-other-day surprise gift for kids who love cool cars
 
