@@ -28,9 +28,9 @@ You've got [LEGO 60239 City Coche Patrulla de la Policía Juguete de Construcci�
 
 ℹ️:
 
+- Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración
+- Accesorios incluidos: 2 conos de tráfico del agente de policía
 - El coche patrulla mide más de 4 cm de altura, 12 cm de longitud y 5 cm de ancho
 - Incluye una minifigura LEGO de un agente de policía
-- Accesorios incluidos: 2 conos de tráfico del agente de policía
-- Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21)
