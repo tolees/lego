@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.04 % deal for LEGO 71394 Super Mario Packs de Personaj'
-date: 2021-08-27 00:51:17
+date: 2021-08-29 07:21:38
 image: 'https://m.media-amazon.com/images/I/51Pr7E+wvFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWYCMRD/?tag=tolees-21'
 descuento: '15.04'
-average: '3.54'
+average: '3.49'
 ---
 
 There's a deal [LEGO 71394 Super Mario Packs de Personajes: Edición 3  Figuras de Juguete Coleccionables  Regalo para Niños](https://www.amazon.es/dp/B08WWYCMRD/?tag=tolees-21)  with  15.04 % discount, final price tag of  3.39 EUR (original: 3.99 EUR) here:
@@ -30,9 +30,9 @@ There's a deal [LEGO 71394 Super Mario Packs de Personajes: Edición 3  Figuras 
 
 - Entre sus personajes incluye: un Goombaya, Bob-omb Paracaidista, Boo, Cuervajo, un Sparky, Ted Torpedo, Tortueso, champiñón de vida extra, Bichacuo y Swooper
 - Las figuras LEGO Mario o Luigi (no incluidas) reaccionan a los personajes de distintas formas, creando nuevos desafíos para jugar a solas o en compañía
-- Cada figura coleccionable LEGO de los Packs de Personajes: Edición 3 (71394) añade más diversión y opciones de juego interactivas al juguete de construcción de LEGO Super Mario
 - Encontrarás las instrucciones de construcción en el pack y en la divertida app gratuita LEGO Super Mario
 - Cada figura de personaje LEGO incluye un pequeño soporte para usarlo como base de exposición o para incorporarlo a los niveles que creen los peques
 - Cada pack de la Edición 3 contiene un personaje sorpresa de construcción con una etiqueta de acción para incorporarla al Pack Inicial LEGO (71360 o 71387), necesario para jugar
+- Cada figura coleccionable LEGO de los Packs de Personajes: Edición 3 (71394) añade más diversión y opciones de juego interactivas al juguete de construcción de LEGO Super Mario
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B08WWYCMRD/?tag=tolees-21)

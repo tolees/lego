@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % deal for LEGO 17101 Boost Creative Toolbox Roboti'
-date: 2021-08-27 07:12:36
+date: 2021-08-29 07:16:22
 image: 'https://m.media-amazon.com/images/I/51gx-0w6inS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B06X6GN2VQ/?tag=tolees0a-21'
 descuento: '16.67'
-average: '134.210875273523'
+average: '134.190742358079'
 ---
 
 There's a deal [LEGO 17101 Boost Creative Toolbox Robotics Kit  5 in 1 App Controlled Building Model with Programmable Interactive Robot Toy and Bluetooth Hub  Coding Kits for Kids](https://www.amazon.co.uk/dp/B06X6GN2VQ/?tag=tolees0a-21)  with  16.67 % discount, final price tag of  124.99 GBP (original: 149.99 GBP) here:
