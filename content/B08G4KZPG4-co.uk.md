@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11013 Classic Creative Transparent  at 28.58 % discount'
-date: 2021-08-18 07:29:34
+date: 2021-08-30 19:33:36
 image: 'https://m.media-amazon.com/images/I/51sOUhjQErL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4KZPG4/?tag=tolees0a-21'
 descuento: '28.58'
-average: '20.2316666666667'
+average: '20.1971428571429'
 ---
 
 With a final price of 19.99 GBP (original: 27.99 GBP) you can find [LEGO 11013 Classic Creative Transparent Bricks Building Set with Animals for Kids 4+](https://www.amazon.co.uk/dp/B08G4KZPG4/?tag=tolees0a-21) with a  28.58 % discount here:
@@ -28,10 +28,10 @@ With a final price of 19.99 GBP (original: 27.99 GBP) you can find [LEGO 11013�
 
 ℹ️:
 
-- Kids aged 4 and up develop creative and physical skills as they build and play. Learning has never been so much fun!
-- Comes with printed and digital Instructions PLUS, part of the free LEGO Building Instructions app, with zoom, rotate and visualization tools
-- Features a range of colourful, transparent shapes and sizes, plus an exciting selection of classic LEGO bricks, eyes and wheels for extra fun!
-- Building and playing with the  8 toys included is just the beginning, as extra LEGO bricks bring even more creative fun
 - This 500-piece playset can build a toy bird, lion, turtle, robot, unicorn, pink bird, wizard with potions desk and a fish in a coral setting
+- Kids aged 4 and up develop creative and physical skills as they build and play. Learning has never been so much fun!
+- Features a range of colourful, transparent shapes and sizes, plus an exciting selection of classic LEGO bricks, eyes and wheels for extra fun!
+- Comes with printed and digital Instructions PLUS, part of the free LEGO Building Instructions app, with zoom, rotate and visualization tools
+- Building and playing with the  8 toys included is just the beginning, as extra LEGO bricks bring even more creative fun
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4KZPG4/?tag=tolees0a-21)
