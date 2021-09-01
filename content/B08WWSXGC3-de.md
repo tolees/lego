@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.16 % deal for LEGO 21174 Minecraft Das Moderne Baumhau'
-date: 2021-08-31 16:14:35
+date: 2021-09-01 20:12:51
 image: 'https://m.media-amazon.com/images/I/51HLEX-KL2S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWSXGC3/?tag=tolees0ca-21'
 descuento: '34.16'
-average: '84.136'
+average: '83.28'
 ---
 
 There's a deal [LEGO 21174 Minecraft Das Moderne Baumhaus Spielzeug  Set für Jungen und Mädchen ab 9 Jahren mit Figuren](https://www.amazon.de/dp/B08WWSXGC3/?tag=tolees0ca-21)  with  34.16 % discount, final price tag of  79.0 EUR (original: 119.99 EUR) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 21174 Minecraft Das Moderne Baumhaus Spielzeug  Set für Ju
 
 ℹ️:
 
-- Dieses modulare LEGO-Baumhaus ist das ideale Spielzeug ab 9 Jahren für Jungen und Mädchen, die Minecraft lieben und ist ein tolles Geburtstagsgeschenk
+- Die Kinder bauen die 4 verschiedenen Räume des Puppenhauses - Küche, Bibliothek, Arbeitszimmer und Schlafzimmer, die nicht einmal am Baum befestigt werden müssen
 - Enthalten sind außerdem mehrere Minecraft Figuren, darunter ein Creeper, eine Panda- und Ozelothaut, Zombie, Katze und Huhn aus dem Online-Spiel Minecraft
 - Das LEGO Minecraft Set "Das moderne Baumhaus" ist ein großes, detailliertes und extrem vielseitiges Spielset mit 4 endlos rekonfigurierbaren Räumen
+- Dieses modulare LEGO-Baumhaus ist das ideale Spielzeug ab 9 Jahren für Jungen und Mädchen, die Minecraft lieben und ist ein tolles Geburtstagsgeschenk
 - Es gibt jede Menge spannendes Zubehör in diesem Minecraft Spielzeug, dazu gehören viele lustige Elemente aus dem Videospiel, von Möbeln und Bettwäsche bis hin zu Werkzeugen und TNT
-- Die Kinder bauen die 4 verschiedenen Räume des Puppenhauses - Küche, Bibliothek, Arbeitszimmer und Schlafzimmer, die nicht einmal am Baum befestigt werden müssen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08WWSXGC3/?tag=tolees0ca-21)
