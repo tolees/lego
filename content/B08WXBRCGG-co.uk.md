@@ -28,10 +28,10 @@ There's a deal [LEGO 21176 Minecraft The Jungle Abomination Dungeons Playset  Ac
 
 ℹ️:
 
+- With its massive, movable head, opening mouth and arm made for crushing, kids will have hours of fun with Minecraft dungeons
+- Includes explorer and archaeologist characters, an enchanted Creeper, skeleton, iron golem and an articulated plant with grabbing petals
 - This LEGO Minecraft action figure toy features the ultimate jungle giant, the Jungle Abomination - a Minecraft monster figure
 - The Jungle Abomination is a fully posable character with movable arms, head, mouth, legs and waist - a great play & display Minecraft toy
-- With its massive, movable head, opening mouth and arm made for crushing, kids will have hours of fun with Minecraft dungeons
 - This living mix of logs, vines, and stone stands firmly on a large baseplate - an ideal display model decorating kids bedroom
-- Includes explorer and archaeologist characters, an enchanted Creeper, skeleton, iron golem and an articulated plant with grabbing petals
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08WXBRCGG/?tag=tolees0a-21)

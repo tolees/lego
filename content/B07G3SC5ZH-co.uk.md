@@ -28,10 +28,10 @@ You've got [LEGO 75947 Harry Potter Hagrid s Hut: Buckbeak s Rescue](https://www
 
 ℹ️:
 
-- Manufacturer recommended age: 8+
-- Number of pieces: 496
 - This LEGO Harry Potter set features Hagrid’s 2-section buildable woodland hut with pumpkin patch outside.
 - Includes 6 LEGO Harry Potter minifigures: Hagrid and new-for-June-2019 Harry Potter, Ron Weasley, Hermione Granger, Executioner and the Minister of Magic plus a Buckbeak the Hippogriff figure with moveable wings and head, restrained by a removable chain
+- Manufacturer recommended age: 8+
 - LEGO Hagrid´s Hut’s desk room includes a desk with chair, candle, chest, chocolate frog, Daily Prophet newspaper and a spider.
+- Number of pieces: 496
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07G3SC5ZH/?tag=tolees0a-21)
