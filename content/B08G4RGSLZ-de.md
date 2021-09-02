@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 18.31 % for LEGO 42124 Technic Geländewagen Buggy Co'
-date: 2021-09-01 20:12:35
+date: 2021-09-02 20:15:47
 image: 'https://m.media-amazon.com/images/I/51VkQmfZxXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21'
 descuento: '18.31'
-average: '101.41782894737'
+average: '101.449019607845'
 ---
 
 You've got [LEGO 42124 Technic Geländewagen Buggy Control App-gesteuertes Retro Rennwagenspielzeug für Kinder](https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21) with a  18.31 % discount, with final price of 106.19 EUR (original: 129.99 EUR) at the following link:
@@ -28,8 +28,8 @@ You've got [LEGO 42124 Technic Geländewagen Buggy Control App-gesteuertes Retro
 
 ℹ️:
 
-- Enthält Spielzeug.
 - Nicht auf Augen oder Gesicht zielen
+- Enthält Spielzeug.
 - Nur für häuslichen Gebrauch bestimmt
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21)

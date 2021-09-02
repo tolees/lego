@@ -28,8 +28,8 @@ You've got [LEGO 75311 Star Wars Imperial Armoured Marauder Building Toy for Kid
 
 ℹ️:
 
-- Construya este set Lego.
 - 478 piezas para los niños de 8 a más.
 - Todas las gamas son compatibles con los otros set de construcción Lego para una experiencia sin límite.
+- Construya este set Lego.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08WB22HQY/?tag=tolees-21)
