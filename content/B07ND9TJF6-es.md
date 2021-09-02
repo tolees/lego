@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75256 Star Wars Lanzadera de Kylo R at 15.00 % discount'
-date: 2021-08-31 13:07:00
+date: 2021-09-02 19:25:02
 image: 'https://m.media-amazon.com/images/I/518mrQ8ZgRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07ND9TJF6/?tag=tolees-21'
 descuento: '15.00'
-average: '115.52236065574'
+average: '115.505915032682'
 ---
 
 With a final price of 110.49 EUR (original: 129.99 EUR) you can find [LEGO 75256 Star Wars Lanzadera de Kylo REN  Set de Construcción para Niños 10 años con 6 Mini Figuras](https://www.amazon.es/dp/B07ND9TJF6/?tag=tolees-21) with a  15.00 % discount here:
@@ -28,12 +28,12 @@ With a final price of 110.49 EUR (original: 129.99 EUR) you can find [LEGO 75256
 
 ℹ️:
 
-- Es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars.
-- La lanzadera de mando de Kylo Ren cuenta con un motor derecho giratorio para plegar las alas al aterrizar, la capacidad de acortar las alas plegando hacia abajo la parte superior, 2 cañones automáticos, rampa descendente de acceso y cabina con espacio para 3 minifiguras.
 - Incluye un flamante diseño de casco de los Caballeros de Ren (novedad en octubre de 2019).
-- La nave LEGO Star Wars, con las alas desplegadas, mide más de 35 cm de altura, 21 cm de longitud y 50 cm de ancho.
+- Incluye 6 minifiguras LEGO Star Wars: el Líder Supremo Kylo Ren, el General Pryde, un soldado Sith, un soldado de asalto de la Primera Orden y 2 Caballeros de Ren.
+- Es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars.
 - Usa tu imaginación para interpretar las escenas de la película Star Wars: El Ascenso de Skywalker con la nave de transporte personal de Kylo Ren.
 - Armas incluidas: espada láser de Kylo Ren, pistola bláster del General Pryde, fusil bláster del soldado Sith, bláster del soldado de asalto de la Primera Orden, y hacha y maza de los Caballeros de Ren.
-- Incluye 6 minifiguras LEGO Star Wars: el Líder Supremo Kylo Ren, el General Pryde, un soldado Sith, un soldado de asalto de la Primera Orden y 2 Caballeros de Ren.
+- La lanzadera de mando de Kylo Ren cuenta con un motor derecho giratorio para plegar las alas al aterrizar, la capacidad de acortar las alas plegando hacia abajo la parte superior, 2 cañones automáticos, rampa descendente de acceso y cabina con espacio para 3 minifiguras.
+- La nave LEGO Star Wars, con las alas desplegadas, mide más de 35 cm de altura, 21 cm de longitud y 50 cm de ancho.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07ND9TJF6/?tag=tolees-21)
