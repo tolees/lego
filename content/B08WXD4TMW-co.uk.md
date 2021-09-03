@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 41.67 % for LEGO 43114 VIDIYO Punk Pirate Ship BeatB'
-date: 2021-08-30 11:47:30
+date: 2021-09-03 07:44:51
 image: 'https://m.media-amazon.com/images/I/51B+PG-kUMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WXD4TMW/?tag=tolees0a-21'
 descuento: '41.67'
-average: '32.994'
+average: '33.7425'
 ---
 
 You've got [LEGO 43114 VIDIYO Punk Pirate Ship BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08WXD4TMW/?tag=tolees0a-21) with a  41.67 % discount, with final price of 34.99 GBP (original: 59.99 GBP) at the following link:
