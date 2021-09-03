@@ -29,9 +29,9 @@ With a final price of 62.99 GBP (original: 79.99 GBP) you can find [LEGO 21045 A
 ℹ️:
 
 - Features the National Gallery with detailed interior, Nelson’s Column flanked by 4 lions, 2 Trafalgar Square fountains, amongst others.
-- Tree-lined borders, ornate lampposts, 2 London buses, 2 black cabs and a tiled baseplate depicting the surrounding roads complete the model.
-- The sections at the rear of the National Gallery can be removed for access to a detailed interior with brick-built statue and paintings.
 - Information about the architecture and history of each structure, in many langugaes available for download at LEGO.com/architecture.
+- The sections at the rear of the National Gallery can be removed for access to a detailed interior with brick-built statue and paintings.
+- Tree-lined borders, ornate lampposts, 2 London buses, 2 black cabs and a tiled baseplate depicting the surrounding roads complete the model.
 - This highly detailed interpretation of Trafalgar Square with a decorative nameplate captures the essence of a historical London landmark
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTK9B3Z/?tag=tolees0a-21)
