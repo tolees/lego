@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % deal for LEGO 17101 Boost Creative Toolbox Roboti'
-date: 2021-09-02 13:12:10
+date: 2021-09-03 13:23:21
 image: 'https://m.media-amazon.com/images/I/51gx-0w6inS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B06X6GN2VQ/?tag=tolees0a-21'
 descuento: '16.67'
-average: '134.130867678959'
+average: '134.111082251082'
 ---
 
 There's a deal [LEGO 17101 Boost Creative Toolbox Robotics Kit  5 in 1 App Controlled Building Model with Programmable Interactive Robot Toy and Bluetooth Hub  Coding Kits for Kids](https://www.amazon.co.uk/dp/B06X6GN2VQ/?tag=tolees0a-21)  with  16.67 % discount, final price tag of  124.99 GBP (original: 149.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 17101 Boost Creative Toolbox Robotics Kit  5 in 1�
 
 ℹ️:
 
-- Set includes a LEGO Move Hub with Bluetooth connectivity, interactive motor and colour and distance sensor to bring the models to live
-- Kids can build, code and complete over 60 exciting activities included in the LEGO BOOST App for selected iOS/Android/Kindle smart devices
-- They choose between a moving/talking robot, versatile rover, musical instrument, robot interactive pet cat or AutoBuilder production line
 - Real programming transformed into an intuitive, easy to use drag-and-drop coding interface for all aged 7+ to boost their engineering skills
+- Kids can build, code and complete over 60 exciting activities included in the LEGO BOOST App for selected iOS/Android/Kindle smart devices
 - Kids can build 1-in5 multi-functional robots and control them with our easy-to-use coding blocks on a tablet to learn the basics of robotics
+- Set includes a LEGO Move Hub with Bluetooth connectivity, interactive motor and colour and distance sensor to bring the models to live
+- They choose between a moving/talking robot, versatile rover, musical instrument, robot interactive pet cat or AutoBuilder production line
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B06X6GN2VQ/?tag=tolees0a-21)
