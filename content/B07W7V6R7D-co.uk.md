@@ -29,8 +29,8 @@ You've got [LEGO 42109 Technic CONTROL+ App-Controlled Top Gear Rally Ca
 ℹ️:
 
 - Build the car. Download the app. Get ready for action. Take on challenges in the free LEGO Technic CONTROL+ App.
-- With this advanced building model, drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback
 - Features multi-function gyro control, awesome colour scheme with stickers and amazing details perfect for kids who love racing toys
+- With this advanced building model, drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback
 - This toy rally car model is controlled via the LEGO Technic CONTROL+ app and powered by an advanced Smart Hub with 1 XL motor and 1 L motor
 - Operated via a smart device with 3 screens: function and gyro control plus achievements. Go to LEGO.com/devicecheck for compatible devices
 
