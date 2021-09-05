@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60266 City Meeresforschungsschiff   at 25.13 % discount'
-date: 2021-09-03 13:12:55
+date: 2021-09-05 13:25:26
 image: 'https://m.media-amazon.com/images/I/51w7au9RxoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813R1CMZ/?tag=tolees0ca-21'
 descuento: '25.13'
-average: '101.969847494555'
+average: '101.959739130436'
 ---
 
 With a final price of 97.32 EUR (original: 129.99 EUR) you can find [LEGO 60266 City Meeresforschungsschiff  schwimmendes Spielzeugboot  Tiefsee-Unterwasserset  Tauchabenteuer für Kinder](https://www.amazon.de/dp/B0813R1CMZ/?tag=tolees0ca-21) with a  25.13 % discount here:
@@ -29,13 +29,13 @@ With a final price of 97.32 EUR (original: 129.99 EUR) you can find [LEGO 60266 
 ℹ️:
 
 - LEGO City ist stolz darauf, die wegweisende Arbeit der National Geographic Explorers zu unterstützen, die dazu beitragen, eine bessere Welt für uns alle zu erschaffen. Die LEGO City Ozean-Spielsets stellen Kindern die faszinierende Welt der Meeresforschung vor
-- Kinder können den Kran auf dem schwimmenden Schiff benutzen, um das U-Boot und den Haikäfig ins Wasser zu lassen, den Hubschrauber und das U-Boot steuern, das mit Schätzen gefüllte Schiffswrack erkunden oder auf der Brücke spielen, wo sich die Schlaf- und Forschungsbereiche befinden
-- Keine Batterien erforderlich. Als Antrieb reicht die blühende Fantasie kleiner Kinder, um Abenteuer mit diesem faszinierenden Spielset zu erleben, das mehrere Modelle enthält, unter anderem ein Boot, das schwimmt!
 - Ist dieses coole Spielzeug für ein Kind ab 5 Jahren gedacht? Ja, dieses Bauset ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu jedem anderen Anlass für alle Fans der TV-Serie „LEGO City Adventures“ sowie für Kinder, die sich für Meeresforschung begeistern
-- Das fertige Spielzeug-Forschungsschiff ist 18 cm hoch, 63 cm lang und 17 cm breit und das Wrack des Piratenschiffs ist 16 cm hoch, 13 cm lang und 8 cm breit
-- In dem Set sind ein schwimmendes Spielzeug-Forschungsschiff mit funktionierendem Kran, Haikäfig, Rettungsboot, U-Boot und Hubschrauber, acht Minifiguren (unter anderem Harl Hubbs, der Held aus der TV-Serie „LEGO City Adventures“) sowie eine Haifigur und eine Stachelrochenfigur enthalten
 - Das LEGO City Spielset „Meeresforschungsschiff“ (60266) enthält gleich mehrere Modelle und ist ein tolles Geschenk für kleine Forscher. Es ist alles vorhanden, um Kindern ein unterhaltsames und lohnendes Spielerlebnis zu vermitteln
+- Keine Batterien erforderlich. Als Antrieb reicht die blühende Fantasie kleiner Kinder, um Abenteuer mit diesem faszinierenden Spielset zu erleben, das mehrere Modelle enthält, unter anderem ein Boot, das schwimmt!
+- In dem Set sind ein schwimmendes Spielzeug-Forschungsschiff mit funktionierendem Kran, Haikäfig, Rettungsboot, U-Boot und Hubschrauber, acht Minifiguren (unter anderem Harl Hubbs, der Held aus der TV-Serie „LEGO City Adventures“) sowie eine Haifigur und eine Stachelrochenfigur enthalten
+- Das fertige Spielzeug-Forschungsschiff ist 18 cm hoch, 63 cm lang und 17 cm breit und das Wrack des Piratenschiffs ist 16 cm hoch, 13 cm lang und 8 cm breit
 - LEGO City Ozean-Bausets entsprechen den höchsten Branchenstandards und erfüllen die strengsten Kriterien. So ist sichergestellt, dass die LEGO Steine und Teile einheitlich und kompatibel sind und sich stets fest zusammenstecken und mühelos wieder trennen lassen
+- Kinder können den Kran auf dem schwimmenden Schiff benutzen, um das U-Boot und den Haikäfig ins Wasser zu lassen, den Hubschrauber und das U-Boot steuern, das mit Schätzen gefüllte Schiffswrack erkunden oder auf der Brücke spielen, wo sich die Schlaf- und Forschungsbereiche befinden
 - Zu diesem Bauset gibt es eine einfache gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die selbst ungeübte Kinder zu wahren Baumeistern werden lässt! Letztere ist in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets enthalten
 - Alle LEGO City Steine und Teile werden streng getestet, damit jedes Bau- und Spielset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
 
