@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.49 % deal for LEGO Technic Porsche 911 RSR  Auto da Co'
-date: 2021-09-03 13:46:48
+date: 2021-09-07 13:56:47
 image: 'https://m.media-amazon.com/images/I/51EcmVLyhSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07FP6QNQ7/?tag=tolees00-21'
 descuento: '19.49'
-average: '137.787061403515'
+average: '137.758599562369'
 ---
 
 There's a deal [LEGO Technic Porsche 911 RSR  Auto da Corsa  Set di Costruzioni Avanzato  Modello da Collezione per Ragazzi e Veri Appassionati di Automobili e Motori  42096](https://www.amazon.it/dp/B07FP6QNQ7/?tag=tolees00-21)  with  19.49 % discount, final price tag of  124.78 EUR (original: 154.99 EUR) here:
@@ -28,14 +28,14 @@ There's a deal [LEGO Technic Porsche 911 RSR  Auto da Corsa  Set di Costruzioni 
 
 ℹ️:
 
-- Questo set include 1.580 pezzi.
-- Apri gli sportelli per accedere all’abitacolo pieno di realistici dettagli, tra cui uno schermo radar, sterzo funzionante, estintore e una mappa del circuito di Laguna Seca stampata sulla portiera del guidatore.
-- Questo modello LEGO Technic è stato progettato per offrire un’esperienza di costruzione coinvolgente e gratificante.
-- La replica della Porsche 911 RSR è dotata di numerose caratteristiche autentiche, tra cui ala posteriore con supporti “a collo di cigno”, grande diffusore posteriore e specchietti laterali aerodinamici, cerchi a razze neri e fari realistici anteriori e posteriori. Include anche un dettagliato abitacolo, sospensioni differenziali indipendenti e visibili e motore boxer a sei cilindri con pistoni mobili posizionati davanti all’asse posteriore.
 - Ammira il dettagliato motore boxer a sei cilindri con pistoni mobili.
+- Questo modello LEGO Technic è stato progettato per offrire un’esperienza di costruzione coinvolgente e gratificante.
 - La Porsche 911 RSR misura 13 cm di altezza, 50 cm di lunghezza e 20 cm di larghezza.
-- Quest’auto giocattolo collezionabile è dotata anche di un’autentica livrea bianca, rossa e nera oltre a un foglio con adesivi per aggiungere ulteriori dettagli.
 - I set LEGO Technic presentano movimenti e meccanismi realistici che introducono i giovani costruttori LEGO all’universo dell’ingegneria in modo accessibile e vicino alla realtà.
+- Apri gli sportelli per accedere all’abitacolo pieno di realistici dettagli, tra cui uno schermo radar, sterzo funzionante, estintore e una mappa del circuito di Laguna Seca stampata sulla portiera del guidatore.
+- La replica della Porsche 911 RSR è dotata di numerose caratteristiche autentiche, tra cui ala posteriore con supporti “a collo di cigno”, grande diffusore posteriore e specchietti laterali aerodinamici, cerchi a razze neri e fari realistici anteriori e posteriori. Include anche un dettagliato abitacolo, sospensioni differenziali indipendenti e visibili e motore boxer a sei cilindri con pistoni mobili posizionati davanti all’asse posteriore.
+- Quest’auto giocattolo collezionabile è dotata anche di un’autentica livrea bianca, rossa e nera oltre a un foglio con adesivi per aggiungere ulteriori dettagli.
 - Idoneo per la fascia di età di 10+ anni.
+- Questo set include 1.580 pezzi.
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B07FP6QNQ7/?tag=tolees00-21)
