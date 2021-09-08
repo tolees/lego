@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.45 % deal for LEGO 43113 VIDIYO K-Pawp Concert BeatBox'
-date: 2021-09-05 07:47:12
+date: 2021-09-08 12:07:44
 image: 'https://m.media-amazon.com/images/I/51KDbD-k+bS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWYKVPY/?tag=tolees0a-21'
 descuento: '44.45'
-average: '23.745'
+average: '24.492'
 ---
 
 There's a deal [LEGO 43113 VIDIYO K-Pawp Concert BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08WWYKVPY/?tag=tolees0a-21)  with  44.45 % discount, final price tag of  24.99 GBP (original: 44.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 43113 VIDIYO K-Pawp Concert BeatBox Music Video Maker Music
 
 ℹ️:
 
+- Includes 3 minifigures with musical accessories, 14 random BeatBits and 3 special BeatBits to scan to unlock video making possibilities
+- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
 - Download the LEGO VIDIYO augmented reality app to scan & bring the bunny, kitten and flying unicorn minifigures to life with special effects
-- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
-- Includes 3 minifigures with musical accessories, 14 random BeatBits and 3 special BeatBits to scan to unlock video making possibilities
 - This LEGO VIDIYO K-Pawp Concert music video maker set makes the characters recreate K-Pop dance poses in the LEGO augmented reality app
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08WWYKVPY/?tag=tolees0a-21)
