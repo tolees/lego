@@ -30,8 +30,8 @@ With a final price of 39.95 EUR (original: 49.99 EUR) you can find [LEGO Minions
 
 - Enthalten sind 3 Minions-Figuren: Stuart, Kevin & Bob; Kinder können mit Kevin Erfindungen im Labor machen oder Stuart bei einem Nickerchen in seinem Schlafzimmer beobachten
 - Das Raumspielset verfügt über Instrumente und Geräte im Hohlraum im Inneren, wo sich dann die Minions Figuren für die Rollenspiele verstecken
-- Ein kreatives Minions Spielzeug, mit dem Minions-Fans ihren Lieblings-Minion-Charakter bauen können - 3 verschiedene Charaktere in nur einem Bauset
 - Das Spielzeug für Kinder ab 8 Jahren beinhaltet Zubehör wie Werkzeuge, Hüte und Waffen, mit denen sich das Spiel abwechslungsreich gestalten lässt
 - Die aus LEGO-Steinen gebauten Minions-Figuren sind ein wunderbarer Reisekoffer - ein Begleiter für unterwegs oder für gemeinsame Rollenspiele mit Freunden
+- Ein kreatives Minions Spielzeug, mit dem Minions-Fans ihren Lieblings-Minion-Charakter bauen können - 3 verschiedene Charaktere in nur einem Bauset
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07XBTQ69V/?tag=tolees0ca-21)
