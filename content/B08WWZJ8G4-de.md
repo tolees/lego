@@ -29,9 +29,9 @@ There's a deal [LEGO Speed Champions - LEGO 76903 Speed Champions Chevrolet Corv
 ℹ️:
 
 - Kinder können mit diesen Modellautos zum selber Bauen 2 echte Corvettes erforschen und während sie sie zusammenschrauben alle Details kennenlernen
-- Dieses Spielzeugset enthält 2 Modelle von LEGO Rennwagen zum Bauen: den 2020 Chevrolet Corvette C8.R Rennwagen und den 1968 Chevrolet Corvette Sportwagen
-- Enthalten sind 2 Rennfahrer-Minifiguren mit Rennanzügen, Helmen und einem Schraubenschlüssel, damit sie jederzeit startklar sind
-- Mit dem Chevrolet Corvette C8.R Rennwagen und dem 1968 Chevrolet Corvette lassen sich nach dem Zusammenbauen spannende, rasante Rennen fahren
 - Beide sammelbaren Spielzeugautos haben die ideale Größe, um zu Hause oder unterwegs damit zu spielen, ein perfektes LEGO Geschenk für Jungen und Mädchen ab 8 Jahren
+- Mit dem Chevrolet Corvette C8.R Rennwagen und dem 1968 Chevrolet Corvette lassen sich nach dem Zusammenbauen spannende, rasante Rennen fahren
+- Enthalten sind 2 Rennfahrer-Minifiguren mit Rennanzügen, Helmen und einem Schraubenschlüssel, damit sie jederzeit startklar sind
+- Dieses Spielzeugset enthält 2 Modelle von LEGO Rennwagen zum Bauen: den 2020 Chevrolet Corvette C8.R Rennwagen und den 1968 Chevrolet Corvette Sportwagen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08WWZJ8G4/?tag=tolees0ca-21)
