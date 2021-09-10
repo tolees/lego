@@ -28,10 +28,10 @@ You've got [LEGO 42124 Technic Off-Road Buggy CONTROL+ App-Controlled Ret
 
 ℹ️:
 
+- Amazing tricks are easy to perform by the RC Off-Road Buggy model, thanks to the car’s front and rear suspension - a first for LEGO Technic
+- Also features an opening hood, antenna and retro colour scheme, complete with 1980s-inspired sticker details
+- Made for action! Massive knobbed tyres and angled front gives stability when jumping and performing tricks, just like classic RC toy cars
 - An awesome gift for kids aged 10+ and adults who remember the classic 1980s RC toy cars, it will bring all generations to play together
 - Electronic components, including 1 hub and 2 large motors, add extra power and deliver hours of action-packed play
-- Also features an opening hood, antenna and retro colour scheme, complete with 1980s-inspired sticker details
-- Amazing tricks are easy to perform by the RC Off-Road Buggy model, thanks to the car’s front and rear suspension - a first for LEGO Technic
-- Made for action! Massive knobbed tyres and angled front gives stability when jumping and performing tricks, just like classic RC toy cars
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4RGSLZ/?tag=tolees0a-21)
