@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41679 Friends Forest House Toy  Tre at 33.33 % discount'
-date: 2021-09-09 15:43:06
+date: 2021-09-10 20:16:24
 image: 'https://m.media-amazon.com/images/I/51ukUvZWaQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21'
 descuento: '33.33'
-average: '17.22'
+average: '17.1966666666667'
 ---
 
 With a final price of 16.66 GBP (original: 24.99 GBP) you can find [LEGO 41679 Friends Forest House Toy  Treehouse Adventure Set with Mia Mini Doll and Kayak Boat Model](https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21) with a  33.33 % discount here:
