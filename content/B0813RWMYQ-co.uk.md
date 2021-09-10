@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 27.28 % for LEGO 10932 DUPLO Town Wrecking Ball Demo'
-date: 2021-09-05 19:41:43
+date: 2021-09-10 11:38:15
 image: 'https://m.media-amazon.com/images/I/51ouKxesIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813RWMYQ/?tag=tolees0a-21'
 descuento: '27.28'
-average: '39.687'
+average: '39.7145454545455'
 ---
 
 You've got [LEGO 10932 DUPLO Town Wrecking Ball Demolition Construction Set with Toy Truck  Crane and Bulldozer  Toys for 2 Toddlers](https://www.amazon.co.uk/dp/B0813RWMYQ/?tag=tolees0a-21) with a  27.28 % discount, with final price of 39.99 GBP (original: 54.99 GBP) at the following link:
@@ -29,9 +29,9 @@ You've got [LEGO 10932 DUPLO Town Wrecking Ball Demolition Construction Set with
 ℹ️:
 
 - This playset uses big bricks elements designed to be easy for small hands; an ideal LEGO starter set for preschool boys and girls
-- Includes male and female construction worker figures, a bird figure, house construction "blueprint", shovel, road barrier and cone
-- Features an adjustable crane, dump truck, bulldozer with wheels, a small house and a selection of boulders
 - Kids can swing the wrecking ball from side to side to demolish the small house, then clear the site with the bulldozer and the truck
 - Construction site toy with vehicles and workers assists 2+ year old toddlers in developing emotional abilities and fine motor skills
+- Includes male and female construction worker figures, a bird figure, house construction "blueprint", shovel, road barrier and cone
+- Features an adjustable crane, dump truck, bulldozer with wheels, a small house and a selection of boulders
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RWMYQ/?tag=tolees0a-21)
