@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 31.68 % for LEGO 42124 Technic Off-Road Buggy CONTRO'
-date: 2021-08-19 08:11:20
+date: 2021-09-10 08:22:38
 image: 'https://m.media-amazon.com/images/I/51VkQmfZxXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4RGSLZ/?tag=tolees0a-21'
 descuento: '31.68'
-average: '109.758717948717'
+average: '109.407088607594'
 ---
 
 You've got [LEGO 42124 Technic Off-Road Buggy CONTROL+ App-Controlled Retro RC Car Toy for Kids](https://www.amazon.co.uk/dp/B08G4RGSLZ/?tag=tolees0a-21) with a  31.68 % discount, with final price of 81.98 GBP (original: 119.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 42124 Technic Off-Road Buggy CONTROL+ App-Controlled Ret
 
 ℹ️:
 
-- Electronic components, including 1 hub and 2 large motors, add extra power and deliver hours of action-packed play
-- Made for action! Massive knobbed tyres and angled front gives stability when jumping and performing tricks, just like classic RC toy cars
 - An awesome gift for kids aged 10+ and adults who remember the classic 1980s RC toy cars, it will bring all generations to play together
+- Electronic components, including 1 hub and 2 large motors, add extra power and deliver hours of action-packed play
 - Also features an opening hood, antenna and retro colour scheme, complete with 1980s-inspired sticker details
 - Amazing tricks are easy to perform by the RC Off-Road Buggy model, thanks to the car’s front and rear suspension - a first for LEGO Technic
+- Made for action! Massive knobbed tyres and angled front gives stability when jumping and performing tricks, just like classic RC toy cars
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4RGSLZ/?tag=tolees0a-21)
