@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.22 % for LEGO 60216 City Downtown Fire Brigade wi'
-date: 2021-09-09 14:42:31
+date: 2021-09-11 14:53:27
 image: 'https://m.media-amazon.com/images/I/61Prl-r6VFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21'
 descuento: '22.22'
-average: '72.273386363636'
+average: '72.2682086167797'
 ---
 
 You've got [LEGO 60216 City Downtown Fire Brigade with Fire Engine Truck Toy  Crane  Helicopter  Motorbike and 7 Minifigures  Fireman Toys for Kids](https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21) with a  22.22 % discount, with final price of 69.99 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 60216 City Downtown Fire Brigade with Fire Engine Truck Toy  Cr
 
 ℹ️:
 
-- Swing the crane around and lift the porta-loo into the air with the winch and press the fire ladder truck light and sound brick as you race the firefighters to the scene.
-- A fire helicopter with opening cockpit with a new-for-January-20193-stud shooter.
-- Join in the excitement downtown with the fire rescue heroes and protect the citizens of LEGO City with the incredible 60216 Downtown Fire Brigade set!
-- Load and push the plungers on the 3-stud shooters of the helicopter and R.O.S.-T3 the ROV to help battle the blaze.
 - Raise the ladder and squeeze the bellows to launch the water elements and knock the fire elements down.
+- A fire helicopter with opening cockpit with a new-for-January-20193-stud shooter.
+- Load and push the plungers on the 3-stud shooters of the helicopter and R.O.S.-T3 the ROV to help battle the blaze.
+- Swing the crane around and lift the porta-loo into the air with the winch and press the fire ladder truck light and sound brick as you race the firefighters to the scene.
+- Join in the excitement downtown with the fire rescue heroes and protect the citizens of LEGO City with the incredible 60216 Downtown Fire Brigade set!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07FNS6J8V/?tag=tolees0a-21)
