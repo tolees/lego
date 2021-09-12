@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 76182 DC Batman Helm Bauset für Erw at 38.67 % discount'
-date: 2021-09-09 08:21:38
+title: 'LEGO 76182 DC Batman Helm Bauset für Erw at 39.17 % discount'
+date: 2021-09-12 17:00:48
 image: 'https://m.media-amazon.com/images/I/51E5v7e-c5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,32 +9,32 @@ author: 'tole.es'
 slug: 'B08G4GCM7M-de LEGO 76182 DC Batman Helm Bauset für Erwachsene...'
 sku: 'B08G4GCM7M-de'
 tags: [ 'Spielzeug','lego', ]
-actualPrice: 36.79 EUR
+actualPrice: 36.49 EUR
 currency: EUR
-price: 36.79
+price: 36.49
 comparePrice: 59.99 EUR
 prodname: 'LEGO 76182 DC Batman Helm Bauset für Erwachsene  Modellbausatz  Fanartikel  Geschenkidee für Sammler'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4GCM7M/?tag=tolees0ca-21'
-descuento: '38.67'
-average: '40.2416666666667'
+descuento: '39.17'
+average: '39.7057142857143'
 ---
 
-With a final price of 36.79 EUR (original: 59.99 EUR) you can find [LEGO 76182 DC Batman Helm Bauset für Erwachsene  Modellbausatz  Fanartikel  Geschenkidee für Sammler](https://www.amazon.de/dp/B08G4GCM7M/?tag=tolees0ca-21) with a  38.67 % discount here:
+With a final price of 36.49 EUR (original: 59.99 EUR) you can find [LEGO 76182 DC Batman Helm Bauset für Erwachsene  Modellbausatz  Fanartikel  Geschenkidee für Sammler](https://www.amazon.de/dp/B08G4GCM7M/?tag=tolees0ca-21) with a  39.17 % discount here:
 
 [![LEGO 76182 DC Batman Helm Bauset für Erw](https://m.media-amazon.com/images/I/51E5v7e-c5S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4GCM7M/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Bei dieser authentischen Nachbildung des legendären Batman Helms aus LEGO Steinen stellen durchsichtige Teile das Gesicht dar. Am robusten Sockel ist eine schicke Infotafel befestigt
-- Der Helm ist 22 cm hoch, 10 cm breit und 12 cm tief. Das faszinierende Modell zieht im Wohnzimmer oder Büro alle Blicke auf sich und liefert reichlich Gesprächsstoff
-- Der LEGO DC Batman: Batman Helm (76182) erfasst den ebenso unverwechselbaren wie zeitlosen Stil von Batman. Ein faszinierendes Modell für Erwachsene zum Bauen und Ausstellen
-- Dieses Set zum Bauen und Ausstellen ist ein ideales Geburtstags- und Weihnachtsgeschenk für begeisterte Baumeister und erwachsene Batman Fans oder eine tolle Belohnung für dich selbst
-- Bei diesem Modell sind deine Superkräfte als Baumeister gefragt. Dieses Batman Sammlerstück wird dir auch noch lange nach dem Bauen große Freude bereiten
 - Die Reihe der LEGO Sets für Erwachsene vermittelt ein erfüllendes Bauerlebnis. Die spektakulären Modelle zum Ausstellen faszinieren jeden begeisterten Baumeister
+- Bei dieser authentischen Nachbildung des legendären Batman Helms aus LEGO Steinen stellen durchsichtige Teile das Gesicht dar. Am robusten Sockel ist eine schicke Infotafel befestigt
 - Öffne die Box und wage dich an ein faszinierendes Bauprojekt heran. Die einfache Bauanleitung weist dir den Weg
+- Dieses Set zum Bauen und Ausstellen ist ein ideales Geburtstags- und Weihnachtsgeschenk für begeisterte Baumeister und erwachsene Batman Fans oder eine tolle Belohnung für dich selbst
+- Der LEGO DC Batman: Batman Helm (76182) erfasst den ebenso unverwechselbaren wie zeitlosen Stil von Batman. Ein faszinierendes Modell für Erwachsene zum Bauen und Ausstellen
+- Bei diesem Modell sind deine Superkräfte als Baumeister gefragt. Dieses Batman Sammlerstück wird dir auch noch lange nach dem Bauen große Freude bereiten
+- Der Helm ist 22 cm hoch, 10 cm breit und 12 cm tief. Das faszinierende Modell zieht im Wohnzimmer oder Büro alle Blicke auf sich und liefert reichlich Gesprächsstoff
 - Der LEGO DC Batman: Batman Helm bietet ein entspannendes Bauerlebnis. Wenn aus 410 LEGO Steinen allmählich ein echter Hingucker entsteht, fällt jeder Stress von dir ab
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4GCM7M/?tag=tolees0ca-21)
