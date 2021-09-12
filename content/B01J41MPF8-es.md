@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.74 % deal for LEGO 21034 Architecture Skyline Collecti'
-date: 2021-09-09 12:24:36
+date: 2021-09-12 15:43:12
 image: 'https://m.media-amazon.com/images/I/51Xoy6-q9CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21'
 descuento: '16.74'
-average: '40.8306474820146'
+average: '40.8225837320576'
 ---
 
 There's a deal [LEGO 21034 Architecture Skyline Collection Londres  Set de Construcción  Modelo de Coleccionista  Maqueta Decorativa](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)  with  16.74 % discount, final price tag of  37.46 EUR (original: 44.99 EUR) here:
@@ -28,12 +28,12 @@ There's a deal [LEGO 21034 Architecture Skyline Collection Londres  Set de Const
 
 ℹ️:
 
-- architecture).
-- Interpretación LEGO Architecture de Londres.
 - El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre Londres y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com
-- Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre.
-- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres).
 - El río Támesis de Londres está representado en la base mediante placas transparentes.
+- Interpretación LEGO Architecture de Londres.
+- architecture).
+- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres).
 - El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan.
+- Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
