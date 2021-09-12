@@ -29,9 +29,9 @@ With a final price of 380.0 EUR (original: 471.83 EUR) you can find [LEGO Star W
 ℹ️:
 
 - Cet ensemble Lego Star Wars convient aux enfants à partir de 14 ans
+- Le centre parfait de toute collection Lego Star Wars
+- Présentez le modèle sur le support inclinable avec étiquette dinformation
 - Dispose de détails authentiques, dun cockpit de figurines rabattable, de canons à ions rotatifs sur le toit, de patins datterrissage rétractables et de lespace pour les droïdes Astromech, R2-BHD inclus dans le kit
 - Contient le Gold Leader en tant que mini figurine et les Droïdes R2-BHD comme figurine supplémentaire
-- Présentez le modèle sur le support inclinable avec étiquette dinformation
-- Le centre parfait de toute collection Lego Star Wars
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07BLGCXZZ/?tag=tolees0d-21)

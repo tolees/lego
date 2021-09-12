@@ -28,8 +28,8 @@ You've got [Warner Bros. Interactive Entertainment - LEGO Marvel Collection - Pl
 
 ℹ️:
 
-- LEGO Marvel Super Heroes 2: join your favorite Super Heroes and Super Villains from different eras and realities as they go head to head with the time-traveling Kang the Conqueror in the all new, original adventure
 - LEGO Marvels Avengers: jump into the Marvel cinematic universe with characters and storylines from some of the critically acclaimed films and more
 - LEGO Marvel Super Heroes: players take control of a huge roster of characters as they unite to stop Loki and a host of other Marvel villains from assembling a super weapon capable of destroying the world
+- LEGO Marvel Super Heroes 2: join your favorite Super Heroes and Super Villains from different eras and realities as they go head to head with the time-traveling Kang the Conqueror in the all new, original adventure
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B084TNKGJL/?tag=tolees-21)
