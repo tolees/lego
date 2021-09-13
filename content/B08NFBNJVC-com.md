@@ -29,9 +29,9 @@ There's a deal [LEGO VIDIYO Party Llama Beatbox 43105 Building Kit with Minifigu
 ℹ️:
 
 - Download the free LEGO VIDIYO app to scan the minifigure and special effect BeatBits. Kids will love seeing their character come to life within a samba-inspired tropical music video
-- Help kids direct and star in their own music videos with the LEGO VIDIYO Party Llama BeatBox (43105). Includes a llama minifigure with maracas accessory, 14 random BeatBits and 2 special BeatBits
-- The LEGO VIDIYO app is compatible with selected iOS and Android devices. Children should ask parents permission before going online
 - Scan the BeatBits in the app to unlock special effects like the colorful tropico techno effect
+- Help kids direct and star in their own music videos with the LEGO VIDIYO Party Llama BeatBox (43105). Includes a llama minifigure with maracas accessory, 14 random BeatBits and 2 special BeatBits
 - A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
+- The LEGO VIDIYO app is compatible with selected iOS and Android devices. Children should ask parents permission before going online
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08NFBNJVC/?tag=tolees-20)
