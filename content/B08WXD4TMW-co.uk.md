@@ -28,10 +28,10 @@ You've got [LEGO 43114 VIDIYO Punk Pirate Ship BeatBox Music Video Maker Musical
 
 ℹ️:
 
-- Kids can change the scenery in the videos – like swapping the skull deco for a shark head or changing the treasure chest speakers to cannons
-- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
+- Kids can change the scenery in the videos – like swapping the skull deco for a shark head or changing the treasure chest speakers to cannons
 - Includes 3 minifigures with musical accessories, 14 random BeatBits and 3 special BeatBits to scan to unlock video effects in the LEGO app
 - The LEGO VIDIYO Punk Pirate Ship music video maker set creates a digital pirate ship stage to perform on in the augmented reality app
+- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08WXD4TMW/?tag=tolees0a-21)

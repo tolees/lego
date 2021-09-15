@@ -28,10 +28,10 @@ You've got [LEGO 43181 Disney Princess Raya and the Heart Palace Playset  Castle
 
 ℹ️:
 
-- Accessories include Raya’s conical straw hat, 3 toy swords, plus grapes, ice cream, drinks and fruit
-- Features an exotic palace based on the new Disney movie Raya and the Last Dragon, with 6 rooms, 2 opening towers and 1 central tower
-- The palace has a revolving wall with a secret room and large treasure chest; the opening central and side towers enable multiple-scene play
 - Fans of Disney’s Raya and the Last Dragon will adore this castle set with its many details and story starters for kids 6+ years old
+- Features an exotic palace based on the new Disney movie Raya and the Last Dragon, with 6 rooms, 2 opening towers and 1 central tower
 - Includes Raya and Namaari mini-doll figures, plus bug-like companion Tuk Tuk and Namaari’s Serlot LEGO figures to enact exciting adventures
+- The palace has a revolving wall with a secret room and large treasure chest; the opening central and side towers enable multiple-scene play
+- Accessories include Raya’s conical straw hat, 3 toy swords, plus grapes, ice cream, drinks and fruit
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B082WDKV5X/?tag=tolees0a-21)
