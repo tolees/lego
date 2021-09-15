@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.29 % for LEGO 41440 Friends Heartlake City Bakery'
-date: 2021-09-13 07:26:55
+date: 2021-09-15 11:57:18
 image: 'https://m.media-amazon.com/images/I/51V-72juHbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [LEGO 41440 Friends Heartlake City Bakery Playset  Café Toy�
 
 ℹ️:
 
-- Packed with bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
-- This snack-sized bakery set features Stephanie and Olivia minidolls, a cute dog figure, and a delivery scooter for limitless role-play fun
 - Features an easy-to-build bakery with outdoor café garden setting and Starter Bricks to help get the building going for more time to play!
-- Give kids 4+ years old more fun experiences with digital Instructions PLUS! Zoom, rotate, ghost and save modes help make building a breeze
+- This snack-sized bakery set features Stephanie and Olivia minidolls, a cute dog figure, and a delivery scooter for limitless role-play fun
+- Packed with bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
 - Kids learn to build as they role-play working in a café, delivering cakes on a cool scooter and hanging out with their friends
+- Give kids 4+ years old more fun experiences with digital Instructions PLUS! Zoom, rotate, ghost and save modes help make building a breeze
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4RK5K7/?tag=tolees0a-21)
