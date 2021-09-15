@@ -28,14 +28,14 @@ With a final price of 16.99 EUR (original: 19.99 EUR) you can find [LEGO 21151 M
 
 ℹ️:
 
-- Dieses Set enthält mehr als 222 Teile.
-- Enthält außerdem einen Code zum Freischalten eines LEGO Drachenjäger-Skins im Online-Spiel Minecraft Bedrock Edition.
 - Überprüfe deine Drachenjäger-Rüstung, schnapp dir deinen Trank, die Enderperle und den verzauberten Bogen und mach dich bereit für das letzte Gefecht.
-- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
-- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen- und Enderman-Figur.
-- Zur Ausrüstung gehört ein verzauberter Bogen.
-- Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen.
+- Dieses Set enthält mehr als 222 Teile.
 - Die Zubehörteile umfassen eine Enderperle und einen Trank.
 - Dieses Minecraft-Spielzeug umfasst ein Enderdrachen-Spielzeug mit beweglichen Gliedmaßen und eine Enderman-Figur sowie ein Minecraft-Ende-Setting mit Obsidiansäule und einem Enderkristall mit Pop-up-Funktion.
+- Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen.
+- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
+- Enthält außerdem einen Code zum Freischalten eines LEGO Drachenjäger-Skins im Online-Spiel Minecraft Bedrock Edition.
+- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen- und Enderman-Figur.
+- Zur Ausrüstung gehört ein verzauberter Bogen.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21)
