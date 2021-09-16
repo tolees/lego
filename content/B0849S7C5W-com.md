@@ -28,10 +28,10 @@ You've got [LEGO BrickHeadz Star Wars The Mandalorian & The Child 75317 Building
 
 ℹ️:
 
-- The Mandalorian buildable LEGO figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand – to spark memories of thrilling Star Wars: The Mandalorian scenes
-- The Mandalorian measures 3” (8cm) tall and the Child and hoverpram building toy measures 3” (8cm) high – they wont take up too much space but are sure to make a big impression wherever they are displayed
-- Star Wars: The Mandalorian fans and creative kids will love building their own LEGO BrickHeadz versions of the Child and The Mandalorian (75317), recreating authentic details to create a cool display
 - This 295-piece LEGO BrickHeadz Star Wars building toy makes an awesome birthday present, holiday gift or anytime surprise for Star Wars: The Mandalorian fans and LEGO builders aged 10 and up
+- The Mandalorian measures 3” (8cm) tall and the Child and hoverpram building toy measures 3” (8cm) high – they wont take up too much space but are sure to make a big impression wherever they are displayed
 - Youngsters will love the Child building toy with adjustable ears for different expressions, and its hoverpram ‘floating’ on a transparent LEGO element; Both construction models have baseplates for display
+- Star Wars: The Mandalorian fans and creative kids will love building their own LEGO BrickHeadz versions of the Child and The Mandalorian (75317), recreating authentic details to create a cool display
+- The Mandalorian buildable LEGO figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand – to spark memories of thrilling Star Wars: The Mandalorian scenes
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B0849S7C5W/?tag=tolees-20)
