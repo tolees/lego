@@ -28,10 +28,10 @@ There's a deal [LEGO Friends Heartlake City Bakery 41440 Building Kit; Kids Caf�
 
 ℹ️:
 
-- Measuring over 5 in. (13 cm) wide, this set takes up little room while on display. Because its compatible with all LEGO bricks, it can also be expanded as kids construction confidence grows
-- The great-value Heartlake City Bakery (41440) helps kids learn to build as they role-play working in a café, delivering cakes on a cool scooter and hanging out with their friends
-- A convenient birthday present for a boy or girl aged 4+ who deserves a treat. Reward hard work with a creative everyday gift that entertains for hours and teaches construction skills
 - This LEGO Friends set is packed with cute bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
 - This snack-sized bakery set features 3 characters, including a cute dog figure, for limitless role-play fun. Starter Bricks also help get the building going, so theres more time to play
+- A convenient birthday present for a boy or girl aged 4+ who deserves a treat. Reward hard work with a creative everyday gift that entertains for hours and teaches construction skills
+- The great-value Heartlake City Bakery (41440) helps kids learn to build as they role-play working in a café, delivering cakes on a cool scooter and hanging out with their friends
+- Measuring over 5 in. (13 cm) wide, this set takes up little room while on display. Because its compatible with all LEGO bricks, it can also be expanded as kids construction confidence grows
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08NF9JJSM/?tag=tolees-20)
