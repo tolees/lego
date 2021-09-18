@@ -1,39 +1,38 @@
 ---
 layout: post
 title: 'Discount of 28.66 % for LEGO 60287 City Traktor Spielzeug  Bauer'
-date: 2021-08-23 20:21:47
+date: 2021-09-18 08:42:27
 image: 'https://m.media-amazon.com/images/I/517UibjviiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08G4THL9P-de LEGO 60287 City Traktor Spielzeug Bauernhofset mit...'
+slug: 'B08G4THL9P-de LEGO 60287 City Traktor Spielzeug Bauernhof Set mit...'
 sku: 'B08G4THL9P-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26
 comparePrice: 19.99 EUR
-prodname: 'LEGO 60287 City Traktor Spielzeug  Bauernhofset mit Hasenfigur für 5-jährige Jungen und Mädchen'
+prodname: 'LEGO 60287 City Traktor Spielzeug  Bauernhof Set mit Minifiguren und Tierfiguren  toll als Geschenk für Jungen und Mädchen ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4THL9P/?tag=tolees0ca-21'
 descuento: '28.66'
-average: '15.7954929577466'
+average: '15.8541095890412'
 ---
 
-You've got [LEGO 60287 City Traktor Spielzeug  Bauernhofset mit Hasenfigur für 5-jährige Jungen und Mädchen](https://www.amazon.de/dp/B08G4THL9P/?tag=tolees0ca-21) with a  28.66 % discount, with final price of 14.26 EUR (original: 19.99 EUR) at the following link:
+You've got [LEGO 60287 City Traktor Spielzeug  Bauernhof Set mit Minifiguren und Tierfiguren  toll als Geschenk für Jungen und Mädchen ab 5 Jahren](https://www.amazon.de/dp/B08G4THL9P/?tag=tolees0ca-21) with a  28.66 % discount, with final price of 14.26 EUR (original: 19.99 EUR) at the following link:
 
 [![LEGO 60287 City Traktor Spielzeug  Bauer](https://m.media-amazon.com/images/I/517UibjviiL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4THL9P/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der LEGO City Traktor aus der Reihe „Starke Fahrzeuge“ ist ein tolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Jungen und Mädchen ab 5 Jahren
-- Inhalt des Sets: Alles, was Kinder zum Bauen eines coolen Traktors mit vielen realistischen Funktionen benötigen, sowie 2 Heuballen, eine Gemüsekiste, ein Landwirt und seine Tochter als Minifiguren sowie eine Hasenfigur
-- Eine Kiste mit Kürbis, Apfel und Karotten sowie 2 Heuballen sind als Zubehör enthalten
-- Der LEGO City Spielzeug-Traktor (60287) verfügt über riesige Hinterräder, eine Kippschaufel, die sich anheben lässt, und eine Minifigur-Kabine. Kinder können das Modell auch mit anderen LEGO Spielsets zu coolen Schaustücken kombinieren
-- Zu diesem Set gibt es neben einer einfachen gedruckten Bauanleitung auch interaktive Instructions PLUS für Kinder – und zwar in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets
-- Der fertige Traktor ist 10 cm hoch, 17 cm lang und 7 cm breit
-- Das legendäre LEGO City Spielset „Traktor“ (60287) vermittelt kreativen Spielspaß und stellt Kindern die faszinierende LEGO City Welt vor. Ideales Geschenk für Jungen und Mädchen ab 5 Jahren
+- Enthält einen coolen Spielzeug-Traktor mit riesigen Hinterrädern, eine kippbare Ladeschaufel, die sich anheben lässt, und eine Kabine, in die eine Minifigur passt
+- Inklusive Bauanleitung und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte
+- Dieses Bauernhof Spielzeug beinhaltet einen LEGO Bauern und seine Tochter, eine Hasenfigur sowie 2 Heuballen und eine Gemüsekiste für viel Spaß auf dem Bauernhof
+- Dieses Spielzeug für Jungen und Mädchen ab 5 Jahren ist das perfekte Geschenk zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass für Fans von LEGO City
+- Der rote Spielzeugtraktor fährt die Ernte auf seinen großen Reifen problemlos zum Bauern und seiner Tochter, wo hungrige Hasen schon auf sie warten!
+- Kinder ab 5 Jahren können die Heuballen und die Kiste mit Kürbis, Apfel und Karotten in die Traktorschaufel laden und sie dann in die Luft heben
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4THL9P/?tag=tolees0ca-21)
