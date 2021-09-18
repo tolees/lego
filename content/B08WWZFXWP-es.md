@@ -28,12 +28,12 @@ There's a deal [LEGO 43112 VIDIYO Robo Hiphop Car  Creador de Vídeos Musicales 
 
 ℹ️:
 
-- Escanea los BeatBits en la app LEGO para desbloquear efectos especiales: añade geniales sonidos de robots a las canciones o decora vídeos con graffitis
-- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
 - Los peques pueden cambiar el escenario en su video, como cambiar la cabecera para crear un garaje de alta tecnología o un fondo digital de graffiti
-- El creador de vídeos musicales LEGO VIDIYO Robo HipHop Car da vida a mini figuras en la app gratuita de realidad aumentada
+- Escanea los BeatBits en la app LEGO para desbloquear efectos especiales: añade geniales sonidos de robots a las canciones o decora vídeos con graffitis
 - Escanea los BeatBits en la aplicación para desbloquear efectos especiales como el efecto de sonido de la ópera rock y emocionantes imágenes de fuego, como en un concierto real
+- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
 - Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
 - Incluye 2 mini figuras con accesorios musicales de juguete, 14 BeatBits aleatorios y 2 BeatBits especiales para que los personajes actúen en los videos.
+- El creador de vídeos musicales LEGO VIDIYO Robo HipHop Car da vida a mini figuras en la app gratuita de realidad aumentada
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B08WWZFXWP/?tag=tolees-21)
