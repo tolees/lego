@@ -28,8 +28,8 @@ With a final price of 14.99 EUR (original: 29.95 EUR) you can find [Warner Bros 
 
 ℹ️:
 
+- LEGO Number 71202
 - Level Pack
 - Homer
-- LEGO Number 71202
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21)
