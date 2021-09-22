@@ -28,11 +28,11 @@ With a final price of 31.99 EUR (original: 39.99 EUR) you can find [LEGO 71752 N
 
 ℹ️:
 
-- Los niños pueden transformar el coche de juguete en un submarino para sumergirse en el fondo del mar y desmontar el dron para vigilar a los molestos guardias
-- El set LEGO NINJAGO incluye vehículos 2 en 1 para niños que pueden ser un coche de juguete o un juguete submarino para aventuras acuáticas sin escalas
-- También echa un vistazo al Templo del Mar Infinito (71755) y Barco de Asalto Hidro (71756)
-- El coche de juguete anfibio tiene un dron desmontable, una cabina que se abre para colocar las mini figuras y 2 cañones para ofrecer horas de juego de rol
-- Este juguete Ninja viene con 4 mini figuras: Scuba Jay y Scuba Cole, cada uno con aletas, para enfrentarse a 2 Maaray Guards, todos con sus armas
 - Igual que en la serie de televisión NINJAGO: Seabound, los ninjas están en una batalla por amuleto de olas de juguete (incluido) para salvar la ciudad de NINJAGO de una ola gigante
+- El set LEGO NINJAGO incluye vehículos 2 en 1 para niños que pueden ser un coche de juguete o un juguete submarino para aventuras acuáticas sin escalas
+- Este juguete Ninja viene con 4 mini figuras: Scuba Jay y Scuba Cole, cada uno con aletas, para enfrentarse a 2 Maaray Guards, todos con sus armas
+- Los niños pueden transformar el coche de juguete en un submarino para sumergirse en el fondo del mar y desmontar el dron para vigilar a los molestos guardias
+- El coche de juguete anfibio tiene un dron desmontable, una cabina que se abre para colocar las mini figuras y 2 cañones para ofrecer horas de juego de rol
+- También echa un vistazo al Templo del Mar Infinito (71755) y Barco de Asalto Hidro (71756)
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08W8JMTP6/?tag=tolees-21)
