@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.02 % deal for LEGO 60221 City Yate de Buceo  Juguete d'
-date: 2021-09-21 02:19:51
+date: 2021-09-24 05:26:02
 image: 'https://m.media-amazon.com/images/I/515m-lQ6nOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNTTF4D/?tag=tolees-21'
 descuento: '40.02'
-average: '16.7537500000002'
+average: '16.6804615384617'
 ---
 
 There's a deal [LEGO 60221 City Yate de Buceo  Juguete de Construcción para Niños y Niñas a Partir de 5 años con 2 Mini Figuras de Buceadores](https://www.amazon.es/dp/B07FNTTF4D/?tag=tolees-21)  with  40.02 % discount, final price tag of  11.99 EUR (original: 19.99 EUR) here:
@@ -28,15 +28,15 @@ There's a deal [LEGO 60221 City Yate de Buceo  Juguete de Construcción para N
 
 ℹ️:
 
-- Incluye también una escena del lecho marino con un cofre del tesoro que se abre.
-- Se compone de un gran Yate de Buceo recreativo de juguete con cubierta, techo desmontable, foco de búsqueda móvil y espacio para dormir/de almacenamiento en el interior.
-- Desmonta el techo del yate para acceder a la cubierta inferior y echarte una siesta.
-- ¿Qué contiene el cofre del tesoro
-- ¡Asciende a la superficie y vuelve al yate con tu tesoro!
-- La escena del lecho marino mide más de 5 cm de altura, 4 cm de ancho y 4 cm de profundidad.
-- Accesorios incluidos: un equipo de submarinismo, una cámara, una joya, una videocámara, una máscara de oxígeno, una figura de un pez y una boya para construir.
 - Incluye 2 minifiguras de buceadores LEGO City y las figuras de un pez espada y un cangrejo.
+- Se compone de un gran Yate de Buceo recreativo de juguete con cubierta, techo desmontable, foco de búsqueda móvil y espacio para dormir/de almacenamiento en el interior.
+- La escena del lecho marino mide más de 5 cm de altura, 4 cm de ancho y 4 cm de profundidad.
 - Ábrelo y encontrarás una joya y un cangrejo.
 - El Yate de Buceo de juguete mide más de 8 cm de altura, 23 cm de longitud y 6 cm de ancho.
+- ¡Asciende a la superficie y vuelve al yate con tu tesoro!
+- Desmonta el techo del yate para acceder a la cubierta inferior y echarte una siesta.
+- Accesorios incluidos: un equipo de submarinismo, una cámara, una joya, una videocámara, una máscara de oxígeno, una figura de un pez y una boya para construir.
+- Incluye también una escena del lecho marino con un cofre del tesoro que se abre.
+- ¿Qué contiene el cofre del tesoro
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FNTTF4D/?tag=tolees-21)
