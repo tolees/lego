@@ -29,10 +29,10 @@ You've got [LEGO 43115 VIDIYO The Boombox Beatbox Music Video Maker  Jouet Music
 ℹ️:
 
 - Le set LEGO VIDIYO music video maker Boombox propose 4 choix de décors dans l’application de réalité augmentée : tropical, espace, forêt ou château
-- Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
-- Inclut 4 figurines : un vampire, un léopard, une fée et un extraterrestre, avec des accessoires musicaux, 14 BeatBits aléatoires et 4 BeatBits spéciaux à scanner
 - Scannez les éléments de l’application pour débloquer 4 têtes, haut-parleurs et lumières différents, s’inspirant tous d’un genre musical différent pour les enfants fans de musique
+- Recherchez LEGO VIDIYO sur l’App Store ou Google play pour télécharger et tester l’application avant d’acheter un set
 - Vérifiez la compatibilité de votre appareil en téléchargeant l’application gratuite et en enregistrant votre premier clip vidéo avec les personnages numériques Bandmate
+- Inclut 4 figurines : un vampire, un léopard, une fée et un extraterrestre, avec des accessoires musicaux, 14 BeatBits aléatoires et 4 BeatBits spéciaux à scanner
 - À l’intérieur, ils peuvent ranger la scène à scanner en briques ; la boîte se ferme pour prendre ce « jouet musical enfants » de partout
 - Les effets spéciaux incluent l’apparition d’une moto ou de feu magiques dans le décor de leurs clips vidéo
 

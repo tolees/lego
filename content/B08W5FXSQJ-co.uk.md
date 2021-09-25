@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41679 Friends Forest House Toy  Tre at 35.97 % discount'
-date: 2021-09-24 07:53:45
+date: 2021-09-25 08:53:30
 image: 'https://m.media-amazon.com/images/I/51ukUvZWaQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21'
 descuento: '35.97'
-average: '16.9148571428571'
+average: '16.8894444444444'
 ---
 
 With a final price of 16.0 GBP (original: 24.99 GBP) you can find [LEGO 41679 Friends Forest House Toy  Treehouse Adventure Set with Mia Mini Doll and Kayak Boat Model](https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21) with a  35.97 % discount here:
@@ -28,10 +28,10 @@ With a final price of 16.0 GBP (original: 24.99 GBP) you can find [LEGO 41679 Fr
 
 ℹ️:
 
-- A great LEGO gift for kids aged 6+ who love dollhouse toys or forest treehouse adventures making it the perfect birthdays or Christmas present
-- The forest dollhouse has an opening roof for easy access, a sleeping area, a patio with dolls house furniture, even a toilet for mini dolls!
-- This miniature forest toy house includes 2 LEGO mini dolls: Mia and her Mum Ann, plus a LEGO Friends Ava micro doll, and a raccoon toy figure
-- Accessories include ketchup and mustard bottles, a hotdog, camera, kayak, life vest and paddle elements plus a sofa and barbecue
 - The LEGO Friends forest house adventure set features 2 separate scenes: a 2-floors summer treehouse and a separate kayaking scene
+- This miniature forest toy house includes 2 LEGO mini dolls: Mia and her Mum Ann, plus a LEGO Friends Ava micro doll, and a raccoon toy figure
+- The forest dollhouse has an opening roof for easy access, a sleeping area, a patio with dolls house furniture, even a toilet for mini dolls!
+- Accessories include ketchup and mustard bottles, a hotdog, camera, kayak, life vest and paddle elements plus a sofa and barbecue
+- A great LEGO gift for kids aged 6+ who love dollhouse toys or forest treehouse adventures making it the perfect birthdays or Christmas present
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21)
