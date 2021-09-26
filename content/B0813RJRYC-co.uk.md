@@ -28,10 +28,10 @@ You've got [LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car  Advanced Build
 
 ℹ️:
 
-- The Sián FKP 37 LEGO model is presented in luxury packaging and provides a stunning display piece to build and enjoy
-- This 3,696-piece LEGO Technic 1:8 scale model car brings you closer than ever to the real Lamborghini Sián FKP 37
 - Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
 - Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
 - Includes a collector’s building instruction booklet, decorative display plate, and unique serial number
+- The Sián FKP 37 LEGO model is presented in luxury packaging and provides a stunning display piece to build and enjoy
+- This 3,696-piece LEGO Technic 1:8 scale model car brings you closer than ever to the real Lamborghini Sián FKP 37
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21)
