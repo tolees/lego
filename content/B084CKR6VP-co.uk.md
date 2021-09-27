@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.30 % for LEGO 75317 BrickHeadz Star Wars The Mand'
-date: 2021-09-23 20:28:27
+date: 2021-09-27 05:31:41
 image: 'https://m.media-amazon.com/images/I/51a4wKybZnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B084CKR6VP/?tag=tolees0a-21'
 descuento: '33.30'
-average: '21.2285000000002'
+average: '21.0772131147543'
 ---
 
 You've got [LEGO 75317 BrickHeadz Star Wars The Mandalorian & The Child Baby Yoda Collectable Model Building Set](https://www.amazon.co.uk/dp/B084CKR6VP/?tag=tolees0a-21) with a  33.30 % discount, with final price of 12.0 GBP (original: 17.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 75317 BrickHeadz Star Wars The Mandalorian & The Child
 
 ℹ️:
 
-- The "Baby Yoda" Child has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent LEGO elements
-- The Mandalorian buildable LEGO figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand
-- LEGO BrickHeadz build-and-display models of The Mandalorian and the Child
-- Both construction models have baseplates to create an eye-catching display
 - A great addition to any Star Wars fan’s collection
+- Both construction models have baseplates to create an eye-catching display
+- LEGO BrickHeadz build-and-display models of The Mandalorian and the Child
+- The Mandalorian buildable LEGO figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand
+- The "Baby Yoda" Child has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent LEGO elements
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B084CKR6VP/?tag=tolees0a-21)
