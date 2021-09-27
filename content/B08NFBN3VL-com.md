@@ -29,9 +29,9 @@ There's a deal [LEGO VIDIYO Alien DJ Beatbox 43104 Building Kit with Minifigure;
 ℹ️:
 
 - Scan the BeatBits in the app to unlock special effects like the glowstick effect that leaves light trails as characters dance
+- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
 - The LEGO VIDIYO app is compatible with selected iOS and Android devices. Children should ask parents permission before going online
 - Inspire kids to direct and star in their own music videos with the LEGO VIDIYO Alien DJ BeatBox (43104). Includes: alien DJ minifigure, LP record accessory, 14 random BeatBits and 2 special BeatBits
 - Download the free LEGO VIDIYO app to scan the minifigure and special effect BeatBits. Kids will love seeing their character come to life within their music video
-- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B08NFBN3VL/?tag=tolees-20)

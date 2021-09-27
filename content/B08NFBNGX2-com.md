@@ -28,10 +28,10 @@ With a final price of 11.99 USD (original: 19.99 USD) you can find [LEGO VIDIYO 
 
 ℹ️:
 
-- Scan the BeatBits in the app to unlock special effects like the like the cool one that swaps words for a punk pirate-inspired ‘arrr’
-- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
-- Download the free LEGO VIDIYO app to scan the minifigure and special effect BeatBits. Kids will love seeing their character come to life within their punk-inspired music video
 - Inspire kids to direct and star in their own music videos with the LEGO VIDIYO Punk Pirate BeatBox (43103). Includes a punk pirate minifigure with guitar, 14 random BeatBits and 2 special BeatBits
 - The LEGO VIDIYO app is compatible with selected iOS and Android devices. Children should ask parents permission before going online
+- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
+- Scan the BeatBits in the app to unlock special effects like the like the cool one that swaps words for a punk pirate-inspired ‘arrr’
+- Download the free LEGO VIDIYO app to scan the minifigure and special effect BeatBits. Kids will love seeing their character come to life within their punk-inspired music video
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B08NFBNGX2/?tag=tolees-20)
