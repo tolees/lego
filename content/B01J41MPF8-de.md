@@ -29,14 +29,14 @@ There's a deal [LEGO 21034 Architecture London Bauset  Skyline-Kollektion  Londo
 ℹ️:
 
 - Das Modell ist 15 cm hoch, 28 cm breit und 8 cm tief.
-- LEGO Architecture Interpretation von London.
-- Mit National Gallery, Nelsonsäule, London Eye, Big Ben (offizieller Name: Elizabeth Tower) und Tower Bridge.
-- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Form von LEGO Steinen und spricht jeden an, der sich für Reisen, Design, Architektur und Geschichte interessiert
-- Dieses Set enthält mehr als 460 LEGO Teile und bietet Baumeistern ab 12 Jahren ein altersgerechtes Bauerlebnis.
-- Die Tower Bridge öffnet sich, um das ankommende Schiff willkommen zu heißen.
-- Das beiliegende Heft enthält Informationen über den Designer, die Architektur und die Geschichte der einzelnen Bauwerke sowie historische Fakten zu London und dem architektonischen Erbe dieser Metropole (nur in englischer Sprache. Das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden.)
 - Enthält eine mit Platten besetzte 4x32-Grundplatte mit dem dekorativen Namensschild „London“.
 - Mit der Kollektion LEGO Architecture Skyline lassen sich einige der weltweit schönsten Städte nachbilden.
+- Mit National Gallery, Nelsonsäule, London Eye, Big Ben (offizieller Name: Elizabeth Tower) und Tower Bridge.
+- Das beiliegende Heft enthält Informationen über den Designer, die Architektur und die Geschichte der einzelnen Bauwerke sowie historische Fakten zu London und dem architektonischen Erbe dieser Metropole (nur in englischer Sprache. Das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden.)
+- Die Tower Bridge öffnet sich, um das ankommende Schiff willkommen zu heißen.
+- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Form von LEGO Steinen und spricht jeden an, der sich für Reisen, Design, Architektur und Geschichte interessiert
+- Dieses Set enthält mehr als 460 LEGO Teile und bietet Baumeistern ab 12 Jahren ein altersgerechtes Bauerlebnis.
 - Die Themse durch London wird mit durchsichtigen Platten auf der Grundplatte dargestellt.
+- LEGO Architecture Interpretation von London.
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21)

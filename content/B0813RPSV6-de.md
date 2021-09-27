@@ -29,9 +29,9 @@ You've got [LEGO 41427 Friends Emmas Mode-Geschäft Set  Puppenhaus mit Mini Pup
 ℹ️:
 
 - Dieses Set ist ein 2-stöckiges Puppenhaus mit trennbarem Modegeschäft und ein Studio mit Nähbereich, dazu kommt Kleidung – für jeweils 2 Spieler!
-- Kinder können das Studio im Obergeschoss entfernen, um einfachen Zugang zum darunter liegenden Modegeschäft zu erhalten
-- Dieses Spielzeug ab 6 Jahren enthält 2 Mini Puppen Emma und Andrea, einen stylischen Scooter, eine Kasse, eine Nähmaschine, eine Schere, eine Banknote und Kleider
-- Schauen Sie sich andere LEGO Sets an: Wasserpark 41430, Olivias Blumengarten 41425, Waffelhaus 41426 und Strandhaus 41428
 - Kleine Mode-Fans können bauen und sich vorstellen, dass sie ein Designer sind, der Outfits herstellt und sie in einem Modegeschäft verkauft
+- Kinder können das Studio im Obergeschoss entfernen, um einfachen Zugang zum darunter liegenden Modegeschäft zu erhalten
+- Schauen Sie sich andere LEGO Sets an: Wasserpark 41430, Olivias Blumengarten 41425, Waffelhaus 41426 und Strandhaus 41428
+- Dieses Spielzeug ab 6 Jahren enthält 2 Mini Puppen Emma und Andrea, einen stylischen Scooter, eine Kasse, eine Nähmaschine, eine Schere, eine Banknote und Kleider
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B0813RPSV6/?tag=tolees0ca-21)

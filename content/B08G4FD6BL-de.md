@@ -28,11 +28,11 @@ You've got [LEGO 71381 Super Mario Begegnung mit dem Kettenhund – Erweiterungs
 
 ℹ️:
 
-- Dieses 160-teilige LEGO Set ist ein lustiges Geburtstags- oder Weihnachtsgeschenk für Kinder ab 7 Jahren. Sobald sie das Set mit dem Starterset „Abenteuer mit Mario“ (71360) kombinieren, können sie damit interaktiv spielen
-- Dieses einzigartige Spielset beinhaltet 2 legendäre Super Mario Gegner als LEGO Figuren. Den Kettenhund und den Häcki muss die nicht im Set enthaltene LEGO Mario Figur dann in diesem Level besiegen
 - Das Erweiterungsset „Begegnung mit dem Kettenhund“ (71381) lässt Kinder eine Sprungherausforderung im Limonadendschungel zu ihrem LEGO Super Mario Starterset hinzufügen. Diese witzige Aufgabe können sie dann mit ihren Freunden meistern
 - Die kostenlose LEGO Super Mario App enthält Bauanleitungen und dient Kindern als sichere Plattform, um Ideen auszutauschen. Eine Liste der kompatiblen Android- und iOS-Geräte finden Sie auf unsere website
-- Beinhaltet eine Sprungplattform, um den Kettenhund umzustoßen, und einen Münzblock, der Spielern zusätzliche digitale Münzen als Belohnungen anbietet
 - Das Modul ist in seiner Grundkonfiguration 10 cm hoch, 21 cm breit und 15 cm tief. Das vielseitige Modell lässt sich aber auch umbauen und mit anderen LEGO Super Mario Sets kombinieren
+- Dieses einzigartige Spielset beinhaltet 2 legendäre Super Mario Gegner als LEGO Figuren. Den Kettenhund und den Häcki muss die nicht im Set enthaltene LEGO Mario Figur dann in diesem Level besiegen
+- Dieses 160-teilige LEGO Set ist ein lustiges Geburtstags- oder Weihnachtsgeschenk für Kinder ab 7 Jahren. Sobald sie das Set mit dem Starterset „Abenteuer mit Mario“ (71360) kombinieren, können sie damit interaktiv spielen
+- Beinhaltet eine Sprungplattform, um den Kettenhund umzustoßen, und einen Münzblock, der Spielern zusätzliche digitale Münzen als Belohnungen anbietet
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4FD6BL/?tag=tolees0ca-21)

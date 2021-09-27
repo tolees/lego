@@ -28,15 +28,15 @@ With a final price of 13.58 EUR (original: 19.99 EUR) you can find [LEGO 60242 C
 
 ℹ️:
 
+- Dukes Polizeiauto ist 4 cm hoch, 12 cm lang und 5 cm breit. Vitos Cabrio ist dagegen 3 cm hoch, 11 cm lang und 5 cm breit
 - LEGO City Polizei-Sets enthalten Gebäude voller Funktionen, coole Fahrzeuge und witzige Charaktere, um Kinder zu fantasievollen Rollenspielen und Abenteuern in authentischen Stadtkulissen anzuregen
-- Bei der LEGO Gruppe werden die LEGO City Steine strengen Fall-, Druck-, Torsions-, Hitze-, Kratz- und Zugtests unterzogen, damit jedes Set die höchsten globalen Sicherheits- und Qualitätsstandards erfüllt
 - Batterien werden nicht benötigt! Als Antrieb reicht diesem coolen Spielzeug die Fantasie der Kinder, damit der Spielspaß sofort beginnen kann!
+- Das Set enthält den LEGO City TV-Helden Duke DeTain und den Ganoven Vito als Minifiguren, ein cooles Spielzeug-Polizeiauto, einen sportlichen Fluchtwagen sowie einen gestohlenen Tresor und ein Fischkiste. Einer wilden Verfolgungsjagd steht also nichts mehr im Weg!
 - Dieses Bauspielzeug verspricht jede Menge Action und ist ein tolles Geschenk zu jedem Anlass für Jungen und Mädchen ab 5 Jahren, die beim Spielen gerne ihrer Fantasie freien Lauf lassen. Nur ganz grundlegende Baufähigkeiten sind erforderlich
 - Dieses coole LEGO City Polizei-Set „Festnahme auf der Autobahn“ (60242) inspiriert zu fantasievollen, realitätsnahen Rollenspielen und vermittelt Kindern den Nervenkitzel rasanter und actionreicher Autoverfolgungsjagden
-- Dukes Polizeiauto ist 4 cm hoch, 12 cm lang und 5 cm breit. Vitos Cabrio ist dagegen 3 cm hoch, 11 cm lang und 5 cm breit
 - Alle LEGO City Spielsets entsprechen den höchsten Branchenstandards, sodass sich die witzigen Steine stets fest zusammenstecken und leicht wieder lösen lassen
-- Zu diesem Polizei-Spielset gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets
-- Das Set enthält den LEGO City TV-Helden Duke DeTain und den Ganoven Vito als Minifiguren, ein cooles Spielzeug-Polizeiauto, einen sportlichen Fluchtwagen sowie einen gestohlenen Tresor und ein Fischkiste. Einer wilden Verfolgungsjagd steht also nichts mehr im Weg!
+- Bei der LEGO Gruppe werden die LEGO City Steine strengen Fall-, Druck-, Torsions-, Hitze-, Kratz- und Zugtests unterzogen, damit jedes Set die höchsten globalen Sicherheits- und Qualitätsstandards erfüllt
 - Kinder können die Charaktere und Autos aus diesem Set mit anderen LEGO Spielsets kombinieren, um eigene Spielzeuge und Schaustücke zu erschaffen
+- Zu diesem Polizei-Spielset gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)

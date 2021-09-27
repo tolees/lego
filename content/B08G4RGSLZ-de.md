@@ -29,7 +29,7 @@ You've got [LEGO 42124 Technic Control+ Geländewagen  ferngesteuertes Offroad-A
 ℹ️:
 
 - Nur für häuslichen Gebrauch bestimmt
-- Nicht auf Augen oder Gesicht zielen
 - Enthält Spielzeug.
+- Nicht auf Augen oder Gesicht zielen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21)

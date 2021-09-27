@@ -28,10 +28,10 @@ With a final price of 18.15 EUR (original: 24.99 EUR) you can find [LEGO 41926 D
 
 ℹ️:
 
-- Party mit LEGO Dots! Unter der abnehmbaren Glasur kommt ein Geheimfach zum Vorschein, in dem Süßigkeiten oder kleine Überraschungen gut passen
+- Dieses fantasievolle Bastelset für Kinder enthält 8 Cupcakes, die sich mit den zahlreichen Steinchen, Geburtstagskerzen und Aufklebern perfekt verzieren lassen.
 - Das Kreativset eignet sich hervorragend für Gruppenparty-Aktivitäten oder Solo-Spiele. Die Cupcakes sind ein lustiger Gefallen, den Jungen und Mädchen ab 6 Jahren lieben werden
 - LEGO DOTS-Sets bieten offene Kreativität und fördern die Selbstbewusstsein, was sie zum perfekten Geburtstagsgeschenk für Kinder macht!
-- Dieses fantasievolle Bastelset für Kinder enthält 8 Cupcakes, die sich mit den zahlreichen Steinchen, Geburtstagskerzen und Aufklebern perfekt verzieren lassen.
+- Party mit LEGO Dots! Unter der abnehmbaren Glasur kommt ein Geheimfach zum Vorschein, in dem Süßigkeiten oder kleine Überraschungen gut passen
 - Kinder können die Cupcakes mit den vorhandenen Designideen dekorieren oder mit ihrer Kreativität eigenen fantasiefollen farbenfrohen Muster erstellen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4P1N3N/?tag=tolees0ca-21)

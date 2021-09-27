@@ -29,13 +29,13 @@ With a final price of 70.87 EUR (original: 99.99 EUR) you can find [LEGO 21046 A
 ℹ️:
 
 - Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
-- Umfasst ein dekoratives Empire-State-Building-Namensschild.
-- LEGO Architecture Interpretation eines echten Wahrzeichens von New York – dem Empire State Building.
-- Das Set enthält über 1.750 Teile.
 - Das von allen Seiten präsentierbare Modell verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie eine mit Platten besetzte Grundplatte, die die Fifth Avenue und die umliegenden Straßen darstellt und 6 gelbe Taxis aufweist.
-- Das LEGO Architecture Set bietet ein anspruchsvolles und lohnendes Bauerlebnis.
-- Die LEGO Architecture Produktlinie ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
 - Das beiliegende Heft enthält Informationen über den Architekten, die Architektur und die Geschichte des Bauwerks sowie historische Fakten zum Empire State Building und architektonischen Erbe dieses berühmten Gebäudes (nur in englischer Sprache, das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden).
+- Die LEGO Architecture Produktlinie ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
+- Das LEGO Architecture Set bietet ein anspruchsvolles und lohnendes Bauerlebnis.
 - Mit einer Höhe von 55 cm ist das Modell des Empire State Building das bisher höchste LEGO Architecture Modell (Stand Juli 2019).
+- LEGO Architecture Interpretation eines echten Wahrzeichens von New York – dem Empire State Building.
+- Umfasst ein dekoratives Empire-State-Building-Namensschild.
+- Das Set enthält über 1.750 Teile.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)
