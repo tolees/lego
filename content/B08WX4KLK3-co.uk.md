@@ -30,8 +30,8 @@ You've got [LEGO 41685 Friends Magical Funfair Roller Coaster Fairground Set  Am
 
 - Includes 4 LEGO mini dolls with plenty of roles to play - they can buy popcorn, play at breathing fire or refresh themselves in the bathroom
 - Accessories include juggling clubs, stage makeup and balloons. Glow-in-the-dark bricks come to life when the lights are turned out!
+- The amusement park toy also features magic tricks - a box then makes a mini doll disappear, and another disappearing act involving magic
 - The LEGO fairground roller coaster building set features 2 rides, a popcorn stall, photo booth and a fabric-roofed big-top that hosts the show
 - Kids can wow their family and friends by performing magic tricks, ride the feature-packed roller coaster or take a spin on the pendulum ride
-- The amusement park toy also features magic tricks - a box then makes a mini doll disappear, and another disappearing act involving magic
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08WX4KLK3/?tag=tolees0a-21)

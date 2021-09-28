@@ -28,10 +28,10 @@ With a final price of 16.99 GBP (original: 24.99 GBP) you can find [LEGO 60226 C
 
 ℹ️:
 
-- Accessory elements include a helmet, Extra Vehicular Activity suit with a visor, scanner and 2 new-for-June-2019 geodes with blue crystals.
-- Storage drone features an opening compartment, and helidrone a spinning rotor blade and scanner to read a secret symbol discovered on Mars!
 - This building set features a space research shuttle with opening cockpit, 2 large opening doors and space inside for a storage drone.
+- Storage drone features an opening compartment, and helidrone a spinning rotor blade and scanner to read a secret symbol discovered on Mars!
 - This LEGO City Mars Research Shuttle 60226 spaceship toy set makes a great gift and can be built together with all other original LEGO toys
 - Includes 2 astronaut minifigures to drive the Mars rover with new-for-June-2019 articulated grappling arm, laser and tilting solar panels.
+- Accessory elements include a helmet, Extra Vehicular Activity suit with a visor, scanner and 2 new-for-June-2019 geodes with blue crystals.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07KTVJHPF/?tag=tolees0a-21)
