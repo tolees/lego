@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.55 % deal for LEGO 75300 Star Wars Imperial TIE Fighte'
-date: 2021-09-10 08:22:00
+date: 2021-09-28 15:42:39
 image: 'https://m.media-amazon.com/images/I/511c5yH5gZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G444BQH/?tag=tolees0a-21'
 descuento: '28.55'
-average: '34.514761904762'
+average: '34.2220000000001'
 ---
 
 There's a deal [LEGO 75300 Star Wars Imperial TIE Fighter Toy with Stormtrooper and Pilot Minifigures from The Skywalker Saga](https://www.amazon.co.uk/dp/B08G444BQH/?tag=tolees0a-21)  with  28.55 % discount, final price tag of  25.0 GBP (original: 34.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 75300 Star Wars Imperial TIE Fighter Toy with Stor
 
 ℹ️:
 
-- Features a brick-build version of the iconic missile-shooting Imperial TIE fighter from the classic Star Wars trilogy, with 3 characters
 - The set comes with clear instructions so even LEGO newcomers can build independently and with Jedi-level confidence
+- Features a brick-build version of the iconic missile-shooting Imperial TIE fighter from the classic Star Wars trilogy, with 3 characters
+- Includes 2 Star Wars minifigures: a TIE Fighter Pilot with a blaster pistol, a Stormtrooper with a blaster, plus NI-L8 Protocol Droid figure
 - The TIE Fighter features an opening LEGO minifigure cockpit and 2 spring-loaded shooters for action-packed role-play adventures
 - An engaging build, it makes the best birthday present, holiday gift or surprise treat for creative kids and any Star Wars fan aged 8 and up
-- Includes 2 Star Wars minifigures: a TIE Fighter Pilot with a blaster pistol, a Stormtrooper with a blaster, plus NI-L8 Protocol Droid figure
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G444BQH/?tag=tolees0a-21)
