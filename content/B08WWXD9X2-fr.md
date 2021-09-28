@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10947 Duplo Les Voitures de Course  at 36.89 % discount'
-date: 2021-09-26 14:09:09
+date: 2021-09-28 14:47:49
 image: 'https://m.media-amazon.com/images/I/516m7sQmorS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 31.55 EUR (original: 49.99 EUR) you can find [LEGO 10947 D
 
 ℹ️:
 
-- Une fois la course terminée, la grille peut être reconstruire en podium afin que les pilotes puissent célébrer leur victoire avec un trophée
+- Les deux figurines de ce jouet de voiture pour bébés représentent un homme et une femme avec des casques, pour partager des moments créatifs à plusieurs
 - Coloré et polyvalent, ce jouet enfant 2+ ans LEGO Les voitures de course permet aux parents de passer des moments exceptionnels avec leurs enfants
 - Inclut dans ce jeu de construction : 2 jouets petites voitures, une grille de départ pour la course et une petite pompe à essences
-- Les deux figurines de ce jouet de voiture pour bébés représentent un homme et une femme avec des casques, pour partager des moments créatifs à plusieurs
+- Une fois la course terminée, la grille peut être reconstruire en podium afin que les pilotes puissent célébrer leur victoire avec un trophée
 - Les accessoires comprennent un trophée, des drapeaux, un chargeur électrique, un treuil, 2 cônes, 2 pompes à essence et une brosse pour nettoyer les voitures
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B08WWXD9X2/?tag=tolees0d-21)
