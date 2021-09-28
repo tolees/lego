@@ -28,10 +28,10 @@ You've got [LEGO Flower Bouquet 10280 Building Kit; A Unique Flower Bouquet and 
 
 ℹ️:
 
-- Let your imagination bloom with customizable elements. Position the petals and leaves, then change the lengths of the stems to create wonderful arrangements for the home
-- The stems come in a variety of lengths. As a guide, the ‘snapdragon, with its straight stem, measures over 14 in. (36 cm) high
-- This flower bouquet delivers a vibrant display of colors and interesting shapes, inspired by real flowers such as roses, snapdragons, poppies, asters, daisies and grasses
-- The LEGO Flower Bouquet set makes a special and unique gift for friends, loved ones, or yourself, at any time of year
 - The LEGO Flower Bouquet (10280) building kit makes a unique gift or mindful project, creating a beautiful flower display model made entirely from LEGO pieces. Please note, a vase is not included
+- The LEGO Flower Bouquet set makes a special and unique gift for friends, loved ones, or yourself, at any time of year
+- This flower bouquet delivers a vibrant display of colors and interesting shapes, inspired by real flowers such as roses, snapdragons, poppies, asters, daisies and grasses
+- The stems come in a variety of lengths. As a guide, the ‘snapdragon, with its straight stem, measures over 14 in. (36 cm) high
+- Let your imagination bloom with customizable elements. Position the petals and leaves, then change the lengths of the stems to create wonderful arrangements for the home
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08HW1L75J/?tag=tolees-20)
