@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 22.27 % for Harry Potter TM - LEGO 75969 Harry Potte'
-date: 2021-09-25 22:19:33
+date: 2021-09-27 22:24:27
 image: 'https://m.media-amazon.com/images/I/51GYY-xXleL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Harry Potter TM'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21'
 descuento: '22.27'
-average: '72.1432219570408'
+average: '72.1380000000002'
 ---
 
 You've got [Harry Potter TM - LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21) with a  22.27 % discount, with final price of 69.95 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [Harry Potter TM - LEGO 75969 Harry Potter Hogwarts Castle Astr
 
 ℹ️:
 
-- Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
 - Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
-- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create  Hogwarts Castle!
-- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
 - Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
+- Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create  Hogwarts Castle!
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21)
