@@ -28,10 +28,10 @@ There's a deal [LEGO 75300 Star Wars Imperial TIE Fighter Toy with Stor
 
 ℹ️:
 
-- The set comes with clear instructions so even LEGO newcomers can build independently and with Jedi-level confidence
-- Features a brick-build version of the iconic missile-shooting Imperial TIE fighter from the classic Star Wars trilogy, with 3 characters
 - Includes 2 Star Wars minifigures: a TIE Fighter Pilot with a blaster pistol, a Stormtrooper with a blaster, plus NI-L8 Protocol Droid figure
 - The TIE Fighter features an opening LEGO minifigure cockpit and 2 spring-loaded shooters for action-packed role-play adventures
+- The set comes with clear instructions so even LEGO newcomers can build independently and with Jedi-level confidence
 - An engaging build, it makes the best birthday present, holiday gift or surprise treat for creative kids and any Star Wars fan aged 8 and up
+- Features a brick-build version of the iconic missile-shooting Imperial TIE fighter from the classic Star Wars trilogy, with 3 characters
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G444BQH/?tag=tolees0a-21)

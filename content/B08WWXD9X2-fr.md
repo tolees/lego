@@ -29,9 +29,9 @@ With a final price of 31.55 EUR (original: 49.99 EUR) you can find [LEGO 10947 D
 ℹ️:
 
 - Une fois la course terminée, la grille peut être reconstruire en podium afin que les pilotes puissent célébrer leur victoire avec un trophée
-- Coloré et polyvalent, ce jouet enfant 2+ ans LEGO Les voitures de course permet aux parents de passer des moments exceptionnels avec leurs enfants
-- Inclut dans ce jeu de construction : 2 jouets petites voitures, une grille de départ pour la course et une petite pompe à essences
 - Les accessoires comprennent un trophée, des drapeaux, un chargeur électrique, un treuil, 2 cônes, 2 pompes à essence et une brosse pour nettoyer les voitures
 - Les deux figurines de ce jouet de voiture pour bébés représentent un homme et une femme avec des casques, pour partager des moments créatifs à plusieurs
+- Coloré et polyvalent, ce jouet enfant 2+ ans LEGO Les voitures de course permet aux parents de passer des moments exceptionnels avec leurs enfants
+- Inclut dans ce jeu de construction : 2 jouets petites voitures, une grille de départ pour la course et une petite pompe à essences
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B08WWXD9X2/?tag=tolees0d-21)
