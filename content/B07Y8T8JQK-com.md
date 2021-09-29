@@ -28,10 +28,10 @@ There's a deal [LEGO City Police Monster Truck Heist 60245 Police Toy  Cool Buil
 
 ℹ️:
 
-- When built, the monster truck measures over 3" (8cm) high, 6" (17cm) long and 3" (9cm) wide, while the police surveillance van measures over 3" (8cm) high, 4" (12cm) long and 2" (6cm) wide
-- This amazing building set for kids features a crooks’ monster truck with magnetic arm, a toy bank building with magnetic safe, a police surveillance van and motorbike, plus police hero Tom Bennett and crook Big Betty minifigures
 - The police surveillance van and bank building have detailed interiors, and kids can pull the safe from the bank wall with the monster truck’s magnetic arm!
-- This multi-vehicle LEGO City police toy sparks imagination, offers endless build-and-play fun, and is an action-filled holiday, birthday or anyday gift for kids ages 5+ who like monster trucks, motorcycles and police adventure toys
 - Bring LEGO City action home with this multi-model LEGO City police building set, featuring a crooks’ monster truck with a magnetic lifting arm, 2 LEGO City TV series characters and much more!
+- This amazing building set for kids features a crooks’ monster truck with magnetic arm, a toy bank building with magnetic safe, a police surveillance van and motorbike, plus police hero Tom Bennett and crook Big Betty minifigures
+- When built, the monster truck measures over 3" (8cm) high, 6" (17cm) long and 3" (9cm) wide, while the police surveillance van measures over 3" (8cm) high, 4" (12cm) long and 2" (6cm) wide
+- This multi-vehicle LEGO City police toy sparks imagination, offers endless build-and-play fun, and is an action-filled holiday, birthday or anyday gift for kids ages 5+ who like monster trucks, motorcycles and police adventure toys
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07Y8T8JQK/?tag=tolees-20)

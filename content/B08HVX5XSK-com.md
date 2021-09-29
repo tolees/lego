@@ -28,10 +28,10 @@ With a final price of 16.0 USD (original: 19.99 USD) you can find [LEGO Technic 
 
 ℹ️:
 
-- This set is ideal for kids aged 7 and up who love Monster Jam shows or awesome toy vehicles
-- The monster truck toy rebuilds into an off-road buggy so kids can enjoy 2 building challenges and heaps of vehicle role-play action
-- Let monster truck fans recreate favorite stunts with the LEGO Technic Monster Jam Grave Digger (42118) building kit. Authentic features include huge tires, sticker details and more
-- With a pull-back motor, the monster truck and off-road buggy speed along easily, just like the real-life vehicles
 - Cool features include the bendable flag which moves up and down and red headlights, just like on the real Grave Digger truck
+- This set is ideal for kids aged 7 and up who love Monster Jam shows or awesome toy vehicles
+- Let monster truck fans recreate favorite stunts with the LEGO Technic Monster Jam Grave Digger (42118) building kit. Authentic features include huge tires, sticker details and more
+- The monster truck toy rebuilds into an off-road buggy so kids can enjoy 2 building challenges and heaps of vehicle role-play action
+- With a pull-back motor, the monster truck and off-road buggy speed along easily, just like the real-life vehicles
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B08HVX5XSK/?tag=tolees-20)
