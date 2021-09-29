@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 33.36 % for LEGO 41440 Friends Heartlake City Bakery'
-date: 2021-09-28 12:03:00
+date: 2021-09-29 15:43:45
 image: 'https://m.media-amazon.com/images/I/51V-72juHbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4RK5K7/?tag=tolees0a-21'
 descuento: '33.36'
-average: '9.99899999999999'
+average: '9.99885245901638'
 ---
 
 You've got [LEGO 41440 Friends Heartlake City Bakery Playset  Café Toy for Kids 4 + Years Old with Stephanie and Olivia Minidolls](https://www.amazon.co.uk/dp/B08G4RK5K7/?tag=tolees0a-21) with a  33.36 % discount, with final price of 9.99 GBP (original: 14.99 GBP) at the following link:
