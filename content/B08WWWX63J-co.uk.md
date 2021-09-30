@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '46.91 % deal for LEGO 43110 VIDIYO Folk Fairy BeatBox Mus'
-date: 2021-09-29 07:38:49
+title: '46.19 % deal for LEGO 43110 VIDIYO Folk Fairy BeatBox Mus'
+date: 2021-09-30 15:39:05
 image: 'https://m.media-amazon.com/images/I/51rBocG77fS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B08WWWX63J-co.uk LEGO 43110 VIDIYO Folk Fairy BeatBox Music Video Maker...'
 sku: 'B08WWWX63J-co.uk'
 tags: [ 'Building & Construction Toys','Toys & Games','Toys Store','lego', ]
-actualPrice: 9.55 GBP
+actualPrice: 9.68 GBP
 currency: GBP
-price: 9.55
+price: 9.68
 comparePrice: 17.99 GBP
 prodname: 'LEGO 43110 VIDIYO Folk Fairy BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWWX63J/?tag=tolees0a-21'
-descuento: '46.91'
-average: '9.99809523809524'
+descuento: '46.19'
+average: '9.99069767441861'
 ---
 
-There's a deal [LEGO 43110 VIDIYO Folk Fairy BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08WWWX63J/?tag=tolees0a-21)  with  46.91 % discount, final price tag of  9.55 GBP (original: 17.99 GBP) here:
+There's a deal [LEGO 43110 VIDIYO Folk Fairy BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08WWWX63J/?tag=tolees0a-21)  with  46.19 % discount, final price tag of  9.68 GBP (original: 17.99 GBP) here:
 
 [![LEGO 43110 VIDIYO Folk Fairy BeatBox Mus](https://m.media-amazon.com/images/I/51rBocG77fS._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08WWWX63J/?tag=tolees0a-21)
 
 ℹ️:
 
-- Special effects include a magic spell that changes items into random objects or making a magic forest appear in the scene
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
 - The LEGO VIDIYO Folk Fairy BeatBox music video maker set changes kids living rooms into a folk concert stage with an augmented reality app
+- Special effects include a magic spell that changes items into random objects or making a magic forest appear in the scene
 - Includes a fairy minifigure, 14 random BeatBits and 2 special BeatBits. Kids can choose from a flower, fairy wings or violin designs
 - Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
 
