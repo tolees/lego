@@ -28,10 +28,10 @@ With a final price of 48.37 GBP (original: 59.99 GBP) you can find [LEGO 41682 F
 
 ℹ️:
 
-- This LEGO teacher roleplay set for kids includes a science lab with a microscope and a ladybird to study to recreate a perfect school day
 - Includes 3 LEGO mini dolls to play with: Olivia, a new boy Julian and a teacher figure to role-play LEGO classroom experience
-- The LEGO art, drama & music classroom contains a chest of creative dress-up kit, a selection of instruments, brushes, paints and an easel
-- Features 2-floors school house toy with 3 classrooms to build and explore, as well as a canteen, lockers, toilet and an outdoor playground
 - There is also a toy bike with a helmet, a ball, a laptop and a pen with a notebook, plus tables and food accessories in the canteen
+- This LEGO teacher roleplay set for kids includes a science lab with a microscope and a ladybird to study to recreate a perfect school day
+- Features 2-floors school house toy with 3 classrooms to build and explore, as well as a canteen, lockers, toilet and an outdoor playground
+- The LEGO art, drama & music classroom contains a chest of creative dress-up kit, a selection of instruments, brushes, paints and an easel
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08WWPXGP5/?tag=tolees0a-21)
