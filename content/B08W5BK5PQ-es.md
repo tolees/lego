@@ -28,9 +28,9 @@ You've got [LEGO 10773 Mickey and Friends Heladería de Minnie Mouse Coche de Ju
 
 ℹ️:
 
-- El juguete LEGO Minnie Mouse para niños en edad preescolar cuenta con una heladería y un carro de juguete con un ladrillo para principiantes para ayudar a que el edificio se mantenga
-- Incluye figuras de Minnie Mouse y Daisy Duck para dirigir la heladería y jugar en la playa, además de una pieza exclusiva con la silueta de Mickey
 - Brinde a los niños una gran experiencia con un regalo que les enseña habilidades de construcción, fomenta su imaginación y les entretiene durante horas
+- Incluye figuras de Minnie Mouse y Daisy Duck para dirigir la heladería y jugar en la playa, además de una pieza exclusiva con la silueta de Mickey
+- El juguete LEGO Minnie Mouse para niños en edad preescolar cuenta con una heladería y un carro de juguete con un ladrillo para principiantes para ayudar a que el edificio se mantenga
 - Los accesorios incluyen una estructura con una silla de playa y sombrilla, además de una estructura de olas pequeñas y una tabla de surf para aumentar las posibilidades para jugar
 - Este juguete para niños y niñas de 4 años o más LEGO Minnie Mouse con preciosos colores ofrece a los más pequeños un juego lleno de opciones divertidas para jugar y desarrollar sus habilidades
 - Los modos de zoom y guardado en la app digital gratuita Instructions PLUS de LEGO y las sencillas instrucciones con imágenes significan que no hay barreras para construir
