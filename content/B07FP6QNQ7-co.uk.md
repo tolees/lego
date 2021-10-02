@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '21.43 % deal for LEGO 42096 Technic  Porsche 911 RSR Race'
-date: 2021-09-29 23:32:03
+title: '24.64 % deal for LEGO 42096 Technic  Porsche 911 RSR Race'
+date: 2021-10-01 23:44:17
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07FP6QNQ7-co.uk LEGO 42096 Technic Porsche 911 RSR Race Car Advanced...'
 sku: 'B07FP6QNQ7-co.uk'
-tags: [ 'Building & Construction Toys','Kids Play Figures & Vehicles','Kids Play Vehicles','Toy Building Sets','Toys & Games','Toys Store','lego', ]
-actualPrice: 109.99 GBP
+tags: [ 'Building & Construction Toys','Toy Building Sets','Toys & Games','Toys Store','lego', ]
+actualPrice: 105.49 GBP
 currency: GBP
-price: 109.99
+price: 105.49
 comparePrice: 139.99 GBP
 prodname: 'LEGO 42096 Technic  Porsche 911 RSR Race Car Advanced Building Set  Exclusive Collectible Model'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21'
-descuento: '21.43'
-average: '112.229040816324'
+descuento: '24.64'
+average: '112.215315682279'
 ---
 
-There's a deal [LEGO 42096 Technic  Porsche 911 RSR Race Car Advanced Building Set  Exclusive Collectible Model](https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21)  with  21.43 % discount, final price tag of  109.99 GBP (original: 139.99 GBP) here:
+There's a deal [LEGO 42096 Technic  Porsche 911 RSR Race Car Advanced Building Set  Exclusive Collectible Model](https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21)  with  24.64 % discount, final price tag of  105.49 GBP (original: 139.99 GBP) here:
 
 [![LEGO 42096 Technic  Porsche 911 RSR Race](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21)
 
 ℹ️:
 
-- Build and explore the LEGO Technic Porsche 911 RSR—an icon of innovative engineering and design
-- This LEGO Technic model features realistic movement and mechanisms and is designed to provide an immersive and rewarding building experience
 - Open the doors to access a radar screen, working steering, fire extinguisher system and a track map of the Laguna Seca
+- Build and explore the LEGO Technic Porsche 911 RSR—an icon of innovative engineering and design
 - Features aerodynamic bodywork, black spoked rims, working differential and steering, independent suspension and a six-cylinder boxer engine
+- This LEGO Technic model features realistic movement and mechanisms and is designed to provide an immersive and rewarding building experience
 - Includes white, red and black color scheme with sticker detailing to add the final touches to this awesome LEGO Technic Porsche 911 RSR
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21)
