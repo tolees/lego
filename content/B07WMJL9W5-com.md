@@ -28,10 +28,10 @@ You've got [LEGO Speed Champions 1985 Audi Sport Quattro S1 76897 Toy Cars for K
 
 ℹ️:
 
-- Fans of the 1985 Audi Sport quattro S1 will be thrilled to build a mini version from LEGO building bricks, proudly display it, and test its powers by racing it against other models
 - The 1985 Audi Sport quattro S1 rally car measures 2” (6cm) high, 6” (16cm) long and 2” (7cm) wide: new for 2020, all LEGO Speed Champions cars are now 25% bigger to include even more details from the original versions!
-- This 250-piece building kit for boys and girls ages 8+ makes a wonderful gift for both passionate fans of this famous car and those who love to play with racing toys
 - This brilliantly detailed and collectible model car kit featuring a 1985 Audi Sport quattro S1 LEGO replica and 1 driver minifigure is the perfect LEGO gift for the many devoted fans of this classic car
 - This buildable 1985 Audi Sport quattro S1 toy car based on the original model and 1 collectible minifigure in an authentic Audi race suit will captivate kids as they use their imaginations to stage races
+- This 250-piece building kit for boys and girls ages 8+ makes a wonderful gift for both passionate fans of this famous car and those who love to play with racing toys
+- Fans of the 1985 Audi Sport quattro S1 will be thrilled to build a mini version from LEGO building bricks, proudly display it, and test its powers by racing it against other models
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B07WMJL9W5/?tag=tolees-20)
