@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71366 Super Mario Boomer Bill Barra at 47.98 % discount'
-date: 2021-09-29 15:43:28
+date: 2021-10-03 12:45:39
 image: 'https://m.media-amazon.com/images/I/5157EUDXUJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21'
 descuento: '47.98'
-average: '18.3947619047619'
+average: '18.31046875'
 ---
 
 With a final price of 13.0 GBP (original: 24.99 GBP) you can find [LEGO 71366 Super Mario Boomer Bill Barrage Expansion Set Buildable Game](https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21) with a  47.98 % discount here:
@@ -28,10 +28,10 @@ With a final price of 13.0 GBP (original: 24.99 GBP) you can find [LEGO 71366 Su
 
 ℹ️:
 
-- Find new ways to play with the LEGO Mario figure from the Adventures Mario Starter Course set (sold separately) with this expansion set
-- Advance your skills with the free LEGO app with viewing tools, digital building instructions, plus inspiration for creative play and more
 - Players place LEGO Mario figure (not included) on the platform’s smooth end for added difficulty. How many times can they spin?
+- Find new ways to play with the LEGO Mario figure from the Adventures Mario Starter Course set (sold separately) with this expansion set
 - Includes a Shy Guy figure and a Super Mushroom to boost the gameplay - lets see Mario falling or being knocked off by the Boomer Bills!
+- Advance your skills with the free LEGO app with viewing tools, digital building instructions, plus inspiration for creative play and more
 - Features a spinner with 2 ‘flying’ Boomer Bill figures and a rotating platform with 2 difficulty levels (with or without studs) for more fun
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21)
