@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 28.09 % for LEGO 60245 City Polizei Raubüberfall mit'
-date: 2021-09-27 08:31:46
+title: 'Discount of 27.49 % for LEGO 60245 City Polizei Raubüberfall mit'
+date: 2021-10-04 16:27:29
 image: 'https://m.media-amazon.com/images/I/51LlFE00oaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B07W7TM73M-de LEGO 60245 City Polizei Raubüberfall mit dem Monster-Truck...'
 sku: 'B07W7TM73M-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 35.95 EUR
+actualPrice: 36.25 EUR
 currency: EUR
-price: 35.95
+price: 36.25
 comparePrice: 49.99 EUR
 prodname: 'LEGO 60245 City Polizei Raubüberfall mit dem Monster-Truck  Bauset mit Van  Motorrad  Bankgebäude und Magnet-Stein'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73M/?tag=tolees0ca-21'
-descuento: '28.09'
-average: '36.9092753623188'
+descuento: '27.49'
+average: '36.8998571428571'
 ---
 
-You've got [LEGO 60245 City Polizei Raubüberfall mit dem Monster-Truck  Bauset mit Van  Motorrad  Bankgebäude und Magnet-Stein](https://www.amazon.de/dp/B07W7TM73M/?tag=tolees0ca-21) with a  28.09 % discount, with final price of 35.95 EUR (original: 49.99 EUR) at the following link:
+You've got [LEGO 60245 City Polizei Raubüberfall mit dem Monster-Truck  Bauset mit Van  Motorrad  Bankgebäude und Magnet-Stein](https://www.amazon.de/dp/B07W7TM73M/?tag=tolees0ca-21) with a  27.49 % discount, with final price of 36.25 EUR (original: 49.99 EUR) at the following link:
 
 [![LEGO 60245 City Polizei Raubüberfall mit](https://m.media-amazon.com/images/I/51LlFE00oaL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W7TM73M/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Glück gehabt! Batterien werden nicht benötigt. Als Antrieb reicht den Fahrzeugen in diesem LEGO City Polizei-Spielset die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
-- Das LEGO City Polizei-Bauset „Raubüberfall mit dem Monster-Truck“ (60245) enthält einen Monster-Truck mit Magnetarm sowie 2 Charaktere aus der LEGO City TV-Serie und vieles mehr, um die LEGO City Action ins Kinderzimmer zu holen
+- Der Polizei-Überwachungsvan und das Bankgebäude verfügen über eine detailreiche Innenausstattung. Außerdem können die Kinder den Tresor mit dem Magnetarm des Monster-Trucks aus der Mauer der Bank ziehen. Dieses Set lässt sich mit anderen originellen LEGO Sets kombinieren
 - Bei der LEGO Gruppe werden alle LEGO Teile strengsten Tests unterzogen, damit die Spielsets die höchsten globalen Sicherheits- und Qualitätsstandards erfüllen
-- Die LEGO City Polizei-Spielsets enthalten realistische Gebäude, coole Fahrzeuge und witzige Charaktere, die zu einem kreativen Spielerlebnis inspirieren, das Selbstvertrauen stärken und die Fingerfertigkeit verbessern
+- Glück gehabt! Batterien werden nicht benötigt. Als Antrieb reicht den Fahrzeugen in diesem LEGO City Polizei-Spielset die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
+- Die LEGO Bausets entsprechen den höchsten Branchenstandards, sodass sich die LEGO City Spielsets stets mühelos kombinieren und sich alle LEGO Teile jederzeit fest zusammenstecken und wieder leicht trennen lassen
+- Der fertige Monster-Truck ist 8 cm hoch, 17 cm lang und 9 cm breit, der Polizei-Überwachungsvan ist dagegen 8 cm hoch, 12 cm lang und 6 cm breit
 - Ein Monster-Truck mit Magnetarm, eine Spielzeugbank mit magnetischem Tresor, ein Polizei-Überwachungsvan und ein Polizeimotorrad sowie der Polizist Tom Bennett und die Ganovin Big Betty (als Minifiguren) bilden dieses Set
 - Da für dieses Set nur grundlegende Baufähigkeiten erforderlich sind, eignet es sich für Kinder ab 5 Jahren. Es ist ein tolles Geschenk zu jedem Anlass für Fans der LEGO City TV-Serie sowie für Kinder, die Actionspielzeug lieben
 - Mit diesem LEGO Spielzeug ist aller Anfang überhaupt nicht schwer. Die Box enthält eine einfache Bauanleitung, damit der Bauspaß sofort nach dem Öffnen der Beutel mit den Steinen beginnen kann!
-- Der fertige Monster-Truck ist 8 cm hoch, 17 cm lang und 9 cm breit, der Polizei-Überwachungsvan ist dagegen 8 cm hoch, 12 cm lang und 6 cm breit
-- Der Polizei-Überwachungsvan und das Bankgebäude verfügen über eine detailreiche Innenausstattung. Außerdem können die Kinder den Tresor mit dem Magnetarm des Monster-Trucks aus der Mauer der Bank ziehen. Dieses Set lässt sich mit anderen originellen LEGO Sets kombinieren
-- Die LEGO Bausets entsprechen den höchsten Branchenstandards, sodass sich die LEGO City Spielsets stets mühelos kombinieren und sich alle LEGO Teile jederzeit fest zusammenstecken und wieder leicht trennen lassen
+- Das LEGO City Polizei-Bauset „Raubüberfall mit dem Monster-Truck“ (60245) enthält einen Monster-Truck mit Magnetarm sowie 2 Charaktere aus der LEGO City TV-Serie und vieles mehr, um die LEGO City Action ins Kinderzimmer zu holen
+- Die LEGO City Polizei-Spielsets enthalten realistische Gebäude, coole Fahrzeuge und witzige Charaktere, die zu einem kreativen Spielerlebnis inspirieren, das Selbstvertrauen stärken und die Fingerfertigkeit verbessern
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07W7TM73M/?tag=tolees0ca-21)
