@@ -28,14 +28,14 @@ You've got [LEGO 41440 Friends Heartlake City Bäckerei Spielset  Spielzeug ab 4
 
 ℹ️:
 
-- LEGO Elemente erfüllen bereits seit 1958 die strengen Qualitätsstandards der Branche, damit kleine Finger die Steine leicht greifen und zusammenstecken können
-- Passendes Geschenk für ein Kind ab 4 Jahren. Dieses kreative Geschenk bereitet Jungen und Mädchen viele Stunden Spielvergnügen, während sie nebenher ihre Baufähigkeiten entwickeln
-- Dieses LEGO Friends Set enthält jede Menge Bäckerei-Zubehör. Eine Brezel, ein Teller, ein Helm, ein Becher, ein Eisportionierer, ein Croissant , ein Kuchen und Hundeknochen regen zum Spielen an
-- Möchtest du einen jungen Baumeister noch mehr Bauspaß erleben lassen? Die digitalen Instructions PLUS mit Vergrößerungs-, Dreh- und Speicherfunktionen sowie einem Geistermodus machen das Bauen zum Kinderspiel
-- 4+ Spielsets lassen kleine Kinder das Bauen auf unterhaltsame Weise erlernen. Einfache Bauschritte stärken ihr Selbstvertrauen. Kinder und Erwachsene entdecken, wie viel Freude es macht, gemeinsam zu bauen und spielen
 - Mit der Heartlake City Bäckerei (41440) lernen Kinder das Bauen. Bei Rollenspielen können sie so tun, als würden sie einem Café arbeiten, Kuchen auf dem coolen Motorroller ausliefern und sich mit ihren Freunden treffen
+- Möchtest du einen jungen Baumeister noch mehr Bauspaß erleben lassen? Die digitalen Instructions PLUS mit Vergrößerungs-, Dreh- und Speicherfunktionen sowie einem Geistermodus machen das Bauen zum Kinderspiel
 - Das Modell ist 13 cm breit und beansprucht nur wenig Platz. Da das Set mit allen LEGO Steinen kompatibel ist, lässt es sich beliebig erweitern, je mehr Selbstvertrauen die Kinder entwickeln
-- Dieses kompakte Set beinhaltet 3 Figuren, darunter auch einen putzigen Hund, für unzählige unterhaltsame Rollenspiele. Starter-Elemente erleichtern das Bauen, damit mehr Zeit fürs Spielen bleibt!
+- 4+ Spielsets lassen kleine Kinder das Bauen auf unterhaltsame Weise erlernen. Einfache Bauschritte stärken ihr Selbstvertrauen. Kinder und Erwachsene entdecken, wie viel Freude es macht, gemeinsam zu bauen und spielen
 - LEGO Steine und Teile werden jedem erdenklichen Test unterzogen, damit sie strengste Sicherheitsstandards erfüllen
+- Dieses LEGO Friends Set enthält jede Menge Bäckerei-Zubehör. Eine Brezel, ein Teller, ein Helm, ein Becher, ein Eisportionierer, ein Croissant , ein Kuchen und Hundeknochen regen zum Spielen an
+- Passendes Geschenk für ein Kind ab 4 Jahren. Dieses kreative Geschenk bereitet Jungen und Mädchen viele Stunden Spielvergnügen, während sie nebenher ihre Baufähigkeiten entwickeln
+- Dieses kompakte Set beinhaltet 3 Figuren, darunter auch einen putzigen Hund, für unzählige unterhaltsame Rollenspiele. Starter-Elemente erleichtern das Bauen, damit mehr Zeit fürs Spielen bleibt!
+- LEGO Elemente erfüllen bereits seit 1958 die strengen Qualitätsstandards der Branche, damit kleine Finger die Steine leicht greifen und zusammenstecken können
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4RK5K7/?tag=tolees0ca-21)

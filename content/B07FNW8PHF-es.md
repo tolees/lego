@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 20.02 % for LEGO 60239 City Coche Patrulla de la Pol'
-date: 2021-10-03 13:09:29
+title: 'Discount of 23.02 % for LEGO 60239 City Coche Patrulla de la Pol'
+date: 2021-10-04 17:31:58
 image: 'https://m.media-amazon.com/images/I/519itWfRnKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B07FNW8PHF-es LEGO 60239 City Coche Patrulla de la Policía Colección de...'
 sku: 'B07FNW8PHF-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego', ]
-actualPrice: 7.99 EUR
+actualPrice: 7.69 EUR
 currency: EUR
-price: 7.99
+price: 7.69
 comparePrice: 9.99 EUR
 prodname: 'LEGO 60239 City Coche Patrulla de la Policía  Colección de Vehículos de Juguete para Niños y Niñas +5 Años con Mini Figuras'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21'
-descuento: '20.02'
-average: '10.1679881656804'
+descuento: '23.02'
+average: '10.1534117647058'
 ---
 
-You've got [LEGO 60239 City Coche Patrulla de la Policía  Colección de Vehículos de Juguete para Niños y Niñas +5 Años con Mini Figuras](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21) with a  20.02 % discount, with final price of 7.99 EUR (original: 9.99 EUR) at the following link:
+You've got [LEGO 60239 City Coche Patrulla de la Policía  Colección de Vehículos de Juguete para Niños y Niñas +5 Años con Mini Figuras](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21) with a  23.02 % discount, with final price of 7.69 EUR (original: 9.99 EUR) at the following link:
 
 [![LEGO 60239 City Coche Patrulla de la Pol](https://m.media-amazon.com/images/I/519itWfRnKS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21)
 
 ℹ️:
 
-- Incluye una minifigura LEGO de un agente de policía
-- El coche patrulla mide más de 4 cm de altura, 12 cm de longitud y 5 cm de ancho
 - Accesorios incluidos: 2 conos de tráfico del agente de policía
 - Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración
+- Incluye una minifigura LEGO de un agente de policía
+- El coche patrulla mide más de 4 cm de altura, 12 cm de longitud y 5 cm de ancho
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21)

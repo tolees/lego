@@ -31,8 +31,8 @@ With a final price of 21.49 EUR (original: 29.99 EUR) you can find [LEGO 75299 S
 - Dieses fantastische Bauset ist ein grandioses Geburtstags-, Weihnachts- oder Überraschungsgeschenk für kreative Kinder ab 7 Jahren
 - Enthält den Mandalorianer und einen Tusken-Räuber als LEGO Minifiguren mit Ausrüstung sowie das beliebte Kind (Baby Yoda) als weitere LEGO Figur, um actionreiche Rollenspiele zu ermöglichen
 - Der Speeder verfügt über einen Sitz für eine LEGO Minifigur und eine Satteltasche für das Kind. Das Set enthält außerdem eine baubare Tusken-Hütte und die Balliste des Tusken-Räubers, die Raketen verschießt
+- Ist dieses 277-teilige Set für ein Kind ohne nennenswerte LEGO Bauerfahrung gedacht? Kein Problem. Eine einfache illustrierte Schritt-für-Schritt-Bauanleitung lässt Kinder selbstbewusst bauen
 - Der Speeder ist 3 cm hoch, 13 cm lang und 3 cm breit. Das Set lässt sich auch wunderbar mit anderen LEGO Star Wars Bau- und Spielsets kombinieren, um noch mehr kreativen Spielspaß zu bieten
 - Mit dem Bauspielzeug „Ärger auf Tatooine“ (75299) können Kinder Szenen aus der 2. Staffel der TV-Serie „Star Wars: The Mandalorian“ nachstellen und sich auf dem Speederbike in eigene Abenteuer stürzen
-- Ist dieses 277-teilige Set für ein Kind ohne nennenswerte LEGO Bauerfahrung gedacht? Kein Problem. Eine einfache illustrierte Schritt-für-Schritt-Bauanleitung lässt Kinder selbstbewusst bauen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4D1PBN/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ There's a deal [LEGO Architecture Londra  Set di Costruzioni Collezione Skyline 
 
 ℹ️:
 
-- Il libretto incluso contiene informazioni sul design, l’architettura e la storia di ogni edificio, più fatti storici su Londra e il suo patrimonio architettonico, solo in inglese
-- Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben Elizabeth Towe e il Tower Bridge.
 - Ricrea le città più belle del mondo con la collezione LEGO Architecture Skyline
 - Interpretazione LEGO Architecture di Londra.
+- Il libretto incluso contiene informazioni sul design, l’architettura e la storia di ogni edificio, più fatti storici su Londra e il suo patrimonio architettonico, solo in inglese
 - Il Tower Bridge si apre per far passare le navi
-- Include una base con tegole 4x32 e la targhetta decorativa “Londra”.
 - Il fiume Tamigi è riprodotto con tegole trasparenti su base.
+- Include una base con tegole 4x32 e la targhetta decorativa “Londra”.
+- Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben Elizabeth Towe e il Tower Bridge.
 
 [🛒 Buy it now!!](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)
