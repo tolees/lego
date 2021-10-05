@@ -28,10 +28,10 @@ You've got [DUPLO Classic LEGO 10914 Deluxe Brick Box Building Set with S
 
 ℹ️:
 
-- Features 85 colourful bricks including many fun, familiar pieces – a car, windows, flowers, balloons, gifts, cake and number-bricks
 - A simple guide provides toddlers with ideas and inspiration to get them building while delivering developmental benefits to preschool kids
-- The assortment of bricks, pieces, number and people are conveniently stored in a green storage box with a LEGO DUPLO style stud lid
 - Includes a boy and girl Duplo figures, 1-2-3 number-learning bricks, a dog figure, slide, shovel, bucket,  opening window and door elements
 - This fun playset encourages learning through role-play, and development of fine motor skills, language, social and emotional skills
+- Features 85 colourful bricks including many fun, familiar pieces – a car, windows, flowers, balloons, gifts, cake and number-bricks
+- The assortment of bricks, pieces, number and people are conveniently stored in a green storage box with a LEGO DUPLO style stud lid
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07WLMV14S/?tag=tolees0a-21)
