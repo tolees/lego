@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 28.51 % for LEGO 42109 Technic CONTROL+ App-Controll'
-date: 2021-10-03 23:35:01
+date: 2021-10-04 23:59:46
 image: 'https://m.media-amazon.com/images/I/51Lg6D-rfYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7V6R7D/?tag=tolees0a-21'
 descuento: '28.51'
-average: '95.0707129094406'
+average: '95.0597115384609'
 ---
 
 You've got [LEGO 42109 Technic CONTROL+ App-Controlled Top Gear Rally Car RC Racing Cars](https://www.amazon.co.uk/dp/B07W7V6R7D/?tag=tolees0a-21) with a  28.51 % discount, with final price of 89.35 GBP (original: 124.99 GBP) at the following link:
