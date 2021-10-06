@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.72 % deal for LEGO Star Wars: The Rise of Skywalker D-'
-date: 2021-10-03 09:36:11
+date: 2021-10-06 11:30:44
 image: 'https://m.media-amazon.com/images/I/51-07-DNY5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20'
 descuento: '25.72'
-average: '55.397'
+average: '55.0872727272727'
 ---
 
 There's a deal [LEGO Star Wars: The Rise of Skywalker D-O 75278 Building Kit; Collectible Star Wars Character and a Cool Birthday Gift  Holiday Present or Fun Surprise for Any Star Wars Fan  519 Pieces ](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)  with  25.72 % discount, final price tag of  51.99 USD (original: 69.99 USD) here:
@@ -29,9 +29,9 @@ There's a deal [LEGO Star Wars: The Rise of Skywalker D-O 75278 Building Kit; Co
 ℹ️:
 
 - The buildable D-O droid measures 10.5” (27cm) high, 4” (10cm) wide and 6” (16cm) deep; It doesnt take up too much space but will make a big impression displayed at home or in the office
-- Fans can build their own collectible model of the lovable D-O droid from the Star Wars: The Rise of Skywalker movie, reproducing authentic details in LEGO style to create a fantastic build-and-display piece
 - This D-O droid build-and-display model is new for May 2020 and makes a delightful addition to any Star Wars fan or LEGO builder’s collection
-- This cool, 519-piece LEGO Star Wars droid building toy is great fun for creative Star Wars fans aged 10+, and makes the best birthday gift, holiday present or special occasion surprise
 - The model has posable antennas and its head tilts and rotates 360 degrees just like the Star Wars character; It comes with a built-in display stand, plus an information sign and D-O minifigure to delight collectors
+- Fans can build their own collectible model of the lovable D-O droid from the Star Wars: The Rise of Skywalker movie, reproducing authentic details in LEGO style to create a fantastic build-and-display piece
+- This cool, 519-piece LEGO Star Wars droid building toy is great fun for creative Star Wars fans aged 10+, and makes the best birthday gift, holiday present or special occasion surprise
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B083JXSTKX/?tag=tolees-20)
