@@ -28,10 +28,10 @@ You've got [LEGO 60245 City Police Monster Truck Heist Building Set with Van  Mo
 
 ℹ️:
 
-- This set includes 5 minifigures: the police hero Tom Bennett and crook Big Betty, another police officer and a crook, plus a bank clerk
-- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
-- The surveillance van and bank building have detailed interiors, kids can pull the safe from the bank wall with the truck’s magnetic arm
-- Accessories include a magnetic safe with gold bars and a banknote, a pretend electric saw to break in and road barriers to crash at!
 - Features a criminals’ monster truck toy with magnetic arm, a toy bank building with magnetic safe, a police surveillance van and a motorbike
+- The surveillance van and bank building have detailed interiors, kids can pull the safe from the bank wall with the truck’s magnetic arm
+- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
+- Accessories include a magnetic safe with gold bars and a banknote, a pretend electric saw to break in and road barriers to crash at!
+- This set includes 5 minifigures: the police hero Tom Bennett and crook Big Betty, another police officer and a crook, plus a bank clerk
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W7TM73M/?tag=tolees0a-21)
