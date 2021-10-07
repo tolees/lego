@@ -28,11 +28,11 @@ There's a deal [LEGO 41670 Friends Cubo de Bailarina de Stephanie  Juego de Viaj
 
 ℹ️:
 
-- ¡Deja que disfruten estirándose en la barra o tocando el piano! Todas las piezas se fijan a la base, por lo que no faltan más piezas cuando estás en movimiento
-- El juego de mini muñecas LEGO Friends Stephanie viene con un juguete de conejo en 1 de 4 colores aleatorios, además de una barra, un piano, un espejo, un trofeo y una corona
-- Los niños pueden hacer que el interior de este juguete de viaje portátil se parezca a un verdadero estudio de ballet, gracias a los accesorios y pegatinas incluidos
-- El precioso estilo de mochila del cubo coleccionable asegura que los niños quieran conservar este juguete portátil en exhibición
-- Introduce a los niños y niñas de 6 años en adelante en el mundo de LEGO Friends, donde pueden explorar sus pasiones con un amigo que es como ellos
 - Un regalo de cumpleaños LEGO estupendo, pequeño como para meterlo en una bolsa para un encuentro de bailarines de ballet en ciernes y grande para que jueguen con sus dedos pequeños
+- Los niños pueden hacer que el interior de este juguete de viaje portátil se parezca a un verdadero estudio de ballet, gracias a los accesorios y pegatinas incluidos
+- El juego de mini muñecas LEGO Friends Stephanie viene con un juguete de conejo en 1 de 4 colores aleatorios, además de una barra, un piano, un espejo, un trofeo y una corona
+- Introduce a los niños y niñas de 6 años en adelante en el mundo de LEGO Friends, donde pueden explorar sus pasiones con un amigo que es como ellos
+- ¡Deja que disfruten estirándose en la barra o tocando el piano! Todas las piezas se fijan a la base, por lo que no faltan más piezas cuando estás en movimiento
+- El precioso estilo de mochila del cubo coleccionable asegura que los niños quieran conservar este juguete portátil en exhibición
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B08WX3ZBBC/?tag=tolees-21)

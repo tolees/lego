@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.01 % for LEGO 60287 City Grandes Vehículos Tracto'
-date: 2021-10-04 12:35:33
+date: 2021-10-06 22:11:22
 image: 'https://m.media-amazon.com/images/I/517UibjviiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21'
 descuento: '25.01'
-average: '16.9228571428571'
+average: '16.8739240506329'
 ---
 
 You've got [LEGO 60287 City Grandes Vehículos Tractor  Juguete de Granja con Figura de Conejo  para Niños y Niñas +5 Años](https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21) with a  25.01 % discount, with final price of 14.99 EUR (original: 19.99 EUR) at the following link:
@@ -28,10 +28,9 @@ You've got [LEGO 60287 City Grandes Vehículos Tractor  Juguete de Granja con Fi
 
 ℹ️:
 
-- Incluye un genial tractor de juguete con grandes neumáticos traseros, un cargador frontal, brazo de grúa elevable y cabina para acomodar una mini figura
+- Los peques pueden cargar los fardos de heno y la grúa con una calabaza, una manzana y zanahorias en el cargador del tractor y luego alzarlos con el brazo de la grúa
+- Este juguete de granja cuenta con minifiguras de un granjero y su hija, un conejo, 2 fardos de heno y una caja de verduras para divertirse a tope jugando en la granja
 - Los neumáticos del tractor rojo de juguete no tendrán ningún problema para llevar al granjero y a su hija hasta la cosecha, ¡donde les aguardan los hambrientos conejitos!
 - Incluye una guía de construcción para niños a partir de 5 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
-- Este juguete de granja cuenta con minifiguras de un granjero y su hija, un conejo, 2 fardos de heno y una caja de verduras para divertirse a tope jugando en la granja
-- Los peques pueden cargar los fardos de heno y la grúa con una calabaza, una manzana y zanahorias en el cargador del tractor y luego alzarlos con el brazo de la grúa
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21)
