@@ -28,10 +28,10 @@ There's a deal [LEGO 10953 DUPLO Unicorn Train Toy for Boys & Girls 1 .5 Years O
 
 ℹ️:
 
-- Kids can position the colourful bricks over the equally colourful images as they build the toy train and show off their creation
 - This 8-piece educational toy with fun shapes is an ideal gift for birthdays, Christmas, or ‘just because’ for toddlers aged 18 months and up
 - Features a buildable unicorn, 2 stars, a rainbow and 2 push-along ‘carriages’ with wheels. Building cards show life-size images of the models
-- All shapes have super-smooth corners and are perfect for little hands to pick up and place to help kids develop basic construction skills
 - Toddlers aged 1.5+ develop fine motor skills and learn about colours and shapes as they build and play with the LEGO train toy with their caregivers
+- Kids can position the colourful bricks over the equally colourful images as they build the toy train and show off their creation
+- All shapes have super-smooth corners and are perfect for little hands to pick up and place to help kids develop basic construction skills
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08GP8NL1H/?tag=tolees0a-21)
