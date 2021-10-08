@@ -28,10 +28,10 @@ You've got [LEGO 10955 DUPLO My First Animal Train with Elephant  Tiger  Panda a
 
 ℹ️:
 
-- The toy train includes a buildable elephant (4 pcs), tiger (2 pcs), giraffe (3 pcs) and panda (2 pcs), plus 4 push-along ‘carriages’ with wheels
-- The LEGO DUPLO animal train toy for toddlers features 4 buildable animals to learn about - look at the giraffe’s wobbling neck adding extra fun!
-- The distinctive animals have different levels of building complexity to encourage toddlers’ aged 1.5+ years old learning and construction skills
 - Kids can build and rebuild, line up the carriages, place animals on and off the train and stack them on top of each other
+- The LEGO DUPLO animal train toy for toddlers features 4 buildable animals to learn about - look at the giraffe’s wobbling neck adding extra fun!
+- The toy train includes a buildable elephant (4 pcs), tiger (2 pcs), giraffe (3 pcs) and panda (2 pcs), plus 4 push-along ‘carriages’ with wheels
 - For children aged 18 months and up, this playset has it all: hands-on creativity, imaginative play possibilities and developmental benefits
+- The distinctive animals have different levels of building complexity to encourage toddlers’ aged 1.5+ years old learning and construction skills
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08GNV163S/?tag=tolees0a-21)
