@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71370 Super Mario Fire Power-Up Pac at 44.38 % discount'
-date: 2021-09-27 11:45:54
+date: 2021-10-08 05:48:50
 image: 'https://m.media-amazon.com/images/I/41dopG66cJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WCVTVR/?tag=tolees0a-21'
 descuento: '44.38'
-average: '6.61799999999999'
+average: '6.47090909090908'
 ---
 
 With a final price of 5.0 GBP (original: 8.99 GBP) you can find [LEGO 71370 Super Mario Fire Power-Up Pack Expansion Set Fire Power Costume](https://www.amazon.co.uk/dp/B082WCVTVR/?tag=tolees0a-21) with a  44.38 % discount here:
@@ -28,10 +28,10 @@ With a final price of 5.0 GBP (original: 8.99 GBP) you can find [LEGO 71370 Supe
 
 ℹ️:
 
-- This collectible accessory fits on the Mario figure, causing unique sounds and a unique image to appear on LEGO Mario’s torso screen
-- Tips for creative solo or group gameplay, digital instructions, viewing tools and more can be found on the free downloadable LEGO app
 - Features a buildable costume that gives the Starter Course LEGO Mario figure (not included) special abilities and causes different reactions
 - When the LEGO Mario figure is powered up with this suit, he can gain Fire Attack power, a new way to attack enemies and collect extra coins
+- Tips for creative solo or group gameplay, digital instructions, viewing tools and more can be found on the free downloadable LEGO app
+- This collectible accessory fits on the Mario figure, causing unique sounds and a unique image to appear on LEGO Mario’s torso screen
 - Check out other upgrades: Propeller Mario Power-Up Pack (71371), Cat Mario Power-Up Pack (71372) and Builder Mario Power-Up Pack (71373)
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B082WCVTVR/?tag=tolees0a-21)
