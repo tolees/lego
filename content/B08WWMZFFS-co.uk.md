@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '24.96 % deal for LEGO 43193 Disney Princess Ariel  Belle '
-date: 2021-10-04 13:05:01
+date: 2021-10-09 07:42:34
 image: 'https://m.media-amazon.com/images/I/51w-LN1MXSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08WWMZFFS-co.uk LEGO 43193 Disney Princess Ariel Belle Cinderella and...'
 sku: 'B08WWMZFFS-co.uk'
-tags: [ 'Building & Construction Toys','Toys & Games','Toys Store','lego', ]
+tags: [ 'Kids Play Figures','Play Figure Playsets','Toys & Games','Toys Store','lego', ]
 actualPrice: 15.0 GBP
 currency: GBP
 price: 15.0
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWMZFFS/?tag=tolees0a-21'
 descuento: '24.96'
-average: '15.0'
+average: '16.365'
 ---
 
 There's a deal [LEGO 43193 Disney Princess Ariel  Belle  Cinderella and Tiana’s Storybook Adventures Castle Toy for Kids with 4 Micro Dolls Figures](https://www.amazon.co.uk/dp/B08WWMZFFS/?tag=tolees0a-21)  with  24.96 % discount, final price tag of  15.0 GBP (original: 19.99 GBP) here:
@@ -28,10 +28,10 @@ There's a deal [LEGO 43193 Disney Princess Ariel  Belle  Cinderella and Tiana’
 
 ℹ️:
 
-- Join Ariel in her chariot at the dock, hang out with Cinderella & Gus the mouse by the water or spend time in the library with Belle & Lumiere
-- Features an opening book with a 2-sided toy castle build, small chariot, free-form stickers plus 4 Disney Princess micro doll figures
-- This portable Disney Princess building toy is big enough for new adventures and easily packed up as a travel toy for on-the-go play
 - This Disney Princess buildable toy storybook encourages open creative play that helps build important skills with lots of fun story starters
+- This portable Disney Princess building toy is big enough for new adventures and easily packed up as a travel toy for on-the-go play
+- Features an opening book with a 2-sided toy castle build, small chariot, free-form stickers plus 4 Disney Princess micro doll figures
 - Includes 4 beloved micro-characters: Disney’s Cinderella, Tiana, Belle and Ariel together with Gus, Lumiere, a dolphin and a frog LEGO figures
+- Join Ariel in her chariot at the dock, hang out with Cinderella & Gus the mouse by the water or spend time in the library with Belle & Lumiere
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08WWMZFFS/?tag=tolees0a-21)
