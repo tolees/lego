@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31118 Creator 3en1 Casa Surfera en  at 30.01 % discount'
-date: 2021-10-08 21:40:44
+date: 2021-10-10 12:23:02
 image: 'https://m.media-amazon.com/images/I/51fh7yzTlaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G56RDFY/?tag=tolees-21'
 descuento: '30.01'
-average: '42.098'
+average: '40.9133333333333'
 ---
 
 With a final price of 34.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 Creator 3en1 Casa Surfera en la Playa  Faro o Casa de la Piscina  Juguete de Construcción para Niños +8 Años  Idea de Regalo Creativa](https://www.amazon.es/dp/B08G56RDFY/?tag=tolees-21) with a  30.01 % discount here:
@@ -30,8 +30,8 @@ With a final price of 34.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 C
 
 - Este divertido juguete de construcción para niños a partir de 8 años es genial como regalo de Navidad, de cumpleaños o para darles una sorpresa creativa en cualquier otro momento
 - Tanto la casa de la playa como la de la piscina tienen distintas configuraciones que ofrecen a los niños más opciones de crear entretenidas historias con su juguete de construcción
-- La casa surfera tiene 2 plantas con bisagras para abrir los laterales, mientras la casa de la piscina de 2 plantas viene con tablas de surf y una piscina construida con ladrillos
 - Echa un vistazo a los otros nuevos sets 3 en 1 de LEGO Creator: Ciberdrón 31111, León Salvaje 31112, Transporte de Coches de Carreras 31113 y Supermoto 31114
 - Cuenta con 3 animales marinos para construir con ladrillos de construcción: un delfín, una tortuga marina, una tortuguita y un cangrejo; el faro también incluye un pequeño barco
+- La casa surfera tiene 2 plantas con bisagras para abrir los laterales, mientras la casa de la piscina de 2 plantas viene con tablas de surf y una piscina construida con ladrillos
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08G56RDFY/?tag=tolees-21)
