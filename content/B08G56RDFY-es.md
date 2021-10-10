@@ -29,9 +29,9 @@ With a final price of 34.99 EUR (original: 49.99 EUR) you can find [LEGO 31118 C
 ℹ️:
 
 - Este divertido juguete de construcción para niños a partir de 8 años es genial como regalo de Navidad, de cumpleaños o para darles una sorpresa creativa en cualquier otro momento
-- Tanto la casa de la playa como la de la piscina tienen distintas configuraciones que ofrecen a los niños más opciones de crear entretenidas historias con su juguete de construcción
-- Echa un vistazo a los otros nuevos sets 3 en 1 de LEGO Creator: Ciberdrón 31111, León Salvaje 31112, Transporte de Coches de Carreras 31113 y Supermoto 31114
-- Cuenta con 3 animales marinos para construir con ladrillos de construcción: un delfín, una tortuga marina, una tortuguita y un cangrejo; el faro también incluye un pequeño barco
 - La casa surfera tiene 2 plantas con bisagras para abrir los laterales, mientras la casa de la piscina de 2 plantas viene con tablas de surf y una piscina construida con ladrillos
+- Tanto la casa de la playa como la de la piscina tienen distintas configuraciones que ofrecen a los niños más opciones de crear entretenidas historias con su juguete de construcción
+- Cuenta con 3 animales marinos para construir con ladrillos de construcción: un delfín, una tortuga marina, una tortuguita y un cangrejo; el faro también incluye un pequeño barco
+- Echa un vistazo a los otros nuevos sets 3 en 1 de LEGO Creator: Ciberdrón 31111, León Salvaje 31112, Transporte de Coches de Carreras 31113 y Supermoto 31114
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08G56RDFY/?tag=tolees-21)
