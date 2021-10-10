@@ -28,10 +28,10 @@ You've got [LEGO 76382 Harry Potter Hogwarts Moment: Transfiguration Clas
 
 ℹ️:
 
-- Includes Hermione Granger, Ron Weasley and Professor McGonagall minifigures, plus Rons pet rat Scabbers, and a frog for magic practice
-- Kids open the set’s cover to enter Professor McGonagalls Transfiguration lesson, look, Ron needs help when his pet rat turns into a goblet!
-- Includes a blackboard, treasure chest, storage cupboard, goblet, spellbook, 2 desks, 2 chairs, and a lot of magical supplies to practice with
-- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
 - It is of perfect size for pick-up-and-play portable convenience,  when the lesson ends, close the cover and take it with you wherever you go
+- Kids open the set’s cover to enter Professor McGonagalls Transfiguration lesson, look, Ron needs help when his pet rat turns into a goblet!
+- Includes Hermione Granger, Ron Weasley and Professor McGonagall minifigures, plus Rons pet rat Scabbers, and a frog for magic practice
+- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
+- Includes a blackboard, treasure chest, storage cupboard, goblet, spellbook, 2 desks, 2 chairs, and a lot of magical supplies to practice with
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4HPRCR/?tag=tolees0a-21)
