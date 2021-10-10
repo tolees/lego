@@ -28,10 +28,10 @@ With a final price of 34.99 GBP (original: 44.99 GBP) you can find [LEGO 75301 S
 
 ℹ️:
 
-- This set comes with step-by-step, illustrated instructions so even first time young builders can build with Jedi-like confidence
-- Features a LEGO brick-built version of Luke Skywalker’s iconic toy X-wing Fighter to recreate scenes from the classic Star Wars trilogy
 - Includes Luke Skywalker, Princess Leia and General Dodonna LEGO minifigures with weapons including Luke’s lightsaber for roleplay adventures
+- Features a LEGO brick-built version of Luke Skywalker’s iconic toy X-wing Fighter to recreate scenes from the classic Star Wars trilogy
 - The X-wing also features retractable landing gear and 2 spring-loaded shooters, plus an R2-D2 LEGO droid figure to fit in
 - The X-wing features an opening LEGO minifigure cockpit, space for R2-D2 and wings that can be switched to attack position with a button
+- This set comes with step-by-step, illustrated instructions so even first time young builders can build with Jedi-like confidence
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4GP34B/?tag=tolees0a-21)
