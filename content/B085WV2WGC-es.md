@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 20.79 % for LEGO 75318 Star Wars El Niño The Mandalo'
-date: 2021-10-08 04:15:05
+title: 'Discount of 31.48 % for LEGO 75318 Star Wars El Niño The Mandalo'
+date: 2021-10-11 14:04:45
 image: 'https://m.media-amazon.com/images/I/51FXmEWSBKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B085WV2WGC-es LEGO 75318 Star Wars El Niño The Mandalorian Set de...'
 sku: 'B085WV2WGC-es'
 tags: [ 'Figuras de juguete de construcción','Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
-actualPrice: 71.28 EUR
+actualPrice: 61.66 EUR
 currency: EUR
-price: 71.28
+price: 61.66
 comparePrice: 89.99 EUR
 prodname: 'LEGO 75318 Star Wars El Niño The Mandalorian  Set de Construcción para Niños +10 años  Figura de Baby Yoda Coleccionable'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21'
-descuento: '20.79'
-average: '80.4378205128205'
+descuento: '31.48'
+average: '80.3680102040816'
 ---
 
-You've got [LEGO 75318 Star Wars El Niño The Mandalorian  Set de Construcción para Niños +10 años  Figura de Baby Yoda Coleccionable](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21) with a  20.79 % discount, with final price of 71.28 EUR (original: 89.99 EUR) at the following link:
+You've got [LEGO 75318 Star Wars El Niño The Mandalorian  Set de Construcción para Niños +10 años  Figura de Baby Yoda Coleccionable](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21) with a  31.48 % discount, with final price of 61.66 EUR (original: 89.99 EUR) at the following link:
 
 [![LEGO 75318 Star Wars El Niño The Mandalo](https://m.media-amazon.com/images/I/51FXmEWSBKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21)
 
 ℹ️:
 
-- Este modelo para construir (novedad en noviembre de 2020) captura todas las simpáticas características de este pequeño personaje de Star Wars tan popular, que cuenta con cabeza articulada, orejas móviles y boca ajustable para que adopte diferentes expresiones.
-- La maqueta para construir con ladrillos del Niño mide aproximadamente 19 cm de altura, 21 cm de anchura y 13 cm de profundidad; aunque no ocupará mucho espacio, causará un gran impacto visual cuando la expongas.
-- Los fans podrán hacerse con la encantadora maqueta de juguete para construir con ladrillos El Niño (75318), inspirada en Star Wars: The Mandalorian, y reproducir sus detalles al estilo LEGO con gran realismo para crear una maravillosa pieza de exposición.
-- No hay problema. Trae instrucciones ilustradas paso a paso para que pueda enfrentarse a este desafío con confianza.
-- Este juguete de construcción LEGO Star Wars coleccionable, compuesto por 1073 piezas, es el mejor regalo sorpresa, de Navidad o de cumpleaños para niños a partir de 10 años y todos los fans de Star Wars: The Mandalorian.
-- Componer pieza a pieza este juguete de construcción sin pilas será una fantástica manera de relajarte a solas o con tus familiares y amigos. Tómate tu tiempo y disfruta creando una fascinante maqueta Star Wars para construir y exponer.
-- El set incluye un elemento que representa un pomo de una palanca de cambios, el juguete favorito del Niño, y que se le puede colocar en la mano. También contiene un letrero informativo y la minifigura LEGO del Niño para dar forma a una encantadora pieza de exposición.
 - ¡No hace falta sentir la Fuerza para conectar o separar los ladrillos LEGO! Cumplen las normas más estrictas del sector para garantizar que ofrezcan siempre las mismas cualidades y se conecten perfectamente con facilidad.
-- Hay sets LEGO Star Wars a la medida de los gustos de cualquier fan, tenga la edad que tenga y tanto si lo que quiere es recrear escenas de las películas como si lo que le apasiona es interpretar sus propias historias o, simplemente, construir y exponer las realistas maquetas de construcción, fieles réplicas de los originales.
+- Este modelo para construir (novedad en noviembre de 2020) captura todas las simpáticas características de este pequeño personaje de Star Wars tan popular, que cuenta con cabeza articulada, orejas móviles y boca ajustable para que adopte diferentes expresiones.
+- El set incluye un elemento que representa un pomo de una palanca de cambios, el juguete favorito del Niño, y que se le puede colocar en la mano. También contiene un letrero informativo y la minifigura LEGO del Niño para dar forma a una encantadora pieza de exposición.
+- Este juguete de construcción LEGO Star Wars coleccionable, compuesto por 1073 piezas, es el mejor regalo sorpresa, de Navidad o de cumpleaños para niños a partir de 10 años y todos los fans de Star Wars: The Mandalorian.
 - ¿Estás pensando en comprarle este set a un fan de Star Wars que no conoce los kits de construcción LEGO
+- No hay problema. Trae instrucciones ilustradas paso a paso para que pueda enfrentarse a este desafío con confianza.
+- Los fans podrán hacerse con la encantadora maqueta de juguete para construir con ladrillos El Niño (75318), inspirada en Star Wars: The Mandalorian, y reproducir sus detalles al estilo LEGO con gran realismo para crear una maravillosa pieza de exposición.
+- La maqueta para construir con ladrillos del Niño mide aproximadamente 19 cm de altura, 21 cm de anchura y 13 cm de profundidad; aunque no ocupará mucho espacio, causará un gran impacto visual cuando la expongas.
+- Hay sets LEGO Star Wars a la medida de los gustos de cualquier fan, tenga la edad que tenga y tanto si lo que quiere es recrear escenas de las películas como si lo que le apasiona es interpretar sus propias historias o, simplemente, construir y exponer las realistas maquetas de construcción, fieles réplicas de los originales.
+- Componer pieza a pieza este juguete de construcción sin pilas será una fantástica manera de relajarte a solas o con tus familiares y amigos. Tómate tu tiempo y disfruta creando una fascinante maqueta Star Wars para construir y exponer.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21)
