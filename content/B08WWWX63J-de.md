@@ -28,12 +28,12 @@ There's a deal [LEGO 43110 VIDIYO Folk Fairy Beatbox Music Video Maker  Musik Sp
 
 ℹ️:
 
-- Im Inneren der BeatBox ist Platz für die Bühne aus LEGO-Steinen; die Box lässt sich zusammenklappen, um das Musik Spielzeug überall hin mitzunehmen
 - Enthalten sind eine Fee Minifigur, 14 zufällige BeatBits und 2 spezielle BeatBits - Kinder können zwischen einer Blume, Feenflügeln oder einer Geige wählen
-- Scannen Sie die BeatBits in der App, um die Spezialeffekte des Music Video Makers freizuschalten und Kindern eine neue Dimension des Spielens zu ermöglichen
-- Mit der AR App können verschiedene Spezialeffekten erzeugt werden: ein Zauberspruch, der Gegenstände in zufällige Objekte verwandelt oder einen Zauberwald in der Szene erscheinen lässt
+- Überprüfen Sie die Kompatibilität Ihres Geräts, indem Sie die kostenlose App herunterladen und Kinder ihr erstes Musikvideo mit dem kostenlosen digitalen Bandmate aufnehmen
 - Suchen Sie im App Store oder bei Google Play nach LEGO VIDIYO, um die App herunterzuladen und vor dem Kauf die Kompatibilität Ihres Geräts zu prüfen
 - Das LEGO VIDIYO Set Folk Fairy BeatBot verwandelt das Kinderwohnzimmer in ein Aufnahmestudio, einen Regieraum und schlussendlich in eine Konzertbühne
-- Überprüfen Sie die Kompatibilität Ihres Geräts, indem Sie die kostenlose App herunterladen und Kinder ihr erstes Musikvideo mit dem kostenlosen digitalen Bandmate aufnehmen
+- Mit der AR App können verschiedene Spezialeffekten erzeugt werden: ein Zauberspruch, der Gegenstände in zufällige Objekte verwandelt oder einen Zauberwald in der Szene erscheinen lässt
+- Im Inneren der BeatBox ist Platz für die Bühne aus LEGO-Steinen; die Box lässt sich zusammenklappen, um das Musik Spielzeug überall hin mitzunehmen
+- Scannen Sie die BeatBits in der App, um die Spezialeffekte des Music Video Makers freizuschalten und Kindern eine neue Dimension des Spielens zu ermöglichen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08WWWX63J/?tag=tolees0ca-21)
