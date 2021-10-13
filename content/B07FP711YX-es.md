@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75238 Star Wars TM Action Battle: A at 35.83 % discount'
-date: 2021-10-12 01:23:42
+date: 2021-10-13 01:43:28
 image: 'https://m.media-amazon.com/images/I/51xCoaIsWuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FP711YX/?tag=tolees-21'
 descuento: '35.83'
-average: '22.9746428571429'
+average: '22.9544827586207'
 ---
 
 With a final price of 22.39 EUR (original: 34.89 EUR) you can find [LEGO 75238 Star Wars TM Action Battle: Asalto a Endor](https://www.amazon.es/dp/B07FP711YX/?tag=tolees-21) with a  35.83 % discount here:
@@ -28,10 +28,10 @@ With a final price of 22.39 EUR (original: 34.89 EUR) you can find [LEGO 75238 S
 
 ℹ️:
 
-- Número de piezas: 193
-- Incluye también 2 cañones y 4 misiles
-- Action Battle: Asalto a Endor
 - Edad recomendada por el fabricante: 7+
+- Incluye también 2 cañones y 4 misiles
 - El juguete de construcción LEGO Star Wars basado en la batalla de Endor cuenta con una moto speeder sobre una base y un árbol para construir, ambos con un blanco
+- Número de piezas: 193
+- Action Battle: Asalto a Endor
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07FP711YX/?tag=tolees-21)
