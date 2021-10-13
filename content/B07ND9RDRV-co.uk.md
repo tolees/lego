@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 41167 Disney Frozen II Arendelle Ca at 33.32 % discount'
-date: 2021-10-09 11:44:26
-image: 'https://m.media-amazon.com/images/I/51T2OIlAB9L._SL500_._SL400_.jpg'
+date: 2021-10-13 11:57:29
+image: 'https://m.media-amazon.com/images/I/51DAfLovhrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07ND9RDRV/?tag=tolees0a-21'
 descuento: '33.32'
-average: '58.3234615384615'
+average: '58.0151851851851'
 ---
 
 With a final price of 50.0 GBP (original: 74.99 GBP) you can find [LEGO 41167 Disney Frozen II Arendelle Castle Village with Princess  Anna and Elsa plus Kristoff Mini dolls  Princess  Castle  Market and Rowing Boat  Cat and 2 Birds  Toy Set for Girls and Boys 5+](https://www.amazon.co.uk/dp/B07ND9RDRV/?tag=tolees0a-21) with a  33.32 % discount here:
 
-[![LEGO 41167 Disney Frozen II Arendelle Ca](https://m.media-amazon.com/images/I/51T2OIlAB9L._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07ND9RDRV/?tag=tolees0a-21)
+[![LEGO 41167 Disney Frozen II Arendelle Ca](https://m.media-amazon.com/images/I/51DAfLovhrL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B07ND9RDRV/?tag=tolees0a-21)
 
 ℹ️:
 
 - Combine with the 41164 Enchanted Treehouse, 41165 Anna’s Canoe Expedition, 41166 Elsa’s Wagon Adventure, 41168 Elsa’s Jewelry Box and 41169 Olaf
-- Accessory elements include a portrait and easel, treasure chest, crown, telescope, bust with stand, bird house, lamppost, gift box and more
-- The modular style means the 3 storeys can be taken apart and reassembled, making it easy to play inside different parts at the same time
-- Includes Elsa, Anna and Kristoff mini dolls, plus 3 animal figures: a cat and 2 birds, accessories include a fish, crab, broom and a sword
 - Features a 3-storey castle with throne room, bedroom and attic, baker’s stall, fishmonger’s stall with small dock and a rowing boat with oars
+- Accessory elements include a portrait and easel, treasure chest, crown, telescope, bust with stand, bird house, lamppost, gift box and more
+- Includes Elsa, Anna and Kristoff mini dolls, plus 3 animal figures: a cat and 2 birds, accessories include a fish, crab, broom and a sword
+- The modular style means the 3 storeys can be taken apart and reassembled, making it easy to play inside different parts at the same time
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07ND9RDRV/?tag=tolees0a-21)
