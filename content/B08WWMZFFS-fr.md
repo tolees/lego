@@ -28,11 +28,11 @@ There's a deal [LEGO 43193 Disney Les Aventures d’Ariel  Belle  Cendrillon et 
 
 ℹ️:
 
-- Il comprend 4 personnages célèbres : Les figurines LEGO de Cendrillon, Tiana, Belle et Ariel ainsi que Gus, Lumière, un dauphin et une grenouille
-- Instructions numériques PLUS ! L’application LEGO gratuite, qui propose des modes de zoom, rotation et fantôme intuitifs, fait de ce modèle une construction de l’ère numérique !
-- Ce jouet de construction Disney est assez grand pour permettre de nouvelles aventures et peut être emporté pour jouer en déplacement
-- Cet ensemble de briques LEGO encourage un jeu créatif qui aide les enfants à développer leurs talents de construction avec des idées amusantes pour débuter
-- Cet ensemble comprend un livre qui souvre avec un château à construire, un char, des autocollants ainsi que 4 micro-poupées LEGO Disney Princesses
 - Rejoignez la princesse Ariel dans son char, amusez-vous avec Cendrillon et Gus près de l’eau ou passez du temps dans la bibliothèque avec Belle et Lumière
+- Cet ensemble de briques LEGO encourage un jeu créatif qui aide les enfants à développer leurs talents de construction avec des idées amusantes pour débuter
+- Il comprend 4 personnages célèbres : Les figurines LEGO de Cendrillon, Tiana, Belle et Ariel ainsi que Gus, Lumière, un dauphin et une grenouille
+- Ce jouet de construction Disney est assez grand pour permettre de nouvelles aventures et peut être emporté pour jouer en déplacement
+- Cet ensemble comprend un livre qui souvre avec un château à construire, un char, des autocollants ainsi que 4 micro-poupées LEGO Disney Princesses
+- Instructions numériques PLUS ! L’application LEGO gratuite, qui propose des modes de zoom, rotation et fantôme intuitifs, fait de ce modèle une construction de l’ère numérique !
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B08WWMZFFS/?tag=tolees0d-21)
