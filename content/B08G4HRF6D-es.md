@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 30.03 % for LEGO 60275 City Policía Helicóptero de P'
-date: 2021-10-13 09:38:11
+date: 2021-10-14 11:53:08
 image: 'https://m.media-amazon.com/images/I/51Pax76VL5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4HRF6D/?tag=tolees-21'
 descuento: '30.03'
-average: '9.04777777777777'
+average: '8.97428571428571'
 ---
 
 You've got [LEGO 60275 City Policía Helicóptero de Policía  Juguete con Minifiguras  Idea de Regalo para Niños y Niñas +4 Años](https://www.amazon.es/dp/B08G4HRF6D/?tag=tolees-21) with a  30.03 % discount, with final price of 6.99 EUR (original: 9.99 EUR) at the following link:
@@ -28,9 +28,9 @@ You've got [LEGO 60275 City Policía Helicóptero de Policía  Juguete con Minif
 
 ℹ️:
 
-- Este juguete para niños a partir de 4 años incluye una guía de construcción impresa e Instructions Plus en la app Instrucciones de Montaje de LEGO para ver de cerca y rotar
-- El juguete de helicóptero viene con una placa decorativa de policía, un reflector y una cabina para minifigura, rotores giratorios y fuselaje que se abre
 - Este juguete para niños y niñas incorpora un conjunto inicial de ladrillos especial, para que incluso los menos experimentados puedan sentirse orgullosos de sus creaciones
 - Los niños pueden fijar la ladrona y los billetes a la moto acuática y, una vez capturada, colocarla en el fuselaje tras la persecución
+- Este juguete para niños a partir de 4 años incluye una guía de construcción impresa e Instructions Plus en la app Instrucciones de Montaje de LEGO para ver de cerca y rotar
+- El juguete de helicóptero viene con una placa decorativa de policía, un reflector y una cabina para minifigura, rotores giratorios y fuselaje que se abre
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08G4HRF6D/?tag=tolees-21)
