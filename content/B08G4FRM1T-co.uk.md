@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43107 VIDIYO HipHop Robot BeatBox M at 33.57 % discount'
-date: 2021-10-12 19:48:31
+date: 2021-10-14 07:42:48
 image: 'https://m.media-amazon.com/images/I/51DH83w+ejL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4FRM1T/?tag=tolees0a-21'
 descuento: '33.57'
-average: '10.9541025641026'
+average: '10.9604458598726'
 ---
 
 With a final price of 11.95 GBP (original: 17.99 GBP) you can find [LEGO 43107 VIDIYO HipHop Robot BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08G4FRM1T/?tag=tolees0a-21) with a  33.57 % discount here:
@@ -28,10 +28,10 @@ With a final price of 11.95 GBP (original: 17.99 GBP) you can find [LEGO 43107�
 
 ℹ️:
 
-- Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
-- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 - Use the app to bring the robot to life with an awesome hip-hop music video to share online, and use the bling effect to make minifigures gold
 - Includes a robot minifigure, microphone accessory, 14 random BeatBits, 2 special BeatBits, and a scene that allows music video making
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
+- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
+- Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4FRM1T/?tag=tolees0a-21)
