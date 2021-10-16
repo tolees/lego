@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 38.41 % for LEGO UK - LEGO 31058 Creator Mighty Dino'
-date: 2021-10-12 15:15:17
+date: 2021-10-16 00:25:58
 image: 'https://m.media-amazon.com/images/I/512r2tPGEKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO UK'
 buyurl: 'https://www.amazon.co.uk/dp/B01J41DNWM/?tag=tolees0a-21'
 descuento: '38.41'
-average: '12.4378571428572'
+average: '11.8831250000001'
 ---
 
 You've got [LEGO UK - LEGO 31058 Creator Mighty Dinosaurs Toy  3 in 1 Model  Triceratops and Pterodactyl Dinosaur Figures  Modular Building System](https://www.amazon.co.uk/dp/B01J41DNWM/?tag=tolees0a-21) with a  38.41 % discount, with final price of 8.0 GBP (original: 12.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO UK - LEGO 31058 Creator Mighty Dinosaurs Toy  3 in 1 M
 
 ℹ️:
 
-- This LEGO Creator 3-in-1 model rebuilds into a Triceratops and Pterodactyl Dinosaur action figures
 - Also includes the dinosaur’s prey in the form of a buildable rib cage
 - LEGO Creator 3in1 building toys are compatible with all LEGO construction sets for creative building
-- Features a 3-in-1 T. rex Dinosaur Toy with bright orange eyes, posable joints and head, large claws and an opening mouth with pointed teeth
+- This LEGO Creator 3-in-1 model rebuilds into a Triceratops and Pterodactyl Dinosaur action figures
 - Pose the T. rex’s arms, legs, tail and head, and open its mouth to reveal ferocious teeth.
+- Features a 3-in-1 T. rex Dinosaur Toy with bright orange eyes, posable joints and head, large claws and an opening mouth with pointed teeth
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B01J41DNWM/?tag=tolees0a-21)
