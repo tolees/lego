@@ -29,8 +29,8 @@ You've got [LEGO UK - LEGO 31058 Creator Mighty Dinosaurs Toy  3 in 1 M
 ℹ️:
 
 - Also includes the dinosaur’s prey in the form of a buildable rib cage
-- LEGO Creator 3in1 building toys are compatible with all LEGO construction sets for creative building
 - This LEGO Creator 3-in-1 model rebuilds into a Triceratops and Pterodactyl Dinosaur action figures
+- LEGO Creator 3in1 building toys are compatible with all LEGO construction sets for creative building
 - Pose the T. rex’s arms, legs, tail and head, and open its mouth to reveal ferocious teeth.
 - Features a 3-in-1 T. rex Dinosaur Toy with bright orange eyes, posable joints and head, large claws and an opening mouth with pointed teeth
 
