@@ -28,12 +28,12 @@ There's a deal [LEGO 60220 City Camión de la Basura de Juguete  Juegos de Coche
 
 ℹ️:
 
-- LEGO 4+ introduce a tu pequeño en el mundo de emociones sin fin de los héroes del día a día.
-- Accesorios incluidos: un cubo de basura, una pala, una escoba, un plátano, un pescado, una rama pequeña y 7 ladrillos LEGO.
-- Los sets LEGO 4+ están especialmente diseñados para entretener a los niños pequeños de una manera fácil y divertida, ayudándoles a adquirir confianza mediante los sencillos pasos de construcción, ideales para iniciarse en la construcción al estilo LEGO.
-- Cuenta con un Camión de la Basura de juguete fácil de construir con cabina que se abre para 2 minifiguras, tolva inclinable y una base de construcción rápida que ayuda a tu peque a construir y empezar a jugar enseguida en el ajetreado universo de LEGO City.
-- Inclina la tolva del Camión de la Basura, engancha el contenedor y vuelca ambos para vaciar los residuos.
-- Incluye 2 minifiguras de basureros LEGO City.
 - Incluye también un contenedor con ruedas.
+- Incluye 2 minifiguras de basureros LEGO City.
+- Inclina la tolva del Camión de la Basura, engancha el contenedor y vuelca ambos para vaciar los residuos.
+- Accesorios incluidos: un cubo de basura, una pala, una escoba, un plátano, un pescado, una rama pequeña y 7 ladrillos LEGO.
+- Cuenta con un Camión de la Basura de juguete fácil de construir con cabina que se abre para 2 minifiguras, tolva inclinable y una base de construcción rápida que ayuda a tu peque a construir y empezar a jugar enseguida en el ajetreado universo de LEGO City.
+- Los sets LEGO 4+ están especialmente diseñados para entretener a los niños pequeños de una manera fácil y divertida, ayudándoles a adquirir confianza mediante los sencillos pasos de construcción, ideales para iniciarse en la construcción al estilo LEGO.
+- LEGO 4+ introduce a tu pequeño en el mundo de emociones sin fin de los héroes del día a día.
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B07FNW6WQ1/?tag=tolees-21)
