@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 23.02 % for LEGO 60239 City Coche Patrulla de la Pol'
-date: 2021-10-16 13:28:13
+date: 2021-10-17 13:45:48
 image: 'https://m.media-amazon.com/images/I/519itWfRnKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21'
 descuento: '23.02'
-average: '10.0165555555554'
+average: '10.0037016574584'
 ---
 
 You've got [LEGO 60239 City Coche Patrulla de la Policía  Colección de Vehículos de Juguete para Niños y Niñas +5 Años con Mini Figuras](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21) with a  23.02 % discount, with final price of 7.69 EUR (original: 9.99 EUR) at the following link:
@@ -28,9 +28,9 @@ You've got [LEGO 60239 City Coche Patrulla de la Policía  Colección de Vehícu
 
 ℹ️:
 
-- El coche patrulla mide más de 4 cm de altura, 12 cm de longitud y 5 cm de ancho
-- Incluye una minifigura LEGO de un agente de policía
 - Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración
+- Incluye una minifigura LEGO de un agente de policía
+- El coche patrulla mide más de 4 cm de altura, 12 cm de longitud y 5 cm de ancho
 - Accesorios incluidos: 2 conos de tráfico del agente de policía
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21)
