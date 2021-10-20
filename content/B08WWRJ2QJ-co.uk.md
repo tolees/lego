@@ -28,10 +28,10 @@ With a final price of 97.5 GBP (original: 129.99 GBP) you can find [LEGO 76389 H
 
 ℹ️:
 
-- Includes 10 minifigures: Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood & Professor Sinistra
-- The posable Basilisk snake has opening jaws, a head section with 2 rotatable joints, and a tail comprising 3 reconfigurable parts
-- Also includes Gilderoy Lockhart, Albus Dumbledore, and Nearly Headless Nick, plus 6 random wizard card tiles to collect, out of 16 in total
 - This easy to build 2 floors LEGO Harry Potter Hogwarts castle toy features The Chamber of Secrets & The Great Hall with accessible tower and attic
+- The posable Basilisk snake has opening jaws, a head section with 2 rotatable joints, and a tail comprising 3 reconfigurable parts
 - The Chamber of Secrets has an iconic circular entrance & a large statue with an opening mouth, which reveals a corridor for Basilisk to enter
+- Also includes Gilderoy Lockhart, Albus Dumbledore, and Nearly Headless Nick, plus 6 random wizard card tiles to collect, out of 16 in total
+- Includes 10 minifigures: Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood & Professor Sinistra
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08WWRJ2QJ/?tag=tolees0a-21)

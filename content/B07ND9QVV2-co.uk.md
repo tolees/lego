@@ -29,9 +29,9 @@ You've got [LEGO 70421 Hidden Side El Fuego’s Stunt Truck Toy  AR Ga
 ℹ️:
 
 - This construction set can be played with right out of the box, but for a full experience, a tablet/mobile phone is required (not included)
-- Download the app, then scan the model to make it come alive and reveal the Hidden Side, an ever-changing environment moving around the model
-- El Fuego’s monster truck has working rear suspension, a rear-mounted cannon, and a 3-wheel motorcycle chopper for cool stunts and jumps
-- Download the Hidden Side app, scan the model with a phone to bring the AR world to life, while playing the ghost-haunting adventures
 - The app is compatible with selected iOS/Android/mobile devices for better ghost hunting. Check compatibility at lego.com/devicecheck
+- El Fuego’s monster truck has working rear suspension, a rear-mounted cannon, and a 3-wheel motorcycle chopper for cool stunts and jumps
+- Download the app, then scan the model to make it come alive and reveal the Hidden Side, an ever-changing environment moving around the model
+- Download the Hidden Side app, scan the model with a phone to bring the AR world to life, while playing the ghost-haunting adventures
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07ND9QVV2/?tag=tolees0a-21)
