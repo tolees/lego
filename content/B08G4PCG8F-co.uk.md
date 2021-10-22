@@ -29,9 +29,9 @@ There's a deal [LEGO 10281 Creator Expert Bonsai Tree Set for Adults  H
 ℹ️:
 
 - Features a bonsai tree model with a rectangular pot and a slatted wood-effect stand, made of LEGO elements and designed especially for adults
+- In this set, the LEGO designers have created a mindful build, with a unique display piece for bonsai lovers to enjoy
 - Includes interchangeable pieces so you can style the bonsai tree model with classic green leaves or vibrant pink cherry blossom blooms
 - The LEGO Botanical Collection offers a range for flower lovers and home décor enthusiasts, making it a unique gift for a friend or loved one
 - Both sets of leaves can be custom arranged, creating an eye-catching, pretty unique display piece to adore in any home or office
-- In this set, the LEGO designers have created a mindful build, with a unique display piece for bonsai lovers to enjoy
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4PCG8F/?tag=tolees0a-21)
