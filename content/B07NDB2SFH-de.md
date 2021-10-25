@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 20.09 % for LEGO STAR WARS - Lego 75255 Star Wars Yo'
-date: 2021-10-22 03:08:59
+title: 'Discount of 23.48 % for LEGO STAR WARS - Lego 75255 Star Wars Yo'
+date: 2021-10-25 17:51:52
 image: 'https://m.media-amazon.com/images/I/51nB4FpWe6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B07NDB2SFH-de LEGO STAR WARS - Lego 75255 Star Wars Yoda Bauset...'
 sku: 'B07NDB2SFH-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','lego star wars', ]
-actualPrice: 79.9 EUR
+actualPrice: 76.51 EUR
 currency: EUR
-price: 79.9
+price: 76.51
 comparePrice: 99.99 EUR
 prodname: 'LEGO STAR WARS - Lego 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21'
-descuento: '20.09'
-average: '79.6883865248227'
+descuento: '23.48'
+average: '79.7070494699647'
 ---
 
-You've got [LEGO STAR WARS - Lego 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21) with a  20.09 % discount, with final price of 79.9 EUR (original: 99.99 EUR) at the following link:
+You've got [LEGO STAR WARS - Lego 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21) with a  23.48 % discount, with final price of 76.51 EUR (original: 99.99 EUR) at the following link:
 
 [![LEGO STAR WARS - Lego 75255 Star Wars Yo](https://m.media-amazon.com/images/I/51nB4FpWe6S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Es verfügt über einen beweglichen Kopf, bewegliche Augenbrauen, Finger und Zehen sowie über ein großes grünes Lichtschwert, das einen jeden Star-Wars-Fan in Staunen versetzt
 - Ergänzt wird dieser Fanliebling durch ein Infoschild und einen Präsentationsständer für die enthaltene Yoda-Minifigur
 - Die 1.771-teilige Sammelfigur basiert auf der Version des Jedi-Meisters aus dem Film Star Wars: Angriff der Klonkrieger; Mit Lichtschwert ist sie 41 cm hoch.
-- Es verfügt über einen beweglichen Kopf, bewegliche Augenbrauen, Finger und Zehen sowie über ein großes grünes Lichtschwert, das einen jeden Star-Wars-Fan in Staunen versetzt
 - Yoda-Figur von LEGO Star Wars zum Ausstellen – eine detaillierte, baubare Version des unverwechselbaren Jedi-Meisters, der sich bei Kindern und Fans großer Beliebtheit erfreut
 - Dieses Yoda-Modell ist das ideale Geschenk von LEGO Star Wars für Jungen und Mädchen ab 12 Jahren. Damit bildet sie das beeindruckende Herzstück einer jeden Star-Wars-Sammlung
 
