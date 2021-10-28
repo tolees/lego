@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Forest Waterfall 41677 Buil at 35.04 % discount'
-date: 2021-10-11 20:24:00
+date: 2021-10-28 11:59:35
 image: 'https://m.media-amazon.com/images/I/51PSts2j7XS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ With a final price of 6.49 USD (original: 9.99 USD) you can find [LEGO Friends F
 
 ℹ️:
 
+- A great gift for kids aged 5+ who love nature. This set lets them bring their love of the outdoors indoors, making it the perfect present for birthdays, holiday or for when rain stops outside play
 - Looking for a creative LEGO Friends gift for a nature-loving kid? The Forest Waterfall (41677) is the perfect present for youngsters who love exploring the great outdoors with their friends
 - This forest set measures over 2 in. (7 cm) high, 6 in. (16 cm) wide and 2 in. (7 cm) deep – the perfect size to keep out on display for anytime play
-- A great gift for kids aged 5+ who love nature. This set lets them bring their love of the outdoors indoors, making it the perfect present for birthdays, holiday or for when rain stops outside play
 - Comes with LEGO Friends Andrea and Olivia mini-dolls, a squirrel figure, a scooter, campfire, marshmallow on a stick, a bridge that crosses a river and a woodland waterfall
 - Kids can explore the beautiful forest on the scooter, feed the squirrel toy a chestnut in its pine tree house, use the binoculars to spot wildlife, or discover a gem hidden behind the waterfall
 
