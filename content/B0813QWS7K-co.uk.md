@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76160 Super Heroes DC Batman Mobile at 31.25 % discount'
-date: 2021-10-23 02:59:01
+date: 2021-10-28 15:48:58
 image: 'https://m.media-amazon.com/images/I/519CwyKGPvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QWS7K/?tag=tolees0a-21'
 descuento: '31.25'
-average: '67.9408744394617'
+average: '67.8543429844096'
 ---
 
 With a final price of 54.99 GBP (original: 79.99 GBP) you can find [LEGO 76160 Super Heroes DC Batman Mobile Bat Base Batcave Truck Toy with Jet Plane  Quad Bike  Motorbike & Water Scooter](https://www.amazon.co.uk/dp/B0813QWS7K/?tag=tolees0a-21) with a  31.25 % discount here:
@@ -28,10 +28,10 @@ With a final price of 54.99 GBP (original: 79.99 GBP) you can find [LEGO 76160 S
 
 ℹ️:
 
+- The Mobile Bat Base toy trucks opening roof and side provide easy access to Batman’s Batcave accessories and all detachable vehicles
+- It’s a great ‘build your own truck’ birthday gift for all children aged 6 and up who enjoy imaginative play, not just for Batman movie fans
+- Features a buildable "Batcave on wheels" toy truck, with 4 vehicles: a Batjet, BatQuad, motorcycle, and a water scooter, plus 6 minifigures
 - Kids join Batman, Batgirl and Nightwing minifigures on the hunt for notorious Super-Villains Mr Freeze, Man-Bat and Bronze Tiger
 - The high-tech truck is packed with exciting hidden features, there is even an onboard jail and an explosion feature for escaping villains
-- Features a buildable "Batcave on wheels" toy truck, with 4 vehicles: a Batjet, BatQuad, motorcycle, and a water scooter, plus 6 minifigures
-- It’s a great ‘build your own truck’ birthday gift for all children aged 6 and up who enjoy imaginative play, not just for Batman movie fans
-- The Mobile Bat Base toy trucks opening roof and side provide easy access to Batman’s Batcave accessories and all detachable vehicles
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813QWS7K/?tag=tolees0a-21)
