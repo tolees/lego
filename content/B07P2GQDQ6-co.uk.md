@@ -28,11 +28,11 @@ You've got [LEGO 42110 Technic Land Rover Defender Off Road 4x4 Car  Exclusive M
 
 ℹ️:
 
-- This collectable car model kit for kids 11+ and adults with its clean, modern lines is a great display piece for the home or office
-- Functions include a 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension and detailed 6-cylinder engine
-- The Land rover model also has a transmission system with 2 levers for engaging high or low gear ratios and a selector for changing gear
-- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
 - Features authentically designed bodywork with Land Rover emblems, original-design rims with ground-gripping tyres, plus a detailed cabin
+- Functions include a 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension and detailed 6-cylinder engine
+- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
 - The cabin features a detailed dashboard, working steering wheel and forward-folding rear seats that reveal the 4-speed sequential gearbox
+- This collectable car model kit for kids 11+ and adults with its clean, modern lines is a great display piece for the home or office
+- The Land rover model also has a transmission system with 2 levers for engaging high or low gear ratios and a selector for changing gear
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07P2GQDQ6/?tag=tolees0a-21)
