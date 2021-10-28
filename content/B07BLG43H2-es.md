@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75955 Harry Potter Expreso de Hogwa at 15.00 % discount'
-date: 2021-10-26 22:14:26
+date: 2021-10-28 03:24:01
 image: 'https://m.media-amazon.com/images/I/51GbsEnMHDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07BLG43H2/?tag=tolees-21'
 descuento: '15.00'
-average: '78.6226740947072'
+average: '78.6167499999997'
 ---
 
 With a final price of 76.49 EUR (original: 89.99 EUR) you can find [LEGO 75955 Harry Potter Expreso de Hogwarts y Andén 9 y 3/4 Juguete de Construcción del Tren y Estación con 5 Mini Figuras](https://www.amazon.es/dp/B07BLG43H2/?tag=tolees-21) with a  15.00 % discount here:
@@ -28,15 +28,15 @@ With a final price of 76.49 EUR (original: 89.99 EUR) you can find [LEGO 75955�
 
 ℹ️:
 
+- Recrea las emblemáticas escenas de la saga cinematográfica de Harry Potter.
+- El Expreso de Hogwarts incluye un vagón con 4 asientos, panel lateral y techo desmontables, y la bruja del carrito con su carrito de dulces.
+- Lanza un Dementor en picado y entra con él en el vagón para atormentar a Harry. ¡Usa después una varita para deshacerte de él con un hechizo!
+- Accesorios incluidos: 3 bultos de equipaje, 4 varitas, una rana de chocolate, un helado, 2 periódicos, una señal de la estación de Kings Cross, una señal del andén 9¾ y un póster con la inscripción “Wanted”.
 - El andén mide más de 13 cm de altura, 31 cm de ancho y 17 cm de profundidad.
-- El andén cuenta con un puente ferroviario con reloj, escaleras que conducen a una entrada a través de una pared de ladrillo móvil, un kiosco de periódicos con 2 ejemplares de El Profeta y un póster con la inscripción “Wanted”.
+- Quita el techo y el panel lateral del vagón para colocar a las minifiguras en sus asientos.
+- Incluye 5 minifiguras: Harry Potter, Ron Weasley, Hermione Granger, Remus Lupin y la bruja del carrito; incluye también figuras de un Dementor y Scabbers.
 - Contiene el emblemático andén 9¾ de la estación de Kings Cross y el Expreso de Hogwarts.
 - Cómprale una rana de chocolate y más caramelos a la bruja del carrito.
-- Recrea las emblemáticas escenas de la saga cinematográfica de Harry Potter.
-- Quita el techo y el panel lateral del vagón para colocar a las minifiguras en sus asientos.
-- Accesorios incluidos: 3 bultos de equipaje, 4 varitas, una rana de chocolate, un helado, 2 periódicos, una señal de la estación de Kings Cross, una señal del andén 9¾ y un póster con la inscripción “Wanted”.
-- Lanza un Dementor en picado y entra con él en el vagón para atormentar a Harry. ¡Usa después una varita para deshacerte de él con un hechizo!
-- El Expreso de Hogwarts incluye un vagón con 4 asientos, panel lateral y techo desmontables, y la bruja del carrito con su carrito de dulces.
-- Incluye 5 minifiguras: Harry Potter, Ron Weasley, Hermione Granger, Remus Lupin y la bruja del carrito; incluye también figuras de un Dementor y Scabbers.
+- El andén cuenta con un puente ferroviario con reloj, escaleras que conducen a una entrada a través de una pared de ladrillo móvil, un kiosco de periódicos con 2 ejemplares de El Profeta y un póster con la inscripción “Wanted”.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07BLG43H2/?tag=tolees-21)
