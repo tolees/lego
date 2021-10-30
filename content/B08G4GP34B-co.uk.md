@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75301 Star Wars Luke Skywalker s X- at 24.98 % discount'
-date: 2021-10-28 19:38:49
+title: 'LEGO 75301 Star Wars Luke Skywalker s X- at 25.56 % discount'
+date: 2021-10-30 17:36:42
 image: 'https://m.media-amazon.com/images/I/51ZVRreOfDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B08G4GP34B-co.uk LEGO 75301 Star Wars Luke Skywalker s X-Wing Fighter...'
 sku: 'B08G4GP34B-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys & Games','Toys Store','lego', ]
-actualPrice: 33.75 GBP
+actualPrice: 33.49 GBP
 currency: GBP
-price: 33.75
+price: 33.49
 comparePrice: 44.99 GBP
 prodname: 'LEGO 75301 Star Wars Luke Skywalker s X-Wing Fighter Toy for Kids Age 9+ with Princess Leia Minifigure and R2-D2 Droid Figure'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4GP34B/?tag=tolees0a-21'
-descuento: '24.98'
-average: '45.8727848101265'
+descuento: '25.56'
+average: '45.7179999999999'
 ---
 
-With a final price of 33.75 GBP (original: 44.99 GBP) you can find [LEGO 75301 Star Wars Luke Skywalker s X-Wing Fighter Toy for Kids Age 9+ with Princess Leia Minifigure and R2-D2 Droid Figure](https://www.amazon.co.uk/dp/B08G4GP34B/?tag=tolees0a-21) with a  24.98 % discount here:
+With a final price of 33.49 GBP (original: 44.99 GBP) you can find [LEGO 75301 Star Wars Luke Skywalker s X-Wing Fighter Toy for Kids Age 9+ with Princess Leia Minifigure and R2-D2 Droid Figure](https://www.amazon.co.uk/dp/B08G4GP34B/?tag=tolees0a-21) with a  25.56 % discount here:
 
 [![LEGO 75301 Star Wars Luke Skywalker s X-](https://m.media-amazon.com/images/I/51ZVRreOfDL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4GP34B/?tag=tolees0a-21)
 
 ℹ️:
 
-- The X-wing also features retractable landing gear and 2 spring-loaded shooters, plus an R2-D2 LEGO droid figure to fit in
 - The X-wing features an opening LEGO minifigure cockpit, space for R2-D2 and wings that can be switched to attack position with a button
-- Features a LEGO brick-built version of Luke Skywalker’s iconic toy X-wing Fighter to recreate scenes from the classic Star Wars trilogy
-- Includes Luke Skywalker, Princess Leia and General Dodonna LEGO minifigures with weapons including Luke’s lightsaber for roleplay adventures
+- The X-wing also features retractable landing gear and 2 spring-loaded shooters, plus an R2-D2 LEGO droid figure to fit in
 - This set comes with step-by-step, illustrated instructions so even first time young builders can build with Jedi-like confidence
+- Includes Luke Skywalker, Princess Leia and General Dodonna LEGO minifigures with weapons including Luke’s lightsaber for roleplay adventures
+- Features a LEGO brick-built version of Luke Skywalker’s iconic toy X-wing Fighter to recreate scenes from the classic Star Wars trilogy
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4GP34B/?tag=tolees0a-21)
