@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.00 % deal for LEGO 42108 Technic Control Kran-LKW  Spi'
-date: 2021-10-29 17:55:55
+date: 2021-10-31 17:30:32
 image: 'https://m.media-amazon.com/images/I/51NbLa+19xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21'
 descuento: '24.00'
-average: '77.4524328859064'
+average: '77.4499832495816'
 ---
 
 There's a deal [LEGO 42108 Technic Control Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)  with  24.00 % discount, final price tag of  75.99 EUR (original: 99.99 EUR) here:
@@ -28,15 +28,15 @@ There's a deal [LEGO 42108 Technic Control Kran-LKW  Spielzeug  Bausatz für Bau
 
 ℹ️:
 
-- LEGO Fans jeden Alters erhalten mit den LEGO Technic Produkten Zugang zu einer völlig neuen Welt des Bauens. Das coole Fahrzeugdesign und die starken Funktionen bieten auch jede Menge Spielspaß
-- Viel Spaß beim Bauen dieses anspruchsvollen Modells. Entdecke wozu die verschiedenen Funktionen dienen. Benutze den Pfeiler, um den Kran auf Herz und Nieren zu prüfen, bevor du mit dem Mobilkran zum nächsten Einsatz fährst
+- Kranfans ab 10 Jahren werden das LEGO Technic Set (42108) lieben. Ein tolles Geschenk für alle, die LEGO Technic Modelle lieben und sich einer neuen Bauherausforderung stellen möchten
 - Besonders auffällig ist die Größe dieses LEGO Krans. Der Teleskopausleger lässt sich auf stolze 78 cm ausfahren, das ist ganz schön hoch. Die eindrucksvollen Abmessungen (48 cm lang, 11 cm breit) machen den Kran zu einem fantastischen Schaustück
 - Für diesen Spielzeug-Mobilkran werden keine Batterien benötigt. Für den Anfang reichen Neugier und die Freude am bauen!
-- Bauspielzeuge müssen sehr robust sein. Gut zu wissen, dass LEGO Technic Sets den höchsten Qualitätsstandards der Branche entsprechen. Die Bausets lassen sich folglich stets mühelos zusammenbauen
 - Juckt es dich schon in den Fingern? Dann nichts wie los! Dank der beiliegenden einfachen Bauanleitung kann der Bauspaß sofort beginnen
-- LEGO Technic Elemente werden streng getestet, damit jedes Bauset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht. Tolle Neuigkeiten für alle, die nach einem perfekten Geschenk für einen LEGO Fan suchen
-- Kranfans ab 10 Jahren werden das LEGO Technic Set (42108) lieben. Ein tolles Geschenk für alle, die LEGO Technic Modelle lieben und sich einer neuen Bauherausforderung stellen möchten
-- Dieses actionreiche LEGO Set für Fans von Baumaschinen zeigt, wie ein echter Mobilkran funktioniert. Lenke den LKW, fahr die Stützfüße und dann den Ausleger aus und heb den Betonpfeiler an
+- LEGO Fans jeden Alters erhalten mit den LEGO Technic Produkten Zugang zu einer völlig neuen Welt des Bauens. Das coole Fahrzeugdesign und die starken Funktionen bieten auch jede Menge Spielspaß
 - Dieses coole Bauspielzeug vermittelt sehr viel Wissenswertes über Technik und Bewegung. Die 8-Rad-Lenkung, 4 einzeln gesteuerte Stützfüße, 2 Kabinen und ein superhoher Teleskopausleger machen diesen Mobilkran zu einem megastarken Modell
+- Dieses actionreiche LEGO Set für Fans von Baumaschinen zeigt, wie ein echter Mobilkran funktioniert. Lenke den LKW, fahr die Stützfüße und dann den Ausleger aus und heb den Betonpfeiler an
+- Viel Spaß beim Bauen dieses anspruchsvollen Modells. Entdecke wozu die verschiedenen Funktionen dienen. Benutze den Pfeiler, um den Kran auf Herz und Nieren zu prüfen, bevor du mit dem Mobilkran zum nächsten Einsatz fährst
+- Bauspielzeuge müssen sehr robust sein. Gut zu wissen, dass LEGO Technic Sets den höchsten Qualitätsstandards der Branche entsprechen. Die Bausets lassen sich folglich stets mühelos zusammenbauen
+- LEGO Technic Elemente werden streng getestet, damit jedes Bauset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht. Tolle Neuigkeiten für alle, die nach einem perfekten Geschenk für einen LEGO Fan suchen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)
