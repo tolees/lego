@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 24.98 % for LEGO 75311 Star Wars Imperial Armoured M'
-date: 2021-10-30 19:45:47
+date: 2021-10-31 21:57:57
 image: 'https://m.media-amazon.com/images/I/51nomXIo12S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [LEGO 75311 Star Wars Imperial Armoured Marauder Building Toy for Kid
 
 ℹ️:
 
-- The Star Wars buildable Marauder model has 4 stud shooters, including 2 on the rotating rear turret & 2 non-shooting foldout blaster cannons
-- This LEGO Mandalorian building toy also has a minifigure cockpit and a cabin for 2 LEGO Star Wars minifigures, making an amazing display piece
-- The vehicle also has a lookout point (with an opening hatch) for a minifigure, plus opening ammo compartments to inspire creative play
-- Includes 4 LEGO Star Wars minifigures: Greef Karga with a blaster pistol, 2 Stormtroopers with blasters and an Artillery Stormtrooper
 - The new-for-August-2021 Artillery Stormtrooper comes with a mortar gun and backpack accessory element
+- The vehicle also has a lookout point (with an opening hatch) for a minifigure, plus opening ammo compartments to inspire creative play
+- This LEGO Mandalorian building toy also has a minifigure cockpit and a cabin for 2 LEGO Star Wars minifigures, making an amazing display piece
+- Includes 4 LEGO Star Wars minifigures: Greef Karga with a blaster pistol, 2 Stormtroopers with blasters and an Artillery Stormtrooper
+- The Star Wars buildable Marauder model has 4 stud shooters, including 2 on the rotating rear turret & 2 non-shooting foldout blaster cannons
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08WB22HQY/?tag=tolees0a-21)
