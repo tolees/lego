@@ -29,14 +29,14 @@ You've got [LEGO 60215 City Feuerwehr-Station  Bauset mit Lastwagen  Wasserscoot
 ℹ️:
 
 - Drücke auf den Licht- und Ton-Stein des Geländefahrzeugs, damit du freie Bahn hast, während du zum Brandort eilst.
-- Die Garage der Feuerwehr-Station ist mit den Feuerwehrfahrzeugen der anderen LEGO City Feuerwehr-Sets kompatibel.
 - Enthält 4 LEGO City Minifiguren: einen Feuerwehrhauptmann und 3 Feuerwehrmänner sowie eine Feuerwehrhund-Figur.
-- Enthält eine dreistöckige Feuerwache mit Büro, Aufenthaltsraum und Aufklärungsturm, einen kleinen Bootsanleger und eine eigene Garage mit großem Eingangstor, das sich öffnen lässt, sowie einen Landeplatz für die inbegriffene baubare Aufklärungsdrohne. Außerdem ist eine kleine Szene mit Mülltonne, Zeitungsstapel und baubaren Flammenelementen dabei.
+- Zu diesem coolen Set gehört zudem ein Feuerwehr-Geländefahrzeug mit einem funktionierenden Licht- und Ton-Stein (Neuheit ab Januar 2019), einem funktionierenden Feuerwehrschlauch mit Hebel sowie Staufächern. Dazu ein Wasserscooter mit Platz für einen Feuerlöscher, aus dem man Wassernoppen fliegen lassen kann, und eine Aufklärungsdrohne mit drehbaren Rotoren und drehbarer Kamera.
+- Die Garage der Feuerwehr-Station ist mit den Feuerwehrfahrzeugen der anderen LEGO City Feuerwehr-Sets kompatibel.
+- Dieses kreative Bauspielzeug enthält über 500 Teile.
+- Die Feuerwehr-Station ist 28 cm hoch, 21 cm breit und 27 cm tief.
 - Lade je ein Wasserelement in den Feuerwehrschlauch und den Feuerlöscher und betätige die Hebel – so lässt du sie auf das Feuer los und löschst den Brand.
 - Drehe die Rotoren, um die Drohne abheben zu lassen und schwenke die Kamera, um nach einem Feuer zu suchen.
-- Dieses kreative Bauspielzeug enthält über 500 Teile.
-- Zu diesem coolen Set gehört zudem ein Feuerwehr-Geländefahrzeug mit einem funktionierenden Licht- und Ton-Stein (Neuheit ab Januar 2019), einem funktionierenden Feuerwehrschlauch mit Hebel sowie Staufächern. Dazu ein Wasserscooter mit Platz für einen Feuerlöscher, aus dem man Wassernoppen fliegen lassen kann, und eine Aufklärungsdrohne mit drehbaren Rotoren und drehbarer Kamera.
-- Die Feuerwehr-Station ist 28 cm hoch, 21 cm breit und 27 cm tief.
+- Enthält eine dreistöckige Feuerwache mit Büro, Aufenthaltsraum und Aufklärungsturm, einen kleinen Bootsanleger und eine eigene Garage mit großem Eingangstor, das sich öffnen lässt, sowie einen Landeplatz für die inbegriffene baubare Aufklärungsdrohne. Außerdem ist eine kleine Szene mit Mülltonne, Zeitungsstapel und baubaren Flammenelementen dabei.
 - Als Zubehör sind ein Feuerlöscher, aus dem man Wassernoppen fliegen lassen kann, 6 Wasserelemente, ein Eimer, Telefon, Fernseher, Popcorn und ein Fernsteuerungselement für die Drohne enthalten.
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B07FNN17CM/?tag=tolees0ca-21)
