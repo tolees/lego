@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 60288 City Great Vehicles Race Bugg at 33.30 % discount'
-date: 2021-11-02 08:45:30
-image: 'https://m.media-amazon.com/images/I/51jxeGjGnhL._SL500_._SL400_.jpg'
+date: 2021-11-03 16:35:16
+image: 'https://m.media-amazon.com/images/I/51mAGhM+dPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,20 +19,20 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21'
 descuento: '33.30'
-average: '12.2353968253967'
+average: '12.2317187499999'
 ---
 
 With a final price of 12.0 GBP (original: 17.99 GBP) you can find [LEGO 60288 City Great Vehicles Race Buggy Transporter Off Roader Toy Truck with Trailer and Steerable Baja Race Car](https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21) with a  33.30 % discount here:
 
-[![LEGO 60288 City Great Vehicles Race Bugg](https://m.media-amazon.com/images/I/51jxeGjGnhL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21)
+[![LEGO 60288 City Great Vehicles Race Bugg](https://m.media-amazon.com/images/I/51mAGhM+dPL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21)
 
 ℹ️:
 
-- Features a toy SUV LEGO off-roader with seats for 2 minifigures & trailer with fold-down ramps for transporting the steerable Baja race buggy
-- This LEGO toy car transporter with a toy truck and race car makes a wonderful birthday present or Christmas gift idea for kids 5+ years old
-- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 - The time has arrived to break records... it’s race day! LEGO accessories include a toy race helmet, fire extinguisher, wrench and a hammer
-- High-speed thrills await 2 LEGO driver minifigures as the Baja buggy race car can be steered in all directions by tilting it left and right
+- This LEGO toy car transporter with a toy truck and race car makes a wonderful birthday present or Christmas gift idea for kids 5+ years old
+- Features a toy SUV LEGO off-roader with seats for 2 minifigures & trailer with fold-down ramps for transporting the steerable Baja race buggy
+- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 - Kids can lower the trailer ramps and unload the supercool Baja buggy, then lift the cage and climb aboard while putting on a safety helmet
+- High-speed thrills await 2 LEGO driver minifigures as the Baja buggy race car can be steered in all directions by tilting it left and right
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4LMHB4/?tag=tolees0a-21)
