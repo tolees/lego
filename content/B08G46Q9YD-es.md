@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 22.23 % for LEGO 75306 Star Wars Droide Sonda Imperi'
-date: 2021-10-17 01:30:25
+title: 'Discount of 15.31 % for LEGO 75306 Star Wars Droide Sonda Imperi'
+date: 2021-11-04 12:41:22
 image: 'https://m.media-amazon.com/images/I/51UCHUCQe3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,27 +12,27 @@ tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Se
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49
-comparePrice: 67.49 EUR
+comparePrice: 61.98 EUR
 prodname: 'LEGO 75306 Star Wars Droide Sonda Imperial  Maqueta para Construir  Manualidades para Adultos  Set de Coleccionista'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G46Q9YD/?tag=tolees-21'
-descuento: '22.23'
-average: '64.4304878048782'
+descuento: '15.31'
+average: '63.3608695652174'
 ---
 
-You've got [LEGO 75306 Star Wars Droide Sonda Imperial  Maqueta para Construir  Manualidades para Adultos  Set de Coleccionista](https://www.amazon.es/dp/B08G46Q9YD/?tag=tolees-21) with a  22.23 % discount, with final price of 52.49 EUR (original: 67.49 EUR) at the following link:
+You've got [LEGO 75306 Star Wars Droide Sonda Imperial  Maqueta para Construir  Manualidades para Adultos  Set de Coleccionista](https://www.amazon.es/dp/B08G46Q9YD/?tag=tolees-21) with a  15.31 % discount, with final price of 52.49 EUR (original: 61.98 EUR) at the following link:
 
 [![LEGO 75306 Star Wars Droide Sonda Imperi](https://m.media-amazon.com/images/I/51UCHUCQe3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08G46Q9YD/?tag=tolees-21)
 
 ℹ️:
 
-- Transpórtate al planeta helado Hoth y rememora las escenas clásicas de Star Wars: El Imperio Contraataca con la detallada maqueta Droide Sonda Imperial (75306) para construir y exponer.
-- El set se compone de 683 piezas y ofrece una experiencia de construcción compleja y gratificante. Es un magnífico regalo para cualquier entendido en Star Wars o constructor LEGO experto por su cumpleaños, con motivo de una fiesta o como sorpresa.
 - Este set de primera calidad forma parte de una serie de maquetas LEGO Star Wars coleccionables para construir y exponer dirigidas a adultos.
+- La figura LEGO construible del droide tiene piernas articuladas y viene acompañada de un poste transparente para construir con ladrillos que te permite “suspenderlo” sobre una escena nevada construible. El set incluye también una placa informativa.
 - ¿Estás pensando en comprarle este set a un coleccionista de recuerdos de Star Wars que acaba de iniciarse en la construcción con LEGO? No hay problema. Trae instrucciones paso a paso que le permitirán construirlo con confianza.
 - Este modelo para construir mide aproximadamente 27 cm de altura, 24 cm de anchura y 11 cm de profundidad; aunque no ocupará mucho espacio expuesto, seguro que llamará la atención de quienes lo vean.
-- La figura LEGO construible del droide tiene piernas articuladas y viene acompañada de un poste transparente para construir con ladrillos que te permite “suspenderlo” sobre una escena nevada construible. El set incluye también una placa informativa.
+- Transpórtate al planeta helado Hoth y rememora las escenas clásicas de Star Wars: El Imperio Contraataca con la detallada maqueta Droide Sonda Imperial (75306) para construir y exponer.
+- El set se compone de 683 piezas y ofrece una experiencia de construcción compleja y gratificante. Es un magnífico regalo para cualquier entendido en Star Wars o constructor LEGO experto por su cumpleaños, con motivo de una fiesta o como sorpresa.
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08G46Q9YD/?tag=tolees-21)
