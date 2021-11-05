@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 44.45 % for LEGO 43115 VIDIYO The Boombox Beatbox Mu'
-date: 2021-11-04 08:44:07
+date: 2021-11-05 08:54:13
 image: 'https://m.media-amazon.com/images/I/51yKNsPoLsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWJFH1V/?tag=tolees0a-21'
 descuento: '44.45'
-average: '52.212'
+average: '52.01'
 ---
 
 You've got [LEGO 43115 VIDIYO The Boombox Beatbox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08WWJFH1V/?tag=tolees0a-21) with a  44.45 % discount, with final price of 49.99 GBP (original: 89.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 43115 VIDIYO The Boombox Beatbox Music Video Maker Musical Toy 
 
 ℹ️:
 
-- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
-- Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
 - The LEGO VIDIYO The Boombox music video maker set has 4 scenery choices in the augmented reality app: a tropical, space, forest or castle
+- Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
 - Scan the elements in the app to unlock 4 different heads, speakers and lights, each inspired by a different music genre, for music-loving kids
 - Includes 4 minifigures: a vampire, leopard, fairy and an alien, with musical accessories, 14 random BeatBits and 4 special BeatBits to scan
+- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08WWJFH1V/?tag=tolees0a-21)
