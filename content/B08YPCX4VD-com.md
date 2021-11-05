@@ -28,10 +28,10 @@ You've got [LEGO Disney Ariel  Belle  Cinderella and Tiana’s Storybook Adventu
 
 ℹ️:
 
-- Kick-start creative role play or play out favorite movie scenes with this LEGO Disney Ariel, Belle, Cinderella and Tiana’s Storybook Adventures (43193) set. Play starts with opening the book
-- Pack-up-and-play fun. With the open book measuring over 3 in. (8 cm) high, 9 in. (23 cm) wide and 5 in. (12 cm) deep, this set is big enough for new adventures and easily packed up for on-the-go play
 - Any Disney Princess fan aged 5 and up will love this set. Open the book to access a complete micro-world, full of exciting details and elements that will thrill any child as a fun treat or reward
-- What fun is waiting to be had in the castle? This cool set features an opening book with a 2-sided castle build, small chariot, free-form stickers and plenty of play starters for imaginative fun
 - 4 beloved micro-characters – Disney’s Cinderella, Tiana, Belle and Ariel – are ready for adventures in this buildable toy, together with Gus, Lumiere, a dolphin and frog LEGO figures
+- Kick-start creative role play or play out favorite movie scenes with this LEGO Disney Ariel, Belle, Cinderella and Tiana’s Storybook Adventures (43193) set. Play starts with opening the book
+- What fun is waiting to be had in the castle? This cool set features an opening book with a 2-sided castle build, small chariot, free-form stickers and plenty of play starters for imaginative fun
+- Pack-up-and-play fun. With the open book measuring over 3 in. (8 cm) high, 9 in. (23 cm) wide and 5 in. (12 cm) deep, this set is big enough for new adventures and easily packed up for on-the-go play
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08YPCX4VD/?tag=tolees-20)

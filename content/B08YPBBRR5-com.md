@@ -28,10 +28,10 @@ With a final price of 48.0 USD (original: 59.99 USD) you can find [LEGO Super Ma
 
 ℹ️:
 
+- The nougat-brown-colored bricks, which signify the Tower biome, trigger different reactions from LEGO Luigi
+- This modular, 280-piece LEGO toy building set makes a fun birthday or holiday gift for creative kids aged 6 and up; It can be rebuilt and combined with other LEGO Super Mario sets in many ways
 - Introduce Super Mario fans to the real-world LEGO Super Mario universe with this Adventures with Luigi Starter Course (71387), featuring a LEGO Luigi figure for fun interactive play
 - Move LEGO Luigi from Start Pipe to Goal Pole, collecting digital coins for spinning seesaw and flying challenges and interacting with the Question Mark Block and Pink Yoshi, Boom Boom and Bone Goomba figures
 - LEGO Luigi has a color sensor, an LCD screen to display many different instant reactions to movement, and a speaker that plays iconic sounds and music from the video game
-- This modular, 280-piece LEGO toy building set makes a fun birthday or holiday gift for creative kids aged 6 and up; It can be rebuilt and combined with other LEGO Super Mario sets in many ways
-- The nougat-brown-colored bricks, which signify the Tower biome, trigger different reactions from LEGO Luigi
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B08YPBBRR5/?tag=tolees-20)
