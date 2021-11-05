@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 58.83 % for LEGO 43102 VIDIYO Candy Mermaid Beatbox '
-date: 2021-10-25 17:53:47
+title: 'Discount of 45.42 % for LEGO 43102 VIDIYO Candy Mermaid Beatbox '
+date: 2021-11-05 18:22:51
 image: 'https://m.media-amazon.com/images/I/51Cs-nCFwWS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B08G4FPPV9-de LEGO 43102 VIDIYO Candy Mermaid Beatbox Music Video Maker...'
 sku: 'B08G4FPPV9-de'
 tags: [ 'Hobbys','Model Büsten','Sammelfiguren','Sammelfiguren & Requisiten','Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego', ]
-actualPrice: 8.23 EUR
+actualPrice: 10.91 EUR
 currency: EUR
-price: 8.23
+price: 10.91
 comparePrice: 19.99 EUR
 prodname: 'LEGO 43102 VIDIYO Candy Mermaid Beatbox Music Video Maker Musik Spielzeug für Kinder  AR App Set mit Meerjungfrau Minifigur'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4FPPV9/?tag=tolees0ca-21'
-descuento: '58.83'
-average: '10.9718666666667'
+descuento: '45.42'
+average: '10.971052631579'
 ---
 
-You've got [LEGO 43102 VIDIYO Candy Mermaid Beatbox Music Video Maker Musik Spielzeug für Kinder  AR App Set mit Meerjungfrau Minifigur](https://www.amazon.de/dp/B08G4FPPV9/?tag=tolees0ca-21) with a  58.83 % discount, with final price of 8.23 EUR (original: 19.99 EUR) at the following link:
+You've got [LEGO 43102 VIDIYO Candy Mermaid Beatbox Music Video Maker Musik Spielzeug für Kinder  AR App Set mit Meerjungfrau Minifigur](https://www.amazon.de/dp/B08G4FPPV9/?tag=tolees0ca-21) with a  45.42 % discount, with final price of 10.91 EUR (original: 19.99 EUR) at the following link:
 
 [![LEGO 43102 VIDIYO Candy Mermaid Beatbox ](https://m.media-amazon.com/images/I/51Cs-nCFwWS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4FPPV9/?tag=tolees0ca-21)
 
 ℹ️:
 
-- LEGO Elemente entsprechen bereits seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich jedes Mal zuverlässig zusammenstecken lassen
-- Mit der LEGO VIDIYO Candy Mermaid BeatBox (43102), sowie der dazugehörigen App können Kinder ihre eigenen Musikvideos drehen und auf den sozialen Plattformen der App mit anderen Kindern teilen. Das Set beinhaltet eine Meerjungfrau-Minifigur, 14 zufällige BeatBits, zwei spezielle BeatBits, sowie die tragbare BeatBox
-- Scanne die BeatBits in der App, um Spezialeffekte für die selbst erstellten Videos freizuschalten
-- Kinder können mit der tragbaren, zusammenklappbaren BeatBox auf Tour gehen. In jede BeatBox passen die Bühne aus LEGO Steinen, 16 BeatBits und die Gitarre der Meerjungfrau
-- LEGO Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit sie höchsten globalen Sicherheitsstandards entsprechen.n
-- Die LEGO VIDIYO App ist mit ausgewählten iOS- und Android-Geräten kompatibel. Kompatibilitätscheck auf www.LEGO.com/devicecheck. Kinder sollten ihre Eltern um Erlaubnis bitten, bevor sie online gehen
 - Die BeatBox ist 8 cm hoch, 7 cm lang und 10 cm breit
-- Lustiges Musikerlebnis für Jungen und Mädchen ab 7 Jahren, die eine kleine Belohnung verdient haben. Dieses Spielset ist auch ein tolles Geschenk für Kinder, die Musik lieben, gerne tanzen und auf der Bühne stehen
+- LEGO Elemente entsprechen bereits seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich jedes Mal zuverlässig zusammenstecken lassen
 - Lade dir die kostenlose LEGO VIDIYO App herunter, um die Minifigur und die BeatBits für tolle Spezialeffekte zu scannen. Kinder werden es lieben, wie ihre Figur im eigenen Musikvideo zum Leben erwacht
+- Die LEGO VIDIYO App ist mit ausgewählten iOS- und Android-Geräten kompatibel. Kompatibilitätscheck auf www.LEGO.com/devicecheck. Kinder sollten ihre Eltern um Erlaubnis bitten, bevor sie online gehen
+- Mit der LEGO VIDIYO Candy Mermaid BeatBox (43102), sowie der dazugehörigen App können Kinder ihre eigenen Musikvideos drehen und auf den sozialen Plattformen der App mit anderen Kindern teilen. Das Set beinhaltet eine Meerjungfrau-Minifigur, 14 zufällige BeatBits, zwei spezielle BeatBits, sowie die tragbare BeatBox
+- LEGO Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit sie höchsten globalen Sicherheitsstandards entsprechen.n
 - LEGO VIDIYO Sets bieten ein neues Spielerlebnis. Jungen und Mädchen können eigene Musikvideos drehen und in sozialen Feeds mit anderen Kindern teilen
+- Scanne die BeatBits in der App, um Spezialeffekte für die selbst erstellten Videos freizuschalten
+- Lustiges Musikerlebnis für Jungen und Mädchen ab 7 Jahren, die eine kleine Belohnung verdient haben. Dieses Spielset ist auch ein tolles Geschenk für Kinder, die Musik lieben, gerne tanzen und auf der Bühne stehen
+- Kinder können mit der tragbaren, zusammenklappbaren BeatBox auf Tour gehen. In jede BeatBox passen die Bühne aus LEGO Steinen, 16 BeatBits und die Gitarre der Meerjungfrau
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08G4FPPV9/?tag=tolees0ca-21)
