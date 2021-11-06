@@ -28,10 +28,10 @@ You've got [LEGO 71747 NINJAGO The Keepers  Village Building Set  with 
 
 ℹ️:
 
-- Includes 5 minifigures: Island Cole, Island Jay, Island Kai, Chief Mammatus and Thunder Keeper, all wielding cool weapons
-- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
-- Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
-- The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
 - LEGO NINJAGO provides a fun toy build for kids aged 8 and up and will make a very welcome birthday or holiday present for ninja lovers
+- Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
+- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
+- The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
+- Includes 5 minifigures: Island Cole, Island Jay, Island Kai, Chief Mammatus and Thunder Keeper, all wielding cool weapons
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4DFS99/?tag=tolees0a-21)
