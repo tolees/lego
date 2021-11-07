@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41679 Friends Forest House Toy  Tre at 35.97 % discount'
-date: 2021-11-06 08:31:32
+date: 2021-11-07 14:00:18
 image: 'https://m.media-amazon.com/images/I/514Xba8b5+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21'
 descuento: '35.97'
-average: '16.8000000000002'
+average: '16.7843137254904'
 ---
 
 With a final price of 16.0 GBP (original: 24.99 GBP) you can find [LEGO 41679 Friends Forest House Toy  Treehouse Adventure Set with Mia Mini Doll and Kayak Boat Model](https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21) with a  35.97 % discount here:
@@ -28,10 +28,10 @@ With a final price of 16.0 GBP (original: 24.99 GBP) you can find [LEGO 41679 Fr
 
 ℹ️:
 
+- Accessories include ketchup and mustard bottles, a hotdog, camera, kayak, life vest and paddle elements plus a sofa and barbecue
 - The LEGO Friends forest house adventure set features 2 separate scenes: a 2-floors summer treehouse and a separate kayaking scene
 - The forest dollhouse has an opening roof for easy access, a sleeping area, a patio with dolls house furniture, even a toilet for mini dolls!
 - A great LEGO gift for kids aged 6+ who love dollhouse toys or forest treehouse adventures making it the perfect birthday, Christmas or stocking filler gift
 - This miniature forest toy house includes 2 LEGO mini dolls: Mia and her Mum Ann, plus a LEGO Friends Ava micro doll, and a raccoon toy figure
-- Accessories include ketchup and mustard bottles, a hotdog, camera, kayak, life vest and paddle elements plus a sofa and barbecue
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08W5FXSQJ/?tag=tolees0a-21)
