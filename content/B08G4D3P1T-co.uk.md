@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60281 City Fire Rescue Helicopter T at 49.98 % discount'
-date: 2021-11-05 08:54:28
+date: 2021-11-07 08:29:43
 image: 'https://m.media-amazon.com/images/I/51tItqEGvYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4D3P1T/?tag=tolees0a-21'
 descuento: '49.98'
-average: '15.5710309278353'
+average: '15.5396938775513'
 ---
 
 With a final price of 12.5 GBP (original: 24.99 GBP) you can find [LEGO 60281 City Fire Rescue Helicopter Toy with Motorbike  Firefighter and Pilot Minifigures  For Kids 5+ Years Old  Gift Idea](https://www.amazon.co.uk/dp/B08G4D3P1T/?tag=tolees0a-21) with a  49.98 % discount here:
@@ -28,11 +28,11 @@ With a final price of 12.5 GBP (original: 24.99 GBP) you can find [LEGO 60281 Ci
 
 ℹ️:
 
-- LEGO toy accessories include a stretcher (stored in the helicopter’s cargo hold), firefighter helmet, wrench and a safety helmet
 - Includes 3 minifigures: a plants worker, firefighter helicopter pilot and the LEGO City Adventures TV series hero Clemmons
-- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
-- Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
 - This LEGO Fire Rescue building set is an impressive birthday present, Christmas gift or any time treat for kids 5+ years old
+- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- LEGO toy accessories include a stretcher (stored in the helicopter’s cargo hold), firefighter helmet, wrench and a safety helmet
 - Kids can stack the flames to create big fires, then shoot the helicopter’s water cannon elements to put them out at the top of the tower!
+- Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4D3P1T/?tag=tolees0a-21)
