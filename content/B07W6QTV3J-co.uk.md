@@ -28,11 +28,11 @@ With a final price of 10.0 GBP (original: 19.99 GBP) you can find [LEGO 21158 Mi
 
 ℹ️:
 
-- 2 buildable animal figures: Mom and baby panda sit, stand and move their heads; also includes Alex and Ocelot with a movable tail
 - Accessories include a fish, cake, lamp and a diamond pickaxe accessory for Alex if there’s any Minecraft gold to be mined
-- Great for panda-lovers and Minecraft players wanting new ways to play their favourite game. Requires only very basic building skills
-- The nursery features a hut for the pandas with a rooftop bed for a tired baby, and a small pond with waterfall, trees and flowers
 - LEGO Minecraft building toys for kids with Minecraft figures are a superb birthday present or Christmas gift for all Minecraft fans!
+- The nursery features a hut for the pandas with a rooftop bed for a tired baby, and a small pond with waterfall, trees and flowers
 - There’s bamboo to eat, and Alex caring for the adorable toy pandas has brought a cake to share - a lot goes on with this LEGO Minecraft set!
+- 2 buildable animal figures: Mom and baby panda sit, stand and move their heads; also includes Alex and Ocelot with a movable tail
+- Great for panda-lovers and Minecraft players wanting new ways to play their favourite game. Requires only very basic building skills
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B07W6QTV3J/?tag=tolees0a-21)

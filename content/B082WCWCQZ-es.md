@@ -28,8 +28,8 @@ With a final price of 9.99 EUR (original: 13.79 EUR) you can find [LEGO tbd-LSH-
 
 ℹ️:
 
-- Construya este set Lego.
-- 133 piezas para los niños de 7 a más.
 - Todas las gamas son compatibles con los otros set de construcción Lego para una experiencia sin límite.
+- 133 piezas para los niños de 7 a más.
+- Construya este set Lego.
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B082WCWCQZ/?tag=tolees-21)
