@@ -28,10 +28,10 @@ With a final price of 399.02 GBP (original: 499.95 GBP) you can find [LEGO 10246
 
 ℹ️:
 
-- The hairdressing salon contains scissors never seen before and a reflecting mirror element, 2 wall lamps, a hairdressing chair, a wall cupboard, 2 heads with wigs, as well as a broom.
-- The detective office contains a desk, various clues, a lamp made of stones, a filing cabinet, a fan, a safe, a painting, a hidden wall compartment, a newspaper, a menu, an investigation poster and a wall lamp.
-- With games arcade, hairdressing salon, detective office, toilet, kitchen, water tower and cat
 - The games arcade comes with a suspended rotatable ceiling fan, a pool table, a printed darts board, pool cues, pool balls and a drinking glass..
+- With games arcade, hairdressing salon, detective office, toilet, kitchen, water tower and cat
+- The hairdressing salon contains scissors never seen before and a reflecting mirror element, 2 wall lamps, a hairdressing chair, a wall cupboard, 2 heads with wigs, as well as a broom.
 - Includes 6 figurines with suitable equipment: Private detective Ace Brickman, hairdresser Al, dart player, pool player, policewoman and a mysterious woman in red.
+- The detective office contains a desk, various clues, a lamp made of stones, a filing cabinet, a fan, a safe, a painting, a hidden wall compartment, a newspaper, a menu, an investigation poster and a wall lamp.
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B00RQUG4CK/?tag=tolees0a-21)
