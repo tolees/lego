@@ -28,10 +28,10 @@ You've got [LEGO 41923 DOTS Monster Bracelets Set DIY Wrist Band  Tiles
 
 ℹ️:
 
-- Kids can push their design skills as they decorate the bracelets with funny ghostly but-not-quite-ghastly looking monster tiles
-- The durable bracelets and colourful decorated tiles will make a fun birthday gift, or a little extra seasonal treat for kids aged 6 and up
 - This fun bracelet-making kit lets young designers practice their creations and then share or wear them - a totally portable fun!
 - With the bracelets measuring over 7 in. (20 cm) long and easy-to-follow inspirations, there’s lots of space for kids to be creative
+- The durable bracelets and colourful decorated tiles will make a fun birthday gift, or a little extra seasonal treat for kids aged 6 and up
 - This frightfully cool jewellery features 2 spookily funny adjustable bands and 32 tiles for monster-loving Best Friends Forever buddies
+- Kids can push their design skills as they decorate the bracelets with funny ghostly but-not-quite-ghastly looking monster tiles
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B01AXW8PQK/?tag=tolees0a-21)
