@@ -28,11 +28,11 @@ You've got [LEGO 42109 Technic CONTROL+ App-Controlled Top Gear Rally Car Model 
 
 ℹ️:
 
-- Operated via a smart device with 3 screens: function and gyro control plus achievements. Go to LEGO.com/devicecheck for compatible devices
-- This remote control car for kids 9+ years old is a fantastic birthday or Christmas LEGO gift idea for all who love racing car toys
 - The remote control car for kids 9+ years old features multi-function gyro control, awesome colour scheme with stickers and amazing details
+- This remote control car for kids 9+ years old is a fantastic birthday or Christmas LEGO gift idea for all who love racing car toys
 - Drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback with this car model building kit
 - Build the Top Gear RC racing car toy. Download the app. Get ready for action. Take on challenges in the free LEGO Technic CONTROL+ App.
 - This racing car toy model is controlled via the LEGO Technic CONTROL+ app and powered by an advanced Smart Hub with 1 XL motor and 1 L motor
+- Operated via a smart device with 3 screens: function and gyro control plus achievements. Go to LEGO.com/devicecheck for compatible devices
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W7V6R7D/?tag=tolees0a-21)
