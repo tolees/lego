@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO VIDIYO Candy Mermaid Beatbox 43102  at 25.66 % discount'
-date: 2021-10-30 07:51:42
+date: 2021-11-08 09:08:43
 image: 'https://m.media-amazon.com/images/I/51JNIZ+q1gS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of 14.86 USD (original: 19.99 USD) you can find [LEGO VIDIYO 
 
 ℹ️:
 
-- Inspire kids to direct and star in their own music videos with the LEGO VIDIYO Candy Mermaid BeatBox (43102). Includes a mermaid minifigure with guitar, 14 random BeatBits and 2 special BeatBits
-- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
-- Scan the BeatBits in the app to unlock special effects like the musical theater effect with brass instrument sounds
-- Download the free LEGO VIDIYO app to scan the minifigure and special effect BeatBits. Kids will love seeing their character come to life within their music video
 - The LEGO VIDIYO app is compatible with selected iOS and Android devices. Children should ask parents permission before going online
+- Inspire kids to direct and star in their own music videos with the LEGO VIDIYO Candy Mermaid BeatBox (43102). Includes a mermaid minifigure with guitar, 14 random BeatBits and 2 special BeatBits
+- Scan the BeatBits in the app to unlock special effects like the musical theater effect with brass instrument sounds
+- Download the * LEGO VIDIYO app to scan the minifigure and special effect BeatBits. Kids will love seeing their character come to life within their music video
+- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B08NFBW8KH/?tag=tolees-20)
