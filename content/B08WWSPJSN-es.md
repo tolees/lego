@@ -28,10 +28,10 @@ There's a deal [LEGO 21173 Minecraft La Torre al Cielo  Juguete de Construcción
 
 ℹ️:
 
+- Los niños agarran un cohete de fuegos artificiales para impulsar las alas de élitros y usan el casco y el tridente netherite para combatir el ataque de los fantasmas
 - Incluye una figura de piloto de Minecraft con alas de élite, casco del Nether, cohete de fuegos artificiales y tridente, 2 fantasmas voladores y un gato atigrado naranja
 - Este juguete de construcción de Minecraft es tremendamente versátil y alienta a los niños a adaptar continuamente sus creaciones, es como el videojuego en el mundo real
 - Los juguetes LEGO Minecraft para niños a partir de 8 años cuentan con una herrería flotante para construir, una torre altísima y una isla jardín
 - Las mini figuras Minecraft incluyen una mesa de artesanía, yunque, una piedra de afilar, linternas del alma, patatas, remolachas y un barril de pescado
-- Los niños agarran un cohete de fuegos artificiales para impulsar las alas de élitros y usan el casco y el tridente netherite para combatir el ataque de los fantasmas
 
 [🛒 Buy it now!!](https://www.amazon.es/dp/B08WWSPJSN/?tag=tolees-21)

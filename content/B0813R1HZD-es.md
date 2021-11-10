@@ -28,10 +28,10 @@ With a final price of 45.0 EUR (original: 59.99 EUR) you can find [LEGO 76165 Ma
 
 ℹ️:
 
-- Si eres fan de Marvel, te apasionan los sets LEGO o ambas cosas, este kit de construcción con 480 piezas te brindará la oportunidad de sumergirte en el proceso de construir un proyecto desafiante. Es fantástico como regalo de cumpleaños o Navidad, o como autorregalo para darte un gusto.
-- Incluye instrucciones de alta calidad y muy fáciles de seguir para que puedas embarcarte en un fascinante proyecto desde el mismo momento en que abres la caja.
 - El emblemático diseño del casco de Iron Man se ha replicado ingeniosamente usando ladrillos LEGO y motivos gráficos en adhesivos para evocar escenas memorables de las películas de la saga Marvel Vengadores. Este modelo para construir se apoya en un sólido soporte con una placa de identificación.
+- Incluye instrucciones de alta calidad y muy fáciles de seguir para que puedas embarcarte en un fascinante proyecto desde el mismo momento en que abres la caja.
 - Pon a prueba tus superpoderes de construcción con el set LEGO Marvel Vengadores Casco de Iron Man. Si eres un fan adulto de Marvel o si te atrae la construcción de modelos, ¡esta maqueta construible para exponer es para ti!
+- Si eres fan de Marvel, te apasionan los sets LEGO o ambas cosas, este kit de construcción con 480 piezas te brindará la oportunidad de sumergirte en el proceso de construir un proyecto desafiante. Es fantástico como regalo de cumpleaños o Navidad, o como autorregalo para darte un gusto.
 - Captura la emblemática silueta y los impresionantes detalles del casco de Iron Man con ladrillos LEGO, elementos en rojo y dorado y adhesivos para los ojos. Queda genial expuesto junto a otras maquetas LEGO Marvel.
 - El Casco de Iron Man mide aproximadamente 19 cm de altura, 10 cm de anchura y 13 cm de profundidad. No se requiere mucho espacio para exponerlo, ¡pero sus espectaculares detalles de gran realismo seguro que llamarán la atención de cualquier fan de Marvel!
 
