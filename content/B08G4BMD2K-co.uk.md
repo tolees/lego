@@ -29,10 +29,10 @@ There's a deal [LEGO 41443 Friends Olivia s Electric Car Toy Vehicle for Kids 6 
 ℹ️:
 
 - Includes 2 LEGO mini dolls Mia and Olivia, and Elliot the puppy figure to sit at the back of the toy vehicle to spark creative storytelling
-- LEGO Friends toys with colourful buildings, toy vehicles, and relatable characters make a meaningful birthday present, Christmas gift or stocking filler for girls and boys
 - This LEGO car toy for kids 6+ years old with an electric charging station and mini dolls lets children enjoy road trip fun in a modern, green way
-- Features a buildable electric car toy for all kids who love vehicles and the environment, with a passion for a greener, modern way of life
-- The electric toy car’s wheels spin so kids can ‘drive’ it round and hook it up to the charging station with a cable at the picnic spot
 - It also features a charging station with a toy wind turbine & a solar panel; kids can spin the turbine sails to ‘generate’ the electricity
+- Features a buildable electric car toy for all kids who love vehicles and the environment, with a passion for a greener, modern way of life
+- LEGO Friends toys with colourful buildings, toy vehicles, and relatable characters make a meaningful birthday present, Christmas gift or stocking filler for girls and boys
+- The electric toy car’s wheels spin so kids can ‘drive’ it round and hook it up to the charging station with a cable at the picnic spot
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4BMD2K/?tag=tolees0a-21)

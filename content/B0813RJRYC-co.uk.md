@@ -28,12 +28,12 @@ You've got [LEGO 42115 Technic Lamborghini Sián FKP 37 Race Car Model Building 
 
 ℹ️:
 
-- The LEGO Lamborghini model car is presented in luxury packaging, provides a stunning display piece to build and enjoy, making a delightful birthday or Christmas gift piece
-- Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
-- With its elegant design and superb detailing of the decorated elements, the model is a realistic representation of the original sports car
 - The model Lamborghini includes a collector’s building instruction booklet, decorative display plate, and unique serial number
-- Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
+- With its elegant design and superb detailing of the decorated elements, the model is a realistic representation of the original sports car
+- The LEGO Lamborghini model car is presented in luxury packaging, provides a stunning display piece to build and enjoy, making a delightful birthday or Christmas gift piece
 - This 3,696-piece LEGO Technic 1:8 scale model car brings you closer than ever to the real Lamborghini Sián FKP 37
 - Discover a world of engineering with this Lamborghini LEGO Technic car model building kit for adults, perfect for a Christmas gift idea
+- Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
+- Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813RJRYC/?tag=tolees0a-21)

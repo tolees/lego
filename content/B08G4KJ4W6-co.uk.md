@@ -28,10 +28,10 @@ With a final price of 10.0 GBP (original: 17.99 GBP) you can find [LEGO 60280 Ci
 
 ℹ️:
 
-- Features a toy fire engine with a ladder, extinguisher, stackable flames and a water hydrant, plus accessories: firefighter axe and helmet
-- Kids can raise the extinguisher ladder, stow firefighter tools in the truck’s storage compartment and create stories while saving the day
 - Includes LEGO City Adventures TV series fire chief Freya McCloud and LEGO firefighter minifigures, plus LEGO Starter Brick element
-- Includes a simple 4+ building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
+- Kids can raise the extinguisher ladder, stow firefighter tools in the truck’s storage compartment and create stories while saving the day
 - A treat for boys and girls aged 4+, this fire truck toy playset makes a perfect birthday, seasonal or any-other-day gift for fans of LEGO City
+- Includes a simple 4+ building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
+- Features a toy fire engine with a ladder, extinguisher, stackable flames and a water hydrant, plus accessories: firefighter axe and helmet
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08G4KJ4W6/?tag=tolees0a-21)

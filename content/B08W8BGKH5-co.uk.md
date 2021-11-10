@@ -28,10 +28,10 @@ You've got [LEGO 76386 Harry Potter Hogwarts: Polyjuice Potion Mistake Castle Se
 
 ℹ️:
 
-- Includes Harry Potter, Hermione Granger and Ron Weasley minifigures, and 2 random wizard card tiles for kids to collect (out of 16 in total)
 - This LEGO Harry Potter toy for boys and girls includes an exclusive, golden Harry Potter minifigure to celebrate 20 years of Harrys magic
-- Features a buildable Moaning Myrtles bathroom famous scene to practise Harry Potter potion spells, with lots of authentic accessories
-- Kids transform favourite Harry Potter characters into Vincent Crabbe & Gregory Goyle, but sometimes magic fails and Hermione becomes a cat
 - Kids turn Harry, Hermione & Ron minifigures’ heads to reveal an alternative face, add a different hairpiece, and the transformation is done!
+- Includes Harry Potter, Hermione Granger and Ron Weasley minifigures, and 2 random wizard card tiles for kids to collect (out of 16 in total)
+- Kids transform favourite Harry Potter characters into Vincent Crabbe & Gregory Goyle, but sometimes magic fails and Hermione becomes a cat
+- Features a buildable Moaning Myrtles bathroom famous scene to practise Harry Potter potion spells, with lots of authentic accessories
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08W8BGKH5/?tag=tolees0a-21)
