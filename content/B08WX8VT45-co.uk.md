@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41671 Friends Andrea s Swimming Cub at 33.37 % discount'
-date: 2021-11-10 08:45:17
+date: 2021-11-11 08:54:13
 image: 'https://m.media-amazon.com/images/I/51R2sCC4nVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ With a final price of 5.99 GBP (original: 8.99 GBP) you can find [LEGO 41671 Fri
 
 ℹ️:
 
+- The Andrea’s Swimming Cube collectible toy is a great way for kids to enjoy creative, inclusive play with their friends wherever they go and makes a great birthday or Christmas stocking filler gift
 - This portable mini doll cube play set features a buildable mini pool and is styled like a sports backpack, complete with straps and a handle
+- Accessories of this perfect LEGO birthday gift include a chair, trophy, doughnut and a banana, big enough for little fingers to play
 - The play cube also includes a relaxation area and a LEGO Friends Andrea mini doll toy, with a poodle dog toy in 1 of 4 different colours
 - Kids can remove the elements from the LEGO Friends play cube and pack them up for fun on the go or enjoy the swimming play with a friend
-- Accessories of this perfect LEGO birthday gift include a chair, trophy, doughnut and a banana, big enough for little fingers to play
 - Introduce boys and girls aged 6 and up to the world of LEGO Friends, where they can explore their passions with a buddy who’s just like them
-- The Andrea’s Swimming Cube collectible toy is a great way for kids to enjoy creative, inclusive play with their friends wherever they go and makes a great birthday or Christmas stocking filler gift
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08WX8VT45/?tag=tolees0a-21)
