@@ -1,38 +1,38 @@
 ---
 layout: post
-title: '25.01 % deal for LEGO 43189 Disney Frozen 2 Elsas Märchen'
-date: 2021-11-08 14:46:01
+title: '26.56 % deal for LEGO 43189 Disney Princess Frozen 2 Elsa'
+date: 2021-11-12 14:01:20
 image: 'https://m.media-amazon.com/images/I/51Y+voFJVOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08G55R2RH-de LEGO 43189 Disney Frozen 2 Elsas Märchenbuch...'
+slug: 'B08G55R2RH-de LEGO 43189 Disney Princess Frozen 2 Elsas Märchenbuch...'
 sku: 'B08G55R2RH-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego', ]
-actualPrice: 14.99 EUR
+actualPrice: 14.68 EUR
 currency: EUR
-price: 14.99
+price: 14.68
 comparePrice: 19.99 EUR
-prodname: 'LEGO 43189 Disney Frozen 2 Elsas Märchenbuch  Reisespielzeug mit Nokk und Olaf  mit Prinzessinnen Mini-Puppen  Eiskönigin Spielzeug ab 5 Jahren'
+prodname: 'LEGO 43189 Disney Princess Frozen 2 Elsas Märchenbuch  tragbares Spielset  Reisespielzeug für Kinder  Die Eiskönigin 2'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21'
-descuento: '25.01'
-average: '16.2973846153845'
+descuento: '26.56'
+average: '16.2728787878787'
 ---
 
-There's a deal [LEGO 43189 Disney Frozen 2 Elsas Märchenbuch  Reisespielzeug mit Nokk und Olaf  mit Prinzessinnen Mini-Puppen  Eiskönigin Spielzeug ab 5 Jahren](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)  with  25.01 % discount, final price tag of  14.99 EUR (original: 19.99 EUR) here:
+There's a deal [LEGO 43189 Disney Princess Frozen 2 Elsas Märchenbuch  tragbares Spielset  Reisespielzeug für Kinder  Die Eiskönigin 2](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)  with  26.56 % discount, final price tag of  14.68 EUR (original: 19.99 EUR) here:
 
-[![LEGO 43189 Disney Frozen 2 Elsas Märchen](https://m.media-amazon.com/images/I/51Y+voFJVOL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)
+[![LEGO 43189 Disney Princess Frozen 2 Elsa](https://m.media-amazon.com/images/I/51Y+voFJVOL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Enthält eine gedruckte Bauanleitung und die digitalen Instructions PLUS in der LEGO Building Instructions App, die die Kinder durch den Bauprozess führen
-- Die Reisespielzeuge aus Disneys „Die Eiskönigin 2“ mit Mini-Puppen und Disney-Minifiguren sind fantastische Geschenke zum Geburtstag oder zu Weihnachten für Kinder ab 5 Jahren
-- Dieses Prinzessinnen-Spielzeug enthält 3 Mini-Puppen: Iduna, 2 Versionen der Disney Mini-Puppe Elsa sowie 3 LEGO-Frozen-2-Minifiguren: Olaf, Nokk und den Erdriesen
-- Zusammen mit der Disney Mini-Puppe Elsa und Nokk, dem mythischen Pferde-Wassergeist können Kinder die Abenteuer von Arendelle im verwunschenen Wald nacherleben
-- Das Buch bietet eine vollständige Miniwelt mit Eispalast und steckt voller Funktionen und Spielideen, die die Fantasie anregen
-- Dieses Reisespielzeug aus Disneys „Die Eiskönigin 2“ enthält ein Buch zum Aufklappen mit einem 2-seitigen Modell in der Mitte, einem Stickerbogen und vielen Spielanregungen
+- Die LEGO-Architecture-Modellbausätze würdigen die Welt der Architektur mit LEGO-Steinen und begeistern alle, die sich für Reisen, Design, Architektur und Geschichte interessieren
+- Jedes Skyline-Modell ist in realistischen Farben gehalten und so bemessen, dass die relative Größe der enthaltenen Bauwerke maßstabsgetreu dargestellt wird
+- Dieser Modellbausatz für Erwachsene und Kinder ab 12 Jahren ist ein lohnenswertes und entspannendes Bauerlebnis und ein wunderschönes Deko-Stück für jedes Haus
+- Die LEGO-Architecture-Modelle sind mit allen kreativen LEGO-Modellbausätzen kompatibel und ideale Geschenkideen zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass
+- Das beiliegende Begleitheft enthält Informationen über den Designer, die Architektur und die Geschichte der einzelnen Gebäude
+- Enthält ein detailliertes Modell der Pariser Skyline inklusive Arc de Triomphe, Champs-Élysées, Tour Montparnasse, Grand Palais, Eiffelturm und Louvre, sowie Gras- und Baumflächen
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)
