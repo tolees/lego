@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '16.71 % deal for LEGO Education Spike Prime Set'
-date: 2021-11-08 09:50:08
-image: 'https://m.media-amazon.com/images/I/41XF-y7H-YL._SL500_._SL400_.jpg'
+title: '15.77 % deal for LEGO Education Spike Prime Set'
+date: 2021-11-14 09:56:16
+image: 'https://m.media-amazon.com/images/I/31gA992UnZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -12,26 +12,26 @@ tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Le
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0
-comparePrice: 359.0 EUR
+comparePrice: 354.99 EUR
 prodname: 'LEGO Education Spike Prime Set'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07QN7ZJF9/?tag=tolees0ca-21'
-descuento: '16.71'
+descuento: '15.77'
 average: '299.0'
 ---
 
-There's a deal [LEGO Education Spike Prime Set](https://www.amazon.de/dp/B07QN7ZJF9/?tag=tolees0ca-21)  with  16.71 % discount, final price tag of  299.0 EUR (original: 359.0 EUR) here:
+There's a deal [LEGO Education Spike Prime Set](https://www.amazon.de/dp/B07QN7ZJF9/?tag=tolees0ca-21)  with  15.77 % discount, final price tag of  299.0 EUR (original: 354.99 EUR) here:
 
-[![LEGO Education Spike Prime Set](https://m.media-amazon.com/images/I/41XF-y7H-YL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07QN7ZJF9/?tag=tolees0ca-21)
+[![LEGO Education Spike Prime Set](https://m.media-amazon.com/images/I/31gA992UnZL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07QN7ZJF9/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Lego Education SPIKE Prime Set
 - Die fertigen Lerneinheiten können innerhalb einer 45-minütigen Unterrichtsstunde bearbeitet werden
 - Item Weight in kg: 2
 - Das Bauen und Programmieren eines einfachen Modells dauert nur wenige Minuten
 - LEGO Education SPIKE Prime ist auf die aktuellen Lehrpläne zugeschnitten
-- Lego Education SPIKE Prime Set
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07QN7ZJF9/?tag=tolees0ca-21)
