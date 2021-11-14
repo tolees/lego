@@ -28,9 +28,9 @@ With a final price of 51.99 EUR (original: 69.99 EUR) you can find [Lego Ninjago
 
 ℹ️:
 
-- Das Drachen Spielzeug hat in alle Richtungen bewegliche Flügel, Beine, Schwanz, Hals, einen aufklappbaren Kiefer und einen beweglichen Schwanz, der als Waffe verwendet werden kann
 - Enthalten sind außerdem 5 LEGO NINJAGO Figuren: NRG Nya, Scuba Zane, Prinz Kalmaar und 2 Maaray Guards, alle mit ihren coolen Waffen bewaffnet
 - Mit einem beweglichen LEGO Drachen können Ninja-Fans die Action aus der TV-Serie NINJAGO: Seabound nachspielen und so viele lustige Stunden erleben
 - Enthalten ist ein Mini-U-Boot-Spielzeug mit einem zu öffnenden Cockpit für die Figur Scuba Zane sowie ein Wellen-Amulett, das in einer Meeresbodeneinheit ausgestellt werden kann
+- Das Drachen Spielzeug hat in alle Richtungen bewegliche Flügel, Beine, Schwanz, Hals, einen aufklappbaren Kiefer und einen beweglichen Schwanz, der als Waffe verwendet werden kann
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08WX2M9VR/?tag=tolees0ca-21)
