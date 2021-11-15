@@ -28,10 +28,10 @@ With a final price of 32.0 USD (original: 39.99 USD) you can find [LEGO Minecraf
 
 ℹ️:
 
+- Measures over 5” (15cm) high, 9” (23cm) wide and 9” (23cm) deep
 - The LEGO Minecraft The Pirate Ship Adventure 21152 construction playset can be built together with all other original LEGO sets and LEGO bricks for creative building
 - Build a pirate ship toy with working flick-missile cannons, gold detailing, pirate banner, gangplank and rowboat, plus a host of Minecraft mobs—all in a LEGO Minecraft skull island setting!
-- This LEGO Minecraft toy building set includes 2 minifigures: Alex and a pirate, plus new-for-January-2019 Minecraft dolphin, parrot and turtle figures and a zombie figure with a new fire-effect base
-- Measures over 5” (15cm) high, 9” (23cm) wide and 9” (23cm) deep
 - 386 pieces – For boys and girls aged 8+ and for fans and kids of all ages
+- This LEGO Minecraft toy building set includes 2 minifigures: Alex and a pirate, plus new-for-January-2019 Minecraft dolphin, parrot and turtle figures and a zombie figure with a new fire-effect base
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07GZ51QRB/?tag=tolees-20)

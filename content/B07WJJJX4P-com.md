@@ -28,10 +28,10 @@ There's a deal [LEGO Technic App-Controlled Top Gear Rally Car 42109 Racing Toy 
 
 ℹ️:
 
-- This LEGO Technic app-controlled racecar creates endless build-and-play fun and is an action-filled holiday, birthday or anyday gift for kids ages 10+ who like building challenges, Top Gear Rally Car toys and remote-control cars
 - This toy rally car model is controlled via the LEGO Technic CONTROL+ app and powered by an advanced Smart Hub with 1 XL motor and 1 L motor for a more immersive play experience, authentic movements and hours of fun!
 - At over 26cm (10”) long, 10cm (3”) high and 14cm (5”) wide, this motorized toy car is the perfect size for driving or for display; please note this set is not compatible with LEGO Power Functions systems
-- Build the car, download the app and get ready for action with multi-function control that lets drivers go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback!
+- This LEGO Technic app-controlled racecar creates endless build-and-play fun and is an action-filled holiday, birthday or anyday gift for kids ages 10+ who like building challenges, Top Gear Rally Car toys and remote-control cars
 - Let race car fans take on a driving challenge with this LEGO Technic app-controlled Top Gear Rally Car operated via a smart device with 3 screens!
+- Build the car, download the app and get ready for action with multi-function control that lets drivers go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback!
 
 [🛒 Buy it now!!](https://www.amazon.com/dp/B07WJJJX4P/?tag=tolees-20)
