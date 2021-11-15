@@ -28,10 +28,10 @@ You've got [LEGO Speed Champions - LEGO 76904 Speed Champions Mopar Dodge//SRT D
 
 ℹ️:
 
+- Enthalten sind 2 LEGO Rennwagen für Kinder: Mopar Dodge//SRT Top Fuel Dragster und das fantastische 1970 Dodge Challenger T/A Muscle Car Modell
+- Enthalten sind außerdem zwei Miniatur-Figuren von LEGO Rennfahrer mit detailgetreuem Dodge-Outfits und passenden, farblich abgestimmten Rennhelmen
 - Die Rennwagen sind Modellautos zum selber Bauen, daher enthalten sie viele spannende Details, die man während des Bauens genau betrachten kann
 - Die LEGO Speed Champion Serie ist besonders beliebt als Spielzeugauto, mit den vielen Details mehr Lust auf schnelle Autorennen macht und sich richtig in das Spiel hineinfühlen kann
 - Dieses 627-teilige LEGO Speed Champions Spielset ist ein großartiges LEGO Geschenk zum Geburtstag oder für jeden anderen Tag für Jungen und Mädchen ab 8 Jahren
-- Enthalten sind 2 LEGO Rennwagen für Kinder: Mopar Dodge//SRT Top Fuel Dragster und das fantastische 1970 Dodge Challenger T/A Muscle Car Modell
-- Enthalten sind außerdem zwei Miniatur-Figuren von LEGO Rennfahrer mit detailgetreuem Dodge-Outfits und passenden, farblich abgestimmten Rennhelmen
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B08WX2FV29/?tag=tolees0ca-21)
