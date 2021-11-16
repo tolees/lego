@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 37.40 % for LEGO 10933 DUPLO Town Tower Crane & Cons'
-date: 2021-11-02 12:36:18
+date: 2021-11-16 16:38:24
 image: 'https://m.media-amazon.com/images/I/51x2559iHJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21'
 descuento: '37.40'
-average: '88.2433333333333'
+average: '86.617'
 ---
 
 You've got [LEGO 10933 DUPLO Town Tower Crane & Construction Vehicle Toys with Digger  Truck  Light & Sound and Push & Go Motor for 2-5 Years Old](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21) with a  37.40 % discount, with final price of 71.98 GBP (original: 114.99 GBP) at the following link:
@@ -28,10 +28,10 @@ You've got [LEGO 10933 DUPLO Town Tower Crane & Construction Vehicle Toys with D
 
 ℹ️:
 
-- Kids can deliver supplies, build a tower and clear rubble with the construction vehicles and when it’s time for lunch, there’s a hotdog stand to visit!
-- Features a diverse and treat-packed set with a tower crane and 4 vehicles: big bulldozer, mini bulldozer, dump truck and digger toys for toddlers
 - Includes lots of cool features, such as Light and Sound bricks to bring the busy site to life, and the bulldozer’s Push & Go friction motor
-- 15 different toy accessories inspire little builders aged 2-5 years old to play out different scenarios and develop important skills
+- Features a diverse and treat-packed set with a tower crane and 4 vehicles: big bulldozer, mini bulldozer, dump truck and digger toys for toddlers
 - Includes 5 DUPLO figures: a female painter and crane driver, 2 male construction workers and a hotdog guy, plus a cat figure
+- Kids can deliver supplies, build a tower and clear rubble with the construction vehicles and when it’s time for lunch, there’s a hotdog stand to visit!
+- 15 different toy accessories inspire little builders aged 2-5 years old to play out different scenarios and develop important skills
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B0813QZTLP/?tag=tolees0a-21)
