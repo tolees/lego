@@ -28,13 +28,13 @@ With a final price of 35.0 GBP (original: 49.99 GBP) you can find [LEGO 71387 Su
 
 ℹ️:
 
-- This modular Super Mario toy can be combined with other LEGO Super Mario expansion sets; bringing unlimited play opportunities and endless exciting challenges
-- This LEGO Super Mario Adventures with Luigi Starter Course brings all the excitement into the real-world; featuring a LEGO Luigi figure for fun interactive family or solo play
-- The free LEGO app offers building instructions, creative tips and a safe platform for kids to share ideas - visit LEGO.com/devicecheck
 - Includes Pink Yoshi, Boom Boom and Bone Goomba figures adding action from Start Pipe to Goal Pole - look how LEGO Luigi figure reacts to them
-- This Super Mario buildable game is a fantastic birthday present or Christmas gift for all kids who love the game!
-- Luigis speaker plays iconic sounds & music from the video game while collecting digital coins for spinning seesaw and flying challenges
 - The LEGO Luigi figure is powered by 2 x AAA batteries (not included), delivering a highly interactive play experience with instant feedback
+- Luigis speaker plays iconic sounds & music from the video game while collecting digital coins for spinning seesaw and flying challenges
+- The free LEGO app offers building instructions, creative tips and a safe platform for kids to share ideas - visit LEGO.com/devicecheck
+- This modular Super Mario toy can be combined with other LEGO Super Mario expansion sets; bringing unlimited play opportunities and endless exciting challenges
+- This Super Mario buildable game is a fantastic birthday present or Christmas gift for all kids who love the game!
+- This LEGO Super Mario Adventures with Luigi Starter Course brings all the excitement into the real-world; featuring a LEGO Luigi figure for fun interactive family or solo play
 - LEGO Luigi has a colour sensor and an LCD screen to display many different instant reactions to movement and action bricks alongside his path
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B08W9YYV8P/?tag=tolees0a-21)
