@@ -28,11 +28,11 @@ You've got [LEGO Super Heroes Marvel Avengers: Endgame  la Battaglia Finale  Set
 
 ℹ️:
 
+- Questo set LEGO Marvel contiene un quartier generale con il laboratorio di Iron Man, dove il supereroe sta costruendo il fantastico Guanto elettronico
+- Oltre ai giocattoli costruibili dei supereroi, il set include anche 6 minifigure LEGO Avengers: Thor, Captain America, Black Panther, Iron Man, Scarlet e un guerriero Chitauri
+- Tra i giocattoli costruibili Avengers inclusi ci sono un grande cannone che gira, si inclina e spara una grande freccia con la punta di gomma e un radar girevole e inclinabile sul tetto
 - Il set contiene anche il personaggio LEGO di Thanos e la microfigure di Ant-Man; tra gli accessori inclusi ci sono snack, bevande e un porta armi
 - Ricco di dettagli autentici ed originali, come la spada a doppia lama di Thanos, che i bambini possono ricostruire facilmente in 2 spade ad una mano
-- Questo set LEGO Marvel contiene un quartier generale con il laboratorio di Iron Man, dove il supereroe sta costruendo il fantastico Guanto elettronico
-- Tra i giocattoli costruibili Avengers inclusi ci sono un grande cannone che gira, si inclina e spara una grande freccia con la punta di gomma e un radar girevole e inclinabile sul tetto
-- Oltre ai giocattoli costruibili dei supereroi, il set include anche 6 minifigure LEGO Avengers: Thor, Captain America, Black Panther, Iron Man, Scarlet e un guerriero Chitauri
 - I supereroi LEGO Marvel Avengers possono incontrarsi e rilassarsi nellarea di svago; cè anche una cella di prigione e un furgone che si apre per rivelare una macchina del tempo
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B08WWL1GL3/?tag=tolees00-21)
