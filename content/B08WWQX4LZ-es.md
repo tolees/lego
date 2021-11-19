@@ -28,12 +28,12 @@ You've got [LEGO 41688 Friends Mundo de Magia: Caravana  Autocaravana de Juguete
 
 ℹ️:
 
-- Los niños y las niñas +6 años pueden explorar la caravana de juguetes con su estufa, mesa y baño escondidos, jugar historias en su interior y cuidar el juguete del caballo LEGO Friends
-- Incluye 2 mini muñecas LEGO Friends y figuras de caballos y búhos, lo que significa que hay muchas formas de disfrutar de creativos juegos de rol
-- El set LEGO Friends incluye un juguete de parque de atracciones con una autocaravana de juguete vintage para niños tirada por una figura de caballo y una tienda de campaña de un adivino
 - Compatible con otros juegos LEGO Friends Mundo de Magia: Montaña Rusa 41685, Mundo de Magia: Acrobacias 41686 o Mundo de Magia: Puestos de Feria 41687
-- El techo de la caravana se abren para permitir un fácil acceso a los dedos pequeños de los niños y que jueguen así con la estufa o giren el grifo para llenar el cubo del caballo
 - Los niños pueden divertir a su familia prediciendo su futuro en la tienda del adivino con una bola de cristal o con cartas
+- Incluye 2 mini muñecas LEGO Friends y figuras de caballos y búhos, lo que significa que hay muchas formas de disfrutar de creativos juegos de rol
 - Además, echa un vistazo a la Noria y Tobogán del Mundo de la Magia LEGO (41689)
+- Los niños y las niñas +6 años pueden explorar la caravana de juguetes con su estufa, mesa y baño escondidos, jugar historias en su interior y cuidar el juguete del caballo LEGO Friends
+- El techo de la caravana se abren para permitir un fácil acceso a los dedos pequeños de los niños y que jueguen así con la estufa o giren el grifo para llenar el cubo del caballo
+- El set LEGO Friends incluye un juguete de parque de atracciones con una autocaravana de juguete vintage para niños tirada por una figura de caballo y una tienda de campaña de un adivino
 
 [🛒 Check the deal!!](https://www.amazon.es/dp/B08WWQX4LZ/?tag=tolees-21)

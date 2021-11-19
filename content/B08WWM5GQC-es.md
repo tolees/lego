@@ -28,10 +28,10 @@ With a final price of 83.74 EUR (original: 109.99 EUR) you can find [LEGO 10948 
 
 ℹ️:
 
+- Incluye 2 coches de juguete, 1 con una función de grúa mecánica y una caravana con un techo abatible para 3 figuras y equipo de tienda en el techo
 - Los espacios de estacionamiento cuentan con rampa y barrera móvil; también hay una estación de carga y una máquina expendedora de billetes para disfrutar de más historias
 - Este juego de parking para coches de juguete para niños +2 años cuenta con un túnel de lavado con una cortina de "limpieza" de tela y aparcamiento en la azotea
 - Los espacios para aparcar cuentan con rampa y barrera móvil; también hay una estación de carga y una máquina expendedora de billetes para disfrutar de más juegos de rol
-- Incluye 2 coches de juguete, 1 con una función de grúa mecánica y una caravana con un techo abatible para 3 figuras y equipo de tienda en el techo
 - Los niños jugarán con un set de coches que incluye 4 mini figuras DUPLO: 2 hombres, una abuela y un niño, además de una figura de perro para infinitas posibilidades de juego
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B08WWM5GQC/?tag=tolees-21)
