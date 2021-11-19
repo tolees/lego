@@ -30,10 +30,10 @@ With a final price of 39.99 EUR (original: 59.99 EUR) you can find [LEGO City St
 
 - I bambini possono attivare la moto con meccanismo a spinta e lanciarla dalla rampa, tentando di fare centro e gettare il clown in acqua
 - Le istruzioni in versione PLUS sullapp Istruzioni di montaggio LEGO consentono di zoomare, ruotare ed esaminare in dettaglio il soggetto
-- Il set include 4 minifigure, 3 delle quali dalla serie TV LEGO City Adventures: il divertimento è decisamente assicurato!
-- Con 420 pezzi, il set Truck dello Stunt Show è un divertentissimo set della sotto-serie Stuntz di LEGO City, dedicata alla moto acrobatica
 - Il set LEGO City Truck dello Stunt Show include un camion giocattolo, rampe di lancio e atterraggio, una moto acrobatica e divertenti ostacoli
-- Il tir con rimorchio che si trasforma in una dunk tank include dettagli realistici come i tubi di scarico, le fiamme e la griglia dentata
 - Combina questo set con gli altri della serie LEGO City Stuntz (venduti separatamente) per collezionare tutti i personaggi e gli accessori
+- Il tir con rimorchio che si trasforma in una dunk tank include dettagli realistici come i tubi di scarico, le fiamme e la griglia dentata
+- Con 420 pezzi, il set Truck dello Stunt Show è un divertentissimo set della sotto-serie Stuntz di LEGO City, dedicata alla moto acrobatica
+- Il set include 4 minifigure, 3 delle quali dalla serie TV LEGO City Adventures: il divertimento è decisamente assicurato!
 
 [🛒 Buy it!!](https://www.amazon.it/dp/B08WX5YQRL/?tag=tolees00-21)
