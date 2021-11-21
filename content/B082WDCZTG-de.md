@@ -28,12 +28,12 @@ With a final price of 76.62 EUR (original: 99.99 EUR) you can find [LEGO 76156 M
 
 ℹ️:
 
-- Das Set LEGO Marvel Super Heroes Aufstieg des Domo enthält das Eternals-Raumschiff mit 3 aufklappbaren Seiten zum Erkunden und Spielen
-- Kombiniere das Set mit anderen aus der „LEGO Marvel The Eternals“-Reihe für noch mehr Spielmöglichkeiten
-- Das Raumschiff beinhaltet ein Cockpit, ein Waffenlager voll mit coolen Waffen und ein Labor voll Technik – ein futuristischer Raum für die Wissenschaft
 - Dieses LEGO-Set ist das einzige mit Druig und Phastos und daher ein wunderbares Weihnachts- oder Geburtstagsgeschenk für Marvel- und LEGO-Fans
+- Das Raumschiff beinhaltet ein Cockpit, ein Waffenlager voll mit coolen Waffen und ein Labor voll Technik – ein futuristischer Raum für die Wissenschaft
 - Enthält 6 LEGO-Marvel-Minifiguren: Makkari, Ikaris, Thena, Sersi, Druig und Phastos sowie 2 Deviant-Action-Figuren mit Kro, dem Anführer der Deviants
+- Das Set LEGO Marvel Super Heroes Aufstieg des Domo enthält das Eternals-Raumschiff mit 3 aufklappbaren Seiten zum Erkunden und Spielen
 - Das leicht zusammenbaubare Raumschiff enthält eine einfache Bauanleitung, sodass Kinder sofort mit dem Bauen und Spielen beginnen können
 - Kinder können eine Minifigur in den Fahrersitz des Raumschiffs setzen und so Kampfszenen zwischen den Superhelden-Figuren und den Deviant-Kreaturen nachspielen
+- Kombiniere das Set mit anderen aus der „LEGO Marvel The Eternals“-Reihe für noch mehr Spielmöglichkeiten
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B082WDCZTG/?tag=tolees0ca-21)
