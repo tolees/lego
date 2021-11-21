@@ -1,0 +1,36 @@
+---
+layout: post
+title: '25.00 % deal for LEGO 75314 Star Wars The Bad Batch: Lanz'
+date: 2021-11-21 17:52:24
+image: 'https://m.media-amazon.com/images/I/51kKmLX4knS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08WWKYKT9-es LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque...'
+sku: 'B08WWKYKT9-es'
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Muñecos y figuras de acción','lego', ]
+actualPrice: 82.49 EUR
+currency: EUR
+price: 82.49
+comparePrice: 109.99 EUR
+prodname: 'LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque  Juguete de Construcción a Partir de 9 Años con 5 Mini Figuras de Clones y un Droide Gonk'
+country: 'es'
+flag: '🇪🇸'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21'
+descuento: '25.00'
+average: '88.0036666666668'
+---
+
+There's a deal [LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque  Juguete de Construcción a Partir de 9 Años con 5 Mini Figuras de Clones y un Droide Gonk](https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21)  with  25.00 % discount, final price tag of  82.49 EUR (original: 109.99 EUR) here:
+
+[![LEGO 75314 Star Wars The Bad Batch: Lanz](https://m.media-amazon.com/images/I/51kKmLX4knS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21)
+
+ℹ️:
+
+- El set contiene también un speeder con 2 cañones y otro speeder con un conector para un bláster que amplían las posibilidades de juego
+- Este juguete de construcción de Star Wars altamente detallado es una versión para construir con ladrillos de una lanzadera de ataque con alas ajustables de Star Wars: The Bad Batch
+- Tiene 2 cañones automáticos y una aleta dorsal que se levanta para acceder fácilmente a la cabina doble de mando para minifiguras LEGO y a la cabina trasera
+- Las alas de esta lanzadera de juguete para construir se mueven para activar los modos de aterrizaje/vuelo, y la cabina tiene espacio para 2 minifiguras y un almacén para las armas
+
+[🛒 Buy it now!!](https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21)
