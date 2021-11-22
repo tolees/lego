@@ -28,10 +28,10 @@ With a final price of 34.99 EUR (original: 49.99 EUR) you can find [LEGO 75301 S
 
 ℹ️:
 
+- Ist das Set für einen Star Wars Fan ohne nennenswerte LEGO Bauerfahrung gedacht? Kein Problem. Dem Set liegt eine illustrierte Schritt-für-Schritt-Bauanleitung bei, um Kinder mit dem Selbstbewusstsein eines Jedi bauen zu lassen
+- Der X-Wing verfügt über ein aufklappbares Cockpit für eine LEGO Minifigur, Platz für R2-D2, Flügel, die auf Knopfdruck in die Angriffsposition schwenken, ein einziehbares Fahrwerk und Shooter mit Federmechanismus
 - Enthält Luke Skywalker, Prinzessin Leia und General Dodonna als LEGO Minifiguren mit Ausrüstung, zum Beispiel Lukes Lichtschwert, sowie den Droiden R2-D2 als LEGO Figur, um packende Rollenspiele zu ermöglichen
 - Der Sternjäger ist 8 cm hoch, 31 cm lang und 28 cm breit und beeindruckt zwischen den Missionen als spektakuläres Dekoelement im Kinderzimmer
-- Der X-Wing verfügt über ein aufklappbares Cockpit für eine LEGO Minifigur, Platz für R2-D2, Flügel, die auf Knopfdruck in die Angriffsposition schwenken, ein einziehbares Fahrwerk und Shooter mit Federmechanismus
-- Ist das Set für einen Star Wars Fan ohne nennenswerte LEGO Bauerfahrung gedacht? Kein Problem. Dem Set liegt eine illustrierte Schritt-für-Schritt-Bauanleitung bei, um Kinder mit dem Selbstbewusstsein eines Jedi bauen zu lassen
 - Dieses unterhaltsame Bau- und Spielset ist ein phänomenales Geburtstags-, Weihnachts- oder Überraschungsgeschenk für kreative Kinder und Star Wars Fans ab 9 Jahren, die auch Freunde mitspielen lassen können
 - Das Set 75301 für Kinder enthält Luke Skywalkers legendären X-Wing Fighter als Baumodell aus LEGO Steinen, um Szenen aus der klassischen Star Wars Trilogie nachstellen zu können
 
