@@ -28,11 +28,11 @@ With a final price of 90.36 GBP (original: 124.99 GBP) you can find [LEGO 60266 
 
 ℹ️:
 
+- Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
+- Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
 - LEGO underwater adventures sets are a great holiday, birthday or Christmas gift ideas introducing kids to the world of deep exploration
 - This multi-vehicle toy also includes a research submarine and helicopter toys, speedboat, shark cage and pirate shipwreck with hidden treasure
-- Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
-- Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
-- Features a toy boat that floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm & storage
 - Includes a team of 8 explorers with LEGO City Adventures TV series hero Harl Hubbs minifigure, stingray and shark figures, plus accessories
+- Features a toy boat that floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm & storage
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813R1CMZ/?tag=tolees0a-21)

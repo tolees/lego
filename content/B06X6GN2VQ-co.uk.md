@@ -29,11 +29,11 @@ There's a deal [LEGO 17101 Boost Creative Toolbox Robotics Kit  5 in 1 App Contr
 ℹ️:
 
 - The robot kit includes a moving/talking robot, versatile rover, musical instrument, robot interactive pet cat or AutoBuilder production line
-- Kids can build, code and complete over 60 exciting activities included in the LEGO BOOST App for selected iOS/Android/Kindle smart devices
 - LEGO BOOST robot building kit for boys and girls age 7 - 12 is a marvellous coding toy birthday or Christmas gift idea for future engineers!
 - Fans of coding and robot toys for kids will cherish these interactive, motorised robots that look awesome when on display
+- Kids can build 1-in-5 multi-functional robot toys and control them with easy-to-use coding blocks on a tablet to learn the basics of robotics
+- Kids can build, code and complete over 60 exciting activities included in the LEGO BOOST App for selected iOS/Android/Kindle smart devices
 - Real coding transformed into an intuitive, easy to use drag-and-drop interface boosts childrens engineering & programming skills for life
 - Coding for kids set includes a LEGO Move Hub with Bluetooth, interactive motor and colour and distance sensor to bring the models to live
-- Kids can build 1-in-5 multi-functional robot toys and control them with easy-to-use coding blocks on a tablet to learn the basics of robotics
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B06X6GN2VQ/?tag=tolees0a-21)
