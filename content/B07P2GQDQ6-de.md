@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 25.05 % for LEGO 42110 Technic Land Rover Defender  '
-date: 2021-11-24 14:20:59
+date: 2021-11-25 15:53:43
 image: 'https://m.media-amazon.com/images/I/51Tfnj8fJlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21'
 descuento: '25.05'
-average: '136.596694352156'
+average: '136.593880597011'
 ---
 
 You've got [LEGO 42110 Technic Land Rover Defender  Modellauto  4x4 Geländewagen für Kinder ab 11 Jahre und Erwachsene  Sammlerstück](https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21) with a  25.05 % discount, with final price of 134.9 EUR (original: 179.99 EUR) at the following link:
@@ -28,14 +28,14 @@ You've got [LEGO 42110 Technic Land Rover Defender  Modellauto  4x4 Geländewage
 
 ℹ️:
 
-- Im Innenraum gibt es ein detailliertes Armaturenbrett, ein funktionierendes Lenkrad und nach vorne klappbare Rücksitze, die den Blick auf das sequenzielle 4-Gang-Getriebe freigeben.
-- Zu den Funktionen zählen das sequenzielle 4-Gang-Getriebe, Allradantrieb mit 3 Differenzialen, Einzelradaufhängung an beiden Achsen, ein detaillierter 6-Zylinder-Reihenmotor und eine funktionierende Winde.
-- Öffne die Türen, um Zugang zum Innenraum zu erhalten.
-- Farbmuster in olivgrün, grau und schwarz.
-- Eine Gangschaltung mit 2 Hebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einen Wählhebel zum Wechseln des Gangs (neu ab Oktober 2019), machen es zum bisher ausgefeitlesten LEGO Technic Getriebe!
 - Dieses LEGO Technic Set bietet ein beeindruckendes Bauerlebnis.
 - Umfasst eine realitätsgetreue Karosserie mit dem Logo von Land Rover, Felgen im Originaldesign mit griffigen Reifen, einen abnehmbaren Dachträger mit Aufbewahrungsbox, Tasche, Leiter und Bodenmatten, Türen zum Öffnen, Motorhaube und Heckklappe sowie einen detaillierten Innenraum.
+- Eine Gangschaltung mit 2 Hebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einen Wählhebel zum Wechseln des Gangs (neu ab Oktober 2019), machen es zum bisher ausgefeitlesten LEGO Technic Getriebe!
+- Farbmuster in olivgrün, grau und schwarz.
 - Drehe am hinten montierten Ersatzrad, um die Heckklappe zu öffnen.
+- Zu den Funktionen zählen das sequenzielle 4-Gang-Getriebe, Allradantrieb mit 3 Differenzialen, Einzelradaufhängung an beiden Achsen, ein detaillierter 6-Zylinder-Reihenmotor und eine funktionierende Winde.
+- Im Innenraum gibt es ein detailliertes Armaturenbrett, ein funktionierendes Lenkrad und nach vorne klappbare Rücksitze, die den Blick auf das sequenzielle 4-Gang-Getriebe freigeben.
+- Öffne die Türen, um Zugang zum Innenraum zu erhalten.
 - Enthält eine Sammlung authentischer Aufkleber.
 - Öffne die Motorhaube, um dir den detaillierten 6-Zylinder-Reihenmotor mit beweglichen Kolben anzusehen.
 
