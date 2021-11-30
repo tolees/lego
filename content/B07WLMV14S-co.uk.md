@@ -28,9 +28,9 @@ You've got [LEGO 10914 DUPLO Classic Deluxe Brick Box Building Set with Storage 
 
 ℹ️:
 
-- Includes a boy and girl DUPLO figures, 1-2-3 number-learning bricks, a dog figure, slide, shovel, bucket, opening window and door elements
-- This fun educational toy set encourages learning through role-play, and development of fine motor skills, language, social and emotional skills
 - Features 85 colourful bricks including many fun, familiar pieces – a car, windows, flowers, balloons, gifts, cake and number-bricks
+- This fun educational toy set encourages learning through role-play, and development of fine motor skills, language, social and emotional skills
+- Includes a boy and girl DUPLO figures, 1-2-3 number-learning bricks, a dog figure, slide, shovel, bucket, opening window and door elements
 - The assortment of bricks, pieces, number and people are conveniently stored in a green storage brick box with a LEGO DUPLO style stud lid
 - A simple guide provides toddlers 1.5+ years old with ideas and inspiration to get them building while delivering developmental benefits to preschool kids
 
