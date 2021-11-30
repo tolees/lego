@@ -28,11 +28,11 @@ With a final price of 21.95 EUR (original: 29.99 EUR) you can find [LEGO 10902 D
 
 ℹ️:
 
-- Accesorios incluidos: una taza y ladrillos decorados como dónuts y cámara de seguridad
-- Usa los modernos personajes y accesorios junto con los ladrillos decorados para pasarlo genial mientras ayudas a tu pequeño a aprender qué hacen los policías y cómo nos ayudan
-- Atrapa al ladrón para encerrarlo en la prisión de la Comisaría de Policía
-- Incluye 3 figuras LEGO DUPLO: 2 agentes de policía y un ladrón
 - Contiene una Comisaría de Policía de fácil construcción con puerta de la celda que se abre, así como un coche de policía de juguete con luces y sonido de sirena
+- Incluye 3 figuras LEGO DUPLO: 2 agentes de policía y un ladrón
+- Usa los modernos personajes y accesorios junto con los ladrillos decorados para pasarlo genial mientras ayudas a tu pequeño a aprender qué hacen los policías y cómo nos ayudan
+- Accesorios incluidos: una taza y ladrillos decorados como dónuts y cámara de seguridad
+- Atrapa al ladrón para encerrarlo en la prisión de la Comisaría de Policía
 - Pulsa el botón para activar las luces y la sirena del coche de policía
 
 [🛒 Buy it!!](https://www.amazon.es/dp/B07FNTSHZC/?tag=tolees-21)
