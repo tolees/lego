@@ -28,10 +28,10 @@ With a final price of 34.99 EUR (original: 49.99 EUR) you can find [LEGO 10899 D
 
 ℹ️:
 
-- Das Bauen und Umgestalten der Bausteine fördert die Feinmotorik deines Kindes und sorgt für endlosen kreativen Spielspaß
-- Dieses Spielzeugschloss aus Disneys „Die Eiskönigin“ für Jungen und Mädchen ab 2 Jahren enthält eine Rutsche, transparente „Eis“-Steine, einen Tisch, Stühle und Küchenausstattung
 - Begeistere dein Kind, indem du das Schloss mit einem speziellen Leuchtstein per Knopfdruck mehrfarbig beleuchtest
-- Inklusive 3 Mini-Puppen: Prinzessin Elsa und Anna in ihren schönen Kleidern mit realistischen Details und Olaf, der Schneemann
 - Dieses Bauspielzeug aus „Die Eiskönigin“ regt zu fantasievollen Rollenspielen und Geschichten an, die die sprachlichen und emotionalen Fähigkeiten deines Kindes fördern
+- Inklusive 3 Mini-Puppen: Prinzessin Elsa und Anna in ihren schönen Kleidern mit realistischen Details und Olaf, der Schneemann
+- Dieses Spielzeugschloss aus Disneys „Die Eiskönigin“ für Jungen und Mädchen ab 2 Jahren enthält eine Rutsche, transparente „Eis“-Steine, einen Tisch, Stühle und Küchenausstattung
+- Das Bauen und Umgestalten der Bausteine fördert die Feinmotorik deines Kindes und sorgt für endlosen kreativen Spielspaß
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)

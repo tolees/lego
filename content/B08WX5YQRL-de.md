@@ -28,12 +28,12 @@ With a final price of 43.99 EUR (original: 59.99 EUR) you can find [LEGO 60294 C
 
 ℹ️:
 
+- Kinder aktivieren das schwungradbetriebene Stuntbike und lassen es von der Rampe starten, um die Zielscheibe zu treffen, damit der Clown ins Tauchbecken fällt
 - Mit 420 Teilen ist der Stuntshow-Truck das zweitgrößte Set der „LEGO City Stuntz“-Reihe, der neuesten LEGO-City-Unterreihe, und sorgt für aufregende Stunt-Shows
+- Mit den Instructions PLUS in der kostenlosen LEGO App können Kinder ab 6 Jahren das Modell vergrößern, bewegen und visualisieren
 - Der Spielzeug-Truck mit Anhänger verwandelt sich in ein funktionierendes Tauchbecken und hat coole Auspuffrohre und einen Kühlergrill mit Zähnen
 - Kombiniere das Set mit anderen Sets aus der „LEGO City Stuntz“-Reihe (separat erhältlich) für noch mehr Action, bekannte Charaktere und Stuntfahrer
-- Mit den Instructions PLUS in der kostenlosen LEGO App können Kinder ab 6 Jahren das Modell vergrößern, bewegen und visualisieren
-- Kinder aktivieren das schwungradbetriebene Stuntbike und lassen es von der Rampe starten, um die Zielscheibe zu treffen, damit der Clown ins Tauchbecken fällt
-- Enthält einen großen Spielzeug-Truck mit Platz für die Start- und Landerampen, ein Stuntbike und tolle Hindernisse
 - Enthält 4 LEGO-Minifiguren, u. a. 3 Charaktere aus der „LEGO City Adventures“- TV-Serie – alles, was Kinder brauchen, um richtig loszulegen
+- Enthält einen großen Spielzeug-Truck mit Platz für die Start- und Landerampen, ein Stuntbike und tolle Hindernisse
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08WX5YQRL/?tag=tolees0ca-21)
