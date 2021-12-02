@@ -28,11 +28,11 @@ You've got [LEGO 60291 City Modernes Familienhaus  Puppenhaus mit Straßenplatte
 
 ℹ️:
 
-- Inklusive LEGO-Minifiguren von Mama, Papa, Tochter und Sohn sowie einer Labrador-Retriever-Figur mit Hundehäufchen und jeder Menge Zubehör aus dem modernen Leben
 - Mit diesem LEGO-Gebäude-Bauset können Kinder kochen, grillen, malen, Gitarre spielen, im Biogarten Gemüse anbauen, den Labrador baden oder eine Partie Streethockey spielen
+- Dank des dazugehörigen LEGO-City-Straßenplatten-Systems kann das Puppenhaus mit anderen LEGO-Gebäude-Bausets kombiniert werden, um die LEGO-Stadt zu vergrößern!
+- Inklusive LEGO-Minifiguren von Mama, Papa, Tochter und Sohn sowie einer Labrador-Retriever-Figur mit Hundehäufchen und jeder Menge Zubehör aus dem modernen Leben
+- Enthält eine Bauanleitung für Mädchen und Jungen ab 5 Jahren und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte
 - Willkommen im umweltfreundlichen LEGO-Haus mit Solarzellen und einer Octan-E-Ladestation für das Elektroauto – ein kreatives Spielzeug für kleine Naturschützer ab 5 Jahren
 - Enthält ein detailliertes, dreistöckiges Puppenhaus mit vielen gut ausgestatteten Räumen für fantasievolle Rollenspiele: Wohnzimmer, Küche, Hobbyraum, Schlafzimmer und Bad
-- Enthält eine Bauanleitung für Mädchen und Jungen ab 5 Jahren und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte
-- Dank des dazugehörigen LEGO-City-Straßenplatten-Systems kann das Puppenhaus mit anderen LEGO-Gebäude-Bausets kombiniert werden, um die LEGO-Stadt zu vergrößern!
 
 [🛒 Check the deal!!](https://www.amazon.de/dp/B00BSV66TE/?tag=tolees0ca-21)

@@ -29,10 +29,10 @@ You've got [LEGO 75255 Star Wars Yoda Construction Set  Collectable Figure Model
 ℹ️:
 
 - Also, features a fact plaque with details about the Jedi master and a stand for the included Yoda minifigure and Lightsaber to impress any fan
-- Display LEGO Star Wars figure of Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
-- This version of Jedi Master Yoda, Star Wars collectable figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any collection
 - The Star Wars buildable model of powerful Jedi master Yoda looks great on display at home or in the office, impressing any fan of Star Wars!
 - This Star Wars: Attack of the Clones collectable makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
+- Display LEGO Star Wars figure of Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
+- This version of Jedi Master Yoda, Star Wars collectable figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any collection
 - Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21)
