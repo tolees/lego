@@ -28,11 +28,11 @@ There's a deal [LEGO 60285 City Great Vehicles Sports Car Toy with Removable Roo
 
 ℹ️:
 
+- It makes a great idea for a birthday or Christmas present for kids 5+ years old who love cool cars
 - Features a racing toy car for 5+ years old boys and girls with eye-catching bodywork, an adjustable rear toy spoiler and black rims
 - Children aged 5+ can zoom, rotate and visualise as they build with Instructions PLUS on the LEGO Building Instructions app
 - The car toy comes with a detailed tinted cockpit with room behind the steering wheel for the driver and a removable roof for open-top driving
-- This LEGO City Sports Car comes with a LEGO driver minifigure to move kids’ fan up a gear
-- It makes a great idea for a birthday or Christmas present for kids 5+ years old who love cool cars
 - Supercool design, aerodynamic shape, authentic details, and stellar blue finish will turbo-charge kids’ creative foot-to-the-floor play
+- This LEGO City Sports Car comes with a LEGO driver minifigure to move kids’ fan up a gear
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08G4FLP8Q/?tag=tolees0a-21)
