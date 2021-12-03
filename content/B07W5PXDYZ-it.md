@@ -28,10 +28,10 @@ You've got [LEGO Speed Champions Formula E Panasonic Jaguar Racing GEN2 Car & Ja
 
 ℹ️:
 
+- I modelli costruibili LEGO della Formula E Panasonic Jaguar Racing Gen2 e della Jaguar I-PACE eTROPHY sono forniti con 2 minifigure in tuta da corsa originale e una linea di partenza con semaforo a tre luci per partecipare a gare avvincenti.
+- Fantastico kit costruibile con 2 repliche delle auto da corsa Jaguar Formula E e I-PACE eTROPHY con dettagli realistici, il regalo LEGO ideale per chi ama costruire auto giocattolo e inventare storie emozionanti.
+- Questo kit costruibile da 564 pezzi propone ai bambini e alle bambine dagli 8 anni in su una sfida divertente da superare, incoraggiandoli a creare scene emozionanti con le loro auto da corsa Jaguar da soli o con gli amici.
 - Entrambe le auto da corsa giocattolo hanno dimensioni ideali per portarle con sé e giocare ovunque. La Jaguar I-PACE eTROPHY è alta 6 cm, lunga 16 cm e larga 6 cm.
 - Le auto LEGO Speed Champions, in uscita nel gennaio 2020, sono più grandi del 25%. Queste auto giocattolo Jaguar sono perfette da esporre o da utilizzare per gareggiare contro altre auto nei tuoi campionati personali.
-- I modelli costruibili LEGO della Formula E Panasonic Jaguar Racing Gen2 e della Jaguar I-PACE eTROPHY sono forniti con 2 minifigure in tuta da corsa originale e una linea di partenza con semaforo a tre luci per partecipare a gare avvincenti.
-- Questo kit costruibile da 564 pezzi propone ai bambini e alle bambine dagli 8 anni in su una sfida divertente da superare, incoraggiandoli a creare scene emozionanti con le loro auto da corsa Jaguar da soli o con gli amici.
-- Fantastico kit costruibile con 2 repliche delle auto da corsa Jaguar Formula E e I-PACE eTROPHY con dettagli realistici, il regalo LEGO ideale per chi ama costruire auto giocattolo e inventare storie emozionanti.
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B07W5PXDYZ/?tag=tolees00-21)
