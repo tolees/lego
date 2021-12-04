@@ -30,9 +30,9 @@ There's a deal [LEGO 60253 City Great Vehicles Ice Cream Van Truck Toy with Skat
 
 - Includes 2 minifigures and a dog figure, plus an array of awesome accessories: a popsicle, cone, safety helmet, and a green banknote
 - Kids can help drive the van, serve ice-cream cones and lollies from the serving hatch and help the skateboarder perform cool tricks
-- This truck toy lets kids 5+ years old enjoy sunny, summers-day fun with an easy-access van interior, and a movable van roof ice-cream post
 - Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
-- The supercool ice cream van toy makes a fun holiday, birthday or Christmas gift for 5 + years old boys and girls
+- This truck toy lets kids 5+ years old enjoy sunny, summers-day fun with an easy-access van interior, and a movable van roof ice-cream post
 - Features a colourful ice-cream van toy truck with funny stickers, removable drivers cabin roof and wide-opening side doors
+- The supercool ice cream van toy makes a fun holiday, birthday or Christmas gift for 5 + years old boys and girls
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B07W4KSKXZ/?tag=tolees0a-21)

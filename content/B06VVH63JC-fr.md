@@ -28,8 +28,8 @@ You've got [LEGO - 70617 - Jeu de Construction - Name TDB](https://www.amazon.fr
 
 ℹ️:
 
+- Les ninjas vont sinfiltrer dans le temple de l’arme ultime suprême issu de lego ninjago le film.
 - De nombreux pièges à éviter à lintérieur du temple de larme ultime suprême !
 - Fais équipe avec les héros ninjas pour partir à la recherche du temple de l’ultime arme ultime. Tu peux repérer ce bâtiment effrayant au signal lumineux qui se trouve à son sommet.
-- Les ninjas vont sinfiltrer dans le temple de l’arme ultime suprême issu de lego ninjago le film.
 
 [🛒 Check the deal!!](https://www.amazon.fr/dp/B06VVH63JC/?tag=tolees0d-21)
