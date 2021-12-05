@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42099 Technic Control 4x4 Allrad Xt at 23.96 % discount'
-date: 2021-12-03 22:25:29
+title: 'LEGO 42099 Technic Control 4x4 Allrad Xt at 21.78 % discount'
+date: 2021-12-04 22:31:53
 image: 'https://m.media-amazon.com/images/I/51zvv2htPoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,32 +9,32 @@ author: 'tole.es'
 slug: 'B07ND6CFHZ-de LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen...'
 sku: 'B07ND6CFHZ-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 174.89 EUR
+actualPrice: 179.89 EUR
 currency: EUR
-price: 174.89
+price: 179.89
 comparePrice: 229.99 EUR
 prodname: 'LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren für Kinder und Erwachsene'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
-descuento: '23.96'
-average: '168.620429553265'
+descuento: '21.78'
+average: '168.639759862779'
 ---
 
-With a final price of 174.89 EUR (original: 229.99 EUR) you can find [LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren für Kinder und Erwachsene](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) with a  23.96 % discount here:
+With a final price of 179.89 EUR (original: 229.99 EUR) you can find [LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren für Kinder und Erwachsene](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) with a  21.78 % discount here:
 
 [![LEGO 42099 Technic Control 4x4 Allrad Xt](https://m.media-amazon.com/images/I/51zvv2htPoS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Das coole Geländewagen-Modell wird mit der LEGO TECHNIC CONTROL+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben – für ein noch fesselnderes Spielerlebnis, realistische Bewegungen und stundenlangen Spaß
-- Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren, Geräuscheffekte abspielen und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
 - Lade die LEGO TECHNIC CONTROL+ App im App Store oder bei Google Play herunter. Bitte deine Eltern um Erlaubnis, bevor du online gehst
-- Robuster App-gesteuerter LEGO Geländewagen mit extra hoher Einzelradaufhängung, riesigen Rädern und wuchtigen Reifen
-- Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei auswählbare Bildschirme auf einem Mobilgerät gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist
-- Der Smarthub verfügt über Bluetooth Low Energie (BLE), Aktivierungstaste, 6 Achsensensoren (3 Kreiselsensoren und 3 Sensoren für die Beschleunigungsmessung) und 4 Anschlussmöglichkeiten
 - One-Touch-Steuerung: Ziehe den Bildschirm in eine Richtung und sieh dir an, wie der 4x4 die Bewegung ausführt
+- Der Smarthub verfügt über Bluetooth Low Energie (BLE), Aktivierungstaste, 6 Achsensensoren (3 Kreiselsensoren und 3 Sensoren für die Beschleunigungsmessung) und 4 Anschlussmöglichkeiten
+- Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei auswählbare Bildschirme auf einem Mobilgerät gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist
 - Herausforderungen & Erfolge: Meistere Herausforderungen, um Belohnungen zu erhalten
+- Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren, Geräuscheffekte abspielen und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
+- Robuster App-gesteuerter LEGO Geländewagen mit extra hoher Einzelradaufhängung, riesigen Rädern und wuchtigen Reifen
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
