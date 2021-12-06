@@ -29,9 +29,9 @@ With a final price of 21.28 EUR (original: 29.99 EUR) you can find [LEGO 60281 C
 ℹ️:
 
 - Enthält einen Hubschrauber Spielzeug, ein Motorrad, ein Kraftwerk und LEGO Feuer für Feuerwehrabenteuer im Industriegebiet
-- Kinder können die Flammen zu großen Bränden stapeln und dann die Löschkanone des Helikopters abfeuern, um den Brand auf dem Turm zu löschen!
-- Zum LEGO Zubehör gehören eine Trage (im Frachtraum des Hubschraubers verstaut), ein Feuerwehrhelm, ein Schraubenschlüssel und ein Schutzhelm.
-- Inklusive 3 Minifiguren: Ein Arbeiter des Kraftwerks, eine Pilotin und der Held Clemmons aus der TV-Serie „LEGO City Adventures“.
 - Inklusive 5+ Bauanleitung und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte.
+- Kinder können die Flammen zu großen Bränden stapeln und dann die Löschkanone des Helikopters abfeuern, um den Brand auf dem Turm zu löschen!
+- Inklusive 3 Minifiguren: Ein Arbeiter des Kraftwerks, eine Pilotin und der Held Clemmons aus der TV-Serie „LEGO City Adventures“.
+- Zum LEGO Zubehör gehören eine Trage (im Frachtraum des Hubschraubers verstaut), ein Feuerwehrhelm, ein Schraubenschlüssel und ein Schutzhelm.
 
 [🛒 Buy it!!](https://www.amazon.de/dp/B08G4D3P1T/?tag=tolees0ca-21)

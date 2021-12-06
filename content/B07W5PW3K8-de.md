@@ -28,10 +28,10 @@ There's a deal [LEGO 11008 Classic Bausteine – Bunte Häuser  Konstruktionsspi
 
 ℹ️:
 
-- Die großen LEGO-Bausteine sind sicher, kleinkindgerecht und gut für kleine Hände zu greifen. Das Bauen fördert die sprachlichen, sozialen und emotionalen Fähigkeiten der Kinder
+- Jedes der Häuser verfügt über eine eigene Besonderheit: die Flügel der Windmühle lassen sich drehen, das Iglu ist schneeweiß und der Leuchtturm leuchtend bunt
 - Enthält 6 kreative Kontruktionsspielzeuge: ein Familienhaus, einen Leuchtturm, ein Iglu, eine Burg, ein kleines Haus und eine Windmühle
 - Die LEGO-Classic-Steinebox „Bausteine – bunte Häuser“ führt Vorschulkinder an die kreative Welt den Bauens heran und lässt sie ihr eigenes Traumhaus erschaffen
-- Jedes der Häuser verfügt über eine eigene Besonderheit: die Flügel der Windmühle lassen sich drehen, das Iglu ist schneeweiß und der Leuchtturm leuchtend bunt
+- Die großen LEGO-Bausteine sind sicher, kleinkindgerecht und gut für kleine Hände zu greifen. Das Bauen fördert die sprachlichen, sozialen und emotionalen Fähigkeiten der Kinder
 - Dieses lustige LEGO-Häuser-Set ist ein tolles Geschenk für Kinder ab 4 Jahren und kann für noch mehr kreativen Spielspaß mit anderen LEGO-Sets kombiniert werden
 
 [🛒 Buy it now!!](https://www.amazon.de/dp/B07W5PW3K8/?tag=tolees0ca-21)
