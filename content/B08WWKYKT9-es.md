@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.73 % deal for LEGO 75314 Star Wars The Bad Batch: Lanz'
-date: 2021-12-06 15:05:59
+date: 2021-12-07 15:11:05
 image: 'https://m.media-amazon.com/images/I/51kKmLX4knS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21'
 descuento: '22.73'
-average: '86.9762790697675'
+average: '86.9311363636364'
 ---
 
 There's a deal [LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque  Juguete de Construcción a Partir de 9 Años con 5 Mini Figuras de Clones y un Droide Gonk](https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21)  with  22.73 % discount, final price tag of  84.99 EUR (original: 109.99 EUR) here:
