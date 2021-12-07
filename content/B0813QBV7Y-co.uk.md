@@ -28,11 +28,11 @@ With a final price of 47.99 GBP (original: 64.99 GBP) you can find [LEGO 75968 H
 
 ℹ️:
 
-- A chain attaches from the car boot to the bedroom window to whisk it and Harry away from the Dursleys and onto further adventures
-- The dolls houses secret mechanism allows Hogwarts acceptance letters to fly in through the fireplace, disturbing the familys afternoon tea
-- This LEGO Harry Potter toy for kids is a perfect birthday present or Christmas gift idea for all fans of the young wizard adventures
 - Complete with Privet Drive sign, Harrys cupboard under the stairs, and Ron flying the Ford Anglia car toy with opening roof, doors and boot
-- Includes 6 minifigures: Harry Potter, Ron Weasley, Dudley, Petunia and Vernon Dursley and Dobby, plus Hedwig figure and numerous accessories
+- The dolls houses secret mechanism allows Hogwarts acceptance letters to fly in through the fireplace, disturbing the familys afternoon tea
+- A chain attaches from the car boot to the bedroom window to whisk it and Harry away from the Dursleys and onto further adventures
 - This detailed Dursleys 2-storey toy house has many features inside and outside to bring the Harry Potter movie location and action to life
+- This LEGO Harry Potter toy for kids is a perfect birthday present or Christmas gift idea for all fans of the young wizard adventures
+- Includes 6 minifigures: Harry Potter, Ron Weasley, Dudley, Petunia and Vernon Dursley and Dobby, plus Hedwig figure and numerous accessories
 
 [🛒 Buy it!!](https://www.amazon.co.uk/dp/B0813QBV7Y/?tag=tolees0a-21)

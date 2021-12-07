@@ -28,10 +28,10 @@ There's a deal [LEGO 21173 Minecraft The Sky Tower Toy for Kids  Building Set wi
 
 ℹ️:
 
-- Minecraft accessories include a crafting table, anvil, grindstone, soul lanterns, potatoes, beetroots and a barrel of fish
-- The LEGO Minecraft toy for kids 8 + years old features a buildable floating blacksmith’s house, a soaring tower and a garden island
-- This grimly versatile Minecraft toy encourages kids to continually adapt their creations, it’s just like the video game in the real world
-- Kids grab a firework rocket to power elytra wings and use the netherite helmet and trident to fight phantoms attack off
 - Includes a Minecraft pilot figure with elytra wings, netherite helmet, firework rocket and trident, 2 flying phantoms and an orange tabby cat
+- Minecraft accessories include a crafting table, anvil, grindstone, soul lanterns, potatoes, beetroots and a barrel of fish
+- Kids grab a firework rocket to power elytra wings and use the netherite helmet and trident to fight phantoms attack off
+- This grimly versatile Minecraft toy encourages kids to continually adapt their creations, it’s just like the video game in the real world
+- The LEGO Minecraft toy for kids 8 + years old features a buildable floating blacksmith’s house, a soaring tower and a garden island
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B08WWSPJSN/?tag=tolees0a-21)
