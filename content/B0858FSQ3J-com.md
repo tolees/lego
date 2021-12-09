@@ -28,10 +28,10 @@ You've got [LEGO Art Andy Warhol’s Marilyn Monroe 31197 Collectible Building K
 
 ℹ️:
 
-- This kit is a way to immerse yourself in your passion for creativity while building a unique piece of art; With the included Soundtrack, you can dive deeper into the art set and learn new details about it
-- Explore your love of Andy Warhol or Marilyn Monroe while you build and display this appealing set; It also makes a captivating gift for yourself or other builders in your life who love engaging, creative projects
-- This 4in1 art piece measures over 15.5” (40cm) square; It displays beautifully on a wall or shelf, while its authentic details will ensure it stands out in any collection; This LEGO set comes with 4 different building options
-- You can create this special LEGO Art Andy Warhol’s Marilyn Monroe (31197) set, featuring an iconic art piece with 4 unique build options; Display the finished work on your wall after spending quality time building it
 - Indulge your creativity with a 3,341-piece LEGO set that includes 9 canvas wall decor plates, an exclusive signature tile, brick-built LEGO frame, unique new hanging element and piece separator for easier rebuilding
+- You can create this special LEGO Art Andy Warhol’s Marilyn Monroe (31197) set, featuring an iconic art piece with 4 unique build options; Display the finished work on your wall after spending quality time building it
+- Explore your love of Andy Warhol or Marilyn Monroe while you build and display this appealing set; It also makes a captivating gift for yourself or other builders in your life who love engaging, creative projects
+- This kit is a way to immerse yourself in your passion for creativity while building a unique piece of art; With the included Soundtrack, you can dive deeper into the art set and learn new details about it
+- This 4in1 art piece measures over 15.5” (40cm) square; It displays beautifully on a wall or shelf, while its authentic details will ensure it stands out in any collection; This LEGO set comes with 4 different building options
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B0858FSQ3J/?tag=tolees-20)
