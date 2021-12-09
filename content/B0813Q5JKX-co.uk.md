@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % deal for LEGO 75288 Star Wars AT-AT Walker Buildi'
-date: 2021-12-08 21:36:11
+date: 2021-12-09 21:49:51
 image: 'https://m.media-amazon.com/images/I/51NNoQE028L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21'
 descuento: '20.01'
-average: '113.243125'
+average: '113.168823529412'
 ---
 
 There's a deal [LEGO 75288 Star Wars AT-AT Walker Building Toy 40th Anniversary Set  Gift Idea with 6 Minifigures](https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21)  with  20.01 % discount, final price tag of  111.98 GBP (original: 139.99 GBP) here:
@@ -30,8 +30,8 @@ There's a deal [LEGO 75288 Star Wars AT-AT Walker Building Toy 40th Anniversary 
 
 - The Star Wars building toy features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
 - Celebrate the iconic series with this Star Wars 40th Anniversary set, a LEGO brick version of the iconic AT-AT Walker Star Wars building toy
-- This iconic AT-AT Walker also has foldout panels, a speeder bike, winch, and bottom hatch so Luke can throw in the thermal detonator element
 - Measures over 13”/34cm high, 14.5”/38cm long and 5.5”/15cm wide. Fans can also drive it in the LEGO Star Wars: The Skywalker Saga video game
 - Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
+- This iconic AT-AT Walker also has foldout panels, a speeder bike, winch, and bottom hatch so Luke can throw in the thermal detonator element
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21)
