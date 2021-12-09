@@ -28,10 +28,10 @@ With a final price of 10.99 USD (original: 14.99 USD) you can find [LEGO Star Wa
 
 ℹ️:
 
-- Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show,and develop their own exciting stories with this LEGO Star Wars set!
 - The LEGO Star Wars Mandalorian Speeder measures over 1” (4cm) high, 3” (8cm) long and 2” (6cm) wide
 - This quick-to-build LEGO Star Wars The Mandalorian set offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 6+ who love Star Wars: The Mandalorian, LEGO Star Wars and space battle toys
 - Kids will love staging battles with the 4 Star Wars Mandalorian warrior minifigures, stud-shooting blasters, a defense fort with an attachment point for a blaster, and a stud-shooting speeder bike!
 - This set is perfect for building an army and comes with tons of LEGO building bricks to inspire building solo, with friends and in combination with other LEGO Star Wars sets
+- Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show,and develop their own exciting stories with this LEGO Star Wars set!
 
 [🛒 Buy it!!](https://www.amazon.com/dp/B07WJQW3XZ/?tag=tolees-20)
