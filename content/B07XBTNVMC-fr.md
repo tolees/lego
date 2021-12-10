@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75550 Minions Le Combat de Kung-fu  at 41.89 % discount'
-date: 2021-12-09 00:07:58
+date: 2021-12-10 00:21:50
 image: 'https://m.media-amazon.com/images/I/51TUOKjII6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07XBTNVMC/?tag=tolees0d-21'
 descuento: '41.89'
-average: '23.7766666666667'
+average: '22.625'
 ---
 
 With a final price of 19.17 EUR (original: 32.99 EUR) you can find [LEGO 75550 Minions Le Combat de Kung-fu des Minions Jouet avec Les Figurines des Minions Kevin  Stuart et Otto](https://www.amazon.fr/dp/B07XBTNVMC/?tag=tolees0d-21) with a  41.89 % discount here:
@@ -28,15 +28,15 @@ With a final price of 19.17 EUR (original: 32.99 EUR) you can find [LEGO 75550 M
 
 ℹ️:
 
-- Le jeu commence immédiatement avec 3 personnages LEGO Minions. Ce set (75550) inclut les Minions Kevin et Stuart en tenue de kung-fu, plus le personnage d’Otto.
-- Les festivités du Nouvel An chinois s’invitent dans la maison de tous les jeunes fans des Minions. Ils auront beaucoup de plaisir à construire ce temple, parfait pour recréer des scènes du film Les Minions 2 : Il était une fois Gru.
-- Les sets LEGO Minions sont source d’inspiration pour les enfants qui peuvent recréer les scènes du film Les Minions 2 : Il était une fois Gru.
-- Les pièces et les briques LEGO Minions sont soigneusement testées afin de garantir que chaque set de jeu est conforme aux normes de sécurité les plus élevées au monde.
 - Les enfants peuvent aider les Minions à perfectionner leur kung-fu avec le râtelier d’armes et le mannequin d’entraînement, puis tirer des « feux d’artifice » depuis le temple pendant que les Minions défilent avec le dragon chinois coloré.
-- Les briques de construction LEGO sont conformes aux normes industrielles les plus élevées et aux critères de qualité du groupe LEGO. Elles sont donc compatibles entre elles et s’assemblent et se séparent toujours facilement.
+- Ce set est le choix idéal pour ceux qui recherchent un cadeau pour les fans des Minions de 6 ans et plus. Parfait pour créer, ce jouet est formidable pour les enfants qui aiment construire et inventer des histoires avec les Minions.
 - Avec Instructions PLUS, les jeunes constructeurs peuvent éprouver la fierté de construire de façon indépendante.
 - Le temple mesure plus de 17 cm de haut, 13 cm de large et 26 cm de profondeur - des dimensions idéales pour le jeu créatif.
+- Les sets LEGO Minions sont source d’inspiration pour les enfants qui peuvent recréer les scènes du film Les Minions 2 : Il était une fois Gru.
+- Les festivités du Nouvel An chinois s’invitent dans la maison de tous les jeunes fans des Minions. Ils auront beaucoup de plaisir à construire ce temple, parfait pour recréer des scènes du film Les Minions 2 : Il était une fois Gru.
+- Les pièces et les briques LEGO Minions sont soigneusement testées afin de garantir que chaque set de jeu est conforme aux normes de sécurité les plus élevées au monde.
 - Aucune pile n’est nécessaire pour ce set sur le thème des Minions : les enfants peuvent commencer à jouer immédiatement.
-- Ce set est le choix idéal pour ceux qui recherchent un cadeau pour les fans des Minions de 6 ans et plus. Parfait pour créer, ce jouet est formidable pour les enfants qui aiment construire et inventer des histoires avec les Minions.
+- Les briques de construction LEGO sont conformes aux normes industrielles les plus élevées et aux critères de qualité du groupe LEGO. Elles sont donc compatibles entre elles et s’assemblent et se séparent toujours facilement.
+- Le jeu commence immédiatement avec 3 personnages LEGO Minions. Ce set (75550) inclut les Minions Kevin et Stuart en tenue de kung-fu, plus le personnage d’Otto.
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B07XBTNVMC/?tag=tolees0d-21)
