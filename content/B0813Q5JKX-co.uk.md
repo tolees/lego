@@ -29,9 +29,9 @@ There's a deal [LEGO 75288 Star Wars AT-AT Walker Building Toy 40th Anniversary 
 ℹ️:
 
 - The Star Wars building toy features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
-- Celebrate the iconic series with this Star Wars 40th Anniversary set, a LEGO brick version of the iconic AT-AT Walker Star Wars building toy
 - Measures over 13”/34cm high, 14.5”/38cm long and 5.5”/15cm wide. Fans can also drive it in the LEGO Star Wars: The Skywalker Saga video game
-- Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
 - This iconic AT-AT Walker also has foldout panels, a speeder bike, winch, and bottom hatch so Luke can throw in the thermal detonator element
+- Celebrate the iconic series with this Star Wars 40th Anniversary set, a LEGO brick version of the iconic AT-AT Walker Star Wars building toy
+- Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
 
 [🛒 Buy it now!!](https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21)
