@@ -28,8 +28,8 @@ You've got [LEGO 21226 Art Gemeinsames Kunstprojekt  Canvas-Wanddeko  Bastelset 
 
 ℹ️:
 
-- Die kreativste Party mit dem Set LEGO Art: Gemeinsames Kunstprojekt mit 36 Bildoptionen und einer farblich angepassten Palette zum Zusammenbauen
 - Sortiert die Teile, baut die Farbpalette, wählt euer Lieblingsmotiv und beginnt gemeinsam mit dem Bauen
+- Die kreativste Party mit dem Set LEGO Art: Gemeinsames Kunstprojekt mit 36 Bildoptionen und einer farblich angepassten Palette zum Zusammenbauen
 - Dieses Wanddekorationsset hat 2 einzigartige Aufhängelemente und einen Elementetrenner – für ein kreatives, einfaches und lustiges Gruppenhobby
 - Das Bastelset für Kinder und Erwachsene kann endlos auf- und umgebaut werden. Es ist ein großartiges Geschenk für Mädchen, Jungen und DIY-Fans ab 7 Jahren
 - Baut gemeinsam eine persönliche Bildcollage als Deko oder kreiert ein Kunstwerk mit der LEGO-Minifigur vor einem Hintergrund aus Sternen

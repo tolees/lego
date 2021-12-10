@@ -28,11 +28,11 @@ You've got [LEGO 41391 Friends Heartlake City Hair Salon Toy Hairdressing Set wi
 
 ℹ️:
 
-- This LEGO Friends Hair Salon set with mini dolls and accessories is a lovely birthday or Christmas gift toy for 6 + year old girls and boys
-- Includes 2 mini-dolls, Emma and the stylist Nina, with detachable heads, the movable upper body part to sit in the chair, and different wigs
 - Wonderfully detailed stations allow kids to see the mini doll figures progress through the pretend hair salon with an open back access
-- This kids hairdressing sets accessories also include a coffee machine and a broom, even a hairstyle catalogue, toy hairdryers and toy wigs
+- This LEGO Friends Hair Salon set with mini dolls and accessories is a lovely birthday or Christmas gift toy for 6 + year old girls and boys
 - The toy hair salon set features 2 chairs, one with a hairdryer, a hair-washing sink, cash desk & a separate stand for hairdressers pieces
+- Includes 2 mini-dolls, Emma and the stylist Nina, with detachable heads, the movable upper body part to sit in the chair, and different wigs
+- This kids hairdressing sets accessories also include a coffee machine and a broom, even a hairstyle catalogue, toy hairdryers and toy wigs
 - Also includes accessories stand, scissors, brush, tiara, bow, hand hairdryer, shampoo bottle and hairspray, plus coffee and cookies to serve
 
 [🛒 Check the deal!!](https://www.amazon.co.uk/dp/B07W5PXDVR/?tag=tolees0a-21)

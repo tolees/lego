@@ -28,11 +28,11 @@ You've got [LEGO Architecture New York City  Collezione Skyline  Modellismo Monu
 
 ℹ️:
 
-- Alto 26 cm, largo 25 cm e profondo 4 cm, il modello include i seguenti edifici: Flatiron, Chrysler, Empire State e One WTC
 - Include un libretto da collezione con le informazioni sul design, sullarchitettura e sulla storia degli edifici
-- Il set è stato progettato per garantire unesperienza rilassante e appagante, e farà un figurone esposto in casa o in ufficio
 - Questo meraviglioso modello è incentrato sulla fantastica varietà architettonica di una delle città più dinamiche del mondo
-- Costruisci un modello dettagliato del profilo di New York City, con mini Statua della Libertà e base di 4x32 cm con targhetta decorativa
 - Cattura lessenza dellarchitettura di New York City con questo fantastico set che riunisce gli edifici più famosi della Grande Mela
+- Il set è stato progettato per garantire unesperienza rilassante e appagante, e farà un figurone esposto in casa o in ufficio
+- Costruisci un modello dettagliato del profilo di New York City, con mini Statua della Libertà e base di 4x32 cm con targhetta decorativa
+- Alto 26 cm, largo 25 cm e profondo 4 cm, il modello include i seguenti edifici: Flatiron, Chrysler, Empire State e One WTC
 
 [🛒 Check the deal!!](https://www.amazon.it/dp/B012NOGGHQ/?tag=tolees00-21)
