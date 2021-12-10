@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discount of 20.00 % for LEGO Marvel Infinity Gauntlet 76191 Coll'
-date: 2021-12-09 02:53:55
+date: 2021-12-10 03:07:47
 image: 'https://m.media-amazon.com/images/I/51ryI9UaNVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [LEGO Marvel Infinity Gauntlet 76191 Collectible Building Kit; Thanos
 
 ℹ️:
 
-- This 590-piece model gives adult Marvel fans the opportunity to immerse themselves in creative construction and recreate one of comic-book culture’s most recognizable, and most devastating, weapons
-- This authentic, golden LEGO brick recreation of the iconic Infinity Gauntlet includes colorful Infinity Stones and a sturdy stand featuring a descriptive tablet
-- Measuring over 12.5 in. (31 cm) high, 5 in. (13 cm) wide and 4 in. (11 cm) deep, this fascinating model provides an attractive conversation piece, whether displayed in your home or workplace
 - This stand-out, build-and-display piece makes a great birthday gift, holiday present or personal treat for any model-making enthusiast or adult fan of the Marvel Universe
+- Measuring over 12.5 in. (31 cm) high, 5 in. (13 cm) wide and 4 in. (11 cm) deep, this fascinating model provides an attractive conversation piece, whether displayed in your home or workplace
 - The stunning, build-and-display LEGO Marvel Infinity Gauntlet (76191) captures forever the captivating style of Marvel Studios’ Avengers: Infinity War and Avengers: Endgame movies
+- This authentic, golden LEGO brick recreation of the iconic Infinity Gauntlet includes colorful Infinity Stones and a sturdy stand featuring a descriptive tablet
+- This 590-piece model gives adult Marvel fans the opportunity to immerse themselves in creative construction and recreate one of comic-book culture’s most recognizable, and most devastating, weapons
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08YP94QJN/?tag=tolees-20)
