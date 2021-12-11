@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- El juguete de construcción LEGO Minecraft La Casa del Árbol Moderna es un set detallado y tremendamente versátil con 4 habitaciones infinitamente reconfigurables y mini figuras
+- Los accesorios incluyen un montón de funciones divertidas del videojuego, desde muebles y ropa de cama hasta herramientas y TNT
 - Estos LEGO Minecraft juguetes modulares de la casa del árbol para construir y exhibir son ideales para cualquier entusiasta de Minecraft, siendo un original regalo de cumpleaños y de Navidad para niñas y niños +9 años
 - Los niños construyen 4 habitaciones muy diferentes gracias a esta la casa de muñecas (cocina, biblioteca, estudio y dormitorio) que ni siquiera tienen que estar pegadas al árbol
-- Los accesorios incluyen un montón de funciones divertidas del videojuego, desde muebles y ropa de cama hasta herramientas y TNT
-- El juguete de construcción LEGO Minecraft La Casa del Árbol Moderna es un set detallado y tremendamente versátil con 4 habitaciones infinitamente reconfigurables y mini figuras
 
 [🛒 Buy it now!!]({{< param buyurl >}})
