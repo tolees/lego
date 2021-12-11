@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- What’s in the bag of 10 special tiles is a surprise to bring the "wow" moment to little fashionistas and boost their looks with new beads
-- Kids can express themselves by creating their own DIY room decor, jewellery and desk accessories matching their or their BFFs projects
 - Features 109 colourful tiles, including 20 opalescent glitter beads and 10 special printed tiles from a range of 16 surprise tiles
-- The tiles incorporate new colours and decorations and bear different themes to collect, create, share and wear between budding designers
+- Kids can express themselves by creating their own DIY room decor, jewellery and desk accessories matching their or their BFFs projects
 - Use for all the LEGO DOTS Series 2 DIY crafts kits like Desk Organiser (41907), Picture Frames Set (41914), or Jewellery Box (41915)
+- The tiles incorporate new colours and decorations and bear different themes to collect, create, share and wear between budding designers
+- What’s in the bag of 10 special tiles is a surprise to bring the "wow" moment to little fashionistas and boost their looks with new beads
 
 [🛒 Buy it now!!]({{< param buyurl >}})

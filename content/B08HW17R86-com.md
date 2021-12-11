@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Buildings include a city hall, concert stage and diner. Vehicles include Snake Rattlers motorbike and Harl Hubbs handyman wagon; Theres also an array of LEGO City Adventures TV series minifigures
+- When built, the city hall building measures over 12” (32cm) high, 10” (27cm) wide and 5” (15cm) deep, while the tram measures over 4" (12cm) high, 14" (37cm) long and 1" (5cm) wide
+- Kids get to create and recreate scenes from the LEGO City Adventures TV series with this amazing building set; It’s bursting with realistic features, functions, details and characters that inspire fun, imaginative play
 - This amazing LEGO City Main Square (60271) playset is a great introduction to the exciting world of LEGO City; Perfect for kids aged 5 and up, it inspires open-ended, imaginative role play based on real-life scenarios
 - This LEGO City Main Square playset makes a great Holiday, birthday or any-other-day gift for LEGO City TV fans and kids who love to play
-- Kids get to create and recreate scenes from the LEGO City Adventures TV series with this amazing building set; It’s bursting with realistic features, functions, details and characters that inspire fun, imaginative play
-- When built, the city hall building measures over 12” (32cm) high, 10” (27cm) wide and 5” (15cm) deep, while the tram measures over 4" (12cm) high, 14" (37cm) long and 1" (5cm) wide
-- Buildings include a city hall, concert stage and diner. Vehicles include Snake Rattlers motorbike and Harl Hubbs handyman wagon; Theres also an array of LEGO City Adventures TV series minifigures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
