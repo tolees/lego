@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes 2 minifigures with accessories, 14 random BeatBits and 2 special BeatBits that bring the model and minifigures to life in the app
-- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
-- Scan the BeatBits in the app to unlock special effects, like the one that makes carousel horses appear in kids’ music videos
-- Inspire kids with the LEGO VIDIYO Candy Castle Stage music video maker toy allowing them to star in their own shows in an augmented reality app
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
+- Scan the BeatBits in the app to unlock special effects, like the one that makes carousel horses appear in kids’ music videos
+- Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
+- Inspire kids with the LEGO VIDIYO Candy Castle Stage music video maker toy allowing them to star in their own shows in an augmented reality app
 
 [🛒 Check the deal!!]({{< param buyurl >}})
