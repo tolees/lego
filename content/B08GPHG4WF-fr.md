@@ -28,8 +28,8 @@ You've got [LEGO 10939 Duplo L’évasion du T. Rex et du Tricératops Jouet pou
 
 ℹ️:
 
-- Les enfants pourront aider Owen à secourir les bébés tricératops et les emmener en sécurité avec sa moto, puis s’en occuper pour des possibilités de jeu infinies
 - Colorées et conçues par des experts, les briques pour bambins de ce jouet Jurassic World sont pratiques à récupérer et à assembler, même avec de petites mains !
+- Les enfants pourront aider Owen à secourir les bébés tricératops et les emmener en sécurité avec sa moto, puis s’en occuper pour des possibilités de jeu infinies
 - Inclus un gros jouet Trex avec une gueule qui s’ouvre, un bébé tricératops et la figurine de l’employé Owen Grady avec sa moto
 - Les jouets LEGO pour enfants leurs permettent de développer leurs compétences et d’apprécier la construction créative ainsi qu’un jeu imaginatif rempli d’action
 - Ce jouet dinosaure pour enfants de 2 ans et plus comprend une entrée constructible de Jurassic World avec barrière qui s’ouvre et plus !

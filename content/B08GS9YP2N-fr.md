@@ -29,10 +29,10 @@ With a final price of 3.99 EUR (original: 5.99 EUR) you can find [LEGO 41922 Dot
 ℹ️:
 
 - Composé dun bracelet de plus de 20 cm de long, ce kit est parfait pour les débutants qui souhaitent sexercer avant de réaliser le bracelet de leurs rêves
-- Un bracelet réglable et 32 carreaux colorés avec des imprimés cactus sont inclus dans ce set de loisirs créatifs pour créer des designs personnalisés
 - Les enfants passionnés d’activités manuelles vont adorer les tuiles de décoration LEGO DOTS : Série 1 (41908), Série 2 (41916) et Série 3 (41921) avec tuiles surprises
+- Les enfants pourront faire d’autres créations avec les nouveaux sets LEGO DOTS - Série 4 41931, ou combinez-les avec le Bracelet Musical 41933
+- Un bracelet réglable et 32 carreaux colorés avec des imprimés cactus sont inclus dans ce set de loisirs créatifs pour créer des designs personnalisés
 - Ce bracelet fait maison avec un design ouvert constitue un joli cadeau de Noël ou d’anniversaire pour les garçons et les filles âgés de 6 ans et plus
 - Linspiration viendra vite avec ce bracelet facile à construire offrant de possibilité infinies de bricolage aux enfants
-- Les enfants pourront faire d’autres créations avec les nouveaux sets LEGO DOTS - Série 4 41931, ou combinez-les avec le Bracelet Musical 41933
 
 [🛒 Buy it!!](https://www.amazon.fr/dp/B08GS9YP2N/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ There's a deal [LEGO 21171 Minecraft L’écurie Jouet Ferme avec Figurine Caval
 ℹ️:
 
 - L’écurie colorée comprend des accessoires Minecraft, comme des bottes de paille, une carotte dorée et un plastron en diamant
-- Ces constructions Minecraft récréent le célèbre jeu en ligne et constituent le cadeau LEGO idéal pour les joueurs Minecraft et les amateurs de chevaux
 - Les enfants pourront nourrir et prendre soin des figurines chevaux LEGO, construire un parcours d’obstacles à sauter et se battre avec le cavalier squelette !
 - Les enfants qui adorent Minecraft reconnaitront les chevaux du jeu de construction, l’écurie et d’autres détails Minecraft inspirants
+- Ces constructions Minecraft récréent le célèbre jeu en ligne et constituent le cadeau LEGO idéal pour les joueurs Minecraft et les amateurs de chevaux
 - Avec une écurie aux portes qui s’ouvrent et se referment, cette ferme jouet Minecraft est conçue pour les garçons et filles âgés de 8 ans ou plus
 
 [🛒 Buy it now!!](https://www.amazon.fr/dp/B08WWX6BYY/?tag=tolees0d-21)
