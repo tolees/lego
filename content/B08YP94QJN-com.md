@@ -28,10 +28,10 @@ You've got [LEGO Marvel Infinity Gauntlet 76191 Collectible Building Kit; Thanos
 
 ℹ️:
 
+- This stand-out, build-and-display piece makes a great birthday gift, holiday present or personal treat for any model-making enthusiast or adult fan of the Marvel Universe
 - Measuring over 12.5 in. (31 cm) high, 5 in. (13 cm) wide and 4 in. (11 cm) deep, this fascinating model provides an attractive conversation piece, whether displayed in your home or workplace
 - This authentic, golden LEGO brick recreation of the iconic Infinity Gauntlet includes colorful Infinity Stones and a sturdy stand featuring a descriptive tablet
-- This stand-out, build-and-display piece makes a great birthday gift, holiday present or personal treat for any model-making enthusiast or adult fan of the Marvel Universe
-- This 590-piece model gives adult Marvel fans the opportunity to immerse themselves in creative construction and recreate one of comic-book culture’s most recognizable, and most devastating, weapons
 - The stunning, build-and-display LEGO Marvel Infinity Gauntlet (76191) captures forever the captivating style of Marvel Studios’ Avengers: Infinity War and Avengers: Endgame movies
+- This 590-piece model gives adult Marvel fans the opportunity to immerse themselves in creative construction and recreate one of comic-book culture’s most recognizable, and most devastating, weapons
 
 [🛒 Check the deal!!](https://www.amazon.com/dp/B08YP94QJN/?tag=tolees-20)
