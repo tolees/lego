@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The powerful Lamborghini Urus ST-X triumph combines race circuit and off-road track and comes with lateral racing exhausts and green livery
-- The sleek Lamborghini Huracán has a new black & gold livery embellished with gold details and realistic stickers to mark superb aerodynamics
-- Features 2 brilliantly detailed Lamborghini toy cars for racing action, these replicas come with a starting line with ’lights’ for more fun
-- LEGO Speed Champions race car toys are now 25% bigger and more realistic than ever to car fans delight
 - This toy cars set for kids 8+ years old includes 2 racing driver minifigures to recreate all the thrills and spills of the racetrack
+- The powerful Lamborghini Urus ST-X triumph combines race circuit and off-road track and comes with lateral racing exhausts and green livery
+- LEGO Speed Champions race car toys are now 25% bigger and more realistic than ever to car fans delight
+- Features 2 brilliantly detailed Lamborghini toy cars for racing action, these replicas come with a starting line with ’lights’ for more fun
+- The sleek Lamborghini Huracán has a new black & gold livery embellished with gold details and realistic stickers to mark superb aerodynamics
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Other LEGO Mario upgrades are available to use with the Starter Course and Expansion Sets, including the Tanooki Mario Power-Up Pack (71385)
-- This collectible building toy makes a fun birthday or holiday gift for creative kids and fans aged 6 and up to customize their LEGO Super Mario Starter Course and Expansion Sets
 - Bring belly-sliding fun to LEGO Super Mario fans’ play experience with this Penguin Mario Power-Up Pack (71384), featuring an interactive suit for LEGO Mario (figure not included)
-- When LEGO Mario is fitted with this suit, players can collect extra digital coins for making him slide on his belly like a penguin
+- This collectible building toy makes a fun birthday or holiday gift for creative kids and fans aged 6 and up to customize their LEGO Super Mario Starter Course and Expansion Sets
 - This brick-built accessory fits on the LEGO Mario figure in the Adventures with Mario Starter Course (71360) toy playset
+- When LEGO Mario is fitted with this suit, players can collect extra digital coins for making him slide on his belly like a penguin
+- Other LEGO Mario upgrades are available to use with the Starter Course and Expansion Sets, including the Tanooki Mario Power-Up Pack (71385)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
