@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Discount of 44.47 % for LEGO 43102 VIDIYO Candy Mermaid BeatBox '
-date: 2021-12-11 08:43:30
+title: 'LEGO 43102 VIDIYO Candy Mermaid BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App'
+date: 2021-12-12 08:54:02
 image: 'https://m.media-amazon.com/images/I/510Z8lfM0EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,19 +19,19 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4FPPV9/?tag=tolees0a-21'
 descuento: '44.47'
-average: '10.3774999999999'
+average: '10.3750318471337'
 ---
 
-You've got [LEGO 43102 VIDIYO Candy Mermaid BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App](https://www.amazon.co.uk/dp/B08G4FPPV9/?tag=tolees0a-21) with a  44.47 % discount, with final price of 9.99 GBP (original: 17.99 GBP) at the following link:
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
-[![LEGO 43102 VIDIYO Candy Mermaid BeatBox ](https://m.media-amazon.com/images/I/510Z8lfM0EL._SL500_._SL400_.jpg)](https://www.amazon.co.uk/dp/B08G4FPPV9/?tag=tolees0a-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 - Includes a mermaid minifigure with guitar, 14 random BeatBits, 2 special BeatBits and a scene that allows interactive music video making
-- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
-- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 - Use the app to bring the mermaid to life within an awesome pop music video to share online. See your mermaid rock out on her sweet guitar
+- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
 - Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
 
-[🛒 Check the deal!!](https://www.amazon.co.uk/dp/B08G4FPPV9/?tag=tolees0a-21)
+[🛒 Check the deal!!]({{< param buyurl >}})
