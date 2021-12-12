@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Download the free CONTROL+ app to control the car, perform stunts and unlock challenges, sound effects and more
-- Made for action! Massive knobbed tyres and angled front gives stability when jumping and performing tricks, just like classic RC toy cars
-- Also features an opening hood, antenna and retro colour scheme, complete with 1980s-inspired sticker details
-- An awesome gift for kids aged 10+ and adults who remember the classic 1980s RC toy cars, it will bring all generations to play together
-- Electronic components, including 1 hub and 2 large motors, add extra power and deliver hours of action-packed play
 - Amazing tricks are easy to perform by the RC Off-Road Buggy model, thanks to the car’s front and rear suspension - a first for LEGO Technic
+- Download the free CONTROL+ app to control the car, perform stunts and unlock challenges, sound effects and more
+- Also features an opening hood, antenna and retro colour scheme, complete with 1980s-inspired sticker details
+- Made for action! Massive knobbed tyres and angled front gives stability when jumping and performing tricks, just like classic RC toy cars
+- Electronic components, including 1 hub and 2 large motors, add extra power and deliver hours of action-packed play
+- An awesome gift for kids aged 10+ and adults who remember the classic 1980s RC toy cars, it will bring all generations to play together
 
 [🛒 Check the deal!!]({{< param buyurl >}})
