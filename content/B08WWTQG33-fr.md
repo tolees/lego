@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '35.30 % deal for LEGO 43196 Disney Le château de la Belle'
-date: 2021-12-10 23:54:16
+title: 'LEGO 43196 Disney Le château de la Belle et la Bête  Jouet du Film Disney avec Mini Figurines'
+date: 2021-12-13 00:22:57
 image: 'https://m.media-amazon.com/images/I/515SzkoxjxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -22,16 +22,16 @@ descuento: '35.30'
 average: '54.99'
 ---
 
-There's a deal [LEGO 43196 Disney Le château de la Belle et la Bête  Jouet du Film Disney avec Mini Figurines](https://www.amazon.fr/dp/B08WWTQG33/?tag=tolees0d-21)  with  35.30 % discount, final price tag of  54.99 EUR (original: 84.99 EUR) here:
+There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
-[![LEGO 43196 Disney Le château de la Belle](https://m.media-amazon.com/images/I/515SzkoxjxS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08WWTQG33/?tag=tolees0d-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Ce set du château de princesse Disney est rempli daccessoires, dont un portrait déchiré du Prince et une rose enchantée
 - Livré avec des instructions PLUS supplémentaires sur l’application : même les plus jeunes peuvent zoomer et visualiser les modèles qu’ils construisent
-- 10 personnages pour jouer : 3 figurines la Belle et la Bête (2 versions de Belle et une de la Bête avec tête différente pour le Prince), Philippe le cheval et 6 autres figurines
-- Créé un bâtiment de 2 étages avec une piste de danse et un placard qui tournent, une bibliothèque et une salle à manger avec ce jouet Disney
 - Parcoure laire de jeux à cheval, conduit un chariot ou organise une fête enchantée dans la cuisine du château
+- 10 personnages pour jouer : 3 figurines la Belle et la Bête (2 versions de Belle et une de la Bête avec tête différente pour le Prince), Philippe le cheval et 6 autres figurines
+- Ce set du château de princesse Disney est rempli daccessoires, dont un portrait déchiré du Prince et une rose enchantée
+- Créé un bâtiment de 2 étages avec une piste de danse et un placard qui tournent, une bibliothèque et une salle à manger avec ce jouet Disney
 
-[🛒 Buy it now!!](https://www.amazon.fr/dp/B08WWTQG33/?tag=tolees0d-21)
+[🛒 Buy it now!!]({{< param buyurl >}})
