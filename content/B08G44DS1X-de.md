@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Kinder können so tun, als würden sie Obst und Gemüse pflanzen, Brot backen, Sandwiches vorbereiten, Kunden bedienen, Recycling Müll sortieren und Getränke liefern
-- Coole Details dabei: Küchen-Zubehör wie Ofen, Mixer, Kaffeemaschine, Sandwich-Regal und Essen, damit das LEGO Restaurant wie ein echtes wirkt!
 - Das LEGO Restaurant mit Küche, Garten und einem Saft-Lieferfahrrad für Jungen und Mädchen, die eine umweltfreundliche Welt bauen möchten
-- In Heartlake City treffen Sie Charaktere, die sich genauso für den Planeten interessieren, auf dem wir leben, wie für ihre Freunde. Ein perfektes Lernspielzeug für die Umweltbildung!
+- Coole Details dabei: Küchen-Zubehör wie Ofen, Mixer, Kaffeemaschine, Sandwich-Regal und Essen, damit das LEGO Restaurant wie ein echtes wirkt!
 - Dieses Spielzeug ab 6 Jahren enthält LEGO Mini Puppen: Mia, Opa Marcel (Neu ab Januar 2021!) und die Enkelin Ava, für ein echtes Familienspiel
+- In Heartlake City treffen Sie Charaktere, die sich genauso für den Planeten interessieren, auf dem wir leben, wie für ihre Freunde. Ein perfektes Lernspielzeug für die Umweltbildung!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

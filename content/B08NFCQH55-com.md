@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - The LEGO VIDIYO app is compatible with selected iOS and Android devices. Children should ask parents permission before going online
-- Scan the BeatBits in the app to unlock special effects like an effect that adds a cute synthetic pop sound to songs
 - Download the free LEGO VIDIYO app to scan the minifigure and special effect BeatBits. Kids will love seeing their character come to life within their music video
-- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
 - See kids direct and star in their own music videos with the LEGO VIDIYO Unicorn DJ BeatBox (43106). Includes a unicorn DJ minifigure, LP record accessory, 14 random BeatBits and 2 special BeatBits
+- A fun music experience for a boy or girl aged 7 and up who deserves a treat. This playset also makes a great holiday gift for any child who loves music toys, dancing and performing
+- Scan the BeatBits in the app to unlock special effects like an effect that adds a cute synthetic pop sound to songs
 
 [🛒 Check the deal!!]({{< param buyurl >}})

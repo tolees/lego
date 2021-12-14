@@ -30,8 +30,8 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 - The LEGO Star Wars Mandalorian Speeder measures over 1” (4cm) high, 3” (8cm) long and 2” (6cm) wide
 - This set is perfect for building an army and comes with tons of LEGO building bricks to inspire building solo, with friends and in combination with other LEGO Star Wars sets
+- Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show,and develop their own exciting stories with this LEGO Star Wars set!
 - Kids will love staging battles with the 4 Star Wars Mandalorian warrior minifigures, stud-shooting blasters, a defense fort with an attachment point for a blaster, and a stud-shooting speeder bike!
 - This quick-to-build LEGO Star Wars The Mandalorian set offers endless build-and-play fun, and is a great holiday, birthday or anyday gift for kids ages 6+ who love Star Wars: The Mandalorian, LEGO Star Wars and space battle toys
-- Kids can build a fearsome Mandalorian army, recreate exciting scenes from Star Wars: The Mandalorian TV show,and develop their own exciting stories with this LEGO Star Wars set!
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Give the gift of on-the-go LEGO Friends creative play with Emma’s Fashion Cube (41668) set. Kids can pretend to design a new outfit with a little inspiration from Emma’s bird pet
+- The easy builds contained in this animal playset are a great way to introduce boys and girls to the LEGO Friends world. It makes the perfect impulse reward or birthday gift for kids aged 6+
 - This cube measures 2 in. (7 cm) high and 2 in. (7 cm) wide and makes a fun little desk display for budding designers thanks to its cute, sewing-bag styling
+- Give the gift of on-the-go LEGO Friends creative play with Emma’s Fashion Cube (41668) set. Kids can pretend to design a new outfit with a little inspiration from Emma’s bird pet
 - Inside the cute sewing bag-styled box is a LEGO Friends Emma mini-doll toy, a cute bird figure in a surprise color and lots of creative kit to help stimulate kids’ imaginative play
 - Kids can play with the durable creative toys inside or outside of the cube, or pack them up for fun on the go, pretending to draw designs and use the sewing machine
-- The easy builds contained in this animal playset are a great way to introduce boys and girls to the LEGO Friends world. It makes the perfect impulse reward or birthday gift for kids aged 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})
