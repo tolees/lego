@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - LEGO Friends toys with colourful buildings, toy vehicles, and relatable characters make a meaningful birthday present, Christmas gift or stocking filler for girls and boys
-- Features a buildable electric car toy for all kids who love vehicles and the environment, with a passion for a greener, modern way of life
 - It also features a charging station with a toy wind turbine & a solar panel; kids can spin the turbine sails to ‘generate’ the electricity
-- The electric toy car’s wheels spin so kids can ‘drive’ it round and hook it up to the charging station with a cable at the picnic spot
+- Features a buildable electric car toy for all kids who love vehicles and the environment, with a passion for a greener, modern way of life
 - Includes 2 LEGO mini dolls Mia and Olivia, and Elliot the puppy figure to sit at the back of the toy vehicle to spark creative storytelling
+- The electric toy car’s wheels spin so kids can ‘drive’ it round and hook it up to the charging station with a cable at the picnic spot
 
 [🛒 Buy it now!!]({{< param buyurl >}})

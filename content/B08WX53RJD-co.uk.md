@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Includes 2 horse toys, with hinged movable heads, and a pony for young Kevin, for immersive summer adventures roleplay
-- The set makes a great Christmas gift or birthday present for boys and girls aged 7+ who love animals, ideal for immersive solo or with friends play
 - Kids can explore nature, care for animals, clean the stables, put the dog to bed in its kennel, then toast marshmallows on the campfire
-- The horse riding toy for girls and boys comes with 7 figures: LEGO Friends Mia and Savannah, a micro doll Kevin and Goldie the dog toy
+- Includes 2 horse toys, with hinged movable heads, and a pony for young Kevin, for immersive summer adventures roleplay
 - This LEGO Friends horse riding toy features a 3-floors ranch with a horse stable, pony pen and a kitchen, bedroom and dining area above
+- The set makes a great Christmas gift or birthday present for boys and girls aged 7+ who love animals, ideal for immersive solo or with friends play
+- The horse riding toy for girls and boys comes with 7 figures: LEGO Friends Mia and Savannah, a micro doll Kevin and Goldie the dog toy
 
 [🛒 Buy it!!]({{< param buyurl >}})
