@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- It also features a savanna setting with a landslide function, kids push a lever to activate the tree-and-rockslide accident
 - This toy for 6+ years old boys and girls includes an elephant, calf, croc and 2 monkey animal figures, plus 4 animal rescue team minifigures
-- This LEGO City wildlife rescue operation set features a winch vet clinic helicopter toy, tracked vehicle and a vet clinic station for animals
 - LEGO accessories include a toy magnifying glass, banana, monkey’s medical cast, cup, various laboratory objects and a crocodile egg
 - The helicopter has a working winch, spinning rotors and a cargo bay, and the tracked vehicle a detachable hoist chain and storage compartment
+- This LEGO City wildlife rescue operation set features a winch vet clinic helicopter toy, tracked vehicle and a vet clinic station for animals
+- It also features a savanna setting with a landslide function, kids push a lever to activate the tree-and-rockslide accident
 
 [🛒 Buy it now!!]({{< param buyurl >}})

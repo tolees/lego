@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - The townhouse has an apartment upstairs, a toy shop downstairs and many architectural details and toy accessories for kids 8+ to play with
-- The cake shop has a detailed interior with cooking appliances, coffee garden for a customer and even a satellite antenna on the roof
-- Features 2-level townhouse that rebuilds to a busy cake shop with workshop and a flower shop with skylight, plus a working toy rocket ride
 - The flower shop features plenty of flowers in vases, sun blinds to protect them, a skylight roof, plus a big red rose sign of its trade
 - Includes 2 minifigures, a brick-built bird figure, accessories include furniture, lamps, a cash register, banknote, cakes, toys and boxes
+- Features 2-level townhouse that rebuilds to a busy cake shop with workshop and a flower shop with skylight, plus a working toy rocket ride
+- The cake shop has a detailed interior with cooking appliances, coffee garden for a customer and even a satellite antenna on the roof
 
 [🛒 Buy it!!]({{< param buyurl >}})

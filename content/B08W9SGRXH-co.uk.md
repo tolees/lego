@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes a simple building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
-- Includes an explorer minifigure to put kids 5+ years old at the heart of the action, helping them develop confidence and key life skills
 - Also features a small savanna setting with a tree, banana and poop elements, plus 2 monkeys animal figures and a scorpion figure
 - This animal rescue set features a cool steerable ATV off-roader car toy with tilt-to-turn steering, equipped with a grabber tool and drone
+- Includes an explorer minifigure to put kids 5+ years old at the heart of the action, helping them develop confidence and key life skills
+- Includes a simple building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
 - Kids can tilt the ATV toy car to steer left and right, use the grabber tool to relocate the scorpion and play out fun animal rescue stories
 
 [🛒 Buy it now!!]({{< param buyurl >}})

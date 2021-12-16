@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Look out for other great new-for-2021 LEGO Creator 3in1 sets including Ferris Wheel (31119) and Medieval Castle (31120)
 - Includes a new-for-2021 LEGO astronaut minifigure with a helmet and a multi-tool, who can travel in all 3 space vehicles for extra fun
 - The Shuttle features an extendable arm with a satellite and retractable wheels, and the lunar lander has a detachable accent module
-- Look out for other great new-for-2021 LEGO Creator 3in1 sets including Ferris Wheel (31119) and Medieval Castle (31120)
-- This LEGO space toy set for kids features 3in1 models: a Space Shuttle that rebuilds into a rocket toy or a lunar lander, one at a time
 - Creative youngsters can enjoy interstellar fun flying the rocket toy with cool engine details or exploring planets in a 4-legged lunar lander
+- This LEGO space toy set for kids features 3in1 models: a Space Shuttle that rebuilds into a rocket toy or a lunar lander, one at a time
 - Kids can explore the outer reaches of the galaxy with the rocket and space shuttle, or travel on the surface of the moon in a lunar lander
 
 [🛒 Check the deal!!]({{< param buyurl >}})

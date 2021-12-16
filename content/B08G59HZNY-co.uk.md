@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Thrill-seeking animal fans aged 7+ can enjoy fun adventures at the Safari Wildlife Tree House, then rebuild it into a biplane or catamaran
 - The tree house has a balcony with a couch and ladder, an interior with a toilet and sink, plus 3 animals: a giraffe, flamingo and hornbill
 - The adventures never stop with Creator 3 in 1 playsets and LEGO minifigures as kids can build, rebuild and be creative for hours of playtime
-- The plane toy has a cockpit for a minifigure, plus a toy lion, a tree and an African lovebird. Awesome safari adventures await!
+- Thrill-seeking animal fans aged 7+ can enjoy fun adventures at the Safari Wildlife Tree House, then rebuild it into a biplane or catamaran
 - Lets take to the sea now! Young skippers can sail the catamaran boat toy with an adjustable sail next to a toy crocodile and marabou stork
+- The plane toy has a cockpit for a minifigure, plus a toy lion, a tree and an African lovebird. Awesome safari adventures await!
 
 [🛒 Buy it!!]({{< param buyurl >}})
