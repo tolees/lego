@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42096 Technic Porsche 911 RSR Race Car Advanced Building Set  Exclusive Collectible Model'
-date: 2021-12-14 23:32:44
+date: 2021-12-16 00:45:13
 image: 'https://m.media-amazon.com/images/I/51JDBJGNdlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07FP6QNQ7/?tag=tolees0a-21'
 descuento: '28.57'
-average: '111.799699812382'
+average: '111.777584269662'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
