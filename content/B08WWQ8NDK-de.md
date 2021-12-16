@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Diese große LEGO-Set mit unglaublichen 1002 Teilen ist das ideale Spielzeug für Jungen und Mädchen ab 9 Jahre und kann auch in der Gruppe gespielt werden
-- Dieser LEGO Freizeitpark ist ein 3in1-Modell mit einem Riesenrad, das sich nach und nach in einen Autoscooter oder eine Schiffschaukel umbauen lässt
-- Die Schiffschaukel wird mit einem Krallen- und einem Kaugummiautomaten geliefert, um mit diesem spektakulären LEGO Set den ultimativen Ausflug in den Freizeitpark zu erleben
 - Das Konstruktionsspielzeug lässt sich mit weiteren tollen neuen LEGO Creator Sets erweitern, darunter Raketen Abenteuer (31117) und Mittelalterliches Schloss (31120)
-- Das große, sich drehende Riesenrad hat 8 Gondeln für die Minifiguren, einen Fahrkartenschalter, einen Ballonwagen mit Ballontieren und eine Hunde-Figur
-- Das Autoscooter-Fahrgeschäft verfügt über 3 Wagen und einen Fahrkartenschalter mit Ansagemikrofon, um in dem LEGO Freizeitpark um die Wette zu fahren
+- Diese große LEGO-Set mit unglaublichen 1002 Teilen ist das ideale Spielzeug für Jungen und Mädchen ab 9 Jahre und kann auch in der Gruppe gespielt werden
 - In diesem Set sind folgende Figuren enthalten: Mama, Papa, Kind und 2 Schausteller, um den Kindern einen aufregenden Tag auf dem Spielplatz zu ermöglichen
+- Das Autoscooter-Fahrgeschäft verfügt über 3 Wagen und einen Fahrkartenschalter mit Ansagemikrofon, um in dem LEGO Freizeitpark um die Wette zu fahren
+- Das große, sich drehende Riesenrad hat 8 Gondeln für die Minifiguren, einen Fahrkartenschalter, einen Ballonwagen mit Ballontieren und eine Hunde-Figur
+- Die Schiffschaukel wird mit einem Krallen- und einem Kaugummiautomaten geliefert, um mit diesem spektakulären LEGO Set den ultimativen Ausflug in den Freizeitpark zu erleben
+- Dieser LEGO Freizeitpark ist ein 3in1-Modell mit einem Riesenrad, das sich nach und nach in einen Autoscooter oder eine Schiffschaukel umbauen lässt
 
 [🛒 Buy it!!]({{< param buyurl >}})
