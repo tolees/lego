@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
-- Features a toy boat that floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm & storage
-- This multi-vehicle toy also includes a research submarine and helicopter toys, speedboat, shark cage and pirate shipwreck with hidden treasure
-- LEGO underwater adventures sets are a great holiday, birthday or Christmas gift ideas introducing kids to the world of deep exploration
-- Includes a team of 8 explorers with LEGO City Adventures TV series hero Harl Hubbs minifigure, stingray and shark figures, plus accessories
 - Check out other LEGO City Oceans sets: Ocean Exploration Base 60265, Ocean Exploration Submarine 60264, and Ocean Mini-Submarine 60263
+- Includes a team of 8 explorers with LEGO City Adventures TV series hero Harl Hubbs minifigure, stingray and shark figures, plus accessories
+- This multi-vehicle toy also includes a research submarine and helicopter toys, speedboat, shark cage and pirate shipwreck with hidden treasure
+- Features a toy boat that floats on water, with accessible command cockpit and laboratory, a working crane, helipad, movable boat arm & storage
+- LEGO underwater adventures sets are a great holiday, birthday or Christmas gift ideas introducing kids to the world of deep exploration
+- Use Instructions PLUS, available as part of the free LEGO Building Instructions app for smart devices, to zoom, rotate and visualise
 
 [🛒 Buy it!!]({{< param buyurl >}})

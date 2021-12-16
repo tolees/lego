@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Open the doors to access a radar screen, working steering, fire extinguisher system and a track map of the Laguna Seca
-- Build and explore the LEGO Technic Porsche 911 RSR—an icon of innovative engineering and design
 - Includes white, red and black color scheme with sticker detailing to add the final touches to this awesome LEGO Technic Porsche 911 RSR
 - Features aerodynamic bodywork, black spoked rims, working differential and steering, independent suspension and a six-cylinder boxer engine
+- Build and explore the LEGO Technic Porsche 911 RSR—an icon of innovative engineering and design
 - This LEGO Technic model features realistic movement and mechanisms and is designed to provide an immersive and rewarding building experience
 
 [🛒 Buy it now!!]({{< param buyurl >}})
