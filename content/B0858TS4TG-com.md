@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Guarded Fortress Expansion Set 71362 Building Kit; Collectible Playset to Combine with The Super Mario Adventures with Mario Starter Course  71360  Set  468 Pieces '
-date: 2021-12-14 17:28:17
+date: 2021-12-17 21:08:09
 image: 'https://m.media-amazon.com/images/I/51zpXSC7TDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B0858TS4TG/?tag=tolees-20'
 descuento: '28.35'
-average: '38.9818181818182'
+average: '39.2776923076924'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - To reach the fortress and win digital coins, LEGO Mario may need to use the catapult, leap over brick-built lava or across stepping stones in ‘water’, and he reacts in different ways as he meets and defeats each enemy
-- This module measures over 7” (18.5cm) high, 14.5” (38cm) wide and 12.5” (32cm) deep in its basic formation and can be rebuilt and combined with the Starter Course and other Expansion Sets in multiple ways
+- The player must choose their own route for LEGO Mario (figure not included), defeating either the Bob-omb, Koopa Troopa or Piranha Plant toy figures, before landing on the POW Block to open the fortress door
 - Kids can build another exciting level to add to their LEGO Super Mario Adventures with Mario Starter Course and compete against friends with this Guarded Fortress Expansion Set 71362
 - This 468-piece, collectible, creative LEGO toy makes a fun birthday or holiday gift for kids aged 8 and up to add to their Adventures with Mario Starter Course 71360, inspiring them to build their own unique levels
-- The player must choose their own route for LEGO Mario (figure not included), defeating either the Bob-omb, Koopa Troopa or Piranha Plant toy figures, before landing on the POW Block to open the fortress door
+- This module measures over 7” (18.5cm) high, 14.5” (38cm) wide and 12.5” (32cm) deep in its basic formation and can be rebuilt and combined with the Starter Course and other Expansion Sets in multiple ways
 
 [🛒 Buy it!!]({{< param buyurl >}})
