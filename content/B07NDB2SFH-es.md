@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Set de construcción para Niños 10 años con Espada Láser  Modelo Coleccionable'
-date: 2021-12-16 05:52:07
+date: 2021-12-17 06:18:44
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
 descuento: '17.39'
-average: '98.7620999999999'
+average: '98.7567189728958'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
