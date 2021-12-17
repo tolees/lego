@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Main Square 60271 Set  Cool Building Toy for Kids  New 2021  1 517 Pieces '
-date: 2021-12-14 21:19:50
+date: 2021-12-17 09:13:05
 image: 'https://m.media-amazon.com/images/I/51St5j68ikL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B08HW17R86/?tag=tolees-20'
 descuento: '30.00'
-average: '151.277142857143'
+average: '149.86625'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - When built, the city hall building measures over 12” (32cm) high, 10” (27cm) wide and 5” (15cm) deep, while the tram measures over 4" (12cm) high, 14" (37cm) long and 1" (5cm) wide
+- Buildings include a city hall, concert stage and diner. Vehicles include Snake Rattlers motorbike and Harl Hubbs handyman wagon; Theres also an array of LEGO City Adventures TV series minifigures
 - This amazing LEGO City Main Square (60271) playset is a great introduction to the exciting world of LEGO City; Perfect for kids aged 5 and up, it inspires open-ended, imaginative role play based on real-life scenarios
 - Kids get to create and recreate scenes from the LEGO City Adventures TV series with this amazing building set; It’s bursting with realistic features, functions, details and characters that inspire fun, imaginative play
 - This LEGO City Main Square playset makes a great Holiday, birthday or any-other-day gift for LEGO City TV fans and kids who love to play
-- Buildings include a city hall, concert stage and diner. Vehicles include Snake Rattlers motorbike and Harl Hubbs handyman wagon; Theres also an array of LEGO City Adventures TV series minifigures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
