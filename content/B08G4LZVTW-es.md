@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cuenta con detalles del Jeep Wrangler de verdad, como los clásicos faros redondos delanteros, la parrilla de siete ranuras, un neumático de repuesto y asientos traseros abatibles
-- Este vehículo todoterreno 4x4 de LEGO Technic es un gran regalo de cumpleaños o Navidad para los jóvenes fans de LEGO dispuestos a enfrentarse a un nuevo desafío
-- Incluye una maqueta del vehículo todoterreno Jeep Wrangler, con una llamativa combinación de colores en amarillo y negro que quedará increíble al jugar o exponerlo
 - Esta maqueta de coche para construir, con su mecanismo de dirección delantera, potente suspensión con articulación de los ejes y cabrestante, inspirará infinidad de aventuras
+- Incluye una maqueta del vehículo todoterreno Jeep Wrangler, con una llamativa combinación de colores en amarillo y negro que quedará increíble al jugar o exponerlo
 - El mundo de coches de juguete y sets de construcción LEGO Technic, con sus mecanismos realistas, son una gran forma de presentar la ingeniería a los peques
 - A los peques les encantará usar el botón para hacer funcionar la dirección, las puertas y techo que se abren y la prestigiosa decoración de Jeep Wrangler Rubicon
+- Este vehículo todoterreno 4x4 de LEGO Technic es un gran regalo de cumpleaños o Navidad para los jóvenes fans de LEGO dispuestos a enfrentarse a un nuevo desafío
+- Cuenta con detalles del Jeep Wrangler de verdad, como los clásicos faros redondos delanteros, la parrilla de siete ranuras, un neumático de repuesto y asientos traseros abatibles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
