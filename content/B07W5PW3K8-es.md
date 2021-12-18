@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Cada uno de los 6 modelos tiene sus propias características distintivas: el molino tiene aspas que giran, el iglú es blanco como el hielo y el faro tiene colores muy vivos
+- Con este set se pueden construir 6 lugares diferentes para vivir: una casa familiar, un faro, un iglú, un castillo, una casita y un molino de viento
 - Los grandes ladrillos son seguros, óptimos para peques y sencillos de coger para las manitas de los peques mientras desarrollan habilidades sociales, emocionales y el lenguaje
 - Los niños y niñas de 4+ años adorarán este juguete de construcción para peques en edad preescolar ; para tener más posibilidades aún, combínalos con otros sets LEGO
-- Cada uno de los 6 modelos tiene sus propias características distintivas: el molino tiene aspas que giran, el iglú es blanco como el hielo y el faro tiene colores muy vivos
 - El set LEGO Classic Ladrillos y Casas es un gran juguete de construcción y una forma de iniciar a los peques en la construcción creativa, dejando que creen la casa de sus sueños
-- Con este set se pueden construir 6 lugares diferentes para vivir: una casa familiar, un faro, un iglú, un castillo, una casita y un molino de viento
 
 [🛒 Buy it now!!]({{< param buyurl >}})
