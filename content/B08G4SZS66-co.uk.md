@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21164 Minecraft The Coral Reef Building Set with Alex  2 Brick-Build Puffer Fish and Drowned Zombie'
-date: 2021-12-17 12:51:17
+date: 2021-12-18 16:35:16
 image: 'https://m.media-amazon.com/images/I/51B+zpU0dLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4SZS66/?tag=tolees0a-21'
 descuento: '44.38'
-average: '6.20842105263159'
+average: '6.17743589743591'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kids can turn the big yellow rock to uncover the hidden treasure chest which opens to reveal a fish and a pearl, to blowfishs surprise
+- Kids join Alex as she dives to search for hidden treasure among the colourful coral reef and fights off a surprise attack by a drowned zombie
 - Features popular gaming character Alex, the Minecraft daredevil, with a diving helmet, magic trousers and sword. Will Alex defeat the zombie?
 - Also includes a Drowned, Zombie-like figure and 2 puffer fish - 1 ‘inflated’, 1 normal size, bursting with Minecraft colour and action
-- Kids join Alex as she dives to search for hidden treasure among the colourful coral reef and fights off a surprise attack by a drowned zombie
 - This endlessly entertaining, feature-packed toy is an ideal gift for kids who like to build and explore, with more sets to collect & combine
 
 [🛒 Check the deal!!]({{< param buyurl >}})

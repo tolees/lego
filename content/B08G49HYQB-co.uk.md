@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42117 Technic Race Plane Toy to Jet Aeroplane 2 in 1 Building Set for Boys and Girls 7+ Years Old  Birthday Idea'
-date: 2021-12-17 12:50:19
+date: 2021-12-18 16:34:05
 image: 'https://m.media-amazon.com/images/I/51kT5O1hgwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G49HYQB/?tag=tolees0a-21'
 descuento: '33.26'
-average: '7.67699999999997'
+average: '7.66419847328241'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Comes with Instructions PLUS available in the free LEGO Building Instructions app, it has zoom and rotate tools to help children build
-- Features a 2 in 1 toy plane model with opening engine covers, landing gear and spinning propeller for plane racing role play
 - With vibrant colors, sponsor details and a spinning propeller that complete a cool little birthday or christmas gift – it looks so real!
+- Features a 2 in 1 toy plane model with opening engine covers, landing gear and spinning propeller for plane racing role play
 - Steer on the ground as you prepare for takeoff and see the propeller spin, then recreate the maneuvers of the world’s top pilots
 - Boys and girls aged 7+ will love building this durable areoplane toy, then transforming it into a Jet Aeroplane for even more creative aerobatic fun
 
