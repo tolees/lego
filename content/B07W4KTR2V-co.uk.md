@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Creator - LEGO 31105 Creator 3-in-1 Townhouse Toy Store - Cake Shop - Florist Building Set  with Flowers and Working Rocket Ride  For Kids 8+ Years Old'
-date: 2021-12-16 08:45:32
+date: 2021-12-18 08:47:57
 image: 'https://m.media-amazon.com/images/I/51O9aTRs9xS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'Lego Creator'
 buyurl: 'https://www.amazon.co.uk/dp/B07W4KTR2V/?tag=tolees0a-21'
 descuento: '39.98'
-average: '33.137205882353'
+average: '33.0047826086957'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The townhouse has an apartment upstairs, a toy shop downstairs and many architectural details and toy accessories for kids 8+ to play with
+- Features 2-level townhouse that rebuilds to a busy cake shop with workshop and a flower shop with skylight, plus a working toy rocket ride
 - The flower shop features plenty of flowers in vases, sun blinds to protect them, a skylight roof, plus a big red rose sign of its trade
 - Includes 2 minifigures, a brick-built bird figure, accessories include furniture, lamps, a cash register, banknote, cakes, toys and boxes
-- Features 2-level townhouse that rebuilds to a busy cake shop with workshop and a flower shop with skylight, plus a working toy rocket ride
 - The cake shop has a detailed interior with cooking appliances, coffee garden for a customer and even a satellite antenna on the roof
+- The townhouse has an apartment upstairs, a toy shop downstairs and many architectural details and toy accessories for kids 8+ to play with
 
 [🛒 Buy it!!]({{< param buyurl >}})
