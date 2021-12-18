@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Police Highway Arrest 60242 Police Toy  Fun Building Set for Kids  185 Pieces '
-date: 2021-12-15 17:48:25
+date: 2021-12-18 20:56:42
 image: 'https://m.media-amazon.com/images/I/51kNtXjq9WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- With LEGO City TV hero lieutenant Duke DeTain and crook Vito minifigures, a cool toy police car, sporty getaway car, plus a stolen safe and a crate of fish, the scene is set for fun and exciting car-chase action!
-- When built, Dukes police car measures over 1" (4cm) high, 4" (12cm) long and 1" (5cm) wide, while Vitos convertible measures in at over 1" (3cm) high, 4" (11cm) long and 1" (5cm) wide
-- This easy-to-build LEGO City set sparks imagination, offers endless build-and-play fun, and is an action-filled holiday, birthday or anyday gift for kids ages 5+ who like police cars, car chase toys and police adventure toys
-- This amazing multi-vehicle building set is an action-filled way for first-time builders to experience the exciting world of LEGO City!
-- Treat youngsters to the excitement of high-action LEGO City car chases with this cool police set designed to inspire open-ended, imaginative role-play based on real-life scenarios!
+- Children can combine the characters and cars from this set with other LEGO playsets to create their own toys and showpieces. This building toy promises plenty of action and is a great gift for any occasion for boys and girls aged 5 and over who like to let their imagination run wild when playing. Only very basic building skills are required.
+- LEGO City police sets include buildings full of features, cool vehicles and fun characters to encourage children to imaginative role play and adventures in authentic city scenes. Dukes police car measures 4 cm high, 12 cm long and 5 cm wide. Vitos Cabrio is 3 cm high, 11 cm long and 5 cm wide.
+- The set includes the LEGO City TV hero Duke DeTain and the crook Vito as mini figures, a cool toy police car, a sporty escape car, as well as a stolen safe and a fish box for a wild chase!
+- Welcome to LEGO City! As part of the LEGO City universe, police playsets convey an exciting building and playing experience. Children love to depict exciting situations with models and characters that reflect real life in a fun and imaginative way.
+- This cool LEGO City police set "arrest on the highway" (60242) inspires imaginative, realistic role-playing games and gives children the thrill of fast-paced and action-packed car tracking hunts.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
