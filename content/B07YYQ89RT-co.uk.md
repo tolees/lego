@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Racing Car Model Iconic Collector s Building Set'
-date: 2021-12-15 23:16:06
+date: 2021-12-17 23:56:26
 image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21'
 descuento: '16.67'
-average: '70.996993006993'
+average: '71.0109059233449'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
 - Makes the ideal gift for any car or Fast & Furious enthusiast; perfectly sized to create an awesome display piece to show off
-- Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car in the famous wheelstand position
 - Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
+- Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car in the famous wheelstand position
+- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
 - Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger R/T
 
 [🛒 Check the deal!!]({{< param buyurl >}})

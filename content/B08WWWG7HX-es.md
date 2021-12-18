@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los peques podrán explorar el establo principal con sus salas de trofeos y accesorios, limpiar las cabellerizas o visitar el acogedor ático para relajarse
-- Este set de construcción de Disney Princess, con detallados minipersonajes y figuras de caballos, ayuda a desarrollar importantes habilidades
 - Entre los accesorios del establo para caballos de juguete se incluyen heno, comida para caballos, monturas, utensilios de establo y un trofeo
-- Este juguete creativo de construcción Disney Princess tiene un establo de 3 plantas con 5 habitaciones, 2 pequeñas caballerizas desmontables y una lámina con pegatinas
-- Incluye 2 princesas Disney, Bella y Rapunzel, listas para trabajar y jugar con sus 2 figuras LEGO de caballos: Máximus y Philippe
-- Ahora tu peque podrá hacer mucho más con la guía Instructions Plus! en la app de LEGO gratuita, con intuitivos modos como acercamiento, giro y oculto
 - Pongamos las monturas y salgamos. ¡Arre! Tras el paseo, quitemos las monturas, cepillemos a los caballos y, después, ¡démosles unas golosinas!
+- Ahora tu peque podrá hacer mucho más con la guía Instructions Plus! en la app de LEGO gratuita, con intuitivos modos como acercamiento, giro y oculto
+- Este juguete creativo de construcción Disney Princess tiene un establo de 3 plantas con 5 habitaciones, 2 pequeñas caballerizas desmontables y una lámina con pegatinas
+- Los peques podrán explorar el establo principal con sus salas de trofeos y accesorios, limpiar las cabellerizas o visitar el acogedor ático para relajarse
+- Incluye 2 princesas Disney, Bella y Rapunzel, listas para trabajar y jugar con sus 2 figuras LEGO de caballos: Máximus y Philippe
+- Este set de construcción de Disney Princess, con detallados minipersonajes y figuras de caballos, ayuda a desarrollar importantes habilidades
 
 [🛒 Check the deal!!]({{< param buyurl >}})
