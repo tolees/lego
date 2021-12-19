@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71388 Super Mario Set de Expansión: Torre bamboleante del Hermano Sumo Jefe  Juguete de Construcción para Niños'
-date: 2021-12-18 00:21:23
+date: 2021-12-19 01:02:00
 image: 'https://m.media-amazon.com/images/I/51GH7Hm+pHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWSWV1W/?tag=tolees-21'
 descuento: '20.27'
-average: '25.1841666666667'
+average: '25.0861538461539'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- La app LEGO Super Mario gratuita tiene instrucciones de construcción, inspiración para construir y jugar de diferentes formas... ¡y mucho más!
 - Es un fantástico regalo para peques creativos a partir de 6 años que tengan un pack inicial de LEGO Super Mario (71360 o 71387), necesario para jugar
+- La app LEGO Super Mario gratuita tiene instrucciones de construcción, inspiración para construir y jugar de diferentes formas... ¡y mucho más!
 - Incorpora una torre construible que se vendrá abajo si una figura LEGO Mario y/o LEGO Luigi (no incluidas) pisa la palanca de la base
 - Incluye figuras de juguete de LEGO Super Mario de 2 emblemáticos enemigos: el Hermano Sumo Jefe, con brazos que se golpean el pecho, y una figura de Crowber
 - El juguete de construcción LEGO Super Mario ofrece a los fans infinitas formas de expandir, reconstruir y crear únicos niveles para jugar solo o en grupo
