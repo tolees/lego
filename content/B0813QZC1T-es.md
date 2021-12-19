@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- El kit de construcción integra ladrillos y elementos para principiantes que representan la base y las paredes, lo que facilita la construcción para que el divertido juego de interpretación de la vida en familia pueda comenzar inmediatamente. Simpáticos accesorios, como el minicuernito, estimulan el juego creativo
+- Este set de 170 piezas mide aproximadamente 16 cm de altura y 12 cm de anchura; por tanto, ocupa poco espacio expuesto. Además, como es compatible con otras piezas LEGO, las pequeñas constructoras podrán aumentar la diversión agregando otros sets que tengan en casa
 - Anima a tu peque constructora para que disfrute del juego imaginativo con el set Casa de Stephanie 4+ (41398). A las niñas preescolares les encantará construir la casa y, a continuación, jugar con ella, recrear escenas de la serie para televisión LEGO Friends o inventar una de su propia imaginación
 - Este juguete infantil incluye mini muñecas de LEGO Friends Stephanie, Alicia y James, un perro y todos los bricks necesarios para construir una casa de 2 pisos con una habitación, cuarto de baño, cocina, comedor y columpio para el jardín
-- Este set de 170 piezas mide aproximadamente 16 cm de altura y 12 cm de anchura; por tanto, ocupa poco espacio expuesto. Además, como es compatible con otras piezas LEGO, las pequeñas constructoras podrán aumentar la diversión agregando otros sets que tengan en casa
 - Es una idea de regalo de Navidad original para niñas y niños de +4 años a las que les gusta interpretar escenas familiares
+- El kit de construcción integra ladrillos y elementos para principiantes que representan la base y las paredes, lo que facilita la construcción para que el divertido juego de interpretación de la vida en familia pueda comenzar inmediatamente. Simpáticos accesorios, como el minicuernito, estimulan el juego creativo
 
 [🛒 Buy it!!]({{< param buyurl >}})
