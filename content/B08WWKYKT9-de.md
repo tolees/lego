@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75314 Star Wars Angriffsshuttle aus The Bad Batch  Bauset für Kinder ab 9 Jahren mit 5 Klon-Minifiguren und Gonk-Droiden'
-date: 2021-12-18 09:19:28
+date: 2021-12-19 13:34:21
 image: 'https://m.media-amazon.com/images/I/51kKmLX4knS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWKYKT9/?tag=tolees0ca-21'
 descuento: '35.09'
-average: '74.2877777777778'
+average: '73.349'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Es enthält 2 Shooter und eine hochklappbare Rückflosse für Zugang zum LEGO-Minifiguren-Zweiercockpit und zur detailreichen Kabine
 - Das detailreiche Star-Wars-LEGO-Spielzeug ist eine LEGO-Stein-Version eines Angriffsshuttles mit verstellbaren Flügen aus Star Wars: The Bad Batch
+- Das Spielzeug hat verstellbare Flügel für Lande- und Flugmodus sowie eine Heckkabine mit Platz für 2 Minifiguren und Waffen
 - Das LEGO-Star-Wars-Set enthält außerdem einen Speeder mit 2 Shootern und einen weiteren Speeder mit Clip für einen Blaster und noch mehr Spielmöglichkeiten
 - Inklusive 5 LEGO-Star-Wars-Minifiguren (neu ab August 2021) – Tech, Echo, Hunter, Wrecker und Crosshair von den Bad-Batch-Klonen mit ausgewählten Waffen
-- Das Spielzeug hat verstellbare Flügel für Lande- und Flugmodus sowie eine Heckkabine mit Platz für 2 Minifiguren und Waffen
-- Es enthält 2 Shooter und eine hochklappbare Rückflosse für Zugang zum LEGO-Minifiguren-Zweiercockpit und zur detailreichen Kabine
 
 [🛒 Buy it now!!]({{< param buyurl >}})
