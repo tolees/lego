@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthalten sind eine Pferde Figur mit beweglichem Kopf, eine Fohlen Figur, ein Auto mit Anhänger und Stallungen, so dass es viele Möglichkeiten zum Spielen gibt
 - Dieses kreative Spielzeug für Mädchen und Jungen ab 4 Jahre wird auch mit 2 Startbausteinen geliefert, die eine teilweise konstruierte Basis für das Auto und die Ställe bieten
 - Das LEGO Friends Pferdestall Spielzeug wird mit Putzzeug, Hindernissen und Trainingszügel geliefert, mit dem Kinder dem Pferd beibringen können, an der Longe zu laufen
 - Dieses LEGO Friends Pferde Spielzeug für Kinder ab 4 Jahren enthält außerdem Stallungen zum Unterstellen der Pferde und eine Mistgabel zum Reinigen der Ställe
 - Mit dabei sind zwei LEGO Friends Mini-Puppen Emma und Stephanie im Reitoutfit, plus Zubehör: ein Apfel und eine Karotte zum Füttern der Pferde
+- Enthalten sind eine Pferde Figur mit beweglichem Kopf, eine Fohlen Figur, ein Auto mit Anhänger und Stallungen, so dass es viele Möglichkeiten zum Spielen gibt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
