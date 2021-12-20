@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41444 Friends Heartlake City Bio-Café Set  Restaurant Spielzeug ab 6 Jahren mit Mia und Anderen Mini Puppen  Lernspielzeug'
-date: 2021-12-19 09:09:35
+date: 2021-12-20 09:42:53
 image: 'https://m.media-amazon.com/images/I/51JP72tKL0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G44DS1X/?tag=tolees0ca-21'
 descuento: '36.25'
-average: '22.0844881889765'
+average: '22.0613281250001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
