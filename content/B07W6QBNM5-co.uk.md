@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more!
-- Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
 - Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
 - Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
 - Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
+- Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
 
 [🛒 Check the deal!!]({{< param buyurl >}})
