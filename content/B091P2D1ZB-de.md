@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Neben dem Wachtturm steht ein Katapult. Zum mittelalterlichen Marktplatz gehören auch eine Wassermühle, ein Turm und ein Kerker.
-- Dieses 1.426-teilige LEGO Creator 3-in-1-Spielset stellt kreative Kinder ab 9 Jahren vor eine anspruchsvolles Bauherausforderung und ist ein tolles Geburtstags- oder Weihnachtsgeschenk.
 - Dieses Mittelalter-Spielset beinhaltet drei Minifiguren - einen Schmied und zwei Wächter mit beeindruckender Ausrüstung für spannende Abenteuer.
+- Neben dem Wachtturm steht ein Katapult. Zum mittelalterlichen Marktplatz gehören auch eine Wassermühle, ein Turm und ein Kerker.
 - Mithilfe von Scharnieren lässt sich die Rückseite der Burg aufklappen. Die Burg verfügt über zwei Geschosse, ein aufklappbares Tor, eine Schmiede, eine Wassermühle, einen Königsaal und einen Kerker.
 - Das LEGO Creator 3-in-1-Bauset ,,Mittelalterliche Burg begeistert fantasievolle Kinder mit drei Modellen in einer Box - einer Mittelalterlichen Burg, einem Wachtturm und einem mittelalterlichen Markplatz.
+- Dieses 1.426-teilige LEGO Creator 3-in-1-Spielset stellt kreative Kinder ab 9 Jahren vor eine anspruchsvolles Bauherausforderung und ist ein tolles Geburtstags- oder Weihnachtsgeschenk.
 
 [🛒 Buy it!!]({{< param buyurl >}})
