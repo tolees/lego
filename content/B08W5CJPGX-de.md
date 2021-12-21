@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 10774 Mickys und Minnies Weltraumra at 26.56 % discount'
-date: 2021-12-10 17:16:35
+title: 'LEGO 10774 Mickys und Minnies Weltraumrakete Spielzeug zum Bauen für Kinder ab 4 Jahren  Raketenspielzeug'
+date: 2021-12-21 21:38:39
 image: 'https://m.media-amazon.com/images/I/51tkoKXJ5FS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08W5CJPGX/?tag=tolees0ca-21'
 descuento: '26.56'
-average: '16.2075'
+average: '16.09'
 ---
 
-With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 10774 Mickys und Minnies Weltraumrakete Spielzeug zum Bauen für Kinder ab 4 Jahren  Raketenspielzeug](https://www.amazon.de/dp/B08W5CJPGX/?tag=tolees0ca-21) with a  26.56 % discount here:
+With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
 
-[![LEGO 10774 Mickys und Minnies Weltraumra](https://m.media-amazon.com/images/I/51tkoKXJ5FS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08W5CJPGX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
@@ -34,4 +34,4 @@ With a final price of 14.68 EUR (original: 19.99 EUR) you can find [LEGO 10774 M
 - Als Zubehör zum Raketenspielzeug gibt es einen großen Felsen, der sich öffnen lässt und einen Außerirdischen in sich birgt, sowie eine Kamera und eine kleine Flagge
 - Mit dem Spielzeug für Kinder können sie Micky helfen, Weltraumfelsen zu sammeln, damit Minnie sie in der Raumstation untersuchen kann und das Alien hinter dem Felsen entdecken
 
-[🛒 Buy it!!](https://www.amazon.de/dp/B08W5CJPGX/?tag=tolees0ca-21)
+[🛒 Buy it!!]({{< param buyurl >}})
