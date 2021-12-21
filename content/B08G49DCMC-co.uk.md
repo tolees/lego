@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App'
-date: 2021-12-18 08:48:17
+date: 2021-12-21 08:29:17
 image: 'https://m.media-amazon.com/images/I/51Dj9if5bwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G49DCMC-co.uk LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker...'
 sku: 'B08G49DCMC-co.uk'
 tags: [ 'Collectible Figures & Accessories','Collectible Figures & Memorabilia','Hobbies','Toy Busts','Toys & Games','Toys Store','lego', ]
-actualPrice: 11.93 GBP
+actualPrice: 11.77 GBP
 currency: GBP
-price: 11.93
+price: 11.77
 comparePrice: 17.99 GBP
 prodname: 'LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G49DCMC/?tag=tolees0a-21'
-descuento: '33.69'
-average: '10.8610135135135'
+descuento: '34.57'
+average: '10.8736'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76899 Speed Champions Lamborghini Urus ST-X & Huracán Super Trofeo EVO Race Cars Toys Set for 8 Years Old'
-date: 2021-12-12 08:53:29
+date: 2021-12-21 08:28:53
 image: 'https://m.media-amazon.com/images/I/51vHBkfYnDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W6Q9G1Y/?tag=tolees0a-21'
 descuento: '29.08'
-average: '45.8147982062781'
+average: '45.7843750000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This toy cars set for kids 8+ years old includes 2 racing driver minifigures to recreate all the thrills and spills of the racetrack
-- The powerful Lamborghini Urus ST-X triumph combines race circuit and off-road track and comes with lateral racing exhausts and green livery
 - LEGO Speed Champions race car toys are now 25% bigger and more realistic than ever to car fans delight
-- Features 2 brilliantly detailed Lamborghini toy cars for racing action, these replicas come with a starting line with ’lights’ for more fun
+- The powerful Lamborghini Urus ST-X triumph combines race circuit and off-road track and comes with lateral racing exhausts and green livery
 - The sleek Lamborghini Huracán has a new black & gold livery embellished with gold details and realistic stickers to mark superb aerodynamics
+- Features 2 brilliantly detailed Lamborghini toy cars for racing action, these replicas come with a starting line with ’lights’ for more fun
+- This toy cars set for kids 8+ years old includes 2 racing driver minifigures to recreate all the thrills and spills of the racetrack
 
 [🛒 Buy it now!!]({{< param buyurl >}})

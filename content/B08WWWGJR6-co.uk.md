@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21172 Minecraft The Ruined Portal Toy with Steve and Wither Skeleton Figures  Building Set for Kids 8+ Years Old'
-date: 2021-12-18 16:35:28
+date: 2021-12-21 08:30:26
 image: 'https://m.media-amazon.com/images/I/51Jh0AkwRoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWWGJR6/?tag=tolees0a-21'
 descuento: '33.98'
-average: '19.54'
+average: '19.2371428571428'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Minecraft toy for kids 8+ years old features a buildable portal with hand-activated perilous, interdimensional gateway
 - Includes popular Minecraft figure Steve plus familiar figures: a baby sheep, baby hoglin and a wither skeleton to battle with
+- Steve needs a new set of netherite armour, so kids mine gold for the furnace, then craft Steve’s new helmet, armour and sword
+- This LEGO Minecraft toy for kids 8+ years old features a buildable portal with hand-activated perilous, interdimensional gateway
 - Kids mine obsidian rock to repair a ruined portal and pass through it into the fiery red Nether where a wither skeleton and hoglin are waiting
 - The ancient portal, one of the most thrilling aspects of Minecraft, takes players through into never-ending imaginary new adventures
-- Steve needs a new set of netherite armour, so kids mine gold for the furnace, then craft Steve’s new helmet, armour and sword
 
 [🛒 Buy it now!!]({{< param buyurl >}})
