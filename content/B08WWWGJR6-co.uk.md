@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Includes popular Minecraft figure Steve plus familiar figures: a baby sheep, baby hoglin and a wither skeleton to battle with
-- Steve needs a new set of netherite armour, so kids mine gold for the furnace, then craft Steve’s new helmet, armour and sword
 - This LEGO Minecraft toy for kids 8+ years old features a buildable portal with hand-activated perilous, interdimensional gateway
-- Kids mine obsidian rock to repair a ruined portal and pass through it into the fiery red Nether where a wither skeleton and hoglin are waiting
 - The ancient portal, one of the most thrilling aspects of Minecraft, takes players through into never-ending imaginary new adventures
+- Steve needs a new set of netherite armour, so kids mine gold for the furnace, then craft Steve’s new helmet, armour and sword
+- Kids mine obsidian rock to repair a ruined portal and pass through it into the fiery red Nether where a wither skeleton and hoglin are waiting
 
 [🛒 Buy it now!!]({{< param buyurl >}})

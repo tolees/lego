@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- With shoelaces and authentic shoe box-style packaging, this LEGO shoe model building set is a real tribute to the original adidas trainer
 - Packed with authentic details like the famous shell toe, 3 serrated stripes, adidas logo on the tongue and other Originals Superstar graphics
-- This LEGO model building set for adults includes extra elements so you can choose to build either a right foot or left foot trainer
 - Celebrate 1980s’ hip-hop paying tribute to a notable era in music and streetwear culture with this LEGO adidas trainers set for adults
 - This model kit is ideal for anyone who loves streetwear collectibles and makes a great birthday or Christmas gift for adult LEGO builders looking for a project with a difference
+- With shoelaces and authentic shoe box-style packaging, this LEGO shoe model building set is a real tribute to the original adidas trainer
+- This LEGO model building set for adults includes extra elements so you can choose to build either a right foot or left foot trainer
 
 [🛒 Buy it now!!]({{< param buyurl >}})

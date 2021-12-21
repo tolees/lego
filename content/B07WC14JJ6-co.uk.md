@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This toy for girls and boys 6+ year old comes with the LEGO Life app to access Instructions Plus with rotate, zoom and ‘ghost’ modes
 - The mini doll toy camp is decorated with a garland of lights, so take a photo of the cute tent with a smartphone, then send pics to friends
 - The playset includes beds, stools, a cupboard with a hairbrush and lipstick stand, a lantern, torch, binoculars, even cherries in drinks!
-- Let kids camp in style and hang out with friends with this glamping LEGO tent toy set, a great Christmas or birthday gift for kids 6+ years old
-- This toy for girls and boys 6+ year old comes with the LEGO Life app to access Instructions Plus with rotate, zoom and ‘ghost’ modes
 - Features 3 play sections: a fully equipped tent with a soft plastic roof, a pretend campfire with a telescope, and a hot tub under a tree
+- Let kids camp in style and hang out with friends with this glamping LEGO tent toy set, a great Christmas or birthday gift for kids 6+ years old
 - Includes 2 mini dolls Mia and Olivia, and a squirrel figure who lives in the tree house! Also, a bike with a helmet, and a speaker to chill out
 
 [🛒 Check the deal!!]({{< param buyurl >}})
