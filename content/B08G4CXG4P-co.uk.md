@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The shuttles main compartment has an opening with space for 2 LEGO minifigures to play out scenes from the classic Star Wars trilogy
-- The Star Wars shuttle building toy features an opening minifigure cockpit, foldable wings for flight and landing mode, plus 2 stud shooters
-- This LEGO Star Wars building toy comes with easy-to-follow instructions, so LEGO beginners will soon be building with Jedi-like confidence
-- Includes 3 LEGO Star Wars minifigures: Darth Vader & Luke Skywalker with Star Wars lightsabers, and an Imperial Officer with a blaster pistol
-- This action-packed LEGO Star Wars set looks awesome on display, it also includes a handcuffs accessory for additional fun, creative play
 - LEGO Star Wars sets with Star Wars minifigures are an excellent birthday present or Christmas gift idea for all fans of the series!
+- This LEGO Star Wars building toy comes with easy-to-follow instructions, so LEGO beginners will soon be building with Jedi-like confidence
+- This action-packed LEGO Star Wars set looks awesome on display, it also includes a handcuffs accessory for additional fun, creative play
+- The Star Wars shuttle building toy features an opening minifigure cockpit, foldable wings for flight and landing mode, plus 2 stud shooters
+- Includes 3 LEGO Star Wars minifigures: Darth Vader & Luke Skywalker with Star Wars lightsabers, and an Imperial Officer with a blaster pistol
+- The shuttles main compartment has an opening with space for 2 LEGO minifigures to play out scenes from the classic Star Wars trilogy
 
 [🛒 Buy it!!]({{< param buyurl >}})
