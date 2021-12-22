@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75318 Star Wars: The Mandalorian The Child Baby Yoda Figure Gift Idea'
-date: 2021-12-15 20:41:32
+date: 2021-12-22 12:50:24
 image: 'https://m.media-amazon.com/images/I/51mskejaB7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B085WV2WGC/?tag=tolees0a-21'
 descuento: '24.99'
-average: '72.3521830985916'
+average: '72.2133566433567'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Alse features an information sign and the Child LEGO minifigure to complete a striking build-and-display model for 10+ years old fans
-- Easy-to-follow instructions depict multi-directional building steps, with a frame and sections clipped to the side using the SNOT technique
-- The set also includes a gearshift knob from the Razor Crest spaceship – the Child’s favorite toy – which can be placed in its hand
 - The cutest character in the galaxy has posable head, mouth and ears for a range of lovable expressions, bringing it to life when playing!
 - Features a charming, brick-built toy model of The Child, aka Baby Yoda, from Star Wars: The Mandalorian, with all of its cute features
+- Easy-to-follow instructions depict multi-directional building steps, with a frame and sections clipped to the side using the SNOT technique
+- The set also includes a gearshift knob from the Razor Crest spaceship – the Child’s favorite toy – which can be placed in its hand
+- Alse features an information sign and the Child LEGO minifigure to complete a striking build-and-display model for 10+ years old fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
