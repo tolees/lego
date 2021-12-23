@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Fuoristrada X-treme 4x4  Camion Giocattolo Telecomandato  RC Car  Regali per Bambini di 11+ Anni  42099'
-date: 2021-12-20 02:26:47
+date: 2021-12-23 02:37:28
 image: 'https://m.media-amazon.com/images/I/512y9TUzRUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07ND6CFHZ/?tag=tolees00-21'
 descuento: '15.20'
-average: '198.61'
+average: '198.599181818182'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Robusto fuoristrada LEGO controllato da app con grandi sospensioni indipendenti, enormi cerchi e pneumatici.
+- Il Fuoristrada X-treme 4x4 controllato da app LEGO è comandato tramite dispositivo smart con 3 schermate alternative.
+- Questo modello di fuoristrada giocattolo è controllato tramite l’app LEGO TECHNIC CONTROL+ e alimentato da uno Smart Hub avanzato con 2 motori XL e 1 motore L per un’esperienza di gioco più coinvolgente, movimenti autentici e ore e ore di divertimento.
+- Sfide e successi: Completa le sfide per sbloccare i badge premio.
 - Visita LEGO.com/devicecheck per un elenco dei dispositivi smart compatibili. Controllo multifunzione: Guida in avanti, indietro, sterza, accelera, frena, supera ostacoli, riproduci effetti sonori e ottieni feedback in tempo reale, per esempio con il registro dei dati su velocità e inclinazione.
+- Robusto fuoristrada LEGO controllato da app con grandi sospensioni indipendenti, enormi cerchi e pneumatici.
 - Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività.
 - Controllo one-touch: Trascina una direzione sullo schermo e guarda il fuoristrada effettuare la manovra.
-- Il Fuoristrada X-treme 4x4 controllato da app LEGO è comandato tramite dispositivo smart con 3 schermate alternative.
-- Sfide e successi: Completa le sfide per sbloccare i badge premio.
-- Questo modello di fuoristrada giocattolo è controllato tramite l’app LEGO TECHNIC CONTROL+ e alimentato da uno Smart Hub avanzato con 2 motori XL e 1 motore L per un’esperienza di gioco più coinvolgente, movimenti autentici e ore e ore di divertimento.
 
 [🛒 Buy it!!]({{< param buyurl >}})
