@@ -31,7 +31,7 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Special effects include a magic spell that changes items into random objects or making a magic forest appear in the scene
 - Includes a fairy minifigure, 14 random BeatBits and 2 special BeatBits. Kids can choose from a flower, fairy wings or violin designs
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
-- The LEGO VIDIYO Folk Fairy BeatBox music video maker set changes kids living rooms into a folk concert stage with an augmented reality app
 - Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
+- The LEGO VIDIYO Folk Fairy BeatBox music video maker set changes kids living rooms into a folk concert stage with an augmented reality app
 
 [🛒 Buy it now!!]({{< param buyurl >}})
