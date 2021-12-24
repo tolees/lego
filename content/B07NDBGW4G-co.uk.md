@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes 3 XL Motors, 4 L Motors and 2 Bluetooth-controlled Smart Hubs.
-- Replica of the Liebherr R 9800 Excavator with an array of true-to-life features and functions, finished with an authentic color scheme and cool sticker detailing.
-- The app-controlled LEGO Technic Liebherr R 9800 Excavator is operated via a smart device with 4 alternative control screens. Go to LEGO.com/devicecheck for a list of compatible smart devices.
-- Multi-function control: Drive forward, reverse, steer, rotate the superstructure, extend, raise and lower the boom, open and tilt the bucket and get model feedback, such as boom and superstructure position, power usage and drive distance.
-- One-touch control: Select an on-screen drag pattern and see the excavator respond to your command.
-- Challenges & achievements: Complete challenges to unlock reward badges.
 - Smart Hubs feature Bluetooth Low Energy (BLE) connectivity, activation button, a 6 axis sensor and 4 connectivity ports.
-- Custom-built movements: Use pre-set commands or record the model’s actions to create complex sequences of movements.
+- One-touch control: Select an on-screen drag pattern and see the excavator respond to your command.
+- The app-controlled LEGO Technic Liebherr R 9800 Excavator is operated via a smart device with 4 alternative control screens. Go to LEGO.com/devicecheck for a list of compatible smart devices.
 - This excavator model features the LEGO TECHNIC CONTROL+ app for a more immersive and realistic play experience and hours of fun.
+- Replica of the Liebherr R 9800 Excavator with an array of true-to-life features and functions, finished with an authentic color scheme and cool sticker detailing.
 - The app allows users to connect to multiple hubs, ensuring precise and true-to-life movements.
+- Challenges & achievements: Complete challenges to unlock reward badges.
+- Custom-built movements: Use pre-set commands or record the model’s actions to create complex sequences of movements.
+- Multi-function control: Drive forward, reverse, steer, rotate the superstructure, extend, raise and lower the boom, open and tilt the bucket and get model feedback, such as boom and superstructure position, power usage and drive distance.
+- Includes 3 XL Motors, 4 L Motors and 2 Bluetooth-controlled Smart Hubs.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

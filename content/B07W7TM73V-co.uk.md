@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- The playset accessories include handcuffs, a skateboard, torch, sticks of dynamite to blow bars away and a ping-pong table in the station
+- Features 4-sections, 2 storeys police headquarters station with jailbreak explosion function, 2 truck toys, a motorcycle and a drone toy
 - Includes 7 minifigures: Duke DeTain, Chief Wheeler, Daisy Kaboom, 2 police officers, 2 crooks, plus a bulldog and police dog figures
 - Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 - Includes a light-brick searchlight, working roof lights and siren, plus lever-activated jailbreak function to add effects to the chase play
-- The playset accessories include handcuffs, a skateboard, torch, sticks of dynamite to blow bars away and a ping-pong table in the station
-- Features 4-sections, 2 storeys police headquarters station with jailbreak explosion function, 2 truck toys, a motorcycle and a drone toy
 
 [🛒 Check the deal!!]({{< param buyurl >}})
