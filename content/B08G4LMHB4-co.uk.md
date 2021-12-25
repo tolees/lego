@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Kids can lower the trailer ramps and unload the supercool Baja buggy, then lift the cage and climb aboard while putting on a safety helmet
-- High-speed thrills await 2 LEGO driver minifigures as the Baja buggy race car can be steered in all directions by tilting it left and right
-- Features a toy SUV LEGO off-roader with seats for 2 minifigures & trailer with fold-down ramps for transporting the steerable Baja race buggy
-- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
 - The time has arrived to break records... it’s race day! LEGO accessories include a toy race helmet, fire extinguisher, wrench and a hammer
+- Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- High-speed thrills await 2 LEGO driver minifigures as the Baja buggy race car can be steered in all directions by tilting it left and right
+- Kids can lower the trailer ramps and unload the supercool Baja buggy, then lift the cage and climb aboard while putting on a safety helmet
+- Features a toy SUV LEGO off-roader with seats for 2 minifigures & trailer with fold-down ramps for transporting the steerable Baja race buggy
 - This LEGO toy car transporter with a toy truck and race car makes a wonderful birthday present or Christmas gift idea for kids 5+ years old
 
 [🛒 Buy it!!]({{< param buyurl >}})
