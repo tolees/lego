@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can perform crowd-thrilling stunts and high-flying tricks on the quarter pipe, while the BMX rider proves balance on the seesaw ramp
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
-- Accessories include helmets for skaters, a mobile phone and Vita Rush soda elements for the athletes to enjoy before they show off their skills
+- Kids can perform crowd-thrilling stunts and high-flying tricks on the quarter pipe, while the BMX rider proves balance on the seesaw ramp
 - Features a pop-up toy skate park with barriers, flags, ramps, a seesaw, a truck and a palm tree, plus a LEGO Road Plate to expand LEGO city
+- Accessories include helmets for skaters, a mobile phone and Vita Rush soda elements for the athletes to enjoy before they show off their skills
 - 4 LEGO minifigures include a wheelchair athlete, skater, BMX rider and a Vita Rush she-seller, with soda drinks to stage sport events
 
 [🛒 Check the deal!!]({{< param buyurl >}})

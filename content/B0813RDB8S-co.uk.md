@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Check out other LEGO Ninjago Legacy Storm set - Destinys Bounty (71705), from Masters of Spinjitzu TV series 3
-- Kais fighter toy jet from season 3 of the TV series features folding wings, an adjustable cockpit and 2 spring-loaded shooters
 - Kids will be thrilled to build this action-packed, highly posable jet playset before enjoying hours of independent play or fun with friends
 - Includes 4 LEGO NINJAGO minifigures: ninjas Lloyd and Kai and 2 Nindroid Warrior action figures with a shooter and scary weapons!
+- Kais fighter toy jet from season 3 of the TV series features folding wings, an adjustable cockpit and 2 spring-loaded shooters
+- Check out other LEGO Ninjago Legacy Storm set - Destinys Bounty (71705), from Masters of Spinjitzu TV series 3
 - Kids can move the jets wings before taking off, launch missiles from the jet’s spring-loaded shooters and fight battles from the cockpit
 
 [🛒 Buy it now!!]({{< param buyurl >}})
