@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids learn to build as they role-play working in a café, delivering cakes on a cool scooter and hanging out with their friends
-- Give kids 4+ years old more fun experiences with digital Instructions PLUS! Zoom, rotate, ghost and save modes help make building a breeze
-- Features an easy-to-build bakery with outdoor café garden setting and Starter Bricks to help get the building going for more time to play!
 - This snack-sized bakery set features Stephanie and Olivia minidolls, a cute dog figure, and a delivery scooter for limitless role-play fun
+- Features an easy-to-build bakery with outdoor café garden setting and Starter Bricks to help get the building going for more time to play!
+- Give kids 4+ years old more fun experiences with digital Instructions PLUS! Zoom, rotate, ghost and save modes help make building a breeze
 - Packed with bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
+- Kids learn to build as they role-play working in a café, delivering cakes on a cool scooter and hanging out with their friends
 
 [🛒 Check the deal!!]({{< param buyurl >}})

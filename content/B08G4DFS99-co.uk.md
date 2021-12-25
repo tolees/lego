@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO NINJAGO provides a fun toy build for kids aged 8 and up and will make a very welcome birthday or holiday present for ninja lovers
-- The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
-- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
 - Includes 5 minifigures: Island Cole, Island Jay, Island Kai, Chief Mammatus and Thunder Keeper, all wielding cool weapons
+- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
+- The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
 - Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
 
 [🛒 Check the deal!!]({{< param buyurl >}})

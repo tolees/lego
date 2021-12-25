@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
 - Includes 3 minifigures: a plants worker, firefighter helicopter pilot and the LEGO City Adventures TV series hero Clemmons
+- LEGO toy accessories include a stretcher (stored in the helicopter’s cargo hold), firefighter helmet, wrench and a safety helmet
 - This LEGO Fire Rescue building set is an impressive birthday present, Christmas gift or any time treat for kids 5+ years old
 - Kids can stack the flames to create big fires, then shoot the helicopter’s water cannon elements to put them out at the top of the tower!
-- LEGO toy accessories include a stretcher (stored in the helicopter’s cargo hold), firefighter helmet, wrench and a safety helmet
 - Includes a 5+ building guide and Instructions PLUS with digital tools, part of the free LEGO Building Instructions app for smart devices
+- Features a fire rescue toy helicopter, motorbike, power station setting and LEGO fires for firefighting adventures at the industrial park
 
 [🛒 Buy it!!]({{< param buyurl >}})

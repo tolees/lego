@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids will love the cars button to operate the front steering, opening doors and hood, and prestigious Jeep Wrangler Rubicon branding
-- Features Jeep Wrangler SUV car model with an eye-catching, realistic yellow-and-black colour scheme that looks great in action or on display
 - This LEGO Technic 4x4 off roader model makes a great birthday present or Christmas gift for kids and young LEGO fans ready for their next challenge
+- Features Jeep Wrangler SUV car model with an eye-catching, realistic yellow-and-black colour scheme that looks great in action or on display
 - This model car to build with its front steering, powerful axle-articulation suspension and a winch, brings loads of off-roading adventures
 - Includes authentic Jeep Wrangler details, like the classic round headlights, seven-slot grille, full-size spare tyre and fold-down back seats
+- Kids will love the cars button to operate the front steering, opening doors and hood, and prestigious Jeep Wrangler Rubicon branding
 
 [🛒 Check the deal!!]({{< param buyurl >}})

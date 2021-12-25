@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Kids can rip open the cell to let the crook escape, then launch the new-for-January-2020 police helicopter that really flies into the air!
+- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 - The transporter truck has a detailed driver’s cab, mobile prison cell, computer and road barriers with many realistic details
 - Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
+- Kids can rip open the cell to let the crook escape, then launch the new-for-January-2020 police helicopter that really flies into the air!
 - The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
-- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
 
 [🛒 Buy it!!]({{< param buyurl >}})
