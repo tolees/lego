@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Set de Construcción  Niños +10 Años Originales  Modelo Coleccionable'
-date: 2021-12-24 02:33:12
+date: 2021-12-25 08:21:29
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
 descuento: '17.39'
-average: '98.7247524752474'
+average: '98.7194774011298'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Este modelo coleccionable inspirado en Star Wars: El Ataque de los Clones es fantástico como un regalo original de Navidad, de cumpleaños o cualquier otra ocasión para niños a partir de 10 años, en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
-- ¡Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set!
 - Cuenta con elaborados detalles, cabeza y cejas articuladas, dedos de las manos y los pies móviles, la espada láser verde de Yoda y, además, una placa de características con información sobre el Maestro Jedi y una base para exponer la minifigura de Yoda incluida con su espada láser
 - La figura LEGO Star Wars de Yoda con la espada láser mide más de 41 cm de altura
+- ¡Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
