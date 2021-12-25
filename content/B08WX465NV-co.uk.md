@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43109 VIDIYO Metal Dragon BeatBox Music Video Maker Musical Toy for Kids  Augmented Reality Set with App'
-date: 2021-12-24 16:57:24
+date: 2021-12-25 20:52:09
 image: 'https://m.media-amazon.com/images/I/51OdIBrd3AS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WX465NV/?tag=tolees0a-21'
 descuento: '37.63'
-average: '10.5826086956523'
+average: '10.5917142857144'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This Metal Dragon BeatBox music video maker set reveals a heavy metal music minifigure dragon concert persona in the augmented reality app
 - Inside the BeatBox, there’s space to store the brick-built scan stage; the box folds up so kids can take the musical toy wherever they go
 - Includes a dragon singer minifigure, 14 random BeatBits and 2 special BeatBits, and the toy microphone
 - Search LEGO VIDIYO on App Store or Google play to download and check on the app before purchasing a set
+- This Metal Dragon BeatBox music video maker set reveals a heavy metal music minifigure dragon concert persona in the augmented reality app
 - Check your devices compatibility by downloading the free app and recording your first music video with the free digital Bandmate
 
 [🛒 Buy it now!!]({{< param buyurl >}})
