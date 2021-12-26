@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71747 NINJAGO The Keepers  Village Building Set  with Ninja Cole  Jay and Kai Minifigures  Toys for Kids 8 + Years Old'
-date: 2021-12-25 08:56:22
+date: 2021-12-26 12:58:40
 image: 'https://m.media-amazon.com/images/I/51vrXUI2zuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4DFS99/?tag=tolees0a-21'
 descuento: '33.34'
-average: '33.2408333333333'
+average: '32.9907692307692'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO NINJAGO provides a fun toy build for kids aged 8 and up and will make a very welcome birthday or holiday present for ninja lovers
-- Includes 5 minifigures: Island Cole, Island Jay, Island Kai, Chief Mammatus and Thunder Keeper, all wielding cool weapons
 - The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
 - The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
+- LEGO NINJAGO provides a fun toy build for kids aged 8 and up and will make a very welcome birthday or holiday present for ninja lovers
 - Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
+- Includes 5 minifigures: Island Cole, Island Jay, Island Kai, Chief Mammatus and Thunder Keeper, all wielding cool weapons
 
 [🛒 Check the deal!!]({{< param buyurl >}})
