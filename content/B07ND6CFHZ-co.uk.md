@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42099 Technic Control+ 4x4 X-treme Off-Roader Truck  App Controlled Construction Set  Interactive Motors and Bluetooth Connectivity'
-date: 2021-12-24 01:46:34
+date: 2021-12-26 01:53:09
 image: 'https://m.media-amazon.com/images/I/51FgCFo+lPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07ND6CFHZ/?tag=tolees0a-21'
 descuento: '20.00'
-average: '164.544724689162'
+average: '164.536648936167'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
