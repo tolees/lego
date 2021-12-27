@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Ensemble de Construction  modèle à Collectionner avec présentoir  Collection L attaque des Clones'
-date: 2021-12-26 03:20:50
+date: 2021-12-27 03:44:30
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21'
 descuento: '25.00'
-average: '90.0476940639272'
+average: '90.0475626423693'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

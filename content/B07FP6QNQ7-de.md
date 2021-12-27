@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgeschrittene  Exklusives Sammlerstück'
-date: 2021-12-26 03:08:04
+date: 2021-12-27 03:33:20
 image: 'https://m.media-amazon.com/images/I/51HeFLHMdqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21'
 descuento: '24.73'
-average: '115.122029459899'
+average: '115.118398692808'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das Porsche 911 RSR Modell ist 13 cm hoch, 50 cm lang und 20 cm breit.
-- Dieses Spielzeugauto zum Sammeln überzeugt mit einer authentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details.
-- LEGO Technic Sets bewegen sich wirklichkeitsgetreu und besitzen realistische Mechanismen, die die jungen LEGO Baumeister und Baumeisterinnen auf verständliche und realitätsnahe Weise in die Welt der Technik einführen.
-- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an.
-- Öffne die Türen und und greife auf das Cockpit zu, das mit zahlreichen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, einer Feuerlöschanlage und einer Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht.
-- Geeignet für Kinder ab 10 Jahren.
 - Dieses LEGO Technic Modell bietet ein fesselndes und lohnendes Bauerlebnis.
+- Öffne die Türen und und greife auf das Cockpit zu, das mit zahlreichen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, einer Feuerlöschanlage und einer Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht.
+- Dieses Spielzeugauto zum Sammeln überzeugt mit einer authentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details.
+- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an.
+- LEGO Technic Sets bewegen sich wirklichkeitsgetreu und besitzen realistische Mechanismen, die die jungen LEGO Baumeister und Baumeisterinnen auf verständliche und realitätsnahe Weise in die Welt der Technik einführen.
 - Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle authentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder- und Rücklichter. Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben.
+- Geeignet für Kinder ab 10 Jahren.
 - Dieses Set enthält 1.580 Teile.
+- Das Porsche 911 RSR Modell ist 13 cm hoch, 50 cm lang und 20 cm breit.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
