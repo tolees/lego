@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zu den rekonfigurierbaren Optionen gehören ein großer Raum mit Falltür, ein Magie-Übungsraum, eine Dachterrasse, ein Balkonraum und einer mit Teufelsschlangenanlage
-- Das Harry Potter Spielzeug enthält eine exklusive, goldene Hermine Granger Minifigur, um das 20-jährige Jubiläum der Zauberer zu feiern
 - Enthalten sind Harry Potter Minifiguren von Harry Potter, Hermine Granger und Ron Weasley sowie 2 zufällige Zauberer-Steinchen zum Sammeln (von insgesamt 16)
-- Dieses LEGO Harry Potter Set zum 20. Jubiläum besteht aus 5 separaten Modulen, die auf verschiedene Weise miteinander verbunden werden können und einem beweglichen Riesenhund mit 3 Köpfen
 - Dieses Spielzeug ab 8 Jahre gehört zu einer Reihe von modularen Sets, die kombiniert und neu angeordnet werden können, um ein eigenes Modell des Hogwarts-Schlosses bauen
+- Zu den rekonfigurierbaren Optionen gehören ein großer Raum mit Falltür, ein Magie-Übungsraum, eine Dachterrasse, ein Balkonraum und einer mit Teufelsschlangenanlage
+- Dieses LEGO Harry Potter Set zum 20. Jubiläum besteht aus 5 separaten Modulen, die auf verschiedene Weise miteinander verbunden werden können und einem beweglichen Riesenhund mit 3 Köpfen
 - Die Beine von Fluffy, dem 3-köpfigen Hund können in verschiedene Positionen gebracht werden und jeder der 3 beweglichen Köpfe zeigt einen anderen Ausdruck
+- Das Harry Potter Spielzeug enthält eine exklusive, goldene Hermine Granger Minifigur, um das 20-jährige Jubiläum der Zauberer zu feiern
 
 [🛒 Buy it now!!]({{< param buyurl >}})

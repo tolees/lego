@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Wer braucht schon Batterien, wenn Segel vorhanden sind? Dieser LEGO Katamaran gewiss nicht! Als Antrieb reicht ihm die Fantasie, Batterien sind also überflüssig
-- LEGO Steine entsprechen den höchsten Branchenstandards. LEGO Technic Bausets sind einheitlich und kompatibel und lassen sich stets mühelos zusammenbauen
+- Junge LEGO Fans können mit den LEGO Technic Modellbausätzen ein völlig neues Bauerlebnis entdecken. Das coole Bootsdesign und die realistischen Funktionen sorgen noch lange für Actionspaß
 - Das Segelboot ist 32 cm lang, 22 cm breit und 44 cm hoch (von der Unterkante des Ruders bis zur Mastspitze) und lässt sich leicht in der Badewanne manövrieren
-- LEGO Technic Elemente werden strengen Tests unterzogen, damit jedes Bauset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
 - Auf der Suche nach dem perfekten Geschenk für einen Fan von Spielzeug-Segelbooten? Dann ist der LEGO Technic Katamaran (42105) genau die richtige Wahl. Das Set ist für Kinder ab 8 Jahren gedacht und begeistert LEGO Fans, die eine neue Herausforderung suchen, sowie alle Segelfreunde
+- Wer braucht schon Batterien, wenn Segel vorhanden sind? Dieser LEGO Katamaran gewiss nicht! Als Antrieb reicht ihm die Fantasie, Batterien sind also überflüssig
 - Da dem Set eine Bauanleitung beiliegt, kann der Bauspaß sofort beginnen. Hast du Lust, das Rennboot zu bauen? Die Bauanleitung für die Rennversion ist online verfügbar
+- LEGO Steine entsprechen den höchsten Branchenstandards. LEGO Technic Bausets sind einheitlich und kompatibel und lassen sich stets mühelos zusammenbauen
 - Meistere das Handwerk eines Weltklasse-Rennseglers. Verstelle die Segel so, dass sie die bestmögliche Rennposition einnehmen. Lass die beiden Schwerter ins Wasser, um die maximale Stabilität zu erzielen. Lenke das Segelboot mit dem Ruder
 - Dieses 2-in-1-Set ist ideal, um sich weitere technische Fähigkeiten anzueignen. Das Modellsegelboot lässt Kinder bauen, spielen und etwas neues erschaffen. Und es gibt ihnen einen ersten Einblick, wie Boote wirklich funktionieren
 - Dieser schwimmfähige Spielzeug-Katamaran fühlt sich auch im Wasser pudelwohl. Er verfügt über jede Menge realistische Details, unter anderem auch über 2 Segel, 2 Schwerter und ein Ruder
-- Junge LEGO Fans können mit den LEGO Technic Modellbausätzen ein völlig neues Bauerlebnis entdecken. Das coole Bootsdesign und die realistischen Funktionen sorgen noch lange für Actionspaß
+- LEGO Technic Elemente werden strengen Tests unterzogen, damit jedes Bauset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
 
 [🛒 Buy it now!!]({{< param buyurl >}})

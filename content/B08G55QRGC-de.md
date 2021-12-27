@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das Set ist vollgepackt mit lustigem Zubehör wie einer Einladung zum Ball, einem Zauberstab, einer Krone und Glasschuh, mit denen du deine Lieblingsszenen nachspielen kannst
 - Dieses Pferdespielzeug mit 2 LEGO-Pferde-Figuren ist ein aufregendes Geburtstags- oder Weihnachtsgeschenk für Jungen und Mädchen ab 6 Jahren
 - Enthält eine gedruckte Bauanleitung + die digitalen Instructions PLUS in der LEGO Building Instructions App, mit der du die Modelle bei Bauen vergrößern und näher betrachten kannst
-- Zeit für Magie! Cinderella möchte auf den Ball gehen, aber sie muss vor Mitternacht zu Hause sein! Wird Karli sie erinnern?
-- Inklusive Minipuppen der guten Fee und Cinderella sowie Karli der Maus und einer gold-weißen Kutsche mit 2 LEGO-Spielzeug-Pferden
+- Das Set ist vollgepackt mit lustigem Zubehör wie einer Einladung zum Ball, einem Zauberstab, einer Krone und Glasschuh, mit denen du deine Lieblingsszenen nachspielen kannst
 - Entdecke eine Kutsche mit Platz für 2 Minipuppen, ein Kürbisfeld mit einem kleinen Tisch und eine Schatztruhe, die auf die Rückseite der Kutsche passt
+- Inklusive Minipuppen der guten Fee und Cinderella sowie Karli der Maus und einer gold-weißen Kutsche mit 2 LEGO-Spielzeug-Pferden
+- Zeit für Magie! Cinderella möchte auf den Ball gehen, aber sie muss vor Mitternacht zu Hause sein! Wird Karli sie erinnern?
 
 [🛒 Check the deal!!]({{< param buyurl >}})
