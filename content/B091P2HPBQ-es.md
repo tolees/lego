@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enseñanza de vuelo y ejercicios de Quidditch
-- Para jóvenes brujas y magos a partir de 7 años
 - Auténticamente detallado
+- Para jóvenes brujas y magos a partir de 7 años
 - Contiene 264 piezas
 - Contiene 4 minifiguras de Lego
+- Enseñanza de vuelo y ejercicios de Quidditch
 
 [🛒 Check the deal!!]({{< param buyurl >}})
