@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Desert Pokey Expansion Set 71363 Building Kit; Toy for Creative Kids to Combine with The Super Mario Adventures with Mario Starter Course  71360  Playset  180 Pieces '
-date: 2021-12-16 09:43:31
+date: 2021-12-28 13:09:41
 image: 'https://m.media-amazon.com/images/I/51cxqb2lV6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This set features a hammer turntable that LEGO Mario (figure not included) uses to knock down a buildable Pokey cactus-like figure, section by section, plus a Monty Mole figure to defeat to earn more rewards
-- Measuring over 4.5” (12cm) high, 8.5” (21cm) wide and 5” (12cm) deep in its basic formation, this module can be rebuilt and combined with the Starter Course and other LEGO Super Mario Expansion Sets in many ways
-- Kids can add an exciting, hammer-swinging challenge to their LEGO Super Mario Adventures with Mario Starter Course and compete against friends with this fun-packed Desert Pokey Expansion Set (71363)
-- Music plays when LEGO Mario (figure not included) is placed on the hammer turntable and each of the 3 action bricks in this kids’ building set cause LEGO Mario to react in different ways when he jumps on them
-- This 180-piece, creative LEGO toy playset makes a fun birthday or holiday gift for kids aged 6+ who own the Adventures with Mario Starter Course, inspiring them to build and customize their own unique levels
+- Fans can add an extra, fun challenge to their LEGO Super Mario Starter Course with this hammer-swinging Desert Pokey Expansion Set (71363). A great gift for kids, it features a buildable desert scene, hammer turntable for LEGO Mario to knock down his cactus-like enemy Pokey section by section, plus a Monty Mole figure to defeat and collect virtual coins. (Note: LEGO Mario figure is not included; find it in the Adventures with Mario Starter Course 71360.) A free LEGO Super Mario app is available
 
 [🛒 Check the deal!!]({{< param buyurl >}})
