@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60276 City Police Prisoner Transport Tow Truck Toy  Police Station Expansion Set'
-date: 2021-12-27 08:58:45
+date: 2021-12-29 16:56:34
 image: 'https://m.media-amazon.com/images/I/51kf38O6wDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4PBFLQ/?tag=tolees0a-21'
 descuento: '33.29'
-average: '12.3053846153845'
+average: '12.2199999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Apart from the explosive jailbreak function, LEGO accessories include handcuffs, a motorbike helmet, safety helmet and 2 sticks of dynamite
-- Kids can explode the prison cell off the truck, hook it up to the crook’s souped-up tow truck, and give chase with the police motorcycle
 - Includes 4 LEGO City TV’s minifigures -  Duke DeTain, Snake Rattler, Clara The Criminal, and a police officer for lots of crook-catching fun
-- Features a toy prisoner transporter, tow truck and a police motorcycle, plus fun characters from the awesome LEGO City Adventures TV series
+- Kids can explode the prison cell off the truck, hook it up to the crook’s souped-up tow truck, and give chase with the police motorcycle
 - Printed and digital Instructions PLUS on free LEGO Building Instructions app with zoom, rotate and visualisation tools are available
+- Features a toy prisoner transporter, tow truck and a police motorcycle, plus fun characters from the awesome LEGO City Adventures TV series
 
 [🛒 Check the deal!!]({{< param buyurl >}})
