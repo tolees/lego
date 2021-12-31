@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21154 Minecraft Die Brücke  Bauset mit Alex-Minifigur  Whiter-Skelett  Lava und Lohefiguren  Minecraft-Nether-Kulisse  Spielzeuge für Kinder'
-date: 2021-12-26 13:27:38
+date: 2021-12-31 10:21:36
 image: 'https://m.media-amazon.com/images/I/51cAbY07uGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDBGKPG/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '31.7466197183098'
+average: '31.7222222222222'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,15 +28,15 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Sammle deine Schätze in der riesigen Creeper-Statue, zieh am Hebel und befördere die Schätze in die Truhe.
-- Mit dem Minecraft-TNT kannst du den Stein sprengen und die blockierten Schienen räumen.
-- Die Ausrüstungsgegenstände umfassen 2 Spitzhacken und ein Schwert.
+- Als Zubehör sind 3 TNT-Blöcke, 2 Truhen und 4 Golderz-Elemente enthalten.
 - Steig in die Lore und fahr in die LEGO Creeper Goldmine.
 - Das Set umfasst eine Mine mit Schienen, Lore und 3 Explosionsfunktionen, einen Unterschlupf mit riesiger Creeper-Statue, 2 Creeper-Bannern, Leitern, Bett, Amboss und einem Ofen sowie eine Wüsten- und Tafelbergkulisse mit 2 Schildern, Kaktus und bewässertem Gemüsebeet.
-- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
-- Als Zubehör sind 3 TNT-Blöcke, 2 Truhen und 4 Golderz-Elemente enthalten.
-- Das Set enthält 3 Minifiguren – Steve, einen Minecraft-Schmied (neu ab August 2019) und einen Wüstenzombie – sowie Creeper-, Kuh- und Fledermausfiguren.
-- Das Set enthält mehr als 830 Teile.
+- Sammle deine Schätze in der riesigen Creeper-Statue, zieh am Hebel und befördere die Schätze in die Truhe.
 - Tritt mit deinem Eisen-Schwert gegen den Wüstenzombie an.
+- Das Set enthält mehr als 830 Teile.
+- Das Set enthält 3 Minifiguren – Steve, einen Minecraft-Schmied (neu ab August 2019) und einen Wüstenzombie – sowie Creeper-, Kuh- und Fledermausfiguren.
+- Die Ausrüstungsgegenstände umfassen 2 Spitzhacken und ein Schwert.
+- Mit dem Minecraft-TNT kannst du den Stein sprengen und die blockierten Schienen räumen.
+- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
 
 [🛒 Buy it!!]({{< param buyurl >}})
