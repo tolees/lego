@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Imperial - 75221 - Jouet'
-date: 2021-12-30 09:50:30
+date: 2022-01-01 09:26:07
 image: 'https://m.media-amazon.com/images/I/51fmG4KW7oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.fr/dp/B07C8DGCLZ/?tag=tolees0d-21'
 descuento: '25.46'
-average: '179.905829383884'
+average: '179.832765957445'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- À associer avec le kit Mos Eisley Cantina (75205) pour vivre des aventures passionnantes sur Tatooine
-- Le rail datterrissage impérial dispose de ailes pivotantes pour le mode avion/pays, 2 shooters, un train, une mini-figurines de cockpit rabattable et des panneaux de toit rabattables avec rampe extensible et beaucoup despace pour placer ou poser vos figurines dans le coffre
+- Chargez le Sandtrooper et volez avec eux dans la galaxie pour les amener là où vous en avez besoin
 - Léquipement comprend un pistolet blaster, 2 blasters et un sabre laser Obi-Wan
 - Comprend 4 figurines : Obi-Wan Kenobi, un shuttlepilote impérial, un robot de sable et un guide de sable ainsi que R2-D2!
-- Chargez le Sandtrooper et volez avec eux dans la galaxie pour les amener là où vous en avez besoin
+- Le rail datterrissage impérial dispose de ailes pivotantes pour le mode avion/pays, 2 shooters, un train, une mini-figurines de cockpit rabattable et des panneaux de toit rabattables avec rampe extensible et beaucoup despace pour placer ou poser vos figurines dans le coffre
+- À associer avec le kit Mos Eisley Cantina (75205) pour vivre des aventures passionnantes sur Tatooine
 
 [🛒 Check the deal!!]({{< param buyurl >}})
