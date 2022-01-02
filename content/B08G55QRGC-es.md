@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43192 Disney Princess Carruaje Real de Cenicienta con 2 Mini Muñecas y Figuras de Caballos  Idea de Regalo para Niños y Niñas +6 Años'
-date: 2022-01-01 06:29:20
+date: 2022-01-02 20:47:32
 image: 'https://m.media-amazon.com/images/I/51ibS86+bBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G55QRGC/?tag=tolees-21'
 descuento: '30.11'
-average: '31.9671428571429'
+average: '31.465'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - El set está repleto de divertidos accesorios, como una invitación al baile, una varita, una corona y zapatos de cristal para revivir las inolvidables escenas de la película
-- Descubre un carruaje con espacio para 2 mini figuras, un huerto de calabazas con una mesita y un cofre del tesoro que cabe en la parte posterior del carruaje
-- ¡Es hora de la magia! Cenicienta está lista para dirigirse al baile... ¡pero debe regresar antes de medianoche! ¿Se lo recordará Gus Gus?
-- Incluye al hada madrina y a la Cenicienta en formato de minipersonajes, el ratón Gus Gus y el carruaje real dorado y blanco con 2 figuras de caballos LEGO de juguete
 - Hay disponibles instrucciones, tanto impresas como digitales con Instructions PLUS en la app Instrucciones de Montaje LEGO, para acercar y ver las maquetas al construirlas
+- Descubre un carruaje con espacio para 2 mini figuras, un huerto de calabazas con una mesita y un cofre del tesoro que cabe en la parte posterior del carruaje
+- Incluye al hada madrina y a la Cenicienta en formato de minipersonajes, el ratón Gus Gus y el carruaje real dorado y blanco con 2 figuras de caballos LEGO de juguete
+- ¡Es hora de la magia! Cenicienta está lista para dirigirse al baile... ¡pero debe regresar antes de medianoche! ¿Se lo recordará Gus Gus?
 - El juguete de princesas es una magnífica idea de regalo para niños y niñas a partir de 6 años de Navidad, de cumpleaños o de cualquier otra ocasión
 
 [🛒 Check the deal!!]({{< param buyurl >}})
