@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Tipo de producto: videojuego de acción y aventura
 - Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
+- Cada pareja de personajes tiene su propio ataque de equipo
+- Tipo de producto: videojuego de acción y aventura
 - El juego cuenta con más de cien personajes jugables
 - Plataforma del juego: PlayStation 4
-- Cada pareja de personajes tiene su propio ataque de equipo
 
 [🛒 Buy it now!!]({{< param buyurl >}})
