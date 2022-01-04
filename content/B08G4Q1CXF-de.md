@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Für Kinder ab 7 Jahren. Dieses herausragende Set ist das ideale Geburtstags-, Weihnachts- oder Überraschungsgeschenk für junge Superhelden
-- Zu den witzigen Extras zählen Spider-Gwens Skateboard und Netze, Mysterios schimmernder Kuppelhelm sowie Geld als Beute für Doctor Octopus
-- Kinder können die Flammen abnehmen, um das Auto von Ghost Rider in ein schnittiges schwarzes Muscle Car zu verwandeln
 - LEGO Marvel Spider-Man: Spider-Man und Ghost Rider vs. Carnage (76173) ist ein hochwertiges Bauset mit 3 legendären Charakteren aus dem Marvel Universum, die unzählige fantasievolle Spielmöglichkeiten bieten
-- Enthält Spider-Man, Carnage und Ghost Rider als Minifiguren. Ghost Riders schickes robustes Auto verfügt über ein abnehmbares Dach, abnehmbare Flammen und einen 3-schüssigen Shooter im Kompressor, der aus der Motorhaube herausragt
+- Für Kinder ab 7 Jahren. Dieses herausragende Set ist das ideale Geburtstags-, Weihnachts- oder Überraschungsgeschenk für junge Superhelden
 - Drei klassische Marvel Charaktere und das megastarke Auto von Ghost Rider bieten unzählige Möglichkeiten. Kinder können das Set bauen und als Dekoelement präsentieren und fantasievolle Superheldenabenteuer als Rollenspiele inszenieren
 - In der kostenlosen LEGO Building Instructions App sind Instructions PLUS zugänglich, die Kinder beim Bauen eine digitale Modellansicht vergrößern und drehen lassen, um noch mehr Bauspaß zu bieten
+- Zu den witzigen Extras zählen Spider-Gwens Skateboard und Netze, Mysterios schimmernder Kuppelhelm sowie Geld als Beute für Doctor Octopus
+- Kinder können die Flammen abnehmen, um das Auto von Ghost Rider in ein schnittiges schwarzes Muscle Car zu verwandeln
+- Enthält Spider-Man, Carnage und Ghost Rider als Minifiguren. Ghost Riders schickes robustes Auto verfügt über ein abnehmbares Dach, abnehmbare Flammen und einen 3-schüssigen Shooter im Kompressor, der aus der Motorhaube herausragt
 
 [🛒 Buy it!!]({{< param buyurl >}})
