@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Sie können zwischen einem fahrenden/sprechenden Roboter, einem vielseitigen Rover, einem Musikinstrument, einem interaktiven Robo-Haustier oder einer autom. Fertigungslinie wählen
 - Das LEGO Boost 17101 Programmierbares Roboticset enthält einen LEGO Move Hub mit Bluetooth-Konnektivität, Motor und Farb- und Abstandssensor, um die Modelle zum Leben zu erwecken
-- Reales Programmieren umgesetzt in einer intuitiven, bedienerfreundlichen Drag-and-drop-Programmieroberfläche für alle ab 7 Jahren, zur Förderung der technischen Fähigkeiten - als spannendes Weihnachtsgeschenk für Jungen und Mädchen
 - Um die Grundlagen der Robotik zu lernen, können Kinder 5-in-1-Multifunktionsroboter bauen und sie mit unseren bedienerfreundlichen Programmierblöcken auf einem Tablet steuern
 - Kinder können bauen und programmieren sowie über 60 spannende Aktivitäten absolvieren, die in der LEGO-BOOST-App für ausgewählte iOS-, Android- und Kindle-Geräte enthalten sind
+- Reales Programmieren umgesetzt in einer intuitiven, bedienerfreundlichen Drag-and-drop-Programmieroberfläche für alle ab 7 Jahren, zur Förderung der technischen Fähigkeiten - als spannendes Weihnachtsgeschenk für Jungen und Mädchen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
