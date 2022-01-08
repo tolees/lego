@@ -28,15 +28,15 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Le grand set modulaire LEGO Harry Potter La Chambre des Secrets de Poudlard (76389) est un incroyable jouet polyvalent qui va enchanter tous les fans des films Harry Potter.
-- Unique en son genre, la figurine de Nick Quasi-Sans-Tête est phosphorescente. Le Basilic articulé possède des mâchoires qui s’ouvrent, une tête avec 2 jointures rotatives et une queue en 3 parties reconfigurables.
-- Les éléments LEGO sont soumis à des tests de chute, de chaleur, d’écrasement et de torsion, puis analysés afin de s’assurer qu’ils satisfont aux normes de sécurité les plus strictes.
-- Ce système magique et modulaire permet aux enfants de 9 ans et plus de connecter plusieurs salles pour reconstituer en intégralité le château de Poudlard.
-- Inclut une figurine dorée exclusive de Voldemort pour fêter 20 ans de magie avec LEGO Harry Potter. Contient également 6 cartes de sorciers aléatoires que les enfants peuvent collectionner (16 au total).
-- Le set mesure plus de 40 cm de haut, 40 cm de large et 11 cm de profondeur et peut être facilement combiné avec les autres sets LEGO Harry Potter pour encore plus d’amusement.
-- Les sets de construction LEGO sont conformes aux normes de qualité les plus rigoureuses du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
-- Les multiples salles riches en fonctionnalités et les figurines familières offrent aux enfants d’innombrables possibilités de rejouer leurs scènes de films favorites et d’inventer leurs propres histoires.
-- Les jouets LEGO Harry Potter mettent en avant des personnages bien connus, des créatures incroyables et des lieux familiers des célèbres films. Ils constituent un beau cadeau pour les enfants qui veulent entrer dans l’univers magique des films.
 - 10 figurines : Harry Potter, Ginny Weasley, Tom Jedusor, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood, Gilderoy Lockhart, Albus Dumbledore, professeur Sinistra et Nick Quasi-Sans-Tête.
+- Le grand set modulaire LEGO Harry Potter La Chambre des Secrets de Poudlard (76389) est un incroyable jouet polyvalent qui va enchanter tous les fans des films Harry Potter.
+- Inclut une figurine dorée exclusive de Voldemort pour fêter 20 ans de magie avec LEGO Harry Potter. Contient également 6 cartes de sorciers aléatoires que les enfants peuvent collectionner (16 au total).
+- Les sets de construction LEGO sont conformes aux normes de qualité les plus rigoureuses du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
+- Les éléments LEGO sont soumis à des tests de chute, de chaleur, d’écrasement et de torsion, puis analysés afin de s’assurer qu’ils satisfont aux normes de sécurité les plus strictes.
+- Le set mesure plus de 40 cm de haut, 40 cm de large et 11 cm de profondeur et peut être facilement combiné avec les autres sets LEGO Harry Potter pour encore plus d’amusement.
+- Les jouets LEGO Harry Potter mettent en avant des personnages bien connus, des créatures incroyables et des lieux familiers des célèbres films. Ils constituent un beau cadeau pour les enfants qui veulent entrer dans l’univers magique des films.
+- Les multiples salles riches en fonctionnalités et les figurines familières offrent aux enfants d’innombrables possibilités de rejouer leurs scènes de films favorites et d’inventer leurs propres histoires.
+- Unique en son genre, la figurine de Nick Quasi-Sans-Tête est phosphorescente. Le Basilic articulé possède des mâchoires qui s’ouvrent, une tête avec 2 jointures rotatives et une queue en 3 parties reconfigurables.
+- Ce système magique et modulaire permet aux enfants de 9 ans et plus de connecter plusieurs salles pour reconstituer en intégralité le château de Poudlard.
 
 [🛒 Buy it!!]({{< param buyurl >}})
