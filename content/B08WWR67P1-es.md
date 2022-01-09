@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Los peques podrán hacer girar las plataformas colocando la figura LEGO Mario y/o LEGO Luigi (no incluidas) o utilizar el pilar con espinas para derribar a los enemigos
-- Este juguete de construcción tiene una tubería especial: Carrera de velocidad que ofrece a los jugadores recompensas extra mientras compiten por ser el más rápido en conseguir monedas
 - La app gratuita LEGO Super Mario ofrece instrucciones de construcción, una plataforma segura en la que los niños pueden compartir ideas, y mucho más
+- Este juguete de construcción tiene una tubería especial: Carrera de velocidad que ofrece a los jugadores recompensas extra mientras compiten por ser el más rápido en conseguir monedas
 - Los peques podrán jugar solos o conectarse a través de Bluetooth a la figura de LEGO Mario o Luigi de un amigo para formar un equipo de 2 jugadores y ganar monedas de bonificación
-- Incluye las figuras LEGO de 2 icónicos personajes de LEGO Super Mario: 2 Reznors, un Grrrol que se balancea y un Toad Azul, además de un bloque ?
 - Los juguetes coleccionables de LEGO Super Mario ofrecen desafíos ilimitados, divertidos y creativos a través de la expansión, la reconstrucción y el juego interactivo
+- Los peques podrán hacer girar las plataformas colocando la figura LEGO Mario y/o LEGO Luigi (no incluidas) o utilizar el pilar con espinas para derribar a los enemigos
 - El set de expansión Derribo de los Reznors de LEGO Super Mario tiene desafíos en los que tendrás que girar, balancearte, rescatar al Toad Azul y enfrentarte a desafíos de velocidad
+- Incluye las figuras LEGO de 2 icónicos personajes de LEGO Super Mario: 2 Reznors, un Grrrol que se balancea y un Toad Azul, además de un bloque ?
 
 [🛒 Buy it!!]({{< param buyurl >}})
