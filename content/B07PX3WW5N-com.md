@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas Tree House 21318 Build and Display  3036 Pieces '
-date: 2022-01-08 12:32:04
+date: 2022-01-11 00:40:39
 image: 'https://m.media-amazon.com/images/I/51hGg4S4NEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - This sophisticated building toy with 3,036 pieces stands on a landscape base plate and includes a tree with interchangeable green (summer) as well as yellow and brown (autumn) flowers and a LEGO tree house consisting of 3 huts
-- The tree crown and the house can be easily removed for playing.
 - This LEGO Ideas set includes 4 minifigures mother, father and 2 children and a bird figure.
 - The landscape base plate features a picnic table to emble with 4 chairs for minifigures and various elements for a picnic as well as a stream to emble, a swing (which is on the tree), a campfire, a hidden
+- The tree crown and the house can be easily removed for playing.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
