@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
 - Look out for more NINJAGO sets including Lloyd’s Jungle Chopper Bike (71745), Jungle Dragon (71746) and Catamaran Sea Battle (71748)
-- Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
 - Includes 5 minifigures: Island Cole, Island Jay, Island Kai, Chief Mammatus and Thunder Keeper, all wielding cool weapons
 - The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
-- LEGO NINJAGO provides a fun toy build for kids aged 8 and up and will make a very welcome birthday or holiday present for ninja lovers
+- Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
+- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
 - Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
+- LEGO NINJAGO provides a fun toy build for kids aged 8 and up and will make a very welcome birthday or holiday present for ninja lovers
 
 [🛒 Check the deal!!]({{< param buyurl >}})
