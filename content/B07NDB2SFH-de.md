@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - Lego 75255 Star Wars Yoda Bauset  Sammlermodell mit Displayständer  Angriff der Klonkrieger Kollektion'
-date: 2022-01-08 11:43:39
+date: 2022-01-12 13:15:59
 image: 'https://m.media-amazon.com/images/I/51nB4FpWe6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.de/dp/B07NDB2SFH/?tag=tolees0ca-21'
 descuento: '19.00'
-average: '79.7556375838925'
+average: '79.7877759197324'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dieses Yoda-Modell ist das ideale Geschenk von LEGO Star Wars für Jungen und Mädchen ab 12 Jahren. Damit bildet sie das beeindruckende Herzstück einer jeden Star-Wars-Sammlung
-- Ergänzt wird dieser Fanliebling durch ein Infoschild und einen Präsentationsständer für die enthaltene Yoda-Minifigur
-- Yoda-Figur von LEGO Star Wars zum Ausstellen – eine detaillierte, baubare Version des unverwechselbaren Jedi-Meisters, der sich bei Kindern und Fans großer Beliebtheit erfreut
 - Es verfügt über einen beweglichen Kopf, bewegliche Augenbrauen, Finger und Zehen sowie über ein großes grünes Lichtschwert, das einen jeden Star-Wars-Fan in Staunen versetzt
+- Yoda-Figur von LEGO Star Wars zum Ausstellen – eine detaillierte, baubare Version des unverwechselbaren Jedi-Meisters, der sich bei Kindern und Fans großer Beliebtheit erfreut
+- Ergänzt wird dieser Fanliebling durch ein Infoschild und einen Präsentationsständer für die enthaltene Yoda-Minifigur
 - Die 1.771-teilige Sammelfigur basiert auf der Version des Jedi-Meisters aus dem Film Star Wars: Angriff der Klonkrieger; Mit Lichtschwert ist sie 41 cm hoch.
+- Dieses Yoda-Modell ist das ideale Geschenk von LEGO Star Wars für Jungen und Mädchen ab 12 Jahren. Damit bildet sie das beeindruckende Herzstück einer jeden Star-Wars-Sammlung
 
 [🛒 Check the deal!!]({{< param buyurl >}})
