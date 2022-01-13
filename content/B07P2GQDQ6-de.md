@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42110 Technic Land Rover Defender  Modellauto  4x4 Geländewagen für Kinder ab 11 Jahre und Erwachsene  Sammlerstück'
-date: 2022-01-11 11:09:35
+date: 2022-01-13 11:54:24
 image: 'https://m.media-amazon.com/images/I/51Tfnj8fJlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07P2GQDQ6-de LEGO 42110 Technic Land Rover Defender Modellauto 4x4...'
 sku: 'B07P2GQDQ6-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 154.3 EUR
+actualPrice: 140.82 EUR
 currency: EUR
-price: 154.3
+price: 140.82
 comparePrice: 199.99 EUR
 prodname: 'LEGO 42110 Technic Land Rover Defender  Modellauto  4x4 Geländewagen für Kinder ab 11 Jahre und Erwachsene  Sammlerstück'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21'
-descuento: '22.85'
-average: '136.46527386541'
+descuento: '29.59'
+average: '136.499890795627'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enthält eine Sammlung authentischer Aufkleber.
-- Zu den Funktionen zählen das sequenzielle 4-Gang-Getriebe, Allradantrieb mit 3 Differenzialen, Einzelradaufhängung an beiden Achsen, ein detaillierter 6-Zylinder-Reihenmotor und eine funktionierende Winde.
-- Umfasst eine realitätsgetreue Karosserie mit dem Logo von Land Rover, Felgen im Originaldesign mit griffigen Reifen, einen abnehmbaren Dachträger mit Aufbewahrungsbox, Tasche, Leiter und Bodenmatten, Türen zum Öffnen, Motorhaube und Heckklappe sowie einen detaillierten Innenraum.
-- Dieses LEGO Technic Set bietet ein beeindruckendes Bauerlebnis.
-- Eine Gangschaltung mit 2 Hebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einen Wählhebel zum Wechseln des Gangs (neu ab Oktober 2019), machen es zum bisher ausgefeitlesten LEGO Technic Getriebe!
-- Öffne die Motorhaube, um dir den detaillierten 6-Zylinder-Reihenmotor mit beweglichen Kolben anzusehen.
 - Im Innenraum gibt es ein detailliertes Armaturenbrett, ein funktionierendes Lenkrad und nach vorne klappbare Rücksitze, die den Blick auf das sequenzielle 4-Gang-Getriebe freigeben.
-- Farbmuster in olivgrün, grau und schwarz.
 - Drehe am hinten montierten Ersatzrad, um die Heckklappe zu öffnen.
+- Farbmuster in olivgrün, grau und schwarz.
 - Öffne die Türen, um Zugang zum Innenraum zu erhalten.
+- Enthält eine Sammlung authentischer Aufkleber.
+- Dieses LEGO Technic Set bietet ein beeindruckendes Bauerlebnis.
+- Umfasst eine realitätsgetreue Karosserie mit dem Logo von Land Rover, Felgen im Originaldesign mit griffigen Reifen, einen abnehmbaren Dachträger mit Aufbewahrungsbox, Tasche, Leiter und Bodenmatten, Türen zum Öffnen, Motorhaube und Heckklappe sowie einen detaillierten Innenraum.
+- Öffne die Motorhaube, um dir den detaillierten 6-Zylinder-Reihenmotor mit beweglichen Kolben anzusehen.
+- Zu den Funktionen zählen das sequenzielle 4-Gang-Getriebe, Allradantrieb mit 3 Differenzialen, Einzelradaufhängung an beiden Achsen, ein detaillierter 6-Zylinder-Reihenmotor und eine funktionierende Winde.
+- Eine Gangschaltung mit 2 Hebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einen Wählhebel zum Wechseln des Gangs (neu ab Oktober 2019), machen es zum bisher ausgefeitlesten LEGO Technic Getriebe!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
