@@ -28,13 +28,13 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Crea emocionantes batallas inspiradas en Star Wars: El Imperio Contraataca con este artículo LEGO Star Wars de juego creativo.
-- La puerta de entrada con la torre mide más de 10 cm de altura, 25 cm de ancho y 10 cm de profundidad.
-- Disfruta disputando batallas sin fin al estilo LEGO Star Wars con tus amigos y familiares para ver quién puede derrotar al oponente alcanzando sus blancos.
-- Alcanza los blancos de color rojo para que los soldados de las nieves salgan volando y el AT-AT se estrelle contra el suelo. Alcanza los blancos de color azul para que los soldados rebeldes salten por los aires y la puerta de entrada vuele de una explosión.
 - El juguete para construir cuenta con una puerta de entrada a la base rebelde, una torre del bláster, una sección de trinchera con un droide sonda para construir y un caminante AT-AT que se desploma. Cada bando tiene 3 blancos que alcanzar.
-- Incluye 5 minifiguras LEGO Star Wars: 2 soldados de las nieves y 3 soldados rebeldes.
+- La puerta de entrada con la torre mide más de 10 cm de altura, 25 cm de ancho y 10 cm de profundidad.
+- Alcanza los blancos de color rojo para que los soldados de las nieves salgan volando y el AT-AT se estrelle contra el suelo. Alcanza los blancos de color azul para que los soldados rebeldes salten por los aires y la puerta de entrada vuele de una explosión.
 - El caminante AT-AT de juguete para construir mide más de 13 cm de altura, 15 cm de longitud y 7 cm de ancho.
 - El set de construcción incluye también 2 cañones y 4 misiles.
+- Crea emocionantes batallas inspiradas en Star Wars: El Imperio Contraataca con este artículo LEGO Star Wars de juego creativo.
+- Incluye 5 minifiguras LEGO Star Wars: 2 soldados de las nieves y 3 soldados rebeldes.
+- Disfruta disputando batallas sin fin al estilo LEGO Star Wars con tus amigos y familiares para ver quién puede derrotar al oponente alcanzando sus blancos.
 
 [🛒 Buy it!!]({{< param buyurl >}})
