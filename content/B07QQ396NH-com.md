@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- This Millennium Falcon model set has loads of details to impress fans of any age, including rotating top and bottom gun turrets, 2 spring-loaded shooters, a lowering ramp and an opening cockpit.
-- Set the scene for epic adventures with 7 LEGO Star Wars characters action figures: Finn, Chewbacca, Lando Calrissian, C-3PO and Boolio minifigures, plus fan-favorite D-O and BB-8 LEGO figures.
+- Inspire fans with a true icon of the LEGO Star Wars universe – the Millennium Falcon! This model starship building set is perfect addition to any Star Wars collection.
 - This brick-built Corellian freighter model from the blockbuster Star Wars: The Rise of Skywalker movie also includes opening top panels for easy access to the detailed interior.
 - With 1,351 pieces, this cool 3D LEGO building toy for boys and girls aged 9+ packs so much detail into its over 5-inch (14cm) high, 17-inch (44cm) long and 12-inch (32cm) wide starship form.
-- Inspire fans with a true icon of the LEGO Star Wars universe – the Millennium Falcon! This model starship building set is perfect addition to any Star Wars collection.
+- This Millennium Falcon model set has loads of details to impress fans of any age, including rotating top and bottom gun turrets, 2 spring-loaded shooters, a lowering ramp and an opening cockpit.
+- Set the scene for epic adventures with 7 LEGO Star Wars characters action figures: Finn, Chewbacca, Lando Calrissian, C-3PO and Boolio minifigures, plus fan-favorite D-O and BB-8 LEGO figures.
 
 [🛒 Buy it!!]({{< param buyurl >}})
