@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda Construction Set  Collectable Figure Model with Display Stand  The Attack of the Clones Collection'
-date: 2022-01-15 11:42:57
+date: 2022-01-16 11:58:18
 image: 'https://m.media-amazon.com/images/I/518ZOcwewUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDB2SFH/?tag=tolees0a-21'
 descuento: '16.67'
-average: '81.4929056603766'
+average: '81.4806591337092'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This version of Jedi Master Yoda, Star Wars collectable figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any collection
-- Also, features a fact plaque with details about the Jedi master and a stand for the included Yoda minifigure and Lightsaber to impress any fan
-- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
-- The Star Wars buildable model of powerful Jedi master Yoda looks great on display at home or in the office, impressing any fan of Star Wars!
 - Display LEGO Star Wars figure of Yoda, a detailed, buildable version of the unmistakable character that kids and fans adore!
-- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
+- Also, features a fact plaque with details about the Jedi master and a stand for the included Yoda minifigure and Lightsaber to impress any fan
+- The Star Wars buildable model of powerful Jedi master Yoda looks great on display at home or in the office, impressing any fan of Star Wars!
+- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
+- This version of Jedi Master Yoda, Star Wars collectable figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any collection
 - This Star Wars: Attack of the Clones collectable makes a great birthday gift, Christmas present or just a Star Wars present for any occasion
+- Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
 
 [🛒 Check the deal!!]({{< param buyurl >}})

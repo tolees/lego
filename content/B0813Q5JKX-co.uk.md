@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75288 Star Wars AT-AT Walker Building Toy 40th Anniversary SetGift Idea with 6 Minifigures'
-date: 2022-01-11 10:45:02
+date: 2022-01-16 11:42:50
 image: 'https://m.media-amazon.com/images/I/51NNoQE028L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0813Q5JKX-co.uk LEGO 75288 Star Wars AT-AT Walker Building Toy 40th...'
 sku: 'B0813Q5JKX-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys & Games','Toys Store','lego', ]
-actualPrice: 104.53 GBP
+actualPrice: 109.99 GBP
 currency: GBP
-price: 104.53
+price: 109.99
 comparePrice: 139.99 GBP
 prodname: 'LEGO 75288 Star Wars AT-AT Walker Building Toy 40th Anniversary SetGift Idea with 6 Minifigures'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21'
-descuento: '25.33'
-average: '116.22'
+descuento: '21.43'
+average: '117.634782608695'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
