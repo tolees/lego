@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43195 Disney Princess Belle and Rapunzel s Royal Stables Building Toy for Kids Age 5 with 2 Horse and Mini Doll Figures'
-date: 2022-01-15 13:58:48
+date: 2022-01-17 14:27:48
 image: 'https://m.media-amazon.com/images/I/51pA32n+j1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWWG7HX/?tag=tolees0a-21'
 descuento: '33.34'
-average: '31.1830769230769'
+average: '31.0978571428571'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This creative LEGO Disney Princess building toy features a 3-level horse stable with 5 rooms, 2 small, detachable stalls and a sticker sheet
-- Includes 2 Disney Princess Belle and Rapunzel ready for work and play with their 2 LEGO horse figures, Maximus and Philippe
-- With detailed mini doll figures and ridable horse figures, this Disney Princess buildable toy set helps to build important skills
 - Kids can explore the main stable with its trophy and accessory rooms, clean up the horses’ stalls or visit the cosy attic space for relaxing
 - Lets put on the saddles and take off. Wheee! After the ride lets unsaddle and brush down the horses, then give them some treats!
+- This creative LEGO Disney Princess building toy features a 3-level horse stable with 5 rooms, 2 small, detachable stalls and a sticker sheet
+- With detailed mini doll figures and ridable horse figures, this Disney Princess buildable toy set helps to build important skills
+- Includes 2 Disney Princess Belle and Rapunzel ready for work and play with their 2 LEGO horse figures, Maximus and Philippe
 
 [🛒 Check the deal!!]({{< param buyurl >}})

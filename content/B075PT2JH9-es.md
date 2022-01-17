@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - Millennium Falcon™'
-date: 2022-01-15 13:16:39
+date: 2022-01-17 14:06:24
 image: 'https://m.media-amazon.com/images/I/51R2MaM2aZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B075PT2JH9/?tag=tolees-21'
 descuento: '22.21'
-average: '853.231517412928'
+average: '853.583275434236'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Star Wars Millenium Falcon UCS
-- Cantidad de artículo: 1
 - Fabricado en Dinamarca
 - Peso del paquete: 14,22 kg
+- LEGO Star Wars Millenium Falcon UCS
+- Cantidad de artículo: 1
 
 [🛒 Buy it now!!]({{< param buyurl >}})
