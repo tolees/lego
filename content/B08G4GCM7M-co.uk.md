@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Ideal for any adult model-making fan, it makes a great birthday gift for Batman fans, Christmas present or personal treat
-- This piece of Batman collectible memorabilia will provide pleasure and satisfaction long after the hands-on work has been completed
 - With transparent bricks to represent the face & a stylish fact plaque attached to a sturdy base, this remarkable model is a fine décor piece
-- It captures forever the unmistakable style of Batman in a captivating ornamental display model created with adults in mind
 - LEGO DC Batman Cowl mask building set for adults features a LEGO brick recreation of the iconic Batman helmet as worn by the Caped Crusader
+- It captures forever the unmistakable style of Batman in a captivating ornamental display model created with adults in mind
+- This piece of Batman collectible memorabilia will provide pleasure and satisfaction long after the hands-on work has been completed
 
 [🛒 Buy it!!]({{< param buyurl >}})

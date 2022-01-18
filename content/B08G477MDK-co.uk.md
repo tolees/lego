@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- This 653-piece set features 9 buildable toy ideas with a colourful selection of wheels, bricks and other pieces for imaginative creations
 - The LEGO Classic Bricks and Wheels sets stimulate unlimited open-ended play while developing kids creative thinking and fine-motor skills
 - Includes easy-to-follow building instructions for kids 4+ years old so even first-time builders can experience the fun and pride of creating
-- Includes all kids need to build a car, train, bus, robot, skateboarding zebra, race car, bunny in a wheelchair, pull-along duck and a monkey
 - This high-quality toy construction set is bursting with creative ideas for a rewarding build, including a monkey on a skateboard!
-- This 653-piece set features 9 buildable toy ideas with a colourful selection of wheels, bricks and other pieces for imaginative creations
+- Includes all kids need to build a car, train, bus, robot, skateboarding zebra, race car, bunny in a wheelchair, pull-along duck and a monkey
 
 [🛒 Buy it now!!]({{< param buyurl >}})
