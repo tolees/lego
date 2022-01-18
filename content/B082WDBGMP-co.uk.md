@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71366 Super Mario Boomer Bill Barrage Expansion Set Buildable Game'
-date: 2022-01-13 08:48:49
+date: 2022-01-18 08:51:19
 image: 'https://m.media-amazon.com/images/I/5157EUDXUJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDBGMP/?tag=tolees0a-21'
 descuento: '47.98'
-average: '17.9574358974359'
+average: '17.8946835443038'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Advance your skills with the free LEGO app with viewing tools, digital building instructions, plus inspiration for creative play and more
-- Find new ways to play with the LEGO Mario figure from the Adventures Mario Starter Course set (sold separately) with this expansion set
-- Features a spinner with 2 ‘flying’ Boomer Bill figures and a rotating platform with 2 difficulty levels (with or without studs) for more fun
-- Players place LEGO Mario figure (not included) on the platform’s smooth end for added difficulty. How many times can they spin?
 - Includes a Shy Guy figure and a Super Mushroom to boost the gameplay - lets see Mario falling or being knocked off by the Boomer Bills!
+- Features a spinner with 2 ‘flying’ Boomer Bill figures and a rotating platform with 2 difficulty levels (with or without studs) for more fun
+- Find new ways to play with the LEGO Mario figure from the Adventures Mario Starter Course set (sold separately) with this expansion set
+- Players place LEGO Mario figure (not included) on the platform’s smooth end for added difficulty. How many times can they spin?
 
 [🛒 Buy it!!]({{< param buyurl >}})
