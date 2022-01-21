@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41444 Friends Heartlake City Organic Café Toy with Mini Dolls & Accessories  Toys for Kids 6 + Years Old  Eco Education Set'
-date: 2022-01-19 20:26:20
+date: 2022-01-21 00:02:39
 image: 'https://m.media-amazon.com/images/I/51JP72tKL0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G44DS1X/?tag=tolees0a-21'
 descuento: '39.98'
-average: '20.0382978723404'
+average: '19.9333333333333'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Introduce youngsters to Heartlake City, where they meet characters who care as much for the planet we live on as they do about their friends
-- This toy for kids 6+ years old includes 3 LEGO mini dolls: Mia, a grandpa Marcel and granddaughter Ava micro doll for extended real family play
-- It comes with accessories: an oven, blender, coffee machine, sandwich display shelf & lots of food elements to make the café play come to life
 - Kids can pretend to grow fruit and veg, bake bread, make sandwiches, serve customers, sort recycling and deliver drinks on the juice bike
+- It comes with accessories: an oven, blender, coffee machine, sandwich display shelf & lots of food elements to make the café play come to life
 - Features a toy café with a kitchen, garden and a juice delivery bike for boys and girls who want to build a better planet, brick by brick
+- This toy for kids 6+ years old includes 3 LEGO mini dolls: Mia, a grandpa Marcel and granddaughter Ava micro doll for extended real family play
+- Introduce youngsters to Heartlake City, where they meet characters who care as much for the planet we live on as they do about their friends
 
 [🛒 Buy it now!!]({{< param buyurl >}})
