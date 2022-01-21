@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71365 Super Mario Piranha Plant Power Slide Expansion Set Buildable Game'
-date: 2022-01-13 20:40:46
+date: 2022-01-21 08:19:00
 image: 'https://m.media-amazon.com/images/I/51r4BqWecxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDSG3W/?tag=tolees0a-21'
 descuento: '43.98'
-average: '20.2595744680852'
+average: '20.1291666666668'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- This module also includes Goomba and Koopa Troopa toy figures for LEGO Mario (not included) to defeat to win more coins while seesawing!
-- Find digital building instructions, cool viewing tools, inspiration for creative play and more in the free LEGO app for smart devices
-- Features a platform on rails on a seesaw with Piranha Plants at either end, and a Time Block to earn extra time while players quickly seesaw
 - Collectible LEGO Super Mario toy building sets bring an iconic character into the real world and give kids and all fans loads of play options
 - Add this brilliant extension to kids LEGO Super Mario Adventures with Mario Starter Course set to master the sliding, seesaw challenge
+- This module also includes Goomba and Koopa Troopa toy figures for LEGO Mario (not included) to defeat to win more coins while seesawing!
+- Features a platform on rails on a seesaw with Piranha Plants at either end, and a Time Block to earn extra time while players quickly seesaw
+- Find digital building instructions, cool viewing tools, inspiration for creative play and more in the free LEGO app for smart devices
 
 [🛒 Buy it!!]({{< param buyurl >}})
