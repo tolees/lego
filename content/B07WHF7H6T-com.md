@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This versatile LEGO Minecraft playset makes a great holiday, birthday or any-other-day gift for Minecraft players and panda lovers ages 7+
-- Put Minecraft adventures and creative building in kids hands with these new for 2020 LEGO models of the cutest mobs in Minecraft, mom and baby panda, in their panda nursery!
 - Your LEGO Minecraft player will enjoy hands-on Minecraft fun and adventure when they assemble the LEGO nursery building set and help Alex care for the adorable Minecraft toy pandas that sit, stand and move their heads
-- At over 7” (19cm) long, 3” (9cm) high and 3” (8cm) wide, this LEGO playset brings Minecraft excitement into the real world and combines with other LEGO sets to expand real-world Minecraft fun and adventure
+- This versatile LEGO Minecraft playset makes a great holiday, birthday or any-other-day gift for Minecraft players and panda lovers ages 7+
 - Theres a LEGO Minecraft hut to prepare for the pandas with a rooftop bed for tired babies, an Ocelot, plenty of bamboo to eat, and if theres Minecraft gold to be mined, Alex has his diamond pickaxe!
+- Put Minecraft adventures and creative building in kids hands with these new for 2020 LEGO models of the cutest mobs in Minecraft, mom and baby panda, in their panda nursery!
+- At over 7” (19cm) long, 3” (9cm) high and 3” (8cm) wide, this LEGO playset brings Minecraft excitement into the real world and combines with other LEGO sets to expand real-world Minecraft fun and adventure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
