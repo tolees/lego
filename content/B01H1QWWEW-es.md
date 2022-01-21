@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- poniéndolo en los LEGO - Juguetes - Pad
-- Editorial: Warner
-- operatingSystem: No hay sistema operativo
 - Podrás disfrutar de la recogida de mini figuras adicionales, vehículos, objetos y nuevo nivel
 - independiente de la plataforma
+- operatingSystem: No hay sistema operativo
+- poniéndolo en los LEGO - Juguetes - Pad
+- Editorial: Warner
 
 [🛒 Buy it now!!]({{< param buyurl >}})
