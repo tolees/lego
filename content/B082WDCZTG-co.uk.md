@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO tbd-LSH-2020-17'
-date: 2022-01-19 14:39:44
+date: 2022-01-22 08:44:22
 image: 'https://m.media-amazon.com/images/I/51y64cv26wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
