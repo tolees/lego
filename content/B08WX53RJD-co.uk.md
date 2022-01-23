@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41683 Friends Forest Horseback Riding Center Set with Stable  2 Horses and a Pony  Horse Toy for Girls and Boys Age 7+'
-date: 2022-01-22 03:58:26
+date: 2022-01-23 04:19:24
 image: 'https://m.media-amazon.com/images/I/513ocf2OfCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WX53RJD/?tag=tolees0a-21'
 descuento: '49.99'
-average: '39.0435714285714'
+average: '38.4406666666666'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - This LEGO Friends horse riding toy features a 3-floors ranch with a horse stable, pony pen and a kitchen, bedroom and dining area above
-- Accessories include riding helmets, saddles, bridles, a pitchfork, brush, broom, kitchen utensils, marshmallows and a white cane for Savannah
 - Kids can explore nature, care for animals, clean the stables, put the dog to bed in its kennel, then toast marshmallows on the campfire
-- Includes 2 horse toys, with hinged movable heads, and a pony for young Kevin, for immersive summer adventures roleplay
+- Accessories include riding helmets, saddles, bridles, a pitchfork, brush, broom, kitchen utensils, marshmallows and a white cane for Savannah
 - The horse riding toy for girls and boys comes with 7 figures: LEGO Friends Mia and Savannah, a micro doll Kevin and Goldie the dog toy
+- Includes 2 horse toys, with hinged movable heads, and a pony for young Kevin, for immersive summer adventures roleplay
 
 [🛒 Buy it!!]({{< param buyurl >}})
