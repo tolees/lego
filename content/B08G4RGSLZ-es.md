@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Diviértete durante horas con el kit de construcción LEGO Buggy Todoterreno (42124). El Buggy Todoterreno teledirigido está equipado con infinidad de detalles inspirados en los coches de juguete teledirigidos originales de los años 80.
-- Descarga la app gratuita CONTROL+ para añadir una nueva dimensión a este buggy teledirigido. Usa la app para controlar el coche, realizar acrobacias y acceder a desafíos, efectos de sonido y mucho más.
-- Para disfrutar íntegramente de las prestaciones de este juguete controlado por app necesitarás 6 pilas LR6/AA (no incluidas).
-- Echa un vistazo a la fascinante combinación de colores retro y los detalles en adhesivos inspirados en los años 80.
 - La maqueta teledirigida Buggy Todoterreno mide aproximadamente 13 cm de altura hasta el techo, 19 cm de altura con la antena incluida, 28 cm de longitud y 16 cm de anchura.
-- El Buggy Todoterreno es un regalo sensacional para niños a partir de 10 años. También apasionará a los adultos que recuerden los clásicos coches de juguete teledirigidos de los años 80: ¡una divertida experiencia que todas las generaciones podrán disfrutar juntas!
-- Los componentes LEGO Technic se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan los requisitos de las normas de seguridad internacionales más estrictas.
-- Los componentes LEGO Technic cumplen las normas más rigurosas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan sistemáticamente una y otra vez; así ha sido desde 1958.
 - El universo LEGO Technic ofrece juguetes de construcción avanzados para fans de LEGO que estén dispuestos a afrontar su próximo desafío creativo.
+- Para disfrutar íntegramente de las prestaciones de este juguete controlado por app necesitarás 6 pilas LR6/AA (no incluidas).
+- Diviértete durante horas con el kit de construcción LEGO Buggy Todoterreno (42124). El Buggy Todoterreno teledirigido está equipado con infinidad de detalles inspirados en los coches de juguete teledirigidos originales de los años 80.
+- Los componentes LEGO Technic cumplen las normas más rigurosas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan sistemáticamente una y otra vez; así ha sido desde 1958.
+- Los componentes LEGO Technic se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan los requisitos de las normas de seguridad internacionales más estrictas.
+- Echa un vistazo a la fascinante combinación de colores retro y los detalles en adhesivos inspirados en los años 80.
+- Descarga la app gratuita CONTROL+ para añadir una nueva dimensión a este buggy teledirigido. Usa la app para controlar el coche, realizar acrobacias y acceder a desafíos, efectos de sonido y mucho más.
+- El Buggy Todoterreno es un regalo sensacional para niños a partir de 10 años. También apasionará a los adultos que recuerden los clásicos coches de juguete teledirigidos de los años 80: ¡una divertida experiencia que todas las generaciones podrán disfrutar juntas!
 - Realizar trucos es sencillísimo gracias a la suspensión trasera y delantera del coche, a sus enormes neumáticos y a su acabado en ángulo en la parte frontal.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
