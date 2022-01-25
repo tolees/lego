@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Features the piano bar and a reception, en suite bedrooms and outdoor dining area, as well as ritzy features such as a spa and penthouse
 - Comes with 4 LEGO Friends mini dolls, including an actress and receptionist figures, and 3 animal figures, plus an outdoor dining area
+- Features the piano bar and a reception, en suite bedrooms and outdoor dining area, as well as ritzy features such as a spa and penthouse
+- Creative kids will have hours of fun, they’ll love using their imagination to dress the hotel toy in accessories depending on the seasons
 - In winter there are candle lights and snowballs; summer brings flowers and ice cream; and there are golden leaves and pumpkins for autumn
 - The LEGO Friends Heartlake City Grand Hotel set features 3-floors, 5 rooms Parisian-style toy dolls house, complete with seasonal accessories
-- Creative kids will have hours of fun, they’ll love using their imagination to dress the hotel toy in accessories depending on the seasons
 
 [🛒 Check the deal!!]({{< param buyurl >}})

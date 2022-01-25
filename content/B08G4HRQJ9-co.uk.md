@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes 3 LEGO toy figures of iconic Super Mario enemies – a Wiggler, Goomba and Koopa Paratroopa – for LEGO Mario (figure not included)
 - Also includes a Super Star Block that offers extra powers and enhanced rewards to create challenges in a brick-built, poisonous Soda Jungle
-- Kids will wiggle and slam the Wiggler to unfold the secret bridge, use the rotating platform, gain some powers & defeat the Goomba and Koopa
-- Features a sliding platform, folding bridge and a detachable raft for players to interact with on their journey to win digital coins
 - Become fearless and take on various foes in Wrigglers Poison Swamp set, an exciting expansion to the Mario Starter Course (71360)
+- Features a sliding platform, folding bridge and a detachable raft for players to interact with on their journey to win digital coins
+- Includes 3 LEGO toy figures of iconic Super Mario enemies – a Wiggler, Goomba and Koopa Paratroopa – for LEGO Mario (figure not included)
+- Kids will wiggle and slam the Wiggler to unfold the secret bridge, use the rotating platform, gain some powers & defeat the Goomba and Koopa
 
 [🛒 Check the deal!!]({{< param buyurl >}})
