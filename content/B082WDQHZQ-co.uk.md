@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- This Super Mario buildable toy also has a speaker that plays iconic sounds and music from the video game
 - Mario collects virtual coins as he runs and jumps from the Start Pipe to the Goal Pole, touching 7 action bricks for different interactions
 - The LEGO Super Mario figure is powered by 2 x AAA batteries (not included), delivering a highly interactive in-game experience
 - Download the free LEGO Super Mario app for fun ways to play and more. Visit LEGO.com/devicecheck for a list of compatible devices
-- LEGO Mario figure has colour sensors, plus LCD screens in his eyes, mouth and belly to display over 100 different instant reactions to movement
 - The LEGO Super Mario buildable game is a fantastic birthday or Christmas gift for all kids who love the game and LEGO Mario sets!
-- This Super Mario buildable toy also has a speaker that plays iconic sounds and music from the video game
+- LEGO Mario figure has colour sensors, plus LCD screens in his eyes, mouth and belly to display over 100 different instant reactions to movement
 
 [🛒 Buy it!!]({{< param buyurl >}})
