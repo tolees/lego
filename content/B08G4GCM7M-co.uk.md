@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76182 DC Batman: Cowl Mask Building Set for Adults  Collectible Superhero Helmet Gift Model'
-date: 2022-01-25 08:54:20
+date: 2022-01-27 09:28:37
 image: 'https://m.media-amazon.com/images/I/51kRtz8ncbS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4GCM7M/?tag=tolees0a-21'
 descuento: '25.44'
-average: '42.9521428571429'
+average: '42.822'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- With transparent bricks to represent the face & a stylish fact plaque attached to a sturdy base, this remarkable model is a fine décor piece
 - This piece of Batman collectible memorabilia will provide pleasure and satisfaction long after the hands-on work has been completed
-- Ideal for any adult model-making fan, it makes a great birthday gift for Batman fans, Christmas present or personal treat
 - It captures forever the unmistakable style of Batman in a captivating ornamental display model created with adults in mind
+- Ideal for any adult model-making fan, it makes a great birthday gift for Batman fans, Christmas present or personal treat
 - LEGO DC Batman Cowl mask building set for adults features a LEGO brick recreation of the iconic Batman helmet as worn by the Caped Crusader
+- With transparent bricks to represent the face & a stylish fact plaque attached to a sturdy base, this remarkable model is a fine décor piece
 
 [🛒 Buy it!!]({{< param buyurl >}})
