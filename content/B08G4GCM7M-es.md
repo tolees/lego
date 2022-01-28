@@ -29,10 +29,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Esta genuina recreación para construir con ladrillos LEGO de la emblemática máscara de Batman incluye piezas transparentes para representar el rostro y una elegante placa de características conectada a una resistente base.
-- La Capucha de Batman LEGO DC Batman coleccionable ofrece una práctica y desestresante experiencia de construcción que consiste en ver cómo los 410 ladrillos LEGO se transforman gradualmente en una impresionante maqueta de exposición.
-- Date el gusto de usar tus superpoderes de construcción creativa. Esta pieza coleccionable del universo Batman proporcionará placer y satisfacción mucho después de que concluya el trabajo práctico de darle forma.
-- La Capucha de Batman LEGO DC Batman (76182) captura para siempre el inconfundible estilo de Batman en una cautivadora maqueta para construir y exponer creada específicamente para adultos.
 - Con sus instrucciones de alta calidad fáciles de seguir, podrás embarcarte en este fascinante proyecto de construcción tan pronto como abras la caja.
 - Con unas medidas aproximadas de 22 cm de altura, 10 cm de anchura y 12 cm de profundidad, esta atractiva maqueta quedará espectacular expuesta en casa o en la oficina y dará lugar a incontables conversaciones.
+- La Capucha de Batman LEGO DC Batman (76182) captura para siempre el inconfundible estilo de Batman en una cautivadora maqueta para construir y exponer creada específicamente para adultos.
+- Date el gusto de usar tus superpoderes de construcción creativa. Esta pieza coleccionable del universo Batman proporcionará placer y satisfacción mucho después de que concluya el trabajo práctico de darle forma.
+- La Capucha de Batman LEGO DC Batman coleccionable ofrece una práctica y desestresante experiencia de construcción que consiste en ver cómo los 410 ladrillos LEGO se transforman gradualmente en una impresionante maqueta de exposición.
 
 [🛒 Buy it!!]({{< param buyurl >}})
