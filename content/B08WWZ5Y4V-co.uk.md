@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features a unique 4-in-1 ninja vehicle toy that separates into a jet plane, a motorbike toy and 2 all-terrain vehicles, so the fun never stops
-- Kids have the exciting choice of flying the jet plane with golden-blade wings with spring-loaded shooters to show off their ninja might
-- Includes 7 minifigures: Kai, Cole, Zane, Jay & Zane Legacy to take on snake soldiers Rattla and Mezmo from season 1 of the NINJAGO TV series
-- The golden Zane Legacy collectible minifigure comes with a small stand to celebrate the 10th anniversary of LEGO NINJAGO sets for kids
 - Look out for more special golden minifigures in 5 other NINJAGO sets to display the limited-edition golden NINJAGO Legacy 6 minifigures
+- Kids have the exciting choice of flying the jet plane with golden-blade wings with spring-loaded shooters to show off their ninja might
+- The golden Zane Legacy collectible minifigure comes with a small stand to celebrate the 10th anniversary of LEGO NINJAGO sets for kids
+- Includes 7 minifigures: Kai, Cole, Zane, Jay & Zane Legacy to take on snake soldiers Rattla and Mezmo from season 1 of the NINJAGO TV series
+- Features a unique 4-in-1 ninja vehicle toy that separates into a jet plane, a motorbike toy and 2 all-terrain vehicles, so the fun never stops
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Accessories include a water bottle and colourful flags - the ideal LEGO gift for boys and girls aged 6+ who love creative carnival play
+- The LEGO Friends acrobatics theme park toy features a gymnastics fairground set, with a horse figure, a carnival float and a bar
+- When kids pull the float, its spinning function allows the wheel to turn, it is also removable so it can be spun separately
 - Includes 2 LEGO Friends mini dolls Olivia and Stella, dressed in performance outfits, ready to perform acrobatics tricks
 - A twistable knob allows the mini dolls to whirl around the bar so kids can pretend to play they’re putting on a show
-- The LEGO Friends acrobatics theme park toy features a gymnastics fairground set, with a horse figure, a carnival float and a bar
-- Accessories include a water bottle and colourful flags - the ideal LEGO gift for boys and girls aged 6+ who love creative carnival play
-- When kids pull the float, its spinning function allows the wheel to turn, it is also removable so it can be spun separately
 
 [🛒 Buy it!!]({{< param buyurl >}})
