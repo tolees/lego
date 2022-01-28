@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Es un fantástico regalo para peques creativos a partir de 6 años que tengan un pack inicial de LEGO Super Mario (71360 o 71387), necesario para jugar
-- El juguete de construcción LEGO Super Mario ofrece a los fans infinitas formas de expandir, reconstruir y crear únicos niveles para jugar solo o en grupo
-- Incluye figuras de juguete de LEGO Super Mario de 2 emblemáticos enemigos: el Hermano Sumo Jefe, con brazos que se golpean el pecho, y una figura de Crowber
 - La app LEGO Super Mario gratuita tiene instrucciones de construcción, inspiración para construir y jugar de diferentes formas... ¡y mucho más!
+- Incluye figuras de juguete de LEGO Super Mario de 2 emblemáticos enemigos: el Hermano Sumo Jefe, con brazos que se golpean el pecho, y una figura de Crowber
+- El juguete de construcción LEGO Super Mario ofrece a los fans infinitas formas de expandir, reconstruir y crear únicos niveles para jugar solo o en grupo
 - Incorpora una torre construible que se vendrá abajo si una figura LEGO Mario y/o LEGO Luigi (no incluidas) pisa la palanca de la base
 - El set de expansión Hermano Sumo Jefe con torre abatible añade un desafío repleto de acción, donde podrás conseguir monedas digitales, al juego de construcción de LEGO Super Mario
 
