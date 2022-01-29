@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- With front steering, powerful axle-articulation suspension and a winch, kids can play out a world of off-roading adventures, inspired by the world-famous Jeep Wrangler
-- This LEGO Technic Jeep Wrangler (42122) is packed full of authentic details, making it a great toy for kids who love fun vehicles
-- This Jeep Wrangler Rubicon model makes a great gift for young LEGO fans who are ready for their next challenge
-- This awesome model comes complete with authentic Jeep Wrangler details, like the classic round headlamps, seven-slot grille, full-size spare tire and fold-down rear seats
 - This Jeep Wrangler Rubicon toy model measures over 4.5 in. (12 cm) high, 9.5 in. (24 cm) long and 5 in. (13 cm) wide, making this car a great size for play or display
+- This LEGO Technic Jeep Wrangler (42122) is packed full of authentic details, making it a great toy for kids who love fun vehicles
+- This awesome model comes complete with authentic Jeep Wrangler details, like the classic round headlamps, seven-slot grille, full-size spare tire and fold-down rear seats
+- With front steering, powerful axle-articulation suspension and a winch, kids can play out a world of off-roading adventures, inspired by the world-famous Jeep Wrangler
+- This Jeep Wrangler Rubicon model makes a great gift for young LEGO fans who are ready for their next challenge
 
 [🛒 Buy it now!!]({{< param buyurl >}})
