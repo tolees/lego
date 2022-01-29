@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41442 Friends Vet Clinic Rescue Buggy Quad Bike Toy for Kids 6+ Years Old  with Stephanie and Andrea Minidolls'
-date: 2022-01-26 08:59:38
+date: 2022-01-29 09:48:17
 image: 'https://m.media-amazon.com/images/I/51D0fICswlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G49JLDQ/?tag=tolees0a-21'
 descuento: '33.26'
-average: '6.49080000000002'
+average: '6.48434210526318'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Features a cute buildable countryside picnic scene, quad bike toy, and a hinged tree to ‘trap’ the dog, initiating the rescue mission
-- This animal rescue toy includes 2 LEGO Friends Stephanie and Andrea minidolls, and a new-for-January-2021 puppy figure to play with
 - Kids can race to the aid of an animal in trouble, freeing it from a fallen tree with an all-action quad bike, then play and picnic together
 - Accessories include a feeding bottle and bone for the dog, walkie-talkie, chain to lift the tree, picnic-cloth tile, sandwich and a mug
 - The Vet Clinic Rescue Buggy is compatible with the Vet Clinic Ambulance (41445) and Heartlake City Vet Clinic (41446) for animal-loving kids
+- Features a cute buildable countryside picnic scene, quad bike toy, and a hinged tree to ‘trap’ the dog, initiating the rescue mission
+- This animal rescue toy includes 2 LEGO Friends Stephanie and Andrea minidolls, and a new-for-January-2021 puppy figure to play with
 
 [🛒 Check the deal!!]({{< param buyurl >}})
