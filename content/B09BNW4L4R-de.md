@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Die beiliegende LEGO City Straßenplatte kann mit einer Winde in Position gebracht und dann mit anderen Sets verbunden werden
 - Inklusive Fahrer- und Kranführer-Minifiguren und Spielzeugzubehör: ein Schraubenschlüssel, ein Walkie-Talkie und 2 Schutzhelme für realistischen Spielspaß
-- Sobald der Spielzeug-LKW in Position ist, können die Kinder die Stützfüße des mobilen Krans absenken, den Ausleger drehen und ausfahren und die Winde anheben und absenken
-- Der Bau deiner Stadt hat noch nie so viel Spaß gemacht! Wenn du fertig bist, sichere den Windenhaken und starte dein nächstes Abenteuer
 - Dieses Kinderspielzeug von LEGO City enthält einen mobilen Spielzeugkran mit beweglichen Stützfüßen, einem Kranausleger und einer Winde auf einem LKW mit 6 Rädern
+- Der Bau deiner Stadt hat noch nie so viel Spaß gemacht! Wenn du fertig bist, sichere den Windenhaken und starte dein nächstes Abenteuer
+- Die beiliegende LEGO City Straßenplatte kann mit einer Winde in Position gebracht und dann mit anderen Sets verbunden werden
+- Sobald der Spielzeug-LKW in Position ist, können die Kinder die Stützfüße des mobilen Krans absenken, den Ausleger drehen und ausfahren und die Winde anheben und absenken
 
 [🛒 Buy it now!!]({{< param buyurl >}})

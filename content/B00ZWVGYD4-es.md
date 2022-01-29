@@ -28,8 +28,8 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- LEGO Number 71202
 - Homer
+- LEGO Number 71202
 - Level Pack
 
 [🛒 Buy it!!]({{< param buyurl >}})
