@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60319 City Löscheinsatz und Verfolgungsjagd  Polizeiverfolgung mit Feuerwehrauto und Motorrad  Polizei- und Feuerwehr-Spielzeug ab 5 Jahre'
-date: 2022-01-27 13:22:09
+date: 2022-01-28 23:41:12
 image: 'https://m.media-amazon.com/images/I/51v3MXauxSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Enthält eine Auswahl an Spielzeug-Rettungsfahrzeugen: ein Feuerwehrauto mit einer Drohne, ein Polizeimotorrad, ein Ganoven-Fluchtfahrzeug und eine Feuerkulisse mit Ampeln
-- Zum Spielzeugzubehör in diesem Set gehören ein Fisch, Handschellen, 2 Walkie-Talkies, 3 Geldscheine und ein Gaunersack
 - Begleite den Feuerwehrmann Bob aus der LEGO City TV-Serie an Bord des Feuerwehrautos, fahre zum Einsatzort in die Stadt und schicke die Feuerdrohne hoch, um die Flammen zu löschen
 - Mit dem LEGO City Set können die Kinder Wasserelemente mit der Drohne verschießen, die umgekippte Ampel aktivieren und die LEGO Flammen der Feuerkulisse hoch- und runterfahren
+- Zum Spielzeugzubehör in diesem Set gehören ein Fisch, Handschellen, 2 Walkie-Talkies, 3 Geldscheine und ein Gaunersack
 - Dieses Spielzeugauto ab 5 Jahren umfasst 3 LEGO Minifiguren mit Bob aus der LEGO City TV-Serie und einer Katzenfigur für fantasievolle Abenteuer
 
 [🛒 Buy it now!!]({{< param buyurl >}})
