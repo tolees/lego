@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic 6x6 Knickgelenkter Volvo-Dumper  ferngesteuertes Modellauto  Modellbausatz LKW-Spielzeug für Kinder und Erwachsene'
-date: 2022-01-26 13:59:24
+date: 2022-01-30 14:35:00
 image: 'https://m.media-amazon.com/images/I/51bnf+H9LhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00DFM7HVK-de LEGO 42114 Technic 6x6 Knickgelenkter Volvo-Dumper...'
 sku: 'B00DFM7HVK-de'
 tags: [ 'Spielfahrzeuge','Spielzeug','lego', ]
-actualPrice: 188.69 EUR
+actualPrice: 188.43 EUR
 currency: EUR
-price: 188.69
+price: 188.43
 comparePrice: 249.99 EUR
 prodname: 'LEGO 42114 Technic 6x6 Knickgelenkter Volvo-Dumper  ferngesteuertes Modellauto  Modellbausatz LKW-Spielzeug für Kinder und Erwachsene'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B00DFM7HVK/?tag=tolees0ca-21'
-descuento: '24.52'
-average: '185.445993150685'
+descuento: '24.62'
+average: '185.456177474403'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
