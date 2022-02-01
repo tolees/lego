@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- La gamme LEGO NINJAGO propose d’incroyable sets de jeu qui feront la fierté des fans de ninjas. Les enfants acquièrent des compétences positives par le biais des aventures passionnantes qu’ils vivent avec leurs héros ninjas.
 - Le catamaran de bataille des gardiens est doté de 2 fusils à ressorts et peut être divisée en 3 bateaux distincts : l’un avec une mini-prison pour ninjas et un autre avec 2 fusils à tenons et une caisse de diamants.
+- La gamme LEGO NINJAGO propose d’incroyable sets de jeu qui feront la fierté des fans de ninjas. Les enfants acquièrent des compétences positives par le biais des aventures passionnantes qu’ils vivent avec leurs héros ninjas.
 - Avec plus de 22 cm de haut, 33 cm de long et 24 cm de large, le catamaran des Gardiens présente des dimensions idéales pour décorer la chambre d’un enfant entre deux batailles.
-- Inclut 6 figurines de la série télévisée NINJAGO : Jay de l’île, Zane de l’île et Kai de l’île, ainsi que leurs ennemis le chef Mammatus, le Gardien du grondement et le Gardien du Tonnerre. Chacun des 6 personnages est équipé d’incroyables armes !
-- Ce set de bataille de 780 pièces propose une expérience de construction amusante aux enfants de 9 ans et plus et constitue un impressionnant cadeau d’anniversaire ou de Noël.
 - D’autres sets NINJAGO inspirés de la série télévisée à découvrir : La moto de la jungle de Lloyd (71745), Le dragon de la jungle (71746) et Le village des Gardiens (71747).
-- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
 - Le catamaran des ninjas inclut 2 fusils à ressorts ; il peut se replier pour passer en mode Vitesse et se déplier pour passer en mode Attaque.
+- Inclut 6 figurines de la série télévisée NINJAGO : Jay de l’île, Zane de l’île et Kai de l’île, ainsi que leurs ennemis le chef Mammatus, le Gardien du grondement et le Gardien du Tonnerre. Chacun des 6 personnages est équipé d’incroyables armes !
+- Livré dans un emballage Déballer sans sénerver, facile à ouvrir et composé de matériaux 100 % recyclables
+- Ce set de bataille de 780 pièces propose une expérience de construction amusante aux enfants de 9 ans et plus et constitue un impressionnant cadeau d’anniversaire ou de Noël.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
