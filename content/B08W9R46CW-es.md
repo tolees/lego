@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71734 Ninjago Moto Acuchilladora de Kai  Juguete de Construcción con Mini Figura de Ninja para Niños 4 Años'
-date: 2022-01-31 19:19:00
+date: 2022-02-02 00:00:14
 image: 'https://m.media-amazon.com/images/I/51kDEoJZlkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W9R46CW/?tag=tolees-21'
 descuento: '20.02'
-average: '8.72200000000001'
+average: '8.68714285714287'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
