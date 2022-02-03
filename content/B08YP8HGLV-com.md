@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Boba Fett’s Starship 75312 Fun Toy Building Kit; Awesome Gift Idea for Kids; New 2021  593 Pieces '
-date: 2022-02-02 03:54:31
+date: 2022-02-03 17:05:34
 image: 'https://m.media-amazon.com/images/I/51QFezx7cyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Kids can recreate Star Wars: The Mandalorian Season 2 battle scenes and play out their own bounty-hunting missions with this cool LEGO brick version of Boba Fett’s Starship (75312)
 - Includes 2 LEGO minifigures: Boba Fett with a blaster and The Mandalorian with his blaster rifle and a beskar spear, plus a Carbonite brick to add to the creative play possibilities
 - This buildable toy playset offers a fun, creative solo or group activity and makes the best birthday present, holiday gift or surprise treat for trend-setting kids aged 9 and up
-- Also includes a transporter vehicle to move the starship on the ground in play scenarios; this also makes a great display stand for builders to show off their creation in an upright flight position
 - The starship has a handle for easy flying, an opening LEGO minifigure cockpit, rotating wings, 2 stud shooters, 2 rotating dual blaster cannons (non-shooting) and a compartment for a Carbonite brick
+- Also includes a transporter vehicle to move the starship on the ground in play scenarios; this also makes a great display stand for builders to show off their creation in an upright flight position
+- Kids can recreate Star Wars: The Mandalorian Season 2 battle scenes and play out their own bounty-hunting missions with this cool LEGO brick version of Boba Fett’s Starship (75312)
 
 [🛒 Buy it!!]({{< param buyurl >}})
