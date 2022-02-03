@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets'
-date: 2022-02-02 14:34:50
+date: 2022-02-03 15:40:46
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0813QBV6V-co.uk LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower...'
 sku: 'B0813QBV6V-co.uk'
 tags: [ 'Building & Construction Toy Figures','Building & Construction Toys','Toys & Games','Toys Store','lego', ]
-actualPrice: 73.53 GBP
+actualPrice: 73.44 GBP
 currency: GBP
-price: 73.53
+price: 73.44
 comparePrice: 89.99 GBP
 prodname: 'LEGO 75969 Harry Potter Hogwarts Castle Astronomy Tower Toy Compatible with Great Hall and Whomping Willow Sets'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21'
-descuento: '18.29'
-average: '73.7897975708504'
+descuento: '18.39'
+average: '73.7890909090911'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
 - Build the intricate multi-level Hogwarts Astronomy Tower and explore all it has to offer while recreating popular scenes from the movie
+- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
 - Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
 - Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
-- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
