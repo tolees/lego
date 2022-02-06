@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque  Juguete de Construcción a Partir de 9 Años con 5 Mini Figuras de Clones y un Droide Gonk'
-date: 2022-02-04 17:01:52
+date: 2022-02-05 22:12:42
 image: 'https://m.media-amazon.com/images/I/51kKmLX4knS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21'
 descuento: '22.73'
-average: '85.8454255319149'
+average: '85.8364210526316'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
