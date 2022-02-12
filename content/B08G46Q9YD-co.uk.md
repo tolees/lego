@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75306 Star Wars Imperial Probe Droid Building Set for Adults  Collectible Gift for The Empire Strikes Back Fans'
-date: 2022-02-09 12:43:16
+date: 2022-02-12 12:44:41
 image: 'https://m.media-amazon.com/images/I/51cUy5HJUBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G46Q9YD/?tag=tolees0a-21'
 descuento: '25.00'
-average: '45.2762500000001'
+average: '45.259411764706'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Features a detailed LEGO Star Wars set for adults - the Imperial Probe Droid display model, completed with an information plaque
-- Relive Star Wars: The Empire Strikes Back scenes on the ice planet Hoth with this premium-quality, 683-piece building set for adults
-- Makes a terrific treat for yourself and an ideal gift for any Star Wars fan, experienced - or not - LEGO builder or a hobbyist
-- Measuring over 27cm/10.5in high, this construction set is a part of a series of collectible LEGO Star Wars build-to-display models
 - The droid model has posable legs and comes with a transparent, brick-built pole to ‘suspend’ it above a buildable snowy scene
+- Features a detailed LEGO Star Wars set for adults - the Imperial Probe Droid display model, completed with an information plaque
+- Makes a terrific treat for yourself and an ideal gift for any Star Wars fan, experienced - or not - LEGO builder or a hobbyist
+- Relive Star Wars: The Empire Strikes Back scenes on the ice planet Hoth with this premium-quality, 683-piece building set for adults
 - Top Star Wars gift idea, this buildable model does not need much space for display, but it is sure to grab attention in a home or office
+- Measuring over 27cm/10.5in high, this construction set is a part of a series of collectible LEGO Star Wars build-to-display models
 
 [🛒 Check the deal!!]({{< param buyurl >}})
