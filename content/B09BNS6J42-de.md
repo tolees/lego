@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10782 Marvel Spidey und Seine Super-Freunde Hulks und Rhinos Monster Truck-Duell  Spider-Man-Set  Superhelden-Spielzeug zum Bauen ab 4 Jahren'
-date: 2022-02-18 10:53:21
+date: 2022-02-20 17:03:14
 image: 'https://m.media-amazon.com/images/I/51KXwSoOQJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNS6J42/?tag=tolees0ca-21'
 descuento: '33.62'
-average: '13.345'
+average: '13.3075'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
