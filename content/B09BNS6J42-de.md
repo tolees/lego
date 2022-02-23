@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10782 Marvel Spidey und Seine Super-Freunde Hulks und Rhinos Monster Truck-Duell  Spider-Man-Set  Superhelden-Spielzeug zum Bauen ab 4 Jahren'
-date: 2022-02-21 20:32:18
+date: 2022-02-22 21:51:00
 image: 'https://m.media-amazon.com/images/I/51KXwSoOQJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNS6J42-de LEGO 10782 Marvel Spidey und Seine Super-Freunde Hulks und...'
 sku: 'B09BNS6J42-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 13.27 EUR
+actualPrice: 12.53 EUR
 currency: EUR
-price: 13.27
+price: 12.53
 comparePrice: 19.99 EUR
 prodname: 'LEGO 10782 Marvel Spidey und Seine Super-Freunde Hulks und Rhinos Monster Truck-Duell  Spider-Man-Set  Superhelden-Spielzeug zum Bauen ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNS6J42/?tag=tolees0ca-21'
-descuento: '33.62'
-average: '13.3'
+descuento: '37.32'
+average: '13.1716666666667'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dieses Monster-Truck-Spielzeug zum Bauen aus der Serie „Spidey und seine Super-Freunde“ enthält 2 LEGO Fahrzeuge, 3 Minifiguren, ein Spider-Man-Jetpack und einen Banktresor
 - Dieses LEGO Spielzeug enthält einen Startbaustein und eine leicht verständliche Bauanleitung, damit die Kinder lernen zu bauen und ihr kreatives Selbstvertrauen entfalten
-- Inklusive 3 LEGO Minifiguren: Spider-Man, Hulk und Rhino. Das Hulk-Spielzeug zum Bauen verfügt über 2 austauschbare Köpfe mit unterschiedlichen Gesichtsausdrücken für noch mehr Spielspaß
-- Spider-Mans Jetpack feuert Raketen ab und der Tresor verfügt über eine herausnehmbare Wertkassette, die in den Kofferraum von Rhinos Truck passt
 - Kinder und Erwachsene werden die rasante Action lieben, bei der die beiden Monster Trucks aufeinanderprallen und Spider-Man in die Luft fliegt, um Rhino mit seinem Netz zu fangen
+- Spider-Mans Jetpack feuert Raketen ab und der Tresor verfügt über eine herausnehmbare Wertkassette, die in den Kofferraum von Rhinos Truck passt
+- Dieses Monster-Truck-Spielzeug zum Bauen aus der Serie „Spidey und seine Super-Freunde“ enthält 2 LEGO Fahrzeuge, 3 Minifiguren, ein Spider-Man-Jetpack und einen Banktresor
+- Inklusive 3 LEGO Minifiguren: Spider-Man, Hulk und Rhino. Das Hulk-Spielzeug zum Bauen verfügt über 2 austauschbare Köpfe mit unterschiedlichen Gesichtsausdrücken für noch mehr Spielspaß
 
 [🛒 Check the deal!!]({{< param buyurl >}})
