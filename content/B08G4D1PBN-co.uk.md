@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Also includes a cute LEGO figure of The Child - the fan-favorite popular character affectionately known as Baby Yoda
+- Includes The Mandalorian and Tusken Raider LEGO minifigures, each with weapons for roleplay battles, plus a camp fire, pan and a bone!
+- This Star Wars building toy for kids 7+ years old makes a creative Christmas gift or stocking filler present idea that will entertain for hours
 - Features a speeder model with a LEGO minifigure seat and saddlebag for the Child to sit in, from Star Wars: The Mandalorian Season 2 series
 - The set also features a buildable Tusken semi-round hinged hut hideout and spring-loaded, missile-shooting ballista for the Tusken Raider
-- This Star Wars building toy for kids 7+ years old makes a creative Christmas gift or stocking filler present idea that will entertain for hours
-- Includes The Mandalorian and Tusken Raider LEGO minifigures, each with weapons for roleplay battles, plus a camp fire, pan and a bone!
 - It comes with illustrated, step-by-step instructions so even LEGO newcomers can build with confidence
+- Also includes a cute LEGO figure of The Child - the fan-favorite popular character affectionately known as Baby Yoda
 
 [🛒 Buy it!!]({{< param buyurl >}})
