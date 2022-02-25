@@ -28,13 +28,13 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Les places de parking ont une rampe d’accès et une barrière amovible ; avec également une plateforme de chargement et une machine à ticket pour plus de possibilités de jeu
 - Ce jouet garage voiture pour enfants 2 ans et plus inclut une station de lavage avec un rideau de lavage en tissu et une place de parking sur le toit
-- 4 figurines DUPLO sont comprises dans ce jeu de construction : 2 hommes, une mamie et un enfant, en plus d’un chien pour des possibilités de jeu infinies
-- Les places de parking ont une rampe d’accès et une barrière amovible ; avec également une plateforme de chargement et une machine à ticket pour plus de possibilités de jeu
-- _x000D_
-- Inclut 2 jouets voitures pour bébé, dont une avec une fonction mécanique à pousser, en plus d’un van à toit ouvrant pour 3 figurines et le rangement d’équipement
-- _x000D_
 - Tous les sets LEGO DUPLO sont conçus de façon ingénieuse et imaginative pour offrir des possibilités infinies de jeu d’éveil en toute liberté. Des moments précieux que les parents peuvent partager avec leurs tout-petits.
+- Inclut 2 jouets voitures pour bébé, dont une avec une fonction mécanique à pousser, en plus d’un van à toit ouvrant pour 3 figurines et le rangement d’équipement
+- 4 figurines DUPLO sont comprises dans ce jeu de construction : 2 hommes, une mamie et un enfant, en plus d’un chien pour des possibilités de jeu infinies
+- _x000D_
+- _x000D_
+- Les places de parking ont une rampe d’accès et une barrière amovible ; avec également une plateforme de chargement et une machine à ticket pour plus de possibilités de jeu
+- Les places de parking ont une rampe d’accès et une barrière amovible ; avec également une plateforme de chargement et une machine à ticket pour plus de possibilités de jeu
 
 [🛒 Buy it!!]({{< param buyurl >}})
