@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71387 Super Mario Aventuras con Luigi Pack Inicial  Juguete con Mini Figura Interactiva  Set de Construcción  Starter Pack'
-date: 2022-02-24 23:45:36
+date: 2022-02-26 01:25:26
 image: 'https://m.media-amazon.com/images/I/516tZ5AN5-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W9YYV8P/?tag=tolees-21'
 descuento: '33.34'
-average: '46.3959999999999'
+average: '46.3117105263157'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Luigis speaker plays iconic sounds & music from the video game while collecting digital coins for spinning seesaw and flying challenges
-- The LEGO Luigi figure is powered by 2 x AAA batteries (not included), delivering a highly interactive play experience with instant feedback
-- LEGO Luigi has a colour sensor and an LCD screen to display many different instant reactions to movement and action bricks alongside his path
-- This LEGO Super Mario Adventures with Luigi Starter Course brings all the excitement into the real-world; featuring a LEGO Luigi figure for fun interactive family or solo play
-- Includes Pink Yoshi, Boom Boom and Bone Goomba figures adding action from Start Pipe to Goal Pole - look how LEGO Luigi figure reacts to them
+- La app gratuita de LEGO ofrece instrucciones de construcción, consejos creativos y una plataforma segura que los niños puedan compartir sus ideas - visita LEGO.com/devicecheck
+- Este realista set de aventuras de LEGO Super Mario Luigi Pack Inicial incluye una figura de LEGO Luigi para una diversión interactiva en familia o en solitario
+- La figura de LEGO Luigi tiene un sensor en color y una pantalla LCD para mostrar diferentes reacciones al movimiento y a las piezas durante el camino
+- La figura de LEGO Luigi funciona con 2 pilas AAA (no incluidas), proporcionando una experiencia de juego interactiva con respuestas instantáneas
+- El altavoz de Luigi toca música y sonidos del videojuego de Mario Bros mientras coleccionas monedas digitales con todos los desafíos
+- Este Starter Pack de Super Mario es un formidable regalo de cumpleaños que puede ser reconstruido y combinado con otros sets LEGO Super Mario
+- Incluye las figuras LEGO de Pink Yoshi, Boom Boom y Goomba añadiendo acción desde el inicio hasta el final - mira como la figura de LEGO Luigi reacciona
 
 [🛒 Buy it!!]({{< param buyurl >}})
