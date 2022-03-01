@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Zu diesem Schulbus gehören auch eine Mini-Puppe im Rollstuhl und eine Lollipop-Dame als Minifiguren!
-- Die Schule verfügt über 2 Klassenzimmer mit einem Bunsenbrenner, einem anatomischen Skelett, Tischen und einer Tafel, die zu stundenlangem Experimentieren einladen
-- Inklusive 7 LEGO Minifiguren, darunter Billy und Maddy aus der LEGO City TV-Serie, einem Eichhörnchen, einer Gitarre, einem Schlagzeug und einem Mikrofon
 - Mithilfe der beiliegenden LEGO Straßenplatten mit Spielzeug-Ampeln, Zebrastreifen und Fahrradwegen kannst du die Stadt mit anderen LEGO City Sets erweitern
+- Die Schule verfügt über 2 Klassenzimmer mit einem Bunsenbrenner, einem anatomischen Skelett, Tischen und einer Tafel, die zu stundenlangem Experimentieren einladen
+- Zu diesem Schulbus gehören auch eine Mini-Puppe im Rollstuhl und eine Lollipop-Dame als Minifiguren!
 - Dieses LEGO City Abenteuer Spielzeug enthält eine zweistöckige Schule mit Schulhof und Klassenzimmern, ein Spielzeugfahrrad, einen Spielzeug-Schulbus und eine Bushaltestelle
+- Inklusive 7 LEGO Minifiguren, darunter Billy und Maddy aus der LEGO City TV-Serie, einem Eichhörnchen, einer Gitarre, einem Schlagzeug und einem Mikrofon
 
 [🛒 Buy it!!]({{< param buyurl >}})

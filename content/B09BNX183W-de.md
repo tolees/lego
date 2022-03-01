@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Nachdem er seinen Mech und seine Rüstung verbessert hat, springt Zane ins Cockpit und kämpft mit einem Schwert und einem coolen rotierenden Ninja-Stern
-- Enthält eine Mech-Actionfigur mit beweglichen Gliedmaßen, einen großen rotierenden Ninja-Stern und ein Cockpit, in das Kinder die LEGO NINJAGO Figur von Zane setzen können
 - Die LEGO NINJAGO Sets locken Kinder von ihren Bildschirmen weg und versetzen sie in eine mystische Welt, in der sie es mit den Mächten des Bösen aufnehmen
 - Wenn die Kinder die Gegner der Ninjas besiegen und ihre Mission erfüllt haben, werden sie mit einem Tarnungsbanner zum Sammeln belohnt
 - Dieses NINJAGO Spielzeug beinhaltet eine Figur von Zane mit Schwert und Rüstung und den Kobra-Mechaniker mit Blasterpistole
+- Enthält eine Mech-Actionfigur mit beweglichen Gliedmaßen, einen großen rotierenden Ninja-Stern und ein Cockpit, in das Kinder die LEGO NINJAGO Figur von Zane setzen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
