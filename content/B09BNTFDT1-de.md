@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60329 City Schule mit Schulbus  2 Klassenzimmern und Straßenplatten  Abenteuer-Spielzeug für Kinder ab 6 Jahren  Schultag in der Stadt  Geschenk'
-date: 2022-02-28 13:48:40
+date: 2022-03-01 18:51:39
 image: 'https://m.media-amazon.com/images/I/51Y1xQcRG-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNTFDT1/?tag=tolees0ca-21'
 descuento: '33.12'
-average: '40.8028571428572'
+average: '40.7175000000001'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Zu diesem Schulbus gehören auch eine Mini-Puppe im Rollstuhl und eine Lollipop-Dame als Minifiguren!
+- Die Schule verfügt über 2 Klassenzimmer mit einem Bunsenbrenner, einem anatomischen Skelett, Tischen und einer Tafel, die zu stundenlangem Experimentieren einladen
 - Inklusive 7 LEGO Minifiguren, darunter Billy und Maddy aus der LEGO City TV-Serie, einem Eichhörnchen, einer Gitarre, einem Schlagzeug und einem Mikrofon
 - Mithilfe der beiliegenden LEGO Straßenplatten mit Spielzeug-Ampeln, Zebrastreifen und Fahrradwegen kannst du die Stadt mit anderen LEGO City Sets erweitern
-- Die Schule verfügt über 2 Klassenzimmer mit einem Bunsenbrenner, einem anatomischen Skelett, Tischen und einer Tafel, die zu stundenlangem Experimentieren einladen
 - Dieses LEGO City Abenteuer Spielzeug enthält eine zweistöckige Schule mit Schulhof und Klassenzimmern, ein Spielzeugfahrrad, einen Spielzeug-Schulbus und eine Bushaltestelle
 
 [🛒 Buy it!!]({{< param buyurl >}})
