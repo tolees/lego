@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10939 Duplo L’évasion du T. Rex et du Tricératops Jouet pour Enfants 2 Ans et Plus  avec Moto'
-date: 2022-03-01 07:22:11
+date: 2022-03-02 11:42:02
 image: 'https://m.media-amazon.com/images/I/51aLfCc9b7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B08GPHG4WF/?tag=tolees0d-21'
 descuento: '37.51'
-average: '20.2207317073169'
+average: '20.185476190476'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
