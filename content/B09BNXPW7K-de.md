@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42127 Technic BATMANS BATMOBIL Spielzeugauto  Modellauto-Bausatz aus dem Batman-Film von 2022 mit Leuchtsteinen für Kinder und Jugendliche'
-date: 2022-02-21 20:33:49
+date: 2022-03-04 10:19:40
 image: 'https://m.media-amazon.com/images/I/51uaVaVYaSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNXPW7K/?tag=tolees0ca-21'
 descuento: '28.00'
-average: '76.99'
+average: '74.99'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Erforsche alle Funktionen dieses coolen Batman-Spielzeugautos und stelle es dann in die Vitrine, um sein authentisches Design zu bewundern
-- Weitere Besonderheiten sind die Vorderradlenkung, das Differenzialgetriebe an den Hinterrädern sowie die Türen und die Motorhaube zum Öffnen
-- Dank der 2 Leuchtsteine, dem 8-Zylinder-Motor mit beweglichen Kolben und der rotierenden Flamme bietet dieses epische Modellauto jede Menge zu entdecken
 - Die 2 Leuchtbausteine erwecken das Batman-Auto zum Leben: Der rote Stein bringt den transparenten LEGO Technic Motor zum Leuchten, während der gelbe Stein den Frontgrill beleuchtet
+- Dank der 2 Leuchtsteine, dem 8-Zylinder-Motor mit beweglichen Kolben und der rotierenden Flamme bietet dieses epische Modellauto jede Menge zu entdecken
+- Erforsche alle Funktionen dieses coolen Batman-Spielzeugautos und stelle es dann in die Vitrine, um sein authentisches Design zu bewundern
 - Enthält eine lebensechte LEGO Technic Nachbildung des BATMOBIL – des ikonischen Superhelden-Autos aus dem Batman-Film von 2022
+- Weitere Besonderheiten sind die Vorderradlenkung, das Differenzialgetriebe an den Hinterrädern sowie die Türen und die Motorhaube zum Öffnen
 
 [🛒 Buy it!!]({{< param buyurl >}})
