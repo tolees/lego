@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses LEGO Avengers Set enthält ein baubares Motorrad-Spielzeug und einen Disc-Shooter mit abnehmbarem Blaster für endlose Kämpfe zwischen Gut und Böse
-- Ein großer Startbaustein und einfache Bauschritte sorgen dafür, dass Vorschulkinder das Motorrad mit den klobigen Rädern selbstbewusst zusammenbauen können
-- Enthalten sind eine Captain America Figur mit seinem berühmten Schild und Hydra-Agenten-Minifiguren, um endlose Superhelden-Abenteuer zu erfinden
 - Bei den LEGO Superhelden lassen Kinder Captain America gegen einen bösen Hydra kämpfen, genau wie in Marvel Studios Avengers: Age of Ultron
 - Das LEGO Captain America Spielzeug ab 4 Jahren wurde entwickelt, um die Vorstellungskraft, die Geschicklichkeit und das Selbstvertrauen von Kindern im Vorschulalter zu fördern
+- Ein großer Startbaustein und einfache Bauschritte sorgen dafür, dass Vorschulkinder das Motorrad mit den klobigen Rädern selbstbewusst zusammenbauen können
+- Enthalten sind eine Captain America Figur mit seinem berühmten Schild und Hydra-Agenten-Minifiguren, um endlose Superhelden-Abenteuer zu erfinden
+- Dieses LEGO Avengers Set enthält ein baubares Motorrad-Spielzeug und einen Disc-Shooter mit abnehmbarem Blaster für endlose Kämpfe zwischen Gut und Böse
 
 [🛒 Buy it now!!]({{< param buyurl >}})
