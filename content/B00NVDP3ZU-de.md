@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Unzählige Räder ermöglichen den Bau unterschiedlichster Fahrzeuge und somit auch ein vielseitiges, kreatives Spielen.
+- Das Set ist in einer praktischen Kunststoff-Aufbewahrungsbox verpackt.
+- Beinhaltet 18 Reifen und 18 Felgen
 - Spezielle Elemente regen zu besonders fantasievollen Bauvorhaben an.
 - Zu den speziellen Elementen zählen eine 8 x 16 cm große Grundplatte, ein Fenster mit Rahmen sowie 3 Augenpaare.
-- Alle abgebildeten Modelle lassen sich gleichzeitig aus diesem Set bauen.
-- Beinhaltet 18 Reifen und 18 Felgen
-- Die grüne Grundplatte ist 8 cm lang und 16 cm breit.
 - In den Bauanleitungen, die dem Set beiliegen, sowie auf LEGO.com/classic findest du Ideen, die dir den Einstieg erleichtern.
-- Enthält ein breites Spektrum an LEGO Steinen in 35 verschiedenen Farben.
-- Das Set ist in einer praktischen Kunststoff-Aufbewahrungsbox verpackt.
 - LEGO Classic wurde entwickelt, um als Inspiration für endlose Kreativität beim Bauen mit LEGO Steinen zu dienen.
-- Unzählige Räder ermöglichen den Bau unterschiedlichster Fahrzeuge und somit auch ein vielseitiges, kreatives Spielen.
+- Alle abgebildeten Modelle lassen sich gleichzeitig aus diesem Set bauen.
+- Enthält ein breites Spektrum an LEGO Steinen in 35 verschiedenen Farben.
+- Die grüne Grundplatte ist 8 cm lang und 16 cm breit.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
