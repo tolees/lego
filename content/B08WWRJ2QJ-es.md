@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76389 Harry Potter Castillo Hogwarts: Cámara SecretaSet para el 20 Aniversario con Mini Figura DoradaJuguete para Niños'
-date: 2022-02-21 06:51:19
+date: 2022-03-05 05:10:15
 image: 'https://m.media-amazon.com/images/I/51LuITxaOPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WWRJ2QJ-es LEGO 76389 Harry Potter Castillo Hogwarts: Cámara...'
 sku: 'B08WWRJ2QJ-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego', ]
-actualPrice: 104.99 EUR
+actualPrice: 114.99 EUR
 currency: EUR
-price: 104.99
+price: 114.99
 comparePrice: 139.99 EUR
 prodname: 'LEGO 76389 Harry Potter Castillo Hogwarts: Cámara SecretaSet para el 20 Aniversario con Mini Figura DoradaJuguete para Niños'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWRJ2QJ/?tag=tolees-21'
-descuento: '25.00'
-average: '122.552692307692'
+descuento: '17.86'
+average: '122.41'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
