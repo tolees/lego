@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Toddlers aged 1.5+ improve their fine motor skills as they stack letter bricks onto the toy truck while learning how to spell basic words (F-U-N!)
 - Features a truck toy with 26 toddler-friendly bricks displaying all the letters of the English alphabet to learn while loading and unloading
 - This learning toy is easy for small hands to pick up and place colourful bricks which encourage the development of language, social and emotional skills
 - Includes a boy, girl and adorable teddy bear to introduce preschoolers to learning with an open-ended creative play that inspires young minds
+- Toddlers aged 1.5+ improve their fine motor skills as they stack letter bricks onto the toy truck while learning how to spell basic words (F-U-N!)
 - A simple guide provides toddlers with ideas and inspiration to get them building while delivering early developmental benefits to preschool kids
 
 [🛒 Buy it now!!]({{< param buyurl >}})
