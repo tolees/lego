@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60301 City Wildlife Rescue Off Roader Vehicle Car Toy  Building Set with Animal Figures for Preschool Kids 4 Plus Years Old'
-date: 2022-03-03 09:53:35
+date: 2022-03-08 13:36:22
 image: 'https://m.media-amazon.com/images/I/51rhSMjT82S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WWQ6TK4-co.uk LEGO 60301 City Wildlife Rescue Off Roader Vehicle Car...'
 sku: 'B08WWQ6TK4-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys Store','lego', ]
-actualPrice: 25.0 GBP
+actualPrice: 30.95 GBP
 currency: GBP
-price: 25.0
+price: 30.95
 comparePrice: 39.99 GBP
 prodname: 'LEGO 60301 City Wildlife Rescue Off Roader Vehicle Car Toy  Building Set with Animal Figures for Preschool Kids 4 Plus Years Old'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWQ6TK4/?tag=tolees0a-21'
-descuento: '37.48'
-average: '27.9266666666667'
+descuento: '22.61'
+average: '28.3585714285715'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This toy for kids 4+ years old comes with a simple building guide and a Starter Brick element to help youngsters to start building confidently
-- Includes the LEGO City Adventures TV character Jessica Sharpe, a ranger and explorer minifigures, plus lion, a lion cub and snake figures
-- This LEGO City Wildlife Rescue off-roader toy car set for animal rescue fans features a toy 4x4, water scooter and a realistic savanna setting
 - LEGO accessories include a toy snake egg, snake grabber, 2 crates, binoculars, walkie-talkie, camera, bones, bottle, sausage and a hairbrush
+- This toy for kids 4+ years old comes with a simple building guide and a Starter Brick element to help youngsters to start building confidently
 - Kids can activate the collapsing bridge function, work the off-roader’s winch or enjoy leisure time at the camp site
+- This LEGO City Wildlife Rescue off-roader toy car set for animal rescue fans features a toy 4x4, water scooter and a realistic savanna setting
+- Includes the LEGO City Adventures TV character Jessica Sharpe, a ranger and explorer minifigures, plus lion, a lion cub and snake figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
