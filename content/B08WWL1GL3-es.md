@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Incluye una zona de ocio y reuniones, donde los superhéroes pueden reunirse, un camión que se abre para revelar una máquina que viaja en el tiempo y una celda de prisión
-- También incluye la figura de Thanos de Marvel Avengers y una microfigura de Ant-Man; los accesorios incluyen bocadillos, bebidas y un estante para armas
-- Este set de construcción LEGO Marvel Avengers cuenta con el laboratorio donde Iron Man está construyendo el impresionante Nano Gaúntlet
-- Este juguete de superhéroe para niños está repleto de detalles auténticos, como la espada de doble hoja de Thanos, que se convierte en 2 espadas de una mano
 - Incluye 6 mini figuras LEGO Vengadores: Thor, Capitán América, Black Panther, Iron Man, Bruja Escarlata y un guerrero Centauri
+- Este set de construcción LEGO Marvel Avengers cuenta con el laboratorio donde Iron Man está construyendo el impresionante Nano Gaúntlet
+- También incluye la figura de Thanos de Marvel Avengers y una microfigura de Ant-Man; los accesorios incluyen bocadillos, bebidas y un estante para armas
+- Este juguete de superhéroe para niños está repleto de detalles auténticos, como la espada de doble hoja de Thanos, que se convierte en 2 espadas de una mano
 - Las características incluyen un gran cañón que gira, se inclina y dispara una gran flecha con punta de goma y un radar de giro e inclinación en el techo
 
 [🛒 Check the deal!!]({{< param buyurl >}})
