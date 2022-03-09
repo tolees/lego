@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Der Weltraum-Mech Spielzeug kann seine Arme und Beine bewegen, um verschiedene Posen einzunehmen, und verfügt über eine Kreissäge, einen Raketenrucksack und veränderbare Gesichtsausdrücke
-- Mit dem LEGO Creator 3-in-1-Weltraum-Mech können Kinder 3 aufregende Modelle bauen: Eine Mech-Actionfigur, einen Lastenträger und ein Weltraumroboter-Spielzeug
-- 327 Teile machen dieses LEGO Creator 3-in-1-Set zu einem tollen Bauprojekt für Weltraumfans ab 7 Jahren – das perfekte Geburtstags- oder Weihnachtsgeschenk
-- Die Weltraum-Mech-Actionfigur beinhaltet eine grüne Alienfigur und mehrere Kristalle, die im smarten Raketenrucksack des Mechs aufbewahrt werden können
 - Baue den Weltraum-Mech in einen vierbeinigen Lastenträger oder einen zweibeinigen Roboter um, in denen jeweils ein Roboterpilot Platz hat, und erlebe spannende Weltraumabenteuer
+- 327 Teile machen dieses LEGO Creator 3-in-1-Set zu einem tollen Bauprojekt für Weltraumfans ab 7 Jahren – das perfekte Geburtstags- oder Weihnachtsgeschenk
+- Mit dem LEGO Creator 3-in-1-Weltraum-Mech können Kinder 3 aufregende Modelle bauen: Eine Mech-Actionfigur, einen Lastenträger und ein Weltraumroboter-Spielzeug
+- Der Weltraum-Mech Spielzeug kann seine Arme und Beine bewegen, um verschiedene Posen einzunehmen, und verfügt über eine Kreissäge, einen Raketenrucksack und veränderbare Gesichtsausdrücke
+- Die Weltraum-Mech-Actionfigur beinhaltet eine grüne Alienfigur und mehrere Kristalle, die im smarten Raketenrucksack des Mechs aufbewahrt werden können
 
 [🛒 Buy it!!]({{< param buyurl >}})
