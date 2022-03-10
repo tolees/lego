@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Tras realizar alucinantes acrobacias con el monster truck de juguete, transforma la maqueta en un coche con mecanismo retráctil para una emocionante sesión de juego
-- Los peques podrán realizar arriesgados saltos utilizando el mecanismo retráctil para enviar su camión por los terrenos más difíciles, ¡como un monster truck de verdad!
 - Este coche de carreras de juguete inspirado en el mítico monstruo marino caribeño, el Iusca, combina un tiburón y un calamar para crear un temible vehículo
-- Este juguete de LEGO Technic cuenta con los dientes del tiburón, además de aletas que se mueven cuando el coche acelera, todo ello inspirado en el legendario monstruo marino
+- Tras realizar alucinantes acrobacias con el monster truck de juguete, transforma la maqueta en un coche con mecanismo retráctil para una emocionante sesión de juego
 - Incluye un camión Monster Jam Megalodon 2 en 1 de LEGO Technic que se transforma en un coche de juguete «Iusca» Low Racer
+- Este juguete de LEGO Technic cuenta con los dientes del tiburón, además de aletas que se mueven cuando el coche acelera, todo ello inspirado en el legendario monstruo marino
+- Los peques podrán realizar arriesgados saltos utilizando el mecanismo retráctil para enviar su camión por los terrenos más difíciles, ¡como un monster truck de verdad!
 - Las maquetas construibles de LEGO Technic son una divertida introducción a la ingeniería, y un fabuloso e inspirador regalo para niños y adolescentes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
