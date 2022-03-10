@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Este juguete de construcción para niños de los Vengadores es un regalo especial de cumpleaños, Navidad y vacaciones para los fans de las películas de Marvel de 8 años en adelante
-- Cuenta con una cabina abatible en la que una mini figura se puede sentar a los controles disparando 2 cañones y esquivando el bláster del enemigo
-- Los niños pueden recrear la acción de alta velocidad de la película Marvel moviendo las 4 alas hacia adelante, hacia atrás, hacia arriba y hacia abajo para realizar maniobras arriesgadas a velocidad
-- Incluye 3 mini figuras LEGO para incentivar un juego imaginativo: Black Panther, su hermana Shuri y un malvado guerrero Chitauri armado con un desintegrador de energía
 - El set LEGO Marvel presenta uno de sus aviones más emblemáticos, el futurista avión de juguete de Black Panther con alas ajustables
+- Los niños pueden recrear la acción de alta velocidad de la película Marvel moviendo las 4 alas hacia adelante, hacia atrás, hacia arriba y hacia abajo para realizar maniobras arriesgadas a velocidad
+- Este juguete de construcción para niños de los Vengadores es un regalo especial de cumpleaños, Navidad y vacaciones para los fans de las películas de Marvel de 8 años en adelante
+- Incluye 3 mini figuras LEGO para incentivar un juego imaginativo: Black Panther, su hermana Shuri y un malvado guerrero Chitauri armado con un desintegrador de energía
+- Cuenta con una cabina abatible en la que una mini figura se puede sentar a los controles disparando 2 cañones y esquivando el bláster del enemigo
 
 [🛒 Buy it!!]({{< param buyurl >}})
