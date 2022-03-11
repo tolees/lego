@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- La maqueta del coche Ford Mustang de juguete trae toda la emoción de las carreras a los peques. ¡Podrán enviar el coche a toda velocidad gracias a su función retráctil
-- Usa la app y comprueba los desafíos para descubrir muchas más maneras divertidas para jugar y explorar completamente la maqueta de tu coche de carreras
-- Esta maqueta de coche para construir está repleta de detalles auténticos y rememora el emblemático aspecto del auténtico coche de carreras Ford Mustang Shelby GT500
 - Descarga la app de RA+ de LEGO, escanea la maqueta, tira hacia atrás del coche usando tu pie y ve cómo cobra vida en emocionantes carreras repletas de adrenalina
+- La maqueta del coche Ford Mustang de juguete trae toda la emoción de las carreras a los peques. ¡Podrán enviar el coche a toda velocidad gracias a su función retráctil
 - Los peques podrán descubrir nuevas y emocionantes experiencias junto a sus padres con la app de RA+ de LEGO con esta maqueta de coche que corre en realidad aumentada como ninguna otra
+- Esta maqueta de coche para construir está repleta de detalles auténticos y rememora el emblemático aspecto del auténtico coche de carreras Ford Mustang Shelby GT500
+- Usa la app y comprueba los desafíos para descubrir muchas más maneras divertidas para jugar y explorar completamente la maqueta de tu coche de carreras
 
 [🛒 Check the deal!!]({{< param buyurl >}})
