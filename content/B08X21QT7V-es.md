@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21226 Art Proyecto de Arte: Creación Conjunta  Set de Construcción  Decoración de Pared  Actividad Para Niños y Adultos'
-date: 2022-03-02 13:51:55
+date: 2022-03-11 19:22:01
 image: 'https://m.media-amazon.com/images/I/61CAjpp8UVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08X21QT7V-es LEGO 21226 Art Proyecto de Arte: Creación Conjunta Set de...'
 sku: 'B08X21QT7V-es'
 tags: [ 'Juguetes','Juguetes y juegos','lego', ]
-actualPrice: 96.74 EUR
+actualPrice: 87.38 EUR
 currency: EUR
-price: 96.74
+price: 87.38
 comparePrice: 119.99 EUR
 prodname: 'LEGO 21226 Art Proyecto de Arte: Creación Conjunta  Set de Construcción  Decoración de Pared  Actividad Para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08X21QT7V/?tag=tolees-21'
-descuento: '19.38'
-average: '92.019'
+descuento: '27.18'
+average: '91.5972727272727'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- No te pierdas el set más creativo de LEGO Art: Proyecto de Arte: Creación Conjunta, con 36 opciones de imágenes y una paleta de colores construible.
 - Cuenta con más de 4000 piezas y 9 placas de decoración de pared con 9 opciones de imágenes para cada una de las 4 temáticas: Alimentación, Motivos, Iconos e Intereses
-- El set de manualidades para niños y adultos puede construirse y reconstruirse una y otra vez, y es un gran regalo creativo para niños y fans de la construcción a partir de 7 años
-- Trabajad juntos para construir y exponer un «collage» personal de imágenes o crea una obra con la minifigura LEGO delante de un fondo estrellado
 - Ordena las baldosas, construye la paleta de colores, elige tus temas preferidos para decorar la pared y empieza a construir mientras disfrutas pasando tiempo con tus seres queridos
+- El set de manualidades para niños y adultos puede construirse y reconstruirse una y otra vez, y es un gran regalo creativo para niños y fans de la construcción a partir de 7 años
+- No te pierdas el set más creativo de LEGO Art: Proyecto de Arte: Creación Conjunta, con 36 opciones de imágenes y una paleta de colores construible.
 - Este set de manualidades LEGO tiene 2 únicos elementos únicos que se pueden colgar y una herramienta para baldosas, ¡para que estas actividades en grupo sean fáciles y divertidas!
+- Trabajad juntos para construir y exponer un «collage» personal de imágenes o crea una obra con la minifigura LEGO delante de un fondo estrellado
 
 [🛒 Check the deal!!]({{< param buyurl >}})
