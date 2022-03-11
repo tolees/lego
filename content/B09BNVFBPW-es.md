@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los sets de LEGO Minecraft ofrecen a los jugadores nuevas formas de disfrutar de su juego favorito, con personajes, escenas y características que cobran vida ladrillo a ladrillo
-- Este set incluye emblemáticas figuras de Minecraft: los personajes de Alex, una champiñaca y un jinete arácnido
 - En el exterior de la casa-champiñón hay una champiñaca que ordeñar, un cofre por descubrir y un jinete esqueleto arácnido con el que luchar
+- Este set incluye emblemáticas figuras de Minecraft: los personajes de Alex, una champiñaca y un jinete arácnido
+- Los sets de LEGO Minecraft ofrecen a los jugadores nuevas formas de disfrutar de su juego favorito, con personajes, escenas y características que cobran vida ladrillo a ladrillo
 - Este versátil set de LEGO Minecraft tiene mucho que ofrecer, como el árbol y la zona del cofre, que pueden reconfigurarse para organizar distintos escenarios
 - Este juguete de construcción de Minecraft es una magnífica idea de regalo de Minecraft para niños y niñas y todos los fans del juego, sin importar su edad
 - Este juguete para niños y niñas a partir de 8 años tiene una casa-champiñón roja de juguete con tejado y paredes abatibles para usar la mesa de trabajo y los muebles del interior

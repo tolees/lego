@@ -28,9 +28,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Contiene 70 piezas + instrucciones (idioma español no garantizado)
-- Pequeño artículo coleccionable, no necesariamente adecuado como regalo para niños
-- Helicóptero
 - LEGO Technic Polybag Set
+- Pequeño artículo coleccionable, no necesariamente adecuado como regalo para niños
+- Contiene 70 piezas + instrucciones (idioma español no garantizado)
+- Helicóptero
 
 [🛒 Buy it!!]({{< param buyurl >}})
