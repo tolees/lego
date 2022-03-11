@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Incluye una sencilla guía de construcción e Instructions PLUS, parte de la app gratuita LEGO Building Instructions para dispositivos inteligentes
-- Este set de operaciones de rescate LEGO City Wildlife cuenta con un helicóptero de juguete con cabrestante, un vehículo de juguete oruga y una clínica veterinaria para animales
-- El helicóptero tiene un cabrestante que funciona, rotores giratorios y un compartimento de carga, y el vehículo oruga tiene una cadena de elevación desmontable y un compartimento de almacenamiento
-- Los accesorios LEGO incluyen una lupa de juguete, un plátano, una escayola médica para el mono, una taza, varios objetos de laboratorio y un huevo de cocodrilo
 - También cuenta con un entorno de sabana con función de deslizamiento de tierra: los niños presionan una palanca y activan activar el deslizamiento de árboles y rocas
 - Este juguete, una idea de regalo para niños y niñas +6 años, incluye figuras LEGO de un elefante, un ternero, un cocodrilo y 2 de monos, además de 4 mini figuras del equipo de rescate de animales
+- El helicóptero tiene un cabrestante que funciona, rotores giratorios y un compartimento de carga, y el vehículo oruga tiene una cadena de elevación desmontable y un compartimento de almacenamiento
+- Este set de operaciones de rescate LEGO City Wildlife cuenta con un helicóptero de juguete con cabrestante, un vehículo de juguete oruga y una clínica veterinaria para animales
+- Los accesorios LEGO incluyen una lupa de juguete, un plátano, una escayola médica para el mono, una taza, varios objetos de laboratorio y un huevo de cocodrilo
+- Incluye una sencilla guía de construcción e Instructions PLUS, parte de la app gratuita LEGO Building Instructions para dispositivos inteligentes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
