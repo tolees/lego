@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Este mágico set Momento Hogwarts mide aproximadamente 12 cm de altura, 8 cm de anchura y 4 cm de profundidad: el tamaño portátil perfecto para transportarlo y jugar cómodamente.
-- Incluye minifiguras de Hermione Granger, Ron Weasley y la Profesora McGonagall, una pizarra, 2 pupitres, 2 sillas, un cofre del tesoro, un armario de almacenamiento, un libro de hechizos e infinidad de accesorios de gran realismo.
-- El set LEGO Harry Potter Momento Hogwarts: Clase de Transfiguración (76382) es un divertido libro para construir con ladrillos que se abre para descubrir un juego inspirado en el aula de la asignatura de Transfiguración de la saga Harry Potter.
-- Los niños abrirán la tapa del set para entrar en la clase de Transfiguración de la Profesora McGonagall. Podrán practicar con un montón de elementos mágicos, ¡pero Ron necesitará ayuda cuando su rata mascota se transforme en un cáliz!
-- Los componentes LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan rigurosos estándares mundiales de seguridad.
-- Forma parte de una serie de sets mágicos coleccionables, cada uno diseñado y decorado para recrear un aula de Hogwarts diferente. Juntos y conectados, crean un innovador espacio de juego de 360 grados.
-- Los componentes LEGO cumplen estrictas normas de calidad del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan perfectamente una y otra vez; así ha sido desde 1958.
-- Cuenta con diversos accesorios para disfrutar de más diversión imaginativa, como una taza de té, un cáliz plateado y una rana para practicar la magia de la transfiguración, e incluye a Scabbers, la rata mascota de Ron.
-- Todos los sets LEGO Harry Potter contienen inconfundibles personajes, divertidas características y conocidos lugares de las populares películas. Un regalo cautivador, práctico y mágico para cualquier joven mago o bruja.
 - Para mayores de 8 años. Apto para jóvenes magos y brujas que busquen una nueva forma de vivir una aventura en el mundo de Harry Potter.
+- Forma parte de una serie de sets mágicos coleccionables, cada uno diseñado y decorado para recrear un aula de Hogwarts diferente. Juntos y conectados, crean un innovador espacio de juego de 360 grados.
+- Incluye minifiguras de Hermione Granger, Ron Weasley y la Profesora McGonagall, una pizarra, 2 pupitres, 2 sillas, un cofre del tesoro, un armario de almacenamiento, un libro de hechizos e infinidad de accesorios de gran realismo.
+- Los componentes LEGO cumplen estrictas normas de calidad del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan perfectamente una y otra vez; así ha sido desde 1958.
+- Todos los sets LEGO Harry Potter contienen inconfundibles personajes, divertidas características y conocidos lugares de las populares películas. Un regalo cautivador, práctico y mágico para cualquier joven mago o bruja.
+- El set LEGO Harry Potter Momento Hogwarts: Clase de Transfiguración (76382) es un divertido libro para construir con ladrillos que se abre para descubrir un juego inspirado en el aula de la asignatura de Transfiguración de la saga Harry Potter.
+- Cuenta con diversos accesorios para disfrutar de más diversión imaginativa, como una taza de té, un cáliz plateado y una rana para practicar la magia de la transfiguración, e incluye a Scabbers, la rata mascota de Ron.
+- Los niños abrirán la tapa del set para entrar en la clase de Transfiguración de la Profesora McGonagall. Podrán practicar con un montón de elementos mágicos, ¡pero Ron necesitará ayuda cuando su rata mascota se transforme en un cáliz!
+- Este mágico set Momento Hogwarts mide aproximadamente 12 cm de altura, 8 cm de anchura y 4 cm de profundidad: el tamaño portátil perfecto para transportarlo y jugar cómodamente.
+- Los componentes LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan rigurosos estándares mundiales de seguridad.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
