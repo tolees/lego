@@ -29,10 +29,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Features a clock-changing mechanism to create Time-Turner time travel adventures and a ‘dance’ function to get the Yule Ball really moving!
+- All figures come with wands and their Yule Ball costumes with a scene including 2 icy tables, buildable icy sculpture and a toy Christmas Tree
+- Locations include the Defense Against the Dark Arts classroom, Dumbledore’s Office, Hospital Wing, Prefects’ Bathroom and a Yule Ball scene
+- This Harry Potter castle toy is a wonderful LEGO birthday present or Christmas gift idea for 9+ years old fans of Harry Potter Wizarding World!
 - This LEGO Harry Potter buildable toy includes 8 minifigures: Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore and Madame Maxime
 - Build the 3-level LEGO Hogwarts Castle Clock Tower toy with iconic locations and 8 minifigures from the Harry Potter movies
-- This Harry Potter castle toy is a wonderful LEGO birthday present or Christmas gift idea for 9+ years old fans of Harry Potter Wizarding World!
-- Locations include the Defense Against the Dark Arts classroom, Dumbledore’s Office, Hospital Wing, Prefects’ Bathroom and a Yule Ball scene
-- All figures come with wands and their Yule Ball costumes with a scene including 2 icy tables, buildable icy sculpture and a toy Christmas Tree
 
 [🛒 Buy it!!]({{< param buyurl >}})
