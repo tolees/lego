@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die Kinder können sich Spider-Man und Spider-Gwen anschließen, um Trace-E aus dem Labor des bösen Doc Ock zu retten, wo sie ein Roboter und eine Gefängniszelle erwartet
-- Jeder Beutel mit LEGO Steinen enthält eine Figur und ein Modell, damit die Kinder jederzeit mit der Superhelden-Action beginnen können
 - Die Superhelden klettern auf das Gerüst, um einen Spider-Angriff zu starten, während sich der Roboterarm die Energiekanister von Doc Ock oder einen der ahnungslosen Helden schnappt
 - Das Superhelden-Set aus der Serie „Spidey und seine Super-Freunde“ enthält ein Spider-Man-Spielzeugauto und einen Action-Mech für garantiert rasante Abenteuer!
 - Dieses Spider-Man-Set mit Spielzeugauto für Kinder ab 4 Jahren enthält 3 Minifiguren, eine Roboterspinne, eine Laborkulisse, einen Truck und einen Action-Mech
+- Die Kinder können sich Spider-Man und Spider-Gwen anschließen, um Trace-E aus dem Labor des bösen Doc Ock zu retten, wo sie ein Roboter und eine Gefängniszelle erwartet
+- Jeder Beutel mit LEGO Steinen enthält eine Figur und ein Modell, damit die Kinder jederzeit mit der Superhelden-Action beginnen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
