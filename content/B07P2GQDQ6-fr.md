@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42110 Technic Land Rover Defender  Modèle Réduit à Construire de Voiture  Maquette à Construire pour Adultes  Idée Cadeau'
-date: 2022-03-11 01:37:23
+date: 2022-03-12 02:20:06
 image: 'https://m.media-amazon.com/images/I/51ET8+5C4jS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07P2GQDQ6/?tag=tolees0d-21'
 descuento: '23.37'
-average: '154.470351562506'
+average: '154.467972709558'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Features authentically designed bodywork with Land Rover emblems, original-design rims with ground-gripping tyres, plus a detailed cabin
-- The cabin features a detailed dashboard, working steering wheel and forward-folding rear seats that reveal the 4-speed sequential gearbox
-- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
-- Functions include a 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension and detailed 6-cylinder engine
-- The Land rover model also has a transmission system with 2 levers for engaging high or low gear ratios and a selector for changing gear
-- This collectable car model kit for kids 11+ and adults with its clean, modern lines is a great display piece for the home or office
-- The LEGO car model building kits make an ideal Christmas or birthday gift for Land Rover enthusiasts and fans of collectable toys
+- Le véhicule comprend un mélange de trois coloris : vert olive, gris et noir
+- Le capot se soulève pour révéler le moteur 6 cylindres en ligne avec pistons mobiles
+- Les portières s’ouvrent pour accéder à l’habitacle détaillé
+- Une carrosserie aux lignes authentiques rehaussée des emblèmes de Land Rover, des jantes au design original équipées de pneus qui accrochent à la route, une galerie de toit amovible chargée d’un coffre de rangement, d’une sacoche, d’une échelle et de plaques de désensablement, des portières, un capot et un hayon qui souvrent, ainsi quun habitacle détaillé.
+- Les fonctionnalités comprennent une boîte séquentielle à 4 rapports, 4 roues motrices avec 3 différentiels, des suspensions indépendantes sur les deux essieux, un moteur 6 cylindres en ligne détaillé et un treuil fonctionnel
+- Le hayon s’ouvre en faisant tourner la roue de secours montée à larrière
+- Le modèle inclut également un système de transmission à 2 leviers pour engager les rapports de vitesse élevé ou bas, ainsi quun sélecteur de vitesses – la boîte de vitesses LEGO Technic la plus sophistiquée à ce jour !
+- L’habitacle comprend un tableau de bord détaillé, un volant qui tourne et des sièges arrière qui se rabattent pour révéler la boîte séquentielle à 4 rapports
 
 [🛒 Check the deal!!]({{< param buyurl >}})
