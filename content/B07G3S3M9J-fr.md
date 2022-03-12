@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter La Tour de l horloge de Poudlard  À Construire  Compatible avec La Grande Salle et Le Saule Cogneur'
-date: 2022-03-11 00:34:16
+date: 2022-03-12 01:26:42
 image: 'https://m.media-amazon.com/images/I/51Lz4Af+YfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- La salle de bains des préfets comprend un vitrail orné dune sirène
-- La salle de classe de défense contre les forces du Mal comprend une table, une chaise, des potions, une vitrine, un livre, un bureau avec un encrier et une plume, une lampe à construire et un tableau
-- Inclut 8 figurines Harry Potter : Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore et Madame Maxime.
-- Le hall dentrée comprend un coffre et la Coupe de Feu
-- Linfirmerie comprend 2 lits et 2 lampes à construire
-- Cet ensemble de jeu LEGO Harry Potter comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets, le bureau de Dumbledore et des décorations glacées pour le bal de Noël
-- Chaque figurine est fournie avec sa baguette et son costume pour le bal de Noël
-- Comprend un mécanisme dhorloge permettant aux enfants dimaginer des aventures avec le Retourneur de Temps, et une fonction « danse » pour animer vraiment le bal de Noël !
+- This LEGO Harry Potter buildable toy includes 8 minifigures: Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore and Madame Maxime
+- Build the 3-level LEGO Hogwarts Castle Clock Tower toy with iconic locations and 8 minifigures from the Harry Potter movies
+- All figures come with wands and their Yule Ball costumes with a scene including 2 icy tables, buildable icy sculpture and a toy Christmas Tree
+- This Harry Potter castle toy is a wonderful LEGO birthday present or Christmas gift idea for 9+ years old fans of Harry Potter Wizarding World!
+- Features a clock-changing mechanism to create Time-Turner time travel adventures and a ‘dance’ function to get the Yule Ball really moving!
+- Locations include the Defense Against the Dark Arts classroom, Dumbledore’s Office, Hospital Wing, Prefects’ Bathroom and a Yule Ball scene
 
 [🛒 Buy it!!]({{< param buyurl >}})
