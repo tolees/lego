@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Die zweistöckige Rettungsschwimmer-Station umfasst viele Spielzeuge, darunter einen Kontrollraum mit einem Arbeitsplatz, einem Teleskop und Lautsprechern
-- Dieses LEGO City-Set enthält eine zweistöckige Rettungsschwimmer-Station, einen Spielzeug-Geländewagen, einen Eiswagen und eine Strandkulisse mit einer Palme und „Sand“-Steinen
-- Die Kinder können sich bei dem lustig angezogenen Eisverkäufer ein kühles Eis kaufen oder sich eine Schwimmweste schnappen und eine Runde mit dem Paddleboard fahren
-- Außerdem gibt es 4 LEGO City Mini-Figuren mit einem Rettungsschwimmer und Strandbesuchern, eine nistende Schildkröte mit Eiern und Krabbenfiguren zu entdecken
 - Inklusive lustigem Zubehör für fantasievollen Spielspaß, wie z. B. einer Müllzange, einer Flasche, einer Rettungsboje, einem Handy, einem Fernglas und einem Paddleboard
+- Dieses LEGO City-Set enthält eine zweistöckige Rettungsschwimmer-Station, einen Spielzeug-Geländewagen, einen Eiswagen und eine Strandkulisse mit einer Palme und „Sand“-Steinen
+- Außerdem gibt es 4 LEGO City Mini-Figuren mit einem Rettungsschwimmer und Strandbesuchern, eine nistende Schildkröte mit Eiern und Krabbenfiguren zu entdecken
+- Die Kinder können sich bei dem lustig angezogenen Eisverkäufer ein kühles Eis kaufen oder sich eine Schwimmweste schnappen und eine Runde mit dem Paddleboard fahren
 
 [🛒 Buy it!!]({{< param buyurl >}})

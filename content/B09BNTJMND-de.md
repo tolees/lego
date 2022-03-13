@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Verwandle das Rennauto-Spielzeug von einem Buggy in ein leistungsstarkes, schnelles Panzerfahrzeug mit goldenen Seitenteilen, 2 Geschützen und Klingen-Spoilern
+- Die Kinder können Lloyds Auto von LEGO NINJAGO in 3 Stufen von einem Buggy in ein gepanzertes Rennauto umbauen, das bereit für den Kampf gegen die bösen Schlangenkrieger ist
 - Enthält Lloyd von NINJAGO mit einem Schwert, einen Kobra-Mech mit Flammenwerfer auf einem Quad und Dynamit-Python mit einer Pistole und einer Stange Dynamit
 - Wenn die Kinder ihre Missionen erfüllen und die Schlangen besiegen, werden sie mit einem Anpassbarkeitsbanner belohnt, mit dem sie das Spielzeugauto schmücken können
-- Die Kinder können Lloyds Auto von LEGO NINJAGO in 3 Stufen von einem Buggy in ein gepanzertes Rennauto umbauen, das bereit für den Kampf gegen die bösen Schlangenkrieger ist
+- Verwandle das Rennauto-Spielzeug von einem Buggy in ein leistungsstarkes, schnelles Panzerfahrzeug mit goldenen Seitenteilen, 2 Geschützen und Klingen-Spoilern
 - Enthält ein 3-in-1 NINJAGO Rennauto, das zu 3 verschiedenen Modellen aufgerüstet werden kann, sowie 3 coole LEGO NINJAGO Figuren mit Waffen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
