@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Kids can pretend to grow fruit and veg, bake bread, make sandwiches, serve customers, sort recycling and deliver drinks on the juice bike
 - It comes with accessories: an oven, blender, coffee machine, sandwich display shelf & lots of food elements to make the café play come to life
-- Features a toy café with a kitchen, garden and a juice delivery bike for boys and girls who want to build a better planet, brick by brick
 - This toy for kids 6+ years old includes 3 LEGO mini dolls: Mia, a grandpa Marcel and granddaughter Ava micro doll for extended real family play
+- Features a toy café with a kitchen, garden and a juice delivery bike for boys and girls who want to build a better planet, brick by brick
 - Introduce youngsters to Heartlake City, where they meet characters who care as much for the planet we live on as they do about their friends
 
 [🛒 Buy it now!!]({{< param buyurl >}})

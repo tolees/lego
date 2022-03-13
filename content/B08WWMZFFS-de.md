@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Steige mit Arielle in ihre Kutsche, verbringe Zeit mit Cinderella und Karli oder begleite Belle und Lumière in die Bibliothek.
-- Dieses Disney-Princess-Märchenbuch fördert mit vielen Inspirationen das kreative Spiel und unterstützt damit die Entwicklung wichtiger Fähigkeiten beim Kind.
-- Das LEGO-Disney-Set ist groß genug für neue Abenteuer und schnell und einfach zum Mitnehmen gepackt, sodass du überall damit spielen kannst.
-- Enthält 4 beliebte Charaktere: Cinderella, Tiana, Belle und Arielle sowie Karli, Lumière, einen Delfin und einen Frosch
 - Enthält ein aufschlagbares Buch mit einem zweiseitigen Schloss, einer kleinen Kutsche, Aufklebern sowie 4 Disney-Princess-Mikro-Spielfiguren
+- Das LEGO-Disney-Set ist groß genug für neue Abenteuer und schnell und einfach zum Mitnehmen gepackt, sodass du überall damit spielen kannst.
+- Dieses Disney-Princess-Märchenbuch fördert mit vielen Inspirationen das kreative Spiel und unterstützt damit die Entwicklung wichtiger Fähigkeiten beim Kind.
+- Enthält 4 beliebte Charaktere: Cinderella, Tiana, Belle und Arielle sowie Karli, Lumière, einen Delfin und einen Frosch
 
 [🛒 Buy it now!!]({{< param buyurl >}})
