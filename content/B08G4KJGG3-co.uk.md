@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Let your imagination bloom to create a stunning, unexpected, vibrant and never withering display that is sure to make people look twice
+- This decorative home accessory uses elements made from plant-based plastic, produced using sustainably sourced sugarcane
+- The flowers have customizable elements: posable petals and leaves, with adjustable stem lengths to create wonderful arrangements for the home
+- Features 15 stems with a mix of flower and leaf varieties such as roses, snapdragons, poppies, asters, daisies and grasses
 - LEGO artificial flowers bouquet set for adults makes a wonderful flower gift for a friend or loved one as a birthday present, or a fun Mothers Day gift idea that never withers!
 - As the first ever LEGO artificial flowers bouquet, they are created from over 17 unusual new elements with realistic petal shapes & colours
-- The flowers have customizable elements: posable petals and leaves, with adjustable stem lengths to create wonderful arrangements for the home
-- Let your imagination bloom to create a stunning, unexpected, vibrant and never withering display that is sure to make people look twice
-- Features 15 stems with a mix of flower and leaf varieties such as roses, snapdragons, poppies, asters, daisies and grasses
-- This decorative home accessory uses elements made from plant-based plastic, produced using sustainably sourced sugarcane
 
 [🛒 Check the deal!!]({{< param buyurl >}})
