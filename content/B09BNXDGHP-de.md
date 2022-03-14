@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- In der Minecraft-Höhle befinden sich ein Amboss, ein Ofen, ein Rüstungsständer und vieles mehr, mit denen Kinder die Waffen der Minecraft-Krieger herstellen und reparieren können
-- Enthält ein zweistöckiges Gebäude mit einem Dojo im Ober- und einer Schmiedehöhle im Untergeschoss – verbunden durch eine Falltür, die mit einem Block betätigt wird
-- Das LEGO Minecraft-Set enthält viele klassische Minecraft-Figuren: einen Ninja, einen Schurken, ein Skelett und eine Fledermaus
-- Die Kinder drücken den Block unter den Baum und – wusch! – die Falltür öffnet sich. Der Unglückliche, der darauf steht, stürzt in die Minecraft-Höhle hinab
 - Die beiden Ebenen des LEGO Minecraft-Hauses lassen sich voneinander trennen und umbauen, um ein neues Spielerlebnis zu schaffen
+- Enthält ein zweistöckiges Gebäude mit einem Dojo im Ober- und einer Schmiedehöhle im Untergeschoss – verbunden durch eine Falltür, die mit einem Block betätigt wird
+- Die Kinder drücken den Block unter den Baum und – wusch! – die Falltür öffnet sich. Der Unglückliche, der darauf steht, stürzt in die Minecraft-Höhle hinab
+- In der Minecraft-Höhle befinden sich ein Amboss, ein Ofen, ein Rüstungsständer und vieles mehr, mit denen Kinder die Waffen der Minecraft-Krieger herstellen und reparieren können
+- Das LEGO Minecraft-Set enthält viele klassische Minecraft-Figuren: einen Ninja, einen Schurken, ein Skelett und eine Fledermaus
 
 [🛒 Check the deal!!]({{< param buyurl >}})
