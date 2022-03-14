@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter La Tour de l horloge de Poudlard  À Construire  Compatible avec La Grande Salle et Le Saule Cogneur'
-date: 2022-03-13 01:30:05
+date: 2022-03-14 02:20:35
 image: 'https://m.media-amazon.com/images/I/51Lz4Af+YfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21'
 descuento: '24.00'
-average: '77.0892182410424'
+average: '77.087430894309'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,13 +28,13 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Le hall dentrée comprend un coffre et la Coupe de Feu
 - Cet ensemble de jeu LEGO Harry Potter comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets, le bureau de Dumbledore et des décorations glacées pour le bal de Noël
-- Chaque figurine est fournie avec sa baguette et son costume pour le bal de Noël
 - Comprend un mécanisme dhorloge permettant aux enfants dimaginer des aventures avec le Retourneur de Temps, et une fonction « danse » pour animer vraiment le bal de Noël !
+- La salle de bains des préfets comprend un vitrail orné dune sirène
 - Linfirmerie comprend 2 lits et 2 lampes à construire
 - Inclut 8 figurines Harry Potter : Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore et Madame Maxime.
-- La salle de bains des préfets comprend un vitrail orné dune sirène
+- Chaque figurine est fournie avec sa baguette et son costume pour le bal de Noël
+- Le hall dentrée comprend un coffre et la Coupe de Feu
 - La salle de classe de défense contre les forces du Mal comprend une table, une chaise, des potions, une vitrine, un livre, un bureau avec un encrier et une plume, une lampe à construire et un tableau
 
 [🛒 Buy it!!]({{< param buyurl >}})
