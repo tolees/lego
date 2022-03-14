@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Este impresionante set LEGO para adultos es una fabulosa idea de regalo para ti o para cualquier fan de los buldócer Cat y de otros impresionantes vehículos
+- Utiliza la app CONTROL+ para operar el modelo: para conducir, levantar, bajar y girar la pala, o levantar y bajar el diente de desgarrador y la escalera
+- Observa la nueva oruga (novedad de octubre de 2021) de LEGO que puede apretarse y aflojarse, dando al buldócer un movimiento muy realista
 - Este modelo LEGO de buldócer Cat está meticulosamente detallado para replicar el original, con colores y gráficos que encantarán a los entusiastas de Cat
 - Cuenta con un vehículo de construcción a motor repleto de detalles controlado por app: la réplica del mayor Cat, el buldócer D11
 - Relájate y tómate tu tiempo montando todas las piezas, y después explora sus muchísimas funciones mecánicas: ¡es como el de verdad!
-- Observa la nueva oruga (novedad de octubre de 2021) de LEGO que puede apretarse y aflojarse, dando al buldócer un movimiento muy realista
-- Este impresionante set LEGO para adultos es una fabulosa idea de regalo para ti o para cualquier fan de los buldócer Cat y de otros impresionantes vehículos
 - Incluye 2 x motores número 15, 2 x grandes motores y 1 x buje, y son necesarias 6 x pilas AA (no incluidas) para operar el vehículo LEGO de construcción
-- Utiliza la app CONTROL+ para operar el modelo: para conducir, levantar, bajar y girar la pala, o levantar y bajar el diente de desgarrador y la escalera
 
 [🛒 Buy it!!]({{< param buyurl >}})
