@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclut des instructions de montage, pour que même les constructeurs LEGO débutants puissent créer en toute confiance, ainsi qu’un superbe livret illustré relatant l’histoire de la Maison Blanche (en anglais uniquement, d’autres langues peuvent être téléchargées sur LEGO com/architecture)
-- Pas besoin de piles – les briques LEGO sont à l’honneur dans ce modèle sophistiqué de la Maison Blanche ; les constructeurs passionnés peuvent ainsi se plonger dans une activité immersive et se sentir détendus et pleins d’énergie une fois le modèle terminé
-- Ce set de construction créatif est idéal pour tous ceux qui ont visité ou rêvent de visiter le bâtiment du 1600 Pennsylvania Avenue, Washington DC, ainsi que pour les passionnés de voyage, d’architecture, d’histoire et de design
-- Le modèle se sépare facilement en 3 parties pour observer de plus près les détails architecturaux La brique LEGO portant l’inscription « White House » (la Maison Blanche en anglais) ajoute la touche finale à cette pièce d’exposition qui ne manquera pas de faire parler d’elle
-- Ce set de construction pour adultes fait partie d’une collection de modèles LEGO passionnants, conçus pour les constructeurs exigeants à la recherche de nouveaux projets créatifs
 - Le modèle à construire LEGO Architecture La Maison Blanche (21054) à exposer reproduit magnifiquement le style néoclassique et la splendeur de ce bâtiment connu dans le monde entier pour être la résidence du Président des États-Unis depuis 1800
+- Le modèle se sépare facilement en 3 parties pour observer de plus près les détails architecturaux La brique LEGO portant l’inscription « White House » (la Maison Blanche en anglais) ajoute la touche finale à cette pièce d’exposition qui ne manquera pas de faire parler d’elle
+- Pas besoin de piles – les briques LEGO sont à l’honneur dans ce modèle sophistiqué de la Maison Blanche ; les constructeurs passionnés peuvent ainsi se plonger dans une activité immersive et se sentir détendus et pleins d’énergie une fois le modèle terminé
+- Ce set de construction pour adultes fait partie d’une collection de modèles LEGO passionnants, conçus pour les constructeurs exigeants à la recherche de nouveaux projets créatifs
+- Inclut des instructions de montage, pour que même les constructeurs LEGO débutants puissent créer en toute confiance, ainsi qu’un superbe livret illustré relatant l’histoire de la Maison Blanche (en anglais uniquement, d’autres langues peuvent être téléchargées sur LEGO com/architecture)
+- Ce set de construction créatif est idéal pour tous ceux qui ont visité ou rêvent de visiter le bâtiment du 1600 Pennsylvania Avenue, Washington DC, ainsi que pour les passionnés de voyage, d’architecture, d’histoire et de design
 - Mesurant 11 cm de haut, 47 cm de large et 20 cm de profondeur, ce modèle LEGO Architecture est une superbe pièce à exposer à la maison ou au bureau Il constitue également un magnifique cadeau à offrir à ses amis
 - Cette maquette de construction LEGO destiné aux adultes comprend des détails tels que la résidence exécutive, l’aile Ouest, l’aile Est et les colonnades de la Maison Blanche, mais également la Roseraie et le jardin Jacqueline Kennedy
 
