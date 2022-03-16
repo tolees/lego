@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kids can explore the main stable with its trophy and accessory rooms, clean up the horses’ stalls or visit the cosy attic space for relaxing
-- With detailed mini doll figures and ridable horse figures, this Disney Princess buildable toy set helps to build important skills
 - Includes 2 Disney Princess Belle and Rapunzel ready for work and play with their 2 LEGO horse figures, Maximus and Philippe
-- Lets put on the saddles and take off. Wheee! After the ride lets unsaddle and brush down the horses, then give them some treats!
 - This creative LEGO Disney Princess building toy features a 3-level horse stable with 5 rooms, 2 small, detachable stalls and a sticker sheet
+- With detailed mini doll figures and ridable horse figures, this Disney Princess buildable toy set helps to build important skills
+- Lets put on the saddles and take off. Wheee! After the ride lets unsaddle and brush down the horses, then give them some treats!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
