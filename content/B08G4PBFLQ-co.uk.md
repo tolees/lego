@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60276 City Police Prisoner Transport Tow Truck Toy  Police Station Expansion Set'
-date: 2022-03-05 08:53:10
+date: 2022-03-16 16:38:58
 image: 'https://m.media-amazon.com/images/I/51kf38O6wDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4PBFLQ/?tag=tolees0a-21'
 descuento: '33.29'
-average: '11.91775'
+average: '12.0166666666667'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
