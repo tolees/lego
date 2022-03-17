@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Creator Expert - Ford Mustang  Maqueta para Construir el Emblemático Coche Deportivo  Regalo Coleccionable a Partir de 16 Años  Incluye Numerosos Detalles  10265 '
-date: 2022-03-15 15:11:19
+title: 'LEGO Creator Expert - LEGO 10265 Ford Mustang  Maqueta de Coche para Construir'
+date: 2022-03-17 03:49:45
 image: 'https://m.media-amazon.com/images/I/51-JblcCWHS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07G3D9TT6-es LEGO Creator Expert - Ford Mustang Maqueta para Construir...'
+slug: 'B07G3D9TT6-es LEGO Creator Expert - LEGO 10265 Ford Mustang Maqueta de...'
 sku: 'B07G3D9TT6-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de bloques de construcción','lego','lego creator expert', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99
 comparePrice: 150.17 EUR
-prodname: 'LEGO Creator Expert - Ford Mustang  Maqueta para Construir el Emblemático Coche Deportivo  Regalo Coleccionable a Partir de 16 Años  Incluye Numerosos Detalles  10265 '
+prodname: 'LEGO Creator Expert - LEGO 10265 Ford Mustang  Maqueta de Coche para Construir'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO Creator Expert'
 buyurl: 'https://www.amazon.es/dp/B07G3D9TT6/?tag=tolees-21'
 descuento: '16.77'
-average: '133.419317697234'
+average: '133.401382978729'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,15 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Personaliza el Ford Mustang con el sobrealimentador incluido, el alerón trasero “cola de pato”, gruesos tubos de escape, un alerón delantero de barbilla y una botella de óxido nitroso
-- Réplica de un Ford Mustang, con carrocería azul oscuro, franjas deportivas blancas, toma de aire, llantas de 5 radios con neumáticos de gran agarre y una selección de accesorios para personalizarlo
-- Abre el maletero para guardar las cosas y levanta el capó para descubrir un detallado motor Ford Mustang V8 de bloque grande con batería, manguitos y filtro de aire
-- Este modelo de coche de juguete Mustang incluye 1.471 elementos y es apto para mayores de 16 años
-- Levanta el capó y contempla los detalles de gran realismo del motor
-- Mide más de 10 cm de altura, 34 cm de longitud y 14 cm de ancho
-- Elige entre varias matrículas diferentes
-- Incluye los siguientes elementos especiales (novedad en marzo de 2019): llantas de 5 radios, un ladrillo 2x8 con arco, una placa 1x3 con el logotipo de Mustang y un arco 2x4 con el emblema de GT
-- Incluye también la insignia del célebre caballo impresa y 2 emblemas de GT
-- Abre las puertas o quita el panel del techo para acceder al detallado interior, equipado con hermosos asientos, radio, palanca de cambios en el centro de la consola y mecanismo de dirección
+- Este set es el regalo ideal para adultos y adolescentes amantes de LEGO, los años 60 y las réplicas de coches
+- Esta maqueta para construir para adultos cuenta con llantas de 5 radios, palanca de cambios, mecanismo de dirección, motor Ford Mustang V8, insignia de caballo y emblemas de GT
+- Este modelo de coleccionista es perfecto para personalizar, podrás cambiar los alerones traseros y delanteros, los tubos de escape, poner un tanque de óxido nitroso, ¡y mucho más!
+- Gracias a sus instrucciones, cualquier persona adulta podrá construir con confianza este coche deportivo personalizable, ¡viene con muchas matrículas diferentes para elegir!
+- Un LEGO para adultos con el que te sumergirás en un gratificante proyecto de construcción durante horas, ¡levanta el capó y contempla los detalles de gran realismo del motor!
+- Haz honor a uno de los coches Americanos más icónicos con esta auténtica y exclusiva réplica de un Ford Mustang de la década de 1960 con carrocería azul y franjas deportivas blancas
 
 [🛒 Buy it!!]({{< param buyurl >}})

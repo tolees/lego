@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic 6x6 Volvo Articulated Hauler RC Truck Toy  Remote Control Car Construction Vehicle'
-date: 2022-03-15 12:52:37
+date: 2022-03-17 02:19:41
 image: 'https://m.media-amazon.com/images/I/511FLMppG5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21'
 descuento: '18.75'
-average: '184.949837545125'
+average: '184.953297297296'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Powered by 1 large angular position motor, 1 XL motor, and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
-- Through the app, the fun endures long after the remote control truck model is built while opening the secrets of mega construction machines
-- Build a model of remote control dump truck version of the classic A60H Articulated Hauler from Volvo for epic construction experience
-- Control the 2,193-piece mighty machine using the app – tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
 - Download the LEGO Technic CONTROL+ app and explore the different control screens, challenges, achievements and exclusive content
+- Through the app, the fun endures long after the remote control truck model is built while opening the secrets of mega construction machines
+- Control the 2,193-piece mighty machine using the app – tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
+- Build a model of remote control dump truck version of the classic A60H Articulated Hauler from Volvo for epic construction experience
+- Powered by 1 large angular position motor, 1 XL motor, and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
 
 [🛒 Buy it!!]({{< param buyurl >}})
