@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Incluye un concentrador motorizado LEGO, un motor adicional y un sensor de color y distancia, así como más de 840 piezas LEGO.
 - Construye, programa y controla el Autoconstructor para producir auténticos modelos LEGO en miniatura.
 - Construye y programa robots y modelos, y completa las más de 60 emocionantes actividades que incluye la app LEGO BOOST para ciertos dispositivos inteligentes iOS, Android y Kindle. Visita LEGO.com
+- Construye el M.T.R.4 y elige entre diferentes herramientas y accesorios de personalización para completar misiones o luchar contra otros róvers.
 - Aprende a tocar una canción y rocanrolea con la Guitarra4000.
 - Programa a Vernie el robot para que baile, dispare a la diana, cante beatbox, use su palo de hockey o incluso juegue a algo.
 - Cuida de tu propia mascota con Frankie el gato. ¡Asegúrate de darle la comida correcta si no quieres que se enfade!
-- Construye el M.T.R.4 y elige entre diferentes herramientas y accesorios de personalización para completar misiones o luchar contra otros róvers.
-- Incluye un concentrador motorizado LEGO, un motor adicional y un sensor de color y distancia, así como más de 840 piezas LEGO.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
