@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bald schon ist die Windschutzscheibe mit Ei bedeckt und das Gitter des Gefängnisses herausgerissen – mit diesem LKW-Spielzeug nehmen die lustigen Geschichten niemals ein Ende
 - Dieses LEGO City Polizei-Set enthält 3 Mini-Figuren aus der LEGO City TV-Serie: Duke DeTain, Gracie Goodhart und Snake Rattler, sowie eine Gauner-Minifigur
 - Die Kinder können vom Anhänger des Traktors aus Eier verschießen, aus dem Gefängnis ausbrechen und den Geländewagen kippen, um ihn in alle Richtungen zu manövrieren
-- Bald schon ist die Windschutzscheibe mit Ei bedeckt und das Gitter des Gefängnisses herausgerissen – mit diesem LKW-Spielzeug nehmen die lustigen Geschichten niemals ein Ende
 - Enthält ein Spielzeug-Polizeiauto mit einem Büro und einer Gefängniszelle im Anhänger, eine Drohne, einen Geländewagen und einen Traktor, auf dem eine Eierkanone steht!
 - Inklusive vieler witziger Zubehörteile wie der Spielzeugdrohne mit Fernsteuerung, den Handschellen oder den Eiern für fantasievollen Spielspaß
 
