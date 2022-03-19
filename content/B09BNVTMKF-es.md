@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75321 Star Wars Microfighters: The Razor Crest  Set con Cañonera de The Mandalorian  Juguete para Niños 6 Años'
-date: 2022-03-17 02:52:45
+date: 2022-03-19 09:43:15
 image: 'https://m.media-amazon.com/images/I/41ElYPAlWPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNVTMKF/?tag=tolees-21'
 descuento: '20.02'
-average: '8.435'
+average: '8.3905'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los juguetes de LEGO Star Wars son un increíble regalo de cumpleaños para fans de The Mandalorian de 6+ años
 - Se incluyen también instrucciones sencillas e ilustradas, para que incluso los recién llegados a LEGO puedan construir esta cañonera de Star Wars: The Mandalorian con confianza
-- Este set de juego de construcción se combina con otros sets LEGO Star Wars Microfighters para añadir aún más posibilidades de juego creativo y acción
 - Los peques podrán explorar otros planetas con la mochila propulsora del mandaloriano y enfrentarse a sus enemigos con la pistola bláster
 - La mini figura del Mandaloriano incluida está vestida con su traje de la temporada 2 de Star Wars: The Mandalorian y tiene una pistola bláster y una mochila propulsora
+- Este set de juego de construcción se combina con otros sets LEGO Star Wars Microfighters para añadir aún más posibilidades de juego creativo y acción
+- Los juguetes de LEGO Star Wars son un increíble regalo de cumpleaños para fans de The Mandalorian de 6+ años
 - Incluye el Razor Crest en versión Microfighter con 2 lanzamisiles (novedad para enero de 2022) y la mini figura LEGO del Mandaloriano
 
 [🛒 Check the deal!!]({{< param buyurl >}})

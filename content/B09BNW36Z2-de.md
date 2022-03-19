@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60319 City Löscheinsatz und Verfolgungsjagd  Polizeiverfolgung mit Feuerwehrauto und Motorrad  Polizei- und Feuerwehr-Spielzeug ab 5 Jahre'
-date: 2022-03-18 10:09:05
+date: 2022-03-19 10:30:46
 image: 'https://m.media-amazon.com/images/I/51v3MXauxSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNW36Z2/?tag=tolees0ca-21'
 descuento: '41.55'
-average: '18.9682758620692'
+average: '18.943898305085'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
