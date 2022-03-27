@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42137 Technic Formula E Porsche 99X Electric  Rennauto für Kinder  Modellauto-Bausatz  Spielzeugauto mit Rückziehmotor und AR-App'
-date: 2022-03-25 13:16:02
+date: 2022-03-26 22:36:26
 image: 'https://m.media-amazon.com/images/I/51z7xqKvNmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNXCN3R-de LEGO 42137 Technic Formula E Porsche 99X Electric Rennauto...'
 sku: 'B09BNXCN3R-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 32.49 EUR
+actualPrice: 31.44 EUR
 currency: EUR
-price: 32.49
+price: 31.44
 comparePrice: 49.99 EUR
 prodname: 'LEGO 42137 Technic Formula E Porsche 99X Electric  Rennauto für Kinder  Modellauto-Bausatz  Spielzeugauto mit Rückziehmotor und AR-App'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNXCN3R/?tag=tolees0ca-21'
-descuento: '35.01'
-average: '32.6844444444445'
+descuento: '37.11'
+average: '32.6189473684211'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lade die LEGO Technic AR App herunter, scanne das Modell, ziehe das Spielzeugauto mit deinem Fuß zurück, um es zu starten, und erlebe, wie es in spannenden Rennen zum Leben erwacht
-- Dieser Modellauto-Bausatz für Kinder und Jugendliche enthält ein Spielzeug-Rennauto mit Rückziehmotor, authentischem Design und der LEGO Augmented Reality App
 - Mit der LEGO Technic AR App erwacht die Rennstrecke zum Leben. Wähle deine Strecke und meistere die Kunst des Energiemanagements, um die Zielflagge zu erobern
-- Das LEGO Technic Auto zum Selberbauen ist eine originalgetreue Nachbildung des realen Formel E Porsche Rennautos und verfügt sogar über Sponsorenlogos
+- Dieser Modellauto-Bausatz für Kinder und Jugendliche enthält ein Spielzeug-Rennauto mit Rückziehmotor, authentischem Design und der LEGO Augmented Reality App
 - In der Augmented Reality-App können die Kinder entscheiden, wie viel Energie das Rennauto braucht, um nach dem Betätigen des Auslösers den perfekten Start ins Rennen zu schaffen
+- Lade die LEGO Technic AR App herunter, scanne das Modell, ziehe das Spielzeugauto mit deinem Fuß zurück, um es zu starten, und erlebe, wie es in spannenden Rennen zum Leben erwacht
+- Das LEGO Technic Auto zum Selberbauen ist eine originalgetreue Nachbildung des realen Formel E Porsche Rennautos und verfügt sogar über Sponsorenlogos
 
 [🛒 Check the deal!!]({{< param buyurl >}})
