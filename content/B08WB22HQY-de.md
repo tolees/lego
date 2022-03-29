@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Das „LEGO Star Wars Imperialer Marauder“-Modell enthält 4 Shooter – 2 Shooter auf dem drehbaren Heckgeschützturm und 2 nicht schießende ausklappbare Blasterkanonen
+- Das Fahrzeug hat einen Ausguck (mit einer zu öffnenden Klappe) für eine Minifigur sowie sich öffnen lassende Munitionskästen für kreatives Spielen
+- Der Artillery Stormtrooper (neu ab August 2021) hat als Zubehör Mörser- und Rucksackelemente
 - Enthält 4 LEGO-Star-Wars-Minifiguren: Greef Karga mit einer Blasterpistole, 2 Stormtrooper mit Blastern und einen Artillery Stormtrooper
 - Enthält außerdem ein Minifiguren-Cockpit und eine Kabine für 2 LEGO-Star-Wars-Minifiguren, was es zu einem tollen Ausstellungsstück macht
-- Das „LEGO Star Wars Imperialer Marauder“-Modell enthält 4 Shooter – 2 Shooter auf dem drehbaren Heckgeschützturm und 2 nicht schießende ausklappbare Blasterkanonen
-- Der Artillery Stormtrooper (neu ab August 2021) hat als Zubehör Mörser- und Rucksackelemente
-- Das Fahrzeug hat einen Ausguck (mit einer zu öffnenden Klappe) für eine Minifigur sowie sich öffnen lassende Munitionskästen für kreatives Spielen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
