@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71767 NINJAGO Ninja-Dojotempel Meister des Spinjitzu  Gebäude-Set mit Lloyd  Kai und Schlangen-Figuren  Spielzeug ab 8 Jahren'
-date: 2022-03-20 09:55:42
+date: 2022-03-31 16:55:24
 image: 'https://m.media-amazon.com/images/I/51EJYB1a6JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNYF6SN-de LEGO 71767 NINJAGO Ninja-Dojotempel Meister des Spinjitzu...'
 sku: 'B09BNYF6SN-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 72.0 EUR
+actualPrice: 73.99 EUR
 currency: EUR
-price: 72.0
+price: 73.99
 comparePrice: 99.99 EUR
 prodname: 'LEGO 71767 NINJAGO Ninja-Dojotempel Meister des Spinjitzu  Gebäude-Set mit Lloyd  Kai und Schlangen-Figuren  Spielzeug ab 8 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNYF6SN/?tag=tolees0ca-21'
-descuento: '27.99'
-average: '71.995'
+descuento: '26.00'
+average: '72.394'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -31,7 +31,7 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Für den Abschluss ihrer Mission erhalten die Kinder ein Weisheitsbanner, das sie mit den Bannern aus anderen Sets (separat erhältlich) am Dach des LEGO Gebäudes anbringen können
 - Dieser dreistöckige Dojotempel aus der LEGO NINJAGO Serie „Meister des Spinjitzu“ enthält einen Trainingsbereich und 5 Räume, in denen die Kinder ihre Helden trainieren können
 - Zu den 5 Räumen dieses LEGO NINJAGO Spielzeugs gehören Wus Teestube, Pixals Werkstatt und eine Waffenkammer voller Waffen für endlose Abenteuer
-- Gemeinsam mit den Ninjas trainieren die Kinder im geheimen Dojo, um zu Meistern des Spinjitzu zu werden, doch die hinterhältigen Schlangen brechen die Türen mit einem Rammbock auf!
 - Inklusive 8 LEGO NINJAGO Figuren: Lloyd, Kai, Cole, Nya, Pixal und Meister Wu, sowie die Schlangenkrieger Boa Destructor und Kobra-Mechaniker
+- Gemeinsam mit den Ninjas trainieren die Kinder im geheimen Dojo, um zu Meistern des Spinjitzu zu werden, doch die hinterhältigen Schlangen brechen die Türen mit einem Rammbock auf!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
