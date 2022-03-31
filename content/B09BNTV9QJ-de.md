@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Im Erdgeschoss befinden sich die Kasse, ein Spielzeugscanner zur Untersuchung der Patienten und ein Schrank mit dem Tierarztzubehör der Kinder
+- Enthält ein zweistöckiges Tierarzt-Spielzeug für Kinder ab 4 Jahren mit LEGO Friends-Tieren und ein abnehmbares Obergeschoss für einen einfachen Zugang zur unteren Etage
 - Im Obergeschoss befindet sich ein Pflegebereich, in dem die Tiere spielen und sich verwöhnen lassen können – komplett mit Bad, Fitnesscenter für Katzen und einem Kratzbaum
 - Die LEGO Friends-Tierklinik für Kinder wird mit einem Startbaustein geliefert, mit dem die Kinder schnell mit dem Bauen anfangen und ihre Baufähigkeiten entwickeln können
-- Enthält ein zweistöckiges Tierarzt-Spielzeug für Kinder ab 4 Jahren mit LEGO Friends-Tieren und ein abnehmbares Obergeschoss für einen einfachen Zugang zur unteren Etage
 - Enthält die beiden LEGO Mini-Puppen Mia und Nandi sowie 3 LEGO Friends-Tierfiguren: eine Spielzeugkatze, eine Schildkröte, ein Kaninchen und Tierarzt-Spielzeug
-- Im Erdgeschoss befinden sich die Kasse, ein Spielzeugscanner zur Untersuchung der Patienten und ein Schrank mit dem Tierarztzubehör der Kinder
 
 [🛒 Check the deal!!]({{< param buyurl >}})
