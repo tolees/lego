@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Les éléments LEGO sont conformes aux normes les plus rigoureuses du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
 - Le porte-crayon cactus possède des bras mobiles pour plus de fun ! Un cadeau de pâques parfait pour les garçons et les filles qui aiment les jeux créatifs LEGO DOTS
-- Comprend un bracelet réglable de couleur bleu clair, un accessoire lion, un cadre avec élément suspendu et un porte-crayon en forme de cactus
 - Permettant aux jeunes de laisser libre-court à leur créativité, ce kit d’activité manuelle pour enfants encourage lexpression de soi et renforce leur confiance en eux
 - Pour des activités encore plus créatives, répandez le #dotyourworld avec le sachet de Tuiles décoratives DOTS – Série 5 (41932) (vendu séparément)
 - Ce jouet de loisirs créatifs pour enfants de 6 ans est doté dun kit de fabrication LEGO DOTS, de 2 articles de décoration de chambre pour enfants et dun accessoire de sac
-- Les éléments LEGO sont conformes aux normes les plus rigoureuses du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent parfaitement, et cela depuis 1958.
+- Comprend un bracelet réglable de couleur bleu clair, un accessoire lion, un cadre avec élément suspendu et un porte-crayon en forme de cactus
 
 [🛒 Buy it now!!]({{< param buyurl >}})
