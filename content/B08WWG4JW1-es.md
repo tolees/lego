@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Los peques pueden lanzar la moto acrobática de juguete por un anillo de fuego, realizar acrobacias y reconfigurar fácilmente los módulos para realizar distintas actuaciones
 - El set de LEGO City lleva todo lo necesario: 2 camiones monstruo de juguete, 2 coches de juguete con techo comprimible, un anillo de fuego y una moto acrobática de juguete
-- Instructions PLUS en la app gratuita Instrucciones de Montaje permite a los niños a partir de 6 años visualizar, acercar y girar su juego mientras lo construyen.
 - No te pierdas los otros sets LEGO City Stuntz para coleccionar y combinar para más acción, más personajes conocidos y más pilotos de acrobacias LEGO
-- ¡Tiene rampas de lanzamiento, una moto de juguete con rueda de inercia, un puesto de perritos calientes y un podio para los ganadores de las acrobacias LEGO!
+- Instructions PLUS en la app gratuita Instrucciones de Montaje permite a los niños a partir de 6 años visualizar, acercar y girar su juego mientras lo construyen.
 - El Espectáculo Acrobático: Arena, con 668 piezas, es un excitante set de la subtemática LEGO City Stuntz que trae la emoción de los espectáculos acrobáticos
+- Los peques pueden lanzar la moto acrobática de juguete por un anillo de fuego, realizar acrobacias y reconfigurar fácilmente los módulos para realizar distintas actuaciones
+- ¡Tiene rampas de lanzamiento, una moto de juguete con rueda de inercia, un puesto de perritos calientes y un podio para los ganadores de las acrobacias LEGO!
 - Incluye un total de 7 mini figuras LEGO, entre ellas 3 personajes de la serie de TV de LEGO City, lo que permite que los amigos puedan construir y jugar juntos durante horas
 
 [🛒 Buy it!!]({{< param buyurl >}})
