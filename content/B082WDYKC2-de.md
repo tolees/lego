@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das baubare Kostüm ist passgenau auf die LEGO Mario Figur aus dem Starterset „Abenteuer mit Mario“ (71360) zugeschnitten, um spannende neue Möglichkeiten im Videospiel zu eröffnen
-- Dieses 10-teilige LEGO Bauset ist ein fantastisches Geburtstags- oder Weihnachtsgeschenk für kreative Kinder und Fans ab 6 Jahren, die das Starterset „Abenteuer mit Mario“ (71360) und die Erweiterungssets mit diesem Zubehör um weitere Spieloptionen bereichern können
 - Weitere coole LEGO Mario Upgrades lassen sich ebenfalls mit dem Starterset und den Erweiterungssets kombinieren, zum Beispiel die Anzüge „Feuer-Mario“ (71370), „Propeller-Mario“ (71371) und „Katzen-Mario“ (71372)
-- Wenn die LEGO Mario Figur (nicht im Set enthalten) dieses Outfit trägt, kann ein Spieler digitale Münzen sammeln, indem er Mario fest auf die LEGO Steine in seinem selbst kreierten Spiellevel aufstampfen lässt
 - Für dieses kreative Bauspielzeug werden keine Batterien benötigt. Um das Kostüm zu aktivieren, muss es nur zur LEGO Mario Figur aus dem Starterset hinzugefügt werden. Das Bauset enthält eine Bauanleitung, um Kinder selbstständig bauen zu lassen
+- Das baubare Kostüm ist passgenau auf die LEGO Mario Figur aus dem Starterset „Abenteuer mit Mario“ (71360) zugeschnitten, um spannende neue Möglichkeiten im Videospiel zu eröffnen
 - Der Anzug „Baumeister-Mario“ (71373) ist ein interaktives Outfit für LEGO Mario, das ihn Münzen sammeln lässt, wenn er auf Steine stampft. So kommen Kinder in den Genuss eines tollen LEGO Super Mario Spielerlebnisses
+- Wenn die LEGO Mario Figur (nicht im Set enthalten) dieses Outfit trägt, kann ein Spieler digitale Münzen sammeln, indem er Mario fest auf die LEGO Steine in seinem selbst kreierten Spiellevel aufstampfen lässt
+- Dieses 10-teilige LEGO Bauset ist ein fantastisches Geburtstags- oder Weihnachtsgeschenk für kreative Kinder und Fans ab 6 Jahren, die das Starterset „Abenteuer mit Mario“ (71360) und die Erweiterungssets mit diesem Zubehör um weitere Spieloptionen bereichern können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
