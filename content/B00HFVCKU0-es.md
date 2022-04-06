@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - La LEGO Película: El Videojuego'
-date: 2022-04-04 06:11:47
+date: 2022-04-06 16:53:46
 image: 'https://m.media-amazon.com/images/I/61xYmx57KiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00HFVCKU0/?tag=tolees-21'
 descuento: '35.02'
-average: '10.99'
+average: '11.49'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

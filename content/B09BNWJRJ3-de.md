@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71760 NINJAGO Jays Donnerdrache EVO  Drachen Spielzeug für Kinder ab 6 Jahren mit Drachenfigur und Schlangen  Blitzdrache'
-date: 2022-04-05 13:00:10
+date: 2022-04-06 16:50:29
 image: 'https://m.media-amazon.com/images/I/51hgslCJcQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWJRJ3/?tag=tolees0ca-21'
 descuento: '36.12'
-average: '12.8236363636363'
+average: '12.8220588235293'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Rüste Jay mit einer Kapuze und einem Schwert aus und gib seinem furchteinflößenden Drachen größere Flügel, damit die Beiden sich in den Himmel erheben und todesmutig kämpfen können
 - Dieses LEGO NINJAGO Drachen Spielzeug enthält eine bewegliche Drachenfigur, deren Beine, Kopf, Kiefer und Flügel verstellbar sind und deren Schwanz als Waffe eingesetzt werden kann
-- Wenn die Kinder ihre Missionen erfüllen und den Schlangenkrieger besiegen, werden sie mit einem Schnelligkeitsbanner belohnt, mit dem sie den Drachen schmücken können
+- Rüste Jay mit einer Kapuze und einem Schwert aus und gib seinem furchteinflößenden Drachen größere Flügel, damit die Beiden sich in den Himmel erheben und todesmutig kämpfen können
 - Inklusive NINJAGO Jay mit Nunchakus, der mit einer Kapuze und einem Schwert aufgerüstet werden kann, sowie einem Schlangenflieger, der mit Schwert und Jetpack bewaffnet ist
+- Wenn die Kinder ihre Missionen erfüllen und den Schlangenkrieger besiegen, werden sie mit einem Schnelligkeitsbanner belohnt, mit dem sie den Drachen schmücken können
 - Der Donnerdrache verfügt über einen Sattel, auf den die Kinder Jay setzen können, um ihn in den epischen Kampf gegen die NINJAGO Schlange mit Jetpack zu schicken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
