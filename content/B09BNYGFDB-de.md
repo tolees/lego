@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mit diesem LEGO Architecture Set für Erwachsene kannst du einige der berühmtesten Gebäude Singapurs im LEGO Stil nachbauen
-- Beim Aufbau dieses Modellbausatzes für Erwachsene entdeckst du neue Bautechniken, mit denen du die Gebäude schräg an der Grundplatte befestigen kannst
 - Zu den wichtigsten Wahrzeichen der Skyline gehören das Marina Bay Sands, das OCBC Centre, das Raffles Hotel und der Lau Pa Sat (auch bekannt als Telok Ayer Market)
 - Außerdem enthalten sind das Fullerton Hotel, der Supertree Grove in den Gardens by the Bay sowie landschaftliche Details in Form des Singapore River und LEGO Bäumen
+- Mit diesem LEGO Architecture Set für Erwachsene kannst du einige der berühmtesten Gebäude Singapurs im LEGO Stil nachbauen
 - Erwecke den Geist der „Löwenstadt“ und kombiniere die Wolkenkratzer, die charmanten alten Gebäude am Flussufer und die Grünanlagen zu einem atemberaubenden Kunstwerk
+- Beim Aufbau dieses Modellbausatzes für Erwachsene entdeckst du neue Bautechniken, mit denen du die Gebäude schräg an der Grundplatte befestigen kannst
 
 [🛒 Check the deal!!]({{< param buyurl >}})
