@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- With detailed micro doll figures, cute creatures and recognisable scenes, this Disney’s Encanto buildable toy encourages open creative play
+- Includes 2 LEGO Antonio and Mirabel micro doll figures, capybara, jaguar, frog and 3 butterfly LEGO figures from Disney’s animated film Encanto
+- Digital Instructions PLUS with intuitive modes like zoom, rotate, and ghost give kids a more awesome digital age building experience
 - Antonio is part of a wondrous and magical family, and there’s so much to discover behind his door opening onto a fantasy micro-world
 - This LEGO Disney set features Antonios opening Magical Door with a working lock, key on a key chain and a sticker sheet
+- With detailed micro doll figures, cute creatures and recognisable scenes, this Disney’s Encanto buildable toy encourages open creative play
 - Opening the door will reveal a raising hammock and a cave where Antonio’s friendly little jaguar Parce wants to play with the butterflies
-- Digital Instructions PLUS with intuitive modes like zoom, rotate, and ghost give kids a more awesome digital age building experience
-- Includes 2 LEGO Antonio and Mirabel micro doll figures, capybara, jaguar, frog and 3 butterfly LEGO figures from Disney’s animated film Encanto
 
 [🛒 Check the deal!!]({{< param buyurl >}})
