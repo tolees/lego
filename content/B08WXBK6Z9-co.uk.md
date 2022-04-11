@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The living room comes with a sofa, armchair and tables, plus an office area with lots of authentic details inspired by the show
-- This 1,326-piece collectible model comes with an illustrated booklet about Seinfeld and is fun to build solo or with friends and family
-- This buildable model for adults makes a delightful display or room décor piece and is a super gift idea for Seinfeld and LEGO fans, and also a great Mothers Day gift idea
 - The Seinfeld apartment features a kitchen with a buildable counter, fridge with Superman sticker, microwave, oven, a tea pot and a pretzel!
+- This buildable model for adults makes a delightful display or room décor piece and is a super gift idea for Seinfeld and LEGO fans, and also a great Mothers Day gift idea
+- The living room comes with a sofa, armchair and tables, plus an office area with lots of authentic details inspired by the show
 - Also includes a buildable stage & accessories: a statue, muffin top, Prognosis Negative videotape, Commando 8 air conditioner and Festivus pole
-- This LEGO Seinfeld apartment set for adults relives scenes from the classic 1990s TV sitcom featuring a recreation of Jerry’s apartment
+- This 1,326-piece collectible model comes with an illustrated booklet about Seinfeld and is fun to build solo or with friends and family
 - Included 5 minifigures - Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes and Newman - bringing the brick-built scene to life
+- This LEGO Seinfeld apartment set for adults relives scenes from the classic 1990s TV sitcom featuring a recreation of Jerry’s apartment
 
 [🛒 Buy it now!!]({{< param buyurl >}})

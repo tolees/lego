@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The LEGO art, drama & music classroom contains a chest of creative dress-up kit, a selection of instruments, brushes, paints and an easel
-- This LEGO school house model sits on a sturdy baseplate, making it an impressive display piece and a LEGO birthday gift for kids aged 6+
-- There is also a toy bike with a helmet, a ball, a laptop and a pen with a notebook, plus tables and food accessories in the canteen
-- Includes 3 LEGO mini dolls to play with: Olivia, a new boy Julian and a teacher figure to role-play LEGO classroom experience
-- Features 2-floors school house toy with 3 classrooms to build and explore, as well as a canteen, lockers, toilet and an outdoor playground
-- This LEGO teacher roleplay set for kids includes a science lab with a microscope and a ladybird to study to recreate a perfect school day
 - Introduce youngsters to the world of Heartlake City toys for kids who like to play out realistic scenarios and pretend to be everyday heroes
+- This LEGO school house model sits on a sturdy baseplate, making it an impressive display piece and a LEGO birthday gift for kids aged 6+
+- Includes 3 LEGO mini dolls to play with: Olivia, a new boy Julian and a teacher figure to role-play LEGO classroom experience
+- This LEGO teacher roleplay set for kids includes a science lab with a microscope and a ladybird to study to recreate a perfect school day
+- There is also a toy bike with a helmet, a ball, a laptop and a pen with a notebook, plus tables and food accessories in the canteen
+- The LEGO art, drama & music classroom contains a chest of creative dress-up kit, a selection of instruments, brushes, paints and an easel
+- Features 2-floors school house toy with 3 classrooms to build and explore, as well as a canteen, lockers, toilet and an outdoor playground
 
 [🛒 Buy it!!]({{< param buyurl >}})
