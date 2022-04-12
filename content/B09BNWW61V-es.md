@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Los sets de expansión de LEGO Super Mario son una gran idea de regalo para niños que ya tienen un Pack Inicial de Super Mario (71360/71387), necesario para jugar
-- Los peques podrán desafiar a sus amigos para conseguir la mejor puntuación en monedas, y después reconstruir el juego de construcción LEGO Super Mario para crear un nuevo nivel
-- Incluye la figura LEGO de Dorrie para las figuras LEGO Mario o Luigi (no incluidas) para divertirse recogiendo monedas, y un cangrejo Huckit enemigo al que derrotar
-- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
-- Cada uno de ellos incluye funciones increíbles que los jugadores deberán activar para acceder a los bloques 1, 2, 3, ¡para poder ganar monedas digitales y alcanzar la victoria!
-- Este juguete de LEGO Super Mario también incluye un lanzador para disparar un caparazón verde al cangrejo Huckit, un castillo de arena, una fuente y un árbol para construir
 - Este set de expansión LEGO Super Mario: Costa de Dorrie añade un nivel costero para construir con ladrillos al Pack Inicial LEGO Mario o Luigi (no incluidos)
+- Los peques podrán desafiar a sus amigos para conseguir la mejor puntuación en monedas, y después reconstruir el juego de construcción LEGO Super Mario para crear un nuevo nivel
+- Este juguete de LEGO Super Mario también incluye un lanzador para disparar un caparazón verde al cangrejo Huckit, un castillo de arena, una fuente y un árbol para construir
+- Los sets de expansión de LEGO Super Mario son una gran idea de regalo para niños que ya tienen un Pack Inicial de Super Mario (71360/71387), necesario para jugar
+- Incluye la figura LEGO de Dorrie para las figuras LEGO Mario o Luigi (no incluidas) para divertirse recogiendo monedas, y un cangrejo Huckit enemigo al que derrotar
+- Cada uno de ellos incluye funciones increíbles que los jugadores deberán activar para acceder a los bloques 1, 2, 3, ¡para poder ganar monedas digitales y alcanzar la victoria!
+- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
 
 [🛒 Buy it!!]({{< param buyurl >}})
