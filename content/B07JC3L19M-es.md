@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Número de piezas: 730
-- El cohete de Overwatch se puede dividir en 2 cohetes, cada uno con una cabina; El cohete más pequeño cuenta con una bodega con espacio suficiente para la gran figura de Winston e incluye elementos que representan plátanos y un frasco de mantequilla de cacahuete
-- Este juguete para construir Overwatch cuenta con una plataforma de lanzamiento capaz de soportar el cohete en posición vertical, tal como sucede en el mapa Observatorio: Gibraltar
-- Observatorio: Gibraltar
 - Edad recomendada por el fabricante: 9+
+- Número de piezas: 730
+- Este juguete para construir Overwatch cuenta con una plataforma de lanzamiento capaz de soportar el cohete en posición vertical, tal como sucede en el mapa Observatorio: Gibraltar
+- El cohete de Overwatch se puede dividir en 2 cohetes, cada uno con una cabina; El cohete más pequeño cuenta con una bodega con espacio suficiente para la gran figura de Winston e incluye elementos que representan plátanos y un frasco de mantequilla de cacahuete
+- Observatorio: Gibraltar
 
 [🛒 Buy it now!!]({{< param buyurl >}})
