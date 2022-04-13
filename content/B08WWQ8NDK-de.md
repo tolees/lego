@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Dieser LEGO Freizeitpark ist ein 3in1-Modell mit einem Riesenrad, das sich nach und nach in einen Autoscooter oder eine Schiffschaukel umbauen lässt
 - Das Autoscooter-Fahrgeschäft verfügt über 3 Wagen und einen Fahrkartenschalter mit Ansagemikrofon, um in dem LEGO Freizeitpark um die Wette zu fahren
-- In diesem Set sind folgende Figuren enthalten: Mama, Papa, Kind und 2 Schausteller, um den Kindern einen aufregenden Tag auf dem Spielplatz zu ermöglichen
 - Die Schiffschaukel wird mit einem Krallen- und einem Kaugummiautomaten geliefert, um mit diesem spektakulären LEGO Set den ultimativen Ausflug in den Freizeitpark zu erleben
 - Das große, sich drehende Riesenrad hat 8 Gondeln für die Minifiguren, einen Fahrkartenschalter, einen Ballonwagen mit Ballontieren und eine Hunde-Figur
-- Dieser LEGO Freizeitpark ist ein 3in1-Modell mit einem Riesenrad, das sich nach und nach in einen Autoscooter oder eine Schiffschaukel umbauen lässt
+- In diesem Set sind folgende Figuren enthalten: Mama, Papa, Kind und 2 Schausteller, um den Kindern einen aufregenden Tag auf dem Spielplatz zu ermöglichen
 
 [🛒 Buy it!!]({{< param buyurl >}})

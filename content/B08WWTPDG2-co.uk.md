@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Includes a transporter vehicle to move the starship on the ground in play scenarios of solo or group activities, plus a Carbonite brick
-- Features a LEGO brick buildable model of Boba Fett’s Starship, with a handle for easy flying, rotating wings and 2 stud shooters
 - The vehicle also makes a great display stand for builders to show off their toy starship in an upright flight position
-- Includes 2 LEGO minifigures: Boba Fett with a blaster and The Mandalorian with his blaster rifle and a beskar spear
 - Also features an opening LEGO minifigure cockpit, 2 rotating dual blaster cannons (non-shooting) and a compartment for a Carbonite brick
+- Features a LEGO brick buildable model of Boba Fett’s Starship, with a handle for easy flying, rotating wings and 2 stud shooters
+- Includes a transporter vehicle to move the starship on the ground in play scenarios of solo or group activities, plus a Carbonite brick
+- Includes 2 LEGO minifigures: Boba Fett with a blaster and The Mandalorian with his blaster rifle and a beskar spear
 
 [🛒 Buy it!!]({{< param buyurl >}})
