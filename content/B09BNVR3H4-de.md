@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41707 Friends Baumpflanzungsfahrzeug  Blumengarten-Spielzeug ab 6 Jahren mit Spielzeugauto und Tierfiguren  von der Natur Inspiriertes Set'
-date: 2022-04-13 17:20:19
+date: 2022-04-14 20:12:11
 image: 'https://m.media-amazon.com/images/I/51SxZcvZoIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVR3H4/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '19.4251666666668'
+average: '19.4344262295083'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
