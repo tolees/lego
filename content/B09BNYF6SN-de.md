@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gemeinsam mit den Ninjas trainieren die Kinder im geheimen Dojo, um zu Meistern des Spinjitzu zu werden, doch die hinterhältigen Schlangen brechen die Türen mit einem Rammbock auf!
+- Zu den 5 Räumen dieses LEGO NINJAGO Spielzeugs gehören Wus Teestube, Pixals Werkstatt und eine Waffenkammer voller Waffen für endlose Abenteuer
+- Dieser dreistöckige Dojotempel aus der LEGO NINJAGO Serie „Meister des Spinjitzu“ enthält einen Trainingsbereich und 5 Räume, in denen die Kinder ihre Helden trainieren können
 - Für den Abschluss ihrer Mission erhalten die Kinder ein Weisheitsbanner, das sie mit den Bannern aus anderen Sets (separat erhältlich) am Dach des LEGO Gebäudes anbringen können
 - Inklusive 8 LEGO NINJAGO Figuren: Lloyd, Kai, Cole, Nya, Pixal und Meister Wu, sowie die Schlangenkrieger Boa Destructor und Kobra-Mechaniker
-- Dieser dreistöckige Dojotempel aus der LEGO NINJAGO Serie „Meister des Spinjitzu“ enthält einen Trainingsbereich und 5 Räume, in denen die Kinder ihre Helden trainieren können
-- Zu den 5 Räumen dieses LEGO NINJAGO Spielzeugs gehören Wus Teestube, Pixals Werkstatt und eine Waffenkammer voller Waffen für endlose Abenteuer
+- Gemeinsam mit den Ninjas trainieren die Kinder im geheimen Dojo, um zu Meistern des Spinjitzu zu werden, doch die hinterhältigen Schlangen brechen die Türen mit einem Rammbock auf!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
