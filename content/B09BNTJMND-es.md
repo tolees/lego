@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye la figura de NINJAGO Lloyd armado con una espada, a Mecánico Cobra sobre un quad con un lanzallamas, y a Pitón Dinamita con una pistola y un cartucho de dinamita
-- Transforma el coche de carreras de juguete de un buggy a un potente y rápido vehículo acorazado con paneles dorados, 2 lanzamisiles y alerones con cuchillas
-- Incluye un coche de carreras NINJAGO 3 en 1 que se puede transformar en 3 modelos diferentes, y 3 alucinantes mini figuras LEGO NINJAGO con armas
 - Los peques podrán construir el coche de Lloyd de LEGO NINJAGO en 3 etapas: desde un buggy hasta un vehículo acorazado, listo para enfrentarse a los malvados guerreros serpiente
+- Incluye un coche de carreras NINJAGO 3 en 1 que se puede transformar en 3 modelos diferentes, y 3 alucinantes mini figuras LEGO NINJAGO con armas
+- Transforma el coche de carreras de juguete de un buggy a un potente y rápido vehículo acorazado con paneles dorados, 2 lanzamisiles y alerones con cuchillas
 - Este set NINJAGO permite a los peques construir el coche de Lloyd en 3 rápidas etapas, y es un fabuloso regalo de cumpleaños y un gran juguete para niños de 6+ años
-- No te pierdas las banderas de los otros 7 sets, como el Dragón del Trueno EVO de Jay 71760, el Meca de Última Generación EVO de Zane 71761 o el Dragón del Fuego EVO de Kai 71762
 - Cuando los peques completen sus misiones y derroten a los guerreros de la serpiente, recibirán una bandera de flexibilidad que podrán exponer en su dragón
+- No te pierdas las banderas de los otros 7 sets, como el Dragón del Trueno EVO de Jay 71760, el Meca de Última Generación EVO de Zane 71761 o el Dragón del Fuego EVO de Kai 71762
+- Incluye la figura de NINJAGO Lloyd armado con una espada, a Mecánico Cobra sobre un quad con un lanzallamas, y a Pitón Dinamita con una pistola y un cartucho de dinamita
 
 [🛒 Check the deal!!]({{< param buyurl >}})
