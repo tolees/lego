@@ -28,13 +28,13 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- In der Grundkonfiguration ist das Modul 11,5 cm hoch, 24 cm breit und 20 cm tief. Das Spielset lässt sich jedoch beliebig umbauen und mit dem Starterset und anderen Erweiterungssets vielseitig kombinieren
-- Dieses einzigartige Spielset enthält eine kreisende Plattform für die LEGO Mario Figur (nicht im Set enthalten) und einen Kreisel mit 2 „fliegenden“ Riesen-Kugelwillis. Ein Shy Guy als zusätzliche Figur und ein Superpilz eröffnen weitere spannende Spieloptionen
-- Dieses kreative 132-teilige LEGO Spielzeug ist ein tolles Geburtstags- oder Weihnachtsgeschenk, mit dem Kinder ab 7 Jahren ihr Starterset „Abenteuer mit Mario“ (71360) ergänzen können. Es inspiriert sie dazu, ganz eigene Spiellevel zu gestalten
 - Für dieses Erweiterungsset werden keine Batterien benötigt. Kombiniere es einfach mit der LEGO Mario Figur aus dem Starterset, um ein noch rasanteres Spielerlebnis zu ermöglichen
-- In der kostenlosen LEGO Super Mario App finden Kinder digitale Bauanleitungen sowie coole Anzeigefunktionen und Spielideen. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
-- Kinder werden das rasante Spiellevel lieben, das sie mit dem Erweiterungsset „Riesen-Kugelwillis“ (71366) erschaffen können, um im LEGO Super Mario Starterset „Abenteuer mit Mario“ Münzen zu sammeln und noch mehr Action zu erleben
-- Die Spieler platzieren die nicht enthaltene LEGO Mario Figur auf der genoppten oder glatten Seite der kreisenden Plattform, um den Schwierigkeitsgrad zu verändern. Wie viele Umdrehungen schafft LEGO Mario, ohne herunterzufallen oder von den Riesen-Kugelwillis heruntergestoßen zu werden?
 - Die kreativen LEGO Super Mario Bau- und Spielsets holen einen bei Familien überaus beliebten Videospielcharakter in die echte Welt. Sie gestatten es Fans, die Sets beliebig zu erweitern und umzubauen, um unzählige Spiellevels zu gestalten, die es allein oder zusammen mit Freunden und Geschwistern zu meistern gilt
+- Die Spieler platzieren die nicht enthaltene LEGO Mario Figur auf der genoppten oder glatten Seite der kreisenden Plattform, um den Schwierigkeitsgrad zu verändern. Wie viele Umdrehungen schafft LEGO Mario, ohne herunterzufallen oder von den Riesen-Kugelwillis heruntergestoßen zu werden?
+- Dieses kreative 132-teilige LEGO Spielzeug ist ein tolles Geburtstags- oder Weihnachtsgeschenk, mit dem Kinder ab 7 Jahren ihr Starterset „Abenteuer mit Mario“ (71360) ergänzen können. Es inspiriert sie dazu, ganz eigene Spiellevel zu gestalten
+- Kinder werden das rasante Spiellevel lieben, das sie mit dem Erweiterungsset „Riesen-Kugelwillis“ (71366) erschaffen können, um im LEGO Super Mario Starterset „Abenteuer mit Mario“ Münzen zu sammeln und noch mehr Action zu erleben
+- In der kostenlosen LEGO Super Mario App finden Kinder digitale Bauanleitungen sowie coole Anzeigefunktionen und Spielideen. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
+- Dieses einzigartige Spielset enthält eine kreisende Plattform für die LEGO Mario Figur (nicht im Set enthalten) und einen Kreisel mit 2 „fliegenden“ Riesen-Kugelwillis. Ein Shy Guy als zusätzliche Figur und ein Superpilz eröffnen weitere spannende Spieloptionen
+- In der Grundkonfiguration ist das Modul 11,5 cm hoch, 24 cm breit und 20 cm tief. Das Spielset lässt sich jedoch beliebig umbauen und mit dem Starterset und anderen Erweiterungssets vielseitig kombinieren
 
 [🛒 Buy it!!]({{< param buyurl >}})
