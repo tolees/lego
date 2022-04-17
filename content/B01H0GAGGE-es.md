@@ -28,9 +28,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- El Batimóvil LEGO
 - 3 minifiguras LEGO (Batman, Gandalf un Cool-Tag)
 - ponerlo en el juguete LEGO Pad
+- El Batimóvil LEGO
 - independiente de la plataforma
 - Podrás disfrutar de la recogida de mini figuras adicionales, vehículos, objetos y nuevo nivel
 
