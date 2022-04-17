@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Diseño divertido
 - Edad recomendada: 5+
+- Diseño divertido
 - Temática: Minifiguras
 
 [🛒 Check the deal!!]({{< param buyurl >}})
