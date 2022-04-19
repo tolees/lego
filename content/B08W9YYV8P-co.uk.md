@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Includes Pink Yoshi, Boom Boom and Bone Goomba figures adding action from Start Pipe to Goal Pole - look how LEGO Luigi figure reacts to them
-- Luigis speaker plays iconic sounds & music from the video game while collecting digital coins for spinning seesaw and flying challenges
-- This LEGO Super Mario Adventures with Luigi Starter Course brings all the excitement into the real-world; featuring a LEGO Luigi figure for fun interactive family or solo play
 - LEGO Luigi has a colour sensor and an LCD screen to display many different instant reactions to movement and action bricks alongside his path
+- Luigis speaker plays iconic sounds & music from the video game while collecting digital coins for spinning seesaw and flying challenges
 - The LEGO Luigi figure is powered by 2 x AAA batteries (not included), delivering a highly interactive play experience with instant feedback
+- This LEGO Super Mario Adventures with Luigi Starter Course brings all the excitement into the real-world; featuring a LEGO Luigi figure for fun interactive family or solo play
+- Includes Pink Yoshi, Boom Boom and Bone Goomba figures adding action from Start Pipe to Goal Pole - look how LEGO Luigi figure reacts to them
 
 [🛒 Buy it!!]({{< param buyurl >}})
