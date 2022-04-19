@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO Dimensions - The Simpsons  Homer'
-date: 2022-04-11 14:19:37
+date: 2022-04-19 13:14:46
 image: 'https://m.media-amazon.com/images/I/51edJLRDdYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00ZWVGYD4-es Warner Bros Interactive Spain - LEGO Dimensions - The...'
 sku: 'B00ZWVGYD4-es'
-tags: [ 'Juguetes','Juguetes y juegos','lego','warner bros interactive spain', ]
+tags: [ 'Juguetes','Juguetes y juegos','lego','warner bros interactive spain','🇪🇸', ]
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21'
 descuento: '16.89'
-average: '15.5075384615384'
+average: '15.6496969696969'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,8 +28,8 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Homer
 - LEGO Number 71202
+- Homer
 - Level Pack
 
 [🛒 Buy it!!]({{< param buyurl >}})
