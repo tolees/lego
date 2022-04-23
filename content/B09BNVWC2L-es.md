@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este juguete espacial de exploración lunar viene con muchos accesorios para divertidos juegos de rol, se incluyen una sierra, una pala, un escáner de superficie planetaria y cascos
-- Este juego espacial LEGO para niños de 6 años en adelante, es el regalo perfecto de cumpleaños o de cualquier ocasión para los niños y niñas que aman el espacio exterior
 - Este buggy lunar LEGO cuenta con 12 ruedas para una dirección omnidireccional, además de muchas asombrosas funciones basadas en las de un vehículo espacial real
 - Cuenta con un modelo de vehículo rover espacial de exploración lunar inspirado en la NASA, un escenario de impacto de meteoritos y 3 mini figuras LEGO de astronautas
+- Este juguete espacial de exploración lunar viene con muchos accesorios para divertidos juegos de rol, se incluyen una sierra, una pala, un escáner de superficie planetaria y cascos
 - Este set espacial LEGO incluye instrucciones ilustradas impresas e instrucciones de construcción digitales, disponibles en la aplicación gratuita Instrucciones de Construcción LEGO
+- Este juego espacial LEGO para niños de 6 años en adelante, es el regalo perfecto de cumpleaños o de cualquier ocasión para los niños y niñas que aman el espacio exterior
 - ¡Combínalo con otros juguetes espaciales LEGO City: Estación Espacial Lunar 60349, Base de Investigación Lunar 60350 y Centro de Lanzamiento Espacial 60351 para más diversión!
 - Una vez construido, ¡el rover espacial LEGO tiene el tamaño idóneo para que los niños lo lleven consigo y vivan aventuras allá donde vayan!
 

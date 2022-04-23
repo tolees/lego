@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Hay muchos más juguetes coleccionables de LEGO Avengers, para que los peques puedan luchar contra los malos y crear sus propias aventuras del universo Marvel
 - Este set para jugar y exponer está diseñado para llevar a los fans de las películas a un mundo de acción imaginativa, además de quedar genial expuesto
-- ¿Será suficiente con los poderes especiales y las armas del equipo para derrotar al monstruo o quedarán atrapados por sus tentáculos? Solo los peques pueden decidirlo
+- ¡Este juguete de construcción de Marvel LEGO para niños y niñas a partir de 8 años es un gran regalo de cumpleaños o para cualquier ocasión para todos los amantes de la acción y los monstruos!
+- Este juguete de construcción de Marvel LEGO incluye una mini figura de Doctor Strange con capa extraíble, además de Wong y América Chavez con armas
 - Los peques pueden posicionar los largos tentáculos articulados de la criatura y crear infinitas e imaginativas aventuras
 - Incluye el megamonstruo Gargantos, una enorme criatura de un solo ojo y color verde con tentáculos articulados, y 3 populares mini figuras LEGO Marvel
-- Hay muchos más juguetes coleccionables de LEGO Avengers, para que los peques puedan luchar contra los malos y crear sus propias aventuras del universo Marvel
-- Este juguete de construcción de Marvel LEGO incluye una mini figura de Doctor Strange con capa extraíble, además de Wong y América Chavez con armas
-- ¡Este juguete de construcción de Marvel LEGO para niños y niñas a partir de 8 años es un gran regalo de cumpleaños o para cualquier ocasión para todos los amantes de la acción y los monstruos!
+- ¿Será suficiente con los poderes especiales y las armas del equipo para derrotar al monstruo o quedarán atrapados por sus tentáculos? Solo los peques pueden decidirlo
 
 [🛒 Buy it now!!]({{< param buyurl >}})

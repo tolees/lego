@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Los sets de batalla LEGO NINJAGO son un gran regalo para que los niños y niñas de 6+ años puedan disfrutar jugando en un mundo de fantasía ninja
+- Cuando los peques derroten a sus enemigos ninja y completen su misión, recibirán una bandera coleccionable como recompensa
+- Este juguete NINJAGO incluye una mini figura de Zane con espada y armadura, y la mini figura del guerrero de la serpiente Mecánico Cobra armado con un desintegrador
 - Incluye la figura de acción de un meca de juguete con brazos y piernas articulados, una gran estrella giratoria como arma y una cabina donde colocar la mini figura LEGO NINJAGO de Zane
 - Tras mejorar el meca y su propia armadura, NINJAGO Zane salta a la cabina y lucha con una espada y una alucinante estrella giratoria
-- Cuando los peques derroten a sus enemigos ninja y completen su misión, recibirán una bandera coleccionable como recompensa
-- No te pierdas las banderas de los otros 7 sets, incluidos el Dragón del Trueno EVO de Jay 71760, el Dragón del Fuego EVO de Kai 71762 o el Deportivo EVO de Lloyd 71763
 - Los sets LEGO NINJAGO permite apartar a los peques de las pantallas y escapar a un mundo místico donde pueden enfrentarse a las fuerzas del mal
-- Los sets de batalla LEGO NINJAGO son un gran regalo para que los niños y niñas de 6+ años puedan disfrutar jugando en un mundo de fantasía ninja
-- Este juguete NINJAGO incluye una mini figura de Zane con espada y armadura, y la mini figura del guerrero de la serpiente Mecánico Cobra armado con un desintegrador
+- No te pierdas las banderas de los otros 7 sets, incluidos el Dragón del Trueno EVO de Jay 71760, el Dragón del Fuego EVO de Kai 71762 o el Deportivo EVO de Lloyd 71763
 
 [🛒 Check the deal!!]({{< param buyurl >}})

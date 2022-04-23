@@ -29,11 +29,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Este set de socorrista LEGO incluye un puesto de socorrista de 2 plantas, un quad de juguete, un carrito de los helados y un entorno de playa con palmera y ladrillos de «arena»
-- Los completos sets de LEGO City aportan horas de juego imaginativo y son un gran regalo de cumpleaños o para cualquier ocasión para niños y niñas de 5+ años
-- Incorpora divertidos accesorios para el juego imaginativo, como un recogedor de basura, una botella, boya de salvamento, teléfono móvil, prismáticos y tablas de paddle surf
-- También incluye 4 mini figuras LEGO con los personajes de un socorrista y bañistas y las figuras de una tortuga que está anidando con huevos y un cangrejo
-- Los peques podrán comprarle un delicioso helado al vendedor, que lleva un divertido traje, o coger un chaleco salvavidas e intentar buscar un sitio para hacer paddle surf
-- ¡Conecta el set a otros sets de juego LEGO con la base de carretera LEGO para ampliar tu ciudad como más te apetezca!
 - El puesto de socorrista de 2 plantas incluye montones de elementos para comenzar a jugar, entre ellos una sala de control con estación de trabajo, telescopio y altavoces
+- Los completos sets de LEGO City aportan horas de juego imaginativo y son un gran regalo de cumpleaños o para cualquier ocasión para niños y niñas de 5+ años
+- También incluye 4 mini figuras LEGO con los personajes de un socorrista y bañistas y las figuras de una tortuga que está anidando con huevos y un cangrejo
+- ¡Conecta el set a otros sets de juego LEGO con la base de carretera LEGO para ampliar tu ciudad como más te apetezca!
+- Los peques podrán comprarle un delicioso helado al vendedor, que lleva un divertido traje, o coger un chaleco salvavidas e intentar buscar un sitio para hacer paddle surf
+- Incorpora divertidos accesorios para el juego imaginativo, como un recogedor de basura, una botella, boya de salvamento, teléfono móvil, prismáticos y tablas de paddle surf
 
 [🛒 Buy it!!]({{< param buyurl >}})
