@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los juegos de juguetes LEGO se prueban de casi todas las formas imaginables para asegurarnos de que satisfagan rigurosos estándares de seguridad.
-- La LEGO Friends Peluquería Felina Móvil está repleta de accesorios, como una galleta para gatos, un biberón para gatitos, pelo, tijeras, un cepillo y un billete
-- Con este juguete, una idea de regalo de Navidad para niños y niñas de +4 años, los peques se divertirán imaginando que recogen gatos en el coche y los maquillan en la peluquería para gatitos
-- Los componentes LEGO cumplen estrictas normas de calidad del sector para garantizar que los deditos puedan cogerlos y construir con facilidad; así ha sido desde 1958.
 - El extraordinario set LEGO Friends Peluquería Felina Móvil facilita la construcción a los niños mientras les propone imaginar que recogen gatitos de juguete en un coche felino
 - Un ladrillo para principiantes pone en marcha la construcción, ¡para que haya más tiempo para jugar! Premia el trabajo duro con este juguete que entretiene durante horas
 - Aparte de las instrucciones impresas, con Digital Instructions PLUS de la app LEGO Building Instructions, los niños pueden ampliar, girar y visualizar el set al construirlo
 - Los sets 4+ ofrecen a las niñas una divertida manera de aprender a construir mientras refuerzan su confianza con sencillos pasos de construcción. Además, permiten a peques y adultos descubrir el placer de construir y jugar juntos.
+- La LEGO Friends Peluquería Felina Móvil está repleta de accesorios, como una galleta para gatos, un biberón para gatitos, pelo, tijeras, un cepillo y un billete
+- Los juegos de juguetes LEGO se prueban de casi todas las formas imaginables para asegurarnos de que satisfagan rigurosos estándares de seguridad.
+- Con este juguete, una idea de regalo de Navidad para niños y niñas de +4 años, los peques se divertirán imaginando que recogen gatos en el coche y los maquillan en la peluquería para gatitos
+- Los componentes LEGO cumplen estrictas normas de calidad del sector para garantizar que los deditos puedan cogerlos y construir con facilidad; así ha sido desde 1958.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
