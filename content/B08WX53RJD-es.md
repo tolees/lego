@@ -30,9 +30,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 - Los accesorios incluyen cascos, sillas de montar, bridas, una horquilla, un cepillo, una escoba, utensilios de cocina, malvaviscos y un bastón blanco para Savannah
 - Este juguete LEGO Friends cuenta con un rancho de 3 pisos con un establo para caballos de juguete, un corral para ponis y una cocina, un dormitorio y un comedor arriba
-- El juego es un gran regalo LEGO de Navidad o cumpleaños para niños y niñas de +7 años que aman a los animales, genial para jugar solo o con amigos
-- Incluye 2 juguetes de caballos para niños, con cabezas móviles con bisagras, y un pony para el joven Kevin, para un juego inmersivo de rol de aventuras de verano
-- El set viene con 7 mini muñecas LEGO Friends: Mia y Savannah, una micro muñeca Kevin y Goldie, el juguete del perro
 - Los niños pueden explorar la naturaleza, cuidar de los animales, limpiar establos, acostar al perro en su perrera y luego tostar malvaviscos en la fogata
+- El set viene con 7 mini muñecas LEGO Friends: Mia y Savannah, una micro muñeca Kevin y Goldie, el juguete del perro
+- Incluye 2 juguetes de caballos para niños, con cabezas móviles con bisagras, y un pony para el joven Kevin, para un juego inmersivo de rol de aventuras de verano
+- El juego es un gran regalo LEGO de Navidad o cumpleaños para niños y niñas de +7 años que aman a los animales, genial para jugar solo o con amigos
 
 [🛒 Buy it!!]({{< param buyurl >}})
