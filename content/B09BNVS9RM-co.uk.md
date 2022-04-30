@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42138 Technic Ford Mustang Shelby GT500 Set  Pull Back Drag Racing Model Car Toy for Kids and Teens with AR App Play Feature'
-date: 2022-04-29 12:54:57
+date: 2022-04-30 15:36:04
 image: 'https://m.media-amazon.com/images/I/51rmfVl1gTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids will discover new exciting experiences in LEGO AR+ app with this model car kit to build that races in augmented reality like no other!
 - This true-to-life buildable model faithfully recreates the iconic looks of the real Ford Mustang Shelby GT500 drag racing car
 - Download the LEGO AR+ app, scan the model, then pull the car back to launch it using your foot & see it come to life in exciting races
-- Use the LEGO Technic AR+ app to check out the challenges for more fun ways to play and explore all details of your muscle racing car model
 - The Ford mustang model car brings home the thrill of the drag racetrack as kids send the car speeding using the 2 pull back toy cars motors
+- Kids will discover new exciting experiences in LEGO AR+ app with this model car kit to build that races in augmented reality like no other!
+- Use the LEGO Technic AR+ app to check out the challenges for more fun ways to play and explore all details of your muscle racing car model
 
 [🛒 Check the deal!!]({{< param buyurl >}})
