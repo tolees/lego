@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Mit den Bauanleitungen Instructions PLUS in der LEGO Building Instructions App können Kinder das Modell beim Bauen vergrößern, drehen und visualisieren.
-- Enthält 1 LEGO Minifigur: die furchtlose Stuntwoman Raze, ein Charakter aus der TV-Serie LEGO City - Abenteuer.
-- Mit diesem schwungradbetriebenen Stunt-Motorrad-Spielzeug ab 5 Jahren können Kinder in die aufregende Welt von LEGO City Stuntz eintauchen.
 - Das LEGO City Wheelie Stuntbike-Set enthält ein Motorrad mit Reibungsmotor: Kinder können das Stunt-Motorrad anschieben, um das Schwungrad zu aktivieren.
+- Mit diesem schwungradbetriebenen Stunt-Motorrad-Spielzeug ab 5 Jahren können Kinder in die aufregende Welt von LEGO City Stuntz eintauchen.
 - Kombiniere dieses Stuntbike-Spielset mit anderen Stuntshow-Sets von LEGO City Stuntz, um noch mehr bekannte Figuren und Stunt-Spektakel zu erleben!
+- Enthält 1 LEGO Minifigur: die furchtlose Stuntwoman Raze, ein Charakter aus der TV-Serie LEGO City - Abenteuer.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
