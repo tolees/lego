@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Pour combattre la menace phatoms, les enfants devront utiliser les fusées de feu d’artifice pour alimenter les ailes élytres après avoir enfilé le casque en netherite et le trident
 - Les accessoires Minecraft incluent un établi, une enclume, une meule, des lanternes, des pommes des terres, des betteraves et un tonneau de poissons
-- Une maison de forgeron, une tour vertigineuse et un jardin insulaire sont inclus dans le jouet Minecraft
-- Incroyablement polyvalent, ce jeu de constructions Minecraft encourage les enfants à adapter leurs créations en continu, comme dans le jeu vidéo, mais en vrai
 - Inclut des figurines Minecraft de pilote avec des ailes élytres, un casque en netherite, une fusée de feu d’artifice et un trident, 2 phatoms et un chat roux
+- Incroyablement polyvalent, ce jeu de constructions Minecraft encourage les enfants à adapter leurs créations en continu, comme dans le jeu vidéo, mais en vrai
+- Une maison de forgeron, une tour vertigineuse et un jardin insulaire sont inclus dans le jouet Minecraft
+- Pour combattre la menace phatoms, les enfants devront utiliser les fusées de feu d’artifice pour alimenter les ailes élytres après avoir enfilé le casque en netherite et le trident
 
 [🛒 Buy it now!!]({{< param buyurl >}})

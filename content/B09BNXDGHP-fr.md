@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Les enfants peuvent pousser le bloc sous l’arbre et… zoom ! La trappe s’ouvre et le personnage qui se trouve dessus tombera dans la grotte du niveau inférieur
+- La grotte du forgeron possède une enclume, un four, un support d’armure et plus encore pour permettre aux enfants de créer et réparer leurs armes de guerriers Minecraft
 - Il inclut une structure avec 2 niveaux modulaires dotée d’un dojo à l’étage et d’une grotte en bas. Les étages sont connectés par une trappe qui s’ouvre en poussant un bloc
-- Ce set inclut des figurines Minecraft des personnages emblématiques du jeu : un ninja, un rogue, un squelette et une chauve-souris pour recréer l’atmosphère du jeu best-seller
 - Les enfants peuvent pousser le bloc sous l’arbre et… zoom ! La trappe s’ouvre et le personnage qui se trouve dessus tombera dans la grotte du niveau inférieur
 - Les 2 niveaux de la maison Minecraft LEGO se séparent et peuvent facilement être reconfigurés pour créer une nouvelle expérience de jeu
-- La grotte du forgeron possède une enclume, un four, un support d’armure et plus encore pour permettre aux enfants de créer et réparer leurs armes de guerriers Minecraft
+- Ce set inclut des figurines Minecraft des personnages emblématiques du jeu : un ninja, un rogue, un squelette et une chauve-souris pour recréer l’atmosphère du jeu best-seller
 - Les sets LEGO Minecraft constituent un cadeau d’anniversaire ou de Noël idéal pour les enfants dès 8 ans et les fans du jeu de tous âges !
-- Les enfants peuvent pousser le bloc sous l’arbre et… zoom ! La trappe s’ouvre et le personnage qui se trouve dessus tombera dans la grotte du niveau inférieur
 
 [🛒 Check the deal!!]({{< param buyurl >}})
