@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- The temple is divided into 3 play areas allowing role playing with 3 figures/players at once to recreate scenes from The Rise of Gru movie
+- Features a kung fu temple with weapon rack and rotating wooden dummy, plus ‘fireworks’ stud shooters that fire from the top of the temple
 - Accessories include a golden banana, weapon rack, weapons, rotating training dummy, a Chinese dragon, medallion and shooting ‘fireworks’
 - Includes 3 LEGO Minion figures: Kevin and Stuart Minion toy figures in kung fu outfits, plus an Otto figure to be shoot away from the temple
 - Kids can help the Minions perfect their kung fu skills, carry the colourful Chinese dragon toy or fire ‘fireworks’ from the top of the temple
-- The temple is divided into 3 play areas allowing role playing with 3 figures/players at once to recreate scenes from The Rise of Gru movie
-- Features a kung fu temple with weapon rack and rotating wooden dummy, plus ‘fireworks’ stud shooters that fire from the top of the temple
 
 [🛒 Buy it!!]({{< param buyurl >}})
