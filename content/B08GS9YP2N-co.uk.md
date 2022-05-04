@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- With the bracelet measuring over 7 in. (20 cm) long, it is perfect for practising imaginative creations to then wear the favourite version
-- Let kids expand their designs with cool new ideas from the LEGO Extra DOTS - Series 4 41931 bag, or combine with DOTS Music Bracelet 41933
 - DOTS Series 4 easy-to-follow inspiration on the packaging makes designing a snap, or kids can create their own patterns again and again
-- This clever bracelet making kit with an open-ended design makes a thrilling Christmas, birthday or anytime gift for boys and girls aged 6+
 - The arts & crafts set for kids age 6+ features an adjustable band and 32 colourful tiles with cool cactus prints to create customised designs
+- This clever bracelet making kit with an open-ended design makes a thrilling Christmas, birthday or anytime gift for boys and girls aged 6+
+- Let kids expand their designs with cool new ideas from the LEGO Extra DOTS - Series 4 41931 bag, or combine with DOTS Music Bracelet 41933
+- With the bracelet measuring over 7 in. (20 cm) long, it is perfect for practising imaginative creations to then wear the favourite version
 
 [🛒 Buy it!!]({{< param buyurl >}})
