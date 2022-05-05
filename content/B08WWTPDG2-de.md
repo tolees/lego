@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Enthält ein Modell von Boba Fetts Starship aus LEGO-Steinen mit Handgriff, um es einfach fliegen zu lassen, drehenden Flügeln und 2 Shootern
-- Enthält zudem ein sich öffnen lassendes Cockpit für LEGO-Star-Wars-Minifiguren, 2 rotierende Zweier-Blaster-Kanonen (nicht schießend) und eine Kammer für einen Karbonit-Stein
-- Inklusive Transporter-Fahrzeug, um das Starship auf dem Boden in Spielposition zu bringen – für das Spiel allein oder zu mehreren –, sowie Karbonit-Stein
-- Enthält 2 LEGO-Star-Wars-Minifiguren: Boba-Fett mit einem Blaster und den Mandalorianer mit seinem Blastergewehr und seiner Beskar-Lanze
 - Mit der Mandalorianer LEGO-Star-Wars-Minifigur können Kinder aufregende Abenteuer und Kopfgeldjagden nachspielen und Shooter abfeuern
+- Enthält ein Modell von Boba Fetts Starship aus LEGO-Steinen mit Handgriff, um es einfach fliegen zu lassen, drehenden Flügeln und 2 Shootern
+- Inklusive Transporter-Fahrzeug, um das Starship auf dem Boden in Spielposition zu bringen – für das Spiel allein oder zu mehreren –, sowie Karbonit-Stein
 - Eignet sich perfekt als Ausstellungstück für Baumeister und Fans von Star Wars, ganz besonders als Geschenkidee zu Weihnachten
+- Enthält zudem ein sich öffnen lassendes Cockpit für LEGO-Star-Wars-Minifiguren, 2 rotierende Zweier-Blaster-Kanonen (nicht schießend) und eine Kammer für einen Karbonit-Stein
+- Enthält 2 LEGO-Star-Wars-Minifiguren: Boba-Fett mit einem Blaster und den Mandalorianer mit seinem Blastergewehr und seiner Beskar-Lanze
 
 [🛒 Buy it!!]({{< param buyurl >}})

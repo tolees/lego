@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Neu ab März 2022: Die NINJAGO Jay-Minifigur hat ein exklusives Elementarkraft-Outfit
 - Mit dem LEGO NINJAGO Spinner-Spielzeug kannst du Jay helfen, die Kunst des Spinjitzu zu meistern
-- Dieses 25-teilige LEGO NINJAGO Action-Spielzeug bietet den Kleinen ein cooles und kreatives Bauerlebnis
-- Setze Jay in die drehende Glaskuppel, ziehe an der Reißleine und beobachte, wie er sich dreht und seine Kampfkünste mit der kreiselnden Trainingsattrappe misst
 - Das sich drehende Ninja-Spielzeug hat die ideale Größe, um damit zu Hause zu spielen oder es auf Reisen mitzunehmen
+- Setze Jay in die drehende Glaskuppel, ziehe an der Reißleine und beobachte, wie er sich dreht und seine Kampfkünste mit der kreiselnden Trainingsattrappe misst
+- Dieses 25-teilige LEGO NINJAGO Action-Spielzeug bietet den Kleinen ein cooles und kreatives Bauerlebnis
+- Neu ab März 2022: Die NINJAGO Jay-Minifigur hat ein exklusives Elementarkraft-Outfit
 
 [🛒 Check the deal!!]({{< param buyurl >}})
