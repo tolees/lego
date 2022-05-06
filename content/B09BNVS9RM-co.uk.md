@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Download the LEGO AR+ app, scan the model, then pull the car back to launch it using your foot & see it come to life in exciting races
-- This true-to-life buildable model faithfully recreates the iconic looks of the real Ford Mustang Shelby GT500 drag racing car
-- The Ford mustang model car brings home the thrill of the drag racetrack as kids send the car speeding using the 2 pull back toy cars motors
-- Kids will discover new exciting experiences in LEGO AR+ app with this model car kit to build that races in augmented reality like no other!
 - Use the LEGO Technic AR+ app to check out the challenges for more fun ways to play and explore all details of your muscle racing car model
+- This true-to-life buildable model faithfully recreates the iconic looks of the real Ford Mustang Shelby GT500 drag racing car
+- Kids will discover new exciting experiences in LEGO AR+ app with this model car kit to build that races in augmented reality like no other!
+- The Ford mustang model car brings home the thrill of the drag racetrack as kids send the car speeding using the 2 pull back toy cars motors
+- Download the LEGO AR+ app, scan the model, then pull the car back to launch it using your foot & see it come to life in exciting races
 
 [🛒 Check the deal!!]({{< param buyurl >}})
