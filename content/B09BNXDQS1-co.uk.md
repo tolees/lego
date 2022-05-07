@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41942 DOTS Into the Deep Bracelets with Charms Set  Jewellery Making Kit with Glow in the Dark Tiles  Creative Crafts For Kids Age 6'
-date: 2022-05-06 08:00:27
+date: 2022-05-07 15:48:35
 image: 'https://m.media-amazon.com/images/I/51y1aoAGLAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- The ready-to-decorate BFF friendship bracelets offer bite-sized chances to build children’s imagination and poise through fun
 - Kids can also use the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) to expand their jewellery designs
 - This craft set for kids aged 6+ features 2 adjustable bracelets in dark blue and azure, plus 34 tiles including stars, jellyfish and charms
-- The ready-to-decorate BFF friendship bracelets offer bite-sized chances to build children’s imagination and poise through fun
 - Treat a fan of underwater sea creatures with this LEGO DOTS bracelet making kit and give them some creative, fun moments
 - Includes 2 charm bases, 2 unique, attachable charms, light purple, opalescent & transparent tiles and some glow in the dark tiles
 
