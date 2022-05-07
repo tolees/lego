@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mit einem LEGO Space Shuttle, einem Akademiegebäude, einer Missionskontrolle mit Teleskop und einem Mehrachsen-Trainer
-- Das Lernspielzeug enthält 4 LEGO Friends Mini-Puppen: Olivia und William in Astronautenanzügen, Julian und Dr. Vidya
-- Mit der interaktiven Anleitung können die Kinder ihr Raumschiff Spielzeug zoomen, drehen und in 3D betrachten, während sie es bauen
 - Begleite Olivia dabei, wie ihre Träume wahr werden und sie in die Raumfahrt-Akademie aufgenommen und zur Astronautin ausgebildet wird!
+- Mit der interaktiven Anleitung können die Kinder ihr Raumschiff Spielzeug zoomen, drehen und in 3D betrachten, während sie es bauen
+- Das Lernspielzeug enthält 4 LEGO Friends Mini-Puppen: Olivia und William in Astronautenanzügen, Julian und Dr. Vidya
 - Kinder nehmen mit dem LEGO Astronauten an einem Training teil, simulieren einen Flug im Raketen-Spielzeug und suchen nach neuen Galaxien
-- Die wissenschaftlich exakte Elemente in diesem Lernspielzeug bringen Kindern das Weltraumprogramm näher
 - Dieses LEGO Weltraum Spielzeug ab 8 Jahren ist Herausforderung für angehende Astronauten, die mit Freude die Galaxie entdecken
+- Mit einem LEGO Space Shuttle, einem Akademiegebäude, einer Missionskontrolle mit Teleskop und einem Mehrachsen-Trainer
+- Die wissenschaftlich exakte Elemente in diesem Lernspielzeug bringen Kindern das Weltraumprogramm näher
 
 [🛒 Check the deal!!]({{< param buyurl >}})
