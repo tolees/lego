@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- The aeroplane toy for girls and boys 5+ years old has an opening cockpit to seat the pilot before he blasts off for thrilling, airborne stunts
 - Comes with a pictorial printed guide and digital building instructions – available in the free LEGO Building Instructions app
 - Features a colourful toy stunt jet plane with landing wheels, adjustable tail fins and a fiery back booster, plus a pilot minifigure
 - LEGO City Great Vehicles sets help kids to develop confidence and life skills with realistic toys and fun characters that inspire creativity
-- The aeroplane toy for girls and boys 5+ years old has an opening cockpit to seat the pilot before he blasts off for thrilling, airborne stunts
 - This supersonic introduction to the LEGO City Great Vehicles universe is a great everyday treat or a birthday gift for kids who love planes
 
 [🛒 Buy it now!!]({{< param buyurl >}})

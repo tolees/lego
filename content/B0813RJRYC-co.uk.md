@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
-- The LEGO Lamborghini model car is presented in luxury packaging and provides a stunning display piece to build and enjoy
 - This 3,696-piece LEGO Technic 1:8 scale model car brings you closer than ever to the real Lamborghini Sián FKP 37
+- The LEGO Lamborghini model car is presented in luxury packaging and provides a stunning display piece to build and enjoy
 - The model Lamborghini includes a collector’s building instruction booklet, decorative display plate, and unique serial number
 - Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
+- Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
 
 [🛒 Check the deal!!]({{< param buyurl >}})
