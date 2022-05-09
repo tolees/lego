@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das von der Natur inspirierte Spielzeugbaumhaus von LEGO Friends verfügt über 4 Etagen mit Büro, Küche, Schlafzimmer und Wohnzimmer sowie viele detaillierte Spielbereiche
-- Mit diesem kreativen Baumhaus können Kinder die Minipuppen die Rutsche hinuntersausen lassen, sie auf der Schaukel anschubsen oder die Natur durch ein Teleskop betrachten
-- Inklusive 5 LEGO Friends Figuren, darunter die Minipuppen von Mia und River mit veränderbarem Gesichtsausdruck sowie eine Hasenfigur.
-- Das LEGO Friends Baumhaus-Set enthält einen Aufzug, um Jackson in seinem Rollstuhl nach oben zu bringen
-- Zum Zubehör dieses Spielzeughauses gehören ein Lastenfahrrad, ein Bienenstock, ein Tischler-Schraubstock und viele detaillierte Küchen- und Haushaltsgegenstände
 - Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
-- Die Natur-Lernspielzeuge von LEGO Friends sind tolle Geschenke zum Geburtstag oder zu anderen Anlässen für kleine Umweltschützer, die sich für andere einsetzen
 - Die Kinder können den Aufzug hochfahren, indem sie die Turbine aktivieren, das Geländer so drehen, dass Freunde hochklettern können, oder das Dach öffnen, um im Haus zu spielen
+- Das LEGO Friends Baumhaus-Set enthält einen Aufzug, um Jackson in seinem Rollstuhl nach oben zu bringen
+- Mit diesem kreativen Baumhaus können Kinder die Minipuppen die Rutsche hinuntersausen lassen, sie auf der Schaukel anschubsen oder die Natur durch ein Teleskop betrachten
+- Das von der Natur inspirierte Spielzeugbaumhaus von LEGO Friends verfügt über 4 Etagen mit Büro, Küche, Schlafzimmer und Wohnzimmer sowie viele detaillierte Spielbereiche
+- Inklusive 5 LEGO Friends Figuren, darunter die Minipuppen von Mia und River mit veränderbarem Gesichtsausdruck sowie eine Hasenfigur.
+- Die Natur-Lernspielzeuge von LEGO Friends sind tolle Geschenke zum Geburtstag oder zu anderen Anlässen für kleine Umweltschützer, die sich für andere einsetzen
+- Zum Zubehör dieses Spielzeughauses gehören ein Lastenfahrrad, ein Bienenstock, ein Tischler-Schraubstock und viele detaillierte Küchen- und Haushaltsgegenstände
 
 [🛒 Buy it now!!]({{< param buyurl >}})
