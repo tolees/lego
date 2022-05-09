@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Este set de vehículo de construcción de juguete incluye una grúa móvil de juguete con almohadillas, brazo y cabrestante que funcionan de verdad, montada sobre un camión de 6 ruedas
-- Los sets de construcción LEGO City Great Vehicles son una gran idea para regalar juguetes a niños y niñas de 7+ años
+- Incluye las mini figuras de un conductor y un operador de grúa, y accesorios de juguete: una llave inglesa, un walkie-talkie y 2 cascos de seguridad para llevar a cabo un juego realista
+- Tras poner el camión en posición, los peques podrán bajar las almohadillas de soporte de la grúa, girar y extender el brazo y levantar y bajar el cabrestante
 - ¡Construir tu ciudad nunca había sido tan divertido! Cuando termines, coloca en su sitio el gancho del cabrestante y dirígete hacia la siguiente obra
 - La app gratuita Instrucciones de Montaje LEGO para smartphones y tabletas permite a los peques acercar, girar y ver el juguete desde todos los ángulos mientras lo construyen
 - La base de carretera de LEGO City incluida puede colocarse y después utilizarse para conectar otros sets de juego
-- Tras poner el camión en posición, los peques podrán bajar las almohadillas de soporte de la grúa, girar y extender el brazo y levantar y bajar el cabrestante
-- Incluye las mini figuras de un conductor y un operador de grúa, y accesorios de juguete: una llave inglesa, un walkie-talkie y 2 cascos de seguridad para llevar a cabo un juego realista
+- Los sets de construcción LEGO City Great Vehicles son una gran idea para regalar juguetes a niños y niñas de 7+ años
 
 [🛒 Buy it now!!]({{< param buyurl >}})
