@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71761 NINJAGO Zane’s Power Up Mech EVO Action Figure with Cobra Snake and Zane Minifigure  Collectible Mission Banner Series'
-date: 2022-05-08 16:06:14
+date: 2022-05-11 10:15:28
 image: 'https://m.media-amazon.com/images/I/51mqoLqZ0xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This NINJAGO toy includes Zane minifigure with a sword & armour, and the Cobra Mechanic snake warrior armed with a blaster gun
 - LEGO NINJAGO EVO sets let kids step away from their screens and escape into a mystical world where they can take on the forces of evil
 - When kids defeat the ninja enemies and complete their mission, they are rewarded with a collectible Stealth banner
-- After upgrading mech’s and his own armour, NINJAGO Zane jumps into the cockpit and fights back with a sword and a cool spinning star weapon
+- This NINJAGO toy includes Zane minifigure with a sword & armour, and the Cobra Mechanic snake warrior armed with a blaster gun
 - Features a mech action figure toy with posable limbs, a large spinning star weapon and a cockpit for kids to place NINJAGO Zane minigifure
+- After upgrading mech’s and his own armour, NINJAGO Zane jumps into the cockpit and fights back with a sword and a cool spinning star weapon
 
 [🛒 Check the deal!!]({{< param buyurl >}})

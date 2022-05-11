@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71757 NINJAGO Lloyd’s Ninja Mech Battle Action Figure Toy for Kids Aged 4 with Snake Figure and Minifigure  Set for Preschoolers'
-date: 2022-05-08 16:05:59
+date: 2022-05-11 10:14:16
 image: 'https://m.media-amazon.com/images/I/5193gdA7VHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features a posable LEGO NINJAGO mech action figure toy with a cockpit to carry 2 NINJAGO minifigures, and a spider figure for more fun!
 - Use the free LEGO Building Instructions app to zoom, rotate and visualise a digital version of their model on smartphones or tablets
-- Includes NINJAGO Lloyd with a sword and snake Boa Destructor with a long spear minifigures, for kids to play out fun-filled NINJAGO battles
 - This LEGO NINJAGO toy for kids age 4 + comes with simple picture instructions for preschoolers to learn how to build with joy
 - Kids can stage action-packed ninja adventures with this posable mech toy, which includes a Starter Brick to get the play underway quickly
+- Includes NINJAGO Lloyd with a sword and snake Boa Destructor with a long spear minifigures, for kids to play out fun-filled NINJAGO battles
+- Features a posable LEGO NINJAGO mech action figure toy with a cockpit to carry 2 NINJAGO minifigures, and a spider figure for more fun!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
