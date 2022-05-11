@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye la primera maqueta LEGO de la historia para construir con ladrillos del AT-ST de Hoth de Star Wars: El Imperio Contraataca, para revivir la batalla
 - Incluye instrucciones, y con la app gratuita Instrucciones de Montaje LEGO, los constructores podrán acercar, girar y visualizar una versión digital de su maqueta
 - Incluye 3 mini figuras LEGO Star Wars: Chewbacca con un equipo para la nieve, un piloto de AT-ST de Hoth y un soldado rebelde de Hoth, todos ellos con armas
-- También incluye una figura LEGO del droide sonda imperial para revivir las épicas escenas de Star Wars: El Imperio Contraataca
 - El AT-ST de juguete incluye una cabina a la que se accede mediante una trampilla, techo abatible, una cabeza giratoria, 2 lanzadores de proyectiles y patas articuladas
+- También incluye una figura LEGO del droide sonda imperial para revivir las épicas escenas de Star Wars: El Imperio Contraataca
+- Incluye la primera maqueta LEGO de la historia para construir con ladrillos del AT-ST de Hoth de Star Wars: El Imperio Contraataca, para revivir la batalla
 
 [🛒 Check the deal!!]({{< param buyurl >}})

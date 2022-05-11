@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Esta detallada casa de juguete de 2 pisos de la familia Dursley es el juego de construcción LEGO perfecto para dar vida a la localización y acción de las películas de Harry Potter
 - Esta casa de juguete LEGO de Harry Potter es el regalo de cumpleaños perfecto o cualquier otra ocasión para niños de 8 años en adelante fans de las aventuras de los jóvenes magos
-- Incluye un letrero de Privet Drive, habitación de Harry debajo de las escaleras, ¡y el gran coche de juguete Ford Anglia de Ron Weasley con maletero y puertas que se abren!
-- Incluye 6 mini figuras LEGO: Harry Potter, Ron Weasley, Dudley, Petunia y Vernon Dursley y Dobby, además de la figura de Hedwig y numerosos accesorios de la casa de juguete
-- Con este set LEGO de Harry Potter los peques podrán introducir cartas por la chimenea mientras interpretan increíbles juegos de rol y recrean sus escenas favoritas de las películas
-- Al igual que en las películas, una cadena se fija desde el maletero del coche hasta la ventana de Harry para liberarlo y emprender nuevas aventuras
 - Este set LEGO es compatible con otros de la gama, ¡la diversión no tiene fin con los diferentes juegos de construcción LEGO de Harry Potter!
+- Con este set LEGO de Harry Potter los peques podrán introducir cartas por la chimenea mientras interpretan increíbles juegos de rol y recrean sus escenas favoritas de las películas
+- Esta detallada casa de juguete de 2 pisos de la familia Dursley es el juego de construcción LEGO perfecto para dar vida a la localización y acción de las películas de Harry Potter
+- Al igual que en las películas, una cadena se fija desde el maletero del coche hasta la ventana de Harry para liberarlo y emprender nuevas aventuras
+- Incluye 6 mini figuras LEGO: Harry Potter, Ron Weasley, Dudley, Petunia y Vernon Dursley y Dobby, además de la figura de Hedwig y numerosos accesorios de la casa de juguete
+- Incluye un letrero de Privet Drive, habitación de Harry debajo de las escaleras, ¡y el gran coche de juguete Ford Anglia de Ron Weasley con maletero y puertas que se abren!
 
 [🛒 Buy it!!]({{< param buyurl >}})

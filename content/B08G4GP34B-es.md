@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Este set LEGO viene con instrucciones ilustradas paso a paso para que incluso los constructores principiantes puedan construir con confianza, como un auténtico Jedi
-- Descubre la gama LEGO Star Wars y deja que la fuerza acompañe a tu peque con la gran variedad de regalos de Star Wars para niños de todas las edades
 - Incluye las mini figuras LEGO de Luke Skywalker con su espada láser, la princesa Leia, el general Dodonna y una figura LEGO de droide R2-D2 para vivir increíbles juegos de rol
-- Puedes introducir a R2-D2 detrás de Luke en el caza y combinar este set con el juego de construcción LEGO Star Wars Caza TIE Imperial (75300) para vivir épicas batallas galácticas
-- Este juego de construcción cuenta con una versión de ladrillos LEGO de la icónico Ala-X con cabina abatible, espacio para mini figuras LEGO y tren de aterrizaje retráctil
+- Descubre la gama LEGO Star Wars y deja que la fuerza acompañe a tu peque con la gran variedad de regalos de Star Wars para niños de todas las edades
+- Este set LEGO viene con instrucciones ilustradas paso a paso para que incluso los constructores principiantes puedan construir con confianza, como un auténtico Jedi
 - ¡En esta nave estelar de Star Wars podrás cambiar las alas a posición de ataque con tal solo tocar un botón o vivir épicas batallas con los 2 cañones automáticos!
 - Recrea escenas de la clásica trilogía de Star Wars con tus personajes favoritos en este juguete para niños de 9 años en adelante del Caza Ala-X de Luke Skywalker
+- Puedes introducir a R2-D2 detrás de Luke en el caza y combinar este set con el juego de construcción LEGO Star Wars Caza TIE Imperial (75300) para vivir épicas batallas galácticas
+- Este juego de construcción cuenta con una versión de ladrillos LEGO de la icónico Ala-X con cabina abatible, espacio para mini figuras LEGO y tren de aterrizaje retráctil
 
 [🛒 Buy it!!]({{< param buyurl >}})

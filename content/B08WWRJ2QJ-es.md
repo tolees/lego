@@ -29,10 +29,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Incluye 10 mini figuras LEGO: Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood y la profesora Sinistra
-- También incluye a Gilderoy Lockhart, Albus Dumbledore y Nick Casi Decapitado, además de 6 fichas de cromos de mago al azar para coleccionar (de un total de 16)
-- La Cámara de los Secretos tiene una icónica entrada circular y una gran estatua con una boca que se abre, que revela un pasillo por el que el Basilisco hacer su entrada
 - Este juguete de Harry Potter presenta La Cámara de los Secretos y el Gran Salón con 2 largas mesas, el atril con el búho dorado de Dumbledore y el sombrero seleccionador
+- También incluye a Gilderoy Lockhart, Albus Dumbledore y Nick Casi Decapitado, además de 6 fichas de cromos de mago al azar para coleccionar (de un total de 16)
 - El kit coleccionable de Harry Potter incluye una exclusiva mini figura dorada de aniversario de Voldemort para celebrar los 20 años de la magia de Harry, siendo una gran idea de regalo
+- La Cámara de los Secretos tiene una icónica entrada circular y una gran estatua con una boca que se abre, que revela un pasillo por el que el Basilisco hacer su entrada
 - El basilisco acoplable tiene una boca que se abre, una cabeza con 2 articulaciones giratorias y una cola que tiene 3 partes reconfigurables
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Este set LEGO es un juguete increíble que hace honor a los clásicos coches radiocontrol de los 80: hará que varias generaciones jueguen juntas
-- Descarga la app gratuita CONTROL+ para manejar el coche, realizar acrobacias y desbloquear desafíos, efectos de sonido y mucho más
 - ¡Creado para la acción! Con grandes neumáticos y su acabado en ángulo en la parte frontal para lograr estabilidad durante los saltos y los trucos, como en los clásicos coches de juguete radiocontrol
-- También incluye un capó abatible, una antena y una fantástica combinación de colores retro, junto a adhesivos inspirados en los 80
-- Un regalo ideal de Semana Santa o cumpleaños para adultos y niños de 10 años en adelante amantes de los coches clásicos y la decoración
-- Los componentes electrónicos, incluidos 1 Hub y 2 grandes motores, aportan aún más potencia y ofrecen horas de juego repleto de acción
+- Este set LEGO es un juguete increíble que hace honor a los clásicos coches radiocontrol de los 80: hará que varias generaciones jueguen juntas
 - Es fácil realizar increíbles acrobacias con el Buggy Todoterreno por control remoto gracias a la suspensión delantera y trasera (una novedad en LEGO Technic)
+- Descarga la app gratuita CONTROL+ para manejar el coche, realizar acrobacias y desbloquear desafíos, efectos de sonido y mucho más
+- Los componentes electrónicos, incluidos 1 Hub y 2 grandes motores, aportan aún más potencia y ofrecen horas de juego repleto de acción
+- Un regalo ideal de Semana Santa o cumpleaños para adultos y niños de 10 años en adelante amantes de los coches clásicos y la decoración
+- También incluye un capó abatible, una antena y una fantástica combinación de colores retro, junto a adhesivos inspirados en los 80
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Kids can also use the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) to expand their jewellery designs
+- Treat a fan of underwater sea creatures with this LEGO DOTS bracelet making kit and give them some creative, fun moments
 - The ready-to-decorate BFF friendship bracelets offer bite-sized chances to build children’s imagination and poise through fun
+- Kids can also use the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) to expand their jewellery designs
 - Includes 2 charm bases, 2 unique, attachable charms, light purple, opalescent & transparent tiles and some glow in the dark tiles
 - This craft set for kids aged 6+ features 2 adjustable bracelets in dark blue and azure, plus 34 tiles including stars, jellyfish and charms
-- Treat a fan of underwater sea creatures with this LEGO DOTS bracelet making kit and give them some creative, fun moments
 
 [🛒 Buy it!!]({{< param buyurl >}})

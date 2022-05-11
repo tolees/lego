@@ -30,8 +30,8 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 - Kinder können die Rückziehfunktion des Spielzeugautos nutzen, um ihren Monster Truck nach vorne rasen zu lassen und coole Sprünge und Tricks mit dem LEGO Technic Auto nachzustellen
 - Genau wie der echte Truck von Monster Jam verfügt auch dieses Spielzeugauto über Hörner, einen Nasenring, Zähne und Feuermotive, durch die der reale Monster Truck berühmt wurde
-- Dieses 2-in-1-Auto Set von LEGO Technic enthält den Monster Truck El Toro Loco von Monster Jam mit Rückziehmotor, der sich in den Offroader „Rock Racer“ umbauen lässt
-- Der rasende Stier El Toro Loco riecht die Angst seiner Konkurrenten! Mit diesem LEGO Technic Auto mit Rückziehmotor können Kinder ab 7 Jahren den legendären Monster Truck nachbauen
 - Baue dein Monster-Truck-Spielzeug in den geländegängigen LEGO Offroader „Rock Racer“ mit Rückziehmotor um, der über einen Schutzkäfig in der Fahrerkabine verfügt
+- Der rasende Stier El Toro Loco riecht die Angst seiner Konkurrenten! Mit diesem LEGO Technic Auto mit Rückziehmotor können Kinder ab 7 Jahren den legendären Monster Truck nachbauen
+- Dieses 2-in-1-Auto Set von LEGO Technic enthält den Monster Truck El Toro Loco von Monster Jam mit Rückziehmotor, der sich in den Offroader „Rock Racer“ umbauen lässt
 
 [🛒 Buy it!!]({{< param buyurl >}})

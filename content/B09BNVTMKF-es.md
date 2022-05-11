@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Clear, illustrated instructions are included so even LEGO beginners can build this Star Wars: The Mandalorian gunship with confidence
-- Features The Razor Crest Microfighter gunship with 2 new-for-January-2022 stud shooters and The Mandalorian LEGO minifigure
 - This buildable toy playset combines with other LEGO Star Wars Microfighters to open up even more action play options
-- Kids can explore other planets with The Mandalorian’s jetpack and battle enemies with his blaster pistol
 - The included Mandalorian LEGO minifigure has a Star Wars: The Mandalorian Season 2 outfit decoration, a blaster pistol and jetpack
+- Features The Razor Crest Microfighter gunship with 2 new-for-January-2022 stud shooters and The Mandalorian LEGO minifigure
+- Kids can explore other planets with The Mandalorian’s jetpack and battle enemies with his blaster pistol
+- Clear, illustrated instructions are included so even LEGO beginners can build this Star Wars: The Mandalorian gunship with confidence
 
 [🛒 Check the deal!!]({{< param buyurl >}})
