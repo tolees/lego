@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO F1 style car toy for kids 4 + years old includes a LEGO Starter Brick element to get kids started and pictorial building guide
 - Includes 2 LEGO minifigures: a racing driver minifigure with a racing helmet, and a mechanic with a safety helmet and tools
+- This preschool toy comes with a toy LEGO hammer, wrench, crash helmet and winner’s trophy for race action and minifigure pit-stop repairs
 - Kids can head for the race circuit for turbo-speed action, then power away from the starting line, and help the mechanic at the pit stop
 - This toy race car building set features a LEGO F1-style racing car, plus mechanics tools to make a quick repair, and a winner’s trophy
-- This preschool toy comes with a toy LEGO hammer, wrench, crash helmet and winner’s trophy for race action and minifigure pit-stop repairs
+- This LEGO F1 style car toy for kids 4 + years old includes a LEGO Starter Brick element to get kids started and pictorial building guide
 
 [🛒 Check the deal!!]({{< param buyurl >}})

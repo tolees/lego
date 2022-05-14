@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Accessories include ketchup and mustard bottles, a hotdog, camera, kayak, life vest and paddle elements plus a sofa and barbecue
-- The LEGO Friends forest house adventure set features 2 separate scenes: a 2-floors summer treehouse and a separate kayaking scene
-- A great LEGO gift for kids aged 6+ who love dollhouse toys or forest treehouse adventures making it the perfect birthdays or Christmas present
-- This miniature forest toy house includes 2 LEGO mini dolls: Mia and her Mum Ann, plus a LEGO Friends Ava micro doll, and a raccoon toy figure
 - The forest dollhouse has an opening roof for easy access, a sleeping area, a patio with dolls house furniture, even a toilet for mini dolls!
+- The LEGO Friends forest house adventure set features 2 separate scenes: a 2-floors summer treehouse and a separate kayaking scene
+- This miniature forest toy house includes 2 LEGO mini dolls: Mia and her Mum Ann, plus a LEGO Friends Ava micro doll, and a raccoon toy figure
+- Accessories include ketchup and mustard bottles, a hotdog, camera, kayak, life vest and paddle elements plus a sofa and barbecue
+- A great LEGO gift for kids aged 6+ who love dollhouse toys or forest treehouse adventures making it the perfect birthdays or Christmas present
 
 [🛒 Buy it!!]({{< param buyurl >}})
