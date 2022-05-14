@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Makes a terrific treat for yourself and an ideal gift for any Star Wars fan, experienced - or not - LEGO builder or a hobbyist
 - Measuring over 27cm/10.5in high, this construction set is a part of a series of collectible LEGO Star Wars build-to-display models
+- Makes a terrific treat for yourself and an ideal gift for any Star Wars fan, experienced - or not - LEGO builder or a hobbyist
 - Top Star Wars gift idea, this buildable model does not need much space for display, but it is sure to grab attention in a home or office
 - Relive Star Wars: The Empire Strikes Back scenes on the ice planet Hoth with this premium-quality, 683-piece building set for adults
 - The droid model has posable legs and comes with a transparent, brick-built pole to ‘suspend’ it above a buildable snowy scene
