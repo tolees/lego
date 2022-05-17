@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42139 Technic All-Terrain Vehicle  6-Wheeled Off Roader Model Truck Toy  ATV Construction Set  Birthday Gift Idea'
-date: 2022-05-14 19:33:15
+date: 2022-05-17 15:59:46
 image: 'https://m.media-amazon.com/images/I/51QegDr2ZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNW34YN/?tag=tolees0a-21'
 descuento: '42.86'
-average: '42.745'
+average: '42.3514285714286'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The set includes sticker graphics for kids to add to their ATV model for a realistic and finished, sleek look
-- Features the first 6-wheeled LEGO Technic all-terrain vehicle - off roader truck toy for kids 10+ years old with lots of authentic features
-- The truck toy has an engine with moving pistons, 2-shift (+ neutral) gearbox, a winch & tipping cargo bed, just like the ones on a real ATV
-- This model truck comes with a toy chainsaw and 20 small log pieces that connect to make larger logs, ready for the ATV to transport
 - The LEGO Technic universe offers advanced buildable models for LEGO fans who are ready for their next building challenge
+- Features the first 6-wheeled LEGO Technic all-terrain vehicle - off roader truck toy for kids 10+ years old with lots of authentic features
+- This model truck comes with a toy chainsaw and 20 small log pieces that connect to make larger logs, ready for the ATV to transport
+- The set includes sticker graphics for kids to add to their ATV model for a realistic and finished, sleek look
+- The truck toy has an engine with moving pistons, 2-shift (+ neutral) gearbox, a winch & tipping cargo bed, just like the ones on a real ATV
 - This ATV construction toy offers a fun building challenge and makes a fantastic gift for kids 10+ years old that looks great on display
 
 [🛒 Buy it!!]({{< param buyurl >}})
