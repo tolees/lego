@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The set includes a classic cast of Minecraft figures: a ninja, rogue, skeleton and a bat to recreate the best-selling games atmosphere
-- The LEGO Minecraft houses 2 levels separate and reconfigure easily to create a new play experience
 - Kids press the block beneath the tree and – whoosh! – the trapdoor opens, and whoever is standing on it crashes down into the cave below
 - Features a 2 level modular build with a dojo upstairs and a blacksmith’s cave downstairs, connected by a trapdoor operated by a pushing block
-- The blacksmith’s cave has an anvil, oven, armour stand and more for kids to craft and repair Minecraft warriors weapons
 - LEGO Minecraft sets make great birthday presents or any occasion gifts for kids aged 8+ and all the the game fans!
+- The blacksmith’s cave has an anvil, oven, armour stand and more for kids to craft and repair Minecraft warriors weapons
+- The LEGO Minecraft houses 2 levels separate and reconfigure easily to create a new play experience
+- The set includes a classic cast of Minecraft figures: a ninja, rogue, skeleton and a bat to recreate the best-selling games atmosphere
 - Create your own warrior hideaway with this LEGO Minecraft building toy for girls and boys 8+ years old packed with authentic details
 
 [🛒 Check the deal!!]({{< param buyurl >}})
