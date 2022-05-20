@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Für noch mehr kreative Schmuckdesigns können die Kinder ihr Set außerdem mit dem LEGO DOTS Ergänzungsset Emojis (separat erhältlich) ergänzen
-- Die Freundschaftsbänder sind sofort dekorierbar und lassen Kinder ihre Fantasie und ihr Selbstbewusstsein auf spielerische Weise entfalten
-- Inklusive 2 Anhänger-Basissteine, 2 einzigartige, ansteckbare Anhängern sowie hellvioletten, schillernden, transparenten und im Dunkeln leuchtenden Steinen
-- Mach einem kleinen Unterwasser-Fan mit dem Armband-Bastelset von LEGO DOTS eine Freude und verschenke kreative, spaßige Momente
 - Dieses Bastelset für Kinder ab 6 Jahren enthält 2 verstellbare Armbänder in Dunkelblau und Azurblau sowie 34 Steine mit Sternen, Quallen und Anhängern
+- Mach einem kleinen Unterwasser-Fan mit dem Armband-Bastelset von LEGO DOTS eine Freude und verschenke kreative, spaßige Momente
+- Inklusive 2 Anhänger-Basissteine, 2 einzigartige, ansteckbare Anhängern sowie hellvioletten, schillernden, transparenten und im Dunkeln leuchtenden Steinen
+- Die Freundschaftsbänder sind sofort dekorierbar und lassen Kinder ihre Fantasie und ihr Selbstbewusstsein auf spielerische Weise entfalten
+- Für noch mehr kreative Schmuckdesigns können die Kinder ihr Set außerdem mit dem LEGO DOTS Ergänzungsset Emojis (separat erhältlich) ergänzen
 
 [🛒 Buy it!!]({{< param buyurl >}})
