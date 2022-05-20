@@ -30,10 +30,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 - The 2-level lifeguard station comes with lots of toy play starters, including a control room with a workstation, telescope and loudspeakers
 - Also, it includes 4 LEGO minifigures with a lifeguard and beachgoers characters, a nesting turtle with eggs and crab figures
-- This LEGO Lifeguard set features a 2-level lifeguard station, a toy ATV, ice-cream cart and beach setting with a palm tree & sand bricks
-- Includes fun accessories for imaginative play, such as a trash grabber, bottle, lifebuoy, cell phone, binoculars, and paddleboards
-- Feature-rich LEGO City sets bring hours of imaginative play and make great birthday or Christmas gifts for girls and boys 5 + years old
-- Connect the set to other LEGO playsets with LEGO Road Plate to expand your City the way you like!
 - Kids can buy a cold treat from the ice-cream vendor in his fun outfit or grab a life jacket and try a spot of paddleboarding
+- Includes fun accessories for imaginative play, such as a trash grabber, bottle, lifebuoy, cell phone, binoculars, and paddleboards
+- This LEGO Lifeguard set features a 2-level lifeguard station, a toy ATV, ice-cream cart and beach setting with a palm tree & sand bricks
+- Connect the set to other LEGO playsets with LEGO Road Plate to expand your City the way you like!
+- Feature-rich LEGO City sets bring hours of imaginative play and make great birthday or Christmas gifts for girls and boys 5 + years old
 
 [🛒 Buy it!!]({{< param buyurl >}})

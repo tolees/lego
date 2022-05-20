@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Die schwimmende Insel lässt sich in 2 Einheiten teilen, wobei die Kinder mit der unteren Hälfte auch außerhalb der Badewanne spielen können
 - Dieses leicht zu reinigende, schwimmende Badespielzeug für Babys und Kleinkinder ab 1,5 Jahren enthält eine Insel, die gleichzeitig als Aufbewahrungsbehälter dient
 - Dieses Lernspielzeug enthält 4 LEGO DUPLO Tiere: einen Fisch, einen Tintenfisch, einen Löwen und einen Flamingo
-- Die schwimmende Insel lässt sich in 2 Einheiten teilen, wobei die Kinder mit der unteren Hälfte auch außerhalb der Badewanne spielen können
 - Mit dem runden Haken am Schwimmring können die Ringe mit anderen Badespielzeugen aus der LEGO DUPLO Badespaß-Serie verbunden werden
 - Die Kinder können die Tiere ganz leicht zusammenbauen und dann mit ihnen auf dem schwimmenden Inselparadies spielen und ihre Fähigkeiten entfalten
 

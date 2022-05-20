@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can shoot egg-splat elements from the tractors trailer, activate the jailbreak function and tilt the ATV to steer it in all directions
-- This LEGO truck toy prompts funny stories when an egg covers the windshield as the wall gets ripped right out of the mobile jail
-- Features a toy police pickup with office and jail cell in the trailer, drone, ATV, and a tractor with a trailer containing an egg launcher!
-- This LEGO police set includes 3 LEGO City TV characters: Duke DeTain, Gracie Goodhart and Snake Rattler, plus a crook minifigure
 - Comes with lots of fun accessories for imaginative play, including a toy drone remote control, handcuffs and egg elements
+- This LEGO police set includes 3 LEGO City TV characters: Duke DeTain, Gracie Goodhart and Snake Rattler, plus a crook minifigure
+- Features a toy police pickup with office and jail cell in the trailer, drone, ATV, and a tractor with a trailer containing an egg launcher!
+- Kids can shoot egg-splat elements from the tractors trailer, activate the jailbreak function and tilt the ATV to steer it in all directions
 - LEGO City Adventures police sets can be given as a birthday or any-other-day gift for boys and girls 6 + years old
+- This LEGO truck toy prompts funny stories when an egg covers the windshield as the wall gets ripped right out of the mobile jail
 
 [🛒 Check the deal!!]({{< param buyurl >}})

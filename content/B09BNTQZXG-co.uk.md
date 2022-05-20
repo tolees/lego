@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A button-operated Light Brick adds extra realism as it illuminates the arc reactor in Iron Man’s chest
-- Features a 9 in. / 24 cm tall Iron Man figure - a realistic recreation of the metal-clad star of the Marvel Studios’ Avengers movies
 - The LEGO Iron Man building toy lets kids can be like Tony Stark and build their own armoured action figure to build and display
-- The LEGO Marvel Iron Man model looks great on display and includes a removable information plate with details about the iconic armoured Avenger
+- A button-operated Light Brick adds extra realism as it illuminates the arc reactor in Iron Man’s chest
 - All parts of the buildable Iron Man are articulated, so kids can move, position and pose the armour just like the real thing
+- The LEGO Marvel Iron Man model looks great on display and includes a removable information plate with details about the iconic armoured Avenger
+- Features a 9 in. / 24 cm tall Iron Man figure - a realistic recreation of the metal-clad star of the Marvel Studios’ Avengers movies
 
 [🛒 Check the deal!!]({{< param buyurl >}})
