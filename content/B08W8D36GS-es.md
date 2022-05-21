@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- El todoterreno, muy sencillo de construir, tiene un chasis con base para principiantes y una jaula desmontable para el dinosaurio Stygimoloch de juguete
-- Está repleto de accesorios, como un arma de dardos tranquilizantes, una zanahoria, una pala y caquitas de dinosaurio para mayor diversión
-- Incluye 3 minifiguras: Ben, Brooklynn y Claire Dearing, además de figuras de juguete de un Stygimoloch y de Bumpy, la cría de dinosaurio Ankylosaurus
 - Este juguete de dinosaurios de LEGO Jurassic World para niños y niñas a partir de 4 años tiene 2 figuras de dinosaurios, un vehículo todoterreno y una cabaña en un árbol
 - La cabaña del árbol/puesto de observación de juguete construible está equipada con cama, lavabo, inodoro, escalera y tobogán para Bumpy, la cría de dinosaurio
+- Incluye 3 minifiguras: Ben, Brooklynn y Claire Dearing, además de figuras de juguete de un Stygimoloch y de Bumpy, la cría de dinosaurio Ankylosaurus
+- El todoterreno, muy sencillo de construir, tiene un chasis con base para principiantes y una jaula desmontable para el dinosaurio Stygimoloch de juguete
+- Está repleto de accesorios, como un arma de dardos tranquilizantes, una zanahoria, una pala y caquitas de dinosaurio para mayor diversión
 - Es un set de iniciación LEGO ideal para niños a partir de 4 años que aún estén aprendiendo a leer y podrán construirlo ellos mismos con las sencillas instrucciones ilustradas
 
 [🛒 Buy it!!]({{< param buyurl >}})

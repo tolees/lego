@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Echa un vistazo a otros lanzamientos LEGO Creator 3en1 este 2021, como el Space Shuttle Adventure (31117) y el Castillo Medieval (31120)
 - Este set LEGO de 1.002 piezas ofrece una increíble experiencia cuando el juguete es construido por un niño de 9 o más años junto a un pariente o un tutor, siendo un original regalo de Navidad
 - Este set LEGO incluye 5 mini figuras: mamá, papá, hijo y 2 feriantes para animar a los más jóvenes en este recinto ferial de juguete
-- La atracción de barco-columpio cuenta con una máquina de juegos y una máquina de chicles para disfrutar del mejor día en este espectacular set LEGO 3en1
-- La Noria cuenta con 8 góndolas para las mini figuras, una taquilla, un carro de globos de animales y un perro de ladrillos
 - La atracción de coches de choque cuenta con 3 coches y una taquilla con un micrófono para pasarlo bien conduciendo en este juguete LEGO de feria
+- La Noria cuenta con 8 góndolas para las mini figuras, una taquilla, un carro de globos de animales y un perro de ladrillos
+- Echa un vistazo a otros lanzamientos LEGO Creator 3en1 este 2021, como el Space Shuttle Adventure (31117) y el Castillo Medieval (31120)
+- La atracción de barco-columpio cuenta con una máquina de juegos y una máquina de chicles para disfrutar del mejor día en este espectacular set LEGO 3en1
 
 [🛒 Buy it!!]({{< param buyurl >}})
