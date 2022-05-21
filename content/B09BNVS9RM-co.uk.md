@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42138 Technic Ford Mustang Shelby GT500 Set  Pull Back Drag Racing Model Car Toy for Kids and Teens with AR App Play Feature'
-date: 2022-05-19 23:01:45
+date: 2022-05-21 07:25:33
 image: 'https://m.media-amazon.com/images/I/51rmfVl1gTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNVS9RM/?tag=tolees0a-21'
 descuento: '34.43'
-average: '29.8266666666666'
+average: '29.8062499999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
