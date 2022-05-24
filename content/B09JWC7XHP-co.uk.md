@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71401 Super Mario Luigi’s Mansion Haunt-and-Seek Expansion Set with Toad and King Boo Figure  Buildable Game Toy'
-date: 2022-05-22 07:58:53
+date: 2022-05-24 22:45:33
 image: 'https://m.media-amazon.com/images/I/518In5QkWFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09JWC7XHP/?tag=tolees0a-21'
 descuento: '33.13'
-average: '48.5'
+average: '48.16'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,9 +28,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Then players will battle a haunted pool table, defeat the Garbage Can Ghost and Grabbing Ghost, and topple King Boo from his tower forever!
-- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 71360/71387, which is required for play
 - Kids can add ghost battles and gem-hunting with this Super Mario Luigi’s Mansion expansion set packed with fun challenges and 4 figures
+- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 71360/71387, which is required for play
+- Then players will battle a haunted pool table, defeat the Garbage Can Ghost and Grabbing Ghost, and topple King Boo from his tower forever!
 - Kids can turn the hallway to access each room and uncover hidden gems in the bedroom, dining room and bathroom to gain digital coins
 - This LEGO Super Mario toy comes with 4 figures: a Toad (with a scared face), and enemies Garbage Can Ghost, a Grabbing Ghost and King Boo
 - Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
