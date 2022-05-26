@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Number of pieces: 404
+- Fans can angle the sails for a racing position, raise and lower the 2 daggerboards to maximise stability, then use the rudder to steer.
 - Catamaran
+- Number of pieces: 404
 - For the first time ever both models float on water - check this classic 2-hull catamaran design, working sails, daggerboards and rudder!
 - Manufacturer recommended age: 8+
-- Fans can angle the sails for a racing position, raise and lower the 2 daggerboards to maximise stability, then use the rudder to steer.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
