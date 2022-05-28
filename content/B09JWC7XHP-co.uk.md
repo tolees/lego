@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71401 Super Mario Luigi’s Mansion Haunt-and-Seek Expansion Set with Toad and King Boo Figure  Buildable Game Toy'
-date: 2022-05-27 09:45:18
+date: 2022-05-28 15:09:12
 image: 'https://m.media-amazon.com/images/I/518In5QkWFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09JWC7XHP/?tag=tolees0a-21'
 descuento: '33.13'
-average: '47.9333333333333'
+average: '47.8461538461538'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
-- Then players will battle a haunted pool table, defeat the Garbage Can Ghost and Grabbing Ghost, and topple King Boo from his tower forever!
-- This LEGO Super Mario toy comes with 4 figures: a Toad (with a scared face), and enemies Garbage Can Ghost, a Grabbing Ghost and King Boo
-- Kids can turn the hallway to access each room and uncover hidden gems in the bedroom, dining room and bathroom to gain digital coins
 - LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 71360/71387, which is required for play
 - Kids can add ghost battles and gem-hunting with this Super Mario Luigi’s Mansion expansion set packed with fun challenges and 4 figures
+- Then players will battle a haunted pool table, defeat the Garbage Can Ghost and Grabbing Ghost, and topple King Boo from his tower forever!
+- Kids can turn the hallway to access each room and uncover hidden gems in the bedroom, dining room and bathroom to gain digital coins
+- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
+- This LEGO Super Mario toy comes with 4 figures: a Toad (with a scared face), and enemies Garbage Can Ghost, a Grabbing Ghost and King Boo
 
 [🛒 Buy it!!]({{< param buyurl >}})
