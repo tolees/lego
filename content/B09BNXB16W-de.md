@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Die Spider-Man Action-Figur hat extra lange, flexible Arme und eingebaute Waffen: mehr Größe bedeutet mehr Spidey-Power!
+- Die Green Goblins Action-Figur verfügt über überdimensionale Greifklauen und Shooter, bereit für das große Duell
+- Enthält 2 LEGO Minifiguren: Spider-Man und Green Goblin, die sich in das Cockpit setzen, um Superhelden-Kämpfe auszutragen
+- Die Sets eignen sich perfekt zum Spielen in der Gruppe oder alleine und lassen sich super als Dekoobjekt im Kinderzimmer aufstellen
 - Ein spannendes Spider-Man Spielzeug zum Bauen für Kinder ab 7 Jahren und ein tolles Geschenk für jeden Anlass
 - Dieses LEGO Marvel Superheroes Set enthält Spider-Man und Green Goblin Battle Mech Action-Figuren mit den entsprechenden LEGO Minifiguren
-- Enthält 2 LEGO Minifiguren: Spider-Man und Green Goblin, die sich in das Cockpit setzen, um Superhelden-Kämpfe auszutragen
-- Die Green Goblins Action-Figur verfügt über überdimensionale Greifklauen und Shooter, bereit für das große Duell
-- Die Sets eignen sich perfekt zum Spielen in der Gruppe oder alleine und lassen sich super als Dekoobjekt im Kinderzimmer aufstellen
-- Die Spider-Man Action-Figur hat extra lange, flexible Arme und eingebaute Waffen: mehr Größe bedeutet mehr Spidey-Power!
 
 [🛒 Buy it!!]({{< param buyurl >}})
