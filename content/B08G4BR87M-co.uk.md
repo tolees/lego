@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This ninja playset provides a simple and fun build for kids 4+ years old and makes the perfect gift for a child who deserves a special treat
-- The action-packed battle set features a NINJAGO mech toy and a ninja car, plus a Starter Brick to get the building and playing begun quickly
 - Includes 2 minifigures from Season 4 of the NINJAGO TV series: ninja Jay, the villain Eyezor, a spider and scorpion figures, and a fire altar
 - This awesome mech toy action figure has posable arms and legs, a spinning blade, with a large sword in its hands, and a cockpit to carry Jay
 - Eyezor’s car toy has a cool spinning platform mounted on it with a shooter that can fire studs for kids to play out fun battle scenes
+- This ninja playset provides a simple and fun build for kids 4+ years old and makes the perfect gift for a child who deserves a special treat
+- The action-packed battle set features a NINJAGO mech toy and a ninja car, plus a Starter Brick to get the building and playing begun quickly
 
 [🛒 Check the deal!!]({{< param buyurl >}})
