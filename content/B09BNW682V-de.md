@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Enthält 2 LEGO Rennfahrer-Minifiguren, jede mit Rennanzug, Helm, Perücke und Schraubenschlüssel, um gegeneinander anzutreten
-- Ein Modellauto Bausatz für Kinder und Autoliebhaber mit einer Leidenschaft für Rennwagen und Innovationen zum Spielen und Ausstellen
 - Mit 2 nachgebauten Autos für Kinder und Modellbau-Fans - dem Aston Martin Valkyrie AMR Pro und dem Aston Martin Vantage GT3
 - Die Phantasie der Kinder treibt die Rennwagen mit original LEGO Rädern in diesem Spielset an, so dass die Rennaction nie aufhört
+- Ein Modellauto Bausatz für Kinder und Autoliebhaber mit einer Leidenschaft für Rennwagen und Innovationen zum Spielen und Ausstellen
+- Enthält 2 LEGO Rennfahrer-Minifiguren, jede mit Rennanzug, Helm, Perücke und Schraubenschlüssel, um gegeneinander anzutreten
 - Die LEGO Bauanleitungs-App für Smartphones und Tablets ermöglicht das Zoomen, Drehen und Betrachten von Modellen von allen Seiten
 
 [🛒 Buy it!!]({{< param buyurl >}})
