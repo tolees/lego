@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes 4 minifigures: Darius, Yaz, Owen Grady and a guard, plus a posable Baryonyx, baby dinosaur and 2 fish toy figures
-- Accessory elements include a tranquillizer, Taser and 2 dinosaur eggs, and it comes with illustrated, step-by-step instructions
-- This awesome LEGO Jurassic World toy features a cool, buildable toy boat that floats – even with a dinosaur figure on board!
 - The set also includes a small toy speedboat that floats. It’s the first LEGO Jurassic World set to include floating toy boats!
+- This awesome LEGO Jurassic World toy features a cool, buildable toy boat that floats – even with a dinosaur figure on board!
+- Accessory elements include a tranquillizer, Taser and 2 dinosaur eggs, and it comes with illustrated, step-by-step instructions
 - The floating boat features a control room that can be lifted off for easy access to the cargo hold, a dinosaur cage & a rotating ‘searchlight’
+- Includes 4 minifigures: Darius, Yaz, Owen Grady and a guard, plus a posable Baryonyx, baby dinosaur and 2 fish toy figures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
