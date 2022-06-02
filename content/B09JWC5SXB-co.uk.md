@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41709 Friends Holiday Beach Dolls House Set  Summer 2022 Series  with Swimming Pool  Mia Mini Doll & Accessories  Toy for Kids 7 Plus Years Old'
-date: 2022-06-01 11:47:55
+date: 2022-06-02 13:07:07
 image: 'https://m.media-amazon.com/images/I/51PMB37IvUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09JWC5SXB/?tag=tolees0a-21'
 descuento: '41.67'
-average: '36.516956521739'
+average: '36.4533333333332'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- It has 2 bedrooms, 1 with a bathroom and toilet, 2nd with with bunk beds, plus a balcony and rooftop pool, a kitchen and a living room
-- This colourful summer toy is a fun birthday toy gift idea for kids aged 7+ sure to delight boys and girls who love vacation play
-- Outside, there’s a table-tennis table, 2 electric scooters, a jetty and an inflatable banana boat for thrilling action on the waves
+- From the games controllers to the air pump used to inflate the banana boat, there are lots of elements included to fire imaginative play
 - Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
-- Features LEGO Friends beach holiday modular dolls house with a swimming pool that can be reconfigured into 2 or 3 separate buildings
 - Show kids around the fun world of Heartlake City where they’ll learn that the best times are spent with friends
 - Includes 4 LEGO Friends characters, with LEGO Friends Mia mini doll, dolphin and cat figures and lots of dolls house accessories
-- From the games controllers to the air pump used to inflate the banana boat, there are lots of elements included to fire imaginative play
+- Outside, there’s a table-tennis table, 2 electric scooters, a jetty and an inflatable banana boat for thrilling action on the waves
+- Features LEGO Friends beach holiday modular dolls house with a swimming pool that can be reconfigured into 2 or 3 separate buildings
+- It has 2 bedrooms, 1 with a bathroom and toilet, 2nd with with bunk beds, plus a balcony and rooftop pool, a kitchen and a living room
+- This colourful summer toy is a fun birthday toy gift idea for kids aged 7+ sure to delight boys and girls who love vacation play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
