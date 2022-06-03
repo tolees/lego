@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11019 Classic Bausteine und Funktionen  Box mit LEGO Steinen für Hubschrauber und andere Konstruktionsspielzeuge'
-date: 2022-06-02 13:08:43
+date: 2022-06-03 16:53:52
 image: 'https://m.media-amazon.com/images/I/51hIIL4KJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVKVSL/?tag=tolees0ca-21'
 descuento: '35.08'
-average: '19.7891666666666'
+average: '19.7763999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
