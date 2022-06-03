@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60320 City Fire Station Set with Garage  Fire Engine and Helicopter Toys  Emergency Vehicles Playset with Firefighter Minifigures'
-date: 2022-06-02 07:51:45
+date: 2022-06-03 08:32:14
 image: 'https://m.media-amazon.com/images/I/51z85YST37L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09JWBYG4D/?tag=tolees0a-21'
 descuento: '39.99'
-average: '37.12'
+average: '35.7466666666667'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -30,9 +30,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 - Accessories include 4 helmets and walkie-talkie, fire axe, drinks mug, pizza box, and fire extinguisher elements
 - Includes 5 LEGO minifigures with 2 LEGO City Adventures TV series characters Freya McCloud and Finn McCormack, plus a dog and cat figures
+- This LEGO City fire station playset features a 3-level building with a toy garage, reception, firefighter quarters and control room
+- Kids can zoom, rotate and visualise the finished models as they build with the free LEGO Building Instructions app
 - Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
 - It includes a range of toy emergency vehicles: a helicopter that shoots LEGO water splats and fire engine toy truck that shoots water darts
-- Kids can zoom, rotate and visualise the finished models as they build with the free LEGO Building Instructions app
-- This LEGO City fire station playset features a 3-level building with a toy garage, reception, firefighter quarters and control room
 
 [🛒 Buy it!!]({{< param buyurl >}})
