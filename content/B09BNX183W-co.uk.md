@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- When kids defeat the ninja enemies and complete their mission, they are rewarded with a collectible Stealth banner
-- LEGO NINJAGO EVO sets let kids step away from their screens and escape into a mystical world where they can take on the forces of evil
-- This NINJAGO toy includes Zane minifigure with a sword & armour, and the Cobra Mechanic snake warrior armed with a blaster gun
-- After upgrading mech’s and his own armour, NINJAGO Zane jumps into the cockpit and fights back with a sword and a cool spinning star weapon
 - Features a mech action figure toy with posable limbs, a large spinning star weapon and a cockpit for kids to place NINJAGO Zane minigifure
+- This NINJAGO toy includes Zane minifigure with a sword & armour, and the Cobra Mechanic snake warrior armed with a blaster gun
+- When kids defeat the ninja enemies and complete their mission, they are rewarded with a collectible Stealth banner
+- After upgrading mech’s and his own armour, NINJAGO Zane jumps into the cockpit and fights back with a sword and a cool spinning star weapon
+- LEGO NINJAGO EVO sets let kids step away from their screens and escape into a mystical world where they can take on the forces of evil
 
 [🛒 Check the deal!!]({{< param buyurl >}})

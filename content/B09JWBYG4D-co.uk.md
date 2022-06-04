@@ -29,10 +29,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Accessories include 4 helmets and walkie-talkie, fire axe, drinks mug, pizza box, and fire extinguisher elements
-- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
 - Includes 5 LEGO minifigures with 2 LEGO City Adventures TV series characters Freya McCloud and Finn McCormack, plus a dog and cat figures
-- It includes a range of toy emergency vehicles: a helicopter that shoots LEGO water splats and fire engine toy truck that shoots water darts
-- Kids can zoom, rotate and visualise the finished models as they build with the free LEGO Building Instructions app
+- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
 - This LEGO City fire station playset features a 3-level building with a toy garage, reception, firefighter quarters and control room
+- Kids can zoom, rotate and visualise the finished models as they build with the free LEGO Building Instructions app
+- It includes a range of toy emergency vehicles: a helicopter that shoots LEGO water splats and fire engine toy truck that shoots water darts
 
 [🛒 Buy it!!]({{< param buyurl >}})
