@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Inklusive Feuerwehrchefin Freya McCloud und Feuerwehrmann aus der TV-Serie „LEGO City Adventures“ als Minifiguren, plus Startbaustein-Element.
-- Kinder können die Löschleiter ausfahren, die Feuerwehrausrüstung ins Staufach des Autos räumen und sich spannende Geschichten über Rettungsmissionen ausdenken
-- Inklusive einfacher Bauanleitung und Instructions PLUS – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte
-- Enthält ein Feuerwehrauto mit Leiter und Löschschlauch, Flammen für ein großes Feuer und einen Hydranten. Zum Zubehör gehören eine Feuerwehr-Axt und ein Feuerwehr-Helm
 - Dieses Feuerwehr Spielzeug für Jungen und Mädchen ab 4 Jahre ist das perfekte Geschenk zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass für Fans von LEGO City
+- Enthält ein Feuerwehrauto mit Leiter und Löschschlauch, Flammen für ein großes Feuer und einen Hydranten. Zum Zubehör gehören eine Feuerwehr-Axt und ein Feuerwehr-Helm
+- Inklusive einfacher Bauanleitung und Instructions PLUS – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte
+- Kinder können die Löschleiter ausfahren, die Feuerwehrausrüstung ins Staufach des Autos räumen und sich spannende Geschichten über Rettungsmissionen ausdenken
 
 [🛒 Buy it!!]({{< param buyurl >}})
