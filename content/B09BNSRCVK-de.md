@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10965 DUPLO Badewannenspaß: Schwimmender Tierzug  Badewannenspielzeug für Babys und Kleinkinder ab 1 5 Jahren mit Badeente  Nilpferd und Eisbären'
-date: 2022-06-04 08:43:07
+date: 2022-06-05 16:10:34
 image: 'https://m.media-amazon.com/images/I/51xp+cqGXtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSRCVK/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '12.4179545454544'
+average: '12.4306666666665'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

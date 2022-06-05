@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71760 NINJAGO Jays Donnerdrache EVO  Drachen Spielzeug für Kinder ab 6 Jahren mit Drachenfigur und Schlangen  Blitzdrache'
-date: 2022-06-04 08:43:34
+date: 2022-06-05 16:13:39
 image: 'https://m.media-amazon.com/images/I/51hgslCJcQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Der Donnerdrache verfügt über einen Sattel, auf den die Kinder Jay setzen können, um ihn in den epischen Kampf gegen die NINJAGO Schlange mit Jetpack zu schicken
-- Inklusive NINJAGO Jay mit Nunchakus, der mit einer Kapuze und einem Schwert aufgerüstet werden kann, sowie einem Schlangenflieger, der mit Schwert und Jetpack bewaffnet ist
-- Rüste Jay mit einer Kapuze und einem Schwert aus und gib seinem furchteinflößenden Drachen größere Flügel, damit die Beiden sich in den Himmel erheben und todesmutig kämpfen können
-- Dieses LEGO NINJAGO Drachen Spielzeug enthält eine bewegliche Drachenfigur, deren Beine, Kopf, Kiefer und Flügel verstellbar sind und deren Schwanz als Waffe eingesetzt werden kann
-- Wenn die Kinder ihre Missionen erfüllen und den Schlangenkrieger besiegen, werden sie mit einem Schnelligkeitsbanner belohnt, mit dem sie den Drachen schmücken können
+- The Thunder Dragon toy has a saddle for kids to place Jay when he fights the jetpack-equipped NINJAGO snake during their epic battles
+- When kids complete their missions and defeat the snake warrior, they are rewarded with a Speed banner to display on the dragon
+- Includes NINJAGO Jay with nunchucks, who can be upgraded with a hood and a sword, plus Viper Flyer, the snake armed with a sword and jetpack
+- Upgrade Jay with a hood and sword and his fearsome Dragon with bigger wings so they can soar into the sky for a death-defying battle!
+- This LEGO NINJAGO dragon set features a highly posable dragon figure with movable legs, head, jaw, wings, and a tail to use as a weapon
 
 [🛒 Check the deal!!]({{< param buyurl >}})
