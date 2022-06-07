@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Numero di pezzi: 99
-- Età consigliata dal produttore: 4+
 - Gli Starter Brick semplificano la costruzione lasciando più tempo al divertimento.
-- Il forno di Heartlake City
 - Il compatto set del forno include 3 personaggi, tra cui un delizioso cagnolino, per infinite ore di giochi di ruolo.
+- Il forno di Heartlake City
+- Età consigliata dal produttore: 4+
 
 [🛒 Check the deal!!]({{< param buyurl >}})
