@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Les enfants peuvent articuler la figurine Déviant à souhait, et la bouche qui est capable de mordre rend l’action encore plus captivante
 - Ce set en briques LEGO constituera un cadeau de Noël ou d’anniversaire idéal pour les enfants dès 6 ans et une superbe pièce d’exposition pour leur chambre
-- Le kit de construction LEGO Marvel pour jouer et à exposer, à utiliser en solo ou en groupe plonge les enfants dans le monde d’action des super-héros
-- Il comprend 3 figurines de super-héros LEGO Marvel Les Éternels, Thena, Makkari et Gilgamesh, et c’est le seul set LEGO qui contient la minifigurine Gilgamesh !
 - Le jouet de construction LEGO Marvel L’embuscade du Déviant ! comprend des figurines du film Les Éternels de Marvel Studios, avec leurs armes incroyables
 - Découvrez les autres jeux de construction de la gamme LEGO Marvel Les Éternels pour encore plus d’aventures captivantes avec les authentiques personnages du film
+- Il comprend 3 figurines de super-héros LEGO Marvel Les Éternels, Thena, Makkari et Gilgamesh, et c’est le seul set LEGO qui contient la minifigurine Gilgamesh !
+- Les enfants peuvent articuler la figurine Déviant à souhait, et la bouche qui est capable de mordre rend l’action encore plus captivante
+- Le kit de construction LEGO Marvel pour jouer et à exposer, à utiliser en solo ou en groupe plonge les enfants dans le monde d’action des super-héros
 - Il comprend aussi une figurine Déviant articulée à 6 pattes avec une bouche qui s’ouvre et se ferme, une dague, un point américain et une arme pour rejouer les scènes du film !
 
 [🛒 Check the deal!!]({{< param buyurl >}})
