@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76900 Speed Champions Koenigsegg Jesko Racing Sports Car Toy with Driver Minifigure  Racer Model Set for Kids'
-date: 2022-06-09 05:53:58
+date: 2022-06-11 00:58:41
 image: 'https://m.media-amazon.com/images/I/51ZyEtwvlSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08W8W71HC/?tag=tolees0a-21'
 descuento: '22.23'
-average: '14.596'
+average: '14.495'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can explore one of the world’s first 300 mph supercars with their very own LEGO Speed Champions Koenigsegg Jesko racing car toy model
-- This LEGO sports car collectible model comes with a wider 8-stud chassis which allows room for a 2-seat cockpit with space for 2 minifigures
-- The Koenigsegg LEGO race car driver minifigure included in the set is completed with a racing suit, safety helmet and wrench
 - Kids get to explore the makeup as they build before putting it on display, its a perfect any occasion LEGO gift for boys and girls
+- Kids can explore one of the world’s first 300 mph supercars with their very own LEGO Speed Champions Koenigsegg Jesko racing car toy model
+- The Koenigsegg LEGO race car driver minifigure included in the set is completed with a racing suit, safety helmet and wrench
+- This LEGO sports car collectible model comes with a wider 8-stud chassis which allows room for a 2-seat cockpit with space for 2 minifigures
 - The LEGO Koenigsegg Jesko racing car comes in white & black colours with green details, a black dominant tail spoiler wing & wheels protectors
 
 [🛒 Check the deal!!]({{< param buyurl >}})
