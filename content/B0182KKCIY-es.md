@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain  VG  - LEGO Vengadores - [Edición: España]'
-date: 2022-06-04 12:01:57
+date: 2022-06-12 12:26:39
 image: 'https://m.media-amazon.com/images/I/51T+bYN5S9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B0182KKCIY/?tag=tolees-21'
 descuento: '49.03'
-average: '13.1323529411764'
+average: '12.8272222222222'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Cada pareja de personajes tiene su propio ataque de equipo
-- Plataforma del juego: PlayStation 4
 - Tipo de producto: videojuego de acción y aventura
-- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
+- Plataforma del juego: PlayStation 4
 - El juego cuenta con más de cien personajes jugables
+- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
+- Cada pareja de personajes tiene su propio ataque de equipo
 
 [🛒 Buy it now!!]({{< param buyurl >}})
