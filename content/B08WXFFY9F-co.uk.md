@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This toy is one of a series of detailed modular sets that can be built, combined and rearranged to create kids own Hogwarts Castle model
+- 3 smaller builds provide further inspiration: a street light, a bench with snow, a 2-sided noticeboard with a wanted poster for Sirius Black
+- The snow-covered LEGO Hogsmeade village set is crammed to the rooftops with authentic details, furniture and accessories for kids to play with
 - LEGO Harry Potter Hogsmeade village set also includes 4 random wizard card tiles for kids to collect, out of 16 in total
 - Includes Harry Potter, Dean Thomas, Professor McGonagall, Madam Rosmerta, Mr Flume and Mrs Flume LEGO minifigures for magical roleplay fun
 - This LEGO Harry Potter set includes an exclusive, 20th anniversary golden Ron Weasley LEGO minifigure to celebrate 20 years of Harrys magic
-- The snow-covered LEGO Hogsmeade village set is crammed to the rooftops with authentic details, furniture and accessories for kids to play with
 - This Harry Potter collectable toy for kids features Hogsmeade village with 2-floors recreating Honeydukes sweetshop and The Three Broomsticks pub
-- 3 smaller builds provide further inspiration: a street light, a bench with snow, a 2-sided noticeboard with a wanted poster for Sirius Black
+- This toy is one of a series of detailed modular sets that can be built, combined and rearranged to create kids own Hogwarts Castle model
 
 [🛒 Buy it now!!]({{< param buyurl >}})
