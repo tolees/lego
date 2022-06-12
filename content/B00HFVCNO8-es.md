@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - La LEGO Película: El Videojuego'
-date: 2022-06-10 21:22:27
+date: 2022-06-12 00:36:39
 image: 'https://m.media-amazon.com/images/I/6117a0wMysL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00HFVCNO8/?tag=tolees-21'
 descuento: '52.22'
-average: '12.1525'
+average: '11.25'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Tipo de producto: videojuego de acción y aventura
 - Los ambientes están completamente hechos de piezas de Lego
-- Los jugadores siguen las instrucciones para construir objetos con piezas específicas como conjuntos LEGO de la vida real
-- Plataforma del juego: PlayStation 4
 - El juego pone a los jugadores en control de varios personajes de la película
+- Tipo de producto: videojuego de acción y aventura
+- Plataforma del juego: PlayStation 4
+- Los jugadores siguen las instrucciones para construir objetos con piezas específicas como conjuntos LEGO de la vida real
 
 [🛒 Buy it now!!]({{< param buyurl >}})
