@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21180 Minecraft Das Wächterduell  Unterwasser-Abenteuer  Kinderspielzeug ab 8 Jahren  Geschenk für Kinder  mit Figuren und Kreaturen'
-date: 2022-06-12 11:06:01
+date: 2022-06-13 23:47:23
 image: 'https://m.media-amazon.com/images/I/51Q2q+TzBsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BP9XWD3/?tag=tolees0ca-21'
 descuento: '33.06'
-average: '15.3670000000001'
+average: '15.3680952380953'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
