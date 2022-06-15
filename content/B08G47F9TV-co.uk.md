@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Features an update 2 in 1 model of ninja vehicle from season 3 of the LEGO NINJAGO TV series with a shooting toy car and ninja motorcycle
-- Includes a limited edition, collectible, golden Cole Legacy minifigure with a small stand to celebrate the 10th anniversary of NINJAGO toys
-- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, Boulder Blaster 71736 and Zane’s Titan Mech Battle 71738
-- NINJAGO Legacy X-1 Ninja Charger Ninja Car Toy and Motorcycle makes a fab birthday or any-time treat for boys and girls 8+ years old
-- Includes 5 minifigures: ninjas Kai, Jay and Cole Legacy to take on a Nindroid Warrior and Mindroid from season 3 of the TV series
 - The vehicle features 2 spring-loaded shooters and has a toy motorcycle hidden inside to be fired out by a button to attack the Nindroids
+- NINJAGO Legacy X-1 Ninja Charger Ninja Car Toy and Motorcycle makes a fab birthday or any-time treat for boys and girls 8+ years old
+- Includes a limited edition, collectible, golden Cole Legacy minifigure with a small stand to celebrate the 10th anniversary of NINJAGO toys
+- Features an update 2 in 1 model of ninja vehicle from season 3 of the LEGO NINJAGO TV series with a shooting toy car and ninja motorcycle
+- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, Boulder Blaster 71736 and Zane’s Titan Mech Battle 71738
+- Includes 5 minifigures: ninjas Kai, Jay and Cole Legacy to take on a Nindroid Warrior and Mindroid from season 3 of the TV series
 
 [🛒 Buy it!!]({{< param buyurl >}})
