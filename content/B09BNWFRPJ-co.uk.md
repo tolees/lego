@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Features a buildable toy ice castle fountain in a courtyard, and a transforming ‘diamond’ dress designed to store a mini doll figure inside
 - The LEGO buildable Disney Princess toy sets for kids age 5+ bring favourite movie characters to life with toy castles, mini dolls and fun figures
-- Once playtime is done, kids can use the fountain bottom and Elsa’s dress to create a diamond-shaped storage container
-- The collectable LEGO Disney Princess Elsa’s Castle Courtyard set is a part of new LEGO Disney Diamond Dress sets with 5 different princesses
 - This LEGO Disney Frozen 2 buildable toy features a courtyard arch with a fountain, Princess Elsa mini doll and a LEGO Snowgie figure
+- The collectable LEGO Disney Princess Elsa’s Castle Courtyard set is a part of new LEGO Disney Diamond Dress sets with 5 different princesses
+- Once playtime is done, kids can use the fountain bottom and Elsa’s dress to create a diamond-shaped storage container
+- Features a buildable toy ice castle fountain in a courtyard, and a transforming ‘diamond’ dress designed to store a mini doll figure inside
 
 [🛒 Check the deal!!]({{< param buyurl >}})
