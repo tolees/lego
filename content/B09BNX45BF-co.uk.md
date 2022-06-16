@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This ninja action toy includes LEGO NINJAGO Zane and Jay minifigures, both with swords, & Boa Destructor minifigure with his own large sword
 - Place a ninja in the spinner toy, pull the ripcord and watch as the ninja competes against the LEGO NINJAGO snake!
-- Kids can train their ninja heroes with a spinner at the action-packed LEGO NINJAGO Ninja Training Centre through a series of challenges
-- LEGO NINJAGO Masters of Spinjitzu spinning toys & collectible Mission Banner sets make great gift ideas for LEGO NINJAGO fans!
-- LEGO NINJAGO spin toy puts the ninja through challenges, including going down a slide, jumping over a snake pit and fighting a dummy mech
-- New for January 2022, when kids complete their missions, they are rewarded with a collectible Balance mission banner to display on the centre
 - Look out for banners in 7 other NINJAGO sets, including Kai’s Fire Dragon EVO 71762, Ninja Dojo Temple 71767 & Lloyd’s Legendary Dragon 71766
+- LEGO NINJAGO spin toy puts the ninja through challenges, including going down a slide, jumping over a snake pit and fighting a dummy mech
+- This ninja action toy includes LEGO NINJAGO Zane and Jay minifigures, both with swords, & Boa Destructor minifigure with his own large sword
+- New for January 2022, when kids complete their missions, they are rewarded with a collectible Balance mission banner to display on the centre
+- LEGO NINJAGO Masters of Spinjitzu spinning toys & collectible Mission Banner sets make great gift ideas for LEGO NINJAGO fans!
+- Kids can train their ninja heroes with a spinner at the action-packed LEGO NINJAGO Ninja Training Centre through a series of challenges
 
 [🛒 Check the deal!!]({{< param buyurl >}})
