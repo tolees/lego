@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76398 Harry Potter Hogwarts Krankenflügel  Schloss-Spielzeug mit Minifiguren aus Der Gefangene von Askaban  Geschenk für Jungen und Mädchen'
-date: 2022-06-13 23:37:30
+date: 2022-06-15 23:29:23
 image: 'https://m.media-amazon.com/images/I/51-WOzX7YOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNX92Q2-de LEGO 76398 Harry Potter Hogwarts Krankenflügel Schloss-...'
 sku: 'B09BNX92Q2-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 34.99 EUR
+actualPrice: 31.99 EUR
 currency: EUR
-price: 34.99
+price: 31.99
 comparePrice: 49.99 EUR
 prodname: 'LEGO 76398 Harry Potter Hogwarts Krankenflügel  Schloss-Spielzeug mit Minifiguren aus Der Gefangene von Askaban  Geschenk für Jungen und Mädchen'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNX92Q2/?tag=tolees0ca-21'
-descuento: '30.01'
-average: '32.5775757575757'
+descuento: '36.01'
+average: '32.560294117647'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Enthält LEGO Minifiguren von Harry Potter, Hermine Granger, Ron Weasley & Madam Pomfrey und 2 von insgesamt 16 Überraschungskartenelementen zum Sammeln
 - Das Harry Potter Spielzeug für Kinder ab 8 Jahren gehört zu einer Reihe modularer Sets, die ein komplettes LEGO Hogwarts Schloss ergeben
+- Diese Nachbildung des LEGO Hogwarts Schlosses ist eine zauberhafte Harry Potter Geschenkidee für Jungen und Mädchen, die die Zaubererwelt lieben
+- Enthält einen Harry-Potter-Spielzeug Krankenflügel und den LEGO Harry Potter Uhrenturm aus "Harry Potter und der Gefangene von Askaban"
 - Kinder drehen den Turm und reisen mit dem Zeitumkehrer, um ein weiteres Abenteuer in dem Schloss zu erleben
 - Die Kinder können die Zeitreiseszene in dem Krankenhaus nachspielen und Verletzungen in der Krankenstation behandeln lassen
-- Diese Nachbildung des LEGO Hogwarts Schlosses ist eine zauberhafte Harry Potter Geschenkidee für Jungen und Mädchen, die die Zaubererwelt lieben
-- Enthält LEGO Minifiguren von Harry Potter, Hermine Granger, Ron Weasley & Madam Pomfrey und 2 von insgesamt 16 Überraschungskartenelementen zum Sammeln
-- Enthält einen Harry-Potter-Spielzeug Krankenflügel und den LEGO Harry Potter Uhrenturm aus "Harry Potter und der Gefangene von Askaban"
 
 [🛒 Buy it!!]({{< param buyurl >}})
