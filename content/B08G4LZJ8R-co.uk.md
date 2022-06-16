@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids can cordon off areas with the roadworks sign and traffic cones, fill and tip the front-end loader truck toy’s bucket and play out fun scenarios
-- The construction toy playset comes with a LEGO worker minifigure, his safety helmet, a rat figure, and a Starter Brick element for an easy start
-- To help, it includes a simple 4+ building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
-- The construction vehicle truck toy for boys and girls 4+ years old features a front-end loader, wheelbarrow, roadworks sign, a shovel and traffic cones
-- This construction vehicle truck toy play set is an exciting birthday gift idea or anytime treat for kids 4+ years old
 - This easy-to-build construction playset helps younger kids discover the joy of building their own LEGO toys and show off their creations
+- This construction vehicle truck toy play set is an exciting birthday gift idea or anytime treat for kids 4+ years old
+- To help, it includes a simple 4+ building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
+- Kids can cordon off areas with the roadworks sign and traffic cones, fill and tip the front-end loader truck toy’s bucket and play out fun scenarios
+- The construction vehicle truck toy for boys and girls 4+ years old features a front-end loader, wheelbarrow, roadworks sign, a shovel and traffic cones
+- The construction toy playset comes with a LEGO worker minifigure, his safety helmet, a rat figure, and a Starter Brick element for an easy start
 
 [🛒 Buy it now!!]({{< param buyurl >}})

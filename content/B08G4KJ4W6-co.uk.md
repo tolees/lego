@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- This preschool learning toy includes LEGO City Adventures TV series fire chief Freya McCloud and LEGO firefighter minifigures, plus LEGO Starter Brick element
-- Kids can raise the extinguisher ladder, stow firefighter tools in the toy fire engine’s storage compartment and create stories while saving the day
-- This fire engine toy playset for kids 4+ years old makes a perfect birthday gift any-other-day treat for children and fans of LEGO City and trucks
 - Includes a simple 4+ building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
 - Features a toy fire engine with a ladder, extinguisher, stackable flames and a water hydrant, plus LEGO accessories: firefighter axe and helmet
+- This fire engine toy playset for kids 4+ years old makes a perfect birthday gift any-other-day treat for children and fans of LEGO City and trucks
+- This preschool learning toy includes LEGO City Adventures TV series fire chief Freya McCloud and LEGO firefighter minifigures, plus LEGO Starter Brick element
+- Kids can raise the extinguisher ladder, stow firefighter tools in the toy fire engine’s storage compartment and create stories while saving the day
 
 [🛒 Buy it!!]({{< param buyurl >}})
