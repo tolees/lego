@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Features a brick-built mansion entrance and cemetery packed with challenges expansion to a LEGO Mario or Luigi Starter Course (not included)
 - This platform-spinning LEGO Super Mario buildable game set also has a start plate that triggers different music
-- Features a digital Golden Bone to collect for Polterpup, a door-opening function, rotating platform, and a shadow ball to knock over Bogmire
 - Includes Super Mario figures of Polterpup, Bogmire and a Boo for LEGO Luigi or Mario figures (not included) to interact with to earn coins
+- Features a digital Golden Bone to collect for Polterpup, a door-opening function, rotating platform, and a shadow ball to knock over Bogmire
 - LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 71360/71387, which is required for play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
