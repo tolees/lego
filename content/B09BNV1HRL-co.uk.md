@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75324 Star Wars Dark Trooper Attack Set  Mandalorian Buildable Toy with Revolving Elevator  Luke Skywalker Minifigure and Lightsaber'
-date: 2022-06-15 02:56:52
+date: 2022-06-17 13:16:30
 image: 'https://m.media-amazon.com/images/I/51RGzrM85lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
