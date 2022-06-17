@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71399 Super Mario Luigi’s Mansion Entryway Expansion Set  Buildable Game Toy with Polterpup  Bogmire and Boo Figures  2022 Collection'
-date: 2022-06-16 12:52:41
+date: 2022-06-17 17:19:09
 image: 'https://m.media-amazon.com/images/I/51HkuYtiYzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes Super Mario figures of Polterpup, Bogmire and a Boo for LEGO Luigi or Mario figures (not included) to interact with to earn coins
-- This platform-spinning LEGO Super Mario buildable game set also has a start plate that triggers different music
 - Features a brick-built mansion entrance and cemetery packed with challenges expansion to a LEGO Mario or Luigi Starter Course (not included)
+- This platform-spinning LEGO Super Mario buildable game set also has a start plate that triggers different music
 - Features a digital Golden Bone to collect for Polterpup, a door-opening function, rotating platform, and a shadow ball to knock over Bogmire
+- Includes Super Mario figures of Polterpup, Bogmire and a Boo for LEGO Luigi or Mario figures (not included) to interact with to earn coins
 - LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 71360/71387, which is required for play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
