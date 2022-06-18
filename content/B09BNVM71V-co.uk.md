@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41943 DOTS Gamer Bracelet with Charms  DIY Jewellery Making Kit with Lightning Bolt Charms  Creative Crafts Set for Kids Age 6'
-date: 2022-06-15 19:04:32
+date: 2022-06-18 16:17:55
 image: 'https://m.media-amazon.com/images/I/51Tk64JJAOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
