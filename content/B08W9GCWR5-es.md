@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Los peques empujarán la moto acrobática para activar la rueda de inercia y, después, la soltarán para hacer impresionantes saltos, maniobras en el aire y aterrizajes.
 - Incluye una guía impresa e Instructions Plus, que forma parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes para ayudar en el montaje
 - Dispone de una estupenda moto de juguete con rueda de inercia, parte de una serie de LEGO para realizar increíbles acrobacias
-- Los peques empujarán la moto acrobática para activar la rueda de inercia y luego la soltarán para realizar impresionantes saltos y aterrizajes
 - Este juguete LEGO City: Fuego, para niños y niñas a partir de 5 años, les sitúa en el centro de la acción: ¡podrán jugar donde quieran!
+- Los peques empujarán la moto acrobática para activar la rueda de inercia y luego la soltarán para realizar impresionantes saltos y aterrizajes
 - Los sets de acrobacias LEGO City Stuntz cuentan con sets de juego y conocidos personajes para coleccionar y se convierten en un fantástico regalo de cumpleaños o Navidad
-- Los peques empujarán la moto acrobática para activar la rueda de inercia y, después, la soltarán para hacer impresionantes saltos, maniobras en el aire y aterrizajes.
 
 [🛒 Buy it!!]({{< param buyurl >}})
