@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vollgepackt mit Details! Viel Platz für eine Fahrer-Minifigur und viele authentische Funktionen
-- Erforsche das atemberaubende aerodynamische Design des LEGO Rennwagens, während du es Stück für Stück nachbaust
-- Enthält einen LEGO Modellauto Bausatz des Ferrari 512 M von 1970 und einer Ferrari-Rennfahrer-Minifigur mit Rennanzug, Perücke und Sturzhelm
-- Mit den LEGO Speed Champions Bausätzen können Kinder und Erwachsene einige der berühmtesten Fahrzeuge der Welt erkunden
 - Dieses Spielzeug-Auto ist ein perfektes Geschenk zum Geburtstag für Kinder, die Autos lieben; auch toll als Geschenk zum Vatertag für Männer
+- Mit den LEGO Speed Champions Bausätzen können Kinder und Erwachsene einige der berühmtesten Fahrzeuge der Welt erkunden
 - Mit der LEGO Bauanleitungs-App kannst du die Ferrari Modelle beim Bauen zoomen, drehen und aus allen Blickwinkeln betrachten
+- Vollgepackt mit Details! Viel Platz für eine Fahrer-Minifigur und viele authentische Funktionen
+- Enthält einen LEGO Modellauto Bausatz des Ferrari 512 M von 1970 und einer Ferrari-Rennfahrer-Minifigur mit Rennanzug, Perücke und Sturzhelm
+- Erforsche das atemberaubende aerodynamische Design des LEGO Rennwagens, während du es Stück für Stück nachbaust
 
 [🛒 Check the deal!!]({{< param buyurl >}})
