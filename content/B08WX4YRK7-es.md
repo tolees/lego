@@ -28,9 +28,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Cuenta con una recreación de ladrillos LEGO del icónico Guantelete del Infinito con las Gemas del Infinito y un soporte resistente con una leyenda descriptiva
 - Este impresionante homenaje a Marvel presenta el guantelete de Thanos con dedos móviles y colores vibrantes que dan como resultado una pieza de exhibición para siempre
 - Los coleccionables de Marvel Vengadores para adultos son excelentes como regalo de Navidad o cumpleaños para mujeres y hombres aficionados a la construcción y los superhéroes
+- Cuenta con una recreación de ladrillos LEGO del icónico Guantelete del Infinito con las Gemas del Infinito y un soporte resistente con una leyenda descriptiva
 - El guante dorado de Thanos captura para siempre el cautivador estilo de las películas Avengers: Infinity War y Avengers: Endgame de Marvel Studios
 - Este juguete de construcción LEGO para adultos ofrece una pieza icónica de decoración para la casa o la oficina que será el centro de atención y levantará comentarios de admiración
 

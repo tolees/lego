@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Das Koi-Tierspielzeug aus LEGO Steinen verfügt über einen beweglichen Körper sowie bewegliche Flossen und Schwanzflossen für endlosen Unterwasserspaß
 - Mit den 3 LEGO Creator Tierspielzeugen können die Kinder ihre ganz eigenen Geschichten erzählen oder ihrer Fantasie freien Lauf lassen und ein neues Tier erschaffen
+- Zu den Details gehören ein Tiger mit einem roten Vogel und einer Dschungel-Kulisse, ein roter Panda mit einem Bonsai-Baum und Bambus sowie ein Koi mit Seerosen
 - Dieses 3-in-1-Tierfiguren-Set von LEGO Creator enthält 3 Tierspielzeuge zum Bauen: einen Tiger, einen roten Panda und einen Koi sowie ein kleineres Modell
 - Der Tiger kann seinen Körper, Kopf, Kiefer und Schwanz sowie die Beine und Schultern bewegen, während der Panda den Kopf und Schwanz sowie die Beine, Füße und Ohren bewegen kann
-- Das Koi-Tierspielzeug aus LEGO Steinen verfügt über einen beweglichen Körper sowie bewegliche Flossen und Schwanzflossen für endlosen Unterwasserspaß
-- Zu den Details gehören ein Tiger mit einem roten Vogel und einer Dschungel-Kulisse, ein roter Panda mit einem Bonsai-Baum und Bambus sowie ein Koi mit Seerosen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

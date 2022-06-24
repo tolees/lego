@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Building and playing with the 8 toys included is just the beginning, as extra LEGO bricks bring even more creative fun
 - Kids aged 4 and up develop creative and physical skills as they build and play. Learning has never been so much fun!
 - Comes with printed and digital Instructions PLUS, part of the free LEGO Building Instructions app, with zoom, rotate and visualization tools
-- Building and playing with the 8 toys included is just the beginning, as extra LEGO bricks bring even more creative fun
-- This 500-piece playset can build a toy bird, lion, turtle, robot, unicorn, pink bird, wizard with potions desk and a fish in a coral setting
 - Features a range of colourful, transparent shapes and sizes, plus an exciting selection of classic LEGO bricks, eyes and wheels for extra fun!
+- This 500-piece playset can build a toy bird, lion, turtle, robot, unicorn, pink bird, wizard with potions desk and a fish in a coral setting
 
 [🛒 Buy it!!]({{< param buyurl >}})
