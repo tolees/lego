@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas 21331 Sonic The Hedgehog – Green Hill Zone Set mit Dr. Eggmann  Egg-Mobil und weiteren Figuren  Geschenkidee für Erwachsene'
-date: 2022-06-11 22:50:51
+date: 2022-06-24 17:47:20
 image: 'https://m.media-amazon.com/images/I/51NwZ0fLOTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNVFK4M-de LEGO Ideas 21331 Sonic The Hedgehog – Green Hill Zone Set...'
 sku: 'B09BNVFK4M-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 56.87 EUR
+actualPrice: 45.37 EUR
 currency: EUR
-price: 56.87
+price: 45.37
 comparePrice: 69.99 EUR
 prodname: 'LEGO Ideas 21331 Sonic The Hedgehog – Green Hill Zone Set mit Dr. Eggmann  Egg-Mobil und weiteren Figuren  Geschenkidee für Erwachsene'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVFK4M/?tag=tolees0ca-21'
-descuento: '18.75'
-average: '53.2680000000001'
+descuento: '35.18'
+average: '53.2950000000001'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Verdiene einen Smaragd und sammle alle 7 Chaos-Smaragde, um sie zusammen mit Sonic auf dem Ständer auszustellen und Dr. Eggman zu besiegen
-- Drücke den Hebel und starte die LEGO Sonic Minifigur für Super Sonic Sprünge, um den Figuren Bug und Crabmeat auszuweichen
 - Erweise dem klassischen Videospiel die Ehre und erlebe die Magie des kultigen Spiels mit diesem LEGO Sonic Set
+- Drücke den Hebel und starte die LEGO Sonic Minifigur für Super Sonic Sprünge, um den Figuren Bug und Crabmeat auszuweichen
 - Authentische Details: eine Palme, eine Loopingbrücke, Ringe und 2 baubare TV-Geräte mit 5 Bildschirmelementen und 5 Aufkleberoptionen
-- Enthält 4 Sonic Figuren: Sonic the Hedgehog, Dr. Eggman mit baubarem Egg-Mobil, Moto Bug mit 2 Gesichtsoptionen und Crabmeat
 - Eine authentische Nachbildung des nostalgischen LEGO Sets aus den 90er Jahren, das du mit Stolz zu Hause oder im Büro ausstellen willst
 - Das Modell kann umgestaltet werden, um alternative Levels zu schaffen und ist ein tolles Geschenk für Fans von Sonic the Hedgehog
+- Enthält 4 Sonic Figuren: Sonic the Hedgehog, Dr. Eggman mit baubarem Egg-Mobil, Moto Bug mit 2 Gesichtsoptionen und Crabmeat
+- Verdiene einen Smaragd und sammle alle 7 Chaos-Smaragde, um sie zusammen mit Sonic auf dem Ständer auszustellen und Dr. Eggman zu besiegen
 
 [🛒 Buy it!!]({{< param buyurl >}})
