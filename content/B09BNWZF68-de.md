@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- In der Schachtel findest du eine Schritt für Schritt Anleitung, so dass du das LEGO Set für Erwachsene auch als LEGO Neuling nachbauen kannst
+- Baue ein detailliertes LEGO Star Wars Sammlerstück des Mandalorianer Helms und zolle dem legendären Kopfgeldjäger Tribut
+- Der LEGO Mandalorianer Helm macht als Star Wars Deko zu Hause oder im Büro eine gute Figur
+- Andere LEGO Star Wars Helme Modelle aus der LEGO Star Wars Sammlung: Helm von Luke Skywalker (Rot Fünf) (75327) und Dark Trooper Helm (75343)
 - Mit speziell lackierten LEGO Steinen in verschiedenen Grautönen lässt sich das metallische Aussehen der Beskar-Rüstung nachbilden
 - Fange den Glanz und die ikonischen Merkmale von deinem LEGO Star Wars Helm ein und präsentiere ihn stolz auf dem Ständer mit Namensschild
-- Baue ein detailliertes LEGO Star Wars Sammlerstück des Mandalorianer Helms und zolle dem legendären Kopfgeldjäger Tribut
-- Andere LEGO Star Wars Helme Modelle aus der LEGO Star Wars Sammlung: Helm von Luke Skywalker (Rot Fünf) (75327) und Dark Trooper Helm (75343)
-- Der LEGO Mandalorianer Helm macht als Star Wars Deko zu Hause oder im Büro eine gute Figur
 - Sieh dir das Sortiment aller LEGO Star Wars Modellbausätze an, um eine Vielzahl an Star Wars Geschenken zu entdecken
+- In der Schachtel findest du eine Schritt für Schritt Anleitung, so dass du das LEGO Set für Erwachsene auch als LEGO Neuling nachbauen kannst
 
 [🛒 Buy it now!!]({{< param buyurl >}})
