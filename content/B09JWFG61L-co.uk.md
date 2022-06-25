@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60349 City Lunar Space Station NASA Inspired Model Set with Docking Capsule and Labs  Buildable Toy for Kids with 5 Astronaut Minifigures'
-date: 2022-06-24 17:47:48
+date: 2022-06-25 19:36:58
 image: 'https://m.media-amazon.com/images/I/51nxACYzk7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09JWFG61L/?tag=tolees0a-21'
 descuento: '36.35'
-average: '38.12'
+average: '37.08'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,10 +29,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - This LEGO City outer space toy for 6+ year olds can be given as a birthday or any-other-day gift for kids who are into space exploration
-- The LEGO astronauts minifigure accessories in this toy space station playset include a camera, wrench, drill, helmets and plants
 - This outer space station toy includes science and botany labs, sleeping quarters and a docking space capsule
 - Combine with other LEGO City sets: Space Lunar Roving Vehicle 60348, Lunar Research Base 60350 and Rocket Launch Centre 60351 for more fun!
-- NASA - inspired LEGO City Lunar Space Station set comes with separate rooms, a docking space capsule, plus 5 LEGO astronaut minifigures
 - Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
+- NASA - inspired LEGO City Lunar Space Station set comes with separate rooms, a docking space capsule, plus 5 LEGO astronaut minifigures
+- The LEGO astronauts minifigure accessories in this toy space station playset include a camera, wrench, drill, helmets and plants
 
 [🛒 Buy it!!]({{< param buyurl >}})
