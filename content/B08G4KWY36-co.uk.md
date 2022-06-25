@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- ROLEPLAY DAILY ADVENTURES - Kids can drive vehicles through the car wash to spin the washer brushes, collect the recycling containers with the truck’s crane and more!
+- EXPAND YOUR CITY - The car wash and vehicles toy set with LEGO Road Plates lets kids connect to other playsets to expand their city any way they like
 - INCLUDED BUILDING INSTRUCTIONS - Children aged 6+ can zoom, rotate and visualize this set as they build with Instructions PLUS on the LEGO Building Instructions app
 - COOL VEHICLES AND ACCESSORIES - Features Toy Pizzeria, Dojo, Car Wash, EV Charge Point, EV, Police Bicycle, Fire Motorbike, Recycling Station, Roof Garden, Park and a Truck
-- EXPAND YOUR CITY - The car wash and vehicles toy set with LEGO Road Plates lets kids connect to other playsets to expand their city any way they like
-- INSPIRE STORIES - Includes 8 story-inspiring LEGO minifigures with a baby, guide dog figures and accessory elements: pizza boxes, tools, weapons and helmets
-- ROLEPLAY DAILY ADVENTURES - Kids can drive vehicles through the car wash to spin the washer brushes, collect the recycling containers with the truck’s crane and more!
 - PACKED WITH FEATURES - Features 2 accessible buildings, 4 vehicles and a set of Road Plates, plus Shirley Keeper & Madison from the LEGO City Adventures TV series
 - SURPRISE AND DELIGHT - LEGO City Town Center versatile set with toy motorbike and truck makes a thoughtful birthday present or Christmas gift for kids aged 6 +
+- INSPIRE STORIES - Includes 8 story-inspiring LEGO minifigures with a baby, guide dog figures and accessory elements: pizza boxes, tools, weapons and helmets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
