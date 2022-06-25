@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60253 City Great Vehicles Ice Cream Van Truck Toy with Skater & Dog Figure  for Boys and Girls 5 plus Year Old'
-date: 2022-06-21 01:31:31
+date: 2022-06-25 07:42:54
 image: 'https://m.media-amazon.com/images/I/51m6+HXODRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W4KSKXZ-co.uk LEGO 60253 City Great Vehicles Ice Cream Van Truck Toy...'
 sku: 'B07W4KSKXZ-co.uk'
 tags: [ 'Building & Construction Toy Figures','Building & Construction Toys','Toys','Toys Store','lego','🇬🇧', ]
-actualPrice: 14.49 GBP
+actualPrice: 13.49 GBP
 currency: GBP
-price: 14.49
+price: 13.49
 comparePrice: 17.99 GBP
 prodname: 'LEGO 60253 City Great Vehicles Ice Cream Van Truck Toy with Skater & Dog Figure  for Boys and Girls 5 plus Year Old'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W4KSKXZ/?tag=tolees0a-21'
-descuento: '19.46'
-average: '13.5995698924729'
+descuento: '25.01'
+average: '13.5984042553189'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This truck toy lets kids 5+ years old enjoy sunny, summers-day fun with an easy-access van interior, and a movable van roof ice-cream post
-- Includes 2 minifigures and a dog figure, plus an array of awesome accessories: a popsicle, cone, safety helmet, and a green banknote
-- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
-- Kids can help drive the van, serve ice-cream cones and lollies from the serving hatch and help the skateboarder perform cool tricks
 - The supercool ice cream van toy makes a fun holiday, birthday or Christmas gift for 5+ years old boys and girls
+- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
+- This truck toy lets kids 5+ years old enjoy sunny, summers-day fun with an easy-access van interior, and a movable van roof ice-cream post
 - Features a colourful ice-cream van toy truck with funny stickers, removable drivers cabin roof and wide-opening side doors
+- Kids can help drive the van, serve ice-cream cones and lollies from the serving hatch and help the skateboarder perform cool tricks
+- Includes 2 minifigures and a dog figure, plus an array of awesome accessories: a popsicle, cone, safety helmet, and a green banknote
 
 [🛒 Buy it now!!]({{< param buyurl >}})
