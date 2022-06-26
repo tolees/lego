@@ -28,13 +28,13 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Produkt 2: Vollgepackt mit Details! Viel Platz für eine Fahrer-Minifigur und viele authentische Funktionen
+- Produkt 2: Erforsche das atemberaubende aerodynamische Design des LEGO Rennwagens, während du es Stück für Stück nachbaust
+- Produkt 1: Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
+- Produkt 2: Enthält einen LEGO Modellauto Bausatz des Ferrari 512 M von 1970 und einer Ferrari-Rennfahrer-Minifigur mit Rennanzug, Perücke und Sturzhelm
 - Produkt 2: Mit der LEGO Bauanleitungs-App kannst du die Ferrari Modelle beim Bauen zoomen, drehen und aus allen Blickwinkeln betrachten
 - Produkt 1: Enthält ein weißes Lamborghini Countach Automodell mit einer Rennfahrer-Minifigur mit Sturzhelm, Perücke und Schraubenschlüssel
-- Produkt 2: Enthält einen LEGO Modellauto Bausatz des Ferrari 512 M von 1970 und einer Ferrari-Rennfahrer-Minifigur mit Rennanzug, Perücke und Sturzhelm
-- Produkt 1: Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
-- Produkt 2: Erforsche das atemberaubende aerodynamische Design des LEGO Rennwagens, während du es Stück für Stück nachbaust
+- Produkt 2: Vollgepackt mit Details! Viel Platz für eine Fahrer-Minifigur und viele authentische Funktionen
 - Produkt 1: Dieses Spielzeug-Auto für Kinder ab 8 Jahren verfügt über ein offenes Cockpit mit 2 Sitzen und viele authentische Details
-- Produkt 1: Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
+- Produkt 1: Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
 
 [🛒 Buy it!!]({{< param buyurl >}})

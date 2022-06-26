@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Produkt 1: Das Müllwagen-Spielzeug verfügt über einen Containerlift und 2 Rammen, mit denen die Gefängnismauer niedergerissen werden kann – ein Kinderspiel mit Daisy Kaboom hinter dem Steuer!
+- Produkt 1: Enthält eine dreistöckige Polizeistation, ein Polizeiauto Spielzeug, einen Hubschrauber und ein Müllauto sowie eine Hundefigur
 - Produkt 2: Sobald der Spielzeug-LKW in Position ist, können die Kinder die Stützfüße des mobilen Krans absenken, den Ausleger drehen und ausfahren und die Winde anheben und absenken
 - Produkt 2: Inklusive Fahrer- und Kranführer-Minifiguren und Spielzeugzubehör: ein Schraubenschlüssel, ein Walkie-Talkie und 2 Schutzhelme für realistischen Spielspaß
+- Produkt 2: Die beiliegende LEGO City Straßenplatte kann mit einer Winde in Position gebracht und dann mit anderen Sets verbunden werden
+- Produkt 2: Dieses Kinderspielzeug von LEGO City enthält einen mobilen Spielzeugkran mit beweglichen Stützfüßen, einem Kranausleger und einer Winde auf einem LKW mit 6 Rädern
 - Produkt 1: Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
 - Produkt 1: Inklusive 3 Figuren aus der LEGO City TV-Serie: Daisy Kaboom, Polizeichef Wheeler und Allen, sowie eine Gauner-Minifigur
-- Produkt 1: Enthält eine dreistöckige Polizeistation, ein Polizeiauto Spielzeug, einen Hubschrauber und ein Müllauto sowie eine Hundefigur
-- Produkt 2: Dieses Kinderspielzeug von LEGO City enthält einen mobilen Spielzeugkran mit beweglichen Stützfüßen, einem Kranausleger und einer Winde auf einem LKW mit 6 Rädern
-- Produkt 2: Die beiliegende LEGO City Straßenplatte kann mit einer Winde in Position gebracht und dann mit anderen Sets verbunden werden
+- Produkt 1: Das Müllwagen-Spielzeug verfügt über einen Containerlift und 2 Rammen, mit denen die Gefängnismauer niedergerissen werden kann – ein Kinderspiel mit Daisy Kaboom hinter dem Steuer!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
