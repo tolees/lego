@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76397 Harry Potter Hogwarts Moment: Defence Class Play Set  Buildable Book Travel Toy with Mad-Eye Moody Minifigure  Collectable Gift Idea'
-date: 2022-06-24 18:27:21
+date: 2022-06-25 22:55:08
 image: 'https://m.media-amazon.com/images/I/51e9z+zsUZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Features a brick-built Harry Potter collectable book with a Defence Class classroom inside, filled with features to inspire magical roleplay
-- Includes 3 LEGO Harry Potter minifigures: Mad-Eye Moody, Hermione Granger & Neville Longbottom, and a Mad-Eye Moody microfigure in the trunk
-- This set connects with other LEGO Hogwarts Moment sets, each designed and decorated to recreate a different Hogwarts classroom
 - The Hogwarts Moment portable travel toy is designed to be quick to clear away and easy to store, it makes a great LEGO Harry Potter gift idea
+- Includes 3 LEGO Harry Potter minifigures: Mad-Eye Moody, Hermione Granger & Neville Longbottom, and a Mad-Eye Moody microfigure in the trunk
 - Transform the Mad-Eye Moody LEGO Harry Potter minifigure into Barty Crouch Jr. by turning his head and replacing the hair
-- Kids open the LEGO playbook to enter Professor Moody’s defence class lesson, with his office next door & a trunk with a mini-Moody inside!
+- Features a brick-built Harry Potter collectable book with a Defence Class classroom inside, filled with features to inspire magical roleplay
 - This Harry Potter toy for kids age 8+ features lots of authentic accessories, including a blackboard, trunk, potion bottles, desk and chairs
+- Kids open the LEGO playbook to enter Professor Moody’s defence class lesson, with his office next door & a trunk with a mini-Moody inside!
+- This set connects with other LEGO Hogwarts Moment sets, each designed and decorated to recreate a different Hogwarts classroom
 
 [🛒 Buy it!!]({{< param buyurl >}})
