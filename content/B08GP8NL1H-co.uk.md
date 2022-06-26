@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features a buildable unicorn, 2 stars, a rainbow and 2 push-along ‘carriages’ with wheels. Building cards show life-size images of the models
-- This 8-piece educational toy with fun shapes is an ideal gift for birthdays, Christmas, or ‘just because’ for toddlers aged 18 months and up
-- All shapes have super-smooth corners and are perfect for little hands to pick up and place to help kids develop basic construction skills
 - Kids can position the colourful bricks over the equally colourful images as they build the toy train and show off their creation
+- All shapes have super-smooth corners and are perfect for little hands to pick up and place to help kids develop basic construction skills
 - Toddlers aged 1.5+ develop fine motor skills and learn about colours and shapes as they build and play with the LEGO train toy with their caregivers
+- This 8-piece educational toy with fun shapes is an ideal gift for birthdays, Christmas, or ‘just because’ for toddlers aged 18 months and up
+- Features a buildable unicorn, 2 stars, a rainbow and 2 push-along ‘carriages’ with wheels. Building cards show life-size images of the models
 
 [🛒 Buy it now!!]({{< param buyurl >}})
