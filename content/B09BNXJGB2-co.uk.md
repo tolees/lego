@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75330 Star Wars Dagobah Jedi Training Diorama Set for Adults  with Yoda  R2-D2 and Luke Skywalker’s X-wing Room Décor Memorabilia Gift'
-date: 2022-06-25 17:29:12
+date: 2022-06-27 22:56:09
 image: 'https://m.media-amazon.com/images/I/51G5gX+gynL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
