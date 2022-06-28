@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die LEGO Bauanleitungs-App für Smartphones und Tablets ermöglicht das Zoomen, Drehen und Betrachten von Modellen von allen Seiten
-- Mit den Modellauto Bausätzen können Kinder einige der berühmtesten Fahrzeug Nachbildungen der Welt bauen, damit spielen und ausstellen
-- Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
 - Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
-- Enthält ein weißes Lamborghini Countach Automodell mit einer Rennfahrer-Minifigur mit Sturzhelm, Perücke und Schraubenschlüssel
 - Dieses kultige Rennauto ist ein perfektes Geschenk zu jedem Anlass für Kinder, die Spielzeug-Sportwagen lieben oder sogar als Vatertagsgeschenk
+- Die LEGO Bauanleitungs-App für Smartphones und Tablets ermöglicht das Zoomen, Drehen und Betrachten von Modellen von allen Seiten
+- Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
+- Mit den Modellauto Bausätzen können Kinder einige der berühmtesten Fahrzeug Nachbildungen der Welt bauen, damit spielen und ausstellen
 - Dieses Spielzeug-Auto für Kinder ab 8 Jahren verfügt über ein offenes Cockpit mit 2 Sitzen und viele authentische Details
+- Enthält ein weißes Lamborghini Countach Automodell mit einer Rennfahrer-Minifigur mit Sturzhelm, Perücke und Schraubenschlüssel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
