@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält einen Spielzeug-Lastwagen und 26 kleinkindgerechte Bausteine mit allen Buchstaben des deutschen Alphabets, damit die Kinder beim Be- und Entladen lernen können
 - Dieses Lernspielzeug ist gut für kleine Hände zu greifen und enthält bunte Bausteine, die die Entwicklung von sprachlichen, sozialen und emotionalen Fähigkeiten fördern
-- Inklusive Figuren eines Jungen, eines Mädchens und eines niedlichen Teddybären, die Kleinkinder spielerisch und kreativ zum Lernen anregen und ihre Fantasie fördern
 - Eine leicht verständliche Anleitung liefert den Kindern Ideen und Inspirationen, die ihre Kreativität beim Bauen anregen und gleichzeitig die frühkindliche Entwicklung fördern
 - Beim Verladen der Buchstabenbausteine auf den Lastwagen verbessern Kleinkinder ab 1,5 Jahren ihre Feinmotorik und lernen gleichzeitig, einfache Wörter zu buchstabieren (S-P-A-ẞ!)
+- Enthält einen Spielzeug-Lastwagen und 26 kleinkindgerechte Bausteine mit allen Buchstaben des deutschen Alphabets, damit die Kinder beim Be- und Entladen lernen können
+- Inklusive Figuren eines Jungen, eines Mädchens und eines niedlichen Teddybären, die Kleinkinder spielerisch und kreativ zum Lernen anregen und ihre Fantasie fördern
 
 [🛒 Buy it now!!]({{< param buyurl >}})

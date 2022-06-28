@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieser Harry Potter Fanartikel enthält Details wie den Feuerblitz, ein goldenes Trimagisches Ei und Stoff für Schwimmflügel des Drachens
 - Das Set enthält außerdem eine Harry Potter Mini-Figur mit seinem fliegenden Besen Firebolt, der mit der Drachenfigur ausgestellt werden kann
-- Dieses Set aus der Wizarding World ist ein fantastisches Harry Potter Geschenk zum jedem Anlass für kleine Zauberer ab 9 Jahre
-- Die Flügel des Drachen Spielzeugs bewegen sich auf und ab, wenn sie mit einem Griff an der Rückseite des stabilen Sockels gesteuert werden
+- Dieser Harry Potter Fanartikel enthält Details wie den Feuerblitz, ein goldenes Trimagisches Ei und Stoff für Schwimmflügel des Drachens
 - Mit einer Flügelspannweite von über 40 cm wird dieses mechanische Modell als Harry Potter Zimmer-Deko zum Highlight in jedem Zimmer
+- Dieses Set aus der Wizarding World ist ein fantastisches Harry Potter Geschenk zum jedem Anlass für kleine Zauberer ab 9 Jahre
 - Der LEGO Drache Ungarischer Hornschwanz hat schwarze Schuppen, einen Stachelschwanz und bewegliche Flügel, die Kinder bedienen können
+- Die Flügel des Drachen Spielzeugs bewegen sich auf und ab, wenn sie mit einem Griff an der Rückseite des stabilen Sockels gesteuert werden
 
 [🛒 Buy it now!!]({{< param buyurl >}})

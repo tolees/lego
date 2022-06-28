@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dieses LEGO City Wildlife Tierrettungs-Geländewagen für Fans der Tierrettung enthält ein Spielzeugauto, einen Wasserscooter und eine realistische Savannenlandschaft
-- Enthalten sind eine Minifigur der TV-Heldin aus der Serie LEGO City Adventures, eine Ranger- und eine Entdecker-Minifigur, sowie Tierfiguren, nämlich ein Löwen, ein Löwenjunges und eine Schlangenfigur
-- Dieses Spielzeug mit einer einfachen Bauanleitung und einem Starterelement geliefert und ist ideal als Weihnachtsgeschenk für Jungen und Mädchen ab 4 Jahren
-- Das LEGO Zubehör umfasst ein Spielzeug-Schlangenei, einen Schlangengreifer, 2 Kisten, ein Fernglas, ein Walkie-Talkie, eine Kamera, Knochen, eine Flasche, eine Wurst und eine Haarbürste
-- Kinder können die Klappbrückenfunktion aktivieren, die Seilwinde des Offroaders bedienen oder die Freizeit auf dem Campingplatz genießen
 - Die Instructions PLUS Anleitungen, ein Teil der kostenlosen LEGO Bauanleitungs-App, sind mit Zoom- und Rotationsfunktion verfügbar
+- Kinder können die Klappbrückenfunktion aktivieren, die Seilwinde des Offroaders bedienen oder die Freizeit auf dem Campingplatz genießen
+- Enthalten sind eine Minifigur der TV-Heldin aus der Serie LEGO City Adventures, eine Ranger- und eine Entdecker-Minifigur, sowie Tierfiguren, nämlich ein Löwen, ein Löwenjunges und eine Schlangenfigur
+- Das LEGO Zubehör umfasst ein Spielzeug-Schlangenei, einen Schlangengreifer, 2 Kisten, ein Fernglas, ein Walkie-Talkie, eine Kamera, Knochen, eine Flasche, eine Wurst und eine Haarbürste
+- Dieses LEGO City Wildlife Tierrettungs-Geländewagen für Fans der Tierrettung enthält ein Spielzeugauto, einen Wasserscooter und eine realistische Savannenlandschaft
+- Dieses Spielzeug mit einer einfachen Bauanleitung und einem Starterelement geliefert und ist ideal als Weihnachtsgeschenk für Jungen und Mädchen ab 4 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

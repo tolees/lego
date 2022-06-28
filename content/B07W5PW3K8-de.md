@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Dieses lustige LEGO-Häuser-Set ist ein tolles Geschenk für Jungen und Mädchen ab 4 Jahren und kann für noch mehr kreativen Spielspaß mit anderen LEGO-Sets kombiniert werden
+- Die LEGO-Classic-Steinebox „Bausteine – bunte Häuser“ führt Vorschulkinder an die kreative Welt den Bauens heran und lässt sie ihr eigenes Traumhaus erschaffen
 - Jedes der Häuser verfügt über eine eigene Besonderheit: die Flügel der Windmühle lassen sich drehen, das Iglu ist schneeweiß und der Leuchtturm leuchtend bunt
 - Die großen LEGO-Bausteine sind sicher, kleinkindgerecht und gut für kleine Hände zu greifen. Das Bauen fördert die sprachlichen, sozialen und emotionalen Fähigkeiten der Kinder
 - Enthält 6 kreative Kontruktionsspielzeuge: ein Familienhaus, einen Leuchtturm, ein Iglu, eine Burg, ein kleines Haus und eine Windmühle
-- Dieses lustige LEGO-Häuser-Set ist ein tolles Geschenk für Jungen und Mädchen ab 4 Jahren und kann für noch mehr kreativen Spielspaß mit anderen LEGO-Sets kombiniert werden
-- Die LEGO-Classic-Steinebox „Bausteine – bunte Häuser“ führt Vorschulkinder an die kreative Welt den Bauens heran und lässt sie ihr eigenes Traumhaus erschaffen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
