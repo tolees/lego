@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60317 City Police Chase at the Bank with Helicopter  Drone and 2 Truck Toys for Kids 7 Years Old  2022 Adventures Series Building Sets'
-date: 2022-06-28 07:50:33
+date: 2022-06-29 08:10:53
 image: 'https://m.media-amazon.com/images/I/51bovVztqIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GREAT GIFT FOR BOYS AND GIRLS - LEGO City Adventures police sets can be given as a birthday or any-other-day gift for kids 7 + years old
-- CHOOSE YOUR HERO - Includes 5 LEGO City Adventures TV series characters: Betty, Hacksaw Hank, Vito, Rooky Partnur and Sam Grizzled, plus a crook minifigure
-- POLICE CHASE FUN - Next, let them mobilise the net-shooter helicopter, board the super-tough armoured truck, and help the police save the day!
 - EXPAND YOUR CITY - Also includes a Road Plate for easy connection to other new LEGO City sets: LEGO City Police Station (60316) or Fire Station (60320)
-- VEHICLES AND ACCESSORIES - Features a 2-floors multifunctional bank building, crooks’ heist truck toy, police helicopter and truck, plus a toy drone for lots of chase
+- GREAT GIFT FOR BOYS AND GIRLS - LEGO City Adventures police sets can be given as a birthday or any-other-day gift for kids 7 + years old
 - TRANSFORMING TOY TRUCK - Kids can fold out the heist truck to reveal a cherry picker arm with a jackhammer and crash out parts of the bank wall to remove the gold
 - IMPROVES CREATIVITY- This LEGO police toy set comes with lots of fun accessories, including banknotes, a glow-in-the-dark flashlight, phone and handcuff elements
+- POLICE CHASE FUN - Next, let them mobilise the net-shooter helicopter, board the super-tough armoured truck, and help the police save the day!
+- CHOOSE YOUR HERO - Includes 5 LEGO City Adventures TV series characters: Betty, Hacksaw Hank, Vito, Rooky Partnur and Sam Grizzled, plus a crook minifigure
+- VEHICLES AND ACCESSORIES - Features a 2-floors multifunctional bank building, crooks’ heist truck toy, police helicopter and truck, plus a toy drone for lots of chase
 
 [🛒 Check the deal!!]({{< param buyurl >}})
