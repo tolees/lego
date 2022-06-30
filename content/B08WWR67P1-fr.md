@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Il comprend les figurines LEGO de personnages Super Mario emblématiques : 2 Reznors, un Grrrol à bascule, un Toad bleu et un Bloc ?
 - L’Extension La Destruction des Reznors LEGO Super Mario comprend des éléments qui tournent et à bascule, un Toad bleu à secourir et des défis de vitesse sur les plateformes
 - Lapplication LEGO Super Mario offre des instructions de montage et un lieu sûr où les enfants peuvent échanger des idées et plus encore
-- Cet ensemble est formidable pour jouer seul ou se connecter à une figurine LEGO Mario ou LEGO Luigi (non incluse) via Bluetooth pour jouer en équipe de deux et gagner des pièces
+- Ce jouet de construction inclut un tuyau spécial : Speed Run qui permet aux joueurs de gagner des récompenses supplémentaires en étant le plus rapide à collecter les pièces
 - Les jouets à collectionner LEGO Super Mario proposent des défis créatifs et amusants grâce à l’extension, à la reconstruction et au jeu interactif
 - Les enfants animent les plateformes grâce aux figurines Mario en LEGO ou Luigi en LEGO (non incluses) sur le support connecté ou utilisent un pilier pour faire tomber les ennemis
-- Ce jouet de construction inclut un tuyau spécial : Speed Run qui permet aux joueurs de gagner des récompenses supplémentaires en étant le plus rapide à collecter les pièces
+- Cet ensemble est formidable pour jouer seul ou se connecter à une figurine LEGO Mario ou LEGO Luigi (non incluse) via Bluetooth pour jouer en équipe de deux et gagner des pièces
+- Il comprend les figurines LEGO de personnages Super Mario emblématiques : 2 Reznors, un Grrrol à bascule, un Toad bleu et un Bloc ?
 
 [🛒 Buy it!!]({{< param buyurl >}})
