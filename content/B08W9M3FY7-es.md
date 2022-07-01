@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Las armas del todoterreno deportivo de juguete pueden soltarse y caben en las manos de Nick Furia, mientras las telarañas lanzadas por Spider-Man ponen a Mysterio en un aprieto
-- Los juguetes de construcción LEGO de Spider-Man para niños pequeños a partir de 4 años presentan los populares personajes a los pequeños superhéroes y son un fantástico regalo
+- El set LEGO Marvel está ideado para desarrollar la imaginación, la destreza y la confianza, con ladrillos perfectamente diseñados para que sus manitas puedan cogerlo y jugar con él
+- Con un ladrillo especial para principiantes y sencillos pasos de construcción, los peques afianzarán sus habilidades de desarrollo al construir y jugar con el todoterreno
 - La app gratuita Instrucciones de Montaje LEGO, con la experiencia digital Instructions PLUS, permite a los peques visualizar, acercar y girar su juego mientras lo construyen
 - El juguete de construcción para niños a partir de 4 años LEGO Marvel Spider-Man vs. Ataque del Dron de Mysterio tiene un todoterreno construible, un rubí robado y un dron armado
-- El set LEGO Marvel está ideado para desarrollar la imaginación, la destreza y la confianza, con ladrillos perfectamente diseñados para que sus manitas puedan cogerlo y jugar con él
+- Las armas del todoterreno deportivo de juguete pueden soltarse y caben en las manos de Nick Furia, mientras las telarañas lanzadas por Spider-Man ponen a Mysterio en un aprieto
 - ¡Cuenta con mini figuras de populares personajes (Spider-Man, Nick Furia y Mysterio), para ayudar a crear las clásicas historias del bien contra el mal y jugar durante horas!
-- Con un ladrillo especial para principiantes y sencillos pasos de construcción, los peques afianzarán sus habilidades de desarrollo al construir y jugar con el todoterreno
+- Los juguetes de construcción LEGO de Spider-Man para niños pequeños a partir de 4 años presentan los populares personajes a los pequeños superhéroes y son un fantástico regalo
 
 [🛒 Check the deal!!]({{< param buyurl >}})

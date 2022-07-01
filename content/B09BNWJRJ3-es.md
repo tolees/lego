@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye a NINJAGO Jay con nunchakus, que puede mejorarse con una capucha y una espada, además de a Víbora Voladora, la serpiente armada con espada y una mochila propulsora
-- Mejora a Jay con una capucha y una espada y a su temible dragón con alas más grandes, ¡para que puedan batallar en el cielo desafiando a la muerte!
-- Los sets de batalla LEGO NINJAGO son un regalo sensacional para niños y niñas de 6+ años amantes del mundo fantástico de las aventuras de ninjas
-- No te pierdas las banderas de los otros 7 sets, incluidos el Meca de Última Generación EVO de Zane 71761, el Dragón del Fuego EVO de Kai 71762 o el Deportivo EVO de Lloyd 71763
 - El Dragón del Trueno de juguete tiene una silla en la que los peques podrán sentar a Jay cuando luche contra la serpiente NINJAGO equipada con mochila propulsora
+- No te pierdas las banderas de los otros 7 sets, incluidos el Meca de Última Generación EVO de Zane 71761, el Dragón del Fuego EVO de Kai 71762 o el Deportivo EVO de Lloyd 71763
+- Incluye a NINJAGO Jay con nunchakus, que puede mejorarse con una capucha y una espada, además de a Víbora Voladora, la serpiente armada con espada y una mochila propulsora
 - Cuando los peques completen sus misiones y derroten al guerrero de la serpiente, recibirán una bandera de la velocidad que podrán exponer en su dragón
+- Mejora a Jay con una capucha y una espada y a su temible dragón con alas más grandes, ¡para que puedan batallar en el cielo desafiando a la muerte!
 - Este set de dragón NINJAGO incluye la figura de un dragón altamente articulada, con patas, cabeza, boca, alas móviles y una cola que puede usarse como arma
+- Los sets de batalla LEGO NINJAGO son un regalo sensacional para niños y niñas de 6+ años amantes del mundo fantástico de las aventuras de ninjas
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- El vehículo tiene además un puesto de vigilancia (con una escotilla abatible) para una minifigura, además de compartimentos de munición que se abren para inspirar el juego creativo
-- El soldado de asalto de artillería, novedad de agosto de 2021, cuenta con un mortero y un accesorio de mochila
-- La maqueta construible del Merodeador de Star Wars tiene 4 cañones, incluidos 2 en la torreta giratoria trasera, y 2 cañones bláster desplegables que no disparan
 - Este juguete de construcción para niños a partir de 8 años es un adecuado regalo de cumpleaños, Navidad, o como sorpresa en cualquier momento
-- Incluye 4 minifiguras LEGO Star Wars: Greef Karga con una pistola bláster, 2 soldados de asalto con blásters y un soldado de asalto de artillería
+- El soldado de asalto de artillería, novedad de agosto de 2021, cuenta con un mortero y un accesorio de mochila
 - Este juguete de construcción de The Mandalorian de LEGO también cuenta con una cabina para minifiguras y una bodega para 2 minifiguras LEGO Star Wars, y es ideal para exponer.
+- El vehículo tiene además un puesto de vigilancia (con una escotilla abatible) para una minifigura, además de compartimentos de munición que se abren para inspirar el juego creativo
+- La maqueta construible del Merodeador de Star Wars tiene 4 cañones, incluidos 2 en la torreta giratoria trasera, y 2 cañones bláster desplegables que no disparan
+- Incluye 4 minifiguras LEGO Star Wars: Greef Karga con una pistola bláster, 2 soldados de asalto con blásters y un soldado de asalto de artillería
 
 [🛒 Check the deal!!]({{< param buyurl >}})
