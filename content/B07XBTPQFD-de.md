@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
-- Vom Hersteller nicht mehr verkauft
-- Anzahl der Teile: 33
 - Vom Hersteller empfohlenes Alter: 6+
+- Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
+- Anzahl der Teile: 33
 - Designspaß ohne Grenzen fördert die Kreativität.
 - Regenbogen Armband
+- Vom Hersteller nicht mehr verkauft
 
 [🛒 Buy it!!]({{< param buyurl >}})
