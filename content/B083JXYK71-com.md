@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Wonder Woman vs Cheetah 76157 with Wonder Woman  Diana Prince   the Cheetah  Barbara Minerva  and Max; Action Figure LEGO Toy for Kids Aged 8 and up  New 2020  371 Pieces '
-date: 2022-07-01 20:00:50
+date: 2022-07-02 22:43:41
 image: 'https://m.media-amazon.com/images/I/51Dk5LVW7qL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 - Measuring 7” (19 cm) high and 6” (17cm) wide, with a radar dish measuring 7” (20cm) across, the LEGO DC Wonder Woman vs Cheetah (76157) set encourages imaginative play on a large scale
 - Boys and girls aged 8 and up will enjoy exciting, imaginative adventures with this popular LEGO DC Wonder Woman toy; An action-packed gift for all young super heroes
+- This 2-sided model includes a high-tech bunker and a revolving transmitter tower; When kids bring Wonder Woman (Diana Prince) and her archenemy, Cheetah (Dr Barbara Minerva), to the scene, anything can happen
 - Kids can fix the Wonder Woman minifigure to the rotating transmitter as she flies around the tower, Max stands at the controls; When the Super-Villain, Cheetah, arrives, it’s time for an epic battle
 - A winged Wonder Woman and Cheetah minifigures provide super-hero action, while a Max minifigure is at the control center; High above, the transmitter tower rotates through 360 degrees and up and down
-- This 2-sided model includes a high-tech bunker and a revolving transmitter tower; When kids bring Wonder Woman (Diana Prince) and her archenemy, Cheetah (Dr Barbara Minerva), to the scene, anything can happen
 
 [🛒 Buy it!!]({{< param buyurl >}})
