@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Das Motorrad-Spielzeug ist mit einem Reibungsmotor ausgestattet; Kinder können das Stuntbike anschieben, um das Schwungrad zu aktivieren – für spektakuläre Manöver in der Luft
 - Die „LEGO City Stuntshow“-Sets umfassen Spielsets mit bekannten Charakteren zum Sammeln und Kombinieren für maximale Stunt-Action
-- Man kennt ihn vielleicht aus der Minifiguren-Sammler-Reihe 18 als den Rennfahrer oder aber aus den LEGO-Videospielen der 90er
+- Die Spielsets mit den LEGO-Stuntshow-Modulen im Hosentaschenformat für Jungen und Mädchen ab 5 Jahren sind ein tolles Weihnachts- oder Geburtstagsgeschenk
 - Das Set enthält eine LEGO-Minifigur von Rocket Racer, der bereits aus LEGO City bekannt ist
 - Kinder können das schwungradbetriebene Spielzeug-Motorrad aus dem „LEGO Raketen-Stuntbike“-Set rekordverdächtige Sprünge über Rampen ausführen lassen
-- Das Motorrad-Spielzeug ist mit einem Reibungsmotor ausgestattet; Kinder können das Stuntbike anschieben, um das Schwungrad zu aktivieren – für spektakuläre Manöver in der Luft
+- Man kennt ihn vielleicht aus der Minifiguren-Sammler-Reihe 18 als den Rennfahrer oder aber aus den LEGO-Videospielen der 90er
 - Enthält eine gedruckte Bauanleitung und Instructions PLUS in der kostenlosen LEGO App für Smart-Geräte, um Kindern beim Bauen zu helfen
-- Die Spielsets mit den LEGO-Stuntshow-Modulen im Hosentaschenformat für Jungen und Mädchen ab 5 Jahren sind ein tolles Weihnachts- oder Geburtstagsgeschenk
 
 [🛒 Buy it!!]({{< param buyurl >}})

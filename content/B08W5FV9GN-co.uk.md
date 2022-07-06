@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- LEARN TO COUNT - The LEGO DUPLO My First Number Train toy features 10 number bricks carried in the push-along train’s carriages
-- EARLY LEARNING RESOURCE - With its cute characters and colourful, easy-to-handle bricks, the Number Train is an ideal learning numbers activity for kids 1.5 - 2 years old
+- PRESCHOOL ACTIVITY - Kids improve their fine motor skills as they play this preschool learning toy for toddlers and load, unload, stack and sort the number bricks
 - EDUCATIONAL TOY FOR TODDLERS - This toy for toddlers 1 .5 years old is a new version of the iconic DUPLO Number Train with more colourful learning fun than ever
 - DEVELOPMENTAL PLAY - Includes a boy, girl and dog LEGO DUPLO figures to inspire imaginative roleplay; as children play, they also discover colours and numbers
-- PRESCHOOL ACTIVITY - Kids improve their fine motor skills as they play this preschool learning toy for toddlers and load, unload, stack and sort the number bricks
+- EARLY LEARNING RESOURCE - With its cute characters and colourful, easy-to-handle bricks, the Number Train is an ideal learning numbers activity for kids 1.5 - 2 years old
+- LEARN TO COUNT - The LEGO DUPLO My First Number Train toy features 10 number bricks carried in the push-along train’s carriages
 
 [🛒 Buy it!!]({{< param buyurl >}})
