@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- All LEGO DUPLO sets are designed with fun narratives and plenty of details to give your little learner a BIG start in life
-- Toddlers put 2 bricks together to make the panda, then place it in the floating ring for endless play opportunities
-- A rounded hook on the floating ring lets kids connect with other LEGO DUPLO floating ring bath toys for even more bath time fun
-- The floating bath toy includes LEGO DUPLO animal figures: a toy red panda, bucket and a floating ring that opens up for easy cleaning
 - Features a bath toy for babies and toddlers aged 1.5+ year old with a cute panda & a safe hook to connect more sets for more fun!
+- All LEGO DUPLO sets are designed with fun narratives and plenty of details to give your little learner a BIG start in life
+- A rounded hook on the floating ring lets kids connect with other LEGO DUPLO floating ring bath toys for even more bath time fun
+- Toddlers put 2 bricks together to make the panda, then place it in the floating ring for endless play opportunities
+- The floating bath toy includes LEGO DUPLO animal figures: a toy red panda, bucket and a floating ring that opens up for easy cleaning
 
 [🛒 Buy it!!]({{< param buyurl >}})

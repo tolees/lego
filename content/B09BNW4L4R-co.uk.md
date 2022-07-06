@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The included LEGO City Road Plate can be winched into position, then used for connection to other playsets
 - Building your city has never been so much fun! When you’re done, secure the winch hook and head out to the next job
+- After driving the truck toy into position, kids can lower the cranes support legs, rotate and extend the boom and raise and lower the winch
 - Includes driver and crane-operator minifigures, and toy accessories - a wrench, walkie-talkie and 2 safety helmets for realistic play
 - This LEGO construction vehicle building set features a mobile toy crane with workable legs, boom and winch, on top of a 6-wheeled truck
-- After driving the truck toy into position, kids can lower the cranes support legs, rotate and extend the boom and raise and lower the winch
+- The included LEGO City Road Plate can be winched into position, then used for connection to other playsets
 
 [🛒 Buy it now!!]({{< param buyurl >}})
