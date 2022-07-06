@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43198 Disney Anna’s Castle Courtyard Diamond Dress Set  Buildable Princess Toy with Collectable Frozen 2 Mini Doll Figure'
-date: 2022-06-25 19:37:16
+date: 2022-07-06 13:42:32
 image: 'https://m.media-amazon.com/images/I/51e8803LHDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The LEGO Disney Anna’s Castle Courtyard collectable set is a part of new LEGO Disney Diamond Dress toys with 5 different princesses
 - Once the party’s over, kids can use the fountain bottom and Anna’s dress to create a diamond-shaped storage container
-- The buildable Princess toy for kids age 5+ features a courtyard arch with a fountain, Anna mini doll and LEGO Bruni the salamander figures
 - This 74-piece set includes a buildable fountain courtyard and a transforming ‘diamond’ dress designed to store a mini doll figure inside
+- The buildable Princess toy for kids age 5+ features a courtyard arch with a fountain, Anna mini doll and LEGO Bruni the salamander figures
+- The LEGO Disney Anna’s Castle Courtyard collectable set is a part of new LEGO Disney Diamond Dress toys with 5 different princesses
 - This LEGO Disney’s Frozen 2 building toy brings Arendelle’s Harvest Festival celebrations by the fountain with kids favourite characters
 
 [🛒 Buy it!!]({{< param buyurl >}})
