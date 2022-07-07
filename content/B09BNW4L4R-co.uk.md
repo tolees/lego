@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60324 City Great Vehicles Mobile Crane Truck Toy  Construction Vehicle Model Building Set for Boys and Girls 7 Plus Years Old'
-date: 2022-07-05 23:27:43
+date: 2022-07-07 08:41:51
 image: 'https://m.media-amazon.com/images/I/51Pn8USYbbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNW4L4R/?tag=tolees0a-21'
 descuento: '42.84'
-average: '21.14'
+average: '21.064'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- The included LEGO City Road Plate can be winched into position, then used for connection to other playsets
 - Building your city has never been so much fun! When you’re done, secure the winch hook and head out to the next job
 - After driving the truck toy into position, kids can lower the cranes support legs, rotate and extend the boom and raise and lower the winch
-- Includes driver and crane-operator minifigures, and toy accessories - a wrench, walkie-talkie and 2 safety helmets for realistic play
 - This LEGO construction vehicle building set features a mobile toy crane with workable legs, boom and winch, on top of a 6-wheeled truck
-- The included LEGO City Road Plate can be winched into position, then used for connection to other playsets
+- Includes driver and crane-operator minifigures, and toy accessories - a wrench, walkie-talkie and 2 safety helmets for realistic play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
