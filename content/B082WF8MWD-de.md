@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Das Set „LEGO Marvel Super Heroes Hinterhalt des Deviants!“ enthält Superhelden-Figuren aus dem Marvel-Film „The Eternals“ mit ihren coolen Waffen
-- Es enthält zudem eine bewegliche Deviant-Figur mit 6 Beinen und einem Maul, das sich öffnen lässt, einen Dolch, eine Faustwaffe und einen Shooter, um Filmszenen nachzuspielen!
 - Kombiniere es mit anderen Set aus der Reihe LEGO Marvel The Eternals für mehr Spannung und Abenteuer mit authentischen Charakteren aus dem Film
 - Die Spielzeuge von LEGO Marvel für Kinder bieten mega Superhelden-Action und eignen sich für das Spiel allein, in der Gruppe oder als tolle Deko
-- Kinder können die 6 Beine des Deviants in jede Position bewegen, während das Riesenmaul für extra Action sorgt – für maximalen Spaß
+- Es enthält zudem eine bewegliche Deviant-Figur mit 6 Beinen und einem Maul, das sich öffnen lässt, einen Dolch, eine Faustwaffe und einen Shooter, um Filmszenen nachzuspielen!
 - Das LEGO-Marvel-Spielzeug ist ein großartiges Geburtstagsgeschenk für Marvel-Fans ab 6 Jahren und sieht auch als Dekoration im Kinderzimmer fantastisch aus
+- Kinder können die 6 Beine des Deviants in jede Position bewegen, während das Riesenmaul für extra Action sorgt – für maximalen Spaß
 - Mit 3 Minifiguren aus LEGO Marvel The Eternals – Thena, Makkari und Gilgamesh; das einzige Set mit der Gilgamesh-Minifigur!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

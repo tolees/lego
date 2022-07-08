@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enthält einen bunten LEGO Spielzeug-Eiswagen, ein Polizeiauto und eine Kulisse mit einem Geldautomaten sowie 3 Minifiguren, darunter 2 Figuren aus der LEGO City TV-Serie
-- Inklusive gedruckter Anleitung und interaktiver digitaler Bauanleitung in der kostenlosen LEGO App mit intuitiven Zoom- und Drehwerkzeugen
-- Enthält außerdem die Minifigur einer Polizistin, mit der du Nagelsperren aus dem Polizeiauto werfen kannst, um spannende Szenen aus der Serie nachzuspielen
 - Inklusive LEGO Minifiguren Ganove Eis und Ganove Creme. Der Eiswagen verfügt über eine Eiskanone, die LEGO Elemente verschießt
-- Die Polizei-Sets von LEGO City - Abenteuer sind ideale Geschenke für Jungen und Mädchen ab 5 Jahren und eignen sich perfekt zum Geburtstag oder zu jedem anderen Anlass
 - Zu diesem LEGO City Polizeiverfolgung-Set gehören viele lustige Accessoires für fantasievollen Spielspaß, darunter Handschellen, das Brecheisen der Gauner und Eiscreme-Elemente
+- Enthält einen bunten LEGO Spielzeug-Eiswagen, ein Polizeiauto und eine Kulisse mit einem Geldautomaten sowie 3 Minifiguren, darunter 2 Figuren aus der LEGO City TV-Serie
+- Enthält außerdem die Minifigur einer Polizistin, mit der du Nagelsperren aus dem Polizeiauto werfen kannst, um spannende Szenen aus der Serie nachzuspielen
+- Die Polizei-Sets von LEGO City - Abenteuer sind ideale Geschenke für Jungen und Mädchen ab 5 Jahren und eignen sich perfekt zum Geburtstag oder zu jedem anderen Anlass
+- Inklusive gedruckter Anleitung und interaktiver digitaler Bauanleitung in der kostenlosen LEGO App mit intuitiven Zoom- und Drehwerkzeugen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

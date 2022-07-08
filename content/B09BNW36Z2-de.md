@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Begleite den Feuerwehrmann Bob aus der LEGO City TV-Serie an Bord des Feuerwehrautos, fahre zum Einsatzort in die Stadt und schicke die Feuerdrohne hoch, um die Flammen zu löschen
 - Die Kinderspielzeuge von LEGO City - Abenteuer sind wunderbare Geburtstagsgeschenke für Kinder ab 5 Jahren, die actiongeladene Polizeiverfolgungen mit Rettungsfahrzeugen lieben
 - Enthält eine Auswahl an Spielzeug-Rettungsfahrzeugen: ein Feuerwehrauto mit einer Drohne, ein Polizeimotorrad, ein Ganoven-Fluchtfahrzeug und eine Feuerkulisse mit Ampeln
-- Zum Spielzeugzubehör in diesem Set gehören ein Fisch, Handschellen, 2 Walkie-Talkies, 3 Geldscheine und ein Gaunersack
-- Begleite den Feuerwehrmann Bob aus der LEGO City TV-Serie an Bord des Feuerwehrautos, fahre zum Einsatzort in die Stadt und schicke die Feuerdrohne hoch, um die Flammen zu löschen
 - Dieses Spielzeugauto für Jungen und Mädchen ab 5 Jahren umfasst 3 LEGO Minifiguren mit Bob aus der LEGO City TV-Serie und einer Katzenfigur für fantasievolle Abenteuer
 - Mit dem LEGO City Set können die Kinder Wasserelemente mit der Drohne verschießen, die umgekippte Ampel aktivieren und die LEGO Flammen der Feuerkulisse hoch- und runterfahren
+- Zum Spielzeugzubehör in diesem Set gehören ein Fisch, Handschellen, 2 Walkie-Talkies, 3 Geldscheine und ein Gaunersack
 
 [🛒 Buy it now!!]({{< param buyurl >}})
