@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76910 Speed Champions Aston Martin Valkyrie AMR Pro & Vantage GT3  Bausatz mit 2 Rennwagen  Modellautos für Kinder ab 9 Jahre  2022 Kollektion'
-date: 2022-07-02 21:15:51
+date: 2022-07-09 14:44:04
 image: 'https://m.media-amazon.com/images/I/51C6nEpjw0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNW682V-de LEGO 76910 Speed Champions Aston Martin Valkyrie AMR Pro &...'
 sku: 'B09BNW682V-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 29.94 EUR
+actualPrice: 31.99 EUR
 currency: EUR
-price: 29.94
+price: 31.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 76910 Speed Champions Aston Martin Valkyrie AMR Pro & Vantage GT3  Bausatz mit 2 Rennwagen  Modellautos für Kinder ab 9 Jahre  2022 Kollektion'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNW682V/?tag=tolees0ca-21'
-descuento: '25.13'
-average: '29.8085714285715'
+descuento: '20.01'
+average: '30.2933333333334'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
