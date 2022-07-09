@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
 - Comes with 4 LEGO Friends mini dolls: Olivia and William in astronauts suits, Julian, and Dr Vidya
-- Join Olivia as her dreams come true and she gains entry to the Space Academy where she can train to be an astronaut!
 - Features a LEGO Space Shuttle toy, an academy building, mission control with a telescope and a multi-axis trainer
-- Many scientifically accurate elements packed into this educational astronaut toy teach kids about the space program
 - Kids take part in astronaut training, simulate a flight in the toy Space Shuttle, complete a spacewalk & search the cosmos for new galaxies
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
 - This space rocket toy for kids 8+ years old is a rewarding challenge for future astronauts who will love creating a Space Shuttle model
+- Many scientifically accurate elements packed into this educational astronaut toy teach kids about the space program
+- Join Olivia as her dreams come true and she gains entry to the Space Academy where she can train to be an astronaut!
 - The interactive guide lets kids zoom, rotate and view their spaceship toy model in 3D as they build
 
 [🛒 Buy it now!!]({{< param buyurl >}})
