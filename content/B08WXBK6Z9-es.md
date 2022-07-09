@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Revive las escenas de una de las grandes telecomedias de los años 90 con esta maqueta para construir para adultos de Seinfeld, ¡podrás construir con ladrillos LEGO el apartamento de Jerry y todos sus detalles!
-- Incluye 5 mini figuras LEGO de Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes y Newman con elementos representativos como un micrófono, una rosquilla, una caña de pescar, una rebanada de pan y un pez en una bolsa
 - El apartamento de Seinfeld para construir cuenta con una cocina con encimera, frigorífico con una pegatina de Superman, microondas horno y accesorios, además de un salón amueblado y un despacho
-- Esta encantadora maqueta coleccionable es ideal para divertirse a solas o en compañía de familiares y amigos, ¡y queda increíble expuesta como decoración para casa o para la oficina!
+- Incluye 5 mini figuras LEGO de Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes y Newman con elementos representativos como un micrófono, una rosquilla, una caña de pescar, una rebanada de pan y un pez en una bolsa
 - Con divertidos accesorios reales de la serie como un escenario para construir, una figurita, la parte de arriba de un muffin, una cinta de vídeo de Pronóstico Negativo, aire acondicionado Comando 8 y un poste de Festivus
+- Revive las escenas de una de las grandes telecomedias de los años 90 con esta maqueta para construir para adultos de Seinfeld, ¡podrás construir con ladrillos LEGO el apartamento de Jerry y todos sus detalles!
+- Esta encantadora maqueta coleccionable es ideal para divertirse a solas o en compañía de familiares y amigos, ¡y queda increíble expuesta como decoración para casa o para la oficina!
 - Los sets LEGO Ideas son excelentes regalos de cumpleaños o de ocasiones especiales para adultos apasionados por momentos, objetos, series, y lugares icónicos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
