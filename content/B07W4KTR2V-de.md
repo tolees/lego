@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Was lässt eine Stadt wachsen? Mit dem Creator 3-in-1-Set „Spielzeugladen im Stadthaus“ (31105) können sich Kinder als Betreiber eines Spielzeugladens, einer Konditorei oder eines Blumenladens versuchen oder fantasievolle eigene Wege gehen, um ihre Kreativität zu fördern und Baufähigkeiten zu entwickeln.
 - Dieses detailreiche Bauset lässt sich auch mit anderen LEGO Creator 3-in-1-Gebäuden kombinieren, um eine Straße mit unzähligen kreativen Optionen entstehen zu lassen. Darüber hinaus können Kinder etwas völlig Neues mit dem Set bauen.
 - Anzahl der Teile: 554
-- Vom Hersteller empfohlenes Alter: 8+
 - Spielzeugladen im Stadthaus
-- Was lässt eine Stadt wachsen? Mit dem Creator 3-in-1-Set „Spielzeugladen im Stadthaus“ (31105) können sich Kinder als Betreiber eines Spielzeugladens, einer Konditorei oder eines Blumenladens versuchen oder fantasievolle eigene Wege gehen, um ihre Kreativität zu fördern und Baufähigkeiten zu entwickeln.
+- Vom Hersteller empfohlenes Alter: 8+
 
 [🛒 Buy it!!]({{< param buyurl >}})

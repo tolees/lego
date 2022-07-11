@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Inklusive Elsa-Puppe aus dem Disney-Film „Die Eiskönigin 2“ und 2 Rentierfiguren: Sven und ein Baby-Rentier, ein Picknickplatz und eine Startbausteinplatte
+- Enthält Elsas Kutsche mit Platz für 2 Minifiguren, ein Geschirr für das Rentier Sven, einen Stall mit Wassertrog und Lagerfeuer sowie einen Heutrog
 - Zum Zubehör gehören eine Karotte, ein Keks, eine Keksdose, ein Marshmallow und eine Bürste. Die LEGO Spielzeuge für Kinder ab 4 Jahre lassen sich kinderleicht aufbauen
+- Dank der speziellen Startbausteinplatte, die diesem Spielzeug aus dem Disney-Film „Die Eiskönigin 2“ beiliegt, können selbst LEGO Anfänger Werke schaffen, auf die sie stolz sein können
 - Dieses lustige Spielzeug-Bauset für Fans von Disneys „Die Eiskönigin 2“ oder den dazugehörigen Spielzeugsets ist ein ideales Geschenk zum Geburtstag oder zu Weihnachten
 - Kann mit dem LEGO Disney Set „Annas Kanufahrt“ (41165) kombiniert werden, um Kinder ab 4 Jahre noch mehr magische Momente aus „Die Eiskönigin 2“ erleben zu lassen und ihre Feinmotorik zu fördern
-- Dank der speziellen Startbausteinplatte, die diesem Spielzeug aus dem Disney-Film „Die Eiskönigin 2“ beiliegt, können selbst LEGO Anfänger Werke schaffen, auf die sie stolz sein können
-- Enthält Elsas Kutsche mit Platz für 2 Minifiguren, ein Geschirr für das Rentier Sven, einen Stall mit Wassertrog und Lagerfeuer sowie einen Heutrog
-- Inklusive Elsa-Puppe aus dem Disney-Film „Die Eiskönigin 2“ und 2 Rentierfiguren: Sven und ein Baby-Rentier, ein Picknickplatz und eine Startbausteinplatte
 
 [🛒 Buy it!!]({{< param buyurl >}})

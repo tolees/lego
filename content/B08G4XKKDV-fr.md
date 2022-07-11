@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Une brique de démarrage permet de construire rapidement, ce qui laisse plus de temps pour jouer ! Un jouet qui assurera des heures de divertissement
-- En plus des instructions papier, les instructions numériques de lapplication LEGO Life, permettent aux enfants de zoomer, faire pivoter et visualiser le set quils construisent
 - Cette voiture jouet compacte arbore un design inspirée des chats et comprend un chaton, un salon de toilettage des chats, les mini-poupées LEGO Friends Emma et Mia, ainsi quun chat et une figurine de chaton
+- En plus des instructions papier, les instructions numériques de lapplication LEGO Life, permettent aux enfants de zoomer, faire pivoter et visualiser le set quils construisent
 - Grâce à ce jouet, les enfants de 4 ans et plus samuseront à imaginer quils vont récupérer des chats dans la voiture et les relooker au salon de toilettage pour chatons
+- Une brique de démarrage permet de construire rapidement, ce qui laisse plus de temps pour jouer ! Un jouet qui assurera des heures de divertissement
 - Ce jeu de construction est rempli daccessoires mignons, dont un biscuit pour chat, un biberon pour chaton, une perruque, des ciseaux, une brosse à cheveux et un billet de banque
 
 [🛒 Check the deal!!]({{< param buyurl >}})

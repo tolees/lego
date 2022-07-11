@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Perfect for little hands to pick up and place, it includes building cards showing life-size images of the models. Check out the cute dog!
-- While basic construction improves fine motor skills, the role-playing rescue missions strengthen social and emotional skills
-- For toddlers aged 18 months and up, this playset has it all: hands-on creativity, imaginative play possibilities and developmental benefits
 - Features a brightly coloured buildable helicopter toy with spinnable rotor and a push-along police car with siren brick (no noise)
 - Kids aged 1.5+ can position the different shaped bricks over the images as they build, while parents teach their child about colours and shapes
+- Perfect for little hands to pick up and place, it includes building cards showing life-size images of the models. Check out the cute dog!
+- For toddlers aged 18 months and up, this playset has it all: hands-on creativity, imaginative play possibilities and developmental benefits
+- While basic construction improves fine motor skills, the role-playing rescue missions strengthen social and emotional skills
 
 [🛒 Buy it!!]({{< param buyurl >}})
