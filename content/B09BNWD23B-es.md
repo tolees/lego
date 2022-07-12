@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Los peques podrán ir a toda velocidad por GOTHAM con Batman y Catwoman, ¡pero Batman debe responder cuando la Batseñal empiece a brillar!
-- Batman está listo para luchar contra el crimen con su Batarang y pistola gancho, Selina lleva una cadena en la mano... ¡la aventura va a comenzar!
-- Esté versátil set de juego es un gran regalo de cumpleaños o Navidad para fans de Batman y para cualquier joven aficionado a las motos
-- El set de superhéroes de LEGO contiene 2 motos de aspecto imponente y 2 mini figuras: Batman, con una capa textil, y Selina Kyle, «Catwoman»
-- Este juguete de construcción de LEGO Batman para niños y niñas a partir de 6 años incluye un Batarang, una pistola gancho, una joya y una Batseñal que brilla en la oscuridad
 - La app gratuita Instrucciones de Montaje LEGO contiene una guía digital, que los peques podrán usar para acercar, rotar y visualizar su juguete
+- Este juguete de construcción de LEGO Batman para niños y niñas a partir de 6 años incluye un Batarang, una pistola gancho, una joya y una Batseñal que brilla en la oscuridad
+- El set de superhéroes de LEGO contiene 2 motos de aspecto imponente y 2 mini figuras: Batman, con una capa textil, y Selina Kyle, «Catwoman»
+- Batman está listo para luchar contra el crimen con su Batarang y pistola gancho, Selina lleva una cadena en la mano... ¡la aventura va a comenzar!
+- Los peques podrán ir a toda velocidad por GOTHAM con Batman y Catwoman, ¡pero Batman debe responder cuando la Batseñal empiece a brillar!
+- Esté versátil set de juego es un gran regalo de cumpleaños o Navidad para fans de Batman y para cualquier joven aficionado a las motos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
