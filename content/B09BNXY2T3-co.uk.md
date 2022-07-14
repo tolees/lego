@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42134 Technic Monster Jam Megalodon 2 in 1 Pull Back Shark Truck to Lusca Low Racer Car Toy  2022 Series  Set for Boys and Girls 7 Plus Years Old'
-date: 2022-07-12 23:02:16
+date: 2022-07-14 03:38:58
 image: 'https://m.media-amazon.com/images/I/51YnX9NfPPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Technic toy features distinctive shark teeth, plus fins that move as the vehicle powers along, inspired by the legendary sea monster
-- Kids can perform impressive jumps and use the pull-back action to send their truck through rough terrain – just like a real monster truck
 - Inspired by the Caribbean mythical sea monster, lusca, this racing car toy combines a shark and a squid to create a fearsome vehicle
-- LEGO Technic buildable models offer a fun introduction to engineering & make wonderful, inspiring gifts for boys and girls 7 years old
-- Features LEGO Technic 2 in 1 Monster Jam Megalodon pull back toy truck that rebuilds into a lusca Low Racer low rider car toy
+- Kids can perform impressive jumps and use the pull-back action to send their truck through rough terrain – just like a real monster truck
 - After impressive monster truck toy tricks, rebuild the model into a low-rider racer car with pull-back action for fast-paced play
+- Features LEGO Technic 2 in 1 Monster Jam Megalodon pull back toy truck that rebuilds into a lusca Low Racer low rider car toy
+- This LEGO Technic toy features distinctive shark teeth, plus fins that move as the vehicle powers along, inspired by the legendary sea monster
+- LEGO Technic buildable models offer a fun introduction to engineering & make wonderful, inspiring gifts for boys and girls 7 years old
 
 [🛒 Buy it now!!]({{< param buyurl >}})
