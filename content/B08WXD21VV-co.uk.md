@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This 1901-pieces large LEGO set is 14 in/36 cm long & 23 in/59 cm wide, it makes a great Guardians of the Galaxy gift for Marvel Avengers fans
-- Includes Star-Lord, Groot, Rocket, Mantis, Thor and Chitauri warrior LEGO minifigures, plus cool weapons and accessories
-- It’s cool on the inside as it is on the outside, with a sturdy, rotatable stand allowing the spaceship to be positioned for a dynamic display
-- Features the iconic Guardians of the Galaxy LEGO spaceship with an opening cockpit and room for all the LEGO Marvel minifigures from the set
 - Fun features include a weapon store, computer and a place for the LEGO Marvel Avengers minifigures to snack on coffee and doughnuts
+- This 1901-pieces large LEGO set is 14 in/36 cm long & 23 in/59 cm wide, it makes a great Guardians of the Galaxy gift for Marvel Avengers fans
+- Features the iconic Guardians of the Galaxy LEGO spaceship with an opening cockpit and room for all the LEGO Marvel minifigures from the set
+- It’s cool on the inside as it is on the outside, with a sturdy, rotatable stand allowing the spaceship to be positioned for a dynamic display
+- Includes Star-Lord, Groot, Rocket, Mantis, Thor and Chitauri warrior LEGO minifigures, plus cool weapons and accessories
 
 [🛒 Buy it now!!]({{< param buyurl >}})

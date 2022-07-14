@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inspired by the Caribbean mythical sea monster, lusca, this racing car toy combines a shark and a squid to create a fearsome vehicle
-- Kids can perform impressive jumps and use the pull-back action to send their truck through rough terrain – just like a real monster truck
-- After impressive monster truck toy tricks, rebuild the model into a low-rider racer car with pull-back action for fast-paced play
 - Features LEGO Technic 2 in 1 Monster Jam Megalodon pull back toy truck that rebuilds into a lusca Low Racer low rider car toy
-- This LEGO Technic toy features distinctive shark teeth, plus fins that move as the vehicle powers along, inspired by the legendary sea monster
+- After impressive monster truck toy tricks, rebuild the model into a low-rider racer car with pull-back action for fast-paced play
+- Inspired by the Caribbean mythical sea monster, lusca, this racing car toy combines a shark and a squid to create a fearsome vehicle
 - LEGO Technic buildable models offer a fun introduction to engineering & make wonderful, inspiring gifts for boys and girls 7 years old
+- Kids can perform impressive jumps and use the pull-back action to send their truck through rough terrain – just like a real monster truck
+- This LEGO Technic toy features distinctive shark teeth, plus fins that move as the vehicle powers along, inspired by the legendary sea monster
 
 [🛒 Buy it now!!]({{< param buyurl >}})

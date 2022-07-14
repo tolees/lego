@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
-- Next, let them mobilise the net-shooter helicopter, board the super-tough armoured truck, and help the police save the day!
-- Includes 5 LEGO City Adventures TV series characters: Betty, Hacksaw Hank, Vito, Rooky Partnur and Sam Grizzled, plus a crook minifigure
-- This LEGO police toy set comes with lots of fun accessories, including banknotes, a glow-in-the-dark flashlight, phone and handcuff elements
-- Kids can fold out the heist truck to reveal a cherry picker arm with a jackhammer and crash out parts of the bank wall to remove the gold
-- Features a 2-floors multifunctional bank building, crooks’ heist truck toy, police helicopter and truck, plus a toy drone for lots of chase
 - Also includes a Road Plate for easy connection to other new LEGO City sets: LEGO City Police Station (60316) or Fire Station (60320)
 - LEGO City Adventures police sets can be given as a birthday or any-other-day gift for kids 7 + years old
+- This LEGO police toy set comes with lots of fun accessories, including banknotes, a glow-in-the-dark flashlight, phone and handcuff elements
+- Includes 5 LEGO City Adventures TV series characters: Betty, Hacksaw Hank, Vito, Rooky Partnur and Sam Grizzled, plus a crook minifigure
+- Next, let them mobilise the net-shooter helicopter, board the super-tough armoured truck, and help the police save the day!
+- Features a 2-floors multifunctional bank building, crooks’ heist truck toy, police helicopter and truck, plus a toy drone for lots of chase
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
+- Kids can fold out the heist truck to reveal a cherry picker arm with a jackhammer and crash out parts of the bank wall to remove the gold
 
 [🛒 Check the deal!!]({{< param buyurl >}})

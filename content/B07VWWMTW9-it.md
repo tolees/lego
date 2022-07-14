@@ -29,7 +29,7 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Esplora Isla Nublar e Isla Sorna: colloca i dinosauri di tua creazione nei recinti mentre completi le missioni di gioco libero
-- Semina distruzione nei panni dei dinosauri LEGO: scegli tra 20 dinosauri, inclusi gli amichevoli triceratopi, i letali velociraptor e persino il possente T. Rex
 - Personalizza la tua collezione di dinosauri: raccogli lambra LEGO e sperimenta con il DNA per creare dei dinosauri completamente originali
+- Semina distruzione nei panni dei dinosauri LEGO: scegli tra 20 dinosauri, inclusi gli amichevoli triceratopi, i letali velociraptor e persino il possente T. Rex
 
 [🛒 Buy it!!]({{< param buyurl >}})

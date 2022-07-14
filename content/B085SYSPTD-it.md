@@ -29,8 +29,8 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - La collezione Lego Marvel include tre giochi Lego Marvel: Lego Marvel Super Heroes, Lego Marvel Avengers e Lego Marvel Super Heroes, più tutto il contenuto del Season Pass di ogni gioco!
-- Lego Marvel Avengers: fiondati nelluniverso cinematografico Marvel vestendo i panni dei personaggi più famosi e seguendo le storie di alcuni dei film più acclamati; e cè tanto altro ancora da scoprire!
 - Lego Marvel Super Heroes 2: unisciti ai tuoi Super eroi e Super cattivi preferiti provenienti da ere e realtà diverse mentre si scontrano con Kang il conquistatore e viaggiatore del tempo in unavventura originale inedita!
+- Lego Marvel Avengers: fiondati nelluniverso cinematografico Marvel vestendo i panni dei personaggi più famosi e seguendo le storie di alcuni dei film più acclamati; e cè tanto altro ancora da scoprire!
 - Lego Marvel Super Heroes: Vesti i panni di diversi personaggi mentre uniscono le forze per impedire a Loki e a unorda di Criminali Marvel di assemblare unarma capace di distruggere il pianeta
 
 [🛒 Buy it!!]({{< param buyurl >}})
