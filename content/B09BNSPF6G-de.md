@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10980 DUPLO Bauplatte in Grün  Grundplatte für DUPLO Sets  Konstruktionsspielzeug für Kleinkinder'
-date: 2022-07-14 03:40:59
+date: 2022-07-15 20:28:56
 image: 'https://m.media-amazon.com/images/I/41NBsgqD1UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
