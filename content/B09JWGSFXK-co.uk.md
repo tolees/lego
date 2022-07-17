@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The throne comes with a pop-up function to eject Bib Fortuna and a secret chamber containing weapons and beskar bar elements
-- LEGO Star Wars buildable toys for kids allow them to recreate memorable scenes, make up new adventures and display the building toys
-- Includes 7 LEGO Star Wars minifigures: Boba Fett, Fennec Shand, Bib Fortuna, a Theelin Dancer, Weequay Guard, Gamorrean Guard and a Quarren
-- The Star Wars buildable model of Jabba’s palace also has shaking steps to topple a guard, an opening gate and more!
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
-- Fold out the front of the buildable model and open the back to reveal a kitchen & barbecue area with a rotisserie, plus fun accessory elements
 - This toy for kids 9+ years old makes a great birthday present or special gift to kids who are into Star Wars: The Book of Boba Fett
+- Fold out the front of the buildable model and open the back to reveal a kitchen & barbecue area with a rotisserie, plus fun accessory elements
+- LEGO Star Wars buildable toys for kids allow them to recreate memorable scenes, make up new adventures and display the building toys
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
+- The Star Wars buildable model of Jabba’s palace also has shaking steps to topple a guard, an opening gate and more!
+- Includes 7 LEGO Star Wars minifigures: Boba Fett, Fennec Shand, Bib Fortuna, a Theelin Dancer, Weequay Guard, Gamorrean Guard and a Quarren
 - Star Wars: The Book of Boba Fett fans can recreate details of the throne room and other parts of Jabba’s palace with this LEGO Star Wars set
+- The throne comes with a pop-up function to eject Bib Fortuna and a secret chamber containing weapons and beskar bar elements
 
 [🛒 Check the deal!!]({{< param buyurl >}})

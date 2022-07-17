@@ -28,13 +28,13 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Lorsque les filles ou garçons tirent le char, sa fonction de rotation permet à la roue de tourner, elle est également amovible pour être utilisée séparément
-- Une poignée torsadée permet aux mini poupées de tourbillonner autour de la barre afin que les enfants puissent prétendre être en plein spectacle
-- Les éléments LEGO sont conformes aux normes les plus strictes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent facilement, et cela depuis 1958
+- Ce jouet parc à thème acrobatique LEGO Friends propose un set de gymnastique, avec une figurine de cheval, un char de carnaval et une barre
+- Les accessoires comprennent une bouteille d’eau et des drapeaux colorés - le cadeau LEGO idéal pour les garçons et les filles âgés de 6 ans et plus qui aiment jouer aux jeux créatifs
 - Compatible avec d’autres ensembles LEGO Friends : Les montagnes russes de la fête foraine magique 41685, Les stands de la fête foraine magique 41687 ou La roulotte magique 41688
+- Lorsque les filles ou garçons tirent le char, sa fonction de rotation permet à la roue de tourner, elle est également amovible pour être utilisée séparément
 - Inclut 2 mini poupées LEGO Friends Olivia et Stella, vêtues de tenues de scène, prêtes à effectuer des figures acrobatiques
 - Découvrez également le set La grande roue et le toboggan magiques 41689 LEGO Friends
-- Les accessoires comprennent une bouteille d’eau et des drapeaux colorés - le cadeau LEGO idéal pour les garçons et les filles âgés de 6 ans et plus qui aiment jouer aux jeux créatifs
-- Ce jouet parc à thème acrobatique LEGO Friends propose un set de gymnastique, avec une figurine de cheval, un char de carnaval et une barre
+- Une poignée torsadée permet aux mini poupées de tourbillonner autour de la barre afin que les enfants puissent prétendre être en plein spectacle
+- Les éléments LEGO sont conformes aux normes les plus strictes du secteur du jouet ; ils sont compatibles entre eux, s’assemblent et se séparent facilement, et cela depuis 1958
 
 [🛒 Buy it!!]({{< param buyurl >}})

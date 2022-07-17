@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Mit diesem baubaren LEGO Mandalorian Set können Fans die Rückkehr von Luke Skywalker in der 2. Staffel von Star Wars: The Mandalorian nachstellen
 - Das Set enthält 4 LEGO Star Wars Minifiguren: Luke Skywalker mit Lichtschwert und 3 Dark Troopers mit Blaster-Gewehren
-- Enthält eine detaillierte Nachbildung der Szene im Inneren des imperialen Leichten Kreuzers, in der Luke Skywalker wieder auftaucht
-- Das LEGO Star Wars Set enthält einen Drehaufzug, eine rotierende Duellplattform und eine gleitende „Macht“-Plattform zur Abwehr eines Dark Troopers
+- Mit diesem baubaren LEGO Mandalorian Set können Fans die Rückkehr von Luke Skywalker in der 2. Staffel von Star Wars: The Mandalorian nachstellen
 - Das Luke Skywalker vs. Dark Troopers Set passt zusammen mit den LEGO Minifiguren in den Rucksack und kann so auch unterwegs gespielt werden
+- Das LEGO Star Wars Set enthält einen Drehaufzug, eine rotierende Duellplattform und eine gleitende „Macht“-Plattform zur Abwehr eines Dark Troopers
+- Enthält eine detaillierte Nachbildung der Szene im Inneren des imperialen Leichten Kreuzers, in der Luke Skywalker wieder auftaucht
 
 [🛒 Buy it!!]({{< param buyurl >}})

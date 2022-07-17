@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Includes a posable Atrociraptor figure, a toy motorbike, 2 small toy dinosaur figures, and a brick-built market
-- Check out LEGO Jurassic World: 76948 T. rex & Atrociraptor Dinosaur Breakout and 76946 Blue and Beta Velociraptor Capture for even more action
-- Kids can relive the adventures of the Jurassic World: Dominion movie with this LEGO dinosaur toy playset for kids age 6+
-- Children can roleplay exciting action with 2 LEGO Jurassic World minifigures, Owen Grady and Rainn Delacourt, with a tranquilizer gun element
 - This LEGO Jurassic World dinosaur toy for kids makes a great birthday or any time gift for dinosaur or vehicle fans age 6+
+- Includes a posable Atrociraptor figure, a toy motorbike, 2 small toy dinosaur figures, and a brick-built market
 - The market has an easy-to-reset collapsible wall for the motorbike or dinosaur to smash through and rotating battle pit for the small dinosaurs
+- Children can roleplay exciting action with 2 LEGO Jurassic World minifigures, Owen Grady and Rainn Delacourt, with a tranquilizer gun element
+- Kids can relive the adventures of the Jurassic World: Dominion movie with this LEGO dinosaur toy playset for kids age 6+
+- Check out LEGO Jurassic World: 76948 T. rex & Atrociraptor Dinosaur Breakout and 76946 Blue and Beta Velociraptor Capture for even more action
 
 [🛒 Buy it!!]({{< param buyurl >}})

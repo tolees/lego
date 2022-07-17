@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spider-Man minifigure can climb into the drone via the opening hatch to spin the rotors and have a stud-shooter battle with the winged Vulture
-- Features a giant, buildable drone with 4 rotors and 2 stud shooters, and 2 minifigures to inspire imaginative play – Spider-Man and Vulture
+- This Spider-Man building toy for kids age 7+ puts Spider-Man action into kids’ hands & makes an awesome Christmas or birthday gift
 - This versatile superhero Marvel construction set helps to develop the creative skills of Marvel movie fans at home or on the go
 - Kids can attach Spider-Man to the drone’s underside using a long line of spiderweb and engage in imaginative adventures in the air & on land
-- This Spider-Man building toy for kids age 7+ puts Spider-Man action into kids’ hands & makes an awesome Christmas or birthday gift
+- Spider-Man minifigure can climb into the drone via the opening hatch to spin the rotors and have a stud-shooter battle with the winged Vulture
+- Features a giant, buildable drone with 4 rotors and 2 stud shooters, and 2 minifigures to inspire imaginative play – Spider-Man and Vulture
 
 [🛒 Check the deal!!]({{< param buyurl >}})
