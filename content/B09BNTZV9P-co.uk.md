@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41950 DOTS Lots of DOTS - Lettering Tiles for Message Boards & Room Décor Accessories  DIY Craft Kit for Kids'
-date: 2022-07-16 13:43:08
+date: 2022-07-17 15:23:42
 image: 'https://m.media-amazon.com/images/I/51AaTeGffML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The included leaflet comes with lots of inspiration for alphabets and designs to help inspire kids’ inventiveness
-- DIY LEGO crafts sets for kids aged 6+ make a great birthday or any time gift for kids as they express their individuality
-- 700+ tiles include a range of colours and shapes to help kids personalise fonts and lettering to write whatever they want
-- DOTS sets introduce kids to the joy of LEGO play and creativity as they make and decorate the different items
 - Kids craft kit features LEGO DOTS lettering kit with Lots of DOTS to customise message boards, room decor accessories or other LEGO sets
+- DOTS sets introduce kids to the joy of LEGO play and creativity as they make and decorate the different items
+- DIY LEGO crafts sets for kids aged 6+ make a great birthday or any time gift for kids as they express their individuality
+- The included leaflet comes with lots of inspiration for alphabets and designs to help inspire kids’ inventiveness
+- 700+ tiles include a range of colours and shapes to help kids personalise fonts and lettering to write whatever they want
 
 [🛒 Check the deal!!]({{< param buyurl >}})

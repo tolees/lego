@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71765 NINJAGO Ninja Ultra Combo Mech 4 in 1 Set with Car  Jet Plane  Tank Toys and 7 Minifigures  Playset with Collectible Mission Banner'
-date: 2022-07-16 13:47:00
+date: 2022-07-17 15:29:04
 image: 'https://m.media-amazon.com/images/I/51OyeBh5kUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO NINJAGO toys, action figures and toy car sets make fabulous birthday gifts for kids 9 + years old who are into ninja battles, cars
 - On their own, the ninjas are no match for Cobra Mechanic and Boa Destructor, but when they come together, they prevail and win!
-- Look out for banners in 7 other sets, including Lloyd’s Legendary Dragon 71766, Jay and Nya’s Race Car EVO 71776 and Ninja Dojo Temple 71767
+- LEGO NINJAGO toys, action figures and toy car sets make fabulous birthday gifts for kids 9 + years old who are into ninja battles, cars
 - This 4 in 1 LEGO NINJAGO set features an action mech toy figure consisting of a mech, car, tank and jet that can all be played with separately
 - Includes 7 LEGO NINJAGO minifigures: Kai, Jay, Zane and Cole, the evil snake duo of Cobra Mechanic and Boa Destructor, plus Wu Bot
+- Look out for banners in 7 other sets, including Lloyd’s Legendary Dragon 71766, Jay and Nya’s Race Car EVO 71776 and Ninja Dojo Temple 71767
 - The Ninja Ultra Combo Mech made from 4 different vehicles is the ultimate fighting machine to play out ninja stories with kids heroes
 - After completing their mission, kids will be rewarded with a collectible Teamwork banner
 
