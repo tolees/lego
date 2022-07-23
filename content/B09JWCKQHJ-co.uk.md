@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60350 City Lunar Research Base Outer Space Set  NASA Inspired Lunar Lander  Rover & Moon Buggy with 6 Astronaut Minifigures'
-date: 2022-07-14 23:28:09
+date: 2022-07-23 11:42:28
 image: 'https://m.media-amazon.com/images/I/510wT10FoaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09JWCKQHJ/?tag=tolees0a-21'
 descuento: '20.00'
-average: '68.82'
+average: '70.405'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes domed accommodation quarters with a botany lab and ground-level garage, plus a science lab, air lock and docking tunnel modules
-- Combine with other LEGO City sets: Lunar Space Station 60349, Rocket Launch Centre 60351 and Lunar Roving Vehicle 60348 for more fun!
+- LEGO Building Instructions app for smartphones and tablets lets kids zoom, rotate & view models from all angles as they build
 - This LEGO City outer space toy for 7+ year olds makes an out-of-this-world birthday gift for kids and space fans
 - The LEGO NASA - inspired toy moon base set is packed with details for imaginative space play plus 6 LEGO astronaut minifigures
-- LEGO Building Instructions app for smartphones and tablets lets kids zoom, rotate & view models from all angles as they build
+- Combine with other LEGO City sets: Lunar Space Station 60349, Rocket Launch Centre 60351 and Lunar Roving Vehicle 60348 for more fun!
 - Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
+- Includes domed accommodation quarters with a botany lab and ground-level garage, plus a science lab, air lock and docking tunnel modules
 - This LEGO space set features a domed toy Lunar Research Base, a LEGO lunar lander, skycrane drone, VIPER rover and a moon buggy
 
 [🛒 Check the deal!!]({{< param buyurl >}})
