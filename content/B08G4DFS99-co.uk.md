@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71747 NINJAGO The Keepers  Village Building Set  with Ninja Cole  Jay and Kai Minifigures  Toys for Kids 8 + Years Old'
-date: 2022-07-12 22:47:50
+date: 2022-07-27 18:53:42
 image: 'https://m.media-amazon.com/images/I/51vrXUI2zuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4DFS99/?tag=tolees0a-21'
 descuento: '26.67'
-average: '32.3231999999999'
+average: '32.3488461538461'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
-- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
 - LEGO NINJAGO provides a fun toy build for kids aged 8 and up and will make a very welcome birthday or holiday present for ninja lovers
+- The village build features a prison cell inside a dragon’s head, a dangerous trap disguised as a leaf, hidden shooters and a stone pillar
+- The stone pillar can separate into 3 fierce-looking characters, ensuring many stories may be played out with multiple buddying ninjas
+- Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
 - Look out for more NINJAGO sets including Lloyd’s Jungle Chopper Bike (71745), Jungle Dragon (71746) and Catamaran Sea Battle (71748)
 - Includes 5 minifigures: Island Cole, Island Jay, Island Kai, Chief Mammatus and Thunder Keeper, all wielding cool weapons
-- Features a highly detailed and interactive island jungle lair so kids can re-enact amazing battle scenes from the LEGO NINJAGO TV series
 - Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
