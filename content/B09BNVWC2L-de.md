@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mit einem von der LEGO NASA inspirierten Mond-Rover-Modell, einer Mondlandschaft mit Meteor zu bauen und 3 LEGO Astronauten-Minifiguren
+- Dieses LEGO Set aus der Weltraum-Serie wird mit lustigen Accessoires geliefert, wie einer Säge, einer Schaufel, einem Mondoberflächenscanner und Helmen
 - Enthält eine gedruckte bebilderte & eine digitale Bauanleitung, die in der kostenlosen LEGO Bauanleitung App verfügbar ist
 - Der Mond-Rover verfügt über 12 Räder, die sich in jede Richtung lenken lassen und viele Funktionen, die einem echten Mond-Rover nachempfunden sind
+- Mit einem von der LEGO NASA inspirierten Mond-Rover-Modell, einer Mondlandschaft mit Meteor zu bauen und 3 LEGO Astronauten-Minifiguren
 - Nach dem Bau kann das LEGO Weltraum-Spielzeug überallhin mitgenommen werden
-- Dieses LEGO Set aus der Weltraum-Serie wird mit lustigen Accessoires geliefert, wie einer Säge, einer Schaufel, einem Mondoberflächenscanner und Helmen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
