@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- After completing their mission, a Wisdom banner is rewarded for display on the dojo’s roof with banners won in other sets (sold separately)
 - Includes 8 LEGO NINJAGO minifigures: Lloyd, Kai, Cole, Nya, Pixal and Master Wu, plus the snake warriors Boa Destructor and Cobra Mechanic
-- Kids can join the ninjas at their secret dojo to become masters of Spinjitzu, but the sneaky snakes are busting open the doors with a rammer!
+- After completing their mission, a Wisdom banner is rewarded for display on the dojo’s roof with banners won in other sets (sold separately)
 - The LEGO NINJAGO dojo sets 5 rooms include Wu’s tearoom, Pixal’s workshop and an armoury packed with weapons for endless play options
 - Kids help train their heroes with this 3-tiered LEGO NINJAGO Masters of Spinjitzu Ninja Dojo Temple featuring a training area and 5 rooms
+- Kids can join the ninjas at their secret dojo to become masters of Spinjitzu, but the sneaky snakes are busting open the doors with a rammer!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO City Adventures police sets can be given as a birthday or any-other-day gift for kids 7 years old
 - Also includes a Road Plate for easy connection to other new LEGO City sets: LEGO City Police Station (60316) or Fire Station (60320)
-- Includes 5 LEGO City Adventures TV series characters: Betty, Hacksaw Hank, Vito, Rooky Partnur and Sam Grizzled, plus a crook minifigure
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
+- This LEGO police toy set comes with lots of fun accessories, including banknotes, a glow-in-the-dark flashlight, phone and handcuff elements
+- LEGO City Adventures police sets can be given as a birthday or any-other-day gift for kids 7 years old
 - Features a 2-floors multifunctional bank building, crooks’ heist truck toy, police helicopter and truck, plus a toy drone for lots of chase
 - Next, let them mobilise the net-shooter helicopter, board the super-tough armoured truck, and help the police save the day
-- This LEGO police toy set comes with lots of fun accessories, including banknotes, a glow-in-the-dark flashlight, phone and handcuff elements
+- Includes 5 LEGO City Adventures TV series characters: Betty, Hacksaw Hank, Vito, Rooky Partnur and Sam Grizzled, plus a crook minifigure
 - Kids can fold out the heist truck to reveal a cherry picker arm with a jackhammer and crash out parts of the bank wall to remove the gold
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
 
 [🛒 Check the deal!!]({{< param buyurl >}})

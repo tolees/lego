@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - It has 2 bedrooms, 1 with a bathroom and toilet, 2nd with with bunk beds, plus a balcony and rooftop pool, a kitchen and a living room
-- Features LEGO Friends beach holiday modular dolls house with a swimming pool that can be reconfigured into 2 or 3 separate buildings
-- Show kids around the fun world of Heartlake City where they’ll learn that the best times are spent with friends
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
-- Includes 4 LEGO Friends characters, with LEGO Friends Mia mini doll, dolphin and cat figures and lots of dolls house accessories
-- From the games controllers to the air pump used to inflate the banana boat, there are lots of elements included to fire imaginative play
 - Outside, there’s a table-tennis table, 2 electric scooters, a jetty and an inflatable banana boat for thrilling action on the waves
+- Features LEGO Friends beach holiday modular dolls house with a swimming pool that can be reconfigured into 2 or 3 separate buildings
 - This colourful summer toy is a fun birthday toy gift idea for kids aged 7 sure to delight boys and girls who love vacation play
+- Includes 4 LEGO Friends characters, with LEGO Friends Mia mini doll, dolphin and cat figures and lots of dolls house accessories
+- Show kids around the fun world of Heartlake City where they’ll learn that the best times are spent with friends
+- From the games controllers to the air pump used to inflate the banana boat, there are lots of elements included to fire imaginative play
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
 
 [🛒 Buy it now!!]({{< param buyurl >}})

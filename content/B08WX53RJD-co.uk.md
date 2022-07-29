@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Kids can explore nature, care for animals, clean the stables, put the dog to bed in its kennel, then toast marshmallows on the campfire
+- Accessories include riding helmets, saddles, bridles, a pitchfork, brush, broom, kitchen utensils, marshmallows and a white cane for Savannah
+- Check on other LEGO Friends summer adventures sets: Forest Waterfall (41677), Forest House (41679) and Forest Camper Van and Sailboat (41681)
+- Includes 2 horse toys, with hinged movable heads, and a pony for young Kevin, for immersive summer adventures roleplay
 - The set makes a great Christmas or birthday LEGO gift for kids aged 7+ who love animals, ideal for immersive solo or with friends play
 - This LEGO Friends horse riding toy features a 3-floors ranch with a horse stable, pony pen and a kitchen, bedroom and dining area above
 - The horse riding toy for girls and boys comes with 7 figures: LEGO Friends Mia and Savannah, a micro doll Kevin and Goldie the dog toy
-- Accessories include riding helmets, saddles, bridles, a pitchfork, brush, broom, kitchen utensils, marshmallows and a white cane for Savannah
-- Includes 2 horse toys, with hinged movable heads, and a pony for young Kevin, for immersive summer adventures roleplay
-- Check on other LEGO Friends summer adventures sets: Forest Waterfall (41677), Forest House (41679) and Forest Camper Van and Sailboat (41681)
-- Kids can explore nature, care for animals, clean the stables, put the dog to bed in its kennel, then toast marshmallows on the campfire
 
 [🛒 Buy it!!]({{< param buyurl >}})
