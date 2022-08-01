@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- El juguete de combate ninja incluye también una pequeña fábrica Nindroide para construir y una plataforma de combate giratoria que Zane usará para derribar a su oponente en sus intensos enfrentamientos.
 - Set de Batalla Legendaria: Zane vs. Nindroide
-- Edad recomendada por el fabricante: 6+
-- Este juego de juguetes ninja cuenta con 2 minifiguras: Zane (novedad en enero de 2021) y un Nindroide Legacy de la serie para televisión NINJAGO; además, contiene 4 exclusivas Armas Blancas.
 - Número de piezas: 57
+- Edad recomendada por el fabricante: 6+
+- El juguete de combate ninja incluye también una pequeña fábrica Nindroide para construir y una plataforma de combate giratoria que Zane usará para derribar a su oponente en sus intensos enfrentamientos.
+- Este juego de juguetes ninja cuenta con 2 minifiguras: Zane (novedad en enero de 2021) y un Nindroide Legacy de la serie para televisión NINJAGO; además, contiene 4 exclusivas Armas Blancas.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
