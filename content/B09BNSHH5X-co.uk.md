@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Kids can zoom, rotate and view the model from all angles as they build with the free LEGO Building Instructions app for smartphones & tablets
+- The cement mixer truck toy&039;s spinnable mixing drum delivers concrete elements from the fold-out chute at the rear of the vehicle
 - This toy construction vehicle features an opening driver’s cab and spinnable mixing drum, plus 2 worker minifigures for lots of role play
 - Kids can drive to the construction site, put out the road sign and use the jackhammer and wheelbarrow to clear the old foundation
-- The cement mixer truck toy&039;s spinnable mixing drum delivers concrete elements from the fold-out chute at the rear of the vehicle
-- Kids can zoom, rotate and view the model from all angles as they build with the free LEGO Building Instructions app for smartphones & tablets
 - This preschool learning toy for kids 4 years old includes a LEGO Starter Brick element to get even young children to start building
 
 [🛒 Buy it now!!]({{< param buyurl >}})
