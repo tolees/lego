@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71731 Ninjago Set de Batalla Legendaria: Zane vs. Nindroide'
-date: 2022-08-02 03:11:27
+date: 2022-08-03 10:49:24
 image: 'https://m.media-amazon.com/images/I/518IIIJVtoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4D2NCG/?tag=tolees-21'
 descuento: '24.45'
-average: '9.5039393939394'
+average: '9.48882352941177'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- El juguete de combate ninja incluye también una pequeña fábrica Nindroide para construir y una plataforma de combate giratoria que Zane usará para derribar a su oponente en sus intensos enfrentamientos.
+- Edad recomendada por el fabricante: 6+
 - Set de Batalla Legendaria: Zane vs. Nindroide
 - Este juego de juguetes ninja cuenta con 2 minifiguras: Zane (novedad en enero de 2021) y un Nindroide Legacy de la serie para televisión NINJAGO; además, contiene 4 exclusivas Armas Blancas.
-- El juguete de combate ninja incluye también una pequeña fábrica Nindroide para construir y una plataforma de combate giratoria que Zane usará para derribar a su oponente en sus intensos enfrentamientos.
 - Número de piezas: 57
-- Edad recomendada por el fabricante: 6+
 
 [🛒 Buy it now!!]({{< param buyurl >}})
