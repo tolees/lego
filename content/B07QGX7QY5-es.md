@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Número de piezas: 701
 - El divertido juguete infantil incluye también un trineo con 3 carruajes para pasarlo genial en la nieve
+- Edad recomendada por el fabricante: 6+
 - Este precioso set contiene un palacio con puente deslizante y escalera giratoria, balcón translúcido, cocina con mesa y sillas, y sala de música con atril y partitura, además de un parque de juegos al aire libre con fuerte de nieve y subibaja
 - Palacio mágico de hielo de Elsa
-- Número de piezas: 701
-- Edad recomendada por el fabricante: 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})

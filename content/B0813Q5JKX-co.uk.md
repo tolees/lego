@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The Star Wars AT-AT figure features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
-- Celebrate the iconic series with this Star Wars 40th Anniversary set, a LEGO brick version of the iconic AT-AT Walker Star Wars building toy
 - Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
-- Fans can also drive this awesome At-AT Walker building toy it in the LEGO Star Wars: The Skywalker Saga video game
 - This set will impress for sure when put on display, and it makes a fantastic birthday or Fathers Day LEGO Star Wars gift idea
+- Celebrate the iconic series with this Star Wars 40th Anniversary set, a LEGO brick version of the iconic AT-AT Walker Star Wars building toy
+- Fans can also drive this awesome At-AT Walker building toy it in the LEGO Star Wars: The Skywalker Saga video game
 - This iconic AT-AT Walker also has foldout panels, a speeder bike, winch and bottom hatch so Luke can throw in the thermal detonator element
+- The Star Wars AT-AT figure features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
 
 [🛒 Buy it now!!]({{< param buyurl >}})
