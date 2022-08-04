@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enthält über 90 Steinchen und einen Mosaik Aufkleber zum Anbringen auf einem Notebook, einer Handytasche oder irgendwo im Kinderzimmer
-- Bastelset, mit dem Kinder ab 6 Jahre personalisierte farbige Aufkleber dekorieren und gestalten und an jeder harten Oberfläche anbringen können!
-- LEGO DOTS Sets sind tolle, kreative Geschenke für Kinder ab 6 Jahren und machen zu jeder Gelegenheit eine große Freude
-- Mit diesem Bastelset für Kinder ab 6 Jahren wird das Gestalten zum Kinderspiel und Kinder können grenzenlos kreativ werden
-- Kinder können ihren eigenen DIY Aufkleber entwerfen, ihn individuell gestalten und dann nach Belieben umgestalten
 - Die Kinder können auch alle Extra DOTS Beutel oder Boxen (separat erhältlich) verwenden, um personalisierte Aufkleber zu erstellen
+- LEGO DOTS Sets sind tolle, kreative Geschenke für Kinder ab 6 Jahren und machen zu jeder Gelegenheit eine große Freude
+- Kinder können ihren eigenen DIY Aufkleber entwerfen, ihn individuell gestalten und dann nach Belieben umgestalten
+- Mit diesem Bastelset für Kinder ab 6 Jahren wird das Gestalten zum Kinderspiel und Kinder können grenzenlos kreativ werden
+- Bastelset, mit dem Kinder ab 6 Jahre personalisierte farbige Aufkleber dekorieren und gestalten und an jeder harten Oberfläche anbringen können!
+- Enthält über 90 Steinchen und einen Mosaik Aufkleber zum Anbringen auf einem Notebook, einer Handytasche oder irgendwo im Kinderzimmer
 
 [🛒 Check the deal!!]({{< param buyurl >}})

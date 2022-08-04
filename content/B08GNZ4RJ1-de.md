@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Durch das kinderleichte Bauerlebnis wird die Feinmotorik gefördert, während die kreativen Rollenspiele von Rettungseinsätzen die sozialen und emotionalen Fähigkeiten unterstützen
-- Jungen und Mädchen ab 1,5 Jahren können die verschieden geformten Bausteine auf den Bildern platzieren, während die Eltern ihrem Kind etwas über Farben und Formen beibringen
-- Dieses Spielzeug bietet Kleinkindern ab 1,5 Jahren alles, was sie zum Spielen brauchen: praktische Kreativität, fantasievolle Spielmöglichkeiten und Entwicklungsförderung
 - Das Set ist ideal geeignet, um von kleinen Händen aufgehoben und zusammengebaut zu werden, und enthält Baukarten mit lebensgroßen Bildern der Modelle. Schau dir den süßen Hund an!
 - Enthält ein farbenfrohes Helikopter-Spielzeug aus LEGO-Steinen mit drehbarem Rotor und ein Polizeiauto zum Schieben mit einem (geräuschlosen) Sirenenstein
+- Durch das kinderleichte Bauerlebnis wird die Feinmotorik gefördert, während die kreativen Rollenspiele von Rettungseinsätzen die sozialen und emotionalen Fähigkeiten unterstützen
+- Dieses Spielzeug bietet Kleinkindern ab 1,5 Jahren alles, was sie zum Spielen brauchen: praktische Kreativität, fantasievolle Spielmöglichkeiten und Entwicklungsförderung
+- Jungen und Mädchen ab 1,5 Jahren können die verschieden geformten Bausteine auf den Bildern platzieren, während die Eltern ihrem Kind etwas über Farben und Formen beibringen
 
 [🛒 Buy it!!]({{< param buyurl >}})
