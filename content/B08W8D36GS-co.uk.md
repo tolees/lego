@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76939 Jurassic World Stygimoloch Dinosaur Escape Toy  Starter Set for Preschool Kids Age 4+ with Figures and Tree House'
-date: 2022-08-02 15:36:22
+date: 2022-08-04 12:30:59
 image: 'https://m.media-amazon.com/images/I/51lxSZr9DOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08W8D36GS/?tag=tolees0a-21'
 descuento: '42.84'
-average: '23.89'
+average: '23.2416666666667'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,11 +29,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - The buildable toy treehouseobservation post has a bed, sink, toilet, ladder and a slide for baby dinosaur Bumpy
-- This LEGO Jurassic World dinosaur toy for boys and girls age 4 features 2 dinosaur figures, an all-terrain off-roader vehicle and a treehouse
-- The easy-to-build off-roader has a Starter Brick chassis and a removable cage for the Stygimoloch dinosaur toy
-- Includes 3 minifigures: Ben, Brooklynn and Claire Dearing, plus a Stygimoloch and Bumpy the baby Ankylosaurus dinosaur toy figures
-- An ideal LEGO starter set for 4 year olds who are still learning to read - they can build on their own using the simple, illustrated instructions
 - Check out Instructions PLUS, available in the free LEGO Building Instructions app, which features zoom and rotate viewing tools
 - Packed with fun accessory elements including a tranquillizer gun, carrot, shovel and a dinosaur poo for more fun
+- The easy-to-build off-roader has a Starter Brick chassis and a removable cage for the Stygimoloch dinosaur toy
+- An ideal LEGO starter set for 4 year olds who are still learning to read - they can build on their own using the simple, illustrated instructions
+- This LEGO Jurassic World dinosaur toy for boys and girls age 4 features 2 dinosaur figures, an all-terrain off-roader vehicle and a treehouse
+- Includes 3 minifigures: Ben, Brooklynn and Claire Dearing, plus a Stygimoloch and Bumpy the baby Ankylosaurus dinosaur toy figures
 
 [🛒 Buy it!!]({{< param buyurl >}})
