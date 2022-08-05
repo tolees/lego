@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70654 NINJAGO Dieselnaut'
-date: 2022-08-03 22:12:19
+date: 2022-08-04 22:47:20
 image: 'https://m.media-amazon.com/images/I/51rqIchhSPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0765BGB3K/?tag=tolees0a-21'
 descuento: '25.00'
-average: '209.781345291481'
+average: '209.514419642858'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The Dragon Hunters’ Dieselnaut tank toy features an opening minifigure cockpit, platform with opening roof for up to 2 bad guys, 2 rotating turrets, crane function, a removable and opening jail, plus a hidden rear compartment with removable, foldable weapon rack and 3 spears, half moon blade and a tanto
 - Dieselnaut
-- Manufacturer recommended age: 9-14
+- The Dragon Hunters’ Dieselnaut tank toy features an opening minifigure cockpit, platform with opening roof for up to 2 bad guys, 2 rotating turrets, crane function, a removable and opening jail, plus a hidden rear compartment with removable, foldable weapon rack and 3 spears, half moon blade and a tanto
 - Number of pieces: 1179
+- Manufacturer recommended age: 9-14
 - Includes 7 LEGO NINJAGO minifigures: Teen Wu, Jay, Zane, Iron Baron, Heavy Metal, Muzzle and Skullbreaker
 
 [🛒 Check the deal!!]({{< param buyurl >}})

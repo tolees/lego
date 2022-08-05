@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Police Station'
-date: 2022-08-03 22:12:44
+date: 2022-08-04 22:40:34
 image: 'https://m.media-amazon.com/images/I/51GphBT734L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W7TM73V-co.uk LEGO 60246 City Police Police Station'
 sku: 'B07W7TM73V-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys Store','lego','🇬🇧', ]
-actualPrice: 59.99 GBP
+actualPrice: 73.77 GBP
 currency: GBP
-price: 59.99
+price: 73.77
 comparePrice: 89.99 GBP
 prodname: 'LEGO 60246 City Police Police Station'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TM73V/?tag=tolees0a-21'
-descuento: '33.34'
-average: '70.0147676419959'
+descuento: '18.02'
+average: '70.0212199312708'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Manufacturer recommended age: 6+
 - Includes 7 minifigures: Duke DeTain, Chief Wheeler, Daisy Kaboom, 2 police officers, 2 crooks, plus a bulldog and police dog figures
-- Number of pieces: 743
 - Includes a light-brick searchlight, working roof lights and siren, plus lever-activated jailbreak function to add effects to the chase play
 - Police Station
+- Number of pieces: 743
 
 [🛒 Check the deal!!]({{< param buyurl >}})
