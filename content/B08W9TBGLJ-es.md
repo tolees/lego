@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76940 Jurassic World Exposición del Dinosaurio T. Rex Fosilizado  Set de Juego para Niños a Partir de 7 Años  Maqueta de Esqueleto'
-date: 2022-08-04 11:33:11
+date: 2022-08-05 11:47:05
 image: 'https://m.media-amazon.com/images/I/517Ya9juDQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Es un regalo de cumpleaños o de Navidad estupendo para los jóvenes fans de LEGO o de la ciencia que estén buscando una experiencia de construcción más desafiante
-- El esqueleto de T. rex está articulado y trae una base para exponerlo al estilo de un museo; hará las delicias de los pequeños paleontólogos a partir de 7 años
-- Viene con instrucciones ilustradas paso a paso para que los peques puedan construirlo con confianza
-- Este juguete repleto de diversión que muestra una exposición del Tyrannosaurus rex fosilizado para niños incluye una maqueta construible de un T. rex
-- Dispone además de una pizarra construible y muchos accesorios de LEGO como un puntero, un huevo de dinosaurio, dientes fosilizados y una hoja
-- Este juguete para niños de T.rex incluye las minifiguras de Darius y Owen Grady, además de una figura de una cría de Triceratops
+- It makes a cool LEGO birthday gift or Christmas present for a young LEGO or science fan looking for a more challenging building experience
+- This fun-packed LEGO Jurassic World T. rex dinosaur fossil exhibition toy for boys and girls features a buildable T. rex skeleton model
+- This T.rex toy for kids includes Darius and Owen Grady minifigures and a baby Triceratops dinosaur toy figure
+- Also includes a buildable drawing board, plus LEGO accessory elements including a pointer stick, dinosaur egg, teeth fossil and a leaf
+- The posable T. rex toy skeleton comes with a stand to display it as a museum exhibit so kids aged 7 can roleplay as palaeontologists
+- It comes with illustrated, step-by-step instructions so kids can build confidence
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41700 Friends Beach Glamping Camping Nature Set  Toy for Girls and Boys 6 Years Old with 3 Mini Dolls and Accessories  2022 Summer Series'
-date: 2022-08-03 11:27:55
+date: 2022-08-05 12:15:39
 image: 'https://m.media-amazon.com/images/I/51bxi5Bxk-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNX5KRQ/?tag=tolees0a-21'
 descuento: '34.27'
-average: '25.194'
+average: '24.8283333333333'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
