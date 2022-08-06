@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71401 Super Mario Luigi’s Mansion Haunt-and-Seek Expansion Set with Toad and King Boo Figure  Buildable Game Toy'
-date: 2022-08-02 14:53:47
+date: 2022-08-06 13:55:33
 image: 'https://m.media-amazon.com/images/I/518In5QkWFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09JWC7XHP/?tag=tolees0a-21'
 descuento: '25.73'
-average: '49.7743478260869'
+average: '49.86625'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 7136071387, which is required for play
 - Then players will battle a haunted pool table, defeat the Garbage Can Ghost and Grabbing Ghost, and topple King Boo from his tower forever
-- Kids can add ghost battles and gem-hunting with this Super Mario Luigi’s Mansion expansion set packed with fun challenges and 4 figures
-- This LEGO Super Mario toy comes with 4 figures: a Toad (with a scared face), and enemies Garbage Can Ghost, a Grabbing Ghost and King Boo
-- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials
 - Kids can turn the hallway to access each room and uncover hidden gems in the bedroom, dining room and bathroom to gain digital coins
+- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 7136071387, which is required for play
+- This LEGO Super Mario toy comes with 4 figures: a Toad (with a scared face), and enemies Garbage Can Ghost, a Grabbing Ghost and King Boo
+- Kids can add ghost battles and gem-hunting with this Super Mario Luigi’s Mansion expansion set packed with fun challenges and 4 figures
+- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials
 
 [🛒 Buy it!!]({{< param buyurl >}})
