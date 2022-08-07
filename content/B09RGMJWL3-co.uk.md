@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can design their own DIY sticker patch, make it unique to match their style and then redesign it whenever and however they wish
-- Features a crafts set that allows kids to decorate and design a personalised sticker patch with coloured tiles and attach to any hard surface
-- Includes over 90 colourful tiles and an 8x8 adhesive patch to attach to a notebook, phone case, home décor items, or any other hard surface
-- Kids can also use any of the Extra DOTS Bags or boxes (sold separately) to expand their designs
 - This easy-to-follow crafts set for kids aged 6 makes creating a snap, with lots of colourful tiles to express their personality in mosaic style
+- Kids can also use any of the Extra DOTS Bags or boxes (sold separately) to expand their designs
+- Includes over 90 colourful tiles and an 8x8 adhesive patch to attach to a notebook, phone case, home décor items, or any other hard surface
+- Features a crafts set that allows kids to decorate and design a personalised sticker patch with coloured tiles and attach to any hard surface
 - LEGO DOTS sets make a cool arts and crafts birthday, Christmas or anytime gifts for kids age 6
+- Kids can design their own DIY sticker patch, make it unique to match their style and then redesign it whenever and however they wish
 
 [🛒 Check the deal!!]({{< param buyurl >}})
