@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Forest Waterfall 41677 Building Kit; Includes a Squirrel Toy; Ideal Gift for Kids Who Love Nature Toys; New 2021  93 Pieces '
-date: 2022-08-06 13:51:59
+date: 2022-08-09 01:21:07
 image: 'https://m.media-amazon.com/images/I/51PSts2j7XS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B08YPBBCX2/?tag=tolees-20'
 descuento: '35.04'
-average: '7.39'
+average: '7.30818181818182'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- This forest set measures over 2 in. (7 cm) high, 6 in. (16 cm) wide and 2 in. (7 cm) deep – the perfect size to keep out on display for anytime play
 - A great gift for kids aged 5+ who love nature. This set lets them bring their love of the outdoors indoors, making it the perfect present for birthdays, holiday or for when rain stops outside play
 - Looking for a creative LEGO Friends gift for a nature-loving kid? The Forest Waterfall (41677) is the perfect present for youngsters who love exploring the great outdoors with their friends
-- Comes with LEGO Friends Andrea and Olivia mini-dolls, a squirrel figure, a scooter, campfire, marshmallow on a stick, a bridge that crosses a river and a woodland waterfall
 - Kids can explore the beautiful forest on the scooter, feed the squirrel toy a chestnut in its pine tree house, use the binoculars to spot wildlife, or discover a gem hidden behind the waterfall
-- This forest set measures over 2 in. (7 cm) high, 6 in. (16 cm) wide and 2 in. (7 cm) deep – the perfect size to keep out on display for anytime play
+- Comes with LEGO Friends Andrea and Olivia mini-dolls, a squirrel figure, a scooter, campfire, marshmallow on a stick, a bridge that crosses a river and a woodland waterfall
 
 [🛒 Buy it!!]({{< param buyurl >}})
