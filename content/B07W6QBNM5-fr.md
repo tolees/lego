@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- L’atelier de tuning
 - Les personnages de la série télévisée LEGO City et les véhicules fascinants plantent le décor pour un jeu créatif
 - Les enfants peuvent faire fonctionner le treuil à moteur, la dépanneuse et bien plus encore dans latelier de Tread
 - Âge recommandé par le fabricant: 6+
-- L’atelier de tuning
 - Nombre de pièces: 897
 
 [🛒 Check the deal!!]({{< param buyurl >}})
