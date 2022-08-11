@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71760 NINJAGO Jay’s Thunder Dragon EVO Toy Figure and Viper Snake Set for Kids 6 Years Old with Collectible Speed Mission Banner'
-date: 2022-07-27 18:55:28
+date: 2022-08-11 08:49:33
 image: 'https://m.media-amazon.com/images/I/51hgslCJcQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNWJRJ3/?tag=tolees0a-21'
 descuento: '27.74'
-average: '14.33'
+average: '13.9975'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - When kids complete their missions and defeat the snake warrior, they are rewarded with a Speed banner to display on the dragon
-- Includes NINJAGO Jay with nunchucks, who can be upgraded with a hood and a sword, plus Viper Flyer, the snake armed with a sword and jetpack
-- The Thunder Dragon toy has a saddle for kids to place Jay when he fights the jetpack-equipped NINJAGO snake during their epic battles
-- Upgrade Jay with a hood and sword and his fearsome Dragon with bigger wings so they can soar into the sky for a death-defying battle!
 - This LEGO NINJAGO dragon set features a highly posable dragon figure with movable legs, head, jaw, wings, and a tail to use as a weapon
+- Includes NINJAGO Jay with nunchucks, who can be upgraded with a hood and a sword, plus Viper Flyer, the snake armed with a sword and jetpack
+- Upgrade Jay with a hood and sword and his fearsome Dragon with bigger wings so they can soar into the sky for a death-defying battle
+- The Thunder Dragon toy has a saddle for kids to place Jay when he fights the jetpack-equipped NINJAGO snake during their epic battles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
