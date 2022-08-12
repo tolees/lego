@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60348 City Mond-Rover Weltraum-Spielzeug mit Astronauten-Minifiguren aus der LEGO NASA Serie  für Kinder ab 6 Jahre'
-date: 2022-08-11 16:32:28
+date: 2022-08-12 16:53:24
 image: 'https://m.media-amazon.com/images/I/512xSEgdMfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVWC2L/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '19.9946753246751'
+average: '19.9946153846152'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Nach dem Bau kann das LEGO Weltraum-Spielzeug überallhin mitgenommen werden
 - Der Mond-Rover verfügt über 12 Räder, die sich in jede Richtung lenken lassen und viele Funktionen, die einem echten Mond-Rover nachempfunden sind
 - Mit einem von der LEGO NASA inspirierten Mond-Rover-Modell, einer Mondlandschaft mit Meteor zu bauen und 3 LEGO Astronauten-Minifiguren
+- Nach dem Bau kann das LEGO Weltraum-Spielzeug überallhin mitgenommen werden
 - Dieses LEGO Set aus der Weltraum-Serie wird mit lustigen Accessoires geliefert, wie einer Säge, einer Schaufel, einem Mondoberflächenscanner und Helmen
 - Enthält eine gedruckte bebilderte & eine digitale Bauanleitung, die in der kostenlosen LEGO Bauanleitung App verfügbar ist
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76942 Jurassic World Baryonyx Dinosaur Floating Boat Escape Toy with Speedboat for Boys & Girls'
-date: 2022-08-04 12:31:13
+date: 2022-08-12 16:43:29
 image: 'https://m.media-amazon.com/images/I/51jH7+1Z4bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWXQVPJ/?tag=tolees0a-21'
 descuento: '33.34'
-average: '54.6881818181818'
+average: '53.9653846153847'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes 4 minifigures: Darius, Yaz, Owen Grady and a guard, plus a posable Baryonyx, baby dinosaur and 2 fish toy figures
-- Accessory elements include a tranquillizer, Taser and 2 dinosaur eggs, and it comes with illustrated, step-by-step instructions
 - The floating boat features a control room that can be lifted off for easy access to the cargo hold, a dinosaur cage & a rotating ‘searchlight’
 - This awesome LEGO Jurassic World toy features a cool, buildable toy boat that floats – even with a dinosaur figure on board!
+- Accessory elements include a tranquillizer, Taser and 2 dinosaur eggs, and it comes with illustrated, step-by-step instructions
+- Includes 4 minifigures: Darius, Yaz, Owen Grady and a guard, plus a posable Baryonyx, baby dinosaur and 2 fish toy figures
 - The set also includes a small toy speedboat that floats. It’s the first LEGO Jurassic World set to include floating toy boats!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
