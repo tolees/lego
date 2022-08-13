@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60323 City Avión Acrobático  Juguete de Construcción con Mini Figura de Piloto  Idea de Regalo para Niños y Niñas de 5 Años en Adelante'
-date: 2022-08-11 02:47:46
+date: 2022-08-13 11:18:30
 image: 'https://m.media-amazon.com/images/I/51HOlPz4d1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNVVWF5/?tag=tolees-21'
 descuento: '20.02'
-average: '8.23193548387098'
+average: '8.22437500000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
