@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71737 NINJAGO Legacy X-1 Ninja Charger Ninja Car Toy & Motorcycle with Cole Golden Figure  Gift for Boys and Girls 8 plus Years Old'
-date: 2022-08-12 16:43:03
+date: 2022-08-13 16:48:17
 image: 'https://m.media-amazon.com/images/I/51VTeiM7tYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G47F9TV/?tag=tolees0a-21'
 descuento: '22.20'
-average: '35.754'
+average: '35.6283333333333'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, Boulder Blaster 71736 and Zane’s Titan Mech Battle 71738
 - NINJAGO Legacy X-1 Ninja Charger Ninja Car Toy and Motorcycle makes a fab birthday or any-time treat for boys and girls 8+ years old
-- Includes a limited edition, collectible, golden Cole Legacy minifigure with a small stand to celebrate the 10th anniversary of NINJAGO toys
-- The vehicle features 2 spring-loaded shooters and has a toy motorcycle hidden inside to be fired out by a button to attack the Nindroids
-- Includes 5 minifigures: ninjas Kai, Jay and Cole Legacy to take on a Nindroid Warrior and Mindroid from season 3 of the TV series
 - Features an update 2 in 1 model of ninja vehicle from season 3 of the LEGO NINJAGO TV series with a shooting toy car and ninja motorcycle
+- Includes a limited edition, collectible, golden Cole Legacy minifigure with a small stand to celebrate the 10th anniversary of NINJAGO toys
+- Includes 5 minifigures: ninjas Kai, Jay and Cole Legacy to take on a Nindroid Warrior and Mindroid from season 3 of the TV series
+- The vehicle features 2 spring-loaded shooters and has a toy motorcycle hidden inside to be fired out by a button to attack the Nindroids
+- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, Boulder Blaster 71736 and Zane’s Titan Mech Battle 71738
 
 [🛒 Buy it!!]({{< param buyurl >}})
