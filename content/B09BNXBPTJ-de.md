@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76948 Jurassic World T. Rex & Atrociraptor: Dinosaurier-Ausbruch  Set mit LKW und 4 Minifiguren  Dinosaurier Spielzeug'
-date: 2022-08-11 16:34:02
+date: 2022-08-15 12:23:03
 image: 'https://m.media-amazon.com/images/I/51-8Y3+9SQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNXBPTJ/?tag=tolees0ca-21'
 descuento: '31.77'
-average: '70.8657142857143'
+average: '69.6825'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Der Spielzeug-LKW bietet Platz für 2 Atrociraptoren - kombiniere ihn mit Atrociraptor: Motorradverfolgungsjagd (76945) für mehr Action
-- Dieses LEGO Jurassic World Spielzeug ist ein tolles Dinosaurier-Geschenk für Kinder ab 8 Jahren, die Dinosaurier und Fahrzeuge lieben
-- Das Atrociraptor- und das große T. Rex-Spielzeug sind beweglich, so dass Kinder ihre eigene chaotische Szene auf dem Markt kreieren können
-- Dieses Dinosaurier Spielzeug aus "Jurassic World - Ein neues Zeitalter" enthält Atrociraptor und T. Rex Dinosaurier-Figuren, einen Markt, einen LKW und Minifiguren
-- Mit diesem LEGO Jurassic World Set können sich Kinder Dinosaurierfluchten ausdenken - dank der Ausbruchsfunktion im T. Rex-Gehege
 - Enthält 4 Minifiguren: Claire Dearing, Owen Grady, Rainn Delacourt und Soyona Santos sowie 2 Betäubungsstäbe
+- Mit diesem LEGO Jurassic World Set können sich Kinder Dinosaurierfluchten ausdenken - dank der Ausbruchsfunktion im T. Rex-Gehege
+- Dieses Dinosaurier Spielzeug aus "Jurassic World - Ein neues Zeitalter" enthält Atrociraptor und T. Rex Dinosaurier-Figuren, einen Markt, einen LKW und Minifiguren
+- Dieses LEGO Jurassic World Spielzeug ist ein tolles Dinosaurier-Geschenk für Kinder ab 8 Jahren, die Dinosaurier und Fahrzeuge lieben
+- Der Spielzeug-LKW bietet Platz für 2 Atrociraptoren - kombiniere ihn mit Atrociraptor: Motorradverfolgungsjagd (76945) für mehr Action
+- Das Atrociraptor- und das große T. Rex-Spielzeug sind beweglich, so dass Kinder ihre eigene chaotische Szene auf dem Markt kreieren können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
