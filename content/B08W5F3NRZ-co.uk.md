@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41687 Friends Magical Funfair Stalls Fairground Carnival Set  Amusement Park Toy for Kids 6 Years Old with Magic Trick'
-date: 2022-08-10 20:37:20
+date: 2022-08-16 20:44:56
 image: 'https://m.media-amazon.com/images/I/5180Cl6ylRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08W5F3NRZ-co.uk LEGO 41687 Friends Magical Funfair Stalls Fairground...'
 sku: 'B08W5F3NRZ-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys Store','lego','🇬🇧', ]
-actualPrice: 12.0 GBP
+actualPrice: 19.99 GBP
 currency: GBP
-price: 12.0
+price: 19.99
 comparePrice: 24.99 GBP
 prodname: 'LEGO 41687 Friends Magical Funfair Stalls Fairground Carnival Set  Amusement Park Toy for Kids 6 Years Old with Magic Trick'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08W5F3NRZ/?tag=tolees0a-21'
-descuento: '51.98'
-average: '13.9720000000001'
+descuento: '20.01'
+average: '14.3481250000001'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:

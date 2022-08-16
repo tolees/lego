@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71400 Super Mario Maxi-Iglucks Strandausflug – Erweiterungsset mit Figuren von Yoshi und Delfin  Spielzeug ab 7 Jahren  Geschenk für Kinder'
-date: 2022-08-15 18:16:43
+date: 2022-08-16 20:50:21
 image: 'https://m.media-amazon.com/images/I/51kjUThMQRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSD96L/?tag=tolees0ca-21'
 descuento: '30.01'
-average: '37.786956521739'
+average: '37.9620833333332'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Let kids create a palm-tree shaking, dolphin-riding, high-diving level with Cheep Cheeps ‘leaping’ to collect digital coins and win the game
-- Features a springboard to perform dives and a roller coaster to shake the Super Star Block out of the palm tree and topple the Big Urchin
-- Includes 5 LEGO Super Mario figures: Yellow Yoshi, Big Urchin, 2 Cheep Cheeps, and a Dolphin for LEGO Mario or Luigi figures (not included)
-- Add another beach level to kids&039; LEGO Super Mario buildable game with this Big Urchin Beach Ride Expansion Set, a toy for kids 7 years old
-- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 7136071387, which is required for play
+- Die Kinder können ihr eigenes Level bauen und dann die Palmen schütteln, auf Delfinen reiten und mit Cheep-Cheeps in die Luft springen, um digitale Münzen zu sammeln
+- Mit dem Erweiterungsset „Maxi-Iglucks Strandausflug“ können Kinder ab 7 Jahren ihr LEGO Super Mario Spiel um ein weiteres Strandlevel erweitern
+- Die LEGO Super Mario Erweiterungssets sind tolle Geschenke für Kinder, die das LEGO Super Mario Starterset 71360/71387 besitzen, welches zum Spielen benötigt wird
+- Inklusive 5 LEGO Super Mario Figuren: ein gelber Yoshi, ein Maxi-Igluck, 2 Cheep-Cheeps und ein Delfin für die LEGO Figuren von Mario oder Luigi (nicht enthalten)
+- Enthält ein Sprungbrett und eine Achterbahn, mit der du den Super-Stern aus der Palme schütteln und den Maxi-Igluck umwerfen kannst
 
 [🛒 Check the deal!!]({{< param buyurl >}})
