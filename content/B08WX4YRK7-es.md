@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76191 Marvel Guantelete del InfinitoSet de Construcción para Adultos del Guante de Thanos de los Vengadores  Multicolor'
-date: 2022-08-16 00:25:13
+date: 2022-08-17 01:52:42
 image: 'https://m.media-amazon.com/images/I/51dGDuLLliS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WX4YRK7/?tag=tolees-21'
 descuento: '17.50'
-average: '64.5601769911504'
+average: '64.5727192982456'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
