@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Build a cool castle, a busy farm or awesome environments like a vegetable garden to explore new ways of playing the game in real life!
-- Rebuild the individual models or reconfigure the landscape by simply repositioning modular sections
-- Kids will find a host of funny traits from a TNT launcher to a Creeper confrontation, and 3 small baseplates to enable easy building & access
-- Features an easy-to-reconfigure design with easy-to-connect modular sections, with 3 alternative model configurations and instructions
 - Includes 564 bricks and pieces, plus popular characters from the game: Steve, Alex, Creeper, pig and zombie to play out Minecraft adventures
+- Rebuild the individual models or reconfigure the landscape by simply repositioning modular sections
+- Features an easy-to-reconfigure design with easy-to-connect modular sections, with 3 alternative model configurations and instructions
+- Kids will find a host of funny traits from a TNT launcher to a Creeper confrontation, and 3 small baseplates to enable easy building & access
 
 [🛒 Check the deal!!]({{< param buyurl >}})

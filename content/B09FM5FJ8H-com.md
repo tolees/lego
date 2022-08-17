@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Details to spark play – With the palace measuring over 6.5 in. (17 cm) high, 8.5 in. (22 cm) wide and 3 in. (8 cm) deep, this set is designed for short, fun, everyday play sessions
-- Fun gift for ages 5+ – Kids will love this set full of imaginative possibilities, with settings based on 2 well-known Disney movies, making it a great treat for a hardworking child
 - What’s in the box? – This 176-piece set features a detailed palace with 2 floors and a small shrine, plus plenty of accessories to spark short, fun, everyday play sessions
 - Creative play – Give any Disney fan a gift packed with features and accessories to inspire imaginative role play in this fun LEGO Disney Jasmine and Mulan’s Adventure 43208 set
+- Fun gift for ages 5+ – Kids will love this set full of imaginative possibilities, with settings based on 2 well-known Disney movies, making it a great treat for a hardworking child
 - Iconic characters – Featuring Disney’s Jasmine and Mulan, plus Khan the horse and Rajah the tiger, this set can be combined with other Disney sets (sold separately) or used on its own
 
 [🛒 Buy it!!]({{< param buyurl >}})

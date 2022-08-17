@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The LEGO dragster car features an awesome aerodynamic design with a jet-like windshield, emphasized high tail spoiler and honeycomb pattern
-- The historic LEGO Dodge Challenger racing car model features sleek, unique styling with air hood, ducktail spoilers and rare side exhaust
+- Features 2 LEGO toy racing cars for kids age 8+: Mopar Dodge//SRT Top Fuel Dragster and the awesome 1970 Dodge Challenger T/A muscle car models
 - Includes 2 toy LEGO race car driver minifigures with Dodge outfits and racing helmets
 - This 627-piece LEGO Speed Champions play set makes a great birthday or any-other-day LEGO gift for boys and girls aged 8 and up
-- Features 2 LEGO toy racing cars for kids age 8+: Mopar Dodge//SRT Top Fuel Dragster and the awesome 1970 Dodge Challenger T/A muscle car models
+- The historic LEGO Dodge Challenger racing car model features sleek, unique styling with air hood, ducktail spoilers and rare side exhaust
+- The LEGO dragster car features an awesome aerodynamic design with a jet-like windshield, emphasized high tail spoiler and honeycomb pattern
 
 [🛒 Check the deal!!]({{< param buyurl >}})
