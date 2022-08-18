@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Kids build the dollhouses 4 very different rooms – kitchen, library, study and bedroom – that don’t even have to be attached to the tree
+- This build & display modular LEGO treehouse toy is ideal for any Minecraft or model-making enthusiast aged 9, it makes a great birthday gift
+- The LEGO Minecraft The Modern Treehouse toy is a large, detailed and extremely versatile playset featuring 4 endlessly reconfigurable rooms
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
+- ERROR:NA
 - Accessories include loads of fun features from the video game from furniture and bedding to tools and TNT
 - Includes a charged Creeper Minecraft figure and a panda skin, ocelot skin, zombie, cat and chicken from the online Minecraft game
-- The LEGO Minecraft The Modern Treehouse toy is a large, detailed and extremely versatile playset featuring 4 endlessly reconfigurable rooms
-- ERROR:NA
-- This build & display modular LEGO treehouse toy is ideal for any Minecraft or model-making enthusiast aged 9, it makes a great birthday gift
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
+- Kids build the dollhouses 4 very different rooms – kitchen, library, study and bedroom – that don’t even have to be attached to the tree
 
 [🛒 Buy it!!]({{< param buyurl >}})
