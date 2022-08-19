@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- LEGO Marvel collectibles for adults make great Avengers gifts, Christmas present or personal treat for any model-making enthusiast
 - Features a LEGO brick recreation of the iconic Infinity Gauntlet with Infinity Stones, and a sturdy stand with a descriptive tablet
 - The golden Thanos glove captures forever the captivating style of Marvel Studios’ Avengers: Infinity War and Avengers: Endgame movies
-- This LEGO building set for adults offers an iconic office or home décor piece sure to be the centre of attention and admiring comments
-- LEGO Marvel collectibles for adults make great Avengers gifts, Christmas present or personal treat for any model-making enthusiast
 - This impressive homage to Marvel features Thanos&039; Gauntlet with movable fingers and vibrant colours resulting in a timeless display piece
+- This LEGO building set for adults offers an iconic office or home décor piece sure to be the centre of attention and admiring comments
 
 [🛒 Buy it!!]({{< param buyurl >}})
