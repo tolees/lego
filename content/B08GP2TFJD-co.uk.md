@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- This toy for toddlers aged 2 Plus features a tractor toy with pull-along cart, a buildable tree, flower elements, farm tools and realistically textured hay bales
+- Check out other LEGO DUPLO Farm toys: Animal Care (10949), Horse Stable and Pony Care (10951), or Barn, Tractor & Farm Animal Care (10952)
+- Kids enact farm work such as fitting the cart to the toy tractor for different jobs, and develop emotional awareness when feeding the animals
 - Building instructions include a fun picture story involving models from the set to add an extra element of enjoyment to the creative play
 - Delve into animal-care role-play, with the 2 sheep and farmer and child figures for toddlers to pick up and play with
 - Boys and girls aged 2+ years old develop fine motor skills and expand their social and emotional understanding as they act out fun farm activities
-- Check out other LEGO DUPLO Farm toys: Animal Care (10949), Horse Stable and Pony Care (10951), or Barn, Tractor & Farm Animal Care (10952)
-- This toy for toddlers aged 2 Plus features a tractor toy with pull-along cart, a buildable tree, flower elements, farm tools and realistically textured hay bales
-- Kids enact farm work such as fitting the cart to the toy tractor for different jobs, and develop emotional awareness when feeding the animals
 
 [🛒 Buy it!!]({{< param buyurl >}})
