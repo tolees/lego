@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Technic 42082 - Geländegängiger Kranwagen  4057 Teile '
-date: 2022-08-17 21:35:47
+date: 2022-08-19 04:40:13
 image: 'https://m.media-amazon.com/images/I/51595Rxv8aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07CFNCSC7/?tag=tolees0ca-21'
 descuento: '17.15'
-average: '262.669836448597'
+average: '262.733310023309'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Manuelle Funktionen: Allradlenkung, Allradantrieb, detailreicher V8-Motor mit beweglichen Kolben und drehendem Lüfter, verstellbare Außenspiegel und eine aufklappbare Kabinentür. Nimm die LEGO Technic Baumodule an den Haken und stell dein Können als LEGO Kranführer auf die Probe!
 - Öffne die Tür, um in die detailreiche Kranführerkabine zu gelangen. Öffne die Staufächer, um die Ketten und Werkzeuge sowie den Feuerlöscher herauszuholen. Der Kranwagen ist in den Farben Rot und Schwarz lackiert. Dieses LEGO Technic Set soll ein fesselndes und lohnendes Bauerlebnis vermitteln.
+- Mit dem Geländegängigen Kranwagen erreichst du schwindelerregende Höhen. Mit LEGO Power Functions: Der große Motor dient zur Steuerung der oberen und unteren Funktionen des Krans.
 - Der bisher größte und höchste LEGO Technic Kran (Stand: August 2018) besteht aus mehr als 4.050 Teilen. LEGO Technic 2-in-1-Modell: Lässt sich in einen Mobilen Freifallhammer umbauen.
 - In der Arbeitsposition ist der Geländegängige Kranwagen 100 cm hoch, 66 cm lang und 26 cm breit. Im fahrbereiten Zustand ist das Modell 27 cm hoch, 76 cm lang und 20 cm breit. Der Mobile Freifallhammer ist im fahrbereiten Zustand 24 cm hoch, 50 cm lang und 20 cm breit.
-- Mit dem Geländegängigen Kranwagen erreichst du schwindelerregende Höhen. Mit LEGO Power Functions: Der große Motor dient zur Steuerung der oberen und unteren Funktionen des Krans.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
