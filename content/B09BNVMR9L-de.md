@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mit dem DIY Letter Board können Kinder ein personalisiertes Türschild für das Kinderzimmer oder ein schwarzes Brett oder beliebige Deko gestalten
+- LEGO DOTS Message Board mit 2 16x16-Platten, Rahmen- und Hängeelementen und über 500 Steinchen in verschiedenen Farben und Formen
+- Die geschwungenen 2x2-Elemente helfen den Kindern, verschiedene Schriftgrößen zu erstellen und eigene Kinderzimmer-Deko zu kreieren
 - Mit dem Ergänzungsset XXL - Botschaften (41950) können Kinder ihre Boards oder andere LEGO DOTS Sets individuell gestalten (separat erhältlich)
 - Das DIY Set enthält ein Heft mit vielen Anregungen für Designs aus bunten Steinchen, die den Erfindungsreichtum fördern
-- Die geschwungenen 2x2-Elemente helfen den Kindern, verschiedene Schriftgrößen zu erstellen und eigene Kinderzimmer-Deko zu kreieren
-- LEGO DOTS Message Board mit 2 16x16-Platten, Rahmen- und Hängeelementen und über 500 Steinchen in verschiedenen Farben und Formen
+- Mit dem DIY Letter Board können Kinder ein personalisiertes Türschild für das Kinderzimmer oder ein schwarzes Brett oder beliebige Deko gestalten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
