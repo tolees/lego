@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71768 NINJAGO Jays Golddrachen-Motorrad  Set mit Jay-Minifigur und Drachen- und Schlangen-Figuren  Spielzeug für Kinder ab 7 Jahre'
-date: 2022-08-19 12:29:15
+date: 2022-08-20 19:52:19
 image: 'https://m.media-amazon.com/images/I/513mKaVKZyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFLHYNB/?tag=tolees0ca-21'
 descuento: '33.82'
-average: '13.61'
+average: '13.4833333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enthält 2 Mini-Figuren, darunter Golddrachen-Jay mit Elementar-Goldnunchaku und 2 stachelbewehrten Golddrachenflügeln
-- Kinder können mit diesem LEGO NINJAGO Set mit 2 Minifiguren und einem Spielzeug-Motorrad die actiongeladene TV-Serie NINJAGO: Crystallized nachspielen
 - Dieses 137-teilige Spielzeug mit Drachen-Figur ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten für Kinder ab 7 Jahre
-- Enthält einen LEGO NINJAGO Vergeltungsstein-Krieger mit einem Spielzeugschwert sowie eine kleine Kristallspinne zum Zusammenbauen
+- Kinder können mit diesem LEGO NINJAGO Set mit 2 Minifiguren und einem Spielzeug-Motorrad die actiongeladene TV-Serie NINJAGO: Crystallized nachspielen
 - Das Motorrad hat einen goldenen Drachenkopf mit beweglichem Maul, goldene Seitenverkleidungen, 2 große Reifen und einen Sattel für LEGO NINJAGO Jay
+- Enthält 2 Mini-Figuren, darunter Golddrachen-Jay mit Elementar-Goldnunchaku und 2 stachelbewehrten Golddrachenflügeln
+- Enthält einen LEGO NINJAGO Vergeltungsstein-Krieger mit einem Spielzeugschwert sowie eine kleine Kristallspinne zum Zusammenbauen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
