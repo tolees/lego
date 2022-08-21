@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Âge recommandé par le fabricant: 6+
 - L’atelier de tuning
-- Les personnages de la série télévisée LEGO City et les véhicules fascinants plantent le décor pour un jeu créatif
-- Nombre de pièces: 897
 - Les enfants peuvent faire fonctionner le treuil à moteur, la dépanneuse et bien plus encore dans latelier de Tread
+- Les personnages de la série télévisée LEGO City et les véhicules fascinants plantent le décor pour un jeu créatif
+- Âge recommandé par le fabricant: 6+
+- Nombre de pièces: 897
 
 [🛒 Check the deal!!]({{< param buyurl >}})
