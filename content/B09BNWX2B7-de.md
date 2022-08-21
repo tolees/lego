@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60318 City Feuerwehrhubschrauber Feuerwehr-Spielzeug für Jungen und Mädchen ab 4 Jahren mit Feuerwehrmann und Startbaustein'
-date: 2022-08-17 15:31:30
+date: 2022-08-21 08:35:18
 image: 'https://m.media-amazon.com/images/I/51RA9UsGnML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWX2B7/?tag=tolees0ca-21'
 descuento: '32.93'
-average: '6.665'
+average: '6.67'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Zum Zubehör dieses Spielzeugs für Jungen und Mädchen ab 4 Jahren gehören ein Hotdog, ein verbrannter Hotdog, ein Hotdog-Brötchen, ein Walkie-Talkie und ein Sturzhelm
-- Die Kinder können den Feuerwehrmann an Bord des Hubschraubers begleiten, um den Hotdog-Verkäufer zu retten, dessen Mülltonne in Flammen steht!
 - Dieses Feuerwehr-Spielzeug enthält einen Feuerwehrhubschrauber mit drehbaren Rotoren, einem Staufach und einem Cockpit für eine Minifigur
 - Lösche die Flammen mit dem Feuerlöscher, gönne dir eine wohlverdiente Pause und genieße dann einen leckeren Snack – wenn du verbrannte Hotdogs magst!
 - Inklusive Feuerwehrmann und Verkäufer-Minifiguren, einem Mülleimer mit LEGO Flammen und lustigem Zubehör, inklusive verbranntem Hotdog
+- Die Kinder können den Feuerwehrmann an Bord des Hubschraubers begleiten, um den Hotdog-Verkäufer zu retten, dessen Mülltonne in Flammen steht!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
