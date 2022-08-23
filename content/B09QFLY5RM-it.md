@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Include 3 minifigure LEGO City con tute e caschi spaziali, e una figura di cane robot giocattolo, per portare a termine emozionanti missioni spaziali
 - I giovani piloti imparano mentre giocano con veri mattoncini LEGO, e sviluppano la loro creatività per risolvere le sfide di costruzione direttamente sullo schermo
-- I playset LEGO City aiutano i piccoli a sviluppare le proprie abilità creative e sono unidea regalo fantastica per il compleanno o per qualsiasi altra occasione, adatto a bambini dai 6 anni in su
-- Questo gioco interattivo LEGO City richiede uno smartphone o un tablet, con lapplicazione gratuita LEGO Building Instructions, per costruire il proprio modellino di astronave giocattolo
-- Il playset comprende i pezzi LEGO utili per costruire una navicella spaziale giocattolo e per risolvere le missioni di costruzione senza istruzioni, più 2 asteroidi e unambientazione marziana
 - Con il gioco interattivo LEGO City i bambini assumono il ruolo di protagonisti nelle avventure digitali, usando veri mattoncini LEGO e lapp per smartphone o tablet per costruire e completare le missioni
+- Questo gioco interattivo LEGO City richiede uno smartphone o un tablet, con lapplicazione gratuita LEGO Building Instructions, per costruire il proprio modellino di astronave giocattolo
+- I playset LEGO City aiutano i piccoli a sviluppare le proprie abilità creative e sono unidea regalo fantastica per il compleanno o per qualsiasi altra occasione, adatto a bambini dai 6 anni in su
+- Il playset comprende i pezzi LEGO utili per costruire una navicella spaziale giocattolo e per risolvere le missioni di costruzione senza istruzioni, più 2 asteroidi e unambientazione marziana
 - Pieno di fantastici accessori LEGO per le missioni, come un metal detector, un saldatore laser, un estintore, una banana, una coscia di pollo e un martello pneumatico giocattolo
+- Include 3 minifigure LEGO City con tute e caschi spaziali, e una figura di cane robot giocattolo, per portare a termine emozionanti missioni spaziali
 
 [🛒 Buy it now!!]({{< param buyurl >}})

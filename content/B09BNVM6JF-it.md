@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Questo set giocattolo della polizia LEGO include 3 personaggi della serie TV di LEGO City: Duke DeTain, Gracie Goodhart e Snake Rattler, più la minifigure di un ladro
-- Contiene un camion della polizia giocattolo con ufficio e prigione nel rimorchio, un drone, un veicolo ATV e un trattore con rimorchio dotato di spara-uova!
 - Contiene tanti accessori per stimolare la fantasia, inclusi un drone giocattolo con controllo remoto, manette e uova
 - I bambini potranno sparare le uova dal rimorchio, attivare la funzione di evasione e inclinare lATV per sterzare a sinistra e a destra
+- Contiene un camion della polizia giocattolo con ufficio e prigione nel rimorchio, un drone, un veicolo ATV e un trattore con rimorchio dotato di spara-uova!
+- Questo set giocattolo della polizia LEGO include 3 personaggi della serie TV di LEGO City: Duke DeTain, Gracie Goodhart e Snake Rattler, più la minifigure di un ladro
 - Spara le uova sul parabrezza, sfonda la parete della cella mobile e crea nuove e divertenti storie con questo trattore giocattolo pieno di azione e divertimento
 
 [🛒 Check the deal!!]({{< param buyurl >}})
