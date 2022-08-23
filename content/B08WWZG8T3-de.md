@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Beim Zusammenbauen können sich Familie und Freunde, sowohl Frauen als auch Männer vom stressigen Alltag erholen - also ein ideales Weihnachtsgeschenk
-- Enthält 2 Nr.-15-Motoren, 2 große Motoren, 1 Nabe und benötigt 6 AA-Batterien (nicht enthalten) zum Betrieb des ferngesteuerten Baufahrzeugs
-- Das neue Schiebeelement (seit Oktober 2021) kann festgezogen und gelöst werden und sorgt für realistische Bewegungen des Bulldozers
 - Enthält ein per App ferngesteuertes Baufahrzeug – eine Nachbildung des größten Cat-Bulldozers
-- Dieses LEGO-Cat-Modell ist dem Original detailgetreu nachempfunden mit authentischen Farben und Grafiken, die Cat-Liebhaber begeistern werden
+- Beim Zusammenbauen können sich Familie und Freunde, sowohl Frauen als auch Männer vom stressigen Alltag erholen - also ein ideales Weihnachtsgeschenk
 - Verwende die CONTROL+ App, um das Modell zu bedienen: Fahren, lenken, die Schaufel heben, senken und kippen oder den Heckaufreißer und die Leiter heben und senken
+- Dieses LEGO-Cat-Modell ist dem Original detailgetreu nachempfunden mit authentischen Farben und Grafiken, die Cat-Liebhaber begeistern werden
+- Das neue Schiebeelement (seit Oktober 2021) kann festgezogen und gelöst werden und sorgt für realistische Bewegungen des Bulldozers
+- Enthält 2 Nr.-15-Motoren, 2 große Motoren, 1 Nabe und benötigt 6 AA-Batterien (nicht enthalten) zum Betrieb des ferngesteuerten Baufahrzeugs
 
 [🛒 Buy it!!]({{< param buyurl >}})

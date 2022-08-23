@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The buildable toy treehouseobservation post has a bed, sink, toilet, ladder and a slide for baby dinosaur Bumpy
-- An ideal LEGO starter set for 4 year olds who are still learning to read - they can build on their own using the simple, illustrated instructions
-- Check out Instructions PLUS, available in the free LEGO Building Instructions app, which features zoom and rotate viewing tools
-- Includes 3 minifigures: Ben, Brooklynn and Claire Dearing, plus a Stygimoloch and Bumpy the baby Ankylosaurus dinosaur toy figures
 - The easy-to-build off-roader has a Starter Brick chassis and a removable cage for the Stygimoloch dinosaur toy
-- This LEGO Jurassic World dinosaur toy for boys and girls age 4 features 2 dinosaur figures, an all-terrain off-roader vehicle and a treehouse
+- Includes 3 minifigures: Ben, Brooklynn and Claire Dearing, plus a Stygimoloch and Bumpy the baby Ankylosaurus dinosaur toy figures
+- Check out Instructions PLUS, available in the free LEGO Building Instructions app, which features zoom and rotate viewing tools
+- An ideal LEGO starter set for 4 year olds who are still learning to read - they can build on their own using the simple, illustrated instructions
 - Packed with fun accessory elements including a tranquillizer gun, carrot, shovel and a dinosaur poo for more fun
+- The buildable toy treehouseobservation post has a bed, sink, toilet, ladder and a slide for baby dinosaur Bumpy
+- This LEGO Jurassic World dinosaur toy for boys and girls age 4 features 2 dinosaur figures, an all-terrain off-roader vehicle and a treehouse
 
 [🛒 Buy it!!]({{< param buyurl >}})
