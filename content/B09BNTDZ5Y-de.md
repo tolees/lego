@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Jemand hat einen Haufen gemacht! Schaufel diesen in den Mülleimer
-- Das LEGO Spielset mit Tieren kommt mit niedlichen Details: Karussell, Rutsche, Kletterwand, Welpenwippe, Teich und ein Eingangsbogen
-- Dieser LEGO Friends Welpenspielplatz ist vollgepackt mit Spielgeräten für fantasievolles Spielen mit Tieren
-- Mit einer LEGO Friends Andrea Mini-Puppe, einer Liz Mikro-Puppe, 3 Hunden, einer Schaufel, einem Besen, einem Kackelement und einem Ball
 - Die Kinder können die Wippe kippen und dann die Hunde mit einem Sprung in den Pool springen lassen
+- Mit einer LEGO Friends Andrea Mini-Puppe, einer Liz Mikro-Puppe, 3 Hunden, einer Schaufel, einem Besen, einem Kackelement und einem Ball
+- Dieser LEGO Friends Welpenspielplatz ist vollgepackt mit Spielgeräten für fantasievolles Spielen mit Tieren
+- Das LEGO Spielset mit Tieren kommt mit niedlichen Details: Karussell, Rutsche, Kletterwand, Welpenwippe, Teich und ein Eingangsbogen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
