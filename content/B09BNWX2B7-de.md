@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60318 City Feuerwehrhubschrauber Feuerwehr-Spielzeug für Jungen und Mädchen ab 4 Jahren mit Feuerwehrmann und Startbaustein'
-date: 2022-08-25 18:25:24
+date: 2022-08-27 01:51:23
 image: 'https://m.media-amazon.com/images/I/51RA9UsGnML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNWX2B7-de LEGO 60318 City Feuerwehrhubschrauber Feuerwehr-Spielzeug...'
 sku: 'B09BNWX2B7-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 6.7 EUR
+actualPrice: 6.74 EUR
 currency: EUR
-price: 6.7
+price: 6.74
 comparePrice: 9.99 EUR
 prodname: 'LEGO 60318 City Feuerwehrhubschrauber Feuerwehr-Spielzeug für Jungen und Mädchen ab 4 Jahren mit Feuerwehrmann und Startbaustein'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWX2B7/?tag=tolees0ca-21'
-descuento: '32.93'
-average: '6.669'
+descuento: '32.53'
+average: '6.67545454545454'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
