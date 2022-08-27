@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Modular playsets and pocket-sized toys for girls and boys 5+ years old from the LEGO stunt show series make a great birthday or Christmas gift
+- The toy motorbike is friction motor-based; kids push the stunt motorcycle to activate the flywheel for spectacular airborne manoeuvres
+- One may remember Rocket Racer from the Collectible Minifigure Series 18 as the Race Car Guy or from the 90-s LEGO Racers video games
+- The LEGO City Stuntz stunt show sets entail playsets with known characters to collect and combine for the utmost stunt action
 - Kids can soar from ramps for record-breaking jumps with this LEGO stunt show set featuring flywheel-powered self driving stunt motorbike toy
 - Includes a printed guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices, to help kids building
 - The Rocket Stunt Bike set includes LEGO stunt racer minifigure of Rocket Racer, who has been appearing throughout the history of LEGO City
-- The toy motorbike is friction motor-based; kids push the stunt motorcycle to activate the flywheel for spectacular airborne manoeuvres
-- The LEGO City Stuntz stunt show sets entail playsets with known characters to collect and combine for the utmost stunt action
-- One may remember Rocket Racer from the Collectible Minifigure Series 18 as the Race Car Guy or from the 90-s LEGO Racers video games
+- Modular playsets and pocket-sized toys for girls and boys 5+ years old from the LEGO stunt show series make a great birthday or Christmas gift
 
 [🛒 Buy it!!]({{< param buyurl >}})
