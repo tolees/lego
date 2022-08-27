@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41943 DOTS Gamer Bracelet with Charms  DIY Jewellery Making Kit with Lightning Bolt Charms  Creative Craft Kit for Kids Age 6+'
-date: 2022-08-26 01:03:34
+date: 2022-08-27 08:01:01
 image: 'https://m.media-amazon.com/images/I/51Tk64JJAOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Bracelet making kits for kids boost their imagination and design skills as they play to match their BFF designs on a wrist
-- The sturdy arts and crafts bracelet, colourful tiles and charms will make an extra treat or a fun birthday gift for creative kids
-- This craft set for kids includes special game-themed, decorated tiles, plus new-for-January-2022 charm bases and lightning charms
 - Inspiration on the packaging makes creating a snap, with tiles in teal, magenta & neon colours, plus lightning bolt charms to make a statement
 - LEGO DOTS Gamer Bracelet features an adjustable, flexible bracelet in black that fits around bigger or smaller wrists and 36 colourful tiles
 - Kids can also use the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) to expand their kids jewellery designs
+- This craft set for kids includes special game-themed, decorated tiles, plus new-for-January-2022 charm bases and lightning charms
+- The sturdy arts and crafts bracelet, colourful tiles and charms will make an extra treat or a fun birthday gift for creative kids
 
 [🛒 Buy it now!!]({{< param buyurl >}})
