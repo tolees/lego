@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Instructions are included; using the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of the model
 - It also includes an Imperial Probe Droid LEGO figure to recreate epic Star Wars: The Empire Strikes Back scenes
 - The AT-ST toy walker features a hatch accessible cockpit, opening roof, wheel-operated rotating head, 2 spring-loaded shooters & posable legs
-- Instructions are included; using the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of the model
-- Includes 3 LEGO Star Wars minifigures: Chewbacca with snow decoration, Hoth AT-ST Pilot and Hoth Rebel Trooper, each with weapons
 - Features the first-ever LEGO brick-built Battle of Hoth AT-ST model from the Star Wars: The Empire Strikes Back to recreate battle details
+- Includes 3 LEGO Star Wars minifigures: Chewbacca with snow decoration, Hoth AT-ST Pilot and Hoth Rebel Trooper, each with weapons
 
 [🛒 Check the deal!!]({{< param buyurl >}})
