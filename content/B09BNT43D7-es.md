@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - The set is great for group creative activities for kids or solo play, with pieces to wear or share once they’re done
+- Kids can also add the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) or any DOTS tiles to extend the fun
+- Includes lots of colourful, iridescent and decorated tiles, plus letter tiles to make personalised bag tags
 - This arts and crafts set for kids features 5 flat keychain-style bag tags for school bags with hanging rings in different colours and 2 sizes
 - This kids craft kit can be used on its own, or kids can see the easy-to-follow inspiration on the packaging and included leaflet
 - LEGO arts and crafts sets for kids aged 6+ make a great birthday or any time gift to boost kids’ creativity
-- Includes lots of colourful, iridescent and decorated tiles, plus letter tiles to make personalised bag tags
-- Kids can also add the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) or any DOTS tiles to extend the fun
 
 [🛒 Buy it now!!]({{< param buyurl >}})
