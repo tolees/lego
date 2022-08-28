@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Incluye 3 mini figuras LEGO Harry Potter: Alastor Ojoloco Moody, Hermione Granger y Neville Longbottom, además de una micro figura de Ojoloco Moody en el baúl
-- Transforma la mini figura LEGO Harry Potter de Ojoloco Moody en Barty Crouch girando su cabeza y cambiando el pelo
-- Este juguete LEGO de Harry Potter para niños mayores 8 años cuenta con muchos accesorios auténticos, como una pizarra, un baúl, botellas de pociones, un escritorio y sillas
-- ¡Los niños abren el libro de juegos LEGO para empezar la lección de defensa del profesor Moody, con su oficina y un baúl con un mini-Moody dentro!
-- Momento Hogwart es el juguete de regalo de Harry Potter perfecto para llevar de viaje, está diseñado para ser rápido de montar y fácil de almacenar
-- Este juguete se conecta con otros de la colección LEGO Momento Hogwarts, cada uno diseñado y decorado para recrear un aula de Hogwarts diferente
 - Cuenta con un libro coleccionable de Harry Potter construido con ladrillos LEGO creando un aula de denfensa en su interior, llena de detalles para inspirar mágicos juegos de rol
+- ¡Los niños abren el libro de juegos LEGO para empezar la lección de defensa del profesor Moody, con su oficina y un baúl con un mini-Moody dentro!
+- Este juguete LEGO de Harry Potter para niños mayores 8 años cuenta con muchos accesorios auténticos, como una pizarra, un baúl, botellas de pociones, un escritorio y sillas
+- Este juguete se conecta con otros de la colección LEGO Momento Hogwarts, cada uno diseñado y decorado para recrear un aula de Hogwarts diferente
+- Incluye 3 mini figuras LEGO Harry Potter: Alastor Ojoloco Moody, Hermione Granger y Neville Longbottom, además de una micro figura de Ojoloco Moody en el baúl
+- Momento Hogwart es el juguete de regalo de Harry Potter perfecto para llevar de viaje, está diseñado para ser rápido de montar y fácil de almacenar
+- Transforma la mini figura LEGO Harry Potter de Ojoloco Moody en Barty Crouch girando su cabeza y cambiando el pelo
 
 [🛒 Buy it!!]({{< param buyurl >}})
