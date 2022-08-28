@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Enthält einen großen Zerkleinerer mit Kabine für eine Minifigur und Hebearm, einen Frontlader mit Schaufelarm und einen Kipplaster mit Kippmulde
 - Bergbauprofis an der Abbaustätte
+- Vom Hersteller empfohlenes Alter: 7-12
 - Enthält außerdem ein großes Bergwerk mit Bruchelementen und einen versteckten Goldklumpen, eine drehbare Rutsche, ein Schienensystem mit 2 Bergbaufahrzeugen und ein mobiles Labor
 - Anzahl der Teile: 883
-- Vom Hersteller empfohlenes Alter: 7-12
-- Enthält einen großen Zerkleinerer mit Kabine für eine Minifigur und Hebearm, einen Frontlader mit Schaufelarm und einen Kipplaster mit Kippmulde
 
 [🛒 Buy it now!!]({{< param buyurl >}})

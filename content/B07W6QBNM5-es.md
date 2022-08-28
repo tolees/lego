@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Los niños pueden manejar el elevador en el taller, izar coches con el gato, rescatar vehículos averiados con el camión grúa, y mucho más. Además, los niños pueden combinar este set con otros juegos LEGO para aumentar la diversión en el juego.
-- Edad recomendada por el fabricante: 6+
-- Taller de Tuneo
-- Número de piezas: 897
 - El set presenta un garaje de juguete, una caravana y sorprendentes vehículos, incluido un camión grúa, un bólido clásico y una moto a reacción, además de 7 minifiguras que incluyen a los personajes de LEGO City, Tread Octane y Harl Hubbs.
+- Número de piezas: 897
+- Taller de Tuneo
+- Edad recomendada por el fabricante: 6+
 
 [🛒 Check the deal!!]({{< param buyurl >}})
