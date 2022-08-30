@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41720 Friends Water Park Set with Swimming Pool and Slides  Heartlake City Toy for Girls and Boys Aged 6 Plus  Birthday Gift Idea'
-date: 2022-08-29 07:47:15
+date: 2022-08-30 10:17:35
 image: 'https://m.media-amazon.com/images/I/51RyaP1+HPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFYP88B/?tag=tolees0a-21'
 descuento: '34.55'
-average: '41.99'
+average: '40.49'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,10 +29,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Features 2 mini-dolls: LEGO Friends Olivia and Nandi plus a Santiago micro-doll, a life jacket, ice cream, lolly and sun cream accessories
-- Includes a climbing net, waterfall shower, spraying octopus, water canons, ice cream stand and seating area plus a grotto with an aquarium
 - This cool LEGO Friends summer toy playset features a water park with a swimming pool, 2 water slides, a shower and a changing room area
-- Change Olivia’s head to a version wearing goggles when shes ready to swim, spin the octopus model and open the lockers to store accessories
 - Kids can role-play climbing the net, whooshing down the 2 slides or working at the ice lolly stand with this creative toy for kids aged 6+
+- Change Olivia’s head to a version wearing goggles when shes ready to swim, spin the octopus model and open the lockers to store accessories
 - LEGO Friends Water Park playset makes a great birthday, Christmas or any time gift and is a fun summer toy for kids 6+ years old
+- Includes a climbing net, waterfall shower, spraying octopus, water canons, ice cream stand and seating area plus a grotto with an aquarium
 
 [🛒 Buy it!!]({{< param buyurl >}})
