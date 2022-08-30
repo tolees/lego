@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Auf dem coolen blauen Spielzeug-Motorrad können der Polizist und der Hund fahren - zudem enthält das Set auch ein Poster, auf dem „Entlaufender Hund“ steht
-- Mit dem Motorikspielzeug für Babys verbessern sie die Feinmotorik und stärken das soziale und emotionale Bewusstsein ihres Kindes
-- Ein süßer Hund ist verschwunden! Kann dein kleiner Held dem Polizisten helfen, das verlorene Haustier zu finden?
 - Eine lustige Bildergeschichte, die im Set enthalten ist, führt Kinder in kreatives Bauen und fantasievolles Spielen ein
+- Mit dem Motorikspielzeug für Babys verbessern sie die Feinmotorik und stärken das soziale und emotionale Bewusstsein ihres Kindes
+- Auf dem coolen blauen Spielzeug-Motorrad können der Polizist und der Hund fahren - zudem enthält das Set auch ein Poster, auf dem „Entlaufender Hund“ steht
 - Dieses DUPLO Set für Kleinkinder ab 2 Jahre enthält ein LEGO DUPLO Polizei-Motorrad, eine LEGO DUPLO Polizistenfigur und Hundefigur
+- Ein süßer Hund ist verschwunden! Kann dein kleiner Held dem Polizisten helfen, das verlorene Haustier zu finden?
 
 [🛒 Buy it!!]({{< param buyurl >}})
