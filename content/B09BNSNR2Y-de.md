@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'LEGO 11024 Classic Graue Bauplatte  quadratische Grundplatte mit 48x48 Noppen als Basis für Konstruktionen und für weitere LEGO Sets'
-date: 2022-08-30 17:35:32
+date: 2022-08-31 19:41:53
 image: 'https://m.media-amazon.com/images/I/51cLpr43ySL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09BNSNR2Y-de LEGO 11024 Classic Graue Bauplatte quadratische...'
 sku: 'B09BNSNR2Y-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeug Aufbewahrung & Zubehör','Spielzeug','lego','🇩🇪', ]
-actualPrice: 9.94 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
+actualPrice: 9.9 EUR
 currency: EUR
-price: 9.94
+price: 9.9
 comparePrice: 14.99 EUR
 prodname: 'LEGO 11024 Classic Graue Bauplatte  quadratische Grundplatte mit 48x48 Noppen als Basis für Konstruktionen und für weitere LEGO Sets'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSNR2Y/?tag=tolees0ca-21'
-descuento: '33.69'
-average: '10.0560000000001'
+descuento: '33.96'
+average: '10.0516666666668'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
