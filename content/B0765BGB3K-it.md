@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Numero di pezzi: 1179
+- Età consigliata dal produttore: 9-14
+- Turbo-cingolato
 - Il carro armato Turbo-cingolato dei Cacciatori di dragoni è dotato di cabina di guida per minifigure apribile, piattaforma con tetto apribile per 2 cattivi, 2 torrette rotanti (ognuna con uno shooter a molla), funzione gru, una prigione rimovibile e apribile per 3 minifigure, più uno scomparto posteriore nascosto con porta-armi pieghevole e rimovibile e 3 lance, una lama a mezza luna e un tantō.
 - La statua è dotata di elementi dell’Armatura del dragone staccabili: l’Elmetto del dragone, la Corazza del dragone, la Lama Dragonbone e lo Scudo del dragone.
-- Età consigliata dal produttore: 9-14
-- Numero di pezzi: 1179
-- Turbo-cingolato
 
 [🛒 Check the deal!!]({{< param buyurl >}})
