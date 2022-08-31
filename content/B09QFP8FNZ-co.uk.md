@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41711 Friends Emma s Art School House Set  Creative Toy with 3 Mini-Dolls  Accessories and DOTS decor  Gift Idea for Girls and Boys 8 Plus Years Old'
-date: 2022-08-30 10:17:32
+date: 2022-08-31 12:52:43
 image: 'https://m.media-amazon.com/images/I/51AZLneervL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFP8FNZ/?tag=tolees0a-21'
 descuento: '36.01'
-average: '41.69'
+average: '41.03'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Let kids personalise this model building with their own decoration using the included LEGO DOTS to make a great kids bedroom display piece
 - This art-inspired toy for kids aged 8 features a 3-storey art school house with craft classrooms, art studios and lots of cool accessories
+- Let kids personalise this model building with their own decoration using the included LEGO DOTS to make a great kids bedroom display piece
+- Surprise aspiring artists with a truly special creative toy: the playset is a great birthday or holiday gift for boys and girls 8 years old
 - Kids join Emma as she takes up a place at the art school and learns art skills (pottery, photography, ceramics, fashion and 3D printing)
+- With 3 LEGO Friends mini-dolls: Emma, Béatrice and Felix, plus a posable mannequin, camera, painting canvas, art brushes and cans of paint
 - Features a clock, school sign with pencil and paintbrush, an autumn tree and a toy bike; kids can decorate it all with the included LEGO DOTS
 - In this LEGO Friends dolls house toy the pottery wheel spins, the camera has 2 lenses, and the posable mannequin spins on its stand
-- Surprise aspiring artists with a truly special creative toy: the playset is a great birthday or holiday gift for boys and girls 8 years old
-- With 3 LEGO Friends mini-dolls: Emma, Béatrice and Felix, plus a posable mannequin, camera, painting canvas, art brushes and cans of paint
 
 [🛒 Buy it now!!]({{< param buyurl >}})
