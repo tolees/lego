@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- This preschool learning toy includes 2 LEGO DUPLO figures – a recycling man and a boy – plus a large broom to finish cleaning after recycling
-- Kids can practise colour sorting of the coloured bags & their matching bins, and build fine motor skills with the open-and-close bin lids
-- As kids organize the recycling fitting the 3 bags into 3 matching waste bins and garbage truck toy, they develop eco-friendly habits for life
 - This LEGO DUPLO early development and activity set makes a great gift for toddlers and is a chance for parents to share precious developmental milestones with their little one
+- Kids can practise colour sorting of the coloured bags & their matching bins, and build fine motor skills with the open-and-close bin lids
 - This educational toy for toddlers 2 year olds features a movable garbage truck toy with a tipping function, plus recycle bags and bins
+- This preschool learning toy includes 2 LEGO DUPLO figures – a recycling man and a boy – plus a large broom to finish cleaning after recycling
+- As kids organize the recycling fitting the 3 bags into 3 matching waste bins and garbage truck toy, they develop eco-friendly habits for life
 
 [🛒 Buy it!!]({{< param buyurl >}})

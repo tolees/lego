@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Der Doppeldecker besitzt ein Cockpit für eine Minifigur. Zum Set gehören außerdem ein Löwe, ein Baum und ein afrikanischer Papagei. Fantastische Safari-Abenteuer erwarten dich!
 - Das Baumhaus verfügt über einen Balkon mit Couch und Leiter, einen Innenraum mit Toilette und Waschbecken und 3 Tierspielzeuge: Eine Giraffe, einen Flamingo und einen Nashornvogel
-- Abenteuerlustige Tierfans ab 7 Jahren können im Safari-Baumhaus lustige Abenteuer erleben und es dann in einen Doppeldecker oder Katamaran umbauen.
-- Die Creator 3-in-1-Spielsets und die LEGO Minifiguren sorgen für endlose Abenteuer, denn sie ermöglichen es Kindern, stundenlang zu bauen, umzubauen und kreativ zu sein
 - Wir stechen in See! Kleine Kapitäne können den Spielzeug-Boot mit verstellbarem Segel an einem Spielzeug-Krokodil und einem Marabu-Storch vorbeisegeln lassen
 - Dieses Bauset bietet kleinen Tierfans ab 7 Jahren viel Bauspaß und ist ein tolles Geschenk für Jungen und Mädchen zum Geburtstag oder zu Weihnachten, das garantiert Freude bringt
+- Die Creator 3-in-1-Spielsets und die LEGO Minifiguren sorgen für endlose Abenteuer, denn sie ermöglichen es Kindern, stundenlang zu bauen, umzubauen und kreativ zu sein
+- Abenteuerlustige Tierfans ab 7 Jahren können im Safari-Baumhaus lustige Abenteuer erleben und es dann in einen Doppeldecker oder Katamaran umbauen.
+- Der Doppeldecker besitzt ein Cockpit für eine Minifigur. Zum Set gehören außerdem ein Löwe, ein Baum und ein afrikanischer Papagei. Fantastische Safari-Abenteuer erwarten dich!
 
 [🛒 Buy it!!]({{< param buyurl >}})

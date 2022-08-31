@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Il comprend également le lance-roquettes « M. Boom » de Darby et lordinateur portable de Sox le robot chat pour que les fans puissent recréer des scènes du film lÉclair : Lhistoire vraie de Buzz
-- Le jouet vaisseau spatial comprend un cockpit qui souvre pour accueillir la minifigurine LEGO Buzz lÉclair en uniforme de pilote de vaisseau spatial et une pile à combustible amovible
-- Cet ensemble LEGO Buzz lÉclair comprend un jouet de vaisseau spatial à construire, 3 minifigurines, une figurine de robot chat LEGO et 3 armes
-- Ce jouet pour enfants de 8 ans et plus Buzz lÉclair à construire comprend un support de présentation pour que la construction puisse être fièrement exposée dans la chambre des enfants
 - Les fans des jouets à construire Buzz lÉclair aimeront combiner cet ensemble avec lensemble La poursuite de Zyclops (76830) et lensemble La bataille de Zurg (76831)
+- Le jouet vaisseau spatial comprend un cockpit qui souvre pour accueillir la minifigurine LEGO Buzz lÉclair en uniforme de pilote de vaisseau spatial et une pile à combustible amovible
+- Il comprend également le lance-roquettes « M. Boom » de Darby et lordinateur portable de Sox le robot chat pour que les fans puissent recréer des scènes du film lÉclair : Lhistoire vraie de Buzz
+- Ce jouet pour enfants de 8 ans et plus Buzz lÉclair à construire comprend un support de présentation pour que la construction puisse être fièrement exposée dans la chambre des enfants
+- Cet ensemble LEGO Buzz lÉclair comprend un jouet de vaisseau spatial à construire, 3 minifigurines, une figurine de robot chat LEGO et 3 armes
 
 [🛒 Buy it!!]({{< param buyurl >}})

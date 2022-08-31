@@ -29,11 +29,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Kinder können 1 großes DIY Design erstellen, indem sie die 5 Aufkleber zusammen anbringen oder mit 5 separaten, kleineren Designs arbeiten
+- Das LEGO DOTS Mosaike Set enthält einfach zu befolgende Mustervorschläge, die zu neuen Designs für die personalisierten Aufkleber inspirieren
 - Setze Trends auf dem Spielplatz und verziere Notizbücher und andere Oberflächen mit den personalisierten Aufklebern
 - Die Kinder können auch andere LEGO DOTS Sets und Boxen (separat erhältlich) verwenden, um ihre kreativen Entwürfe zu erweitern.
+- Das Bastelset für Kinder enthält 5 8x8 große selbstklebende Aufnäher in verschiedenen Farben, die auf jeder ebenen Oberfläche kleben
 - Mit dem kreativen Mosaik Bastelset können Kinder immer wieder neue Ideen umsetzen und haben lange Freude an den Aufklebern
 - Enthält über 450 bunte Steinchen, 10 Steinchen mit zufälligen Mustern und einen Steinchenlöser zum lustigen Basteln für Kinder
-- Das LEGO DOTS Mosaike Set enthält einfach zu befolgende Mustervorschläge, die zu neuen Designs für die personalisierten Aufkleber inspirieren
-- Das Bastelset für Kinder enthält 5 8x8 große selbstklebende Aufnäher in verschiedenen Farben, die auf jeder ebenen Oberfläche kleben
 
 [🛒 Buy it!!]({{< param buyurl >}})
