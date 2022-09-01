@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- This set combines with Zyclops Chase (76830) and Zurg battle (76831) to bring more scenes from infinity to fans’ bedrooms and beyond
-- The LEGO Buzz Lightyear buildable toy features the XL-15 toy spaceship from Disney and Pixar’s Lightyear movie to role-play space battles
-- Kids help Buzz Lightyear prepare his XL-15 craft for takeoff, close the cockpit and Buzz is ready to fly off on his next galactic adventure
-- The Disney buildable outer space toys are the best gift for 8 year old girls and boys who dream of becoming Space-Rangers-in-training
 - Comes with 3 LEGO minifigures, including Buzz Lightyear in a pilots jumpsuit, a LEGO robot Sox the cat figure - with his laptop - and 3 weapons
+- The Disney buildable outer space toys are the best gift for 8 year old girls and boys who dream of becoming Space-Rangers-in-training
+- The LEGO Buzz Lightyear buildable toy features the XL-15 toy spaceship from Disney and Pixar’s Lightyear movie to role-play space battles
+- This set combines with Zyclops Chase (76830) and Zurg battle (76831) to bring more scenes from infinity to fans’ bedrooms and beyond
+- Kids help Buzz Lightyear prepare his XL-15 craft for takeoff, close the cockpit and Buzz is ready to fly off on his next galactic adventure
 - The buildable spaceship toy for kids 8 years old features an opening cockpit and a removable fuel cell and comes with a detailed display stand
 
 [🛒 Buy it!!]({{< param buyurl >}})

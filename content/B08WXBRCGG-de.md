@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das Highlight des LEGO Minecraft Sets "Die Dschungel Ungeheuer" ist eine 15 cm hohe Monster-Figur mit beweglichen Armen, Kopf, Mund, Beinen und Taille
 - Mit seinem massiven, beweglichen Kopf, dem sich öffnenden Mund und dem Arm zum Zerquetschen ist er ein tolles Spielzeuggeschenk für Fans von Minecraft Dungeons ab 8 Jahren
+- Das Highlight des LEGO Minecraft Sets "Die Dschungel Ungeheuer" ist eine 15 cm hohe Monster-Figur mit beweglichen Armen, Kopf, Mund, Beinen und Taille
 - Dieser lebendige Mix aus Baumstämmen, Ranken und Stein steht fest auf einer großen Grundplatte - ein ideales Anschauungsmodell zur Dekoration des Kinderzimmers
 - In dem Minecraft Spielzeug sind Forscher- und Archäologenfiguren, ein verzauberten Creeper, ein Skelett, ein Eisengolem und eine bewegliche Pflanze mit Greifblättern enthalten
 - Dieses Spielzeug, inspiriert von dem Videospiel Minecraft, enthält die ultimativen Ungeheuer des Dschungels als Actionfiguren mit beweglichen Gliedmaßen

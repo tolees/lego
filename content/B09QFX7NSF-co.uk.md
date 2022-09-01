@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Bring nature inside and decorate your home with the LEGO Floral Art Wall Art crafts set, featuring 3 flower motif pictures to choose from
-- The included coffee-table-quality instructions guide you through the entire building process with creative ideas to enhace your home decor
-- This LEGO flower wall art crafts set allows you to enter a realm of zen-like relaxation and makes a perfect addition to any space
-- This 2,870-piece botanical set features 6 brick baseplates, a brick-built frame, colour palette, 2 hanger elements and lots of colourful pieces
-- Complete the build with the white brick-built frame and display it with pride; the harmonised palette lets you adjust colours or designs easily
-- Whether it’s a treat for you or a gift for a flower lover or crafts fan, LEGO creative hobbies bring the joy of mindful quality time to all!
 - Choose 1 of the 3 floral designs, pick colour variations to suit your home interior and style, then immerse yourself in this creative activity
+- Complete the build with the white brick-built frame and display it with pride; the harmonised palette lets you adjust colours or designs easily
+- This 2,870-piece botanical set features 6 brick baseplates, a brick-built frame, colour palette, 2 hanger elements and lots of colourful pieces
+- Whether it’s a treat for you or a gift for a flower lover or crafts fan, LEGO creative hobbies bring the joy of mindful quality time to all!
+- The included coffee-table-quality instructions guide you through the entire building process with creative ideas to enhace your home decor
+- Bring nature inside and decorate your home with the LEGO Floral Art Wall Art crafts set, featuring 3 flower motif pictures to choose from
+- This LEGO flower wall art crafts set allows you to enter a realm of zen-like relaxation and makes a perfect addition to any space
 
 [🛒 Buy it!!]({{< param buyurl >}})

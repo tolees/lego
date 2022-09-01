@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Features 2 mini-dolls: LEGO Friends Olivia and Nandi plus a Santiago micro-doll, a life jacket, ice cream, lolly and sun cream accessories
 - Includes a climbing net, waterfall shower, spraying octopus, water canons, ice cream stand and seating area plus a grotto with an aquarium
-- Kids can role-play climbing the net, whooshing down the 2 slides or working at the ice lolly stand with this creative toy for kids aged 6+
 - LEGO Friends Water Park playset makes a great birthday, Christmas or any time gift and is a fun summer toy for kids 6+ years old
 - This cool LEGO Friends summer toy playset features a water park with a swimming pool, 2 water slides, a shower and a changing room area
-- Features 2 mini-dolls: LEGO Friends Olivia and Nandi plus a Santiago micro-doll, a life jacket, ice cream, lolly and sun cream accessories
 - Change Olivia’s head to a version wearing goggles when shes ready to swim, spin the octopus model and open the lockers to store accessories
+- Kids can role-play climbing the net, whooshing down the 2 slides or working at the ice lolly stand with this creative toy for kids aged 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})

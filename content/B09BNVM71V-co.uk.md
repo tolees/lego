@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The sturdy arts and crafts bracelet, colourful tiles and charms will make an extra treat or a fun birthday gift for creative kids
-- Inspiration on the packaging makes creating a snap, with tiles in teal, magenta & neon colours, plus lightning bolt charms to make a statement
-- Bracelet making kits for kids boost their imagination and design skills as they play to match their BFF designs on a wrist
-- This craft set for kids includes special game-themed, decorated tiles, plus new-for-January-2022 charm bases and lightning charms
 - Kids can also use the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) to expand their kids jewellery designs
 - LEGO DOTS Gamer Bracelet features an adjustable, flexible bracelet in black that fits around bigger or smaller wrists and 36 colourful tiles
+- This craft set for kids includes special game-themed, decorated tiles, plus new-for-January-2022 charm bases and lightning charms
+- The sturdy arts and crafts bracelet, colourful tiles and charms will make an extra treat or a fun birthday gift for creative kids
+- Bracelet making kits for kids boost their imagination and design skills as they play to match their BFF designs on a wrist
+- Inspiration on the packaging makes creating a snap, with tiles in teal, magenta & neon colours, plus lightning bolt charms to make a statement
 
 [🛒 Buy it now!!]({{< param buyurl >}})

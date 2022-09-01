@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The Viking Ship model is adorned with 8 colourful shields, a striped sail and 2 brick built ravens, plus a ballista stud shooter to battle the snake
-- The Viking LEGO house toy has a removable roof to explore its interior plus an outside fire and brick-built cow with a plough
 - Kids can choose to build a Viking ship model battling a serpent, a house guarded by a dragon figure with a toy cow or a wolf battling 4 Vikings
+- Features 4 LEGO Viking minifigures equipped with helmets and weapons including spear, sword and axe accessories to play out scenarios in each set
 - This LEGO Creator 3in1 building toy for kids makes a great birthday, Christmas or any-time gift idea and looks awesome on display in kids rooms
+- The Viking LEGO house toy has a removable roof to explore its interior plus an outside fire and brick-built cow with a plough
 - The Serpent snake toy has posable head, tail, body, jaw and fins, and the wolf figure has a posable neck, jaw and legs for action packed play
 - Kids can experience thrilling adventures on land and sea with this 3in1 set featuring a toy Viking ship, Viking house and Fenris wolf figure
-- Features 4 LEGO Viking minifigures equipped with helmets and weapons including spear, sword and axe accessories to play out scenarios in each set
+- The Viking Ship model is adorned with 8 colourful shields, a striped sail and 2 brick built ravens, plus a ballista stud shooter to battle the snake
 
 [🛒 Buy it!!]({{< param buyurl >}})

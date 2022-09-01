@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Kids join Emma as she takes up a place at the art school and learns art skills (pottery, photography, ceramics, fashion and 3D printing)
-- In this LEGO Friends dolls house toy the pottery wheel spins, the camera has 2 lenses, and the posable mannequin spins on its stand
 - With 3 LEGO Friends mini-dolls: Emma, Béatrice and Felix, plus a posable mannequin, camera, painting canvas, art brushes and cans of paint
 - Let kids personalise this model building with their own decoration using the included LEGO DOTS to make a great kids bedroom display piece
 - Features a clock, school sign with pencil and paintbrush, an autumn tree and a toy bike; kids can decorate it all with the included LEGO DOTS
+- In this LEGO Friends dolls house toy the pottery wheel spins, the camera has 2 lenses, and the posable mannequin spins on its stand
 - Surprise aspiring artists with a truly special creative toy: the playset is a great birthday or holiday gift for boys and girls 8 years old
 - This art-inspired toy for kids aged 8 features a 3-storey art school house with craft classrooms, art studios and lots of cool accessories
 
