@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Includes LEGO Iron Man, Obadiah Stane and Pepper Potts minifigures to roleplay endless Marvel action figure battles on a giant scale
+- This LEGO Marvel Iron Man mech set features posable limbs and a working suspension connecting the body and shoulders for realistic movement
 - The action figure has an opening cockpit for a LEGO minifigure, plus a 6-stud shooter on its right arm, and a 3-stud shooter on its left arm
 - The mech’s glow-in-the-dark arc reactor in its chest glows as kids twist, turn and adjust the mech’s position to fire stud shooters
 - LEGO Marvel Avengers building toys are a great birthday gift for boys and girls aged 9 bringing superhero movie action to life
-- Includes LEGO Iron Man, Obadiah Stane and Pepper Potts minifigures to roleplay endless Marvel action figure battles on a giant scale
-- This LEGO Marvel Iron Man mech set features posable limbs and a working suspension connecting the body and shoulders for realistic movement
 
 [🛒 Buy it!!]({{< param buyurl >}})
