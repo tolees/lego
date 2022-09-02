@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic 6x6 Volvo Articulated Hauler RC Truck Toy  Remote Control Car Construction Vehicle'
-date: 2022-08-31 18:48:42
+date: 2022-09-02 04:15:04
 image: 'https://m.media-amazon.com/images/I/511FLMppG5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B00DFM7HVK/?tag=tolees0a-21'
 descuento: '19.57'
-average: '185.647226027397'
+average: '185.646102564102'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
