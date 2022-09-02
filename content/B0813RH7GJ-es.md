@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71721 Ninjago Dragón del Brujo de los Muertos'
-date: 2022-08-31 00:04:50
+date: 2022-09-01 21:59:27
 image: 'https://m.media-amazon.com/images/I/518CDUAX78L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813RH7GJ/?tag=tolees-21'
 descuento: '22.33'
-average: '76.8680536912753'
+average: '76.8782274247493'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Número de piezas: 1016
+- El dragón LEGO cuenta con patas, alas y cola móviles, y puede disparar misiles con 2 cañones, así como lanzar huesos y arañas. Las figuras de ninjas también podrán participar en un juego de mesa para escapar de los Calabozos de Shintaro.
 - Detallado set de juego ninja con un dragón NINJAGO de juguete y 6 minifiguras: el héroe Jay, el héroe Kai, la heroína Nya, el Brujo de los Muertos y 2 Guerreros Desvelados. Los niños podrán interpretar aventuras o participar en el emocionante juego de mesa.
 - Dragón del Brujo de los Muertos
-- El dragón LEGO cuenta con patas, alas y cola móviles, y puede disparar misiles con 2 cañones, así como lanzar huesos y arañas. Las figuras de ninjas también podrán participar en un juego de mesa para escapar de los Calabozos de Shintaro.
 - Edad recomendada por el fabricante: 9+
-- Número de piezas: 1016
 
 [🛒 Buy it!!]({{< param buyurl >}})
