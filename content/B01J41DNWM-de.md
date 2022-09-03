@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die LEGO Creator 3-in-1-Spielzeuge sind mit allen LEGO Spielzeugsets kompatibel, damit Kinder noch kreativer bauen können
+- Der Triceratops ist 9 cm groß.
+- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
 - Dieses lustige Dinosaurier Spielzeug für Kinder von 7-12 Jahren ist eine tolle Geschenkidee zum Geburtstag, zu Weihnachten oder als Belohnung für Fans prähistorischer Kreaturen
 - Dieses LEGO Creator 3-in-1-Modell lässt sich in Triceratops oder Pterodactylus Figuren umbauen
-- Der Triceratops ist 9 cm groß.
-- Das Spielzeugset aus LEGO Bausteinen enthält außerdem die Beute des Dinosauriers in Form abgenagter Rippen zum Zusammenbauen
-- Der T-Rex ist 11 cm groß.
 - Kinder im Alter von 7-12 Jahren können die Arme, Beine, den Schwanz und den Kopf des T-Rex bewegen und sein Maul öffnen, damit die scharfen Zähne zum Vorschein kommen
-- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
+- Der T-Rex ist 11 cm groß.
+- Das Spielzeugset aus LEGO Bausteinen enthält außerdem die Beute des Dinosauriers in Form abgenagter Rippen zum Zusammenbauen
+- Die LEGO Creator 3-in-1-Spielzeuge sind mit allen LEGO Spielzeugsets kompatibel, damit Kinder noch kreativer bauen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
