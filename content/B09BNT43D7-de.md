@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses DIY Bastelset kann ohne Anleitung verwendet werden oder die Kinder können sich an den Vorschlägen auf der Verpackung orientieren
 - Enthält viele bunte, schillernde und verzierte Steinchen sowie LEGO Buchstaben-Steinchen, mit denen sich Taschenanhänger gestalten lassen
-- LEGO Kreativsets für Mädchen und Jungen sind ein tolles Geschenk zum Geburtstag oder für jeden anderen Anlass
-- Das Bastelset für Kinder ab 6 Jahre eignet sich hervorragend für kreative Aktivitäten in der Gruppe oder im Einzelspiel
-- Die Kinder können auch das LEGO DOTS Ergänzungsset Emojis (separat erhältlich) oder beliebige DOTS Sets hinzufügen
 - Dieses Bastelset für Kinder enthält 5 Anhänger für die Schultasche mit Aufhängeringen in verschiedenen Farben und 2 Größen
+- Dieses DIY Bastelset kann ohne Anleitung verwendet werden oder die Kinder können sich an den Vorschlägen auf der Verpackung orientieren
+- Die Kinder können auch das LEGO DOTS Ergänzungsset Emojis (separat erhältlich) oder beliebige DOTS Sets hinzufügen
+- Das Bastelset für Kinder ab 6 Jahre eignet sich hervorragend für kreative Aktivitäten in der Gruppe oder im Einzelspiel
+- LEGO Kreativsets für Mädchen und Jungen sind ein tolles Geschenk zum Geburtstag oder für jeden anderen Anlass
 
 [🛒 Buy it now!!]({{< param buyurl >}})

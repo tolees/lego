@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los fans de los juguetes Frozen de Disney se enamorarán de los accesorios, que incluyen una silla de hielo, una linterna, una campana y un cofre del tesoro con una corona y diamantes
-- El castillo de juguete para construir cuenta con una puerta con una plataforma giratoria, un balcón, además de un trineo, un tobogán y un área de juegos con un balancín
 - Este castillo de princesas Disney incluye un castillo de hielo, 3 construcciones más pequeñas, mini muñecas de Anna y Elsa de Disney, además de figuras LEGO de Olaf y 3 Snowgies
 - Las instrucciones con fotos simples son perfectas para los niños que están empezando a aprender a leer, mientras que la ap Instructions PLUS ayuda a los jóvenes a ver las maquetas
 - Las mini figuras LEGO Disney Frozen de Anna y Elsa y el castillo princesas son un gran regalo para niñas o niños de 4 años en adelante
 - Más de 4 juegos en una divertida forma para que los jóvenes aprendan a construir mientras incrementan su confianza con pasos sencillos
+- Los fans de los juguetes Frozen de Disney se enamorarán de los accesorios, que incluyen una silla de hielo, una linterna, una campana y un cofre del tesoro con una corona y diamantes
+- El castillo de juguete para construir cuenta con una puerta con una plataforma giratoria, un balcón, además de un trineo, un tobogán y un área de juegos con un balancín
 
 [🛒 Check the deal!!]({{< param buyurl >}})

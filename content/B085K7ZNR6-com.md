@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Encourage your child’s love of creative DIY with this mysterious LEGO DOTS Magic Forest Bracelet (41917) set, featuring an adjustable band and 32 colorful tiles; Play starts with decorating, right out of the bag
+- With the bracelet measuring over 7” (20cm) long, this exciting DIY creative kit is perfect for budding designers to practice their creations and then wear their favorite version
 - This set is great on its own or combined with others as part of imaginative play; Kids can also use tiles from the LEGO DOTS Extra DOTS - Series 1 pack (41908) to expand their DIY bracelet designs with cool new ideas
 - Kids can stretch their self-expression skills as they decorate the cool LEGO DOTS Magic Forest Bracelet (41917), following the pattern ideas on the packaging or coming up with their own
 - Any fan of DIY or arts and crafts will love this creative set; The flexible bracelet and colorful decorated tiles will make a thrilling holiday, birthday or anytime gift for kids aged 6 and up
-- Encourage your child’s love of creative DIY with this mysterious LEGO DOTS Magic Forest Bracelet (41917) set, featuring an adjustable band and 32 colorful tiles; Play starts with decorating, right out of the bag
-- With the bracelet measuring over 7” (20cm) long, this exciting DIY creative kit is perfect for budding designers to practice their creations and then wear their favorite version
 
 [🛒 Buy it now!!]({{< param buyurl >}})
