@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60188 City Mining Bergbauprofis an der Abbaustätte'
-date: 2022-08-30 23:14:28
+date: 2022-09-02 22:55:03
 image: 'https://m.media-amazon.com/images/I/6152zEtVkCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B075GR9G8N/?tag=tolees0ca-21'
 descuento: '21.11'
-average: '193.126906318083'
+average: '193.089347826087'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Vom Hersteller empfohlenes Alter: 7-12
-- Anzahl der Teile: 883
 - Enthält einen großen Zerkleinerer mit Kabine für eine Minifigur und Hebearm, einen Frontlader mit Schaufelarm und einen Kipplaster mit Kippmulde
-- Enthält außerdem ein großes Bergwerk mit Bruchelementen und einen versteckten Goldklumpen, eine drehbare Rutsche, ein Schienensystem mit 2 Bergbaufahrzeugen und ein mobiles Labor
+- Anzahl der Teile: 883
 - Bergbauprofis an der Abbaustätte
+- Enthält außerdem ein großes Bergwerk mit Bruchelementen und einen versteckten Goldklumpen, eine drehbare Rutsche, ein Schienensystem mit 2 Bergbaufahrzeugen und ein mobiles Labor
+- Vom Hersteller empfohlenes Alter: 7-12
 
 [🛒 Buy it now!!]({{< param buyurl >}})

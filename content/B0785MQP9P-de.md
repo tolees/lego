@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago 70620 NINJAGO-City Konstruktionsspielzeug'
-date: 2022-08-30 23:21:06
+date: 2022-09-02 22:56:53
 image: 'https://m.media-amazon.com/images/I/51lU3idabUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lego Ninjago'
 buyurl: 'https://www.amazon.de/dp/B0785MQP9P/?tag=tolees0ca-21'
 descuento: '17.16'
-average: '704.873919239907'
+average: '704.836066350713'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
