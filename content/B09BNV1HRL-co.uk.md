@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75324 Star Wars Dark Trooper Attack Set  Mandalorian Buildable Toy with Revolving Elevator  Luke Skywalker Minifigure and Lightsaber'
-date: 2022-09-03 11:28:37
+date: 2022-09-04 11:36:13
 image: 'https://m.media-amazon.com/images/I/51RGzrM85lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- There are 4 LEGO Star Wars minifigures in this set with a new-for-March-2022 LEGO Luke Skywalker minifigure with a LEGO lightsaber
-- This LEGO Star Wars set comes with a revolving elevator, rotating battle platform and a sliding ‘Force’ platform to fend off Dark Troopers
-- Portable play – Luke Skywalker vs Dark Troopers battle set can fit in a child’s backpack with the LEGO minifigures for play on the go
-- The LEGO Star Wars set makes a great birthday gift idea for kids who are into The Mandalorian buildable toys
 - Features a detailed recreation of the scene inside the Imperial Light Cruiser where Luke Skywalker reappeared, from The Mandalorian Season 2
+- Portable play – Luke Skywalker vs Dark Troopers battle set can fit in a child’s backpack with the LEGO minifigures for play on the go
+- This LEGO Star Wars set comes with a revolving elevator, rotating battle platform and a sliding ‘Force’ platform to fend off Dark Troopers
+- There are 4 LEGO Star Wars minifigures in this set with a new-for-March-2022 LEGO Luke Skywalker minifigure with a LEGO lightsaber
+- The LEGO Star Wars set makes a great birthday gift idea for kids who are into The Mandalorian buildable toys
 - This Mandalorian buildable toy also includes 3 Dark Troopers, each with blaster rifles, to inspire fun, creative roleplay
 
 [🛒 Buy it!!]({{< param buyurl >}})
