@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
-date: 2022-09-02 04:19:15
+date: 2022-09-04 23:33:42
 image: 'https://m.media-amazon.com/images/I/51mcSHgTf1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07BLDTWVW/?tag=tolees0ca-21'
 descuento: '28.14'
-average: '439.868964143425'
+average: '439.831666666666'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Umfasst ein baubares Miniaturmodell von Schloss Hogwarts, Hagrids Hütte, der Peitschenden Weide und 5 Booten.
-- Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
+- Die Zubehörteile umfassen das Schwert von Gryffindor, Helga Hufflepuffs Becher, Zauberstäbe, Zaubertränke, Hausbanner, Flammen, einen Kessel und 2 Vergrößerungsgläser.
 - Enthält 4 Minifiguren: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin und Rowena Ravenclaw mit einer baubaren Stellplatte für Minifiguren.
 - Nimm in der großen Halle Platz und speise mit den Professoren und Schülern von Hogwarts!
-- Die Zubehörteile umfassen das Schwert von Gryffindor, Helga Hufflepuffs Becher, Zauberstäbe, Zaubertränke, Hausbanner, Flammen, einen Kessel und 2 Vergrößerungsgläser.
+- Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
 
 [🛒 Buy it!!]({{< param buyurl >}})
