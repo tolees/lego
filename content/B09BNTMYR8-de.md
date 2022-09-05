@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41703 Friends Freundschaftsbaumhaus mit Minipuppen  Natur-Lernspielzeug für Mädchen und Jungen ab 8 Jahren  Spielzeughaus Heartlake City'
-date: 2022-09-02 23:58:50
+date: 2022-09-05 15:01:14
 image: 'https://m.media-amazon.com/images/I/512TOpFaLHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNTMYR8-de LEGO 41703 Friends Freundschaftsbaumhaus mit Minipuppen...'
 sku: 'B09BNTMYR8-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Puppen & Zubehör','Puppensets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 52.19 EUR
+actualPrice: 56.99 EUR
 currency: EUR
-price: 52.19
+price: 56.99
 comparePrice: 79.99 EUR
 prodname: 'LEGO 41703 Friends Freundschaftsbaumhaus mit Minipuppen  Natur-Lernspielzeug für Mädchen und Jungen ab 8 Jahren  Spielzeughaus Heartlake City'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNTMYR8/?tag=tolees0ca-21'
-descuento: '34.75'
-average: '54.8554385964911'
+descuento: '28.75'
+average: '54.8922413793102'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Die Natur-Lernspielzeuge von LEGO Friends sind tolle Geschenke zum Geburtstag oder zu anderen Anlässen für kleine Umweltschützer, die sich für andere einsetzen
-- Mit diesem kreativen Baumhaus können Kinder die Minipuppen die Rutsche hinuntersausen lassen, sie auf der Schaukel anschubsen oder die Natur durch ein Teleskop betrachten
-- Inklusive 5 LEGO Friends Figuren, darunter die Minipuppen von Mia und River mit veränderbarem Gesichtsausdruck sowie eine Hasenfigur.
-- Das LEGO Friends Baumhaus-Set für Mädchen und Jungen enthält einen Aufzug, um Jackson in seinem Rollstuhl nach oben zu bringen
 - Das von der Natur inspirierte Spielzeugbaumhaus von LEGO Friends verfügt über 4 Etagen mit Büro, Küche, Schlafzimmer und Wohnzimmer sowie viele detaillierte Spielbereiche
+- Das LEGO Friends Baumhaus-Set für Mädchen und Jungen enthält einen Aufzug, um Jackson in seinem Rollstuhl nach oben zu bringen
+- Inklusive 5 LEGO Friends Figuren, darunter die Minipuppen von Mia und River mit veränderbarem Gesichtsausdruck sowie eine Hasenfigur.
+- Mit diesem kreativen Baumhaus können Kinder die Minipuppen die Rutsche hinuntersausen lassen, sie auf der Schaukel anschubsen oder die Natur durch ein Teleskop betrachten
 - Die Kinder können den Aufzug hochfahren, indem sie die Turbine aktivieren, das Geländer so drehen, dass Freunde hochklettern können, oder das Dach öffnen, um im Haus zu spielen
 - Zum Zubehör dieses Spielzeughauses gehören ein Lastenfahrrad, ein Bienenstock, ein Tischler-Schraubstock und viele detaillierte Küchen- und Haushaltsgegenstände
 
