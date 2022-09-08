@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Extended experience – With Merida’s castle measuring over 3.5 in. (9 cm) high, 5.5 in. (14 cm) wide and 3.5 in. (9 cm) deep, this set is easy for kids to take out for playdates, over and over
-- What’s in the set? – This 558-piece set includes buildable items with functions for each princess, a transforming ‘diamond’ dress designed to store a mini-doll figure inside and lots of story starters
-- Inventive gift for ages 6+ – Kids will love this set full of creative possibilities, inspired by 3 beloved Disney movies, making it a fun gift for kids wanting to join the hottest trends
-- Endless princess play – Give any child a gift to wow the playground with this LEGO Disney Aurora, Merida and Tiana’s Enchanted Creations 43203 set. The fun starts with building and doesn’t stop
 - Well-known characters – Featuring Disney’s Aurora and Tiana, plus Disney and Pixar’s Merida, this set can be combined with other Disney sets (sold separately) or used for open-ended play on its own
+- Extended experience – With Merida’s castle measuring over 3.5 in. (9 cm) high, 5.5 in. (14 cm) wide and 3.5 in. (9 cm) deep, this set is easy for kids to take out for playdates, over and over
+- Endless princess play – Give any child a gift to wow the playground with this LEGO Disney Aurora, Merida and Tiana’s Enchanted Creations 43203 set. The fun starts with building and doesn’t stop
+- Inventive gift for ages 6+ – Kids will love this set full of creative possibilities, inspired by 3 beloved Disney movies, making it a fun gift for kids wanting to join the hottest trends
+- What’s in the set? – This 558-piece set includes buildable items with functions for each princess, a transforming ‘diamond’ dress designed to store a mini-doll figure inside and lots of story starters
 
 [🛒 Buy it now!!]({{< param buyurl >}})
