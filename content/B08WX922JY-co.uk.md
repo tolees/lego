@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41684 Friends Grand Hotel Resort Dolls House Set  Heartlake City Toy with Summer and Winter Scenes plus Accessories  Gift Idea for Girls and Boys'
-date: 2022-09-05 20:07:12
+date: 2022-09-08 23:35:10
 image: 'https://m.media-amazon.com/images/I/511yCkwkHOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WX922JY-co.uk LEGO 41684 Friends Grand Hotel Resort Dolls House Set...'
 sku: 'B08WX922JY-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys Store','lego','🇬🇧', ]
-actualPrice: 67.63 GBP
+actualPrice: 64.99 GBP
 currency: GBP
-price: 67.63
+price: 64.99
 comparePrice: 89.99 GBP
 prodname: 'LEGO 41684 Friends Grand Hotel Resort Dolls House Set  Heartlake City Toy with Summer and Winter Scenes plus Accessories  Gift Idea for Girls and Boys'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WX922JY/?tag=tolees0a-21'
-descuento: '24.85'
-average: '62.9413333333334'
+descuento: '27.78'
+average: '63.0693750000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Friends set makes a centrepiece display. There are even a porter’s luggage cart and room keys that fit the doors!
-- LEGO Friends Grand Hotel Resort dolls house makes an Ideal bitrhday present or Christmas gift for girls and boys aged 8 plus
 - The LEGO Friends Heartlake City Grand Hotel set features 3-floors, 5 rooms Parisian-style toy dolls house, complete with seasonal accessories
-- Comes with 4 LEGO Friends mini-dolls, including an actress and receptionist figures, and 3 animal figures, plus an outdoor dining area
-- Creative kids will have hours of fun, they’ll love using their imagination to dress the hotel toy in accessories depending on the seasons
 - Dolls house kit features the piano bar, reception, en suite bedrooms and outdoor dining area, plus ritzy features such as a spa and penthouse
+- This LEGO Friends set makes a centrepiece display. There are even a porter’s luggage cart and room keys that fit the doors!
+- Comes with 4 LEGO Friends mini-dolls, including an actress and receptionist figures, and 3 animal figures, plus an outdoor dining area
+- LEGO Friends Grand Hotel Resort dolls house makes an Ideal bitrhday present or Christmas gift for girls and boys aged 8 plus
 - In winter there are candle lights and snowballs; summer brings flowers and ice cream; and there are golden leaves and pumpkins for autumn
+- Creative kids will have hours of fun, they’ll love using their imagination to dress the hotel toy in accessories depending on the seasons
 
 [🛒 Check the deal!!]({{< param buyurl >}})
