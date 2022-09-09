@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Aurora  Merida and Tiana’s Enchanted Creations 43203 Building Kit; Jewelry Box Set for Kids Aged 6+  558 Pieces '
-date: 2022-09-07 22:51:09
+date: 2022-09-09 11:23:54
 image: 'https://m.media-amazon.com/images/I/51TBGXEJajL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Well-known characters – Featuring Disney’s Aurora and Tiana, plus Disney and Pixar’s Merida, this set can be combined with other Disney sets (sold separately) or used for open-ended play on its own
-- Extended experience – With Merida’s castle measuring over 3.5 in. (9 cm) high, 5.5 in. (14 cm) wide and 3.5 in. (9 cm) deep, this set is easy for kids to take out for playdates, over and over
 - Endless princess play – Give any child a gift to wow the playground with this LEGO Disney Aurora, Merida and Tiana’s Enchanted Creations 43203 set. The fun starts with building and doesn’t stop
+- Extended experience – With Merida’s castle measuring over 3.5 in. (9 cm) high, 5.5 in. (14 cm) wide and 3.5 in. (9 cm) deep, this set is easy for kids to take out for playdates, over and over
+- Well-known characters – Featuring Disney’s Aurora and Tiana, plus Disney and Pixar’s Merida, this set can be combined with other Disney sets (sold separately) or used for open-ended play on its own
 - Inventive gift for ages 6+ – Kids will love this set full of creative possibilities, inspired by 3 beloved Disney movies, making it a fun gift for kids wanting to join the hottest trends
 - What’s in the set? – This 558-piece set includes buildable items with functions for each princess, a transforming ‘diamond’ dress designed to store a mini-doll figure inside and lots of story starters
 
