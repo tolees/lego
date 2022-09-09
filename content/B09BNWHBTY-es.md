@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye una estación de policía de juguete de 3 plantas, un furgón de policía para patrullar, un helicóptero de juguete y un camión de la basura, además de 5 mini figuras LEGO y un perrito
 - Cuenta con 3 personajes de la serie de TV LEGO City: Aventuras en la Ciudad; Daisy Kaboom, el jefe Wheeler y Allen, además de la mini figura de uno de los malos
-- El camión de la basura de juguete tiene un contenedor y 2 arietes para destrozar la pared de la cárcel y «huir fácilmente»: algo fácil cuando es Daisy Kaboom la que conduce
-- Además, incluye una base de carretera para conectarlo fácilmente con otros sets LEGO City: como la Persecución Policial en el Banco (60317) o el Parque de Bomberos (60320)
-- La gama de juguetes de LEGO City son un original regalo para niños y niñas de 6 años en adelante amantes de los juegos creativos y los coches de juguete, ¡en cumpleaños o en cualquier ocasión!
 - Las intuitivas herramientas de acercamiento y giro de la app digital LEGO gratuita permiten a los peques ver los modelos desde todos los ángulos mientras construyen
+- Incluye una estación de policía de juguete de 3 plantas, un furgón de policía para patrullar, un helicóptero de juguete y un camión de la basura, además de 5 mini figuras LEGO y un perrito
+- Además, incluye una base de carretera para conectarlo fácilmente con otros sets LEGO City: como la Persecución Policial en el Banco (60317) o el Parque de Bomberos (60320)
 - Este juguete de policía sincluye montones de divertidos accesorios para el juego imaginativo, como un walkie-talkie, una cámara, una caca y un dónut
+- El camión de la basura de juguete tiene un contenedor y 2 arietes para destrozar la pared de la cárcel y «huir fácilmente»: algo fácil cuando es Daisy Kaboom la que conduce
+- La gama de juguetes de LEGO City son un original regalo para niños y niñas de 6 años en adelante amantes de los juegos creativos y los coches de juguete, ¡en cumpleaños o en cualquier ocasión!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
