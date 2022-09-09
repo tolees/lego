@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids can join friends and family members for hours of open-ended building fun with this LEGO Classic Creative Monsters bricks building set
-- LEGO creative sets and building toys for 4 year olds bring a creative construction activity for kids that helps develop key life skills
-- Kids who wish to expand their LEGO bricks collection or new LEGO builders will cherish this set as a birthday present or a surprise gift
-- Includes everything kids need to create 5 monster toys, plus a pile of LEGO bricks for building more monster creations
-- Kids build and play with the 5 included model ideas, then explore and discover as they find imaginative ways to create their own LEGO toys
 - Each of the 5 model ideas comes with its own step-by-step building guide, so even first-time builders can experience the fun
+- Kids can join friends and family members for hours of open-ended building fun with this LEGO Classic Creative Monsters bricks building set
+- Kids build and play with the 5 included model ideas, then explore and discover as they find imaginative ways to create their own LEGO toys
+- LEGO creative sets and building toys for 4 year olds bring a creative construction activity for kids that helps develop key life skills
+- Includes everything kids need to create 5 monster toys, plus a pile of LEGO bricks for building more monster creations
+- Kids who wish to expand their LEGO bricks collection or new LEGO builders will cherish this set as a birthday present or a surprise gift
 
 [🛒 Buy it now!!]({{< param buyurl >}})
