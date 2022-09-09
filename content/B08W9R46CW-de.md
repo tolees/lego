@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Das Spielzeug ab 4 Jahre ist ein tolles Geburtstags- oder Feriengeschenk für Vorschulkinder, eine ideale Belohnung, die endlose Stunden Spaß garantiert
+- Kinder können mit dem fantastischen Motorrad Spielzeug spannende Kämpfe gegen Rattla und sein technisch ausgeklügeltes Katapult-Spielzeug austragen
 - Dieses LEGO NINJAGO Set enthält ein Spielzeugmotorrad, ein Katapult, mit dem Gegenstände in die Luft geschossen werden können und eine Schlangentierfigur
 - Enthält 2 LEGO NINJAGO Mini Figuren: Ninja Kai und den bösen Schlangenkrieger Rattla sowie deren Ninja-Waffen: ein Schwert, einen Speer und 2 goldene Motorradschwerter
-- Kinder können mit dem fantastischen Motorrad Spielzeug spannende Kämpfe gegen Rattla und sein technisch ausgeklügeltes Katapult-Spielzeug austragen
 - Kinder können mit dem Startbaustein selbst bauen lernen oder noch einfacher mit digitaler Anleitung PLUS, wo Vergrößerungs- und Drehfunktionen sowie ein Geistermodus zu finden sind
-- Das Spielzeug ab 4 Jahre ist ein tolles Geburtstags- oder Feriengeschenk für Vorschulkinder, eine ideale Belohnung, die endlose Stunden Spaß garantiert
 
 [🛒 Check the deal!!]({{< param buyurl >}})

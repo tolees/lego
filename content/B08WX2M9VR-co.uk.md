@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Featuring a highly posable LEGO dragon toy for ninja fans to recreate action from the NINJAGO: Seabound TV series for fun-filled hours
-- Includes 5 LEGO NINJAGO minifigures: NRG Nya, Scuba Zane, Prince Kalmaar and 2 Maaray Guards, all armed with their cool weapons
 - Features a mini- submarine toy with an opening cockpit for Scuba Zane minifigure, plus a wave amulet to be displayed in a sea-bed unit
 - The dragon figure has highly posable wings, legs, tail, neck, an opening jaw, and a moving tail that can be used as a weapon
 - Kids help Scuba Zane zoom to action inside his mini- submarine when Nya becomes a fierce Water Dragon who can use its tail as a deadly weapon
+- Includes 5 LEGO NINJAGO minifigures: NRG Nya, Scuba Zane, Prince Kalmaar and 2 Maaray Guards, all armed with their cool weapons
+- Featuring a highly posable LEGO dragon toy for ninja fans to recreate action from the NINJAGO: Seabound TV series for fun-filled hours
 
 [🛒 Buy it!!]({{< param buyurl >}})

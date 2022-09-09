@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Disney’s Frozen fans will love the accessories, including an ice chair, lantern, bell jar and treasure chest with a crown and diamonds
 - This LEGO Disneys Frozen set includes an ice castle toy, 3 smaller builds, Anna & Elsa mini doll figures, plus Olaf and 3 Snowgie LEGO figures
-- The castle compound features a gate with a spinning floor, balcony, plus sleigh, slide and seesaw play area
-- Disneys Frozen Anna and Elsa mini doll figures and princess castle toy are a great gift for girls or boys aged 4 and up who deserve a treat
+- Disney’s Frozen fans will love the accessories, including an ice chair, lantern, bell jar and treasure chest with a crown and diamonds
 - Simple picture instructions are perfect for kids who are just learning to read, while Instructions PLUS App helps youngsters visualize models
 - 4+ playsets provide a fun way for youngsters to learn to build while growing their confidence with easy steps
+- The castle compound features a gate with a spinning floor, balcony, plus sleigh, slide and seesaw play area
+- Disneys Frozen Anna and Elsa mini doll figures and princess castle toy are a great gift for girls or boys aged 4 and up who deserve a treat
 
 [🛒 Check the deal!!]({{< param buyurl >}})

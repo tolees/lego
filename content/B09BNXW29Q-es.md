@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Rastrea, localiza y captura a 2 dinosaurios de juguete a bordo de un vehículo todoterreno LEGO y revive la acción de la película Jurassic World: Dominion
 - Este juguete de Jurassic World LEGO es un regalo sorpresa o un regalo de cumpleaños perfecto para los niños de 7 años en adelante fans de los dinosaurios y los coches de juguete
 - Puedes participar en divertidos juegos simbólicos con tus personajes de Jurassic World favoritos, ¡sorprende a tus amigos con este set o construye y combínalo con otros de la gama!
 - Incluye 3 mini figuras LEGO: Ian Malcolm, Dra. Ellie Sattler y un guardia con un arma tranquilizante, además de las 2 figuras articuladas de un Pyrorraptor y un Dilofosaurio
 - La jaula se abre para que los peques introduzcan a uno de los dinosaurios LEGO dentro, ¡es hora de restablecer el orden!
-- Rastrea, localiza y captura a 2 dinosaurios de juguete a bordo de un vehículo todoterreno LEGO y revive la acción de la película Jurassic World: Dominion
 - Este juego de construcción contiene un coche todoterreno de juguete con asientos para 2 mini figuras, un rastreador de dinosaurios y un remolque desmontable con jaula
 
 [🛒 Buy it now!!]({{< param buyurl >}})

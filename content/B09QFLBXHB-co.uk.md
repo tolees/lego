@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Disney 4+ sets are full of fun and original accessories to encourage children to learn through play and develop creative skills
-- With Mickey and Minnie Mouse, Daisy and Donald Duck minifigures in medieval outfits plus accessoriess: bread, sword, hairbrush and more!
-- Boys and girls aged 4+ who love Disney characters and toy castles will love this LEGO set as a birthday, Christmas or special occasion gift
-- Includes toy castle with 2 towers and 4 small builds, toy horse with cart, dragon, treasure chest, catapult plus weapons and fruit accessories
 - Kids defend the castle from the dragon figure by launching pumpkins with the catapult, find golden key or discover a treasure and have a party!
 - This LEGO medieval castle toy comes with Starter Bricks and large pieces designed for kids 4+ years old so they can start playing right away
+- Boys and girls aged 4+ who love Disney characters and toy castles will love this LEGO set as a birthday, Christmas or special occasion gift
+- LEGO Disney 4+ sets are full of fun and original accessories to encourage children to learn through play and develop creative skills
 - Fantasy adventures await kids 4+ with this LEGO medieval toy castle featuring a buildable toy dragon and Disneys Mickey and friends minifigures
+- With Mickey and Minnie Mouse, Daisy and Donald Duck minifigures in medieval outfits plus accessoriess: bread, sword, hairbrush and more!
+- Includes toy castle with 2 towers and 4 small builds, toy horse with cart, dragon, treasure chest, catapult plus weapons and fruit accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})

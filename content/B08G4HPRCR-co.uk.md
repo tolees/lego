@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Harry Potter minifigures include Hermione Granger, Ron Weasley and Professor McGonagall, plus Rons pet rat Scabbers, and a frog for magic practice
-- Kids open the set’s cover to enter Professor McGonagalls Transfiguration lesson - look, Ron needs help when his pet rat turns into a goblet!
+- This LEGO Harry Potter toy with 3 figures features a brick-built book that opens to reveal 1 of 4 ready to be joined Hogwarts classrooms
 - Collect all Hogwarts sets that interlock to create an innovative 360-degree play space designed to recreate different classroom moments
+- Kids open the set’s cover to enter Professor McGonagalls Transfiguration lesson - look, Ron needs help when his pet rat turns into a goblet!
+- Harry Potter minifigures include Hermione Granger, Ron Weasley and Professor McGonagall, plus Rons pet rat Scabbers, and a frog for magic practice
 - Includes a blackboard, treasure chest, storage cupboard, goblet, spellbook, 2 desks, 2 chairs, and a lot of magical supplies to practice with
 - For full experience, combine all LEGO Harry Potter Hogwarts Moment sets: Potions Class 76383, Herbology Class 76384, and Charms Class 76385
 - This portable book travel toy is of a perfect size, it makes a captivating birthday or Christmas gift that will delight all Harry Potter fans
-- This LEGO Harry Potter toy with 3 figures features a brick-built book that opens to reveal 1 of 4 ready to be joined Hogwarts classrooms
 
 [🛒 Check the deal!!]({{< param buyurl >}})

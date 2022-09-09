@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Look out for banners in 7 other sets, including Lloyd’s Legendary Dragon 71766, Jay and Nya’s Race Car EVO 71776 and Ninja Dojo Temple 71767
-- After completing their epic ninja mission, kids will be rewarded with a collectible Teamwork banner to be proud of
 - The Ninja Ultra Combo Mech made from 4 different vehicles is the ultimate fighting machine to play out ninja stories with kids heroes
-- On their own, the ninjas are no match for Cobra Mechanic and Boa Destructor, but when they come together, they prevail and win!
-- This 4 in 1 LEGO NINJAGO set features an action mech toy figure consisting of a mech, car, tank and jet that can all be played with separately
+- After completing their epic ninja mission, kids will be rewarded with a collectible Teamwork banner to be proud of
 - Includes 7 LEGO NINJAGO minifigures: Kai, Jay, Zane and Cole, the evil snake duo of Cobra Mechanic and Boa Destructor, plus Wu Bot
+- This 4 in 1 LEGO NINJAGO set features an action mech toy figure consisting of a mech, car, tank and jet that can all be played with separately
+- On their own, the ninjas are no match for Cobra Mechanic and Boa Destructor, but when they come together, they prevail and win!
 - LEGO NINJAGO toys, action figures and toy car sets make fabulous birthday gifts for little ninja boys and girls age 9 plus years old
+- Look out for banners in 7 other sets, including Lloyd’s Legendary Dragon 71766, Jay and Nya’s Race Car EVO 71776 and Ninja Dojo Temple 71767
 
 [🛒 Check the deal!!]({{< param buyurl >}})
