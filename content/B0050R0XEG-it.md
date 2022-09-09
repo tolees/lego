@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 10220 - Volkswagen T1 Camper Van'
-date: 2022-09-07 03:55:23
+date: 2022-09-09 04:39:40
 image: 'https://m.media-amazon.com/images/I/61zHuRzCSgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0050R0XEG/?tag=tolees00-21'
 descuento: '16.26'
-average: '161.759809160298'
+average: '161.80245714285'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Questo van Volkswagen è unautentica replica del 1962
-- Include: 11 finestre, porte apribili, cofano apribile che rivela il motore, sedili che diventano letti e cucinotto con accessori
 - Dimensione del Van: 30 x 16 cm
+- Questo van Volkswagen è unautentica replica del 1962
 - Numero totale di pezzi: 1322
+- Include: 11 finestre, porte apribili, cofano apribile che rivela il motore, sedili che diventano letti e cucinotto con accessori
 
 [🛒 Buy it now!!]({{< param buyurl >}})
