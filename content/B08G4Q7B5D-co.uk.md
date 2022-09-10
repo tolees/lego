@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This LEGO Minecraft buildable toy for kids 8 years old is great for solo or group play and looks awesome displayed in the kids room
+- Kids help Huntress cross the hostile landscape full of traps and creatures as they play their favourite video game in a new way
 - Looking for a gift idea LEGO Minecraft sets make a great birthday or Christmas gift for boys and girls who love the game
+- It also includes a built-in explosion to fell a tree, creating a bridge leading to more adventures and rockfall features for mind-blowing fun
 - Features the dark Warped Forest environment with falling rocks and a river of lava to bring Minecraft game adventures into the real world
 - Includes 4 figures: Huntress with a bow and arrow and protective armour, a hoglin with a movable head, and 2 piglins armed with swords
-- This LEGO Minecraft buildable toy for kids 8 years old is great for solo or group play and looks awesome displayed in the kids room
-- It also includes a built-in explosion to fell a tree, creating a bridge leading to more adventures and rockfall features for mind-blowing fun
-- Kids help Huntress cross the hostile landscape full of traps and creatures as they play their favourite video game in a new way
 
 [🛒 Check the deal!!]({{< param buyurl >}})

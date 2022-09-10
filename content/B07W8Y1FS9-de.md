@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Vom Hersteller empfohlenes Alter: 5+
-- Festnahme auf der Autobahn
-- Anzahl der Teile: 185
-- Dieses Bauspielzeug verspricht jede Menge Action und ist ein tolles Geschenk zu jedem Anlass für Jungen und Mädchen ab 5 Jahren, die beim Spielen gerne ihrer Fantasie freien Lauf lassen. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
 - Kinder können die Charaktere und Autos aus diesem Set mit anderen LEGO Spielsets kombinieren, um eigene Spielzeuge und Schaustücke zu erschaffen.
+- Festnahme auf der Autobahn
+- Dieses Bauspielzeug verspricht jede Menge Action und ist ein tolles Geschenk zu jedem Anlass für Jungen und Mädchen ab 5 Jahren, die beim Spielen gerne ihrer Fantasie freien Lauf lassen. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
+- Anzahl der Teile: 185
+- Vom Hersteller empfohlenes Alter: 5+
 
 [🛒 Buy it!!]({{< param buyurl >}})

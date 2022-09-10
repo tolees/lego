@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Das kreative Baustellen-Spielzeugset mit Baufahrzeugen und Arbeitern unterstützt Mädchen und Jungen ab 2 Jahren bei der Entwicklung ihrer Feinmotorik
+- Die LEGO-DUPLO-Sets sind speziell dafür entwickelt worden, Vorschulkinder mit bekannten Schauplätzen und lustigen Figuren zum Spielen anzuregen und zu inspirieren
 - Inklusive 2 moderner Arbeiterfiguren, mit denen Kleinkinder ab 2 Jahren fantasievolle Geschichten auf der Baustelle nachspielen können
 - Enthält einen Spielzeugkipplaster und einen Spielzeugbagger mit drehbarer Schaufel zum Schieben, sowie einen Felsbrocken, den die Kinder öffnen können
-- Die LEGO-DUPLO-Sets sind speziell dafür entwickelt worden, Vorschulkinder mit bekannten Schauplätzen und lustigen Figuren zum Spielen anzuregen und zu inspirieren
-- Das kreative Baustellen-Spielzeugset mit Baufahrzeugen und Arbeitern unterstützt Mädchen und Jungen ab 2 Jahren bei der Entwicklung ihrer Feinmotorik
 - Für noch mehr Spaß kann das Spielzeug mit dem Set „Radlader“ (10930) von LEGO DUPLO kombiniert werden!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

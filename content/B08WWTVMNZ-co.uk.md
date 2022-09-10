@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- In a first for LEGO Technic, this model has differential locking controlled via a free LEGO app to manoeuvre the truck over rough terrain
-- One of the app-controlled motor vehicles series, the 4x4 Mercedes-Benz Zetros Trial RC Truck model is packed with authentic details
-- This RC app-controlled LEGO Technic truck is powered using 1 x Bluetooth-controlled smart hub, 3 x large motors and 1 x medium motor
-- Includes race-themed stickers, 2 fire extinguishers and flags creating an obstacle course to test the truck’s skills across different terrains
 - This remote control truck features a detailed engine with a spinning radiator fan, working suspension on all 4 wheels and a detailed gearbox
+- This RC app-controlled LEGO Technic truck is powered using 1 x Bluetooth-controlled smart hub, 3 x large motors and 1 x medium motor
+- One of the app-controlled motor vehicles series, the 4x4 Mercedes-Benz Zetros Trial RC Truck model is packed with authentic details
+- Includes race-themed stickers, 2 fire extinguishers and flags creating an obstacle course to test the truck’s skills across different terrains
+- In a first for LEGO Technic, this model has differential locking controlled via a free LEGO app to manoeuvre the truck over rough terrain
 
 [🛒 Buy it now!!]({{< param buyurl >}})
