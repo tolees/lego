@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
-date: 2022-09-08 16:59:27
+date: 2022-09-10 17:31:36
 image: 'https://m.media-amazon.com/images/I/51mcSHgTf1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07BLDTWVW-de LEGO Harry Potter Schloss Hogwarts 71043 Bauset 6.020 Teile'
 sku: 'B07BLDTWVW-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 435.69 EUR
+actualPrice: 434.59 EUR
 currency: EUR
-price: 435.69
+price: 434.59
 comparePrice: 599.0 EUR
 prodname: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07BLDTWVW/?tag=tolees0ca-21'
-descuento: '27.26'
-average: '439.796863905325'
+descuento: '27.45'
+average: '439.786614173228'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - Umfasst ein baubares Miniaturmodell von Schloss Hogwarts, Hagrids Hütte, der Peitschenden Weide und 5 Booten.
+- Die Zubehörteile umfassen das Schwert von Gryffindor, Helga Hufflepuffs Becher, Zauberstäbe, Zaubertränke, Hausbanner, Flammen, einen Kessel und 2 Vergrößerungsgläser.
 - Nimm in der großen Halle Platz und speise mit den Professoren und Schülern von Hogwarts!
 - Enthält 4 Minifiguren: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin und Rowena Ravenclaw mit einer baubaren Stellplatte für Minifiguren.
-- Die Zubehörteile umfassen das Schwert von Gryffindor, Helga Hufflepuffs Becher, Zauberstäbe, Zaubertränke, Hausbanner, Flammen, einen Kessel und 2 Vergrößerungsgläser.
 - Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
 
 [🛒 Buy it!!]({{< param buyurl >}})
