@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10302 Icons Optimus Prime Transformers Figure Set  Collectible Transforming 2in1 Robot and Truck Model Building Kit for Adults'
-date: 2022-09-10 23:29:25
+date: 2022-09-11 23:49:55
 image: 'https://m.media-amazon.com/images/I/51KFq1FlbbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Optimus Prime figure is part of a range of LEGO sets designed for adult builders, looking for their next immersive project
-- Attach the jetpack in robot mode and place the ion blaster and Energon axe in the legendary Autobot leaders hands
-- This unique collectible robot model makes a great home décor piece - top off the build with a unique display plaque with Optimus Prime facts
 - With this set, based on the legendary Transformers Autobot, adults build LEGO Optimus Prime figure that converts from robot to truck and back
-- Open the robot models chest chamber to store the Autobot Matrix of Leadership and admire the 19 points of articulation in robot mode
 - Relive the Transformers saga with accessories, including the ion blaster, Autobot Matrix of Leadership, an Energon axe, Energon cube and jetpack
+- Attach the jetpack in robot mode and place the ion blaster and Energon axe in the legendary Autobot leaders hands
+- This LEGO Optimus Prime figure is part of a range of LEGO sets designed for adult builders, looking for their next immersive project
+- Open the robot models chest chamber to store the Autobot Matrix of Leadership and admire the 19 points of articulation in robot mode
 - Treat yourself or give this model building kit as a birthday or Christmas gift for a fan of Optimus Prime and the Transformers universe
+- This unique collectible robot model makes a great home décor piece - top off the build with a unique display plaque with Optimus Prime facts
 
 [🛒 Buy it now!!]({{< param buyurl >}})
