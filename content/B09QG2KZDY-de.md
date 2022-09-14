@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71772 NINJAGO Der Kristallkönig Set mit beweglicher Action-Figur der Zentaur-Kreatur und exklusiver Lloyd-Minifigur  Spielzeug für Kinder'
-date: 2022-09-09 19:07:24
+date: 2022-09-14 12:56:56
 image: 'https://m.media-amazon.com/images/I/51S4rBgNAsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QG2KZDY/?tag=tolees0ca-21'
 descuento: '27.70'
-average: '43.6366666666667'
+average: '44.1157142857143'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält eine exklusive, nie zuvor gesehene LEGO NINJAGO Figur von Lloyd, Harumi, einen Vergeltungsstein-Wächter und einen Vergeltungsstein-Krieger
-- Der Kristallkönig hat die Form einer beweglichen Zentaur-LEGO-Kreatur mit 4 Beinen, 2 Armen, Flügeln, einem großen Schwert und Platz für eine Minifigur
-- Erwecke die TV-Serie LEGO NINJAGO: Crystallized mit diesem Bauset mit einer riesigen beweglichen Kristallkönig Action-Figur zum Leben
 - Dieses LEGO NINJAGO ist ein tolles Geschenk zum Geburtstag oder für besondere Anlässe für Kinder ab 9 Jahren, die Actionfiguren und NINJAGO lieben
+- Erwecke die TV-Serie LEGO NINJAGO: Crystallized mit diesem Bauset mit einer riesigen beweglichen Kristallkönig Action-Figur zum Leben
+- Enthält eine exklusive, nie zuvor gesehene LEGO NINJAGO Figur von Lloyd, Harumi, einen Vergeltungsstein-Wächter und einen Vergeltungsstein-Krieger
 - Kinder stürmen in die Schlacht, um es mit der NINJAGO Figur vom Kristallkönig als Zentaur und den 3 gefährlichen Kriegern an seiner Seite aufzunehmen; Sei tapfer! Sei Ninja!
+- Der Kristallkönig hat die Form einer beweglichen Zentaur-LEGO-Kreatur mit 4 Beinen, 2 Armen, Flügeln, einem großen Schwert und Platz für eine Minifigur
 
 [🛒 Buy it now!!]({{< param buyurl >}})

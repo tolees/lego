@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71762 NINJAGO Kais Feuerdrache EVO  Drachen Spielzeug ab 6 Jahren mit Feuerdrachen- und Schlangen-Figur  mit Ninjas und Boa-Jäger'
-date: 2022-09-12 12:53:34
+date: 2022-09-14 12:54:05
 image: 'https://m.media-amazon.com/images/I/51n6ZlrQR7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNYRF9P-de LEGO 71762 NINJAGO Kais Feuerdrache EVO Drachen Spielzeug...'
 sku: 'B09BNYRF9P-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Fantastische Kreaturen für Kinder','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
-actualPrice: 19.99 EUR
+actualPrice: 20.99 EUR
 currency: EUR
-price: 19.99
+price: 20.99
 comparePrice: 29.99 EUR
 prodname: 'LEGO 71762 NINJAGO Kais Feuerdrache EVO  Drachen Spielzeug ab 6 Jahren mit Feuerdrachen- und Schlangen-Figur  mit Ninjas und Boa-Jäger'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNYRF9P/?tag=tolees0ca-21'
-descuento: '33.34'
-average: '19.9630158730158'
+descuento: '30.01'
+average: '19.9711023622047'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

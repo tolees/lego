@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31058 Creator Dinosaurier Spielzeug  3in1 Modell mit T-Rex  Triceratops und Pterodactylus Figuren  Bausteine Set  Geburtstagsgeschenk für Kinder'
-date: 2022-09-09 18:51:53
+date: 2022-09-14 12:48:45
 image: 'https://m.media-amazon.com/images/I/51i2beZZvQS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01J41DNWM-de LEGO 31058 Creator Dinosaurier Spielzeug 3in1 Modell mit...'
 sku: 'B01J41DNWM-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Dinosaurier & prähistorische Kreaturen für Kinder','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
-actualPrice: 9.99 EUR
+actualPrice: 9.51 EUR
 currency: EUR
-price: 9.99
+price: 9.51
 comparePrice: 14.99 EUR
 prodname: 'LEGO 31058 Creator Dinosaurier Spielzeug  3in1 Modell mit T-Rex  Triceratops und Pterodactylus Figuren  Bausteine Set  Geburtstagsgeschenk für Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B01J41DNWM/?tag=tolees0ca-21'
-descuento: '33.36'
-average: '9.80111111111111'
+descuento: '36.56'
+average: '9.772'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die LEGO Creator 3-in-1-Spielzeuge sind mit allen LEGO Spielzeugsets kompatibel, damit Kinder noch kreativer bauen können
-- Der Triceratops ist 9 cm groß.
-- Der T-Rex ist 11 cm groß
-- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
 - Kinder im Alter von 7-12 Jahren können die Arme, Beine, den Schwanz und den Kopf des T-Rex bewegen und sein Maul öffnen, damit die scharfen Zähne zum Vorschein kommen
-- Das Spielzeugset aus LEGO Bausteinen enthält außerdem die Beute des Dinosauriers in Form abgenagter Rippen zum Zusammenbauen
+- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
+- Die LEGO Creator 3-in-1-Spielzeuge sind mit allen LEGO Spielzeugsets kompatibel, damit Kinder noch kreativer bauen können
+- Der T-Rex ist 11 cm groß
+- Der Triceratops ist 9 cm groß.
 - Dieses LEGO Creator 3-in-1-Modell lässt sich in Triceratops oder Pterodactylus Figuren umbauen
+- Das Spielzeugset aus LEGO Bausteinen enthält außerdem die Beute des Dinosauriers in Form abgenagter Rippen zum Zusammenbauen
 - Dieses lustige Dinosaurier Spielzeug ist ein tolles Geburtstagsgeschenk für Kinder von 7-12 Jahren und für Fans prähistorischer Kreaturen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

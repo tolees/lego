@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60339 City Stuntz Stuntshow-Doppellooping Set  inkl. Rampe  Monstertruck  2X Motorrad und 7 Minifiguren  Spielzeug für Kinder ab 7 Jahre'
-date: 2022-09-09 19:05:38
+date: 2022-09-14 12:56:26
 image: 'https://m.media-amazon.com/images/I/51zan-cU38L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFVRYBY-de LEGO 60339 City Stuntz Stuntshow-Doppellooping Set inkl....'
 sku: 'B09QFVRYBY-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Fahrzeug Spielsets für Kinder','Spielfahrzeuge','Spielzeug','lego','🇩🇪', ]
-actualPrice: 118.99 EUR
+actualPrice: 111.99 EUR
 currency: EUR
-price: 118.99
-comparePrice: 139.99 EUR
+price: 111.99
+comparePrice: 149.99 EUR
 prodname: 'LEGO 60339 City Stuntz Stuntshow-Doppellooping Set  inkl. Rampe  Monstertruck  2X Motorrad und 7 Minifiguren  Spielzeug für Kinder ab 7 Jahre'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFVRYBY/?tag=tolees0ca-21'
-descuento: '15.00'
-average: '100.19'
+descuento: '25.34'
+average: '101.875714285714'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 7 LEGO City Minifiguren, darunter 2 LEGO Stunt Racer für aufregende Shows und Zubehör wie ein Eis am Stiel, ein Softdrink und eine Kamera
-- Bauspaß und Action mit dem Spielzeug für Kinder ab 7 Jahren - Inklusive leicht verständlicher gedruckter Bauanleitung für alle Modelle
-- Die Kinder fahren mit den Spielzeug-Motorrädern durch die Flammenwand auf Schnappschlangenschleife und zünden die Feuerschleife an
-- Kombiniere das Set mit anderen Sets aus der LEGO City Stuntz Reihe, wie dem Cruiser-Stuntbike (60331) für noch mehr Aufregung!
-- Dieses Spielset Stuntshow-Doppellooping enthält 2 schwungradbetriebene Stuntbikes und einen Monstertruck mit einer Rampe für Stunts
 - Das Action Spielzeug hat einen gewölbten Eingang, eine Flammenwand, verschiedene Loopings, einen Verkaufsstand und eine Zuschauertribüne
+- 7 LEGO City Minifiguren, darunter 2 LEGO Stunt Racer für aufregende Shows und Zubehör wie ein Eis am Stiel, ein Softdrink und eine Kamera
+- Kombiniere das Set mit anderen Sets aus der LEGO City Stuntz Reihe, wie dem Cruiser-Stuntbike (60331) für noch mehr Aufregung!
 - Dieses Set mit dem LEGO Stunt Motorrad ist ein tolles Geschenk zum Geburtstag oder zu einem anderen Anlass für Kinder ab 7 Jahren
+- Die Kinder fahren mit den Spielzeug-Motorrädern durch die Flammenwand auf Schnappschlangenschleife und zünden die Feuerschleife an
+- Dieses Spielset Stuntshow-Doppellooping enthält 2 schwungradbetriebene Stuntbikes und einen Monstertruck mit einer Rampe für Stunts
+- Bauspaß und Action mit dem Spielzeug für Kinder ab 7 Jahren - Inklusive leicht verständlicher gedruckter Bauanleitung für alle Modelle
 
 [🛒 Check the deal!!]({{< param buyurl >}})

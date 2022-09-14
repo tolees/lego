@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60350 City Mond-Forschungsbasis Weltraum-Spielzeug aus der LEGO NASA Serie mit Astronauten-Minifiguren  ab 7 Jahre'
-date: 2022-09-09 18:51:26
+date: 2022-09-14 12:51:46
 image: 'https://m.media-amazon.com/images/I/510wT10FoaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNT33L5-de LEGO 60350 City Mond-Forschungsbasis Weltraum-Spielzeug...'
 sku: 'B09BNT33L5-de'
 tags: [ 'Raumschiffe-Spielzeug für Kinder','Spielfahrzeuge','Spielzeug','lego','🇩🇪', ]
-actualPrice: 69.99 EUR
+actualPrice: 71.99 EUR
 currency: EUR
-price: 69.99
+price: 71.99
 comparePrice: 99.99 EUR
 prodname: 'LEGO 60350 City Mond-Forschungsbasis Weltraum-Spielzeug aus der LEGO NASA Serie mit Astronauten-Minifiguren  ab 7 Jahre'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNT33L5/?tag=tolees0ca-21'
-descuento: '30.00'
-average: '70.3416666666667'
+descuento: '28.00'
+average: '70.5771428571429'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Mit der LEGO Bauanleitung App für Smartphones und Tablets können Kinder ihre Modelle beim Bauen aus allen Blickwinkeln betrachten
-- Enthält einen Mondoberflächenscanner, Pflanzen, eine Trinkbecher und Helme, sowie 6 Astronauten-Minifiguren
 - Dieses LEGO Mond-Forschungsbasis Set enthält eine Mondlandefähre, eine Flugkran-Drohne, einen VIPER-inspirierten Mondroboter-Rover und einen Mond-Buggy
 - Dieses LEGO City Spielzeug für Kinder ab 7 Jahren ist ein außergewöhnliches Geburtstagsgeschenk für alle Weltraum-Fans
+- Enthält einen Mondoberflächenscanner, Pflanzen, eine Trinkbecher und Helme, sowie 6 Astronauten-Minifiguren
 - Das von der LEGO NASA inspirierte Spielzeug ist vollgepackt mit Details: kuppelförmiges Unterkunftsmodul, Botanik- und Forschungslabor, Andocktunnel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
