@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21184 Minecraft The Bakery Modular Farm Village Building Set  Gift for Boys & Girls Aged 8 Plus with Diamond Toy Sword  Creeper & Goat Animal Figures'
-date: 2022-09-10 12:03:13
+date: 2022-09-15 12:19:05
 image: 'https://m.media-amazon.com/images/I/51yZEI7oZUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Accessories also include a treasure chest with an egg hidden inside which kids can defend with the classic Minecraft diamond sword accessory
-- This LEGO Minecraft village set features a brick built bakery shop, farm, 3 Minecraft figures and a Goat toy for video game inspired LEGO adventures
-- LEGO Minecraft sets offer kids new ways to enjoy the game & bring familiar characters and locations to life through the world of LEGO bricks
 - Includes Minecraft character and mob figures that players will instantly recognise: a baker, a snow villager, a creeper and a goat toy
+- LEGO Minecraft sets offer kids new ways to enjoy the game & bring familiar characters and locations to life through the world of LEGO bricks
+- This LEGO Minecraft village set features a brick built bakery shop, farm, 3 Minecraft figures and a Goat toy for video game inspired LEGO adventures
 - Kids help the snow villager grow wheat on the farm, and get milk from the goat toy; then they join the baker to get creative in the kitchen
+- Accessories also include a treasure chest with an egg hidden inside which kids can defend with the classic Minecraft diamond sword accessory
 - This versatile LEGO Minecraft set is the perfect creative toy for kids age 8 and makes a great birthday, Christmas or any-occasion gift
 
 [🛒 Buy it!!]({{< param buyurl >}})

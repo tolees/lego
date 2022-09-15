@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21174 Minecraft The Modern Treehouse - Dollhouse Toy  Collectible Model with Creeper and Animal Figures plus Golden Sword  Gifts for Boys & Girls'
-date: 2022-09-03 17:17:29
+date: 2022-09-15 12:15:24
 image: 'https://m.media-amazon.com/images/I/51UlH8V7aoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWSXGC3/?tag=tolees0a-21'
 descuento: '28.57'
-average: '80.07875'
+average: '79.5133333333333'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Accessories include loads of fun features from the video game from furniture and bedding to tools and TNT
 - Includes a charged Creeper Minecraft figure and a panda skin, ocelot skin, zombie, cat and chicken from the online Minecraft game
-- Kids build the dollhouses 4 very different rooms – kitchen, library, study and bedroom – that don’t even have to be attached to the tree
 - This build & display modular LEGO treehouse toy is ideal for any Minecraft or model-making enthusiast aged 9, it makes a great birthday gift
+- Accessories include loads of fun features from the video game from furniture and bedding to tools and TNT
 - The LEGO Minecraft The Modern Treehouse toy is a large, detailed and extremely versatile playset featuring 4 endlessly reconfigurable rooms
+- Kids build the dollhouses 4 very different rooms – kitchen, library, study and bedroom – that don’t even have to be attached to the tree
 
 [🛒 Buy it now!!]({{< param buyurl >}})

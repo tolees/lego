@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76156 Marvel Rise of the Domo Space Building Set  Superhero Spaceship Toy from The Eternals Movie and 2 Deviants Action Figures  Gifts for Boys & Girls'
-date: 2022-09-04 16:58:27
+date: 2022-09-15 12:13:14
 image: 'https://m.media-amazon.com/images/I/51y64cv26wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B082WDCZTG/?tag=tolees0a-21'
 descuento: '25.57'
-average: '63.1690909090909'
+average: '63.4866666666667'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
