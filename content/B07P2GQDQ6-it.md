@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42110 Technic Land Rover Defender  Set Costruzioni del Fuoristrada 4x4  Kit di Modellismo da Collezione  Modellini Auto da Costruire'
-date: 2022-09-10 18:08:54
+date: 2022-09-15 19:29:26
 image: 'https://m.media-amazon.com/images/I/51ET8+5C4jS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07P2GQDQ6/?tag=tolees00-21'
 descuento: '15.00'
-average: '165.374573170728'
+average: '165.456606060603'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Apri le portiere per accedere al dettagliato abitacolo.
-- La cabina è dotata di cruscotto dettagliato, volante funzionante e sedili posteriori ribaltabili che rivelano il cambio sequenziale a 4 velocità.
 - Dotata di carrozzeria autentica con marchi Land Rover, cerchi dal design originale con pneumatici ad alto grip, portapacchi rimovibile con box, borsa laterale, piano scala e piano di trazione, portiere, cofano e portellone posteriore apribili e una cabina dettagliata.
-- Ammira la livrea verde oliva, grigia e nera.
 - Solleva il cofano per ammirare il dettagliato motore a 6 cilindri in linea con pistoni mobili.
-- Novità di ottobre 2019: sistema di trasmissione a 2 leve per i rapporti di trasmissione alto o basso, e cambio per selezionare la marcia, il cambio LEGO Technic più sofisticato mai realizzato!
 - Le funzioni comprendono un cambio sequenziale a 4 velocità, trazione integrale con 3 differenziali, sospensioni indipendenti su entrambi gli assi, motore a 6 cilindri in linea dettagliato e un verricello funzionante.
+- Novità di ottobre 2019: sistema di trasmissione a 2 leve per i rapporti di trasmissione alto o basso, e cambio per selezionare la marcia, il cambio LEGO Technic più sofisticato mai realizzato!
+- Apri le portiere per accedere al dettagliato abitacolo.
+- Ammira la livrea verde oliva, grigia e nera.
+- La cabina è dotata di cruscotto dettagliato, volante funzionante e sedili posteriori ribaltabili che rivelano il cambio sequenziale a 4 velocità.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
