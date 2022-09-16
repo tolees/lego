@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Marvel The Eternals range brings endless creative role play and action-packed superhero playsets that can be combined to expand fun
+- The big Celestial action figure has a light-up chest with light-brick effects and grabbing arms - it can hold an Eternal minifigure in its hand
+- Includes 4 Eternals superhero minifigures: Ikaris, Sersi and exclusive Ajak and Kingo, a Deviant figure, and a posable Celestial action figure
 - Accessories include 2 daggers, 1 sword, 2 mini shooters and a blade for endless creative role play and action-packed fun
 - This toy for kids 7+ years old makes a wonderful birthday or Christmas gift and looks amazing in any kids bedroom when on display
-- Includes 4 Eternals superhero minifigures: Ikaris, Sersi and exclusive Ajak and Kingo, a Deviant figure, and a posable Celestial action figure
+- LEGO Marvel The Eternals range brings endless creative role play and action-packed superhero playsets that can be combined to expand fun
 - Batteries for the light brick are included, so young superheroes can enjoy hands-on fun and imaginative roleplay straight from the box
 - Kids join 4 Eternals superhero minifigures to defeat a Deviant bat in this LEGO Marvel The Eternals In Arishem’s Shadow building toy
-- The big Celestial action figure has a light-up chest with light-brick effects and grabbing arms - it can hold an Eternal minifigure in its hand
 
 [🛒 Check the deal!!]({{< param buyurl >}})

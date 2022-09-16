@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Hogwarts Castle Clock Tower Building Toy  Compatible with Great Hall and Whomping Willow Sets  Gifts for Girls & Boys'
-date: 2022-09-15 18:42:06
+date: 2022-09-16 18:49:39
 image: 'https://m.media-amazon.com/images/I/516O6mbvkqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07G3S3M9J/?tag=tolees0a-21'
 descuento: '22.24'
-average: '72.8748776508974'
+average: '72.8701628664497'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- All figures come with wands and their Yule Ball costumes with a scene including 2 icy tables, buildable icy sculpture and a toy Christmas Tree
+- Build the 3-level LEGO Hogwarts Castle Clock Tower toy with iconic locations and 8 minifigures from the Harry Potter movies
 - Features a clock-changing mechanism to create Time-Turner time travel adventures and a ‘dance’ function to get the Yule Ball really moving!
 - This Harry Potter castle toy is a magical LEGO birthday or Christmas gift for 9 plus year old girls and boys and fans of the Wizarding World
 - Locations include the Defense Against the Dark Arts classroom, Dumbledore’s Office, Hospital Wing, Prefects’ Bathroom and a Yule Ball scene
+- All figures come with wands and their Yule Ball costumes with a scene including 2 icy tables, buildable icy sculpture and a toy Christmas Tree
 - This LEGO Harry Potter buildable toy includes 8 minifigures: Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore and Madame Maxime
-- Build the 3-level LEGO Hogwarts Castle Clock Tower toy with iconic locations and 8 minifigures from the Harry Potter movies
 
 [🛒 Buy it!!]({{< param buyurl >}})

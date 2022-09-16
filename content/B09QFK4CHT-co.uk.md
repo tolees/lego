@@ -29,9 +29,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 ℹ️:
 
 - The manual functions: upper arm that rotates 360 degrees, elevating operating cab, a mobile undercarriage system with steering and 4 outriggers
+- The LEGO pneumatic functions include a movable arm with a reach of approximately 13 inches, plus a functioning ‘orange peel’ style grapple
 - This mechanical toy with a range of functions is a great gift for fans of LEGO Technic and for anyone looking for a more challenging LEGO build
 - LEGO Technic construction toys feature realistic movement and mechanisms that introduce young builders to the universe of engineering
 - This LEGO Technic Material Handler model crane features manual and pneumatic functions for kids to learn how this mighty vehicle works
-- The LEGO pneumatic functions include a movable arm with a reach of approximately 13 inches, plus a functioning ‘orange peel’ style grapple
 
 [🛒 Buy it!!]({{< param buyurl >}})

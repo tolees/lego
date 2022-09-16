@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes lots of cool features, such as Light and Sound bricks to bring the busy site to life, and the bulldozer’s Push & Go friction motor
-- 15 different toy accessories inspire little builders aged 2-5 years old to play out different scenarios and develop important skills
-- Includes 5 DUPLO figures: a female painter and crane driver, 2 male construction workers and a hotdog guy, plus a cat figure
-- Kids can deliver supplies, build a tower and clear rubble with the construction vehicles and when it’s time for lunch, there’s a hotdog stand to visit!
 - Features a diverse and treat-packed set with a tower crane and 4 vehicles: big bulldozer, mini bulldozer, dump truck and digger toys for toddlers
+- Kids can deliver supplies, build a tower and clear rubble with the construction vehicles and when it’s time for lunch, there’s a hotdog stand to visit!
+- Includes 5 DUPLO figures: a female painter and crane driver, 2 male construction workers and a hotdog guy, plus a cat figure
+- 15 different toy accessories inspire little builders aged 2-5 years old to play out different scenarios and develop important skills
 
 [🛒 Check the deal!!]({{< param buyurl >}})
