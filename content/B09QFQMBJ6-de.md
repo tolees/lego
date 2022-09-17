@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71771 NINJAGO Der Tempel des Kristallkönigs  Spielset mit Minifiguren Cole  Zane  Kai und Jay  Action-Spielzeug für Kinder ab 8 Jahre'
-date: 2022-09-16 00:06:42
+date: 2022-09-17 12:41:25
 image: 'https://m.media-amazon.com/images/I/51FQPDdqgKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFQMBJ6/?tag=tolees0ca-21'
 descuento: '34.48'
-average: '52.2533333333334'
+average: '52.2653846153847'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Comes with the free LEGO Building Instructions app to zoom, rotate and visualise a digital version of the model on smartphones and tablets
-- Includes 4 exclusive NINJAGO minifigures: Cole, Zane, Kai and Jay plus elemental weapons: swords, shuriken, bladed nunchucks and a scythe
-- Kids can bring characters and action from the NINJAGO: Crystallized TV series to life with this action-packed LEGO NINJAGO Crystal Temple set
-- Kids dare to climb to the top of the temple, past dangerous traps to retrieve the stolen elemental weapons from the Crystal King
-- This LEGO NINJAGO action toy also features an exclusive Crystal King minifigure with 4 arms & swords plus a Vengestone Guard with crystal armour
-- Check 7 other playsets from the NINJAGO: Crystallized TV series, including The Crystal King Temple (71771) and Nya’s Samurai X MECH (71775)
-- Features a buildable temple packed with cool features and functions, including The Crystal King’s throne, a floating prison and several traps
+- Spielset enthält einen Tempel voller cooler Features und Funktionen, darunter den Thron des Kristallkönigs, ein schwebendes Gefängnis und mehrere Fallen
+- Enthält 4 exklusive NINJAGO Minifiguren: Cole, Zane, Kai und Jay sowie ihre Elementarwaffen
+- Freu dich auch auf 7 weitere Spielsets zur TV-Serie NINJAGO: Crystallized, beispielsweise auf „Lloyds Ultragolddrache“ (71774) und „Nyas Samurai-X-Mech“ (71775)
+- Mit diesem actiongeladenen LEGO NINJAGO Set Tempel des Kristallkönigs können Kinder Charaktere aus der TV-Serie NINJAGO: Crystallized zum Leben erwecken
+- Kinder müssen auf die Spitze des Tempels klettern, vorbei an gefährlichen Fallen, um die gestohlenen Elementarwaffen vom Kristallkönig zurück zu erobern
+- Dieses LEGO NINJAGO Action-Spielzeug enthält außerdem einen Kristallkönig mit 4 Armen sowie einen Vergeltungsstein-Wächter in Kristallrüstung
+- Das Spielzeug für Kinder ab 8 Jahre wird mit der kostenlosen LEGO Building Instructions App geliefert, um eine digitale Version des Modells auf Smartphones und Tablets anzeigen zu können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
