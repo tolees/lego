@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Découvrez dautres jouets NINJAGO : Seabound, dont le dragon de l’eau (71754) et le robot Hydro de Lloyd (71750)
+- N’oubliez pas d’aller voir le bolide ninja sous-marin (71752) et le temple de la Mer sans fin (71755)
+- Inclut 10 figurines NINJAGO: Scuba Kai, Scuba Cole, Scuba Jay, Scuba Lloyd, Scuba Zane et Scuba Nya
 - Le véhicule sous-marin LEGO offre un jouet robot entièrement constructible qui se détache pour que les fans puissent mettre en scène des histoires sous-marines captivantes
 - Ce set LEGO de 1159 pièces est un jeu de construction pour enfants de 9 ans et plus, c’est le cadeau danniversaire ou de vacances idéal
-- N’oubliez pas d’aller voir le bolide ninja sous-marin (71752) et le temple de la Mer sans fin (71755)
-- Le sous-marin possède 2 tireurs à ressort, 2 ailes pliantes, un cockpit qui s’ouvre, un méca détachable, et transporte 2 mini-sous-marins
-- Inclut 10 figurines NINJAGO: Scuba Kai, Scuba Cole, Scuba Jay, Scuba Lloyd, Scuba Zane et Scuba Nya
 - Comprend également le prince Kalmaar et une figurine de Garde Maaray, ainsi que 2 Wu Bots ; le char du Prince est tiré par une raie Manta géante
+- Découvrez dautres jouets NINJAGO : Seabound, dont le dragon de l’eau (71754) et le robot Hydro de Lloyd (71750)
+- Le sous-marin possède 2 tireurs à ressort, 2 ailes pliantes, un cockpit qui s’ouvre, un méca détachable, et transporte 2 mini-sous-marins
 
 [🛒 Buy it!!]({{< param buyurl >}})
