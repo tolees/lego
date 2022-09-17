@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10962 Duplo Disney et Pixar La Mission Planétaire de Buzz l’Éclair  Jouet de l espace avec Robot et Vaisseau Spatial  pour Enfants de 2 Ans'
-date: 2022-09-08 18:04:14
+date: 2022-09-16 23:28:35
 image: 'https://m.media-amazon.com/images/I/51Nb0o+UngL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNS2MRD-fr LEGO 10962 Duplo Disney et Pixar La Mission Planétaire de...'
 sku: 'B09BNS2MRD-fr'
 tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux de construction','lego','🇫🇷', ]
-actualPrice: 20.0 EUR
+actualPrice: 22.08 EUR
 currency: EUR
-price: 20.0
+price: 22.08
 comparePrice: 34.99 EUR
 prodname: 'LEGO 10962 Duplo Disney et Pixar La Mission Planétaire de Buzz l’Éclair  Jouet de l espace avec Robot et Vaisseau Spatial  pour Enfants de 2 Ans'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNS2MRD/?tag=tolees0d-21'
-descuento: '42.84'
-average: '20.1162962962964'
+descuento: '36.90'
+average: '20.5975862068967'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
