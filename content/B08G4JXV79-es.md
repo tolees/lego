@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 7+
-- Cada caja de sorpresa contiene una mini figura de Bandmates Edición 1, dos BeatBits elegidos al azar, un BeatBit especial y un accesorio addicional para una diversión infinita.
-- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
 - Bandmates
+- Cada caja de sorpresa contiene una mini figura de Bandmates Edición 1, dos BeatBits elegidos al azar, un BeatBit especial y un accesorio addicional para una diversión infinita.
 - Número de piezas: 11
+- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
+- Edad recomendada por el fabricante: 7+
 
 [🛒 Buy it!!]({{< param buyurl >}})
