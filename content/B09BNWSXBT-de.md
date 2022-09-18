@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71399 Super Mario Luigi‘s Mansion: Eingang – Erweiterungsset  Spielzeug mit Figuren  kreatives Spiel für Kinder'
-date: 2022-09-14 12:53:18
+date: 2022-09-18 12:27:13
 image: 'https://m.media-amazon.com/images/I/51U6Nbg35DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWSXBT/?tag=tolees0ca-21'
 descuento: '30.01'
-average: '26.5411363636363'
+average: '26.5733333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
