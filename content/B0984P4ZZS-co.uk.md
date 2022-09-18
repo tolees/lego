@@ -28,13 +28,13 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- The building can start without batteries, however 6 x AA 1.5V batteries (not included) are required to enjoy all the features of the truck toy
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
 - Control the 2,193-piece mighty machine using the app – tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
 - The range of LEGO Technic RC construction vehicle toys are a great Christmas gift idea for LEGO fans of remote & app-controlled motor vehicles
-- Build a model of remote control dump truck version of the classic A60H Articulated Hauler from Volvo for epic construction experience
 - Download the LEGO Technic CONTROL+ app and explore the different control screens, challenges, achievements and exclusive content
-- Powered by 1 large angular position motor, 1 XL motor, and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials
+- The building can start without batteries, however 6 x AA 1.5V batteries (not included) are required to enjoy all the features of the truck toy
+- Build a model of remote control dump truck version of the classic A60H Articulated Hauler from Volvo for epic construction experience
 - Through the app, the fun endures long after the remote control truck model is built while opening the secrets of mega construction machines
+- Powered by 1 large angular position motor, 1 XL motor, and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
 
 [🛒 Buy it!!]({{< param buyurl >}})

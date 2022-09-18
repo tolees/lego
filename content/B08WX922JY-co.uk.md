@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- In winter there are candle lights and snowballs; summer brings flowers and ice cream; and there are golden leaves and pumpkins for autumn
-- LEGO Friends Grand Hotel Resort dolls house makes an Ideal bitrhday present or Christmas gift for girls and boys aged 8 plus
-- Dolls house kit features the piano bar, reception, en suite bedrooms and outdoor dining area, plus ritzy features such as a spa and penthouse
-- Creative kids will have hours of fun, they’ll love using their imagination to dress the hotel toy in accessories depending on the seasons
 - Comes with 4 LEGO Friends mini-dolls, including an actress and receptionist figures, and 3 animal figures, plus an outdoor dining area
+- In winter there are candle lights and snowballs; summer brings flowers and ice cream; and there are golden leaves and pumpkins for autumn
 - This LEGO Friends set makes a centrepiece display. There are even a porter’s luggage cart and room keys that fit the doors!
 - The LEGO Friends Heartlake City Grand Hotel set features 3-floors, 5 rooms Parisian-style toy dolls house, complete with seasonal accessories
+- LEGO Friends Grand Hotel Resort dolls house makes an Ideal bitrhday present or Christmas gift for girls and boys aged 8 plus
+- Creative kids will have hours of fun, they’ll love using their imagination to dress the hotel toy in accessories depending on the seasons
+- Dolls house kit features the piano bar, reception, en suite bedrooms and outdoor dining area, plus ritzy features such as a spa and penthouse
 
 [🛒 Check the deal!!]({{< param buyurl >}})
