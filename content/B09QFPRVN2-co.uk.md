@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10963 DUPLO Marvel Spider-Man & Friends: Funfair Adventure Fairground  with Helicopter toy  Spidey and Hulk Figures  Toys for Toddlers Aged 2 Plus'
-date: 2022-09-17 12:22:30
+date: 2022-09-19 12:08:09
 image: 'https://m.media-amazon.com/images/I/51U9iMTfDTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFPRVN2/?tag=tolees0a-21'
 descuento: '34.53'
-average: '35.995'
+average: '35.9953846153846'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Toddlers can place the figures in the seats and spin the wheel, target practise with the water shooter element and fly Spideys toy helicopter
-- Easy to build, with lots of fun features; a moving big wheel, a helicopter toy with spinning rotors, a water shooter with water element and more
-- This LEGO fairground playset includes Spidey, Ms. Marvel, Green Goblin and Hulk LEGO DUPLO figures from the Marvel Universe, plus a bear figure
-- This Spidey and His Amazing Friends buildable toy makes a fantastic birthday, Christmas or any-time gift for toddlers & Super Hero fans aged 2+
 - This LEGO DUPLO toy for toddlers brings little super heroes age 2+ into the centre of the action with a fairground full of activities
+- Toddlers can place the figures in the seats and spin the wheel, target practise with the water shooter element and fly Spideys toy helicopter
 - This LEGO Spider-Man buildable toy for toddlers age 2 plus encourages learning through role play and helps with fine motor skills development
+- This Spidey and His Amazing Friends buildable toy makes a fantastic birthday, Christmas or any-time gift for toddlers & Super Hero fans aged 2+
+- This LEGO fairground playset includes Spidey, Ms. Marvel, Green Goblin and Hulk LEGO DUPLO figures from the Marvel Universe, plus a bear figure
+- Easy to build, with lots of fun features; a moving big wheel, a helicopter toy with spinning rotors, a water shooter with water element and more
 
 [🛒 Buy it now!!]({{< param buyurl >}})
