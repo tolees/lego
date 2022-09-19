@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Este set de 1.159 piezas para niños a partir de 9 años es un gran regalo de cumpleaños o de vacaciones
-- Consulte también el Submarino Anfibio Ninja (71752) y Templo del Mar Infinito (71755)
-- El submarino de juguete tiene 2 cañones automáticos, 2 alas plegables, una cabina abatible y un mecanismo desmontable, y lleva geniales 2 minisubmarinos
-- Hazte con más sets de NINJAGO inspirados en la serie de televisión NINJAGO: Seabound, que incluyen Dragón de Agua (71754) y Robot Hidro de Lloyd (71750)
-- El set de LEGO NINJAGO cuenta con un juguete submarino que lanza un juguete mecánico para construir para que los fans escenifiquen historias apasionantes bajo el mar
 - También incluye al Príncipe Kalmaar y una mini figura de la Guardia Maaray, además de 2 Wu Bots y el carro del Príncipe, llevado por una manta gigante
+- Este set de 1.159 piezas para niños a partir de 9 años es un gran regalo de cumpleaños o de vacaciones
+- El submarino de juguete tiene 2 cañones automáticos, 2 alas plegables, una cabina abatible y un mecanismo desmontable, y lleva geniales 2 minisubmarinos
+- Consulte también el Submarino Anfibio Ninja (71752) y Templo del Mar Infinito (71755)
 - Incluye 10 mini figuras de la serie de televisión NINJAGO: Seabound: Scuba Kai, Scuba Cole, Scuba Jay, Scuba Lloyd, Scuba Zane y Scuba Nya
+- El set de LEGO NINJAGO cuenta con un juguete submarino que lanza un juguete mecánico para construir para que los fans escenifiquen historias apasionantes bajo el mar
+- Hazte con más sets de NINJAGO inspirados en la serie de televisión NINJAGO: Seabound, que incluyen Dragón de Agua (71754) y Robot Hidro de Lloyd (71750)
 
 [🛒 Buy it!!]({{< param buyurl >}})
