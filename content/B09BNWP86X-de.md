@@ -31,9 +31,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Sieh dir 2 weitere NINJAGO Sets an: Lloyds Spinjitzu-Ninjatraining (70689) und Jays Spinjitzu-Ninjatraining (70690)
 - Das spannende Action-Spielzeug ist ein kreatives Geschenk für Jungen und Mädchen, die ihre Spinjitzu Fähigkeiten verbessern möchten
 - Mit dem LEGO NINJAGO Spinner-Spielzeug kannst du Kai helfen, Spinjitzu zu meistern und ein aufregendes Ninja-Training zu erleben
-- LEGO NINJAGO Spinner hat die ideale Größe, um damit zu Hause zu spielen oder es auf Reisen mitzunehmen
-- Neu ab März 2022: die NINJAGO Kai-Minifigur hat ein exklusives Elementarkraft-Outfit
 - Dieses robuste, 32-teilige LEGO NINJAGO Spinner-Spielzeug bietet den Kleinen ein cooles Bauerlebnis
+- Neu ab März 2022: die NINJAGO Kai-Minifigur hat ein exklusives Elementarkraft-Outfit
 - Platziere Kai im Inneren des sich drehenden Spielzeugs, ziehe an der Reißleine oder teste seine Balance, indem du den Turm immer höher machst
+- LEGO NINJAGO Spinner hat die ideale Größe, um damit zu Hause zu spielen oder es auf Reisen mitzunehmen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

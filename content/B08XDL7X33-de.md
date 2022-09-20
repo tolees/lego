@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dieses Spielzeug für Kinder kann allein oder in Kombination mit anderen Sets von Encanto oder Disney (separat erhältlich) verwendet werden und ist eine tolle Geschenkidee
-- Inklusive Antonio und Mirabel als LEGO Mikro-Puppen, einem Capybara, einem Jaguar, einem Frosch und 3 Schmetterlingen aus Disneys Animationsfilm „Encanto“
-- Dank der wunderhübschen LEGO Mikro-Puppen, der süßen Tiere und der wiedererkennbaren Szenen regt dieses Bauspielzeug aus Disneys „Encanto“ zu offenem, kreativem Spiel an
-- Wenn du die Tür öffnest, entdeckst du eine Hängematte und eine Höhle, in der Antonios freundlicher kleiner Jaguar Parce mit den Schmetterlingen spielt
-- Antonio gehört einer wundersamen und magischen Familie an. Seine Tür führt in eine fantastische Miniwelt, in der es viel zu entdecken gibt
 - Dieses LEGO Disney Spielzeug für Kinder enthält Antonios „Magische Tür“ mit funktionierendem Schloss, einem Schlüssel am Schlüsselanhänger und einem Stickerbogen
+- Antonio gehört einer wundersamen und magischen Familie an. Seine Tür führt in eine fantastische Miniwelt, in der es viel zu entdecken gibt
+- Dank der wunderhübschen LEGO Mikro-Puppen, der süßen Tiere und der wiedererkennbaren Szenen regt dieses Bauspielzeug aus Disneys „Encanto“ zu offenem, kreativem Spiel an
+- Inklusive Antonio und Mirabel als LEGO Mikro-Puppen, einem Capybara, einem Jaguar, einem Frosch und 3 Schmetterlingen aus Disneys Animationsfilm „Encanto“
+- Dieses Spielzeug für Kinder kann allein oder in Kombination mit anderen Sets von Encanto oder Disney (separat erhältlich) verwendet werden und ist eine tolle Geschenkidee
 - Digital Instructions PLUS mit intuitiven Modi wie dem Zoom-, Dreh- und Geistermodus bietet Kindern ein tolles digitales Bauerlebnis
+- Wenn du die Tür öffnest, entdeckst du eine Hängematte und eine Höhle, in der Antonios freundlicher kleiner Jaguar Parce mit den Schmetterlingen spielt
 
 [🛒 Check the deal!!]({{< param buyurl >}})

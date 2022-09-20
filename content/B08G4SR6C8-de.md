@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Der Schwebeeffekt, die sich drehenden Ventilatoren, das Cockpit und das rotierende Warnlicht – genau wie bei einem echten Hovercraft – lassen Kinderherzen höher schlagen
 - Enthält ein detailliertes 2-in-1 Spielzeug-Hovercraft, das für noch längeren Spielspaß in ein Flugzeug mit Doppelmotor umgebaut werden kann.
+- Der Schwebeeffekt, die sich drehenden Ventilatoren, das Cockpit und das rotierende Warnlicht – genau wie bei einem echten Hovercraft – lassen Kinderherzen höher schlagen
 - Keine Lust mehr zum Schweben? Dann baue ein zweimotoriges Flugzeug mit beweglichen Rudern und Querrudern und hebe richtig ab
-- Das LEGO Technic 2-in-1-Set ist das ideale Geschenk zum Geburtstag, zu Weihnachten oder zu jedem Anlass – für abenteuerlustige Jungen und Mädchen ab 8 Jahren, die Fahrzeuge lieben
 - Das Hovercraft verfügt über verdeckte Räder, dank denen es sich auf dem Land, im Wasser, auf Schlamm, Eis und anderen Oberflächen bewegen kann
+- Das LEGO Technic 2-in-1-Set ist das ideale Geschenk zum Geburtstag, zu Weihnachten oder zu jedem Anlass – für abenteuerlustige Jungen und Mädchen ab 8 Jahren, die Fahrzeuge lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})

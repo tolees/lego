@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die Kinder können Spider-Man auf sein Trike setzen, den Grünen Kobold auf seinem Gleiter jagen und ihn schließlich zu Fall bringen, indem sie ihn mit einem roten Netz einfangen
 - Die Minifigur des Superschurken hat einen austauschbaren Kopf mit verschiedenen Gesichtsausdrücken
-- Enthält ein Miles Morales Spider-Man LEGO Set für Kinder ab 4 Jahren aus der Disney+ Serie „Spidey und seine Super-Freunde“
-- Die Kinder werden es lieben, Szenen aus der Disney+ Serie nachzuspielen und ihre kreativen Fähigkeiten zu entfalten, indem sie ihre eigenen actiongeladenen Kämpfe erfinden
 - Dieses Spielzeug zum Bauen ab 4 Jahren umfasst ein Trike und einen Gleiter mit beweglichen Flügeln, sowie 2 LEGO Marvel Minifiguren: Miles Morales als Spider-Man und den Grünen Kobold
+- Enthält ein Miles Morales Spider-Man LEGO Set für Kinder ab 4 Jahren aus der Disney+ Serie „Spidey und seine Super-Freunde“
+- Die Kinder können Spider-Man auf sein Trike setzen, den Grünen Kobold auf seinem Gleiter jagen und ihn schließlich zu Fall bringen, indem sie ihn mit einem roten Netz einfangen
+- Die Kinder werden es lieben, Szenen aus der Disney+ Serie nachzuspielen und ihre kreativen Fähigkeiten zu entfalten, indem sie ihre eigenen actiongeladenen Kämpfe erfinden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
