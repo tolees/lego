@@ -28,9 +28,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
+- Through the app, the fun endures long after the remote control truck model is built while opening the secrets of mega construction machines
 - Control the 2,193-piece mighty machine using the app – tip the truck’s bucket, drive forward and reverse, steer and change speed and gear
 - Download the LEGO Technic CONTROL+ app and explore the different control screens, challenges, achievements and exclusive content
-- Through the app, the fun endures long after the remote control truck model is built while opening the secrets of mega construction machines
 - Powered by 1 large angular position motor, 1 XL motor, and 1 L motor with a Bluetooth controlled Smart Hub for realistic functionality
 - Build a model of remote control dump truck version of the classic A60H Articulated Hauler from Volvo for epic construction experience
 
