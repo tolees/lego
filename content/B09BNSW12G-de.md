@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31124 Creator 3-in-1 Super-Mech Roboter  Drache Figur  Flugzeug  kreatives Spielzeug für Kinder ab 7 Jahre'
-date: 2022-09-20 13:39:58
+date: 2022-09-21 19:03:29
 image: 'https://m.media-amazon.com/images/I/5155M8OfcaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNSW12G-de LEGO 31124 Creator 3-in-1 Super-Mech Roboter Drache Figur...'
 sku: 'B09BNSW12G-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 6.99 EUR
+actualPrice: 6.49 EUR
 currency: EUR
-price: 6.99
+price: 6.49
 comparePrice: 9.99 EUR
 prodname: 'LEGO 31124 Creator 3-in-1 Super-Mech Roboter  Drache Figur  Flugzeug  kreatives Spielzeug für Kinder ab 7 Jahre'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSW12G/?tag=tolees0ca-21'
-descuento: '30.03'
-average: '7.16'
+descuento: '35.04'
+average: '6.9925'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Look out for other new-for-March-2022 LEGO Creator 3in1 sets: Off-road Buggy 31123, Supersonic Jet 31126 & Fantasy Forest Creatures 31125
-- LEGO 3in1 creative construction toys let kids enjoy hours of imaginative play as they build 3 different colourful models in every box
-- Portable size – the 5.5"15 cm robots height gives kids a chance to play with it at home or take it with them wherever they go
-- Kids can play out futuristic stories with the robot toy, roar into action with the dragon model or soar into the sky with the toy jet plane
-- The toy robot has a posable head, legs, feet, arms, hands & wings; the dragon model is also fully posable; the plane toy has adjustable wings
-- The Super Robot toy for kids 7 years old lets them enjoy a 3 models in 1 set: a toy robot, a dragon figure and a toy LEGO jet plane
+- Mit dem kreativen Spielzeug können Kinder stundenlang fantasievoll spielen und 3 verschiedene bunte Modelle in jeder Box bauen
+- Der Mech hat einen beweglichen Kopf, Gliedmassen und Flügel; das Drachenmodell ist voll beweglich und das Flugzeug hat verstellbare Träger
+- Man kann mit dem Roboter Geschichten nachspielen, mit dem Drachen in Aktion treten oder mit dem Spielzeug-Flugzeug hoch hinauf fliegen
+- Die Höhe des Spielzeug-Roboters von 15 cm gibt den Kindern die Möglichkeit, mit ihm zu Hause zu spielen oder ihn überallhin mitzunehmen
+- Das Super-Mech Spielzeug für Kinder ab 7 Jahren bietet 3 Modelle: einen Spielzeug-Roboter, eine Drachen-Figur und ein Spielzeug-Flugzeug
 
 [🛒 Check the deal!!]({{< param buyurl >}})
