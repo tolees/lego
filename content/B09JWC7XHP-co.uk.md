@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 7136071387, which is required for play
+- Kids can turn the hallway to access each room and uncover hidden gems in the bedroom, dining room and bathroom to gain digital coins
 - Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials
 - Then players will battle a haunted pool table, defeat the Garbage Can Ghost and Grabbing Ghost, and topple King Boo from his tower forever
-- Kids can turn the hallway to access each room and uncover hidden gems in the bedroom, dining room and bathroom to gain digital coins
 - This LEGO Super Mario toy comes with 4 figures: a Toad (with a scared face), and enemies Garbage Can Ghost, a Grabbing Ghost and King Boo
 - Kids can add ghost battles and gem-hunting with this Super Mario Luigi’s Mansion expansion set packed with fun challenges and 4 figures
+- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 7136071387, which is required for play
 
 [🛒 Buy it!!]({{< param buyurl >}})

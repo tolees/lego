@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The colourful Minecraft toy stable is supplemented with Minecraft accessories, such as the hay bales, golden carrot and diamond horse armour
 - The LEGO Minecraft horse stable farm toy for girls and boys aged 8 years old features a horse stable with opening doors and horse figures
+- The colourful Minecraft toy stable is supplemented with Minecraft accessories, such as the hay bales, golden carrot and diamond horse armour
+- This hands-on recreation of the popular online game is a great LEGO gift idea and will delight Minecraft players and horse lovers alike
 - Kids can feed and care for the LEGO horses figures, build an obstacle course for them to jump over, and battle a skeleton horseman
 - Kids who love Minecraft will recognize the online game’s horse mobs, stable building and authentic Minecraft features inspiring the play
-- This hands-on recreation of the popular online game is a great LEGO gift idea and will delight Minecraft players and horse lovers alike
 
 [🛒 Buy it now!!]({{< param buyurl >}})
