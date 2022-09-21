@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60317 City Banküberfall mit Verfolgungsjagd mit Hubschrauber  Drohne und 2 LKWs  Polizei-Spielzeug für Kinder ab 7 Jahren  Abenteuerset'
-date: 2022-09-18 12:28:22
+date: 2022-09-21 07:51:45
 image: 'https://m.media-amazon.com/images/I/51bovVztqIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNVXRZM-de LEGO 60317 City Banküberfall mit Verfolgungsjagd mit...'
 sku: 'B09BNVXRZM-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Fahrzeug Spielsets für Kinder','Spielfahrzeuge','Spielzeug','lego','🇩🇪', ]
-actualPrice: 72.99 EUR
+actualPrice: 72.8 EUR
 currency: EUR
-price: 72.99
+price: 72.8
 comparePrice: 99.99 EUR
 prodname: 'LEGO 60317 City Banküberfall mit Verfolgungsjagd mit Hubschrauber  Drohne und 2 LKWs  Polizei-Spielzeug für Kinder ab 7 Jahren  Abenteuerset'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVXRZM/?tag=tolees0ca-21'
-descuento: '27.00'
-average: '73.7233333333333'
+descuento: '27.19'
+average: '73.5914285714285'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

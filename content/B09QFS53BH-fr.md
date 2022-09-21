@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10977 - Premier Chiot et Chaton sonores'
-date: 2022-09-20 06:18:54
+date: 2022-09-21 07:06:44
 image: 'https://m.media-amazon.com/images/I/51Kia26g4ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09QFS53BH/?tag=tolees0d-21'
 descuento: '34.76'
-average: '26.3946428571427'
+average: '26.44649122807'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
