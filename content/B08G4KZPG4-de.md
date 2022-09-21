@@ -28,10 +28,10 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Mit 500 Teilen und vielen LEGO-Tieren wie Vogel, Löwe, Schildkröte, Einhorn und rosa Vogel sowie ein Roboter, ein Zauberer mit Trankpult und ein Fisch in einer Korallenlandschaft
-- Inklusive gedruckter Bauanleitung und den digitalen Instructions PLUS – Teil der kostenlosen LEGO Building Instructions App mit Vergrößerungs-, Dreh- und Visualisierungswerkzeugen
-- Die 8 kreativen Spielzeuge zum Bauen und Spielen sind nur der Anfang, denn die zusätzlichen LEGO-Classic-Bausteine sorgen für noch mehr kreativen Bau- und Spielspaß
 - Enthält eine Auswahl an farbenfrohen, durchsichtigen LEGO-Classic-Bausteinen in vielen Formen und Größen sowie klassische LEGO-Steine, Augen und Räder für zusätzlichen Spielspaß!
 - Kinder ab 4 Jahren können gemeinsam mit Freunden und Familienmitgliedern bauen und ihre kreativen und motorischen Fähigkeiten entfalten. Lernen hat noch nie so viel Spaß gemacht!
+- Inklusive gedruckter Bauanleitung und den digitalen Instructions PLUS – Teil der kostenlosen LEGO Building Instructions App mit Vergrößerungs-, Dreh- und Visualisierungswerkzeugen
+- Mit 500 Teilen und vielen LEGO-Tieren wie Vogel, Löwe, Schildkröte, Einhorn und rosa Vogel sowie ein Roboter, ein Zauberer mit Trankpult und ein Fisch in einer Korallenlandschaft
+- Die 8 kreativen Spielzeuge zum Bauen und Spielen sind nur der Anfang, denn die zusätzlichen LEGO-Classic-Bausteine sorgen für noch mehr kreativen Bau- und Spielspaß
 
 [🛒 Buy it!!]({{< param buyurl >}})
