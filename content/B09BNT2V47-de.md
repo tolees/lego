@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Das Set enthält außerdem einen Teddybären, eine Giraffen-Messlatte, ein Waschbecken, ein Sofa, einen aufklappbaren Koffer und 2 Stühle
-- Das LEGO DUPLO Set führt Kleinkinder in das Geschehen bei Arztbesuchen ein
-- Eine lustige Bildergeschichte, die im Set enthalten ist, führt Kinder in kreatives Bauen und fantasievolles Spielen ein
-- LEGO DUPLO Spielzeuge für Mädchen und Jungen unterstützen die Entwicklung der Feinmotorik und lassen Eltern an Entwicklungsmeilensteinen teilhaben
 - Kinder verwenden das Stethoskop des Arztes (dauerhaft befestigt), um den Herzschlag des Kindes zu überprüfen
+- LEGO DUPLO Spielzeuge für Mädchen und Jungen unterstützen die Entwicklung der Feinmotorik und lassen Eltern an Entwicklungsmeilensteinen teilhaben
 - Dieses pädagogisch wertvolle Lernspielzeug für Kinder ab 2 Jahren enthält 3 LEGO DUPLO Figuren für ein fantasievolles Rollenspiel: eine Ärztin, einen Vater und ein Kind
+- Das Set enthält außerdem einen Teddybären, eine Giraffen-Messlatte, ein Waschbecken, ein Sofa, einen aufklappbaren Koffer und 2 Stühle
+- Eine lustige Bildergeschichte, die im Set enthalten ist, führt Kinder in kreatives Bauen und fantasievolles Spielen ein
+- Das LEGO DUPLO Set führt Kleinkinder in das Geschehen bei Arztbesuchen ein
 
 [🛒 Buy it!!]({{< param buyurl >}})
