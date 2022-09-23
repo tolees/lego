@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Los sets de actividades creativas y juguetes LEGO DOTS son un increíble regalo para cualquier ocasión para niños y niñas de 6 años en adelante creativos amantes de las manualidades
+- La bolsa DOTS Extra incluye 118 coloridas piezas azules, amarillas, rosas y moradas, entre ellas piezas transparentes, y 6 amuletos en forma de corazón y relámpago
 - Este kit de manualidades para niños también incluye 10 piezas con gráficos de entre una gama de 16 diseños posibles coleccionables, ¡los peques se lo pasarán en grande con las caras sonrientes y los aliens!
 - Los peques podrán ser creativos, divertirse y estar a la moda con los sets de manualidades LEGO DOTS: podrán expresarse como quieran y mostrar su creatividad
-- Los peques podrán desarrollar sus habilidades creativas utilizando los DOTS adicionales para personalizar pulseras infantiles, adornos para mochila, objetos de decoración y otros sets LEGO (a la venta por separado)
-- Los sets de actividades creativas y juguetes LEGO DOTS son un increíble regalo para cualquier ocasión para niños y niñas de 6 años en adelante creativos amantes de las manualidades
 - Este juguete de LEGO DOTS cuenta con la bolsa de Edución 6, un kit repleto de piezas y mosaicos infantiles en divertidos colores pastel y neón para crear pulseras, accesorios y decorar las habitaciones al estilo LEGO
-- La bolsa DOTS Extra incluye 118 coloridas piezas azules, amarillas, rosas y moradas, entre ellas piezas transparentes, y 6 amuletos en forma de corazón y relámpago
+- Los peques podrán desarrollar sus habilidades creativas utilizando los DOTS adicionales para personalizar pulseras infantiles, adornos para mochila, objetos de decoración y otros sets LEGO (a la venta por separado)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
