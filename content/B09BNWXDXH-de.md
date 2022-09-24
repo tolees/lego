@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42140 Technic App-gesteuertes Transformationsfahrzeug  ferngesteuerte Autos für Kinder  RC Offroad Modellbausatz'
-date: 2022-09-23 16:42:28
+date: 2022-09-24 19:22:12
 image: 'https://m.media-amazon.com/images/I/51Bt4CNUAuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWXDXH/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '97.5299999999999'
+average: '97.6283999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 Stoßdämpfer steuern die "Pop-up"-Funktion, die die Form des ferngesteuerten Transformationsfahrzeugs verändert, wenn es umkippt
 - Das LEGO Technic App-gesteuerte Transformationsfahrzeug ist das erste LEGO Technic RC Offroad Auto, das umkippt, wenn es gegen eine Wand fährt
-- Beide ferngesteuerten Autos für Kinder haben eine Bogie-Federung, die es ermöglicht, sich den Ketten an unebene Oberflächen anzupassen
 - Das erste LEGO Technic ferngesteuerte Geländeauto mit 2 Seiten - die eine Seite stellt einen Rennkettenfahrzeug dar, die andere einen Erkundungstruck
+- Beide ferngesteuerten Autos für Kinder haben eine Bogie-Federung, die es ermöglicht, sich den Ketten an unebene Oberflächen anzupassen
+- Verwende die CONTROL+ App, um das RC Auto zu steuern - die App wechselt die Bildschirme, um sich dem Fahrzeug anzupassen
 - Das App-gesteuerte Transformationsfahrzeug ist eine tolle Geschenkidee für Kinder, die sich für Technik, ferngesteuerte Autos und LEGO Sets interessieren
 - Die baubaren LEGO Technic Bausätze verfügen über eine Bogie-Federung, Cockpits und Ketten, 2 Stoßdämpfer und eine Ladefläche
-- Verwende die CONTROL+ App, um das RC Auto zu steuern - die App wechselt die Bildschirme, um sich dem Fahrzeug anzupassen
+- 2 Stoßdämpfer steuern die "Pop-up"-Funktion, die die Form des ferngesteuerten Transformationsfahrzeugs verändert, wenn es umkippt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
