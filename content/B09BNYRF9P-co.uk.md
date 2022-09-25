@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71762 NINJAGO Kai’s Fire Dragon EVO Toy for Kids with Cobra & Boa Snake Warrior Figures and Kai Minifigure  Collectible Mission Banner Series'
-date: 2022-09-24 13:46:06
+date: 2022-09-25 19:31:57
 image: 'https://m.media-amazon.com/images/I/51n6ZlrQR7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNYRF9P/?tag=tolees0a-21'
 descuento: '32.57'
-average: '17.1725'
+average: '17.108'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - When kids complete their missions and defeat the snakes, they are rewarded with a Courage banner to display on the dragon
 - NINJAGO snake Boa Destructor controls a shooting drone, and Cobra Mechanic comes with a jetpack and a gun that fires out a chain
+- Includes 3 NINJAGO minifigures: Kai armed with a sword, and 2 NINJAGO snake warriors - Boa Destructor and Cobra Mechanic
 - Features LEGO NINJAGO Kai’s posable fire dragon toy figure that upgrades twice to make it bigger, stronger and quicker with golden armour
 - This dragon toy features a posable head, tail, jaw, legs & a saddle for kids to place Kai when he has aerial clashes with the snake warriors
-- Includes 3 NINJAGO minifigures: Kai armed with a sword, and 2 NINJAGO snake warriors - Boa Destructor and Cobra Mechanic
 
 [🛒 Check the deal!!]({{< param buyurl >}})
