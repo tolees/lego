@@ -28,11 +28,11 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Cuenta con una figura del basilisco acoplable con una boca que se abre, cabeza con 2 articulaciones giratorias y una cola que tiene 3 partes reconfigurables
 - Para celebrar los 20 años de magia este coleccionable de Harry Potter incluye una mini figura dorada exclusiva de Voldemort y 6 cromos mágicos aleatorios (hay un total de 16 para coleccionar)
-- Revive la magia de Hogwarts con este castillo de juguete de Harry Potter que cuenta con La Cámara de los Secretos y el Gran Salón con 2 largas mesas, el atril con el búho dorado de Dumbledore y el sombrero seleccionador
 - La Cámara de los Secretos se encuentra en el primer piso y tiene una icónica entrada circular y una gran estatua con una boca que se abre, en la azotea hay un observatorio y un accesorio funcional para volar escobas
-- Con divertidos accesorios y varitas mágicas, este set LEGO es un gran regalo para que niñas y niños de 9 años amantes de las películas y la magia vivan un cumpleaños de Harry Potter inolvidable
+- Revive la magia de Hogwarts con este castillo de juguete de Harry Potter que cuenta con La Cámara de los Secretos y el Gran Salón con 2 largas mesas, el atril con el búho dorado de Dumbledore y el sombrero seleccionador
+- Cuenta con una figura del basilisco acoplable con una boca que se abre, cabeza con 2 articulaciones giratorias y una cola que tiene 3 partes reconfigurables
 - Incluye 10 mini figuras LEGO de Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood, la profesora Sinistra, Gilderoy Lockhart, Albus Dumbledore y Nick Casi Decapitado
+- Con divertidos accesorios y varitas mágicas, este set LEGO es un gran regalo para que niñas y niños de 9 años amantes de las películas y la magia vivan un cumpleaños de Harry Potter inolvidable
 
 [🛒 Buy it!!]({{< param buyurl >}})
