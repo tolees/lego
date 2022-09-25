@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Comprend des détails complexes, une tête et des sourcils à orienter pour plus ou moins de fantaisie, des doigts et des orteils mobiles et larme préférée de Yoda, le sabre laser vert
 - Cette version du Maître Jedi Yoda, figurine de collection Star Wars avec sabre laser, mesure plus de 41 cm (16") et constitue une pièce maîtresse de toute collection
-- Présente la figurine LEGO Star Wars de Yoda, une version détaillée et constructible du personnage incontournable que les enfants et les fans adorent !
 - Le modèle à construire Star Wars du puissant maître Jedi Yoda a fière allure sur un présentoir à la maison ou au bureau, impressionnant tout fan de Star Wars !
-- Cet objet de collection Star Wars : Attack of the Clones est un excellent cadeau danniversaire, de Noël ou simplement un cadeau Star Wars pour toute occasion
+- Comprend des détails complexes, une tête et des sourcils à orienter pour plus ou moins de fantaisie, des doigts et des orteils mobiles et larme préférée de Yoda, le sabre laser vert
 - Comprend également une plaque dinformation sur le maître Jedi et un support pour la minifigurine Yoda et le sabre laser inclus, pour impressionner tous les fans
+- Présente la figurine LEGO Star Wars de Yoda, une version détaillée et constructible du personnage incontournable que les enfants et les fans adorent !
+- Cet objet de collection Star Wars : Attack of the Clones est un excellent cadeau danniversaire, de Noël ou simplement un cadeau Star Wars pour toute occasion
 
 [🛒 Check the deal!!]({{< param buyurl >}})
