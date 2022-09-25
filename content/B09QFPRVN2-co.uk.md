@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Spider-Man buildable toy for toddlers age 2 plus encourages learning through role play and helps with fine motor skills development
+- Easy to build, with lots of fun features; a moving big wheel, a helicopter toy with spinning rotors, a water shooter with water element and more
+- Toddlers can place the figures in the seats and spin the wheel, target practise with the water shooter element and fly Spideys toy helicopter
 - This Spidey and His Amazing Friends buildable toy makes a fantastic birthday, Christmas or any-time gift for toddlers & Super Hero fans aged 2+
 - This LEGO DUPLO toy for toddlers brings little super heroes age 2+ into the centre of the action with a fairground full of activities
 - This LEGO fairground playset includes Spidey, Ms. Marvel, Green Goblin and Hulk LEGO DUPLO figures from the Marvel Universe, plus a bear figure
-- Toddlers can place the figures in the seats and spin the wheel, target practise with the water shooter element and fly Spideys toy helicopter
-- Easy to build, with lots of fun features; a moving big wheel, a helicopter toy with spinning rotors, a water shooter with water element and more
+- This LEGO Spider-Man buildable toy for toddlers age 2 plus encourages learning through role play and helps with fine motor skills development
 
 [🛒 Buy it now!!]({{< param buyurl >}})
