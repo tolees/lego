@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41695 Friends Pet Clinic Vet Set  Animal Rescue Toy for Kids with Mia Mini-Doll  Cat & Rabbit Figures  Gift Idea for Girls and Boys age 4 plus'
-date: 2022-09-25 19:31:40
+date: 2022-09-26 19:47:15
 image: 'https://m.media-amazon.com/images/I/51IDTFVnh6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNTV9QJ/?tag=tolees0a-21'
 descuento: '33.35'
-average: '12.0735416666666'
+average: '12.0718367346938'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Comes with 2 LEGO mini dolls, Mia and Nandi, plus 3 animal figures: a toy cat, a turtle and a rabbit, plus lots of children’s vet kit
 - Upstairs is a grooming area for pet play and pampering, complete with a bath and cat gym, plus a cat scratcher
-- Features 2-floors pet clinic, a vet set for kids 4 years old, with removable 1st floor for easy access to the downstairs features
 - LEGO Friends vet set for kids comes with Starter Brick to get kids building fast while helping to develop their construction skills
 - Downstairs features the cash register, a toy scanner to check the patients, and an instrument cabinet packed with children’s vet kit
+- Features 2-floors pet clinic, a vet set for kids 4 years old, with removable 1st floor for easy access to the downstairs features
 
 [🛒 Check the deal!!]({{< param buyurl >}})
