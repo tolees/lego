@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Âge recommandé par le fabricant: 18+
-- Star Wars Les Sith
-- Nombre de pièces: 3406
-- Ce set LEGO de 3 395 pièces inclut 9 plaques support pour décoration murale, une plaque signature Star Wars, un cadre LEGO en briques, un nouvel élément de suspension unique et un séparateur de pièces et permet à chaque constructeur d’explorer son « côté obscur » créatif.
 - La création d’un portrait LEGO unique permet de réinventer ces légendaires Seigneurs Sith et d’évacuer le stress. La bande son complémentaire favorise l’immersion dans la construction grâce aux histoires amusantes et aux interviews dans l’univers de Star Wars.
+- Âge recommandé par le fabricant: 18+
+- Nombre de pièces: 3406
+- Star Wars Les Sith
+- Ce set LEGO de 3 395 pièces inclut 9 plaques support pour décoration murale, une plaque signature Star Wars, un cadre LEGO en briques, un nouvel élément de suspension unique et un séparateur de pièces et permet à chaque constructeur d’explorer son « côté obscur » créatif.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
