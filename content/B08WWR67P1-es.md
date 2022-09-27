@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71390 Super Mario Set de Expansión: Derribo de Los Reznors  Juguete de Construcción Coleccionable para Niños'
-date: 2022-09-20 18:40:41
+date: 2022-09-27 01:39:18
 image: 'https://m.media-amazon.com/images/I/51hZmqhiX-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WWR67P1-es LEGO 71390 Super Mario Set de Expansión: Derribo de Los...'
 sku: 'B08WWR67P1-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 46.27 EUR
+actualPrice: 55.99 EUR
 currency: EUR
-price: 46.27
+price: 55.99
 comparePrice: 69.99 EUR
 prodname: 'LEGO 71390 Super Mario Set de Expansión: Derribo de Los Reznors  Juguete de Construcción Coleccionable para Niños'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWR67P1/?tag=tolees-21'
-descuento: '33.89'
-average: '58.7138636363634'
+descuento: '20.00'
+average: '58.7572794117645'
 ---
 
 With a final price of {{< param actualPrice >}} (original: {{< param comparePrice>}}) you can find [{{< param title >}}]({{< param buyurl >}}) with a  {{< param descuento >}} % discount here:
@@ -28,10 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Kids spun platforms by turning LEGO Mario and/or LEGO Luigi figures (not included) on the connected stand or use a Skewer to knock enemies off
-- The LEGO Super Mario Reznor Knockdown Expansion Set features spinning, seesawing, Blue Toad-rescuing & speed challenges on rotating platforms
-- The buildable game toy includes a Special Pipe: Speed Run offering players extra rewards while they compete to be the fastest coin-collector
-- Kids can play solo or connect via Bluetooth to a friend’s LEGO Mario or Luigi figures for 2-player social play where teamwork earns bonus coins
-- Includes LEGO figures of iconic Super Mario characters – 2 Reznors, a seesawing Grrrol and a Blue Toad, plus a ? Block
+- Este juguete de construcción tiene una tubería especial: Carrera de velocidad que ofrece a los jugadores recompensas extra mientras compiten por ser el más rápido en conseguir monedas
+- El set de expansión Derribo de los Reznors de LEGO Super Mario tiene desafíos en los que tendrás que girar, balancearte, rescatar al Toad Azul y enfrentarte a desafíos de velocidad
+- La app gratuita LEGO Super Mario ofrece instrucciones de construcción, una plataforma segura en la que los niños pueden compartir ideas, y mucho más
+- Los juguetes coleccionables de LEGO Super Mario ofrecen desafíos ilimitados, divertidos y creativos a través de la expansión, la reconstrucción y el juego interactivo
+- Los peques podrán hacer girar las plataformas colocando la figura LEGO Mario y/o LEGO Luigi (no incluidas) o utilizar el pilar con espinas para derribar a los enemigos
+- Los peques podrán jugar solos o conectarse a través de Bluetooth a la figura de LEGO Mario o Luigi de un amigo para formar un equipo de 2 jugadores y ganar monedas de bonificación
+- Incluye las figuras LEGO de 2 icónicos personajes de LEGO Super Mario: 2 Reznors, un Grrrol que se balancea y un Toad Azul, además de un bloque ?
 
 [🛒 Buy it!!]({{< param buyurl >}})
