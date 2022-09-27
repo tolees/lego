@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- producto 2: Los niños impulsan una mini figura del Capitán América en su moto de juguete y luchan contra un malvado agente de Hydra, como en Vengadores: La Era de Ultrón de Marvel Studios
-- producto 1: Cuenta con una cabina abatible en la que una mini figura se puede sentar a los controles disparando 2 cañones y esquivando el bláster del enemigo
 - producto 2: Un ladrillo para principiantes y unos sencillos pasos de construcción garantizan que los niños en edad preescolar puedan construir con confianza
+- producto 1: Cuenta con una cabina abatible en la que una mini figura se puede sentar a los controles disparando 2 cañones y esquivando el bláster del enemigo
+- producto 2: Este set de superhéroes LEGO contiene una moto de juguete para construir y un disparador de discos con un desintegrador desmontable para infinitas batallas del bien contra el mal
 - producto 1: Los niños pueden recrear la acción de alta velocidad de la película Marvel moviendo las 4 alas hacia adelante, hacia atrás, hacia arriba y hacia abajo para realizar maniobras arriesgadas a velocidad
 - producto 2: Incluye al Capitán América con su famoso escudo y mini figuras LEGO del agente Hydra para soñar con infinitas aventuras de superhéroes
-- producto 2: Este set de superhéroes LEGO contiene una moto de juguete para construir y un disparador de discos con un desintegrador desmontable para infinitas batallas del bien contra el mal
+- producto 2: Los niños impulsan una mini figura del Capitán América en su moto de juguete y luchan contra un malvado agente de Hydra, como en Vengadores: La Era de Ultrón de Marvel Studios
 - producto 1: El set LEGO Marvel presenta uno de sus aviones más emblemáticos, el futurista avión de juguete de Black Panther con alas ajustables
 - producto 1: Incluye 3 mini figuras LEGO para incentivar un juego imaginativo: Black Panther, su hermana Shuri y un malvado guerrero Chitauri armado con un desintegrador de energía
 
