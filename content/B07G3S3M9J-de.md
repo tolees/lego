@@ -28,9 +28,9 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Die Uhr kann für tolle Abenteuer mit dem Zeitumkehrer verstellt werden. Die Tanzfunktion bringt den Weihnachtsball erst richtig in Schwung
 - Enthält 8x Harry-Potter-Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore und Madame Maxime
 - Alle Figuren besitzen einen Zauberstab und Festumhänge
+- Die Uhr kann für tolle Abenteuer mit dem Zeitumkehrer verstellt werden. Die Tanzfunktion bringt den Weihnachtsball erst richtig in Schwung
 - Dieses Set enthält den dreistöckigen Hogwarts Uhrenturm, die Eingangshalle, das Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel, Dumbledores Büro und vieles mehr
 - Der Hogwarts Uhrenturm ist 35 cm hoch, 34 cm breit und 18 cm tief
 
