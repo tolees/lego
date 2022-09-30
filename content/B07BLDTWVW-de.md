@@ -28,8 +28,8 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
 - Enthält 4 Minifiguren: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin und Rowena Ravenclaw mit einer baubaren Stellplatte für Minifiguren.
+- Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
 - Umfasst ein baubares Miniaturmodell von Schloss Hogwarts, Hagrids Hütte, der Peitschenden Weide und 5 Booten.
 - Die Zubehörteile umfassen das Schwert von Gryffindor, Helga Hufflepuffs Becher, Zauberstäbe, Zaubertränke, Hausbanner, Flammen, einen Kessel und 2 Vergrößerungsgläser.
 - Nimm in der großen Halle Platz und speise mit den Professoren und Schülern von Hogwarts!
