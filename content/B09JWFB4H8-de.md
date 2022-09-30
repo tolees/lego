@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Verleihe deinem Modell den letzten Schliff, indem du Sponsoren Aufkleber anbringst, wie sie auf einem echten F1-Rennwagen zu sehen sind
 - Dieses Formel 1 Modellauto bietet erwachsenen LEGO Baumeistern die Möglichkeit, sich an einem Ausstellungsstück zu erfreuen
 - Die Technic Sets von LEGO für Erwachsene mit ihren Rennwagen-Modellbausätzen sind das beste Geschenk für alle Modellbau-Fans
-- Verleihe deinem Modell den letzten Schliff, indem du Sponsoren Aufkleber anbringst, wie sie auf einem echten F1-Rennwagen zu sehen sind
-- Enthält Merkmale wie den V6-Zylinder Motor mit beweglichen Kolben, Lenkung, Aufhängung und Differential für präzise Kurvenfahrten
-- Die LEGO Designer haben eng mit dem Team von McLaren Racing zusammengearbeitet, um den LEGO Rennwagen für die Rennsaison 2022 zu entwickeln
-- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
-- Dieses LEGO Technic F1 Set für Erwachsene enthält einen detaillierten Modellauto Bausatz des McLaren 2022 F1-Autos
 - Der beiliegende Premium-Bildband erklärt die Zusammenarbeit zwischen McLaren Racing und LEGO und enthält eine Bauanleitung des Formel 1 Autos
+- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Die LEGO Designer haben eng mit dem Team von McLaren Racing zusammengearbeitet, um den LEGO Rennwagen für die Rennsaison 2022 zu entwickeln
+- Enthält Merkmale wie den V6-Zylinder Motor mit beweglichen Kolben, Lenkung, Aufhängung und Differential für präzise Kurvenfahrten
+- Dieses LEGO Technic F1 Set für Erwachsene enthält einen detaillierten Modellauto Bausatz des McLaren 2022 F1-Autos
 
 [🛒 Check the deal!!]({{< param buyurl >}})

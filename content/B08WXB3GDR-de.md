@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Das Abenteuerset enthält außerdem ein Lagerfeuer und eine Brücke, die über einen Fluss führt, einen Marshmallow am Stock und einen Spielzeug-Roller für die Mini Puppen
-- Ein großartiges LEGO Spielzeug ab 6 Jahre und das perfekte Geschenk für Geburtstage, Weihnachten oder wenn der Regen das Spielen im Freien stoppt
 - Enthalten sind die zwei LEGO Friends Mini Puppen Andrea und Olivia sowie eine Eichhörnchen Figur; Kinder können das Eichhörnchen in seinem Baumhaus mit einer Kastanie füttern
+- Ein großartiges LEGO Spielzeug ab 6 Jahre und das perfekte Geschenk für Geburtstage, Weihnachten oder wenn der Regen das Spielen im Freien stoppt
 - Kinder werden es lieben, die Überraschungen selbst zu entdecken, etwa den Edelstein hinter dem aufklappbaren Wasserfall zu entdecken oder Wildtiere im Fernrohr zu beobachten
 - Das LEGO Friends Camping Set bietet eine Wasserfallszene mit einem aufklappbaren Element, durch welches Kinder Zugang zur Rückseite dieses Spielzeugs haben
 

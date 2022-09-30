@@ -28,12 +28,12 @@ With a final price of {{< param actualPrice >}} (original: {{< param comparePric
 
 ℹ️:
 
-- Zum Zubehör des LEGO Thor Sets gehören: Helm, Bootsschlüssel, Feuerlöscher, eine Karte von New Asgard, Flasche und Sonnensteinkristall
-- Dieses baubare Schiff Spielzeug hat eine Kajüte mit einem zu öffnenden Dach für den Zugang zum Spielraum im Inneren und Wikingerschilde
-- Mit Thors Wikingerschiff aus dem Marvel Studios-Film Thor: Love & Thunder, das von 2 legendären Ziegenböcken durch die Lüfte gezogen wird
-- Das Modell lässt sich mit anderen LEGO Marvel Avengers Bauspielzeugen kombinieren und ist ein tolles LEGO Geschenk für Marvel Fans
-- Die Ziegenböcke Zähneknirscher und Zähneblecker sind vom Boden angehoben, so dass die Kinder das Schiff beim Spielen leicht anschieben können
-- Enthält die LEGO Thor Minifigur, den Mighty Thor mit Sturmbrecher, sowie Valkyrie, Korg und Gorr mit ihren Waffen
 - Das Spielzeug ab 8 Jahren bringt spannende Abenteuer an Bord eines Wikinger-Langschiffs und sieht toll aus, wenn es ausgestellt wird
+- Enthält die LEGO Thor Minifigur, den Mighty Thor mit Sturmbrecher, sowie Valkyrie, Korg und Gorr mit ihren Waffen
+- Die Ziegenböcke Zähneknirscher und Zähneblecker sind vom Boden angehoben, so dass die Kinder das Schiff beim Spielen leicht anschieben können
+- Mit Thors Wikingerschiff aus dem Marvel Studios-Film Thor: Love & Thunder, das von 2 legendären Ziegenböcken durch die Lüfte gezogen wird
+- Dieses baubare Schiff Spielzeug hat eine Kajüte mit einem zu öffnenden Dach für den Zugang zum Spielraum im Inneren und Wikingerschilde
+- Zum Zubehör des LEGO Thor Sets gehören: Helm, Bootsschlüssel, Feuerlöscher, eine Karte von New Asgard, Flasche und Sonnensteinkristall
+- Das Modell lässt sich mit anderen LEGO Marvel Avengers Bauspielzeugen kombinieren und ist ein tolles LEGO Geschenk für Marvel Fans
 
 [🛒 Buy it!!]({{< param buyurl >}})

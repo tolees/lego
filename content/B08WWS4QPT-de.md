@@ -31,9 +31,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Der LEGO Friends Vergnügungspark enthält 3 Mini-Puppen in Jahrmarktskleidung und Gesichtsbemalung, Jonglierkeulen, einem Lutscher, einem Zylinder und einem Jahrmarktsplan
 - Die Unterseite der Rutsche hat clevere Spiegelelemente, um die Mini-Puppen "verschwinden" zu lassen: Sie verlassen die Rutsche auf der Rückseite und tauchen vorne wieder auf
 - Dieses LEGO Friends Spielset ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder jedem anderen Tag und ist das ideale Spielzeug für Jungen und Mädchen ab 7 Jahren
-- Das LEGO Friends Freizeitpark Set enthält ein Riesenrad, eine separate Rutsche und einen Süßigkeitenladen und ist Teil einer Spielzeugsammlung für einen kompletten Vergnügungspark
-- Mit den speziellen Zaubertricks für Kinder wird die Familie unterhalten - Jonglieren, Kartentricks oder man kann auf der magischen Spiralrutsche die Besucher verschwinden lassen
 - Kompatibel mit anderen LEGO Friends Sets aus der Reihe „Magischer Jahrmarkt“ - Magische Jahrmarktsachterbahn (41685), Magische Akrobatikshow (41686) und Magische Jahrmarktbuden (41687)
 - Sehen Sie sich auch das Set Magischer Wohnwagen (41688) an und entdecken Sie noch mehr maigschen Spaß für Ihre Kinder
+- Mit den speziellen Zaubertricks für Kinder wird die Familie unterhalten - Jonglieren, Kartentricks oder man kann auf der magischen Spiralrutsche die Besucher verschwinden lassen
+- Das LEGO Friends Freizeitpark Set enthält ein Riesenrad, eine separate Rutsche und einen Süßigkeitenladen und ist Teil einer Spielzeugsammlung für einen kompletten Vergnügungspark
 
 [🛒 Check the deal!!]({{< param buyurl >}})

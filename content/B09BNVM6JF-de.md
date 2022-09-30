@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inklusive vieler witziger Zubehörteile wie der Spielzeugdrohne mit Fernsteuerung, den Handschellen oder den Eiern für fantasievollen Spielspaß
 - Die Kinder können vom Anhänger des Traktors aus Eier verschießen, aus dem Gefängnis ausbrechen und den Geländewagen kippen, um ihn in alle Richtungen zu manövrieren
 - Enthält ein Spielzeug-Polizeiauto mit einem Büro und einer Gefängniszelle im Anhänger, eine Drohne, einen Geländewagen und einen Traktor, auf dem eine Eierkanone steht!
-- Dieses LEGO City Polizei-Set enthält 3 Mini-Figuren aus der LEGO City TV-Serie: Duke DeTain, Gracie Goodhart und Snake Rattler, sowie eine Gauner-Minifigur
+- Inklusive vieler witziger Zubehörteile wie der Spielzeugdrohne mit Fernsteuerung, den Handschellen oder den Eiern für fantasievollen Spielspaß
 - Bald schon ist die Windschutzscheibe mit Ei bedeckt und das Gitter des Gefängnisses herausgerissen – mit diesem LKW-Spielzeug nehmen die lustigen Geschichten niemals ein Ende
 - Die LEGO City Abenteuer Polizei-Spielzeuge sind ideale Geschenke für Jungen und Mädchen ab 6 Jahren zum Geburtstag oder zu jedem anderen Anlass
+- Dieses LEGO City Polizei-Set enthält 3 Mini-Figuren aus der LEGO City TV-Serie: Duke DeTain, Gracie Goodhart und Snake Rattler, sowie eine Gauner-Minifigur
 
 [🛒 Check the deal!!]({{< param buyurl >}})

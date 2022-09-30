@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Verwandle das Rennauto-Spielzeug von einem Buggy in ein leistungsstarkes, schnelles Panzerfahrzeug mit goldenen Seitenteilen, 2 Geschützen und Klingen-Spoilern
-- Die Kinder können Lloyds Auto von LEGO NINJAGO in 3 Stufen von einem Buggy in ein gepanzertes Rennauto umbauen, das bereit für den Kampf gegen die bösen Schlangenkrieger ist
-- Halte Ausschau nach weiteren Bannern in den 7 anderen LEGO NINJAGO Sets, darunter Kais Donnerdrache EVO (71760), Zanes Power-Up-Mech EVO (71761) und Kais Feuerdrache EVO (71762)
-- Enthält ein 3-in-1 NINJAGO Rennauto, das zu 3 verschiedenen Modellen aufgerüstet werden kann, sowie 3 coole LEGO NINJAGO Figuren mit Waffen
-- Enthält Lloyd von NINJAGO mit einem Schwert, einen Kobra-Mech mit Flammenwerfer auf einem Quad und Dynamit-Python mit einer Pistole und einer Stange Dynamit
-- Das LEGO NINJAGO Modell von Lloyds Rennauto kann in 3 schnellen Schritten umgebaut werden und ist ein tolles Geburtstagsgeschenk für Kinder ab 6 Jahren, die Spielzeugautos lieben
 - Wenn die Kinder ihre Missionen erfüllen und die Schlangen besiegen, werden sie mit einem Anpassbarkeitsbanner belohnt, mit dem sie das Spielzeugauto schmücken können
+- Enthält ein 3-in-1 NINJAGO Rennauto, das zu 3 verschiedenen Modellen aufgerüstet werden kann, sowie 3 coole LEGO NINJAGO Figuren mit Waffen
+- Das LEGO NINJAGO Modell von Lloyds Rennauto kann in 3 schnellen Schritten umgebaut werden und ist ein tolles Geburtstagsgeschenk für Kinder ab 6 Jahren, die Spielzeugautos lieben
+- Enthält Lloyd von NINJAGO mit einem Schwert, einen Kobra-Mech mit Flammenwerfer auf einem Quad und Dynamit-Python mit einer Pistole und einer Stange Dynamit
+- Halte Ausschau nach weiteren Bannern in den 7 anderen LEGO NINJAGO Sets, darunter Kais Donnerdrache EVO (71760), Zanes Power-Up-Mech EVO (71761) und Kais Feuerdrache EVO (71762)
+- Die Kinder können Lloyds Auto von LEGO NINJAGO in 3 Stufen von einem Buggy in ein gepanzertes Rennauto umbauen, das bereit für den Kampf gegen die bösen Schlangenkrieger ist
 
 [🛒 Check the deal!!]({{< param buyurl >}})

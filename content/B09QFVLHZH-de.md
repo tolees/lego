@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das Konstruktionsspielzeug enthält 3 abwechslungsreiche Stadzszenen, die auch aufgebaut im Kinderzimmer ein Hingucker sind
 - Die Rückseite dieses Stadthauses lässt sich öffnen und ermöglicht so einen einfachen Zugang zu den Räumen auf beiden Etagen
-- Mit 2 LEGO Minifiguren und einer Menge Zubehör, wie ein Verkaufsautomat, ein Fahrrad, ein Bonsai-Baum und ein Hund
 - Der Fahrradladen verfügt über einen Zeitungskiosk und ein Kunststudio, die Spielhalle hat 3 Spielautomaten und weitere Funktionen
-- Dieses LEGO Modular Building Set enthält ein Stadthaus mit Nudelgeschäft, einen Fahrradladen und eine Spielhalle und weiteres Zubehör
 - Der coole Nudelshop im Erdgeschoss des zweistöckigen LEGO Creator Hauses hat eine Wohnung und eine Dachterrasse mit Baum darüber
+- Dieses LEGO Modular Building Set enthält ein Stadthaus mit Nudelgeschäft, einen Fahrradladen und eine Spielhalle und weiteres Zubehör
+- Das Konstruktionsspielzeug enthält 3 abwechslungsreiche Stadzszenen, die auch aufgebaut im Kinderzimmer ein Hingucker sind
 - Die Creator Sets enthalten eine interaktive digitale Bauanleitungs-App und sind ein Spielzeug für Jungen und Mädchen ab 8 Jahren
+- Mit 2 LEGO Minifiguren und einer Menge Zubehör, wie ein Verkaufsautomat, ein Fahrrad, ein Bonsai-Baum und ein Hund
 
 [🛒 Check the deal!!]({{< param buyurl >}})
