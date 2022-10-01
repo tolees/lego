@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Includes 3 NINJAGO minifigures: Kai armed with a sword, and 2 NINJAGO snake warriors - Boa Destructor and Cobra Mechanic
 - NINJAGO snake Boa Destructor controls a shooting drone, and Cobra Mechanic comes with a jetpack and a gun that fires out a chain
 - When kids complete their missions and defeat the snakes, they are rewarded with a Courage banner to display on the dragon
 - This dragon toy features a posable head, tail, jaw, legs & a saddle for kids to place Kai when he has aerial clashes with the snake warriors
 - Features LEGO NINJAGO Kai’s posable fire dragon toy figure that upgrades twice to make it bigger, stronger and quicker with golden armour
-- Includes 3 NINJAGO minifigures: Kai armed with a sword, and 2 NINJAGO snake warriors - Boa Destructor and Cobra Mechanic
 
 [🛒 Check the deal!!]({{< param buyurl >}})
