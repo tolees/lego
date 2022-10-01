@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21171 Minecraft The Horse Stable Farm Toy with Skeleton Horseman Figure plus Bow and Arrow  Collectible Gifts for Boys & Girls'
-date: 2022-09-21 09:56:27
+date: 2022-10-01 16:04:54
 image: 'https://m.media-amazon.com/images/I/51hp3zE6VcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWX6BYY/?tag=tolees0a-21'
 descuento: '44.41'
-average: '11.4983333333333'
+average: '11.2842857142857'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The LEGO Minecraft horse stable farm toy for girls and boys aged 8 years old features a horse stable with opening doors and horse figures
-- The colourful Minecraft toy stable is supplemented with Minecraft accessories, such as the hay bales, golden carrot and diamond horse armour
 - This hands-on recreation of the popular online game is a great LEGO gift idea and will delight Minecraft players and horse lovers alike
-- Kids can feed and care for the LEGO horses figures, build an obstacle course for them to jump over, and battle a skeleton horseman
+- The colourful Minecraft toy stable is supplemented with Minecraft accessories, such as the hay bales, golden carrot and diamond horse armour
 - Kids who love Minecraft will recognize the online game’s horse mobs, stable building and authentic Minecraft features inspiring the play
+- Kids can feed and care for the LEGO horses figures, build an obstacle course for them to jump over, and battle a skeleton horseman
+- The LEGO Minecraft horse stable farm toy for girls and boys aged 8 years old features a horse stable with opening doors and horse figures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
