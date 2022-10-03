@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76403 Harry Potter The Ministry of Magic Modular Model Building Set with 12 Minifigures and Transformation Feature  Collectable Gift Idea'
-date: 2022-10-01 10:02:50
+date: 2022-10-03 10:51:47
 image: 'https://m.media-amazon.com/images/I/51FjOohMOrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QG43GV1-co.uk LEGO 76403 Harry Potter The Ministry of Magic Modular...'
 sku: 'B09QG43GV1-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys & Games','lego','🇬🇧', ]
-actualPrice: 57.49 GBP
+actualPrice: 57.5 GBP
 currency: GBP
-price: 57.49
+price: 57.5
 comparePrice: 89.99 GBP
 prodname: 'LEGO 76403 Harry Potter The Ministry of Magic Modular Model Building Set with 12 Minifigures and Transformation Feature  Collectable Gift Idea'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QG43GV1/?tag=tolees0a-21'
-descuento: '36.12'
-average: '61.9933333333333'
+descuento: '36.10'
+average: '60.87'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Accessories include a red phone box, stacks of the Daily Prophet newspaper, Patronus cat, 2 decoy detonators and the Slytherin locket Horcrux
-- 12 Minifigures including Harry Potter, Hermione Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole, all with wands
-- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
 - The first LEGO Harry Potter set to feature Ministry of Magic, with Dolores Umbridge & Arthur Weasleys offices, Hall of Prophecy and Court Room
+- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
 - This LEGO Harry Potter modular set also includes Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley and Dementor minifgures
 - First-of-its-kind playset makes a magical birthday, Christmas or any-day Harry Potter collectible gift for witches, wizards & muggles aged 9 plus
+- 12 Minifigures including Harry Potter, Hermione Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole, all with wands
 - This ‘living model’ large LEGO modular building can be easily reconfigured for endless new adventures & is a great home décor piece on display
 
 [🛒 Buy it now!!]({{< param buyurl >}})
