@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Kids surf to the rescue of the LEGO turtle toys and take them to the shore where they can care for them and drive them to a safer location
 - Includes 2 mini dolls: LEGO Friends Emma and Layla, and 3 animal figures - a baby turtle, Mama turtle and a crab
-- This LEGO Friends animal rescue set features a toy ATV car with a trailer to transport animals and a beach scene with sand and palm trees
-- Accessories include a surfboard for a LEGO surfer, a feeding bottle, syringe, and a life jacket for safe surfing
 - LEGO sea animal rescue toys for kids 6 years old teach them about caring for wildlife when exploring sandy beaches
+- Accessories include a surfboard for a LEGO surfer, a feeding bottle, syringe, and a life jacket for safe surfing
+- This LEGO Friends animal rescue set features a toy ATV car with a trailer to transport animals and a beach scene with sand and palm trees
 
 [🛒 Buy it!!]({{< param buyurl >}})

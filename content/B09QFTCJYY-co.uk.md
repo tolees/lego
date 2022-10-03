@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fans of the legendary groundbreaking band and all lovers of music and arts and crafts for adults will love this set as a birthday or just-because gift
+- Once you finish this challenging 1,998-piece LEGO wall art project you can proudly display it as an office, living room or home décor accessory
 - As you build, scan the QR code and listen to the soundtrack which immerses you in unexpected details as you take on this wall art craft project
 - Pay tribute to The Rolling Stones 60th anniversary, by creating a LEGO wall art décor piece of the band logo to hang with pride on your wall
 - Create an organically shaped wall décor art piece of the band’s logo; with a surprise hidden within the build to help celebrate a true milestone
-- This LEGO set for adults includes 9 brick baseplates, a Rolling Stones signature tile, brick-built frame, brick remover and 2 hanger elements
-- Once you finish this challenging 1,998-piece LEGO wall art project you can proudly display it as an office, living room or home décor accessory
 - LEGO sets designed for adults - this model includes an illustrated booklet with the history of LEGO building and designers
+- Fans of the legendary groundbreaking band and all lovers of music and arts and crafts for adults will love this set as a birthday or just-because gift
+- This LEGO set for adults includes 9 brick baseplates, a Rolling Stones signature tile, brick-built frame, brick remover and 2 hanger elements
 
 [🛒 Check the deal!!]({{< param buyurl >}})
