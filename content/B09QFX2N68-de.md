@@ -30,10 +30,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Dieses baubare LEGO Avatar Spielzeug enthält 3 verschiedene Pandora-Szenen, 4 Minifiguren, Zubehör, Tierfiguren und den heiligen Baum der Seelen
 - LEGO Avatar Sets sind so konzipiert, dass mehrere Personen miteinander bauen können; 3 Bauanleitungshefte lassen Freunde oder Eltern und Geschwister verschiedene Teile des Sets gleichzeitig bauen
+- Enthält 4 LEGO Navi Minifiguren von Jake Sully, Neytiri, Moat und TsuTey, sowie die 6-beinige Schreckenspferd Tierfigur und einen beeindruckend großen, beweglichen Toruk mit aufklappbarem Mund und biegbaren Flügeln
+- Das Set enthält einen baubaren Baum der Seelen und 3 Kulissen mit im Dunkeln leuchtenden Elementen, mit denen Kinder epische Actionabenteuer erleben können
+- Kinder und Avatar Fans können eine bedeutsame Szene aus dem Film nachbilden, eine neue Geschichte darstellen oder ein dynamisches Modell bauen, in dem Toruk seine Schwingen über dem Baum der Seelen ausbreitet
 - Filmfans können Pandora stundenlang auf dem Rücken des Toruk oder Schreckenspferdes erkunden, mit Zubehör wie Bögen, Pfeilen und Speeren spielen oder mit dem Volk der Navi durch den heiligen Baum der Seelen kommunizieren
 - Dieses LEGO Avatar Set ist ein tolles Geschenk zum Geburtstag oder Weihnachten für Filmfans und Kinder und macht sich auch toll ausgestellt im Kinderzimmer
-- Enthält 4 LEGO Navi Minifiguren von Jake Sully, Neytiri, Moat und TsuTey, sowie die 6-beinige Schreckenspferd Tierfigur und einen beeindruckend großen, beweglichen Toruk mit aufklappbarem Mund und biegbaren Flügeln
-- Kinder und Avatar Fans können eine bedeutsame Szene aus dem Film nachbilden, eine neue Geschichte darstellen oder ein dynamisches Modell bauen, in dem Toruk seine Schwingen über dem Baum der Seelen ausbreitet
-- Das Set enthält einen baubaren Baum der Seelen und 3 Kulissen mit im Dunkeln leuchtenden Elementen, mit denen Kinder epische Actionabenteuer erleben können
 
 [🛒 Buy it!!]({{< param buyurl >}})
