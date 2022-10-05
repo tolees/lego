@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76403 Harry Potter The Ministry of Magic Modular Model Building Set with 12 Minifigures and Transformation Feature  Collectable Gift Idea'
-date: 2022-10-03 10:51:47
+date: 2022-10-05 12:46:11
 image: 'https://m.media-amazon.com/images/I/51FjOohMOrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QG43GV1/?tag=tolees0a-21'
 descuento: '36.10'
-average: '60.87'
+average: '59.745'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - This ‘living model’ large LEGO modular building can be easily reconfigured for endless new adventures & is a great home décor piece on display
-- The first LEGO Harry Potter set to feature Ministry of Magic, with Dolores Umbridge & Arthur Weasleys offices, Hall of Prophecy and Court Room
-- First-of-its-kind playset makes a magical birthday, Christmas or any-day Harry Potter collectible gift for witches, wizards & muggles aged 9 plus
-- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
-- Accessories include a red phone box, stacks of the Daily Prophet newspaper, Patronus cat, 2 decoy detonators and the Slytherin locket Horcrux
 - 12 Minifigures including Harry Potter, Hermione Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole, all with wands
 - This LEGO Harry Potter modular set also includes Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley and Dementor minifgures
+- Accessories include a red phone box, stacks of the Daily Prophet newspaper, Patronus cat, 2 decoy detonators and the Slytherin locket Horcrux
+- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
+- The first LEGO Harry Potter set to feature Ministry of Magic, with Dolores Umbridge & Arthur Weasleys offices, Hall of Prophecy and Court Room
+- First-of-its-kind playset makes a magical birthday, Christmas or any-day Harry Potter collectible gift for witches, wizards & muggles aged 9 plus
 
 [🛒 Buy it now!!]({{< param buyurl >}})
