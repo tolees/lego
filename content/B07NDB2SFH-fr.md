@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Jeu de Construction  Figurine du Maître  Collection  avec Sabre Laser  et Présentoir  Réplique du Film L Attaque des Clones'
-date: 2022-10-05 06:18:07
+date: 2022-10-06 13:41:37
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21'
 descuento: '25.08'
-average: '91.6989871086555'
+average: '91.6956801470587'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cette version du Maître Jedi Yoda, figurine de collection Star Wars avec sabre laser, mesure plus de 41 cm (16") et constitue une pièce maîtresse de toute collection
 - Cet objet de collection Star Wars : Attack of the Clones est un excellent cadeau danniversaire, de Noël ou simplement un cadeau Star Wars pour toute occasion
-- Présente la figurine LEGO Star Wars de Yoda, une version détaillée et constructible du personnage incontournable que les enfants et les fans adorent !
-- Comprend également une plaque dinformation sur le maître Jedi et un support pour la minifigurine Yoda et le sabre laser inclus, pour impressionner tous les fans
 - Le modèle à construire Star Wars du puissant maître Jedi Yoda a fière allure sur un présentoir à la maison ou au bureau, impressionnant tout fan de Star Wars !
+- Présente la figurine LEGO Star Wars de Yoda, une version détaillée et constructible du personnage incontournable que les enfants et les fans adorent !
+- Cette version du Maître Jedi Yoda, figurine de collection Star Wars avec sabre laser, mesure plus de 41 cm (16") et constitue une pièce maîtresse de toute collection
+- Comprend également une plaque dinformation sur le maître Jedi et un support pour la minifigurine Yoda et le sabre laser inclus, pour impressionner tous les fans
 - Comprend des détails complexes, une tête et des sourcils à orienter pour plus ou moins de fantaisie, des doigts et des orteils mobiles et larme préférée de Yoda, le sabre laser vert
 
 [🛒 Check the deal!!]({{< param buyurl >}})
