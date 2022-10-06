@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41430 LEGO Friends Divertimento estivo al parco acquatico'
-date: 2022-10-03 04:32:16
+date: 2022-10-06 01:37:39
 image: 'https://m.media-amazon.com/images/I/510vCXesQSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813Q7GVY/?tag=tolees00-21'
 descuento: '30.58'
-average: '102.933984375'
+average: '103.156984435798'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
