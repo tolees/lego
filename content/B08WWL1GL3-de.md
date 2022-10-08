@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76192 Marvel Super Heroes Avengers: Endgame - Letztes Duell Set  Spielzeug für Kinder ab 8 Jahren mit Superhelden Figuren'
-date: 2022-10-05 01:23:34
+date: 2022-10-07 21:46:25
 image: 'https://m.media-amazon.com/images/I/51y9mwunwCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWL1GL3/?tag=tolees0ca-21'
 descuento: '28.33'
-average: '65.4927777777777'
+average: '65.4405263157894'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Die Highlights des Sets sind die Thanos Figur und die Ant-Man-Mikrofigur; das Zubehör umfasst des Weiteren Snacks, Getränke und ein Waffengestell
 - Zur Ausstattung des Avengers Spielzeug gehören eine große Kanone, die einen Pfeil mit Gummispitze abschießt, sowie ein dreh- und kippbares Radar auf dem Dach
-- Enthalten sind außerdem 6 LEGO Avengers Superhelden Figuren: Thor, Captain America, Black Panther, Iron Man, Scarlet Witch und ein Centauri-Krieger
 - Enthalten sind ein Freizeit- und Begegnungsbereich, in dem sich Superhelden treffen können, ein Truck, der sich öffnet, um eine Zeitreisemaschine und eine Gefängniszelle
+- Enthalten sind außerdem 6 LEGO Avengers Superhelden Figuren: Thor, Captain America, Black Panther, Iron Man, Scarlet Witch und ein Centauri-Krieger
 - Dieses LEGO Avengers Set zeigt ein Gelände mit dem Labor von Iron Man voller Details aus dem Film, in dem er den fantastischen Nano Gauntlet konstruiert
 
 [🛒 Check the deal!!]({{< param buyurl >}})
