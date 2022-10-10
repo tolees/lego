@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Können Hühner fliegen? Dieses hier schon! Clemmons, der zögerliche Teilzeit-Stuntman ist das Maskottchen des Teams und trägt ein Hühnerkostüm.
 - Dieses LEGO City Maskottchen-Stuntbike enthält ein fantastisches Spielzeugmotorrad mit Schwungradantrieb und die LEGO Minifigur von Clemmons aus der TV-Serie LEGO City - Abenteuer.
+- Das tragbare Spielzeug für Kinder ab 5 Jahren kann angeschoben und dann losgelassen werden, um das Schwungrad zu aktivieren und atemberaubende Sprünge und Stunts zu vollführen.
 - Der Helm der LEGO Minifigur Clemmons kann für die After-Show-Party durch eine schicke Perücke ersetzt werden.
 - Enthält eine gedruckte Bauanleitung und Instructions PLUS in der kostenlosen LEGO Building Instructions App für Smartgeräte.
-- Das tragbare Spielzeug für Kinder ab 5 Jahren kann angeschoben und dann losgelassen werden, um das Schwungrad zu aktivieren und atemberaubende Sprünge und Stunts zu vollführen.
-- Können Hühner fliegen? Dieses hier schon! Clemmons, der zögerliche Teilzeit-Stuntman ist das Maskottchen des Teams und trägt ein Hühnerkostüm.
 
 [🛒 Buy it!!]({{< param buyurl >}})

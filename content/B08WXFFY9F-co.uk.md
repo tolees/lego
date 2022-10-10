@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes LEGO Harry Potter, Dean Thomas, Professor McGonagall, Madam Rosmerta, Mr Flume and Mrs Flume minifigures for magical roleplay fun
-- This LEGO Harry Potter set includes an exclusive, 20th anniversary golden Ron Weasley minifigure to celebrate 20 years of Harrys magic
+- This LEGO Harry Potter building toy features Hogsmeade village with 2-floor modular house of Honeydukes sweetshop & The Three Broomsticks pub
 - The snow-covered LEGO Hogsmeade village set is crammed to the rooftops with authentic details, furniture and accessories for kids to play with
 - LEGO Harry Potter Hogsmeade village set also includes 4 random wizard card tiles for kids to collect, out of 16 in total
-- 3 smaller builds provide further inspiration: a street light, a bench with snow, a 2-sided noticeboard with a wanted poster for Sirius Black
-- This LEGO Harry Potter building toy features Hogsmeade village with 2-floor modular house of Honeydukes sweetshop & The Three Broomsticks pub
 - This Harry Potter building toy is one of a series of detailed modular sets, and makes a great Wizarding World Christmas gift for kids age 8 plus
+- This LEGO Harry Potter set includes an exclusive, 20th anniversary golden Ron Weasley minifigure to celebrate 20 years of Harrys magic
+- 3 smaller builds provide further inspiration: a street light, a bench with snow, a 2-sided noticeboard with a wanted poster for Sirius Black
+- Includes LEGO Harry Potter, Dean Thomas, Professor McGonagall, Madam Rosmerta, Mr Flume and Mrs Flume minifigures for magical roleplay fun
 
 [🛒 Buy it now!!]({{< param buyurl >}})

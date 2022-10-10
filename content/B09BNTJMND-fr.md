@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Transformez le véhicule LEGO NINJAGO de base, un buggy, en une voiture rapide blindée avec des panneaux dorés, 2 fusils à tenons et des ailerons avec lames
-- Lorsque les enfants terminent leurs missions et battent les serpents, ils reçoivent une bannière Adaptabilité à placer sur la voiture jouet
-- Il inclut le NINJAGO Lloyd armé d’une épée, Cobra mécanique assis sur un quad avec un lance-flammes, et Python dynamite avec un pistolet et un bâton de dynamite
 - Les enfants peuvent construire la voiture de Lloyd LEGO NINJAGO en 3 étapes, en passant d’un buggy a un véhicule blindé prêt pour le combat contre les horribles guerriers serpents
 - Trouvez des bannières dans 7 autres sets, dont L’évolution Dragon de Tonnerre de Jay 71760, L’Évolution robot de Puissance de Zane 71761 et L’évolution Dragon de feu de Kai 71762
+- Lorsque les enfants terminent leurs missions et battent les serpents, ils reçoivent une bannière Adaptabilité à placer sur la voiture jouet
 - Il inclut une voiture de course LEGO NINJAGO 3 en 1 qui peut être transformée en 3 modèles différents et 3 incroyables minifigures LEGO NINJAGO armées
+- Transformez le véhicule LEGO NINJAGO de base, un buggy, en une voiture rapide blindée avec des panneaux dorés, 2 fusils à tenons et des ailerons avec lames
 - Cet incroyable jouet LEGO NINJAGO pour enfants dès 6 ans permet de construire la voiture de Lloyd en 3 étapes rapide et constitue un fabuleux cadeau d’anniversaire
+- Il inclut le NINJAGO Lloyd armé d’une épée, Cobra mécanique assis sur un quad avec un lance-flammes, et Python dynamite avec un pistolet et un bâton de dynamite
 
 [🛒 Check the deal!!]({{< param buyurl >}})

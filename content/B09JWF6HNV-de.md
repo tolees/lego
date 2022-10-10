@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zu diesem Polizei-Spielzeug gehört jede Menge lustiges Zubehör für fantasievollen Spielspaß, inklusive Walkie-Talkie, Kamera, Hundehaufen und Donut
-- Das Müllwagen-Spielzeug verfügt über einen Containerlift und 2 Rammen, mit denen die Gefängnismauer niedergerissen werden kann – ein Kinderspiel mit Daisy Kaboom hinter dem Steuer!
-- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
-- Enthält eine dreistöckige Polizeistation, ein Polizeiauto Spielzeug, einen Hubschrauber und ein Müllauto sowie eine Hundefigur
 - Mit den intuitiven Zoom- und Drehwerkzeugen der digitalen Anleitung in der kostenlosen LEGO App können die Kinder die Modelle beim Bauen aus allen Winkeln betrachten
+- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
 - Inklusive 3 Figuren aus der LEGO City TV-Serie: Daisy Kaboom, Polizeichef Wheeler und Allen, sowie eine Gauner-Minifigur
+- Zu diesem Polizei-Spielzeug gehört jede Menge lustiges Zubehör für fantasievollen Spielspaß, inklusive Walkie-Talkie, Kamera, Hundehaufen und Donut
+- Enthält eine dreistöckige Polizeistation, ein Polizeiauto Spielzeug, einen Hubschrauber und ein Müllauto sowie eine Hundefigur
+- Das Müllwagen-Spielzeug verfügt über einen Containerlift und 2 Rammen, mit denen die Gefängnismauer niedergerissen werden kann – ein Kinderspiel mit Daisy Kaboom hinter dem Steuer!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

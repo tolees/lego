@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Combine this toy motorbike with other sets from the LEGO City Stuntz collection for even more daring stunt show fun
+- This LEGO City Stuntz toy for kids aged 5+ includes a retro-friction flywheel powered stunt bike and The Lone Wolf Biker LEGO racer minifigure
 - Kids can push the toy motorbike to activate the backfriction wheel, then launch it for fun backflips and aerial tricks
+- Combine this toy motorbike with other sets from the LEGO City Stuntz collection for even more daring stunt show fun
+- Includes a City Stuntz The Lone Wolf Biker LEGO racer minifigure with a destinctive moustache and helmet accessory
 - The flywheel-powered LEGO City Stuntz Touring Stunt Bike makes a great birthday or any occasion gift for kids aged 5+ who like cool action toys
 - The LEGO City Stuntz Stunt Bike portable toy for kids aged 5+ puts them at the heart of the action - they can play wherever they go!
-- Includes a City Stuntz The Lone Wolf Biker LEGO racer minifigure with a destinctive moustache and helmet accessory
-- This LEGO City Stuntz toy for kids aged 5+ includes a retro-friction flywheel powered stunt bike and The Lone Wolf Biker LEGO racer minifigure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
