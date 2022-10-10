@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76402 Harry Potter Hogwarts: Dumbledore’s Office Castle Toy  Set with Sorting Hat  Sword of Gryffindor and 6 Minifigures  for Girls & Boys'
-date: 2022-10-07 17:07:14
+date: 2022-10-09 23:20:23
 image: 'https://m.media-amazon.com/images/I/510xQs5bKpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFSG4ZB/?tag=tolees0a-21'
 descuento: '32.50'
-average: '54.3222222222222'
+average: '54.289'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The set includes 6 LEGO Harry Potter minifigures: Harry Potter, Hermione Granger, Albus Dumbledore, Severus Snape, Argus Filch and Madam Pince
-- This Harry Potter building toy makes a great Christmas gift idea for boys and girls aged 8 plus and all fans of the Wizarding World adventures
-- This Harry Potter buildable toy for kids also includes a cat figure, a witchs hat for Madam Pince and the baby fawkes rising from the ashes
-- The magic multi-level Harry Potter castle toy for kids also contains 3 random wizard card tiles (of 16 in total) for kids to collect
-- This LEGO Hogwarts Castle set features the restricted section of Hogwarts library and Dumbledores office, with lots of authentic accessories
-- This LEGO Harry Potter set is one of a series of modular sets that combine to create a complete Hogwarts Castle toy
 - Each room is filled with magical items from the movies: invisibility cloak, Pensieve memory keeper, Sorting hat and the Sword of Gryffindor
+- This LEGO Harry Potter set is one of a series of modular sets that combine to create a complete Hogwarts Castle toy
+- The magic multi-level Harry Potter castle toy for kids also contains 3 random wizard card tiles (of 16 in total) for kids to collect
+- The set includes 6 LEGO Harry Potter minifigures: Harry Potter, Hermione Granger, Albus Dumbledore, Severus Snape, Argus Filch and Madam Pince
+- This Harry Potter buildable toy for kids also includes a cat figure, a witchs hat for Madam Pince and the baby fawkes rising from the ashes
+- This LEGO Hogwarts Castle set features the restricted section of Hogwarts library and Dumbledores office, with lots of authentic accessories
+- This Harry Potter building toy makes a great Christmas gift idea for boys and girls aged 8 plus and all fans of the Wizarding World adventures
 
 [🛒 Buy it!!]({{< param buyurl >}})

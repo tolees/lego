@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42110 Technic Land Rover Defender  Modellauto  4x4 Geländewagen für Kinder ab 11 Jahre und Erwachsene  Sammlerstück'
-date: 2022-10-08 21:56:46
+date: 2022-10-09 22:31:56
 image: 'https://m.media-amazon.com/images/I/51Tfnj8fJlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Öffne die Motorhaube, um dir den detaillierten 6-Zylinder-Reihenmotor mit beweglichen Kolben anzusehen.
-- Umfasst eine realitätsgetreue Karosserie mit dem Logo von Land Rover, Felgen im Originaldesign mit griffigen Reifen, einen abnehmbaren Dachträger mit Aufbewahrungsbox, Tasche, Leiter und Bodenmatten, Türen zum Öffnen, Motorhaube und Heckklappe sowie einen detaillierten Innenraum.
-- Enthält eine Sammlung authentischer Aufkleber.
-- Drehe am hinten montierten Ersatzrad, um die Heckklappe zu öffnen.
-- Farbmuster in olivgrün, grau und schwarz.
-- Dieses LEGO Technic Set bietet ein beeindruckendes Bauerlebnis.
-- Zu den Funktionen zählen das sequenzielle 4-Gang-Getriebe, Allradantrieb mit 3 Differenzialen, Einzelradaufhängung an beiden Achsen, ein detaillierter 6-Zylinder-Reihenmotor und eine funktionierende Winde.
-- Im Innenraum gibt es ein detailliertes Armaturenbrett, ein funktionierendes Lenkrad und nach vorne klappbare Rücksitze, die den Blick auf das sequenzielle 4-Gang-Getriebe freigeben.
-- Öffne die Türen, um Zugang zum Innenraum zu erhalten.
-- Eine Gangschaltung mit 2 Hebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einen Wählhebel zum Wechseln des Gangs (neu ab Oktober 2019), machen es zum bisher ausgefeitlesten LEGO Technic Getriebe!
+- Features authentically designed bodywork with Land Rover emblems, original-design rims with ground-gripping tyres, plus a detailed cabin
+- This collectable car model kit for kids 11+ and adults with its clean, modern lines is a great display piece for the home or office
+- The LEGO car model building kits make an ideal Christmas or birthday gift for Land Rover enthusiasts and fans of collectable toys
+- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
+- The Land rover model also has a transmission system with 2 levers for engaging high or low gear ratios and a selector for changing gear
+- The cabin features a detailed dashboard, working steering wheel and forward-folding rear seats that reveal the 4-speed sequential gearbox
+- Functions include a 4-speed sequential gearbox, All Wheel Drive with 3 differentials, independent suspension and detailed 6-cylinder engine
 
 [🛒 Check the deal!!]({{< param buyurl >}})
