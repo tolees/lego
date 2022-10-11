@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71773 NINJAGO Kai’s Golden Dragon Raider Multi-Terrain Car Toy with Kai and Zane Minifigures  Building Set for Kids Aged 8 Plus'
-date: 2022-10-10 11:39:23
+date: 2022-10-11 13:52:31
 image: 'https://m.media-amazon.com/images/I/51jO8mZzJHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes LEGO Minecraft figures: a savannah villager, a blacksmith, a raider and a vindicator, plus an axe, crossbow & sword accessories
-- Kids can open the giant toy Llama house to access all of the fun rooms inside, the llama also has a spitting function to fight off attackers
-- Also included in this playset is a llama herder and a llama knight, plus Minecraft farm animals: a llama, a baby llama and a baby sheep
-- When play time is over, this LEGO Minecraft set looks great on display, and makes a great toy birthday or Christmas gift for kids 9 plus years old
-- Features an opening llama house toy, with animal figures and 6 customisable buildings that kids can use to create their own unique village
 - Kids can care for the animal toys outside the house, and the 6 customisable buildings can be placed in different locations for more play options
+- Features an opening llama house toy, with animal figures and 6 customisable buildings that kids can use to create their own unique village
+- When play time is over, this LEGO Minecraft set looks great on display, and makes a great toy birthday or Christmas gift for kids 9 plus years old
+- Also included in this playset is a llama herder and a llama knight, plus Minecraft farm animals: a llama, a baby llama and a baby sheep
+- Kids can open the giant toy Llama house to access all of the fun rooms inside, the llama also has a spitting function to fight off attackers
 
 [🛒 Check the deal!!]({{< param buyurl >}})
