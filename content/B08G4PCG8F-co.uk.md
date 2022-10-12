@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10281 Icons Bonsai Tree Set for Adults  Home Décor DIY Projects  Relaxing Creative Activity Gift Idea  Botanical Collection'
-date: 2022-09-29 07:45:45
+date: 2022-10-11 23:52:43
 image: 'https://m.media-amazon.com/images/I/518c+hV6clL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4PCG8F/?tag=tolees0a-21'
 descuento: '25.56'
-average: '44.906976744186'
+average: '44.6475'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Plants from plants: the collection uses several elements made from plant-based plastic, produced using sustainably sourced sugarcane
-- Both sets of leaves can be custom arranged, creating an eye-catching, pretty unique display piece to adore in any home or office
-- The LEGO Botanical Collection home décor accessories offer a range of builds for flower lovers, making it a unique display piece
-- Features a bonsai tree model with a rectangular pot and a slatted wood-effect stand, made of LEGO elements, designed for adults
-- Includes interchangeable pieces so you can style the artificial plant with classic green leaves or vibrant pink cherry blossom blooms
 - This bonsai tree building set makes a relaxing activity, original birthday present for a friend or loved one, or a fun Mothers Day gift idea ... that never withers
+- The LEGO Botanical Collection home décor accessories offer a range of builds for flower lovers, making it a unique display piece
+- Includes interchangeable pieces so you can style the artificial plant with classic green leaves or vibrant pink cherry blossom blooms
+- Plants from plants: the collection uses several elements made from plant-based plastic, produced using sustainably sourced sugarcane
+- Features a bonsai tree model with a rectangular pot and a slatted wood-effect stand, made of LEGO elements, designed for adults
+- Both sets of leaves can be custom arranged, creating an eye-catching, pretty unique display piece to adore in any home or office
 - In this LEGO set for adults, designers have created a mindful build, with a unique cherry blossom pattern that becomes tiny frogs for fun
 
 [🛒 Buy it now!!]({{< param buyurl >}})
