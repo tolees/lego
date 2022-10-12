@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält eine Nachbildung des Automodells des legendären grauen Aston Martin von James Bond mit silbernen Speichenfelgen sowie 4 austauschbaren Nummernschildern, eines für jeden Film
-- Kinder, Autoenthusiasten und Fans können epische Autorennen nacherleben, und wenn sie mit dem Bau fertig sind, ist das Automodell ein ikonisches Ausstellungsstück in jedem Zimmer oder als Teil einer LEGO Speed ​​Champions-Sammlung
-- Enthält eine LEGO Minifigur von James Bond in einem coolen schwarzen Anzug, der vom Film „Keine Zeit zu sterben“ inspiriert ist, mit Platz für die Minifigur hinter dem Lenkrad sowie einem lustigen Spielzeug-Schraubenschlüssel
 - In der LEGO Building Instructions App für Smartphones und Tablets sind Dreh- und Vergrößerungsfunktionen verfügbar, die das Kind digitale Modellansichten aus jedem Winkel betrachten lassen
+- Enthält eine Nachbildung des Automodells des legendären grauen Aston Martin von James Bond mit silbernen Speichenfelgen sowie 4 austauschbaren Nummernschildern, eines für jeden Film
 - Dieses ikonische Automodell ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Kinder ab 8 Jahren, Autoliebhaber und Fans von James-Bond-Filmen
+- Enthält eine LEGO Minifigur von James Bond in einem coolen schwarzen Anzug, der vom Film „Keine Zeit zu sterben“ inspiriert ist, mit Platz für die Minifigur hinter dem Lenkrad sowie einem lustigen Spielzeug-Schraubenschlüssel
+- Kinder, Autoenthusiasten und Fans können epische Autorennen nacherleben, und wenn sie mit dem Bau fertig sind, ist das Automodell ein ikonisches Ausstellungsstück in jedem Zimmer oder als Teil einer LEGO Speed ​​Champions-Sammlung
 
 [🛒 Buy it now!!]({{< param buyurl >}})

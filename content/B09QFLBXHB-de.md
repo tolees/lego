@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Enthält ein Spielzeug Schloss mit 2 Türmen und 4 kleinen Gebäuden, ein Spielzeug Pferd mit Wagen, eine Drachenfigur und vieles mehr
-- Fantasievolle Abenteuer erwarten Kinder mit dem mittelalterlichen LEGO Schloss mit vielen Figuren und jede Menge Spielzeug
 - Das Spielzeug Schloss wird mit Starter-Steinen und großen Teilen geliefert, die für Kinder ab 4 Jahren geeignet sind
-- Die Kinder verteidigen die Burg vor der Drachenfigur, indem sie Kürbisse mit dem Katapult abschießen - weitere Abenteuer warten!
-- Das Micky Maus Spielzeug zum Bauen ist voll mit lustigem und originellem Zubehör, das Kinder zum spielerischen Lernen anregt
 - Mit Micky Maus, Minnie Maus, Daisy und Donald Duck als Minifiguren in mittelalterlichen Kostümen und passendem Zubehör
 - Die Disney Sets sind das ideale Kinderspielzeug ab 4 Jahre und ein spannendes Geschenk für jede Gelegenheit für Mädchen und Jungen
+- Fantasievolle Abenteuer erwarten Kinder mit dem mittelalterlichen LEGO Schloss mit vielen Figuren und jede Menge Spielzeug
+- Das Micky Maus Spielzeug zum Bauen ist voll mit lustigem und originellem Zubehör, das Kinder zum spielerischen Lernen anregt
+- Die Kinder verteidigen die Burg vor der Drachenfigur, indem sie Kürbisse mit dem Katapult abschießen - weitere Abenteuer warten!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

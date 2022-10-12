@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Allein sind die Ninjas keine Gegner für den Kobra-Mechaniker und Boa Destructor, doch gemeinsam können sie die Oberhand gewinnen!
-- Halte Ausschau nach weiteren Bannern in den 7 anderen NINJAGO Sets, darunter Lloyds legendärer Drache (71766), Jays und Nyas Rennwagen EVO (71776) und der Ninja-Dojotempel (71767)
 - Für das Erfüllen der Mission werden die Kinder mit einem Teamwork-Banner zum Sammeln belohnt.
+- Inklusive 7 LEGO NINJAGO Figuren: Kai, Jay, Zane, Cole, dem fiesen Schlangen-Duo Kobra-Mech und Boa-Jäger sowie Wubot
+- Allein sind die Ninjas keine Gegner für den Kobra-Mechaniker und Boa Destructor, doch gemeinsam können sie die Oberhand gewinnen!
 - Der Ultrakombi-Ninja-Mech aus 4 verschiedenen Fahrzeugen ist die ultimative Kampfmaschine, mit der kleine Helden Ninja-Geschichten erleben können
 - Dieses 4-in-1 LEGO NINJAGO Set enthält eine Actionfigur, die aus einem Mech, einem Auto, einem Panzer und einem Jet besteht, mit denen separat gespielt werden kann
+- Halte Ausschau nach weiteren Bannern in den 7 anderen NINJAGO Sets, darunter Lloyds legendärer Drache (71766), Jays und Nyas Rennwagen EVO (71776) und der Ninja-Dojotempel (71767)
 - Die LEGO NINJAGO Spielzeuge, Figuren und Spielzeugautos sind außerdem fantastische Weihnachtsgeschenke für Kinder ab 9 Jahren, die sich für Ninja-Kämpfe und Fahrzeuge begeistern
-- Inklusive 7 LEGO NINJAGO Figuren: Kai, Jay, Zane, Cole, dem fiesen Schlangen-Duo Kobra-Mech und Boa-Jäger sowie Wubot
 
 [🛒 Check the deal!!]({{< param buyurl >}})
