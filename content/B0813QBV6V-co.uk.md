@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
-- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
-- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
-- This LEGO Harry Potter Hogwarts Castle buildable toy makes a magical addition to birthday or Christmas gifts for 9 plus year old girls and boys
-- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
 - Build the intricate multi-level LEGO Hogwarts Castle Astronomy Tower and explore all it has to offer while recreating scenes from the movies
+- This LEGO Harry Potter Hogwarts Castle buildable toy makes a magical addition to birthday or Christmas gifts for 9 plus year old girls and boys
+- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
+- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
+- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
