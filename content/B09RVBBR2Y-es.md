@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars AT-ST  Gwiezdne Wojny   30495  [KLOCKI]'
-date: 2022-10-10 09:38:09
+date: 2022-10-13 18:46:39
 image: 'https://m.media-amazon.com/images/I/51utFeeey6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09RVBBR2Y/?tag=tolees-21'
 descuento: '25.03'
-average: '6.99'
+average: '6.65666666666667'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este fantástico juego de Lego es de su serie clásica de Star Wars y cuenta con el andador de pollo Imperial AT-ST y está establecido No. 30495
-- Lego lanzado en 2022 en asociación con Disney como parte de su serie de juegos de vehículos de Star Wars.
-- Todos los pedidos recibidos antes de las 4.00 pm de lunes a viernes se envían el mismo día.
 - Star Wars 2022 Lego Imperial AT-ST - Juego de andadores de pollo n.º 30495
+- Todos los pedidos recibidos antes de las 4.00 pm de lunes a viernes se envían el mismo día.
+- Lego lanzado en 2022 en asociación con Disney como parte de su serie de juegos de vehículos de Star Wars.
+- Este fantástico juego de Lego es de su serie clásica de Star Wars y cuenta con el andador de pollo Imperial AT-ST y está establecido No. 30495
 - Tienda sellada de fábrica
 
 [🛒 Buy it now!!]({{< param buyurl >}})

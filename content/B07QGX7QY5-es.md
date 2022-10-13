@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43172 Disney Princess Palacio mágico de Hielo de Elsa'
-date: 2022-10-11 17:40:05
+date: 2022-10-13 20:38:53
 image: 'https://m.media-amazon.com/images/I/51J7AMueIdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07QGX7QY5/?tag=tolees-21'
 descuento: '21.44'
-average: '62.4274311926605'
+average: '62.3706392694063'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Palacio mágico de hielo de Elsa
 - Este precioso set contiene un palacio con puente deslizante y escalera giratoria, balcón translúcido, cocina con mesa y sillas, y sala de música con atril y partitura, además de un parque de juegos al aire libre con fuerte de nieve y subibaja
+- Edad recomendada por el fabricante: 6+
 - El divertido juguete infantil incluye también un trineo con 3 carruajes para pasarlo genial en la nieve
 - Número de piezas: 701
-- Edad recomendada por el fabricante: 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})
