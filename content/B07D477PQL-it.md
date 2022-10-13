@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Il castello di Darth Vader'
-date: 2022-10-12 11:20:35
+date: 2022-10-13 12:03:52
 image: 'https://m.media-amazon.com/images/I/51MRPoiB2IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07D477PQL/?tag=tolees00-21'
 descuento: '32.45'
-average: '168.477773359839'
+average: '168.491686507935'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hangar sotterraneo con mouse droid e stazione di aggancio, antico santuario Sith con holocron, porta-munizioni, reliquie Sith, scomparti segreti con manico di spada laser nascosto e un elemento di cristallo kyber rosso, più spazio per il TIE Advanced Fighter di Vader
-- Il Castello di Darth Vader misura 41 cm di altezza, 28 cm di larghezza e 23 cm di profondità
-- Le armi includono la spada laser rossa di Darth Vader, la pistola blaster del pilota di trasporto imperiale e le picche delle Guardie reali
 - Include 5 minifigure: Darth Vader, Darth Vader (vasca di bacta), 2 Guardie reali e un Pilota di trasporto imperiale
-- Il TIE Advanced Fighter misura 6 cm di altezza, 11 cm di lunghezza e 9 cm di larghezza
 - Il TIE Advanced Fighter è dotato di 2 shooter e di cabina di pilotaggio per minifigure apribile
+- Hangar sotterraneo con mouse droid e stazione di aggancio, antico santuario Sith con holocron, porta-munizioni, reliquie Sith, scomparti segreti con manico di spada laser nascosto e un elemento di cristallo kyber rosso, più spazio per il TIE Advanced Fighter di Vader
+- Il TIE Advanced Fighter misura 6 cm di altezza, 11 cm di lunghezza e 9 cm di larghezza
+- Le armi includono la spada laser rossa di Darth Vader, la pistola blaster del pilota di trasporto imperiale e le picche delle Guardie reali
 - Il castello contiene anche una porta di accesso laterale, una vasca di bacta aperta, un gancio per il mantello di Lord Vader, una camera di meditazione con spazio per una minifigure e un’unità di comunicazione olografica, oltre a un’area per i meeting circolare nella parte superiore con un cannone di difesa
 - Contiene il castello di Darth Vader e una versione costruibile del TIE Advanced Fighter di Vader
+- Il Castello di Darth Vader misura 41 cm di altezza, 28 cm di larghezza e 23 cm di profondità
 
 [🛒 Buy it!!]({{< param buyurl >}})
