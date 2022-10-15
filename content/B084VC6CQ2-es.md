@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Pequeño objeto de colección, no necesariamente adecuado como regalo para niños
 - Contiene 48 piezas
 - LEGO Creator Promo Polybag Set
-- Pequeño objeto de colección, no necesariamente adecuado como regalo para niños
 - gato
 
 [🛒 Buy it now!!]({{< param buyurl >}})
