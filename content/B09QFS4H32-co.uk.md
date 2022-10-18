@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60345 City Farmers Market Van  Toy Farm Shop with Food Truck  Veggie Patch  3 Minifigures & Bunny Figure  Gift for Boys & Girls age 5 Plus Years Old'
-date: 2022-10-14 10:14:26
+date: 2022-10-18 02:18:41
 image: 'https://m.media-amazon.com/images/I/51llc30TdeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - This farm toy for kids for age 5 plus includes a mobile farm shop, fruit and veggie patch, plus 3 minifigures, a rabbit figure and lots of accessories
+- Kids will enjoy imaginative play while they run a toy farm shop, collect veggies in crates and load them onto the van ready to sell
 - Join LEGO City adventures character, Horace and 2 other included minifigures for a fun day working on the farm and riding in the LEGO food truck
+- Accessories elements include a toy watering can, shovel, hay fork, barrel, carrots, pumpkins, sweetcorn, grapes, jalapeños and apples
+- The Farmers Market Van truck toy features a serving window, opening side doors, rear doors and a minifigure cab
 - The toy veggie patch features a fun pop-up carrot-growing function and LEGO food accessory elements for imaginative role play
 - This fun farm toy playset makes a great gift for a birthday, Christmas or any occasion for kids aged 5 plus
-- The Farmers Market Van truck toy features a serving window, opening side doors, rear doors and a minifigure cab
-- Accessories elements include a toy watering can, shovel, hay fork, barrel, carrots, pumpkins, sweetcorn, grapes, jalapeños and apples
-- Kids will enjoy imaginative play while they run a toy farm shop, collect veggies in crates and load them onto the van ready to sell
 
 [🛒 Check the deal!!]({{< param buyurl >}})
