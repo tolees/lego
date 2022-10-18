@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42131 Technic App-Controlled Cat D11 Bulldozer  Model Building Set for Adults  Remote Control Construction Motor Vehicle'
-date: 2022-10-11 00:39:47
+date: 2022-10-18 16:01:22
 image: 'https://m.media-amazon.com/images/I/516kZvG+KTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WWZG8T3/?tag=tolees0a-21'
 descuento: '20.00'
-average: '343.872857142857'
+average: '342.280666666667'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes 2 x no. 15 motors, 2 x large motors and 1 x hub, and requires 6 x AA batteries (not included) to operate the construction vehicle
-- Relax & take your time assembling all the details, then explore the many mechanical functions – just like in the real thing!
 - This LEGO Cat model is meticulously detailed to replicate the original with authentic colours and graphics that Cat enthusiasts will love
-- Features a packed with details remote app-controlled construction motor vehicle - a replica version of the biggest Cat, the D11 bulldozer
+- Includes 2 x no. 15 motors, 2 x large motors and 1 x hub, and requires 6 x AA batteries (not included) to operate the construction vehicle
 - Use the CONTROL+ app to operate the model: to drive, steer, raise, lower and tilt the blade or raise and lower the ripper and ladder
-- This impressive LEGO set for adults makes a top gift idea for yourself or any fan of Cat bulldozers and other cool vehicles
 - See the new-for-October-2021 LEGO track element that that can be tightened and loosened, giving the bulldozer its realistic movement
+- Relax & take your time assembling all the details, then explore the many mechanical functions – just like in the real thing!
+- Features a packed with details remote app-controlled construction motor vehicle - a replica version of the biggest Cat, the D11 bulldozer
+- This impressive LEGO set for adults makes a top gift idea for yourself or any fan of Cat bulldozers and other cool vehicles
 
 [🛒 Buy it!!]({{< param buyurl >}})
