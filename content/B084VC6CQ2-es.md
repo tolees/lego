@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO LEGO-30574 Creator Cat 30574-Juego de Bolsas de plástico  Multicolor  30574 '
-date: 2022-10-14 21:42:18
+date: 2022-10-17 23:35:14
 image: 'https://m.media-amazon.com/images/I/51jFLNW1S-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Pequeño objeto de colección, no necesariamente adecuado como regalo para niños
 - Contiene 48 piezas
-- LEGO Creator Promo Polybag Set
 - gato
+- LEGO Creator Promo Polybag Set
 
 [🛒 Buy it now!!]({{< param buyurl >}})
