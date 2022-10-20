@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60343 City Great Vehicles Rescue Helicopter Transport Truck  Lorry Toy for Boys and Girls 5 plus Years Old  with Driver and Pilot Minifigures'
-date: 2022-10-17 08:26:00
+date: 2022-10-20 14:50:42
 image: 'https://m.media-amazon.com/images/I/51EghISicoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNV7PBF/?tag=tolees0a-21'
 descuento: '33.33'
-average: '17.575'
+average: '17.27'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- When the chopper is loaded and secured, board the truck and head for the highway. Action-packed air-rescue missions await
-- LEGO City Great Vehicles buildable toys for girls and boys 5 years old spark their imagination and make a great birthday present idea
-- The rescue helicopter toy for kids 5 years old has spinnable rotors and a storage area for the included stretcher
-- Features a transporter truck toy, a toy rescue helicopter, plus LEGO driver and pilot minifigures for hours of imaginative play
-- The awesome red truck comes with a long, articulated flatbed trailer and fold-out warning lights for extra-wide loads
 - The free LEGO Building Instructions app helps zoom, rotate and visualise the finished model as its build
+- Features a transporter truck toy, a toy rescue helicopter, plus LEGO driver and pilot minifigures for hours of imaginative play
+- LEGO City Great Vehicles buildable toys for girls and boys 5 years old spark their imagination and make a great birthday present idea
+- The awesome red truck comes with a long, articulated flatbed trailer and fold-out warning lights for extra-wide loads
+- The rescue helicopter toy for kids 5 years old has spinnable rotors and a storage area for the included stretcher
+- When the chopper is loaded and secured, board the truck and head for the highway. Action-packed air-rescue missions await
 
 [🛒 Buy it!!]({{< param buyurl >}})
