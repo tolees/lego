@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wenn die Kinder ihre Missionen erfüllen und den Schlangenkrieger besiegen, werden sie mit einem Schnelligkeitsbanner belohnt, mit dem sie den Drachen schmücken können
-- Inklusive NINJAGO Jay mit Nunchakus, der mit einer Kapuze und einem Schwert aufgerüstet werden kann, sowie einem Schlangenflieger, der mit Schwert und Jetpack bewaffnet ist
-- Rüste Jay mit einer Kapuze und einem Schwert aus und gib seinem furchteinflößenden Drachen größere Flügel, damit die Beiden sich in den Himmel erheben und todesmutig kämpfen können
 - Dieses LEGO NINJAGO Drachen Spielzeug enthält eine bewegliche Drachenfigur, deren Beine, Kopf, Kiefer und Flügel verstellbar sind und deren Schwanz als Waffe eingesetzt werden kann
+- Inklusive NINJAGO Jay mit Nunchakus, der mit einer Kapuze und einem Schwert aufgerüstet werden kann, sowie einem Schlangenflieger, der mit Schwert und Jetpack bewaffnet ist
+- Wenn die Kinder ihre Missionen erfüllen und den Schlangenkrieger besiegen, werden sie mit einem Schnelligkeitsbanner belohnt, mit dem sie den Drachen schmücken können
 - Der Donnerdrache verfügt über einen Sattel, auf den die Kinder Jay setzen können, um ihn in den epischen Kampf gegen die NINJAGO Schlange mit Jetpack zu schicken
+- Rüste Jay mit einer Kapuze und einem Schwert aus und gib seinem furchteinflößenden Drachen größere Flügel, damit die Beiden sich in den Himmel erheben und todesmutig kämpfen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
