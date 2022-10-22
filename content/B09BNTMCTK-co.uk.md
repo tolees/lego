@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11018 Classic Creative Ocean Fun Bricks Box  Building Toys for Kids with 6 Mini Builds Set of Ship  Submarine  Seahorse and Turtle Animal Figures'
-date: 2022-10-21 16:18:50
+date: 2022-10-22 16:57:09
 image: 'https://m.media-amazon.com/images/I/51H8hwGkykL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNTMCTK/?tag=tolees0a-21'
 descuento: '33.35'
-average: '12.0649999999999'
+average: '12.0631707317072'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
