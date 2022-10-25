@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This toy car garage set for toddlers 2 + years old features a drive-through car wash with a fabric ‘cleaning’ curtain and rooftop car park
+- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
 - The parking spaces have a ramp and movable boom barrier; there is also a charging station and a ticket machine for more role-playing fun
+- This toy car garage set for toddlers 2 + years old features a drive-through car wash with a fabric ‘cleaning’ curtain and rooftop car park
 - Includes 2 toy cars for toddlers, 1 with a push along feature, and a camper van with an opening top for 3 figures & store equipment on the roof
 - The parking spaces have a ramp and movable boom barrier; there is also a charging station and a ticket machine for more role-playing fun
-- Delivered in Frustration-Free Packaging that is easy to open and made of 100% recyclable materials!
 - The LEGO DUPLO set also includes 4 DUPLO figures: 2 men, a grandmother and a child, plus a dog figure for endless play possibilities
 
 [🛒 Buy it!!]({{< param buyurl >}})

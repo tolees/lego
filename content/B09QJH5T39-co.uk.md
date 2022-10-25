@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - This personalised patch kit includes all kids need to make a quick and easy style statement, inspiration is also included for design ideas
-- DIY and crafts fans can create more designs with tiles from LEGO DOTS Extra DOTS bags (sold separately) to expand their looks further
-- The creative toy badge making craft kit gives kids their own unique accessory they can match to their outfit or mood and redesign as they wish!
-- LEGO DOTS toy crafts set for kids features a Stitch-on Patch that can be decorated with colourful tiles and attached onto almost any fabric
-- This creative LEGO DOTS craft set is a perfect customisable birthday, holiday or Christmas gift for kids age 8 plus years old
 - Features 90+ colourful tiles and a 6x6 patch that can be stitched onto clothing or almost any other item (needle and thread not included)!
+- This creative LEGO DOTS craft set is a perfect customisable birthday, holiday or Christmas gift for kids age 8 plus years old
+- The creative toy badge making craft kit gives kids their own unique accessory they can match to their outfit or mood and redesign as they wish!
+- DIY and crafts fans can create more designs with tiles from LEGO DOTS Extra DOTS bags (sold separately) to expand their looks further
+- LEGO DOTS toy crafts set for kids features a Stitch-on Patch that can be decorated with colourful tiles and attached onto almost any fabric
 
 [🛒 Buy it now!!]({{< param buyurl >}})

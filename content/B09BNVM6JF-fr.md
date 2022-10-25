@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ce set de police LEGO inclut 3 personnages de la série LEGO City : Duke DeTain, Gracie Goodhart et Snake Rattler, ainsi qu’une minifigurine de bandit
 - Il comprend un jouet camion de police avec un policier et une cellule de prison sur la remorque, un drone jouet, un quad et un tracteur jouet avec un lanceur d’œufs sur la remorque
 - Ce camion jouet permet d’imaginer des histoires amusantes, comme lorsqu’un œuf recouvre le pare-brise alors que le mur est arraché de la prison mobile
 - Les enfants peuvent lancer des éléments d’œufs à partir de la remorque du tracteur, activer la fonction d’évasion de prison et faire pencher le quad pour le diriger
+- Ce set de police LEGO inclut 3 personnages de la série LEGO City : Duke DeTain, Gracie Goodhart et Snake Rattler, ainsi qu’une minifigurine de bandit
 - Il regorge d’accessoires amusants stimulant le jeu d’imagination, y compris un drone jouet télécommandé, des menottes et des éléments d’œufs
 
 [🛒 Check the deal!!]({{< param buyurl >}})

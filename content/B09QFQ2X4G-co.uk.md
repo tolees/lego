@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids build their highly posable Baby Groot model figure, from the Marvel Studios Guardians of the Galaxy Vol. 2, with all its cute features
 - Passionate fans can place the cute Marvel character in a pose, can dance with him to the rhythm of the music and recreate his funny movements
 - The set comes with printed instructions and a digital LEGO Building Instructions app to zoom and rotate while building the posable model
-- This set is a great birthday or Christmas gift idea for kids 10 years old who are fans of the Marvel universe and love Avengers buildable toys
 - The fully jointed Groot buildable toy is easy to position and comes with a pretend cassette to recreate the famous Baby Groot dancing scene
+- This set is a great birthday or Christmas gift idea for kids 10 years old who are fans of the Marvel universe and love Avengers buildable toys
+- Kids build their highly posable Baby Groot model figure, from the Marvel Studios Guardians of the Galaxy Vol. 2, with all its cute features
 
 [🛒 Check the deal!!]({{< param buyurl >}})

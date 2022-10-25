@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Packed with bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
 - Heartlake City Bakery
-- This snack-sized bakery set features Stephanie and Olivia minidolls, a cute dog figure, and a delivery scooter for limitless role-play fun
-- Number of pieces: 99
+- Packed with bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
 - Manufacturer recommended age: 4+
+- Number of pieces: 99
+- This snack-sized bakery set features Stephanie and Olivia minidolls, a cute dog figure, and a delivery scooter for limitless role-play fun
 
 [🛒 Check the deal!!]({{< param buyurl >}})

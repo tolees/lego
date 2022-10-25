@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Features the first 6-wheeled LEGO Technic all-terrain vehicle - off roader truck toy for kids 10+ years old with lots of authentic features
 - The set includes sticker graphics for kids to add to their ATV model truck toy for a realistic and finished, sleek look
-- The truck toy has an engine with moving pistons, 2-shift (+ neutral) gearbox, a winch & tipping cargo bed, just like the ones on a real ATV
 - The LEGO Technic universe offers advanced buildable models for LEGO fans, and make great Christmas gifts or Birthday presents for boys and girls
-- This model truck comes with a toy chainsaw and 20 small log pieces that connect to make larger logs, ready for the ATV to transport
 - This ATV construction toy offers a fun building challenge and makes a fantastic gift for kids 10+ years old that looks great on display
+- The truck toy has an engine with moving pistons, 2-shift (+ neutral) gearbox, a winch & tipping cargo bed, just like the ones on a real ATV
+- This model truck comes with a toy chainsaw and 20 small log pieces that connect to make larger logs, ready for the ATV to transport
 
 [🛒 Buy it!!]({{< param buyurl >}})

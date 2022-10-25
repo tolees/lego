@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- The Batcaves 2 sidewalls, one with a large GOTHAM CITY map and the other with a tool rack, are hinged to be rotated for more play space
+- This LEGO Super Heroes set includes 6 minifigures: Batman, his alter ego The Drifter, Selina Kyle, Alfred, Commissioner Gordon & The Riddler
 - Includes 3 elements with coded messages from The Riddler that can be read with a special magnifying glass only to reveal the clues
 - Its time for Batman to disguise himself as The Drifter, race off on his motorbike, capture the villain & bring him back to the Batcave jail!
 - Features a buildable Batcave - Batmans HQ equipped with accessories and a jail cell, plus a toy motorbike for many Batman adventures
-- The Batcaves 2 sidewalls, one with a large GOTHAM CITY map and the other with a tool rack, are hinged to be rotated for more play space
-- This LEGO Super Heroes set includes 6 minifigures: Batman, his alter ego The Drifter, Selina Kyle, Alfred, Commissioner Gordon & The Riddler
 
 [🛒 Buy it now!!]({{< param buyurl >}})

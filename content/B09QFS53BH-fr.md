@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Les enfants de 2 ans nont quà assembler 2 briques pour construire chaque animal, puis prennent soin de leurs petits amis tout en restant à lécoute de leurs besoins
 - Les effets sonores inclus pour chaque animal rendent le jouet déveil encore plus passionnant avec des sons indiquant quand manger, jouer, dormir, etc
 - Comprend également des briques pour construire un gâteau danniversaire, un cadeau, un arbre avec une étoile, ainsi que des briques de nourriture pour animaux et un bol pour s’amuser à nourrir et soccuper des animaux
+- Les enfants de 2 ans nont quà assembler 2 briques pour construire chaque animal, puis prennent soin de leurs petits amis tout en restant à lécoute de leurs besoins
 - Ce jouet danimaux développe des compétences essentielles, les enfants prennent des responsabilités et apprennent à soccuper dun petit animal
 - Cet ensemble de jouets LEGO DUPLO pour animaux de compagnie comprend des jouets pour chatons et chiots à construire pour les tout-petits qui émettent des sons réalistes, plus un cerceau qui roule pour samuser avec les animaux
 
