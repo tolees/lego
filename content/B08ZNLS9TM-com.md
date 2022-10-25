@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Set the scene for exciting action-packed play with this LEGO City Stunt Park (60293) playset, featuring a flywheel-powered stunt bike and an array of props and challenges for awesome performances
-- What’s in the box? All kids need to build a modular toy stunt park with 2 launch ramps, obstacles, fire, spider cage and a flywheel-powered stunt bike, plus a LEGO City TV Tread Octane minifigure
-- Kids activate the flywheel stunt bike to perform amazing stunts. This playset can also be combined with others from the LEGO City Stuntz range for even bigger events and performances!
 - An inspiring birthday or any-other-day gift for kids aged 5 and up. Requires only basic building skills so kids will be up and running in no time!
 - When built, the Stunt Park measures over 4 in. (10 cm) high, 11.5 in. (30 cm) wide and 5 in. (13.5 cm) deep
+- What’s in the box? All kids need to build a modular toy stunt park with 2 launch ramps, obstacles, fire, spider cage and a flywheel-powered stunt bike, plus a LEGO City TV Tread Octane minifigure
+- Kids activate the flywheel stunt bike to perform amazing stunts. This playset can also be combined with others from the LEGO City Stuntz range for even bigger events and performances!
+- Set the scene for exciting action-packed play with this LEGO City Stunt Park (60293) playset, featuring a flywheel-powered stunt bike and an array of props and challenges for awesome performances
 
 [🛒 Buy it now!!]({{< param buyurl >}})

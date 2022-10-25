@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Friends Olivia’s Electric Car (41443) is the perfect playset for kids who love vehicles and the environment. The buildable toy car sparks creative storytelling and open-ended adventures!
 - Delight car-crazy boys and girls who want to indulge their passion for a greener, modern way of life. It’s an ideal birthday or special-occasion creative gift for children aged 6 and up
+- The car measures over 2 in. (6 cm) high and 4 in. (11 cm) long. The wind turbine stands over 5 in. (13 cm) high, 3 in. (9 cm) wide and 2 in (6 cm) deep
+- LEGO Friends Olivia’s Electric Car (41443) is the perfect playset for kids who love vehicles and the environment. The buildable toy car sparks creative storytelling and open-ended adventures!
 - This LEGO Friends playset includes 2 mini-dolls and a puppy figure as well as a buildable car. It also features a charging station with a toy wind turbine, plus a picnic spot
 - The electric toy cars wheels spin so kids can ‘drive it round. It hooks up to the charging station with a hose and kids can spin the turbine sails to ‘generate’ the electricity
-- The car measures over 2 in. (6 cm) high and 4 in. (11 cm) long. The wind turbine stands over 5 in. (13 cm) high, 3 in. (9 cm) wide and 2 in (6 cm) deep
 
 [🛒 Check the deal!!]({{< param buyurl >}})

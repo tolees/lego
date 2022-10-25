@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Der AT-ST verfügt über eine Luke zum Cockpit, ein Dach zum Öffnen, einen drehbaren Kopf mit Rädern, 2 Geschütze mit Federmechanismus und bewegliche Beine
-- Inklusive 3 LEGO Star Wars Figuren: Chewbacca mit Schneedekoration, ein AT-ST Hoth-Pilot und ein Hoth-Rebellensoldat, jeweils mit Waffen
-- Beinhaltet das erste aus LEGO gebauten AT-ST-Modell (75322) aus der Schlacht von Hoth, mit dem sich die Szenen des Films „Star Wars: Das Imperium schlägt zurück“ nachstellen lassen
 - Enthält außerdem einen imperialen Sondendroiden, mit dem epische Szenen aus „Star Wars: Das Imperium schlägt zurück“ nachgestellt werden können
+- Der AT-ST verfügt über eine Luke zum Cockpit, ein Dach zum Öffnen, einen drehbaren Kopf mit Rädern, 2 Geschütze mit Federmechanismus und bewegliche Beine
 - Inklusive Anleitung; mit der „LEGO Bauanleitungen App“ können LEGO Bauer eine digitale Version des Modells betrachten und dabei vergrößern und rotieren
+- Beinhaltet das erste aus LEGO gebauten AT-ST-Modell (75322) aus der Schlacht von Hoth, mit dem sich die Szenen des Films „Star Wars: Das Imperium schlägt zurück“ nachstellen lassen
+- Inklusive 3 LEGO Star Wars Figuren: Chewbacca mit Schneedekoration, ein AT-ST Hoth-Pilot und ein Hoth-Rebellensoldat, jeweils mit Waffen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

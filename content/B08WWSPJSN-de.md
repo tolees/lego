@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das LEGO Minecraft Set für Kinder ab 8 Jahren beinhaltet ein schwebendes Schmiedehaus, einen detaillreichen Turm und eine Garteninsel
-- Kinder schnappen sich eine Feuerwerksrakete, um Elytra-Flügel anzutreiben und verwenden den Netherit-Helm und den Dreizack, um den Angriff der Phantome abzuwehren
-- Dieses gruselige, vielseitige Minecraft Spielzeug ermutigt Kinder, ihre Kreationen ständig zu verändern und weiterzuentwickeln - genau wie in dem beliebten Videospiel
-- Das Minecraft-Zubehör umfasst einen Basteltisch, einen Amboss, einen Schleifstein, Seelenlaternen, Kartoffeln, Rüben und ein Fass mit Fischen
 - Enthalten sind eine Minecraft Figur eines Piloten mit Elytra-Flügeln, Netherit-Helm, Feuerwerksrakete und Dreizack und 2 fliegende Phantome und eine orange gestromte Katze
+- Dieses gruselige, vielseitige Minecraft Spielzeug ermutigt Kinder, ihre Kreationen ständig zu verändern und weiterzuentwickeln - genau wie in dem beliebten Videospiel
+- Kinder schnappen sich eine Feuerwerksrakete, um Elytra-Flügel anzutreiben und verwenden den Netherit-Helm und den Dreizack, um den Angriff der Phantome abzuwehren
+- Das LEGO Minecraft Set für Kinder ab 8 Jahren beinhaltet ein schwebendes Schmiedehaus, einen detaillreichen Turm und eine Garteninsel
+- Das Minecraft-Zubehör umfasst einen Basteltisch, einen Amboss, einen Schleifstein, Seelenlaternen, Kartoffeln, Rüben und ein Fass mit Fischen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
