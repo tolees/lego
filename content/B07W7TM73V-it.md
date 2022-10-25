@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Stazione di Polizia'
-date: 2022-10-24 11:29:35
+date: 2022-10-25 17:00:26
 image: 'https://m.media-amazon.com/images/I/51HN8Gyzz7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07W7TM73V/?tag=tolees00-21'
 descuento: '18.32'
-average: '80.0045346534651'
+average: '80.0078260869563'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Stazione di Polizia
-- Cosa c’è nella scatola? Una stazione di polizia giocattolo, 2 veicoli, una moto e un drone. Contiene anche 6 minifigure, tra cui Duke DeTain, Chief Wheeler e Daisy Kaboom della serie TV LEGO City, più 2 cani.
-- I bambini possono divertirsi con il modello del quartier generale della polizia ricco di funzionalità, tra cui funzione di evasione con esplosione e riflettore con mattoncino luminoso, più un’auto della polizia con sirena dotata di mattoncino sonoro - una delizia per i fan della polizia di LEGO City.
 - Età consigliata dal produttore: 6+
+- Cosa c’è nella scatola? Una stazione di polizia giocattolo, 2 veicoli, una moto e un drone. Contiene anche 6 minifigure, tra cui Duke DeTain, Chief Wheeler e Daisy Kaboom della serie TV LEGO City, più 2 cani.
+- Stazione di Polizia
 - Numero di pezzi: 743
+- I bambini possono divertirsi con il modello del quartier generale della polizia ricco di funzionalità, tra cui funzione di evasione con esplosione e riflettore con mattoncino luminoso, più un’auto della polizia con sirena dotata di mattoncino sonoro - una delizia per i fan della polizia di LEGO City.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

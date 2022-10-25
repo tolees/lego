@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41440 Friends Heartlake City Bakery'
-date: 2022-10-11 00:38:27
+date: 2022-10-25 17:41:22
 image: 'https://m.media-amazon.com/images/I/511QmxyFpmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4RK5K7/?tag=tolees0a-21'
 descuento: '33.29'
-average: '10.18104'
+average: '10.1796031746032'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Manufacturer recommended age: 4+
-- Number of pieces: 99
+- Packed with bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
 - Heartlake City Bakery
 - This snack-sized bakery set features Stephanie and Olivia minidolls, a cute dog figure, and a delivery scooter for limitless role-play fun
-- Packed with bakery toy accessories, including a pretzel, dish, helmet, mug, ice-cream scoop, croissant, cake, pie and a bone for the dog
+- Number of pieces: 99
+- Manufacturer recommended age: 4+
 
 [🛒 Check the deal!!]({{< param buyurl >}})
