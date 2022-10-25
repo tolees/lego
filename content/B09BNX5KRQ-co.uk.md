@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41700 Friends Beach Glamping Camping Nature Toy  Gift for Girls and Boys age 6 with Tent  3 Mini-Dolls  Puppy Figure and Accessories'
-date: 2022-10-22 22:27:22
+date: 2022-10-24 22:40:29
 image: 'https://m.media-amazon.com/images/I/51bxi5Bxk-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNX5KRQ/?tag=tolees0a-21'
 descuento: '33.32'
-average: '24.5513333333333'
+average: '24.475'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - LEGO Friends camping outdoor adventure playset lets kids spend the perfect day and night on the beach hanging out with friends
-- Accessories include soap for the shower, a shell-tiled toilet, life vests, a stereo, marshmallows on a stick and bedside lamps
-- Features a beach scene with separate play areas: toy tent with fabric cover, jetty for fishing, shower, campfire and paddleboards storage
 - Includes 3 LEGO Friends mini dolls: Andrea, Stephanie and Daniel, and Pebble the puppy figure, plus 2 paddleboards
+- Features a beach scene with separate play areas: toy tent with fabric cover, jetty for fishing, shower, campfire and paddleboards storage
 - The toy tent comes with bunk beds and a stove, the pier with a spinning wind turbine to power lights, the beach with sandcastles and shells
+- Accessories include soap for the shower, a shell-tiled toilet, life vests, a stereo, marshmallows on a stick and bedside lamps
 
 [🛒 Buy it now!!]({{< param buyurl >}})
