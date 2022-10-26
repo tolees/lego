@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76206 Marvel Iron Man Figur  Spielzeug- und Deko-Modell zum Sammeln und Bauen für Kinder ab 9 Jahren aus Avengers: Age of Ultron  Infinity Saga'
-date: 2022-10-20 22:26:33
+date: 2022-10-26 15:36:38
 image: 'https://m.media-amazon.com/images/I/51d1Hvzx5WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mit dem LEGO Iron Man Spielzeug zum Bauen ab 9 Jahren können Kinder wie Tony Stark sein und ihre eigene gepanzerte Actionfigur bauen und ausstellen
-- Alle Teile des Iron Man Modells sind beweglich, damit die Kinder die Rüstung genau wie das Original bewegen, positionieren und aufstellen können
-- Die Iron Man Figur sieht auch als Ausstellungsstück fantastisch aus. Das Modell enthält eine abnehmbare Infotafel mit Details über den legendären gepanzerten Rächer
-- Ein per Knopfdruck bedienbarer Lichtbaustein beleuchtet den Arc-Reaktor in Iron Mans Brust und sorgt so für zusätzlichen Realismus
-- Dieses LEGO Set enthält eine 24 cm große Iron Man Figur – eine realistische Nachbildung des eisernen Stars aus den Avengers-Filmen von Marvel Studios
+- All parts of the buildable Iron Man action figure are articulated, so kids can move, position and pose the armour just like the real thing
+- Looking for a gift for kids 9 + years old? The Iron Man action figure is a great birthday present idea for all Avengers Infinity Saga fans
+- With the free LEGO Building Instructions app, kids can zoom, rotate and visualise a digital version of their model as they build
+- The LEGO Marvel Iron Man model looks great on display and includes a removable information plate with details about the iconic armoured Avenger
+- Features a 9 in. / 24 cm tall Iron Man action figure - a realistic recreation of the metal-clad star of the Marvel Studios’ Avengers movies
+- The LEGO Marvel Iron Man building toy lets kids be like Tony Stark and build their own armoured action figure to build and display with pride
+- A button-operated Light Brick adds extra realism as it illuminates the arc reactor in Iron Man’s chest
 
 [🛒 Check the deal!!]({{< param buyurl >}})

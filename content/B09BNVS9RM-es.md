@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Tras poner a prueba el coche a toda velocidad, conecta la tapa trasera para exponer con orgullo una alucinante maqueta
-- Descarga la app de RA+ de LEGO, escanea la maqueta, tira hacia atrás del coche usando tu pie y ve cómo cobra vida en emocionantes carreras repletas de adrenalina
-- Esta maqueta de coche para construir está repleta de detalles auténticos y rememora el emblemático aspecto del auténtico coche de carreras Ford Mustang Shelby GT500
 - ¡Los peques podrán descubrir nuevas y emocionantes experiencias con la app de RA+ de LEGO con esta maqueta de coche que corre en realidad aumentada como ningún otro!
-- La maqueta del coche Ford Mustang trae toda la emoción de las carreras a los peques, ¡podrán enviar el coche de juguete a toda velocidad gracias a su función retráctil
-- Usa la app de RA+ de LEGO Technic y comprueba los desafíos para descubrir muchas más maneras divertidas para jugar y explorar completamente la maqueta de tu coche de carreras
 - Este coche de juguete retráctil de color verde y blanco con grandes ruedas y un alerón trasero levantado es un gran regalo de Navidad en 2022 para niños y adolescentes
+- Esta maqueta de coche para construir está repleta de detalles auténticos y rememora el emblemático aspecto del auténtico coche de carreras Ford Mustang Shelby GT500
+- Tras poner a prueba el coche a toda velocidad, conecta la tapa trasera para exponer con orgullo una alucinante maqueta
+- Usa la app de RA+ de LEGO Technic y comprueba los desafíos para descubrir muchas más maneras divertidas para jugar y explorar completamente la maqueta de tu coche de carreras
+- Descarga la app de RA+ de LEGO, escanea la maqueta, tira hacia atrás del coche usando tu pie y ve cómo cobra vida en emocionantes carreras repletas de adrenalina
+- La maqueta del coche Ford Mustang trae toda la emoción de las carreras a los peques, ¡podrán enviar el coche de juguete a toda velocidad gracias a su función retráctil
 
 [🛒 Check the deal!!]({{< param buyurl >}})
