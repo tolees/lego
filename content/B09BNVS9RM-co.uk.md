@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The Ford mustang model car brings home the thrill of the drag racetrack as kids send the car speeding using the 2 pull back toy cars motors
-- This true-to-life buildable model car toy faithfully recreates the iconic looks of the real Ford Mustang Shelby GT500 drag racing car
-- After putting the model car through its paces, attach the rear cover to create a sleek bedroom decor piece you can display with pride
-- With wide tyres and raised back spoiler, this pull back toy drag racing car in green & white makes a top Christmas gift for kids and teens alike
-- Use the LEGO Technic AR+ app to check out the challenges for more fun ways to play and explore all details of your muscle racing car model
-- Download the LEGO AR+ app, scan the model, then pull the toy car back to launch it using your foot & see it come to life in exciting races
 - Kids will discover new exciting experiences in LEGO AR+ app with this model car kit to build that races in augmented reality like no other!
+- Use the LEGO Technic AR+ app to check out the challenges for more fun ways to play and explore all details of your muscle racing car model
+- After putting the model car through its paces, attach the rear cover to create a sleek bedroom decor piece you can display with pride
+- Download the LEGO AR+ app, scan the model, then pull the toy car back to launch it using your foot & see it come to life in exciting races
+- With wide tyres and raised back spoiler, this pull back toy drag racing car in green & white makes a top Christmas gift for kids and teens alike
+- This true-to-life buildable model car toy faithfully recreates the iconic looks of the real Ford Mustang Shelby GT500 drag racing car
+- The Ford mustang model car brings home the thrill of the drag racetrack as kids send the car speeding using the 2 pull back toy cars motors
 
 [🛒 Check the deal!!]({{< param buyurl >}})

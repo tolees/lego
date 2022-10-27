@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Kinder stürmen in die Schlacht, um es mit der NINJAGO Figur vom Kristallkönig als Zentaur und den 3 gefährlichen Kriegern an seiner Seite aufzunehmen; Sei tapfer! Sei Ninja!
 - Enthält eine exklusive, nie zuvor gesehene LEGO NINJAGO Figur von Lloyd, Harumi, einen Vergeltungsstein-Wächter und einen Vergeltungsstein-Krieger
+- Dieses LEGO NINJAGO ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren, die Actionfiguren und NINJAGO lieben
 - Erwecke die TV-Serie LEGO NINJAGO: Crystallized mit diesem Bauset mit einer riesigen beweglichen Kristallkönig Action-Figur zum Leben
 - Der Kristallkönig hat die Form einer beweglichen Zentaur-LEGO-Kreatur mit 4 Beinen, 2 Armen, Flügeln, einem großen Schwert und Platz für eine Minifigur
-- Dieses LEGO NINJAGO ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren, die Actionfiguren und NINJAGO lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})

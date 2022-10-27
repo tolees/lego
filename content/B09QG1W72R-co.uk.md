@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The toy unicorn box stationery holder doubles up as a storage or jewellery box and the bunting has string so it can be hung and admired
-- LEGO DOTS 5in1 Unicorn toy crafts Set includes 2 slimline bracelets, a toy unicorn box stationery holder, small message board and a bunting kit
 - LEGO DOTS Toy Unicorn Creative Family Pack is a unique craft set for kids age 6+, perfect as a birthday gift, Christmas or any-time treat
 - The 5in1 set is great for solo play or a creative unicorn crafts party with family or friends: the items can be redesigned for endless fun
-- Kids can also use any of the LEGO DOTS Extra DOTS bags or Lots of DOTS boxes (sold separately) to expand their designs
-- This DIY décor set includes lots of colourful tiles and 3 packs of alphabet tiles so kids can decorate their items and create endless messages
 - Comes with easy-to-follow patterns that allow kids to quickly start creating with coloured tiles and letters to really make designs stand out
+- The toy unicorn box stationery holder doubles up as a storage or jewellery box and the bunting has string so it can be hung and admired
+- LEGO DOTS 5in1 Unicorn toy crafts Set includes 2 slimline bracelets, a toy unicorn box stationery holder, small message board and a bunting kit
+- This DIY décor set includes lots of colourful tiles and 3 packs of alphabet tiles so kids can decorate their items and create endless messages
+- Kids can also use any of the LEGO DOTS Extra DOTS bags or Lots of DOTS boxes (sold separately) to expand their designs
 
 [🛒 Buy it!!]({{< param buyurl >}})
