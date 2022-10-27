@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11018 Classic Creative Ocean Fun Bricks Box  Building Toys for Kids with 6 Mini Builds Set of Ship  Submarine  Seahorse and Turtle Animal Figures'
-date: 2022-10-26 17:53:23
+date: 2022-10-27 19:55:48
 image: 'https://m.media-amazon.com/images/I/51H8hwGkykL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNTMCTK/?tag=tolees0a-21'
 descuento: '33.35'
-average: '12.0581818181818'
+average: '12.0566666666666'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Makes a great Christmas gift or birthday present for new LEGO builders and kids aged 4 plus who wish to expand their LEGO bricks collection
+- Kids can combine this LEGO ocean playset with other construction toys from the LEGO Classic range for even more creative fun
+- Includes all the LEGO bricks kids need to build a LEGO whale, seahorse, turtle, submarine, a toy Viking ship, and an underwater drone
 - This building toy for kids also includes 2 bags of LEGO pieces for creative building as they find imaginative ways to create their own LEGO toys
 - This LEGO Classic creative ocean fun building set comes with lots of colourful LEGO pieces and 6 ocean-themed model ideas to kick-start the fun
-- Includes all the LEGO bricks kids need to build a LEGO whale, seahorse, turtle, submarine, a toy Viking ship, and an underwater drone
-- Kids can combine this LEGO ocean playset with other construction toys from the LEGO Classic range for even more creative fun
 
 [🛒 Check the deal!!]({{< param buyurl >}})
