@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75317 BrickHeadz Star Wars The Mandalorian & The Child  Baby Yoda  Building Toy  Collectible Model Figures Set  Gift Idea for Boys and Girls'
-date: 2022-10-16 08:23:06
+date: 2022-10-27 13:03:46
 image: 'https://m.media-amazon.com/images/I/51PICcFMI0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B084CKR6VP/?tag=tolees0a-21'
 descuento: '27.79'
-average: '20.7468461538463'
+average: '20.661287878788'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The Baby Yoda figure (The Child) has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent elements
 - A great addition to any Star Wars collectables, the set makes a great birthday or Christmas Baby Yoda gift for fans of all ages
+- The Baby Yoda figure (The Child) has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent elements
 - Both Mandalorian models have baseplates & don’t take up too much space but are sure to make a big impression wherever they are displayed
-- This Star Wars collectable set features LEGO BrickHeadz build-and-display models of The Mandalorian and the Child
 - LEGO buildable Mandalorian figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand
+- This Star Wars collectable set features LEGO BrickHeadz build-and-display models of The Mandalorian and the Child
 
 [🛒 Check the deal!!]({{< param buyurl >}})
