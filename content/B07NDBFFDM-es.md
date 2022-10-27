@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41166 Disney Frozen 2  Aventura en Carreta de Elsa con Mini Muñeca de la Princesa y 2 Figuras de Reno  Juguete para Niños'
-date: 2022-10-23 16:46:21
+date: 2022-10-27 00:27:01
 image: 'https://m.media-amazon.com/images/I/51Da9-KbXNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07NDBFFDM-es LEGO 41166 Disney Frozen 2 Aventura en Carreta de Elsa con...'
 sku: 'B07NDBFFDM-es'
 tags: [ 'Conjuntos de figuras de juguete','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 24.99 EUR
+actualPrice: 23.69 EUR
 currency: EUR
-price: 24.99
+price: 23.69
 comparePrice: 29.99 EUR
 prodname: 'LEGO 41166 Disney Frozen 2  Aventura en Carreta de Elsa con Mini Muñeca de la Princesa y 2 Figuras de Reno  Juguete para Niños'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDBFFDM/?tag=tolees-21'
-descuento: '16.67'
-average: '25.3178873239432'
+descuento: '21.01'
+average: '25.3102803738313'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,15 +28,15 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a las constructoras más pequeñas a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
 - Combínalo con el set de Expedición en Canoa de Anna 41165 y vive la magia de LEGO Disney Frozen 2, para que tu peque de 4 años o más desarrolle sus finas habilidades motoras
+- Incorpora una mini muñeca de Elsa de Frozen, además de 2 figuras de reno: Sven y una cría de reno, un área de picnic de Frozen y una base inicial de ladrillos
+- Los sets LEGO 4+, comercializados anteriormente con la marca LEGO Juniors, son compatibles con todos los sets de construcción LEGO para estimular la construcción creativa.
 - Los accesorios incluyen: zanahoria, galleta, caja de galletas, malvavisco y cepillo; los juguetes para niños a partir de 4 años están especialmente diseñados para construirlos con facilidad
+- Este divertido set de construcción es una idea de regalo perfecta para cumpleaños o Navidad para fans de las películas de Disney Frozen o de los juguetes de construcción de Frozen
+- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a las constructoras más pequeñas a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
+- Este juguete de construcción inspirado en Elsa es un regalo ideal para jóvenes imaginativas.
+- Incluye la carreta de Elsa para dos mini muñecas, un arnés para fijarlo a Sven, un establo con abrevadero de agua, una fogata y un comedero de heno
 - Combínalo con el set Expedición en Canoa de Anna (41165) para disfrutar de más momentos mágicos al estilo LEGO / Disney Frozen II 4+.
 - Con la base especial inicial de ladrillos incluida en este juguete de construcción de Frozen, incluso los constructores principiantes experimentarán el orgullo de construir
-- Los sets LEGO 4+, comercializados anteriormente con la marca LEGO Juniors, son compatibles con todos los sets de construcción LEGO para estimular la construcción creativa.
-- Este divertido set de construcción es una idea de regalo perfecta para cumpleaños o Navidad para fans de las películas de Disney Frozen o de los juguetes de construcción de Frozen
-- Incorpora una mini muñeca de Elsa de Frozen, además de 2 figuras de reno: Sven y una cría de reno, un área de picnic de Frozen y una base inicial de ladrillos
-- Incluye la carreta de Elsa para dos mini muñecas, un arnés para fijarlo a Sven, un establo con abrevadero de agua, una fogata y un comedero de heno
-- Este juguete de construcción inspirado en Elsa es un regalo ideal para jóvenes imaginativas.
 
 [🛒 Buy it!!]({{< param buyurl >}})
