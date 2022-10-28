@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator Expert-Furgoneta Volkswagen T1  Juguete de construcción de Camper Van Blanca y roja  10220 '
-date: 2022-10-26 23:35:42
+date: 2022-10-28 00:43:06
 image: 'https://m.media-amazon.com/images/I/5151ZpHOVgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B00PGZP8HE/?tag=tolees-21'
 descuento: '15.96'
-average: '154.154339080463'
+average: '154.19142037303'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
