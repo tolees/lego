@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71400 Super Mario Big Urchin Beach Ride Expansion Set  Building Toy with Yoshi  Cheep Cheeps and Dolphin Figures  Gift for Boys & Girls age 7 plus'
-date: 2022-10-27 13:04:40
+date: 2022-10-28 17:04:28
 image: 'https://m.media-amazon.com/images/I/51TfPZ1yTDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNSD96L/?tag=tolees0a-21'
 descuento: '36.37'
-average: '34.4427906976743'
+average: '34.4552272727272'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Let kids create a palm-tree shaking, dolphin-riding, high-diving level with Cheep Cheeps ‘leaping’ to collect digital coins and win the game
 - Includes 5 LEGO Super Mario figures: Yellow Yoshi, Big Urchin, 2 Cheep Cheeps, and a Dolphin for LEGO Mario or Luigi figures (not included)
 - Features a springboard to perform dives and a roller coaster to shake the Super Star Block out of the palm tree and topple the Big Urchin
-- Let kids create a palm-tree shaking, dolphin-riding, high-diving level with Cheep Cheeps ‘leaping’ to collect digital coins and win the game
 - Add another beach level to kids&039; LEGO Super Mario buildable game with this Big Urchin Beach Ride Expansion Set, a toy for kids 7 years old
 - LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 7136071387, which is required for play
 
