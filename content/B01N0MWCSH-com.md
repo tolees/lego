@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kids can role-play superfan Andrea or movie star Amelia, or they can pretend to sell tickets and popcorn. Movie-mad kids can imagine they’re a VIP watching the premier or operate the toy projector
+- The Heartlake City cinema lets kids screen their own movie creations for the mini-dolls by resting a cell phone against the screen, which also flips to support a tablet
 - This hinged toy playset features a ticket desk and red-carpet area on one side and opens out to form a screening room, restroom and popcorn kiosk. Includes LEGO Friends Andrea and 2 other mini-dolls
 - As with all LEGO Friends sets, this model is packed with cool accessories to make the action come alive – this set includes tickets, paper and pen, popcorn, slushy cups and cash bills
-- The Heartlake City cinema lets kids screen their own movie creations for the mini-dolls by resting a cell phone against the screen, which also flips to support a tablet
-- Kids can role-play superfan Andrea or movie star Amelia, or they can pretend to sell tickets and popcorn. Movie-mad kids can imagine they’re a VIP watching the premier or operate the toy projector
 - Dazzle a movie-mad kid with LEGO Friends Heartlake City Movie Theater (41448). It’s premier night at this vintage-style cinema, with a red carpet and a glamorous LEGO Friends movie star!
 
 [🛒 Buy it!!]({{< param buyurl >}})
