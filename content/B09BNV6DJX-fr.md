@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Grimpez sur le tapis volant et visitez le temple de Mulan pour voir les fleurs de prunier avant de retourner au palais !
 - La poupée de la princesse Jasmine peut aller admirer la vue sur le balcon. Mais, qui est là ? Super, c’est Mulan, Khan et Cri-kee qui viennent nous rendre visite !
-- Les enfants vont adorer ce set qui regorge de possibilités de création, avec des décors basés sur 2 films Disney célèbres : Mulan et Aladdin
-- Il comprend les mini-poupées des princesses Disney Jasmine et Mulan, ainsi que 2 figurines d’animaux LEGO, le jouet cheval Khan et le tigre Rajah
 - Il inclut un palais détaillé avec 2 étages et un petit temple, ainsi que de nombreux accessoires pour profiter de sessions de jeu amusantes
+- Il comprend les mini-poupées des princesses Disney Jasmine et Mulan, ainsi que 2 figurines d’animaux LEGO, le jouet cheval Khan et le tigre Rajah
+- Les enfants vont adorer ce set qui regorge de possibilités de création, avec des décors basés sur 2 films Disney célèbres : Mulan et Aladdin
 
 [🛒 Check the deal!!]({{< param buyurl >}})

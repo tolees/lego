@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dentro de este Calendario de Adviento hay 7 mini figuras LEGO de Harry Potter, Sirius Black, Myrtle la Llorona, Lord Voldemort, Horace Slughorn, Nymphadora Tonks y Neville Longbottom, además de icónicos objetos de las películas
 - Un regalo pre-Navideño de Harry Potter estupendo para jóvenes brujas, magos y muggles de 7 años o más para que se diviertan con sus juguetes de Navidad durante todo el año
 - Los peques podrán recrear escenas de las películas de Harry Potter o combinar el calendario infantil con otros sets para crear un sinfín de aventuras, ¡incluye un juego de mesa para usar una vez abiertas las 24 ventanas!
-- Todos los pequeños juguetes para construir de este Calendario de Adviento para niños se pueden combinar con la gama LEGO Harry Potter para disfrutar aún más de la diversión en el mundo mágico
-- Haz que la cuenta atrás para la Navidad sea mágica este 2022 con el Calendario de Adviento de Harry Potter de LEGO con 24 juguetes inspirados en las películas que incluyen mini figuras, accesorios y mini construcciones
+- Dentro de este Calendario de Adviento hay 7 mini figuras LEGO de Harry Potter, Sirius Black, Myrtle la Llorona, Lord Voldemort, Horace Slughorn, Nymphadora Tonks y Neville Longbottom, además de icónicos objetos de las películas
 - Cada día, los niños abren una ventana y descubren un juguete sorpresa de Harry Potter, los 3 primeros forman una escena de la primera película, los 3 siguientes de la segunda y así sucesivamente, ¡la magia aumenta al acercarse la Navidad!
+- Haz que la cuenta atrás para la Navidad sea mágica este 2022 con el Calendario de Adviento de Harry Potter de LEGO con 24 juguetes inspirados en las películas que incluyen mini figuras, accesorios y mini construcciones
+- Todos los pequeños juguetes para construir de este Calendario de Adviento para niños se pueden combinar con la gama LEGO Harry Potter para disfrutar aún más de la diversión en el mundo mágico
 
 [🛒 Buy it now!!]({{< param buyurl >}})
