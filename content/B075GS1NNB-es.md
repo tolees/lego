@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42077 Technic Coche de Rally'
-date: 2022-10-28 00:58:46
+date: 2022-10-29 03:48:57
 image: 'https://m.media-amazon.com/images/I/61y8rHnfoXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B075GS1NNB/?tag=tolees-21'
 descuento: '30.98'
-average: '133.930622119814'
+average: '133.83836781609'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Abre las puertas para acceder a la detallada cabina, equipada con asientos de competición y jaula protectora
-- Coche de rally
-- Edad recomendada por el fabricante: 10-16
 - Contempla la deportiva combinación de colores en azul, blanco, rojo y negro, y la carrocería con adhesivos de rally
 - Número de piezas: 1005
+- Coche de rally
+- Edad recomendada por el fabricante: 10-16
 
 [🛒 Buy it!!]({{< param buyurl >}})
