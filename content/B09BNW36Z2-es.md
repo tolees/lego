@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Los peques podrán disparar elementos de agua desde el dron, activar las luces del semáforo y levantar y bajar las llamas LEGO en el lugar del incendio
 - El set de construcción también cuenta con 3 mini figuras LEGO, entre ellas el Bob, el bombero de la serie de TV LEGO City Aventuras en la Ciudad, y la figura de un gato de juguete para llevar a cabo imaginativas historias
+- Los juguetes de policía y bomberos de LEGO City son fantásticos para niños de 5 años en adelante amantes de los juegos de acción y los vehículos de emergencia, ¡una original idea de regalo para cumpleaños!
 - Este juguete de policías y bomberos incluye varios vehículos de emergencia: una furgoneta con un dron, una moto de policía, un coche para los ladrones y una pequeña estación con un semáforo
 - El juguete de construcción también incluye divertidos accesorios para que los peques vivan juegos de rol: esposas, 2 walkie-talkies, 3 billetes de banco y un saco para el ladrón
-- Los juguetes de policía y bomberos de LEGO City son fantásticos para niños de 5 años en adelante amantes de los juegos de acción y los vehículos de emergencia, ¡una original idea de regalo para cumpleaños!
-- Los peques podrán disparar elementos de agua desde el dron, activar las luces del semáforo y levantar y bajar las llamas LEGO en el lugar del incendio
 
 [🛒 Buy it now!!]({{< param buyurl >}})
