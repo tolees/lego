@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Police Helicopter Building Kit; Cool Police Helicopter Toy 60275  New 2021  51 Pieces '
-date: 2022-10-27 12:50:24
+date: 2022-10-29 17:30:46
 image: 'https://m.media-amazon.com/images/I/51VPeU+wNaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B08HW1VHPR/?tag=tolees-20'
 descuento: '30.03'
-average: '8.536'
+average: '8.27833333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - The helicopter measures over 3 in. (8 cm) high, 5 in. (12 cm) long and 2 in. (5 cm) wide – so theres plenty of room for the LEGO City police pilot
-- There’s a robust toy police helicopter, crooks water scooter and 2 banknote elements, plus police officer and crook minifigures; Just add a touch of imagination for endless fun
-- Makes an awesome Holiday, birthday or any-other-day gift for fans of LEGO City and a great introduction to the LEGO City universe for boys and girls aged 4 and up
-- The police helicopter toy has a minifigure cockpit, spinnable rotors and an opening fuselage for the captured crook; Kids can attach the crook and her stolen banknote elements to the water scooter
 - This easy-to-build Police Helicopter (60275) playset makes a great introduction to the awesome LEGO City universe, where boys and girls aged 4 and up can immerse themselves in endless creative play
+- Makes an awesome Holiday, birthday or any-other-day gift for fans of LEGO City and a great introduction to the LEGO City universe for boys and girls aged 4 and up
+- There’s a robust toy police helicopter, crooks water scooter and 2 banknote elements, plus police officer and crook minifigures; Just add a touch of imagination for endless fun
+- The police helicopter toy has a minifigure cockpit, spinnable rotors and an opening fuselage for the captured crook; Kids can attach the crook and her stolen banknote elements to the water scooter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
