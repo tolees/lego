@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Ammira la livrea sportiva blu, bianca, rossa e nera con gli adesivi da corsa
+- Età consigliata dal produttore: 10-16
 - Numero di pezzi: 1005
 - Apri le portiere per accedere all’abitacolo dettagliato, con sedili da corsa e roll bar tubolare rossa
 - Auto da rally
-- Età consigliata dal produttore: 10-16
 
 [🛒 Buy it!!]({{< param buyurl >}})

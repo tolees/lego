@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Edad recomendada por el fabricante: 10-16
+- Coche de rally
+- Número de piezas: 1005
 - Abre las puertas para acceder a la detallada cabina, equipada con asientos de competición y jaula protectora
 - Contempla la deportiva combinación de colores en azul, blanco, rojo y negro, y la carrocería con adhesivos de rally
-- Número de piezas: 1005
-- Coche de rally
-- Edad recomendada por el fabricante: 10-16
 
 [🛒 Buy it!!]({{< param buyurl >}})

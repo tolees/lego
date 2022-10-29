@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Include anche una grande miniera con elementi separabili per rivelare una pepita d’oro nascosta, uno scivolo girevole, binario con due carrelli da miniera e un laboratorio mobile
-- Numero di pezzi: 883
-- Contiene una grande spianatrice/frantumatrice con cabina per minifigure e braccio sollevabile, piccola ruspa con pala sollevabile e autoribaltabile con cassone funzionante
 - Età consigliata dal produttore: 7-12
+- Contiene una grande spianatrice/frantumatrice con cabina per minifigure e braccio sollevabile, piccola ruspa con pala sollevabile e autoribaltabile con cassone funzionante
 - Macchine da miniera
+- Numero di pezzi: 883
+- Include anche una grande miniera con elementi separabili per rivelare una pepita d’oro nascosta, uno scivolo girevole, binario con due carrelli da miniera e un laboratorio mobile
 
 [🛒 Buy it now!!]({{< param buyurl >}})
