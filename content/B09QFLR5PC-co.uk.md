@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Frozen Disney Princess Castle is a great building toy for girls and boys 4+ years old and makes a cool birthday, Christmas or anytime gift idea
-- LEGO buildable toys for young kids help hone ready for school skills such as communication, concentration and imaginative self-expression
 - Accessories include a saddle for Kjekk and a brush so kids can help to care for the toy horse, plus a carrot and a chest with diamonds elements
 - This 2-floored LEGO Disney Princess castle has an entrance door and inner hall with a spinning dance floor so kids can watch Anna and Olaf dance
 - Enchant kids aged 4 Plus with the LEGO Disney Frozen Arendelle Castle buildable toy with Princess Anna mini-doll, Olaf and toy horse Kjekk LEGO figures
+- LEGO buildable toys for young kids help hone ready for school skills such as communication, concentration and imaginative self-expression
 - This LEGO 4+ set comes with Starter Bricks and simple picture instructions, so even young fans of Disney Frozen can build their own toy castle
+- This LEGO Frozen Disney Princess Castle is a great building toy for girls and boys 4+ years old and makes a cool birthday, Christmas or anytime gift idea
 
 [🛒 Buy it now!!]({{< param buyurl >}})

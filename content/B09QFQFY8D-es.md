@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Y aún hay más, los niños podrán recrear escenas de la película Harry Potter y el Prisionero de Azkaban cuando la luna resplandeciente aparezca y el Profesor Lupin se convierta en hombre lobo
-- Este set LEGO Harry Potter está lleno de mágicas funciones, El Sauce Boxeador se gira y sus ramas se doblan para lanzar puñetazos a las mini figuras y cogerlas
-- Incluido en la app gratuita Instrucciones de Montaje LEGO, donde las herramientas de zoom, rotación y visualización ayudan a los niños a construir y reconfigurar el modelo
-- Un regalo de cumpleaños o regalo sorpresa perfecto para pequeños magos, brujas y Muggles de 9 años en adelante, ¡es hora de vivir increíbles aventuras en Hogwarts y ayudar a Harry!
 - Horas de mágicas aventuras esperan a los peques cuando entren en La Casa de los Gritos a través del pasadizo secreto y rescaten a Ron o liberen a Hermione del Sauce
+- Incluido en la app gratuita Instrucciones de Montaje LEGO, donde las herramientas de zoom, rotación y visualización ayudan a los niños a construir y reconfigurar el modelo
+- Y aún hay más, los niños podrán recrear escenas de la película Harry Potter y el Prisionero de Azkaban cuando la luna resplandeciente aparezca y el Profesor Lupin se convierta en hombre lobo
 - El set incluye 6 mini figuras LEGO de Harry Potter, Hermione Granger, Ron Weasley, Sirius Black, Peter Pettigrew y, además de 4 cromos mágicos aleatorios para coleccionar (hay 16 en total)
+- Este set LEGO Harry Potter está lleno de mágicas funciones, El Sauce Boxeador se gira y sus ramas se doblan para lanzar puñetazos a las mini figuras y cogerlas
 - Lleva a los peques al centro de la acción con este juguete de construcción 2 en 1 con el que pueden recrear 2 lugares clásicos de las películas de Harry Potter: La Casa de los Gritos y el Sauce Boxeador
+- Un regalo de cumpleaños o regalo sorpresa perfecto para pequeños magos, brujas y Muggles de 9 años en adelante, ¡es hora de vivir increíbles aventuras en Hogwarts y ayudar a Harry!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
