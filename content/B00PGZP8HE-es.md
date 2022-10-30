@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator Expert-Furgoneta Volkswagen T1  Juguete de construcción de Camper Van Blanca y roja  10220 '
-date: 2022-10-29 03:33:55
+date: 2022-10-30 05:05:16
 image: 'https://m.media-amazon.com/images/I/5151ZpHOVgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B00PGZP8HE/?tag=tolees-21'
 descuento: '15.96'
-average: '154.228395415476'
+average: '154.265264663809'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mide 30 cm de longitud y 16 cm de altura
 - El interior contiene también un asiento que se transforma en una cama, una camiseta con el lema Make LEGO Models, Not War y un estante trasero con una planta
-- Cuenta también con 11 ventanas exteriores, cortinas de cuadros escoceses y espejos laterales
 - Abre la puerta trasera y descubre el detallado motor
+- Cuenta también con 11 ventanas exteriores, cortinas de cuadros escoceses y espejos laterales
+- Mide 30 cm de longitud y 16 cm de altura
 
 [🛒 Buy it now!!]({{< param buyurl >}})
