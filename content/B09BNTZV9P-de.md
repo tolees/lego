@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41950 DOTS Ergängzungsset XXL - Botschaften  Kreativset für DIY Message Board für Kinder  Spielzeug Bastelset mit Buchstaben-Bausteinen'
-date: 2022-10-29 17:40:59
+date: 2022-10-30 18:09:25
 image: 'https://m.media-amazon.com/images/I/51AaTeGffML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNTZV9P-de LEGO 41950 DOTS Ergängzungsset XXL - Botschaften...'
 sku: 'B09BNTZV9P-de'
 tags: [ 'Bastelsets für Kinder','Kunst und Handwerk','Spielzeug','lego','🇩🇪', ]
-actualPrice: 10.0 EUR
+actualPrice: 8.0 EUR
 currency: EUR
-price: 10.0
+price: 8.0
 comparePrice: 19.99 EUR
 prodname: 'LEGO 41950 DOTS Ergängzungsset XXL - Botschaften  Kreativset für DIY Message Board für Kinder  Spielzeug Bastelset mit Buchstaben-Bausteinen'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNTZV9P/?tag=tolees0ca-21'
-descuento: '49.97'
-average: '12.9635897435893'
+descuento: '59.98'
+average: '12.8394999999996'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das beiliegende Heft enthält viele Ideen für Alphabete und Designs, die den Erfindergeist der Kinder anregen
-- LEGO Spielzeug Bastelsets für Kinder ab 6 Jahre sind ein tolles Geschenk zum Geburtstag oder für andere Anlässe
-- Die Kinder können mit dem Ergänzungset ihrer Kreativität freien Lauf lassen und die Message Boards oder andere DOTS Accessoires aufpeppen
-- Die LEGO DOTS Kreativsets vermitteln Kindern die Freude an kreativen Aktionen, indem sie die verschiedenen Gegenstände herstellen und dekorieren
 - Das LEGO DOTS Ergänzungsset XXL - Botschaften eignet sich ideal zur individuellen Herstellung von Kinderzimmer-Deko oder Accessoires für das Spielzimmer
+- Die LEGO DOTS Kreativsets vermitteln Kindern die Freude an kreativen Aktionen, indem sie die verschiedenen Gegenstände herstellen und dekorieren
+- Die Kinder können mit dem Ergänzungset ihrer Kreativität freien Lauf lassen und die Message Boards oder andere DOTS Accessoires aufpeppen
+- LEGO Spielzeug Bastelsets für Kinder ab 6 Jahre sind ein tolles Geschenk zum Geburtstag oder für andere Anlässe
+- Das beiliegende Heft enthält viele Ideen für Alphabete und Designs, die den Erfindergeist der Kinder anregen
 - Enthält über 700 Steinchen, mit denen die Kinder Schriftarten und Buchstaben nach Belieben gestalten können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
