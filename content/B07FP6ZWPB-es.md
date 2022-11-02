@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Heroes - Batalla en el Complejo de los Vengadores  Juguete de Construcción de Avengers  Incluye Helicóptero y Todoterreno  76131 '
-date: 2022-10-31 17:27:39
+date: 2022-11-02 07:13:26
 image: 'https://m.media-amazon.com/images/I/51+36xsPckL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FP6ZWPB/?tag=tolees-21'
 descuento: '32.85'
-average: '115.742222222222'
+average: '121.068'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,15 +28,15 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- El helicóptero cuenta con cabina abatible para una minifigura, 2 rotores giratorios e inclinables, y un cañón rápido de 6 disparos.
-- El edificio de oficinas cuenta con: 2 elementos con el logotipo de los Vengadores en la pared exterior; un cañón automático giratorio que se puede inclinar en la azotea; planta inferior con entrada, ordenador giratorio para construir y caja fuerte con “rayo láser”; y planta superior con sala de reuniones, mesa con compartimento secreto, puerta giratoria que conduce al helipuerto y diferentes accesorios (entre ellos 3 sillas, 2 armas, 3 copas y una taza).
-- Este set de superhéroes para construir incluye 4 minifiguras del universo Marvel: Iron Man, Capitana Marvel, Nébula y un Outrider de 4 brazos; incluye también grandes figuras articuladas de Hulk y Thanos, así como una microfigura de Ant-Man.
-- El todoterreno cuenta con cabina para una minifigura, torreta giratoria armada con un cañón doble y espacio para una minifigura de pie.
-- Recrea las trepidantes escenas de la saga Marvel Vengadores con este emocionante set de construcción de juguetes para niños basado en el mundo de los superhéroes.
-- Este juguete de construcción representa el complejo de los Vengadores, equipado con un edificio de oficinas de 2 plantas, helipuerto y garaje, e incluye un helicóptero y un todoterreno para dar cabida al juego creativo.
-- El complejo cuenta también con: un helipuerto con 2 cañones dobles y un puente hacia el edificio de oficinas; garaje para el todoterreno con rampa, barrera que se abre y antena de radar giratoria e inclinable; y portaherramientas con una palanca, una llave inglesa, un soldador y una sierra circular.
-- Accesorios incluidos: 10 ráfagas de poder de la Capitana Marvel para jugar con imaginación.
-- Armas incluidas: espada de Nébula y hacha de combate de doble hoja para construir de Thanos.
 - La minifigura de Iron Man y las grandes figuras de Thanos y Hulk son novedad en marzo de 2019; la minifigura de Nébula y la microfigura de Ant-Man decoradas con el traje del equipo Vengadores son también novedad en marzo de 2019.
+- Recrea las trepidantes escenas de la saga Marvel Vengadores con este emocionante set de construcción de juguetes para niños basado en el mundo de los superhéroes.
+- El todoterreno cuenta con cabina para una minifigura, torreta giratoria armada con un cañón doble y espacio para una minifigura de pie.
+- El complejo cuenta también con: un helipuerto con 2 cañones dobles y un puente hacia el edificio de oficinas; garaje para el todoterreno con rampa, barrera que se abre y antena de radar giratoria e inclinable; y portaherramientas con una palanca, una llave inglesa, un soldador y una sierra circular.
+- Este juguete de construcción representa el complejo de los Vengadores, equipado con un edificio de oficinas de 2 plantas, helipuerto y garaje, e incluye un helicóptero y un todoterreno para dar cabida al juego creativo.
+- Accesorios incluidos: 10 ráfagas de poder de la Capitana Marvel para jugar con imaginación.
+- El edificio de oficinas cuenta con: 2 elementos con el logotipo de los Vengadores en la pared exterior; un cañón automático giratorio que se puede inclinar en la azotea; planta inferior con entrada, ordenador giratorio para construir y caja fuerte con “rayo láser”; y planta superior con sala de reuniones, mesa con compartimento secreto, puerta giratoria que conduce al helipuerto y diferentes accesorios (entre ellos 3 sillas, 2 armas, 3 copas y una taza).
+- El helicóptero cuenta con cabina abatible para una minifigura, 2 rotores giratorios e inclinables, y un cañón rápido de 6 disparos.
+- Armas incluidas: espada de Nébula y hacha de combate de doble hoja para construir de Thanos.
+- Este set de superhéroes para construir incluye 4 minifiguras del universo Marvel: Iron Man, Capitana Marvel, Nébula y un Outrider de 4 brazos; incluye también grandes figuras articuladas de Hulk y Thanos, así como una microfigura de Ant-Man.
 
 [🛒 Buy it!!]({{< param buyurl >}})
