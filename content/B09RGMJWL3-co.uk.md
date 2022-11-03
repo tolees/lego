@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41954 DOTS Adhesive Patch  DIY Sticker Crafts Set  Toy Decoration for Notebooks  Phone Cases or Room Décor  Mosaic Creative Activity for Kids Aged 6 Plus'
-date: 2022-10-25 17:46:38
+date: 2022-11-03 19:20:59
 image: 'https://m.media-amazon.com/images/I/51DaCMjRmdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09RGMJWL3/?tag=tolees0a-21'
 descuento: '33.39'
-average: '4.13851851851853'
+average: '4.1332142857143'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kids can also use any of the Extra DOTS Bags or boxes (sold separately) to expand their designs
-- Features a toy crafts set for kids to decorate and design a personalised sticker patch, with coloured tiles and attach to any hard surface!
-- Kids can design their own DIY sticker patch, make it unique to match their style and then redesign it whenever and however they wish
-- Includes over 90 colourful tiles and an 8x8 adhesive patch to attach to a notebook, phone case, home décor items, or any other hard surface
 - LEGO DOTS toy arts and crafts sets make cool Christmas presents, birthday gifts or anytime treats for kids aged age 6+ years old
+- Features a toy crafts set for kids to decorate and design a personalised sticker patch, with coloured tiles and attach to any hard surface!
+- Includes over 90 colourful tiles and an 8x8 adhesive patch to attach to a notebook, phone case, home décor items, or any other hard surface
+- Kids can design their own DIY sticker patch, make it unique to match their style and then redesign it whenever and however they wish
 - This easy-to-follow crafts set for kids aged 6+ makes creating a snap, with lots of colourful tiles to express their personality in mosaic style
 
 [🛒 Check the deal!!]({{< param buyurl >}})
