@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'LEGO 11014 Classic Bricks and Wheels Starter Building Set with Toy Car  Train  Bus  Robot and More Construction Toys  Gifts for 4 Plus Year Old Boys & Girls'
+date: 2022-11-03 00:43:07
+image: 'https://m.media-amazon.com/images/I/51Qf8ha4tfL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08G477MDK-co.uk LEGO 11014 Classic Bricks and Wheels Starter Building...'
+sku: 'B08G477MDK-co.uk'
+tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys & Games','lego','🇬🇧', ]
+actualPrice: 29.99 GBP
+currency: GBP
+price: 29.99
+comparePrice: 44.99 GBP
+prodname: 'LEGO 11014 Classic Bricks and Wheels Starter Building Set with Toy Car  Train  Bus  Robot and More Construction Toys  Gifts for 4 Plus Year Old Boys & Girls'
+country: 'co.uk'
+flag: '🇬🇧'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.co.uk/dp/B08G477MDK/?tag=tolees0a-21'
+descuento: '33.34'
+average: '31.3917241379311'
+---
+
+There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Includes easy-to-follow building instructions for kids 4+ years old so even first-time builders can experience the fun and pride of creating
+- The LEGO Classic Bricks and Wheels sets stimulate unlimited open-ended play while developing kids creative thinking and fine-motor skills
+- This 653-piece set features 9 buildable construction toy ideas with a colourful selection of wheels, bricks and pieces for imaginative creations
+- This high-quality LEGO construction toys set is bursting with creative ideas for a rewarding build, including a monkey on a skateboard!
+- Includes all kids need to build 2 toy cars, a train, bus, robot, skateboarding zebra, bunny in a wheelchair, pull-along duck and a monkey
+
+[🛒 Buy it now!!]({{< param buyurl >}})
