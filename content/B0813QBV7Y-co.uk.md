@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This detailed Dursleys 2-storey toy house has many features inside and outside to bring the Harry Potter movie location and action to life
-- This LEGO Harry Potter buildable toy for kids is a perfect birthday present or Christmas gift idea for all fans of the young wizard adventures
-- The dolls houses secret mechanism allows Hogwarts acceptance letters to fly in through the fireplace, disturbing the familys afternoon tea
-- Includes 6 minifigures: Harry Potter, Ron Weasley, Dudley, Petunia and Vernon Dursley and Dobby, plus Hedwig figure and numerous accessories
+- Bring the magic to life with this LEGO Harry Potter buildable toy, featuring the Dursley family house, flying car toy and classic minifigures
 - Complete with Privet Drive sign, Harrys cupboard under the stairs, and Ron flying the Ford Anglia car toy with opening roof, doors and boot
 - A chain attaches from the car boot to the bedroom window to whisk it and Harry away from the Dursleys and onto further adventures
-- Bring the magic to life with this LEGO Harry Potter buildable toy, featuring the Dursley family house, flying car toy and classic minifigures
+- The dolls houses secret mechanism allows Hogwarts acceptance letters to fly in through the fireplace, disturbing the familys afternoon tea
+- Includes 6 minifigures: Harry Potter, Ron Weasley, Dudley, Petunia and Vernon Dursley and Dobby, plus Hedwig figure and numerous accessories
+- This LEGO Harry Potter buildable toy for kids is a perfect birthday present or Christmas gift idea for all fans of the young wizard adventures
+- This detailed Dursleys 2-storey toy house has many features inside and outside to bring the Harry Potter movie location and action to life
 
 [🛒 Buy it!!]({{< param buyurl >}})

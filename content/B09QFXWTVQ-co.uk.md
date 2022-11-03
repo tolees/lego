@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This Spider-Man buildable toy is a great birthday or Christmas gift for children aged 8+ who are fans of Super Heroes and the Marvel universe
 - Young fans of Marvel Super Heroes and the Spider-Man universe can get in on the action with this LEGO Marvel Miles Morales buildable toy figure
+- Check out other LEGO Marvel Super Hero Figures including LEGO Marvel Spider-Man Figure (76226) and LEGO Marvel Venom Figure (76230)
+- This Spider-Man buildable toy is a great birthday or Christmas gift for children aged 8+ who are fans of Super Heroes and the Marvel universe
 - The Miles Morales figure is fully jointed, with movable limbs and head and comes with web elements, so children can bring the figure to life
 - The model is easy to pose and looks awesome on display in childrens bedrooms in whichever super hero stance kids choose
 - The Spider-Man action figure moves just like the one in the movies, the toy is 23 cm tall and can be easily carried by kids anywhere
-- Check out other LEGO Marvel Super Hero Figures including LEGO Marvel Spider-Man Figure (76226) and LEGO Marvel Venom Figure (76230)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

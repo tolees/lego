@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO Friends advent calendar for kids is an awesome pre-Christmas toy gift for 6-year-old children who love the magic of the festive season
-- This LEGO Friends Advent Calendar 2022 features 24 different mini build Christmas toys behind its doors to open each day before Santas visit
 - This set includes LEGO Friends Olivia and her family mini-dolls, Santa Claus, a reindeer, a sleigh filled with Christmas presents and more
+- This LEGO Friends advent calendar for kids is an awesome pre-Christmas toy gift for 6-year-old children who love the magic of the festive season
+- Every day children discover a new Christmas toy that all combine to create an enchanting scene: Olivia and her family at a Christmas market
 - Kids can visit Santa Claus and take a photo with him, give the reindeer some hay, build a snowman, role-play ice skating, karaoke and much more
 - Kids can use the mini builds to add festive decoration to their bedroom or expand their own LEGO Friends Heartlake City collection
-- Every day children discover a new Christmas toy that all combine to create an enchanting scene: Olivia and her family at a Christmas market
+- This LEGO Friends Advent Calendar 2022 features 24 different mini build Christmas toys behind its doors to open each day before Santas visit
 
 [🛒 Buy it!!]({{< param buyurl >}})
