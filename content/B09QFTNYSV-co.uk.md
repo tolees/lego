@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO City Stuntz The Shark Attack Stunt Challenge toy for 5 year old boys and girls featuring a Flywheel-Powered Stunt Bike toy and 2 Minifigures
-- Features 2 LEGO minifigure: Chuck D. Goldberg from the LEGO City adventures series and a pirate plus a skeleton figure
-- Check out other sets from the LEGO City Stuntz range such as 60331 Touring Stunt Bike and 60340 The Blade Stunt Challenge for more stunt action
-- This fun LEGO Stuntz playset makes a great birthday gift idea for kids 5+ years old and fans of the LEGO City Adventures TV series
 - This LEGO City Stuntz playset with stunt bike comes with an easy-to-follow pictorial building guide so kids can build with confidence
 - Includes a flywheel toy motorbike and all kids need to build the course, including toy diamonds, a toolbox, map & treasure chest accessories
+- This fun LEGO Stuntz playset makes a great birthday gift idea for kids 5+ years old and fans of the LEGO City Adventures TV series
+- LEGO City Stuntz The Shark Attack Stunt Challenge toy for 5 year old boys and girls featuring a Flywheel-Powered Stunt Bike toy and 2 Minifigures
+- Features 2 LEGO minifigure: Chuck D. Goldberg from the LEGO City adventures series and a pirate plus a skeleton figure
 - Kids activate the toy motorbike and release it, avoiding the spinning shark wheel, to strike the barrels and reveal the pirate treasure chest
+- Check out other sets from the LEGO City Stuntz range such as 60331 Touring Stunt Bike and 60340 The Blade Stunt Challenge for more stunt action
 
 [🛒 Check the deal!!]({{< param buyurl >}})

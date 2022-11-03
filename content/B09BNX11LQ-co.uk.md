@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids use the chicken drumstick accessory as bait and activate the trap on the cage; capture Beta and transport him back to base in the toy truck
 - Check out other LEGO Jurassic World sets: 76945 Atrociraptor Dinosaur: Bike Chase and 76948 T. rex & Atrociraptor Dinosaur Breakout
-- Includes Maisie and Rainn Delacourt Jurassic World minifigures, 2 Velociraptor dinosaur figures - Blue and Beta, a red pickup truck toy & a bike
-- This LEGO Jurassic World set with 2 dinosaur toys and a truck will make a fab Christmas gift or birthday present for 6 plus year old boys and girls
 - Easy-to-follow instructions are included in the box, so even beginners can build their LEGO Jurassic World dinosaur toys with confidence
 - Features a posable Velociraptor Blue dinosaur toy with movable legs, arms and head for kids to play out action-packed dino adventures
+- Includes Maisie and Rainn Delacourt Jurassic World minifigures, 2 Velociraptor dinosaur figures - Blue and Beta, a red pickup truck toy & a bike
+- This LEGO Jurassic World set with 2 dinosaur toys and a truck will make a fab Christmas gift or birthday present for 6 plus year old boys and girls
 - This Blue & Beta Velociraptor Capture LEGO dinosaur toy set lets kids reenact Jurassic World: Dominion movie action or create their own stories
+- Kids use the chicken drumstick accessory as bait and activate the trap on the cage; capture Beta and transport him back to base in the toy truck
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A great addition to any Star Wars collectables, the set makes a great birthday or Christmas Baby Yoda gift for fans of all ages
-- The Baby Yoda figure (The Child) has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent elements
 - This Star Wars collectable set features LEGO BrickHeadz build-and-display models of The Mandalorian and the Child
+- The Baby Yoda figure (The Child) has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent elements
+- A great addition to any Star Wars collectables, the set makes a great birthday or Christmas Baby Yoda gift for fans of all ages
 - Both Mandalorian models have baseplates & don’t take up too much space but are sure to make a big impression wherever they are displayed
 - LEGO buildable Mandalorian figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand
 

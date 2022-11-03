@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kids twist the tower’s turret to make the clock’s hands spin and travel back in time with Time Turner for another magical adventure
 - Includes LEGO Harry Potter, Hermione Granger, Ron Weasley & Madam Pomfrey minifigures, and 2 random wizard card tiles to collect (16 in total)
 - Kids can recreate the iconic hospital-wing time-travelling scene and treat injuries in the infirmary to conjure up stories of their own
 - This detailed LEGO Hogwarts Castle recreation is a magical Harry Potter gift idea for kids who love Magical Wizarding World
 - Features a Harry Potter buildable toy Hospital Wing and Clock Tower with authentic accessories from Harry Potter and the Prisoner of Azkaban
-- Kids twist the tower’s turret to make the clock’s hands spin and travel back in time with Time Turner for another magical adventure
 - This Harry Potter buildable toy for boys and girls is one of a series of modular sets that combine to create a complete LEGO Hogwarts Castle toy
 
 [🛒 Buy it!!]({{< param buyurl >}})

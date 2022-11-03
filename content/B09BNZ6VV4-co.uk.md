@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- LEGO Technic 2 in 1 model is designed for toy vehicles fans who love to build models, and makes a great Christmas gift for boys and girls
 - Wide tyres help keep both the motorbike toy and custom bike ready for some fast-paced action when rebuilt, on track
+- This 2 in 1 motorbike toy for boys and girls aged 7+ features a realistic chopper-style Motorcycle model that rebuilds into an Adventure Bike
 - Cool black, grey and red colours plus realistic details make this motorcycle model building set great gifts for kids or teens
 - The LEGO Motorcycle model includes a 3-cylinder chain-driven engine, moving pistons, rotating chain, and steering
-- This 2 in 1 motorbike toy for boys and girls aged 7+ features a realistic chopper-style Motorcycle model that rebuilds into an Adventure Bike
-- LEGO Technic 2 in 1 model is designed for toy vehicles fans who love to build models, and makes a great Christmas gift for boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- So, it’s time for liftoff – kids can fly Bowser Jr.’s Clown Car in the sky to collect as many coins as they can to defeat the enemy Bob-omb
+- The LEGO Super Mario buildable game includes a LEGO toy figure of a Bob-omb to add to the brick-built levels that kids create
 - Kids can add an aerial, coin-collecting challenge to their LEGO Super Mario universe with this Bowser Jr.’s Clown Car Expansion Set
 - To play the game, LEGO Mario or LEGO Luigi figures (not included) need to be placed in the brick-built Junior Clown Car to fly it around
 - Collectible LEGO Super Mario toy building sets with enemy figures offer endless ways to expand, rebuild and create unique levels of the game
-- The LEGO Super Mario buildable game includes a LEGO toy figure of a Bob-omb to add to the brick-built levels that kids create
+- So, it’s time for liftoff – kids can fly Bowser Jr.’s Clown Car in the sky to collect as many coins as they can to defeat the enemy Bob-omb
 
 [🛒 Buy it now!!]({{< param buyurl >}})

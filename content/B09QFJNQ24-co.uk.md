@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO NINJAGO toys encourage kids to dive into a world of fantasy with a collection of playsets including mechs, cars, jets, dragons and temples
-- This set feautures 7 LEGO NINJAGO minifigures including Golden Kai, Golden Dragon Zane with horned wings and Skylor, plus a selection of swords
-- Also included are the villainous General Mister F, Vengestone Brute and 2 Vengestone Warrior NINJAGO minifigures with loads of cool weapons
-- Fold Raider’s back wheels and transform from road to golden dragon mode to move like a creature to recover Zanes elemental weapons
-- It features a unique buggy-style car toy with lots of features: a minifigure cockpit, 2 cannons with 4 shooters, and golden dragon blades
 - Kai’s Golden Dragon Raider can be proudly displayed in kids bedrooms and makes a great gift for little ninja kids aged 8 plus years old
+- This set feautures 7 LEGO NINJAGO minifigures including Golden Kai, Golden Dragon Zane with horned wings and Skylor, plus a selection of swords
+- It features a unique buggy-style car toy with lots of features: a minifigure cockpit, 2 cannons with 4 shooters, and golden dragon blades
+- Fold Raider’s back wheels and transform from road to golden dragon mode to move like a creature to recover Zanes elemental weapons
 - NINJAGO fans will love this all-action ninja multi-terrain car toy with 2 modes with 5 minifigures, 2 golden minifigures and lots of weapons
+- Also included are the villainous General Mister F, Vengestone Brute and 2 Vengestone Warrior NINJAGO minifigures with loads of cool weapons
 
 [🛒 Check the deal!!]({{< param buyurl >}})

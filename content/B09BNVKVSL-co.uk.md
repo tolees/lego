@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO Classic Bricks & Functions toy playset makes a great addition to any LEGO set and is a fab birthday gift for kids aged 5 plus years old
-- Features a moving LEGO Classic set with LEGO gears and bricks plus 7 mini builds with gear-driven functions to kick-start the fun
-- With 500 LEGO bricks and pieces, this LEGO Classic building toy allows future engineers to build fully functioning construction toys
 - All LEGO Classic components meet strict industry standards to ensure they’re consistent and compatible
+- Features a moving LEGO Classic set with LEGO gears and bricks plus 7 mini builds with gear-driven functions to kick-start the fun
 - Kids can build a pirouetting ballerina, a push-along LEGO helicopter toy with spinning rotors, an apple with a pop-up worm and more
+- With 500 LEGO bricks and pieces, this LEGO Classic building toy allows future engineers to build fully functioning construction toys
 - Every model comes with easy-to-follow building instructions, so even first-time builders can experience the fun of LEGO construction toys
 
 [🛒 Check the deal!!]({{< param buyurl >}})

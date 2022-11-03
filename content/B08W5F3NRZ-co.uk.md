@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kids can serve ice cream, paint faces or buy a ticket to the fair or take the trick element to wow friends with their ‘magical’ powers
-- The LEGO Friends fairground set features exciting fun fair stalls including an ice-cream stall, movable face-painting cart, ticket window and turnstiles
 - This set comprises 4 carnival stalls with a detachable &039;levitation&039; magic trick feature, which kids can use to entertain family and friends
 - The set comes with a micro-doll and 2 mini-doll toys dressed in magical outfits – 1 wearing face paint and 1 with a magician’s cape
+- Kids can serve ice cream, paint faces or buy a ticket to the fair or take the trick element to wow friends with their ‘magical’ powers
+- The LEGO Friends fairground set features exciting fun fair stalls including an ice-cream stall, movable face-painting cart, ticket window and turnstiles
 - To add to the mystical fun, special glow-in-the-dark bricks come to life when the lights are turned out
 
 [🛒 Buy it!!]({{< param buyurl >}})

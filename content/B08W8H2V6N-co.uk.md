@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes a printed guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices, to help kids building
+- This 73 piece toy for kids 5+ years old from the expandable LEGO City Stuntz stunt show universe makes a great birthday or Christmas LEGO gift
+- Kids can change the height of the ring to increase the difficulty and length that the friction motor-based self driving stunt bikes have to jump
 - 2 LEGO minifigures are included in the set, and one is none other than LEGO City Police’s & TV character Duke DeTain, now a LEGO stunt racer
 - The LEGO City Stunt Competition set features 2 toy motorbikes, a ramp, a ring of fire with buildable flames, and a height-adjustable tower
-- Kids can change the height of the ring to increase the difficulty and length that the friction motor-based self driving stunt bikes have to jump
-- This 73 piece toy for kids 5+ years old from the expandable LEGO City Stuntz stunt show universe makes a great birthday or Christmas LEGO gift
+- Includes a printed guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices, to help kids building
 
 [🛒 Check the deal!!]({{< param buyurl >}})

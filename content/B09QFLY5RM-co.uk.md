@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- With this LEGO City Mars Missions interactive adventure set, kids lead digital adventures using real LEGO bricks to complete on-screen missions
 - LEGO City missions playsets help kids develop creative skills and make great birthday or Christmas gifts for 6 plus year old boys and girls
-- Features a toy metal detector, pneumatic hammer, laser welder, spanner, fire extinguisher, net, cup, banana and turkey drumstick accessories
 - LEGO City Missions interactive sets require a smartphone or tablet with the free LEGO Building Instructions app (printed instructions not included)
+- With this LEGO City Mars Missions interactive adventure set, kids lead digital adventures using real LEGO bricks to complete on-screen missions
+- Kids meet a fun lineup of characters and learn as they play by using real LEGO bricks to customise a spacecraft and complete fun on-screen challenges
+- Features a toy metal detector, pneumatic hammer, laser welder, spanner, fire extinguisher, net, cup, banana and turkey drumstick accessories
 - Includes 3 LEGO City astronaut minifigures in spacesuits with helmets: Astronaut Lieutenant Jamie, robo-dog figure, 2 asteroids and Mars setting
 - Includes 3 LEGO City minifigures and all the LEGO pieces kids need to build a toy spaceship and solve paper-free, digital building challenges
-- Kids meet a fun lineup of characters and learn as they play by using real LEGO bricks to customise a spacecraft and complete fun on-screen challenges
 
 [🛒 Buy it now!!]({{< param buyurl >}})

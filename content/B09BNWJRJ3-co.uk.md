@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO NINJAGO EVO sets are ideal birthday presents or Christmas gifts for boys and girls 6 + years old who love ninja toys and exciting adventures
-- This LEGO NINJAGO dragon set features a highly posable dragon figure with movable legs, head, jaw, wings, and a tail to use as a weapon
-- The Thunder Dragon toy has a saddle for kids to place Jay when he fights the jetpack-equipped NINJAGO snake during their epic battles
-- When kids complete their missions and defeat the snake warrior, they are rewarded with a Speed banner to display on the dragon
-- Includes NINJAGO Jay with nunchucks, who can be upgraded with a hood and a sword, plus Viper Flyer, the snake armed with a sword and jetpack
 - Look out for banners in 7 other sets, including Zane’s Power Up Mech EVO 71761, Kai’s Fire Dragon EVO 71762 and Lloyd’s Race Car EVO 71763
+- This LEGO NINJAGO dragon set features a highly posable dragon figure with movable legs, head, jaw, wings, and a tail to use as a weapon
+- When kids complete their missions and defeat the snake warrior, they are rewarded with a Speed banner to display on the dragon
+- The Thunder Dragon toy has a saddle for kids to place Jay when he fights the jetpack-equipped NINJAGO snake during their epic battles
+- Includes NINJAGO Jay with nunchucks, who can be upgraded with a hood and a sword, plus Viper Flyer, the snake armed with a sword and jetpack
 - Upgrade Jay with a hood and sword and his fearsome Dragon with bigger wings so they can soar into the sky for a death-defying battle!
+- LEGO NINJAGO EVO sets are ideal birthday presents or Christmas gifts for boys and girls 6 + years old who love ninja toys and exciting adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})

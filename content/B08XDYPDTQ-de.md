@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält 2 LEGO Disney Mini-Puppen: Disneys Abuela und Mirabel sowie Antonio als Mikro-Puppe. Außerdem enthalten sind ein Capybara und ein Schmetterling als LEGO Figuren
-- Zum Zubehör gehören ein Akkordeon, ein Grammophon und ein Regenschirm sowie ein Stickerbogen zum individuellen Gestalten des Hauses
-- Dank der detailgetreuen LEGO Mini-Puppen, der süßen Tiere und der wiedererkennbaren Szenen regt dieses Bauspielzeug aus Disneys „Encanto“ zu offenem, kreativem Spiel an
-- Das Puppenhaus aus Disneys „Encanto“ sorgt für stundenlangen Spielspaß und sieht auch ausgestellt toll aus – die perfekte Disney-Geschenkidee zu Weihnachten
-- Disneys Haus der Madrigals enthält mehrere Räume, verfügt über verschiedene Funktionen aus dem Film und beinhaltet Zubehör, das zum Spielen anregt
 - Kinder können die Küche besuchen, etwas Leckeres naschen und danach nach draußen gehen, dem Haus zuwinken und schauen, ob es zurückwinkt!
+- Disneys Haus der Madrigals enthält mehrere Räume, verfügt über verschiedene Funktionen aus dem Film und beinhaltet Zubehör, das zum Spielen anregt
+- Zum Zubehör gehören ein Akkordeon, ein Grammophon und ein Regenschirm sowie ein Stickerbogen zum individuellen Gestalten des Hauses
 - Dieses LEGO Disney Spielzeug aus 587 Teilen enthält das 3-stöckige Haus von Mirabel mit einer sich drehenden Wetterfahne, einem Klappbett und winkenden Fensterläden
+- Das Puppenhaus aus Disneys „Encanto“ sorgt für stundenlangen Spielspaß und sieht auch ausgestellt toll aus – die perfekte Disney-Geschenkidee zu Weihnachten
+- Dank der detailgetreuen LEGO Mini-Puppen, der süßen Tiere und der wiedererkennbaren Szenen regt dieses Bauspielzeug aus Disneys „Encanto“ zu offenem, kreativem Spiel an
+- Enthält 2 LEGO Disney Mini-Puppen: Disneys Abuela und Mirabel sowie Antonio als Mikro-Puppe. Außerdem enthalten sind ein Capybara und ein Schmetterling als LEGO Figuren
 
 [🛒 Buy it now!!]({{< param buyurl >}})

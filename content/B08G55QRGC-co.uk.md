@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - This Disney Princess buildable toy with 2 LEGO horse toys makes a thrilling birthday present or Christmas gift for boys and girls aged 6 plus
-- Includes the Fairy Godmother & Cinderella mini doll figures, Gus Gus the mouse, and the gold & white Royal Carriage with 2 LEGO horse toys
 - It’s time for some magic! Cinderella is ready to head to the ball, only she needs to be home before midnight! Will Gus Gus remind her?
-- Printed and digital Instructions PLUS! in the LEGO Building Instructions app are available, to zoom/visualise models as they are built
+- Includes the Fairy Godmother & Cinderella mini doll figures, Gus Gus the mouse, and the gold & white Royal Carriage with 2 LEGO horse toys
 - Discover a carriage with room for 2 mini dolls, a pumpkin patch with a small table and a treasure chest that fits on the back of the carriage
 - The set is loaded with fun accessories, including a ball invitation, wand, crown & glass slippers to recreate favourite scenes from the movie
+- Printed and digital Instructions PLUS! in the LEGO Building Instructions app are available, to zoom/visualise models as they are built
 
 [🛒 Check the deal!!]({{< param buyurl >}})

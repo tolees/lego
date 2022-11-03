@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Features 2-floors dolls house full of authentic details where kids can meet Andrea’s family and play house role-swap, solo or with friends
-- Includes 4 LEGO Friends mini dolls: Andrea, her friend Stephanie, Mum and Dad, and 1 micro doll sister Liz from the LEGO Friends TV show
 - LEGO Friends dolls house with accessories makes a wonderful kids birthday present or a Christmas gift for girls and boys to role-play
 - In this dolls house with mini dolls & accessories, kids can put on a music show from the garage studio, take a dip in the pool or cook a meal
+- Includes 4 LEGO Friends mini dolls: Andrea, her friend Stephanie, Mum and Dad, and 1 micro doll sister Liz from the LEGO Friends TV show
 - Cleverly designed to make play easier, the playset’s top floor is removable so the downstairs level is accessible, and the garage door lifts
-- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
 - In the kitchen, the workbench swings out to let little fingers in. Andrea’s Dad takes some cupcakes out of the oven. Mmmm, they’re delicious!
+- Features 2-floors dolls house full of authentic details where kids can meet Andrea’s family and play house role-swap, solo or with friends
+- Delivered in Frustration-Free box that perfectly protects the original LEGO packaging, it’s easy to open and made of 100% recyclable materials!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

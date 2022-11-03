@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO NINJAGO toys encourage kids to put down their screens and escape into a mystical world, plus they look great in kids’ bedrooms
-- This LEGO NINJAGO vehicle playset is a great birthday or Christmas gift idea for kids aged 7 who love ninja action and fun building tasks
 - Features a toy jet with a cockpit for minifigures, plus extendable golden wings look like a flying ninja star when put into golden dragon mode
+- LEGO NINJAGO toys encourage kids to put down their screens and escape into a mystical world, plus they look great in kids’ bedrooms
 - Includes NINJAGO Golden Dragon Cole with a pair of golden dragon wings adorned with spikes and Golden Zane LEGO NINJAGO minifugures
+- This LEGO NINJAGO vehicle playset is a great birthday or Christmas gift idea for kids aged 7 who love ninja action and fun building tasks
+- Also included is General Vangelis and golden weapons: 2 swords, ninja stars, 2 scythes and more to play out the gripping role-play action
 - Look out for 7 other sets in the NINJAGO: Crystallized TV series collection including (71771) The Crystal King Temple
 - Kids can soar into the sky for thrilling aerial adventures with LEGO NINJAGO Zanes Golden Dragon toy plane to play out good vs. evil battles
-- Also included is General Vangelis and golden weapons: 2 swords, ninja stars, 2 scythes and more to play out the gripping role-play action
 
 [🛒 Buy it!!]({{< param buyurl >}})

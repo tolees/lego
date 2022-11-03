@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The included curved 2x2 elements help kids make different font sizes to say whatever they want
-- Kids can use the Lots of DOTS – Lettering tiles (41950) to personalise their message boards or any other LEGO sets (sold separately)
-- Features LEGO DOTS Message Board kids craft kit with 2 16x16 plates, frame and hanger elements and 500 plus tiles in a range of colours and shapes
-- To help boost kids inventiveness, the craft kit includes a leaflet with lots of inspiration for designs in colourful tiles
-- DIY toy LEGO arts and crafts sets for kids make a great birthday or any time gift for kids to express themselves in creative activities
 - This DIY arts and crafts kit for kids set lets them personalise a bedroom door sign, notice board, or decorate any DOTS room décor piece & accessories
+- Features LEGO DOTS Message Board kids craft kit with 2 16x16 plates, frame and hanger elements and 500 plus tiles in a range of colours and shapes
+- Kids can use the Lots of DOTS – Lettering tiles (41950) to personalise their message boards or any other LEGO sets (sold separately)
+- DIY toy LEGO arts and crafts sets for kids make a great birthday or any time gift for kids to express themselves in creative activities
+- The included curved 2x2 elements help kids make different font sizes to say whatever they want
+- To help boost kids inventiveness, the craft kit includes a leaflet with lots of inspiration for designs in colourful tiles
 
 [🛒 Check the deal!!]({{< param buyurl >}})

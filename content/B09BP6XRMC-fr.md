@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Chacune des 15 mini-constructions est accompagnée dun guide de construction étape par étape, afin que même les constructeurs débutants puissent profiter de leur expérience de construction avec leur boîte LEGO Classic
 - Le jeu de construction contient également de nombreuses briques LEGO supplémentaires pour construire des créations uniques, ce qui permet aux enfants de développer leur imaginaire et leur capacité à résoudre des problèmes pendant quils construisent
 - Cette boîte de 1 100 pièces LEGO Classic contient toutes les pièces nécessaires pour construire le jouet château fort, lemblématique jouet de train, léléphant et plus encore !
+- Chacune des 15 mini-constructions est accompagnée dun guide de construction étape par étape, afin que même les constructeurs débutants puissent profiter de leur expérience de construction avec leur boîte LEGO Classic
 - Recréez les jouets LEGO Classic emblématiques de toutes les années, notamment le canard de 1932, le secret du sphinx de 1998, le LEGO BIONICLE Tahu de 2001 et le LEGO NINJAGO Golden Dragon de 2013
 - Cet ensemble de briques LEGO Classic célèbre 90 ans de plaisir de construction LEGO et comprend un arc-en-ciel de briques pour construire 15 mini-constructions des ensembles LEGO les plus populaires au fil des années
 

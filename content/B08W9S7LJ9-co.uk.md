@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids place the Tony Stark minifigure into the Iron Man mech, and when there’s a need for speed, rebuild it into a Tony Stark-style race car
 - There are more LEGO Marvel mechs for kids to collect and combine to bring super-hero movie action to life
 - Includes Tony Stark, Valkyrie and The Watcher minifigures to bring Marvel Studios’ What If... TV series to life
-- This mechanical toy for kids aged 8 is highly posable, allowing kids to twist and turn the mech as it advances into super-hero action
+- Kids place the Tony Stark minifigure into the Iron Man mech, and when there’s a need for speed, rebuild it into a Tony Stark-style race car
 - Features Tony Stark’s Sakaarian Iron Man action figure that rebuilds into a powerful-looking toy race car for imaginative adventures
+- This mechanical toy for kids aged 8 is highly posable, allowing kids to twist and turn the mech as it advances into super-hero action
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Accessories include toy megaphone, guitar, speakers and helmet accessories to role-play awesome stunt show scenarios and competitions
-- Kids can set the scene for fun stunt displays with this LEGO City The Blade Stunt Challenge set, featuring a flywheel-powered toy motorbike
-- Toy for 5 plus year old boys and girls features 2 minifigures: LEGO City Adventures TV series character Shirley Keeper and the awesome Stuntz rider
-- Kids activate the flywheel-powered LEGO stunt racer bike to crash through the barriers and activate the dropping blades function for fun shows
 - LEGO City Stuntz The Blade Stunt Challenge Motorbike Toy is an ideal birthday, Christmas or any-time gift for 5 plus year old boys and girls
+- Toy for 5 plus year old boys and girls features 2 minifigures: LEGO City Adventures TV series character Shirley Keeper and the awesome Stuntz rider
 - This LEGO City Stuntz playset with stunt bike comes with an easy-to-follow pictorial building guide so kids can build with confidence
+- Accessories include toy megaphone, guitar, speakers and helmet accessories to role-play awesome stunt show scenarios and competitions
 - This set can easily be combined with other LEGO city stuntz toys like 60341 The Shark Attack Stunt Challenge for even more stunt action fun
+- Kids can set the scene for fun stunt displays with this LEGO City The Blade Stunt Challenge set, featuring a flywheel-powered toy motorbike
+- Kids activate the flywheel-powered LEGO stunt racer bike to crash through the barriers and activate the dropping blades function for fun shows
 
 [🛒 Buy it now!!]({{< param buyurl >}})

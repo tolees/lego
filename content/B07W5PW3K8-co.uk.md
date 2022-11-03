@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Each model has its own significant features: the windmill has sails that turn, the igloo is icy-white, and the toy lighthouse brightly coloured
-- Boys and girls aged 4 years old will love this preschool toy building set; for even more possibilities, combine with other LEGO Classic sets like: 10713 Creative suitcase
-- LEGO Classic Bricks and Houses is a great building toy set to introduce preschool kids aged 4 to creative construction when they build their own dream home
 - LEGO Classics Bricks and Houses easy to build set makes an ideal birthday gift or any time treat for kids age 4 plus
+- Each model has its own significant features: the windmill has sails that turn, the igloo is icy-white, and the toy lighthouse brightly coloured
+- LEGO Classic Bricks and Houses is a great building toy set to introduce preschool kids aged 4 to creative construction when they build their own dream home
 - The building toy set for kids builds simultaneously into 6 places to live: a family home, lighthouse, igloo, castle, a small toy house and a windmill
+- Boys and girls aged 4 years old will love this preschool toy building set; for even more possibilities, combine with other LEGO Classic sets like: 10713 Creative suitcase
 
 [🛒 Buy it now!!]({{< param buyurl >}})

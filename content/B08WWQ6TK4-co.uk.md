@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This toy for kids 4 years old comes with a simple building guide and a Starter Brick element to help youngsters to start building confidently
 - This LEGO City Wildlife Rescue off-roader toy car set for animal rescue fans features a toy 4x4, water scooter and a realistic savanna setting
-- Includes the LEGO City Adventures TV character Jessica Sharpe, a ranger and explorer minifigures, plus lion, a lion cub and snake figures
 - LEGO accessories include a toy snake egg, snake grabber, 2 crates, binoculars, walkie-talkie, camera, bones, bottle, sausage and a hairbrush
+- Includes the LEGO City Adventures TV character Jessica Sharpe, a ranger and explorer minifigures, plus lion, a lion cub and snake figures
 - Kids can activate the collapsing bridge function, work the off-roader’s winch or enjoy leisure time at the camp site
+- This toy for kids 4 years old comes with a simple building guide and a Starter Brick element to help youngsters to start building confidently
 
 [🛒 Check the deal!!]({{< param buyurl >}})

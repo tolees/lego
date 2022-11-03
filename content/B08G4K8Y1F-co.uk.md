@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- With vehicles that look and function like real ones, the LEGO Technic universe offers a great introduction to engineering for young LEGO fans
 - LEGO Technic Monster Jam Grave Digger Truck will thrill young builders and makes a great birthday or Christmas gift for boys and girls 7+ years old
-- Authentic touches to the Monster Truck toy include stickers with ghost and fire graphics, huge tyres, red headlights and a bendable flag
-- Features 2 in 1 monster truck toy set with a pull-back motor and authentic treats: a monster jam digger toy truck that rebuilds into an off-road buggy
-- The exciting world of Monster Jam comes to life, as kids recreate the epic stunts of one of the most famous and iconic monster trucks of all time
 - Check out the free LEGO Building Instructions app for Instructions PLUS, with zoom and rotate tools to help kids get building
+- Authentic touches to the Monster Truck toy include stickers with ghost and fire graphics, huge tyres, red headlights and a bendable flag
+- The exciting world of Monster Jam comes to life, as kids recreate the epic stunts of one of the most famous and iconic monster trucks of all time
+- With vehicles that look and function like real ones, the LEGO Technic universe offers a great introduction to engineering for young LEGO fans
+- Features 2 in 1 monster truck toy set with a pull-back motor and authentic treats: a monster jam digger toy truck that rebuilds into an off-road buggy
 
 [🛒 Check the deal!!]({{< param buyurl >}})

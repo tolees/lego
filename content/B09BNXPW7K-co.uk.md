@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Enjoy exploring all the functions packed into this hot Batman car toy, then place it on display to admire its authentic looks
-- Features a true-to-life model car - a LEGO Technic replica version of the BATMOBILE, the iconic super-hero car, as seen in the 2022 movie
-- Other features of this LEGO BATMOBILE model car include front steering, differential on rear wheels, plus opening doors and hood
 - LEGO Technic sets provide a great introduction to engineering and make great birthday presents or Christmas gifts for kids and teens
-- Boys and girls can recreate epic movie icon as they play with this LEGO Technic THE BATMAN – BATMOBILE buildable car toy for kids
-- 2 light bricks bring the model to life: the red light adds glow to the transparent engine while the yellow brick lights up the front grille
 - Theres lots to explore in this epic car model, with 2 light bricks included, plus an 8-cylinder engine with moving pistons and a spinning flame
+- Features a true-to-life model car - a LEGO Technic replica version of the BATMOBILE, the iconic super-hero car, as seen in the 2022 movie
+- Enjoy exploring all the functions packed into this hot Batman car toy, then place it on display to admire its authentic looks
+- 2 light bricks bring the model to life: the red light adds glow to the transparent engine while the yellow brick lights up the front grille
+- Other features of this LEGO BATMOBILE model car include front steering, differential on rear wheels, plus opening doors and hood
+- Boys and girls can recreate epic movie icon as they play with this LEGO Technic THE BATMAN – BATMOBILE buildable car toy for kids
 
 [🛒 Buy it!!]({{< param buyurl >}})

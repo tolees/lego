@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The LEGO Marvel Eternals’ Aerial Assault building toy features superhero figures, 2 sai swords, 1 Ninja sword and 2 power blasters
-- This LEGO Marvel The Eternals set, with its cool winged Deviant action figure and superhero action, makes a great Marvel Christmas gift for kids
-- This superheroes vs Deviant toy for kids 7+ years old gives kids superhero action that also looks great displayed in kids’ rooms
-- The awesome LEGO Marvel Studios’ The Eternals playset is the only one to feature the Sprite minifigure to recreate scenes from the movie!
 - With 2 LEGO Marvel The Eternals minifigures – Ikaris and Sprite & an evil Deviant figure with movable wings, the scene is set for fast action
+- The awesome LEGO Marvel Studios’ The Eternals playset is the only one to feature the Sprite minifigure to recreate scenes from the movie!
+- The LEGO Marvel Eternals’ Aerial Assault building toy features superhero figures, 2 sai swords, 1 Ninja sword and 2 power blasters
+- This superheroes vs Deviant toy for kids 7+ years old gives kids superhero action that also looks great displayed in kids’ rooms
+- This LEGO Marvel The Eternals set, with its cool winged Deviant action figure and superhero action, makes a great Marvel Christmas gift for kids
 
 [🛒 Buy it!!]({{< param buyurl >}})

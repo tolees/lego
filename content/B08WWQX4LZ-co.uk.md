@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The caravan’s roof hinges open to allow easy access for little fingers to play with the stove or twist the tap to fill a bucket for the horse
-- Connects to other LEGO Friends Magical Funfair sets: Roller Coaster 41685, Magical Acrobatics 41686, or Magical Funfair Stalls 41687
 - The LEGO Friends fairground set features a kids’ vintage caravan toy vehicle pulled by a horse toy figure and a fortune-teller’s tent
+- The caravan’s roof hinges open to allow easy access for little fingers to play with the stove or twist the tap to fill a bucket for the horse
 - This LEGO Friends set includes 2 LEGO Friends mini-doll figures, plus owl and horse toys, encouraging lots of ways to enjoy creative roleplay
-- Kids can amuse their family by predicting their futures in the separate fortune-teller’s tent with a crystal ball or cards
+- Connects to other LEGO Friends Magical Funfair sets: Roller Coaster 41685, Magical Acrobatics 41686, or Magical Funfair Stalls 41687
 - Kids can explore the toy caravan with its stove, table and hidden toilet, play out stories inside and care for the horse toy
+- Kids can amuse their family by predicting their futures in the separate fortune-teller’s tent with a crystal ball or cards
 
 [🛒 Check the deal!!]({{< param buyurl >}})

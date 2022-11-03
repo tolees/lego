@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The LEGO Minecraft houses open back and lift-off roof make it easy for players to arrange the furniture and enjoy imaginative roleplay inside
 - This versatile set also features a nearby cave providing a hiding place for the sworn enemy – a zombie
-- Includes popular Minecraft figures: the tamer, a rabbit, baby rabbit and a zombie, plus a host of fun features and amazing accessories
-- LEGO Minecraft sets and building toys for boys and girls aged 8 plus make great gifts for any occasion or birthday presents for game fans!
 - Outside there are 2 rabbits to feed with carrots grown in the next-door farm, with a lever at the back to make them hop!
+- LEGO Minecraft sets and building toys for boys and girls aged 8 plus make great gifts for any occasion or birthday presents for game fans!
 - Features a giant rabbit-shaped Minecraft house to build the ultimate home for kids animals, surrounded by a ranch with carrots and flowers
+- Includes popular Minecraft figures: the tamer, a rabbit, baby rabbit and a zombie, plus a host of fun features and amazing accessories
+- The LEGO Minecraft houses open back and lift-off roof make it easy for players to arrange the furniture and enjoy imaginative roleplay inside
 
 [🛒 Buy it!!]({{< param buyurl >}})

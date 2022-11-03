@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Accessories include a toy suitcase, banana, hotdog, peanut bag and, of course, the famous Minion fart blaster
 - Minions are on a mission to save Gru and are trying a daring rescue, but watch out – the accident-prone Minion might fall into the toilet
-- Includes Bob and Stuart (in pilot outfit) figures; kids can put Stuart in the cockpit, and Bob is a flight attendant in the passenger cabin
 - Features a buildable plane, with removable passengers and cockpit roofs & detailed interior, inspired by the Minions: The Rise of Gru movie
+- Accessories include a toy suitcase, banana, hotdog, peanut bag and, of course, the famous Minion fart blaster
 - This set is a great gift idea for kids aged 4, with its Starter Brick and Instructions PLUS in LEGO Life app to assist learning
+- Includes Bob and Stuart (in pilot outfit) figures; kids can put Stuart in the cockpit, and Bob is a flight attendant in the passenger cabin
 
 [🛒 Check the deal!!]({{< param buyurl >}})

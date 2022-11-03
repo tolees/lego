@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kids use the doctor’s flexible stethoscope (permanently attached) to check the child’s heartbeat and play out endless caring stories
-- This educational early learning toy for 2+ year olds includes 3 LEGO DUPLO figures, a doctor, father and a child for imaginative role-play
-- A fun picture story based on the playset provides a great way to introduce children to creative construction and imaginative play
-- The LEGO DUPLO large building brick set also includes the child’s teddy bear, a giraffe height chart, sink, sofa, opening suitcase and 2 chairs
 - This hands-on toy is an ideal gift idea for kids aged 2+ & for parents who wish to share their little ones’ precious developmental milestones
+- This educational early learning toy for 2+ year olds includes 3 LEGO DUPLO figures, a doctor, father and a child for imaginative role-play
 - LEGO DUPLO Doctor visit set, a toy for toddlers introduces kids to a health clinic and is also an excellent way to prepare for a doctor’s visit
+- Kids use the doctor’s flexible stethoscope (permanently attached) to check the child’s heartbeat and play out endless caring stories
+- The LEGO DUPLO large building brick set also includes the child’s teddy bear, a giraffe height chart, sink, sofa, opening suitcase and 2 chairs
+- A fun picture story based on the playset provides a great way to introduce children to creative construction and imaginative play
 
 [🛒 Buy it!!]({{< param buyurl >}})
