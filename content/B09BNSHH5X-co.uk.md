@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60325 City Great Vehicles Cement Mixer Truck Toy  Construction Vehicle Starter Building Set  Toys for Preschool Boys & Girls age 4 Plus Years Old'
-date: 2022-11-03 00:43:48
+date: 2022-11-04 01:59:23
 image: 'https://m.media-amazon.com/images/I/51i0QcAFJ6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNSHH5X/?tag=tolees0a-21'
 descuento: '33.35'
-average: '11.8819999999999'
+average: '11.8833333333332'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- This LEGO City toy construction vehicle features an opening driver’s cab, spinnable mixing drum, plus 2 worker minifigures for lots of role play
+- Kids can drive to the construction site, put out the road sign and use the jackhammer and wheelbarrow toys to clear the old foundation
+- This preschool learning toy for kids 4+ includes a LEGO Starter Brick element to give young builders a head start with their construction toys
+- LEGO City Cement Mixer Truck toy makes a great birthday gift for kids aged 4 plus who love building sites and construction vehicle toys
 - The cement mixer truck toys spinnable mixing drum delivers concrete elements from the fold-out chute at the rear of the vehicle
 - Kids can zoom, rotate and view the model from all angles as they build with the free LEGO Building Instructions app for smartphones & tablets
-- LEGO City Cement Mixer Truck toy makes a great birthday gift for kids aged 4 plus who love building sites and construction vehicle toys
-- This LEGO City toy construction vehicle features an opening driver’s cab, spinnable mixing drum, plus 2 worker minifigures for lots of role play
-- This preschool learning toy for kids 4+ includes a LEGO Starter Brick element to give young builders a head start with their construction toys
-- Kids can drive to the construction site, put out the road sign and use the jackhammer and wheelbarrow toys to clear the old foundation
 
 [🛒 Buy it now!!]({{< param buyurl >}})
