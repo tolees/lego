@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75322 Star Wars at-ST auf Hoth mit Figuren von Chewbacca und Droide  Sammelspielzeug aus Das Imperium schlägt zurück'
-date: 2022-11-02 12:50:19
+date: 2022-11-04 16:47:42
 image: 'https://m.media-amazon.com/images/I/51TlprYb0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNTTSWC/?tag=tolees0ca-21'
 descuento: '36.81'
-average: '34.881'
+average: '34.8270491803279'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inklusive Anleitung; mit der „LEGO Bauanleitungen App“ können LEGO Bauer eine digitale Version des Modells betrachten und dabei vergrößern und rotieren
-- Beinhaltet das erste aus LEGO gebauten AT-ST-Modell (75322) aus der Schlacht von Hoth, mit dem sich die Szenen des Films „Star Wars: Das Imperium schlägt zurück“ nachstellen lassen
-- Enthält außerdem einen imperialen Sondendroiden, mit dem epische Szenen aus „Star Wars: Das Imperium schlägt zurück“ nachgestellt werden können
 - Inklusive 3 LEGO Star Wars Figuren: Chewbacca mit Schneedekoration, ein AT-ST Hoth-Pilot und ein Hoth-Rebellensoldat, jeweils mit Waffen
+- Enthält außerdem einen imperialen Sondendroiden, mit dem epische Szenen aus „Star Wars: Das Imperium schlägt zurück“ nachgestellt werden können
+- Beinhaltet das erste aus LEGO gebauten AT-ST-Modell (75322) aus der Schlacht von Hoth, mit dem sich die Szenen des Films „Star Wars: Das Imperium schlägt zurück“ nachstellen lassen
+- Inklusive Anleitung; mit der „LEGO Bauanleitungen App“ können LEGO Bauer eine digitale Version des Modells betrachten und dabei vergrößern und rotieren
 - Der AT-ST verfügt über eine Luke zum Cockpit, ein Dach zum Öffnen, einen drehbaren Kopf mit Rädern, 2 Geschütze mit Federmechanismus und bewegliche Beine
 
 [🛒 Check the deal!!]({{< param buyurl >}})
