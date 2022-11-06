@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO DUPLO Animal Train set with cute animal toys makes a fab birthday present or Christmas gift for toddlers and kids age 1.5 years old
-- The animal toys have different levels of building complexity to help toddlers and kids aged 1.5 plus years old develop fine motor skills
 - This train toy playset for young children aged 18 months and up has it all: hands-on creativity, imaginative play, and developmental benefits
-- The LEGO DUPLO train toy for toddlers includes a buildable elephant (4 pcs), tiger (2 pcs), giraffe (3 pcs) and panda (2 pcs) animal toys
-- The LEGO DUPLO animal train toy for toddlers and kids 1 .5 + years old features 4 buildable animal toys and 4 push-along carriages with wheels
+- LEGO DUPLO Animal Train set with cute animal toys makes a fab birthday present or Christmas gift for toddlers and kids age 1.5 years old
 - With this educational learning toy, kids can line up the carriages, place animals on and off the train and stack them on top of each other
+- The LEGO DUPLO animal train toy for toddlers and kids 1 .5 + years old features 4 buildable animal toys and 4 push-along carriages with wheels
+- The animal toys have different levels of building complexity to help toddlers and kids aged 1.5 plus years old develop fine motor skills
+- The LEGO DUPLO train toy for toddlers includes a buildable elephant (4 pcs), tiger (2 pcs), giraffe (3 pcs) and panda (2 pcs) animal toys
 
 [🛒 Check the deal!!]({{< param buyurl >}})

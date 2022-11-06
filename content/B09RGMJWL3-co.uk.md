@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO DOTS toy arts and crafts sets make cool Christmas presents, birthday gifts or anytime treats for kids aged age 6+ years old
 - Kids can design their own DIY sticker patch, make it unique to match their style and then redesign it whenever and however they wish
 - This easy-to-follow crafts set for kids aged 6+ makes creating a snap, with lots of colourful tiles to express their personality in mosaic style
-- Includes over 90 colourful tiles and an 8x8 adhesive patch to attach to a notebook, phone case, home décor items, or any other hard surface
 - Kids can also use any of the Extra DOTS Bags or boxes (sold separately) to expand their designs
 - Features a toy crafts set for kids to decorate and design a personalised sticker patch, with coloured tiles and attach to any hard surface!
+- Includes over 90 colourful tiles and an 8x8 adhesive patch to attach to a notebook, phone case, home décor items, or any other hard surface
+- LEGO DOTS toy arts and crafts sets make cool Christmas presents, birthday gifts or anytime treats for kids aged age 6+ years old
 
 [🛒 Check the deal!!]({{< param buyurl >}})

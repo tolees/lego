@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- This LEGO DUPLO animal bath toy includes 4 DUPLO animal figures: a fish, octopus, lion and a flamingo
 - A rounded hook on the floating ring lets kids connect with rings from other Bath Time Fun sets from the LEGO DUPLO bath toy series
 - Toddlers put together the easy-build animals then have developmental fun on and around the floating island paradise
-- This LEGO DUPLO animal bath toy includes 4 DUPLO animal figures: a fish, octopus, lion and a flamingo
-- This easy-to-clean floating bath toy for babies and toddlers 1 .5+ years old features an island that doubles as a storage container
 - The floating island splits into 2 separate floating sections, with the bottom half also allowing play outside the bath
+- This easy-to-clean floating bath toy for babies and toddlers 1 .5+ years old features an island that doubles as a storage container
 
 [🛒 Buy it now!!]({{< param buyurl >}})

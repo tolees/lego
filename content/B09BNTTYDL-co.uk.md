@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This race sports car toy for kids aged 8 comes with a 2-seat open cockpit and lots of authentic detailing
-- The legendary, iconic 1970’s supercar is revered by fans from around the world for its stunning design and top-notch performance
-- This iconic race car toy for kids aged 8 is a perfect birthday or any occasion gift for boys and girls who love toy sports cars
-- The LEGO Building Instructions app for smartphones and tablets lets you zoom, rotate and view models from all angles as you build
-- LEGO Speed Champions race car toy models give kids the chance to build, play with & display some of the world’s most iconic vehicle replicas
-- Features a white Lamborghini Countach replica car model with a branded racing driver minifigure with a crash helmet, wig & wrench
 - Build your very own Lamborghini Countach, show it off to friends and enjoy race action against other vehicles from the Speed Champions range
+- This iconic race car toy for kids aged 8 is a perfect birthday or any occasion gift for boys and girls who love toy sports cars
+- LEGO Speed Champions race car toy models give kids the chance to build, play with & display some of the world’s most iconic vehicle replicas
+- The LEGO Building Instructions app for smartphones and tablets lets you zoom, rotate and view models from all angles as you build
+- The legendary, iconic 1970’s supercar is revered by fans from around the world for its stunning design and top-notch performance
+- Features a white Lamborghini Countach replica car model with a branded racing driver minifigure with a crash helmet, wig & wrench
+- This race sports car toy for kids aged 8 comes with a 2-seat open cockpit and lots of authentic detailing
 
 [🛒 Check the deal!!]({{< param buyurl >}})

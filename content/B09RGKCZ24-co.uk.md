@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Features 10 surprise decorated toy tiles out of a possible 16, with designs focussed on sports accessories like shoes and empowering phrases
-- Kids can show off their creativity and use extra LEGO DOTS to customise bracelets, bag tags, room décor and other DOTS sets (sold separately)
-- LEGO DOTS extra DOTS set contains 115 tiles including boldly coloured pieces, translucent blue and 10 random graphics tiles (out of 16 total)
-- The joy of this little pack of DOTS crafts is the chance for kids to match their moods, mix and match DOTS with friends to express themselves
 - This cute DIY creative bag is perfect for young designers to add to their creations and then proudly display and admire their new designs
+- Kids can show off their creativity and use extra LEGO DOTS to customise bracelets, bag tags, room décor and other DOTS sets (sold separately)
+- The joy of this little pack of DOTS crafts is the chance for kids to match their moods, mix and match DOTS with friends to express themselves
+- LEGO DOTS extra DOTS set contains 115 tiles including boldly coloured pieces, translucent blue and 10 random graphics tiles (out of 16 total)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

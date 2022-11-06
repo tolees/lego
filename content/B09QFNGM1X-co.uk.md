@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - This buildable toy is a great birthday, Christmas or any time gift for fans of Disney Princesses and looks great on display in kids rooms
+- Features Cinderella mini-doll figure with extra ball gown outfit, Prince Charming and Lady Tremaine, plus Gus Gus and Lucifer LEGO animal figures
 - Young kids aged 5+ years old will love this feature-packed castle where they can play out scenes from the movies or create their own stories
 - LEGO ǀ Disney Princess Castle buildable toy set includes a 3-level castle dollhouse with ballroom and dress studio, plus 3 mini-doll figures
-- Features Cinderella mini-doll figure with extra ball gown outfit, Prince Charming and Lady Tremaine, plus Gus Gus and Lucifer LEGO animal figures
 - Theres a ballroom with spinning floor so Cinderella and the Prince can dance, dress studio, closet with a cat door, bedroom, kitchen and more!
 
 [🛒 Buy it!!]({{< param buyurl >}})

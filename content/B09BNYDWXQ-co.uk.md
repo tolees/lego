@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Jurassic World 4 sets are designed to help young kids learn through play - great for building emotional inteligence through storytelling
-- Step-by-step instructions are included plus access to digital instructions and interactive viewing tools in the LEGO Building instructions app
-- This easily portable starter set is a great gift for children that love Jurassic World dinosaur toys - kids can take it with them on playdates
-- This dinosaur toy for kids 4 includes a quick-build Pteranodon figure - a flying dinosaur with a huge wingspan, dock model and a buggy toy car
-- Maisie is fishing at the dock, but the Pteranodon is trying to steal the fish Owen needs to chase the dinosaur in the buggy and capture it
-- This LEGO Jurassic World set includes a dinosaur figure and Maisie and Owen Grady minifigures with accessories - a fishing rod and lasso
 - The toy buggy has a Starter Brick chassis to make building easier and a seat for Owen Grady; the dock features a stall with fish and crab elements
+- Step-by-step instructions are included plus access to digital instructions and interactive viewing tools in the LEGO Building instructions app
+- LEGO Jurassic World 4 sets are designed to help young kids learn through play - great for building emotional inteligence through storytelling
+- This dinosaur toy for kids 4 includes a quick-build Pteranodon figure - a flying dinosaur with a huge wingspan, dock model and a buggy toy car
+- This LEGO Jurassic World set includes a dinosaur figure and Maisie and Owen Grady minifigures with accessories - a fishing rod and lasso
+- This easily portable starter set is a great gift for children that love Jurassic World dinosaur toys - kids can take it with them on playdates
+- Maisie is fishing at the dock, but the Pteranodon is trying to steal the fish Owen needs to chase the dinosaur in the buggy and capture it
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Share snowy adventures with your preschooler with this playset - a great Christmas stocking filler or surprise gift for toddlers age 2 plus
 - This festively decorated LEGO DUPLO Gingerbread Christmas House toy for toddlers comes with Santa Claus, teddy bear, boy and girl figures
+- Share snowy adventures with your preschooler with this playset - a great Christmas stocking filler or surprise gift for toddlers age 2 plus
 - Toddlers can build the Christmas tree, put the presents underneath and then serve treats using the teapot, plate of cakes and chair elements
 - With the picture-story building instructions included in the set, toddlers can start building the Christmas house and toy elements with ease
 - This versatile, hands-on Christmas house toy offers a great way for preschoolers and toddlers aged 2+ to develop their communication skills

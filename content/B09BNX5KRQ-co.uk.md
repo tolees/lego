@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - LEGO Friends camping outdoor adventure playset lets kids spend the perfect day and night on the beach hanging out with friends
-- Accessories include soap for the shower, a shell-tiled toilet, life vests, a stereo, marshmallows on a stick and bedside lamps
-- Features a beach scene with separate play areas: toy tent with fabric cover, jetty for fishing, shower, campfire and paddleboards storage
+- This toy for girls and boys 6+ years old comes with the free Building Instruction app & digital guide with zoom, rotate and visualise tools
 - The toy tent comes with bunk beds and a stove, the pier with a spinning wind turbine to power lights, the beach with sandcastles and shells
 - Includes 3 LEGO Friends mini dolls: Andrea, Stephanie and Daniel, and Pebble the puppy figure, plus 2 paddleboards
-- This toy for girls and boys 6+ years old comes with the free Building Instruction app & digital guide with zoom, rotate and visualise tools
+- Features a beach scene with separate play areas: toy tent with fabric cover, jetty for fishing, shower, campfire and paddleboards storage
+- Accessories include soap for the shower, a shell-tiled toilet, life vests, a stereo, marshmallows on a stick and bedside lamps
 - LEGO Friends playsets are a top birthday gift or just-because treat gift for kids to find out that the best times are spent with friends
 
 [🛒 Buy it now!!]({{< param buyurl >}})
