@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60322 City Great Vehicles Race Car F1 Style Toy for Preschool Kids 4 plus Years Old  with Mechanic and Racing Driver Minifigures'
-date: 2022-11-04 23:36:59
+date: 2022-11-06 13:46:09
 image: 'https://m.media-amazon.com/images/I/51SrtlxsCrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNTVQGP/?tag=tolees0a-21'
 descuento: '44.38'
-average: '6.18102564102563'
+average: '6.15149999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Kids can head for the race circuit for turbo-speed action, then power away from the starting line, and help the mechanic at the pit stop
 - This LEGO F1 style car toy for kids 4 years old includes a LEGO Starter Brick element to get kids started and pictorial building guide
-- This preschool toy comes with a toy LEGO hammer, wrench, crash helmet and winner’s trophy for race action and minifigure pit-stop repairs
-- Includes 2 LEGO minifigures: a racing driver minifigure with a racing helmet, and a mechanic with a safety helmet and tools
 - This toy race car building set features a LEGO F1-style racing car, plus mechanic&039;s tools to make a quick repair, and a winner’s trophy
+- Includes 2 LEGO minifigures: a racing driver minifigure with a racing helmet, and a mechanic with a safety helmet and tools
+- This preschool toy comes with a toy LEGO hammer, wrench, crash helmet and winner’s trophy for race action and minifigure pit-stop repairs
 
 [🛒 Check the deal!!]({{< param buyurl >}})

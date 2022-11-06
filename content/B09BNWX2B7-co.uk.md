@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60318 City Fire Helicopter Toy for Preschool Boys and Girls 4 plus Years Old  with Firefighter Minifigure & Starter Brick  Stocking Filler Gift Idea'
-date: 2022-11-04 02:01:29
+date: 2022-11-06 13:47:58
 image: 'https://m.media-amazon.com/images/I/51RA9UsGnML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNWX2B7/?tag=tolees0a-21'
 descuento: '33.37'
-average: '6.912'
+average: '6.82818181818182'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Accessories of this toys for boys and girls 4+ years old include a hotdog, burnt hotdog, hotdog roll, walkie-talkie and a flight helmet
 - This LEGO set for preschool kids features a fire helicopter toy with spinnable rotors, a storage compartment and a cockpit for a minifigure
-- This LEGO 4+ set includes a Starter Brick element, pictorial guide and interactive digital instructions in the free LEGO app
-- Lets use an extinguisher to put out the flames, then take a well-deserved rest and enjoy a tasty snack - if you like burnt hotdogs!
-- Kids can join the firefighter aboard the helicopter when the hotdog vendor is in distress because his garbage can is in flames!
 - Treat a budding hero to the firefighting fun - LEGO City preschool toys make perfect birthday presents or Christmas gifts for kids aged 4 plus
+- Lets use an extinguisher to put out the flames, then take a well-deserved rest and enjoy a tasty snack - if you like burnt hotdogs!
+- Accessories of this toys for boys and girls 4+ years old include a hotdog, burnt hotdog, hotdog roll, walkie-talkie and a flight helmet
+- This LEGO 4+ set includes a Starter Brick element, pictorial guide and interactive digital instructions in the free LEGO app
 - Includes firefighter and vendor minifigures, a trash can with LEGO flames and fun accessories, including a burnt hotdog
+- Kids can join the firefighter aboard the helicopter when the hotdog vendor is in distress because his garbage can is in flames!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

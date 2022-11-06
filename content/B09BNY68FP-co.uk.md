@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71396 Super Mario Bowser Jr. s Clown Car Expansion Set  Buildable Game Toy with Bob-omb Figure  Gift Idea for Boys & Girls aged 6 plus Years Old'
-date: 2022-11-04 02:00:28
+date: 2022-11-06 13:47:03
 image: 'https://m.media-amazon.com/images/I/41yy5rUTr5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- To play the game, LEGO Mario or LEGO Luigi figures (not included) need to be placed in the brick-built Junior Clown Car to fly it around
 - Collectible LEGO Super Mario toy building sets with enemy figures offer endless ways to expand, rebuild and create unique levels of the game
-- Kids can add an aerial, coin-collecting challenge to their LEGO Super Mario universe with this Bowser Jr.’s Clown Car Expansion Set
 - So, it’s time for liftoff – kids can fly Bowser Jr.’s Clown Car in the sky to collect as many coins as they can to defeat the enemy Bob-omb
+- Kids can add an aerial, coin-collecting challenge to their LEGO Super Mario universe with this Bowser Jr.’s Clown Car Expansion Set
 - The LEGO Super Mario buildable game includes a LEGO toy figure of a Bob-omb to add to the brick-built levels that kids create
+- To play the game, LEGO Mario or LEGO Luigi figures (not included) need to be placed in the brick-built Junior Clown Car to fly it around
 
 [🛒 Buy it now!!]({{< param buyurl >}})
