@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas Tree House 21318 Building Toy Set for Kids  Boys  and Girls Ages 16+  3 036 Pieces '
-date: 2022-11-04 23:53:16
+date: 2022-11-07 06:44:52
 image: 'https://m.media-amazon.com/images/I/51hGg4S4NEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Challenge advanced LEGO builders and inspire role-play fun with this highly detailed LEGO Tree House, featuring 3 cabins, a tree with interchangeable summer and fall leaves and play-inspiring features including a crane, swing and a treasure chest
-- This cool tree house toy playset includes 4 minifigures: mom, dad and 2 children, plus a bird figure
-- 3036 pieces – This adult LEGO set for ages 16+ makes an unusual gift for LEGO fans
-- This LEGO Ideas 21318 Tree House eco-friendly toy features over 180 botanical elements made from plant-based polyethylene plastic and can be built together with all other original LEGO building toys and LEGO bricks for creative play
-- Measures over 14” (37cm) high, 10” (27cm) wide and 9” (24cm) deep
+- The landscape base plate features a picnic table to emble with 4 chairs for minifigures and various elements for a picnic as well as a stream to emble, a swing (which is on the tree), a campfire, a hidden
+- This sophisticated building toy with 3,036 pieces stands on a landscape base plate and includes a tree with interchangeable green (summer) as well as yellow and brown (autumn) flowers and a LEGO tree house consisting of 3 huts
+- The tree crown and the house can be easily removed for playing.
+- This LEGO Ideas set includes 4 minifigures mother, father and 2 children and a bird figure.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
