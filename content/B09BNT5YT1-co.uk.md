@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10781 Marvel Spider-Man Miles Morales: Spider-Man’s Techno Trike Set  Spidey And His Amazing Friends Series  Toy for Preschool Kids Age 4'
-date: 2022-11-06 13:44:55
+date: 2022-11-09 13:45:18
 image: 'https://m.media-amazon.com/images/I/518mxl13p3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNT5YT1/?tag=tolees0a-21'
 descuento: '33.37'
-average: '6.74111111111111'
+average: '6.60454545454545'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO 4 set includes a trike and glider with movable wings, plus 2 LEGO Marvel minifigures: Miles Morales Spider-Man and Green Goblin
 - Kids will love recreating scenes from the Disney TV series and will develop creative skills by inventing their own action-packed battles
-- The super villain Green Goblin minifigure has a changeable head with different expressions
 - Kids can propel Spider-Man’s Miles Morales on his trike to chase Green Goblin’s glider and bring it down by catching him in a red web
+- The super villain Green Goblin minifigure has a changeable head with different expressions
+- This LEGO 4 set includes a trike and glider with movable wings, plus 2 LEGO Marvel minifigures: Miles Morales Spider-Man and Green Goblin
 - Features a LEGO Miles Morales Spider-Man building toy for kids age 4 from the Disney Spidey And His Amazing Friends TV series
 
 [🛒 Check the deal!!]({{< param buyurl >}})
