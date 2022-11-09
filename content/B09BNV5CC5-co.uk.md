@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- The market has an easy-to-reset collapsible wall for the motorbike or dinosaur to smash through and rotating battle pit for the small dinosaurs
 - This LEGO Jurassic World dinosaur toy for boys and girls makes a great birthday or any time gift for dinosaur or vehicle fans age 6
+- Children can roleplay exciting action with 2 LEGO Jurassic World minifigures, Owen Grady and Rainn Delacourt, with a tranquilizer gun element
+- Kids can relive the adventures of the Jurassic World: Dominion movie with this LEGO dinosaur toy for boys and girls age 6 Plus
 - Check out LEGO Jurassic World: 76948 T. rex & Atrociraptor Dinosaur Breakout and 76946 Blue and Beta Velociraptor Capture for even more action
 - Includes a posable Atrociraptor figure, a toy motorbike, 2 small dinosaur toy figures, and a brick-built market
-- The market has an easy-to-reset collapsible wall for the motorbike or dinosaur to smash through and rotating battle pit for the small dinosaurs
-- Kids can relive the adventures of the Jurassic World: Dominion movie with this LEGO dinosaur toy for boys and girls age 6 Plus
-- Children can roleplay exciting action with 2 LEGO Jurassic World minifigures, Owen Grady and Rainn Delacourt, with a tranquilizer gun element
 
 [🛒 Buy it!!]({{< param buyurl >}})

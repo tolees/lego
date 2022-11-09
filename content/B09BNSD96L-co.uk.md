@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Download LEGO Super Mario toys app with instructions & ideas, plus a list of compatible Android and iOS devices on LEGO.com website
-- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 71360/71387, which is required for play
-- Collectible LEGO Super Mario toys bring iconic Super Mario characters into the real world and offer limitless creative challenges by rebuilding
-- Includes 5 LEGO Super Mario figures: Yellow Yoshi, Big Urchin, 2 Cheep Cheeps, and a Dolphin for LEGO Mario or Luigi figures (not included)
-- Features a springboard to perform dives and a roller coaster to shake the Super Star Block out of the palm tree and topple the Big Urchin
-- Let kids create a palm-tree shaking, dolphin-riding, high-diving level with Cheep Cheeps ‘leaping’ to collect digital coins and win the game
 - Add another beach level to kids LEGO Super Mario buildable game with this Big Urchin Beach Ride Expansion Set, a toy for kids 7 + years old
+- Collectible LEGO Super Mario toys bring iconic Super Mario characters into the real world and offer limitless creative challenges by rebuilding
+- Features a springboard to perform dives and a roller coaster to shake the Super Star Block out of the palm tree and topple the Big Urchin
+- LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 71360/71387, which is required for play
+- Download LEGO Super Mario toys app with instructions & ideas, plus a list of compatible Android and iOS devices on LEGO.com website
+- Includes 5 LEGO Super Mario figures: Yellow Yoshi, Big Urchin, 2 Cheep Cheeps, and a Dolphin for LEGO Mario or Luigi figures (not included)
+- Let kids create a palm-tree shaking, dolphin-riding, high-diving level with Cheep Cheeps ‘leaping’ to collect digital coins and win the game
 
 [🛒 Check the deal!!]({{< param buyurl >}})

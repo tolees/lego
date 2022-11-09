@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mit dem Ergänzungsset XXL - Botschaften (41950) (separat erhältlich) oder anderen LEGO DOTS Sets ergeben sich noch mehr Design-Möglichkeiten
 - Kinder können ein personalisiertes Türschild für das Kinderzimmer oder andere Spielzeug Deko individuell gestalten oder DOTS Accessoires dekorieren
 - LEGO Bastelsets für Kinder sind ein tolles Geburtstags- oder Weihnachtsgeschenk, bei der sich Kinder kreativ betätigen können
-- Das große Message Board besteht aus 4 16x16 Platten, Rahmen und Aufhängern, ideal um eine Kinderzimmer-Deko zu basteln
 - Das Letter Board enthält über 800 Steinchen in verschiedenen Farben und Formen, mit denen Kinder alles ausdrücken können, was sie wollen
+- Das große Message Board besteht aus 4 16x16 Platten, Rahmen und Aufhängern, ideal um eine Kinderzimmer-Deko zu basteln
 - Das DIY-Set enthält ein Heft mit vielen Anregungen für Botschaften und Designs, um die Individualität der Kinder zu fördern
+- Mit dem Ergänzungsset XXL - Botschaften (41950) (separat erhältlich) oder anderen LEGO DOTS Sets ergeben sich noch mehr Design-Möglichkeiten
 
 [🛒 Buy it now!!]({{< param buyurl >}})

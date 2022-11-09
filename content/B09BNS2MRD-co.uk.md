@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This space & robot toy for toddlers 2 years old brings engaging narratives and diverse characters to help build key life skills
-- The 4 friends search the cave, explore the jungle and check out the radar station to find the fuel cell and blast off in Buzz’s spaceship
+- LEGO DUPLO Disney space toy features a spaceship, Pixars Buzz Lightyear, the iconic space ranger figure, with 3 friends and fun accessories
 - The cave has an open-and-shut function, the jungle area has a climbable vine, and the radar station comes with a turntable dish
+- This space & robot toy for toddlers 2 years old brings engaging narratives and diverse characters to help build key life skills
 - Includes Sox the robot cat, Ivan the computer and Eric the triangular droid to recreate endless space adventures in fascinating locations
 - LEGO DUPLO Disney building toys are designed with fascinating details & captivating colours to give your little learner a BIG start in life
-- LEGO DUPLO Disney space toy features a spaceship, Pixars Buzz Lightyear, the iconic space ranger figure, with 3 friends and fun accessories
+- The 4 friends search the cave, explore the jungle and check out the radar station to find the fuel cell and blast off in Buzz’s spaceship
 
 [🛒 Buy it now!!]({{< param buyurl >}})

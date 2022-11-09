@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Build your own Ducati Panigale V4 R to gain a unique insight into the features and functions that make up this iconic motorcycle; Also includes a 2-speed gear-box – a first for LEGO Technic motorcycles
-- This eye-catching model (42107) looks stunning on display; Its dimensions have been designed to give a true representation of the real-life model, Measures over 12” (32cm) long, 6” (16cm) high and 3” (8cm) wide
 - This is a be great gift choice and a super challenge for LEGO Technic fans aged 10+ who will get a thrill from seeing how a motorcycle works
 - A representation of the famous Ducati Panigale V4 R to build, explore and display; LEGO Technic fans and motorcycle enthusiasts will love this stunning building challenge
+- This eye-catching model (42107) looks stunning on display; Its dimensions have been designed to give a true representation of the real-life model, Measures over 12” (32cm) long, 6” (16cm) high and 3” (8cm) wide
 - Recreate the thrill of owning a Ducati Panigale V4 R, with front and rear suspension for realistic model movement; The classic red color scheme brings the motorcycle to life, with true Italian flair
 
 [🛒 Buy it now!!]({{< param buyurl >}})

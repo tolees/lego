@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- LEGO City Great Vehicles buildable toys for girls and boys 5 years old spark their imagination and make a great birthday present idea
 - The free LEGO Building Instructions app helps zoom, rotate and visualise the finished model as its build
 - The awesome red truck comes with a long, articulated flatbed trailer and fold-out warning lights for extra-wide loads
-- When the chopper is loaded and secured, board the truck and head for the highway. Action-packed air-rescue missions await
 - The rescue helicopter toy for kids 5 years old has spinnable rotors and a storage area for the included stretcher
-- LEGO City Great Vehicles buildable toys for girls and boys 5 years old spark their imagination and make a great birthday present idea
+- When the chopper is loaded and secured, board the truck and head for the highway. Action-packed air-rescue missions await
 - Features a transporter truck toy, a toy rescue helicopter, plus LEGO driver and pilot minifigures for hours of imaginative play
 
 [🛒 Buy it!!]({{< param buyurl >}})

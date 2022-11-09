@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mit dem kreativen Aufnäher-Set können Kinder die Steinchen auf dem Aufnäher in Designs anbringen, die zu ihrer Stimmung oder ihrem Outfit passen; und wenn sie ihre Meinung ändern, können sie jederzeit umgestaltet werden
 - Dieses lustige Bastelset ist ein cooles, kreatives Geschenk für Kinder ab 8 Jahren und kann für weitere coole Designs mit den separat erhältlichen LEGO DOTS Ergänzungssets kombiniert werden
+- Mit dem kreativen Aufnäher-Set können Kinder die Steinchen auf dem Aufnäher in Designs anbringen, die zu ihrer Stimmung oder ihrem Outfit passen; und wenn sie ihre Meinung ändern, können sie jederzeit umgestaltet werden
 - Dieses kreative Spielzeug Set enthält einen 6x6 großen biegsamen Aufnäher in Rot, viele Steinchen in leuchtenden Farben sowie mit Disney Motiven verzierte Steinchen
-- Das LEGO DOTS Bastelset für Kinder enthält einen Aufnäher, der mit farbenfrohen und mit den Disney Figuren Mickey & Minnie bedruckten Steinchen verziert und auf fast jedem Stoff befestigt werden kann
 - Der Aufnäher kann dann an Kleidung, Accessoires oder fast jedem Stoffartikel (Nadel und Faden nicht im Lieferumfang enthalten) befestigt werden, damit Kinder ihren individuellen Style ausdrücken können
+- Das LEGO DOTS Bastelset für Kinder enthält einen Aufnäher, der mit farbenfrohen und mit den Disney Figuren Mickey & Minnie bedruckten Steinchen verziert und auf fast jedem Stoff befestigt werden kann
 
 [🛒 Buy it now!!]({{< param buyurl >}})

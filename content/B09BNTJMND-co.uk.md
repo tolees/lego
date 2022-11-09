@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Kids build LEGO NINJAGO Lloyd’s car toy in 3 stages, from a buggy to an armoured vehicle ready for battle to take on the evil snake warriors
 - This cool NINJAGO EVO toy cars set allows kids to build Lloyd’s car in 3 quick stages and makes a mega fab birthday gift for kids 6 + years old
+- Look out for banners in 7 other sets including Jay’s Thunder Dragon EVO 71760, Zane’s Power Up Mech EVO 71761 and Kai’s Fire Dragon EVO 71762
+- Features 3-in-1 NINJAGO racing car toys that can be upgraded into 3 different models, and 3 cool LEGO NINJAGO minifigures with weapons
 - Includes NINJAGO Lloyd with a sword, Cobra Mechanic on a quad bike with a flamethrower, and Python Dynamite with a gun and stick of dynamite
 - Transform the racing car toy from a buggy into a powerful and fast vehicle with armour, gold side panels, 2 shooters & a spoiler with blades
-- Features 3-in-1 NINJAGO racing car toys that can be upgraded into 3 different models, and 3 cool LEGO NINJAGO minifigures with weapons
 - When kids complete their missions and defeat the snakes, they are rewarded with an Adaptability banner to display on the car
-- Look out for banners in 7 other sets including Jay’s Thunder Dragon EVO 71760, Zane’s Power Up Mech EVO 71761 and Kai’s Fire Dragon EVO 71762
-- Kids build LEGO NINJAGO Lloyd’s car toy in 3 stages, from a buggy to an armoured vehicle ready for battle to take on the evil snake warriors
 
 [🛒 Check the deal!!]({{< param buyurl >}})

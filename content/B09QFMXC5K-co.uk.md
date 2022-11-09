@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids can play out battles with the zombie villager figure at the blast furnace, seize the zombie farm and capture the abandoned house
+- Includes 2 Minecraft zombie figures, a zombie hunter and a cat figure, plus accessories: torches, candles, pumpkins, a campfire and a steel sword
+- 4 different play areas included: a zombie hunter’s campsite, zombie villager’s workplace, zombie farmer’s pumpkin patch and an abandoned house
 - Surprise kids aged 8 and over who love Minecraft by gifting them with this versatile construction toy as a birthday, Christmas or any-day treat
 - With this LEGO Minecraft buildable toy, kids need all their skills as they reclaim a village from the zombies and rebuild it in their style
-- Includes 2 Minecraft zombie figures, a zombie hunter and a cat figure, plus accessories: torches, candles, pumpkins, a campfire and a steel sword
-- LEGO Minecraft sets give kids a different way to enjoy the video game, with mobs and scenes brought to life by the creativity of LEGO bricks
 - Finally, with this Minecraft construction toy, kids can build a campfire – and plan their next Minecraft adventure!
-- 4 different play areas included: a zombie hunter’s campsite, zombie villager’s workplace, zombie farmer’s pumpkin patch and an abandoned house
+- Kids can play out battles with the zombie villager figure at the blast furnace, seize the zombie farm and capture the abandoned house
+- LEGO Minecraft sets give kids a different way to enjoy the video game, with mobs and scenes brought to life by the creativity of LEGO bricks
 
 [🛒 Buy it now!!]({{< param buyurl >}})

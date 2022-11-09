@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Treat a budding hero to the firefighting fun - LEGO City preschool toys make perfect birthday presents or Christmas gifts for kids aged 4 plus
-- This LEGO 4+ set includes a Starter Brick element, pictorial guide and interactive digital instructions in the free LEGO app
-- Kids can join the firefighter aboard the helicopter when the hotdog vendor is in distress because his garbage can is in flames!
-- Accessories of this toys for boys and girls 4+ years old include a hotdog, burnt hotdog, hotdog roll, walkie-talkie and a flight helmet
-- Includes firefighter and vendor minifigures, a trash can with LEGO flames and fun accessories, including a burnt hotdog
-- This LEGO set for preschool kids features a fire helicopter toy with spinnable rotors, a storage compartment and a cockpit for a minifigure
 - Lets use an extinguisher to put out the flames, then take a well-deserved rest and enjoy a tasty snack - if you like burnt hotdogs!
+- This LEGO 4+ set includes a Starter Brick element, pictorial guide and interactive digital instructions in the free LEGO app
+- Treat a budding hero to the firefighting fun - LEGO City preschool toys make perfect birthday presents or Christmas gifts for kids aged 4 plus
+- Kids can join the firefighter aboard the helicopter when the hotdog vendor is in distress because his garbage can is in flames!
+- Includes firefighter and vendor minifigures, a trash can with LEGO flames and fun accessories, including a burnt hotdog
+- Accessories of this toys for boys and girls 4+ years old include a hotdog, burnt hotdog, hotdog roll, walkie-talkie and a flight helmet
+- This LEGO set for preschool kids features a fire helicopter toy with spinnable rotors, a storage compartment and a cockpit for a minifigure
 
 [🛒 Check the deal!!]({{< param buyurl >}})

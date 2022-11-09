@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Outside there is a baby fox, adult fox and Arctic fox for kids to feed with berries before the animals curl up to sleep
-- Includes iconic, familiar Minecraft figures: a drowned zombie, fox, baby fox, Arctic fox and a hero figure in a fox ‘skin’
-- It’s time for some fishing, but kids need to watch out! A drowned zombie is heading their way, so they have to grab the sword to fend it off
 - This compact, portable Minecraft building toy for kids 8+ years old contains a world of imaginative play alone or with others
+- It’s time for some fishing, but kids need to watch out! A drowned zombie is heading their way, so they have to grab the sword to fend it off
 - LEGO Minecraft sets give players a new way to enjoy their favourite game and are great birthday or Christmas gifts for girls and boys aged 8 plus
 - Features a toy house designed like a sleeping fox, with a structure that opens back and a lift-off roof enabling imaginative roleplay inside
+- Includes iconic, familiar Minecraft figures: a drowned zombie, fox, baby fox, Arctic fox and a hero figure in a fox ‘skin’
+- Outside there is a baby fox, adult fox and Arctic fox for kids to feed with berries before the animals curl up to sleep
 
 [🛒 Buy it!!]({{< param buyurl >}})

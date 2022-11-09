@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - The 69 corvette in red is a stunning historic LEGO model car racing against the modern 20 grey, red and yellow one with a big tail spoiler
-- This building toy includes 2 Chevrolet LEGO race car driver minifigures geared up and ready to go, with race suits, helmets and a wrench
-- Kids can explore the makeup of 2 real-life Corvettes as they build, before showing them off or staging an epic Speed Champions race
-- Both collectible toy racing cars are the ideal size to play with at home or on the go, a perfect LEGO gift for boys and girls aged 8 years old
 - This LEGO race car set features 2 toy models to build: the 2020 Chevrolet Corvette C8.R Race Car, and 1969 Chevrolet Corvette Sports Car
+- Kids can explore the makeup of 2 real-life Corvettes as they build, before showing them off or staging an epic Speed Champions race
+- This building toy includes 2 Chevrolet LEGO race car driver minifigures geared up and ready to go, with race suits, helmets and a wrench
+- Both collectible toy racing cars are the ideal size to play with at home or on the go, a perfect LEGO gift for boys and girls aged 8 years old
 
 [🛒 Buy it now!!]({{< param buyurl >}})

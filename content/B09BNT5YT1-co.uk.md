@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids will love recreating scenes from the Disney TV series and will develop creative skills by inventing their own action-packed battles
-- Kids can propel Spider-Man’s Miles Morales on his trike to chase Green Goblin’s glider and bring it down by catching him in a red web
 - The super villain Green Goblin minifigure has a changeable head with different expressions
-- This LEGO 4 set includes a trike and glider with movable wings, plus 2 LEGO Marvel minifigures: Miles Morales Spider-Man and Green Goblin
 - Features a LEGO Miles Morales Spider-Man building toy for kids age 4 from the Disney Spidey And His Amazing Friends TV series
+- This LEGO 4 set includes a trike and glider with movable wings, plus 2 LEGO Marvel minifigures: Miles Morales Spider-Man and Green Goblin
+- Kids can propel Spider-Man’s Miles Morales on his trike to chase Green Goblin’s glider and bring it down by catching him in a red web
+- Kids will love recreating scenes from the Disney TV series and will develop creative skills by inventing their own action-packed battles
 
 [🛒 Check the deal!!]({{< param buyurl >}})

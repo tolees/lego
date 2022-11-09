@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - As kids roleplay imaginative police-rescue stories, they improve their fine motor skills and strengthen their social and emotional awareness
+- LEGO DUPLO toys encourage fine motor skills development and allow parents to share precious developmental milestones with their little ones
+- Features a LEGO DUPLO rescue police motorbike toy for toddlers, boys and girls 2 plus years old, a police officer figure & LEGO DUPLO dog figure
 - The cool blue police motorbike toy is for the officer and dog to ride on, and the set also includes a ‘lost dog’ poster
 - A cute dog has gone missing! Can your little hero help the police officer find the lost pet? Where is the dog hiding this time?
 - A fun picture story based on the playset provides a great way to introduce children to creative construction and imaginative play
-- Features a LEGO DUPLO rescue police motorbike toy for toddlers, boys and girls 2 plus years old, a police officer figure & LEGO DUPLO dog figure
-- LEGO DUPLO toys encourage fine motor skills development and allow parents to share precious developmental milestones with their little ones
 
 [🛒 Buy it!!]({{< param buyurl >}})

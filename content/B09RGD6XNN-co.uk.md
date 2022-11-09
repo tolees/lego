@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This easy to build LEGO 4 set comes with a helpful Starter Brick that kids can use as a base onto build their horse stable toy
-- This farm animal toy set features a horse stable with shower and rotating stand, plus a toy pony that kids can role play washing and grooming
-- Includes LEGO Friends Mia & Daniel mini-dolls and a pony figure, plus butterfly, apple, brush and scissor accessories and a drinking trough
 - This LEGO Friends horse toy building set lets little animal lovers learn to build while enjoying creative role play fun
 - Kids can help the pony onto the rotating stand and give her a refreshing shower as she turns, then help Daniel comb & clip the pony toys mane
+- Includes LEGO Friends Mia & Daniel mini-dolls and a pony figure, plus butterfly, apple, brush and scissor accessories and a drinking trough
+- This easy to build LEGO 4 set comes with a helpful Starter Brick that kids can use as a base onto build their horse stable toy
+- This farm animal toy set features a horse stable with shower and rotating stand, plus a toy pony that kids can role play washing and grooming
 
 [🛒 Check the deal!!]({{< param buyurl >}})

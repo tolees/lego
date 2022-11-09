@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Dieses LEGO Jahrmarkt-Spielset enthält 4 Marvel-Figuren: Spidey, Hulk, Ms. Marvel und Green Goblin sowie eine Bärenfigur
-- Im LEGO Freizeitpark können die Figuren das Rad drehen, mit dem Wasser auf Scheiben zielen und Spideys Spielzeug-Hubschrauber fliegen
-- Dieses Spider-Man Spielzeug zum Bauen ab 2 Jahren fördert das Lernen durch Rollenspiele und unterstützt die Entwicklung der Feinmotorik
 - Das Set aus Spidey und seine Super-Freunde ist ein fantastisches Geschenk zu jeder Gelegenheit für Kleinkinder und Superhelden-Fans
-- Das bewegliche Riesenrad und das Hubschrauber Spielzeug mit drehenden Rotoren und die anderen Elemente sind für Kinder leicht zu bauen
+- Im LEGO Freizeitpark können die Figuren das Rad drehen, mit dem Wasser auf Scheiben zielen und Spideys Spielzeug-Hubschrauber fliegen
 - Dieses LEGO Spielzeug für Kleinkinder ab 2 Jahren stellt Superhelden in den Mittelpunkt des Geschehens des Jahrmarkts voller Aktivitäten
+- Das bewegliche Riesenrad und das Hubschrauber Spielzeug mit drehenden Rotoren und die anderen Elemente sind für Kinder leicht zu bauen
+- Dieses Spider-Man Spielzeug zum Bauen ab 2 Jahren fördert das Lernen durch Rollenspiele und unterstützt die Entwicklung der Feinmotorik
 
 [🛒 Buy it now!!]({{< param buyurl >}})

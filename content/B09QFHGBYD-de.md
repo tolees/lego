@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die Spieler können Yoshi an der Tür begrüßen, in Yoshis Bett ein Nickerchen machen, Früchte pflücken und eine Runde auf dem Naschkarussell drehen
 - Beinhaltet Tür, Bett, Briefkasten mit Brief, Kamin, Baum mit Funktion zum Früchteherunterschütteln, rote Frucht, grüne Frucht und Geschenkbox zum Verschenken der Früchte
-- Mit diesem Erweiterungsset kann dein Kind ein spannendes Level mit dem Super Mario Charakter Yoshi, der Monty Maulwurf Figur und lustigem Zubehör zu seinem LEGO Super Mario Starterset hinzufügen
-- Die Spieler können die Geschenkbox nutzen, um die Früchte einer anderen interaktiven Figur zu schenken, oder einfach einer freundlichen Figur wie Yoshi zu geben
 - Kinder können LEGO Mario, LEGO Luigi oder LEGO Peach auf dem Karussell fahren lassen, bis die Früchte golden werden; dann sammeln sie zusätzliche digitale Münzen, wenn die Figur die Frucht „isst“
+- Die Spieler können Yoshi an der Tür begrüßen, in Yoshis Bett ein Nickerchen machen, Früchte pflücken und eine Runde auf dem Naschkarussell drehen
+- Mit diesem Erweiterungsset kann dein Kind ein spannendes Level mit dem Super Mario Charakter Yoshi, der Monty Maulwurf Figur und lustigem Zubehör zu seinem LEGO Super Mario Starterset hinzufügen
 - Das Super Mario baubare Spielzeug enthält 2 Lego Super Mario Figuren: Yoshi und Monty Maulwurf; diese können mit LEGO Mario, LEGO Luigi oder LEGO Peach interagieren (Hinweis: Diese 3 Figuren sind nicht enthalten)
+- Die Spieler können die Geschenkbox nutzen, um die Früchte einer anderen interaktiven Figur zu schenken, oder einfach einer freundlichen Figur wie Yoshi zu geben
 
 [🛒 Check the deal!!]({{< param buyurl >}})

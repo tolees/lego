@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das Set enthält einen Flughafen mit Landeplatz, Garage, Hubschrauber und Spielzeugauto sowie eine Dinosaurier-Figur
-- Mit dem LEGO Spielzeug ab 4 Jahren lernen Kinder LEGO kennen und können alleine oder mit Hilfe älterer Geschwister oder den Eltern ihre motorischen Fähigkeiten erweitern
 - Enthält die Minifiguren Owen Grady, Zia Rodriguez und Wildhüter mit Zubehör - einem Dinosaurierei, einem Walkie-Talkie und einem Betäubungsstab
-- Dieses Jurassic World Dinosaurier-Spielzeug ist ein großartiges Geschenk für Kinder ab 4 Jahren und alle Dino-Fans
-- Das Set enthält Schritt-für-Schritt-Anleitungen sowie Zugang zu digitalen Anleitungen und interaktiven Anzeigetools in der LEGO Bauanleitungs-App
 - Der Zaun ist zusammenklappbar und es gibt einen aufklappbaren Käfig, der mit einem Spielzeug-Hubschrauber transportiert werden kann
+- Mit dem LEGO Spielzeug ab 4 Jahren lernen Kinder LEGO kennen und können alleine oder mit Hilfe älterer Geschwister oder den Eltern ihre motorischen Fähigkeiten erweitern
 - Mit diesem LEGO Jurassic World Dinosaurier-Spielzeug mit Flughafen und Hubschrauber, können Kinder einen spannenden Dino-Ausbruch nachspielen
+- Dieses Jurassic World Dinosaurier-Spielzeug ist ein großartiges Geschenk für Kinder ab 4 Jahren und alle Dino-Fans
+- Das Set enthält einen Flughafen mit Landeplatz, Garage, Hubschrauber und Spielzeugauto sowie eine Dinosaurier-Figur
+- Das Set enthält Schritt-für-Schritt-Anleitungen sowie Zugang zu digitalen Anleitungen und interaktiven Anzeigetools in der LEGO Bauanleitungs-App
 
 [🛒 Buy it now!!]({{< param buyurl >}})

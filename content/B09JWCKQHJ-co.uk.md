@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Combine with other LEGO City sets: Lunar Space Station 60349, Rocket Launch Centre 60351 and Lunar Roving Vehicle 60348 for more fun!
-- LEGO Building Instructions app for smartphones and tablets lets kids zoom, rotate & view models from all angles as they build
 - This LEGO space set features a domed toy Lunar Research Base, a LEGO lunar lander, skycrane drone, VIPER rover and a moon buggy
-- This LEGO City outer space toy makes an out-of-this-world Christmas gift or birthday present for 7 plus year old boys and girls who love space
-- This outer space toy comes with fun accessories for imaginative play - a planet-surface scanner, plants, drinking mugs and helmets
+- LEGO Building Instructions app for smartphones and tablets lets kids zoom, rotate & view models from all angles as they build
+- Combine with other LEGO City sets: Lunar Space Station 60349, Rocket Launch Centre 60351 and Lunar Roving Vehicle 60348 for more fun!
 - The LEGO NASA - inspired toy moon base set is packed with details for imaginative space play plus 6 LEGO astronaut minifigures
+- This LEGO City outer space toy makes an out-of-this-world Christmas gift or birthday present for 7 plus year old boys and girls who love space
 - Includes domed accommodation quarters with a botany lab and ground-level garage, plus a science lab, air lock and docking tunnel modules
+- This outer space toy comes with fun accessories for imaginative play - a planet-surface scanner, plants, drinking mugs and helmets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
