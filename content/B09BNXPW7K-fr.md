@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Il comprend une maquette de voiture à construire LEGO Technic, fidèle réplique de la voiture de super-héros emblématique : la Batmobile vue dans le film de 2022
 - 2 briques lumineuses donnent vie au modèle : la lumière rouge ajoute une lueur sur le moteur transparent et la lumière jaune illumine la grille avant
+- Il comprend une maquette de voiture à construire LEGO Technic, fidèle réplique de la voiture de super-héros emblématique : la Batmobile vue dans le film de 2022
 - Explorez toutes les fonctionnalités cette voiture jouet Batman tendance puis exposez-la pour l’admirer à votre guise
-- Ce set LEGO mythique avec de nombreuses fonctionnalités à explorer inclut 2 briques lumineuses, un moteur à 8 cylindres avec des pistons mobiles et une flamme qui tourne
 - Les autres fonctionnalités de cette voiture Batman incluent une direction avant, un différentiel sur les roues arrière et des portières et un capot qui s’ouvrent
+- Ce set LEGO mythique avec de nombreuses fonctionnalités à explorer inclut 2 briques lumineuses, un moteur à 8 cylindres avec des pistons mobiles et une flamme qui tourne
 
 [🛒 Buy it!!]({{< param buyurl >}})

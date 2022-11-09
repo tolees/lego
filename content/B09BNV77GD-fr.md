@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ce modèle réduit de voiture pour enfants a suffisamment de place pour un cockpit à deux places et de nombreux détails authentiques
-- Elle est livré avec une Minifigure de pilote de course LEGO avec une combinaison de course Lotus, un casque de crash, une perruque et une clé à molette
-- Pendant que vous construisez avec lapplication Instructions de montage Lego disponible pour les smartphones et les tablettes, zoomez, tournez et regardez les modèles sous tous les angles
 - Explorez-la pièce par pièce en recréant lune des formes aérodynamiques les plus inédites au monde
+- Ce modèle réduit de voiture pour enfants a suffisamment de place pour un cockpit à deux places et de nombreux détails authentiques
+- Pendant que vous construisez avec lapplication Instructions de montage Lego disponible pour les smartphones et les tablettes, zoomez, tournez et regardez les modèles sous tous les angles
 - Recréez la première hypercar entièrement électrique de Grande-Bretagne avec cette réplique de voiture Lotus Evija et admirez le design innovant de la voiture de sport
+- Elle est livré avec une Minifigure de pilote de course LEGO avec une combinaison de course Lotus, un casque de crash, une perruque et une clé à molette
 
 [🛒 Buy it now!!]({{< param buyurl >}})

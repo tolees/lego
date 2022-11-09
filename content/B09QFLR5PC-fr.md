@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Facile à construire, cet ensemble LEGO Disney comprend des briques de démarrage et des instructions illustrées simples, afin que les amoureux de la série Disney Frozen puissent assembler le château de princesses Disney immédiatement
 - Les accessoires comprennent une selle pour monter Kjekk, une brosse pour prendre soin du cheval de tête, une carotte, un gâteau, du chocolat et un coffre au trésor contenant des diamants
 - Le château fort jouet se compose de 2 étages, dune élégante porte dentrée, dune pièce intérieure avec une piste de danse tournante et de nombreux accessoires originaux pour créer sans limitation des histoires et jeux de rôles
+- Facile à construire, cet ensemble LEGO Disney comprend des briques de démarrage et des instructions illustrées simples, afin que les amoureux de la série Disney Frozen puissent assembler le château de princesses Disney immédiatement
 - Les jeux créatifs LEGO Frozen sont conçus pour développer les capacités de communication, la concentration et limagination. Une excellente idée de cadeau, un magnifique jouet pour les enfants de 4 ans et plus
 - Enchantez les garçons et les filles âgés de 4 ans et plus avec le fantastique ensemble de château de princesses LEGO Disney Frozen Arendelle comprenant la mini-poupée Anna, la figurine LEGO Olaf et le cheval jouet Kjekk
 
