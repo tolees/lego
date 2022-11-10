@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60343 City Great Vehicles Rescue Helicopter Transport Truck  Lorry Toy for Boys and Girls 5 plus Years Old  with Driver and Pilot Minifigures'
-date: 2022-11-09 13:47:49
+date: 2022-11-10 13:55:49
 image: 'https://m.media-amazon.com/images/I/51EghISicoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNV7PBF/?tag=tolees0a-21'
 descuento: '33.33'
-average: '17.0618181818182'
+average: '17.044347826087'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO City Great Vehicles buildable toys for girls and boys 5 years old spark their imagination and make a great birthday present idea
-- The free LEGO Building Instructions app helps zoom, rotate and visualise the finished model as its build
-- The awesome red truck comes with a long, articulated flatbed trailer and fold-out warning lights for extra-wide loads
 - The rescue helicopter toy for kids 5 years old has spinnable rotors and a storage area for the included stretcher
 - When the chopper is loaded and secured, board the truck and head for the highway. Action-packed air-rescue missions await
+- The free LEGO Building Instructions app helps zoom, rotate and visualise the finished model as its build
+- The awesome red truck comes with a long, articulated flatbed trailer and fold-out warning lights for extra-wide loads
 - Features a transporter truck toy, a toy rescue helicopter, plus LEGO driver and pilot minifigures for hours of imaginative play
+- LEGO City Great Vehicles buildable toys for girls and boys 5 years old spark their imagination and make a great birthday present idea
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75340 Star Wars Advent Calendar 2022  24 Collectible Buildable Toy including Gonk Droid as Santa  R2-D2  Darth Vader & Vehicles  For Kids'
-date: 2022-11-07 13:10:40
+date: 2022-11-10 13:44:34
 image: 'https://m.media-amazon.com/images/I/51B-Fc7r1uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFZ8KCB/?tag=tolees0a-21'
 descuento: '19.97'
-average: '25.9933333333333'
+average: '25.7085714285714'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids and adults can join in creative play and recreate movie scenes by combining this Advent Calendar with other LEGO Star Wars building toys
-- With Snowtrooper, C-3PO and R2-D2 in Christmas jumpers decorated with each others portraits, the Wampa Cave or Gonk Droid dressed as Santa
-- With 10 mini model vehicles including Bad Batch Shuttle, Lukes Ground Speeder, Republic gunship, B-wing, TIE Interceptor and AT-ST of Hoth
-- Plus 8 LEGO Star Wars characters including Darth Vader in summer outfit from the Disney+ Movie LEGO Star Wars: Summer Break and Luke Skywalker
 - LEGO Star Wars Christmas 2022 Advent Calendar with Star Wars collectible toys will become a great piece of decoration for the childrens room
-- This Advent Calendar will be an ideal pre-Christmas present for kids ages 6 and up and fans of movies and series from a galaxy far, far away
 - This LEGO Advent Calendar 2022 for Kids features Star Wars characters in fun seasonal outfits, vehicles from the saga and epic toy accessories
+- Kids and adults can join in creative play and recreate movie scenes by combining this Advent Calendar with other LEGO Star Wars building toys
+- Plus 8 LEGO Star Wars characters including Darth Vader in summer outfit from the Disney+ Movie LEGO Star Wars: Summer Break and Luke Skywalker
+- With Snowtrooper, C-3PO and R2-D2 in Christmas jumpers decorated with each others portraits, the Wampa Cave or Gonk Droid dressed as Santa
+- This Advent Calendar will be an ideal pre-Christmas present for kids ages 6 and up and fans of movies and series from a galaxy far, far away
+- With 10 mini model vehicles including Bad Batch Shuttle, Lukes Ground Speeder, Republic gunship, B-wing, TIE Interceptor and AT-ST of Hoth
 
 [🛒 Buy it now!!]({{< param buyurl >}})
