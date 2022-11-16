@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76831 Disney and Pixar’s Lightyear Duell mit Zurg Weltraum-Spielzeug zum Bauen ab 7 Jahre  mit Mech-Action-Figur und Buzz-Minifigur'
-date: 2022-11-10 13:53:46
+date: 2022-11-16 09:35:17
 image: 'https://m.media-amazon.com/images/I/51gqj4PsueL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVCZ2H/?tag=tolees0ca-21'
 descuento: '34.30'
-average: '22.6314285714285'
+average: '22.6437931034482'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Combines with Zyclops Chase 76830 and XL-15 Spaceship 76832 to bring more scenes from Disney and Pixar’s Lightyear to fans’ bedrooms
-- The Disney buildable toy for kids 7 years old is the best birthday gift for Space-Rangers-in-training who love Disney and Pixar’s Lightyear
-- Features 2 minifigures, including Disney’s Buzz Lightyear with his iconic wings and jetpack, plus Izzy Hawthorne, a LEGO robot and Sox cat figure
-- Kids help stop Zurg from stealing the fuel cell from Buzz’s spacecraft with a range of cool weapons: a wrist laser, blaster and stud shooter
-- Izzy uses her stud shooter, Buzz straps on his jetpack and fires his laser shooter - by working as a team, they’ve beaten the bad guy
-- With this outer space robot toy Buzz Lightyear fans join the Space Ranger team in battling evil mech action figure villain Zurg
+- Halte Zurg davon ab, die Treibstoffzelle von LEGO Buzz Lightyear zu stehlen und kämpfe mit coolen Lasern und anderen Waffen
+- Izzy benutzt ihren Bolzenschussapparat, Buzz schnallt sich sein Jetpack um und feuert seinen Lasershooter ab, um den Bösewicht zu besiegen
+- Mit 2 Minifiguren, darunter Buzz Lightyear, einer LEGO Roboter-Katzenfigur, einer Roboter-Figur und beweglichen Action-Figur
+- Mit diesem Weltraum-Spielzeug schließen sich Buzz Lightyear-Fans dem Space Ranger-Team an, um den bösen Zurg als LEGO Mech zu bekämpfen
+- Das Set ist kombinierbar mit Zyclops-Verfolgungjagd (76830) und XL-15-Sternjäger (76832), für noch mehr Spielspaß
+- Das Disney Spielzeug zum Bauen für Kinder ab 7 Jahren ist das Geschenk für angehende Space Ranger, die Disney und Pixars Lightyear lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})
