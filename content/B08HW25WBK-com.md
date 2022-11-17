@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can recreate scenes from Star Wars: The Mandalorian Season 2 and play out their own speeder-bike-riding, missile-shooting battle stories with this Trouble on Tatooine (75299) building toy
-- Great for solo building and play or for sharing the fun with friends, this awesome construction toy makes the best birthday present, holiday gift or surprise treat for creative kids aged 7 and up
-- The speeder measures over 1.5 in. (3 cm) high, 5 in. (13 cm) long and 1.5 in. (3 cm) wide, and this complete set combines brilliantly with other LEGO Star Wars buildable playsets for creative play
 - Includes The Mandalorian and Tusken Raider LEGO minifigures, each with weapons for role-play battles, plus a LEGO figure of the Child (Grogu)
+- Great for solo building and play or for sharing the fun with friends, this awesome construction toy makes the best birthday present, holiday gift or surprise treat for creative kids aged 7 and up
 - The speeder has a LEGO minifigure seat and saddlebag for the Child to sit in. The set also features a buildable Tusken hut hideout and spring-loaded, missile-shooting ballista for the Tusken Raider
+- Kids can recreate scenes from Star Wars: The Mandalorian Season 2 and play out their own speeder-bike-riding, missile-shooting battle stories with this Trouble on Tatooine (75299) building toy
+- The speeder measures over 1.5 in. (3 cm) high, 5 in. (13 cm) long and 1.5 in. (3 cm) wide, and this complete set combines brilliantly with other LEGO Star Wars buildable playsets for creative play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
