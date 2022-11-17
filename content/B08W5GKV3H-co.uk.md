@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - The van’s roof is hinged for easy access to the kitchen, while the boat unhitches from the trailer and has a movable sail and rudder
-- Check out other LEGO Friends sets: Forest Waterfall (41677), Forest House (41679) and Forest Horseback Riding Centre (41683)
 - Other features in this building toy include a board game tile, life jackets, picnic table, and a frying pan with a fried egg for creative play
+- Check out other LEGO Friends sets: Forest Waterfall (41677), Forest House (41679) and Forest Horseback Riding Centre (41683)
+- Features a toy camper van, a sailing boat toy, a lake with a jetty and a mountain picnic scene to play LEGO Friends summer caravan adventures
 - This LEGO Friends camping adventure set comes with Stephanie, Emma and Ethan mini dolls, a raccoon toy animal figure
 - Accessories include luggage packed on the roof, 3 sun mattress, a water bottle, a skateboard, helmet, phone, GPS, camera and a suitcase
-- Features a toy camper van, a sailing boat toy, a lake with a jetty and a mountain picnic scene to play LEGO Friends summer caravan adventures
 
 [🛒 Buy it!!]({{< param buyurl >}})

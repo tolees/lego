@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- LEGO creative sets and building toys for 4+ year olds bring a creative construction activity for kids that helps develop key life skills
+- This LEGO Classic set makes a great birthday or Christmas gift for kids aged 4 plus who are just starting out with LEGO construction toys
 - Kids build and play with the 5 included model ideas, then explore and discover as they find ways to create their own LEGO construction toys
+- Includes everything kids need to create 5 monster toys, plus a pile of LEGO bricks for building more monster creations!
 - Each of the model ideas comes with its own step-by-step building guide, so even first-time builders can have fun building their construction toys
 - Kids can join friends and family members for hours of open-ended building fun with this LEGO Classic Creative Monsters bricks building set
-- This LEGO Classic set makes a great birthday or Christmas gift for kids aged 4 plus who are just starting out with LEGO construction toys
-- LEGO creative sets and building toys for 4+ year olds bring a creative construction activity for kids that helps develop key life skills
-- Includes everything kids need to create 5 monster toys, plus a pile of LEGO bricks for building more monster creations!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
