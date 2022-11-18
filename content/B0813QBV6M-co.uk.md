@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21054 Architecture The White House Display Model Building Kit  Landmark Collection for Adults  Collectible Home Décor Gift Idea'
-date: 2022-11-17 15:53:06
+date: 2022-11-18 16:12:50
 image: 'https://m.media-amazon.com/images/I/51zHfmuGU5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6M/?tag=tolees0a-21'
 descuento: '20.01'
-average: '80.5496480938417'
+average: '80.5371010248902'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes clear instructions so even LEGO newcomers can build with confidence, and a coffee-table-style booklet telling The White House story
 - The Architecture display model of The White House beautifully captures the neoclassical design and splendour of this world-famous residence
-- Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
 - Features details like the Executive Residence, West Wing, East Wing and connecting colonnades, the Jacqueline Kennedy Garden and Rose Garden
 - The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
+- Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
+- Includes clear instructions so even LEGO newcomers can build with confidence, and a coffee-table-style booklet telling The White House story
 
 [🛒 Check the deal!!]({{< param buyurl >}})
