@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60167 - City Coast Guard  Quartier Generale della Guardia Costiera'
-date: 2022-11-18 16:51:12
+date: 2022-11-19 17:13:07
 image: 'https://m.media-amazon.com/images/I/61PEp3HvvHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B06X6GN35Y/?tag=tolees00-21'
 descuento: '19.09'
-average: '173.654346076461'
+average: '173.646807228918'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

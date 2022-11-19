@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Confidentiel pas dinfos Embargo jusquau 15/07/2017
 - Âge : 9 - 14 ans
+- Confidentiel pas dinfos Embargo jusquau 15/07/2017
 - Confidentiel lego na pas dinfos à communiquer à ce jour
 
 [🛒 Check the deal!!]({{< param buyurl >}})
