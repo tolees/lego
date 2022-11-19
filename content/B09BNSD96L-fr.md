@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Les enfants peuvent créer un niveau avec un palmier, vivre des aventures à dos de dauphin et faire des « sauts » de Cheep Cheeps pour collecter des pièces numériques
+- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
 - Ajoutez un autre niveau de plage au jeu de construction LEGO Super Mario grâce à l’ensemble d’extension La plage du gros oursin, un jouet pour enfants dès 7 ans
 - Il comprend 5 figurines LEGO Super Mario : Yoshi jaune, un Gros oursin, 2 Cheep Cheeps et un dauphin LEGO pour les figurines Mario ou Luigi (non incluses)
-- Les enfants peuvent créer un niveau avec un palmier, vivre des aventures à dos de dauphin et faire des « sauts » de Cheep Cheeps pour collecter des pièces numériques
 - Il inclut un tremplin pour réaliser des plongeons et un grand huit pour faire tomber le bloc de Super étoile du palmier et renverser le Maxi-oursin
-- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

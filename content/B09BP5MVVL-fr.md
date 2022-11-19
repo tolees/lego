@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Les enfants peuvent positionner les longs tentacules articulés de la créature de différentes manières et s’amuser à imaginer des aventures infinies
-- Il comprend un grand monstre Gargantos vert à un œil à construire avec des tentacules articulés et 3 minifigures LEGO Marvel iconiques
+- Ce jouet de construction LEGO Marvel inclut une minifigure du Docteur Strange avec une cape amovible ainsi que Wong et America Chavez avec des armes
 - Les pouvoirs spéciaux et les armes de l’équipe seront-ils suffisants pour vaincre le monstre ou seront-ils empêtrés dans ses tentacules ? C’est aux enfants de décider
 - Cet ensemble Marvel pour jouer et à exposer est conçu pour plonger les fans du film dans un univers d’action imaginative et d’aventure et constituera une superbe pièce d’exposition
-- Ce jouet de construction LEGO Marvel inclut une minifigure du Docteur Strange avec une cape amovible ainsi que Wong et America Chavez avec des armes
+- Les enfants peuvent positionner les longs tentacules articulés de la créature de différentes manières et s’amuser à imaginer des aventures infinies
+- Il comprend un grand monstre Gargantos vert à un œil à construire avec des tentacules articulés et 3 minifigures LEGO Marvel iconiques
 
 [🛒 Buy it now!!]({{< param buyurl >}})

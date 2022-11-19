@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Le set LEGO Friends La clinique vétérinaire est fourni avec une brique de démarrage pour faciliter la construction et que les enfants développent leurs compétences en construction
-- Le set inclut 2 mini-poupées, celles de Mia et Nandi, ainsi que 3 figurines d’animaux : un chat, une tortue et un lapin ainsi qu’un kit de vétérinaire pour enfants
-- Le niveau supérieur est doté d’une zone de toilettage pour prendre soin des animaux ainsi que d’une baignoire, d’une « salle de gym » pour chats et d’un griffoir
-- Le jouet LEGO Friends La clinique vétérinaire pour les enfants dès 4 ans contient 2 étages dont un amovible qui permet d’accéder aux fonctionnalités situées au niveau inférieur
 - L’étage inférieur inclut une caisse, un jouet scanner pour examiner les patients et une armoire à instruments avec un kit de vétérinaire pour enfants
+- Le set LEGO Friends La clinique vétérinaire est fourni avec une brique de démarrage pour faciliter la construction et que les enfants développent leurs compétences en construction
+- Le jouet LEGO Friends La clinique vétérinaire pour les enfants dès 4 ans contient 2 étages dont un amovible qui permet d’accéder aux fonctionnalités situées au niveau inférieur
+- Le niveau supérieur est doté d’une zone de toilettage pour prendre soin des animaux ainsi que d’une baignoire, d’une « salle de gym » pour chats et d’un griffoir
+- Le set inclut 2 mini-poupées, celles de Mia et Nandi, ainsi que 3 figurines d’animaux : un chat, une tortue et un lapin ainsi qu’un kit de vétérinaire pour enfants
 
 [🛒 Check the deal!!]({{< param buyurl >}})
