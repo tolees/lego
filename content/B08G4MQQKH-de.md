@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Das obere Stockwerk des Spielsets ist abnehmbar, um das Spielen zu vereinfachen. Damit ist die untere Etage zugänglich. Das Garagentor kann ebenfalls angehoben werden
-- Ein 2-stöckiges Puppenhaus voller authentischer Details, in dem Kinder die Familie von Andrea treffen und Rollenspiel spielen können, alleine oder mit Freunden
 - Ein tolles Spielzeug ab 6 Jahren für Mädchen und Jungen, perfekt als Weihnachts- oder auch Geburtstagsgeschenk! Die Teile sind auch mit anderen LEGO-Sets kompatibel
 - Das Puppenhaus enthält 4 Mini-Puppen von LEGO Friends: Andrea, ihre Freundin Stephanie, Mama und Papa und 1 Mikro-Puppe Schwester Liz (bekannt von TV-Show LEGO Friends)
+- Ein 2-stöckiges Puppenhaus voller authentischer Details, in dem Kinder die Familie von Andrea treffen und Rollenspiel spielen können, alleine oder mit Freunden
 - Kinder können im Garagenstudio ein Musikshow veranstalten, im Schwimmbad schwimmen oder in der modernen Küche eine Mahlzeit für Freunden vorbereiten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Junge Superhelden können mit Spider-Man in seinem Hauptquartier spielen. Wenn zwei Superschurken bei ihm eindringen, wird es spannend. Die tolle Ausrüstung und die Fähigkeiten der Kinder sind entscheidend, um die Lage zu retten.
-- Spider-Mans spektakuläres Hauptquartier ist 14 cm hoch, 41 cm lang und 17 cm breit und lässt sich mühelos mit anderen LEGO Marvel Spider-Man Sets kombinieren.
-- Enthält die Minifiguren Spider-Man, Green Goblin und Venom, einen PC, eine PlayStation, ein Basketballspiel, ein Skateboard mit Rampe, eine Getränkeecke, eine Kamera, Trainingsgeräte, ein Motorrad, einen Iron Spider Anzug, ein Gefängnis und Waffen.
-- Fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans der Marvel Filme ab 8 Jahren, die mit der spektakulären LEGO Version von Spider-Mans Hauptquartier herausstechen möchten.
 - Zu den witzigen Extras zählen diverse Netze, Überwachungsbildschirme und eine Ballwurfmaschine fürs Basketballtraining.
 - LEGO Marvel Angriff auf Spider-Mans Versteck (76175) beinhaltet alles, was ein junger Superheld braucht. Das Set ist die erste LEGO Version von Spider-Mans Hightech-Hauptquartier.
+- Spider-Mans spektakuläres Hauptquartier ist 14 cm hoch, 41 cm lang und 17 cm breit und lässt sich mühelos mit anderen LEGO Marvel Spider-Man Sets kombinieren.
+- Fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans der Marvel Filme ab 8 Jahren, die mit der spektakulären LEGO Version von Spider-Mans Hauptquartier herausstechen möchten.
+- Enthält die Minifiguren Spider-Man, Green Goblin und Venom, einen PC, eine PlayStation, ein Basketballspiel, ein Skateboard mit Rampe, eine Getränkeecke, eine Kamera, Trainingsgeräte, ein Motorrad, einen Iron Spider Anzug, ein Gefängnis und Waffen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kids can role-play the masked vigilante throwing his Batarang to stop the fearless skateboarder wielding her mallet from causing mischief
+- The set includes a Batarang, hammer and dynamite accessories so kids can create their own exciting super hero versus super villian stories
 - This Batman and Harley Quinn building toy makes a great birthday, Christmas or any other occasion gift idea for young superheroes aged 4 and up
 - This LEGO DC 4+ Batman building toy for kids includes 2 movie figures: Batman with Batcycle toy motorbike and Harley Quinn with a skateboard
-- The set includes a Batarang, hammer and dynamite accessories so kids can create their own exciting super hero versus super villian stories
-- Kids can role-play the masked vigilante throwing his Batarang to stop the fearless skateboarder wielding her mallet from causing mischief
 - This 4+ set features a starter brick motorcycle chassis to get young builders started plus building steps to strengthen their development skills
 
 [🛒 Buy it!!]({{< param buyurl >}})
