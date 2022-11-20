@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71398 Super Mario Ensemble d’Extension Le Bord de Mer de Dorrie  Jouet de Construction avec Crabe pour Enfants +6 Ans'
-date: 2022-11-19 02:56:39
+date: 2022-11-20 03:38:07
 image: 'https://m.media-amazon.com/images/I/51kBXjp04YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNWW61V/?tag=tolees0d-21'
 descuento: '40.01'
-average: '22.3491666666666'
+average: '22.0138461538461'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
