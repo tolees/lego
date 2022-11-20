@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye 2 mini figuras LEGO y divertidos accesorios: una máquina expendedora y un carrito de helados, un bonsái, 3 maquinitas arcade y un perrito de juguete
-- Los niños podrán interpretar emocionantes historias con este juguete de construcción 3en1, cuenta con un edificio con restaurante, una tienda de bicicletas, un salón creativo y muchos accesorios
-- La parte posterior del edificio de juguete se abre para facilitar el acceso a los espacios de ambas plantas y proporcionar a los pequeños constructores épicas posibilidades de juego y historias
-- Los peques deciden dónde jugar con este set LEGO modular, el restaurante de fideos está en un edificio de 2 plantas y tiene encima un estupendo apartamento con terraza en la azotea
 - Un regalo que ofrece infinitas posibilidades de juego, ¡la mejor idea para cumpleaños, Navidad o cualquier ocasión para niños y niñas de 8 años en adelante amantes de los juegos de rol y la creatividad!
-- Instrucciones digitales interactivas en la app gratuita Instrucciones de Montaje LEGO, los peques podrán ver, rotar y hacer zoom cada una de las posibilidades de este set mientras lo construyen
+- Los niños podrán interpretar emocionantes historias con este juguete de construcción 3en1, cuenta con un edificio con restaurante, una tienda de bicicletas, un salón creativo y muchos accesorios
 - Juega, explora y decora, los peques pueden recrear 1 de los 3 modelos incluidos en este set y vivir aventuras en la ciudad, además de exhibirlo después en su habitación con orgullo
+- Instrucciones digitales interactivas en la app gratuita Instrucciones de Montaje LEGO, los peques podrán ver, rotar y hacer zoom cada una de las posibilidades de este set mientras lo construyen
+- Los peques deciden dónde jugar con este set LEGO modular, el restaurante de fideos está en un edificio de 2 plantas y tiene encima un estupendo apartamento con terraza en la azotea
+- Incluye 2 mini figuras LEGO y divertidos accesorios: una máquina expendedora y un carrito de helados, un bonsái, 3 maquinitas arcade y un perrito de juguete
+- La parte posterior del edificio de juguete se abre para facilitar el acceso a los espacios de ambas plantas y proporcionar a los pequeños constructores épicas posibilidades de juego y historias
 
 [🛒 Check the deal!!]({{< param buyurl >}})
