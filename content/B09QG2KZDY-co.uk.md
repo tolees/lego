@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71772 NINJAGO The Crystal King Set  Battle Toy for Kids with Posable Centaur Action Figure and Lloyd Minifigure  Boys & Girls Festive Gifts'
-date: 2022-11-18 15:44:15
+date: 2022-11-24 11:22:39
 image: 'https://m.media-amazon.com/images/I/51S4rBgNAsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This Ninja and villain battle playset makes a great Christmas gift, birthday present or any-time treat for boys and girls age 9 plus years old
-- Includes an exclusive, never-seen-before LEGO NINJAGO Lloyd minifigure, Harumi, Vengestone Guard and Warrior plus single and double-bladed swords
-- Bring LEGO NINJAGO: Crystallized TV series to life with this battle toy featuring a giant posable Crystal King action figure
 - The Crystal King takes the form of a posable LEGO Centaur creature with 4 legs, 2 arms, wings, a large sword and a place for minifigure
 - Kids charge into battle to take on The Crystal King Centaur NINJAGO figure and the 3 dangerous warriors by his side: Be Brave! Be Ninja!
+- This Ninja and villain battle playset makes a great Christmas gift, birthday present or any-time treat for boys and girls age 9 plus years old
+- Bring LEGO NINJAGO: Crystallized TV series to life with this battle toy featuring a giant posable Crystal King action figure
+- Includes an exclusive, never-seen-before LEGO NINJAGO Lloyd minifigure, Harumi, Vengestone Guard and Warrior plus single and double-bladed swords
 
 [🛒 Buy it now!!]({{< param buyurl >}})

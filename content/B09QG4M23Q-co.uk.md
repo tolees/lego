@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 10976 DUPLO Santa s Gingerbread House Toy with Santa Claus Figure   Stocking Filler Gift Idea for Toddlers  Girls and Boys Age 2 Plus'
-date: 2022-11-18 15:45:27
+title: 'LEGO 10976 DUPLO Santa s Gingerbread House Toy with Santa Claus Figure  Christmas Present  Stocking Filler Gift Idea for Toddlers  Girls and Boys Age 2 Plus'
+date: 2022-11-24 11:24:13
 image: 'https://m.media-amazon.com/images/I/51vX3mkAaXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 17.99 GBP
 currency: GBP
 price: 17.99
 comparePrice: 29.99 GBP
-prodname: 'LEGO 10976 DUPLO Santa s Gingerbread House Toy with Santa Claus Figure   Stocking Filler Gift Idea for Toddlers  Girls and Boys Age 2 Plus'
+prodname: 'LEGO 10976 DUPLO Santa s Gingerbread House Toy with Santa Claus Figure  Christmas Present  Stocking Filler Gift Idea for Toddlers  Girls and Boys Age 2 Plus'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QG4M23Q/?tag=tolees0a-21'
 descuento: '40.01'
-average: '20.0590909090909'
+average: '19.8866666666667'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This versatile, hands-on Christmas house toy offers a great way for preschoolers and toddlers aged 2+ to develop their communication skills
 - This festively decorated LEGO DUPLO Gingerbread Christmas House toy for toddlers comes with Santa Claus, teddy bear, boy and girl figures
+- Toddlers can build the Christmas tree, put the presents underneath and then serve treats using the teapot, plate of cakes and chair elements
 - Share snowy adventures with your preschooler with this playset - a great Christmas stocking filler or surprise gift for toddlers age 2 plus
 - With the picture-story building instructions included in the set, toddlers can start building the Christmas house and toy elements with ease
-- Toddlers can build the Christmas tree, put the presents underneath and then serve treats using the teapot, plate of cakes and chair elements
-- This versatile, hands-on Christmas house toy offers a great way for preschoolers and toddlers aged 2+ to develop their communication skills
 
 [🛒 Check the deal!!]({{< param buyurl >}})
