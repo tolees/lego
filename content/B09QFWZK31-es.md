@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Libera al bloque de monedas del ‘’hielo’’, toma la fruta amarilla, elimina el hielo de la torre, activa el bloque POW, derriba a Kamek de la torre y salva a Toad
+- Este juguete de la Princesa Peach para construir de LEGO Super Mario cuenta con una torre de castillo de 3 niveles con elementos de hielo, flores, bloque POW, un disfraz infantil de gato y desafíos con monedas digitales
+- También incluye un traje felino para vestir a LEGO Peach (figura interactiva no incluida) que desencadena reacciones únicas y puede usarse para subir a la torre y ganar monedas digitales extra
 - Un gran regalo de cumpleaños, Navidad o en cualquier ocasión para niñas y niños de 7 años en adelante que tengan un Pack Inicial LEGO Super Mario (71360, 71387 o 71403), ¡son necesarios para el juego interactivo!
 - Encuentra las instrucciones de construcción digitales y contenido exclusivo para los peques en la app complementaria LEGO Super Mario; lista de dispositivos Android e iOS compatibles en LEGO.com/devicecheck
-- Este juguete de la Princesa Peach para construir de LEGO Super Mario cuenta con una torre de castillo de 3 niveles con elementos de hielo, flores, bloque POW, un disfraz infantil de gato y desafíos con monedas digitales
 - Este juego de construcción incluye 3 figuras LEGO Super Mario de un Goomba Felino, Kamek y Toad, para que interactúen con la figura de LEGO Peach (no incluida en este set, de venta en el Pack Inicial)
-- También incluye un traje felino para vestir a LEGO Peach (figura interactiva no incluida) que desencadena reacciones únicas y puede usarse para subir a la torre y ganar monedas digitales extra
-- Libera al bloque de monedas del ‘’hielo’’, toma la fruta amarilla, elimina el hielo de la torre, activa el bloque POW, derriba a Kamek de la torre y salva a Toad
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42070 Technic Camión grúa todoterreno 6x6'
-date: 2022-11-20 17:15:44
+date: 2022-11-24 18:42:54
 image: 'https://m.media-amazon.com/images/I/61dlBohgHmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B06WVBM7K2/?tag=tolees-21'
 descuento: '16.69'
-average: '332.223422939064'
+average: '332.107982142853'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Contempla el vibrante diseño en azul, rojo, amarillo y negro.
 - Camión grúa todoterreno 6x6
 - Edad recomendada por el fabricante: 11-16
 - Número de piezas: 1862
+- Contempla el vibrante diseño en azul, rojo, amarillo y negro.
 - Cuenta también con grandes y gruesos neumáticos, barra protectora con cadena y gancho, faros móviles y una detallada cabina para el conductor con puertas que se abren.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
