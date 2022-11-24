@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Contempla el vibrante diseño en azul, rojo, amarillo y negro.
+- Cuenta también con grandes y gruesos neumáticos, barra protectora con cadena y gancho, faros móviles y una detallada cabina para el conductor con puertas que se abren.
 - Camión grúa todoterreno 6x6
 - Edad recomendada por el fabricante: 11-16
 - Número de piezas: 1862
-- Contempla el vibrante diseño en azul, rojo, amarillo y negro.
-- Cuenta también con grandes y gruesos neumáticos, barra protectora con cadena y gancho, faros móviles y una detallada cabina para el conductor con puertas que se abren.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
