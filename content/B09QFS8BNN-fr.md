@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Combinez-le avec dautres jouets de la ferme LEGO City Farm tels que le camion de marché des fermiers (60345) ou encore le poulailler (60344)
-- Cet ensemble LEGO pour les 4 ans et plus est livré avec des briques pour débutants et des instructions numériques et imprimées avec des images pour une expérience dassemblage amusante et interactive
-- Les enfants peuvent utiliser le treuil de la grange pour charger la remorque du tracteur, ouvrir le toit pour accéder au grenier à foin et s’amuser à prendre soin des animaux
-- Ce jouet de ferme comprend une grange à construire, un jouet de tracteur avec remorque et des outils tels quune pelle, des cisailles, une fourche, un balai et un arrosoir
-- Les enfants samuseront beaucoup à tondre les moutons avec laccessoire ; avec le tuyau, ils peuvent nettoyer les animaux et nettoyer le fumier !
-- Comprend 4 minifigurines, dont Peach de la série télévisée LEGO City, plus les figurines dune vache, dun écureuil, dun mouton, dun agneau, dun cochon et dun porcelet
 - Passez une super journée à la ferme avec ce jouet LEGO City qui comprend de nombreux animaux de la ferme et une grange pleine daccessoires amusants
+- Ce jouet de ferme comprend une grange à construire, un jouet de tracteur avec remorque et des outils tels quune pelle, des cisailles, une fourche, un balai et un arrosoir
+- Combinez-le avec dautres jouets de la ferme LEGO City Farm tels que le camion de marché des fermiers (60345) ou encore le poulailler (60344)
+- Les enfants peuvent utiliser le treuil de la grange pour charger la remorque du tracteur, ouvrir le toit pour accéder au grenier à foin et s’amuser à prendre soin des animaux
+- Les enfants samuseront beaucoup à tondre les moutons avec laccessoire ; avec le tuyau, ils peuvent nettoyer les animaux et nettoyer le fumier !
+- Cet ensemble LEGO pour les 4 ans et plus est livré avec des briques pour débutants et des instructions numériques et imprimées avec des images pour une expérience dassemblage amusante et interactive
+- Comprend 4 minifigurines, dont Peach de la série télévisée LEGO City, plus les figurines dune vache, dun écureuil, dun mouton, dun agneau, dun cochon et dun porcelet
 
 [🛒 Buy it now!!]({{< param buyurl >}})
