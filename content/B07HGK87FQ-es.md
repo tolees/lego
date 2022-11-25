@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dos juegos remasterizados, ahora en un solo disco.
-- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
+- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
+- Dos juegos remasterizados, ahora en un solo disco.
 
 [🛒 Buy it!!]({{< param buyurl >}})
