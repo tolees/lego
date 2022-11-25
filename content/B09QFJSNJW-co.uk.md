@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60337 City Express Passenger Train Set  Remote Controlled Toy  Xmas Gifts for Boys & Girls with Working Headlights  2 Coaches and 24 Track Pieces'
-date: 2022-11-24 11:19:15
+date: 2022-11-25 12:52:21
 image: 'https://m.media-amazon.com/images/I/51DdZcI+rOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFJSNJW/?tag=tolees0a-21'
 descuento: '43.57'
-average: '98.8853846153846'
+average: '97.465'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes 6 LEGO minifigures: 4 passengers, train driver, restaurant worker, plus bike and helmet, wheelchair, briefcase and backpack accessories
 - This train toy for kids includes a train with a restaurant car, passenger coach, station platform, 24 track pieces and 6 minifigures
 - This LEGO city train set features a remote control bullet locomotive toy with working, dimmable headlights and LEGO Powered Up technology
-- LEGO City Express toy train set is an exciting birthday or Christmas gift for kids age 7 plus and any fan of remote control trains and cars
-- The train and its dimmable lights can be controlled via the included remote control or a smart device equipped with the LEGO Powered Up App
-- Kids can role-play cool scenarios: wait at the platform, board the restaurant car for a toy hotdog or hop on the passenger coach with laptop
 - This LEGO train set comes with step-by-step instructions for each model, so kids can learn to build the remote control train with confidence
+- The train and its dimmable lights can be controlled via the included remote control or a smart device equipped with the LEGO Powered Up App
+- Includes 6 LEGO minifigures: 4 passengers, train driver, restaurant worker, plus bike and helmet, wheelchair, briefcase and backpack accessories
+- Kids can role-play cool scenarios: wait at the platform, board the restaurant car for a toy hotdog or hop on the passenger coach with laptop
+- LEGO City Express toy train set is an exciting birthday or Christmas gift for kids age 7 plus and any fan of remote control trains and cars
 
 [🛒 Check the deal!!]({{< param buyurl >}})

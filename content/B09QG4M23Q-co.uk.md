@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10976 DUPLO Santa s Gingerbread House Toy with Santa Claus Figure  Christmas Present  Stocking Filler Gift Idea for Toddlers  Girls and Boys Age 2 Plus'
-date: 2022-11-24 11:24:13
+date: 2022-11-25 13:00:18
 image: 'https://m.media-amazon.com/images/I/51vX3mkAaXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QG4M23Q/?tag=tolees0a-21'
 descuento: '40.01'
-average: '19.8866666666667'
+average: '19.7407692307693'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

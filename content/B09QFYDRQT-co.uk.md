@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71759 NINJAGO Ninja Dragon Temple Set with Toy Motorbike  Kai  Nya and Snake Warrior Minifigures  Gift for Kids 4 Plus Years Old'
-date: 2022-11-24 11:21:12
+date: 2022-11-25 12:57:51
 image: 'https://m.media-amazon.com/images/I/51HpyH7-qVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFYDRQT/?tag=tolees0a-21'
 descuento: '43.76'
-average: '26.24'
+average: '24.99'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This 161-piece ninja playset is a great birthday or Christmas gift idea for kids aged 4 and up to fuel their imaginations
-- Includes 4 LEGO NINJAGO minifigures: Kai and Nya plus Sneaky Snake on a toy motorbike and Cobra Mechanic with a spear and catapult
-- This ninja playset comes with a starter brick and each bag has a model and character; all to help kids start building right away
-- Features a dragon toy figure with a posable head, tail and wings, 2 ninja temples, 2 posable trees and a dragon’s egg in of the temples
-- This LEGO NINJAGO toy for kids age 4+ comes with simple step by step picture instructions to guide kids through the building process
 - Kids swoop into battle with Nya, her Ninja Dragon and Kai Minifigure against snake warriors with this LEGO NINJAGO set for kids 4+ years old
+- Features a dragon toy figure with a posable head, tail and wings, 2 ninja temples, 2 posable trees and a dragon’s egg in of the temples
+- Includes 4 LEGO NINJAGO minifigures: Kai and Nya plus Sneaky Snake on a toy motorbike and Cobra Mechanic with a spear and catapult
+- This 161-piece ninja playset is a great birthday or Christmas gift idea for kids aged 4 and up to fuel their imaginations
+- This LEGO NINJAGO toy for kids age 4+ comes with simple step by step picture instructions to guide kids through the building process
+- This ninja playset comes with a starter brick and each bag has a model and character; all to help kids start building right away
 
 [🛒 Check the deal!!]({{< param buyurl >}})
