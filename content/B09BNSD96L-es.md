@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71400 Super Mario Set de Expansión: Desafío en Las Olas contra el Gran Erincho  Juguete para Niños y Niñas 7 Años'
-date: 2022-11-21 22:45:00
+date: 2022-11-25 17:58:27
 image: 'https://m.media-amazon.com/images/I/51kjUThMQRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNSD96L/?tag=tolees-21'
 descuento: '33.76'
-average: '46.4766666666667'
+average: '45.2518181818182'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye un trampolín desde el que saltar y sumergirse y una montaña rusa para hacer caer el Bloque Superestrella de la palmera y derribar al Gran Erincho
-- Incluye 5 figuras de LEGO Super Mario: Yoshi Amarillo, un Gran Erincho, 2 Cheep Cheeps y un delfín para las figuras LEGO Mario o Luigi (no incluidas)
-- Los peques podrán crear un nivel donde la palmera temblará, irán a lomos de un delfín y podrán saltar desde un trampolín con un Cheep Cheeps para conseguir monedas digitales
 - Los sets de expansión de LEGO Super Mario son una gran idea de regalo para niños que ya tienen un Pack Inicial de Super Mario (71360/71387), necesario para jugar
-- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
-- Los juguetes coleccionables de LEGO Super Mario dan vida a los emblemáticos personajes de Super Mario y ofrecen infinitos desafíos creativos al poder reconstruirlos sin parar
+- Incluye un trampolín desde el que saltar y sumergirse y una montaña rusa para hacer caer el Bloque Superestrella de la palmera y derribar al Gran Erincho
 - Añade otro nivel de playa al juego de construcción de LEGO Super Mario con este Set de Expansión: Gran Erincho, un juguete para niños de 7+ años
+- Incluye 5 figuras de LEGO Super Mario: Yoshi Amarillo, un Gran Erincho, 2 Cheep Cheeps y un delfín para las figuras LEGO Mario o Luigi (no incluidas)
+- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
+- Los peques podrán crear un nivel donde la palmera temblará, irán a lomos de un delfín y podrán saltar desde un trampolín con un Cheep Cheeps para conseguir monedas digitales
+- Los juguetes coleccionables de LEGO Super Mario dan vida a los emblemáticos personajes de Super Mario y ofrecen infinitos desafíos creativos al poder reconstruirlos sin parar
 
 [🛒 Check the deal!!]({{< param buyurl >}})

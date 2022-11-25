@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41393 Friends Baking Competition Playset with Toy Cakes  Cupcakes & Stephanie Mini Doll  for Girls and Boys 6 Plus Years Old'
-date: 2022-11-24 11:11:16
+date: 2022-11-25 17:58:57
 image: 'https://m.media-amazon.com/images/I/51+f7neyvLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W8Y1FRJ/?tag=tolees0a-21'
 descuento: '30.01'
-average: '26.5946315789474'
+average: '26.5727083333334'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
