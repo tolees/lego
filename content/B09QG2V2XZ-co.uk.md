@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Construction toy features a search and rescue helicopter with motorised and manual functions to help curious kids learn how a helicopter works
-- This battery powered toy helicopter requires an AA battery (included), the set also includes 1 x motor
+- LEGO Technic educational building sets feature realistic movement and mechanisms that introduce young LEGO builders to the world of engineering
 - Motorised features include the spin rotor and tail, slow and fast rotor speeds, retractable landing gear, hoist and spinning replica engine
 - Model helicopter kits manual functions: the swash plate to control the pitch of the rotor blades, a cockpit door and sliding passenger doors
-- LEGO Technic educational building sets feature realistic movement and mechanisms that introduce young LEGO builders to the world of engineering
 - This construction toys manual functions also include opening front and rear cowlings to explore the steering mechanism
+- This battery powered toy helicopter requires an AA battery (included), the set also includes 1 x motor
+- Construction toy features a search and rescue helicopter with motorised and manual functions to help curious kids learn how a helicopter works
 
 [🛒 Buy it!!]({{< param buyurl >}})

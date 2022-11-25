@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Cuenta con 2 mini figuras LEGO, el asombroso piloto Stuntz y Shirley Keeper, el personaje de la serie LEGO City: Aventuras en la Ciudad
 - Los niños activan la moto de juguete y la sueltan en dirección a las barreras; al atravesarlas, se acciona la función de caída de espadas en sus divertidos espectáculos y competiciones
 - Este set LEGO City Stuntz viene con instrucciones de construcción impresas fáciles de seguir, ¡los niños podrán sentir la emoción de crear sus propios juguetes LEGO!
 - Un regalo especial de cumpleaños o porque sí para niños y niñas de 5 años en adelante, ¡celebra los cumpleaños infantiles con la gama LEGO City Stuntz!
-- Con divertidos accesorios incluidos como un megáfono, una guitarra y cascos personalizables para recrear asombrosos juegos de rol y espectáculos acrobáticos
-- Cuenta con 2 mini figuras LEGO, el asombroso piloto Stuntz y Shirley Keeper, el personaje de la serie LEGO City: Aventuras en la Ciudad
 - Prepara el escenario para divertidas exhibiciones y torneos con este juguete de construcción LEGO City Stuntz que incluye una moto acrobática de juguete con rueda de inercia para hacer increíbles acrobacias
+- Con divertidos accesorios incluidos como un megáfono, una guitarra y cascos personalizables para recrear asombrosos juegos de rol y espectáculos acrobáticos
 
 [🛒 Buy it now!!]({{< param buyurl >}})

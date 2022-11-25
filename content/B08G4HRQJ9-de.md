@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die kostenlose LEGO Super Mario App enthält Bauanleitungen und dient Kindern als sichere Plattform, um Ideen auszutauschen. Eine Liste der kompatiblen Android- und iOS-Geräte finden Sie auf unsere website
 - Das kreative Modell ist in seiner Grundkonfiguration 6 cm hoch, 31 cm breit und 26 cm tief. Das vielseitige Set lässt sich aber auch umbauen und mit anderen LEGO Super Mario Sets kombinieren
 - Dieses 374-teilige LEGO Set ist ein ideales Geburtstags-, Weihnachts-, oder Überraschungsgeschenk für Kinder ab 7 Jahren. Sobald Kinder das Set mit ihrem Starterset (71360) kombinieren, kann das interaktiv Spielerlebnis beginnen
-- Beinhaltet legendäre Super Mario Gegner als LEGO Figuren. Einen Wiggler, einen Gumba und einen Parakoopa muss die nicht im Set enthaltene LEGO Mario Figur dann in diesem Level besiegen
 - Mit dem Erweiterungsset „Wigglers Giftsumpf“ (71383) können Kinder ihr LEGO Super Mario Starterset erweitern. Das Spiellevel bietet dann ganz unterschiedliche Herausforderungen in einem Limonadendschungel aus LEGO Steinen
 - Beinhaltet eine rutschende Plattform, eine Klappbrücke und ein Floß, mit denen die Spieler auf ihrem Weg interagieren können. Ein Superstern-Block bietet zusätzliche Kräfte und größere Belohnungen an
+- Beinhaltet legendäre Super Mario Gegner als LEGO Figuren. Einen Wiggler, einen Gumba und einen Parakoopa muss die nicht im Set enthaltene LEGO Mario Figur dann in diesem Level besiegen
+- Die kostenlose LEGO Super Mario App enthält Bauanleitungen und dient Kindern als sichere Plattform, um Ideen auszutauschen. Eine Liste der kompatiblen Android- und iOS-Geräte finden Sie auf unsere website
 
 [🛒 Check the deal!!]({{< param buyurl >}})

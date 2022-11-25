@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Das Motorrad hat einen goldenen Drachenkopf mit beweglichem Maul, goldene Seitenverkleidungen, 2 große Reifen und einen Sattel für LEGO NINJAGO Jay
-- Kinder können mit diesem LEGO NINJAGO Set mit 2 Minifiguren und einem Spielzeug-Motorrad die actiongeladene TV-Serie NINJAGO: Crystallized nachspielen
+- Enthält einen LEGO NINJAGO Vergeltungsstein-Krieger mit einem Spielzeugschwert sowie eine kleine Kristallspinne zum Zusammenbauen
 - Dieses 137-teilige Spielzeug mit Drachen-Figur ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten für Kinder ab 7 Jahre
 - Enthält 2 Mini-Figuren, darunter Golddrachen-Jay mit Elementar-Goldnunchaku und 2 stachelbewehrten Golddrachenflügeln
-- Enthält einen LEGO NINJAGO Vergeltungsstein-Krieger mit einem Spielzeugschwert sowie eine kleine Kristallspinne zum Zusammenbauen
+- Kinder können mit diesem LEGO NINJAGO Set mit 2 Minifiguren und einem Spielzeug-Motorrad die actiongeladene TV-Serie NINJAGO: Crystallized nachspielen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

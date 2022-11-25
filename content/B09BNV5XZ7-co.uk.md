@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes the ‘adopt me’ sign, feeding bottle, animal bath and box with adoption letter to help kids invent endless pet-care stories
-- This LEGO Friends animals rescue pet toy comes with 2 mini dolls, 1 toy dog, 1 puppy and 1 kitten animal figures, and a rescue trike
-- This creative toy for kids 6+ years old makes an ideal display piece, thanks to the large dog and cat sign on the centre’s roof
+- Available in the LEGO Building Instructions app, the intuitive zoom and rotate tools help kids visualise their model as they build
 - This LEGO animal playset makes a great birthday or Christmas gift idea for 6 plus year old girls and boys who love playing with animal toys
 - Features a café with a cosy reception area and an outdoor seating area where the LEGO Friends characters bond with the animals
-- Available in the LEGO Building Instructions app, the intuitive zoom and rotate tools help kids visualise their model as they build
+- This creative toy for kids 6+ years old makes an ideal display piece, thanks to the large dog and cat sign on the centre’s roof
 - Kids can help LEGO Friends Olivia & Priyanka mini dolls to pair the pets with their new owners and nurture them by serving drinks and food
+- This LEGO Friends animals rescue pet toy comes with 2 mini dolls, 1 toy dog, 1 puppy and 1 kitten animal figures, and a rescue trike
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Découvrez également lautre nouveau casque LEGO Star Wars à construire pour lexposition de mai 2021 : Casque de scout trooper (75305)
 - Prenez le temps de vous plonger dans un défi créatif complexe, puis exposez-le fièrement comme objet de conversation à la maison ou au bureau
-- La forme iconique du casque de Dark Vador est recréée en briques LEGO et mesure plus de 20 cm/8in de haut, y compris le support de présentation
-- Ce modèle de construction pour adultes fait partie dune série de modèles de casques LEGO Star Wars à collectionner, à construire et à exposer, reproduits dans le style LEGO
-- Ce jeu de construction LEGO Star Wars à collectionner pour adultes comprend un casque de Dark Vador aux détails menaçants, avec un support et une plaque signalétique
 - Faites-vous plaisir et offrez un excellent cadeau Star Wars pour épater tout passionné ou constructeur LEGO expérimenté
+- La forme iconique du casque de Dark Vador est recréée en briques LEGO et mesure plus de 20 cm/8in de haut, y compris le support de présentation
+- Ce jeu de construction LEGO Star Wars à collectionner pour adultes comprend un casque de Dark Vador aux détails menaçants, avec un support et une plaque signalétique
+- Découvrez également lautre nouveau casque LEGO Star Wars à construire pour lexposition de mai 2021 : Casque de scout trooper (75305)
+- Ce modèle de construction pour adultes fait partie dune série de modèles de casques LEGO Star Wars à collectionner, à construire et à exposer, reproduits dans le style LEGO
 
 [🛒 Check the deal!!]({{< param buyurl >}})

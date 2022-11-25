@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Dieses Harry Potter Spielzeug zeigt die bekannten Gebäude im Dorf Hogsmeade: den 2-stöckigen Süßwarenladen Honeydukes und den Pub Die Drei Besen
-- Das LEGO Harry Potter Hogsmeade Dorf-Set enthält außerdem 4 von insgesamt 16 zufällig gewählten Zauberer-Karten, die die Kinder sammeln und untereinander tauschen können
 - Das schneebedeckte LEGO Hogsmeade Dorf-Set ist bis unter die Dächer voll mit authentischen Details, Möbeln und Zubehör aus den Filmen für Kinder zum Entdecken
+- Dieses Spielzeug ab 8 Jahren enthält eine exklusive, goldene Ron Weasley Minifigur, um das 20-jährige Jubiläum von Harrys Magie zu feiern und ist somit eine tolle Geschenkidee als einzigartiges Weihnachtsgeschenk
+- Das LEGO Harry Potter Hogsmeade Dorf-Set enthält außerdem 4 von insgesamt 16 zufällig gewählten Zauberer-Karten, die die Kinder sammeln und untereinander tauschen können
 - Enthält Minifiguren von Harry Potter, Dekan Thomas, Professor McGonagall, Madam Rosmerta, Mr. Flume und Mrs. Flume als LEGO Minifiguren für magischen Rollenspielspaß
 - 3 kleinere Erweiterungen bieten weitere Inspiration: eine Straßenlaterne, eine Bank mit Schnee & eine 2-seitige Anschlagtafel mit einem Fahndungsplakat für Sirius Black
-- Dieses Spielzeug ab 8 Jahren enthält eine exklusive, goldene Ron Weasley Minifigur, um das 20-jährige Jubiläum von Harrys Magie zu feiern und ist somit eine tolle Geschenkidee als einzigartiges Weihnachtsgeschenk
 - Es gehört zu einer Reihe von detaillierten modularen Sets, die zusammengebaut und kombiniert werden können, um ein eigenes Modell des Hogwarts-Schlosses für Kinder zu erstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

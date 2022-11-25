@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- It also includes the Fullerton Hotel Singapore, Supertree Grove at Gardens by the Bay, plus landscaping details: the Singapore River & trees
+- The skyline mark points include Marina Bay Sands, the OCBC Centre, One Raffles Place, Lau Pa Sat - also known as Telok Ayer Market
 - This LEGO Architecture building set for adults recreates some of the most iconic buildings in Singapore in LEGO style
 - Discover new building techniques letting you attach buildings at angles to the base with this collectible model kit for adults
-- Evoke the spirit of the ‘Lion City’ & combine the skyscrapers, charming old riverfront buildings, and greenery to create a stunning centerpiece
+- It also includes the Fullerton Hotel Singapore, Supertree Grove at Gardens by the Bay, plus landscaping details: the Singapore River & trees
 - It makes a fantastic home or room décor piece, treat for yourself, and a delightful gift for adult lovers of travel, history & architecture - it even makes a fun Mothers Day gift idea
 - Have you been looking for a quaint new home housewarming gift LEGO sets for adults let you relax and lose yourself in the creative process
-- The skyline mark points include Marina Bay Sands, the OCBC Centre, One Raffles Place, Lau Pa Sat - also known as Telok Ayer Market
+- Evoke the spirit of the ‘Lion City’ & combine the skyscrapers, charming old riverfront buildings, and greenery to create a stunning centerpiece
 
 [🛒 Check the deal!!]({{< param buyurl >}})

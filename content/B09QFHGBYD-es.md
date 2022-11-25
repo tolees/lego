@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Después, los peques pueden usar la caja de regalo para compartir la fruta con otra figura interactiva o simplemente darle la fruta a su personaje de Super Mario favorito, ¡como Yoshi!
 - Este divertido set de expansión LEGO Super Mario cuenta con la figura de Yoshi y un Topo Monty, además de accesorios que completan un escenario de juego lleno de golosinas con una estructura de casa de juguete
-- Ideal para combinar con un Pack Inicial LEGO de Mario, Luigi o Peach incluye una puerta, una cama, un buzón con una letra, una chimenea, un árbol con una función de caída de elementos, frutas rojas y verdes y una caja de regalo
-- Los niños pueden hacer girar a LEGO Mario, LEGO Luigi o LEGO Peach (no incluidos y de venta por separado) en el tiovivo hasta que las frutas se vuelvan doradas y recoger monedas digitales extra cuando las ‘’coman’’
 - Con este juguete de construcción los pequeños jugadores podrán saludar a LEGO Yoshi en la puerta, echar una siesta en la cama, recoger frutas o dar una vuelta en el carrusel de premios
+- Los niños pueden hacer girar a LEGO Mario, LEGO Luigi o LEGO Peach (no incluidos y de venta por separado) en el tiovivo hasta que las frutas se vuelvan doradas y recoger monedas digitales extra cuando las ‘’coman’’
+- Ideal para combinar con un Pack Inicial LEGO de Mario, Luigi o Peach incluye una puerta, una cama, un buzón con una letra, una chimenea, un árbol con una función de caída de elementos, frutas rojas y verdes y una caja de regalo
 
 [🛒 Check the deal!!]({{< param buyurl >}})

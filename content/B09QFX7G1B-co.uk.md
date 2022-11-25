@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Treat yourself or give this model building kit as a birthday for a fan of Optimus Prime and the Transformers universe or a creative Christmas gift for Men, Women, Mothers, Fathers, Husband or Wife
+- Attach the jetpack in robot mode and place the ion blaster and Energon axe in the legendary Autobot leaders hands
 - Open the robot models chest chamber to store the Autobot Matrix of Leadership and admire the 19 points of articulation in robot mode
+- Relive the Transformers saga with accessories, including the ion blaster, Autobot Matrix of Leadership, an Energon axe, Energon cube and jetpack
 - This LEGO Optimus Prime figure is part of a range of LEGO sets designed for adult builders, looking for their next immersive project
 - With this set, based on the legendary Transformers Autobot, adults build LEGO Optimus Prime figure that converts from robot to truck and back
-- Relive the Transformers saga with accessories, including the ion blaster, Autobot Matrix of Leadership, an Energon axe, Energon cube and jetpack
+- Treat yourself or give this model building kit as a birthday for a fan of Optimus Prime and the Transformers universe or a creative Christmas gift for Men, Women, Mothers, Fathers, Husband or Wife
 - This unique collectible robot model makes a great home décor piece - top off the build with a unique display plaque with Optimus Prime facts
-- Attach the jetpack in robot mode and place the ion blaster and Energon axe in the legendary Autobot leaders hands
 
 [🛒 Buy it now!!]({{< param buyurl >}})

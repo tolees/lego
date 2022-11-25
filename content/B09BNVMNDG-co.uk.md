@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The missiles can be launched simultaneously or individually when kids press plates on the hood
+- This Batman building toy for kids 8+ years old makes a great birthday present idea for fans of Batman, his Batmobile and supercool car toys
 - The windscreen and roof assembly lift off so the Batman minifigure can be sat in the Batmobiles cockpit; there’s even room for a passenger
+- The Penguin minifigure comes with a shooter & hand-held rocket launcher that includes an integrated stud-shooter that fires circular pieces
 - This Super Heroes set includes 2 LEGO minifigures: a Batman minifigure with a fabric cape, and the Super-Villain Penguin with cool weapons
 - Features a missile-firing Batmobile, the battle-ready Batman car toy with 2 spring-loaded shooters that launch mega missiles from the front
-- The Penguin minifigure comes with a shooter & hand-held rocket launcher that includes an integrated stud-shooter that fires circular pieces
-- This Batman building toy for kids 8+ years old makes a great birthday present idea for fans of Batman, his Batmobile and supercool car toys
+- The missiles can be launched simultaneously or individually when kids press plates on the hood
 
 [🛒 Check the deal!!]({{< param buyurl >}})

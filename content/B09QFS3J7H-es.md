@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Dale a los niños y niñas de 8 años en adelante un gran regalo de Minecraft para su cumpleaños, Navidad o vacaciones y hazles felices mientras construyen esta aventura basada en el videojuego
-- Este juego de batalla incluye una increíble gama de figuras Minecraft: un aventurero del Nether, un Cubo de Magma, un Piglin Bruto, un Piglin y un Lavagante , así como numerosos elementos y accesorios
 - A los niños fans del videojuego Minecraft les encantará superando desafíos creativos y librando emocionantes batallas en el mundo real con este set de construcción de LEGO Minecraft
-- Con divertidos accesorios de gran realismo: una raíz carmesí, un hongo, una piedra negra, oro, una verruga del Nether, champiñones, antorchas del alma y fuego del alma, así como armas, TNT, una caña de pescar y un cofre con más sorpresas
 - Los pequeños jugadores se abrirán paso hasta el ardiente Bastión del Nether batalla a batalla, superando una serie de desafíos para conseguir objetos que estimularán su creatividad y aportarán más posibilidades de juego
+- Con divertidos accesorios de gran realismo: una raíz carmesí, un hongo, una piedra negra, oro, una verruga del Nether, champiñones, antorchas del alma y fuego del alma, así como armas, TNT, una caña de pescar y un cofre con más sorpresas
+- Este juego de batalla incluye una increíble gama de figuras Minecraft: un aventurero del Nether, un Cubo de Magma, un Piglin Bruto, un Piglin y un Lavagante , así como numerosos elementos y accesorios
 
 [🛒 Buy it!!]({{< param buyurl >}})
