@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42139 Technic Le Véhicule Tout-Terrain  Modèle Réduit de Camion à 6 Roues  Jeu de Construction de Véhicule pour Enfants de 10 Ans et Plus'
-date: 2022-11-20 16:02:19
+date: 2022-11-24 23:26:49
 image: 'https://m.media-amazon.com/images/I/51MUIRQt0EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNW34YN/?tag=tolees0d-21'
 descuento: '33.44'
-average: '60.0724'
+average: '60.0596296296296'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
