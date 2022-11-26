@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das magische LEGO Harry Potter Set enthält außerdem 2 zufällige Zauberer-Karten (insgesamt 16), die die Kinder sammeln können
+- Kinder können die Gefängniszelle hoch oben im Hogwarts-Turm bauen und das LEGO Harry Potter Set mit anderen aus der Serie verbinden
+- Die LEGO Harry Potter Schloss Erweiterung enthält 3 Minifiguren: Harry Potter und seinen Besen, Hermine Granger und Sirius Black
 - Mit Seidenschnabel, dem Hippogreif, mit beweglichen Flügeln und Platz auf dem Rücken für eine spannende Rettung aus dem Gefängnis
+- Das magische LEGO Harry Potter Set enthält außerdem 2 zufällige Zauberer-Karten (insgesamt 16), die die Kinder sammeln können
 - Dieses große Modell des LEGO Harry Potter Schloss macht sich toll im Kinderzimmer, wenn der Spieltag zu Ende ist
 - Mit diesem LEGO Harry Potter Spielzeug können Kinder spannende Szenen aus Harry Potter und der Gefangene von Askaban nachspielen
-- Die LEGO Harry Potter Schloss Erweiterung enthält 3 Minifiguren: Harry Potter und seinen Besen, Hermine Granger und Sirius Black
 - Dieses LEGO Harry Potter Spielzeug für Kinder ab 8 Jahre ist eine tolle Geschenkidee zum Geburtstag oder zu Weihnachten
-- Kinder können die Gefängniszelle hoch oben im Hogwarts-Turm bauen und das LEGO Harry Potter Set mit anderen aus der Serie verbinden
 
 [🛒 Buy it now!!]({{< param buyurl >}})

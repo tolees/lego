@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das LEGO Super Mario Erweiterungsset „Gumbas Schuh“, beinhaltet einen Schuh aus LEGO Steinen zum Herumhüpfen und Stampfen und für viele coole Saltos mit den LEGO Mario, Luigi oder Peach Startersets (nicht im Lieferumfang enthalten)
 - Die LEGO Super Mario Bau- und Spielsets bieten deinem Kind unzählige Optionen zum Erweitern, Umgestalten und Erschaffen einzigartiger Levels entweder alleine oder mit Familie und Freunden
 - Kinder können die Gumba Figur in den Schuh aus LEGO Steinen stecken, genau wie in den Super Mario Videospielen; dadurch können noch spannendere LEGO Super Mario Level gestaltet werden
 - Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten), den Schuh zu stibitzen, um dann in dem Schuh herumzuhüpfen und Saltos zu machen, und digitale Münzen zu gewinnen
 - Das Erweiterungsset ist ein tolles Geschenk für Kinder, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen, das zum Spielen benötigt wird
+- Das LEGO Super Mario Erweiterungsset „Gumbas Schuh“, beinhaltet einen Schuh aus LEGO Steinen zum Herumhüpfen und Stampfen und für viele coole Saltos mit den LEGO Mario, Luigi oder Peach Startersets (nicht im Lieferumfang enthalten)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
