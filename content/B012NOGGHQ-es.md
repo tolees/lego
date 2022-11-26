@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21028 Architecture Ciudad de Nueva York Set de Construcción de Ciudad  Decoración de Oficina  Idea de Regalo Coleccionable'
-date: 2022-11-19 09:03:46
+date: 2022-11-26 08:58:03
 image: 'https://m.media-amazon.com/images/I/41n8YYn3a8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B012NOGGHQ/?tag=tolees-21'
 descuento: '30.09'
-average: '51.1803503184711'
+average: '51.1288253968252'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
