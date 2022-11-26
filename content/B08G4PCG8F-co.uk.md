@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- The LEGO Botanical Collection home décor accessories offer a range of builds for flower lovers, making it a unique display piece
+- Features a bonsai tree model with a rectangular pot and a slatted wood-effect stand, made of LEGO elements, designed for adults
 - Plants from plants: the collection uses several elements made from plant-based plastic, produced using sustainably sourced sugarcane
 - Includes interchangeable pieces so you can style the artificial plant with classic green leaves or vibrant pink cherry blossom blooms
-- Features a bonsai tree model with a rectangular pot and a slatted wood-effect stand, made of LEGO elements, designed for adults
-- The LEGO Botanical Collection home décor accessories offer a range of builds for flower lovers, making it a unique display piece
-- This bonsai tree building set makes a relaxing activity, original birthday present for a friend or loved one, or a fun Mothers Day gift idea ... that never withers
-- In this LEGO set for adults, designers have created a mindful build, with a unique cherry blossom pattern that becomes tiny frogs for fun
 - Both sets of leaves can be custom arranged, creating an eye-catching, pretty unique display piece to adore in any home or office
+- In this LEGO set for adults, designers have created a mindful build, with a unique cherry blossom pattern that becomes tiny frogs for fun
+- This bonsai tree building set makes a relaxing activity, original birthday present for a friend or loved one, or a fun Mothers Day gift idea ... that never withers
 
 [🛒 Buy it now!!]({{< param buyurl >}})
