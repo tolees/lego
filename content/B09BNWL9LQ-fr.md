@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76396 Harry Potter Poudlard : Le Cours De Divination  Livre  Jouet à Collectionner  Minifigurine Professeur Trelawney  pour Filles et Garçons'
-date: 2022-11-24 23:27:29
+date: 2022-11-26 00:18:59
 image: 'https://m.media-amazon.com/images/I/51OZZh282rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNWL9LQ/?tag=tolees0d-21'
 descuento: '33.64'
-average: '20.1303225806453'
+average: '20.1231250000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
