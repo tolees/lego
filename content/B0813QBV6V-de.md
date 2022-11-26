@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Spielzeug kompatibel mit der Großen Halle von Hogwarts und der Peitschenden Weide'
-date: 2022-11-17 15:59:02
+date: 2022-11-26 19:53:54
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0813QBV6V-de LEGO 75969 Harry Potter Astronomieturm auf Schloss...'
 sku: 'B0813QBV6V-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 59.99 EUR
+actualPrice: 83.7 EUR
 currency: EUR
-price: 59.99
+price: 83.7
 comparePrice: 99.99 EUR
 prodname: 'LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Spielzeug kompatibel mit der Großen Halle von Hogwarts und der Peitschenden Weide'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21'
-descuento: '40.00'
-average: '76.4403283582087'
+descuento: '16.29'
+average: '76.5693648449038'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
