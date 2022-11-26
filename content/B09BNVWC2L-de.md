@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60348 City Mond-Rover Weltraum-Spielzeug mit Astronauten-Minifiguren aus der LEGO NASA Serie  für Kinder ab 6 Jahre'
-date: 2022-11-25 13:04:40
+date: 2022-11-26 18:35:37
 image: 'https://m.media-amazon.com/images/I/512xSEgdMfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNVWC2L-de LEGO 60348 City Mond-Rover Weltraum-Spielzeug mit...'
 sku: 'B09BNVWC2L-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 23.99 EUR
+actualPrice: 24.99 EUR
 currency: EUR
-price: 23.99
+price: 24.99
 comparePrice: 34.99 EUR
 prodname: 'LEGO 60348 City Mond-Rover Weltraum-Spielzeug mit Astronauten-Minifiguren aus der LEGO NASA Serie  für Kinder ab 6 Jahre'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVWC2L/?tag=tolees0ca-21'
-descuento: '31.44'
-average: '20.8577165354328'
+descuento: '28.58'
+average: '20.8899999999997'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
