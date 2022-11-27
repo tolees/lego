@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60315 City Police Mobile Command Truck Toy with Prison Trailer  Drone  Tractor and ATV Car Toys plus 4 Minfigures  Festive Presents for Kids Age 6 Plus'
-date: 2022-11-25 12:46:26
+date: 2022-11-27 12:52:01
 image: 'https://m.media-amazon.com/images/I/519Uz+d-FRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNVM6JF/?tag=tolees0a-21'
 descuento: '38.76'
-average: '25.893'
+average: '25.8261904761905'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - LEGO City Adventures police and vehicle toys make fab birthday presents or Christmas gifts for 6 plus year old boys and girls
 - Kids can shoot egg-splat elements from the tractors trailer, activate the jailbreak function and tilt the ATV to steer it in all directions
+- Comes with lots of fun accessories for imaginative play, including a toy drone remote control, handcuffs and egg elements
 - Features a toy police pickup with office and jail cell in the trailer, drone, ATV, and a tractor with a trailer containing an egg launcher!
 - This LEGO police set includes 3 LEGO City TV characters: Duke DeTain, Gracie Goodhart and Snake Rattler, plus a crook minifigure
 - This LEGO truck toy prompts funny stories when an egg covers the windshield as the wall gets ripped right out of the mobile jail
-- Comes with lots of fun accessories for imaginative play, including a toy drone remote control, handcuffs and egg elements
 
 [🛒 Check the deal!!]({{< param buyurl >}})
