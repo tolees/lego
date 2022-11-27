@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Big Urchin Beach Ride Expansion Set 71400 Building Kit; Collectible Toy for Kids Aged 7 and up  536 Pieces '
-date: 2022-11-26 00:14:10
+date: 2022-11-27 00:32:33
 image: 'https://m.media-amazon.com/images/I/51OCktz0Y-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B09FMP6GZL/?tag=tolees-20'
 descuento: '32.51'
-average: '43.9011111111111'
+average: '43.56'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bridge with ‘leaping’ Cheep Cheeps – Jump up and down on the bridge to make the Cheep Cheeps ‘leap’ and stomp on them to collect digital coins
-- Action-packed, buildable beach level – Take the LEGO Super Mario action to the beach with the Big Urchin Beach Ride Expansion Set (71400) for solo or social play
 - Toy building set for ages 7 and up – Give this 536-piece set as a holiday gift or treat to trendsetting kids who own a LEGO Super Mario Starter Course (71360 or 71387), which is needed for play
-- High-diving, dolphin-riding fun – A springboard to perform dives and a roller coaster to shake the Super Star Block out of the palm tree and topple the Big Urchin
 - 5 LEGO Super Mario toy figures – Yellow Yoshi, a Big Urchin, 2 Cheep Cheeps, and a Dolphin for LEGO Mario or LEGO Luigi (figures not included) to ride on
+- Action-packed, buildable beach level – Take the LEGO Super Mario action to the beach with the Big Urchin Beach Ride Expansion Set (71400) for solo or social play
+- Bridge with ‘leaping’ Cheep Cheeps – Jump up and down on the bridge to make the Cheep Cheeps ‘leap’ and stomp on them to collect digital coins
+- High-diving, dolphin-riding fun – A springboard to perform dives and a roller coaster to shake the Super Star Block out of the palm tree and topple the Big Urchin
 
 [🛒 Check the deal!!]({{< param buyurl >}})

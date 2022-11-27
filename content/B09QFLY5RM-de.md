@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60354 City Erkundungsmissionen im Weltraum  interaktives digitales Abenteuerspielset mit Raumschiff und 3 Minifiguren  Spielzeug ab 6 Jahre'
-date: 2022-11-26 00:24:42
+date: 2022-11-27 00:38:33
 image: 'https://m.media-amazon.com/images/I/51WBAEAwPgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Interaktive LEGO City Missions Spielsets erfordern ein Smartphone oder Tablet mit der kostenlosen LEGO Building Instructions App
-- Enthält 3 Minifiguren und alle LEGO Teile, die Kinder brauchen, um ein Raumschiff für ihre Missionen zu bauen und Bauherausforderungen ohne Anleitung zu meistern
-- Mit diesem interaktiven LEGO City Set “Erkundungsmissionen im Weltraum” führen Kinder digitale Abenteuer mit LEGO Steinen aus, um Missionen auf dem Bildschirm zu lösen
-- Enthält 3 LEGO City - Abenteuer Minifiguren in Raumanzügen mit Helmen: Astronaut Lieutenant Jamie, ein Roboterhund, 2 Asteroiden und eine Marslandschaft
-- Kinder haben eine tolle Auswahl an Charakteren und lernen, während sie spielen, indem sie ihr cooles Raumschiff mit echten LEGO Steinen bauen und spannende Herausforderungen meistern
-- Jede Menge LEGO Zubehör für spannende Missionen: Metallsuchgerät, Luftdruckhammer, Laserschweißgerät, Feuerlöscher, Netz, Banane und Putenkeule
+- Features a toy metal detector, pneumatic hammer, laser welder, spanner, fire extinguisher, net, cup, banana and turkey drumstick accessories
+- Includes 3 LEGO City astronaut minifigures in spacesuits with helmets: Astronaut Lieutenant Jamie, robo-dog figure, 2 asteroids and Mars setting
+- Includes 3 LEGO City minifigures and all the LEGO pieces kids need to build a toy spaceship and solve paper-free, digital building challenges
+- LEGO City missions playsets help kids develop creative skills and make great birthday or Christmas gifts for 6 plus year old boys and girls
+- Kids meet a fun lineup of characters and learn as they play by using real LEGO bricks to customise a spacecraft and complete fun on-screen challenges
+- With this LEGO City Mars Missions interactive adventure set, kids lead digital adventures using real LEGO bricks to complete on-screen missions
+- LEGO City Missions interactive sets require a smartphone or tablet with the free LEGO Building Instructions app (printed instructions not included)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
