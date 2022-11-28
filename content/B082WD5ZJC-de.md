@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Im Set LEGO Marvel Super Heroes In Arishems Schatten haben Kinder 4 Eternals, um die Deviant-Figur zu besiegen
-- Als Zubehör gibt es 2 Dolche, ein Schwert, 2 Mini Shooter und eine Klinge für endloses kreatives Rollenspiel und actiongeladenen Spaß
-- Batterien für den Leuchtstein sind enthalten, sodass junge Superhelden direkt starten und mit dem Rollenspiel beginnen können
+- Für noch mehr actiongeladenen Spaß und kreatives Rollenspiel kannst du die Superhelden-Spielsets der Reihe LEGO Marvel The Eternals kombinieren
 - Enthält 4 Eternals-Superhelden-Minifiguren: Ikaris, Sersi und exklusiv Ajak and Kingo, eine Deviant-Figur und eine bewegliche Celestial-Figur
 - Das Kinderspielzeug ab 7 Jahren ist ein großartiges Weihnachts- oder Geburtstagsgeschenk für Marvel-Fans ab 7 Jahren und sieht auch als Dekoration im Kinderzimmer fantastisch aus
-- Für noch mehr actiongeladenen Spaß und kreatives Rollenspiel kannst du die Superhelden-Spielsets der Reihe LEGO Marvel The Eternals kombinieren
+- Als Zubehör gibt es 2 Dolche, ein Schwert, 2 Mini Shooter und eine Klinge für endloses kreatives Rollenspiel und actiongeladenen Spaß
+- Im Set LEGO Marvel Super Heroes In Arishems Schatten haben Kinder 4 Eternals, um die Deviant-Figur zu besiegen
 - Die große Celestial-Figur hat eine leuchtende Brust mit einem Leuchtstein und Arme, die zugreifen können – sie kann eine Eternal-Minifigur in ihren Händen halten
+- Batterien für den Leuchtstein sind enthalten, sodass junge Superhelden direkt starten und mit dem Rollenspiel beginnen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})

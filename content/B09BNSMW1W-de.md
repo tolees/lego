@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Für noch mehr rasante Action kann das Spider-Man-Spielzeug zum Bauen mit anderen LEGO Marvel Sets aus der Serie „Spider-Man und seine außergewöhnlichen Freunde“kombiniert werden
 - Das Zubehör umfasst einen Kürbisbomben-Trick, eine Pizza, eine Gitarre, 2 Netze mit Fäden, einen Pinsel, eine Farbpalette und einen Ball für stundenlangen Spielspaß
-- Inklusive 5 LEGO Marvel Super Heroes Figuren: Spider-Man, Ghost-Spider, Miles Morales, Ms. Marvel und den Superschurken Green Goblin
+- Für noch mehr rasante Action kann das Spider-Man-Spielzeug zum Bauen mit anderen LEGO Marvel Sets aus der Serie „Spider-Man und seine außergewöhnlichen Freunde“kombiniert werden
 - Dieses LEGO Marvel Spider-Man-Set für Kinder ab 4 Jahren umfasst 2 Rutschen, einen Basketballkorb, Lautsprecher, ein Portrait von Spider-Man und viel Platz für Freizeit-Aktivitäten
+- Inklusive 5 LEGO Marvel Super Heroes Figuren: Spider-Man, Ghost-Spider, Miles Morales, Ms. Marvel und den Superschurken Green Goblin
 - Enthält einen LEGO Superhelden-Freizeittreff, das Spider-Man-Hauptquartier in Form einer riesigen Spinne, sowie Ghost Copter und das 2-in1-Goblin-Auto
 
 [🛒 Buy it!!]({{< param buyurl >}})
