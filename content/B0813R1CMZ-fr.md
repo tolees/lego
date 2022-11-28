@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Que contient la boîte ? Un bateau d’exploration flottant, avec une grue qui fonctionne, une cage à requins, un canot de sauvetage, un sous-marin, un hélicoptère, 8 figurines, dont Harl Hubbs, le personnage de la série télévisée LEGO City, un requin et une raie.
-- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche.
 - Le bateau d’exploration océanique
 - Âge recommandé par le fabricant: 7+
+- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche.
 - Nombre de pièces: 745
 
 [🛒 Buy it!!]({{< param buyurl >}})
