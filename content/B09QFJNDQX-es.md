@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A medida que la Navidad se acerca, los niños podrán mezclar los pequeños juguetes para recrear sus escenas favoritas de las películas de Marvel o crear sus propias aventuras y combinarlos con otros sets LEGO Marvel
+- Incluye 6 mini figuras LEGO Marvel incluidos Star-Lord, Rocket, Groot y Mantis, además de mini construcciones y accesorios de las películas de Guardianes de la Galaxia
 - Este Calendario de Adviento de LEGO es un fantástico regalo pre-Navideño para niños y jóvenes superhéroes de 6 años en adelante fans de Guardianes de la Galaxia y Marvel, ¡podrán jugar todo el año!
+- A medida que la Navidad se acerca, los niños podrán mezclar los pequeños juguetes para recrear sus escenas favoritas de las películas de Marvel o crear sus propias aventuras y combinarlos con otros sets LEGO Marvel
 - El Calendario de Adviento LEGO Marvel Guardianes de la Galaxia de 2022 contiene una increíble variedad de sorpresas detrás de cada ventana con las que los niños podrán hacer la cuenta atrás hasta la Navidad
 - Entre los 24 juguetes de Navidad de este calendario infantil se incluye un dron, un blaster, la nave espacial de los Guardianes, un muñeco de nieve con la armadura de Thanos, ¡y muchas cosas más!
-- Incluye 6 mini figuras LEGO Marvel incluidos Star-Lord, Rocket, Groot y Mantis, además de mini construcciones y accesorios de las películas de Guardianes de la Galaxia
 
 [🛒 Check the deal!!]({{< param buyurl >}})
