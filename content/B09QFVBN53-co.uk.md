@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60340 City Stuntz The Blade Stunt Challenge Set  Stocking Filler Idea with Flywheel-Powered Toy Motorbike and 2 Racer Minifigures  Action Gifts  Toys for Boys & Girls Age 5 Plus'
-date: 2022-11-27 00:34:11
+date: 2022-11-28 01:52:07
 image: 'https://m.media-amazon.com/images/I/512Ton7mB1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFVBN53/?tag=tolees0a-21'
 descuento: '44.41'
-average: '12.1633333333333'
+average: '11.6225'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This set can easily be combined with other LEGO city stuntz toys like 60341 The Shark Attack Stunt Challenge for even more stunt action fun
-- This LEGO City Stuntz playset with stunt bike comes with an easy-to-follow pictorial building guide so kids can build with confidence
-- Kids can set the scene for fun stunt displays with this LEGO City The Blade Stunt Challenge set, featuring a flywheel-powered toy motorbike
-- Kids activate the flywheel-powered LEGO stunt racer bike to crash through the barriers and activate the dropping blades function for fun shows
 - LEGO City Stuntz The Blade Stunt Challenge Motorbike Toy is an ideal birthday, Christmas or any-time gift for 5 plus year old boys and girls
 - Accessories include toy megaphone, guitar, speakers and helmet accessories to role-play awesome stunt show scenarios and competitions
+- This LEGO City Stuntz playset with stunt bike comes with an easy-to-follow pictorial building guide so kids can build with confidence
+- Kids can set the scene for fun stunt displays with this LEGO City The Blade Stunt Challenge set, featuring a flywheel-powered toy motorbike
+- This set can easily be combined with other LEGO city stuntz toys like 60341 The Shark Attack Stunt Challenge for even more stunt action fun
 - Toy for 5 plus year old boys and girls features 2 minifigures: LEGO City Adventures TV series character Shirley Keeper and the awesome Stuntz rider
+- Kids activate the flywheel-powered LEGO stunt racer bike to crash through the barriers and activate the dropping blades function for fun shows
 
 [🛒 Buy it now!!]({{< param buyurl >}})

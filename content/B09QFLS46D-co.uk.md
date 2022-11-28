@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75323 Star Wars The Justifier  Buildable Toy Starship with Cad Bane Minifigure and Todo 360 Droid Figure  The Bad Batch Set  Festive Gifts for Boys & Girls'
-date: 2022-11-25 12:54:07
+date: 2022-11-28 01:51:58
 image: 'https://m.media-amazon.com/images/I/510aWmnxo6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Star Wars The Justifier buildable toy starship makes a fantastic Christmas gift or birthday present for 9 plus year old boys and girls
 - With this LEGO Star Wars set, kids help Omega break out of the laser jail cell with help from droid Todo 360, and team up with Hunter to get away
-- Features a LEGO Star Wars buildable toy starship, 4 minifigures plus a droid figure to role-play scenes from Star Wars: The Bad Batch Season 2
-- The toy Justifier starship has a detailed, easy-to-access minifigure cockpit and the rear engine folds up and down for flight and landing modes
-- Realistic features include: laser cell, 2 thermal detonator elements, spring-loaded shooters on the wingtips and spare ammo in the wing
 - Includes Cad Bane, Omega, Fennec Shand and Hunter LEGO Star Wars minifigures, plus a Todo 360 droid figure, blaster pistols, a knife and handcuffs
+- Realistic features include: laser cell, 2 thermal detonator elements, spring-loaded shooters on the wingtips and spare ammo in the wing
+- The toy Justifier starship has a detailed, easy-to-access minifigure cockpit and the rear engine folds up and down for flight and landing modes
+- Features a LEGO Star Wars buildable toy starship, 4 minifigures plus a droid figure to role-play scenes from Star Wars: The Bad Batch Season 2
+- LEGO Star Wars The Justifier buildable toy starship makes a fantastic Christmas gift or birthday present for 9 plus year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
