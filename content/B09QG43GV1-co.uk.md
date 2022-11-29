@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76403 Harry Potter The Ministry of Magic Modular Model Building Toy with 12 Minifigures and Transformation Feature  Collectible Wizarding World Xmas Gifts for Girls & boys'
-date: 2022-11-25 13:00:35
+date: 2022-11-29 19:44:10
 image: 'https://m.media-amazon.com/images/I/51FjOohMOrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QG43GV1-co.uk LEGO 76403 Harry Potter The Ministry of Magic Modular...'
 sku: 'B09QG43GV1-co.uk'
 tags: [ 'Building & Construction Toys','Buildings & Scenery for Kids Play Figures & Vehicles','Kids Play Castles','Kids Play Figures','Toy Building Sets','Toys','Toys & Games','lego','🇬🇧', ]
-actualPrice: 65.99 GBP
+actualPrice: 57.99 GBP
 currency: GBP
-price: 65.99
+price: 57.99
 comparePrice: 89.99 GBP
 prodname: 'LEGO 76403 Harry Potter The Ministry of Magic Modular Model Building Toy with 12 Minifigures and Transformation Feature  Collectible Wizarding World Xmas Gifts for Girls & boys'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QG43GV1/?tag=tolees0a-21'
-descuento: '26.67'
-average: '59.3127272727273'
+descuento: '35.56'
+average: '59.2552173913044'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- This ‘living model’ large LEGO modular building can be easily reconfigured for endless new adventures & is a great home décor piece on display
+- This LEGO Harry Potter modular set also includes Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley and Dementor minifgures
+- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
+- First-of-its-kind Harry Potter playset makes a magical Wizarding World Christmas Gift or birthday Present for 9 plus year old girls and boys
 - 12 Minifigures including Harry Potter, Hermione Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole, all with wands
 - Accessories include a red phone box, stacks of the Daily Prophet newspaper, Patronus cat, 2 decoy detonators and the Slytherin locket Horcrux
 - The first LEGO Harry Potter set to feature Ministry of Magic, with Dolores Umbridge & Arthur Weasleys offices, Hall of Prophecy and Court Room
-- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
-- This LEGO Harry Potter modular set also includes Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley and Dementor minifgures
-- First-of-its-kind Harry Potter playset makes a magical Wizarding World Christmas Gift or birthday Present for 9 plus year old girls and boys
-- This ‘living model’ large LEGO modular building can be easily reconfigured for endless new adventures & is a great home décor piece on display
 
 [🛒 Buy it now!!]({{< param buyurl >}})
