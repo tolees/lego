@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71409 Super Mario Maxi-Spikes Wolken-Challenge – Erweiterungsset  Spielzeug Set mit 3 Gegner Figuren inkl. Bumerang-Bruder und Piranha-Pflanze'
-date: 2022-11-28 01:56:13
+date: 2022-11-29 12:13:04
 image: 'https://m.media-amazon.com/images/I/51UNgJRsJqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFWNZJH-de LEGO 71409 Super Mario Maxi-Spikes Wolken-Challenge –...'
 sku: 'B09QFWNZJH-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 44.99 EUR
+actualPrice: 44.0 EUR
 currency: EUR
-price: 44.99
+price: 44.0
 comparePrice: 69.99 EUR
 prodname: 'LEGO 71409 Super Mario Maxi-Spikes Wolken-Challenge – Erweiterungsset  Spielzeug Set mit 3 Gegner Figuren inkl. Bumerang-Bruder und Piranha-Pflanze'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFWNZJH/?tag=tolees0ca-21'
-descuento: '35.72'
-average: '45.6163636363636'
+descuento: '37.13'
+average: '45.4816666666666'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Als nächstes können sie die orangen Pilztrampoline nutzen, um an den Bumerang-Bruder heranzukommen, sich Superstern-Kraft holen und auf die Wippe springen, um die Piranha-Pflanze zu besiegen
-- Mit der Begleit-App von LEGO Super Mario können Kinder noch mehr Super Mario Spaß freischalten – mit Bauanleitungen, kreativer Inspiration und mehr; eine Liste kompatibler Android- und iOS-Geräte findet man unter LEGO.com/devicecheck
-- Mit diesem LEGO Super Mario baubarem Spielzeug können Kinder ihre Super Mario Sammlung erweitern; LEGO Super Mario Startersets (71360, 71387 oder 71403) werden zum Spielen benötigt
-- Spieler verdienen digitale Münzen indem sie den LEGO Mario, LEGO Luigi oder LEGO Peach Figuren (nicht enthalten) helfen der Stachelwalze auszuweichen, die der Maxi-Spike wirft
 - Dieses LEGO Super Mario Erweiterungsset enthält 3 beliebte Gegner; Maxi-Spike, ein Bumerang-Bruder und eine Piranha-Pflanze für neue Herausforderungen in der Luft
+- Mit der Begleit-App von LEGO Super Mario können Kinder noch mehr Super Mario Spaß freischalten – mit Bauanleitungen, kreativer Inspiration und mehr; eine Liste kompatibler Android- und iOS-Geräte findet man unter LEGO.com/devicecheck
+- Spieler verdienen digitale Münzen indem sie den LEGO Mario, LEGO Luigi oder LEGO Peach Figuren (nicht enthalten) helfen der Stachelwalze auszuweichen, die der Maxi-Spike wirft
+- Als nächstes können sie die orangen Pilztrampoline nutzen, um an den Bumerang-Bruder heranzukommen, sich Superstern-Kraft holen und auf die Wippe springen, um die Piranha-Pflanze zu besiegen
+- Mit diesem LEGO Super Mario baubarem Spielzeug können Kinder ihre Super Mario Sammlung erweitern; LEGO Super Mario Startersets (71360, 71387 oder 71403) werden zum Spielen benötigt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
