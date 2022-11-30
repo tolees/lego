@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Forest toy includes 2 mini-dolls and a LEGO Friends Ava micro-doll, plus a raccoon figure. It also comes with a separate kayaking scene to extend the play
+- LEGO Friends Forest House (41679) lets kids get lost in a world of tranquil woodland living and wildlife play with LEGO Friends Mia and her family
+- There’s loads to help kids’ imaginations roam free. They can get cozy in the bedroom, hang out in the outdoor lounge and take snaps of the wildlife. There’s even a toilet for the characters to use!
 - Measuring over 7 in. (18 cm) high, 7 in. (19 cm) wide and 4 in. (11 cm) deep, this nature gift for kids takes up little room so it can be kept out ready for play
 - Nature-loving kids aged 6+ will go wild for this forest retreat model. It’s the perfect holiday or birthday gift or just-because present for little explorers who love immersive play
-- There’s loads to help kids’ imaginations roam free. They can get cozy in the bedroom, hang out in the outdoor lounge and take snaps of the wildlife. There’s even a toilet for the characters to use!
-- LEGO Friends Forest House (41679) lets kids get lost in a world of tranquil woodland living and wildlife play with LEGO Friends Mia and her family
+- Forest toy includes 2 mini-dolls and a LEGO Friends Ava micro-doll, plus a raccoon figure. It also comes with a separate kayaking scene to extend the play
 
 [🛒 Buy it!!]({{< param buyurl >}})

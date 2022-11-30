@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Les enfants samuseront beaucoup à tondre les moutons avec laccessoire ; avec le tuyau, ils peuvent nettoyer les animaux et nettoyer le fumier !
-- Cet ensemble LEGO pour les 4 ans et plus est livré avec des briques pour débutants et des instructions numériques et imprimées avec des images pour une expérience dassemblage amusante et interactive
-- Ce jouet de ferme comprend une grange à construire, un jouet de tracteur avec remorque et des outils tels quune pelle, des cisailles, une fourche, un balai et un arrosoir
+- Comprend 4 minifigurines, dont Peach de la série télévisée LEGO City, plus les figurines dune vache, dun écureuil, dun mouton, dun agneau, dun cochon et dun porcelet
 - Combinez-le avec dautres jouets de la ferme LEGO City Farm tels que le camion de marché des fermiers (60345) ou encore le poulailler (60344)
 - Passez une super journée à la ferme avec ce jouet LEGO City qui comprend de nombreux animaux de la ferme et une grange pleine daccessoires amusants
-- Comprend 4 minifigurines, dont Peach de la série télévisée LEGO City, plus les figurines dune vache, dun écureuil, dun mouton, dun agneau, dun cochon et dun porcelet
+- Cet ensemble LEGO pour les 4 ans et plus est livré avec des briques pour débutants et des instructions numériques et imprimées avec des images pour une expérience dassemblage amusante et interactive
 - Les enfants peuvent utiliser le treuil de la grange pour charger la remorque du tracteur, ouvrir le toit pour accéder au grenier à foin et s’amuser à prendre soin des animaux
+- Les enfants samuseront beaucoup à tondre les moutons avec laccessoire ; avec le tuyau, ils peuvent nettoyer les animaux et nettoyer le fumier !
+- Ce jouet de ferme comprend une grange à construire, un jouet de tracteur avec remorque et des outils tels quune pelle, des cisailles, une fourche, un balai et un arrosoir
 
 [🛒 Buy it now!!]({{< param buyurl >}})

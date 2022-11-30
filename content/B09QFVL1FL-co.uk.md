@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO City food shop toy playset features a toy supermarket, EV car and a forklift truck with a lifting function plus a LEGO road plate
-- This supermarket playset is a great birthday or holiday gift for boys and girls aged 6 years old and fans of LEGO City Adventures TV series
-- Comes with an easy-to-follow building guide so kids can choose to construct their own LEGO toys or join friends and family
-- Easily connects to other LEGO city sets with the road plate; also features a shopping trolley and shopping list, fruit, veggies and flowers
 - Includes 5 minifigures: LEGO City Adventures TV series character Mr. Produce, a sign holder in a pea pod costume, a shop worker and 2 customers
+- Comes with an easy-to-follow building guide so kids can choose to construct their own LEGO toys or join friends and family
 - Kids can transport crates with the toy forklift truck, display produce, load the recycling container or even work on the fish counter
+- This supermarket playset is a great birthday or holiday gift for boys and girls aged 6 years old and fans of LEGO City Adventures TV series
+- Easily connects to other LEGO city sets with the road plate; also features a shopping trolley and shopping list, fruit, veggies and flowers
+- This LEGO City food shop toy playset features a toy supermarket, EV car and a forklift truck with a lifting function plus a LEGO road plate
 
 [🛒 Buy it!!]({{< param buyurl >}})

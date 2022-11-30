@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71765 NINJAGO Ultrakombi-Ninja-Mech  4-in-1-Spielzeug ab 9 Jahren mit Spielzeugauto  Jet und Panzer  Geschenk zu Weihnachten mit Fahrzeugen und 7 Figuren'
-date: 2022-11-28 13:14:05
+date: 2022-11-30 09:34:23
 image: 'https://m.media-amazon.com/images/I/51mDr1RzcxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BP6XRMC-de LEGO 71765 NINJAGO Ultrakombi-Ninja-Mech 4-in-1-Spielzeug...'
 sku: 'B09BP6XRMC-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 54.9 EUR
+actualPrice: 62.81 EUR
 currency: EUR
-price: 54.9
+price: 62.81
 comparePrice: 99.99 EUR
 prodname: 'LEGO 71765 NINJAGO Ultrakombi-Ninja-Mech  4-in-1-Spielzeug ab 9 Jahren mit Spielzeugauto  Jet und Panzer  Geschenk zu Weihnachten mit Fahrzeugen und 7 Figuren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BP6XRMC/?tag=tolees0ca-21'
-descuento: '45.09'
-average: '64.0610416666666'
+descuento: '37.18'
+average: '64.0355102040816'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Die LEGO NINJAGO Spielzeuge, Figuren und Spielzeugautos sind außerdem fantastische Weihnachtsgeschenke für Kinder ab 9 Jahren, die sich für Ninja-Kämpfe und Fahrzeuge begeistern
-- Der Ultrakombi-Ninja-Mech aus 4 verschiedenen Fahrzeugen ist die ultimative Kampfmaschine, mit der kleine Helden Ninja-Geschichten erleben können
-- Halte Ausschau nach weiteren Bannern in den 7 anderen NINJAGO Sets, darunter Lloyds legendärer Drache (71766), Jays und Nyas Rennwagen EVO (71776) und der Ninja-Dojotempel (71767)
 - Allein sind die Ninjas keine Gegner für den Kobra-Mechaniker und Boa Destructor, doch gemeinsam können sie die Oberhand gewinnen!
-- Für das Erfüllen der Mission werden die Kinder mit einem Teamwork-Banner zum Sammeln belohnt.
-- Dieses 4-in-1 LEGO NINJAGO Set enthält eine Actionfigur, die aus einem Mech, einem Auto, einem Panzer und einem Jet besteht, mit denen separat gespielt werden kann
+- Der Ultrakombi-Ninja-Mech aus 4 verschiedenen Fahrzeugen ist die ultimative Kampfmaschine, mit der kleine Helden Ninja-Geschichten erleben können
 - Inklusive 7 LEGO NINJAGO Figuren: Kai, Jay, Zane, Cole, dem fiesen Schlangen-Duo Kobra-Mech und Boa-Jäger sowie Wubot
+- Für das Erfüllen der Mission werden die Kinder mit einem Teamwork-Banner zum Sammeln belohnt.
+- Halte Ausschau nach weiteren Bannern in den 7 anderen NINJAGO Sets, darunter Lloyds legendärer Drache (71766), Jays und Nyas Rennwagen EVO (71776) und der Ninja-Dojotempel (71767)
+- Dieses 4-in-1 LEGO NINJAGO Set enthält eine Actionfigur, die aus einem Mech, einem Auto, einem Panzer und einem Jet besteht, mit denen separat gespielt werden kann
 
 [🛒 Check the deal!!]({{< param buyurl >}})

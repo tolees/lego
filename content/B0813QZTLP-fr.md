@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Les enfants peuvent livrer des marchandises, construire une tour, dégager des déchets et, à lheure du déjeuner, il y a même un stand de hot-dogs sur place !
 - Un ensemble varié et plein de surprises avec un jouet grue à tour et 4 véhicules : gros bulldozer, mini-bulldozer, camion à ordures et une pelleteuse jouet
-- Ce jouet pour enfants 2-5 ans comprend 15 accessoires différents permettent aux petits constructeurs de simuler différents scénarios
 - Comprend de nombreuses fonctions sympas, comme les briques lumineuses et sonores qui donnent vie au site animé, et le moteur à friction Push & Go du bulldozer
 - Comprend 5 figurines DUPLO : une peintre et une grutière, 2 ouvriers du bâtiment et un vendeur de hotdog, ainsi quune figurine de chat
+- Ce jouet pour enfants 2-5 ans comprend 15 accessoires différents permettent aux petits constructeurs de simuler différents scénarios
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31123 Creator 3-in-1 Geländebuggy  Quad  Kompaktlader  Spielzeug-Fahrzeuge für Kinder ab 7 Jahre  Bagger  Spielzeugauto'
-date: 2022-11-28 01:51:54
+date: 2022-11-30 09:34:03
 image: 'https://m.media-amazon.com/images/I/51B7ji-L-EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVCYH9/?tag=tolees0ca-21'
 descuento: '34.22'
-average: '10.3604545454546'
+average: '10.338695652174'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
