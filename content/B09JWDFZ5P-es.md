@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Con su funcional soporte, este modelo de moto LEGO se puede exhibir en el hogar o en la oficina para crear tu propio tributo a Vespa
+- Empaque sostenible, reducción de residuos y 100% reciclable
+- Es de color azul pastel, uno de los colores de producción originales de Vespa y un color LEGO extremadamente raro diseñado para atraer a todos los fans de LEGO
+- Este coleccionable LEGO para adultos también incluye un casco y una cesta de accesorios con un ramo de flores
 - Para celebrar el 75.º aniversario de Vespa, los diseñadores de LEGO trabajaron con el equipo de Piaggio para crear una atrayente pieza de la cultura italiana
+- Construye tu propio modelo de exhibición de una icónica moto italiana con esta maqueta de construcción para adultos LEGO Vespa 125 con dos asientos
 - Esta moto Vespa de LEGO cuenta una rueda delantera montada a un lado, una cubierta de motor extraíble con un motor de ladrillo debajo, y una dirección que funciona
 - Los toques finales incluyen el logotipo de Vespa, una placa de matrícula de moto italiana clásica de los años 60, una rueda de repuesto y una pata de cabra
-- Este coleccionable LEGO para adultos también incluye un casco y una cesta de accesorios con un ramo de flores
-- Es de color azul pastel, uno de los colores de producción originales de Vespa y un color LEGO extremadamente raro diseñado para atraer a todos los fans de LEGO
-- Construye tu propio modelo de exhibición de una icónica moto italiana con esta maqueta de construcción para adultos LEGO Vespa 125 con dos asientos
-- Empaque sostenible, reducción de residuos y 100% reciclable
-- Con su funcional soporte, este modelo de moto LEGO se puede exhibir en el hogar o en la oficina para crear tu propio tributo a Vespa
 
 [🛒 Buy it now!!]({{< param buyurl >}})
