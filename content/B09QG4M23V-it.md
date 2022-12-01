@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Il set è fornito di chiare istruzioni cartacee insieme allapplicazione LEGO Building Instructions, con cui i bambini possono costruire la barca a vela in modo divertente e interattivo
-- Questa barca giocattolo LEGO Friends è unidea regalo creativa per il Natale o per il compleanno, per i bambini dai 7 anni in su che amano la vela, i giochi estivi e le avvenute in mare
-- I bambini costruiscono la barca a vela Hope, pronti per guidarla sotto la supervisione esperta del capitano Maxine, nel tentativo di battere il record mondiale di navigazione intorno al globo
-- Include 3 mini bamboline, Stephanie, Maxine ed Elijah, in tenuta da marinaio, e accessori come un tablet, un walkie talkie, un binocolo giocattolo, un drone e 3 giubbotti salvagente
 - Questo set con barca a vela da costruire offre tanti spunti per il gioco creativo, e comprende una barca giocattolo con vela elastica, un check point con palma e 3 mini bamboline LEGO Friends
+- Il set è fornito di chiare istruzioni cartacee insieme allapplicazione LEGO Building Instructions, con cui i bambini possono costruire la barca a vela in modo divertente e interattivo
+- I bambini costruiscono la barca a vela Hope, pronti per guidarla sotto la supervisione esperta del capitano Maxine, nel tentativo di battere il record mondiale di navigazione intorno al globo
+- Questa barca giocattolo LEGO Friends è unidea regalo creativa per il Natale o per il compleanno, per i bambini dai 7 anni in su che amano la vela, i giochi estivi e le avvenute in mare
+- Include 3 mini bamboline, Stephanie, Maxine ed Elijah, in tenuta da marinaio, e accessori come un tablet, un walkie talkie, un binocolo giocattolo, un drone e 3 giubbotti salvagente
 
 [🛒 Check the deal!!]({{< param buyurl >}})
