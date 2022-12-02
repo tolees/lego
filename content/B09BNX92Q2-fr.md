@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76398 Harry Potter L’Infirmerie De Poudlard  Château et Tour de l horloge  Jouet à Construire Prisonnier d Azkaban  avec Minifigure Ron Weasley'
-date: 2022-11-30 08:49:33
+date: 2022-12-02 09:19:26
 image: 'https://m.media-amazon.com/images/I/51-WOzX7YOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNX92Q2/?tag=tolees0d-21'
 descuento: '34.19'
-average: '34.0161538461538'
+average: '33.9364285714286'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Comprend les minifigures LEGO Harry Potter, Hermione Granger, Ron Weasley et Madame Pomfrey, et 2 briques de cartes de sorciers aléatoires à collectionner (16 au total)
 - Les apprentis sorciers peuvent moduler la tour de lhorloge et voyager dans le temps avec le retourneur de Temps pour une autre aventure toute autant magique !
+- Comprend une aile dhôpital et une tour de lhorloge Harry Potter à construire avec des accessoires authentiques inspirés du film dHarry Potter et le Prisonnier dAzkaban
 - Les enfants peuvent recréer la scène emblématique du voyage dans le temps de laile de lhôpital et soigner les blessures à linfirmerie afin de créer leurs propres histoires
 - Ce jouet à construire Harry Potter pour les enfants de 8 ans et plus fait partie dune série densembles modulaires qui se combinent pour créer un jouet LEGO complet du château de Poudlard
-- Comprend une aile dhôpital et une tour de lhorloge Harry Potter à construire avec des accessoires authentiques inspirés du film dHarry Potter et le Prisonnier dAzkaban
 
 [🛒 Buy it!!]({{< param buyurl >}})
