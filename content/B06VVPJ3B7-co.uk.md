@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes uniquely decorated LEGO Technic 40th anniversary brick
+- Rebuilds into a Mobile Base Vehicle
+- 2,382 pieces – For boys and girls between the ages 11 to 16
 - Build your own Extreme Adventure vehicle, featuring four high-grip tracks with working suspension, upswing doors with lowering running board function, a lockable tailgate, working winch, front steering, opening hood and a V8 engine with moving pistons!
 - LEGO Technic toys are compatible with all LEGO construction sets for creative building
-- Rebuilds into a Mobile Base Vehicle
 - Extreme Adventure (with roof raised and doors open) measures over 30cm high, 44cm long and 25cm wide, and 26cm high and 24cm wide with roof lowered and doors closed. Mobile Base Vehicle measures over 19cm high, 47cm long and 20cm wide
-- 2,382 pieces – For boys and girls between the ages 11 to 16
+- Includes uniquely decorated LEGO Technic 40th anniversary brick
 
 [🛒 Buy it!!]({{< param buyurl >}})
