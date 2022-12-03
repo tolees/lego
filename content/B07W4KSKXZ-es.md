@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este camión de juguete permite a niños y niñas disfrutar de toda la diversión de un soleado día de verano gracias al acceso sencillo al interior de la furgoneta
-- Este alucinante camión de los helados es un fantástico regalo de cumpleaños o Navidad para niños y niñas de 5 años en adelante amantes del verano y los juegos imaginativos
-- Incluye un colorido camión de helados con divertidas pegatinas, cabina de conductor extraíble y puertas laterales que se abren completamente
-- La guía digital Instructions PLUS, disponible en la app gratuita para dispositivos inteligentes, ayuda a los niños a visualizar, acercar y girar su juego mientras lo construyen
-- Los peques podrán ayudar a conducir el camión, servir cucuruchos y polos desde la ventanilla y ayudar a que el patinador complete alucinantes piruetas
 - Incluye 2 mini figuras LEGO y la figura de un perrito de juguete, además de un muchos estupendos accesorios como un polo, un cucurucho, casco de seguridad y un billete verde
+- Este alucinante camión de los helados es un fantástico regalo de cumpleaños o Navidad para niños y niñas de 5 años en adelante amantes del verano y los juegos imaginativos
+- La guía digital Instructions PLUS, disponible en la app gratuita para dispositivos inteligentes, ayuda a los niños a visualizar, acercar y girar su juego mientras lo construyen
+- Incluye un colorido camión de helados con divertidas pegatinas, cabina de conductor extraíble y puertas laterales que se abren completamente
+- Los peques podrán ayudar a conducir el camión, servir cucuruchos y polos desde la ventanilla y ayudar a que el patinador complete alucinantes piruetas
+- Este camión de juguete permite a niños y niñas disfrutar de toda la diversión de un soleado día de verano gracias al acceso sencillo al interior de la furgoneta
 
 [🛒 Buy it now!!]({{< param buyurl >}})
