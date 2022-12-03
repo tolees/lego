@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60354 City Erkundungsmissionen im Weltraum  interaktives digitales Abenteuerspielset mit Raumschiff und 3 Minifiguren  Spielzeug ab 6 Jahre'
-date: 2022-12-01 15:15:27
+date: 2022-12-03 15:49:25
 image: 'https://m.media-amazon.com/images/I/51WBAEAwPgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFLY5RM/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.0927777777778'
+average: '20.0909090909091'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
