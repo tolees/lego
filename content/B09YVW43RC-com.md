@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Many ways to play – The toys from this holiday calendar combine easily with other LEGO Harry Potter sets to provide even more play-and-display possibilities
 - A magical buildup to Christmas – Behind every door of the LEGO Harry Potter Advent Calendar (76404) is a surprise toy from the Harry Potter movies
 - Movie scenes to build – Toys from the first 3 days make a scene from the first movie, the next 3 days make a scene from the second movie, etc. Kids can also conjure up endless adventures of their own
-- A gift that lasts all year long – The LEGO Harry Potter Advent Calendar is a pre-Christmas treat for any young witch, wizard or Muggle aged 7+
 - Includes 7 minifigures – Harry Potter, Sirius Black, Moaning Myrtle, Lord Voldemort, Horace Slughorn, Nymphadora Tonks and Neville Longbottom, plus iconic items from the Harry Potter movies
+- Many ways to play – The toys from this holiday calendar combine easily with other LEGO Harry Potter sets to provide even more play-and-display possibilities
+- A gift that lasts all year long – The LEGO Harry Potter Advent Calendar is a pre-Christmas treat for any young witch, wizard or Muggle aged 7+
 
 [🛒 Buy it!!]({{< param buyurl >}})

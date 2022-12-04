@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Questo giocattolo LEGO Super Mario contiene 4 personaggi: Toad (con una faccia spaventata) e i seguenti nemici: lo Spettro Spazzatura, lAcciuffone Rosso e Re Boo
-- Questo set di costruzioni LEGO Super Mario ricco di azione e combattimenti contro i nemici include anche una start plate che attiva una musica diversa
 - Quindi i giocatori combatteranno contro un tavolo da biliardo infestato, sconfiggeranno lo Spettro Spazzatura, lArraffone Rosso e faranno cadere per sempre Re Boo dalla torre!
-- I bimbi aggiungono battaglie di fantasmi e cacce alle gemme con il pack di espansione - Caccia ai fantasmi di Luigi’s Mansion; set di Super Mario ricco di sfide e con 4 personaggi
 - Vai su LEGO.com/devicecheck per un elenco dei dispositivi Android e iOS compatibili e scaricare lapp dei giochi LEGO Super Mario con istruzioni e idee
+- Questo set di costruzioni LEGO Super Mario ricco di azione e combattimenti contro i nemici include anche una start plate che attiva una musica diversa
+- Questo giocattolo LEGO Super Mario contiene 4 personaggi: Toad (con una faccia spaventata) e i seguenti nemici: lo Spettro Spazzatura, lAcciuffone Rosso e Re Boo
 - I bambini potranno girare nel corridoio per accedere a ogni stanza e scoprire le gemme nascoste nella camera da letto, nella sala da pranzo e nel bagno e ottenere monete digitali
+- I bimbi aggiungono battaglie di fantasmi e cacce alle gemme con il pack di espansione - Caccia ai fantasmi di Luigi’s Mansion; set di Super Mario ricco di sfide e con 4 personaggi
 - I pack di espansione LEGO Super Mario sono un fantastico regalo per i bambini già in possesso di un LEGO Super Mario Starter Pack 71360/71387, necessario per poter giocare
 
 [🛒 Buy it now!!]({{< param buyurl >}})
