@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hogwarts Moment: Potions Class 76383 Brick-Built Playset with Professor Snape’s Potions Class  New 2021  270 Pieces '
-date: 2022-12-02 09:18:14
+date: 2022-12-05 10:03:56
 image: 'https://m.media-amazon.com/images/I/51OSY1CyRUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B08HVZY72K/?tag=tolees-20'
 descuento: '30.01'
-average: '29.54'
+average: '29.3059090909091'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- For ages 8 and up. Suitable for young witches and wizards looking for a new way to enjoy a Harry Potter adventure
+- This magical Hogwarts Moment set measures over 5 in. (12 cm) high, 3 in. (8 cm) wide and 1.5 in. (4 cm) deep – the perfect size for play, portability and placing on a kids bookshelf
 - Includes Draco Malfoy, Seamus Finnigan and Professor Snape minifigures, a potion book, blackboard, armchair, table, secret chamber and a dungeon backdrop
+- For ages 8 and up. Suitable for young witches and wizards looking for a new way to enjoy a Harry Potter adventure
 - Kids lift the cover to enter Professor Snapes Potions lesson. There is potion-making equipment to practice with – and a secret chamber to explore
 - LEGO Harry Potter Hogwarts Moment: Potions Class (76383) is a brick-built playbook that opens and unfolds to reveal the dungeon Potions classroom from the Harry Potter movies
-- This magical Hogwarts Moment set measures over 5 in. (12 cm) high, 3 in. (8 cm) wide and 1.5 in. (4 cm) deep – the perfect size for play, portability and placing on a kids bookshelf
 
 [🛒 Buy it now!!]({{< param buyurl >}})
