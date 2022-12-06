@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- There is plenty to do, with 2 cute pigs to care for and the iconic Creeper determined to ambush the players - lets hide in the pig’s head!
-- This LEGO Minecraft set with animal toys and Figures for 8 year olds makes a great birthday or Christmas gift for boys and girls
-- The extensive range of LEGO Minecraft building toys for kids bring the Minecraft game to life with recreated characters, scenes and features
-- Features a pig-shaped toy house and popular Minecraft character Alex, an iconic Creeper, 2 pigs, accessories for Alex and carrots for the pigs
 - Kids can redesign by moving the head-room somewhere else or use the explosion function to blast the model to pieces to start anew
+- The extensive range of LEGO Minecraft building toys for kids bring the Minecraft game to life with recreated characters, scenes and features
 - The toy pig house has an opening side, removable roof to explore hidden rooms and a detonating explosion function collapsing the whole house!
+- This LEGO Minecraft set with animal toys and Figures for 8 year olds makes a great birthday or Christmas gift for boys and girls
+- Features a pig-shaped toy house and popular Minecraft character Alex, an iconic Creeper, 2 pigs, accessories for Alex and carrots for the pigs
+- There is plenty to do, with 2 cute pigs to care for and the iconic Creeper determined to ambush the players - lets hide in the pig’s head!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
