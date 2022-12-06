@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Stuntz The Blade Stunt Challenge 60340 Building Toy Set for Boys  Girls  and Kids Ages 5+  154 Pieces '
-date: 2022-12-05 16:10:32
+date: 2022-12-06 18:19:37
 image: 'https://m.media-amazon.com/images/I/51imb7jwusL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fun functionality – Kids activate the stunt bike and release it to crash through the barriers and activate the dropping blades function for fun shows and competitions
 - Stunt action for kids aged 5 and up – Set the scene for action-packed stunt shows and competitions with LEGO City The Blade Stunt Challenge (60340) playset, including a LEGO City TV minifigure
+- Fun functionality – Kids activate the stunt bike and release it to crash through the barriers and activate the dropping blades function for fun shows and competitions
 - What’s in the box – Everything kids need to build The Blade Stunt Challenge, plus a flywheel-powered stunt bike and 2 minifigures, including LEGO City Adventures TV series character Shirley Keeper
-- Dimensions – The Blade Stunt Challenge measures over 5.5 in. (14 cm) high, 8 in. (20 cm) wide and 9 in. (22 cm) deep
 - A gift for any occasion – This LEGO City Stuntz playset can be given as a holiday, birthday or any-other-day surprise for kids aged 5 and up who like cool stunt toys
+- Dimensions – The Blade Stunt Challenge measures over 5.5 in. (14 cm) high, 8 in. (20 cm) wide and 9 in. (22 cm) deep
 
 [🛒 Check the deal!!]({{< param buyurl >}})
