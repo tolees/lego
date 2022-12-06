@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cuenta también con grandes y gruesos neumáticos, barra protectora con cadena y gancho, faros móviles y una detallada cabina para el conductor con puertas que se abren.
 - Contempla el vibrante diseño en azul, rojo, amarillo y negro.
-- Edad recomendada por el fabricante: 11-16
+- Cuenta también con grandes y gruesos neumáticos, barra protectora con cadena y gancho, faros móviles y una detallada cabina para el conductor con puertas que se abren.
 - Número de piezas: 1862
 - Camión grúa todoterreno 6x6
+- Edad recomendada por el fabricante: 11-16
 
 [🛒 Check the deal!!]({{< param buyurl >}})
