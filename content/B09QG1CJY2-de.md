@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das LEGO Stunt Motorrad ist ein tolles Geschenk für Kinder ab 7 Jahren zum Geburtstag oder zu einem anderen Anlass
-- Dieses Action Spielzeug beinhaltet eine Zuschauertribüne, LEGO Flammen, Pflanzen, eine Kamera, einen Hot Dog und Eiscreme-Zubehörteile
-- Dieses Set kann mit anderen Spielzeugen aus der LEGO City Stuntz Reihe kombiniert werden wie dem Cruiser-Stuntbike (60331)
 - Das Spielzeug für Jungen und Mädchen ab 7 Jahren enthält 3 Minifiguren: den Stuntz Airborne Elite Piloten und 2 Zuschauer der Stunt-Show
 - Die Kinder können das Schwungrad des Spielzeug-Motorrads aktivieren und auf die Spielzeugrampe springen und dem Schimpansen ausweichen
 - Dieses LEGO City Set enthält einen Stuntparcours mit Loopings, Sprungbrett und Schimpansen-Stuntrequisite sowie ein Stuntbike
+- Dieses Action Spielzeug beinhaltet eine Zuschauertribüne, LEGO Flammen, Pflanzen, eine Kamera, einen Hot Dog und Eiscreme-Zubehörteile
+- Dieses Set kann mit anderen Spielzeugen aus der LEGO City Stuntz Reihe kombiniert werden wie dem Cruiser-Stuntbike (60331)
+- Das LEGO Stunt Motorrad ist ein tolles Geschenk für Kinder ab 7 Jahren zum Geburtstag oder zu einem anderen Anlass
 
 [🛒 Check the deal!!]({{< param buyurl >}})
