@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic - La dépanneuse tout-terrain 6x6 - 42070 - Jeu de Construction'
-date: 2022-12-02 04:57:46
+date: 2022-12-06 07:31:36
 image: 'https://m.media-amazon.com/images/I/61dlBohgHmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06WVBM7K2/?tag=tolees0d-21'
 descuento: '16.69'
-average: '313.587078260865'
+average: '313.539636048523'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Se transforme en véhicule explorateur de recherche
-- Construis ta propre dépanneuse tout-terrain 6x6, avec deux moteurs Power Function, un boîtier à piles et une télécommande pour la marche avant et arrière, la direction, les stabilisateurs, la grue et le treuil
-- 1862 pièces pour les garçons et les filles de 11 à 16 ans
-- Inclut une brique LEGO Technic unique décorée pour le 40e anniversaire
-- Les jouets LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une construction créative
-- La dépanneuse tout-terrain 6x6 avec le bras soulevé et les stabilisateurs déployés mesure plus de 51 cm de haut, 63 cm de long et 37 cm de large, et 26 cm de haut et 20 cm de large avec le bras abaissé et les stabilisateurs repliés Le modèle B mesure plus de 19 cm de haut, 47 cm de long et 23 cm de large
+- This 2-in-1 model rebuilds into a Research Explorer Toy Vehicle
+- Number of pieces: 1862
+- Activate the LEGO Power Functions and use the remote control to maneuver the vehicle into position, extend the outriggers, rotate, raise and lower the crane or raise and lower the winch
+- 6x6 All Terrain Tow Truck
+- Manufacturer recommended age: 11-16
 
 [🛒 Check the deal!!]({{< param buyurl >}})
