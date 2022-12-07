@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Das Weltraum-Spielzeug enthält den XL-15 Sternjäger aus dem Disney und Pixar Film Lightyear, um Weltraumduelle nachzuspielen
-- Die Kinder helfen Buzz Lightyear, den Sternjäger startklar zu machen, schließen das Cockpit und starten das Abenteuer in den LEGO Weltraum
-- Das Spielzeug zum Bauen ab 8 Jahren lässt sich mit Zyclops-Verfolgungsjagd (76830) und Duell mit Zurg (76831) kombinieren
-- Dieses galaktische Set ist das beste Geschenk für Mädchen und Jungen ab 8 Jahren, die davon träumen, Space Ranger zu werden
-- Enthält 3 LEGO Minifiguren, darunter LEGO Buzz Lightyear, eine LEGO Roboterkatze Sox - mit seinem Laptop - und 3 Waffen
 - Das Spielzeug-Raumschiff verfügt über ein aufklappbares Cockpit und eine abnehmbare Brennstoffzelle und wird mit einem Ständer geliefert
+- Die Kinder helfen Buzz Lightyear, den Sternjäger startklar zu machen, schließen das Cockpit und starten das Abenteuer in den LEGO Weltraum
+- Dieses galaktische Set ist das beste Geschenk für Mädchen und Jungen ab 8 Jahren, die davon träumen, Space Ranger zu werden
+- Das Spielzeug zum Bauen ab 8 Jahren lässt sich mit Zyclops-Verfolgungsjagd (76830) und Duell mit Zurg (76831) kombinieren
+- Enthält 3 LEGO Minifiguren, darunter LEGO Buzz Lightyear, eine LEGO Roboterkatze Sox - mit seinem Laptop - und 3 Waffen
 
 [🛒 Buy it!!]({{< param buyurl >}})

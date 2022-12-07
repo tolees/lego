@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält eine einfache Bauanleitung und Instructions PLUS - Teil der kostenlosen LEGO Bauanleitungs-App für Smart-Geräte
 - Dieses Tierrettungsset enthält ein cooles lenkbares Spielzeug Quad mit Drehkipp-Lenkung, ausgestattet mit einem Greifwerkzeug und einer Drohne
-- Kinder können den LEGO Geländewagen, um nach links und rechts zu lenken, das Greifwerkzeug verwenden, um den Skorpion zu verlagern und lustige Tierrettungsgeschichten nachzuspielen
 - Enthalten sind außerdem eine kleine Savanneneinstellung mit Baum-, Bananen- und Poop-Elementen, sowie 2 Affen-Tierfiguren und eine Skorpionfigur
 - Das Spielzeug ab 5 Jahren enthält auch eine Entdecker-Figur, die im Mittelpunkt des Geschehens steht und Kindern hilft, Selbstvertrauen und wichtige Lebenskompetenzen zu entwickeln
+- Enthält eine einfache Bauanleitung und Instructions PLUS - Teil der kostenlosen LEGO Bauanleitungs-App für Smart-Geräte
+- Kinder können den LEGO Geländewagen, um nach links und rechts zu lenken, das Greifwerkzeug verwenden, um den Skorpion zu verlagern und lustige Tierrettungsgeschichten nachzuspielen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

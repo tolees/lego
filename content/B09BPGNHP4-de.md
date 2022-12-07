@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Sie können ihre Lieblings-Unterwasserszenen aus dem Film nacherleben und stundenlang mit ihren Lieblingsfiguren von Black Panther spielen, und wenn die Action vorbei ist, können sie die Modelle in ihrem Zimmer ausstellen!
-- Kinder können mit den 3 LEGO Marvel Minifiguren von Shuri, Attuma und König Namor sowie coolen Spielzeugwaffen und Zubehör endlose Abenteuer erleben
-- Das U-Boot-Spielzeug für Kinder ab 7 Jahren verfügt über Shooter und der Thronsaal von König Namor; es ist mit Algen, Fischen und einem aufklappbaren Haifischmaul geschmückt, in dem eine Minifigur Platz hat
-- Die kompakte Größe macht dieses LEGO Marvel Set zu einem idealen Spielzeug für Reisen und zu einem tollen Geschenk für Black Panther- und Marvel-Fans ab 7 Jahren als Geburtstags- oder Überraschungsgeschenk – sie können es überall hin mitnehmen!
 - Kinder werden mit diesem LEGO Marvel Spielzeug zum Bauen, dass das Spielzeug-U-Boot Skirmisher, Minifiguren und den aus Steinen gebauten Thronsaal aus Black Panther: Wakanda Forever von Marvel Studios enthält, coole Unterwasserabenteuer erleben
+- Kinder können mit den 3 LEGO Marvel Minifiguren von Shuri, Attuma und König Namor sowie coolen Spielzeugwaffen und Zubehör endlose Abenteuer erleben
+- Die kompakte Größe macht dieses LEGO Marvel Set zu einem idealen Spielzeug für Reisen und zu einem tollen Geschenk für Black Panther- und Marvel-Fans ab 7 Jahren als Geburtstags- oder Überraschungsgeschenk – sie können es überall hin mitnehmen!
+- Das U-Boot-Spielzeug für Kinder ab 7 Jahren verfügt über Shooter und der Thronsaal von König Namor; es ist mit Algen, Fischen und einem aufklappbaren Haifischmaul geschmückt, in dem eine Minifigur Platz hat
 
 [🛒 Buy it!!]({{< param buyurl >}})

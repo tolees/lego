@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Die LEGO City Sets sind ein Spielzeug für Jungen und Mädchen ab 5 Jahren und lassen sich einfach überall hin mitnehmen
-- Enthält alles, um ein Stuntbike mit Schwungradantrieb zu bauen, sowie eine Sudsy Simon LEGO Rennfahrer-Minifigur aus LEGO City Stuntz
-- Kinder können das Schwungrad des Action-Spielzeugs aktivieren, um dann Rückwärtssaltos und andere Kunststücke auszuprobieren
 - Mit schwungradbetriebenem Spielzeug-Motorrad im Stil einer Badewanne, eine Badeente, Schnorchel, Taucherbrille und Schwimmweste als Zubehör
+- Enthält alles, um ein Stuntbike mit Schwungradantrieb zu bauen, sowie eine Sudsy Simon LEGO Rennfahrer-Minifigur aus LEGO City Stuntz
 - Kombiniere dieses Set mit anderen Spielzeugen aus der LEGO City Stuntz Kollektion für noch mehr Action und erstaunliche Stunts
+- Die LEGO City Sets sind ein Spielzeug für Jungen und Mädchen ab 5 Jahren und lassen sich einfach überall hin mitnehmen
+- Kinder können das Schwungrad des Action-Spielzeugs aktivieren, um dann Rückwärtssaltos und andere Kunststücke auszuprobieren
 
 [🛒 Buy it!!]({{< param buyurl >}})

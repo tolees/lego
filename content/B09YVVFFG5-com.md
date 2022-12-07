@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 24 daily treats – Behind each door of the LEGO Marvel Studios’ Guardians of the Galaxy Advent Calendar (76231) is a gift to inspire creative building and imaginative play
-- Endlessly versatile – As the big day approaches, kids can mix different gifts together to recreate favorite scenes and Marvel adventures of their own
 - Iconic characters – Includes Star-Lord, Rocket, Groot and Mantis minifigures and more to combine with mini builds and accessories
-- Mini build models – Buildable play experiences include a drone, the Guardians’ spaceship, a snowman in Thanos’s armor and lots more
+- Endlessly versatile – As the big day approaches, kids can mix different gifts together to recreate favorite scenes and Marvel adventures of their own
 - Pre-Christmas treat – With 24 days of surprise gifts, this Advent calendar provides any young Super Hero aged 6 and up with imaginative fun that lasts for months
+- 24 daily treats – Behind each door of the LEGO Marvel Studios’ Guardians of the Galaxy Advent Calendar (76231) is a gift to inspire creative building and imaginative play
+- Mini build models – Buildable play experiences include a drone, the Guardians’ spaceship, a snowman in Thanos’s armor and lots more
 
 [🛒 Buy it now!!]({{< param buyurl >}})

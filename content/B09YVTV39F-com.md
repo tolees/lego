@@ -31,7 +31,7 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Hours of role-play fun – 24 mini builds let kids role-play building a snowman, ice-skating and karaoke, making a toy rocket and eating tasty holiday treats from the food stalls
 - Packed with play for kids – Comes with 3 LEGO Friends characters, Santa and a reindeer, a sleigh piled with Christmas presents, plus fun Christmas activities
 - Kids join Olivia’s fun family Christmas – Kids tour the fun stalls of the market with Olivia, enjoying all the fun Christmas activities before visiting Santa and his reindeer
-- Construct and play Advent Calendar – Build the excitement to Christmas with the LEGO Friends Advent Calendar (41706), containing buildable characters, activities and accessories
 - Pre-Christmas gift – This creative Advent Calendar can be given as a holiday present for boys and girls aged 6+ who love festive play, and it will continue to entertain well beyond December
+- Construct and play Advent Calendar – Build the excitement to Christmas with the LEGO Friends Advent Calendar (41706), containing buildable characters, activities and accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})

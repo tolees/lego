@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das LEGO Friends Restaurant enthält einen Pizzabackofen, einen Sitzbereich im Freien, ein Skateboard, Käse, eine Reibe und Soßenflaschen
+- Junge Köche können in der Heartlake City Pizzeria ihren LEGO Friends Essen zubereiten und servieren und besitzen ihre eigene Pizzeria
 - Kinder können das Spielzeug ab 5 Jahren mit hängenden Blumen und einem Pizzaschild dekorieren, um den Laden zu personalisieren
 - Das Set bietet jede Menge Spaß: Kinder können sich als Koch ausgeben und Gäste bedienen - ein tolles Geschenk für Kinder ab 5 Jahren
+- Das LEGO Friends Restaurant enthält einen Pizzabackofen, einen Sitzbereich im Freien, ein Skateboard, Käse, eine Reibe und Soßenflaschen
 - Enthält 2 Mini-Puppen: LEGO Friends Olivia mit Kochmütze und Ethan mit Zubehör wie einem Skateboard und einem Helm
-- Junge Köche können in der Heartlake City Pizzeria ihren LEGO Friends Essen zubereiten und servieren und besitzen ihre eigene Pizzeria
 
 [🛒 Check the deal!!]({{< param buyurl >}})

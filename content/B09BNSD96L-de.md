@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mit dem Erweiterungsset „Maxi-Iglucks Strandausflug“ können Kinder ab 7 Jahren ihr LEGO Super Mario Spiel um ein weiteres Strandlevel erweitern
-- Inklusive 5 LEGO Super Mario Figuren: ein gelber Yoshi, ein Maxi-Igluck, 2 Cheep-Cheeps und ein Delfin für die LEGO Figuren von Mario oder Luigi (nicht enthalten)
-- Die Kinder können ihr eigenes Level bauen und dann die Palmen schütteln, auf Delfinen reiten und mit Cheep-Cheeps in die Luft springen, um digitale Münzen zu sammeln
 - Enthält ein Sprungbrett und eine Achterbahn, mit der du den Super-Stern aus der Palme schütteln und den Maxi-Igluck umwerfen kannst
+- Die Kinder können ihr eigenes Level bauen und dann die Palmen schütteln, auf Delfinen reiten und mit Cheep-Cheeps in die Luft springen, um digitale Münzen zu sammeln
 - Die LEGO Super Mario Erweiterungssets sind tolle Geschenke für Kinder, die das LEGO Super Mario Starterset 71360/71387 besitzen, welches zum Spielen benötigt wird
+- Inklusive 5 LEGO Super Mario Figuren: ein gelber Yoshi, ein Maxi-Igluck, 2 Cheep-Cheeps und ein Delfin für die LEGO Figuren von Mario oder Luigi (nicht enthalten)
+- Mit dem Erweiterungsset „Maxi-Iglucks Strandausflug“ können Kinder ab 7 Jahren ihr LEGO Super Mario Spiel um ein weiteres Strandlevel erweitern
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das Spielzeugauto kann schnell beschleunigen und Straßenrennen fahren, ist aber dank seiner lenkbaren Vorderräder auch für den Einsatz im Gelände geeignet.
-- Dieses Spielzeug für Kinder ab 4 Jahren ist das perfekte Geschenk zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass für Fans von LEGO
 - Inklusive Instructions PLUS in der kostenlosen LEGO Building Instructions App mit Vergrößerungs- und Drehfunktionen, die Kindern beim Bauen helfen.
 - Enthält ein 2-in-1 Baufahrzeug mit aufklappbarer Fahrerkabine, einer heb- und kippbaren Schaufel, einem Steuerpult und einem Überrollkäfig, das sich in ein Hot Rod umbauen lässt
-- Mit seinen 4 massiven Rädern ist dieser Spielzeug Bagger bereit für den Landschafts- und Straßenbau. Die Schaufel lässt sich anheben und kippen, genau wie bei einem echten Radlader!
 - Dank der Schaufel mit ihren 2 Funktionen und den Rücklichtern am Bagger können Kinder stundenlang kreativ spielen und ihn anschließend zu einem coolen Hot Rod umbauen
+- Dieses Spielzeug für Kinder ab 4 Jahren ist das perfekte Geschenk zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass für Fans von LEGO
+- Mit seinen 4 massiven Rädern ist dieser Spielzeug Bagger bereit für den Landschafts- und Straßenbau. Die Schaufel lässt sich anheben und kippen, genau wie bei einem echten Radlader!
+- Das Spielzeugauto kann schnell beschleunigen und Straßenrennen fahren, ist aber dank seiner lenkbaren Vorderräder auch für den Einsatz im Gelände geeignet.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mit der Begleit-App von LEGO Super Mario können Kinder noch mehr Super Mario Spaß freischalten – mit Bauanleitungen, kreativer Inspiration und mehr; eine Liste kompatibler Android- und iOS-Geräte findet man unter LEGO.com/devicecheck
-- Spieler verdienen digitale Münzen indem sie den LEGO Mario, LEGO Luigi oder LEGO Peach Figuren (nicht enthalten) helfen der Stachelwalze auszuweichen, die der Maxi-Spike wirft
 - Dieses LEGO Super Mario Erweiterungsset enthält 3 beliebte Gegner; Maxi-Spike, ein Bumerang-Bruder und eine Piranha-Pflanze für neue Herausforderungen in der Luft
 - Als nächstes können sie die orangen Pilztrampoline nutzen, um an den Bumerang-Bruder heranzukommen, sich Superstern-Kraft holen und auf die Wippe springen, um die Piranha-Pflanze zu besiegen
+- Spieler verdienen digitale Münzen indem sie den LEGO Mario, LEGO Luigi oder LEGO Peach Figuren (nicht enthalten) helfen der Stachelwalze auszuweichen, die der Maxi-Spike wirft
 - Mit diesem LEGO Super Mario baubarem Spielzeug können Kinder ihre Super Mario Sammlung erweitern; LEGO Super Mario Startersets (71360, 71387 oder 71403) werden zum Spielen benötigt
+- Mit der Begleit-App von LEGO Super Mario können Kinder noch mehr Super Mario Spaß freischalten – mit Bauanleitungen, kreativer Inspiration und mehr; eine Liste kompatibler Android- und iOS-Geräte findet man unter LEGO.com/devicecheck
 
 [🛒 Check the deal!!]({{< param buyurl >}})

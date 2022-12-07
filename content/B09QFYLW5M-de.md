@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinder können die Kutsche bauen und sie an der erwachsenen Thestral-Figur befestigen, um eine fantastische, magische Reise zu beginnen
-- LEGO Harry Potter Geschenke sind toll zu jedem Anlass, das Spielzeug ab 7 Jahre erfreut alle kleinen Fans der Filme
 - Zum Zubehör des LEGO Harry Potter Sets gehören Fleisch und ein Apfel als Futter und ein Exemplar der berüchtigten Zeitschrift The Quibbler
-- Dieses LEGO Harry Potter Spielzeug wird Kinder dazu inspirieren, Szenen aus Harry Potter und der Orden des Phönix nachzuspielen
+- LEGO Harry Potter Geschenke sind toll zu jedem Anlass, das Spielzeug ab 7 Jahre erfreut alle kleinen Fans der Filme
+- Kinder können die Kutsche bauen und sie an der erwachsenen Thestral-Figur befestigen, um eine fantastische, magische Reise zu beginnen
 - Dieses Set enthält Luna Lovegood und Harry Potter Minifiguren sowie 2 Pferde-Figuren, ein kleines und ein großes und eine Kutsche
+- Dieses LEGO Harry Potter Spielzeug wird Kinder dazu inspirieren, Szenen aus Harry Potter und der Orden des Phönix nachzuspielen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

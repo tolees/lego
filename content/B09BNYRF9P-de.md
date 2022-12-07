@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Mit einer beweglichen LEGO NINJAGO Figur von Kais Feuerdrachen in goldener Rüstung, die zweimal aufgerüstet werden kann, um sie noch größer, stärker und schneller zu machen
+- Dieses Drachen Spielzeug mit beweglichem Kopf, Schwanz, Kiefer und Beinen besitzt einen Sattel, auf den du Kai setzen kannst, um ihn gegen die Schlangenkrieger kämpfen zu lassen
 - Inklusive 3 LEGO NINJAGO Figuren: Kai mit einem Schwert und 2 NINJAGO Schlangenkrieger – Boa-Jäger und ein Kobra-Mech
 - Wenn die Kinder ihre Missionen erfüllen und die Schlangen besiegen, werden sie mit einem Tapferkeitsbanner belohnt, mit dem sie den Feuerdrachen schmücken können
 - Die NINJAGO Schlange Boa-Jäger steuert eine Kampfdrohne und der Kobra-Mech verfügt über ein Jetpack und einen Kettenwerfer
-- Dieses Drachen Spielzeug mit beweglichem Kopf, Schwanz, Kiefer und Beinen besitzt einen Sattel, auf den du Kai setzen kannst, um ihn gegen die Schlangenkrieger kämpfen zu lassen
-- Mit einer beweglichen LEGO NINJAGO Figur von Kais Feuerdrachen in goldener Rüstung, die zweimal aufgerüstet werden kann, um sie noch größer, stärker und schneller zu machen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
