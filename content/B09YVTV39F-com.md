@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends 2022 Advent Calendar 41706 Building Toy Set; 24 Gifts and Holiday Toys  Including Santa’s Sleigh; for Kids  Boys and Girls  Ages 6+  312 Pieces '
-date: 2022-12-06 11:56:53
+date: 2022-12-07 12:39:01
 image: 'https://m.media-amazon.com/images/I/51d-sH+uXLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B09YVTV39F/?tag=tolees-20'
 descuento: '40.01'
-average: '24.3616666666667'
+average: '23.88'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Construct and play Advent Calendar – Build the excitement to Christmas with the LEGO Friends Advent Calendar (41706), containing buildable characters, activities and accessories
-- Packed with play for kids – Comes with 3 LEGO Friends characters, Santa and a reindeer, a sleigh piled with Christmas presents, plus fun Christmas activities
 - Hours of role-play fun – 24 mini builds let kids role-play building a snowman, ice-skating and karaoke, making a toy rocket and eating tasty holiday treats from the food stalls
+- Packed with play for kids – Comes with 3 LEGO Friends characters, Santa and a reindeer, a sleigh piled with Christmas presents, plus fun Christmas activities
 - Kids join Olivia’s fun family Christmas – Kids tour the fun stalls of the market with Olivia, enjoying all the fun Christmas activities before visiting Santa and his reindeer
+- Construct and play Advent Calendar – Build the excitement to Christmas with the LEGO Friends Advent Calendar (41706), containing buildable characters, activities and accessories
 - Pre-Christmas gift – This creative Advent Calendar can be given as a holiday present for boys and girls aged 6+ who love festive play, and it will continue to entertain well beyond December
 
 [🛒 Check the deal!!]({{< param buyurl >}})
