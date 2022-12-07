@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic 6x6 Knickgelenkter Volvo-Dumper  ferngesteuertes Modellauto  Modellbausatz LKW-Spielzeug für Kinder und Erwachsene'
-date: 2022-12-06 07:27:05
+date: 2022-12-07 07:40:20
 image: 'https://m.media-amazon.com/images/I/512X4sUHtnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B00DFM7HVK/?tag=tolees0ca-21'
 descuento: '20.04'
-average: '187.292468793344'
+average: '187.309930747924'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Auf der Suche nach einem ganz besonderen Weihnachtsgeschenk? Dieser fantastische LEGO Technic Modellbausatz enthält einen appgesteuerten Volvo-Dumper und ist ein tolles Geschenk für jeden Baumeister ab 11 Jahren
-- Während des Bauens werden noch keine Batterien benötigt. Um jedoch die coolen technischen Funktionen dieses appgesteuerten Spielzeugs im vollen Umfang genießen zu können, werden 6 AA-Batterien (1,5 V) benötigt
-- Dieses Modell strotzt nur so vor authentischen Details. Die LEGO Technic CONTROL+ App verschafft Kindern die volle Kontrolle über ihr Modell, denn sie enthält Steuerbildschirme, Herausforderungen und Belohnungen sowie exklusive Inhalte
-- Die Spielzeug-Version des Volvo-Dumpers ist 20 cm hoch, 60 cm lang und 20 cm breit und eignet sich wunderbar für Rollenspiele auf der Baustelle. Das Set lässt sich mit anderen Bausets kombinieren, um noch mehr Spaß zu bieten
-- Das LEGO Technic Bauset „Knickgelenkter Volvo-Dumper (6x6)“ (42114) lässt Kinder die Geheimnisse von Mega-Baufahrzeugen lüften, indem sie mithilfe der App das Modell lenken, die Mulde kippen und die Gänge wechseln
-- Kinder werden es lieben, ihre eigene Modellversion des knickgelenkten Volvo-Dumpers A60H zu bauen. Und dank der coolen Funktionen in der LEGO Technic CONTROL+ App geht der Spaß erst richtig los, wenn das Modell fertig ist
+- Kontrolliere die gewaltige, 2.193 Teile umfassende Maschine mit der App – kippe die Mulde des Lasters, fahre vor- und rückwärts, lenke und ändere Geschwindigkeit und Gang
+- Baue ein Volvo-Modell der ferngesteuerten LKW-Version des klassischen knickgelenkten A60H Volvo-Dumpers nach und erlebe großartigen Bauspaß
+- Lade dir die LEGO-Technic-Control+-App herunter und entdecke die verschiedenen Kontrollbildschirme, Herausforderungen, Erfolge und exklusiven Inhalte
+- Durch die App sorgt das ferngesteuerte Automodell noch lange nach dem Bau für Spaß; Lüfte die Geheimnisse der riesigen Baustellenmaschinen
+- Die Modellbausätze von LEGO Technic sind eine großartige Geschenkidee zu Weihnachten für LEGO Fans und Fans von ferngesteuerten und app-gesteuerten Baustellenfahrzeugen
+- Das Gebäude kann ohne Batterien in Betrieb genommen werden; Für das LKW-Spielzeug werden jedoch 6 AA 1,5V-Batterien (nicht im Lieferumfang enthalten) benötigt
+- Angetrieben durch 1 großen Winkelmotor, 1 XL-Motor und 1 L-Motor mit einem Bluetooth-gesteuerten Smart Hub für realistische Funktionalität
 
 [🛒 Buy it!!]({{< param buyurl >}})

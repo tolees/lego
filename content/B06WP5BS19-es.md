@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - First Order Star Destroyer  75190 '
-date: 2022-12-06 07:37:19
+date: 2022-12-07 07:50:13
 image: 'https://m.media-amazon.com/images/I/61btHE+UuBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B06WP5BS19/?tag=tolees-21'
 descuento: '15.67'
-average: '364.981305147061'
+average: '364.953724770644'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Abre los paneles para jugar fácilmente en el interior
-- Armas incluidas: 2 blásteres y 2 pistolas bláster
 - Sube el ascensor y sienta a Snoke en su cámara
+- Abre los paneles para jugar fácilmente en el interior
 - Incluye 5 minifiguras: el líder Snoke, un oficial de la Primera Orden, un sargento Stormtrooper, un Stormtrooper y un piloto de lanzadera de la Primera Orden
 - Cuenta con mango de transporte, detalles en los paneles de blindaje, 8 cañones que disparan hacia los lados y un detallado motor trasero
+- Armas incluidas: 2 blásteres y 2 pistolas bláster
 
 [🛒 Check the deal!!]({{< param buyurl >}})
