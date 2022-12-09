@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41448 Friends Heartlake Movie Theater  City Cinema Toy  Creative Gifts for 7 Plus Year Old Girls and Boys with Phone Holder & Mini-Dolls'
-date: 2022-11-29 20:33:58
+date: 2022-12-08 22:30:19
 image: 'https://m.media-amazon.com/images/I/51EeaFOlHzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4P2XRK/?tag=tolees0a-21'
 descuento: '26.69'
-average: '31.3062499999999'
+average: '31.8420930232557'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Includes 3 mini dolls: Andrea, Amelia and Julian, a ticket desk, red-carpet area and a restroom for kids while watching the premier
+- Kids can role-play superfan Andrea or movie star Amelia, and VIP screening room has exclusive seats for 5 of their most fabulous friends
 - This Building toy for kids, with real-world details makes a wonderful birthday present or Christmas gift for 7 plus year old girls and boys
+- The Heartlake City cinema toy movie theatre lets kids screen their own movies for the mini dolls, enabling a dynamic play lasting for hours
 - Features an art deco-style cinema packed with authentic details: a VIP area, popcorn kiosk, slushy cups and a toy projector to operate!
 - The set can hold a smartphone or tablet against the screen for real-world movie screenings and it opens out to reveal a movie screen and seats
-- Kids can role-play superfan Andrea or movie star Amelia, and VIP screening room has exclusive seats for 5 of their most fabulous friends
-- The Heartlake City cinema toy movie theatre lets kids screen their own movies for the mini dolls, enabling a dynamic play lasting for hours
 
 [🛒 Buy it now!!]({{< param buyurl >}})
