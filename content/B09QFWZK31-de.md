@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71407 Super Mario Katzen-Peach-Anzug und Eisturm – Erweiterungsset  baubares Spielzeug zum kombinieren mit Mario  Luigi oder Peach Starterset'
-date: 2022-12-07 12:51:45
+date: 2022-12-09 12:20:08
 image: 'https://m.media-amazon.com/images/I/51f1mJE9YlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFWZK31/?tag=tolees0ca-21'
 descuento: '35.72'
-average: '48.2377777777778'
+average: '47.913'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes a Cat Suit toy costume that Lego Peach figure (not included) can wear and win digital coins; it also triggers unique reactions
-- LEGO Super Mario Princess Peach buildable game features a 3-level castle toy with ice elements, flowers, POW block and coin collecting challenges
-- Players can then topple Kamek from the tower and break Toad out of the ice enclosure (71360, 71387 or 71403 Starter Course is required for play)
-- Kids can release the Coin Block from ‘ice’, grab the yellow fruit, knock ‘ice’ off the tower and activate the POW Block
-- Features 3 LEGO Super Mario characters – Cat Goomba, Kamek and Toad figures for LEGO Peach (not included) to interact with
-- Makes a great birthday, Christmas or any time gift for kids aged 7+ who own one of the LEGO Super Mario Starter Courses which is needed for play
-- Find instructions and ideas on the LEGO Super Mario companion app; for a list of compatible Android and iOS devices, visit LEGO.com/devicecheck
+- Lade dir die LEGO Super Mario App mit Bauanleitungen und Spielideen herunter. Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
+- Das Set ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen, das zum Spielen benötigt wird
+- Beinhaltet einen Katzenanzug, in dem LEGO Peach (Figur nicht enthalten) außergewöhnliche Reaktionen zeigt, und den Turm erklimmen und digitale Münzen sammeln kann
+- Das LEGO Super Mario baubare Spielzeug „Katzen-Peach-Anzug und Eisturm“ beinhaltet einen Turm aus LEGO Steinen mit 3 Leveln, Blumen, POW-Block und Katzenanzug und schickt Kinder auf unzählige Münzsammelmissionen
+- Löse den Münzblock aus dem „Eis“, greif dir die gelbe Frucht, klopfe „Eis“ vom Turm ab, aktiviere den POW-Block, um Kamek vom Turm zu stoßen, und befreie Toad aus seinem Eisgefängnis
+- Enthält 3 LEGO Super Mario Charaktere: LEGO Spielzeugfiguren Kamek, Toad und einen Katzen-Gumba, die mit LEGO Peach (nicht enthalten) interagieren
 
 [🛒 Buy it!!]({{< param buyurl >}})
