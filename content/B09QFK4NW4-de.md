@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21188 Minecraft Das Lamadorf Set  Spielzeug-Haus mit Dorfbewohnern  Tier-Figuren und 6 Modulen  Geschenk zu Weihnachten'
-date: 2022-12-06 00:01:40
+date: 2022-12-09 18:00:38
 image: 'https://m.media-amazon.com/images/I/51Xbspo7WeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFK4NW4/?tag=tolees0ca-21'
 descuento: '27.69'
-average: '98.0173333333333'
+average: '97.765625'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Nach dem Spielen sieht dieses LEGO Minecraft Set großartig aus und ist ein tolles Geburtstags- oder Weihnachtsgeschenk zu jeder Gelegenheit für Kinder ab 9 Jahren
-- Die Kinder können sich um die Spielzeug Tiere außerhalb des Hauses kümmern und die 6 Gebäude an verschiedenen Orten platzieren
-- Enthält LEGO Minecraft Figuren: einen Savannendörfler, einen Schmied, einen Plünderer und einen Diener, sowie Waffen wie eine Armbrust
 - Dieses Minecraft Haus enthält außerdem einen Lama-Hirten und einen Lama-Ritter sowie Minecraft Tiere: Lama, Baby-Lama und Baby-Schaf
-- Kinder können das Minecraft Haus zum Bauen öffnen, um alle lustigen Räume im Inneren zu betreten. Das Lama hat auch eine "Spuckfunktion"
+- Die Kinder können sich um die Spielzeug Tiere außerhalb des Hauses kümmern und die 6 Gebäude an verschiedenen Orten platzieren
 - Enthält ein aufklappbares Lama-Haus mit Minecraft Tieren und 6 anpassbaren Gebäuden, um ein eigenes, einzigartiges Dorf zu erschaffen
+- Kinder können das Minecraft Haus zum Bauen öffnen, um alle lustigen Räume im Inneren zu betreten. Das Lama hat auch eine "Spuckfunktion"
+- Enthält LEGO Minecraft Figuren: einen Savannendörfler, einen Schmied, einen Plünderer und einen Diener, sowie Waffen wie eine Armbrust
 
 [🛒 Buy it now!!]({{< param buyurl >}})
