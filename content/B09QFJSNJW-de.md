@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60337 City Personen-Schnellzug  Set mit ferngesteuertem Zug mit Scheinwerfern  2 Wagen und 24 Schienen-Elementen  Eisenbahn-Spielzeug  Geschenk zu Weihnachten für Mädchen und Jungen'
-date: 2022-12-05 16:11:20
+date: 2022-12-09 23:55:43
 image: 'https://m.media-amazon.com/images/I/51DdZcI+rOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFJSNJW-de LEGO 60337 City Personen-Schnellzug Set mit...'
 sku: 'B09QFJSNJW-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 119.99 EUR
+actualPrice: 122.99 EUR
 currency: EUR
-price: 119.99
+price: 122.99
 comparePrice: 159.99 EUR
 prodname: 'LEGO 60337 City Personen-Schnellzug  Set mit ferngesteuertem Zug mit Scheinwerfern  2 Wagen und 24 Schienen-Elementen  Eisenbahn-Spielzeug  Geschenk zu Weihnachten für Mädchen und Jungen'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFJSNJW/?tag=tolees0ca-21'
-descuento: '25.00'
-average: '113.002272727273'
+descuento: '23.13'
+average: '113.436521739131'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Enthält 6 LEGO Minifiguren: 4 Passagiere, Zugführer, Restaurantangestellter, sowie Fahrrad und Helm, Rollstuhl, Aktentasche und Rucksack
+- Das LEGO Eisenbahn Spielzeug ist ein spannendes Geburtstags- oder Weihnachtsgeschenk für Kinder ab 7 Jahren und alle Fans von ferngesteuerten Zügen und Fahrzeugen
+- Die LEGO Eisenbahn wird mit einer Schritt-für-Schritt-Anleitung geliefert, so können Kinder den ferngesteuerten Zug selbst bauen
 - Dieses Zug Spielzeug für Kinder enthält einen Speisewagen, einen Personenwagen, einen Bahnsteig, 24 LEGO Schienen und 6 Minifiguren
 - Der Zug und seine dimmbaren Lichter lassen sich über die Fernbedienung oder ein mit der LEGO Powered Up App verbundenes Smartgerät steuern
-- Die LEGO Eisenbahn wird mit einer Schritt-für-Schritt-Anleitung geliefert, so können Kinder den ferngesteuerten Zug selbst bauen
 - Viele Möglichkeiten zum Spielen: am Bahnsteig warten, in den Speisewagen einsteigen und essen, im Zug während einer langen Fahrt arbeiten
-- Das LEGO Eisenbahn Spielzeug ist ein spannendes Geburtstags- oder Weihnachtsgeschenk für Kinder ab 7 Jahren und alle Fans von ferngesteuerten Zügen und Fahrzeugen
-- Enthält 6 LEGO Minifiguren: 4 Passagiere, Zugführer, Restaurantangestellter, sowie Fahrrad und Helm, Rollstuhl, Aktentasche und Rucksack
 - Dieses LEGO Zug Set enthält eine ferngesteuerte Lokomotive mit funktionierenden, dimmbaren Scheinwerfern und LEGO Power-Up Technologie
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42115 Technic Lamborghini Sián FKP 37  Maqueta de Coche de Lujo  Set de Construcción  Modelo de Coleccionista  Regalo Original para Adultos'
-date: 2022-12-08 16:46:52
+date: 2022-12-09 23:46:37
 image: 'https://m.media-amazon.com/images/I/51+hWtn2juL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Admira la fiel ingeniería de esta maqueta de coche con motor V12 con pistones móviles, dirección, suspensión delantera y trasera, alerón y puertas de tijera que se abren
-- Este original coche Lamborghini incluye una placa de identificación, úsala como decoración de casa o de oficina y deja sin palabras a tus amigos
-- Descubre un mundo de ingeniería con este set de construcción LEGO Technic, es el mejor regalo para adultos amantes de los coches deportivos, las réplicas y Lamborghini
-- Un set LEGO para adultos que cuenta con un embalaje de lujo y proporciona una impresionante pieza de exposición para construir y relajarse
-- Explora en primera persona uno de los deportivos más famosos del mundo con esta maqueta para construir para adultos LEGO Technic del Lamborghini Sián FKP 37
-- Un modelo a escala 1:8 que incluye un exclusivo libro de instrucciones de construcción con imágenes y entrevistas con los equipos de LEGO Group y Lamborghini que diseñaron el modelo
-- Con detalles como transmisión secuencial de 8 velocidades, llantas doradas y un acabado de color verde lima, es uno de los modelos de coleccionista de coches más increíbles
+- Faithful features include V12 engine with moving pistons, steering, front and rear suspension and rear spoiler, and opening scissor doors
+- The model Lamborghini includes a collector’s building instruction booklet, decorative display plate, and unique serial number
+- Discover a world of engineering with this Lamborghini LEGO Technic car model building kit for adults, perfect for a Christmas gift idea for men or women
+- This 3,696-piece LEGO set for adults features a 1:8 scale race car model, bringing you closer than ever to the real Lamborghini Sián FKP 37
+- With its elegant design and superb detailing of the decorated elements, the model is a realistic representation of the original sports car
+- Admire the 8-speed sequential transmission, opening front and rear hood, detailed disc brakes, golden rims, and lime green colour scheme
+- The LEGO Lamborghini collectable model car is presented in luxury packaging and provides a stunning display piece to build and enjoy
 
 [🛒 Check the deal!!]({{< param buyurl >}})
