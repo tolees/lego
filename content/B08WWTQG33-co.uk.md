@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Expand the play area with horse riding, driving a waggon or hosting an enchanted party in the castle kitchen
-- 10 characters to play with: 3 mini doll figures (2 versions of Belle and a Beast head for the Prince), Philippe the horse and 6 other figures
 - The LEGO Disney Princess castle building toy is loaded with accessories, including a ripped portrait of the Prince and an enchanted rose
-- With this Beauty and The Beast castle set create a 2-floors building with a spinning dance floor, rotating closet, library and dining room
 - Comes with additional Instructions PLUS app -even younger builders can zoom in on and visualize models as they build
+- 10 characters to play with: 3 mini doll figures (2 versions of Belle and a Beast head for the Prince), Philippe the horse and 6 other figures
+- With this Beauty and The Beast castle set create a 2-floors building with a spinning dance floor, rotating closet, library and dining room
+- Expand the play area with horse riding, driving a waggon or hosting an enchanted party in the castle kitchen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The best birthday gift, holiday present or special surprise for Star Wars fans aged 18+ and any experienced LEGO builder, this 625-piece Star Wars Boba Fett Helmet offers a challenging construction project
-- This LEGO Star Wars Boba Fett Helmet measures 8.5” (21cm) high, 4.5” (11cm) wide and 4.5” (11cm) deep; It doesn’t take up a lot of space, but its striking details are sure to delight any Star Wars fan
-- This Boba Fett Helmet is part of a range of collectible LEGO Star Wars build-and-display models; Also watch out for the Stormtrooper Helmet (75276)
-- The authentic details of the Boba Fett Helmet are beautifully reproduced with LEGO bricks; Displayed on its base with nameplate, this model will spark memories of thrilling Star Wars scenes
 - Pay homage to one of the most fearsome bounty hunters in the Star Wars universe and challenge your LEGO building skills to construct this awesome Boba Fett Helmet (75277) memorabilia model for display
+- The authentic details of the Boba Fett Helmet are beautifully reproduced with LEGO bricks; Displayed on its base with nameplate, this model will spark memories of thrilling Star Wars scenes
+- This Boba Fett Helmet is part of a range of collectible LEGO Star Wars build-and-display models; Also watch out for the Stormtrooper Helmet (75276)
+- This LEGO Star Wars Boba Fett Helmet measures 8.5” (21cm) high, 4.5” (11cm) wide and 4.5” (11cm) deep; It doesn’t take up a lot of space, but its striking details are sure to delight any Star Wars fan
+- The best birthday gift, holiday present or special surprise for Star Wars fans aged 18+ and any experienced LEGO builder, this 625-piece Star Wars Boba Fett Helmet offers a challenging construction project
 
 [🛒 Buy it now!!]({{< param buyurl >}})

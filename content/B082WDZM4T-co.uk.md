@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Add this treasure-hunting expansion with loads of challenges to the Adventures with Mario Starter Course set (sold separately) for extra fun
-- Features Toad Houses, a tree, treasure chest, sliding and rotating platforms and 10 action bricks, for solo gameplay or fun with friends
-- Players can help Mario figure (not included) find the 3 hidden Blocks and jump on them in the correct order to win bonus digital coins
-- Including a Goomba, 2 Cheep Cheeps and Toad and Toadette figures, this set can be combined with other Super Mario toys in various ways
 - The free LEGO app has digital building instructions, cool viewing tools, inspiration for creative play and more - visit LEGO.com/devicecheck
+- Players can help Mario figure (not included) find the 3 hidden Blocks and jump on them in the correct order to win bonus digital coins
+- Features Toad Houses, a tree, treasure chest, sliding and rotating platforms and 10 action bricks, for solo gameplay or fun with friends
+- Including a Goomba, 2 Cheep Cheeps and Toad and Toadette figures, this set can be combined with other Super Mario toys in various ways
 
 [🛒 Buy it now!!]({{< param buyurl >}})
