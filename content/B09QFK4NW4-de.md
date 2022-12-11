@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21188 Minecraft Das Lamadorf Set  Spielzeug-Haus mit Dorfbewohnern  Tier-Figuren und 6 Modulen  Geschenk zu Weihnachten'
-date: 2022-12-09 18:00:38
+date: 2022-12-11 12:18:25
 image: 'https://m.media-amazon.com/images/I/51Xbspo7WeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFK4NW4-de LEGO 21188 Minecraft Das Lamadorf Set Spielzeug-Haus mit...'
 sku: 'B09QFK4NW4-de'
 tags: [ 'Games','PlayStation 3','Spielzeug','Spielzeugfiguren & Spielsets','Tierfiguren für Kinder','Veraltete Systeme & Micro-Konsolen','Veraltete Systeme: PlayStation','lego','🇩🇪', ]
-actualPrice: 93.99 EUR
+actualPrice: 96.08 EUR
 currency: EUR
-price: 93.99
+price: 96.08
 comparePrice: 129.99 EUR
 prodname: 'LEGO 21188 Minecraft Das Lamadorf Set  Spielzeug-Haus mit Dorfbewohnern  Tier-Figuren und 6 Modulen  Geschenk zu Weihnachten'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFK4NW4/?tag=tolees0ca-21'
-descuento: '27.69'
-average: '97.765625'
+descuento: '26.09'
+average: '97.6664705882353'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Nach dem Spielen sieht dieses LEGO Minecraft Set großartig aus und ist ein tolles Geburtstags- oder Weihnachtsgeschenk zu jeder Gelegenheit für Kinder ab 9 Jahren
-- Dieses Minecraft Haus enthält außerdem einen Lama-Hirten und einen Lama-Ritter sowie Minecraft Tiere: Lama, Baby-Lama und Baby-Schaf
-- Die Kinder können sich um die Spielzeug Tiere außerhalb des Hauses kümmern und die 6 Gebäude an verschiedenen Orten platzieren
 - Enthält ein aufklappbares Lama-Haus mit Minecraft Tieren und 6 anpassbaren Gebäuden, um ein eigenes, einzigartiges Dorf zu erschaffen
 - Kinder können das Minecraft Haus zum Bauen öffnen, um alle lustigen Räume im Inneren zu betreten. Das Lama hat auch eine "Spuckfunktion"
 - Enthält LEGO Minecraft Figuren: einen Savannendörfler, einen Schmied, einen Plünderer und einen Diener, sowie Waffen wie eine Armbrust
+- Dieses Minecraft Haus enthält außerdem einen Lama-Hirten und einen Lama-Ritter sowie Minecraft Tiere: Lama, Baby-Lama und Baby-Schaf
+- Die Kinder können sich um die Spielzeug Tiere außerhalb des Hauses kümmern und die 6 Gebäude an verschiedenen Orten platzieren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
