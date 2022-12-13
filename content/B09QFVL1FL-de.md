@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 60347 City Supermarkt  Spielzeug-Shop  inkl. Auto  Gabelstapler und Straßenplatte  für Kinder ab 6 Jahre; aus der TV-Serie'
-date: 2022-12-09 23:57:43
+title: 'LEGO 60347 City Supermarkt  Shop inkl. Auto  Gabelstapler und Straßenplatte  Spielzeug ab 6 Jahre für Mädchen und Jungen  aus der Kinder TV-Serie'
+date: 2022-12-13 00:07:17
 image: 'https://m.media-amazon.com/images/I/51vQGdMazyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09QFVL1FL-de LEGO 60347 City Supermarkt Spielzeug-Shop inkl. Auto...'
+slug: 'B09QFVL1FL-de LEGO 60347 City Supermarkt Shop inkl. Auto Gabelstapler...'
 sku: 'B09QFVL1FL-de'
 tags: [ 'Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99
 comparePrice: 59.99 EUR
-prodname: 'LEGO 60347 City Supermarkt  Spielzeug-Shop  inkl. Auto  Gabelstapler und Straßenplatte  für Kinder ab 6 Jahre; aus der TV-Serie'
+prodname: 'LEGO 60347 City Supermarkt  Shop inkl. Auto  Gabelstapler und Straßenplatte  Spielzeug ab 6 Jahre für Mädchen und Jungen  aus der Kinder TV-Serie'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFVL1FL/?tag=tolees0ca-21'
 descuento: '28.34'
-average: '42.4338636363636'
+average: '42.4462222222222'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lässt sich dank der Straßenplatte leicht an andere LEGO Spielsets anbauen; enthält auch einen Einkaufswagen, Fisch, Brot und diverses Obst und Gemüse
-- Dieses LEGO City Shop Spielset enthält einen Spielzeug-Supermarkt, ein Elektroauto und einen Gabelstapler mit Hebefunktion sowie eine LEGO Straßenplatte
-- Wird mit einer leicht verständlichen Bauanleitung geliefert, damit Kinder wählen können, ob sie den LEGO City Shop selbst bauen oder sich mit Freunden und Familie zusammen tun möchten
-- Kinder können Kisten mit dem Spielzeug-Gabelstapler transportieren, Waren auslegen, den Altglascontainer füllen oder sogar an der Fischtheke arbeiten
-- Enthält 5 Minifiguren: den Charakter Mr. Produce aus der TV-Serie LEGO City - Abenteuer, einen Schildhalter in einem Erbsenschotenkostüm, einen Verkäufer und 2 Kunden
-- Dieses Spielset ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten für Jungen und Mädchen ab 6 Jahren und für Fans der TV-Serie LEGO City - Abenteuer
+- Dieses LEGO City Abenteuer Spielzeug ab 6 Jahre für Mädchen und Jungen enthält eine zweistöckige Schule mit Schulhof und Klassenzimmern, ein Spielzeugfahrrad, einen Spielzeug-Schulbus und eine Bushaltestelle
+- Die LEGO City - Abenteuer Sets fördern die Kreativität beim Spielen durch realitätsnahe Szenarien und sind tolle Geschenkideen für Kinder zum Geburtstag oder zu anderen Anlässen
+- Mithilfe der beiliegenden LEGO Straßenplatten mit Spielzeug-Ampeln, Zebrastreifen und Fahrradwegen kannst du die Stadt mit anderen LEGO City Sets erweitern
+- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Die Schule verfügt über 2 Klassenzimmer mit einem Bunsenbrenner, einem anatomischen Skelett, Tischen und einer Tafel, die zu stundenlangem Experimentieren einladen
+- Inklusive 7 LEGO Minifiguren, darunter Billy und Maddy aus der LEGO City TV-Serie, einem Eichhörnchen, einer Gitarre, einem Schlagzeug und einem Mikrofon
+- Zu diesem Schulbus gehören auch eine Mini-Puppe im Rollstuhl und eine Lollipop-Dame als Minifiguren!
+- Mit der kostenlosen LEGO Bauanleitungen App für Smartphones und Tablets können Kinder die Modelle vergrößern, drehen und beim Bauen aus allen Winkeln betrachten
 
 [🛒 Buy it!!]({{< param buyurl >}})
