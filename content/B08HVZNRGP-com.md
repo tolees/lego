@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This 224-piece LEGO Creator 3in1 set makes a fun-filled building task for kids aged 7 and up and is a great reward for creative kids
 - Impressive LEGO set also includes a vulture, which can be used with all 3 brick-built models to bring even more fun to kids savanna adventures
-- The lion model measures over 4 in. (12 cm) high – the perfect portable size to play with at home or on the go
-- The 3 animal toys are all highly posable: The lion can move its legs, tail, head and jaw; the ostrich can move its neck and legs; and the warthog can move its legs, head and jaw
 - This LEGO Creator 3in1 Wild Lion (31112) building set will fuel kids’ imaginations with 3 models in 1 – a wild lion, an ostrich and a warthog
+- The 3 animal toys are all highly posable: The lion can move its legs, tail, head and jaw; the ostrich can move its neck and legs; and the warthog can move its legs, head and jaw
+- This 224-piece LEGO Creator 3in1 set makes a fun-filled building task for kids aged 7 and up and is a great reward for creative kids
+- The lion model measures over 4 in. (12 cm) high – the perfect portable size to play with at home or on the go
 
 [🛒 Buy it now!!]({{< param buyurl >}})

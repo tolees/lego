@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Das LEGO DUPLO Set enthält außerdem vier DUPLO Figuren: 2 Männer, eine Großmutter und ein Kind, dazu noch eine Hundefigur für endlose Spielmöglichkeiten
-- Enthalten sind 2 Spielzeugautos ab 2 Jahren, eines davon mechanisch und ein Wohnmobil mit aufklappbarem Verdeck für 3 Figuren & Aufbewahrungsmöglichkeiten auf dem Dach
 - Dieses Kinderspielzeug ab 2 Jahre verfügt über eine Durchfahrtswaschanlage mit einem Reiningungsvorhang aus Stoff und einen Parkplatz für die Autos auf dem Dach
-- Die Parkplätze haben eine Rampe und eine bewegliche Schranke; außerdem gibt es eine Ladestation und einen Ticketautomaten für noch mehr Möglichkeiten beim Spielen
 - Dieses Set mit LEGO DUPLO Figuren lässt Kinder bei unzähligen Rollenspielen feinmotorische Fähigkeiten und Durchhaltevermögen entwickeln
+- Die Parkplätze haben eine Rampe und eine bewegliche Schranke; außerdem gibt es eine Ladestation und einen Ticketautomaten für noch mehr Möglichkeiten beim Spielen
+- Enthalten sind 2 Spielzeugautos ab 2 Jahren, eines davon mechanisch und ein Wohnmobil mit aufklappbarem Verdeck für 3 Figuren & Aufbewahrungsmöglichkeiten auf dem Dach
 
 [🛒 Buy it!!]({{< param buyurl >}})

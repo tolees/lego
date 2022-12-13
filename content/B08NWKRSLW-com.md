@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Spider-Man’s spectacular headquarters measure over 5 in. (14 cm) high, 16 in. (41 cm) long and 6 in. (17 cm) wide and combine easily with other LEGO Marvel Spider-Man sets
-- An ideal birthday, holiday or just-because gift for Marvel movie fans aged 8 and up who want to stand out from the crowd with the premier LEGO set Spider-Man’s HQ
 - There’s everything a teenage superhero needs in LEGO Marvel Spider-Man Attack on the Spider Lair (76175) – the first LEGO version of the web-slinger’s high-tech HQ
+- An ideal birthday, holiday or just-because gift for Marvel movie fans aged 8 and up who want to stand out from the crowd with the premier LEGO set Spider-Man’s HQ
 - Young superheroes join Spider-Man playing games in his HQ. When 2 super villains force their way in, its time for battle. Kids must use the amazing equipment and their own skills to save the day
 - Includes Spider-Man, Green Goblin and Venom minifigures, a PC, PlayStation, basketball game, skateboard with ramp, drinks area, camera, training kit, motorbike, Iron Spider Suit, weapons and a jail
 

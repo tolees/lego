@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Combine with other LEGO City sets: Space Lunar Roving Vehicle 60348, Lunar Research Base 60350 and Rocket Launch Centre 60351 for more fun!
 - Kids can zoom, rotate & view models from all angles as they build with the LEGO Building Instructions app for smartphones and tablets
+- Combine with other LEGO City sets: Space Lunar Roving Vehicle 60348, Lunar Research Base 60350 and Rocket Launch Centre 60351 for more fun!
 - This LEGO City outer space toy can be given as a birthday or any-other-day gift for 6 plus year old boys and girls who love space exploration
 - NASA - inspired LEGO City Lunar Space Station set comes with separate rooms, a docking space capsule, plus 5 LEGO astronaut minifigures
 - The LEGO astronauts minifigure accessories in this toy space station playset include a camera, wrench, drill, helmets and plants

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Designed for imaginative play – The 2-level lifeguard station comes with lots of toy play starters, including a control room witha workstation, telescope and loudspeakers, plus a toy ATV
-- What’s in the box? – Everything kids need to build a 2-level Lifeguard Station, ATV, ice-cream cart and beach setting with a palm tree, plus 4 minifigures and crab and turtle figures
-- A gift for any occasion – This LEGO toy can be given as a birthday, holiday or any-other-day gift for kids aged 5 and up
 - Beach-themed playset for kids aged 5 and up – Days at the beach are never far away with this LEGO City Beach Lifeguard Station (60328) building toy, designed for imaginative play
+- What’s in the box? – Everything kids need to build a 2-level Lifeguard Station, ATV, ice-cream cart and beach setting with a palm tree, plus 4 minifigures and crab and turtle figures
+- Designed for imaginative play – The 2-level lifeguard station comes with lots of toy play starters, including a control room witha workstation, telescope and loudspeakers, plus a toy ATV
+- A gift for any occasion – This LEGO toy can be given as a birthday, holiday or any-other-day gift for kids aged 5 and up
 - Toys for play and display – When built, the Beach Lifeguard Station measures over 5.5 in. (15 cm) high, 8.5 in. (22 cm) wide and 8 in. (20 cm) deep
 
 [🛒 Buy it!!]({{< param buyurl >}})

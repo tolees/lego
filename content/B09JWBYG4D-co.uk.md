@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- BUILD WITH CONFIDENCE - Kids can zoom, rotate and visualise the finished models as they build with the free LEGO Building Instructions app
+- ACTION PACKED GIFT - LEGO City Adventures police & fire toys for kids who love fast-paced play with emergency vehicles make great birthday present ideas
+- 2 COOL VEHICLES - It includes a range of toy emergency vehicles: a helicopter that shoots LEGO water splats and fire engine toy truck that shoots water darts
 - FEATURE PACKED TOY - This LEGO City fire station playset features a 3-level building with a toy garage, reception, firefighter quarters and control room
 - CHOOSE YOUR HERO - Includes 5 LEGO minifigures with 2 LEGO City Adventures TV series characters Freya McCloud and Finn McCormack, plus a dog and cat figures
-- 2 COOL VEHICLES - It includes a range of toy emergency vehicles: a helicopter that shoots LEGO water splats and fire engine toy truck that shoots water darts
 - FUN ACCESSORIES - Accessories include 4 helmets and walkie-talkie, fire axe, drinks mug, pizza box, and fire extinguisher elements
-- ACTION PACKED GIFT - LEGO City Adventures police & fire toys for kids who love fast-paced play with emergency vehicles make great birthday present ideas
-- BUILD WITH CONFIDENCE - Kids can zoom, rotate and visualise the finished models as they build with the free LEGO Building Instructions app
 - EXPAND YOUR CITY - Includes a Road Plate to connect with other new LEGO City sets: LEGO City Police Station (60316) or Fire Police Chase at the Bank (60317)
 
 [🛒 Buy it!!]({{< param buyurl >}})

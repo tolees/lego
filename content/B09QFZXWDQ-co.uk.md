@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kids can scan the beach from the tower, take the floatie out to sea, practice their windsurfing skills or open a surf rental shop
-- This LEGO Friends lifeguard set makes a fun birthday, holiday or impulse gift for kids aged 6 and up who love the beach and creative role play
 - Summer lovers will love this LEGO Friends beach holiday toy with cool beach structures, a shower and rental store and a toy windsurf
 - Includes summer accessory elements, such as flippers, lifebuoy and snorkels, fish, fruit, a mug, flags, walkie talkie and a LEGO toy turtle
-- Features LEGO Friends mini-dolls Stephanie, Koa and Maya, with fun toy binoculars, lifejacket, ice lolly and portable speakers accessories
+- This LEGO Friends lifeguard set makes a fun birthday, holiday or impulse gift for kids aged 6 and up who love the beach and creative role play
 - This summer LEGO Friends playset toy for kids 6+ years old includes a watchtower, surf school with a classroom and a toy unicorn floatie!
+- Features LEGO Friends mini-dolls Stephanie, Koa and Maya, with fun toy binoculars, lifejacket, ice lolly and portable speakers accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Durable and sturdy – 2,304 aligned studs provide builders with a firm and durable grip for their LEGO building bricks
-- A place for creative play – This 48x48-stud baseplate provides an open landscape for all kinds of LEGO creations
 - Designed for creative play – Measures over 14.5 in. (38cm) square, so there’s plenty of room for kids’ building projects and displays
 - A gift for any occasion – The LEGO Classic Gray Baseplate (11024) can be given as a birthday, holiday or any-other-day gift forkids aged 4 and up
+- A place for creative play – This 48x48-stud baseplate provides an open landscape for all kinds of LEGO creations
+- Durable and sturdy – 2,304 aligned studs provide builders with a firm and durable grip for their LEGO building bricks
 - A world of creative possibilities – From street scenes to castles and mountain landscapes, kids can build whatever they imagine
 
 [🛒 Buy it!!]({{< param buyurl >}})
