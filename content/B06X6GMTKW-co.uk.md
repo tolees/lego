@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO Friends building toys are compatible with all LEGO construction sets for creative building
+- Hospital is over 25cm high, 28cm wide, and 5cm deep. Ambulance is over 5cm high, 10cm long and 2.5cm wide
 - Includes Olivia, Henry and Dr. Patel mini-doll figures, plus a new-born baby Ola figure
 - Also includes a buildable ambulance and helicopter, nursery with rocking crib and bathroom, examination room with bed, helipad, anatomy skeleton, and lots of accessories
-- Hospital is over 25cm high, 28cm wide, and 5cm deep. Ambulance is over 5cm high, 10cm long and 2.5cm wide
 - Build the LEGO Friends Heartlake Hospital, featuring a waiting room with sliding doors and a reception desk, an emergency entrance, an X-ray suite and more!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

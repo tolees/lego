@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Armas incluidas: 2 blásteres y 2 pistolas bláster
-- Abre los paneles para jugar fácilmente en el interior
 - Sube el ascensor y sienta a Snoke en su cámara
+- Armas incluidas: 2 blásteres y 2 pistolas bláster
 - Cuenta con mango de transporte, detalles en los paneles de blindaje, 8 cañones que disparan hacia los lados y un detallado motor trasero
+- Abre los paneles para jugar fácilmente en el interior
 - Incluye 5 minifiguras: el líder Snoke, un oficial de la Primera Orden, un sargento Stormtrooper, un Stormtrooper y un piloto de lanzadera de la Primera Orden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
