@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- producto 1: También cuenta con una cabina que se abre para minifiguras LEGO, 2 cañones bláster giratorios (que no disparan) y un compartimento para un bloque de carbonita
 - producto 2: Incluye 2 mini figuras de la saga: un piloto de caza TIE y un Stormtrooper, ambos armados con pistolas bláster, ¡y además de una figura LEGO de un droide de protocolo NI-L8!
-- producto 2: Esta fascinante nave estelar de Star Wars cuenta con cabina abatible para una mini figura LEGO y 2 cañones automáticos para vivir auténticas aventuras llenas de acción
-- producto 1: Incluye un vehículo transportador para mover la nave en el suelo en escenarios de juego a solas o en grupo, además de un bloque de carbonita
 - producto 2: Vive tus escenas favoritas de la clásica trilogía de Star Wars con este juego de construcción del icónico Caza TIE Imperial
+- producto 2: Esta fascinante nave estelar de Star Wars cuenta con cabina abatible para una mini figura LEGO y 2 cañones automáticos para vivir auténticas aventuras llenas de acción
 - producto 1: Cuenta con una maqueta de construcción con ladrillos LEGO de la nave espacial de Boba Fett, con un mango para volar fácilmente, alas giratorias y 2 lanzamisiles
-- producto 1: El vehículo es también un fantástico soporte para que los constructores puedan mostrar su nave espacial de juguete en posición vertical de vuelo
+- producto 1: También cuenta con una cabina que se abre para minifiguras LEGO, 2 cañones bláster giratorios (que no disparan) y un compartimento para un bloque de carbonita
 - producto 2: Esta fiel y detallada versión del Caza TIE se construye con ladrillos LEGO y dispara misiles desde los lados
+- producto 1: El vehículo es también un fantástico soporte para que los constructores puedan mostrar su nave espacial de juguete en posición vertical de vuelo
+- producto 1: Incluye un vehículo transportador para mover la nave en el suelo en escenarios de juego a solas o en grupo, además de un bloque de carbonita
 
 [🛒 Buy it!!]({{< param buyurl >}})
