@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Acabado perfecto
 - Con funciones
+- Acabado perfecto
 - Marca: LEGO
 
 [🛒 Check the deal!!]({{< param buyurl >}})
