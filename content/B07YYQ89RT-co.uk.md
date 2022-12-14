@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42111 Technic Fast & Furious Dom s Dodge Charger  Toy Racing Car Model Building Kit  Xmas Gift for Boys  Girls  Men  Women  Iconic Collector s Set '
-date: 2022-12-12 13:35:40
+date: 2022-12-14 13:40:19
 image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21'
 descuento: '19.05'
-average: '73.4191269841265'
+average: '73.434412153236'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

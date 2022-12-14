@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76186 Marvel Super Heroes Black Panthers Libelle Spielzeug  Avengers Set mit Black Panther Figur und Anderen Superhelden'
-date: 2022-12-10 11:38:26
+date: 2022-12-14 12:27:48
 image: 'https://m.media-amazon.com/images/I/51Yrq2UKDSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08W8KPVKC-de LEGO 76186 Marvel Super Heroes Black Panthers Libelle...'
 sku: 'B08W8KPVKC-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 16.86 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 16.86
+price: 13.99
 comparePrice: 19.99 EUR
 prodname: 'LEGO 76186 Marvel Super Heroes Black Panthers Libelle Spielzeug  Avengers Set mit Black Panther Figur und Anderen Superhelden'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08W8KPVKC/?tag=tolees0ca-21'
-descuento: '15.66'
-average: '15.5547058823529'
+descuento: '30.02'
+average: '15.4677777777778'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
