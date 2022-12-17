@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43202 Disney Das Haus der Madrigals Spielzeug zum Bauen  Puppenhaus mit Mini-Puppen  Geburtstagsgeschenk oder Geschenk zu Weihnachten aus Disneys „Encanto“'
-date: 2022-12-09 10:18:28
+date: 2022-12-17 19:11:17
 image: 'https://m.media-amazon.com/images/I/51toNfCtMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08XDYPDTQ/?tag=tolees0ca-21'
 descuento: '26.01'
-average: '36.6713333333333'
+average: '36.69125'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Disney’s Encanto dolls house is perfect for extended play and looks great on display; it also makes a great Christmas gift for kids
-- Kids can visit the kitchen, have a tasty snack, then step outside, wave to the house, and see if it waves back!
-- Comes with 2 LEGO Disney’s Abuela & Mirabel mini doll figures and Antonio micro doll figure, plus capybara and butterfly LEGO figures
-- Accessories include an accordion, gramophone and umbrella, and a sticker sheet for decorating and customising the house
-- With detailed micro doll figures, cute creatures and recognisable scenes, this Disney’s Encanto buildable toy encourages open creative play
-- The LEGO Disneys The Madrigal dolls house set includes multiple rooms, different functions from the movie and accessories to inspire play
-- This 587-piece LEGO Disney building toy features Mirabels 3-storey house, with a spinning weather vane, flipping bed and waving shutters
+- Enthält 2 LEGO Disney Mini-Puppen: Disneys Abuela und Mirabel sowie Antonio als Mikro-Puppe. Außerdem enthalten sind ein Capybara und ein Schmetterling als LEGO Figuren
+- Kinder können die Küche besuchen, etwas Leckeres naschen und danach nach draußen gehen, dem Haus zuwinken und schauen, ob es zurückwinkt!
+- Dank der detailgetreuen LEGO Mini-Puppen, der süßen Tiere und der wiedererkennbaren Szenen regt dieses Bauspielzeug aus Disneys „Encanto“ zu offenem, kreativem Spiel an
+- Dieses LEGO Disney Spielzeug aus 587 Teilen enthält das 3-stöckige Haus von Mirabel mit einer sich drehenden Wetterfahne, einem Klappbett und winkenden Fensterläden
+- Zum Zubehör gehören ein Akkordeon, ein Grammophon und ein Regenschirm sowie ein Stickerbogen zum individuellen Gestalten des Hauses
+- Das Puppenhaus aus Disneys „Encanto“ sorgt für stundenlangen Spielspaß und sieht auch ausgestellt toll aus – die perfekte Disney-Geschenkidee zu Weihnachten
+- Disneys Haus der Madrigals enthält mehrere Räume, verfügt über verschiedene Funktionen aus dem Film und beinhaltet Zubehör, das zum Spielen anregt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
