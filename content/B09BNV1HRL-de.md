@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75324 Star Wars Angriff der Dark Trooper  Set mit Luke Skywalker mit Lichtschwert und 3 Dark Troopers Minifiguren  The Mandalorian Serie'
-date: 2022-12-15 12:50:13
+date: 2022-12-18 13:24:32
 image: 'https://m.media-amazon.com/images/I/51RGzrM85lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNV1HRL/?tag=tolees0ca-21'
 descuento: '32.87'
-average: '22.4810294117648'
+average: '22.5098571428572'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Das Set enthält 4 LEGO Star Wars Minifiguren: Luke Skywalker mit Lichtschwert und 3 Dark Troopers mit Blaster-Gewehren
 - Enthält eine detaillierte Nachbildung der Szene im Inneren des imperialen Leichten Kreuzers, in der Luke Skywalker wieder auftaucht
+- Das Luke Skywalker vs. Dark Troopers Set passt zusammen mit den LEGO Minifiguren in den Rucksack und kann so auch unterwegs gespielt werden
 - Mit diesem baubaren LEGO Mandalorian Set können Fans die Rückkehr von Luke Skywalker in der 2. Staffel von Star Wars: The Mandalorian nachstellen
 - Das LEGO Star Wars Set enthält einen Drehaufzug, eine rotierende Duellplattform und eine gleitende „Macht“-Plattform zur Abwehr eines Dark Troopers
-- Das Luke Skywalker vs. Dark Troopers Set passt zusammen mit den LEGO Minifiguren in den Rucksack und kann so auch unterwegs gespielt werden
 
 [🛒 Buy it!!]({{< param buyurl >}})

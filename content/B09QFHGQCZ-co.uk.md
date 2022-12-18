@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75573 Avatar Floating Mountains: Site 26 & RDA Samson Buildable Helicopter Toy for Kids with Direhorse Animal Figure and 5 Minifigures  Gift Idea'
-date: 2022-12-14 13:06:09
+date: 2022-12-18 13:27:29
 image: 'https://m.media-amazon.com/images/I/51UWhjGQsEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFHGQCZ/?tag=tolees0a-21'
 descuento: '33.34'
-average: '61.995'
+average: '60.9925'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - This LEGO Avatar set features a helicopter toy, Site 26 lab, 5 minifigures, a Direhorse animal figure and a scene with glow-in-the-dark elements
-- Fans place the Jake minifigure in his linkbed to awaken his Avatar and play out 2022 movie Pandora scenes from the back of a Direhorse animal figure
-- This set includes 3 building instruction booklets so friends or family members can build different parts of the set at the same time
 - With this versatile Avatar building toy, kids can recreate a scene from the film, tell a new story, or set up a dynamic bedroom display
-- The helicopter toy for kids has spinning rotors and Site 26s lab has a detachable roof for easy access to the interior
-- Surprise kids who love nature with this wonderful set as a great Christmas present or birthday gift idea for kids aged 9 plus year old
+- This set includes 3 building instruction booklets so friends or family members can build different parts of the set at the same time
 - The set includes 2 Jake Sully minifigures (in Na’vi and human forms), a crossbow and a spear, plus of Dr. Grace, Norm and Trudy minifigures
+- Surprise kids who love nature with this wonderful set as a great Christmas present or birthday gift idea for kids aged 9 plus year old
+- The helicopter toy for kids has spinning rotors and Site 26s lab has a detachable roof for easy access to the interior
+- Fans place the Jake minifigure in his linkbed to awaken his Avatar and play out 2022 movie Pandora scenes from the back of a Direhorse animal figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
