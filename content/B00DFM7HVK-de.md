@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Das Gebäude kann ohne Batterien in Betrieb genommen werden; Für das LKW-Spielzeug werden jedoch 6 AA 1,5V-Batterien (nicht im Lieferumfang enthalten) benötigt
-- Durch die App sorgt das ferngesteuerte Automodell noch lange nach dem Bau für Spaß; Lüfte die Geheimnisse der riesigen Baustellenmaschinen
-- Lade dir die LEGO-Technic-Control+-App herunter und entdecke die verschiedenen Kontrollbildschirme, Herausforderungen, Erfolge und exklusiven Inhalte
-- Angetrieben durch 1 großen Winkelmotor, 1 XL-Motor und 1 L-Motor mit einem Bluetooth-gesteuerten Smart Hub für realistische Funktionalität
-- Kontrolliere die gewaltige, 2.193 Teile umfassende Maschine mit der App – kippe die Mulde des Lasters, fahre vor- und rückwärts, lenke und ändere Geschwindigkeit und Gang
 - Die Modellbausätze von LEGO Technic sind eine großartige Geschenkidee zu Weihnachten für LEGO Fans und Fans von ferngesteuerten und app-gesteuerten Baustellenfahrzeugen
 - Baue ein Volvo-Modell der ferngesteuerten LKW-Version des klassischen knickgelenkten A60H Volvo-Dumpers nach und erlebe großartigen Bauspaß
+- Kontrolliere die gewaltige, 2.193 Teile umfassende Maschine mit der App – kippe die Mulde des Lasters, fahre vor- und rückwärts, lenke und ändere Geschwindigkeit und Gang
+- Durch die App sorgt das ferngesteuerte Automodell noch lange nach dem Bau für Spaß; Lüfte die Geheimnisse der riesigen Baustellenmaschinen
+- Das Gebäude kann ohne Batterien in Betrieb genommen werden; Für das LKW-Spielzeug werden jedoch 6 AA 1,5V-Batterien (nicht im Lieferumfang enthalten) benötigt
+- Lade dir die LEGO-Technic-Control+-App herunter und entdecke die verschiedenen Kontrollbildschirme, Herausforderungen, Erfolge und exklusiven Inhalte
+- Angetrieben durch 1 großen Winkelmotor, 1 XL-Motor und 1 L-Motor mit einem Bluetooth-gesteuerten Smart Hub für realistische Funktionalität
 
 [🛒 Buy it!!]({{< param buyurl >}})
