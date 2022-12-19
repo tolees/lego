@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Art Harry Potter Hogwarts Crests 31201 Building Kit; Perfect for Adults Who Love Hobbies and Collectibles  New 2021  4 249 Pieces '
-date: 2022-12-08 22:20:40
+date: 2022-12-19 01:19:15
 image: 'https://m.media-amazon.com/images/I/51JiokddsXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B08HW13Y43/?tag=tolees-20'
 descuento: '30.00'
-average: '114.0825'
+average: '112.649523809524'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This piece measures over 15.5 in. (40 cm) square, has 4 building options and makes a relaxing activity for you or any other Harry Potter enthusiasts in your life who also love DIY art projects
-- Reflect your love of all things Hogwarts with this stunning LEGO Art Harry Potter Hogwarts Crests (31201) set, which lets you build and display 1 of 4 detailed house crests
-- Escape the daily grind with this LEGO set, featuring 4,249 pieces, including 9 canvas wall decor plates, exclusive Harry Potter logo tile, brick-built frame, unique hanging element and tile tool
 - Celebrate your love of magic and adventure by building and displaying this unique mosaic wall art; To extend the stress relief, combine 4 of the sets to create the ultimate Hogwarts crest
+- This piece measures over 15.5 in. (40 cm) square, has 4 building options and makes a relaxing activity for you or any other Harry Potter enthusiasts in your life who also love DIY art projects
+- Escape the daily grind with this LEGO set, featuring 4,249 pieces, including 9 canvas wall decor plates, exclusive Harry Potter logo tile, brick-built frame, unique hanging element and tile tool
 - This set immerses you in your passion for both arts and crafts and the Harry Potter series while you relax and recharge; With the included Soundtrack, you learn more about the houses as you build
+- Reflect your love of all things Hogwarts with this stunning LEGO Art Harry Potter Hogwarts Crests (31201) set, which lets you build and display 1 of 4 detailed house crests
 
 [🛒 Buy it!!]({{< param buyurl >}})
