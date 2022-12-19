@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Età consigliata dal produttore: 8-12
 - L’indoraptor e il Velociraptor sono dotati di arti snodabili, testa e mascelle funzionanti
-- Il Lockwood Estate a 3 livelli contiene un ufficio, una camera da letto con letto, un’area laboratorio con vetrine museali e tetto collassabile
+- Età consigliata dal produttore: 8-12
 - Attacco dell’Indoraptor al Lockwood Estate
 - Numero di pezzi: 1019
+- Il Lockwood Estate a 3 livelli contiene un ufficio, una camera da letto con letto, un’area laboratorio con vetrine museali e tetto collassabile
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- La mansión Lockwood, de 3 plantas, cuenta con un despacho, un dormitorio con cama, un área de laboratorio con expositores de museo y techo que se derrumba
-- Edad recomendada por el fabricante: 8-12
 - El Indorraptor y el Velocirraptor cuentan con miembros, cabeza y mandíbulas articulados
-- Caos del Indorraptor en la mansión Lockwood
+- Edad recomendada por el fabricante: 8-12
 - Número de piezas: 1019
+- La mansión Lockwood, de 3 plantas, cuenta con un despacho, un dormitorio con cama, un área de laboratorio con expositores de museo y techo que se derrumba
+- Caos del Indorraptor en la mansión Lockwood
 
 [🛒 Buy it!!]({{< param buyurl >}})
