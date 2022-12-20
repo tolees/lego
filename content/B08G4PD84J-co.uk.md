@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10274 Icons Ghostbusters ECTO-1 Car Kit  Large Set for Adults  Xmas Gift Idea for Men  Women  Her  Him  Collectable Model for Display  Nostalgic Home Décor'
-date: 2022-12-15 12:51:36
+date: 2022-12-20 08:49:01
 image: 'https://m.media-amazon.com/images/I/51AMNfhYQ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4PD84J/?tag=tolees0a-21'
 descuento: '26.19'
-average: '162.080684931506'
+average: '161.984999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Check out the scissor seat mechanism that extends and rotates the rear seat and other intriguing elements attached in unique ways
 - This LEGO model car for adults boasts Ghostbusters paranormal detection equipment, with individual details explained in the collectors guide
-- LEGO model car kits to build for adults make a fantastic birthday or Ghostbusters Christmas gift for men, women, her, him or anyone looking for a next LEGO project
+- This ECTO-1 model car gives hours of enjoyment and building experience that will appeal to any adult who loves model cars or Ghostbusters
 - This model car is a stunning replica of the iconic Ghostbusters car, the ECTO-1, based on the 1959 Cadillac Miller-Meteor Futura Duplex
 - A delight for adult Ghostbusters: Afterlife fans, it includes the Proton Pack, which swivels out of a side panel to trap ghouls and ghosts
-- Check out the scissor seat mechanism that extends and rotates the rear seat and other intriguing elements attached in unique ways
-- This ECTO-1 model car gives hours of enjoyment and building experience that will appeal to any adult who loves model cars or Ghostbusters
 - The car features spookily good details: working steering, a trapdoor with a ghost trap, an extending gunner seat & a moving ghost sniffer
+- LEGO model car kits to build for adults make a fantastic birthday or Ghostbusters Christmas gift for men, women, her, him or anyone looking for a next LEGO project
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76191 Marvel Infinity Gauntlet Set  Collectible Thanos Glove with Infinity Stones  Collectible Avengers Xmas Gift for Men  Women  Him  Her  Model Kits for Adults to Build'
-date: 2022-12-13 00:00:22
+date: 2022-12-20 08:49:09
 image: 'https://m.media-amazon.com/images/I/51u63u1kw2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WX4YRK7/?tag=tolees0a-21'
 descuento: '25.00'
-average: '49.3611764705882'
+average: '49.9516666666666'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO building set for adults offers an iconic office or home décor piece sure to be the centre of attention and admiring comments
-- LEGO Marvel collectibles for adults make great Avengers gifts, Christmas Gifts for Men, Women, Him, Her or personal treat for any model-making enthusiast
-- The golden Thanos glove captures forever the captivating style of Marvel Studios’ Avengers: Infinity War and Avengers: Endgame movies
-- This impressive homage to Marvel features Thanos Gauntlet with movable fingers and vibrant colours resulting in a timeless display piece
 - Features a LEGO brick recreation of the iconic Infinity Gauntlet with Infinity Stones, and a sturdy stand with a descriptive tablet
+- LEGO Marvel collectibles for adults make great Avengers gifts, Christmas Gifts for Men, Women, Him, Her or personal treat for any model-making enthusiast
+- This LEGO building set for adults offers an iconic office or home décor piece sure to be the centre of attention and admiring comments
+- This impressive homage to Marvel features Thanos Gauntlet with movable fingers and vibrant colours resulting in a timeless display piece
+- The golden Thanos glove captures forever the captivating style of Marvel Studios’ Avengers: Infinity War and Avengers: Endgame movies
 
 [🛒 Buy it!!]({{< param buyurl >}})
