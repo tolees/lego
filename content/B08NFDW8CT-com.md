@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes 4 minifigures – Shang-Chi, Xialing, Wenwu and Death Dealer – and a buildable, articulated dragon with a detachable water base
 - Kids recreate exciting scenes from Marvel Studios’ Shang-Chi and the Legend of the Ten Rings and act out imaginative stories of their own
-- A great birthday, Christmas or ‘just because’ giftfor young superheroes and brave dragon-slayers aged 8 and up
+- Includes 4 minifigures – Shang-Chi, Xialing, Wenwu and Death Dealer – and a buildable, articulated dragon with a detachable water base
 - The dragon measures over 8 in. (22 cm) high, 11 in. (28 cm) long and 4 in. (12 cm) wide. An ideal size for hands-on play and, when the action ends for the day, an awesome display piece
 - Put Marvel Studios’ Shang-Chi and the Legend of the Ten Rings adventures into kids’ hands with this LEGO Marvel Shang-Chi Battle at the Ancient Village (76177) set
+- A great birthday, Christmas or ‘just because’ giftfor young superheroes and brave dragon-slayers aged 8 and up
 
 [🛒 Buy it!!]({{< param buyurl >}})
