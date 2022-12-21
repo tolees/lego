@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10953 DUPLO Mein erstes Einhorn Spielzeug für Kleinkinder  Spielzeugzug für Jungen und Mädchen ab 1 5 Jahren  Bausteine'
-date: 2022-12-17 13:18:15
+date: 2022-12-21 14:22:39
 image: 'https://m.media-amazon.com/images/I/51Fs68Ize8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08GP8NL1H-de LEGO 10953 DUPLO Mein erstes Einhorn Spielzeug für...'
 sku: 'B08GP8NL1H-de'
 tags: [ 'Baby- & Kleinkindspielzeug','Motorikspielzeug','Sortier- & Stapelspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 3.88 EUR
+actualPrice: 5.99 EUR
 currency: EUR
-price: 3.88
+price: 5.99
 comparePrice: 9.99 EUR
 prodname: 'LEGO 10953 DUPLO Mein erstes Einhorn Spielzeug für Kleinkinder  Spielzeugzug für Jungen und Mädchen ab 1 5 Jahren  Bausteine'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08GP8NL1H/?tag=tolees0ca-21'
-descuento: '61.16'
-average: '7.83821428571428'
+descuento: '40.04'
+average: '7.77448275862068'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
