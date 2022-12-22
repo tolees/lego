@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10960 DUPLO Disney Princess Belle s Ballroom Castle  Beauty and The Beast Set  Toy for Toddlers  Girls and Boys 2 Plus Years Old'
-date: 2022-12-21 14:24:38
+date: 2022-12-22 14:31:45
 image: 'https://m.media-amazon.com/images/I/51AacCochfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNVZMTX/?tag=tolees0a-21'
 descuento: '33.35'
-average: '12.0372549019609'
+average: '12.0363461538463'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
