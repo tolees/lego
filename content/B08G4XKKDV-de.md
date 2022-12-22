@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41439 Friends Mobiler Katzensalon Set für Jungen und Mädchen  mit Mini Tierfiguren und Mini-Puppen Emma & Mia  Spielzeug ab 4 Jahren'
-date: 2022-12-20 01:23:04
+date: 2022-12-22 07:12:30
 image: 'https://m.media-amazon.com/images/I/51r0Rfy+X9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G4XKKDV-de LEGO 41439 Friends Mobiler Katzensalon Set für Jungen und...'
 sku: 'B08G4XKKDV-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 7.49 EUR
+actualPrice: 6.79 EUR
 currency: EUR
-price: 7.49
+price: 6.79
 comparePrice: 9.99 EUR
 prodname: 'LEGO 41439 Friends Mobiler Katzensalon Set für Jungen und Mädchen  mit Mini Tierfiguren und Mini-Puppen Emma & Mia  Spielzeug ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4XKKDV/?tag=tolees0ca-21'
-descuento: '25.03'
-average: '8.45130434782609'
+descuento: '32.03'
+average: '8.41595744680851'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
