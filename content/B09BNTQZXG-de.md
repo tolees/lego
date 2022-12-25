@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Dieses LEGO Set enthält eine 24 cm große Iron Man Figur – eine realistische Nachbildung des eisernen Stars aus den Avengers-Filmen von Marvel Studios
 - Ein per Knopfdruck bedienbarer Lichtbaustein beleuchtet den Arc-Reaktor in Iron Mans Brust und sorgt so für zusätzlichen Realismus
+- Die Iron Man Figur sieht auch als Ausstellungsstück fantastisch aus. Das Modell enthält eine abnehmbare Infotafel mit Details über den legendären gepanzerten Rächer
 - Alle Teile des Iron Man Modells sind beweglich, damit die Kinder die Rüstung genau wie das Original bewegen, positionieren und aufstellen können
 - Mit dem LEGO Iron Man Spielzeug zum Bauen ab 9 Jahren können Kinder wie Tony Stark sein und ihre eigene gepanzerte Actionfigur bauen und ausstellen
-- Die Iron Man Figur sieht auch als Ausstellungsstück fantastisch aus. Das Modell enthält eine abnehmbare Infotafel mit Details über den legendären gepanzerten Rächer
-- Dieses LEGO Set enthält eine 24 cm große Iron Man Figur – eine realistische Nachbildung des eisernen Stars aus den Avengers-Filmen von Marvel Studios
 
 [🛒 Check the deal!!]({{< param buyurl >}})

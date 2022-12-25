@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses LKW-Spielzeug für Vorschulkinder ab 4 Jahren enthält einen LEGO Startbaustein, mit dem auch kleine Kinder anfangen können zu bauen
 - Die Kinder können zur Baustelle fahren, das Straßenschild aufstellen und den Presslufthammer und die Schubkarre benutzen, um das alte Fundament zu entfernen
+- Die drehbare Mischtrommel des Betonmischers fördert Betonteile aus der ausklappbaren Rinne am Heck des Baufahrzeugs
+- Dieses LKW-Spielzeug für Vorschulkinder ab 4 Jahren enthält einen LEGO Startbaustein, mit dem auch kleine Kinder anfangen können zu bauen
 - Dieses Baustellen-Spielzeug verfügt über eine Fahrerkabine zum Öffnen und eine drehbare Mischtrommel sowie 2 Arbeiter-Minifiguren für jede Menge fantasievolle Abenteuer.
 - Mit der kostenlosen LEGO Bauanleitungen App für Smartphones und Tablets können Kinder das Modell vergrößern, drehen und beim Bauen aus allen Winkeln betrachten
-- Die drehbare Mischtrommel des Betonmischers fördert Betonteile aus der ausklappbaren Rinne am Heck des Baufahrzeugs
 
 [🛒 Buy it now!!]({{< param buyurl >}})
