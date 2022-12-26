@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75323 Juguete de construcción'
-date: 2022-12-25 17:50:21
+date: 2022-12-26 19:07:22
 image: 'https://m.media-amazon.com/images/I/510aWmnxo6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFLS46D/?tag=tolees-21'
 descuento: '18.51'
-average: '141.786888888892'
+average: '141.588131868135'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,7 +28,7 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 2 años
 - LEGO SA
+- 2 años
 
 [🛒 Buy it!!]({{< param buyurl >}})

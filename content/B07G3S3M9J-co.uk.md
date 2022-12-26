@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Hogwarts Castle Clock Tower Building Toy  Compatible with Great Hall and Whomping Willow Sets  Gifts for Girls & Boys'
-date: 2022-12-25 18:08:50
+date: 2022-12-26 18:22:50
 image: 'https://m.media-amazon.com/images/I/516O6mbvkqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07G3S3M9J/?tag=tolees0a-21'
 descuento: '19.99'
-average: '73.6197822931789'
+average: '73.6174347826091'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Features a clock-changing mechanism to create Time-Turner time travel adventures and a ‘dance’ function to get the Yule Ball really moving!
+- Build the 3-level LEGO Hogwarts Castle Clock Tower toy with iconic locations and 8 minifigures from the Harry Potter movies
 - Locations include the Defense Against the Dark Arts classroom, Dumbledore’s Office, Hospital Wing, Prefects’ Bathroom and a Yule Ball scene
 - This LEGO Harry Potter buildable toy includes 8 minifigures: Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore and Madame Maxime
-- Build the 3-level LEGO Hogwarts Castle Clock Tower toy with iconic locations and 8 minifigures from the Harry Potter movies
-- This Harry Potter castle toy is a magical LEGO birthday or Christmas gift for 9 plus year old girls and boys and fans of the Wizarding World
 - All figures come with wands and their Yule Ball costumes with a scene including 2 icy tables, buildable icy sculpture and a toy Christmas Tree
-- Features a clock-changing mechanism to create Time-Turner time travel adventures and a ‘dance’ function to get the Yule Ball really moving!
+- This Harry Potter castle toy is a magical LEGO birthday or Christmas gift for 9 plus year old girls and boys and fans of the Wizarding World
 
 [🛒 Buy it!!]({{< param buyurl >}})
