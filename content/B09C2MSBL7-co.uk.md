@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Classic box of bricks includes 15 mini build recreations of past iconic LEGO toys for 5 plus year old girls and boys plus extra bricks
-- With a rainbow of colourful LEGO pieces, kids can build a toy pirate ship, an elephant, yellow toy castle, toy train or anything they want
-- Includes mini versions of the 1998 Secret of the Sphinx, 2001 LEGO BIONICLE Tahu and the 2013 LEGO NINJAGO Golden Dragon figure
 - Through playful learning with LEGO Classic building sets kids can develop precious creative skills that will last a lifetime
+- Includes mini versions of the 1998 Secret of the Sphinx, 2001 LEGO BIONICLE Tahu and the 2013 LEGO NINJAGO Golden Dragon figure
 - This LEGO Classic building toy with castle, train and more makes a great birthday present or Christmas gift for kids age 5 plus years old
 - Each of the 15 mini builds comes with a step-by-step building guide, so even first-time builders can enjoy building their own LEGO toys
+- This LEGO Classic box of bricks includes 15 mini build recreations of past iconic LEGO toys for 5 plus year old girls and boys plus extra bricks
+- With a rainbow of colourful LEGO pieces, kids can build a toy pirate ship, an elephant, yellow toy castle, toy train or anything they want
 
 [🛒 Check the deal!!]({{< param buyurl >}})
