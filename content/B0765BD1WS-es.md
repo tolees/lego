@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75930 Jurassic World Caos del Indorraptor en la mansión Lockwood'
-date: 2022-12-26 18:48:39
+date: 2022-12-28 19:57:51
 image: 'https://m.media-amazon.com/images/I/51pi7n6l-oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0765BD1WS/?tag=tolees-21'
 descuento: '16.39'
-average: '300.442107023408'
+average: '300.106877076409'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- El Indorraptor y el Velocirraptor cuentan con miembros, cabeza y mandíbulas articulados
+- Caos del Indorraptor en la mansión Lockwood
+- Número de piezas: 1019
 - La mansión Lockwood, de 3 plantas, cuenta con un despacho, un dormitorio con cama, un área de laboratorio con expositores de museo y techo que se derrumba
 - Edad recomendada por el fabricante: 8-12
-- Número de piezas: 1019
-- Caos del Indorraptor en la mansión Lockwood
+- El Indorraptor y el Velocirraptor cuentan con miembros, cabeza y mandíbulas articulados
 
 [🛒 Buy it!!]({{< param buyurl >}})
