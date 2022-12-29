@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft The First Adventure 21169 Hands-On Minecraft Playset; Fun Toy Featuring Steve  Alex  a Skeleton  Dyed Cat  Moobloom and Horned Sheep  New 2021  542 Pieces '
-date: 2022-12-25 22:33:45
+date: 2022-12-28 23:57:39
 image: 'https://m.media-amazon.com/images/I/511bD4057-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes Steve and Alex characters, plus 2 skeletons, a dyed cat, horned sheep, moobloom and fun features, such as a waterfall elevator, collapsible rail tracks, sliding earth blocks and explosions
 - LEGO Minecraft The First Adventure (21169) is a premium creative construction set that recreates one of the online game’s most exciting play environments
 - The set measures over 9 in. (23 cm) high, 8 in. (20 cm) wide and 7 in (18 cm) deep. Great for hands-on play and creating a cool display to share with friends on social media
 - For ages 8 and up. A stand-out gift for Minecraft players looking to expand their passion for the online game into the real world
+- Includes Steve and Alex characters, plus 2 skeletons, a dyed cat, horned sheep, moobloom and fun features, such as a waterfall elevator, collapsible rail tracks, sliding earth blocks and explosions
 - Players must battle hostile mobs and avoid the hidden traps as they explore the detailed environment of the 3-level Minecraft structure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
