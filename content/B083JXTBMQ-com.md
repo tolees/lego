@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This lab toy building set with Minion figures measures over 3” (8cm) high, 6” (17cm) wide and 5” (13cm) deep, making it the perfect size for kids who love to role-play with Minion toys
-- This set makes a great birthday present. LEGO 4+ sets are a fun way for kids to learn to build, boosting confidence with simple building steps
-- Kids who love Minions movies and Minion Toys will enjoy this LEGO Minions in Gru’s Lab playset (75546). This Minions toy set is an ideal birthday present for kids aged 4 and up
 - Minions fans can have lots of fun recreating scenes from the Minions: The Rise of Gru movie. With Kevin and Otto Minion toy figures, theres plenty of opportunity for role play after the model is built
+- This set makes a great birthday present. LEGO 4+ sets are a fun way for kids to learn to build, boosting confidence with simple building steps
+- This lab toy building set with Minion figures measures over 3” (8cm) high, 6” (17cm) wide and 5” (13cm) deep, making it the perfect size for kids who love to role-play with Minion toys
+- Kids who love Minions movies and Minion Toys will enjoy this LEGO Minions in Gru’s Lab playset (75546). This Minions toy set is an ideal birthday present for kids aged 4 and up
 - Lots of fun features make this an awesome playset for creative fun Kids can make the Minions slide into the basement, test the car on the ramp, or use the trigger on the back of the washing machine to make it turn
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes 6 minifigures – Makkari, Ikaris, Thena, Sersi and the exclusive Druig and Phastos – 2 Deviant action figures, including Kro, the Deviant leader, a spaceship, weapons and accessories
-- Looking for a superhero building toy for kids? This LEGO Marvel The Eternals playset, with 6 cool minifigures and 2 Deviant action figures, makes a great Christmas or birthday gift for kids aged 8+
 - The LEGO Marvel Rise of the Domo (76156) building toy takes kids inside the Eternals’ spaceship then lets them role-play endless battles with superhero minifigures and Deviant creatures
-- With The Eternals’ spaceship measuring over 8” (22cm) long, LEGO Marvel Rise of the Domo gives kids imaginative superhero action on an epic scale – and looks amazing in any youngster’s bedroom
 - Kids use their superhero skills in the final battle between the Eternals and the Deviants. The Eternals’ spaceship, with its detailed interior, ensures the imaginative play will be out of this world!
+- With The Eternals’ spaceship measuring over 8” (22cm) long, LEGO Marvel Rise of the Domo gives kids imaginative superhero action on an epic scale – and looks amazing in any youngster’s bedroom
+- Looking for a superhero building toy for kids? This LEGO Marvel The Eternals playset, with 6 cool minifigures and 2 Deviant action figures, makes a great Christmas or birthday gift for kids aged 8+
 
 [🛒 Check the deal!!]({{< param buyurl >}})

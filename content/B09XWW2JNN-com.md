@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - All kids need to build a mobile farm shop and veggie patch, with lots of play-inspiring features, plus 3 minifigures, including a LEGO City TV character, and a rabbit figure
-- The Farmers Market Van playset can be given as a holiday, birthday or any-other-day gift for boys and girls aged 5 and up
-- The Farmers Market Van comes with a serving window, opening side doors, rear doors and a minifigure cab, while the veggie patch features a fun carrot-growing function
 - Dimensions – When built, the LEGO City Farmers Market Van measures over 4 in. (10 cm) high, 10 in. (25 cm) long and 6.5 in. (17 cm) wide
+- The Farmers Market Van playset can be given as a holiday, birthday or any-other-day gift for boys and girls aged 5 and up
 - Children with a passion for shop play will love the LEGO City Farmers Market Van (60345), packed with inspiring details and functions for hours of imaginative play
+- The Farmers Market Van comes with a serving window, opening side doors, rear doors and a minifigure cab, while the veggie patch features a fun carrot-growing function
 
 [🛒 Buy it now!!]({{< param buyurl >}})

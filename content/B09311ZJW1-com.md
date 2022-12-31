@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes 3 minifigures: Kenji, Sammy and Owen Grady, plus a posable Carnotaurus toy figure and a Taser accessory element for action-packed play
 - The helicopter measures over 3 in. (7 cm) high, 7.5 in. (20 cm) long and 2 in. (6 cm) wide. Together with the truck, dinosaur figure and minifigures, it makes a fun set for creative play every day
-- Kids can play out a thrilling Carnotaurus Dinosaur Chase with this fun-packed LEGO Jurassic World toy playset (76941), featuring a buildable helicopter and pickup truck
+- Includes 3 minifigures: Kenji, Sammy and Owen Grady, plus a posable Carnotaurus toy figure and a Taser accessory element for action-packed play
 - Inspired by Jurassic World Camp Cretaceous and other Jurassic World stories, this toy playset makes a cool birthday present, Christmas gift or surprise treat for dinosaur-loving kids aged 7 and up
+- Kids can play out a thrilling Carnotaurus Dinosaur Chase with this fun-packed LEGO Jurassic World toy playset (76941), featuring a buildable helicopter and pickup truck
 - The toy helicopter features an opening minifigure cockpit, spinning propeller and a stud shooter. The truck has space for all 3 minifigures, a cabin with a lift-off roof and a cargo bed at the rear
 
 [🛒 Check the deal!!]({{< param buyurl >}})

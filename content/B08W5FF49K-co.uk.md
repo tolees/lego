@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes 2 LEGO Friends mini dolls Emma and Stephanie in riding outfit, plus accessories: an apple and carrot to feed the horses
+- This creative construction toy also comes with 2 Starter Bricks that give youngsters a partly constructed base for the car and stables
+- The LEGO Friends stable toy comes with a grooming kit, jumps and a training rein kids can use to teach the horse to walk around the ring
 - Features a horse toy figure with a movable head, a foal toy figure, a car with a trailer and stables so there are lots of ways to play
 - This LEGO Friends horse riding set for kids 4 years old also includes bays of hale and a pitchfork to clean manure from the stables
-- The LEGO Friends stable toy comes with a grooming kit, jumps and a training rein kids can use to teach the horse to walk around the ring
-- This creative construction toy also comes with 2 Starter Bricks that give youngsters a partly constructed base for the car and stables
+- Includes 2 LEGO Friends mini dolls Emma and Stephanie in riding outfit, plus accessories: an apple and carrot to feed the horses
 
 [🛒 Buy it now!!]({{< param buyurl >}})

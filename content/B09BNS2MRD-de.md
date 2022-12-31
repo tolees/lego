@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - LEGO Weltraum-Spielzeug mit Raumschiff, LEGO Buzz Lightyear, der kultigen Ranger-Figur von Pixar, seinen 3 Freunden und lustigem Zubehör
-- Die 4 Freunde suchen die Höhle, erkunden den Dschungel, um die Brennstoffzelle zu finden und in Buzz Raumschiff abzuheben
 - LEGO DUPLO Disney Bauspielzeug ist unterhaltsam und lehrreich zugleich, damit die Kleinsten einen großen Start ins Leben haben können
-- Die Höhle hat eine Öffnungs- und Schließfunktion, der Dschungelbereich hat eine Kletterranke und die Radarstation verfügt über eine Drehscheibe
 - Mit Sox, der Roboterkatze, Ivan, dem Computer, und Eric, dem dreieckigen Droiden, lassen sich endlose Abenteuer im LEGO Weltraum erleben
 - Dieses Spielzeug mit Raumschiff und Roboter bietet fesselnde Geschichten und fördert die Entwicklung motorischer Fähigkeiten
 - LEGO DUPLO Disney Set wurde mit faszinierenden Details und Farben desgint - ein ideales Spielzeug für Kleinkinder ab 2 Jahren, egal ob Mädchen oder Jungen
+- Die 4 Freunde suchen die Höhle, erkunden den Dschungel, um die Brennstoffzelle zu finden und in Buzz Raumschiff abzuheben
+- Die Höhle hat eine Öffnungs- und Schließfunktion, der Dschungelbereich hat eine Kletterranke und die Radarstation verfügt über eine Drehscheibe
 
 [🛒 Buy it now!!]({{< param buyurl >}})

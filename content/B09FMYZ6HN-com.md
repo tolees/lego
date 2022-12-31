@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 iconic Super Mario characters – A LEGO figure of Dorrie for LEGO Mario or LEGO Luigi (figures not included) to ride on and explore the level, plus an enemy Huckit Crab to defeat
-- Solo or social play – Friends and family members can compete to collect the most digital coins, then rebuild the level to set a new challenge
-- Gift idea for ages 6 and up – Give this 229-piece set as a treat or birthday gift to trendsetting kids who own a LEGO Super Mario Starter Course (71360 or 71387), which is required for play
-- Shell-launching, 1, 2, 3 Block-hunting fun – A launcher to flick a green shell at the Huckit Crab, plus a buildable sandcastle, water fountain and tree, each with functions to reveal 1, 2, 3 Blocks
 - Colorful, brick-built beach level – Kids can add beach challenges to their LEGO Super Mario Starter Course with the 71398 Dorrie’s Beachfront Expansion Set
+- Shell-launching, 1, 2, 3 Block-hunting fun – A launcher to flick a green shell at the Huckit Crab, plus a buildable sandcastle, water fountain and tree, each with functions to reveal 1, 2, 3 Blocks
+- 2 iconic Super Mario characters – A LEGO figure of Dorrie for LEGO Mario or LEGO Luigi (figures not included) to ride on and explore the level, plus an enemy Huckit Crab to defeat
+- Gift idea for ages 6 and up – Give this 229-piece set as a treat or birthday gift to trendsetting kids who own a LEGO Super Mario Starter Course (71360 or 71387), which is required for play
+- Solo or social play – Friends and family members can compete to collect the most digital coins, then rebuild the level to set a new challenge
 
 [🛒 Check the deal!!]({{< param buyurl >}})

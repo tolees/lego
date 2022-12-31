@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes Cad Bane, Omega, Fennec Shand and Hunter LEGO Star Wars minifigures, plus a Todo 360 droid figure, blaster pistols, a knife and handcuffs
-- LEGO Star Wars The Justifier buildable toy starship makes a fantastic Christmas gift or birthday present for 9 plus year old boys and girls
-- Features a LEGO Star Wars buildable toy starship, 4 minifigures plus a droid figure to role-play scenes from Star Wars: The Bad Batch Season 2
 - With this LEGO Star Wars set, kids help Omega break out of the laser jail cell with help from droid Todo 360, and team up with Hunter to get away
+- LEGO Star Wars The Justifier buildable toy starship makes a fantastic Christmas gift or birthday present for 9 plus year old boys and girls
 - Realistic features include: laser cell, 2 thermal detonator elements, spring-loaded shooters on the wingtips and spare ammo in the wing
+- Features a LEGO Star Wars buildable toy starship, 4 minifigures plus a droid figure to role-play scenes from Star Wars: The Bad Batch Season 2
 - The toy Justifier starship has a detailed, easy-to-access minifigure cockpit and the rear engine folds up and down for flight and landing modes
+- Includes Cad Bane, Omega, Fennec Shand and Hunter LEGO Star Wars minifigures, plus a Todo 360 droid figure, blaster pistols, a knife and handcuffs
 
 [🛒 Buy it!!]({{< param buyurl >}})
