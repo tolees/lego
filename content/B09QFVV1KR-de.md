@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75332 Star Wars at-ST  Bauspielzeug für Vorschulkinder ab 4 Jahren mit Ewok Wicket und Scout Trooper Minifiguren und Starter-Bauelement  Set 2022'
-date: 2022-12-30 00:32:00
+date: 2022-12-31 00:52:53
 image: 'https://m.media-amazon.com/images/I/51FeUkI2HRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFVV1KR/?tag=tolees0ca-21'
 descuento: '42.87'
-average: '22.2293827160496'
+average: '22.2020731707319'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
