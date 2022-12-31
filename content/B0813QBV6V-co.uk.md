@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter Hogwarts Astronomy Tower Castle Toy  Compatible with Great Hall and Whomping Willow Sets  Wizarding World Gifts for Girls & Boys'
-date: 2022-12-30 19:54:27
+date: 2022-12-31 20:26:26
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6V/?tag=tolees0a-21'
 descuento: '22.21'
-average: '73.9063271604944'
+average: '73.9003081664104'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Build the intricate multi-level LEGO Hogwarts Castle Astronomy Tower and explore all it has to offer while recreating scenes from the movies
-- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
 - Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
+- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
+- Build the intricate multi-level LEGO Hogwarts Castle Astronomy Tower and explore all it has to offer while recreating scenes from the movies
 - This LEGO Harry Potter Hogwarts Castle buildable toy makes a magical addition to birthday or Christmas gifts for 9 plus year old girls and boys
 - Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
-- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
 
 [🛒 Check the deal!!]({{< param buyurl >}})
