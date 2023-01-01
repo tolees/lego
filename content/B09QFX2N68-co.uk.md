@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75574 Avatar Toruk Makto & Tree of Souls  Buildable Toy with Jake Sully and Neytiri Minifigures plus Direhorse Animal Figure  Glow in the Dark Pandora Scenes'
-date: 2022-12-30 19:29:19
+date: 2023-01-01 00:48:22
 image: 'https://m.media-amazon.com/images/I/51Xtxobmk8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFX2N68/?tag=tolees0a-21'
 descuento: '38.46'
-average: '84.49'
+average: '83.59'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The set includes a buildable Tree of Souls and 3 environment models with glow-in-the-dark elements for kids to play-out epic action adventures
-- There is also a 6-legged Direhorse animal figure and an impressively large posable Toruk with an opening mouth and bendable plastic wings
-- Avatar fans can re-create a memorable, glow in the dark Pandora scene from the film, design new ideas, or build a beautiful dynamic display
 - Includes 4 Na’vi LEGO minifigures: Jake Sully, Neytiri, Mo’at and Tsu’Tey plus bows, arrows and spears accessory elements
-- This set makes a great gift for Avatar fans; the models make an out of this world display - perfect for posing on the detailed environment
 - This LEGO Avatar buildable toy features 3 different Pandora scenes, 4 character minifigures, 2 animal figures and the sacred Tree of Souls
 - Contains 3 instruction booklets, designed to encourage group fun that will allow friends and family to build different parts of the set at once
+- Avatar fans can re-create a memorable, glow in the dark Pandora scene from the film, design new ideas, or build a beautiful dynamic display
+- The set includes a buildable Tree of Souls and 3 environment models with glow-in-the-dark elements for kids to play-out epic action adventures
+- This set makes a great gift for Avatar fans; the models make an out of this world display - perfect for posing on the detailed environment
+- There is also a 6-legged Direhorse animal figure and an impressively large posable Toruk with an opening mouth and bendable plastic wings
 
 [🛒 Buy it!!]({{< param buyurl >}})
