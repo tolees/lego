@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- La gama de juguetes LEGO NINJAGO anima a los niños a sumergirse en un mundo de acción y fantasía donde pueden unir fuerzas con sus héroes ninja favoritos
-- Este set puede exhibirse con orgullo en las habitaciones de los peques entre las sesiones de juego y es un fantástico regalo de cumpleaños o Navidad para niños y niñas de 8 años en adelante
 - Si pliegan las ruedas traseras del todoterreno, se transforma del modo carretera al modo Dragón Dorado y se mueve como una criatura para derrotar a los villanos y recuperar armas ninja elementales
+- Este set puede exhibirse con orgullo en las habitaciones de los peques entre las sesiones de juego y es un fantástico regalo de cumpleaños o Navidad para niños y niñas de 8 años en adelante
 - El set cuenta con 7 mini figuras LEGO NINJAGO, entre las que hay 2 de edición especial: Kai Dorado y Zane Dragón Dorado con cuernos, además de Skylor y una selección de espadas
 - El exclusivo coche de acción ninja estilo buggy tiene muchas características y funciones, como cabina con espacio para 1 mini figura, 2 cañones con 4 tiradores y espadas de dragón doradas de juguete
-- También se incluyen las mini figuras NINJAGO de los malvados General Mister F, una Bestia Vengarroca y 2 Guerreros Vengarroca
 - A los fans de NINJAGO les encantará este set que incluye un coche ninja todoterreno de juguete con 2 tipos de movimiento, mini figuras especiales y muchas armas geniales
+- También se incluyen las mini figuras NINJAGO de los malvados General Mister F, una Bestia Vengarroca y 2 Guerreros Vengarroca
+- La gama de juguetes LEGO NINJAGO anima a los niños a sumergirse en un mundo de acción y fantasía donde pueden unir fuerzas con sus héroes ninja favoritos
 
 [🛒 Check the deal!!]({{< param buyurl >}})
