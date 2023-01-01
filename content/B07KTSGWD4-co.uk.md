@@ -30,7 +30,7 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Includes a water-reactive textile treasure map, coral and sea creature elements, underwater camera, medical instruments and many, many more.
 - Includes 3 Mini-doll figures: Olivia, Andrea and Mia, plus a robot and narwhal figures, letting role-play the hero with this rescue boat toy
-- Extending the play further is a separate heart-shaped island where a map hides the location of the underwater treasure chest.
 - The rescue cruiser comes with swiveling crane and a stretcher for transporting sick animals, lookout position and a cockpit area
+- Extending the play further is a separate heart-shaped island where a map hides the location of the underwater treasure chest.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
