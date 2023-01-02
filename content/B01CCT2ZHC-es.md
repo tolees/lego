@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Tehnic - Coche Porsche 911 GT3 RS  42056 '
-date: 2022-12-29 20:04:01
+date: 2023-01-02 20:52:15
 image: 'https://m.media-amazon.com/images/I/61q6jJoDRoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01CCT2ZHC/?tag=tolees-21'
 descuento: '17.92'
-average: '642.321442953019'
+average: '643.376310517528'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Levanta el capó y descubre el motor bóxer de 6 cilindros con pistones móviles
+- Incluye un libro especial para coleccionistas impreso a todo color con las instrucciones de construcción del modelo e información acerca de la historia de LEGO Technic y los modelos GT de Porsche
 - Incluye más de 2.700 elementos
 - Incluye un juego de adhesivos de gran realismo
-- Incluye un libro especial para coleccionistas impreso a todo color con las instrucciones de construcción del modelo e información acerca de la historia de LEGO Technic y los modelos GT de Porsche
 - Cuenta con carrocería de diseño aerodinámico
 
 [🛒 Check the deal!!]({{< param buyurl >}})
