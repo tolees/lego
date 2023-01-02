@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71409 Super Mario Set de Expansión: Desafío en Las Nubes del Gran Spike  Juguete de Construcción  Coleccionable  Combinar con Pack Inicial. para niños de +7 años'
-date: 2023-01-01 06:53:00
+date: 2023-01-02 10:06:19
 image: 'https://m.media-amazon.com/images/I/51UNgJRsJqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFWNZJH/?tag=tolees-21'
 descuento: '30.75'
-average: '54.09'
+average: '52.685'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Este set de expansión coleccionable LEGO Super Mario cuenta con un recorrido para construir y 3 figuras de conocidos enemigos: un Gran Spike, un Hermano Boomerang y una planta piraña para vivir desafíos al nivel del cielo
-- Después, podrán saltar sobre el trampolín de champiñón naranja para llegar al Hermano Boomerang, obtener el poder del bloque superestrella y saltar sobre el balancín para derrotar a la planta piraña
 - Los peques pueden desbloquear aún más diversión con la app gratuita LEGO Super Mario que incluye instrucciones de construcción e inspiración creativa, ¡obtén la lista de dispositivos compatibles en LEGO.com/devicecheck!
 - Los pequeños jugadores ganarán monedas digitales mientras ayudan a las figuras interactivas de LEGO Mario, LEGO Luigi o LEGO Peach (no incluidas) a esquivar el rodillo con pinchos que lanza Gran Spike
 - Los niños pueden ampliar su colección LEGO Super Mario con este juguete de construcción con el que acompañar a los Pack Iniciales (71360, 71387 o 71403) que se requieren para jugar
+- Este set de expansión coleccionable LEGO Super Mario cuenta con un recorrido para construir y 3 figuras de conocidos enemigos: un Gran Spike, un Hermano Boomerang y una planta piraña para vivir desafíos al nivel del cielo
+- Después, podrán saltar sobre el trampolín de champiñón naranja para llegar al Hermano Boomerang, obtener el poder del bloque superestrella y saltar sobre el balancín para derrotar a la planta piraña
 
 [🛒 Check the deal!!]({{< param buyurl >}})
