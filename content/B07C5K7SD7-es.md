@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dos películas, un juego: los jugadores podrán vivir las apasionantes aventuras de la superheroica familia Parr de nuevas maneras mientras se adentran en sus momentos favoritos de las películas Los Increíbles y Los Increíbles 2 en un mundo LEGO lleno de diversión y sorpresas.
 - El trabajo en familia es la clave: los jugadores deberán trabajar en equipo y combinar las emblemáticas habilidades y los extraordinarios poderes de la familia Parr para construir asombrosas y descomunales estructuras LEGO. El trabajo en equipo nunca ha sido tan divertido con la insuperable superfuerza de Míster Increíble, las flexibles transformaciones de Elastigirl y los asombrosos poderes del resto de la familia.
-- Oleadas de delincuencia en los distritos de la ciudad: para aca bar con la delincuencia de la ciudad, los jugadores pueden com pletar misiones secundarias llenas de acción y derrotar a los famosos supervillanos que controlan los distritos de la ciudad en un mundo abierto, conectado por un punto central, que incluye Municiberg, con una emocionante experiencia de juego libre.
 - Personalización de personajes con un nuevo giro: los jugadores pueden modificar el aspecto de su personaje y sus habilidades con el personalizador temático de Edna «E» Moda, la diminuta y fantástica diseñadora de trajes de superhéroe.
+- Dos películas, un juego: los jugadores podrán vivir las apasionantes aventuras de la superheroica familia Parr de nuevas maneras mientras se adentran en sus momentos favoritos de las películas Los Increíbles y Los Increíbles 2 en un mundo LEGO lleno de diversión y sorpresas.
+- Oleadas de delincuencia en los distritos de la ciudad: para aca bar con la delincuencia de la ciudad, los jugadores pueden com pletar misiones secundarias llenas de acción y derrotar a los famosos supervillanos que controlan los distritos de la ciudad en un mundo abierto, conectado por un punto central, que incluye Municiberg, con una emocionante experiencia de juego libre.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
