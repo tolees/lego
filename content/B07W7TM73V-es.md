@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Comisaría de Policía'
-date: 2023-01-03 20:40:20
+date: 2023-01-04 20:49:00
 image: 'https://m.media-amazon.com/images/I/51HN8Gyzz7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21'
 descuento: '20.00'
-average: '80.6265633074931'
+average: '80.6257419354834'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 6+
-- Los niños se lo pasarán en grande con la maqueta de la comisaría de policía y su multitud de características, entre ellas la función de explosión y huida de la cárcel y el foco (ladrillo con luz), además de un coche de policía con una sirena
 - Número de piezas: 743
-- Comisaría de Policía
+- Edad recomendada por el fabricante: 6+
 - ¿Qué contiene la caja? Una comisaría de policía, 2 camiones, una moto y un dron. Todo ello acompañado de 6 mini figuras, incluidos Duke DeTain, el jefe Wheeler y la ladrona Daisy Kaboom de la serie para televisión de LEGO City
+- Los niños se lo pasarán en grande con la maqueta de la comisaría de policía y su multitud de características, entre ellas la función de explosión y huida de la cárcel y el foco (ladrillo con luz), además de un coche de policía con una sirena
+- Comisaría de Policía
 
 [🛒 Check the deal!!]({{< param buyurl >}})
