@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'LEGO 41949 DOTS Multipack Bag Tag - Messaggi  Giocattoli Fai Da Te con Lettere  Giochi per Bambini  Etichetta Portachiavi per lo Zaino di Scuola'
+date: 2023-01-05 20:09:26
+image: 'https://m.media-amazon.com/images/I/51d9+W091cL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09BNT43D7-it LEGO 41949 DOTS Multipack Bag Tag - Messaggi Giocattoli...'
+sku: 'B09BNT43D7-it'
+tags: [ 'Attività creative','Giochi e giocattoli','Mosaici per bambini','lego','🇮🇹', ]
+actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
+comparePrice: 29.99 EUR
+prodname: 'LEGO 41949 DOTS Multipack Bag Tag - Messaggi  Giocattoli Fai Da Te con Lettere  Giochi per Bambini  Etichetta Portachiavi per lo Zaino di Scuola'
+country: 'it'
+flag: '🇮🇹'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.it/dp/B09BNT43D7/?tag=tolees00-21'
+descuento: '30.01'
+average: '15.4607692307692'
+---
+
+There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Questo set di giocattoli per i lavoretti creativi per bambini comprende 5 targhette con anelli pendenti in stile portachiavi, in 2 dimensioni e diversi colori
+- Questo giocattolo fai da te è ottimo per stimolare la creatività di gruppo o per giocare da soli attraverso la realizzazione di decorazioni uniche che si possono indossare
+- Include tante lettere giocattolo per bambini, più tessere colorate e decorate per realizzare etichette personalizzate per la borsa o lo zaino di scuola
+- Per aumentare il divertimento puoi aggiungere altre lettere giocattolo per bambini, contenute nella bustina Extra DOTS - Serie 6 (venduta separatamente)
+- I bambini possono realizzare nuovi oggetti decorativi oppure prendere ispirazione dallopuscolo incluso nella confezione
+- I set LEGO DOTS sono giocattoli creativi per bambini dai 6 anni in su e rappresentano unottima idea regalo di compleanno per stimolare la creatività dei bambini
+
+[🛒 Buy it now!!]({{< param buyurl >}})
