@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Der LEGO Off-Roader hat Sitze für 2 Minifiguren, einen abnehmbaren Dinosaurier-Tracker und einen abkoppelbaren Anhänger
-- Kinder können in die Welt des beliebten Films "Jurassic World - Ein neues Zeitalter" eintauchen und Dinosaurier in dem Spielzeugauto verfolgen
 - Enthält 3 Minifiguren: Ian Malcolm, Dr. Ellie Sattler und einen Wachmann mit Betäubungsstab, bereit für spannende Dinosaurier-Abenteuer
-- Dieses Dinosaurier-Spielzeug ist ein großartiges Geburtstagsgeschenk oder ein Geschenk für Kinder ab 7 Jahren, die Dinosaurier lieben
-- Der Käfig des Anhängers lässt sich öffnen und die Kinder können eine Dinosaurier-Figur darauf laden, um sie zu transportieren
 - Dieses LEGO Jurassic World Dinosaurier-Spielzeug enthält einen Geländewagen sowie bewegliche Dinosaurier-Figuren: Pyroraptor und Dilophosaurus
+- Der LEGO Off-Roader hat Sitze für 2 Minifiguren, einen abnehmbaren Dinosaurier-Tracker und einen abkoppelbaren Anhänger
+- Der Käfig des Anhängers lässt sich öffnen und die Kinder können eine Dinosaurier-Figur darauf laden, um sie zu transportieren
+- Kinder können in die Welt des beliebten Films "Jurassic World - Ein neues Zeitalter" eintauchen und Dinosaurier in dem Spielzeugauto verfolgen
+- Dieses Dinosaurier-Spielzeug ist ein großartiges Geburtstagsgeschenk oder ein Geschenk für Kinder ab 7 Jahren, die Dinosaurier lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})

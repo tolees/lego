@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das Spielzeugflugzeug hat drehende Propeller, einen zu öffnenden Frachtraum und Triebwerke, die beim Angriff abfallen
 - Lässt sich mit Atrociraptor: Motorradverfolgungsjagd (76945) kombinieren - das Motorrad passt in den Laderaum des Spielzeugflugzeugs
-- Das LEGO Jurassic World Set ist ein tolles Spielzeug ab 7 Jahre als Geburtstags- oder Weihnachtsgeschenk für Dinosaurier-, Fahrzeug- oder Tierfans
 - Dieses Dinosaurier-Spielzeug enthält eine Quetzalcoatlus Dinosaurier-Figur und ein baubares Flugzeug für actionreichen Spielspaß
-- Mit Reparatur-Zubehör: Schraubenschlüssel, Taschenlampe und Feuerlöscher können Kinder das Flugzeug nach dem Angriff reparieren
-- Das Dinosaurier-Spielzeug verfügt über ein Cockpit mit Platz für die 3 enthaltenen Minifiguren: Owen Grady, Claire Dearing und Kayla Watts
+- Das Spielzeugflugzeug hat drehende Propeller, einen zu öffnenden Frachtraum und Triebwerke, die beim Angriff abfallen
 - Kinder können die Abenteuer aus dem Film "Jurassic World - Ein neues Zeitalter" mit dem Spielzeug-Dinosaurier und seinen beweglichen Flügeln und Schnabel zum Schnappen nachspielen
+- Das Dinosaurier-Spielzeug verfügt über ein Cockpit mit Platz für die 3 enthaltenen Minifiguren: Owen Grady, Claire Dearing und Kayla Watts
+- Mit Reparatur-Zubehör: Schraubenschlüssel, Taschenlampe und Feuerlöscher können Kinder das Flugzeug nach dem Angriff reparieren
+- Das LEGO Jurassic World Set ist ein tolles Spielzeug ab 7 Jahre als Geburtstags- oder Weihnachtsgeschenk für Dinosaurier-, Fahrzeug- oder Tierfans
 
 [🛒 Buy it now!!]({{< param buyurl >}})

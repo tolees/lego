@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Enthält 3 Meeresbewohner aus LEGOsteinen: Delfin, Meeresschildkröte und Meeresschildkrötenbaby sowie einen Teufelsrochen; der Leuchtturm enthält außerdem ein kleines Boot
-- Das Strandhaus hat 2 Geschosse mit Scharnieren zum Aufklappen, das 2-geschossige Poolhaus enthält Surfbretter und einen Swimmingpool aus Legosteinen
-- Entdecke auch die anderen LEGO-Creator-3-in-1-Sets: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113) und Geländemotorrad (31114)
-- Sowohl das Surfer-Strandhaus als auch das Poolhaus lassen sich umbauen, um Kindern noch mehr unterhaltsame Spielstunden zu bieten.
 - Enthält 3-in-1-Modell: eine Surfer-Hütte, ein Leuchtturm und ein Poolhaus, außerdem 2 LEGO-Minifiguren (Mann und Frau) für lustige Strandabenteuer
+- Das Strandhaus hat 2 Geschosse mit Scharnieren zum Aufklappen, das 2-geschossige Poolhaus enthält Surfbretter und einen Swimmingpool aus Legosteinen
+- Enthält 3 Meeresbewohner aus LEGOsteinen: Delfin, Meeresschildkröte und Meeresschildkrötenbaby sowie einen Teufelsrochen; der Leuchtturm enthält außerdem ein kleines Boot
+- Sowohl das Surfer-Strandhaus als auch das Poolhaus lassen sich umbauen, um Kindern noch mehr unterhaltsame Spielstunden zu bieten.
 - Dieses lustige Spielzeug Set aus LEGO Bausteinen für Mädchen und Jungen ab 8 Jahren ist ein kreatives Geschenk zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass
+- Entdecke auch die anderen LEGO-Creator-3-in-1-Sets: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113) und Geländemotorrad (31114)
 
 [🛒 Buy it!!]({{< param buyurl >}})

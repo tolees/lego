@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Mit dem LEGO Friends-Spielset können Kinder den perfekten Tag und die perfekte Nacht am Strand verbringen und dabei Spaß mit ihren Freunden haben
 - Enthält eine LEGO Ferien-Szenerie mit separaten Spielbereichen: ein Zelt mit Stoffplane, ein Steg zum Angeln, eine Dusche, ein Lagerfeuer und ein Platz für die Paddleboards
+- Inklusive 3 LEGO Friends-Mini-Puppen: Andrea, Stephanie, Daniel und der Welpe Pebble sowie 2 Paddleboards
 - Zum Zubehör gehören Seife für die Dusche, eine Toilette mit Muschelfliesen, Schwimmwesten, eine Stereoanlage, Marshmallows am Stock und Nachttischlampen
 - Inklusive Etagenbetten und Herd im Spielzeugzelt und einer Windturbine auf dem Steg, die die Lichter mit Strom versorgt. Am Strand lassen sich Sandburgen und Muscheln finden
-- Inklusive 3 LEGO Friends-Mini-Puppen: Andrea, Stephanie, Daniel und der Welpe Pebble sowie 2 Paddleboards
 
 [🛒 Buy it now!!]({{< param buyurl >}})
