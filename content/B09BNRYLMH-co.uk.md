@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO 4+ sets come with Starter Bricks and simple picture instructions to get kids who are just learning to read building fast
 - Kids join forces with Spider-Man and Ghost-Spider as they race to rescue Trace-E from evil Doc Ock’s lab with a robot & prison cell
-- Super Heroes climb the scaffold to launch a web attack while the robotic arm grabs Doc Ock’s energy canisters or an unsuspecting web-slinger
 - Spider-Man building toys are a cool LEGO Marvel birthday or Christmas gifts for preschool kids, boys and girls age 4 plus years old
-- This Spidey And His Amazing Friends building toy includes a Spider-Man car and an action figure mech - a lot will happen there!
+- LEGO 4+ sets come with Starter Bricks and simple picture instructions to get kids who are just learning to read building fast
 - Each bag of bricks contains a Marvel character and a buildable toy model so kids can start the Super-Hero play at any point
 - This LEGO Marvel Spider-Man set for kids age 4+ comes with 3 minifigures, a robot spider, lab scene, buildable truck toy and an action mech
+- Super Heroes climb the scaffold to launch a web attack while the robotic arm grabs Doc Ock’s energy canisters or an unsuspecting web-slinger
+- This Spidey And His Amazing Friends building toy includes a Spider-Man car and an action figure mech - a lot will happen there!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

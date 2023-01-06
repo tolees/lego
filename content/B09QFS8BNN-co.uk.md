@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Let kids care for the toy farm animals, role-play shearing the sheep with the removable fur accessory, shovel the pig poop & hose down the animals
+- Kids can load the detachable toy tractors trailer with the barn’s hoist, open the roof to access the hayloft and care for the farm animals
 - This farm toy set features a barn, greenhouse, toy tractor with trailor & accessories: a shovel, shears, pitchfork, broom & watering can
 - This 4+ set comes with a LEGO Starter Brick element, pictorial guide & digital building instructions, available in the free LEGO app
-- Includes Peach minifigure from the LEGO City TV series and 3 other minifigures, plus squirrel, sheep, lamb, pig, piglet, cow and calf figures
+- Let kids care for the toy farm animals, role-play shearing the sheep with the removable fur accessory, shovel the pig poop & hose down the animals
 - Kids aged 4+ can enjoy fun on the farm with the LEGO City Barn & Farm Animals toy playset, featuring lots of figures and farm accessories
-- Kids can load the detachable toy tractors trailer with the barn’s hoist, open the roof to access the hayloft and care for the farm animals
+- Includes Peach minifigure from the LEGO City TV series and 3 other minifigures, plus squirrel, sheep, lamb, pig, piglet, cow and calf figures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
