@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41685 Friends Magical Funfair Roller Coaster Fairground Set  Amusement Park Toy  Gifts for 8 Plus Year Old Girls and Boys with Magic Tricks'
-date: 2023-01-05 13:24:44
+date: 2023-01-08 13:54:33
 image: 'https://m.media-amazon.com/images/I/51F+4yitaRS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WX4KLK3/?tag=tolees0a-21'
 descuento: '49.99'
-average: '59.0661538461538'
+average: '58.0614285714285'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ENCOURAGES CREATIVITY - Accessories include juggling clubs, stage makeup and balloons. Glow-in-the-dark bricks come to life when the lights are turned out!
-- FUN PACKED TOY - The LEGO fairground roller coaster building set features 2 rides, a popcorn stall, photo booth and a fabric-roofed big-top that hosts the show
-- AND THERES MORE - Also, check on Magical Ferris Wheel and Slide 41689 LEGO Friends Magical Funfair set
-- PERFORM MAGIC TRICKS - The amusement park toy also features magic tricks - a box then makes a mini doll disappear, and another disappearing act involving magic
 - CREATE AN ENTIRE FUNFAIR - Compatible with other LEGO Friends Magical Funfair sets – Magical Acrobatics 41686, Magical Funfair Stalls 41687 or Magical Caravan 41688
 - MINI DOLLS WITH ACCESSORIES - Includes 4 LEGO mini dolls with plenty of roles to play - they can buy popcorn, play at breathing fire or refresh themselves in the bathroom
+- PERFORM MAGIC TRICKS - The amusement park toy also features magic tricks - a box then makes a mini doll disappear, and another disappearing act involving magic
+- AND THERES MORE - Also, check on Magical Ferris Wheel and Slide 41689 LEGO Friends Magical Funfair set
+- ENCOURAGES CREATIVITY - Accessories include juggling clubs, stage makeup and balloons. Glow-in-the-dark bricks come to life when the lights are turned out!
 - WOW FRIENDS AND FAMILY - Kids can wow their family and friends by performing magic tricks, ride the feature-packed roller coaster or take a spin on the pendulum ride
+- FUN PACKED TOY - The LEGO fairground roller coaster building set features 2 rides, a popcorn stall, photo booth and a fabric-roofed big-top that hosts the show
 
 [🛒 Check the deal!!]({{< param buyurl >}})
