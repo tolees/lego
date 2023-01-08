@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids join Alex as she dives to search for hidden treasure among the colourful coral reef and fights off a surprise attack by a drowned zombie
-- Kids can turn the big yellow rock to uncover the hidden treasure chest which opens to reveal a fish and a pearl, to blowfishs surprise
-- Also includes a Drowned, Zombie-like figure and 2 puffer fish - 1 ‘inflated’, 1 normal size, bursting with Minecraft colour and action
 - This endlessly entertaining, feature-packed toy is an ideal gift for kids who like to build and explore, with more sets to collect & combine
 - Features popular gaming character Alex, the Minecraft daredevil, with a diving helmet, magic trousers and sword. Will Alex defeat the zombie
+- Kids can turn the big yellow rock to uncover the hidden treasure chest which opens to reveal a fish and a pearl, to blowfishs surprise
+- Kids join Alex as she dives to search for hidden treasure among the colourful coral reef and fights off a surprise attack by a drowned zombie
+- Also includes a Drowned, Zombie-like figure and 2 puffer fish - 1 ‘inflated’, 1 normal size, bursting with Minecraft colour and action
 
 [🛒 Check the deal!!]({{< param buyurl >}})

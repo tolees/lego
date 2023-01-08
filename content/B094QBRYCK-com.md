@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes 2 DUPLO figures – a recycling man and a boy – a movable truck with a tipping function, 3 bags that fit into 3 matching waste bins, plus a large broom
-- LEGO DUPLO Town Garbage Truck and Recycling (10945) is a colorful and versatile playset bursting with features and fun activities to inspire learning and play
 - The playset measures over 4.5 in. (11 cm) high, 5.5 in. (15 cm) wide and 2.5 in. (7 cm) deep, although it can be arranged in different ways as well as combined with other LEGO DUPLO toys
-- This feature-packed playset provides endless playful learning for kids aged 2 and up and a chance for parents to share precious developmental milestones with their preschooler
+- Includes 2 DUPLO figures – a recycling man and a boy – a movable truck with a tipping function, 3 bags that fit into 3 matching waste bins, plus a large broom
 - As children role-play imaginative stories about organizing the recycling and loading up the truck, they learn about colors, improve fine motor skills and develop aneco-friendly understanding
+- LEGO DUPLO Town Garbage Truck and Recycling (10945) is a colorful and versatile playset bursting with features and fun activities to inspire learning and play
+- This feature-packed playset provides endless playful learning for kids aged 2 and up and a chance for parents to share precious developmental milestones with their preschooler
 
 [🛒 Buy it!!]({{< param buyurl >}})
