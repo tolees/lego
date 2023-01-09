@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10280 Flower Bouquet  Artificial Flowers  Set for Adults  Decorative Home Accessories  Idea  Botanical Collection'
-date: 2023-01-05 20:15:06
+date: 2023-01-09 08:21:50
 image: 'https://m.media-amazon.com/images/I/51G6yb7KXCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08G4KJGG3/?tag=tolees0a-21'
 descuento: '27.26'
-average: '62.564696969697'
+average: '62.2279104477612'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Features 15 stems with a mix of flower and leaf varieties such as roses, snapdragons, poppies, asters, daisies and grasses
 - The flowers have customizable elements: posable petals and leaves, with adjustable stem lengths to create wonderful arrangements for the home
-- This decorative home accessory uses elements made from plant-based plastic, produced using sustainably sourced sugarcane
 - As the first ever LEGO artificial flowers bouquet, they are created from over 17 unusual new elements with realistic petal shapes & colours
 - LEGO artificial flowers bouquet set for adults makes a wonderful flower gift for a friend or loved one as a birthday present, or a fun Mothers Day gift idea that never withers
+- Features 15 stems with a mix of flower and leaf varieties such as roses, snapdragons, poppies, asters, daisies and grasses
+- This decorative home accessory uses elements made from plant-based plastic, produced using sustainably sourced sugarcane
 - Let your imagination bloom to create a stunning, unexpected, vibrant and never withering display that is sure to make people look twice
 
 [🛒 Check the deal!!]({{< param buyurl >}})
