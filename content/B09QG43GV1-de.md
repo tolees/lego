@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76403 Harry Potter Zaubereiministerium modulares Set zum Bauen mit Minifiguren und Umwandlungsmechanismus  Geschenk zu Weihnachten für Sammler'
-date: 2023-01-08 19:52:03
+date: 2023-01-09 20:26:52
 image: 'https://m.media-amazon.com/images/I/51a6Bctq4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das Set aus der LEGO Harry Potter Collection, kann für endlose neue Abenteuer umgestaltet werden und ist eine tolle Deko für zu Hause
-- Das einzigartige Spielset ist ein zauberhaftes Harry Potter Geburtstags- oder Weihnachtsgeschenk für Hexen, Zauberer und Muggel ab 9 Jahren
-- Das erste LEGO Harry Potter Set mit dem Zaubereiministerium, den Büros von Dolores Umbridge und Arthur Weasley, der Halle der Prophezeiung
-- Enthält 12 LEGO Minifiguren, u.a. Harry Potter, Hermine Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole
-- Das Harry Potter Spielzeug enthält eine Telefonzelle, den Tagespropheten, eine Patronus-Katze, 2 Köderzünder und einen Horkrux
-- Dieses modulare LEGO Harry Potter Set enthält außerdem Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley und einen Dementor
-- Verwandle das Aussehen der Freunde mit Vielsafttrank mit 3 Minifiguren mit neuem Gesicht und anderem Haarteil
+- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
+- First-of-its-kind Harry Potter playset makes a magical Wizarding World Christmas Gift or birthday Present for 9 plus year old girls and boys
+- 12 Minifigures including Harry Potter, Hermione Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole, all with wands
+- The first LEGO Harry Potter set to feature Ministry of Magic, with Dolores Umbridge & Arthur Weasleys offices, Hall of Prophecy and Court Room
+- Accessories include a red phone box, stacks of the Daily Prophet newspaper, Patronus cat, 2 decoy detonators and the Slytherin locket Horcrux
+- This ‘living model’ large LEGO modular building can be easily reconfigured for endless new adventures & is a great home décor piece on display
+- This LEGO Harry Potter modular set also includes Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley and Dementor minifgures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
