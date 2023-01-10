@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71397 Super Mario Luigi’s Mansion Lab & Poltergust Expansion Set  Buildable Game Toy with Gold Ghost Figure  Gift for Girls and Boys age 6 Plus'
-date: 2023-01-05 20:16:42
+date: 2023-01-10 14:24:03
 image: 'https://m.media-amazon.com/images/I/51gctL0ZavL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNXLZMY/?tag=tolees0a-21'
 descuento: '24.97'
-average: '14.926'
+average: '15.1883333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- With the Luigi’s Mansion Lab and Poltergust Expansion Set kids can bring a ghost-catching challenge to their LEGO Super Mario Starter Course
+- This Super Mario toy features a Poltergust for LEGO Luigi figure (not included) with a choice of a normal nozzle or Strobulb to attach to it
+- Kids can activate the ghost-catching feature by pressing the button on pants; also, included start plate triggers different background music
 - Includes LEGO figures of Professor E. Gadd and an enemy Gold Ghost to bring the LEGO Super Mario buildable game to life
 - LEGO Super Mario expansion sets make a great gift for kids who own a LEGO Super Mario Starter Course 7136071387, which is required for play
-- Kids can activate the ghost-catching feature by pressing the button on pants; also, included start plate triggers different background music
-- This Super Mario toy features a Poltergust for LEGO Luigi figure (not included) with a choice of a normal nozzle or Strobulb to attach to it
-- With the Luigi’s Mansion Lab and Poltergust Expansion Set kids can bring a ghost-catching challenge to their LEGO Super Mario Starter Course
 
 [🛒 Check the deal!!]({{< param buyurl >}})
