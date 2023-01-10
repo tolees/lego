@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21176 Minecraft The Jungle Abomination Dungeons Playset  Action Toy with Creeper & Skeleton Figures  Gifts for 8 Plus Year Old Boys & Girls'
-date: 2023-01-06 13:53:01
+date: 2023-01-10 20:13:56
 image: 'https://m.media-amazon.com/images/I/51nNff5K2KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08WXBRCGG/?tag=tolees0a-21'
 descuento: '24.84'
-average: '28.8236363636364'
+average: '28.6133333333334'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - This LEGO Minecraft action figure toy features the ultimate jungle giant, the Jungle Abomination - a Minecraft monster figure
-- This living mix of logs, vines, and stone stands firmly on a large baseplate - an ideal display model decorating kids bedroom
 - Includes explorer and archaeologist characters, an enchanted Creeper, skeleton, iron golem and an articulated plant with grabbing petals
 - The Jungle Abomination is a fully posable character with movable arms, head, mouth, legs and waist - a great play & display Minecraft toy
-- The movable plant monster, pedestal and bamboo plant stand on their own, smaller baseplates to maximize customizability
 - With its massive, movable head, opening mouth and arm made for crushing, kids will have hours of fun with Minecraft dungeons
+- The movable plant monster, pedestal and bamboo plant stand on their own, smaller baseplates to maximize customizability
+- This living mix of logs, vines, and stone stands firmly on a large baseplate - an ideal display model decorating kids bedroom
 
 [🛒 Buy it now!!]({{< param buyurl >}})
