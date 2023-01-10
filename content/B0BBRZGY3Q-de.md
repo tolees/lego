@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lerne die neue Heartlake City Charaktere aus der Serie 2023 kennen, voller lustiger neuer LEGO Friends Figuren, die die Kinder kennenlernen können - sieh dir auch andere Sets an, wie Heartlake Diner in der Innenstadt 41728
-- Die Kinder können alle Details in diesem Spielset entdecken, wie z. B. die Einkaufswagen mit Ablagefläche, einen Spielzeug-Van mit Platz für eine Minifigur und Platz für Gemüse sowie jede Menge Zubehör: Einkaufskörbe, Dosen, Flaschen und Lebensmittel
-- Dieses LEGO Friends Heartlake City Geschäft eignet sich hervorragend zum fantasievollen Spielen. Überraschen Sie Kinder ab 8 Jahren mit diesem Set als Geschenk zum Geburtstag oder auch ohne besonderen Anlass
-- Der Spielzeugladen wird mit den LEGO Friends Mini-Puppen Leo, Autumn, Jordin und Isaac sowie einer jüngeren Schwester Alba und der Katzenfigur Churro geliefert, die alle zur neuen Generation der LEGO Friends Figuren für 2023 gehören
 - Im LEGO Geschäft gibt es viel zu entdecken: Die Kinder können im Rollenspiel im Laden arbeiten, mit dem Wischmopp putzen und das Schild mit dem nassen Boden benutzen; sie können einkaufen gehen oder Jordin helfen, Gemüse auszuliefern
+- Der Spielzeugladen wird mit den LEGO Friends Mini-Puppen Leo, Autumn, Jordin und Isaac sowie einer jüngeren Schwester Alba und der Katzenfigur Churro geliefert, die alle zur neuen Generation der LEGO Friends Figuren für 2023 gehören
+- Lerne die neue Heartlake City Charaktere aus der Serie 2023 kennen, voller lustiger neuer LEGO Friends Figuren, die die Kinder kennenlernen können - sieh dir auch andere Sets an, wie Heartlake Diner in der Innenstadt 41728
 - Der LEGO Supermarkt für Kinder ab 8 Jahren enthält einen Lieferwagen, 2 Einkaufswagen, 4 Minipuppen und 1 Mikropuppe, um lustige Einkaufsabenteuer nachzuspielen
+- Dieses LEGO Friends Heartlake City Geschäft eignet sich hervorragend zum fantasievollen Spielen. Überraschen Sie Kinder ab 8 Jahren mit diesem Set als Geschenk zum Geburtstag oder auch ohne besonderen Anlass
+- Die Kinder können alle Details in diesem Spielset entdecken, wie z. B. die Einkaufswagen mit Ablagefläche, einen Spielzeug-Van mit Platz für eine Minifigur und Platz für Gemüse sowie jede Menge Zubehör: Einkaufskörbe, Dosen, Flaschen und Lebensmittel
 
 [🛒 Check the deal!!]({{< param buyurl >}})

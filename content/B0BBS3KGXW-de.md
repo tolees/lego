@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die Beine und Arme der Mech Action-Figur sind beweglich, damit Kinder tolle Rollenspiele machen und das Spielzeug zum Bauen anschließend in ihrem Zimmer ausstellen können
 - Diese riesige NINJAGO Action-Figur hat ein Cockpit für Jay, eine große Drachenklinge, 2 Katanas sowie 2 Shooter, die auf ihren Schultern montiert sind
-- Dieses LEGO NINJAGO Set enthält eine riesige Mech-Actionfigur mit Ninja-Waffen, 5 NINJAGO Minifiguren und einem Wagen mit Doppelarmbrust, der blitzschnell Pfeile abfeuert
-- Dieses Kampfspielzeug für Kinder ab 9 Jahren enthält Jay und Nya Minifiguren, mit denen Kinder gegen den Skelett-König, Skelettkrieger, und Skelett-Ritter kämpfen können
-- Enthält einen Pixal Bot mit 2 Clips, um die Ninja-Schwerter zu halten, und die grünen LEGO Skelettkrieger haben eine schnell schießende Armbrust mit 4 Pfeilen
 - Mit diesem 794-teiligen LEGO NINJAGO Set können Kinder ab 9 Jahren Ninja-Abenteuer nachspielen. Es ist ein cooles Geburtstags-, oder Überraschungsgeschenk für abenteuerlustige Kinder
+- Die Beine und Arme der Mech Action-Figur sind beweglich, damit Kinder tolle Rollenspiele machen und das Spielzeug zum Bauen anschließend in ihrem Zimmer ausstellen können
+- Dieses LEGO NINJAGO Set enthält eine riesige Mech-Actionfigur mit Ninja-Waffen, 5 NINJAGO Minifiguren und einem Wagen mit Doppelarmbrust, der blitzschnell Pfeile abfeuert
+- Enthält einen Pixal Bot mit 2 Clips, um die Ninja-Schwerter zu halten, und die grünen LEGO Skelettkrieger haben eine schnell schießende Armbrust mit 4 Pfeilen
+- Dieses Kampfspielzeug für Kinder ab 9 Jahren enthält Jay und Nya Minifiguren, mit denen Kinder gegen den Skelett-König, Skelettkrieger, und Skelett-Ritter kämpfen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
