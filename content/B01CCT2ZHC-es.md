@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Incluye un juego de adhesivos de gran realismo
+- Incluye más de 2.700 elementos
 - Incluye un libro especial para coleccionistas impreso a todo color con las instrucciones de construcción del modelo e información acerca de la historia de LEGO Technic y los modelos GT de Porsche
 - Levanta el capó y descubre el motor bóxer de 6 cilindros con pistones móviles
-- Incluye más de 2.700 elementos
-- Incluye un juego de adhesivos de gran realismo
 - Cuenta con carrocería de diseño aerodinámico
 
 [🛒 Check the deal!!]({{< param buyurl >}})
