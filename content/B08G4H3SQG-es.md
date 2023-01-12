@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lleva la diversión a todas partes con este juguete de construcción de Star Wars inspirado en un emblemático vehículo de la trilogía clásica para construir con ladrillos LEGO
-- Esta pequeña nave estelar es un fascinante regalo de cumpleaños, de cualquier ocasión o de Navidad para niños de 6 años en adelante amantes del universo LEGO y las películas de Star Wars
 - También incluye una mini figura LEGO Star Wars de Han Solo con una pistola bláster de juguete para poner en marcha el juego creativo y la diversión
+- Esta pequeña nave estelar es un fascinante regalo de cumpleaños, de cualquier ocasión o de Navidad para niños de 6 años en adelante amantes del universo LEGO y las películas de Star Wars
+- Este juguete portátil cuenta con un mini modelo del Halcón Milenario para construir, con asiento para una mini figura LEGO y 2 cañones para vivir épicas batallas
 - Combinable con otros sets LEGO Star Wars, va a la perfección con el set Microfighters: AT-AT vs- Tauntaun (75298) para disfrutar de más opciones de juego
 - Fácil de construir, este set trae instrucciones paso a paso y tiene el tamaño ideal para que los peques lo metan en la mochila y vivan aventuras espaciales en cualquier lugar
-- Este juguete portátil cuenta con un mini modelo del Halcón Milenario para construir, con asiento para una mini figura LEGO y 2 cañones para vivir épicas batallas
+- Lleva la diversión a todas partes con este juguete de construcción de Star Wars inspirado en un emblemático vehículo de la trilogía clásica para construir con ladrillos LEGO
 
 [🛒 Check the deal!!]({{< param buyurl >}})
