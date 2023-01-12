@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Millennium Falcon Raumschiff Bauset mit Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 und D-O  Der Aufstieg Skywalkers  Kollektion'
-date: 2023-01-10 21:49:13
+date: 2023-01-11 22:36:10
 image: 'https://m.media-amazon.com/images/I/51U02wmxFZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21'
 descuento: '24.12'
-average: '129.987792848329'
+average: '129.986564039402'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

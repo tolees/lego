@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - LEGO 75192 Star Wars Millennium Falcon  Maqueta para Construir'
-date: 2023-01-10 22:13:52
+date: 2023-01-11 22:58:32
 image: 'https://m.media-amazon.com/images/I/51R2MaM2aZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B075PT2JH9/?tag=tolees-21'
 descuento: '37.46'
-average: '841.243975265016'
+average: '841.171216931215'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Con 7.541 piezas los fans de LEGO Star Wars podrán cambiar las características de los personajes y alternar entre la versión clásica y Episodio VII/VIII del Halcón Milenario
 - Podrás construir un droide BB-8, 2 Porgs y un Mynock mientras admiras los intrincados destalles del casco, el plato sensor, los cañones láser cuádruples y el oculto cañón bláster
+- Esta detallada maqueta para construir cuenta con una placa informativa y puede convertirse en la decoración de Star Wars para casa perfecta, ¡te sentirás orgulloso de exhibirla!
+- Con 7.541 piezas los fans de LEGO Star Wars podrán cambiar las características de los personajes y alternar entre la versión clásica y Episodio VII/VIII del Halcón Milenario
 - Este coleccionable de Star Wars de LEGO para adultos cuenta con capota desmontable y espacio en cabina para 4 mini figuras, ¡descubre el compartimento oculto del suelo!
 - Explora toda la gama de kits de construcción de LEGO Star Wars para descubrir una variedad de regalos de Star Wars que encantarán a fans de todas las edades
 - Incluye 4 mini figuras LEGO clásicas de la tripulación: Han Solo, Chewbacca, princesa Leia y C-3PO, además de 3 tripulantes del Episodio VII/VIII: Han Solo Mayor, Rey y Finn
 - Aterriza la nave estelar ultrarrápida de Han Solo en tu casa con este increíble set de construcción del Millennium Falcon, ¡un modelo repleto de detalles y divertidas funciones!
-- Esta detallada maqueta para construir cuenta con una placa informativa y puede convertirse en la decoración de Star Wars para casa perfecta, ¡te sentirás orgulloso de exhibirla!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
