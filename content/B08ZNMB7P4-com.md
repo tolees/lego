@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - A cool birthday or any-other-day gift for kids and groups aged 5 and up. Combine this toy playset with others from the LEGO City Stuntz range for even more action-packed contests and stunt-show fun!
-- Kids can enjoy action-packed fun with this LEGO City Stunt Competition (60299) toy playset, featuring 2 flywheel-powered motorcycles, a stunt course and 2 riders, including a LEGO City TV character
-- Kids can activate the flywheel stunt bikes and launch from the ramp to soar through the ring of fire, then lengthen the jump and increase the height of the ring to increase the difficulty!
-- What’s in the box? A ring of fire, height-adjustable tower, buildable LEGO flames, 2 flywheel-powered stunt bikes and 2 rider minifigures, including LEGO City TV’s Duke DeTain
 - When built, the LEGO City Stunt Competition toy playset measures over 9 in. (24 cm) high, 8.5 in. (22 cm) wide and 4.5 in. (11 cm) deep
+- What’s in the box? A ring of fire, height-adjustable tower, buildable LEGO flames, 2 flywheel-powered stunt bikes and 2 rider minifigures, including LEGO City TV’s Duke DeTain
+- Kids can activate the flywheel stunt bikes and launch from the ramp to soar through the ring of fire, then lengthen the jump and increase the height of the ring to increase the difficulty!
+- Kids can enjoy action-packed fun with this LEGO City Stunt Competition (60299) toy playset, featuring 2 flywheel-powered motorcycles, a stunt course and 2 riders, including a LEGO City TV character
 
 [🛒 Buy it!!]({{< param buyurl >}})
