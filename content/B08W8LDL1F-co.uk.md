@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Harry Potter toy for boys and girls includes an exclusive, golden Hermione Granger minifigure to celebrate 20 years of Harry&039;s magic
-- Includes Harry Potter, Hermione Granger and Ron Weasley minifigures, and 2 random wizard card tiles for kids to collect (out of 16 in total)
-- This LEGO Harry Potter Hogwarts building set features 5 separate modules that connect in a variety of ways and a posable giant dog with 3 heads
 - Fluffy the 3-headed dog&039;s legs can be placed into a range of positions and each of the 3 movable heads shows a different expression
+- This LEGO Harry Potter toy for boys and girls includes an exclusive, golden Hermione Granger minifigure to celebrate 20 years of Harry&039;s magic
 - Reconfigurable options include a large room with a trap door, magic-practice room, rooftop, balcony room and one with Devil’s Snare plant
+- This LEGO Harry Potter Hogwarts building set features 5 separate modules that connect in a variety of ways and a posable giant dog with 3 heads
+- Includes Harry Potter, Hermione Granger and Ron Weasley minifigures, and 2 random wizard card tiles for kids to collect (out of 16 in total)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die beiden Ebenen des LEGO Minecraft-Hauses lassen sich voneinander trennen und umbauen, um ein neues Spielerlebnis zu schaffen
-- Dieses Spielzeug mit Minecraft-Figuren, vielen authentischen Details und coolen Funktionen ermöglicht es Kindern ab 8 Jahren, ihr eigenes Kriegerversteck zu erschaffen
-- Die LEGO Minecraft-Spielzeuge sind hervorragende Geburtstags- oder Weihnachtsgeschenke für Kinder ab 8 Jahren und alle anderen Fans des Spiels!
-- Enthält ein zweistöckiges Gebäude mit einem Dojo im Ober- und einer Schmiedehöhle im Untergeschoss – verbunden durch eine Falltür, die mit einem Block betätigt wird
-- Das LEGO Minecraft-Set enthält viele klassische Minecraft-Figuren: einen Ninja, einen Schurken, ein Skelett und eine Fledermaus
 - Die Kinder drücken den Block unter den Baum und – wusch! – die Falltür öffnet sich. Der Unglückliche, der darauf steht, stürzt in die Minecraft-Höhle hinab
+- Das LEGO Minecraft-Set enthält viele klassische Minecraft-Figuren: einen Ninja, einen Schurken, ein Skelett und eine Fledermaus
 - In der Minecraft-Höhle befinden sich ein Amboss, ein Ofen, ein Rüstungsständer und vieles mehr, mit denen Kinder die Waffen der Minecraft-Krieger herstellen und reparieren können
+- Die LEGO Minecraft-Spielzeuge sind hervorragende Geburtstags- oder Weihnachtsgeschenke für Kinder ab 8 Jahren und alle anderen Fans des Spiels!
+- Dieses Spielzeug mit Minecraft-Figuren, vielen authentischen Details und coolen Funktionen ermöglicht es Kindern ab 8 Jahren, ihr eigenes Kriegerversteck zu erschaffen
+- Enthält ein zweistöckiges Gebäude mit einem Dojo im Ober- und einer Schmiedehöhle im Untergeschoss – verbunden durch eine Falltür, die mit einem Block betätigt wird
+- Die beiden Ebenen des LEGO Minecraft-Hauses lassen sich voneinander trennen und umbauen, um ein neues Spielerlebnis zu schaffen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
