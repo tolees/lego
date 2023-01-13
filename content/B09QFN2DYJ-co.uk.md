@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The ideal pre-Christmas gift for young witches, wizards and muggles age 7 and up, who will have fun with the toys all year long
-- This LEGO Harry Potter Advent Calendar 2022 makes every day in the countdown to Christmas magical with 24 movie-inspired toys and minifigures
-- Includes Harry Potter, Sirius Black, Moaning Myrtle, Lord Voldemort, Horace Slughorn, Nymphadora Tonks and Neville Longbottom minifigures
-- The Christmas toys in this LEGO Advent Calendar 2022 can be combined with all other LEGO Harry Potter sets for even more wizarding world fun
 - Let the magic unfold in the Christmas countdown! The first 3 doors hide a toy from the first movie, the next 3 - from the second film, and so on
 - Children can recreate the Harry Potter movies or combine the toys for endless adventures; also includes a board game to play on
+- The ideal pre-Christmas gift for young witches, wizards and muggles age 7 and up, who will have fun with the toys all year long
+- The Christmas toys in this LEGO Advent Calendar 2022 can be combined with all other LEGO Harry Potter sets for even more wizarding world fun
+- Includes Harry Potter, Sirius Black, Moaning Myrtle, Lord Voldemort, Horace Slughorn, Nymphadora Tonks and Neville Longbottom minifigures
+- This LEGO Harry Potter Advent Calendar 2022 makes every day in the countdown to Christmas magical with 24 movie-inspired toys and minifigures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
