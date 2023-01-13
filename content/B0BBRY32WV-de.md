@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Vorschulkinder lernen mit diesem LEGO NINJAGO Anfängerset ab 4 Jahren bauen. Es enthält ein Ninja-Motorrad, einen Starter-Bauelement und 2 Minifiguren
 - Der böse Skelett-Wächter hat das kostbare Goldene Drachenschwert stibitzt! Kinder müssen sich mit Lloyd auf seinem supercoolen Ninja-Motorrad zusammentun, um es zurückzubekommen
 - Das Lernspielzeug für Vorschulkinder ab 4 Jahren hat ein teilweise zusammengesetztes Starter-Bauelement, welches Kindern das Bauen erleichtert
-- Beinhaltet Lloyd und Skelett-Wächter Minifiguren mit Spielzeugschwertern sowie einem kleinen Tempel aus LEGO Steinen mit goldener Waffe und verstecktem Shooter, der Scheiben abfeuert
 - Jeder Beutel in der Box dieses einfach zu bauenden LEGO Sets enthält Steine für ein Modell und eine Figur zum Bauen, damit die Kinder rasch zu spielen beginnen können
 - Dieses einfach zu bauende LEGO NINJAGO Spielzeug-Motorrad ist ein tolles Geschenk für Vorschulkinder und Lernspielzeug für Kinder ab 4 Jahren
+- Beinhaltet Lloyd und Skelett-Wächter Minifiguren mit Spielzeugschwertern sowie einem kleinen Tempel aus LEGO Steinen mit goldener Waffe und verstecktem Shooter, der Scheiben abfeuert
+- Vorschulkinder lernen mit diesem LEGO NINJAGO Anfängerset ab 4 Jahren bauen. Es enthält ein Ninja-Motorrad, einen Starter-Bauelement und 2 Minifiguren
 
 [🛒 Buy it now!!]({{< param buyurl >}})

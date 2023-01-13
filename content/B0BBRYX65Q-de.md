@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses LEGO City Polizei-Spielzeug für Kinder ist eine großartige Geschenkidee für Kinder ab 6 Jahren, die sich für Polizei- und Reit-Spielzeug begeistern
-- Es sind nicht nur die menschlichen Polizisten, die geschult werden müssen! Ebenfalls enthalten sind ein Pferde-Spielzeug, eine Reiter-Minifigur und Hindernisse, um den neuesten Tier-Rekruten zu trainieren
 - Das Quad verfügt über eine funktionierende Lenkung, mit der du um die Verkehrshütchen flitzen kannst. Außerdem sind 6 Minifiguren und eine Pferdebürste, Handschellen, 2 Kurzhanteln und eine Langhantel enthalten
-- Lass die Polizeischüler-Minifiguren eine Kletterwand erklimmen, an den Monkey Bars von Stange zu Stange hangeln und eine Seilrutsche hinuntersausen und dann eine Hindernisstrecke mit beweglichen Hindernissen bewältigen
+- Dieses LEGO City Polizei-Spielzeug für Kinder ist eine großartige Geschenkidee für Kinder ab 6 Jahren, die sich für Polizei- und Reit-Spielzeug begeistern
 - Kinder können helfen, das LEGO City Polizeiteam mit dem Spielset “Polizeischule” auszubilden, das eine modulare 2-geschossige Polizeistation Spielset, Trainingseinlagen im Freien, ein Quad und ein Spielzeug-Pferd enthält
+- Es sind nicht nur die menschlichen Polizisten, die geschult werden müssen! Ebenfalls enthalten sind ein Pferde-Spielzeug, eine Reiter-Minifigur und Hindernisse, um den neuesten Tier-Rekruten zu trainieren
+- Lass die Polizeischüler-Minifiguren eine Kletterwand erklimmen, an den Monkey Bars von Stange zu Stange hangeln und eine Seilrutsche hinuntersausen und dann eine Hindernisstrecke mit beweglichen Hindernissen bewältigen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

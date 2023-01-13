@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- LEGO City Missionen Spielsets erfordern ein Smartphone oder Tablet mit der kostenlosen LEGO Building Instructions App
+- Dieses LEGO Bauset enthält 3 Minifiguren aus der TV-Serie LEGO City - Abenteuer, ein Spielzeug-Krokodil, Pantherjunges, eine Eule, ein Frosch und ein Hase
+- Das LEGO City Spielzeug “Tierrettungsmissionen” kann als Weihnachts-, Geburtstags- oder sonstiges Geschenk für Kinder ab 6 Jahre verschenkt werden
+- Kinder werden lernen, während sie interaktiv LEGO bauen, ohne an Anleitungen gebunden zu sein - sie können selbst die Figuren auswählen und Tierrettungsmissionen auf dem Bildschirm lösen
 - Das interaktive LEGO Set Spielzeug ab 6 Jahre für Mädchen und Jungen enthält als Zubehör eine Bürste, Lupe, Kamera, Siegerpokal, Fernglas, Nuckelflasche und Funkgerät
 - Enthält Rescue Ranger Maya und alle LEGO Teile, die Kinder brauchen, um einen Pickup für ihre Missionen zu bauen und Bauherausforderungen ohne Anleitung zu meistern
-- Dieses LEGO Bauset enthält 3 Minifiguren aus der TV-Serie LEGO City - Abenteuer, ein Spielzeug-Krokodil, Pantherjunges, eine Eule, ein Frosch und ein Hase
-- Kinder werden lernen, während sie interaktiv LEGO bauen, ohne an Anleitungen gebunden zu sein - sie können selbst die Figuren auswählen und Tierrettungsmissionen auf dem Bildschirm lösen
-- Das LEGO City Spielzeug “Tierrettungsmissionen” kann als Weihnachts-, Geburtstags- oder sonstiges Geschenk für Kinder ab 6 Jahre verschenkt werden
-- LEGO City Missionen Spielsets erfordern ein Smartphone oder Tablet mit der kostenlosen LEGO Building Instructions App
 - Mit diesem interaktiven LEGO City Missionen Spielset führen Kinder die digitalen Abenteuer mit LEGO Steinen aus, um Missionen auf dem Bildschirm zu lösen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

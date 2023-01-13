@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Viele Kinder begeistern sich für Pferde, daher ist der Reitstall von Disney Rapunzel und Belle ein tolles Weihnachtsgeschenk für Mädchen und Jungen ab 5 Jahren
-- Inklusive der 2 Disney-Princess-Figuren Belle und Rapunzel sowie 2 LEGO-Reitpferde-Figuren Maximus und Philippe
-- Kinder können den Hauptstall mit der Trophäensammlung und den Lagerräumen erkunden, die Pferdeboxen reinigen oder dem gemütlichen Dachboden einen Besuch abstatten
 - Das Set enthält einen 3-geschossigen Stall mit 5 Räumen, 2 kleinere abtrennbare Pferdeboxen und Aufkleber
-- Sattel die Pferde, reite aus und versorge sie mit dem inkludiertem Zubehör wie Sattel, Heu, Stallwerkzeug und einem Pokal
+- Inklusive der 2 Disney-Princess-Figuren Belle und Rapunzel sowie 2 LEGO-Reitpferde-Figuren Maximus und Philippe
 - Dieses LEGO-Disney-Princess-Set fördert wichtige Fähigkeiten des Kindes mit detailgetreuen Minipuppen-Spielfiguren und Pferdefiguren zum Reiten
+- Sattel die Pferde, reite aus und versorge sie mit dem inkludiertem Zubehör wie Sattel, Heu, Stallwerkzeug und einem Pokal
+- Kinder können den Hauptstall mit der Trophäensammlung und den Lagerräumen erkunden, die Pferdeboxen reinigen oder dem gemütlichen Dachboden einen Besuch abstatten
+- Viele Kinder begeistern sich für Pferde, daher ist der Reitstall von Disney Rapunzel und Belle ein tolles Weihnachtsgeschenk für Mädchen und Jungen ab 5 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

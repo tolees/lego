@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Die spannende Rollschuhdisco ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten und jedem anderen Anlass
 - Das LEGO Friends Spielset bietet 3 aufregende Aktivitätsbereiche: Rollenschuhdisco mit Tanzfläche, Bowlingbahn und Arcade Spielen
-- Die Kinder können die Mini Puppen zum Tanzen bringen, indem sie das Rad drehen oder sie spielen als DJ Musik auf ihrem Smartphone
+- LEGO Friends Andrea kann in der Disco singen, beim Airhockey gegen ihre Freunde antreten oder beim Bowling Spiel einen Strike treffen
 - Das Spielzeug für Mädchen und Jungen ab 7 Jahre lässt sich mit anderen Heartlake City Spielzeugen kombinieren für mehr Spielspaß
 - Mit 3 LEGO Friends Mini Puppen: Andrea, Evelyn und Jackson, sowie Rollschuhen, Bowling-Pins, Handy, Bowling-Tasche und Anzeigetafel
 - Mit Mikrofon und einem Getränkeautomaten mit Limonadenzubehör sowie 3 Spielen: einem Arcade Spiel, einem Air-Hockey-Tisch und Tanzfläche
-- LEGO Friends Andrea kann in der Disco singen, beim Airhockey gegen ihre Freunde antreten oder beim Bowling Spiel einen Strike treffen
-- Die spannende Rollschuhdisco ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten und jedem anderen Anlass
+- Die Kinder können die Mini Puppen zum Tanzen bringen, indem sie das Rad drehen oder sie spielen als DJ Musik auf ihrem Smartphone
 
 [🛒 Buy it now!!]({{< param buyurl >}})

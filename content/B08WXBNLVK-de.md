@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Der LEGO Jahrmarkt ist ein farbenfrohes und detailliertes Lernspielzeug für Kleinkinder, stärkt die Feinmotorik und ist ein ideales Geschenk für Kinder im Vorschulalter
-- Enthalten ist außerdem ein Zug Spielzeug und weiteres Zubehör wie Hot Dogs, Eiscreme, Kamera, Luftballons, Cupcakes, Besen und einem Teddybär
+- Das ganz besondere Highlight des Erlebnisparks ist das Regenbogenlicht mit den vielen, wechselnden Farben (drei LR44-Batterien sind enthalten)
 - LEGO DUPLO Town Kinderspielzeug für Mädchen und Jungen ab 2 Jahre verfügt über 2 Rutschen, ein mechanisches Karussell und ein sich drehendes Riesenrad mit drei bunten Kabinen
 - Mit den insgesamt sieben DUPLO Figuren - 2 Frauen, 1 Mann und 4 Kinder und den LEGO DUPLO Steinen können Kinder kreative Rollenspiele nachahmen und außerdem ihre sozialen Fähigkeiten erweitern
-- Das ganz besondere Highlight des Erlebnisparks ist das Regenbogenlicht mit den vielen, wechselnden Farben (drei LR44-Batterien sind enthalten)
+- Der LEGO Jahrmarkt ist ein farbenfrohes und detailliertes Lernspielzeug für Kleinkinder, stärkt die Feinmotorik und ist ein ideales Geschenk für Kinder im Vorschulalter
+- Enthalten ist außerdem ein Zug Spielzeug und weiteres Zubehör wie Hot Dogs, Eiscreme, Kamera, Luftballons, Cupcakes, Besen und einem Teddybär
 
 [🛒 Buy it now!!]({{< param buyurl >}})

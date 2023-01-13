@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Die Eisdrachen-Modellbausatz hat 6 Beine, scharfe Eiskrallen, einen langen Schwanz, Hörner und Flügel mit goldenen Klingen und kann zu einem Drachen auf 2 Beinen umgebaut werden
-- Dieser 2-in-1 LEGO NINJAGO Modell enthält einen beweglichen Eisdrachen, der zu einer fantastischen Drachenkrieger Action-Figur umgebaut werden kann
-- Beinhaltet 5 LEGO NINJAGO Minifiguren: Zane und Pixal können es mit ihren Schwertern mit dem Skelett-Ritter, dem Skelett-Krieger und dem Skelett-König aufnehmen
-- Dieses 973-teilige Ninja-Spielzeug für Kinder ist ein großartiges Geschenk NINJAGO-Fans ab 10 Jahren und kann eine lustige Modellbau-Erfahrung sein, die verbindet
-- Kinder können in die Rolle des bösen grünen Skelett-Krieger-Trios schlüpfen und sich im gemauerten Tempel versammeln, um ihren Angriff zu planen
 - Bei einem Sieg werden Kinder mit 2 Bannern belohnt, die sie stolz auf der Rückseite des Drachenspielzeuges oder auf der Drachenkrieger Action-Figur präsentieren können
+- Kinder können in die Rolle des bösen grünen Skelett-Krieger-Trios schlüpfen und sich im gemauerten Tempel versammeln, um ihren Angriff zu planen
+- Dieser 2-in-1 LEGO NINJAGO Modell enthält einen beweglichen Eisdrachen, der zu einer fantastischen Drachenkrieger Action-Figur umgebaut werden kann
+- Die Eisdrachen-Modellbausatz hat 6 Beine, scharfe Eiskrallen, einen langen Schwanz, Hörner und Flügel mit goldenen Klingen und kann zu einem Drachen auf 2 Beinen umgebaut werden
+- Dieses 973-teilige Ninja-Spielzeug für Kinder ist ein großartiges Geschenk NINJAGO-Fans ab 10 Jahren und kann eine lustige Modellbau-Erfahrung sein, die verbindet
+- Beinhaltet 5 LEGO NINJAGO Minifiguren: Zane und Pixal können es mit ihren Schwertern mit dem Skelett-Ritter, dem Skelett-Krieger und dem Skelett-König aufnehmen
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wenn deine Kinder ihre Bubble Tea-Kreationen noch zu mehr Kunden in Heartlake City bringen wollen, kann das LEGO Fahrzeug am Kart befestigt werden und sie können einfach zum nächsten Standort fahren
-- Das Dach des Wagens lässt sich öffnen und gibt den Blick auf das Innere frei, wo Bubble Tea zubereitet werden kann. Im Inneren befindet sich eine Funktion zum Schütteln und Mischen der Zutaten
 - Das LEGO Friends Spielzeug für Mädchen und Jungen ab 6 Jahren ist eine tolle Geschenkidee für Kinder, die gerne Bubble Tea trinken und in einem Geschäft spielen
 - Der LEGO Friends Spielzeug-Roller enthält 2 Mini-Puppen Nova und Matilde sowie diverses Zubehör: Schlagsahne, 2 Bubble Tea Flaschen, eine Kasse und einen Tisch sowie ein süßes Maskottchen mit einer Menükarte
-- Bringe die Kleinen in die nächste Generation von Heartlake City; im Jahr 2023 ist das Universum noch größer geworden, mit neuen LEGO Friends Figuren und Abenteuern zum Genießen
+- Wenn deine Kinder ihre Bubble Tea-Kreationen noch zu mehr Kunden in Heartlake City bringen wollen, kann das LEGO Fahrzeug am Kart befestigt werden und sie können einfach zum nächsten Standort fahren
 - Mit diesem kreativen Spielzeug für Kinder ab 6 Jahren kannst du das coole neue Getränk probieren. Das Spielset beinhaltet einen fahrbaren Wagen, einen elektrischen Roller und jede Menge lustiges Zubehör für Rollenspiele
+- Bringe die Kleinen in die nächste Generation von Heartlake City; im Jahr 2023 ist das Universum noch größer geworden, mit neuen LEGO Friends Figuren und Abenteuern zum Genießen
+- Das Dach des Wagens lässt sich öffnen und gibt den Blick auf das Innere frei, wo Bubble Tea zubereitet werden kann. Im Inneren befindet sich eine Funktion zum Schütteln und Mischen der Zutaten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

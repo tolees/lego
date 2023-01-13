@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses niedliche Lernspielzeug für die Badewanne ist ein wundervolles Geschenk für Babys und Kleinkinder ab 1,5 Jahren; LEGO DUPLO Sets bieten tolle Geschenkideen für alle Anlässe
 - Die schwimmende Insel lässt sich in 2 Einheiten teilen, wobei die Kinder mit der unteren Hälfte auch außerhalb der Badewanne spielen können
-- Schau dir auch die anderen Badewannenspielzeuge an (separat erhältlich): Schwimmender Panda (10964) und Schwimmender Tierzug (10965)
-- Die Kinder können die Tiere ganz leicht zusammenbauen und dann mit ihnen auf dem schwimmenden Inselparadies spielen und ihre Fähigkeiten entfalten
 - Mit dem runden Haken am Schwimmring können die Ringe mit anderen Badespielzeugen aus der LEGO DUPLO Badespaß-Serie verbunden werden
-- Dieses Lernspielzeug enthält 4 LEGO DUPLO Tiere: einen Fisch, einen Tintenfisch, einen Löwen und einen Flamingo
+- Dieses niedliche Lernspielzeug für die Badewanne ist ein wundervolles Geschenk für Babys und Kleinkinder ab 1,5 Jahren; LEGO DUPLO Sets bieten tolle Geschenkideen für alle Anlässe
 - Dieses leicht zu reinigende, schwimmende Badespielzeug für Babys und Kleinkinder ab 1,5 Jahren enthält eine Insel, die gleichzeitig als Aufbewahrungsbehälter dient
+- Schau dir auch die anderen Badewannenspielzeuge an (separat erhältlich): Schwimmender Panda (10964) und Schwimmender Tierzug (10965)
+- Dieses Lernspielzeug enthält 4 LEGO DUPLO Tiere: einen Fisch, einen Tintenfisch, einen Löwen und einen Flamingo
+- Die Kinder können die Tiere ganz leicht zusammenbauen und dann mit ihnen auf dem schwimmenden Inselparadies spielen und ihre Fähigkeiten entfalten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
