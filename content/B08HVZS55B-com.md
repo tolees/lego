@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Each cupcake toy measures over 2 in. (6 cm) high, 2 in. (6 cm) wide and 1 in. (3 cm) deep, has a removable icing top and secret compartment inside
-- Any kid with a passion for arts and crafts will love this creative idea; The kit is a great party activity and the cupcakes are a fun favor that boys and girls aged 6+ will love
-- Kids can decorate the cupcakes using the included design ideas or use their creativity and skills to make up their own colorful patterns; They can also take their cupcake home as a memento
 - Surprise any kid with this sweet LEGO DOTS Creative Party Kit (41926) set, featuring 8 customizable cupcakes, a sticker sheet, buildable birthday candles and plenty of colorful tiles
 - The included tiles are great for decorating; Kids can also swap the tiles with any of the other craft kits or bags, such as Extra DOTS – Series 3 (41921) for more design fun
+- Each cupcake toy measures over 2 in. (6 cm) high, 2 in. (6 cm) wide and 1 in. (3 cm) deep, has a removable icing top and secret compartment inside
+- Kids can decorate the cupcakes using the included design ideas or use their creativity and skills to make up their own colorful patterns; They can also take their cupcake home as a memento
+- Any kid with a passion for arts and crafts will love this creative idea; The kit is a great party activity and the cupcakes are a fun favor that boys and girls aged 6+ will love
 
 [🛒 Check the deal!!]({{< param buyurl >}})

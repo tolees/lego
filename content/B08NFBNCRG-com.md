@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Spark a child’s creativity with this exciting LEGO Disney Raya and Sisu Dragon (43184) set; Packed with features and accessories, this fun set inspires imaginative role play
-- This set, based on the new movie Disney’s Raya and the Last Dragon, includes a palace gate, waterfall and accessories, plus a Raya mini-doll figure and a Sisu Dragon LEGO figure
 - The palace gate has a secret room to hold a small box with a diamond and a waterfall that opens up; Combine with the LEGO Disney Raya and the Heart Palace (43181) set to expand the fun
-- Fans of Disney’s Raya and the Last Dragon will adore this set with its many details and fun accessories; The functions and story starters make this a great any-day reward for children aged 6 and up
+- This set, based on the new movie Disney’s Raya and the Last Dragon, includes a palace gate, waterfall and accessories, plus a Raya mini-doll figure and a Sisu Dragon LEGO figure
 - Beautiful, posable dragon Sisu stands over 9 in. (24 cm) tall and is designed to be built and played with again and again in all sorts of adventures
+- Fans of Disney’s Raya and the Last Dragon will adore this set with its many details and fun accessories; The functions and story starters make this a great any-day reward for children aged 6 and up
 
 [🛒 Buy it now!!]({{< param buyurl >}})

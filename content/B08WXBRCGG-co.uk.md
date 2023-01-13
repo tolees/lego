@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes explorer and archaeologist characters, an enchanted Creeper, skeleton, iron golem and an articulated plant with grabbing petals
+- With its massive, movable head, opening mouth and arm made for crushing, kids will have hours of fun with Minecraft dungeons
 - The movable plant monster, pedestal and bamboo plant stand on their own, smaller baseplates to maximize customizability
 - This LEGO Minecraft action figure toy features the ultimate jungle giant, the Jungle Abomination - a Minecraft monster figure
-- The Jungle Abomination is a fully posable character with movable arms, head, mouth, legs and waist - a great play & display Minecraft toy
-- With its massive, movable head, opening mouth and arm made for crushing, kids will have hours of fun with Minecraft dungeons
 - This living mix of logs, vines, and stone stands firmly on a large baseplate - an ideal display model decorating kids bedroom
+- The Jungle Abomination is a fully posable character with movable arms, head, mouth, legs and waist - a great play & display Minecraft toy
+- Includes explorer and archaeologist characters, an enchanted Creeper, skeleton, iron golem and an articulated plant with grabbing petals
 
 [🛒 Buy it now!!]({{< param buyurl >}})

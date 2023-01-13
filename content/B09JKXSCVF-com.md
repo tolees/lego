@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spinning toy adventures – Kids can place a ninja in the spinner, pull the rip cord and watch as the ninja competes in a series of challenges including jumping a snake pitand fighting a dummy mech
-- 3 minifigures – Ninja toy includes Zane and Jay, both with swords, plus Boa Destructor with his own large sword, for kids to stage death-defying battles
-- More rewards – Look out for banners in 7 other NINJAGO sets including Kai’s Fire Dragon EVO (71762), Ninja Dojo Temple (71767) and Lloyd’s Legendary Dragon (71766)
-- Collectible banner – New for January 2022, when kids complete their missions they are rewarded with a Balance banner to display on the Ninja Training Center
 - Interactive playset – Kids can train their ninja heroes with a spinner at the action-packed LEGO NINJAGO Ninja Training Center (71764) through a series of challenges
+- More rewards – Look out for banners in 7 other NINJAGO sets including Kai’s Fire Dragon EVO (71762), Ninja Dojo Temple (71767) and Lloyd’s Legendary Dragon (71766)
+- 3 minifigures – Ninja toy includes Zane and Jay, both with swords, plus Boa Destructor with his own large sword, for kids to stage death-defying battles
+- Spinning toy adventures – Kids can place a ninja in the spinner, pull the rip cord and watch as the ninja competes in a series of challenges including jumping a snake pitand fighting a dummy mech
+- Collectible banner – New for January 2022, when kids complete their missions they are rewarded with a Balance banner to display on the Ninja Training Center
 
 [🛒 Check the deal!!]({{< param buyurl >}})

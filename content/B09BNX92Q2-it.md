@@ -31,7 +31,7 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - I bambini possono ricreare liconica scena del viaggio nel tempo, grazie alla torre dellorologio LEGO Harry Potter; i piccoli possono anche curare i feriti nellinfermeria
 - I giovani maghi possono muovere il meccanismo della torre per far girare le lancette dellorologio e viaggiare indietro nel tempo; vivi magiche avventure con i giochi Harry Potter
 - Contiene lala dellinfermeria di Hogwarts e una torre dellorologio giocattolo da costruire con accessori autentici tratti da Harry Potter e il Prigioniero di Azkaban
-- Include le minifigure di Ron Weasley, Harry Potter, Hermione Granger e Madame Chips, più 2 tessere delle carte dei maghi da collezionare (16 in totale)
 - Linfermeria di Hogwarts di Harry Potter per bambini dagli 8 anni in su fa parte di una serie di set modulari che si combinano tra loro per creare un grande castello giocattolo LEGO
+- Include le minifigure di Ron Weasley, Harry Potter, Hermione Granger e Madame Chips, più 2 tessere delle carte dei maghi da collezionare (16 in totale)
 
 [🛒 Buy it!!]({{< param buyurl >}})

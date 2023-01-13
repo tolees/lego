@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - La app gratuita Instrucciones de Montaje LEGO contiene una guía digital, que los peques podrán usar para acercar, rotar y visualizar su juguete
-- Descubre la variedad de juguetes Batman LEGO DC para construir, con grandes regalos de cumpleaños o Navidad para fans de Batman y de las motos de todas las edades
 - Los peques podrán ir a toda velocidad por GOTHAM con Batman y Catwoman, ¡pero Batman debe responder cuando la Batseñal empiece a brillar!
-- Este juguete de Batman de LEGO para construir cuenta con 2 motos y 2 mini figuras: Batman, con una capa textil, y Selina Kyle, alias Catwoman
 - Batman está listo para luchar contra el crimen con su Batarang y pistola gancho, Selina lleva una cadena en la mano... ¡la aventura va a comenzar!
+- Este juguete de Batman de LEGO para construir cuenta con 2 motos y 2 mini figuras: Batman, con una capa textil, y Selina Kyle, alias Catwoman
 - Este juguete de construcción de LEGO Batman para niños y niñas a partir de 6 años incluye un Batarang, una pistola gancho, una joya y una Batseñal que brilla en la oscuridad
+- Descubre la variedad de juguetes Batman LEGO DC para construir, con grandes regalos de cumpleaños o Navidad para fans de Batman y de las motos de todas las edades
 
 [🛒 Buy it now!!]({{< param buyurl >}})
