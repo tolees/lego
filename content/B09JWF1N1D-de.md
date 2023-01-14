@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Enthält ein dreistöckiges Puppenhaus mit 3 Gebäuden, die sich zu einem Wohnblock mit Apartments, Spielzeugläden und anderen Geschäften verbinden lassen
-- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
 - Dank der modularen Gebäude dieses LEGO Friends Puppenhauses lässt sich die Straße für endlosen Spielspaß immer wieder neu anordnen und umgestalten
+- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Inklusive 7 Minipuppen, 1 Mikropuppe, 4 Tierfiguren und einem Umzugswagen, mit dem die Kinder eine neue Familie in der Nachbarschaft willkommen heißen können
 - Im Friseursalon und Café von Heartlake City können sich die Kinder mit ihren ganz unterschiedlichen Freunden treffen und viele kreative Spielstunden verbringen
 - Die Kinder können im Spielzeugladen einkaufen, sich im Friseursalon stylen lassen, im Home Office arbeiten oder sich mit Freunden im Skatepark treffen
-- Inklusive 7 Minipuppen, 1 Mikropuppe, 4 Tierfiguren und einem Umzugswagen, mit dem die Kinder eine neue Familie in der Nachbarschaft willkommen heißen können
 
 [🛒 Buy it now!!]({{< param buyurl >}})

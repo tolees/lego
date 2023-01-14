@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Los accesorios incluyen un trofeo, banderas, carga para coches eléctricos, un cabrestante, 2 conos, 2 bidones de gasolina y un cepillo para limpiar los coches de juguete
 - Este juego de carreras LEGO incluye 2 coches de carreras de juguete para niños a partir de 2 años, una parrilla de salida del circuito de carreras y una pequeña estación de gasolina
-- Incluye LEGO mini figuras de pilotos de carreras DUPLO masculinas y femeninas con cascos para una diversión imaginativa y emocionantes historias para compartir
 - Cuando termina la carrera, la parrilla se reconstruye como un podio para que los pilotos lo celebren junto con un trofeo
+- Incluye LEGO mini figuras de pilotos de carreras DUPLO masculinas y femeninas con cascos para una diversión imaginativa y emocionantes historias para compartir
+- Los accesorios incluyen un trofeo, banderas, carga para coches eléctricos, un cabrestante, 2 conos, 2 bidones de gasolina y un cepillo para limpiar los coches de juguete
 - Este versátil y colorido juego de coches de carreras LEGO para niños pequeños permite a los padres compartir valiosos hitos del desarrollo con su niño en edad preescolar
 
 [🛒 Buy it!!]({{< param buyurl >}})
