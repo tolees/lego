@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Il set MERCEDES AMG PETRONAS Formula One Team contiene una tribuna, garage ai box, pit wall, piattaforma televisiva e le due monoposto ibride Mercedes F1 W07
 - Il garage ai box include una funzione cric, due schermi di computer con informazioni sul pilota ed elementi assortiti
+- Il set MERCEDES AMG PETRONAS Formula One Team contiene una tribuna, garage ai box, pit wall, piattaforma televisiva e le due monoposto ibride Mercedes F1 W07
 - La tribuna ha sedili per minifigure, un centro multimediatico
 
 [🛒 Buy it now!!]({{< param buyurl >}})
