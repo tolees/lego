@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die Kinder können den Spielzeugzug auf- und umbauen, die Waggons aneinanderreihen und die Tiere auf den Zug setzen und sie aufeinanderstapeln
-- Dieses Kinderspielzeug bietet Kleinkindern ab 1,5 Jahren alles, was sie zum Spielen brauchen: praktische Kreativität, fantasievolle Spielmöglichkeiten und Entwicklungsförderung
-- Das Lernspielzeug „Mein erster Tierzug“ von LEGO DUPLO für Kleinkinder enthält 4 Tiere, über es etwas zu lernen gibt – schau dir den lustigen Wackelhals der Giraffe an!
-- Der Spielzeugzug umfasst 4 Tiere: einen Elefanten (4 Teile), einen Tiger (2 Teile), eine Giraffe (3 Teile) und einen Panda (2 Teile) sowie 4 „Waggons“ mit Rädern zum Schieben
 - Das Bauen der verschiedenen Tiere ist unterschiedlich anspruchsvoll, um Kleinkinder ab 1,5 Jahren bei der Entwickelung ihrer Lern- und Baufähigkeiten zu unterstützen
+- Dieses Kinderspielzeug bietet Kleinkindern ab 1,5 Jahren alles, was sie zum Spielen brauchen: praktische Kreativität, fantasievolle Spielmöglichkeiten und Entwicklungsförderung
+- Der Spielzeugzug umfasst 4 Tiere: einen Elefanten (4 Teile), einen Tiger (2 Teile), eine Giraffe (3 Teile) und einen Panda (2 Teile) sowie 4 „Waggons“ mit Rädern zum Schieben
+- Die Kinder können den Spielzeugzug auf- und umbauen, die Waggons aneinanderreihen und die Tiere auf den Zug setzen und sie aufeinanderstapeln
+- Das Lernspielzeug „Mein erster Tierzug“ von LEGO DUPLO für Kleinkinder enthält 4 Tiere, über es etwas zu lernen gibt – schau dir den lustigen Wackelhals der Giraffe an!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
