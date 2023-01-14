@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Pour une expérience complète, combinez tous les ensembles LEGO Harry Potter Hogwarts Moment : Classe de potions 76383, Classe dherboristerie 76384, et Classe de charmes 76385
-- Collectionne tous les sets Poudlard qui semboîtent pour créer un espace de jeu innovant à 360 degrés conçu pour recréer différents moments de classe
-- Ce jouet LEGO Harry Potter avec 3 figurines comprend un livre construit en briques qui souvre pour révéler 1 des 4 salles de classe de Poudlard prêtes à être rejointes
 - Les minifigurines Harry Potter comprennent Hermione Granger, Ron Weasley et le professeur McGonagall, ainsi que Scabbers, le rat de compagnie de Ron, et une grenouille pour la pratique de la magie
-- Comprend un tableau noir, un coffre à trésor, une armoire de rangement, un gobelet, un livre de sorts, 2 bureaux, 2 chaises et de nombreuses fournitures magiques pour sexercer
 - Les enfants ouvrent le couvercle de lensemble pour entrer dans la leçon de transfiguration du professeur McGonagall - découvrez que Ron a besoin daide lorsque son rat de compagnie se transforme en gobelet !
+- Pour une expérience complète, combinez tous les ensembles LEGO Harry Potter Hogwarts Moment : Classe de potions 76383, Classe dherboristerie 76384, et Classe de charmes 76385
+- Ce jouet LEGO Harry Potter avec 3 figurines comprend un livre construit en briques qui souvre pour révéler 1 des 4 salles de classe de Poudlard prêtes à être rejointes
+- Collectionne tous les sets Poudlard qui semboîtent pour créer un espace de jeu innovant à 360 degrés conçu pour recréer différents moments de classe
+- Comprend un tableau noir, un coffre à trésor, une armoire de rangement, un gobelet, un livre de sorts, 2 bureaux, 2 chaises et de nombreuses fournitures magiques pour sexercer
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Include un drago LEGO NINJAGO altamente snodabile, con cui i fan dei ninja possono ricreare lazione vista nelle serie TV NINJAGO: Seabound; per ore di intenso di divertimento
-- Include anche 5 minifigure: Nya NRG, Zane subacqueo, il Principe Kalmaar e 2 Guardie Maaray; tutte le minifigure sono equipaggiate con bellissime armi
-- Controlla anche i set: Il Bolide subacqueo dei Ninja (71752) e Tempio del Mare Infinito (71755)
-- Scopri anche gli altri set LEGO ispirati alla serie TV NINJAGO: Seabound, che includono LIdro-Mech di Lloyd (71750) e LIdro-Vascello (71756)
-- I bambini aiutano Zane subacqueo ad entrare in azione con il suo mini sottomarino; Nya diventa un potente Dragone dellacqua, che usa la sua coda mobile come unarma mortale
-- Il drago giocattolo ha ali, zampe, collo e coda snodabili e fauci apribili; inoltre, la coda mobile può essere usata come arma per sconfiggere le malvagie Guardie Maaray
 - Questo playset di costruzioni per bambini include un mini sottomarino giocattolo con cabina di pilotaggio apribile per Zane subacqueo, più un amuleto dellonda da esposizione
+- Include anche 5 minifigure: Nya NRG, Zane subacqueo, il Principe Kalmaar e 2 Guardie Maaray; tutte le minifigure sono equipaggiate con bellissime armi
+- Scopri anche gli altri set LEGO ispirati alla serie TV NINJAGO: Seabound, che includono LIdro-Mech di Lloyd (71750) e LIdro-Vascello (71756)
+- Controlla anche i set: Il Bolide subacqueo dei Ninja (71752) e Tempio del Mare Infinito (71755)
+- I bambini aiutano Zane subacqueo ad entrare in azione con il suo mini sottomarino; Nya diventa un potente Dragone dellacqua, che usa la sua coda mobile come unarma mortale
+- Include un drago LEGO NINJAGO altamente snodabile, con cui i fan dei ninja possono ricreare lazione vista nelle serie TV NINJAGO: Seabound; per ore di intenso di divertimento
+- Il drago giocattolo ha ali, zampe, collo e coda snodabili e fauci apribili; inoltre, la coda mobile può essere usata come arma per sconfiggere le malvagie Guardie Maaray
 
 [🛒 Buy it!!]({{< param buyurl >}})
