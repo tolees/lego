@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses Spielzeugauto kombiniert einen Hai und einen Tintenfisch nach dem Vorbild des mythischen karibischen Seeungeheuers Lusca zu einem furchterregenden Fahrzeug
 - Nachdem du beeindruckende Kunststücke vollführt hast, kannst du das Modell in einen Low-Rider-Rennwagen mit Rückziehmotor umbauen und noch mehr rasante Action erleben
-- Dieses Spielzeug ab 7 Jahren von LEGO Technic verfügt über markante Haifischzähne und Flossen, die sich beim Fahren bewegen – ganz nach dem Vorbild des legendären Seeungeheuers
-- Jungen und Mädchen können beeindruckende Sprünge vollführen und ihr Spielzeugauto mit der Rückziehfunktion durch unwegsames Gelände schicken – genau wie bei einem echten Monster Truck
-- Die LEGO Technic Modelle bieten jungen LEGO Fans ab 7 Jahren eine spielerische Einführung in die Technik und sind wunderbare, inspirierende Geschenke für Kinder und Jugendliche
 - Enthält den 2-in-1-Monster Truck Megalodon aus Monster Jam von LEGO Technic, der sich in einen Lusca-Low-Racer umbauen lässt
+- Dieses Spielzeug ab 7 Jahren von LEGO Technic verfügt über markante Haifischzähne und Flossen, die sich beim Fahren bewegen – ganz nach dem Vorbild des legendären Seeungeheuers
+- Die LEGO Technic Modelle bieten jungen LEGO Fans ab 7 Jahren eine spielerische Einführung in die Technik und sind wunderbare, inspirierende Geschenke für Kinder und Jugendliche
+- Dieses Spielzeugauto kombiniert einen Hai und einen Tintenfisch nach dem Vorbild des mythischen karibischen Seeungeheuers Lusca zu einem furchterregenden Fahrzeug
+- Jungen und Mädchen können beeindruckende Sprünge vollführen und ihr Spielzeugauto mit der Rückziehfunktion durch unwegsames Gelände schicken – genau wie bei einem echten Monster Truck
 
 [🛒 Buy it now!!]({{< param buyurl >}})

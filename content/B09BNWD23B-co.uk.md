@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The LEGO Super Heroes set features 2 powerful-looking motorbike toys with Batman with a fabric cape, and Selina Kyle &039;the Catwoman&039; minifigures
-- The free LEGO Building Instructions app contains an additional digital guide, which kids can use to zoom, rotate and visualise their model
-- This LEGO Batman building toy for kids 6 years old includes Batarang, grappling gun, chain, gem element and a glow-in-the-dark Batsignal
 - Kids can race through GOTHAM CITY with Batman and the Catwoman, but Batman must respond when the Batsignal starts glowing
+- The LEGO Super Heroes set features 2 powerful-looking motorbike toys with Batman with a fabric cape, and Selina Kyle &039;the Catwoman&039; minifigures
+- This LEGO Batman building toy for kids 6 years old includes Batarang, grappling gun, chain, gem element and a glow-in-the-dark Batsignal
 - Batman is ready to fight crime with his Batarang and grappling gun, Selina has a chain in her hand… the adventure calls
+- The free LEGO Building Instructions app contains an additional digital guide, which kids can use to zoom, rotate and visualise their model
 
 [🛒 Buy it now!!]({{< param buyurl >}})

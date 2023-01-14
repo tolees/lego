@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Made for display – Build Yoda’s hut on the planet Dagobah, plus the wing of Luke Skywalker’s X-wing sticking out of the swamp. Attach a plaque reading ‘Do. Or do not. There is no try’, as said by Yoda
-- Detailed Dagobah Jedi Training Diorama (75330) – Channel the focus of Jedi Master Yoda as you recreate an iconic Star Wars: The Empire Strikes Back scene with LEGObricks
-- 2 LEGO Star Wars minifigures and a LEGO droid figure – Luke Skywalker and Yoda with his walking stick, plus R2-D2 to bring the buildable scene to life
 - Gift idea – Treat yourself or give this 1,000-piece set as a holiday gift or birthday present to an adult Star Wars fan, passionate LEGO builder or collector of LEGO Star Wars dioramas
+- Detailed Dagobah Jedi Training Diorama (75330) – Channel the focus of Jedi Master Yoda as you recreate an iconic Star Wars: The Empire Strikes Back scene with LEGObricks
 - Build your collection – This set is part of a series of collectible LEGO Star Wars build-to-display diorama models, each depicting a beloved Star Wars scene
+- Made for display – Build Yoda’s hut on the planet Dagobah, plus the wing of Luke Skywalker’s X-wing sticking out of the swamp. Attach a plaque reading ‘Do. Or do not. There is no try’, as said by Yoda
+- 2 LEGO Star Wars minifigures and a LEGO droid figure – Luke Skywalker and Yoda with his walking stick, plus R2-D2 to bring the buildable scene to life
 
 [🛒 Buy it!!]({{< param buyurl >}})
