@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este set LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante
-- Edad recomendada por el fabricante: 10+
-- Grúa sobre Orugas Compacta
 - Número de piezas: 920
 - Maniobra para colocar la Grúa sobre Orugas Compacta en posición; después, acciona el cabrestante y usa la superestructura para elevar y despachar la carga con precisión milimétrica
+- Edad recomendada por el fabricante: 10+
+- Grúa sobre Orugas Compacta
+- Este set LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante
 
 [🛒 Buy it now!!]({{< param buyurl >}})
