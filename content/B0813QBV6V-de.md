@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dieses Hogwarts-Set zum Verschenken enthält viele berühmte Schauplätze aus Harry Potter Filmen, 8 beliebte Minifiguren, Hedwig als Spielzeug-Eule und jede Menge Zubehörelemente wie z.B. Alraunen, Briefe, Zauberstäbe und ein Buch über Zaubertränke
+- Wenn Kinder den LEGO Harry Potter Astronomieturm auf Schloss Hogwarts (75969) betreten, können sie magische Hogwarts-Geschichten mit beliebten Figuren, legendären Schauplätzen und realistischen Details nachspielen
 - Wenn Kinder das Klassenzimmer des Zaubertränke-Lehrers betreten und seine Party besuchen, sich eine Alraune im Gewächshaus ansehen und den Schlafsaal in Haus Ravenclaw erkunden können sie die Magie mit eigenen Händen erleben
 - Das Modell ist 40 cm hoch, 29 cm breit und 17 cm tief und lässt sich ideale mit den LEGO Hogwarts Sets 75953, 75954 und 75948 kombinieren (die zum Teil nur in begrenzter Auflage erhältlich sind)
+- Dieses Hogwarts-Set zum Verschenken enthält viele berühmte Schauplätze aus Harry Potter Filmen, 8 beliebte Minifiguren, Hedwig als Spielzeug-Eule und jede Menge Zubehörelemente wie z.B. Alraunen, Briefe, Zauberstäbe und ein Buch über Zaubertränke
 - Dieses einzigartige Harry Potter Bauset enthält unter anderem Draco Malfoy und Neville Longbottom als LEGO Minifiguren und ist ein tolles Geschenk für Kinder ab 9 Jahren
-- Wenn Kinder den LEGO Harry Potter Astronomieturm auf Schloss Hogwarts (75969) betreten, können sie magische Hogwarts-Geschichten mit beliebten Figuren, legendären Schauplätzen und realistischen Details nachspielen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6V{{</world>}}
