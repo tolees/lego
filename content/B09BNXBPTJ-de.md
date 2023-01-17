@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das Atrociraptor- und das große T. Rex-Spielzeug sind beweglich, so dass Kinder ihre eigene chaotische Szene auf dem Markt kreieren können
 - Der Spielzeug-LKW bietet Platz für 2 Atrociraptoren - kombiniere ihn mit Atrociraptor: Motorradverfolgungsjagd (76945) für mehr Action
-- Enthält 4 Minifiguren: Claire Dearing, Owen Grady, Rainn Delacourt und Soyona Santos sowie 2 Betäubungsstäbe
 - Dieses Dinosaurier Spielzeug aus "Jurassic World - Ein neues Zeitalter" enthält Atrociraptor und T. Rex Dinosaurier-Figuren, einen Markt, einen LKW und Minifiguren
 - Dieses LEGO Jurassic World Spielzeug ist ein tolles Dinosaurier-Geschenk für Kinder ab 8 Jahren, die Dinosaurier und Fahrzeuge lieben
 - Mit diesem LEGO Jurassic World Set können sich Kinder Dinosaurierfluchten ausdenken - dank der Ausbruchsfunktion im T. Rex-Gehege
+- Das Atrociraptor- und das große T. Rex-Spielzeug sind beweglich, so dass Kinder ihre eigene chaotische Szene auf dem Markt kreieren können
+- Enthält 4 Minifiguren: Claire Dearing, Owen Grady, Rainn Delacourt und Soyona Santos sowie 2 Betäubungsstäbe
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNXBPTJ{{</world>}}

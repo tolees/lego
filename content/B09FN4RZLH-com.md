@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Scale-up the action! – With a Wolverine mech and minifigure, LEGO Marvel Wolverine Mech Armor (76202) is a big treat for young Super Heroes
 - Open-ended play – Kids put the Wolverine minifigure into the mech’s opening cockpit, then use the movable mech and its extra-long claws to battle bad guys and role-play endless Super-Hero adventures
+- Iconic Marvel character – Includes a Wolverine minifigure and a buildable Wolverine mech with large movable claws attached to its hands
 - Gift for kids– A birthday, holiday or any-day treat for Marvel fans aged 7 and up
 - Build, play and display – Standing over 4.5 in. (12 cm) tall, the highly posable mech inspires endless imaginative role play and, when the day’s battles are over, can be displayed in a bedroom
-- Iconic Marvel character – Includes a Wolverine minifigure and a buildable Wolverine mech with large movable claws attached to its hands
+- Scale-up the action! – With a Wolverine mech and minifigure, LEGO Marvel Wolverine Mech Armor (76202) is a big treat for young Super Heroes
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FN4RZLH{{</world>}}

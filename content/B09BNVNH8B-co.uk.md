@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- With included repair accessories elements: a wrench, flashlight and fire extinguisher, kids can roleplay repairing the plane after the attack
 - Kids can reenact adventures from the Jurassic World: Dominion movie with the toy dinosaur figure with posable wings and a snapping beak
-- The LEGO Jurassic World dinosaur toy makes a great birthday or gift for dinosaur, vehicle or animal toy fans and kids aged 7 plus
 - The toy plane features a cockpit with space for the 3 included LEGO minifigures: Owen Grady, Claire Dearing and Kayla Watts
 - This LEGO Jurassic World Dinosaur toy features a Quetzalcoatlus dinosaur figure and a buildable toy plane for kids aged 7+ action packed play
+- The LEGO Jurassic World dinosaur toy makes a great birthday or gift for dinosaur, vehicle or animal toy fans and kids aged 7 plus
 - The plane has spinning propellers and an opening cargo hold, plus the engines are designed to break-off under attack (and reattach easily)
+- With included repair accessories elements: a wrench, flashlight and fire extinguisher, kids can roleplay repairing the plane after the attack
 - This set combines perfectly with Atrociraptor Dinosaur: Bike Chase 76945 as the motorbike fits perfectly into the cargo hold of the toy plane
 
 [🛒 Buy it now!!]({{< param buyurl >}})

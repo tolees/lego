@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - With Instructions PLUS in LEGO Life app even younger builders can enjoy the sense of achievement from building independently
-- LEGO 4 sets with Starter Brick are a fun way for kids to learn to build, boosting confidence with simple building steps
 - Features Gru’s basement transformed into a laboratory with instruments and devices, 2 slides and rocket skate, plus ramps to test the vehicle
-- With Otto and Kevin Minion figures, ramps, tools and toy bananas, recreating scenes from the Minions: The Rise of Gru movie is fun and easy
+- LEGO 4 sets with Starter Brick are a fun way for kids to learn to build, boosting confidence with simple building steps
 - Kids can slide the Minions into the basement, test the car on the ramp, or use the trigger on the back of the washing machine to make it turn
+- With Otto and Kevin Minion figures, ramps, tools and toy bananas, recreating scenes from the Minions: The Rise of Gru movie is fun and easy
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07XGW9HCD{{</world>}}
