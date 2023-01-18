@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42111 Technic Fast & Furious Dom s Dodge Charger  Toy Racing Car Model Building Kit  Xmas Gift for Boys  Girls  Men  Women  Iconic Collector s Set '
-date: 2023-01-16 23:46:20
+date: 2023-01-18 00:02:24
 image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07YYQ89RT/?tag=tolees0a-21'
 descuento: '18.10'
-average: '74.1030495552729'
+average: '74.1181345177662'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
-- Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car in the famous wheelstand position
-- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
 - Makes the ideal gift for any car, Fast & Furious enthusiast, boy, girl man or woman; perfectly sized to create an awesome display piece to show off
+- Authentic features let fans recreate the thrill of driving the real car, with moving pistons, suspension, steering system and air blower
+- Check out the V8 engine, plus two nitro bottles for extra power. If things get too hot, there’s a fire extinguisher in the cockpit
 - Dom’s Dodge Charger race car is an awesome replica model of the classic muscle car, inspired by the original 1970 Dodge Charger R/T
+- Re-enact Dominic Toretto’s cool stunts from The Fast and The Furious movies then display the car in the famous wheelstand position
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07YYQ89RT{{</world>}}
