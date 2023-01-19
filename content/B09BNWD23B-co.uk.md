@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76179 DC Batman & Selina Kyle Motorcycle Pursuit  Motorbike Toys for Kids  2022 Collection Catwoman Set with Glow In The Dark Batsignal'
-date: 2023-01-16 17:35:08
+date: 2023-01-19 20:36:59
 image: 'https://m.media-amazon.com/images/I/511FCDMwHFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The free LEGO Building Instructions app contains an additional digital guide, which kids can use to zoom, rotate and visualise their model
-- Batman is ready to fight crime with his Batarang and grappling gun, Selina has a chain in her hand… the adventure calls
 - The LEGO Super Heroes set features 2 powerful-looking motorbike toys with Batman with a fabric cape, and Selina Kyle &039;the Catwoman&039; minifigures
+- The free LEGO Building Instructions app contains an additional digital guide, which kids can use to zoom, rotate and visualise their model
 - Kids can race through GOTHAM CITY with Batman and the Catwoman, but Batman must respond when the Batsignal starts glowing
+- Batman is ready to fight crime with his Batarang and grappling gun, Selina has a chain in her hand… the adventure calls
 - This LEGO Batman building toy for kids 6 years old includes Batarang, grappling gun, chain, gem element and a glow-in-the-dark Batsignal
 
 [🛒 Buy it now!!]({{< param buyurl >}})
