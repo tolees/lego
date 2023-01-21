@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The LEGO City Rocket Stunt Bike playset makes a great Christmas, birthday or any-other-day treat for stunt fans and kids aged 5 and up
 - When built, the Rocket Stunt Bike measures over 1 in. (3 cm) high, 2.5 in. (6 cm) long and less than 1 in. (2 cm) wide
-- Send kids’ imaginations soaring with the LEGO City Rocket Stunt Bike (60298) toy playset, featuring a flywheel-powered motorcycle and high-flying LEGO City TV stunt daredevil Rocket Racer
 - What’s in the box? All kids need to build an awesome, flywheel-powered stunt motorbike, plus the LEGO City Adventures TV series minifigure character Rocket Racer
 - Kids push the stunt motorcycle to activate the flywheel, then unleash it for amazing jumps and airborne maneuvers
+- The LEGO City Rocket Stunt Bike playset makes a great Christmas, birthday or any-other-day treat for stunt fans and kids aged 5 and up
+- Send kids’ imaginations soaring with the LEGO City Rocket Stunt Bike (60298) toy playset, featuring a flywheel-powered motorcycle and high-flying LEGO City TV stunt daredevil Rocket Racer
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08ZNMCYC9{{</world>}}

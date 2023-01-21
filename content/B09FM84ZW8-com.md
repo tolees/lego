@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Fly to collect digital coins – Place a LEGO Mario or LEGO Luigi (figures not included) in the brick-built Junior Clown Car and fly it around to earn coins
-- Aerial action with Bowser Jr.’s Clown Car – Kids can add an aerial, coin-collecting challenge to their LEGO Super Mario universe with the 71396 Bowser Jr.’s Clown Car Expansion Set
-- Gift idea for ages 6 and up –Give this 84-piece set as a holiday gift or treat to trendsetting kids who own a LEGO Super Mario Starter Course (71360 or 71387), which is required for play
 - Brick-built car toy – Bowser Jr.’s Clown Car measures over 1.5 in. (4 cm) high, 2 in. (5 cm) long and 4 in. (10 cm) wide and combines with other LEGO Super Mario sets
 - An enemy Bob-omb – The set includes a LEGO toy figure of a Bob-omb to add to the brick-built levels that kids create
+- Aerial action with Bowser Jr.’s Clown Car – Kids can add an aerial, coin-collecting challenge to their LEGO Super Mario universe with the 71396 Bowser Jr.’s Clown Car Expansion Set
+- Fly to collect digital coins – Place a LEGO Mario or LEGO Luigi (figures not included) in the brick-built Junior Clown Car and fly it around to earn coins
+- Gift idea for ages 6 and up –Give this 84-piece set as a holiday gift or treat to trendsetting kids who own a LEGO Super Mario Starter Course (71360 or 71387), which is required for play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09FM84ZW8{{</world>}}

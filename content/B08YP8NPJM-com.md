@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO DUPLO Marvel Spider-Man Headquarters (10940) includes 3 superhero figures and lots of super-cool activities, so budding superheroes can enjoy endless, hands-on, imaginative play
-- Treat a preschool superhero with this great gift for kids aged 2 and up. As they role-play endless imaginative adventures, they’ll build developmental skills that last a lifetime
-- This endlessly adaptable playset provides lots of ways for the 3 superhero friends to work as a team and share exciting missions and fun activities together
 - This versatile, build-and-play toy measures over 7 in. (19 cm) high, 4 in. (12 cm) wide and 5 in. (13 cm) deep, providing lots of fun for little superheroes
+- This endlessly adaptable playset provides lots of ways for the 3 superhero friends to work as a team and share exciting missions and fun activities together
+- Treat a preschool superhero with this great gift for kids aged 2 and up. As they role-play endless imaginative adventures, they’ll build developmental skills that last a lifetime
 - Includes a buildable Spider-Man headquarters, plus 3 superhero figures – Spider-Man, Miles Morales and Ghost Spider – with a cool motorcycle and fun accessories
+- LEGO DUPLO Marvel Spider-Man Headquarters (10940) includes 3 superhero figures and lots of super-cool activities, so budding superheroes can enjoy endless, hands-on, imaginative play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08YP8NPJM{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinder können dieses Set mit den mitgelieferten LEGO DOTS mit ihrer eigenen Dekoration schmücken und immer wieder neu dekorieren
-- Überrasche kreative Kinder mit einem ganz besonderen Spielzeug ab 8 Jahre: der Kunstschule aus Heartlake City mit jeder Menge Zubehör
-- In diesem LEGO Friends Puppenhaus dreht sich die Töpferscheibe, die Kamera hat 2 Objektive und die Puppe dreht sich auf dem Ständer
 - Mit 3 LEGO Friends Mini Puppen: Emma, Béatrice und Felix, plus beweglicher Schaufensterpuppe, Kamera, Leinwand, Pinsel und Farbdosen
-- Dieses kreative Spielzeug bietet eine 3-stöckige Kunstschule mit Bastelzimmern, Kunststudios und vielen coolen Accessoires
-- Die Kinder begleiten Emma in die LEGO Friends Schule, um Kunstfertigkeiten erlernt (Töpferei, Fotografie, Keramik, Mode und 3D-Druck)
 - Mit einer Uhr, einem Schild, einem herbstlichen Baum und einem Fahrrad, das die Kinder mit enthaltenen LEGO DOTS dekorieren können
+- Überrasche kreative Kinder mit einem ganz besonderen Spielzeug ab 8 Jahre: der Kunstschule aus Heartlake City mit jeder Menge Zubehör
+- Kinder können dieses Set mit den mitgelieferten LEGO DOTS mit ihrer eigenen Dekoration schmücken und immer wieder neu dekorieren
+- Dieses kreative Spielzeug bietet eine 3-stöckige Kunstschule mit Bastelzimmern, Kunststudios und vielen coolen Accessoires
+- In diesem LEGO Friends Puppenhaus dreht sich die Töpferscheibe, die Kamera hat 2 Objektive und die Puppe dreht sich auf dem Ständer
+- Die Kinder begleiten Emma in die LEGO Friends Schule, um Kunstfertigkeiten erlernt (Töpferei, Fotografie, Keramik, Mode und 3D-Druck)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFP8FNZ{{</world>}}
