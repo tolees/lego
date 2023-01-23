@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Im LEGO Ninja-Trainingszentrum können Kinder ihre Helden mit einem Spinner-Spielzeug durch eine Reihe von Herausforderungen führen
+- Neu ab Januar 2022: Wenn Kinder ihre Missionen erfüllen, erhalten sie ein Balancebanner, das sie stolz aufhängen können
 - Dieses Actionspielzeug enthält die LEGO NINJAGO Minifiguren Zane und Jay mit Schwertern und eine Ninjago-Schlange: den Boa-Jäger mit einem großen Schwert
 - Setze einen Ninja in den Spinner, ziehe die Reißleine und beobachte, wie der Ninja gegen die LEGO NINJAGO Schlange antritt
 - Das LEGO NINJAGO Spinner-Set stellt den Ninja auf die Probe, er muss über eine Schlangengrube springen oder mit der Mech-Trainingsattrappe üben lassen
-- Neu ab Januar 2022: Wenn Kinder ihre Missionen erfüllen, erhalten sie ein Balancebanner, das sie stolz aufhängen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNX45BF{{</world>}}
