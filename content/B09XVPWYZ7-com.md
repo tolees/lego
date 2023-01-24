@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DOTS Stitch-on Patch 41955 DIY Craft Decoration Building Toy Set for Girls  Boys  and Kids Ages 8+; Customizable Fashion Kit for Arts-and-Crafts Fans  95 Pieces '
-date: 2023-01-19 14:44:14
+date: 2023-01-23 22:05:22
 image: 'https://m.media-amazon.com/images/I/51vFq2MfZCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B09XVPWYZ7/?tag=tolees-20'
 descuento: '40.07'
-average: '3.54461538461539'
+average: '3.908'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
