@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- La casa de juguete tiene 2 plantas modulares, con un dojo en la planta superior y una cueva del herrero en la inferior, conectadas por una trampilla que funciona pulsando un bloque
 - Los 2 pisos de este centro de guerreros de LEGO de Minecraft se separan y reconfiguran fácilmente para crear una nuevas experiencias de juego imaginativo y vivir miles de historias
 - Incluye varias figuras LEGO Minecraft clásicas: un ninja, un pícaro, un esqueleto y un murciélago para recrear el ambiente del famoso videojuego
-- La casa de juguete tiene 2 plantas modulares, con un dojo en la planta superior y una cueva del herrero en la inferior, conectadas por una trampilla que funciona pulsando un bloque
 - Los peques podrán crear su propia casa de juguete y centro de entranimiento al más puro estilo Minecraft con este set de construcción de LEGO repleto de auténticos detalles e increíbles funciones
 - Esta maqueta para construir llena de emblemáticos personajes y accesorios inspirados en el videojuego de Minecraft es un gran regalo de Navidad para niños y niñas de 8 años o más fans de los juegos de acción
 - La cueva del herrero tiene forja, horno, estante para armaduras y mucho más para que los niños puedan crear y reparar las armas de juguete de los guerreros de Minecraft
