@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Kids take the leading role in digital adventure stories, using real LEGO bricks and buildable toys to complete on-screen space exploration missions
+- Introduce kids to an interactive play experience with this LEGO City Mars Spacecraft Exploration Missions (60354) playset
 - When built, the core model mission spacecraft measures over 1.5 in. (4 cm) high, 7.5 in. (19 cm) long and 3 in. (7 cm) wide
 - All the LEGO pieces kids need to build a mission spacecraft and solve instruction-free building challenges, plus 2 asteroids, a Mars setting, 3 minifigures and a robo-dog figure
 - This LEGO City Missions playset can be given as a holiday, birthday or any-other-day gift for kids aged 6 and up
-- Kids take the leading role in digital adventure stories, using real LEGO bricks and buildable toys to complete on-screen space exploration missions
-- Introduce kids to an interactive play experience with this LEGO City Mars Spacecraft Exploration Missions (60354) playset
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09XWS8Q46{{</world>}}
