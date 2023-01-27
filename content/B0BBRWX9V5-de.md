@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71415 Super Mario EIS-Mario-Anzug - Erweiterungsset  Sammel-Spielzeug mit Figurenkostüm Plus Cooligan und Goomba-Feindfiguren  kombinierbar mit Starterset'
-date: 2023-01-25 09:05:01
+date: 2023-01-27 11:15:23
 image: 'https://m.media-amazon.com/images/I/51UZegIo7SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0BBRWX9V5/?tag=tolees0ca-21'
 descuento: '28.01'
-average: '18.905'
+average: '18.67625'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses modulare Set kann mit anderen LEGO Super Mario Spielzeug zum Bauen kombiniert werden. Für das interaktive Spiel wird ein Starterpaket (71360 mit LEGO Mario, 71387 mit LEGO Luigi oder 71403 mit LEGO Peach) benötigt
-- Die LEGO Super Mario App hilft Kindern beim Bau dieses coolen Spielzeugs mit Bauanleitungen, kreativen Tipps und vielem mehr - jedes der LEGO Super Mario Sets ist für das Einzel- oder Gemeinschaftsspiel konzipiert
-- Mit diesem LEGO Super Mario Erweiterungsset, das einen Eis-Mario-Anzug sowie die Figuren Cooligan und Goomba enthält, können Kinder ihr baufähiges Super Mario Spiel um ein eisiges Level erweitern
 - Durch das Schlittschuhlaufen mit der interaktiven Figur auf der Eisplatte können die Kinder Geräusche auslösen. Sie können auf den Werfer springen, um den Cooligan in den Eisblock zu schleudern, damit er zerbricht und der Goomba zum Vorschein kommt
+- Mit diesem LEGO Super Mario Erweiterungsset, das einen Eis-Mario-Anzug sowie die Figuren Cooligan und Goomba enthält, können Kinder ihr baufähiges Super Mario Spiel um ein eisiges Level erweitern
+- Die LEGO Super Mario App hilft Kindern beim Bau dieses coolen Spielzeugs mit Bauanleitungen, kreativen Tipps und vielem mehr - jedes der LEGO Super Mario Sets ist für das Einzel- oder Gemeinschaftsspiel konzipiert
+- Dieses modulare Set kann mit anderen LEGO Super Mario Spielzeug zum Bauen kombiniert werden. Für das interaktive Spiel wird ein Starterpaket (71360 mit LEGO Mario, 71387 mit LEGO Luigi oder 71403 mit LEGO Peach) benötigt
 - Kinder können die Super Mario Figuren (nicht enthalten) in einen Eis-Anzug stecken, um sich für die Eiswelt zu stärken. Der Anzug ermöglicht Reaktionen, wie z. B. eine Eiskugel-Grafik, die auf seinem Bauchbildschirm erscheint, um Energie zu erzeugen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
