@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75347 Star Wars TIE Bombe Modellbausatz mit Darth Vader Minifigur mit Lichtschwert und Gonk-Droide  baubares Spielzeug mit Starfighter als Geschenk'
-date: 2023-01-27 11:13:19
+date: 2023-01-29 01:05:10
 image: 'https://m.media-amazon.com/images/I/51g9xSVVqnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0BBRZMRDP/?tag=tolees0ca-21'
 descuento: '20.00'
-average: '52.365'
+average: '52.3233333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Der Star Wars Modellbaukasten für Jungen und Mädchen ab 9 Jahren, ist ein besonderes Geburtstagsgeschenk oder ein Star Wars Sammlerstück für Fans der Saga
+- Die LEGO Builder App bietet Kindern digitale, interaktive Werkzeuge, die sie durch ein einzigartiges und lustiges Bauerlebnis auf ihrem Tablet oder Smartphone führen
 - Das Modell des Star Wars Starfighter hat ein aufklappbares Cockpit und Platz für eine Minifigur, einen Sprengkopfschacht mit Torpedoabwurf-Funktion für 4 Torpedos (6 Torpedos sind im Set enthalten) und 2 Bolzenschussgeräte
 - Fans der Saga werden sich über die enthaltenen LEGO Star Wars Minifiguren freuen: Darth Vader mit Lichtschwert, Vizeadmiral Sloane und ein TIE-Bomberpilot, jeweils mit Blasterpistole, sowie eine Gonk Droide LEGO Figur
-- Mit dem Wagen können Kinder Torpedos zum Modell-TIE-Bomber transportieren, der für eine neue Mission bereit ist; der Wagen hat Platz für eine Minifigur und kann hinten 2 Torpedos laden
-- Die LEGO Builder App bietet Kindern digitale, interaktive Werkzeuge, die sie durch ein einzigartiges und lustiges Bauerlebnis auf ihrem Tablet oder Smartphone führen
-- Der Star Wars Modellbaukasten für Jungen und Mädchen ab 9 Jahren, ist ein besonderes Geburtstagsgeschenk oder ein Star Wars Sammlerstück für Fans der Saga
 - Mit diesem baubaren Star Wars Spielzeug des TIE Bomber Starfighters, 3 Minifiguren, darunter eine Darth Vader-Minifigur und eine Gonk-Droidenfigur, können Fans spannende Szenen aus Star Wars: Das Imperium schlägt zurück nachspielen
+- Mit dem Wagen können Kinder Torpedos zum Modell-TIE-Bomber transportieren, der für eine neue Mission bereit ist; der Wagen hat Platz für eine Minifigur und kann hinten 2 Torpedos laden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZMRDP{{</world>}}
