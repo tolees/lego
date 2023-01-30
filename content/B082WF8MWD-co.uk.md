@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Check out other sets in the LEGO Marvel The Eternals range for more thrills and adventure with authentic characters from the movie
-- The LEGO Marvel Deviant Ambush! building toy features minifigures from the Marvel Studios’ The Eternals movie, with their cool weapons
-- It also includes a posable 6-legged Deviant figure with an open & close mouth, a dagger, fist weapon and a shooter to role-play movie scenes!
+- Kids can position the movable Deviant’s 6 legs any way they want, while the biting mouth adds extra action for maximum fun
+- LEGO Marvel building toys for kids deliver mega superhero action and are great for a solo or group play and display
 - The Eternals LEGO Marvel playset makes a great Christmas or birthday gift for kids 6+ years old and looks amazing on display in any kid’s room
 - Includes 3 LEGO Marvel Eternals superhero minifigures – Thena, Makkari and Gilgamesh, the only one set to feature the Gilgamesh minifigure!
-- LEGO Marvel building toys for kids deliver mega superhero action and are great for a solo or group play and display
-- Kids can position the movable Deviant’s 6 legs any way they want, while the biting mouth adds extra action for maximum fun
+- The LEGO Marvel Deviant Ambush! building toy features minifigures from the Marvel Studios’ The Eternals movie, with their cool weapons
+- It also includes a posable 6-legged Deviant figure with an open & close mouth, a dagger, fist weapon and a shooter to role-play movie scenes!
+- Check out other sets in the LEGO Marvel The Eternals range for more thrills and adventure with authentic characters from the movie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B082WF8MWD{{</world>}}

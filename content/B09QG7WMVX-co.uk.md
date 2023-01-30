@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kids can expand their LEGO Super Mario Starter Course with this Fuzzy Flippers Expansion Set: a brick-built sky level and 2 Fuzzy LEGO figures
-- This Super Mario buildable toy is a fun gift for girls and boys who own LEGO Super Mario Starter Course 71360, 71387 or 71403 - required for play
 - LEGO Super Mario sets are perfect for solo or group play, as friends with their own LEGO Super Mario figure can take on this challenge together
+- Kids can expand their LEGO Super Mario Starter Course with this Fuzzy Flippers Expansion Set: a brick-built sky level and 2 Fuzzy LEGO figures
 - Includes a sky scene, Time Block and orange Mushroom Trampoline with a bouncy effect so an interactive figure can jump to the flippers
+- This Super Mario buildable toy is a fun gift for girls and boys who own LEGO Super Mario Starter Course 71360, 71387 or 71403 - required for play
 - Kids help LEGO Mario, LEGO Luigi or LEGO Peach (these 3 figures are not included) stomp on each end of the 2 flippers to flip the Fuzzies
 
 [🛒 Buy it!!]({{< param buyurl >}})
