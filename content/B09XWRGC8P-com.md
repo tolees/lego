@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - What’s in the box? – All kids need to build The Knockdown Stunt Challenge, a flywheel-powered stunt bike and LEGO City Adventures TV series minifigure characters Galactic Poppy Star and Harl Hubbs
-- A gift for any occasion – This LEGO City Stuntz playset can be given as a holiday, birthday or any-other-day gift for kids aged 5 and up and fans of the LEGO City Adventures TV series
-- Glow-in-the-dark elements and fun functionality – Kids activate the stunt bike and release it to hit the suspended rods and ‘knock down’ a prize
-- Stunt action for kids aged 5 and up – Set the scene for fun shows and competitions with this LEGO City The Knockdown Stunt Challenge (60341) playset, including 2 LEGO City TV minifigure characters
 - Dimensions – The Knockdown Stunt Challenge measures over 9 in. (24 cm) high, 8 in. (20 cm) wide and 5.5 in. (14 cm) deep
+- Glow-in-the-dark elements and fun functionality – Kids activate the stunt bike and release it to hit the suspended rods and ‘knock down’ a prize
+- A gift for any occasion – This LEGO City Stuntz playset can be given as a holiday, birthday or any-other-day gift for kids aged 5 and up and fans of the LEGO City Adventures TV series
+- Stunt action for kids aged 5 and up – Set the scene for fun shows and competitions with this LEGO City The Knockdown Stunt Challenge (60341) playset, including 2 LEGO City TV minifigure characters
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09XWRGC8P{{</world>}}

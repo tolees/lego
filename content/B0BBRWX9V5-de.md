@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses modulare Set kann mit anderen LEGO Super Mario Spielzeug zum Bauen kombiniert werden. Für das interaktive Spiel wird ein Starterpaket (71360 mit LEGO Mario, 71387 mit LEGO Luigi oder 71403 mit LEGO Peach) benötigt
 - Durch das Schlittschuhlaufen mit der interaktiven Figur auf der Eisplatte können die Kinder Geräusche auslösen. Sie können auf den Werfer springen, um den Cooligan in den Eisblock zu schleudern, damit er zerbricht und der Goomba zum Vorschein kommt
-- Die LEGO Super Mario App hilft Kindern beim Bau dieses coolen Spielzeugs mit Bauanleitungen, kreativen Tipps und vielem mehr - jedes der LEGO Super Mario Sets ist für das Einzel- oder Gemeinschaftsspiel konzipiert
 - Kinder können die Super Mario Figuren (nicht enthalten) in einen Eis-Anzug stecken, um sich für die Eiswelt zu stärken. Der Anzug ermöglicht Reaktionen, wie z. B. eine Eiskugel-Grafik, die auf seinem Bauchbildschirm erscheint, um Energie zu erzeugen
+- Die LEGO Super Mario App hilft Kindern beim Bau dieses coolen Spielzeugs mit Bauanleitungen, kreativen Tipps und vielem mehr - jedes der LEGO Super Mario Sets ist für das Einzel- oder Gemeinschaftsspiel konzipiert
+- Dieses modulare Set kann mit anderen LEGO Super Mario Spielzeug zum Bauen kombiniert werden. Für das interaktive Spiel wird ein Starterpaket (71360 mit LEGO Mario, 71387 mit LEGO Luigi oder 71403 mit LEGO Peach) benötigt
 - Mit diesem LEGO Super Mario Erweiterungsset, das einen Eis-Mario-Anzug sowie die Figuren Cooligan und Goomba enthält, können Kinder ihr baufähiges Super Mario Spiel um ein eisiges Level erweitern
 
 [🛒 Buy it now!!]({{< param buyurl >}})

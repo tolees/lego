@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Draußen gibt es eine Tischtennisplatte, 2 Elektroscooter, einen Bootssteg mit aufblasbarem Bananenboot und ein LEGO Friends Schwimmbad
-- Es hat 2 Schlafzimmer, eins mit Bad, eins mit Etagenbetten, sowie einen Balkon und einen Pool auf dem Dach, eine Küche und ein Wohnzimmer
-- Zeige Kindern die lustige Welt von Heartlake City, wo sie lernen, dass man die beste Zeit mit Freunden verbringt
 - Das modulare LEGO Friends Puppenhaus für den Strandurlaub mit einem Schwimmbad kann in 2 oder 3 separate Gebäude umgestaltet werden
+- Es hat 2 Schlafzimmer, eins mit Bad, eins mit Etagenbetten, sowie einen Balkon und einen Pool auf dem Dach, eine Küche und ein Wohnzimmer
 - Enthält 4 LEGO Friends Mini-Puppen: Mia, Sebastian, Stephanie, Elijah, Delfin- und Katzenfiguren und viel Puppenhaus-Zubehör
+- Zeige Kindern die lustige Welt von Heartlake City, wo sie lernen, dass man die beste Zeit mit Freunden verbringt
+- Draußen gibt es eine Tischtennisplatte, 2 Elektroscooter, einen Bootssteg mit aufblasbarem Bananenboot und ein LEGO Friends Schwimmbad
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNT99YZ{{</world>}}

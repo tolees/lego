@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kombiniere dieses Set mit anderen Sets aus der LEGO City Stuntz Reihe, wie der Hindernis-Stuntchallenge (60340) für noch größere Stunts
+- Mit den Minifiguren Galaktische Poppy Star und Harl Hubbs aus LEGO City - Abenteuer und einem Schraubenzieher und einem Mikrofon als Zubehör
+- Die Kinder starten den LEGO Stunt Racer, um eine Säule zu treffen und einen der Preise - Skorpion, Kuchen oder Trophäe - umzuwerfen
 - Enthält ein LEGO Stunt Motorrad, einen Helm mit Visier und Accessoire-Elementen sowie einen Stuntbereich mit im Dunkeln leuchtenden Sternen
 - Kinder, die gerne um die Wette kämpfen, werden dieses LEGO City Stuntz Spielset mit Spielzeug-Motorrad und im Dunkeln leuchtenden Elementen lieben
-- Mit den Minifiguren Galaktische Poppy Star und Harl Hubbs aus LEGO City - Abenteuer und einem Schraubenzieher und einem Mikrofon als Zubehör
-- Dieses LEGO Stunt Racer Action-Spielzeug ist ein ideales Geschenk Set für Kinder ab 5 Jahren und Fans der TV-Serie LEGO City - Abenteuer
-- Die Kinder starten den LEGO Stunt Racer, um eine Säule zu treffen und einen der Preise - Skorpion, Kuchen oder Trophäe - umzuwerfen
+- Kombiniere dieses Set mit anderen Sets aus der LEGO City Stuntz Reihe, wie der Hindernis-Stuntchallenge (60340) für noch größere Stunts
 - Die Kinderspielzeuge ab 5 Jahre enthalten eine gedruckte Schritt-für-Schritt-Bauanleitung, damit Kleinkinder sofort loslegen können
+- Dieses LEGO Stunt Racer Action-Spielzeug ist ein ideales Geschenk Set für Kinder ab 5 Jahren und Fans der TV-Serie LEGO City - Abenteuer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFP84GV{{</world>}}
