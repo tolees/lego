@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Los fans del videojuego Star Wars Jedi: Fallen Order podrán revivir aventuras épicas construyendo y exhibiendo esta fascinante maqueta de Star Wars para construir del droide explorador BD-1
 - Ponle el broche final a esta increíble pieza de exhibición con la placa informativa incluida y la figura LEGO adicional en tamaño reducido de BD-1 que se le puede conectar, ¡la decoración para casa o la oficina perfecta!
 - Este set cuenta con un modelo de droide de Star Wars para construir con miembros articulados y una cabeza que se puede mover hacia adelante, hacia atrás y hacia los lados para recrear adorables expresiones
 - A los fans también les encantarán los elementos translúcidos en la parte posterior de la cabeza que indican el estado de ánimo de BD-1 y el compartimento de elementos que representan viales de estimulantes
 - Forma parte de un conjunto de maquetas de droides de Star Wars para construir y es la suma perfecta para cualquier colección existente de LEGO Star Wars
+- Los fans del videojuego Star Wars Jedi: Fallen Order podrán revivir aventuras épicas construyendo y exhibiendo esta fascinante maqueta de Star Wars para construir del droide explorador BD-1
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFS7ZP9{{</world>}}
