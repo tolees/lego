@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Horas de mágicas aventuras esperan a los peques cuando entren en La Casa de los Gritos a través del pasadizo secreto y rescaten a Ron o liberen a Hermione del Sauce
+- Este set LEGO Harry Potter está lleno de mágicas funciones, El Sauce Boxeador se gira y sus ramas se doblan para lanzar puñetazos a las mini figuras y cogerlas
 - Y aún hay más, los niños podrán recrear escenas de la película Harry Potter y el Prisionero de Azkaban cuando la luna resplandeciente aparezca y el Profesor Lupin se convierta en hombre lobo
 - El set incluye 6 mini figuras LEGO de Harry Potter, Hermione Granger, Ron Weasley, Sirius Black, Peter Pettigrew y, además de 4 cromos mágicos aleatorios para coleccionar (hay 16 en total)
-- Este set LEGO Harry Potter está lleno de mágicas funciones, El Sauce Boxeador se gira y sus ramas se doblan para lanzar puñetazos a las mini figuras y cogerlas
 - Lleva a los peques al centro de la acción con este juguete de construcción 2 en 1 con el que pueden recrear 2 lugares clásicos de las películas de Harry Potter: La Casa de los Gritos y el Sauce Boxeador
+- Horas de mágicas aventuras esperan a los peques cuando entren en La Casa de los Gritos a través del pasadizo secreto y rescaten a Ron o liberen a Hermione del Sauce
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFQFY8D{{</world>}}
