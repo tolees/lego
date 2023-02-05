@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed 75883- Champions Scuderia Formula 1 Mercedes AMG Petron'
-date: 2023-02-02 20:45:16
+date: 2023-02-04 20:56:44
 image: 'https://m.media-amazon.com/images/I/61w0AfLAFnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B01J41GR5M/?tag=tolees00-21'
 descuento: '20.74'
-average: '257.27001798561'
+average: '257.29107719928'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Il set MERCEDES AMG PETRONAS Formula One Team contiene una tribuna, garage ai box, pit wall, piattaforma televisiva e le due monoposto ibride Mercedes F1 W07
-- Il garage ai box include una funzione cric, due schermi di computer con informazioni sul pilota ed elementi assortiti
 - La tribuna ha sedili per minifigure, un centro multimediatico
+- Il garage ai box include una funzione cric, due schermi di computer con informazioni sul pilota ed elementi assortiti
+- Il set MERCEDES AMG PETRONAS Formula One Team contiene una tribuna, garage ai box, pit wall, piattaforma televisiva e le due monoposto ibride Mercedes F1 W07
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01J41GR5M{{</world>}}
