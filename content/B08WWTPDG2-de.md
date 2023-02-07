@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75312 Star Wars Boba Fetts Starship™  Bauset für Kinder ab 9 Jahren  Mandalorian-Modell mit 2 Minifiguren'
-date: 2023-01-30 11:58:22
+date: 2023-02-07 15:31:50
 image: 'https://m.media-amazon.com/images/I/51ZjgO1OJwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWTPDG2/?tag=tolees0ca-21'
 descuento: '30.01'
-average: '36.5336363636364'
+average: '36.4882352941177'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Mit der Mandalorianer LEGO-Star-Wars-Minifigur können Kinder aufregende Abenteuer und Kopfgeldjagden nachspielen und Shooter abfeuern
-- Enthält zudem ein sich öffnen lassendes Cockpit für LEGO-Star-Wars-Minifiguren, 2 rotierende Zweier-Blaster-Kanonen (nicht schießend) und eine Kammer für einen Karbonit-Stein
 - Enthält 2 LEGO-Star-Wars-Minifiguren: Boba-Fett mit einem Blaster und den Mandalorianer mit seinem Blastergewehr und seiner Beskar-Lanze
-- Enthält ein Modell von Boba Fetts Starship aus LEGO-Steinen mit Handgriff, um es einfach fliegen zu lassen, drehenden Flügeln und 2 Shootern
 - Eignet sich perfekt als Ausstellungstück für Baumeister und Fans von Star Wars, ganz besonders als Geschenkidee zu Weihnachten
+- Mit der Mandalorianer LEGO-Star-Wars-Minifigur können Kinder aufregende Abenteuer und Kopfgeldjagden nachspielen und Shooter abfeuern
+- Enthält ein Modell von Boba Fetts Starship aus LEGO-Steinen mit Handgriff, um es einfach fliegen zu lassen, drehenden Flügeln und 2 Shootern
 - Inklusive Transporter-Fahrzeug, um das Starship auf dem Boden in Spielposition zu bringen – für das Spiel allein oder zu mehreren –, sowie Karbonit-Stein
+- Enthält zudem ein sich öffnen lassendes Cockpit für LEGO-Star-Wars-Minifiguren, 2 rotierende Zweier-Blaster-Kanonen (nicht schießend) und eine Kammer für einen Karbonit-Stein
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08WWTPDG2{{</world>}}
