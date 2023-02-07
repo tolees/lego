@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75304 Star Wars Casco de Darth Vader  Maqueta para Construir para Adultos  Modelo de Coleccionista  Manualidad de Decoración'
-date: 2023-02-06 02:15:38
+date: 2023-02-07 05:52:54
 image: 'https://m.media-amazon.com/images/I/5196O59IdnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G4GPS3Q-es LEGO 75304 Star Wars Casco de Darth Vader Maqueta para...'
 sku: 'B08G4GPS3Q-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 59.49 EUR
+actualPrice: 55.74 EUR
 currency: EUR
-price: 59.49
+price: 55.74
 comparePrice: 79.99 EUR
 prodname: 'LEGO 75304 Star Wars Casco de Darth Vader  Maqueta para Construir para Adultos  Modelo de Coleccionista  Manualidad de Decoración'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4GPS3Q/?tag=tolees-21'
-descuento: '25.63'
-average: '63.799533898305'
+descuento: '30.32'
+average: '63.7655274261603'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Take time out & immerse yourself in a complex creative challenge, then display it proudly as a conversation-starting object at home or office
-- Makes a splendid treat for yourself and a great Star Wars gift to wow any enthusiast or experienced LEGO builder
-- This collectible LEGO Star Wars building set for adults features menacingly detailed  Darth Vader’s Helmet with a stand and nameplate
-- Also, check out the other new-for-May-2021 LEGO Star Wars build-to-display helmet: Scout Trooper Helmet (75305)
-- The iconic shape of Darth Vader’s Helmet is recreated in LEGO bricks and is over 20 cm/8in. high including the display stand
-- This construction model for adults is part of a series of LEGO Star Wars collectible build-to-display helmet models reproduced in LEGO style
+- Este LEGO para adultos contiene todos los auténticos y siniestros detalles del casco de Darth Vader para que puedas revivir las clásicas escenas de la saga Star Wars
+- Rinde homenaje al lado oscuro con esta maqueta para construir para adultos del Casco de Darth Vader, ¡el villano más temido de la galaxia!
+- Los modelos de exposición LEGO Star Wars tienen una calidad premium de gran impacto visual para el hogar o la oficina, ¡son la pieza de decoración para casa perfecta!
+- Echa un vistazo a otros cascos coleccionables de Star Wars para exponer y construir: Casco de Soldado Explorador (75305) y Luke Skywalker (75327) Cinco Rojo
+- Un set de primera calidad que forma parte de una serie de cascos coleccionables LEGO Star Wars para adultos
+- Este manualidad para adultos cuenta con un casco de Darth Vader para construir con ladrillos LEGO, con soporte de exhibición y placa de identificación
+- Explora toda la gama de kits de construción de LEGO Star Wars y saca tu lado oscuro con este siniestro e intimidante modelo de coleccionista, ¡es el regalo de Star Wars pertecto!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08G4GPS3Q{{</world>}}
