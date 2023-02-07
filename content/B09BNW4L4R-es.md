@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60324 City Grúa Móvil de Juguete con 2 Mini Figuras de Trabajadores  Vehículo de 6 Ruedas  para Niños  Reyes Magos'
-date: 2023-02-04 21:07:51
+date: 2023-02-07 00:57:58
 image: 'https://m.media-amazon.com/images/I/51ayyi1zoWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- La app gratuita Instrucciones de Montaje LEGO para smartphones y tabletas permite a los peques acercar, girar y ver el juguete desde todos los ángulos mientras lo construyen
-- Con las mini figuras LEGO de un conductor y un operador de grúa, y accesorios de juguete: una llave inglesa, un walkie-talkie y 2 cascos de seguridad para llevar a cabo un juego realista
-- Los juguetes de construcción LEGO City Grandes Vehículos son una gran idea de regalos de Navidad o Reyes para niños y niñas de 7 años en adelante
-- Este vehículo de juguete incluye una divertida base de carretera que permite conectar el set a otros de la gama LEGO City
-- La grúa de juguete está montada sobre un fascinante camión de 6 ruedas, tras ponerlo posición, los peques podrán bajar las almohadillas de soporte de la grúa, girar y extender el brazo y levantar y bajar el cabrestante
-- Este set LEGO City incluye un vehículo de construcción de juguete de una grúa móvil con almohadillas, brazo y cabrestante que funcionan de verdad, accesorios y 2 mini figuras LEGO de trabajadores
+- LEGO City Great Vehicles building sets make great birthday presents or any-time treats for 7 plus year old boys and girls
+- After driving the truck toy into position, kids can lower the cranes support legs, rotate and extend the boom and raise and lower the winch
+- The free LEGO Building Instructions app for smartphones & tablets lets kids zoom, rotate and view the model from all angles as they build
+- This LEGO construction vehicle building set features a mobile toy crane with workable legs, boom and winch, on top of a 6-wheeled toy truck
+- Building a LEGO city has never been so much fun; when play is done, kids can secure the toy winch hook and head out to the next job
+- Includes driver and crane-operator LEGO minifigures, and toy accessories - a wrench, walkie-talkie and 2 safety helmets for realistic play
+- The included LEGO City Road Plate can be winched into position by the crane toy, and can be easily connected to other LEGO City building toys
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNW4L4R{{</world>}}
