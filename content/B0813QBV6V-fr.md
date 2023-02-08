@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants 9 Ans'
-date: 2023-02-05 21:03:20
+title: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants  Garçons et Filles 9 Ans'
+date: 2023-02-08 00:26:22
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 76.9 EUR
 currency: EUR
 price: 76.9
 comparePrice: 99.99 EUR
-prodname: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants 9 Ans'
+prodname: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants  Garçons et Filles 9 Ans'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813QBV6V/?tag=tolees0d-21'
 descuento: '23.09'
-average: '86.0423381770145'
+average: '86.047233201581'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Comprend 8 minifigurines : Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
-- Combinez-les avec la Grande salle de Poudlard 75954, le saule fouisseur de Poudlard 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard !
-- Ce set LEGO est exclusif à Amazon - disponible uniquement sur Amazon ou chez certains revendeurs.
-- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
 - Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
 - Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
+- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
+- Les enfants, garçons et filles vont adorer combiner ce set avec la Grande salle de Poudlard 75954, le Saule Cogneur 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard
+- Comprend 8 minifigurines : Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6V{{</world>}}

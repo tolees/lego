@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - 76087 - Jeu de Construction - Confidential - Justice League 3'
-date: 2023-02-07 00:16:11
+date: 2023-02-08 00:20:12
 image: 'https://m.media-amazon.com/images/I/61h95219nTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06WRRJ64N/?tag=tolees0d-21'
 descuento: '18.10'
-average: '158.737393364929'
+average: '158.723596214511'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Participe à la mission de la Ligue des Justiciers pour vaincre Steppenwolf et les Parademons ! Pilote le Flying Fox avec Cyborg et tire avec les fusils à ressorts et à tenons.
-- Âge : 9 - 14 ans
 - Confidentiel lego na pas dinfos à communiquer à ce jour
+- Âge : 9 - 14 ans
+- Participe à la mission de la Ligue des Justiciers pour vaincre Steppenwolf et les Parademons ! Pilote le Flying Fox avec Cyborg et tire avec les fusils à ressorts et à tenons.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06WRRJ64N{{</world>}}
