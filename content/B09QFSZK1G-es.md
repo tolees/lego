@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21058 Architecture Gran Pirámide de Guiza  Maqueta para Construir para Adultos  Manualidades de Decoración  Coleccionista  Idea de Regalo Egipto'
-date: 2023-02-07 01:02:03
+date: 2023-02-09 01:27:56
 image: 'https://m.media-amazon.com/images/I/51hYNFGU38L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFSZK1G-es LEGO 21058 Architecture Gran Pirámide de Guiza Maqueta...'
 sku: 'B09QFSZK1G-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 109.96 EUR
+actualPrice: 118.99 EUR
 currency: EUR
-price: 109.96
+price: 118.99
 comparePrice: 139.99 EUR
 prodname: 'LEGO 21058 Architecture Gran Pirámide de Guiza  Maqueta para Construir para Adultos  Manualidades de Decoración  Coleccionista  Idea de Regalo Egipto'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFSZK1G/?tag=tolees-21'
-descuento: '21.45'
-average: '125.240540540541'
+descuento: '15.00'
+average: '125.1572'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Una manualidad para adultos que incluye todo lo necesario para construir la Gran Pirámide y su detallado paisaje con 2 templos funerarios, estatuas de esfinges, un obelisco, un fragmento del río Nilo, ¡y más!
-- Un modelo de coleccionista diseñado para ofrecerte una experiencia de construcción desafiante y envolvente que te aportará energías renovadas y una gratificante sensación de logro
+- Diseñado por expertos, es una pieza histórica de decoración para casa o la oficina perfecta, ¡incluye un folleto ilustrado con la historia de esta gran maravilla del mundo y los diseñadores LEGO del proyecto!
 - Da un salto atrás en el tiempo hasta el siglo XXVI a. C. y descubre el aspecto que tenía la Gran Pirámide de Giza y los alrededores de la época con esta maqueta para construir para adultos LEGO
 - El mejor regalo para viajeros, amantes de la arquitectura y la historia o para ese amigo o familiar que siempre ha soñado con visitar Egipto, ¡o simplemente para ti!
 - Con auténticos detalles: levanta la estructura exterior y verás el sistema que posiblemente usarán para mover los bloques de piedra durante la construcción, por detrás observa los túneles y las cámaras del rey y la reina
-- Diseñado por expertos, es una pieza histórica de decoración para casa o la oficina perfecta, ¡incluye un folleto ilustrado con la historia de esta gran maravilla del mundo y los diseñadores LEGO del proyecto!
+- Un modelo de coleccionista diseñado para ofrecerte una experiencia de construcción desafiante y envolvente que te aportará energías renovadas y una gratificante sensación de logro
+- Una manualidad para adultos que incluye todo lo necesario para construir la Gran Pirámide y su detallado paisaje con 2 templos funerarios, estatuas de esfinges, un obelisco, un fragmento del río Nilo, ¡y más!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFSZK1G{{</world>}}

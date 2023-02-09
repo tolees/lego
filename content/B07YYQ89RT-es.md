@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42111 Technic Dom s Dodge Charger  Maqueta de Coche de Fast and Furious para Construir  Regalo Original  Set de Construcción'
-date: 2023-02-08 00:17:23
+date: 2023-02-09 00:39:17
 image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07YYQ89RT-es LEGO 42111 Technic Dom s Dodge Charger Maqueta de Coche de...'
 sku: 'B07YYQ89RT-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 96.63 EUR
+actualPrice: 95.63 EUR
 currency: EUR
-price: 96.63
+price: 95.63
 comparePrice: 119.99 EUR
 prodname: 'LEGO 42111 Technic Dom s Dodge Charger  Maqueta de Coche de Fast and Furious para Construir  Regalo Original  Set de Construcción'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07YYQ89RT/?tag=tolees-21'
-descuento: '19.47'
-average: '100.155765363128'
+descuento: '20.30'
+average: '100.150714285714'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

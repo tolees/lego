@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants  Garçons et Filles 9 Ans'
-date: 2023-02-08 00:26:22
+date: 2023-02-09 00:48:50
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813QBV6V/?tag=tolees0d-21'
 descuento: '23.09'
-average: '86.047233201581'
+average: '86.035197368421'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Les enfants, garçons et filles vont adorer combiner ce set avec la Grande salle de Poudlard 75954, le Saule Cogneur 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard
 - Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
 - Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
-- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
-- Les enfants, garçons et filles vont adorer combiner ce set avec la Grande salle de Poudlard 75954, le Saule Cogneur 75953 et la tour de lhorloge de Poudlard 75948 pour créer le château de Poudlard
 - Comprend 8 minifigurines : Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
+- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6V{{</world>}}
