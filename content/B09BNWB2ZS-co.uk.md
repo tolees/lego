@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76183 DC Batman Batcave: The Riddler Face-off Set with Toy Motorbike  Gift for Boys and Girls 8 plus Years Old  with Catwoman and Alfred Minifigures'
-date: 2023-02-07 10:36:30
+date: 2023-02-09 10:47:02
 image: 'https://m.media-amazon.com/images/I/51dM34GYhlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNWB2ZS/?tag=tolees0a-21'
 descuento: '25.00'
-average: '43.3171428571429'
+average: '43.4286666666667'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes 3 elements with coded messages from The Riddler that can be read with a special magnifying glass only to reveal the clues
-- The Batcaves 2 sidewalls, one with a large GOTHAM CITY map and the other with a tool rack, are hinged to be rotated for more play space
 - This LEGO Super Heroes set includes 6 minifigures: Batman, his alter ego The Drifter, Selina Kyle, Alfred, Commissioner Gordon & The Riddler
+- The Batcaves 2 sidewalls, one with a large GOTHAM CITY map and the other with a tool rack, are hinged to be rotated for more play space
 - Its time for Batman to disguise himself as The Drifter, race off on his motorbike, capture the villain & bring him back to the Batcave jail!
+- Includes 3 elements with coded messages from The Riddler that can be read with a special magnifying glass only to reveal the clues
 - Features a buildable Batcave - Batmans HQ equipped with accessories and a jail cell, plus a toy motorbike for many Batman adventures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
