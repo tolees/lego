@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71415 Super Mario Set de Expansión: Traje de Mario de Hielo y Mundo Helado  Juguete de Construcción con Goomba y Disfraz para Figura Interactiva'
-date: 2023-02-10 23:49:01
+date: 2023-02-13 14:46:55
 image: 'https://m.media-amazon.com/images/I/51UZegIo7SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Combinable con otros juguetes para construir de LEGO Super Mario, este set requiere un Pack Inicial de LEGO Mario (71360), LEGO Luigi (71387) o LEGO Peach (71403) para disfrutar del juego interactivo
-- Los niños podrán agregar una divertida pista de hielo azul a sus niveles de juego de LEGO Super Mario con el Set de Expansión: Traje de Mario de Hielo y Mundo Helado que incluye las figuras de los personajes de un Pingüizador y un Goomba
 - En este juguete de construcción los niños podrán colocar a la figura LEGO Mario (no incluida) en el traje de hielo y observar las reacciones que emite, como la bola de hielo que aparece en la pantalla de su barriga y le otorga un poder extra
+- Los niños podrán agregar una divertida pista de hielo azul a sus niveles de juego de LEGO Super Mario con el Set de Expansión: Traje de Mario de Hielo y Mundo Helado que incluye las figuras de los personajes de un Pingüizador y un Goomba
 - Los peques tendrán que construir la placa de hielo azul con ladrillos LEGO y observar los sonidos que hace LEGO Mario al interactuar sobre ella, ¡después usarán el lanzador que envía al Pingüizador volando hacia un bloque de hielo y revelar a Goomba!
 - La app LEGO Super Mario incluye instrucciones de construcción, consejos creativos e inspiradoras ideas para que los niños disfruten aún más de construir sus niveles de juego, ¡ideales para jugar en solitario o en compañía de amigos!
 
