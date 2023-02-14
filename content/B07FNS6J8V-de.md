@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60216 City Fire Feuerwehr in der Stadt'
-date: 2023-02-12 01:37:07
+date: 2023-02-14 01:28:19
 image: 'https://m.media-amazon.com/images/I/51DZVF50dEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNS6J8V/?tag=tolees0ca-21'
 descuento: '17.65'
-average: '90.431976744186'
+average: '90.4602322206095'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Anzahl der Teile: 943
 - Zu diesem Spielzeugset gehört außerdem ein großes Feuerwehrleiterfahrzeug mit funktionierendem Licht- und Ton-Stein (Neuheit ab Januar 2019), ausfahrbaren Stabilisatoren, Staufächern zum Öffnen and der Seite und vorne, eine ausfahrbare Drehleiter und ein Feuerwehrschlauch mit einem Pumpensystem mit „Wasserstrahl“-Funktion (Neuheit ab Januar 2019).
 - Vom Hersteller empfohlenes Alter: 6+
-- Feuerwehr in der Stadt
-- Anzahl der Teile: 943
 - Dieses fantastische Set enthält einen Rettungshubschrauber mit Cockpit zum Öffnen, drehbaren Rotoren und einem Multishooter (Neuheit ab Januar 2019), das ferngesteuerte Fahrzeug R.O.S.-T3 mit ausfahrbaren Greifern und einem Multishooter (Neuheit ab Januar 2019) sowie ein Feuerwehrmotorrad.
+- Feuerwehr in der Stadt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07FNS6J8V{{</world>}}
