@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60216 City Fire Les Pompiers du Centre-Ville'
-date: 2023-02-14 01:51:34
+date: 2023-02-15 02:51:05
 image: 'https://m.media-amazon.com/images/I/61zIFZJAReL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FNS6J8V/?tag=tolees0d-21'
 descuento: '18.38'
-average: '92.5930220713074'
+average: '92.5950338983052'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
