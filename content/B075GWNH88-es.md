@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10714 Classic Base Azul  Juego de Construcción para Niños y Niñas 4 años'
-date: 2023-02-01 14:34:50
+date: 2023-02-15 12:20:15
 image: 'https://m.media-amazon.com/images/I/51mRSb11VMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B075GWNH88/?tag=tolees-21'
 descuento: '22.25'
-average: '8.53'
+average: '8.45666666666667'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- ¡La creatividad está asegurada con los sets LEGO Classic!
+- Mide 32x32 espigas o 25 cm de lado.
 - Crea una aldea costera, una piscina para el verano, un barco que navega por altamar o cualquier otra cosa que puedas imaginar.
 - Base azul LEGO.
-- Un fantástico complemento para cualquier colección LEGO.
-- Mide 32x32 espigas o 25 cm de lado.
 - Esta base de juego creativo es apta para edades de 4 a 99 años.
-- ¡La creatividad está asegurada con los sets LEGO Classic!
+- Un fantástico complemento para cualquier colección LEGO.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B075GWNH88{{</world>}}
