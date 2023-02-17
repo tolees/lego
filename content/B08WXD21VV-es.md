@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76193 Marvel Nave de los Guardianes de la Galaxia  Juguete de Construcción de Vengadores con Mini Figuras de Superhéroes'
-date: 2023-02-16 04:13:51
+date: 2023-02-17 05:11:09
 image: 'https://m.media-amazon.com/images/I/51QiMOHckBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Contiene la icónica nave espacial LEGO Guardianes de la Galaxia con cabina abatible y espacio para todas las mini figuras LEGO Marvel del set
-- Este gran set LEGO de 1901 piezas mide 36 centímetros de largo y 59 centímetros de ancho, es un gran regalo de Guardianes de la Galaxia para los fans de Marvel Avengers
-- Juguete de construcción de la icónica nave espacial LEGO Marvel Guardianes de la Galaxia con cabina abatible y espacio para todas las mini figuras del set
-- Incluye mini figuras LEGO de guerreros Star-Lord, Groot, Rocket, Mantis, Thor y Chitauri, además de fantásticas armas y accesorios
-- Es estupendo tanto por dentro como por fuera, con un soporte giratorio resistente que permite colocar la nave espacial de juguete en una posición dinámica
-- Entre sus divertidas características se incluye una tienda de armas, un ordenador y un lugar para que los superhéroes de Marvel puedan comer café y donuts
+- This 1901-pieces large LEGO set is 14 in/36 cm long & 23 in/59 cm wide, it makes a great Guardians of the Galaxy gift for Marvel Avengers fans, boys, girls and teens
+- Features the iconic Guardians of the Galaxy LEGO spaceship with an opening cockpit and room for all the LEGO Marvel minifigures from the set
+- It’s cool on the inside as it is on the outside, with a sturdy, rotatable stand allowing the spaceship to be positioned for a dynamic display
+- Includes Star-Lord, Groot, Rocket, Mantis, Thor and Chitauri warrior LEGO minifigures, plus cool weapons and accessories
+- Fun features include a weapon store, computer and a place for the LEGO Marvel Avengers minifigures to snack on coffee and doughnuts
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WXD21VV{{</world>}}
