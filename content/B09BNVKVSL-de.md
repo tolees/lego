@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11019 Classic Bausteine und Funktionen  Box Steinen für Hubschrauber und andere Konstruktionsspielzeuge'
-date: 2023-02-15 14:43:04
+date: 2023-02-18 15:26:14
 image: 'https://m.media-amazon.com/images/I/51hIIL4KJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNVKVSL-de LEGO 11019 Classic Bausteine und Funktionen Box Steinen...'
 sku: 'B09BNVKVSL-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 19.99 EUR
+actualPrice: 19.76 EUR
 currency: EUR
-price: 19.99
+price: 19.76
 comparePrice: 34.99 EUR
 prodname: 'LEGO 11019 Classic Bausteine und Funktionen  Box Steinen für Hubschrauber und andere Konstruktionsspielzeuge'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVKVSL/?tag=tolees0ca-21'
-descuento: '42.87'
-average: '21.0273333333334'
+descuento: '43.53'
+average: '21.0168595041323'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Classic Bricks & Functions toy playset makes a great addition to any LEGO set and is a fab birthday gift for kids aged 5 plus years old
-- Features a moving LEGO Classic set with LEGO gears and bricks plus 7 mini builds with gear-driven functions to kick-start the fun
-- With 500 LEGO bricks and pieces, this LEGO Classic building toy allows future engineers to build fully functioning construction toys
-- Every model comes with easy-to-follow building instructions, so even first-time builders can experience the fun of LEGO construction toys
-- Kids can build a pirouetting ballerina, a push-along LEGO helicopter toy with spinning rotors, an apple with a pop-up worm and more
-- All LEGO Classic components meet strict industry standards to ensure they’re consistent and compatible
+- Jedes LEGO Set wird mit einer leicht verständlichen Bauanleitung geliefert, so dass auch Bauanfänger den Spaß am Bauen finden
+- Enthält ein LEGO Classic Set mit LEGO Zahnrädern und Bausteinen sowie 7 Minimodelle mit Zahnradfunktionen, um den Spielspaß in Gang zu bringen
+- Kinder können eine Ballerina, die Pirouetten dreht, ein Spielzeug-Hubschrauber mit sich drehenden Rotoren, einen Apfel mit Wurm und vieles mehr bauen
+- Mit 500 LEGO Teilen ermöglicht das LEGO Konstruktionsspielzeug zukünftigen Ingenieuren, voll funktionsfähige Spielzeuge zu bauen
+- Die Box mit LEGO Classic Steinen ist eine großartige Ergänzung zu jedem LEGO Set und ein tolles Spielzeuggeschenk für Kinder ab 5 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNVKVSL{{</world>}}
