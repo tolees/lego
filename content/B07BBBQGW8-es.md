@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Stationary Set Con Minifigure - 4 Matite  1 Topper  1 Temperamatite  1 Gomma'
-date: 2023-02-16 23:02:02
+date: 2023-02-18 09:55:32
 image: 'https://m.media-amazon.com/images/I/41SH5S0St2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Figura a juego para jugar al mismo tiempo
-- Set ultra completo para escribir
-- Ideal para fans de LEGO de todas las edades.
 - Set de papelería, 8 unidades
+- Set ultra completo para escribir
+- Figura a juego para jugar al mismo tiempo
+- Ideal para fans de LEGO de todas las edades.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07BBBQGW8{{</world>}}
