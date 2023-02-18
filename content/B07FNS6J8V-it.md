@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60216 City Fire Missione antincendio in città'
-date: 2023-02-17 04:53:41
+date: 2023-02-18 06:36:03
 image: 'https://m.media-amazon.com/images/I/51DZVF50dEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07FNS6J8V/?tag=tolees00-21'
 descuento: '16.90'
-average: '103.893272727273'
+average: '103.902360060515'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
