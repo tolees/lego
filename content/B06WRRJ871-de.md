@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75186 - The Arrowhead'
-date: 2023-02-18 05:56:19
+date: 2023-02-20 06:05:30
 image: 'https://m.media-amazon.com/images/I/51t4TT1PI-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B06WRRJ871/?tag=tolees0ca-21'
 descuento: '18.98'
-average: '211.916947040495'
+average: '211.851679626746'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Enthält vier Minifiguren: Zander, Kordi, Quarrie und einen Stormtrooper sowie R0-GR als weitere Figur.
 - Als Zubehör sind ein Schraubenschlüssel und eine Kreissäge enthalten.
+- Verfügt über ein abnehmbares Cockpitdach, unter dem drei Minifiguren und R0-GR Platz haben.
 - Ebenfalls enthalten ist ein Servicewagen mit Werkzeug und zusätzlicher Munition.
 - Die Ausrüstung umfasst zwei Pistolen mit Enterhaken und zwei Blaster-Pistolen.
-- Verfügt über ein abnehmbares Cockpitdach, unter dem drei Minifiguren und R0-GR Platz haben.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06WRRJ871{{</world>}}
