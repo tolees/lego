@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 71398 Super Mario Dorries Strandgrundstück – Erweiterungsset  Spielzeug mit Krabbenfigur ab 6 Jahren  kreatives Spiel für Kinder'
-date: 2023-01-26 17:03:11
+title: 'LEGO 71398 Super Mario Dorries Strandgrundstück – Erweiterungsset'
+date: 2023-02-20 17:29:51
 image: 'https://m.media-amazon.com/images/I/513HFB+nQsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNWW61V-de LEGO 71398 Super Mario Dorries Strandgrundstück –...'
 sku: 'B09BNWW61V-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 21.99 EUR
+actualPrice: 18.29 EUR
 currency: EUR
-price: 21.99
+price: 18.29
 comparePrice: 29.99 EUR
-prodname: 'LEGO 71398 Super Mario Dorries Strandgrundstück – Erweiterungsset  Spielzeug mit Krabbenfigur ab 6 Jahren  kreatives Spiel für Kinder'
+prodname: 'LEGO 71398 Super Mario Dorries Strandgrundstück – Erweiterungsset'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWW61V/?tag=tolees0ca-21'
-descuento: '26.68'
-average: '19.7084466019412'
+descuento: '39.01'
+average: '19.6948076923072'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Vom Hersteller empfohlenes Alter: 6+
 - Inklusive einer LEGO Figur von Dorrie, auf der die Figuren von Mario oder Luigi (nicht enthalten) reiten können, um Münzen zu sammeln und Karl Krabbe zu besiegen
-- Mit dem Erweiterungsset „Dorries Strandgrundstück“ von LEGO Super Mario kannst du das Mario oder Luigi LEGO Starterset (nicht enthalten) um ein Strandlevel erweitern
-- Enthält außerdem einen Raketenwerfer, mit dem du einen grünen Panzer auf Karl Krabbe abfeuern kannst, sowie eine Sandburg aus LEGO Steinen, eine Wasserfontäne und einen Baum
-- Jedes Element des Spielzeugs verfügt über coole Funktionen, die der Spieler aktivieren muss, um an die Blöcke 1, 2 und 3 zu gelangen, digitale Münzen zu sammeln und zu gewinnen!
+- Anzahl der Teile: 229
+- Dorries Strandgrundstück – Erweiterungsset
 - Die LEGO Super Mario Erweiterungssets sind tolle Geschenke für Kinder, die das LEGO Super Mario Starterset 71360/71387 besitzen, welches zum Spielen benötigt wird
 
 [🛒 Buy it!!]({{< param buyurl >}})
