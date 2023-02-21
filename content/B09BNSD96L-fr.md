@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 71400 Super Mario Set d’Extension La Plage du Maxi-Oursin  avec Figurines Yoshi  Dauphin  Jouet Enfants +7 Ans'
-date: 2023-01-17 11:04:50
-image: 'https://m.media-amazon.com/images/I/51nVRfTvZOL._SL500_._SL400_.jpg'
+title: 'Lego 71396 Super Mario Ensemble d extension La Junior-Mobile de Bowser Jr.'
+date: 2023-02-20 23:34:45
+image: 'https://m.media-amazon.com/images/I/51kjUThMQRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09BNSD96L-fr LEGO 71400 Super Mario Set d’Extension La Plage du Maxi-...'
+slug: 'B09BNSD96L-fr Lego 71396 Super Mario Ensemble d extension La Junior-...'
 sku: 'B09BNSD96L-fr'
 tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux de construction','lego','🇫🇷', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9
 comparePrice: 59.99 EUR
-prodname: 'LEGO 71400 Super Mario Set d’Extension La Plage du Maxi-Oursin  avec Figurines Yoshi  Dauphin  Jouet Enfants +7 Ans'
+prodname: 'Lego 71396 Super Mario Ensemble d extension La Junior-Mobile de Bowser Jr.'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNSD96L/?tag=tolees0d-21'
 descuento: '25.15'
-average: '41.4225'
+average: '47.8322222222223'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Il inclut un tremplin pour réaliser des plongeons et un grand huit pour faire tomber le bloc de Super étoile du palmier et renverser le Maxi-oursin
-- Les enfants peuvent créer un niveau avec un palmier, vivre des aventures à dos de dauphin et faire des « sauts » de Cheep Cheeps pour collecter des pièces numériques
-- Ajoutez un autre niveau de plage au jeu de construction LEGO Super Mario grâce à l’ensemble d’extension La plage du gros oursin, un jouet pour enfants dès 7 ans
-- Il comprend 5 figurines LEGO Super Mario : Yoshi jaune, un Gros oursin, 2 Cheep Cheeps et un dauphin LEGO pour les figurines Mario ou Luigi (non incluses)
-- Les ensembles d’extension LEGO Super Mario constituent un superbe cadeau d’anniversaire pour les enfants qui possèdent un pack de démarrage LEGO Super Mario (71360/71387)
+- Âge recommandé par le fabricant: 6+
+- Pour jouer, des figurines LEGO Mario ou LEGO Luigi (non incluses) doivent être placées dans la voiture clown de Bowser Junior avant de s’envoler
+- Nombre de pièces: 84
+- Ce jouet de construction LEGO Super Mario inclut une figurine LEGO de Bob-omb à ajouter aux niveaux en briques que les enfants créent
+- Ensemble dextension La Junior-mobile de Bowser Jr.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNSD96L{{</world>}}
