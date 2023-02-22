@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 41700 Friends Glamping En La Playa  Set de Camping y Aventura para Niños y Niñas +6 Años  con 3 Mini Muñecas y Accesorios'
-date: 2023-01-29 17:52:53
-image: 'https://m.media-amazon.com/images/I/51HrhoxepRL._SL500_._SL400_.jpg'
+title: 'LEGO 41700 Friends Glamping en la Playa'
+date: 2023-02-21 23:12:21
+image: 'https://m.media-amazon.com/images/I/51bxi5Bxk-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09BNX5KRQ-es LEGO 41700 Friends Glamping En La Playa Set de Camping y...'
+slug: 'B09BNX5KRQ-es LEGO 41700 Friends Glamping en la Playa'
 sku: 'B09BNX5KRQ-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 27.99 EUR
+actualPrice: 24.74 EUR
 currency: EUR
-price: 27.99
+price: 24.74
 comparePrice: 39.99 EUR
-prodname: 'LEGO 41700 Friends Glamping En La Playa  Set de Camping y Aventura para Niños y Niñas +6 Años  con 3 Mini Muñecas y Accesorios'
+prodname: 'LEGO 41700 Friends Glamping en la Playa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNX5KRQ/?tag=tolees-21'
-descuento: '30.01'
-average: '33.2027272727273'
+descuento: '38.13'
+average: '32.4975'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- La tienda de juguete dispone de literas y una cocina, el muelle tiene una turbina de viento giratoria para dar electricidad y la playa incluye castillos de arena y conchas
-- Ofrece una escena playera con diferentes áreas de juego: una tienda de juguete con cubierta de tela, embarcadero para pescar, ducha y un lugar para guardar las tablas
-- Entre los accesorios se incluyen jabón para la ducha, un lavabo con conchas, chalecos salvavidas, un equipo de música, malvaviscos en un palo y lámparas junto a la cama
-- Este juguete para niños y niñas a partir de 6 años viene con la app y guía digital gratuita Instrucciones de Montaje, con herramientas de zoom, rotación y visualización
+- Número de piezas: 380
 - Incluye 3 mini muñecas de LEGO Friends: Andrea, Stephanie y Daniel, la figura del cachorrito Pebble y 2 tablas de paddle surf
-- El set de juego de acampada al aire libre de LEGO Friends permite que los peques disfruten al máximo de día y de noche en la playa con sus amigos
+- Edad recomendada por el fabricante: 6+
+- La tienda de juguete dispone de literas y una cocina, el muelle tiene una turbina de viento giratoria para dar electricidad y la playa incluye castillos de arena y conchas
+- Glamping en la Playa
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNX5KRQ{{</world>}}
