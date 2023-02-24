@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21331 Ideas Sonic The Hedgehog – Green Hill Zone  Maqueta para Construir Adultos  Set con Dr. Eggman  Regalo Inspirado en Videojuego de los 90'
-date: 2023-02-22 23:37:35
+date: 2023-02-24 01:27:01
 image: 'https://m.media-amazon.com/images/I/51NwZ0fLOTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Un set para adultos votado por miles de fans, incluye una guía paso a paso de primera calidad en la que aparece el fan visionario y los diseñadores LEGO que lo han hecho realidad
-- Lleno de detalles auténticos, este modelo coleccionable cuenta con una palmera, un puente looping y un resorte activado por palanca para construir y realizar saltos supersónicos
-- Con 7 anillos y 2 televisores, podrás coleccionar 7 Esmeraldas del Caos como en el videojuego de Sonic, ¡gana una esmeralda por cada modelo completado y exponla en el soporte!
-- Este set LEGO de Sonic cuenta con una plataforma de obstáculos, además de una mini figura de Sonic y figuras para construir del Dr. Eggman, su Eggmobile y un Moto Bug de 2 caras
-- Los sets LEGO ideas son un regalo ideal en cualquier ocasión o de cumpleaños para adultos fans de la construcción, ¡con esta maqueta revivirás a Sonic y los maravillosos años 90!
-- Y cuando termines de construir, esta pieza de exhibición inspirada en el nivel Green Hill Zone será el accesorio de decoración de Sonic perfecto para casa o la oficina
-- Recrea Green Hill Zone y recupera la magia de Sonic the Hedgehog con esta coleccionable maqueta para construir para adultos inspirada en uno de los juegos de los 90 más clásicos
+- Includes a Sonic the Hedgehog LEGO minifigure, Dr. Eggman with buildable Eggmobile, Moto Bug with 2 face options, and Crabmeat figures
+- The model can be rearranged to create alternative levels and makes a great Sonic the Hedgehog gift for all fans
+- Earn an emerald for every build you complete, collect all 7 Chaos Emeralds to display on the stand with Sonic and finally defeat Dr. Eggman
+- Push the lever and launch the LEGO Sonic minifigure for Super Sonic jumps to evade the Bug and Crabmeat LEGO Sonic figures and collect the rings
+- Authentic details include a palm tree, bridge loop, rings and 2 buildable bonus item TV screens with 5 screen elements and 5 sticker options
+- An authentic recreation of the classic game level and a nostalgic 90s LEGO set to proudly display in the home or office
+- Pay tribute to the classic Sonic the Hedgehog video game and recapture the magic in LEGO style with this brick-built version of the famous game level
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNVFK4M{{</world>}}

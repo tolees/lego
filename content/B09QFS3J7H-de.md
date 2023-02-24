@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21185 Minecraft Die Netherbastion Action-Spielzeug mit Figuren  inkl. Piglin  Set für Jungen und Mädchen ab 8 Jahre'
-date: 2023-01-25 09:18:25
+date: 2023-02-24 00:55:37
 image: 'https://m.media-amazon.com/images/I/51zIHHIgeHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Fans des Videospiels können sich mit diesem LEGO Minecraft Set Die Netherbastion an praktischen Herausforderungen und Kämpfen erfreuen
-- Mache Kindern mit diesem Spielzeug ab 8 Jahren für Mädchen und Jungen eine Freude zu jedem Anlass mit diesem LEGO Abenteuer zum Videospiel
-- Zu dem Zubehör des Action Spielzeugs gehören eine Karmesinwurzel, ein verzogener Pilz, ein Schwarzstein und vieles mehr
-- Das Set enthält 5 Minecraft Figuren: einen Nether-Abenteurer, einen Magmawürfel, einen Piglin-Barbar, einen Piglin und einen Schreiter
-- Außerdem gibt es ein TNT-Element, eine Angelrute und eine Schatztruhe mit Netheritresten, Eisennuggets und einem Schweinefleisch-Element
-- Dieses Minecraft Spielzeug enthält zudem Goldblöcke, Nether-Golderz, Seelenfeuer sowie die Waffen Goldaxt, Armbrust und Netherit-Schwert
-- Die Spieler kämpfen sich in die feurige Netherbastion vor und bestehen Herausforderungen, um Gegenstände zu sammeln
+- Accessories in this battle action toy include crimson root, warped fungus, gilded blackstone, nether wart, red mushrooms and soul torches
+- Give kids aged 8 and over a birthday, Christmas or any-day treat with this real-world, brick-built adventure from the video game
+- The set includes 5 Minecraft figures: a nether adventurer, a magma cube, a piglin brute, a piglin and a strider, plus a host of accessories
+- Fans of the Minecraft video game can enjoy hands-on challenges and battle action with this LEGO Minecraft Nether Bastion building toy set
+- Players fight their way into the fiery Nether Bastion and complete a series of challenges to gather items for even more action-packed play
+- Theres also a TNT element, a fishing rod and a treasure chest containing netherite scraps, iron nuggets and a porkchop element
+- This Minecraft toy also includes blocks of gold, Nether gold ore, soul fire, plus gold axe, crossbow and netherite sword weapons
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFS3J7H{{</world>}}
