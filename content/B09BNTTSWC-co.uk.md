@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75322 Star Wars Hoth AT-ST Walker Building Toy for Kids with Chewbacca Minifigure and Droid Figure  The Empire Strikes Back Model  boys & Girls Gift Idea'
-date: 2023-02-07 10:35:15
+title: 'LEGO 75322 Star Wars Hoth AT-ST Walker Building Toy for Kids with Chewbacca Minifigure and Droid Figure  The Empire Strikes Back Model'
+date: 2023-02-24 12:04:40
 image: 'https://m.media-amazon.com/images/I/51TlprYb0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNTTSWC-co.uk LEGO 75322 Star Wars Hoth AT-ST Walker Building Toy for...'
 sku: 'B09BNTTSWC-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys & Games','lego','🇬🇧', ]
-actualPrice: 32.79 GBP
+actualPrice: 33.0 GBP
 currency: GBP
-price: 32.79
+price: 33.0
 comparePrice: 44.99 GBP
-prodname: 'LEGO 75322 Star Wars Hoth AT-ST Walker Building Toy for Kids with Chewbacca Minifigure and Droid Figure  The Empire Strikes Back Model  boys & Girls Gift Idea'
+prodname: 'LEGO 75322 Star Wars Hoth AT-ST Walker Building Toy for Kids with Chewbacca Minifigure and Droid Figure  The Empire Strikes Back Model'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNTTSWC/?tag=tolees0a-21'
-descuento: '27.12'
-average: '31.18375'
+descuento: '26.65'
+average: '31.2905882352941'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Instructions are included; using the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of the model
+- This LEGO Star Wars toy for kids 9+ years old combines with the 75320 Snowtrooper Battle Pack for more funny kids own unique stories
+- The AT-ST toy walker features a hatch accessible cockpit, opening roof, wheel-operated rotating head, 2 spring-loaded shooters & posable legs
 - Features the first-ever LEGO brick-built Battle of Hoth AT-ST model from the Star Wars: The Empire Strikes Back to recreate battle details
 - It also includes an Imperial Probe Droid LEGO figure for kids to recreate epic Star Wars: The Empire Strikes Back scenes
-- The AT-ST toy walker features a hatch accessible cockpit, opening roof, wheel-operated rotating head, 2 spring-loaded shooters & posable legs
-- This LEGO Star Wars toy for kids 9+ years old combines with the 75320 Snowtrooper Battle Pack for more funny kids own unique stories
-- Instructions are included; using the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of the model
 - Includes 3 LEGO Star Wars minifigures: Chewbacca with snow decoration, Hoth AT-ST Pilot and Hoth Rebel Trooper, each with weapons
 - LEGO Star Wars toys make superb birthday presents, Christmas gifts or just any day, any occasion treats for boys and girls
 
