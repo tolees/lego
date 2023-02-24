@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Los peques podrán vivir la batalla entre el Guerrero del End y un Arquero Dragón ambos equipados con armadura y armas de juguete en el legendario End Arena, ¡también incluye las figuras LEGO de un Enderman y un Shulker!
+- Expande aún más el mundo real de Minecraft y combina este divertido set de construcción con otros de la gama como La Aventura en el Pantano (21240) o La Granja-Abeja (21241)
 - Después de la batalla, los peques podrán curar a las mini figuras LEGO Minecraft usando la zanahoria dorada o los divertidos accesorios de pociones, ¡enseguida estarán listas para la próxima batalla!
 - Los fans del videojuego Minecraft necesitarán todas su habilidades para sobrevivir al épico Combate en el End: un juguete LEGO de acción y batalla con personajes clásicos del videojuego y divertidas funciones
-- Expande aún más el mundo real de Minecraft y combina este divertido set de construcción con otros de la gama como La Aventura en el Pantano (21240) o La Granja-Abeja (21241)
 - Para más diversión los niños y niñas podrán activar un lanzador, y la estatua del Dragón Ender arrojará bloques de lava por la boca y el suelo móvil se abrirá, dejando un lago de lava a los pies de las mini figuras, ¿quién sobrevivirá al combate?
-- Los peques podrán vivir la batalla entre el Guerrero del End y un Arquero Dragón ambos equipados con armadura y armas de juguete en el legendario End Arena, ¡también incluye las figuras LEGO de un Enderman y un Shulker!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRTBGK6{{</world>}}
