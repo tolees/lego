@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'LEGO 42111 Technic Dom s Dodge Charger  Macchina Giocattolo dal Film Fast and Furious  Set da Collezione Iconico Modellino Auto da Corsa  Idee Regalo'
+date: 2023-02-24 08:26:14
+image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07YYQ89RT-it LEGO 42111 Technic Dom s Dodge Charger Macchina Giocattolo...'
+sku: 'B07YYQ89RT-it'
+tags: [ 'Costruzioni','Giochi e giocattoli','Set di costruzioni giocattolo','lego','🇮🇹', ]
+actualPrice: 87.99 EUR
+currency: EUR
+price: 87.99
+comparePrice: 119.99 EUR
+prodname: 'LEGO 42111 Technic Dom s Dodge Charger  Macchina Giocattolo dal Film Fast and Furious  Set da Collezione Iconico Modellino Auto da Corsa  Idee Regalo'
+country: 'it'
+flag: '🇮🇹'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.it/dp/B07YYQ89RT/?tag=tolees00-21'
+descuento: '26.67'
+average: '97.1190505359876'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Una perfetta idea regalo per un ragazzo e una ragazza, un uomo o una donna, appassionati di macchine e fan di Fast & Furious; un modellino perfettamente proporzionato con cui creare una fantastica decorazione da esibire in casa o nellufficio
+- Gli accessori originali del modellino da costruire LEGO Technic comprendono il motore V8, le due bombole di NOS nel portabagagli per una maggiore potenza, oltre a un estintore nellabitacolo
+- La macchina giocattolo conserva tutte le caratteristiche originali del modellino dellauto vera, con pistoni in movimento, sospensioni a braccio oscillante, sistema sterzante e ventilatore
+- Questo set LEGO Technic include il modellino di auto Dodge Charger, la replica della classica macchina da corsa sportiva ispirata alloriginale Dodge Charger R/T del 1970, dal film Fast and Furious
+- Questa fantastica macchina giocattolo permette di riprodurre le acrobazie di Dominic Toretto come in Fast and Furious, grazie allo stand che le permette di alzarsi sulle ruote posteriori
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B07YYQ89RT{{</world>}}

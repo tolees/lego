@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75186 - Star Wars Tm  Arrowhead'
-date: 2023-02-20 06:47:34
+date: 2023-02-24 08:16:29
 image: 'https://m.media-amazon.com/images/I/51t4TT1PI-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B06WRRJ871/?tag=tolees00-21'
 descuento: '19.44'
-average: '212.162473498231'
+average: '211.939912126536'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Include anche un carrello di servizio con attrezzi e munizioni aggiuntive
-- Include quattro minifigure: Zander, Kordi, Quarrie e uno Stormtrooper, più R0-GR
 - Dotata di tettuccio della cabina sollevabile con spazio per tre minifigure e R0-GR, cupola trasparente apribile con cristallo di alimentazione dell’astronave rimovibile
+- Include quattro minifigure: Zander, Kordi, Quarrie e uno Stormtrooper, più R0-GR
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06WRRJ871{{</world>}}
