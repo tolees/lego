@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 71396 Super Mario Ensemble d extension La Junior-Mobile de Bowser Jr.'
-date: 2023-02-20 23:34:45
+date: 2023-02-24 07:03:05
 image: 'https://m.media-amazon.com/images/I/51kjUThMQRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNSD96L/?tag=tolees0d-21'
 descuento: '25.15'
-average: '47.8322222222223'
+average: '47.5390000000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Âge recommandé par le fabricant: 6+
-- Pour jouer, des figurines LEGO Mario ou LEGO Luigi (non incluses) doivent être placées dans la voiture clown de Bowser Junior avant de s’envoler
-- Nombre de pièces: 84
 - Ce jouet de construction LEGO Super Mario inclut une figurine LEGO de Bob-omb à ajouter aux niveaux en briques que les enfants créent
+- Âge recommandé par le fabricant: 6+
 - Ensemble dextension La Junior-mobile de Bowser Jr.
+- Nombre de pièces: 84
+- Pour jouer, des figurines LEGO Mario ou LEGO Luigi (non incluses) doivent être placées dans la voiture clown de Bowser Junior avant de s’envoler
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNSD96L{{</world>}}
