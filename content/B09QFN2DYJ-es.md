@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76404 Harry Potter Calendario de Adviento 2022 con Juego de Mesa  7 Mini Figuras y Escenas de Las Películas  Regalos y Juguetes de Navidad'
-date: 2023-02-22 22:25:41
+date: 2023-02-24 21:55:08
 image: 'https://m.media-amazon.com/images/I/51+2j8ujorL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFN2DYJ-es LEGO 76404 Harry Potter Calendario de Adviento 2022 con...'
 sku: 'B09QFN2DYJ-es'
 tags: [ 'Calendarios de adviento de juguete','Juguetes','Juguetes y juegos','lego','🇪🇸', ]
-actualPrice: 19.24 EUR
+actualPrice: 17.46 EUR
 currency: EUR
-price: 19.24
+price: 17.46
 comparePrice: 34.99 EUR
 prodname: 'LEGO 76404 Harry Potter Calendario de Adviento 2022 con Juego de Mesa  7 Mini Figuras y Escenas de Las Películas  Regalos y Juguetes de Navidad'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFN2DYJ/?tag=tolees-21'
-descuento: '45.01'
-average: '26.6415384615384'
+descuento: '50.10'
+average: '25.9857142857142'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The ideal pre-Christmas gift for young witches, wizards and muggles age 7 and up, who will have fun with the toys all year long
-- Children can recreate the Harry Potter movies or combine the toys for endless adventures; also includes a board game to play on
-- Let the magic unfold in the Christmas countdown! The first 3 doors hide a toy from the first movie, the next 3 - from the second film, and so on
-- This LEGO Harry Potter Advent Calendar 2022 makes every day in the countdown to Christmas magical with 24 movie-inspired toys and minifigures
-- The Christmas toys in this LEGO Advent Calendar 2022 can be combined with all other LEGO Harry Potter sets for even more wizarding world fun
-- Includes Harry Potter, Sirius Black, Moaning Myrtle, Lord Voldemort, Horace Slughorn, Nymphadora Tonks and Neville Longbottom minifigures
+- Cada día, los niños abren una ventana y descubren un juguete sorpresa de Harry Potter, los 3 primeros forman una escena de la primera película, los 3 siguientes de la segunda y así sucesivamente, ¡la magia aumenta al acercarse la Navidad!
+- Los peques podrán recrear escenas de las películas de Harry Potter o combinar el calendario infantil con otros sets para crear un sinfín de aventuras, ¡incluye un juego de mesa para usar una vez abiertas las 24 ventanas!
+- Todos los pequeños juguetes para construir de este Calendario de Adviento para niños se pueden combinar con la gama LEGO Harry Potter para disfrutar aún más de la diversión en el mundo mágico
+- Un regalo pre-Navideño de Harry Potter estupendo para jóvenes brujas, magos y muggles de 7 años o más para que se diviertan con sus juguetes de Navidad durante todo el año
+- Haz que la cuenta atrás para la Navidad sea mágica este 2022 con el Calendario de Adviento de Harry Potter de LEGO con 24 juguetes inspirados en las películas que incluyen mini figuras, accesorios y mini construcciones
+- Dentro de este Calendario de Adviento hay 7 mini figuras LEGO de Harry Potter, Sirius Black, Myrtle la Llorona, Lord Voldemort, Horace Slughorn, Nymphadora Tonks y Neville Longbottom, además de icónicos objetos de las películas
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFN2DYJ{{</world>}}

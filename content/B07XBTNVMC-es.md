@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75550 Minions Duelo de Kung-fu de los Minions'
-date: 2023-02-18 10:05:54
+date: 2023-02-24 22:06:55
 image: 'https://m.media-amazon.com/images/I/51gRVEaoPgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07XBTNVMC/?tag=tolees-21'
 descuento: '30.01'
-average: '32.3825'
+average: '31.8944444444444'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Los niños podrá ayudar a los Minions a perfeccionar sus habilidades de kung-fu con la armería y el maniquí giratorio de entrenamiento antes de lanzar “fuegos artificiales” desde lo alto del templo mientras los Minions salen en desfile.
 - El juego empieza de inmediato con las 3 figuras LEGO de Minions. Este set (75550) incluye figuras de juguete de los Minions Kevin y Stuart vestidos con trajes de kung-fu, así como una figura de Otto.
-- Edad recomendada por el fabricante: 6+
-- Número de piezas: 310
 - Duelo de Kung-fu de los Minions
+- Los niños podrá ayudar a los Minions a perfeccionar sus habilidades de kung-fu con la armería y el maniquí giratorio de entrenamiento antes de lanzar “fuegos artificiales” desde lo alto del templo mientras los Minions salen en desfile.
+- Número de piezas: 310
+- Edad recomendada por el fabricante: 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07XBTNVMC{{</world>}}
