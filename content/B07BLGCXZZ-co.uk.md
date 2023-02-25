@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS Y-Wing Starfighter 75181 Star Wars toy'
-date: 2023-02-23 06:45:32
+date: 2023-02-25 07:31:48
 image: 'https://m.media-amazon.com/images/I/51L4mOOViuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07BLGCXZZ/?tag=tolees0a-21'
 descuento: '31.61'
-average: '422.810377049186'
+average: '422.613218954254'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO Star Wars set is suitable for ages 14 and up.
 - Includes the Gold Leader mini figure and the Droiden R2-BHD as an additional figure.
-- Present the model on the tilting stand with info sign.
-- Features authentic details, an opening mini figure cockpit, wheel-operated rotating ion cannons on the roof, retractable landing skids and space for the Astromech Droid R2-BHD included in the set.
 - The perfect centrepiece of any LEGO Star Wars collection.
+- Present the model on the tilting stand with info sign.
+- This LEGO Star Wars set is suitable for ages 14 and up.
+- Features authentic details, an opening mini figure cockpit, wheel-operated rotating ion cannons on the roof, retractable landing skids and space for the Astromech Droid R2-BHD included in the set.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07BLGCXZZ{{</world>}}
