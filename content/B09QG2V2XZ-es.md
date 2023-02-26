@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42145 Technic Helicóptero de Rescate Airbus H175  Maqueta para Construir  con Rotores Giratorios  Juguete Educativo para Niños'
-date: 2023-02-25 08:02:19
+date: 2023-02-26 08:39:12
 image: 'https://m.media-amazon.com/images/I/51IdNGCrKJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QG2V2XZ/?tag=tolees-21'
 descuento: '19.05'
-average: '176.183802816904'
+average: '176.09777777778'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Las funciones motorizadas de esta maqueta para construir incluyen rotor y rotor de cola giratorios, distintas velocidades, tren de aterrizaje retráctil, cabrestante y un fiel motor giratorio
-- Este juguete educativo de construcción requiere 6 x pilas LR6 (AA) de 1.5 V (baterías no incluidas) para el helicóptero de rescate, el set también incluye 1 x motor
 - Cuenta con un helicóptero de juguete LEGO de búsqueda y rescate con funciones motorizadas y manuales que ayuda a los niños pequeños a explorar y aprender cómo funciona el gran Airbus H175
+- Este juguete educativo de construcción requiere 6 x pilas LR6 (AA) de 1.5 V (baterías no incluidas) para el helicóptero de rescate, el set también incluye 1 x motor
+- Las funciones motorizadas de esta maqueta para construir incluyen rotor y rotor de cola giratorios, distintas velocidades, tren de aterrizaje retráctil, cabrestante y un fiel motor giratorio
 - También incluye funciones manuales como una placa cíclica para controlar la inclinación de las palas del rotor, puertas de cabina y pasajeros y capó delantero y trasero que se abre para ver el mecanismo de dirección
 - Las maquetas para construir y los juguetes LEGO Technic tienen movimientos y mecanismos realistas que introducen a los pequeños constructores en el mundo de la ingeniería mientras aprenden y juegan
 
