@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60216 City Fire Les Pompiers du Centre-Ville'
-date: 2023-02-15 02:51:05
+date: 2023-02-26 07:59:50
 image: 'https://m.media-amazon.com/images/I/61zIFZJAReL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FNS6J8V/?tag=tolees0d-21'
 descuento: '18.38'
-average: '92.5950338983052'
+average: '92.6634395973156'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lensemble de construction comprend aussi un grand camion à échelle avec une nouvelle brique sonore et lumineuse pour janvier 2019, des stabilisateurs qui s’étendent, un espace de rangement qui s’ouvre sur le côté et l’avant, une échelle qui pivote et s’étend et une lance d’incendie avec un nouveau système de pompe pour janvier 2019 avec une fonction de « jet deau ».
-- Les pompiers du centre-ville
-- Âge recommandé par le fabricant: 6+
 - Nombre de pièces: 943
 - Cet ensemble créatif comprend un bâtiment de 3 étages avec un toit, une zone de construction attachée avec une clôture, des porte-outils, un réverbère qui tombe et des toilettes portables avec un dessus et un avant amovibles, plus une grue autonome avec un bras rotatif et un treuil avec crochet qui fonctionne.
+- Les pompiers du centre-ville
+- Âge recommandé par le fabricant: 6+
+- Lensemble de construction comprend aussi un grand camion à échelle avec une nouvelle brique sonore et lumineuse pour janvier 2019, des stabilisateurs qui s’étendent, un espace de rangement qui s’ouvre sur le côté et l’avant, une échelle qui pivote et s’étend et une lance d’incendie avec un nouveau système de pompe pour janvier 2019 avec une fonction de « jet deau ».
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07FNS6J8V{{</world>}}
