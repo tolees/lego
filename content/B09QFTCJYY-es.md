@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Esta manualidad para adultos incluye 9 bases de construcción, una placa con la firma “The Rolling Stones”, un marco para construir, un separador de ladrillos y 2 colgadores
-- Este desafiante LEGO para adultos de 1998 piezas es un gran regalo para músicos y personas amantes del arte y los accesorios de decoración, ¡queda impresionante expuesto!
 - Rinde homenaje al talento musical de los clásicos Rolling Stones y a su 60 aniversario construyendo esta maqueta musical de LEGO basada en el logotipo de la banda que podrás colgar con orgullo en la pared
 - Crea una obra de arte única con el logotipo de la banda y usa la decoración para adornar tu casa o la oficina, ¡hay una sorpresa oculta en el modelo que contribuye a celebrar un auténtico hito!
+- Este desafiante LEGO para adultos de 1998 piezas es un gran regalo para músicos y personas amantes del arte y los accesorios de decoración, ¡queda impresionante expuesto!
+- Esta manualidad para adultos incluye 9 bases de construcción, una placa con la firma “The Rolling Stones”, un marco para construir, un separador de ladrillos y 2 colgadores
 - A medida que empiezas a construir escanea el código QR y escucha la banda sonora, canta “Ruby Tuesday” con los Rolling Stones mientras te sumerges en este cuadro moderno de DIY
 
 [🛒 Check the deal!!]({{< param buyurl >}})
