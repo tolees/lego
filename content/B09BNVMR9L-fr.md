@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41951 Dots Tableau à Messages  Affiches Personnalisables pour Portes de Chambres  Accessoires de Décoration  Activité Créative'
-date: 2023-02-07 16:37:44
+date: 2023-02-28 00:30:07
 image: 'https://m.media-amazon.com/images/I/51RQ7AW6HML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Les enfants peuvent utiliser les briques Lots dextra DOTS - Lettres (41950) pour personnaliser leurs tableaux à messages ou tout autre ensemble LEGO (vendu séparément)
-- Le kit de bricolage pour enfants permet de personnaliser son tableau de porte de chambre ou décorer nimporte quel élément de décor et accessoire de chambre DOTS
-- Le kit comprend un livret avec de nombreuses inspirations pour créer avec des briques colorées afin de stimuler linventivité des enfants
-- Comprend un kit de tableau à messages LEGO DOTS avec 2 plaques 16 x 16, des éléments de cadre et de support et plus de 500 briques dans une large gamme de couleurs et de formes
-- Les éléments 2 x 2 arrondis inclus permettent aux enfants de créer des caractères de tailles différentes pour exprimer ce quils veulent
+- This DIY arts and crafts kit for kids set lets them personalise a bedroom door sign, notice board, or decorate any DOTS room décor piece & accessories
+- DIY toy LEGO arts and crafts sets for kids make a great birthday or any time gift for kids to express themselves in creative activities
+- Kids can use the Lots of DOTS – Lettering tiles (41950) to personalise their message boards or any other LEGO sets (sold separately)
+- To help boost kids inventiveness, the craft kit includes a leaflet with lots of inspiration for designs in colourful tiles
+- Features LEGO DOTS Message Board kids craft kit with 2 16x16 plates, frame and hanger elements and 500+ tiles in a range of colours and shapes
+- The included curved 2x2 elements help kids make different font sizes to say whatever they want
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNVMR9L{{</world>}}
