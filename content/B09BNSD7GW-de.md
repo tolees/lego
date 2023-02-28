@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Hausboot
-- Auf dem Sonnendeck befindet sich ein Garten mit Gemüse- und Obstkisten, einem Apfelbaum und einem Sitzbereich, der mit Lichterketten und Solarzellen ausgestattet ist
 - Das abnehmbare Deck und die aufklappbare Seite geben den Blick auf die Kabine frei, in der sich eine Küche zum Backen von Cupcakes, ein Schlafbereich und ein Badezimmer befinden
+- Auf dem Sonnendeck befindet sich ein Garten mit Gemüse- und Obstkisten, einem Apfelbaum und einem Sitzbereich, der mit Lichterketten und Solarzellen ausgestattet ist
 - Vom Hersteller empfohlenes Alter: 7+
 - Anzahl der Teile: 737
 

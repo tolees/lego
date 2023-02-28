@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Videospiel-Fans können das Spielgeschehen auf dem Bildschirm des Spielzeugstadions verfolgen und den Fortschrittsbalken für die konkurrierenden Minifiguren anpassen, um die Spannung zu steigern
-- Dieses Bau-Spielzeug ist vollgepackt mit coolem Zubehör und Fanartikel, darunter ein Siegerpokal, ein Mikrofon, ein Mobiltelefon und Spielelemente und auch große Fäuste und ein Spielzeugschwert
 - Mit diesem coolen LEGO City Gaming Turnier Truck können Kinder die E-Sports-Action in die Stadt bringen. Es enthält einen baubaren Spielzeug-Truck, einen Moderator und 2 LEGO City Minifiguren sowie jede Menge lustiges Zubehör
+- Dieses Bau-Spielzeug ist vollgepackt mit coolem Zubehör und Fanartikel, darunter ein Siegerpokal, ein Mikrofon, ein Mobiltelefon und Spielelemente und auch große Fäuste und ein Spielzeugschwert
+- Videospiel-Fans können das Spielgeschehen auf dem Bildschirm des Spielzeugstadions verfolgen und den Fortschrittsbalken für die konkurrierenden Minifiguren anpassen, um die Spannung zu steigern
 - Dieses LEGO Spielzeug für Kinder ab 7 Jahren ist eine lustige Geschenkidee zum Geburtstag oder für andere Anlässe
 - Die Seite des Anhängers des LEGO Fahrzeugs lässt sich aufklappen und gibt den Blick frei auf die Bühne des Gaming-Turniers mit 2 Spielzeug-Computerspielstationen und riesigen Stadionbildschirmen
 

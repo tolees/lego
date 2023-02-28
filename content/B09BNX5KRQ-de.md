@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Glamping am Strand
-- Inklusive Etagenbetten und Herd im Spielzeugzelt und einer Windturbine auf dem Steg, die die Lichter mit Strom versorgt. Am Strand lassen sich Sandburgen und Muscheln finden
 - Inklusive 3 LEGO Friends-Mini-Puppen: Andrea, Stephanie, Daniel und der Welpe Pebble sowie 2 Paddleboards
 - Anzahl der Teile: 380
+- Glamping am Strand
 - Vom Hersteller empfohlenes Alter: 6+
+- Inklusive Etagenbetten und Herd im Spielzeugzelt und einer Windturbine auf dem Steg, die die Lichter mit Strom versorgt. Am Strand lassen sich Sandburgen und Muscheln finden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNX5KRQ{{</world>}}
