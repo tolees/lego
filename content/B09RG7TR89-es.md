@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60331 City Stuntz Mota de Acrobacias Touring'
-date: 2023-02-17 17:07:16
+date: 2023-02-28 22:08:41
 image: 'https://m.media-amazon.com/images/I/51cS4CV4u5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09RG7TR89/?tag=tolees-21'
 descuento: '30.04'
-average: '7.24111111111112'
+average: '7.07600000000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Número de piezas: 10
+- Los peques pueden empujar la moto acrobática para activar la rueda de inercia y, después, lanzarla para ejecutar divertidos caballitos y maniobras en el aire
 - Mota de Acrobacias Touring
 - Edad recomendada por el fabricante: 5+
 - Incluye la mini figura LEGO City Stuntz del piloto Motero Lobo Solitario con un característico bigote y un casco accesorio
-- Los peques pueden empujar la moto acrobática para activar la rueda de inercia y, después, lanzarla para ejecutar divertidos caballitos y maniobras en el aire
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09RG7TR89{{</world>}}
