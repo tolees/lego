@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60293 City Stuntz Stunt-Park'
-date: 2023-02-23 18:51:20
+date: 2023-03-01 18:49:44
 image: 'https://m.media-amazon.com/images/I/51Q+SEsCnVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08W5G7FZF/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.3759259259259'
+average: '20.3621428571428'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Enthält ein schwungradbetriebenes Motorrad und eine Reihe von Hindernissen und Herausforderungen für den Motorradfahrer, wie eine riesige Spinne und Flammen
-- LEGO Stuntz ist die neueste Unterreihe von LEGO City und bringt Spaß mit Stunt-Shows, einigen Überraschungen und bekannten Gesichtern
 - Stunt-Park
-- Anzahl der Teile: 170
 - Vom Hersteller empfohlenes Alter: 5+
+- LEGO Stuntz ist die neueste Unterreihe von LEGO City und bringt Spaß mit Stunt-Shows, einigen Überraschungen und bekannten Gesichtern
+- Anzahl der Teile: 170
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08W5G7FZF{{</world>}}
