@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Contiene a Freya McCloud, jefa de bomberos de la serie de TV Lego City Adventures, y minifiguras de bombero LEGO, además de un conjunto inicial de ladrillos LEGO para construir
-- Edad recomendada por el fabricante: 4+
-- Los peques pueden desplegar la escalera, guardar las herramientas en el compartimento de almacenamiento del camión y crear historias donde son los protagonistas salvadores
-- Camión de Bomberos con Escalera
 - Número de piezas: 88
+- Edad recomendada por el fabricante: 4+
+- Camión de Bomberos con Escalera
+- Contiene a Freya McCloud, jefa de bomberos de la serie de TV Lego City Adventures, y minifiguras de bombero LEGO, además de un conjunto inicial de ladrillos LEGO para construir
+- Los peques pueden desplegar la escalera, guardar las herramientas en el compartimento de almacenamiento del camión y crear historias donde son los protagonistas salvadores
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08G4KJ4W6{{</world>}}
