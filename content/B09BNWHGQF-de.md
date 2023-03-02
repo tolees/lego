@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Der Kampf gegen den gefürchteten explosiven Creeper endet mit dem Betätigen des Sprengblocks, der ihn in die Luft sprengt
-- Kinder können ihre Kreativität am Basteltisch mit dem Eisenerz ausleben und sich dann um die Tiere und die Zuckerrohrpflanzen kümmern.
-- Wenn der Kampf vorbei und die Szene mit Mohnblumen geschmückt ist, sieht dieses LEGO Minecraft-Spielzeug auch als Ausstellungsstück toll aus
 - Inklusive beliebter Charaktere wie dem ikonischen Helden Steve und den Minecraft-Figuren eines Schweinchens, eines Kükens und eines roten explosiven Creepers
 - Das LEGO Minecraft-Set „Der Hinterhalt des Creeper“ enthält Szenen, in denen Kinder Erz abbauen, Creeper bekämpfen und sich um ihre Tiere kümmern
+- Wenn der Kampf vorbei und die Szene mit Mohnblumen geschmückt ist, sieht dieses LEGO Minecraft-Spielzeug auch als Ausstellungsstück toll aus
+- Kinder können ihre Kreativität am Basteltisch mit dem Eisenerz ausleben und sich dann um die Tiere und die Zuckerrohrpflanzen kümmern.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNWHGQF{{</world>}}
