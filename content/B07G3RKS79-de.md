@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Confidential'
-date: 2023-02-27 07:53:51
+date: 2023-03-03 10:21:05
 image: 'https://m.media-amazon.com/images/I/61V--Bj3VPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07G3RKS79-de LEGO Confidential'
 sku: 'B07G3RKS79-de'
 tags: [ 'Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 343.91 EUR
+actualPrice: 343.86 EUR
 currency: EUR
-price: 343.91
+price: 343.86
 comparePrice: 409.9 EUR
 prodname: 'LEGO Confidential'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07G3RKS79/?tag=tolees0ca-21'
-descuento: '16.10'
-average: '289.940684684683'
+descuento: '16.11'
+average: '290.037661870502'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Confidential
-- Confidential
 - Geheim
+- Confidential
+- Confidential
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07G3RKS79{{</world>}}
