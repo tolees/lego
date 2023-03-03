@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los peques podrán cambiar la altura del anillo de fuego para aumentar la dificultad y longitud del salto de las motos acrobáticas con rueda de inercia con motor de fricción
-- Incluye una guía impresa e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes, para ayudar a los peques en la construcción
-- Este genial juguete de 73 piezas para niños a partir de 5 años del universo ampliable LEGO City Stuntz es un gran regalo de LEGO para un cumpleaños o la Navidad
 - El set Torneo Acrobático de LEGO City tiene 2 motos de juguete, una rampa, un anillo de fuego con llamas para construir y una torre de altura regulable
+- Los peques podrán cambiar la altura del anillo de fuego para aumentar la dificultad y longitud del salto de las motos acrobáticas con rueda de inercia con motor de fricción
 - El set incluye 2 mini figuras LEGO, y una de ellas es nada menos que el personaje de la policía de LEGO City y de la serie de TV Duke DeTain, convertido en piloto de acrobacias LEGO
+- Este genial juguete de 73 piezas para niños a partir de 5 años del universo ampliable LEGO City Stuntz es un gran regalo de LEGO para un cumpleaños o la Navidad
+- Incluye una guía impresa e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes, para ayudar a los peques en la construcción
 - Los peques podrán combinar este set con otros del universo de LEGO City Stuntz (se venden por separado) para realizar unas actuaciones que encandilarán al público
 
 [🛒 Check the deal!!]({{< param buyurl >}})
