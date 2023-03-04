@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75324 Star Wars Angriff der Dark Trooper  Set mit Luke Skywalker mit Lichtschwert und 3 Dark Troopers Minifiguren  The Mandalorian Serie'
-date: 2023-03-02 10:31:42
+date: 2023-03-04 14:29:55
 image: 'https://m.media-amazon.com/images/I/51RGzrM85lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Enthält eine detaillierte Nachbildung der Szene im Inneren des imperialen Leichten Kreuzers, in der Luke Skywalker wieder auftaucht
-- Das LEGO Star Wars Set enthält einen Drehaufzug, eine rotierende Duellplattform und eine gleitende „Macht“-Plattform zur Abwehr eines Dark Troopers
-- Das Luke Skywalker vs. Dark Troopers Set passt zusammen mit den LEGO Minifiguren in den Rucksack und kann so auch unterwegs gespielt werden
-- Das Set enthält 4 LEGO Star Wars Minifiguren: Luke Skywalker mit Lichtschwert und 3 Dark Troopers mit Blaster-Gewehren
-- Mit diesem baubaren LEGO Mandalorian Set können Fans die Rückkehr von Luke Skywalker in der 2. Staffel von Star Wars: The Mandalorian nachstellen
+- Portable play – Luke Skywalker vs Dark Troopers battle set can fit in a child’s backpack with the LEGO minifigures for play on the go
+- This LEGO Star Wars set comes with a revolving elevator, rotating battle platform and a sliding ‘Force’ platform to fend off Dark Troopers
+- This Mandalorian buildable toy also includes 3 Dark Troopers, each with blaster rifles, to inspire fun, creative roleplay
+- There are 4 LEGO Star Wars minifigures in this set, including a Luke Skywalker minifigure with a green LEGO lightsaber
+- The LEGO Star Wars set makes a great birthday gift idea for kids who are into The Mandalorian buildable toys
+- Features a detailed recreation of the scene inside the Imperial Light Cruiser where Luke Skywalker reappeared, from The Mandalorian Season 2
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNV1HRL{{</world>}}
