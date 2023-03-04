@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Kids can tip the seesaw to give puppies a fun ride, then let the dogs cool off with a dip in the pool
 - This LEGO Friends pet puppy playground set is packed with equipment for imaginative animal play
 - Comes with a LEGO Friends Andrea mini doll, a Liz micro doll, 3 toy dogs, plus a shovel, broom, poop element and a ball
-- The animal playset comes with cute details: a merry-go-round, LEGO slide, climbing wall, puppy seesaw, pond & a welcoming entrance arch
-- Someone’s done a poop Shovel it into the trash can
 - Heartlake City collectible toys make a great birthday or any-other-day toy gift for kids 5 years old
-- Kids can tip the seesaw to give puppies a fun ride, then let the dogs cool off with a dip in the pool
+- The animal playset comes with cute details: a merry-go-round, LEGO slide, climbing wall, puppy seesaw, pond & a welcoming entrance arch
 - Using the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of their model as they build
+- Someone’s done a poop Shovel it into the trash can
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNTDZ5Y{{</world>}}
