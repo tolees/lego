@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Der LEGO Creator 3-in-1 Überschalljet Bausatz enthält 3 Modelle in einem: ein Düsenflugzeug, ein Spielzeug-Hubschrauber und ein Spielzeug-Boot
 - Der Hubschrauber verfügt über Rotorblätter und das Schnellboot hat 2 schnelle Motoren für Abenteuer in der Luft oder auf dem Wasser
 - Kinder können mit diesen Konstruktionsspielzeugen (Flugzeug, Hubschrauber und Motorboot) Stunts in der Luft vollführen
-- Mit der LEGO App können Kinder eine digitale Version ihres LEGO Modells auf ihrem Smartphone oder Tablet zoomen, drehen und visualisieren
-- Der LEGO Creator 3-in-1 Überschalljet Bausatz enthält 3 Modelle in einem: ein Düsenflugzeug, ein Spielzeug-Hubschrauber und ein Spielzeug-Boot
 - Kreativer Spaß für Kinder mit authentischen Funktionen - das Spielzeug-Flugzeug hat ein Cockpit, abgewinkelte Flügel und einziehbare Räder
+- Mit der LEGO App können Kinder eine digitale Version ihres LEGO Modells auf ihrem Smartphone oder Tablet zoomen, drehen und visualisieren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNTPGVD{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Entdecke die intuitiven Anleitungen in der LEGO Builder App, in der Baufans ihre Modelle in 3D zoomen und drehen, ihren Fortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
-- Im Jahr 2023 gibt es neue Charaktere und aufregenden Schauplätzen auf, mit denen Kinder lustige Geschichten spielen können, die von ihren Leidenschaften inspiriert sind
 - Kreative Kinder ab 12 Jahren können mit diesem LEGO Friends Haus ein auffälliges Modell für die Ausstellung bauen. Das Modular Building Gebäude lässt sich in 3 Bereiche unterteilen: einen Blumenladen, ein Möbelhaus und eine detailreiche Wohnung
-- Der Modellbaukasten ermöglicht es den Bauherren, das Layout der Geschäfte und Wohnungen zu wählen. Wenn sie mit der Dekoration und Gestaltung fertig sind, können sie das Modell und ihre kreativen Fähigkeiten mit Stolz in ihrem Zimmer ausstellen
-- Die Kinder können eine Straße in der Innenstadt bauen und ihr Traumhaus zusammenstellen; sie können Möbel aus 3 verschiedenen Stilen im Möbelhaus und Blumen beim Floristen auswählen und dann die LEGO Friends Wohnung nach ihrem Geschmack gestalten
 - Ideal für Kinder ab 12 Jahren, die sich gerne kreativ betätigen und dekorieren. Das kreative Spielzeug für Kinder ist ein tolles Geschenk zum Geburtstag oder zu einem besonderen Anlass, das Heimwerker-Fans zu schätzen wissen werden
+- Die Kinder können eine Straße in der Innenstadt bauen und ihr Traumhaus zusammenstellen; sie können Möbel aus 3 verschiedenen Stilen im Möbelhaus und Blumen beim Floristen auswählen und dann die LEGO Friends Wohnung nach ihrem Geschmack gestalten
+- Im Jahr 2023 gibt es neue Charaktere und aufregenden Schauplätzen auf, mit denen Kinder lustige Geschichten spielen können, die von ihren Leidenschaften inspiriert sind
+- Der Modellbaukasten ermöglicht es den Bauherren, das Layout der Geschäfte und Wohnungen zu wählen. Wenn sie mit der Dekoration und Gestaltung fertig sind, können sie das Modell und ihre kreativen Fähigkeiten mit Stolz in ihrem Zimmer ausstellen
+- Entdecke die intuitiven Anleitungen in der LEGO Builder App, in der Baufans ihre Modelle in 3D zoomen und drehen, ihren Fortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
 - Dieses LEGO Friends Modular Building Set enthält 9 Figuren, darunter Adi, der in die Wohnung einzieht, 2 Haustiere und jede Menge Zubehör für die Geschichte, wie Umzugskartons, eine Farbdose, einen Schlüssel für die Wohnung und ein Saxophon
 
 [🛒 Buy it!!]({{< param buyurl >}})
