@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Incluye 2 mini muñecas de las princesas Disney Bella y Rapunzel, además de 2 figuras LEGO de caballos de juguete para niños: Máximus y Philippe
-- Número de piezas: 239
-- Edad recomendada por el fabricante: 5+
-- Establos Reales de Bella y Rapunzel
 - Los peques podrán explorar el establo principal con sus salas de trofeos y accesorios, limpiar las cabellerizas o visitar el acogedor ático para relajarse
+- Establos Reales de Bella y Rapunzel
+- Edad recomendada por el fabricante: 5+
+- Número de piezas: 239
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08WWWG7HX{{</world>}}
