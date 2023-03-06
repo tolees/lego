@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Glamping en la Playa
 - Edad recomendada por el fabricante: 6+
-- Número de piezas: 380
-- Incluye 3 mini muñecas de LEGO Friends: Andrea, Stephanie y Daniel, la figura del cachorrito Pebble y 2 tablas de paddle surf
 - La tienda de juguete dispone de literas y una cocina, el muelle tiene una turbina de viento giratoria para dar electricidad y la playa incluye castillos de arena y conchas
+- Incluye 3 mini muñecas de LEGO Friends: Andrea, Stephanie y Daniel, la figura del cachorrito Pebble y 2 tablas de paddle surf
+- Número de piezas: 380
+- Glamping en la Playa
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNX5KRQ{{</world>}}

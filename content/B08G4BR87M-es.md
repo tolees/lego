@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los peques pueden transportar a Jay en la cabina del robot de juguete, que cuenta con brazos y piernas articulados, una cuchilla giratoria y grandes espadas en su espalda y mano
-- Robot Eléctrico de Jay
-- Número de piezas: 106
-- Edad recomendada por el fabricante: 4+
 - Un juego educativo que incluye 2 mini figuras LEGO de la cuarta temporada de la serie de TV NINJAGO: el malvado Eyezor y Jay, además de un épico altar de fuego
+- Número de piezas: 106
+- Robot Eléctrico de Jay
+- Edad recomendada por el fabricante: 4+
+- Los peques pueden transportar a Jay en la cabina del robot de juguete, que cuenta con brazos y piernas articulados, una cuchilla giratoria y grandes espadas en su espalda y mano
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08G4BR87M{{</world>}}

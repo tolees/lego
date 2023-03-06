@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye las princesas Disney Jasmine y Mulán en formato de mini muñeca, además de las figuras de animales LEGO de Khan el caballo y Rajah el tigre
-- ¡Súbete a la alfombra mágica y viaja al altar de Mulán para ver cómo florece el ciruelo antes de regresar a palacio!
-- La mini muñeca de la princesa Jasmine puede asomarse al balcón para disfrutar de las vistas. Un momento... ¿quiénes son esos? ¡Bien! ¡Son Mulán, Khan y el grillo, que vienen de visita!
-- Incluye un palacio de juguete de gran detalle con 2 plantas y un pequeño altar, además de un montón de accesorios para disfrutar jugando cada día
 - A los peques les encantará este set repleto de posibilidades imaginativas, con escenas basadas en 2 películas muy conocidas de Disney: «Mulán» y «Aladdin»
 - Con la app gratuita Instrucciones de Montaje LEGO, los pequeños constructores podrán acercar, girar y visualizar una versión digital de su maqueta mientras la construyen
+- ¡Súbete a la alfombra mágica y viaja al altar de Mulán para ver cómo florece el ciruelo antes de regresar a palacio!
+- La mini muñeca de la princesa Jasmine puede asomarse al balcón para disfrutar de las vistas. Un momento... ¿quiénes son esos? ¡Bien! ¡Son Mulán, Khan y el grillo, que vienen de visita!
+- Incluye las princesas Disney Jasmine y Mulán en formato de mini muñeca, además de las figuras de animales LEGO de Khan el caballo y Rajah el tigre
 - Con varios personajes emblemáticos de las películas para inspirar el juego, además de las figuras de un caballo y un tigre de juguete, es un regalo fantástico para peques de 6+ años
+- Incluye un palacio de juguete de gran detalle con 2 plantas y un pequeño altar, además de un montón de accesorios para disfrutar jugando cada día
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNV6DJX{{</world>}}
