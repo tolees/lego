@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 75255 Star Wars TM Yoda'
-date: 2023-03-06 11:01:37
+date: 2023-03-07 11:30:04
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB2SFH/?tag=tolees0d-21'
 descuento: '15.54'
-average: '95.1724200913241'
+average: '95.1817933130698'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cette version du Maître Jedi Yoda, figurine de collection Star Wars avec sabre laser, mesure plus de 41 cm (16") et constitue une pièce maîtresse de toute collection
-- Nombre de pièces: 1771
 - Comprend des détails complexes, une tête et des sourcils à orienter pour plus ou moins de fantaisie, des doigts et des orteils mobiles et larme préférée de Yoda, le sabre laser vert
-- Âge recommandé par le fabricant: 10+
 - Yoda
+- Âge recommandé par le fabricant: 10+
+- Nombre de pièces: 1771
+- Cette version du Maître Jedi Yoda, figurine de collection Star Wars avec sabre laser, mesure plus de 41 cm (16") et constitue une pièce maîtresse de toute collection
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07NDB2SFH{{</world>}}

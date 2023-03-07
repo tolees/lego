@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71360 Super Mario Pack Inicial: Aventuras con Mario'
-date: 2023-03-06 11:18:08
+date: 2023-03-07 11:46:38
 image: 'https://m.media-amazon.com/images/I/519qfBXEPbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B082WDQHZQ/?tag=tolees-21'
 descuento: '16.67'
-average: '52.3104125177805'
+average: '52.3071164772723'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Pack Inicial: Aventuras con Mario
 - Tu peque podrá ayudar a LEGO Mario a recoger monedas virtuales y saltar desde el tubo de inicio hasta el poste de meta, tocando los 7 ladrillos LEGO interactivos
 - Esta experiencia de juego de construcción incluye a Goomba y Bowsy, además de 7 ladrillos de acción que forman un recorrido e interactúan con la mini figura LEGO Mario (incluida)
 - Edad recomendada por el fabricante: 6+
 - Número de piezas: 231
+- Pack Inicial: Aventuras con Mario
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082WDQHZQ{{</world>}}
