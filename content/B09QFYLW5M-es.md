@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 76400 Harry Potter Carruaje y Thestrals de Hogwarts  Caballos de Juguete  Set de Construcción con Mini Figuras de La Orden del Fénix'
-date: 2023-03-05 22:15:45
+title: 'LEGO 76400 Harry Potter TM A Carruagem e os Thestrals de Hogwarts'
+date: 2023-03-06 22:22:02
 image: 'https://m.media-amazon.com/images/I/51AO4srlf-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09QFYLW5M-es LEGO 76400 Harry Potter Carruaje y Thestrals de Hogwarts...'
+slug: 'B09QFYLW5M-es LEGO 76400 Harry Potter TM A Carruagem e os Thestrals de...'
 sku: 'B09QFYLW5M-es'
 tags: [ 'Barebones','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
 comparePrice: 19.99 EUR
-prodname: 'LEGO 76400 Harry Potter Carruaje y Thestrals de Hogwarts  Caballos de Juguete  Set de Construcción con Mini Figuras de La Orden del Fénix'
+prodname: 'LEGO 76400 Harry Potter TM A Carruagem e os Thestrals de Hogwarts'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFYLW5M/?tag=tolees-21'
 descuento: '15.01'
-average: '16.0952941176471'
+average: '16.1082608695653'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este set LEGO es un estupendo regalo de Harry Potter para todos los niños y niñas a partir de 7 años amantes del mundo mágico y los animales
-- Este juguete de Harry Potter LEGO inspira a los peques a recrear sus escenas favoritas de la Orden del Fénix o vivir las suyas propias mientras dan un divertido paseo en carruaje
-- Incluye una carroza de caballos con 1 Thestral adulto, además de la figura de un Thestral bebé y un árbol con hojas y una base de hierba verde
-- Incluye detalles de gran realismo como carne, un champiñón y una manzana para alimentar a los caballos de juguete, también cuenta con un divertido ejemplar de la famosa revista El Quisquilloso
+- Número de piezas: 121
+- Edad recomendada por el fabricante: 7+
+- A Carruagem e os Thestrals de Hogwarts
 - Este set de construcción incluye las mini figuras LEGO de Harry Potter con una vairta y Luna Lovegood con una varita y una cartera
-- Los peques pueden construir la carroza de juguete y conectar al Thestral adulto para comenzar una fascinante y mágica aventura
+- Incluye una carroza de caballos con 1 Thestral adulto, además de la figura de un Thestral bebé y un árbol con hojas y una base de hierba verde
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFYLW5M{{</world>}}
