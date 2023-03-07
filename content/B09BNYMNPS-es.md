@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Edad recomendada por el fabricante: 6+
-- Packs de Personajes: Edición 4
 - Número de piezas: 29
+- Packs de Personajes: Edición 4
 - Es necesario uno de los packs iniciales para jugar, que incluyen las figuras de Super Mario: el set LEGO Mario, 71360 o el set LEGO Luigi, 71387
 - Cada pack contiene un personaje sorpresa para construir con una etiqueta de acción, así como un pequeño modelo que se puede emplear como base o para mejorar la experiencia de juego
 
