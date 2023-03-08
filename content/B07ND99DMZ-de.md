@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70425 Hidden Side Newbury´s spukende Schule Bauset  AR-App  Geisterjagd  interaktives Augmented Reality Spielset für iPhone/Android'
-date: 2023-03-07 11:08:18
+date: 2023-03-08 12:18:08
 image: 'https://m.media-amazon.com/images/I/516NW10YZUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND99DMZ/?tag=tolees0ca-21'
 descuento: '16.61'
-average: '112.559756795427'
+average: '112.570385714291'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Kinder können die LEGO Hidden Side App herunterladen und ihre Smartphones auf Newbury’s spukende Schule richten, um das Schulset zum Leben zu erwecken.
+- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
 - LEGO Hidden Side spielt in der fiktiven Stadt Newbury, in der Menschen und Häuser von Geistern besessen sind. Kinder können mit dem Spielset aufregende Geisterjagd-Abenteuer erleben
 - Das Set enthält 8 Figuren: Die männliche Minifigur Jack Davids und die weibliche Minifigur Parker L. Jackson mit Smartphone, Douglas Elton, Rose Davids, Direktorin und Schüler, Jacks Geisterhund
-- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
 - Das Schulspielzeug bietet viele Möglichkeiten für den Spielstart. Darunter eine versteckte Kammer, eine Bushaltestelle, einen Computerraum, eine Bibliothek, ein Badezimmer, einen Chemie-Raum
 
 [🛒 Buy it!!]({{< param buyurl >}})

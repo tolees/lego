@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Includes 7 Jungle Explorer minifigures, plus golden frog statue elements, leopard and crocodile animal elements and 2 spider figures
-- Helicopter measures over 7.5cm high, 23cm long, and 18cm wide. Heavy Observation Truck measures over 7.5cm high, 18m long, and 5cm wide
-- Build a Jungle Exploration Site for the Jungle Explorers to explore as they search the jungle for the mysterious golden frog statues!
-- 813 pieces – For boy and girls between the ages of 8 and 12 years old
 - LEGO City building toys are compatible with all LEGO construction sets for creative building
+- Build a Jungle Exploration Site for the Jungle Explorers to explore as they search the jungle for the mysterious golden frog statues!
+- Helicopter measures over 7.5cm high, 23cm long, and 18cm wide. Heavy Observation Truck measures over 7.5cm high, 18m long, and 5cm wide
+- 813 pieces – For boy and girls between the ages of 8 and 12 years old
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06VV73LFR{{</world>}}

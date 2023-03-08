@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60322 City Great Vehicles Coche de Carreras'
-date: 2023-03-07 11:54:26
+date: 2023-03-08 12:50:50
 image: 'https://m.media-amazon.com/images/I/5140nPgU3WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNTVQGP/?tag=tolees-21'
 descuento: '15.02'
-average: '8.50407079646017'
+average: '8.50394736842104'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Coche de Carreras
-- Incluye 2 mini figuras LEGO: la minifigura de un piloto de carreras con casco, y un mecánico con casco de seguridad y herramientas
+- Los peques podrán dirigirse al circuito para vivir emocionantes aventuras, salir a toda velocidad desde la salida y ayudar al mecánico en los boxes
 - Número de piezas: 46
 - Edad recomendada por el fabricante: 4+
-- Los peques podrán dirigirse al circuito para vivir emocionantes aventuras, salir a toda velocidad desde la salida y ayudar al mecánico en los boxes
+- Incluye 2 mini figuras LEGO: la minifigura de un piloto de carreras con casco, y un mecánico con casco de seguridad y herramientas
+- Coche de Carreras
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNTVQGP{{</world>}}
