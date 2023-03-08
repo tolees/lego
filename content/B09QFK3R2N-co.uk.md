@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71411 Super Mario The Mighty Bowser  3D Model Building Kit  Collectible Posable Character Figure with Battle Platform  Memorabilia Gift Idea'
-date: 2023-02-24 12:56:46
+date: 2023-03-08 17:03:12
 image: 'https://m.media-amazon.com/images/I/513fnpYl1HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFK3R2N-co.uk LEGO 71411 Super Mario The Mighty Bowser 3D Model...'
 sku: 'B09QFK3R2N-co.uk'
 tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys & Games','lego','🇬🇧', ]
-actualPrice: 173.89 GBP
+actualPrice: 172.5 GBP
 currency: GBP
-price: 173.89
+price: 172.5
 comparePrice: 229.99 GBP
 prodname: 'LEGO 71411 Super Mario The Mighty Bowser  3D Model Building Kit  Collectible Posable Character Figure with Battle Platform  Memorabilia Gift Idea'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFK3R2N/?tag=tolees0a-21'
-descuento: '24.39'
-average: '157.400555555556'
+descuento: '25.00'
+average: '158.884500000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Press a button under the shell to open the figures mouth, activate the fireball launcher and knock down the 2 towers from the battle platform
 - The model building kit also includes a hidden POW block with Action Tag that LEGO Super Mario characters (figures not included) can interact with
-- The Super Mario 3D model measures 12.5 in. (32 cm) high and makes a great Christmas gift for all fans of the Super Mario universe
-- Starter Courses featuring LEGO Mario (71360), LEGO Luigi (71387) or LEGO Peach (71403) figures (sold separately) are required for interactive play
-- The Super Mario 3D model building kit also has new for October 2022 LEGO elements to authentically recreate the appearance of Bowsers spikes
-- Fans can build a fantastic LEGO 3D model of The Mighty Bowser, to celebrate the iconic Super Mario boss, a large figure full of detail to display
 - This Super Mario collectible King of the Koopas figure has jointed arms, hands, legs, tail and rotating head and eyes to create different poses
+- The Super Mario 3D model measures 12.5 in. (32 cm) high and makes a great Christmas gift for all fans of the Super Mario universe
+- The Super Mario 3D model building kit also has new LEGO elements to authentically recreate the appearance of Bowsers spikes
+- Press a button under the shell to open the figures mouth, activate the fireball launcher and knock down the 2 towers from the battle platform
+- Starter Courses featuring LEGO Mario (71360), LEGO Luigi (71387) or LEGO Peach (71403) figures (sold separately) are required for interactive play
+- Fans can build a fantastic LEGO 3D model of The Mighty Bowser, to celebrate the iconic Super Mario boss, a large figure full of detail to display
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFK3R2N{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76900 Speed Champions Koenigsegg Jesko'
-date: 2023-03-07 17:14:01
+date: 2023-03-08 18:04:14
 image: 'https://m.media-amazon.com/images/I/51ZyEtwvlSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W8W71HC/?tag=tolees-21'
 descuento: '15.01'
-average: '18.8965771812078'
+average: '18.8838666666664'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Edad recomendada por el fabricante: 7+
-- Este modelo coleccionable de coche deportivo LEGO viene con un chasis más ancho de 8 studs que deja espacio para una cabina de 2 asientos con espacio para 2 mini figuras
-- Número de piezas: 280
 - Koenigsegg Jesko
+- Número de piezas: 280
 - La mini figura de piloto de carreras LEGO de juguete de Koenigsegg incluida en el juego se completa con un mono de carreras, un casco de seguridad y una llave inglesa
+- Este modelo coleccionable de coche deportivo LEGO viene con un chasis más ancho de 8 studs que deja espacio para una cabina de 2 asientos con espacio para 2 mini figuras
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08W8W71HC{{</world>}}
