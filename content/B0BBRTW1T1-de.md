@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60388 Gaming Turnier Truck  LKW-Spielzeug mit Minifiguren  Gamer-Geschenk für Jungen und Mädchen und Fans von E-Sports ab 7 Jahren'
-date: 2023-03-07 10:00:18
+date: 2023-03-08 10:49:43
 image: 'https://m.media-amazon.com/images/I/51dz6AQz1aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0BBRTW1T1/?tag=tolees0ca-21'
 descuento: '35.56'
-average: '31.5228571428571'
+average: '31.4355172413793'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
