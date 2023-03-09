@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Millennium Falcon Starship Construction Set  with Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 and D-O  The Rise of Skywalker Collection'
-date: 2023-03-08 11:59:40
+date: 2023-03-09 13:39:43
 image: 'https://m.media-amazon.com/images/I/51U02wmxFZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDB4Q7S/?tag=tolees0a-21'
 descuento: '20.00'
-average: '138.496421188629'
+average: '138.472541935482'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
