@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75332 Star Wars TM AT-ST'
-date: 2023-03-08 12:55:42
+date: 2023-03-09 14:40:07
 image: 'https://m.media-amazon.com/images/I/51FeUkI2HRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFVV1KR/?tag=tolees-21'
 descuento: '19.86'
-average: '28.3411805555552'
+average: '28.3391034482755'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Número de piezas: 87
-- Edad recomendada por el fabricante: 4+
-- Con 3 mini figuras LEGO de Ewok Wicket (con arco y flecha), un soldado explorador y un piloto de AT-ST (ambos con pistolas bláster de juguete) para revivir la épica Batalla de Endor
-- El el set se compone de un vehículo caminante AT-ST articulado con cabina con espacio para una mini figura LEGO, una guarida Ewok con un árbol y una catapulta para lanzar elementos de piedras
 - AT-ST
+- Con 3 mini figuras LEGO de Ewok Wicket (con arco y flecha), un soldado explorador y un piloto de AT-ST (ambos con pistolas bláster de juguete) para revivir la épica Batalla de Endor
+- Edad recomendada por el fabricante: 4+
+- El el set se compone de un vehículo caminante AT-ST articulado con cabina con espacio para una mini figura LEGO, una guarida Ewok con un árbol y una catapulta para lanzar elementos de piedras
+- Número de piezas: 87
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFVV1KR{{</world>}}

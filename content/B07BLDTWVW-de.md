@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Umfasst ein baubares Miniaturmodell von Schloss Hogwarts, Hagrids Hütte, der Peitschenden Weide und 5 Booten.
-- Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
 - Die Zubehörteile umfassen das Schwert von Gryffindor, Helga Hufflepuffs Becher, Zauberstäbe, Zaubertränke, Hausbanner, Flammen, einen Kessel und 2 Vergrößerungsgläser.
 - Enthält 4 Minifiguren: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin und Rowena Ravenclaw mit einer baubaren Stellplatte für Minifiguren.
+- Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
 - Nimm in der großen Halle Platz und speise mit den Professoren und Schülern von Hogwarts!
 
 [🛒 Buy it!!]({{< param buyurl >}})

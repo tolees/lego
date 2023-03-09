@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Busca estrellas con el telescopio, mira las mandrágoras en el invernadero o relájate en el dormitorio de Ravenclaw, ¡un juego creativo de construcción sin límites!
-- Torre de Astronomía de Hogwarts
-- Número de piezas: 971
 - Edad recomendada por el fabricante: 9+
 - Esta maqueta de Hogwarts para construir incluye plantas de mandrágora, cartas, varitas, un libro de pociones, una escoba, pasteles, copas de vino, linternas, antorchas y velas
+- Número de piezas: 971
+- Busca estrellas con el telescopio, mira las mandrágoras en el invernadero o relájate en el dormitorio de Ravenclaw, ¡un juego creativo de construcción sin límites!
+- Torre de Astronomía de Hogwarts
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6V{{</world>}}
