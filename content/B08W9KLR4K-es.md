@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71749 Ninjago Vuelo Final del Barco de Asalto Ninja'
-date: 2023-03-08 17:03:09
+date: 2023-03-09 17:05:29
 image: 'https://m.media-amazon.com/images/I/51EyCMsOsjS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W9KLR4K/?tag=tolees-21'
 descuento: '27.48'
-average: '32.2528571428571'
+average: '31.84625'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- El juguete del dragón tiene alas que se agitan cuando los niños ejercen presión en su espalda, ¡también hay una silla para que las mini figuras ninja monten sobre él!
 - El Barco de Asalto Ninja cuenta con una vela de aluminio, propulsores giratorios, un volante, una moto acuática de juguete desmontable y un ancla con una cadena
-- Vuelo Final del Barco de Asalto Ninja
-- Edad recomendada por el fabricante: 4+
 - Número de piezas: 147
+- Edad recomendada por el fabricante: 4+
+- El juguete del dragón tiene alas que se agitan cuando los niños ejercen presión en su espalda, ¡también hay una silla para que las mini figuras ninja monten sobre él!
+- Vuelo Final del Barco de Asalto Ninja
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08W9KLR4K{{</world>}}
