@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Este set de LEGO para niñas y niños de 4 años incluye las figuras de Minnie Mouse y Daisy para dirigir la heladería y jugar en la playa, además de una pieza exclusiva con la silueta de Mickey
-- Para más diversión incluye accesorios de juguetes de verano como una estructura con una silla de playa y sombrilla, una estructura de olas con un canfrejo y una tabla de surf
-- Número de piezas: 100
 - Heladería de Minnie Mouse
 - Edad recomendada por el fabricante: 4+
+- Para más diversión incluye accesorios de juguetes de verano como una estructura con una silla de playa y sombrilla, una estructura de olas con un canfrejo y una tabla de surf
+- Número de piezas: 100
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08W5BK5PQ{{</world>}}

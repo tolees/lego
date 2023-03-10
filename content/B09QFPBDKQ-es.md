@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75334 Star Wars TM OBI-WAN Kenobi vs. Darth Vader'
-date: 2023-03-08 17:55:45
+date: 2023-03-10 20:08:24
 image: 'https://m.media-amazon.com/images/I/51uT-wYOQWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFPBDKQ/?tag=tolees-21'
 descuento: '15.00'
-average: '43.7012328767123'
+average: '43.6689333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Número de piezas: 408
-- Edad recomendada por el fabricante: 8+
-- Este juego de acción cuenta con 2 plataformas de batalla giratorias y un soporte translúcido para que los niños jueguen a hacer saltos de la Fuerza con Obi-Wan
-- Obi-Wan Kenobi vs. Darth Vader
 - El épico escenario de batallas de este set LEGO Star Wars también cuenta con una función emergente de fuego que divide el campo, un horno que se abre y una vagoneta que vuelca
+- Edad recomendada por el fabricante: 8+
+- Obi-Wan Kenobi vs. Darth Vader
+- Este juego de acción cuenta con 2 plataformas de batalla giratorias y un soporte translúcido para que los niños jueguen a hacer saltos de la Fuerza con Obi-Wan
+- Número de piezas: 408
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFPBDKQ{{</world>}}

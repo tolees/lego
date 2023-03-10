@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76912 Speed Champions Fast & Furious 1970 Dodge Charger R/T'
-date: 2023-03-08 17:56:13
+date: 2023-03-10 20:11:11
 image: 'https://m.media-amazon.com/images/I/51LkRn-+1wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFXX1DW/?tag=tolees-21'
 descuento: '16.01'
-average: '20.903163265306'
+average: '20.9048999999999'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 8+
-- Fast & Furious 1970 Dodge Charger R/T
-- Inspirado en la acción de las películas, este set incluye un coche de juguete para construir de color negro con toma de aire en el capó, ruedas de diseño y espacio en cabina para una mini figura
 - Número de piezas: 345
+- Fast & Furious 1970 Dodge Charger R/T
+- Edad recomendada por el fabricante: 8+
+- Inspirado en la acción de las películas, este set incluye un coche de juguete para construir de color negro con toma de aire en el capó, ruedas de diseño y espacio en cabina para una mini figura
 - Cuenta con la mini figura LEGO de Dominic Toretto y una llave inglesa de juguete para que los peques puedan organizar carreras a todo velocidad y crear sus propias historias inspiradas en Fast & Furious
 
 [🛒 Buy it!!]({{< param buyurl >}})
