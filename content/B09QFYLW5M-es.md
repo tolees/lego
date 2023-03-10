@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este set de construcción incluye las mini figuras LEGO de Harry Potter con una vairta y Luna Lovegood con una varita y una cartera
-- Edad recomendada por el fabricante: 7+
-- A Carruagem e os Thestrals de Hogwarts
-- Incluye una carroza de caballos con 1 Thestral adulto, además de la figura de un Thestral bebé y un árbol con hojas y una base de hierba verde
 - Número de piezas: 121
+- Incluye una carroza de caballos con 1 Thestral adulto, además de la figura de un Thestral bebé y un árbol con hojas y una base de hierba verde
+- Este set de construcción incluye las mini figuras LEGO de Harry Potter con una vairta y Luna Lovegood con una varita y una cartera
+- A Carruagem e os Thestrals de Hogwarts
+- Edad recomendada por el fabricante: 7+
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFYLW5M{{</world>}}

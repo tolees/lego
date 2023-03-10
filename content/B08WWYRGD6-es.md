@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Número de piezas: 484
+- Incluye las figuras LEGO de 3 emblemáticos enemigos de Super Mario: Lakitu, un Bill Balla y un Fuzzy, que añaden un mayor desafío
 - Set de Expansión: Mundo aéreo del Lakitu
 - Tiene una plataforma nube giratoria, que se puede mover utilizando los controles deslizantes hacia delante y hacia atrás para intentar derribar al Lakitu de su nube
-- Incluye las figuras LEGO de 3 emblemáticos enemigos de Super Mario: Lakitu, un Bill Balla y un Fuzzy, que añaden un mayor desafío
+- Número de piezas: 484
 - Edad recomendada por el fabricante: 7+
 
 [🛒 Buy it now!!]({{< param buyurl >}})

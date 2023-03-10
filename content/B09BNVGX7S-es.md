@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Número de piezas: 211
 - Base de Socorristas en la Playa
 - El puesto de socorrista de 2 plantas incluye montones de elementos para comenzar a jugar, entre ellos una sala de control con estación de trabajo, telescopio y altavoces
-- Edad recomendada por el fabricante: 5+
 - Incorpora divertidos accesorios para el juego imaginativo, como un recogedor de basura, una botella, boya de salvamento, teléfono móvil, prismáticos y tablas de paddle surf
-- Número de piezas: 211
+- Edad recomendada por el fabricante: 5+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNVGX7S{{</world>}}
