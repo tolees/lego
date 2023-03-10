@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter TM La Tour de l horloge de Poudlard'
-date: 2023-03-09 14:10:01
+date: 2023-03-10 14:46:22
 image: 'https://m.media-amazon.com/images/I/51Lz4Af+YfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21'
 descuento: '15.00'
-average: '79.5543074968236'
+average: '79.5612055837566'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Ce kit de maquette de Poudlard comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets et le bureau de Dumbledore
-- La tour de lhorloge de Poudlard
 - Nombre de pièces: 922
-- Ce jouet LEGO Harry Potter à construire comprend 8 minifigurines : Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore et Madame Maxime
 - Âge recommandé par le fabricant: 9+
+- La tour de lhorloge de Poudlard
+- Ce jouet LEGO Harry Potter à construire comprend 8 minifigurines : Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore et Madame Maxime
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07G3S3M9J{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Star Wars 75192 Millennium Falcon Konstruktionsspielzeug'
-date: 2023-03-08 12:10:51
+date: 2023-03-10 14:16:50
 image: 'https://m.media-amazon.com/images/I/510Jric42uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B075PT2JH9-de Lego Star Wars 75192 Millennium Falcon Konstruktionsspielzeug'
 sku: 'B075PT2JH9-de'
 tags: [ 'Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 729.99 EUR
+actualPrice: 693.49 EUR
 currency: EUR
-price: 729.99
+price: 693.49
 comparePrice: 887.81 EUR
 prodname: 'Lego Star Wars 75192 Millennium Falcon Konstruktionsspielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B075PT2JH9/?tag=tolees0ca-21'
-descuento: '17.78'
-average: '843.906770293613'
+descuento: '21.89'
+average: '843.647431034486'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

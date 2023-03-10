@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Confidential'
-date: 2023-03-09 13:55:03
+date: 2023-03-10 14:30:29
 image: 'https://m.media-amazon.com/images/I/61V--Bj3VPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07G3RKS79/?tag=tolees0ca-21'
 descuento: '17.06'
-average: '290.30220035778'
+average: '290.390928571427'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Confidential
-- Confidential
 - Geheim
+- Confidential
+- Confidential
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07G3RKS79{{</world>}}

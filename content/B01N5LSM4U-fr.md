@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator Expert Stadtleben  10255 '
-date: 2023-03-09 14:13:57
+date: 2023-03-10 14:51:03
 image: 'https://m.media-amazon.com/images/I/513PAYwK-mS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B01N5LSM4U/?tag=tolees0d-21'
 descuento: '23.53'
-average: '270.732751572325'
+average: '270.653092621662'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
