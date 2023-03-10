@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Incorpora las mini figuras LEGO de dos ladrones, Ice y Cream, y además el camión de los helados de juguete incorpora un lanzador de proyectiles
 - Edad recomendada por el fabricante: 5+
 - Persecución Policial del Camión de los Helados
-- Incorpora las mini figuras LEGO de dos ladrones, Ice y Cream, y además el camión de los helados de juguete incorpora un lanzador de proyectiles
-- También cuenta con la figura de una agente de policía, que puede desplegar cuchillas para destrozar los neumáticos desde el coche de policía y revivir escenas de la serie
 - Número de piezas: 317
+- También cuenta con la figura de una agente de policía, que puede desplegar cuchillas para destrozar los neumáticos desde el coche de policía y revivir escenas de la serie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNXMFCT{{</world>}}

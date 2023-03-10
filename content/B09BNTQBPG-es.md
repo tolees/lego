@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76399 Harry Potter TM Arca Mágica de Hogwarts'
-date: 2023-03-09 14:51:12
+date: 2023-03-10 15:12:10
 image: 'https://m.media-amazon.com/images/I/51W0Z6ctyhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNTQBPG/?tag=tolees-21'
 descuento: '15.39'
-average: '52.4078571428572'
+average: '52.4231360946746'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 8+
 - Número de piezas: 603
+- Edad recomendada por el fabricante: 8+
 - Una variedad de accesorios para mini figuras que permite a los niños construir hasta 5 mini figuras LEGO Harry Potter o crear personajes completamente nuevos
 - El baúl de equipaje personalizable de Harry Potter contiene diferentes colores de la Casas de Hogwarts y divertidas pegatinas para que los niños construyan el baúl a su manera
 - Arca Mágica de Hogwarts

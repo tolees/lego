@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- En la posición de trabajo, la grúa es de 100 cm de alto, 66 cm de largo y 26 cm de ancho. En estado listo para conducir, el modelo mide 27 cm de alto, 76 cm de largo y 20 cm de ancho. El martillo móvil tiene 24 cm de alto, 50 cm de largo y 20 cm de ancho.
-- Abre la puerta para entrar en la cabina de la grúa. Abre los compartimentos de almacenamiento para sacar las cadenas, las herramientas y el extintor. La grúa está lacada en los colores rojo y negro. Este juego de Lego Technic es una experiencia de construcción cautivadora y rentable.
 - Con la grúa todoterreno alcanzarás alturas mareantes. Con funciones Lego Power Functions: el gran motor sirve para controlar las funciones superiores e inferiores de la grúa.
 - Funciones manuales: dirección a las 4 x 4, motor V8 detallado con pistón móvil y ventilador giratorio, espejo exterior ajustable y puerta de cabina abatible. Lleva los módulos de construcción Lego Technic en los ganchos y coloca tus habilidades como guía de grúa Lego
+- Abre la puerta para entrar en la cabina de la grúa. Abre los compartimentos de almacenamiento para sacar las cadenas, las herramientas y el extintor. La grúa está lacada en los colores rojo y negro. Este juego de Lego Technic es una experiencia de construcción cautivadora y rentable.
 - La grúa Lego Technic más grande y más alta hasta ahora (agosto de 2018) consta de más de 4050 piezas. Lego Technic 2 en 1: se convierte en un martillo móvil de caída libre.
+- En la posición de trabajo, la grúa es de 100 cm de alto, 66 cm de largo y 26 cm de ancho. En estado listo para conducir, el modelo mide 27 cm de alto, 76 cm de largo y 20 cm de ancho. El martillo móvil tiene 24 cm de alto, 50 cm de largo y 20 cm de ancho.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07CFNCSC7{{</world>}}

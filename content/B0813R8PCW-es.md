@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Edad recomendada por el fabricante: 8+
-- Con la estación de girosferas se puede jugar de muchas maneras: cuenta con una taquilla, un torno de acceso y una función de lanzamiento de la girosfera, así como con un modelo que representa una jungla con árboles que caen derribados cuando los golpea la poderosa cola del Ankylosaurus.
-- Número de piezas: 537
 - Los niños podrán interpretar emocionantes aventuras de acción con 5 minifiguras, entre ellas Owen Grady, Claire Dearing y los hermanos Gray y Zach Mitchell, así como con las figuras articuladas de temibles dinosaurios: un Indominus rex y un Ankylosaurus (novedad en junio de 2020).
 - Indominus Rex vs. Ankylosaurus​
+- Número de piezas: 537
+- Con la estación de girosferas se puede jugar de muchas maneras: cuenta con una taquilla, un torno de acceso y una función de lanzamiento de la girosfera, así como con un modelo que representa una jungla con árboles que caen derribados cuando los golpea la poderosa cola del Ankylosaurus.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0813R8PCW{{</world>}}

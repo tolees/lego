@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71392 Super Mario Pack Potenciador: Mario Rana'
-date: 2023-03-09 14:49:02
+date: 2023-03-10 15:11:24
 image: 'https://m.media-amazon.com/images/I/41HqX88S-AS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWQ43C8/?tag=tolees-21'
 descuento: '20.02'
-average: '7.8268831168831'
+average: '7.82793548387095'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Pack Potenciador: Mario Rana
-- Edad recomendada por el fabricante: 6+
+- Los jugadores podrán ganar monedas digitales extra haciendo que LEGO Mario salte como una rana, y se activan los sonidos de chapoteo cuando la figura cae al suelo
 - El pack potenciador de Mario Rana también tiene lirios de agua y elementos «acuáticos» azules para permitir una creatividad aún mayor de los peques
 - Número de piezas: 11
-- Los jugadores podrán ganar monedas digitales extra haciendo que LEGO Mario salte como una rana, y se activan los sonidos de chapoteo cuando la figura cae al suelo
+- Edad recomendada por el fabricante: 6+
+- Pack Potenciador: Mario Rana
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WWQ43C8{{</world>}}

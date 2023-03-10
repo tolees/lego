@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - AT-ST
-- Número de piezas: 87
 - El el set se compone de un vehículo caminante AT-ST articulado con cabina con espacio para una mini figura LEGO, una guarida Ewok con un árbol y una catapulta para lanzar elementos de piedras
 - Con 3 mini figuras LEGO de Ewok Wicket (con arco y flecha), un soldado explorador y un piloto de AT-ST (ambos con pistolas bláster de juguete) para revivir la épica Batalla de Endor
 - Edad recomendada por el fabricante: 4+
+- Número de piezas: 87
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFVV1KR{{</world>}}
