@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60314 City Police Persecución Policial del Camión de los Helados'
-date: 2023-03-10 15:03:51
+date: 2023-03-11 15:34:07
 image: 'https://m.media-amazon.com/images/I/51tZLsbAxlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNXMFCT/?tag=tolees-21'
 descuento: '18.01'
-average: '23.1599481865288'
+average: '23.1673195876292'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incorpora las mini figuras LEGO de dos ladrones, Ice y Cream, y además el camión de los helados de juguete incorpora un lanzador de proyectiles
-- Edad recomendada por el fabricante: 5+
-- Persecución Policial del Camión de los Helados
-- Número de piezas: 317
 - También cuenta con la figura de una agente de policía, que puede desplegar cuchillas para destrozar los neumáticos desde el coche de policía y revivir escenas de la serie
+- Número de piezas: 317
+- Edad recomendada por el fabricante: 5+
+- Incorpora las mini figuras LEGO de dos ladrones, Ice y Cream, y además el camión de los helados de juguete incorpora un lanzador de proyectiles
+- Persecución Policial del Camión de los Helados
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNXMFCT{{</world>}}

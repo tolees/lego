@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 71408 Super Mario Set de Expansión: Castillo de Peach'
-date: 2023-03-10 15:07:46
+date: 2023-03-11 15:24:36
 image: 'https://m.media-amazon.com/images/I/514e5zVjjKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFZW3V6/?tag=tolees-21'
 descuento: '20.00'
-average: '104.778333333332'
+average: '104.769058823528'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Set de Expansión: Castillo de Peach
 - Edad recomendada por el fabricante: 8+
-- Incluye un bloque de tiempo, una vidriera de la Princesa Peach en la torre, una pintura de Bob-Omb con una etiqueta de acción oculta, un pastel para esconder un Goomba, una fruta morada y mucho más
 - También cuenta con una tubería especial ‘’Castillo de Peach’’, un puente roto y 5 figuras LEGO Super Mario de Bowser, Ludwig, Toadette, un Goomba y un Bob-omb
 - Número de piezas: 1216
+- Incluye un bloque de tiempo, una vidriera de la Princesa Peach en la torre, una pintura de Bob-Omb con una etiqueta de acción oculta, un pastel para esconder un Goomba, una fruta morada y mucho más
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFZW3V6{{</world>}}
