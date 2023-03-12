@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO UK 60161 Jungle Exploration Site Construction Toy'
-date: 2023-03-08 12:01:37
+date: 2023-03-12 14:21:07
 image: 'https://m.media-amazon.com/images/I/61rFXsPNSEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B06VV73LFR/?tag=tolees0a-21'
 descuento: '16.58'
-average: '212.628095238094'
+average: '212.683371212119'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Includes 7 Jungle Explorer minifigures, plus golden frog statue elements, leopard and crocodile animal elements and 2 spider figures
-- LEGO City building toys are compatible with all LEGO construction sets for creative building
-- Build a Jungle Exploration Site for the Jungle Explorers to explore as they search the jungle for the mysterious golden frog statues!
 - Helicopter measures over 7.5cm high, 23cm long, and 18cm wide. Heavy Observation Truck measures over 7.5cm high, 18m long, and 5cm wide
+- Build a Jungle Exploration Site for the Jungle Explorers to explore as they search the jungle for the mysterious golden frog statues!
 - 813 pieces – For boy and girls between the ages of 8 and 12 years old
+- LEGO City building toys are compatible with all LEGO construction sets for creative building
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06VV73LFR{{</world>}}
