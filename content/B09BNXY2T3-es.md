@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42134 Technic Monster Jam Megalodon'
-date: 2023-03-10 04:13:54
+date: 2023-03-11 22:20:39
 image: 'https://m.media-amazon.com/images/I/51H12IJ3KlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNXY2T3/?tag=tolees-21'
 descuento: '32.02'
-average: '17.3791176470589'
+average: '17.2708571428572'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Monster Jam Megalodon
+- Los peques podrán realizar arriesgados saltos utilizando el mecanismo retráctil para enviar su camión por los terrenos más difíciles, ¡como un monster truckde verdad!
+- Número de piezas: 260
 - Este camión monstruo de LEGO Technic cuenta con los dientes del tiburón, ojos, y aletas que se mueven cuando el coche acelera, todo ello inspirado en el legendario monstruo marino azul
 - Edad recomendada por el fabricante: 7+
-- Número de piezas: 260
-- Los peques podrán realizar arriesgados saltos utilizando el mecanismo retráctil para enviar su camión por los terrenos más difíciles, ¡como un monster truckde verdad!
+- Monster Jam Megalodon
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNXY2T3{{</world>}}
