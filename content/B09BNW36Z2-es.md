@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60319 City Fire Rescate de Bomberos y Persecución Policial'
-date: 2023-03-10 20:21:14
+date: 2023-03-12 20:25:18
 image: 'https://m.media-amazon.com/images/I/51QwVFVCW+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNW36Z2/?tag=tolees-21'
 descuento: '16.67'
-average: '25.2072448979588'
+average: '25.2050505050501'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Edad recomendada por el fabricante: 5+
-- Los peques podrán disparar elementos de agua desde el dron, activar las luces del semáforo y levantar y bajar las llamas LEGO en el lugar del incendio
-- El set de construcción también cuenta con 3 mini figuras LEGO, entre ellas el Bob, el bombero de la serie de TV LEGO City Aventuras en la Ciudad, y la figura de un gato de juguete para llevar a cabo imaginativas historias
 - Rescate de Bomberos y Persecución Policial
+- El set de construcción también cuenta con 3 mini figuras LEGO, entre ellas el Bob, el bombero de la serie de TV LEGO City Aventuras en la Ciudad, y la figura de un gato de juguete para llevar a cabo imaginativas historias
+- Los peques podrán disparar elementos de agua desde el dron, activar las luces del semáforo y levantar y bajar las llamas LEGO en el lugar del incendio
 - Número de piezas: 295
 
 [🛒 Buy it now!!]({{< param buyurl >}})
