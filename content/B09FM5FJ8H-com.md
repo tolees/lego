@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Disney Princess Jasmine and Mulan’s Adventure 43208 Building Toy Set for Kids  Girls  and Boys Ages 5+  176 Pieces '
-date: 2023-02-08 17:06:21
+title: 'LEGO Disney Princess Jasmine and Mulan’s Adventure 43208 Palace Set  Aladdin & Mulan Buildable Toy with Horse and Tiger Figures  Gifts for Kids  Girls & Boys'
+date: 2023-03-13 21:43:06
 image: 'https://m.media-amazon.com/images/I/51gfHidGEyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09FM5FJ8H-com LEGO Disney Princess Jasmine and Mulan’s Adventure 43208...'
 sku: 'B09FM5FJ8H-com'
 tags: [ 'Building Toys','Toy Building Sets','Toys & Games','lego','🇺🇸', ]
-actualPrice: 31.79 USD
+actualPrice: 32.99 USD
 currency: USD
-price: 31.79
+price: 32.99
 comparePrice: 44.99 USD
-prodname: 'LEGO Disney Princess Jasmine and Mulan’s Adventure 43208 Building Toy Set for Kids  Girls  and Boys Ages 5+  176 Pieces '
+prodname: 'LEGO Disney Princess Jasmine and Mulan’s Adventure 43208 Palace Set  Aladdin & Mulan Buildable Toy with Horse and Tiger Figures  Gifts for Kids  Girls & Boys'
 country: 'com'
 flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B09FM5FJ8H/?tag=tolees-20'
-descuento: '29.34'
-average: '30.6769999999999'
+descuento: '26.67'
+average: '30.7871428571428'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Creative play – Give any Disney fan a gift packed with features and accessories to inspire imaginative role play in this fun LEGO Disney Jasmine and Mulan’s Adventure 43208 set
-- Fun gift for ages 5+ – Kids will love this set full of imaginative possibilities, with settings based on 2 well-known Disney movies, making it a great treat for a hardworking child
-- Details to spark play – With the palace measuring over 6.5 in. (17 cm) high, 8.5 in. (22 cm) wide and 3 in. (8 cm) deep, this set is designed for short, fun, everyday play sessions
-- What’s in the box? – This 176-piece set features a detailed palace with 2 floors and a small shrine, plus plenty of accessories to spark short, fun, everyday play sessions
-- Iconic characters – Featuring Disney’s Jasmine and Mulan, plus Khan the horse and Rajah the tiger, this set can be combined with other Disney sets (sold separately) or used on its own
+- Hop onto the magic carpet and take a trip to Mulan’s shrine to see the plum blossom before you head back to the palace!
+- Princess Jasmine doll can pop up to the balcony to admire the view. Wait, who’s that? Yay, it’s Mulan, Khan and Cri-kee, coming to visit!
+- Includes Disney’s Princess Jasmine and Mulan mini doll figures, plus Khan the toy horse, Rajah the tiger LEGO animal figures
+- Kids will love this set full of imaginative possibilities, with settings based on 2 well-known Disney movies: Mulan and Aladdin
+- Iconic characters from beloved movies with details to spark play plus a toy horse & tiger make a fun birthday or any-day gift for ages 6+
+- Using the LEGO Building Instructions app, builders can zoom, rotate and visualize a digital version of their model as they build
+- Features a detailed palace toy with 2 floors and a small shrine, plus plenty of accessories to spark fun everyday play sessions
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FM5FJ8H{{</world>}}
