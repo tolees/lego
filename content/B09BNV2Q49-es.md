@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Este set de construcción cuenta con diferentes modelos de plantas: 6 flores grandes, 2 recién abiertas, 5 hojas en la base y 2 raíces aéreas de gran realismo
+- Número de piezas: 608
 - Construye el jarrón azul y llenalo con las piezas LEGO de color marrón para simular la tierra donde las orquídeas reales crecen
+- Este set de construcción cuenta con diferentes modelos de plantas: 6 flores grandes, 2 recién abiertas, 5 hojas en la base y 2 raíces aéreas de gran realismo
 - Orquídea
 - Edad recomendada por el fabricante: 18+
-- Número de piezas: 608
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNV2Q49{{</world>}}
