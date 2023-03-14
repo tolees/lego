@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Temas de Lego favoritos para los fans
-- Varios modos de juego
 - Eventos comunitarios
-- Estratégias únicas
 - Luchadores personalizados
+- Varios modos de juego
+- Estratégias únicas
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B1V75C8Y{{</world>}}
