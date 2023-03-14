@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42150 Technic Monster Jam™ Monster Mutt™ Dalmatian'
-date: 2023-03-13 08:25:48
+date: 2023-03-14 10:56:06
 image: 'https://m.media-amazon.com/images/I/517F5DUSMrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0BBRXFL11/?tag=tolees-21'
 descuento: '15.01'
-average: '17.96'
+average: '17.8214285714286'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Monster Jam Monster Mutt Dalmatian
 - Edad recomendada por el fabricante: 7+
 - Número de piezas: 244
 - El emocionante mundo Monster Jam cobra vida con LEGO y el increíble diseño de este camión monstruo con detalles decorativos en pegatinas que fascinarán a los fans de las competiciones y las carreras de juguete
 - Una vez construido, los peques podrán tirar del camión monstruo de juguete hacia atrás para lanzarlo en rápidas carreras o para recrear trucos y saltos vistos en las arenas de las competiciones Monster Jam
+- Monster Jam Monster Mutt Dalmatian
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRXFL11{{</world>}}

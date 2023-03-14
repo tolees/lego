@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42149 Technic Monster Jam™ Dragon™'
-date: 2023-03-13 08:27:07
+date: 2023-03-14 10:55:37
 image: 'https://m.media-amazon.com/images/I/51BBzb48HOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0BBRXXNQR/?tag=tolees-21'
 descuento: '15.01'
-average: '18.19'
+average: '17.99'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los niños podrán usar la función de retroceso para lanzar el camión monstruo de juguete a toda velocidad, recreando así sus saltos y trucos favoritos de las acrobacias que se viven en la arena de Monster Jam
-- Monster Jam Dragon
 - Número de piezas: 217
+- Monster Jam Dragon
 - En su versión Monster Jam Dragon el camión de juguete tiene feroces púas y cuernos de dragón, además de colores vibrantes, ¡incluso trae pegatinas para que los peques puedan recrear el diseño del Monster Truck de la vida real!
 - Edad recomendada por el fabricante: 7+
+- Los niños podrán usar la función de retroceso para lanzar el camión monstruo de juguete a toda velocidad, recreando así sus saltos y trucos favoritos de las acrobacias que se viven en la arena de Monster Jam
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXXNQR{{</world>}}

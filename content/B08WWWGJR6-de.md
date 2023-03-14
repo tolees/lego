@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21172 Minecraft Das zerstörte Portal Minecraft Spielzeug Set für Jungen und Mädchen ab 8 Jahre mit Figuren aus dem Videospiel'
-date: 2023-02-10 17:53:57
+date: 2023-03-14 09:45:46
 image: 'https://m.media-amazon.com/images/I/51M80w9newL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWWGJR6/?tag=tolees0ca-21'
 descuento: '26.68'
-average: '22.4600000000002'
+average: '22.4465714285716'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes popular Minecraft figure Steve plus familiar figures: a baby sheep, baby hoglin and a wither skeleton to battle with
-- The ancient portal, one of the most thrilling aspects of Minecraft, takes players through into never-ending imaginary new adventures
-- Kids mine obsidian rock to repair a ruined portal and pass through it into the fiery red Nether where a wither skeleton and hoglin are waiting
-- Steve needs a new set of netherite armour, so kids mine gold for the furnace, then craft Steve’s new helmet, armour and sword
-- This LEGO Minecraft toy for girls and boys 8 years old features a buildable portal with hand-activated perilous, interdimensional gateway
+- Steve braucht eine neue Netherit-Rüstung, also bauen die Kinder Gold für den Ofen ab und stellen dann Steves neuen Helm, seine Rüstung und sein Schwert her
+- In diesem LEGO Minecraft Set bauen Kinder Obsidiangestein ab, um ein zerstörtes Portal zu reparieren und in den Nether zu gelangen, wo ein verwesendes Skelett und ein Hoglin warten
+- Enthalten sind beliebte Minecraft Figuren aus dem Originalspiel: Steve, ein Baby-Schaf, ein Baby-Hoglin und ein Wither-Skelett, das es zu bekämpfen gilt
+- Das uralte Portal, einer der aufregendsten Orte für den Spielverlauf von Minecraft, führt die Spieler in imaginäre Abenteuer und ist natürlich Teil dieses Minecraft Spielzeugs
+- Dieses Spielzeug ab 8 Jahre ist für Mädchen und Jungen geeignet und verfügt über ein Portal mit händisch aktiviertem, gefährlichem, interdimensionalem Tor
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WWWGJR6{{</world>}}
