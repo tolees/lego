@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Los peques podrán construir esta maqueta del coche en colores amarillo y negro y personalizarla con las pegatinas incluidas, ¡una vez construido, quedará genial expuesto en las habitaciones de los niños en solitario o junto a otros modelos de coches LEGO Technic!
-- Edad recomendada por el fabricante: 9+
 - Con movimientos realistas y características auténticas basadas en el modelo del deportivo original, este coche de juguete para construir cuenta con un motor W16, dirección y puertas de tijera que funcionan
 - Bugatti Bolide
+- Los peques podrán construir esta maqueta del coche en colores amarillo y negro y personalizarla con las pegatinas incluidas, ¡una vez construido, quedará genial expuesto en las habitaciones de los niños en solitario o junto a otros modelos de coches LEGO Technic!
 - Número de piezas: 905
+- Edad recomendada por el fabricante: 9+
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ6JB2{{</world>}}

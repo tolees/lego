@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Este juguete incluye 6 mini figuras LEGO de Harry Potter, Hermione Granger, Albus Dumbledore, Severus Snape, Argus Filch y la Señora Pince
-- Número de piezas: 654
-- Hogwarts: Despacho de Dumbledore
 - Edad recomendada por el fabricante: 8+
+- Número de piezas: 654
 - Cada sección de este Castillo Hogwarts LEGO cuenta con importantes objetos de las películas, como la capa de invisibilidad de Harry, la Espada de Gryffindor o el Sombrero Seleccionador
+- Hogwarts: Despacho de Dumbledore
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFSG4ZB{{</world>}}

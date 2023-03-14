@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Una vez construido, los peques podrán tirar del camión monstruo de juguete hacia atrás para lanzarlo en rápidas carreras o para recrear trucos y saltos vistos en las arenas de las competiciones Monster Jam
 - Edad recomendada por el fabricante: 7+
+- Monster Jam Monster Mutt Dalmatian
 - Número de piezas: 244
 - El emocionante mundo Monster Jam cobra vida con LEGO y el increíble diseño de este camión monstruo con detalles decorativos en pegatinas que fascinarán a los fans de las competiciones y las carreras de juguete
-- Una vez construido, los peques podrán tirar del camión monstruo de juguete hacia atrás para lanzarlo en rápidas carreras o para recrear trucos y saltos vistos en las arenas de las competiciones Monster Jam
-- Monster Jam Monster Mutt Dalmatian
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRXFL11{{</world>}}
