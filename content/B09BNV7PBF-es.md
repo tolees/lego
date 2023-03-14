@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60343 City Great Vehicles Transporte del Helicóptero de Rescate'
-date: 2023-03-12 20:24:10
+date: 2023-03-14 05:25:42
 image: 'https://m.media-amazon.com/images/I/51EghISicoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNV7PBF/?tag=tolees-21'
 descuento: '20.01'
-average: '24.7254166666667'
+average: '24.7153424657535'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Transporte del Helicóptero de Rescate
-- Número de piezas: 215
-- El impresionante camión rojo cuenta con un gran remolque articulado y luces de advertencia desplegables para transportar cargas de gran tamaño
 - El helicóptero de juguete tiene aspas giratorias y una zona de almacenaje para una camilla con la que los peques vivirán épicas aventuras de rescate
+- El impresionante camión rojo cuenta con un gran remolque articulado y luces de advertencia desplegables para transportar cargas de gran tamaño
 - Edad recomendada por el fabricante: 5+
+- Número de piezas: 215
+- Transporte del Helicóptero de Rescate
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNV7PBF{{</world>}}

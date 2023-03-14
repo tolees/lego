@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76400 Harry Potter TM A Carruagem e os Thestrals de Hogwarts'
-date: 2023-03-13 02:19:09
+date: 2023-03-14 05:01:30
 image: 'https://m.media-amazon.com/images/I/51AO4srlf-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFYLW5M/?tag=tolees-21'
 descuento: '15.01'
-average: '16.1788000000001'
+average: '16.1894736842106'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este set de construcción incluye las mini figuras LEGO de Harry Potter con una vairta y Luna Lovegood con una varita y una cartera
-- Número de piezas: 121
 - Incluye una carroza de caballos con 1 Thestral adulto, además de la figura de un Thestral bebé y un árbol con hojas y una base de hierba verde
 - Edad recomendada por el fabricante: 7+
 - A Carruagem e os Thestrals de Hogwarts
+- Número de piezas: 121
+- Este set de construcción incluye las mini figuras LEGO de Harry Potter con una vairta y Luna Lovegood con una varita y una cartera
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFYLW5M{{</world>}}

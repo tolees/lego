@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60287 City Great Vehicles Tractor'
-date: 2023-03-12 20:23:43
+date: 2023-03-14 05:21:43
 image: 'https://m.media-amazon.com/images/I/514hhOLUJ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21'
 descuento: '15.01'
-average: '16.8887820512822'
+average: '16.88910543131'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Tractor
+- Los niños pueden cargar el brazo de grúa elevable del tractor de juguete con los fardos de heno y después poner la calabza, la manzana y las zanahorias en el cargador frontal
 - Número de piezas: 148
 - Este juguete de granja incluye 2 mini figuras LEGO de un granjero y su hija, un conejo, 2 fardos de heno y una caja de verduras para que los peques disfruten de divertidos juegos de rol
-- Los niños pueden cargar el brazo de grúa elevable del tractor de juguete con los fardos de heno y después poner la calabza, la manzana y las zanahorias en el cargador frontal
 - Edad recomendada por el fabricante: 5+
-- Tractor
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08G4THL9P{{</world>}}

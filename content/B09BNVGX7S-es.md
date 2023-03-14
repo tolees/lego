@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60328 My City Base de Socorristas en la Playa'
-date: 2023-03-13 02:25:08
+date: 2023-03-14 05:25:40
 image: 'https://m.media-amazon.com/images/I/51G++YzA-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNVGX7S/?tag=tolees-21'
 descuento: '36.65'
-average: '24.737358490566'
+average: '24.6311111111111'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Número de piezas: 211
-- El puesto de socorrista de 2 plantas incluye montones de elementos para comenzar a jugar, entre ellos una sala de control con estación de trabajo, telescopio y altavoces
-- Base de Socorristas en la Playa
 - Edad recomendada por el fabricante: 5+
+- Base de Socorristas en la Playa
+- El puesto de socorrista de 2 plantas incluye montones de elementos para comenzar a jugar, entre ellos una sala de control con estación de trabajo, telescopio y altavoces
 - Incorpora divertidos accesorios para el juego imaginativo, como un recogedor de basura, una botella, boya de salvamento, teléfono móvil, prismáticos y tablas de paddle surf
 
 [🛒 Buy it!!]({{< param buyurl >}})
