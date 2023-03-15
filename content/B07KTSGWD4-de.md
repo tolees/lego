@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 908 Teile – Für Mädchen und Jungen ab 7 Jahren, für Fans und für große Kinder jeden Alters
-- Für noch mehr kreativen Bauspaß kann das Bauspielzeug „Boot für Rettungsaktionen“ (41381) von LEGO Friends zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Das LEGO Boot ist 17 cm hoch, 40 cm lang und 12 cm breit. Das Schnellboot ist 3 cm hoch, 9 cm lang und 5 cm breit.
-- Das Spielset enthält 3 Spielfiguren: Olivia, Andrea und Mia sowie Zobo, den Roboter, und eine Wal-Figur
+- Für noch mehr kreativen Bauspaß kann das Bauspielzeug „Boot für Rettungsaktionen“ (41381) von LEGO Friends zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Das ultimativen LEGO Rettungsboot bietet eine Menge interessanter Funktionen – z. B. einen schwenkbaren Kran, ein abnehmbares Deck und ein Schnellboot mit Startfunktion
+- 908 Teile – Für Mädchen und Jungen ab 7 Jahren, für Fans und für große Kinder jeden Alters
+- Das Spielset enthält 3 Spielfiguren: Olivia, Andrea und Mia sowie Zobo, den Roboter, und eine Wal-Figur
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07KTSGWD4{{</world>}}
