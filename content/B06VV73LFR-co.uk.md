@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO UK 60161 Jungle Exploration Site Construction Toy'
-date: 2023-03-14 17:01:23
+date: 2023-03-15 17:36:02
 image: 'https://m.media-amazon.com/images/I/61rFXsPNSEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B06VV73LFR/?tag=tolees0a-21'
 descuento: '16.58'
-average: '212.620566037734'
+average: '212.589340866288'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41706 Friends Le Calendrier de l’Avent 2022'
-date: 2023-03-11 00:49:17
+date: 2023-03-15 15:55:12
 image: 'https://m.media-amazon.com/images/I/51MG2zYu2CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09QFPYX34/?tag=tolees0d-21'
 descuento: '28.89'
-average: '18.41'
+average: '18.3723529411765'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
