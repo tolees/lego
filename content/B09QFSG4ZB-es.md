@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76402 Harry Potter TM Hogwarts: Despacho de Dumbledore'
-date: 2023-03-14 10:55:32
+date: 2023-03-15 11:05:40
 image: 'https://m.media-amazon.com/images/I/513wqxu-ixL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFSG4ZB/?tag=tolees-21'
 descuento: '22.22'
-average: '68.3515789473685'
+average: '68.379827586207'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Este juguete incluye 6 mini figuras LEGO de Harry Potter, Hermione Granger, Albus Dumbledore, Severus Snape, Argus Filch y la Señora Pince
-- Edad recomendada por el fabricante: 8+
-- Número de piezas: 654
 - Cada sección de este Castillo Hogwarts LEGO cuenta con importantes objetos de las películas, como la capa de invisibilidad de Harry, la Espada de Gryffindor o el Sombrero Seleccionador
+- Número de piezas: 654
 - Hogwarts: Despacho de Dumbledore
+- Edad recomendada por el fabricante: 8+
+- Este juguete incluye 6 mini figuras LEGO de Harry Potter, Hermione Granger, Albus Dumbledore, Severus Snape, Argus Filch y la Señora Pince
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFSG4ZB{{</world>}}

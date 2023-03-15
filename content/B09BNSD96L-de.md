@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Besuche die LEGO.com Website und lade die LEGO Super Mario App mit Anleitungen und Ideen sowie eine Liste kompatibler Android- und iOS-Geräte herunter
 - Die LEGO Super Mario Spielzeuge zum Sammeln holen die kultigen Super Mario Charaktere in die reale Welt und bieten dir beim Bauen grenzenlose kreative Herausforderungen
+- Besuche die LEGO.com Website und lade die LEGO Super Mario App mit Anleitungen und Ideen sowie eine Liste kompatibler Android- und iOS-Geräte herunter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNSD96L{{</world>}}

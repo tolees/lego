@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Dieser Spielzeug für Kinder ab 8 Jahre ist ein tolles Harry Potter Geschenk für kleine Magier und Hexen
-- Dieses LEGO Harry Potter Set enthält den verbotenen Bereich der Bibliothek von Hogwarts und Dumbledores Büro mit authentischem Zubehör
 - Das Set ist Teil einer modularen Reihe von LEGO Harry Potter Schloss Erweiterungen, die unterschiedlich zusammengebaut werden können
-- Enthält 6 LEGO Harry Potter Minifiguren: Harry Potter, Hermine Granger, Albus Dumbledore, Severus Snape, Argus Filch und Madam Pince
 - Jeder Raum ist mit magischen Gegenständen aus den Filmen gefüllt, wie zum Beispiel dem Sprechenden Hut oder dem Schwert von Gryffindor
 - Zum Zubehör dieses LEGO Harry Potter Spielzeugs gehören das Denkarium und der aus der Asche auferstandene Baby-Phönix Fawkes
+- Dieses LEGO Harry Potter Set enthält den verbotenen Bereich der Bibliothek von Hogwarts und Dumbledores Büro mit authentischem Zubehör
+- Enthält 6 LEGO Harry Potter Minifiguren: Harry Potter, Hermine Granger, Albus Dumbledore, Severus Snape, Argus Filch und Madam Pince
 - Das LEGO Harry Potter Schloss für Kinder enthält außerdem 3 zufällige Überraschungskartenelementen (von insgesamt 16), die die Kinder sammeln können
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - I bambini esplorano il caravan magico del parco giochi LEGO e scoprono i fornelli, il tavolo e il bagno nascosto per inventare storie e prendersi cura del cavallo
+- Numero di pezzi: 348
 - Le dimensioni del tetto apribile del Caravan sono pensate per le manine dei bambini, che possono preparare il té sul fornello o girare il rubinetto per riempire il secchio
 - Età consigliata dal produttore: 7+
 - Il Caravan magico
-- Numero di pezzi: 348
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08WWQX4LZ{{</world>}}

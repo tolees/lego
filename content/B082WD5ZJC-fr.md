@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Ce set LEGO comprend 4 minifigures de super-héros Les Éternels : Ikaris, Circé et Ajak et Kingo en exclusivité ainsi qu’une figurine Déviant et une figurine Céleste articulée
 - Âge recommandé par le fabricant: 7+
+- Dans l’ombre d’Arishem
 - Nombre de pièces: 493
 - La grande figurine de super-héros Céleste est dotée d’une poitrine qui s’allume avec une brique de construction lumineuse, et peut tenir une minifigure d’Éternel dans sa main
-- Dans l’ombre d’Arishem
-- Ce set LEGO comprend 4 minifigures de super-héros Les Éternels : Ikaris, Circé et Ajak et Kingo en exclusivité ainsi qu’une figurine Déviant et une figurine Céleste articulée
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B082WD5ZJC{{</world>}}
