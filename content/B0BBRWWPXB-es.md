@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42147 Technic Volquete'
-date: 2023-03-14 05:02:07
+date: 2023-03-15 05:06:42
 image: 'https://m.media-amazon.com/images/I/51uo5ixf3vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0BBRWWPXB/?tag=tolees-21'
 descuento: '15.02'
-average: '8.99'
+average: '8.865'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 7+
-- La excavadora de juguete tiene un brazo móvil que puede subir y bajar, presentando así movimientos y mecanismos realistas que mejoran las habilidades de construcción y entendimiento de los niños
 - Número de piezas: 177
-- El camión de juguete se puede dirigir, y cuando esté en posición, los peques podrán levantar el Volquete para dejar la carga; cuando estén listos para un nuevo desafío podrán convertirlo en la asombrosa excavadora
 - Volquete
+- La excavadora de juguete tiene un brazo móvil que puede subir y bajar, presentando así movimientos y mecanismos realistas que mejoran las habilidades de construcción y entendimiento de los niños
+- Edad recomendada por el fabricante: 7+
+- El camión de juguete se puede dirigir, y cuando esté en posición, los peques podrán levantar el Volquete para dejar la carga; cuando estén listos para un nuevo desafío podrán convertirlo en la asombrosa excavadora
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRWWPXB{{</world>}}
