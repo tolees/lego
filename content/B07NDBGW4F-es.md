@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41165 Disney Princess Expedición en Canoa de Anna'
-date: 2023-03-13 18:31:07
+date: 2023-03-14 23:02:03
 image: 'https://m.media-amazon.com/images/I/511Bbs3Rv5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDBGW4F/?tag=tolees-21'
 descuento: '19.61'
-average: '17.435172413793'
+average: '17.3896666666666'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este set de aventuras contiene una canoa de hielo con lámpara y una escena de un río con tobogán de hielo, subibaja, vegetación móvil, rocas y una imagen de un gigante de tierra dormido.
 - Número de piezas: 108
-- Incluye 2 emblemáticos minipersonajes Disney: Anna y Olaf; incluye también una figura LEGO de un conejito.
 - Expedición en Canoa de Anna
 - Edad recomendada por el fabricante: 4+
+- Este set de aventuras contiene una canoa de hielo con lámpara y una escena de un río con tobogán de hielo, subibaja, vegetación móvil, rocas y una imagen de un gigante de tierra dormido.
+- Incluye 2 emblemáticos minipersonajes Disney: Anna y Olaf; incluye también una figura LEGO de un conejito.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07NDBGW4F{{</world>}}
