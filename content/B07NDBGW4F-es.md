@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Expedición en Canoa de Anna
+- Número de piezas: 108
 - Incluye 2 emblemáticos minipersonajes Disney: Anna y Olaf; incluye también una figura LEGO de un conejito.
 - Este set de aventuras contiene una canoa de hielo con lámpara y una escena de un río con tobogán de hielo, subibaja, vegetación móvil, rocas y una imagen de un gigante de tierra dormido.
 - Edad recomendada por el fabricante: 4+
-- Número de piezas: 108
-- Expedición en Canoa de Anna
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07NDBGW4F{{</world>}}
