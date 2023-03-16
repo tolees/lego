@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Heroes 76087 - Flying Fox: Batmobil-Attacke aus der Luft'
-date: 2023-03-15 17:48:31
+date: 2023-03-16 18:26:54
 image: 'https://m.media-amazon.com/images/I/61h95219nTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B06WRRJ64N/?tag=tolees0ca-21'
 descuento: '25.50'
-average: '142.790568862272'
+average: '142.799850523165'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Zur Ausrüstung gehören Cyborgs abnehmbarer Shooter-Arm, der Batarang und das Enterhakengewehr von Batman, Wonder Womans Schwert, die Shooter der Parademons und Steppenwolfs Axt.
-- Das Zubehör umfasst unter anderem Wonder Womans Schild und die Folienflügel der Parademons.
+- Das Batmobil verfügt über ein aufklappbares Minifiguren-Cockpit, 3 Shooter und verstellbare Front- und Heckflügel.
 - Der Flying Fox hat ein Cockpit für zwei Minifiguren, das über ein abnehmbares Kabinendach und eine durchsichtig-rote Windschutzscheibe verfügt. Darüber hinaus ist er mit 2 federunterstützten Shootern, 2 weiteren Shootern, einer Rampe für das Batmobil und 2 Heck-Boostern mit durchsichtig-orangen Elementen ausgestattet.
 - Enthält 6 Minifiguren: Cyborg, Batman, Wonder Woman, Superman und 2 Parademons sowie Steppenwolf als große Figur.
-- Das Batmobil verfügt über ein aufklappbares Minifiguren-Cockpit, 3 Shooter und verstellbare Front- und Heckflügel.
+- Das Zubehör umfasst unter anderem Wonder Womans Schild und die Folienflügel der Parademons.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06WRRJ64N{{</world>}}

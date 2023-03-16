@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42145 Technic Helicóptero de Rescate Airbus H175  Maqueta para Construir  con Rotores Giratorios  Juguete Educativo para Niños'
-date: 2023-03-15 18:38:23
+title: 'LEGO 42145 Technic Helicóptero de Rescate Airbus H175  Aviones de Juguete Grandes  Rotores Giratorios y Motor de Batería  Regalos Originales de Comunión'
+date: 2023-03-16 19:25:55
 image: 'https://m.media-amazon.com/images/I/51IdNGCrKJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99
 comparePrice: 209.99 EUR
-prodname: 'LEGO 42145 Technic Helicóptero de Rescate Airbus H175  Maqueta para Construir  con Rotores Giratorios  Juguete Educativo para Niños'
+prodname: 'LEGO 42145 Technic Helicóptero de Rescate Airbus H175  Aviones de Juguete Grandes  Rotores Giratorios y Motor de Batería  Regalos Originales de Comunión'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QG2V2XZ/?tag=tolees-21'
 descuento: '19.05'
-average: '175.103488372094'
+average: '175.044712643679'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Cuenta con un helicóptero de juguete LEGO de búsqueda y rescate con funciones motorizadas y manuales que ayuda a los niños pequeños a explorar y aprender cómo funciona el gran Airbus H175
-- Este juguete educativo de construcción requiere 6 x pilas LR6 (AA) de 1.5 V (baterías no incluidas) para el helicóptero de rescate, el set también incluye 1 x motor
-- También incluye funciones manuales como una placa cíclica para controlar la inclinación de las palas del rotor, puertas de cabina y pasajeros y capó delantero y trasero que se abre para ver el mecanismo de dirección
-- Las funciones motorizadas de esta maqueta para construir incluyen rotor y rotor de cola giratorios, distintas velocidades, tren de aterrizaje retráctil, cabrestante y un fiel motor giratorio
-- Las maquetas para construir y los juguetes LEGO Technic tienen movimientos y mecanismos realistas que introducen a los pequeños constructores en el mundo de la ingeniería mientras aprenden y juegan
+- Las funciones manuales incluyen una placa cíclica para controlar la inclinación de las palas del rotor, puertas de cabina y de pasajeros, y capó delantero y trasero que se abren para ver el mecanismo de dirección
+- Las funciones motorizadas este helicóptero de juguete para construir incluyen rotor y rotor de cola giratorios, distintas velocidades, tren de aterrizaje retráctil, cabrestante y un fiel motor giratorio
+- Las maquetas para construir y los juguetes de LEGO Technic tienen movimientos y mecanismos realistas que introducen a los niños pequeños en el mundo de la ingeniería y la construcción
+- Ayuda a los niños a explorar y aprender el funcionamiento del gran Airbus H175 con los aviones de juguete de LEGO Technic, este set cuenta con un helicóptero de búsqueda y rescate con funciones motorizadas y manuales
+- Este juguete educativo de construcción requiere 6 x pilas LR6 (AA) de 1,5 V (baterías no incluidas) para el helicóptero de rescate e incluye 1 para el motor
+- Los aviones de juguete de LEGO Technic son fantásticos como regalos originales de comunión para niños y adolescentes o para fiestas infantiles
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG2V2XZ{{</world>}}
