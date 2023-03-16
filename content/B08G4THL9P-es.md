@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Esta pequeña granja de juguete tiene muchas cosas por descubrir, ¡los niños podrán poner una de las mini figuras LEGO dentro de la cabina del tractor!
-- Con sencillas instrucciones de construcción y la experiencia digital de Instructions PLUS, será un gran detalle de cumpleaños para el colegio y un genial regalo para niños de 5 años en adelante amantes de los animales y los vehículos
 - Este set de construcción de LEGO City incluye un tractor de juguete con grandes neumáticos traseros, un cargador frontal, brazo de grúa elevable y cabina, además de 2 divertidas mini figuras y accesorios
+- Con sencillas instrucciones de construcción y la experiencia digital de Instructions PLUS, será un gran detalle de cumpleaños para el colegio y un genial regalo para niños de 5 años en adelante amantes de los animales y los vehículos
+- Esta pequeña granja de juguete tiene muchas cosas por descubrir, ¡los niños podrán poner una de las mini figuras LEGO dentro de la cabina del tractor!
 - Este juguete de granja incluye 2 mini figuras LEGO de un granjero y su hija, un conejo, 2 fardos de heno y una caja de verduras para que los peques disfruten de divertidos juegos de rol
 - Los niños pueden cargar el brazo de grúa elevable del tractor de juguete con los fardos de heno y después poner la calabza, la manzana y las zanahorias en el cargador frontal
 

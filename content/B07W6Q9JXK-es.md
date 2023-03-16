@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Policía: Camión de Transporte del Helicóptero
-- Este juguete de policías contiene un camión de transporte, un helicóptero con cable de lanzamiento, una moto y un quad.
-- Los niños podrán lanzar al aire el helicóptero de la policía con cable de lanzamiento integrado (novedad en enero de 2020). El camión de transporte cuenta con una cabina de conductor con todo tipo de detalle, celda móvil y ordenador.
-- Número de piezas: 317
 - Edad recomendada por el fabricante: 5+
+- Policía: Camión de Transporte del Helicóptero
+- Los niños podrán lanzar al aire el helicóptero de la policía con cable de lanzamiento integrado (novedad en enero de 2020). El camión de transporte cuenta con una cabina de conductor con todo tipo de detalle, celda móvil y ordenador.
+- Este juguete de policías contiene un camión de transporte, un helicóptero con cable de lanzamiento, una moto y un quad.
+- Número de piezas: 317
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W6Q9JXK{{</world>}}
