@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Spain - Warner Bros Interactive Spain Lego Harry Potter Collection Nintendo Switch. Edition: Estándar + Nintendo Switch Online 12 Meses Código de descarga'
-date: 2023-03-12 16:29:03
+date: 2023-03-17 07:21:47
 image: 'https://m.media-amazon.com/images/I/51AYkU7qYpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B09FQQ79K8/?tag=tolees-21'
 descuento: '63.31'
-average: '26.14'
+average: '25.1025'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
