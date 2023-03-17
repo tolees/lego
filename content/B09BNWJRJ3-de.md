@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71760 NINJAGO Jays Donnerdrache EVO  Drachen Spielzeug für Kinder ab 6 Jahren mit Drachenfigur und Schlangen  Blitzdrache'
-date: 2023-03-03 09:04:03
+date: 2023-03-17 17:31:02
 image: 'https://m.media-amazon.com/images/I/51hgslCJcQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNWJRJ3-de LEGO 71760 NINJAGO Jays Donnerdrache EVO Drachen Spielzeug...'
 sku: 'B09BNWJRJ3-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 13.99 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 13.99
+price: 14.99
 comparePrice: 19.99 EUR
 prodname: 'LEGO 71760 NINJAGO Jays Donnerdrache EVO  Drachen Spielzeug für Kinder ab 6 Jahren mit Drachenfigur und Schlangen  Blitzdrache'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWJRJ3/?tag=tolees0ca-21'
-descuento: '30.02'
-average: '13.7101265822786'
+descuento: '25.01'
+average: '13.7261250000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
