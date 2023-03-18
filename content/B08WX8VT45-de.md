@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41671 LEGO Friends Andreas Schwimmstar-Würfel'
-date: 2023-03-07 15:32:31
+date: 2023-03-18 11:25:14
 image: 'https://m.media-amazon.com/images/I/51axdZb5WtS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9
-comparePrice: 13.01 EUR
+comparePrice: 12.99 EUR
 prodname: 'LEGO 41671 LEGO Friends Andreas Schwimmstar-Würfel'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WX8VT45/?tag=tolees0ca-21'
-descuento: '23.90'
-average: '8.25571428571429'
+descuento: '23.79'
+average: '8.33045454545455'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Vom Hersteller empfohlenes Alter: 6+
 - Andreas Schwimmstar-Würfel
 - Anzahl der Teile: 59
 - Zum Zubehör dieses LEGO Friends Kinderspielzeug gehören ein Stuhl, eine Trophäe, ein Donut und eine Banane - alles in der optimalen Größe für kleine Finger
 - Der Spielwürfel enthält außerdem einen Bereich zum Entspannen für die LEGO Friends Mini Puppe Andrea mit ihrem Pudel, der in 1 von 4 zufälligen Farben dabei ist
-- Vom Hersteller empfohlenes Alter: 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08WX8VT45{{</world>}}
