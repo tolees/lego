@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO Worlds  Nintendo Switch '
-date: 2023-03-17 17:11:11
+date: 2023-03-19 07:05:56
 image: 'https://m.media-amazon.com/images/I/5181dz63XXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21'
 descuento: '57.47'
-average: '21.1480392156864'
+average: '21.1076699029127'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Producto útil y práctico
 - Hecho de material de calidad que es lo suficientemente resistente para un uso prolongado
 - Diseño elegante
+- Producto útil y práctico
 - Producto que combina tradición e innovación
 
 [🛒 Buy it!!]({{< param buyurl >}})
