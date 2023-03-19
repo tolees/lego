@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76911 Speed Champions 007 Aston Martin DB5 James Bond Replica Toy Car Model Kit for Kids with Minifigure  No Time to Die Movie Collectible Set'
-date: 2023-03-17 17:26:29
+date: 2023-03-19 04:57:56
 image: 'https://m.media-amazon.com/images/I/51vzDo32wFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFWT3G2/?tag=tolees0a-21'
 descuento: '20.01'
-average: '16.786'
+average: '16.6533333333333'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Includes a James Bond LEGO minifigure in a cool black suit inspired by the No Time To Die movie, plus a fun toy wrench accessory
+- Features a replica car model of James Bonds iconic gray Aston Martin with molded silver-spoke alloy wheel inserts and 4 license plates
+- This iconic car model kit makes a great birthday, Christmas or any occasion gift for kids aged 8+, car enthusiasts and fans of James Bond movies
 - Comes with interactive LEGO building instructions app for smartphones and tablets, so kids can view the model from all angles as they build
 - Kids, car enthuasts and fans can relive epic races; the car model also makes an iconic display piece as part of a LEGO speed champions collection
-- This iconic car model kit makes a great birthday, Christmas or any occasion gift for kids aged 8+, car enthusiasts and fans of James Bond movies
-- Features a replica car model of James Bonds iconic gray Aston Martin with molded silver-spoke alloy wheel inserts and 4 license plates
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFWT3G2{{</world>}}
