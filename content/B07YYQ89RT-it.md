@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42111 Technic Dom s Dodge Charger  Macchina Giocattolo dal Film Fast and Furious  Set da Collezione Iconico Modellino Auto da Corsa  Idee Regalo'
-date: 2023-02-24 08:26:14
+date: 2023-03-21 20:05:25
 image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07YYQ89RT-it LEGO 42111 Technic Dom s Dodge Charger Macchina Giocattolo...'
 sku: 'B07YYQ89RT-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','Set di costruzioni giocattolo','lego','🇮🇹', ]
-actualPrice: 87.99 EUR
+actualPrice: 97.99 EUR
 currency: EUR
-price: 87.99
+price: 97.99
 comparePrice: 119.99 EUR
 prodname: 'LEGO 42111 Technic Dom s Dodge Charger  Macchina Giocattolo dal Film Fast and Furious  Set da Collezione Iconico Modellino Auto da Corsa  Idee Regalo'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07YYQ89RT/?tag=tolees00-21'
-descuento: '26.67'
-average: '97.1190505359876'
+descuento: '18.33'
+average: '97.4070684523808'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
