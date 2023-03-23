@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76906 Speed Champion 1970 Ferrari 512 M  Coche de Carreras de Juguete para Niños  Deportivo Rojo con Mini Figura de Conductor  Colección 2022'
-date: 2023-02-22 20:31:16
+date: 2023-03-23 09:36:51
 image: 'https://m.media-amazon.com/images/I/51WyyibXwlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNWR3VR-es LEGO 76906 Speed Champion 1970 Ferrari 512 M Coche de...'
 sku: 'B09BNWR3VR-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 17.96 EUR
+actualPrice: 20.99 EUR
 currency: EUR
-price: 17.96
+price: 20.99
 comparePrice: 24.99 EUR
 prodname: 'LEGO 76906 Speed Champion 1970 Ferrari 512 M  Coche de Carreras de Juguete para Niños  Deportivo Rojo con Mini Figura de Conductor  Colección 2022'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNWR3VR/?tag=tolees-21'
-descuento: '28.13'
-average: '17.6641860465116'
+descuento: '16.01'
+average: '17.9337777777778'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - ¡Lleno de detalles! Con espacio para una mini figura LEGO de conductor y características auténticas
-- Explora el impresionante diseño aerodinámico del deportivo de juguete mientras lo recreas pieza por pieza y después exhibe tu obra maestra para admirarla
-- Haz zoom y gira el modelo en todos sus ángulos mientras lo construyes con la aplicación gratuita Instrucciones de Construcción LEGO, disponible en teléfonos inteligentes y tablets
 - Cuenta con una réplica de coche de juguete LEGO del Ferrari 512 M de 1970 y una mini figura LEGO piloto de carreras completa con traje Ferrari, peluca y casco protector
+- Explora el impresionante diseño aerodinámico del deportivo de juguete mientras lo recreas pieza por pieza y después exhibe tu obra maestra para admirarla
 - Los juegos de construcción LEGO Speed Champions brindan a niños y adultos la oportunidad de crear los vehículos más famosos del mundo
 - ¡Este coche de carreras de Ferrari es un regalo perfecto de cumpleaños (o en cualquier ocasión) para niños y niñas que aman los coches deportivos de juguete!
+- Haz zoom y gira el modelo en todos sus ángulos mientras lo construyes con la aplicación gratuita Instrucciones de Construcción LEGO, disponible en teléfonos inteligentes y tablets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNWR3VR{{</world>}}
