@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Star Wars 75192 Millennium Falcon Konstruktionsspielzeug'
-date: 2023-03-17 18:41:48
+date: 2023-03-23 19:27:17
 image: 'https://m.media-amazon.com/images/I/510Jric42uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B075PT2JH9/?tag=tolees0ca-21'
 descuento: '17.78'
-average: '842.94351629503'
+average: '842.258994889271'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
