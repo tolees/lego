@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ce kit de maquette de Poudlard comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets et le bureau de Dumbledore
-- Ce jouet LEGO Harry Potter à construire comprend 8 minifigurines : Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore et Madame Maxime
 - La tour de lhorloge de Poudlard
+- Ce kit de maquette de Poudlard comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets et le bureau de Dumbledore
 - Âge recommandé par le fabricant: 9+
+- Ce jouet LEGO Harry Potter à construire comprend 8 minifigurines : Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore et Madame Maxime
 - Nombre de pièces: 922
 
 [🛒 Buy it!!]({{< param buyurl >}})

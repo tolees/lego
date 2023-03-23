@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 10246
 - LEGO
+- 10246
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00RQUG4CK{{</world>}}
