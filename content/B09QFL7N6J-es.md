@@ -30,10 +30,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Este set reconfigurable pone toda la acción de las películas de la saga Infinity de Marvel en manos de los niños, podrán reconstruirlo y reorganizarlo como quieran y después exhibirlo en su habitación con orgullo
 - Los niños podrán descubrir el cuartel general de Tony Stark con este juguete de construcción de Marvel que cuenta con un área de reparaciones y el salón de armaduras donde se almacenan sus trajes de alta tecnología
-- Incluye instrucciones digitales disponibles en la app gratuita Instrucciones de Montaje LEGO, que permiten a los peques rotar, hacer zoom y visualizar el modelo mientras lo construyen
 - El set incluye 5 mini figuras LEGO de Tony Stark, Pepper Potts, Nick Fury, Máquina de Guerra y Látigo Negro, además de 3 alucinantes trajes de batalla: el MK3, MK25 y MK85
 - Este juguete LEGO Marvel para construir es un gran regalo de cumpleaños para niños de 7 años en adelante que aman el universo Marvel
 - Los niños podrán utilizar la plataforma de juguete para cambiar el traje de Tony Stark (Iron Man) y realizar reparaciones en el taller con los accesorios incluidos tras épicas batallas
+- Incluye instrucciones digitales disponibles en la app gratuita Instrucciones de Montaje LEGO, que permiten a los peques rotar, hacer zoom y visualizar el modelo mientras lo construyen
 - También cuenta con un coche deportivo de juguete con un mapa de Stark Expo, un brazo robot asistente, herramientas para el taller, 3 pantallas holográficas y una plataforma para cambiar la armería
 
 [🛒 Buy it!!]({{< param buyurl >}})
