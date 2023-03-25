@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Modell-Spielzeug mit Minifiguren  Zauberhaftes Geschenk für Mädchen  Jungen und Kinder ab 9 Jahren'
-date: 2023-03-24 19:46:58
+date: 2023-03-25 20:02:01
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '76.7801688311688'
+average: '76.7778469520103'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75217 Star Wars TM Imperial Conveyex Transport'
-date: 2023-03-23 19:18:55
+date: 2023-03-25 19:47:10
 image: 'https://m.media-amazon.com/images/I/51n1eIY+YdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0792QK8GK/?tag=tolees0a-21'
 descuento: '18.75'
-average: '128.157960725079'
+average: '128.160723981904'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Number of pieces: 622
-- Imperial Conveyex Transport
-- Manufacturer recommended age: 8-14
-- Imperial Conveyex Transport features an engine section with opening front revealing a wraparound tank track, opening driver’s compartment and a weapon store
 - Detachable, wheeled cargo wagon features opening sides and top hatch, a movable rotating gun turret with 2 stud shooters, a hitch at the back and studs on the side for the Range Troopers to walk on. Inside, there’s an access ladder leading to the top hatch and space for the 4 included coaxium containers
+- Imperial Conveyex Transport
+- Number of pieces: 622
+- Imperial Conveyex Transport features an engine section with opening front revealing a wraparound tank track, opening driver’s compartment and a weapon store
+- Manufacturer recommended age: 8-14
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0792QK8GK{{</world>}}

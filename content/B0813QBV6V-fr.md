@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants 9 Ans'
-date: 2023-03-24 19:59:05
+date: 2023-03-25 20:20:59
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813QBV6V/?tag=tolees0d-21'
 descuento: '23.09'
-average: '85.9485606060607'
+average: '85.9371500630518'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
 - Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
-- Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
 - Ce set LEGO est exclusif à Amazon - disponible uniquement sur Amazon ou chez certains revendeurs.
+- Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
 - Ce jouet de château Harry Potter représente le cadeau parfait pour les enfants de 9 ans et plus, qui sont fans du monde de la magie, et des films Harry Potter
 - Comprend 8 minifigurines : Harry Potter, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
 
