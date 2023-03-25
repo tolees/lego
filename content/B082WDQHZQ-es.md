@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Este set LEGO Super Mario es un gran regalo original de cumpleaños para niños y niñas de 6 años en adelante que aman los juegos interactivos y los videojuegos
+- Tu peque podrá ayudar a LEGO Mario a recoger monedas virtuales y saltar desde el tubo de inicio hasta el poste de meta, tocando los 7 ladrillos LEGO interactivos
+- Una experiencia única: incluye un altavoz que reproduce sonidos icónicos y música del videojuego e instrucciones de construcción digitales en la app gratuita LEGO Super Mario
 - Esta experiencia de juego de construcción incluye a Goomba y Bowsy, además de 7 ladrillos de acción que forman un recorrido e interactúan con la mini figura LEGO Mario (incluida)
 - Forma equipo con tu personaje favorito en el mundo real y aprende nuevas maneras de jugar con este increíble set de construcción interactivo LEGO Super Mario
+- Este set LEGO Super Mario es un gran regalo original de cumpleaños para niños y niñas de 6 años en adelante que aman los juegos interactivos y los videojuegos
 - La mini figura LEGO Mario funciona con 2 pilas AAA (no incluidas) y muestra más de 100 reacciones al movimiento con sus sensores de color y pantallas LCD en ojos, boca y vientre
 - Reorganiza el pack inicial a tu gusto y combínalo con otros sets de expansión LEGO Super Mario, ¡crearás desafiantes niveles y juegos interactivos con tus amigos!
-- Una experiencia única: incluye un altavoz que reproduce sonidos icónicos y música del videojuego e instrucciones de construcción digitales en la app gratuita LEGO Super Mario
-- Tu peque podrá ayudar a LEGO Mario a recoger monedas virtuales y saltar desde el tubo de inicio hasta el poste de meta, tocando los 7 ladrillos LEGO interactivos
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082WDQHZQ{{</world>}}
