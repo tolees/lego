@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Aloy has a bow and a brick-built spear, and the Watcher figure comes with a choice of blue, yellow or red eyes for more fun
-- A delightful 1,222-piece LEGO set for adults that makes a great Christmas gift treat for yourself or a Horizon gift idea for the gaming fan in your life
+- The display stand comes with a familiar landscape: a brick-built birch tree, tall grass and a rusty stoplight with a vine wrapped around it
+- Add the LEGO minifigure of Horizon character Aloy and a Watcher LEGO figure to complete the impressive home décor centrepiece
 - This LEGO collectible model kit for adults to build includes a booklet featuring step-by-step building instructions plus a story on the set creation process
 - Features a LEGO brick model of a Tallneck, the most iconic Horizon machine in the Forbidden West with authentic Tallneck features
 - The disc-shaped head, antennae protruding from the neck, tail-like structures and long legs of a Tallneck are replicated in LEGO style
-- Add the LEGO minifigure of Horizon character Aloy and a Watcher LEGO figure to complete the impressive home décor centrepiece
-- The display stand comes with a familiar landscape: a brick-built birch tree, tall grass and a rusty stoplight with a vine wrapped around it
+- Aloy has a bow and a brick-built spear, and the Watcher figure comes with a choice of blue, yellow or red eyes for more fun
+- A delightful 1,222-piece LEGO set for adults that makes a great Christmas gift treat for yourself or a Horizon gift idea for the gaming fan in your life
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNXXPPT{{</world>}}
