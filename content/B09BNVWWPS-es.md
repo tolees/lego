@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41946 Dots Dots Extra: Edición 6'
-date: 2023-03-23 10:07:37
+date: 2023-03-26 09:45:16
 image: 'https://m.media-amazon.com/images/I/51pC6pEObgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNVWWPS/?tag=tolees-21'
 descuento: '49.87'
-average: '2.952'
+average: '2.79333333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - La bolsa DOTS Extra incluye 118 coloridas piezas azules, amarillas, rosas y moradas, entre ellas piezas transparentes, y 6 amuletos en forma de corazón y relámpago
-- Edad recomendada por el fabricante: 6+
-- Los peques podrán desarrollar sus habilidades creativas utilizando los DOTS adicionales para personalizar pulseras infantiles, adornos para mochila, objetos de decoración y otros sets LEGO (a la venta por separado)
-- Número de piezas: 118
 - DOTS Extra: Edición 6
+- Los peques podrán desarrollar sus habilidades creativas utilizando los DOTS adicionales para personalizar pulseras infantiles, adornos para mochila, objetos de decoración y otros sets LEGO (a la venta por separado)
+- Edad recomendada por el fabricante: 6+
+- Número de piezas: 118
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNVWWPS{{</world>}}
