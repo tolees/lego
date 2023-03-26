@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ayuda a los niños a explorar y aprender el funcionamiento del gran Airbus H175 con los aviones de juguete de LEGO Technic, este set cuenta con un helicóptero de búsqueda y rescate con funciones motorizadas y manuales
-- Las maquetas para construir y los juguetes de LEGO Technic tienen movimientos y mecanismos realistas que introducen a los niños pequeños en el mundo de la ingeniería y la construcción
-- Este juguete educativo de construcción requiere 6 x pilas LR6 (AA) de 1,5 V (baterías no incluidas) para el helicóptero de rescate e incluye 1 para el motor
-- Los aviones de juguete de LEGO Technic son fantásticos como regalos originales de comunión para niños y adolescentes o para fiestas infantiles
-- Las funciones manuales incluyen una placa cíclica para controlar la inclinación de las palas del rotor, puertas de cabina y de pasajeros, y capó delantero y trasero que se abren para ver el mecanismo de dirección
 - Las funciones motorizadas este helicóptero de juguete para construir incluyen rotor y rotor de cola giratorios, distintas velocidades, tren de aterrizaje retráctil, cabrestante y un fiel motor giratorio
+- Las maquetas para construir y los juguetes de LEGO Technic tienen movimientos y mecanismos realistas que introducen a los niños pequeños en el mundo de la ingeniería y la construcción
+- Los aviones de juguete de LEGO Technic son fantásticos como regalos originales de comunión para niños y adolescentes o para fiestas infantiles
+- Ayuda a los niños a explorar y aprender el funcionamiento del gran Airbus H175 con los aviones de juguete de LEGO Technic, este set cuenta con un helicóptero de búsqueda y rescate con funciones motorizadas y manuales
+- Las funciones manuales incluyen una placa cíclica para controlar la inclinación de las palas del rotor, puertas de cabina y de pasajeros, y capó delantero y trasero que se abren para ver el mecanismo de dirección
+- Este juguete educativo de construcción requiere 6 x pilas LR6 (AA) de 1,5 V (baterías no incluidas) para el helicóptero de rescate e incluye 1 para el motor
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG2V2XZ{{</world>}}

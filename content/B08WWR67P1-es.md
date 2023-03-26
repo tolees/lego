@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 8+
 - Incluye las figuras LEGO de 2 icónicos personajes de LEGO Super Mario: 2 Reznors, un Grrrol que se balancea y un Toad Azul, además de un bloque ?
+- Edad recomendada por el fabricante: 8+
 - Los peques podrán hacer girar las plataformas colocando la figura LEGO Mario y/o LEGO Luigi (no incluidas) o utilizar el pilar con espinas para derribar a los enemigos
-- Número de piezas: 862
 - Set de Expansión: Derribo de los Reznors
+- Número de piezas: 862
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08WWR67P1{{</world>}}

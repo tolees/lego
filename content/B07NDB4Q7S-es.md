@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Incluye 7 mini figuras LEGO de icónicos personajes: Finn y su bláster, Chewbacca con una ballesta que dispara, Lando Calrissian y bláster, C-3PO, Boolio, D-O y R2-D2
 - Podrás jugar, explorar y crear historias con esta nave estelar de Star Wars con sofá, mesa de holojuego Dejarik, cocina, litera y herramientas para reparar el hiperimpulsor
+- Explora una galaxia muy, muy lejana con este juego de construcción para niños de 9 años en adelante de LEGO Star Wars y construye el famoso Halcón Milenario
 - Los peques podrán interpretar historias de la película Star Wars: El Ascenso de Skywalker con este Halcón Milenario de ladrillos LEGO, ¡queda genial expuesto en la habitación!
 - Este coleccionable de Star Wars incluye un área de carga con 2 contenedor, computadora de navegación con silla giratoria, compartimento de contrabando oculto y un hiperimpulsor
-- Incluye 7 mini figuras LEGO de icónicos personajes: Finn y su bláster, Chewbacca con una ballesta que dispara, Lando Calrissian y bláster, C-3PO, Boolio, D-O y R2-D2
 - Esta maqueta para construir cuenta con torretas giratorias superiores e inferiores (espacio para 2 mini figuras), 2 cañones automáticos, una rampa descendente y una cabina abatible
-- Explora una galaxia muy, muy lejana con este juego de construcción para niños de 9 años en adelante de LEGO Star Wars y construye el famoso Halcón Milenario
 - Descubre toda la gama de juguetes de construcción de LEGO Star Wars para conocer la increíble variedad de regalos de Star Wars que encantarán a niños de todas las edades
 
 [🛒 Check the deal!!]({{< param buyurl >}})
