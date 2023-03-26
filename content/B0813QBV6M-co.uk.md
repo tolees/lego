@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
 - Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
-- Features details like the Executive Residence, West Wing, East Wing and connecting colonnades, the Jacqueline Kennedy Garden and Rose Garden
 - Includes clear instructions so even LEGO newcomers can build with confidence, and a coffee-table-style booklet telling The White House story
+- Features details like the Executive Residence, West Wing, East Wing and connecting colonnades, the Jacqueline Kennedy Garden and Rose Garden
 - The Architecture display model of The White House beautifully captures the neoclassical design and splendour of this world-famous residence
+- The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6M{{</world>}}

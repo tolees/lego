@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Imperial Conveyex Transport
-- Imperial Conveyex Transport features an engine section with opening front revealing a wraparound tank track, opening driver’s compartment and a weapon store
 - Detachable, wheeled cargo wagon features opening sides and top hatch, a movable rotating gun turret with 2 stud shooters, a hitch at the back and studs on the side for the Range Troopers to walk on. Inside, there’s an access ladder leading to the top hatch and space for the 4 included coaxium containers
+- Imperial Conveyex Transport features an engine section with opening front revealing a wraparound tank track, opening driver’s compartment and a weapon store
 - Number of pieces: 622
+- Imperial Conveyex Transport
 - Manufacturer recommended age: 8-14
 
 [🛒 Buy it now!!]({{< param buyurl >}})

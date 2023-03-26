@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes LEGO Harry Potter, Hermione Granger, Ron Weasley, Luna Lovegood, Neville Longbottom, Draco Malfoy, Lavender Brown and Professor Slughorn minifgures
-- This product is an Amazon Exclusive LEGO set – only available on Amazon or on selected retailers
-- Kids can build the multi-level LEGO Hogwarts Castle Astronomy Tower and explore all it has to offer while recreating scenes from the Harry Potter movies
 - Great for role play; kids can search the sky with the telescope, check the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
 - Also includes a toy Hedwig the owl figure, plus accessories like letters, wands, book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
-- This LEGO Harry Potter Hogwarts Castle buildable toy makes a magical birthday gift for boys and girls aged 9+, and all kids who love the Wizarding World adventures
 - This LEGO Harry Potter building toy for kids aged 9+ features a Hogwarts castle Astronomy Tower model, 8 minifigures and loads of magical fun
+- This product is an Amazon Exclusive LEGO set – only available on Amazon or on selected retailers
+- Kids can build the multi-level LEGO Hogwarts Castle Astronomy Tower and explore all it has to offer while recreating scenes from the Harry Potter movies
+- This LEGO Harry Potter Hogwarts Castle buildable toy makes a magical birthday gift for boys and girls aged 9+, and all kids who love the Wizarding World adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6V{{</world>}}
