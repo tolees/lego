@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Multitud de personajes heroicos
 - Utiliza nuevas armaduras y coches para derrotar a los alienígenas
 - Desbloquea y juega con más de 100 personajes
+- Multitud de personajes heroicos
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07MKC93MX{{</world>}}
