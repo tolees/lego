@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60299 City Stuntz Torneo Acrobático'
-date: 2023-03-23 07:12:52
+date: 2023-03-26 10:35:20
 image: 'https://m.media-amazon.com/images/I/4138lUR8Z2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W8H2V6N/?tag=tolees-21'
 descuento: '39.97'
-average: '15.0238461538462'
+average: '14.9118518518519'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Edad recomendada por el fabricante: 5+
-- Los peques podrán cambiar la altura del anillo de fuego para aumentar la dificultad y longitud del salto de las motos acrobáticas con rueda de inercia con motor de fricción
-- Torneo Acrobático
-- El set incluye 2 mini figuras LEGO, y una de ellas es nada menos que el personaje de la policía de LEGO City y de la serie de TV Duke DeTain, convertido en piloto de acrobacias LEGO
 - Número de piezas: 73
+- Torneo Acrobático
+- Los peques podrán cambiar la altura del anillo de fuego para aumentar la dificultad y longitud del salto de las motos acrobáticas con rueda de inercia con motor de fricción
+- El set incluye 2 mini figuras LEGO, y una de ellas es nada menos que el personaje de la policía de LEGO City y de la serie de TV Duke DeTain, convertido en piloto de acrobacias LEGO
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08W8H2V6N{{</world>}}
