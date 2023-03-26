@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - La Lego Película 2: El Videojuego'
-date: 2023-03-25 09:06:46
+date: 2023-03-26 17:42:10
 image: 'https://m.media-amazon.com/images/I/41XQHNen6JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07MKC93MX/?tag=tolees-21'
 descuento: '67.17'
-average: '13.9328571428571'
+average: '13.215'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Multitud de personajes heroicos
-- Desbloquea y juega con más de 100 personajes
 - Utiliza nuevas armaduras y coches para derrotar a los alienígenas
+- Desbloquea y juega con más de 100 personajes
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07MKC93MX{{</world>}}
