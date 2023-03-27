@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Este coche de juguete LEGO de estilo F1 para niños de 4+ años incluye un ladrillo inicial LEGO para que los peques puedan comenzar y una guía de construcción con fotos
 - Los peques podrán dirigirse al circuito para vivir emocionantes aventuras, salir a toda velocidad desde la salida y ayudar al mecánico en los boxes
-- Este juguete para preescolares incluye un martillo, una llave inglesa, un casco y un trofeo LEGO para el ganador para disfrutar de un juego repleto de acción y hacer reparaciones en boxes
-- Los sets de juego LEGO City Great Vehicles son un gran regalo de cumpleaños o para cualquier ocasión para los peques a quienes les gustan los coches de juguete
 - Incluye 2 mini figuras LEGO: la minifigura de un piloto de carreras con casco, y un mecánico con casco de seguridad y herramientas
 - Este set de construcción de coche de carreras incluye un coche LEGO de estilo F1, además de herramientas para poder reparar rápidamente el coche y un trofeo para el ganador
+- Este coche de juguete LEGO de estilo F1 para niños de 4+ años incluye un ladrillo inicial LEGO para que los peques puedan comenzar y una guía de construcción con fotos
+- Los sets de juego LEGO City Great Vehicles son un gran regalo de cumpleaños o para cualquier ocasión para los peques a quienes les gustan los coches de juguete
+- Este juguete para preescolares incluye un martillo, una llave inglesa, un casco y un trofeo LEGO para el ganador para disfrutar de un juego repleto de acción y hacer reparaciones en boxes
 - Las instrucciones de construcción digitales, incluidas en la app gratuita Instrucciones de Montaje LEGO, guiarán a los niños paso a paso
 
 [🛒 Check the deal!!]({{< param buyurl >}})

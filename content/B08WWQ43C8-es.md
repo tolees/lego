@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Los jugadores podrán ganar monedas digitales extra haciendo que LEGO Mario salte como una rana, y se activan los sonidos de chapoteo cuando la figura cae al suelo
-- El pack potenciador de Mario Rana también tiene lirios de agua y elementos «acuáticos» azules para permitir una creatividad aún mayor de los peques
-- Este set es un regalo ideal para peques que tienen el pack inicial LEGO Super Mario 71360 o pack inicial Luigi 71387, necesarios para jugar
-- Los sets de juego de LEGO Super Mario traen a personajes emblemáticos al mundo real y permiten que los peques amplíen y reconstruyan para crear sus propios niveles únicos
-- Hay disponibles otros packs potenciadores de LEGO Super Mario para usar junto a los packs iniciales y sets de expansión, como el Pack Potenciador: Mario Abeja (71393)
-- Cuenta con un disfraz interactivo para las figuras LEGO Mario o Luigi (no incluidas) que aporta una diversión saltarina al juguete de construcción de LEGO Mario
 - Las instrucciones ilustradas o la app LEGO Super Mario gratuita ofrecen instrucciones de construcción e inspiración para construir y jugar, y mucho más
+- El pack potenciador de Mario Rana también tiene lirios de agua y elementos «acuáticos» azules para permitir una creatividad aún mayor de los peques
+- Cuenta con un disfraz interactivo para las figuras LEGO Mario o Luigi (no incluidas) que aporta una diversión saltarina al juguete de construcción de LEGO Mario
+- Hay disponibles otros packs potenciadores de LEGO Super Mario para usar junto a los packs iniciales y sets de expansión, como el Pack Potenciador: Mario Abeja (71393)
+- Este set es un regalo ideal para peques que tienen el pack inicial LEGO Super Mario 71360 o pack inicial Luigi 71387, necesarios para jugar
+- Los jugadores podrán ganar monedas digitales extra haciendo que LEGO Mario salte como una rana, y se activan los sonidos de chapoteo cuando la figura cae al suelo
+- Los sets de juego de LEGO Super Mario traen a personajes emblemáticos al mundo real y permiten que los peques amplíen y reconstruyan para crear sus propios niveles únicos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WWQ43C8{{</world>}}

@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Número de piezas: 449
 - Destructor de Roca
 - Edad recomendada por el fabricante: 8+
-- Los peques podrán construir el avión con ladrillos LEGO y disparar rápidamente 8 misiles a los enemigos desde el frente giratorio, ¡es hora de rescatar a un ninja de la prisión!
 - Este juego de construcción incluye 4 mini figuras LEGO NINJAGO: Lloyd, Kai Legacy, Cole y el temido Eyezor, ¡perfectas para recrear épicas batallas e imaginativos juegos de rol!
+- Los peques podrán construir el avión con ladrillos LEGO y disparar rápidamente 8 misiles a los enemigos desde el frente giratorio, ¡es hora de rescatar a un ninja de la prisión!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08G4HBJ1J{{</world>}}

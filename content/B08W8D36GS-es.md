@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Huida del Dinosaurio Stygimoloch
 - Edad recomendada por el fabricante: 4+
-- Incluye 3 minifiguras: Ben, Brooklynn y Claire Dearing, además de figuras de juguete de un Stygimoloch y de Bumpy, la cría de dinosaurio Ankylosaurus
 - Número de piezas: 129
+- Incluye 3 minifiguras: Ben, Brooklynn y Claire Dearing, además de figuras de juguete de un Stygimoloch y de Bumpy, la cría de dinosaurio Ankylosaurus
 - La cabaña del árbol/puesto de observación de juguete construible está equipada con cama, lavabo, inodoro, escalera y tobogán para Bumpy, la cría de dinosaurio
+- Huida del Dinosaurio Stygimoloch
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08W8D36GS{{</world>}}
