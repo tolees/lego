@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75333 Star Wars Obi-Wan Kenobis Jedi Starfighter  Spielzeug zum Bauen mit Taun We  Droidenfigur und Lichtschwert  Angriff der Klonkrieger Set'
-date: 2023-03-10 13:40:30
+date: 2023-03-27 12:49:16
 image: 'https://m.media-amazon.com/images/I/51MzTTj5mgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFXRYYH-de LEGO 75333 Star Wars Obi-Wan Kenobis Jedi Starfighter...'
 sku: 'B09QFXRYYH-de'
 tags: [ 'Bauen & Konstruktion Spielzeugfiguren','Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 28.61 EUR
+actualPrice: 27.9 EUR
 currency: EUR
-price: 28.61
+price: 27.9
 comparePrice: 34.99 EUR
 prodname: 'LEGO 75333 Star Wars Obi-Wan Kenobis Jedi Starfighter  Spielzeug zum Bauen mit Taun We  Droidenfigur und Lichtschwert  Angriff der Klonkrieger Set'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFXRYYH/?tag=tolees0ca-21'
-descuento: '18.23'
-average: '23.9903174603176'
+descuento: '20.26'
+average: '24.0514062500001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The Star Wars buildable starfighter Toy features 2 stud shooters, retractable landing gear and lightsaber storage clips
-- Includes 2 LEGO Star Wars minifigures: Obi-Wan Kenobi with a lightsaber and, for the first time, Taun We, plus an R4-P17 astromech droid figure
-- There is also a minifigure cockpit for Obi-Wan and an attachment point on the wing for the R4-P17 Star Wars droid figures head
-- Kids role-play traveling to Kamino with Obi-Wan and astromech droid R4-P17 to meet Taun We: it could change the course of the Clone Wars!
-- Thrill Star Wars: Attack of the Clones fans with a buildable toy of Obi-Wan Kenobi’s Jedi Starfighter with iconic minifigures and accessories
-- Kids can learn as they build with the free LEGO Building Instructions app that allows users to view, zoom and rotate the model as they build
-- For Star Wars: Attack of the Clones fans aged 7+ years old, this Star Wars buildable toy makes a great birthday Christmas or gift
+- Begeistere Fans von "Star Wars: Angriff der Klonkrieger" mit einem baubaren Spielzeug von Obi-Wan Kenobis Jedi Starfighter mit legendären Minifiguren und Zubehör
+- Dieses Star Wars Bauspielzeug ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten für "Star Wars: Angriff der Klonkrieger" Fans ab 7 Jahren
+- Die Rollenspiele der Kinder, die mit Obi-Wan und dem Astromech-Droiden R4-P17 nach Kamino reisen, um sich mit Taun We zu treffen, können den Verlauf der Klonkriege verändern
+- Enthält 2 LEGO Star Wars Minifiguren: Obi-Wan Kenobi mit einem Lichtschwert und zum ersten Mal Taun We sowie eine R4-P17 Astromech-Droidenfigur
+- Das baubare Star Wars Starfighter-Spielzeug verfügt über 2 Shooter, ein einziehbares Fahrwerk und Clips zur Aufbewahrung von Lichtschwertern
+- Es gibt auch ein Minifigur-Cockpit für Obi-Wan und einen Befestigungspunkt am Flügel für den Kopf der Star Wars Droidenfigur R4-P17
+- Kinder können beim Bauen lernen und mit der kostenlosen LEGO Building Instructions App kann das Modell während des Bauens angezeigt, vergrößert und gedreht werden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFXRYYH{{</world>}}

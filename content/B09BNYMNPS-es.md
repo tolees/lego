@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71402 Super Mario Packs de Personajes: Edición 4'
-date: 2023-03-26 09:45:54
+date: 2023-03-27 12:10:23
 image: 'https://m.media-amazon.com/images/I/51z75EHE7LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNYMNPS/?tag=tolees-21'
 descuento: '49.87'
-average: '2.82190476190475'
+average: '2.78454545454544'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Cada pack contiene un personaje sorpresa para construir con una etiqueta de acción, así como un pequeño modelo que se puede emplear como base o para mejorar la experiencia de juego
+- Es necesario uno de los packs iniciales para jugar, que incluyen las figuras de Super Mario: el set LEGO Mario, 71360 o el set LEGO Luigi, 71387
 - Edad recomendada por el fabricante: 6+
 - Número de piezas: 29
-- Es necesario uno de los packs iniciales para jugar, que incluyen las figuras de Super Mario: el set LEGO Mario, 71360 o el set LEGO Luigi, 71387
 - Packs de Personajes: Edición 4
 
 [🛒 Check the deal!!]({{< param buyurl >}})

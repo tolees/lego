@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- producto 2: Este realista set de aventuras de LEGO Super Mario Luigi Pack Inicial incluye una figura de LEGO Luigi para una diversión interactiva en familia o en solitario
-- producto 2: El altavoz de Luigi toca música y sonidos del videojuego de Mario Bros mientras coleccionas monedas digitales con todos los desafíos
-- producto 2: La figura de LEGO Luigi tiene un sensor en color y una pantalla LCD para mostrar diferentes reacciones al movimiento y a las piezas durante el camino
-- producto 1: Esta experiencia de juego de construcción incluye a Goomba y Bowsy, además de 7 ladrillos de acción que forman un recorrido e interactúan con la mini figura LEGO Mario (incluida)
-- producto 1: La mini figura LEGO Mario funciona con 2 pilas AAA (no incluidas) y muestra más de 100 reacciones al movimiento con sus sensores de color y pantallas LCD en ojos, boca y torso
-- producto 2: Incluye las figuras LEGO de Pink Yoshi, Boom Boom y Goomba añadiendo acción desde el inicio hasta el final - mira como la figura de LEGO Luigi reacciona
-- producto 1: Tu peque podrá ayudar a LEGO Mario a recoger monedas virtuales y saltar desde el tubo de inicio hasta el poste de meta, tocando los 7 ladrillos LEGO interactivos
 - producto 1: Haz equipo con tu personaje favorito en el mundo real y aprende nuevas maneras de jugar con este increíble set de construcción interactivo LEGO Super Mario
+- producto 2: El altavoz de Luigi toca música y sonidos del videojuego de Mario Bros mientras coleccionas monedas digitales con todos los desafíos
+- producto 1: Tu peque podrá ayudar a LEGO Mario a recoger monedas virtuales y saltar desde el tubo de inicio hasta el poste de meta, tocando los 7 ladrillos LEGO interactivos
+- producto 2: Este realista set de aventuras de LEGO Super Mario Luigi Pack Inicial incluye una figura de LEGO Luigi para una diversión interactiva en familia o en solitario
+- producto 2: Incluye las figuras LEGO de Pink Yoshi, Boom Boom y Goomba añadiendo acción desde el inicio hasta el final - mira como la figura de LEGO Luigi reacciona
+- producto 1: La mini figura LEGO Mario funciona con 2 pilas AAA (no incluidas) y muestra más de 100 reacciones al movimiento con sus sensores de color y pantallas LCD en ojos, boca y torso
+- producto 1: Esta experiencia de juego de construcción incluye a Goomba y Bowsy, además de 7 ladrillos de acción que forman un recorrido e interactúan con la mini figura LEGO Mario (incluida)
+- producto 2: La figura de LEGO Luigi tiene un sensor en color y una pantalla LCD para mostrar diferentes reacciones al movimiento y a las piezas durante el camino
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09JSGQ7WY{{</world>}}
