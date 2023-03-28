@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- El río Támesis de Londres está representado en la base mediante placas transparentes
 - El set ha sido diseñado para proporcionar una experiencia gratificante y relajante, y será una atractiva pieza de decoración para casa o para la oficina
-- ¡Crea una detallada maqueta de Londres con sus puntos de referencia más emblemáticos!
+- Las maquetas LEGO Architecture son compatibles con todos los sets de construcción LEGO para construir de forma creativa y son un gran regalo de cumpleaños, Navidad o «porque sí»
 - Esta maqueta para construir con ladrillos para adultos y niños de 12+ años incluye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben y Tower Bridge
 - Incluye un folleto coleccionable con información acerca del diseñador, la arquitectura y la historia de cada edificio
-- Las maquetas LEGO Architecture son compatibles con todos los sets de construcción LEGO para construir de forma creativa y son un gran regalo de cumpleaños, Navidad o «porque sí»
-- El río Támesis de Londres está representado en la base mediante placas transparentes
+- ¡Crea una detallada maqueta de Londres con sus puntos de referencia más emblemáticos!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01J41MPF8{{</world>}}
