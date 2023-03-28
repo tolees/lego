@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Die LEGO Classic Party Kreativ-Bauset enthält 6 Beutel mit Steinen und Anleitungen für 2 Spielzeuge wie einen Teddybär, einen Clown, ein Einhorn, eine Piñata und mehr
+- Dieses LEGO Classic Set enthält 900 Steine und regt Kinder und Erwachsene mit 12 coolen Mini-Bauwerken zum gemeinsamen Spielspaß an
 - Das Bausteine-Set eignet sich perfekt als Geburtstagsgeschenk, für den Urlaub oder jede andere Gelegenheit für Kinder ab 5 Jahren
 - Großartig als Familienspiel für Kinder und Erwachsene, perfekt für jede Feier, und wenn die Veranstaltung vorbei ist, hört das kreative Bauen und gemeinsame Spielen nicht auf!
 - Viele Aktivitäten stecken in dieser LEGO Classic Box mit Vorschlägen zum Bauen von Lernspielzeug, plus eine Anleitung und digitale Anweisungen in der LEGO Builder App
-- Dieses LEGO Classic Set enthält 900 Steine und regt Kinder und Erwachsene mit 12 coolen Mini-Bauwerken zum gemeinsamen Spielspaß an
+- Die LEGO Classic Party Kreativ-Bauset enthält 6 Beutel mit Steinen und Anleitungen für 2 Spielzeuge wie einen Teddybär, einen Clown, ein Einhorn, eine Piñata und mehr
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N0REILO{{</world>}}
