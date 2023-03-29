@@ -36,5 +36,6 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Los mundos cobran vida: una gran variedad de personajes y criaturas interactúan con los jugadores y entre sí, de formas divertidas y sorprendentes; si alguna vez has visto a un cavernícola montado en un oso, puede ocurrir en LEGO Worlds
 - Construye con ladrillos LEGO: los jugadores pueden modificar cualquiera de los mundos digitales generados proceduralmente usando poderosas herramientas de edición, colocar estructuras LEGO prefabricadas y construir con un detalle increíble, hasta de un solo ladrillo, teniendo a su disposición las herramientas para crear cualquier cosa que puedan imaginar
 
+
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MTYF9DZ{{</world>}}
