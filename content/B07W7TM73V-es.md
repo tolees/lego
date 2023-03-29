@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 6+
 - Los niños se lo pasarán en grande con la maqueta de la comisaría de policía y su multitud de características, entre ellas la función de explosión y huida de la cárcel y el foco (ladrillo con luz), además de un coche de policía con una sirena
+- Edad recomendada por el fabricante: 6+
 - Comisaría de Policía
-- Número de piezas: 743
 - ¿Qué contiene la caja? Una comisaría de policía, 2 camiones, una moto y un dron. Todo ello acompañado de 6 mini figuras, incluidos Duke DeTain, el jefe Wheeler y la ladrona Daisy Kaboom de la serie para televisión de LEGO City
+- Número de piezas: 743
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W7TM73V{{</world>}}
