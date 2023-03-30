@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 71400 Super Mario Maxi-Iglucks Strandausflug – Erweiterungsset'
-date: 2023-03-15 09:53:52
-image: 'https://m.media-amazon.com/images/I/51nVRfTvZOL._SL500_._SL400_.jpg'
+date: 2023-03-30 16:38:23
+image: 'https://m.media-amazon.com/images/I/51kjUThMQRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSD96L/?tag=tolees0ca-21'
 descuento: '29.17'
-average: '39.1655555555556'
+average: '39.3578313253012'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
