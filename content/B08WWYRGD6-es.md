@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71389 Super Mario Set de Expansión: Mundo aéreo del Lakitu'
-date: 2023-03-30 11:48:46
+date: 2023-03-31 12:55:13
 image: 'https://m.media-amazon.com/images/I/51CocY6k49L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWYRGD6/?tag=tolees-21'
 descuento: '21.26'
-average: '34.3192553191486'
+average: '34.3042857142854'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Número de piezas: 484
-- Edad recomendada por el fabricante: 7+
-- Incluye las figuras LEGO de 3 emblemáticos enemigos de Super Mario: Lakitu, un Bill Balla y un Fuzzy, que añaden un mayor desafío
 - Tiene una plataforma nube giratoria, que se puede mover utilizando los controles deslizantes hacia delante y hacia atrás para intentar derribar al Lakitu de su nube
 - Set de Expansión: Mundo aéreo del Lakitu
+- Incluye las figuras LEGO de 3 emblemáticos enemigos de Super Mario: Lakitu, un Bill Balla y un Fuzzy, que añaden un mayor desafío
+- Edad recomendada por el fabricante: 7+
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WWYRGD6{{</world>}}
