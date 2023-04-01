@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO- Roller Coaster  10261  Clear'
-date: 2023-03-31 00:32:16
+date: 2023-04-01 03:50:35
 image: 'https://m.media-amazon.com/images/I/61b1CsUyZRS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07C8DSTCP/?tag=tolees0d-21'
 descuento: '17.29'
-average: '467.025516014229'
+average: '466.894184397157'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
