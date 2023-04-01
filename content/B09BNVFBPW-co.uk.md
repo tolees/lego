@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21179 Minecraft The Mushroom House Set  Building Toy for Kids Age 8 plus  Gift Idea with Alex  Mooshroom & Spider Jockey Figures'
-date: 2023-03-28 09:29:45
+date: 2023-04-01 08:26:56
 image: 'https://m.media-amazon.com/images/I/51WSgB6UbvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNVFBPW/?tag=tolees0a-21'
 descuento: '24.96'
-average: '13.83'
+average: '13.7475'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This toy for kids 8+ years old features a red toadstool toy house with lift off-roof and walls to use the crafting table and furniture inside
+- Give players a new way to enjoy their favourite game with LEGO Minecraft sets bringing characters, scenes and features to life brick by brick
 - Outside the mushroom house, there is a mooshroom to milk, a chest to discover and a skeleton spider jockey to battle
+- This toy for kids 8+ years old features a red toadstool toy house with lift off-roof and walls to use the crafting table and furniture inside
+- This LEGO Minecraft versatile set has a lot to offer, like the tree and chest area that can be reconfigured to make different layouts
 - The set includes iconic Minecraft figures, the characters of Alex, Mooshroom and a Spider Jockey
 - This Minecraft building toy makes a perfect birthday present idea or Minecraft gift for kids and all game fans no matter their age
-- Give players a new way to enjoy their favourite game with LEGO Minecraft sets bringing characters, scenes and features to life brick by brick
-- This LEGO Minecraft versatile set has a lot to offer, like the tree and chest area that can be reconfigured to make different layouts
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNVFBPW{{</world>}}
