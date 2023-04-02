@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41686 Friends Mundo de Magia: Acrobacias'
-date: 2023-03-17 17:24:29
+date: 2023-04-02 15:15:06
 image: 'https://m.media-amazon.com/images/I/51WITBVpSiS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W5GYF6T/?tag=tolees-21'
 descuento: '39.97'
-average: '17.1748148148149'
+average: '16.9900000000001'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Incluye 2 mini muñecas LEGO Friends de Olivia y Stella, vestidas con trajes de actuación, ¡listas para realizar trucos y acrobacias!
 - Cuando los niños tiran de la carroza, hacen que la rueda (extraíble), gire, por lo que si la quitan podrán girarla por separado para hacer trucos y sorprender al público
-- Edad recomendada por el fabricante: 6+
 - Mundo de Magia: Acrobacias
+- Edad recomendada por el fabricante: 6+
+- Incluye 2 mini muñecas LEGO Friends de Olivia y Stella, vestidas con trajes de actuación, ¡listas para realizar trucos y acrobacias!
 - Número de piezas: 223
 
 [🛒 Buy it!!]({{< param buyurl >}})
