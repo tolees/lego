@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - 70617 - Jeu de Construction - Name TDB'
-date: 2023-04-01 03:54:52
+date: 2023-04-03 04:51:36
 image: 'https://m.media-amazon.com/images/I/51luTXTiPiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06VVH63JC/?tag=tolees0d-21'
 descuento: '17.49'
-average: '165.635265625005'
+average: '165.617398753899'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
