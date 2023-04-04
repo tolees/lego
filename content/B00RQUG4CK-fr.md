@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Creator - 10246-Lego Creator Le Bureau du Détective'
-date: 2023-04-03 04:44:59
+date: 2023-04-04 06:08:02
 image: 'https://m.media-amazon.com/images/I/61TfQbjLntL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B00RQUG4CK/?tag=tolees0d-21'
 descuento: '20.91'
-average: '495.281651785709'
+average: '495.214368499252'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

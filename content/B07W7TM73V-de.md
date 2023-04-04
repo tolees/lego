@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Polizeistation'
-date: 2023-04-03 04:31:26
+date: 2023-04-04 05:51:09
 image: 'https://m.media-amazon.com/images/I/51HN8Gyzz7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W7TM73V-de LEGO 60246 City Police Polizeistation'
 sku: 'B07W7TM73V-de'
 tags: [ 'Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 82.37 EUR
+actualPrice: 81.37 EUR
 currency: EUR
-price: 82.37
+price: 81.37
 comparePrice: 99.99 EUR
 prodname: 'LEGO 60246 City Police Polizeistation'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21'
-descuento: '17.62'
-average: '74.3166233766238'
+descuento: '18.62'
+average: '74.3257717250328'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Manufacturer recommended age: 6+
-- Includes 7 minifigures: Duke DeTain, Chief Wheeler, Daisy Kaboom, 2 police officers, 2 crooks, plus a bulldog and police dog figures
-- Police Station
-- Includes a light-brick searchlight, working roof lights and siren, plus lever-activated jailbreak function to add effects to the chase play
-- Number of pieces: 743
+- Polizeistation
+- Das detailreiche Polizeihauptquartier bietet Kindern riesigen Spielspaß, denn es verfügt über eine Explosionsfunktion (für Ausbrüche) und einen Suchscheinwerfer. Aber auch das Polizeiauto mit Sirene bereitet Fans der LEGO City Polizei große Freude.
+- Anzahl der Teile: 743
+- Vom Hersteller empfohlenes Alter: 6+
+- Das LEGO City Spielset „Polizeistation“ ist ideal für Kinder ab 6 Jahren. Kinder, die Rollenspiele, Fahrzeugmodelle und Actionspielzeug lieben, werden von diesem Geschenk für jeden Anlass begeistert sein.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W7TM73V{{</world>}}
