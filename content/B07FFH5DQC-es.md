@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Lego DC Super-Villans Nintendo Switch  Edición Estándar'
-date: 2023-03-29 15:26:31
+date: 2023-04-05 15:41:34
 image: 'https://m.media-amazon.com/images/I/51dUj1VlxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21'
 descuento: '57.47'
-average: '18.0009375'
+average: '17.970303030303'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los jugadores lucharán contra oponentes, resolverán puzles y superarán obstáculos usando amenazadoras bromas y tácticas.
 - Hay nuevos lugares por explorar.
+- Los eventos centrales, diferentes para héroes y villanos, permiten a los jugadores realizar misiones junto a otros villanos o acabar con los malos en misiones de héroes.
 - Tus amigos y familiares pueden unirse a tu partida en cualquier momento gracias a la experiencia local cooperativa para dos jugadores.
 - Los jugadores deben combatir el mal con el mal - tanto si se trata de hacer pintadas por la ciudad o usar toxinas del miedo para aterrorizar a los personajes que haya cerca y darles un susto, los supervillanos tienen barra libre para usar cualquier truco de su arsenal y detener el malvado plan del Sindicato de la Justicia.
-- Los eventos centrales, diferentes para héroes y villanos, permiten a los jugadores realizar misiones junto a otros villanos o acabar con los malos en misiones de héroes.
+- Los jugadores lucharán contra oponentes, resolverán puzles y superarán obstáculos usando amenazadoras bromas y tácticas.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07FFH5DQC{{</world>}}
