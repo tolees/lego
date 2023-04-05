@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® - new'
-date: 2023-03-08 07:31:29
+date: 2023-04-05 09:37:02
 image: 'https://m.media-amazon.com/images/I/41hDsIfytgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09PKMHKMQ-es LEGO® - new'
 sku: 'B09PKMHKMQ-es'
 tags: [ 'Hogar y cocina','lego','lego®','🇪🇸', ]
-actualPrice: 28.93 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 28.93
-comparePrice: 36.0 EUR
+price: 12.99
+comparePrice: 25.93 EUR
 prodname: 'LEGO® - new'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09PKMHKMQ/?tag=tolees-21'
-descuento: '19.64'
-average: '26.96'
+descuento: '49.90'
+average: '22.3033333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
