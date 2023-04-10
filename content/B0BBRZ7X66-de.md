@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60389 City Autowerkstatt  Mechaniker-Spielzeug-Werkstatt mit individuell gestaltbaren Spielzeugautos für Jungen und Mädchen ab 6 Jahren  Geschenkidee zum Geburtstag'
-date: 2023-04-08 18:38:20
+date: 2023-04-09 20:07:26
 image: 'https://m.media-amazon.com/images/I/51rW7hPY88L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0BBRZ7X66/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '36.784'
+average: '36.6033333333333'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
