@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41700 Friends Glamping en la Playa'
-date: 2023-04-03 16:26:31
+date: 2023-04-11 14:42:43
 image: 'https://m.media-amazon.com/images/I/51bxi5Bxk-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNX5KRQ/?tag=tolees-21'
 descuento: '27.48'
-average: '31.058125'
+average: '30.8294444444444'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Número de piezas: 380
 - Edad recomendada por el fabricante: 6+
-- Glamping en la Playa
-- La tienda de juguete dispone de literas y una cocina, el muelle tiene una turbina de viento giratoria para dar electricidad y la playa incluye castillos de arena y conchas
 - Incluye 3 mini muñecas de LEGO Friends: Andrea, Stephanie y Daniel, la figura del cachorrito Pebble y 2 tablas de paddle surf
+- La tienda de juguete dispone de literas y una cocina, el muelle tiene una turbina de viento giratoria para dar electricidad y la playa incluye castillos de arena y conchas
+- Número de piezas: 380
+- Glamping en la Playa
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNX5KRQ{{</world>}}
