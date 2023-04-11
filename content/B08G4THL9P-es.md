@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60287 City Grandes Vehículos Tractor  Granja de Juguete  Mini Figura de Granjero  Regalo Niños de 5 Años  Cumpleaños o Detalle Colegio'
-date: 2023-04-10 20:49:49
+date: 2023-04-11 20:57:24
 image: 'https://m.media-amazon.com/images/I/514hhOLUJ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21'
 descuento: '15.01'
-average: '16.8834730538925'
+average: '16.8837910447764'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Este juguete de granja incluye 2 mini figuras LEGO de un granjero y su hija, un conejo, 2 fardos de heno y una caja de verduras para que los peques disfruten de divertidos juegos de rol
 - Esta pequeña granja de juguete tiene muchas cosas por descubrir, ¡los niños podrán poner una de las mini figuras LEGO dentro de la cabina del tractor!
-- Este set de construcción de LEGO City incluye un tractor de juguete con grandes neumáticos traseros, un cargador frontal, brazo de grúa elevable y cabina, además de 2 divertidas mini figuras y accesorios
 - Con sencillas instrucciones de construcción y la experiencia digital de Instructions PLUS, será un gran detalle de cumpleaños para el colegio y un genial regalo para niños de 5 años en adelante amantes de los animales y los vehículos
 - Los niños pueden cargar el brazo de grúa elevable del tractor de juguete con los fardos de heno y después poner la calabza, la manzana y las zanahorias en el cargador frontal
+- Este set de construcción de LEGO City incluye un tractor de juguete con grandes neumáticos traseros, un cargador frontal, brazo de grúa elevable y cabina, además de 2 divertidas mini figuras y accesorios
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08G4THL9P{{</world>}}
