@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75332 Star Wars AT-ST  Juguete de Construcción para Niños Pequeños  Mini Figura Ewok Wicket y Soldado Explorador para Niños de 4 Años o Más'
-date: 2023-04-11 08:54:04
+date: 2023-04-12 09:16:34
 image: 'https://m.media-amazon.com/images/I/51FeUkI2HRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFVV1KR/?tag=tolees-21'
 descuento: '25.72'
-average: '28.2139644970411'
+average: '28.2008823529409'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Fácil de reconstruir después de las batallas, este juego de acción LEGO Star Wars de 87 piezas es un divertido regalo de cumpleaños, Navidad o en cualquier ocasión para niños creativos amantes de la saga
 - El el set se compone de un vehículo caminante AT-ST articulado con cabina con espacio para una mini figura LEGO, una guarida Ewok con un árbol y una catapulta para lanzar elementos de piedras
 - Con 3 mini figuras LEGO de Ewok Wicket (con arco y flecha), un soldado explorador y un piloto de AT-ST (ambos con pistolas bláster de juguete) para revivir la épica Batalla de Endor
-- Basado en la película Star Wars: el Retorno del Jedi, los peques podrán ayudar al valiente Ewok Wicket a defender la guarida contra los Soldados Exploradores, ¡antes de que el poderoso AT-ST aplaste el árbol a su paso!
 - Este juguete de construcción LEGO Star Wars AT-ST para niños de 4 años en adelante cuenta con un genial ladrillo para principiantes para que la diversión y la construcción comiencen nada más abrir la caja
+- Basado en la película Star Wars: el Retorno del Jedi, los peques podrán ayudar al valiente Ewok Wicket a defender la guarida contra los Soldados Exploradores, ¡antes de que el poderoso AT-ST aplaste el árbol a su paso!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFVV1KR{{</world>}}

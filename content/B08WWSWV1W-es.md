@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71388 Super Mario Set de Expansión: Torre bamboleante del Hermano Sumo Jefe'
-date: 2023-04-10 09:59:36
+date: 2023-04-12 09:18:54
 image: 'https://m.media-amazon.com/images/I/51toIL-iq0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWSWV1W/?tag=tolees-21'
 descuento: '25.01'
-average: '24.5457322175733'
+average: '24.5371666666667'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Número de piezas: 231
 - Set de Expansión: Torre bamboleante del Hermano Sumo Jefe
 - Incluye figuras de juguete de LEGO Super Mario de 2 emblemáticos enemigos: el Hermano Sumo Jefe, con brazos que se golpean el pecho, y una figura de Crowber
-- Edad recomendada por el fabricante: 6+
 - Incorpora una torre construible que se vendrá abajo si una figura LEGO Mario y/o LEGO Luigi (no incluidas) pisa la palanca de la base
+- Número de piezas: 231
+- Edad recomendada por el fabricante: 6+
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08WWSWV1W{{</world>}}
