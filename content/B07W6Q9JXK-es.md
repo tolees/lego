@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60244 City Police Policía: Camión de Transporte del Helicóptero'
-date: 2023-04-12 09:18:10
+date: 2023-04-13 11:46:01
 image: 'https://m.media-amazon.com/images/I/518ObLrkXzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W6Q9JXK/?tag=tolees-21'
 descuento: '15.84'
-average: '40.977703349283'
+average: '40.9803102625305'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Número de piezas: 317
 - Policía: Camión de Transporte del Helicóptero
-- Edad recomendada por el fabricante: 5+
 - Los niños podrán lanzar al aire el helicóptero de la policía con cable de lanzamiento integrado (novedad en enero de 2020). El camión de transporte cuenta con una cabina de conductor con todo tipo de detalle, celda móvil y ordenador.
 - Este juguete de policías contiene un camión de transporte, un helicóptero con cable de lanzamiento, una moto y un quad.
-- Número de piezas: 317
+- Edad recomendada por el fabricante: 5+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W6Q9JXK{{</world>}}
