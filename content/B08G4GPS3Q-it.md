@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75304 Star Wars Casco di Darth Vader  Modellino da Costruire Fai da Te in Mattoncini per Adulti  Idee Regalo Guerre Stellari da Collezione'
-date: 2023-04-12 07:10:10
+date: 2023-04-13 07:52:14
 image: 'https://m.media-amazon.com/images/I/51TvwxvVnvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Scopri anche laltro casco in mattoncini LEGO Star Wars, il Casco da Scout Trooper (75305), un modellino da costruire ed esporre, per gli appassionati delluniverso di Guerre Stellari
-- Questo set, realizzato con le costruzioni LEGO per adulti a tema Guerre Stellari, fa parte di una serie di modelli di caschi Star Wars da collezione, riprodotti in stile LEGO
-- Questo set LEGO Star Wars presenta il modellino da costruire del minaccioso casco di Darth Vader realizzato con i mattoncini LEGO, ricco di elementi e dettagli unici
-- Un gadget Star Wars di elevata qualità: un progetto fai da te LEGO per adulti alto 20 cm, con il suo supporto, che farà sicuramente parlare di sé
-- Questo set è una splendida idea regalo per sé stessi e un grande regalo a tema Star Wars, con cui stupire qualsiasi appassionato o esperto costruttore LEGO
-- Prendetevi del tempo e immergetevi in una complessa sfida creativa, poi esponete il casco Star Wars con orgoglio come decorazione di casa o dellufficio
+- Take time out & immerse yourself in a complex creative challenge, then display it proudly as a conversation-starting object at home or office
+- Makes a splendid treat for yourself and a great Star Wars gift to wow any enthusiast or experienced LEGO builder
+- The iconic shape of Darth Vader’s Helmet is recreated in LEGO bricks and is over 20 cm/8in. high including the display stand
+- This collectible LEGO Star Wars building set for adults features menacingly detailed  Darth Vader’s Helmet with a stand and nameplate
+- Also, check out the other new-for-May-2021 LEGO Star Wars build-to-display helmet: Scout Trooper Helmet (75305)
+- This construction model for adults is part of a series of LEGO Star Wars collectible build-to-display helmet models reproduced in LEGO style
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08G4GPS3Q{{</world>}}
