@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Ice Cream Truck Police Chase Van  60314 Easter Toys for Kids  Girls and Boys Age 5 Plus Years Old with Splat Launcher & Police Car'
-date: 2023-04-11 19:48:24
+date: 2023-04-14 08:53:29
 image: 'https://m.media-amazon.com/images/I/51tz+sOsyVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- It also includes a female police officer minifigure to deploy tyre shredder elements from the police car toy to play out the series scenes
-- Includes printed guide & interactive building instructions in the free LEGO app with intuitive zoom and rotate tools to see all angles
 - Includes Crook Ice and Crook Cream LEGO minifigures, and the toy ice cream truck features an ice cream launcher to shoot splat elements
-- This police car toy playset comes with lots of fun accessories for imaginative play: handcuffs, crook’s crowbar, ice cream elements and more
+- It also includes a female police officer minifigure to deploy tyre shredder elements from the police car toy to play out the series scenes
 - Features a colorful LEGO ice cream van toy, police patrol car toy and ATM setting, plus 3 minifigures, including 2 LEGO City TV characters
+- This police car toy playset comes with lots of fun accessories for imaginative play: handcuffs, crook’s crowbar, ice cream elements and more
+- Includes printed guide & interactive building instructions in the free LEGO app with intuitive zoom and rotate tools to see all angles
 - LEGO City Adventures police sets can be given as a birthday, Christmas or any-other-day gift for girls and boys 5 plus years old
 
 [🛒 Check the deal!!]({{< param buyurl >}})
