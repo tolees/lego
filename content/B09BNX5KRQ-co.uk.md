@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41700 Friends Beach Glamping'
-date: 2023-04-13 14:38:43
+date: 2023-04-14 21:58:00
 image: 'https://m.media-amazon.com/images/I/51bxi5Bxk-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNX5KRQ/?tag=tolees0a-21'
 descuento: '22.66'
-average: '24.7265957446809'
+average: '24.7752083333334'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Beach Glamping
 - Number of pieces: 380
 - Includes 3 LEGO Friends mini dolls: Andrea, Stephanie and Daniel, and Pebble the puppy figure, plus 2 paddleboards
 - Manufacturer recommended age: 6+
+- Beach Glamping
 - The toy tent comes with bunk beds and a stove, the pier with a spinning wind turbine to power lights, the beach with sandcastles and shells
 
 [🛒 Buy it now!!]({{< param buyurl >}})
