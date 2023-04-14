@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Rocket Stunt Bike 60298 Building Kit  14 Pieces '
-date: 2023-01-30 17:51:52
+date: 2023-04-13 21:14:22
 image: 'https://m.media-amazon.com/images/I/51bLxaUoc8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇺🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.com/dp/B08ZNMCYC9/?tag=tolees-20'
 descuento: '30.04'
-average: '6.202'
+average: '6.1'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids push the stunt motorcycle to activate the flywheel, then unleash it for amazing jumps and airborne maneuvers
+- When built, the Rocket Stunt Bike measures over 1 in. (3 cm) high, 2.5 in. (6 cm) long and less than 1 in. (2 cm) wide
 - What’s in the box? All kids need to build an awesome, flywheel-powered stunt motorbike, plus the LEGO City Adventures TV series minifigure character Rocket Racer
 - Send kids’ imaginations soaring with the LEGO City Rocket Stunt Bike (60298) toy playset, featuring a flywheel-powered motorcycle and high-flying LEGO City TV stunt daredevil Rocket Racer
-- When built, the Rocket Stunt Bike measures over 1 in. (3 cm) high, 2.5 in. (6 cm) long and less than 1 in. (2 cm) wide
 - The LEGO City Rocket Stunt Bike playset makes a great Christmas, birthday or any-other-day treat for stunt fans and kids aged 5 and up
+- Kids push the stunt motorcycle to activate the flywheel, then unleash it for amazing jumps and airborne maneuvers
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08ZNMCYC9{{</world>}}
