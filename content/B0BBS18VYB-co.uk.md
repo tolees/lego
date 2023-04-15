@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 71417 Super Mario Fliprus Snow Adventure Expansion Set  Toy for Kids to Combine with Starter Course  with Freezie and Baby Penguin Figures'
-date: 2023-03-11 12:54:49
+title: 'LEGO 71417 Super Mario Fliprus Snow Adventure Expansion Set  Toys for Kids to Combine with Starter Course  Collectible Gifts with Freezie and Baby Penguin Figures'
+date: 2023-04-15 10:44:40
 image: 'https://m.media-amazon.com/images/I/51xc+-0ZsLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 45.0 GBP
 currency: GBP
 price: 45.0
 comparePrice: 59.99 GBP
-prodname: 'LEGO 71417 Super Mario Fliprus Snow Adventure Expansion Set  Toy for Kids to Combine with Starter Course  with Freezie and Baby Penguin Figures'
+prodname: 'LEGO 71417 Super Mario Fliprus Snow Adventure Expansion Set  Toys for Kids to Combine with Starter Course  Collectible Gifts with Freezie and Baby Penguin Figures'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can add frozen fun to Super Mario levels with the Fliprus Snow Adventure Expansion set featuring 4 characters and icy adventure elements
-- Kids knock down the Red Koopa Troopa, jump onto the platform to battle Fliprus and defeat the Freezie to reach the hidden fruit element
 - Players earn digital coins by helping LEGO Mario, LEGO Luigi or LEGO Peach characters (not included) while role-playing with this Expansion Pack
-- The Super Mario buildable game lets kids expand their world of LEGO Super Mario; Visit LEGO.com/devicecheck to download the LEGO Super Mario app
-- Players can ice skate through the course while being careful not to fall in the water (Starter course 71360, 71387 or 71403 is required to play)
+- Kids knock down the Red Koopa Troopa, jump onto the platform to battle Fliprus and defeat the Freezie to reach the hidden fruit element
 - Includes 4 LEGO Super Mario figures: a Fliprus, a Freezie, a Red Koopa Troopa and a toy baby penguin, plus a toy snowman to build and a platform
-- LEGO Super Mario building toys make awesome collectible toys for kids aged 7+ years old who already own a LEGO Super Mario Starter Course
+- Players can ice skate through the course while being careful not to fall in the water (Starter course 71360, 71387 or 71403 is required to play)
+- Kids can add frozen fun to Super Mario levels with the Fliprus Snow Adventure Expansion set featuring 4 buildable toy characters and icy adventure elements
+- LEGO Super Mario building toys make fun collectible gifts for kids aged 7+ years old who already own a LEGO Super Mario Starter Course
+- The Super Mario buildable game lets kids expand their world of LEGO Super Mario; Visit LEGO.com/devicecheck to download the LEGO Super Mario app
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS18VYB{{</world>}}
