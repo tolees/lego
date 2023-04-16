@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42077 Technic Rally Car'
-date: 2023-04-14 12:48:13
+date: 2023-04-16 13:13:01
 image: 'https://m.media-amazon.com/images/I/61y8rHnfoXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B075GS1NNB/?tag=tolees0a-21'
 descuento: '19.94'
-average: '125.670190779014'
+average: '125.632047619047'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Manufacturer recommended age: 10-16
-- Number of pieces: 1005
-- This 2-in-1 LEGO Technic model rebuilds into a Buggy
-- Rally Car
 - Check out the tough suspension and working steering
+- Rally Car
+- Number of pieces: 1005
+- Manufacturer recommended age: 10-16
+- This 2-in-1 LEGO Technic model rebuilds into a Buggy
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B075GS1NNB{{</world>}}
