@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60375 City Feuerwehr Feuerwehrstation und Löschauto  Lernspielzeug für Kinder ab 4 Jahren  Geschenk für Jungen und Mädchen  Feuerwehrauto-Spielzeug'
-date: 2023-04-16 10:59:15
+date: 2023-04-17 11:41:24
 image: 'https://m.media-amazon.com/images/I/51XoReOLJ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0BBS54YC9/?tag=tolees0ca-21'
 descuento: '34.30'
-average: '23.3984090909091'
+average: '23.3893333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Lego Marvel Collection'
-date: 2023-04-15 09:45:41
+date: 2023-04-17 12:02:07
 image: 'https://m.media-amazon.com/images/I/51YiwIhASuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B085PBQ3FY/?tag=tolees-21'
 descuento: '62.48'
-average: '23.7827272727273'
+average: '23.05'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
