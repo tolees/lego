@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 42069 Jeu de Construction Le Véhicule d’Aventure Extrême'
-date: 2023-04-16 13:45:46
+date: 2023-04-17 13:54:03
 image: 'https://m.media-amazon.com/images/I/61V3fT5qMzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06VVPJ3B7/?tag=tolees0d-21'
 descuento: '25.03'
-average: '220.78548725637'
+average: '220.754356287423'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

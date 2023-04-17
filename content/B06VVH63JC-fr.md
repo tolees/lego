@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - 70617 - Jeu de Construction - Name TDB'
-date: 2023-04-16 13:43:36
+date: 2023-04-17 13:52:42
 image: 'https://m.media-amazon.com/images/I/51luTXTiPiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06VVH63JC/?tag=tolees0d-21'
 descuento: '17.49'
-average: '165.538356374813'
+average: '165.529708588962'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fais équipe avec les héros ninjas pour partir à la recherche du temple de l’ultime arme ultime. Tu peux repérer ce bâtiment effrayant au signal lumineux qui se trouve à son sommet.
-- Les ninjas vont sinfiltrer dans le temple de l’arme ultime suprême issu de lego ninjago le film.
 - De nombreux pièges à éviter à lintérieur du temple de larme ultime suprême !
+- Les ninjas vont sinfiltrer dans le temple de l’arme ultime suprême issu de lego ninjago le film.
+- Fais équipe avec les héros ninjas pour partir à la recherche du temple de l’ultime arme ultime. Tu peux repérer ce bâtiment effrayant au signal lumineux qui se trouve à son sommet.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B06VVH63JC{{</world>}}

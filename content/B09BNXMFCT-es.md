@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60314 City Persecución Policial del Camión de los Helados  Juguete de Construcción con 2 Vehículos para Niños y Niñas de 5 Años o Más'
-date: 2023-04-16 13:17:37
+date: 2023-04-17 14:29:30
 image: 'https://m.media-amazon.com/images/I/51tZLsbAxlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNXMFCT/?tag=tolees-21'
 descuento: '18.01'
-average: '23.3215068493155'
+average: '23.3272727272732'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes printed guide & interactive building instructions in the free LEGO app with intuitive zoom and rotate tools to see all angles
-- It also includes a female police officer minifigure to deploy tyre shredder elements from the police car toy to play out the series scenes
-- Features a colourful LEGO ice cream van toy, police patrol car toy and ATM setting, plus 3 minifigures, including 2 LEGO City TV characters
-- This police car toy playset comes with lots of fun accessories for imaginative play: handcuffs, crook’s crowbar, ice cream elements and more
-- Includes Crook Ice and Crook Cream LEGO minifigures, and the toy ice cream truck features an ice cream launcher to shoot splat elements
-- LEGO City Adventures police sets can be given as a birthday, Christmas or any-other-day gift for girls and boys 5 plus years old
+- Este set de juego con coche de policía incluye montones de divertidos accesorios para fomentar el juego imaginativo, con esposas, una palanca y elementos que simulan helados
+- Incorpora las mini figuras LEGO de dos ladrones, Ice y Cream, y además el camión de los helados de juguete incorpora un lanzador de proyectiles
+- Incluye un colorido camión de los helados LEGO, un coche de policía y un cajero automático, además de 3 mini figuras, incluidos 2 personajes de la serie de TV LEGO City
+- También cuenta con la figura de una agente de policía, que puede desplegar cuchillas para destrozar los neumáticos desde el coche de policía y revivir escenas de la serie
+- Los sets de policía de LEGO City serán un gran regalo de cumpleaños o para cualquier ocasión para niños y niñas de 5 años en adelante amantes de los coches de juguete y la acción
+- Incluye instrucciones de construcción impresas e instrucciones digitales interactivas en la app gratuita de LEGO, con herramientas de acercamiento y rotación
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNXMFCT{{</world>}}
