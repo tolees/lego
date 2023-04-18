@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Police Station'
-date: 2023-04-17 13:21:36
+date: 2023-04-18 13:30:13
 image: 'https://m.media-amazon.com/images/I/51GphBT734L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07W7TM73V/?tag=tolees0a-21'
 descuento: '16.17'
-average: '71.3366282051285'
+average: '71.341882202305'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

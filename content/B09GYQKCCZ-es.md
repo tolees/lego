@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain  VG  - LEGO Marvel Super Heroes Nintendo Switch'
-date: 2023-03-25 21:49:39
+date: 2023-04-18 15:03:20
 image: 'https://m.media-amazon.com/images/I/41k1TbiaHSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09GYQKCCZ-es Warner Bros Interactive Spain VG - LEGO Marvel Super...'
 sku: 'B09GYQKCCZ-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','lego','warner bros interactive spain (vg)','🇪🇸', ]
-actualPrice: 16.99 EUR
+actualPrice: 25.99 EUR
 currency: EUR
-price: 16.99
+price: 25.99
 comparePrice: 39.95 EUR
 prodname: 'Warner Bros Interactive Spain  VG  - LEGO Marvel Super Heroes Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B09GYQKCCZ/?tag=tolees-21'
-descuento: '57.47'
-average: '24.0861538461538'
+descuento: '34.94'
+average: '23.9007142857143'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Iron Man puede volar, deslizarse, lanzar misiles o enviar un poderoso flujo de energía desde su pecho.
-- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO.
+- Spider-Man puede lanzar sus telas de araña, utilizar su sentido arácnido o trepar por las paredes.
 - El Capitán América puede lanzar su escudo contra otros objetos o enemigos, clavarlo en la pared para impulsarse con él, utilizarlo para desviar rayos láser o para protegerse ante cualquier ataque.
 - Más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América,  Black Widow, Loki o Deadpool.
-- Spider-Man puede lanzar sus telas de araña, utilizar su sentido arácnido o trepar por las paredes.
+- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09GYQKCCZ{{</world>}}
