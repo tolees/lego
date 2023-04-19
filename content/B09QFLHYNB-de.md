@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71768 NINJAGO Jays Golddrachen-Motorrad  Set mit Jay-Minifigur und Drachen- und Schlangen-Figuren  Spielzeug für Kinder ab 7 Jahre'
-date: 2023-03-02 13:17:36
+date: 2023-04-18 23:31:47
 image: 'https://m.media-amazon.com/images/I/513mKaVKZyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFLHYNB/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '14.8803703703704'
+average: '15.0931034482758'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das Motorrad hat einen goldenen Drachenkopf mit beweglichem Maul, goldene Seitenverkleidungen, 2 große Reifen und einen Sattel für LEGO NINJAGO Jay
+- Kinder können mit diesem LEGO NINJAGO Set mit 2 Minifiguren und einem Spielzeug-Motorrad die actiongeladene TV-Serie NINJAGO: Crystallized nachspielen
 - Dieses 137-teilige Spielzeug mit Drachen-Figur ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten für Kinder ab 7 Jahre
 - Enthält 2 Mini-Figuren, darunter Golddrachen-Jay mit Elementar-Goldnunchaku und 2 stachelbewehrten Golddrachenflügeln
 - Enthält einen LEGO NINJAGO Vergeltungsstein-Krieger mit einem Spielzeugschwert sowie eine kleine Kristallspinne zum Zusammenbauen
-- Kinder können mit diesem LEGO NINJAGO Set mit 2 Minifiguren und einem Spielzeug-Motorrad die actiongeladene TV-Serie NINJAGO: Crystallized nachspielen
+- Das Motorrad hat einen goldenen Drachenkopf mit beweglichem Maul, goldene Seitenverkleidungen, 2 große Reifen und einen Sattel für LEGO NINJAGO Jay
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFLHYNB{{</world>}}
