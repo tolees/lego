@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76217 Marvel I am Groot Buildable Toy  Guardians of the Galaxy 2 Set  Collectable Baby Groot Model Figure  Gift Idea'
-date: 2023-04-11 14:42:33
+date: 2023-04-19 07:35:58
 image: 'https://m.media-amazon.com/images/I/51ec6FCViYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFQ2X4G-co.uk LEGO 76217 Marvel I am Groot Buildable Toy Guardians of...'
 sku: 'B09QFQ2X4G-co.uk'
 tags: [ 'Building & Construction Toy Figures','Building & Construction Toys','Toys','Toys & Games','lego','🇬🇧', ]
-actualPrice: 30.0 GBP
+actualPrice: 32.95 GBP
 currency: GBP
-price: 30.0
+price: 32.95
 comparePrice: 44.99 GBP
 prodname: 'LEGO 76217 Marvel I am Groot Buildable Toy  Guardians of the Galaxy 2 Set  Collectable Baby Groot Model Figure  Gift Idea'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFQ2X4G/?tag=tolees0a-21'
-descuento: '33.32'
-average: '34.4431250000001'
+descuento: '26.76'
+average: '34.3552941176472'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids build their highly posable Baby Groot model figure, from the Marvel Studios Guardians of the Galaxy Vol. 2, with all its cute features
-- This set is a great birthday or Christmas gift idea for kids 10+ years old who are fans of the Marvel universe and love Avengers buildable toys
-- Passionate fans can place the cute Marvel character in a pose, can dance with him to the rhythm of the music and recreate his funny movements
-- The fully jointed Groot buildable toy is easy to position and comes with a pretend cassette to recreate the famous Baby Groot dancing scene
 - The set comes with printed instructions and a digital LEGO Building Instructions app to zoom and rotate while building the posable model
+- This set is a great birthday or Christmas gift idea for kids 10+ years old who are fans of the Marvel universe and love Avengers buildable toys
+- The fully jointed Groot buildable toy is easy to position and comes with a pretend cassette to recreate the famous Baby Groot dancing scene
+- Passionate fans can place the cute Marvel character in a pose, can dance with him to the rhythm of the music and recreate his funny movements
+- Kids build their highly posable Baby Groot model figure, from the Marvel Studios Guardians of the Galaxy Vol. 2, with all its cute features
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFQ2X4G{{</world>}}
