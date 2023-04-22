@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60393 City Camión de Rescate 4x4 de Bomberos con Lanzador de Elementos de Agua  Juguete para Niños y Niñas de 5 Años o Más  Mini Figura de Bombera y Gatito'
-date: 2023-02-26 08:54:21
+date: 2023-04-22 01:53:31
 image: 'https://m.media-amazon.com/images/I/51PQW1Qe+wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,16 +9,16 @@ author: 'tole.es'
 slug: 'B0BBRTNK6N-es LEGO 60393 City Camión de Rescate 4x4 de Bomberos con...'
 sku: 'B0BBRTNK6N-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 8.49 EUR
+actualPrice: 7.49 EUR
 currency: EUR
-price: 8.49
+price: 7.49
 comparePrice: 9.99 EUR
 prodname: 'LEGO 60393 City Camión de Rescate 4x4 de Bomberos con Lanzador de Elementos de Agua  Juguete para Niños y Niñas de 5 Años o Más  Mini Figura de Bombera y Gatito'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0BBRTNK6N/?tag=tolees-21'
-descuento: '15.02'
+descuento: '25.03'
 average: '9.49'
 ---
 
