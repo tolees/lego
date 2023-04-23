@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76243 Marvel Rocket Mech  Spielzeug-Action-Figur des Waschbär Avengers aus Guardians of The Galaxy mit Sammelfiguren für Kinder ab 6 Jahren'
-date: 2023-04-16 09:55:11
+date: 2023-04-23 13:19:52
 image: 'https://m.media-amazon.com/images/I/51vBXLIGq6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0BBRZHB6Z/?tag=tolees0ca-21'
 descuento: '26.68'
-average: '11.33375'
+average: '11.3135294117647'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
