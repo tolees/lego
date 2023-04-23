@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Comisaría de Policía'
-date: 2023-04-22 11:51:15
+date: 2023-04-23 18:09:35
 image: 'https://m.media-amazon.com/images/I/51HN8Gyzz7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W7TM73V-es LEGO 60246 City Police Comisaría de Policía'
 sku: 'B07W7TM73V-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 75.13 EUR
+actualPrice: 73.77 EUR
 currency: EUR
-price: 75.13
+price: 73.77
 comparePrice: 99.99 EUR
 prodname: 'LEGO 60246 City Police Comisaría de Policía'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21'
-descuento: '24.86'
-average: '81.0959999999996'
+descuento: '26.22'
+average: '81.0872368421049'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
