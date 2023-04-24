@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- producto 1: Crea tus propias manualidades para adultos con este set de orquídeas LEGO con flores artificiales blancas y rosas, y un jarrón estriado de color azul
-- producto 2: Incluye 15 tallos con una combinación de variedades florales y de hojas, como «rosas», «bocas de dragón», «margaritas» o «ásteres» y distintos tipos de follaje
+- producto 1: Personaliza tu creación: gira los tallos, las flores, las raíces y las hojas para lograr el diseño que más te guste, y cuando quieras darle un otro aire, reconstruye los tallos de nuevo
 - producto 2: Las flores tienen multitud de elementos personalizables: tallos y hojas a los que se les puede ajustar la longitud para crear increíbles arreglos que lucirán geniales en tu casa
+- producto 2: Es el primer ramo LEGO de flores artificiales, y para crear las flores se utilizan 17 inusuales elementos LEGO con formas de pétalos y colores de gran realismo
+- producto 2: Incluye 15 tallos con una combinación de variedades florales y de hojas, como «rosas», «bocas de dragón», «margaritas» o «ásteres» y distintos tipos de follaje
 - producto 2: Deja florecer tu imaginación crear una increíble pieza de exposición vibrante e inesperada, que jamás se marchitará y que será la pieza central de cualquier habitación
 - producto 1: Construye el jarrón azul y llenalo con las piezas LEGO de color marrón para simular la tierra donde las orquídeas reales crecen
-- producto 2: Es el primer ramo LEGO de flores artificiales, y para crear las flores se utilizan 17 inusuales elementos LEGO con formas de pétalos y colores de gran realismo
+- producto 1: Crea tus propias manualidades para adultos con este set de orquídeas LEGO con flores artificiales blancas y rosas, y un jarrón estriado de color azul
 - producto 1: Este set de construcción cuenta con diferentes modelos de plantas: 6 flores grandes, 2 recién abiertas, 5 hojas en la base y 2 raíces aéreas de gran realismo
-- producto 1: Personaliza tu creación: gira los tallos, las flores, las raíces y las hojas para lograr el diseño que más te guste, y cuando quieras darle un otro aire, reconstruye los tallos de nuevo
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B6K146RH{{</world>}}
