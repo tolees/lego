@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - La central de emergencias cuenta con sala de control, salón con televisión, un helicóptero de bomberos, una ambulancia, un coche todoterreno de la policía con cárcel integrada y una genial moto de juguete
+- A los vehículos de emergencia de juguete se les pueden conectar elementos adicionales para personalizarlos y expandir aún más la imaginación de los niños, ¡podrán ponerles un lanzador de agua, un reflector o una cámara!
+- Este set de juguetes de LEGO City es un ‘’todo en uno’’: los niños de 6 años en adelante podrán unirse a los equipos de bomberos, policía y sanitarios en la gran central de vehículos de emergencia de 2 plantas repleta de accesorios
 - Este increíble set de juguetes también cuenta con 5 mini figuras LEGO y varios accesorios como un billete, material médico y 2 manzanas para fomentar la imaginación de los niños y la creación de historias
 - Los peques podrán jugar a perseguir ladrones, despegar el helicóptero de juguete de los bomberos desde la azotea del helipuerto o ser los sanitarios de la ambulancia, ¡y entre misión y misión podrán hacer ejercicio en la máquina de correr!
-- A los vehículos de emergencia de juguete se les pueden conectar elementos adicionales para personalizarlos y expandir aún más la imaginación de los niños, ¡podrán ponerles un lanzador de agua, un reflector o una cámara!
 - Con la app LEGO Builder para smartphones y tablets, los niños podrán hacer zoom, rotar y visualizar los distintos juguetes de construcción desde todos los ángulos y tener una experiencia de construcción única y divertida
-- Este set de juguetes de LEGO City es un ‘’todo en uno’’: los niños de 6 años en adelante podrán unirse a los equipos de bomberos, policía y sanitarios en la gran central de vehículos de emergencia de 2 plantas repleta de accesorios
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZLLRX{{</world>}}
