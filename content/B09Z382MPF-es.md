@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- producto 1: Los niños y niñas de 7 años en adelante vivirán miles de aventuras con este camión Monster Jam Megalodon 2en1 de LEGO Technic que se transforma en un divertido coche de juguete «Iusca» Low Racer
+- producto 1: Este juguete de LEGO Technic cuenta con los dientes del tiburón, además de aletas que se mueven cuando el coche acelera, todo ello inspirado en el legendario monstruo marino
 - producto 1: Los peques podrán realizar arriesgados saltos utilizando el mecanismo retráctil para enviar su camión por los terrenos más difíciles, ¡como un monster truckde verdad!
 - producto 1: Tras realizar alucinantes acrobacias con el camión de juguete, podrán transformar la maqueta en un coche con mecanismo retráctil para seguir con la emocionante sesión de juego
 - producto 2: Incluye un juguete de dinosaurio T. Rex con ojos naranjas brillantes, patas y cabeza articuladas, grandes garras y una boca con dientes afilados que se abre
-- producto 2: El set de construcción también incluye una presa de dinosaurio en forma de caja torácica para construir
 - producto 2: Los niños y niñas a partir de 7 años pueden cambiar la posición de las patas delanteras y traseras, la cola y la cabeza, además de abrir la boca para mostrar unos feroces dientes
-- producto 1: Los niños y niñas de 7 años en adelante vivirán miles de aventuras con este camión Monster Jam Megalodon 2en1 de LEGO Technic que se transforma en un divertido coche de juguete «Iusca» Low Racer
-- producto 1: Este juguete de LEGO Technic cuenta con los dientes del tiburón, además de aletas que se mueven cuando el coche acelera, todo ello inspirado en el legendario monstruo marino
+- producto 2: El set de construcción también incluye una presa de dinosaurio en forma de caja torácica para construir
 - producto 2: Este modelo LEGO Creator 3 en 1 recrea las figuras de acción de dinosaurios triceratops y pterodáctilo
 
 [🛒 Buy it!!]({{< param buyurl >}})
