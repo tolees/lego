@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Polizeistation'
-date: 2023-04-23 18:04:18
+date: 2023-04-25 16:40:52
 image: 'https://m.media-amazon.com/images/I/51HN8Gyzz7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07W7TM73V-de LEGO 60246 City Police Polizeistation'
 sku: 'B07W7TM73V-de'
-tags: [ 'Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 79.0 EUR
+tags: [ 'Baby- & Kleinkindspielzeug','Bau- & Konstruktionsspielzeug','Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Custom Stores','LEGO','Lego City','Self Service','Special Features Stores','Spielzeug','lego','partition_000','partition_033','🇩🇪', ]
+actualPrice: 78.99 EUR
 currency: EUR
-price: 79.0
+price: 78.99
 comparePrice: 99.99 EUR
 prodname: 'LEGO 60246 City Police Polizeistation'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21'
-descuento: '20.99'
-average: '74.3817219387759'
+descuento: '21.00'
+average: '74.3875923566883'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Anzahl der Teile: 743
 - Das LEGO City Spielset „Polizeistation“ ist ideal für Kinder ab 6 Jahren. Kinder, die Rollenspiele, Fahrzeugmodelle und Actionspielzeug lieben, werden von diesem Geschenk für jeden Anlass begeistert sein.
-- Polizeistation
-- Das detailreiche Polizeihauptquartier bietet Kindern riesigen Spielspaß, denn es verfügt über eine Explosionsfunktion (für Ausbrüche) und einen Suchscheinwerfer. Aber auch das Polizeiauto mit Sirene bereitet Fans der LEGO City Polizei große Freude.
 - Vom Hersteller empfohlenes Alter: 6+
+- Das detailreiche Polizeihauptquartier bietet Kindern riesigen Spielspaß, denn es verfügt über eine Explosionsfunktion (für Ausbrüche) und einen Suchscheinwerfer. Aber auch das Polizeiauto mit Sirene bereitet Fans der LEGO City Polizei große Freude.
+- Anzahl der Teile: 743
+- Polizeistation
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W7TM73V{{</world>}}

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO 21054 Architecture The White House Display Model Building Kit  Landmark Collection for Adults  Collectible Home Décor Gift Idea'
-date: 2023-04-23 17:50:22
+date: 2023-04-25 16:37:48
 image: 'https://m.media-amazon.com/images/I/51zHfmuGU5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6M-co.uk LEGO 21054 Architecture The White House Display Model...'
 sku: 'B0813QBV6M-co.uk'
-tags: [ 'Building & Construction Toys','Toy Building Sets','Toys','Toys & Games','lego','🇬🇧', ]
+tags: [ 'Building & Construction Toys','Custom Stores','Hardlines No Buyable Offer Test Q1 2016 sebasp@','Outlet','Pre-order Toys & Games','Self Service','Special Features Stores','Toy Building Sets','Toys','Toys & Games','Toys Category Page','lego','🇬🇧', ]
 actualPrice: 71.99 GBP
 currency: GBP
 price: 71.99
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813QBV6M/?tag=tolees0a-21'
 descuento: '20.00'
-average: '80.665955610358'
+average: '80.655270935961'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
-- The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
-- Includes clear instructions so even LEGO newcomers can build with confidence, and a coffee-table-style booklet telling The White House story
 - The Architecture display model of The White House beautifully captures the neoclassical design and splendour of this world-famous residence
+- Includes clear instructions so even LEGO newcomers can build with confidence, and a coffee-table-style booklet telling The White House story
+- The collectible model can easily be divided into 3 sections for closer inspection of the architectural details
 - Features details like the Executive Residence, West Wing, East Wing and connecting colonnades, the Jacqueline Kennedy Garden and Rose Garden
+- Enjoy building a true American icon: The White House, occupied by every United States president since 1800, with this classic set for adults
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6M{{</world>}}
