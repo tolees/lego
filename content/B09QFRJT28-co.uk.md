@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This creative toy includes 2 stage backdrops so kids can change to suit their performance; a medieval castle and a nighttime cityscape
-- Includes 4 LEGO Friends mini-dolls: Andrea, Prof. Adrian, Ollie and Freya; plus accessories such as scripts elements, wig, hats and megaphone
-- The LEGO Theatre is hinged and opens up to reveal the inside: just like in London West End theatre, the fabric curtains can be rolled back!
-- Make the day of kids who love drama toys and storytelling with this awesome birthday gift for 8 plus year old girls and boys
-- Kids imagine being a star with this toy theatre school playset featuring a stage, dressing room, orchestra, balcony seating and lights rigging
 - Also includes an organ, helmet, guitar, radio, toy microphone, prop box with crown and skeleton head, plus all kids need to put on a show
+- This creative toy includes 2 stage backdrops so kids can change to suit their performance; a medieval castle and a nighttime cityscape
+- Kids imagine being a star with this toy theatre school playset featuring a stage, dressing room, orchestra, balcony seating and lights rigging
+- Includes 4 LEGO Friends mini-dolls: Andrea, Prof. Adrian, Ollie and Freya; plus accessories such as scripts elements, wig, hats and megaphone
+- Make the day of kids who love drama toys and storytelling with this awesome birthday gift for 8 plus year old girls and boys
+- The LEGO Theatre is hinged and opens up to reveal the inside: just like in London West End theatre, the fabric curtains can be rolled back!
 - When kids spin this Heartlake City theatre around, they will find rigging for the lights and a dressing room for the characters to get ready
 
 [🛒 Buy it!!]({{< param buyurl >}})

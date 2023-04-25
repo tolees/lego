@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- With 2 LEGO minifigures and a host of accessories including a vending machine, bicycle selling ice creams, a bonsai tree and a brick built dog
+- LEGO Creator sets come with interactive digital building app that allows to zoom, rotate and visualise the build on smartphones and tablets
+- The bike shop model features a newsstand and art studio and the arcade has 3 gaming machines and a cool console controller sign on the roof!
+- The cool noodle shop on the ground floor of the 2-storey LEGO town house model has a flat and roof terrace above it, decorated with a tree
 - Allows kids to build and rebuild to enjoy 3 different city scenes; the building toy looks awesome on display in kids rooms when the build is done
 - The back of this town house toy opens up for easy access to spaces on both floors with details and toy accessories giving kids more play options
-- The bike shop model features a newsstand and art studio and the arcade has 3 gaming machines and a cool console controller sign on the roof!
-- LEGO Creator sets come with interactive digital building app that allows to zoom, rotate and visualise the build on smartphones and tablets
-- The cool noodle shop on the ground floor of the 2-storey LEGO town house model has a flat and roof terrace above it, decorated with a tree
-- With 2 LEGO minifigures and a host of accessories including a vending machine, bicycle selling ice creams, a bonsai tree and a brick built dog
 - This LEGO creator 3in1 building toy set features a townhouse and noodle shop, bike shop and arcade models, plus 2 minifigures and accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
