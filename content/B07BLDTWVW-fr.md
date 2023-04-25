@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Lego 71043 Harry Potter Le château de Poudlard  Jouet  avec Saule Cogneur  la Chambre des Secrets  et Cabane de Hagrid  Inclut 27 Figurines  Dès 16 Ans'
-date: 2023-04-23 21:59:29
+date: 2023-04-24 22:26:59
 image: 'https://m.media-amazon.com/images/I/51f+9FV8msL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07BLDTWVW-fr Lego 71043 Harry Potter Le château de Poudlard Jouet avec...'
 sku: 'B07BLDTWVW-fr'
-tags: [ 'lego','🇫🇷', ]
-actualPrice: 449.0 EUR
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux de construction','lego','🇫🇷', ]
+actualPrice: 439.0 EUR
 currency: EUR
-price: 449.0
+price: 439.0
 comparePrice: 690.08 EUR
 prodname: 'Lego 71043 Harry Potter Le château de Poudlard  Jouet  avec Saule Cogneur  la Chambre des Secrets  et Cabane de Hagrid  Inclut 27 Figurines  Dès 16 Ans'
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07BLDTWVW/?tag=tolees0d-21'
-descuento: '34.94'
-average: '445.121918429003'
+descuento: '36.38'
+average: '445.112684766214'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,7 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Product text is missing and will be uploaded in a timely manner as soon as it is available.
+- Avec ce maquette Poudlard LEGO il est possible de sasseoir dans la Grande Salle et de festoyer avec les professeurs et les élèves de Poudlard ! Mais aussi de sinfiltrer dans la Chambre des Secrets par lentrée secrète et affronter le Basilic !
+- Le jouet de château Pourdlard LEGO Harry Potter comprend le Grand Hall avec des vitraux à construire, des bannières de maison, des bancs, des tables, des torches enflammées et des escaliers qui bougent
+- Construisez la maquette du château Harry Potter, avec en plus la cabane de Hagrid, le mythique saule pleureur et 5 jouets de bateaux pour que les mini-figurines puissent rejoindre le château
+- Ce jouet LEGO Harry Potter pour adolescents et adultes dès 16 ans impressionnera à coup sûr lorsquil sera exposé, et il constitue une fantastique idée de cadeau Harry Potter pour un anniversaire ou Noël
+- Les accessoires incluent lépée Gryffondor, la tasse Helga Poufsouffle, des baguettes, des potions, les bannières de maison, des flammes, un chaudron et 2 loupes
+- La cabane de Hagrid contient Aragog laraignée et des citrouilles à assembler, et le saule cogneur renferme le jouet de voiture Ford Anglia bleue à assembler dans ses branches tournoyantes
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07BLDTWVW{{</world>}}

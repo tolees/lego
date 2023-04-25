@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- En la planta superior hay una zona de cepillado para jugar y acicalar a las mascotas, además de una bañera, un gimnasio para gatos y un rascador
 - Edad recomendada por el fabricante: 4+
+- En la planta superior hay una zona de cepillado para jugar y acicalar a las mascotas, además de una bañera, un gimnasio para gatos y un rascador
 - Número de piezas: 111
-- En la planta inferior se encuentra la caja registradora, un ecógrafo de juguete para ver cómo están los pacientes, y un armario de instrumentos con un kit de veterinaria
 - Clínica de Mascotas
+- En la planta inferior se encuentra la caja registradora, un ecógrafo de juguete para ver cómo están los pacientes, y un armario de instrumentos con un kit de veterinaria
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNTV9QJ{{</world>}}

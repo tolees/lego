@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Con instrucciones ilustradas paso a paso fáciles de seguir y la experiencia digital de construcción en la app LEGO Builder: este set con 2 coches de juguete es un increíble regalo de cumpleaños para niños de 6 años en adelante
-- Este increíble set de construcción de LEGO City incluye todo lo necesario para que los peques creen su propio taller de tuning: con 2 coches de juguete personalizables, rampas, elevador para instalar motores y muro de configuración
-- Incluye 2 mini figuras LEGO de mecánicos y 2 de conductores, y una gran cantidad de fantásticos accesorios para los mismos, como un soplete, una máscara de soldar y un juego de herramientas para tunear los coches de juguete
-- Para personalizar los 2 coches LEGO de juguete los niños podrán elegir entre una amplía gama de motores y secciones modulares, además de diferentes faros, parachoques y alerones para crear épicos diseños y jugar a las carreras
 - Con este juguete de construcción los niños podrán jugar a ser los mecánicos y conducir los vehículos a las rampas para modificarlos, pintarlos y soldarlos, después podrán usar el elevador para ponerles diferentes motores y salir a la carretera
+- Para personalizar los 2 coches LEGO de juguete los niños podrán elegir entre una amplía gama de motores y secciones modulares, además de diferentes faros, parachoques y alerones para crear épicos diseños y jugar a las carreras
+- Incluye 2 mini figuras LEGO de mecánicos y 2 de conductores, y una gran cantidad de fantásticos accesorios para los mismos, como un soplete, una máscara de soldar y un juego de herramientas para tunear los coches de juguete
+- Este increíble set de construcción de LEGO City incluye todo lo necesario para que los peques creen su propio taller de tuning: con 2 coches de juguete personalizables, rampas, elevador para instalar motores y muro de configuración
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ7X66{{</world>}}
