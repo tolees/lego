@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Juguete incluido en la aplicación Instrucciones de Construcción LEGO, donde los peques pueden hacer zoom, rotar y visualizar una versión digital del modelo mientras lo construyen
 - Cuenta con una guardería de mascotas LEGO Friends de 2 pisos para perros equipada para entrenar, bañar y poner guapas a las mascotas en compañía de grandes amigos
-- Incluye 3 mini muñecas LEGO Friends Emma, River y Priyanka, un micro muñeco Henry y 4 mini figuras de animales, incluida una figura de un conejito y un perrito de juguete
-- Los niños pueden registrar a las mascotas en la tablet, recompensarlas con una golosina del tarro de galletas o pasar el rato con sus amigos en la zona de recepción
-- Viene repleta de accesorios, como un trozo de brócoli, una zanahoria, un tarro de golosinas para mascotas, champú y un cepillo, ¡incluso hay una caca para recoger!
 - El Centro de Día para Mascotas de HeartLake City es un juguete muy colorido que viene con divertidos toboganes amarillos y rosas
+- Incluye 3 mini muñecas LEGO Friends Emma, River y Priyanka, un micro muñeco Henry y 4 mini figuras de animales, incluida una figura de un conejito y un perrito de juguete
+- Viene repleta de accesorios, como un trozo de brócoli, una zanahoria, un tarro de golosinas para mascotas, champú y un cepillo, ¡incluso hay una caca para recoger!
+- Juguete incluido en la aplicación Instrucciones de Construcción LEGO, donde los peques pueden hacer zoom, rotar y visualizar una versión digital del modelo mientras lo construyen
+- Los niños pueden registrar a las mascotas en la tablet, recompensarlas con una golosina del tarro de galletas o pasar el rato con sus amigos en la zona de recepción
 - Este set de Heartlake City con animales de juguete, es un regalo sensacional para niñas y niños de 7 años en adelante que aman los animales, ¡en su cumpleaños o en cualquier ocasión!
 
 [🛒 Buy it!!]({{< param buyurl >}})
