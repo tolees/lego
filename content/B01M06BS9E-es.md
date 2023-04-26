@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - PlayStation 4. Edition: Estándar'
-date: 2023-03-30 07:30:57
+date: 2023-04-26 08:32:18
 image: 'https://m.media-amazon.com/images/I/51NqEPT6OwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01M06BS9E-es Warner Bros. Interactive Spain - Lego Harry Potter...'
 sku: 'B01M06BS9E-es'
-tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','lego','warner bros. interactive spain','🇪🇸', ]
+tags: [ '06','08','1425','2021','Hardware y juegos para PlayStation 4','Juegos PS4','Juegos para PlayStation 4','Self Service','Special Features Stores','Tienda de Warner Bros Videojuegos','Tienda de consolas y videojuegos infantiles','Videojuegos','Videojuegos Harry Potter','Videojuegos más esperados','lego','warner bros. interactive spain','🇪🇸', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B01M06BS9E/?tag=tolees-21'
 descuento: '59.96'
-average: '14.0546376811594'
+average: '13.9260563380282'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Harry Potter: Años 5-7 transportará a los jugadores a través de los tres últimos libros y las cuatro últimas películas
 - El paquete trae dos videojuegos más vendidos remasterizados en un disco
-- LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
-- Tipo de producto: videojuego
 - Plataforma del juego: PlayStation 4
+- Tipo de producto: videojuego
+- LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
+- LEGO Harry Potter: Años 5-7 transportará a los jugadores a través de los tres últimos libros y las cuatro últimas películas
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01M06BS9E{{</world>}}
