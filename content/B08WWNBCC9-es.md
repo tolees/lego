@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 6+
-- También cuenta con un entorno de sabana con función de deslizamiento de tierra: los niños presionan una palanca y activan el deslizamiento de árboles y rocas
-- Número de piezas: 525
-- Rescate de la Fauna Salvaje: Operación
 - Incluye las figuras LEGO de un elefante, un ternero, un cocodrilo y 2 de monos de juguete, además de 4 mini figuras LEGO de un equipo de rescate de animales
+- Edad recomendada por el fabricante: 6+
+- Número de piezas: 525
+- También cuenta con un entorno de sabana con función de deslizamiento de tierra: los niños presionan una palanca y activan el deslizamiento de árboles y rocas
+- Rescate de la Fauna Salvaje: Operación
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WWNBCC9{{</world>}}
