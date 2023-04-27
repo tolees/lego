@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los jugadores ganarán monedas digitales ayudando a las figuras interactivas de LEGO Mario, LEGO Luigi o LEGO Peach (no incluidas y de venta por separado en los Packs Iniciales) mientras se divierten con este juguete de Super Mario para construir
-- El set incluye 4 figuras LEGO Super Mario con las que vivir emocionantes aventuras en la nieve: un Koopa Rojo, un Tempanito, una Morsik lanzadora de bolas de nieve y un Pingüino, además de un muñeco de nieve para construir y una plataforma de juego
 - Este juguete construcción para niños de 7 años o más se puede reconstruir y combinar con otros de la gama LEGO Super Mario, para más diversión descarga la app LEGO Super Mario y descubre instrucciones de construcción, ideas creativas y más
-- Los jugadores podrán agregar una diversión helada a sus niveles de LEGO Super Mario con el Set de Expansión: Aventura en la Nieve de la Morsik, con 4 personajes de Super Mario y nuevos elementos de construcción
-- Con este coleccionable los niños podrán quitar la cabeza al muñeco de nieve y derribar al Koopa Rojo, saltar en la plataforma para luchar contra Morsik y derrotar al Tempanito para alcanzar el elemento de fruta oculto y dárselo al adorable Pingüino
+- El set incluye 4 figuras LEGO Super Mario con las que vivir emocionantes aventuras en la nieve: un Koopa Rojo, un Tempanito, una Morsik lanzadora de bolas de nieve y un Pingüino, además de un muñeco de nieve para construir y una plataforma de juego
 - Los jugadores podrán hacer que patinan sobre hielo, pero tendrán que tener cuidado de no caerse al agua… si hace demasiado frío, ¡pueden sentarse junto a la hoguera! (Un Pack Inicial LEGO Super Mario 71360, 71387 o 71403 es necesario -para jugar)
+- Los jugadores ganarán monedas digitales ayudando a las figuras interactivas de LEGO Mario, LEGO Luigi o LEGO Peach (no incluidas y de venta por separado en los Packs Iniciales) mientras se divierten con este juguete de Super Mario para construir
+- Con este coleccionable los niños podrán quitar la cabeza al muñeco de nieve y derribar al Koopa Rojo, saltar en la plataforma para luchar contra Morsik y derrotar al Tempanito para alcanzar el elemento de fruta oculto y dárselo al adorable Pingüino
+- Los jugadores podrán agregar una diversión helada a sus niveles de LEGO Super Mario con el Set de Expansión: Aventura en la Nieve de la Morsik, con 4 personajes de Super Mario y nuevos elementos de construcción
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS18VYB{{</world>}}
