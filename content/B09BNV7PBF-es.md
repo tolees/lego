@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- La app gratuita Instrucciones de Montaje LEGO permite acercar, ver y visualizar una versión del jugueteen 3D mientras se construye
-- Los juguetes de construcción LEGO City Great Vehicles para niños y niñas de 5 años en adelante harán volar su imaginación y son una gran idea de regalo de cumpleaños o Navidad para los amantes de los coches de juguete
+- El helicóptero de juguete tiene aspas giratorias y una zona de almacenaje para una camilla con la que los peques vivirán épicas aventuras de rescate
 - Los peques podrán subir el helicóptero al remolque y fijarlo, y después podrán conducir el camión para dirigirse a misiones y recrear miles de historias y divertidos juegos de rol
 - Incluye un camión de transporte y un helicóptero de rescate de juguete, además de las mini figuras LEGO de un conductor y un piloto para poder jugar sin fin
 - El impresionante camión rojo cuenta con un gran remolque articulado y luces de advertencia desplegables para transportar cargas de gran tamaño
-- El helicóptero de juguete tiene aspas giratorias y una zona de almacenaje para una camilla con la que los peques vivirán épicas aventuras de rescate
+- La app gratuita Instrucciones de Montaje LEGO permite acercar, ver y visualizar una versión del jugueteen 3D mientras se construye
+- Los juguetes de construcción LEGO City Great Vehicles para niños y niñas de 5 años en adelante harán volar su imaginación y son una gran idea de regalo de cumpleaños o Navidad para los amantes de los coches de juguete
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNV7PBF{{</world>}}

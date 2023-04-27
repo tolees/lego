@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Number of pieces: 170
+- Manufacturer recommended age: 5+
 - Kids push the stunt motorcycle to activate the flywheel, then unleash it for wall-smashing stunts and airborne manoeuvres
 - Includes a flywheel-powered toy motorbike and an array of props and challenges for the biker to overcome, like a giant spider and flames!
-- Manufacturer recommended age: 5+
+- Number of pieces: 170
 - Stunt Park
 
 [🛒 Buy it now!!]({{< param buyurl >}})
