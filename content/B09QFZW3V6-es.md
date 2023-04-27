@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los peques pueden ayudar a LEGO Mario, LEGO Luigi o LEGO Peach (figuras interactivas no incluidas) a activar la plataforma deslizante para sacar a Bowser de su escondite, ¡luego podrán saltar sobre los activadores y darle la vuelta!
+- Incluye un bloque de tiempo, una vidriera de la Princesa Peach en la torre, una pintura de Bob-Omb con una etiqueta de acción oculta, un pastel para esconder un Goomba, una fruta morada y mucho más
+- Con la app complementaria y gratuita LEGO Super Mario los peques obtienen instrucciones de construcción e ideas creativas para jugar, ¡mira la lista de dispositivos Android e iOs compatibles en LEGO.com/devicecheck!
 - También cuenta con una tubería especial ‘’Castillo de Peach’’, un puente roto y 5 figuras LEGO Super Mario de Bowser, Ludwig, Toadette, un Goomba y un Bob-omb
 - Este set de expansión LEGO Super Mario cuenta con un castillo de juguete de la Princesa Peach lleno de desafíos y 5 figuras icónicas para que los peques incorporen a su mundo de juego interactivo
-- Con la app complementaria y gratuita LEGO Super Mario los peques obtienen instrucciones de construcción e ideas creativas para jugar, ¡mira la lista de dispositivos Android e iOs compatibles en LEGO.com/devicecheck!
-- Incluye un bloque de tiempo, una vidriera de la Princesa Peach en la torre, una pintura de Bob-Omb con una etiqueta de acción oculta, un pastel para esconder un Goomba, una fruta morada y mucho más
+- Los peques pueden ayudar a LEGO Mario, LEGO Luigi o LEGO Peach (figuras interactivas no incluidas) a activar la plataforma deslizante para sacar a Bowser de su escondite, ¡luego podrán saltar sobre los activadores y darle la vuelta!
 - Para disfrutar de este juguete de construcción se requiere uno de los Pack Iniciales LEGO super Mario (71360, 71387 o 71403); ¡este espectacular juguete de la Princesa Peach se puede combinar con otros de la gama!
 - Este castillo de juguete es un divertido regalo de Navidad para niñas y niños de 8 años en adelante amantes del universo para construir de LEGO Super Mario y sus aventuras, ¡vive unas Navidades sorprendentes en el Reino Champiñón!
 
