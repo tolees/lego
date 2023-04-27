@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye elementos en 3D que al moverse crean movimientos como la ilusión de profundidad en la imagen de Rowena Ravenclaw, nubes en movimiento y llamas parpadeantes en la chimenea de juguete
-- Esta sala común parte del castillo de Hogwarts cuenta con una mesa, un libro, 2 asientos y 2 lámparas, así como su tesoro principal: la diadema de Ravenclaw
-- Cuando el juego creativo termine, la sala común se cierra creando un escudo de la casa que puede usarse como cuadro de Harry Potter si se le añade el gancho incluido en el set
 - Pon la magia en manos de los niños con este juguete para construir 2 en 1 de Harry potter, gracias a su tamaño podrán llevarlo a todas partes y será un gran regalo de cumpleaños sorpresa
+- Esta sala común parte del castillo de Hogwarts cuenta con una mesa, un libro, 2 asientos y 2 lámparas, así como su tesoro principal: la diadema de Ravenclaw
 - Los niños podrán recrear sus escenas favoritas de las películas con las mini figuras LEGO Harry Potter de Cho Chang, Luna Lovegood y Michael Corner, y los accesorios de una varita y un duendecillo de Cornualles
-- Este juguete de viaje de LEGO Harry Potter cuenta con un estandarte de la casa de Ravenclaw para construir que puede usarse como decoración de pared o como escenario de juego revelando la sala común
 - Este coleccionable forma parte de la colección de estandartes de las casas de Hogwarts de LEGO Harry Potter, descubre el resto de la gama: Slytherin (76410), Gryffindor (76409) o Hufflepuff (76412)
+- Incluye elementos en 3D que al moverse crean movimientos como la ilusión de profundidad en la imagen de Rowena Ravenclaw, nubes en movimiento y llamas parpadeantes en la chimenea de juguete
+- Este juguete de viaje de LEGO Harry Potter cuenta con un estandarte de la casa de Ravenclaw para construir que puede usarse como decoración de pared o como escenario de juego revelando la sala común
+- Cuando el juego creativo termine, la sala común se cierra creando un escudo de la casa que puede usarse como cuadro de Harry Potter si se le añade el gancho incluido en el set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZG27L{{</world>}}

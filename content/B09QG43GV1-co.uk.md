@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- First-of-its-kind Harry Potter playset makes a magical Wizarding World Gift or birthday Present for 9 plus year old girls and boys
 - 12 Minifigures including Harry Potter, Hermione Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole, all with wands
-- Accessories include a red phone box, stacks of the Daily Prophet newspaper, Patronus cat, 2 decoy detonators and the Slytherin locket Horcrux
-- This ‘living model’ large LEGO modular building can be easily reconfigured for endless new adventures & is a great home décor piece on display
-- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
-- The first LEGO Harry Potter set to feature Ministry of Magic, with Dolores Umbridge & Arthur Weasleys offices, Hall of Prophecy and Court Room
 - This LEGO Harry Potter modular set also includes Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley and Dementor minifgures
+- First-of-its-kind Harry Potter playset makes a magical Wizarding World Gift or birthday Present for 9 plus year old girls and boys
+- This ‘living model’ large LEGO modular building can be easily reconfigured for endless new adventures & is a great home décor piece on display
+- Accessories include a red phone box, stacks of the Daily Prophet newspaper, Patronus cat, 2 decoy detonators and the Slytherin locket Horcrux
+- The first LEGO Harry Potter set to feature Ministry of Magic, with Dolores Umbridge & Arthur Weasleys offices, Hall of Prophecy and Court Room
+- Transform the way the friends look with Polyjuice potion with 3 minifigures that transform with a turn of the head and a new hair piece
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QG43GV1{{</world>}}
