@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes Rescue Ranger Maya and all the LEGO pieces kids need to build a customisable toy truck and solve paper-free, digital building challenges
-- LEGO City Missions interactive sets require a smartphone or tablet with the free LEGO Building Instructions app (printed instructions not included)
-- This LEGO City building game set includes 3 LEGO City minifigures, plus animal toys: baby crocodile, panther, owl, frog, bunny and hare figures
-- The LEGO City Wild Animal Rescue Missions playset with cute animal toys makes a fab birthday or Christmas gift for 6 plus year old girls and boys
-- This LEGO interactive set includes a toy brush, magnifying glass, camera, trophy, binoculars, feeding bottle and walkie-talkie accessories
-- Kids learn as they play, stepping away from building instructions, meeting fun characters and completing on-screen missions with real LEGO bricks
 - With this LEGO City interactive rescue missions playset, kids lead the digital adventures using real LEGO bricks to complete on-screen missions
+- Includes Rescue Ranger Maya and all the LEGO pieces kids need to build a customisable toy truck and solve paper-free, digital building challenges
+- This LEGO interactive set includes a toy brush, magnifying glass, camera, trophy, binoculars, feeding bottle and walkie-talkie accessories
+- The LEGO City Wild Animal Rescue Missions playset with cute animal toys makes a fab birthday or Christmas gift for 6 plus year old girls and boys
+- This LEGO City building game set includes 3 LEGO City minifigures, plus animal toys: baby crocodile, panther, owl, frog, bunny and hare figures
+- Kids learn as they play, stepping away from building instructions, meeting fun characters and completing on-screen missions with real LEGO bricks
+- LEGO City Missions interactive sets require a smartphone or tablet with the free LEGO Building Instructions app (printed instructions not included)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFM2QG6{{</world>}}

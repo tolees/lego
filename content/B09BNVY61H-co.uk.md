@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - To complete this Star Wars room décor piece, attach the plaque bearing the words “The Force is strong with this one,” as spoken by Darth Vader
+- Clear, illustrated step-by-step instructions are included to assist you with this complex LEGO Star Wars set
 - Recreate the surface of the Death Star and the pursuit of Luke Skywalker’s X-wing by Darth Vader’s TIE Advanced fighter and 2 TIE fighters
+- Treat yourself or give this Star Wars memorabilia set to a fan or experienced LEGO builder as an unforgettable LEGO Star Wars gift
 - LEGO Star Wars model building kits for adults are designed for people who enjoy mindful, fun and creative activities to unwind
 - Recapture the drama of an iconic Star Wars: A New Hope scene with this Star Wars LEGO set for adults, part of build-to-display diorama models
-- Treat yourself or give this Star Wars memorabilia set to a fan or experienced LEGO builder as an unforgettable LEGO Star Wars gift
-- Clear, illustrated step-by-step instructions are included to assist you with this complex LEGO Star Wars set
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNVY61H{{</world>}}

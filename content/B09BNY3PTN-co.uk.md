@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Check out collectible LEGO Star Wars display helmet model sets for adults: 75328 The Mandalorian Helmet and 75343 Dark Trooper Helmet
 - This collectible Luke Skywalker helmet replica, a part of the Star Wars memorabilia range comes with clear, illustrated instructions
-- Premium-quality LEGO Star Wars display models make a big visual impact at home or in the office as decorations
 - Replicate in LEGO bricks all the details of Luke Skywalker’s Red Five Star Wars helmet, and display it on the integrated stand with a nameplate
+- Premium-quality LEGO Star Wars display models make a big visual impact at home or in the office as decorations
+- Check out collectible LEGO Star Wars display helmet model sets for adults: 75328 The Mandalorian Helmet and 75343 Dark Trooper Helmet
 - Premium-quality LEGO Star Wars sets for adults are designed for you, the discerning hobbyist who enjoys hands-on creative projects
-- Features a Red 5 Star Wars collectible Luke Skywalker helmet buildable model kit, a first in the LEGO Star Wars Helmet Collection set for adults
 - Explore the full range of LEGO Star Wars buildable model kits to discover a variety of Star Wars gift ideas
+- Features a Red 5 Star Wars collectible Luke Skywalker helmet buildable model kit, a first in the LEGO Star Wars Helmet Collection set for adults
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNY3PTN{{</world>}}
