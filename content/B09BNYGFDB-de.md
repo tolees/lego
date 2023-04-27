@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Beim Aufbau dieses Modellbausatzes für Erwachsene entdeckst du neue Bautechniken, mit denen du die Gebäude schräg an der Grundplatte befestigen kannst
-- Dieses Bastelset für Erwachsene ist eine tolle Dekoration für dein Zuhause und ein wunderbares Geschenk für Reiseliebhaber, Geschichtsbegeisterte und Architekturinteressierte
-- Erwecke den Geist der „Löwenstadt“ und kombiniere die Wolkenkratzer, die charmanten alten Gebäude am Flussufer und die Grünanlagen zu einem atemberaubenden Kunstwerk
-- Mit diesem LEGO Architecture Set für Erwachsene kannst du einige der berühmtesten Gebäude Singapurs im LEGO Stil nachbauen
-- Außerdem enthalten sind das Fullerton Hotel, der Supertree Grove in den Gardens by the Bay sowie landschaftliche Details in Form des Singapore River und LEGO Bäumen
 - Bist du auf der Suche nach einem Einweihungsgeschenk oder einem Geschenk zum Geburtstag? Mit den LEGO Sets für Erwachsene kannst du dich entspannen und dich im kreativen Prozess verlieren
+- Erwecke den Geist der „Löwenstadt“ und kombiniere die Wolkenkratzer, die charmanten alten Gebäude am Flussufer und die Grünanlagen zu einem atemberaubenden Kunstwerk
+- Dieses Bastelset für Erwachsene ist eine tolle Dekoration für dein Zuhause und ein wunderbares Geschenk für Reiseliebhaber, Geschichtsbegeisterte und Architekturinteressierte
+- Außerdem enthalten sind das Fullerton Hotel, der Supertree Grove in den Gardens by the Bay sowie landschaftliche Details in Form des Singapore River und LEGO Bäumen
+- Mit diesem LEGO Architecture Set für Erwachsene kannst du einige der berühmtesten Gebäude Singapurs im LEGO Stil nachbauen
 - Zu den wichtigsten Wahrzeichen der Skyline gehören das Marina Bay Sands, das OCBC Centre, das Raffles Hotel und der Lau Pa Sat (auch bekannt als Telok Ayer Market)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
