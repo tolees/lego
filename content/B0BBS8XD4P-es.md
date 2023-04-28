@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Para ampliar su colección de material escolar de Harry Potter combina el set con el Pack de Accesorios: Hogwarts (41808) o el Kit de Escritorio: Hogwarts (41811)
 - Este set de manualidades y actividades creativas de Harry Potter permite a los niños personalizar los accesorios LEGO DOTS para adaptarlos a la decoración de su habitación o estado de ánimo y rediseñarlos en cualquier momento
-- Impulsa la creatividad de los pequeños fans de Harry Potter con el set de manualidades LEGO DOTS Portalápices Hedwig, un accesorio de escritorio estupendo repleto de piezas decorativas y un portanotas
+- Para ampliar su colección de material escolar de Harry Potter combina el set con el Pack de Accesorios: Hogwarts (41808) o el Kit de Escritorio: Hogwarts (41811)
 - El set DIY se compone de un portalápices en forma de la icónica lechuza de las películas, con alas móviles en la parte frontal y un portanotas inspirado en la carta de admisión a Hogwarts
 - El exterior del Portalápices Hedwig de Harry Potter tiene abundante espacio para personalizarlo con los colores de la bufanda de Hogwarts, un patrón mágico o cualquier diseño que les apetezca a los niños
+- Impulsa la creatividad de los pequeños fans de Harry Potter con el set de manualidades LEGO DOTS Portalápices Hedwig, un accesorio de escritorio estupendo repleto de piezas decorativas y un portanotas
 - Si tienes un amante de los animales de juguete en casa o un fan de las películas de Harry Potter de 6 años en adelante, este set será una gran idea de regalo para la vuelta al cole o en cualquier ocasión
 
 [🛒 Check the deal!!]({{< param buyurl >}})

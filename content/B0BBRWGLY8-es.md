@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Incluye una guía de construcción digital interactiva en la aplicación gratuita LEGO Builder, donde los peques pueden acercar, rotar y ver el coche de juguete para construir desde todos los ángulos
-- Cuando la acción termina, esta sorprendente réplica de coche de LEGO Speed Champions se ve genial expuesta en la habitación de los niños o como adición a cualquier colección de vehículos LEGO
-- Este juguete de construcción de la gama Speed Champions cuenta con una réplica para construir del deportivo Ferrari 812 Competizione, además de una mini figura LEGO de un piloto con casco y peluca
-- Este coleccionable incluye una mini figura LEGO de un piloto de carreras que se coloca al volante del coche de juguete para que los peques disfruten jugando a las carreras sin salir de casa
-- El universo LEGO Speed Champions está lleno de icónicas maquetas de coches de juguete para construir; echa un vistazo a otros de la colección como el Pagani Utopia (76915) o el set McLaren Solus GT y el McLaren F1 LM (76918)
-- El modelo incluye un Ferrari de juguete con los clásicos colores del coche: con un acabado rojo brillante, una franja amarilla que recorre el centro del deportivo y una franja negra en el capó
 - Esta maqueta de coche para construir reproduce muchos detalles originales como el alerón trasero elevado, prominentes generadores de vórtices, faros, luces traseras y sus inconfundibles tubos de escape
+- Cuando la acción termina, esta sorprendente réplica de coche de LEGO Speed Champions se ve genial expuesta en la habitación de los niños o como adición a cualquier colección de vehículos LEGO
+- Incluye una guía de construcción digital interactiva en la aplicación gratuita LEGO Builder, donde los peques pueden acercar, rotar y ver el coche de juguete para construir desde todos los ángulos
+- El universo LEGO Speed Champions está lleno de icónicas maquetas de coches de juguete para construir; echa un vistazo a otros de la colección como el Pagani Utopia (76915) o el set McLaren Solus GT y el McLaren F1 LM (76918)
+- Este juguete de construcción de la gama Speed Champions cuenta con una réplica para construir del deportivo Ferrari 812 Competizione, además de una mini figura LEGO de un piloto con casco y peluca
+- El modelo incluye un Ferrari de juguete con los clásicos colores del coche: con un acabado rojo brillante, una franja amarilla que recorre el centro del deportivo y una franja negra en el capó
+- Este coleccionable incluye una mini figura LEGO de un piloto de carreras que se coloca al volante del coche de juguete para que los peques disfruten jugando a las carreras sin salir de casa
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRWGLY8{{</world>}}

@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Incluye las mini figuras LEGO Harry Potter de Draco Malfoy, Pansy Parkinson y Blaise Zabini, además del relicario de Slytherin, un elemento de serpiente y más accesorios para interpretar juegos imaginativos
-- Parte de una colección de los 4 estandartes de las casas de Hogwarts, los peques podrán combinar este juguete Harry Potter para construir con Gryffindor (76409), Ravenclaw (76411) o Hufflepuff (76412)
 - Este set LEGO Harry Potter incluye un estandarte para construir de la casa de Slytherin de Hogwarts que puede colgarse en la pared o abrirse a la mitad para revelar la sala común y jugar en su interior
+- Incluye diferentes efectos en 3D que crean imágenes en movimiento como las escenas submarinas del Lago Negro a través de la ventana, el rostro de Salazar Slytherin serio o sonriendo y más
 - Este set coleccionable para jugar y exhibir será una gran idea de regalo de Harry Potter de cumpleaños o como juguete de viaje para niños y niñas fans del mundo mágico y las películas
 - Cuándo los niños terminen de jugar, podrán cerrar el escudo y usar el colgador para transformarlo en un cuadro de Harry Potter y decorar su habitación al más puro estilo del castillo de Hogwarts
+- Parte de una colección de los 4 estandartes de las casas de Hogwarts, los peques podrán combinar este juguete Harry Potter para construir con Gryffindor (76409), Ravenclaw (76411) o Hufflepuff (76412)
 - La sala común de Slytherin de este juguete portátil tiene sofá, mesa, lámparas, escaleras y un armario con un mensaje secreto en su interior, tal y como en las películas de Harry Potter
-- Incluye diferentes efectos en 3D que crean imágenes en movimiento como las escenas submarinas del Lago Negro a través de la ventana, el rostro de Salazar Slytherin serio o sonriendo y más
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS54MW7{{</world>}}
