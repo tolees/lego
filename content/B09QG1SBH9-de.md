@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'LEGO 71770 NINJAGO Zanes Golddrachen-Jet Set mit Spielzeug-Flugzeug und Cole & Zane Minifiguren  tolles Geschenk zum Geburtstag für Kinder ab 7 Jahre'
-date: 2023-04-13 14:42:38
+date: 2023-04-28 12:03:43
 image: 'https://m.media-amazon.com/images/I/51QJg-+SZyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09QG1SBH9-de LEGO 71770 NINJAGO Zanes Golddrachen-Jet Set mit...'
 sku: 'B09QG1SBH9-de'
-tags: [ 'Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 20.99 EUR
+tags: [ 'Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Custom Stores','LEGO','Self Service','Spielzeug','lego','🇩🇪', ]
+actualPrice: 19.99 EUR
 currency: EUR
-price: 20.99
+price: 19.99
 comparePrice: 29.99 EUR
 prodname: 'LEGO 71770 NINJAGO Zanes Golddrachen-Jet Set mit Spielzeug-Flugzeug und Cole & Zane Minifiguren  tolles Geschenk zum Geburtstag für Kinder ab 7 Jahre'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QG1SBH9/?tag=tolees0ca-21'
-descuento: '30.01'
-average: '23.7173076923076'
+descuento: '33.34'
+average: '23.6442857142856'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO NINJAGO toys encourage kids to put down their screens and escape into a mystical world, plus they look great in kids’ bedrooms
-- This LEGO NINJAGO vehicle playset is a great birthday or Christmas gift idea for kids aged 7+ who love ninja action and fun building tasks
-- Look out for 7 other sets in the NINJAGO: Crystallized TV series collection including (71771) The Crystal King Temple
-- Features a toy jet with a cockpit for minifigures, plus extendable golden wings look like a flying ninja star when put into golden dragon mode
-- Also included is General Vangelis and golden weapons: 2 swords, ninja stars, 2 scythes and more to play out the gripping role-play action
-- Kids can soar into the sky for thrilling aerial adventures with LEGO NINJAGO Zanes Golden Dragon toy plane to play out good vs. evil battles
-- Includes NINJAGO Golden Dragon Cole with a pair of golden dragon wings adorned with spikes and Golden Zane LEGO NINJAGO minifugures
+- Enthält einen Spielzeug-Jet mit Cockpit für Minifiguren sowie ausfahrbare goldene Flügel, die im Golddrachenmodus wie ein fliegender Ninja-Stern aussehen
+- Enthält Golddrachen-Cole mit 2 stachelbewehrten Golddrachenflügeln und den Goldenen Zane als LEGO NINJAGO Minifiguren
+- Ebenfalls enthalten sind General Vangelis und goldene Waffen: 2 Schwerter, Ninja-Sterne, 2 Sensen und mehr, um packende Rollenspiele nachzustellen
+- Kinder können mit LEGO NINJAGO “Zanes Golddrachen-Jet” Spielzeug-Flugzeug in die Lüfte steigen und aufregende Luftabenteuer erleben, um mit Gut gegen Böse zu kämpfen
+- Freu dich auch auf 7 weitere Spielsets zur TV-Serie NINJAGO: Crystallized, beispielsweise auf „Jays Golddrachen-Motorrad“ (71768)
+- Das LEGO NINJAGO Set regt Kinder dazu an, ihre Bildschirme abzulegen und eine fantastische Welt zu entdecken; außerdem sehen sie toll in Kinderzimmern aus
+- Dieses LEGO NINJAGO Set ist ein tolles Geschenk zum Geburtstag oder zu Weihnachten für Kinder ab 7 Jahre, die Ninja-Action und Bausets mögen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG1SBH9{{</world>}}

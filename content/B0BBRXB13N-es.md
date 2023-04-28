@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- El coche de juguete McLaren Solus GT también incluye características reales, como su esquema de color blanco, negro y naranja, prominentes ruedas y una cabina de conducción
+- La réplica del coche McLaren F1 LM viene en un llamativo color naranja papaya y tiene un asiento de conducción central, además de conductos de refrigeración a ambos lados
 - Geniales para organizar divertidas carreras en casa, este kit de juego de coches incluye 2 mini figuras LEGO de pilotos: una para cada coche de juguete
+- Este juguete de construcción de LEGO Speed Champions incluye 2 maquetas de coche para construir: el gran McLaren Solus GT y el McLaren F1 LM, ideales para que los peques jueguen a las carreras
 - El mundo de las carreras espera a los pequeños amantes de los deportivos con otros coleccionables de LEGO Speed Champions como el Ferrari 812 Competizione (76914) o el Porsche 963 (76916)
 - Los niños disfrutarán de una gratificante experiencia de construcción con estas maquetas de coche de los clásicos F1 LM y Solus GT, después podrán jugar con ellos o exponerlos en su habitación
-- La réplica del coche McLaren F1 LM viene en un llamativo color naranja papaya y tiene un asiento de conducción central, además de conductos de refrigeración a ambos lados
-- Este juguete de construcción de LEGO Speed Champions incluye 2 maquetas de coche para construir: el gran McLaren Solus GT y el McLaren F1 LM, ideales para que los peques jueguen a las carreras
+- El coche de juguete McLaren Solus GT también incluye características reales, como su esquema de color blanco, negro y naranja, prominentes ruedas y una cabina de conducción
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB13N{{</world>}}
