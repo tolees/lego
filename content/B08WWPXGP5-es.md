@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Este juguete de construcción LEGO Friends para niñas y niños incluye un laboratorio de ciencias con un microscopio y una mariquita para estudiar, ¡podrán recrear un día en la escuela perfecto!
 - El aula de arte, teatro y música LEGO contiene un cofre con un kit creativo de disfraces, una selección de instrumentos, pinceles, pinturas y un caballete
 - Instituto de Heartlake City
 - Edad recomendada por el fabricante: 6+
-- Este juguete de construcción LEGO Friends para niñas y niños incluye un laboratorio de ciencias con un microscopio y una mariquita para estudiar, ¡podrán recrear un día en la escuela perfecto!
 - Número de piezas: 605
 
 [🛒 Buy it!!]({{< param buyurl >}})
