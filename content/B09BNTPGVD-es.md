@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Descubre más modelos 3 en 1 LEGO Creator novedad este marzo de 2022: Robot Invencible 31124, Criaturas Fantásticas del Bosque 31125 y Buggy Todoterreno 31123
 - Los niños pueden disfrutar de una diversión creativa con características auténticas: el avión de juguete Reactor Supersónico tiene una cabina, alas en ángulo y ruedas retráctiles
-- Los fans de LEGO pueden realizar acrobacias en el aire con las construcciones LEGO del avión a reacción y el helicóptero de juguete, o correr en el agua con la lancha rápida.
-- ¡El helicóptero de juguete viene con aspas giratorias, y la lancha rápida cuenta con 2 motores ultrarrápidos para disfrutar de aventuras en el aire o en el agua!
-- El juego de construcción LEGO Creator Reactor Supersónico cuenta con 3 modelos en 1: un avión a reacción, un helicóptero de juguete y una lancha de juguete
 - En la aplicación gratuita LEGO Instrucciones de Construcción, los peques pueden hacer zoom, rotar y visualizar una versión digital de este juguete a medida que lo construyen
+- ¡El helicóptero de juguete viene con aspas giratorias, y la lancha rápida cuenta con 2 motores ultrarrápidos para disfrutar de aventuras en el aire o en el agua!
+- Descubre más modelos 3 en 1 LEGO Creator novedad este marzo de 2022: Robot Invencible 31124, Criaturas Fantásticas del Bosque 31125 y Buggy Todoterreno 31123
+- Los fans de LEGO pueden realizar acrobacias en el aire con las construcciones LEGO del avión a reacción y el helicóptero de juguete, o correr en el agua con la lancha rápida.
+- El juego de construcción LEGO Creator Reactor Supersónico cuenta con 3 modelos en 1: un avión a reacción, un helicóptero de juguete y una lancha de juguete
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNTPGVD{{</world>}}
