@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclut les personnages Disney emblématiques Mickey Mouse, Minnie Mouse et Pluto, un train à construire de 3 sections, un gâteau d’anniversaire et sa bougie à construire 5 briques chiffres à empiler ainsi que des accessoires.
 - LEGO DUPLO ǀ Disney Le train d’anniversaire de Mickey et Minnie (10941) est un superbe jeu de construction regorgeant d’activités d’éveil, de possibilité de jeu créatif et de magie Disney !
-- Le train mesure plus de 15,5 cm de haut, 35,5 cm de long et 13,5 cm de large. Ce jouet de construction polyvalent adapté aux mains des tout-petits offre une grande variété de jeux.
-- Les enfants développent leur motricité fine en construisant et en jouant avec le train. Ils apprennent à reconnaître les chiffres en empilant les briques et développent leurs compétences sociales et émotionnelles en inventant des jeux de rôle avec les personnages Disney.
 - Pour les enfants de 2 ans et plus. Ce cadeau exceptionnel fera de l’anniversaire des tout-petits une fête inoubliable.
+- Les enfants développent leur motricité fine en construisant et en jouant avec le train. Ils apprennent à reconnaître les chiffres en empilant les briques et développent leurs compétences sociales et émotionnelles en inventant des jeux de rôle avec les personnages Disney.
+- Inclut les personnages Disney emblématiques Mickey Mouse, Minnie Mouse et Pluto, un train à construire de 3 sections, un gâteau d’anniversaire et sa bougie à construire 5 briques chiffres à empiler ainsi que des accessoires.
+- Le train mesure plus de 15,5 cm de haut, 35,5 cm de long et 13,5 cm de large. Ce jouet de construction polyvalent adapté aux mains des tout-petits offre une grande variété de jeux.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08GPKTN2B{{</world>}}

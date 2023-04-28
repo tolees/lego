@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Con este gran kit de manualidades para niños, los peques podrán diseñar y volver a diseñar sin límites, ¡se lo pasarán genial monstrando su infinita creatividad y diseños!
-- Este divertido juguete LEGO DOTS incluye un bonito lápicero de mesa en color amarillo brillante y forma de plátano con espacio para bolígrafos, lápices y mucho más, además de coloridas piezas DOTS
-- Los peques también podrán usar la bolsa LEGO DOTS Extra: Edición 6 (se vende por separado) para ampliar sus diseños como les apetezca
-- Este kit de decoración infantil LEGO DOTS fácil e intuitivo de diseñar tiene su propia bandeja para almacenar y limpiar fácilmente
 - Los peques podrán montar 2 versiones del plátano: una con cara alegre, en colores brillantes y sonriente, y después cambiarlo y crear un plátano viejo y gruñón lleno de puntitos
 - El material escolar y los organizadores de escritorio LEGO DOTS son un gran regalo creativo de cumpleaños o para cualquier ocasión para los peques amantes de proyectos DIY que se merezcan un pequeño premio
+- Este divertido juguete LEGO DOTS incluye un bonito lápicero de mesa en color amarillo brillante y forma de plátano con espacio para bolígrafos, lápices y mucho más, además de coloridas piezas DOTS
+- Con este gran kit de manualidades para niños, los peques podrán diseñar y volver a diseñar sin límites, ¡se lo pasarán genial monstrando su infinita creatividad y diseños!
+- Este kit de decoración infantil LEGO DOTS fácil e intuitivo de diseñar tiene su propia bandeja para almacenar y limpiar fácilmente
+- Los peques también podrán usar la bolsa LEGO DOTS Extra: Edición 6 (se vende por separado) para ampliar sus diseños como les apetezca
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNTQFHH{{</world>}}

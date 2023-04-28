@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids can visit the kitchen, have a tasty snack, then step outside, wave to the house, and see if it waves back!
-- Accessories include an accordion, gramophone and umbrella, and a sticker sheet for decorating and customising the house
-- This 587-piece LEGO Disney building toy features Mirabels 3-storey house, with a spinning weather vane, flipping bed and waving shutters
 - With detailed micro doll figures, cute creatures and recognisable scenes, this Disney’s Encanto buildable toy encourages open creative play
 - The LEGO Disneys The Madrigal dolls house set includes multiple rooms, different functions from the movie and accessories to inspire play
-- Comes with 2 LEGO Disney’s Abuela & Mirabel mini doll figures and Antonio micro doll figure, plus capybara and butterfly LEGO figures
+- Kids can visit the kitchen, have a tasty snack, then step outside, wave to the house, and see if it waves back!
+- This 587-piece LEGO Disney building toy features Mirabels 3-storey house, with a spinning weather vane, flipping bed and waving shutters
 - This LEGO Disney’s Encanto dolls house is perfect for extended play and looks great on display; it also makes a great gift for kids
+- Comes with 2 LEGO Disney’s Abuela & Mirabel mini doll figures and Antonio micro doll figure, plus capybara and butterfly LEGO figures
+- Accessories include an accordion, gramophone and umbrella, and a sticker sheet for decorating and customising the house
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08XDYPDTQ{{</world>}}
