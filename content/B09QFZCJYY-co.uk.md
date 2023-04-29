@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This Star Wars buildable toy makes an exciting birthday gift for kids aged 9 plus years old and fans of the Obi-Wan Kenobi series
-- This set features 4 LEGO Star Wars minifigures including: Ben Kenobi with a blue lightsaber and the Grand Inquisitor
-- Feel the dark side of the Force and recreate missions from Star Wars: Obi-Wan Kenobi with this Inquisitorial Transport Scythe construction toy
-- The top and sides of the cockpit open, revealing a pilot and 2 passenger seats for minifigures, as well as clips for their lightsabers
-- When the days play is over, this buildable Inquisitor Transport Scythe makes great Star Wars kidsroom decoration piece
-- The Inquisitor Transport Scythe has wings that fold up and down for landing or flight mode, 2 spring-loaded shooters and a fold-down front ramp
 - Reva (Third Sister) and Fifth Brother LEGO Star Wars minifigures are also included - each with double-bladed red lightsabers
+- This Star Wars buildable toy makes an exciting birthday gift for kids aged 9 plus years old and fans of the Obi-Wan Kenobi series
+- Feel the dark side of the Force and recreate missions from Star Wars: Obi-Wan Kenobi with this Inquisitorial Transport Scythe construction toy
+- This set features 4 LEGO Star Wars minifigures including: Ben Kenobi with a blue lightsaber and the Grand Inquisitor
+- When the days play is over, this buildable Inquisitor Transport Scythe makes great Star Wars kidsroom decoration piece
+- The top and sides of the cockpit open, revealing a pilot and 2 passenger seats for minifigures, as well as clips for their lightsabers
+- The Inquisitor Transport Scythe has wings that fold up and down for landing or flight mode, 2 spring-loaded shooters and a fold-down front ramp
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFZCJYY{{</world>}}
