@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO City Stunt Competition 60299 Building Kit  73 Pieces '
-date: 2023-04-22 03:46:09
+date: 2023-04-29 21:53:07
 image: 'https://m.media-amazon.com/images/I/51i5e9nKT9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08ZNMB7P4-com LEGO City Stunt Competition 60299 Building Kit 73 Pieces'
 sku: 'B08ZNMB7P4-com'
-tags: [ 'Building Toys','Toy Building Sets','Toys & Games','lego','🇺🇸', ]
+tags: [ 'lego','🇺🇸', ]
 actualPrice: 21.32 USD
 currency: USD
 price: 21.32
@@ -16,7 +16,7 @@ comparePrice: 29.99 USD
 prodname: 'LEGO City Stunt Competition 60299 Building Kit  73 Pieces '
 country: 'com'
 flag: '🇺🇸'
-brand: 'LEGO'
+brand: ''
 buyurl: 'https://www.amazon.com/dp/B08ZNMB7P4/?tag=tolees-20'
 descuento: '28.91'
 average: '22.8228571428572'
