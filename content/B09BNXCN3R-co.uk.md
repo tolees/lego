@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This buildable Porsche model car is an original model replica of the real-life Formula E Porsche race car, complete with sponsor logos
-- In the augmented reality app, kids decide how much energy to put into the car toy before making the perfect start to the race using the trigger
-- Download the LEGO Technic AR app, scan the model car and pull the car back to launch it using your foot & see it come to life in exciting races
-- This pull back toy car makes a top birthday present for boys and girls who love Porsche race cars, Formula E or AR toys
 - LEGO Technic model car kit for teens and kids to build features a pull-back toy racing car with authentic design and LEGO augmented reality app
 - Put your engineering skills to the test by building the race-winning car, then use the pull-back motor and get ready to go, go, go!
+- This buildable Porsche model car is an original model replica of the real-life Formula E Porsche race car, complete with sponsor logos
 - The LEGO Technic AR app brings the racing to life. Choose your racetrack and master the art of energy management to take the checkered flag
+- Download the LEGO Technic AR app, scan the model car and pull the car back to launch it using your foot & see it come to life in exciting races
+- This pull back toy car makes a top birthday present for boys and girls who love Porsche race cars, Formula E or AR toys
+- In the augmented reality app, kids decide how much energy to put into the car toy before making the perfect start to the race using the trigger
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNXCN3R{{</world>}}

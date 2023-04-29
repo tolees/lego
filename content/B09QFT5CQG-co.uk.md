@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The playset for kids aged 9 plus years old also includes the Crystal King, a Vengestone Warrior and 2 Vengestone Brutes with bright weapons
-- This set is an epic Christmas present or birthday gift or for 9 plus year old boys and girls and fans of the NINJAGO Crystallized TV series
 - Using the free LEGO Building Instructions app, kids can zoom, rotate and view a digital version of the model on their smartphones and tablets
-- This dragon toy set features NINJAGOs biggest ever dragon, featuring 4 heads, posable legs and tail, and wings that unfold into 3 gold blades
+- Kids ride into battle with Lloyd on the back of his dragon to recreate the epic final showdown of the NINJAGO: Crystallized TV series
+- The playset for kids aged 9 plus years old also includes the Crystal King, a Vengestone Warrior and 2 Vengestone Brutes with bright weapons
 - Check other sets from the NINJAGO: Crystallized TV series, including (71775) Nya’s Samurai X MECH playset
 - Features 9 NINJAGO minifigures, including an exclusive Golden Oni Lloyd and all Golden Kai, Jay, Cole and Zane, all with golden swords
-- Kids ride into battle with Lloyd on the back of his dragon to recreate the epic final showdown of the NINJAGO: Crystallized TV series
+- This dragon toy set features NINJAGOs biggest ever dragon, featuring 4 heads, posable legs and tail, and wings that unfold into 3 gold blades
+- This set is an epic Christmas present or birthday gift or for 9 plus year old boys and girls and fans of the NINJAGO Crystallized TV series
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFT5CQG{{</world>}}
