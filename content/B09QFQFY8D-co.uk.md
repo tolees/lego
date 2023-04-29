@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Accessories in the set include wands and a lantern, plus there are 4 random wizard cards to collect (out of 16 in total)
-- Kids can reenact scenes from Harry Potter and the Prisoner of Azkaban as they enter the Shrieking Shack through the secret passageway to save Ron
-- This LEGO Harry Potter buildable toy is packed with features: Whomping Willow spins and its branches bend to strike and pick up the minifigures
-- With this LEGO Harry Potter 2 in 1 set, kids can recreate 2 classic locations from the Movies: the Shrieking Shack and the Whomping Willow
 - Includes 6 LEGO Harry Potter minifigures: Harry, Hermione, Ron Weasley, Sirius Black, Peter Pettigrew and Remus Lupin who turns into a werewolf
 - The shrieking shack has boarded windows, a living room with a seat and a picture on the wall, plus a bedroom with a map, piano and a fireplace
+- Accessories in the set include wands and a lantern, plus there are 4 random wizard cards to collect (out of 16 in total)
+- This LEGO Harry Potter buildable toy is packed with features: Whomping Willow spins and its branches bend to strike and pick up the minifigures
 - Makes a great Harry Potter gift idea: as a birthday, holiday or any occasion treat for kids aged 9 plus and fans of the Wizarding World adventures
+- Kids can reenact scenes from Harry Potter and the Prisoner of Azkaban as they enter the Shrieking Shack through the secret passageway to save Ron
+- With this LEGO Harry Potter 2 in 1 set, kids can recreate 2 classic locations from the Movies: the Shrieking Shack and the Whomping Willow
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFQFY8D{{</world>}}
