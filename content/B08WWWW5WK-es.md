@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71393 Super Mario Pack Potenciador: Mario Abeja'
-date: 2023-04-27 18:30:47
+date: 2023-04-29 01:05:47
 image: 'https://m.media-amazon.com/images/I/51zzGp2eHqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWWW5WK/?tag=tolees-21'
 descuento: '17.52'
-average: '7.93959731543626'
+average: '7.94160000000002'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Los jugadores podrán obtener monedas digitales para hacer que la figura LEGO Mario «vuele», y se activan sonidos de zumbidos de abejas cuando echa a volar
 - Edad recomendada por el fabricante: 6+
-- Este accesorio construido con ladrillos encaja en la figura LEGO Mario y/o Luigi de uno de los Packs Iniciales LEGO (71360 o 71387), necesarios para jugar
 - Pack Potenciador: Mario Abeja
 - Número de piezas: 13
+- Este accesorio construido con ladrillos encaja en la figura LEGO Mario y/o Luigi de uno de los Packs Iniciales LEGO (71360 o 71387), necesarios para jugar
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08WWWW5WK{{</world>}}
