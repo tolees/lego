@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 5+
-- Incluye 3 mini figuras: un trabajador de la planta, un piloto de helicóptero de bomberos y Clemmons, el héroe de la serie de TV de LEGO City Adventures
-- Helicóptero de Rescate de Bomberos
 - Los niños pueden apilar las llamas para crear grandes fuegos, disparar el cañón de agua del helicóptero y apagar incendios desde la parte superior de la torre
+- Incluye 3 mini figuras: un trabajador de la planta, un piloto de helicóptero de bomberos y Clemmons, el héroe de la serie de TV de LEGO City Adventures
+- Edad recomendada por el fabricante: 5+
 - Número de piezas: 212
+- Helicóptero de Rescate de Bomberos
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08G4D3P1T{{</world>}}
