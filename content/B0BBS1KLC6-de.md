@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Enthält 3 LEGO Harry Potter Minifiguren: Cedric Diggory, Susan Bones und Hannah Abbott mit Zubehör wie einer Gartenschere, einer Gießkanne und Besteck
 - Magische 3D-Effekte: Die Lentikularrückwand sorgt für Effekte wie eine Alraune, die hinter den Vorhängen auf- und abtaucht, oder ein Niffler
 - Im Inneren können Kinder den Hufflepuff-Pokal, einen Kürbis, eine baubare Truhe und eine Tischplatte mit verschiedenen Lebensmitteln entdecken
-- Das Hufflepuff-Wappen kann dank des mitgelieferten Aufhängers als Wand-Deko verwendet werden oder zum Spielen, wenn es aufgeklappt wird
+- Enthält 3 LEGO Harry Potter Minifiguren: Cedric Diggory, Susan Bones und Hannah Abbott mit Zubehör wie einer Gartenschere, einer Gießkanne und Besteck
 - Junge Hufflepuff-Fans können ihre Liebe zum Haus Hogwarts mit diesem LEGO Harry Potter Spielzeug zum Bauen mit einem Hogwarts-Wappen
+- Das Hufflepuff-Wappen kann dank des mitgelieferten Aufhängers als Wand-Deko verwendet werden oder zum Spielen, wenn es aufgeklappt wird
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS1KLC6{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Includes 2 LEGO minifigures: a racer minifigure with racing helmet, a mechanic with safety helmet and tools
 - Children can play for the racing circle. running for turturtur-speed-Action, then switch away from the start line and help the mechanic at the pit stop
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FMWK1P6{{</world>}}
