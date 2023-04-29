@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60281 City Fire Helicóptero de Rescate de Bomberos'
-date: 2023-04-28 05:28:16
+date: 2023-04-29 07:48:33
 image: 'https://m.media-amazon.com/images/I/519haw9p6iS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4D3P1T/?tag=tolees-21'
 descuento: '36.65'
-average: '22.9144999999998'
+average: '22.8190243902437'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Número de piezas: 212
-- Los niños pueden apilar las llamas para crear grandes fuegos, disparar el cañón de agua del helicóptero y apagar incendios desde la parte superior de la torre
-- Helicóptero de Rescate de Bomberos
-- Incluye 3 mini figuras: un trabajador de la planta, un piloto de helicóptero de bomberos y Clemmons, el héroe de la serie de TV de LEGO City Adventures
 - Edad recomendada por el fabricante: 5+
+- Incluye 3 mini figuras: un trabajador de la planta, un piloto de helicóptero de bomberos y Clemmons, el héroe de la serie de TV de LEGO City Adventures
+- Helicóptero de Rescate de Bomberos
+- Los niños pueden apilar las llamas para crear grandes fuegos, disparar el cañón de agua del helicóptero y apagar incendios desde la parte superior de la torre
+- Número de piezas: 212
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08G4D3P1T{{</world>}}
