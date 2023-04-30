@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This collectible LEGO Star Wars building set for adults features menacingly detailed  Darth Vader’s Helmet with a stand and nameplate
-- Take time out & immerse yourself in a complex creative challenge, then display it proudly as a conversation-starting object at home or office
-- This construction model for adults is part of a series of LEGO Star Wars collectible build-to-display helmet models reproduced in LEGO style
-- Makes a splendid treat for yourself and a great Star Wars gift to wow any enthusiast or experienced LEGO builder
-- Also, check out the other new-for-May-2021 LEGO Star Wars build-to-display helmet: Scout Trooper Helmet (75305)
 - The iconic shape of Darth Vader’s Helmet is recreated in LEGO bricks and is over 20 cm/8in. high including the display stand
+- Also, check out the other new-for-May-2021 LEGO Star Wars build-to-display helmet: Scout Trooper Helmet (75305)
+- This collectible LEGO Star Wars building set for adults features menacingly detailed  Darth Vader’s Helmet with a stand and nameplate
+- This construction model for adults is part of a series of LEGO Star Wars collectible build-to-display helmet models reproduced in LEGO style
+- Take time out & immerse yourself in a complex creative challenge, then display it proudly as a conversation-starting object at home or office
+- Makes a splendid treat for yourself and a great Star Wars gift to wow any enthusiast or experienced LEGO builder
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08G4GPS3Q{{</world>}}
