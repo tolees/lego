@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- L’ascesa di Domo
 - Allinterno di questa navicella spaziale i bambini troveranno la cabina di pilotaggio, unarmeria e un laboratorio super tecnologico
+- Numero di pezzi: 1040
 - Età consigliata dal produttore: 8+
 - I bambini potranno inserire le minifigure nel sedile del pilota e iniziare unentusiasmante battaglia contro i Devianti
-- Numero di pezzi: 1040
+- L’ascesa di Domo
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082WDCZTG{{</world>}}
