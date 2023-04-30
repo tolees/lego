@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO DOTS toy arts and crafts sets for kids make great creative Christmas presents or birthday gifts for girls and boys aged 6 plus years old
 - The toy arts and crafts set is great for group creative activities for kids or solo play, with pieces to wear or share once they’re done
 - This arts and crafts set for kids features 5 flat keychain-style bag tags for school bags with hanging rings in different colours and 2 sizes
+- Kids can also add the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) or any DOTS tiles to extend the fun
+- LEGO DOTS toy arts and crafts sets for kids make great creative Christmas presents or birthday gifts for girls and boys aged 6 plus years old
 - Includes lots of colourful, iridescent and decorated toy tiles, plus letter tiles to make personalised bag tags
 - This kids craft kit can be used on its own, or kids can see the easy-to-follow inspiration on the packaging and included leaflet
-- Kids can also add the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) or any DOTS tiles to extend the fun
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNT43D7{{</world>}}
