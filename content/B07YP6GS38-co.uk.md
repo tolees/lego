@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- gamers can also team up with family and friends in 2 player co-op to assemble incredible LEGO builds!
-- Experience the thrilling adventures of the Parr family as they Conquer crime and family life through both disney-pixar films the Incredibles and Incredibles 2, in a LEGO world full of fun and humour
-- Amazon exclusive Parr family Vacation character Pack DLC:
 - after all that crime fighting, the Parr family needs a little rest and Relaxation. So, they are taking a little time off. Enjoy playing as your favourite Super family in their Vacation attire with the Parr family Vacation character Pack
 - LEGO The Incredibles allows players to explore action-packed story levels and an epic hub world - including Municiberg, as they use their unique "super" Abilities to bring the citys Super Villains to justice
+- Experience the thrilling adventures of the Parr family as they Conquer crime and family life through both disney-pixar films the Incredibles and Incredibles 2, in a LEGO world full of fun and humour
+- Amazon exclusive Parr family Vacation character Pack DLC:
+- gamers can also team up with family and friends in 2 player co-op to assemble incredible LEGO builds!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07YP6GS38{{</world>}}
