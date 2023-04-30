@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Mache die LEGO Super Mario Levels, die Ihre Kinder bauen, noch spaßiger mit 1 von 8 Super Mario Sammelfiguren in jedem Charakter Pack der Serie 6 (zufällig ausgewählt)
+- Kinder finden in dem Super Mario Spielzeug entweder einen Blooper mit 3 süßen Baby-Bloopern, eine grüne Kröte an einem tropischen Strand, einen Ice Bro, Birdo, einen Bramball, einen Sumo Bro, Spike oder ein Paar Katzen Goombas
 - Jedes der LEGO Sammlerstücke enthält ein kleines Gebäude, das auch als Display-Ständer für die Super Mario-Figur verwendet werden kann, sowie den Action Schild, den die Kinder in ihre Levels einbauen können
 - Für das interaktive Spiel benötigen Kinder eines der LEGO Super Mario Starterpaket mit der LEGO Super Mario Figur (71360), LEGO Luigi (71387) oder LEGO Peach (71403), die unterschiedlich auf die Figuren reagieren
 - Dieses LEGO Sammelspielzeug ist eine lustige Geschenkidee für Kinder und Super Mario Fans ab 7 Jahren
-- Kinder finden in dem Super Mario Spielzeug entweder einen Blooper mit 3 süßen Baby-Bloopern, eine grüne Kröte an einem tropischen Strand, einen Ice Bro, Birdo, einen Bramball, einen Sumo Bro, Spike oder ein Paar Katzen Goombas
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBS3WX56{{</world>}}
