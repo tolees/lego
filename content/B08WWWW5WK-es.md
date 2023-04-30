@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 6+
 - Pack Potenciador: Mario Abeja
-- Los jugadores podrán obtener monedas digitales para hacer que la figura LEGO Mario «vuele», y se activan sonidos de zumbidos de abejas cuando echa a volar
 - Número de piezas: 13
+- Los jugadores podrán obtener monedas digitales para hacer que la figura LEGO Mario «vuele», y se activan sonidos de zumbidos de abejas cuando echa a volar
 - Este accesorio construido con ladrillos encaja en la figura LEGO Mario y/o Luigi de uno de los Packs Iniciales LEGO (71360 o 71387), necesarios para jugar
+- Edad recomendada por el fabricante: 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08WWWW5WK{{</world>}}

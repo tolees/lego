@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Además de accesorios auténticos y objetos de las películas como la cabina telefónica roja, ejemplares de El Profeta, el Patronus en forma de gato de Umbridge, 2 detonadores y el Horrocrux del guardapelo de Slytherin
-- Esta maqueta para construir de color verde es un ‘’juguete viviente’’ que puede ser reconfigurado fácilmente para vivir aventuras infinitas en el mundo mágico, ¡queda genial expuesto como pieza de decoración de Harry Potter!
-- Transforma el aspecto de Harry, Ron y Hermione con la poción multijugos, ¡tendrán una nueva cabeza y un accesorio de pelo para registrar los distintos despachos!
-- Los niños podrán construir el primer set modular LEGO que capta la amplitud y las características del Ministerio de Magia de Hogwarts, ¡un hervidero lleno de actividad!
 - Con 12 mini figuras LEGO de Harry Potter, Hermione Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg y Mary Cattermole, Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley, todas con varita y un Dementor
-- Este juguete de construcción cuenta con lugares icónicos de Harry Potter y la Orden del Fénix como el despacho de Dolores Umbridge, el de Arthur Weasley, la Sala de las Profecías y el Tribunal
+- Los niños podrán construir el primer set modular LEGO que capta la amplitud y las características del Ministerio de Magia de Hogwarts, ¡un hervidero lleno de actividad!
 - Este set LEGO Harry Potter es un gran idea de regalo de cumpleaños para jóvenes magos y brujas de 9 años en adelante amantes de la saga
+- Esta maqueta para construir de color verde es un ‘’juguete viviente’’ que puede ser reconfigurado fácilmente para vivir aventuras infinitas en el mundo mágico, ¡queda genial expuesto como pieza de decoración de Harry Potter!
+- Además de accesorios auténticos y objetos de las películas como la cabina telefónica roja, ejemplares de El Profeta, el Patronus en forma de gato de Umbridge, 2 detonadores y el Horrocrux del guardapelo de Slytherin
+- Transforma el aspecto de Harry, Ron y Hermione con la poción multijugos, ¡tendrán una nueva cabeza y un accesorio de pelo para registrar los distintos despachos!
+- Este juguete de construcción cuenta con lugares icónicos de Harry Potter y la Orden del Fénix como el despacho de Dolores Umbridge, el de Arthur Weasley, la Sala de las Profecías y el Tribunal
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QG43GV1{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- El el set se compone de un vehículo caminante AT-ST articulado con cabina con espacio para una mini figura LEGO, una guarida Ewok con un árbol y una catapulta para lanzar elementos de piedras
-- Con 3 mini figuras LEGO de Ewok Wicket (con arco y flecha), un soldado explorador y un piloto de AT-ST (ambos con pistolas bláster de juguete) para revivir la épica Batalla de Endor
 - Basado en la película Star Wars: el Retorno del Jedi, los peques podrán ayudar al valiente Ewok Wicket a defender la guarida contra los Soldados Exploradores, ¡antes de que el poderoso AT-ST aplaste el árbol a su paso!
+- Con 3 mini figuras LEGO de Ewok Wicket (con arco y flecha), un soldado explorador y un piloto de AT-ST (ambos con pistolas bláster de juguete) para revivir la épica Batalla de Endor
+- El el set se compone de un vehículo caminante AT-ST articulado con cabina con espacio para una mini figura LEGO, una guarida Ewok con un árbol y una catapulta para lanzar elementos de piedras
 - Este juguete de construcción LEGO Star Wars AT-ST para niños de 4 años en adelante cuenta con un genial ladrillo para principiantes para que la diversión y la construcción comiencen nada más abrir la caja
 - Fácil de reconstruir después de las batallas, este juego de acción LEGO Star Wars de 87 piezas es un divertido regalo de cumpleaños, Navidad o en cualquier ocasión para niños creativos amantes de la saga
 
