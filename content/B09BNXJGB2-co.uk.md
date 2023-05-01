@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Treat yourself or give this 1,000-piece set as a LEGO Star Wars gift to an adult Star Wars fan or a passionate LEGO dioramas builder - makes a fun Fathers Day gift idea
-- Have a look into other LEGO Star Wars diorama model building kits of memorabilia designed to spark nostalgia
+- Attach a plaque reading "Do. Or do not. There is no try", as said by Yoda to finish the unique Star Wars room décor memorabilia piece
+- This Star Wars LEGO for adults set includes Yoda’s hut on the planet Dagobah & the wing of Luke Skywalker’s X-wing sticking out of the swamp
 - Channel the focus of Jedi Master Yoda as you recreate an iconic Star Wars: The Empire Strikes Back scene with LEGO bricks
 - Includes 2 LEGO Star Wars minifigures: Luke Skywalker and Yoda with his walking stick, and a LEGO droid figure, LEGO R2-D2
-- This Star Wars LEGO for adults set includes Yoda’s hut on the planet Dagobah & the wing of Luke Skywalker’s X-wing sticking out of the swamp
-- Attach a plaque reading "Do. Or do not. There is no try", as said by Yoda to finish the unique Star Wars room décor memorabilia piece
+- Treat yourself or give this 1,000-piece set as a LEGO Star Wars gift to an adult Star Wars fan or a passionate LEGO dioramas builder - makes a fun Fathers Day gift idea
+- Have a look into other LEGO Star Wars diorama model building kits of memorabilia designed to spark nostalgia
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNXJGB2{{</world>}}
