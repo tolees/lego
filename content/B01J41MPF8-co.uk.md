@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Measures over 15 cm high, 28 cm wide and 8 cm deep
+- Model features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge
 - This building toy includes 468 pieces and is suitable for boys and girls aged 12 years
 - LEGO Architecture models are compatible with all LEGO construction sets for creative building
-- Measures over 15 cm high, 28 cm wide and 8 cm deep
-- Includes collectible booklet containing information about the design, architecture and history of the building
 - Build a detailed model of the London skyline
-- Model features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge
+- Includes collectible booklet containing information about the design, architecture and history of the building
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01J41MPF8{{</world>}}
