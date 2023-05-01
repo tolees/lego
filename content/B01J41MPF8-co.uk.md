@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21034 Architecture Skyline Model Building Set  London Eye  Big Ben  Tower Bridge Collection  Office Home Décor  Collectible Gift Idea'
-date: 2023-04-28 10:02:54
+date: 2023-05-01 04:05:48
 image: 'https://m.media-amazon.com/images/I/51Lehvo-3iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B01J41MPF8/?tag=tolees0a-21'
 descuento: '25.72'
-average: '36.7549027237355'
+average: '36.7131782945737'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - This building toy includes 468 pieces and is suitable for boys and girls aged 12 years
-- Build a detailed model of the London skyline
-- Includes collectible booklet containing information about the design, architecture and history of the building
-- Model features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge
 - LEGO Architecture models are compatible with all LEGO construction sets for creative building
 - Measures over 15 cm high, 28 cm wide and 8 cm deep
+- Includes collectible booklet containing information about the design, architecture and history of the building
+- Build a detailed model of the London skyline
+- Model features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01J41MPF8{{</world>}}

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Il modellino di auto jeep LEGO è dotato anche di portapacchi rimovibile con portaoggetti, borsa, scaletta e tappetini di trazione, porte, cofano e portellone posteriore apribili
-- Numero di pezzi: 2573
 - Land Rover Defender
-- Labitacolo di questa costruzione per bambini e adulti presenta un cruscotto ricco di dettagli, un volante funzionante e sedili posteriori ribaltabili, che rivelano il cambio sequenziale a 4 rapporti
 - Età consigliata dal produttore: 11+
+- Labitacolo di questa costruzione per bambini e adulti presenta un cruscotto ricco di dettagli, un volante funzionante e sedili posteriori ribaltabili, che rivelano il cambio sequenziale a 4 rapporti
+- Numero di pezzi: 2573
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07P2GQDQ6{{</world>}}
