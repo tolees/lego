@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - This LEGO 4+ set includes dolls house accessories: a brush, a guitar, kitchen utensils, food and more so children can invent their own stories
-- Includes 3 LEGO mini-dolls: Paisley, a shy girl who loves music, Ella and Jonathan, part of the new generation of LEGO Friends 2023 characters
-- The set features a starter brick for quick building plus instructions via the LEGO Builder app with tools to zoom and rotate models in 3D
-- After exploring the house, kids can join Paisley in the garden where she loves to compose music on her guitar and say hello to pet bunny Melody
-- A great birthday gift idea or a special treat for kids aged 4 plus years old who love dolls houses and imaginative play with creative toys
 - This toy dolls house has rooms on the upper floor that can be separated, plus a cosy outdoor area with a hutch for the pet bunny figure
+- A great birthday gift idea or a special treat for kids aged 4 plus years old who love dolls houses and imaginative play with creative toys
+- After exploring the house, kids can join Paisley in the garden where she loves to compose music on her guitar and say hello to pet bunny Melody
 - Features a 2-storey dolls house toy for kids aged 4+ with removable top floor and lots of accessories, plus Paisley, Ella and Jonathan mini-dolls
+- The set features a starter brick for quick building plus instructions via the LEGO Builder app with tools to zoom and rotate models in 3D
+- Includes 3 LEGO mini-dolls: Paisley, a shy girl who loves music, Ella and Jonathan, part of the new generation of LEGO Friends 2023 characters
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRWJJMP{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features a buildable arch ruin which can create the effect of Hermione and Ron floating with 2 flexible LEGO elements, plus 2 caves with treasure
-- A great experience for all builders - the LEGO Builder app guides kids on an intuitive building adventure with tools that give a helping hand
 - 5 LEGO Harry Potter minifigures: Harry with flippers, Viktor Krum with a shark head, Hermione, Ron, a Merperson plus Grindylow and crab figures
+- A great experience for all builders - the LEGO Builder app guides kids on an intuitive building adventure with tools that give a helping hand
+- Also includes a toy boat and a pier model with a minifigure-diving function plus a rotating clock and accessory elements, such as Gillyweed Potion
 - Kids can work to save Hermione and Ron underwater by finding the Gillyweed potion for Harry then diving from the pier to the rescue
 - Kids can play out Triwizard Tournament tasks at the Black Lake from Harry Potter and the Goblet of Fire with this LEGO Harry Potter building toy
-- Also includes a toy boat and a pier model with a minifigure-diving function plus a rotating clock and accessory elements, such as Gillyweed Potion
+- Features a buildable arch ruin which can create the effect of Hermione and Ron floating with 2 flexible LEGO elements, plus 2 caves with treasure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRV5BKP{{</world>}}

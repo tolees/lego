@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Das Familienhaus verfügt über Terrassenmöbel und einen Briefkasten, das Kanalhaus über einen Hund und 2 Spielzeugboote und das Seehaus über eine Feuerstelle und ein Boot
-- Außerdem sind 3 Minifiguren enthalten: 2 Erwachsene und 1 Kind. Kinder können ihre Haare und Kleidung austauschen, um ihre eigenen LEGO Minifiguren zu erschaffen
 - Das Familien- und das Seehaus können in der Mitte geöffnet werden, während die oberste Etage des Kanalhauses herausgenommen und auf der Rückseite hinzugefügt werden kann
-- Das Bauspielzeug-Haus kann zu einem 3-stöckigen Kanalhaus mit Büro, Kunstgalerie und Café im Dachgeschoss oder zu einem Ferienhaus am See umgebaut werden
-- Lass der Fantasie deiner Kinder freien Lauf mit den LEGO Creator 3in1 Sets wie: Oldtimer Motorrad (31135), Exotischer Papagei (31136) und Strandcampingbus (31138)
-- Das LEGO Creator 3in1 Gemütliches Haus Modellhaus enthält 3 verschiedene Arten von Häusern: ein Familienhaus, ein Haus am Kanal und ein Haus am See
 - Das voll ausgestattete LEGO Haus umfasst 4 Zimmer: Küche, Wohnzimmer und 2 Schlafzimmer sowie eine Gartenterrasse
+- Lass der Fantasie deiner Kinder freien Lauf mit den LEGO Creator 3in1 Sets wie: Oldtimer Motorrad (31135), Exotischer Papagei (31136) und Strandcampingbus (31138)
+- Außerdem sind 3 Minifiguren enthalten: 2 Erwachsene und 1 Kind. Kinder können ihre Haare und Kleidung austauschen, um ihre eigenen LEGO Minifiguren zu erschaffen
+- Das Familienhaus verfügt über Terrassenmöbel und einen Briefkasten, das Kanalhaus über einen Hund und 2 Spielzeugboote und das Seehaus über eine Feuerstelle und ein Boot
+- Das Bauspielzeug-Haus kann zu einem 3-stöckigen Kanalhaus mit Büro, Kunstgalerie und Café im Dachgeschoss oder zu einem Ferienhaus am See umgebaut werden
+- Das LEGO Creator 3in1 Gemütliches Haus Modellhaus enthält 3 verschiedene Arten von Häusern: ein Familienhaus, ein Haus am Kanal und ein Haus am See
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRWHP5F{{</world>}}
