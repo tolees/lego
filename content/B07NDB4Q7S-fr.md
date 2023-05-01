@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Faucon Millenium Maquette à Construire et Figurines Finn  Chewbacca  Lando  C-3PO  R2-D2  Collection de L Ascension de Skywalker'
-date: 2023-04-30 00:57:21
+date: 2023-05-01 01:18:32
 image: 'https://m.media-amazon.com/images/I/51phuzu1hyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07NDB4Q7S/?tag=tolees0d-21'
 descuento: '23.58'
-average: '144.728147058825'
+average: '144.706372980912'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

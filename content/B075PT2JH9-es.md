@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - LEGO 75192 Star Wars TM Millennium Falcon'
-date: 2023-04-30 00:56:35
+date: 2023-05-01 01:12:21
 image: 'https://m.media-amazon.com/images/I/51R2MaM2aZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B075PT2JH9/?tag=tolees-21'
 descuento: '36.25'
-average: '836.72908950617'
+average: '836.696271186438'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Also includes 3 Episode VII/VIII crew minifigures: Older Han Solo, Rey and Finn.
-- Includes 4 classic crew minifigures: Han Solo, Chewbacca, Princess Leia and C-3PO.
-- Manufacturer recommended age: 16+
-- Number of pieces: 7541
-- Figures include a BB-8 droid, 2 buildable Porgs and a buildable Mynock.
+- Número de piezas: 7541
+- Incluye 4 mini figuras LEGO clásicas de la tripulación: Han Solo, Chewbacca, princesa Leia y C-3PO, además de 3 tripulantes del Episodio VII/VIII: Han Solo Mayor, Rey y Finn
+- Millennium Falcon
+- Podrás construir un droide BB-8, 2 Porgs y un Mynock mientras admiras los minuciosos destalles del casco, el plato sensor, los cañones láser cuádruples y el cañón bláster oculto
+- Edad recomendada por el fabricante: 16+
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B075PT2JH9{{</world>}}

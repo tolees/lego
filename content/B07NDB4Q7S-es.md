@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Halcón Milenario  Jueguete de Construcción  Nave Estelar con Mini Figuras R2-D2  Chewbacca y Lando  Película Ascenso de Skywalker'
-date: 2023-04-30 01:02:08
+date: 2023-05-01 01:23:57
 image: 'https://m.media-amazon.com/images/I/51phuzu1hyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07NDB4Q7S-es LEGO 75257 Star Wars Halcón Milenario Jueguete de...'
 sku: 'B07NDB4Q7S-es'
 tags: [ 'Bebés','Juegos de construcción','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Self Service','Sets de construcción','Special Features Stores','lego','partition_000','partition_104','🇪🇸', ]
-actualPrice: 139.19 EUR
+actualPrice: 135.99 EUR
 currency: EUR
-price: 139.19
+price: 135.99
 comparePrice: 169.99 EUR
 prodname: 'LEGO 75257 Star Wars Halcón Milenario  Jueguete de Construcción  Nave Estelar con Mini Figuras R2-D2  Chewbacca y Lando  Película Ascenso de Skywalker'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21'
-descuento: '18.12'
-average: '145.343104212855'
+descuento: '20.00'
+average: '145.332746400881'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Podrás jugar, explorar y crear historias con esta nave estelar de Star Wars con sofá, mesa de holojuego Dejarik, cocina, litera y herramientas para reparar el hiperimpulsor
-- Este coleccionable de Star Wars incluye un área de carga con 2 contenedor, computadora de navegación con silla giratoria, compartimento de contrabando oculto y un hiperimpulsor
 - Descubre toda la gama de juguetes de construcción de LEGO Star Wars para conocer la increíble variedad de regalos de Star Wars que encantarán a niños de todas las edades
-- Esta maqueta para construir cuenta con torretas giratorias superiores e inferiores (espacio para 2 mini figuras), 2 cañones automáticos, una rampa descendente y una cabina abatible
 - Incluye 7 mini figuras LEGO de icónicos personajes: Finn y su bláster, Chewbacca con una ballesta que dispara, Lando Calrissian y bláster, C-3PO, Boolio, D-O y R2-D2
-- Explora una galaxia muy, muy lejana con este juego de construcción para niños de 9 años en adelante de LEGO Star Wars y construye el famoso Halcón Milenario
+- Podrás jugar, explorar y crear historias con esta nave estelar de Star Wars con sofá, mesa de holojuego Dejarik, cocina, litera y herramientas para reparar el hiperimpulsor
 - Los peques podrán interpretar historias de la película Star Wars: El Ascenso de Skywalker con este Halcón Milenario de ladrillos LEGO, ¡queda genial expuesto en la habitación!
+- Este coleccionable de Star Wars incluye un área de carga con 2 contenedor, computadora de navegación con silla giratoria, compartimento de contrabando oculto y un hiperimpulsor
+- Esta maqueta para construir cuenta con torretas giratorias superiores e inferiores (espacio para 2 mini figuras), 2 cañones automáticos, una rampa descendente y una cabina abatible
+- Explora una galaxia muy, muy lejana con este juego de construcción para niños de 9 años en adelante de LEGO Star Wars y construye el famoso Halcón Milenario
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07NDB4Q7S{{</world>}}
