@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60228 City Deep Space Rocket and Launch Control Mars Expedition Set  Space Toys for Kids inspired by NASA with Astronauts  Scientists and Robot Minifigures'
-date: 2023-05-01 00:48:59
+date: 2023-05-02 01:13:07
 image: 'https://m.media-amazon.com/images/I/51YvnEEdAVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTSGWDJ/?tag=tolees0a-21'
 descuento: '35.74'
-average: '99.0656428571431'
+average: '99.1131153388825'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This large NASA-inspired multi-stage rocket can be customised in different ways with the booster, payload storage and cockpit modules
-- Feat. a rover with articulated, new-for-June-2019 grappling arm, space telescope with folding solar panels and magnifying glass and 2 cars
-- Includes an opening launch control tower with removable window, a launchpad with opening tower arms to launch the rocket, and a research area
 - Includes 6 LEGO City minifigures: 2 astronauts, 2 scientists, Launch Director, ground crew technician and a robot figure, plus accessories
 - Accessory elements include 2 new-for-June-2019 geodes, 2 helmets, a magnifying glass, scanner element, wrench and many more.
+- Includes an opening launch control tower with removable window, a launchpad with opening tower arms to launch the rocket, and a research area
+- This large NASA-inspired multi-stage rocket can be customised in different ways with the booster, payload storage and cockpit modules
+- Feat. a rover with articulated, new-for-June-2019 grappling arm, space telescope with folding solar panels and magnifying glass and 2 cars
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07KTSGWDJ{{</world>}}

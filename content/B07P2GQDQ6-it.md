@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42110 Technic Land Rover Defender'
-date: 2023-05-01 01:34:12
+date: 2023-05-02 01:52:19
 image: 'https://m.media-amazon.com/images/I/51itWBpFxYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07P2GQDQ6/?tag=tolees00-21'
 descuento: '19.12'
-average: '174.036598311216'
+average: '174.067397590359'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Il modellino di auto jeep LEGO è dotato anche di portapacchi rimovibile con portaoggetti, borsa, scaletta e tappetini di trazione, porte, cofano e portellone posteriore apribili
 - Land Rover Defender
-- Età consigliata dal produttore: 11+
-- Labitacolo di questa costruzione per bambini e adulti presenta un cruscotto ricco di dettagli, un volante funzionante e sedili posteriori ribaltabili, che rivelano il cambio sequenziale a 4 rapporti
 - Numero di pezzi: 2573
+- Età consigliata dal produttore: 11+
+- Il modellino di auto jeep LEGO è dotato anche di portapacchi rimovibile con portaoggetti, borsa, scaletta e tappetini di trazione, porte, cofano e portellone posteriore apribili
+- Labitacolo di questa costruzione per bambini e adulti presenta un cruscotto ricco di dettagli, un volante funzionante e sedili posteriori ribaltabili, che rivelano il cambio sequenziale a 4 rapporti
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07P2GQDQ6{{</world>}}
