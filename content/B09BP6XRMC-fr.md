@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Le robot ultra combo ninja, composé de 4 véhicules différents, constitue l’arme de combat ultime pour rejouer des aventures de ninjas qui mettent en scène les héros des enfants
-- Seuls, les ninjas ne peuvent pas combattre Cobra mécanique et Boa destructeur, mais en faisant équipe, ils le dominent et réussissent à l’emporter !
-- Après avoir terminé la mission, les enfants recevront la bannière de Travail d’équipe en récompense
-- Ce set de véhicules LEGO NINJAGO 4 en 1 inclut une figurine LEGO composée d’un robot, d’une voiture, d’un tank et d’un jet avec lesquels il est possible de jouer séparément
-- Vous trouverez des bannières dans 7 autres sets, y compris Le dragon légendaire de Lloyd 71766, L’évolution Voiture de course de Jay et Nya 71776 et le Temple dojo ninja 71767
 - Les jouets et figurines set de voitures LEGO NINJAGO constituent un fabuleux cadeau d’anniversaire pour les enfants dès 9 ans fans de batailles ninja et de véhicules
+- Vous trouverez des bannières dans 7 autres sets, y compris Le dragon légendaire de Lloyd 71766, L’évolution Voiture de course de Jay et Nya 71776 et le Temple dojo ninja 71767
+- Le robot ultra combo ninja, composé de 4 véhicules différents, constitue l’arme de combat ultime pour rejouer des aventures de ninjas qui mettent en scène les héros des enfants
+- Ce set de véhicules LEGO NINJAGO 4 en 1 inclut une figurine LEGO composée d’un robot, d’une voiture, d’un tank et d’un jet avec lesquels il est possible de jouer séparément
+- Seuls, les ninjas ne peuvent pas combattre Cobra mécanique et Boa destructeur, mais en faisant équipe, ils le dominent et réussissent à l’emporter !
 - Il comprend 7 minifigures LEGO NINJAGO : Kai, Jay, Zane et Cole, le duo de serpents guerriers Cobra mécanique et Boa destructeur, ainsi que Wu Bot
+- Après avoir terminé la mission, les enfants recevront la bannière de Travail d’équipe en récompense
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BP6XRMC{{</world>}}

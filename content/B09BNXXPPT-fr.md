@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lensemble comprend une minifigurine LEGO du personnage dHorizon, Aloy, avec un arc et une lance en briques, et une figurine LEGO du Veilleur avec différent yeux, bleus, jaunes ou rouges
-- Les détails authentiques comme la tête en forme de disque, l’antenne sortant du cou, les structures semblables à des queues et les longues pattes du Grand-cou sont reproduites dans le style LEGO dans cette figurine Horizon Forbidden West
 - Exposez le Grand-cou sur un support avec des détails originaux du paysage Horizon, et cette pièce de collection LEGO sera parfaite comme pièce de décoration dintérieur pour votre salon ou votre bureau
-- La figurine LEGO est entourée dun paysage, notamment dun bouleau en briques, dherbes hautes et dun feu de signalisation rouillé, avec une plante grimpante enroulée autour
+- Lensemble comprend une minifigurine LEGO du personnage dHorizon, Aloy, avec un arc et une lance en briques, et une figurine LEGO du Veilleur avec différent yeux, bleus, jaunes ou rouges
 - Cette maquette à construire pour adulte comprend un modèle en brique du Grand-cou avec des détails du paysage Horizon construits en brique dans le style LEGO
+- La figurine LEGO est entourée dun paysage, notamment dun bouleau en briques, dherbes hautes et dun feu de signalisation rouillé, avec une plante grimpante enroulée autour
+- Les détails authentiques comme la tête en forme de disque, l’antenne sortant du cou, les structures semblables à des queues et les longues pattes du Grand-cou sont reproduites dans le style LEGO dans cette figurine Horizon Forbidden West
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNXXPPT{{</world>}}
