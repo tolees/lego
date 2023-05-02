@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este juguete para niños de 9 años del Palacio de Jabba de Star Wars incluye escaleras temblorosas para derribar a los guardias, una puerta que se abre, ¡y muchos más secretos!
-- Este juguete de Star Wars para niños es un excelente regalo de cumpleaños o un regalo especial para los peques a los que les gusta Star Wars: El libro de Boba Fett
-- El trono viene con una función emergente para expulsar a Bib Fortuna y una cámara secreta que contiene armas y elementos de beskar
-- Despliega el frontal del modelo construible y después abre la parte posterior para descubrir una cocina y un área de barbacoa con un asador, además de divertidos accesorios
 - Los peques fans de Star Wars: El Libro de Boba Fett pueden recrear detalles de la sala del trono y otras partes del Palacio de Jabba con este juego de construcción LEGO Star Wars
 - Incluye 7 mini figuras LEGO Star Wars: Boba Fett, Fennec Shand, Bib Fortuna, Bailarina de Theelin, Guardia Weequay, Guardia Gamorreano y Quarren
+- Este juguete de Star Wars para niños es un excelente regalo de cumpleaños o un regalo especial para los peques a los que les gusta Star Wars: El libro de Boba Fett
+- El trono viene con una función emergente para expulsar a Bib Fortuna y una cámara secreta que contiene armas y elementos de beskar
 - Los juguetes para construir de LEGO Star Wars permiten a los niños recrear escenas memorables, inventar nuevas aventuras y exhibir los juguetes de construcción
+- Este juguete para niños de 9 años del Palacio de Jabba de Star Wars incluye escaleras temblorosas para derribar a los guardias, una puerta que se abre, ¡y muchos más secretos!
+- Despliega el frontal del modelo construible y después abre la parte posterior para descubrir una cocina y un área de barbacoa con un asador, además de divertidos accesorios
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNWHT5P{{</world>}}
