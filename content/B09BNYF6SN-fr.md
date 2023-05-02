@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 71767 Ninjago Le Temple Dojo Ninja Set Maîtres du Spinjitzu  Jouet Enfants +8 Ans avec Figurines Lloyd  Kai et Serpent avec bannière de Mission à Collectionner'
-date: 2023-03-25 01:05:16
+date: 2023-05-02 06:42:44
 image: 'https://m.media-amazon.com/images/I/51EJYB1a6JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B09BNYF6SN/?tag=tolees0d-21'
 descuento: '28.70'
-average: '73.9342857142857'
+average: '75.4055555555556'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Les 5 pièces du set du dojo LEGO NINJAGO incluent la salle de thé de Wu, l’atelier de Pixal et une armurerie remplie d’armes qui offrent des possibilités de jeu infinies
-- Après leur mission, les enfants reçoivent une bannière Sagesse en récompense à placer sur le toit du dojo avec les autres bannières gagnées dans les autres sets (vendus séparément)
 - Les enfants peuvent rejoindre les ninjas dans leur dojo secret et devenir maîtres du Spinjitzu, mais attention aux serpents sournois qui peuvent attaquer la porte au bélier !
 - Il comprend 8 minifigures LEGO NINJAGO : Lloyd, Kai, Cole, Nya, Pixal et Master Wu, ainsi que les guerriers serpent LEGO NINJAGO Boa destructeur et Cobra mécanique
-- Les enfants peuvent former leurs héros grâce à ce set LEGO NINJAGO Maîtres du Spinjitzu Le temple dojo ninja, qui comprend une zone d’entraînement et 5 pièces
-- Vous trouverez des bannières dans 7 autres sets, y compris L’évolution Voiture de course de Lloyd 71763, Le dragon légendaire de Lloyd 71766 et Le robot ultra combo ninja 71765
+- Les 5 pièces du set du dojo LEGO NINJAGO incluent la salle de thé de Wu, l’atelier de Pixal et une armurerie remplie d’armes qui offrent des possibilités de jeu infinies
 - Ce set de 1 394 pièces peut être combiné avec le Centre de formation ninja 71764 et constitue un sublime cadeau d’anniversaire pour les enfants fans de figurines NINJAGO
+- Après leur mission, les enfants reçoivent une bannière Sagesse en récompense à placer sur le toit du dojo avec les autres bannières gagnées dans les autres sets (vendus séparément)
+- Vous trouverez des bannières dans 7 autres sets, y compris L’évolution Voiture de course de Lloyd 71763, Le dragon légendaire de Lloyd 71766 et Le robot ultra combo ninja 71765
+- Les enfants peuvent former leurs héros grâce à ce set LEGO NINJAGO Maîtres du Spinjitzu Le temple dojo ninja, qui comprend une zone d’entraînement et 5 pièces
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNYF6SN{{</world>}}
