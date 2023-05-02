@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 31131 Creator 3in1 Downtown Noodle Shop House to Bike Shop or Arcade Modular Building Set  Toy Gift for Kids 8 Plus Years Old'
-date: 2023-04-25 07:45:04
+title: 'LEGO 31131 Creator 3in1 Downtown Noodle Shop House to Bike Shop or Arcade Modular Building Set  Toy Gift for Kids 8 Plus Years Old  Multicolor'
+date: 2023-05-02 11:06:38
 image: 'https://m.media-amazon.com/images/I/517RK5ETmkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 29.99 GBP
 currency: GBP
 price: 29.99
 comparePrice: 39.99 GBP
-prodname: 'LEGO 31131 Creator 3in1 Downtown Noodle Shop House to Bike Shop or Arcade Modular Building Set  Toy Gift for Kids 8 Plus Years Old'
+prodname: 'LEGO 31131 Creator 3in1 Downtown Noodle Shop House to Bike Shop or Arcade Modular Building Set  Toy Gift for Kids 8 Plus Years Old  Multicolor'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09QFVLHZH/?tag=tolees0a-21'
 descuento: '25.01'
-average: '26.71'
+average: '27.2566666666667'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- With 2 LEGO minifigures and a host of accessories including a vending machine, bicycle selling ice creams, a bonsai tree and a brick built dog
-- LEGO Creator sets come with interactive digital building app that allows to zoom, rotate and visualise the build on smartphones and tablets
-- The bike shop model features a newsstand and art studio and the arcade has 3 gaming machines and a cool console controller sign on the roof!
-- The cool noodle shop on the ground floor of the 2-storey LEGO town house model has a flat and roof terrace above it, decorated with a tree
-- Allows kids to build and rebuild to enjoy 3 different city scenes; the building toy looks awesome on display in kids rooms when the build is done
 - The back of this town house toy opens up for easy access to spaces on both floors with details and toy accessories giving kids more play options
 - This LEGO creator 3in1 building toy set features a townhouse and noodle shop, bike shop and arcade models, plus 2 minifigures and accessories
+- Allows kids to build and rebuild to enjoy 3 different city scenes; the building toy looks awesome on display in kids rooms when the build is done
+- The bike shop model features a newsstand and art studio and the arcade has 3 gaming machines and a cool console controller sign on the roof!
+- LEGO Creator sets come with interactive digital building app that allows to zoom, rotate and visualise the build on smartphones and tablets
+- With 2 LEGO minifigures and a host of accessories including a vending machine, bicycle selling ice creams, a bonsai tree and a brick built dog
+- The cool noodle shop on the ground floor of the 2-storey LEGO town house model has a flat and roof terrace above it, decorated with a tree
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFVLHZH{{</world>}}
