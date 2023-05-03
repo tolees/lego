@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The Disney princess buildable toy also includes a large deck with a removable shelter containing 2 beds and a small fire lamp element
-- The eye-catching, buildable Catamaran toy boat for kids features a printed sail that shows stories of the traditional Motunui people
 - Lots of play-inspiring accessories are included in the set, like an oar for the boat, drums for Moana to play on and coconut LEGO food elements
-- Includes Moana and her mother Sina LEGO mini-doll figures, plus a dolphin figure for kids to play out scenes from the Film or create their own
 - Epic adventures await with this LEGO | Disney Princess Moana buildable toy set, featuring a boat with a sail, 2 mini-dolls and a dolphin figure
 - Disney Princess fans will love this buildable toy playset with an iconic toy boat as a birthday gift or any-time treat for kids aged 6+ years old
+- The eye-catching, buildable Catamaran toy boat for kids features a printed sail that shows stories of the traditional Motunui people
+- Includes Moana and her mother Sina LEGO mini-doll figures, plus a dolphin figure for kids to play out scenes from the Film or create their own
+- The Disney princess buildable toy also includes a large deck with a removable shelter containing 2 beds and a small fire lamp element
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRTM52W{{</world>}}
