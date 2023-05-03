@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- La app gratuita Instrucciones de Montaje LEGO para smartphones y tabletas permite a los peques acercar, girar y ver el juguete desde todos los ángulos mientras lo construyen
-- La grúa de juguete está montada sobre un fascinante camión de 6 ruedas, tras ponerlo posición, los peques podrán bajar las almohadillas de soporte de la grúa, girar y extender el brazo y levantar y bajar el cabrestante
-- Los juguetes de construcción LEGO City Grandes Vehículos son una gran idea de regalos de Navidad o Reyes para niños y niñas de 7 años en adelante
 - Este vehículo de juguete incluye una divertida base de carretera que permite conectar el set a otros de la gama LEGO City
 - Con las mini figuras LEGO de un conductor y un operador de grúa, y accesorios de juguete: una llave inglesa, un walkie-talkie y 2 cascos de seguridad para llevar a cabo un juego realista
+- La grúa de juguete está montada sobre un fascinante camión de 6 ruedas, tras ponerlo posición, los peques podrán bajar las almohadillas de soporte de la grúa, girar y extender el brazo y levantar y bajar el cabrestante
 - Este set LEGO City incluye un vehículo de construcción de juguete de una grúa móvil con almohadillas, brazo y cabrestante que funcionan de verdad, accesorios y 2 mini figuras LEGO de trabajadores
+- La app gratuita Instrucciones de Montaje LEGO para smartphones y tabletas permite a los peques acercar, girar y ver el juguete desde todos los ángulos mientras lo construyen
+- Los juguetes de construcción LEGO City Grandes Vehículos son una gran idea de regalos de Navidad o Reyes para niños y niñas de 7 años en adelante
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNW4L4R{{</world>}}

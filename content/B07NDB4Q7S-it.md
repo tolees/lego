@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Il modellino in mattoncini LEGO del cargo Corelliano include anche un divano e un tavolo dell’olo-gioco Dejarik, una cambusa, una cuccetta, un hyperdrive e gli strumenti di riparazione
+- Sono compresi personaggi di Star Wars, quali Finn, Chewbacca, Lando Calrissian, Boolio, C-3PO, R2-D2 e D-O, ognuno completo di accessori originali, come le pistole giocattolo blaster
 - Lastronave Millennium Falcon LEGO Star Wars include una torretta superiore e una inferiore girevoli (la torretta inferiore ha spazio per 2 minifigure LEGO), e 2 shooter a molla
 - Un gioco per bambini e bambine dai 9 anni in su da collezione, perfetto come idea regalo per tutti gli appassionati delluniverso di Guerre Stellari di ogni età
-- Allinterno del modellino da costruire del Millennium Falcon sono presenti una zona di carico con 2 container, un computer di navigazione con sedia girevole, e un compartimento nascosto per il contrabbando
 - Questo gioco per bambini è inoltre completo di una rampa che si può abbassare e di una cabina di pilotaggio apribile con spazio per 2 minifigure LEGO al suo interno
-- Sono compresi personaggi di Star Wars, quali Finn, Chewbacca, Lando Calrissian, Boolio, C-3PO, R2-D2 e D-O, ognuno completo di accessori originali, come le pistole giocattolo blaster
+- Il modellino in mattoncini LEGO del cargo Corelliano include anche un divano e un tavolo dell’olo-gioco Dejarik, una cambusa, una cuccetta, un hyperdrive e gli strumenti di riparazione
+- Allinterno del modellino da costruire del Millennium Falcon sono presenti una zona di carico con 2 container, un computer di navigazione con sedia girevole, e un compartimento nascosto per il contrabbando
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07NDB4Q7S{{</world>}}
