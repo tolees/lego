@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Auch super als Geschenk für einen Star Wars-Fan, der bisher noch kein LEGO Set hatte – eine bebilderte Schritt-für-Schritt-Bauanleitung ist enthalten, um jedem beim Bauen ein Jedi-gleiches Selbstvertrauen zu verleihen
 - Enthält 4 LEGO Minifiguren – Obi-Wan Kenobi mit blauem Lichtschwert, Darth Vader mit rotem Lichtschwert, Tala Durith mit Blaster-Pistole sowie der Droide NED-B mit Motorhammer und Rucksack
 - Das Kampfset verfügt außerdem über hochschnellende Flammen, einen aufklappbaren Schmelzofen sowie eine Lore zum Ankoppeln und Umstoßen
-- Stelle epische Duelle mit Lichtschwertern aus Star Wars: Obi-Wan Kenobi mit diesem actiongeladenen LEGO Star Wars Bauspielzeug mit den Minifiguren Obi-Wan und Darth Vader nach
+- Auch super als Geschenk für einen Star Wars-Fan, der bisher noch kein LEGO Set hatte – eine bebilderte Schritt-für-Schritt-Bauanleitung ist enthalten, um jedem beim Bauen ein Jedi-gleiches Selbstvertrauen zu verleihen
 - Dieses Spielzeugset zum Zusammenbauen verfügt über 2 drehbare Duell-Plattformen und einen durchscheinenden Ständer für Obi-Wans Macht-Sprünge
+- Stelle epische Duelle mit Lichtschwertern aus Star Wars: Obi-Wan Kenobi mit diesem actiongeladenen LEGO Star Wars Bauspielzeug mit den Minifiguren Obi-Wan und Darth Vader nach
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFPBDKQ{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Super Mario Startersets (71360, 71387 oder 71403, für interaktives Spiel erforderlich) und Erweiterungssets lassen das kultige Super Mario Videospiel wieder aufleben
-- Dieses baubare Super Mario Spiel-Erweiterungsset enthält außerdem 3 LEGO Super Mario Sammelfiguren: Wendy, einen blauen Yoshi und einen Gumba
-- LEGO Super Mario Spieler können mit diesem Kreativbox – Leveldesigner-Set, das Gras, Lava, Wüste und 3 Früchte enthält, neue Levels erschaffen und erweitern
 - Beinhaltet baubare Bäume, Blumen, Hügel, Pilze, Pyramiden, Wegweiser und einen Rücksetzpunkt sowie Wolken- und Busch-Elemente für einen klassischen Look
-- Enthält eine Frucht, die LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) "verspeisen" können, eine Geschenkbox und ein Superpilz mit Funktionsstein
+- LEGO Super Mario Spieler können mit diesem Kreativbox – Leveldesigner-Set, das Gras, Lava, Wüste und 3 Früchte enthält, neue Levels erschaffen und erweitern
+- LEGO Super Mario Startersets (71360, 71387 oder 71403, für interaktives Spiel erforderlich) und Erweiterungssets lassen das kultige Super Mario Videospiel wieder aufleben
 - Dieses Bastelset ist ein lustiges Geburtstags-, oder Überraschungsgeschenk für Kinder, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen
+- Dieses baubare Super Mario Spiel-Erweiterungsset enthält außerdem 3 LEGO Super Mario Sammelfiguren: Wendy, einen blauen Yoshi und einen Gumba
+- Enthält eine Frucht, die LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) "verspeisen" können, eine Geschenkbox und ein Superpilz mit Funktionsstein
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS31HSP{{</world>}}

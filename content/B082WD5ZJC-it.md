@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Numero di pezzi: 493
-- Il set include le minifigure di 4 Eterni, Ikaris, Sersi e, in esclusiva, Ajak e Kingo, 1 Deviante e 1 Celestiale flessibile
-- Età consigliata dal produttore: 7+
 - All’ombra di Arishem
+- Età consigliata dal produttore: 7+
 - Il petto dellimponente Celestiale si illumina e le mani possono contenere le minifigure degli Eterni
+- Il set include le minifigure di 4 Eterni, Ikaris, Sersi e, in esclusiva, Ajak e Kingo, 1 Deviante e 1 Celestiale flessibile
+- Numero di pezzi: 493
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B082WD5ZJC{{</world>}}

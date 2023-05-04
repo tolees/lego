@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Es enthält einen imperialen Hoth-Düsenschlitten aus LEGO Steinen, LEGO Star Wars Waffen, eine E-Netz-Blasterkanone, die Bolzen verschießt, und einen Schneegraben mit Extra-Munition
+- Die Kinder können ihre Schneetruppen mit einem Blaster, einem Blastergewehr und einer Blasterpistole ausrüsten und dann mit der E-Netz-Blasterkanone auf die Rebellenallianz feuern
 - Gelingt es ihnen, ihre Schneetruppen zum Sieg führen, wenn sie den Hoth-Spürtruppler auf seinem imperialen Düsenschlitten in die Offensive schicken?
 - Dieses LEGO Star Wars Set zum Bauen für Kinder ab 6 Jahren lässt sich mit dem LEGO Star Wars AT-AT (75313) kombinieren, um ikonische Szenen nachzustellen oder eigene Geschichten zu erfinden
 - Mit dem Snowtrooper Battle Pack zum Bauen von LEGO Star Wars können Kinder ihre eigene Armee aufbauen und epische Szenen aus „Star Wars: Das Imperium schlägt zurück“ nachspielen
-- Die Kinder können ihre Schneetruppen mit einem Blaster, einem Blastergewehr und einer Blasterpistole ausrüsten und dann mit der E-Netz-Blasterkanone auf die Rebellenallianz feuern
-- Es enthält einen imperialen Hoth-Düsenschlitten aus LEGO Steinen, LEGO Star Wars Waffen, eine E-Netz-Blasterkanone, die Bolzen verschießt, und einen Schneegraben mit Extra-Munition
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNX9FLF{{</world>}}

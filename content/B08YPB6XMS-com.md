@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- When built, the Wildlife Rescue Off-Roader toy measures over 2 in. (6 cm) high, 5.5 in. (14 cm) long and 2.5 in. (7 cm) wide
-- Kids can activate the collapsing bridge function, work the off-roader’s winch and enjoy realistic wildlife stories with iconic animals and the LEGO City Adventures TV series character Jessica Sharpe
 - This LEGO City Wildlife Rescue Off-Roader (60301) playset is perfect for kids aged 4 and up who love animals and imaginative play, and for fans of the LEGO City Adventures TV series
-- What’s in the box? This playset has all kids need to build a toy 4x4, water scooter and savanna setting, with Jessica Sharpe, ranger and explorer minifigures, plus lion, lion cub and snake figures
+- Kids can activate the collapsing bridge function, work the off-roader’s winch and enjoy realistic wildlife stories with iconic animals and the LEGO City Adventures TV series character Jessica Sharpe
 - A great gift idea for birthdays or any other occasion. Delivering hours of fun for kids aged 4 and up, it can be combined with other LEGO City Wildlife sets for more animal-themed adventures
+- When built, the Wildlife Rescue Off-Roader toy measures over 2 in. (6 cm) high, 5.5 in. (14 cm) long and 2.5 in. (7 cm) wide
+- What’s in the box? This playset has all kids need to build a toy 4x4, water scooter and savanna setting, with Jessica Sharpe, ranger and explorer minifigures, plus lion, lion cub and snake figures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08YPB6XMS{{</world>}}
