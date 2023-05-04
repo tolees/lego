@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76187 Marvel Spider-Man Venom Mask Set  Collectible Model Kit for Adults to Build  Home Décor Creative Activity  Idea  Multicolor'
-date: 2023-05-01 10:35:30
+date: 2023-05-04 11:39:16
 image: 'https://m.media-amazon.com/images/I/51-NaJs1gIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B08GYFKMS7/?tag=tolees0a-21'
 descuento: '24.99'
-average: '44.8044444444444'
+average: '44.824'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This stunning 19 cm/7in high LEGO set for adults recreates one of the most recognisable, feared characters in the Marvel Universe: Venom
+- If you’re an adult fan, this buildable movie replica is the perfect stress-relieving project or a great Marvel gift for any enthusiasts
 - This Marvel collectible piece of movie memorabilia will provide joy and satisfaction long after the hands-on construction work is over
 - The oversized jaw packed with dagger-like teeth, long, twisting tongue and the low, black brow combine to create an unmissable display piece
+- This stunning 19 cm/7in high LEGO set for adults recreates one of the most recognisable, feared characters in the Marvel Universe: Venom
 - The iconic alien creature LEGO Venom mask display model sits on a sturdy base with a stylish name plaque attached, ready to spark conversation
-- If you’re an adult fan, this buildable movie replica is the perfect stress-relieving project or a great Marvel gift for any enthusiasts
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08GYFKMS7{{</world>}}
