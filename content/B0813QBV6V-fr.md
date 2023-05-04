@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter La Tour d Astronomie de Poudlard  Jeu de Construction  Figurines Hermione  Ron  Malefoy  Jouet de Château  Cadeau Enfants 9 Ans'
-date: 2023-05-03 01:47:57
+date: 2023-05-04 01:53:24
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813QBV6V/?tag=tolees0d-21'
 descuento: '30.00'
-average: '85.7526219512198'
+average: '85.7334226552987'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ce set LEGO est exclusif à Amazon - disponible uniquement sur Amazon ou chez certains revendeurs.
-- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
+- Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
 - Ce jouet de château Harry Potter représente le cadeau parfait pour les enfants de 9 ans et plus, qui sont fans du monde de la magie, et des films Harry Potter
+- Ce set LEGO est exclusif à Amazon - disponible uniquement sur Amazon ou chez certains revendeurs.
 - Comprend 8 minifigurines : Harry Potter, Hermione, Ron, Luna, Neville, Draco, Lavender Brown et le professeur Horace Slughorn, plus une figurine dHedwig
 - Construisez la tour dastronomie complexe à plusieurs niveaux de Poudlard et explorez tout ce quelle a à offrir tout en recréant les scènes populaires du film
-- Cherchez le ciel nocturne avec le télescope, observez les mandragores dans la serre, rafraîchissez-vous dans le dortoir des Serdaigles ou participez à la fête de Slughorn
+- Les accessoires incluent des plantes de mandragore, des lettres, des baguettes, un livre de potions, un manche à balai, des gâteaux, des verres à vin, des lanternes, des torches et des bougies
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6V{{</world>}}
