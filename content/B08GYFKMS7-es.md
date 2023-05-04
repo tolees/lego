@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- También cuenta con una bonita placa informativa que se conecta a una resistente base sobre la que exponer a Venom, ¡quedará impresionante expuesta junto a otros coleccionables LEGO!
 - Pon a prueba tus habilidades de construcción con esta maqueta para construir para adultos de Venom, el Simbionte más famoso de todos los tiempos
+- También cuenta con una bonita placa informativa que se conecta a una resistente base sobre la que exponer a Venom, ¡quedará impresionante expuesta junto a otros coleccionables LEGO!
 - Esta manualidad para adultos de LEGO es un estupendo regalo para padres con el que celebrar el día del papa con los amantes de Spider-Man, los cómics y las películas de superhéroes
 - Este set LEGO permite captar para siempre los característicos rasgos de Venom, con su gran mandíbula repleta de dientes puntiagudos, su larga lengua retorcida y su ancha frente negra
 - Con fáciles instrucciones de montaje paso a paso, te sumergirás en un proyecto de construcción que será la pieza de decoración para casa o para la oficina ideal
