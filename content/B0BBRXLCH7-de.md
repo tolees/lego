@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Das Polizeistation-Spielset enthält 2 Polizisten und 2 Gauner als Minifiguren sowie jede Menge Zubehör, darunter einen Edelstein, ein Polizeifunkgerät, einen Gefängnisschlüssel, 2 Tassen und ein Megafon
 - Das Gefängnis verfügt über eine Ausbruchfunktion: Kinder können die Kette am Motorrad Polizei-Spielzeug befestigen, um die Funktion zu aktivieren – das Polizeiauto muss dann den Gaunern auf der Flucht nachjagen!
-- Dieses Polizei-Spielzeug für Kinder ab 4 Jahren enthält ein LEGO Starter-Bauelement, um jungen Baumeistern mit dem Konstruktionsspielzeug zu helfen, sowie eine einfache bebilderte Bauanleitung
 - Das LEGO City Set ab 4 Jahre wird Vorschulkinder, die Polizeifahrzeuge, Motorrad-Polizei-Spielzeug und jede Menge Action lieben, als Geburtstagsgeschenk oder als Geschenk für jeden Tag Anlass begeistern
+- Das Polizeistation-Spielset enthält 2 Polizisten und 2 Gauner als Minifiguren sowie jede Menge Zubehör, darunter einen Edelstein, ein Polizeifunkgerät, einen Gefängnisschlüssel, 2 Tassen und ein Megafon
 - Actiongeladene Verfolgungsabenteuer erwarten dich mit diesem lustigen LEGO City Set, das eine Polizeistation, ein Spielzeug-Polizeiauto, ein Flucht-Motorrad, 4 Minifiguren und eine Hundefigur enthält
+- Dieses Polizei-Spielzeug für Kinder ab 4 Jahren enthält ein LEGO Starter-Bauelement, um jungen Baumeistern mit dem Konstruktionsspielzeug zu helfen, sowie eine einfache bebilderte Bauanleitung
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRXLCH7{{</world>}}
