@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Découvrez dautres jeux de construction LEGO Friends : La maison dans la forêt (41679), Le camping-car et le voilier de la forêt (41681) ou Le centre équestre de la forêt (41683)
-- Idéal en cadeau de Noël ou d’anniversaire, ce jouet pour enfants de 5 ans et plus pourra être utilisé pour profiter du plein air, même quand il pleut dehors
-- Le cube de jeu comprend également un feu de camp et un pont qui traverse la rivière, une guimauve sur un bâton et un jouet scooter pour les mini poupées
-- Avec sa cascade articulée, ce jeu daventure LEGO offre un accès secret à larrière pour y laisser des secrets
 - Livré avec ses mini poupées LEGO Friends d’Andréa et Olivia, ainsi qu’une figure d’écureuil ; les enfants peuvent le nourrir dans sa maison avec une châtaigne
 - Les enfants vont adorer recréer des scènes de camping LEGO Friends, découvrir le joyau derrière la cascade articulée ou utiliser les jumelles pour chercher des animaux
+- Idéal en cadeau de Noël ou d’anniversaire, ce jouet pour enfants de 5 ans et plus pourra être utilisé pour profiter du plein air, même quand il pleut dehors
+- Avec sa cascade articulée, ce jeu daventure LEGO offre un accès secret à larrière pour y laisser des secrets
+- Le cube de jeu comprend également un feu de camp et un pont qui traverse la rivière, une guimauve sur un bâton et un jouet scooter pour les mini poupées
+- Découvrez dautres jeux de construction LEGO Friends : La maison dans la forêt (41679), Le camping-car et le voilier de la forêt (41681) ou Le centre équestre de la forêt (41683)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WXB3GDR{{</world>}}

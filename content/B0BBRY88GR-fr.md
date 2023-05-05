@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - La décoration est un jeu denfant avec les briques LEGO DOTS : les enfants ajoutent beaucoup de strass, détincelles et de couleurs à leurs créations, puis affichent et admirent fièrement leurs nouvelles créations
+- Comprend 10 briques graphiques décorées de manière surprenante sur un total de 16, axées sur différentes passions, comme la musique, lamour, les animaux et lespace
+- Les enfants peuvent montrer leur créativité et utiliser les LEGO DOTS supplémentaires pour personnaliser des bracelets jouets, des panneaux daffichage, des étiquettes de sac, des décorations de chambre et dautres ensembles DOTS (vendus séparément)
 - Le sachet est une idée de cadeau DOTS amusante pour les enfants de 6 ans et plus pour ajouter de léclat à toute création
 - Tous les fans dart et de design adoreront ce sachet de briques LEGO DOTS et voudront collectionner toutes les briques graphiques différentes
-- Les enfants peuvent montrer leur créativité et utiliser les LEGO DOTS supplémentaires pour personnaliser des bracelets jouets, des panneaux daffichage, des étiquettes de sac, des décorations de chambre et dautres ensembles DOTS (vendus séparément)
-- Comprend 10 briques graphiques décorées de manière surprenante sur un total de 16, axées sur différentes passions, comme la musique, lamour, les animaux et lespace
 - Les Tuiles de Décoration LEGO DOTS Série 8 - Paillettes contiennent 115 briques, dont 105 briques colorées, scintillantes, opalescentes et à effet détoile 3D, plus 10 des 16 briques de conception graphique
 
 [🛒 Buy it!!]({{< param buyurl >}})
