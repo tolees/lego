@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - This LEGO Star Wars set comes with a revolving elevator, rotating battle platform and a sliding ‘Force’ platform to fend off Dark Troopers
+- The LEGO Star Wars set makes a great birthday gift idea for kids who are into The Mandalorian buildable toys
+- This Mandalorian buildable toy also includes 3 Dark Troopers, each with blaster rifles, to inspire fun, creative roleplay
 - There are 4 LEGO Star Wars minifigures in this set, including a Luke Skywalker minifigure with a green LEGO lightsaber
 - Features a detailed recreation of the scene inside the Imperial Light Cruiser where Luke Skywalker reappeared, from The Mandalorian Season 2
-- The LEGO Star Wars set makes a great birthday gift idea for kids who are into The Mandalorian buildable toys
 - Portable play – Luke Skywalker vs Dark Troopers battle set can fit in a child’s backpack with the LEGO minifigures for play on the go
-- This Mandalorian buildable toy also includes 3 Dark Troopers, each with blaster rifles, to inspire fun, creative roleplay
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNV1HRL{{</world>}}
