@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Hang-anywhere portability – With the large bag tags measuring over 3 in. (8 cm) long and 1 in. (3 cm) wide, there’s space for kids to be creative and show off their style anywhere
 - Colorful messages everywhere – Kids can expand their creativity as they design with the kit, which includes 5 flat bag tags in different colors and 2 sizes, plus lots of lettered and colored tiles
-- Extra designs in a bag – This craft kit can be used on its own for quick, imaginative originality. Kids can also add the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) to extend the fun
 - Design, wear, tag, share – Treat an arts-and-crafts fan with this LEGO DOTS Bag Tags Mega Pack – Messaging (41949) craft kit. Start the creative fun by opening the tray
+- Extra designs in a bag – This craft kit can be used on its own for quick, imaginative originality. Kids can also add the LEGO DOTS Extra DOTS – Series 6 bag (sold separately) to extend the fun
 - Gift for ages 6 plus – Any arts-and-crafts fan will love this uniquely customizable toy kit. The bag tags and colorful tiles make a fun group activity or gift to boost kids’ creativity
 
 [🛒 Buy it!!]({{< param buyurl >}})
