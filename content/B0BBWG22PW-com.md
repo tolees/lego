@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Flywheel-powered toy motorcycle – Ramp up kids’ play with this LEGO City Cyber Stunt Bike (60358) for real stunt action
-- Real stunt action – Kids push the bike to activate the flywheel, then release it to perform fun jumps and stunts
-- Fun for kids Ages 5+ – Give this LEGO City Stuntz playset as a birthday, holiday or any-other-day treat
-- Dimensions – When built, the Cyber Stunt Bike measures over 2 in. (5 cm) high, 2.5 in. (6 cm) long and less than 1 in. (2 cm) wide
 - What’s in the box? – All kids need to build a flywheel-powered stunt motorcycle, plus a LEGO City Stuntz rider minifigure
+- Real stunt action – Kids push the bike to activate the flywheel, then release it to perform fun jumps and stunts
+- Dimensions – When built, the Cyber Stunt Bike measures over 2 in. (5 cm) high, 2.5 in. (6 cm) long and less than 1 in. (2 cm) wide
+- Flywheel-powered toy motorcycle – Ramp up kids’ play with this LEGO City Cyber Stunt Bike (60358) for real stunt action
+- Fun for kids Ages 5+ – Give this LEGO City Stuntz playset as a birthday, holiday or any-other-day treat
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBWG22PW{{</world>}}

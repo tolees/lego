@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Build, play and display – LEGO Minecraft The Training Grounds (21183) is a rewarding building project, an exciting play experience and a spectacular model for kids to put on show
 - Iconic characters – The set includes a classic cast of Minecraft characters: a ninja, rogue, skeleton and a bat
+- Build, play and display – LEGO Minecraft The Training Grounds (21183) is a rewarding building project, an exciting play experience and a spectacular model for kids to put on show
 - Big on fun – Measuring over 9.5 in. (24 cm) high, 9.5 in. (24 cm) wide and 5.5 in. (15 cm) deep, this impressive set can also be reconfigured and combined with other sets for extra enjoyment
-- A stand-out gift – This modular playset makes an ideal birthday present, holiday gift, or special treat for any Minecraft or model-making enthusiast aged 8 and up
 - Endless play possibilities – Kids can rebuild and reconfigure this wonderfully customizable playset again and again to explore imaginative play-and-display possibilities that never end
+- A stand-out gift – This modular playset makes an ideal birthday present, holiday gift, or special treat for any Minecraft or model-making enthusiast aged 8 and up
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09FM5ZVKY{{</world>}}

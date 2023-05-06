@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - This Collectible LEGO Marvel buildable toy is a great birthday, Christmas or any time gift for kids aged 8 and up and all super heroes fans
-- When the action is over, the figure looks out of this world cool on display in kids rooms, perfect as an addition to any super hero collection
 - The LEGO Venom figure from the Spider-Man universe can assume any position using its articulated parts so kids can role-play awesome battles
-- This realistic detailed collectible model is 9 in. tall, has articulated legs, arms and head plus iconic big teeth and claw-like fingers
-- Kids can recreate the most dangerous scenes from the Spider-Man films with this LEGO Marvel Venom Figure: a fully poseable toy action figure
+- When the action is over, the figure looks out of this world cool on display in kids rooms, perfect as an addition to any super hero collection
 - Check out other collectible Marvel action figure building toys: LEGO Marvel Miles Morales Figure (76225) or LEGO Marvel Spider-Man Figure (76226)
+- Kids can recreate the most dangerous scenes from the Spider-Man films with this LEGO Marvel Venom Figure: a fully poseable toy action figure
+- This realistic detailed collectible model is 9 in. tall, has articulated legs, arms and head plus iconic big teeth and claw-like fingers
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFXZBHS{{</world>}}
