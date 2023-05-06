@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Proyecto de Arte: Creación Conjunta
-- Número de piezas: 4138
 - Ordena las baldosas, construye la paleta de colores, elige tus temas preferidos para decorar la pared y empieza a construir mientras disfrutas pasando tiempo con tus seres queridos
-- Cuenta con más de 4000 piezas y 9 placas de decoración de pared con 9 opciones de imágenes para cada una de las 4 temáticas: Alimentación, Motivos, Iconos e Intereses
+- Proyecto de Arte: Creación Conjunta
 - Edad recomendada por el fabricante: 7+
+- Número de piezas: 4138
+- Cuenta con más de 4000 piezas y 9 placas de decoración de pared con 9 opciones de imágenes para cada una de las 4 temáticas: Alimentación, Motivos, Iconos e Intereses
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08X21QT7V{{</world>}}
