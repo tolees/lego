@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - L’ascension du Domo
-- Âge recommandé par le fabricant: 8+
 - Les enfants peuvent placer la minifigure dans le siège du pilote du vaisseau spatial pour des heures de jeu de rôle de bataille entre les super-héros et les Déviants
 - Ce jouet pour fille et garçon dès 8 ans comprend un cockpit, une armurerie impressionnante et un laboratoire rempli de technologie, une pièce futuriste dédiée à la science
 - Nombre de pièces: 1040
+- Âge recommandé par le fabricant: 8+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082WDCZTG{{</world>}}

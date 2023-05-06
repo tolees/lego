@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Les enfants peuvent samuser à explorer lécurie principale avec ses salles de trophées et daccessoires, nettoyer les boxes ou se relaxer dans l’espace détente du grenier
-- Âge recommandé par le fabricant: 5+
-- Nombre de pièces: 239
 - Les écuries royales de Belle et Raiponce
 - Il comprend deux figurines Disney LEGO Raiponce et Belle prêtes à samuser avec les deux figurines de chevaux : Maximus et Philippe
+- Âge recommandé par le fabricant: 5+
+- Nombre de pièces: 239
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08WWWG7HX{{</world>}}
