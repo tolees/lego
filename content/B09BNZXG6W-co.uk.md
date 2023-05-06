@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75325 Star Wars The Mandalorian s N-1 Starfighter Building Toy  The Book of Boba Fett  Gift idea for Kids  Boys & Girls Age 9 Plus with Baby Yoda and Droid Figures'
-date: 2023-05-02 22:46:29
+date: 2023-05-06 17:52:24
 image: 'https://m.media-amazon.com/images/I/51tLPe4HWvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B09BNZXG6W/?tag=tolees0a-21'
 descuento: '25.00'
-average: '42.455'
+average: '42.65'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can place the included Baby Yoda LEGO figure in the starfighters passenger space to experience epic The Book of Boba Fett adventures
-- The LEGO Mandalorian buildable toy features a minifigure cockpit, cargo compartment and a spring loaded shooter to protect the crew
-- This LEGO Star Wars The Mandalorians N-1 Starfighter buildable toy set makes a great gift for 9 plus year old boys and girls
-- Includes a LEGO The Mandalorian minifigure with jet pack and darksaber accessories, Peli Motto minifigure with a wrench and a BD Droid figure
 - With this LEGO Star Wars The Mandalorians N-1 Starfighter buildable toy set, youngsters can relive The Book of Boba Fett stories on Tatooine
+- The LEGO Mandalorian buildable toy features a minifigure cockpit, cargo compartment and a spring loaded shooter to protect the crew
+- Includes a LEGO The Mandalorian minifigure with jet pack and darksaber accessories, Peli Motto minifigure with a wrench and a BD Droid figure
 - Clear, illustrated building instructions are included so even LEGO beginners can build this LEGO Star Wars building toy with confidence
+- Kids can place the included Baby Yoda LEGO figure in the starfighters passenger space to experience epic The Book of Boba Fett adventures
+- This LEGO Star Wars The Mandalorians N-1 Starfighter buildable toy set makes a great gift for 9 plus year old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNZXG6W{{</world>}}
