@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75288 Star Wars AT-AT Walker Building Toy  40th Anniversary Collectible Figure Set  Room Décor  Gift Idea for Kids  Boys & Girls with 6 Minifigures'
-date: 2023-05-05 02:09:25
+date: 2023-05-06 02:29:55
 image: 'https://m.media-amazon.com/images/I/51xeLF77DcS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Building & Construction Toys','Building & construction toys','Custom St
 actualPrice: 149.99 GBP
 currency: GBP
 price: 149.99
-comparePrice: 332.53 GBP
+comparePrice: 332.52 GBP
 prodname: 'LEGO 75288 Star Wars AT-AT Walker Building Toy  40th Anniversary Collectible Figure Set  Room Décor  Gift Idea for Kids  Boys & Girls with 6 Minifigures'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0813Q5JKX/?tag=tolees0a-21'
 descuento: '54.89'
-average: '140.877777777779'
+average: '140.906613924052'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - This iconic AT-AT Walker also has foldout panels, a speeder bike, winch and bottom hatch so Luke can throw in the thermal detonator element
 - Includes 6 LEGO Star Wars minifigures – Luke Skywalker, General Veers, 2 AT-AT Drivers and 2 Snowtroopers, all with weapons
-- Celebrate the iconic series with this Star Wars 40th Anniversary set, a LEGO brick version of the iconic AT-AT Walker Star Wars building toy
-- This set will impress for sure when put on display, and it makes a fantastic LEGO Star Wars gift for kids, boys and girls aged 10 plus
 - The Star Wars AT-AT figure features posable legs, a posable head with opening cockpit for 3 minifigures and spring-loaded shooters
+- This set will impress for sure when put on display, and it makes a fantastic LEGO Star Wars gift for kids, boys and girls aged 10 plus
+- Celebrate the iconic series with this Star Wars 40th Anniversary set, a LEGO brick version of the iconic AT-AT Walker Star Wars building toy
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0813Q5JKX{{</world>}}
