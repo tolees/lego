@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21034 Architecture Londres  Set de Construcción Creativa  London Eye  Big Ben  Tower Bridge  Maqueta Coleccionable'
-date: 2023-05-06 08:29:43
+date: 2023-05-07 08:31:00
 image: 'https://m.media-amazon.com/images/I/51Lehvo-3iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21'
 descuento: '18.45'
-average: '38.8828201438855'
+average: '38.873807471265'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ¡Crea una detallada maqueta de Londres con sus puntos de referencia más emblemáticos!
 - Esta maqueta para construir con ladrillos para adultos y niños de 12+ años incluye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben y Tower Bridge
-- El set ha sido diseñado para proporcionar una experiencia gratificante y relajante, y será una atractiva pieza de decoración para casa o para la oficina
+- ¡Crea una detallada maqueta de Londres con sus puntos de referencia más emblemáticos!
 - Incluye un folleto coleccionable con información acerca del diseñador, la arquitectura y la historia de cada edificio
 - Las maquetas LEGO Architecture son compatibles con todos los sets de construcción LEGO para construir de forma creativa y son un gran regalo de cumpleaños, Navidad o «porque sí»
+- El set ha sido diseñado para proporcionar una experiencia gratificante y relajante, y será una atractiva pieza de decoración para casa o para la oficina
 - El río Támesis de Londres está representado en la base mediante placas transparentes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
