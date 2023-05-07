@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Millennium Falcon Starship Construction Set  with Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 and D-O  The Rise of Skywalker Collection'
-date: 2023-05-06 02:29:05
+date: 2023-05-07 02:32:14
 image: 'https://m.media-amazon.com/images/I/51U02wmxFZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07NDB4Q7S/?tag=tolees0a-21'
 descuento: '16.67'
-average: '137.267888349511'
+average: '137.222703030299'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- - With 1,353 pieces, this cool LEGO building toy packs so much detail into its over 5” (14cm) high, 17” (44cm) long and 12” (32cm) wide form.
-- - Features a rotating top/bottom gun turrets (bottom one fits 2 mini-figures), 2 spring-loaded shooters, a lowering ramp and an opening cockpit.
-- - Interior details include a cargo area with 2 containers, navigation computer with rotating chair, hidden smuggling compartment and a hyper-drive.
 - - This Corellian freighter model also includes a couch and Dejarik hologame table, galley, bunk, and the hyperdrives repair tools.
+- - Features a rotating top/bottom gun turrets (bottom one fits 2 mini-figures), 2 spring-loaded shooters, a lowering ramp and an opening cockpit.
+- - With 1,353 pieces, this cool LEGO building toy packs so much detail into its over 5” (14cm) high, 17” (44cm) long and 12” (32cm) wide form.
 - - Comes with 7 characters: Finn, Chewbacca, Lando Calrissian, C-3PO and Boolio minifigures, plus fan-favorite D-O and R2-D2 LEGO figures.
+- - Interior details include a cargo area with 2 containers, navigation computer with rotating chair, hidden smuggling compartment and a hyper-drive.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07NDB4Q7S{{</world>}}
