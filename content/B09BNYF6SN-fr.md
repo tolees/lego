@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Il comprend 8 minifigures LEGO NINJAGO : Lloyd, Kai, Cole, Nya, Pixal et Master Wu, ainsi que les guerriers serpent LEGO NINJAGO Boa destructeur et Cobra mécanique
-- Après leur mission, les enfants reçoivent une bannière Sagesse en récompense à placer sur le toit du dojo avec les autres bannières gagnées dans les autres sets (vendus séparément)
-- Les enfants peuvent rejoindre les ninjas dans leur dojo secret et devenir maîtres du Spinjitzu, mais attention aux serpents sournois qui peuvent attaquer la porte au bélier !
-- Ce set de 1 394 pièces peut être combiné avec le Centre de formation ninja 71764 et constitue un sublime cadeau d’anniversaire pour les enfants fans de figurines NINJAGO
-- Les 5 pièces du set du dojo LEGO NINJAGO incluent la salle de thé de Wu, l’atelier de Pixal et une armurerie remplie d’armes qui offrent des possibilités de jeu infinies
 - Vous trouverez des bannières dans 7 autres sets, y compris L’évolution Voiture de course de Lloyd 71763, Le dragon légendaire de Lloyd 71766 et Le robot ultra combo ninja 71765
 - Les enfants peuvent former leurs héros grâce à ce set LEGO NINJAGO Maîtres du Spinjitzu Le temple dojo ninja, qui comprend une zone d’entraînement et 5 pièces
+- Les enfants peuvent rejoindre les ninjas dans leur dojo secret et devenir maîtres du Spinjitzu, mais attention aux serpents sournois qui peuvent attaquer la porte au bélier !
+- Il comprend 8 minifigures LEGO NINJAGO : Lloyd, Kai, Cole, Nya, Pixal et Master Wu, ainsi que les guerriers serpent LEGO NINJAGO Boa destructeur et Cobra mécanique
+- Ce set de 1 394 pièces peut être combiné avec le Centre de formation ninja 71764 et constitue un sublime cadeau d’anniversaire pour les enfants fans de figurines NINJAGO
+- Après leur mission, les enfants reçoivent une bannière Sagesse en récompense à placer sur le toit du dojo avec les autres bannières gagnées dans les autres sets (vendus séparément)
+- Les 5 pièces du set du dojo LEGO NINJAGO incluent la salle de thé de Wu, l’atelier de Pixal et une armurerie remplie d’armes qui offrent des possibilités de jeu infinies
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNYF6SN{{</world>}}
