@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Kinder ab 6 Jahren können sich mit dem “Hauptquartier der Rettungsfahrzeuge” Spielzeugset, das ein 2-stöckiges Gebäude voller Zubehör und Fahrzeuge enthält, der Feuerwehr, der Polizei und dem Rettungsteam anschließen
 - Diverses Zubehör kann an den LEGO Fahrzeugen befestigt werden, beispielsweise eine Löschkanone, ein Suchscheinwerfer und eine Kamera
 - Mit der LEGO Builder App für Smartphones und Tablets können Kinder die Modelle zoomen, drehen und aus allen Winkeln betrachten und ein lustiges und einzigartiges Bauerlebnis genießen
-- Das Hauptquartier verfügt über einen Kontroll- und Entspannungsraum, während die Rettungsfahrzeuge ein Polizei-SUV mit integrierter Gefängniszelle, ein Feuerwehr-Hubschrauber Spielzeug, einen Krankenwagen, ein Motorrad umfassen
 - Kinder können den Ganoven auf dem Motorrad Spielzeug jagen oder den Feuerwehr-Hubschrauber vom Landeplatz auf dem Dach abheben, und zwischendurch können sie auf dem Laufband trainieren und den nächsten Einsatz im Kontrollzentrum planen
+- Das Hauptquartier verfügt über einen Kontroll- und Entspannungsraum, während die Rettungsfahrzeuge ein Polizei-SUV mit integrierter Gefängniszelle, ein Feuerwehr-Hubschrauber Spielzeug, einen Krankenwagen, ein Motorrad umfassen
 - Dieses LEGO City Polizeiauto Spielzeug enthält 5 Minifiguren und verschiedenes Zubehör wie ein Geldschein, medizinische Ausrüstung und 2 Äpfel
 - Die Polizei-, Feuerwehr- und Krankenwagen-Spielzeuge sind ein tolles Geschenk für Fans von Rettungsfahrzeugen und Helden aus dem Alltag, egal ob zum Geburtstag oder zu jedem anderen Anlass
 
