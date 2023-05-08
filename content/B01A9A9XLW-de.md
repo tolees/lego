@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Education WeDo 2.0 Set'
-date: 2023-05-07 02:43:56
+date: 2023-05-08 02:49:14
 image: 'https://m.media-amazon.com/images/I/51bXYLd57yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B01A9A9XLW/?tag=tolees0ca-21'
 descuento: '17.17'
-average: '603.583521126761'
+average: '603.377964912281'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 0 das Interesse der Schülerinnen und Schüler für den Sachunterricht
-- Mit spannenden Projekten weckt WeDo 2
-- Der Bausatz wird in einer Aufbewahrungsbox mit Sortierschalen und Aufklebern geliefert und enthält einen Smarthub (das Steuerungselement der Modelle), einen Motor, einen Bewegungs- und einen Neigungssensor sowie viele verschiedene LEGO Bauteile
 - Durch das Konstruieren und Programmieren von Modellen, das Experimentieren und das Entwickeln eigenständiger Problemlösungen können sie naturwissenschaftliche und technische Themen des aktuellen Lehrplans erarbeiten
+- 0 das Interesse der Schülerinnen und Schüler für den Sachunterricht
 - Es können je zwei Schüler mit einem Set arbeiten
+- Der Bausatz wird in einer Aufbewahrungsbox mit Sortierschalen und Aufklebern geliefert und enthält einen Smarthub (das Steuerungselement der Modelle), einen Motor, einen Bewegungs- und einen Neigungssensor sowie viele verschiedene LEGO Bauteile
+- Mit spannenden Projekten weckt WeDo 2
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01A9A9XLW{{</world>}}
