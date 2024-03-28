@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'LEGO 10966 Duplo Jouet de Bain : L’Île Flottante des Animaux  Set Baignoire pour Bébés et Enfants de 1.5+ Ans'
+date: 2024-03-25 23:30:36
+image: 'https://m.media-amazon.com/images/I/51RkquoKXfL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09BNRL9W5-fr LEGO 10966 Duplo Jouet de Bain : L’Île Flottante des...'
+sku: 'B09BNRL9W5-fr'
+tags: [ 'Jeux et Jouets','Jeux et jouets','Jouets de bain','Jouets déveil et 1er âge','lego','🇫🇷', ]
+actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
+comparePrice: 44.99 EUR
+prodname: 'LEGO 10966 Duplo Jouet de Bain : L’Île Flottante des Animaux  Set Baignoire pour Bébés et Enfants de 1.5+ Ans'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.fr/dp/B09BNRL9W5/?tag=tolees0d-21'
+descuento: '22.23'
+average: '33.0425'
+---
+
+There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Lîle flottante se die en 2 sections flottantes séparées, avec la moitié inférieure permettant également de jouer à lextérieur de la baignoire
+- Ce jouet de bain LEGO DUPLO comprend 4 figurines danimaux DUPLO : un poisson, une pieuvre, un lion et un flamant rose
+- Un crochet arrondi sur lanneau flottant permet aux enfants de se connecter avec les anneaux dautres ensembles amusants de bain de la série de jouets de bain LEGO DUPLO. Développez le plaisir avec dautres ensembles My First Bath Time Fun : Panda rouge flottant 10964 et Train danimaux flottant 10965 (vendus séparément). Offrez ce joli ensemble de jeu éducatif comme un joli cadeau ou une friandise pour les tout-petits et les bébés âgés de 18 mois et plus
+- Ce jouet de bain flottant facile à nettoyer pour bébés et tout-its de 1,5 ans et plus dispose dune île qui sert également de récipient de rangement
+- Les tout-its assemblent les animaux faciles à construire puis samusent à développer sur et autour de lîle paradisiaque flottante
+
+[🛒 Buy it now!!]({{< param buyurl >}})
+{{<world>}}B09BNRL9W5{{</world>}}

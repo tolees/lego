@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'LEGO Friends Recycling Truck 41712 Building Kit; Waste Management Toy Includes 3 Recycling Bins and a Litter Picker for Recycling and Sorting Fun; For Ages 6+  259 Pieces '
+date: 2024-03-13 08:56:04
+image: 'https://m.media-amazon.com/images/I/51PVIc79MEL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09QFS1WF6-co.uk LEGO Friends Recycling Truck 41712 Building Kit; Waste...'
+sku: 'B09QFS1WF6-co.uk'
+tags: [ '93dd894b-d5d0-40e7-86f3-02dca6dba0d6_0','Action Figures and Vehicles','Arborist Merchandising Root','Building & Construction Toys','Custom Stores','Doll Accessories','Doll Trucks','Doll Vehicles','Dolls & Accessories','Hardlines No Buyable Offer Test Q1 2016 sebasp@','Outlet','Self Service','Special Features Stores','Toy Building Sets','Toys','Toys & Games','Toys Category Page','f7bd472b-84f6-4a8b-87bb-5f1a9d4cd144_0','f7bd472b-84f6-4a8b-87bb-5f1a9d4cd144_6101','lego','🇬🇧', ]
+actualPrice: 13.47 GBP
+currency: GBP
+price: 13.47
+comparePrice: 17.99 GBP
+prodname: 'LEGO Friends Recycling Truck 41712 Building Kit; Waste Management Toy Includes 3 Recycling Bins and a Litter Picker for Recycling and Sorting Fun; For Ages 6+  259 Pieces '
+country: 'co.uk'
+flag: '🇬🇧'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.co.uk/dp/B09QFS1WF6/?tag=tolees0a-21'
+descuento: '25.13'
+average: '12.9057894736842'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- The garbage truck toy has 3 compartments for paper, glass and food waste so kids can learn to sort out the garbage into the correct bins
+- This recycling truck toy is a great holiday or birthday gift for boys and girls aged 6+ who like vehicle models and care about the environment
+- Kids can help Emma and River pick up the trash, clear the beach, sort out the recycling and hop in the truck to clean up the next spot
+- This educational toy features a garbage truck toy with removable bins, a tipping function and seats for the 2 mini-dolls and a racoon figure
+- Includes 2 LEGO Friends mini-dolls: Emma and River, a racoon animal figure, toy brush, trash grabber, banana, cherries and beach clean-up sign
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B09QFS1WF6{{</world>}}
