@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO NINJAGO Quelldrache der Bewegung  Abenteuer-Spielzeug für Kinder  Ninja-Spielset mit 6 Minifiguren  Geburtstagsgeschenk für Jungen und Mädchen ab 12 Jahren 71822'
+date: 2024-06-17 20:22:39
+image: 'https://m.media-amazon.com/images/I/51ErFETdWEL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CWH3HXD1-de LEGO NINJAGO Quelldrache der Bewegung Abenteuer-Spielzeug...'
+sku: 'B0CWH3HXD1-de'
+tags: [ '3c7da132-4fdb-45ec-95bc-24ebea2541e9_0','772277dc-cbdb-432f-a915-25a321e9ed8c_0','772277dc-cbdb-432f-a915-25a321e9ed8c_8901','Arborist Merchandising Root','Bauspielzeug & Konstruktionsspielzeug','Custom Stores','LEGO','Neuheiten Social: Spielzeug','Self Service','Special Features Stores','Spielzeug','lego','🇩🇪', ]
+actualPrice: 112.99 EUR
+currency: EUR
+price: 112.99
+comparePrice: 149.99 EUR
+prodname: 'LEGO NINJAGO Quelldrache der Bewegung  Abenteuer-Spielzeug für Kinder  Ninja-Spielset mit 6 Minifiguren  Geburtstagsgeschenk für Jungen und Mädchen ab 12 Jahren 71822'
+country: 'de'
+flag: '🇩🇪'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.de/dp/B0CWH3HXD1/?tag=tolees0ca-21'
+descuento: '24.67'
+average: '124.99'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 6 LEGO NINJAGO Minifiguren: Dieses Spielset beinhaltet die Ninja Kai, Wyldfyre und Arin sowie die Bösewichte Lord Ras, Jordana und einen Wolfsjäger; Alle 6 Minifiguren sind für Duelle bestens ausgerüstet
+- Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, in der Baumeister 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
+- Action-Spielzeug mit Sattelthron: Auf dem Rücken des Drachen befindet sich ein großer Sattelthron, auf den Kinder eine LEGO NINJAGO Minifigur setzen können, um Geschichten mit dem fliegenden Drachen darzustellen
+- Ninja-Spielzeuge für ein ganzes Spieluniversum: LEGO NINJAGO Spielsets beinhalten Mechs, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
+- Drachen-Actionfigur für viele Abenteuer: Mit diesem Quelldrachen der Bewegung können Jungen und Mädchen ab 12 Jahren die Actionszenen aus der 2; Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- NINJAGO Geschenk für Kinder: Dieses Fabelwesen-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Geburtstagsgeschenk für Kinder, die gern Ninja-Abenteuer darstellen
+- Beweglicher NINJAGO Spielzeugdrache für spannende Rollenspiele: Der bisher größte NINJAGO Drache kann Beine, Schwanz, Hüften, Kiefer, Kopf, Hals und Flügel bewegen
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0CWH3HXD1{{</world>}}
