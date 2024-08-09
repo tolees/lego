@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO Technic Mars Crew Exploration Rover Building Set  Outer Space Toy for 11 Plus Year Old Kids  Boys & Girls  Explorer Gift Inspired by NASA  Imaginative Play 42180'
+date: 2024-07-02 15:57:49
+image: 'https://m.media-amazon.com/images/I/51INS-8870L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CFW1PGQY-co.uk LEGO Technic Mars Crew Exploration Rover Building Set...'
+sku: 'B0CFW1PGQY-co.uk'
+tags: [ '93dd894b-d5d0-40e7-86f3-02dca6dba0d6_0','Arborist Merchandising Root','Building & Construction Toys','Custom Stores','Hardlines No Buyable Offer Test Q1 2016 sebasp@','Lego','Outlet','Self Service','Special Features Stores','Toy Building Sets','Toys','Toys & Games','Toys Category Page','f7bd472b-84f6-4a8b-87bb-5f1a9d4cd144_0','f7bd472b-84f6-4a8b-87bb-5f1a9d4cd144_2101','lego','🇬🇧', ]
+actualPrice: 94.99 GBP
+currency: GBP
+price: 94.99
+comparePrice: 129.99 GBP
+prodname: 'LEGO Technic Mars Crew Exploration Rover Building Set  Outer Space Toy for 11 Plus Year Old Kids  Boys & Girls  Explorer Gift Inspired by NASA  Imaginative Play 42180'
+country: 'co.uk'
+flag: '🇬🇧'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.co.uk/dp/B0CFW1PGQY/?tag=tolees0a-21'
+descuento: '26.93'
+average: '94.99'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- More features – This outer space building toy for kids also includes a generator, beacons, companion rover, living quarters and cockpit
+- Space Toy filled with features – This LEGO space set includes an expanding truck bed, suspension, a moving toy crane and a lift
+- Rover expands – The model reflects how rovers adapt from being compact for transportation to expanding when they carry cargo after landing
+- Space gift for kids who love NASA-inspired toys – This LEGO space set makes a creative gift for 11+ year old boys, girls and kids who love fun space toys
+- Air lock connects to other models – This set has a special space air-lock element so kids can connect other compatible space-themed LEGO playsets (sold separately) for more adventures
+- Mars Rover space toy for 11+ year old boys and girls – The LEGO Technic Mars Crew Exploration Rover for kids is packed with realistic features
+- Science accessories – This space playset features accessories modelled on those used by astronauts, including scientific equipment and gas canisters
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0CFW1PGQY{{</world>}}
