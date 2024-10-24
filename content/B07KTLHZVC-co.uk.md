@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21046 Architecture Empire State Building New York Landmark  Creative Activity  Collectible Model Kits for Adults to Build  Home Decor Gift Idea'
-date: 2024-10-23 13:31:54
+date: 2024-10-24 21:53:06
 image: 'https://m.media-amazon.com/images/I/31423DaYs5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B07KTLHZVC/?tag=tolees0a-21'
 descuento: '33.15'
-average: '84.3486192468621'
+average: '84.5179583333335'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Finish this representation with a tiled baseplate depicting Fifth Avenue and the surrounding roads, completed with 6 iconic yellow cabs.
 - 360°-displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office.
-- This highly detailed replica accurately recreates the symmetrical lines of the structure, 4 curtain wall facades and art deco antenna tower.
 - Information about the architecture and history of each structure, in many langugaes is available for download at LEGO.com/architecture.
 - At 21” (55cm) high, this Empire State Building model is the tallest LEGO Architecture model to date (July 2019). Contains 1760 pieces.
+- Finish this representation with a tiled baseplate depicting Fifth Avenue and the surrounding roads, completed with 6 iconic yellow cabs.
+- This highly detailed replica accurately recreates the symmetrical lines of the structure, 4 curtain wall facades and art deco antenna tower.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07KTLHZVC{{</world>}}

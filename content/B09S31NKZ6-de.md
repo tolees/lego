@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions - 76909 Mercedes-AMG F1 W12 E Performance & Mercedes-AMG Project One'
-date: 2024-10-22 05:53:35
+date: 2024-10-24 19:26:22
 image: 'https://m.media-amazon.com/images/I/51Vzo4vH+NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09S31NKZ6/?tag=tolees0ca-21'
 descuento: '29.88'
-average: '46.9709090909091'
+average: '46.5566666666667'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
