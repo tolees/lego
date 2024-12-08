@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO 4+ Gabby s poppenhuis Gabby s feestkamer  Disco Bouwpakket voor Kinderen met Glijbaan en Speelgoed Dieren Figuren  Rollenspel Kerstcadeau voor Meisjes en Jongens vanaf 4 jaar 10797'
+date: 2024-11-10 14:42:41
+image: 'https://m.media-amazon.com/images/I/51H3FCmTbYL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01N6E2KKK-nl LEGO 4+ Gabby s poppenhuis Gabby s feestkamer Disco...'
+sku: 'B01N6E2KKK-nl'
+tags: [ '6d2fcb45-df05-499f-9780-9477bed321a6_0','6d2fcb45-df05-499f-9780-9477bed321a6_501','Arborist Merchandising Root','Bouw- & constructiespeelgoed','Educatief speelgoed','Montessori','Self Service','Special Features Stores','Speelgoed & spellen','Speelgoedbouwsets','lego','🇳🇱', ]
+actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
+comparePrice: 49.99 EUR
+prodname: 'LEGO 4+ Gabby s poppenhuis Gabby s feestkamer  Disco Bouwpakket voor Kinderen met Glijbaan en Speelgoed Dieren Figuren  Rollenspel Kerstcadeau voor Meisjes en Jongens vanaf 4 jaar 10797'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.nl/dp/B01N6E2KKK/?tag=tolees0b-21'
+descuento: '40.01'
+average: '31.74'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Bouwbaar speelgoed voor kinderen – het brede assortiment leerzame LEGO sets laat kinderen vanaf 4 jaar kennismaken met een universum vol filmfavorieten, tv-personages en alledaagse helden
+- Meer Gabbys poppenhuis speelsets – bekijk het volledige assortiment LEGO 4+ Gabbys poppenhuis bouwpakketten (apart verkrijgbaar) voor nog meer manieren om te spelen
+- Kerstcadeau voor meisjes en jongens vanaf 4 jaar – dit feestelijke speelgoed met een dj, glijbaan, feestspelletjes en dierenfiguren uit Gabbys poppenhuis is een veelzijdige speelset speciaal ontworpen voor kinderen vanaf 4 jaar
+- Poppenhuisspeelset met discothema – Gabbys feestkamer is leuk speelgoed voor jongens en meisjes vanaf 4 jaar die dol zijn op Gabbys poppenhuis van DreamWorks Animation
+- Gabby en speelgoed dieren figuren – de set bevat een Gabby poppetje en figuren van Daniël James DJ Kattenkruid, Kitty Fee en Meerminkat uit de tv-serie Gabbys poppenhuis
+- Feestelijk speelgoed voor rollenspellen – inclusief de feestbus van Daniël James DJ Kattenkruid, een draaibare dansvloer, een gitaar, 2 microfoons, ballonnen, luidsprekers, popcorn, slushmachines en een sprankelende discobal
+- Fantasierijke rollenspellen – deze speelset bevat een katapult met blikjes om omver te gooien en een glijbaan om Gabbys cadeautjes te bezorgen
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B01N6E2KKK{{</world>}}
