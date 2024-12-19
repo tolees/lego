@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes Aurora, Prince Philip and Maleficent LEGO mini-doll figures, plus cool accessories: a crown, staff, butterflies, toy cupcakes and chalices
-- There are 2 mini-builds included in the playset; a buildable swing and Maleficents throne with green gems, a cauldron and a vial of potion
-- Disney Princess fans can play in the buildable castle toy with the dancing platform, kitchen, bedroom and balcony, a staircase and a cool slide
 - This LEGO | Disney Princess buildable toy features a castle with a spinning dance floor, 3 mini-doll figures, Maleficents throne and a toy swing
 - Fans of Disneys Sleeping Beauty and cool buildable castle toys will love this playset as a special birthday gift for kids Ages 4 plus years old
-- This LEGO 4+ set comes with starter bricks which give youngsters a sturdy base for their build, plus each bag of bricks contains a character
+- Disney Princess fans can play in the buildable castle toy with the dancing platform, kitchen, bedroom and balcony, a staircase and a cool slide
+- There are 2 mini-builds included in the playset; a buildable swing and Maleficents throne with green gems, a cauldron and a vial of potion
 - This LEGO Disney Princess buildable toy encourages kids to play out favorite film scenes or reimagine daily life in the castle with new stories
+- This LEGO 4+ set comes with starter bricks which give youngsters a sturdy base for their build, plus each bag of bricks contains a character
+- Includes Aurora, Prince Philip and Maleficent LEGO mini-doll figures, plus cool accessories: a crown, staff, butterflies, toy cupcakes and chalices
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBWXF5JK{{</world>}}

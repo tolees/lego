@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes a Clone Infantry Support Speeder with seats for 2 LEGO Star Wars minifigures, 2 stud shooters and a stud-shooting laser cannon
-- LEGO Star Wars 332nd Ahsokas Clone Trooper Battle Pack building toy for kids aged 6+ features 4 minifigures and a Speeder to recreate Star Wars: The clone Wars scenes
 - You can now give your young builder an even more awesome building experience with the LEGO Builder app, featuring intuitive zoom and rotate modes
+- Includes a Clone Infantry Support Speeder with seats for 2 LEGO Star Wars minifigures, 2 stud shooters and a stud-shooting laser cannon
 - Features 4 LEGO Star Wars characters: Clone Captain Vaughn and 3 332nd Clone Trooper LEGO Star Wars minifigures with blasters and 2 jetpacks
+- LEGO Star Wars 332nd Ahsokas Clone Trooper Battle Pack building toy for kids aged 6+ features 4 minifigures and a Speeder to recreate Star Wars: The clone Wars scenes
 - This LEGO Star Wars vehicle building toy set makes a great small gift idea for Star Wars: The Clone Wars fans and 6-plus-year-old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})

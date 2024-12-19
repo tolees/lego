@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Los 24 mini juguetes permiten a los niños crear un sinfín de aventuras diferentes; las mascotas pueden dar un paseo en el tren de Navidad o dar rienda suelta a su creatividad mientras ayudan a Leo y Autumn a decorar el árbol de Navidad
-- El calendario de adviento óptimo para los amantes de los animales: cada puerta se abre para revelar un mini muñeco, una figura de mascota, un mini juguete o un accesorio LEGO Friends, que se unen para crear una zona de juegos navideña para mascotas
-- Con el Calendario de Adviento 2023 de LEGO Friends, que incluye 2 mini muñecos de la siguiente generación y 8 figuras de animales, las niñas y niños a partir de 6 años podrán contar los días que faltan para Navidad y descubrir 24 juguetes sorpresa
-- Una divertida actividad para disfrutar durante todo el mes de diciembre y en adelante; también se puede combinar con cualquier colección LEGO Friends Heartlake City para multiplicar la diversión
 - Incluye un tapete de juego para divertirse o decorar la habitación de los niños; las construcciones se pueden reorganizar para crear nuevas aventuras para los amigos animales
+- Una divertida actividad para disfrutar durante todo el mes de diciembre y en adelante; también se puede combinar con cualquier colección LEGO Friends Heartlake City para multiplicar la diversión
+- Los 24 mini juguetes permiten a los niños crear un sinfín de aventuras diferentes; las mascotas pueden dar un paseo en el tren de Navidad o dar rienda suelta a su creatividad mientras ayudan a Leo y Autumn a decorar el árbol de Navidad
+- Con el Calendario de Adviento 2023 de LEGO Friends, que incluye 2 mini muñecos de la siguiente generación y 8 figuras de animales, las niñas y niños a partir de 6 años podrán contar los días que faltan para Navidad y descubrir 24 juguetes sorpresa
+- El calendario de adviento óptimo para los amantes de los animales: cada puerta se abre para revelar un mini muñeco, una figura de mascota, un mini juguete o un accesorio LEGO Friends, que se unen para crear una zona de juegos navideña para mascotas
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7BDX2T{{</world>}}

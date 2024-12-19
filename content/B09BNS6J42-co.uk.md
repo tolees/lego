@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This monster truck toy comes with a Starter Brick and a simple building guide so kids can learn to build and develop creative confidence
 - This LEGO Marvel Spidey and his Amazing Friends building toy features 2 LEGO vehicles, 3 minifigures, a Spider-Man jet pack and a bank vault
 - Kids and grown-ups will love the smashing action as the two monster cars clash and Spidey flies in to trap Rhino in his web and save the day
+- This monster truck toy comes with a Starter Brick and a simple building guide so kids can learn to build and develop creative confidence
 - In this LEGO Marvel Spider-Man playset Spideys jet pack fires missiles, and the vault has a removable box that fits into Rhinos truck’s trunk
 - Includes 3 LEGO minifigures: Spidey, Hulk and Rhino; the buildable Hulk toy has 2 changeable heads with different expressions for more fun
 

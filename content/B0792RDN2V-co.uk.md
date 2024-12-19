@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - The castles turret features the Mirror of Erised with changeable pictures and roosting spot for Fawkes figure
-- This castles toy for kids 4-level tower features movable Grand Staircase spiral steps at its base, potions room, treasure room with chest
 - Features Hogwarts Castles Great Hall with house banners, tower with movable spiral staircase, potions room and treasure room!
+- Accessory elements include 7 wands, 3 tumblers, an umbrella, lantern, broom, sorting hat, cauldrons, potions, candles, brooms and many more
+- This castles toy for kids 4-level tower features movable Grand Staircase spiral steps at its base, potions room, treasure room with chest
+- This Hogwarts Castles Great Hall toy is a great birthday or Christmas Harry Potter Gift for kids who love the Wizarding World adventures!
 - Also includes Professor Quirrell with dual Lord Voldemort face, Hagrid, Nearly Headless Nick, buildable Basilisk plus Hedwig & Scabbers figures
 - Includes 10 minifigures: Harry Potter, Ron Weasley, Hermione Granger, Draco Malfoy, Susan Bones, Professor McGonagall, and Albus Dumbledore
-- This Hogwarts Castles Great Hall toy is a great birthday or Christmas Harry Potter Gift for kids who love the Wizarding World adventures!
-- Accessory elements include 7 wands, 3 tumblers, an umbrella, lantern, broom, sorting hat, cauldrons, potions, candles, brooms and many more
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0792RDN2V{{</world>}}

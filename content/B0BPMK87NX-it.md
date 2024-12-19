@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Piccolo oggetto da collezione, non necessariamente adatto come regalo per bambini
 - Contiene 36 parti
-- Fornito in sacchetto di plastica sigillato in fabbrica
+- Piccolo oggetto da collezione, non necessariamente adatto come regalo per bambini
 - Vintage Car
+- Fornito in sacchetto di plastica sigillato in fabbrica
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPMK87NX{{</world>}}

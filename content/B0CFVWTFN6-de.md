@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spielzeugautos zum Verschenken: Sets mit Autos bieten ein faszinierendes Bau- und Spielerlebnis und sind eine tolle Geschenkidee für Kinder ab 9 Jahren sowie für erwachsene Modellauto-Sammler
 - Authentische McLaren Details: Der LEGO Speed Champions McLaren Formel-1 Rennwagen 2023 verfügt über eine Lackierung in Schwarz und Orange, Logos der Teamsponsoren, Reifen mit Pirelli-Aufdruck und einen orangen Cockpitschutz
-- McLaren Spielzeug-Rennauto für Kinder: Der LEGO Speed Champions McLaren Formel-1 Rennwagen 2023 ist ein Spielzeugflitzer für Jungen und Mädchen ab 9 Jahren, Formel-1-Fans und alle Freunde der legendären Automarke
-- Noch spannendere Rennen: Schau dir auch unbedingt die anderen separat erhältlichen LEGO Speed Champions Flitzer mit ihren authentischen Details an
+- 1 Minifigur: Neben dem baubaren McLaren Flitzer beinhaltet das Set auch eine Rennfahrer-Minifigur mit Helm, Haarteil und Schraubenschlüssel. Dein Kind kann die Minifigur ans Steuer setzen und superschnelle Runden auf der Rennstrecke drehen lassen
 - LEGO Modell zum Ausstellen: Nachdem dein Kind einige Runden in diesem Formel-1-Spielzeugflitzer gedreht hat, kann es das Modell im Regal oder auf dem Nachttisch ausstellen
 - Modelle legendärer Autos zum Spielen und Ausstellen: LEGO Speed Champions Bausets lassen Kinder und begeisterte Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
-- 1 Minifigur: Neben dem baubaren McLaren Flitzer beinhaltet das Set auch eine Rennfahrer-Minifigur mit Helm, Haarteil und Schraubenschlüssel. Dein Kind kann die Minifigur ans Steuer setzen und superschnelle Runden auf der Rennstrecke drehen lassen
+- McLaren Spielzeug-Rennauto für Kinder: Der LEGO Speed Champions McLaren Formel-1 Rennwagen 2023 ist ein Spielzeugflitzer für Jungen und Mädchen ab 9 Jahren, Formel-1-Fans und alle Freunde der legendären Automarke
+- Noch spannendere Rennen: Schau dir auch unbedingt die anderen separat erhältlichen LEGO Speed Champions Flitzer mit ihren authentischen Details an
+- Spielzeugautos zum Verschenken: Sets mit Autos bieten ein faszinierendes Bau- und Spielerlebnis und sind eine tolle Geschenkidee für Kinder ab 9 Jahren sowie für erwachsene Modellauto-Sammler
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTFN6{{</world>}}

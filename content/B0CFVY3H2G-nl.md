@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Digitale bouwinstructies – neem je ruimtefan mee op een leuk bouwavontuur met de LEGO Builder app, waarmee kinderen modellen vanuit alle hoeken kunnen bekijken tijdens het bouwen
 - Wat zit er in de doos? – inclusief een LEGO ruimtestation, speelgoed ruimteschip, ruimtemotor en ruimtecapsules met een laboratorium, werkplaats, keuken, slaapvertrekken en biodome, plus 6 minifiguren van speelgoed astronauten
 - LEGO City ruimte speelgoed voor kinderen vanaf 7 jaar – verras een jonge astronaut met deze LEGO City Modulair ruimtestation speelset, inclusief een basis voor het aankoppelen van ruimteschepen en gedetailleerde ruimtecapsules
-- Ruimtespeelgoed voor wetenschappers in de dop – kinderen kunnen het LEGO ruimteschip en de ruimtemodules verwisselen om hun eigen ruimtestation te creëren en ze aan de shuttle koppelen om een leuke ruimtetrein te maken
 - Een leuk cadeau voor ruimteliefhebbers – geef deze speelset cadeau voor de feestdagen of een verjaardag aan kinderen van 7 jaar en ouder die ervan houden om de ruimte te verkennen
-- Onbeperkte speelmogelijkheden – LEGO City ruimte speelsets bevatten realistische voertuigen, gedetailleerde gebouwen en inspirerende personages die fantasie en werkelijkheid combineren voor speelplezier zonder grenzen
-- Digitale bouwinstructies – neem je ruimtefan mee op een leuk bouwavontuur met de LEGO Builder app, waarmee kinderen modellen vanuit alle hoeken kunnen bekijken tijdens het bouwen
 - Koppel aan andere LEGO sets (apart verkrijgbaar) – de modulaire ruimtecapsules en het ruimtevaartuig in deze set zijn voorzien van het luchtsluissysteem waarmee ze kunnen worden aangesloten op andere geschikte sets met ruimtethema
+- Onbeperkte speelmogelijkheden – LEGO City ruimte speelsets bevatten realistische voertuigen, gedetailleerde gebouwen en inspirerende personages die fantasie en werkelijkheid combineren voor speelplezier zonder grenzen
+- Ruimtespeelgoed voor wetenschappers in de dop – kinderen kunnen het LEGO ruimteschip en de ruimtemodules verwisselen om hun eigen ruimtestation te creëren en ze aan de shuttle koppelen om een leuke ruimtetrein te maken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVY3H2G{{</world>}}

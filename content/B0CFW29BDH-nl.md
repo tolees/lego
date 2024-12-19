@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Elementen met opdruk – het speciale voorruitelement van de LEGO motor is voorzien van een speciale decoratie en het Kawasaki logo is op beide zijden van de brandstoftank gedrukt
-- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
 - Een motorcadeau voor kinderen – dit bouwpakket voor kinderen is een leuk cadeau voor jongens en meisjes die van LEGO voertuigen en rollenspellen
-- Veel realistische details – inclusief besturing, vering, een versnellingsbak met 2 versnellingen, een gelede motor met 4 zuigers en een turbocompresso
-- Motor op een schaal van 1:8 – dit schaalmodel van een Kawasaki motor is ontworpen met veel aandacht voor detail en bevat een standaard waarop kinderen hun verzamelmodel kunnen neerzetten
 - Speelgoed motor voor kinderen vanaf 10 jaar – de LEGO Technic Kawasaki Ninja H2R motor zit boordevol authentieke kenmerken en biedt jongens en meisjes een boeiend bouwproject
+- Motor op een schaal van 1:8 – dit schaalmodel van een Kawasaki motor is ontworpen met veel aandacht voor detail en bevat een standaard waarop kinderen hun verzamelmodel kunnen neerzetten
+- Veel realistische details – inclusief besturing, vering, een versnellingsbak met 2 versnellingen, een gelede motor met 4 zuigers en een turbocompresso
+- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
+- Elementen met opdruk – het speciale voorruitelement van de LEGO motor is voorzien van een speciale decoratie en het Kawasaki logo is op beide zijden van de brandstoftank gedrukt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW29BDH{{</world>}}

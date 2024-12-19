@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Technic set – Celebrate the 45th anniversary of one of the world’s best-loved off-roaders with this Mercedes-Benz G 500 PROFESSIONAL Line model
-- Detailed LEGO vehicle – This set for adults features opening doors, a ladder, spare wheel and a roof rack, plus an opening tailgate and bonnet
-- A Mercedes-Benz collectible car gift – This LEGO Technic set makes a great gift idea for men and women, including adult LEGO builders and Mercedes-Benz fans with a project to enjoy and a display piece to cherish
-- Build a G-Class model car – This model kit for adults to build includes authentic features, such as the working steering and the raised suspension
 - Functions to explore – Check out the 6-cylinder in-line piston engine, gearbox with its drive, neutral and reverse settings and 2 differential locks
 - Engaging building instructions – Get ready to build like never before with the LEGO Builder app, where you can save sets and track your progress
+- Build a G-Class model car – This model kit for adults to build includes authentic features, such as the working steering and the raised suspension
+- A Mercedes-Benz collectible car gift – This LEGO Technic set makes a great gift idea for men and women, including adult LEGO builders and Mercedes-Benz fans with a project to enjoy and a display piece to cherish
+- Detailed LEGO vehicle – This set for adults features opening doors, a ladder, spare wheel and a roof rack, plus an opening tailgate and bonnet
+- LEGO Technic set – Celebrate the 45th anniversary of one of the world’s best-loved off-roaders with this Mercedes-Benz G 500 PROFESSIONAL Line model
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2C8LK{{</world>}}

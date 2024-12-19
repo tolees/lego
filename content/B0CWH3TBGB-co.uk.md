@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A car gift for McLaren fans – This LEGO Technic building set for adults makes a great Christmas gift for men and women, including adult LEGO builders and supercar enthusiasts
-- Model kit for adults to build – From the unboxing experience to the building project, this LEGO Technic set delivers a rewarding challenge for fans
-- Unique serial number tile – This LEGO Technic model car features its own unique serial number, giving you access to exclusive online content
-- LEGO Technic set for adults – This McLaren P1 building set for adults can be built to make a collectible 1:8 scale model car for supercar fans
-- 3D building instructions – Get ready to build like never before with the LEGO Builder app, where you can save sets and track your progress
 - Authentic features– Enjoy assembling details like the 7-speed gearbox with shifter drum, opening doors, adjustable rear wing and V8 piston engine
+- 3D building instructions – Get ready to build like never before with the LEGO Builder app, where you can save sets and track your progress
+- Model kit for adults to build – From the unboxing experience to the building project, this LEGO Technic set delivers a rewarding challenge for fans
+- LEGO Technic set for adults – This McLaren P1 building set for adults can be built to make a collectible 1:8 scale model car for supercar fans
+- A car gift for McLaren fans – This LEGO Technic building set for adults makes a great Christmas gift for men and women, including adult LEGO builders and supercar enthusiasts
+- Unique serial number tile – This LEGO Technic model car features its own unique serial number, giving you access to exclusive online content
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3TBGB{{</world>}}

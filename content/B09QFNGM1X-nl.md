@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze set met constructie speelgoed bevat 3 LEGO minipoppetjes: Disney prinses Assepoester -met een extra feestjurk-, de knappe prins en mevrouw Tremaine, plus LEGO dierenfiguren van Gus Gus en Lucifer
-- Dit LEGO | Disney constructie speelgoed bestaat uit een prinsessenkasteel speelhuis met 3 verdiepingen waar een feestzaal en verkleedkamer te vinden zijn, plus 3 minipoppetjes, 2 LEGO figuren van dieren en talloze accessoires en speelmogelijkheden
-- Jongens en meisjes zullen de draaiende dansvloer, waar de LEGO minipoppetjes op kunnen dansen, geweldig vinden - ze kunnen scènes uit de film naspelen of hun eigen verhalen bedenken
 - Dit leuke kasteel speelgoed is een geweldig cadeau voor een verjaardag, kerst of een andere speciale gelegenheid, voor kinderen van 5+ jaar die fan zijn van Disney, prinsen en prinsessen
+- Deze set met constructie speelgoed bevat 3 LEGO minipoppetjes: Disney prinses Assepoester -met een extra feestjurk-, de knappe prins en mevrouw Tremaine, plus LEGO dierenfiguren van Gus Gus en Lucifer
+- Jongens en meisjes zullen de draaiende dansvloer, waar de LEGO minipoppetjes op kunnen dansen, geweldig vinden - ze kunnen scènes uit de film naspelen of hun eigen verhalen bedenken
+- Dit LEGO | Disney constructie speelgoed bestaat uit een prinsessenkasteel speelhuis met 3 verdiepingen waar een feestzaal en verkleedkamer te vinden zijn, plus 3 minipoppetjes, 2 LEGO figuren van dieren en talloze accessoires en speelmogelijkheden
 - Het LEGO kasteel heeft een feestzaal met een draaiende dansvloer, een verkleedkamer waar kinderen Assepoester van een andere outfit kunnen voorzien, een kledingkast met een kattenluikje dat open kan, een aparte slaapkamer en nog veel meer
 
 [🛒 Buy it!!]({{< param buyurl >}})

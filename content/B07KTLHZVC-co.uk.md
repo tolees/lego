@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 360°-displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office.
-- At 21” (55cm) high, this Empire State Building model is the tallest LEGO Architecture model to date (July 2019). Contains 1760 pieces.
 - Finish this representation with a tiled baseplate depicting Fifth Avenue and the surrounding roads, completed with 6 iconic yellow cabs.
-- Information about the architecture and history of each structure, in many langugaes is available for download at LEGO.com/architecture.
 - This highly detailed replica accurately recreates the symmetrical lines of the structure, 4 curtain wall facades and art deco antenna tower.
+- At 21” (55cm) high, this Empire State Building model is the tallest LEGO Architecture model to date (July 2019). Contains 1760 pieces.
+- 360°-displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office.
+- Information about the architecture and history of each structure, in many langugaes is available for download at LEGO.com/architecture.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07KTLHZVC{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Baue und erkunde das Abenteuercamp: Kinder können eigene Freundschaftsgeschichten darstellen und verschiedene Aktivitäten ausprobieren, unter anderem Kajakfahren, Angeln, Flößebauen, Malen und Steinehüpfenlassen
-- Wassersportausrüstung des Camps: Beinhaltet Angelruten, Paddel, Schwimmwesten, Siegerpokale, Schwimmflossen, Sonnencreme, einen Kühlschrank, eine Tischtennisplatte und ein Kajak-Abzeichen fürs Campaktivitätenbuch
 - Geschenkidee für Kinder ab 7 Jahren: Dieses Set inspiriert zu vielen spannenden Outdoor Abenteuern und ist eine tolle Geschenkidee für Kinder, die Rollenspiele, Abenteuer und Camping-Spielsets lieben
+- Camping-Spielzeug für Kinder, die Outdoor-Abenteuer und Rollenspiele lieben: Dieses LEGO Bauspielzeug für Mädchen und Jungen ab 7 Jahren beinhaltet 3 Spielfiguren, einen Bären und jede Menge Wassersport-Zubehör
+- Baue und erkunde das Abenteuercamp: Kinder können eigene Freundschaftsgeschichten darstellen und verschiedene Aktivitäten ausprobieren, unter anderem Kajakfahren, Angeln, Flößebauen, Malen und Steinehüpfenlassen
 - 3 Spielfiguren und ein Bär: Das Outdoor-Spielzeug beinhaltet die Spielfiguren Autumn, Liann und Zac, einen Bären und Wassersportzubehör, darunter auch 2 Kajaks, die vom Steg aus starten können
 - Entdecke weitere Freundschaftsgeschichten: Schau dir auch die anderen separat erhältlichen LEGO Friends Spielzeuge an, die Kinder diverse Charaktere entdecken und viele Alltagsabenteuer darstellen lassen
-- Camping-Spielzeug für Kinder, die Outdoor-Abenteuer und Rollenspiele lieben: Dieses LEGO Bauspielzeug für Mädchen und Jungen ab 7 Jahren beinhaltet 3 Spielfiguren, einen Bären und jede Menge Wassersport-Zubehör
+- Wassersportausrüstung des Camps: Beinhaltet Angelruten, Paddel, Schwimmwesten, Siegerpokale, Schwimmflossen, Sonnencreme, einen Kühlschrank, eine Tischtennisplatte und ein Kajak-Abzeichen fürs Campaktivitätenbuch
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH34C8R{{</world>}}

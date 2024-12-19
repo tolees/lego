@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dit LEGO Harry Potter speelgoed voor kinderen maakt deel uit van een collectie modulaire gebouwen sets die kinderen kunnen combineren voor een compleet Kasteel Zweinstein
-- Kinderen kunnen tal van leuke functies ontdekken, zoals een bouwbaar Duivelsvuur dat kan worden omgebouwd tot een enge vuurslang en nog veel meer
-- Dit LEGO kasteel Zweinstein speelgoed omvat een gedetailleerde Kamer van Hoge Nood, die geïnspireerd is op de iconische film Harry Potter en de Relieken van de Dood - Deel 2
 - Een magisch cadeau voor kinderen die van de tovenaarswereld houden of die op zoek zijn naar hun volgende spannende bouwuitdaging
+- Dit LEGO Harry Potter speelgoed voor kinderen maakt deel uit van een collectie modulaire gebouwen sets die kinderen kunnen combineren voor een compleet Kasteel Zweinstein
 - Het bouwbare kasteel speelgoed kan open en heeft een verwijderbare kamer voor de Grijze Dame, plus allerlei leuke accessoires waar kinderen rollenspellen mee kunnen doen
+- Dit LEGO kasteel Zweinstein speelgoed omvat een gedetailleerde Kamer van Hoge Nood, die geïnspireerd is op de iconische film Harry Potter en de Relieken van de Dood - Deel 2
+- Kinderen kunnen tal van leuke functies ontdekken, zoals een bouwbaar Duivelsvuur dat kan worden omgebouwd tot een enge vuurslang en nog veel meer
 - Inclusief 5 LEGO minifiguren: Harry Potter, Hermelien Griffel, Benno Zabini, Draco Malfidus en de Grijze Dame met toverstokken en bezemstelen, plus een Keltisch aardmannetje
 
 [🛒 Buy it now!!]({{< param buyurl >}})

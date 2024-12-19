@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Retro-Spielzeug mit beweglichen Elementen: Man kann den Spielzeug-Rollschuh und das LEGO Skateboard auf den 4 drehbaren Rädern umherschieben und sie coole Tricks machen lassen
 - Geschenk für kreative Kinder und Skater: Dieses 3in1 LEGO Spielzeug für Mädchen und Jungs bietet ein faszinierendes Bau- und Spielerlebnis und ist ein kreatives Geburtstagsgeschenk für 8-Jährige, die DIYs und Basteln lieben
-- Unzählige Spielmöglichkeiten: Kinder können eigene Geschichten mit 3 verschiedenen Retro-Modellen darstellen; ein Spielzeug-Rollschuh, ein Mini-Skateboard und ein Radio-Spielzeug im Boombox-Stil laden zum Bauen und Spielen ein
 - Retro-Deko zum Ausstellen: Alle 3 LEGO Retro-Modelle sind eigenständige Spielzeuge und eignen sich prima als Schlafzimmer-Deko, die man nach dem Spielen als Schreibtisch-Deko ausstellen kann
+- Retro-Spielzeug mit beweglichen Elementen: Man kann den Spielzeug-Rollschuh und das LEGO Skateboard auf den 4 drehbaren Rädern umherschieben und sie coole Tricks machen lassen
 - 3 Retro-Modelle in 1 Box: Der LEGO Creator Rollschuh lässt Jungen und Mädchen ab 8 Jahren 3 verschiedene Ikonen der Popkultur aus denselben Teilen bauen und immer wieder umbauen
+- Unzählige Spielmöglichkeiten: Kinder können eigene Geschichten mit 3 verschiedenen Retro-Modellen darstellen; ein Spielzeug-Rollschuh, ein Mini-Skateboard und ein Radio-Spielzeug im Boombox-Stil laden zum Bauen und Spielen ein
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1FPFJ{{</world>}}

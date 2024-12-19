@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Ultimate showdown ­– Kids join Sandman, Electro and Lizard in this buildable Spider-Man toy based on Marvel Studios Spider-Man: No Way Home
-- Building toy for boys and girls – Fans of Marvel films and Super Hero toys can find all that and more in this feature-packed Marvel-themed gift for kids, boys and girls aged 10+
 - Spider-Man action – The set’s minifigures can be positioned and posed in multiple places, inspiring endless play-and-display possibilities
+- Building toy for boys and girls – Fans of Marvel films and Super Hero toys can find all that and more in this feature-packed Marvel-themed gift for kids, boys and girls aged 10+
+- 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 - Buildable LEGO Marvel toy – Fans can turn the jointed Sandman and use his enormous hands to grab Spider-Man as he swings on his flexible web ‘rope’
 - 360-degree Spider-Man building toy – A large Sandman is at the centre of an iconic scene filled with classic characters and authentic accessories
-- 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2WTMY{{</world>}}

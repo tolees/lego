@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bij de set zijn LEGO minifiguren inbegrepen van Miles Morales en Morbius, plus een groot Spider-Man webelement, perfect om de 2 speelgoedvleermuizen in te vangen en zo de plannen van de schurk overhoop te gooien
-- De opgevoerde speelgoedauto heeft een cool rood- met zwart kleurenschema, twee noppenschieters aan de voorkant en een groot boosterelement aan de achterkant, dat kinderen kunnen gebruiken om het voertuig nog krachtiger te maken
-- Deze draagbare LEGO speelset is een fantastisch cadeau-idee voor een verjaardag of als kleinigheidje; ideaal voor liefhebbers van raceautos en fans van de superheld Spider-Man
 - Met deze LEGO Marvel set met bouwbaar Spidey speelgoed kunnen fans van de Spider-Man films de angstaanjagende Morbius achtervolgen in Miles Morales supersnelle raceauto
+- Deze draagbare LEGO speelset is een fantastisch cadeau-idee voor een verjaardag of als kleinigheidje; ideaal voor liefhebbers van raceautos en fans van de superheld Spider-Man
+- De opgevoerde speelgoedauto heeft een cool rood- met zwart kleurenschema, twee noppenschieters aan de voorkant en een groot boosterelement aan de achterkant, dat kinderen kunnen gebruiken om het voertuig nog krachtiger te maken
 - Er komt geen einde aan de avonturen in de Spiderverse - kinderen beleven veel plezier aan het bouwen van de Spider-Man speelgoedauto met behulp van de digitale tools in de LEGO Builder app, waarmee ze het model tijdens het bouwen kunnen visualiseren
+- Bij de set zijn LEGO minifiguren inbegrepen van Miles Morales en Morbius, plus een groot Spider-Man webelement, perfect om de 2 speelgoedvleermuizen in te vangen en zo de plannen van de schurk overhoop te gooien
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRWQ7FF{{</world>}}

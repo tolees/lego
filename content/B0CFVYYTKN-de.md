@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vielseitige Figur zum Bauen, Spielen und Ausstellen: Dieses LEGO Marvel Bau-Spielzeug bietet nicht nur Bauspaß, sondern auch unzählige Spiel- und Ausstelloptionen; im LEGO Marvel Sortiment findest du weitere beliebte Spielzeuge zum Kombinieren
 - 2 Marvel-Figuren: Dieses Bau- und Spielset beinhaltet 2 Guardians of the Galaxy-Figuren: Rocket der Raccon mit Shooter und Blaster in den Händen sowie eine kleine Baby Groot-Figur, die man auf Rockets Schulter befestigen kann
+- Baubare Rocket Raccoon-Figur für Kinder: LEGO Marvel Rocket & Baby Groot ist ein baubares LEGO Superhelden-Spielzeug, das Jungs und Mädchen ab 10 Jahren die Actionabenteuer aus den Marvel-Filmen auf eine völlig neue Art erleben lässt
+- Vielseitige Figur zum Bauen, Spielen und Ausstellen: Dieses LEGO Marvel Bau-Spielzeug bietet nicht nur Bauspaß, sondern auch unzählige Spiel- und Ausstelloptionen; im LEGO Marvel Sortiment findest du weitere beliebte Spielzeuge zum Kombinieren
 - LEGO Marvel-Geschenk für Filmfans: Fans von Actionfilmen und Marvel Studios Guardians of the Galaxy können sich mit diesem Geschenk für Kinder auf riesigen Spielspaß mit einer originalgetreuen und voll beweglichen Rocket-Actionfigur freuen
 - Bewegliche Actionfigur für Rollenspiele: Dein Kind kann das bewegliche Modell zum Spielen und Ausstellen vielseitig anpassen und Rocket mit den Guardians of the Galaxy in viele Missionen und eigene fantasievolle Abenteuer schicken
-- Baubare Rocket Raccoon-Figur für Kinder: LEGO Marvel Rocket & Baby Groot ist ein baubares LEGO Superhelden-Spielzeug, das Jungs und Mädchen ab 10 Jahren die Actionabenteuer aus den Marvel-Filmen auf eine völlig neue Art erleben lässt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYYTKN{{</world>}}

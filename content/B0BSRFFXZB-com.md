@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Safety assured – LEGO bricks and pieces are dropped, heated, crushed, twisted and analyzed to make sure they satisfy rigorous global safety standards
+- Quality guaranteed – LEGO components meet stringent industry quality standards to ensure they are consistent, compatible and easy to build with
+- Intuitive building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Endlessly reconfigurable – The playset measures over 4 in. (11 cm) high, 10.5 in. (27 cm) wide and 5.5 in. (14 cm) deep and combines with other sets (sold separately) in the LEGO Minecraft range
+- Many ways to play – Kids can build a pumpkin-shaped house, tend a pumpkin patch, battle a potion-flinging witch, sail a boat and combine ingredients to make pumpkin pie
+- Minecraft pumpkins and potions – LEGO Minecraft The Pumpkin Farm (21248) building toy features an action-packed pumpkin patch located in the game’s swamp biome
+- Gift for kids– Give Minecraft players aged 8 and up a holiday, any-day or birthday gift with this versatile real-world Minecraft playset
 - Authentic action – The set features familiar Minecraft character Steve, plus a witch, a frog with frogspawn and lots of accessories, including a boat, treasure chest and a carved pumpkin
 - Minecraft made real – LEGO Minecraft toy sets give kids a different way to enjoy the popular game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
-- Intuitive building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Many ways to play – Kids can build a pumpkin-shaped house, tend a pumpkin patch, battle a potion-flinging witch, sail a boat and combine ingredients to make pumpkin pie
-- Gift for kids– Give Minecraft players aged 8 and up a holiday, any-day or birthday gift with this versatile real-world Minecraft playset
-- Quality guaranteed – LEGO components meet stringent industry quality standards to ensure they are consistent, compatible and easy to build with
-- Minecraft pumpkins and potions – LEGO Minecraft The Pumpkin Farm (21248) building toy features an action-packed pumpkin patch located in the game’s swamp biome
-- Endlessly reconfigurable – The playset measures over 4 in. (11 cm) high, 10.5 in. (27 cm) wide and 5.5 in. (14 cm) deep and combines with other sets (sold separately) in the LEGO Minecraft range
+- Safety assured – LEGO bricks and pieces are dropped, heated, crushed, twisted and analyzed to make sure they satisfy rigorous global safety standards
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRFFXZB{{</world>}}

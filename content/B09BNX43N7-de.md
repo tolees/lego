@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Baue mit diesem LEGO Set für Erwachsene dein eigenes 2-sitziges LEGO Vespa 125 Motorroller-Modell einer italienischen Ikone
 - Mit seinem funktionstüchtigen Ständer kann der LEGO Roller zu Hause oder im Büro aufgestellt und bewundert werden
 - In Pastellblau, einer der ursprünglichen Produktionsfarben der Vespa und einer äußerst seltenen LEGO Farbe, die LEGO Fans ansprechen soll
+- Baue mit diesem LEGO Set für Erwachsene dein eigenes 2-sitziges LEGO Vespa 125 Motorroller-Modell einer italienischen Ikone
 - Zu diesem LEGO Modell für Erwachsene gehören auch ein Helm und ein Zubehörkorb mit einem Blumenstrauß; ein tolles kreatives Geschenk für Erwachsene
 - Anlässlich des 75-jährigen Jubiläums der Vespa haben die LEGO Designer gemeinsam mit dem Piaggio Team einen Modellbausatz entworfen
 - Zur Ausstattung des Modellbausatzes gehören das Vespa-Logo, ein klassisches Nummernschild, ein Reserverad und ein Ständer

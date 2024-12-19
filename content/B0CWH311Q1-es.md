@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Más maquetas de construcción para adultos: este modelo para construir pertenece a la gama de sets LEGO Adults, diseñados para ofrecer a los aficionados al modelismo una gratificante y envolvente forma de escapar de la rutina
+- Set de aventuras en 12 biomas Minecraft: Oscuridad Profunda, Cueva Frondosa, Pantano, Llanura, Bosque, Cerezal, Desierto, Taiga, Taiga Nevada, Cueva de Espeleotema, Picos de Hielo y Río
 - Idea de regalo Minecraft para hombres y mujeres: a cualquier entusiasta adulto le encantará que le regales este kit de construcción LEGO, creado para celebrar el 15 aniversario del popular videojuego
 - Maqueta para construir y exponer del universo Minecraft: 5 mini construcciones y 8 micro figuras (Steve, Alex, un esqueleto, una bruja, un Creeper, un aldeano, una vaca y un cerdo) que puedes quitar del modelo para exponerlo de distintas formas
-- Set de aventuras en 12 biomas Minecraft: Oscuridad Profunda, Cueva Frondosa, Pantano, Llanura, Bosque, Cerezal, Desierto, Taiga, Taiga Nevada, Cueva de Espeleotema, Picos de Hielo y Río
-- Instrucciones de construcción digitales: la app LEGO Builder incluye una versión digital de las instrucciones de construcción que vienen con este set
 - Maqueta para adultos LEGO Minecraft: el kit de construcción Mesa de Trabajo, diseñado para entusiastas adultos y constructores con experiencia, conmemora el 15 aniversario del popular videojuego Minecraft
+- Más maquetas de construcción para adultos: este modelo para construir pertenece a la gama de sets LEGO Adults, diseñados para ofrecer a los aficionados al modelismo una gratificante y envolvente forma de escapar de la rutina
+- Instrucciones de construcción digitales: la app LEGO Builder incluye una versión digital de las instrucciones de construcción que vienen con este set
 - Set LEGO construible inspirado en el videojuego: incluye detalladas escenas subterráneas, pegatinas con frases del juego y, además, sorpresas ocultas para plantear un gratificante desafío a los fans adultos y los constructores experimentados
 
 [🛒 Check the deal!!]({{< param buyurl >}})

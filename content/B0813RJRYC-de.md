@@ -29,14 +29,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO Technic Sets entsprechen den höchsten Branchenstandards, damit sich die Elemente mühelos zusammenbauen lassen.
+- Das Modellauto im Maßstab 1:8 ist 13 cm hoch, 60 cm lang und 25 cm breit und begeistert mit seiner Lackierung in „Electric Gold“, mit seinen goldenen Felgen und mit seinen Zierelementen.
+- LEGO Technic Sets werden gründlich getestet, um die höchsten globalen Sicherheits- und Qualitätsstandards zu erfüllen.
 - Powered by Passion! Für dieses LEGO Technic Set werden keine Batterien benötigt, damit du dich sofort an das fesselnde Bauprojekt heranwagen kannst.
+- LEGO Technic Sets spiegeln elegante Details und realistische Funktionen wider, um ein lohnendes Bauerlebnis zu vermitteln und Modelle mit eindrucksvollen Ausstattungsmerkmalen nachzubilden.
+- Dieses LEGO Technic Set bringt dich dem echten Lamborghini Sián FKP 37 näher als je zuvor, denn das Modell verfügt über ein sequenzielles 7-Gang-Schaltgetriebe, einen beweglichen Heckspoiler, Front- und Heckklappe, welche sich öffnen lassen sowie detailgetreue Scheibenbremsen und goldene Felgen.
+- Der exklusive Sammlerbildband enthält eine umfassende Bauanleitung, Bilder und Interviews mit den beiden Teams, die an diesem Projekt mitgewirkt haben – LEGO Group und Automobili Lamborghini –, um dir einen Blick hinter die Kulissen zu gewähren.
 - Genieße ein fesselndes Bauerlebnis mit dem LEGO Technic Modellbausatz „Lamborghini Sián FKP 37“ (42115). Entdecke dann die originalgetreuen Ausstattungsmerkmale des Autos, zum Beispiel den V12-Motor mit beweglichen Kolben, die Lenkung und die Vorder- und Hinterradaufhängung.
 - Dieser exquisite LEGO Technic Modellbausatz begeistert mit herausragender Detailtreue und wurde eigens für die Fans von Supersportwagen entwickelt. Zu dem Set gehören auch eine dekorative Stellplatte und eine einmalige Seriennummer zum Freischalten exklusiver Online-Inhalte.
-- Der exklusive Sammlerbildband enthält eine umfassende Bauanleitung, Bilder und Interviews mit den beiden Teams, die an diesem Projekt mitgewirkt haben – LEGO Group und Automobili Lamborghini –, um dir einen Blick hinter die Kulissen zu gewähren.
-- LEGO Technic Sets spiegeln elegante Details und realistische Funktionen wider, um ein lohnendes Bauerlebnis zu vermitteln und Modelle mit eindrucksvollen Ausstattungsmerkmalen nachzubilden.
-- Das Modellauto im Maßstab 1:8 ist 13 cm hoch, 60 cm lang und 25 cm breit und begeistert mit seiner Lackierung in „Electric Gold“, mit seinen goldenen Felgen und mit seinen Zierelementen.
-- Dieses LEGO Technic Set bringt dich dem echten Lamborghini Sián FKP 37 näher als je zuvor, denn das Modell verfügt über ein sequenzielles 7-Gang-Schaltgetriebe, einen beweglichen Heckspoiler, Front- und Heckklappe, welche sich öffnen lassen sowie detailgetreue Scheibenbremsen und goldene Felgen.
-- LEGO Technic Sets werden gründlich getestet, um die höchsten globalen Sicherheits- und Qualitätsstandards zu erfüllen.
 - Ein lohnendes Bauprojekt für dich – oder ein ganz besonderes Geburtstags- oder Weihnachtsgeschenk für einen Menschen, der dir sehr am Herzen liegt. Dieses LEGO Set ist in einer exklusiven Luxus-Box erhältlich, die dich zum stolzen Besitzer eines überaus spektakulären Schaustücks macht.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

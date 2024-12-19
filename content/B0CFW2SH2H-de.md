@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bewegliche Weltraum-Figuren: Der Spielzeug-Astronaut hat bewegliche Beine, Füße, Arme und Finger, während der LEGO Hund seinen Schwanz und seine Beine bewegen kann; dein Kind hat also die Wahl, in welche Position es die Figuren bringt
-- Modelle zum Ausstellen: Zu allen 3 LEGO Weltraum-Modellen liegen Ständer aus LEGO Steinen bei, damit dein Kind diese tollen Hingucker nach dem Spielen im Kinderzimmer als Schlafzimmer-Deko ausstellen kann
 - 3 LEGO Weltraum-Spielzeuge in 1 Box: Raumfahrtbegeisterte Jungen und Mädchen ab 9 Jahren können mit dem LEGO Creator Astronaut im Weltraum 3 verschiedene Modelle mit denselben LEGO Steinen bauen, umbauen und als Kinderzimmer-Deko ausstellen
-- Unzählige Spielmöglichkeiten: 3 verschiedene Weltraum-Modelle – eine Astronaut-Figur, ein Weltraum-Hund und ein Viper-Weltraumjet – lassen Kinder zu kühnen Abenteuern ins Weltall aufbrechen
-- Kreatives Geschenk aus der Themenwelt der Raumfahrt: Dieses coole 3in1-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis, ist ein prima Geschenk für 9-jährige Jungs und Mädchen und lädt dein Kind zu vielen spannenden Rollenspielen ein
+- Modelle zum Ausstellen: Zu allen 3 LEGO Weltraum-Modellen liegen Ständer aus LEGO Steinen bei, damit dein Kind diese tollen Hingucker nach dem Spielen im Kinderzimmer als Schlafzimmer-Deko ausstellen kann
 - LEGO Creator Spielzeuge: Jeder 3in1 Modellbausatz lässt Kinder 3 verschiedene Modelle aus ihren wichtigsten Interessenbereichen bauen, die unter anderem Tiere, Fahrzeuge und detailreiche Szenen aus dem Stadtleben darstellen
+- Unzählige Spielmöglichkeiten: 3 verschiedene Weltraum-Modelle – eine Astronaut-Figur, ein Weltraum-Hund und ein Viper-Weltraumjet – lassen Kinder zu kühnen Abenteuern ins Weltall aufbrechen
+- Bewegliche Weltraum-Figuren: Der Spielzeug-Astronaut hat bewegliche Beine, Füße, Arme und Finger, während der LEGO Hund seinen Schwanz und seine Beine bewegen kann; dein Kind hat also die Wahl, in welche Position es die Figuren bringt
+- Kreatives Geschenk aus der Themenwelt der Raumfahrt: Dieses coole 3in1-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis, ist ein prima Geschenk für 9-jährige Jungs und Mädchen und lädt dein Kind zu vielen spannenden Rollenspielen ein
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW2SH2H{{</world>}}

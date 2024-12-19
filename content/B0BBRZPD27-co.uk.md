@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Minecraft players aged 8+ will be buzzing with excitement as they make angry bees race with the flick of a finger or battle a baby zombie
 - Kids can play outside the Minecraft house with honeycomb to harvest from the beehive, crops to grow at the farm and mobs to defend against
+- Minecraft players aged 8+ will be buzzing with excitement as they make angry bees race with the flick of a finger or battle a baby zombie
 - The bee-shaped Minecraft building toy has a removable roof for easy access to the interior with fun elements and activities for fans to enjoy
 - This cool LEGO Minecraft The Bee Cottage buildable toy house features Honey Bear player character, baby zombie, 3 bees and 1 angry bee figures
 - LEGO Minecraft The Bee Cottage with animal figures and a buildable toy house makes a great gift for girls and boys aged 8+ and all kids who love Minecraft

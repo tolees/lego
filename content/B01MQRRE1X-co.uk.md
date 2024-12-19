@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Toddler construction toys for kids – Includes a drivable toy truck with a detachable trailer, 2 LEGO DUPLO figures and 26 ABC DUPLO bricks
-- Gift for toddlers – This learning toy is a gift idea for kids, boys and girls aged 2+ who love LEGO vehicles and are beginning to recognise letters
-- Construction toy that teaches toddlers letters – The LEGO DUPLO Town Alphabet Truck toy for kids aged 2+ is filled with fun ABC learning
-- Imaginative accessories – Comes with a stereo element to encourage toddlers to sing their ABCs and a book element to get toddlers reading letters
 - ABC learning toys – Kids group the DUPLO bricks by colour, load the truck with letters to construct words, then take the LEGO truck for a drive
+- Imaginative accessories – Comes with a stereo element to encourage toddlers to sing their ABCs and a book element to get toddlers reading letters
+- Gift for toddlers – This learning toy is a gift idea for kids, boys and girls aged 2+ who love LEGO vehicles and are beginning to recognise letters
+- Toddler construction toys for kids – Includes a drivable toy truck with a detachable trailer, 2 LEGO DUPLO figures and 26 ABC DUPLO bricks
+- Construction toy that teaches toddlers letters – The LEGO DUPLO Town Alphabet Truck toy for kids aged 2+ is filled with fun ABC learning
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MQRRE1X{{</world>}}

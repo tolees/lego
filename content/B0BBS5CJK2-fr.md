@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Les enfants peuvent jouer le rôle dexplorateurs du terrain de camping, utiliser lappareil photo pour photographier les animaux sauvages, planter la tente et préparer le dîner près du feu de camp
+- Ce jeu LEGO City 4x4 Tout-Terrain pour enfants comprend une voiture 4x4 de type monster truck, deux VTT, une tente et deux minifigurines
+- Comprend 2 minifigurines, une figurine de lapin, des casques pour les minifigurines, un feu de camp, un appareil photo, des sacs de couchage, une pelle, une casserole et un sac à dos
 - La voiture tout-terrain est équipée de gros pneus prêts à lemploi, dune suspension haute et fonctionnelle et dun plateau pour transporter les VTT
 - Offrez cet ensemble comme cadeau danniversaire, cadeau spécial ou cadeau dun autre jour aux enfants de 6 ans et plus qui aiment les jouets en voiture, le camping et les aventures en plein air
 - Cet ensemble est accompagné dinstructions illustrées et dun guide numérique dans lapplication LEGO Builder pour que les enfants puissent voir le modèle sous tous les angles pendant la construction
-- Comprend 2 minifigurines, une figurine de lapin, des casques pour les minifigurines, un feu de camp, un appareil photo, des sacs de couchage, une pelle, une casserole et un sac à dos
-- Ce jeu LEGO City 4x4 Tout-Terrain pour enfants comprend une voiture 4x4 de type monster truck, deux VTT, une tente et deux minifigurines
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS5CJK2{{</world>}}

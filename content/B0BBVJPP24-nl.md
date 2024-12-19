@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Beide LEGO Star Wars ruimteschepen hebben een cockpit die kan openen en 2 schieters met veermechanisme, de Fang Fighter heeft ook een wapenopslagruimte
-- Bevat 3 LEGO Star Wars minifiguren: de Mandalorian, de Mandalorian Fleet Commander met een blasterpistool en jetpack en een TIE Pilot met een blasterpistool
-- Deze LEGO set is een uniek Star Wars cadeau voor fans en kinderen vanaf 9 jaar om te geven met een verjaardag of een andere speciale gelegenheid
 - De set bevat ook The Mandalorians darksaber, plus een nieuw-voor-mei-2023 R2-E6 LEGO droid figuur voor actievol spel
 - Kinderen en fans kunnen Star Wars: The Mandalorian Seizoen 3 gevechten naspelen en hun sets alleen of als onderdeel van een LEGO Star Wars Collectie tentoonstellen
+- Bevat 3 LEGO Star Wars minifiguren: de Mandalorian, de Mandalorian Fleet Commander met een blasterpistool en jetpack en een TIE Pilot met een blasterpistool
+- Beide LEGO Star Wars ruimteschepen hebben een cockpit die kan openen en 2 schieters met veermechanisme, de Fang Fighter heeft ook een wapenopslagruimte
 - Deze LEGO Star Wars set bevat 2 bouwbare speelgoed starfighters: de Fang Fighter uit The Mandalorian Seizoen 3 en de klassieke TIE Interceptor voor epische gevechten
+- Deze LEGO set is een uniek Star Wars cadeau voor fans en kinderen vanaf 9 jaar om te geven met een verjaardag of een andere speciale gelegenheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBVJPP24{{</world>}}

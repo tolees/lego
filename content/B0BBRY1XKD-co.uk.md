@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This home decor craft kit for adults contains 1,810 pieces, 6 canvas bases, 2 hangers elements and a decorative tile with Hokusais signature
+- Bring one of the most iconic artworks of the last two centuries to life with the LEGO Art Hokusai - The Great Wave set, a DIY framed wall art piece
 - The 3D Japanese artwork makes a great home or office décor display piece, and a brilliant present for art and home design fans
+- This home decor craft kit for adults contains 1,810 pieces, 6 canvas bases, 2 hangers elements and a decorative tile with Hokusais signature
 - Relax while building this LEGO wall Art set - scan the QR code to listen to the tailor-made soundtrack end enjoy a rewarding mindful experience
 - This tribute to Hokusai’s The Great Wave comes with a premium booklet with art details and instructions to guide you through the building process
-- Bring one of the most iconic artworks of the last two centuries to life with the LEGO Art Hokusai - The Great Wave set, a DIY framed wall art piece
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRY1XKD{{</world>}}

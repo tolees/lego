@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Trusty sidekicks – Along with the LEGO Harry Potter minifigures, this building toy for kids also includes a Hedwig the owl figure and Trevor the toad
 - Fantasy toy playset – Let kids recreate the iconic Harry Potter and the Philosophers Stone scene where Harry arrives at Hogwarts Castle Boathouse
-- 7 LEGO Harry Potter characters – Includes Harry Potter, Neville Longbottom, Dean Thomas, Hermione Granger and Professor McGonagall minifigures
-- Wizarding World building toys – This set is part of a series of modular sets (sold separately) that connect to create the most detailed LEGO brick-built Hogwarts Castle scene ever
+- Trusty sidekicks – Along with the LEGO Harry Potter minifigures, this building toy for kids also includes a Hedwig the owl figure and Trevor the toad
 - 1 of 14 collectible Hogwarts portraits – Includes a gold-coloured element printed with 1 of 14 random Hogwarts portraits to display in the boathouse
-- 2 boat toys – The boathouse has space inside for a boat to dock, a wind vane and a hiding place for Trevor, and each boat has room for 2 minifigures
+- 7 LEGO Harry Potter characters – Includes Harry Potter, Neville Longbottom, Dean Thomas, Hermione Granger and Professor McGonagall minifigures
 - Gift idea for kids – This set makes a fun everyday treat or Harry Potter-themed gift for 8 plus year old girls, boys and kids who are starting to get into Harry Potter stories to play independently or with their friends
+- Wizarding World building toys – This set is part of a series of modular sets (sold separately) that connect to create the most detailed LEGO brick-built Hogwarts Castle scene ever
+- 2 boat toys – The boathouse has space inside for a boat to dock, a wind vane and a hiding place for Trevor, and each boat has room for 2 minifigures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYNPY6{{</world>}}

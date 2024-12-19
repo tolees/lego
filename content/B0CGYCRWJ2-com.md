@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Elsa and the Snowgie – The building set includes an ice-cream toy cart, an Elsa toy mini-doll, Snowgie figure and 2 collectible rings with interchangeable decorations
-- Disney Frozen fun for kids ages 5+ – Girls and boys will enjoy playing with this Elsa’s Frozen Treats building toy set and inspire creativity as kids imagine and play out their own stories
-- Fairytale building toy – This open-ended LEGO building set also lets Disney fans use their imaginations to create brand-new stories and explore their passion for creative fantasy play
+- Expand the play – Add this LEGO Disney Frozen toy building set to others (sold separately) in the series
 - Ice-cream cart – Kids can push the colorful ice-cream toy cart around, set up the ice-cream cones and role-play scenes where Disney Princess doll Elsa and the Snowgie deliver frosty treats to the market
 - Build life skills – With a LEGO Disney Elsa mini-doll figure, LEGO Disney Snowgie figure and a detailed ice-cream cart, this construction set fosters creative play and develops life skills
-- Expand the play – Add this LEGO Disney Frozen toy building set to others (sold separately) in the series
+- Disney Frozen fun for kids ages 5+ – Girls and boys will enjoy playing with this Elsa’s Frozen Treats building toy set and inspire creativity as kids imagine and play out their own stories
 - Gift for kids ages 5+ – A fun everyday Disney Princess gift idea for girls and boys who enjoy the Frozen movies. Kick-start storytelling play with Elsa doll and the Snowgie
+- Fairytale building toy – This open-ended LEGO building set also lets Disney fans use their imaginations to create brand-new stories and explore their passion for creative fantasy play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CGYCRWJ2{{</world>}}
