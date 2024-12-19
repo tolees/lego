@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kids can role-play exploring the camping spot, use the camera accessory to capture wildlife, pitch the tent and cook up dinner by the campfire
 - This set comes with a pictorial instructions and a digital guide in the LEGO Builder app so kids can view the model from all angles as they build
 - This cool LEGO City 4x4 Off-roader and camping set for kids features a monster truck style car toy, 2 mountain bikes, a tent and 2 minifigures
-- Includes 2 minifigures, a rabbit animal figure, helmets for the minifigures, a campfire, a toy camera, sleeping bags, a shovel, pan and a backpack
 - Give this LEGO vehicles and camping set as a birthday or any-time gift to kids aged 6 and over who love monster truck toys and outdoor adventures
+- Includes 2 minifigures, a rabbit animal figure, helmets for the minifigures, a campfire, a toy camera, sleeping bags, a shovel, pan and a backpack
 - The off-road car toy features ready for action large tyres and a high, working suspension plus a flatbed for transporting the toy mountain bikes
+- Kids can role-play exploring the camping spot, use the camera accessory to capture wildlife, pitch the tent and cook up dinner by the campfire
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS5CJK2{{</world>}}

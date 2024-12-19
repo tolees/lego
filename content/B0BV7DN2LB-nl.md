@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vertel spannende verhalen uit de ruimte met de 4 koppelbare LEGO 3D-ansichtkaart modellen met ontwerpen geïnspireerd op sci-fi films en boeken uit de jaren 80
-- Maak minimalistische voorstellingen van een observatorium voor het bekijken van kometen en vallende sterren, een maanbasis en maansverduistering, een spaceshuttle die door de ruimte raast en een zwart gat met deze unieke LEGO set
-- De ansichtkaarten kunnen aan elkaar verbonden worden in elke gewenste volgorde, en vervolgens op een kastje gelegd worden of aan de muur bevestigd worden als wanddecoratie met behulp van de hangers
-- De roze/paarse ansichtkaart in deze LEGO muurdecoratie set heeft sterelementen die kunnen worden gerangschikt om de Ursa Major, Cepheus, Ursa Minor of Cassiopeia sterrenbeelden te maken
 - Deze grote LEGO Technic set voor volwassenen biedt een lonende bouwervaring en is een geweldig cadeau voor mannen en vrouwen die van bouwvoertuigen houden
-- Deze LEGO modulaire set is te combineren met andere LEGO Super Mario speelsets en is een leuk cadeau voor kinderen, jongens, meisjes en alle Super Mario fans vanaf 8 jaar
 - De LEGO set voor volwassenen bevat bouwinstructies voor elke ansichtkaart, zodat je het bouwplezier kan delen met vrienden of familie, plus een boekje van de LEGO ontwerpers
+- Vertel spannende verhalen uit de ruimte met de 4 koppelbare LEGO 3D-ansichtkaart modellen met ontwerpen geïnspireerd op sci-fi films en boeken uit de jaren 80
+- De roze/paarse ansichtkaart in deze LEGO muurdecoratie set heeft sterelementen die kunnen worden gerangschikt om de Ursa Major, Cepheus, Ursa Minor of Cassiopeia sterrenbeelden te maken
+- De ansichtkaarten kunnen aan elkaar verbonden worden in elke gewenste volgorde, en vervolgens op een kastje gelegd worden of aan de muur bevestigd worden als wanddecoratie met behulp van de hangers
+- Deze LEGO modulaire set is te combineren met andere LEGO Super Mario speelsets en is een leuk cadeau voor kinderen, jongens, meisjes en alle Super Mario fans vanaf 8 jaar
+- Maak minimalistische voorstellingen van een observatorium voor het bekijken van kometen en vallende sterren, een maanbasis en maansverduistering, een spaceshuttle die door de ruimte raast en een zwart gat met deze unieke LEGO set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7DN2LB{{</world>}}

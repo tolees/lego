@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mes premières constructions LEGO Boost
 - Âge recommandé par le fabricant: 7-12
+- Ils peuvent choisir entre un jouet de robot pour enfants qui bouge/parle, un rover versatile, un instrument de musique, un robot chat interactif ou la ligne de production AutoConstructeur
+- Mes premières constructions LEGO Boost
 - Nombre de pièces: 847
 - Cet ensemble LEGO robot comprend un Move Hub LEGO avec connexion Bluetooth, moteur interactif et capteur de distance et couleurs pour donner vie au modèle
-- Ils peuvent choisir entre un jouet de robot pour enfants qui bouge/parle, un rover versatile, un instrument de musique, un robot chat interactif ou la ligne de production AutoConstructeur
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B06X6GN2VQ{{</world>}}

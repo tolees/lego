@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This LEGO car toy set makes a great gift for boys, girls and all kids aged 8+ who are fans of awesome vehicles and imaginative story-telling
 - In off-road mode, the toy monster truck has large, rolling wheels, a flame effect and a roof that can be removed to seat a minifigure inside
 - Also includes LEGO DREAMZzz minifigures: Cooper, Jayden and the Night Hunter, an evil helper, cool toy motorbike plus story-led building instructions
 - Kids can use the story-led instructions to choose to build the vehicle as a crocodile car toy or as a souped-up, super-fast Monster Truck style toy
-- This LEGO car toy set makes a great gift for boys, girls and all kids aged 8+ who are fans of awesome vehicles and imaginative story-telling
-- Check out the full range for of creative LEGO DREAMZzz toys sets and let kids recreate stories from the TV show and come up with imaginative play adventures
 - In croc mode, the LEGO animal themed vehicle shoots discs and has posable arms, legs and tail so kids can easily recreate different scenes
 - Fans of the DREAMZzz TV show join Cooper and Logan to rescue Jayden from the Night Hunter with this LEGO DREAMZzz Crocodile Car toy 2-in-1 set
+- Check out the full range for of creative LEGO DREAMZzz toys sets and let kids recreate stories from the TV show and come up with imaginative play adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7D5HBC{{</world>}}

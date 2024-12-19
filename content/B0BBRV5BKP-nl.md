@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinderen kunnen Hermelien en Ron onderwater redden door het kieuwwier drankje voor Harry te vinden en vanaf de pier naar de redding te duiken
-- Bevat ook een speelgoed boot en een piermodel met een minifiguur-duikfunctie, plus een draaiende klok en accessoires, zoals het Kieuwwier drankje
-- Bevat een bouwbare boog ruïne die het effect kan creëren dat Hermelien en Ron zweven, plus 2 grotten met verborgen schatten
 - De set bevat 5 LEGO minifiguren: Harry Potter, Viktor Kruml, Hermelien Griffel, Ron Wemel, een Meermens en een Wierling, plus leuke krabfiguren
-- Kinderen kunnen de wedstrijd van het Toverschool Toernooi bij het Zwarte Meer uit Harry Potter en de Vuurbeker naspelen met dit leuke LEGO Harry Potter speelgoed
+- Bevat ook een speelgoed boot en een piermodel met een minifiguur-duikfunctie, plus een draaiende klok en accessoires, zoals het Kieuwwier drankje
 - Een geweldige ervaring voor alle bouwers - de LEGO Builder app begeleidt jongeren op een intuïtief bouwavontuur met tools die een helpende hand bieden
+- Kinderen kunnen de wedstrijd van het Toverschool Toernooi bij het Zwarte Meer uit Harry Potter en de Vuurbeker naspelen met dit leuke LEGO Harry Potter speelgoed
+- Bevat een bouwbare boog ruïne die het effect kan creëren dat Hermelien en Ron zweven, plus 2 grotten met verborgen schatten
+- Kinderen kunnen Hermelien en Ron onderwater redden door het kieuwwier drankje voor Harry te vinden en vanaf de pier naar de redding te duiken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRV5BKP{{</world>}}

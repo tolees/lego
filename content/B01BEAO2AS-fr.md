@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Jeu daction sur PS4. La saga n°1 de jeux vidéo LEGO fait un retour triomphal dans un voyage drôle et amusant basé sur le film Star Wars.
 - filtre
+- Jeu daction sur PS4. La saga n°1 de jeux vidéo LEGO fait un retour triomphal dans un voyage drôle et amusant basé sur le film Star Wars.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01BEAO2AS{{</world>}}

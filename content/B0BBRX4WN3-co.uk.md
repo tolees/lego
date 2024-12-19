@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO Avengers Infinity Saga with toy spaceship set makes a great birthday gift or any-day treat for super hero kids, boys and girls aged 9+ years old
-- The collectible Avengers spaceship features an opening cockpit, passenger area, rear section, a retractable undercarriage and adjustable wings
-- The Marvel Avengers buildable toy comes with a detachable display stand and a choice of 2 sticker sheets with Avengers or S.H.I.E.L.D. insignias
-- Enter a new world of building; builders can zoom in, rotate and track their progress using the fun, intuitive LEGO Builder App for smart devices
-- Includes 5 LEGO Marvel Avengers minfigures: Black Widow, Thor with his hammer, Iron Man, Captain America with his shield and Loki with sceptre
 - LEGO Marvel The Avengers Quinjet model building toy features an authentic recreation of the legendary Super Hero aircraft with iconic characters
+- The collectible Avengers spaceship features an opening cockpit, passenger area, rear section, a retractable undercarriage and adjustable wings
+- This LEGO Avengers Infinity Saga with toy spaceship set makes a great birthday gift or any-day treat for super hero kids, boys and girls aged 9+ years old
+- Enter a new world of building; builders can zoom in, rotate and track their progress using the fun, intuitive LEGO Builder App for smart devices
+- The Marvel Avengers buildable toy comes with a detachable display stand and a choice of 2 sticker sheets with Avengers or S.H.I.E.L.D. insignias
+- Includes 5 LEGO Marvel Avengers minfigures: Black Widow, Thor with his hammer, Iron Man, Captain America with his shield and Loki with sceptre
 - Kids can open the top section and place Black Widow, Thor, Iron Man and Captain America inside while Loki sneaks in through a rear entrance
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Geschenk für Kinder, die Spielzeug-Raumfahrzeuge der NASA lieben: Dieses Set ist ein tolles Geschenk für kreative Jungen und Mädchen ab 11 Jahren, die coole Raumfahrt-Spielzeuge lieben
-- Wissenschaftliches Zubehör: Neben dem Weltraumrover beinhaltet dieses Spielset auch Zubehör, das echte Astronauten benutzen, beispielsweise wissenschaftliche Instrumente und Gasflaschen
 - Raumfahrzeug mit vielen Funktionen: Dieses Raumfahrt-Bauspielzeug verfügt über eine verlängerbare Ladefläche, eine Federung, einen beweglichen Kran, einen Aufzug, einen Generator, Leuchten, einen Begleit-Rover, eine Wohnkabine und ein Cockpit
+- Rover lässt sich aus- und einfahren: Dieses Modell zeigt, wie vielseitig Rover sind. Man kann das kompakte Fahrzeug nach der Landung in einen längeren Transporter verwandeln, um Fracht zu befördern
 - Spielzeug-Marsrover für Jungen und Mädchen ab 11 Jahren: Der LEGO Technic Mars Exploration Rover ist ein Kinderspielzeug mit unzähligen wirklichkeitsgetreuen Funktionen, die junge Forscher ganz spielerisch lernen lassen
 - Luftschleuse zum Andocken an andere Modelle: Eine spezielle Luftschleuse lässt dein Kind das Modell für weitere Abenteuer auch an andere kompatible (separat erhältliche) LEGO Raumfahrt-Spielsets andocken
-- Rover lässt sich aus- und einfahren: Dieses Modell zeigt, wie vielseitig Rover sind. Man kann das kompakte Fahrzeug nach der Landung in einen längeren Transporter verwandeln, um Fracht zu befördern
+- Wissenschaftliches Zubehör: Neben dem Weltraumrover beinhaltet dieses Spielset auch Zubehör, das echte Astronauten benutzen, beispielsweise wissenschaftliche Instrumente und Gasflaschen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1PGQY{{</world>}}

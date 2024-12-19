@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Collectible Millennium Falcon model – Relive classic scenes as you build a LEGO recreation of the most iconic starship in the Star Wars universe
-- Star Wars gifts for fans – This 921-piece adults’ LEGO building set makes a great Fathers Day gift, birthday present for men, women, him or her, or as a nice treat for yourself or another Star Wars memorabilia collector
-- Star Wars gifts for fans – This 921-piece adults’ LEGO building set makes a great Christmas gift for men, women, him or her, or as a nice treat for yourself or another Star Wars memorabilia collector
-- Made for display – The buildable stand has a nameplate and LEGO Star Wars 25th anniversary brick to display the Millennium Falcon at a dynamic angle
 - Part of the LEGO Star Wars Starship Collection – This model kit for adults to build is part of a series of mid-scale Star Wars model starship kits
 - Authentically detailed LEGO Star Wars vehicle – Recreate features as seen in Star Wars: A New Hope, including the cockpit, satellite dish and cannons
+- Collectible Millennium Falcon model – Relive classic scenes as you build a LEGO recreation of the most iconic starship in the Star Wars universe
 - From a galaxy far, far away to your home – Collectible LEGO Star Wars sets for adults make great home or office décor pieces, plus they are designed for people like you who enjoy immersive creative building projects to relax in a mindful way
+- Made for display – The buildable stand has a nameplate and LEGO Star Wars 25th anniversary brick to display the Millennium Falcon at a dynamic angle
+- Star Wars gifts for fans – This 921-piece adults’ LEGO building set makes a great Fathers Day gift, birthday present for men, women, him or her, or as a nice treat for yourself or another Star Wars memorabilia collector
+- Star Wars gifts for fans – This 921-piece adults’ LEGO building set makes a great Christmas gift for men, women, him or her, or as a nice treat for yourself or another Star Wars memorabilia collector
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW29DZX{{</world>}}

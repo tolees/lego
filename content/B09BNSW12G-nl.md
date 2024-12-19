@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen kunnen futuristische verhalen uitspelen met de robot speelgoed, brullen in actie met het draak bouwbare model of zweven in de lucht met het speelgoed straalvliegtuig
-- Het superrobot speelgoed voor kinderen vanaf 7 jaar oud laat ze genieten van 3 bouwbare modellen in 1 set: een speelgoed robot, een draak figuur en een speelgoed LEGO straalvliegtuig
-- LEGO 3in1 creatief constructiespeelgoed laat kinderen genieten van uren fantasierijk spel als ze 3 verschillende kleurrijke bouwbare modellen bouwen in elke doos
 - Draagbaar formaat - dankzij de hoogte van de robot van 15 cm kunnen kinderen er thuis mee spelen of hem overal mee naartoe nemen
+- Het superrobot speelgoed voor kinderen vanaf 7 jaar oud laat ze genieten van 3 bouwbare modellen in 1 set: een speelgoed robot, een draak figuur en een speelgoed LEGO straalvliegtuig
+- Kinderen kunnen futuristische verhalen uitspelen met de robot speelgoed, brullen in actie met het draak bouwbare model of zweven in de lucht met het speelgoed straalvliegtuig
+- LEGO 3in1 creatief constructiespeelgoed laat kinderen genieten van uren fantasierijk spel als ze 3 verschillende kleurrijke bouwbare modellen bouwen in elke doos
 - De speelgoed robot heeft een verstelbaar hoofd, benen, voeten, armen, handen en vleugels; het drakenbouwbare model is ook volledig verstelbaar; het vliegtuig heeft verstelbare vleugels
 - Kijk uit naar andere nieuwe-voor-maart-2022 LEGO Creator 3in1 sets: Off-road Buggy 31123, Supersonic Jet 31126 & Fantasy Forest Creatures 31125
 

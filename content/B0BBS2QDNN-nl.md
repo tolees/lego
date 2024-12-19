@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinderen kunnen de 3 LEGO Creator speelgoed jungle dieren bouwen of een volledig nieuw dieren figuur maken met de stenen in de doos en hun fantasie
-- Het 3in1 LEGO Creator constructie speelgoed assortiment zit vol plezier; mis de Space Shuttle (31134), Strandkampeerbus (31138) en Knus Huis (31139) sets niet
 - Ontdek de LEGO Builder app, waar kinderen op 3D-modellen kunnen inzoomen en roteren, hun voortgang kunnen bijhouden en hun sets kunnen opslaan
-- Deze LEGO Creator 3in1 jungle dieren speelgoed set voor kinderen vanaf 7 jaar bestaat uit een papegaai op een boomtak, een kikker en een vis
-- De papegaai kan worden veranderd in een speelgoed kikker met beweegbare poten, of in een vis met verstelbare vinnen voor eindeloze speelavonturen
+- Het 3in1 LEGO Creator constructie speelgoed assortiment zit vol plezier; mis de Space Shuttle (31134), Strandkampeerbus (31138) en Knus Huis (31139) sets niet
+- Kinderen kunnen de 3 LEGO Creator speelgoed jungle dieren bouwen of een volledig nieuw dieren figuur maken met de stenen in de doos en hun fantasie
 - Met details zoals de bloemetjes op de tak van de papegaai, ziet deze bouwspeelgoedset er geweldig uit op een kastje of tafeltje in de kinderkamer
+- De papegaai kan worden veranderd in een speelgoed kikker met beweegbare poten, of in een vis met verstelbare vinnen voor eindeloze speelavonturen
+- Deze LEGO Creator 3in1 jungle dieren speelgoed set voor kinderen vanaf 7 jaar bestaat uit een papegaai op een boomtak, een kikker en een vis
 - De speelgoed papegaai heeft mooie kleuren en beweegbare onderdelen, waardoor hij zijn lichaam kan draaien en zijn vleugels en staart kan bewegen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

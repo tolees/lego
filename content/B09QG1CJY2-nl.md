@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen duwen de speelgoed stuntmotor met het LEGO race poppetje om het vliegwiel te activeren en laten hem vervolgens los richting de looping, waarbij deze over de schans en de mechanische chimpansee met zijn leuke beukfunctie vliegt
-- Met diverse leuke accessoires, zoals een kleine tribune, LEGO vlammen, planten, een camera, een hotdog en een ijsje
-- Deze LEGO City Stuntz set bestaat uit een stuntparcours met een looping en speelgoedschans, een stuntaccessoire van een chimpansee en een speelgoedmotor met vliegwielaandrijving
 - Met dit schitterende cadeau zul je kinderen vanaf 7 jaar die van snelheid, stoere voertuigen en actie houden zeker blij maken!
-- Het constructie speelgoed voor kinderen vanaf 7 jaar bevat daarnaast 3 minifiguren, waaronder de LEGO Stuntz racer Toppiloot en 2 toeschouwers die de stuntshowactie bewonderen
 - Voor nog meer actie en indrukwekkende stunts kunnen kinderen deze set combineren met ander speelgoed uit de LEGO City Stuntz collectie
+- Kinderen duwen de speelgoed stuntmotor met het LEGO race poppetje om het vliegwiel te activeren en laten hem vervolgens los richting de looping, waarbij deze over de schans en de mechanische chimpansee met zijn leuke beukfunctie vliegt
+- Deze LEGO City Stuntz set bestaat uit een stuntparcours met een looping en speelgoedschans, een stuntaccessoire van een chimpansee en een speelgoedmotor met vliegwielaandrijving
+- Met diverse leuke accessoires, zoals een kleine tribune, LEGO vlammen, planten, een camera, een hotdog en een ijsje
+- Het constructie speelgoed voor kinderen vanaf 7 jaar bevat daarnaast 3 minifiguren, waaronder de LEGO Stuntz racer Toppiloot en 2 toeschouwers die de stuntshowactie bewonderen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QG1CJY2{{</world>}}

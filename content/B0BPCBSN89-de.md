@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Außerdem enthält das Set Flossen, Tauchflaschen und eine Tauchmaske, zwei Tassen, ein Fernglas und eine Axt, ein Schild und einen Wikingerhelm
-- Dieses Set mit mehreren Fahrzeugen bietet viele Spielmöglichkeiten. Kinder können den Spielzeughubschrauber vom Landeplatz des Bootes starten und Taucher-Minifiguren vom Beiboot aus einsetzen
 - Das LEGO City Arktis-Forschungsschiff enthält ein Spielzeug-Forschungsschiff mit Kran, Hubschrauber, Beiboot, ROV-U-Boot und Wikinger-Schiffswrack für fantasievolle Erkundungsabenteuer
-- Enthält 7 Minifiguren mit Winterkleidung und Taucheranzügen und ein Orca-Wal-Spielzeug sowie Zubehör wie einen Laptop, ein Walkie-Talkie, eine Kamera, einen Schraubenschlüssel und eine Spritze
+- Außerdem enthält das Set Flossen, Tauchflaschen und eine Tauchmaske, zwei Tassen, ein Fernglas und eine Axt, ein Schild und einen Wikingerhelm
 - Mit diesem Modellbausatz können Kinder das Spielzeugboot auf dem Wasser treiben lassen und das ROV-U-Boot mit dem Teleskop-Kranarm des Schiffs zur Erkundung des Wikinger-Schiffswracks unter Wasser einsetzen
+- Dieses Set mit mehreren Fahrzeugen bietet viele Spielmöglichkeiten. Kinder können den Spielzeughubschrauber vom Landeplatz des Bootes starten und Taucher-Minifiguren vom Beiboot aus einsetzen
+- Enthält 7 Minifiguren mit Winterkleidung und Taucheranzügen und ein Orca-Wal-Spielzeug sowie Zubehör wie einen Laptop, ein Walkie-Talkie, eine Kamera, einen Schraubenschlüssel und eine Spritze
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCBSN89{{</world>}}

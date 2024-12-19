@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Rosen-Geschenk für deinen Partner: Überrasche deine Lieben mit diesem Valentinstag- oder Jahrestag-Geschenk für eine Freundin, einen Freund, Ehefrau oder Ehemann sowie alle, die Kunstblumen und Bauprojekte lieben
-- Teil der LEGO Botanical Collection: Das breite Spektrum an LEGO Sets, die speziell für Erwachsene konzipiert wurden, lässt dich einen Raum zum Entspannen entdecken
 - Inhalt der Box: Dieses kreative LEGO Blumen Set beinhaltet alles, was du brauchst, um zwölf künstliche Rosen mit langen grünen Stängeln sowie 4 Zweige Schleierkraut mit kleinen weißen Blüten zu bauen
-- Baubare Zimmer-Deko: Der LEGO Icons Rosenstrauß ist ein Set für Erwachsene und ein achtsames Bauprojekt, bei dem auch Freunde und Verwandte mitmachen können
+- Teil der LEGO Botanical Collection: Das breite Spektrum an LEGO Sets, die speziell für Erwachsene konzipiert wurden, lässt dich einen Raum zum Entspannen entdecken
 - Toller Bauspaß für dich, deine Freunde und deine Familie: Dieses LEGO Icons Set beinhaltet 6 Steinebeutel und separate Bauanleitungen für die unterschiedlich weit geöffneten Rosen, damit auch andere mitbauen können
 - Künstliche Blumen-Deko: Hol dir mit diesem super pflegeleichten Rosenstrauß einen tollen Farbtupfer ins Zuhause und schmücke dein Wohnzimmer oder Büro mit dieser Home-Deko
+- Baubare Zimmer-Deko: Der LEGO Icons Rosenstrauß ist ein Set für Erwachsene und ein achtsames Bauprojekt, bei dem auch Freunde und Verwandte mitmachen können
 - Aufgehende Knospen: Der LEGO Icons Blumenstrauß stellt unterschiedlich weit geöffnete Rosen dar, darunter 4 Rosen in voller Blüte, 4 halb geöffnete Rosen und 4 Rosenknospen
+- Rosen-Geschenk für deinen Partner: Überrasche deine Lieben mit diesem Valentinstag- oder Jahrestag-Geschenk für eine Freundin, einen Freund, Ehefrau oder Ehemann sowie alle, die Kunstblumen und Bauprojekte lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MRT58RZ{{</world>}}

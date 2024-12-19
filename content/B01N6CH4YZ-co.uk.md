@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- This set is part of the LEGO Botanical Collection, and includes elements of plant-based plastic that’s made using sustainably sourced sugar cane
 - Transform any space into a haven of colour with this beautiful, low-maintenance, floral creation adult LEGO set for women, men or any nature fan
 - The LEGO Icons Tiny Plants building kit makes a great birthday present, home decor gift for women and men, anniversery gift for a wife or husband or any-day gift idea for adult fans of LEGO building sets and artificial LEGO flowers and plants
-- A range of models to suit; beginners can gain experience from the simple artificial plants, while experienced builders can turn to advanced models
 - Includes 9 LEGO plants based on arid, tropical and carnivorous species, in terracotta-coloured pots - great as home decor or desk accessories
-- This set is part of the LEGO Botanical Collection, and includes elements of plant-based plastic that’s made using sustainably sourced sugar cane
 - Enjoy a relaxing project with the LEGO Icons Tiny Plants Botanical Collection Set, featuring 9 plants with flowers in a terracotta-coloured pot
+- A range of models to suit; beginners can gain experience from the simple artificial plants, while experienced builders can turn to advanced models
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N6CH4YZ{{</world>}}

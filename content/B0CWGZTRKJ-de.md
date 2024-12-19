@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Baue dieses Spielzeug-Auto mit all seinen Details: Wenn Baumeister den V8-Motor und das Differential bauen und die Lenkung testen, können sie viele technische Konzepte erkunden
 - Einführung in die Welt der Technik: LEGO Technic Bausets stellen die Bewegungen und die Mechanik der Modelle realistisch dar, um jungen LEGO Baumeistern die Welt der Technik näherzubringen
 - Wirklichkeitsgetreuer Türmechanismus: Das Modellauto verfügt über ein Dihedraltürsystem, das die Türen genau wie am echten Auto um 90 Grad dreht und nach außen bewegt
 - Geschenk für Autofans: Dieses LEGO Fahrzeug-Bauset ist eine tolle Geschenkidee für Kinder, die Fahrzeuge lieben und ein Modell eines der weltweit schnellsten Autos mit Straßenzulassung bauen möchten
-- Baue dieses Spielzeug-Auto mit all seinen Details: Wenn Baumeister den V8-Motor und das Differential bauen und die Lenkung testen, können sie viele technische Konzepte erkunden
 - Spielzeug-Supersportwagen für Kinder ab 10 Jahren: Der LEGO Technic Koenigsegg Jesko Absolut Supersportwagen in Grau ist ein Bauspielzeug für Kinder mit authentischen Details, die junge Autofans begeistern
 
 [🛒 Check the deal!!]({{< param buyurl >}})

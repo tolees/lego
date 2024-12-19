@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wecke die Begeisterung für Technik: LEGO Technic Bausets stellen die Bewegungen und die Mechanik der Modelle realistisch dar, um jungen LEGO Baumeistern die Welt der Technik näherzubringen
 - Modell für Rollenspiele und spannende Rennen: Dein Kind kann die coole Rückziehfunktion benutzen, um das Auto losflitzen zu lassen und sich vorzustellen, wie es auf dem Fahrersitz des echten Mercedes Rennwagens sein würde
-- Geschenkidee für Kinder: Der Mercedes-AMG F1 W14 ist ein cooles Motorsport-Bauset und ein tolles Geschenk für Jungen und Mädchen, die Spielzeug-Rennautos und den Mercedes Rennstall lieben
 - Gemeinsam bauen: Dieses Bauset für Kinder ist ein tolles Begleitset zum separat erhältlichen LEGO Technic Mercedes-AMG F1 W14 E Performance (42171) für Erwachsene, denn es ermöglicht Eltern und Kindern ein grandioses gemeinsames Bauerlebnis
+- Wecke die Begeisterung für Technik: LEGO Technic Bausets stellen die Bewegungen und die Mechanik der Modelle realistisch dar, um jungen LEGO Baumeistern die Welt der Technik näherzubringen
 - Authentische Beschriftung: Es macht riesigen Spaß, den Mercedes W14 mit all seinen Details zusammenzustecken und dann die Aufkleber hinzuzufügen, die dem echten Rennwagen nachempfunden sind
 - Spielzeug-Rennauto mit Rückziehfunktion für Kinder ab 7 Jahren: Der LEGO Technic Mercedes-AMG F1 W14 E Performance Pull-Back ist ein Modell für Jungen und Mädchen. Faszinierende Motorsportdetails lassen die Herzen junger Autofans höher schlagen
+- Geschenkidee für Kinder: Der Mercedes-AMG F1 W14 ist ein cooles Motorsport-Bauset und ein tolles Geschenk für Jungen und Mädchen, die Spielzeug-Rennautos und den Mercedes Rennstall lieben
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYZRN1{{</world>}}

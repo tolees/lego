@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Die graue LEGO Classic Platte eignet sich als Geschenk für Kinder ab 4 Jahren, die gerne Kinderbauprojekten nachgehen
-- Die LEGO Bauplatte hält die Steine in jedem Winkel fest (sogar kopfüber!) und lässt sich dennoch leicht entfernen
-- Langlebig und robust - 2.304 Noppen geben den richtigen Halt für alle LEGO Baukreationen aus LEGO Steinen
-- Ein Platz für kreatives Spiel - diese 38 cm x 38 cm große, graue LEGO Grundplatte bietet eine offene Landschaft für alle Arten von LEGO Kreationen
 - Eine Welt voller Möglichkeiten - von Straßen bis hin zu Bergen, Kinder können auf dieser LEGO Basis alles bauen, was ihnen in den Sinn kommt
 - Schau dir andere LEGO Sets an: Grün für Landschaften (11023), Weiß für Winterlandschaften (11026) und Blau für Meeresabenteuer (11025)
+- Die graue LEGO Classic Platte eignet sich als Geschenk für Kinder ab 4 Jahren, die gerne Kinderbauprojekten nachgehen
+- Die LEGO Bauplatte hält die Steine in jedem Winkel fest (sogar kopfüber!) und lässt sich dennoch leicht entfernen
+- Ein Platz für kreatives Spiel - diese 38 cm x 38 cm große, graue LEGO Grundplatte bietet eine offene Landschaft für alle Arten von LEGO Kreationen
+- Langlebig und robust - 2.304 Noppen geben den richtigen Halt für alle LEGO Baukreationen aus LEGO Steinen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNSNR2Y{{</world>}}

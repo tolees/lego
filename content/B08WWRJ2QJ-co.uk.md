@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The Chamber of Secrets has an iconic circular entrance and a large statue with an opening mouth, which reveals a corridor for Basilisk to enter
-- Includes Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood and Professor Sinistra LEGO Harry Potter minifigures
-- The posable Harry Potter Basilisk snake has opening jaws, a head section with 2 rotatable joints, and a tail comprising 3 reconfigurable parts
-- This toy is one of a series of detailed modular sets that can be built, combined and rearranged to create kids own Hogwarts Castle model, and makes a great Harry Potter-themed Birhtday gift for kids, boys and girls aged 9+
-- Also includes Gilderoy Lockhart, Albus Dumbledore, and Nearly Headless Nick, plus 6 random wizard card tiles to collect, out of 16 in total
 - This easy to build 2 floors LEGO Harry Potter Hogwarts castle toy features The Chamber of Secrets and The Great Hall with accessible tower and attic
 - The LEGO Harry Potter collectible set includes an exclusive, 20th anniversary golden Voldemort LEGO minifigure
+- Includes Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood and Professor Sinistra LEGO Harry Potter minifigures
+- The Chamber of Secrets has an iconic circular entrance and a large statue with an opening mouth, which reveals a corridor for Basilisk to enter
+- This toy is one of a series of detailed modular sets that can be built, combined and rearranged to create kids own Hogwarts Castle model, and makes a great Harry Potter-themed Birhtday gift for kids, boys and girls aged 9+
+- Also includes Gilderoy Lockhart, Albus Dumbledore, and Nearly Headless Nick, plus 6 random wizard card tiles to collect, out of 16 in total
+- The posable Harry Potter Basilisk snake has opening jaws, a head section with 2 rotatable joints, and a tail comprising 3 reconfigurable parts
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08WWRJ2QJ{{</world>}}

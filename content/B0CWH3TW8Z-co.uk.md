@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Batman toy – LEGO DC Batman: Batman Construction Figure & the Bat-Pod Bike features a Batman action figure and motorbike toy for boys and girls
 - More collectable LEGO figures – This build-and-play toy is one of a range of buildable action figures (sold separately) that kids can combine to expand the super-hero fun
-- Film-accurate adventure toy – The buildable LEGO Batman action figure wears a mask and a full-length cape and attaches to the Bat-Pod bike
 - A fun way to build – Discover instructions in the LEGO Builder app, where kids can zoom in and rotate models in 3D, track progress and save sets
 - Posable super-hero figure – Movable shoulder, arm, hip and leg joints let kids create poses with their LEGO Batman, motorbike toy and stud launchers
 - Cool Batman Gift – This The Dark Knight action toy makes a fun birthday gift for 12-plus-year-old boys, girls and kids who enjoy super-hero action and film vehicle toys
+- Batman toy – LEGO DC Batman: Batman Construction Figure & the Bat-Pod Bike features a Batman action figure and motorbike toy for boys and girls
+- Film-accurate adventure toy – The buildable LEGO Batman action figure wears a mask and a full-length cape and attaches to the Bat-Pod bike
 - Many ways to play – This collectible LEGO Batman vehicle set is fun for young superheroes to build, play with and display
 
 [🛒 Buy it now!!]({{< param buyurl >}})

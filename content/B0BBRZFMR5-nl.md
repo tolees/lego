@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Een magisch cadeau voor kinderen die van de tovenaarswereld houden of die op zoek zijn naar hun volgende spannende bouwuitdaging
 - Dit LEGO kasteel Zweinstein speelgoed omvat een gedetailleerde Kamer van Hoge Nood, die geïnspireerd is op de iconische film Harry Potter en de Relieken van de Dood - Deel 2
+- Een magisch cadeau voor kinderen die van de tovenaarswereld houden of die op zoek zijn naar hun volgende spannende bouwuitdaging
 - Het bouwbare kasteel speelgoed kan open en heeft een verwijderbare kamer voor de Grijze Dame, plus allerlei leuke accessoires waar kinderen rollenspellen mee kunnen doen
 - Dit LEGO Harry Potter speelgoed voor kinderen maakt deel uit van een collectie modulaire gebouwen sets die kinderen kunnen combineren voor een compleet Kasteel Zweinstein
 - Kinderen kunnen tal van leuke functies ontdekken, zoals een bouwbaar Duivelsvuur dat kan worden omgebouwd tot een enge vuurslang en nog veel meer

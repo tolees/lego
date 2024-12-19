@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - What’s in this LEGO building set? – A buildable prison island with a cliff face, prison, toy police boat, dinghy and a helicopter toy
-- Police toy for kids – The LEGO City Police Prison Island building toy for 7+ year old boys and girls is bursting with features for imaginative play
+- Packed with fun features – Cell with an escape tunnel that leads to a mine and a courtyard with a secret hatch that leads to a disused sewer pipe
 - LEGO City police characters – The emergency vehicle toy set also includes 3 officer and 4 prisoner minifigures, plus police dog and toy shark figures
 - Includes a ‘wanted’ poster – With an adult’s permission, kids can scan the QR code in the building instructions or on the box for a fun video
-- Packed with fun features – Cell with an escape tunnel that leads to a mine and a courtyard with a secret hatch that leads to a disused sewer pipe
+- Police toy for kids – The LEGO City Police Prison Island building toy for 7+ year old boys and girls is bursting with features for imaginative play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZT2HB{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinderen kunnen het schip op het water laten varen, de onderwater robot met de kraan in het water hijsen en op zoek gaan naar het vikingscheepswrak met schatten
-- Deze coole LEGO City set met speelgoed boot en helikopter voor jongens en meisjes vanaf 7 jaar is een leuk verjaardagscadeau, kerstcadeau of geschenk voor een andere gelegenheid
 - Deze voertuigen set heeft veel speelmogelijkheden - kinderen kunnen de speelgoed helikopter lanceren vanaf het platform van de boot en de duiker mini figuren in het rubberbootje plaatsen
-- Bevat 7 mini figuren met winterkleding en duikpakken, orka speelgoed en accessoires zoals een laptop, een walkietalkie, een camera, een moersleutel en een injectiespuit
-- Deze grote LEGO City oceaan set bevat een speelgoed boot, een onderwaterrobot, een helikopter, een vikingscheepwrak en 7 mini figuren
 - Andere accessoires uit de set zijn duikflessen, een duikbril, twee mokken, vinnen, een bijl, een verrekijker, een Viking helm en een schild
+- Deze grote LEGO City oceaan set bevat een speelgoed boot, een onderwaterrobot, een helikopter, een vikingscheepwrak en 7 mini figuren
+- Deze coole LEGO City set met speelgoed boot en helikopter voor jongens en meisjes vanaf 7 jaar is een leuk verjaardagscadeau, kerstcadeau of geschenk voor een andere gelegenheid
+- Bevat 7 mini figuren met winterkleding en duikpakken, orka speelgoed en accessoires zoals een laptop, een walkietalkie, een camera, een moersleutel en een injectiespuit
+- Kinderen kunnen het schip op het water laten varen, de onderwater robot met de kraan in het water hijsen en op zoek gaan naar het vikingscheepswrak met schatten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCBSN89{{</world>}}
