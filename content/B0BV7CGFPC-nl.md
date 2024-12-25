@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze LEGO Star Wars voertuigen set is een geweldig klein cadeau voor Star Wars: The Clone Wars fans en kinderen vanaf 6 jaar
 - Inclusief een Clone Infantry Support Speeder speelgoed voertuig met zitplaats voor 2 LEGO Star Wars minifiguren, 2 noppenschieters en een noppenschietend laserkanon
 - Bevat 4 LEGO Star Wars personages: Clone Captain Vaughn met een speciale helm en 3 332e Clone Trooper minifiguren, plus een blastergeweer, 3 blasters en 2 jetpack accessoires
+- Deze LEGO Star Wars voertuigen set is een geweldig klein cadeau voor Star Wars: The Clone Wars fans en kinderen vanaf 6 jaar
 - De LEGO Star Wars 332nd Ahsokas Clone Trooper Battle Pack set voor kinderen vanaf 6 jaar oud bevat een noppenschietende Speeder voertuig en 332nd Clone Troopers om epische Star Wars: The Clone Wars scènes na te spelen
 - Geef je jonge bouwer een nog geweldigere bouwervaring met de LEGO Builder app die inbegrepen is in de set; de app bevat digitale bouwinstructies en laat kinderen modellen inzoomen, draaien in 3D, plus sets opslaan en voortgang bijhouden
 

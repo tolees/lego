@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Speed Champions and Fast and Furious fans will appreciate the impressive wheel arches and the nitro fuel canister on the passenger seat
-- Car lovers can experience a rewarding build before proudly displaying this collectible toy car or recreating epic racing scenes from the movie
-- This ultra-sleek LEGO Speed Champions 2023 set includes a Brian O’Conner minifigure for kids to place behind the wheel of the race car model
-- This LEGO Speed Champions collectible model car building kit for kids provides children with an awesome introduction to the world of engineering
+- Fans of the epic movie franchise will love this model car building kit as a Fast and Furious themed birthday gift for 9-plus-year-old boys and girls
 - Fast and Furious fans can relive thrilling moments from the 2 Fast 2 Furious movie with this LEGO Nissan Skyline GT-R (R34) model car building kit
 - Inspired by the real-life version, the toy race car model features iconic stripes on the side, a wing at the back and a grille on the front
-- Fans of the epic movie franchise will love this model car building kit as a Fast and Furious themed birthday gift for 9-plus-year-old boys and girls
+- This LEGO Speed Champions collectible model car building kit for kids provides children with an awesome introduction to the world of engineering
+- This ultra-sleek LEGO Speed Champions 2023 set includes a Brian O’Conner minifigure for kids to place behind the wheel of the race car model
+- LEGO Speed Champions and Fast and Furious fans will appreciate the impressive wheel arches and the nitro fuel canister on the passenger seat
+- Car lovers can experience a rewarding build before proudly displaying this collectible toy car or recreating epic racing scenes from the movie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXC9HN{{</world>}}

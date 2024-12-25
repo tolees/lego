@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The Arrowhead pars affronter l’Empire !
 - Âge : 8 - 14 ans
+- The Arrowhead pars affronter l’Empire !
 - Inclut quatre figurines : Zander, Kordi, Quarrie et un Stormtrooper, plus une figurine de R0-GR.
 
 [🛒 Buy it!!]({{< param buyurl >}})

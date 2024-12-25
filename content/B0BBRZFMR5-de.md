@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Das baubare Schloss lässt sich zum Spielen öffnen und enthält ein abnehmbares Zimmer im Obergeschoss für die Graue Dame, sowie Zubehör und ein Diademelement
+- Dieses LEGO Harry Potter Schloss Hogwarts für Kinder ist Teil einer Serie von Modular Buildings, die zusammen ein komplettes Schloss Hogwarts ergeben
 - Kinder können lustige Features entdecken, wie z. B. eine baubare Fiendfyre-Figur, die in eine Feuerschlange umgebaut werden kann, und vieles mehr
 - LEGO Schloss Hogwarts mit dem detaillierten Raum der Wünsche, inspiriert von einer legendären Szene aus Harry Potter und die Heiligtümer des Todes - Teil 2
-- Dieses LEGO Harry Potter Schloss Hogwarts für Kinder ist Teil einer Serie von Modular Buildings, die zusammen ein komplettes Schloss Hogwarts ergeben
-- Das baubare Schloss lässt sich zum Spielen öffnen und enthält ein abnehmbares Zimmer im Obergeschoss für die Graue Dame, sowie Zubehör und ein Diademelement
 - Enthält 5 LEGO Minifiguren: Harry Potter, Hermine Granger, Draco Malfoy, Blaise Zabini mit Zauberstäben und Besenstielen und die Graue Dame sowie ein Wichtelmännchen
 - Ein zauberhaftes Geschenk für Jungen und Mädchen ab 8 Jahren, die die Welt der Zauberer lieben, oder für alle, die eine neue Herausforderung suchen
 

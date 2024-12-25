@@ -32,8 +32,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Neem kinderen mee op een bijzondere sneeuwreis met deze LEGO Friends Iglo vakantieavontuur speelset met een bouwbare speelgoed iglo glamping koepel, 3 mini poppetjes en 2 sledehond dieren figuurtjes voor veel winterplezier
 - Wordt geleverd met LEGO Friends Aliya, Paisley en Ella mini poppetjes, plus 2 speelgoed sledehond figuurtjes waar kinderen voor kunnen zorgen
 - Deze LEGO Friends set bestaat daarnaast uit een gezellig berglandschap met een stoombad en dennenbomen, feeërieke verlichting, een zitgedeelte en een vuurplaats om te verkennen, samen met de vele meegeleverde accessoires
-- De speelgoed iglo gaat open zodat kinderen het knusse interieur kunnen verkennen en bevat bedden, een schaal met koekjes, een lavalamp en 2 kopjes chocolademelk
 - Jonge ontdekkingsreizigers kunnen per hondenslee naar de bergen reizen om de iglo te bereiken, een duik nemen in het stoombad, fotos maken van het landschap en opwarmen bij het kampvuur voordat ze gaan slapen in de koepel
+- De speelgoed iglo gaat open zodat kinderen het knusse interieur kunnen verkennen en bevat bedden, een schaal met koekjes, een lavalamp en 2 kopjes chocolademelk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CKD3S{{</world>}}

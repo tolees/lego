@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fantasievolles LEGO Geschenk: Dieses Motorik-Spielzeug, das die emotionale und soziale Entwicklung fördert, ist zum Geburtstag oder zu Weihnachten ein cooles Geschenk für 3-jährige Kinder, die kreatives Spielzeug lieben
-- Vielseitiges Lernspielzeug: Wenn Kleinkinder die 5 LEGO Menschen-Figuren bauen und entscheiden, wie groß sie werden, welche Farbe ihre Kleidung haben soll und welchen Gesichtsausdruck sie bekommen, lernen sie etwas über ihre eigenen Gefühle
 - Spielzeug zur Förderung der sozialen und emotionalen Entwicklung: LEGO DUPLO Town Baubare Menschen mit großen Gefühlen lässt Kinder ab 3 Jahren nicht nur die eigenen Gefühle entdecken, sondern auch das Aussehen und die Emotionen anderer Menschen
 - Bauspielzeug für grenzenlosen Spielspaß: Beinhaltet 71 LEGO DUPLO Bausteine und Teile, unter anderem 5 Perücken und 10 Bausteine mit Gesichtern, die man fantasievoll zu immer neuen Freunden kombinieren kann
+- Fantasievolles LEGO Geschenk: Dieses Motorik-Spielzeug, das die emotionale und soziale Entwicklung fördert, ist zum Geburtstag oder zu Weihnachten ein cooles Geschenk für 3-jährige Kinder, die kreatives Spielzeug lieben
+- Vielseitiges Lernspielzeug: Wenn Kleinkinder die 5 LEGO Menschen-Figuren bauen und entscheiden, wie groß sie werden, welche Farbe ihre Kleidung haben soll und welchen Gesichtsausdruck sie bekommen, lernen sie etwas über ihre eigenen Gefühle
 - Kreative Freiheit für Vorschulkinder: Kleinkinder ab 3 Jahren lassen ihre Figuren so aussehen, wie es ihnen gefällt; es liegt sogar ein Fahrgestell bei, damit die Figuren auch auf Rädern stehen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})

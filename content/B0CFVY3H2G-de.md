@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inhalt der Box: Ein Raumstation-Spielzeug, ein Raumschiff-Modellbausatz, ein Weltraummotorrad und Raumkapselmodule (Labor, Werkstatt, Küche, Schlafquartier und Biokuppel) sowie 6 Astronauten-Minifiguren
-- Cooles Geschenk für Weltraum-Fans: Dieses LEGO City Raumschiff-Spielzeug ist ein tolles Weltraum-Geschenk zum Geburtstag oder zu Weihnachten für weltraumbegeisterte Kinder und Fans cooler Raumschiff-Modelle ab 7 Jahren
-- Kombiniere das Modell mit anderen separat erhältlichen LEGO Spielsets: Die Raumkapselmodule und die Raumfahrzeuge aus diesem Set verfügen über ein Luftschleusensystem, mit dem sie auch an kompatible andere Weltraum-Modelle andocken können
 - LEGO City Raumstation für Kinder ab 7 Jahren: Überrasche einen jungen Astronauten mit der Modularen Raumstation aus diesem LEGO City Spielset, an die Raumschiffe und detailreiche Raumkapselmodule andocken können
+- Cooles Geschenk für Weltraum-Fans: Dieses LEGO City Raumschiff-Spielzeug ist ein tolles Weltraum-Geschenk zum Geburtstag oder zu Weihnachten für weltraumbegeisterte Kinder und Fans cooler Raumschiff-Modelle ab 7 Jahren
+- Inhalt der Box: Ein Raumstation-Spielzeug, ein Raumschiff-Modellbausatz, ein Weltraummotorrad und Raumkapselmodule (Labor, Werkstatt, Küche, Schlafquartier und Biokuppel) sowie 6 Astronauten-Minifiguren
 - Weltraum-Spielzeug für Nachwuchswissenschaftler: Kinder können die Weltraumfahrzeuge und die Raumkapselmodule untereinander austauschen, um ihre eigene Raumstation zu gestalten, oder ans Shuttle ankoppeln, um einen coolen Weltraumzug zu bilden
+- Kombiniere das Modell mit anderen separat erhältlichen LEGO Spielsets: Die Raumkapselmodule und die Raumfahrzeuge aus diesem Set verfügen über ein Luftschleusensystem, mit dem sie auch an kompatible andere Weltraum-Modelle andocken können
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVY3H2G{{</world>}}

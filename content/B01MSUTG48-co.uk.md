@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Disney Frozen 2 toddler building toy – Includes a forest scene, Elsa mini-doll, Bruni the salamander, Nokk water horse figure and an Earth Giant
-- Learning through play – LEGO DUPLO toddler building toys engage preschoolers and develop their fine motor skills and self-expression
 - Fun role play – Toddlers imagine they’re Elsa, Bruni or the Nokk water horse travelling through the forest to befriend the Earth Giant
+- Disney Building toy for Frozen 2 fans – Whisk toddlers away on an adventure with this LEGO DUPLO Disney Elsa & Bruni in the Enchanted Forest set
 - Birthday gift idea for toddlers – Treat a toddler who’s on their best behaviour with this buildable fantasy toy, a fun Disney-themed gift for 2 plus year old toddlers, girls, boys and fans of Disney’s Frozen 2 film
 - Includes accessories recognisable from the film – Comes with a snow crystal, Bruni’s pink flame element and a buildable snow scene for creative play
-- Disney Building toy for Frozen 2 fans – Whisk toddlers away on an adventure with this LEGO DUPLO Disney Elsa & Bruni in the Enchanted Forest set
+- Disney Frozen 2 toddler building toy – Includes a forest scene, Elsa mini-doll, Bruni the salamander, Nokk water horse figure and an Earth Giant
+- Learning through play – LEGO DUPLO toddler building toys engage preschoolers and develop their fine motor skills and self-expression
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MSUTG48{{</world>}}

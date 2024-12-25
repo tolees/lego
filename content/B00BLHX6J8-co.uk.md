@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The wonderful artificial flowers will never wilt or need to be watered! Display in your own vase with pride as a stunning piece of home decor
-- Part of the LEGO Botanical Collection, this set includes elements made of plant-based plastic, produced from sustainably sourced sugar cane
-- Number of Pieces: 939
 - Budding flower arrangers can tailor the height of the flowers and experiment with different arrangements to make their own unique display
 - Features 16 stems with a mix of flowers: cornflower, lavender, Welsh poppies, cow parsley, leatherleaf ferns, gerbera daisies, larkspur and lupins
+- Number of Pieces: 939
+- Part of the LEGO Botanical Collection, this set includes elements made of plant-based plastic, produced from sustainably sourced sugar cane
 - Let your creativity blossom with the vibrant LEGO Icons Wildflower Bouquet set, which features 8 different stunning species of flowers to build
+- The wonderful artificial flowers will never wilt or need to be watered! Display in your own vase with pride as a stunning piece of home decor
 - Put a creative spin on a timeless gesture with this LEGO flowers set, perfect as surprise gift for a loved one, anniversary present for wife or husband, or a nice housewarming present
 
 [🛒 Buy it now!!]({{< param buyurl >}})

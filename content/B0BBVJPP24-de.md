@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinder und Fans können die Gefechte von Star Wars: The Mandalorian Staffel 3 nachspielen oder stolz ihre LEGO Star Wars Sammlerstück-Modellbausätze präsentieren
 - Das Star-Wars Spielzeug zum Bauen enthält außerdem das LEGO Dunkelschwert des Mandalorianers und einen Droide R2-E6, die im Mai 2023 auf den Markt kommt und für Action sorgen
-- Beide LEGO Star Wars Schiffe verfügen über ein aufklappbares Minifigur-Cockpit und 2 federunterstützte Shooter; der Mandalorian Starfighter hat außerdem Staufach für Waffen
 - Dieses LEGO Star Wars Set enthält 2 baubare Spielzeug-Starfighter: den Fang Fighter aus The Mandalorian Season 3 und den klassischen TIE Interceptor
 - Mit LEGO Star Wars Minifiguren: Der Mandalorianer, der Flottenkommandant mit Blasterpistole und Jetpack und ein TIE Pilot mit Blaster-Pistole
+- Beide LEGO Star Wars Schiffe verfügen über ein aufklappbares Minifigur-Cockpit und 2 federunterstützte Shooter; der Mandalorian Starfighter hat außerdem Staufach für Waffen
+- Kinder und Fans können die Gefechte von Star Wars: The Mandalorian Staffel 3 nachspielen oder stolz ihre LEGO Star Wars Sammlerstück-Modellbausätze präsentieren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBVJPP24{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can use the extendable handle to lift and move the AT-TE, plus the model also has 2 detailed Clone Trooper cabins that open for easy play
 - This LEGO Star Wars set makes an exciting birthday gift for 9-plus-year-old kids, boys and girls who are fans of the Obi-Wan Kenobi series
-- The Star Wars buildable toy also includes 3 Battle Droid figures, a buildable Dwarf Spider Droid figure and loads of cool weapons
-- This LEGO Star Wars building toy features AT-TE Walker with space for up to 7 minifigures, 360-degree-rotating heavy blaster cannon and more
-- Kids can relive epic Star Wars: Revenge of the Sith battles and display this set in their room and show it off to their friends after the play
 - Includes 5 LEGO Star Wars minifigures: Commander Cody, a 212th Clone Gunner and 3 212th Clone Troopers for kids to recreate epic battles
+- Kids can relive epic Star Wars: Revenge of the Sith battles and display this set in their room and show it off to their friends after the play
+- This LEGO Star Wars building toy features AT-TE Walker with space for up to 7 minifigures, 360-degree-rotating heavy blaster cannon and more
+- Kids can use the extendable handle to lift and move the AT-TE, plus the model also has 2 detailed Clone Trooper cabins that open for easy play
 - The set also features a detachable minifigure cockpit and a seat for the 212th Clone Gunner, 6 blaster cannons, 2 thermal detonators and more
+- The Star Wars buildable toy also includes 3 Battle Droid figures, a buildable Dwarf Spider Droid figure and loads of cool weapons
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFXTYDC{{</world>}}

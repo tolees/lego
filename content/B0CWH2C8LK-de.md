@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Mercedes-Benz Geschenk zum Sammeln: Dieses Bauset ist eine tolle Geschenkidee für erwachsene LEGO Baumeister; Mercedes-Benz-Fans können sich auf ein anspruchsvolles Projekt und ein besonders attraktives Ausstellungsstück freuen
-- Baue ein Auto-Modell der G-Klasse: Freu dich auf ein achtsames Bauprojekt und steck das LEGO Technic Modell mit all seinen Details zusammen, zum Beispiel die funktionierende Lenkung und die hohe Radaufhängung
 - Modell eines Mercedes-Benz G 500 für Erwachsene: Mercedes-Benz G 500 PROFESSIONAL Line ist ein spannendes Bauprojekt für Erwachsene zur Feier des 45-jährigen Jubiläums eines der beliebtesten Geländewagen der Welt
-- Bewundere die Details am Modell: Öffne die Motorhaube, die Hecktür und die Türen, um das Interieur zu bestaunen; Weitere faszinierende Details sind die Leiter, das Ersatzrad und der Dachgepäckträger
-- Spannende Bauanleitung: Freu dich auf ein neuartiges Bauerlebnis; Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen und 3D-Ansichten deines Sportwagen-Modells vergrößern und drehen
 - Entdecke die authentischen Funktionen des Spielzeug-Autos: Schau dir den Sechszylinder-Reihenmotor, das Getriebe mit den Einstellungen D, N und R sowie die beiden Differentialsperren an diesem Auto-Modell an
+- Spannende Bauanleitung: Freu dich auf ein neuartiges Bauerlebnis; Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen und 3D-Ansichten deines Sportwagen-Modells vergrößern und drehen
+- Bewundere die Details am Modell: Öffne die Motorhaube, die Hecktür und die Türen, um das Interieur zu bestaunen; Weitere faszinierende Details sind die Leiter, das Ersatzrad und der Dachgepäckträger
+- Baue ein Auto-Modell der G-Klasse: Freu dich auf ein achtsames Bauprojekt und steck das LEGO Technic Modell mit all seinen Details zusammen, zum Beispiel die funktionierende Lenkung und die hohe Radaufhängung
+- Mercedes-Benz Geschenk zum Sammeln: Dieses Bauset ist eine tolle Geschenkidee für erwachsene LEGO Baumeister; Mercedes-Benz-Fans können sich auf ein anspruchsvolles Projekt und ein besonders attraktives Ausstellungsstück freuen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2C8LK{{</world>}}

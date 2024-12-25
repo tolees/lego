@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Build your own orchid with this LEGO decorative artificial plant and flowers - a special LEGO set for adults from Botanical Collection
 - This decorative home accessory makes a great alternative to real flowers and is a unique gift for any occasion, such as, a loved ones birthday gift for her or him or get well soon present
-- Rotate the model’s stems, blooms, roots and leaves to create your preferred look, and rebuild the stems to create new flower arrangements
-- Inspired by a real orchid, this stylish model version features 6 large flowers and 2 newly opened flowers, plus the blue fluted vase
 - This LEGO artificial plant set from the Botanical Collection makes a great Christmas gift for plant lovers, anniversary present for a wife or husband, or as a just-because gift for women and men
-- The LEGO designers have worked carefully to create a model that looks as close as possible to the real thing, with amazing attention to detail
+- Inspired by a real orchid, this stylish model version features 6 large flowers and 2 newly opened flowers, plus the blue fluted vase
+- Rotate the model’s stems, blooms, roots and leaves to create your preferred look, and rebuild the stems to create new flower arrangements
 - Hidden throughout are LEGO elements inspired by other sets, like the minifigure shields & dinosaur tails used to create the sepals and roots
+- The LEGO designers have worked carefully to create a model that looks as close as possible to the real thing, with amazing attention to detail
+- Build your own orchid with this LEGO decorative artificial plant and flowers - a special LEGO set for adults from Botanical Collection
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNV2Q49{{</world>}}

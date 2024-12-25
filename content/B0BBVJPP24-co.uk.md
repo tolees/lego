@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Both LEGO Star Wars ships feature opening cockpits and 2 spring-loaded shooters; the Mandalorian starfighter also has a weapon storage compartment
-- This LEGO Star Wars building toy set makes a cool Mandalorian birthday gift, Christmas present or special treat for fans and kids aged 9+
-- Features LEGO Star Wars minifigures: The Mandalorian, the Fleet Commander with a blaster pistol and jetpack and a TIE Pilot with a blaster pistol
 - This LEGO Star Wars set features 2 buildable toy starfighters: the Fang Fighter from The Mandalorian Season 3 and the classic TIE Interceptor
-- The Star Wars building toy set also features The Mandalorians LEGO darksaber plus a new-for-May-2023 R2-E6 droid figure for action packed play
+- Both LEGO Star Wars ships feature opening cockpits and 2 spring-loaded shooters; the Mandalorian starfighter also has a weapon storage compartment
 - Kids and fans can recreate Star Wars: The Mandalorian Season 3 battles or proudly display their LEGO Star Wars collectable model kits
+- Features LEGO Star Wars minifigures: The Mandalorian, the Fleet Commander with a blaster pistol and jetpack and a TIE Pilot with a blaster pistol
+- This LEGO Star Wars building toy set makes a cool Mandalorian birthday gift, Christmas present or special treat for fans and kids aged 9+
+- The Star Wars building toy set also features The Mandalorians LEGO darksaber plus a new-for-May-2023 R2-E6 droid figure for action packed play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBVJPP24{{</world>}}

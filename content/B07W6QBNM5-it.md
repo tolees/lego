@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Età consigliata dal produttore: 6+
-- Numero di pezzi: 897
-- Contiene un’officina giocattolo, una roulotte e veicoli fantastici, tra cui un carro attrezzi, un bolide e una moto a razzo, più 7 minifigure, tra cui personaggi della serie televisiva LEGO City Tread Octane e Harl Hubbs.
 - I bambini possono azionare il paranco per i motori nell’officina, sollevare le auto con il martinetto, soccorrere i veicoli in panne con il carro attrezzi e molto altro. I bambini possono anche combinare questo set con altri playset LEGO per un gioco divertente e il display.
+- Numero di pezzi: 897
+- Età consigliata dal produttore: 6+
 - Autofficina
+- Contiene un’officina giocattolo, una roulotte e veicoli fantastici, tra cui un carro attrezzi, un bolide e una moto a razzo, più 7 minifigure, tra cui personaggi della serie televisiva LEGO City Tread Octane e Harl Hubbs.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W6QBNM5{{</world>}}

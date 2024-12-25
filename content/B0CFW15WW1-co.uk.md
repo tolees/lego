@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO camera with authentic details – This collectible set also includes a ‘Polaroid Land Camera’ sticker and choice of ‘OneStep’ or ‘1000’ stickers
-- Collectible LEGO set for adults – Create your own brick-built replica of the iconic Polaroid OneStep SX-70 Camera with this LEGO set for adults
 - Operates like a real vintage Polaroid camera model – Load one of the ‘photos’ into the camera and press the red shutter button to eject it
-- Buildable Time-Zero Land Film pack – Contains 3 illustrated ‘photos’ of Polaroid inventor Edwin H. Land, LEGO House and the fan designer’s sister
 - For camera-lovers – Design features of this model kit for adults to build include the viewfinder, Colour Spectrum and exposure compensation dial
+- Collectible LEGO set for adults – Create your own brick-built replica of the iconic Polaroid OneStep SX-70 Camera with this LEGO set for adults
+- Buildable Time-Zero Land Film pack – Contains 3 illustrated ‘photos’ of Polaroid inventor Edwin H. Land, LEGO House and the fan designer’s sister
+- LEGO camera with authentic details – This collectible set also includes a ‘Polaroid Land Camera’ sticker and choice of ‘OneStep’ or ‘1000’ stickers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW15WW1{{</world>}}

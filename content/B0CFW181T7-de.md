@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geschenkidee für Kinder: Dieses LEGO Friends Kinder-Musik-Spielzeug ist ein tolles Musik-Geschenk für Mädchen und Jungen, die LEGO Friends und Talentshows lieben; außerdem fördert das Set die sozial-emotionale Entwicklung
-- Spielzeug-Instrumente für Rollenspiele: Dein Kind kann Ley-La mit einer Spielzeug-Gitarre, Schuhen, Perücke und Schulterpolstern ausstatten; ein Handy, eine Kaffeemaschine, Snacks und ein Spiegel laden zu weiteren Geschichten ein
-- 3 Musiker und Drehfunktionen: Dein Kind kann unzählige Geschichten und Auftritte mit den Minipuppen darstellen; eine Auftrittsfunktion lässt die Sängerin auftauchen, und spezielle Zahnräder bewegen den Keyboarder und den Schlagzeuger
-- Veranstalte einen Talentwettbewerb: Der LEGO Friends Talentshow in Heartlake City Baukasten beinhaltet 4 Minipuppen, eine -Spielzeug-Bühne und jede Menge Zubehör; Dieses Musikspielzeug ist ein besonderes Geschenk für junge Musikliebhaber ab 7 Jahren
 - 4 LEGO Friends Figuren: Die klassische LEGO Friends Figur Andrea ist jetzt erwachsen und fungiert als Jurorin der Talentshow, während die Sängerin Ley-La, der Schlagzeuger Nabil und der Keyboarder Alexander als Musiker auftreten
+- Veranstalte einen Talentwettbewerb: Der LEGO Friends Talentshow in Heartlake City Baukasten beinhaltet 4 Minipuppen, eine -Spielzeug-Bühne und jede Menge Zubehör; Dieses Musikspielzeug ist ein besonderes Geschenk für junge Musikliebhaber ab 7 Jahren
 - Sets für ein kreatives Spielerlebnis: Schau dir auch die anderen faszinierenden (separat erhältlichen) LEGO Friends Sets an
+- Spielzeug-Instrumente für Rollenspiele: Dein Kind kann Ley-La mit einer Spielzeug-Gitarre, Schuhen, Perücke und Schulterpolstern ausstatten; ein Handy, eine Kaffeemaschine, Snacks und ein Spiegel laden zu weiteren Geschichten ein
+- Geschenkidee für Kinder: Dieses LEGO Friends Kinder-Musik-Spielzeug ist ein tolles Musik-Geschenk für Mädchen und Jungen, die LEGO Friends und Talentshows lieben; außerdem fördert das Set die sozial-emotionale Entwicklung
+- 3 Musiker und Drehfunktionen: Dein Kind kann unzählige Geschichten und Auftritte mit den Minipuppen darstellen; eine Auftrittsfunktion lässt die Sängerin auftauchen, und spezielle Zahnräder bewegen den Keyboarder und den Schlagzeuger
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW181T7{{</world>}}

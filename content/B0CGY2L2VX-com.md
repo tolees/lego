@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- A Christmas gift idea for kids – This LEGO Friends set for girls, boys and kids makes a fun holiday gift or anytime treat for little animal lovers who enjoy LEGO toys
-- Complete jobs around the farm – Spark creative play with this role-play toy as kids help the LEGO Friends characters harvest vegetables, care for the animals and make strawberry jelly
 - Lots of accessories – This kids’ toy comes with accessories, including carrots, strawberries, jars, a pitchfork, brush, broom, shovel, eggs, a haystack and a lantern
-- Farm animal toy playset with figures – This farm scene for girls, boys and kids ages 6 and up comes with 2 minidolls, 1 microdoll, a goat, a baby cow, a chicken and 2 chicks, plus a windmill and a tractor toy
+- A Christmas gift idea for kids – This LEGO Friends set for girls, boys and kids makes a fun holiday gift or anytime treat for little animal lovers who enjoy LEGO toys
+- More fun for little builders – Check out other sets in the LEGO Friends collection (sets sold separately), for more storytelling fun and creative adventures
 - A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
 - 3 characters and 5 animal figures – This farm toy includes 3 LEGO Friends characters, plus 5 farm animal figures, so the creative play starts right away
-- More fun for little builders – Check out other sets in the LEGO Friends collection (sets sold separately), for more storytelling fun and creative adventures
+- Complete jobs around the farm – Spark creative play with this role-play toy as kids help the LEGO Friends characters harvest vegetables, care for the animals and make strawberry jelly
+- Farm animal toy playset with figures – This farm scene for girls, boys and kids ages 6 and up comes with 2 minidolls, 1 microdoll, a goat, a baby cow, a chicken and 2 chicks, plus a windmill and a tractor toy
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CGY2L2VX{{</world>}}

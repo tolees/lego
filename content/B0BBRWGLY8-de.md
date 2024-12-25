@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Der LEGO Rennwagen hat die klassische rote Farbe von Ferrari, einen gelben Streifen in der Mitte des Spielzeugautos und einen schwarzen Streifen auf der Motorhaube
+- Der LEGO Auto-Bausatz bildet viele Originaldetails wie den hochgezogenen Heckflügel, die Wirbelgeneratoren, Scheinwerfer, Bremslichter und Auspuffrohre nach
+- Wenn das letzte Spielrennen des Tages vorbei ist, sieht dieses auffällige rote Spielzeug-Auto-Modell großartig aus, allein oder als Teil einer LEGO Auto-Sammlung
+- Inklusive einer digitalen Bauanleitung in der kostenlosen LEGO Builder App, mit der Kinder das Set beim Bauen zoomen, drehen und aus allen Winkeln betrachten können
+- Die LEGO Speed Champions Reihe ist voll von ikonischen Rennwagen-Modellen. Schau dir den Pagani Utopia (76915) und den McLaren Solus GT und den McLaren F1 LM (76918) an
 - Das Bauspielzeug-Set enthält eine LEGO Rennfahrer-Minifigur, die hinter das Steuer des Spielzeugautos gesetzt werden kann, um superschnelle Action zu erleben
 - Enthält einen LEGO Speed Champions Modellauto-Bausatz, der dem Ferrari 812 Competizione nachempfunden ist, sowie eine Fahrer-Minifigur mit Helm und Perücke
-- Inklusive einer digitalen Bauanleitung in der kostenlosen LEGO Builder App, mit der Kinder das Set beim Bauen zoomen, drehen und aus allen Winkeln betrachten können
-- Wenn das letzte Spielrennen des Tages vorbei ist, sieht dieses auffällige rote Spielzeug-Auto-Modell großartig aus, allein oder als Teil einer LEGO Auto-Sammlung
-- Der LEGO Auto-Bausatz bildet viele Originaldetails wie den hochgezogenen Heckflügel, die Wirbelgeneratoren, Scheinwerfer, Bremslichter und Auspuffrohre nach
-- Die LEGO Speed Champions Reihe ist voll von ikonischen Rennwagen-Modellen. Schau dir den Pagani Utopia (76915) und den McLaren Solus GT und den McLaren F1 LM (76918) an
+- Der LEGO Rennwagen hat die klassische rote Farbe von Ferrari, einen gelben Streifen in der Mitte des Spielzeugautos und einen schwarzen Streifen auf der Motorhaube
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRWGLY8{{</world>}}

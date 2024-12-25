@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze 2023 LEGO Star Wars adventskalender is een geweldig cadeau voor jongens, meisjes en alle Star Wars fans vanaf 6 jaar om af te tellen naar Kerstmis en feestelijk plezier te beleven
-- Inclusief 10 minimodel voertuigen - De Justifier, de Mandalorians N-1 Starfighter, een turbotank, de STAP speeder, de AAT, Imperial Shuttle, de AT-ST, de Imperial Star Destroyer en een Ewok zweefvliegtuig
+- Bevat ook Omega op een slee, een 212e Clone Trooper en Prinses Leia LEGO Star Wars minifiguren om verschillende Star Wars films na te spelen: Return of the Jedi, The Clone Wars en The Bad Batch
 - Plus 5 andere minimodellen - het Clone Command Center, een Ewok dorp, een Endor bunker, een Endor schildbeschermer en de troon van de keizer
 - Kinderen en volwassenen kunnen nog meer iconische filmscènes naspelen door deze adventskalender te combineren met ander LEGO Star Wars bouwbaar speelgoed
 - Inclusief 9 verzamelbare LEGO Star Wars personages: Keizer Palpatine, een Ewok en Pit Droid in kerstoutfit, een Gonk Droid verkleed als rendier en een LEGO B-1 Battle Droid figuur
 - Kom in de feeststemming tijdens de kerstvakantie met deze LEGO Star Wars Adventskalender 2023; inclusief 9 personages, 10 bouwbare speelgoed voertuigen en 5 andere iconische minimodellen uit de Star Wars Saga
-- Bevat ook Omega op een slee, een 212e Clone Trooper en Prinses Leia LEGO Star Wars minifiguren om verschillende Star Wars films na te spelen: Return of the Jedi, The Clone Wars en The Bad Batch
+- Deze 2023 LEGO Star Wars adventskalender is een geweldig cadeau voor jongens, meisjes en alle Star Wars fans vanaf 6 jaar om af te tellen naar Kerstmis en feestelijk plezier te beleven
+- Inclusief 10 minimodel voertuigen - De Justifier, de Mandalorians N-1 Starfighter, een turbotank, de STAP speeder, de AAT, Imperial Shuttle, de AT-ST, de Imperial Star Destroyer en een Ewok zweefvliegtuig
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV79GQVC{{</world>}}

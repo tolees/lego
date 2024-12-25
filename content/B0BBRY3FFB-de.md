@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinder und Fans können den Geist des DC-Superhelden einfangen und das Spielzeug-Motorrad-Modell Stück für Stück zusammenbauen
-- Das LEGO Technik-Motorrad ist eine tolle Batman-Geschenkidee für Kinder ab 9 Jahren sowie Fans von Superhelden, Spielzeug-Fahrzeugen und Comic-Kultur
 - Dieses Sammlerstück verfügt über einen Ständer, damit die Kinder ihr Werk mit Stolz auf einem Regal oder Schreibtisch präsentieren können
 - Batman-Fans können mit diesem LEGO Technic BATCYCLE Motorrad-Spielzeug-Modellbausatz ein ikonisches Fahrzeug aus dem Film von 2022 nachbauen: THE BATMAN
+- Kinder und Fans können den Geist des DC-Superhelden einfangen und das Spielzeug-Motorrad-Modell Stück für Stück zusammenbauen
+- Das LEGO Technik-Motorrad ist eine tolle Batman-Geschenkidee für Kinder ab 9 Jahren sowie Fans von Superhelden, Spielzeug-Fahrzeugen und Comic-Kultur
 - Der maßstabsgetreuer Modell-Bausatz ist vollgepackt mit realistischen Funktionen wie Lenkung, Federung und einer Antriebskette
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Das Rückkehr der Jedi-Ritter 40. Jubiläum Set enthält 2 Speeder Bikes; transparente Elemente ermöglichen dynamische Posen, genau wie in den Wäldern von Endor
+- Enthält LEGO Star Wars Minifiguren: Prinzessin Leia und Luke Skywalker mit grünem Lichtschwert, beide im Endor-Outfit, sowie Scout Trooper mit Blaster
 - Erschaffe einen Wald mit baubaren Bäumen und neuen Farn-Elementen für Mai 2023 und füge dann eine Plakette mit dem "Rückkehr der Jedi-Ritter 40. Jubiläum" Logo hinzu.
 - Mach dir selbst eine Freude oder verschenke dieses Star Wars Set als Weihnachts- oder Geburtstagsgeschenk, oder einfach so an einen Freund oder Sammler von LEGO Star Wars Dioramen
-- Enthält LEGO Star Wars Minifiguren: Prinzessin Leia und Luke Skywalker mit grünem Lichtschwert, beide im Endor-Outfit, sowie Scout Trooper mit Blaster
 - Vervollständige deine Star Wars Erinnerungsstücke mit diesem Modell, das eine Plakette mit den Worten von Luke Skywalker "Quick! Jam their comlinks. Center switch!"
+- Das Rückkehr der Jedi-Ritter 40. Jubiläum Set enthält 2 Speeder Bikes; transparente Elemente ermöglichen dynamische Posen, genau wie in den Wäldern von Endor
 - Bau eine coole Szene aus Star Wars mit diesem LEGO Star Wars Set für Erwachsene: Prinzessin Leia und Luke Skywalker bei der Verfolgung eines Scout Troopers auf Endor
 
 [🛒 Buy it!!]({{< param buyurl >}})

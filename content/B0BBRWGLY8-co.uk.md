@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The model car building kit includes details like a raised rear wing, prominent vortex generators, distinctive headlights and brake lights
+- The LEGO Speed Champions range is full of iconic toy car models, check out the Pagani Utopia (76915) and Porsche 963 (76916) sets
+- The set includes a LEGO race driver minifigure to be placed behind the wheel of the race car toy to enjoy superfast action on the track or road
 - The LEGO race car toy features the classic Ferrari red colour, a yellow stripe running up the cars centre and a black stripe on the bonnet
+- When the final race of the day is over, this striking red toy car model looks great on display, on its own or part of a LEGO vehicle collection
 - Features a LEGO Speed Champions collectible model car replica of the Ferrari 812 Competizione plus a driver minifigure with a helmet and hair
 - Includes an interactive digital building guide in the LEGO Builder app, where kids can zoom, rotate and see the set from all angles as they build
-- The set includes a LEGO race driver minifigure to be placed behind the wheel of the race car toy to enjoy superfast action on the track or road
-- When the final race of the day is over, this striking red toy car model looks great on display, on its own or part of a LEGO vehicle collection
-- The LEGO Speed Champions range is full of iconic toy car models, check out the Pagani Utopia (76915) and Porsche 963 (76916) sets
+- The model car building kit includes details like a raised rear wing, prominent vortex generators, distinctive headlights and brake lights
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRWGLY8{{</world>}}

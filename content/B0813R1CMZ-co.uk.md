@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ocean Exploration Ship
-- Number of pieces: 745
 - This multi-vehicle toy also includes a research submarine and helicopter toys, speedboat, shark cage and pirate shipwreck with hidden treasure
-- Manufacturer recommended age: 7+
+- Ocean Exploration Ship
 - Includes a team of 8 explorers with LEGO City Adventures TV series hero Harl Hubbs minifigure, stingray and shark figures, plus accessories
+- Number of pieces: 745
+- Manufacturer recommended age: 7+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0813R1CMZ{{</world>}}
