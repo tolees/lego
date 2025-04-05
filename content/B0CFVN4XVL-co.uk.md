@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Raise and lower the blade – This model features a moving blade that kids can lift and lower using the element on top of the vehicle toy
 - A construction vehicle toy for kids aged 7+ – This LEGO Technic Heavy-Duty Bulldozer toy set features authentic details to delight vehicle fans
-- An introduction to engineering – LEGO Technic vehicle sets feature realistic mechanisms to introduce young builders to the universe of engineering
 - Moving tracks – After having fun building the bulldozer toy, kids can push the model along on its tracks as they create their own adventures
 - A gift idea for kids – This LEGO construction vehicle makes a fun gift for boys and girls who love LEGO vehicles and imaginative play
+- An introduction to engineering – LEGO Technic vehicle sets feature realistic mechanisms to introduce young builders to the universe of engineering
+- Raise and lower the blade – This model features a moving blade that kids can lift and lower using the element on top of the vehicle toy
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVN4XVL{{</world>}}

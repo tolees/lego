@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Friends summer playset features a buildable ice cream truck toy and an outside seating area for friends to hang out enjoy their treats
-- This cool truck toy for girls and boys aged 4+ includes 2 mini-dolls: LEGO Friends Andrea and Roxy, plus a cute dog figure and lots of accessories
-- LEGO NINJAGO EVO sets are the ideal toy gift for kids 6 + years old who like the fantasy world of ninja adventures
-- Kids can pretend to drive the toy van, get different flavours of ice cream from the freezer, use the cash register or treat the dog to a bone
-- Accessories include ice cream cones and ice lolly food toys, a bone for the dog and a toy money element so kids can play shop
-- LEGO 4+ vehicles are easy to build with the included sturdy Starter Brick base onto which the bricks of this ice cream truck toy are assembled
 - Kids will love this LEGO Friends summer set - surprise them with this treat as a birthday or Christmas gift for Girls and boys age 4 plus
+- LEGO NINJAGO EVO sets are the ideal toy gift for kids 6 + years old who like the fantasy world of ninja adventures
+- Accessories include ice cream cones and ice lolly food toys, a bone for the dog and a toy money element so kids can play shop
+- This cool truck toy for girls and boys aged 4+ includes 2 mini-dolls: LEGO Friends Andrea and Roxy, plus a cute dog figure and lots of accessories
+- This LEGO Friends summer playset features a buildable ice cream truck toy and an outside seating area for friends to hang out enjoy their treats
+- LEGO 4+ vehicles are easy to build with the included sturdy Starter Brick base onto which the bricks of this ice cream truck toy are assembled
+- Kids can pretend to drive the toy van, get different flavours of ice cream from the freezer, use the cash register or treat the dog to a bone
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFK6RHZ{{</world>}}

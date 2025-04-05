@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Cadeau danniversaire idéal pour hommes et femmes - Les modèles dexposition LEGO Star Wars de qualité ont un grand intérêt esthétique à la maison ou au bureau en tant que décoration
-- Les briques LEGO dans différentes nuances de gris vous aident à recréer laspect métallique de larmure en beskar et les contours du casque
-- Construisez un modèle de présentation LEGO Star Wars détaillé du casque du Mandalorien et rendez hommage au légendaire chasseur de primes
-- Explorez la gamme des kits de modèles à construire LEGO Star Wars pour découvrir une variété didées de cadeaux Star Wars
-- Les modèles dexposition LEGO Star Wars de qualité ont un grand intérêt esthétique à la maison ou au bureau en tant que décorations
 - Découvrez dautres ensembles de modèles de casques de présentation LEGO Star Wars à collectionner pour adultes : 75327 Le Casque Red Five De Luke Skywalker et 75343 Le Casque Dark Trooper
+- Les briques LEGO dans différentes nuances de gris vous aident à recréer laspect métallique de larmure en beskar et les contours du casque
+- Explorez la gamme des kits de modèles à construire LEGO Star Wars pour découvrir une variété didées de cadeaux Star Wars
+- Construisez un modèle de présentation LEGO Star Wars détaillé du casque du Mandalorien et rendez hommage au légendaire chasseur de primes
+- Les modèles dexposition LEGO Star Wars de qualité ont un grand intérêt esthétique à la maison ou au bureau en tant que décorations
 - Retrouvez des instructions étape par étape dans la boîte, alors même si vous êtes un novice en matière de jeux LEGO, vous pourrez bientôt construire avec assurance
 - Capturez léclat et reproduisez les caractéristiques iconiques du casque de Mandalorien et exposez-le fièrement sur le support en briques avec la plaque didentification
 

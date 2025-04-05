@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Number of pieces: 288
+- Kids can scan the beach from the tower, take the floatie out to sea, practice their windsurfing skills or open a surf rental shop
+- Summer lovers will love this LEGO Friends beach holiday toy with cool beach structures, a shower and rental store and a toy windsurf
 - Manufacturer recommended age: 6+
 - Surfer Beach Fun
-- Kids can scan the beach from the tower, take the floatie out to sea, practice their windsurfing skills or open a surf rental shop
-- Number of pieces: 288
-- Summer lovers will love this LEGO Friends beach holiday toy with cool beach structures, a shower and rental store and a toy windsurf
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFZXWDQ{{</world>}}

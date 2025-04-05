@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Collectible Bowser race car toy – Place Bowser in the driver’s seat and pull the yellow lever one way to make the hood ornament move and flick it the other way to fling bombs from the trunk
-- Gift idea for kids ages 8 and up – This 458-piece set makes a fun gift for gamers; one of sets 71439, 71440 or 71441 (each sold separately) is needed for interactive digital play
-- The LEGO Super Mario app – Download the app for instructions to build Bowser’s car, inspirational ideas and more; for a list of compatible Android and iOS devices, visit LEGO.com/devicecheck
-- Spark kids’ creativity – LEGO Super Mario toy playsets are designed for solo or social play, offering role-play, digital coin-collecting and creative challenges through expansion and rebuilding
-- Interactive play – Help LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) drive the car for beeping-horn, running-engine and squealing-tire sound effects and to earn digital coins
-- Includes a brick-built Super Mario character – The LEGO Super Mario Bowser toy has an Action Tag for interactive play
 - Bowser’s muscle car toy for kids – Gear up for car-driving, bomb-flinging, role-play fun with this LEGO Super Mario Expansion Set
+- Spark kids’ creativity – LEGO Super Mario toy playsets are designed for solo or social play, offering role-play, digital coin-collecting and creative challenges through expansion and rebuilding
+- Collectible Bowser race car toy – Place Bowser in the driver’s seat and pull the yellow lever one way to make the hood ornament move and flick it the other way to fling bombs from the trunk
+- Interactive play – Help LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) drive the car for beeping-horn, running-engine and squealing-tire sound effects and to earn digital coins
+- The LEGO Super Mario app – Download the app for instructions to build Bowser’s car, inspirational ideas and more; for a list of compatible Android and iOS devices, visit LEGO.com/devicecheck
+- Gift idea for kids ages 8 and up – This 458-piece set makes a fun gift for gamers; one of sets 71439, 71440 or 71441 (each sold separately) is needed for interactive digital play
+- Includes a brick-built Super Mario character – The LEGO Super Mario Bowser toy has an Action Tag for interactive play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CGY1MQFD{{</world>}}

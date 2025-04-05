@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Includes printed instructions, and the LEGO Builder app which allows children to zoom in, rotate and view the models in the set from all angles
-- This Avatar building toy features a posable dragon-like toy Skimwig figure with colourful foil wings, a Pandora Coral reef and a display stand
 - Kids can use the display stand and the transparent minifigure stand to recreate an awesome scene from the Avatar: The Way of Water movie
-- Kids can combine this set with others from the LEGO Avatar range to expand the play possibilities and build their own version of Pandora
+- This Avatar building toy features a posable dragon-like toy Skimwig figure with colourful foil wings, a Pandora Coral reef and a display stand
 - Exciting adventures await with this LEGO Avatar building toy for 8-plus-year-old boys and girls, with characters and locations from the movie plus a toy Skimwig figure
 - Also includes Tonowari and Jake Sully LEGO Avatar minifigures plus fun accessories: a glowing spear, toy crossbow and a green Pandora fish
+- Kids can combine this set with others from the LEGO Avatar range to expand the play possibilities and build their own version of Pandora
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRWRK4D{{</world>}}

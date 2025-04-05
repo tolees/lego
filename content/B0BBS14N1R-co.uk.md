@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Number of Pieces: 854
-- Features a highly-detailed LEGO Star Wars Captain Rex Helmet model set which allows fans to pay tribute to the 501st Legion Clone Commander
-- Proudly display this LEGO Star Wars memorabilia model on the brick-built stand with a nameplate; makes an attention-grabbing décor piece
-- This 854-piece LEGO Star Wars set for adults makes a great gift for any fan, an experienced LEGO builder or a Star Wars LEGO helmet collector
 - Relive spectacular scenes from Star Wars: The Clone Wars as you replicate authentic details of Captain Rexs helmet in LEGO bricks
 - Part of a collection of LEGO Star Wars collectible helmets to build and display; includes picture instructions in print and on the LEGO Builder app
+- Proudly display this LEGO Star Wars memorabilia model on the brick-built stand with a nameplate; makes an attention-grabbing décor piece
+- Features a highly-detailed LEGO Star Wars Captain Rex Helmet model set which allows fans to pay tribute to the 501st Legion Clone Commander
+- This 854-piece LEGO Star Wars set for adults makes a great gift for any fan, an experienced LEGO builder or a Star Wars LEGO helmet collector
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS14N1R{{</world>}}

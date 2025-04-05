@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features and functions – The LEGO Mclaren Formula One model car features working steering, rod suspension and an adjustable rear wing
-- Model racing car for adults – This LEGO Icons McLaren MP4/4 & Ayrton Senna F1 model kit for adults to build is designed for fans of motorsports
-- What’s in the box? – This LEGO set for adults features an in-scale replica of the McLaren MP4/4, plus display stands and an Ayrton Senna minifigure
-- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO Icons vehicle set
-- Car gift for racing fans – Give the LEGO Icons McLaren MP4/4 & Ayrton Senna construction set as a Christmas gift for men, women, him or her, an anniversary gift for a husband or wife, or a thoughtful get-well-soon present
-- Home and office décor – Includes a McLaren MP4/4 display stand with printed statistics and a minifigure display podium with a photo and iconic quote
 - More iconic features – The model car for adults also features slick tyres, mirrors, a gear stick and a detailed turbocharged V6 engine
+- Model racing car for adults – This LEGO Icons McLaren MP4/4 & Ayrton Senna F1 model kit for adults to build is designed for fans of motorsports
+- Features and functions – The LEGO Mclaren Formula One model car features working steering, rod suspension and an adjustable rear wing
+- Home and office décor – Includes a McLaren MP4/4 display stand with printed statistics and a minifigure display podium with a photo and iconic quote
+- Car gift for racing fans – Give the LEGO Icons McLaren MP4/4 & Ayrton Senna construction set as a Christmas gift for men, women, him or her, an anniversary gift for a husband or wife, or a thoughtful get-well-soon present
+- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO Icons vehicle set
+- What’s in the box? – This LEGO set for adults features an in-scale replica of the McLaren MP4/4, plus display stands and an Ayrton Senna minifigure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW274ZS{{</world>}}

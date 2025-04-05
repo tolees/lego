@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Buildable dinosaur toy for play and display – Relive iconic scenes in time for the Jurassic Park 30th anniversary with this authentically detailed LEGO brick-built Visitor Center: T. rex & Raptor Attack (76961) set
+- Visitor center – An entrance hall with a trigger to break the ‘When dinosaurs ruled the Earth’ banner, a kitchen/living area and a lab, all divided by semi-transparent screens with dinosaur graphics
+- Play-inspiring accessories – The kitchen/living area is packed with food and plant elements, and the lab features a buildable computer, microscope and dinosaur egg incubator
+- LEGO gift for teens and kids ages 12 and up – This collectible 693-piece set makes a fun gift for kids and any Jurassic Park fan to build and play with solo or enjoy with family and friends
+- Build and combine – The Visitor Center measures over6.5 in. (16 cm) high, 12.5 in. (32 cm) wide and 6.5 in. (17 cm) deep and combines with other LEGO Jurassic World sets (sold separately) for more fun
 - 6 LEGO minifigures – Dr. Ellie Sattler, Dr. Alan Grant, Ray Arnold, Dr. Henry Wu, Lex Murphy and Tim Murphy, plus brick-built, posable T. rex and Velociraptor toy figures and a T. rex dino skeleton figure
 - A helping hand – The LEGO Builder app guides you and your child on an intuitive building adventure with tools that let you zoom in and rotate models in 3D, save sets and track progress
-- Buildable dinosaur toy for play and display – Relive iconic scenes in time for the Jurassic Park 30th anniversary with this authentically detailed LEGO brick-built Visitor Center: T. rex & Raptor Attack (76961) set
-- LEGO gift for teens and kids ages 12 and up – This collectible 693-piece set makes a fun gift for kids and any Jurassic Park fan to build and play with solo or enjoy with family and friends
-- Visitor center – An entrance hall with a trigger to break the ‘When dinosaurs ruled the Earth’ banner, a kitchen/living area and a lab, all divided by semi-transparent screens with dinosaur graphics
-- Build and combine – The Visitor Center measures over6.5 in. (16 cm) high, 12.5 in. (32 cm) wide and 6.5 in. (17 cm) deep and combines with other LEGO Jurassic World sets (sold separately) for more fun
-- Play-inspiring accessories – The kitchen/living area is packed with food and plant elements, and the lab features a buildable computer, microscope and dinosaur egg incubator
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BNWB596X{{</world>}}

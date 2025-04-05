@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This police station playset includes 2 police officer and 2 crook minifigures plus accessories: a gem, police radio, key, cups and a megaphone
 - This LEGO City Police station playset makes a fab birthday gift for kids Ages 4 plus who love police vehicles, toy motorbikes and lots of action
-- Action-packed adventures await with this LEGO City 4+ set with a toy police station, police car toy and dog figure, plus a crook’s motorbike
-- Also includes 4 minifigures for kids to role-play; children can attach the chain from the motorbike toy to activate the jailbreak function
 - This LEGO City 4+ set includes a Starter Brick to give young kids a head start with their construction toys, plus a simple pictorial building guide
+- Action-packed adventures await with this LEGO City 4+ set with a toy police station, police car toy and dog figure, plus a crook’s motorbike
+- This police station playset includes 2 police officer and 2 crook minifigures plus accessories: a gem, police radio, key, cups and a megaphone
+- Also includes 4 minifigures for kids to role-play; children can attach the chain from the motorbike toy to activate the jailbreak function
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBWKYNHP{{</world>}}

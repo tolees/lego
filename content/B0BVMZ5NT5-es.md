@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Únete a la Comunidad del Anillo al llegar a Rivendell para participar en el Consejo de Elrond con esta maqueta para construir para adultos de 6617 piezas del Señor de los Anillos de LEGO Icons 2023
-- Construye el Concilio con la piedra en la que se coloca un anillo y explora los interiores familiares, como el dormitorio de Frodo y el estudio desordenado de Elrond
-- Esta maqueta LEGO presenta la casa de Elrond bellamente detallada, decorada con hojas de otoño que crean la sensación de estar dentro de los bosques de Rivendell
-- Con detalles mágicos y referencias a la trilogía cinematográfica de El señor de los Anillos: una forja élfica, los fragmentos de Narsil, además de cuadros y estatuas de la historia de la Tierra Media
 - Este set de edición limitada incluye mini figuras LEGO de personajes legendarios como Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond y Gandalf el Blanco
+- Esta maqueta LEGO presenta la casa de Elrond bellamente detallada, decorada con hojas de otoño que crean la sensación de estar dentro de los bosques de Rivendell
+- Construye el Concilio con la piedra en la que se coloca un anillo y explora los interiores familiares, como el dormitorio de Frodo y el estudio desordenado de Elrond
+- Con detalles mágicos y referencias a la trilogía cinematográfica de El señor de los Anillos: una forja élfica, los fragmentos de Narsil, además de cuadros y estatuas de la historia de la Tierra Media
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BVMZ5NT5{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Gift for kids aged 5+ – A fun everyday Disney Frozen gift idea for 5 plus year old girls and boys who enjoy the Frozen films and buildable ice-cream toys
 - Expand the play – Add this LEGO Disney Frozen set to other Disney Building toys (sold separately) in the series
-- Elsa and the Snowgie – The Frozen building toy includes an ice-cream cart, an Elsa LEGO Disney mini-doll figure and a Snowgie LEGO Disney figure
-- Disney building toy for kids aged 5+ – Elsa’s Frozen Treats building toy set inspires creativity as kids imagine and play out their own stories
 - Disney Princess building toy – This open-ended LEGO set also lets Disney fans use their imaginations to create brand-new stories
 - Ice-cream toy cart – Kids can push the colourful ice-cream cart around, set up the ice-cream cones and help Elsa deliver frosty treats
-- Gift for kids aged 5+ – A fun everyday Disney Frozen gift idea for 5 plus year old girls and boys who enjoy the Frozen films and buildable ice-cream toys
+- Disney building toy for kids aged 5+ – Elsa’s Frozen Treats building toy set inspires creativity as kids imagine and play out their own stories
+- Elsa and the Snowgie – The Frozen building toy includes an ice-cream cart, an Elsa LEGO Disney mini-doll figure and a Snowgie LEGO Disney figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXFJCM{{</world>}}

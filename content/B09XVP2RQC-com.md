@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Pocket-sized portability – With the patch measuring over 2 in. (5 cm) square, there’s lots of space for kids to be creative and show off their Disney-inspired style: any time, any place
-- Design, share, repeat – Treat a Disney or arts-and-crafts fan with this LEGO DOTS Disney Mickey Mouse & Minnie Mouse Stitch-on Patch (41963) Set. The creative fun starts when they open the box
 - Creativity in a box – This set works on its own for quick, imaginative originality. Kids can also use the LEGO DOTS Extra DOTS Series bags (sold separately) to expand their designs
+- Design, share, repeat – Treat a Disney or arts-and-crafts fan with this LEGO DOTS Disney Mickey Mouse & Minnie Mouse Stitch-on Patch (41963) Set. The creative fun starts when they open the box
 - Treat for ages 8+ – Arts-and-crafts fans will love this customizable Set. The sturdy stitch-on patch and colored and decorated tiles make a gift for creative kids
+- Pocket-sized portability – With the patch measuring over 2 in. (5 cm) square, there’s lots of space for kids to be creative and show off their Disney-inspired style: any time, any place
 - Bold designs anywhere – Kids boost their imagination and design skills as they create with this Set, using a 6x6 stitch-on patch in red, plus bold colored tiles and Mickey & Friends-decorated tiles
 
 [🛒 Buy it now!!]({{< param buyurl >}})

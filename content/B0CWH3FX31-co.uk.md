@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Easy access – Flip up the top panels to reveal the interior, which includes a removable throne for Darth Jar Jar, command centre, hyperdrive and more
+- Fun Star Wars gift for kids – This LEGO Star Wars Starship set makes a great birthday gift for 10-plus-year-old boys, girls and Star Wars fans
 - LEGO vehicle – Features a removable cockpit for 2 minifigures, spring-loaded shooters, cannons, a gunner post for 2 minifigures and a radar dish
 - LEGO Star Wars building toy for kids – The Dark Falcon, a dark version of the Millennium Falcon as seen in the Rebuild the Galaxy Disney+ special
 - 6 LEGO Star Wars minifigures – Darth Jar Jar, Bounty Hunter C-3PO, Darth Dev, Darth Rey, Beach Luke and Jedi Vader, plus lightsabers and more
-- Fun Star Wars gift for kids – This LEGO Star Wars Starship set makes a great birthday gift for 10-plus-year-old boys, girls and Star Wars fans
 - Collectible building toys for all ages – LEGO Star Wars sets enable kids and adult Star Wars fans to recreate classic scenes, create their own adventures or simply display the buildable models
 - Part of the LEGO Star Wars: Rebuild the Galaxy collection – Look out for 75388 Jedi Bob’s Starfighter and 75393 TIE Fighter & X-Wing Mash-up sets, sold separately
-- Easy access – Flip up the top panels to reveal the interior, which includes a removable throne for Darth Jar Jar, command centre, hyperdrive and more
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FX31{{</world>}}

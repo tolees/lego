@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- Kids jump a Super Mario character on the oscillating lava wave to face the 2 lava bubbles at each end and can win coins when they defeat them
-- This playset includes 3 LEGO Super Mario figures: a Fire Bro and 2 lava bubbles and is ideal for social play with 2 players defeating characters
-- For interactive play, one of the starter course sets is needed, with the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
 - A great collectible play set that allows fans of the popular Super Mario video game to expand and rebuild their levels for hours of creative play. Download the LEGO Super Mario companion app for digital building instructions, inspirational ideas and more to improve a creative LEGO experience
+- For interactive play, one of the starter course sets is needed, with the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
+- This playset includes 3 LEGO Super Mario figures: a Fire Bro and 2 lava bubbles and is ideal for social play with 2 players defeating characters
+- Kids jump a Super Mario character on the oscillating lava wave to face the 2 lava bubbles at each end and can win coins when they defeat them
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBWL6D1S{{</world>}}

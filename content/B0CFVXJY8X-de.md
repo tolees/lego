@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Spielzeug-Yoshis zum Sammeln mit LEGO Yoshi-Ei: LEGO Super Mario Yoshis wilder Wald – Erweiterungsset beinhaltet einen Wald aus LEGO Steinen sowie 2 Yoshi-Figuren für Rollenspiele in der LEGO Super Mario Welt
 - Beinhaltet 2 Super Mario Figuren aus LEGO Steinen: Hilf der rosa Yoshi-Figur und der gelben Yoshi-Figur und kümmere dich um das Yoshi-Ei, pflück Äpfel vom Baum und leg sie in einen Korb
-- Bauprojekt mit App-Unterstützung: Lade dir die LEGO Super Mario App herunter, um dir Bauanleitungen und kreative Ideen zu holen
-- Lass ein Super Mario Yoshi-Spielzeug aus dem digitalen Ei schlüpfen: Wiege die interaktive Figur wie ein Baby, um einen LEGO Yoshi schlüpfen zu lassen oder spring und mach einen Salto, um Yoshis Stimme zu aktivieren
 - Interaktives Action-Spielzeug für Kinder: Lade LEGO Mario, LEGO Luigi oder LEGO Peach (diese Figuren sind nicht enthalten) in den Wald ein und spring auf den Funktionsstein, um auf den digitalen Displays der Figuren ein Ei erscheinen zu lassen
+- Spielzeug-Yoshis zum Sammeln mit LEGO Yoshi-Ei: LEGO Super Mario Yoshis wilder Wald – Erweiterungsset beinhaltet einen Wald aus LEGO Steinen sowie 2 Yoshi-Figuren für Rollenspiele in der LEGO Super Mario Welt
+- Lass ein Super Mario Yoshi-Spielzeug aus dem digitalen Ei schlüpfen: Wiege die interaktive Figur wie ein Baby, um einen LEGO Yoshi schlüpfen zu lassen oder spring und mach einen Salto, um Yoshis Stimme zu aktivieren
 - Weck die Fantasie deines Kindes: LEGO Super Mario Sets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf spannende Münzsammelmissionen zu schicken
 - Geschenk für Jungen und Mädchen ab 6 Jahren: Dieses kleine LEGO Set ist ein tolles Geschenk für Gamer und Kinder zu Ostern oder zum Geburtstag; für ein interaktives Spielerlebnis wird ein LEGO Super Mario Starterset (71360, 71387 oder 71403) benötigt
+- Bauprojekt mit App-Unterstützung: Lade dir die LEGO Super Mario App herunter, um dir Bauanleitungen und kreative Ideen zu holen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVXJY8X{{</world>}}

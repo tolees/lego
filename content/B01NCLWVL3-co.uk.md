@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Kids can work as a team, follow the treasure map, navigate a river and cross the wobbly bridge in the toy car before snuggling up in the tent
-- 4 LEGO DUPLO / Disney figures: Daisy Duck and nephews Huey, Dewey and Louie, plus a treasure map, diamonds and the Junior Woodchucks Guidebook
-- With LEGO DUPLO / Disney Mickey and Friends Camping Adventure building toy for toddlers, kids join Disney’s Daisy Duck and her nephews on a trip
-- The toddler toys set features a canoe, drivable toy campervan, textile tent, a campfire, waterfall and a wobbly bridge built from DUPLO bricks
 - Playing out family scenes helps kids share with parents and learn empathy, self-expression and collaboration developmental milestones
+- With LEGO DUPLO / Disney Mickey and Friends Camping Adventure building toy for toddlers, kids join Disney’s Daisy Duck and her nephews on a trip
+- 4 LEGO DUPLO / Disney figures: Daisy Duck and nephews Huey, Dewey and Louie, plus a treasure map, diamonds and the Junior Woodchucks Guidebook
+- The toddler toys set features a canoe, drivable toy campervan, textile tent, a campfire, waterfall and a wobbly bridge built from DUPLO bricks
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NCLWVL3{{</world>}}

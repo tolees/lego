@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Discover a world of imaginative play – Kids unleash more fun and adventures when they use this set with others (sold separately) from the LEGO City range
 - A fun birthday gift idea for kids – Give this LEGO City fire station playset as a birthday or any-day gift for boys and girls aged 6 and over
-- LEGO City Fire Station – This playset features a modern fire station with a control centre and a fire engine toy for 6+ year old boys and girls
-- Fire station playset with a digital guide – The LEGO Builder app lets kids zoom in and rotate models in 3D, track progress and save virtual sets
+- Discover a world of imaginative play – Kids unleash more fun and adventures when they use this set with others (sold separately) from the LEGO City range
 - Fun features – Includes a control room, kitchenette, bed and fire pole, plus a toy fire engine with a hose, modular ladder and extinguisher
+- Fire station playset with a digital guide – The LEGO Builder app lets kids zoom in and rotate models in 3D, track progress and save virtual sets
 - What’s in the box? – Everything kids need to build a fire station toy, helipad, drone, fire engine, 5 firefighter minifigures and a fire dog figure
+- LEGO City Fire Station – This playset features a modern fire station with a control centre and a fire engine toy for 6+ year old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFWMZQ3Y{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinder können Superfan Andrea oder Filmstar Amelia spielen, und der VIP-Vorführraum bietet exklusive Sitzplätze für 5 ihrer allerbesten Freunde
-- Das Konstruktionsspielzeug enthält 3 Mini Puppen: Andrea, Amelia und Julian, sowie eine Kinokasse, einen coolen roten Teppich und eine Toilette für Besuchern, die auf der Premiere warten
+- Ein tolles Spielzeug ab 7 Jahren für Mädchen und Jungen, perfekt als Weihnachts- oder auch Geburtstagsgeschenk Die Teile sind auch mit anderen LEGO-Sets kompatibel
 - Das Spielzeugset öffnet sich, um den Filmbildschirm und die Sitzplätze reichen zu könnnen. Damit kann man mit einem Smartphone oder Tablet reale Filmvorführungen halten
 - Umfasst ein Kino im Art-Deco-Stil mit authentischen Details: einen VIP-Bereich, einen Popcorn-Kiosk, Schluseis-Getränke und einen Spielzeugprojektor
-- Ein tolles Spielzeug ab 7 Jahren für Mädchen und Jungen, perfekt als Weihnachts- oder auch Geburtstagsgeschenk Die Teile sind auch mit anderen LEGO-Sets kompatibel
+- Kinder können Superfan Andrea oder Filmstar Amelia spielen, und der VIP-Vorführraum bietet exklusive Sitzplätze für 5 ihrer allerbesten Freunde
+- Das Konstruktionsspielzeug enthält 3 Mini Puppen: Andrea, Amelia und Julian, sowie eine Kinokasse, einen coolen roten Teppich und eine Toilette für Besuchern, die auf der Premiere warten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08G4P2XRK{{</world>}}

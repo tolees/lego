@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wenn du fertig bist, klappe das Banner zu, um das Hogwarts Wappen zu zeigen, und verwende den Aufhänger als coole Harry Potter Hogwarts Wand-Deko
+- Teil einer Sammlung von 4 LEGO Harry Potter Hausbannern für Hogwarts; Gestalte die komplette Sammlung mit Gryffindor (76409), Ravenclaw (76411) oder Hufflepuff (76412)
+- Dieses LEGO Harry Potter Spielzeug zum Bauen und Ausstellen von Schloss Hogwarts ist ein langlebiges Geschenk und ein großartiges Reisespielzeug für unterwegs
 - Enthält Draco Malfoy, Pansy Parkinson und Blaise Zabini als LEGO Harry Potter-Minifiguren sowie das Medaillon von Slytherin, ein Schlangenelement und weiteres Zubehör
 - Mit einem baubaren LEGO Harry Potter Hausbanner Slytherin Spielset, das als Wand-Deko aufgehängt oder geöffnet werden kann
-- Teil einer Sammlung von 4 LEGO Harry Potter Hausbannern für Hogwarts; Gestalte die komplette Sammlung mit Gryffindor (76409), Ravenclaw (76411) oder Hufflepuff (76412)
-- Der LEGO Harry Potter Slytherin-Gemeinschaftsraum enthält ein baubares Spielzeug-Sofa, einen Tisch, Lampen, eine Treppe und einen Schrank
 - Mit 3D-Effekten: eine Lentikularrückwand erzeugt bewegte Bilder der Unterwasserszenen des Schwarzen Sees durch das Fenster
-- Dieses LEGO Harry Potter Spielzeug zum Bauen und Ausstellen von Schloss Hogwarts ist ein langlebiges Geschenk und ein großartiges Reisespielzeug für unterwegs
+- Wenn du fertig bist, klappe das Banner zu, um das Hogwarts Wappen zu zeigen, und verwende den Aufhänger als coole Harry Potter Hogwarts Wand-Deko
+- Der LEGO Harry Potter Slytherin-Gemeinschaftsraum enthält ein baubares Spielzeug-Sofa, einen Tisch, Lampen, eine Treppe und einen Schrank
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS54MW7{{</world>}}

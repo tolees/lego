@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO Classic box includes building toy suggestions in an easy-to-follow printed guide plus digital instructions in the LEGO Builder app
-- This LEGO Classic Creative Party Box set contains 6 bags, each with building bricks and instructions for making 2 easy-to-build toys
 - Kids and adults can play together and use the LEGO bricks to build a teddy bear, a clown, a unicorn, a piñata and much more
-- This LEGO Classic set contains 900 bricks and encourages kids and adults to share the fun of play together with 12 cool mini builds
 - Great as family games for kids and adults, perfect for any celebration, and once the event is over, the building and play together doesnt stop!
+- This LEGO Classic set contains 900 bricks and encourages kids and adults to share the fun of play together with 12 cool mini builds
+- This LEGO Classic Creative Party Box set contains 6 bags, each with building bricks and instructions for making 2 easy-to-build toys
+- This LEGO Classic box includes building toy suggestions in an easy-to-follow printed guide plus digital instructions in the LEGO Builder app
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N0REILO{{</world>}}

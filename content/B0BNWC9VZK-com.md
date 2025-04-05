@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Collectible building toys for all ages – LEGO Star Wars sets enable kids and adult Star Wars fans to recreate iconic scenes, create their own action-adventures or simply display the buildable models
+- 2 LEGO Star Wars minifigures with weapons – The Snub Fighter Pilot has a blaster pistol and Vane has a sword
 - Premium quality – LEGO bricks meet demanding industry standards, ensuring consistent, simple and secure connections
 - A helping hand – Discover intuitive instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
-- Collectible building toys for all ages – LEGO Star Wars sets enable kids and adult Star Wars fans to recreate iconic scenes, create their own action-adventures or simply display the buildable models
 - Starfighter set (75346) for action play – Kids can play out their own galactic adventures with this LEGO brick recreation of the Pirate Snub Fighter from Star Wars: The Mandalorian Season 3
 - Safety is a priority – LEGO components are dropped, heated, crushed, twisted and carefully analyzed to make sure that they comply with strict global safety standards
-- 2 LEGO Star Wars minifigures with weapons – The Snub Fighter Pilot has a blaster pistol and Vane has a sword
-- Built for action play – The Pirate Snub Fighter has an opening minifigure cockpit, 2 stud shooters and a compartment containing a thermal detonator element
 - Build, play and display – This brick-built snub fighter model measures over 2 in. (5 cm) high, 9.5 in. (24 cm) long and 6 in. (16 cm) wide
+- Built for action play – The Pirate Snub Fighter has an opening minifigure cockpit, 2 stud shooters and a compartment containing a thermal detonator element
 - Gift idea for ages 8 and up – Give this 285-piece building toy as a holiday gift, birthday present or special treat to Star Wars: The Mandalorian fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})

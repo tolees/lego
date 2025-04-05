@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Includes Neytiri, Kiri, Ronal and Tonowari LEGO Avatar minifigures plus a toy canoe with oar, torch, double-pronged spear and kitchen utensils
+- The LEGO Avatar Metkayina home sits on top of 2 pillars and a cliff, with ladders to the beautiful coral reefs of Pandora and swimming fish below
 - Avatar fans can join their favourite movie characters in this LEGO construction toy and explore Pandora while they build a Metkayina Reef Home
 - Kids can recreate a scene from Avatar: The Way of Water or role-play living-out everyday life in the village with their own Pandora stories
 - Printed building instructions and the LEGO Builder app with interactive tools are included with this Avatar building toy for kids aged 9 plus
-- The LEGO Avatar Metkayina home sits on top of 2 pillars and a cliff, with ladders to the beautiful coral reefs of Pandora and swimming fish below
-- Kids can role play climbing out of the water where they have been canoeing or swimming with the fish to prepare meals in the houses kitchen
 - This set easily combines with others in the LEGO Avatar range to expand kids play possibilities, theres a variety of gifts for kids of all ages
-- Includes Neytiri, Kiri, Ronal and Tonowari LEGO Avatar minifigures plus a toy canoe with oar, torch, double-pronged spear and kitchen utensils
+- Kids can role play climbing out of the water where they have been canoeing or swimming with the fish to prepare meals in the houses kitchen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRZV1DL{{</world>}}

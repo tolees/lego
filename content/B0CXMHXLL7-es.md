@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Se envía en bolsa de plástico sellada de fábrica
 - Contiene 29 piezas + 1 minifigura
+- Se envía en bolsa de plástico sellada de fábrica
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CXMHXLL7{{</world>}}

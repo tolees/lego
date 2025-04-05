@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can set the stunt in different ways; horizontally to complete the hoop of flames challenge, and vertically for the ring of stars challenge
-- This LEGO City Stuntz Dunk Stunt Ramp 2in1 Challenge set includes a flywheel-powered motorbike toy, a launch ramp and a Stuntz rider minifigure
-- Combine this set with other LEGO City Stuntz building toy sets like Spinning Stunt Challenge (60360) or Ultimate Stunt Riders Challenge (60361)
-- This toy for kids aged 5+ features an awesome dinosaur themed flywheel-powered toy motorbike, plus a trophy accessory for kids to win
 - Young action fans can choose their stunt, push the toy motorbike to activate the flywheel, launch off the ramp and make a perfect dunk
+- This toy for kids aged 5+ features an awesome dinosaur themed flywheel-powered toy motorbike, plus a trophy accessory for kids to win
+- Combine this set with other LEGO City Stuntz building toy sets like Spinning Stunt Challenge (60360) or Ultimate Stunt Riders Challenge (60361)
+- This LEGO City Stuntz Dunk Stunt Ramp 2in1 Challenge set includes a flywheel-powered motorbike toy, a launch ramp and a Stuntz rider minifigure
+- Kids can set the stunt in different ways; horizontally to complete the hoop of flames challenge, and vertically for the ring of stars challenge
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRY5N7B{{</world>}}

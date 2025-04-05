@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Verzamelen en combineren – beleef nog meer plezier en avonturen door deze set te combineren met andere LEGO City sets (apart verkrijgbaar)
-- Leuk cadeau voor kinderen vanaf 6 jaar die van creatief spelen houden – verwen je jonge held met dit leuke bouwpakket voor fans van spel boordevol actie
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
-- Wat zit er in deze LEGO voertuig set? – alles wat kinderen nodig hebben om een reddingshelikopter en minifiguren van een piloot, wandelaar en redder te bouwen voor leuke rollenspellen
+- Leuk cadeau voor kinderen vanaf 6 jaar die van creatief spelen houden – verwen je jonge held met dit leuke bouwpakket voor fans van spel boordevol actie
 - Reddingsvoertuig speelgoed set met interactieve gids – ontdek de LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
-- Fantasierijk spelen – kinderen kunnen de rotors van de helikopter laten draaien, de vrachtruimte openen en de werkende lier bedienen om reddingsmissies na te spelen met de meegeleverde LEGO minifiguren
 - Speelgoed helikopter voor kinderen – er wachten kinderen vanaf 6 jaar reddingsavonturen boordevol actie met deze LEGO City Reddingshelikopter set
+- Fantasierijk spelen – kinderen kunnen de rotors van de helikopter laten draaien, de vrachtruimte openen en de werkende lier bedienen om reddingsmissies na te spelen met de meegeleverde LEGO minifiguren
+- Wat zit er in deze LEGO voertuig set? – alles wat kinderen nodig hebben om een reddingshelikopter en minifiguren van een piloot, wandelaar en redder te bouwen voor leuke rollenspellen
+- Verzamelen en combineren – beleef nog meer plezier en avonturen door deze set te combineren met andere LEGO City sets (apart verkrijgbaar)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZZPY3{{</world>}}

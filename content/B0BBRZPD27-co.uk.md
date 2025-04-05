@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- LEGO Minecraft sets give kids a cool way to enjoy the game; expand the world with The Swamp Adventure (21240) and The End Arena (21242) sets
+- Minecraft players aged 8+ will be buzzing with excitement as they make angry bees race with the flick of a finger or battle a baby zombie
 - Kids can play outside the Minecraft house with honeycomb to harvest from the beehive, crops to grow at the farm and mobs to defend against
 - The bee-shaped Minecraft building toy has a removable roof for easy access to the interior with fun elements and activities for fans to enjoy
-- Minecraft players aged 8+ will be buzzing with excitement as they make angry bees race with the flick of a finger or battle a baby zombie
 - This cool LEGO Minecraft The Bee Cottage buildable toy house features Honey Bear player character, baby zombie, 3 bees and 1 angry bee figures
 - LEGO Minecraft The Bee Cottage with animal figures and a buildable toy house makes a great gift for girls and boys aged 8+ and all kids who love Minecraft
-- LEGO Minecraft sets give kids a cool way to enjoy the game; expand the world with The Swamp Adventure (21240) and The End Arena (21242) sets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZPD27{{</world>}}

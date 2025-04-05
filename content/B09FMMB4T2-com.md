@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes Crook Ice and Crook Cream LEGO minifigures, and the toy ice cream truck features an ice cream launcher to shoot splat elements
+- It also includes a female police officer minifigure to deploy tyre shredder elements from the police car toy to play out the series scenes
 - LEGO City Adventures police sets can be given as a birthday, Christmas or any-other-day gift for girls and boys 5 plus years old
-- Features a colorful LEGO ice cream van toy, police patrol car toy and ATM setting, plus 3 minifigures, including 2 LEGO City TV characters
 - This police car toy playset comes with lots of fun accessories for imaginative play: handcuffs, crook’s crowbar, ice cream elements and more
 - Includes printed guide & interactive building instructions in the free LEGO app with intuitive zoom and rotate tools to see all angles
-- It also includes a female police officer minifigure to deploy tyre shredder elements from the police car toy to play out the series scenes
+- Features a colorful LEGO ice cream van toy, police patrol car toy and ATM setting, plus 3 minifigures, including 2 LEGO City TV characters
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09FMMB4T2{{</world>}}

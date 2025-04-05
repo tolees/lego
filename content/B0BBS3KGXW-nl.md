@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met deze LEGO NINJAGO speelgoed bouwset kunnen kinderen vanaf 9 jaar bouwen en leuke ninjaverhalen naspelen met hun helden; het is een te gek verjaardagscadeau of een leuk cadeautje voor zomaar, voor kinderen die dol zijn op avontuur
-- Bij dit ninja speelgoed voor kinderen van 9+ jaar zijn LEGO NINJAGO poppetjes van de personages Jay en Nya inbegrepen, waarmee kinderen spannende duels kunnen naspelen tegen de Bottenkoning, Bottenridder en Bottenjager, elk met hun eigen wapens
+- De armen en benen van de mecha actiefiguur zijn verstelbaar, zodat kinderen te gekke moves na kunnen spelen en de figuur daarna mooi kunnen poseren, zodat het een echte eyecatcher wordt als decoratie voor op de kinderkamer
 - Deze LEGO NINJAGO set met speelgoed boordevol actie bestaat uit een gigantische mecha actiefiguur met coole ninjawapens, 5 LEGO NINJAGO poppetjes, plus een dubbele noppenschietende kruisboog op een kar, voor epische battles tussen goed en kwaad
 - Kinderen bouwen NINJAGO Jays krachtigste mecha ooit - een enorme, 28 cm hoge actiefiguur met een cockpit op de borst waarin Jay kan zitten, plus 2 katanazwaarden en 2 schieters op de schouders, die kunnen schieten door aan een knopje te draaien
-- De armen en benen van de mecha actiefiguur zijn verstelbaar, zodat kinderen te gekke moves na kunnen spelen en de figuur daarna mooi kunnen poseren, zodat het een echte eyecatcher wordt als decoratie voor op de kinderkamer
+- Met deze LEGO NINJAGO speelgoed bouwset kunnen kinderen vanaf 9 jaar bouwen en leuke ninjaverhalen naspelen met hun helden; het is een te gek verjaardagscadeau of een leuk cadeautje voor zomaar, voor kinderen die dol zijn op avontuur
 - Er is ook een Pixal Bot bij deze set inbegrepen, met 2 clips om de zwaarden van de ninjas aan vast te maken - de skeletstrijders hebben een dubbele kruisboog die geladen is met 4 snelvuurpijlen, zodat de strijd meteen kan beginnen
+- Bij dit ninja speelgoed voor kinderen van 9+ jaar zijn LEGO NINJAGO poppetjes van de personages Jay en Nya inbegrepen, waarmee kinderen spannende duels kunnen naspelen tegen de Bottenkoning, Bottenridder en Bottenjager, elk met hun eigen wapens
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS3KGXW{{</world>}}

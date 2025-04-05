@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Also included is a director’s clapperboard with space for the included Disney characters, and a multiplane camera with 3 printed screens
-- Celebrate Disney’s 100th Anniversary with the LEGO Walt Disney Tribute Camera, featuring a Walt Disney minifigure with some of his lovable characters
 - A premium booklet is also included, filled with details about Disney, the camera, the set itself and instructions to guide you through the build
+- This memorabilia-filled Disney collectible set has 811 pieces that create several distinct items, including a vintage-style movie camera
+- Celebrate Disney’s 100th Anniversary with the LEGO Walt Disney Tribute Camera, featuring a Walt Disney minifigure with some of his lovable characters
+- This LEGO Disney set for adults, created to help celebrate Disney’s 100th anniversary makes a special birthday gift for women and men, anniversary gift for a wife or husband, or a thoughtful get-well-soon or house-warming present for a Disney fan
 - The Disney Memorabilia set features 3 LEGO Disney minifigures: Mickey Mouse, Minnie Mouse and Walt Disney, plus Bambi and Dumbo LEGO animal figures
 - The camera also features a hinged back panel containing a surprise, plus a film strip showing stills from 20 historic Disney films
-- This LEGO Disney set for adults, created to help celebrate Disney’s 100th anniversary makes a special birthday gift for women and men, anniversary gift for a wife or husband, or a thoughtful get-well-soon or house-warming present for a Disney fan
-- This memorabilia-filled Disney collectible set has 811 pieces that create several distinct items, including a vintage-style movie camera
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BMPVS{{</world>}}

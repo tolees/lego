@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Edad recomendada por el fabricante: 6+
 - Número de piezas: 98
+- Microfighter: The Razor Crest
+- Edad recomendada por el fabricante: 6+
 - La mini figura del Mandaloriano incluida está vestida con su traje de la temporada 2 de Star Wars: The Mandalorian y tiene una pistola bláster y una mochila propulsora
 - Los peques podrán explorar otros planetas con la mochila propulsora del mandaloriano y enfrentarse a sus enemigos con la pistola bláster
-- Microfighter: The Razor Crest
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNVTMKF{{</world>}}

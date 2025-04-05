@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief minipoppetjes van Disneyprinsessen Jasmijn en Mulan, plus de LEGO-dierenfiguren van het speelgoedpaard Khan en Rajah de tijger
-- Deze gedetailleerde set met iconische filmpersonages, een speelgoedpaard en tijger, is een leuk cadeau-idee voor verjaardagen of als tussendoortje voor zesjarigen en ouder
 - Spring op het vliegend tapijt en vlieg mee naar Mulans kapel om de pruimenbloesem te zien voor je terugkeert naar het paleis!
-- Bevat een gedetailleerd speelgoedpaleis met 2 verdiepingen en een kleine kapel, plus heel wat accessoires om dagelijkse speelsessies extra leuk te maken
+- Met de LEGO Bouwinstructies-app kunnen kinderen op hun model inzoomen, het draaien en inbeelden terwijl ze bouwen
+- Deze gedetailleerde set met iconische filmpersonages, een speelgoedpaard en tijger, is een leuk cadeau-idee voor verjaardagen of als tussendoortje voor zesjarigen en ouder
 - De minipop van prinses Jasmijn kan op het balkon verschijnen om het uitzicht te bewonderen Wacht, wie zijn dat? Jawel, het zijn Mulan, Khan en Cri-kee die op bezoek komen!
 - Kinderen zullen dol zijn op deze speelset vol fantasierijke speelmogelijkheden, met scènes die gebaseerd zijn op 2 beroemde Disneyfilms: Mulan en Aladdin
-- Met de LEGO Bouwinstructies-app kunnen kinderen op hun model inzoomen, het draaien en inbeelden terwijl ze bouwen
+- Bevat een gedetailleerd speelgoedpaleis met 2 verdiepingen en een kleine kapel, plus heel wat accessoires om dagelijkse speelsessies extra leuk te maken
+- Inclusief minipoppetjes van Disneyprinsessen Jasmijn en Mulan, plus de LEGO-dierenfiguren van het speelgoedpaard Khan en Rajah de tijger
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNV6DJX{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Los niños pueden disfrutar de una construcción gratificante con el clásico F1 LM y los modernos coches de réplica de Solus GT antes de correr y mostrarlos con orgullo. El mundo de las carreras espera a los amantes de los coches deportivos con otros juegos LEGO Speed Champions como Ferrari 812 Competizione (76914) y Porsche 963 (76916)
 - El modelo de coche de juguete Solus GT también incluye detalles de la versión real: esquema de color blanco, y ranja, pasos de rueda prominentes y cabina
 - Este juego de doble paquete LEGO Speed Champions cuenta con 2 modelos de coches de juguete para construir; McLaren Solus GT y McLaren F1 LM para construir y mostrar
 - Perfecto para configurar carreras de alta velocidad, el kit de construcción de coche modelo también incluye 2 minifiguras de conductor, 1 para "conducir" cada uno de los juguetes de coche
 - El juguete de coche de carreras McLaren F1 LM cuenta con su distintivo color ranja papaya con un asiento central de conducción y conductos de refrigeración en ambos lados
+- Los niños pueden disfrutar de una construcción gratificante con el clásico F1 LM y los modernos coches de réplica de Solus GT antes de correr y mostrarlos con orgullo. El mundo de las carreras espera a los amantes de los coches deportivos con otros juegos LEGO Speed Champions como Ferrari 812 Competizione (76914) y Porsche 963 (76916)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB13N{{</world>}}

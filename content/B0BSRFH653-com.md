@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Reconfigurable fun – The fortress measures over 9 in. (23 cm) high, 12.5 in. (31 cm) wide and 4.5 in. (12 cm) deep and combines with other sets (sold separately) in the LEGO Minecraft range
-- Gift for Minecraft players – Treat kids aged 9 and up to this versatile Minecraft toy as a birthday, holiday or any-day gift that will provide endless play possibilities
-- Multiple play scenarios – Kids protect their fortress against hostile attackers. The action with this toy for 9 year olds steps up to a larger scale when the fortress is reconfigured into a giant golem
-- Safety assured – LEGO bricks and pieces are dropped, heated, crushed, twisted and analyzed to make sure they satisfy rigorous global safety standards
-- Minecraft made real – LEGO Minecraft sets give kids a different way to enjoy the popular game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
 - Lots of figures and mobs – Includes a Crystal Knight, Golden Knight, iron golem, Charged Creeper and 2 skeleton horsemen, plus functional exteriors and interiors with many accessories
+- Minecraft made real – LEGO Minecraft sets give kids a different way to enjoy the popular game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
+- Gift for Minecraft players – Treat kids aged 9 and up to this versatile Minecraft toy as a birthday, holiday or any-day gift that will provide endless play possibilities
 - Minecraft golem set – Kids can transform LEGO Minecraft The Iron Golem Fortress (21250) building toy from a battle-ready stronghold into a towering giant with large movable arms
+- Reconfigurable fun – The fortress measures over 9 in. (23 cm) high, 12.5 in. (31 cm) wide and 4.5 in. (12 cm) deep and combines with other sets (sold separately) in the LEGO Minecraft range
 - Quality guaranteed – LEGO components meet stringent industry quality standards to ensure they are consistent, compatible and easy to build with
 - Intuitive building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Safety assured – LEGO bricks and pieces are dropped, heated, crushed, twisted and analyzed to make sure they satisfy rigorous global safety standards
+- Multiple play scenarios – Kids protect their fortress against hostile attackers. The action with this toy for 9 year olds steps up to a larger scale when the fortress is reconfigured into a giant golem
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRFH653{{</world>}}

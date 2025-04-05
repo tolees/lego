@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features a fruit for Super Mario LEGO Mario, LEGO Luigi or LEGO Peach (figures not included), a gift box and a Super Mushroom with an Action Tag
 - Includes buildable LEGO trees, flowers, hills, mushrooms, pyramids, signs and a Checkpoint Flag, plus classic look cloud and bush elements
+- Features a fruit for Super Mario LEGO Mario, LEGO Luigi or LEGO Peach (figures not included), a gift box and a Super Mushroom with an Action Tag
 - This Super Mario buildable game extension set also features 3 LEGO Super Mario collectible figures: Wendy, a Blue Yoshi and a Goomba
-- Super Mario building toys make fun and creative birthday gift ideas or treats for kids who already own a LEGO Super Mario Starter Course
 - LEGO Super Mario Starter Packs (71360, 71387 or 71403, required for interactive play) and Expansion Packs recreate the iconic video game
 - LEGO Super Mario players upgrade and create new levels with this Creative Toolbox toy set featuring grass, lava, desert builds and 3 characters
+- Super Mario building toys make fun and creative birthday gift ideas or treats for kids who already own a LEGO Super Mario Starter Course
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS31HSP{{</world>}}

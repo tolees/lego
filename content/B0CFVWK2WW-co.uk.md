@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Lots of accessories – This LEGO musical toy set comes with fun accessories so kids can role-play different friendship stories with the characters
-- Building toys for friendship play – Check out more LEGO Friends mini-doll playsets (sets sold separately) to expand the creative fun
-- Toy bus for musical role play – The LEGO Friends Pop Star Music Tour Bus for 8+ year old girls and boys includes 4 mini-dolls and cool accessories
 - A music-themed gift idea for kids – If you’re looking for a musical treat this LEGO building set hits all the right notes and makes a great gift for 8+ year old girls and boys who love music
 - Mini-dolls – Set includes 4 LEGO Friends characters, with separate mini-dolls for Paisley/Ley-La so kids can act out the singer’s transformation
+- Lots of accessories – This LEGO musical toy set comes with fun accessories so kids can role-play different friendship stories with the characters
+- Toy bus for musical role play – The LEGO Friends Pop Star Music Tour Bus for 8+ year old girls and boys includes 4 mini-dolls and cool accessories
+- Building toys for friendship play – Check out more LEGO Friends mini-doll playsets (sets sold separately) to expand the creative fun
 - Transform Paisley into Ley-La – Kids assemble the LEGO vehicle before using the rotating mirror to show how shy Paisley transforms into a superstar
 
 [🛒 Buy it now!!]({{< param buyurl >}})

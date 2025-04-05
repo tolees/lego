@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Sammle weitere interaktive NINJAGO-Actionspielzeuge: Nyas Drachenpower-Spinjitzu-Drift (71778) und Lloyds Drachenpower-Spinjitzu-Spin (71779)
-- Die Kinder können die Dragon Power Kai NINJAGO Minifigur in den Spinner stellen, auf einen seiner Arme schlagen und zusehen, wie er Tricks wie einen Rückwärtssalto macht
-- Das Spielset enthält eine Dragon Power Kai Minifigur, die bereit ist, Kunststücke zu machen, sowie ein Kaiserlicher Droide, der bei einem Treffer zur Seite kippen kann
-- Ninja-Fans können ihrem Helden mit diesem LEGO NINJAGO Kais Dragon Power Spinjitzu Spinner-Spielzeug für Kinder ab 6 Jahren helfen, Rückwärtssaltos zu machen
 - Kinder werden endlose Stunden damit verbringen, Drachenpower-Kai dazu zu bringen, coole Tricks mit diesem Ninja-Spielzeug auszuführen – das perfekte Geschenk für Kinder ab 6 Jahren
+- Die Kinder können die Dragon Power Kai NINJAGO Minifigur in den Spinner stellen, auf einen seiner Arme schlagen und zusehen, wie er Tricks wie einen Rückwärtssalto macht
+- Ninja-Fans können ihrem Helden mit diesem LEGO NINJAGO Kais Dragon Power Spinjitzu Spinner-Spielzeug für Kinder ab 6 Jahren helfen, Rückwärtssaltos zu machen
+- Sammle weitere interaktive NINJAGO-Actionspielzeuge: Nyas Drachenpower-Spinjitzu-Drift (71778) und Lloyds Drachenpower-Spinjitzu-Spin (71779)
+- Das Spielset enthält eine Dragon Power Kai Minifigur, die bereit ist, Kunststücke zu machen, sowie ein Kaiserlicher Droide, der bei einem Treffer zur Seite kippen kann
 - Das sammelbare Spielzeug enthält außerdem einen flammenden Halter mit einem sammelbaren goldenen Drachenpower-Element, das Kai gewinnen muss, und 2 Flammenhindernis
 
 [🛒 Buy it now!!]({{< param buyurl >}})

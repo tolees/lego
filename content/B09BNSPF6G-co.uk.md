@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- The LEGO DUPLO green base board is ideal for creative building of nature scenes and display-model transport
+- The DUPLO building base plate holds bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
 - This 24x24-stud LEGO DUPLO green building base plate gives preschoolers a sturdy green base on which to build their creative constructions
+- Appropriate as a hands-on playset to give as a birthday present or any-day gift to toddlers aged 18 months +
 - Check on other LEGO Base Plates: 11024 grey for town builds, 11026 white for winter snowy landscapes, and 11025 blue for ocean adventures
 - This sturdy square grid has hundreds of perfectly aligned studs to give little builders the right grip for all their LEGO DUPLO building toys
-- The DUPLO building base plate holds bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
-- Appropriate as a hands-on playset to give as a birthday present or any-day gift to toddlers aged 18 months +
-- The LEGO DUPLO green base board is ideal for creative building of nature scenes and display-model transport
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNSPF6G{{</world>}}

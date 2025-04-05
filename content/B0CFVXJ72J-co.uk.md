@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- More NINJAGO characters – This building toy for 9+ year old boys and girls also includes Wyldfyre with flammable fists, and Jordana with a glider
+- Mech set for kids – Boys and girls aged 9+ can play out battles from season 2 of the NINJAGO Dragons Rising TV show with Kai’s Ninja Climber Mech
+- Posable action figure – The mechs torso, head and limbs are posable, and it comes with 2 big katana accessories and an opening minifigure cockpit
+- 2 ninja hooks for play and display – On the back of the NINJAGO mech are 2 large ninja hooks that kids can use to display it after playtime
 - 4 LEGO NINJAGO minifigures – The ninja toy includes Climber Kai and Climber Jay, each with a katana sword accessory
 - Ninja gift – Provides a fun build-and-play experience and makes a fun birthday gift for 9 plus year old boys, girls and kids who love ninja toys
-- More NINJAGO characters – This building toy for 9+ year old boys and girls also includes Wyldfyre with flammable fists, and Jordana with a glider
 - A helping hand – Discover intuitive instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
-- Mech set for kids – Boys and girls aged 9+ can play out battles from season 2 of the NINJAGO Dragons Rising TV show with Kai’s Ninja Climber Mech
-- 2 ninja hooks for play and display – On the back of the NINJAGO mech are 2 large ninja hooks that kids can use to display it after playtime
-- Posable action figure – The mechs torso, head and limbs are posable, and it comes with 2 big katana accessories and an opening minifigure cockpit
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXJ72J{{</world>}}

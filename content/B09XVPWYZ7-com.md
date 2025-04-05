@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Patch-sized self-expression – With the patch measuring over 2 in. (5 cm) square, there’s lots of space for kids to be creative and show off their style any time, any place
-- Unlimited design freedom – This set is made for imaginative originality. Kids can also use one of the LEGO DOTS Extra DOTS bags (sold separately) to expand their designs
-- Individual designs everywhere – Kids can boost their imagination and design skills as they play with this toy Set, which has a 6x6 flexible baseplate and 90+ colorful tiles for endless creativity
 - Design, show off, repeat – Treat an arts-and-crafts or fashion fan to this LEGO DOTS Stitch-on Patch (41955) Set. The creative fun starts when they open the box
 - Unexpected treat for ages 8+ – Arts-and-crafts fans will love this customizable Set with lots of play value. The flexible patch can be stitched (needle and thread not included) on whatever kids want
+- Patch-sized self-expression – With the patch measuring over 2 in. (5 cm) square, there’s lots of space for kids to be creative and show off their style any time, any place
+- Individual designs everywhere – Kids can boost their imagination and design skills as they play with this toy Set, which has a 6x6 flexible baseplate and 90+ colorful tiles for endless creativity
+- Unlimited design freedom – This set is made for imaginative originality. Kids can also use one of the LEGO DOTS Extra DOTS bags (sold separately) to expand their designs
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09XVPWYZ7{{</world>}}

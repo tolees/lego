@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Expand the fun – Explore the full range of LEGO sets from the Gabbys Dollhouse collection including 10785 Bakey with Cakey Fun, 10788 Gabbys Dollhouse, and 10786 Gabby & MerCats Ship & Spa
-- Activities and adventures – Kids join the friends as they water the flowers and make them grow, play on the swing, merry-go-round and slide, and drink tea in the tree house
-- Magical garden playset – LEGO Kitty Fairy’s Garden Party (10787) takes kids ages 4+ into a magical garden filled with popular characters from DreamWorks Animation’s Gabbys Dollhouse
 - Garden gift for kids – With a Starter Brick and simple building steps, this versatile LEGO 4+ playset is an enjoyable way to develop key skills and introduce kids to creative construction. Makes a great birthday gift for kids ages 4+ years old
-- Hands-on fun in the garden – The tree house and slide measures over 5 in. (13 cm) high, 7 in. (17 cm) wide and 4 in. (11 cm) deep
 - Iconic characters – Includes a Gabby minifigure and Pandy Paws and Kitty Fairy figures, a buildable tree house with a bed and snacks and fairy garden accessories including a garden with a slide, a swing and a merry-go-round
+- Expand the fun – Explore the full range of LEGO sets from the Gabbys Dollhouse collection including 10785 Bakey with Cakey Fun, 10788 Gabbys Dollhouse, and 10786 Gabby & MerCats Ship & Spa
 - Fun building guide – A printed picture guide shows the purpose of each building step and the LEGO Builder app offers digital zoom and rotate tools, so kids can visualize their model as they build
+- Magical garden playset – LEGO Kitty Fairy’s Garden Party (10787) takes kids ages 4+ into a magical garden filled with popular characters from DreamWorks Animation’s Gabbys Dollhouse
+- Hands-on fun in the garden – The tree house and slide measures over 5 in. (13 cm) high, 7 in. (17 cm) wide and 4 in. (11 cm) deep
+- Activities and adventures – Kids join the friends as they water the flowers and make them grow, play on the swing, merry-go-round and slide, and drink tea in the tree house
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRDD7G1{{</world>}}

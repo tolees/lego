@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Willkommen in einer fantasievollen Spielwelt: Für weitere spannende Abenteuer musst du dieses Imbisswagen-Spielzeug nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
-- Lustiges Geschenk für jeden Anlass: Dieses LEGO City Auto ist eine schöne spontane Belohnung oder ein cooles Geschenk für 5-jährige Jungen und Mädchen zu Weihnachten oder zum Geburtstag
-- Inhalt dieses Spiel- und Bausets: Ein Baukasten für das Burger-Spielzeugauto, 2 Minifiguren – ein Verkäufer und ein Kunde mit Cochlea-Implantat – sowie LEGO Zutaten und Zubehör für den Imbiss
 - LEGO Truck-Spielzeug für kreatives Spielen: Wenn Kinder die Verkaufsluke hochklappen, kommt das Burger-Schild des Vans zum Vorschein; sie können auch das Dach abnehmen, um in der Küche Burger zuzubereiten und den Kunden Essen zu servieren
+- Inhalt dieses Spiel- und Bausets: Ein Baukasten für das Burger-Spielzeugauto, 2 Minifiguren – ein Verkäufer und ein Kunde mit Cochlea-Implantat – sowie LEGO Zutaten und Zubehör für den Imbiss
+- Lustiges Geschenk für jeden Anlass: Dieses LEGO City Auto ist eine schöne spontane Belohnung oder ein cooles Geschenk für 5-jährige Jungen und Mädchen zu Weihnachten oder zum Geburtstag
 - Burger-Imbiss-Spielzeug: Der LEGO City Burger-Truck ist ein Spielzeug für 5-jährige Mädchen und Jungs, mit dem sie so tun können, als würden sie einen Imbisswagen betreiben
+- Willkommen in einer fantasievollen Spielwelt: Für weitere spannende Abenteuer musst du dieses Imbisswagen-Spielzeug nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2KC3H{{</world>}}

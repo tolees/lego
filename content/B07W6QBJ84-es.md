@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Buggy de la Jungla
+- Incluye katanas doradas para luchar en torneos LEGO NINJAGO, donde los peques podrán organizar alucinantes carreras de coches de juguete
+- Edad recomendada por el fabricante: 7+
 - Número de piezas: 127
 - El buggy de juguete cuenta con un alerón trasero, un arma de cañón doble y una divertida función de suspensión, los niños pueden presionarlo hacia abajo y ver cómo salta
-- Edad recomendada por el fabricante: 7+
-- Incluye katanas doradas para luchar en torneos LEGO NINJAGO, donde los peques podrán organizar alucinantes carreras de coches de juguete
-- Buggy de la Jungla
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W6QBJ84{{</world>}}

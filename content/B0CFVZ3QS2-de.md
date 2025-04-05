@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Friends Mini-Boutique für Mädchen und Jungen ab 6 Jahren: Dieses kleine LEGO Set beinhaltet einen baubaren Spielzeug-Laden, 2 LEGO Friends Figuren und Zubehör für lustige Shopping-Geschichten
-- Make-Up-Set für Kinder mit Zubehör: Dieses Kinderspielzeug beinhaltet 2 Gürteltaschen zum Anprobieren sowie weitere modische Accessoires
-- Spiegel und Selbstbedienungskasse: Dein Kind kann die kreative Spielzeug-Boutique aufklappen, um vor dem Spiegel und an der Kasse viele Geschichten darzustellen
-- Geschenk für 6-jährige Mädchen und Jungen: Dieses LEGO Friends Spielzeug für Mädchen und Jungen ist ein tolles kreatives Geschenk für Kinder, die gern fantasievoll spielen und Rollenspiele lieben – ideal für Geburtstage, Ostern oder Weihnachten
-- Mini-Puppen-Set mit 2 Charakteren: Mit den beiden enthaltenen LEGO Friends Minipuppen Paisley und Candi kann dein Kind viele verschiedene Freundschaftsgeschichten darstellen
 - Spielset für viele Freundschaftsgeschichten: Entdecke auch noch weitere separat erhältliche LEGO Friends Spielzeuge, mit denen dein Kind verschiedene Geschichten zum Thema Freundschaft darstellen kann
+- Make-Up-Set für Kinder mit Zubehör: Dieses Kinderspielzeug beinhaltet 2 Gürteltaschen zum Anprobieren sowie weitere modische Accessoires
+- LEGO Friends Mini-Boutique für Mädchen und Jungen ab 6 Jahren: Dieses kleine LEGO Set beinhaltet einen baubaren Spielzeug-Laden, 2 LEGO Friends Figuren und Zubehör für lustige Shopping-Geschichten
+- Spiegel und Selbstbedienungskasse: Dein Kind kann die kreative Spielzeug-Boutique aufklappen, um vor dem Spiegel und an der Kasse viele Geschichten darzustellen
+- Mini-Puppen-Set mit 2 Charakteren: Mit den beiden enthaltenen LEGO Friends Minipuppen Paisley und Candi kann dein Kind viele verschiedene Freundschaftsgeschichten darstellen
+- Geschenk für 6-jährige Mädchen und Jungen: Dieses LEGO Friends Spielzeug für Mädchen und Jungen ist ein tolles kreatives Geschenk für Kinder, die gern fantasievoll spielen und Rollenspiele lieben – ideal für Geburtstage, Ostern oder Weihnachten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ3QS2{{</world>}}

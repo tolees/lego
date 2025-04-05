@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Âge recommandé par le fabricant: 11-16
-- Découvre les coloris authentique gris, noir, blanc et vert
-- Comprend aussi une remorque détachable dotée de stabilisateurs extensibles, de béquilles, de grues synchronisées et d’un conteneur avec des portes verrouillables
 - Mack Anthem
+- Comprend aussi une remorque détachable dotée de stabilisateurs extensibles, de béquilles, de grues synchronisées et d’un conteneur avec des portes verrouillables
+- Âge recommandé par le fabricant: 11-16
 - Nombre de pièces: 2,595
+- Découvre les coloris authentique gris, noir, blanc et vert
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B075GR44MV{{</world>}}

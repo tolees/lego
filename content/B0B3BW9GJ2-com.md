@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Movie Inspired Play - Fans place the Jake minifigure in his linkbed to awaken his Avatar and play out movie Pandora scenes from the back of a Direhorse animal figure.
-- Five Unique Minifigures - The set includes 2 Jake Sully minifigures (in Na’vi and human forms), plus Dr. Grace, Norm, and Trudy minifigures for an immersive Avatar adventure.
 - Easy Access Lab Interior - Site 26s lab has a detachable roof, allowing kids easy access to the interior for more creative play with their Avatar building toy.
 - Simultaneous Building Fun - This set includes 3 building instruction booklets, allowing friends or family members to build different parts of the set at the same time for a shared experience.
-- Helicopter and Lab Set - This LEGO Avatar set features a helicopter toy with spinning rotors, Site 26 lab with detachable roof, 5 minifigures, a Direhorse animal figure, and a scene with glow-in-the-dark elements.
+- Five Unique Minifigures - The set includes 2 Jake Sully minifigures (in Na’vi and human forms), plus Dr. Grace, Norm, and Trudy minifigures for an immersive Avatar adventure.
 - Versatile Building Toy - With this Avatar building set, kids can recreate a scene from the film, tell a new story, or set up a dynamic bedroom display.
+- Helicopter and Lab Set - This LEGO Avatar set features a helicopter toy with spinning rotors, Site 26 lab with detachable roof, 5 minifigures, a Direhorse animal figure, and a scene with glow-in-the-dark elements.
+- Movie Inspired Play - Fans place the Jake minifigure in his linkbed to awaken his Avatar and play out movie Pandora scenes from the back of a Direhorse animal figure.
 - Perfect Gift for Kids - Surprise kids who love nature and Avatar with this wonderful set as a great Christmas present or birthday gift idea for kids aged 9 years old and up.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

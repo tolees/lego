@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Premium-quality LEGO Star Wars display models make a big visual impact at home or in the office as decorations
+- Build a detailed LEGO Star Wars display model of The Mandalorian’s helmet and pay tribute to the legendary bounty hunter
+- Explore the full range of LEGO Star Wars buildable model kits to discover a variety of Star Wars Presents or Christmas gift ideas for Men, Women, Mums or Dads
+- Capture the sheen and replicate iconic features of Mando’s helmet and proudly display it on the brick-built stand with nameplate
+- Number of Pieces: 584
 - Find step-by-step instructions in the box, so even if you are a newcomer to LEGO sets, you will soon be building with confidence
 - Drum-lacquered LEGO bricks in different shades of grey help you to recreate the metallic look of beskar armour and the contours of the helmet
-- Build a detailed LEGO Star Wars display model of The Mandalorian’s helmet and pay tribute to the legendary bounty hunter
-- Number of Pieces: 584
-- Capture the sheen and replicate iconic features of Mando’s helmet and proudly display it on the brick-built stand with nameplate
-- Explore the full range of LEGO Star Wars buildable model kits to discover a variety of Star Wars Presents or Christmas gift ideas for Men, Women, Mums or Dads
 - Check out other collectible LEGO Star Wars display helmet model sets for adults: 75327 Luke Skywalker Red 5 Helmet and 75343 Dark Trooper Helmet
+- Premium-quality LEGO Star Wars display models make a big visual impact at home or in the office as decorations
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNWZF68{{</world>}}

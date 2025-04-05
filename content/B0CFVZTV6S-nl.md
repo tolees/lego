@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een leuk cadeau voor elke gelegenheid – deze bouwset is een leuk cadeau voor jongens en meisjes vanaf 4 jaar om te geven met de feestdagen of zomaar tussendoor
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
-- Leuk ambulance speelgoed voor kinderen – kinderen kunnen reddingsmissies naspelen met de speelgoed LEGO ambulance, brancard en injectiespuit
-- Inclusief interactieve gids – ontdek de intuïtieve LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
 - Welkom in een wereld vol fantasiespel – ga voor nog meer plezier en avonturen door deze set te combineren met andere LEGO City sets (apart verkrijgbaar)
 - Wat zit er in de doos? – deze LEGO voertuig bouwset bevat alles wat kinderen nodig hebben om een ambulance, een met sneeuw bedekt skatepark en minifiguren van een snowboarder en ambulanceverpleegkundige te bouwen, plus coole accessoires zoals een mini skateboard
 - Speelgoed ambulances set – speel samen met je kleine bouwer met deze LEGO City Ambulance en snowboarder set voor kinderen vanaf 4 jaar
+- Een leuk cadeau voor elke gelegenheid – deze bouwset is een leuk cadeau voor jongens en meisjes vanaf 4 jaar om te geven met de feestdagen of zomaar tussendoor
+- Inclusief interactieve gids – ontdek de intuïtieve LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
+- Leuk ambulance speelgoed voor kinderen – kinderen kunnen reddingsmissies naspelen met de speelgoed LEGO ambulance, brancard en injectiespuit
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZTV6S{{</world>}}

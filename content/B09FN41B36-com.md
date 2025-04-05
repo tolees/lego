@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The LEGO Marvel Iron Man building toy lets kids be like Tony Stark and build their own armored action figure to build and display with pride
 - Features a 9 in. / 24 cm tall Iron Man action figure - a realistic recreation of the metal-clad star of the Marvel Studios’ Avengers movies
 - With the free LEGO Building Instructions app, kids can zoom, rotate and visualize a digital version of their model as they build
-- A button-operated Light Brick adds extra realism as it illuminates the arc reactor in Iron Man’s chest
 - Looking for a gift for kids 9 + years old? The Iron Man action figure is a great birthday present idea for all Avengers Infinity Saga fans
+- A button-operated Light Brick adds extra realism as it illuminates the arc reactor in Iron Man’s chest
 - The LEGO Marvel Iron Man model looks great on display and includes a removable information plate with details about the iconic armored Avenger
+- The LEGO Marvel Iron Man building toy lets kids be like Tony Stark and build their own armored action figure to build and display with pride
 - All parts of the buildable Iron Man action figure are articulated, so kids can move, position and pose the armor just like the real thing
 
 [🛒 Buy it now!!]({{< param buyurl >}})

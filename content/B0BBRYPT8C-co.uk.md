@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Capture the battle-ready look of Clone Commander Cody with this LEGO Star Wars Helmet model, part of the LEGO Star Wars collection for adults
-- Display the Star Wars model on the included brick-built stand with a nameplate as a conversation-starting décor piece for the home or office
-- Relive Star Wars: The Clone Wars scenes and enjoy the mindful process of recreating the distinctive contours of this helmet in LEGO brick-style
-- This collectible piece of Star Wars memorabilia is part of the premium-quality collection of LEGO Star Wars Helmet sets for adults
 - Immerse yourself in a creative challenge; the set features easy-to-follow printed instructions and digital instructions on the LEGO Builder app
 - This highly collectible set makes a splendid treat for yourself and a great Star Wars gift to wow any enthusiast or experienced LEGO builder
+- Relive Star Wars: The Clone Wars scenes and enjoy the mindful process of recreating the distinctive contours of this helmet in LEGO brick-style
+- Display the Star Wars model on the included brick-built stand with a nameplate as a conversation-starting décor piece for the home or office
+- This collectible piece of Star Wars memorabilia is part of the premium-quality collection of LEGO Star Wars Helmet sets for adults
+- Capture the battle-ready look of Clone Commander Cody with this LEGO Star Wars Helmet model, part of the LEGO Star Wars collection for adults
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRYPT8C{{</world>}}

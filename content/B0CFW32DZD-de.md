@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Inhalt dieses LEGO Bausets: Das LEGO City Spielzeug beinhaltet einen Roboter-Bausatz, um einen beweglichen Mech, einen Weltraum-Bauroboter, eine Weltraumcrew-Minifigur und eine Planetenkulisse mit Gestein und Kristallen zu bauen
-- LEGO Mech für Kinder ab 6 Jahren: Für futuristische Spielerlebnisse beinhaltet dieses LEGO City Weltraum-Spielzeug einen Mech mit Hammer und Greifklaue an den Armen, Pilotencockpit für eine Minifigur und großen Füßen zum Erkunden neuer Welten
-- LEGO Weltraum-Geschenk für Roboter-Fans: Dieses kleine LEGO Set eignet sich perfekt als spontane Überraschung für Kinder, die Actionfiguren lieben, oder als kleines Geschenk für Weltraum-Fans zu besonderen Anlässen
 - Roboter-Spielzeug mit coolen Funktionen: Dein Kind kann die Weltraumcrew-Minifigur ins Pilotencockpit setzen und mit dem Hammer und der Greifklaue an den Armen auf imaginären Planeten nach Energiekristallen für die Stromerzeugung graben
+- LEGO Weltraum-Geschenk für Roboter-Fans: Dieses kleine LEGO Set eignet sich perfekt als spontane Überraschung für Kinder, die Actionfiguren lieben, oder als kleines Geschenk für Weltraum-Fans zu besonderen Anlässen
+- LEGO Mech für Kinder ab 6 Jahren: Für futuristische Spielerlebnisse beinhaltet dieses LEGO City Weltraum-Spielzeug einen Mech mit Hammer und Greifklaue an den Armen, Pilotencockpit für eine Minifigur und großen Füßen zum Erkunden neuer Welten
 - Spielspaß ohne Ende: LEGO City Weltraum-Spielsets beinhalten wirklichkeitsgetreue Fahrzeuge, detailreiche Bauwerke und inspirierende Figuren für ein fantasievolles Spielerlebnis ohne Limits, das Fantasie und Wirklichkeit verschmelzen lässt
 
 [🛒 Buy it now!!]({{< param buyurl >}})

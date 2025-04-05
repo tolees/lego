@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This Penguin Slushy Van truck toy from the LEGO City Great Vehicles range features a serving window, 4 toy slushy machines and 2 minifigures
 - This Penguin Slushy Van truck toy makes a cool birthday or any-other-day gift for girls and boys 5+ years old and kids love LEGO vehicles and city scenes
-- The set includes printed instructions and LEGO Builder app for smartphones and tablets to let kids view the model from all angles as they build
-- Kids can open the side of the slushy van truck toy and get ready to prepare ice cold drinks in 4 fruity flavours, using the 4 slushy machines
 - This fun summer-themed building toy playset includes a vendor minifigure in a cool penguin suit and hat, plus accessories such as 2 slushy cups
+- Kids can open the side of the slushy van truck toy and get ready to prepare ice cold drinks in 4 fruity flavours, using the 4 slushy machines
+- This Penguin Slushy Van truck toy from the LEGO City Great Vehicles range features a serving window, 4 toy slushy machines and 2 minifigures
+- The set includes printed instructions and LEGO Builder app for smartphones and tablets to let kids view the model from all angles as they build
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZRXXW{{</world>}}

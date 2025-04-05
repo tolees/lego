@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Temas de Lego favoritos para los fans
-- Varios modos de juego
 - Eventos comunitarios
-- Estratégias únicas
 - Luchadores personalizados
+- Varios modos de juego
+- Estratégias únicas
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B12G1DM4{{</world>}}

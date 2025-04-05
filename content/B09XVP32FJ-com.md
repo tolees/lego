@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Kids can create endless designs on the top and sides of the lid creating patterns or decorating with messages to make the stationary box unique
-- Surprise kids and fans of DIY projects with this creative and original craft kit gift for kids age 6+ that inspires endless design possibilities
-- The decorative box makes a great kids room decoration piece, with room inside to use as a jewelry box, desk tidy organizer or storage tray
 - When kids want to switch up their storage box style and redesign, the included tile remover can remove designs ready to start all over again
 - For more creative activity fun, kids can also use any of the extra LEGO DOTS bags or boxes (sold separately) to expand their craft designs
 - This crafts set features a customizable storage box with a removable black lid, plus neon and pastel curved and square tiles to decorate with
+- Surprise kids and fans of DIY projects with this creative and original craft kit gift for kids age 6+ that inspires endless design possibilities
+- The decorative box makes a great kids room decoration piece, with room inside to use as a jewelry box, desk tidy organizer or storage tray
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09XVP32FJ{{</world>}}

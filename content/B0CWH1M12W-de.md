@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Pariser Charme für dein Zuhause: Platziere baubare Bäume entlang einer Seite des Notre Dame Modells und befestige das Namensschild vor oder neben dem Gebäude am Sockel
-- Geschenk für alle, die Geschichte, Reisen und Kunst lieben – und ein tolles Paris Souvenir: Dein Bauprojekt folgt der tatsächlichen Entstehungsgeschichte der Kathedrale. Alles beginnt mit der runden hinteren Mauer und gipfelt im Vierlingsturm
 - LEGO Geschenk für Erwachsene: Das Pariser Wahrzeichen aus LEGO Steinen ist ein tolles Modell zum Sammeln und Ausstellen und ein cooles Geschenk für Eltern, Geschwister und Freunde, die Geschichte, Architektur und Reisen lieben
-- Detailgetreues Modell der Kathedrale Notre-Dame: Bewundere die Rosenfenster, nimm das Dach ab, um die Pfeiler und Bögen im Inneren zu bestaunen, und entferne die Türme, um ins Modell hineinzuschauen
 - LEGO Sets für Erwachsene: Dieses Modell aus der LEGO Architecture Landmarks Collection gehört zu einer ganzen Reihe von Architektur Modellbausätzen für Erwachsene, die sich gern kreativ betätigen
-- Schritt-für-Schritt-Anleitung: Bauanleitungen findest du sowohl in der LEGO Builder App als auch in der beiliegenden Broschüre, die zudem die Geschichte der Kathedrale sowie ein Interview mit dem LEGO Designer dieses Modells enthält
+- Pariser Charme für dein Zuhause: Platziere baubare Bäume entlang einer Seite des Notre Dame Modells und befestige das Namensschild vor oder neben dem Gebäude am Sockel
 - Notre-Dame de Paris – Modellbausatz eines architektonischen Meisterwerks: Dieses LEGO Architecture Set für Erwachsene lässt dich jede Bau- und Restaurierungsphase des legendären Pariser Wahrzeichens durchleben
+- Schritt-für-Schritt-Anleitung: Bauanleitungen findest du sowohl in der LEGO Builder App als auch in der beiliegenden Broschüre, die zudem die Geschichte der Kathedrale sowie ein Interview mit dem LEGO Designer dieses Modells enthält
+- Detailgetreues Modell der Kathedrale Notre-Dame: Bewundere die Rosenfenster, nimm das Dach ab, um die Pfeiler und Bögen im Inneren zu bestaunen, und entferne die Türme, um ins Modell hineinzuschauen
+- Geschenk für alle, die Geschichte, Reisen und Kunst lieben – und ein tolles Paris Souvenir: Dein Bauprojekt folgt der tatsächlichen Entstehungsgeschichte der Kathedrale. Alles beginnt mit der runden hinteren Mauer und gipfelt im Vierlingsturm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1M12W{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The back of the SUV police car toy can be opened and a pup placed in the back to take the training to a new location - dont forget the dog treats!
-- This LEGO City police toy set features an SUV police car toy with trailer, a dog and puppy figure plus 3 activities to role-play a puppy training day
-- The animal playset includes 2 minifigures, a seesaw, jump bar and stepping paws plus grooming brush, torch, shovel and dog treat accessories
 - This LEGO City Police Dog Training toy set can be given as a birthday gift for kids Ages 5 plus years old who love animal toys and police play
+- The animal playset includes 2 minifigures, a seesaw, jump bar and stepping paws plus grooming brush, torch, shovel and dog treat accessories
+- This LEGO City police toy set features an SUV police car toy with trailer, a dog and puppy figure plus 3 activities to role-play a puppy training day
 - Kids can help the toy LEGO animals into the cool K9 SUV toy car, place the activities in the trailer and head for the training ground
+- The back of the SUV police car toy can be opened and a pup placed in the back to take the training to a new location - dont forget the dog treats!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBWJ1PRD{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bausatz mit Puppenhause für Kinder ab 8 Jahren: Dieses Kinderspielzeug beinhaltet ein LEGO Friends Kaufhaus mit 5 Geschäften und 2 fahrenden Rolltreppen sowie 7 Minipuppen für ein tolles Spielerlebnis, das die sozial-emotionale Entwicklung fördert
+- Authentisch nachgebildetes Kaufhaus: Unzählige Details echter Kaufhäuser, beispielsweise 5 Geschäfte, ein Nudellokal, ein Eiskiosk, ein Sitzbereich, ein Geldautomat, Registrierkassen und 2 Rolltreppen laden zum Spielen ein
 - 7 LEGO Friends Figuren: Das LEGO Spielzeug beinhaltet die LEGO Friends Spielfiguren Liann, Aliya und Nova, Lianns Mutter Michelle und ihre jüngere Schwester Victoria sowie die Figuren Petch und Irene
 - Funktionierende Rolltreppen: Junge Kaufhausbesucher in Heartlake City können die Figuren auf die Rolltreppen stellen und den Knauf drehen, um die Freunde in die verschiedenen Etagen des LEGO Puppenhaus zu befördern
-- Freu dich auf weitere Freundschaftsabenteuer: Schau dir auch die anderen separat erhältlichen LEGO Friends Heartlake City Sets für Mädchen und Jungen an, die gern kreativ spielen
 - Jede Menge Zubehör und Verkaufsartikel für Rollenspiele: Dieses Konstruktionsspielzeug für Kinder beinhaltet ein Kajak, ein Fernglas, Comic-Hefte, einen Kopfhörer, Blumensträuße, Farben, ein Skateboard, einen Spielzeughasen und Kosmetikartikel
+- Bausatz mit Puppenhause für Kinder ab 8 Jahren: Dieses Kinderspielzeug beinhaltet ein LEGO Friends Kaufhaus mit 5 Geschäften und 2 fahrenden Rolltreppen sowie 7 Minipuppen für ein tolles Spielerlebnis, das die sozial-emotionale Entwicklung fördert
 - Geschenkidee für Kinder, die Einkaufstouren lieben: Dieses LEGO Friends Puppenhaus ist ein tolles Weihnachtsgeschenk für 8-jährige Mädchen und Jungen, die gern in Kaufhäuser gehen und Rollenspiele und Modellhäuser lieben
-- Authentisch nachgebildetes Kaufhaus: Unzählige Details echter Kaufhäuser, beispielsweise 5 Geschäfte, ein Nudellokal, ein Eiskiosk, ein Sitzbereich, ein Geldautomat, Registrierkassen und 2 Rolltreppen laden zum Spielen ein
+- Freu dich auf weitere Freundschaftsabenteuer: Schau dir auch die anderen separat erhältlichen LEGO Friends Heartlake City Sets für Mädchen und Jungen an, die gern kreativ spielen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWNVHQ{{</world>}}

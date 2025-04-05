@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3D-Bauanleitung: Die LEGO Builder App lässt Sie unter anderem beim Bauen digitale 3D-Ansichten dieses baubaren Modellbausatzes vergrößern und drehen oder Ihren Baufortschritt verfolgen
-- Diorama zum Ausstellen: Das Set stellt einen Teil der Podracer-Rennstrecke in Mos Espa auf Tatooine dar; Ein Stein zur Feier des 25-jährigen LEGO Star Wars Jubiläums und eine Plakette mit Qui-Gon Jinn Zitat vollenden das Ausstellungsstück
-- Detailreiches LEGO Star Wars Diorama zum Bauen und Ausstellen: Dieses Set für Erwachsene lässt Sie einen spannenden Augenblick aus dem Podrennen in Mos Espa aus Star Wars: Die dunkle Bedrohung mit LEGO Steinen festhalten
-- Star Wars Geschenk für Erwachsene: Dieses Premium-Set ist ein tolles Geschenk für Sie selbst oder einen anderen Star Wars Fan und alle, die LEGO Star Wars Dioramen sammeln
 - Star Wars Podracer aus LEGO Steinen: Dieses einzigartige Set beinhaltet detailgetreue LEGO Modelle der Podracers von Anakin Skywalker und seinem Rivalen Sebulba
+- Star Wars Geschenk für Erwachsene: Dieses Premium-Set ist ein tolles Geschenk für Sie selbst oder einen anderen Star Wars Fan und alle, die LEGO Star Wars Dioramen sammeln
+- Diorama zum Ausstellen: Das Set stellt einen Teil der Podracer-Rennstrecke in Mos Espa auf Tatooine dar; Ein Stein zur Feier des 25-jährigen LEGO Star Wars Jubiläums und eine Plakette mit Qui-Gon Jinn Zitat vollenden das Ausstellungsstück
 - Einst in einer weit, weit entfernten Galaxis, heute in Ihrem Wohnzimmer: LEGO Star Wars Sets für Erwachsene sind für Leute wie Sie gedacht, die gerne bei kreativen Aktivitäten abschalten und entspannen
+- 3D-Bauanleitung: Die LEGO Builder App lässt Sie unter anderem beim Bauen digitale 3D-Ansichten dieses baubaren Modellbausatzes vergrößern und drehen oder Ihren Baufortschritt verfolgen
+- Detailreiches LEGO Star Wars Diorama zum Bauen und Ausstellen: Dieses Set für Erwachsene lässt Sie einen spannenden Augenblick aus dem Podrennen in Mos Espa aus Star Wars: Die dunkle Bedrohung mit LEGO Steinen festhalten
 - Erweitere Ihre Kollektion: Dieses Set gehört zu einer ganzen Kollektion von separat erhältlichen LEGO Star Wars Sets und Sammlerstücken, die legendäre Star Wars Momente darstellen
 
 [🛒 Buy it!!]({{< param buyurl >}})

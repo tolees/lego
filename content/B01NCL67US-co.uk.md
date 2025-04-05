@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A great learning toy for toddlers; the set also includes a refuse worker LEGO DUPLO figure with a broom and a puppy toy animal figure
 - This activity-packed colour sorting truck toy makes a fab birthday or any-day gift for toddlers and kids aged 2+ who love drivable vehicles
-- Help your toddler keep the streets tidy with the LEGO DUPLO Town Recycling Truck toy for 2+ year olds, which teaches about colour matching
 - Children develop their fine motor skills and get familiar with colours as they open and close the toy bins to tidy away the colour-matching bricks
+- Help your toddler keep the streets tidy with the LEGO DUPLO Town Recycling Truck toy for 2+ year olds, which teaches about colour matching
 - The drivable bin lorry toy features a tipping function and comes with 3 colourful sorting toy bins with hinged lids to teach kids about recycling
+- A great learning toy for toddlers; the set also includes a refuse worker LEGO DUPLO figure with a broom and a puppy toy animal figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01NCL67US{{</world>}}

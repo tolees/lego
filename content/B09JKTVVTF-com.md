@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Play Introduction - DOTS sets engage kids in the joy of LEGO play and creativity as they make and decorate items
 - Colorful Tiles Included - Over 700 tiles in various colors and shapes for kids to personalize fonts and lettering for any message
-- Inspirational Leaflet - Comes with ideas for alphabets and designs to spark kids creativity and inventiveness
 - Creative Craft Kit - LEGO DOTS lettering kit with Lots of DOTS for kids to customize message boards, room decor, or other LEGO sets
+- Inspirational Leaflet - Comes with ideas for alphabets and designs to spark kids creativity and inventiveness
+- LEGO Play Introduction - DOTS sets engage kids in the joy of LEGO play and creativity as they make and decorate items
 - Perfect Gift Idea - DIY LEGO crafts sets for kids aged 6+ make an excellent birthday or any time gift for boys, girls, and teenagers to express their individuality
 
 [🛒 Check the deal!!]({{< param buyurl >}})

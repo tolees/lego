@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Super Mario expansion sets make great gifts for kids who own a LEGO Super Mario Starter Course 71360/71387/71403, which is required for play
 - Kids can place the Super Mario Goomba figure inside the brick-built shoe, just like in the video games, and add to the levels they create
-- This LEGO Super Mario Goombas Shoe Expansion Set adds hopping, stomping, flipping fun to LEGO Mario, Luigi or Peach Starter Courses (not included)
 - Kids can help LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) swipe the shoe to jump around and perform flips to win digital coins
 - Collectible LEGO Super Mario building toys are designed for solo play or fun with family and friends, offering endless fun creating levels
+- LEGO Super Mario expansion sets make great gifts for kids who own a LEGO Super Mario Starter Course 71360/71387/71403, which is required for play
+- This LEGO Super Mario Goombas Shoe Expansion Set adds hopping, stomping, flipping fun to LEGO Mario, Luigi or Peach Starter Courses (not included)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09TRXS3NM{{</world>}}

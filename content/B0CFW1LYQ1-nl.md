@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Creatief Disney cadeau voor kinderen – een leuk cadeau voor meisjes, jongens en Disney fans vanaf 6 jaar die op zoek zijn naar een creatieve hobby en dol zijn op de Encanto film
 - Bouwbaar LEGO ǀ Disney Encanto speelgoed voor kinderen – met de bouwset Mirabels fotolijstje en sieradendoos kunnen meisjes en jongens vanaf 6 jaar veel plezier beleven terwijl ze hun creativiteit de vrije loop laten
 - Details uit de Disney film Encanto – de bouwset bevat verhaalideeën zoals de kaars uit de film, een LEGO ǀ Disney capibarafiguur en veel elementen om te versieren
-- LEGO ǀ Disney plezier – Encanto fans kunnen het speelplezier uitbreiden door deze bouw- en speelset toe te voegen aan andere LEGO sets (apart verkrijgbaar) uit het Disney assortiment
-- Ontdek je passie – deze bouwset met 2 decoratieve modellen en een armband die eindeloos kunnen worden aangepast
+- Creatief Disney cadeau voor kinderen – een leuk cadeau voor meisjes, jongens en Disney fans vanaf 6 jaar die op zoek zijn naar een creatieve hobby en dol zijn op de Encanto film
 - LEGO fotolijst – de bouwbare Disney set bevat een klein juwelendoosje, een fotolijstje met standaard en extra clips, een draagbare armband, plus een Disney poppetje van het Encanto personage Mirabel
+- Ontdek je passie – deze bouwset met 2 decoratieve modellen en een armband die eindeloos kunnen worden aangepast
+- LEGO ǀ Disney plezier – Encanto fans kunnen het speelplezier uitbreiden door deze bouw- en speelset toe te voegen aan andere LEGO sets (apart verkrijgbaar) uit het Disney assortiment
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW1LYQ1{{</world>}}

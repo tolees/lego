@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deze set kan worden toegevoegd aan de LEGO Friends Heartlake City Buurtcentrum set 41748 (apart verkrijgbaar) om een groter centrum te creëren met nog meer speelgebieden
+- Dit speelgoed voor kinderen vanaf 8 jaar is inclusief Leo, Alba, oma Abuelita en klant Mathilde mini poppetjes, plus een Churro de kat figuur en veel accessoires
 - Kinderen kunnen leuke kookverhalen met de Friends in de keuken beleven met de verschillende ingrediënten, een voorraadkast, een koelkast, een gootsteen en tal van keukengerei elementen
 - Dit creatieve speelgoed is een leuk cadeau voor kinderen, meisjes en jongens vanaf 8 jaar die van koken en creatief rollenspel houden, of voor degenen die de LEGO Friends Buurtcentrum set (41748) al bezitten
-- Dit speelgoed voor kinderen vanaf 8 jaar is inclusief Leo, Alba, oma Abuelita en klant Mathilde mini poppetjes, plus een Churro de kat figuur en veel accessoires
+- Deze set kan worden toegevoegd aan de LEGO Friends Heartlake City Buurtcentrum set 41748 (apart verkrijgbaar) om een groter centrum te creëren met nog meer speelgebieden
 - De LEGO Friends Heartlake City Gemeenschappelijke keuken speelset heeft een dakterras, zitgedeelte buiten en een speelgoed keuken met veel accessoires voor jonge koks
 
 [🛒 Buy it now!!]({{< param buyurl >}})

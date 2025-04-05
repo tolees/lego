@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The 40725 Cherry Blossoms building set includes 2 cherry blossom twigs that can be decorated with delicate buds in shades of white and pink, a great set to encourage kids and teens to create customised LEGO flowers
+- These artificial flowers are elegant floral decorations great for any space, even as kids bedroom decorations, as desk ornaments or for display in vases
+- Let kids creativity blossom with these LEGO flower sets, a great birthday gift for artificial flower lovers, a idea Valentines Day gift for women and men or as a thoughtful anniversary present for a wife or husband
 - The Lotus Flower Set (40647) is a LEGO brick interpretation of the famous flower; it features 2 faux flowers in full bloom and a flower head in bud, each in delicate shades of pink and white, plus long green stems
 - This LEGO Icons Flower bundle features 2 building sets from the Botanical Collection, Lotus Flowers (40647) and Cherry Blossoms (40725), perfect for girls and boys 8+ who love creative decoration, crafts and floral designs
-- Let kids creativity blossom with these LEGO flower sets, a great birthday gift for artificial flower lovers, a idea Valentines Day gift for women and men or as a thoughtful anniversary present for a wife or husband
-- These artificial flowers are elegant floral decorations great for any space, even as kids bedroom decorations, as desk ornaments or for display in vases
+- The 40725 Cherry Blossoms building set includes 2 cherry blossom twigs that can be decorated with delicate buds in shades of white and pink, a great set to encourage kids and teens to create customised LEGO flowers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CT9676FF{{</world>}}

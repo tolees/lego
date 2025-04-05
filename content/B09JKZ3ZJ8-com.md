@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gift for preschoolers – Give this hands-on playset as a birthday present or any-day treat to toddlers aged 2 and up
-- Activity-packed planet – Includes a LEGO DUPLO Disney and Pixar Buzz Lightyear figure, Sox the robot cat, Ivan the computer, Eric the triangular droid, a spaceship, fascinating locations and fun accessories
 - More to explore – Buzz Lightyear’s spaceship measures over 2 in. (5 cm) high, 5.5 in. (14 cm) long and 5 in. (13 cm) wide: just the right size to put big adventures into small hands
-- Fun details – The cave has an open-and-shut function, the jungle area has a climbable vine, the radar station has a turnable dish and the spaceship will take kids on endless adventures
+- Gift for preschoolers – Give this hands-on playset as a birthday present or any-day treat to toddlers aged 2 and up
 - Take young imaginations into space – LEGO DUPLO Disney and Pixar Buzz Lightyear’s Planetary Mission (10962) provides endless developmental play for fans of Buzz Lightyear
+- Activity-packed planet – Includes a LEGO DUPLO Disney and Pixar Buzz Lightyear figure, Sox the robot cat, Ivan the computer, Eric the triangular droid, a spaceship, fascinating locations and fun accessories
+- Fun details – The cave has an open-and-shut function, the jungle area has a climbable vine, the radar station has a turnable dish and the spaceship will take kids on endless adventures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09JKZ3ZJ8{{</world>}}

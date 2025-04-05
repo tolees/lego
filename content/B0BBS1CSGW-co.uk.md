@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Kids can have a warm drink at the cute cloud-shaped table, play with Aira the puppy, watch a movie, or sit in the comfy nook by the window
 - Discover Paisley and Aliya mini-dolls, the next generation of Heartlake City characters; this set makes a great gift for girls, boys and kids who love creative play
-- Aliya mini-doll is a dedicated young girl; her room features school projects, a laptop, a book, a phone, a lamp and a trophy doll accessories
 - Kids aged 6+ can throw a fun sleepover party at LEGO Friends Aliyas Room with this collectible mini-doll toy playset that stimulates imaginations
-- Combine this set with other collectible LEGO Friends bedroom playsets; check out Leos Room (41754), Novas Room (41755) or Lianns Room (41719)
 - This travel toy for kids aged 6+ includes digital instructions in the LEGO Builder app to visualise 3D models, save sets and monitor progress
 - Includes a buildable bedroom with 2 beds, a swivel chair and desk, two 2023 series mini-dolls characters plus a toy pet figure and accessories
+- Aliya mini-doll is a dedicated young girl; her room features school projects, a laptop, a book, a phone, a lamp and a trophy doll accessories
+- Combine this set with other collectible LEGO Friends bedroom playsets; check out Leos Room (41754), Novas Room (41755) or Lianns Room (41719)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS1CSGW{{</world>}}

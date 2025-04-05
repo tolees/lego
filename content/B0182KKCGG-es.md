@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Plataforma del juego: Xbox One
-- Cada pareja de personajes tiene su propio ataque de equipo
-- Tipo de producto: videojuego de acción y aventura
-- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
 - El juego cuenta con más de cien personajes jugables
+- Plataforma del juego: Xbox One
+- Tipo de producto: videojuego de acción y aventura
+- Cada pareja de personajes tiene su propio ataque de equipo
+- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0182KKCGG{{</world>}}

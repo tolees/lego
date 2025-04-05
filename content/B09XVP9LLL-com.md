@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can lay the colorful LEGO DOTS bracelets out and snap on the Mickey & Friends-decorated tiles to express their mood and creativity
-- This kids friendship bracelet making kit features 5 adjustable toy bracelets in different colors plus Mickey Mouse & Friends decorated tiles
-- This fun bracelet-making crafts set lets young designers practice their creations and share or wear them; easy design inspiration also included
 - This LEGO DOTS set is great on its own or kids can also use Extra DOTS – Series bags or boxes (sold separately) to expand their designs
+- This kids friendship bracelet making kit features 5 adjustable toy bracelets in different colors plus Mickey Mouse & Friends decorated tiles
 - Crafts loving kids can pick the classic red, white and black Mickey style or a more bold, colorful one and then, redesign the set at any time!
+- This fun bracelet-making crafts set lets young designers practice their creations and share or wear them; easy design inspiration also included
+- Kids can lay the colorful LEGO DOTS bracelets out and snap on the Mickey & Friends-decorated tiles to express their mood and creativity
 - This customizable kit with bracelets and colorful tiles is a fun arts and crafts gift for Mickey and Friends fans and all kids aged 6+
 
 [🛒 Check the deal!!]({{< param buyurl >}})

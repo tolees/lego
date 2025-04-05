@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes 2 chairs, one with a hairdryer, a sink, a ************************************************************* desk and a stand plus a park bench with a street light, door signs and a toy scooter.In 2023, the LEGO Friends universe expanded to present a new series of Heartlake City characters and fun locations inspired by childrens passions
-- Kids can accompany Paisley who wants to get a haircut and create a new look, but shes afraid of the result; luckily, Olly is on hand to help!
 - This creative LEGO toy hairdressing set for kids 6+ years old features washing and styling areas plus many cool accessories and 3 mini-dolls
 - Features different hairstyles; young fashion fans can swap Paisley’s hair and facial expression to show different looks from before and after
+- Includes 2 chairs, one with a hairdryer, a sink, a ************************************************************* desk and a stand plus a park bench with a street light, door signs and a toy scooter.In 2023, the LEGO Friends universe expanded to present a new series of Heartlake City characters and fun locations inspired by childrens passions
+- Kids can accompany Paisley who wants to get a haircut and create a new look, but shes afraid of the result; luckily, Olly is on hand to help!
 - Includes Hairdresser Nadia, Paisley and Olly mini-dolls, plants, hair products, *************************************************************, a gumball machine, a sign, a heat lamp and a sweeping brush
 
 [🛒 Buy it!!]({{< param buyurl >}})

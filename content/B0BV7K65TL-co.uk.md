@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kids aged 7+ can bring the adventures of Walt Disney Animation Studios movie Wish to life with the LEGO ǀ Disney Wish Ashas Cottage playset
-- The ground floor of the LEGO house contains a kitchen with a table, smiley-face cake, cabinets with a notebook, plus a spoon and a fork
-- Makes a great kids Christmas gift or any time treat for fans of Disney movies; inspires adventures and takes their imaginations to new levels of play
 - This LEGO ǀ Disney Wish dollshouse building toy for 7+ year old girls and boys combines with others in the series (43223 and 43224, sold separately)
+- Makes a great kids Christmas gift or any time treat for fans of Disney movies; inspires adventures and takes their imaginations to new levels of play
+- The ground floor of the LEGO house contains a kitchen with a table, smiley-face cake, cabinets with a notebook, plus a spoon and a fork
 - Upstairs is a bedroom with a bed and fireplace, while outside there is a wishing well, so kids can make up fun stories inspired by the Wish movie
 - Features Asha, Sakina and Sabino LEGO ǀ Disney Wish mini-dolls, plus a Star figure, as well as a 2-storey toy house with hinged, opening sides
 

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO City Stuntz set features a stunt course with loop, springboard and mechanical chimpanzee stunt prop and a flywheel-powered stunt bike
 - This action toy for kids aged 7+ also includes 3 minifigures; the Stuntz Airborne Elite Pilot and 2 specatators to play-out stunt show action
+- This LEGO stunt racer toy also includes a spectator stand, LEGO flames, plants, a camera, a hot dog and ice cream accessory elements
 - Kids push the toy motorbike to activate the flywheel to ride the loop, jump on the toy ramp and dodge the mechanical chimpanzees smash down
+- This LEGO City Stuntz set features a stunt course with loop, springboard and mechanical chimpanzee stunt prop and a flywheel-powered stunt bike
 - This set can be combined with other toys from the LEGO City Stuntz range: 60331Touring Stunt Bike for even bigger stunt-show extravaganzas
 - LEGO City Stuntz Smashing Chimpanzee Stunt Loop action toy makes a great birthday or any occasion gift for kids aged 7+
-- This LEGO stunt racer toy also includes a spectator stand, LEGO flames, plants, a camera, a hot dog and ice cream accessory elements
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QG1CJY2{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
-- A gift for kids who love wildlife – This LEGO Friends set makes a gift idea for any child aged 6 and up who would love to build their own toy rescue airplane and create their own adventures
-- Sized for young builders – The LEGO Friends Sea Rescue Plane measures over 3.5 in. (9 cm) high, 6.5 in. (17 cm) long and 6 in. (16 cm) wide
-- Let’s tell a story – Kids can act out the drama as Zac discovers the stranded whale while paddleboarding and then calls his mentor, who arrives in the sea rescue plane
+- Accessories for role play – Comes with a life jacket, paddleboard, paddle, walkie-talkies, binoculars, feeding bottle and a wrench to rescue the whale
 - Animal rescue stories for kids aged 6+ – Kids who love sea creatures can enjoy their own rescue adventures as they build and play with this fun LEGO Friends Sea Rescue Plane (41752) set
 - 2 mini-doll characters and accessories – The set comes with LEGO Friends characters Zac and his mentor, Dia. There’s also a white whale character for kids to rescue from the pieces of wood and rocks on the shoreline
-- Accessories for role play – Comes with a life jacket, paddleboard, paddle, walkie-talkies, binoculars, feeding bottle and a wrench to rescue the whale
+- Sized for young builders – The LEGO Friends Sea Rescue Plane measures over 3.5 in. (9 cm) high, 6.5 in. (17 cm) long and 6 in. (16 cm) wide
+- Let’s tell a story – Kids can act out the drama as Zac discovers the stranded whale while paddleboarding and then calls his mentor, who arrives in the sea rescue plane
+- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
+- A gift for kids who love wildlife – This LEGO Friends set makes a gift idea for any child aged 6 and up who would love to build their own toy rescue airplane and create their own adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRDWP3P{{</world>}}

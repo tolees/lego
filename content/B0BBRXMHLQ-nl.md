@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dit leuke LEGO Friends dierenredding speelgoed zal zeker in de smaak vallen bij kinderen vanaf 6 jaar die dol zijn op huisdieren, de natuur en leuke voertuigen
-- Deze speelset is onderdeel van de nieuwe generatie Heartlake City speelgoed voor 2023, met nieuwe LEGO Friends personages en plekken - ontdek nog meer leuke sets, zoals Honden reddingsvoertuig (41741) en Mobiele bubbelthee stand (41733)
-- De LEGO Friends speelgoedkar kan aan de voorkant en aan de achterkant open, om Victoria er samen met de puppy in te zetten, terwijl Aliya de fiets bestuurt om ze thuis te brengen na de dierenreddings-actie
-- Bij de LEGO Friends speelset zijn minipoppetjes inbegrepen van Aliya - een scoutingleider, en haar vriendin Victoria, plus een puppy en accessoires, waaronder voedsel en water voor de pup, een verrekijker, helm, bot, poep, prullenbak en poster
 - Geef kinderen die dol zijn op dieren een leuk cadeautje met deze LEGO Friends Honden reddingsfiets speelset, inclusief een speelgoedfiets met een afneembare kar, een parkgedeelte en een struik die opgetild kan worden om de vermiste puppy te onthullen
 - Er is een puppy vermist in Heartlake City, maar geen zorgen: Aliya en Victoria zijn ermee bezig - kinderen kunnen het spoor van hondenpoep en pootafdrukken volgen en zo LEGO Friends personages helpen om het hondje weer terug te vinden
+- Bij de LEGO Friends speelset zijn minipoppetjes inbegrepen van Aliya - een scoutingleider, en haar vriendin Victoria, plus een puppy en accessoires, waaronder voedsel en water voor de pup, een verrekijker, helm, bot, poep, prullenbak en poster
+- Deze speelset is onderdeel van de nieuwe generatie Heartlake City speelgoed voor 2023, met nieuwe LEGO Friends personages en plekken - ontdek nog meer leuke sets, zoals Honden reddingsvoertuig (41741) en Mobiele bubbelthee stand (41733)
+- Dit leuke LEGO Friends dierenredding speelgoed zal zeker in de smaak vallen bij kinderen vanaf 6 jaar die dol zijn op huisdieren, de natuur en leuke voertuigen
+- De LEGO Friends speelgoedkar kan aan de voorkant en aan de achterkant open, om Victoria er samen met de puppy in te zetten, terwijl Aliya de fiets bestuurt om ze thuis te brengen na de dierenreddings-actie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXMHLQ{{</world>}}

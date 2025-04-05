@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Posable space figures – The astronaut toy has posable legs, feet, arms and fingers, and the space dog has a posable tail and legs for kids to pose
+- Display models – All 3 LEGO space model kits come with brick-built stands and can be displayed as kids bedroom accessories after playtime
 - 3 LEGO space toys in 1 box – Space-loving kids 9+ can build and rebuild 3 different space-themed sets with this LEGO Creator Space Astronaut toy
 - Toys for 9+ year old boys and girls – 3in1 LEGO space building toys offer a fun build-and-play experience and make great gifts for boys and girls
-- Display models – All 3 LEGO space model kits come with brick-built stands and can be displayed as kids bedroom accessories after playtime
 - Endless play possibilities – Kids create daring space adventures with 3 LEGO space sets: an astronaut figure, a space dog, and a space viper jet
 
 [🛒 Buy it!!]({{< param buyurl >}})

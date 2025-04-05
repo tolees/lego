@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This travel size toy set measures over 2 in. (5 cm) high, 5 in. (13 cm) long and 2.5 in. (6 cm) wide, so kids can play with it at home or take it with them on playdates
-- Kids have all they need to relive action from the Indiana Jones and the Last Crusade movie with this LEGO Fighter Plane Chase (77012) playset Indiana Jones plane and car playset –
+- The fighter jet has a propeller, 2 stud shooters and removable wings; the vintage convertible car includes a chest in the back containing an umbrella and a pistol
 - LEGO Indiana Jones toys let parents revel in nostalgia and introduce their children to the action-packed stories of the first 3 movies with a range of playsets
 - Part of the LEGO Indiana Jones toys adventures series, look for the other sets included in the collection: Escape from the Lost Tomb (77013) and Temple of the Golden Idol (77015)
 - Gift idea for 8+ year old kids, boys, and girls who are looking for adventure. This 387-piece action toy can be given as a birthday or holiday gift and lets kids enjoy a build-and-play experience with their parents or friends
-- The fighter jet has a propeller, 2 stud shooters and removable wings; the vintage convertible car includes a chest in the back containing an umbrella and a pistol
+- Kids have all they need to relive action from the Indiana Jones and the Last Crusade movie with this LEGO Fighter Plane Chase (77012) playset Indiana Jones plane and car playset –
 - The building kit comes with 3 minifigures, including the iconic Indiana Jones with his famous hat and whip. The playset also comes with Indys father, Professor Henry Jones Sr. with his diary and a fighter pilot to fly the airplane toy
+- This travel size toy set measures over 2 in. (5 cm) high, 5 in. (13 cm) long and 2.5 in. (6 cm) wide, so kids can play with it at home or take it with them on playdates
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BLJ3VWXJ{{</world>}}

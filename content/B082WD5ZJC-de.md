@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Anzahl der Teile: 493
-- In Arishems Schatten
 - Enthält 4 Eternals-Superhelden-Minifiguren: Ikaris, Sersi und exklusiv Ajak and Kingo, eine Deviant-Figur und eine bewegliche Celestial-Figur
-- Vom Hersteller empfohlenes Alter: 7+
+- In Arishems Schatten
 - Die große Celestial-Figur hat eine leuchtende Brust mit einem Leuchtstein und Arme, die zugreifen können – sie kann eine Eternal-Minifigur in ihren Händen halten
+- Vom Hersteller empfohlenes Alter: 7+
+- Anzahl der Teile: 493
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B082WD5ZJC{{</world>}}

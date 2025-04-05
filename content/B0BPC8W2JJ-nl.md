@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - De Ninja speelset wordt geleverd met 5 LEGO NINJAGO mini figuren: ninjameester Lloyd en zijn leerling Arin, die het kunnen opnemen tegen Rapton, Imperium gardecommandant en Imperium klauwgeneraal
+- Ontdek ook Soras transformerende mecharacemotor (71792), Tempel van de drakenenergiekernen (71795) en andere spannende sets in het LEGO NINJAGO assortiment
 - Kleine ninjas kunnen opwindende trainings- en gevechtsscènes verzinnen of naspelen met deze nooit eerder vertoonde bouwset met NINJAGO mecha actiefiguren van ninjameester Lloyd en zijn leerling Arin
 - Voor het eerst kunnen kinderen 2 mecha samenvoegen tot 1 grotere en zwaar bewapende mecha, door Arins mecha op de borst van Lloyds mecha te bevestigen en zich klaarmaken voor de strijd met het kwaadaardige trio van Rapton
 - Deze 764-delige speelset laat gepassioneerde ninja-fans genieten van een leuk bouwproject voordat ze het opnemen tegen het kwaad, en kan worden gegeven als verjaardagscadeau aan kinderen vanaf 9 jaar
 - Laat fans van de NINJAGO Dragons Rising tv-serie scènes vol actie naspelen met deze NINJAGO Lloyd en Arins ninjateammecha set, een unieke 2in1 gevechtsset met actiefiguren
-- Ontdek ook Soras transformerende mecharacemotor (71792), Tempel van de drakenenergiekernen (71795) en andere spannende sets in het LEGO NINJAGO assortiment
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC8W2JJ{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4-cilindermotor – deze speelgoed auto heeft authentieke details die zijn geïnspireerd op echte racebuggys, waaronder een bewegende 4-cilindermotor
-- Auto cadeau voor kinderen – deze set is een leuke traktatie of cadeau voor jongens, meisjes en kinderen die van voertuigen of LEGO auto bouwpakketten houden
 - Speelgoed voor kinderen vanaf 8 jaar – fans van raceautos kunnen veel plezier beleven aan het bouwen en spelen met de LEGO Technic Offroad racebuggy voor jongens en meisjes die van rally auto speelgoed houden
+- Auto cadeau voor kinderen – deze set is een leuke traktatie of cadeau voor jongens, meisjes en kinderen die van voertuigen of LEGO auto bouwpakketten houden
 - Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- 4-cilindermotor – deze speelgoed auto heeft authentieke details die zijn geïnspireerd op echte racebuggys, waaronder een bewegende 4-cilindermotor
 - Besturing en vering – kinderen stellen hun modelauto op de proef terwijl ze de achtervering en de flexibele besturing uitproberen, waardoor de speelgoed buggy behendig heen en weer kan kantelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

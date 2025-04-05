@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Ce jouet de moto constitue un excellent cadeau pour les enfants de 5 ans et plus fans de véhicules, de vitesse ou encore de cascades
 - Ce jouet LEGO City Stuntz pour les enfants de 5 ans et plus comprend un jouet de moto à rétro-friction pour réaliser des cascades et la minifigurine Stuntz du Scorpion Téméraire avec son casque à cornes et son scorpion
 - Les enfants vont découvrir le plaisir de construire dès lâge de 5 ans grâce à ce guide de montage imprimé, illustré et facile à suivre
 - Combinez cette moto de cascade avec dautres ensembles de la gamme LEGO City Stuntz pour des cascades encore plus impressionnantes
-- Ce jouet de moto constitue un excellent cadeau pour les enfants de 5 ans et plus fans de véhicules, de vitesse ou encore de cascades
 - Les enfants peuvent pousser la moto à cascade pour activer la roue de rétro-friction, puis la relâcher pour effectuer des backflips et des figures aériennes de folie
 
 [🛒 Buy it!!]({{< param buyurl >}})

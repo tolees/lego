@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- The LEGO City Skate Park toy for kids aged 6+ features a reconfigurable skate park, lots of skating equipment and 4 minifigures for fun stunts
 - This LEGO City Street Skate Park playset makes a fun any-time toy treat or birthday gift idea for kids, boys and girls aged 6 plus years old
 - The set features ramps which can be combined for different park configurations plus a BMX toy bike, mini skateboard, scooter and toy in-line skates
 - The playset also includes a LEGO Road Plate for connection to other sets (sold seperately) in the LEGO City range of building toys
 - Comes with 4 skater LEGO City minifigures plus protective gear and equipment accessories for kids to perform all kinds of cool skating stunts
-- The LEGO City Skate Park toy for kids aged 6+ features a reconfigurable skate park, lots of skating equipment and 4 minifigures for fun stunts
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCBF783{{</world>}}

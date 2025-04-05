@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The LEGO Builder app guides your child on an intuitive building adventure with tools to zoom in and rotate models in 3D, track progress and save sets
 - 9 Sonic the Hedgehog characters: a Sonic figure, an Amy figure, a Flicky, Becky, Pocky, Pecky and Dr. Eggman, plus Badniks Chopper and Newtron
+- Kids can build the course, which includes ramps and obstacles, then use the speed sphere to send Sonic through the loop-de-loop and the big ring
 - The LEGO Sonic the Hedgehog: Sonics Green Hill Zone Loop Challenge toy playset for kids aged 8+ features a buildable game and 9 iconic characters
 - This LEGO Sonic the Hedgehog building toy makes a fun birthday gift or any-other-day toy treat for kids, boys and girls aged 8 plus who love gamer toys and imaginative play
+- The LEGO Builder app guides your child on an intuitive building adventure with tools to zoom in and rotate models in 3D, track progress and save sets
 - This Sonic LEGO set can be played in two ways, after sending Sonic through the course, kids can create stories caring for the rescued animals
-- Kids can build the course, which includes ramps and obstacles, then use the speed sphere to send Sonic through the loop-de-loop and the big ring
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CW1V2{{</world>}}

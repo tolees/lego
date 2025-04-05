@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De speelgoed vliegtuig set wordt geleverd met LEGO Friends mini poppetjes Zac en zijn mentor Dia, plus een walvis speelgoed figuur die kinderen kunnen redden vanaf de kustlijn
 - Voor nog meer avonturen kunnen kinderen deze set combineren met LEGO Friends dierenreddingssets 41736 en 41734 (apart verkrijgbaar) voor meer rollenspel en bouwplezier
-- Kinderen kunnen hun creativiteit de vrije loop laten en genieten van hun eigen zeedieren reddingsavonturen terwijl ze bouwen en spelen met deze leuke LEGO Friends Reddingsvliegtuig op zee speelgoed set
+- Deze vliegtuig speelset is een fantastisch cadeau voor meisjes en jongens van 6+ jaar die van dieren en LEGO voertuigen houden
+- De speelgoed vliegtuig set wordt geleverd met LEGO Friends mini poppetjes Zac en zijn mentor Dia, plus een walvis speelgoed figuur die kinderen kunnen redden vanaf de kustlijn
 - Het zeedieren speelgoed voor kinderen vanaf 6 jaar bevat ook een reddingsvest, peddelplank, peddel, walkietalkies, verrekijker, zuigfles en een sleutel om de walvis te redden
 - Vergroot de creatieve ervaring met de LEGO Builder app, waar kleine bouwers kunnen inzoomen en modellen in 3D kunnen draaien, sets kunnen opslaan en hun voortgang kunnen bijhouden
-- Deze vliegtuig speelset is een fantastisch cadeau voor meisjes en jongens van 6+ jaar die van dieren en LEGO voertuigen houden
+- Kinderen kunnen hun creativiteit de vrije loop laten en genieten van hun eigen zeedieren reddingsavonturen terwijl ze bouwen en spelen met deze leuke LEGO Friends Reddingsvliegtuig op zee speelgoed set
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCDVL5J{{</world>}}

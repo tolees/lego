@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zubehör für spannende Geschichten: Das Musikspielzeug beinhaltet Mikrofone, Getränke, Cupcakes, ein Geschenk, Blumen, Konzertkarten und Luftballons
 - Feiere eine Karaoke-Party: Die LEGO Friends Karaoke-Party ist ein kleines Friends LEGO Set für Mädchen und Jungen ab 6 Jahren, das 2 LEGO Friends Figuren, einen Gecko, eine drehbare Bühne und jede Menge Zubehör beinhaltet
+- Drehbare Bühne für tolle Geschichten: Auf der drehbaren Bühne kann dein Kind die Minipuppen abwechselnd auftreten lassen, um Lianns Geburtstagsparty darzustellen
+- Geschenkidee für Kinder: Dieses Kinderspielzeug ist ein lustiges Geschenk für Mädchen und Jungen, die beim Spielen gern singen und Musikrollenspiele lieben
 - Bausatz für fantasievolle Kinder: Schau dir auch die anderen faszinierenden (separat erhältlichen) LEGO Friends Sets an, die junge Baumeister kreativ spielen lassen
 - Mini-Puppen-Set mit 2 Charakteren: Der Baukasten für Kinder beinhaltet die LEGO Friends Minipuppen Nova und Liann sowie einen Gecko, damit dein Kind sofort kreativ spielen kann
-- Geschenkidee für Kinder: Dieses Kinderspielzeug ist ein lustiges Geschenk für Mädchen und Jungen, die beim Spielen gern singen und Musikrollenspiele lieben
-- Drehbare Bühne für tolle Geschichten: Auf der drehbaren Bühne kann dein Kind die Minipuppen abwechselnd auftreten lassen, um Lianns Geburtstagsparty darzustellen
+- Zubehör für spannende Geschichten: Das Musikspielzeug beinhaltet Mikrofone, Getränke, Cupcakes, ein Geschenk, Blumen, Konzertkarten und Luftballons
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ4TT9{{</world>}}

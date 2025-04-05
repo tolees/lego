@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This collectible LEGO Marvel buildable toy is a great birthday Avengers gift for 6+ year old kids, boys, girls and all young superheroes
-- The buildable Avengers toy playset includes Captain America and Black Widow minifigures with their shield and baton, plus 2 buildable toy motorbikes
+- Both motorbike toys are equipped with side-shooters to fend off bad guys, plus the super hero minifigures can be easily removed from the bikes
 - LEGO Marvel Black Widow & Captain America Motorcycles building toy brings to life a classic scene from Marvel Studios Avengers: Age of Ultron
 - Young superheroes will love recreating high speed action from Marvel Studios Avengers: Age of Ultron or coming up with their own adventures
-- Both motorbike toys are equipped with side-shooters to fend off bad guys, plus the super hero minifigures can be easily removed from the bikes
+- This collectible LEGO Marvel buildable toy is a great birthday Avengers gift for 6+ year old kids, boys, girls and all young superheroes
+- The buildable Avengers toy playset includes Captain America and Black Widow minifigures with their shield and baton, plus 2 buildable toy motorbikes
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPC2WMD1{{</world>}}

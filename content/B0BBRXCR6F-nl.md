@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief LEGO Friends minipoppetjes van Nova en Matilde, plus talloze accessoires: slagroom, 2 bubbeltheeflesjes, een kassa en een tafel, plus een leuke mascotte met een menukaart
-- Laat kinderen kennismaken met de nieuwe generatie van Heartlake City: in 2023 is het LEGO Friends universum uitgebreid met nieuwe personages en leuke avonturen
-- Het dak van het LEGO voertuig kan open, zodat kinderen de binnenkant kunnen bekijken waar de bubbelthee gemaakt wordt; binnen vinden ze ook een machine om de ingrediënten te mixen
-- Deze set met creatief speelgoed is een fantastisch cadeau voor meisjes en jongens vanaf 6 jaar die dol zijn op bubbelthee en winkeltje spelen; verras ze met deze leuke speelset voor hun verjaardag of een andere speciale gelegenheid
 - Als kinderen de bubbelthee creaties naar nog meer klanten in Heartlake City willen brengen, kunnen ze de speelgoedscooter eenvoudig aan de kraam vastmaken, zodat ze naar de volgende locatie kunnen rijden
 - Ontdek het nieuwste en hipste drankje van de stad met deze LEGO Friends Mobiele bubbelthee stand speelset voor kinderen vanaf 6 jaar, met een mobiele kraam, een elektrische speelgoedscooter en een heleboel accessoires voor leuke rollenspellen
+- Deze set met creatief speelgoed is een fantastisch cadeau voor meisjes en jongens vanaf 6 jaar die dol zijn op bubbelthee en winkeltje spelen; verras ze met deze leuke speelset voor hun verjaardag of een andere speciale gelegenheid
+- Inclusief LEGO Friends minipoppetjes van Nova en Matilde, plus talloze accessoires: slagroom, 2 bubbeltheeflesjes, een kassa en een tafel, plus een leuke mascotte met een menukaart
+- Het dak van het LEGO voertuig kan open, zodat kinderen de binnenkant kunnen bekijken waar de bubbelthee gemaakt wordt; binnen vinden ze ook een machine om de ingrediënten te mixen
+- Laat kinderen kennismaken met de nieuwe generatie van Heartlake City: in 2023 is het LEGO Friends universum uitgebreid met nieuwe personages en leuke avonturen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXCR6F{{</world>}}

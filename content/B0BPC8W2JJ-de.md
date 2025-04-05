@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kinder können 2 Mechs zu einem größeren und schwer bewaffneten Mech verschmelzen, indem sie Arins Mech an der Brust von Lloyds Mech befestigen, um sich epische Schlachten mit dem bösen Trio von Rapton zu liefern
+- Fans der Fernsehserie NINJAGO Dragons Rising können mit dem NINJAGO Lloyds und Arins Training-Mechs, einem einzigartigen 2-in-1 Kampfspielset, actiongeladene Szenen nachspielen
+- Kleine Ninjas können aufregende Trainings- und Kampfszenen nachspielen mit diesem noch nie dagewesenen Baukasten mit den beweglichen NINJAGO Actionfiguren von Ninja-Meister Lloyd und seinem Schüler Arin
 - Das Ninja-Spielset kommt mit 5 LEGO NINJAGO Minifiguren: Ninja-Meister Lloyd und sein Schüler Arin, die gegen Rapton, den Kaiserlichen Wachkommandanten und den Kaiserlichen Klauengeneral kämpfen
 - Mit diesem 764-teiligen Ninja-Spielzeug können leidenschaftliche Ninja-Fans mit viel Spaß bauen, bevor sie es mit den Mächten des Bösen aufnehmen, und es ist ein tolles Geschenk für Kinder
+- Kinder können 2 Mechs zu einem größeren und schwer bewaffneten Mech verschmelzen, indem sie Arins Mech an der Brust von Lloyds Mech befestigen, um sich epische Schlachten mit dem bösen Trio von Rapton zu liefern
 - Halte Ausschau nach Soras Mech-Bike (71792), Tempel der Drachenpower (71795) und anderen Sets aus dem LEGO NINJAGO Sortiment
-- Kleine Ninjas können aufregende Trainings- und Kampfszenen nachspielen mit diesem noch nie dagewesenen Baukasten mit den beweglichen NINJAGO Actionfiguren von Ninja-Meister Lloyd und seinem Schüler Arin
-- Fans der Fernsehserie NINJAGO Dragons Rising können mit dem NINJAGO Lloyds und Arins Training-Mechs, einem einzigartigen 2-in-1 Kampfspielset, actiongeladene Szenen nachspielen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC8W2JJ{{</world>}}

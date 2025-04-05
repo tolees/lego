@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This iconic, build-and-play LEGO Disneys Beauty and The Beast building toy brings fairy-tale magic & developmental fun for preschool kids
 - This play set for little princesses and princes ages 2 and up lets their parents join in and share their precious developmental milestones
 - There are many ways to play, kids can reconfigure this versatile Disney Belles Ballroom set to inspire even more imaginative play
+- This iconic, build-and-play LEGO Disneys Beauty and The Beast building toy brings fairy-tale magic & developmental fun for preschool kids
 - Toddlers dress Princess Belle mini doll in her golden fabric gown, then turn the ballroom floor to make Belle dance with her enchanted friends
 - Features a Princess castles ballroom toy for girls and boys ages 2+ years old to recreate magical movie moments from Disney’s Beauty and the Beast
 

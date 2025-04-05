@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can change the setup of this Marvel building toy, interact with the super heroes to recreate favourite moments or play out their own adventure
-- A perfect Marvel gift idea for fans of Guardians of the Galaxy Volume 3, a toy to celebrate a special day or any time treat for kids aged 7+
-- The LEGO Marvel set comes with tools and accessories inside the base, and a table where the Marvel super heroes can plan their next mission
-- This LEGO Marvel buildable toy features the Guardians of the Galaxy Headquarters for kids to recreate action from Guardians of the Galaxy Volume 3
 - Includes 2 iconic characters; Groot and Star-Lord LEGO Marvel minifigures with their tools and weapons for kids to relive scenes from the movie
+- The LEGO Marvel set comes with tools and accessories inside the base, and a table where the Marvel super heroes can plan their next mission
+- A perfect Marvel gift idea for fans of Guardians of the Galaxy Volume 3, a toy to celebrate a special day or any time treat for kids aged 7+
+- Kids can change the setup of this Marvel building toy, interact with the super heroes to recreate favourite moments or play out their own adventure
+- This LEGO Marvel buildable toy features the Guardians of the Galaxy Headquarters for kids to recreate action from Guardians of the Galaxy Volume 3
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSB69YX{{</world>}}

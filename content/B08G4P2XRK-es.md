@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Juguete interactivo que se abre para mostrar una pantalla y asientos, se puede sostener un smartphone o una tableta contra la pantalla para proyectar películas en el mundo real
 - Este set incluye 3 mini muñecas: Andrea, Amelia y Julián, una taquilla, zona de alfombra roja y un baño para los niños mientras ven el estreno
-- Cine de Heartlake City
+- Juguete interactivo que se abre para mostrar una pantalla y asientos, se puede sostener un smartphone o una tableta contra la pantalla para proyectar películas en el mundo real
 - Número de piezas: 451
+- Cine de Heartlake City
 - Edad recomendada por el fabricante: 7+
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Die große Dinosaurier-Figur ist komplett gelenkig an Hals, Beinen und Maul, welches zum Fressen der Blätter des baubaren Baums verwendet werden kann
-- Mit dem LEGO Jurassic Park Dinosaurier-Spielzeug für Jungen und Mädchen können Kinder Szenen aus den Filmen und Zeichentrickserien nachspielen, einzigartige Geschichten erfinden oder die Modelle einfach ausstellen
 - Der LEGO Baum verfügt über eine Aussichtsplattform für bis zu 3 Minifiguren und abnehmbaren Blättern, die zum "Füttern" des Brachiosaurus verwendet werden können, sowie über ein Warnschild neben dem Baum
 - Kinder können das authentisch detaillierte LEGO Jurassic Park Jeep-Spielzeug mit Platz für die 3 Minifiguren bauen, die in denselben Positionen sitzen/stehen können wie in der Szene, als sie den Brachiosaurus zum ersten Mal sehen
-- Erlebe die Enthüllung des Brachiosaurus – ein klassischer Jurassic Park-Moment – mit diesem Set, das einen Spielzeug-Jeep Wrangler, einen Baum und die bisher größte LEGO Dinosaurier-Spielzeugfigur enthält!
+- Mit dem LEGO Jurassic Park Dinosaurier-Spielzeug für Jungen und Mädchen können Kinder Szenen aus den Filmen und Zeichentrickserien nachspielen, einzigartige Geschichten erfinden oder die Modelle einfach ausstellen
 - Zur Feier des 30-jährigen Jubiläums des Jurassic Park-Films enthält dieses Set ikonische Figuren - Dr. Alan Grant, Dr. Ellie Sattler und John Hammond LEGO Minifiguren
+- Die große Dinosaurier-Figur ist komplett gelenkig an Hals, Beinen und Maul, welches zum Fressen der Blätter des baubaren Baums verwendet werden kann
+- Erlebe die Enthüllung des Brachiosaurus – ein klassischer Jurassic Park-Moment – mit diesem Set, das einen Spielzeug-Jeep Wrangler, einen Baum und die bisher größte LEGO Dinosaurier-Spielzeugfigur enthält!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPC9M14K{{</world>}}

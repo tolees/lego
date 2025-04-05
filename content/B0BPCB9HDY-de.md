@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das Ninja-Spielzeug enthält außerdem 2 Wasserhindernisse und einen sammelbaren goldenen Drachenenergiekern in einer Schale, den Dragon Power Nya gewinnen muss
-- Die Kinder können NINJAGO Nya in den mit 3 exklusiven blauen Drachenpowerelementen verzierten Spinner setzen, ihn nach unten drücken und beobachten, wie sie sich dreht und treibt
-- Ninja-Fans ab 6 Jahren können Drachenpower-Nya mit diesem LEGO NINJAGO Nyas Dragon Power Spinjitzu Drift Spinnspielzeug helfen, einen Wasserhindernisparcours zu bewältigen
-- Dieses sammelbare Spielzeug eignet sich als Geburtstagsgeschenk oder als kleines Geschenk für Kinder ab 6 Jahren, die Ninja-Spinnspielzeug lieben
 - Das aufrollbare Spielzeug enthält eine LEGO NINJAGO Drachenpower-Nya Minifigur und einen Kaiserlichen Droiden mit einem Stab, der herumtaumeln und umkippen kann, wenn er getroffen wird
+- Die Kinder können NINJAGO Nya in den mit 3 exklusiven blauen Drachenpowerelementen verzierten Spinner setzen, ihn nach unten drücken und beobachten, wie sie sich dreht und treibt
+- Das Ninja-Spielzeug enthält außerdem 2 Wasserhindernisse und einen sammelbaren goldenen Drachenenergiekern in einer Schale, den Dragon Power Nya gewinnen muss
+- Dieses sammelbare Spielzeug eignet sich als Geburtstagsgeschenk oder als kleines Geschenk für Kinder ab 6 Jahren, die Ninja-Spinnspielzeug lieben
 - Halte Ausschau nach 2 weiteren NINJAGO Action-Spielzeugen für Kinder ab 6 Jahren: Kais Drachenpower-Spinjitzu-Flip (71777) und Lloyds Drachenpower-Spinjitzu-Spin (71779) und vervollständige das Set!
+- Ninja-Fans ab 6 Jahren können Drachenpower-Nya mit diesem LEGO NINJAGO Nyas Dragon Power Spinjitzu Drift Spinnspielzeug helfen, einen Wasserhindernisparcours zu bewältigen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCB9HDY{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief 3 mini poppetjes van LEGO Friends personages Savannah, Emma en Elijah, plus allerlei accessoires voor het paardrijden, zoals zadels, teugels, hindernis balken, helmen en medailles
-- De speelgoed auto met trekhaak heeft deuren die open kunnen en een dak dat open kan om de minipoppetjes in de auto te plaatsen, de trailer heeft twee openingen aan de zijkant, zodat de paarden hun hoofd naar buiten kunnen steken
 - Dit leuke paarden speelgoed bestaat uit een terreinwagen met trekhaak een paardentrailer, 3 LEGO Friends minipoppetjes, dierenfiguren van een hond en 2 paarden, en allerlei paardrij-accessoires, voor urenlang speelplezier bij de dressuurwedstrijd
-- Dit LEGO Friends speelgoed vol leuke verrassingen is een geweldig zomaar cadeau, verjaardagscadeau of kerstcadeau voor meisjes en jongens vanaf 8 jaar die van paarden of realistische voertuigen houden
+- Inclusief 3 mini poppetjes van LEGO Friends personages Savannah, Emma en Elijah, plus allerlei accessoires voor het paardrijden, zoals zadels, teugels, hindernis balken, helmen en medailles
 - Wanneer kinderen het dak van de trailer open doen vinden ze een slaapcompartiment - aan de achterkant is een ruimte voor de paardrijspullen en een trofeeënkast en aan de zijkant van de trailer is plek voor de twee speelgoed paarden
+- De speelgoed auto met trekhaak heeft deuren die open kunnen en een dak dat open kan om de minipoppetjes in de auto te plaatsen, de trailer heeft twee openingen aan de zijkant, zodat de paarden hun hoofd naar buiten kunnen steken
+- Dit LEGO Friends speelgoed vol leuke verrassingen is een geweldig zomaar cadeau, verjaardagscadeau of kerstcadeau voor meisjes en jongens vanaf 8 jaar die van paarden of realistische voertuigen houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09RGGDQDD{{</world>}}

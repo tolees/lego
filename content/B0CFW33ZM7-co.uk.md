@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Building toy for kids – The LEGO Star Wars set includes a small scenery build from the Star Wars: The Mandalorian Jedi Temple flashback scene
-- LEGO Star Wars BARC speeder – Star Wars: The Mandalorian fans can recreate the BARC Speeder escape flashback scene from Season 3 with this LEGO set
-- 4 Star Wars characters – Kelleran Beq with blue and green lightsabers, and 2 501st Clone Troopers with blasters, plus a Grogu LEGO Star Wars figure
+- Intuitive instructions – Using the LEGO Builder app, kids can zoom, rotate and visualise a digital version of this construction model as they build
 - Buildable Star Wars BARC speeder bike toy – Features a minifigure cockpit, 2 stud shooters and a detachable sidecar with space for Grogu’s hoverpram
+- LEGO Star Wars BARC speeder – Star Wars: The Mandalorian fans can recreate the BARC Speeder escape flashback scene from Season 3 with this LEGO set
+- Building toy for kids – The LEGO Star Wars set includes a small scenery build from the Star Wars: The Mandalorian Jedi Temple flashback scene
+- 4 Star Wars characters – Kelleran Beq with blue and green lightsabers, and 2 501st Clone Troopers with blasters, plus a Grogu LEGO Star Wars figure
 - Gift idea for kids – This LEGO Star Wars BARC Speeder building toy makes a fun anytime treat or Star Wars-themed birthday gift for 8+ year-old boys, girls and any Star Wars: The Mandalorian fan or collector
 - Collectible Star Wars building toys for kids and all ages – LEGO Star Wars sets allow kids and adult fans to relive iconic scenes, create their own stories or simply display the buildable models
-- Intuitive instructions – Using the LEGO Builder app, kids can zoom, rotate and visualise a digital version of this construction model as they build
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW33ZM7{{</world>}}

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Ninja Training Centre
+- Number of pieces: 524
 - Manufacturer recommended age: 7+
 - LEGO NINJAGO spin toy puts the ninja through challenges, including going down a slide, jumping over a snake pit and fighting a dummy mech
-- Number of pieces: 524
-- Ninja Training Centre
 - This ninja action toy includes LEGO NINJAGO Zane and Jay minifigures, both with swords, & Boa Destructor minifigure with his own large sword
 
 [🛒 Check the deal!!]({{< param buyurl >}})

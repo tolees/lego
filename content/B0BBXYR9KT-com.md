@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fans of Ninja game Rich LEGO Ninjago set as a birthday gift or anytime treat toy for boys and girls aged 7 and over. Check out other LEGO Ninjago figures in Lloyds Mech Battle EVO (71781), Kais Mech Rider EVO (71783) or Jays Lightning Jet EVO (71784)
-- Bone Scorpion rides into battle on the included 6-legged action toy creature; when kids win, they receive a collectible banner
-- Children can recreate exciting battles with this movable LEGO Ninjago Cole Earth Dragon toy figure set that can be upgraded during the action
 - Includes 2 LEGO Ninjago minminminminuren: Cole with a golden katana and a mallet and bone scorpion with a scythe and a bone warrior set
+- Fans of Ninja game Rich LEGO Ninjago set as a birthday gift or anytime treat toy for boys and girls aged 7 and over. Check out other LEGO Ninjago figures in Lloyds Mech Battle EVO (71781), Kais Mech Rider EVO (71783) or Jays Lightning Jet EVO (71784)
+- Children can recreate exciting battles with this movable LEGO Ninjago Cole Earth Dragon toy figure set that can be upgraded during the action
+- Bone Scorpion rides into battle on the included 6-legged action toy creature; when kids win, they receive a collectible banner
 - The dragon toy has a movable body, head and legs as well as space for Cole on the back and can be upgraded by adding golden wings, horns and a tail
 
 [🛒 Check the deal!!]({{< param buyurl >}})

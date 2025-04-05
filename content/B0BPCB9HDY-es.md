@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Este resistente set de juego viene también con 2 obstáculos de agua y un núcleo de energía de dragón dorado en un cuenco que el Poder del Dragón de Nya debe conseguir
-- Busca otros 2 juguetes de acción más de NINJAGO para niños a partir de 6 años: Spinjitzu Flip el Poder del Dragón de Kai (71777) y Spinjitzu Spin el Poder del Dragón de Lloyd (71779)para completar el set
 - Los fans ninja a partir de 6 pueden ayudar al Poder del Dragón de Nya a navegar entre los obstáculos de la carrera con este juguete giratorio LEGO NINJAGO Spinjitzu el Poder del Dragón de Nya
 - El juguete coleccionable viene con una minifigura del Poder del Dragón de Nya de LEGO NINJAGO, más una figura de un Droide del Imperio con un bastón que puede zarandear y voltear cuando le golpean
 - Los niños pueden colocar el Poder del Dragón de Nya dentro del spinner adornado con 3 elementos exclusivos de dragón azul, apretar y ver como gira y flota
+- Este resistente set de juego viene también con 2 obstáculos de agua y un núcleo de energía de dragón dorado en un cuenco que el Poder del Dragón de Nya debe conseguir
+- Busca otros 2 juguetes de acción más de NINJAGO para niños a partir de 6 años: Spinjitzu Flip el Poder del Dragón de Kai (71777) y Spinjitzu Spin el Poder del Dragón de Lloyd (71779)para completar el set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCB9HDY{{</world>}}

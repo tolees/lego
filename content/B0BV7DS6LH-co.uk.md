@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - The rock elements can be stacked; kids can ride the rhino toy with LEGO Super Mario characters to hit the rocks and reveal a hidden banana element
 - A great expansion set for kids to expand their LEGO Super Mario building toy world; a fun birthday gift to delight kids, boys and girls aged 7+
 - Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
-- LEGO Super Mario Rambi the Rhino Set features a toy animal figure for play with LEGO Super Mario Starter Course characters (figures not included)
 - Kids smash the rhino to trigger digital reaction with LEGO Super Mario figures; Starter Course 71360, 71387 or 71403 is required for interactive play
+- LEGO Super Mario Rambi the Rhino Set features a toy animal figure for play with LEGO Super Mario Starter Course characters (figures not included)
 - LEGO Super Mario expansion packs allow fans to expand, rebuild and customise their levels for extended play and fun collecting coins
 
 [🛒 Buy it!!]({{< param buyurl >}})

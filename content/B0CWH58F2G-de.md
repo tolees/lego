@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Intuitive Anleitung: Die LEGO Builder App bietet ein intuitives Bauabenteuer; Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
+- Bau- und Spielset mit vielen Funktionen: Dieses faszinierende LEGO Sonic Spielset strotzt vor Funktionen für viele spannende Geschichten: Geschwindigkeitskugel-Katapult, Bohrfahrzeug mit drehbarer Bohrspitze und zusammenbrechende Labormauer
 - Tolles Geschenk für Gamer: Dieses Super Sonic Spielzeug ist ein tolles Geschenk, das Kinder gern ihren Freunden zeigen werden; Sie können das Set selbständig bauen und dann für bekannte Abenteuer oder fantasievolle eigene Rollenspiele benutzen
 - Kinderspielzeug mit Super Sonic: Super Sonic vs. Egg Drillster ist ein Abenteuer-Spielset, das Jungen, Mädchen und Fans ab 8 Jahren viele Abenteuer mit ihren Lieblingscharakteren aus dem Videospiel darstellen lässt
-- Bau- und Spielset mit vielen Funktionen: Dieses faszinierende LEGO Sonic Spielset strotzt vor Funktionen für viele spannende Geschichten: Geschwindigkeitskugel-Katapult, Bohrfahrzeug mit drehbarer Bohrspitze und zusammenbrechende Labormauer
 - Sammlerset zum Videospiel: Das Action-Set beinhaltet unter anderem einen Egg Drillster mit Dock für das abtrennbare Schwebemobil, ein Geschwindigkeitskugel-Katapult, ein Labor mit zusammenbrechender Mauer, 3 Minifiguren und 4 weitere Charaktere
+- Intuitive Anleitung: Die LEGO Builder App bietet ein intuitives Bauabenteuer; Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
 - LEGO Sonic Spielzeuge: Alle LEGO Sonic the Hedgehog Spielsets lassen Kinder selbstständig mit verschiedenen Charakteren spielen und unzählige ebenso fantasievolle wie actionreiche Abenteuer darstellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

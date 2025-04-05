@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Batcave toy for kids – The Batcave with Batman, Batgirl & The Joker toy is packed with play scenarios to engage 4-plus-year-old boys and girls
 - Batman toy – The Batcave toy’s flip-switch catapult, ‘exploding’ jail doors, disc launcher and authentic accessories make this an endlessly fun set
 - Preschool Batman set – LEGO sets for kids aged 4+ introduce children to a universe of film favourites, TV characters and everyday heroes
+- Batcave toy for kids – The Batcave with Batman, Batgirl & The Joker toy is packed with play scenarios to engage 4-plus-year-old boys and girls
 - 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 - Fun Batman collectibles – Accessories include a Batarang, hot dog and a glow-in-the-dark spider that glimmers in the dark prison cell
-- Super-hero toys – Includes a car toy, Batwing aircraft and LEGO Batman, Batgirl and The Joker minifigures, plus a large chassis Starter Brick
 - Batman gift for kids – With a Starter Brick and simple building steps, this Batcave toy makes a fun birthday gift for 4+-year-old boys and girls
+- Super-hero toys – Includes a car toy, Batwing aircraft and LEGO Batman, Batgirl and The Joker minifigures, plus a large chassis Starter Brick
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3QFZ6{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Toddlers can weigh the toy food with the scales, pay with the coins in different values, then take their toy shop home in a textile tote bag
+- Encourages interactive play between toddlers and grown-ups as they role-play the customer or the stallholder selling fruit and vegetable toys
 - This LEGO DUPLO educational learning toy helps toddlers to recognise numbers, hone their balance skills and learn about healthy food as they play
 - This educational learning toy for toddlers aged 1.5 - 3 years old features fruit and vegetable stacking toys, scales, 3 coins and a fabric tote
-- Encourages interactive play between toddlers and grown-ups as they role-play the customer or the stallholder selling fruit and vegetable toys
 - Includes toy food: watermelon, lemon, radish and strawberry, with different fun expressions; kids can learn about balance as they stack the toys
+- Toddlers can weigh the toy food with the scales, pay with the coins in different values, then take their toy shop home in a textile tote bag
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRYNNF7{{</world>}}

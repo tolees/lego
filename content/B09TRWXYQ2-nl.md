@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bij deze creatieve set met constructie speelgoed zijn een 6x6 flexibele rode stitch-on patch, talloze fel gekleurde steentjes, en versierde steentjes met opdruk van Disneys Mickey en Minnie Mouse inbegrepen
-- Met deze DIY knutselset kunnen kinderen vanaf 8 jaar hun eigen badges maken door steentjes op de patch vast te klikken; ze kunnen de mozaïek-achtige ontwerpen kunnen steeds weer opnieuw indelen om hun stemming en stijl te laten zien
 - Deze LEGO DOTS knutselset bevat een stitch-on patch die kinderen kunnen versieren met steentjes met opdruk of verschillende kleuren, en die ze aan vrijwel elke stof kunnen vastnaaien
 - Dit creatieve speelgoed is een cool cadeau voor kinderen die weg zijn van Disneys Mickey en Minnie mouse en leuke activiteiten - het kan worden gecombineerd met iedere LEGO DOTS Extra DOTS set (apart verkrijgbaar) voor nog meer ontwerpmogelijkheden
 - Ze kunnen de patch vervolgens worden vastnaaien aan een kledingstuk, een accessoire of bijna iedere stof (naald en draad niet inbegrepen) om een unieke draai te geven aan hun outfit
+- Bij deze creatieve set met constructie speelgoed zijn een 6x6 flexibele rode stitch-on patch, talloze fel gekleurde steentjes, en versierde steentjes met opdruk van Disneys Mickey en Minnie Mouse inbegrepen
+- Met deze DIY knutselset kunnen kinderen vanaf 8 jaar hun eigen badges maken door steentjes op de patch vast te klikken; ze kunnen de mozaïek-achtige ontwerpen kunnen steeds weer opnieuw indelen om hun stemming en stijl te laten zien
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09TRWXYQ2{{</world>}}

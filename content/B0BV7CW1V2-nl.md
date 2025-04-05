@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - De LEGO Builder app begeleidt je kind op een intuïtief bouwavontuur met tools om in te zoomen en modellen in 3D te draaien, de voortgang bij te houden en sets op te slaan
-- Dit bouwbare spel wordt geleverd met 9 personages, waaronder een LEGO Sonic figuur, Amy, een Flicky, Becky, Pocky, Pecky en Dr. Eggman, plus Badniks Chopper, Newtron en veel accessoires voor rollenspel
 - Kinderen kunnen het parcours met hellingen en obstakels bouwen en vervolgens Sonic door de looping en ring laten vliegen met de snelheidsbol, zodat hij de mecha van Dr. Eggman omver gooit om de dieren die erin vastzitten te bevrijden
+- Dit bouwbare spel wordt geleverd met 9 personages, waaronder een LEGO Sonic figuur, Amy, een Flicky, Becky, Pocky, Pecky en Dr. Eggman, plus Badniks Chopper, Newtron en veel accessoires voor rollenspel
 - Dit LEGO Sonic the Hedgehog speelgoed is een leuk verjaardagscadeau voor kinderen, jongens en meisjes vanaf 8 jaar die van games en fantasierijk spel houden
 - Kinderen vanaf 8 jaar kunnen spannende actieavonturen combineren met creatief dierenverzorging rollenspel met de Sonic the Hedgehog Sonics Green Hill Zone loopinguitdaging speelgoed set, met 9 iconische personages
 - Deze LEGO Sonic set kan op twee manieren worden gespeeld: kinderen kunnen het level naspelen of hun eigen verhalen verzinnen voor Sonic, Amy en de speelgoed dieren

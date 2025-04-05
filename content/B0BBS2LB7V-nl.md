@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bij de set met raceauto speelgoed is een interactieve digitale bouwgids inbegrepen, beschikbaar via de gratis LEGO Builder app; kinderen kunnen de app gebruiken om de modellen van alle kanten te bekijken en erop in te zoomen terwijl ze bouwen
 - Een LEGO City speelset is een fantastisch cadeau voor een verjaardag of een speciale gelegenheid; deze set met constructie speelgoed is perfect voor kinderen vanaf 5 jaar die dol zijn op motors, autos en spannende politie-actie
+- Dit LEGO City politie speelgoed voor kinderen vanaf 5 jaar bestaat uit een politiemotor en een coole rode vluchtauto, plus poppetjes van een politieagent en een boef, om spannende achtervolgingen mee na te spelen
 - Kinderen kunnen de politieagent op de speelgoedmotor helpen om de boef in de raceauto te achtervolgen en het gestolen geld terug te krijgen - vervolgens kunnen ze de boef handboeien geven en hem vervoeren naar de dichtstbijzijnde gevangenis!
 - Deze leuke LEGO politieset bevat verschillende accessoires, zoals speelgoedgeldbriefjes en handboeien die kinderen vast kunnen maken aan de politiemotor, voor spannende politie-achtervolgingen
-- Bij de set met raceauto speelgoed is een interactieve digitale bouwgids inbegrepen, beschikbaar via de gratis LEGO Builder app; kinderen kunnen de app gebruiken om de modellen van alle kanten te bekijken en erop in te zoomen terwijl ze bouwen
-- Dit LEGO City politie speelgoed voor kinderen vanaf 5 jaar bestaat uit een politiemotor en een coole rode vluchtauto, plus poppetjes van een politieagent en een boef, om spannende achtervolgingen mee na te spelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS2LB7V{{</world>}}

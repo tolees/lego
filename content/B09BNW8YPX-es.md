@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este juguete LEGO NINJAGO para niños y niñas de 4+ años incluye sencillas instrucciones con fotos para que los preescolares puedan construir con alegría
 - Incluye la figura de acción de juguete de un meca LEGO NINJAGO con una cabina donde caben 2 mini figuras NINJAGO, ¡y la figura de una araña para mayor diversión!
 - Los sets de batalla LEGO NINJAGO son un regalo sensacional para niños preescolares, para que los peques estén entretenidos durante horas mientras construyen y juegan
+- Este juguete LEGO NINJAGO para niños y niñas de 4+ años incluye sencillas instrucciones con fotos para que los preescolares puedan construir con alegría
 - Los niños disfrutarán de increíbles aventuras repletas de acción con este meca de juguete articulado, que incluye un ladrillo inicial para poder empezar a jugar rápidamente
-- Incluye las mini figuras NINJAGO de Lloyd con una espada y del guerrero Boa Destructor con una gran lanza, para que los peques puedan disputar batallas NINJAGO repletas de acción
 - Los peques podrán usar la app gratuita Instrucciones de Montaje LEGO, para acercar, girar y visualizar una versión digital de su juguete mientras lo construyen
+- Incluye las mini figuras NINJAGO de Lloyd con una espada y del guerrero Boa Destructor con una gran lanza, para que los peques puedan disputar batallas NINJAGO repletas de acción
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNW8YPX{{</world>}}

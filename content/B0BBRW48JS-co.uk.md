@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can build the LEGO Super Mario Conkdor character with its long neck, big beak and glasses plus an action tag enabling interactive toys
-- Kids expand their LEGO Super Mario world with this Conkdors Noggin Bopper building toy expansion set featuring an enemy character and action tag
-- This LEGO creative Super Mario building toy makes a fun birthday gift or special treat for kids who own LEGO Super Mario Starter Course
-- Players place Super Mario figures (sold separately) on the trigger and dodge the Conkdor as it falls, then stomp on its head to defeat it
 - Download the LEGO Super Mario companion App for digital building instructions and inspirational ideas to enhance the LEGO experience
+- Kids expand their LEGO Super Mario world with this Conkdors Noggin Bopper building toy expansion set featuring an enemy character and action tag
+- Kids can build the LEGO Super Mario Conkdor character with its long neck, big beak and glasses plus an action tag enabling interactive toys
 - A LEGO Super Mario Starter Course (71360 with LEGO Mario, 71387 with Luigi or 71403 with Princess Peach figure) is required for interactive play
+- Players place Super Mario figures (sold separately) on the trigger and dodge the Conkdor as it falls, then stomp on its head to defeat it
+- This LEGO creative Super Mario building toy makes a fun birthday gift or special treat for kids who own LEGO Super Mario Starter Course
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRW48JS{{</world>}}

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Nach dem Kampf können Kinder die LEGO Minecraft Figuren mit der goldenen Karotte oder einem Trank heilen, um sich auf mehr Action vorzubereiten
-- Der bewegliche Boden gleitet auseinander, um einen Lavatümpel unter den Füßen der Gegner freizulegen, während der Enderdrache Lava in Blöcken herabregnen lässt
-- Spieler können einen Endkrieger und einen mit Rüstungen und Waffen ausgestatteten Drachenbogenschützen für den Kampf in der legendären Minecraft-Arena zusammenbringen, einschließlich Minecraft-Mobs – Enderman und Shulker
 - Füge weitere Sets, Minecraft-Mobs und Szenen hinzu, um dein Minecraft-Spielzeug zu erweitern, wie zum Beispiel Das Sumpfabenteuer (21240) und Das Bienenhäuschen (21241)
 - Minecraft-Fans benötigen all ihre handwerklichen Fähigkeiten, um die Action in LEGO Minecraft “Die End-Arena” zu überleben – einem Action-Spielzeug mit beliebten Minecraft-Figuren
+- Der bewegliche Boden gleitet auseinander, um einen Lavatümpel unter den Füßen der Gegner freizulegen, während der Enderdrache Lava in Blöcken herabregnen lässt
+- Spieler können einen Endkrieger und einen mit Rüstungen und Waffen ausgestatteten Drachenbogenschützen für den Kampf in der legendären Minecraft-Arena zusammenbringen, einschließlich Minecraft-Mobs – Enderman und Shulker
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRTBGK6{{</world>}}

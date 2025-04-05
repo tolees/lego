@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Die LEGO Builder App führt Kinder auf ein intuitives Bauabenteuer. Sie können andere Autospielzeuge speichern, ihren Fortschritt verfolgen und Modelle in 3D vergrößern und drehen, während sie bauen
-- NINJAGO Kai kann in einem mit goldenen Klingen bewaffneten LEGO Drachenrennwagen gegen Lord Ras in seinem geländegängigen Motorrad mit goldenen Stampfern antreten
-- Das Gut-gegen-Böse-Spielzeug enthält 2 LEGO NINJAGO Minifiguren: Ninja Kai mit einem goldenen Schwert und Lord Ras mit einem goldenen Hammer, mit denen kleine Ninja-Fans spannende Kämpfe austragen können
-- Junge Ninjas können die Action aus der Fernsehserie NINJAGO Dragons Rising mit diesem sammelbaren Spielzeug von Kai und Ras Auto- und Motorradrennen für Kinder ab 4 Jahren nachspielen, das 2 coole Fahrzeuge enthält
 - Dieses LEGO NINJAGO Fahrzeug-Spielset ist ein lustiges, actiongeladenes Geschenk für Kinder ab 4 Jahren und Fans der Fernsehserie NINJAGO Dragons Rising
+- NINJAGO Kai kann in einem mit goldenen Klingen bewaffneten LEGO Drachenrennwagen gegen Lord Ras in seinem geländegängigen Motorrad mit goldenen Stampfern antreten
+- Junge Ninjas können die Action aus der Fernsehserie NINJAGO Dragons Rising mit diesem sammelbaren Spielzeug von Kai und Ras Auto- und Motorradrennen für Kinder ab 4 Jahren nachspielen, das 2 coole Fahrzeuge enthält
 - Das Ninja-Spielzeug wird mit einem blauen Blitz in einem Displayhalter geliefert, den die Figuren ergreifen müssen, um ihren Kampf zu gewinnen
+- Das Gut-gegen-Böse-Spielzeug enthält 2 LEGO NINJAGO Minifiguren: Ninja Kai mit einem goldenen Schwert und Lord Ras mit einem goldenen Hammer, mit denen kleine Ninja-Fans spannende Kämpfe austragen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCC468N{{</world>}}
