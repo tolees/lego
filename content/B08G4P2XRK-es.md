@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Número de piezas: 451
-- Este set incluye 3 mini muñecas: Andrea, Amelia y Julián, una taquilla, zona de alfombra roja y un baño para los niños mientras ven el estreno
 - Juguete interactivo que se abre para mostrar una pantalla y asientos, se puede sostener un smartphone o una tableta contra la pantalla para proyectar películas en el mundo real
-- Cine de Heartlake City
 - Edad recomendada por el fabricante: 7+
+- Este set incluye 3 mini muñecas: Andrea, Amelia y Julián, una taquilla, zona de alfombra roja y un baño para los niños mientras ven el estreno
+- Cine de Heartlake City
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08G4P2XRK{{</world>}}

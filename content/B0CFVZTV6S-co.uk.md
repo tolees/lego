@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- What’s in the box? – This LEGO vehicle building toy has everything kids need to build an ambulance toy and a snow-covered skate-park setting
+- Fun for kids who love imaginative play – The LEGO 4+ set also includes snowboarder and paramedic minifigures, plus a stretcher and toy syringe
 - A fun gift for any occasion – This building set makes a fun any-day treat or birthday gift for 4 plus year old boys, girls and kids who love LEGO vehicles and acting out fun rescue missions
 - Interactive guide – With the LEGO Builder app where kids can zoom in and rotate their building toys in 3D, track progress and save virtual playsets
-- Fun for kids who love imaginative play – The LEGO 4+ set also includes snowboarder and paramedic minifigures, plus a stretcher and toy syringe
-- A world of creative play – Unleash more adventures when you combine this LEGO ambulance set with others (sold separately) from the LEGO City range
+- What’s in the box? – This LEGO vehicle building toy has everything kids need to build an ambulance toy and a snow-covered skate-park setting
 - Ambulance toy playset – Join kids for playtime with this LEGO City Emergency Ambulance and Snowboarder building toy for 4+ year old boys and girls
+- A world of creative play – Unleash more adventures when you combine this LEGO ambulance set with others (sold separately) from the LEGO City range
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZTV6S{{</world>}}

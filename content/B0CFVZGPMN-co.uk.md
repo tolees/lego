@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- LEGO Friends Electric Car and Charger – This vehicle toy set for 6+ year old girls, boys and kids features an eco toy car with a charging point
+- Buildable car – The toy car has seats for the mini-dolls and Dango the pet dog, plus it features an opening bonnet with space to store accessories
+- A small gift idea – This LEGO Friends set featuring a cool electric car toy for kids makes a fun birthday gift for 6+ year old girls, boys and kids who love eco toys and storytelling
 - LEGO Friends sets for kids – Check out other creative role-play toys (sold separately) in the LEGO Friends range, where kids can explore endless friendship stories
 - Lots of accessories – This LEGO vehicle set comes with accessories, including a table, 2 chairs, phones, stick, ball, apple, croissant and pet bowl
-- Buildable car – The toy car has seats for the mini-dolls and Dango the pet dog, plus it features an opening bonnet with space to store accessories
 - Charging station – The small LEGO set includes a solar-powered vehicle charging station so kids can role-play ‘charging’ the car using green energy
-- A small gift idea – This LEGO Friends set featuring a cool electric car toy for kids makes a fun birthday gift for 6+ year old girls, boys and kids who love eco toys and storytelling
 - 2 mini-dolls – Set includes LEGO Friends characters Nova and Zac mini-dolls, plus a toy dog figure, so the creative play starts right away
-- LEGO Friends Electric Car and Charger – This vehicle toy set for 6+ year old girls, boys and kids features an eco toy car with a charging point
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZGPMN{{</world>}}

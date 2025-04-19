@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The LEGO Friends Beach Amusement Park building toy for kids aged 12+ features a moving merry-go-round, wave machine and shooting gallery game
-- Kids try to beat their score on the wave machine, use the pirate cannon to shoot at ships and kraken or test their bravery on the Sealife ride
 - The LEGO summer 2023 set comes with Friends Dia and Charli plus Zac and Nova mini-dolls with extra heads so kids can change their expressions
 - LEGO fun fair set includes dual-rotation merry-go-round, wave machine with a moving surfer and shooting gallery game with moving 2 rows of targets
-- This LEGO fairground set features LEGO Technic elements which add extra movement and realism to the build and introduce more advanced LEGO sets
+- The LEGO Friends Beach Amusement Park building toy for kids aged 12+ features a moving merry-go-round, wave machine and shooting gallery game
+- Kids try to beat their score on the wave machine, use the pirate cannon to shoot at ships and kraken or test their bravery on the Sealife ride
 - This LEGO Friends building toy set makes a fun holiday, birthday or any-day gift for kids, teenage girls and boys aged 12+ who love problem-solving
+- This LEGO fairground set features LEGO Technic elements which add extra movement and realism to the build and introduce more advanced LEGO sets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCBYBTJ{{</world>}}

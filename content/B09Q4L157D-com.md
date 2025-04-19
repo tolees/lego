@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - INSPIRED BY A REAL ORCHID - LEGO designers have worked carefully to create a model that looks as close to nature as possible with amazing attention to detail.
 - BUILD YOUR OWN ORCHID With this LEGO Orchid Building Kit 10311, you can realize a rewarding construction project and beautify your home or office with plants.
+- Customize your display: rotate the models stems, flowers, roots and leaves to create your preferred look, and rebuild the stems to create new combinations of flower arrangements
 - ENJOY BUILDING Relax and take your time with this construction project. Whether its a treat for yourself or a gift for a plant lover, this LEGO orchid set has been specially designed for adult builders.
 - From the LEGO Botany Collection: this is part of a collection of building kits inspired by real plants and flowers and especially for adults.
-- Customize your display: rotate the models stems, flowers, roots and leaves to create your preferred look, and rebuild the stems to create new combinations of flower arrangements
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09Q4L157D{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This mini-doll playset includes many cool accessories: a recipe book, mixing bowl, spoon, bottles, camera plus cool light for the camera
-- In 2023, the LEGO Friends universe expanded to present a new series of characters and fun locations inspired by childrens passions and interests
-- Leos house in Harmony Beach includes surfboard toy plus bunk beds and a balcony to go outside and play football on when the filming is finished
-- This collectible LEGO Friends Leos Room playset toy features a studio and video equipment, a baking area plus 2 mini-dolls and a cat figure
 - Let kids discover all the rooms of the Heartlake City; check out other collectible toy playsets like Aliyas Room (41740) or Novas Room (41755)
+- Leos house in Harmony Beach includes surfboard toy plus bunk beds and a balcony to go outside and play football on when the filming is finished
 - This LEGO Friends Bedroom Playset includes LEGO Friends mini-dolls: baker Leo and video expert Olly to help filming, plus Churro the Cat figure
+- In 2023, the LEGO Friends universe expanded to present a new series of characters and fun locations inspired by childrens passions and interests
+- This collectible LEGO Friends Leos Room playset toy features a studio and video equipment, a baking area plus 2 mini-dolls and a cat figure
+- This mini-doll playset includes many cool accessories: a recipe book, mixing bowl, spoon, bottles, camera plus cool light for the camera
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ39ZD{{</world>}}

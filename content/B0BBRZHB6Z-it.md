@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- I giovani fan dei supereroi Marvel e dei Guardiani della Galassia possono vivere tutta lazione dei film con il set LEGO Marvel Armatura Mech Rocket, con unaction figure mech snodabile di grandi dimensioni
 - Scopri gli altri mech action figure LEGO Marvel Avengers da collezione per altre epiche battaglie: LEGO Marvel Armatura Mech Thanos (76242) e LEGO Marvel Armatura Mech Hulk (76241)
-- La cabina del mech può essere aperta per inserire la minifigure di Rocket; questo set LEGO Marvel include anche una pistola giocattolo blaster più piccola, da usare quando il supereroe non è nel mech
+- I giovani fan dei supereroi Marvel e dei Guardiani della Galassia possono vivere tutta lazione dei film con il set LEGO Marvel Armatura Mech Rocket, con unaction figure mech snodabile di grandi dimensioni
 - Il mech arancione del famoso procione ha braccia, gambe e dita snodabili e una grande pistola giocattolo blaster con 6 colpi: il necessario per dar vita a battaglie e giochi di ruolo con il supereroe Marvel
+- La cabina del mech può essere aperta per inserire la minifigure di Rocket; questo set LEGO Marvel include anche una pistola giocattolo blaster più piccola, da usare quando il supereroe non è nel mech
 - Questo modellino da costruire di mech dei Guardiani della Galassia è facile da mettere in posa, ed è perfetto da esporre nella cameretta dei bambini o come parte di una collezione LEGO Marvel
 
 [🛒 Check the deal!!]({{< param buyurl >}})

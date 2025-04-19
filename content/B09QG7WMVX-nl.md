@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief een bewolkte lucht om zelf te bouwen, oranje paddenstoeltrampoline en tijdblok – de paddenstoeltrampoline veert mee, zodat kinderen er een interactieve figuur op kunnen laten springen
-- Uitbreidingsset: Fuzzies en flippers
-- Aantal stenen: 154
 - Kinderen helpen LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) om op de paddenstoeltrampoline te springen, op de flippers te stampen, de Fuzzies te verslaan en digitale munten te verzamelen
 - Aanbevolen leeftijd door de fabrikant: 6+
+- Uitbreidingsset: Fuzzies en flippers
+- Aantal stenen: 154
+- Inclusief een bewolkte lucht om zelf te bouwen, oranje paddenstoeltrampoline en tijdblok – de paddenstoeltrampoline veert mee, zodat kinderen er een interactieve figuur op kunnen laten springen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG7WMVX{{</world>}}

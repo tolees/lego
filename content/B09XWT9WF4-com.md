@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - The LEGO City Stuntz portable motorcycle toy for boys and girls aged 5+ puts them at the heart of the action - they can play wherever they go!
+- Includes everything you need to build flywheel-powered stunt bike, plus a Sudsy Simon LEGO racer minifigure from LEGO City Stuntz
 - Features a fun flywheel powered toy motorcycle in the style of a bathtub, a bathing duck, snorkel, mask and lifejacket accessory elements
 - Combine this set with other toys from the LEGO City Stuntz collection for even more action and amazing stunts
-- Includes everything you need to build flywheel-powered stunt bike, plus a Sudsy Simon LEGO racer minifigure from LEGO City Stuntz
 - Children can push the toy motorcycle to activate the flywheel, then release it so that the minifigure can do aerial tricks and wheelies
 
 [🛒 Buy it!!]({{< param buyurl >}})

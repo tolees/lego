@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Discover what’s inside – The set features a detailed castle with multiple areas over 4 floors, a small oven build, a mirrored closet, altar and book, a removable translucent roof and loads more
+- Intriguing details – Give a Disney Wish film fan or any kid ages 7 and up who loves magic and mysteries a set to keep exploring with this LEGO Disney King Magnifico’s Castle (43224) construction kit
+- Expand the play – Young builders can boost the fun by collecting other LEGO Disney construction sets in the series (43223 and 43231 – sold separately) to create their own Kingdom of Rosas
 - 4 fun characters – Featuring Disney Asha dolls, Dahlia and King Magnifico LEGO Disney mini-doll figures, plus a Star LEGO Disney figure, from the Disney film, Wish, to inspire role-play adventures
 - 4 levels of play – The castle measures over 11 in. (28 cm) high, 12 in. (30 cm) wide and 4 in. (11 cm) deep, with plenty of rooms and mysteries to explore and discover before being put on display
-- Expand the play – Young builders can boost the fun by collecting other LEGO Disney construction sets in the series (43223 and 43231 – sold separately) to create their own Kingdom of Rosas
 - Magical gift for ages 7 and up – Disney fans and kids who love solving mysteries will enjoy this building set, which inspires magical adventures and kick-starts imaginative new stories
-- Intriguing details – Give a Disney Wish film fan or any kid ages 7 and up who loves magic and mysteries a set to keep exploring with this LEGO Disney King Magnifico’s Castle (43224) construction kit
+- Discover what’s inside – The set features a detailed castle with multiple areas over 4 floors, a small oven build, a mirrored closet, altar and book, a removable translucent roof and loads more
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BXQ5J31L{{</world>}}

@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Over LEGO City speelsets – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
-- Politievoertuig voor fantasierijk speelplezier – kinderen kunnen de speelgoedtruck openen met daarin een misdaadlab van 2 verdiepingen inclusief werkplekken, een kaart, bewakingscameras, een microscoop, een koffiezetapparaat en een gevangeniscel
-- Creatief spelen zonder grenzen – kinderen beleven nog meer plezier en avonturen als ze deze set toevoegen aan andere LEGO City sets (apart verkrijgbaar)
 - Inclusief gezocht-poster – met toestemming van een volwassene kunnen kinderen de QR-code in de bouwinstructies of op de doos scannen voor een leuk videoavontuur met de LEGO City politie
-- Speelgoed truck voor politieonderzoek – in deze LEGO City Politielaboratorium in truck speelset voor forensische experts in de dop vanaf 7 jaar draait alles om het opsporen van voortvluchtige boeven
 - Een LEGO cadeau voor kinderen vanaf 7 jaar – verras je jonge held met dit politiespeelgoed voor de feestdagen of een verjaardag voor fans van LEGO bouwpakketten en fantasierijk spelen
 - Leuke bouw- en speelset voor kinderen – dit politie speelgoed is inclusief alles wat kinderen nodig hebben om een mobiel misdaadlab, een quad, een forensische scène en minifiguren van 2 politieagenten, 1 wetenschapper en 2 boeven te maken
+- Creatief spelen zonder grenzen – kinderen beleven nog meer plezier en avonturen als ze deze set toevoegen aan andere LEGO City sets (apart verkrijgbaar)
+- Politievoertuig voor fantasierijk speelplezier – kinderen kunnen de speelgoedtruck openen met daarin een misdaadlab van 2 verdiepingen inclusief werkplekken, een kaart, bewakingscameras, een microscoop, een koffiezetapparaat en een gevangeniscel
+- Speelgoed truck voor politieonderzoek – in deze LEGO City Politielaboratorium in truck speelset voor forensische experts in de dop vanaf 7 jaar draait alles om het opsporen van voortvluchtige boeven
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWNMW6{{</world>}}

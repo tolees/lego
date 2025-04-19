@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This fun set includes a starter brick for the LEGO Friends toy car; a sturdy base that gives young builders a head start with their caravan toy
-- This toy for kids Ages 4+ comes with Autumn and Aliya LEGO Friends mini-dolls, plus accessories: a camera, butterfly, campfire and marshmallows
-- Young adventurers find the perfect camping spot in the Heartlake City forest, snap pictures on the toy camera and settle in by the a cozy campfire
-- In 2023, the LEGO Friends universe expanded to introduce playsets with new characters and new locations to inspire even more awesome adventures
-- This LEGO Friends caravan toy with attachable toy car lets kids Ages 4+ role-play forest camping adventures with Aliya and Autumn mini-dolls
 - A great birthday gift idea or a treat for a special day for kids Ages 4 plus years old who love camping, nature and cool LEGO vehicles
+- In 2023, the LEGO Friends universe expanded to introduce playsets with new characters and new locations to inspire even more awesome adventures
 - Kids can attach the toy caravan to the fun brightly-colored car and remove the caravans roof to explore the bedroom and kitchen area inside
+- This LEGO Friends caravan toy with attachable toy car lets kids Ages 4+ role-play forest camping adventures with Aliya and Autumn mini-dolls
+- This fun set includes a starter brick for the LEGO Friends toy car; a sturdy base that gives young builders a head start with their caravan toy
+- Young adventurers find the perfect camping spot in the Heartlake City forest, snap pictures on the toy camera and settle in by the a cozy campfire
+- This toy for kids Ages 4+ comes with Autumn and Aliya LEGO Friends mini-dolls, plus accessories: a camera, butterfly, campfire and marshmallows
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSKYSQ9{{</world>}}

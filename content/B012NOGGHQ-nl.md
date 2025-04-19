@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bouw je eigen gedetailleerde model van de skyline van New York City, inclusief een miniatuurversie van het Vrijheidsbeeld, en een 4 x 32 sokkel met tegels en decoratief naamplaatje
-- Deze adembenemende LEGO Architecture set brengt iconische gebouwen samen in een inspirerende skyline die de architectonische essentie vormt van New York City
 - De set bevat het Flatiron, Chrysler, Empire State en One World Trade Center gebouw en is 26 cm hoog, 25 cm breed en 4 cm diep
-- Deze geweldige modelversie benadrukt de adembenemende architectonische veelzijdigheid van een van ‘s werelds meest dynamische steden
+- Bouw je eigen gedetailleerde model van de skyline van New York City, inclusief een miniatuurversie van het Vrijheidsbeeld, en een 4 x 32 sokkel met tegels en decoratief naamplaatje
 - Deze LEGO architectuur bouwset vormt een uitdagende en ontspannende bouwervaring en is ideaal als huisdecoratie of als blikvanger op kantoor
+- Deze adembenemende LEGO Architecture set brengt iconische gebouwen samen in een inspirerende skyline die de architectonische essentie vormt van New York City
+- Deze geweldige modelversie benadrukt de adembenemende architectonische veelzijdigheid van een van ‘s werelds meest dynamische steden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B012NOGGHQ{{</world>}}

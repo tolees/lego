@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Technic buildable engineering toys for kids feature realistic movement and mechanisms that introduce kids to the universe of engineering
-- Augmented reality brings this science LEGO discovery mission to life; the AR app experience lets kids explore rover details and its mission
 - This LEGO space model set also includes a buildable toy version of NASA’s Ingenuity helicopter, which was used to test powered flight on Mars
 - Kids aged 10+ can learn more about the challenges of space exploration with this LEGO Technic NASA Mars Rover Perseverance space model set
 - This Mars Rover vehicle construction toys set makes an out of this world gift idea for kids aged 10+ with a passion for space and technology
 - Space toy rover model with 360° steering, movable arms, articulated 6 wheel suspension for uneven surfaces and buildable scientific instruments
+- LEGO Technic buildable engineering toys for kids feature realistic movement and mechanisms that introduce kids to the universe of engineering
+- Augmented reality brings this science LEGO discovery mission to life; the AR app experience lets kids explore rover details and its mission
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC8W2GD{{</world>}}

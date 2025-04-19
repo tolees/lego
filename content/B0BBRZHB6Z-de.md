@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Sieh dir die anderen LEGO Marvel Avengers Action-Figuren für weitere epische Schlachten an: LEGO Marvel Thanos Mech (76242) oder LEGO Marvel Hulk Mech (76241)
-- Das Cockpit des Mechs kann geöffnet und die Minifigur Rocket hineingestellt werden. Das Guardians of the Galaxy Spielzeug zum Bauen enthält auch einen kleineren Blaster, den die Minifigur Raccoon benutzen kann, wenn er nicht im Mech ist
-- Die auffallend orangefarbene, baubare Marvel-Figur Rocket verfügt über voll bewegliche Arme, Beine und Finger sowie einen überdimensionalen, feuernden 6-Blaster, mit dem der kultige Waschbär in Rollenspielen unbesiegbar wird
 - Dieses Marvel Sammelstück lässt sich leicht in Pose setzen und sieht im Kinderzimmer oder als Teil einer LEGO Marvel Sammlung in der jeweiligen Superhelden-Stellung der Kinder großartig aus
 - Junge Fans von Marvel Super Heroes und Guardians of the Galaxy können mit dieser übergroßen, beweglichen LEGO Marvel Rocket Mech baubaren Action-Figur große Abenteuer starten
+- Das Cockpit des Mechs kann geöffnet und die Minifigur Rocket hineingestellt werden. Das Guardians of the Galaxy Spielzeug zum Bauen enthält auch einen kleineren Blaster, den die Minifigur Raccoon benutzen kann, wenn er nicht im Mech ist
+- Sieh dir die anderen LEGO Marvel Avengers Action-Figuren für weitere epische Schlachten an: LEGO Marvel Thanos Mech (76242) oder LEGO Marvel Hulk Mech (76241)
+- Die auffallend orangefarbene, baubare Marvel-Figur Rocket verfügt über voll bewegliche Arme, Beine und Finger sowie einen überdimensionalen, feuernden 6-Blaster, mit dem der kultige Waschbär in Rollenspielen unbesiegbar wird
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZHB6Z{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features a climbing wall, monkey bars and zip line; when kids turn a knob, the final obstacle course moves to take the officer to the finish line
-- This LEGO City police building toy lets kids expand their citys security and makes a great birthday gift for boys and girls aged 6 plus years old
 - Also includes 6 LEGO Police minifigures, a horse toy figure, LEGO horse rider minifigure and horse riding jumps to train the latest animal recruit
 - LEGO City Police Training Academy features a 2-level modular police station playset, outdoor training facilities, quad bike toy and a horse figure
+- Features a climbing wall, monkey bars and zip line; when kids turn a knob, the final obstacle course moves to take the officer to the finish line
 - The quad bike toy features working steering to zoom around to pass the driving test; the set also includes handcuffs and dumbbell accessories
+- This LEGO City police building toy lets kids expand their citys security and makes a great birthday gift for boys and girls aged 6 plus years old
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRYX65Q{{</world>}}

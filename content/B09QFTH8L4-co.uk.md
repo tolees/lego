@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids and Avatar fans will enjoy this versatile building toy with a Thanator animal figure, AMP suit action figure and a Pandora rainforest scene
+- Kids can place the Neytiri minifigure on the back of the Thanator toy animal figure; ready to fly through the rainforest and battle the Colonel
+- The set is a great Christmas present or birthday gift idea for kids, boys and girls aged 9 plus years old - it can also be combined with all other LEGO Avatar sets
 - When the day’s play is over, kids can set up a dynamic display with Neytiri and the Thanator posed to jump on the AMP-suited Colonel action figure
 - This LEGO Avatar construction toy is designed for social engagement; with 3 instruction booklets, so friends or family can build together
-- The set is a great Christmas present or birthday gift idea for kids, boys and girls aged 9 plus years old - it can also be combined with all other LEGO Avatar sets
-- Kids can place the Neytiri minifigure on the back of the Thanator toy animal figure; ready to fly through the rainforest and battle the Colonel
+- Kids and Avatar fans will enjoy this versatile building toy with a Thanator animal figure, AMP suit action figure and a Pandora rainforest scene
 - This set includes 2 LEGO Avatar minifigures: Neytiri, carrying a crossbow, and Colonel Quaritch with his fearful AMP suit action figure with weapons
 
 [🛒 Check the deal!!]({{< param buyurl >}})

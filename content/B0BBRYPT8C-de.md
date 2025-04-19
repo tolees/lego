@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses Star Wars Erinnerungsstücken ist Teil der hochwertigen Sammlung von LEGO Star Wars Helm-Sets für Erwachsene
 - Ein großartiges Star Wars Geschenk für dich selbst, um jeden Enthusiasten oder erfahrenen LEGO Baumeister zu beeindrucken.
-- Mit diesem detaillierten Helm aus der LEGO Star Wars Sammlung für Erwachsene kannst du das Aussehen von Clone Commander Cody einfangen.
+- Dieses Star Wars Erinnerungsstücken ist Teil der hochwertigen Sammlung von LEGO Star Wars Helm-Sets für Erwachsene
 - Stelle das Star Wars Modell auf dem mitgelieferten Ständer mit aufgedrucktem Namensschild aus und sorge so für Gesprächsstoff in deinem Zuhause oder Büro.
+- Mit diesem detaillierten Helm aus der LEGO Star Wars Sammlung für Erwachsene kannst du das Aussehen von Clone Commander Cody einfangen.
 - Tauche ein in eine komplexe kreative Herausforderung; das Star Wars Sammlerstück enthält leicht verständliche gedruckte sowie digitale Anweisungen auf der LEGO Builder App
 - Erlebe die Szenen aus Star Wars: The Clone Wars noch einmal und genieße es, die unverwechselbaren Konturen dieses kultigen Helms im LEGO-Stil nachzubauen
 

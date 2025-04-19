@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This premium Spider-Man 3d model kit provides an eye-catching display from any angle and makes a great addition to any Marvel memoriabilia collection
+- Perfect for play and display - the 3 included transparent minifigure supports enable midair action; a removable roof uncovers Sandman and lots more!
 - Give this hands-on LEGO Marvel super hero building set as an action-packed Spider-Man gift for boys, girls and all fans aged 10+ years old as a birthday gift, Christmas present, or any-day treat
 - This LEGO Marvel set includes 3 different versions of LEGO Spider-Man minifigures including Friendly Neighborhood Spider-Man (Tobey Maguire)
-- This premium Spider-Man 3d model kit provides an eye-catching display from any angle and makes a great addition to any Marvel memoriabilia collection
-- Fans recreate the showdown from Marvel Studios’ Spider-Man: No Way Home with this LEGO Marvel Spider-Man Final Battle set featuring iconic characters
-- Perfect for play and display - the 3 included transparent minifigure supports enable midair action; a removable roof uncovers Sandman and lots more!
 - Also included in this 360 degree Spider-Man collectible set are The Amazing Spider-Man (Andrew Garfield) and Spider-Man (Tom Holland) minifigures
+- Fans recreate the showdown from Marvel Studios’ Spider-Man: No Way Home with this LEGO Marvel Spider-Man Final Battle set featuring iconic characters
 - The stunning celebration of Spider-Man also includes Electro, Doctor Strange, Green Goblin and Doc Ock, plus Ned and MJ LEGO Minifigures
 
 [🛒 Check the deal!!]({{< param buyurl >}})

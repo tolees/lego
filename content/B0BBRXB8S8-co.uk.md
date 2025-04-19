@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Both the speedboat dinghy and the fire rescue boat toy float so kids can really take the adventures to the water with these brightly coloured boats
-- Kids can launch water LEGO elements from the toy fire boats extinguisher or the jetpack to knock out the LEGO flames and save the speedboat pilot
-- Kids speed to the rescue with this awesome LEGO City set, featuring a speedboat and fire rescue toy boats that float on water and a jetpack
 - With this multi-vehicle fire rescue toy for kids 5+, children can join the 3 included LEGO firefighter minifigures on awesome water missions
+- Kids speed to the rescue with this awesome LEGO City set, featuring a speedboat and fire rescue toy boats that float on water and a jetpack
+- Kids can launch water LEGO elements from the toy fire boats extinguisher or the jetpack to knock out the LEGO flames and save the speedboat pilot
+- Both the speedboat dinghy and the fire rescue boat toy float so kids can really take the adventures to the water with these brightly coloured boats
 - Includes a digital building guide in the free LEGO Builder app for smartphones and tablets so kids can zoom, rotate and view the model as they build
 
 [🛒 Buy it!!]({{< param buyurl >}})

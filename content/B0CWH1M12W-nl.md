@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO voor volwassenen – dit model uit de LEGO Architecture Monumentencollectie maakt deel uit van een collectie hoogwaardige sets voor volwassenen die net als jij houden van praktische en creatieve hobbys
-- Cadeau voor reizigers en een leuk souvenir uit Parijs – je bouwreis volgt die van de echte Notre-Dame kathedraal, beginnend met de gebogen achterkant en eindigend met de torenspits
 - Architectonische modelset van de Notre-Dame van Parijs – ervaar elke stap in de architectonische evolutie van een beroemd monument in Parijs door de eeuwen heen met dit LEGO Architecture bouwpakket voor volwassenen
+- Parijse decoratie voor in huis of op kantoor – plaats bouwbare bomen langs één kant van de kathedraal en bevestig het naamplaatje op de basis, aan de voorkant of aan de zijkant van het gebouw
 - Stapsgewijze handleiding – je vindt de bouwinstructies in de LEGO Builder app en in het meegeleverde boekje, dat ook het verhaal van de Notre-Dame en een interview met de LEGO ontwerper van dit model bevat
+- LEGO voor volwassenen – dit model uit de LEGO Architecture Monumentencollectie maakt deel uit van een collectie hoogwaardige sets voor volwassenen die net als jij houden van praktische en creatieve hobbys
 - LEGO kerstcadeau voor mannen en vrouwen – deze van stenen gebouwde Parijse woonaccessoire om te verzamelen is een leuk cadeau voor moeders, vaders, broers, zussen of creatieve vrienden die van geschiedenis, architectuur, reizen of Frankrijk houden
 - Authentiek gedetailleerd model van de Notre-Dame kathedraal – bewonder de roosvensters, verwijder het dak om de interne kolommen en bogen te zien en til de torens eraf om de binnenkant van dichterbij te bekijken
-- Parijse decoratie voor in huis of op kantoor – plaats bouwbare bomen langs één kant van de kathedraal en bevestig het naamplaatje op de basis, aan de voorkant of aan de zijkant van het gebouw
+- Cadeau voor reizigers en een leuk souvenir uit Parijs – je bouwreis volgt die van de echte Notre-Dame kathedraal, beginnend met de gebogen achterkant en eindigend met de torenspits
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1M12W{{</world>}}

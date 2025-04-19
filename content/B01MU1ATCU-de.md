@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ideen für junge Baumeister: Spezielle Teile, darunter andere Formen, Augen und Gesichter sowie im Dunkeln leuchtende Steine, laden dein Kind dazu ein, eigene kreative LEGO Modelle zu gestalten
 - LEGO Sonnensystem und Raumschiff-Spielzeug: Dein Kind kann ein Sonnensystem-Modell (Mars, Erde und Sonne) bauen und die bunten LEGO Classic Steine zu einem LEGO Space Shuttle, einem lustigen Alien, einer Astronaut-Figur und dem Saturn samt Ringen
+- Ideen für junge Baumeister: Spezielle Teile, darunter andere Formen, Augen und Gesichter sowie im Dunkeln leuchtende Steine, laden dein Kind dazu ein, eigene kreative LEGO Modelle zu gestalten
 - LEGO Geschenke für Kinder: Kinder, die ein Sonnensystem selber bauen möchten sowie Spaceshuttle-Modelle, Astronauten und Aliens lieben, werden sich über dieses Geburtstags-, Weihnachts- oder Überraschungsgeschenk riesig freuen
 - Für junge Baumeisterinnen und Baumeister: Die verständliche Bildanleitung erleichtert das Bauen für junge Kinder und für noch mehr Bau- und Spielspaß kann dein Kind die Modelle mit den separat erhältlichen Sets 11034, 11035 und 11036 kombinieren
 - LEGO Weltraum-Spielzeug für Kinder: LEGO Classic Kreative Weltraumplaneten ist ein Konstruktionsspielzeug, das Jungen und Mädchen ab 5 Jahren auf eine kreative Entdeckungsreise schickt

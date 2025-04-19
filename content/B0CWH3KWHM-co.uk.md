@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Star Wars building toy – Features a buildable rock formation with a cave, stud-shooting cannon and a storage box containing a thermal detonator
-- LEGO Star Wars set – Relive the ambush on Mandalore from Season 3 of the Disney+ series with this buildable toy for 6+-year-old boys and girls
-- Interactive digital building – Using the LEGO Builder app, kids can zoom in, rotate and visualise a digital version of this model as they build
-- Build and connect – The rock formation in this LEGO Star Wars: The Mandalorian collectible set connects to the Mandalorian base in the (75386) Paz Vizsla and Moff Gideon Battle set, sold separately
-- Jetpack flying action – Attach a LEGO Star Wars character to the transparent element and use the handle to make them ‘fly’ through the air
 - 4 LEGO Star Wars minifigures – A Mandalorian Nite Owl. Mandalorian Warrior and 2 Imperial Commandos, all with blasters, plus 4 jetpack elements
 - A fun anytime Star Wars gift idea for kids – This collectible building toy makes a creative birthday gift for 6-plus-year-old boys, girls and any young Star Wars: The Mandalorian fan
+- Interactive digital building – Using the LEGO Builder app, kids can zoom in, rotate and visualise a digital version of this model as they build
+- LEGO Star Wars set – Relive the ambush on Mandalore from Season 3 of the Disney+ series with this buildable toy for 6+-year-old boys and girls
+- Star Wars building toy – Features a buildable rock formation with a cave, stud-shooting cannon and a storage box containing a thermal detonator
+- Build and connect – The rock formation in this LEGO Star Wars: The Mandalorian collectible set connects to the Mandalorian base in the (75386) Paz Vizsla and Moff Gideon Battle set, sold separately
+- Jetpack flying action – Attach a LEGO Star Wars character to the transparent element and use the handle to make them ‘fly’ through the air
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3KWHM{{</world>}}

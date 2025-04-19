@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Leuk cadeau voor fans van ruimteschepen – de verbeelding van kinderen bereikt nieuwe hoogten wanneer je deze speelset cadeau geeft aan jongens en meisjes van 6 jaar en ouder voor de feestdagen of zomaar tussendoor
 - Digitale bouwinstructies – neem je ruimtefan mee op een leuk bouwavontuur met de LEGO Builder app, waarmee kinderen modellen vanuit alle hoeken kunnen bekijken tijdens het bouwen
-- Speelgoed ruimteschip voor fantasierijk speelplezier – jonge ruimtefans beleven intergalactische avonturen vol actie met deze LEGO City Interstellair ruimteschip speelset
 - Wat zit er in de doos – dit leuke astronaut speelgoed voor kinderen vanaf 6 jaar heeft alles wat kinderen nodig hebben om een interstellair ruimteschip, drone en ruimteminifiguur te bouwen
+- Speelgoed ruimteschip voor fantasierijk speelplezier – jonge ruimtefans beleven intergalactische avonturen vol actie met deze LEGO City Interstellair ruimteschip speelset
 - Creatief speelplezier – kinderen plaatsen een speelgoedbatterij om de uitklapbare stuwraketten van het LEGO ruimteschip te activeren voor razendsnelle ruimtereizen en veranderen de drone in een jet pack
 
 [🛒 Buy it!!]({{< param buyurl >}})

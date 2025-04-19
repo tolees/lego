@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The Shadow Monster toy inspires endless imaginative roleplay and can be put on display when the day’s battles are over
-- Put action into the hands of Thor fans with this Stormbreaker Axe & Mjölnir Hammer set as a LEGO Marvel Avengers gift
 - Become part of the Marvel Studios’ Thor: Love and Thunder movie action with this buildable Thor toy with Hammer & Axe and a Monster figure
 - Kids recreate movie scenes or play out adventures of their own as they battle the twisting, turning, grabbing, nipping Shadow Monster figure
 - Includes Thor, Mighty Thor and Gorr minifigures, plus a buildable Shadow Monster with jointed arms and claws for imaginative play & display
+- Put action into the hands of Thor fans with this Stormbreaker Axe & Mjölnir Hammer set as a LEGO Marvel Avengers gift
 - Using the LEGO Building Instructions app, kids can zoom, rotate and visualise a digital version of their model as they build
+- The Shadow Monster toy inspires endless imaginative roleplay and can be put on display when the day’s battles are over
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09JKY3F5B{{</world>}}

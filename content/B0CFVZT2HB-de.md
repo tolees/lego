@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Abenteuer-Spielset inklusive Steckbrief: Mit Erlaubnis eines Elternteils können Kinder den QR-Code in der Bauanleitung oder auf der Box scannen, um sich ein Video mit einem spannenden LEGO City Polizeiabenteuer anzuschauen
+- Inhalt dieses LEGO Spielzeugs: Eine baubare LEGO Gefängnisinsel mit Felswand, Gefängnis, Polizeiboot-Spielzeug, Schlauchboot, Hubschrauber-Spielzeug, 3 Polizisten und 4 Häftlinge sowie ein LEGO Polizei-Hund und eine Hai-Figur
 - LEGO Geschenk für Kinder ab 7 Jahren: Überrasche deinen jungen Alltagshelden mit diesem Polizei-Spielset; Dieses LEGO City Polizei Set ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder, die spannende Geschichten lieben
 - Über LEGO City Spielsets: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und kreativ mit Bauwerken, Fahrzeugen und Figuren spielen, die zum Bauen und Erkunden einladen
-- Inhalt dieses LEGO Spielzeugs: Eine baubare LEGO Gefängnisinsel mit Felswand, Gefängnis, Polizeiboot-Spielzeug, Schlauchboot, Hubschrauber-Spielzeug, 3 Polizisten und 4 Häftlinge sowie ein LEGO Polizei-Hund und eine Hai-Figur
-- LEGO Gefängnisinsel mit vielen coolen Funktionen: Auf der Insel gibt es eine Zelle mit Fluchttunnel zu einer verlassenen Mine sowie einen Gefängnishof mit Geheimausgang – einem Gullydeckel zu einem nicht mehr benutzten Abwasserkanal
 - Gefängnis- und Polizei-Spielzeug für Kinder ab 7 Jahren: Die LEGO City Polizeistation auf der Gefängnisinsel strotzt vor Details und Funktionen, die Kinder für viele Stunden in fantasievolle Abenteuer schicken wird
+- Abenteuer-Spielset inklusive Steckbrief: Mit Erlaubnis eines Elternteils können Kinder den QR-Code in der Bauanleitung oder auf der Box scannen, um sich ein Video mit einem spannenden LEGO City Polizeiabenteuer anzuschauen
+- LEGO Gefängnisinsel mit vielen coolen Funktionen: Auf der Insel gibt es eine Zelle mit Fluchttunnel zu einer verlassenen Mine sowie einen Gefängnishof mit Geheimausgang – einem Gullydeckel zu einem nicht mehr benutzten Abwasserkanal
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZT2HB{{</world>}}

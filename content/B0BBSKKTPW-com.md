@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids will love this LEGO Friends Dog Rescue Center animal playset featuring a grooming station, exercise area, 3 mini-dolls and 3 dog figures
 - Kids can build and customize this toy vet set with a reception area, treatment room, grooming station, kennels, an obstacle course and a slide
-- The toy pets Pickle, Dash and Grace are waiting to be adopted: kids can help care for them by brushing the dogs or giving them a health check
-- The LEGO Vet toys for kids 7+ years old are fantastic gift ideas for animal-loving children and fans of LEGO pets and creative toys
-- Sensory Toy - LEGO bricks make a great sensory toy for kids, boys and girls of all ages
 - This animal toy includes the 2023 characters LEGO Friends: Autumn, Zac and Dr. Gabriela mini-dolls, plus pets characters Pickle, Dash and Grace
+- The toy pets Pickle, Dash and Grace are waiting to be adopted: kids can help care for them by brushing the dogs or giving them a health check
+- Sensory Toy - LEGO bricks make a great sensory toy for kids, boys and girls of all ages
+- Kids will love this LEGO Friends Dog Rescue Center animal playset featuring a grooming station, exercise area, 3 mini-dolls and 3 dog figures
 - Includes fun LEGO friends puppy playground accessories: creative dog toys, scales, medicine, food, water, a magnifying glass, bed, brush and more
+- The LEGO Vet toys for kids 7+ years old are fantastic gift ideas for animal-loving children and fans of LEGO pets and creative toys
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSKKTPW{{</world>}}

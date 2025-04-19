@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can flip the dragon figure upside down to switch it from peaceful mode to battle mode and fire a purple dragon power element from its chest
+- Lord Ras can fly into battle on a hovercraft, which has a function to make it either spin when struck by the toy dragon power element or grab it
+- Kids can rescue the LEGO NINJAGO dragon figure from Wyldfyre, Imperium Claw Hunter with a sword and Lord Ras with a golden hammer minifigures
 - This LEGO NINJAGO building toys set features a transforming dragon toy and 5 minifigures so kids can go on a mission to rescue dragon Heatwave
 - This LEGO NINJAGO Dragons Rising kids building toys set comes with 5 minifigures including Kai and Lloyd, each armed with 2 cool katanas
-- Kids can rescue the LEGO NINJAGO dragon figure from Wyldfyre, Imperium Claw Hunter with a sword and Lord Ras with a golden hammer minifigures
-- Lord Ras can fly into battle on a hovercraft, which has a function to make it either spin when struck by the toy dragon power element or grab it
+- Kids can flip the dragon figure upside down to switch it from peaceful mode to battle mode and fire a purple dragon power element from its chest
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCD3RX6{{</world>}}

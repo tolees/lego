@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Das Cockpit dieses Superauto-Spielzeugs kann geöffnet werden, um die im Set enthaltene LEGO Rennfahrer-Minifigur mit Helm und auswechselbaren Haaren einzusetzen
-- Ein atemberaubendes Modell eines kultigen italienischen Hypersportwagens, das sich hervorragend zum Spielen von Hochgeschwindigkeitsabenteuern eignet
-- Dieser Sammlerauto-Modellbaukasten ist eine wunderbare Geschenkidee zum Geburtstag, die Kinder und Fans von Sammler-Sportwagenmodellen begeistern wird
-- Dieses LEGO Speed Champions Auto-Spielzeug enthält eine baubare Nachbildung eines der kultigsten Hypercars der Welt: den leistungsstarken Pagani Utopia
-- Der LEGO Rennwagen verfügt über die authentischen Merkmale des echten Hypercars: zentraler 4-Rohr-Auspuff, geschwungene Karosserie, Frontgrill und Radkästen
 - Verpasse nicht die anderen LEGO Speed Champions Modelle: den Ferrari 812 Competizione (76914), den Porsche 963 (76916) und den McLaren Solus GT und McLaren F1 LM (76918)
+- Das Cockpit dieses Superauto-Spielzeugs kann geöffnet werden, um die im Set enthaltene LEGO Rennfahrer-Minifigur mit Helm und auswechselbaren Haaren einzusetzen
+- Dieses LEGO Speed Champions Auto-Spielzeug enthält eine baubare Nachbildung eines der kultigsten Hypercars der Welt: den leistungsstarken Pagani Utopia
+- Ein atemberaubendes Modell eines kultigen italienischen Hypersportwagens, das sich hervorragend zum Spielen von Hochgeschwindigkeitsabenteuern eignet
+- Der LEGO Rennwagen verfügt über die authentischen Merkmale des echten Hypercars: zentraler 4-Rohr-Auspuff, geschwungene Karosserie, Frontgrill und Radkästen
+- Dieser Sammlerauto-Modellbaukasten ist eine wunderbare Geschenkidee zum Geburtstag, die Kinder und Fans von Sammler-Sportwagenmodellen begeistern wird
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS1KGWC{{</world>}}

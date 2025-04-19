@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This toy Advent Calendar inspired by the Marvel Cinematic Universe features Quinjet, jetpack, ice hockey kit, the Hydra Train mini builds and more
-- With Advent calendars for kids the fun starts on the 1st of December and continues long after the last window has been opened, this set can be combined with other LEGO Marvel building toy sets
-- The LEGO Marvel Avengers Advent Calendar 2023 contains an awesome superhero surprise toy behind every door to discover in the countdown to Christmas
-- As the big day approaches, kids can use all the Christmas gifts to recreate favourite Marvel Avenger scenes or create superhero fantasy adventures
 - This boys and girls Advent Calendar is a fun pre-Christmas gift for young superheroes aged 7+, to provide a cool adventure during the festive period
 - The 24 gifts include 7 LEGO Marvel Avengers minifigures including Doctor Strange, Captain America, Spider-Man, Iron Man, Okoye, Wong and Black Widow
+- The LEGO Marvel Avengers Advent Calendar 2023 contains an awesome superhero surprise toy behind every door to discover in the countdown to Christmas
+- As the big day approaches, kids can use all the Christmas gifts to recreate favourite Marvel Avenger scenes or create superhero fantasy adventures
+- This toy Advent Calendar inspired by the Marvel Cinematic Universe features Quinjet, jetpack, ice hockey kit, the Hydra Train mini builds and more
+- With Advent calendars for kids the fun starts on the 1st of December and continues long after the last window has been opened, this set can be combined with other LEGO Marvel building toy sets
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CHMBL{{</world>}}

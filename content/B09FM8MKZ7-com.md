@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Iconic Singapore Skyline - Recreate famous Singapore buildings with this LEGO Architecture building set designed for adults.
 - Perfect Home Décor - This LEGO set makes a fantastic home or room décor piece, showcasing the beauty of Singapores architecture and history.
 - Historic Market & Hotel - The set also showcases Lau Pa Sat (Telok Ayer Market) and the Fullerton Hotel Singapore, capturing the citys rich history and architecture.
-- Housewarming Present - LEGO sets for adults let you unwind and immerse yourself in the creative process, making it a perfect housewarming gift.
-- Detailed Landscaping - The set captures the spirit of the Lion City with charming old riverfront buildings, Singapore River, and lush trees for a stunning centerpiece.
 - Innovative Building Techniques - Discover new ways to attach buildings at angles to the base with this expert-level collectible model kit for adults, enhancing your LEGO building experience.
 - Perfect Gift for Adults - This LEGO set makes a fantastic home or room décor piece, a treat for yourself, and a delightful gift for adult lovers of travel, history, and architecture.
+- Housewarming Present - LEGO sets for adults let you unwind and immerse yourself in the creative process, making it a perfect housewarming gift.
+- Iconic Singapore Skyline - Recreate famous Singapore buildings with this LEGO Architecture building set designed for adults.
+- Detailed Landscaping - The set captures the spirit of the Lion City with charming old riverfront buildings, Singapore River, and lush trees for a stunning centerpiece.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09FM8MKZ7{{</world>}}

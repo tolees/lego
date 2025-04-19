@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kommt in jedem Gelände zurecht: Junge Weltraumforscher können das Fahrzeug erproben und so tun, als würden sie auf einem anderen Planeten leben und arbeiten
-- Intuitive Anleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives Bauabenteuer mit. Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
 - Raumfahrzeug für Kinder ab 8 Jahren: Dieser Transporter zur Erforschung fremder Planeten hat eine Lenkung, eine Funktion zum Anheben und Absenken der Kabine sowie einen Kran mit Führerhaus, um Jungen und Mädchen fantasievoll spielen zu lassen
-- Hebe und senke den Kranarm: Kinder können das Führerhaus hochfahren und den Kranarm heben und absenken, um Fracht zu greifen und zu bewegen
-- Geschenkidee für Kinder: Dieses Set ist ein tolles Geschenk für Jungen und Mädchen, die gern Spielzeug-Raumfahrzeuge bauen
+- Kommt in jedem Gelände zurecht: Junge Weltraumforscher können das Fahrzeug erproben und so tun, als würden sie auf einem anderen Planeten leben und arbeiten
 - Luftschleuse zum Andocken an andere Modelle: Eine spezielle Luftschleuse lässt dein Kind das Modell für weitere Abenteuer auch an andere kompatible (separat erhältliche) LEGO Raumfahrt-Sets andocken
+- Hebe und senke den Kranarm: Kinder können das Führerhaus hochfahren und den Kranarm heben und absenken, um Fracht zu greifen und zu bewegen
+- Intuitive Anleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives Bauabenteuer mit. Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
+- Geschenkidee für Kinder: Dieses Set ist ein tolles Geschenk für Jungen und Mädchen, die gern Spielzeug-Raumfahrzeuge bauen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW4BSLF{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The ninja toy playset comes with a Dragon Power NINJAGO Kai minifigure, plus an Imperium Droid figure that can tilt side to side when hit
-- Ninja fans can help train their hero to do backflips with this LEGO NINJAGO Kai’s Dragon Power Spinjitzu flip toy for kids aged 6 plus years old
 - Kids can place the Dragon Power Kai NINJAGO minifigure inside the spinner, hit one of its arms and watch as he perfroms tricks and does a backflip
+- Ninja fans can help train their hero to do backflips with this LEGO NINJAGO Kai’s Dragon Power Spinjitzu flip toy for kids aged 6 plus years old
 - The collectible toy also features a flaming holder with a golden dragon energy core element which Kai must win, and 2 flame obstacle elements
+- The ninja toy playset comes with a Dragon Power NINJAGO Kai minifigure, plus an Imperium Droid figure that can tilt side to side when hit
 - Collect other NINJAGO interactive action toys: Nya’s Dragon Power Spinjitzu Drift (71778) and Lloyd’s Dragon Power Spinjitzu Spin (71779)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

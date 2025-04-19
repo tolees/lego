@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 7 LEGO Harry Potter characters – Includes Harry Potter, Hermione Granger, Ron Weasley, Draco Malfoy and Rubeus Hagrid LEGO Harry Potter minifigures
-- 2 of 14 collectible Hogwarts portraits – Includes gold-coloured elements printed with 2 of 14 random Hogwarts portraits to display in the hut
-- Buildable Wizarding World toys – LEGO Harry Potter sets let young wizards, witches and Muggles play out favourite scenes, make up their own adventures or simply display the models
 - Buildable hut – Features a removable roof and opens for easy play, plus the interior includes Hagrid’s recliner, an umbrella stand and a dragon egg
-- More Harry Potter characters – The building toy for kids also includes LEGO figures of Norbert the dragon and Hagrid’s dog, Fang
 - Gift idea for kids – This set makes a fun treat or Harry Potter-themed Christmas gift for 8 plus year old girls, boys and kids who love Harry Potter toys and characters
+- 7 LEGO Harry Potter characters – Includes Harry Potter, Hermione Granger, Ron Weasley, Draco Malfoy and Rubeus Hagrid LEGO Harry Potter minifigures
+- More Harry Potter characters – The building toy for kids also includes LEGO figures of Norbert the dragon and Hagrid’s dog, Fang
 - LEGO Harry Potter toy for kids’ – Recreate Harry Potter and friends’ unexpected visit to Rubeus Hagrid’s hut, an iconic Wizarding World location
+- Buildable Wizarding World toys – LEGO Harry Potter sets let young wizards, witches and Muggles play out favourite scenes, make up their own adventures or simply display the models
+- 2 of 14 collectible Hogwarts portraits – Includes gold-coloured elements printed with 2 of 14 random Hogwarts portraits to display in the hut
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ865V{{</world>}}

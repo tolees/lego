@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vintage Car
 - Piccolo oggetto da collezione, non necessariamente adatto come regalo per bambini
-- Contiene 36 parti
 - Fornito in sacchetto di plastica sigillato in fabbrica
+- Contiene 36 parti
+- Vintage Car
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPMK87NX{{</world>}}

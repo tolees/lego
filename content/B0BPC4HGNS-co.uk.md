@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Designed for 6-year-old boys and girls who love toy cars – this toy Car Wash makes a great small gift for kids, as a birthday present or any-day treat
+- The LEGO City car set also includes space in the vehicle for the driver and attendant minifigures, plus a broom accessory to play out stories
+- Kids can combine this toy Car Wash and car playset with others from the range of LEGO City sets for more fun and adventures
 - Kids can drive the toy car through the carwash to spin the washer brushes, dispense soapsuds elements and position the dryer fans
 - This LEGO City Car Wash toy for kids aged 6+ years old comes with a toy car, spinning washer brushes and 2 minifigures for imaginative play
-- Kids can combine this toy Car Wash and car playset with others from the range of LEGO City sets for more fun and adventures
-- The LEGO City car set also includes space in the vehicle for the driver and attendant minifigures, plus a broom accessory to play out stories
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC4HGNS{{</world>}}

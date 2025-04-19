@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Custom flower decoration – Kids can arrange the stems and leaves of this LEGO artificial flowers set to create a customised sunflower decoration
-- Combinable with other LEGO flower sets – This artificial flowers set can be combined with LEGO Roses (40460) to add extra colour to this bouquet
 - Bring sunshine to any room – This artificial sunflower set includes 2 sunflower blooms with adjustable green stems and leaves - ideal for short vases
-- Mark a special occasion – Makes a houghtful Valentines Day or Mothers Day gift to show that special someone just how much you care; compatible with the LEGO Flower Bouquet sets
 - Buildable sunflower display – With this LEGO Creator Sunflower set, kids aged 8+ and flower lovers can create their own colourful faux flower display
+- Mark a special occasion – Makes a houghtful Valentines Day or Mothers Day gift to show that special someone just how much you care; compatible with the LEGO Flower Bouquet sets
+- Combinable with other LEGO flower sets – This artificial flowers set can be combined with LEGO Roses (40460) to add extra colour to this bouquet
+- Custom flower decoration – Kids can arrange the stems and leaves of this LEGO artificial flowers set to create a customised sunflower decoration
 - Gift for florists – This LEGO Creator set is great as a desk decoration and makes a fun gift for girls and boys aged 8 and up who love flowers
 
 [🛒 Check the deal!!]({{< param buyurl >}})

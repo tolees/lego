@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Die Kinder können die Musikerin und die Musikspielzeuge zum Spielen herausholen oder im Würfel verstauen und dann überall mitnehmen; jeder Würfel lässt sich stapeln und mit den anderen 4 Würfeln zusammenstecken, um witzige Formen zu bilden, oder für gemeinsamen Spielspaß in zwei Hälften teilen
 - Eine tolle spontane Belohnung und ein wunderbares Geburtstags- oder Weihnachtsgeschenk für Kinder ab 6 Jahren, die kompakte Spielsachen mögen; diese einfachen Modelle verschaffen Kindern einen raschen Einstieg in das LEGO Bau- und Spielerlebnis
-- Dieses tragbare Spielfiguren-Set inspiriert zu aufregenden LEGO Friends Abenteuern: auch unterwegs; dieses kompakte Spielzeug zum Sammeln ermöglicht es Kindern, Andrea und ihre Bühne überall mitzunehmen
 - Jeder Würfel ist nur 8 cm breit und 6 cm tief; deshalb lässt sich dieses kompakte Spielzeug bequem zu einem Spieltreffen mitnehmen; die farbenfrohen tragbaren Würfel sorgen auch auf langen Reisen für Erheiterung
-- Es sind keine Batterien erforderlich, um diesen stapelbaren Würfel zum Leben zu erwecken; er lässt sich teilen, stapeln und mit anderen Würfeln zusammenstecken; und in jedem Würfel verbirgt sich ein Überraschungstier; die Würfel strotzen nur so vor Möglichkeiten
-- Die Kinder lernen Heartlake City kennen; dieser Ort bietet jede Menge fantasievollen Spielspaß und tolle Freundschaften; dort treffen die Kinder Charaktere, die ihnen sehr ähnlich sind: und jeder ist willkommen
 - Wie bei allen LEGO Sets wird dieses lustige Spielzeug mit einer klaren gedruckten Anleitung geliefert; sie ist so gestaltet, dass sie für Kinder ab 6 Jahren leicht zu verstehen sind; so können Kinder ganz ohne die Hilfe eines Erwachsenen mit dem Bauen starten
 - Das Set Andreas magischer Würfel: Sängerin (41400) enthält eine Musikerin als Spielfigur, ein Spielzeug-Tier, ein Spielzeug-Klavier und eine Spielzeug-Bühne; das Spielfiguren-Zubehör umfasst ein Spielzeug-Mikrofon und ein Blatt mit Aufklebern, um den Würfel ganz individuell aufzupeppen
+- Dieses tragbare Spielfiguren-Set inspiriert zu aufregenden LEGO Friends Abenteuern: auch unterwegs; dieses kompakte Spielzeug zum Sammeln ermöglicht es Kindern, Andrea und ihre Bühne überall mitzunehmen
+- Es sind keine Batterien erforderlich, um diesen stapelbaren Würfel zum Leben zu erwecken; er lässt sich teilen, stapeln und mit anderen Würfeln zusammenstecken; und in jedem Würfel verbirgt sich ein Überraschungstier; die Würfel strotzen nur so vor Möglichkeiten
+- Die Kinder lernen Heartlake City kennen; dieser Ort bietet jede Menge fantasievollen Spielspaß und tolle Freundschaften; dort treffen die Kinder Charaktere, die ihnen sehr ähnlich sind: und jeder ist willkommen
+- Die Kinder können die Musikerin und die Musikspielzeuge zum Spielen herausholen oder im Würfel verstauen und dann überall mitnehmen; jeder Würfel lässt sich stapeln und mit den anderen 4 Würfeln zusammenstecken, um witzige Formen zu bilden, oder für gemeinsamen Spielspaß in zwei Hälften teilen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07WC19M2D{{</world>}}

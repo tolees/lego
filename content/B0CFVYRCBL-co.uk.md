@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Disney Princess building toy for girls and boys – Kids aged 5+ imagine Beauty and the Beast stories with this Belle’s Storytime Horse Carriage set
 - 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 - Open role play – Includes a carriage, a Belle mini-doll figure, a Phillipe horse toy figure and 2 collectible rings with changeable decorations
-- Fairy-tale accessories – This fun LEGO Disney building toy also let fans use their imaginations to explore horse-care play with Belle and Phillipe
 - Birthday gift for kids – With a LEGO Disney Belle mini-doll figure, LEGO Disney horse toy figure and a detailed vehicle, this set makes a magical Disney-themed gift for 5 plus year old girls and boys
-- Horse and carriage construction toy – In this buildable toy, kids hitch Phillipe to the carriage, load it up and take a trip with Belle
 - LEGO Disney play – This Beauty and the Beast buildable toy playset lets Disney Princess fans expand their play in different ways by adding it to other LEGO building sets (sold separately) in the Disney range
+- Horse and carriage construction toy – In this buildable toy, kids hitch Phillipe to the carriage, load it up and take a trip with Belle
+- Disney Princess building toy for girls and boys – Kids aged 5+ imagine Beauty and the Beast stories with this Belle’s Storytime Horse Carriage set
+- Fairy-tale accessories – This fun LEGO Disney building toy also let fans use their imaginations to explore horse-care play with Belle and Phillipe
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYRCBL{{</world>}}

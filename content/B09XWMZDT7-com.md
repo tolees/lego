@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Fruit-Knockdown Feature - The Super Mario buildable game also includes a tree with a fruit-knockdown feature, red and green fruit, and a gift box for gifting fruits.
-- Collect Digital Coins - Earn additional digital coins by eating fruit or sharing it with another interactive figure using the gift box.
-- Yoshis Interactive Home - Players can greet the Yoshi figure at the door, enjoy a nap in Yoshis bed, pick fruits, and take a spin on the Treat Merry-Go-Round.
-- Merry-Go-Round Fun - Kids can spin LEGO Mario, LEGO Luigi, or LEGO Peach (interactive figures sold separately) on the merry-go-round until the fruits turn gold.
-- Yoshi and Monty Mole - Includes Yoshi and Monty Mole LEGO Super Mario figures for LEGO Mario, LEGO Luigi, or LEGO Peach (3 figures not included) to interact with.
-- Iconic Characters Included - This LEGO Super Mario expansion set features beloved Yoshi and Monty Mole figures, enhancing the interactive game experience.
 - Buildable Game Elements - This LEGO Super Mario toy includes a doorway, bed, letter box with a letter element, and a fireplace for a complete playset experience.
+- Merry-Go-Round Fun - Kids can spin LEGO Mario, LEGO Luigi, or LEGO Peach (interactive figures sold separately) on the merry-go-round until the fruits turn gold.
+- Iconic Characters Included - This LEGO Super Mario expansion set features beloved Yoshi and Monty Mole figures, enhancing the interactive game experience.
+- Yoshis Interactive Home - Players can greet the Yoshi figure at the door, enjoy a nap in Yoshis bed, pick fruits, and take a spin on the Treat Merry-Go-Round.
+- Yoshi and Monty Mole - Includes Yoshi and Monty Mole LEGO Super Mario figures for LEGO Mario, LEGO Luigi, or LEGO Peach (3 figures not included) to interact with.
+- Collect Digital Coins - Earn additional digital coins by eating fruit or sharing it with another interactive figure using the gift box.
+- Fruit-Knockdown Feature - The Super Mario buildable game also includes a tree with a fruit-knockdown feature, red and green fruit, and a gift box for gifting fruits.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09XWMZDT7{{</world>}}

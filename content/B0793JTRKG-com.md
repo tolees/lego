@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Iconic Statue Elements - Includes broken shackles, 7-ray crown, iconic tablet, upraised arm with golden torch, and a decorative nameplate.
+- Symbolic Display - An icon of freedom, the statue was a gift to the United States from France in 1886, symbolizing liberty.
 - Faithful LEGO Interpretation - This impressive LEGO Architecture model kit faithfully reproduces the monuments blend of sculpture and architecture.Perfect Gift Idea - LEGO Architecture building kits make a magnificent birthday or Christmas gift for teens, adults, or any fan of New York City.
 - Authentic Color Scheme - Finished with a sand-green and beige color scheme, this model set delivers a highly satisfying building experience.
-- Iconic Statue Elements - Includes broken shackles, 7-ray crown, iconic tablet, upraised arm with golden torch, and a decorative nameplate.
 - Lady Liberty Statue - Features a Lady Liberty statue with flowing robe, detailed pedestal with shield, brick detailing, and columned balconies.
-- Symbolic Display - An icon of freedom, the statue was a gift to the United States from France in 1886, symbolizing liberty.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0793JTRKG{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This mini-doll playset features a Skate Park toy with ramps, rails, in-line skates, mini skateboard toys, a scooter, Lunas wheelchair and helmets
 - This LEGO skateboard set includes a Builder app containing features that allow kids to zoom in and rotate 3D models plus track and save progress
-- The new 2023 generation of LEGO Friends features new experiences, locations and characters, perfect for stimulating childrens imagination
+- This mini-doll playset features a Skate Park toy with ramps, rails, in-line skates, mini skateboard toys, a scooter, Lunas wheelchair and helmets
 - This new series of LEGO Heartlake City makes a great birthday gift idea or anytime treat for kids 6+ years old who love role-play adventures
 - Kids can repair their wheels in the workshop or take the elevator up to hang out with a drink on the sofa in the relaxation area
+- The new 2023 generation of LEGO Friends features new experiences, locations and characters, perfect for stimulating childrens imagination
 - This toy for kids aged 6+ years old includes Liann (on a skateboard), Zac (on skates) and Luna (practising a handplant) LEGO Friends mini-dolls
 
 [🛒 Check the deal!!]({{< param buyurl >}})

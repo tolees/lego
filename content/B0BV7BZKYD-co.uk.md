@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - The LEGO DREAMZzz Mr. Ozs Spacebus adventure toy set features a space bus toy, 2 minifigures and cool dream characters to explore the dream world
-- Includes LEGO DREAMZzz Mateo and Mr. Oz minifigures, as well as Mr. Ozs monkey Albert, Z-Blob, Susan and Logan figures to operate the spaceship toy
-- This building toy set makes a fun birthday gift or Christmas present for boys, girls and all kids who love creative toys and imaginative play
-- For even more dream-based fun, explore the range of LEGO DREAMZzz sets based on the TV show for kids to create bigger and bolder adventures
 - The space bus toy is full of fun features for exciting adventures such as an opening cockpit, rear loading ramps, spinning thrusters and blasters
-- Kids choose their own adventures and customise the vehicle toy with rockets and cannons or build a huge cannon, a fighter and a mini space shuttle toy
 - Based on the TV show, the set lets kids play at joining Mr. Oz and his monkey sidekick Albert as they escape Susan and her nightmare creatures
+- Kids choose their own adventures and customise the vehicle toy with rockets and cannons or build a huge cannon, a fighter and a mini space shuttle toy
+- Includes LEGO DREAMZzz Mateo and Mr. Oz minifigures, as well as Mr. Ozs monkey Albert, Z-Blob, Susan and Logan figures to operate the spaceship toy
+- For even more dream-based fun, explore the range of LEGO DREAMZzz sets based on the TV show for kids to create bigger and bolder adventures
+- This building toy set makes a fun birthday gift or Christmas present for boys, girls and all kids who love creative toys and imaginative play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BZKYD{{</world>}}

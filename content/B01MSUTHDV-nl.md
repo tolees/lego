@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Een doordacht cadeau voor vogelliefhebbers – geef dit LEGO Icons bouwspakket voor volwassenen cadeau aan hem of haar, mannen en vrouwen die van vogels, interieurdesign, creatieve hobbys en LEGO sets houden
-- LEGO voor volwassenen – maak ruimte voor ontspanning met de inspirerende reeks creatieve LEGO bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
+- Decoratie voor thuis of op kantoor – voeg een vleugje natuur toe aan elke ruimte met dit LEGO Icons IJsvogel model om neer te zetten, gebruik het als kantoor decoratie of woonaccessoire
 - Een creatieve hobby – deze set bevat alles wat je nodig hebt om een LEGO versie te maken van de majestueuze ijsvogel met een vers gevangen vis, plus een wateromgeving als displaystandaard
 - Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO set horen
+- LEGO voor volwassenen – maak ruimte voor ontspanning met de inspirerende reeks creatieve LEGO bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
 - Kenmerken en functies – het LEGO vogel model heeft een beweegbare kop en poten en de wateromgeving met bouwbaar riet dient tevens als standaard, zodat het kan gebruikt worden als woonaccessoire
-- Decoratie voor thuis of op kantoor – voeg een vleugje natuur toe aan elke ruimte met dit LEGO Icons IJsvogel model om neer te zetten, gebruik het als kantoor decoratie of woonaccessoire
+- Een doordacht cadeau voor vogelliefhebbers – geef dit LEGO Icons bouwspakket voor volwassenen cadeau aan hem of haar, mannen en vrouwen die van vogels, interieurdesign, creatieve hobbys en LEGO sets houden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MSUTHDV{{</world>}}

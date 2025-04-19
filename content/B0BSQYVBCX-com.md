@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Journey into the dream world – Kids can enjoy building a vehicle from the dream world with the LEGO DREAMZzz Mrs. Castillo’s Turtle Van (71456) building set
+- Flying submarine mode – Children can add a rocket and moving periscope as accessories to the van. There is also a Cat Cactus who flies alongside it
 - 2 ways to build – With multiple ways to build the toy van inspired by the LEGO DREAMZzz TV show, kids can choose between party mode or flying submarine mode
+- Endless play – The set is designed for kids ages 7 and up to play with their favorite minifigure characters: Mrs. Castillo, Mateo and Zoey. This set provides hours of fun play for boys and girls, on their own or with friends
 - Dimensions – In its largest form, the model measures over 7 in. (18 cm) high, 7.5 in. (19 cm) long and 5.5 in. (15 cm) wide
+- Journey into the dream world – Kids can enjoy building a vehicle from the dream world with the LEGO DREAMZzz Mrs. Castillo’s Turtle Van (71456) building set
 - Party mode – Kids can accessorize the van with a moving tree, a spinning cactus and an opening treasure chest
 - A helping hand – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
-- Flying submarine mode – Children can add a rocket and moving periscope as accessories to the van. There is also a Cat Cactus who flies alongside it
-- Endless play – The set is designed for kids ages 7 and up to play with their favorite minifigure characters: Mrs. Castillo, Mateo and Zoey. This set provides hours of fun play for boys and girls, on their own or with friends
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSQYVBCX{{</world>}}

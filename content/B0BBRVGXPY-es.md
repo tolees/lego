@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Este juego de manualidades proporciona una diversión sin límites en grupo; con piezas que los niños pueden llevarse a casa como recuerdo, ¡es un genial detalle y regalo de cumpleaños para los peques amantes de las fiestas infantiles!
-- Este kit de decoración para fiesta es ideal para cumpleaños, incluye muchos mosaicos y piezas sueltas LEGO DOTS, amuletos, una hoja de pegatinas y muchas ideas de diseño que los peques podrán compartir con padres o amigos
-- Los peques podrán prepararse para la fiesta mientras construyen los banderines y diseñan los cupcakes y las pulseras LEGO DOTS; ¡a las niñas y niños de 6 años en adelante les encantará crear su propia bolsa sorpresa!
 - Todos los cupcakes de juguete de este DIY cuentan con una tapa de ‘’glaseado’’ que se levanta y revela un compartimiento oculto en el interior para guardar pequeños tesoros, ¡y al igual que las pulseras, pueden transformarse en regalos!
 - Lleva las fiestas infantiles al siguiente nivel con este increíble set de manualidades para niños de LEGO DOTS, este kit de fiesta creativa incluye 6 cupcakes de juguete, 6 pulseras de la amistad personalizables, 6 banderines y mucho más
+- Este juego de manualidades proporciona una diversión sin límites en grupo; con piezas que los niños pueden llevarse a casa como recuerdo, ¡es un genial detalle y regalo de cumpleaños para los peques amantes de las fiestas infantiles!
+- Los peques podrán prepararse para la fiesta mientras construyen los banderines y diseñan los cupcakes y las pulseras LEGO DOTS; ¡a las niñas y niños de 6 años en adelante les encantará crear su propia bolsa sorpresa!
+- Este kit de decoración para fiesta es ideal para cumpleaños, incluye muchos mosaicos y piezas sueltas LEGO DOTS, amuletos, una hoja de pegatinas y muchas ideas de diseño que los peques podrán compartir con padres o amigos
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRVGXPY{{</world>}}

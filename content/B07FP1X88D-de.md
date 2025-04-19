@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Vom Hersteller empfohlenes Alter: 6+
 - Spiele mit diesem kreativen THE LEGO MOVIE 2 Bauset tolle Szenen aus dem Film nach
 - Anzahl der Teile: 455
-- Vom Hersteller empfohlenes Alter: 6+
 - Dieses THE LEGO MOVIE 2 Set enthält eine Anleitung zum Bauen jedes Modells sowie anregende Ideen, um die Königin in weitere Gestalten umzubauen
 - Königin Wasimma Si-Willis Bau-Was-Du-Willst-Box
 

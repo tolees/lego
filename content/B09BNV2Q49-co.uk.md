@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Hidden throughout are LEGO elements inspired by other sets, like the minifigure shields & dinosaur tails used to create the sepals and roots
+- Rotate the model’s stems, blooms, roots and leaves to create your preferred look, and rebuild the stems to create new flower arrangements
 - The LEGO designers have worked carefully to create a model that looks as close as possible to the real thing, with amazing attention to detail
 - This LEGO artificial plant set from the Botanical Collection makes a great Christmas gift for plant lovers, anniversary present for a wife or husband, or as a just-because gift for women and men
-- Hidden throughout are LEGO elements inspired by other sets, like the minifigure shields & dinosaur tails used to create the sepals and roots
 - Build your own orchid with this LEGO decorative artificial plant and flowers - a special LEGO set for adults from Botanical Collection
-- Rotate the model’s stems, blooms, roots and leaves to create your preferred look, and rebuild the stems to create new flower arrangements
 - This decorative home accessory makes a great alternative to real flowers and is a unique gift for any occasion, such as, a loved ones birthday gift for her or him or get well soon present
 - Inspired by a real orchid, this stylish model version features 6 large flowers and 2 newly opened flowers, plus the blue fluted vase
 

@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - El set LEGO Flores de Cerezo (40725) incluye 2 ramas de cerezo cubiertas de capullos, en tonos rosa pastel y blanco; los aficionados a la decoración floral pueden combinar los colores de los capullos para crear 2 tallos construidos con ladrillos
 - LEGO Creator Rosas (40460) cuenta con 2 flores rojas, hojas verdes y tallos ajustables, idóneas para exponer en un jarrón como decoración del hogar o accesorio de escritorio, y es compatible con los sets LEGO Ramo de Flores
-- Los floristas y los niños y niñas de 8 años o más amantes de la naturaleza podrán disfrutar construyendo coloridas decoraciones florales con LEGO Creator Lote Flores 1, que incluye los kits de construcción Rosas (40460) y Flores de Cerezo (40725)
 - Los niños pueden ampliar su colección de flores artificiales LEGO y crear coloridas y vibrantes decoraciones y arreglos florales para su dormitorio o accesorios de escritorio
+- Los floristas y los niños y niñas de 8 años o más amantes de la naturaleza podrán disfrutar construyendo coloridas decoraciones florales con LEGO Creator Lote Flores 1, que incluye los kits de construcción Rosas (40460) y Flores de Cerezo (40725)
 - Una gran idea romántica de regalo de San Valentín para mujeres, hombres, como regalo de aniversario floral para tu esposa o marido o como regalo para cualquier amante de las flores que quiera expandir su colección LEGO Botanicals
 
 [🛒 Buy it!!]({{< param buyurl >}})

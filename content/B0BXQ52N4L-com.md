@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Easy-build toys – Every surprise in the LEGO City Advent Calendar comes with an easy-to-follow building guide printed on the inside of each calendar window
-- No batteries required – The buildable LEGO toys and characters contained in this Christmas Advent Calendar are powered by little kids with big imaginations
-- Putting safety first – LEGO bricks and pieces are dropped, heated, crushed, twisted and analysed to make sure they meet stringent global standards for safety
-- Imaginative play – Festive LEGO City Advent playsets come with colourful miniature builds and fun characters that stimulate creative role play
 - Premium-quality toys – All LEGO components meet strict industry standards to ensure they are consistent, compatible and fun to build with: it’s been that way since 1958
-- Dimensions – The LEGO City Advent Calendar box measures over 10 in. (26 cm) high, 15 in. (38 cm) wide and 2.5 in. (7 cm) deep
+- Putting safety first – LEGO bricks and pieces are dropped, heated, crushed, twisted and analysed to make sure they meet stringent global standards for safety
+- Easy-build toys – Every surprise in the LEGO City Advent Calendar comes with an easy-to-follow building guide printed on the inside of each calendar window
 - Packed with seasonal fun – Bring a festive feel to each and every day as kids count down to Christmas with the 2023 LEGO City Advent Calendar (60381) set
+- Dimensions – The LEGO City Advent Calendar box measures over 10 in. (26 cm) high, 15 in. (38 cm) wide and 2.5 in. (7 cm) deep
+- A festive pre-Christmas gift – Discover new experiences with this toy-filled Advent Calendar. Makes a fun holiday gift for kids and fans of LEGO building sets ages 5 and up
 - Fun characters – Daily surprises include Mr. and Mrs. Claus, carol singer, ice hockey player, ice sculptor and other fan favorite minifigures like the snowman, reindeer, puppy and kitten figures
 - Includes a foldout playmat – Kids can fold down the back of the calendar to set the scene for imaginative adventures in a cozy winter wonderland
-- A festive pre-Christmas gift – Discover new experiences with this toy-filled Advent Calendar. Makes a fun holiday gift for kids and fans of LEGO building sets ages 5 and up
+- No batteries required – The buildable LEGO toys and characters contained in this Christmas Advent Calendar are powered by little kids with big imaginations
+- Imaginative play – Festive LEGO City Advent playsets come with colourful miniature builds and fun characters that stimulate creative role play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BXQ52N4L{{</world>}}

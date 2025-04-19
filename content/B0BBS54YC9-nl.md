@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Buiten bij de brandweerkazerne staat de kar van de popcornverkoper in brand - kinderen moeten snel zijn en de brandweerfiguur in de speelgoed brandweerwagen zetten om te redden wat er te redden valt
 - Dit brandweerauto speelgoed is een origineel cadeau voor een verjaardag of een andere gelegenheid, voor kinderen vanaf 4 jaar die helemaal weg zijn van brandweerfiguren en speelgoedvrachtwagens - ideaal voor beginnende LEGO bouwers!
+- Verras kinderen van 6 jaar en ouder die dol zijn op reddingsvoertuigen en alledaagse helden met dit politie-, brandweer- en ambulance speelgoed, als cadeau voor een verjaardag, de feestdagen of een andere gelegenheid
 - Dit leerzame constructie speelgoed voor 4-jarigen bevat een LEGO startsteen, geïllustreerde bouwinstructies en toegang tot de gratis LEGO Builder app met interactieve tools die jonge bouwers helpen om met zelfvertrouwen te bouwen
 - Dit veelzijdige, vrolijk gekleurde brandweerkazerne speelgoed beschikt over een slaapvertrek, een garage en een noodglijbaan, zodat kinderen ervoor kunnen zorgen dat de 2 minifiguren van brandweerlieden razendsnel in actie kunnen komen
-- Verras kinderen van 6 jaar en ouder die dol zijn op reddingsvoertuigen en alledaagse helden met dit politie-, brandweer- en ambulance speelgoed, als cadeau voor een verjaardag, de feestdagen of een andere gelegenheid
 - Prikkel de verbeelding van jonge kinderen met dit leuke LEGO City 4+ de Brandweerkazerne en de Brandweerwagen speelgoed, compleet met flexibele blusslang en dakladder, plus leuke minifiguren en accessoires
 
 [🛒 Check the deal!!]({{< param buyurl >}})

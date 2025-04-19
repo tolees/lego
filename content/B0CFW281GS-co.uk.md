@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gift idea for kids – This set makes a fun Harry Potter-themed birthday gift for 7+ year old girls, boys and kids, to build their newfound love of Harry Potter stories
 - LEGO Harry Potter toy – Welcome kids into the Wizarding World adventures with this model of Harry Potter’s pet owl Hedwig at 4 Privet Drive
-- LEGO Harry Potter animal toy featuring a Hedwig figure – Young fans recreate an iconic Harry Potter film scene with this posable owl figure
 - Small treat toy for kids – This compact set offers a rewarding build for Harry Potter fans who are new to LEGO building toys
+- LEGO Harry Potter animal toy featuring a Hedwig figure – Young fans recreate an iconic Harry Potter film scene with this posable owl figure
 - Fun combos – This owl LEGO set can be used with other LEGO Harry Potter building toys for kids (sold separately) to create extra play possibilities
+- Gift idea for kids – This set makes a fun Harry Potter-themed birthday gift for 7+ year old girls, boys and kids, to build their newfound love of Harry Potter stories
 - Playful accessories – Includes a buildable trunk with a portrait of Harry Potter and his parents, an A History of Magic book and a wand in its case
 
 [🛒 Buy it now!!]({{< param buyurl >}})

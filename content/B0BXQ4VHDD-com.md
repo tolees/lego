@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Play and display – The open cottage measures over 5 in. (13 cm) high, 9 in. (22 cm) wide and 5 in. (13 cm) deep, with rooms to explore and stories to tell
-- Even more fun – Kids can add to the fun by collecting the other LEGO buildable sets in the series (43223 and 43224– sold separately) and making their own Kingdom of Rosas to play out their stories
 - Gift for ages 7 and up – Disney fans and kids who love fantastic stories will enjoy this building set, which inspires adventures and takes their imaginations to new levels of play
-- Special characters – With Disney princess dolls Asha, Sakina and Sabino, the constructable set offers limitless role-play options for easy playdates
-- Play inspiration – Give any fan of Disney films or kid ages 7 and up who loves magic and wishes this LEGO Disney Asha’s Cottage (43231) building kit
 - What’s in the box – Inside is a 2-level, round, opening cottage from Walt Disney Animation Studios’ film, Wish, with a wishing well, kitchen, bedroom and loads of story-starters
+- Play inspiration – Give any fan of Disney films or kid ages 7 and up who loves magic and wishes this LEGO Disney Asha’s Cottage (43231) building kit
+- Even more fun – Kids can add to the fun by collecting the other LEGO buildable sets in the series (43223 and 43224– sold separately) and making their own Kingdom of Rosas to play out their stories
+- Special characters – With Disney princess dolls Asha, Sakina and Sabino, the constructable set offers limitless role-play options for easy playdates
+- Play and display – The open cottage measures over 5 in. (13 cm) high, 9 in. (22 cm) wide and 5 in. (13 cm) deep, with rooms to explore and stories to tell
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BXQ4VHDD{{</world>}}

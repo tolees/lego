@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Auto-Baukasten mit Spielzeugautos für Kinder: LEGO Classic Kreative Fahrzeuge für Jungen und Mädchen ab 5 Jahren lässt junge Auto-Fans mit LEGO Classic Steinen eigene Flitzer bauen und aufmotzen
-- Steine, die die Baufähigkeiten fördern: LEGO Classic Sets fördern beim freien Bauen die Kreativität der Kinder; für noch mehr Bau- und Spielspaß kann dein Kind die Flitzer mit den separat erhältlichen Sets 11034, 11035 und 11037 kombinieren
 - LEGO Geschenk für Auto-Fans: Kinder, die Polizeiautos, Baufahrzeuge-Spielzeug, Stretchlimousinen und andere Spielzeugautos aus Bausteinen lieben, werden sich über dieses Geburtstags-, Weihnachts- oder Überraschungsgeschenk riesig freuen
-- Konstruktionsspielzeug für junge Baumeister: Beinhaltet 10 Bauideen für noch kreativere Bauprojekte; spezielle Teile, darunter 52 Räder, und einfache Schritt-für-Schritt-Anleitungen laden Kinder dazu ein, ihre LEGO Fahrzeuge aufzumotzen
 - Unterschiedliche Fahrzeuge: Mit den enthaltenen Bausteinen kann dein Kind ein LEGO Polizeiauto-Spielzeug, einen Eiswagen, ein Quad, einen Schaufellader, ein LKW-Spielzeug, einen Kombi, einen Geländewagen und ein Limousine-Spielzeugauto bauen
+- Steine, die die Baufähigkeiten fördern: LEGO Classic Sets fördern beim freien Bauen die Kreativität der Kinder; für noch mehr Bau- und Spielspaß kann dein Kind die Flitzer mit den separat erhältlichen Sets 11034, 11035 und 11037 kombinieren
+- LEGO Auto-Baukasten mit Spielzeugautos für Kinder: LEGO Classic Kreative Fahrzeuge für Jungen und Mädchen ab 5 Jahren lässt junge Auto-Fans mit LEGO Classic Steinen eigene Flitzer bauen und aufmotzen
+- Konstruktionsspielzeug für junge Baumeister: Beinhaltet 10 Bauideen für noch kreativere Bauprojekte; spezielle Teile, darunter 52 Räder, und einfache Schritt-für-Schritt-Anleitungen laden Kinder dazu ein, ihre LEGO Fahrzeuge aufzumotzen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW22SBY{{</world>}}

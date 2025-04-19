@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Iconic characters from beloved movies with details to spark play plus a toy horse & tiger make a fun birthday or any-day gift for kids, girls and boys aged 6+ years old
+- Kids will love this set full of imaginative possibilities, with settings based on 2 well-known Disney movies: Mulan and Aladdin
 - Includes Disney’s Princess Jasmine and Mulan mini doll figures, plus Khan the toy horse, Rajah the tiger LEGO animal figures
 - Using the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of their model as they build
 - Hop onto the magic carpet and take a trip to Mulan’s shrine to see the plum blossom before you head back to the palace
-- Features a detailed palace toy with 2 floors and a small shrine, plus plenty of accessories to spark fun everyday play sessions
 - Princess Jasmine doll can pop up to the balcony to admire the view; wait, who’s that? Yay, it’s Mulan, Khan and Cri-kee, coming to visit
-- Kids will love this set full of imaginative possibilities, with settings based on 2 well-known Disney movies: Mulan and Aladdin
+- Iconic characters from beloved movies with details to spark play plus a toy horse & tiger make a fun birthday or any-day gift for kids, girls and boys aged 6+ years old
+- Features a detailed palace toy with 2 floors and a small shrine, plus plenty of accessories to spark fun everyday play sessions
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNV6DJX{{</world>}}

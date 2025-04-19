@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The LEGO family house has terrace furniture and a letterbox, the canal house has a dog and 2 toy boats and the lake house has a fire pit and a boat
 - Includes 2 adult and 1 child LEGO minifigures; kids can swap their hair and clothes to create their own characters for imaginative adventures
-- The model building kit can be rebuilt into a 3-storey LEGO canal house with an attic office, art gallery and café, or as a lakeside holiday home
 - The model family house includes 4 rooms: kitchen, living room and 2 bedrooms, plus a garden terrace so kids can play out fun-filled stories
 - LEGO Creator 3 in 1 Cosy House building toy set for kids 8+ years old features 3 different houses: a family house, canal house and a lake house
+- The model building kit can be rebuilt into a 3-storey LEGO canal house with an attic office, art gallery and café, or as a lakeside holiday home
+- The LEGO family house has terrace furniture and a letterbox, the canal house has a dog and 2 toy boats and the lake house has a fire pit and a boat
 - The family and LEGO lake house can be opened in the middle, while the top floor of the canal house can be removed and added to the back
 - Let kids imaginations run wild with LEGO Creator 3 in 1 construction toy sets: Vintage Motorcycle (31135), Exotic Parrot (31136) and Beach Camper Van (31138)
 

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Speelset met karts – er staat je volop race-actie te wachten met de LEGO City Karts en racers auto speelgoed set voor kinderen vanaf 5 jaar
-- Fantasierijk spel – plaats de minifiguren van de LEGO raceauto coureur achter het stuur van de voertuigen en er ontstaat een wereld vol creatief spel en zelfbedachte verhalen
 - Op zoek naar een leuk cadeau voor kinderen vanaf 5 jaar? – verras je favoriete kartfan met dit bouwpakket als cadeau of traktatie
-- Eindeloze actie – ga voor nog meer plezier en avonturen door deze set met minikarts te combineren met andere LEGO voertuigen sets (apart verkrijgbaar) uit het LEGO City assortiment
-- Wat zit er in deze kart speelgoed set? – alles wat kinderen nodig hebben om een turquoise en een oranje speelgoed kart te bouwen, plus minifiguren van 2 coureurs en een trofee
-- Inclusief interactieve gids – kinderen kunnen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan in de intuïtieve LEGO Builder app
 - Maak leren leuk– LEGO City speelgoed stimuleert het zelfvertrouwen en belangrijke vaardigheden van kinderen door creatief spelen
+- Inclusief interactieve gids – kinderen kunnen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan in de intuïtieve LEGO Builder app
+- Eindeloze actie – ga voor nog meer plezier en avonturen door deze set met minikarts te combineren met andere LEGO voertuigen sets (apart verkrijgbaar) uit het LEGO City assortiment
+- Fantasierijk spel – plaats de minifiguren van de LEGO raceauto coureur achter het stuur van de voertuigen en er ontstaat een wereld vol creatief spel en zelfbedachte verhalen
+- Speelset met karts – er staat je volop race-actie te wachten met de LEGO City Karts en racers auto speelgoed set voor kinderen vanaf 5 jaar
+- Wat zit er in deze kart speelgoed set? – alles wat kinderen nodig hebben om een turquoise en een oranje speelgoed kart te bouwen, plus minifiguren van 2 coureurs en een trofee
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYDP36{{</world>}}

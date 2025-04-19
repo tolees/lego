@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bij deze dieren speelset zijn 3 LEGO Friends minipoppetjes inbegrepen: Autumn, Zac en dierenarts dr. Gabriela, onderdeel van de nieuwe generatie LEGO Friends personages voor 2023, plus dierenfiguren van Pickle, Dash en Grace
 - Kinderen zullen het geweldig vinden om de accessoires voor de LEGO huisdieren te gebruiken om hun eigen verhalen te bedenken: van hondenspeeltjes tot een weegschaal, medicijnen, eten, water, een vergrootglas, een mand, een borstel en meer
 - Bij het reddingscentrum wachten Pickle, Dash en Grace allemaal om geadopteerd te worden: kinderen kunnen de LEGO Friends helpen om voor de puppys te zorgen door ze te borstelen, een gezondheidscheck te doen of ze bezig te houden op het speelveld
-- In 2023 worden Heartlake City en het LEGO Friends universum uitgebreid met nieuwe personages en locaties; kinderen zullen het geweldig vinden om de herkenbare personages en hun passies te leren kennen
+- Bij deze dieren speelset zijn 3 LEGO Friends minipoppetjes inbegrepen: Autumn, Zac en dierenarts dr. Gabriela, onderdeel van de nieuwe generatie LEGO Friends personages voor 2023, plus dierenfiguren van Pickle, Dash en Grace
 - Kinderen kunnen hun eigen reddingscentrum creëren door de verschillende gedeelten, waaronder een receptieruimte, een behandelkamer, een verzorgingsgedeelte, een hindernisbaan en kennels, anders in te delen
+- In 2023 worden Heartlake City en het LEGO Friends universum uitgebreid met nieuwe personages en locaties; kinderen zullen het geweldig vinden om de herkenbare personages en hun passies te leren kennen
 - Moedig kinderen van 7+ jaar oud aan om voor dieren te zorgen terwijl ze spelen met dit creatieve LEGO Friends Honden reddingscentrum speelgoed, inclusief een verzorgingsgedeelte en een trainingsgedeelte, plus 3 minipoppetjes en 3 hondenfiguren
 
 [🛒 Buy it!!]({{< param buyurl >}})

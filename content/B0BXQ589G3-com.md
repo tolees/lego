@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Everyday play – The construction set includes a marketplace with double doors, a staircase, a back room with a table, a balcony, a cart with a flag, plus lots of accessories for creative play
 - Stories await – The marketplace measures over 4.5 in. (12 cm) high, 7 in. (17 cm) wide and 4 in. (11 cm) deep, ready to inspire hours of inventive storytelling and imaginative play
 - Expand the play – Young storytellers can expand on the fun by collecting the other LEGO buildable sets in the series (43224 and 43231 – sold separately) and making their own Kingdom of Rosas
+- Fun gift for ages 6 and up – Disney fans can have fun with a set that fulfills a child’s passion for Disney films, fantastic adventures and building play, while kick-starting their imagination
 - A wish for adventure – Give a Disney fan, or any kid aged 6 and up who’s a fan of adventures, a gift to inspire the imagination with this LEGO Disney Asha in the City of Rosas (43223) set
 - Fun characters – Includes a LEGO Disney Asha mini figure and Valentino and Star LEGO Disney figures. This set, based on the film from Walt Disney Animation Studios, Wish, is made for adventures in the City of Rosas market
-- Fun gift for ages 6 and up – Disney fans can have fun with a set that fulfills a child’s passion for Disney films, fantastic adventures and building play, while kick-starting their imagination
+- Everyday play – The construction set includes a marketplace with double doors, a staircase, a back room with a table, a balcony, a cart with a flag, plus lots of accessories for creative play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BXQ589G3{{</world>}}

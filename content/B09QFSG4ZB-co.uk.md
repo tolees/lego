@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Each room is filled with magical items from the movies: invisibility cloak, Pensieve memory keeper, Sorting hat and the Sword of Gryffindor
-- This LEGO Hogwarts Castle set features the restricted section of Hogwarts library and Dumbledores office, with lots of authentic accessories
-- This Harry Potter buildable toy for kids also includes a cat figure, a witchs hat for Madam Pince and the baby fawkes rising from the ashes
-- The magic multi-level Harry Potter castle toy for kids also contains 3 random wizard card tiles (of 16 in total) for kids to collect
-- The set includes 6 LEGO Harry Potter minifigures: Harry Potter, Hermione Granger, Albus Dumbledore, Severus Snape, Argus Filch and Madam Pince
-- This LEGO Harry Potter set is one of a series of modular sets that combine to create a complete Hogwarts Castle toy
 - This Harry Potter building toy makes a great gift idea for boys and girls aged 8 plus and all fans of the Wizarding World adventures
+- Each room is filled with magical items from the movies: invisibility cloak, Pensieve memory keeper, Sorting hat and the Sword of Gryffindor
+- The set includes 6 LEGO Harry Potter minifigures: Harry Potter, Hermione Granger, Albus Dumbledore, Severus Snape, Argus Filch and Madam Pince
+- The magic multi-level Harry Potter castle toy for kids also contains 3 random wizard card tiles (of 16 in total) for kids to collect
+- This LEGO Harry Potter set is one of a series of modular sets that combine to create a complete Hogwarts Castle toy
+- This Harry Potter buildable toy for kids also includes a cat figure, a witchs hat for Madam Pince and the baby fawkes rising from the ashes
+- This LEGO Hogwarts Castle set features the restricted section of Hogwarts library and Dumbledores office, with lots of authentic accessories
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFSG4ZB{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes 9 LEGO plants based on arid, tropical and carnivorous species, in terracotta-coloured pots - great as home decor or desk accessories
-- This set is part of the LEGO Botanical Collection, and includes elements of plant-based plastic that’s made using sustainably sourced sugar cane
-- A range of models to suit; beginners can gain experience from the simple artificial plants, while experienced builders can turn to advanced models
-- Transform any space into a haven of colour with this beautiful, low-maintenance, floral creation adult LEGO set for women, men or any nature fan
 - Enjoy a relaxing project with the LEGO Botanicals Tiny Plants Set for adults, featuring 9 plants with flowers in a terracotta-coloured pot
+- This set is part of the LEGO Botanical Collection, and includes elements of plant-based plastic that’s made using sustainably sourced sugar cane
+- Includes 9 LEGO plants based on arid, tropical and carnivorous species, in terracotta-coloured pots - great as home decor or desk accessories
+- Transform any space into a haven of colour with this beautiful, low-maintenance, floral creation adult LEGO set for women, men or any nature fan
+- A range of models to suit; beginners can gain experience from the simple artificial plants, while experienced builders can turn to advanced models
 - The LEGO Botanicals Tiny Plants building kit makes a a thoughtful Mothers Day gift, anniversary present for a wife, or a just because treat for lovers of artificial flowers and plants
 
 [🛒 Buy it now!!]({{< param buyurl >}})

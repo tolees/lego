@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Maak leren leuk– LEGO City speelgoed stimuleert het zelfvertrouwen en belangrijke vaardigheden van kinderen door creatief spelen
+- Wat zit er in de doos? – inclusief LEGO minifiguren van een fotograaf en coureur en een trofee, plus alles wat je kleine bouwer nodig heeft om een speelgoed auto te bouwen
+- Onbegrensd creatief spelen – ga voor nog meer plezier en avonturen door deze set te combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
 - Ontworpen voor jonge bouwers – deze LEGO speelgoed raceauto set voor kinderen vanaf 4 jaar bevat een startsteen, eenvoudige bouwinstructies met afbeeldingen en digitale begeleiding via de LEGO Builder app
+- Maak leren leuk– LEGO City speelgoed stimuleert het zelfvertrouwen en belangrijke vaardigheden van kinderen door creatief spelen
+- LEGO Raceauto modelauto voor kinderen vanaf 4 jaar – laat het raceplezier beginnen met de LEGO City Groene racewagen speelset met een bouwbaar speelgoed voertuig voor fantasierijk speelplezier
 - Een LEGO cadeau voor kinderen, jongens en meisjes – dit race auto speelgoed is een leuk cadeau voor autoliefhebbers en fans van coole LEGO voertuigen
 - Laat je fantasie de vrije loop – plaats de LEGO minifiguur van een autocoureur in de cockpit en er ontstaat een wereld vol creatief spel en zelfbedachte verhalen
-- Wat zit er in de doos? – inclusief LEGO minifiguren van een fotograaf en coureur en een trofee, plus alles wat je kleine bouwer nodig heeft om een speelgoed auto te bouwen
-- LEGO Raceauto modelauto voor kinderen vanaf 4 jaar – laat het raceplezier beginnen met de LEGO City Groene racewagen speelset met een bouwbaar speelgoed voertuig voor fantasierijk speelplezier
-- Onbegrensd creatief spelen – ga voor nog meer plezier en avonturen door deze set te combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTFLS{{</world>}}

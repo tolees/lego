@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Check out Heatwave Transforming Lava Dragon (71793), Lloyd and Arin’s Ninja Team Mechs (71794) and others in the LEGO NINJAGO building toy range
 - There is also a glider with 2 stud shooters for Rapton to fly on, plus a Baby Riyu toy dragon figure for kids to role-play exciting stories
 - LEGO NINJAGO 2in1 set features a posable ninja mech which transforms into motorbike toy for kids to recreate the NINJAGO Dragons Rising TV series
-- Features 3 LEGO NINJAGO minifigures - Arin armed with a katana and grappling hook, Sora with 2 katanas, and Rapton with an Imperium sword
-- Check out Heatwave Transforming Lava Dragon (71793), Lloyd and Arin’s Ninja Team Mechs (71794) and others in the LEGO NINJAGO building toy range
 - Kids can transform the posable NINJAGO mech action figure into a superfast ninja motorbike toy with golden blades and 2 stud shooters
+- Features 3 LEGO NINJAGO minifigures - Arin armed with a katana and grappling hook, Sora with 2 katanas, and Rapton with an Imperium sword
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCBP5ZV{{</world>}}

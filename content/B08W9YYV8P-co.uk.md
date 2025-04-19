@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This modular Super Mario toy can be combined with other LEGO Super Mario expansion sets; bringing unlimited play opportunities
-- The LEGO Luigi figure is powered by 2 x AAA batteries (not included), delivering a highly interactive play experience with instant feedback
-- The free LEGO app offers building instructions, creative tips and a safe platform for kids to share ideas - visit LEGO.com/devicecheck
 - LEGO Luigi has a colour sensor and an LCD screen to display many different instant reactions to movement and action bricks alongside his path
+- The LEGO Luigi figure is powered by 2 x AAA batteries (not included), delivering a highly interactive play experience with instant feedback
+- This LEGO Super Mario Adventures with Luigi Starter Course buildable toy game features a LEGO Luigi figure for fun interactive family or solo play
+- The free LEGO app offers building instructions, creative tips and a safe platform for kids to share ideas - visit LEGO.com/devicecheck
+- This modular Super Mario toy can be combined with other LEGO Super Mario expansion sets; bringing unlimited play opportunities
 - Luigis speaker plays iconic sounds and music from the video game while collecting digital coins for spinning seesaw and flying challenges
 - Includes Pink Yoshi, Boom Boom and Bone Goomba LEGO Super Mario figures adding action from Start Pipe to Goal Pole - look how LEGO Luigi figure reacts to them
-- This LEGO Super Mario Adventures with Luigi Starter Course buildable toy game features a LEGO Luigi figure for fun interactive family or solo play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08W9YYV8P{{</world>}}

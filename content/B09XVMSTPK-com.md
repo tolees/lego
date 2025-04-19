@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids can create 1 big design by placing the 5 stickers together, or 5 separate designs to show off their creative style in different places
-- This cool arts and crafts set contains 5 8x8 adhesive patches in different colors for kids to design and stick on to any hard, level surface
 - Includes a huge 450+ colorful tiles, 10 random decorated tiles and a tile remover so kids can decorate their mosaic sticker patches in unique ways
 - This creative activity 5in1 toy for kids is great for solo play or to share with friends; kids can redesign the patches anytime to switch up their looks
 - This arts and crafts LEGO DOTS mosaic kit for children contains easy-to-follow pattern suggestions to inspire new designs for the personalized stickers
+- This cool arts and crafts set contains 5 8x8 adhesive patches in different colors for kids to design and stick on to any hard, level surface
+- Kids can create 1 big design by placing the 5 stickers together, or 5 separate designs to show off their creative style in different places
 - Set trends on the playground and decorate notebooks, phone cases, room décor items or any flat, hard surface with kids personalized designs
 - Kids can also use any of the Extra DOTS bags or Lots of DOTS boxes (sold separately) to expand their creative designs even further
 

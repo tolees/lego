@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Una original idea de regalo: Dibuja una sonrisa en la cara de tu constructor o constructora LEGO a partir de 6 años con este set, perfecto para regalar en ocasiones como cumpleaños y fechas festivas o como sorpresa solo porque sí
-- Dimensiones: Cada figura de pan de jengibre mide aproximadamente 11 cm de altura
 - Una actividad festiva para niños, niñas, amigos y familiares: Disfruta de una divertida experiencia de construcción durante la época más entrañable del año con el set LEGO Adornos de Pan de Jengibre (40642)
+- Dimensiones: Cada figura de pan de jengibre mide aproximadamente 11 cm de altura
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CH1BRSW1{{</world>}}

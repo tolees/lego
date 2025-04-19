@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met de patches kunnen kinderen één groot ontwerp maken, of 5 aparte ontwerpen, waarmee ze verschillende voorwerpen van stijl kunnen voorzien, en wanneer ze klaar zijn voor een andere look kunnen ze de patches weer opnieuw versieren
-- Dit creatieve speelgoed bevat 5 zelfklevende 8x8 patches in verschillende kleuren, plus ruim 450 LEGO DOTS steentjes, 10 versierde steentjes en een steentjesverwijderaar
-- Kinderen kunnen elke harde en vlakke ondergrond versieren met deze leuke gepersonaliseerde stickers: ze kunnen gebruikt worden als muursticker, laptopsticker en smartphonedecoratie om voorwerpen een ware metamorfose te geven
+- Dit 5-in-1 knutselpakket is ideaal om zelfstandig mee te knutselen, of samen met vriendjes en vriendinnetjes - het is een geweldig cadeau voor creatieve meisjes en jongens vanaf 6 jaar; voor een verjaardag of een andere speciale gelegenheid
 - Inclusief eenvoudig te volgen ontwerpsuggesties als inspiratie, plus talloze kleurrijke en versierde steentjes, zodat kinderen hun eigen stijl kunnen laten zien
 - Kinderen maken kennis met creatieve LEGO activiteiten door verschillende voorwerpen te personaliseren met mozaiek - voor nog meer speelpret kunnen ze deze DIY set combineren met één van de Extra DOTS zakjes (apart verkrijgbaar)
-- Dit 5-in-1 knutselpakket is ideaal om zelfstandig mee te knutselen, of samen met vriendjes en vriendinnetjes - het is een geweldig cadeau voor creatieve meisjes en jongens vanaf 6 jaar; voor een verjaardag of een andere speciale gelegenheid
+- Met de patches kunnen kinderen één groot ontwerp maken, of 5 aparte ontwerpen, waarmee ze verschillende voorwerpen van stijl kunnen voorzien, en wanneer ze klaar zijn voor een andere look kunnen ze de patches weer opnieuw versieren
+- Kinderen kunnen elke harde en vlakke ondergrond versieren met deze leuke gepersonaliseerde stickers: ze kunnen gebruikt worden als muursticker, laptopsticker en smartphonedecoratie om voorwerpen een ware metamorfose te geven
+- Dit creatieve speelgoed bevat 5 zelfklevende 8x8 patches in verschillende kleuren, plus ruim 450 LEGO DOTS steentjes, 10 versierde steentjes en een steentjesverwijderaar
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFK7QRC{{</world>}}

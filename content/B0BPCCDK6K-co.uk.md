@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- After the slope fun, kids can try out the climbing wall and play out fun winter sports like skating and ice hockey in the outdoor area
-- The LEGO City Ski and Climbing Centre set, a toy for kids, boys and girls aged 7+ years old is packed with fun winter-sports and activities
-- Includes 8 LEGO City minifigures with cool ski accessories plus owl and squirrel animal figures and a buildable snowman for endless winter fun
-- Sports fans will enjoy this cool playset as an any day treat, Christmas present, or birthday gift for kids, boys and girls aged 7+ years old
 - Includes a bicycle, medic pack, 2 backpacks, a camera, 4 skis, 2 LEGO snowboards, ski poles, ice hockey sticks and skates, snowshoes and ice axes
+- The LEGO City Ski and Climbing Centre set, a toy for kids, boys and girls aged 7+ years old is packed with fun winter-sports and activities
+- After the slope fun, kids can try out the climbing wall and play out fun winter sports like skating and ice hockey in the outdoor area
 - The 3-level LEGO modular building houses a winter sports shop, cafe and a working lift that takes skiers to the top to perform awesome stunts
+- Sports fans will enjoy this cool playset as an any day treat, Christmas present, or birthday gift for kids, boys and girls aged 7+ years old
 - When the action is finished and its time to relax, kids can take a break in the cosy cafe or browse in the shop of this LEGO winter-sports set
+- Includes 8 LEGO City minifigures with cool ski accessories plus owl and squirrel animal figures and a buildable snowman for endless winter fun
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCCDK6K{{</world>}}

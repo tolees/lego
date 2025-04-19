@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Das Porsche 911 Turbo Modellauto verfügt über eine breite Hinterachse, einen integrierten Spoiler sowie einen Turbo-Motor komplett mit Ladeluftkühler
-- Dieses LEGO Set für Erwachsene verfügt über 2 baubare Porsche-Modelle, die speziell für Oldtimer-Fans und Porsche-Enthusiasten entwickelt wurden
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Das Porsche 911 Targa Modellauto verfügt über ein abnehmbares Dach, das in die Motorhaube passt, sowie die ikonische Targa-Stange mit Heckglas hinter dem Fahrer
+- Dieses LEGO Set für Erwachsene verfügt über 2 baubare Porsche-Modelle, die speziell für Oldtimer-Fans und Porsche-Enthusiasten entwickelt wurden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08XQYXPLC{{</world>}}

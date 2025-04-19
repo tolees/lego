@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This set includes a buildable LEGO Minecraft toy shelter, a Taiga forest build and an exploding TNT function that blows up part of the mountain
 - This action-packed playset, part of a range of LEGO Minecraft building toys, makes a great birthday gift for kids age 8 plus years old
-- Features a Minecraft goat toy with a ramming feature to knock the mobs off the mountain, plus coal, iron and emerald ore elements for kids to mine
-- This icy Minecraft biome toy set includes a LEGO Minecraft Steve figure, Creeper and stray Minecraft Mobs and a goat animal toy figure
-- The LEGO Minecraft building toy includes fun features and authentic accessories and weapons, such as a crafting table, torch and toy diamond sword
+- This set includes a buildable LEGO Minecraft toy shelter, a Taiga forest build and an exploding TNT function that blows up part of the mountain
 - Fans of the Minecraft video game can build, battle and explore the icy biome in the frozen mountain caves of this LEGO Minecraft The Frozen Peaks set
+- This icy Minecraft biome toy set includes a LEGO Minecraft Steve figure, Creeper and stray Minecraft Mobs and a goat animal toy figure
 - Kids search the Frozen Peaks, build a shelter, mine ore and gather food; they can explore and escape the dripstone cave or battle hostile mobs
+- Features a Minecraft goat toy with a ramming feature to knock the mobs off the mountain, plus coal, iron and emerald ore elements for kids to mine
+- The LEGO Minecraft building toy includes fun features and authentic accessories and weapons, such as a crafting table, torch and toy diamond sword
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBH9L3JP{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Quick-build LEGO Star Wars Microfighter (75363) – Spark children’s creativity with a buildable microscale model of The Mandalorian’s N-1 Starfighter first seen in Star Wars: The Book of Boba Fett
-- Build and play – The N-1 Starfighter buildable toy features an open cockpit for The Mandalorian, space for Grogu behind the cockpit and 2 stud shooters for action play
-- Gift idea for ages 6 and up – Give this 88-piece LEGO Star Wars building toy to kids as an unexpected treat, birthday gift or holiday present
 - Includes 2 popular Star Wars characters – A LEGO minifigure of The Mandalorian with a blaster pistol and jetpack accessory element, plus a LEGO figure of Grogu Baby Yoda
+- Build and play – The N-1 Starfighter buildable toy features an open cockpit for The Mandalorian, space for Grogu behind the cockpit and 2 stud shooters for action play
 - Microfighter combos – This buildable toy playset combines with other LEGO Star Wars Microfighter sets (sold separately) to open up even more fun play possibilities
+- Gift idea for ages 6 and up – Give this 88-piece LEGO Star Wars building toy to kids as an unexpected treat, birthday gift or holiday present
+- Quick-build LEGO Star Wars Microfighter (75363) – Spark children’s creativity with a buildable microscale model of The Mandalorian’s N-1 Starfighter first seen in Star Wars: The Book of Boba Fett
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRFZHPQ{{</world>}}

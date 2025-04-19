@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Reconfigurable fun – The set measures over 4.5 in. (12 cm) high, 8.5 in. (22 cm) wide and 4.5 in. (12 cm) deep and can be rebuilt and combined with other sets for endless creative play
-- Versatile playset – LEGO Minecraft The Rabbit Ranch (21181) is full to the bunny ears with popular characters, accessories and features from the best-selling Minecraft game
-- Classic characters – Includes popular Minecraft characters: the tamer, a rabbit, baby rabbit and a zombie, plus a host of fun features and amazing accessories
 - Endless play possibilities – An open back and lift-off roof enable imaginative role play inside the ranch. Outside there are animals to care for, carrots to grow and a zombie to battle
 - Great gift – This birthday, holiday or any-day treat gives Minecraft players aged 8 and up the chance to get hands-on with their favorite game
+- Reconfigurable fun – The set measures over 4.5 in. (12 cm) high, 8.5 in. (22 cm) wide and 4.5 in. (12 cm) deep and can be rebuilt and combined with other sets for endless creative play
+- Classic characters – Includes popular Minecraft characters: the tamer, a rabbit, baby rabbit and a zombie, plus a host of fun features and amazing accessories
+- Versatile playset – LEGO Minecraft The Rabbit Ranch (21181) is full to the bunny ears with popular characters, accessories and features from the best-selling Minecraft game
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09FM4PKJ5{{</world>}}

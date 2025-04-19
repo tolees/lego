@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De speelset bevat 6 LEGO poppetjes: Harry Potter, Hermelien Griffel, Albus Perkamentus, Severus Sneep, Argus Vilder en madame Rommella, plus een figuur van een kat
-- Inclusief nog meer accessoires, zoals de Hersenpan die herinneringen onthult, een heksenhoed voor madame Rommella, een lantaarn en baby Felix die herrijst uit de as
 - Bij deze set met diverse verdiepingen vol magische ideeën en inspiratie zijn ook 3 (van de in totaal 16) willekeurige tovenaarskaarttegels inbegrepen die kinderen kunnen verzamelen
-- Dit LEGO Harry Potter speelgoed voor kinderen vanaf 8 jaar bestaat uit de Verboden Afdeling van de bibliotheek, het kantoor van Perkamentus met 4 verdiepingen en talloze authentieke details
+- De speelset bevat 6 LEGO poppetjes: Harry Potter, Hermelien Griffel, Albus Perkamentus, Severus Sneep, Argus Vilder en madame Rommella, plus een figuur van een kat
 - In alle ruimtes van deze Zweinstein Kasteel set zijn herkenbare voorwerpen uit de films te vinden, waaronder Harrys Onzichtbaarheidsmantel, het Zwaard van Griffoendor en de Sorteerhoed
 - Deze bouwset is een geweldig cadeau of een leuke verrassing voor kinderen vanaf 8 jaar: met de gratis LEGO Bouwinstructies app waarmee kinderen het model kunnen bekijken, draaien en erop inzoomen, wordt het bouwen nog leuker
+- Dit LEGO Harry Potter speelgoed voor kinderen vanaf 8 jaar bestaat uit de Verboden Afdeling van de bibliotheek, het kantoor van Perkamentus met 4 verdiepingen en talloze authentieke details
+- Inclusief nog meer accessoires, zoals de Hersenpan die herinneringen onthult, een heksenhoed voor madame Rommella, een lantaarn en baby Felix die herrijst uit de as
 - Dit LEGO speelgoed maakt deel uit van een reeks modulaire sets die je met elkaar kunt combineren tot het complete kasteel Zweinstein
 
 [🛒 Buy it!!]({{< param buyurl >}})

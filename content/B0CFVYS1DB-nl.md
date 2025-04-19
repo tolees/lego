@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Meer aanpasbare mecha – kinderen kunnen onderdelen van Soras mecha omwisselen en combineren met Coles elementaire aardemecha (71806) en Kais elementaire vuurmecha (71808) (apart verkrijgbaar)
-- Verstelbare NINJAGO figuur – Soras mecha heeft een cockpit waarin kinderen haar kunnen plaatsen, een groot zwaard, een draaiend zaagblad en verstelbare armen en benen die naar alle kanten kunnen worden gedraaid voor interessante houdingen
 - Ninja cadeau voor kinderen – dit speelgoed biedt een leuke bouw- en speelervaring en is een cadeautip voor elke dag voor kinderen die graag verhalen boordevol actie naspelen
+- Verstelbare NINJAGO figuur – Soras mecha heeft een cockpit waarin kinderen haar kunnen plaatsen, een groot zwaard, een draaiend zaagblad en verstelbare armen en benen die naar alle kanten kunnen worden gedraaid voor interessante houdingen
 - Bouw je eigen mechapak – ninjafans kunnen genieten van urenlang creatief speelplezier terwijl ze onderdelen van dit ninja speelgoed (sets apart verkrijgbaar) combineren om hun eigen LEGO NINJAGO mech te creëren
-- Een universum vol ninja speelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
 - 2 NINJAGO minifiguren – de set is inclusief NINJAGO Sora met haar 2 katanas en een Wolvenmasker klauwstrijder, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
+- Meer aanpasbare mecha – kinderen kunnen onderdelen van Soras mecha omwisselen en combineren met Coles elementaire aardemecha (71806) en Kais elementaire vuurmecha (71808) (apart verkrijgbaar)
+- Een universum vol ninja speelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYS1DB{{</world>}}

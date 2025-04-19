@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A fun kids’ gift idea – This educational LEGO building toy makes a fun birthday present or Christmas gift for 8-plus-year-old boys and girls
+- Digital building fun – This LEGO City boat-themed set features instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
 - For imaginative play – Kids can access the cargo ship’s engine, bridge and hull and operate the crane to load the containers of toy vehicles
 - Role-play toys – This LEGO City vehicle set also includes a port with shop and restaurant, water scooter, pedalo and 8 LEGO City minifigures
+- LEGO accessories – Comes with fun accessories for pretend play, including a fishing rod, wrench, 2 walkie-talkies, crab net and a crab figure
 - What’s in the box? – This creative building toy for kids includes a LEGO ship, 2 cargo containers and a working container crane toy
 - Seaside harbour set – Bring a cosy vibe to kids’ play with this LEGO City Seaside Harbour with Cargo Ship toy for 8-plus-year-old boys and girls
-- Digital building fun – This LEGO City boat-themed set features instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
-- LEGO accessories – Comes with fun accessories for pretend play, including a fishing rod, wrench, 2 walkie-talkies, crab net and a crab figure
+- A fun kids’ gift idea – This educational LEGO building toy makes a fun birthday present or Christmas gift for 8-plus-year-old boys and girls
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2ZSRX{{</world>}}

@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - 2 ways to play – Creative kids can choose their own adventure by building the action toy as an off-road dune buggy or a quadcopter
 - Toy car for boys and girls – Kids unleash their imaginations with this LEGO DREAMZzz Mateo’s Off-Road car toy with 2 different building options
-- LEGO DREAMZzz characters – The building toy set includes a Mateo minifigure, plus figures of Z-Blob and a Grimspawn
 - Gifts for kids – This playset is a great fantasy birthday gift for boys and girls who can use it to create a rebuildable LEGO vehicle
 - Build and rebuild – In buggy mode it’s a robust off-road LEGO vehicle, and in quadcopter mode it’s a compact helicopter toy with overpowered engines
+- LEGO DREAMZzz characters – The building toy set includes a Mateo minifigure, plus figures of Z-Blob and a Grimspawn
 - LEGO vehicle – This small LEGO set featuring collectible helicopter and car toys is based on the LEGO DREAMZzz TV show
 
 [🛒 Check the deal!!]({{< param buyurl >}})

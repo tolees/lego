@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO actie speelgoed (sets apart verkrijgbaar) om races te organiseren
-- Drakenkrachtelement – de blauwe speelgoed draak heeft een oranje drakenkrachtelement in zijn bek
-- 2 LEGO NINJAGO minifiguren – deze ninjaspeelset bevat een Nya minifiguur met een minikatana, zodat kinderen confrontaties met de Wolvenmasker klauwstrijder kunnen naspelen
-- Een universum vol ninjaspeelgoed voor kinderen – LEGO NINJAGO sets bevatten actiefiguren, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
-- Cadeau voor kinderen – deze LEGO NINJAGO set biedt een leuke bouw- en speelervaring en is een cadeautip voor kinderen die een onverwachte traktatie verdienen
 - LEGO draken speelgoed boordevol actie voor kinderen – jongens en meisjes vanaf 6 jaar kunnen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie naspelen met de speelgoeddraak in Nyas rijzende drakenaanval
+- Een universum vol ninjaspeelgoed voor kinderen – LEGO NINJAGO sets bevatten actiefiguren, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
+- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO actie speelgoed (sets apart verkrijgbaar) om races te organiseren
+- 2 LEGO NINJAGO minifiguren – deze ninjaspeelset bevat een Nya minifiguur met een minikatana, zodat kinderen confrontaties met de Wolvenmasker klauwstrijder kunnen naspelen
+- Cadeau voor kinderen – deze LEGO NINJAGO set biedt een leuke bouw- en speelervaring en is een cadeautip voor kinderen die een onverwachte traktatie verdienen
+- Drakenkrachtelement – de blauwe speelgoed draak heeft een oranje drakenkrachtelement in zijn bek
 - Ninja speelgoed – kinderen kunnen Rijzende draak Nya op de rug van de blauwe draak plaatsen, de gouden staart naar beneden slaan en ze allebei naar voren lanceren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

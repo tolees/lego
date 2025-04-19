@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Iconic characters – Includes an Iron Man figure with his Hulkbuster mech and Thanos with his aircraft. A Starter Brick ensures the build-and-play fun can start right away
-- Portable fun – The Hulkbuster stands over 4.5 in. (11 cm) tall and the aircraft measures over 3.5 in. (9 cm) wide, so kids can easily pick it up and take the action wherever they go
 - Imaginative play for young superheroes – LEGO Marvel Iron Man Hulkbuster vs. Thanos (76263) building toy set puts classic Super Hero action into the hands of children ages 4 and up
 - Battle action – The Hulkbuster toy is fully posable and includes a seat for the Iron Man minifigure. The aircraft has an attached disc shooter and a seat for the Thanos minifigure
 - Marvel toy for kids ages 4 and up – This birthday, holiday or any-day treat includes Starter Bricks and simple building steps to support and strengthen essential developmental skills
+- Iconic characters – Includes an Iron Man figure with his Hulkbuster mech and Thanos with his aircraft. A Starter Brick ensures the build-and-play fun can start right away
+- Portable fun – The Hulkbuster stands over 4.5 in. (11 cm) tall and the aircraft measures over 3.5 in. (9 cm) wide, so kids can easily pick it up and take the action wherever they go
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRDX5T3{{</world>}}

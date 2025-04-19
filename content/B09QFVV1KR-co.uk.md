@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features Wicket the Ewok with a bow and arrow, a Scout Trooper and an AT-ST Driver LEGO minifigures each with a blaster gun, for role play fun
-- Children can help brave Wicket the Ewok defend the lookout post from the Scout Trooper Speeder and the mighty AT-ST walker model
 - Easy to build and rebuild after battles, this LEGO Star Wars 4+ starter set makes a fun birthday present or Christmas gift for creative kids
 - The AT-ST walker is posable and has a cockpit for the driver, the Ewok hideout features a tree and a catapult for Wicket to launch stone elements
+- Children can help brave Wicket the Ewok defend the lookout post from the Scout Trooper Speeder and the mighty AT-ST walker model
 - This LEGO Star Wars AT-ST building toy for preschool kids aged 4+ years old features a quick build Starter Brick to help get action started
+- Features Wicket the Ewok with a bow and arrow, a Scout Trooper and an AT-ST Driver LEGO minifigures each with a blaster gun, for role play fun
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFVV1KR{{</world>}}

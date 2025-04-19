@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met deze veelzijdige set kunnen kinderen avontuurlijke scènes uit de film naspelen, hun eigen verhalen bedenken of een dynamische compositie maken, die ze vervolgens mooi neer kunnen zetten op hun kamer
-- Dit bouwspeelgoed kan worden gecombineerd met andere LEGO Avatar sets voor nog meer speelplezier; er zitten 3 aparte boekjes met bouwinstructies bij, zodat vrienden of familieleden tegelijkertijd verschillende onderdelen van de set kunnen bouwen
-- Het helikopter speelgoed voor kinderen heeft ronddraaiende propellers en het dak van het laboratorium is afneembaar; binnen kunnen kinderen de minifiguur van Jake in zijn linkbed leggen om zijn Avatar wakker te maken
-- Avatar fans kunnen leuke rollenspellen spelen waarin ze samen met Jake en Norm de omgeving van Pandora verkennen op de rug van een IJselijkpaard; wanneer ze genoeg informatie verzameld hebben, kunnen ze verslag uitbrengen bij Dr. Grace!
-- De set bevat 2 minifiguren van Jake Sully (in Navi en menselijke gedaante) met een kruisboog en een speer, plus 3 andere minifiguren van Dr. Grace, Norm en Trudy
-- Verras kinderen vanaf 9 jaar die dol zijn op de natuur met deze geweldige bouwset als verjaardagscadeau, kerstcadeau of als leuke verrassing voor een andere gelegenheid
 - Inspireer kinderen met dit LEGO Avatar constructie speelgoed voor 2022, met een speelgoedhelikopter, Site 26 laboratorium, 5 minifiguren, een figuur van een IJselijkpaard en een tafereel met glow-in-the-dark elementen
+- Dit bouwspeelgoed kan worden gecombineerd met andere LEGO Avatar sets voor nog meer speelplezier; er zitten 3 aparte boekjes met bouwinstructies bij, zodat vrienden of familieleden tegelijkertijd verschillende onderdelen van de set kunnen bouwen
+- Verras kinderen vanaf 9 jaar die dol zijn op de natuur met deze geweldige bouwset als verjaardagscadeau, kerstcadeau of als leuke verrassing voor een andere gelegenheid
+- Het helikopter speelgoed voor kinderen heeft ronddraaiende propellers en het dak van het laboratorium is afneembaar; binnen kunnen kinderen de minifiguur van Jake in zijn linkbed leggen om zijn Avatar wakker te maken
+- Met deze veelzijdige set kunnen kinderen avontuurlijke scènes uit de film naspelen, hun eigen verhalen bedenken of een dynamische compositie maken, die ze vervolgens mooi neer kunnen zetten op hun kamer
+- De set bevat 2 minifiguren van Jake Sully (in Navi en menselijke gedaante) met een kruisboog en een speer, plus 3 andere minifiguren van Dr. Grace, Norm en Trudy
+- Avatar fans kunnen leuke rollenspellen spelen waarin ze samen met Jake en Norm de omgeving van Pandora verkennen op de rug van een IJselijkpaard; wanneer ze genoeg informatie verzameld hebben, kunnen ze verslag uitbrengen bij Dr. Grace!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFHGQCZ{{</world>}}

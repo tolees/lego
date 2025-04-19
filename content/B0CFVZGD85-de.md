@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Weck die Fantasie deines Kindes: LEGO Super Mario Bau-Spielzeug für Kinder lässt sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder auf (gemeinsame) Münzsammelmissionen zu schicken
-- Geschenk für Gamer ab 7 Jahren: Dieses kleine LEGO Set ist eine tolle Geschenkidee für Kinder; für ein interaktives Spielerlebnis wird ein LEGO Super Mario Starterset (71360, 71387 oder 71403) benötigt
-- 3 LEGO Super Mario Figuren: Ein Super Mario-Pinguin aus LEGO Steinen, ein Baby-Pinguin und eine Gumba-Figur mit Wintermütze sowie 2 Fische
-- Spannende Rollenspiele mit diesem Action-Spielzeug: Triff dich in der Höhle mit den Pinguinen, hilf ihnen, die Eisrutsche hinunterzusausen, oder verwandle die Rutsche in einen Eislaufplatz
-- LEGO Super Mario App: Lade dir die App herunter, um dir unter anderem Bauanleitungen und kreative Bau- und Spielideen zu holen
-- LEGO Super Mario Set mit Gumba-Figur: Schneeabenteuer mit Familie Pinguin – Erweiterungsset ist das perfekte Spielzeug für Kinder, um sie in der Eishöhle spielen, Schlitten fahren oder Schlittschuh laufen zu lassen
 - Interaktives digitales Spielerlebnis: Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren sind nicht enthalten), den älteren Pinguin wieder mit dem Baby-Pinguin zusammenzubringen, die Eisrutsche hinunterzusausen oder den Gumba zu besiegen
+- LEGO Super Mario App: Lade dir die App herunter, um dir unter anderem Bauanleitungen und kreative Bau- und Spielideen zu holen
+- Spannende Rollenspiele mit diesem Action-Spielzeug: Triff dich in der Höhle mit den Pinguinen, hilf ihnen, die Eisrutsche hinunterzusausen, oder verwandle die Rutsche in einen Eislaufplatz
+- 3 LEGO Super Mario Figuren: Ein Super Mario-Pinguin aus LEGO Steinen, ein Baby-Pinguin und eine Gumba-Figur mit Wintermütze sowie 2 Fische
+- LEGO Super Mario Set mit Gumba-Figur: Schneeabenteuer mit Familie Pinguin – Erweiterungsset ist das perfekte Spielzeug für Kinder, um sie in der Eishöhle spielen, Schlitten fahren oder Schlittschuh laufen zu lassen
+- Geschenk für Gamer ab 7 Jahren: Dieses kleine LEGO Set ist eine tolle Geschenkidee für Kinder; für ein interaktives Spielerlebnis wird ein LEGO Super Mario Starterset (71360, 71387 oder 71403) benötigt
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZGD85{{</world>}}

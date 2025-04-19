@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Jurassic World Dinosaur toy for kids, boys and girls features an off roader truck toy and posable Pyroraptor and Dilophosaurus dinosaur figures
-- Children can roleplay as popular Jurassic World: Dominion characters, tracking dinosaurs in a LEGO off-roader truck toy
-- This LEGO Jurassic world dinosaur toy set makes a great birthday present or any time gift for young dinosaur loving kids, boys and girls aged 7 plus years old
 - Includes 3 minifigures: Ian Malcolm, Dr. Ellie Sattler and a guard with a tranquilizer accessory, ready for thrilling dinosaur toy adventures
-- The LEGO off-roader truck toy has seats for 2 minifigures, a removable dinosaur tracker toy and a detachable trailer
+- Children can roleplay as popular Jurassic World: Dominion characters, tracking dinosaurs in a LEGO off-roader truck toy
+- This LEGO Jurassic World Dinosaur toy for kids, boys and girls features an off roader truck toy and posable Pyroraptor and Dilophosaurus dinosaur figures
 - The cage on the toy trucks detachable trailer opens and kids can load one of the dinosaur toys onto it to transport them around
+- The LEGO off-roader truck toy has seats for 2 minifigures, a removable dinosaur tracker toy and a detachable trailer
+- This LEGO Jurassic world dinosaur toy set makes a great birthday present or any time gift for young dinosaur loving kids, boys and girls aged 7 plus years old
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNXW29Q{{</world>}}

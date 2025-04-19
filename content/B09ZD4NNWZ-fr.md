@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Facile à utiliser
 - Bon produit de bonne qualité
+- Facile à utiliser
 - Rapport qualité/prix
 
 [🛒 Buy it!!]({{< param buyurl >}})

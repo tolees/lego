@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Liefhebbers van modelautos kunnen genieten van een boeiend bouwproject voordat ze dit LEGO collectors item vol trots neerzetten, of spannende races uit de beroemde The Fast and the Furious filmreeks naspelen
-- Dit LEGO Speed Champions auto speelgoed laat kinderen op een leuke manier kennismaken met de wereld van techniek - het is een geweldig cadeau voor kinderen van 9+ jaar en fans van The Fast and the Furious films
-- Dit raceauto model is geïnspireerd op de echte versie en beschikt over de iconische strepen aan de zijkant, een spoiler aan de achterkant, een grille aan de voorkant, indrukwekkende wielbogen en een brandstofjerrycan met nitro op de passagiersstoel
 - Deze super stijlvolle LEGO Speed Champions 2023 modelbouwset bevat een LEGO poppetje van Brian OConner die kinderen achter het stuur van de Nissan Skyline GT-R (R34) auto kunnen plaatsen
 - Fans van The Fast and the Furious kunnen spannende momenten uit de iconische film 2 Fast 2 Furious opnieuw beleven met deze LEGO Nissan Skyline GT-R (R34) modelauto voor kinderen
+- Dit raceauto model is geïnspireerd op de echte versie en beschikt over de iconische strepen aan de zijkant, een spoiler aan de achterkant, een grille aan de voorkant, indrukwekkende wielbogen en een brandstofjerrycan met nitro op de passagiersstoel
+- Dit LEGO Speed Champions auto speelgoed laat kinderen op een leuke manier kennismaken met de wereld van techniek - het is een geweldig cadeau voor kinderen van 9+ jaar en fans van The Fast and the Furious films
+- Liefhebbers van modelautos kunnen genieten van een boeiend bouwproject voordat ze dit LEGO collectors item vol trots neerzetten, of spannende races uit de beroemde The Fast and the Furious filmreeks naspelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXC9HN{{</world>}}

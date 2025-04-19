@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 2 LEGO NINJAGO Figuren: Dieses Action-Spielzeug beinhaltet die LEGO NINJAGO Minifigur Arin mit einem Mini-Katana für Rollenspiele und packende Duelle mit einem Wolfsjäger, der auch ein Spielzeug-Schwert schwingt
-- Ninja-Spielzeug: Dein Kind kann den Drachenreiter NINJAGO Arin auf den Rücken der gelben Drachenfigur setzen und dann seinen goldenen Schwanz runterschlagen, um beide in die Luft zu katapultieren
 - Drachen-Geschenk: Dieses LEGO NINJAGO Set bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder, die sich ein spontanes kleines Geschenk verdient haben
-- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
+- 2 LEGO NINJAGO Figuren: Dieses Action-Spielzeug beinhaltet die LEGO NINJAGO Minifigur Arin mit einem Mini-Katana für Rollenspiele und packende Duelle mit einem Wolfsjäger, der auch ein Spielzeug-Schwert schwingt
 - Drachenpower-Element: Das grüne Drachenpower-Element aus diesem LEGO NINJAGO Set passt ins Maul des gelben Drachen
+- Ninja-Spielzeug: Dein Kind kann den Drachenreiter NINJAGO Arin auf den Rücken der gelben Drachenfigur setzen und dann seinen goldenen Schwanz runterschlagen, um beide in die Luft zu katapultieren
 - Drachen-Spielzeug für Kinder: Mit Arins Drachengleiter können Jungen und Mädchen ab 6 Jahren die Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1WBCM{{</world>}}

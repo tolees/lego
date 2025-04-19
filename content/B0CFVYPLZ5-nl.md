@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bouw je eigen mechapak – kinderen kunnen genieten van urenlang creatief speelplezier terwijl ze onderdelen van dit ninjaspeelgoed (sets apart verkrijgbaar) combineren om hun eigen LEGO NINJAGO mech te creëren
-- Ninja cadeau voor kinderen – dit speelgoed biedt een leuke bouw- en speelervaring en is een cadeautip voor elke dag voor kinderen die graag verhalen boordevol actie naspelen
 - Aanpasbare actiefiguur voor kinderen – Kais elementaire vuurmecha is ninja speelgoed voor jongens en meisjes vanaf 7 jaar dat kan worden gecombineerd met 2 andere mecha (apart verkrijgbaar) dankzij de afneembare benen, armen en borst
-- 4 NINJAGO minifiguren – de set bevat NINJAGO Kai, Zane en Jordana, ieder met een zwaard, en een Wolvenmasker strijder, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
 - Verstelbare figuur – Kais mecha heeft verstelbare armen en benen die naar alle kanten kunnen worden gedraaid en een groot gouden zwaard voor rollenspel confrontaties met een Wolvenmecha
+- Ninja cadeau voor kinderen – dit speelgoed biedt een leuke bouw- en speelervaring en is een cadeautip voor elke dag voor kinderen die graag verhalen boordevol actie naspelen
+- Bouw je eigen mechapak – kinderen kunnen genieten van urenlang creatief speelplezier terwijl ze onderdelen van dit ninjaspeelgoed (sets apart verkrijgbaar) combineren om hun eigen LEGO NINJAGO mech te creëren
+- 4 NINJAGO minifiguren – de set bevat NINJAGO Kai, Zane en Jordana, ieder met een zwaard, en een Wolvenmasker strijder, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPLZ5{{</world>}}

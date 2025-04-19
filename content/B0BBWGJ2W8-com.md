@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- to reveal. This modular set is rebuildable and combines with other LEGO Super Mario collectible toy sets to expand the Super Mario buildable game world
-- Kids can fit the LEGO Mario interactive figure (not included) into an ice suit that allows for an ice ball graphic on its tummy screen for added performance.
-- One of the LEGO Super Mario starter courses (71360 with Mario, 71387 with Luigi or 71400 3 with peach characters) is required for interactive play. With LEGO Super Mario app with instructions, creative tips and more - each of the LEGO Super Mario sets is designed for solo or board games. This Super Mario expansion toy set is a great gift for children aged 6 and up who already own a Super Mario starter course
-- Kids who own a Super Mario building toy will love this LEGO Super Mario expansion set, featuring an Ice Mario suit, Cooligan and Goomba figures.
 - Skating on the buildable ice plate triggers skating sounds from LEGO Mario. A launcher drives the Cooligan into the ice block to the Goomba
+- Kids who own a Super Mario building toy will love this LEGO Super Mario expansion set, featuring an Ice Mario suit, Cooligan and Goomba figures.
+- One of the LEGO Super Mario starter courses (71360 with Mario, 71387 with Luigi or 71400 3 with peach characters) is required for interactive play. With LEGO Super Mario app with instructions, creative tips and more - each of the LEGO Super Mario sets is designed for solo or board games. This Super Mario expansion toy set is a great gift for children aged 6 and up who already own a Super Mario starter course
+- Kids can fit the LEGO Mario interactive figure (not included) into an ice suit that allows for an ice ball graphic on its tummy screen for added performance.
+- to reveal. This modular set is rebuildable and combines with other LEGO Super Mario collectible toy sets to expand the Super Mario buildable game world
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBWGJ2W8{{</world>}}

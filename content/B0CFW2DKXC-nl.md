@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Friends sets – bekijk ook de andere creatieve bouw- en speelsets voor kinderen in het LEGO Friends assortiment (apart verkrijgbaar), waarmee jonge bouwers diverse personages kunnen ontdekken terwijl ze avonturen uit het echte leven naspelen
 - LEGO Friends Bakkersfoodtruck set – speelgoed bakkerij op wielen set inclusief 2 minipoppetjes, een honden figuur, een karretje en veel bakaccessoires voor meisjes, jongens en kinderen van 6 jaar en ouder
-- Een leuk cadeau voor kinderen – deze set is een leuk verjaardagscadeau of een verrassing voor meisjes, jongens en kinderen die dol zijn op speelsets en graag doen alsof ze koken
 - Speelgoedaccessoires voor kinderen – de set wordt geleverd met speelgoed eten, zoals een croissant, 2 macarons en koekjes plus andere accessoires waaronder een koektrommel, koffiezetapparaat, koffiekopje, warme chocolademelk, mok, kopje thee, munt, boek en een bot
-- Verrijdbaar karretje – kinderen plaatsen Jules op de bestuurdersstoel van de foodtruck en rijden het speelgoed voertuig in positie; vervolgens doen ze alsof Jules achter de toonbank staat om klanten te bedienen
 - 2 minipoppetjes – de set bevat LEGO Friends mini poppetjes van Aliya en Jules plus een figuur van een speelgoed hond, zodat het creatieve spel meteen kan beginnen
+- LEGO Friends sets – bekijk ook de andere creatieve bouw- en speelsets voor kinderen in het LEGO Friends assortiment (apart verkrijgbaar), waarmee jonge bouwers diverse personages kunnen ontdekken terwijl ze avonturen uit het echte leven naspelen
+- Een leuk cadeau voor kinderen – deze set is een leuk verjaardagscadeau of een verrassing voor meisjes, jongens en kinderen die dol zijn op speelsets en graag doen alsof ze koken
+- Verrijdbaar karretje – kinderen plaatsen Jules op de bestuurdersstoel van de foodtruck en rijden het speelgoed voertuig in positie; vervolgens doen ze alsof Jules achter de toonbank staat om klanten te bedienen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2DKXC{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features a tower with a Starter Brick base, a winch with a feeding basket, a gate for the toy buggy car and a fence with a breakout function
-- This jurassic world collection set is designed for young children; models can be build with just a bit of assistance from a parent or older sibling
-- The set includes a cool, posable velociraptor dinosaur toy figure, plus 2 minifigures: Dr Ellie Sattler and Robert Muldoon, and a frog figure
-- LEGO Jurassic Park 4+ building sets are designed to introduce kids to dinosaur toys, helping them learn to build and develop their imaginations
 - This Jurassic Park dinosaur toy for boys, girls and kids 4+ includes walkie-talkie, tranquilizer, hot dog, dinosaur poop and dino egg in a nest
-- This LEGO Jurassic Park Velociraptor Escape set for kids aged 4+ includes velociraptor figure, quick-build dinosaur pen and a jeep car toy
 - Simple pictorial instructions in the box are perfect for kids who are only just learning to read; for digital fun, check out the LEGO Builder app
+- Features a tower with a Starter Brick base, a winch with a feeding basket, a gate for the toy buggy car and a fence with a breakout function
+- The set includes a cool, posable velociraptor dinosaur toy figure, plus 2 minifigures: Dr Ellie Sattler and Robert Muldoon, and a frog figure
+- This LEGO Jurassic Park Velociraptor Escape set for kids aged 4+ includes velociraptor figure, quick-build dinosaur pen and a jeep car toy
+- LEGO Jurassic Park 4+ building sets are designed to introduce kids to dinosaur toys, helping them learn to build and develop their imaginations
+- This jurassic world collection set is designed for young children; models can be build with just a bit of assistance from a parent or older sibling
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPCBNLR4{{</world>}}

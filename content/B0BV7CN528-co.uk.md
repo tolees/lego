@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This large LEGO set for Avengers: Infinity Saga fans includes a Captain America minifigure with its own shield and Thor’s hammer Mjölnir
 - Number of Pieces: 3,128
-- Marvel Avengers fans can build the ultimate emblem of good vs evil with this LEGO Marvel Captain Americas Shield; a 3,128 piece LEGO set for adults
-- This hands-on Marvel model kit for adults to build makes a great gift for any LEGO lover or model-maker, as a birthday present for him or her, anniversary gift for husband or wife or as rewarding treat for yourself
+- This large LEGO set for Avengers: Infinity Saga fans includes a Captain America minifigure with its own shield and Thor’s hammer Mjölnir
 - For added convenience, a digital version of the Marvel collectible set’s building instructions can be found on the LEGO Builder app
-- The iconic Avengers shield will make a fantastic addition to any LEGO Marvel collection, and will look great on display as a home or office decor
+- This hands-on Marvel model kit for adults to build makes a great gift for any LEGO lover or model-maker, as a birthday present for him or her, anniversary gift for husband or wife or as rewarding treat for yourself
 - The Marvel collectible model building kit features Captain Americas red, white and blue shield, with a protruding star and a stand with nameplate
+- Marvel Avengers fans can build the ultimate emblem of good vs evil with this LEGO Marvel Captain Americas Shield; a 3,128 piece LEGO set for adults
+- The iconic Avengers shield will make a fantastic addition to any LEGO Marvel collection, and will look great on display as a home or office decor
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CN528{{</world>}}

@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Dieses Formel 1 Modellauto bietet erwachsenen LEGO Baumeistern die Möglichkeit, sich an einem Ausstellungsstück zu erfreuen
-- Die Technic Sets von LEGO für Erwachsene mit ihren Rennwagen-Modellbausätzen sind das beste Weihnachtsgeschenk für Männer, Frauen, Ihn, Sie oder Ehemann
-- Der beiliegende Premium-Bildband erklärt die Zusammenarbeit zwischen McLaren Racing und LEGO und enthält eine Bauanleitung des Formel 1 Autos
-- Enthält Merkmale wie den V6-Zylinder Motor mit beweglichen Kolben, Lenkung, Aufhängung und Differential für präzise Kurvenfahrten
 - Verleihe deinem Modell den letzten Schliff, indem du Sponsoren-Aufkleber anbringst, wie sie auf einem echten F1-Rennwagen zu sehen sind
-- Dieses LEGO Technic F1 Auto-Set für Erwachsene enthält einen detaillierten Modellauto-Bausatz des McLaren 2022 in schickem, orange-blau-schwarzem Design
+- Der beiliegende Premium-Bildband erklärt die Zusammenarbeit zwischen McLaren Racing und LEGO und enthält eine Bauanleitung des Formel 1 Autos
 - Die LEGO Designer haben eng mit dem Team von McLaren Racing zusammengearbeitet, um den LEGO Rennwagen für die Rennsaison 2022 zu entwickeln
+- Die Technic Sets von LEGO für Erwachsene mit ihren Rennwagen-Modellbausätzen sind das beste Weihnachtsgeschenk für Männer, Frauen, Ihn, Sie oder Ehemann
+- Dieses LEGO Technic F1 Auto-Set für Erwachsene enthält einen detaillierten Modellauto-Bausatz des McLaren 2022 in schickem, orange-blau-schwarzem Design
+- Enthält Merkmale wie den V6-Zylinder Motor mit beweglichen Kolben, Lenkung, Aufhängung und Differential für präzise Kurvenfahrten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNYBN8B{{</world>}}

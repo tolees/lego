@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dimensions: 25 x 50 x 18 cm
 - Vous pouvez les mettre comme un tiroir
 - Ces boîtes de rangement surdimensionnées sont empilables comme les blocs de construction LEGO dorigine
+- Dimensions: 25 x 50 x 18 cm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B06VW84RGR{{</world>}}

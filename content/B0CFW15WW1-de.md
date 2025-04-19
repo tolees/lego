@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Time-Zero Supercolor SX-70 Land Film Kassette zum Zusammenbauen: die Kassette enthält 3 Fotos, die den Polaroid-Erfinder Edwin H. Land, LEGO House und die Schwester des Fandesigners darstellen, die die Idee zu diesem Set lieferte
-- Fantastisches Fotografie-Geschenk für Kamerafans: Der Sucher, das Farbspektrum, das Drehrad zur Belichtungskorrektur sowie die Aufkleber „Polaroid Land Camera“, „OneStep“ und „1000“ sind nur einige der Designdetails
 - Schritt-für-Schritt-Anleitung: Ein illustriertes Premium-Begleitheft enthält Interviews mit dem Fandesigner und den LEGO Designern, und eine Anleitung begleitet dich auf jedem Schritt deines kreativen Bauerlebnisses
+- Time-Zero Supercolor SX-70 Land Film Kassette zum Zusammenbauen: die Kassette enthält 3 Fotos, die den Polaroid-Erfinder Edwin H. Land, LEGO House und die Schwester des Fandesigners darstellen, die die Idee zu diesem Set lieferte
+- LEGO Polaroid Kamera zum Bauen und Sammeln: Baue mit diesem LEGO Modellbausatz für Erwachsene deine eigene Nachbildung der Polaroid OneStep SX-70 Sofortbildkamera (21345) aus LEGO Steinen
+- Geschenkidee für Fotografen und Kamerafans: dieses LEGO Set für Erwachsene ist ein kreatives Geschenk für Männer und Frauen, die Fotografie lieben, oder eine schöne spontane Belohnung für dich selbst
 - Lässt sich wie die echte Polaroid-Kamera bedienen: Steck eines der „Fotos“ in die Polaroid Kamera und drück den roten Auslöser, um das Foto auszuwerfen
 - Erste Wahl der LEGO Fans: Dieses Bauset zum Sammeln gehört zu einer ganzen Reihe von besonderen LEGO Ideas Sets für Erwachsene, die von einem Fandesigner entworfen, von den LEGO Fans ausgewählt und dann von der LEGO Gruppe hergestellt werden
-- Geschenkidee für Fotografen und Kamerafans: dieses LEGO Set für Erwachsene ist ein kreatives Geschenk für Männer und Frauen, die Fotografie lieben, oder eine schöne spontane Belohnung für dich selbst
-- LEGO Polaroid Kamera zum Bauen und Sammeln: Baue mit diesem LEGO Modellbausatz für Erwachsene deine eigene Nachbildung der Polaroid OneStep SX-70 Sofortbildkamera (21345) aus LEGO Steinen
+- Fantastisches Fotografie-Geschenk für Kamerafans: Der Sucher, das Farbspektrum, das Drehrad zur Belichtungskorrektur sowie die Aufkleber „Polaroid Land Camera“, „OneStep“ und „1000“ sind nur einige der Designdetails
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW15WW1{{</world>}}

@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
-- Empaque sostenible, reducción de residuos y 100% reciclable
-- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
 - El creador de videos musicales LEGO VIDIYO The Boombox tiene 4 opciones de escenario en la aplicación de realidad aumentada: tropical, espacial, bosque o castillo
+- Empaque sostenible, reducción de residuos y 100% reciclable
 - Incluye 4 mini figuras: un vampiro, un leopardo, un hada y un extraterrestre, con accesorios musicales, 14 BeatBits aleatorios y 4 BeatBits especiales para escanear
-- Los efectos especiales hacen que aparezca una moto o permite a los niños agregar efectos mágicos de fuego a sus videos
-- Escanea los BeatBits en la aplicación para desbloquear efectos especiales como el efecto de sonido de la ópera rock y emocionantes imágenes de fuego, como en un concierto real
 - Escanea los elementos de la aplicación para desbloquear 4 cabezas, altavoces y luces diferentes, cada uno inspirado en un género musical diferente, para niños amantes de la música
+- Los efectos especiales hacen que aparezca una moto o permite a los niños agregar efectos mágicos de fuego a sus videos
+- Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
+- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
+- Escanea los BeatBits en la aplicación para desbloquear efectos especiales como el efecto de sonido de la ópera rock y emocionantes imágenes de fuego, como en un concierto real
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08WWJFH1V{{</world>}}

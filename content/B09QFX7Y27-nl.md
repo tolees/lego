@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kinderen maken van alles mee in het LEGO Minecraft dorp: ze bakken brood en koekjes in de bakkerij, melken de geit op de boerderij en vechten met de Creeper: na alle actie kunnen ze het speelgoed weer opnieuw indelen om andere avonturen te beleven
-- Bij de accessoires is ook een schatkist inbegrepen met een ei erin - kinderen kunnen de schat bewaken met het klassieke Minecraft wapen: het diamanten zwaard
-- Inclusief LEGO Minecraft poppetjes en monsters die gamers meteen zullen herkennen: een bakker, een sneeuwdorpeling, een geit en een Creeper
-- Met LEGO Minecraft sets beleven kinderen de game op een andere manier met populaire mobs, omgevingen en kenmerken die tot leven worden gebracht met LEGO stenen
 - Geef kinderen vanaf 8 jaar een bouwbare versie van de Minecraft game cadeau voor een verjaardag, kerst of gewoon zomaar als verrassing
+- Met LEGO Minecraft sets beleven kinderen de game op een andere manier met populaire mobs, omgevingen en kenmerken die tot leven worden gebracht met LEGO stenen
+- Inclusief LEGO Minecraft poppetjes en monsters die gamers meteen zullen herkennen: een bakker, een sneeuwdorpeling, een geit en een Creeper
+- Bij de accessoires is ook een schatkist inbegrepen met een ei erin - kinderen kunnen de schat bewaken met het klassieke Minecraft wapen: het diamanten zwaard
+- Kinderen maken van alles mee in het LEGO Minecraft dorp: ze bakken brood en koekjes in de bakkerij, melken de geit op de boerderij en vechten met de Creeper: na alle actie kunnen ze het speelgoed weer opnieuw indelen om andere avonturen te beleven
 - Dit LEGO Minecraft speelgoed voor kinderen vanaf 8 jaar bevat een bakkerij van bouwstenen, een boerderij, 3 poppetjes en een figuur van een geit
 
 [🛒 Buy it!!]({{< param buyurl >}})

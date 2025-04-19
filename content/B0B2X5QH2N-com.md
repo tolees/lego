@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This Black Panther building toy is a fab Christmas or birthday gift for kids Ages 4 plus years old who love Avengers and other super heroes toys
-- Includes Shuri and Black Panther minifigures, a disc launcher and an easy starter brick to get kids into the action straight away
+- The LEGO Marvel Shuris Lab Set offers lots of fun activities for young kids Ages 4+ with a buildable lab and 2 Black Panther minifigures
+- Children can role-play training their minifigures at target practice - they can aim for the target with the disc launcher to complete training
 - LEGO 4+ sets make fab learning toys for preschool kids, they help in the development of fine motor and emotional skills that will last a lifetime
 - Young fans will have fun trying out Shuris incredible power gloves, while the Black Panther minifigure speeds along on his toy hoverboard
-- Children can role-play training their minifigures at target practice - they can aim for the target with the disc launcher to complete training
-- The LEGO Marvel Shuris Lab Set offers lots of fun activities for young kids Ages 4+ with a buildable lab and 2 Black Panther minifigures
+- Includes Shuri and Black Panther minifigures, a disc launcher and an easy starter brick to get kids into the action straight away
+- This Black Panther building toy is a fab Christmas or birthday gift for kids Ages 4 plus years old who love Avengers and other super heroes toys
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B2X5QH2N{{</world>}}

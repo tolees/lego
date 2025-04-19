@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Includes 4 Lego Star Wars figures: the Mandalorian, Cara Dune and 2 Klatooinian Raiders
-- Build this incredible walker, featuring articulated legs, a swivel turret with an open cockpit and rifles that pull
 - Lego Star Wars sets are compatible with other Lego building sets for a limitless build experience
+- Build this incredible walker, featuring articulated legs, a swivel turret with an open cockpit and rifles that pull
 - The Lego Star Wars AT-ST Walker measures over 25cm high, 15cm long and 13cm wide
 
 [🛒 Buy it!!]({{< param buyurl >}})

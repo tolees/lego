@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- La plaque de construction LEGO grise peut être offerte comme cadeau danniversaire ou comme cadeau de tout autre jour aux enfants de 4 ans et plus pour les projets de construction et dexpositions
-- La plaque de base LEGO maintient fermement les briques à nimporte quel angle (même à lenvers ) tout en permettant de les retirer facilement
-- Un monde de possibilités créatrices - des scènes de rue aux châteaux et aux paysages de montagne, les enfants peuvent construire sur cette base LEGO tout ce quils imaginent
 - Durable et robuste - 2 304 tenons alignés pour donner la bonne prise à toutes les créations de construction LEGO à partir de briques de construction LEGO
+- Un monde de possibilités créatrices - des scènes de rue aux châteaux et aux paysages de montagne, les enfants peuvent construire sur cette base LEGO tout ce quils imaginent
+- La plaque de base LEGO maintient fermement les briques à nimporte quel angle (même à lenvers ) tout en permettant de les retirer facilement
+- La plaque de construction LEGO grise peut être offerte comme cadeau danniversaire ou comme cadeau de tout autre jour aux enfants de 4 ans et plus pour les projets de construction et dexpositions
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNSNR2Y{{</world>}}

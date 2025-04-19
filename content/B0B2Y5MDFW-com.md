@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This set includes 2 LEGO minifigures: Neytiri, carrying a crossbow, and Colonel Quaritch with his fearful AMP suit action figure with weapons
-- This LEGO Avatar construction toy is designed for social engagement; with 3 instruction booklets, so friends or family can build together
-- Kids and Avatar fans will enjoy this versatile building toy with a Thanator animal figure, AMP suit action figure and a Pandora rainforest scene
 - Kids can place the Neytiri minifigure on the back of the Thanator animal figure; ready to fly through the rainforest and battle the Colonel
 - When the day’s play is over, kids can set up a dynamic display with Neytiri and the Thanator posed to jump on the AMP-suited Colonel action figure
 - The set is a great Christmas present or birthday gift idea for kids aged 9 and over - it can be combined with all other LEGO Avatar sets
+- Kids and Avatar fans will enjoy this versatile building toy with a Thanator animal figure, AMP suit action figure and a Pandora rainforest scene
+- This LEGO Avatar construction toy is designed for social engagement; with 3 instruction booklets, so friends or family can build together
+- This set includes 2 LEGO minifigures: Neytiri, carrying a crossbow, and Colonel Quaritch with his fearful AMP suit action figure with weapons
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B2Y5MDFW{{</world>}}

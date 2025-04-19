@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Build fame LEGO style by completing songs to collect LEGO elements - build cooler vehicles, progress to new venues and unlock new characters and instruments.
-- Use the LEGO character customizer to create and personalize your band, instruments and entourage.
-- Express yourself with a personalized LEGO Rock Den that can be accessorized and decorated to perfectly suit your rock style.
-- Rock out using Rock Band instruments, as well as other music game controllers.
-- Pull off killer riffs in LEGO themed Rock Power challenges to perform amazing feats such as destroying a giant robot, summoning a storm or demolishing a skyscraper.
-- Instruments sold separately
 - All-access gaming! Start off on Easy, work your way up to Expert or try out the newly introduced Super Easy setting created especially for budding rock stars!
+- Use the LEGO character customizer to create and personalize your band, instruments and entourage.
+- Pull off killer riffs in LEGO themed Rock Power challenges to perform amazing feats such as destroying a giant robot, summoning a storm or demolishing a skyscraper.
+- Rock out using Rock Band instruments, as well as other music game controllers.
+- Express yourself with a personalized LEGO Rock Den that can be accessorized and decorated to perfectly suit your rock style.
+- Instruments sold separately
 - Rock along to current hits and classic favorites that the whole family will enjoy including Jackson 5’s “I Want You Back”, Foo Fighters’ “Breakout”, Vampire Weekend’s “A-Punk”, Blur’s “Song 2”, Carl Douglas’ “Kung Fu Fighting”, Europe’s “The Final Countdown”, Good Charlotte’s “Boys and Girls” and Pink’s “So What”, just to name a few!
+- Build fame LEGO style by completing songs to collect LEGO elements - build cooler vehicles, progress to new venues and unlock new characters and instruments.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B002J9G9JQ{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inclusief 3 LEGO City poppetjes in een ruimtepak met helm, waaronder astronaut Luitenant Jamie en een figuur van een robothond, die ingezet kunnen worden voor spannende reddingsmissies!
 - Dit interactieve speelgoed bevat alle LEGO onderdelen die nodig zijn om een ruimteschip, 2 asteroïden en een Mars-omgeving te maken en bouwuitdagingen op te lossen zonder dat bouwinstructies nodig zijn
 - Kinderen ontmoeten een gezellige club van personages uit de LEGO City game; ze kunnen het ruimteschip personaliseren en leuke spelletjes spelen, terwijl ze hun creativiteit en echte LEGO bouwstenen gebruiken om prikkelende uitdagingen op te lossen
+- LEGO City Missies speelgoed nodigt kinderen uit om spelenderwijs te leren en belangrijke vaardigheden te ontwikkelen; deze bouwset is een fantastisch verjaardagscadeau, kerstcadeau of verrassing voor kinderen vanaf 6 jaar
+- Inclusief 3 LEGO City poppetjes in een ruimtepak met helm, waaronder astronaut Luitenant Jamie en een figuur van een robothond, die ingezet kunnen worden voor spannende reddingsmissies!
+- De interactieve speelset zit boordevol coole accessoires, zoals een speelgoed metaaldetector, pneumatische hamer, lasapparaat, brandblusser, net, banaan en kalkoendrumstick
 - Om het bouwbare spel te kunnen spelen, hebben kinderen een smartphone of tablet nodig met de gratis LEGO Bouwinstructies app - bij de set zijn geen gedrukte bouwinstructies inbegrepen
 - Met de Ruimteschip voor verkenningsmissies op Mars speelset worden kinderen hoofdrolspelers in een digitaal avontuur, waarbij ze LEGO speelgoed en bouwmodellen gebruiken om missies te volbrengen op het scherm
-- LEGO City Missies speelgoed nodigt kinderen uit om spelenderwijs te leren en belangrijke vaardigheden te ontwikkelen; deze bouwset is een fantastisch verjaardagscadeau, kerstcadeau of verrassing voor kinderen vanaf 6 jaar
-- De interactieve speelset zit boordevol coole accessoires, zoals een speelgoed metaaldetector, pneumatische hamer, lasapparaat, brandblusser, net, banaan en kalkoendrumstick
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFLY5RM{{</world>}}

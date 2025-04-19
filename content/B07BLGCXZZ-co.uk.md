@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes the Gold Leader mini figure and the Droiden R2-BHD as an additional figure.
-- The perfect centrepiece of any LEGO Star Wars collection.
 - Features authentic details, an opening mini figure cockpit, wheel-operated rotating ion cannons on the roof, retractable landing skids and space for the Astromech Droid R2-BHD included in the set.
 - This LEGO Star Wars set is suitable for ages 14 and up.
+- The perfect centrepiece of any LEGO Star Wars collection.
 - Present the model on the tilting stand with info sign.
+- Includes the Gold Leader mini figure and the Droiden R2-BHD as an additional figure.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07BLGCXZZ{{</world>}}

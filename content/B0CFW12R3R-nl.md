@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ontdek bouwen met LEGO stenen – met 4+ LEGO speelsets leren jonge kinderen bouwen, terwijl de rest van het gezin gezellig mee kan doen
-- Speelgoed vliegtuig en kristallen grot – deze speelgoedset voor rollenspellen bevat een zweefvliegtuigje met verstelbare vleugels, een schijfschieter en 2 speren, een kristallen grot met een magische hamer en een wapenrek met 2 katanas
 - Verstelbare speelgoedmecha – kinderen kunnen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie naspelen met deze mechafiguur met cockpit, verstelbare ledematen, draaiend mes en groot zwaardaccessoire
-- Ninjaspeelgoed waarmee kinderen kunnen leren bouwen – jongens en meisjes van 4 jaar en ouder kunnen het plezier ontdekken van het bouwen en ninjaverhalen naspelen met de Arins strijdmecha speelset vol actie
+- Speelgoed vliegtuig en kristallen grot – deze speelgoedset voor rollenspellen bevat een zweefvliegtuigje met verstelbare vleugels, een schijfschieter en 2 speren, een kristallen grot met een magische hamer en een wapenrek met 2 katanas
 - Meer ninja speelgoed voor jongens en meisjes – kijk ook eens naar andere LEGO NINJAGO sets (apart verkrijgbaar) met draken, actiefiguren en ninjalegendes
-- Ninjacadeau – deze LEGO set biedt een leuke bouw- en speelervaring en is een leuk cadeau voor kinderen vanaf 4 jaar om hun fantasie te stimuleren en hun vertelvaardigheden te ontwikkelen
+- Ninjaspeelgoed waarmee kinderen kunnen leren bouwen – jongens en meisjes van 4 jaar en ouder kunnen het plezier ontdekken van het bouwen en ninjaverhalen naspelen met de Arins strijdmecha speelset vol actie
+- Ontdek bouwen met LEGO stenen – met 4+ LEGO speelsets leren jonge kinderen bouwen, terwijl de rest van het gezin gezellig mee kan doen
 - 2 LEGO NINJAGO minifiguren – de ninjaspeelset bevat een minifiguur van Arin, gewapend met een katana, zodat kinderen actiescènes kunnen naspelen tegen de Wolvenmasker strijder met zijn zwaard
+- Ninjacadeau – deze LEGO set biedt een leuke bouw- en speelervaring en is een leuk cadeau voor kinderen vanaf 4 jaar om hun fantasie te stimuleren en hun vertelvaardigheden te ontwikkelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW12R3R{{</world>}}

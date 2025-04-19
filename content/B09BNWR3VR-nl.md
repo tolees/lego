@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met een LEGO bouwbare model auto van de 1970 Ferrari 512 M, & een Ferrari-coureur minifiguur compleet met een racepak, pruik en helm
-- LEGO Speed Champions bouwsets geven kinderen en volwassenen de kans om een aantal van s werelds meest iconische voertuigen te verkennen
-- Boordevol details! Genoeg ruimte voor een minifiguur en veel authentieke details
 - Zoom, roteer en bekijk bouwbare modellen vanuit alle hoeken terwijl je bouwt met de LEGO Bouwinstructies app, beschikbaar voor smartphones en tablets
+- Boordevol details! Genoeg ruimte voor een minifiguur en veel authentieke details
 - Verken het verbluffende aerodynamische ontwerp van de auto terwijl je het stukje voor stukje nabouwt en zet je meesterwerk tentoon om te bewonderen
 - Dit Ferrari raceauto speelgoedbouwbare model is een perfect verjaardags- of gelegenheidsgeschenk voor jongens en meisjes die van speelgoedsportautos houden!
+- LEGO Speed Champions bouwsets geven kinderen en volwassenen de kans om een aantal van s werelds meest iconische voertuigen te verkennen
+- Met een LEGO bouwbare model auto van de 1970 Ferrari 512 M, & een Ferrari-coureur minifiguur compleet met een racepak, pruik en helm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNWR3VR{{</world>}}

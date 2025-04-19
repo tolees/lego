@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Number of pieces: 95
-- Stitch-on Patch
-- The creative toy badge making craft kit gives kids their own unique accessory they can match to their outfit or mood and redesign as they wish!
 - Manufacturer recommended age: 8+
+- Stitch-on Patch
 - Features 90+ colourful tiles and a 6x6 patch that can be stitched onto clothing or almost any other item (needle and thread not included)!
+- The creative toy badge making craft kit gives kids their own unique accessory they can match to their outfit or mood and redesign as they wish!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QJH5T39{{</world>}}

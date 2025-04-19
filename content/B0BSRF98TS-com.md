@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Imaginative role play – Accessories include 2 jumps, horse poop, hay, a saddle, binoculars, a rake, a bucket, shampoo, an apple, a carrot, a trophy and a helmet for Aliya to wear
-- Build-and-play fun for toddlers aged 4+ – Inspire kids to explore the world of horse care with this LEGO Friends Horse Training (41746) playset, which includes building blocks for toddlers to create a toy horse stable
-- Intuitive instructions – The LEGO Builder app guides you and your child on an intuitive building adventure with tools that let you zoom in and rotate models in 3D, save sets and track progress
 - Starter Brick included – This set contains a handy Starter Brick and ‘quick-start’ elements to help kids build their toy horse stable with confidence
 - A special treat – This LEGO Friends toy set makes a fun birthday, holiday or any-other-day gift for kids aged 4 and up who enjoy building and creative play
 - 2 mini-dolls and accessories – The set comes with LEGO Friends characters Aliya and Mia, plus a horse character, a foal character and lots of accessories
 - Measurements – The toy horse stable measures over 4.5 in. (12 cm) high, 7.5 in. (19 cm) wide and 4.5 in. (11 cm) deep
+- Imaginative role play – Accessories include 2 jumps, horse poop, hay, a saddle, binoculars, a rake, a bucket, shampoo, an apple, a carrot, a trophy and a helmet for Aliya to wear
+- Build-and-play fun for toddlers aged 4+ – Inspire kids to explore the world of horse care with this LEGO Friends Horse Training (41746) playset, which includes building blocks for toddlers to create a toy horse stable
+- Intuitive instructions – The LEGO Builder app guides you and your child on an intuitive building adventure with tools that let you zoom in and rotate models in 3D, save sets and track progress
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRF98TS{{</world>}}

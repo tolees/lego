@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 poppetjes en een speelgoed beer – de set is inclusief LEGO Friends poppetjes van personages Autumn, Liann en Zac, een berenfiguur en watersportaccessoires, waaronder 2 kajakken om vanaf de steiger te water te laten
-- Cadeau voor kinderen – deze set inspireert urenlang creatieve verhalen en is een geweldig cadeau voor meisjes en jongens vanaf 7 jaar die van rollenspellen en avontuurlijke buitenactiviteiten houden
 - Watersportaccessoires – met hengels, roeispanen, helmen, reddingsvesten, trofeeën, zwemvliezen, zonnebrandcrème, een koelkast, een tafeltennistafel, een kajakbadge voor het activiteitenboek en meer
 - Een bouwbare speelset voor kinderen die van het buitenleven houden – dit LEGO bouwpakket voor meisjes en jongens vanaf 7 jaar wordt geleverd met 3 LEGO Friends poppetjes, een speelgoed beer en veel watersportaccessoires
 - Bouw en verken het avonturenkamp – kinderen kunnen hun eigen vriendschapsverhalen vertellen terwijl ze allerlei verschillende activiteiten uitproberen, van kajakken, vissen en vlotten bouwen tot schilderen en stenen keilen
 - Ontdek meer verhalen over vriendschap – bekijk ook de andere LEGO sets in het LEGO Friends universum (apart verkrijgbaar), waarmee kinderen diverse personages kunnen leren kennen terwijl ze avonturen uit het echte leven naspelen
+- Cadeau voor kinderen – deze set inspireert urenlang creatieve verhalen en is een geweldig cadeau voor meisjes en jongens vanaf 7 jaar die van rollenspellen en avontuurlijke buitenactiviteiten houden
+- 3 poppetjes en een speelgoed beer – de set is inclusief LEGO Friends poppetjes van personages Autumn, Liann en Zac, een berenfiguur en watersportaccessoires, waaronder 2 kajakken om vanaf de steiger te water te laten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH34C8R{{</world>}}

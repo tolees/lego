@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4-in-1-Spielzeugauto für Kinder: Mit der Kombi-Raupe des Ninja-Teams können Jungen und Mädchen ab 9 Jahren die Abenteuer und Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- Ninja-Spielzeuge für ein ganzes Spieluniversum: LEGO NINJAGO Sets beinhalten Drachen, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
-- Abtrennbare Ninja-Fahrzeuge: Die große NINJAGO Raupe lässt sich in 4 kleinere Fahrzeuge zerteilen, um Sora auf dem Gleiter (mit 2 Shootern), Lloyd in seinem Rennauto und Cole und Nya auf den Motorrädern loszuschicken
 - Größere Ninja-Abenteuer: Hol dir noch andere separat erhältliche LEGO NINJAGO Spielsets für viele weitere packende Duelle
 - Geschenkidee für Kinder: Erlebe ein packendes Bau- und Spielerlebnis mit diesem Fahrzeug-Spielzeug; es ist auch ein tolles Geburtstagsgeschenk für Jungen und Mädchen, die sich gern mit ihren Ninja-Helden in Abenteuer stürzen
 - 6 LEGO NINJAGO Minifiguren: Das Ninja-Spielzeug beinhaltet die Ninja Sora, Lloyd, Nya und Cole sowie einen Wolfsjäger und einen Wolfsmaskengeneral
+- Abtrennbare Ninja-Fahrzeuge: Die große NINJAGO Raupe lässt sich in 4 kleinere Fahrzeuge zerteilen, um Sora auf dem Gleiter (mit 2 Shootern), Lloyd in seinem Rennauto und Cole und Nya auf den Motorrädern loszuschicken
+- Ninja-Spielzeuge für ein ganzes Spieluniversum: LEGO NINJAGO Sets beinhalten Drachen, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
 - Action-Spielzeug mit Ausrüstung: Die Ninja-Minifiguren tragen Turnierrüstungen und jeweils ein Katana
+- 4-in-1-Spielzeugauto für Kinder: Mit der Kombi-Raupe des Ninja-Teams können Jungen und Mädchen ab 9 Jahren die Abenteuer und Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2KSTB{{</world>}}

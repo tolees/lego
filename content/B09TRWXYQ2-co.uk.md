@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This creative toy features a 6x6 flexible stitch-on patch in red, colourful tiles plus Disney’s Mickey Mouse and Minnie Mouse tiles
-- This LEGO DOTS crafts kit for kids with Stitch-on Patch can be attached to almost any fabric and decorated with Mickey and Minnie Mouse tiles
-- Creative toy badge making kit for kids lets children snap the tiles onto the patch in designs to match their mood or outfit and redesign any time
 - The DIY patch lets kids express themselves; it can be attached to clothing, accessories or almost any fabric (needle and thread not included)
+- This LEGO DOTS crafts kit for kids with Stitch-on Patch can be attached to almost any fabric and decorated with Mickey and Minnie Mouse tiles
+- This creative toy features a 6x6 flexible stitch-on patch in red, colourful tiles plus Disney’s Mickey Mouse and Minnie Mouse tiles
 - This fun craft kit makes a creative gift for kids aged 8+ and can be combined with any LEGO DOTS Extra DOTS – Series bags (sold separately)
+- Creative toy badge making kit for kids lets children snap the tiles onto the patch in designs to match their mood or outfit and redesign any time
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09TRWXYQ2{{</world>}}

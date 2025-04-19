@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Number of pieces: 524
-- This ninja action toy includes LEGO NINJAGO Zane and Jay minifigures, both with swords, & Boa Destructor minifigure with his own large sword
 - LEGO NINJAGO spin toy puts the ninja through challenges, including going down a slide, jumping over a snake pit and fighting a dummy mech
+- This ninja action toy includes LEGO NINJAGO Zane and Jay minifigures, both with swords, & Boa Destructor minifigure with his own large sword
+- Number of pieces: 524
 - Ninja Training Centre
 - Manufacturer recommended age: 7+
 

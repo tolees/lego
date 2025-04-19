@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Winter-themed LEGO Friends imaginative play building toys stimulate kids creativity and make great christmas gifts for girls and boys, a daughter or son, and all kids aged 8+ years old
-- Kids explore the cosy LEGO winter igloo dome, complete with beds, biscuit bowl, lava lamp and cocoa mugs - for a glam toy camping adventure!
-- Comes with LEGO Friends Aliya, Paisley and Ella mini-dolls, plus 2 pets - toy sled dogs figures to care for and pull the sled to travel in style!
-- This fun LEGO Friends Igloo Holiday Adventure winter playset features a buildable toy igloo glamping dome, 3 mini-dolls and 2 sled dog figures
 - Young explorers can travel by dog sled, take a dip in the steam pool, take photos of the scenery, warm up by the bonfire or sleep inside the dome
+- Kids explore the cosy LEGO winter igloo dome, complete with beds, biscuit bowl, lava lamp and cocoa mugs - for a glam toy camping adventure!
+- This fun LEGO Friends Igloo Holiday Adventure winter playset features a buildable toy igloo glamping dome, 3 mini-dolls and 2 sled dog figures
 - LEGO Friends camping set features a steam pool and pine trees, fairy lights, seating area and a fire pit to explore, plus many included accessories
+- Comes with LEGO Friends Aliya, Paisley and Ella mini-dolls, plus 2 pets - toy sled dogs figures to care for and pull the sled to travel in style!
+- Winter-themed LEGO Friends imaginative play building toys stimulate kids creativity and make great christmas gifts for girls and boys, a daughter or son, and all kids aged 8+ years old
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CKD3S{{</world>}}
