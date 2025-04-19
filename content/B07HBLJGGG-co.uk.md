@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Warner Bros. Interactive Entertainment - LEGO Harry Potter Collection  Xbox One '
+date: 2024-02-10 13:32:54
+image: 'https://m.media-amazon.com/images/I/4174I8+PYYS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07HBLJGGG-co.uk Warner Bros. Interactive Entertainment - LEGO Harry...'
+sku: 'B07HBLJGGG-co.uk'
+tags: [ 'lego','🇬🇧', ]
+actualPrice: 7.99 GBP
+currency: GBP
+price: 7.99
+comparePrice: 14.99 GBP
+prodname: 'Warner Bros. Interactive Entertainment - LEGO Harry Potter Collection  Xbox One '
+country: 'co.uk'
+flag: '🇬🇧'
+brand: ''
+buyurl: 'https://www.amazon.co.uk/dp/B07HBLJGGG/?tag=tolees0a-21'
+descuento: '46.70'
+average: '7.99'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- LEGO Harry Potter Collection brings LEGO Harry Potter: Years 1-4 and LEGO Harry Potter: Years 5-7 to Xbox One for the first time with both top-selling videogames remastered on one disc.LEGO Harry Potter: Years 1-4 is based on the first four books and films-Harry Potter and the Philosophers stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban and Harry Potter and the Goblet of Fire -allowing fans to experience Harrys first four years at Hogwarts School of Witchcraft and Wizardry in full LEGO form. LEGO Harry Potter: Years 5-7 transports players through the final three books and final four films-Harry Potter and the Order of the Phoenix, Harry Potter and the Half-Blood Prince and Harry Potter and the Deathly Hallows-to experience Harrys last years at Hogwarts and his battle against Lord Voldemort in the ultimate fight between good and evil. This action-packed adventure also offers two previously released DLC packs, including a Character Pack featuring Godric Gryffindor, Harry (Yule Ball), Helga Hufflepuff, Lockhart (Straightjacket), Luna (Lion Head), Peeves, Hermione (Pink Dress), Ron Weasley (Ghoul), Rowena Ravenclaw and Salazar Slytherin, as well as a Spell Pack featuring Cantis, Densaugeo, Ducklifors, Melofors and Tentaclifors
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B07HBLJGGG{{</world>}}
