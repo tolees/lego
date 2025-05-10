@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- For the first time ever both models float on water - check this classic 2-hull catamaran design, working sails, daggerboards and rudder!
 - Catamaran
 - Manufacturer recommended age: 8+
-- Number of pieces: 404
-- For the first time ever both models float on water - check this classic 2-hull catamaran design, working sails, daggerboards and rudder!
 - Fans can angle the sails for a racing position, raise and lower the 2 daggerboards to maximise stability, then use the rudder to steer.
+- Number of pieces: 404
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B081F8KXHD{{</world>}}
