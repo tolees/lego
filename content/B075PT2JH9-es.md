@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Incluye 4 mini figuras LEGO clásicas de la tripulación: Han Solo, Chewbacca, princesa Leia y C-3PO, además de 3 tripulantes del Episodio VII/VIII: Han Solo Mayor, Rey y Finn
-- Millennium Falcon
 - Edad recomendada por el fabricante: 16+
 - Podrás construir un droide BB-8, 2 Porgs y un Mynock mientras admiras los minuciosos destalles del casco, el plato sensor, los cañones láser cuádruples y el cañón bláster oculto
 - Número de piezas: 7541
+- Millennium Falcon
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B075PT2JH9{{</world>}}
