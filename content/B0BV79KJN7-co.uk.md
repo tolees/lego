@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids aged 6+ can expand their LEGO Super Mario buildable game with the Picnic at Marios House Expansion Set, complete with a Yellow Yoshi figure
-- Kids place LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) on the toy boat to fish and wave to Yellow Yoshi to trigger reactions
-- This 259-piece LEGO Super Mario Mario toy set makes a great birthday gift for kids, boys and girls aged 6+ who love Super Mario characters and buildable toys
-- LEGO Super Mario extension set is designed to add more fun to starter courses (71360, 71387 or 71403), which are required for interactive play
-- Download the LEGO Super Mario companion app for digital instructions to inspire childrens imaginations and enhance the buildable game experience
 - The toy house is full of interactive features; Super Mario characters can sleep, eat biscuits, "water" vegetables from the garden and play hockey
+- LEGO Super Mario extension set is designed to add more fun to starter courses (71360, 71387 or 71403), which are required for interactive play
+- Kids place LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) on the toy boat to fish and wave to Yellow Yoshi to trigger reactions
+- Download the LEGO Super Mario companion app for digital instructions to inspire childrens imaginations and enhance the buildable game experience
+- This 259-piece LEGO Super Mario Mario toy set makes a great birthday gift for kids, boys and girls aged 6+ who love Super Mario characters and buildable toys
+- Kids aged 6+ can expand their LEGO Super Mario buildable game with the Picnic at Marios House Expansion Set, complete with a Yellow Yoshi figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV79KJN7{{</world>}}

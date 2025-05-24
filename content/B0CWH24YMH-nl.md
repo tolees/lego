@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief 2 poppetjes en een wasbeer figuur – stimuleer de creativiteit en beleef plezier met het poppetje van Autumn, dat wordt geleverd met 2 gezichten die laten zien hoe haar gezichtsuitdrukking verandert als ze richt
 - Rollenspel met boogschietthema voor meisjes en jongens vanaf 6 jaar – dit avontuurlijke speelgoed voor kinderen wordt geleverd met 2 LEGO Friends poppetjes en een speelgoed wasbeerfiguur voor kinderen die van fantasierijke speelsets houden
-- Ontdek nieuwe passies – bekijk ander LEGO speelgoed (apart verkrijgbaar) in het Friends universum, waar kinderen kennismaken met diverse personages en locaties terwijl ze avonturen uit het echte leven naspelen
-- Een cadeau voor kinderen die van LEGO sets en rollenspellen houden – dit bouwpakket voor kinderen is een leuk cadeau voor meisjes en jongens die van bouwspeelgoed, vriendschapsverhalen en rollenspellen houden
-- Educatief speelgoed boordevol verhalen – kinderen kunnen met deze set hun eigen boogschietavonturen bedenken terwijl ze pijlen afschieten en de kleurgecodeerde moeilijkheidsgraad gebruiken om uitdagingen voor de personages na te spelen
 - Ga voor goud met de echt werkende pijl en boog – kinderen kunnen de speelgoed boog gebruiken om LEGO Friends personages Autumn en Nova te helpen de pijlen naar het doel te schieten en zo de boogschietbadge voor hun kampeerboek te verdienen
+- Educatief speelgoed boordevol verhalen – kinderen kunnen met deze set hun eigen boogschietavonturen bedenken terwijl ze pijlen afschieten en de kleurgecodeerde moeilijkheidsgraad gebruiken om uitdagingen voor de personages na te spelen
+- Ontdek nieuwe passies – bekijk ander LEGO speelgoed (apart verkrijgbaar) in het Friends universum, waar kinderen kennismaken met diverse personages en locaties terwijl ze avonturen uit het echte leven naspelen
+- Inclusief 2 poppetjes en een wasbeer figuur – stimuleer de creativiteit en beleef plezier met het poppetje van Autumn, dat wordt geleverd met 2 gezichten die laten zien hoe haar gezichtsuitdrukking verandert als ze richt
+- Een cadeau voor kinderen die van LEGO sets en rollenspellen houden – dit bouwpakket voor kinderen is een leuk cadeau voor meisjes en jongens die van bouwspeelgoed, vriendschapsverhalen en rollenspellen houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH24YMH{{</world>}}

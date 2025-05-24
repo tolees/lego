@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kinderen en volwassen fans zullen deze LEGO Up Huis set koesteren als speciaal Disney cadeau met zijn vele details en leuke bouwuitdagingen
-- Dit LEGO Disney en Pixar bouwbare speelgoed bevat het iconische Up huis met ballonnen, Carl Fredricksen en Russell LEGO minifiguren, plus een Dug hondenfiguur
-- De Up huis modelbouw set bevat een schoorsteen, slaapkamer, veranda en woonkamer met open haard, plus veel herkenbare filmdetails om te ontdekken
 - Dit LEGO Disney en Pixar bouwbare speelgoed huis is gemaakt voor eindeloze speelsessies en kan gebruikt worden als prachtige display in de kamer van kinderen (of volwassenen)
 - De LEGO Builder app begeleidt kinderen op een eigen avontuur, met tools om 3D-modellen in te zoomen en te roteren, sets op te slaan en de bouwvoortgang te volgen
+- De Up huis modelbouw set bevat een schoorsteen, slaapkamer, veranda en woonkamer met open haard, plus veel herkenbare filmdetails om te ontdekken
+- Kinderen en volwassen fans zullen deze LEGO Up Huis set koesteren als speciaal Disney cadeau met zijn vele details en leuke bouwuitdagingen
 - Met accessoires zoals een ballonpomp, eekhoorn figuur, rugzak en avonturenboek, kunnen fans hun favoriete scènes uit de film opnieuw beleven
+- Dit LEGO Disney en Pixar bouwbare speelgoed bevat het iconische Up huis met ballonnen, Carl Fredricksen en Russell LEGO minifiguren, plus een Dug hondenfiguur
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBSBDCP7{{</world>}}
