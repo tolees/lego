@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- LEGO Star Wars C-3PO – bewegliche Figur zum Bauen und Ausstellen: Hol dir einen der charmantesten Charaktere der Star Wars Galaxis nach Hause – mit diesem realistischen Modell von C-3PO zum Zusammenbauen und Präsentieren
 - Nostalgisches Geschenk zum Vatertag: Dieses Ausstellungsstück ist eine tolle Geschenkidee für Väter, die Fans der klassischen Star Wars Trilogie sind oder für Sammler von LEGO Star Wars Sets
 - Ausstellungsstück zum 25-jährigen Jubiläum: Die beiliegende Basis umfasst eine Infoplakette zu C-3PO, einen Platz für die Minifigur sowie einen speziellen Stein zum 25-jährigen Jubiläum von LEGO Star Wars
-- Gestalte seine ikonischen Details: Baue C-3PO im LEGO Stil nach, drehe seinen Kopf und bewege die Arme, um klassische Posen des beliebten Droiden darzustellen
-- Sammelset aus dem Star Wars Universum: Stell C-3PO neben die LEGO Figur von R2-D2 (Set 75379, separat erhältlich), und richte seinen Arm so aus, dass er seinem alten Freund liebevoll auf den Kopf klopft
-- Inklusive LEGO Minifigur von C-3PO: Neben dem großen Modell enthält das Set auch eine LEGO Minifigur von C-3PO als ergänzendes Highlight
 - LEGO Star Wars Modelle für Erwachsene: Von einer weit entfernten Galaxis direkt in dein Zuhause – diese Bauprojekte sind toll für alle, die sich gerne kreativ und mit voller Aufmerksamkeit einem besonderen Modell widmen
-- LEGO Star Wars C-3PO – bewegliche Figur zum Bauen und Ausstellen: Hol dir einen der charmantesten Charaktere der Star Wars Galaxis nach Hause – mit diesem realistischen Modell von C-3PO zum Zusammenbauen und Präsentieren
+- Inklusive LEGO Minifigur von C-3PO: Neben dem großen Modell enthält das Set auch eine LEGO Minifigur von C-3PO als ergänzendes Highlight
+- Sammelset aus dem Star Wars Universum: Stell C-3PO neben die LEGO Figur von R2-D2 (Set 75379, separat erhältlich), und richte seinen Arm so aus, dass er seinem alten Freund liebevoll auf den Kopf klopft
+- Gestalte seine ikonischen Details: Baue C-3PO im LEGO Stil nach, drehe seinen Kopf und bewege die Arme, um klassische Posen des beliebten Droiden darzustellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FMKS{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dit LEGO DUPLO huis voor peuters zit boordevol accessoires en figuren voor speel- en leerplezier, en is een bijzonder cadeau-idee voor kinderen, meisjes en jongens vanaf 3 jaar
 - LEGO DUPLO sets zijn ontworpen om kinderen de bouwstenen te geven voor hun emotionele, sociale en motorische ontwikkeling
-- De set is voorzien van 7 DUPLO figuren, waaronder 2 volwassenen, 3 kinderen, en speelgoed kat en hond DUPLO dieren figuren waarmee kinderen hun creativiteit de vrije loop kunnen laten gaan
-- Kleuters leren over dagelijkse routines met dit DUPLO speelhuis, van afval buitenzetten tot tanden poetsen en verhaaltjes lezen voor het slapengaan - de speelgoed nachtlamp geeft licht (batterijen inbegrepen)
 - In de garage bevindt zich een push & go elektrische speelgoed auto die wordt opgeladen door zonnepanelen, in de tuin kunnen peuters fruit en groenten plukken om daarna in de keuken te bereiden
+- Kleuters leren over dagelijkse routines met dit DUPLO speelhuis, van afval buitenzetten tot tanden poetsen en verhaaltjes lezen voor het slapengaan - de speelgoed nachtlamp geeft licht (batterijen inbegrepen)
+- De set is voorzien van 7 DUPLO figuren, waaronder 2 volwassenen, 3 kinderen, en speelgoed kat en hond DUPLO dieren figuren waarmee kinderen hun creativiteit de vrije loop kunnen laten gaan
 - Het speelgoed huis kan op 3 manieren gebouwd worden; peuters kunnen de DUPLO stenen gebruiken om één groot poppenhuis met 3 verdiepingen, een hoog gebouw of 2 kleinere woningen te maken
+- Dit LEGO DUPLO huis voor peuters zit boordevol accessoires en figuren voor speel- en leerplezier, en is een bijzonder cadeau-idee voor kinderen, meisjes en jongens vanaf 3 jaar
 - Het LEGO DUPLO Town 3in1 Familiehuis poppenhuis speelgoed voor peuters heeft 3 verdiepingen en bevat 5 kamers, 7 figuren en veel accessoires voor eindeloos speelplezier
 
 [🛒 Buy it!!]({{< param buyurl >}})

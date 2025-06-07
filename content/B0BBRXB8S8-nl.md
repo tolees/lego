@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kinderen kunnen LEGO waterelementen lanceren uit de brandblusser en het jetpack om de vuurelementen te blussen en de passagier op de drijvende speelgoedboot te redden
+- Dit veelzijdige LEGO City speelgoed is een geweldig verjaardagscadeau-idee voor kinderen vanaf 5 jaar die houden van actie en alles wat met de brandweer te maken heeft
 - Kinderen kunnen spannende brandweeravonturen naspelen met dit gave LEGO City speelgoed, inclusief een rubberboot en een reddingsboot van de brandweer, die allebei op het water kunnen drijven, plus een jetpack
 - Bij het botenspeelgoed is een interactieve digitale bouwhandleiding inbegrepen in de gratis LEGO Builder app, waarmee kinderen kunnen inzoomen, draaien en de modellen vanuit verschillende hoeken kunnen bekijken tijdens het bouwen
-- Kinderen kunnen LEGO waterelementen lanceren uit de brandblusser en het jetpack om de vuurelementen te blussen en de passagier op de drijvende speelgoedboot te redden
-- Deze set met brandweerspeelgoed voor kinderen vanaf 5 jaar bestaat uit verschillende voertuigen - kinderen kunnen de 3 meegeleverde LEGO minifiguren van brandweerlieden helpen bij spannende missies op het water
 - De twee speelgoedboten kunnen allebei drijven op het water, zodat kinderen de avonturen naar het water kunnen brengen met de stoere, felgekleurde boten
-- Dit veelzijdige LEGO City speelgoed is een geweldig verjaardagscadeau-idee voor kinderen vanaf 5 jaar die houden van actie en alles wat met de brandweer te maken heeft
+- Deze set met brandweerspeelgoed voor kinderen vanaf 5 jaar bestaat uit verschillende voertuigen - kinderen kunnen de 3 meegeleverde LEGO minifiguren van brandweerlieden helpen bij spannende missies op het water
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB8S8{{</world>}}

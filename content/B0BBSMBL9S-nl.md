@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met deze modelauto op schaal 1:10 geniet je van een lonend project, waarbij je details nabootst die de laatste innovaties in de autosport weerspiegelen
-- De sportwagen auto modelauto set bevat LEGO Technic lichtelementen die oplichten in het donker om de sfeer van een echte 24-uurs race weer te geven
-- Trakteer jezelf of een andere autoliefhebber op deze geavanceerde LEGO auto set met een verzamelbaar hypercar model om met trots tentoon te stellen
-- Breng een eerbetoon aan 100 jaar race-actie op Le Mans in 2023 met dit authentieke LEGO Technic PEUGEOT 9X8 24H Le Mans Hybrid Hypercar modelbouwpakket voor volwassenen
-- Bouw het speciaal voor dit model ontworpen hybride systeem met V6-motor, openslaande deuren, besturing en ophanging aan de voor- en achterzijde
 - Geef je model de finishing touch met de PEUGEOT- en sponsorlogos en stel het opvallende model vervolgens tentoon in je kamer of kantoor als eerbetoon aan je passie
+- Trakteer jezelf of een andere autoliefhebber op deze geavanceerde LEGO auto set met een verzamelbaar hypercar model om met trots tentoon te stellen
+- Bouw het speciaal voor dit model ontworpen hybride systeem met V6-motor, openslaande deuren, besturing en ophanging aan de voor- en achterzijde
+- Met deze modelauto op schaal 1:10 geniet je van een lonend project, waarbij je details nabootst die de laatste innovaties in de autosport weerspiegelen
+- Breng een eerbetoon aan 100 jaar race-actie op Le Mans in 2023 met dit authentieke LEGO Technic PEUGEOT 9X8 24H Le Mans Hybrid Hypercar modelbouwpakket voor volwassenen
+- De sportwagen auto modelauto set bevat LEGO Technic lichtelementen die oplichten in het donker om de sfeer van een echte 24-uurs race weer te geven
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSMBL9S{{</world>}}
