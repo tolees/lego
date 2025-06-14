@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Role-play – Kids help Bunnie pitch the tent, use tools and explore the buildable scene, before rearranging it any way they choose
-- Creative features – A hinge function above the river lets Bunnie vault the river, while hinged walls give easy access to the Animal Crossing tent
 - Animal Crossing birthday gift idea – This LEGO building set makes a fun special-occasion gift for 6+ year old girls, boys and kids who love the Animal Crossing video game series and creative play
-- Build the fun – Add to any other LEGO Animal Crossing building toys (sold separately) to expand a child’s brick-built community
+- Creative features – A hinge function above the river lets Bunnie vault the river, while hinged walls give easy access to the Animal Crossing tent
 - Animal Crossing toy – Kids rearrange the modular baseplates to take the storytelling in any direction they choose with the Bunnie minifigure
+- Role-play – Kids help Bunnie pitch the tent, use tools and explore the buildable scene, before rearranging it any way they choose
 - Toy for girls and boys aged 6+ – Kids enjoy Animal Crossing fun with Bunnie’s Outdoor Activities as they build a setting inspired by the video games
+- Build the fun – Add to any other LEGO Animal Crossing building toys (sold separately) to expand a child’s brick-built community
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZV1N5{{</world>}}

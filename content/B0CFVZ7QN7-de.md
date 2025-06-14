@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Raumfahrt-Spielzeug: Das Set ist ein tolles Geschenk für Kinder ab 10 Jahren, die sich für die Raumfahrt und für futuristische Spielzeugflieger begeistern
 - Baue einen futuristischen Raumfrachter: Junge Raumfahrtfans ab 10 Jahren können beim Bauen und Spielen mit dem LEGO Technic VTOL-Schwerlastraumfrachter LT81 unheimlich viel entdecken
 - Transportiere die Fracht: Der Mini-Rover kann in die Frachtkapsel geladen und mit der ausfahrbaren Greifklaue unter dem Raumschiff fixiert werden
+- Luftschleuse: Eine spezielle Luftschleuse lässt dein Kind das Modell für weitere Abenteuer auch an andere kompatible (separat erhältliche) LEGO Raumfahrt-Spielsets andocken
 - Fahrgestell für senkrechte Starts und Landungen: Kinder können das Fahrgestell ein- und ausfahren und besonders fantasievoll mit dem Modell spielen. Dabei erfahren sie, welche Chancen und Herausforderungen Forscher auf fremden Planeten erwarten
 - Haltegriff und rotierende Triebwerke: Junge Weltraumforscher können den Griff halten, die Triebwerke rotieren lasen und das selbstnivellierende Cockpit bestaunen, während sie verschiedene Flugmanöver ausprobieren
-- Raumfahrt-Spielzeug: Das Set ist ein tolles Geschenk für Kinder ab 10 Jahren, die sich für die Raumfahrt und für futuristische Spielzeugflieger begeistern
-- Luftschleuse: Eine spezielle Luftschleuse lässt dein Kind das Modell für weitere Abenteuer auch an andere kompatible (separat erhältliche) LEGO Raumfahrt-Spielsets andocken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ7QN7{{</world>}}

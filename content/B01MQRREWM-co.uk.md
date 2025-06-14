@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Toddler learning toys – Kids hone their fine motor skills using fun functions such as the spinning buildable toy dancefloor and the movable swing
-- 3 familiar characters – kids explore the castle from the Disney Junior Ariel TV show with LEGO DUPLO | Disney figures of Ariel, Fernie and Sebastian
-- Buildable castle toy home of Ariel – Toddlers enjoy undersea construction fun with the LEGO DUPLO | Disney Ariel’s Magical Underwater Palace
 - Educational toy for toddlers – LEGO DUPLO | Disney building toys support emotional and developmental learning through fun-filled, creative playtimes
 - A treat for Little Mermaid fans – This colourful building toy is a fun Disney-themed gift for 2-plus-year-old girls, boys and for toddlers who love role-play toys and the Disney Junior Ariel TV show
+- Toddler learning toys – Kids hone their fine motor skills using fun functions such as the spinning buildable toy dancefloor and the movable swing
 - Lots of accessories – In the bedroom, ballroom and play area are elements to spark stories, such as a brush, camera, guitar, pitcher and plate
+- Buildable castle toy home of Ariel – Toddlers enjoy undersea construction fun with the LEGO DUPLO | Disney Ariel’s Magical Underwater Palace
+- 3 familiar characters – kids explore the castle from the Disney Junior Ariel TV show with LEGO DUPLO | Disney figures of Ariel, Fernie and Sebastian
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MQRREWM{{</world>}}

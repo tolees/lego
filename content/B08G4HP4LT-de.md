@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Mit den Steinchen lassen sich Armbänder und Deko-Accessoires wunderbar verzieren. Kinder können andere DOTS Sets oder jedes LEGO Set ganz individuell mit den enthaltenen Steinchen aufpeppen.
 - 81 Steinchen zum Sammeln in 4 Farben, 16 stern- und diamantenförmige Elemente mit 3D-Effekt und 10 Überraschungssteinchen fördern die Kreativität und die Designfähigkeiten.
 - Ergänzungsset Geheimnisse
-- Mit den Steinchen lassen sich Armbänder und Deko-Accessoires wunderbar verzieren. Kinder können andere DOTS Sets oder jedes LEGO Set ganz individuell mit den enthaltenen Steinchen aufpeppen.
 - Vom Hersteller empfohlenes Alter: 6+
 - Anzahl der Teile: 107
 

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bouwbaar LEGO boeket als decoratie – verwen jezelf of werk samen met vrienden en familie aan een ontspannend project met het LEGO Botanicals Rozenboeket bouwpakket voor volwassenen
-- Een display met nepbloemen – voeg wat kleur toe aan je huis of kantoor met dit onderhoudsvrije boeket rozen
 - Cadeautip – vier een verjaardag of een andere speciale gelegenheid met dit cadeau voor haar en hem; ook een leuke verrassing voor jezelf
 - Bouw alleen of met vrienden en familie – deze LEGO Botanicals set wordt geleverd met 6 zakken met stenen en aparte instructies voor de 3 bloeistadia, zodat je hem alleen of samen kunt bouwen
-- Bloeiende LEGO bloemen – de LEGO Botanicals Rozenboeket bouwset bevat rozen in verschillende bloeistadia, waaronder 4 rozen in volle bloei, 4 in bloei en 4 in knop
 - Wat zit er in de doos – deze creatieve bouwset bevat alles wat je nodig hebt om een dozijn rode LEGO rozen met lange groene stelen te bouwen, plus 4 takjes gipskruid met kleine witte bloemetjes
+- Een display met nepbloemen – voeg wat kleur toe aan je huis of kantoor met dit onderhoudsvrije boeket rozen
+- Bouwbaar LEGO boeket als decoratie – verwen jezelf of werk samen met vrienden en familie aan een ontspannend project met het LEGO Botanicals Rozenboeket bouwpakket voor volwassenen
+- Bloeiende LEGO bloemen – de LEGO Botanicals Rozenboeket bouwset bevat rozen in verschillende bloeistadia, waaronder 4 rozen in volle bloei, 4 in bloei en 4 in knop
 - Onderdeel van de LEGO Botanical collection – maak ruimte voor ontspanning met het uitgebreide assortiment LEGO voor volwassenen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

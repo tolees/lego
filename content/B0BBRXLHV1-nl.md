@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Jonge fans van mode en styling kunnen Paisleys kapsel en gezichtsuitdrukking verwisselen, om de verschillende looks van voor en na haar bezoek aan de kapsalon te laten zien; ze kunnen zelf kiezen welke stijl ze het mooiste vinden
-- In 2023 wordt Heartlake City uitgebreid met nieuwe LEGO Friends personages en locaties uit de serie, om kinderen te inspireren om nieuwe avonturen te beleven - de speelgoedsets zijn perfect om de verbeelding van kinderen mee te prikkelen
 - Deze gedetailleerde kappersset met creatief speelgoed voor kinderen van 6+ jaar beschikt over ruimtes voor wassen en stylen, plus talloze accessoires om creatieve rollenspellen in de kapsalon te bedenken met de 3 meegeleverde minipoppetjes
+- In 2023 wordt Heartlake City uitgebreid met nieuwe LEGO Friends personages en locaties uit de serie, om kinderen te inspireren om nieuwe avonturen te beleven - de speelgoedsets zijn perfect om de verbeelding van kinderen mee te prikkelen
+- Jonge fans van mode en styling kunnen Paisleys kapsel en gezichtsuitdrukking verwisselen, om de verschillende looks van voor en na haar bezoek aan de kapsalon te laten zien; ze kunnen zelf kiezen welke stijl ze het mooiste vinden
 - Binnen in de speelgoed kapsalon zijn 2 kappersstoelen te vinden, waaronder één met een haardroger, plus een wasbak, een kassa en een standaard voor de pruiken - buiten is een parkbankje te vinden met straatlantaarn, een bord en een speelgoedscooter
 - Kinderen kunnen Paisley vergezellen, die haar haar wil laten knippen, maar nog onzeker is over het resultaat; gelukkig kan Olly haar helpen! Kinderen kunnen spelen dat ze Paisley een nieuwe look geven
 - Bij de speelset zijn minipoppetjes inbegrepen van Paisley, Olly en kapster Nadia, plus verschillende haarstijlen voor de poppetjes, haarproducten, speelgoedgeld, een kauwgomballenautomaat, een reclamebord, een warmtelamp en een bezem

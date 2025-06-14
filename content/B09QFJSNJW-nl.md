@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze LEGO City trein set bestaat uit een op afstand bestuurbare speelgoed trein met werkende, dimbare koplampen, en LEGO Powered Up technologie
-- Met realistische functies: de speelgoedtrein met werkende, dimbare koplampen kan worden bestuurd met de afstandsbediening in de set of vanaf een smartphone of tablet met de LEGO Powered Up-app
 - Inclusief 6 LEGO minifiguren; 4 passagiers, een cafémedewerker en een machinist, plus diverse accessoires, zoals een laptop, telefoon, fiets, rolstoel, aktetas, rugzak, hotdog en croissant
 - Het constructie speelgoed bevat stapsgewijze instructies voor ieder model, zodat kinderen met zelfvertrouwen kunnen beginnen aan het bouwen van de op afstand bestuurbare trein, het perron en de spoorbaan
-- Kinderen zien de ultramoderne aerodynamische locomotief aankomen op het perron; vervolgens stappen ze aan boord van de restauratiewagon voor een croissant en wat te drinken, of ze gaan meteen door naar de passagierswagon, waar ruimte is voor de bagage en een speelgoed fiets
-- Verras kinderen vanaf 7 jaar die gek zijn op coole voertuigen en treinen met dit leuke LEGO speelgoed - het is een perfect verjaardagscadeau, kerstcadeau of zomaar cadeau voor jongens en meisjes die van speelgoed treinen houden
 - Inclusief een op afstand bestuurbare trein met een restauratiewagon, passagierswagon en een stationsperron met een boom, bankje en een bord, plus 24 railelementen; 16 gebogen en 8 rechte
+- Met realistische functies: de speelgoedtrein met werkende, dimbare koplampen kan worden bestuurd met de afstandsbediening in de set of vanaf een smartphone of tablet met de LEGO Powered Up-app
+- Kinderen zien de ultramoderne aerodynamische locomotief aankomen op het perron; vervolgens stappen ze aan boord van de restauratiewagon voor een croissant en wat te drinken, of ze gaan meteen door naar de passagierswagon, waar ruimte is voor de bagage en een speelgoed fiets
+- Deze LEGO City trein set bestaat uit een op afstand bestuurbare speelgoed trein met werkende, dimbare koplampen, en LEGO Powered Up technologie
+- Verras kinderen vanaf 7 jaar die gek zijn op coole voertuigen en treinen met dit leuke LEGO speelgoed - het is een perfect verjaardagscadeau, kerstcadeau of zomaar cadeau voor jongens en meisjes die van speelgoed treinen houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFJSNJW{{</world>}}

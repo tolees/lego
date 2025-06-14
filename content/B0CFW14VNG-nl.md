@@ -30,11 +30,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - 3 LEGO DREAMZzz minifiguren – inclusief LEG0 DREAMZzz Zoey, Cooper en de gemene Nachtjager, plus figuren van Sneak en Snivel
 - Droom speelgoed – deze kleine LEGO set is geïnspireerd op de LEGO DREAMZzz tv-serie en laat kinderen helemaal opgaan in hun favoriete avonturen in de Droomwereld
-- Speel met Zian – met een verstelbare kop, poten en staart maakt de figuur van Zian het gemakkelijk voor kinderen om te genieten van fantasierijk spel
-- Aanpasbaar dieren speelgoed – laat kinderen vanaf 9 jaar hun fantasie gebruiken met deze LEGO DREAMZzz Zoey en Zian de Kattenuil bouwset met 2 spannende bouwmogelijkheden
 - Creatief cadeau voor kinderen – jonge dromers kunnen urenlang spelen met dit fantasierijke cadeau voor kinderen, een leuke verrassing of beloning
 - 1 set, 2 bouwwerken – met dit creatieve speelgoed kunnen kinderen hun eigen avontuur kiezen door Zian te bouwen als een Kattenuil of een Kattenpauw
 - Een droomwereld vol avonturen – ontdek meer fantasie speelgoed (apart verkrijgbaar) voor meisjes en jongens in het LEGO DREAMZzz assortiment, waarmee kinderen naar de Droomwereld reizen en figuren van hun helden ontmoeten
+- Speel met Zian – met een verstelbare kop, poten en staart maakt de figuur van Zian het gemakkelijk voor kinderen om te genieten van fantasierijk spel
+- Aanpasbaar dieren speelgoed – laat kinderen vanaf 9 jaar hun fantasie gebruiken met deze LEGO DREAMZzz Zoey en Zian de Kattenuil bouwset met 2 spannende bouwmogelijkheden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW14VNG{{</world>}}
