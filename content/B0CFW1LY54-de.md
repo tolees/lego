@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lass dein Kind kreativ spielen: LEGO Jurassic World Spielzeug soll Kinder für Dino-Spielzeug begeistern, sie in ihrer Kreativität fördern und ein Talent fürs Geschichtenerzählen entwickeln lassen
 - LEGO Dinosaurier-Set: Dieses coole T-Rex-Spielzeug zum Bauen und Ausstellen ist ein faszinierendes Dinosaurier-Geschenk für Kinder, die sich für Dino-Deko und Paläontologie begeistern und besondere Dinosaurier-Figuren lieben
-- LEGO Dinosaurier-Fossilien: Wecke mit dem LEGO Jurassic World T.-rex-Kopf in Kindern ab 9 Jahren die Begeisterung für Dinosaurier; dieses Dinosaurier-Spielzeug bietet Fans eine anspruchsvollere Bauaufgabe und lässt sie ein cooles „Exponat“ erschaffen
 - Beweglicher T-Rex-Schädel: Den Kiefer kann man öffnen oder schließen, und der Schädel kann in unterschiedlichen Posen auf oder vor dem Ständer mit versteinertem Fußabdruck platziert werden
+- LEGO Dinosaurier-Fossilien: Wecke mit dem LEGO Jurassic World T.-rex-Kopf in Kindern ab 9 Jahren die Begeisterung für Dinosaurier; dieses Dinosaurier-Spielzeug bietet Fans eine anspruchsvollere Bauaufgabe und lässt sie ein cooles „Exponat“ erschaffen
 - Versteinertes T-Rex-Skelett für Jungs und Mädchen: Dieser T.-rex-Kopf, der versteinerte Fußabdruck, der Ständer mit Infotafel und das versteckte Stück Bernstein machen dieses Set zu einer faszinierenden Dinosaurier-Deko
+- Lass dein Kind kreativ spielen: LEGO Jurassic World Spielzeug soll Kinder für Dino-Spielzeug begeistern, sie in ihrer Kreativität fördern und ein Talent fürs Geschichtenerzählen entwickeln lassen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1LY54{{</world>}}

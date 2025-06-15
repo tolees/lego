@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Middeleeuws kasteel boothuis en 2 speelgoed boten – het boothuis heeft ruimte voor een boot om aan te meren, een windvaan en een verstopplaats voor Willibrord. Elke speelgoed boot heeft een bouwbare lamp en ruimte voor 2 Harry Potter minifiguren
 - 7 LEGO Harry Potter personages – met minifiguren van Harry Potter, Marcel Lubbermans, Daan Tomas, Hermelien Griffel en professor Anderling, plus speelgoed dieren figuren van Hedwig de uil en Willibrord de pad
+- Middeleeuws kasteel boothuis en 2 speelgoed boten – het boothuis heeft ruimte voor een boot om aan te meren, een windvaan en een verstopplaats voor Willibrord. Elke speelgoed boot heeft een bouwbare lamp en ruimte voor 2 Harry Potter minifiguren
+- 1 van de 14 Zweinstein portretten om te verzamelen – dit bouwbare Harry Potter speelgoed voor kinderen bevat een goudkleurig element bedrukt met 1 van de 14 willekeurige portretten uit Zweinstein om in het boothuis van het kasteel te hangen
 - Bouwspeelgoed uit de Tovenaarswereld – deze set maakt deel uit van een serie modulaire sets (apart verkrijgbaar) die met elkaar kunnen worden verbonden om het meest gedetailleerde LEGO Zweinstein kasteel ooit te bouwen
 - Harry Potter cadeau voor kinderen – deze set is een leuke verrassing of cadeau voor kinderen vanaf 8 jaar die dol zijn op rollenspellen en voor het eerst kennismaken met de Harry Potter verhalen
-- Onderdeel van een uitgebreide reeks – met de LEGO Harry Potter bouw- en speelsets kunnen jonge tovenaars, heksen en dreuzels beroemde scènes naspelen, hun eigen avonturen bedenken of de modellen neerzetten en bewonderen
 - Fantasierijke speelgoedset – laat kinderen de bekende scène uit Harry Potter en de Steen der Wijzen naspelen waarin Harry Potter en zijn vrienden voor het eerst aankomen in het Kasteel Zweinstein: Boothuis met dit bouwpakket voor kinderen
-- 1 van de 14 Zweinstein portretten om te verzamelen – dit bouwbare Harry Potter speelgoed voor kinderen bevat een goudkleurig element bedrukt met 1 van de 14 willekeurige portretten uit Zweinstein om in het boothuis van het kasteel te hangen
+- Onderdeel van een uitgebreide reeks – met de LEGO Harry Potter bouw- en speelsets kunnen jonge tovenaars, heksen en dreuzels beroemde scènes naspelen, hun eigen avonturen bedenken of de modellen neerzetten en bewonderen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYNPY6{{</world>}}

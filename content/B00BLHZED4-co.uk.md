@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Discover a space for relaxation with the LEGO Botanicals Tranquil Garden set - a great Mothers Day gift idea or birthday present for women, men and all gardening enthusiasts
 - Revel in a mindful building project as you craft a Japanese-inspired botanical haven with this LEGO Icons Tranquil Garden set for adults
 - Enthusiasts of Japanese traditions will delight in preparing the tea ceremony; simply lift the roof to reveal the teapot, cups and whisk
 - Create a stunning Zen garden model with an arched bridge, stream, koi carp, lotus flowers, trees, stone lanterns and pavilion with tea-ceremony room
 - Easily customise the Zen garden kit as you please, using the slots in the base of the model to create different configurations for display at home
+- Discover a space for relaxation with the LEGO Botanicals Tranquil Garden set - a great Mothers Day gift idea or birthday present for women, men and all gardening enthusiasts
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00BLHZED4{{</world>}}

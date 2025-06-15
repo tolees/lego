@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Han Solo
-- Combats les méchants avec Han Solo !
 - Âge : 8 - 14 ans
+- Combats les méchants avec Han Solo !
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B075GR1TVS{{</world>}}

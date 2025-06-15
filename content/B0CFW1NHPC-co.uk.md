@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Spring colours – This LEGO artificial flowers set features 2 cherry blossom cuttings covered in buds in hues of pastel pink and white
-- Floral desk decor – Once complete, the cherry blossoms become spring-inspired decor that can be displayed in any room or as fun desk accessories
-- Customise the faux flowers – Builders can combine the colours of the buds to create 2 unique brick build stems
-- LEGO flower bouquet – The cherry blossoms can be combined with other LEGO flowers (sold separately) to create a colourful arrangement
 - Celebration gifts – The cherry blossoms can be given as a gift for girls, boys and teens with green thumbs, or as a Valentine’s Day gift or Mother’s Day gift for nature-lovers
+- Spring colours – This LEGO artificial flowers set features 2 cherry blossom cuttings covered in buds in hues of pastel pink and white
 - LEGO flowers – Sow the seeds of creativity with this LEGO Botanicals Cherry Blossoms set for girls and boys aged 8 and over and adults who love flowers
+- Customise the faux flowers – Builders can combine the colours of the buds to create 2 unique brick build stems
+- Floral desk decor – Once complete, the cherry blossoms become spring-inspired decor that can be displayed in any room or as fun desk accessories
+- LEGO flower bouquet – The cherry blossoms can be combined with other LEGO flowers (sold separately) to create a colourful arrangement
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1NHPC{{</world>}}

@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - De rode NINJAGO speelgoedauto heeft een cockpit die open kan met ruimte voor een minifiguur, plus enorme LEGO banden en een indrukwekkende gouden spoiler in de vorm van vleugels aan de achterkant
-- Deze set bevat een 2in1 LEGO NINJAGO set met speelgoed raceauto, die kinderen kunnen ombouwen van een coole terreinwagen naar een te gekke auto voor straatraces, door de 4 wielen om te wisselen
 - Wanneer het tijd is om te racen, kan het voertuig omgebouwd worden van een terreinwagen naar een krachtige en snelle raceauto, door de 4 wielen om te wisselen en de spoiler weg te halen
-- Deze set is Inclusief een LEGO NINJAGO coureur poppetje van Kai met ninja-helm, gewapend met 2 gouden katana speelgoedzwaarden die vastgemaakt kunnen worden aan de zijkant van de ninja auto tijdens spannende races
-- Bekijk ook andere sets uit de LEGO NINJAGO collectie met ninja speelgoed: Lloyd’s Mech Battle EVO (71781), Cole’s Aardedraak EVO (71782) en Jay’s Bliksemstraaljager EVO (71784) voor nog meer spannende avonturen
 - Jonge ninjas zullen het geweldig vinden om te spelen en zelfstandig of met vrienden spannende scènes te bedenken; deze set is een geweldig verjaardagscadeau-idee voor kinderen van 6+ jaar die dol zijn op auto speelgoed
+- Bekijk ook andere sets uit de LEGO NINJAGO collectie met ninja speelgoed: Lloyd’s Mech Battle EVO (71781), Cole’s Aardedraak EVO (71782) en Jay’s Bliksemstraaljager EVO (71784) voor nog meer spannende avonturen
+- Deze set is Inclusief een LEGO NINJAGO coureur poppetje van Kai met ninja-helm, gewapend met 2 gouden katana speelgoedzwaarden die vastgemaakt kunnen worden aan de zijkant van de ninja auto tijdens spannende races
+- Deze set bevat een 2in1 LEGO NINJAGO set met speelgoed raceauto, die kinderen kunnen ombouwen van een coole terreinwagen naar een te gekke auto voor straatraces, door de 4 wielen om te wisselen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZYFB9{{</world>}}
