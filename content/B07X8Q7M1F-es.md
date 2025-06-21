@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - La alegría de este pequeño paquete es la oportunidad para que los niños coincidan con su estado de ánimo, se mezclen y combinen con sus amigos y se expresen
-- Diferentes temas para coleccionar, crear, compartir y usar. 10 de los 16 posibles azulejos decorados en la bolsa son una sorpresa
-- Cuenta con 109 azulejos de colores con 79 azulejos en 4 colores y 20 azulejos de purpurina azul translúcido para decoraciones creativas de joyas
 - Esta bonita bolsa creativa de bricolaje es perfecta para que los jóvenes diseñadores añadan a sus creaciones y luego muestren sus nuevos diseños
+- Cuenta con 109 azulejos de colores con 79 azulejos en 4 colores y 20 azulejos de purpurina azul translúcido para decoraciones creativas de joyas
+- Diferentes temas para coleccionar, crear, compartir y usar. 10 de los 16 posibles azulejos decorados en la bolsa son una sorpresa
 - Los niños pueden utilizar habilidades de autoexpresión mientras decoran ya sea siguiendo patrones de los diferentes juegos LEGO DOTS o creando nuevas ideas
 
 [🛒 Buy it now!!]({{< param buyurl >}})

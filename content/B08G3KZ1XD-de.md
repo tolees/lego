@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Leistungsstarker Elektromotor – Sorgt für kraftvolle Bewegungen und eine präzise Steuerung in motorisierten LEGO Technic Modellen.
-- Kompatibel mit LEGO Powered Up Hubs – Einfaches Anschließen an den LEGO Technic Powered Up Hub für interaktive Steuerung per App oder Fernbedienung.
 - Ideal für motorisierte Fahrzeuge und Maschinen – Perfekt zur Aufrüstung oder Erweiterung bestehender LEGO Technic Sets für noch realistischere Funktionen.
+- Kompatibel mit LEGO Powered Up Hubs – Einfaches Anschließen an den LEGO Technic Powered Up Hub für interaktive Steuerung per App oder Fernbedienung.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08G3KZ1XD{{</world>}}

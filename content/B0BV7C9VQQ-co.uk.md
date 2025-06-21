@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Celebrate one of the world’s most beloved Super Heroes with The Amazing Spider-Man LEGO Art set, a unique 3D canvas poster, with incredible details
-- The Amazing Spider-Man LEGO Art set comes with a premium booklet featuring details about this beloved Super Hero and instructions to guide you through the building process
 - Pay homage to Spidey and spot 15 spiders in the picture to represent issue no. 15 of Amazing Fantasy in which Spider-Man first appeared in August 1962
-- A great Spider-Man gift for teenagers and adults who love super hero comics, or LEGO wall art sets; when the model is finished, the unique piece of art willl look amazing displayed on a wall
 - Scan the QR code to listen to a tailor-made soundtrack and immerse yourself in a creative project as you craft this piece of Spider-Man art
-- In this piece of LEGO wall art, super hero Spider-Man breaks out from the frame and his head and fingers can be put into different poses
-- The backdrop of the buildable Spider-Man poster replicates the classic Ben-Day-dot printing technique from the 1960s used in the comics
 - Number of Pieces: 2,099
+- The Amazing Spider-Man LEGO Art set comes with a premium booklet featuring details about this beloved Super Hero and instructions to guide you through the building process
+- In this piece of LEGO wall art, super hero Spider-Man breaks out from the frame and his head and fingers can be put into different poses
+- Celebrate one of the world’s most beloved Super Heroes with The Amazing Spider-Man LEGO Art set, a unique 3D canvas poster, with incredible details
+- The backdrop of the buildable Spider-Man poster replicates the classic Ben-Day-dot printing technique from the 1960s used in the comics
+- A great Spider-Man gift for teenagers and adults who love super hero comics, or LEGO wall art sets; when the model is finished, the unique piece of art willl look amazing displayed on a wall
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7C9VQQ{{</world>}}

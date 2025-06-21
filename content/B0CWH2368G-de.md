@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - LEGO Super Mario Set mit Spielzeug-Spukhaus für Kinder: Dieses Nintendo Set zum Sammeln lässt dich König Buu Huus Spukhaus erkunden, gruselige Gespenster besiegen und nach dem Schlüssel zur Schatztruhe suchen
-- Beinhaltet 4 LEGO Super Mario Figuren: König Buu Huu, einen gelben Baby Yoshi, einen Knochentrocken und einen Buu Huu
 - Weck die Fantasie deines Kindes: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige packende Herausforderungen zu bieten und Kinder (auch miteinander) auf spannende Münzsammelmissionen zu schicken
-- Interaktives digitales Spielerlebnis: Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figur nicht enthalten), beispielsweise den Schlüssel zur Schatztruhe zu suchen oder König Buu Huu vom Tisch im Hof zu stürzen
-- Abenteuer-Spielset: Man kann das Spukhaus aus LEGO Steinen zum Spielen öffnen; Im Haus findest du ein hochfahrbares Sofa, ein Bücherregal mit Schlüsselenthüllungsfunktion sowie einen Münzblock, einen Truhenblock und einen Schlüsselblock
 - Nützlicher Helfer: Lade dir die dazugehörige LEGO Super Mario App herunter, um dir unter anderem Bauanleitungen und kreative Tipps zu holen; Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
+- Abenteuer-Spielset: Man kann das Spukhaus aus LEGO Steinen zum Spielen öffnen; Im Haus findest du ein hochfahrbares Sofa, ein Bücherregal mit Schlüsselenthüllungsfunktion sowie einen Münzblock, einen Truhenblock und einen Schlüsselblock
+- Interaktives digitales Spielerlebnis: Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figur nicht enthalten), beispielsweise den Schlüssel zur Schatztruhe zu suchen oder König Buu Huu vom Tisch im Hof zu stürzen
+- Beinhaltet 4 LEGO Super Mario Figuren: König Buu Huu, einen gelben Baby Yoshi, einen Knochentrocken und einen Buu Huu
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2368G{{</world>}}
