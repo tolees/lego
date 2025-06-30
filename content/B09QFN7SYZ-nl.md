@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Dit LEGO Avatar constructie speelgoed is speciaal ontworpen om samen te bouwen; de set bevat 3 instructieboekjes, zodat vrienden en familie tegelijkertijd verschillende omgevingen kunnen bouwen
 - Kinderen en filmfans kunnen dit constructie speelgoed combineren met andere LEGO Avatar sets (apart verkrijgbaar) om hun eigen versie van de wereld van Pandora te creëren - het is een onvergetelijk cadeau voor kerstmis, een verjaardag of een andere gelegenheid
-- Met de glow-in-the-dark onderdelen en elementen kunnen kinderen de bergachtige omgeving uit de film eenvoudig nabouwen, of hun eigen fantasie-omgevingen bedenken
-- Kinderen zullen het geweldig vinden om de spannende scène na te spelen uit Avatar, waarin Jake leert hoe hij verbinding maakt met zijn Banshee en één van de Navi wordt
-- Het beeld van Avatar personages Jake en Neytiri op de rug van de Banshees, met clips voor de 2 speren en de heilige bergen van Pandora op de achtergrond, is een fantastische eyecatcher om neer te zetten op de kinderkamer
 - De grote drakenachtige figuren zijn verstelbaar en hebben wendbare folievleugels met een kleurrijk patroon; kinderen kunnen de LEGO minifiguren van Jake en Neytiri op de rug van de Banshees plaatsen en ze laten rondvliegen, net als in de film!
+- Het beeld van Avatar personages Jake en Neytiri op de rug van de Banshees, met clips voor de 2 speren en de heilige bergen van Pandora op de achtergrond, is een fantastische eyecatcher om neer te zetten op de kinderkamer
 - Deze LEGO Avatar set geeft kinderen een kijkje in de wereld van Pandora; met 2 bouwbare Banshee figuren, minifiguren van Jake Sully en Neytiri, en een bergachtige omgeving met bloemen, een waterval en glow-in-the-dark onderdelen
+- Kinderen zullen het geweldig vinden om de spannende scène na te spelen uit Avatar, waarin Jake leert hoe hij verbinding maakt met zijn Banshee en één van de Navi wordt
+- Met de glow-in-the-dark onderdelen en elementen kunnen kinderen de bergachtige omgeving uit de film eenvoudig nabouwen, of hun eigen fantasie-omgevingen bedenken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFN7SYZ{{</world>}}

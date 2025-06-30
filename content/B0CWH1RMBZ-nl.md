@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Luister en leer – bouwers kunnen een QR-code in de bouwinstructies scannen om meer over de Melkweg te ontdekken met de speciaal samengestelde soundtrack van de set
-- Melkweg voor aan de muur – maak een groot kunstwerk van het Melkwegstelsel met dit LEGO ruimte bouwpakket voor volwassenen
-- Boordevol functies – de wanddecoratie omvat een aantal van de beroemdste sterren, clusters en andere spektakels van het Melkwegstelsel waaronder Trappist-1, het Zevengesternte, de Krabnevel en de Zuilen der Schepping
-- Een sociale bouwervaring – dit decoratieve cadeau wordt gemaakt op 5 verschillende panelen, elk met een eigen bouwinstructieboekje, zodat een groep vrienden er samen aan kan werken
-- LEGO Art sets – elke set in de LEGO Art collectie geeft volwassenen de kans om hun eigen wanddecoratie te creëren voor thuis of op kantoor
-- Cadeau voor hem of haar met ruimtethema – LEGO kunst voor volwassenen die van astronomie houden en graag opgaan in een creatieve hobby
 - LEGO wanddecoratie met 3D-effect – een LEGO kunstwerk van de Melkweg gemaakt van 3091 gelaagde LEGO stenen en onderdelen om een 3D-effect met diepte en textuur te creëren
+- LEGO Art sets – elke set in de LEGO Art collectie geeft volwassenen de kans om hun eigen wanddecoratie te creëren voor thuis of op kantoor
+- Een sociale bouwervaring – dit decoratieve cadeau wordt gemaakt op 5 verschillende panelen, elk met een eigen bouwinstructieboekje, zodat een groep vrienden er samen aan kan werken
+- Cadeau voor hem of haar met ruimtethema – LEGO kunst voor volwassenen die van astronomie houden en graag opgaan in een creatieve hobby
+- Melkweg voor aan de muur – maak een groot kunstwerk van het Melkwegstelsel met dit LEGO ruimte bouwpakket voor volwassenen
+- Luister en leer – bouwers kunnen een QR-code in de bouwinstructies scannen om meer over de Melkweg te ontdekken met de speciaal samengestelde soundtrack van de set
+- Boordevol functies – de wanddecoratie omvat een aantal van de beroemdste sterren, clusters en andere spektakels van het Melkwegstelsel waaronder Trappist-1, het Zevengesternte, de Krabnevel en de Zuilen der Schepping
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1RMBZ{{</world>}}
