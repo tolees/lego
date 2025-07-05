@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Educational toys for 2+ year olds – LEGO DUPLO toys are designed to support early-years development, including logical thinking and self-expression
-- 3 Peppa Pig figures – Comes with Peppa Pig, Pedro Pony and Suzy Sheep figures, plus a camera, birthday cake, cake tin, gift and Peppas Teddy
-- Feature-packed LEGO house toy with lots to explore – Iconic home from the TV show includes a bedroom, kitchen and bathroom with a toy toilet and sink
 - Gift idea for preschoolers – This set makes a fun Peppa Pig-themed birthday gift for 2+-year-old toddler, girls and boys who love Peppa Pig toys and the TV show
 - Toddler learning toys – Kids develop fine motor skills by exploring the set and practice social skills by imagining interactions with friends
 - Peppa Pig house toy for 2+ year old girls and boys – Fans of the TV show are invited to a party with the LEGO DUPLO Peppa Pig Birthday House playset
+- 3 Peppa Pig figures – Comes with Peppa Pig, Pedro Pony and Suzy Sheep figures, plus a camera, birthday cake, cake tin, gift and Peppas Teddy
+- Educational toys for 2+ year olds – LEGO DUPLO toys are designed to support early-years development, including logical thinking and self-expression
+- Feature-packed LEGO house toy with lots to explore – Iconic home from the TV show includes a bedroom, kitchen and bathroom with a toy toilet and sink
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH1RSY5{{</world>}}

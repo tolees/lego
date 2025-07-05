@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Vatertagsgeschenk für Star Wars Fans: Mit 921 Teilen ist dieses LEGO Star Wars Bauset für Erwachsene ein tolles Geschenk für Väter und alle, die sich für die weit, weit entfernte Galaxis begeistern
-- Detailliertes Star Wars Raumschiff: Baue mit LEGO typischer Gestaltung die legendären Merkmale des Millennium Falken aus Star Wars: Eine neue Hoffnung – darunter die Cockpitsektion, die Radarschüssel und die Geschütztürme
-- Teil der LEGO Star Wars Raumschiff-Kollektion: Dieses Modell gehört zur Sammelreihe mittelgroßer Raumschiffe – inspiriert von den ikonischen Sternenschiffen der Star Wars Saga
-- Digitale Bauunterstützung: Mit der LEGO Builder App kannst du Bauanleitungen in 3D ansehen, deinen Fortschritt speichern, Sets verwalten und gemeinsam mit anderen bauen
-- Für die Vitrine oder als Deko: Die baubare Präsentationsbasis enthält ein Namensschild sowie einen Jubiläumsstein zum 25-jährigen LEGO Star Wars Jubiläum und stellt den Falken in dynamischem Winkel zur Schau
-- Sammlermodell des Millennium Falken zum Bauen und Ausstellen: Erwecke klassische Star Wars Momente zum Leben, während du mit LEGO Steinen eine mittelgroße Nachbildung des berühmtesten Raumschiffs der Galaxis erschaffs
 - Von einer weit entfernten Galaxis direkt in dein Zuhause: Die LEGO Star Wars Sets für Erwachsene sind für Fans gemacht, die gerne abschalten und sich mit kreativen Bauprojekten ganz in eine andere Welt vertiefen
+- Vatertagsgeschenk für Star Wars Fans: Mit 921 Teilen ist dieses LEGO Star Wars Bauset für Erwachsene ein tolles Geschenk für Väter und alle, die sich für die weit, weit entfernte Galaxis begeistern
+- Sammlermodell des Millennium Falken zum Bauen und Ausstellen: Erwecke klassische Star Wars Momente zum Leben, während du mit LEGO Steinen eine mittelgroße Nachbildung des berühmtesten Raumschiffs der Galaxis erschaffs
+- Detailliertes Star Wars Raumschiff: Baue mit LEGO typischer Gestaltung die legendären Merkmale des Millennium Falken aus Star Wars: Eine neue Hoffnung – darunter die Cockpitsektion, die Radarschüssel und die Geschütztürme
+- Digitale Bauunterstützung: Mit der LEGO Builder App kannst du Bauanleitungen in 3D ansehen, deinen Fortschritt speichern, Sets verwalten und gemeinsam mit anderen bauen
+- Teil der LEGO Star Wars Raumschiff-Kollektion: Dieses Modell gehört zur Sammelreihe mittelgroßer Raumschiffe – inspiriert von den ikonischen Sternenschiffen der Star Wars Saga
+- Für die Vitrine oder als Deko: Die baubare Präsentationsbasis enthält ein Namensschild sowie einen Jubiläumsstein zum 25-jährigen LEGO Star Wars Jubiläum und stellt den Falken in dynamischem Winkel zur Schau
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW29DZX{{</world>}}

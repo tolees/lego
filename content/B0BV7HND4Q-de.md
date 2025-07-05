@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinder können das Fahrwerk einfahren und somit den Flugmodus aktivieren, mit den Shootern feindliche Sternenjäger abschießen, Ahsokas Lichtschwerter holen, das Shuttle landen und zusammen mit Sabine Wren gegen Marrok kämpfen
 - Dieses baubare Raumschiff-Modell verfügt über ein aufklappbares LEGO Minifiguren-Cockpit, ein leicht einfahrbares Fahrwerk für den Flugmodus, 2 Shooter und 2 Aufbewahrungsfächer für Werkzeuge und Waffen
-- Gib dieses 599-teilige baubare Star Wars-Set als Geschenk zu Weihnachten, zum Geburtstag oder als besondere Aufmerksamkeit für Fans von Star Wars: Ahsoka
-- Enthält 4 LEGO Star Wars Charaktere: Ahsoka Tano mit 2 Lichtschwertern, Sabine Wren mit 2 Blastern, Professor Huyang mit einem Schraubenschlüssel-Zubehör und Marrok mit einem Doppelklingen-Lichtschwert
 - Star Wars: Ahsoka-Fans können ihre eigenen Abenteuergeschichten mit dem LEGO Star Wars Ahsoka Tanos T-6 Jedi Shuttle-Set erfinden, das 4 LEGO Star Wars Minifiguren, ein baubares Spielzeug-Raumschiff, Lichtschwerter und Blaster enthält
 - Schaue dir die gesamte LEGO Star Wars-Kollektion an: hier können Kinder und Erwachsene Fans klassische Szenen nachstellen, ihre eigenen Actiongeschichten nachspielen oder die baubaren Modelle voller Stolz präsentieren
+- Kinder können das Fahrwerk einfahren und somit den Flugmodus aktivieren, mit den Shootern feindliche Sternenjäger abschießen, Ahsokas Lichtschwerter holen, das Shuttle landen und zusammen mit Sabine Wren gegen Marrok kämpfen
+- Gib dieses 599-teilige baubare Star Wars-Set als Geschenk zu Weihnachten, zum Geburtstag oder als besondere Aufmerksamkeit für Fans von Star Wars: Ahsoka
+- Enthält 4 LEGO Star Wars Charaktere: Ahsoka Tano mit 2 Lichtschwertern, Sabine Wren mit 2 Blastern, Professor Huyang mit einem Schraubenschlüssel-Zubehör und Marrok mit einem Doppelklingen-Lichtschwert
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV7HND4Q{{</world>}}

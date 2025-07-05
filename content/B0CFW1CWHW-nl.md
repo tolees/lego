@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Eindeloze creatieve speelmogelijkheden – kinderen kunnen leuke verhalen bedenken met 3 verschillende retromodellen: een fotocamera, een videocamera en een speelgoed televisie
-- 3-in-1 speelgoed boordevol functies – de speelgoed camera heeft een beweegbare lens, knoppen om in te drukken, film om achterin te plaatsen en een riem, de videocamera heeft een klep heeft die open kan om te filmen en de tv heeft een antenne
-- Displaymodellen – eenmaal gebouwd kunnen alle 3 de LEGO retromodellen afzonderlijk of samen in de kinderkamer worden neergezet als de speeltijd voorbij is
 - 3 retro speelgoed modellen in 1 doos – jongens en meisjes vanaf 8 jaar kunnen 3 verschillende vintage modellen bouwen en herbouwen met dezelfde set stenen met dit LEGO Creator Retro fotocamera speelgoed
 - Inclusief 6 stickers – de set wordt geleverd met 6 stickers die kinderen kunnen toevoegen als fotos: een bos bloemen, een hond, een giraffe, een camper, een rolschaats en een motorfiets
 - Meer 3-in-1 plezier – beleef nog meer 3-in-1 speelplezier met andere LEGO Creator sets (apart verkrijgbaar) uit het assortiment, inclusief geweldige dieren, coole voertuigen en gedetailleerde stadstaferelen
 - Creatief cadeau – deze LEGO Creator 3in1 set biedt een leuke bouw- en speelervaring voor jongens en meisjes vanaf 8 jaar en kan worden gegeven als cadeau voor zomaar tussendoor of als onverwachte beloning
+- 3-in-1 speelgoed boordevol functies – de speelgoed camera heeft een beweegbare lens, knoppen om in te drukken, film om achterin te plaatsen en een riem, de videocamera heeft een klep heeft die open kan om te filmen en de tv heeft een antenne
+- Displaymodellen – eenmaal gebouwd kunnen alle 3 de LEGO retromodellen afzonderlijk of samen in de kinderkamer worden neergezet als de speeltijd voorbij is
+- Eindeloze creatieve speelmogelijkheden – kinderen kunnen leuke verhalen bedenken met 3 verschillende retromodellen: een fotocamera, een videocamera en een speelgoed televisie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1CWHW{{</world>}}
