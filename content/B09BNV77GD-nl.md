@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deze innovatieve, volledig elektrische raceauto is een perfect verjaardagscadeau voor jongens en meisjes die van sportautos houden!
-- Verken het stukje voor stukje terwijl je een van s werelds meest ongekende aerodynamische vorm nabouwt
-- Terwijl je bouwt met de LEGO Bouwinstructies app beschikbaar voor smartphones en tablets, zoom, roteer en bekijk bouwbare modellen vanuit alle hoeken
-- Het wordt geleverd met een LEGO coureur minifiguur met een Lotus racepak, helm, pruik en een moersleutel
-- Recreëer Groot-Brittanniës eerste volledig elektrische hypercar met dit Lotus Evija replica autobouwbare model en bewonder het innovatieve ontwerp van de speelgoed sportwagen
 - Dit auto speelgoed bouwbare model voor kinderen heeft veel ruimte voor een 2-zits cockpit en veel authentieke details
+- Het wordt geleverd met een LEGO coureur minifiguur met een Lotus racepak, helm, pruik en een moersleutel
+- Terwijl je bouwt met de LEGO Bouwinstructies app beschikbaar voor smartphones en tablets, zoom, roteer en bekijk bouwbare modellen vanuit alle hoeken
+- Recreëer Groot-Brittanniës eerste volledig elektrische hypercar met dit Lotus Evija replica autobouwbare model en bewonder het innovatieve ontwerp van de speelgoed sportwagen
+- Deze innovatieve, volledig elektrische raceauto is een perfect verjaardagscadeau voor jongens en meisjes die van sportautos houden!
 - Ontdek een aantal van s werelds meest iconische voertuigen met LEGO Speed Champions race auto speelgoed bouwbare modellen
+- Verken het stukje voor stukje terwijl je een van s werelds meest ongekende aerodynamische vorm nabouwt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNV77GD{{</world>}}

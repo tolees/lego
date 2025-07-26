@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Minecraft made real – LEGO Minecraft construction toys give kids a different way to enjoy the popular game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
-- Minecraft toy – The first-ever Minecraft Legends set, The Devourer Showdown, lets kids build and battle with one of the game’s biggest characters
-- Minecraft gift for boys and girls – The first appearance of The Devourer in a Minecraft LEGO set is likely to be a big hit with fans of the game
 - Minecraft playset – Also includes a bird mount for the Ranger Minecraft figure to ride, plus a flag, cape, a lute and a Minecraft diamond sword
 - Role-play building toys – Minecraft features include vomit ‘missiles’ fired from The Devourer’s mouth, and mucus elements launched from its backpack
+- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Minecraft toy – The first-ever Minecraft Legends set, The Devourer Showdown, lets kids build and battle with one of the game’s biggest characters
+- Minecraft gift for boys and girls – The first appearance of The Devourer in a Minecraft LEGO set is likely to be a big hit with fans of the game
 - Minecraft characters – Kids take on the Devourer and Blaze Runt, with help from the Ranger Hero, Big Beak, a Skeleton and a Cobblestone Golem
+- Minecraft made real – LEGO Minecraft construction toys give kids a different way to enjoy the popular game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYTT9L{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO DUPLO sets are expertly designed to provide the building blocks to support preschool children’s emotional, social and motor development
 - With lots of creative rebuilding this LEGO DUPLO educational toy house for toddlers makes a special gift idea for 3+ year old kids, girls and boys
-- The toy house can be built 3 ways; toddlers use DUPLO bricks to make a large 3-floor playhouse, a tall building or 2 smaller dwellings and garden
-- LEGO DUPLO Town 3in1 Family House dolls house toy for toddlers features 3 floors, 5 rooms, 7 figures and lots of accessories for family-life play
 - Let your toddler play out daily activites: taking out rubbish, bedtime, toothbrushing, reading by the light-up-toy lamp (batteries included)
-- Inside the garage there’s a push and go toy electric car ‘charged’ by solar panels; plus kids can pick fruit and veg to prepare in the kitchen
+- LEGO DUPLO sets are expertly designed to provide the building blocks to support preschool children’s emotional, social and motor development
+- The toy house can be built 3 ways; toddlers use DUPLO bricks to make a large 3-floor playhouse, a tall building or 2 smaller dwellings and garden
 - Features 7 DUPLO figures: including 2 adults, 3 kids, toy cat and dog DUPLO animal figures so kids can explore limitless play possibilities
+- Inside the garage there’s a push and go toy electric car ‘charged’ by solar panels; plus kids can pick fruit and veg to prepare in the kitchen
+- LEGO DUPLO Town 3in1 Family House dolls house toy for toddlers features 3 floors, 5 rooms, 7 figures and lots of accessories for family-life play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NAIYVJJ{{</world>}}

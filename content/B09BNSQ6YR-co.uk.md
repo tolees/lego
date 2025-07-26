@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids take part in astronaut training, simulate a flight in the toy Space Shuttle, complete a spacewalk & search the cosmos for new galaxies
-- This LEGO space rocket toy is a rewarding challenge for future astronauts and makes an out-of-this-world gift for kids, boys and girls age 8 plus
-- Join Olivia as her dreams come true and she gains entry to the Space Academy where she can train to be an astronaut
-- Features a LEGO Space Shuttle toy, an academy building, mission control with a telescope and a multi-axis trainer
 - The free LEGO Building Instructions app lets kids zoom, rotate and view their toy spaceship model in 3D as they build
-- LEGO Friends space toy also includes 4 mini-dolls: LEGO Friends Olivia and William in astronaut suits with helmets, Dr Vidya and Julian
+- Join Olivia as her dreams come true and she gains entry to the Space Academy where she can train to be an astronaut
+- This LEGO space rocket toy is a rewarding challenge for future astronauts and makes an out-of-this-world gift for kids, boys and girls age 8 plus
+- Features a LEGO Space Shuttle toy, an academy building, mission control with a telescope and a multi-axis trainer
 - Many scientifically accurate elements packed into this educational astronaut toy teach kids about the space program
+- Kids take part in astronaut training, simulate a flight in the toy Space Shuttle, complete a spacewalk & search the cosmos for new galaxies
+- LEGO Friends space toy also includes 4 mini-dolls: LEGO Friends Olivia and William in astronaut suits with helmets, Dr Vidya and Julian
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNSQ6YR{{</world>}}

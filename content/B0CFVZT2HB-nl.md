@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Een LEGO cadeau voor kinderen van 7 jaar en ouder – verras je jonge held met dit politiespeelgoed voor de feestdagen of een verjaardag voor fans van LEGO voertuigen, politie speelgoed en fantasierijk spelen
-- Een LEGO gevangeniseiland vol leuke kenmerken – inclusief een cel met een ontsnappingstunnel die leidt naar een verlaten mijn, plus een binnenplaats met een geheim ontsnappingsluik dat naar een ongebruikte rioolpijp leidt
 - Creatief spelen zonder grenzen – kinderen openen de deur naar nog meer plezier en avonturen als ze deze set uitbreiden met andere LEGO City sets (apart verkrijgbaar)
-- Wat zit er in dit LEGO bouwpakket? – een bouwbaar eiland met een speelgoed gevangenis aan de rand van een klif, een politieboot, een rubberboot, een speelgoed helikopter, minifiguren van 3 agenten en 4 gevangenen, plus dieren figuren van een politiehond en een haai
 - Inclusief gezocht-poster – met toestemming van een volwassene kunnen kinderen de QR-code in de bouwinstructies of op de doos scannen voor een leuk videoavontuur met de LEGO City politie
-- Politie speelgoed met gevangeniseiland voor kinderen vanaf 7 jaar – deze LEGO City Politiegevangeniseiland set zit boordevol leuke kenmerken en functies voor urenlang fantasierijk speelplezier
+- Wat zit er in dit LEGO bouwpakket? – een bouwbaar eiland met een speelgoed gevangenis aan de rand van een klif, een politieboot, een rubberboot, een speelgoed helikopter, minifiguren van 3 agenten en 4 gevangenen, plus dieren figuren van een politiehond en een haai
 - Over LEGO City speelsets – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Een LEGO gevangeniseiland vol leuke kenmerken – inclusief een cel met een ontsnappingstunnel die leidt naar een verlaten mijn, plus een binnenplaats met een geheim ontsnappingsluik dat naar een ongebruikte rioolpijp leidt
+- Politie speelgoed met gevangeniseiland voor kinderen vanaf 7 jaar – deze LEGO City Politiegevangeniseiland set zit boordevol leuke kenmerken en functies voor urenlang fantasierijk speelplezier
+- Een LEGO cadeau voor kinderen van 7 jaar en ouder – verras je jonge held met dit politiespeelgoed voor de feestdagen of een verjaardag voor fans van LEGO voertuigen, politie speelgoed en fantasierijk spelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZT2HB{{</world>}}

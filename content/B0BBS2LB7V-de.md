@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Dieses LEGO City Polizeispielzeug für Kinder ab 5 Jahren enthält ein Polizeimotorrad und einen coolen roten Sportwagen als Fluchtfahrzeug sowie Minifiguren von Polizisten und Gaunern für stundenlange Gaunerjagden
-- Das Rennauto-Spielzeug ist ein tolles Geschenk für Geburtstage oder besondere Anlässe - es eignet sich perfekt für Kinder ab 5 Jahren, die Motorräder und Spielzeugautos lieben
-- Dazu gehört eine interaktive digitale Bauanleitung in der kostenlosen LEGO Builder App für Smartphones und Tablets, mit der Kinder das Set während des Baus zoomen, drehen und aus allen Winkeln betrachten können.
-- Die Kinder können dem Polizisten auf dem Spielzeug-Motorrad helfen, den Gauner im LEGO Rennwagen zu verfolgen und das gestohlene Geld wiederzubeschaffen - lege dem Dieb Handschellen an und bringe ihn ins nächste Gefängnis!
 - Dieses lustige LEGO Polizei-Set enthält Zubehör wie Spielzeugbanknoten und Handschellen, die am Polizeimotorrad befestigt werden können, um tolle Verfolgungsjagden anzuregen
+- Dazu gehört eine interaktive digitale Bauanleitung in der kostenlosen LEGO Builder App für Smartphones und Tablets, mit der Kinder das Set während des Baus zoomen, drehen und aus allen Winkeln betrachten können.
+- Das Rennauto-Spielzeug ist ein tolles Geschenk für Geburtstage oder besondere Anlässe - es eignet sich perfekt für Kinder ab 5 Jahren, die Motorräder und Spielzeugautos lieben
+- Die Kinder können dem Polizisten auf dem Spielzeug-Motorrad helfen, den Gauner im LEGO Rennwagen zu verfolgen und das gestohlene Geld wiederzubeschaffen - lege dem Dieb Handschellen an und bringe ihn ins nächste Gefängnis!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS2LB7V{{</world>}}

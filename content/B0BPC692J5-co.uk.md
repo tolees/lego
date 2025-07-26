@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The LEGO City Apartment Building set features combinable modular rooms including a toy shop, plus fun characters and accessories for kids aged 6+
-- Toy house set features 6 LEGO City minifigures for kids to play out fun-filled stories together in the toy shop and the apartment
 - Kids can combine the modular rooms, pool and terrace to reconfigure the Apartment Building and enjoy open access to the detailed interior
 - This model building set includes pretend solar panels, a toy corner shop, living room, kitchen, bedroom and bathroom with toilet and bath
 - The LEGO modular building set also includes accessories like a toy juice bottle, hot dog, mobile phone, dumbbells, a bike and a mobility scooter
+- The LEGO City Apartment Building set features combinable modular rooms including a toy shop, plus fun characters and accessories for kids aged 6+
+- Toy house set features 6 LEGO City minifigures for kids to play out fun-filled stories together in the toy shop and the apartment
 - This LEGO modular building set makes a fun birthday gift for kids, Christmas present or any-day treat for boys and girls aged 6+ years old
 - The kids building toy playset includes a LEGO Road Plate for connection to other sets in the LEGO City range (sold separately)
 

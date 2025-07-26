@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Manufacturer: LEGO
-- Material: Plastic
 - Item Trademark: IDEAS
+- Material: Plastic
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09CMY7C2S{{</world>}}

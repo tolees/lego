@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Digitale bouwinstructies – neem je ruimtefan mee op een leuk bouwavontuur met de LEGO Builder app, waarmee kinderen modellen vanuit alle hoeken kunnen bekijken tijdens het bouwen
-- Wat zit er in de doos – dit leuke astronaut speelgoed voor kinderen vanaf 6 jaar heeft alles wat kinderen nodig hebben om een interstellair ruimteschip, drone en ruimteminifiguur te bouwen
 - Creatief speelplezier – kinderen plaatsen een speelgoedbatterij om de uitklapbare stuwraketten van het LEGO ruimteschip te activeren voor razendsnelle ruimtereizen en veranderen de drone in een jet pack
+- Wat zit er in de doos – dit leuke astronaut speelgoed voor kinderen vanaf 6 jaar heeft alles wat kinderen nodig hebben om een interstellair ruimteschip, drone en ruimteminifiguur te bouwen
+- Digitale bouwinstructies – neem je ruimtefan mee op een leuk bouwavontuur met de LEGO Builder app, waarmee kinderen modellen vanuit alle hoeken kunnen bekijken tijdens het bouwen
 - Leuk cadeau voor fans van ruimteschepen – de verbeelding van kinderen bereikt nieuwe hoogten wanneer je deze speelset cadeau geeft aan jongens en meisjes van 6 jaar en ouder voor de feestdagen of zomaar tussendoor
 - Speelgoed ruimteschip voor fantasierijk speelplezier – jonge ruimtefans beleven intergalactische avonturen vol actie met deze LEGO City Interstellair ruimteschip speelset
 

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Players can bring an End warrior and a dragon archer Minecraft figures equipped with armour and weapons for battle in the legendary End Arena
 - A push of a launcher sends lava blocks shooting from above; after the battle, kids can use golden carrot or potion to heal the LEGO Minecraft figures
+- Add more sets - Swamp Adventure (21240) or The Bee Cottage (21241) - Minecraft mobs and scenes and expand the real-life Minecraft world further
 - Also includes Minecraft mobs - Shulker and Enderman figures; the movable floor slides apart to reveal a pool of lava beneath competitiors feet
 - Minecraft fans will need all crafting skills in this LEGO Minecraft The End Arena - a player vs player action toy with classic Minecraft characters
 - Fans of Minecraft and toy dragons will love this set as a birthday gift for boys and girls aged 8+ and kids who love the iconic sandbox game
-- Add more sets - Swamp Adventure (21240) or The Bee Cottage (21241) - Minecraft mobs and scenes and expand the real-life Minecraft world further
-- Players can bring an End warrior and a dragon archer Minecraft figures equipped with armour and weapons for battle in the legendary End Arena
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRTBGK6{{</world>}}

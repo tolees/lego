@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
 - For interactive play, one of the Starter Course sets is needed, featuring the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
-- Gift for gamers – This 500-piece LEGO Super Mario set makes a fun birthday gift for 7+ year old boys, girls who love creative play with role-play toys and own a LEGO Super Mario starter course with iconic gaming characters
-- 4 Super Mario characters – LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) ride on Dorrie to defeat Cheep Cheep, Cheep Chomp and Blooper
-- Interactive toy – Use an interactive figure to explore the shipwreck, spin the platform for the Key Block, and open the treasure chest for a gem
 - Dorries Sunken Shipwreck Adventure Expansion Set – Add a treasure hunt to children’s world of LEGO Super Mario toy playset, featuring a shipwreck
+- Interactive toy – Use an interactive figure to explore the shipwreck, spin the platform for the Key Block, and open the treasure chest for a gem
+- 4 Super Mario characters – LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) ride on Dorrie to defeat Cheep Cheep, Cheep Chomp and Blooper
+- Gift for gamers – This 500-piece LEGO Super Mario set makes a fun birthday gift for 7+ year old boys, girls who love creative play with role-play toys and own a LEGO Super Mario starter course with iconic gaming characters
+- Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
 - Collectible toy for kids – Get random rewards from the ? Block and see an interactive Super Mario figures reaction to being chomped by Cheep Chomp
 
 [🛒 Check the deal!!]({{< param buyurl >}})

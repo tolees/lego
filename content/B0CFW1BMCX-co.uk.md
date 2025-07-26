@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 3in1 safari animals with a lion toy – Kids 9+ can build and rebuild 3 sets using the same bricks from LEGO Creator Wild Safari Animals 3in1 set
-- Posable animal figures – The giraffe toy has movable legs, neck, tail, and ears; the gazelles and lion toy have articulated legs, tails, and more
+- Display models – When safari role-play adventures are over, all 3 LEGO Safari animal toys can stand alone to be displayed in kids bedrooms
 - Safari animal toys – Three fun stories await: a giraffe toy with a flamingo toy, 2 gazelle toys and a lion toy with a tree and a butterfly toy
 - Nature gifts for kids – 3in1 animal toy makes a fun, creative anytime treat or Christmas gift for 9-plus-year-old girls and boys
-- Display models – When safari role-play adventures are over, all 3 LEGO Safari animal toys can stand alone to be displayed in kids bedrooms
+- Posable animal figures – The giraffe toy has movable legs, neck, tail, and ears; the gazelles and lion toy have articulated legs, tails, and more
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1BMCX{{</world>}}

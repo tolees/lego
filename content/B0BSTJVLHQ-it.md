@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Tipo di prodotto: TOY BUILDING BLOCK
 - Colore: Arancione rosa rosa giallo
+- Tipo di prodotto: TOY BUILDING BLOCK
 - 84 pezzi
 - Colore: arancione, rosa, giallo
 

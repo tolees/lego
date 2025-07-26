@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Laat je fantasie en creativiteit opbloeien met de levendige LEGO Botanicals Wilde bloemen boeket set, met 8 verschillende prachtige bloemensoorten om een uniek zelfgemaakt boeket mee te bouwen waarmee je zeker de aandacht trekt
-- Laat je creatieve vaardigheden tot bloei komen en creëer een prachtig display dat nooit verwelkt en geen water nodig heeft! Na het bouwen, kun je het met trots neerzetten in je eigen vaas om je interieur helemaal op te fleuren
-- Beginnende bloemschikkers kunnen de hoogte van de kunstbloemen aanpassen en experimenteren met verschillende arrangementen van de 16 individuele, aanpasbare stengels om hun eigen unieke display te maken
-- Dit kunstbloemen bouwpakket voor volwassenen bevat 16 stengels met een mix van LEGO bloemen geïnspireerd op korenbloemen, lavendel, schijnpapaver, fluitenkruid, ledervarens, gerberas, ridderspoor en lupinen
 - Deze Botanicals set voor volwassenen uit de LEGO botanical collection is geïnspireerd op bloemen en planten uit de natuur, en bevat elementen die zijn gemaakt van plantaardige kunststof die is vervaardigd uit duurzaam geteeld suikerriet
-- Maak een nog groter boeket - deze set kan worden gecombineerd met het LEGO Botanicals Bloemenboeket (10280) om één groot boeket of 2 verschillende boeketten te maken
+- Beginnende bloemschikkers kunnen de hoogte van de kunstbloemen aanpassen en experimenteren met verschillende arrangementen van de 16 individuele, aanpasbare stengels om hun eigen unieke display te maken
 - Geef een creatieve draai aan een tijdloze klassieker met deze LEGO Botanicals bloemen set voor volwassenen - het is een uniek cadeau-idee om een vriend of dierbare te verrassen voor een verjaardag, Valentijn of andere speciale gelegenheid
+- Laat je fantasie en creativiteit opbloeien met de levendige LEGO Botanicals Wilde bloemen boeket set, met 8 verschillende prachtige bloemensoorten om een uniek zelfgemaakt boeket mee te bouwen waarmee je zeker de aandacht trekt
+- Dit kunstbloemen bouwpakket voor volwassenen bevat 16 stengels met een mix van LEGO bloemen geïnspireerd op korenbloemen, lavendel, schijnpapaver, fluitenkruid, ledervarens, gerberas, ridderspoor en lupinen
+- Maak een nog groter boeket - deze set kan worden gecombineerd met het LEGO Botanicals Bloemenboeket (10280) om één groot boeket of 2 verschillende boeketten te maken
+- Laat je creatieve vaardigheden tot bloei komen en creëer een prachtig display dat nooit verwelkt en geen water nodig heeft! Na het bouwen, kun je het met trots neerzetten in je eigen vaas om je interieur helemaal op te fleuren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00BLHX6J8{{</world>}}

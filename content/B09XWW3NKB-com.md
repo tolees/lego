@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids learn as they play, stepping away from building instructions, meeting fun characters and completing on-screen missions with real LEGO bricks
 - Includes Rescue Ranger Maya and all the LEGO pieces kids need to build a customizable toy truck and solve paper-free, digital building challenges
-- With this LEGO City interactive rescue missions playset, kids lead the digital adventures using real LEGO bricks to complete on-screen missions
 - LEGO City Missions interactive sets require a smartphone or tablet with the free LEGO Building Instructions app (printed instructions not included)
-- This LEGO City building game set includes 3 LEGO City minifigures, plus animal toys: baby crocodile, panther, owl, frog, bunny and hare figures
-- The LEGO City Wild Animal Rescue Missions playset with cute animal toys makes a fab birthday or Christmas gift for 6 plus year old girls and boys
+- With this LEGO City interactive rescue missions playset, kids lead the digital adventures using real LEGO bricks to complete on-screen missions
+- Kids learn as they play, stepping away from building instructions, meeting fun characters and completing on-screen missions with real LEGO bricks
 - This LEGO interactive set includes a toy brush, magnifying glass, camera, trophy, binoculars, feeding bottle and walkie-talkie accessories
+- The LEGO City Wild Animal Rescue Missions playset with cute animal toys makes a fab birthday or Christmas gift for 6 plus year old girls and boys
+- This LEGO City building game set includes 3 LEGO City minifigures, plus animal toys: baby crocodile, panther, owl, frog, bunny and hare figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09XWW3NKB{{</world>}}

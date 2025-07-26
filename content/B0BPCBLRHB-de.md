@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die erste baubare LEGO Harry Potter Figur von Dobby dem Hauselfen - Fans können eine Nachbildung einer der beliebtesten Figuren der Zaubererwelt bauen und ausstellen
 - Die Dobby-Figur wird mit einem gemauerten Ständer mit Namensschild geliefert, so dass sie als Harry Potter Schlafzimmer-Accessoire oder Dekoration aufgestellt werden kann
-- Enthält lustige Harry Potter Dekorationen, mit dem Kinder klassische Filmmomente nacherleben können - Tante Petunias "schwebende" Puddingtorte, das Tagebuch von Tom Riddle und Harrys Socke
 - Diese LEGO Dobby der Hauself-Figur ist ein zauberhaftes Harry Potter Ostergeschenk für Kinder, Jungen, Mädchen ab 8 Jahren und alle Sammler von Harry Potter Erinnerungsstücken
+- Enthält lustige Harry Potter Dekorationen, mit dem Kinder klassische Filmmomente nacherleben können - Tante Petunias "schwebende" Puddingtorte, das Tagebuch von Tom Riddle und Harrys Socke
+- Die erste baubare LEGO Harry Potter Figur von Dobby dem Hauselfen - Fans können eine Nachbildung einer der beliebtesten Figuren der Zaubererwelt bauen und ausstellen
 - Die Figur Dobby der Elf hat einen beweglichen Kopf, Ohren, Arme und Finger, so dass Kinder verschiedene Posen kreieren und Dobbys Finger so einstellen können, dass er das Zubehör halten kann
 
 [🛒 Check the deal!!]({{< param buyurl >}})

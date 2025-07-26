@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ook inbegrepen in deze Star Wars set is een bouwbare speederbike met ruimte voor 3 LEGO mini figuren, en er is een training droid figuur en evenwichtstest om de verbeelding van kinderen te prikkelen
-- Dit LEGO Star Wars bouwbare speelgoed voor jongens, meisjes en alle jonge Jedis van 4+ jaar oud bevat een snel te bouwen Tenno Jedi Tempel plus alles wat kinderen nodig hebben om Jedi leerlingen in opleiding te worden
-- De Tenoo Jedi Tempel heeft een zwevende rotsfunctie, een keuken met een pak melk, stapelbedden met een ladder, 2 klemmen voor lichtzwaarden en een kristalelement
-- Bij dit bouwbare speelgoed vind je stap-voor-stap instructies met afbeeldingen in de doos en de LEGO Builder app voor digitale instructies en zoom- en roteerfuncties
-- Inclusief 3 LEGO Star Wars mini figuren: Lys Solay en Kai Brightstar, plus Meester Yoda; elk personage heeft een lichtzwaard voor Jedi training
 - LEGO Star Wars bouwbaar speelgoed voor kinderen vanaf 4 jaar is een leuke kennismaking met het Star Wars universum en leert hen spelenderwijs bouwen en hun fantasie te ontwikkelen
+- Bij dit bouwbare speelgoed vind je stap-voor-stap instructies met afbeeldingen in de doos en de LEGO Builder app voor digitale instructies en zoom- en roteerfuncties
+- De Tenoo Jedi Tempel heeft een zwevende rotsfunctie, een keuken met een pak melk, stapelbedden met een ladder, 2 klemmen voor lichtzwaarden en een kristalelement
+- Dit LEGO Star Wars bouwbare speelgoed voor jongens, meisjes en alle jonge Jedis van 4+ jaar oud bevat een snel te bouwen Tenno Jedi Tempel plus alles wat kinderen nodig hebben om Jedi leerlingen in opleiding te worden
+- Ook inbegrepen in deze Star Wars set is een bouwbare speederbike met ruimte voor 3 LEGO mini figuren, en er is een training droid figuur en evenwichtstest om de verbeelding van kinderen te prikkelen
 - Deze LEGO Star Wars startset is een leuk verjaardagscadeau voor kinderen, of een verrassing voor Star Wars: Young Jedi Adventures serie fans vanaf 4 jaar
+- Inclusief 3 LEGO Star Wars mini figuren: Lys Solay en Kai Brightstar, plus Meester Yoda; elk personage heeft een lichtzwaard voor Jedi training
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCDVL8R{{</world>}}

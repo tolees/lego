@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Friends high school toy makes a great gift idea or any-time treat for kids Ages 8+ who love LEGO Friends and creative storytelling
-- Meet the 2023 series of Heartlake City characters, each with their own unique personalities and passions, to inspire more role-play adventures
 - This classroom theme modular school building toy consists of removable sections that kids can build and rearrange however they like
-- This LEGO Friends Heartlake City School construction toy for kids Ages 8+ years old features classrooms, a canteen, an outdoor area and accessories
-- This playset includes LEGO Friends mini-dolls Aliya, Olly, Autumn, Ms. Malu Hale, Niko, plus Bunsen the pet hamster and cool dolls accessories
+- Meet the 2023 series of Heartlake City characters, each with their own unique personalities and passions, to inspire more role-play adventures
 - Kids can get creative in the art room, relax in the canteen, hang out in the outdoor area and go out to skateboard, ride a bike or play basketball
+- This playset includes LEGO Friends mini-dolls Aliya, Olly, Autumn, Ms. Malu Hale, Niko, plus Bunsen the pet hamster and cool dolls accessories
+- This LEGO Friends high school toy makes a great gift idea or any-time treat for kids Ages 8+ who love LEGO Friends and creative storytelling
+- This LEGO Friends Heartlake City School construction toy for kids Ages 8+ years old features classrooms, a canteen, an outdoor area and accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSPDHFP{{</world>}}

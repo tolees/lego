@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- For interactive play, one of the Starter Course sets is needed, featuring the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
-- Gift for gamers – This collectible LEGO Super Mario set is a great role-play toy for creative play and makes a fun small gift for 7+ year old girls, boys and kids who own a LEGO Super Mario starter course
-- LEGO Super Mario building toy for kids – Play in an ice cave, go sledging and skate with the Penguin Family Snow Adventure Expansion Set
-- Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
 - Role-play fun – Hang out with the Super Mario penguins in the cave, help them sledge down the ‘ice’ slide or convert the slide into a skating rink
-- Interactive play – Help LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) reunite the penguins, sledge on the ‘ice’ and defeat the Goomba
+- LEGO Super Mario building toy for kids – Play in an ice cave, go sledging and skate with the Penguin Family Snow Adventure Expansion Set
+- Gift for gamers – This collectible LEGO Super Mario set is a great role-play toy for creative play and makes a fun small gift for 7+ year old girls, boys and kids who own a LEGO Super Mario starter course
 - Includes 3 LEGO Super Mario characters – A LEGO brick-built penguin, a baby penguin and a Goomba figure with a winter hat, plus 2 fish figures
+- For interactive play, one of the Starter Course sets is needed, featuring the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
+- Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
+- Interactive play – Help LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) reunite the penguins, sledge on the ‘ice’ and defeat the Goomba
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZGD85{{</world>}}

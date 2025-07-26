@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Architecture models are compatible with all LEGO construction sets for creative building and make a great birthday, Christmas or anytime gift
-- Includes collectible booklet containing information about the design, architecture and history of the building
-- London’s Thames River in this model building kit is represented by transparent baseplate tiles
-- Build a detailed model interpretation of the London skyline featuring famous landmarks, with this LEGO Architecture building set for adults and teens
 - The model building kit for adults and kids aged 12+ features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge
 - This set has been designed to deliver a rewarding and relaxing building experience and makes an eye-catching decor piece for the home or office
+- London’s Thames River in this model building kit is represented by transparent baseplate tiles
+- LEGO Architecture models are compatible with all LEGO construction sets for creative building and make a great birthday, Christmas or anytime gift
+- Build a detailed model interpretation of the London skyline featuring famous landmarks, with this LEGO Architecture building set for adults and teens
+- Includes collectible booklet containing information about the design, architecture and history of the building
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01J41MPF8{{</world>}}

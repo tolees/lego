@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Les enfants peuvent placer la minifigurine Dragon Kai Pouvoir NINJAGO dans la toupie, frapper lun de ses bras et la voir faire un saut périlleux arrière
-- Découvrez les 2 autres jouets interactifs NINJAGO : Le Dérapage Spinjitzu : le Pouvoir du Dragon de Nya (71778) et Le Tourbillon Spinjitzu : le Pouvoir du Dragon de Lloyd (71779)
 - Le jouet est livré avec une minifigurine Dragon Kai Pouvoir prête à faire des tours, ainsi quune figurine de droïde dImpérium qui peut basculer dun côté à lautre lorsquelle est frappée
-- Les enfants passeront des heures interminables à faire exécuter des tours cool à Dragon Kai Pouvoir avec ce jouet ninja, qui constitue un excellent cadeau danniversaire pour enfants dès 6 ans
+- Les enfants peuvent placer la minifigurine Dragon Kai Pouvoir NINJAGO dans la toupie, frapper lun de ses bras et la voir faire un saut périlleux arrière
 - Les fans de ninja âgés de plus de 6 ans peuvent aider à entraîner leur héros à faire des sauts périlleux grâce à ce jouet daction Ninja LEGO NINJAGO Le Salto Spinjitzu : le Pouvoir du Dragon de Kai
+- Les enfants passeront des heures interminables à faire exécuter des tours cool à Dragon Kai Pouvoir avec ce jouet ninja, qui constitue un excellent cadeau danniversaire pour enfants dès 6 ans
 - Ce jouet comprend également un support de flammes avec un élément de base dénergie de dragon doré à collectionner, que Kai doit gagner, et deux éléments dobstacle de flammes
+- Découvrez les 2 autres jouets interactifs NINJAGO : Le Dérapage Spinjitzu : le Pouvoir du Dragon de Nya (71778) et Le Tourbillon Spinjitzu : le Pouvoir du Dragon de Lloyd (71779)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPC73WH4{{</world>}}

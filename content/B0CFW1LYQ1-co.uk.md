@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Encanto details – The set includes story starters like the candle from the film, a LEGO ǀ Disney capybara figure and plenty of decorating elements
+- Design play – This LEGO set lets fans build a jewellery box and photo frame, then design and decorate those pieces, along with the wearable bracelet
+- LEGO picture frame – Includes a small jewellery box, LEGO photo frame with stand and extra clips, plus wearable toy bracelet for kids
 - Creative Disney Encanto gift for kids – Makes a fun, everyday gift for 6+ year old girls, boys and Disney fans who deserve an imaginative treat based on a film they love
 - LEGO ǀ Disney Encanto building toy for kids – The Mirabel’s Photo Frame and Jewellery Box set lets girls and boys aged 6+ have lots of creative fun
 - Disney Encanto character – This LEGO Disney Princess building toy also includes a Mirabel LEGO ǀ Disney Encanto mini-doll figure
-- LEGO picture frame – Includes a small jewellery box, LEGO photo frame with stand and extra clips, plus wearable toy bracelet for kids
 - Explore a passion – With 2 home décor pieces and a wearable bracelet that can be redecorated endlessly, this building set encourages a passion for design and develops life skills through fun
-- Encanto details – The set includes story starters like the candle from the film, a LEGO ǀ Disney capybara figure and plenty of decorating elements
-- Design play – This LEGO set lets fans build a jewellery box and photo frame, then design and decorate those pieces, along with the wearable bracelet
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW1LYQ1{{</world>}}

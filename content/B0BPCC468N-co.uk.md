@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Young ninjas can recreate action from the NINJAGO Dragons Rising TV series with this Kai and Rass Car and Bike Battle ninja toy for kids aged 4+
-- The good vs evil collectible ninja toy set includes 2 LEGO NINJAGO minifigures: ninja Kai with a golden sword and Lord Ras with a golden hammer
-- The LEGO Builder app guides kids on an intuitive build, they can save sets, track progress and zoom in and rotate models in 3D while they build
-- The preschool toys playset comes with a piece of blue lightning in a display holder, which the characters need to seize to win their battle
 - NINJAGO Kai can race in a LEGO dragon racing car toy armed with golden blades against Lord Ras in his all-terrain motorbike with golden rammers
+- The preschool toys playset comes with a piece of blue lightning in a display holder, which the characters need to seize to win their battle
+- The LEGO Builder app guides kids on an intuitive build, they can save sets, track progress and zoom in and rotate models in 3D while they build
+- The good vs evil collectible ninja toy set includes 2 LEGO NINJAGO minifigures: ninja Kai with a golden sword and Lord Ras with a golden hammer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCC468N{{</world>}}

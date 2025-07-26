@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - This garbage truck toy with bins for kids 5 years old encourages little ones to learn more about recycling and caring for the environment
+- Teach kids about the environment with this cool LEGO City Recycling Truck toy with a sorting centre, toy containers, 3 minifigures and a cat figure
+- The driveable bin lorry toy comes with a container tipping platform and a raisable flatbed to load and empty the truck; plus 3 rubbish bins
 - This cool LEGO sustainable living series sorting toy makes a great birthday gift or any other day treat for eco-conscious kids aged 5 years old
 - This educational toy set comes with a printed and an interactive guide in the LEGO Builder app to view the recycling truck model as they build
-- The driveable bin lorry toy comes with a container tipping platform and a raisable flatbed to load and empty the truck; plus 3 rubbish bins
-- Teach kids about the environment with this cool LEGO City Recycling Truck toy with a sorting centre, toy containers, 3 minifigures and a cat figure
 - Kids can activate the tipping platform, turn the wheel to empty the containers into the back of the truck and raise the truck’s flatbed
 
 [🛒 Buy it now!!]({{< param buyurl >}})

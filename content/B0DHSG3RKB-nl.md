@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Van een sterrenstelsel hier ver, ver vandaan tot in jouw huiskamer – LEGO Star Wars verzamelsets voor volwassenen zijn ontworpen voor mensen zoals jij, die zich graag ontspannen met praktische, creatieve projecten
+- Creatief Star Wars cadeau voor hem of haar – trakteer jezelf of geef deze LEGO bouwset voor volwassenen cadeau aan een vriend(in) met een passie voor Star Wars
 - Ruimteschipmodel om te bouwen en neer te zetten – beleef dramatische scènes van de Slag om Geonosis opnieuw terwijl je een middelgrote LEGO Star Wars versie bouwt van een Acclamator-Class Assault Ship
+- Van een sterrenstelsel hier ver, ver vandaan tot in jouw huiskamer – LEGO Star Wars verzamelsets voor volwassenen zijn ontworpen voor mensen zoals jij, die zich graag ontspannen met praktische, creatieve projecten
 - Onderdeel van de LEGO Star Wars ruimteschip collectie – deze set maakt deel uit van een serie bouwbare verzamelmodellen op middelgrote schaal van bekende Star Wars ruimteschepen
 - Gemaakt om neer te zetten als Star Wars decoratie – zet je creatie neer op de bouwbare standaard met een naamplaatje
 - Star Wars voertuig met authentieke details – bouw de herkenbare details na van een Acclamator-Class Assault Ship uit Star Wars: Attack of the Clones
 - 3D-bouwinstructies – met de LEGO Builder app kun je een digitale 3D-versie van dit complexe bouwmodel bekijken tijdens het bouwen, je voortgang bijhouden en sets opslaan
-- Creatief Star Wars cadeau voor hem of haar – trakteer jezelf of geef deze LEGO bouwset voor volwassenen cadeau aan een vriend(in) met een passie voor Star Wars
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSG3RKB{{</world>}}

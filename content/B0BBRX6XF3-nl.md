@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Inclusief 3 LEGO minipoppen: Disneys Peter Pan, Wendy en Kapitein Haak, plus een speelgoed dierenfiguur van het charmante hondje Nana!
 - Dit reisspeelgoed bevat leuke accessoires voor fantasierijk spel, waaronder een speelgoed bot voor Nana, een wit LEGO figuurtje naast het bed en veel decoratieve stickers
-- Kinderen kunnen het huis van de Darlings verkennen met Wendys slaapkamer, Nanas hondenhok, Big Ben, de schuilplaats van de Verloren Jongens, Skull Rock, plus een speelgoed piratenschip
-- Dit LEGO Disney Peter Pan en Wendy reisspeelgoed bestaat uit een boek met 3 speelgebieden dat kinderen kunnen afsluiten en meenemen onderweg
 - De set bevat een sleutel om het boek te vergrendelen; kleine Peter Pan en Wendy fans kunnen hem meenemen om avonturen te beleven die geïnspireerd zijn op de Disney klassieker
+- Dit LEGO Disney Peter Pan en Wendy reisspeelgoed bestaat uit een boek met 3 speelgebieden dat kinderen kunnen afsluiten en meenemen onderweg
+- Kinderen kunnen het huis van de Darlings verkennen met Wendys slaapkamer, Nanas hondenhok, Big Ben, de schuilplaats van de Verloren Jongens, Skull Rock, plus een speelgoed piratenschip
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRX6XF3{{</world>}}

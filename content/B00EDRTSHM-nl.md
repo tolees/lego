@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inclusief LEGO Friends mini poppetjes; nieuwsreporter Aliya, Peter de houthakker en natuur liefhebbende Darrel plus een uil met een nest en een ei
-- Het LEGO speelgoed busje bevat binnenin een nieuwscentrale plus leuke accessoires zoals schermen, lampen, een camera, microfoons, en een notitieblok en pen
 - Kinderen kunnen samen met Aliya het verhaal vertellen van houthakker Peter die een boom wil omkappen waarin een uil en een nog niet uitgekomen ei wonen
-- Dit LEGO Friends speelgoed busje heeft binnenin een nieuwscentrale en veel nieuwsreportage accessoires om het nieuws mee vast te leggen
 - Deze LEGO Friends Nieuwbusje speelgoed mini poppenset is een leuk creatief verjaardagscadeau voor meisjes en jongens vanaf 6 jaar die van dieren en fantasierijk spel houden
 - Kinderen kunnen de vele meegeleverde accessoires gebruiken om hun eigen verhalen te creëren, waaronder een notitieblok met pen, een walkietalkie en een kettingzaag
+- Het LEGO speelgoed busje bevat binnenin een nieuwscentrale plus leuke accessoires zoals schermen, lampen, een camera, microfoons, en een notitieblok en pen
+- Dit LEGO Friends speelgoed busje heeft binnenin een nieuwscentrale en veel nieuwsreportage accessoires om het nieuws mee vast te leggen
 - Uren rollenspelplezier: de boomtak kan worden omgegooid, waardoor het ei uit het nest valt, terwijl Aliya de camera gebruikt om de gebeurtenissen vast te leggen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

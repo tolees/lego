@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes 6 LEGO Harry Potter minifigures – Harry Potter, Garrick Ollivander, Madam Malkin, Padma Patil, a wizard student and a witch with flowers
 - Magical toys – Ollivanders wand shop also includes buildable shelves of wand boxes, including a removable box with Harry Potter’s wand inside
+- Includes 6 LEGO Harry Potter minifigures – Harry Potter, Garrick Ollivander, Madam Malkin, Padma Patil, a wizard student and a witch with flowers
+- Fun Christmas gift for Harry Potter fans – This toy building set makes a magical Harry Potter-themed birthday gift for 8-plus-year-old girls, boys and fans of the Wizarding World
+- Create a LEGO Diagon Alley shopping street – The 2 shops in this playset can be connected to each other and to shops in other LEGO Harry Potter Diagon Alley sets, sold separately
 - Madam Malkin’s shop – Features an area where clothes are made, 2 buildable mannequins, plus accessory elements including different hats and cloaks
 - Ollivanders wand shop – The buildable toy shop features 2 foldout side walls, a ladder, 2 wand racks and 26 Harry Potter toy wand elements
 - 2 Diagon Alley shops – This Harry Potter building toy for 8-plus-year-old boys and girls features LEGO models of Ollivanders & Madam Malkins
-- Create a LEGO Diagon Alley shopping street – The 2 shops in this playset can be connected to each other and to shops in other LEGO Harry Potter Diagon Alley sets, sold separately
-- Fun Christmas gift for Harry Potter fans – This toy building set makes a magical Harry Potter-themed birthday gift for 8-plus-year-old girls, boys and fans of the Wizarding World
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RJ3J{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The LEGO Star Wars Microfighter set features an opening cockpit for Boba Fett LEGO minifigure, adjustable wings and landing modes
-- This mini LEGO brick-built toy starship offers an easy building experience, thanks to the interactive LEGO Builder app with zoom and rotate tools
-- This Star Wars building toy can be combined with other LEGO Star Wars Microfighters in the collection for even more action-packed stories
-- Fans can play out Star Wars: The Book of Boba Fett and The Mandalorian stories with this quick-build microscale Boba Fetts starship building toy
 - This LEGO Star Wars The Mandalorian set includes a blaster and a jetpack for the Boba Fett Star Wars character minifigure to inspire creative play
+- The LEGO Star Wars Microfighter set features an opening cockpit for Boba Fett LEGO minifigure, adjustable wings and landing modes
+- Fans can play out Star Wars: The Book of Boba Fett and The Mandalorian stories with this quick-build microscale Boba Fetts starship building toy
+- This Star Wars building toy can be combined with other LEGO Star Wars Microfighters in the collection for even more action-packed stories
+- This mini LEGO brick-built toy starship offers an easy building experience, thanks to the interactive LEGO Builder app with zoom and rotate tools
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBXX1C6S{{</world>}}

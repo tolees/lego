@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- In the box – The car playset features a low-loader trailer, 2 Formula 1 race car toys, 2 driver and 3 race crew minifigures, plus a winner’s trophy
-- LEGO F1 transporter truck toy – LEGO City F1 Truck with RB20 & AMR24 F1 Cars building toy for 8+ year old boys and girls and Formula 1 racing fans
-- Just like the real thing – The trailer features an F1 simulator room, double vehicle bay, opening panels, rear hatch, and ramps for loading the car toys
-- A car-themed birthday gift idea – This LEGO City truck toy with cars to build makes a fun gift for 8+ year old boys, girls and fans of race car toys
 - More high-speed Formula 1 action – Look out for other LEGO F1 building toys (sold separately) to build, display and race with the whole family
-- A city without limits – LEGO City is a place where kids can unleash their imaginations, with toy vehicles, structures and characters that inspire them to build, create, explore and play
+- In the box – The car playset features a low-loader trailer, 2 Formula 1 race car toys, 2 driver and 3 race crew minifigures, plus a winner’s trophy
+- A car-themed birthday gift idea – This LEGO City truck toy with cars to build makes a fun gift for 8+ year old boys, girls and fans of race car toys
+- Just like the real thing – The trailer features an F1 simulator room, double vehicle bay, opening panels, rear hatch, and ramps for loading the car toys
 - Digital building fun – The LEGO Builder app lets kids save sets, track progress and zoom in and rotate the truck toy in 3D while they build
+- A city without limits – LEGO City is a place where kids can unleash their imaginations, with toy vehicles, structures and characters that inspire them to build, create, explore and play
+- LEGO F1 transporter truck toy – LEGO City F1 Truck with RB20 & AMR24 F1 Cars building toy for 8+ year old boys and girls and Formula 1 racing fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCGSLT{{</world>}}

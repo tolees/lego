@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- This LEGO DOTS party craft kit for kids Ages 6 and up makes a great gift and fun party games activity for kids birthdays or get-togethers
+- This LEGO DOTS Ultimate party Kit offers a creative group activity for birthday party games with pieces that kids can take home as a party favor
 - It’s a LEGO DOTS party! Each of the tasty-looking cupcake toys has a removable icing top and a hidden compartment inside to keep secrets safe
 - LEGO DOTS Ultimate Party craft kit for kids features party games and DIY party bag fillers, 6 toy cupcakes, 6 toy bracelets and 6 bunting pieces
-- This LEGO DOTS party craft kit for kids Ages 6 and up makes a great gift and fun party games activity for kids birthdays or get-togethers
-- Girls and boys Ages 6+ will love help prep for the party, build LEGO DOTS cupcakes and create their own party bag toys for their guests
-- This LEGO DOTS Ultimate party Kit offers a creative group activity for birthday party games with pieces that kids can take home as a party favor
 - The birthday party games set includes loads of tiles, charms, a shareable sticker sheet and lots of easy to follow design inspiration for kids
+- Girls and boys Ages 6+ will love help prep for the party, build LEGO DOTS cupcakes and create their own party bag toys for their guests
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBWJ715F{{</world>}}

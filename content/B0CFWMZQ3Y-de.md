@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Inhalt der Box: Alles, was Kinder brauchen, um eine LEGO City Feuerwache mit Hubschrauberlandeplatz und ein Spielzeug-Feuerwehrauto zu bauen, sowie 5 LEGO City Feuerwehrmann-Minifiguren und ein Feuerwehrhund
 - Spielzeug-Feuerwehrstation mit interaktiver Anleitung: In der LEGO Builder App kann dein Kind virtuelle Spielsets erkunden und speichern, den Baufortschritt verfolgen und beim Bauen 3D-Modellansichten vergrößern und drehen
-- Tolle Funktionen für LEGO Feuerwehrleute: Beinhaltet eine Leitstelle, eine kleine Küche, ein Bett und eine Rutschstange für die Feuerwehrmann-Minifiguren sowie einen LKW mit Löschschlauch und 2 Anbaumodulen – einer Drehleiter und einer Löschkanone
+- LEGO City Feuerwehrstation mit Drehleiterfahrzeug für Kinder ab 6 Jahren: Dieses LEGO City Feuerwehr-Spielzeug beinhaltet eine moderne Feuerwehrstation mit Leitstelle und ein Löschfahrzeug für besonders spannende und actionreiche Löscheinsätze
 - Entdecke eine fantasievolle Spielwelt: Für weitere spannende Abenteuer müssen Kinder dieses Feuerwache-Spielzeug nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
 - Geburtstagsgeschenk für Kinder ab 6 Jahren: Dieses LEGO City Feuerwehr Set mit Feuerwehrauto ist ein tolles Geschenk zum Geburtstag, zu Weihnachten oder als Überraschung für Jungen und Mädchen
-- Inhalt der Box: Alles, was Kinder brauchen, um eine LEGO City Feuerwache mit Hubschrauberlandeplatz und ein Spielzeug-Feuerwehrauto zu bauen, sowie 5 LEGO City Feuerwehrmann-Minifiguren und ein Feuerwehrhund
-- LEGO City Feuerwehrstation mit Drehleiterfahrzeug für Kinder ab 6 Jahren: Dieses LEGO City Feuerwehr-Spielzeug beinhaltet eine moderne Feuerwehrstation mit Leitstelle und ein Löschfahrzeug für besonders spannende und actionreiche Löscheinsätze
+- Tolle Funktionen für LEGO Feuerwehrleute: Beinhaltet eine Leitstelle, eine kleine Küche, ein Bett und eine Rutschstange für die Feuerwehrmann-Minifiguren sowie einen LKW mit Löschschlauch und 2 Anbaumodulen – einer Drehleiter und einer Löschkanone
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFWMZQ3Y{{</world>}}

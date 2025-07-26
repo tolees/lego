@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
+- F1 race car toys for all the family – Kids can race for the checkered flag with other LEGO Ferrari toy car building sets (sold separately)
+- 1 minifigure – This LEGO vehicle set features a driver minifigure in a Ferrari outfit and helmet, ready to be placed in the cockpit for race action
 - Ferrari F1 display model – Kids can create exciting racing stories with this F1 car building toy, then proudly display it on a shelf or bedside table
 - Ferrari F1 toy car for kids – Boys and girls aged 10+ can build, display, and race the LEGO Speed Champions Ferrari SF-24 F1 Race Car set
-- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
-- 1 minifigure – This LEGO vehicle set features a driver minifigure in a Ferrari outfit and helmet, ready to be placed in the cockpit for race action
-- F1 race car toys for all the family – Kids can race for the checkered flag with other LEGO Ferrari toy car building sets (sold separately)
 - F1 details – LEGO car inspired by the real 2024 model features a rear wing, halo bar, sponsor stickers, and wider rear tyres imprinted with “Pirelli”
+- Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
+- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBBV6R{{</world>}}

@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Das Modell kann umgestaltet werden, um alternative Levels zu schaffen und ist ein tolles Geschenk für Fans von Sonic the Hedgehog
-- Eine authentische Nachbildung des nostalgischen LEGO Sets aus den 90er Jahren, das du mit Stolz zu Hause oder im Büro ausstellen willst
-- Enthält 4 Sonic Figuren: Sonic the Hedgehog, Dr. Eggman mit baubarem Egg-Mobil, Moto Bug mit 2 Gesichtsoptionen und Crabmeat
-- Verdiene einen Smaragd und sammle alle 7 Chaos-Smaragde, um sie zusammen mit Sonic auf dem Ständer auszustellen und Dr. Eggman zu besiegen
-- Drücke den Hebel und starte die LEGO Sonic Minifigur für Super Sonic Sprünge, um den Figuren Bug und Crabmeat auszuweichen
+- Erweise dem klassischen Videospiel die Ehre und erlebe die Magie des kultigen Spiels mit diesem LEGO Sonic Set
 - Authentische Details: eine Palme, eine Loopingbrücke, Ringe und 2 baubare TV-Geräte mit 5 Bildschirmelementen und 5 Aufkleberoptionen
 - Entdecke dieses Amazon exklusive LEGO Set, das nur bei Amazon oder bei ausgewählten Händlern erhältlich ist
-- Erweise dem klassischen Videospiel die Ehre und erlebe die Magie des kultigen Spiels mit diesem LEGO Sonic Set
+- Enthält 4 Sonic Figuren: Sonic the Hedgehog, Dr. Eggman mit baubarem Egg-Mobil, Moto Bug mit 2 Gesichtsoptionen und Crabmeat
+- Das Modell kann umgestaltet werden, um alternative Levels zu schaffen und ist ein tolles Geschenk für Fans von Sonic the Hedgehog
+- Verdiene einen Smaragd und sammle alle 7 Chaos-Smaragde, um sie zusammen mit Sonic auf dem Ständer auszustellen und Dr. Eggman zu besiegen
+- Eine authentische Nachbildung des nostalgischen LEGO Sets aus den 90er Jahren, das du mit Stolz zu Hause oder im Büro ausstellen willst
+- Drücke den Hebel und starte die LEGO Sonic Minifigur für Super Sonic Sprünge, um den Figuren Bug und Crabmeat auszuweichen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNVFK4M{{</world>}}

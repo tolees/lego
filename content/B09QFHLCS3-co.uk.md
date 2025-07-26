@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids feed LEGO Princess Peach the red toy fruit to trigger happy reactions and earn extra coins, or gift the fruit to the Yellow Toad figure
+- LEGO Peach figure requires 2 x AAA batteries (not included) and connects via Bluetooth with LEGO Luigi or Mario (not included) for a 2-player game
+- This Super Mario building toy features a Start Pipe, Goal Pole, swing, a Lava Bubble-launching challenge and combines with other LEGO Super Mario buildable toys
 - The interactive Peach figure has a colour sensor, an LCD screen to display instant reactions and a speaker to play sounds from the video games
+- The companion LEGO Super Mario app includes fun ways to play and more
 - LEGO Super Mario Adventures with Peach Starter course includes interactive Princess Peach, Lemmy and Yellow Toad figures and a buildable toy course
 - Kids earn rewards from the Flying ? Block plus digital coins for helping LEGO Peach play on the swing and for interactions with the Yellow Toad
-- LEGO Peach figure requires 2 x AAA batteries (not included) and connects via Bluetooth with LEGO Luigi or Mario (not included) for a 2-player game
-- The companion LEGO Super Mario app includes fun ways to play and more
-- This Super Mario building toy features a Start Pipe, Goal Pole, swing, a Lava Bubble-launching challenge and combines with other LEGO Super Mario buildable toys
+- Kids feed LEGO Princess Peach the red toy fruit to trigger happy reactions and earn extra coins, or gift the fruit to the Yellow Toad figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFHLCS3{{</world>}}

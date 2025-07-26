@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Cet ensemble comprend un abri LEGO Minecraft à construire, une forêt de taïga à construire et une fonction TNT explosif qui fait sauter une partie de la montagne
 - Ce jouet de construction plein daction, qui fait partie des ensembles dynamiques LEGO Minecraft, est un excellent cadeau danniversaire ou un cadeau de circonstance pour les enfants de 8 ans et plus
 - Le jouet LEGO Minecraft à construire comprend des caractéristiques amusantes et des accessoires et armes authentiques, tels quune table dartisanat, une torche et une épée en diamant en jouet
-- Cet ensemble comprend un abri LEGO Minecraft à construire, une forêt de taïga à construire et une fonction TNT explosif qui fait sauter une partie de la montagne
 - Ce jouet dans le biome glacial de Minecraft comprend une figurine LEGO Minecraft Steve, des Creeper et des Mobs Minecraft égarés, ainsi quune figurine danimal de chèvre
 - Les enfants fouillent les pics gelés, construisent un abri, extraient du minerai et récoltent de la nourriture ; ils peuvent explorer et séchapper de la grotte de pierre à goutte ou combattre des monstres hostiles
 - Les fans du jouet vidéo Minecraft peuvent construire, combattre et explorer le biome glacé dans les grottes de montagne gelées de cet ensemble LEGO Minecraft Les Pics Gelés

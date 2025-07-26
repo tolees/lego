@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die Spielzeug-Eule hat bewegliche Füße, Flügel, Kopf und Federn; mit einer Höhe von 10 cm kann sie überallhin mitgenommen werden
-- Dieses Set für Kinder ab 7 Jahren enthält baubare Tierfiguren: eine Eule, einen Igel, ein Rehkitz, einen Hase und ein Eichhörnchen
-- Das Rehkitz hat bewegliche Beine und Füße, der Hase kann mit seinen Ohren wackeln und auch das Eichhörnchen hat bewegliche Glieder und Ohren
 - LEGO Creator 3-in-1 Wald-Fabelwesen bietet 3 Tierszenen in einem Set mit 5 Spielzeug-Tieren zum Gestalten
+- Die Spielzeug-Eule hat bewegliche Füße, Flügel, Kopf und Federn; mit einer Höhe von 10 cm kann sie überallhin mitgenommen werden
+- Das Rehkitz hat bewegliche Beine und Füße, der Hase kann mit seinen Ohren wackeln und auch das Eichhörnchen hat bewegliche Glieder und Ohren
+- Dieses Set für Kinder ab 7 Jahren enthält baubare Tierfiguren: eine Eule, einen Igel, ein Rehkitz, einen Hase und ein Eichhörnchen
 - Kinder können auswählen, ob die Eule im Wald dem Igel das Lesen beibringt, das Rehkitz und der Hase miteinander spielen oder das Eichhörnchen Eicheln sucht
 
 [🛒 Check the deal!!]({{< param buyurl >}})

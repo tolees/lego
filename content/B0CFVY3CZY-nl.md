@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Wat zit er in deze LEGO City ruimte set? – alles wat kinderen nodig hebben om een ruimtebasis te bouwen met een 360° hijskraan, speelgoed ruimteschip, lanceerplatform, vrachtwagen, planeetgedeelte, 6 minifiguren, een speelgoed robot en 2 alien figuren
+- Koppel aan andere LEGO speelsets (apart verkrijgbaar) – het LEGO ruimteschip in deze set is voorzien van het luchtsluissysteem waarmee het kan worden aangesloten op andere geschikte sets met ruimtethema
 - Digitale bouwinstructies – neem je kleine ruimtefan mee op een leuk bouwavontuur met de 3D LEGO Builder app, waarmee kinderen modellen vanuit alle hoeken kunnen bekijken tijdens het bouwen
 - Ruimte speelgoed – de LEGO City Ruimtebasis en raketlanceringsplatform speelset voor kinderen vanaf 8 jaar zit boordevol functies voor eindeloos speelplezier in de ruimte
+- Onbeperkte speelmogelijkheden – LEGO City ruimtespeelsets bevatten realistische voertuigen, gedetailleerde gebouwen en inspirerende personages die fantasie en werkelijkheid combineren voor speelplezier zonder grenzen
 - Cadeau voor kinderen – maak elke dag bijzonder wanneer je deze LEGO ruimte set cadeau geeft aan liefhebbers van ruimteschepen van 8 jaar en ouder
 - Leuk voor fans van LEGO ruimteschepen en fantasierijk spel – kinderen kunnen de 360° hijskraan bedienen en de basis openen om toegang te krijgen tot een carrousel met materialen, een gedetailleerd laboratorium en een recreatieruimte
-- Koppel aan andere LEGO speelsets (apart verkrijgbaar) – het LEGO ruimteschip in deze set is voorzien van het luchtsluissysteem waarmee het kan worden aangesloten op andere geschikte sets met ruimtethema
-- Wat zit er in deze LEGO City ruimte set? – alles wat kinderen nodig hebben om een ruimtebasis te bouwen met een 360° hijskraan, speelgoed ruimteschip, lanceerplatform, vrachtwagen, planeetgedeelte, 6 minifiguren, een speelgoed robot en 2 alien figuren
-- Onbeperkte speelmogelijkheden – LEGO City ruimtespeelsets bevatten realistische voertuigen, gedetailleerde gebouwen en inspirerende personages die fantasie en werkelijkheid combineren voor speelplezier zonder grenzen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVY3CZY{{</world>}}

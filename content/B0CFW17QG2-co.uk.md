@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Discover more space-themed LEGO playsets – Kids unleash more fun and adventures when they add this building toy playset to others (sold separately) from the LEGO City space range
-- A gift for spaceship fans – Launch kids’ imaginations when you give this playset as space-themed birthday gift for 6+ year old boys, girls and kids
-- Spaceship toy for imaginative play – Young space enthusiasts can blast off for intergalactic action with this LEGO City Interstellar Spaceship set
-- What’s in the box? – This outer space toy for 6+ year old boys and girls features an interstellar spaceship, drone bot and LEGO astronaut minifigure
 - Creative play – Kids insert a toy battery pack to engage the spaceship’s fold-out main thrusters and convert the drone bot into a jetpack
+- Spaceship toy for imaginative play – Young space enthusiasts can blast off for intergalactic action with this LEGO City Interstellar Spaceship set
+- A gift for spaceship fans – Launch kids’ imaginations when you give this playset as space-themed birthday gift for 6+ year old boys, girls and kids
 - Digital guide – With the LEGO Builder app where kids can zoom in and rotate their building toys in 3D, track progress and save virtual playsets
+- Discover more space-themed LEGO playsets – Kids unleash more fun and adventures when they add this building toy playset to others (sold separately) from the LEGO City space range
+- What’s in the box? – This outer space toy for 6+ year old boys and girls features an interstellar spaceship, drone bot and LEGO astronaut minifigure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW17QG2{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - 75119 - Sergente Jyn Erso'
-date: 2025-07-05 21:52:02
+date: 2025-07-26 11:04:20
 image: 'https://m.media-amazon.com/images/I/51m7Ldck9uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B01CCT387S/?tag=tolees0d-21'
 descuento: '20.01'
-average: '19.8193103448276'
+average: '19.8303225806452'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Un design solide pour un jeu daction intense !
-- La figurine de Jyn Erso à construire et hautement mobile comprend un fusil à ressorts, une fonction de bras de combat, et des matraques amovibles montées sur le dos.
 - Fonce dans la bataille avec la sergente rebelle jyn erso !
 - Entrez dans le combat avec jyn erso à construire et hautement mobile, comprenant un fusil à ressorts, une fonction de bras de combat et des matraques amovibles.
-- Fonce dans la bataille avec la sergente rebelle Jyn Erso !
-- Entrez dans le combat avec jyn erso à construire et hautement mobile, comprenant un fusil à ressorts, une fonction de bras de combat et des matraques amovibles.
+- Un design solide pour un jeu daction intense !
 - Age minimum : 7 ans
+- La figurine de Jyn Erso à construire et hautement mobile comprend un fusil à ressorts, une fonction de bras de combat, et des matraques amovibles montées sur le dos.
+- Fonce dans la bataille avec la sergente rebelle Jyn Erso !
 - Rejouez un combat au corps-à-corps avec ce soldat surentraîné du film Star Wars : Rogue One.
+- Entrez dans le combat avec jyn erso à construire et hautement mobile, comprenant un fusil à ressorts, une fonction de bras de combat et des matraques amovibles.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01CCT387S{{</world>}}

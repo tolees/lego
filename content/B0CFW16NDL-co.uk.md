@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Harry Potter toy for kids – Harry Potter fans can build their own Forbidden Forest and bring it to life with iconic Harry Potter characters
-- Magical creatures – along with the Harry Potter characters, the building toy also includes a baby Thestral toy figure and a Cornish Pixie figure
-- Customisable toy – The Forbidden Forest features trees with leaf elements in nighttime colours and the modules can be connected in different ways
+- Gift idea for kids – This fantasy animal toy playset makes a fun anytime treat or Harry Potter-themed birthday gift for 8 plus year old girls, boys and fans who love the latest Harry Potter toys
 - Glow-in-the-dark toy – A spider figure and 4 mushroom elements that glow in the dark add to the enchanted atmosphere of the set
+- Customisable toy – The Forbidden Forest features trees with leaf elements in nighttime colours and the modules can be connected in different ways
+- LEGO Harry Potter toy for kids – Harry Potter fans can build their own Forbidden Forest and bring it to life with iconic Harry Potter characters
 - Fun combos – This building toy for kids can be mixed with models from other LEGO Harry Potter sets (sold separately) for extra play possibilities
 - Includes 2 LEGO Harry Potter minifigures – Ron Weasley and Hermione Granger, plus a Buckbeak animal figure with a posable head and wings
-- Gift idea for kids – This fantasy animal toy playset makes a fun anytime treat or Harry Potter-themed birthday gift for 8 plus year old girls, boys and fans who love the latest Harry Potter toys
+- Magical creatures – along with the Harry Potter characters, the building toy also includes a baby Thestral toy figure and a Cornish Pixie figure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW16NDL{{</world>}}

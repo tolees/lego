@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Feed childrens imagination with this creative toy for 6+ year old kids, girls and boys; a great small gift or treat for any occassion
-- The LEGO Friends Pancake cafe set includes Paisley and Luna mini-dolls; kids can get to know the characters personalities while they play
-- This LEGO Friends Pancake shop toy for 6 plus year old kids features a small café build, 2 mini-dolls, a bunny figure and lots of accessories
-- There’s also a small toy cash register, a table and a menu card accessories, plus a cute LEGO Friends bunny figure hiding under the bush
 - Young bakers can pretend to make pancakes with the food mixer that spins, cooker and toppings for the pancakes, then serve customers
+- There’s also a small toy cash register, a table and a menu card accessories, plus a cute LEGO Friends bunny figure hiding under the bush
+- Feed childrens imagination with this creative toy for 6+ year old kids, girls and boys; a great small gift or treat for any occassion
+- This LEGO Friends Pancake shop toy for 6 plus year old kids features a small café build, 2 mini-dolls, a bunny figure and lots of accessories
+- The LEGO Friends Pancake cafe set includes Paisley and Luna mini-dolls; kids can get to know the characters personalities while they play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCCQY45{{</world>}}

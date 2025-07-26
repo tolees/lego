@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Außerdem gibt es ein gelbes Drachenenergiekern-Element, um das die Figuren kämpfen können. In anderen NINJAGO-Sets können Kinder 4 weitere Sammelfiguren in verschiedenen Farben und 4 goldene Drachenenergiekern-Elemente finden
-- Mit dem LEGO NINJAGO Spielzeug können Kinder ab 9 Jahren den epischen Showdown aus der NINJAGO Dragons Rising TV-Serie nachspielen
-- Das Bauspielzeug enthält eine Drachen-Spielzeugfigur des furchterregenden Jiro und eine goldene Actionfigur mit einem großen Schwert sowie ein goldener Mech-Flieger
 - Der bewegliche Feuerdrache kann mit goldenen Klingenflügeln und Shootern aus dem Fliegerfahrzeug aufgerüstet werden, um es mit dem beweglichen goldenen Mech der Kaiserin aufzunehmen
-- Lord Ras und sein Hammer, Kaiserin Beatrix mit ihrem kaiserlichen Schwert und die LEGO Figur eines Kaiserlichen Wächters, der einem Stab trägt, sind bereit, es mit den Ninjas aufzunehmen
+- Außerdem gibt es ein gelbes Drachenenergiekern-Element, um das die Figuren kämpfen können. In anderen NINJAGO-Sets können Kinder 4 weitere Sammelfiguren in verschiedenen Farben und 4 goldene Drachenenergiekern-Elemente finden
+- Das Bauspielzeug enthält eine Drachen-Spielzeugfigur des furchterregenden Jiro und eine goldene Actionfigur mit einem großen Schwert sowie ein goldener Mech-Flieger
 - 6 LEGO NINJAGO Minifiguren sind in dem großen LEGO Set enthalten, darunter Jay, Sora und Zane, die jeweils 2 goldene Katanas haben
+- Lord Ras und sein Hammer, Kaiserin Beatrix mit ihrem kaiserlichen Schwert und die LEGO Figur eines Kaiserlichen Wächters, der einem Stab trägt, sind bereit, es mit den Ninjas aufzunehmen
+- Mit dem LEGO NINJAGO Spielzeug können Kinder ab 9 Jahren den epischen Showdown aus der NINJAGO Dragons Rising TV-Serie nachspielen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPC63C2K{{</world>}}

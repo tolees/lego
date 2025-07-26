@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spielzeug-Bausteine für Kinder ab 4 Jahren; enthält große Palette an LEGO-Bausteinen in 33 verschiedenen Farben, 8 verschieden Arten von Fenstern und Türen, 8 verschiedene Rahmen
-- Die Große Bausteinbox von LEGO ist eine unterhaltsame Geschenkidee für Mädchen und Jungen ab 4 Jahren und bereitet lange viel Freude
+- Die speziellen Teile umfassen 2 verschieden große grüne Grundplatten, 3 Augenpaare, 6 Reifen und 6 Felgen – als Anregung für fantasievolles Bauen
 - Eine große Anzahl an Fenstern und Türen unterstützt das klassische LEGO-Bauen und sorgt für endlose Kreativität mit den LEGO-Bausteinen
 - In den Bauanleitungen, die dem Set beiliegen, sowie auf LEGO.com/classic findest du Ideen, die dir den Einstieg erleichtern
+- Die Große Bausteinbox von LEGO ist eine unterhaltsame Geschenkidee für Mädchen und Jungen ab 4 Jahren und bereitet lange viel Freude
 - Die LEGO Classic Große Bausteine-Box wird in praktischer Aufbewahrungsbox aus Plastik geliefert; alle abgebildeten Modelle können mit diesem Set gleichzeitig gebaut werden
-- Die speziellen Teile umfassen 2 verschieden große grüne Grundplatten, 3 Augenpaare, 6 Reifen und 6 Felgen – als Anregung für fantasievolles Bauen
+- Spielzeug-Bausteine für Kinder ab 4 Jahren; enthält große Palette an LEGO-Bausteinen in 33 verschiedenen Farben, 8 verschieden Arten von Fenstern und Türen, 8 verschiedene Rahmen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00PY3EYQO{{</world>}}

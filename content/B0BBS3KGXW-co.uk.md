@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This giant LEGO NINJAGO mech character with a cockpit for Jay has a large dragon blade, 2 katana swords and 2 shooters mounted on its shoulders
 - The mech action figures legs and arms are posable so kids can role-play awesome moves and then display the ninja building toy in their rooms
 - This Ninja battle toy for kids aged 9+ includes Jay and Nya minifigures for kids to battle against the Bone King, Bone Knight and Bone Hunter
-- This 794-piece LEGO NINJAGO set lets kids aged 9+ play out ninja stories and makes a cool birthday or everyday gift for adventure-loving kids
+- This giant LEGO NINJAGO mech character with a cockpit for Jay has a large dragon blade, 2 katana swords and 2 shooters mounted on its shoulders
 - Includes a pixal bot with 2 clips to hold the ninjas swords, plus the green LEGO bone warriors have a fast-firing crossbow loaded with 4 darts
 - This LEGO NINJAGO set features a giant mech action figure with ninja toy weapons, 5 NINJAGO minifigures plus a stud-shooting crossbow on a wagon
+- This 794-piece LEGO NINJAGO set lets kids aged 9+ play out ninja stories and makes a cool birthday or everyday gift for adventure-loving kids
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS3KGXW{{</world>}}

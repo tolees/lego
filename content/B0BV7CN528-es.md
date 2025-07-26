@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Contiene 3128 piezas
-- El kit de construcción de los artículos de colección de Marvel presenta el icónico escudo rojo, blanco y azul del Capitán América, con una estrella que sobresale en el centro y un soporte para apoyarlo que incluye una placa con su nombre
+- A los fans de Vengadores: Saga del Infinito les encantará todos los detalles de este gran set de LEGO que viene con una minifigura del Capitán América y su escudo y el martillo de Thor, Mjölnir, para hacer única esta pieza de exposición
+- El icónico escudo de los Vengadores será un fantástico artículo para cualquier colección LEGO Marvel, y quedará estupendo expuesto como centro de decoración para el hogar o la oficina
 - Este kit de maquetas de construcción para adultos es un regalo ideal para cualquier fan de Marvel, amante de LEGO o maquetista, como regalo de cumpleaños para hombres y mujeres, como regalo de aniversario para su marido o mujer o para uno mismo
 - Los fans de Los Vengadores de Marvel pueden construir el emblema definitivo de la lucha entre el bien y el mal con este Escudo del Capitán América de LEGO Marvel, un set de 3128 piezas para que los adultos recreen un trozo de la historia de los cómics
-- El icónico escudo de los Vengadores será un fantástico artículo para cualquier colección LEGO Marvel, y quedará estupendo expuesto como centro de decoración para el hogar o la oficina
-- A los fans de Vengadores: Saga del Infinito les encantará todos los detalles de este gran set de LEGO que viene con una minifigura del Capitán América y su escudo y el martillo de Thor, Mjölnir, para hacer única esta pieza de exposición
+- Contiene 3128 piezas
+- El kit de construcción de los artículos de colección de Marvel presenta el icónico escudo rojo, blanco y azul del Capitán América, con una estrella que sobresale en el centro y un soporte para apoyarlo que incluye una placa con su nombre
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CN528{{</world>}}

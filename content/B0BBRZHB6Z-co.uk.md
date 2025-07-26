@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The striking orange Rocket racoon buildable Marvel action figure has fully jointed arms, legs and fingers, plus a supersized firing 6-stud blaster
-- Surprise fans of Marvel Super Heroes and Guardians of the Galaxy with this posable LEGO Marvel Rocket Mech Armour buildable action figure toy
 - Check out more LEGO Marvel collectable Avengers action figures: LEGO Marvel Thanos Mech Armour (76242) or LEGO Marvel Hulk Mech Armour (76241)
+- Surprise fans of Marvel Super Heroes and Guardians of the Galaxy with this posable LEGO Marvel Rocket Mech Armour buildable action figure toy
 - The cockpit of the mech can be opened and the Rocket minifigure placed inside; this LEGO Super Heroes set also features a blaster weapon element
 - This Guardians of the Galaxy Marvel Avengers building toy model is easy to pose and looks awesome on display or as part of a LEGO Marvel collection
+- The striking orange Rocket racoon buildable Marvel action figure has fully jointed arms, legs and fingers, plus a supersized firing 6-stud blaster
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZHB6Z{{</world>}}

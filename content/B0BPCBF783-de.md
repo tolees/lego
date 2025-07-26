@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das LEGO City Street Skate Park Spielset für Kinder ab 6 Jahren enthält einen umbaubaren Skatepark mit jeder Menge Skaterausrüstung und Zubehör sowie 4 Minifiguren
-- Enthält 4 Skater-Minifiguren aus LEGO City sowie Schutzkleidung und Ausrüstung, mit denen die Kinder alle möglichen coolen Skating-Stunts ausführen können
 - Das Set enthält kombinierbare Rampenmodule für verschiedene Parkkonfigurationen sowie ein BMX-Spielzeugfahrrad, ein Mini-Skateboard, einen Roller, Inline-Skates und ein Mobiltelefon
 - Das Spielset enthält außerdem eine LEGO Straßenplatte, die mit anderen Sets (separat erhältlich) aus dem LEGO City Sortiment , z. B. mit dem Apartmenthaus (60365) oder der Eisdiele (60363) kombiniert werden kann
+- Das LEGO City Street Skate Park Spielset für Kinder ab 6 Jahren enthält einen umbaubaren Skatepark mit jeder Menge Skaterausrüstung und Zubehör sowie 4 Minifiguren
 - Dieses LEGO City Street Skate Park Spielset ist ein lustiges Geschenk zum Geburtstag, zu Weihnachten oder an jedem anderen Tag für Kinder ab 6 Jahren
+- Enthält 4 Skater-Minifiguren aus LEGO City sowie Schutzkleidung und Ausrüstung, mit denen die Kinder alle möglichen coolen Skating-Stunts ausführen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCBF783{{</world>}}

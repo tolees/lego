@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Disney 100 years of Disney Animation Icons craft set lets kids 6+ pick from 72 Disney designs to create a collage LEGO art to display
-- With an instruction booklet to guide designs, this Disney art set is great for group play and helps to develop vital life skills through fun
-- The LEGO Disney toy mosaic set includes 12 8x8 plates, picture frame, hanger elements and loads of tiles to build up to 12 Disney icons at once
-- Includes designs such as Snow White, Princess Jasmine, Frozens Olaf and Elsa, Mickey and Minnie Mouse, Belle, Ariel The Little Mermaid, and more; perfect for Disney fans
 - With this Disney crafts set, kids can choose to create their favourite icons and display their art with pride as wall art or bedroom decoration
+- Includes designs such as Snow White, Princess Jasmine, Frozens Olaf and Elsa, Mickey and Minnie Mouse, Belle, Ariel The Little Mermaid, and more; perfect for Disney fans
+- This LEGO Disney 100 years of Disney Animation Icons craft set lets kids 6+ pick from 72 Disney designs to create a collage LEGO art to display
+- The LEGO Disney toy mosaic set includes 12 8x8 plates, picture frame, hanger elements and loads of tiles to build up to 12 Disney icons at once
 - Includes a Disney’s Mickey Mouse LEGO minifigure with a torso and legs decorated exclusively for this set, holding a brush and palette
 - Give this premium LEGO wall art set as a creative Disney gift to kids, girls and boys aged 6+, family or friends with a passion for Disney toys, characters, art and design
+- With an instruction booklet to guide designs, this Disney art set is great for group play and helps to develop vital life skills through fun
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPC3C3KF{{</world>}}

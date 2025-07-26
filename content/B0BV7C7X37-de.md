@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Interaktives digitales Bauen – Mit der LEGO Builder-App können junge Baumeister ihren Modellbau in 3D heranzoomen, drehen und eine digitale Version ihres Modells auf ihren Smartphones und Tablets visualisieren
-- Die LEGO Wohnungen und Geschäfte können zu einer städtischen Szene verbunden oder einzeln gespielt werden; und jedes LEGO Gebäude ist an der Rückseite offen, sodass Kinder die Modelle für ein noch besseres Spielerlebnis drehen können
-- Der elegante 4-stöckige Art-Deco-Wolkenkratzer umfasst ein LEGO Foyer, Küche, Wohnzimmer, Büro und einen Park, während die Marktstraße über LEGO Wohnungen, einen Torbogen, ein Fotostudio und einen Blumenladen verfügt
 - Dieser LEGO Bausatz bietet ein lohnendes Bauerlebnis und kann als Weihnachts- oder Geburtstagsgeschenk an junge LEGO Fans ab 9 Jahren mit Interesse an Architektur verschenkt werden
-- Enthält 6 Minifiguren: einen Sänger und einen Gitarristen, die auf dem Musikladens spielen, einen Barkeeper, eine Hotelrezeptionistin, einen Rollstuhlfahrer und ein Kind – alle Charakter haben austauschbare Haare und Oberkörper für mehr Vielfalt
-- Baumeister können drei verschiedene Stadtszenen bauen: eine Straße mit einem LEGO Hotel, einem Café, einem Musikladen und einem Plattenladen; ein 4-stöckiges LEGO Art-déco-Haus mit Wohnungen; oder eine Marktstraße mit Torbogen
+- Die LEGO Wohnungen und Geschäfte können zu einer städtischen Szene verbunden oder einzeln gespielt werden; und jedes LEGO Gebäude ist an der Rückseite offen, sodass Kinder die Modelle für ein noch besseres Spielerlebnis drehen können
 - Mit diesem LEGO Creator 3-in-1-Modellbausatz können Kinder ab 9 Jahren lustige Abenteuer in einer lebhaften Stadt erleben, indem sie drei verschiedenen LEGO Gebäude bauen: eine Spielzeug-Stadt, einen Art-déco-Wolkenkratzer und eine Marktstraße
+- Der elegante 4-stöckige Art-Deco-Wolkenkratzer umfasst ein LEGO Foyer, Küche, Wohnzimmer, Büro und einen Park, während die Marktstraße über LEGO Wohnungen, einen Torbogen, ein Fotostudio und einen Blumenladen verfügt
+- Baumeister können drei verschiedene Stadtszenen bauen: eine Straße mit einem LEGO Hotel, einem Café, einem Musikladen und einem Plattenladen; ein 4-stöckiges LEGO Art-déco-Haus mit Wohnungen; oder eine Marktstraße mit Torbogen
+- Enthält 6 Minifiguren: einen Sänger und einen Gitarristen, die auf dem Musikladens spielen, einen Barkeeper, eine Hotelrezeptionistin, einen Rollstuhlfahrer und ein Kind – alle Charakter haben austauschbare Haare und Oberkörper für mehr Vielfalt
+- Interaktives digitales Bauen – Mit der LEGO Builder-App können junge Baumeister ihren Modellbau in 3D heranzoomen, drehen und eine digitale Version ihres Modells auf ihren Smartphones und Tablets visualisieren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7C7X37{{</world>}}

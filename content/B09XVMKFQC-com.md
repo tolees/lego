@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- So many ways to play – Kids scan the beach from the lifeguard tower, take a floatie out to sea, practice their sailboard skills, take a class at the surf school or serve at the surf rental shop
-- Lots to explore – Comes with a lifeguard tower, unicorn-shaped floatie, sailboard, surf school with classroom, shower and rental store, plus LEGO Friends Stephanie, Koa and Maya
-- A gift for creative kids – This LEGO Friends lifeguard set makes a fun birthday, holiday or impulse gift for kids aged 6 and up who love the beach and creative role play
-- Packed with creative Set – Inside the box is an assortment of fun beach toys, such as flippers, a snorkel, lifebuoy and snorkeling helmet, to ensure big imaginations sail away on a wave of creativity
 - Beach playset for kids – Children aged 6 plus who love beach toys dive into hours of creative storytelling as they build and play with the Surfer Beach Fun (41710) construction set
+- Packed with creative Set – Inside the box is an assortment of fun beach toys, such as flippers, a snorkel, lifebuoy and snorkeling helmet, to ensure big imaginations sail away on a wave of creativity
+- So many ways to play – Kids scan the beach from the lifeguard tower, take a floatie out to sea, practice their sailboard skills, take a class at the surf school or serve at the surf rental shop
+- A gift for creative kids – This LEGO Friends lifeguard set makes a fun birthday, holiday or impulse gift for kids aged 6 and up who love the beach and creative role play
+- Lots to explore – Comes with a lifeguard tower, unicorn-shaped floatie, sailboard, surf school with classroom, shower and rental store, plus LEGO Friends Stephanie, Koa and Maya
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09XVMKFQC{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The farm animal toys playset includes 2 horse toys each with their own stable, plus a bird figure and a mouse character who lives above the stables
 - Have an animal lover in your life? This LEGO Friends stable building toy is a great horse-themed gift idea for kids, girls and boys aged 7 and up
-- Kids can build the horse carriage toy, which has space for 2 mini-dolls so Autumn and Aliya can enjoy a horse riding session together
-- This LEGO Friends Autumns Horse Stable toy for 7-plus-year-old girls and boys features a 2-storey buildable horse stable with a kitchen and bedroom, plus carriage and riding jump
-- Accessories in this horse toy playset include a pitchfork, shovel, brush, bucket and horseshoe hammer to help children learn to care for horses
-- Above the stables, there is a cozy kitchen with a table that kids can convert into a picnic blanket plus a sleeping area complete with hay beds
 - Kids can act out horse training sessions with the toy animals using the jumping obstacle with its 2 removable planks which can be knocked off
+- Kids can build the horse carriage toy, which has space for 2 mini-dolls so Autumn and Aliya can enjoy a horse riding session together
+- The farm animal toys playset includes 2 horse toys each with their own stable, plus a bird figure and a mouse character who lives above the stables
+- Accessories in this horse toy playset include a pitchfork, shovel, brush, bucket and horseshoe hammer to help children learn to care for horses
+- This LEGO Friends Autumns Horse Stable toy for 7-plus-year-old girls and boys features a 2-storey buildable horse stable with a kitchen and bedroom, plus carriage and riding jump
+- Above the stables, there is a cozy kitchen with a table that kids can convert into a picnic blanket plus a sleeping area complete with hay beds
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPCD1ZMS{{</world>}}

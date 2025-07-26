@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- There is also a dungeon with a skeleton spawner, plus lots of accessories including bread, a bone and a chest containing a music record
-- This action-packed LEGO Minecraft set features caves to explore, skeletons to battle and a spawning function that reveals more skeletons
-- Includes 3 biomes: a dripstone cave stalagmites, stalactites and a rock-fall function, plus a lush cave with bushes, clay and torches
-- Kids can build, explore, battle and operate fun features, and then rebuild the set for even more creative LEGO Minecraft play
 - This Minecraft construction toy also includes a cave explorer and 3 skeleton figures, plus tools and weapons: 2 crossbows and a pickaxe
+- There is also a dungeon with a skeleton spawner, plus lots of accessories including bread, a bone and a chest containing a music record
+- Kids can build, explore, battle and operate fun features, and then rebuild the set for even more creative LEGO Minecraft play
+- Includes 3 biomes: a dripstone cave stalagmites, stalactites and a rock-fall function, plus a lush cave with bushes, clay and torches
 - Kids can play out scenes battling the skeletons with a crossbow or stopping the hostile Minecraft mobs attack, by making rocks crash down on them
 - This LEGO Minecraft set is a fun representation of the video game and makes a great birthday gift for gamers, boys and girls aged 8 plus years old
+- This action-packed LEGO Minecraft set features caves to explore, skeletons to battle and a spawning function that reveals more skeletons
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFPRVN4{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This iconic Marvel memorabilia piece features the Nano Gauntlet with movable, jointed fingers which can be positioned into a variety of poses
-- Designed especially for adults, this set provides a relaxing building experience - its time to pay homage to your favorite Marvel movie
 - Number of Pieces: 680
+- This iconic Marvel memorabilia piece features the Nano Gauntlet with movable, jointed fingers which can be positioned into a variety of poses
 - This LEGO Marvel collectible makes a great Avengers themed gift for him or her as a birthday gift, anniversary present for husband or wife, or a personal treat for any movie or model-making enthusiast
 - The eyecatching Iron Man Gauntlet brings the captivating style of Marvel Studios’ Avengers: Endgame film to fans office and home room décor
+- Designed especially for adults, this set provides a relaxing building experience - its time to pay homage to your favorite Marvel movie
 - Features a LEGO brick-built recreation of the Iron Man Nano Gauntlet including 6 Infinity Stones, a sturdy stand and a descriptive tablet
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Creator 3-in-1 Fantasy Forest Creatures brings 3 animal scenes in 1 set of 5 toy animal figures to create
-- The owl toy has movable feet . Feathers; it is a portable size with 10 cm height so children can take with them when travelling. With the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of their models on their smartphones. Check out more LEGO Creator 3-in-1 sets: Off-Road Buggy 31123, Supersonic Jet 31126 and Dolphin and Turtle 31126 128
-- This animal toy for boys and girls aged 7 and up features a LEGO owl and a hedgehog, a young deer and a toy rabbit, or a squirrel
 - Children can choose between The owthe Hedgehog teaches to read, play with the young deer and the toy bunny or find acorns with the squirrel
+- The owl toy has movable feet . Feathers; it is a portable size with 10 cm height so children can take with them when travelling. With the LEGO Building Instructions app, builders can zoom, rotate and visualise a digital version of their models on their smartphones. Check out more LEGO Creator 3-in-1 sets: Off-Road Buggy 31123, Supersonic Jet 31126 and Dolphin and Turtle 31126 128
+- LEGO Creator 3-in-1 Fantasy Forest Creatures brings 3 animal scenes in 1 set of 5 toy animal figures to create
+- This animal toy for boys and girls aged 7 and up features a LEGO owl and a hedgehog, a young deer and a toy rabbit, or a squirrel
 - The young deer has movable legs and feet, and the toy rabbit can move its ears while the squirrel has movable limbs and ears
 
 [🛒 Buy it!!]({{< param buyurl >}})

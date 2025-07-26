@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gift idea – This LEGO DUPLO bricks set makes a fun birthday gift for 2+.year old toddlers, boys and girls who love vehicle toys
-- Learning through play – LEGO DUPLO toddler learning toys engage preschoolers and develop their fine motor skills and self-expression
 - Truck toy with accessories – Includes a drivable model of Disney and Pixar’s Mack from the Cars films, plus a tuning station, engine brick and a cone
 - Inspired by the Disney and Pixar Cars films – Toddlers unload Lightning McQueen’s engine from the truck toy, then tune it up with the wrench
+- Gift idea – This LEGO DUPLO bricks set makes a fun birthday gift for 2+.year old toddlers, boys and girls who love vehicle toys
+- Learning through play – LEGO DUPLO toddler learning toys engage preschoolers and develop their fine motor skills and self-expression
 - LEGO vehicle for truck fans – Fuel creative play for toddlers aged 2+ with the Mack at the Race set, inspired by the Disney and Pixar Cars films
 
 [🛒 Buy it!!]({{< param buyurl >}})

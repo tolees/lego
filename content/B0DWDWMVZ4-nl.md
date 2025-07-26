@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Cadeau voor meisjes en jongens die dol zijn op poezen – deze speelgoedset is een geweldig creatief cadeau voor meisjes, jongens en kattenliefhebbers vanaf 6 jaar
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
-- Bouwpakket voor kinderen die van katten houden – dit LEGO Friends Kattenverjaardagsfeestje en boomhut speelgoed voor 6 jaar en ouder bevat 2 Friends minifiguren en 5 kattenfiguren voor fantasierijk speelplezier
-- Vertel verhalen over vriendschap – met de LEGO Friends sets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
 - Rollenspellen accessoires met kattenthema – kinderen kunnen eindeloze verhalen bedenken met de accessoires, waaronder een verjaardagstaart met kaars, cadeautjes, slingers, ballonnen in de vorm van een kat, een feesthoedje en kattensnoepjes
 - Bedenk verhalen met de LEGO Friends personages – deze fantasieset bevat Friends poppetjes van Leo en Paisley, 5 speelgoed dieren figuren van katten, een bouwbare kattenboomhut en een bouwbare verjaardagstaart
+- Cadeau voor meisjes en jongens die dol zijn op poezen – deze speelgoedset is een geweldig creatief cadeau voor meisjes, jongens en kattenliefhebbers vanaf 6 jaar
+- Bouwpakket voor kinderen die van katten houden – dit LEGO Friends Kattenverjaardagsfeestje en boomhut speelgoed voor 6 jaar en ouder bevat 2 Friends minifiguren en 5 kattenfiguren voor fantasierijk speelplezier
 - Kattenboomhut – kinderen spelen met de 5 katten, waaronder Churro de kat in de kattenboomhut met een piñata in de vorm van een vis, een kattenspeeltje, kattengras en een waterfontein
+- Vertel verhalen over vriendschap – met de LEGO Friends sets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDWMVZ4{{</world>}}

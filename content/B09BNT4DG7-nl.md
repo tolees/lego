@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Kinderen kunnen scènes uit Thor: Love and Thunder naspelen en hun eigen avonturen bedenken terwijl ze de strijd aangaan met het beweeglijke Schaduwmonster
 - Met dit LEGO Marvel Avengers constructie speelgoed kunnen jonge superhelden zelf deel uitmaken van de actie uit Marvel Studios Thor: Love and Thunder, met 3 minifiguren en een monster figuur
+- Dit leuke Thor Stormbreaker constructie speelgoed is een geweldig cadeau voor kinderen vanaf 7 jaar, voor een verjaardag of zomaar als verrassing - het model ziet er ook nog eens fantastisch uit om na al het speelplezier mooi neer te zetten
 - Het schaduwmonster bij dit constructie speelgoed heeft scharnierende armen en klauwen, voor spannende duellen met monsters en superhelden
 - Inclusief LEGO minifiguur van Thor die vervaarlijk zwaait met zijn Stormbreaker speelgoed bijl, Gorr en Machtige Thor met de Mjölnir hamer
-- Dit leuke Thor Stormbreaker constructie speelgoed is een geweldig cadeau voor kinderen vanaf 7 jaar, voor een verjaardag of zomaar als verrassing - het model ziet er ook nog eens fantastisch uit om na al het speelplezier mooi neer te zetten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNT4DG7{{</world>}}

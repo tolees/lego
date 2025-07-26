@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ideal als Geschenk
 - Ideale Unterstützung für Spiel und Phantasie
 - Ideale Produkte
+- Ideal als Geschenk
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCCKL5V{{</world>}}

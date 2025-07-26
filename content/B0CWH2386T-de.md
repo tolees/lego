@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Anpassbar: Zieh einfach die Sicherungsstifte heraus, um die Flügel vom Rumpf des Bauspielzeugs zu lösen und an dem jeweils anderen Modell zu montieren und so den klassischen TIE Fighter und den X-Wing mit einziehbarem Fahrwerk zu bauen
-- Geschenkidee für Kinder ab 9 Jahren: Dieses Abenteuer-Spielset mit Sternjägern aus LEGO Steinen ist ein tolles Geschenk für Jungen, Mädchen und alle Star Wars Fans egal ob zum Geburtstag, zu Weihnachten oder einfach so
-- Mashup aus TIE Fighter & X-Wing: Mit diesem LEGO Star Wars Bau- und Spielset für Kinder kannst du einen „TIE-Wing“ und einen „X-Fighter“ bauen Diese beiden Mashup-Modelle kennst du bereits aus dem Serien-Special Rebuild the Galaxy auf Disney+
-- Enthält 4 LEGO Star Wars Minifiguren und einen LEGO Droide: Ein Rebellenpilot und ein TIE-Pilot, die beide eine Blaster-Pistole haben, Yesi Scala, der einen Gaderffi hält, und Sig Greebling sowie der LEGO Droide L3-G0
 - Coole LEGO Star Wars Sets für Fans jeden Alters: LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Fans legendäre Filmszenen nachstellen, originelle Geschichten darstellen und die gebauten Modelle ausstellen
-- Baubare Star Wars Spielzeug-Sternjäger – der „TIE-Wing“ und der „X-Fighter“: Beide Sternjäger haben ein aufklappbares Cockpit für eine LEGO Minifigur und 2 Shooter mit Federmechanismus Und die Flügel des X-Wings lassen sich verstellen
 - Teil der LEGO Star Wars: Rebuild the Galaxy Kollektion: Kombiniere das Bauspielzeug mit den beiden separat erhältlichen Sets Jedi Bobs Sternjäger (75388) und Dunkler Millennium Falke (75389) für noch mehr Spaß
+- Enthält 4 LEGO Star Wars Minifiguren und einen LEGO Droide: Ein Rebellenpilot und ein TIE-Pilot, die beide eine Blaster-Pistole haben, Yesi Scala, der einen Gaderffi hält, und Sig Greebling sowie der LEGO Droide L3-G0
+- Geschenkidee für Kinder ab 9 Jahren: Dieses Abenteuer-Spielset mit Sternjägern aus LEGO Steinen ist ein tolles Geschenk für Jungen, Mädchen und alle Star Wars Fans egal ob zum Geburtstag, zu Weihnachten oder einfach so
+- Baubare Star Wars Spielzeug-Sternjäger – der „TIE-Wing“ und der „X-Fighter“: Beide Sternjäger haben ein aufklappbares Cockpit für eine LEGO Minifigur und 2 Shooter mit Federmechanismus Und die Flügel des X-Wings lassen sich verstellen
+- Anpassbar: Zieh einfach die Sicherungsstifte heraus, um die Flügel vom Rumpf des Bauspielzeugs zu lösen und an dem jeweils anderen Modell zu montieren und so den klassischen TIE Fighter und den X-Wing mit einziehbarem Fahrwerk zu bauen
+- Mashup aus TIE Fighter & X-Wing: Mit diesem LEGO Star Wars Bau- und Spielset für Kinder kannst du einen „TIE-Wing“ und einen „X-Fighter“ bauen Diese beiden Mashup-Modelle kennst du bereits aus dem Serien-Special Rebuild the Galaxy auf Disney+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2386T{{</world>}}

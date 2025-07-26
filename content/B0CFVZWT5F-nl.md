@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Verstelbare figuur – de mecha met zwaar pantser heeft een cockpit waarin kinderen Cole kunnen plaatsen, een grote hamer en verstelbare armen en benen die naar alle kanten kunnen worden gedraaid voor interessante houdingen
-- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
-- Actiefiguur voor kinderen – Coles elementaire aardemecha is leuk speelgoed voor jongens en meisjes vanaf 7 jaar dat kan worden gecombineerd met 2 andere mecha (apart verkrijgbaar) dankzij de afneembare benen, armen en borst
-- Meer aanpasbare mecha – kinderen kunnen onderdelen van Coles mecha omwisselen en combineren met Soras elementaire techmecha (71807) en Kais elementaire vuurmecha (71808) (apart verkrijgbaar)
 - Cadeau voor kinderen– dit leuke speelgoed biedt een leuke bouw- en speelervaring en is een geweldig cadeau voor jongens en meisjes die graag rollenspellen boordevol actie naspelen
 - 2 NINJAGO minifiguren – de set bevat Ninjago Cole met een mini katana en een Wolvenmasker strijder met een zwaard, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
+- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
+- Meer aanpasbare mecha – kinderen kunnen onderdelen van Coles mecha omwisselen en combineren met Soras elementaire techmecha (71807) en Kais elementaire vuurmecha (71808) (apart verkrijgbaar)
+- Actiefiguur voor kinderen – Coles elementaire aardemecha is leuk speelgoed voor jongens en meisjes vanaf 7 jaar dat kan worden gecombineerd met 2 andere mecha (apart verkrijgbaar) dankzij de afneembare benen, armen en borst
 - Bouw je eigen mechapak – ninjafans kunnen genieten van urenlang creatief speelplezier terwijl ze onderdelen van dit ninja speelgoed (sets apart verkrijgbaar) combineren om hun eigen LEGO mech te creëren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
