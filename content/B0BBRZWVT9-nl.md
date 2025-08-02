@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen kunnen de ring draaien voor een nog grotere uitdaging; duw op de motoren om het vliegwiel te activeren en de LEGO stuntmotor van de schans te laten rijden en door de ring te lanceren
 - Combineer dit motorfiets speelgoed met andere LEGO City Stuntz sets voor nog grotere stunts en wedstrijden; bekijk de Ultieme stuntrijders uitdaging (60361)
 - Deze LEGO City Stuntz set heeft een draaibare springring, 2 schansen en 2 motorfietsen, waarmee kinderen 1 of 2 spelers wedstrijden kunnen spelen
 - Jonge motorfans kunnen alleen spelen of wedstrijden voor 2 spelers organiseren met de 2 motorrijder minifiguren en 2 hellingen; een trofee voor de winnaar is inbegrepen
 - Deze LEGO City Stuntz motorfiets speelgoed bouwset is een leuk cadeau voor kinderen vanaf 6 jaar, om te geven met een verjaardag of andere gelegenheid
+- Kinderen kunnen de ring draaien voor een nog grotere uitdaging; duw op de motoren om het vliegwiel te activeren en de LEGO stuntmotor van de schans te laten rijden en door de ring te lanceren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZWVT9{{</world>}}

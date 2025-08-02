@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Minifigures and more – As well as a buildable 1989-style Batmobile, the DC Super Hero toy includes Batman and The Joker minifigures, plus accessories including a Batarang, harpoon spike and handcuffs
-- Authentic action – Batmans iconic vehicle features an accessible cockpit for the Batman minifigure, a control that raises 2 blasters into position, a flip-open trunk and a flaming tailpipe
-- DC birthday gift for 8 year old kids – Give this 1989 Batmobile playset as a birthday, holiday or any-day gift for young superheroes ages 8 and up
 - Build, play and display – The Batmobile measures over 2 in. (5 cm) high, 11 in. (28 cm) long and 3.5 in. (9 cm) wide and combines easily with other LEGO DC Super Hero playsets
+- Authentic action – Batmans iconic vehicle features an accessible cockpit for the Batman minifigure, a control that raises 2 blasters into position, a flip-open trunk and a flaming tailpipe
 - Iconic 1989 Batmobile – LEGO DC Batmobile: Batman vs. The Joker Chase (76224) brings the drama and excitement of the classic 1989 movie to life
+- Minifigures and more – As well as a buildable 1989-style Batmobile, the DC Super Hero toy includes Batman and The Joker minifigures, plus accessories including a Batarang, harpoon spike and handcuffs
+- DC birthday gift for 8 year old kids – Give this 1989 Batmobile playset as a birthday, holiday or any-day gift for young superheroes ages 8 and up
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRDTYTS{{</world>}}

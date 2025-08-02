@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Tolles Geschenk für Mädchen und Jungen: Das Set ist ein cooles Geburtstags- oder Überraschungsgeschenk für Kinder, die fantasievolle Rollenspiele, das Kochen und die LEGO Friends lieben
-- Erfinde neue Gerichte mit dem LEGO Friends Set: Das Spielzeugrestaurant inspiriert zu vielen Geschichten in der Kochschule; Kinder können die enthaltenen Zutaten zu eigenen Gerichten kombinieren, die die Gäste dann probieren dürfen
-- LEGO Friends Spielset für kreative Nachwuchsköche: Restaurant und Kochschule ist ein Bauset mit Spielzeugspeisen, 4 Minifiguren, einer Katze und einem Spielzeugmotorrad, das Kinder ab 8 Jahren zu vielen Rollenspielen einlädt
-- Bauset mit jeder Menge Restaurant-Zubehör: Das LEGO Friends Spielzeug enthält Speisekarten, Ofen, Notizblock, Käsereibe, Mixer, Rührgerät, Spritzbeutel, Salzstreuer, Pfefferstreuer, Besen und mehr
 - 4 LEGO Friends Minifiguren und die Tierfigur einer Katze: Für Aliya und Sara sind Gesichter zum Auswechseln enthalten, damit man ihren Gesichtsausdruck ändern kann, wenn sie von dem Essen kosten
+- LEGO Friends Spielset für kreative Nachwuchsköche: Restaurant und Kochschule ist ein Bauset mit Spielzeugspeisen, 4 Minifiguren, einer Katze und einem Spielzeugmotorrad, das Kinder ab 8 Jahren zu vielen Rollenspielen einlädt
+- Erfinde neue Gerichte mit dem LEGO Friends Set: Das Spielzeugrestaurant inspiriert zu vielen Geschichten in der Kochschule; Kinder können die enthaltenen Zutaten zu eigenen Gerichten kombinieren, die die Gäste dann probieren dürfen
+- Bauset mit jeder Menge Restaurant-Zubehör: Das LEGO Friends Spielzeug enthält Speisekarten, Ofen, Notizblock, Käsereibe, Mixer, Rührgerät, Spritzbeutel, Salzstreuer, Pfefferstreuer, Besen und mehr
 - Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

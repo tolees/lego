@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Incluye figuras de juguete de LEGO Super Mario de 2 emblemáticos enemigos: el Hermano Sumo Jefe, con brazos que se golpean el pecho, y una figura de Crowber
-- Edad recomendada por el fabricante: 6+
+- Número de piezas: 231
 - Incorpora una torre construible que se vendrá abajo si una figura LEGO Mario y/o LEGO Luigi (no incluidas) pisa la palanca de la base
 - Set de Expansión: Torre bamboleante del Hermano Sumo Jefe
-- Número de piezas: 231
+- Edad recomendada por el fabricante: 6+
+- Incluye figuras de juguete de LEGO Super Mario de 2 emblemáticos enemigos: el Hermano Sumo Jefe, con brazos que se golpean el pecho, y una figura de Crowber
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08WWSWV1W{{</world>}}

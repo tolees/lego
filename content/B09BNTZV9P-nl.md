@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DOTS-sets laten kinderen kennismaken met het plezier van LEGO spelen en creativiteit bij het maken en versieren van de verschillende items
-- De bijgevoegde folder bevat veel inspiratie voor alfabetten en ontwerpen om kinderen te inspireren tot vindingrijkheid
-- Doe-het-zelf LEGO knutselsets voor kinderen van 6 jaar en ouder zijn een geweldig verjaardagscadeau voor kinderen omdat ze hun individualiteit tot uitdrukking brengen
-- Deze LEGO DOTS set bevat een heleboel DOTS seentjes voor het versieren van prikborden, kameraccessoires of andere LEGO sets
 - LEGO DOTS sets laten kinderen kennismaken met creatieve activiteiten terwijl ze de verschillende voorwerpen maken en versieren
+- DOTS-sets laten kinderen kennismaken met het plezier van LEGO spelen en creativiteit bij het maken en versieren van de verschillende items
+- Deze LEGO DOTS set bevat een heleboel DOTS seentjes voor het versieren van prikborden, kameraccessoires of andere LEGO sets
+- Doe-het-zelf LEGO knutselsets voor kinderen van 6 jaar en ouder zijn een geweldig verjaardagscadeau voor kinderen omdat ze hun individualiteit tot uitdrukking brengen
+- De bijgevoegde folder bevat veel inspiratie voor alfabetten en ontwerpen om kinderen te inspireren tot vindingrijkheid
 - Bij het speelgoed zijn ruim 700 tegels inbegrepen, met verschillende kleuren en vormen, zodat kinderen hun eigen lettertype kunnen maken en schrijven wat ze maar willen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

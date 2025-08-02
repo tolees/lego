@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ein Set zum Bauen und Ausstellen, das alle erwachsenen LEGO Sammler begeistern wird. Schau dir auch die anderen Sets aus der LEGO Indiana Jones Serie an
 - Dieser Modellbausatz für Erwachsene ist reich an Details und hat einen Sockel mit vier Knöpfen, mit denen verschiedene Funktionen aktiviert werden können
-- Die Funktionen des Modellbaukastens ermöglichen es Indiana Jones auch, in der Höhle an einer Liane zu schwingen und zu sehen, wie Indy von einem riesigen Felsbrocken verfolgt wird
-- LEGO Indiana Jones Tempel des goldenen Götzen Bausatz, der die spannende Eröffnungsszene aus dem Film Jäger des verlorenen Schatzes zeigt.
 - Eine tolle nostalgische Geschenk-Idee für erwachsene Indiana Jones Filmfans mit einer Leidenschaft für LEGO Konstruktionen und lohnende Bauherausforderungen
+- Ein Set zum Bauen und Ausstellen, das alle erwachsenen LEGO Sammler begeistern wird. Schau dir auch die anderen Sets aus der LEGO Indiana Jones Serie an
+- LEGO Indiana Jones Tempel des goldenen Götzen Bausatz, der die spannende Eröffnungsszene aus dem Film Jäger des verlorenen Schatzes zeigt.
+- Die Funktionen des Modellbaukastens ermöglichen es Indiana Jones auch, in der Höhle an einer Liane zu schwingen und zu sehen, wie Indy von einem riesigen Felsbrocken verfolgt wird
 - Tauche mit den enthaltenen LEGO Minifiguren von 4 Indiana Jones Charakteren ins Abenteuer ein: Indiana Jones, Satipo, Belloq und ein Hovitos-Krieger
 
 [🛒 Check the deal!!]({{< param buyurl >}})

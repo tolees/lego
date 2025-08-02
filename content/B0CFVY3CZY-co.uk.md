@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Digital construction guide – Engage kids in building with the 3D LEGO Builder app, allowing 360 model views for an interactive experience
 - Fun gifts for 8 year old boys and girls – Make any day a special day when you give this space playset as a gift for fans of cool space toys
-- Imaginative LEGO space sets – Kids operate 360 tower crane and open the base to access an equipment carousel, science lab and recreation area
 - Space exploration toys – The LEGO City Space Base and Rocket Launchpad playset for ages 8+ is packed with features for limitless space-themed play
+- Digital construction guide – Engage kids in building with the 3D LEGO Builder app, allowing 360 model views for an interactive experience
+- Imaginative LEGO space sets – Kids operate 360 tower crane and open the base to access an equipment carousel, science lab and recreation area
 - What to build? – Space base with a 360 tower crane and spaceship toy, launchpad, truck, planet setting, 6 minifigures, a robot, 2 alien figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Contains 1540 Pieces
 - Collectable item, not requarily suitable as a childs gift
+- Contains 1540 Pieces
 - Bösewicht Icons
 - Lieferung in werkseitig versiegelter Box
 

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- What’s in the box? – This toy set includes a toy apartment block with pretend solar panels, a convenience store, living room, kitchen, bedroom and bathroom, plus a bike, mobility scooter and 6 minifigures
 - Take gifting to the next level – This modular apartment playset makes a fun birthday, holiday or any-day gift for 6 year old kids and fans of imaginative play
 - Expandable toy playset – Includes a LEGO Road Plate for connection to other sets in the LEGO City
 - Build and play toy Apartment Building – This LEGO City Apartment Building (60365) comes with connecting modular rooms and fun characters for kids who love realistic play
+- What’s in the box? – This toy set includes a toy apartment block with pretend solar panels, a convenience store, living room, kitchen, bedroom and bathroom, plus a bike, mobility scooter and 6 minifigures
 - Dimensions – When built, the Apartment Building measures over 13 in. (34 cm) high, 8.5 in. (21 cm) wide and 8 in. (20 cm) deep
 
 [🛒 Check the deal!!]({{< param buyurl >}})

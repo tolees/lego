@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Exciting Building Experience - Kids will enjoy new thrilling experiences with this LEGO Technic Ford Mustang Shelby GT500 model car kit, featuring augmented reality races in the LEGO AR+ app!
-- Perfect Gift for Kids - With wide tires and a raised back spoiler, this green and white pull back toy drag racing car makes an excellent gift for kids and teens who love cars and racing.
-- Interactive LEGO AR+ App - Download the LEGO Technic AR+ app, scan the model car, and launch it using your foot to see it come to life in exhilarating races and challenges.
-- Explore Car Details - Use the LEGO Technic AR+ app to discover more fun ways to play and explore all the intricate details of your muscle racing car model.
-- Pull Back Racing Fun - The Ford Mustang model car brings the excitement of the drag racetrack home, as kids race the car using the 2 pull back toy car motors for high-speed action.
 - Iconic Mustang Design - This true-to-life buildable car toy captures the iconic appearance of the real Ford Mustang Shelby GT500 drag racing car, perfect for car enthusiasts.
 - Sleek Display Piece - After racing the model car, attach the rear cover to transform it into a stylish bedroom decor piece that showcases your love for drag racing.
+- Explore Car Details - Use the LEGO Technic AR+ app to discover more fun ways to play and explore all the intricate details of your muscle racing car model.
+- Interactive LEGO AR+ App - Download the LEGO Technic AR+ app, scan the model car, and launch it using your foot to see it come to life in exhilarating races and challenges.
+- Perfect Gift for Kids - With wide tires and a raised back spoiler, this green and white pull back toy drag racing car makes an excellent gift for kids and teens who love cars and racing.
+- Exciting Building Experience - Kids will enjoy new thrilling experiences with this LEGO Technic Ford Mustang Shelby GT500 model car kit, featuring augmented reality races in the LEGO AR+ app!
+- Pull Back Racing Fun - The Ford Mustang model car brings the excitement of the drag racetrack home, as kids race the car using the 2 pull back toy car motors for high-speed action.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FM37QRT{{</world>}}

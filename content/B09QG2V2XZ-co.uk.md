@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Motorised features include the spin rotor and tail, slow and fast rotor speeds, retractable landing gear, hoist and spinning replica engine
-- Construction toy features a search and rescue helicopter with motorised and manual functions to help curious kids learn how a helicopter works
 - Model helicopter kits manual functions: the swash plate to control the pitch of the rotor blades, a cockpit door and sliding passenger doors
-- This battery powered toy helicopter requires an AA battery (not-included), the set also includes 1 x motor
-- This construction toys manual functions also include opening front and rear cowlings to explore the steering mechanism
+- Construction toy features a search and rescue helicopter with motorised and manual functions to help curious kids learn how a helicopter works
+- Motorised features include the spin rotor and tail, slow and fast rotor speeds, retractable landing gear, hoist and spinning replica engine
 - A great treat for model helicopter fans and a fun gift for 11-plus-year-old boys and girls who love construction toys and LEGO Technic sets
+- This construction toys manual functions also include opening front and rear cowlings to explore the steering mechanism
+- This battery powered toy helicopter requires an AA battery (not-included), the set also includes 1 x motor
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG2V2XZ{{</world>}}

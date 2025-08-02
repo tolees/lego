@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A fun birthday gift – This LEGO building toy set makes a great gift for 4+ year-old boys and girls who love cool tow truck toys and LEGO vehicles
-- Let imagination take the wheel – Kids pop the drivers into the LEGO 4+ car and recovery truck for hours of imaginative play and creative storytelling
-- LEGO minifigure accessories – This creative role-play toy comes with accessories for pretend play, including a toy wrench and a phone
-- Make learning fun – LEGO City building toys help kids develop confidence and key life skills through open-ended creative play
 - More sets to discover – Kids unleash more fun and adventures when they add this LEGO City set to others (sold separately) from the range
-- Tow truck toy – The LEGO City Tow Truck and Sports Car Repair building toy set for 4-plus-year-old boys and girls who love imaginative storytelling
 - What’s in the box? – This toy vehicle recovery playset set includes a LEGO tow truck, sports car toy and truck driver and motorist minifigures
+- Let imagination take the wheel – Kids pop the drivers into the LEGO 4+ car and recovery truck for hours of imaginative play and creative storytelling
+- Tow truck toy – The LEGO City Tow Truck and Sports Car Repair building toy set for 4-plus-year-old boys and girls who love imaginative storytelling
+- A fun birthday gift – This LEGO building toy set makes a great gift for 4+ year-old boys and girls who love cool tow truck toys and LEGO vehicles
+- Make learning fun – LEGO City building toys help kids develop confidence and key life skills through open-ended creative play
+- LEGO minifigure accessories – This creative role-play toy comes with accessories for pretend play, including a toy wrench and a phone
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH38G9C{{</world>}}

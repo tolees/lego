@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Build imaginations – Spark creative play with the LEGO DREAMZzz Mateo and Z-Blob the Knight Battle Mech toy for boys and girls aged 10 and over
-- Fun creative toys – Additional accessory elements include a toy sword, shield, spear and 2 6-stud shooters, plus a collectible dream jar
-- Be part of the action – This set includes story-led building instructions that are also available digitally in the LEGO Builder app, where kids can zoom in and rotate models in 3D while they build
-- Fantasy action figure – All modes of the LEGO robot have an opening cockpit with space for a LEGO DREAMZzz minifigure, wings and boosters
-- 1 toy, 3 adventures – Kids discover 3 ways to build the robot toy, choosing from street knight mech, street knight centaur or street battle mech modes
-- 4 minifigures – The LEGO DREAMZzz set includes Mateo and Logan, their dark doppelgangers MadTeo and Dogan, as well as figures of minions Sneak and
 - Gift idea for kids – The rebuildable playset can be given as an imaginative birthday gift for boys, girls and kids who are fans of the LEGO DREAMZzz TV show and cool robot toys
+- Fantasy action figure – All modes of the LEGO robot have an opening cockpit with space for a LEGO DREAMZzz minifigure, wings and boosters
+- Fun creative toys – Additional accessory elements include a toy sword, shield, spear and 2 6-stud shooters, plus a collectible dream jar
+- 4 minifigures – The LEGO DREAMZzz set includes Mateo and Logan, their dark doppelgangers MadTeo and Dogan, as well as figures of minions Sneak and
+- Build imaginations – Spark creative play with the LEGO DREAMZzz Mateo and Z-Blob the Knight Battle Mech toy for boys and girls aged 10 and over
+- Be part of the action – This set includes story-led building instructions that are also available digitally in the LEGO Builder app, where kids can zoom in and rotate models in 3D while they build
+- 1 toy, 3 adventures – Kids discover 3 ways to build the robot toy, choosing from street knight mech, street knight centaur or street battle mech modes
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH172FL{{</world>}}

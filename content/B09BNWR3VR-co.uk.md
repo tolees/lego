@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Zoom, rotate and view models from all angles as you build with the LEGO Building Instructions app, available for smartphones and tablets
 - Features a LEGO toy car model of the 1970 Ferrari 512 M, & a Ferrari racing driver minifigure complete with a race suit, wig & crash helmet
-- This Ferrari race car toy model is a perfect birthday or any occasion gift for boys and girls who love toy sports cars!
 - Packed with details! Plenty of room for a driver minifigure and lots of authentic detailing
+- This Ferrari race car toy model is a perfect birthday or any occasion gift for boys and girls who love toy sports cars!
 - Explore the vehicle’s stunning aerodynamic design as you recreate it piece by piece & put your masterwork on display to admire
 - LEGO Speed Champions building sets give kids and adults the chance to explore some of the world’s most iconic vehicles!
 

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inclusief NINJAGO poppetjes van Lloyd en een Bottenbewaker, allebei met hun eigen speelgoedzwaarden, plus een kleine van LEGO stenen gebouwde tempel met een gouden wapen en een verborgen schieter die schijven afvuurt
-- Kleuters en kinderen van 4+ jaar leren bouwen met dit LEGO NINJAGO motor speelgoed voor beginners, inclusief een Startsteen om meteen te kunnen beginnen met bouwen
-- Ieder zakje met LEGO stenen in de doos bevat een model of een NINJAGO personage om te bouwen, zodat de actie meteen kan beginnen; er is ook een Startsteen met een gedeeltelijk gebouwde basis, zodat kinderen eenvoudig kunnen starten met bouwen
-- Dit educatieve LEGO NINJAGO speelgoed met een stoere motor is een fantastisch cadeau voor kleuters en kinderen van 4+ jaar, om ze te helpen om hun bouw- en creatieve vaardigheden te ontwikkelen terwijl ze pret hebben met LEGO stenen
 - De gemene Bottenbewaker heeft het waardevolle Gouden Drakenzwaard gestolen; kinderen moeten samenwerken met Lloyd op zijn supercoole speelgoedmotor om het terug te krijgen - Lloyds motor heeft een cool patroon en een clip voor een zwaard
+- Inclusief NINJAGO poppetjes van Lloyd en een Bottenbewaker, allebei met hun eigen speelgoedzwaarden, plus een kleine van LEGO stenen gebouwde tempel met een gouden wapen en een verborgen schieter die schijven afvuurt
+- Ieder zakje met LEGO stenen in de doos bevat een model of een NINJAGO personage om te bouwen, zodat de actie meteen kan beginnen; er is ook een Startsteen met een gedeeltelijk gebouwde basis, zodat kinderen eenvoudig kunnen starten met bouwen
+- Kleuters en kinderen van 4+ jaar leren bouwen met dit LEGO NINJAGO motor speelgoed voor beginners, inclusief een Startsteen om meteen te kunnen beginnen met bouwen
+- Dit educatieve LEGO NINJAGO speelgoed met een stoere motor is een fantastisch cadeau voor kleuters en kinderen van 4+ jaar, om ze te helpen om hun bouw- en creatieve vaardigheden te ontwikkelen terwijl ze pret hebben met LEGO stenen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRY32WV{{</world>}}

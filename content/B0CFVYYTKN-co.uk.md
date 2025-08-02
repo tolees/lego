@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Guardians of the Galaxy characters – Rocket is holding a spring shooter and blaster, and a Baby Groot minifigure can be attached to Rocket’s shoulder
-- Posable action figure – Kids adjust the Rocket Raccoon model as they role-play missions with the Guardians of the Galaxy and create their own stories
 - 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 - Many ways to play and display – This buildable Marvel super hero toy is fun to construct and delivers endless play-and-display possibilities
-- Rocket action figure – Take Marvel film action to the next level with the LEGO Marvel Rocket & Baby Groot buildable toy for boys and girls aged 10+
 - LEGO gift for film lovers – Fans of Marvel Studios’ Guardians of the Galaxy can enjoy endless fun with this detailed, jointed Rocket action figure, which makes a great Marvel-themed gift for boys and girls aged 10+
+- Posable action figure – Kids adjust the Rocket Raccoon model as they role-play missions with the Guardians of the Galaxy and create their own stories
+- Guardians of the Galaxy characters – Rocket is holding a spring shooter and blaster, and a Baby Groot minifigure can be attached to Rocket’s shoulder
+- Rocket action figure – Take Marvel film action to the next level with the LEGO Marvel Rocket & Baby Groot buildable toy for boys and girls aged 10+
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYYTKN{{</world>}}

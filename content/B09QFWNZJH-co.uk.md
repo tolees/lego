@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Unlock the fun with the Lego Super Mario companion app - For a list of compatible Android and iOS devices
+- Players earn digital coins for helping Lego Mario, Lego Luigi or Lego Peach (figures not included) dodge the spiked roller thrown by the Big Spike
+- This Lego Super Mario buildable toy game let kids recreate the iconic game : Jump on the orange Mushroom Trampolines to get to the Boomerang Bro
+- This Lego Super Mario expansion set features 3 popular enemies, Big Spike, Boomerang Bro and a Piranha Plant for new sky level challenges
+- This Lego Super Mario buildable toy expansion set requires one of the Lego Super Mario Starter Courses (71360, 71387 or 71403) to play
 - Players then gain Super Star Block power and jump on the seesaw to defeat the Piranha Plant, or allow kids to invent their own levels
 - Lego Super Mario expansion sets make great Birthday, Christmas gifts or any time toys for kids who own Lego Super Mario Starter course
-- This Lego Super Mario buildable toy expansion set requires one of the Lego Super Mario Starter Courses (71360, 71387 or 71403) to play
-- This Lego Super Mario expansion set features 3 popular enemies, Big Spike, Boomerang Bro and a Piranha Plant for new sky level challenges
-- Unlock the fun with the Lego Super Mario companion app - For a list of compatible Android and iOS devices
-- This Lego Super Mario buildable toy game let kids recreate the iconic game : Jump on the orange Mushroom Trampolines to get to the Boomerang Bro
-- Players earn digital coins for helping Lego Mario, Lego Luigi or Lego Peach (figures not included) dodge the spiked roller thrown by the Big Spike
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFWNZJH{{</world>}}

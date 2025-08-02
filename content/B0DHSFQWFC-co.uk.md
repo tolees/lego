@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A fun birthday gift idea for kids – This adventure playset makes a fun gift for 6+ year old boys and girls, fans of LEGO vehicles and building toys
-- Off-road truck building toy – Elevate kids’ playtimes with the LEGO City Off-Road 4x4 Mountain Truck toy for 6+ year old boys and girls
 - A city without limits – LEGO City is a place where kids can unleash their imaginations, with toy vehicles, structures and characters that inspire them to build, create, explore and play
+- A fun birthday gift idea for kids – This adventure playset makes a fun gift for 6+ year old boys and girls, fans of LEGO vehicles and building toys
 - What’s in the box? – Includes everything kids need to build an off-road toy truck and adventurer minifigure for fun exploration adventures
-- Role-play toys – Kids can use the winch to traverse steep inclines, flip the vehicle snorkel to pop up the bonnet and access the storage boxes
-- Fun LEGO City minifigure accessories – The set includes a toy camera, water bottle, torch, map, compass, binoculars, tools and a first-aid kit
 - Digital construction guide – The LEGO Builder app includes tools that let kids zoom in, rotate models in 3D and track progress as they build
+- Off-road truck building toy – Elevate kids’ playtimes with the LEGO City Off-Road 4x4 Mountain Truck toy for 6+ year old boys and girls
+- Fun LEGO City minifigure accessories – The set includes a toy camera, water bottle, torch, map, compass, binoculars, tools and a first-aid kit
+- Role-play toys – Kids can use the winch to traverse steep inclines, flip the vehicle snorkel to pop up the bonnet and access the storage boxes
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFQWFC{{</world>}}

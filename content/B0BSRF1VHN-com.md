@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - 3 in 1 toy – Kids can play out exciting city stories with this LEGO Creator 3in1 Main Street (31141) playset, featuring 3 models in 1: a toy city street, an art deco building and a market Cafe
 - 6 minifigures – Includes a coffee shop worker, a hotel receptionist, a singer, a wheelchair user, a child and a store clerk. The characters’ hair and torsos can be switched for greater diversity
+- Packed with accessories – Accessories in the Main Street include a coffee machine and musical instruments, the art deco skyscraper features a fridge and a desk and the archway market street has a chaise longue
 - Access at the back – Each model is open at the back so kids can turn the models around and enjoy playing out fun stories with the hotel, cafe and music store and accessories
 - Endless play – LEGO fans ages 9 years old can build and rebuild 3 different city scenes: a street with a hotel, music store, record store and café, a 4-floor art deco apartment building, or an archway market street
-- Packed with accessories – Accessories in the Main Street include a coffee machine and musical instruments, the art deco skyscraper features a fridge and a desk and the archway market street has a chaise longue
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BSRF1VHN{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This buildable Star Wars display model is great for dorm room or home decor measures over 6.5 in. (17 cm) high,8 in. (21 cm) wide and 7 in. (17 cm) deep. Contains 807 pieces
 - Recreate authentic details such as a circular Death Star window element, rotating throne, 2 display consoles and more. The set also features a plaque celebrating the 40th anniversary of Star Wars: Return of the Jedi
-- Channel your creative Force and capture the drama of Darth Vader and Luke Skywalker’s lightsaber duel scene in Star Wars: Return of the Jedi with this Emperor’s Throne Room Diorama (75352) set
-- Treat yourself or give this buildable set for adults as a holiday gift or graduation present to a fan of the classic Star Wars trilogy or a collector of LEGO Star Wars dioramas
 - Expand your collection with this building kit, which is part of a series of collectible LEGO Star Wars diorama sets and toys, each depicting a memorable Star Wars scene
+- Treat yourself or give this buildable set for adults as a holiday gift or graduation present to a fan of the classic Star Wars trilogy or a collector of LEGO Star Wars dioramas
+- This buildable Star Wars display model is great for dorm room or home decor measures over 6.5 in. (17 cm) high,8 in. (21 cm) wide and 7 in. (17 cm) deep. Contains 807 pieces
 - Bring the scene to life with 3 LEGO minifigures including Darth Vader and Luke Skywalker, each with lightsabers, and Emperor Palpatine with 2 Sith lightning bolt elements
+- Channel your creative Force and capture the drama of Darth Vader and Luke Skywalker’s lightsaber duel scene in Star Wars: Return of the Jedi with this Emperor’s Throne Room Diorama (75352) set
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BNW8FKVL{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Number of pieces: 154
 - Manufacturer recommended age: 6+
 - Fuzzy Flippers Expansion Set
-- Kids help LEGO Mario, LEGO Luigi or LEGO Peach (these 3 figures are not included) stomp on each end of the 2 flippers to flip the Fuzzies
 - Includes a sky scene, Time Block and orange Mushroom Trampoline with a bouncy effect so an interactive figure can jump to the flippers
+- Number of pieces: 154
+- Kids help LEGO Mario, LEGO Luigi or LEGO Peach (these 3 figures are not included) stomp on each end of the 2 flippers to flip the Fuzzies
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG7WMVX{{</world>}}

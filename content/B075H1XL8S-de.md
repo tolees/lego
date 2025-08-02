@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fehlt nur noch der 42072 ZACK! – und das Rennen kann beginnen
-- Anzahl der Teile: 139
 - BUMMS!
 - Achte auf die Lackierung in Rot, Schwarz und Grau – und auf die coolen Rennaufkleber
+- Anzahl der Teile: 139
 - Vom Hersteller empfohlenes Alter: 7-14
+- Fehlt nur noch der 42072 ZACK! – und das Rennen kann beginnen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B075H1XL8S{{</world>}}

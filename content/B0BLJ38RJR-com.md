@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Part of an innovative collection of LEGO model car kits for adults to build, this set includes the LEGO Builder app with digital instructions.This LEGO supercar model is designed for adult builders, offering a detailed building project, and makes a great addition to any LEGO collection..This 1:12 scale model measures over 9 cm (3.5 in.) high, 39 cm (15 in.) long and 18 cm (7 in.) wide.
-- Enjoy a rewarding building experience shaping every detail of the 2022 Ford GT with this 1:12 scale LEGO Technic car model kit for adults
 - The model car includes authentic features, such as a V6 engine with moving pistons, independent suspension on all wheels and front-axle steering
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Enjoy a rewarding building experience shaping every detail of the 2022 Ford GT with this 1:12 scale LEGO Technic car model kit for adults
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BLJ38RJR{{</world>}}

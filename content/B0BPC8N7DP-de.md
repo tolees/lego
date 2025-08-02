@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The playset comes with a Dragon Power Lloyd NINJAGO minifigure, plus an Imperium Droid figure that can tumble around and flip over when hit
-- The collectible spinning toy playset also comes with a collectible golden dragon energy core element in a bowl and 2 spike obstacle elements
-- Fans help train NINJAGO Lloyd to complete an obstacle course with this LEGO NINJAGO Lloyd’s Dragon Power Spinjitzu Spin ninja toy for kids aged 6+
 - Lloyd needs to move with speed and agility to avoid the spikes, take down the Imperium Droid and grasp the prized golden dragon energy core element
+- Fans help train NINJAGO Lloyd to complete an obstacle course with this LEGO NINJAGO Lloyd’s Dragon Power Spinjitzu Spin ninja toy for kids aged 6+
+- The collectible spinning toy playset also comes with a collectible golden dragon energy core element in a bowl and 2 spike obstacle elements
 - Kids place the NINJAGO Lloyd minifigure inside the spinner adorned with 3 exclusive green dragon power elements, spin it and watch him rotate
+- The playset comes with a Dragon Power Lloyd NINJAGO minifigure, plus an Imperium Droid figure that can tumble around and flip over when hit
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPC8N7DP{{</world>}}

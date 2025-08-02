@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Fans van Disney’s Aladdin, Assepoester en Rapunzel kunnen avontuurlijke wereldreizen naspelen met deze betoverende speelset, inclusief 3 bouwbare transportmiddelen, 3 LEGO | Disney Princess minipoppetjes en 2 dierenfiguren
-- Laat de LEGO Builder app je kinderen begeleiden op een intuïtief bouwavontuur, waarbij ze sets kunnen opslaan, voortgang bij kunnen houden en de modellen in 3D kunnen bekijken, draaien en erop inzoomen terwijl ze bouwen
 - Deze LEGO | Disney Princess set met bouwbaar speelgoed is een magisch cadeau voor kinderen van 6+ jaar oud die helemaal weg zijn van Disney prinsessen en creatieve rollenspellen over reizen
-- Bij deze set met Disney Princess constructie speelgoed zijn ook 3 LEGO minipoppetjes van geliefde personages inbegrepen: Assepoester, Jasmine en Rapunzel, plus bouwbare figuren van een paard en een babyolifant, voor eindeloos speelplezier
+- Laat de LEGO Builder app je kinderen begeleiden op een intuïtief bouwavontuur, waarbij ze sets kunnen opslaan, voortgang bij kunnen houden en de modellen in 3D kunnen bekijken, draaien en erop inzoomen terwijl ze bouwen
+- Fans van Disney’s Aladdin, Assepoester en Rapunzel kunnen avontuurlijke wereldreizen naspelen met deze betoverende speelset, inclusief 3 bouwbare transportmiddelen, 3 LEGO | Disney Princess minipoppetjes en 2 dierenfiguren
 - De set bevat een bouwbare speelgoed luchtballon met een telescoop en een lantaarn, een koets met open dak, die getrokken wordt door een paardenfiguur, en een vliegend tapijt met coole wolk-elementen waardoor het echt lijkt te vliegen
-- Vlieg met Rapunzel mee in haar luchtballon of maak een magisch ritje op het vliegende tapijt met Jasmine en de babyolifant; stap daarna in de koets van Assepoester en ga op pad om haar vrienden te bezoeken - kinderen kunnen overal naartoe!
 - Er is ook een bouwbaar loungegedeelte met talloze elementen die fantasierijk spel stimuleren, waaronder een zitgedeelte, een boom die schaduw biedt, een set gouden kommetjes, een fontein en fakkel-elementen met speelgoedvlammen
+- Vlieg met Rapunzel mee in haar luchtballon of maak een magisch ritje op het vliegende tapijt met Jasmine en de babyolifant; stap daarna in de koets van Assepoester en ga op pad om haar vrienden te bezoeken - kinderen kunnen overal naartoe!
+- Bij deze set met Disney Princess constructie speelgoed zijn ook 3 LEGO minipoppetjes van geliefde personages inbegrepen: Assepoester, Jasmine en Rapunzel, plus bouwbare figuren van een paard en een babyolifant, voor eindeloos speelplezier
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRWX5DW{{</world>}}

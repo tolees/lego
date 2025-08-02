@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Birthday gifts for girls and boys aged 8+ – This 3in1 toy is a fun build-and-play experience and a cool gift for music lovers and creative kids
-- Fun bedroom accessories – After playtime is over, all 3 LEGO retro models become an eye-catching desk decoration for kids bedrooms
-- Movable toys – The roller skate has 4 pink rolling wheels, and the toy skateboard features 4 movable wheels for fast-paced adventure play
 - Endless play possibilities – Kids can enjoy 3 retro models: a roller skate toy, mini skateboard toy, and boom box radio, for varied story play
+- Fun bedroom accessories – After playtime is over, all 3 LEGO retro models become an eye-catching desk decoration for kids bedrooms
 - Cool toys for 8 year old girls and boys – Kids build and rebuild 3 pop culture icons using the same bricks form LEGO Creator Retro Roller Skate toy
+- Movable toys – The roller skate has 4 pink rolling wheels, and the toy skateboard features 4 movable wheels for fast-paced adventure play
+- Birthday gifts for girls and boys aged 8+ – This 3in1 toy is a fun build-and-play experience and a cool gift for music lovers and creative kids
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1FPFJ{{</world>}}

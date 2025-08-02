@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Clone Trooper & Battle Droid Battle Pack – Recreate Star Wars: The Clone Wars scenes with Star Wars figures, minifigures, a speeder bike and more
+- Buildable LEGO Star Wars toy speeder bike for kids – The speeder bike has 2 stud shooters, 2 holders for blasters and space for 2 Clone Troopers
+- 4 LEGO Star Wars minifigures and 5 figures – A Clone Shock Trooper, 3 Clone Troopers, 3 Super Battle Droids and 2 Battle Droids with accessories
 - Star Wars vehicles and accessories – Includes a STAP speeder for a Battle Droid, a defensive post with stud shooter and a thermal detonator element
 - Unlimited creative play – This LEGO Star Wars set includes a tri-droid figure with a rotating top and 3 flick shooters, and much more
-- Buildable LEGO Star Wars toy speeder bike for kids – The speeder bike has 2 stud shooters, 2 holders for blasters and space for 2 Clone Troopers
-- Clone Trooper & Battle Droid Battle Pack – Recreate Star Wars: The Clone Wars scenes with Star Wars figures, minifigures, a speeder bike and more
-- 4 LEGO Star Wars minifigures and 5 figures – A Clone Shock Trooper, 3 Clone Troopers, 3 Super Battle Droids and 2 Battle Droids with accessories
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVY784R{{</world>}}

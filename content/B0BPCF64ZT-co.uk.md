@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- The princess dolls house set also includes: Princess Jasmine from Aladdin, Encantos Mirabel, Belle from Beauty and the Beast, Frozens Anna and Elsa
+- Plus Pocahontas, Alice from Alice in Wonderand, Wendy and Tinker Bell from Peter Pan LEGO | Disney mini-doll figures, plus lots of accessories
 - This LEGO | buildable toy playset makes a fun Disney gift for girls, boys and kids aged 7+, a cool room decor and addition to any Disney Princess collection
+- This big LEGO set includes a 2-level treehouse, a waterfall with slide and hidden cave, a zip line, hidden staircase, canoe and a campfire
 - With LEGO | Disney mini-doll figures of iconic heroine characters: Mulan, Raya from Raya and the Last Dragon, Moana, Princess and the Frogs Tiana
 - With this Disney Tree House playset kids can role-play reading, taking a canoe ride, honing their warrior skills or searching for hidden treasure
-- The princess dolls house set also includes: Princess Jasmine from Aladdin, Encantos Mirabel, Belle from Beauty and the Beast, Frozens Anna and Elsa
-- This big LEGO set includes a 2-level treehouse, a waterfall with slide and hidden cave, a zip line, hidden staircase, canoe and a campfire
-- Plus Pocahontas, Alice from Alice in Wonderand, Wendy and Tinker Bell from Peter Pan LEGO | Disney mini-doll figures, plus lots of accessories
 - Kids can celebrate Disneys 100th anniversary with this LEGO | Disney playset featuring a 2-level treehouse toy and 13 iconic heroine and Princess mini-doll figures
 
 [🛒 Buy it!!]({{< param buyurl >}})

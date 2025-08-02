@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This version of Jedi Master Yoda, Star Wars collectable figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any collection
 - Features intricate detailing, posable head and eyebrows, movable fingers and toes and Yoda’s favourite weapon, the green Lightsaber
+- Manufacturer recommended age: 10+
 - Yoda
 - Number of pieces: 1771
-- Manufacturer recommended age: 10+
-- This version of Jedi Master Yoda, Star Wars collectable figure with Lightsaber stands over 16” (41cm) tall, a centrepiece for any collection
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07NDB2SFH{{</world>}}

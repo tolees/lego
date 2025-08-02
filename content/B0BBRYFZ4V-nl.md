@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Als kinderen de spoiler aan de achterkant van de speelgoed auto indrukken, gaan de achterwielen omhoog en beweegt de auto op zijn drakenkrachtelementen
 - Bevat ook LEGO NINJAGO mini figuren van een Imperium gardecommandant met een zwaard en Imperium klauwjager met een elektrische staf, beide met coole zweefvliegers om op te vliegen tijdens gevechten
 - Deze 307-delige speelset laat gepassioneerde ninja-fans genieten van een leuk bouwwerk, voordat ze hun verbeelding de vrije loop kunnen laten, en is een fantastisch cadeau voor kinderen vanaf 7 jaar
-- De verzamelbare voertuig set bevat 2 blauwe drakenkrachtelementen; kinderen kunnen er nog 4 in andere kleuren verzamelen in andere NINJAGO sets (apart verkrijgbaar)
-- Als kinderen de spoiler aan de achterkant van de speelgoed auto indrukken, gaan de achterwielen omhoog en beweegt de auto op zijn drakenkrachtelementen
-- Het LEGO ninja speelgoed voor kinderen vanaf 7 jaar bevat Cole en Zane LEGO NINJAGO mini figuren, gewapend met elk 2 katanas, zodat kinderen scènes uit de NINJAGO Dragons Rising TV-serie kunnen naspelen
 - Kinderen kunnen actievolle verhalen uitspelen met deze LEGO NINJAGO set, inclusief een speelgoed raceauto met een nooit eerder vertoonde draaifunctie, plus 2 zweefvliegers en 4 mini figuren
+- De verzamelbare voertuig set bevat 2 blauwe drakenkrachtelementen; kinderen kunnen er nog 4 in andere kleuren verzamelen in andere NINJAGO sets (apart verkrijgbaar)
+- Het LEGO ninja speelgoed voor kinderen vanaf 7 jaar bevat Cole en Zane LEGO NINJAGO mini figuren, gewapend met elk 2 katanas, zodat kinderen scènes uit de NINJAGO Dragons Rising TV-serie kunnen naspelen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRYFZ4V{{</world>}}

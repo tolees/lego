@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed (sets apart verkrijgbaar) waaronder draken, mecha en voertuigen
-- Klaar voor de strijd – de ninjaminifiguren zijn gekleed in toernooiuitrustingen en ieder gewapend met een katana
-- Verjaardagscadeau voor kinderen – dit actiespeelgoed biedt een leuke bouw- en speelervaring en is een mooi verjaardagscadeau voor kinderen die graag samenwerken met hun ninjahelden
 - Afneembare ninjavoertuigen – het grote NINJAGO voertuig kan worden gesplitst in 4 kleinere voertuigen: Soras zweefvliegtuig met 2 noppenschieters, Lloyds offroad racewagen en Cole en Nyas motoren
-- 6 NINJAGO minifiguren – deze speelgoed set bevat de ninjas Sora, Lloyd, Nya en Cole, plus een Wolvenmasker strijder en Wolvenmasker generaal
-- Een universum vol ninja speelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
+- Verjaardagscadeau voor kinderen – dit actiespeelgoed biedt een leuke bouw- en speelervaring en is een mooi verjaardagscadeau voor kinderen die graag samenwerken met hun ninjahelden
 - 4-in-1 speelgoed voertuig voor kinderen – jongens en meisjes vanaf 9 jaar kunnen confrontaties uit seizoen 2 van de tv-serie NINJAGO Dragons Rising naspelen met het Ninjateam combivoertuig speelgoed voor kinderen
+- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed (sets apart verkrijgbaar) waaronder draken, mecha en voertuigen
+- 6 NINJAGO minifiguren – deze speelgoed set bevat de ninjas Sora, Lloyd, Nya en Cole, plus een Wolvenmasker strijder en Wolvenmasker generaal
+- Klaar voor de strijd – de ninjaminifiguren zijn gekleed in toernooiuitrustingen en ieder gewapend met een katana
+- Een universum vol ninja speelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2KSTB{{</world>}}

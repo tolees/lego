@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief een verstelbare LEGO tulkun zeedierenfiguur met vinnen, 4 ogen, een kaak die open kan, een felgekleurde hoofdkam en verschillende plekken waar kinderen de Navi minifiguren aan vast kunnen maken voor een tochtje door de zee van Pandora
-- Bij de set met constructie speelgoed zijn ook LEGO Avatar minifiguren van Lo’ak, Tsireya en een krabvoertuig bestuurder inbegrepen; de tulkun figuur en de duikboot kunnen worden bevestigd aan de 2 onderwateromgevingen voor een unieke eyecatcher
 - Kinderen beleven scènes uit Avatar: The Way of Water opnieuw met dit LEGO Avatar bouwspeelgoed, inclusief een gigantische verstelbare figuur van het walvisachtige wezen tulkun, een duikboot in de vorm van een krab, 2 zee-taferelen en 3 minifiguren
-- De speelgoed duikboot in de vorm van een krab heeft een draaiende propeller en beweegbare poten, plus een cockpit die open kan en waar ruimte is voor de minifiguur van de duikbootbestuurder
+- Bij de set met constructie speelgoed zijn ook LEGO Avatar minifiguren van Lo’ak, Tsireya en een krabvoertuig bestuurder inbegrepen; de tulkun figuur en de duikboot kunnen worden bevestigd aan de 2 onderwateromgevingen voor een unieke eyecatcher
+- Inclusief een verstelbare LEGO tulkun zeedierenfiguur met vinnen, 4 ogen, een kaak die open kan, een felgekleurde hoofdkam en verschillende plekken waar kinderen de Navi minifiguren aan vast kunnen maken voor een tochtje door de zee van Pandora
 - Fans van de tweede Avatar film zullen dit kleurrijke bouwspeelgoed geweldig vinden - het is een fantastisch verjaardagscadeau of een prachtig geschenk voor iedere andere gelegenheid, voor kinderen vanaf 10 jaar
+- De speelgoed duikboot in de vorm van een krab heeft een draaiende propeller en beweegbare poten, plus een cockpit die open kan en waar ruimte is voor de minifiguur van de duikbootbestuurder
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBV6Z4HF{{</world>}}

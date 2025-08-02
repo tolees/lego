@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Intuitive Anleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives Bauabenteuer mit. Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
+- Anschauliches Spielzeug-Sonnensystem: Kinder können die Kurbel drehen, um sich anzuschauen, wie Erde und Mond die Sonne umkreisen
 - Interaktives Modell: Das LEGO Technic Sonne Erde Mond Modell ist ein Bauspielzeug, das Kinder ab 10 Jahren das Verhältnis zwischen Erde, Mond und Sonne sowie die jeweiligen Umlaufbahnen darstellen lässt
 - Mit Monaten und Mondphasen: Auf dieses Spielzeug-Sonnensystem sind Details wie die Monate und die Mondphasen aufgedruckt, damit Kinder sich anschauen können, wie sich die Umlaufbahn der Erde um die Sonne auf unsere Jahreszeiten auswirkt
 - Geschenk für Kinder: Dieses Set ist ein faszinierendes Geschenk für Kinder ab 10 Jahren, die Spielzeugplaneten lieben und mehr über unser Sonnensystem erfahren möchten
-- Anschauliches Spielzeug-Sonnensystem: Kinder können die Kurbel drehen, um sich anzuschauen, wie Erde und Mond die Sonne umkreisen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYHXV5{{</world>}}

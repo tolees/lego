@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Manufacturer recommended age: 7+
-- The bottom of the slide has clever mirrored panels to make the mini dolls ‘disappear’: exit the slide at the rear to re-appear at the front!
 - Number of pieces: 545
+- The bottom of the slide has clever mirrored panels to make the mini dolls ‘disappear’: exit the slide at the rear to re-appear at the front!
 - Magical Ferris Wheel and Slide
+- Manufacturer recommended age: 7+
 - Comes with 3 LEGO Friends mini dolls dressed up in fair clothes and face paints, juggling clubs, a lollipop, top hat and a fairground map
 
 [🛒 Check the deal!!]({{< param buyurl >}})

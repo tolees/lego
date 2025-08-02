@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Entre los accesorios de las mini figuras LEGO está n violín de juguete, una scooter, una escoba, pizza, rodillo, batidora, tijeras, cepillo, botella, libro de cómic, una carta coleccionable de LEGO NINJAGO, motosierra y llave
-- Con este juguete de construcción los niños podrán combinar con facilidad las habitaciones modulares LEGO, tiendas de juguete y negocios para crear su propio Centro de la Ciudad y escenificar infinitas historias con las 14 minifiguras incluidas
 - También trae una placa de carretera LEGO para conectarla con cualquier otro set LEGO City como el Edificio de Apartamentos (60365) y el Parque Callejero de Skate (60364), además de la guía interactiva para construir de la aplicación LEGO Builder
 - El set de juguete del Centro de la Ciudad de LEGO City para niños viene con habitaciones modulares llenas de detalles divertidos y funciones para disfrutar de una experiencia de juego y construcción estupenda
-- Celebra una ocasión especial con ese set modular de construcción LEGO City; un gran regalo de cumpleaños o Navidad para niños y niñas a partir de 8 años
-- Incluye una barbería, una clínica veterinaria, un estudio de blogging, una discoteca en la azotea, una tienda de cómics, una tienda de tecnología, un centro de día, hotel, pizzeria, bar de zumos y puesto de noodles
+- Entre los accesorios de las mini figuras LEGO está n violín de juguete, una scooter, una escoba, pizza, rodillo, batidora, tijeras, cepillo, botella, libro de cómic, una carta coleccionable de LEGO NINJAGO, motosierra y llave
 - Hay un hotel LEGO con recepción, placas solares de juguete y aerogeneradores para abastecer el centro de la ciudad de LEGO City de energía, además de una zona acogedora de comida callejera donde los paseantes comen pizzas, noodles y beben algo
+- Incluye una barbería, una clínica veterinaria, un estudio de blogging, una discoteca en la azotea, una tienda de cómics, una tienda de tecnología, un centro de día, hotel, pizzeria, bar de zumos y puesto de noodles
+- Con este juguete de construcción los niños podrán combinar con facilidad las habitaciones modulares LEGO, tiendas de juguete y negocios para crear su propio Centro de la Ciudad y escenificar infinitas historias con las 14 minifiguras incluidas
+- Celebra una ocasión especial con ese set modular de construcción LEGO City; un gran regalo de cumpleaños o Navidad para niños y niñas a partir de 8 años
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC55SRJ{{</world>}}

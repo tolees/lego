@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features Asha, Dahlia and King Magnifico LEGO ǀ Disney Wish mini-dolls, plus a Star LEGO ǀ Disney figure for kids to explore the detailed castle
 - Also inside the Disney palace, kids will find a mirrored wardrobe, a lab with altar and book, plus a room with removable pyramid roof and more
 - Young builders can create their own Kingdom of Rosas by combining this fun toy castle with the other LEGO ǀ Disney Wish building toys in the series (43223 and 43231, sold separately)
-- Every room allows kids to make their own stories, like sharing a slice of cake with Dahlia in the kitchen, or trying out the lab with the characters
-- This LEGO ǀ Disney Wish building toy toy for 7+ year old girls, boys and all fans encourages play and looks good on display afterwards; a great Disney-themed Christmas gift or any time treat for kids who love Disney movies and LEGO castles
+- Features Asha, Dahlia and King Magnifico LEGO ǀ Disney Wish mini-dolls, plus a Star LEGO ǀ Disney figure for kids to explore the detailed castle
 - The 4-storey LEGO ǀ Disney buildable castle toy includes multiple play areas for kids to explore like a kitchen with a fireplace and bakery counter
 - Fans of the Walt Disney Animation Studios Wish movie can solve a mystery with this LEGO Disney Wish King Magnificos Castle buildable toy playset
+- Every room allows kids to make their own stories, like sharing a slice of cake with Dahlia in the kitchen, or trying out the lab with the characters
+- This LEGO ǀ Disney Wish building toy toy for 7+ year old girls, boys and all fans encourages play and looks good on display afterwards; a great Disney-themed Christmas gift or any time treat for kids who love Disney movies and LEGO castles
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7G6RFS{{</world>}}

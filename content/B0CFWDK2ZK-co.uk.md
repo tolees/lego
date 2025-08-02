@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Explore a passion – With a LEGO ǀ Disney mini-doll figure, a buildable flowerpot and flowers to decorate it, the building set encourages a passion for design and develops life skills through fun
-- Disney Princess building toy – This set lets fans build the flowerpot and place the flowers how they like and open it for creative play options
 - Hidden space – Inside the flowerpot is Isabela’s room, with a bed, cactus and LEGO orchids and space for the LEGO | Disney Isabela mini-doll figure
-- LEGO ǀ Disney Encanto building toy for kids – Inspire girls and boys aged 9+ with this Isabela’s Flowerpot set, featuring an Isabela mini-doll figure
+- Disney Princess building toy – This set lets fans build the flowerpot and place the flowers how they like and open it for creative play options
 - Gift for kids – Featuring an opening function and designed for play and display, the construction set makes a fun Disney-themed gift for 9+ year old girls, boys and fans
 - Creative possibilities – The Disney Encanto building toy includes an opening flowerpot with a basket design inspired by the film and flowers
 - A helping hand – The LEGO Builder app lets your kids save sets, track their progress, zoom in and rotate their LEGO building toy set in 3D
+- Explore a passion – With a LEGO ǀ Disney mini-doll figure, a buildable flowerpot and flowers to decorate it, the building set encourages a passion for design and develops life skills through fun
+- LEGO ǀ Disney Encanto building toy for kids – Inspire girls and boys aged 9+ with this Isabela’s Flowerpot set, featuring an Isabela mini-doll figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFWDK2ZK{{</world>}}

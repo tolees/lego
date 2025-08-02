@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Art: Konstruktionsspielzeug
-- Serie: Disney Princess
 - Teile: 47 -teilig
+- Serie: Disney Princess
 - Material: Kunststoff
 - Altersangabe: ab 6 Jahren
 

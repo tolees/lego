@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Players aged 8+ team up with Donkey Kong in the jungle for banana-gifting, conga drum-playing fun with this LEGO Super Mario toy Expansion Set
+- With LEGO Mario, LEGO Peach or LEGO Luigi (figures not included): kids can ride on Donkey Kongs back, visit Cranky Kong and play conga drums
 - Includes 2 LEGO Super Mario figures: Donkey Kong and Cranky Kong, and requires a Starter Course (71360, 71387 or 71403) for interactive play
 - Kids can explore the LEGO treehouse toy with a TV, radio and secret compartment, take a nap in the hammock or knock a banana off of the palm tree
 - This modular set combines with other LEGO Super Mario sets; check out the LEGO Super Mario Companion app, for building instructions and more
 - This 555-piece set is a great toy perfect as a birthday gift for 8-plus-year-old boys, girls and kids who love Super Mario buildable games and toys
-- With LEGO Mario, LEGO Peach or LEGO Luigi (figures not included): kids can ride on Donkey Kongs back, visit Cranky Kong and play conga drums
+- Players aged 8+ team up with Donkey Kong in the jungle for banana-gifting, conga drum-playing fun with this LEGO Super Mario toy Expansion Set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7DN2LB{{</world>}}

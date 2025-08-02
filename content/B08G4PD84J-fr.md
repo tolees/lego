@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Cette maquette de voiture ECTO-1 offre une expérience de construction agréable et des heures de plaisir, le cadeau idéal pour les fans de modélisme de voiture ou de SOS Fantômes
 - Cette maquette de voiture à construire représente le véhicule emblématique de SOS Fantômes, ECTO-1, inspiré par la Cadillac Miller-Meteor Futura Duplex de 1959
+- Découvrez le mécanisme qui fait jaillir et pivoter le siège arrière et d’autres éléments fascinants attachés au véhicule de façon unique
 - La voiture regorge de détails effrayants : une direction fonctionnelle, une trappe avec un piège à fantôme, un siège arrière mitrailleur et un renifleur de fantômes mobile
+- Ce set d’activité manuelle pour adultes fans de SOS Fantômes : L’Héritage inclut le pack de protons qui sort du panneau latéral pour piéger les goules et fantômes
 - Contient 2352 pièces
 - Ce set LEGO pour adultes contient les équipements de détection de phénomènes paranormaux de SOS Fantômes, dont tous les détails sont expliqués dans le guide collector
-- Découvrez le mécanisme qui fait jaillir et pivoter le siège arrière et d’autres éléments fascinants attachés au véhicule de façon unique
-- Ce set d’activité manuelle pour adultes fans de SOS Fantômes : L’Héritage inclut le pack de protons qui sort du panneau latéral pour piéger les goules et fantômes
 - LEGO model car kits to build for adults make a fantastic birthday or Christmas Ghostbusters gift for anyone looking for a next LEGO project
 
 [🛒 Check the deal!!]({{< param buyurl >}})

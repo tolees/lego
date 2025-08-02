@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Mit der Löschkanone auf dem Boot Spielzeug und aus dem Raketenrucksack kann dein Kind LEGO Wasserelemente verspritzen, um die LEGO-Flammen zu löschen und den Piloten des Rennboots in Not zu retten
 - Enthält eine interaktive digitale Bauanleitung in der kostenlosen LEGO Builder App für Smartphones und Tablets, mit der Kinder die Modelle beim Bauen zoomen, drehen und aus allen Winkeln betrachten können
 - Kinder können mit diesem coolen LEGO City Set, das zwei Spielzeug-Boote, die auf dem Wasser schwimmen, sowie einen Raketenrucksack enthält, bei spannenden Einsätzen zur Rettung eilen
-- LEGO City Spielzeug ist eine tolle Geschenkidee zum Geburtstag und für jeden Anlass oder als Überraschung für Jungen und Mädchen, die Feuerwehr-Spielzeug und Action lieben
 - Mit dem Spielzeug-Boot, das im Wasser schwimmt, können Kinder spannende Abenteuer auf dem Wasser erleben und Rettungsaktionen durchführen
+- LEGO City Spielzeug ist eine tolle Geschenkidee zum Geburtstag und für jeden Anlass oder als Überraschung für Jungen und Mädchen, die Feuerwehr-Spielzeug und Action lieben
+- Mit der Löschkanone auf dem Boot Spielzeug und aus dem Raketenrucksack kann dein Kind LEGO Wasserelemente verspritzen, um die LEGO-Flammen zu löschen und den Piloten des Rennboots in Not zu retten
 - Mit diesem Spielzeug für Kinder ab 5 Jahren mit mehreren Fahrzeugen können sich Kinder den 3 enthaltenen LEGO Minifiguren auf fantastischen Missionen im Wasser anschließen
 
 [🛒 Buy it!!]({{< param buyurl >}})

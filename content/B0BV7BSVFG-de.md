@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Sieh dir weitere LEGO Indiana Jones Sets an, wie z. B. die Flucht vor dem Jagdflugzeug (77012) und den Tempel des goldenen Götzen (77015)
-- Enthält 4 LEGO Indiana Jones Minifiguren, darunter kultige Charaktere: Indiana Jones mit seinem berühmten Hut und seiner Peitsche, Marion Ravenwood, Sallah und eine Mumie
-- Mit diesem Set mit 2 Statuen, einer Spielzeug-Mumie und Schlangen, die sowohl auf dem Boden liegen als auch durch eine Wand kommen, können Kinder eine Szene aus dem Film Raiders of the Lost Ark nachspielen.
 - Die Anubis-Statue kann herunterfallen und eine Wand durchbrechen, um einen versteckten Gang freizulegen, in dem eine LEGO Spielzeug Mumie erscheint, die den fliehenden Indiana Jones erschreckt
 - Dieses interaktive LEGO Indiana Jones Set enthält einen detaillierten, baubaren Tempel, in dem Kinder ab 8 Jahren eine epische Flucht nachspielen können.
+- Enthält 4 LEGO Indiana Jones Minifiguren, darunter kultige Charaktere: Indiana Jones mit seinem berühmten Hut und seiner Peitsche, Marion Ravenwood, Sallah und eine Mumie
+- Mit diesem Set mit 2 Statuen, einer Spielzeug-Mumie und Schlangen, die sowohl auf dem Boden liegen als auch durch eine Wand kommen, können Kinder eine Szene aus dem Film Raiders of the Lost Ark nachspielen.
+- Sieh dir weitere LEGO Indiana Jones Sets an, wie z. B. die Flucht vor dem Jagdflugzeug (77012) und den Tempel des goldenen Götzen (77015)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BSVFG{{</world>}}

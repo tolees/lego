@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Wat zit er in de doos? – deze bouwset bevat een speelgoed vrachtwagen met oplegger, een taildragger in de stijl van de jaren 50, een muscle car uit de jaren 70 en een modern model van een elektrische auto, plus 4 LEGO minifiguren
+- Transporttruck met leuke speelgoedaccessoires – dit bouwpakket voor kinderen bevat LEGO minifiguuraccessoires om te doen alsof, waaronder een EHBO-doos en een brandblusser
+- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - Leuke aanvulling op elke verzameling speelgoedautos – kinderen kunnen de bestuurderscabine kantelen om bij de motor te komen, de oplegger vastmaken en de oprijplaten op het bovendek en het benedendek laten zakken om de 3 speelgoed autos in te laden
 - Leuk cadeau voor kinderen – geef deze bouwbare LEGO auto set cadeau aan jongens en meisjes van 7 jaar en ouder voor een verjaardag, de feestdagen of een andere gelegenheid
 - Digitaal bouwplezier – deze LEGO vrachtwagen- en autoset bevat instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden en tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
-- Transporttruck met leuke speelgoedaccessoires – dit bouwpakket voor kinderen bevat LEGO minifiguuraccessoires om te doen alsof, waaronder een EHBO-doos en een brandblusser
 - Speelset met transportwagen – fans van speelgoedvoertuigen zullen dol zijn op deze LEGO City Transportvoertuig met sportautos speelgoed bouwpakket voor jongens en meisjes vanaf 7 jaar
-- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
-- Wat zit er in de doos? – deze bouwset bevat een speelgoed vrachtwagen met oplegger, een taildragger in de stijl van de jaren 50, een muscle car uit de jaren 70 en een modern model van een elektrische auto, plus 4 LEGO minifiguren
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2155C{{</world>}}

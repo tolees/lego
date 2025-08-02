@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- GEBURTSTAGSGESCHENK FÜR KINDER AB 2 JAHREN: Dieses ABC-Spiel ist ein lustiges Geschenk für 2-jährige Kleinkinder, die LEGO Fahrzeuge lieben und schon erste Buchstaben erkennen können
 - FANTASIEVOLLES ZUBEHÖR: Eine LEGO DUPLO Spielzeug-Stereoanlage ermutigt Kleinkinder dazu, das ABC zu singen, und das beigefügte Buch bringt sie auf die Idee, die Buchstaben vorzulesen
+- GEBURTSTAGSGESCHENK FÜR KINDER AB 2 JAHREN: Dieses ABC-Spiel ist ein lustiges Geschenk für 2-jährige Kleinkinder, die LEGO Fahrzeuge lieben und schon erste Buchstaben erkennen können
 - KREATIVES MOTORIKSPIELZEUG ZUM BAUEN: Kleinkinder können die LEGO Buchstaben-Steine nach Farbe sortieren, den Lastwagen mit ihnen beladen, um eigene Wörter zu bilden, und eine Runde mit dem LKW drehen
 - MONTESSORI SPIELZEUG ZUM BUCHSTABEN LERNEN: Der LEGO DUPLO Town ABC-Lastwagen lässt Vorschulkinder ab 2 Jahren bei einem lustigen Rollenspiel das ABC lernen
 - LERNSPIELZEUG FÜR VORSCHULKINDER: Beinhaltet einen fahrbaren Spielzeug-LKW mit abnehmbarem Anhänger, 2 LEGO DUPLO Figuren und 26 ABC-Steine

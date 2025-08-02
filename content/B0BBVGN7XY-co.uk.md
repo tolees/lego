@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kids can "swim" with Ariel micro doll and explore her cave, wander into Ursula’s mysterious lair then visit Prince Eric’s library on the surface
 - This portable playset features Ursula’s lair with a folding shell throne, Prince Eric’s library and Ariel’s cave with revolving statue and key
-- This LEGO | Disney Princess portable playset can be played on its own or added to other LEGO | Disney sets (sold separately) for more magical fun
-- Based on The Little Mermaid 2023 live-action film, the set includes Ariel, Prince Eric and Ursula micro dolls plus a Sebastian LEGO crab figure
-- The story book playsets and Disney Princess toys for kids, girls and boys aged 5+ make a great creative birthday gift idea for fans of travel toys
-- The Little Mermaid fans can discover a new world with this LEGO | Disney Princess building toy - an opening book playset and 3 micro doll figures
 - Kids get lots of creative options for play with this lockable book; a complete micro-world full of details, elements and functions awaits!
+- Kids can "swim" with Ariel micro doll and explore her cave, wander into Ursula’s mysterious lair then visit Prince Eric’s library on the surface
+- This LEGO | Disney Princess portable playset can be played on its own or added to other LEGO | Disney sets (sold separately) for more magical fun
+- The Little Mermaid fans can discover a new world with this LEGO | Disney Princess building toy - an opening book playset and 3 micro doll figures
+- The story book playsets and Disney Princess toys for kids, girls and boys aged 5+ make a great creative birthday gift idea for fans of travel toys
+- Based on The Little Mermaid 2023 live-action film, the set includes Ariel, Prince Eric and Ursula micro dolls plus a Sebastian LEGO crab figure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBVGN7XY{{</world>}}

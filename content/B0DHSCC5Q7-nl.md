@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ninjacadeau voor kinderen – deze kleine LEGO set biedt een leuke bouw- en speelervaring en is een verrassing voor ninjafans die dol zijn op fantasierijk spelen en avonturenspeelgoed
-- LEGO NINJAGO speelgoedset voor kinderen – jongens en meisjes vanaf 6 jaar kunnen scènes uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen met het Spinjitzu drakenstrijdpakket
-- Een universum vol LEGO NINJAGO speelgoed – de uitgebreide collectie kinderspeelgoed (sets apart verkrijgbaar) laat kinderen ontsnappen naar een fantasierijke wereld met hun ninjahelden
-- 2 snelle spinners – kinderen kunnen de drakenspinners van Arin en Ras in hun lanceerders plaatsen en ze tollend op elkaar laten afgaan voor spannende duels
-- Afmetingen – deze 186-delige LEGO bouwset bevat een arenatempel van ca. 14 cm hoog, 16 cm breed en 3 cm diep
-- Tempel van de gevechtsarena met instortfunctie – Arin en Ras kunnen hun spinners upgraden met speciale gouden elementen, die ze winnen door de gevechtsarena te raken en in te laten storten
-- 2 minifiguren van NINJAGO personages – deze bouwset voor kinderen bevat ninja Arin gewapend met een zwaard en de gemene Ras met een zwaard
 - Grotere ninja-avonturen – kijk ook eens naar ander LEGO NINJAGO speelgoed (sets apart verkrijgbaar), waaronder draken, tempels en voertuigen
+- Een universum vol LEGO NINJAGO speelgoed – de uitgebreide collectie kinderspeelgoed (sets apart verkrijgbaar) laat kinderen ontsnappen naar een fantasierijke wereld met hun ninjahelden
+- LEGO NINJAGO speelgoedset voor kinderen – jongens en meisjes vanaf 6 jaar kunnen scènes uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen met het Spinjitzu drakenstrijdpakket
+- Tempel van de gevechtsarena met instortfunctie – Arin en Ras kunnen hun spinners upgraden met speciale gouden elementen, die ze winnen door de gevechtsarena te raken en in te laten storten
+- Afmetingen – deze 186-delige LEGO bouwset bevat een arenatempel van ca. 14 cm hoog, 16 cm breed en 3 cm diep
+- 2 snelle spinners – kinderen kunnen de drakenspinners van Arin en Ras in hun lanceerders plaatsen en ze tollend op elkaar laten afgaan voor spannende duels
+- Ninjacadeau voor kinderen – deze kleine LEGO set biedt een leuke bouw- en speelervaring en is een verrassing voor ninjafans die dol zijn op fantasierijk spelen en avonturenspeelgoed
+- 2 minifiguren van NINJAGO personages – deze bouwset voor kinderen bevat ninja Arin gewapend met een zwaard en de gemene Ras met een zwaard
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCC5Q7{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Story starters – This LEGO set also lets Disney fans use their imaginations to play out a cosy night of roasting marshmallows around the campfire
 - Loads of cool features – The buildable Frozen castle also has a spinning dance floor, a fireplace and an animal feeding area
-- Buildable castle toy – Features a castle inspired by Frozen, LEGO Disney Elsa and Anna mini-doll figures, and Bruni and baby reindeer animal toys
 - Birthday gift for kids – Makes a fun Disney Frozen-themed gift for 4+ year old girls, boys and Disney fans who love unlimited play options to kick-start the storytelling fun
-- Imaginative Play – The play area in this LEGO 4+ set has swing seats, a slide and an opening treasure chest to help kids create their own stories
-- Elsa building toy for kids aged 4+ – Thrill girls and boys with Elsa’s Frozen Castle building toy for kids to play out their own fairy-tale stories
 - Intuitive instructions – The LEGO Builder app guides your youngster on an intuitive building adventure with tools that let them zoom in and rotate models in 3D, save sets and track their progress
+- Elsa building toy for kids aged 4+ – Thrill girls and boys with Elsa’s Frozen Castle building toy for kids to play out their own fairy-tale stories
+- Story starters – This LEGO set also lets Disney fans use their imaginations to play out a cosy night of roasting marshmallows around the campfire
+- Imaginative Play – The play area in this LEGO 4+ set has swing seats, a slide and an opening treasure chest to help kids create their own stories
+- Buildable castle toy – Features a castle inspired by Frozen, LEGO Disney Elsa and Anna mini-doll figures, and Bruni and baby reindeer animal toys
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2WMSF{{</world>}}

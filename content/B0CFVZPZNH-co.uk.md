@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Packed with features – 4-wheel-drive off-road vehicle, feeding station, a research area with solar panels, cave wall and a computer workstation
 - Research centre – The 5 dinosaur figures include a baby Ankylosaurus toy, Triceratops and Velociraptor, a small Velociraptor and an adult Pteranodon
-- Kids dinosaur toys – This LEGO Jurassic World Baby Dinosaur Rescue Centre toy for boys and girls aged 4+ features Darius and Sammy minifigures
 - Printed and digital instructions – Find step-by-step pictorial instructions in the box and check out the LEGO Builder app for digital instructions, plus zoom and rotate viewing tools
 - Jurassic World Toys – Kids can learn to build while developing creative storytelling skills as they role-play caring for the baby dinosaur figures
 - Special occasion gift – This LEGO 4+ Jurassic World dino toys set makes a great birthday or Christmas gift to inspire Jurassic Park-related play
+- Packed with features – 4-wheel-drive off-road vehicle, feeding station, a research area with solar panels, cave wall and a computer workstation
+- Kids dinosaur toys – This LEGO Jurassic World Baby Dinosaur Rescue Centre toy for boys and girls aged 4+ features Darius and Sammy minifigures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZPZNH{{</world>}}

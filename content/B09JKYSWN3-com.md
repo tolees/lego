@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- LEGO recreations of the Mercedes-AMG F1 W12 E Performance and Mercedes-AMG Project One – 2 replica models for kids and car fans with a passion for vehicles that push the limits of race car innovation
 - What’s in the box? – All you need to build a LEGO recreation of the Mercedes-AMG F1 W12 E Performance and AMG Project One, plus 2 driver minifigures, each with a racing helmet, wig and wrench
 - Easy to carry and store – The Mercedes-AMG F1 W12 E Performance model measures over 1.5 in. (4cm) high, 7.5 in. (19cm) long and 2.5 in. (7cm) wide
 - Collect, play and display – This winning combination is great for display and epic Speed Championsrace action
-- LEGO recreations of the Mercedes-AMG F1 W12 E Performance and Mercedes-AMG Project One – 2 replica models for kids and car fans with a passion for vehicles that push the limits of race car innovation
 - A gift for any occasion – This 564-piece LEGO Speed Champions Mercedes-AMG F1 W12 E Performance & Mercedes-AMG Project One (76909) building set is designed for car and race fans aged 9 and up
 
 [🛒 Check the deal!!]({{< param buyurl >}})

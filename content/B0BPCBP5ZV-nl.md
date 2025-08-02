@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Er is ook een zweefvliegtuig gewapend met 2 noppenschieters voor Rapton om op te vliegen, plus een Baby Riyu draken figuur waar kinderen spannende verhalen mee kunnen uitspelen
+- De LEGO NINJAGO 2in1 set bestaat uit een verstelbare ninja mecha actiefiguur die transformeert in motor speelgoed voor kinderen om race-actie uit de NINJAGO Dragons Rising tv-serie na te spelen
 - Deze ninja mecha actiefiguur en motor is een leuk verjaardagscadeau voor kinderen vanaf 8 jaar en fans van de NINJAGO Dragons Rising TV serie
+- Ontdek ook Heatwave transformerende lavadraak (71793), Lloyd en Arins ninjateammecha (71794) en andere sets in het LEGO NINJAGO assortiment voor nog meer plezier
 - Inclusief 3 LEGO NINJAGO mini figuren - Arin gewapend met een katana en grijphaak, Sora met 2 katanas, en Rapton met een Imperium zwaard
 - Kinderen kunnen de indrukwekkende verstelbare mecha snel en makkelijk omtoveren tot een supersnelle ninja speelgoed motor die gewapend is met gouden messen en 2 noppenschieters
-- Ontdek ook Heatwave transformerende lavadraak (71793), Lloyd en Arins ninjateammecha (71794) en andere sets in het LEGO NINJAGO assortiment voor nog meer plezier
-- De LEGO NINJAGO 2in1 set bestaat uit een verstelbare ninja mecha actiefiguur die transformeert in motor speelgoed voor kinderen om race-actie uit de NINJAGO Dragons Rising tv-serie na te spelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCBP5ZV{{</world>}}

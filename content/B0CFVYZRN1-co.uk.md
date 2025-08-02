@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Build together – This kids’ set makes a great companion to the LEGO Technic Mercedes-AMG F1 W14 E Performance (42171) set for adults (sold separately) so kids and adults can build together
-- Race car toy – This LEGO Technic Mercedes-AMG F1 W14 E Performance Pull-Back car toy for 7+-year-old boys and girls has fun racing details
-- Car racing gift idea for kids – This Mercedes-AMG F1 W14 building set makes a fun gift for 7-plus-year-old boys and girls who love cool LEGO vehicles
 - Inspire role play – Kids can imagine what it’s like to be in a real racing car as they use the pull-back action to send the car toy racing along
+- Race car toy – This LEGO Technic Mercedes-AMG F1 W14 E Performance Pull-Back car toy for 7+-year-old boys and girls has fun racing details
 - Inspire a passion for engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce LEGO builders to the engineering world
 - Authentic livery – Give kids a fun project as they assemble the details of this model car and add the sticker details inspired by the real-world car
+- Car racing gift idea for kids – This Mercedes-AMG F1 W14 building set makes a fun gift for 7-plus-year-old boys and girls who love cool LEGO vehicles
+- Build together – This kids’ set makes a great companion to the LEGO Technic Mercedes-AMG F1 W14 E Performance (42171) set for adults (sold separately) so kids and adults can build together
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYZRN1{{</world>}}

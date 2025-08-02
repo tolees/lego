@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - LEGO Technic collectible auto en voertuig modelbouwsets laten kinderen op een leuke manier kennismaken met de wereld van techniek en zijn een geweldig cadeau-idee voor elke gelegenheid
 - Dit modelauto bouwspeelgoed heeft een opvallend kleurenschema en ziet er geweldig uit als onderdeel van een LEGO Technic collectie of op zichzelf
-- Kinderen kunnen meer leren over techniek en bouwen op de LEGO Builder app, plus tools ontdekken die hun bouwproject makkelijker en leuker maken
-- Jonge racefans vanaf 9 jaar kunnen hun eigen versie van de NASCAR Next Gen Chevrolet Camaro ZL1 raceauto bouwen met deze bouwbare LEGO autoset
 - Dit auto speelgoed om te bouwen zit vol realistische functies, zoals de besturing, een motorkap die kan openen, design stickers en een V8-motor met bewegende zuigers
+- Jonge racefans vanaf 9 jaar kunnen hun eigen versie van de NASCAR Next Gen Chevrolet Camaro ZL1 raceauto bouwen met deze bouwbare LEGO autoset
+- Kinderen kunnen meer leren over techniek en bouwen op de LEGO Builder app, plus tools ontdekken die hun bouwproject makkelijker en leuker maken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRWZ6BG{{</world>}}

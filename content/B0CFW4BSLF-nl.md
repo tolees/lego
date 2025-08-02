@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Een cadeautip voor kinderen – deze set is een leuk cadeau voor jongens en meisjes die van bouwbare ruimtevoertuigen houden
 - Aanpasbaar aan verschillende terreinen – jonge ruimteverkenners kunnen de lader op de proef stellen terwijl ze zich voorstellen hoe het zou zijn om op een andere planeet te leven en te werken
+- Ruimtevoertuig voor kinderen vanaf 8 jaar – dit ruimteverkenningsspeelgoed voor jongens en meisjes beschikt over besturing, een kraan en een bestuurderscabine en kan omhoog en omlaag bewegen voor urenlang fantasierijk speelplezier
 - Luchtsluis kan met andere modellen worden verbonden – deze set bevat een speciaal luchtsluiselement, zodat kinderen hem kunnen koppelen aan andere compatibele LEGO cadeaus met ruimtethema (apart verkrijgbaar) voor nog meer avonturen
 - Beweegbare kraan – kinderen kunnen de bestuurderscabine omhoog brengen en de kraan omhoog en omlaag laten bewegen om ladingen op te pakken en te verplaatsen
-- Ruimtevoertuig voor kinderen vanaf 8 jaar – dit ruimteverkenningsspeelgoed voor jongens en meisjes beschikt over besturing, een kraan en een bestuurderscabine en kan omhoog en omlaag bewegen voor urenlang fantasierijk speelplezier
-- Een cadeautip voor kinderen – deze set is een leuk cadeau voor jongens en meisjes die van bouwbare ruimtevoertuigen houden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW4BSLF{{</world>}}

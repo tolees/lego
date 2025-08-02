@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Bevat een Rover model met 360°-besturing en een beweegbare arm, plus volledig flexibele ophanging waardoor het voertuig op 6 wielen grip behoudt op oneffen oppervlakken, plus een krachtbron, antennes, cameras en wetenschappelijke instrumenten
 - De LEGO ruimte speelgoed set bevat ook een bouwbare speelgoedversie van NASAs Ingenuity helikopter, die de Perseverance Rover vergezelde en werd gebruikt om een gemotoriseerde vlucht op Mars te testen
-- LEGO Technic NASA model sets met realistische bewegingen en mechanismen introduceren jonge LEGO bouwers in de wereld van techniek en wetenschap
 - Deze Mars Rover Perseverance bouwset is een buitengewoon verjaardagscadeau voor kinderen vanaf 10 jaar met een passie voor ruimteonderzoek of wetenschappelijke en technologische projecten
 - Educatief speelgoed voor wetenschappers in spe - met de bijbehorende augmented reality app kunnen kinderen in de details van de rover en zijn missie duiken
 - Kinderen vanaf 10 jaar kunnen meer leren over de ruimtevaart met dit LEGO Technic NASA Mars Rover Perseverance bouwpakket inclusief AR app
-- Bevat een Rover model met 360°-besturing en een beweegbare arm, plus volledig flexibele ophanging waardoor het voertuig op 6 wielen grip behoudt op oneffen oppervlakken, plus een krachtbron, antennes, cameras en wetenschappelijke instrumenten
+- LEGO Technic NASA model sets met realistische bewegingen en mechanismen introduceren jonge LEGO bouwers in de wereld van techniek en wetenschap
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC8W2GD{{</world>}}

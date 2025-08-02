@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Accessory elements include the McLaren racing driver’s helmet and a spanner.
 - This cool LEGO version of the road car is inspired by the late, great and legendarily daring racing driver Ayrton Senna.
 - The race-ready, buildable McLaren Senna features a minifigure cockpit,removable windshield, wheels with rubber tyres and interchangeable rims, rearspoiler, translucent light-style elements, McLaren and Senna logo stickersand authentic design details.
-- Accessory elements include the McLaren racing driver’s helmet and a spanner.
 - Also includes a buildable wind tunnel with a rotating fan.
 - Includes a McLaren racing driver minifigure in a racing suit featuring the McLaren Senna and Pirelli logos - remove the windshield to place the minifigure in the car.
 

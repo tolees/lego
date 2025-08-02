@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen kunnen een iconische locatie toevoegen aan hun LEGO Super Mario wereld met deze Peach kasteel uitbreiding, met 5 poppetjes en een heleboel leuke uitdagingen
-- In de LEGO Super Mario app vinden kinderen bouwinstructies en een heleboel creatieve ideeën en inspiratie; ga naar LEGO.com/devicecheck voor een lijst met compatibele Android- en iOS-apparaten
 - Het speelgoed bevat ook een Speciale Buis: Peach kasteel, een tijdblok, een ingestorte brug en 5 LEGO Super Mario poppetjes: Bowser, Ludwig, Toadette, een Goomba en een Bob-omb
 - Om met deze bouwbare versie van de Super Mario games te kunnen spelen hebben kinderen een LEGO Super Mario startset nodig (71360, 71387 of 71403); deze modulaire speelset kan worden gecombineerd met ander LEGO Super Mario speelgoed
-- Deze set is een leuk geschenk, om kinderen vanaf 8 jaar die dol zijn op LEGO Super Mario constructie speelgoed mee te verrassen
 - Inclusief een glas-in-loodraam met een afbeelding van prinses Peach, een schilderij van een Bob-omb met een verborgen actietag, een taart met daarin een Goomba, paars fruit en meer
+- Kinderen kunnen een iconische locatie toevoegen aan hun LEGO Super Mario wereld met deze Peach kasteel uitbreiding, met 5 poppetjes en een heleboel leuke uitdagingen
 - Kinderen helpen LEGO Mario, LEGO Luigi of LEGO Peach (poppetjes niet inbegrepen) om het schuifplatform te activeren en de muur met daarachter Bowser te laten draaien, daarna springen ze op de hefbomen om hem omver te gooien
+- Deze set is een leuk geschenk, om kinderen vanaf 8 jaar die dol zijn op LEGO Super Mario constructie speelgoed mee te verrassen
+- In de LEGO Super Mario app vinden kinderen bouwinstructies en een heleboel creatieve ideeën en inspiratie; ga naar LEGO.com/devicecheck voor een lijst met compatibele Android- en iOS-apparaten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFZW3V6{{</world>}}

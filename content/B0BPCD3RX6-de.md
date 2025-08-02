@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Dieses Drachenspielzeug enthält die NINJAGO Minifiguren Kai und Lloyd, die jeweils mit 2 Katanas bewaffnet sind, Wyldfyre mit ihrer Feuerballfaust, den Kaiserlichen Klauenjäger mit einem Kaiserlichen Schwert und Lord Ras mit einem goldenen Hammer
-- Kinder können die LEGO NINJAGO Drachenfigur auf den Kopf stellen, um vom friedlichen Modus in den Kampfmodus zu wechseln und ein lilafarbenes Drachenpower-Element aus seiner Brust zu schießen
 - Lord Ras kann bei dem Fabelwesen Spielzeug auf einem Hovercraft in die Schlacht fliegen, das eine Funktion hat, die es ihm erlaubt, sich zu drehen, wenn er vom Drachenpower-Element getroffen wird, oder es zu packen
+- Kinder können die LEGO NINJAGO Drachenfigur auf den Kopf stellen, um vom friedlichen Modus in den Kampfmodus zu wechseln und ein lilafarbenes Drachenpower-Element aus seiner Brust zu schießen
 - Junge Ninjas begeben sich auf eine waghalsige Mission, um Wyldfyres Drachen zu retten - mit diesem LEGO NINJAGO Spielzeug, das eine verwandelbare Drachenfigur und 5 Minifiguren enthält
 
 [🛒 Check the deal!!]({{< param buyurl >}})

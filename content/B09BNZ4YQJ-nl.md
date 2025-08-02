@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dit Buzz Lightyear constructie speelgoed voor kinderen vanaf 8 jaar bevat een ruimteschip om zelf te bouwen, 3 minifiguren, een LEGO robotkat figuur en 3 wapens
-- Dit leuke bouwmodel bevat een standaard, zodat de blikvanger na alle speelpret mooi kan pronken in een kinderkamer
 - Combineer deze bouwset met Zyclops achtervolging (76830) en Gevecht met Zurg (76831) voor nog meer Buzz Lightyear actie voor fans van LEGO | Disney en Pixar ruimte speelgoed
-- Inclusief Darby’s ‘Mr. Boom’ raketlanceerder en de laptop van Sox de robotkat, zodat fans hun favoriete scènes uit de film Lightyear na kunnen spelen
-- Het speelgoedruimteschip bevat een cockpit die open kan, met plek voor de LEGO Buzz Lightyear minifiguur, en een uitneembare brandstofcel
+- Dit leuke bouwmodel bevat een standaard, zodat de blikvanger na alle speelpret mooi kan pronken in een kinderkamer
+- Dit Buzz Lightyear constructie speelgoed voor kinderen vanaf 8 jaar bevat een ruimteschip om zelf te bouwen, 3 minifiguren, een LEGO robotkat figuur en 3 wapens
 - Een creatief cadeau voor jongens en meisjes vanaf 8 jaar die graag ruimteavonturen beleven en helemaal weg zijn van de Disney en Pixar film Lightyear
+- Het speelgoedruimteschip bevat een cockpit die open kan, met plek voor de LEGO Buzz Lightyear minifiguur, en een uitneembare brandstofcel
+- Inclusief Darby’s ‘Mr. Boom’ raketlanceerder en de laptop van Sox de robotkat, zodat fans hun favoriete scènes uit de film Lightyear na kunnen spelen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNZ4YQJ{{</world>}}

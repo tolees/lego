@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Early development and activity toys – Toddlers finesse fine motor skills by opening the cash registers drawer and placing elements in the trolley
-- Real-life role play – The shop toy includes a freezer with an opening door, a movable shopping trolley, a self-checkout and lots of food elements
 - Toddler learning toys – LEGO DUPLO building toys are expertly designed to support a raft of early-years development, including logical thinking and self-expression
 - Gift idea – This DUPLO bricks set is a fun Peppa Pig-themed gift for 2+-year-old girls, boys and toddlers who love Peppa Pig toys and the TV show
+- Real-life role play – The shop toy includes a freezer with an opening door, a movable shopping trolley, a self-checkout and lots of food elements
 - Shopping fun – Toddlers recreate scenes from their favourite TV show with the LEGO DUPLO Peppa Pig Supermarket toy for 2+-year-old girls and boys
 - Comes with 4 characters – This toddler learning toy includes a drivable car toy, plus Peppa, George, Mummy and Daddy LEGO DUPLO Peppa Pig toy figures
+- Early development and activity toys – Toddlers finesse fine motor skills by opening the cash registers drawer and placing elements in the trolley
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N6CJ2D1{{</world>}}

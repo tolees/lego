@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Display model with playful details – R2-D2 model has a 360-degree rotating head, detachable third leg for mobility, an attachable periscope and tools
-- Interactive digital building – With the LEGO Builder app kids can build in 3D, track their progress and save all of their sets
 - Fun centrepiece – Includes an R2-D2 information plaque and a stand with the LEGO Star Wars 25th anniversary logo for the Darth Malak minifigure
-- An R2-D2 LEGO droid figure and a LEGO Star Wars minifigure – Comes with an R2-D2 LEGO figure, plus a 25th anniversary minifigure of Darth Malak
 - Star Wars buildable toy R2-D2 figure – Create a playful centrepiece with this detailed LEGO figure of one of the most beloved Star Wars characters
+- Interactive digital building – With the LEGO Builder app kids can build in 3D, track their progress and save all of their sets
 - Gift for Star Wars fans – This LEGO set makes a cool kids bedroom decoration and a fun Star Wars-themed Christmas gift for 10 plus year old boys, girls and kids who love adventures in a galaxy far, far away
+- An R2-D2 LEGO droid figure and a LEGO Star Wars minifigure – Comes with an R2-D2 LEGO figure, plus a 25th anniversary minifigure of Darth Malak
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZC2GF{{</world>}}

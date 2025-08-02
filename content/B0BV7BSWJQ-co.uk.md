@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The buildable Batmobile toy car features a large Batwing spoiler and flame elements that shoot from the cars exhaust
-- Includes LEGO Batman and The Joker minifigures, plus accessories including the Joker’s stolen money and Batman’s cape, helmet and Batarang
 - Batman jumps into the Batmobile to race after The Joker, who has just stolen some money; flames shoot from the exhaust pipe as Batman catches up with the clown-faced villain - a carefully aimed Batarang should stop him!
-- This quick and fun to build LEGO 4+ starter set introduces kids to creative construction and is designed to boost their imagination and dexterity
-- Features a buildable Batmobile toy car for kids aged 4+ years old plus 2 iconic minifigures for young children to play out super-hero car chases
 - For beginners, the LEGO Batman toy set also includes a LEGO Starter Brick chassis that encourages kids to build the Batmobile ‘by myself’
+- Includes LEGO Batman and The Joker minifigures, plus accessories including the Joker’s stolen money and Batman’s cape, helmet and Batarang
 - LEGO 4+ beginner sets introduce children to a wide universe of film favourites, TV characters and everyday heroes, and make great gifts for kids, boys and girls who love LEGO building toys and creative play
+- The buildable Batmobile toy car features a large Batwing spoiler and flame elements that shoot from the cars exhaust
+- Features a buildable Batmobile toy car for kids aged 4+ years old plus 2 iconic minifigures for young children to play out super-hero car chases
+- This quick and fun to build LEGO 4+ starter set introduces kids to creative construction and is designed to boost their imagination and dexterity
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BSWJQ{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Marvel building toy for Super Hero kids – LEGO Marvel Green Goblin Construction Figure puts Marvel action into the hands of boys and girls aged 8+
 - Many ways to play – This Marvel construction figure is fun for young Super Heroes to build, play with and display as a kids bedroom decoration
 - 3D instructions – Discover instructions in the LEGO Builder app where kids can zoom in and rotate models in 3D, track their progress and save sets
-- Marvel building toy for Super Hero kids – LEGO Marvel Green Goblin Construction Figure puts Marvel action into the hands of boys and girls aged 8+
-- Expand the Super Hero fun – There are more LEGO Marvel construction figures in the series to collect, sets sold separately
-- Authentic accessories – The Spider-Man character can attach to his glider and hold 2 pumpkin bombs, which also fit into the gliders storage space
 - Gift for Marvel fans – This LEGO Green Goblin figure makes a great Marvel-themed gift for 8+ year old boys, girls and fans of Super Hero action from the Spider-Man Universe
 - Posable action figure – Movable shoulder, arm, hip and leg joints enable kids to create cool action poses with the Green Goblin action figure
+- Expand the Super Hero fun – There are more LEGO Marvel construction figures in the series to collect, sets sold separately
+- Authentic accessories – The Spider-Man character can attach to his glider and hold 2 pumpkin bombs, which also fit into the gliders storage space
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYG1PM{{</world>}}

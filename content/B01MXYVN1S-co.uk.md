@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- There is also a cool magazine included in this LEGO Classic building toys set, filled with building instructions and creative suggestions
-- The inspiration is just the start as kids can build whatever they imagine, using their creativity and the full spectrum of coloured LEGO bricks
-- This LEGO Classic building toy set contains 1,000 vibrantly coloured LEGO bricks and lots of building inspiration to fire up kids creativity
 - Kids can use the LEGO bricks and pieces to build a toy car, globe, flower, guitar, house, smiley emoji, a parrot, and much more
+- This LEGO Classic building toy set contains 1,000 vibrantly coloured LEGO bricks and lots of building inspiration to fire up kids creativity
+- The inspiration is just the start as kids can build whatever they imagine, using their creativity and the full spectrum of coloured LEGO bricks
 - LEGO Classic sets are great for encouraging creative play and are a fun way for parents to share valuable experiences with their children
+- There is also a cool magazine included in this LEGO Classic building toys set, filled with building instructions and creative suggestions
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MXYVN1S{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wall art for living rooms – Each set gives adults the chance to create their own piece of brick-built art to display as office or home décor
 - Hanging display – This frameless LEGO artwork does not stand on its own and is designed to be hung on and makes a great home decoration
-- LEGO Art sets for adults – This LEGO birds wall art set makes a fab gift for women, men, him or her to celebrate birthdays, or as a thoughtful anniversary gift for a wife or husband
-- Arts and crafts for adults – Bring a little nature into your home with this 644-piece Macaw Parrots LEGO set for adults
-- Nature wall art – Create a colourful scene with 2 Macaw Parrots: one perched on a flowering branch and the other in flight with spread wings
 - A social building experience – This LEGO parrot art comes with 2 sets of building instructions so you can build this nature wall art with a friend
+- LEGO Art sets for adults – This LEGO birds wall art set makes a fab gift for women, men, him or her to celebrate birthdays, or as a thoughtful anniversary gift for a wife or husband
+- Nature wall art – Create a colourful scene with 2 Macaw Parrots: one perched on a flowering branch and the other in flight with spread wings
+- Wall art for living rooms – Each set gives adults the chance to create their own piece of brick-built art to display as office or home décor
+- Arts and crafts for adults – Bring a little nature into your home with this 644-piece Macaw Parrots LEGO set for adults
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYR1JY{{</world>}}
