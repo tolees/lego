@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Familiar settings and characters – Includes a customisable scene and 2 characters: a Marshal squirrel minifigure and Kapp’n turtle minifigure
-- More creative activities – Kids who love independent play can also ride in Kapp’n’s boat toy, fish with a fishing rod or catch a hermit crab
-- Animal Crossing birthday gift idea – This LEGO building set makes a fun gift for 6-plus-year-old girls, boys and kids who love the video game series as well as imaginative play
-- Buildable scenes, limitless customisation – Kids use their creative skills to arrange the LEGO baseplates and accessories to create all-new stories
-- Build the fun – Add to other LEGO Animal Crossing building toys (sold separately) to expand a child’s brick-built island community
 - Activity-packed Animal Crossing toy – Just like in the Animal Crossing video game series, kids can dig for Bells, pick coconuts and collect bamboo
+- Familiar settings and characters – Includes a customisable scene and 2 characters: a Marshal squirrel minifigure and Kapp’n turtle minifigure
+- Animal Crossing birthday gift idea – This LEGO building set makes a fun gift for 6-plus-year-old girls, boys and kids who love the video game series as well as imaginative play
+- Build the fun – Add to other LEGO Animal Crossing building toys (sold separately) to expand a child’s brick-built island community
+- More creative activities – Kids who love independent play can also ride in Kapp’n’s boat toy, fish with a fishing rod or catch a hermit crab
 - Video game-inspired toy – LEGO Animal Crossing Kapp’n’s Island Boat Tour toy transports girls and boys aged 6+ to a scene from the video game series
+- Buildable scenes, limitless customisation – Kids use their creative skills to arrange the LEGO baseplates and accessories to create all-new stories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXRTJL{{</world>}}

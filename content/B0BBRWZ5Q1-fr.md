@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Les fans de dragons et de jouets ninja vont adorer cet ensemble LEGO NINJAGO plein daction comme cadeau danniversaire ou comme jouet pour le plaisir doffrir à tout moment pour les enfants de 7 ans et plus
-- Les enfants peuvent jouer des batailles passionnantes avec cette figurine articulée LEGO NINJAGO Coles Earth Dragon, qui peut être améliorée pendant laction
-- Scorpion squelette se lance dans la bataille sur la créature scorpion à 6 pattes incluse ; lorsque les enfants gagnent, ils sont récompensés par une bannière de force à collectionner
 - Le jouet dragon a un corps, une tête et des jambes articulées plus de la place pour Cole sur son dos ; la bête peut être améliorée en ajoutant des ailes dorées, des cornes et une queue
+- Les enfants peuvent jouer des batailles passionnantes avec cette figurine articulée LEGO NINJAGO Coles Earth Dragon, qui peut être améliorée pendant laction
 - Découvrez dautres ensembles LEGO NINJAGO : Lloyds robot Battle EVO (71781), La Voiture de Course Ninja de Kai – Évolution (71783), Jays Lightning Jet EVO (71784)
+- Scorpion squelette se lance dans la bataille sur la créature scorpion à 6 pattes incluse ; lorsque les enfants gagnent, ils sont récompensés par une bannière de force à collectionner
+- Les fans de dragons et de jouets ninja vont adorer cet ensemble LEGO NINJAGO plein daction comme cadeau danniversaire ou comme jouet pour le plaisir doffrir à tout moment pour les enfants de 7 ans et plus
 - Comprend 2 minifigurines LEGO NINJAGO : Cole avec un katana doré et un maillet, et Scorpion squelette avec une faux et un pack darmes assorties guerrier squelette
 
 [🛒 Check the deal!!]({{< param buyurl >}})

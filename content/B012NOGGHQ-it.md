@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Include un libretto da collezione con le informazioni sul design, sullarchitettura e sulla storia degli edifici
-- Questo meraviglioso modello è incentrato sulla fantastica varietà architettonica di una delle città più dinamiche del mondo
 - Costruisci un modello dettagliato del profilo di New York City, con mini Statua della Libertà e base di 4x32 cm con targhetta decorativa
 - Un progetto fai da te per adulti, pensato per garantire unesperienza rilassante e appagante, e farà un figurone esposto in casa o in ufficio come decorazione
-- Cattura lessenza dellarchitettura di New York City con questo fantastico modellino da costruire che riunisce gli edifici più famosi della Grande Mela
 - Un kit di modellismo per adulti (alto 26 cm, largo 25 cm e profondo 4 cm) che include i seguenti edifici: il grattacielo Flatiron, il Chrysler Building, lEmpire State Building e il One World Trade Center
+- Cattura lessenza dellarchitettura di New York City con questo fantastico modellino da costruire che riunisce gli edifici più famosi della Grande Mela
+- Questo meraviglioso modello è incentrato sulla fantastica varietà architettonica di una delle città più dinamiche del mondo
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B012NOGGHQ{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- De set bevat stapsgewijze instructies op papier en een digitale bouwgids in de LEGO Bouwinstructies app, waarmee kinderen kunnen zoomen en draaien terwijl ze het verstelbare model van Baby Groot bouwen
+- Laat Baby Groot zijn bekende dansmoves nadoen uit de film - kinderen kunnen de volledig beweegbare Groot allerlei leuke moves laten maken
 - Dit constructie speelgoed is een geweldig verjaardagscadeau-idee of leuk cadeau voor andere gelegenheden, voor kinderen vanaf 10 jaar die fan zijn van superhelden, Guardians of the Galaxy en het Marvel Universum
 - Fans kunnen dit schattige Marvel personage laten poseren, ze kunnen het laten dansen op muziek en de grappige bewegingen uit de film nadoen, en wanneer ze klaar zijn met spelen kunnen ze de eyecatcher mooi neerzetten op hun slaapkamer
 - Kinderen kunnen de poses van Baby Groot aanpassen zoals ze zelf willen - bij de set zit een namaak cassettebandje, om de beroemde scène na te spelen waarin Baby Groot danst, en een plaatje om te bevestigen aan het displaymodel
-- Laat Baby Groot zijn bekende dansmoves nadoen uit de film - kinderen kunnen de volledig beweegbare Groot allerlei leuke moves laten maken
-- De set bevat stapsgewijze instructies op papier en een digitale bouwgids in de LEGO Bouwinstructies app, waarmee kinderen kunnen zoomen en draaien terwijl ze het verstelbare model van Baby Groot bouwen
 - Kinderen kunnen zelf hun eigen verstelbare LEGO model van Baby Groot uit de Marvel Studios film Guardians of the Galaxy 2 bouwen, inclusief alle schattige kenmerken die bij het wezentje horen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

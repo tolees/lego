@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bauset für kreative Geschichten und Looks: Die Friseurstühle, Haartrockner, Bürsten und Perücken sind genau das richtige Zubehör, um den LEGO Friends Minifiguren einen neuen Look zu verpassen
 - Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
-- Spielzeug-Friseursalon mit Mini Puppen: Dieser Friseursalon beinhaltet 3 Minifiguren und jede Menge Haarschmuck und Friseurzubehör, um Mädchen und Jungen ab 7 Jahren zu vielen kreativen Rollenspielen zu inspirieren
-- Such dir passenden Haarschmuck im Salon aus: Schau dir all die Perücken und Accessoires in der Boutique an; Neben einer drehbaren Schaufensterauslage gibt es dort auch eine Kasse und eine Fotokabine zu entdecken
 - Bauspielzeug mit 3 LEGO Friends Charaktere: Die Figuren und Mini Puppen Nova und Aliya sowie der Haarkünstler Faraji lassen Kinder unzählige eigene Geschichten zum Thema Freundschaft darstellen
+- Spielzeug-Friseursalon mit Mini Puppen: Dieser Friseursalon beinhaltet 3 Minifiguren und jede Menge Haarschmuck und Friseurzubehör, um Mädchen und Jungen ab 7 Jahren zu vielen kreativen Rollenspielen zu inspirieren
 - Tolle Geschenkidee: Dieses Set ist ein cooles Geschenk für Kinder, die kreative Bauspielzeuge lieben und gern Freundschaftsgeschichten mit LEGO Friends Charakteren darstellen
+- Such dir passenden Haarschmuck im Salon aus: Schau dir all die Perücken und Accessoires in der Boutique an; Neben einer drehbaren Schaufensterauslage gibt es dort auch eine Kasse und eine Fotokabine zu entdecken
+- Bauset für kreative Geschichten und Looks: Die Friseurstühle, Haartrockner, Bürsten und Perücken sind genau das richtige Zubehör, um den LEGO Friends Minifiguren einen neuen Look zu verpassen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCZT95{{</world>}}

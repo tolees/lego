@@ -31,10 +31,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Dit LEGO Jurassic World constructie speelgoed is een ideaal cadeau voor kinderen vanaf 4 jaar die net beginnen met bouwen - beginners kunnen het vliegveld bouwen met hulp van een ouder of een oudere zus of broer
 - De set bestaat uit een vliegveld met helikopterplatform, een helikopter, een garage, een speelgoedauto en een hek, plus een beweegbare dinofiguur
 - Bevat stapsgewijze instructies met afbeeldingen en er zijn digitale bouwinstructies en interactieve tools te vinden in de LEGO Bouwinstructies app
-- Er zijn ook 3 minifiguren – Owen Grady, Zia Rodriguez en een wildbeschermer – met leuke accessoires zoals een dinosaurus-ei en walkietalkie, voor urenlang fantasierijk speelplezier
 - De onstnapping van de T.rex wordt nog spannender door het hek dat kan instorten, het verdovingsgeweer om de dinosaurus te kalmeren en de kist waar het dinosaurus-ei in getransporteerd kan worden
-- Combineer deze set met ander LEGO Jurassic World speelgoed voor nog meer speelplezier
 - Met dit LEGO Jurassic World speelgoed met een vliegveld en een helikopter kunnen kinderen een spannende ontsnapping van de T.rex naspelen
+- Combineer deze set met ander LEGO Jurassic World speelgoed voor nog meer speelplezier
+- Er zijn ook 3 minifiguren – Owen Grady, Zia Rodriguez en een wildbeschermer – met leuke accessoires zoals een dinosaurus-ei en walkietalkie, voor urenlang fantasierijk speelplezier
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNX5GQL{{</world>}}

@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Cadeau voor peuters – op zoek naar speelgoed om een kind te belonen dat zich goed heeft gedragen? Geef het dit leuke cadeau voor een verjaardag, de feestdagen of zomaar tussendoor
-- Educatief speelgoed voor peuters – de set LEGO DUPLO Mijn eerste Gevoelens en emoties bevat 4 expressieve personages om peuters vanaf 18 maanden te helpen verschillende stemmingen te begrijpen
 - Fijne motoriek ontwikkelen – de personages worden geleverd met gekleurde pruiken in interessante vormen, die leuk zijn voor nieuwsgierige kleine vingertjes om te ontdekken
+- Educatief speelgoed voor peuters – de set LEGO DUPLO Mijn eerste Gevoelens en emoties bevat 4 expressieve personages om peuters vanaf 18 maanden te helpen verschillende stemmingen te begrijpen
 - Creatief speelgoed om te bouwen en herbouwen – dit stapelbare speelgoed bestaat uit 23 stenen, waaronder 8 met gezichtsuitdrukkingen en 4 haarstenen, zodat het eindeloos aanpasbaar is en het spelen altijd verrassend blijft
 - Educatief speelgoed – door de gekleurde speelgoed DUPLO bouwstenen te stapelen, kunnen peuters de pruiken van de personages combineren en vervolgens kiezen hoe de mensen zich voelen met de uitdrukkingsstenen
 

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Christmas music gifts for 7+ year old girls, boys, kids – This social-emotional toy makes a fun gift idea for fans of musical toy instruments
 - 3 musicians and rotating functions – Kids craft endless stories with a singers reveal function and gears moving the toy keyboard player and drummer
-- Put on a musical talent show – The LEGO Friends Heartlake City set for fans of musical toys includes 4 characters, a stage and lots of accessories
-- Sets to feed creativity – Check out more fun LEGO Friends building toys (sets sold separately) in the LEGO Friends range and ignite kids immaginations
 - Role-play toy – With a toy guitar, shoes, a wig and shoulder pads for Ley-La to wear, plus a mobile phone, coffee machine, snacks and mirror
 - 4 LEGO Friends characters – Includes LEGO Friends Andrea, a talent show judge, plus singer Ley-La, drummer Nabil and keyboard player Alexander
-- Christmas music gifts for 7+ year old girls, boys, kids – This social-emotional toy makes a fun gift idea for fans of musical toy instruments
+- Sets to feed creativity – Check out more fun LEGO Friends building toys (sets sold separately) in the LEGO Friends range and ignite kids immaginations
+- Put on a musical talent show – The LEGO Friends Heartlake City set for fans of musical toys includes 4 characters, a stage and lots of accessories
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW181T7{{</world>}}

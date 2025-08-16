@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Voor jonge bouwers die wat extra hulp kunnen gebruiken is er de LEGO Builder app, met tools om de modellen in 3D te bekijken, ze te draaien en erop in te zoomen, de voortgang bij te houden en sets op te slaan
 - De nieuwe generatie van LEGO Friends voor 2023 brengt nieuwe ervaringen, locaties en personages; perfect om de verbeelding en nieuwsgierigheid van kinderen mee te prikkelen
-- Deze set bestaat uit een speelgoed skatepark met schansen, inline skates, mini speelgoedskateboards, een scooter, rolstoel en helmen voor ieder personage - zodat kinderen verschillende stijlen en trucs kunnen uitproberen
-- Dit speelgoed voor kinderen vanaf 6 jaar bevat 3 LEGO Friends minipoppetjes: Liann die trucs doet op haar skateboard, Zac op zijn inline skates, en Luna in haar rolstoel, die trucs uitprobeert op de schans
 - Dit skateboard speelgoed voor kinderen vanaf 6 jaar is een fantastisch verjaardagscadeau-idee om jonge sportliefhebbers en waaghalzen mee te verrassen
+- Dit speelgoed voor kinderen vanaf 6 jaar bevat 3 LEGO Friends minipoppetjes: Liann die trucs doet op haar skateboard, Zac op zijn inline skates, en Luna in haar rolstoel, die trucs uitprobeert op de schans
+- Voor jonge bouwers die wat extra hulp kunnen gebruiken is er de LEGO Builder app, met tools om de modellen in 3D te bekijken, ze te draaien en erop in te zoomen, de voortgang bij te houden en sets op te slaan
 - Deze te gekke minipoppetjes speelset bevat een werkplaats waar de personages hun skateboards en skates kunnen repareren; daarna kunnen ze de lift pakken om boven te genieten van een drankje in de relaxzone
+- Deze set bestaat uit een speelgoed skatepark met schansen, inline skates, mini speelgoedskateboards, een scooter, rolstoel en helmen voor ieder personage - zodat kinderen verschillende stijlen en trucs kunnen uitproberen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRWDLFG{{</world>}}

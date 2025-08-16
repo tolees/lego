@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Technic 2in1 Monster Jam set makes a great Birthday gift for kids aged 7 plus years old and fans of Monster Jam and truck toys
+- Kids use the pull-back feature to send the toy truck racing along, recreating cool monster truck jumps and tricks from the Monster Jam arena
 - The LEGO Technic monster truck toy has dragon spikes and horns, and realistic colours and stickers to create the real-life Monster Jam Monster truck
 - When theyre ready for the next challenge, kids can rebuild the model into a Crocodile Buggy race car off road vehicle toy with pull back action
 - The LEGO Builder app can offer kids a helping hand, where they can zoom in and rotate models in 3D, track progress and develop new skills
+- This LEGO Technic 2in1 Monster Jam set makes a great Birthday gift for kids aged 7 plus years old and fans of Monster Jam and truck toys
 - Features a 2-in-1 monster truck toy set with pull-back action: this Monster Jam Dragon truck rebuilds into a Crocodile buggy racing car toy
-- Kids use the pull-back feature to send the toy truck racing along, recreating cool monster truck jumps and tricks from the Monster Jam arena
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXXNQR{{</world>}}

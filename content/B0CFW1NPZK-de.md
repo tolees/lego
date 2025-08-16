@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Entdecke einen Teil der die Star Wars Sammlerstücke und lass dich von der Macht leiten: Dieses Set zum Bauen und Sammeln gehört zu einer Reihe legendärer Star Wars Sternenschiffe mittleren Maßstabs
-- Detailgetreues Star Wars Sternenschiff: Bilde die Tantive IV aus Star Wars: Eine neue Hoffnung mit all ihren legendären Details wie den 11 Triebwerken und den Turbolasern mit LEGO Steinen nach
 - Geschenk für Star Wars Fans und Sammler: Dieses 654-teilige LEGO Bauset für Erwachsene ist eine schöne Belohnung für dich selbst und ein tolles Geburtstagsgeschenk für jeden Star Wars Fan
-- Modell zum Ausstellen: Auf dem baubaren Ständer mit Namensschild und Stein zum 25-jährigen LEGO Star Wars Jubiläum lässt sich die Tantive IV eindrucksvoll ausstellen
 - Die Tantive IV – ein Modell zum Sammeln, Bauen und Ausstellen: Ruf dir die spektakuläre Eröffnungsszene aus Star Wars: Eine neue Hoffnung in Erinnerung, wenn du diese LEGO Version des legendären Sternenschiffs in mittlerem Maßstab baust
+- Modell zum Ausstellen: Auf dem baubaren Ständer mit Namensschild und Stein zum 25-jährigen LEGO Star Wars Jubiläum lässt sich die Tantive IV eindrucksvoll ausstellen
+- Detailgetreues Star Wars Sternenschiff: Bilde die Tantive IV aus Star Wars: Eine neue Hoffnung mit all ihren legendären Details wie den 11 Triebwerken und den Turbolasern mit LEGO Steinen nach
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1NPZK{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Players will smash, swing and fly through the Marvel Universe as they travel to iconic locations, such as Stark Tower, the X-Mansion, Asteroid M, and Asgard.
-- Players will unlock more than 100 playable characters from across the Marvel Universe, including fan favourites like Black Widow, Loki, Spider-Man, Nick Fury, Iron Man, Wolverine, Captain America, Hulk, Thor, Hawkeye, Deadpool, and Galactus!
 - Featuring an original story crossing the entire Marvel Universe and filled with classic LEGO videogame adventure and humour, players take on the role of their favourite Marvel Super Heroes as they unite to stop a host of villains from destroying the world.
+- Players will unlock more than 100 playable characters from across the Marvel Universe, including fan favourites like Black Widow, Loki, Spider-Man, Nick Fury, Iron Man, Wolverine, Captain America, Hulk, Thor, Hawkeye, Deadpool, and Galactus!
+- Players will smash, swing and fly through the Marvel Universe as they travel to iconic locations, such as Stark Tower, the X-Mansion, Asteroid M, and Asgard.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09DGJRSG3{{</world>}}

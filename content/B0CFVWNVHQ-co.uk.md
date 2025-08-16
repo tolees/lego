@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Working escalators – Kids can place the LEGO Friends characters on the escalators, then turn the knob to move them between the 3 different floors
+- Shopping centre playset – LEGO Friends Heartlake City Shopping Mall features toy shops, 2 moveable escalators and 7 LEGO Friends characters
+- A holiday gift for kids who love shopping trips – The LEGO Friends Heartlake City Shopping Mall makes a fab gift for 8+ year old girls, boys and kids who enjoy visits to the mall and friendship-themed role play
+- Role-play toy accessories – Comes with items for sale including a kayak, binoculars, comics, flowers, a skateboard, toy bunny, cosmetics and more!
 - Authentic mall design – Includes 5 toy shops, a noodle restaurant, ice-cream kiosk, seating area, cash machines, cash registers and 2 escalators
 - Includes 7 characters – Features Liann, Aliya, Nova Petch and Irene LEGO Friends minidolls, plus Liann’s mum, Michelle, and younger sister, Victoria
-- Working escalators – Kids can place the LEGO Friends characters on the escalators, then turn the knob to move them between the 3 different floors
 - Discover more friendship adventures – Check out other kids’ building kits (sold separately) in the range of LEGO Friends sets for girls and boys who enjoy creative play
-- A holiday gift for kids who love shopping trips – The LEGO Friends Heartlake City Shopping Mall makes a fab gift for 8+ year old girls, boys and kids who enjoy visits to the mall and friendship-themed role play
-- Shopping centre playset – LEGO Friends Heartlake City Shopping Mall features toy shops, 2 moveable escalators and 7 LEGO Friends characters
-- Role-play toy accessories – Comes with items for sale including a kayak, binoculars, comics, flowers, a skateboard, toy bunny, cosmetics and more!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWNVHQ{{</world>}}

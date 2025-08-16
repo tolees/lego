@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dit peuterspeelgoed voor kinderen vanaf 4 jaar bevat een LEGO-startsteen om zelfs de jongste bouwertjes op weg te helpen
-- De ronddraaiende mengtrommel van de cementwagen produceert betonstukken die uit de uitklapbare stortkoker tevoorschijn komen achterop het voertuig
-- Dit bouwvoertuigen speelgoed heeft een bestuurderscabine die open kan en een ronddraaiende mengtrommel, plus twee minifiguren van wegwerkers voor urenlang creatief rollenspel
-- Met de gratis LEGO Bouwinstructies-app voor smartphones en tablets kunnen kinderen vanuit alle hoeken op het model inzoomen, het draaien en visualiseren terwijl ze bouwen
-- Kinderen kunnen naar de bouwwerf rijden, het bord voor wegwerkzaamheden plaatsen en de drilboor en kruiwagen gebruiken om de oude fundering te verwijderen
 - Deze speelgoed cementwagen is een geweldig cadeau-idee waarmee kinderen vanaf 4 jaar de bouwvakkers van LEGO City kunnen helpen.
+- Dit bouwvoertuigen speelgoed heeft een bestuurderscabine die open kan en een ronddraaiende mengtrommel, plus twee minifiguren van wegwerkers voor urenlang creatief rollenspel
+- Dit peuterspeelgoed voor kinderen vanaf 4 jaar bevat een LEGO-startsteen om zelfs de jongste bouwertjes op weg te helpen
+- Kinderen kunnen naar de bouwwerf rijden, het bord voor wegwerkzaamheden plaatsen en de drilboor en kruiwagen gebruiken om de oude fundering te verwijderen
+- De ronddraaiende mengtrommel van de cementwagen produceert betonstukken die uit de uitklapbare stortkoker tevoorschijn komen achterop het voertuig
+- Met de gratis LEGO Bouwinstructies-app voor smartphones en tablets kunnen kinderen vanuit alle hoeken op het model inzoomen, het draaien en visualiseren terwijl ze bouwen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNSHH5X{{</world>}}

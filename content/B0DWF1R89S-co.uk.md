@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Fantasy animal playset – Fuel creativity with the LEGO DREAMZzz Mateo’s Fire Chameleon building toy for 7+ year old boys and girls, featuring a poseable animal figure with 2 build modes
+- LEGO DREAMZzz toys – Let the imaginative play continue with other LEGO DREAMZzz building sets (sold separately), including vehicle playsets, animal figures and mech toys
+- LEGO minifigures – Hero Mateo and villain Zero join Logan, the Cyberling and Z-Blob to bring the story to life and inspire imaginative play with this LEGO DREAMZzz set
 - Fantasy gift for kids – A fun birthday gift for 7+ year old boys, girls and LEGO DREAMZzz fans, especially those who love creative building, toy planes or mech toys
 - Rebuildable animal toy – The posable chameleon has a moving mouth, head, tail, eyes and legs, and can be built as a fire guardian with blaster turret and shooters or as a jet and a mini mech toy
 - Creative toy packed with details – The building set includes modular boosters that are compatible with other LEGO DREAMZzz sets (sold separately) in the 2025 collection
-- LEGO DREAMZzz toys – Let the imaginative play continue with other LEGO DREAMZzz building sets (sold separately), including vehicle playsets, animal figures and mech toys
 - Be part of the action – Story-led building instructions encourage kids to immerse themselves in the dream-world adventure and are also available digitally in the LEGO Builder app
-- Fantasy animal playset – Fuel creativity with the LEGO DREAMZzz Mateo’s Fire Chameleon building toy for 7+ year old boys and girls, featuring a poseable animal figure with 2 build modes
-- LEGO minifigures – Hero Mateo and villain Zero join Logan, the Cyberling and Z-Blob to bring the story to life and inspire imaginative play with this LEGO DREAMZzz set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF1R89S{{</world>}}

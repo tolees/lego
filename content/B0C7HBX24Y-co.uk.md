@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Attempt bigger flower arrangements – To create an even more impressive flower display, this set cmbines with others from the LEGO botanical collection
 - LEGO flower bouquet – Kids aged 8+ can enjoy the soothing beauty of lotus flowers with this LEGO Creator Lotus Flowers set for girls and boys
+- Mark a special occasion – Makes a houghtful Valentines Day or Mothers Day gift to show that special someone just how much you care; compatible with the LEGO Flower Bouquet sets
 - Whats in the box? – This artificial flowers set has 2 LEGO flower heads in full bloom and 1 flower bud; the long green stems make them ideal for a vase
 - Gift for florists – This LEGO Creator set is great as a desk decoration and makes a fun gift for girls and boys aged 8 and up who love flowers
-- Mark a special occasion – Makes a houghtful Valentines Day or Mothers Day gift to show that special someone just how much you care; compatible with the LEGO Flower Bouquet sets
 - Colours that fit in any room – One of the bloomed LEGO flowers is a delicate shade of pink that is matched by the flower bud, the other is soft white
 
 [🛒 Buy it!!]({{< param buyurl >}})

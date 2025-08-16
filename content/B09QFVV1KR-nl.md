@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Dit LEGO Star Wars AT-ST constructie speelgoed voor jonge kinderen vanaf 4 jaar bevat startstenen waarmee ze snel en eenvoudig kunnen bouwen, zodat de actie meteen kan beginnen
+- Bij het bouwpakket zijn 3 LEGO Star Wars minifiguren inbegrepen: Wicket de Ewok met een pijl en boog, en een Scout Trooper en AT-ST bestuurder met blasterpistolen, waarmee kinderen spannende scènes na kunnen spelen
 - Kinderen van 4+ jaar kunnen de dappere Ewok Wicket helpen om de uitkijkpost te verdedigen tegen de Scout Troopers, voordat de indrukwekkende AT-ST aan komt stampen door de bomen
 - Deze LEGO Star Wars 4+ startset met 87 onderdelen, die eenvoudig gebouwd en weer opnieuw opgebouwd kan worden na een battle, is een geweldig cadeau voor een verjaardag, kerst of een andere gelegenheid, om creatieve kinderen mee te verrassen
-- Bij het bouwpakket zijn 3 LEGO Star Wars minifiguren inbegrepen: Wicket de Ewok met een pijl en boog, en een Scout Trooper en AT-ST bestuurder met blasterpistolen, waarmee kinderen spannende scènes na kunnen spelen
 - De LEGO AT-ST walker is verstelbaar en beschikt over een cockpit met ruimte voor de bestuurder - de Ewok uitkijkpost bestaat uit een boom en een katapult waarmee Wicket stenen kan afschieten
-- Dit LEGO Star Wars AT-ST constructie speelgoed voor jonge kinderen vanaf 4 jaar bevat startstenen waarmee ze snel en eenvoudig kunnen bouwen, zodat de actie meteen kan beginnen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFVV1KR{{</world>}}

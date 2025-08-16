@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Both the leaves and the flowers can be individually arranged to create a very personal showpiece. The spectacular decorative object for the living room or office provides a special wow effect with a leaf change. LEGO fans will be amazed by the brand new construction technology and the unexpected shapes and colours in the "Bonsai Tree" building set.
+- Bonsai art has inspired the imagination of tree lovers for centuries. With the LEGO model kit "Bonsai Tree" you can celebrate this traditional art. The LEGO model kit "Bonsai Tree" (10281) is a unique gift and a sophisticated construction project for anyone who likes bonsai trees and plants or likes to create creative models from LEGO parts.
 - The kit includes interchangeable parts so you can decorate the bonsai tree with classic green leaves or pink cherry blossoms. Note the cute frog design hidden in the pink flower. The finished tree can be elegantly presented in the rectangular bowl and on the LEGO base in wood look.
 - The LEGO bonsai tree belongs to the LEGO Botany collection. This pioneering range uses some elements made from organic plastic derived from sustainably sourced sugar cane. LEGO elements have been in line with strict industry standards since 1958, so that they are uniform and compatible and can always be reliably plugged together and disconnected.
-- Bonsai art has inspired the imagination of tree lovers for centuries. With the LEGO model kit "Bonsai Tree" you can celebrate this traditional art. The LEGO model kit "Bonsai Tree" (10281) is a unique gift and a sophisticated construction project for anyone who likes bonsai trees and plants or likes to create creative models from LEGO parts.
-- Both the leaves and the flowers can be individually arranged to create a very personal showpiece. The spectacular decorative object for the living room or office provides a special wow effect with a leaf change. LEGO fans will be amazed by the brand new construction technology and the unexpected shapes and colours in the "Bonsai Tree" building set.
 - The LEGO bonsai tree is the ideal gift for adults who love interesting LEGO building projects. The set is also a great gift for bonsai fans and creative builders. The finished model measures 18 cm high, 21 cm long and 20 cm wide.
 
 [🛒 Buy it!!]({{< param buyurl >}})

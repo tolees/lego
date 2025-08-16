@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Create Star Wars desk decor – Recreate the unique features of Jango Fett’s helmet, including the adjustable rangefinder antenna, and showcase it on the buildable stand with a nameplate
-- From a galaxy far, far away to your living room – LEGO Star Wars sets for adults offer a fun and creative way to relax, making them great desk decor or gifts for fans who love Star Wars collectibles
+- LEGO Star Wars Jango Fett Helmet model kit – Build and display this 18+ LEGO Star Wars set, a detailed replica honouring the legendary Mandalorian bounty hunter from Star Wars: Attack of the Clones
+- Build your collection – This Star Wars collectible build-and-display set is part of the LEGO Star Wars helmets series, designed for fans who love model kits and iconic display pieces (sold separately)
 - A rewarding LEGO Star Wars building set for adults – This challenging model kit immerses fans in a hands-on building experience while recreating epic moments from Star Wars: Attack of the Clones
 - Star Wars gift for men and women – Treat yourself or surprise a LEGO Star Wars fan with this adult building set, whether they are experienced builders or newcomers to brick-built model kits
+- From a galaxy far, far away to your living room – LEGO Star Wars sets for adults offer a fun and creative way to relax, making them great desk decor or gifts for fans who love Star Wars collectibles
 - Immerse yourself in the build – Use the LEGO Builder app to view a 3D digital version of this Star Wars construction model, track progress and save sets while building
-- Build your collection – This Star Wars collectible build-and-display set is part of the LEGO Star Wars helmets series, designed for fans who love model kits and iconic display pieces (sold separately)
-- LEGO Star Wars Jango Fett Helmet model kit – Build and display this 18+ LEGO Star Wars set, a detailed replica honouring the legendary Mandalorian bounty hunter from Star Wars: Attack of the Clones
+- Create Star Wars desk decor – Recreate the unique features of Jango Fett’s helmet, including the adjustable rangefinder antenna, and showcase it on the buildable stand with a nameplate
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBVRFM{{</world>}}

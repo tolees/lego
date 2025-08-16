@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Cadeau voor kinderen vanaf 2 jaar – dit educatieve speelgoed is een cadeautip voor peuters die dol zijn op speelgoed autos en letters beginnen te herkennen
-- Speelgoed om te bouwen en herbouwen voor creatief speelplezier – peuters sorteren de DUPLO bouwstenen op kleur, laden de letters op de truck om woordjes te maken en rijden ermee rond
+- Constructie speelgoed voor peuters – inclusief een duwvrachtwagen met een afneembare aanhanger, 2 LEGO DUPLO figuren en 26 ABC-stenen
 - Speelgoed dat peuters letters leert – klim aan boord van de LEGO DUPLO Stad Alfabetvrachtwagen voor speeltijd vol ABC-leerplezier voor kinderen vanaf 2 jaar
 - Fantasierijke accessoires – wordt geleverd met een LEGO DUPLO stereo-element om peuters aan te moedigen het ABC te zingen en een boekelement om ze aan te moedigen de letters te lezen
-- Constructie speelgoed voor peuters – inclusief een duwvrachtwagen met een afneembare aanhanger, 2 LEGO DUPLO figuren en 26 ABC-stenen
+- Cadeau voor kinderen vanaf 2 jaar – dit educatieve speelgoed is een cadeautip voor peuters die dol zijn op speelgoed autos en letters beginnen te herkennen
+- Speelgoed om te bouwen en herbouwen voor creatief speelplezier – peuters sorteren de DUPLO bouwstenen op kleur, laden de letters op de truck om woordjes te maken en rijden ermee rond
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MQRRE1X{{</world>}}

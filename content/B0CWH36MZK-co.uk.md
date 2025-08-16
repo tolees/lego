@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Magical creature figure – Pose Aragog’s legs, fangs and pedipalps and recreate dramatic Harry Potter scenes in the Forbidden Forest
-- LEGO Harry Potter Forbidden Forest scene – Inspire children’s playful imaginations with this small Forbidden Forest model, including buildable plants and a spider’s web, plus 2 baby spider figures
-- Harry Potter toy characters – Includes Harry Potter and Ron Weasley minifigures with happy or scared faces, plus 2 wands and a lantern element
 - Collectible Aragog figure – This toy for 7-plus-year-old boys and girls features the largest-ever LEGO Harry Potter figure of giant spider Aragog
 - Part of an extensive range – LEGO Harry Potter toy sets let young wizards, witches and Muggles play out memorable scenes, create their own stories or simply display the models
 - A fun way to build – The LEGO Builder app guides kids on an intuitive build, where they can save sets and zoom in and rotate models in 3D
 - LEGO Harry Potter gift for kids – This spider toy playset makes a magical Harry Potter-themed gift for 7-plus-year-old girls, boys and fans
+- Magical creature figure – Pose Aragog’s legs, fangs and pedipalps and recreate dramatic Harry Potter scenes in the Forbidden Forest
+- Harry Potter toy characters – Includes Harry Potter and Ron Weasley minifigures with happy or scared faces, plus 2 wands and a lantern element
+- LEGO Harry Potter Forbidden Forest scene – Inspire children’s playful imaginations with this small Forbidden Forest model, including buildable plants and a spider’s web, plus 2 baby spider figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH36MZK{{</world>}}

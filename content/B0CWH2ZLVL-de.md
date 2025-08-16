@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Weck die Fantasie der Kinder: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige spannende Challenges und Rollenspiele zu ermöglichen und Kinder (auch miteinander) auf coole Münzsammelmissionen zu schicken
+- Duell um die Bowser Junior-Clown-Kutsche: Hilf LEGO Mario, Bowser Jr. von der Plattform und aus seiner Junior-Clown-Kutsche zu schütteln, besiege ihn und steig dann ins Auto, um davonzufahren
+- Nintendo Geschenk und Sammlerstück für Kinder: Dieses LEGO Super Mario Spielset ist ein tolles Geschenk für Jungen, Mädchen und alle Gamer ab 6 Jahren
 - Enthält 4 LEGO Super Mario Minifiguren: Ein interaktiver LEGO Mario sowie Bowser Jr., Yoshi und ein Gumba
 - Nützlicher Helfer: Lade dir die LEGO Super Mario App herunter, um dir unter anderem Bauanleitungen und kreative Bau- und Spielideen zu holen. Eine Liste der kompatiblen Android- und iOS-Geräte findest du auf LEGO.com/devicecheck
-- Nintendo Geschenk und Sammlerstück für Kinder: Dieses LEGO Super Mario Spielset ist ein tolles Geschenk für Jungen, Mädchen und alle Gamer ab 6 Jahren
-- Duell um die Bowser Junior-Clown-Kutsche: Hilf LEGO Mario, Bowser Jr. von der Plattform und aus seiner Junior-Clown-Kutsche zu schütteln, besiege ihn und steig dann ins Auto, um davonzufahren
-- Weck die Fantasie der Kinder: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige spannende Challenges und Rollenspiele zu ermöglichen und Kinder (auch miteinander) auf coole Münzsammelmissionen zu schicken
-- Abenteuer mit dem interaktiven LEGO Mario: Dieses LEGO Super Mario Spielset lässt Kinder Modelle für einen Showdown mit Bowser Jr. bauen; Wenn sie gewinnen, können sie ihm seine Junior-Clown-Kutsche abnehmen
 - Abenteuer-Spielset: Geh an der Röhre los, grüße Yoshi, besiege einen Gumba, stampfe auf den ?-Block, nimm es mit Bowser Jr. auf und erreiche den Zielpfahl
+- Abenteuer mit dem interaktiven LEGO Mario: Dieses LEGO Super Mario Spielset lässt Kinder Modelle für einen Showdown mit Bowser Jr. bauen; Wenn sie gewinnen, können sie ihm seine Junior-Clown-Kutsche abnehmen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2ZLVL{{</world>}}

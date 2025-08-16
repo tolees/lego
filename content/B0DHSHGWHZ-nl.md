@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 Nintendo blauwe Toad speelgoed figuren om te verzamelen – deze LEGO Mario Kart set om zelf te bouwen bevat 2 blauwe Toad (pitstop) figuren in een blauwe overall, plus diverse accessoires
-- Nintendo speelgpoed voor kinderen met personages – laat kinderen in de huid kruipen van de pitcrew die een Sprinter kart klaarmaakt voor race-actie in Toads garage met dit aanpasbare LEGO Super Mario: Mario Kart bouwpakket voor kinderen
-- LEGO Super Mario cadeau voor kinderen – geef deze set cadeau aan jongens, meisjes en gamers vanaf 8 jaar; een van de sets 71439, 71440 of 71441 (apart verkrijgbaar) is vereist voor interactief spelen
-- Extra speelmogelijkheden – bekijk het volledige assortiment LEGO Super Mario: Mario Kart sets (apart verkrijgbaar) en ontdek andere bouwbare Mario Kart speelgoedvoertuigen en personages om tegen te racen
 - Interactief speelplezier – plaats LEGO Mario poppetje, LEGO Luigi poppetje of LEGO Peach poppetje (figuren niet inbegrepen) in de kart of op de actietags van de aanpassingsmachines voor digitale interacties
-- Prikkel de fantasie – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
+- Nintendo speelgpoed voor kinderen met personages – laat kinderen in de huid kruipen van de pitcrew die een Sprinter kart klaarmaakt voor race-actie in Toads garage met dit aanpasbare LEGO Super Mario: Mario Kart bouwpakket voor kinderen
 - Aanpasbaar speelgoed – plaats de kart op de autolift en kies voor standaardbanden of blauwe standaardbanden, bevestig de toeter of motor van de aanpassingsmachines en meer
+- Extra speelmogelijkheden – bekijk het volledige assortiment LEGO Super Mario: Mario Kart sets (apart verkrijgbaar) en ontdek andere bouwbare Mario Kart speelgoedvoertuigen en personages om tegen te racen
+- LEGO Super Mario cadeau voor kinderen – geef deze set cadeau aan jongens, meisjes en gamers vanaf 8 jaar; een van de sets 71439, 71440 of 71441 (apart verkrijgbaar) is vereist voor interactief spelen
+- 2 Nintendo blauwe Toad speelgoed figuren om te verzamelen – deze LEGO Mario Kart set om zelf te bouwen bevat 2 blauwe Toad (pitstop) figuren in een blauwe overall, plus diverse accessoires
+- Prikkel de fantasie – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSHGWHZ{{</world>}}

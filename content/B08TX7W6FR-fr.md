@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO SPEED 30343 MCLAREN ELVA CHAMPIONS
-- Lego
-- LEGO SPEED 30343 MCLAREN ELVA CHAMPIONS
 - 2 ans
+- LEGO SPEED 30343 MCLAREN ELVA CHAMPIONS
+- Lego
 - LEGO SPEED 30343 MCLAREN ELVA CHAMPIONS
 
 [🛒 Check the deal!!]({{< param buyurl >}})

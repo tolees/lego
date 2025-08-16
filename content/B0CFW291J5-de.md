@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 3 LEGO Star Wars Charaktere: Die LEGO Minifigur Nash Durango mit Schraubenschlüssel, die LEGO Minifigur Nubs mit Lichtschwert sowie der LEGO Droide RJ-83, der an Nashs Rücken befestigt werden kann
-- Geschenk für Fans von Star Wars: Young Jedi Adventures: Dieses 136-teilige LEGO Star Wars Set, das Kleinkindern ab 4 Jahren das Bauen beibringt, ist eine schöne spontane Belohnung oder ein tolles Geburtstagsgeschenk für Kinder
-- Tolle Kombination: Kinder können nicht nur mit dem enthaltenen Modell einer kleinen Marktbude mit Grill und Speisen kreativ spielen, sondern auch dieses Set mit dem separat erhältlichen Tenoo Jedi Temple (75358) kombinieren
-- Einfach zu bauen: Der Crimson Firehawk lässt sich mithilfe des Starter-Bauelements leicht zusammenbauen; im dessen Cockpit ist Platz für alle 3 Star Wars-Figuren und das Speeder Bike passt ins Heck des Sternenschiffs
-- 2 Spielzeuge – Der Crimson Firehawk und ein Speeder Bike: Junge Kinder können die beiden Star Wars Fahrzeuge aus diesem Starterset rasch zusammenstecken und dann Geschichten aus Star Wars: Young Jedi Adventures nachstellen
 - Aktivität für die ganze Familie: In der Box findest du separate Schritt-für-Schritt-Bildanleitungen zu den beiden LEGO Star Wars Modellen, und die LEGO Builder App beinhaltet unter anderem Funktionen zum Betrachten digitaler Modellansichten
+- Tolle Kombination: Kinder können nicht nur mit dem enthaltenen Modell einer kleinen Marktbude mit Grill und Speisen kreativ spielen, sondern auch dieses Set mit dem separat erhältlichen Tenoo Jedi Temple (75358) kombinieren
+- 2 Spielzeuge – Der Crimson Firehawk und ein Speeder Bike: Junge Kinder können die beiden Star Wars Fahrzeuge aus diesem Starterset rasch zusammenstecken und dann Geschichten aus Star Wars: Young Jedi Adventures nachstellen
+- Einfach zu bauen: Der Crimson Firehawk lässt sich mithilfe des Starter-Bauelements leicht zusammenbauen; im dessen Cockpit ist Platz für alle 3 Star Wars-Figuren und das Speeder Bike passt ins Heck des Sternenschiffs
+- Geschenk für Fans von Star Wars: Young Jedi Adventures: Dieses 136-teilige LEGO Star Wars Set, das Kleinkindern ab 4 Jahren das Bauen beibringt, ist eine schöne spontane Belohnung oder ein tolles Geburtstagsgeschenk für Kinder
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW291J5{{</world>}}

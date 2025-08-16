@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inspireer een passie voor techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
-- Speelgoed raceauto met pull-backfunctie voor kinderen vanaf 7 jaar – dit LEGO Technic Mercedes-AMG F1 W14 E Performance Pull-Back model voor jongens en meisjes heeft leuke racedetails die jonge racefans zullen verrassen
-- Cadeau voor kinderen – Dit Mercedes-AMG F1 W14 bouwpakket voor kinderen is een leuk cadeau voor jongens en meisjes die van LEGO raceautos en Mercedes houden
-- Samen bouwen – deze set voor kinderen is een geweldige aanvulling op de LEGO Technic Mercedes-AMG F1 W14 E Performance (42171) bouuwpakket voor volwassenen (apart verkrijgbaar), zodat kinderen en volwassenen tegelijkertijd kunnen bouwen
 - Authentieke kleurstelling – geef kinderen een leuk project waarin ze de details van deze Mercedes W14 model auto in elkaar zetten en de stickerdetails toevoegen die zijn geïnspireerd op de echte racewagen
+- Speelgoed raceauto met pull-backfunctie voor kinderen vanaf 7 jaar – dit LEGO Technic Mercedes-AMG F1 W14 E Performance Pull-Back model voor jongens en meisjes heeft leuke racedetails die jonge racefans zullen verrassen
 - Inspireer snelle rollenspellen – kinderen kunnen doen alsof ze achter het stuur van een echte Mercedes racewagen zitten terwijl ze de leuke pull-backactie gebruiken om de speelgoed auto te laten racen
+- Samen bouwen – deze set voor kinderen is een geweldige aanvulling op de LEGO Technic Mercedes-AMG F1 W14 E Performance (42171) bouuwpakket voor volwassenen (apart verkrijgbaar), zodat kinderen en volwassenen tegelijkertijd kunnen bouwen
+- Cadeau voor kinderen – Dit Mercedes-AMG F1 W14 bouwpakket voor kinderen is een leuk cadeau voor jongens en meisjes die van LEGO raceautos en Mercedes houden
+- Inspireer een passie voor techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYZRN1{{</world>}}

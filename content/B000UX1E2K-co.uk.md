@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Upgraded Character Customizer includes all Prequel Trilogy characters for the first time.
-- New playable characters like Watto, Zam Wessell, Boss Nass and more bring the total count to over 160.
-- New levels further complete the entire Star Wars story.
-- Motion based controls for Wii, wield your remote like a lightsaber!
+- New features include revamped attacks, special moves and power ups.
 - Online Cooperative mode for Xbox360 and PS3 versions only.
 - Play through the events of all six Star Wars movies for the first time ever in one videogame.
+- New levels further complete the entire Star Wars story.
+- Motion based controls for Wii, wield your remote like a lightsaber!
 - Solve puzzles that encourage creative thinking through the use of teamwork and unique building situations.
-- New features include revamped attacks, special moves and power ups.
+- New playable characters like Watto, Zam Wessell, Boss Nass and more bring the total count to over 160.
+- Upgraded Character Customizer includes all Prequel Trilogy characters for the first time.
 - New levels, new characters and new features added to the fun.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

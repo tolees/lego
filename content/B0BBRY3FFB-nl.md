@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De schaalmodel motorfiets zit vol realistische functies, waaronder besturing, ophanging en een kettingaandrijving die de H4 motor verbindt met het achterwiel
+- Dit motor modelbouwpakket is een geweldig Batman cadeau-idee voor kinderen van 9 jaar en ouder en fans van superhelden, voertuigen en constructie speelgoed
 - Batman-fans kunnen een iconisch voertuig uit de 2022 film: THE BATMAN nabouwen met dit LEGO Technic BATCYCLE speelgoed motor modelbouwpakket
 - Kinderen en fans kunnen in de huid van een superheld kruipen en de speelgoed motor stuk voor stuk bouwen om hun favoriete Batman momenten na te spelen
+- De schaalmodel motorfiets zit vol realistische functies, waaronder besturing, ophanging en een kettingaandrijving die de H4 motor verbindt met het achterwiel
 - Deze verzamelbare LEGO THE BATMAN - BATCYCLE speelgoed motor komt met een standaard, zodat kinderen hun bouwwerk met trots kunnen tentoonstellen
-- Dit motor modelbouwpakket is een geweldig Batman cadeau-idee voor kinderen van 9 jaar en ouder en fans van superhelden, voertuigen en constructie speelgoed
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRY3FFB{{</world>}}

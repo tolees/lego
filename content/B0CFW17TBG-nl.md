@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Knuckles speelgoed – de actie set bevat een verstelbare mecha met grote vuisten voor avontuurlijk spel en is gemakkelijk mee te nemen naar een speelafspraak met andere gamefans
-- Sonic speelgoed – trakteer fans en kinderen vanaf 8 jaar op deze Knuckles mechabewaker speelset boordevol mogelijkheden om verhalen na te spelen met bekende Sonic personages uit de games
 - Cadeaus voor gamers – dit bouwbare cadeau voor kinderen stimuleert verhalen vertellen voor jongens en meisjes met functies zoals een platform voor de Master Emerald op het zweefvliegtuig
-- Mechabewaker – dit speelgoed bestaat uit een bouwbare mecha actiefiguur met dubbele blasters, een zweefvliegtuigje en een Master Emerald, plus 2 personages uit de games: Knuckles en Rouge
+- Sonic speelgoed – trakteer fans en kinderen vanaf 8 jaar op deze Knuckles mechabewaker speelset boordevol mogelijkheden om verhalen na te spelen met bekende Sonic personages uit de games
+- Knuckles speelgoed – de actie set bevat een verstelbare mecha met grote vuisten voor avontuurlijk spel en is gemakkelijk mee te nemen naar een speelafspraak met andere gamefans
 - LEGO Sonic avonturen – met dit leuke actie speelgoed voor kinderen kunnen Sonic fans hun spel eindeloos uitbreiden door het toe te voegen aan andere LEGO Sonic the Hedgehog speelsets (apart verkrijgbaar) in de collectie
+- Mechabewaker – dit speelgoed bestaat uit een bouwbare mecha actiefiguur met dubbele blasters, een zweefvliegtuigje en een Master Emerald, plus 2 personages uit de games: Knuckles en Rouge
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW17TBG{{</world>}}

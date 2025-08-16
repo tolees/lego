@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A nightmare monster – This LEGO space vehicle toys set includes a figure of the Grimspawn, which has tentacles that wrap around the Jayden minifigure
-- LEGO DREAMZzz characters – The space toy playset features detailed Mr. Oz and Jayden minifigures which help bring the building set to life
-- LEGO vehicles – The building set can be given to kids who love space toys and model cars, as well as fans of the LEGO DREAMZzz TV show
-- 2 ways to build – The LEGO vehicle can be built as a space rover or a space shuttle toy, allowing kids to choose their own adventure
 - Gift idea – Fans of the LEGO DREAMZzz TV show can enjoy hours of play with this fantasy set, a fun gift for boys, girls and kids aged 8+, which can be given as a treat or reward toy
+- 2 ways to build – The LEGO vehicle can be built as a space rover or a space shuttle toy, allowing kids to choose their own adventure
+- LEGO DREAMZzz characters – The space toy playset features detailed Mr. Oz and Jayden minifigures which help bring the building set to life
+- A nightmare monster – This LEGO space vehicle toys set includes a figure of the Grimspawn, which has tentacles that wrap around the Jayden minifigure
+- LEGO vehicles – The building set can be given to kids who love space toys and model cars, as well as fans of the LEGO DREAMZzz TV show
 - Transforming car toy – Boys and girls aged 8+ can create a fantasy vehicle with this LEGO DREAMZzz Mr. Oz’s Space Car building toy set
 
 [🛒 Buy it now!!]({{< param buyurl >}})

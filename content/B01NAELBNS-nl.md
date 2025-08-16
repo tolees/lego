@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kantoor decoratie of woonaccessoire – voeg een opvallende blikvanger toe aan je huis of kantoor met dit gedetailleerde displaymodel van de vliegmachine van Leonardo da Vinci
-- LEGO voor volwassenen – maak ruimte voor ontspanning met de inspirerende reeks creatieve LEGO bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
 - Activeer de vleugels – bouw de vliegmachine van Leonardo da Vinci na met beweegbare vleugels van textiel en een staart die worden aangedreven door een ingewikkeld, zichtbaar mechanisme van touw, scharnieren en katrollen
 - Wat zit er in de doos – alles wat je nodig hebt om een gedetailleerde LEGO versie van Da Vincis visionaire ornithopter te maken, plus een displaystandaard en een minifiguur van Leonardo da Vinci met een ganzenveer en schets
-- 3D-bouwinstructies – bereid je voor om te bouwen als nooit tevoren met de LEGO Builder app, waarin je sets kunt opslaan, je voortgang kunt bijhouden, kunt inzoomen en je model in 3D kunt draaien
-- Da Vinci ornithopter bouwpakket voor volwassenen – ga helemaal op in de geschiedenis van luchtvaartinnovatie met het LEGO Icons De vliegmachine van Leonardo da Vinci bouwproject voor volwassenen
+- LEGO voor volwassenen – maak ruimte voor ontspanning met de inspirerende reeks creatieve LEGO bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
+- Kantoor decoratie of woonaccessoire – voeg een opvallende blikvanger toe aan je huis of kantoor met dit gedetailleerde displaymodel van de vliegmachine van Leonardo da Vinci
 - Een creatief LEGO cadeau voor geschiedenisliefhebbers – vier een verjaardag of speciale gelegenheid met dit cadeau voor hem of haar, alle liefhebbers van geschiedenis en volwassen fans van de luchtvaart en historische innovatie
+- Da Vinci ornithopter bouwpakket voor volwassenen – ga helemaal op in de geschiedenis van luchtvaartinnovatie met het LEGO Icons De vliegmachine van Leonardo da Vinci bouwproject voor volwassenen
+- 3D-bouwinstructies – bereid je voor om te bouwen als nooit tevoren met de LEGO Builder app, waarin je sets kunt opslaan, je voortgang kunt bijhouden, kunt inzoomen en je model in 3D kunt draaien
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NAELBNS{{</world>}}

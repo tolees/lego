@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Customisable friendship toys – LEGO DUPLO Town Buildable People with Big Emotions toddler learning toy teaches about emotions and how people look
-- Early learning toys – Toddlers learn about feelings and creativity as they build 5 people, deciding on their height, outfits and expressions
 - Learning though play – LEGO DUPLO sets are carefully designed so preschool children can develop self-expression and fine motor skills with the toys
+- Early learning toys – Toddlers learn about feelings and creativity as they build 5 people, deciding on their height, outfits and expressions
 - Creative freedom for kids – The set also includes a wheelbase so toddlers can give their LEGO DUPLO figures wheels instead of feet
 - Role-play toys – Includes 71 DUPLO bricks and pieces, including 5 buildable characters, 5 wigs and 10 face bricks for imaginative mix-and-match fun
 

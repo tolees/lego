@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Ce set LEGO polyvalent comprend aussi une grotte où se cache l’ennemi emblématique de Minecraft : un zombie
-- À l’extérieur, il y a 2 lapins LEGO qu’il faut nourrir avec des carottes qui poussent dans la ferme voisine et qui peuvent bondir grâce à un levier !
 - La maison LEGO Minecraft est ouverte à l’arrière et son toit se soulève pour permettre aux joueurs d’organiser les meubles et d’imaginer des jeux de rôle à l’intérieur
 - Il inclut des figurines Minecraft célèbres : le dresseur, un lapin, un bébé lapin et un zombie ainsi que de nombreux autres accessoires et fonctionnalités incroyables
+- À l’extérieur, il y a 2 lapins LEGO qu’il faut nourrir avec des carottes qui poussent dans la ferme voisine et qui peuvent bondir grâce à un levier !
 - Il comprend une maison Minecraft LEGO en forme de lapin géant qui abritera les animaux des enfants et est entourée d’une ferme avec des carottes et des fleurs
 
 [🛒 Buy it!!]({{< param buyurl >}})

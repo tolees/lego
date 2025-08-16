@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes 2 LEGO Friends mini-dolls; Olivia with a chefs hat, plus Ethan, with accessories including a skateboard and a helmet
-- The set serves up lots of flexible fun: kids can pretend to be a chef, play shop in the takeaway and use the till or serve diners at the table
-- Young chefs can join some of their favourite LEGO Friends at the Heartlake City Pizzeria, featuring a 2 mini-dolls and lots of accessories
 - Children can decorate the toy restaurant with hanging flowers and a pizza slice sign to bring an authentic feel to their pizzeria
 - This food toy for 5 year old girls and boys includes a pizza oven with paddle, outdoor seating area, skateboard, cheese, grater and sauce bottles
+- The set serves up lots of flexible fun: kids can pretend to be a chef, play shop in the takeaway and use the till or serve diners at the table
+- Young chefs can join some of their favourite LEGO Friends at the Heartlake City Pizzeria, featuring a 2 mini-dolls and lots of accessories
+- Includes 2 LEGO Friends mini-dolls; Olivia with a chefs hat, plus Ethan, with accessories including a skateboard and a helmet
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QG324FJ{{</world>}}

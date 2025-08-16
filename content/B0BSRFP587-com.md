@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hours of play - The set is designed for kids ages 8 and up to play with their favorite minifigure characters: Cooper, Jayden, and the Night Hunter. The set is designed for kids ages 8 and up to spend hours of fun playing on their own or with friends
-- Customizable vehicle – Kids can enjoy imaginative play with the LEGO DREAMZzz Crocodile Car building toy set (71458), which lets them choose the type of vehicle to either fight the nightmares or chase them down
 - Multiple ways to build – Kids can build the vehicle inspired by the LEGO DREAMZzz TV show as a crocodile car or as a souped-up, super-fast off-roader truck and mini-boat
-- Dimensions – In its largest form, the model measures over 3 in. (8 cm) high, 17.5 in. (45 cm) long and 6 in. (15 cm) wide
-- A helping hand – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
 - Off-road mode – In off-road mode, the truck has rolling wheels and a roof that can be removed, letting kids seat a minifigure inside
+- Customizable vehicle – Kids can enjoy imaginative play with the LEGO DREAMZzz Crocodile Car building toy set (71458), which lets them choose the type of vehicle to either fight the nightmares or chase them down
 - Croc mode – In croc mode, the car launches discs out of its grille (the croc’s mouth) and has posable arms and legs to make it easy for kids to play and create adventures
+- Dimensions – In its largest form, the model measures over 3 in. (8 cm) high, 17.5 in. (45 cm) long and 6 in. (15 cm) wide
+- Hours of play - The set is designed for kids ages 8 and up to play with their favorite minifigure characters: Cooper, Jayden, and the Night Hunter. The set is designed for kids ages 8 and up to spend hours of fun playing on their own or with friends
+- A helping hand – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRFP587{{</world>}}

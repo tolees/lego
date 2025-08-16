@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The Star Wars Starfighter features an open cockpit for The Mandalorian, space for Grogu behind the cockpit and 2 stud shooters for action play
-- Kids join The Mandalorian and Grogu for a galaxy of action-packed fun on a bounty-hunting mission in the N-1 Starfighter Microfighter
+- LEGO Star Wars sets let creative kids and adult fans recreate Star Wars scenes, make up their own stories or display the buildable models; they also make great Star Wars-themed gifts for kids, boys, girls and adult fans alike
 - This LEGO Star Wars playset combines with other LEGO Star Wars Microfighter sets (sold separately) for even more fun play possibilities
 - Includes 2 Star Wars characters: a LEGO Star Wars The Mandalorian minifigure, plus a LEGO figure of Grogu (affectionately known as baby Yoda)
-- LEGO Star Wars sets let creative kids and adult fans recreate Star Wars scenes, make up their own stories or display the buildable models; they also make great Star Wars-themed gifts for kids, boys, girls and adult fans alike
 - Kids aged 6+ can build a microscale LEGO model of The Mandalorian’s N-1 Starfighter first seen in Star Wars: The Book of Boba Fett and 2 characters
+- The Star Wars Starfighter features an open cockpit for The Mandalorian, space for Grogu behind the cockpit and 2 stud shooters for action play
+- Kids join The Mandalorian and Grogu for a galaxy of action-packed fun on a bounty-hunting mission in the N-1 Starfighter Microfighter
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV7BVR1W{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO home decor idea – This LEGO interpretation of the LOVE sculpture makes an impressive living room decoration or office decor piece
 - Engagement gift for couples – This LOVE model kit for adults to build makes a thoughtful Valentine’s Day treat or birthday gift for women and men
-- LEGO Art sets for adults – The LEGO Art range gives adults the chance to create brick-built artworks inspired by some of their biggest passions to display at home or in the office
-- Celebration of an icon – The 3D LOVE model is similar to the real-life sculpture, featuring the same design and vibrant red, blue and green colours
+- LEGO home decor idea – This LEGO interpretation of the LOVE sculpture makes an impressive living room decoration or office decor piece
 - A social building experience – Comes with 2 sets of building instructions so you can create your buildable LOVE model with a friend or family member
 - Brick-built gift for couples – Create your own small version of Robert Indiana’s famous LOVE sculpture with this LEGO Art building set for adults
+- LEGO Art sets for adults – The LEGO Art range gives adults the chance to create brick-built artworks inspired by some of their biggest passions to display at home or in the office
+- Celebration of an icon – The 3D LOVE model is similar to the real-life sculpture, featuring the same design and vibrant red, blue and green colours
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSDWG2R{{</world>}}

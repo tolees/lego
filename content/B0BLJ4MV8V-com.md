@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Dont miss other LEGO Speed Champions race car models: the Ferrari 812 Competizione (76914) and McLaren Solus GT and McLaren F1 LM (76918)
+- The toy car has features of the real hypercar: central 4-pipe exhaust, swooping bodywork, front grille, wheel arches and an engine beneath glass
+- A stunning collectible model of an iconic Italian hypercar, great for playing high speed adventures, and makes an eye-catching display piece
 - This collectible toy car model building kit is a wonderful birthday gift idea that will delight kids and fans of LEGO racing car models
 - This LEGO Speed Champions car model building kit features a buildable replica of one of the worlds most iconic hypercars: the Pagani Utopia
 - The Pagani Utopia replica model measures over 4 cm (1.5 in.) high, 15 cm (5.5 in.) long and 8 cm (3 in.) wide. Contains 249 pieces
 - The cockpit of this LEGO race car toy can be opened to insert the race driver minifigure included in the set, with helmet and switchable hair
-- A stunning collectible model of an iconic Italian hypercar, great for playing high speed adventures, and makes an eye-catching display piece
-- The toy car has features of the real hypercar: central 4-pipe exhaust, swooping bodywork, front grille, wheel arches and an engine beneath glass
-- Dont miss other LEGO Speed Champions race car models: the Ferrari 812 Competizione (76914) and McLaren Solus GT and McLaren F1 LM (76918)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BLJ4MV8V{{</world>}}

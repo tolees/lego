@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De LEGO minipoppetjes kunnen ronddraaien in het trainingsapparaat en dankzij de vele wetenschappelijk correcte elementen in deze speelgoed set leren kleine ruimtefans van alles over de ruimte en de opleiding tot astronaut
-- Kinderen kunnen met dit constructie speelgoed leuke rollenspellen spelen waarbij ze meedoen aan astronautentraining, de ruimtevaart simuleren in de LEGO spaceshuttle, een ruimtewandeling maken en de hemel afspeuren op zoek naar nieuwe sterrenstelsels
-- Inclusief een speelgoed ruimte-academie met een klaslokaal en missie controlecentrum, een spaceshuttle ruimteschip met een Canadarm, een telescoop en een observatorium
-- Deze bouwset boordevol functies is een leuke verrassing of een geweldig cadeau voor meiden of jongens van 8 jaar en ouder die alles willen weten over de ruimte en wetenschap
 - Dit LEGO Friends educatieve ruimtespeelgoed voor kinderen bevat een model van een spaceshuttle, een academiegebouw, een telescoop en 4 minipoppetjes
+- De LEGO minipoppetjes kunnen ronddraaien in het trainingsapparaat en dankzij de vele wetenschappelijk correcte elementen in deze speelgoed set leren kleine ruimtefans van alles over de ruimte en de opleiding tot astronaut
+- Deze bouwset boordevol functies is een leuke verrassing of een geweldig cadeau voor meiden of jongens van 8 jaar en ouder die alles willen weten over de ruimte en wetenschap
+- Kinderen kunnen met dit constructie speelgoed leuke rollenspellen spelen waarbij ze meedoen aan astronautentraining, de ruimtevaart simuleren in de LEGO spaceshuttle, een ruimtewandeling maken en de hemel afspeuren op zoek naar nieuwe sterrenstelsels
 - Dit ruimteschip speelgoed bevat 4 LEGO friends poppetjes van Olivia en haar vrienden
+- Inclusief een speelgoed ruimte-academie met een klaslokaal en missie controlecentrum, een spaceshuttle ruimteschip met een Canadarm, een telescoop en een observatorium
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNSQ6YR{{</world>}}

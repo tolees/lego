@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features LEGO City Adventures TV character Duke DeTain, 2 police officers and a crook with scuba gear LEGO City minifigures, plus a toy dog figure
-- LEGO City Missions interactive sets require a smartphone or tablet with the free LEGO Building Instructions app (printed instructions not included)
-- With this LEGO City Police Missions interactive set, kids lead digital adventures, using real LEGO bricks to complete on-screen missions
-- Contains all LEGO pieces kids need to build a customizable mission speedboat toy and crooks’ cell to solve paper-free, digital building challenges
-- LEGO City Missions sets develop kids creative and problem-solving skills as they complete on-screen challenges with real LEGO pieces
-- This LEGO interactive playset includes a magnifying glass, life jacket, toy walkie-talkie, binoculars, handcuffs, camera and treasure accessories
 - This interactive LEGO Police toy playset makes a great holiday, birthday or anytime gift for kids age 6 plus who like cool toys and video games
+- This LEGO interactive playset includes a magnifying glass, life jacket, toy walkie-talkie, binoculars, handcuffs, camera and treasure accessories
+- Features LEGO City Adventures TV character Duke DeTain, 2 police officers and a crook with scuba gear LEGO City minifigures, plus a toy dog figure
+- Contains all LEGO pieces kids need to build a customizable mission speedboat toy and crooks’ cell to solve paper-free, digital building challenges
+- With this LEGO City Police Missions interactive set, kids lead digital adventures, using real LEGO bricks to complete on-screen missions
+- LEGO City Missions interactive sets require a smartphone or tablet with the free LEGO Building Instructions app (printed instructions not included)
+- LEGO City Missions sets develop kids creative and problem-solving skills as they complete on-screen challenges with real LEGO pieces
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09XWJ5WYW{{</world>}}

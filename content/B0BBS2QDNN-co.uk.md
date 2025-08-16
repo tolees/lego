@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- With details such as the parrots branch covered in flowers, this building toy set will look awesome on display in kids rooms when play is over
 - The range of 3in1 LEGO Creator building toys is full of fun; dont miss the Space Shuttle (31134) and Beach Camper Van (31138) sets
-- The toy parrot is richly coloured and comes with jointed parts that allow it to rotate its body on the branch and move its wings and tail
 - The parrot can be transformed into a toy frog with posable legs or into a LEGO fish with movable fins and a seabed for creative adventures
+- Kids can choose their building adventure with 3 LEGO Creator animal figures or fire up their imagination and create a new animal with the bricks
 - This LEGO Creator 3in1 animal toy set features 3 animals for kids 7+ years old: a parrot toy perched on a branch, a playful frog and a toy fish
 - The easy-to-follow picture guide makes construction easy and fun, plus digital building instructions can also be found in the LEGO Builder app
-- Kids can choose their building adventure with 3 LEGO Creator animal figures or fire up their imagination and create a new animal with the bricks
-- With details such as the parrots branch covered in flowers, this building toy set will look awesome on display in kids rooms when play is over
+- The toy parrot is richly coloured and comes with jointed parts that allow it to rotate its body on the branch and move its wings and tail
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBS2QDNN{{</world>}}

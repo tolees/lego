@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Genieße die Magie und baue das Hogwarts-Schloss und seine umliegenden Bereiche, darunter den Hauptturm, den Astronomieturm, Innenhöfe, die Große Halle und das Bootshaus sowie Brücken und Gewächshäuser
 - Genieße die Details der felsigen Landschaft, des Schwarzen Sees, der Kammer des Schreckens, des Raums mit den geflügelten Schlüsseln, des Klassenzimmers für Zaubertränke und der Schachbrettkammer, jeweils mit sofort erkennbaren Elementen
 - Platziere die goldfarbene Hogwarts-Architektenstatue neben dem „Schloss Hogwarts“ Namensschild oder an der Ecke der Grundplatte, um ein bezauberndes Ausstellungsstück für deine Harry Potter-Sammlung zu schaffen
-- Erschaffe die berühmtesten Orte der Zaubererwelt mit diesem atemberaubenden LEGO Harry Potter Hogwarts-Schloss mit Gelände-Modellbausatz aus 2.660 Teilen als Bau- und Ausstellungs-Set für Erwachsene und Fans
 - In diesem großen LEGO Set sind außerdem das Durmstrang-Schiff, die Beauxbatons-Kutsche mit geflügelten Pferden, die auf einem durchsichtigen Ständer „fliegen“, und ein Ford Anglia in den Zweigen der Peitschenden Weide enthalten
+- Genieße die Magie und baue das Hogwarts-Schloss und seine umliegenden Bereiche, darunter den Hauptturm, den Astronomieturm, Innenhöfe, die Große Halle und das Bootshaus sowie Brücken und Gewächshäuser
+- Erschaffe die berühmtesten Orte der Zaubererwelt mit diesem atemberaubenden LEGO Harry Potter Hogwarts-Schloss mit Gelände-Modellbausatz aus 2.660 Teilen als Bau- und Ausstellungs-Set für Erwachsene und Fans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BYNYD{{</world>}}

@@ -32,9 +32,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Bevat een speelgoed, dierenkliniek, kapper blogstudio, disco op het dak, stripboekenwinkel en elektronicawinkel, plus een conciërgekamer, een hotel, een park, en een streetfoodgedeelte,
 - Vier een speciale gelegenheid met deze LEGO City modulaire gebouwen set; een geweldig verjaardagscadeau of kerstcadeau voor kinderen, jongens en meisjes vanaf 8 jaar
 - De LEGO mini figuur accessoires omvatten een speelgoed viool, scooter, veegborstel, een pizza, een deegroller, een garde, een schaar, een haarborstel, een fles, een stripboek, een LEGO NINJAGO verzamelkaart, een kettingzaag en een moersleutel
-- De LEGO City Binnenstad set voor kinderen komt met veel modulaire kamers en coole functies voor de ultieme bouw-en speelervaring
 - Er is een LEGO hotel met receptie, speelgoed zonnepanelen en windturbines om de LEGO City binnenstad van energie te voorzien, plus een gezellig streetfoodgedeelte met pizzas, drankjes en noodles voor de inwoners
 - Er is ook een LEGO Wegplaat voor eenvoudige aansluiting op andere LEGO City sets zoals de Appartementengebouw (60365) SkatePark (60364) set, plus een interactieve bouwgids op de LEGO Builder app
+- De LEGO City Binnenstad set voor kinderen komt met veel modulaire kamers en coole functies voor de ultieme bouw-en speelervaring
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC55SRJ{{</world>}}

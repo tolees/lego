@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Inclusive Minecraft Figures - Set includes Sentinel Soldier, Guardian Warrior, allay figures, skeleton and Creeper mobs, and a pig animal toy.
 - Perfect Room Display - Once playtime is over, the Minecraft diamond sword build makes a cool display in kids rooms, showcasing their creativity.
 - Minecraft Diamond Sword - Engage in explosive battles with this large recreation of Minecrafts diamond sword, perfect for kids who love the game.
 - Explosive Tower Feature - A lever at the bottom of the tower triggers an explosion, collapsing part of the structure for thrilling gameplay.
-- Inclusive Minecraft Figures - Set includes Sentinel Soldier, Guardian Warrior, allay figures, skeleton and Creeper mobs, and a pig animal toy.
-- Giant Toy Base - Kids build a giant Minecraft diamond sword base featuring a chill-out area, a juke box toy, a table, and cookies for added fun.
 - Expandable Minecraft Set - Combines with other LEGO Minecraft building toys for endless fun and makes a great birthday or any-occasion gift.
+- Giant Toy Base - Kids build a giant Minecraft diamond sword base featuring a chill-out area, a juke box toy, a table, and cookies for added fun.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSKXWZF{{</world>}}

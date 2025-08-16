@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De bouwbare Batman speelgoed figuur kan makkelijk worden aangepast, zodat kinderen favoriete filmscènes kunnen naspelen en eindeloze fantasierijke verhalen kunnen uitspelen
-- De bouwbare Batman actiefiguur heeft beweegbare schouder-, arm-, heup- en beengewrichten en is inclusief de iconische cape
 - Klassieke superhelden actie wacht op DC fans vanaf 8 jaar met deze zeer gedetailleerde, volledig beweegbare LEGO Batman figuur gebaseerd op de 1989 Batman film
+- De bouwbare Batman actiefiguur heeft beweegbare schouder-, arm-, heup- en beengewrichten en is inclusief de iconische cape
+- De bouwbare Batman speelgoed figuur kan makkelijk worden aangepast, zodat kinderen favoriete filmscènes kunnen naspelen en eindeloze fantasierijke verhalen kunnen uitspelen
 - Dit LEGO DC Batman bouwbare speelgoed van de klassieke film uit 1989 is een geweldig verjaardagscadeau voor jongens en meisjes vanaf 8 jaar, leuk apart of ter aanvulling van een LEGO superhelden collectie
 - Deze draagbare Batman actiefiguur is meer dan 26 cm hoog en laat kinderen hun avonturen overal mee naartoe nemen
 

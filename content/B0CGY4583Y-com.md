@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Space toy with fun functions – Kids can place the space crew minifigure into the pilot cockpit and use the hammer and claw tool arms to mine imaginary planets for power-generating energy crystals
-- Toy mech suit for ages 6 and up – LEGO City space toy for futuristic play includes an articulated mech suit with hammer and claw tool arms, a minifigure pilot cockpit and big feet for exploring new worlds
 - What’s in this LEGO building set? – Includes everything kids need to build an articulated mech suit, space construction robot, space crew minifigure and a planet scene with rock and crystal accessories
-- More sets to collect – Kids unleash more fun and adventures when they add this set to others (sold separately) from the LEGO City space range
 - Open-ended play – LEGO City space playsets come with realistic vehicles, detailed structures and inspiring characters that merge fantasy and reality for imaginative play without limits
-- Digital construction guide – Take your space enthusiast on a fun building adventure with the LEGO Builder app, which lets kids view models from all angles as they build
 - A space gift for mech fans – Give this LEGO City space set as a fun holiday gift or any-day treat for kids and space enthusiasts aged 6 and up
+- Toy mech suit for ages 6 and up – LEGO City space toy for futuristic play includes an articulated mech suit with hammer and claw tool arms, a minifigure pilot cockpit and big feet for exploring new worlds
+- Space toy with fun functions – Kids can place the space crew minifigure into the pilot cockpit and use the hammer and claw tool arms to mine imaginary planets for power-generating energy crystals
+- Digital construction guide – Take your space enthusiast on a fun building adventure with the LEGO Builder app, which lets kids view models from all angles as they build
+- More sets to collect – Kids unleash more fun and adventures when they add this set to others (sold separately) from the LEGO City space range
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CGY4583Y{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Includes a ‘wanted’ poster – With an adult’s permission, kids can scan the QR code in the instructions or on the box for a fun LEGO City Police video
 - Creative play without limits – Kids unleash more fun and adventures when they use this set with others (sold separately) from the LEGO City range
 - What’s in this set? – Features a police interceptor and a green getaway toy car, plus a police officer and crook minifigures for fun role play
-- Car toy for kids who love pretend play – Kids pop the police officer and crook minifigures into their vehicles to unleash a world of creative play
-- Includes a ‘wanted’ poster – With an adult’s permission, kids can scan the QR code in the instructions or on the box for a fun LEGO City Police video
-- Police car toy for tyre-screeching action – Police pursuits await with the LEGO City Police Car and Muscle Car Chase playset for kids aged 6+
 - A LEGO treat for police toy fans – Give this LEGO City police race car toy playset as a fun birthday gift for 6+ year old kids, boys and girls
+- Car toy for kids who love pretend play – Kids pop the police officer and crook minifigures into their vehicles to unleash a world of creative play
+- Police car toy for tyre-screeching action – Police pursuits await with the LEGO City Police Car and Muscle Car Chase playset for kids aged 6+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1BPKM{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- There is also a 6-legged Direhorse animal figure and an impressively large posable Toruk with an opening mouth and bendable plastic wings
-- Contains 3 instruction booklets, designed to encourage group fun that will allow friends and family to build different parts of the set at once
-- The set includes a buildable Tree of Souls and 3 environment models with glow-in-the-dark elements for kids to play-out epic action adventures
-- Avatar fans can re-create a memorable, glow in the dark Pandora scene from the film, design new ideas, or build a beautiful dynamic display
-- Includes 4 Na’vi LEGO minifigures: Jake Sully, Neytiri, Mo’at and Tsu’Tey plus bows, arrows and spears accessory elements
-- This set makes a great gift for Avatar fans; the models make an out of this world display - perfect for posing on the detailed environment
 - This LEGO Avatar buildable toy features 3 different Pandora scenes, 4 character minifigures, 2 animal figures and the sacred Tree of Souls
+- The set includes a buildable Tree of Souls and 3 environment models with glow-in-the-dark elements for kids to play-out epic action adventures
+- There is also a 6-legged Direhorse animal figure and an impressively large posable Toruk with an opening mouth and bendable plastic wings
+- This set makes a great gift for Avatar fans; the models make an out of this world display - perfect for posing on the detailed environment
+- Avatar fans can re-create a memorable, glow in the dark Pandora scene from the film, design new ideas, or build a beautiful dynamic display
+- Contains 3 instruction booklets, designed to encourage group fun that will allow friends and family to build different parts of the set at once
+- Includes 4 Na’vi LEGO minifigures: Jake Sully, Neytiri, Mo’at and Tsu’Tey plus bows, arrows and spears accessory elements
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFX2N68{{</world>}}

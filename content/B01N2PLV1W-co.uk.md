@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Early development and activity toys – LEGO DUPLO Peppa Pig toys support fine motor skills development and learning through fun-filled playtimes
-- Floating toy for water fun – This Peppa Pig boat toy floats for real, so toddlers can enjoy water play with their favourite TV character
 - 2 Peppa Pig figures – Features Peppa and Grandpa Pig figures, a floating toy boat, plus lots of creative accessories to spark limitless storytelling
-- Beach and boat toy playset – Toddlers aged 2+ set sail on a beach adventure with the LEGO DUPLO Peppa Pig Boat Trip inspired by the TV show
 - Peppa Pig summer toy – Peppa applies sun cream, builds a sandcastle with her spade, then collects shells in her bucket and swims with her flippers
 - Gift idea for toddlers – Make a splash with toddlers who love Peppa Pig toys with this special-occasion or birthday gift for 2-plus-year-old girls, boys and kids who love the Peppa Pig TV show
+- Beach and boat toy playset – Toddlers aged 2+ set sail on a beach adventure with the LEGO DUPLO Peppa Pig Boat Trip inspired by the TV show
+- Floating toy for water fun – This Peppa Pig boat toy floats for real, so toddlers can enjoy water play with their favourite TV character
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N2PLV1W{{</world>}}

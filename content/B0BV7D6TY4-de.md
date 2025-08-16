@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Im Set sind 2 LEGO DC-Minifiguren enthalten: eine Superhelden-Batman-Figur und eine Superschurken-Joker-Figur sowie Zubehör wie ein Helm, Batmans Umhang, eine Harpunenspitze, Handschellen und ein Batarang, den man in den Kofferraum stecken kann
-- Das Batman-Auto-Modell verfügt über ein abnehmbares Dach, das Zugang zum Cockpit des Fahrzeugs mit Platz für eine Minifigur bietet, sowie über einen aufklappbaren Kofferraum und einen Mechanismus zum Hochfahren der beiden eingebauten Blaster
-- Dieses Batman-Spielzeug-Auto verfügt über ein drehendes LEGO Flammenelement, das für einen brennenden Effekt am Auspuffrohr sorgt – perfekt, um actiongeladene Verfolgungsjagden aus dem Film zum Leben zu erwecken
 - Das LEGO DC Batmobile: Batman verfolgt den Joker Set enthält ein ikonisches Batmobil-Spielzeugauto sowie 2 Minifiguren, um das Drama und die Spannung des Filmklassikers von 1989 zum Leben zu erwecken
+- Das Batman-Auto-Modell verfügt über ein abnehmbares Dach, das Zugang zum Cockpit des Fahrzeugs mit Platz für eine Minifigur bietet, sowie über einen aufklappbaren Kofferraum und einen Mechanismus zum Hochfahren der beiden eingebauten Blaster
+- Im Set sind 2 LEGO DC-Minifiguren enthalten: eine Superhelden-Batman-Figur und eine Superschurken-Joker-Figur sowie Zubehör wie ein Helm, Batmans Umhang, eine Harpunenspitze, Handschellen und ein Batarang, den man in den Kofferraum stecken kann
 - Mit der intuitiven LEGO Builder-App können Kinder das Set in 3D zoomen und drehen, Sets speichern und den Fortschritt überwachen. Sobald das Modellauto fertig ist, wird es in jedem Schlafzimmer zu einem großartigen Ausstellungsstück
 - Dieses LEGO DC Batman-Spielzeug Set mit einem 1989 Batmobil-Spielzeugauto ist ein spannendes Geschenk zum Geburtstag oder Weihnachten für Jungen, Mädchen und alle Kinder ab 8 Jahren oder ein Superhelden-Spielzeug für Fans von Batman und DC
+- Dieses Batman-Spielzeug-Auto verfügt über ein drehendes LEGO Flammenelement, das für einen brennenden Effekt am Auspuffrohr sorgt – perfekt, um actiongeladene Verfolgungsjagden aus dem Film zum Leben zu erwecken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV7D6TY4{{</world>}}

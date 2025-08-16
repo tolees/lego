@@ -32,8 +32,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Speelgoed dinosaurus figuur voor jongens en meisjes – bevat een speelgoed schedel van een T. rex met dinosaurusbotten voor kinderen, een fossiele voetafdruk en een displaystandaard met een informatiebordje en een verborgen stuk amber
 - Dinosaurusspeelgoedset – verwen kinderen van 9 jaar en ouder met een passie voor dinos en avonturen met deze Dinosaurusfossielen: T. rex schedel set: een uitdagend bouwproject met als resultaat een fraai displaymodel
 - Een nieuwe bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
-- Verstelbare schedel – dankzij de kaken die open en dicht kunnen kan de schedel op verschillende manieren op de standaard worden geplaatst in combinatie met de fossiele voetafdruk
 - Stimuleer de creativiteit – LEGO Jurassic World sets zijn gemaakt om de liefde van kinderen voor dinosaurus speelgoed aan te wakkeren, hun creativiteit te vergroten en hun vaardigheden te ontwikkelen
+- Verstelbare schedel – dankzij de kaken die open en dicht kunnen kan de schedel op verschillende manieren op de standaard worden geplaatst in combinatie met de fossiele voetafdruk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1LY54{{</world>}}

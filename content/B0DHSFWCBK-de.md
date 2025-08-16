@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enthält Minecraft Minifiguren: Das Set beinhaltet eine Höhlenspinne und einen Wolf, sowie 2 Gürteltiere, die Hornschild zur Fertigung einer Wolfsrüstung liefern
-- Viele Spielmöglichkeiten: Dieses LEGO Minecraft Bauspielzeug lässt sich mühelos umgestalten, um neue Abenteuer und unzählige Geschichten im Minecraft Universum darstellen zu können
-- Minecraft Abenteuer-Spielzeug für Mädchen und Jungen ab 8 Jahren: Die Expedition zur Gürteltiermine ist ein faszinierendes LEGO Minecraft Spielset mit Figuren aus dem beliebten Videospiel
-- Noch mehr Spielspaß mit weiteren Sets zum Videospiel: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls fantasievoll spielen lassen
 - Minecraft Geschenk für Kinder: Dieses LEGO Bau- und Spielset ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Mädchen und Jungen ab 8 Jahren
-- Minecraft Action in der echten Welt: LEGO Minecraft Bauspielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
+- Viele Spielmöglichkeiten: Dieses LEGO Minecraft Bauspielzeug lässt sich mühelos umgestalten, um neue Abenteuer und unzählige Geschichten im Minecraft Universum darstellen zu können
+- Noch mehr Spielspaß mit weiteren Sets zum Videospiel: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls fantasievoll spielen lassen
+- Minecraft Abenteuer-Spielzeug für Mädchen und Jungen ab 8 Jahren: Die Expedition zur Gürteltiermine ist ein faszinierendes LEGO Minecraft Spielset mit Figuren aus dem beliebten Videospiel
 - Spielset zum Videospiel: Der Actionspaß spielt sich in einer Mine im Savannen-Biom ab; Das Bauset beinhaltet ein Modell mit einem Hebel, um TNT explodieren zu lassen und einen Teil des Geländes wegzusprengen und kostbares Erz freizulegen
+- Enthält Minecraft Minifiguren: Das Set beinhaltet eine Höhlenspinne und einen Wolf, sowie 2 Gürteltiere, die Hornschild zur Fertigung einer Wolfsrüstung liefern
+- Minecraft Action in der echten Welt: LEGO Minecraft Bauspielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFWCBK{{</world>}}

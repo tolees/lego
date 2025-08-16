@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- A role play toy with accessories – The set comes with lots of accessories to boost play, including a saddle, carrot, apple, brush and a ribbon
+- Measurements – When the car and trailer are connected they measure over 2 in. (5 cm) high, 9.5 in. (24 cm) long and 2 in. (5 cm) wide and the set comprises 105 pieces
 - A building toy for ages 4+ – Kids who are learning to build can get off to a great start with this toy horse trailer set designed for new builders ages 4 and up
 - 4 LEGO Friends characters – This creative play gift for kids includes Liann and Zoya toy figures, plus a horse and a pony, so kids can enjoy hours of pretend play as they make up new adventures
-- A role play toy with accessories – The set comes with lots of accessories to boost play, including a saddle, carrot, apple, brush and a ribbon
 - Discover more kids’ building kits – Check out other sets for little builders in the LEGO Friends range, sold separately
-- Measurements – When the car and trailer are connected they measure over 2 in. (5 cm) high, 9.5 in. (24 cm) long and 2 in. (5 cm) wide and the set comprises 105 pieces
 - A gift for kids who love animals and nature – This set makes a great holiday or anytime gift idea for kids who enjoy creating animal and nature role play stories
 - Horse toy with animal figures – This building toy for girls, boys and kids ages 4 and up includes a buildable car toy and horse trailer, Liann and Zoya mini-dolls, a horse toy, a pony toy and accessories
 

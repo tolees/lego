@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Harry Potter Set für erwachsene Fans: Die Winkelgasse aus diesem LEGO Bauset ist ein tolles Geschenk für erwachsene Fans der Harry Potter Fantasy-Abenteuer und für Souvenir-Sammler oder eine tolle Belohnung für dich selbst
-- 12 seltene LEGO Harry Potter Mikrofiguren: Enthält unter anderem Harry Potter, Ron Weasley, Hermine Granger, Fred Weasley, George Weasley, Lavender Brown, Ginny Weasley, Draco Malfoy, Narzissa Malfoy und Mr. Borgin
-- Miniaturversionen der Läden in der Winkelgasse: Erschaffe Mikroversionen legendärer Gebäude wie Eeylops Eulenkaufhaus, Gringotts Zaubererbank, Zum Tropfenden Kessel und das Hauptbüro von Der Tagesprophet sowie den Fahrenden Ritter
+- Wandlungsfähiges Fantasy Set zum Ausstellen: Du kannst die Winkelgasse entweder mit beiden Straßenseiten oder als eine lange Häuserzeile ausstellen; Oder du zerteilst sie in 5 Module, um jedes Gebäude näher zu betrachten
 - 3D-Bauanleitungen: Freu dich auf ein besonders kreatives Bauerlebnis mit der intuitiven LEGO Builder App; In der App kannst du unter anderem 3D-Ansichten deines Modells drehen und vergrößern oder deinen Baufortschritt verfolgen
 - LEGO Harry Potter Winkelgasse – ein fasinierendes Set für Erwachsene: Dieses Mikromodell lässt dich die Atmosphäre der Winkelgasse mit all ihren Zauberläden detailgetreu nachbilden
-- Wandlungsfähiges Fantasy Set zum Ausstellen: Du kannst die Winkelgasse entweder mit beiden Straßenseiten oder als eine lange Häuserzeile ausstellen; Oder du zerteilst sie in 5 Module, um jedes Gebäude näher zu betrachten
+- Miniaturversionen der Läden in der Winkelgasse: Erschaffe Mikroversionen legendärer Gebäude wie Eeylops Eulenkaufhaus, Gringotts Zaubererbank, Zum Tropfenden Kessel und das Hauptbüro von Der Tagesprophet sowie den Fahrenden Ritter
+- 12 seltene LEGO Harry Potter Mikrofiguren: Enthält unter anderem Harry Potter, Ron Weasley, Hermine Granger, Fred Weasley, George Weasley, Lavender Brown, Ginny Weasley, Draco Malfoy, Narzissa Malfoy und Mr. Borgin
 - Harry Potter Sammlerstück: Dieses LEGO Harry Potter Bauset im Mikromaßstab gehört zu einem breiten Sortiment an LEGO Sets für Erwachsene, die gern bei achtsamen Aktivitäten abschalten und entspannen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

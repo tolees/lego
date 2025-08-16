@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bigger racing adventures – Look out for more LEGO Speed Champions model cars with authentic details, sets sold separately
-- Car gifts – This building toy provides a fun build-and-play experience and is a fun gift for 9-plus-year-old boys, girls or adult car-model collectors
-- Authentic details – The model features the distinctive black-and-papaya livery, team-sponsor logos, wheels with Pirelli print and papaya safety halo
-- 1 minifigure – The McLaren F1 model car includes a LEGO race driver minifigure with a helmet, wig and a wrench for kids to place behind the wheel
-- LEGO vehicle display model – After kids have taken the F1 toy for a drive around the track, it looks great on display as a kids bedroom decoration
 - McLaren car toy for kids – LEGO Speed Champions McLaren 2023 Formula 1 Race Car toy for 9+ year old boys, girls and F1 fans
+- 1 minifigure – The McLaren F1 model car includes a LEGO race driver minifigure with a helmet, wig and a wrench for kids to place behind the wheel
+- Car gifts – This building toy provides a fun build-and-play experience and is a fun gift for 9-plus-year-old boys, girls or adult car-model collectors
+- LEGO vehicle display model – After kids have taken the F1 toy for a drive around the track, it looks great on display as a kids bedroom decoration
+- Bigger racing adventures – Look out for more LEGO Speed Champions model cars with authentic details, sets sold separately
+- Authentic details – The model features the distinctive black-and-papaya livery, team-sponsor logos, wheels with Pirelli print and papaya safety halo
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTFN6{{</world>}}

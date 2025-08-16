@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Creative fun – Models can be used for imaginative play and practical use, including hanging as decorations and using to hold items such as pencils
+- Pretend play – The guide in this building toy for kids includes inspiration for a monkey, highlighter, snowman, toy rainbow house, poo and more
+- Bricks that build skills – LEGO Classic toys are filled with ideas and inspiration and allow parents to share building fun and developmental milestones with their kids
+- More creative toys – The instructions also include guides for a bee, camera, birthday cake, cat, cactus, rainbow heart and LEGO bird
+- Birthday gift idea – This versatile LEGO bricks box is a colourful and creative gift for 5 plus year old girls and boys, designed to inspire kids’ imaginations for years to come
 - Colourful LEGO bricks – Creative Happy Box for kids is bursting with colours, playful possibilities and building toys for 5+ year old girls and boys
 - Assorted bricks – Includes ideas for 10 models designed to inspire happiness, which can be rebuilt into 12 other toys or anything kids can think of
-- Pretend play – The guide in this building toy for kids includes inspiration for a monkey, highlighter, snowman, toy rainbow house, poo and more
-- More creative toys – The instructions also include guides for a bee, camera, birthday cake, cat, cactus, rainbow heart and LEGO bird
-- Bricks that build skills – LEGO Classic toys are filled with ideas and inspiration and allow parents to share building fun and developmental milestones with their kids
-- Creative fun – Models can be used for imaginative play and practical use, including hanging as decorations and using to hold items such as pencils
-- Birthday gift idea – This versatile LEGO bricks box is a colourful and creative gift for 5 plus year old girls and boys, designed to inspire kids’ imaginations for years to come
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N0RCI03{{</world>}}

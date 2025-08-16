@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Er existiert seit einer magischen Explosion als Betriebssystem Merlok 2.0 in der Festung Fortrex
-- Merlok ist ein Zauberer aus dem Königreich Knighton
-- Unterstützt und versorgt die Ritter mit den spektakulären NEXO-Kräften
 - Lego Nexo Knights Minifigur Merlok 2.0 Limited Edition
+- Merlok ist ein Zauberer aus dem Königreich Knighton
 - Sammelfigur wird mit OVP Foil Pack in Einzelteilen geliefert
+- Unterstützt und versorgt die Ritter mit den spektakulären NEXO-Kräften
+- Er existiert seit einer magischen Explosion als Betriebssystem Merlok 2.0 in der Festung Fortrex
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0714DR9YB{{</world>}}

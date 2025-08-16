@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The 3 stunt challenges can be combined in different ways to switch up the action and the LEGO toy stunt bikes work with a simple push
-- This LEGO City Stuntz set features 3 challenges in 1: 360° loop, ring of fire and alien tower vertical climb, plus a ramp and 2 toy motorbikes
-- Kids can defy gravity in the 360° loop, reach the top of the vertical tower to knock the alien out of the spaceship or clear the ring of fire
-- This LEGO City toy motorbike set for kids aged 7+ years old is a great gift idea for birthdays, especially for fans of action toys and fun games
 - Includes 4 LEGO City minifigures: 2 riders, photographer and a spectator, kids can play alone or with friends to stage epic stunt shows
+- This LEGO City Stuntz set features 3 challenges in 1: 360° loop, ring of fire and alien tower vertical climb, plus a ramp and 2 toy motorbikes
+- The 3 stunt challenges can be combined in different ways to switch up the action and the LEGO toy stunt bikes work with a simple push
+- This LEGO City toy motorbike set for kids aged 7+ years old is a great gift idea for birthdays, especially for fans of action toys and fun games
+- Kids can defy gravity in the 360° loop, reach the top of the vertical tower to knock the alien out of the spaceship or clear the ring of fire
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXY9NQ{{</world>}}

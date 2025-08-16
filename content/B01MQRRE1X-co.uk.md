@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- TODDLER LEARNING TOY – Great for use as a Montessori toy, kids group the DUPLO bricks by colour, load the truck with letters to construct words, then take the LEGO vehicle for a drive
-- GIFT FOR TODDLERS – This LEGO DUPLO building toy is great for fine motor skills development, and makes a fun birthday gift for 2+ year old boys and girls who are beginning to recognise letters
 - IMAGINATIVE ACCESSORIES – Comes with a stereo element to encourage toddlers to sing their ABCs and a book element to encourage them to start reading letters
+- GIFT FOR TODDLERS – This LEGO DUPLO building toy is great for fine motor skills development, and makes a fun birthday gift for 2+ year old boys and girls who are beginning to recognise letters
 - CONSTRUCTION TOY FOR LEARNING LETTERS – The LEGO DUPLO Town Alphabet Truck toy for 2+ year old boys and girls is filled with fun ABC learning
+- TODDLER LEARNING TOY – Great for use as a Montessori toy, kids group the DUPLO bricks by colour, load the truck with letters to construct words, then take the LEGO vehicle for a drive
 - WHATS IN THE BOX? – The building set includes a drivable toy truck with a detachable trailer, 2 LEGO DUPLO figures and 26 ABC DUPLO bricks
 
 [🛒 Buy it now!!]({{< param buyurl >}})

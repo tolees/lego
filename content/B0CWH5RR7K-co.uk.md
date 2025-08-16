@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Digital building fun – This LEGO roller-coaster set features instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
+- LEGO accessories – This roller-coaster model comes with 3 toy mobile phones, a selfie stick, 2 slushie cups, 2 video game controllers and a trophy
+- What’s in the box? – This creative building toy includes a robot-themed roller coaster with a detachable mech toy and 8 LEGO City minifigures
 - Creative gifts for kids – This LEGO City fairground building toy set makes a fun birthday gift for 8-plus-year-old boys and girls
 - A city without limits – LEGO City is a place where kids can unleash their limitless imaginations, with structures, vehicles and citizens that motivate them to build, create, explore and play
-- What’s in the box? – This creative building toy includes a robot-themed roller coaster with a detachable mech toy and 8 LEGO City minifigures
-- Digital building fun – This LEGO roller-coaster set features instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
 - Packed with details – Features include a working 3-car roller-coaster train toy and arcade video gaming consoles, plus the mech has a minifigure seat
-- LEGO accessories – This roller-coaster model comes with 3 toy mobile phones, a selfie stick, 2 slushie cups, 2 video game controllers and a trophy
 - Roller-coaster toy – Send kids play soaring with this functional LEGO City Robot World Roller-Coaster Park toy for 8-plus-year-old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})

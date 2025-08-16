@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Number of pieces: 228
-- Manufacturer recommended age: 6+
-- Includes lots of colourful, iridescent and decorated toy tiles, plus letter tiles to make personalised bag tags
 - Bag Tags Mega Pack - Messaging
+- Manufacturer recommended age: 6+
 - The toy arts and crafts set is great for group creative activities for kids or solo play, with pieces to wear or share once they’re done
+- Includes lots of colourful, iridescent and decorated toy tiles, plus letter tiles to make personalised bag tags
+- Number of pieces: 228
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNT43D7{{</world>}}

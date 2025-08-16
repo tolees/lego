@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Een plek voor creatief spel - deze grote 48x48-stud grijze LEGO bouwplaat biedt een open landschap voor allerlei LEGO creaties
-- Bekijk ook andere LEGO bouwplaten: 11023 groen voor natuurbouw, 11026 wit voor besneeuwde winterlandschappen, en 11025 blauw voor oceaanavonturen
-- Duurzaam en stevig - 2.304 uitgelijnde noppen geven de juiste grip voor alle LEGO bouwcreaties van LEGO bouwstenen
 - De LEGO grijze bouwplaat kan gegeven worden als een verjaardag of een andere dag cadeau voor kinderen vanaf 4 jaar voor kinderen bouwprojecten en displays
 - Een wereld van creatieve mogelijkheden - van straattaferelen tot kastelen en berglandschappen, kinderen kunnen op deze LEGO basis bouwen wat ze maar bedenken
+- Bekijk ook andere LEGO bouwplaten: 11023 groen voor natuurbouw, 11026 wit voor besneeuwde winterlandschappen, en 11025 blauw voor oceaanavonturen
+- Duurzaam en stevig - 2.304 uitgelijnde noppen geven de juiste grip voor alle LEGO bouwcreaties van LEGO bouwstenen
 - De LEGO bouwplaat houdt de stenen stevig vast onder elke hoek (zelfs ondersteboven!) en laat ze toch gemakkelijk verwijderen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

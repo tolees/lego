@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This firefighting airplane model kit makes a birthday gift or anytime treat for kids who love firefighter toys
-- This set is a great introduction to engineering with buildable model sets that feature realistic movement and mechanisms that opens kids eyes to the universe of engineering
 - The LEGO Builder app guides you and your child on an intuitive building adventure with tools that let you zoom in and rotate models in 3D, save sets and track progress
+- This model toy set has lots of features to explore with an adjustable landing gear, spinning propellors and moving tail flaps
+- This set is a great introduction to engineering with buildable model sets that feature realistic movement and mechanisms that opens kids eyes to the universe of engineering
 - This LEGO Technic buildable model aircraft measures over 7 in. (18 cm) high, 23 in. (59 cm) long and 23.5 in. (60 cm) wide. Contains 1,134 pieces
+- This firefighting airplane model kit makes a birthday gift or anytime treat for kids who love firefighter toys
 - The set includes blue LEGO pieces so that kids can load the firefighting aircraft with ‘water’ and then open the hatch to douse imaginary fires
 - See how a fire plane works – Children ages 10+ can learn about the functions of a real firefighting airplane as they build and play with this LEGO Technic Firefighter Aircraft (42152) toy set
-- This model toy set has lots of features to explore with an adjustable landing gear, spinning propellors and moving tail flaps
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BLJ3WG8T{{</world>}}

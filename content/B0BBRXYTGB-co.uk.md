@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The fire truck toy for kids aged 6+ has a working winch and extinguisher, plus the toy fire drone can launch water and foam LEGO elements
 - This LEGO City toy emergency vehicles playset features an ultramodern fire engine toy with a detachable control centre plus fire and land drones
+- Filled with detailed buildings, realistic vehicles and fun characters, LEGO City sets make great gifts for boys, girls and all kids who love real life adventures
 - If the rescue mission gets too hot, kids can send in the toy land drone with its robotic arm or lower the hook to airlift items to safety
 - Includes forest and city fire scenes, 3 LEGO firefighter minifigures, a bunny figure, a radio, fire axe, circular saw, spanner and cup accessories
-- Filled with detailed buildings, realistic vehicles and fun characters, LEGO City sets make great gifts for boys, girls and all kids who love real life adventures
+- The fire truck toy for kids aged 6+ has a working winch and extinguisher, plus the toy fire drone can launch water and foam LEGO elements
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRXYTGB{{</world>}}

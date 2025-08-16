@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Mit diesem LEGO Star Wars Set können Kinder ihrer Fantasie freien Lauf lassen - der erste Snubfighter der Piraten aus der 3. Staffel von The Mandalorian, nachgebaut aus LEGO Steinen
+- Inklusive intuitiver Anleitungen in der LEGO Builder App, in der Bauherren Modelle in 3D zoomen und drehen, den Fortschritt verfolgen und Sets speichern können
+- Der LEGO Mandalorian Starfighter hat ein aufklappbares Cockpit, 2 Shooter und ein Fach mit einem Thermaldetonator
 - Dieses LEGO Star Wars Set zum Bauen ist ein einzigartiges Geschenk zum Geburtstag oder eine besondere Freude für Fans von Star Wars: The Mandalorian und Kinder ab 8 Jahren
 - Kinder können den Piratenpiloten im Cockpit und den Thermaldetonator im hinteren Bereich des LEGO Star Wars Schiffs platzieren und dann mit den Shootern auf Feinde feuern
-- Mit diesem LEGO Star Wars Set können Kinder ihrer Fantasie freien Lauf lassen - der erste Snubfighter der Piraten aus der 3. Staffel von The Mandalorian, nachgebaut aus LEGO Steinen
-- Der LEGO Mandalorian Starfighter hat ein aufklappbares Cockpit, 2 Shooter und ein Fach mit einem Thermaldetonator
-- Inklusive intuitiver Anleitungen in der LEGO Builder App, in der Bauherren Modelle in 3D zoomen und drehen, den Fortschritt verfolgen und Sets speichern können
 - Enthält 2 neue LEGO Star Wars Minifiguren für Mai 2023: einen Snubfighter-Pilot mit einer Blaster-Pistole und Vane mit einem Schwert, um das Action-Spiel zu vervollständigen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

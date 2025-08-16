@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The playset includes a 3-level building with radar, wind turbine and a slide, a water scooter, a rehabilitation area and LEGO ocean scene
-- After rescue missions kids turn the knob to push animals down the slide to the building toy rehabilition area until they can return to the ocean
 - Includes accessories: a life jacket, brush, feeding bottle, walkie-talkie, treasure chest, camera, microscope, syringe and an X-ray machine
+- The playset includes a 3-level building with radar, wind turbine and a slide, a water scooter, a rehabilitation area and LEGO ocean scene
 - Animal-lovers discover the ocean and learn to take care of otters and other toy sea animals with this LEGO Friends Sea Rescue vet set for kids
-- This set makes a great gift for kids, girls, boys 7+ years old; plus, LEGO Builder app lets zoom in and rotate models in 3D, save sets and track progress
-- Kids can rescue and care for the sea otters using the water scooter then head inside to clean, X-ray and feed the otter animal figures
 - This vet toy comes with Leo, Kayla and animal-loving Autumn mini-dolls, plus toy animals; 2 sea otters, a seahorse and a sea turtle figures
+- This set makes a great gift for kids, girls, boys 7+ years old; plus, LEGO Builder app lets zoom in and rotate models in 3D, save sets and track progress
+- After rescue missions kids turn the knob to push animals down the slide to the building toy rehabilition area until they can return to the ocean
+- Kids can rescue and care for the sea otters using the water scooter then head inside to clean, X-ray and feed the otter animal figures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BZKVW{{</world>}}

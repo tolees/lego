@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Friends nature toys help kids care for the natural world and make a great birthday gift or just-because treat for girls and boys 6 years old
 - Includes 2 mini dolls and 5 wildlife animal figures; it combines with LEGO Friends sets Canal Houseboat 41702 and Friendship Tree House 41703
-- The free LEGO Building Instructions app lets little builders zoom, rotate, and view their model for a totally immersive building experience
-- Budding gardeners can fill up the watering can from the retro-style hand pump, dig with the spade then feed the squirrel acorns
-- The drivable toy pickup truck comes with an articulated loading arm, hinged tailgate and removable roof for easy access to play inside
 - This tree-planting toy for kids comes with a greenhouse for potting on the saplings and many gardening accessories
+- Budding gardeners can fill up the watering can from the retro-style hand pump, dig with the spade then feed the squirrel acorns
+- The free LEGO Building Instructions app lets little builders zoom, rotate, and view their model for a totally immersive building experience
+- LEGO Friends nature toys help kids care for the natural world and make a great birthday gift or just-because treat for girls and boys 6 years old
+- The drivable toy pickup truck comes with an articulated loading arm, hinged tailgate and removable roof for easy access to play inside
 - This LEGO Nature flower garden building toy features a tree nursery, drivable pickup toy truck, and lots of cute gardening accessories
 
 [🛒 Buy it!!]({{< param buyurl >}})

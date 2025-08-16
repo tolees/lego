@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Beweglicher Spielzeug-Mech: Zanes Action-Mech hat bewegliche Arme, Beine und Hände; Er kann seinen Oberkörper um 360 Grad drehen, und in seine aufklappbare Brust passt eine Minifigur - außerdem schwingt er 2 gewaltige Schwerter
-- Entdecke andere Bauspielzeuge für noch mehr Ninja-Abenteuer: Schau dir weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Tempeln und Fahrzeugen an, um deine Abenteuer noch fantasievoller zu gestalten
 - LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
 - Spielzeugfiguren mit Action-Ausrüstung: Jede NINJAGO Minifigur ist bestens für Actionrollenspiele ausgerüstet: Zane hat 2 Wurfsterne, Wyldfyre trägt ein Kristallkatana und Drix schwingt 2 Sicheln
-- LEGO NINJAGO Kinderspielzeug für Rollenspiele: Zanes Action-Mech lässt Jungen und Mädchen ab 6 Jahren spannende Szenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- 3 NINJAGO Minifiguren: Dieses LEGO Bauset beinhaltet Zane in seiner brandneuen Rüstung sowie Wyldfyre und Drix, den Meister des Schwarms, um Ninja-Fans spannende Actionduelle austragen zu lassen
 - Geschenkidee für junge Ninja: Dieses kleine LEGO Set bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Geschenk zum Geburtstag oder einfach so für Jungen und Mädchen ab 6 Jahren, die spannende Ninja-Abenteuer lieben
+- 3 NINJAGO Minifiguren: Dieses LEGO Bauset beinhaltet Zane in seiner brandneuen Rüstung sowie Wyldfyre und Drix, den Meister des Schwarms, um Ninja-Fans spannende Actionduelle austragen zu lassen
+- LEGO NINJAGO Kinderspielzeug für Rollenspiele: Zanes Action-Mech lässt Jungen und Mädchen ab 6 Jahren spannende Szenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Entdecke andere Bauspielzeuge für noch mehr Ninja-Abenteuer: Schau dir weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Tempeln und Fahrzeugen an, um deine Abenteuer noch fantasievoller zu gestalten
+- Beweglicher Spielzeug-Mech: Zanes Action-Mech hat bewegliche Arme, Beine und Hände; Er kann seinen Oberkörper um 360 Grad drehen, und in seine aufklappbare Brust passt eine Minifigur - außerdem schwingt er 2 gewaltige Schwerter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDYGTX{{</world>}}

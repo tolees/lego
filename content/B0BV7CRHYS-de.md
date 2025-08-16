@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Das LEGO Minecraft-Spielzeug enthält einen Unterwasserforscher, ertrunkene Zombie-Figuren sowie ein Delfin-Spielzeug, einen Kugelfisch, 2 erwachsene Axolotls und einen Axolotl in einem Eimer
 - LEGO Minecraft-Sets bieten Kindern dank authentischer LEGO Designs eine andere Möglichkeit, das beliebte Spiel zu genießen. Sie eignen sich hervorragend als Weihnachts- oder Geburtstagsgeschenk für Kinder, Jungen und Mädchen ab 7 Jahren
-- Kinder nutzen ihre Fähigkeiten, um ein riesiges Minecraft-Haus in der Form des beliebten Axolotls zu bauen. Es verfügt über ein abnehmbares Dach für den Zugang zum Innenraum, einen Schmelzofen und einen Schwamm zum „Aufsaugen“ von Wasserlecks
 - Minecraft-Fans können mit diesem LEGO Minecraft-Set das farbenfrohe Axolotl-Haus, das sich unter Wasser befindet, erkunden und abenteuerlichen Spielspaß mit der süßesten Kreatur des Spiels genießen
+- Kinder nutzen ihre Fähigkeiten, um ein riesiges Minecraft-Haus in der Form des beliebten Axolotls zu bauen. Es verfügt über ein abnehmbares Dach für den Zugang zum Innenraum, einen Schmelzofen und einen Schwamm zum „Aufsaugen“ von Wasserlecks
+- Das LEGO Minecraft-Spielzeug enthält einen Unterwasserforscher, ertrunkene Zombie-Figuren sowie ein Delfin-Spielzeug, einen Kugelfisch, 2 erwachsene Axolotls und einen Axolotl in einem Eimer
 - Sobald das Minecraft-Haus gebaut ist, müssen Kinder nach einer versteckten Schatztruhe suchen, mit dem Schwert gegen einen feindlichen Minecraft-Mob kämpfen und sich um die niedlichen Spielzeug-Tiere kümmern
 
 [🛒 Buy it!!]({{< param buyurl >}})

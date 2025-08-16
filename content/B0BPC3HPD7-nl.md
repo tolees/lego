@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kinderen kunnen aangrijpende scènes uit de NINJAGO Dragons Rising TV scènes naspelen met de functies, waaronder: beweegbare zeilen, noppenschieters aan de achterkant en 360 graden draaiende motoren
-- Dit vernieuwde LEGO ninja voertuig is ca. 23 cm hoog, 53 cm lang en 31 cm breed en is een geweldig verjaardagscadeau voor kinderen vanaf 9 jaar
-- Het iconische LEGO voertuig is nu een luchtschip met een dak dat verwijderd kan worden om een navigatiekamer en een speelkamer met een speelmachine te onthullen
 - De speelgoed boot set wordt geleverd met Master Wu, Arin, Sora, Lloyd, Kai en Rapton LEGO NINJAGO mini figuren, die allemaal gewapend zijn met ten minste 1 wapen voor leuke rollenspel gevechten
+- Dit vernieuwde LEGO ninja voertuig is ca. 23 cm hoog, 53 cm lang en 31 cm breed en is een geweldig verjaardagscadeau voor kinderen vanaf 9 jaar
+- Kinderen kunnen aangrijpende scènes uit de NINJAGO Dragons Rising TV scènes naspelen met de functies, waaronder: beweegbare zeilen, noppenschieters aan de achterkant en 360 graden draaiende motoren
+- Het iconische LEGO voertuig is nu een luchtschip met een dak dat verwijderd kan worden om een navigatiekamer en een speelkamer met een speelmachine te onthullen
 - Een afneembare speelgoed draak aan de voorkant van het luchtschip, plus een Baby Riyu draak figuur zijn ook inbegrepen in dit speelgoed voor kinderen vanaf 9 jaar
 - Kinderen vanaf 9 jaar kunnen avonturen in de lucht beleven met deze vernieuwde LEGO NINJAGO Destinys Bounty set, met een luchtschip, 2 draken figuren en 6 mini figuren
 

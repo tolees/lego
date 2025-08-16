@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Steine und Teile werden strengen Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit jedes Bauset für Kinder den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
 - Auf der gruseligen Insel können Kinder mit einem Griff den Totenkopf öffnen und schließen oder das Gold im geheimen Versteck der Piraten-Taverne verstecken
+- LEGO Steine und Teile werden strengen Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit jedes Bauset für Kinder den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
 - Das LEGO Creator 3-in-1-Spielset „Piratenschiff“ bietet 3 Bauoptionen, denn es lässt sich auch in eine Piratentaverne oder Pirateninsel verwandeln und mit anderen Sets kombinieren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

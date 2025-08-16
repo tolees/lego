@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lass das Modell an andere separat erhältliche LEGO Spielsets andocken: Das Raketen-Spielzeug für Kinder aus diesem Set verfügt über ein Luftschleusensystem, mit dem sie auch an kompatible andere Raumschiff-Modelle andocken kann
-- Spielspaß ohne Limits: LEGO City Weltraum-Sets beinhalten wirklichkeitsgetreue LEGO Baufahrzeuge, detailreiche Bauwerke und inspirierende Figuren für ein fantasievolles Spielerlebnis ohne Limits, das Fantasie und Wirklichkeit verschmelzen lässt
-- LEGO City Raumstation- und Raumschiff-Modellbausatz: Enthält eine Raumstation mit 360-Grad-Turmkran, ein Raumschiff-Spielzeug, eine Startrampe, einen LKW, eine Planetenkulisse sowie 6 Minifiguren, einen Roboter und 2 Alien-Figuren
-- Geschenk für Weltraum-Fans ab 8 Jahren: Mit diesem Weltraum-Geschenk machst du jeden Tag zu einem besonderen Tag; überrasche einen Fan cooler Alien-Spielzeuge mit diesem fantastischen Spielzeug zur Weltraumforschung
 - Spielspaß in der Raumstation für Kinder, die gern fantasievoll spielen: Dein Kind kann den 360-Grad-Turmkran bedienen und die Raumbasis öffnen, um Zugang zum Ausrüstungskarussell, zum detailreichen Labor und zum Freizeitbereich zu erhalten
+- LEGO City Raumstation- und Raumschiff-Modellbausatz: Enthält eine Raumstation mit 360-Grad-Turmkran, ein Raumschiff-Spielzeug, eine Startrampe, einen LKW, eine Planetenkulisse sowie 6 Minifiguren, einen Roboter und 2 Alien-Figuren
+- Lass das Modell an andere separat erhältliche LEGO Spielsets andocken: Das Raketen-Spielzeug für Kinder aus diesem Set verfügt über ein Luftschleusensystem, mit dem sie auch an kompatible andere Raumschiff-Modelle andocken kann
 - Weltraum-Spielzeug für junge Weltraumforscher: Die LEGO City Raumstation mit Startrampe ist ein Bauset, das Kindern ab 8 Jahren ein Weltraumspielerlebnis ohne Limits bietet
+- Spielspaß ohne Limits: LEGO City Weltraum-Sets beinhalten wirklichkeitsgetreue LEGO Baufahrzeuge, detailreiche Bauwerke und inspirierende Figuren für ein fantasievolles Spielerlebnis ohne Limits, das Fantasie und Wirklichkeit verschmelzen lässt
+- Geschenk für Weltraum-Fans ab 8 Jahren: Mit diesem Weltraum-Geschenk machst du jeden Tag zu einem besonderen Tag; überrasche einen Fan cooler Alien-Spielzeuge mit diesem fantastischen Spielzeug zur Weltraumforschung
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVY3CZY{{</world>}}

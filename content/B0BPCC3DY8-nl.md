@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het scheepswrak in deze LEGO onderwater set heeft gezonken schatten, 2 haai zeedier figuren en een haaienverrassing om te ontdekken $
-- Deze LEGO oceaan set met onderzeeër speelgoed voor jongens, meisjes en alle jonge ontdekkingsreizigers vanaf 7 jaar is een leuk verjaardagscadeau, kerstcadeau of geschenk voor een ander bijzonder moment
-- Kinderen kunnen de speelgoed duikboot openen om de drone in te zetten en de werkende grijpklauwen te gebruiken om de gezonken schat veilig terug te vinden
-- Inclusief 6 duiker mini figuren en speelgoed zeedieren: 3 haaien, 2 kwallen en 4 vissenfiguren, plus veel accessoires zoals zaklampen, een speelgoedcamera, eenn moersleutel en nog veel meer!
-- De LEGO City Duikboot voor diepzeeonderzoek onderwater oceaan set voor kinderen vanaf 7 jaar bevat een scheepswrak dat beschermd wordt door haaien en veel uitrusting voor spannende onderwateravonturen
 - De speelgoed onderzeeër heeft twee mechanische armen, een cockpit en een goed uitgerust laboratorium, plus een lanceerbare drone en een duikpak in mechastijl om de zeebodem te verkennen
 - Bekijk de LEGO Builder app; daar kunnen kinderen virtuele speelsets ontdekken en opslaan, hun bouwvoortgang bijhouden, inzoomen en de modellen draaien en vanuit alle hoeken bekijken terwijl ze bouwen
+- Kinderen kunnen de speelgoed duikboot openen om de drone in te zetten en de werkende grijpklauwen te gebruiken om de gezonken schat veilig terug te vinden
+- Deze LEGO oceaan set met onderzeeër speelgoed voor jongens, meisjes en alle jonge ontdekkingsreizigers vanaf 7 jaar is een leuk verjaardagscadeau, kerstcadeau of geschenk voor een ander bijzonder moment
+- De LEGO City Duikboot voor diepzeeonderzoek onderwater oceaan set voor kinderen vanaf 7 jaar bevat een scheepswrak dat beschermd wordt door haaien en veel uitrusting voor spannende onderwateravonturen
+- Het scheepswrak in deze LEGO onderwater set heeft gezonken schatten, 2 haai zeedier figuren en een haaienverrassing om te ontdekken $
+- Inclusief 6 duiker mini figuren en speelgoed zeedieren: 3 haaien, 2 kwallen en 4 vissenfiguren, plus veel accessoires zoals zaklampen, een speelgoedcamera, eenn moersleutel en nog veel meer!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCC3DY8{{</world>}}

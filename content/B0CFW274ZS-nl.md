@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wat zit er in de doos? – dit creatieve bouwpakket voor volwassenen bevat alles wat je nodig hebt om een replica op schaal van de McLaren MP4/4 Formule 1 auto te maken, plus een displaystandaard voor de racewagen en voor de minifiguur van Ayrton Senna
-- Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO Icons bouwset horen
-- Kenmerken en functies – deze LEGO Icons racewagenreplica beschikt over echt werkende besturing, stangophanging, een verstelbare achtervleugel, gladde banden, spiegels, een versnellingspook en een gedetailleerde V6-turbomotor
-- Creatieve hobby voor volwassenen – dit LEGO Icons project maakt deel uit van een reeks geavanceerde LEGO voor volwassenen en is een geweldig cadeau voor hem of haar
 - Huis of kantoor decoratie – inclusief een McLaren MP4/4 displaystandaard met gedrukte voertuigstatistieken en een displaystandaard voor de Ayrton Senna minifiguur met een foto en een bekend citaat van Senna
+- Kenmerken en functies – deze LEGO Icons racewagenreplica beschikt over echt werkende besturing, stangophanging, een verstelbare achtervleugel, gladde banden, spiegels, een versnellingspook en een gedetailleerde V6-turbomotor
 - Verzamelmodel van een LEGO raceauto voor volwassenen – dit LEGO Icons McLaren MP4/4 en Ayrton Senna bouwproject is ontworpen voor fans van autosport en beroemde voertuigen
+- Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO Icons bouwset horen
+- Creatieve hobby voor volwassenen – dit LEGO Icons project maakt deel uit van een reeks geavanceerde LEGO voor volwassenen en is een geweldig cadeau voor hem of haar
+- Wat zit er in de doos? – dit creatieve bouwpakket voor volwassenen bevat alles wat je nodig hebt om een replica op schaal van de McLaren MP4/4 Formule 1 auto te maken, plus een displaystandaard voor de racewagen en voor de minifiguur van Ayrton Senna
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW274ZS{{</world>}}

@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Es gibt Hunderte von spielbaren Charakteren, die über die gesamte Galaxis und jede Ära der Saga verstreut sind
+- Erlebe deine Lieblingsmomente aus allen neun Filmen der Star Wars Saga, einschließlich der finalen Episode Star Wars: Der Aufstieg Skywalkers
 - Immer familienfreundlich: Das Spiel bietet ein fantasievolles, lustiges LEGO Spielerlebnis für alle Altersgruppen
 - Erzählt mit dem berühmten LEGO Humor: Alle unvergesslichen Momente der gesamten Saga werden mit dem spaßgeladenen und wahnwitzigen Humor
-- Erlebe deine Lieblingsmomente aus allen neun Filmen der Star Wars Saga, einschließlich der finalen Episode Star Wars: Der Aufstieg Skywalkers
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07TDF7CJN{{</world>}}
