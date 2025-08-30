@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Beweglicher LEGO NINJAGO Drache: Der Drachenmeister kann Kopf und Schwanz sowie Beine, Arme und Flügel bewegen, damit Kinder die Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen können
 - Ninja-Spielzeug für Kinder: LEGO NINJAGO Egalt der Meisterdrache ist ein Drachen-Spielzeug, mit dem Jungs und Mädchen ab 8 Jahren spannende Actionszenen darstellen können
+- Beweglicher LEGO NINJAGO Drache: Der Drachenmeister kann Kopf und Schwanz sowie Beine, Arme und Flügel bewegen, damit Kinder die Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen können
 - NINJAGO-Geschenk: Dieses Abenteuer-Spielzeug ist eine tolle Geschenkidde für Kinder und eignet sich besonders als Geburtstagsgeschenk für Jungs und Mädchen, die gern mit Actionfiguren-Spielzeug spielen
 - Begehrte Ninja-Schätze: Auf einem kleinen Baum aus LEGO Steinen befinden sich ein magischer Hammer und der Gong der Zertrümmerung; um diese Schätze geht es in den Duellen, die sich die fünf NINJAGO Minifiguren liefern
 - 5 LEGO NINJAGO Figuren: NINJAGO Lloyd, Sora und Nya schwingen jeweils ein Mini-Katana, Lord Ras hat einen Hammer und Cinder trägt ein Schwert, damit Kinder spannende Duelle mit den Figuren darstellen können

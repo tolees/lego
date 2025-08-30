@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids can zoom in and rotate sets in 3D, save sets and track progress using the intuitive LEGO Builder app for smart devices
-- The 327-piece LEGO buildable toy Wolverine construction figure features film-accurate details, including extended claws and movable joints
 - Kids can adjust the figure to recreate the X-Men characters action poses as they play out missions from the Marvel films and their own adventures
-- Give kids their own mega, movable mutant with this iconic LEGO Marvel buildable toy Wolverine action figure for boys, girls and all fans aged 8+
+- The 327-piece LEGO buildable toy Wolverine construction figure features film-accurate details, including extended claws and movable joints
+- Kids can zoom in and rotate sets in 3D, save sets and track progress using the intuitive LEGO Builder app for smart devices
 - There are more LEGO Marvel action figures to collect, including the Captain America (76258) and lots of LEGO Marvel buildable toys to expand play
+- Give kids their own mega, movable mutant with this iconic LEGO Marvel buildable toy Wolverine action figure for boys, girls and all fans aged 8+
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCCKL5V{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Package Content:This toy car building kit has everything you need to build a white Lamborghini countach and includes a Lamborghini brand driver with crash helmet, wig and wrenchR! PA20222 Collect, play and display - Build your very own Lamborghini Countach, show it to friends and enjoy racing action against other vehicles from the SpeedChampions series
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - A gift for any occasion - This 262-piece LEGO Speed Champions Lamborghini Countach (76908) playset can be used as a birthday or Other and car fans aged 8 and over
-- Package Content:This toy car building kit has everything you need to build a white Lamborghini countach and includes a Lamborghini brand driver with crash helmet, wig and wrenchR! PA20222 Collect, play and display - Build your very own Lamborghini Countach, show it to friends and enjoy racing action against other vehicles from the SpeedChampions series
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09JKY1FPX{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bekijk de intuïtieve LEGO Builder app waarmee kinderen kunnen inzoomen en modellen vanuit alle hoeken kunnen draaien terwijl ze in 3D bouwen
-- Breng fantasierijke oceaanverkenningen mee naar huis met deze LEGO City oceaan speelset, een leuk verjaardagscadeau, kerstcadeau of geschenk voor een andere gelegenheid voor meisjes en jongens vanaf 5 jaar
+- Kinderen van 5+ kunnen eindeloze creatieve verhalen creëren met deze leuke onderwater oceaan speelset; de prachtige koraalrif setting bekijken en de gezonken schatkist ontdekken
 - Kinderen vanaf 5 jaar kunnen diep in fantasierijke avonturen duiken met deze LEGO City set inclusief een speelgoed boot met kraan, onderzeeër, 3 mini figuren en zeedier figuren om te ontdekken
 - Inclusief 3 mini figuren: de kapitein van de boot en twee LEGO duikers, plus mantarog, haai, krab, 2 vissen en 2 schildpad zeedier figuren om mee te zwemmen
+- Breng fantasierijke oceaanverkenningen mee naar huis met deze LEGO City oceaan speelset, een leuk verjaardagscadeau, kerstcadeau of geschenk voor een andere gelegenheid voor meisjes en jongens vanaf 5 jaar
+- Bekijk de intuïtieve LEGO Builder app waarmee kinderen kunnen inzoomen en modellen vanuit alle hoeken kunnen draaien terwijl ze in 3D bouwen
 - Jonge ontdekkingsreizigers hebben alles wat ze nodig hebben om een boot, een minionderzeeër en een koraalrifomgeving te bouwen; ze kunnen de hijskraan gebruiken om de minionderzeeër op pad te sturen en de oceaanbodem te verkennen
-- Kinderen van 5+ kunnen eindeloze creatieve verhalen creëren met deze leuke onderwater oceaan speelset; de prachtige koraalrif setting bekijken en de gezonken schatkist ontdekken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCCKL3N{{</world>}}

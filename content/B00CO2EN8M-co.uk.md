@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Building fine motor skills – The character toys come with coloured wigs in interesting shapes that are fun for curious little fingers to explore
-- Creative learning toys – By stacking the coloured bricks, kids match or contrast the figures then choose how they feel with the expression bricks
 - Toddler learning toys – LEGO DUPLO My First Big Feelings & Emotions has 4 expressive characters to teach kids 18 months plus about different moods
 - Stacking toy – Comes with 23 bricks, including 8 facial expressions and 4 wig bricks so it’s endlessly customisable and keeps playtimes fresh
+- Creative learning toys – By stacking the coloured bricks, kids match or contrast the figures then choose how they feel with the expression bricks
 - Gift for preschool boys and girls – This early development and activity toy Makes a fun birthday gift for toddlers and kids aged 18 months plus
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Découvrez des lieux mythiques. Voyagez jusqu’à vos planètes préférées issues de l’univers Star Wars et parcourez les vastes espaces inspirés des décors inoubliables des films tels que le désert de Géonosis, les marais de Dagobah
-- Incarnez des héros et des méchants emblématiques. Il y a plus de 300 personnages jouables, venus de toute la galaxie de Luke Skywalker à Kylo Ren
-- Type de jeu : Action-aventure
 - Explorez les trilogies. Commencez votre aventure en sélectionnant la trilogie de votre choix, puis plongez dans les 9 films de la saga Skywalker
+- Découvrez des lieux mythiques. Voyagez jusqu’à vos planètes préférées issues de l’univers Star Wars et parcourez les vastes espaces inspirés des décors inoubliables des films tels que le désert de Géonosis, les marais de Dagobah
 - Version anglaise, la version française peut être téléchargée
 - Des rires pour toute la famille.Cette expérience vidéoludique LEGO hilarante et créative convient aux adultes et enfants de tout âge
+- Incarnez des héros et des méchants emblématiques. Il y a plus de 300 personnages jouables, venus de toute la galaxie de Luke Skywalker à Kylo Ren
+- Type de jeu : Action-aventure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07SFXNHNK{{</world>}}

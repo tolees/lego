@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze LEGO City Stuntz set is een geweldig verjaardagscadeau-idee voor jongens en meisjes vanaf 5 jaar die van stuntshows en actiespeelgoed houden
-- Jonge actiefans kunnen hun stunt kiezen en op de speelgoed motorfiets duwen om het vliegwiel te activeren, de motor van de schans te lanceren en een perfecte dunk te maken
 - Dit speelgoed voor kinderen vanaf 5 jaar bevat een geweldige motor met dinosaurus thema, plus trofee, waarmee kinderen hun overwinning kunnen vieren
-- Kinderen kunnen de ring op verschillende manieren plaatsen; horizontaal voor de vuurring- en verticaal voor de sterrenring- uitdaging
 - Combineer deze set met andere LEGO City Stuntz sets, zoals de Spinning Stunt-uitdaging (60360), of de Ultieme stuntrijders uitdaging (60361) voor nog meer actie
+- Kinderen kunnen de ring op verschillende manieren plaatsen; horizontaal voor de vuurring- en verticaal voor de sterrenring- uitdaging
 - Deze LEGO City Stuntz 2in1 Uitdaging: dunken met stuntbaan set bevat een zelfrijdende stuntmotor, een lanceerhelling en een Stuntz minifiguur
+- Jonge actiefans kunnen hun stunt kiezen en op de speelgoed motorfiets duwen om het vliegwiel te activeren, de motor van de schans te lanceren en een perfecte dunk te maken
+- Deze LEGO City Stuntz set is een geweldig verjaardagscadeau-idee voor jongens en meisjes vanaf 5 jaar die van stuntshows en actiespeelgoed houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRY5N7B{{</world>}}

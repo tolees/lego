@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Modelle zum Ausstellen: Nachdem die beiden LEGO Spielzeug-Autos unzählige Rennen ausgetragen haben, können die Flitzer im Regal oder auf dem Nachttisch ausgestellt werden
-- Noch spannendere Rennen: Entdecke noch weitere separat erhältliche LEGO Speed Champions Bausets mit originalgetreu nachgebildeten Flitzern aus LEGO Steinen
-- 2 Fahrer-Minifiguren: Für Rollenspiele und rasante Rennen ist zu beiden baubaren Autos jeweils eine Fahrer-Minifigur in einem Mercedes-AMG-Outfit enthalten
-- Spielzeugautos zum Bauen, Spielen und Ausstellen: LEGO Speed Champions Bausets lassen Kinder und Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
 - 2 Mercedes-AMG-Spielzeugautos für Kinder: LEGO Speed Champions Mercedes-AMG G 63 & Mercedes-AMG SL 63 ist ein Fahrzeug-Spielzeug für Jungen und Mädchen ab 10 Jahren und für Erwachsene, die Modellautos sammeln
 - Spielzeugautos zum Verschenken: Dieses Spielset mit 2 Mercedes-AMG-Autos bietet ein tolles Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder ab 10 Jahren und für Erwachsene, die Modellautos sammeln
+- Spielzeugautos zum Bauen, Spielen und Ausstellen: LEGO Speed Champions Bausets lassen Kinder und Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
+- 2 Fahrer-Minifiguren: Für Rollenspiele und rasante Rennen ist zu beiden baubaren Autos jeweils eine Fahrer-Minifigur in einem Mercedes-AMG-Outfit enthalten
+- Modelle zum Ausstellen: Nachdem die beiden LEGO Spielzeug-Autos unzählige Rennen ausgetragen haben, können die Flitzer im Regal oder auf dem Nachttisch ausgestellt werden
+- Noch spannendere Rennen: Entdecke noch weitere separat erhältliche LEGO Speed Champions Bausets mit originalgetreu nachgebildeten Flitzern aus LEGO Steinen
 - Authentisches Mercedes-AMG-Design: Beide Autos zum Sammeln zieren viele Designdetails, die auch an den echten Autos zu finden sind Hierzu zählen der Frontgrill, die Motorhaube, die Räder, die Details im Interieur und die Mercedes-Beschriftung
 
 [🛒 Buy it now!!]({{< param buyurl >}})

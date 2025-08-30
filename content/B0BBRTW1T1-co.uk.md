@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The side of the LEGO vehicles trailer folds up to reveal the tournament stage with 2 toy computer gaming stations and giant stadium screens
-- Let kids bring eSports action to town with this LEGO City Gaming Tournament Truck set: a buildable toy truck, a presenter and 2 gaming minifigures
+- Young video game fans can animate the gaming action on the toy stadium screen and adjust the progress bar for the competing minifigures
 - This LEGO City gaming tournament playset makes a fun birthday gift idea for kids aged 7 and over who love gaming, esports and trucks toys
 - This truck toy features cool accessories including a winnerâ€s trophy, microphone, mobile phone and gaming items, such as big fists and a toy sword
-- Young video game fans can animate the gaming action on the toy stadium screen and adjust the progress bar for the competing minifigures
+- The side of the LEGO vehicles trailer folds up to reveal the tournament stage with 2 toy computer gaming stations and giant stadium screens
+- Let kids bring eSports action to town with this LEGO City Gaming Tournament Truck set: a buildable toy truck, a presenter and 2 gaming minifigures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRTW1T1{{</world>}}

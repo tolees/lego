@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO bonsai tree – Relax and unwind with the LEGO Botanicals Japanese Red Maple Bonsai Tree building set for adults, which is packed with authentic details
-- Nature-inspired project – The building set provides an immersive project for nature or plant lovers, who will enjoy building the LEGO plant and marvelling at its lifelike appearance
-- LEGO Builder app – This set includes printed and digital versions of the building instructions for an immersive building experience
-- Autumn colours – Capturing the vibrance of nature, the LEGO artificial plant features red- and amber-coloured leaves and sits in a dark green plant pot for easy display
 - Faux Plant decor – Bring a touch of tranquility to your living or working space by using the tree as home or office desk decor that will never wilt or need to be watered
 - A thoughtful gift – This LEGO building set for adults makes a great housewarming gift, Valentine’s Day gift or plant themed birthday gift for women and men
 - Build more blooms – This brick-built plant can be combined with other sets (sold separately) in the LEGO Botanicals collection, which includes other trees and LEGO flowers
+- Autumn colours – Capturing the vibrance of nature, the LEGO artificial plant features red- and amber-coloured leaves and sits in a dark green plant pot for easy display
+- LEGO Builder app – This set includes printed and digital versions of the building instructions for an immersive building experience
+- Nature-inspired project – The building set provides an immersive project for nature or plant lovers, who will enjoy building the LEGO plant and marvelling at its lifelike appearance
+- LEGO bonsai tree – Relax and unwind with the LEGO Botanicals Japanese Red Maple Bonsai Tree building set for adults, which is packed with authentic details
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF6VKYB{{</world>}}

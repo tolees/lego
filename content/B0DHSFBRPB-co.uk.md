@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- F1 LEGO Red Bull vehicle for adults – LEGO Speed Champions Oracle Red Bull Racing RB20 F1 Race Car model to build for Red Bull and Formula 1 fans
-- Build and display iconic LEGO vehicles – LEGO Speed Champions sets let car lovers create brick-built versions of some of the world’s most famous vehicles
-- F1 fun for all the family – Race for the checkered flag alongside the whole family with other model cars (sold separately) in the LEGO F1 range
-- Formula 1 gift idea – This F1 merchandise makes a great LEGO gift for men and women who are fans of the Red Bull F1 team and immersive building projects
 - Authentic F1 Red Bull details – F1 model car for adults features 2024 design details like the rear wing, halo bar, and wider rear tyres with “Pirelli”
+- Formula 1 gift idea – This F1 merchandise makes a great LEGO gift for men and women who are fans of the Red Bull F1 team and immersive building projects
+- Build and display iconic LEGO vehicles – LEGO Speed Champions sets let car lovers create brick-built versions of some of the world’s most famous vehicles
+- F1 LEGO Red Bull vehicle for adults – LEGO Speed Champions Oracle Red Bull Racing RB20 F1 Race Car model to build for Red Bull and Formula 1 fans
 - F1 minifigure – This model kit for adults to build includes a driver minifigure in a Red Bull outfit and helmet, ready to be placed in the cockpit
+- F1 fun for all the family – Race for the checkered flag alongside the whole family with other model cars (sold separately) in the LEGO F1 range
 - Ferrari F1 display model – After a rewarding building experience, this LEGO Red Bull F1 car can be proudly displayed at home or in the office
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids spin the ring to scale up the challenge; push the LEGO stunt bikes to activate the flywheel and launch off the ramp through the ring of fire
-- Kids can play solo or host 2 player competitions with the 2 LEGO City stuntz rider minifigures and 2 ramps; a trophy is included for the winner
-- This LEGO City toy motorbike set will make a fun birthday gift or any time treat for kids aged 6+ years who love stunt shows and toy bikes
 - This LEGO City Stuntz set features a spinnable double jump ring, 2 toy ramps and 2 motorbike toys so kids can stage 1 or 2 player contests
+- Kids spin the ring to scale up the challenge; push the LEGO stunt bikes to activate the flywheel and launch off the ramp through the ring of fire
+- This LEGO City toy motorbike set will make a fun birthday gift or any time treat for kids aged 6+ years who love stunt shows and toy bikes
 - Combine this toy with other LEGO City Stuntz sets for even bigger stunts and competitions; check out the Ultimate Stunt Riders Challenge (60361)
+- Kids can play solo or host 2 player competitions with the 2 LEGO City stuntz rider minifigures and 2 ramps; a trophy is included for the winner
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZWVT9{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Individuell gestaltbarer Koffer: Mit den Aufklebern aus diesem LEGO Reiseset können Kinder dem Koffer ihre ganz persönliche Note verleihen; Wenn man die Teile dann wieder im Koffer verstaut, sind sie sofort griffbereit fürs nächste Urlaubsabenteuer
-- Kreative Geschenkidee: Dieses Bauspielzeug ist ein tolles Geschenk für Mädchen und Jungen ab 5 Jahren, die 2-in-1-Spielsets, Rollenspiele und die LEGO Friends lieben
 - Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - 2 LEGO Friends Figuren, ein Hund und ein Delfin: Neben den Charakteren und den Tierfiguren enthält dieses Spielset auch jede Menge Strandzubehör, beispielsweise ein Surfbrett, ein Radio, eine Pizza, Sonnencreme und Eis
-- Bauspielzeug: Kreativer Reisekoffer ist ein Spielset für Mädchen und Jungen ab 5 Jahren; Neben 2 Spielfiguren, einem Hund und einem Delfin enthält der Koffer 3 Modelle, die Kinder auch in eine ganz andere Szene verwandeln können
+- Kreative Geschenkidee: Dieses Bauspielzeug ist ein tolles Geschenk für Mädchen und Jungen ab 5 Jahren, die 2-in-1-Spielsets, Rollenspiele und die LEGO Friends lieben
+- Individuell gestaltbarer Koffer: Mit den Aufklebern aus diesem LEGO Reiseset können Kinder dem Koffer ihre ganz persönliche Note verleihen; Wenn man die Teile dann wieder im Koffer verstaut, sind sie sofort griffbereit fürs nächste Urlaubsabenteuer
 - Modelle zum Bauen und Umgestalten: Die Strandkulisse mit Wasserflugzeug, Strandabschnitt zum Ausruhen und Strandcafé lässt sich in eine neue Szene mit Schnellboot, Pizzeria und Sitzecke im Freien verwandeln
+- Bauspielzeug: Kreativer Reisekoffer ist ein Spielset für Mädchen und Jungen ab 5 Jahren; Neben 2 Spielfiguren, einem Hund und einem Delfin enthält der Koffer 3 Modelle, die Kinder auch in eine ganz andere Szene verwandeln können
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSG22KL{{</world>}}

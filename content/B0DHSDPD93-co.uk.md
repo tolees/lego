@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO dinosaur gift – For fans of Jurassic World, dinosaurs, fossils or palaeontological adventures, this dinosaur toy makes a fun birthday gift for 9+ year old boys and girls
-- Dinosaur model– Features a Triceratops skull with a stand, information plaque, dig site plate with mini-fossils and tools, plus a LEGO minifigure
-- Jurassic World toy – This Dinosaur Fossils: Triceratops Skull building toy for 9+ year old boys and girls gives fans a challenging build and a fun display
 - Encourage a passion – LEGO Jurassic World sets are made to encourage a kid’s love of dinosaur toys, helping them expand their creativity
 - Posable Triceratops skull with opening jaw – The skull can be posed open or closed, either on the stand or alongside the minifigure and other items
+- Jurassic World toy – This Dinosaur Fossils: Triceratops Skull building toy for 9+ year old boys and girls gives fans a challenging build and a fun display
 - A helping hand – Discover intuitive instructions in the LEGO Builder app - kids can zoom in and rotate models in 3D, track progress and save sets
+- Dinosaur model– Features a Triceratops skull with a stand, information plaque, dig site plate with mini-fossils and tools, plus a LEGO minifigure
+- LEGO dinosaur gift – For fans of Jurassic World, dinosaurs, fossils or palaeontological adventures, this dinosaur toy makes a fun birthday gift for 9+ year old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDPD93{{</world>}}

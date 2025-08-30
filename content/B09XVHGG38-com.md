@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Open-ended ocean fun – LEGO DUPLO Wild Animals of the Ocean (10972) gives fish-loving preschoolers endless, hands-on developmental fun with sea creatures in their natural habitat
-- Oceans of fun – Playmat measures over 9.5 in. (24 cm) high, 10 in. (26 cm) wide and 9.5 in. (24 cm) deep. Cave with corals: over 7.5 in. (19 cm) high, 2.5 in. (6 cm) wide and 7 in. (18 cm) deep
+- Hands-on play – The colorful playset includes an adult and baby whale, tropical fish and a turtle, which are all easy for toddlers to pick up and place, plus a 3-dimensional undersea playmat
 - Playful learning – As preschoolers enjoy endless role play with the sea animals, they also develop their social, cognitive and fine motor skills
 - Gift for preschoolers – Encourage a child’s passion for sea creatures with this fun-packed birthday, holiday or any-day treat for kids aged 2 and up
-- Hands-on play – The colorful playset includes an adult and baby whale, tropical fish and a turtle, which are all easy for toddlers to pick up and place, plus a 3-dimensional undersea playmat
+- Oceans of fun – Playmat measures over 9.5 in. (24 cm) high, 10 in. (26 cm) wide and 9.5 in. (24 cm) deep. Cave with corals: over 7.5 in. (19 cm) high, 2.5 in. (6 cm) wide and 7 in. (18 cm) deep
+- Open-ended ocean fun – LEGO DUPLO Wild Animals of the Ocean (10972) gives fish-loving preschoolers endless, hands-on developmental fun with sea creatures in their natural habitat
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09XVHGG38{{</world>}}

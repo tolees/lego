@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Creative building toys for all ages – Collectible LEGO Star Wars sets enable kids and adult Star Wars fans to create their own stories or simply display the buildable models
-- Interactive digital building – Using the LEGO Builder app, kids can zoom in, rotate and visualise a digital version of this model as they build
-- LEGO Star Wars gift for kids – This LEGO brick-built mech toy makes a fun gift for 6-plus-year-old boys, girls and any young Star Wars fan
-- LEGO mech – Features posable limbs, hands and feet, an opening cockpit and adjustable jetpack, plus a large lightsaber and stud-shooting blaster
-- LEGO Star Wars mech toy – Introduce kids to the LEGO Star Wars universe with this easy-to-build Luke Skywalker X-Wing Mech for play and display
-- A Luke Skywalker LEGO Star Wars minifigure – The LEGO minifigure of this iconic Star Wars character comes with a lightsaber and blaster pistol
 - LEGO Star Wars collectible set – This buildable mech toy is part of a collection of LEGO Star Wars mech sets, sold separately
+- LEGO Star Wars gift for kids – This LEGO brick-built mech toy makes a fun gift for 6-plus-year-old boys, girls and any young Star Wars fan
+- Interactive digital building – Using the LEGO Builder app, kids can zoom in, rotate and visualise a digital version of this model as they build
+- A Luke Skywalker LEGO Star Wars minifigure – The LEGO minifigure of this iconic Star Wars character comes with a lightsaber and blaster pistol
+- LEGO Star Wars mech toy – Introduce kids to the LEGO Star Wars universe with this easy-to-build Luke Skywalker X-Wing Mech for play and display
+- LEGO mech – Features posable limbs, hands and feet, an opening cockpit and adjustable jetpack, plus a large lightsaber and stud-shooting blaster
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH293J2{{</world>}}

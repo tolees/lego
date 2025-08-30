@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Dragon Shrine playset – Kids aged 13+ can build, play with and display this Dragon Stone Shrine with moving features and lots of NINJAGO characters
 - Interactive dragon model – Includes a training area that can be moved from side to side as the NINJAGO characters do battle
-- Hidden surprise – The ninja toy for boys and girls also features a secret room that is revealed when books in the library are pushed
 - A helping hand – Discover intuitive instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
-- Ninja gift for kids – Action toy makes a great kids bedroom decoration once the days action is over, and is a fun birthday gift idea for 13+ year old boys, girls and teens with a passion for ninja stories
-- 6 LEGO NINJAGO minifigures – Kids can play out NINJAGO Dragons Rising TV show scenes with Master Lloyd, Master Wu, Lord Ras, Nya, Kai and Euphrasia
+- Hidden surprise – The ninja toy for boys and girls also features a secret room that is revealed when books in the library are pushed
 - Ninja toy packed with features – Comes with a stone dragon, waterfall, cherry blossom tree, library with scrolls, books, a tea set and a secret room
+- 6 LEGO NINJAGO minifigures – Kids can play out NINJAGO Dragons Rising TV show scenes with Master Lloyd, Master Wu, Lord Ras, Nya, Kai and Euphrasia
+- Ninja gift for kids – Action toy makes a great kids bedroom decoration once the days action is over, and is a fun birthday gift idea for 13+ year old boys, girls and teens with a passion for ninja stories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW2VB4G{{</world>}}

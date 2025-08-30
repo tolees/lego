@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- La figurine LEGO constructible de Stormtrooper comprend des mains, des bras, des jambes et des pieds articulés, un cockpit de minifigurine ouvrable, et un clip pour le blaster de la minifigurine
-- Un robot Stormtrooper (75370) rapide à construire – Faites découvrir aux jeunes enfants l’univers de LEGO Star Wars avec ce robot facile à construire, pour jouer et à exposer
-- Faisant partie dune série de robots LEGO Star Wars à collectionner, ce set peut être combiné avec les sets Le Robot Dark Vador (75368) et Le Robot de Boba Fett (75369) (vendus séparément)
-- Lapplication LEGO Builder propose des instructions de construction intuitives et des outils tels que le zoom et la rotation en 3D, ainsi que la possibilité de suivre leurs progrès
 - Conçue pour être facile à construire, cette figurine de robot LEGO Star Wars permet aux enfants de samuser rapidement et est idéale pour le jeu et lexposition
+- Faisant partie dune série de robots LEGO Star Wars à collectionner, ce set peut être combiné avec les sets Le Robot Dark Vador (75368) et Le Robot de Boba Fett (75369) (vendus séparément)
+- La figurine LEGO constructible de Stormtrooper comprend des mains, des bras, des jambes et des pieds articulés, un cockpit de minifigurine ouvrable, et un clip pour le blaster de la minifigurine
 - Une minifigurine LEGO de Stormtrooper – Le Stormtrooper est équipé d’un blaster favorisant le jeu d’action
+- Un robot Stormtrooper (75370) rapide à construire – Faites découvrir aux jeunes enfants l’univers de LEGO Star Wars avec ce robot facile à construire, pour jouer et à exposer
+- Lapplication LEGO Builder propose des instructions de construction intuitives et des outils tels que le zoom et la rotation en 3D, ainsi que la possibilité de suivre leurs progrès
 - Les fans de Star Wars dès 6 ans peuvent se lancer dans la bataille contre les rebelles avec cette figurine à construire LEGO Star Wars Le Robot Stormtrooper, incluant des pièces et une arme
 
 [🛒 Check the deal!!]({{< param buyurl >}})

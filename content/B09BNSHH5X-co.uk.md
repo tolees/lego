@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - LEGO City Cement Mixer Truck toy makes a great birthday gift for kids aged 4 plus who love building sites and construction vehicle toys
+- This LEGO City toy construction vehicle features an opening driver’s cab, spinnable mixing drum, plus 2 worker minifigures for lots of role play
+- Kids can zoom, rotate and view the model from all angles as they build with the free LEGO Building Instructions app for smartphones & tablets
+- Kids can drive to the construction site, put out the road sign and use the jackhammer and wheelbarrow toys to clear the old foundation
 - This preschool learning toy for kids 4+ includes a LEGO Starter Brick element to give young builders a head start with their construction toys
 - The cement mixer truck toys spinnable mixing drum delivers concrete elements from the fold-out chute at the rear of the vehicle
-- Kids can zoom, rotate and view the model from all angles as they build with the free LEGO Building Instructions app for smartphones & tablets
-- This LEGO City toy construction vehicle features an opening driver’s cab, spinnable mixing drum, plus 2 worker minifigures for lots of role play
-- Kids can drive to the construction site, put out the road sign and use the jackhammer and wheelbarrow toys to clear the old foundation
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNSHH5X{{</world>}}

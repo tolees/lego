@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Liefhebbers van sportwagens en raceautos kunnen hun hart ophalen wanneer ze het adembenemende ontwerp van de Bugatti Bolide verkennen met dit LEGO Technic modelauto bouwpakket
 - De Bugatti Bolide verkent de grenzen van de autosporttechnologie; nu is het tijd voor jouw kind om deze waanzinnige racewagen te bouwen met de LEGO Technic Bugatti Bolide set
-- Door met deze LEGO Technic auto set aan de slag te gaan, maken jonge LEGO bouwers op een realistische en laagdrempelige manier kennis met de wereld van techniek - het is een fantastisch zomaar cadeau of kerstcadeau voor kinderen vanaf 9 jaar
 - Deze geavanceerde Bouwpakket beschikt naast realistische bewegingen en authentieke elementen over een werkende W16-motor, besturing en schaardeuren
+- Liefhebbers van sportwagens en raceautos kunnen hun hart ophalen wanneer ze het adembenemende ontwerp van de Bugatti Bolide verkennen met dit LEGO Technic modelauto bouwpakket
+- Door met deze LEGO Technic auto set aan de slag te gaan, maken jonge LEGO bouwers op een realistische en laagdrempelige manier kennis met de wereld van techniek - het is een fantastisch zomaar cadeau of kerstcadeau voor kinderen vanaf 9 jaar
 - Deze speelgoed modelauto, met het indrukwekkende geel- met zwarte kleurenschema en de meegeleverde stickerdetails voor de finishing touch, ziet er fantastisch uit in iedere kinderkamer, of als onderdeel van een collectie LEGO Technic autos
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das Kinderzimmer verfügt über Etagenbetten und verschiedene Elemente wie ein Buch und eine Schatzkarte
 - Die Hütte mit dem Elternschlafzimmer ist mit einem Bett zum Zusammenbauen sowie verschiedenen Elementen ausgestattet, darunter eine versteckte Schere, ein Schiff in der Flasche, ein Kompass und eine Uhr Zudem gibt es einen Balkon mit einem manuellen Kran
-- Dieses anspruchsvolle Bauspielzeug mit 3036 Teilen steht auf einer Landschaftsgrundplatte und umfasst einen Baum mit austauschbaren grünen (Sommer) sowie gelben und braunen (Herbst) Blättern und ein LEGO Baumhaus bestehend aus 3 Hütten – Elternschlafzimmer, Badezimmer und Kinderzimmer
-- Das Badezimmer verfügt über eine Badewanne, eine Toilette und ein Waschbecken zum Zusammenbauen
+- Das Kinderzimmer verfügt über Etagenbetten und verschiedene Elemente wie ein Buch und eine Schatzkarte
 - Die Baumkrone und die Dächer der Hütten können zum Spielen einfach entfernt werden
-- Die Landschaftsgrundplatte verfügt über einen Picknicktisch zum Zusammenbauen mit 4 Stühlenund verschiedenen Elementen für ein Picknick sowie einen Bach zum Zusammenbauen, eine Schaukel, ein Lagerfeuer, ein verstecktes Schatzelement, Pflanzen und Buschelemente und eine Leiter zu den Hütten
+- Das Badezimmer verfügt über eine Badewanne, eine Toilette und ein Waschbecken zum Zusammenbauen
 - Das Blattwerk umfasst mehr als 180 Pflanzenelemente, die aus Polyethylen auf Pflanzenbasis gefertigt wurden Der Kunststoff wurde aus nachhaltig angebautem Zuckerrohr hergestellt Verschiedene Pflanzenelemente rund um dem Baum wurden ebenfalls aus Kunststoff auf Pflanzenbasis hergestellt
+- Dieses anspruchsvolle Bauspielzeug mit 3036 Teilen steht auf einer Landschaftsgrundplatte und umfasst einen Baum mit austauschbaren grünen (Sommer) sowie gelben und braunen (Herbst) Blättern und ein LEGO Baumhaus bestehend aus 3 Hütten – Elternschlafzimmer, Badezimmer und Kinderzimmer
+- Die Landschaftsgrundplatte verfügt über einen Picknicktisch zum Zusammenbauen mit 4 Stühlenund verschiedenen Elementen für ein Picknick sowie einen Bach zum Zusammenbauen, eine Schaukel, ein Lagerfeuer, ein verstecktes Schatzelement, Pflanzen und Buschelemente und eine Leiter zu den Hütten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XGDYG2H{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bausets für Erwachsene: Die inspirierenden (separat erhältlichen) LEGO Bausets, die speziell für Erwachsene konzipiert werden, lassen dich einen Raum zum Entspannen und für Kreativität entdecken
-- 3D-Bauanleitung: Freu dich auf ein faszinierendes Bauerlebnis; Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen und 3D-Ansichten deines Modells vergrößern und drehen
-- „Schlagende“ Flügel: Baue Leonardo da Vincis Fluggerät mit stoffbespannten Flügeln und Schwanz nach, die durch einen sichtbaren Mechanismus aus Schnüren, Scharnieren und Seilrollen zum „Schlagen“ gebracht werden
-- Da Vincis Schwingenflügler– ein Bauset für Erwachsene: LEGO Icons Leonardo da Vincis Fluggerät ist ein Bauprojekt für Erwachsene und lässt dich die innovativen Konzepte aus den frühesten Anfängen der Luftfahrt entdecken
-- Inhalt der Box: Alles, was du brauchst, um eine detailgetreue LEGO Interpretation von da Vincis visionärem Schwingenflügler zu bauen, sowie ein Ständer und die Minifigur Leonardo da Vinci mit Feder und Skizze
 - LEGO Geschenk für Erwachsene: Dieses Set ist ein tolles Geburtstagsgeschenk oder eine wunderbare Überraschung zu einem anderen Anlass für alle Fans, die sich für Geschichte, Luftfahrt und historische Innovationen begeistern
+- Inhalt der Box: Alles, was du brauchst, um eine detailgetreue LEGO Interpretation von da Vincis visionärem Schwingenflügler zu bauen, sowie ein Ständer und die Minifigur Leonardo da Vinci mit Feder und Skizze
+- „Schlagende“ Flügel: Baue Leonardo da Vincis Fluggerät mit stoffbespannten Flügeln und Schwanz nach, die durch einen sichtbaren Mechanismus aus Schnüren, Scharnieren und Seilrollen zum „Schlagen“ gebracht werden
+- 3D-Bauanleitung: Freu dich auf ein faszinierendes Bauerlebnis; Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen und 3D-Ansichten deines Modells vergrößern und drehen
+- Da Vincis Schwingenflügler– ein Bauset für Erwachsene: LEGO Icons Leonardo da Vincis Fluggerät ist ein Bauprojekt für Erwachsene und lässt dich die innovativen Konzepte aus den frühesten Anfängen der Luftfahrt entdecken
 - Schreibtisch-Deko: Dieses detailgetreue Ausstellungsstück stellt Leonardo da Vincis Fluggerät dar und schmückt als spektakulärer Blickfang jedes Wohnzimmer oder Büro
+- Bausets für Erwachsene: Die inspirierenden (separat erhältlichen) LEGO Bausets, die speziell für Erwachsene konzipiert werden, lassen dich einen Raum zum Entspannen und für Kreativität entdecken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NAELBNS{{</world>}}

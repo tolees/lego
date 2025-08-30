@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Número de piezas: 73
 - Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
+- Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
+- Número de piezas: 73
 - Edad recomendada por el fabricante: 7+
 - Alien DJ BeatBox
-- Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08G4P4W4B{{</world>}}

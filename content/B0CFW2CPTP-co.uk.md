@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Camping toy accessories for fun adventures – Comes with a telescope, mugs, cookies, binoculars, a torch, extra stars and prints of different planets
-- A gift idea for kids – Makes a fun birthday gift for 7 plus year old girls, boys and kids who are fans of cool toy cars and cute animal figures
-- Stargazing Camping Vehicle playset – Includes a buildable 4x4 car toy with trailer and tent, telescope, 2 mini-dolls, a dog and a hedgehog figure
 - 2 mini-dolls and 2 animal figures – This set includes Nova and Aliya LEGO Friends mini-dolls plus a dog and a hedgehog animal figures
 - Create constellations – Kids can make their own constellations for the LEGO Friends characters using the planets and stars to decorate the backdrop
+- Stargazing Camping Vehicle playset – Includes a buildable 4x4 car toy with trailer and tent, telescope, 2 mini-dolls, a dog and a hedgehog figure
+- A gift idea for kids – Makes a fun birthday gift for 7 plus year old girls, boys and kids who are fans of cool toy cars and cute animal figures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2CPTP{{</world>}}

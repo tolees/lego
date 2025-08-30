@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO houses – Toddlers and parents role-play daily routines, talk through their emotions and build and rebuild the brightly coloured toy houses
 - Skill-building play – LEGO DUPLO learning toys are expertly designed to help toddlers develop their social, emotional, motor and creative skills
-- Preschool learning toys – LEGO DUPLO My First Daily Routines: Eating & Bedtime building toy helps toddlers learn about important daily activities
 - LEGO DUPLO Animals with character – Kitten and bear cub include happy and sad faces, allowing kids who may not be talking yet to express emotions
-- Early development and activity toys – This engaging animal toys set comes with 4 animal family figures to help little ones understand their feelings
+- Preschool learning toys – LEGO DUPLO My First Daily Routines: Eating & Bedtime building toy helps toddlers learn about important daily activities
+- LEGO houses – Toddlers and parents role-play daily routines, talk through their emotions and build and rebuild the brightly coloured toy houses
 - Gift idea for little animal-lovers – Makes a fun anytime treat or special birthday gift for girls, boys and all toddlers who are ready to learn about the importance of routines at home
+- Early development and activity toys – This engaging animal toys set comes with 4 animal family figures to help little ones understand their feelings
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00CGZSDC4{{</world>}}

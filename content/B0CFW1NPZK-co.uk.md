@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Made for display – The buildable stand has a nameplate and LEGO Star Wars 25th anniversary brick, making it a great home or office décor piece
-- Build your LEGO Star Wars starship with digital guidance – With the LEGO Builder app you can build in 3D, track your progress and save all your sets
 - LEGO Star Wars Starship Collection – This LEGO set for adults is part of a collectible series featuring mid-scale Star Wars model starships
+- Made for display – The buildable stand has a nameplate and LEGO Star Wars 25th anniversary brick, making it a great home or office décor piece
 - Star Wars gift for fans and memorabilia collectors – This 654-piece adults’ LEGO Star Wars model kit makes a fun birthday gift for men, women, him or her and a great addition to any LEGO Star Wars collection
+- Build your LEGO Star Wars starship with digital guidance – With the LEGO Builder app you can build in 3D, track your progress and save all your sets
 - Authentically detailed Star Wars vehicle – Capture features of the Tantive IV, as seen in Star Wars: A New Hope, including 11 engines and turbolasers
 - Collectible Star Wars vehicle model – Recreate the opening scene of Star Wars: A New Hope with this LEGO Star Wars Tantive IV set for adults
 

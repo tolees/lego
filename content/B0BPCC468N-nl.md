@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Het goed vs kwaad speelgoed bevat 2 LEGO NINJAGO mini figuren: ninja Kai met een gouden zwaard en Lord Ras met een gouden hamer, waarmee kleine ninja fans spannende gevechten kunnen uitspelen
 - NINJAGO Kai kan racen in een LEGO speelgoed auto gewapend met gouden messen tegen Lord Ras in zijn motor met gouden rammers
-- Deze LEGO NINJAGO voertuig set is een leuk verjaardagscadeau voor kinderen vanaf 4 jaar en fans van de NINJAGO Dragons Rising TV-serie
 - Met de LEGO Builder app kunnen kinderen sets opslaan, hun voortgang bijhouden, en modellen draaien in 3D en inzoomen terwijl ze bouwen
-- Jonge ninjas kunnen de actie uit de NINJAGO Dragons Rising TV-serie naspelen met dit Kai en Ras duel tussen auto en motor speelgoed voor kinderen vanaf 4 jaar, inclusief 2 coole voertuigen
+- Deze LEGO NINJAGO voertuig set is een leuk verjaardagscadeau voor kinderen vanaf 4 jaar en fans van de NINJAGO Dragons Rising TV-serie
 - De ninja speelset wordt geleverd met een blauw bliksemschichtelement in een displayhouder, die de personages moeten grijpen om de strijd te winnen
+- Jonge ninjas kunnen de actie uit de NINJAGO Dragons Rising TV-serie naspelen met dit Kai en Ras duel tussen auto en motor speelgoed voor kinderen vanaf 4 jaar, inclusief 2 coole voertuigen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCC468N{{</world>}}

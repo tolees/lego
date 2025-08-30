@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Contempla los detalles de la maqueta de coche: abre las puertas para ver el interior y, después, explora tanto la escalera, la rueda de repuesto, la baca y los demás accesorios como la puerta trasera y el capó, que también puedes abrir
-- Construye un vehículo Clase G: disfruta de un proyecto que te permite concentrarte en dar forma a todos los detalles de esta maqueta para adultos LEGO Technic, como el mecanismo de dirección y la suspensión elevada
 - Maqueta del coche Mercedes-Benz G 500 para adultos: conmemora el 45 aniversario de uno de los todoterrenos más admirados del mundo con el envolvente set para adultos Mercedes-Benz G 500 PROFESSIONAL Line
 - Instrucciones de construcción 3D: prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, seguir tus progresos y guardar sets
+- Construye un vehículo Clase G: disfruta de un proyecto que te permite concentrarte en dar forma a todos los detalles de esta maqueta para adultos LEGO Technic, como el mecanismo de dirección y la suspensión elevada
 - Regalo coleccionable inspirado en un coche Mercedes-Benz: esta maqueta de coche una gran idea de regalo para hombres y mujeres fans de Mercedes-Benz que les permitirá disfrutar de un absorbente proyecto y de una preciada pieza de exposición
+- Contempla los detalles de la maqueta de coche: abre las puertas para ver el interior y, después, explora tanto la escalera, la rueda de repuesto, la baca y los demás accesorios como la puerta trasera y el capó, que también puedes abrir
 - Explora sus fieles funciones: echa un vistazo al motor de 6 cilindros en línea, a la caja de cambios (con posiciones de conducción, punto muerto y marcha atrás) y a los 2 bloqueos de diferenciales
 
 [🛒 Buy it!!]({{< param buyurl >}})

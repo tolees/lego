@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Engineering insights – LEGO Technic model vehicle building kits feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering
-- Farm toy for kids aged 9+ – Inspire young farming fans to build and explore this LEGO Technic John Deere 9700 Forage Harvester toy for boys and girls
-- 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- A gift idea for kids who love John Deere equipment – This LEGO farm set makes a fun birthday gift for boys and girls aged 9+ who love LEGO vehicles
 - Authentic steering – The tractor toy features back-wheel steering just like on a real John Deere harvester so kids can enjoy vehicle role play
 - Forage header tool – Kids can learn how a real John Deere harvester works as they raise, lower and spin the forage header tool
-- A gift idea for kids who love John Deere equipment – This LEGO farm set makes a fun birthday gift for boys and girls aged 9+ who love LEGO vehicles
+- Farm toy for kids aged 9+ – Inspire young farming fans to build and explore this LEGO Technic John Deere 9700 Forage Harvester toy for boys and girls
+- Engineering insights – LEGO Technic model vehicle building kits feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering
+- 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ4D1K{{</world>}}

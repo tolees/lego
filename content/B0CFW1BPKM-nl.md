@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Een LEGO verrassing voor fans van politiespeelgoed – geef deze LEGO politie set met autos cadeau voor de feestdagen of zomaar tussendoor aan jongens en meisjes van 6 jaar en ouder
-- Wat zit er in deze bouwset? – alles wat kinderen nodig hebben om een speelgoed politieauto en een vluchtauto te bouwen, plus minifiguren van een politie agent en een boef voor leuke rollenspellen
 - Speelgoed voor kinderen die graag doen alsof – plaats de minifiguren van de politieagent en de boef in hun speelgoed auto om een wereld van creativiteit en nieuwe verhalen te ontdekken
+- Wat zit er in deze bouwset? – alles wat kinderen nodig hebben om een speelgoed politieauto en een vluchtauto te bouwen, plus minifiguren van een politie agent en een boef voor leuke rollenspellen
 - Inclusief gezocht-poster – met toestemming van een volwassene kunnen kinderen de QR-code in de bouwinstructies of op de doos scannen voor een leuk videoavontuur met de LEGO City politie
+- Een LEGO verrassing voor fans van politiespeelgoed – geef deze LEGO politie set met autos cadeau voor de feestdagen of zomaar tussendoor aan jongens en meisjes van 6 jaar en ouder
 - Politie speelgoed voor actie met gierende banden – beleef spannende politieachtervolgingen met de LEGO City Politiewagen en snelle autoachtervolging speelset voor kinderen vanaf 6 jaar
 
 [🛒 Buy it!!]({{< param buyurl >}})

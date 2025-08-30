@@ -30,10 +30,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Geschenke für junge Musikliebhaber: Du suchst nach Kinderspielzeug und Geschenkideen? Dann ist dieser LEGO Tour-Bus bestimmt das richtige Geburtstagsgeschenk für Kinder, Jungen und Mädchen ab 8 Jahren, die sich für Musik begeistern
 - LEGO Sets zum Darstellen von Freundschaftsgeschichten: Schau dir für noch mehr kreativen Spielspaß weitere (separat erhältliche) LEGO Friends Sets an
+- Spielset mit Tourbus für musikalische Rollenspiele: Der LEGO Friends Popstar-Tourbus ist ein Bausatz für Kinder, Mädchen und Jungen ab 8 Jahren und beinhaltet 4 LEGO Friends Figuren und jede Menge Zubehör, um richtig abzurocken
+- Fördert die sozial-emotionale Entwicklung: Der Baukasten beinhaltet 4 LEGO Friends Minipuppen, darunter auch Paisley und Ley-La als separate Figuren, damit dein Kind die Verwandlung in die Sängerin darstellen kann
 - Jede Menge Zubehör: Dieses Musikspielzeug beinhaltet reichlich Zubehör für verschiedene Rollenspiele, die die sozial-emotionale Entwicklung deines Kindes fördern; darunter sind coole Instrumente wie eine Aufnahme-Ecke, ein Keyboard und eine Gitarre
 - Verwandle Paisley in Ley-La: Dein Kind kann zunächst das LEGO LKW-Spielzeug zusammenstecken und dann den Spiegel drehen, um die schüchterne Paisley in den Superstar Ley-La zu verwandeln
-- Fördert die sozial-emotionale Entwicklung: Der Baukasten beinhaltet 4 LEGO Friends Minipuppen, darunter auch Paisley und Ley-La als separate Figuren, damit dein Kind die Verwandlung in die Sängerin darstellen kann
-- Spielset mit Tourbus für musikalische Rollenspiele: Der LEGO Friends Popstar-Tourbus ist ein Bausatz für Kinder, Mädchen und Jungen ab 8 Jahren und beinhaltet 4 LEGO Friends Figuren und jede Menge Zubehör, um richtig abzurocken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVWK2WW{{</world>}}

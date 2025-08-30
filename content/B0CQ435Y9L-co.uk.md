@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Minions gift ideas – This fun movie toy makes a great birthday gift for 6-plus-year-old boys, girls and kids who are fans of Minions and Illumination’s Despicable Me films
-- Fun accessories – Includes Dave’s weight-lifting bar, Secret Agent AVL Tim’s X-ray glasses, Pit Crew Ron’s dirty-nappy-disposal gun and much more
-- Minion toys – Treat kids who are fans of Illumination’s Despicable Me 4 to this Minions and Banana Car toy for 6-plus-year-old boys and girls
 - Creative building set – With a small toy car, 4 Minions figures and loads of tools and gadgets, this Minions toy is full of play possibilities
+- Minions gift ideas – This fun movie toy makes a great birthday gift for 6-plus-year-old boys, girls and kids who are fans of Minions and Illumination’s Despicable Me films
 - Movie toys – Includes a banana vehicle toy for kids with a removable engine, Minions Mel, Pit Crew Ron, secret agent AVL Tim and Mega Minion Dave
+- Minion toys – Treat kids who are fans of Illumination’s Despicable Me 4 to this Minions and Banana Car toy for 6-plus-year-old boys and girls
+- Fun accessories – Includes Dave’s weight-lifting bar, Secret Agent AVL Tim’s X-ray glasses, Pit Crew Ron’s dirty-nappy-disposal gun and much more
 - 3D building guide – Discover instructions in the LEGO Builder app where kids can zoom in and rotate models in 3D, track their progress and save sets
 - More Minions movie toys – There are additional LEGO Despicable Me 4 building toys available (sold separately) for kids who want to collect, combine and customise the Minions fun
 

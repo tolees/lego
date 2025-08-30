@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO toy house – Teens can display this 2-storey dolls house and toy garden with realistic flowers and trees, beehives, a shop and a bedroom
 - Fun dolls house accessories – This play shop model comes with bee and ladybird tiles, vegetables, seed packet, watering can, compost bin and more
-- Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
-- LEGO Friends characters – Includes 4 mini dolls: Paisley, Aliya, grandparents Orla and Terence, plus rabbit Amos and Peri the cat animal toy figures
 - Fun birthday gift idea – This set makes a creative gift for 12+ year old girls and boys who love animal toys and buildable models to display
-- Building toy for 12+ year old girls and boys – This LEGO Friends Beekeepers’ House and Flower Garden set includes 4 mini dolls and fun accessories
 - Fun way to build – With the LEGO Builder app kids can save sets, track progress and zoom in and rotate models in 3D while they build
+- Building toy for 12+ year old girls and boys – This LEGO Friends Beekeepers’ House and Flower Garden set includes 4 mini dolls and fun accessories
+- Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
+- LEGO toy house – Teens can display this 2-storey dolls house and toy garden with realistic flowers and trees, beehives, a shop and a bedroom
+- LEGO Friends characters – Includes 4 mini dolls: Paisley, Aliya, grandparents Orla and Terence, plus rabbit Amos and Peri the cat animal toy figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBCQLL{{</world>}}

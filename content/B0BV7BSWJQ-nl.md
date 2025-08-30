@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bevat een bouwbare Batmobile speelgoed auto voor kinderen vanaf 4 jaar plus 2 iconische LEGO minifiguren om epische superhelden achtervolgingen na te spelen
-- Deze LEGO 4+ set laat kinderen kennismaken met creatief bouwen en is ontworpen om de verbeelding te prikkelen en zelfvertrouwen te stimuleren
-- LEGO 4+ sets laten kinderen kennismaken met een breed assortiment aan film favorieten, tv-personages en alledaagse helden, en zijn een geweldig cadeau voor kinderen, jongens en meisjes die van LEGO speelgoed en creatief spelen houden
 - Inclusief Batman en The Joker LEGO minifiguren, plus accessoires zoals The Jokers gestolen geld en Batmans cape, helm en Batarang die aanzetten tot fantasierijk rollenspel
 - Batman springt in de Batmobile om achter The Joker aan te racen, die geld heeft gestolen; vlammen schieten uit de uitlaatpijp als Batman de schurk inhaalt; een goed gerichte Batarang kan hem stoppen!
+- Bevat een bouwbare Batmobile speelgoed auto voor kinderen vanaf 4 jaar plus 2 iconische LEGO minifiguren om epische superhelden achtervolgingen na te spelen
+- LEGO 4+ sets laten kinderen kennismaken met een breed assortiment aan film favorieten, tv-personages en alledaagse helden, en zijn een geweldig cadeau voor kinderen, jongens en meisjes die van LEGO speelgoed en creatief spelen houden
+- Deze LEGO 4+ set laat kinderen kennismaken met creatief bouwen en is ontworpen om de verbeelding te prikkelen en zelfvertrouwen te stimuleren
 - De bouwbare Batmobile speelgoed auto heeft een klassiek Batman logo op de voorkant, een grote Batwing spoiler en vlammen die uit de uitlaat schieten
 - De LEGO Batman speelgoed set bevat ook een LEGO startsteenchassis die kinderen aanmoedigt om de Batmobile zelf te bouwen, plus kleurrijke instructies met afbeeldingen en verhalen die dienen als bouw- en speelgids
 

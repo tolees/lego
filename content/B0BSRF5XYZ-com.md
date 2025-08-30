@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Story-led building instructions – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
 - Hours of play – The creative building set is designed for tweens and kids ages 10 and up to spend hours of fun playing on their own or with friends
+- Exciting features – The shark ship has an opening jaw, a secret treasure chest, removable rear cabin, cage, trapdoor and swiveling turrets
 - Dimensions – The Nightmare Shark Ship measures over 12.5 in. (31 cm) high, 23.5 in. (60 cm) long and 10 in. (25 cm) wide
 - 4 minifigures – Detailed minifigures of Mateo, Izzie, Nova and the Nightmare King help bring the story to life and spark creativity and imagination
-- Dive into the dream world – Kids can build a detailed vehicle with the LEGO DREAMZzz Nightmare Shark Ship (71469) building set, which is inspired by the LEGO DREAMZzz TV show
-- Exciting features – The shark ship has an opening jaw, a secret treasure chest, removable rear cabin, cage, trapdoor and swiveling turrets
 - 2 ways to build – The ship can be built in ship mode or in tank mode, encouraging creativity and providing double the playtime. Ship mode has powerful engines and sails, while tank mode has cool accessories and flying eyeballs
-- Story-led building instructions – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
+- Dive into the dream world – Kids can build a detailed vehicle with the LEGO DREAMZzz Nightmare Shark Ship (71469) building set, which is inspired by the LEGO DREAMZzz TV show
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRF5XYZ{{</world>}}

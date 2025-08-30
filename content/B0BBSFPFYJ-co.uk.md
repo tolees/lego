@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO | Disney train set features a buildable parade train with 3 floats and 6 LEGO minifigures to celebrate Disneys 100th anniversary
-- Perfect for Disney and train-loving kids; this set is packed with activities so parents can share developmental milestones with kids, as they build
-- Fans can swing onto Peter Pans Pirate-ship and meet Tinker bell, visit Moana on the Island, check out Woodys Roundup, or party with Minnie Mouse
-- Includes Peter Pan, Tinker Bell, Toy Storys Woody and Moana LEGO minifigures, plus Mickey and Minnie Mouse to lead the celebrations
 - This train toy for kids features fun accessories such as a guitar, balloons, revolving stage and more; each bag of bricks contains a character
+- Fans can swing onto Peter Pans Pirate-ship and meet Tinker bell, visit Moana on the Island, check out Woodys Roundup, or party with Minnie Mouse
+- This LEGO | Disney train set features a buildable parade train with 3 floats and 6 LEGO minifigures to celebrate Disneys 100th anniversary
+- Includes Peter Pan, Tinker Bell, Toy Storys Woody and Moana LEGO minifigures, plus Mickey and Minnie Mouse to lead the celebrations
+- Perfect for Disney and train-loving kids; this set is packed with activities so parents can share developmental milestones with kids, as they build
 - The fun-filled Disney 100th Anniversary train set features an engine and a station, plus each float includes functions or hidden features
 - LEGO | Disney 4+ train set comes with Starter Bricks and simple picture instructions to help even those learning to read to start building quickly
 

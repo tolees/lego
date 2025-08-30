@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gift for Star Wars: Young Jedi Adventures fans – This LEGO Star Wars set makes a fun birthday gift for 4 plus year old kids, boys and girls
-- A fun family activity – With separate instructions in the box for each main model; check out the LEGO Builder app for digital viewing tools and more
-- 3 Star Wars characters – Nash Durango with a wrench and Nubs with a lightsaber LEGO Star Wars minifigures, plus an RJ-83 LEGO droid figure
-- The 4+ experience – LEGO Star Wars 4+ building toys introduce kids to the Star Wars universe, helping them develop their imaginations through creative play
 - Fun combo – This LEGO Star Wars vehicles set can be mixed with the Tenoo Jedi Temple (75358 – set sold separately) to inspire creative play
-- Star Wars building toys – Kids can quickly build Star Wars vehicles and play out Star Wars: Young Jedi Adventures stories with this LEGO 4+ set
+- Gift for Star Wars: Young Jedi Adventures fans – This LEGO Star Wars set makes a fun birthday gift for 4 plus year old kids, boys and girls
+- The 4+ experience – LEGO Star Wars 4+ building toys introduce kids to the Star Wars universe, helping them develop their imaginations through creative play
 - Easy to build – The Starship features a Starter Brick base and a cockpit with room for all 3 characters, plus space in the back for the speeder bike
+- 3 Star Wars characters – Nash Durango with a wrench and Nubs with a lightsaber LEGO Star Wars minifigures, plus an RJ-83 LEGO droid figure
+- A fun family activity – With separate instructions in the box for each main model; check out the LEGO Builder app for digital viewing tools and more
+- Star Wars building toys – Kids can quickly build Star Wars vehicles and play out Star Wars: Young Jedi Adventures stories with this LEGO 4+ set
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW291J5{{</world>}}

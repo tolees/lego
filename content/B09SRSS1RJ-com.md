@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO set makes a great birthday or Christmas gift for all young Avengers fans, boys and girls who love toys based on the Marvel Universe
-- Includes digital instructions with the LEGO Building Instructions app, allowing children to zoom and rotate while building the model
-- Includes 5 minifigures of Tony Stark, Pepper Potts, Nick Fury, War Machine and Whiplash and 3 high tech battle suits: the MK3, MK25 and MK85
-- This LEGO Marvel building toy features Tony Starks headquarters with his Hall of Armor room, high-tech Iron Man suits and a workshop area
 - Children can use the platform to change Tony Starks Avengers armor and carry out repairs using the included tool accessories
-- This fun-filled set puts endless Iron Man action into the hands of young Super Heroes Ages 7+ and fans of the Marvel Studios Infinity Saga
+- Includes digital instructions with the LEGO Building Instructions app, allowing children to zoom and rotate while building the model
+- This LEGO set makes a great birthday or Christmas gift for all young Avengers fans, boys and girls who love toys based on the Marvel Universe
+- Includes 5 minifigures of Tony Stark, Pepper Potts, Nick Fury, War Machine and Whiplash and 3 high tech battle suits: the MK3, MK25 and MK85
 - Features a toy sports car with Stark Expo model-map, robot assistant arm, workshop area with tools, 3 holographic displays, and changing platform
+- This LEGO Marvel building toy features Tony Starks headquarters with his Hall of Armor room, high-tech Iron Man suits and a workshop area
+- This fun-filled set puts endless Iron Man action into the hands of young Super Heroes Ages 7+ and fans of the Marvel Studios Infinity Saga
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09SRSS1RJ{{</world>}}

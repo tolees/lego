@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - 7 LEGO Harry Potter Charaktere: Die Minifiguren Harry Potter, Neville Longbottom, Dean Thomas, Hermine Granger und Professor McGonagall sowie die Eule Hedwig und die Kröte Trevor laden zum Spielen ein
 - Bootshaus in einem mittelalterlichen Schloss und 2 Spielzeug-Boote: In dem Bootshaus kann ein Boot anlegen; außerdem gibt es dort eine Windfahne, ein Versteck für Trevor, eine baubare Lampe und Platz für 2 Harry Potter Minifiguren
 - Geschenkidee für Kinder: Dieses Kinderspielzeug ist eine tolle spontane Belohnung oder ein magisches Geschenk für Mädchen, Jungs und Fans ab 8 Jahren, die gerne spannende Harry Potter Geschichten darstellen
-- Hogwarts-Modell für baubare Abenteuer: Lass dein Kind die legendäre Szene aus Harry Potter und der Stein der Weisen nachstellen, in der Harry Potter und seine Freunde zum ersten Mal am Bootshaus von Schloss Hogwarts eintreffen
 - 1 von 14 Hogwarts Porträts zum Sammeln: Dieses Harry Potter Spielzeug für Kinder beinhaltet auch ein goldenes Element, das mit 1 von 14 möglichen Hogwarts Porträts bedruckt ist und im Bootshaus des Schlosses ausgestellt werden kann
+- Hogwarts-Modell für baubare Abenteuer: Lass dein Kind die legendäre Szene aus Harry Potter und der Stein der Weisen nachstellen, in der Harry Potter und seine Freunde zum ersten Mal am Bootshaus von Schloss Hogwarts eintreffen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYNPY6{{</world>}}

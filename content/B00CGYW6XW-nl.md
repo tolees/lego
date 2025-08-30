@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cadeau voor peuters – geef deze praktische speelset cadeau voor een verjaardag of als verrassing aan kinderen van 18 maanden en ouder
 - Speelgoed trein om te bouwen en herbouwen – peuters volgen de kaarten om het dierenspeelgoed te bouwen en gebruiken de extra stenen om zelfbedachte beesten te maken
-- Educatief speelgoed voor jonge kinderen – peuters leren kleuren te combineren terwijl ze het dier op de wagon met dezelfde kleur zetten
+- Cadeau voor peuters – geef deze praktische speelset cadeau voor een verjaardag of als verrassing aan kinderen van 18 maanden en ouder
 - Dierenvoertuigset – deze LEGO DUPLO Mijn eerste dierentrein set voor kinderen vanaf 18 maanden bevat 4 speelgoed dieren en 3 afneembare duwwagons voor creatieve rollenspellen
+- Educatief speelgoed voor jonge kinderen – peuters leren kleuren te combineren terwijl ze het dier op de wagon met dezelfde kleur zetten
 - Speelgoed dat de fijne motoriek ontwikkelt – deze speelgoed trein voor peuters bevat leuke functies die de fijne motoriek helpen ontwikkelen: de wagens kunnen met elkaar worden verbonden en de flexibele nek van de haan kan wiebelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

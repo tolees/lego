@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Interactief model – inspireer kinderen om een realistische weergave van de aarde, de zon en de maan te bouwen met dit LEGO Technic De aarde en de maan in beweging ruimte speelgoed voor kinderen vanaf 10 jaar
 - Inclusief maanden en maanfasen – dit speelgoed van het zonnestelsel bevat gedrukte details, zoals de maanden en maanfasen, zodat kinderen kunnen zien hoe de baan van de aarde onze seizoenen beïnvloedt
+- Interactief model – inspireer kinderen om een realistische weergave van de aarde, de zon en de maan te bouwen met dit LEGO Technic De aarde en de maan in beweging ruimte speelgoed voor kinderen vanaf 10 jaar
+- Educatief speelgoed voor jongens en meisjes– kinderen kunnen aan de slinger draaien om te zien hoe de aarde en de maan rond de zon draaien
 - Een LEGO ruimte cadeau voor kinderen – deze set is een leuk cadeau voor kinderen vanaf 10 jaar die dol zijn op planeten en meer willen leren over ons zonnestelsel
 - Intuïtieve instructies – de LEGO Builder app begeleidt je kind tijdens een intuïtief bouwavontuur met functies waarmee het kan inzoomen, modellen kan draaien in 3D, sets kan opslaan en de voortgang kan bijhouden
-- Educatief speelgoed voor jongens en meisjes– kinderen kunnen aan de slinger draaien om te zien hoe de aarde en de maan rond de zon draaien
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYHXV5{{</world>}}

@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - A racing car gift for kids – This set makes a fun Christmas gift for 9 plus year old boys and girls, and it also looks great as a kids bedroom decoration
-- Fast-paced fun – This McLaren car toy features a double pull-back function so kids can send the model car speeding along the track
-- Steer the LEGO vehicle – Kids can use the steering function to move the wheels of this pull-back car toy as they enjoy hours of creative play
 - Introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young builders to the universe of engineering
-- Intuitive instructions – The LEGO Builder app guides your youngster on an intuitive building adventure with tools that let them zoom in and rotate models in 3D, save sets and track their progress
 - NEOM McLaren Formula E model car with pull-back action – This building toy for 9+-year-old boys and girls lets racing fans build a race car toy
+- Steer the LEGO vehicle – Kids can use the steering function to move the wheels of this pull-back car toy as they enjoy hours of creative play
+- Intuitive instructions – The LEGO Builder app guides your youngster on an intuitive building adventure with tools that let them zoom in and rotate models in 3D, save sets and track their progress
+- Fast-paced fun – This McLaren car toy features a double pull-back function so kids can send the model car speeding along the track
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYVQ4Q{{</world>}}

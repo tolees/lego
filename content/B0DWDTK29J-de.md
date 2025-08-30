@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Intuitive Bauanleitungen: Genieße jeden Schritt dieses komplexen Bauprojekts mit der LEGO Builder App. In der App kannst du beim Bauen eine digitale 3D-Ansicht des Modells betrachten, deinen Baufortschritt verfolgen und Sets speichern
-- LEGO Star Wars UCS Bauset für Erwachsene: Baue den AT-ST Kampfläufer mit Sammlercharakter aus der klassischen Saga und schalte mit dem kreativen Spielzeug vom Alltag ab
-- Präsentiere dein Baumodell: Ein echtes Star Wars Diorama für deine Sammlung oder als DIY Schreibtisch Deko, zeige deine Kreativität und begeistere andere
-- Ein besonderes Star Wars Geschenk für erfahrene Baumeister: Das LEGO Spielset ist eine schöne DIY Freizeitbeschäftigung für Männer und Frauen
 - Verschenke das LEGO Modell: Dieses baubare Modell ist ein schönes Geschenk für Erwachsene, für dich selbst oder einen anderen erwachsenen Star Wars Fan, geeignet für Sammler der LEGO Star Wars UCS-Sets
+- Intuitive Bauanleitungen: Genieße jeden Schritt dieses komplexen Bauprojekts mit der LEGO Builder App. In der App kannst du beim Bauen eine digitale 3D-Ansicht des Modells betrachten, deinen Baufortschritt verfolgen und Sets speichern
 - LEGO Technik trifft auf Star Wars Modellbau: Erlebe Baumechanik und ikonisches Design in einem spannenden Bauprojekt; mit dem Modellbau hast du jede Menge Spielspaß
+- LEGO Star Wars UCS Bauset für Erwachsene: Baue den AT-ST Kampfläufer mit Sammlercharakter aus der klassischen Saga und schalte mit dem kreativen Spielzeug vom Alltag ab
+- Ein besonderes Star Wars Geschenk für erfahrene Baumeister: Das LEGO Spielset ist eine schöne DIY Freizeitbeschäftigung für Männer und Frauen
+- Präsentiere dein Baumodell: Ein echtes Star Wars Diorama für deine Sammlung oder als DIY Schreibtisch Deko, zeige deine Kreativität und begeistere andere
 - LEGO Star Wars Sammlersets für Erwachsene: Mit den LEGO Star Wars Bausets für Erwachsene holst du dir eine weit, weit entfernte Galaxis in dein Zuhause; die Sets sind für Fans von achtsamen Spielen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

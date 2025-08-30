@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vervolgens kan de set worden omgebouwd tot een ruimteschip waarmee kinderen in een baan om de aarde kunnen vliegen, of tot een astronaut met een jetpack en vlag
-- Deze 3in1 LEGO constructie speelgoed set bevat een spaceshuttle die kan worden omgebouwd tot een astronaut met beweegbare benen en armen of tot een ruimteschip
 - Met LEGO Creator 3in1 sets krijgen kinderen 3 verschillende bouw- en speelervaringen; dit speelgoed is een buitengewoon verjaardagscadeau voor kinderen vanaf 6 jaar die dol zijn op de ruimte
+- Kinderen vanaf 6 jaar kunnen het supercoole van LEGO stenen gemaakte speelgoed ruimteschip bouwen met een te openen luik en een verwijderbare en uitbreidbare satelliet
 - Bekijk ook andere LEGO 3in1 sets waaronder de Klassieke Motor (31135), Exotische Papegaai (31136) en Schattige Honden (31137) bouwspeelgoed sets
 - Met behulp van de LEGO Builder app kunnen kinderen op een digitale versie van hun creatie inzoomen en deze draaien op hun smartphone of tablet
-- Kinderen vanaf 6 jaar kunnen het supercoole van LEGO stenen gemaakte speelgoed ruimteschip bouwen met een te openen luik en een verwijderbare en uitbreidbare satelliet
+- Deze 3in1 LEGO constructie speelgoed set bevat een spaceshuttle die kan worden omgebouwd tot een astronaut met beweegbare benen en armen of tot een ruimteschip
+- Vervolgens kan de set worden omgebouwd tot een ruimteschip waarmee kinderen in een baan om de aarde kunnen vliegen, of tot een astronaut met een jetpack en vlag
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRYHTPS{{</world>}}

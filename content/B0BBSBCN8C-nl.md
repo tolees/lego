@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het bouwbare ruimteschip heeft een cockpit die plaats biedt voor 3 minifiguren, een geheim vak voor nog een minifiguur, een opbergruimte voor wapens en 2 kleine ruimteschepen die kunnen worden losgemaakt van het moederschip
-- Kinderen vanaf 10 jaar kunnen met de bemanning van Guardians of the Galaxy Volume 3 op pad met deze LEGO Marvel superhelden set, met een bouwbaar ruimteschip en 5 minifiguren
-- Guardians of the Galaxy constructie speelgoed is een geweldig Marvel superhelden cadeau voor kinderen vanaf 10 jaar en fans van Marvel en ruimte speelgoed
 - Het ruimteschip kan makkelijk opgepakt en door de ruimte geslingerd worden, en na het spelen, kan het op zijn standaard in elke kinderkamer tentoongesteld worden
+- Kinderen vanaf 10 jaar kunnen met de bemanning van Guardians of the Galaxy Volume 3 op pad met deze LEGO Marvel superhelden set, met een bouwbaar ruimteschip en 5 minifiguren
 - Inclusief 5 minifiguren uit Marvel Studios Guardians of the Galaxy Volume 3: Mantis, Drax, Star-Lord, Nebula en Adam Warlock, plus coole accessoires en wapens
+- Guardians of the Galaxy constructie speelgoed is een geweldig Marvel superhelden cadeau voor kinderen vanaf 10 jaar en fans van Marvel en ruimte speelgoed
+- Het bouwbare ruimteschip heeft een cockpit die plaats biedt voor 3 minifiguren, een geheim vak voor nog een minifiguur, een opbergruimte voor wapens en 2 kleine ruimteschepen die kunnen worden losgemaakt van het moederschip
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBSBCN8C{{</world>}}

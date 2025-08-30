@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geniet van een bijzonder bouwavontuur terwijl je de fijnere details van een iconisch Super Mario figuur vastlegt in LEGO stijl met dit LEGO Super Mario Piranha Plant bouwpakket voor volwassenen
 - Onderdeel van een inspirerende reeks LEGO bouwpakketten voor volwassenen die ideaal zijn voor degenen die genieten van leuke, creatieve activiteiten in hun vrije tijd, let op: dit model heeft geen digitale afspeelfuncties
 - Deze LEGO Super Mario Piranha Plant bouwset is een geweldig verjaardagscadeau, zomaar cadeau of kerstcadeau voor mannen, vrouwen, hem of haar en een leuke aanvulling op elke LEGO Super Mario collectie
-- De Super Mario LEGO plant figuur heeft een verstelbare kop, bek, stengel en bladeren, en wordt geleverd met een bouwbare buis om na te bootsen hoe de plant groeit, net als in de Super Mario game
 - Deze LEGO set voor volwassenen is een coole Super Mario decoratie voor thuis of op kantoor, en bevat 2 muntelementen die een verborgen functie onthullen zodra de LEGO plant gebouwd is
+- De Super Mario LEGO plant figuur heeft een verstelbare kop, bek, stengel en bladeren, en wordt geleverd met een bouwbare buis om na te bootsen hoe de plant groeit, net als in de Super Mario game
+- Geniet van een bijzonder bouwavontuur terwijl je de fijnere details van een iconisch Super Mario figuur vastlegt in LEGO stijl met dit LEGO Super Mario Piranha Plant bouwpakket voor volwassenen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7DPF3C{{</world>}}

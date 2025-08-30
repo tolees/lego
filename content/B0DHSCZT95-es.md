@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Serie en Internet: Inspira más ideas de juego con el resto de los sets de la gama (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo (disponible en Internet), donde los peques podrán conocer a los personajes de Heartlake City
+- Elige complementos en la tienda: Curiosea en la tienda de complementos, que tiene más pelucas y adornos, un escaparate giratorio y una caja registradora; después, visita el fotomatón
 - Peluquería de juguete: Cambia la imagen de los mini muñecos LEGO Friends en la peluquería, donde hay sillones, secadores de juguete, cepillos, pelucas y más
 - Juego de roles en una peluquería de juguete para niñas: El juguete Peluquería y Tienda de Complementos para mayores de 7 años viene con 3 mini muñecos y montones de accesorios de peluquería para interpretar creativas historias
-- Elige complementos en la tienda: Curiosea en la tienda de complementos, que tiene más pelucas y adornos, un escaparate giratorio y una caja registradora; después, visita el fotomatón
 - Un divertido regalo para niñas de 7 años o más: Este set es una óptima idea de regalo para niños y niñas que disfrutan con los juguetes de construcción, los juegos de peluquería y jugando a interpretar historias de amistad con diversos personajes
 - 3 personajes de LEGO Friends: El set incluye mini muñecas de Nova, Aliya y el estilista Faraji, que ofrecerán un montón de oportunidades a los peques para imaginar divertidas historias de amistad
-- Serie en Internet: Inspira más ideas de juego con el resto de los sets de la gama (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo (disponible en Internet), donde los peques podrán conocer a los personajes de Heartlake City
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCZT95{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ab 8 Jahren und für jung gebliebene über 18 Jahren (und AFOLs)
-- höhenverstellbares Fahrwerk, offener 6-Zylinder-Motor, funktionierender Lenkung, 4 Türen öffnen & schließen, Kofferraumdeckel/Heckklappe öffnet & schließt
 - Motorisierbar & beleuchtbar mit „Power System“ S054-003 von CaDA (NICHT enhalten!) | kompatibel mit den Bausteinen und Bauelementen von LEGO Technic
 - 2208 Teile, gedruckte Anleitung (235 Seiten), hochwertiger Karton mit Matt-Lack (über 3kg)
 - Reifenhöhe 70mm, Reifenbreite 37mm, Stickerset mit 8 Aufklebern
+- ab 8 Jahren und für jung gebliebene über 18 Jahren (und AFOLs)
+- höhenverstellbares Fahrwerk, offener 6-Zylinder-Motor, funktionierender Lenkung, 4 Türen öffnen & schließen, Kofferraumdeckel/Heckklappe öffnet & schließt
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08H8GH3TJ{{</world>}}

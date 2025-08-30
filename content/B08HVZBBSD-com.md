@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features a holiday camper van toy with furnished interior, an opening side panel and removable roof for hands-on vacation role play
-- LEGO City Great Vehicle toy cars make great birthday or Christmas gifts for boys and girls through fun scenarios that depict real life
-- Kids can drive to their favorite location, find a good spot to camp and unpack the outdoor furniture, then enjoy a delicious family picnic
 - Includes a printed building guide and Instructions PLUS – part of the free LEGO Building Instructions app for smart devices
 - Accessories include a cool baby carrier, a camping stove and pan with fried egg, a croissant, smoothie maker, bay bottle, camera and cups
+- Features a holiday camper van toy with furnished interior, an opening side panel and removable roof for hands-on vacation role play
 - This toy for kids 5+ years old includes a baby, Mum & Dad minifigures, and the LEGO caravan settings include a table, kitchenette and sleeping area
+- LEGO City Great Vehicle toy cars make great birthday or Christmas gifts for boys and girls through fun scenarios that depict real life
+- Kids can drive to their favorite location, find a good spot to camp and unpack the outdoor furniture, then enjoy a delicious family picnic
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08HVZBBSD{{</world>}}

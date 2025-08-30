@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Tolle Geschenkidee für junge Ninjas: Dieses LEGO Set bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Jungen und Mädchen ab 9 Jahren, die Actionspaß mit den Ninja-Helden lieben
-- Erlebe noch größere Abenteuer im NINJAGO Universum: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets und Modelle mit Drachen, Tempeln und Fahrzeugen an
 - Interaktiver NINJAGO Drache: Kinder können den Shooter in der Brust des Spielzeugdrachen aktivieren und mithilfe des Hebels am Rücken seine großen Folienflügel schlagen lassen
-- NINJAGO Spielzeugdrache für Kinder: Der 2-köpfige Lichtbogendrache ist ein Spielzeug, das Jungen und Mädchen ab 9 Jahren die Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen lässt
-- Äußerst bewegliche Figur für unzählige Abenteuer: Der Lichtbogendrache ist eine Actionfigur, die Schwanz, Kopf, Hals, Kiefer, Beine, Füße und Klauen bewegen kann
 - Inklusive Spinner: Zu diesem Fantasy-Spielset gehört auch ein Spinjitzu-Spinner; Kinder können eine Minifigur in den Spinner stecken und dann einen Knopf am Startkatapult drücken, um ihn loswirbeln zu lassen
+- Erlebe noch größere Abenteuer im NINJAGO Universum: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets und Modelle mit Drachen, Tempeln und Fahrzeugen an
+- NINJAGO Spielzeugdrache für Kinder: Der 2-köpfige Lichtbogendrache ist ein Spielzeug, das Jungen und Mädchen ab 9 Jahren die Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen lässt
+- Tolle Geschenkidee für junge Ninjas: Dieses LEGO Set bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Jungen und Mädchen ab 9 Jahren, die Actionspaß mit den Ninja-Helden lieben
 - 8 NINJAGO Minifiguren: Das LEGO Bauset beinhaltet die Ninjas Lloyd, Cole, Wyldfyre und Kai sowie ihren Verbündeten Pixal; Außerdem laden die Bösewichte Drix und Zarkt sowie ein Drachenkämpfer zu spannenden Duellen ein
+- Äußerst bewegliche Figur für unzählige Abenteuer: Der Lichtbogendrache ist eine Actionfigur, die Schwanz, Kopf, Hals, Kiefer, Beine, Füße und Klauen bewegen kann
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCB8TD{{</world>}}

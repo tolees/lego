@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - De LEGO Star Wars set bevat een bouwhandleiding die makkelijk te volgen is; in de LEGO Builder app vind je een digitale versie van de instructies, met zoom- en draaitools om het model te bekijken tijdens het bouwen
-- Dit leuke, bouwbare LEGO Star Wars speelgoed past makkelijk in een rugzak; het is een fantastisch cadeau-idee voor kinderen vanaf 6 jaar die fan zijn van Star Wars: The Clone Wars en Star Wars: The Bad Batch
-- Kinderen vanaf 6 jaar zullen het geweldig vinden om hun eigen 501st Clone Troopers eenheid te bouwen, inclusief 4 LEGO Star Wars minifiguren, wapens en een AV-7 anti-vehicle kanon om spannende scènes uit Star Wars: The Clone Wars opnieuw te beleven
 - Bij deze LEGO Clone Trooper set met bouwbaar speelgoed zijn 4 LEGO minifiguren van Star Wars personages inbegrepen: een 501st Officer met blasterpistool, een 501st Clone Specialist met blastergeweer en 2 501st Heavy Troopers met elk een blaster
 - Het machtige bouwbare AV-7 anti-vehicle kanon beschikt over verstelbare poten, een kanon dat omhoog kan, een schieter met veermechanisme en een zitplaats voor een LEGO Star Wars minifiguur, zodat deze het voertuig kan besturen
+- Dit leuke, bouwbare LEGO Star Wars speelgoed past makkelijk in een rugzak; het is een fantastisch cadeau-idee voor kinderen vanaf 6 jaar die fan zijn van Star Wars: The Clone Wars en Star Wars: The Bad Batch
+- Kinderen vanaf 6 jaar zullen het geweldig vinden om hun eigen 501st Clone Troopers eenheid te bouwen, inclusief 4 LEGO Star Wars minifiguren, wapens en een AV-7 anti-vehicle kanon om spannende scènes uit Star Wars: The Clone Wars opnieuw te beleven
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH3HXD1{{</world>}}

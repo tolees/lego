@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze collectible speelgoed auto modelbouwset is een prachtig verjaardagscadeau-idee voor kinderen die houden van bouwen en verzamelbare sportwagens
-- De cockpit van dit raceauto constructie speelgoed kan worden geopend voor het LEGO coureur minifiguurtje met helm, waarvan kinderen het haar kunnen verwisselen
-- Een prachtig model van een iconische Italiaanse hypercar, geweldig voor het spelen van hoge snelheidsavonturen en mooi als decoratiestuk in de kamer
 - De speelgoed modelauto heeft de authentieke kenmerken van de echte Italiaanse hypercar: de centrale uitlaat met 4 pijpen, de golvende carrosserie, de brede voorgrille, de wielbogen en de motor onder glas
 - Dit LEGO Speed Champions modelauto bouwpakket bevat een bouwbare replica van een van s werelds meest iconische hypercars: de krachtige Pagani Utopia
+- De cockpit van dit raceauto constructie speelgoed kan worden geopend voor het LEGO coureur minifiguurtje met helm, waarvan kinderen het haar kunnen verwisselen
+- Een prachtig model van een iconische Italiaanse hypercar, geweldig voor het spelen van hoge snelheidsavonturen en mooi als decoratiestuk in de kamer
+- Deze collectible speelgoed auto modelbouwset is een prachtig verjaardagscadeau-idee voor kinderen die houden van bouwen en verzamelbare sportwagens
 - Mis de andere LEGO Speed Champions automodellen niet: de Ferrari 812 Competizione (76914), Porsche 963 (76916), McLaren Solus GT & McLaren F1 LM (76918)
 
 [🛒 Buy it!!]({{< param buyurl >}})

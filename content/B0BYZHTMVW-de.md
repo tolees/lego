@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Was ist in der Box?: Dieses einfach zu bauende LEGO Blumenset enthält 2 rote Blüten, grüne Blätter und längenverstellbare Stiele und eignet sich ideal für die Präsentation in einer Vase als Wohndekoration oder Schreibtischaccessoire
 - Ein Blumen-Geschenk für Floristen: Die LEGO Botanical Collection Sets sind ein tolles Deko-Geschenk für Mädchen und Jungen ab 8 Jahren, die Blumen lieben, und auch ein tolles Muttertag- oder Valentinstag-Geschenk für Sie oder Ihn
-- Baubare Blumen-Deko zum Austellen: Feiere einen besonderen Valentinstag, indem du Rosen verschenkst, die niemals verwelken! Mit dem LEGO Rosen Set aus der Botanical Collection wird es möglich
 - Kombinierbar mit anderen LEGO Kunstblumen: Kombiniere die künstlichen Rosen mit den LEGO Tulpen (40461), um eine bunte Blumen-Dekoration zu erstellen oder füge sie für noch mehr Prunk dem LEGO Blumenstrauß (10280) hinzu
+- Baubare Blumen-Deko zum Austellen: Feiere einen besonderen Valentinstag, indem du Rosen verschenkst, die niemals verwelken! Mit dem LEGO Rosen Set aus der Botanical Collection wird es möglich
+- Was ist in der Box?: Dieses einfach zu bauende LEGO Blumenset enthält 2 rote Blüten, grüne Blätter und längenverstellbare Stiele und eignet sich ideal für die Präsentation in einer Vase als Wohndekoration oder Schreibtischaccessoire
 - Gestalten deine Inneneinrichtung: Jeder Rosenstiel der künstlichen Blumen ist über 26 cm lang – perfekt, um sie in einer Vase als Kinderzimmer- oder Schreibtisch-Deko auszustellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

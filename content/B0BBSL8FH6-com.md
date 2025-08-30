@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Friends Bedroom _x000D_
+- Leos house in Harmony Beach includes surfboard toy plus bunk beds and a balcony to go outside and play football on when the filming is finished
 - Let kids discover all the rooms of the Heartlake City; check out other collectible toy playsets like Aliyas Room (41740) or Novas Room (41755)
-- Playset includes LEGO Friends mini-dolls: baker Leo and video expert Olly to help filming, plus Churro the Cat figure
 - This mini-doll playset includes many cool accessories: a recipe book, mixing bowl, spoon, bottles, camera plus cool light for the camera
 - This collectible LEGO Friends Leos Room playset toy features a studio and video equipment, a baking area plus 2 mini-dolls and a cat figure
-- Leos house in Harmony Beach includes surfboard toy plus bunk beds and a balcony to go outside and play football on when the filming is finished
+- Playset includes LEGO Friends mini-dolls: baker Leo and video expert Olly to help filming, plus Churro the Cat figure
 - In 2023, the LEGO Friends universe expanded to present a new series of characters and fun locations inspired by childrens passions and interests
+- This LEGO Friends Bedroom _x000D_
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBSL8FH6{{</world>}}

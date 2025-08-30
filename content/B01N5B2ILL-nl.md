@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO bloemen – het boeket bevat 7 soorten lentebloemen in pastelkleuren: craspedias, boshyacinten, wijfjesvaren, geel duizendblad, een gerbera, een pioenroos en een tulp
-- Bloemendecoratie – laat de creativiteit van kinderen opbloeien met het LEGO Botanicals Klein zomers boeket, een bouwset voor meisjes en jongens vanaf 9 jaar
-- Afmetingen – de bloemenbouwset bevat 373 onderdelen en de afmetingen variëren, maar één arrangement is ca. 22 cm hoog, 8 cm breed en 5 cm diep
 - Aanpasbare stelen – met verstelbare stelen die bouwers aanmoedigen om creatief te zijn en hun boeket aan te passen
+- LEGO bloemen – het boeket bevat 7 soorten lentebloemen in pastelkleuren: craspedias, boshyacinten, wijfjesvaren, geel duizendblad, een gerbera, een pioenroos en een tulp
 - LEGO decoratie – als het lenteboeket eenmaal is gebouwd, kun je het met trots neerzetten als decoratie voor thuis of op kantoor
+- Afmetingen – de bloemenbouwset bevat 373 onderdelen en de afmetingen variëren, maar één arrangement is ca. 22 cm hoog, 8 cm breed en 5 cm diep
 - Bloemencadeau – deze bouwset is een op de natuur geïnspireerd verjaardagscadeau of verrassing voor meisjes, jongens en beginnende bloemisten van alle leeftijden
-- Samen bouwen met vrienden en familie – de LEGO Builder app biedt een leuke modus om met meerdere mensen te bouwen, zodat je het LEGO bouwplezier met anderen kunt delen
+- Bloemendecoratie – laat de creativiteit van kinderen opbloeien met het LEGO Botanicals Klein zomers boeket, een bouwset voor meisjes en jongens vanaf 9 jaar
 - Bouw meer bloemen – dit bouwbare boeket kan worden gecombineerd met andere sets (apart verkrijgbaar) uit de LEGO Botanische Collectie
+- Samen bouwen met vrienden en familie – de LEGO Builder app biedt een leuke modus om met meerdere mensen te bouwen, zodat je het LEGO bouwplezier met anderen kunt delen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N5B2ILL{{</world>}}

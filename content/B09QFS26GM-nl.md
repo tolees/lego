@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Er is een bibliotheek op de middelste verdieping, met 2 stoelen, een lamp en een verborgen portaal achter een deur - met 3-dimensionale tegels die je kunt veranderen door de hendels aan de achterkant van het gebouw te verzetten
-- Met 9 iconische LEGO Marvel minifiguren van Doctor Strange, Wong, Iron Man, Spider-Man, Ebony Maw, Master Mordo, Sinister Strange, Dead Strange en Scarlet Witch, plus wapenelementen
-- Fans kunnen klassieke scènes uit Marvel Studios Avengers: Infinity War en Doctor Strange in the Multiverse of Madness namaken en alle realistische details bij deze set bewonderen
 - Het bouwbare model van Doctor Stranges iconische onderkomen bestaat uit een modulair gebouw met 3 verdiepingen, een heleboel details uit de films en 9 LEGO minifiguren van bekende personages uit het Marvel Universum
 - Een geweldige aanpasbare LEGO collectible om jezelf of een ander cadeau te geven - met elementen om de minifiguren buiten het gebouw neer te zetten en scènes uit je favoriete Marvel films te herleven
+- Er is een bibliotheek op de middelste verdieping, met 2 stoelen, een lamp en een verborgen portaal achter een deur - met 3-dimensionale tegels die je kunt veranderen door de hendels aan de achterkant van het gebouw te verzetten
 - Op de bovenste verdieping vind je het museum voor mystieke collecties, met de Mantel van Levitatie, een kist, een speer, 2 bijlen en een schild, plus andere magische items
 - Op begane grond vind je een traditioneel trappenhuis, een medisch diploma en een groene fauteuil - daarnaast kunnen veel muren van het modelgebouw veranderd worden om een Captain America poster, Gargantos of een leeg portaal te laten zien
+- Fans kunnen klassieke scènes uit Marvel Studios Avengers: Infinity War en Doctor Strange in the Multiverse of Madness namaken en alle realistische details bij deze set bewonderen
+- Met 9 iconische LEGO Marvel minifiguren van Doctor Strange, Wong, Iron Man, Spider-Man, Ebony Maw, Master Mordo, Sinister Strange, Dead Strange en Scarlet Witch, plus wapenelementen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFS26GM{{</world>}}

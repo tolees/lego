@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Faszinierende Raumfahrt Modelle, die leuchten können: Alle 3 LEGO Weltraummodelle leuchten, wenn Kinder auf den speziellen Leuchtstein drücken (Batterien liegen bei)
-- Entdecke noch mehr 3-in-1 Spaß mit anderen Bauspielzeugen: Kombiniere die Modelle für noch mehr Abenteuer mit anderen separat erhältlichen LEGO Creator 3-in-1 Sets und erfinde unzählige Geschichten zu vielen Themen
-- Roboter zum Verschenken: Dieses 3-in-1 Spielzeug bietet kleinen Weltraumfans ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Geburtstags- oder Weihnachtsgeschenk
-- Bewegliche Spielzeugfiguren: Der Spielzeugroboter hat bewegliche Arme und Finger; Sein Kopf und sein Körper können sich drehen; Der Weltraumhund kann seinen Kopf drehen und seine 4 Beine bewegen
 - 3 Weltraum Modelle in 1 Box: LEGO Creator Weltraum-Roboter ist ein 3-in-1 Spielset, das Jungen und Mädchen ab 8 Jahren 3 verschiedene Spielzeuge aus denselben LEGO Steinen bauen und immer wieder umbauen lässt
 - Mehrere Spielmöglichkeiten: Kinder können mit 3 verschiedenen Figuren – einem Weltraum-Roboter, einem Weltraumhund und einer Weltraumrakete – zu intergalaktischen Abenteuern aufbrechen; Die Modelle können jedoch nicht gleichzeitig gebaut werden
+- Entdecke noch mehr 3-in-1 Spaß mit anderen Bauspielzeugen: Kombiniere die Modelle für noch mehr Abenteuer mit anderen separat erhältlichen LEGO Creator 3-in-1 Sets und erfinde unzählige Geschichten zu vielen Themen
+- Bewegliche Spielzeugfiguren: Der Spielzeugroboter hat bewegliche Arme und Finger; Sein Kopf und sein Körper können sich drehen; Der Weltraumhund kann seinen Kopf drehen und seine 4 Beine bewegen
+- Roboter zum Verschenken: Dieses 3-in-1 Spielzeug bietet kleinen Weltraumfans ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Geburtstags- oder Weihnachtsgeschenk
 - LEGO Creator Lernspielzeuge: Jedes 3-in-1 Spielset lässt Kinder 3 verschiedene Modelle oder Figuren aus ihren wichtigsten Interessenbereichen bauen, die unter anderem Tiere, Fahrzeuge und Häuser beinhalten
 
 [🛒 Buy it!!]({{< param buyurl >}})

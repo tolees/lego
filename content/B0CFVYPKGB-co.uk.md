@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Endless play possibilities – Kids build 3 vehicle sets: a truck toy and helicopter toy, a toy plane and lorry toy, or a hot rod and SUV toy cars
-- Gifts for car lovers – This fun 3in1 toy can be given as an everyday reward to fans of transporter truck toys, LEGO planes and other LEGO vehicles
 - More 3in1 fun – Expand the 3in1 fun with other sets (sold separately) from the LEGO Creator building sets for kids range
-- Moving LEGO vehicles with fun features – The toy cars have wheels, the LEGO plane has propellers and the LEGO helicopter toy has rotor blades
-- LEGO vehicles 3in1 set – Kids aged 7+ can build and rebuild 3 set using the same bricks with this LEGO Creator Flatbed Truck with Helicopter toy
 - Display models – All 3 LEGO vehicle sets can stand alone and be displayed by kids in their bedrooms after playtime
+- Moving LEGO vehicles with fun features – The toy cars have wheels, the LEGO plane has propellers and the LEGO helicopter toy has rotor blades
+- Gifts for car lovers – This fun 3in1 toy can be given as an everyday reward to fans of transporter truck toys, LEGO planes and other LEGO vehicles
+- LEGO vehicles 3in1 set – Kids aged 7+ can build and rebuild 3 set using the same bricks with this LEGO Creator Flatbed Truck with Helicopter toy
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPKGB{{</world>}}

@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Modell für Rollenspiele im Minecraft Nether: Das Gaming-Spielzeug stellt einen Teil des Nethers sowie legendäre Kreaturen dar, mit denen es der Orc-Krieger aufnehmen muss
-- LEGO Minecraft Nether Portal: Dieses Minecraft-Spielzeug für Gamer und Kinder ab 8 Jahren lässt Jungs und Mädchen Actionszenen nachbauen und mit den legendären Minecraft-Figuren coole Kämpfe nachstellen
+- Minecraft Spaß in der echten Welt: LEGO Minecraft Sets lassen Kinder das beliebte Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
 - Geschenkidee für Kinder ab 8 Jahren: Dieses Spielset mit dem Netherportal ist ein tolles Minecraft-Geschenk zu einem Kindergeburtstag oder Weihnachten und für alle, die das Videospiel und LEGO Bauspielzeuge lieben
 - Minecraft-Kampfszene mit Minifiguren: Beinhaltet einen Orc-Krieger, eine Minecraft-Fireball-Ghast-Figur, der Scheiben aus seinem Maul katapultiert, einen Minecraft-Hoglin, der anderen Kopfstöße verpasst, sowie 2 Magmawürfel
-- Minecraft Spaß in der echten Welt: LEGO Minecraft Sets lassen Kinder das beliebte Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
+- LEGO Minecraft Nether Portal: Dieses Minecraft-Spielzeug für Gamer und Kinder ab 8 Jahren lässt Jungs und Mädchen Actionszenen nachbauen und mit den legendären Minecraft-Figuren coole Kämpfe nachstellen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVY61CL{{</world>}}

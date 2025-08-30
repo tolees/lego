@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief een Indiana Jones minifiguur met zijn iconische zweep, zijn vader Professor Henry Jones Sr, die een dagboek vasthoudt, plus een gevechtspiloot om mee te vliegen in het speelgoed vliegtuig
-- Kijk voor meer avonturen uit naar de Ontsnapping uit de Verborgen Tombe (77013) en Tempel van het Gouden Beeld (77015) LEGO Indiana Jones bouwsets
 - Met dit LEGO Indiana Jones bouwbare actie speelgoed kunnen kinderen samen met hun ouders of vrienden bouwen en spelen. Het is een geweldig verjaardagscadeau voor kinderen vanaf 8 jaar
 - Kinderen kunnen een beroemde achtervolgingsscène uit de Indiana Jones and The Last Crusade film naspelen of hun eigen spannende verhalen creëren
+- Inclusief een Indiana Jones minifiguur met zijn iconische zweep, zijn vader Professor Henry Jones Sr, die een dagboek vasthoudt, plus een gevechtspiloot om mee te vliegen in het speelgoed vliegtuig
+- Kijk voor meer avonturen uit naar de Ontsnapping uit de Verborgen Tombe (77013) en Tempel van het Gouden Beeld (77015) LEGO Indiana Jones bouwsets
 - Het LEGO vliegtuig heeft een propeller, 2 noppenschieters en afneembare vleugels, en de cabriolet heeft achterin een kist met een paraplu en een pistool
 - LEGO Indiana Jones Gevechtsvliegtuih achtervolging set bestaat uit een speelgoed vliegtuig model, een bouwbare vintage speelgoed auto en 3 minifiguren zodat kinderen de epische filmactie kunnen herbeleven
 

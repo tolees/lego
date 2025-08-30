@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Star Wars: Ahsoka fans kunnen hun eigen avontuurlijke verhalen creëren met de LEGO Star Wars Ahsoka Tanos T-6 Jedi Shuttle set, inclusief 4 LEGO Star Wars minifiguren, een bouwbaar speelgoed sterrenschip, lichtzwaarden en blasters
-- Geef deze 599-delige bouwbare Star Wars speelgoed set als kerstcadeau, verjaardagscadeau of speciale traktatie aan Star Wars: Ahsoka fans
+- Dit bouwbare ruimteschip model heeft een te openen LEGO minifiguur cockpit, landingsgestel dat makkelijk kan worden ingetrokken voor de vliegmodus, 2 noppenschieters en 2 opbergvakken voor gereedschap en wapens
 - Ontdek de volledige LEGO Star Wars collectie; waar kinderen en volwassenen fans klassieke scènes kunnen naspelen, hun eigen actieverhalen kunnen verzinnen en de bouwbare modellen met trots kunnen tentoonstellen
 - Kinderen kunnen het landingsgestel intrekken om de vleugels aan te passen voor de vliegmodus, vijandelijke starfighters aanvallen met de noppenschieters, de shuttle laten landen, Ahsokas lichtzwaarden pakken en samenwerken met Sabine Wren om tegen Marrok te strijden
+- Geef deze 599-delige bouwbare Star Wars speelgoed set als kerstcadeau, verjaardagscadeau of speciale traktatie aan Star Wars: Ahsoka fans
+- Star Wars: Ahsoka fans kunnen hun eigen avontuurlijke verhalen creëren met de LEGO Star Wars Ahsoka Tanos T-6 Jedi Shuttle set, inclusief 4 LEGO Star Wars minifiguren, een bouwbaar speelgoed sterrenschip, lichtzwaarden en blasters
 - Inclusief 4 LEGO Star Wars personages: Ahsoka Tano met 2 lichtzwaarden, Sabine Wren met 2 blasters, Professor Huyang met een sleutelaccessoire en Marrok met een dubbelblads lichtzwaard
-- Dit bouwbare ruimteschip model heeft een te openen LEGO minifiguur cockpit, landingsgestel dat makkelijk kan worden ingetrokken voor de vliegmodus, 2 noppenschieters en 2 opbergvakken voor gereedschap en wapens
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV7HND4Q{{</world>}}

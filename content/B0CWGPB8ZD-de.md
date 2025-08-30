@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Intuitive Anleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives Bauabenteuer mit. Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
 - Fantasievolles Spielerlebnis: Baue die Große Halle, den Hof und den Keller mit Geheimeingang in der Felswand sowie mit 3 Räumen (Toilette, Korridor und Gemeinschaftsraum von Hufflepuff), die man zum Spielen rausschieben kann
+- Intuitive Anleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives Bauabenteuer mit. Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
+- LEGO Harry Potter Schloss Hogwarts Spielset zum Sammeln: Dieses bisher größte und detailreichste LEGO Modell der Großen Halle ist ein magisches Geschenk für junge Zauberer, Hexen und Muggel
 - Harry Potter Geschenkidee für Kinder: Dieses magische Schloss-Spielzeug ist ein cooles Geschenk für Jungen, Mädchen und alle Fans der Harry Potter Geschichten ab 10 Jahren
 - LEGO Harry Potter Kollektion: Die Große Halle gehört zu einer Serie von (separat erhältlichen) modularen Sets, die man miteinander verbinden kann, um das bisher detailreichste Modell von Schloss Hogwarts aus LEGO Steinen zu erschaffen
-- LEGO Harry Potter Schloss Hogwarts Spielset zum Sammeln: Dieses bisher größte und detailreichste LEGO Modell der Großen Halle ist ein magisches Geschenk für junge Zauberer, Hexen und Muggel
-- Schloss-Spielzeug mit 11 Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Albus Dumbledore, Professor Quirrell, Leanne, Daphne Greengrass, Terry Boot, Professor Vektor, der Fette Mönch und ein Bergtroll
 - 5 von 14 Hogwarts Porträts zum Sammeln: Dieses Harry Potter Bauspielzeug beinhaltet 5 von 14 Hogwarts Porträts, die man im Korridor des Kellers und im Gemeinschaftsraum von Hufflepuff aufhängen kann
+- Schloss-Spielzeug mit 11 Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Albus Dumbledore, Professor Quirrell, Leanne, Daphne Greengrass, Terry Boot, Professor Vektor, der Fette Mönch und ein Bergtroll
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWGPB8ZD{{</world>}}

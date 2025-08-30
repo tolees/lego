@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Einst in einer weit, weit entfernten Galaxis, heute in deinem Wohnzimmer: LEGO Star Wars Bausets für Erwachsene sind für Fans ab 18 Jahren gedacht, die gern bei ebenso kreativen wie faszinierenden Aktivitäten entspannen
 - Geschenk für kreative Erwachsene: Belohne dich selbst oder einen anderen erwachsenen Star Wars Fan mit diesem Helm; Das Set eignet sich sowohl für erfahrene LEGO Baumeister als auch für Fans, die bisher noch kein LEGO Modell gebaut haben
 - Erschaffe ein Star Wars Sammlerstück: Bilde die besonderen Details von Jango Fetts Helm einschließlich der verstellbaren Antenne des Entfernungsmessers nach und stelle das Modell dann auf dem baubaren Ständer mit Namensschild aus
-- Baue deine eigene Star Wars Kollektion: Dieses LEGO Star Wars Set zum Sammeln, Bauen und Ausstellen gehört zu einer ganzen Serie von separat erhältlichen LEGO Star Wars Helmen
-- LEGO Star Wars Bauset mit baubarem Helm für Erwachsene: Würdige den berühmten mandalorianischen Kopfgeldjäger mit diesem detailgetreuen Jango Fett Helm
-- Bauset für Erwachsene mit 3D-Bauanleitung: Die LEGO Builder App lässt dich beim Bauen digitale 3D-Ansichten dieses baubaren Modells betrachten, deinen Baufortschritt verfolgen oder Sets speichern
 - Ein spannendes Fantasy-Abenteuer mit LEGO Steinen: Dieses Set bietet Fans ein ebenso lohnendes wie anspruchsvolles Bauerlebnis und weckt Erinnerungen an spannende Szenen aus Star Wars: Angriff der Klonkrieger
+- LEGO Star Wars Bauset mit baubarem Helm für Erwachsene: Würdige den berühmten mandalorianischen Kopfgeldjäger mit diesem detailgetreuen Jango Fett Helm
+- Einst in einer weit, weit entfernten Galaxis, heute in deinem Wohnzimmer: LEGO Star Wars Bausets für Erwachsene sind für Fans ab 18 Jahren gedacht, die gern bei ebenso kreativen wie faszinierenden Aktivitäten entspannen
+- Bauset für Erwachsene mit 3D-Bauanleitung: Die LEGO Builder App lässt dich beim Bauen digitale 3D-Ansichten dieses baubaren Modells betrachten, deinen Baufortschritt verfolgen oder Sets speichern
+- Baue deine eigene Star Wars Kollektion: Dieses LEGO Star Wars Set zum Sammeln, Bauen und Ausstellen gehört zu einer ganzen Serie von separat erhältlichen LEGO Star Wars Helmen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBVRFM{{</world>}}

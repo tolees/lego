@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Grow creativity – Encourage kids to get creative over the festive season with this LEGO Christmas Tree toy for 9-plus-year-old boys and girls
+- Build together – The building toy for kids provides a festive project to enjoy with friends, or as a fun family activity over the Christmas season
+- LEGO festive decor – Once built, the model becomes a piece of Christmas home decor to display proudly in any room or use as a table centrepiece
 - Christmas gift for kids – This building toy set is great for imaginative play and makes a fun Christmas gift for 9-plus-year-old girls, boys, teenagers, and also adult fans of LEGO
 - LEGO Christmas 2-in-1 set – With 2 building options, kids can choose to create a larger Christmas tree display model or 2 mini Christmas tree models
-- LEGO festive decor – Once built, the model becomes a piece of Christmas home decor to display proudly in any room or use as a table centrepiece
+- Grow creativity – Encourage kids to get creative over the festive season with this LEGO Christmas Tree toy for 9-plus-year-old boys and girls
 - Christmas decorations – Each Christmas tree model is adorned with festive decorations including ornaments, candles, and a yellow star on top
-- Build together – The building toy for kids provides a festive project to enjoy with friends, or as a fun family activity over the Christmas season
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BCP2HHBC{{</world>}}

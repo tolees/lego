@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Modellbausatz für Erwachsene zum Film Dune: LEGO Icons Dune Atreides Royal Ornithopter ist ein immersives Bauprojekt für Fans des Films Dune aus dem Jahr 2021 und ein tolles Modellflugzeug zum Sammeln
 - Inhalt der Box: Alles, was du brauchst, um eine LEGO Flugzeug-Nachbildung des Dune Atreides Royal Ornithopter mit ausklappbaren „schlagenden“ Flügeln und ausfahrbarem Fahrwerk zu bauen, plus 8 Dune-Figuren aus dem Film
 - Achtsame LEGO Projekte für Erwachsene: Dieses LEGO Icons Projekt gehört zu einer ganzen Reihe von anspruchsvolleren Bausets für Erwachsene, die Männern und Frauen kreatives Bauen auf eine entspannte Weise ermöglichen
-- Modellbausatz für Erwachsene zum Film Dune: LEGO Icons Dune Atreides Royal Ornithopter ist ein immersives Bauprojekt für Fans des Films Dune aus dem Jahr 2021 und ein tolles Modellflugzeug zum Sammeln
-- Geschenk für Filmfans: LEGO Icons Dune Atreides Royal Ornithopter wird Sci-Fi- und Fantasy-Fans gefallen und ist deswegen das ideale Geschenk für Männer, Frauen und alle erwachsenen Filmliebhaber, die die Buch- und Filmreihe lieben
 - Dune-Charaktere als Minifiguren: Paul Atreides, Lady Jessica, Gurney Halleck, Chani, Leto Atreides, Liet Kynes, Duncan Idaho und Baron Harkonnen in seinem langen Mantel
+- Geschenk für Filmfans: LEGO Icons Dune Atreides Royal Ornithopter wird Sci-Fi- und Fantasy-Fans gefallen und ist deswegen das ideale Geschenk für Männer, Frauen und alle erwachsenen Filmliebhaber, die die Buch- und Filmreihe lieben
 - Film-Sammlerstück für Fans: Man kann diese LEGO Nachbildung im Flug- oder Landemodus ausstellen und die 8 Minifiguren nach eigenem Wunsch positionieren, um die legendären Filmszenen nachzustellen
 
 [🛒 Buy it!!]({{< param buyurl >}})

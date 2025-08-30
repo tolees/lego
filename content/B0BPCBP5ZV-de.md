@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses Set aus Ninja-Actionfigur und Motorrad ist ein lustiges, actiongeladenes Geschenk für Kinder ab 8 Jahren und Fans der Fernsehserie NINJAGO Dragons Rising
-- Halte Ausschau nach Wyldfyres Lavadrache (71793), Lloyds und Arins Training-Mechs (71794) und anderen Sets aus dem LEGO NINJAGO Bauspielzeug-Sortiment
-- Mit 3 LEGO NINJAGO Minifiguren inklusive Waffen: Arin mit einem Katana und einem Enterhaken, Sora mit 2 Katanas und Rapton mit einem Schwert des Imperiums
-- Außerdem gibt es einen Gleiter mit 2 Shootern, auf dem Rapton "fliegen" kann, und ein Modell von Baby Riyu, mit dem die Kinder spannende Geschichten nachspielen können
 - Das LEGO NINJAGO Set enthält eine bewegliche Ninja-Mech-Actionfigur, die sich in ein Motorrad verwandeln lässt, mit dem Kinder die Rennaction aus der NINJAGO Dragons Rising TV-Serie nachspielen können
+- Halte Ausschau nach Wyldfyres Lavadrache (71793), Lloyds und Arins Training-Mechs (71794) und anderen Sets aus dem LEGO NINJAGO Bauspielzeug-Sortiment
+- Außerdem gibt es einen Gleiter mit 2 Shootern, auf dem Rapton "fliegen" kann, und ein Modell von Baby Riyu, mit dem die Kinder spannende Geschichten nachspielen können
+- Dieses Set aus Ninja-Actionfigur und Motorrad ist ein lustiges, actiongeladenes Geschenk für Kinder ab 8 Jahren und Fans der Fernsehserie NINJAGO Dragons Rising
+- Mit 3 LEGO NINJAGO Minifiguren inklusive Waffen: Arin mit einem Katana und einem Enterhaken, Sora mit 2 Katanas und Rapton mit einem Schwert des Imperiums
 - Kinder können den beeindruckenden, beweglichen Mech schnell und einfach in ein superschnelles Motorrad-Spielzeug verwandeln, das mit goldenen Klingen und 2 Bolzenschützen bewaffnet ist
 
 [🛒 Buy it now!!]({{< param buyurl >}})

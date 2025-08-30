@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Delay the classic Sonic the Hedgehog video game and capture the LEGO style magic with this brick-built version of the famous game level
-- Earn an emerald for every construction you complete, collect all 7 Chaos Emeralds to display on stand with Sonic and finally defeat Dr. Eggman. An authentic replica of the classic level of play and a nostalgic LEGO set of the 90s that can be proudly displayed at home or in the office. The model can be rearranged to create alternative levels and makes a great Sonic the Hedgehog gift for all fans
-- Authentic details include a palm tree, bridge loop, rings and 2 buildable bonus item TV screens with 5 screen elements and 5 sticker options
-- . Lever and start the LEGO Sonic minifigure for Super Sonic jumps to dodge the bug and crab meat LEGO Sonic figures and collect the rings
 - Includes a Sonic the Hedgehog LEGO minifigure, Dr. Eggman with buildable Eggmobile, Moto Bug with 2 face options and crab meat figures.
+- . Lever and start the LEGO Sonic minifigure for Super Sonic jumps to dodge the bug and crab meat LEGO Sonic figures and collect the rings
+- Delay the classic Sonic the Hedgehog video game and capture the LEGO style magic with this brick-built version of the famous game level
+- Authentic details include a palm tree, bridge loop, rings and 2 buildable bonus item TV screens with 5 screen elements and 5 sticker options
+- Earn an emerald for every construction you complete, collect all 7 Chaos Emeralds to display on stand with Sonic and finally defeat Dr. Eggman. An authentic replica of the classic level of play and a nostalgic LEGO set of the 90s that can be proudly displayed at home or in the office. The model can be rearranged to create alternative levels and makes a great Sonic the Hedgehog gift for all fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09JKZVBQ9{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3 LEGO Harry Potter Mandragora speelgoed planten – de Mandragora en de potten zijn speciaal ontworpen voor deze set en de minifiguren kunnen de Mandragoras bij de bladeren vasthouden
-- Zweinstein speelgoed voor kinderen – de bouwbare kas kan worden geopend om er gemakkelijk mee te kunnen spelen en heeft 2 uitneembare tafels vol magische planten, een boom die door een gebroken raam steekt en accessoires voor tuinieren
-- Harry Potter cadeau voor meisjes, jongens en fans vanaf 8 jaar – deze LEGO Harry Potter klaslokaalset is een leuk verjaardagscadeau of verrassing voor kinderen die dol zijn op rollenspellen en de tovenaarswereld
-- Intuïtieve instructies – de LEGO Builder app geeft kinderen interactieve functies waarmee ze kunnen inzoomen en modellen in 3D kunnen draaien, hun LEGO Harry Potter sets kunnen opslaan en hun voortgang kunnen bijhouden
-- LEGO Harry Potter klaslokaal bouwpakket voor kinderen – laat jonge tovenaars, heksen en dreuzels doen alsof ze de leerlingen zijn die magische LEGO planten verzorgen tijdens een kruidenkundeles op Kasteel Zweinstein
-- 3 LEGO Harry Potter minifiguren – inclusief minifiguren van Harry Potter personages Marcel Lubbermans, Hermelien Griffel en professor Stronk met 2 sets oorbeschermers plus een speelgoed dieren figuur van Willibrord de pad
 - LEGO Harry Potter verzamelset – deze fantasierijke avonturenset maakt deel uit van een serie modulaire sets (apart verkrijgbaar) die met elkaar kunnen worden verbonden om de meest gedetailleerde Kasteel Zweinstein scène van stenen ooit te bouwen
+- Zweinstein speelgoed voor kinderen – de bouwbare kas kan worden geopend om er gemakkelijk mee te kunnen spelen en heeft 2 uitneembare tafels vol magische planten, een boom die door een gebroken raam steekt en accessoires voor tuinieren
+- Intuïtieve instructies – de LEGO Builder app geeft kinderen interactieve functies waarmee ze kunnen inzoomen en modellen in 3D kunnen draaien, hun LEGO Harry Potter sets kunnen opslaan en hun voortgang kunnen bijhouden
+- 3 LEGO Harry Potter Mandragora speelgoed planten – de Mandragora en de potten zijn speciaal ontworpen voor deze set en de minifiguren kunnen de Mandragoras bij de bladeren vasthouden
+- LEGO Harry Potter klaslokaal bouwpakket voor kinderen – laat jonge tovenaars, heksen en dreuzels doen alsof ze de leerlingen zijn die magische LEGO planten verzorgen tijdens een kruidenkundeles op Kasteel Zweinstein
+- Harry Potter cadeau voor meisjes, jongens en fans vanaf 8 jaar – deze LEGO Harry Potter klaslokaalset is een leuk verjaardagscadeau of verrassing voor kinderen die dol zijn op rollenspellen en de tovenaarswereld
+- 3 LEGO Harry Potter minifiguren – inclusief minifiguren van Harry Potter personages Marcel Lubbermans, Hermelien Griffel en professor Stronk met 2 sets oorbeschermers plus een speelgoed dieren figuur van Willibrord de pad
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDW7RK6{{</world>}}

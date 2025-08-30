@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- For imaginative play – The space rover model features a detailed 2-man cockpit and has 6 wheels with large tyres and advanced suspension
-- Interactive guide – With the LEGO Builder app where kids can zoom in and rotate their building toys in 3D, track progress and save virtual playsets
-- What’s in the box? – This outer space toy features a space rover, geyser setting, 2 space crew minifigures and toy robot and alien figures
-- Discover more space-themed LEGO playsets – Kids unleash more fun and adventures when they add this set to others (sold separately) in the LEGO City space range
 - Gift for space fans – This set makes a fun a space-themed gift for 6+ year old boys, girls and kids who love LEGO space sets and LEGO astronauts
+- Discover more space-themed LEGO playsets – Kids unleash more fun and adventures when they add this set to others (sold separately) in the LEGO City space range
+- Interactive guide – With the LEGO Builder app where kids can zoom in and rotate their building toys in 3D, track progress and save virtual playsets
+- For imaginative play – The space rover model features a detailed 2-man cockpit and has 6 wheels with large tyres and advanced suspension
 - Toy space rover – Ignite kids’ imaginations with this LEGO City Space Explorer Rover and Alien Life building toy for 6+ year old boys and girls
+- What’s in the box? – This outer space toy features a space rover, geyser setting, 2 space crew minifigures and toy robot and alien figures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1WFVL{{</world>}}

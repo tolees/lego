@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Measurements – 364-piece set with camping trailer toy vehicle measuring over 3.5 in. (9 cm) high, 4.5 in. (11 cm) long and 2.5 in. (6 cm) wide
 - Creative building toys – Check out other LEGO Friends sets (sold separately), for girls, boys and kids, where young builders discover diverse characters as they act out real-life adventures
-- Camping accessories for role play adventures – Playset comes with a toy telescope, mugs, cookies, binoculars, a flashlight, extra stars and prints of different planets for customization
-- Create constellations – Kids who love science exploration toys can enjoy making their own constellations for the characters to spot using the planets and stars to decorate the backdrop
-- Stargazing Camping Vehicle playset – Includes a buildable 4x4 vehicle with trailer and tent, telescope toy, 2 mini-dolls, a dog figure, a hedgehog and lots of accessories for girls, boys and kids ages 7 and up
 - 2 mini-dolls and 2 animal figures – This science toy building set includes LEGO Friends characters Nova and Aliya plus a dog figure and a hedgehog figure so the creative play can start right away
+- Camping accessories for role play adventures – Playset comes with a toy telescope, mugs, cookies, binoculars, a flashlight, extra stars and prints of different planets for customization
+- Stargazing Camping Vehicle playset – Includes a buildable 4x4 vehicle with trailer and tent, telescope toy, 2 mini-dolls, a dog figure, a hedgehog and lots of accessories for girls, boys and kids ages 7 and up
+- Create constellations – Kids who love science exploration toys can enjoy making their own constellations for the characters to spot using the planets and stars to decorate the backdrop
 - A gift idea for kids – This adventure toy set makes a fun birthday or holiday gift, or an anytime treat for girls, boys, kids and space lovers
+- Measurements – 364-piece set with camping trailer toy vehicle measuring over 3.5 in. (9 cm) high, 4.5 in. (11 cm) long and 2.5 in. (6 cm) wide
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CGY3FLSX{{</world>}}

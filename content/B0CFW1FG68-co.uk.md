@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 stud shooters –The mech warrior War Machine figure features 1 shooter on its shoulder, 2 on its arms and an ammunition box on its back
-- Expand the fun – This buildable mech with stud shooters is compatible with the many other LEGO Marvel sets, sold separately
-- Buildable Marvel action figure for kids – Treat Super Hero boys and girls aged 6+ to hands-on action with LEGO Marvel War Machine Mech Armour
-- Play and display – When the day’s action is over, this legendary Marvel super hero building toy can be put on display in kids’ rooms
 - Gift for kids – Treat boys and girls who are fans of the MCU and Marvel buildable toys to this fully jointed mech, which makes a fun Marvel-themed gift for kids, boys and girls aged 6+ years old
 - Posable mech – With jointed limbs and hands and LEGO War Machine minifigure at the controls, this Marvel building toy is designed for dynamic action
+- Play and display – When the day’s action is over, this legendary Marvel super hero building toy can be put on display in kids’ rooms
+- Buildable Marvel action figure for kids – Treat Super Hero boys and girls aged 6+ to hands-on action with LEGO Marvel War Machine Mech Armour
+- Expand the fun – This buildable mech with stud shooters is compatible with the many other LEGO Marvel sets, sold separately
+- 3 stud shooters –The mech warrior War Machine figure features 1 shooter on its shoulder, 2 on its arms and an ammunition box on its back
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW1FG68{{</world>}}

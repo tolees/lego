@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The toy motorbike is a great size for kids aged 8+ to play at home or take it with them wherever they go to play high speed stories with friends
 - This LEGO Creator 3in1 vehicle construction toy set lets kids enjoy hours of imaginative play as they build 3 different supercool models
-- When the time comes for high-speed racing, the vintage motorbike can be transformed into a road bike with a kickstand or a dragster car toy
-- The toy motorbike has handlebars with a movable front wheel, headlights, a large muffler and a stand to create a cool display in kids rooms
-- Kids can stage 3 different stories: countryside drive on a motorcycle; city exploration on a street bike; or track racing with a dragster car toy
-- Play out even more fun with the other LEGO Creator 3in1 vehicle sets, including the Space Shuttle (31134) and Beach Camper Van (31138)
 - This LEGO Creator 3in1 building toy set features 3 vehicles to build: a vintage toy motorbike, a street bike and a top fuel dragster car toy
+- Kids can stage 3 different stories: countryside drive on a motorcycle; city exploration on a street bike; or track racing with a dragster car toy
+- The toy motorbike has handlebars with a movable front wheel, headlights, a large muffler and a stand to create a cool display in kids rooms
+- Play out even more fun with the other LEGO Creator 3in1 vehicle sets, including the Space Shuttle (31134) and Beach Camper Van (31138)
+- When the time comes for high-speed racing, the vintage motorbike can be transformed into a road bike with a kickstand or a dragster car toy
+- The toy motorbike is a great size for kids aged 8+ to play at home or take it with them wherever they go to play high speed stories with friends
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSCDGW6{{</world>}}

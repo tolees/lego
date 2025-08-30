@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses baubare LEGO Star Wars Set für Jungen, Mädchen und alle jungen Jedis ab 4 Jahren enthält einen schnell zu bauenden Tenno Jedi-Tempel und alles, was Kinder brauchen, um Jedi-Lehrlinge in Ausbildung zu werden
-- Enthält 3 LEGO Star Wars Minifiguren: Lys Solay und Kai Brightstar mit mittellangen Beinen, sowie Meister Yoda mit kürzeren Beinen; jede Figur hat ein Lichtschwert für das Jedi-Training
-- Das LEGO Star Wars Bauspielzeug für Kinder ab 4 Jahren bietet eine spielerische Einführung in das Star Wars Universum und hilft ihnen, kreativ zu bauen und ihre Fantasie zu entwickeln
-- Außerdem gibt es ein baubares Speeder-Bike mit Platz für 3 Star Wars Minifiguren, einen Trainingsdroiden und einen Balance-Test, um die Fantasie der Kinder anzuregen
-- Der Tenoo Jedi-Tempel verfügt über eine "schwebende" Felsenfunktion, eine Küche mit einer blauen Milchtüte, Etagenbetten mit einer klappbaren Leiter, 2 Clips für Lichtschwerter und ein Kristallelement
 - Dieses LEGO Starterset ist ein lustiges Geburtstagsgeschenk für Kinder oder ein Überraschungsgeschenk für Star Wars: Young Jedi Adventures Fans, Jungen und Mädchen ab 4 Jahren
+- Außerdem gibt es ein baubares Speeder-Bike mit Platz für 3 Star Wars Minifiguren, einen Trainingsdroiden und einen Balance-Test, um die Fantasie der Kinder anzuregen
 - Bei diesem Konstruktionsspielzeug findest du eine bebilderte Schritt-für-Schritt-Anleitung und in der LEGO Builder App eine digitale Anleitung sowie Werkzeuge zum Zoomen und Drehen der Ansicht
+- Der Tenoo Jedi-Tempel verfügt über eine "schwebende" Felsenfunktion, eine Küche mit einer blauen Milchtüte, Etagenbetten mit einer klappbaren Leiter, 2 Clips für Lichtschwerter und ein Kristallelement
+- Dieses baubare LEGO Star Wars Set für Jungen, Mädchen und alle jungen Jedis ab 4 Jahren enthält einen schnell zu bauenden Tenno Jedi-Tempel und alles, was Kinder brauchen, um Jedi-Lehrlinge in Ausbildung zu werden
+- Das LEGO Star Wars Bauspielzeug für Kinder ab 4 Jahren bietet eine spielerische Einführung in das Star Wars Universum und hilft ihnen, kreativ zu bauen und ihre Fantasie zu entwickeln
+- Enthält 3 LEGO Star Wars Minifiguren: Lys Solay und Kai Brightstar mit mittellangen Beinen, sowie Meister Yoda mit kürzeren Beinen; jede Figur hat ein Lichtschwert für das Jedi-Training
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCDVL8R{{</world>}}
