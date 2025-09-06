@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ninja-Spielzeug mit vielen Funktionen: Das große LEGO Set beinhaltet einen Steindrachen, einen Wasserfall, einen blühenden Kirschbaum, eine Bibliothek mit Schriftrollen, Bücher, ein Teeservice und eine Geheimkammer
-- Interaktiver NINJAGO Drache: Das Helden-Spielzeug beinhaltet einen Trainingsbereich, den man von einer Seite zur anderen schieben kann, wenn sich die Minifiguren Duelle liefern; eine Geheimkammer kommt zum Vorschein, wenn man die Bücher verschiebt
-- Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche NINJAGO Sets mit Drachen, Mechs und Dojos an
-- 6 NINJAGO Minifiguren: Zu dem baubaren Modell gehören auch Meister Lloyd, NINJAGO Meister Wu, Lord Ras, Nya, Kai und Euphrasia, damit dein Kind die Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen kann
 - Geschenk für Ninja-Kinder: Dieses Actionset bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Geburtstagsgeschenk für Kinder, Jungs und Mädchen ab 13 Jahren, die coole Spielzeuge lieben
+- Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche NINJAGO Sets mit Drachen, Mechs und Dojos an
+- Ninja-Spielzeug mit vielen Funktionen: Das große LEGO Set beinhaltet einen Steindrachen, einen Wasserfall, einen blühenden Kirschbaum, eine Bibliothek mit Schriftrollen, Bücher, ein Teeservice und eine Geheimkammer
+- 6 NINJAGO Minifiguren: Zu dem baubaren Modell gehören auch Meister Lloyd, NINJAGO Meister Wu, Lord Ras, Nya, Kai und Euphrasia, damit dein Kind die Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen kann
 - NINJAGO Spielzeug mit Drachentempel für Kinder: Der große Drachenstein-Tempel zum Bauen, Spielen und Ausstellen hat viele bewegliche Funktionen. Und auch die zahlreichen NINJAGO Figuren laden Jungs und Mädchen ab 13 Jahren zum Spielen ein
+- Interaktiver NINJAGO Drache: Das Helden-Spielzeug beinhaltet einen Trainingsbereich, den man von einer Seite zur anderen schieben kann, wenn sich die Minifiguren Duelle liefern; eine Geheimkammer kommt zum Vorschein, wenn man die Bücher verschiebt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW2VB4G{{</world>}}

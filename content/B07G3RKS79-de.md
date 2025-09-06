@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Confidential
-- Geheim
 - Confidential
+- Geheim
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07G3RKS79{{</world>}}

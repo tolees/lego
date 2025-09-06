@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Sieh dir die coole blau-weiße Farbgebung des Hais an! Dieses LEGO Meerestiere-Set ist das perfekte Geschenk für Jungen und Mädchen, die Figuren lieben
-- Mit diesem LEGO Creator 3-in-1-Set für Kinder ab 7 Jahre lassen sich 3 Meerestiere Figuren bauen!
-- Das Set bietet sogar noch eine zusätzliche Baumöglichkeit und eine Bauanleitung für einen Wal – erhältlich auf LEGO.com
 - Baue den Spielzeug Hai mit der Krabbe und der Schatztruhe und verwandle ihn dann in einen beweglichen Tintenfisch oder einen Spielzeug Seeteufel mit riesigem Maul
+- Das Set bietet sogar noch eine zusätzliche Baumöglichkeit und eine Bauanleitung für einen Wal – erhältlich auf LEGO.com
+- Mit diesem LEGO Creator 3-in-1-Set für Kinder ab 7 Jahre lassen sich 3 Meerestiere Figuren bauen!
 - Das Set „Bewohner der Tiefsee“ enthält einen unheimlichen Spielzeug Hai mit aufklappbarem Maul, spitzen Zähnen, beweglichen Flossen, beweglichen Gelenken und reflektierenden Augen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

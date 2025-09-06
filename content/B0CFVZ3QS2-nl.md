@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Veel accessoires – dit kinderspeelgoed wordt geleverd met 2 heuptasjes die de LEGO Friends personages kunnen dragen en andere beautyaccessoires
-- Leuk cadeau voor kinderen – deze creatieve LEGO Friends set voor meisjes en jongens is een leuk verjaardagscadeau of een verrassing voor kinderen die van fantasierijk spel en rollenspellen houden
+- Spiegel en zelfbedieningskassa – de speelgoedwinkel kan open en binnen vinden kinderen een spiegel en een zelfbedieningskassa om verhalen mee na te spelen
 - Inclusief 2 minipoppetjes – kinderen kunnen verschillende vriendschapsverhalen verzinnen terwijl ze winkelavonturen naspelen met de LEGO Friends mini poppetjes van Paisley en Candi
+- Veel accessoires – dit kinderspeelgoed wordt geleverd met 2 heuptasjes die de LEGO Friends personages kunnen dragen en andere beautyaccessoires
 - Stimuleer sociaal spel – ontdek meer sets (apart verkrijgbaar) in het LEGO Friends assortiment bouwspeelgoed voor kinderen, waarmee je kind verschillende vriendschapsverhalen kan ontdekken
 - LEGO Friends Winkeltje met accessoires bouw- en speelset – inclusief een bouwbare winkel, 2 minipoppetjes en beautyaccessoires voor meisjes, jongens en kinderen vanaf 6 jaar
-- Spiegel en zelfbedieningskassa – de speelgoedwinkel kan open en binnen vinden kinderen een spiegel en een zelfbedieningskassa om verhalen mee na te spelen
+- Leuk cadeau voor kinderen – deze creatieve LEGO Friends set voor meisjes en jongens is een leuk verjaardagscadeau of een verrassing voor kinderen die van fantasierijk spel en rollenspellen houden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ3QS2{{</world>}}

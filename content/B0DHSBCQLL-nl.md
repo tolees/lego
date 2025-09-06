@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief 4 LEGO Friends poppetjes – de set bevat poppetjes van Paisley en Aliya en grootouders Orla en Terence, plus figuren van Amos het konijn en Peri de kat
 - Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
-- Leuk cadeau voor meisjes en jongens – deze set is een creatief cadeau voor kinderen en tieners van 12 jaar en ouder die dol zijn op dierenspeelgoed en bouwbare displaymodellen
-- LEGO dieren speelgoed voor kinderen met veel accessoires – dit displaymodel wordt geleverd met tegels met bijen en lieveheersbeestjes, een gieter, compastbak, plus speelgoed eten, zoals wortels, tomaten en meer
 - Een bouwbaar model om neer te zetten – tieners kunnen dit schattige LEGO huis- en tuinmodel van 2 verdiepingen met trots neerzetten, inclusief een tuin met realistische bloemen en bomen, bijenkorven, een speelgoedwinkel en een slaapkamer
-- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
+- Leuk cadeau voor meisjes en jongens – deze set is een creatief cadeau voor kinderen en tieners van 12 jaar en ouder die dol zijn op dierenspeelgoed en bouwbare displaymodellen
 - Bouwpakket voor kinderen en tieners met bijenthema – deze Imkershuis en bloementuin set voor kinderen vanaf 12 jaar bevat 4 LEGO Friends poppetjes en 2 LEGO dieren figuren, plus een heleboel accessoires voor rollenspellen
+- Inclusief 4 LEGO Friends poppetjes – de set bevat poppetjes van Paisley en Aliya en grootouders Orla en Terence, plus figuren van Amos het konijn en Peri de kat
+- LEGO dieren speelgoed voor kinderen met veel accessoires – dit displaymodel wordt geleverd met tegels met bijen en lieveheersbeestjes, een gieter, compastbak, plus speelgoed eten, zoals wortels, tomaten en meer
+- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBCQLL{{</world>}}

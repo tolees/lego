@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Each skyline model is scaled to give an accurate representation of the comparative size of the featured structures, with realistic colour depiction
-- LEGO Architecture models are compatible with all LEGO construction sets for creative building and make great birthday gifts, anniversary presents for a husband or wife, or special treat for yourself
+- The included booklet contains information about the designer, architecture and history of each structure
 - Highly detailed LEGO Architecture interpretation of the Paris skyline, featuring a selection of famous landmarks, including the Arc de Triomphe, Champs-Elysées, Tour Montparnasse, Grand Palais, Eiffel Tower and the Louvre, plus grass and tree areas
 - LEGO Architecture sets celebrate the world of architecture through the medium of the LEGO brick, and are developed for all with an interest in travel, design, architecture and history
 - This model building kit for adults and kids aged 12+ has been designed to deliver a rewarding and relaxing building experience and makes a truly“mangnifique” décor piece for the home or office
-- The included booklet contains information about the designer, architecture and history of each structure
+- LEGO Architecture models are compatible with all LEGO construction sets for creative building and make great birthday gifts, anniversary presents for a husband or wife, or special treat for yourself
+- Each skyline model is scaled to give an accurate representation of the comparative size of the featured structures, with realistic colour depiction
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07FNN147J{{</world>}}

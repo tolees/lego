@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Bausets erfüllen die höchsten Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets mühelos zusammenstecken und wieder zerlegen lassen – und das schon seit 1958
-- Einfache gedruckte Bauanleitungen lassen Kinder sofort mit dem Bauen und Spielen beginnen, damit sie sich an den coolen Charakteren, den witzigen Funktionen und den vertrauten Minecraft Schauplätzen erfreuen können
-- Kinder müssen Steve beim Graben nach wichtigen Erzen helfen und den Zombie, die Spinne und den lebendigen Schleim zum Höhleneingang locken, wo sie eine Vorrichtung betätigen können, um von oben Kies auf die Kreaturen herabfallen zu lassen
-- Dieses vielseitige LEGO Minecraft Bauset ist 14 cm hoch, 19 cm breit und 12 cm tief und inspiriert zu unzähligen fantasievollen Rollenspielen. Das Set lässt sich auch mühelos mit anderen LEGO Minecraft Spielzeugen kombinieren
-- Enthält vertraute Minecraft Charaktere und Kreaturen: Steve, einen Zombie, eine Spinne und lebendigen Schleim. Das Bauset enthält auch Kohle, Eisen und Diamanten sowie eine Funktion, um Kies herabfallen zu lassen
-- Keine Batterien erforderlich. Als Antrieb reicht die Fantasie der Kinder, um den Spielspaß mit diesem LEGO Minecraft Set nie enden zu lassen. Dieses Spielset ohne Batterie ermöglicht aktiven Spielspaß, der die Geschicklichkeit, den Einfallsreichtum und die Problemlösefähigkeit der Kinder fördert
-- Das LEGO Minecraft Bauset „Die verlassene Mine“ (21166) erweckt klassische Minecraft Action in der echten Welt zum Leben, wenn Kinder die Hauptfigur des Onlinespiels beim Graben, Bauen und Erkunden unterstützen und ihr gegen verschiedene feindselige Kreaturen beistehen
-- Ein perfektes Geburtstags- oder Weihnachtsgeschenk für Kinder ab 7 Jahren, die ihre Minecraft Abenteuer mal in der echten Welt erleben möchten
-- LEGO Minecraft Bausets holen das Minecraft Onlinevergnügen in die echte Welt. Durch die hochwertigen, authentisch aufgemachten Modelle in den LEGO Minecraft Sets erhält das Spielerlebnis eine neue Dimension!
 - LEGO Steine und Teile werden strengen Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit dieses Bauset für Kinder den höchsten Sicherheits- und Qualitätsstandards der Welt entspricht
+- Keine Batterien erforderlich. Als Antrieb reicht die Fantasie der Kinder, um den Spielspaß mit diesem LEGO Minecraft Set nie enden zu lassen. Dieses Spielset ohne Batterie ermöglicht aktiven Spielspaß, der die Geschicklichkeit, den Einfallsreichtum und die Problemlösefähigkeit der Kinder fördert
+- Enthält vertraute Minecraft Charaktere und Kreaturen: Steve, einen Zombie, eine Spinne und lebendigen Schleim. Das Bauset enthält auch Kohle, Eisen und Diamanten sowie eine Funktion, um Kies herabfallen zu lassen
+- Das LEGO Minecraft Bauset „Die verlassene Mine“ (21166) erweckt klassische Minecraft Action in der echten Welt zum Leben, wenn Kinder die Hauptfigur des Onlinespiels beim Graben, Bauen und Erkunden unterstützen und ihr gegen verschiedene feindselige Kreaturen beistehen
+- Einfache gedruckte Bauanleitungen lassen Kinder sofort mit dem Bauen und Spielen beginnen, damit sie sich an den coolen Charakteren, den witzigen Funktionen und den vertrauten Minecraft Schauplätzen erfreuen können
+- LEGO Minecraft Bausets holen das Minecraft Onlinevergnügen in die echte Welt. Durch die hochwertigen, authentisch aufgemachten Modelle in den LEGO Minecraft Sets erhält das Spielerlebnis eine neue Dimension!
+- Ein perfektes Geburtstags- oder Weihnachtsgeschenk für Kinder ab 7 Jahren, die ihre Minecraft Abenteuer mal in der echten Welt erleben möchten
+- LEGO Bausets erfüllen die höchsten Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets mühelos zusammenstecken und wieder zerlegen lassen – und das schon seit 1958
+- Dieses vielseitige LEGO Minecraft Bauset ist 14 cm hoch, 19 cm breit und 12 cm tief und inspiriert zu unzähligen fantasievollen Rollenspielen. Das Set lässt sich auch mühelos mit anderen LEGO Minecraft Spielzeugen kombinieren
+- Kinder müssen Steve beim Graben nach wichtigen Erzen helfen und den Zombie, die Spinne und den lebendigen Schleim zum Höhleneingang locken, wo sie eine Vorrichtung betätigen können, um von oben Kies auf die Kreaturen herabfallen zu lassen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B085WV4WST{{</world>}}

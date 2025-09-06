@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Kitchen playset for imaginative play – Kids fold up the hatch to display a burger sign and remove the roof to serve customers from the truck toy
-- Interactive guide – With the LEGO Builder app where kids can zoom in and rotate their building toys in 3D, track progress and save virtual playsets
-- Food truck toy – Serving fast food is child’s play with the LEGO City Burger Van building toy for 5 plus year old boys and girls
 - What’s in this LEGO vehicle set? – Features a burger van, a vendor, and a customer minifigure with a cochlear implant, plus LEGO condiment accessories
 - A world of imaginative play – Unleash more fun when you combine this food truck toy with others (sold separately) from the LEGO City range
+- Interactive guide – With the LEGO Builder app where kids can zoom in and rotate their building toys in 3D, track progress and save virtual playsets
+- Food truck toy – Serving fast food is child’s play with the LEGO City Burger Van building toy for 5 plus year old boys and girls
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2KC3H{{</world>}}

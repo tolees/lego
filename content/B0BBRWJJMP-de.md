@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dieses LEGO Set ab 4 Jahren enthält alles, was die Kinder brauchen, um ihre eigenen Geschichten zu erfinden, einschließlich Zubehör: eine Bürste, eine Gitarre, Küchenutensilien, Essen und mehr
 - Dieses Puppenhaus verfügt über ein Schlafzimmer und ein Badezimmer im Obergeschoss, die abgetrennt werden können, damit die Küche zu sehen ist, einen gemütlichen Sitzbereich im Freien mit einem Unterschlupf für die Hasenfigur
+- Dieses LEGO Set ab 4 Jahren enthält alles, was die Kinder brauchen, um ihre eigenen Geschichten zu erfinden, einschließlich Zubehör: eine Bürste, eine Gitarre, Küchenutensilien, Essen und mehr
 - Enthält 3 LEGO Mini-Puppen Paisley, Ella und Jonathan, die alle Teil der neuen Generation vom LEGO Friends Universum sind
 - Ein tolles Geschenk zum Geburtstag oder eine besondere Freude macht das Spielzeug für Mädchen und Jungen ab 4 Jahren, die Puppenhäuser lieben
 - Nach der Erkundung des Hauses können die Kinder in den Garten gehen, um sich das Puppenhaus-Zubehör anzuschauen, z.B. Paisley beobachten, wie sie Musik auf ihrer Gitarre spielt, und das Häschen Melody begrüßen, indem sie es mit einer Karotte füttern

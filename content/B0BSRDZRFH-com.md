@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A range of sports – Sports loving kids can build the sports center and play out different sports using the mini-doll holders and balls. They can transform the soccer field into a tennis or basketball court
-- Designed for creative play – Accessories include a music box, first-aid kit, helmet, medal, blood-sugar monitor, trophies, 4 water bottles, red and yellow cards, 2 sizes of ball, a hairdryer and more
-- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
-- 4 mini-dolls and accessories – The set comes with LEGO Friends characters Niko, Leo, Ivana and Hanna, plus lots of accessories for soccer, basketball and tennis practice
-- Sized for young builders – The LEGO Friends Sports Center building measures over 8 in. (20 cm) high,10.5 in. (27 cm) wide and 6.5 in. (17 cm) deep
-- A LEGO gift for sports fans – This buildable playset makes a gift idea for any kid aged 8 and up who loves sport or friendship role play
 - Sports role play for kids age 8+ – Kids can explore a range of different sports including basketball, football and tennis as they build and explore this fun LEGO Friends Sports Center toy (41744)
+- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
+- Designed for creative play – Accessories include a music box, first-aid kit, helmet, medal, blood-sugar monitor, trophies, 4 water bottles, red and yellow cards, 2 sizes of ball, a hairdryer and more
+- Sized for young builders – The LEGO Friends Sports Center building measures over 8 in. (20 cm) high,10.5 in. (27 cm) wide and 6.5 in. (17 cm) deep
+- A range of sports – Sports loving kids can build the sports center and play out different sports using the mini-doll holders and balls. They can transform the soccer field into a tennis or basketball court
+- 4 mini-dolls and accessories – The set comes with LEGO Friends characters Niko, Leo, Ivana and Hanna, plus lots of accessories for soccer, basketball and tennis practice
+- A LEGO gift for sports fans – This buildable playset makes a gift idea for any kid aged 8 and up who loves sport or friendship role play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRDZRFH{{</world>}}

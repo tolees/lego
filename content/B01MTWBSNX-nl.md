@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - LEGO café model voor verzamelaars – dompel jezelf onder in de charme van de Franse cafécultuur met het LEGO Icons Frans café bouwpakket voor volwassenen
-- Wat zit er in de doos? – deze LEGO set voor volwassenen heeft alles wat je nodig hebt om een klassieke Franse bistro te creëren met een pittoreske gevel, hangende bloempotten en sierlijke stoelen, plus accessoires waaronder eten en serviesgoed
-- Een gedetailleerde DIY set voor volwassenen – open de dubbele deuren en ontdek een gedetailleerd interieur met een klein zitgedeelte met chic behang en donkere houten meubels
 - Decoratie voor op een boekenplank – maak een blikvanger voor thuis, op kantoor of in een andere ruimte met dit gedetailleerde model met een slank profiel en een platte achterkant
-- 3D-bouwinstructies – bereid je voor om te bouwen als nooit tevoren met de LEGO Builder app, waarin je sets kunt opslaan, je voortgang kunt bijhouden, kunt inzoomen en je model in 3D kunt draaien
-- Welkom in jouw eigen wereld – maak ruimte voor ontspanning met de inspirerende reeks creatieve bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
+- Een gedetailleerde DIY set voor volwassenen – open de dubbele deuren en ontdek een gedetailleerd interieur met een klein zitgedeelte met chic behang en donkere houten meubels
+- Wat zit er in de doos? – deze LEGO set voor volwassenen heeft alles wat je nodig hebt om een klassieke Franse bistro te creëren met een pittoreske gevel, hangende bloempotten en sierlijke stoelen, plus accessoires waaronder eten en serviesgoed
 - Een cadeau voor koffieliefhebbers – vier een verjaardag of speciale gelegenheid met dit cadeau die dol zijn op eten, reizen en souvenirs van Frankrijk
+- Welkom in jouw eigen wereld – maak ruimte voor ontspanning met de inspirerende reeks creatieve bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
+- 3D-bouwinstructies – bereid je voor om te bouwen als nooit tevoren met de LEGO Builder app, waarin je sets kunt opslaan, je voortgang kunt bijhouden, kunt inzoomen en je model in 3D kunt draaien
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MTWBSNX{{</world>}}

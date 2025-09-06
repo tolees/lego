@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Een cadeautip voor kinderen – deze set is een leuk verjaardagscadeau of een verrassing voor kinderen van 7 jaar en ouder die dol zijn op kampeerspeelgoed en graag doen alsof
-- 3 LEGO Friends poppetjes en een speelgoed vos – deze speelgoedset is inclusief de LEGO Friends personages Paisley, Zac en Sky, plus een LEGO vos, zodat het creatieve spel meteen kan beginnen
-- 2 mountainbikes – dit educatieve speelgoed opent een wereld vol fantasierijk speelplezier wanneer kinderen de LEGO Friends personages meenemen voor een ritje op de mountainbikes voordat ze relaxen rond het kampvuur
 - Avontuurlijke kampeer set– deze LEGO Friends Avonturenkamp knusse boshutten speelset voor meisjes en jongens vanaf 7 jaar bevat 2 bouwbare kampeerhutten, een kampvuur en accessoires voor rollenspellen
+- 2 mountainbikes – dit educatieve speelgoed opent een wereld vol fantasierijk speelplezier wanneer kinderen de LEGO Friends personages meenemen voor een ritje op de mountainbikes voordat ze relaxen rond het kampvuur
+- 3 LEGO Friends poppetjes en een speelgoed vos – deze speelgoedset is inclusief de LEGO Friends personages Paisley, Zac en Sky, plus een LEGO vos, zodat het creatieve spel meteen kan beginnen
+- Een cadeautip voor kinderen – deze set is een leuk verjaardagscadeau of een verrassing voor kinderen van 7 jaar en ouder die dol zijn op kampeerspeelgoed en graag doen alsof
 - Kampeeraccessoires voor spannende verhalen – inclusief mokken, een vlag, luit, bijl, lantaarn, een kampvuur en ingrediënten om marshmallows te roosteren
 
 [🛒 Buy it!!]({{< param buyurl >}})

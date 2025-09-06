@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Minecraft-loving kids explore this large recreation of the games precious weapon, the diamond sword, which acts as a base for explosive battles
-- There are 2 stud shooters to defend the base plus a lever at the bottom of the tower triggers an explosion that collapses part of the structure
-- Includes Sentinel Soldier, Guardian Warrior and allay LEGO Minecraft figures, plus skeleton and Creeper Minecraft mobs and a pig animal toy
 - Once the days play is over and the base has been defended, the Minecraft diamond sword build will look great on display in kids rooms
+- There are 2 stud shooters to defend the base plus a lever at the bottom of the tower triggers an explosion that collapses part of the structure
+- Minecraft-loving kids explore this large recreation of the games precious weapon, the diamond sword, which acts as a base for explosive battles
+- Includes Sentinel Soldier, Guardian Warrior and allay LEGO Minecraft figures, plus skeleton and Creeper Minecraft mobs and a pig animal toy
 - Kids build a giant toy Minecraft diamond sword base into the side of a mountain with a chill-out area, a juke box toy, a table and cookies
 - This Minecraft set combines with other LEGO Minecraft building toys and makes a cool birthday or any-occasion gift for kids age 8 plus years old
 

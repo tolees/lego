@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verras kinderen vanaf 4 jaar die gek zijn van politievoertuigen, motors en actie met dit veelzijdige LEGO City politieauto speelgoed als cadeau voor een verjaardag, Kerstmis of iedere andere gelegenheid
-- Bij dit veelzijdige politieautospeelgoed zijn minifiguren inbegrepen van 2 politieagenten en 2 boeven, plus talloze leuke accessoires voor fantasierijk spel, zoals een speelgoedjuweel, politieradio, gevangenissleutel, 2 kopjes en een megafoon
-- De gevangenis heeft een ontsnappingsfunctie: kinderen bevestigen de ketting van de speelgoedmotor om de ontsnappingsfunctie te activeren - nu moet de politieauto achter de ontsnapte boeven aan!
 - Er staan kinderen spannende politieavonturen te wachten met deze leuke LEGO City 4+ set, inclusief een speelgoed politiebureau, politieauto, motor, 4 minifiguren en een dierenfiguur van een politiehond
 - Dit politie speelgoed voor kinderen van 4+ jaar bevat een LEGO startsteen, die ze helpt om meteen te beginnen met bouwen, plus eenvoudige bouwinstructies met afbeeldingen en digitale begeleiding via de LEGO Builder app
+- De gevangenis heeft een ontsnappingsfunctie: kinderen bevestigen de ketting van de speelgoedmotor om de ontsnappingsfunctie te activeren - nu moet de politieauto achter de ontsnapte boeven aan!
+- Verras kinderen vanaf 4 jaar die gek zijn van politievoertuigen, motors en actie met dit veelzijdige LEGO City politieauto speelgoed als cadeau voor een verjaardag, Kerstmis of iedere andere gelegenheid
+- Bij dit veelzijdige politieautospeelgoed zijn minifiguren inbegrepen van 2 politieagenten en 2 boeven, plus talloze leuke accessoires voor fantasierijk spel, zoals een speelgoedjuweel, politieradio, gevangenissleutel, 2 kopjes en een megafoon
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRY3DC7{{</world>}}

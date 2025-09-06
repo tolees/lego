@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
-- Tipo de producto: videojuego
 - LEGO Harry Potter: Años 5-7 transportará a los jugadores a través de los tres últimos libros y las cuatro últimas películas
+- Tipo de producto: videojuego
+- LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
 - Plataforma del juego: PlayStation 4
 - El paquete trae dos videojuegos más vendidos remasterizados en un disco
 

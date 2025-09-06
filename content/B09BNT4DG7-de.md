@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinder stellen Filmszenen mit den LEGO Marvel Avengers nach oder spielen ihre eigenen, erfundenen Abenteuer nach
-- Werde Teil der Marvel Studios Thor: Love & Thunder Film-Action mit diesem baubaren Spielzeug und einer Monster Figur
-- Mehr Action für Avengers Fans mit diesem tollen Spielset und Zubehör, Thors Sturmbrecher und Hammer Mjölnir, als LEGO Marvel Avengers Infinity War Geschenk
 - Das Avengers Spielzeug regt zu endlosen fantasievollen Rollenspielen an und kann nach dem Spielen ausgestellt werden
 - Enthält die Minifiguren LEGO Thor, Mighty Thor und Gorr sowie ein Schattenmonster zum Bauen mit Gelenkarmen und Krallen
 - Mit der LEGO Bauanleitungs-App können die Kinder eine digitale Version ihres Modells zoomen, drehen und visualisieren, während sie bauen
+- Kinder stellen Filmszenen mit den LEGO Marvel Avengers nach oder spielen ihre eigenen, erfundenen Abenteuer nach
+- Werde Teil der Marvel Studios Thor: Love & Thunder Film-Action mit diesem baubaren Spielzeug und einer Monster Figur
+- Mehr Action für Avengers Fans mit diesem tollen Spielset und Zubehör, Thors Sturmbrecher und Hammer Mjölnir, als LEGO Marvel Avengers Infinity War Geschenk
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNT4DG7{{</world>}}

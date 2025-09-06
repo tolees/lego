@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bouwbare speelset met functies voor leuke rollenspellen– beweeg de hendels om de toegangsdeur naar de gang open te blazen en LEGO minifiguren omver te werpen tijdens gevechten
-- LEGO Star Wars Tantive IV bouwbare speelset voor kinderen – speel de bekende scène Aan boord van de Tantive IV uit Star Wars: A New Hope na, waarin Darth Vader en zijn Stormtroopers tegen de rebellen vochten
-- Star Wars cadeau voor fans van 8 jaar en ouder – geef deze bouwset als verjaardagscadeau of zomaar cadeau aan jongens en meisjes, alle kinderen en volwassen fans die dol zijn op Star Wars
-- 7 LEGO Star Wars personages – Darth Vader, 2 Stormtroopers, 2 Rebel Fleet Troopers en Kapitein Antilles, plus een LEGO Star Wars minifiguur van ARC Trooper Fives met een displaystandaard ter ere van het 25-jarig jubileum
 - Een helpende hand – met de LEGO Builder app kunnen kinderen tijdens het bouwen inzoomen en een digitale versie van hun bouwmodel draaien en visualiseren, hun voortgang bijhouden en meer
-- LEGO Star Wars sets voor alle leeftijden – met LEGO Star Wars bouwspeelgoed kunnen kinderen en volwassen fans klassieke scènes nabouwen, hun eigen creatieve verhalen bedenken en de bouwbare modellen op een mooi plekje neerzetten
+- 7 LEGO Star Wars personages – Darth Vader, 2 Stormtroopers, 2 Rebel Fleet Troopers en Kapitein Antilles, plus een LEGO Star Wars minifiguur van ARC Trooper Fives met een displaystandaard ter ere van het 25-jarig jubileum
+- Star Wars cadeau voor fans van 8 jaar en ouder – geef deze bouwset als verjaardagscadeau of zomaar cadeau aan jongens en meisjes, alle kinderen en volwassen fans die dol zijn op Star Wars
+- LEGO Star Wars Tantive IV bouwbare speelset voor kinderen – speel de bekende scène Aan boord van de Tantive IV uit Star Wars: A New Hope na, waarin Darth Vader en zijn Stormtroopers tegen de rebellen vochten
+- Bouwbare speelset met functies voor leuke rollenspellen– beweeg de hendels om de toegangsdeur naar de gang open te blazen en LEGO minifiguren omver te werpen tijdens gevechten
 - Bouwbaar LEGO Star Wars speelgoed voor kinderen om te verzamelen – dankzij de verbindingen kunnen bouwers nog een set 75387 toevoegen (apart verkrijgbaar) om de gang uit te breiden
+- LEGO Star Wars sets voor alle leeftijden – met LEGO Star Wars bouwspeelgoed kunnen kinderen en volwassen fans klassieke scènes nabouwen, hun eigen creatieve verhalen bedenken en de bouwbare modellen op een mooi plekje neerzetten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW28JMN{{</world>}}

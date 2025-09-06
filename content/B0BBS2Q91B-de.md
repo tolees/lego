@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Dieses Harry Potter Bastelset enthält einen Goldenen Schnatz, ein Tablett in Form eines Schals und einen individuell gestaltbaren LEGO DOTS Fotorahmen
 - Das LEGO DOTS Hogwarts Schreibtisch-Set enthält 4 Schreibtisch-Deko-Artikel und ein selbstklebendes Patch, mit dem Kinder ihren Schreibtisch dekorieren können
-- Mit dem Mosaikset für Kinder können ihre Kleinen die verschiedenfarbigen Steine verwenden. Zusätzlich gibt es 10 exklusive Mosaik-Steine
 - Enthält außerdem eine abschließbare Geheimschachtel oder Schmuckschatulle, in der Kinder ihre Schätze aufbewahren können, sowie einen 8x8 großen Aufkleber
+- Mit dem Mosaikset für Kinder können ihre Kleinen die verschiedenfarbigen Steine verwenden. Zusätzlich gibt es 10 exklusive Mosaik-Steine
 - Kreative Kinder und Harry Potter-Fans können mit diesem Zubehör für die Schule auf lustige Weise ihren Stolz auf das Haus Hogwarts zeigen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

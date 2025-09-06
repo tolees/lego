@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inscribed LEGO Brick - The LEGO set for adults scale model building also includes a LEGO brick inscribed ‘Taj Mahal’ to complete a conversation-starting centerpiece.
-- Travel and Architecture - Whether you dream of visiting India and the Taj Mahal or you just love travel and architecture, this model building set is for you.
 - Removable Chamber - The chamber can be removed to view the crypt below; this architecture model building set makes an impressive display piece for your home or office.
-- Crypts and Tombs - Features a crypt with tombs of Mumtaz and Shah Jahan, a central chamber with 2 cenotaphs, iwans, main dome, 4 chhatris, 4 minarets.
 - Collectible Construction - This collectible 2,022-piece construction set also makes a very special gift for creative friends, featuring mini blocks and a house kit.
+- Crypts and Tombs - Features a crypt with tombs of Mumtaz and Shah Jahan, a central chamber with 2 cenotaphs, iwans, main dome, 4 chhatris, 4 minarets.
+- Travel and Architecture - Whether you dream of visiting India and the Taj Mahal or you just love travel and architecture, this model building set is for you.
 - Eternal Love Symbol - Build and display the detailed LEGO Architecture Landmarks Collection model of the Taj Mahal, an iconic symbol of eternal love.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kids will have a blast exploring Lianns room and imagine painting a picture of Popcorn, an adorable toy pet gecko who has her own terrarium
-- This LEGO Friends toy with 2023 series characters for kids aged 6 years old makes a great gift or special treat for arts and crafts lovers
-- This mini-doll playset is part of a collection of LEGO Friends Heartlake City bedroom playsets; check out Leos Room (41754) or Novas Room (41755)
-- Includes a drawing table, a window nook and a hidden bed behind the bookshelf, plus paint tubes, palettes and easels mini-doll accessories
 - A LEGO Friends bedroom playset with the art-loving Liann and Autumn mini-dolls, doughnuts, cups, comics, a skateboard and mobile phone elements
+- This mini-doll playset is part of a collection of LEGO Friends Heartlake City bedroom playsets; check out Leos Room (41754) or Novas Room (41755)
+- This LEGO Friends toy with 2023 series characters for kids aged 6 years old makes a great gift or special treat for arts and crafts lovers
+- Includes a drawing table, a window nook and a hidden bed behind the bookshelf, plus paint tubes, palettes and easels mini-doll accessories
+- Kids will have a blast exploring Lianns room and imagine painting a picture of Popcorn, an adorable toy pet gecko who has her own terrarium
 - This LEGO Friends Lianns Room collectible toy playset for children aged 6 features a cute bedroom art studio and Liann and Autumn mini-dolls
 
 [🛒 Buy it now!!]({{< param buyurl >}})

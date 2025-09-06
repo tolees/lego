@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ce set de maquettes de voitures LEGO à construire est rempli de caractéristiques plus vraies que nature : direction, ouverture du capot, autocollants et moteur V8 avec pistons mobiles
+- Les enfants peuvent sinitier à lingénierie et à la construction avec lapplication LEGO Builder, une aventure de construction intuitive remplie doutils pour construire facilement
+- Les enfants de 9 ans et plus peuvent construire leur propre version de la voiture de course NASCAR next gen Chevrolet Camaro ZL1 avec ce kit de maquette LEGO Technic à collectionner
 - Le jouet de course LEGO, qui attire lattention par ses couleurs vives, est très beau à exposer dans le cadre dune collection de voitures LEGO Technic
 - Les kits de modèles réduits et de véhicules LEGO Technic font découvrir aux enfants le monde de lingénierie de manière amusante et constituent dexcellents cadeaux pour toutes les occasions
-- Les enfants de 9 ans et plus peuvent construire leur propre version de la voiture de course NASCAR next gen Chevrolet Camaro ZL1 avec ce kit de maquette LEGO Technic à collectionner
-- Les enfants peuvent sinitier à lingénierie et à la construction avec lapplication LEGO Builder, une aventure de construction intuitive remplie doutils pour construire facilement
+- Ce set de maquettes de voitures LEGO à construire est rempli de caractéristiques plus vraies que nature : direction, ouverture du capot, autocollants et moteur V8 avec pistons mobiles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRWZ6BG{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Harry Potter Bauspielzeug für Kinder ab 8 Jahren: Dieses Set ist eine tolle spontane Belohnung für Jungen, Mädchen und alle, die die Magie der Zauberwelt entdecken und erforschen möchten
-- Fantasy Spielset mit 3 LEGO Harry Potter Charakteren: erlebe unzählige Abenteuer mit den beliebten Minifiguren Ron Weasley, Hermine Granger und Professor Flitwick
-- 1 von 14 Hogwarts Porträts zum Sammeln: Der LEGO Harry Potter Duellierclub ist ein tolles Bauspielzeug für kleine und große Fans; 1 von 14 Hogwarts Porträts zum Sammeln ist enthalten und kann im Klassenzimmer aufgehängt werden
-- LEGO Harry Potter Sammlerstück: Dieses magische Spielset gehört zu einer Serie von (separat erhältlichen) Modulen, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
-- Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, in der Baumeister 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
 - Magisches Kinderspielzeug: LEGO Schloss Hogwarts: Zauberkunstunterricht ist genau das richtige Spielset, um eine magische Unterrichtsszene aus Harry Potter und der Stein der Weisen nachzustellen
+- Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, in der Baumeister 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
+- LEGO Harry Potter Sammlerstück: Dieses magische Spielset gehört zu einer Serie von (separat erhältlichen) Modulen, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
+- Harry Potter Bauspielzeug für Kinder ab 8 Jahren: Dieses Set ist eine tolle spontane Belohnung für Jungen, Mädchen und alle, die die Magie der Zauberwelt entdecken und erforschen möchten
 - Harry Potter Bauset: Das Hogwarts Klassenzimmer lässt sich ausklappen und enthält herausnehmbare Schülertische, eine Tafel mit Zauberanweisungen sowie eine Funktion, um Dinge mit dem Zauber Wingardium Leviosa schweben zu lassen
+- 1 von 14 Hogwarts Porträts zum Sammeln: Der LEGO Harry Potter Duellierclub ist ein tolles Bauspielzeug für kleine und große Fans; 1 von 14 Hogwarts Porträts zum Sammeln ist enthalten und kann im Klassenzimmer aufgehängt werden
+- Fantasy Spielset mit 3 LEGO Harry Potter Charakteren: erlebe unzählige Abenteuer mit den beliebten Minifiguren Ron Weasley, Hermine Granger und Professor Flitwick
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSFF382{{</world>}}

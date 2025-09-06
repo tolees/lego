@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inhalt der Box: In diesem kreativen Bauset findest du alles, was du brauchst, um eine mehrstufige Rakete mit 2 Feststoffboostern, die Raumkapsel Orion und einen detailgetreuen mobilen Starttisch mit Startturm zu bauen
+- Inklusive digitaler Bauanleitung: Die LEGO Builder App beinhaltet eine digitale Version der Bauanleitung zu diesem LEGO Icons Bauset
+- Dekoration fürs Wohnzimmer oder Büro: Freu dich auf ein fesselndes Bauerlebnis und stell das Modell dann aus, um es von allen erkunden und bestaunen zu lassen
 - Details und Funktionen: Dieses NASA Modell des Space Launch Systems besteht aus einem Startturm mit einziehbaren Elementen (Versorgungsschläuchen, Raketenstütze und Crewbrücke), ablösbaren Feststoffboostern und abtrennbaren Raketenstufen
 - Modell des NASA Space Launch System: Freu dich auf ein kreatives Projekt mit der LEGO Icons NASA Artemis Startrampe für erwachsene Raumfahrtfans, ein faszinierendes Sammlerstück in limitierter Auflage
 - Kreative LEGO Projekte für Erwachsene: Dieses LEGO Icons Bauspielzeug gehört zu einer ganzen Reihe von anspruchsvolleren Bausets für Erwachsene zum Sammlen und Ausstellen
-- Dekoration fürs Wohnzimmer oder Büro: Freu dich auf ein fesselndes Bauerlebnis und stell das Modell dann aus, um es von allen erkunden und bestaunen zu lassen
-- Inklusive digitaler Bauanleitung: Die LEGO Builder App beinhaltet eine digitale Version der Bauanleitung zu diesem LEGO Icons Bauset
+- Inhalt der Box: In diesem kreativen Bauset findest du alles, was du brauchst, um eine mehrstufige Rakete mit 2 Feststoffboostern, die Raumkapsel Orion und einen detailgetreuen mobilen Starttisch mit Startturm zu bauen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00C1DIRXQ{{</world>}}

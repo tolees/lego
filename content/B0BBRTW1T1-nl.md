@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinderen kunnen de zijkant van het LEGO voertuig openklappen om het podium met 2 gamestations en een gigantisch stadionscherm te onthullen - Wie zal de trofee winnen?
-- Kinderen brengen eSports-toernooien tot leven met deze coole LEGO City Gametoernooi truck set, inclusief een bouwbare speelgoed vrachtwagen, minifiguren van een presentator en 2 gamers en een heleboel leuke accessoires
 - Jonge gamefans kunnen de game-actie op het scherm van het speelgoedstadion laten zien en de voortgangsbalk van de deelnemende minifiguren aanpassen om de spanning op te voeren
-- Dit LEGO City speelgoed is een fantastisch verjaardagscadeau, of een leuke verrassing voor kinderen vanaf 7 jaar, jongens en meisjes die helemaal weg zijn van gamen, eSports en speelgoed trucks
+- Kinderen brengen eSports-toernooien tot leven met deze coole LEGO City Gametoernooi truck set, inclusief een bouwbare speelgoed vrachtwagen, minifiguren van een presentator en 2 gamers en een heleboel leuke accessoires
+- Kinderen kunnen de zijkant van het LEGO voertuig openklappen om het podium met 2 gamestations en een gigantisch stadionscherm te onthullen - Wie zal de trofee winnen?
 - Bij dit vrachtwagen speelgoed zijn talloze coole accessoires en merchandise-materialen inbegrepen voor enthousiaste fans, zoals een winnaarstrofee, een microfoon, mobiele telefoon en game attributen, waaronder grote vuisten en een zwaard
+- Dit LEGO City speelgoed is een fantastisch verjaardagscadeau, of een leuke verrassing voor kinderen vanaf 7 jaar, jongens en meisjes die helemaal weg zijn van gamen, eSports en speelgoed trucks
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRTW1T1{{</world>}}

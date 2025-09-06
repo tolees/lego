@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This Disney Princess buildable playset features a hot air balloon with a lantern and telescope, a toy horse and carriage and a flying carpet
-- Features 3 buildable modes of travel from Disneys Aladdin, Cinderella and Rapunzel, 3 LEGO|Disney Princess mini-doll figures and 2 animal figures
-- Theres also a lounge build with elements to spark imaginative play: a seating area, tree, gold bowls, water fountain and flaming torch elements
-- Includes Disney Princesses Jasmin, Cinderella and Rapunzel LEGO mini-doll figures, plus a buildable toy horse and a baby elephant figure
 - Enter a new world of building; builders can zoom in, rotate and track their progress using the fun, intuitive LEGO Builder App for smart devices
-- With this Disney Princess building toy playset kids join Rapunzel in her hot-air balloon, Jasmine on her carpet and Cinderella in her carriage
+- This Disney Princess buildable playset features a hot air balloon with a lantern and telescope, a toy horse and carriage and a flying carpet
+- Theres also a lounge build with elements to spark imaginative play: a seating area, tree, gold bowls, water fountain and flaming torch elements
 - This LEGO | Disney Princess 3in1 buildable toy makes a magical creative gift for Disney fans, and kids aged 6 plus years old
+- Features 3 buildable modes of travel from Disneys Aladdin, Cinderella and Rapunzel, 3 LEGO|Disney Princess mini-doll figures and 2 animal figures
+- With this Disney Princess building toy playset kids join Rapunzel in her hot-air balloon, Jasmine on her carpet and Cinderella in her carriage
+- Includes Disney Princesses Jasmin, Cinderella and Rapunzel LEGO mini-doll figures, plus a buildable toy horse and a baby elephant figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRWX5DW{{</world>}}

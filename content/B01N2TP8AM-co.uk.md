@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes tomato, carrot and watermelon stacking toys to teach toddlers how food grows as they stack the bricks and hone fine motor skills
 - Teach babies and toddlers aged 1.5+ about nature, creatures and how plants grow in the garden with this LEGO DUPLO Organic Garden learning toy set
-- Give this colourful stacking toy for toddlers aged 18 months plus as a fun birthday gift, holiday present or special occasion treat
 - Versatile LEGO DUPLO set helps develop children’s self-expression and fine motor skills as they enjoy endless creative fun playing the garden
-- Also includes ladybird, bee and caterpillar toys, plus a beehive, trees, flowers, rain-cloud, rainbow bricks and a watering can for kids to use
 - This educational toy for 1.5+ year olds also comes with a handy LEGO DUPLO brick box to keep all the pieces tidy when playtime is over
+- Give this colourful stacking toy for toddlers aged 18 months plus as a fun birthday gift, holiday present or special occasion treat
+- Includes tomato, carrot and watermelon stacking toys to teach toddlers how food grows as they stack the bricks and hone fine motor skills
+- Also includes ladybird, bee and caterpillar toys, plus a beehive, trees, flowers, rain-cloud, rainbow bricks and a watering can for kids to use
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N2TP8AM{{</world>}}

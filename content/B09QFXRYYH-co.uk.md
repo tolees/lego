@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The buildable Star Wars starfighter Toy features 2 stud shooters, retractable landing gear and lightsaber storage clips
-- This Jedi starfighter building toy makes a great birthday gift for 7 plus year old boys, girls and Star Wars: Attack of the Clones fans
-- Thrill Star Wars: Attack of the Clones fans with a buildable toy of Obi-Wan Kenobi’s Jedi Starfighter with iconic minifigures and accessories
-- Kids role-play traveling to Kamino with Obi-Wan and astromech droid R4-P17 to meet Taun We: it could change the course of the Clone Wars!
-- There is also a minifigure cockpit for Obi-Wan and an attachment point on the wing for the R4-P17 Star Wars droid figures head
 - Kids can learn as they build with the free LEGO Building Instructions app that allows users to view, zoom and rotate the model as they build
 - Includes 2 LEGO Star Wars minifigures: Obi-Wan Kenobi with a lightsaber and, for the first time, Taun We, plus an R4-P17 astromech droid figure
+- Thrill Star Wars: Attack of the Clones fans with a buildable toy of Obi-Wan Kenobi’s Jedi Starfighter with iconic minifigures and accessories
+- This Jedi starfighter building toy makes a great birthday gift for 7 plus year old boys, girls and Star Wars: Attack of the Clones fans
+- The buildable Star Wars starfighter Toy features 2 stud shooters, retractable landing gear and lightsaber storage clips
+- Kids role-play traveling to Kamino with Obi-Wan and astromech droid R4-P17 to meet Taun We: it could change the course of the Clone Wars!
+- There is also a minifigure cockpit for Obi-Wan and an attachment point on the wing for the R4-P17 Star Wars droid figures head
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFXRYYH{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes 4 LEGO Friends mini-dolls: Autumn, Leo, who loves cooking, Aliya and mum Mia, plus Daisy the dog and the foal horse animal figures
-- Kids can pick apples from the tree, help Leo make pies in the kitchen, then join Aliya to brush the toy pets and enjoy lattes by the campfire
-- This LEGO Friends dolls house playset for kids with toy furniture will look great on display in kids rooms and makes a cool gift for girls and boys aged 7+
-- The toy house includes a kitchen, living room, dining room, bathroom, Autumn’s nature-inspired bedroom, a balcony plus a small toy horse stable
 - This LEGO Friends house set features a nature-themed 2-floors dolls house toy for kids aged 7+ with different rooms and 4 LEGO Friends mini-dolls
-- Kids can discover dolls house accessories including notebook and binoculars, baking ingredients, pumpkins, apples, cups, plus dog food for Daisy
 - The LEGO Friends universe became bigger; discover other 2023 series characters and locations, like Organic Grocery Store (41729)
+- The toy house includes a kitchen, living room, dining room, bathroom, Autumn’s nature-inspired bedroom, a balcony plus a small toy horse stable
+- This LEGO Friends dolls house playset for kids with toy furniture will look great on display in kids rooms and makes a cool gift for girls and boys aged 7+
+- Kids can discover dolls house accessories including notebook and binoculars, baking ingredients, pumpkins, apples, cups, plus dog food for Daisy
+- Kids can pick apples from the tree, help Leo make pies in the kitchen, then join Aliya to brush the toy pets and enjoy lattes by the campfire
+- Includes 4 LEGO Friends mini-dolls: Autumn, Leo, who loves cooking, Aliya and mum Mia, plus Daisy the dog and the foal horse animal figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRYKXQB{{</world>}}

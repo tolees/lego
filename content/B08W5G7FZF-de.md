@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Anzahl der Teile: 170
-- LEGO Stuntz ist die neueste Unterreihe von LEGO City und bringt Spaß mit Stunt-Shows, einigen Überraschungen und bekannten Gesichtern
 - Enthält ein schwungradbetriebenes Motorrad und eine Reihe von Hindernissen und Herausforderungen für den Motorradfahrer, wie eine riesige Spinne und Flammen
 - Stunt-Park
+- LEGO Stuntz ist die neueste Unterreihe von LEGO City und bringt Spaß mit Stunt-Shows, einigen Überraschungen und bekannten Gesichtern
+- Anzahl der Teile: 170
 - Vom Hersteller empfohlenes Alter: 5+
 
 [🛒 Buy it now!!]({{< param buyurl >}})

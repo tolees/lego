@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - When horizontal, with the LEGO flames attached, the hoop measures over 15 cm (6 in.) high, 16 cm (6 in.) wide and 25 cm (9.5 in.) deep.
-- Young action fans can choose their stunt, push the toy motorcycle to activate the flywheel, launch off the ramp and make a perfect dunk
-- Combine this set with other LEGO City Stuntz building toy sets like Spinning Stunt Challenge (60360) or Ultimate Stunt Riders Challenge (60361)
 - This LEGO City Stuntz set makes a great birthday gift idea for kids ages 5+ years old who love awesome stunt bike shows and action toys
-- This LEGO City Stuntz Dunk Stunt Ramp 2in1 Challenge set includes a flywheel-powered motorcycle toy, a launch ramp and a Stuntz rider minifigure
+- Combine this set with other LEGO City Stuntz building toy sets like Spinning Stunt Challenge (60360) or Ultimate Stunt Riders Challenge (60361)
 - Kids can set the stunt in different ways; horizontally to complete the hoop of flames challenge, and vertically for the ring of stars challenge
 - This toy, for kids ages 5+, features an awesome dinosaur themed flywheel-powered toy motorcycle, plus a trophy accessory. Great for kids who love awesome stunt bike shows and action toys
+- Young action fans can choose their stunt, push the toy motorcycle to activate the flywheel, launch off the ramp and make a perfect dunk
+- This LEGO City Stuntz Dunk Stunt Ramp 2in1 Challenge set includes a flywheel-powered motorcycle toy, a launch ramp and a Stuntz rider minifigure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BLJ5MLBQ{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4 LEGO Friends poppetjes en een hond – de set wordt geleverd met 4 minipoppetjes, waaronder hotelgasten LEGO Friends Zac, Olly en Aliya, elk met hun eigen koffer, plus hoteleigenaresse Renée en haar hond
-- Een cadeautip voor kinderen – deze hotelspeelset is een geweldig cadeau voor meisjes, jongens, alle tieners die van bouwprojecten houden en graag hun eigen prachtige LEGO kasteel in elkaar willen zetten
 - Een hotelspeelset om te bouwen en neer te zetten – geef meisjes, jongens en tieners vanaf 12 jaar een boeiende bouwervaring waarbij ze alle fraaie details van dit LEGO hotel model in elkaar zetten
-- Ontdek meer verhalen over vriendschap – bekijk ook de andere bouwsets in het LEGO Friends universum (apart verkrijgbaar), waarmee kinderen diverse personages kunnen leren kennen terwijl ze avonturen uit het echte leven naspelen
 - Speelgoed kasteel van 3 verdiepingen met veel details – het gebouw omvat een receptie, ontbijtruimte, slaapkamer met tweepersoonsbed, grote slaapkamer, woonkamer, balkon, badkamer en een zolder
+- 4 LEGO Friends poppetjes en een hond – de set wordt geleverd met 4 minipoppetjes, waaronder hotelgasten LEGO Friends Zac, Olly en Aliya, elk met hun eigen koffer, plus hoteleigenaresse Renée en haar hond
+- Ontdek meer verhalen over vriendschap – bekijk ook de andere bouwsets in het LEGO Friends universum (apart verkrijgbaar), waarmee kinderen diverse personages kunnen leren kennen terwijl ze avonturen uit het echte leven naspelen
+- Een cadeautip voor kinderen – deze hotelspeelset is een geweldig cadeau voor meisjes, jongens, alle tieners die van bouwprojecten houden en graag hun eigen prachtige LEGO kasteel in elkaar willen zetten
 - Veel accessoires – deze set zit boordevol accessoires zoals koffers, ontbijtartikelen, voerbakken, handdoeken, zeep, een badeendje, telefoon, camera, paraplu, wereldbol, schatkist en nog veel meer
 
 [🛒 Buy it now!!]({{< param buyurl >}})

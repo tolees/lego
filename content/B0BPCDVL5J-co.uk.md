@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- For even more adventures kids can combine this set with LEGO Friends animal rescue sets 41736 and 41734 (sold separately) for more building fun
-- This airplane toy playset makes a fantastic birthday or other occasion gift for 6+ year old girls and boys who love sea animals and LEGO vehicles
 - The sea animal rescue toy for kids also includes a life jacket, paddleboard, paddle, walkie-talkies, binoculars, feeding bottle and a toy spanner
-- Enhance the experience with the LEGO Builder app, where little builders can zoom in and rotate models in 3D, save sets and track their progress
+- For even more adventures kids can combine this set with LEGO Friends animal rescue sets 41736 and 41734 (sold separately) for more building fun
 - The toy plane playset comes with LEGO Friends mini-dolls Zac and his mentor, Dia, plus a whale toy character for kids to rescue from the shoreline
 - Let kids express their creativity and enjoy sea animal rescue adventures as they build and play with this LEGO Friends Sea Rescue Plane toy set
+- Enhance the experience with the LEGO Builder app, where little builders can zoom in and rotate models in 3D, save sets and track their progress
+- This airplane toy playset makes a fantastic birthday or other occasion gift for 6+ year old girls and boys who love sea animals and LEGO vehicles
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCDVL5J{{</world>}}

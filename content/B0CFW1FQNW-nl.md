@@ -31,9 +31,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Inclusief 2 LEGO Friends mini poppetjes – inclusief Leo en Autumn LEGO Friends personages en een kalfje en speelgoed konijn zodat het spelen meteen kan beginnen
 - LEGO Friends Autumns schuur met kalfje – inclusief een bouwbare koeienstal, 2 minipoppetjes, een kalf, een konijn en veel dierenaccessoires voor meisjes, jongens en kinderen van 5 jaar en ouder
 - Ontdek meer LEGO Friends sets – bekijk ook de andere sets in het LEGO Friends assortiment voor nog meer plezier
+- Speel met het kalf en het konijntje – kinderen kunnen een schuur bouwen voor de koe en daarna het verhaal naspelen waarin Autumn en Leo voor het kalf zorgen en met het konijntje spelen
 - Dierenspeelgoedaccessoires – de set is inclusief diverse accessoires om het speelplezier te stimuleren, waaronder een borstel, emmer, gieter, hooi, voederbak en LEGO bloemen om de personages te versieren en insecten om te ontdekken
 - Leuk cadeau voor kinderen – dit creatieve dieren speelgoed voor kinderen is een leuk cadeau of verrassing voor bouwfans die dol zijn op rollenspellen en speelgoed boerderijdieren
-- Speel met het kalf en het konijntje – kinderen kunnen een schuur bouwen voor de koe en daarna het verhaal naspelen waarin Autumn en Leo voor het kalf zorgen en met het konijntje spelen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1FQNW{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The Harry Potter building toy features a posable head, ears, arms and fingers so kids can change his look, plus he can hold the brick-built accessories
-- Includes fun Harry Potter accessories: Aunt Petunia’s ‘floating’ pudding cake and a model of Tom Riddle’s diary with Harry Potter’s sock
+- Generations of fans build together – Enjoy spending a magical time with mum with this LEGO Harry Potter set, which makes a thoughtful Mothers Day gift
 - The Harry Potter character comes with a brick-built stand with a nameplate so he can be displayed as a Harry Potter bedroom accessory or decoration
 - The first LEGO Harry Potter buildable model of Dobby the House-Elf - fans can build one the most beloved characters in the Wizarding World!
-- Generations of fans build together – Enjoy spending a magical time with mum with this LEGO Harry Potter set, which makes a thoughtful Mothers Day gift
+- Includes fun Harry Potter accessories: Aunt Petunia’s ‘floating’ pudding cake and a model of Tom Riddle’s diary with Harry Potter’s sock
+- The Harry Potter building toy features a posable head, ears, arms and fingers so kids can change his look, plus he can hold the brick-built accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCBLRHB{{</world>}}

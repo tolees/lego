@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Reichlich Puppenhaus-Zubehör für Rollenspiele: Umfangreiches Zubehör, beispielsweise eine Gitarre, Zeichnungen, Küchengeräte und Essutensilien, lässt dein Kind viele Freundschafts- und Nachbarschaftsgeschichten darstellen
-- 8 LEGO Friends Figuren: Beinhaltet 5 Minipuppen, eine Mikropuppe, 2 Spielzeug-Haustiere und jede Menge Zubehör für viele verschiedene Freundschaftsgeschichten
-- Viele Freundschaftsgeschichten: Schau dir auch die anderen LEGO Friends Sets an, die Kinder Freundschaften schließen und spannende Orte entdecken lassen, an denen sie viele Alltagsabenteuer nachstellen können
-- 2 Puppenhaus-Familien: LEGO Friends Ollys und Paisleys Familien Haus lässt Mädchen und Jungen ab 7 Jahren, die Puppenhäuser lieben, viele Stunden kreativ spielen
 - 2 Häuser und ein Baumhaus-Spielzeug: Dieses Kinderspielzeug für Kinder besteht aus 2 zweigeschossigen Häusern mit umfangreicher Einrichtung und vielen Details im Außenbereich sowie aus einem Baumhaus, in dem sich die Spielfiguren treffen können
+- 2 Puppenhaus-Familien: LEGO Friends Ollys und Paisleys Familien Haus lässt Mädchen und Jungen ab 7 Jahren, die Puppenhäuser lieben, viele Stunden kreativ spielen
+- Reichlich Puppenhaus-Zubehör für Rollenspiele: Umfangreiches Zubehör, beispielsweise eine Gitarre, Zeichnungen, Küchengeräte und Essutensilien, lässt dein Kind viele Freundschafts- und Nachbarschaftsgeschichten darstellen
+- Viele Freundschaftsgeschichten: Schau dir auch die anderen LEGO Friends Sets an, die Kinder Freundschaften schließen und spannende Orte entdecken lassen, an denen sie viele Alltagsabenteuer nachstellen können
+- 8 LEGO Friends Figuren: Beinhaltet 5 Minipuppen, eine Mikropuppe, 2 Spielzeug-Haustiere und jede Menge Zubehör für viele verschiedene Freundschaftsgeschichten
 - Interaktives Spielzeug für Kinder, die Rollenspiele lieben: Dieses LEGO Friends Puppenhaus Set ist ein kreatives Geschenk für 7-jährige Mädchen und Jungen ab 7 Jahren; es eignet sich besonders als Geburtstags- oder Weihnachtsgeschenk für Kinder
 
 [🛒 Buy it now!!]({{< param buyurl >}})

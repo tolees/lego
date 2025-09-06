@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Navigate with ease – The LEGO Builder app guides kids on an intuitive building adventure, where they can save sets, track progress and zoom in and rotate models in 3D while they build
-- Adventures in engineering – Open the engine cover of the Volvo toy to inspect the 3 spinning gears
-- A vehicle toy with fun features – Kids can create their own construction site adventures as they raise, lower and tilt the shovel using the knob on top of the LEGO Technic loader toy
+- Pretend charging socket – The vehicle toy isn’t motorised so kids can use their imaginations as they lift and lower the charging station and pretend to charge the loader
 - Measurements – A 973-piece set with a loader toy model measuring over 14 cm (5.5 in.) high, 35 cm (13.5 in.) long and 11 cm (4.5 in.) wide
+- Navigate with ease – The LEGO Builder app guides kids on an intuitive building adventure, where they can save sets, track progress and zoom in and rotate models in 3D while they build
+- Construction toy for kids aged 9 and over – Give kids a fun building challenge as they assemble the details of this LEGO Technic Volvo L120 Electric Wheel Loader toy
+- A vehicle toy with fun features – Kids can create their own construction site adventures as they raise, lower and tilt the shovel using the knob on top of the LEGO Technic loader toy
 - An introduction to engineering – LEGO Technic buildable model sets (sold separately) feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
 - A gift for young builders – This set makes a great gift for kids who love construction site toys
-- Construction toy for kids aged 9 and over – Give kids a fun building challenge as they assemble the details of this LEGO Technic Volvo L120 Electric Wheel Loader toy
-- Pretend charging socket – The vehicle toy isn’t motorised so kids can use their imaginations as they lift and lower the charging station and pretend to charge the loader
+- Adventures in engineering – Open the engine cover of the Volvo toy to inspect the 3 spinning gears
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DRCWG11G{{</world>}}

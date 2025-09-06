@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Natuurlijke kunst aan de muur – gebruik de 644 LEGO stenen uit de set om een vrolijk tafereel te creëren met 2 kleurrijke LEGO papegaaien: de een zit op een bloeiende tak en de andere vliegt met gespreide vleugels
-- Een sociale bouwervaring – dit bouwpakket voor volwassenen bevat 2 bouwinstructies, zodat je het model samen met iemand anders kunt bouwen
-- Muurdecoratie – elke set geeft volwassenen de kans om hun eigen kunstwerk te creëren en te gebruiken als woondecoratie voor thuis of op kantoor
-- LEGO Art sets voor volwassenen – een creatief cadeau voor vrouwen of mannen, haar en hem, alle volwassen LEGO fans die ervan houden om helemaal op te gaan in een creatieve activiteit en een boeiend bouwproject op zich te nemen
-- Papegaaienkunstwerk – haal een stukje natuur in huis met deze Kleurrijke papegaaien set om te knutselen voor volwassenen
 - Hangend display – dit frameloze LEGO kunstwerk kan niet worden neergezet en is ontworpen om aan de muur te worden gehangen als wanddecoratie
+- Een sociale bouwervaring – dit bouwpakket voor volwassenen bevat 2 bouwinstructies, zodat je het model samen met iemand anders kunt bouwen
+- LEGO Art sets voor volwassenen – een creatief cadeau voor vrouwen of mannen, haar en hem, alle volwassen LEGO fans die ervan houden om helemaal op te gaan in een creatieve activiteit en een boeiend bouwproject op zich te nemen
+- Natuurlijke kunst aan de muur – gebruik de 644 LEGO stenen uit de set om een vrolijk tafereel te creëren met 2 kleurrijke LEGO papegaaien: de een zit op een bloeiende tak en de andere vliegt met gespreide vleugels
+- Papegaaienkunstwerk – haal een stukje natuur in huis met deze Kleurrijke papegaaien set om te knutselen voor volwassenen
+- Muurdecoratie – elke set geeft volwassenen de kans om hun eigen kunstwerk te creëren en te gebruiken als woondecoratie voor thuis of op kantoor
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYR1JY{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Batman action for ages 4 and up – LEGO DC Batmobile Pursuit: Batman vs. The Joker (76264) is designed to boost the imagination, dexterity and building confidence of kids ages 4 and up
 - Batman car toy – The Joker has stolen some money and kids must help Batman bring the Super Villain to justice with a little help from the Batmobile
+- Big enough for epic adventures – The Batmobile measures over 2 in. (6 cm) high, 6.5 in. (17 cm) long and 2.5 in. (7 cm) wide
 - Gift for kids ages 4 and up – This birthday, holiday or any-day treat is designed specially to support and strengthen the essential developmental skills of your young superhero
 - Iconic characters – This DC Super Hero playset includes Batman and The Joker and a buildable Batmobile toy with a large Starter Brick chassis so the build-and-play fun can start right away
-- Big enough for epic adventures – The Batmobile measures over 2 in. (6 cm) high, 6.5 in. (17 cm) long and 2.5 in. (7 cm) wide
-- Batman action for ages 4 and up – LEGO DC Batmobile Pursuit: Batman vs. The Joker (76264) is designed to boost the imagination, dexterity and building confidence of kids ages 4 and up
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BSRFSQ13{{</world>}}

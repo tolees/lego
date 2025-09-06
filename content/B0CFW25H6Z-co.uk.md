@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Role-play toys – The fully jointed Iron Spider-Man action figure has movable shoulder, arm, hip and leg joints to inspire imaginative play
 - Gift for young Super Heroes – Fans can show their passion for Spider-Man as they build, play with and display this LEGO Marvel Spider-Man playset
 - Spider-Man building toy – The posable LEGO Marvel Iron Spider-Man Construction Figure is ready for Super Hero action with boys and girls aged 8+
-- Role-play toys – The fully jointed Iron Spider-Man action figure has movable shoulder, arm, hip and leg joints to inspire imaginative play
-- Film-accurate details – Wearing high-tech Iron Spider-Man armour created by Tony Stark, the figure incorporates 4 fully articulated extra arms
 - Expand the Super Hero fun – There are more LEGO Marvel construction figures in the series to collect, sets sold separately
 - 3D instructions – Discover instructions in the LEGO Builder app where kids can zoom in and rotate models in 3D, track their progress and save sets
 - Gift for Marvel film lovers – This LEGO Spider-Man building toy makes a great Marvel-themed birthday gift for 8 plus year old boys, girls and fans of action and adventure from the Spider-Man Universe
+- Film-accurate details – Wearing high-tech Iron Spider-Man armour created by Tony Stark, the figure incorporates 4 fully articulated extra arms
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW25H6Z{{</world>}}

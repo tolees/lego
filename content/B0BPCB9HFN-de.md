@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Enthält außerdem authentisches Harry Potter Zubehör: den goldenen Schnatz, einen Quaffel, 2 Bludger, 2 Fledermäuse und einen Hauspokal
-- Diese abschließbare Truhe ist ein tragbares Reisespielzeug
 - Sie ist über 18 cm hoch und 18 cm breit und lässt sich daher leicht verstauen
+- Diese abschließbare Truhe ist ein tragbares Reisespielzeug
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCB9HFN{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MODELLBAU FÜR KINDER UND JUGENDLICHE: Das detailreiche Modell lässt sich gern ausstellen; Im Garten finden sich realistisch gestaltete Blumen, Bäume und Bienenstöcke, im Haus ein Laden und ein Schlafzimmer
-- LEGO MINIFIGUR UND DIGITALER BAULEITFADEN: Die LEGO Builder App unterstützt den Bauprozess mit 3D-Ansichten, Fortschrittsanzeige und digitaler Set-Verwaltung für ein reibungsloses Bauerlebnis
-- LEGO FÜR MÄDCHEN UND JUNGEN MIT FIGUREN: Mit den LEGO Friends Charakteren Paisley, Aliya, Oma Orla, Opa Terence sowie den Tieren Amos (Hase) und Peri (Katze) entstehen viele lustige Rollenspiele
-- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche LEGO Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - GESCHENK FÜR MÄDCHEN UND JUNGEN AB 12 JAHREN: Das Spielset ist ein kreatives Geburtstags- oder Überraschungsgeschenk für Kinder, die Tiere und Pflanzen lieben und ihre gebauten Szenen gern präsentieren
 - BAUMHAUS SPIELZEUG MIT BIENEN: Haus und Blumengarten der Imker ist ein Bauset für Kinder ab 12 Jahren mit 4 Spielfiguren, 2 LEGO Tierfiguren und viel Zubehör für kreative Naturgeschichten
+- MODELLBAU FÜR KINDER UND JUGENDLICHE: Das detailreiche Modell lässt sich gern ausstellen; Im Garten finden sich realistisch gestaltete Blumen, Bäume und Bienenstöcke, im Haus ein Laden und ein Schlafzimmer
 - SPIELZEUG MIT VIEL ZUBEHÖR: Steinchen mit Bienen und Marienkäfern, Gemüse wie Möhren, Tomaten und Grünkohl, eine Gießkanne, ein Kompostbehälter und mehr laden zum Erkunden ein
+- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche LEGO Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- LEGO FÜR MÄDCHEN UND JUNGEN MIT FIGUREN: Mit den LEGO Friends Charakteren Paisley, Aliya, Oma Orla, Opa Terence sowie den Tieren Amos (Hase) und Peri (Katze) entstehen viele lustige Rollenspiele
+- LEGO MINIFIGUR UND DIGITALER BAULEITFADEN: Die LEGO Builder App unterstützt den Bauprozess mit 3D-Ansichten, Fortschrittsanzeige und digitaler Set-Verwaltung für ein reibungsloses Bauerlebnis
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBCQLL{{</world>}}

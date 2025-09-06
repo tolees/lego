@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 4 Super Mario characters – LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) ride on Dorrie to defeat Cheep Cheep, Cheep Chomp and Blooper
-- Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
-- For interactive play, one of the Starter Course sets is needed, featuring the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
-- Gift for gamers – This 500-piece LEGO Super Mario set makes a fun birthday gift for 7+ year old boys, girls who love creative play with role-play toys and own a LEGO Super Mario starter course with iconic gaming characters
-- Interactive toy – Use an interactive figure to explore the shipwreck, spin the platform for the Key Block, and open the treasure chest for a gem
 - Collectible toy for kids – Get random rewards from the ? Block and see an interactive Super Mario figures reaction to being chomped by Cheep Chomp
 - Dorries Sunken Shipwreck Adventure Expansion Set – Add a treasure hunt to children’s world of LEGO Super Mario toy playset, featuring a shipwreck
+- Gift for gamers – This 500-piece LEGO Super Mario set makes a fun birthday gift for 7+ year old boys, girls who love creative play with role-play toys and own a LEGO Super Mario starter course with iconic gaming characters
+- Interactive toy – Use an interactive figure to explore the shipwreck, spin the platform for the Key Block, and open the treasure chest for a gem
+- For interactive play, one of the Starter Course sets is needed, featuring the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
+- Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
+- 4 Super Mario characters – LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) ride on Dorrie to defeat Cheep Cheep, Cheep Chomp and Blooper
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXN4V5{{</world>}}

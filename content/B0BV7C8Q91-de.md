@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Das Set LEGO Minecraft Die Kürbisfarm enthält ein baubares Minecraft-Spielzeughaus aus dem berüchtigten Sumpfbiom des Spiels mit klassischen Minecraft-Charakter-Figuren und coolem Zubehör
-- Machen Sie Minecraft- und Bauliebhabern ab 8 Jahren ein Geburtstags-, Weihnachts- oder sonstiges Geschenk mit diesem vielseitigen Minecraft-Set, mit dem Kinder, Jungen und Mädchen actiongeladene Abenteuer in der realen Welt erleben können
-- Mit diesem LEGO Minecraft-Set können Kinder ein kürbisförmiges Haus bauen, ein Kürbisbeet pflegen, gegen eine Zaubertrank schleudernde Hexe kämpfen, ein Spielzeug-Boot segeln und Zutaten kombinieren, um Kürbiskuchen zu „backen“
 - Minecraft-Fans können Steves kürbisförmiges Haus und das umliegende Kürbisbeet bauen und coole Details aus dem Spiel entdecken, wie eine Werkbank, einen Ofen, ein Froschlicht, ein Spielzeugboot und eine Schatztruhe mit einem Ei und Zucker
 - Das Set enthält einen der beliebtesten Minecraft-Charaktere, Steve, ausgestattet mit einer Hacke und einem Bogen, sowie eine Hexe mit Zaubertränken und einen Frosch mit Froschbrut
+- Mit diesem LEGO Minecraft-Set können Kinder ein kürbisförmiges Haus bauen, ein Kürbisbeet pflegen, gegen eine Zaubertrank schleudernde Hexe kämpfen, ein Spielzeug-Boot segeln und Zutaten kombinieren, um Kürbiskuchen zu „backen“
+- Machen Sie Minecraft- und Bauliebhabern ab 8 Jahren ein Geburtstags-, Weihnachts- oder sonstiges Geschenk mit diesem vielseitigen Minecraft-Set, mit dem Kinder, Jungen und Mädchen actiongeladene Abenteuer in der realen Welt erleben können
+- Das Set LEGO Minecraft Die Kürbisfarm enthält ein baubares Minecraft-Spielzeughaus aus dem berüchtigten Sumpfbiom des Spiels mit klassischen Minecraft-Charakter-Figuren und coolem Zubehör
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7C8Q91{{</world>}}

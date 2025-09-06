@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Minecraft gifts – This hands-on, building-and-action toy featuring Minecraft characters in a biome packed with play-and-display possibilities makes a great birthday gift for kids, boys and girls aged 6+ years old
-- LEGO Minecraft set – The first LEGO Minecraft toy set in the desert biome lets kids build a Minecraft house and defend it against flying Phantom
-- Minecraft building toy – Features familiar Minecraft elements, including a crafting table, shelter, campfire, enchanted axel and a small cactus
+- Building toy with Minecraft figures – Includes the popular Minecraft character Steve, Baby Camel animal toy and a flying Phantom with movable wings
 - Role-play toy – This Minecraft gift is easy to build and reconfigure, plus when the day’s play is over, kids can put it on display in their room
+- LEGO Minecraft gifts – This hands-on, building-and-action toy featuring Minecraft characters in a biome packed with play-and-display possibilities makes a great birthday gift for kids, boys and girls aged 6+ years old
+- Minecraft building toy – Features familiar Minecraft elements, including a crafting table, shelter, campfire, enchanted axel and a small cactus
 - Expand the fun – Theres wide range of LEGO Minecraft toys (sold separately) for kids to collect featuring iconic Minecraft characters and locations
 - Minecraft made real – LEGO Minecraft building toys for kids give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
-- Building toy with Minecraft figures – Includes the popular Minecraft character Steve, Baby Camel animal toy and a flying Phantom with movable wings
+- LEGO Minecraft set – The first LEGO Minecraft toy set in the desert biome lets kids build a Minecraft house and defend it against flying Phantom
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZSXP2{{</world>}}

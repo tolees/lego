@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 2 mini-dolls and accessories – The set comes with LEGO Friends characters Autumn and Aliya, plus 2 horse characters, a carriage and lots of horse-care accessories
-- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
-- Sized for young builders – The toy horse stable measures over 7.5 in. (19 cm) high, 11 in. (28 cm) wide and 5.5 in. (14 cm) deep
-- Look after the horses – The accessories help kids learn about caring for horses and include a pitchfork, shovel, brush, bucket and a hammer to check the horseshoes
-- A gift for horse lovers – Know a child who adores horses? This buildable stable set makes a great birthday gift idea for any horseback rider or animal lover aged 7 and up
 - Horse-care fun for kids aged 7+ – Young horse lovers can imagine caring for their own horses as they build and play with this fun LEGO Friends Autumn’s Horse Stable toy (41745)
+- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
+- 2 mini-dolls and accessories – The set comes with LEGO Friends characters Autumn and Aliya, plus 2 horse characters, a carriage and lots of horse-care accessories
 - Let’s take a ride! – The set includes a carriage with space for both mini-dolls. There’s also an obstacle for the horses to jump over and lots of horse-care accessories
+- Sized for young builders – The toy horse stable measures over 7.5 in. (19 cm) high, 11 in. (28 cm) wide and 5.5 in. (14 cm) deep
+- A gift for horse lovers – Know a child who adores horses? This buildable stable set makes a great birthday gift idea for any horseback rider or animal lover aged 7 and up
+- Look after the horses – The accessories help kids learn about caring for horses and include a pitchfork, shovel, brush, bucket and a hammer to check the horseshoes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSR8RBBC{{</world>}}

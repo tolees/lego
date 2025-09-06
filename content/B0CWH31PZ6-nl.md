@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Grotere race-avonturen – er zijn nog veel meer LEGO Speed Champions autospeelsets met authentieke details (apart verkrijgbaar)
-- Authentieke Lamborghini details – de LEGO auto heeft een cockpit, een tweedelige achtervleugel, zeshoekige details op de velgen, dubbele uitlaatpijpen, Gran Turismo logos en Y-vormige achterlichten
-- Rollenspel cadeau voor jongens en meisjes– dit speelgoed auto bouwpakket biedt een leuke bouw- en speelervaring en is een leuk LEGO cadeau voor kinderen vanaf 10 jaar of volwassen verzamelaars van modelautos
-- Fraai displaymodel – nadat kinderen en autofans hebben genoten van het naspelen van verhalen met het Lamborghini model, kunnen ze het op een plank of nachtkastje neerzetten als kinderkamer decoratie
 - Modellen van bekende voertuigen om mee te spelen en neer te zetten – met LEGO Speed Champions autobouwpakketten kunnen kinderen en autoliefhebbers replicaversies bouwen van een aantal beroemde voertuigen
+- Fraai displaymodel – nadat kinderen en autofans hebben genoten van het naspelen van verhalen met het Lamborghini model, kunnen ze het op een plank of nachtkastje neerzetten als kinderkamer decoratie
+- Grotere race-avonturen – er zijn nog veel meer LEGO Speed Champions autospeelsets met authentieke details (apart verkrijgbaar)
 - 1 minifiguur – de autospeelset bevat een minifiguur van een coureur in een Gran Turismo outfit en een helm, die kinderen in de cockpit kunnen plaatsen om races na te spelen
 - Lamborghini auto speelgoed voor kinderen – LEGO Speed Champions Lamborghini Lambo V12 Vision GT supercar speelgoed auto voor jongens en meisjes vanaf 10 jaar, gamers en fans van het automerk
+- Rollenspel cadeau voor jongens en meisjes– dit speelgoed auto bouwpakket biedt een leuke bouw- en speelervaring en is een leuk LEGO cadeau voor kinderen vanaf 10 jaar of volwassen verzamelaars van modelautos
+- Authentieke Lamborghini details – de LEGO auto heeft een cockpit, een tweedelige achtervleugel, zeshoekige details op de velgen, dubbele uitlaatpijpen, Gran Turismo logos en Y-vormige achterlichten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH31PZ6{{</world>}}

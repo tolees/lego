@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- The LEGO Creator 3-in-1 Supersonic Jet building set has 3 models in 1: a jet plane, a toy helicopter and a speed boat toy
 - . Helicopter toy Comes with rotating blades, and the speed boat has 2 super fast motors for air travel or water adventures.
+- The LEGO Creator 3-in-1 Supersonic Jet building set has 3 models in 1: a jet plane, a toy helicopter and a speed boat toy
 - LEGO fans can perform stunts in the air with the LEGO models of the jet plane and helicopter or run on the water with the power boat
 - . With the LEGO Building Instructions app, children can use a digital version of their model on their smartphones or tablets Zoom, rotate and visualize.Check out more LEGO Creator 3-in-1 sets: Super Robot 31124, Fantasy Forest Creatures 31125 and Off-Road Buggy 31123.LEGO Creator 3-in-1 building toy for kids aged 7 and up brings triple fun and makes great gifts for kids who love creative fun with LEGO bricks
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09JKY3WBJ{{</world>}}

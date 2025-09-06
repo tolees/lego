@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Cadeau voor peuters – maak indruk op peuters die dol zijn op Peppa Big en waterspeelgoed met dit leuke cadeau voor meisjes en jongens
 - Peppa Big speelgoed helpt peuters om vrolijk strandplezier te beleven – Peppa smeert zich in met zonnebrandcrème voordat ze een zandkasteel bouwt met haar schep, schelpen verzamelt in haar emmer en gaat zwemmen met haar zwemvliezen
-- Drijvend waterspeelgoed – dit Peppa Big speelgoed drijft echt, zodat peuters kunnen genieten van plezier in het water met hun favoriete tv-personage
-- Fantasiespeelset met strandthema en speelgoed boot – peuters vanaf 2 jaar gaan op een strandavontuur met de LEGO DUPLO Peppa Big bootreis set, geïnspireerd op de Peppa Big tv-serie
-- Badspeelgoed met 2 Peppa Big figuren – wordt geleverd met Opa en Peppa Big personages figuren, een bouwbare en drijvende speelgoed boot, plus veel creatieve accessoires voor eindeloze verhalen
 - Educatief speelgoed voor jonge kinderen – LEGO DUPLO speelgoed ondersteunt de fijne motoriek en emotionele ontwikkeling door middel van creatieve rollenspellen
+- Drijvend waterspeelgoed – dit Peppa Big speelgoed drijft echt, zodat peuters kunnen genieten van plezier in het water met hun favoriete tv-personage
 - Hoogwaardige sets – LEGO DUPLO Peppa Big sets om te bouwen en herbouwen bestaan uit stenen en elementen die tot het uiterste zijn getest om ervoor te zorgen dat ze voldoen aan hoge kindveiligheidsnormen
+- Badspeelgoed met 2 Peppa Big figuren – wordt geleverd met Opa en Peppa Big personages figuren, een bouwbare en drijvende speelgoed boot, plus veel creatieve accessoires voor eindeloze verhalen
+- Fantasiespeelset met strandthema en speelgoed boot – peuters vanaf 2 jaar gaan op een strandavontuur met de LEGO DUPLO Peppa Big bootreis set, geïnspireerd op de Peppa Big tv-serie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N2PLV1W{{</world>}}

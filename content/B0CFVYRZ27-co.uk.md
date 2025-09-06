@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - What’s in this LEGO vehicle set? – Includes everything kids need to build a race truck toy, race car toy and 2 driver minifigures for fun role play
-- Interactive guide – Discover the LEGO Builder app where kids can zoom in and rotate models in 3D, track progress and save virtual playsets
-- LEGO race car transporter – Boys and girls aged 6+ can enjoy hours of play with this LEGO City Race Car and Car Carrier Truck building toys set
-- LEGO car transporter – Kids lower the race truck’s ramp to load up the race car toy before heading to the racetrack for exciting racing action
 - Fun gift for kids – This building toy set makes a fun gift for 6+ year old boys, girls and kids who love racing cars, truck toys and LEGO vehicles
+- LEGO car transporter – Kids lower the race truck’s ramp to load up the race car toy before heading to the racetrack for exciting racing action
+- LEGO race car transporter – Boys and girls aged 6+ can enjoy hours of play with this LEGO City Race Car and Car Carrier Truck building toys set
+- Interactive guide – Discover the LEGO Builder app where kids can zoom in and rotate models in 3D, track progress and save virtual playsets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYRZ27{{</world>}}

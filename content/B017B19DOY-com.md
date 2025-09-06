@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The included booklet contains information about the designer, architecture and history of each building, as well as historical facts about New York City and its architectural heritage (English language only)
-- Features the Flatiron Building, Chrysler Building, Empire State Building, One World Trade Center and the Statue of Liberty
 - Includes a 4x32 tiled base with decorative New York City nameplate
+- Features the Flatiron Building, Chrysler Building, Empire State Building, One World Trade Center and the Statue of Liberty
+- The included booklet contains information about the designer, architecture and history of each building, as well as historical facts about New York City and its architectural heritage (English language only)
 - Measures 10 (26cm) high, 9 (25cm) wide and 1 (4cm) deep
 
 [🛒 Check the deal!!]({{< param buyurl >}})

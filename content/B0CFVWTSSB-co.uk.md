@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Animal Crossing sets include digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this set
+- Animal Crossing gift – This set makes a special occasion or birthday gift for 7-plus-year-old girls, boys and kids who are fans of the video game series
 - Buildable Animal Crossing toy – Visit Nook’s Cranny to shop for tools or borrow Bells, then drop by at Rosie’s house for cupcakes
 - Customisable set – Building toy for kids comes with Rosie and Tom Nook minifigures, 2 iconic Animal Crossing buildings and interchangeable baseplates
 - Story starters – Includes lots of iconic elements: a DIY recipe card, bulletin board, cupcake, fish bait, plus a tree with a surprise inside
 - Nook’s Cranny & Rosie’s House set – Animal Crossing buildable toy for 7+ year old girls and boys who are fans of the video game series
-- Animal Crossing gift – This set makes a special occasion or birthday gift for 7-plus-year-old girls, boys and kids who are fans of the video game series
-- Animal Crossing sets include digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTSSB{{</world>}}

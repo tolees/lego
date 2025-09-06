@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Op de natuur geïnspireerd project – de set biedt een boeiend project voor natuur- of plantenliefhebbers die het leuk zullen vinden om de LEGO plant te bouwen en het levensechte uiterlijk te bewonderen
-- Bouw meer bloemen – deze bouwbare kunstplant kan worden gecombineerd met andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection, waaronder andere bomen en LEGO bloemen
-- LEGO Bonsai met herfstkleuren – deze LEGO boom is uitgevoerd met levendige rode en oranje bladeren en staat in een donkergroene plantenpot om hem gemakkelijk neer te kunnen zetten als huis of kantoor decoratie
 - Cadeau voor vrouwen en mannen – deze LEGO voor volwassenen is een geweldig cadeau voor een housewarming, Valentijnsdag of een verjaardag voor mannen, vrouwen en plantenliefhebbers
-- LEGO bonsaiboompje – ontspan je en kom tot rust met het LEGO Botanicals Japanse esdoorn bonsaiboompje bouwpakket voor volwassenen, boordevol authentieke details
-- Planten decoratie – breng een vleugje rust naar je woon- of werkruimte met deze decoratieve LEGO bonsai voor thuis of op kantoor, die nooit zal verwelken of water nodig heeft
+- Bouw meer bloemen – deze bouwbare kunstplant kan worden gecombineerd met andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection, waaronder andere bomen en LEGO bloemen
 - LEGO Builder app – deze DIY set bevat gedrukte en digitale versies van de bouwinstructies voor een boeiende bouwervaring
+- Planten decoratie – breng een vleugje rust naar je woon- of werkruimte met deze decoratieve LEGO bonsai voor thuis of op kantoor, die nooit zal verwelken of water nodig heeft
+- LEGO Bonsai met herfstkleuren – deze LEGO boom is uitgevoerd met levendige rode en oranje bladeren en staat in een donkergroene plantenpot om hem gemakkelijk neer te kunnen zetten als huis of kantoor decoratie
+- Op de natuur geïnspireerd project – de set biedt een boeiend project voor natuur- of plantenliefhebbers die het leuk zullen vinden om de LEGO plant te bouwen en het levensechte uiterlijk te bewonderen
+- LEGO bonsaiboompje – ontspan je en kom tot rust met het LEGO Botanicals Japanse esdoorn bonsaiboompje bouwpakket voor volwassenen, boordevol authentieke details
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF6VKYB{{</world>}}

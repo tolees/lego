@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 2 houses and a tree toy house – The set includes 2 two-storey LEGO houses with lots of interior and exterior details, plus a tree house to hang out
 - Doll’s house family set – LEGO Friends Olly and Paisley’s Family Houses buildable toy for 7+ year old girls, boys and kids who love role-play toys
 - A toy for kids who love role-play fun – This LEGO Friends building set makes a creative birthday gift idea for 7+ year old girls, boys and kids
 - Role-play toys with doll house accessories – A guitar, drawings, kitchen and dining elements spark different family and neighbour stories
+- 2 houses and a tree toy house – The set includes 2 two-storey LEGO houses with lots of interior and exterior details, plus a tree house to hang out
 - 8 LEGO Friends characters – Comes with 5 mini-dolls, including Paisley, a micro-doll, 2 pet toys and accessories to inspire friendship stories
 
 [🛒 Buy it now!!]({{< param buyurl >}})

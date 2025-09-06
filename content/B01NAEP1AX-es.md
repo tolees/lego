@@ -30,10 +30,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Maqueta de coche LEGO con funciones: La maqueta de coche de carreras de F1 LEGO Icons Williams Racing FW14B cuenta con mecanismo de dirección, neumáticos traseros lisos de gran anchura con la inscripción “Goodyear” y un detallado motor
 - Más acción de la F1 a gran velocidad con las maquetas para adultos LEGO: Descubre los demás kits de construcción para adultos LEGO basados en la F1 (a la venta por separado) para construir, exponer y competir con toda la familia
-- LEGO coche de carreras de F1: El set de coche LEGO cuenta con un monoplaza Williams Racing FW14B de F1 LEGO y una minifigura de Nigel Mansell, además de una base de exposición, un podio, un casco para el piloto de F1 y un trofeo
-- Decoración de escritorio para el hogar o la oficina: Con una base para exponer la maqueta del coche de Fórmula 1 Williams Racing FW14B (con datos y estadísticas) y una minifigura de Nigel Mansell (con podio decorado con foto y una frase del piloto)
 - Maqueta para construir para adultos de un coche de carreras de F1: Rinde homenaje a la historia de la F1 con el coche de Fórmula 1 LEGO Icons Williams Racing FW14B y Nigel Mansell para fans del automovilismo y los vehículos legendarios
+- LEGO coche de carreras de F1: El set de coche LEGO cuenta con un monoplaza Williams Racing FW14B de F1 LEGO y una minifigura de Nigel Mansell, además de una base de exposición, un podio, un casco para el piloto de F1 y un trofeo
 - Regalos LEGO para hombres y mujeres fans de la F1: Celebra un cumpleaños o una ocasión especial de un hombre, mujer o padre fan del automovilismo con este kit de construcción para adultos LEGO de una maqueta de coche de F1 para coleccionar
+- Decoración de escritorio para el hogar o la oficina: Con una base para exponer la maqueta del coche de Fórmula 1 Williams Racing FW14B (con datos y estadísticas) y una minifigura de Nigel Mansell (con podio decorado con foto y una frase del piloto)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01NAEP1AX{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief 2 LEGO Friends minipoppetjes en 4 micropoppetjes – deze fantasieschool wordt geleverd met de LEGO Friends personages Liann en Colette, die voor Basem, Victoria, Peter en Alba zorgen, plus een speelgoed konijntje
+- Fantasiespel in een klaslokaal voor meisjes en jongens vanaf 4 jaar – de Heartlake City kleuterschool bestaat uit een bouwbare kleuterschool, een wipwap, glijbaan, kunstruimte, klaslokaal en een daktuin
+- Educatief speelgoed voor kinderen – oefen samen met je kleintje sociale vaardigheden en geniet van creatief speelplezier met de personages, die hun emoties, de natuur en vriendschappen ontdekken
 - Kleuterschoolspeelset met accessoires – inclusief een piratenhoed, speelgoed, borden, mokken, tussendoortjes, een verfpalet, vergrootglas, kwast en een gieter, plus een kikker, lieveheersbeestje en bij
 - Leuk cadeau voor kinderen – deze schoolspeelset is een leuk cadeau voor meisjes en jongens van 4 jaar en ouder, met LEGO Friends poppetjes en accessoires die het vertellen van verhalen en rollenspellen stimuleren
-- Educatief speelgoed voor kinderen – oefen samen met je kleintje sociale vaardigheden en geniet van creatief speelplezier met de personages, die hun emoties, de natuur en vriendschappen ontdekken
-- Fantasiespel in een klaslokaal voor meisjes en jongens vanaf 4 jaar – de Heartlake City kleuterschool bestaat uit een bouwbare kleuterschool, een wipwap, glijbaan, kunstruimte, klaslokaal en een daktuin
+- Inclusief 2 LEGO Friends minipoppetjes en 4 micropoppetjes – deze fantasieschool wordt geleverd met de LEGO Friends personages Liann en Colette, die voor Basem, Victoria, Peter en Alba zorgen, plus een speelgoed konijntje
 - Ontdek meer LEGO sets en vriendschapsverhalen – bekijk ook het andere speelgoed (apart verkrijgbaar) in het LEGO Friends assortiment, waarmee kinderen kunnen genieten van het bouwen van levensechte avonturen voor diverse personages
 
 [🛒 Buy it!!]({{< param buyurl >}})

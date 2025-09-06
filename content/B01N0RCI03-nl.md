@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Diverse stenen voor kinderen – inclusief ideeën voor 10 snel te bouwen modellen waar elk kind vrolijk van zal worden. De modellen kunnen worden omgebouwd tot 12 nieuwe speeltjes en verder worden aangepast voor nog meer creaties
+- Doen alsof – de gids bevat inspiratie voor modellen waaronder een aap, markeerstift, sneeuwpop, regenbooghuis, drol, bij, camera, verjaardagstaart, kat, cactus, regenbooghart en vogel
+- 680-delige set – de smiley is ca. 11 cm breed, het huis is ca. 7 cm hoog en de krab is ca. 8 cm breed
 - Felgekleurde bouwstenen – de Creatieve knutseldoos voor kinderen is een LEGO doos boordevol vrolijke kleuren, bouwbare speelgoedmodellen en creatieve mogelijkheden voor meisjes en jongens vanaf 5 jaar
 - Creatief plezier – de voltooide modellen zijn leuk om mee te spelen en handig om te gebruiken. Je kunt sommige modellen aan de muur hangen en andere gebruiken om een potlood of tandenborstel vast te houden
-- Cadeau voor kinderen vanaf 5 jaar – dit eindeloos veelzijdige speelgoed is een kleurrijke en creatieve traktatie die is ontworpen om de fantasie van kinderen jarenlang te inspireren
-- Diverse stenen voor kinderen – inclusief ideeën voor 10 snel te bouwen modellen waar elk kind vrolijk van zal worden. De modellen kunnen worden omgebouwd tot 12 nieuwe speeltjes en verder worden aangepast voor nog meer creaties
-- 680-delige set – de smiley is ca. 11 cm breed, het huis is ca. 7 cm hoog en de krab is ca. 8 cm breed
 - Bouwen aan vaardigheden – LEGO Classic speelgoed zit vol ideeën en inspiratie waarmee ouders bouwplezier en mijlpalen in de ontwikkeling met hun kinderen kunnen delen
-- Doen alsof – de gids bevat inspiratie voor modellen waaronder een aap, markeerstift, sneeuwpop, regenbooghuis, drol, bij, camera, verjaardagstaart, kat, cactus, regenbooghart en vogel
+- Cadeau voor kinderen vanaf 5 jaar – dit eindeloos veelzijdige speelgoed is een kleurrijke en creatieve traktatie die is ontworpen om de fantasie van kinderen jarenlang te inspireren
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N0RCI03{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Harry Potter Hogwarts Castle toy for kids is part of a series of modular sets that combine to create a complete Hogwarts Castle
 - Kids can discover fun features such as a buildable Fiendfyre figure that can be rebuilt into a fire serpent, a Cornish Pixie and lots more
 - The buildable castle toy for 8-plus-year-old girls and boys opens for easy play and includes a removable upper-level room for the Grey Lady, plus accessories and diadem element
 - Includes 5 LEGO Harry Potter minifigures: Harry, Hermione Granger, Draco Malfoy, Blaise Zabini with wands and broomsticks and the Grey Lady
-- LEGO Hogwarts Castle buildable toy features the Room of Requirement inspired by an iconic Harry Potter and the Deathly Hallows - Part 2 scene
+- This LEGO Harry Potter Hogwarts Castle toy for kids is part of a series of modular sets that combine to create a complete Hogwarts Castle
 - Makes a magical gift for 8-plus-year-old boys, girls and kids who love the wizarding world or those looking for their next exciting LEGO building challenge
+- LEGO Hogwarts Castle buildable toy features the Room of Requirement inspired by an iconic Harry Potter and the Deathly Hallows - Part 2 scene
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRZFMR5{{</world>}}

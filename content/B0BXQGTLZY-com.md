@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 dragon toys – The premium playset includes a posable elemental dragon nesting at the front of the airship to help power it, plus a model of Baby Riyu
 - LEGO NINJAGO airship – Boys and Girls ages 9+ can play out aerial adventures with this newly updated Destiny’s Bounty – race against time airship playset (71797)
-- 6 minifigures – The airship comes with Master Wu, Arin, Sora, Lloyd, Kai and Rapton minifigures, all of which are armed with at least 1 weapon for role-play battles
 - Build and play – Kids ages 9+ can enjoy a fun-filled building experience with this set’s 1,739 pieces before flying into the skies above the new NINJAGO world
-- Removable roof – Lift off the roof to reveal a navigation room and a playroom with an arcade machine for the ninja
 - Gift idea for creative kids – This updated ninja vehicle measures over 9 in. (23 cm) high, 20.5 in. (53 cm) long and 12 in. (31 cm) wide and can be given to kids as a birthday present or holiday gift
 - Airship functions – The updated Destiny’s Bounty battleship includes stud shooters in the back, adjustable sails and 360-degree rotating engines
+- 6 minifigures – The airship comes with Master Wu, Arin, Sora, Lloyd, Kai and Rapton minifigures, all of which are armed with at least 1 weapon for role-play battles
+- Removable roof – Lift off the roof to reveal a navigation room and a playroom with an arcade machine for the ninja
+- 2 dragon toys – The premium playset includes a posable elemental dragon nesting at the front of the airship to help power it, plus a model of Baby Riyu
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BXQGTLZY{{</world>}}

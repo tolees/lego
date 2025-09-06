@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2-in-1 LEGO Harry Potter Expecto Patronum build and display set (76414) – Choose whether to build either Harry Potter’s stag Patronus or Professor Remus Lupin’s wolf Patronus
-- 2 LEGO minifigures – Remus Lupin and Harry Potter with a wand accessory element. Attach LEGO elements to the wand to create a ‘spell-casting’ effect
-- Stag Patronus – Features posable legs, translucent light-blue elements for a ghostly look and an integrated display stand that has decorative elements and space for the Harry Potter minifigure
-- Birthday gift idea for ages 14 and up – Give this 754-piece LEGO building set as a surprise treat, birthday present or holiday gift to fans of Harry Potter and the Wizarding World
-- Rebuild into the wolf Patronus – Use the same bricks to create a posable wolf Patronus and a display stand for the Remus Lupin minifigure
-- A helping hand – Discover intuitive instructions in the LEGO Builder app where you can zoom in and rotate models in 3D, track progress and save sets
 - Designed for display – The buildable stag Patronus model measures over 11.5 in. (29 cm) high, 8.5 in. (22 cm) long and 4 in. (11 cm) wide
+- Birthday gift idea for ages 14 and up – Give this 754-piece LEGO building set as a surprise treat, birthday present or holiday gift to fans of Harry Potter and the Wizarding World
+- A helping hand – Discover intuitive instructions in the LEGO Builder app where you can zoom in and rotate models in 3D, track progress and save sets
+- 2-in-1 LEGO Harry Potter Expecto Patronum build and display set (76414) – Choose whether to build either Harry Potter’s stag Patronus or Professor Remus Lupin’s wolf Patronus
+- Stag Patronus – Features posable legs, translucent light-blue elements for a ghostly look and an integrated display stand that has decorative elements and space for the Harry Potter minifigure
+- Rebuild into the wolf Patronus – Use the same bricks to create a posable wolf Patronus and a display stand for the Remus Lupin minifigure
+- 2 LEGO minifigures – Remus Lupin and Harry Potter with a wand accessory element. Attach LEGO elements to the wand to create a ‘spell-casting’ effect
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRDPYZ6{{</world>}}

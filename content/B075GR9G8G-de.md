@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Als Zubehör sind 8 Cupcakes, ein Bild, ein Stiftelement, 2 Partyhüte, ein Teller, ein Kuchenstück, eine Blume, eine Schleife und 2 zu öffnende Geschenkschachteln enthalten
-- Enthält eine Parkszene mit Bogen, baubaren Ballons und Wippe sowie einen Stand mit einem baubaren Kuchen sowie eine Schubkarre
-- Enthält die Spielfigur Emma sowie die Katerfigur Chico
 - Geh eine Runde Wippen und hilf Chico dann, seine Geschenke auszupacken
 - Belade die Schubkarre mit all den Dingen, die man für eine tolle Geburtstagsparty braucht! Verziere mit Emma den Geburtstagskuchen für Chico
+- Enthält eine Parkszene mit Bogen, baubaren Ballons und Wippe sowie einen Stand mit einem baubaren Kuchen sowie eine Schubkarre
+- Als Zubehör sind 8 Cupcakes, ein Bild, ein Stiftelement, 2 Partyhüte, ein Teller, ein Kuchenstück, eine Blume, eine Schleife und 2 zu öffnende Geschenkschachteln enthalten
+- Enthält die Spielfigur Emma sowie die Katerfigur Chico
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B075GR9G8G{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Jeder Beutel in der Box dieses leicht zu bauenden LEGO Sets enthält Steine für ein Modell und eine Figur zum Bauen, damit die Kinder rasch zu spielen beginnen können
+- Mit der LEGO Builder App können die Kinder das Modell während des Bauens vergrößern, drehen und in 3D betrachten
+- Kinder können einen LEGO NINJAGO Dojo Hindernisparcours mit 3 interaktiven Stationen, 2 kreiselnden Boxsäcken und einer bewaffneten rotierenden Trainingsattrappe bauen
+- Die LEGO NINJAGO Kreative Ninja Steinebox enthält Elemente zum Bau eines Ninja-Trainingszentrums sowie eine Aufbewahrungsbox und LEGO Steine
 - Außerdem bauen Kinder ein LEGO NINJAGO Ninja-Auto, ein Ninja-Motorrad und eine Waffenkammer voller Ninja-Ausrüstung, um Action-Szenarien im Ninja-Stil nachzuspielen
 - Das LEGO NINJAGO Steinebox Bau- und Spielset mit coolen Fahrzeugen und Figuren ist ein tolles Geburtstags-, oder Überraschungsgeschenk für Kinder ab 5 Jahren
-- Mit der LEGO Builder App können die Kinder das Modell während des Bauens vergrößern, drehen und in 3D betrachten
-- Die LEGO NINJAGO Kreative Ninja Steinebox enthält Elemente zum Bau eines Ninja-Trainingszentrums sowie eine Aufbewahrungsbox und LEGO Steine
-- Kinder können einen LEGO NINJAGO Dojo Hindernisparcours mit 3 interaktiven Stationen, 2 kreiselnden Boxsäcken und einer bewaffneten rotierenden Trainingsattrappe bauen
+- Jeder Beutel in der Box dieses leicht zu bauenden LEGO Sets enthält Steine für ein Modell und eine Figur zum Bauen, damit die Kinder rasch zu spielen beginnen können
 - Mit den beiliegenden LEGO Steinen können Kinder ihre eigenen Gebäude und Fahrzeuge bauen, Bauvorschläge für kreative Anregungen liegen bei
 
 [🛒 Buy it!!]({{< param buyurl >}})

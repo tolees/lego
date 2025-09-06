@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ce modèle des Gardiens de la Galaxie est facile à positionner et a fière allure dans les chambres denfants ou dans une collection LEGO Marvel
 - La figurine à construire orange de Rocket a des bras, des jambes et des doigts entièrement articulés, ainsi quun blaster à 6 tenons de très grande taille
-- Surprends les fans des Super-Héros de Marvel et des Gardiens de la Galaxie avec cette figurine LEGO Marvel Lâ€Armure Robot de Rocket à construire et qui peut prendre différentes poses
 - Le cockpit du mech peut être ouvert pour placer la minifigurine Rocket à lintérieur ; cet ensemble LEGO Super Heroes comprend également un élément darme blaster
 - Découvrez dautres figurines LEGO Marvel Avengers à collectionner : LEGO Marvel Lâ€Armure Robot de Thanos (76242) ou LEGO Marvel Lâ€Armure Robot de Hulk (76241)
+- Surprends les fans des Super-Héros de Marvel et des Gardiens de la Galaxie avec cette figurine LEGO Marvel Lâ€Armure Robot de Rocket à construire et qui peut prendre différentes poses
+- Ce modèle des Gardiens de la Galaxie est facile à positionner et a fière allure dans les chambres denfants ou dans une collection LEGO Marvel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZHB6Z{{</world>}}

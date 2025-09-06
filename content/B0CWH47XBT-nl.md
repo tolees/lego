@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 1 minifiguur – het Chevy verzamelmodel is inclusief een minifiguur van een NASCAR coureur met een helm die kinderen achter het stuur kunnen plaatsen om hun eigen NASCAR races na te spelen
-- Grotere race-avonturen – er zijn nog veel meer LEGO Speed Champions autospeelsets met realistische details (apart verkrijgbaar)
-- LEGO displaymodel van een speelgoedauto – nadat kinderen de auto hebben gebouwd en ermee hebben geracet, kunnen ze het model vol trots op een plank of nachtkastje neerzetten
 - Authentieke Chevrolet details – de NASCAR Next Gen Chevrolet Camaro ZL1 raceauto heeft een opvallende achterspoiler, grille, koplampen en realistische interieurdetails
 - NASCAR auto speelgoed voor kinderen – LEGO Speed Champions NASCAR Next Gen Chevrolet Camaro ZL1 speelgoed auto voor jongens en meisjes vanaf 9 jaar en NASCAR fans
+- LEGO displaymodel van een speelgoedauto – nadat kinderen de auto hebben gebouwd en ermee hebben geracet, kunnen ze het model vol trots op een plank of nachtkastje neerzetten
+- 1 minifiguur – het Chevy verzamelmodel is inclusief een minifiguur van een NASCAR coureur met een helm die kinderen achter het stuur kunnen plaatsen om hun eigen NASCAR races na te spelen
 - Cadeau voor jongens en meisjes– deze NASCAR speelset biedt een leuke bouw- en speelervaring en is een cadeautip voor kinderen vanaf 9 jaar, NASCAR fans en volwassen verzamelaars van automodellen
 - Modellen van bekende autos om mee te spelen en neer te zetten – met LEGO Speed Champions bouwsets kunnen kinderen en autoliefhebbers replicaversies bouwen van een aantal beroemde voertuigen
+- Grotere race-avonturen – er zijn nog veel meer LEGO Speed Champions autospeelsets met realistische details (apart verkrijgbaar)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH47XBT{{</world>}}

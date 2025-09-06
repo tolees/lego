@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
 - Bouw de functies van deze hypercar – bouwers verkennen verschillende technische concepten terwijl ze de gelede V8-motor en het differentieel van de speelgoed auto in elkaar zetten voordat ze de besturing testen
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
 - Cadeau voor autoliefhebbers – dit auto bouwpakket is een geweldig cadeau voor jongens en meisjes, alle kinderen die van voertuigen en rollenspellen houden en een modelversie willen bouwen van een van de snelste straatautos ter wereld
 - Realistisch deurontwerp – het LEGO auto model is voorzien van een dihedral synchro-helix-deursysteem waarmee de deuren 90 graden kunnen draaien terwijl ze naar buiten bewegen, net als bij de echte auto
 - Een hypercar speelset voor kinderen vanaf 10 jaar – dit LEGO Technic Koenigsegg Jesko Absolut grijze hypercar bouwpakket voor kinderen heeft authentieke details waar jonge autoliefhebbers weg van zullen zijn
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWGZTRKJ{{</world>}}

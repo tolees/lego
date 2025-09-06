@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creative toys – 2 buildable dresses with stands, plus a stand with space for the Maleficent and Cruella De Vil LEGO ǀ Disney Princess mini dolls
-- Disney building toys – Featuring LEGO ǀ Disney characters, 2 buildable dresses and a display stand, this set fosters a love for fashion and life skills through play
-- Fashion building toys for 9+ year old girls and boys – Inspire kids with a creative Maleficent’s and Cruella De Vil’s Dresses LEGO building set
-- Fun extras – Customisable stand showcases one brick-built dress with extra elements for designs and 2 profile tiles to decorate the outside
-- A helping hand – Discover intuitive instructions in the LEGO Builder app with tools to zoom in and rotate models in 3D, track progress and save sets
 - Disney-themed gift idea – This detailed building kit makes a fun gift for 9+ year old girls and boys who love dress-up play and Disney villains
+- A helping hand – Discover intuitive instructions in the LEGO Builder app with tools to zoom in and rotate models in 3D, track progress and save sets
+- Creative toys – 2 buildable dresses with stands, plus a stand with space for the Maleficent and Cruella De Vil LEGO ǀ Disney Princess mini dolls
+- Fun extras – Customisable stand showcases one brick-built dress with extra elements for designs and 2 profile tiles to decorate the outside
+- Fashion building toys for 9+ year old girls and boys – Inspire kids with a creative Maleficent’s and Cruella De Vil’s Dresses LEGO building set
+- Disney building toys – Featuring LEGO ǀ Disney characters, 2 buildable dresses and a display stand, this set fosters a love for fashion and life skills through play
 - Buildable Disney toys – Fans build dresses and stands, play with LEGO ǀ Disney mini dolls and animal figures, then display their favourite dress
 
 [🛒 Check the deal!!]({{< param buyurl >}})

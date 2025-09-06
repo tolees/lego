@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Flower gift – This building set is a great nature-inspired birthday gift for 9+ girls, as well as teenagers and women who are looking for a smaller LEGO flowers set to add to their existing bouquet
-- Build more blooms – The brick-built LEGO flower bouquet can be combined with other building sets (sold separately) in the LEGO Botanicals collection
-- Flower decor – Grow kids’ creativity with the LEGO Botanicals Petite Sunny Bouquet, a fun building toy for 9+ year old girls and teenagers
-- LEGO faux flowers – The bouquet blooms with 6 species of spring flowers, including Billy buttons, bluebells, Cleopatra ferns, yarrows and a tulip
 - Artificial flower decor – Once the LEGO spring bouquet has been built, it can be displayed as a colourful piece of home or office desk decor
+- Flower gift – This building set is a great nature-inspired birthday gift for 9+ girls, as well as teenagers and women who are looking for a smaller LEGO flowers set to add to their existing bouquet
 - Build Together with friends and family – The LEGO Builder app offers a fun and collaborative experience where you can share the fun of LEGO building
+- LEGO faux flowers – The bouquet blooms with 6 species of spring flowers, including Billy buttons, bluebells, Cleopatra ferns, yarrows and a tulip
+- Flower decor – Grow kids’ creativity with the LEGO Botanicals Petite Sunny Bouquet, a fun building toy for 9+ year old girls and teenagers
 - Adjustable stems – The creative building toy features adjustable stems that encourage builders to get creative and customise their own bouquet
+- Build more blooms – The brick-built LEGO flower bouquet can be combined with other building sets (sold separately) in the LEGO Botanicals collection
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N5B2ILL{{</world>}}

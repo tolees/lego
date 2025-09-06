@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
 - Speelgoedauto met pull-back functie – kinderen kunnen hun LEGO Technic raceauto snel laten bewegen met behulp van de pull-back functie terwijl ze doen alsof ze als echte Extreme E coureur de wereld rond reizen
-- Een speelgoed auto als cadeau voor kinderen – deze LEGO set is een leuk cadeau voor een verjaardag, de feestdagen of een andere gelegenheid voor jongens, meisjes en kinderen die van speelgoed voertuigen en terreinwagens houden
-- Brede banden – de speelgoed raceauto heeft authentieke details die zijn geïnspireerd op de echte racewagen, waaronder offroad banden en partnerlogos
 - Pull-back auto voor jongens en meisjes vanaf 7 jaar – geef kinderen een leuk bouwproject met de NEOM McLaren Extreme E racewagen modelauto bouw- en speelset met pull-back actie om spannende races na te spelen
+- Brede banden – de speelgoed raceauto heeft authentieke details die zijn geïnspireerd op de echte racewagen, waaronder offroad banden en partnerlogos
+- Een speelgoed auto als cadeau voor kinderen – deze LEGO set is een leuk cadeau voor een verjaardag, de feestdagen of een andere gelegenheid voor jongens, meisjes en kinderen die van speelgoed voertuigen en terreinwagens houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYBW3L{{</world>}}
