@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Nature toys for kids – With the LEGO Creator 3in1 Flowers in Watering Can set, kids 8+ can build and rebuild 3 detailed models using the same bricks
-- Desk accessories inspired by nature – Young creators can display these nature toys and other LEGO Creator sets to add colour to any room
+- 3in1 toy with interactive features – LEGO flowers have movable petals and butterflies on transparent sticks, creating a flying effect for extra fun
 - Gifts for girls and boys – This 3in1 toy makes a great birthday or Christmas LEGO gift for kids aged 8+ who love animal toys and imaginative play
 - Imaginative play – Kids create stories with a watering can, 3 flowers and 3 butterfly toys; a boot with flowers; or 2 LEGO birds on a perch
-- 3in1 toy with interactive features – LEGO flowers have movable petals and butterflies on transparent sticks, creating a flying effect for extra fun
+- Desk accessories inspired by nature – Young creators can display these nature toys and other LEGO Creator sets to add colour to any room
+- Nature toys for kids – With the LEGO Creator 3in1 Flowers in Watering Can set, kids 8+ can build and rebuild 3 detailed models using the same bricks
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1WFVG{{</world>}}

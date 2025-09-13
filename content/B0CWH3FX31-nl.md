@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Dark Falcon – het LEGO ruimteschip model heeft een afneembare cockpit voor 2 LEGO minifiguren, 2 schieters met veermechanisme, 2 draaibare kanonnen, een schutterspost voor 2 LEGO minifiguren en een radarschotel
-- Bouwbaar LEGO Star Wars speelgoed voor kinderen – bouw de Dark Falcon, een duistere versie van de Millennium Falcon uit de Disney+ special Rebuild the Galaxy, en zet het universum op zijn kop
 - Leuke activiteit voor Vaderdag – kinderen kunnen het bouwplezier delen en hun papa op een bijzondere manier vieren door deze leuke set samen te bouwen op Vaderdag
+- Bouwbaar LEGO Star Wars speelgoed voor kinderen – bouw de Dark Falcon, een duistere versie van de Millennium Falcon uit de Disney+ special Rebuild the Galaxy, en zet het universum op zijn kop
+- LEGO Dark Falcon – het LEGO ruimteschip model heeft een afneembare cockpit voor 2 LEGO minifiguren, 2 schieters met veermechanisme, 2 draaibare kanonnen, een schutterspost voor 2 LEGO minifiguren en een radarschotel
 - 6 LEGO Star Wars minifiguren – Darth Jar Jar, premiejager C-3PO, Darth Dev, Darth Rey, Strand Luke en Jedi Vader, plus accessoires waaronder Star Wars lichtzwaarden en een pak blauwe melk
-- Onderdeel van de LEGO Star Wars: Rebuild the Galaxy collectie – bekijk ook de sets 75388 Jedi Bobs Starfighter en 75393 TIE Fighter en X-wing combi, apart verkrijgbaar
-- Eenvoudige toegang – klap de panelen omhoog om te spelen met het gedetailleerde interieur, inclusief een uitneembare troon voor Darth Jar Jar, een commandocentrum, een hyperdrive, stapelbedden, een relaxgedeelte en een gevangeniscel
 - Leuk Star Wars cadeau voor kinderen vanaf 10 jaar – geef dit van LEGO stenen gebouwde ruimteschip cadeau voor de feestdagen of een verjaardag aan jongens, meisjes en echte Star Wars fans
+- Eenvoudige toegang – klap de panelen omhoog om te spelen met het gedetailleerde interieur, inclusief een uitneembare troon voor Darth Jar Jar, een commandocentrum, een hyperdrive, stapelbedden, een relaxgedeelte en een gevangeniscel
+- Onderdeel van de LEGO Star Wars: Rebuild the Galaxy collectie – bekijk ook de sets 75388 Jedi Bobs Starfighter en 75393 TIE Fighter en X-wing combi, apart verkrijgbaar
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FX31{{</world>}}

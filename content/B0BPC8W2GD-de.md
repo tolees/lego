@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kinder ab 10 Jahren können mit diesem LEGO Technic NASA Mars Rover Perseverance Konstruktionsspielzeug mehr über die Herausforderungen der Weltraumforschung erfahren
-- Dieses LEGO Nasa Set ist ein außergewöhnliches Geschenk für Mädchen und Jungen ab 10 Jahren mit einer Leidenschaft für Weltraumforschung
-- AR erweckt die Mission zum Leben; die begleitende Augmented-Reality-App (AR-App) lässt Kinder in die Details des Rovers und seiner Mission eintauchen
-- Das LEGO Weltraum-Set enthält auch eine baubare Spielzeugversion des Ingenuity-Hubschraubers der NASA, der den Perseverance Rover begleitete und für den Test des Motorflugs auf dem Mars eingesetzt wurde
 - Enthält ein Rovermodell mit 360°-Lenkung, beweglichen Armen und beweglicher Aufhängung, mit der das Fahrzeug auf allen 6 Rädern über unebenen Untergrund fährt, sowie wissenschaftliche Instrumenten
+- Kinder ab 10 Jahren können mit diesem LEGO Technic NASA Mars Rover Perseverance Konstruktionsspielzeug mehr über die Herausforderungen der Weltraumforschung erfahren
+- Das LEGO Weltraum-Set enthält auch eine baubare Spielzeugversion des Ingenuity-Hubschraubers der NASA, der den Perseverance Rover begleitete und für den Test des Motorflugs auf dem Mars eingesetzt wurde
 - Die baubaren LEGO Technic Wissenschaftsspielzeuge bieten realistische Bewegungen und Mechanismen, die junge LEGO Baumeister in das Universum der Technik einführen
+- AR erweckt die Mission zum Leben; die begleitende Augmented-Reality-App (AR-App) lässt Kinder in die Details des Rovers und seiner Mission eintauchen
+- Dieses LEGO Nasa Set ist ein außergewöhnliches Geschenk für Mädchen und Jungen ab 10 Jahren mit einer Leidenschaft für Weltraumforschung
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC8W2GD{{</world>}}

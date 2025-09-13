@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes Maisie and Rainn Delacourt Jurassic World minifigures, 2 Velociraptor dinosaur figures - Blue and Beta, a red pickup truck toy and a bike
-- Check out other LEGO Jurassic World sets: 76945 Atrociraptor Dinosaur: Bike Chase and 76948 T. rex and Atrociraptor Dinosaur Breakout
-- This Blue and Beta Velociraptor Capture LEGO dinosaur toy set lets kids reenact Jurassic World: Dominion movie action or create their own stories
-- Easy-to-follow instructions are included in the box, so even beginners can build their LEGO Jurassic World dinosaur toys with confidence
-- This LEGO Jurassic World set with 2 dinosaur toys and a truck will make a fab gift or birthday present for 6 plus year old boys and girls
 - Features a posable Velociraptor Blue dinosaur toy with movable legs, arms and head for kids to play out action-packed dino adventures
 - Kids use the chicken drumstick accessory as bait and activate the trap on the cage; capture Beta and transport him back to base in the toy truck
+- This LEGO Jurassic World set with 2 dinosaur toys and a truck will make a fab gift or birthday present for 6 plus year old boys and girls
+- Includes Maisie and Rainn Delacourt Jurassic World minifigures, 2 Velociraptor dinosaur figures - Blue and Beta, a red pickup truck toy and a bike
+- This Blue and Beta Velociraptor Capture LEGO dinosaur toy set lets kids reenact Jurassic World: Dominion movie action or create their own stories
+- Check out other LEGO Jurassic World sets: 76945 Atrociraptor Dinosaur: Bike Chase and 76948 T. rex and Atrociraptor Dinosaur Breakout
+- Easy-to-follow instructions are included in the box, so even beginners can build their LEGO Jurassic World dinosaur toys with confidence
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNX11LQ{{</world>}}

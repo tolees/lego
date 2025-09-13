@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Hours of role-play fun – Discover new experiences and daily surprises with the 24 mini build toys which lets kids create a host of different pet adventures wit this pet playground
 - Dimensions – This LEGO Friends Advent Calendar gift box measures over 9 in. (25 cm) high, 14 in. (37 cm) wide and 2 in. (6 cm) deep
-- A 2023 Christmas holiday countdown advent calendar packed with pet-themed activities – Countdown to Christmas with the 2023 LEGO Friends Advent Calendar (41758), containing buildable characters, activities and accessories
+- A gift for advent – This creative Advent Calendar can be given to kids ages 6+ and creates a fun activity to enjoy throughout December and beyond
+- Build a festive pet playground – Kids can enjoy assembling the pet playground as they open the doors and countdown to adventure
 - A new generation of Heartlake City – In January 2023, the LEGO Friends universe expanded to introduce new characters and new locations to inspire more creative adventures
 - Capture the Christmas spirit – This countdown playset comes with 10 LEGO Friends characters, plus fun Christmas activities
-- Build a festive pet playground – Kids can enjoy assembling the pet playground as they open the doors and countdown to adventure
-- A gift for advent – This creative Advent Calendar can be given to kids ages 6+ and creates a fun activity to enjoy throughout December and beyond
+- A 2023 Christmas holiday countdown advent calendar packed with pet-themed activities – Countdown to Christmas with the 2023 LEGO Friends Advent Calendar (41758), containing buildable characters, activities and accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BXQ4XLX2{{</world>}}

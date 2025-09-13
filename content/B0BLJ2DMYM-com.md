@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - NASCAR Camaro Kit - Kids ages 9+ can build their own version of the NASCAR next gen Chevrolet Camaro ZL1 race car with this collectible LEGO Technic model car kit (42153)
-- Set Dimensions - This LEGO Technic building set measures over 7 cm (3 in.) high, 28 cm (11 in.) long, and 13 cm (5 in.) wide. Contains 672 pieces
-- Technic Vehicle Fun - LEGO Technic model car and vehicle kits introduce children to the world of engineering in a fun way and make great gifts for any occasion
+- Learn Engineering - Kids can learn about engineering and building with the LEGO Builder app, an intuitive building adventure packed with tools to build with ease
 - Striking Display - The eye-catching LEGO race car toy features a striking color scheme and looks great on display as part of a LEGO Technic car collection
 - Realistic Features - This buildable LEGO toy model car set is packed with true-to-life features: steering, opening hood, stickers, and V8 engine with moving pistons
-- Learn Engineering - Kids can learn about engineering and building with the LEGO Builder app, an intuitive building adventure packed with tools to build with ease
+- Set Dimensions - This LEGO Technic building set measures over 7 cm (3 in.) high, 28 cm (11 in.) long, and 13 cm (5 in.) wide. Contains 672 pieces
+- Technic Vehicle Fun - LEGO Technic model car and vehicle kits introduce children to the world of engineering in a fun way and make great gifts for any occasion
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BLJ2DMYM{{</world>}}

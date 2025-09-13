@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen kunnen in de tuin gaan zitten bij Paisley die muziek maakt op haar gitaar - vervolgens kunnen ze het konijntje Melody begroeten door het hok open te maken en het konijn een wortel te geven - wat een heerlijke dag!
 - Inclusief 3 LEGO minipoppetjes: Paisley, een verlegen meisje dat dol is op muziek, haar zusje Ella en Jonathan; ze zijn onderdeel van de nieuwe generatie LEGO Friends personages voor 2023, waarmee kinderen nog meer leuke rollenspellen kunnen spelen
-- Kinderen vanaf 4 jaar kunnen urenlang fantasierijk spelen met LEGO Friends Paisleys huis; een poppenhuis met 2 verdiepingen, met een afneembare bovenverdieping en talloze accessoires, plus minipoppetjes van Paisley, Ella en Jonathan
-- Dit LEGO Friends speelgoed is een origineel verjaardagscadeau-idee of een leuke verrassing voor meisjes en jongens vanaf 4 jaar die graag met een poppenhuis spelen
-- Dit speelgoedpoppenhuis heeft een slaapkamer en een badkamer op de bovenverdieping; deze is afneembaar, zodat kinderen de keuken op de benedenverdieping kunnen verkennen; er is ook nog een gezellige plek buiten met een konijnenhok voor het konijnenfiguurtje
+- Kinderen kunnen in de tuin gaan zitten bij Paisley die muziek maakt op haar gitaar - vervolgens kunnen ze het konijntje Melody begroeten door het hok open te maken en het konijn een wortel te geven - wat een heerlijke dag!
 - Dit LEGO Friends speelgoed heeft alle ingrediënten die kinderen van 4+ jaar oud nodig hebben om hun eigen verhalen te bedenken, waaronder accessoires: een borstel, een gitaar, keukengerei, speelgoedeten en meer
+- Dit speelgoedpoppenhuis heeft een slaapkamer en een badkamer op de bovenverdieping; deze is afneembaar, zodat kinderen de keuken op de benedenverdieping kunnen verkennen; er is ook nog een gezellige plek buiten met een konijnenhok voor het konijnenfiguurtje
 - Bij de LEGO 4+ set is een startsteen inbegrepen: een stevige basis die kinderen helpt om te bouwen, plus bouwinstructies via de LEGO Builder app, met intuïtieve tools om de modellen in 3D te bekijken, te draaien en erop in te zoomen
+- Dit LEGO Friends speelgoed is een origineel verjaardagscadeau-idee of een leuke verrassing voor meisjes en jongens vanaf 4 jaar die graag met een poppenhuis spelen
+- Kinderen vanaf 4 jaar kunnen urenlang fantasierijk spelen met LEGO Friends Paisleys huis; een poppenhuis met 2 verdiepingen, met een afneembare bovenverdieping en talloze accessoires, plus minipoppetjes van Paisley, Ella en Jonathan
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRWJJMP{{</world>}}

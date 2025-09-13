@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Verlobungsgeschenk für Pärchen: Dieses LOVE-Modell aus LEGO Steinen ist ein tolles Geschenk zur Verlobung oder Hochzeit beziehungsweise zum Valentins- oder Muttertag
-- Geschenk für Erwachsene und Pärchen aus LEGO Steinen: Erschaffe deine eigene Mini-Version von Robert Indianas berühmter LOVE Skulptur mit diesem kreativen LEGO Art Bauset für Erwachsene
 - Hommage an eine Ikone: Dieses 3D-Modell aus LEGO Steinen ist der berühmten echten LOVE-Skulptur sehr ähnlich; Das ist demselben Design und denselben lebhaften Farben (Rot, Blau und Grün) zu verdanken
+- Geschenk für Erwachsene und Pärchen aus LEGO Steinen: Erschaffe deine eigene Mini-Version von Robert Indianas berühmter LOVE Skulptur mit diesem kreativen LEGO Art Bauset für Erwachsene
 - LEGO Art Sets für Erwachsene: Die LEGO Art Modelle bieten Erwachsenen die Chance, ihrer Leidenschaft nachzugehen und Kunstwerke aus LEGO Bausteinen zu erschaffen und dann im Wohnzimmer oder Büro auszustellen oder aufzuhängen
 - Spannende LEGO Wohn-Deko zum Ausstellen: Diese LEGO Interpretation der LOVE Skulptur ist ein imposanter Blickfang in jedem Zimmer oder Büro
 - Tolles Gemeinschaftserlebnis: Dieser Wohn-Deko liegen 2 Bauanleitungen bei, damit du dein LOVE-Modell zusammen mit deinem Lieblingsmenschen bauen kannst

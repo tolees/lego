@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Das Spielzeug-Baumhaus zum Zusammenbauen steckt voller authentischer Details, die Fans von Donkey Kong begeistern werden, darunter ein baubarer Fernseher, ein Radio und ein Geheimfach
-- Dieses interaktive Super Mario Konstruktions-Spielzeug Set zum Sammeln wurde für Kinder entwickelt, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen
-- Enthält 2 baubare LEGO Super Mario Figuren aus der Welt von Donkey Kong: Donkey Kong und Cranky Kong – das perfekte Spielzeug für alle Kinder, Mädchen und Jungen, die kreative Rollenspiele lieben
-- Gemeinsam mit Donkey Kong können Kinder aufregenden Dschungelspaß erleben, wie Bananen verschenken und Conga-Trommel spielen mit diesem farbenfrohen LEGO Super Mario Donkey Kongs Baumhaus-Erweiterungsset zum Zusammenbauen
 - Dieses 555-teilige Set ist ein tolles Spielzeug, das sich perfekt als Geburtstags- oder alltägliches Geschenk für Jungen, Mädchen und alle Kinder ab 8 Jahren eignet, die LEGO Super Mario Bau-Spiele und Donkey Kong Charaktere lieben
+- Dieses interaktive Super Mario Konstruktions-Spielzeug Set zum Sammeln wurde für Kinder entwickelt, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen
+- Gemeinsam mit Donkey Kong können Kinder aufregenden Dschungelspaß erleben, wie Bananen verschenken und Conga-Trommel spielen mit diesem farbenfrohen LEGO Super Mario Donkey Kongs Baumhaus-Erweiterungsset zum Zusammenbauen
+- Das Spielzeug-Baumhaus zum Zusammenbauen steckt voller authentischer Details, die Fans von Donkey Kong begeistern werden, darunter ein baubarer Fernseher, ein Radio und ein Geheimfach
+- Enthält 2 baubare LEGO Super Mario Figuren aus der Welt von Donkey Kong: Donkey Kong und Cranky Kong – das perfekte Spielzeug für alle Kinder, Mädchen und Jungen, die kreative Rollenspiele lieben
 - Kinder können auf Donkey Kongs Rücken mit LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) reiten, Donkey Kong eine Banane „geben“ und Cranky Kong mehrmals besuchen, um eine Belohnung zu erhalten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

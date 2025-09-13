@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Das Flugzeug-Modell ist über 47 cm lang und eignet sich hervorragend als Geburtstags- oder Weihnachtsgeschenk für Kinder, Jungen und Mädchen, die LEGO Fahrzeuge und Flugzeuge lieben
-- Das LEGO Flughafen-Set enthält außerdem eine Flugtreppe zum Einsteigen der Passagiere, einen Vorfeldbus, einen Flugzeugschlepper zum Herausrollen des Flugzeugs, einen Containerhubwagen zum Beladen von Catering-Vorräten und einen Gepäckwagen
-- Enthält 9 LEGO City Minifiguren: Pilot, Kopilot, Bodenpersonal und Passagiere sowie Zubehör wie einen Koffer, eine Kamera, einen Rucksack, eine Aktentasche, ein Walkie-Talkie, 2 Getränkedosen und 2 Tassen
 - Das Flugzeug-Spielzeug verfügt über ein abnehmbares Dach für einfachen Zugriff auf den detaillierten Innenraum, der ein Cockpit, Sitzgelegenheiten für den Piloten, Passagier-Minifiguren, eine Toilette und einen Catering-Bereich umfasst
+- Enthält 9 LEGO City Minifiguren: Pilot, Kopilot, Bodenpersonal und Passagiere sowie Zubehör wie einen Koffer, eine Kamera, einen Rucksack, eine Aktentasche, ein Walkie-Talkie, 2 Getränkedosen und 2 Tassen
 - Kinder können dem Bodenpersonal helfen, das Auto zu beladen, die Flugtreppe in Position zu rollen, den Passagieren ihre Plätze im Flugzeug zu zeigen und die Toilette zu überprüfen!
-- Flugzeugen und Fahrzeug-Fans werden diesen Modellbausatz des LEGO City Passagierflugzeuges voller realistischer Features und Funktionen lieben, darunter 4 LEGO Flughafen-Fahrzeuge und 9 Minifiguren
 - Junge Baumeister können mithilfe der LEGO Builder App für Smartphones und Tablets die Modelle in diesem Set vergrößern, drehen und aus allen Blickwinkeln betrachten
+- Flugzeugen und Fahrzeug-Fans werden diesen Modellbausatz des LEGO City Passagierflugzeuges voller realistischer Features und Funktionen lieben, darunter 4 LEGO Flughafen-Fahrzeuge und 9 Minifiguren
+- Das LEGO Flughafen-Set enthält außerdem eine Flugtreppe zum Einsteigen der Passagiere, einen Vorfeldbus, einen Flugzeugschlepper zum Herausrollen des Flugzeugs, einen Containerhubwagen zum Beladen von Catering-Vorräten und einen Gepäckwagen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV793KD1{{</world>}}

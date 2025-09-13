@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bauset mit 2 NINJAGO Minifiguren: Dieses Spielset für Kinder beinhaltet Kai, der in seinem Spinjitzu-Spinner sitzt, einen bösen Drachenspäher und ein kleines Modell einer Drachenkreatur
-- Entdecke andere Sets für weitere Ninja Abenteuer: Schau dir auch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Tempeln und Fahrzeugen an
-- Zubehör und Ausrüstung für die Figuren: Beide NINJAGO Minifiguren sind für spannende Duelle ausgerüstet: Kai trägt ein Schwert, und der Drachenspäher schwingt eine Axt
 - LEGO NINJAGO Action Spielzeug für Kinder: Mit Kais Drachen-Spinjitzu-Spinner können Jungen und Mädchen ab 6 Jahren die Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
+- Bauset mit 2 NINJAGO Minifiguren: Dieses Spielset für Kinder beinhaltet Kai, der in seinem Spinjitzu-Spinner sitzt, einen bösen Drachenspäher und ein kleines Modell einer Drachenkreatur
 - Geschenkidee für junge Ninjas: Das kleine LEGO Set bietet ein packendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Jungen und Mädchen ab 6 Jahren, die Abenteuer Spielzeuge lieben
+- Entdecke andere Sets für weitere Ninja Abenteuer: Schau dir auch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Tempeln und Fahrzeugen an
+- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
 - Spielzeug Spinner für rasanten Actionspaß: Drück den Knopf am Startkatapult von Kais Drachen-Spinjitzu-Spinner, um das Spielzeug loswirbeln und beim Aufprall auf das Ziel 2 Energie-Elemente abplatzen zu lassen
+- Zubehör und Ausrüstung für die Figuren: Beide NINJAGO Minifiguren sind für spannende Duelle ausgerüstet: Kai trägt ein Schwert, und der Drachenspäher schwingt eine Axt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCDS93{{</world>}}

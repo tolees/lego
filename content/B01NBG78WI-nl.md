@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Aanpasbaar tuinmodel – dankzij de sleuven in de basis van de tuin kun je hem op diverse manieren indelen
-- Welkom in jouw eigen wereld – maak ruimte voor ontspanning met de inspirerende reeks creatieve bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
-- Elegante tuinbouwset voor volwassenen – neem wat tijd voor jezelf en ontspan je met deze LEGO Icons Tuin met fontein bouwset
-- Afmetingen – dit LEGO tuinmodel met 1302 onderdelen is ca. 15 cm hoog, 29 cm breed en 19 cm diep
-- Wat zit er in de doos – de LEGO Tuin met fontein bevat een fraaie fontein, een lavabo, 2 cipressen, bloeiende wijnstokken, 4 pergolas en betegelde paden, plus figuren van een maanvlinder, een vogel en een kikker
-- LEGO cadeaus voor tuiniers – vier een verjaardag of speciale gelegenheid met dit cadeau voor tuinliefhebbers en fans van reizen en LEGO sets
 - Decoratie voor thuis of op kantoor – creëer een rustgevende blikvanger met dit gedetailleerde displaymodel, dat de schoonheid en diversiteit van landschapsarchitectuur benadrukt
+- Elegante tuinbouwset voor volwassenen – neem wat tijd voor jezelf en ontspan je met deze LEGO Icons Tuin met fontein bouwset
+- Welkom in jouw eigen wereld – maak ruimte voor ontspanning met de inspirerende reeks creatieve bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
+- Afmetingen – dit LEGO tuinmodel met 1302 onderdelen is ca. 15 cm hoog, 29 cm breed en 19 cm diep
+- LEGO cadeaus voor tuiniers – vier een verjaardag of speciale gelegenheid met dit cadeau voor tuinliefhebbers en fans van reizen en LEGO sets
+- Wat zit er in de doos – de LEGO Tuin met fontein bevat een fraaie fontein, een lavabo, 2 cipressen, bloeiende wijnstokken, 4 pergolas en betegelde paden, plus figuren van een maanvlinder, een vogel en een kikker
+- Aanpasbaar tuinmodel – dankzij de sleuven in de basis van de tuin kun je hem op diverse manieren indelen
 - 3D-bouwinstructies – bereid je voor om te bouwen als nooit tevoren met de LEGO Builder app, waarin je sets kunt opslaan, je voortgang kunt bijhouden, kunt inzoomen en je model in 3D kunt draaien
 
 [🛒 Buy it!!]({{< param buyurl >}})

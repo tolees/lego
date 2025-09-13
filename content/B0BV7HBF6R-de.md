@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gib dieses 1.056-teilige LEGO Star Wars Set als Geschenk zu Weihnachten, zum Geburtstag oder als besondere Aufmerksamkeit für Star Wars: Ahsoka-Fans
 - Shin Hatis Starfighter verfügt über ein aufklappbares Minifiguren-Cockpit, zwei Shooter, Stauräume für die Lichtschwerter von Shin Hati und Baylan Skoll sowie eine Blasterpistole
 - Das Star Wars Raumschiff-Spielzeug New Republic E-Wing verfügt über zwei Shooter, ein Minifiguren-Cockpit, Platz unter dem Sitz für eine Blasterpistole, Platz hinter dem Cockpit für eine Droiden-Figur und ein einziehbares Fahrwerk
-- Mit diesem LEGO Star Wars New Republic E-Wing vs. Shin Hatis Starfighter-Set könenn Star Wars: Ahsoka-Fans einen Showdown zwischen Shin Hatis Starfighter und Captain Porters New Republic E-Wing veranstalten
+- Gib dieses 1.056-teilige LEGO Star Wars Set als Geschenk zu Weihnachten, zum Geburtstag oder als besondere Aufmerksamkeit für Star Wars: Ahsoka-Fans
 - Enthält 4 LEGO Star Wars Charaktere: Baylan Skoll und Shin Hati, jeweils mit Lichtschwertern, sowie Morgan Elsbeth und Captain Porter mit einer Blasterpistole sowie eine New Republic LEGO Star Wars Astromech Droiden-Figur
+- Mit diesem LEGO Star Wars New Republic E-Wing vs. Shin Hatis Starfighter-Set könenn Star Wars: Ahsoka-Fans einen Showdown zwischen Shin Hatis Starfighter und Captain Porters New Republic E-Wing veranstalten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7HBF6R{{</world>}}

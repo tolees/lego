@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lernspielzeug für Vorschulkinder: Mit diesem Set können Vorschulkinder entdecken, wie sie sich auf Flügen und Flughäfen fühlen; Beim Spielen lernen Kinder, logisch zu denken, und entwickeln Fingerfertigkeit
-- Spielerisch lernen: Schau dir auch LEGO DUPLO Sets Rettungswagen mit Fahrer und Erster Arztbesuch an; Die separat erhältlichen Spielsets für Rollenspiele lassen Kleinkinder noch weitere erste Erfahrungen machen
 - Durchdachte Lernspielzeuge für neugierige Vorschulkinder: Die fantasievollen LEGO DUPLO Spielzeuge lassen Vorschulkinder spannende Geschichten mit Alltagshelden darstellen, und ihre Umwelt besser verstehen
 - LEGO DUPLO Flughafen zum Verschenken: Das Set ist ein tolles Geburtstags- oder Überraschungsgeschenk für Kleinkinder ab 2 Jahren, die Fahrzeuge lieben und gern fantasievoll spielen
-- Flughafen-Spielset für ein fantasievolles Spielerlebnis: LEGO DUPLO Erster Besuch im Flughafen ist ein Spielzeug, das Kleinkinder unterschiedliche Reiseaktivitäten entdecken lässt; Das Flugzeug-Modell hat ein abnehmbares Dach
 - Viele fantasievolle Spielmöglichkeiten: Dieses Spielset lässt Kleinkinder kreativ spielen, ihr Gepäck durch den Scanner schieben und die Flüge mit dem Spielzeug-Flieger vom Tower aus dirigieren
+- Flughafen-Spielset für ein fantasievolles Spielerlebnis: LEGO DUPLO Erster Besuch im Flughafen ist ein Spielzeug, das Kleinkinder unterschiedliche Reiseaktivitäten entdecken lässt; Das Flugzeug-Modell hat ein abnehmbares Dach
+- Spielerisch lernen: Schau dir auch LEGO DUPLO Sets Rettungswagen mit Fahrer und Erster Arztbesuch an; Die separat erhältlichen Spielsets für Rollenspiele lassen Kleinkinder noch weitere erste Erfahrungen machen
+- Lernspielzeug für Vorschulkinder: Mit diesem Set können Vorschulkinder entdecken, wie sie sich auf Flügen und Flughäfen fühlen; Beim Spielen lernen Kinder, logisch zu denken, und entwickeln Fingerfertigkeit
 - Spielzeug für Rollenspiele: Das fantasievolle Spielset beinhaltet ein Kind, einen Piloten und einen LEGO DUPLO Teddy, die Kleinkinder in viele Rollen am Flughafen schlüpfen lassen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

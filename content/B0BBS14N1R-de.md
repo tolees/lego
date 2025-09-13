@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Teil der LEGO Star Wars Sammlung von Helmen zum Bauen und Ausstellen; mit bebilderter Anleitung in gedruckter Form sowie in der LEGO Builder App
-- Stelle dieses LEGO Star Wars Sammlerstück stolz auf dem baubaren Ständer mit Namensschild aus; eine aufmerksamkeitserregende Star Wars Deko
 - Erlebe spektakuläre Szenen aus Star Wars: The Clone Wars, während du authentische Details des Captain Rex Helm mit LEGO Steinen nachbaust.
-- Dieses 854-teilige LEGO Star Wars Set für Erwachsene ist ein tolles Geschenk für jeden Fan, erfahrenen LEGO Baumeister oder LEGO Star Wars Sammler
+- Teil der LEGO Star Wars Sammlung von Helmen zum Bauen und Ausstellen; mit bebilderter Anleitung in gedruckter Form sowie in der LEGO Builder App
 - Mit diesem detailgetreuen LEGO Star Wars Modell und Erinnerungsstück können Fans den Helm des Klon-Kommandanten Rex der 501. Legion Tribut zollen.
+- Dieses 854-teilige LEGO Star Wars Set für Erwachsene ist ein tolles Geschenk für jeden Fan, erfahrenen LEGO Baumeister oder LEGO Star Wars Sammler
+- Stelle dieses LEGO Star Wars Sammlerstück stolz auf dem baubaren Ständer mit Namensschild aus; eine aufmerksamkeitserregende Star Wars Deko
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS14N1R{{</world>}}

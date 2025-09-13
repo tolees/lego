@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Harry Potter LEGO classroom playset – Opens to reveal a Wingardium Leviosa feather-levitation feature, plus detachable desks and a blackboard
-- LEGO Harry Potter playset – This LEGO Hogwarts Castle: Charms Class set lets kids recreate a scene from Harry Potter and the Philosopher’s Stone
 - LEGO Harry Potter collectible toy to build – This magical toy playset is part of a series of modular sets (sold separately) that connect to create a LEGO brick-built Hogwarts Castle scene
-- Helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track progress and save sets
 - 1 of 14 collectible Hogwarts portraits – This LEGO Harry Potter building toy for 8+ year old girls and boys includes random Hogwarts portrait element
 - LEGO Harry Potter gifts – This fantasy playset makes a fun everyday gift for 8+ year old boys and girls who love magical toys and Wizarding World
 - 3 LEGO Harry Potter characters – This collectible Harry Potter toy to build includes Ron Weasley, Hermione Granger and Professor Flitwick minifigures
+- LEGO Harry Potter playset – This LEGO Hogwarts Castle: Charms Class set lets kids recreate a scene from Harry Potter and the Philosopher’s Stone
+- Harry Potter LEGO classroom playset – Opens to reveal a Wingardium Leviosa feather-levitation feature, plus detachable desks and a blackboard
+- Helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track progress and save sets
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSFF382{{</world>}}

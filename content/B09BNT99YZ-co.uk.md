@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Holiday Beach House
 - Number of pieces: 686
-- It has 2 bedrooms, 1 with a bathroom and toilet, 2nd with with bunk beds, plus a balcony and rooftop pool, a kitchen and a living room
 - Outside, there’s a table-tennis table, 2 electric scooters, a jetty and an inflatable banana boat for thrilling action on the waves
+- It has 2 bedrooms, 1 with a bathroom and toilet, 2nd with with bunk beds, plus a balcony and rooftop pool, a kitchen and a living room
+- Holiday Beach House
 - Manufacturer recommended age: 7+
 
 [🛒 Check the deal!!]({{< param buyurl >}})

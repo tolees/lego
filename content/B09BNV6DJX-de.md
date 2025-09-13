@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inklusive Mini-Puppen von Prinzessin Jasmin und Mulan sowie LEGO Tier-Figuren von Khan dem Pferd und Radsha dem Tiger
-- Kinder werden von den fantasievollen Abenteuern und Kulissen aus Disneys „Mulan“ und „Aladdin“ begeistert sein
 - Steige auf den fliegenden Teppich und mach einen Ausflug zu Mulans Schrein, um dir die Pflaumenblüte anzusehen, bevor du zum Palast zurückkehrst!
-- Enthält ikonische Figuren aus den beliebten Disney-Filmen sowie ein Spielzeugpferd und einen Tiger – ein lustiges Geschenk zum Geburtstag oder einfach so für Kinder ab 5 Jahren
-- Die Mini-Puppe von Prinzessin Jasmin kann auf den Balkon gehen und die Aussicht genießen; Moment mal, wer ist denn das? Hurra! Mulan, Khan und Cri-Kee kommen uns besuchen!
 - Mit der „LEGO Bauanleitungen App“ können kleine Baumeister eine digitale Version ihres Modells betrachten und dabei zoomen und drehen
+- Die Mini-Puppe von Prinzessin Jasmin kann auf den Balkon gehen und die Aussicht genießen; Moment mal, wer ist denn das? Hurra! Mulan, Khan und Cri-Kee kommen uns besuchen!
+- Kinder werden von den fantasievollen Abenteuern und Kulissen aus Disneys „Mulan“ und „Aladdin“ begeistert sein
+- Enthält ikonische Figuren aus den beliebten Disney-Filmen sowie ein Spielzeugpferd und einen Tiger – ein lustiges Geschenk zum Geburtstag oder einfach so für Kinder ab 5 Jahren
 - Enthält einen detaillierten, zweistöckigen Spielzeug-Palast mit einem kleinen Schrein und jeder Menge Zubehör und Disney Figuren für täglichen Spielspaß
 
 [🛒 Check the deal!!]({{< param buyurl >}})

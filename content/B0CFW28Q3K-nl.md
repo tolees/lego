@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 4 NINJAGO personages – deze autoset wordt geleverd met ninja minifiguren Arin en Klimmer Cole die de strijd aangaan met Cinder en een Wolvenmasker klauwstrijder, plus een baby Riyu speelgoed draak model
-- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
+- Ninjacadeau – dit avontuurlijke speelgoed biedt kinderen een leuke bouw- en speelervaring en is een mooi cadeau voor jongens en meisjes vanaf 7 jaar die dol zijn op ninjaverhalen vol actie
 - Met accessoires – Klimmer Cole en Arin zijn elk bewapend met een klimhaak en een katana en Cinder heeft een speelgoed zwaard
 - Voertuigbouwset boordevol functies – de terreinbuggy heeft bewegende wielen, vering, een cockpit die open kan met ruimte voor NINJAGO 2 minifiguren, 2 noppenschieters met 6 noppen om af te vuren en een grote haak
-- Ninjacadeau – dit avontuurlijke speelgoed biedt kinderen een leuke bouw- en speelervaring en is een mooi cadeau voor jongens en meisjes vanaf 7 jaar die dol zijn op ninjaverhalen vol actie
+- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
+- 4 NINJAGO personages – deze autoset wordt geleverd met ninja minifiguren Arin en Klimmer Cole die de strijd aangaan met Cinder en een Wolvenmasker klauwstrijder, plus een baby Riyu speelgoed draak model
 - Ninja speelgoed met een terreinbuggy voor kinderen – jongens en meisjes vanaf 7 jaar kunnen confrontaties uit seizoen 2 van de tv-serie NINJAGO Dragons Rising naspelen met Arins ninjaterreinbuggy
 - Grotere ninja-avonturen – kijk uit naar meer NINJAGO speelgoed (sets apart verkrijgbaar) waaronder draken, mecha en voertuigen
 

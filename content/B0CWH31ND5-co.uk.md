@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gamer gift for kids – With cool Minecraft characters and mobs, this building toy makes a great birthday gift for 8-plus-year-old boys and girls
-- Minecraft biome – Includes a Sunny Minecraft figure, 2 bees, a sniffer with a finger-operated sniffing function, a baby sniffer and a sniffer egg
-- Minecraft made real – LEGO Minecraft building toys for kids give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
-- LEGO Minecraft garden – Treat Minecraft players to The Cherry Blossom Garden, a hands-on building toy for 8-plus-year-old boys and girls
-- Garden playset and zombie toy – Kids help Sunny tend the trees and decorative elements of the cherry blossom garden and fend off a hostile zombie
 - Authentic accessories – Includes a small bridge over a stream, a sand garden containing a decorative pot and Blackstone rock, a torch flower and a hoe
+- Garden playset and zombie toy – Kids help Sunny tend the trees and decorative elements of the cherry blossom garden and fend off a hostile zombie
+- Minecraft biome – Includes a Sunny Minecraft figure, 2 bees, a sniffer with a finger-operated sniffing function, a baby sniffer and a sniffer egg
+- LEGO Minecraft garden – Treat Minecraft players to The Cherry Blossom Garden, a hands-on building toy for 8-plus-year-old boys and girls
+- Minecraft made real – LEGO Minecraft building toys for kids give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
 - Expand the fun – Check out the full range of LEGO Minecraft building toy sets (sold separately) for even more ways to play
+- Gamer gift for kids – With cool Minecraft characters and mobs, this building toy makes a great birthday gift for 8-plus-year-old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH31ND5{{</world>}}

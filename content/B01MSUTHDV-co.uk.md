@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Home or office décor – Add a splash of nature to any space with this LEGO Icons Kingfisher Bird model kit for adults to build
-- LEGO sets for adults – Discover a space for relaxation with the inspiring range of LEGO creative building sets (sold separately) designed specifically for adults
-- A creative building project – This LEGO set for adults features a majestic kingfisher with a fish catch, plus a water setting display stand
-- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this set
-- A mindful gift for bird-lovers – This LEGO Icons set for adults makes a great bird-themed gift for women and men, a thoughtful anniversary gift for a wife or husband, or is a nice treat for yourself to add some colour to your home
 - Kingfisher model building set – Take time out for a relaxing building experience with the LEGO Icons Kingfisher Bird building kit for adults
+- LEGO sets for adults – Discover a space for relaxation with the inspiring range of LEGO creative building sets (sold separately) designed specifically for adults
 - Features and functions – The LEGO bird model comes with a posable head and claws, and the water setting features buildable reeds
+- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this set
+- A creative building project – This LEGO set for adults features a majestic kingfisher with a fish catch, plus a water setting display stand
+- Home or office décor – Add a splash of nature to any space with this LEGO Icons Kingfisher Bird model kit for adults to build
+- A mindful gift for bird-lovers – This LEGO Icons set for adults makes a great bird-themed gift for women and men, a thoughtful anniversary gift for a wife or husband, or is a nice treat for yourself to add some colour to your home
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MSUTHDV{{</world>}}

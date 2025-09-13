@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This LEGO train set comes with step-by-step instructions for each model, so kids can learn to build the remote control train with confidence
 - LEGO City Express toy train set is an exciting birthday gift for kids, boys and girls age 7 plus and any fan of remote control trains and cars
 - The train and its dimmable lights can be controlled via the included remote control or a smart device equipped with the LEGO Powered Up App
-- This LEGO city train set features a remote control bullet locomotive train toy with working, dimmable headlights and LEGO Powered Up technology
-- This LEGO train set comes with step-by-step instructions for each model, so kids can learn to build the remote control train with confidence
 - Kids can role-play cool scenarios: wait at the platform, board the restaurant car for a toy hotdog or hop on the passenger coach with laptop
-- This train toy for kids includes a train with a restaurant car, passenger coach, station platform, 24 track pieces and 6 minifigures
 - Includes 6 LEGO minifigures: 4 passengers, train driver, restaurant worker, plus bike and helmet, wheelchair, briefcase and backpack accessories
+- This train toy for kids includes a train with a restaurant car, passenger coach, station platform, 24 track pieces and 6 minifigures
+- This LEGO city train set features a remote control bullet locomotive train toy with working, dimmable headlights and LEGO Powered Up technology
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFJSNJW{{</world>}}

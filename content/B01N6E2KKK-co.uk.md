@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Christmas Gift for 4-plus-year-old girls and boys – This party toy with a DJ, slide, party games and animal figures from Gabby’s Dollhouse is a multifaceted playset designed especially for kids aged 4 and over
+- Dollhouse playset – Gabby’s Party Room is a fun-packed toy for 4+-year-old girls and boys who love DreamWorks Animation’s Gabby’s Dollhouse
+- Toddler buildable toy – LEGO sets for kids aged 4+ introduce children to a universe of film favourites, TV characters and everyday heroes
+- Gabby and animal figures – The set includes a Gabbys Dollhouse Gabby mini-doll figure and Daniel James ‘DJ’ Catnip, Kitty Fairy and MerCat figures
 - More Gabby’s Dollhouse playsets – Check out the full range (sold separately) of LEGO 4+ Gabby’s Dollhouse building sets for even more ways to play
 - Party toys for role play – Includes Daniel James ‘DJ’ Catnips party bus with a rotatable dance floor, guitar, 2 microphones, balloons and more
-- Toddler buildable toy – LEGO sets for kids aged 4+ introduce children to a universe of film favourites, TV characters and everyday heroes
-- Christmas Gift for 4-plus-year-old girls and boys – This party toy with a DJ, slide, party games and animal figures from Gabby’s Dollhouse is a multifaceted playset designed especially for kids aged 4 and over
 - Imaginative pretend play – Entertainment toys include a catapult with cans to knock down and a slide to deliver Gabby’s gifts
-- Dollhouse playset – Gabby’s Party Room is a fun-packed toy for 4+-year-old girls and boys who love DreamWorks Animation’s Gabby’s Dollhouse
-- Gabby and animal figures – The set includes a Gabbys Dollhouse Gabby mini-doll figure and Daniel James ‘DJ’ Catnip, Kitty Fairy and MerCat figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01N6E2KKK{{</world>}}

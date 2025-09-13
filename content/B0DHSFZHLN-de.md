@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Baue eine Star Wars Ikone: Rufe jedem Fan mit dieser spektakulären 3D-Darstellung des klassischen Logos spannende Star Wars Abenteuer in Erinnerung
 - Star Wars Zimmer-Deko für Fans und Erwachsene ab 18 Jahren: Stell das baubare Modell als spektakulären Blickfang auf eine ebene Fläche in deinem Zimmer oder Büro; kombiniere es mit dem LEGO Marvel Logo (76313), separat erhältlich
+- Star Wars Logo aus LEGO Steinen: Erschaffe das ultimative Star Wars Ausstellungsstück, und stelle mit diesem Modell für Erwachsene deine Begeisterung für die faszinierende Fantasy-Galaxis zur Schau
 - Aus einer weit, weit entfernten Galaxis zu dir nach Hause: LEGO Star Wars Sets zum Sammeln sind für Erwachsene wie dich gedacht, die gern bei kreativen Aktivitäten abschalten und entspannen
 - Kreatives Geschenk für erwachsene Star Wars Fans: Belohne dich selbst mit diesem Set zum Bauen und Ausstellen oder schenke das Logo einem anderen Star Wars Fan, Sammler oder begeisterten Anhänger der Popkultur
-- Baue eine Star Wars Ikone: Rufe jedem Fan mit dieser spektakulären 3D-Darstellung des klassischen Logos spannende Star Wars Abenteuer in Erinnerung
-- Star Wars Logo aus LEGO Steinen: Erschaffe das ultimative Star Wars Ausstellungsstück, und stelle mit diesem Modell für Erwachsene deine Begeisterung für die faszinierende Fantasy-Galaxis zur Schau
 - Bauset für Erwachsene mit 3D-Bauanleitung: Die LEGO Builder App lässt dich beim Bauen digitale 3D-Ansichten dieses baubaren Modells betrachten, deinen Baufortschritt verfolgen oder Sets speichern
 - Erfreue dich an den Details: Dieses Star Wars Logo hat die klassischen LEGO Greebles in den schwarzen Bereichen zwischen den gelben Buchstaben; Und auch im „T“ von Star Wars erwartet dich eine kleine Überraschung
 

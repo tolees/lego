@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 3 Harry Potter personages van LEGO stenen – het model heeft ingebouwde, verstelbare Harry Potter, Hedwig en Rubeus Hagrid speelgoedfiguren die op Hagrids vliegende motor en zijspan rijden
+- Harry Potter cadeau voor meisjes, jongens en fans – geef kinderen een leuke bouwuitdaging om het uiterlijk van het geliefde personage Hagrid vast te leggen op zijn opvallende blauwe motor met Harry Potter in het zijspan
+- Een helpende hand – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen inzoomen en hun modellen in 3D draaien tijdens het bouwen, hun voortgang bijhouden en sets opslaan
 - Verjaardagscadeau voor kinderen vanaf 9 jaar – dit LEGO Harry Potter voertuig is een unieke traktatie voor meisjes, jongens en alle fans van de Tovenaarswereld
 - Magisch bouwpakket voor kinderen – speel de ontsnappingsscène op Hagrids motor na uit Harry Potter en de Relieken van de Dood met deze bouwbare LEGO Harry Potter set voor kinderen en fans
-- Een helpende hand – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen inzoomen en hun modellen in 3D draaien tijdens het bouwen, hun voortgang bijhouden en sets opslaan
 - Onderdeel van een uitgebreide Harry Potter collectie – met LEGO Harry Potter speelgoed kunnen jonge heksen, tovenaars en dreuzels beroemde scènes naspelen, hun eigen verhalen verzinnen of de modellen neerzetten en bewonderen
-- Harry Potter cadeau voor meisjes, jongens en fans – geef kinderen een leuke bouwuitdaging om het uiterlijk van het geliefde personage Hagrid vast te leggen op zijn opvallende blauwe motor met Harry Potter in het zijspan
 - Speelse details – rijd op de motor, draai Hagrids hoofd en verstel zijn armen, beweeg Harrys armen, draai Hedwigs hoofd en verstel haar vleugels
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Set zum Bauen und Ausstellen: Die baubare Hauptfigur steht auf einem Ständer mit Infotafel; Dort ist auch Platz für den ebenfalls enthaltenen LEGO Droiden Chopper (C1-10P) in Normalgröße
-- LEGO Star Wars Sets für Fans jeden Alters: Die separat erhältlichen LEGO Star Wars Spielsets zum Sammeln und Bauen lassen Kinder und erwachsene Fans klassische Filmszenen nachspielen, neue Geschichten darstellen und die gebauten Modelle ausstellen
+- Modell mit verschiedenen Ausstellungsoptionen: Man kann Choppers Arme und sein mittleres Rad abnehmen, damit es den Anschein hat, er hätte die Arme und das Rad in seinen Körper eingefahren
+- LEGO Star Wars Geschenk für Kinder und die ganze Familie: Dieses Set ist ein grandioses Geburtstags- oder Ostergeschenk für Jungen, Mädchen und alle Fans der Fantasy-Abenteuerserie Star Wars: Ahsoka ab 10 Jahren
 - Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein tolles Gemeinschaftserlebnis, wenn Kinder zusammen mit ihren Liebsten LEGO Modelle und Spielzeuge bauen
 - LEGO Star Wars Set für Kinder: Baue die Figur des liebenswerten Astromech-Droiden Chopper (C1-10P) aus der Abenteuerserie Star Wars: Ahsoka, um ein tolles Spielzeug zu erschaffen
 - Spielset mit authentischen Details: Dreh Choppers Kopf und benutze den Hebel, um seinen Kopf die legendären Bewegungen machen zu lassen; Verstell seine Antenne, bewege seine Arme und Beine und lass ein Werkzeug aus seiner Brust herausklappen
-- Modell mit verschiedenen Ausstellungsoptionen: Man kann Choppers Arme und sein mittleres Rad abnehmen, damit es den Anschein hat, er hätte die Arme und das Rad in seinen Körper eingefahren
-- LEGO Star Wars Geschenk für Kinder und die ganze Familie: Dieses Set ist ein grandioses Geburtstags- oder Ostergeschenk für Jungen, Mädchen und alle Fans der Fantasy-Abenteuerserie Star Wars: Ahsoka ab 10 Jahren
+- LEGO Star Wars Sets für Fans jeden Alters: Die separat erhältlichen LEGO Star Wars Spielsets zum Sammeln und Bauen lassen Kinder und erwachsene Fans klassische Filmszenen nachspielen, neue Geschichten darstellen und die gebauten Modelle ausstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSG5LF6{{</world>}}

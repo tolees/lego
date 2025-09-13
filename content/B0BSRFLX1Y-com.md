@@ -28,15 +28,15 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 2 iconic Star Wars characters – A LEGO Master Yoda minifigure with a lightsaber toy and a LEGO R2-D2 droid figure
+- Birthday gift for 8 year old kids – Give this 253-piece Star Wars collectible for kids as a holiday gift, birthday present or anytime treat to young Star Wars: The Clone Wars fans
 - Collectible building toys for all ages – LEGO Star Wars sets enable kids and adult Star Wars fans to recreate iconic scenes, create their own action-adventures or simply display the buildable models
-- Interactive digital building – Using the LEGO Builder app, kids can zoom in and rotate sets and visualize a digital version of the real-life construction model as they build
-- Build and play – Yoda’s Jedi Starfighter measures over 2.5 in. (7 cm) high, 5 in. (13 cm) long and 6 in. (16 cm) wide
+- Safety is a priority – LEGO components are dropped, heated, crushed, twisted and carefully analyzed to make sure that they comply with stringent global safety standards
 - Buildable starfighter toy playset (75360) – Kids can launch fun playtime missions with this LEGO brick recreation of Yoda’s Jedi Starfighter from Star Wars: The Clone Wars
 - High quality – LEGO bricks meet rigorous industry standards, ensuring that they connect simply and strongly for robust builds
+- Build and play – Yoda’s Jedi Starfighter measures over 2.5 in. (7 cm) high, 5 in. (13 cm) long and 6 in. (16 cm) wide
 - Designed for action play – The starfighter features an opening minifigure cockpit, space for R2-D2, 2 spring-loaded shooters and adjustable wings for flight and landing
-- Safety is a priority – LEGO components are dropped, heated, crushed, twisted and carefully analyzed to make sure that they comply with stringent global safety standards
-- Birthday gift for 8 year old kids – Give this 253-piece Star Wars collectible for kids as a holiday gift, birthday present or anytime treat to young Star Wars: The Clone Wars fans
-- 2 iconic Star Wars characters – A LEGO Master Yoda minifigure with a lightsaber toy and a LEGO R2-D2 droid figure
+- Interactive digital building – Using the LEGO Builder app, kids can zoom in and rotate sets and visualize a digital version of the real-life construction model as they build
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BSRFLX1Y{{</world>}}

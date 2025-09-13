@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bewegliche Actionfigur: Der Ninja-Mech kann Arme, Beine und Füße sowie Kopf und Oberkörper bewegen; dazu schwingt er 2 große Katanas und verfügt über ein Cockpit für eine NINJAGO Minifigur
 - Geburtstagsgeschenk für Kinder: Dieses LEGO NINJAGO Action-Spielzeug bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Geschenk für 9-jährige Jungs und Mädchen, die Ninja-Action lieben
 - 4 NINJAGO Minifiguren: Dieses coole Helden-Spielzeug beinhaltet Kletter Kai und Kletter Jay, die jeweils ein Katana schwingen, Wyldfyre mit 2 Flammenfäusten sowie Jordana mit einem Gleiter
+- LEGO Ninja-Spielzeug mit Mech für Kinder: Mit Kais Ninja-Kletter-Mech können Jungs und Mädchen ab 9 Jahren die Duelle im Schattenwald aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 - Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche NINJAGO Sets mit Dojos, Tempeln und Fahrzeugen an
 - 2 Ninja-Haken zum Spielen und Ausstellen: Am Rücken des Mechs befinden sich 2 große Ninja-Haken für spannende Klettereinlagen und zum Aufhängen der Actionfigur nach dem Spielen
-- Bewegliche Actionfigur: Der Ninja-Mech kann Arme, Beine und Füße sowie Kopf und Oberkörper bewegen; dazu schwingt er 2 große Katanas und verfügt über ein Cockpit für eine NINJAGO Minifigur
-- LEGO Ninja-Spielzeug mit Mech für Kinder: Mit Kais Ninja-Kletter-Mech können Jungs und Mädchen ab 9 Jahren die Duelle im Schattenwald aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXJ72J{{</world>}}

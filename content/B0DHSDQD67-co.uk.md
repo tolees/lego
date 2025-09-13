@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Farm animal toys for kids to build – Kids can load up the trailer and head out for fun farming adventures aboard the red tractor
-- Whats in the box? – Elements to build a toy tractor, trailer and 2 minifigures, plus 2 sheep, a lamb and a puppy animal figures
-- Building toy accessories – This farm toy set comes with accessories for pretend play, including a basket of carrots, 2 toy hay bales and a shovel
-- Fun learning toys for kids – LEGO City building sets help kids develop confidence and key life skills through open-ended creative play
 - Tractor and sheep toys for 4+ year old boys and girls – LEGO City Red Farm Tractor with Trailer & Sheep playset encourages imaginative storytelling
+- Farm animal toys for kids to build – Kids can load up the trailer and head out for fun farming adventures aboard the red tractor
 - Easy-to-build LEGO 4+ set– Includes a LEGO Starter Brick element, a simple pictorial building guide and 3D digital guidance in the LEGO Builder app
+- Fun learning toys for kids – LEGO City building sets help kids develop confidence and key life skills through open-ended creative play
 - A fun gift for 4+ year old boys and girls – Give this LEGO City set as a birthday gift or anytime surprise to fans of cute LEGO animal toys
+- Building toy accessories – This farm toy set comes with accessories for pretend play, including a basket of carrots, 2 toy hay bales and a shovel
+- Whats in the box? – Elements to build a toy tractor, trailer and 2 minifigures, plus 2 sheep, a lamb and a puppy animal figures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDQD67{{</world>}}

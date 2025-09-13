@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Veel accessoires – de camperset is inclusief een fiets, een picknicktafel, een toilet dat kan worden doorgespoeld, een buitendouche en tal van speelgoedaccessoires, waaronder een verrekijker, een kompas en een moersleutel
+- Rollenspellen op reis – dit Camperavontuur met vrienden bouwpakket voor kinderen vanaf 7 jaar bevat 3 poppetjes en een fret voor meisjes en jongens die graag creatieve vriendschapsverhalen vertellen
 - Een cadeau voor meisjes en jongens vanaf 7 jaar – deze camper is een leuke traktatie voor jonge ontdekkingsreizigers die van de natuur en LEGO dieren speelgoed houden of die graag hun eigen kampeeravonturen willen bedenken
 - Gemaakt voor creatieve rollenspellen– deze kampeerspeelset bevat 3 LEGO Friends poppetjes en een figuur van een fret om urenlang fantasierijke avonturen na te spelen
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 - Een LEGO camper boordevol details – kinderen ontdekken veel speelmogelijkheden als ze de wagen openen om toegang te krijgen tot het gedetailleerde interieur, waar ruimte is om te koken, slapen en ontspannen
-- Rollenspellen op reis – dit Camperavontuur met vrienden bouwpakket voor kinderen vanaf 7 jaar bevat 3 poppetjes en een fret voor meisjes en jongens die graag creatieve vriendschapsverhalen vertellen
-- Veel accessoires – de camperset is inclusief een fiets, een picknicktafel, een toilet dat kan worden doorgespoeld, een buitendouche en tal van speelgoedaccessoires, waaronder een verrekijker, een kompas en een moersleutel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSG1KS3{{</world>}}

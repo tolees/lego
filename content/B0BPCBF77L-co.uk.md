@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This LEGO Technic set is perfect for testing kids engineering skills while they discover the Skidders mechanics in 3D in the LEGO Builder app
 - Kids can discover John Deere 948L-II Skidder with this LEGO Technic model building kit, featuring pneumatic functions and 4-wheel drive
-- A large replica model kit that will make a great display in the bedroom of kids who are passionate about special LEGO vehicles and building toys
 - This LEGO vehicle construction toy comes to life with pneumatic features that control a claw with three different motions and a rotating cab seat
 - Challenge kids creativity with an advanced construction toy that offers building adventure and makes a great gift for boys and girls aged 11 and over
+- A large replica model kit that will make a great display in the bedroom of kids who are passionate about special LEGO vehicles and building toys
+- This LEGO Technic set is perfect for testing kids engineering skills while they discover the Skidders mechanics in 3D in the LEGO Builder app
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCBF77L{{</world>}}

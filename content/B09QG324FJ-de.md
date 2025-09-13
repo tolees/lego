@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Junge Köche können in der Heartlake City Pizzeria ihren LEGO Friends Essen zubereiten und servieren und besitzen ihre eigene Pizzeria
+- Enthält 2 Mini-Puppen: LEGO Friends Olivia mit Kochmütze und Ethan mit Zubehör wie einem Skateboard und einem Helm
 - Das LEGO Friends Restaurant enthält einen Pizzabackofen, einen Sitzbereich im Freien, ein Skateboard, Käse, eine Reibe und Soßenflaschen
 - Kinder können das Spielzeug ab 5 Jahren mit hängenden Blumen und einem Pizzaschild dekorieren, um den Laden zu personalisieren
-- Enthält 2 Mini-Puppen: LEGO Friends Olivia mit Kochmütze und Ethan mit Zubehör wie einem Skateboard und einem Helm
 - Das Set bietet jede Menge Spaß: Kinder können sich als Koch ausgeben und Gäste bedienen - ein tolles Geschenk für Kinder ab 5 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

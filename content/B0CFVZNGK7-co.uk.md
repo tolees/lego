@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO sound brick (batteries included) – Tip the top of the Harry Potter Sorting Hat or place it on your head to activate 1 of 31 randomised sounds
-- Harry Potter gift for fans – This 561-piece LEGO set for adults makes a great treat for yourself, birthday gift for men or women, him or her, or a thoughtful anniversary present for a husband or wife who are fans of the Wizarding World adventures
-- LEGO set for adults – Escape to the Wizarding World with this LEGO Harry Potter Hogwarts Talking Sorting Hat display model… which actually speaks
-- Display stand with a Harry Potter character minifigure – The display stand features Gryffindor, Slytherin, Hufflepuff and Ravenclaw crest decorations
 - Immerse yourself – The LEGO Builder app lets you zoom and rotate the model in 3D, track your progress and save all your sets in one place
+- Harry Potter gift for fans – This 561-piece LEGO set for adults makes a great treat for yourself, birthday gift for men or women, him or her, or a thoughtful anniversary present for a husband or wife who are fans of the Wizarding World adventures
+- Display stand with a Harry Potter character minifigure – The display stand features Gryffindor, Slytherin, Hufflepuff and Ravenclaw crest decorations
 - Model kits for adults to build – This LEGO Harry Potter set is part of a collection of premium-quality sets for adults who enjoy creative projects
+- LEGO set for adults – Escape to the Wizarding World with this LEGO Harry Potter Hogwarts Talking Sorting Hat display model… which actually speaks
+- LEGO sound brick (batteries included) – Tip the top of the Harry Potter Sorting Hat or place it on your head to activate 1 of 31 randomised sounds
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZNGK7{{</world>}}

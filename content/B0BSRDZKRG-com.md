@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 1 set, 2 ways to build – With multiple ways to build, kids can choose between equipping Bunchu with roller skates and gloves or a bee stinger and wings
 - Small Bunchu and Izzie minifigure – The toy set comes with a minifigure of Izzie with her armor, sword and hourglass. Also includes a figure of the original Bunchu the bunny toy so kids can recreate the whole storyline or create fantasy adventures
+- Dimensions – Bunchu stands over 7.5 in. (19 cm) tall without the rocket roller skates
+- Story-led building instructions – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
 - Fully articulated – Bunchu has a fully articulated neck, tail, arms and legs, making it easy for kids to recreate different scenes and poses
 - Bring Bunchu to life – Kids can enjoy endless imaginative play with the LEGO DREAMZzz Izzie and Bunchu the Bunny (71453) building toy set, inspired by the exciting LEGO DREAMZzz TV show
 - Hours of play – The set is designed for kids ages 7 and up to spend hours of fun playing on their own or with friends. They can stream and watch the LEGO DREAMZzz TV show while playing with their favorite characters
-- 1 set, 2 ways to build – With multiple ways to build, kids can choose between equipping Bunchu with roller skates and gloves or a bee stinger and wings
-- Dimensions – Bunchu stands over 7.5 in. (19 cm) tall without the rocket roller skates
-- Story-led building instructions – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRDZKRG{{</world>}}

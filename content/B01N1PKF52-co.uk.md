@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gabbys Dolhouse toy – Treat fans to a 4-floor, 8-room dolls house toy for 4+ year old girls and boys, featuring 4 characters and loads of fun accessories
-- Dolls house accessories – Includes a cupcake, scissors, paint brush, hairbrush, shampoo bottle, flower, microphone, guitar and much more
 - LEGO 4+ sets – With a Starter Brick and simple picture building steps, building this cat-shaped toy is fast and fun, helping kids to develop key skills
-- Included characters – This Gabbys Dollhouse toy for girls and boys lets kids join in the fun with a LEGO Gabby minifigure, plus Pandy Paws, MerCat and Cakey figures
 - Fun features – With this building toy, kids can bake in the kitchen, use a slide in the playroom or get creative in one of 8 activity-filled rooms connected by a cat-a-vator lift
 - Gift for Kids – This LEGO Gabbys Dollhouse toy makes a great birthday gift for 4+ year old girls and boys who are fans of the DreamWorks Animation TV show
+- Gabbys Dolhouse toy – Treat fans to a 4-floor, 8-room dolls house toy for 4+ year old girls and boys, featuring 4 characters and loads of fun accessories
 - Creative toys – Kids can play piano in the music room of the dolls house, take a nap in the bedroom or party on the rooftops rotatable dance floor
+- Included characters – This Gabbys Dollhouse toy for girls and boys lets kids join in the fun with a LEGO Gabby minifigure, plus Pandy Paws, MerCat and Cakey figures
+- Dolls house accessories – Includes a cupcake, scissors, paint brush, hairbrush, shampoo bottle, flower, microphone, guitar and much more
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01N1PKF52{{</world>}}

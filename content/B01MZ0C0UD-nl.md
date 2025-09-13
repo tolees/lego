@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Maak je eigen dinosaurusmodellen – LEGO Classic Creatieve dinosaurussen is eindeloos veelzijdig bouwspeelgoed voor jongens en meisjes vanaf 5 jaar
-- Dinosauruscadeau – dit creatieve speelgoed is een leuk cadeau voor een verjaardag, de feestdagen of zomaar tussendoor voor kinderen van 5 jaar en ouder die dol zijn op dinos
+- 450-delige set – de figuur van de Tyrannosaurus rex is ca. 8 cm hoog en de baby T. rex is ca. 3 cm hoog
 - Bouwen aan vaardigheden – LEGO Classic speelgoed zit vol ideeën en inspiratie, waarmee ouders bouwplezier en mijlpalen in de ontwikkeling met hun kinderen kunnen delen
 - Diverse LEGO stenen – kinderen bouwen leuke dinosaurusmodellen met kleurrijke bouwstenen in verschillende vormen, plus speciale onderdelen zoals ogen, monden en decoratieve elementen
-- 450-delige set – de figuur van de Tyrannosaurus rex is ca. 8 cm hoog en de baby T. rex is ca. 3 cm hoog
+- Dinosauruscadeau – dit creatieve speelgoed is een leuk cadeau voor een verjaardag, de feestdagen of zomaar tussendoor voor kinderen van 5 jaar en ouder die dol zijn op dinos
+- Maak je eigen dinosaurusmodellen – LEGO Classic Creatieve dinosaurussen is eindeloos veelzijdig bouwspeelgoed voor jongens en meisjes vanaf 5 jaar
+- Vergroot het speelplezier – bekijk het volledige assortiment LEGO Classic speelgoed (apart verkrijgbaar) voor nog meer fantasierijk speelplezier
 - Stapsgewijze instructies – er is een eenvoudige, intuïtieve handleiding inbegrepen om de creatieve bouwvaardigheden van kinderen te inspireren
 - Fantasierijk speelplezier – jonge kinderen bouwen een T. rex, een Pterosaurus, een Triceratops, een Brontosaurus, een baby T. rex, een palmboom en een vulkaan en maken vervolgens hun eigen creaties
-- Vergroot het speelplezier – bekijk het volledige assortiment LEGO Classic speelgoed (apart verkrijgbaar) voor nog meer fantasierijk speelplezier
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MZ0C0UD{{</world>}}

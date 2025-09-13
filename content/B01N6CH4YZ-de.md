@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses Set ist Teil der LEGO Botanical Collection und enthält Elemente aus pflanzlichem Kunststoff, der aus nachhaltig angebautem Zuckerrohr hergestellt wird
-- Verwandle jeden Raum in eine Oase der Farbe mit diesem wunderschönen, pflegeleichten LEGO Set für Erwachsene, Frauen und Männer zum Bauen - verleihe deinem Zuhause oder Büro einen einzigartigen Farbtupfer
-- Der LEGO Icons Mini Pflanzen Bausatz ist ein tolles Geschenk zum Geburtstag oder Weihnachten für Frauen, Männer und alle Pflanzenfreunde, die eine langanhaltende, farbenfrohe Schreibtisch oder Zimmer-Deko suchen
 - Wähle aus einer Reihe von Modellen; Anfänger können mit den einfacheren Kunstpflanzen Erfahrungen sammeln, während diejenigen, die komplexere Herausforderungen suchen, auf fortgeschrittene Modelle zurückgreifen können
 - Nimm dir eine Auszeit oder genieße mit Freunden und Familie ein entspanntes Bauerlebnis mit dem dekorativen LEGO Icons Mini Pflanzen Set aus der Botanical Collection mit 9 Pflanzen in einem terrakottafarbenen Topf
 - Dieses Set enthält alles, was du zum Bauen von 9 wüstenartigen, tropischen und fleischfressenden LEGO Pflanzen benötigst, die jeweils in einem baubaren, terrakottafarbenen Blumentopf sitzen – tolle Zimmer-Deko für Zuhause oder das Büro
+- Verwandle jeden Raum in eine Oase der Farbe mit diesem wunderschönen, pflegeleichten LEGO Set für Erwachsene, Frauen und Männer zum Bauen - verleihe deinem Zuhause oder Büro einen einzigartigen Farbtupfer
+- Der LEGO Icons Mini Pflanzen Bausatz ist ein tolles Geschenk zum Geburtstag oder Weihnachten für Frauen, Männer und alle Pflanzenfreunde, die eine langanhaltende, farbenfrohe Schreibtisch oder Zimmer-Deko suchen
+- Dieses Set ist Teil der LEGO Botanical Collection und enthält Elemente aus pflanzlichem Kunststoff, der aus nachhaltig angebautem Zuckerrohr hergestellt wird
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N6CH4YZ{{</world>}}

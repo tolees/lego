@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - The sounds enhance play and learn possibilities with noises indicating when to eat, play and sleep, teaching toddlers about daily routines
-- Give this hands-on playset as a birthday present, Christmas gift or any-day treat to boys and girls aged 1.5+ years old
+- Also includes bricks to build a birthday cake, present, tree with a star plus pet food bricks and a bowl so kids can role-play feeding time
 - This LEGO DUPLO pet animal toy set includes buildable kitten and puppy toys for toddlers that make realistic sounds plus a pet play hoop
 - With this early development learning toy, toddlers assemble 2 bricks to build each toy animal, then care for them and listen to their needs
-- Also includes bricks to build a birthday cake, present, tree with a star plus pet food bricks and a bowl so kids can role-play feeding time
+- Give this hands-on playset as a birthday present, Christmas gift or any-day treat to boys and girls aged 1.5+ years old
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFS53BH{{</world>}}

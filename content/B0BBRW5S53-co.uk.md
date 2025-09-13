@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- There are lots more LEGO Super Heroes sets with action figures for kids to collect, letting them create their own mega multi-mech battles
 - Kids can move, position and pose the Hulk mech buildable toy as they play - locked knee joints provide stability for the action figure to stand
 - LEGO Marvel buildable toy features a Hulkbuster mech action figure that kids can use to recreate Marvel Studios’ Avengers: Infinity War action
-- Includes 4 minifigures: Bruce Banner, whose head turns to reveal a Hulk ‘going green’ face, Okoye, who carries a toy spear and 2 outriders
 - The Marvel Avengers action figure also has an opening cockpit with space for kids to place the Bruce Banner minifigure in the pilots seat
 - LEGO Marvel Avengers buildable toys for boys and girls make exciting birthday presents or any day-gift ideas for young super hero kids and movie fans
+- Includes 4 minifigures: Bruce Banner, whose head turns to reveal a Hulk ‘going green’ face, Okoye, who carries a toy spear and 2 outriders
+- There are lots more LEGO Super Heroes sets with action figures for kids to collect, letting them create their own mega multi-mech battles
 - The portable Hulkbuster mech action figure stands over 5 in. (15 cm) tall and makes a great addition to any LEGO Marvel building toy collection
 
 [🛒 Buy it!!]({{< param buyurl >}})

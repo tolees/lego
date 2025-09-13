@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Sets to feed creativity – Check out more fun building kits (sets sold separately) in the LEGO Friends range
+- 4 LEGO Friends characters - Includes classic Friends character Andrea, who is now grown up and coming back as a talent show judge, plus singer Ley-La, drummer Nabil and keyboard player Alexander
+- Role-play musical toy – Kids can play together and create their own stories using the accessories, which include a guitar, shoes, a wig and shoulder pads for Ley-La to wear, plus a cell phone, coffee machine, snacks and mirror
+- 3 musicians and rotating functions – Kids can create endless stories as they make the characters perform using the singer’s reveal function and special gears that move the keyboard player and drummer
+- Measurements – 669-piece set with main stage measuring over 8.5 in. (22 cm) high, 11 in. (28 cm) wide and 7 in. (17 cm) deep
 - A holiday gift for kids – This social-emotional toy makes a fun gift idea for children who love imaginative play and musical talent shows
 - Put on a musical talent show – The LEGO Friends Heartlake City Music Talent Show toy includes 4 characters, a stage and lots of accessories, making it a fun music gift for 7 year old kids, girls and boys
-- 3 musicians and rotating functions – Kids can create endless stories as they make the characters perform using the singer’s reveal function and special gears that move the keyboard player and drummer
-- Role-play musical toy – Kids can play together and create their own stories using the accessories, which include a guitar, shoes, a wig and shoulder pads for Ley-La to wear, plus a cell phone, coffee machine, snacks and mirror
-- Measurements – 669-piece set with main stage measuring over 8.5 in. (22 cm) high, 11 in. (28 cm) wide and 7 in. (17 cm) deep
-- 4 LEGO Friends characters - Includes classic Friends character Andrea, who is now grown up and coming back as a talent show judge, plus singer Ley-La, drummer Nabil and keyboard player Alexander
+- Sets to feed creativity – Check out more fun building kits (sets sold separately) in the LEGO Friends range
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CGY4PM4M{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This LEGO DC Batman buildable toy figure from the classic 1989 movie makes a fab birthday gift for boys, girls and kids aged 8+ years old
 - The collectible toy Batman action figure features movable shoulder, arm, hip and leg joints and includes the character’s distinctive textile cape
 - Classic Super Hero action awaits DC fans aged 8+ with this highly detailed, fully jointed LEGO Batman figure based on the 1989 Batman movie
-- Standing over 26 cm (10.5 in.) tall, this portable Batman super hero action figure lets kids take their adventures with them wherever they go
 - The multi-jointed figure of GOTHAM CITYs knight easily adjusts, allowing kids to recreate favourite film scenes and play out stories of their own
-- This LEGO DC Batman buildable toy figure from the classic 1989 movie makes a fab birthday gift for boys, girls and kids aged 8+ years old
+- Standing over 26 cm (10.5 in.) tall, this portable Batman super hero action figure lets kids take their adventures with them wherever they go
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPC9GXSN{{</world>}}

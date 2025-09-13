@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- De Hulkbuster mecha van de Marvel Avengers is volledig verstelbaar en biedt zitplaats voor de Iron Man minifiguur; het vliegtuig heeft een schijfschieter en een zitplaats voor de Thanos minifiguur
+- Breng de iconische Avengers actie tot leven met deze bouwbare LEGO Marvel Iron Man Hulkbuster vs. Thanos speelgoed set voor kinderen vanaf 4 jaar met een mecha Iron Man actiefiguur en Thanos vliegtuig
 - Elk zakje bevat de onderdelen voor een model en Marvel personage, zodat kinderen snel kunnen gaan spelen, plus een kleurrijk fotoverhaal als bouw- en speelgids
 - Deze LEGO 4+ set voor beginnende bouwers bevat Iron Man met een Hulkbuster mecha actiefiguur en Thanos met een bouwbaar speelgoed vliegtuig, plus 2 startstenen, zodat het bouw- en speelplezier meteen kan beginnen
-- Breng de iconische Avengers actie tot leven met deze bouwbare LEGO Marvel Iron Man Hulkbuster vs. Thanos speelgoed set voor kinderen vanaf 4 jaar met een mecha Iron Man actiefiguur en Thanos vliegtuig
-- De Hulkbuster mecha van de Marvel Avengers is volledig verstelbaar en biedt zitplaats voor de Iron Man minifiguur; het vliegtuig heeft een schijfschieter en een zitplaats voor de Thanos minifiguur
 - LEGO 4+ sets zijn de perfecte manier voor volwassenen om het bouw- en speelplezier met kinderen te delen; en ze helpen jonge kinderen om belangrijke vaardigheden te ontwikkelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

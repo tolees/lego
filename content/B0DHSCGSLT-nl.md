@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Net als in het echt – de trailer heeft een Formule 1 simulatorruimte en een dubbele voertuigruimte met volledig te openen zijpanelen, een achterklep en oprijplaten voor het inladen van de RB20 en AMR24 F1 raceautos
-- Digitaal bouwplezier – deze LEGO F1 autospeelset bevat instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden en tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een LEGO F1 transporttruck te bouwen met een lage aanhanger, 2 Formule 1 raceautos en minifiguren van 2 Formule 1 coureurs en 3 monteurs, plus een trofee voor de winnaar
-- Auto speelgoed voor 8 jaar en ouder en F1 fans – verras je jonge racer met deze LEGO City Formule 1 speelset, een geweldig verjaardags-, kerstcadeau of zomaar cadeau voor jongens en meisjes van 8 jaar en ouder
-- LEGO F1 transporttruck speelgoed voor kinderen – jonge Formule 1 fans zullen weg zijn van dit LEGO City F1 truck met RB20 en AMR24 F1 autos bouwpakket voor kinderen vanaf 8 jaar
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met speelgoedvoertuigen, gebouwen en personages die hen inspireren om te bouwen, creëren, ontdekken en spelen
 - Meer razendsnelle Formule 1 actie – kijk ook eens naar de andere LEGO F1 bouwsets (apart verkrijgbaar) om met het hele gezin te bouwen, te racen en te bewonderen
+- LEGO F1 transporttruck speelgoed voor kinderen – jonge Formule 1 fans zullen weg zijn van dit LEGO City F1 truck met RB20 en AMR24 F1 autos bouwpakket voor kinderen vanaf 8 jaar
+- Auto speelgoed voor 8 jaar en ouder en F1 fans – verras je jonge racer met deze LEGO City Formule 1 speelset, een geweldig verjaardags-, kerstcadeau of zomaar cadeau voor jongens en meisjes van 8 jaar en ouder
+- Digitaal bouwplezier – deze LEGO F1 autospeelset bevat instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden en tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een LEGO F1 transporttruck te bouwen met een lage aanhanger, 2 Formule 1 raceautos en minifiguren van 2 Formule 1 coureurs en 3 monteurs, plus een trofee voor de winnaar
+- Net als in het echt – de trailer heeft een Formule 1 simulatorruimte en een dubbele voertuigruimte met volledig te openen zijpanelen, een achterklep en oprijplaten voor het inladen van de RB20 en AMR24 F1 raceautos
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCGSLT{{</world>}}

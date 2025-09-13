@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO auto bouwpakket voor volwassenen – deze McLaren P1 set voor volwassenen zit boordevol authentieke details en bevat een verzamelobject op schaal 1:8 voor fans van supercars
 - Een cadeau voor autoliefhebbers – deze set is een leuk cadeau voor hem of haar, alle volwassen LEGO bouwers, liefhebbers van supercars en McLaren fans en biedt een creatieve hobby met een resultaat om te koesteren
-- Unieke tegel met serienummer – net als de echte auto heeft de LEGO auto een eigen uniek serienummer waarmee je toegang krijgt tot exclusieve online content
-- Bouw de V8-zuigermotor en meer – geniet van tijd voor jezelf terwijl je elk detail in elkaar zet, waaronder de versnellingsbak met 7 versnellingen en schakeltrommel, de deuren die open kunnen, de verstelbare achtervleugel en de V8-zuigermotor
 - Een modelauto op schaal 1:8 om neer te zetten – deze LEGO volwassenen vormt een boeiende uitdaging voor LEGO Technic fans, van het uitpakken tot het bouwen en het voltooide model
+- LEGO auto bouwpakket voor volwassenen – deze McLaren P1 set voor volwassenen zit boordevol authentieke details en bevat een verzamelobject op schaal 1:8 voor fans van supercars
+- Bouw de V8-zuigermotor en meer – geniet van tijd voor jezelf terwijl je elk detail in elkaar zet, waaronder de versnellingsbak met 7 versnellingen en schakeltrommel, de deuren die open kunnen, de verstelbare achtervleugel en de V8-zuigermotor
 - 3D-bouwinstructies – bereid je voor om te bouwen als nooit tevoren met de LEGO Builder app, waarin je sets kunt opslaan, je voortgang kunt bijhouden, kunt inzoomen en je model in 3D kunt draaien
+- Unieke tegel met serienummer – net als de echte auto heeft de LEGO auto een eigen uniek serienummer waarmee je toegang krijgt tot exclusieve online content
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3TBGB{{</world>}}

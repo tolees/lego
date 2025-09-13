@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Inclusief 6 mini figuren plus leuke accessoires zoals een hotdog, een telefoon, een fiets en een scootmobiel voor urenlang fantasierijk speelplezier
-- Het LEGO City Appartementsgebouw heeft modulaire kamers die gecombineerd kunnen worden, leuke personages en accessoires voor kinderen vanaf 6 jaar
 - Deze modelbouwset bevat een appartementsgebouw met zonnepanelen, een speelgoed winkel op de hoek, een woonkamer, een keuken, een slaapkamer en een badkamer met toilet en bad
-- Bevat ook een LEGO Wegplaat, zodat deze set op andere LEGO City sets (apart verkrijgbaar) kan worden aangesloten voor nog meer bouw- en speelplezier
+- Het LEGO City Appartementsgebouw heeft modulaire kamers die gecombineerd kunnen worden, leuke personages en accessoires voor kinderen vanaf 6 jaar
 - De LEGO modular building set is een leuk cadeau voor een verjaardag, kerst of een andere gelegenheid, om te geven aan kinderen die dol zijn op bouwen
+- Bevat ook een LEGO Wegplaat, zodat deze set op andere LEGO City sets (apart verkrijgbaar) kan worden aangesloten voor nog meer bouw- en speelplezier
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC692J5{{</world>}}

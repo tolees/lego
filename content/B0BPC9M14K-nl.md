@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Jurassic Park dinosaurus speelgoed voor jongens en meisjes laat kinderen scènes uit de films en animatieserie naspelen of unieke verhalen verzinnen
-- Recreëer de ontdekking van de brachiosaurus, een klassiek Jurassic Park moment, met deze dinosaurus set met een speelgoed Jeep Wrangler auto, een boom en de grootste LEGO dinosaurus speelgoed figuur tot nu toe!
-- Deze set bevat iconische personages om de 30ste verjaardag van de Jurassic Park film te vieren- Dr Alan Grant, Dr Ellie Sattler en John Hammond LEGO mini figuren
 - Kinderen kunnen het gedetailleerde LEGO Jurassic Park Jeep auto speelgoed bouwen en vervolgens de 3 mini figuren er in dezelfde positie in plaatsen als in de scène waar ze voor het eerst de brachiosaurus zien
 - De LEGO boom heeft een uitkijkplatform voor maximaal 3 mini figuren en afneembare bladeren om aan de brachiosaurus te voeren, naast de speelgoed boom is er een waarschuwingsbord
 - De grote brachiosaurus dinosaurus figuur heeft een beweegbare bek, nek en poten, zodat hij de bouwbare speelgoed boom kan opeten
+- Deze set bevat iconische personages om de 30ste verjaardag van de Jurassic Park film te vieren- Dr Alan Grant, Dr Ellie Sattler en John Hammond LEGO mini figuren
+- LEGO Jurassic Park dinosaurus speelgoed voor jongens en meisjes laat kinderen scènes uit de films en animatieserie naspelen of unieke verhalen verzinnen
+- Recreëer de ontdekking van de brachiosaurus, een klassiek Jurassic Park moment, met deze dinosaurus set met een speelgoed Jeep Wrangler auto, een boom en de grootste LEGO dinosaurus speelgoed figuur tot nu toe!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPC9M14K{{</world>}}

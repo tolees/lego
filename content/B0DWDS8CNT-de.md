@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Super Mario App: Lade dir die App herunter, um dir Bauanleitungen, kreative Tipps und Ähnliches zu holen. Eine Liste der kompatiblen Android- und iOS-Geräte findest du auf LEGO.com/devicecheck
-- Spielzeug ab 7 Jahre mit Partyspaß: Dieses LEGO Super Mario Spielset bringt Partystimmung ins Kinderzimmer; schmücke den Garten, bring die Torte heraus und feiere eine bunte Party im Toad-Haus
-- Nintendo LEGO für kreative Rollenspiele: Die Super Mario Sets fördern Fantasie, Sammelspaß und Münzjagden; ein kreatives Spielzeug für Jungen und Mädchen, um gemeinsam Spaß zu haben
-- Modellbau zum Spielen und Ausstellen: Im Toad-Haus warten Küche, Schlafzimmer, Möbel und ein Picknicktisch; ein Spielset mit Partyzubehör und liebevollen Details für kleine Baumeister
-- Kinder Geschenk ab 7 Jahre für ganz viel Bau- und Spielspaß: Dieses LEGO Super Mario Bauspielzeug eignet sich als kleine Überraschung für Jungen, Mädchen und Fans ab 7 Jahren
 - Spielset für Kinder mit Spielfiguren: Zwei LEGO Super Mario Figuren, blauer und grüner Toad, laden zum Rollenspiel ein und machen dieses Nintendo LEGO Set zu einem originellem Mitbringsel für kreative Kinder
+- Modellbau zum Spielen und Ausstellen: Im Toad-Haus warten Küche, Schlafzimmer, Möbel und ein Picknicktisch; ein Spielset mit Partyzubehör und liebevollen Details für kleine Baumeister
+- Nintendo LEGO für kreative Rollenspiele: Die Super Mario Sets fördern Fantasie, Sammelspaß und Münzjagden; ein kreatives Spielzeug für Jungen und Mädchen, um gemeinsam Spaß zu haben
+- Kinder Geschenk ab 7 Jahre für ganz viel Bau- und Spielspaß: Dieses LEGO Super Mario Bauspielzeug eignet sich als kleine Überraschung für Jungen, Mädchen und Fans ab 7 Jahren
+- Spielzeug ab 7 Jahre mit Partyspaß: Dieses LEGO Super Mario Spielset bringt Partystimmung ins Kinderzimmer; schmücke den Garten, bring die Torte heraus und feiere eine bunte Party im Toad-Haus
+- LEGO Super Mario App: Lade dir die App herunter, um dir Bauanleitungen, kreative Tipps und Ähnliches zu holen. Eine Liste der kompatiblen Android- und iOS-Geräte findest du auf LEGO.com/devicecheck
 - Interaktives Spielzeug mit Musik: LEGO Mario, Luigi oder Peach (nicht enthalten) lösen Soundeffekte wie Musik und Türklingel aus; dieses Spiel sorgt für jede Menge Spaß mit Freunden
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Grotere ninja-avonturen – kijk uit naar meer NINJAGO speelgoed (apart verkrijgbaar) met LEGO draken, mecha en dojos
 - Cadeau voor tieners – dit NINJAGO speelgoed biedt een leuke bouw- en speelervaring en is een mooi cadeau voor jongens en meisjes vanaf 13 jaar met een passie voor ninjaverhalen en rollenspellen
-- Interactief drakenmodel – dit ninja speelgoed heeft een trainingsgedeelte dat heen en weer kan worden bewogen terwijl de personages strijden en een geheime kamer die wordt onthuld als je op de boeken in de bibliotheek duwt
-- Speelgoed draak boordevol functies – de set bevat een stenen draak, een waterval, een kersenboom, een bibliotheek met boekrollen, boeken en een theeservies en een geheime kamer
-- Avontuurlijk bouwpakket voor kinderen – jongens en meisjes vanaf 13 jaar kunnen deze grote Altaar van de Stenen Draak set met bewegende details en veel minifiguren van NINJAGO personages bouwen, ermee spelen en vol trots neerzetten
 - 6 NINJAGO minifiguren – bouwbaar model met Meester Lloyd, Meester Wu, Lord Ras, Nya, Kai en Euphrasia, zodat kinderen de actie uit seizoen 2 van de tv-serie NINJAGO Dragons Rising kunnen naspelen
 - Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
+- Interactief drakenmodel – dit ninja speelgoed heeft een trainingsgedeelte dat heen en weer kan worden bewogen terwijl de personages strijden en een geheime kamer die wordt onthuld als je op de boeken in de bibliotheek duwt
+- Avontuurlijk bouwpakket voor kinderen – jongens en meisjes vanaf 13 jaar kunnen deze grote Altaar van de Stenen Draak set met bewegende details en veel minifiguren van NINJAGO personages bouwen, ermee spelen en vol trots neerzetten
+- Speelgoed draak boordevol functies – de set bevat een stenen draak, een waterval, een kersenboom, een bibliotheek met boekrollen, boeken en een theeservies en een geheime kamer
+- Grotere ninja-avonturen – kijk uit naar meer NINJAGO speelgoed (apart verkrijgbaar) met LEGO draken, mecha en dojos
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW2VB4G{{</world>}}

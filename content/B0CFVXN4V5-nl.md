@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Leuk kinderspeelgoed – ontvang willekeurige beloningen van het ?-blok en zie hoe een interactieve figuur reageert als de Cheep Chomp erop kauwt
-- Stimuleer de creativiteit van kinderen – LEGO Super Mario sets staan voor rollenspel, digitaal munten verzamelen en creatieve uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
-- 4 bouwbare Super Mario poppetjes – rijd op een Dorrie met LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) en versla de Cheep Cheep, Cheep Chomp en Blooper
-- Cadeau voor gamers vanaf 7 jaar – deze 500-delige set is een leuk cadeau voor kinderen. Voor interactief spelen is een LEGO Super Mario startset (71360, 71387 of 71403) vereist
 - Uitbreidingsset: Dorries gezonken scheepswrak – voeg een avontuurlijke speurtocht toe aan de LEGO Super Mario wereld van kinderen met dit bouwbare scheepswrak
 - Interactief Mario speelgoed voor plezier met het hele gezin – verken het scheepswrak met een interactieve Super Mario figuur, draai het platform om het sleutelblok in de schelp te onthullen en open de schatkist om de edelsteen te pakken
+- Leuk kinderspeelgoed – ontvang willekeurige beloningen van het ?-blok en zie hoe een interactieve figuur reageert als de Cheep Chomp erop kauwt
+- 4 bouwbare Super Mario poppetjes – rijd op een Dorrie met LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) en versla de Cheep Cheep, Cheep Chomp en Blooper
+- Cadeau voor gamers vanaf 7 jaar – deze 500-delige set is een leuk cadeau voor kinderen. Voor interactief spelen is een LEGO Super Mario startset (71360, 71387 of 71403) vereist
+- Stimuleer de creativiteit van kinderen – LEGO Super Mario sets staan voor rollenspel, digitaal munten verzamelen en creatieve uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXN4V5{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geschenkidee für Kinder: Dieses kleine LEGO Set ist eine schöne Belohnung oder ein cooles Geschenk für Jungs und Mädchen, die Bauspielzeuge und Modellauto-Bausätze lieben
-- Buggy-Spielzeug für 8-jährige Jungs und Mädchen: Der LEGO Technic Offroad Rennbuggy bietet Kindern, die Rennauto-Spielzeug lieben, jede Menge Bau- und Spielspaß
-- Lenkung und Federung: Dein Kind kann das Spielzeugauto auf Herz und Nieren testen und die Heckfederung und die Kipplenkung ausprobieren, die das LEGO Technic Rennauto rasch zu beiden Seiten neigt
 - Einführung in die Welt der Technik: LEGO Technic Bausets stellen die Bewegungen und die Mechanik der Modelle realistisch dar, um jungen LEGO Baumeistern die Welt der Technik näherzubringen
 - 4-Zylindermotor: Dieses LEGO Auto-Spielzeug verfügt über dieselben Details wie echte Rennbuggys und hat unter anderem einen beweglichen 4-Zylindermotor
+- Lenkung und Federung: Dein Kind kann das Spielzeugauto auf Herz und Nieren testen und die Heckfederung und die Kipplenkung ausprobieren, die das LEGO Technic Rennauto rasch zu beiden Seiten neigt
+- Buggy-Spielzeug für 8-jährige Jungs und Mädchen: Der LEGO Technic Offroad Rennbuggy bietet Kindern, die Rennauto-Spielzeug lieben, jede Menge Bau- und Spielspaß
+- Geschenkidee für Kinder: Dieses kleine LEGO Set ist eine schöne Belohnung oder ein cooles Geschenk für Jungs und Mädchen, die Bauspielzeuge und Modellauto-Bausätze lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW32DWR{{</world>}}

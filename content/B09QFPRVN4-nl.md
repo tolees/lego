@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze LEGO Minecraft set bestaat uit verschillende grotten die kinderen kunnen ontdekken, skeletten om tegen te strijden en een functie waarmee nog meer skeletten tevoorschijn komen
-- Bij de Minecraft set zijn ook figuren inbegrepen van een grotverkenner en 3 skeletten, plus een heleboel leuke accessoires, zoals 2 kruisbogen, een houweel, een brood, een bot en een schatkist met een muziekplaat
+- Het Minecraft speelgoed bestaat uit 3 biomen: een druipsteengrot met stalagmieten, stalactieten en een functie om rotsblokken te laten vallen; een weelderig begroeide grot met struiken, klei en toortsen en een kerker met een monsterkooi
 - Geef kinderen vanaf 8 jaar een origineel cadeau voor hun verjaardag, kerst of een andere gelegenheid, met deze praktische versie van de Minecraft game
 - Terwijl ze helemaal opgaan in de avontuurlijke Minecraft wereld, kunnen kinderen bouwen, ontdekken, strijden en leuke functies activeren, en vervolgens kunnen ze de set weer helemaal anders indelen, voor nog meer creatieve speelmogelijkheden
+- Bij de Minecraft set zijn ook figuren inbegrepen van een grotverkenner en 3 skeletten, plus een heleboel leuke accessoires, zoals 2 kruisbogen, een houweel, een brood, een bot en een schatkist met een muziekplaat
+- Deze LEGO Minecraft set bestaat uit verschillende grotten die kinderen kunnen ontdekken, skeletten om tegen te strijden en een functie waarmee nog meer skeletten tevoorschijn komen
 - Kinderen kunnen spannende verhalen naspelen, waarin ze de Minecraft skeletten verslaan met een kruisboog of de vijandige mobs tegenhouden door er rotsblokken op te laten vallen
-- Het Minecraft speelgoed bestaat uit 3 biomen: een druipsteengrot met stalagmieten, stalactieten en een functie om rotsblokken te laten vallen; een weelderig begroeide grot met struiken, klei en toortsen en een kerker met een monsterkooi
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QFPRVN4{{</world>}}

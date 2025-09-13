@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - CADEAU VOOR JONGENS EN MEISJES – verras een peuter die van treinen houdt met een mooi cadeau: dit LEGO DUPLO bouwpakket voor kinderen boordevol functies
+- MONTESSORI SPEELGOED VOOR PEUTERS – dit LEGO bouwpakket voor kinderen bevat 4 DUPLO figuren, een speelgoedtrein die licht en geluid afspeelt, 3 bouwbare bestemmingen en 14 railelementen voor creatief bouw- en speelplezier
 - STIMULEERT DE VERBEELDING – de 3 actiestenen liggen in de baan en laten de speelgoedtrein licht en geluid maken. Voor de trein zijn 4 AAA-batterijen nodig (LR03, niet inbegrepen)
+- DUPLO TREIN SET VOOR CREATIEVE ROLLENSPELLEN – peuters vanaf 2 jaar beginnen aan een boeiende reis met het LEGO DUPLO Interactieve avonturentrein speelgoed
 - INTERACTIEVE APP – de gratis LEGO DUPLO Interactieve Treinen app geeft peuters inspiratie en laat ze hun eigen geluiden opnemen en de trein besturen met behulp van een draagbaar elektronisch apparaat
 - LEGO INTERACTIEVE TREIN SPEELGOED – peuters gebruiken hun probleemoplossende vaardigheden: ze kiezen of ze naar het station, park of strand gaan en bepalen vervolgens de route van de trein
-- MONTESSORI SPEELGOED VOOR PEUTERS – dit LEGO bouwpakket voor kinderen bevat 4 DUPLO figuren, een speelgoedtrein die licht en geluid afspeelt, 3 bouwbare bestemmingen en 14 railelementen voor creatief bouw- en speelplezier
-- DUPLO TREIN SET VOOR CREATIEVE ROLLENSPELLEN – peuters vanaf 2 jaar beginnen aan een boeiende reis met het LEGO DUPLO Interactieve avonturentrein speelgoed
 - EDUCATIEF SPEELGOED – LEGO DUPLO interactief treinspeelgoed om te bouwen en herbouwen is ontworpen om het probleemoplossend vermogen, het geduld, de concentratie, de fijne motoriek en het doorzettingsvermogen van peuters te versterken
 
 [🛒 Buy it now!!]({{< param buyurl >}})

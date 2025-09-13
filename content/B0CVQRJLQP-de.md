@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spielset mit detailgetreuem Tandemhubschrauber: Der LEGO City Dschungelforscher-Hubschrauber ist ein tolles Bauspielzeug für Jungen und Mädchen ab 8 Jahren
-- Mit kombinierbarer Karte: Füge die Landkarte aus diesem Set mit den Karten aus 3 separat erhältlichen Spielsets zu einer vollständigen Übersicht des LEGO City Dschungels zusammen
-- Inhalt der Box: Dieses Abenteuer-Spielset beinhaltet einen Tandemhubschrauber, ein Motorrad, ein Sumpfboot, ein Dschungelbasislager, 5 Abenteurer-Minifiguren und 3 Spielzeug-Gorillas
 - Bauspielzeug für Kinder, die gern kreativ spielen: Kinder können bis zu 4 Minifiguren ins Cockpit des Hubschraubers setzen, mit der Seilwinde das mobile Basislager im Dschungel absetzen und die beiden synchronisierten Hauptrotoren drehen
-- Modell-Hubschrauber mit coolem Zubehör: Dieses Spielset für Kinder beinhaltet LEGO Minifiguren-Zubehör für Rollenspiele, beispielsweise eine Karte, eine Arzttasche, ein Fernglas und eine Kamera sowie eine Spielzeugspinne
-- Weitere Sets zum Sammeln: Für weitere spannende Abenteuer muss dein Kind dieses Set nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
+- Spielset mit detailgetreuem Tandemhubschrauber: Der LEGO City Dschungelforscher-Hubschrauber ist ein tolles Bauspielzeug für Jungen und Mädchen ab 8 Jahren
+- Inhalt der Box: Dieses Abenteuer-Spielset beinhaltet einen Tandemhubschrauber, ein Motorrad, ein Sumpfboot, ein Dschungelbasislager, 5 Abenteurer-Minifiguren und 3 Spielzeug-Gorillas
+- Mit kombinierbarer Karte: Füge die Landkarte aus diesem Set mit den Karten aus 3 separat erhältlichen Spielsets zu einer vollständigen Übersicht des LEGO City Dschungels zusammen
 - Tolles Geschenk für Kinder: Dieses Dschungel-Spielzeug ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Jungen und Mädchen ab 8 Jahren
+- Weitere Sets zum Sammeln: Für weitere spannende Abenteuer muss dein Kind dieses Set nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
+- Modell-Hubschrauber mit coolem Zubehör: Dieses Spielset für Kinder beinhaltet LEGO Minifiguren-Zubehör für Rollenspiele, beispielsweise eine Karte, eine Arzttasche, ein Fernglas und eine Kamera sowie eine Spielzeugspinne
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CVQRJLQP{{</world>}}
