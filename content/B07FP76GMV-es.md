@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Este juguete de construcción incluye también 2 cañones y 4 misiles
-- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco
-- Edad recomendada por el fabricante: 7+
 - Número de piezas: 235
+- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco
+- Este juguete de construcción incluye también 2 cañones y 4 misiles
+- Edad recomendada por el fabricante: 7+
 - Action Battle: Ataque al Generador de Hoth
 
 [🛒 Buy it now!!]({{< param buyurl >}})

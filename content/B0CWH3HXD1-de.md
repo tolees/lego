@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Beweglicher NINJAGO Spielzeugdrache für spannende Rollenspiele: Der bisher größte NINJAGO Drache kann Beine, Schwanz, Hüften, Kiefer, Kopf, Hals und Flügel bewegen
+- NINJAGO Geschenk für Kinder: Dieses Fabelwesen-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Weihnachtsgeschenk für Kinder, die gern Ninja-Abenteuer darstellen
 - Drachen-Actionfigur für viele Abenteuer: Mit diesem Quelldrachen der Bewegung können Jungen und Mädchen ab 12 Jahren die Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Ninja-Spielzeuge für ein ganzes Spieluniversum: LEGO NINJAGO Spielsets beinhalten Mechs, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
 - Action-Spielzeug mit Sattelthron: Auf dem Rücken des Drachen befindet sich ein großer Sattelthron, auf den Kinder eine LEGO NINJAGO Minifigur setzen können, um Geschichten mit dem fliegenden Drachen darzustellen
 - 6 LEGO NINJAGO Minifiguren: Dieses Spielset beinhaltet die Ninja Kai, Wyldfyre und Arin sowie die Bösewichte Lord Ras, Jordana und einen Wolfsjäger. Alle 6 Minifiguren sind für Duelle bestens ausgerüstet
-- Ninja-Spielzeuge für ein ganzes Spieluniversum: LEGO NINJAGO Spielsets beinhalten Mechs, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
-- NINJAGO Geschenk für Kinder: Dieses Fabelwesen-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Weihnachtsgeschenk für Kinder, die gern Ninja-Abenteuer darstellen
 - Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, in der Baumeister 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
+- Beweglicher NINJAGO Spielzeugdrache für spannende Rollenspiele: Der bisher größte NINJAGO Drache kann Beine, Schwanz, Hüften, Kiefer, Kopf, Hals und Flügel bewegen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH3HXD1{{</world>}}

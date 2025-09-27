@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Intuitive instructions – The LEGO Builder app gives kids interactive tools that let them zoom in and rotate models in 3D, save their LEGO Harry Potter sets and track their progress
-- 3 LEGO Harry Potter minifigures – Includes Neville Longbottom, Hermione Granger and Professor Sprout minifigures with 2 sets of earmuff accessory elements, plus a Trevor the toad animal figure
-- LEGO Hogwarts Castle collectible – This fantasy playset is part of a series of modular sets (sold separately) that connect to create the most detailed brick-built Hogwarts Castle scene yet
 - LEGO Harry Potter gift for kids – The Hogwarts classroom playset makes a fun and magical birthday gift for 8+ year old girls, boys and all fans of Harry Potter toys and building sets
-- A buildable Hogwarts Castle toy – Features an opening greenhouse with magical plants, 2 removable tables, a tree through a ‘broken window and fun LEGO gardening accessories
-- 3 LEGO Harry Potter Mandrake toy plants – The Mandrake plant and pot elements were specially designed for this building set and the minifigures can hold the Mandrakes by the leaves
 - Harry Potter classroom playset – LEGO Hogwarts building toy for 8+ year old girls and boys lets young wizards, witches and Muggles role-play as students learning how to nurture magical plants
+- LEGO Hogwarts Castle collectible – This fantasy playset is part of a series of modular sets (sold separately) that connect to create the most detailed brick-built Hogwarts Castle scene yet
+- 3 LEGO Harry Potter Mandrake toy plants – The Mandrake plant and pot elements were specially designed for this building set and the minifigures can hold the Mandrakes by the leaves
+- A buildable Hogwarts Castle toy – Features an opening greenhouse with magical plants, 2 removable tables, a tree through a ‘broken window and fun LEGO gardening accessories
+- 3 LEGO Harry Potter minifigures – Includes Neville Longbottom, Hermione Granger and Professor Sprout minifigures with 2 sets of earmuff accessory elements, plus a Trevor the toad animal figure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDW7RK6{{</world>}}

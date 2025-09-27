@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Laat je fantasie de vrije loop – zet de minifiguren achter het stuur van de LEGO auto en sleepwagen en je bent klaar voor urenlang fantasierijke rollenspellen en creatieve verhalen
-- Auto speelgoed voor kinderen vanaf 4 jaar – ga samen met je kleine held op leuke avonturen met de LEGO City Sleepwagen en sportautoreparatie speelset voor fantasierijke verhalen
-- LEGO minifiguuraccessoires – deze auto speelgoed set met reddingsthema bevat accessoires om te doen alsof, waaronder een moersleutel en een speelgoed telefoon
-- Een leuk december- of verjaardagscadeau voor kinderen – geef dit LEGO bouwbaar speelgoed cadeau aan jongens en meisjes van 4 jaar en ouder die van LEGO voertuigen en rollenspellen houden
-- Meer sets om te ontdekken – kinderen beleven nog meer plezier en avonturen als ze deze set combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
 - Maak leren leuk – LEGO City bouwbaar speelgoed stimuleert het zelfvertrouwen en belangrijke vaardigheden van kinderen door creatief spelen
+- Auto speelgoed voor kinderen vanaf 4 jaar – ga samen met je kleine held op leuke avonturen met de LEGO City Sleepwagen en sportautoreparatie speelset voor fantasierijke verhalen
+- Meer sets om te ontdekken – kinderen beleven nog meer plezier en avonturen als ze deze set combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
+- Een leuk december- of verjaardagscadeau voor kinderen – geef dit LEGO bouwbaar speelgoed cadeau aan jongens en meisjes van 4 jaar en ouder die van LEGO voertuigen en rollenspellen houden
+- LEGO minifiguuraccessoires – deze auto speelgoed set met reddingsthema bevat accessoires om te doen alsof, waaronder een moersleutel en een speelgoed telefoon
 - Wat zit er in de doos? – deze speelgoed set bevat alles wat kinderen nodig hebben om een sleepwagen, sportwagen en minifiguren van een vrachtwagenchauffeur en automobilist te bouwen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

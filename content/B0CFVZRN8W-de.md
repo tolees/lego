@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Noch spannendere Rennen: Entdecke auch die anderen separat erhältlichen LEGO Autos aus der Speed Champions Reihe mit ihren authentischen Details
-- Modelle legendärer Autos zum Spielen und Ausstellen: LEGO Speed Champions Sets lassen Kinder und begeisterte Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
+- Ford Mustang Spielzeug-Auto für Kinder: Der LEGO Speed Champions Ford Mustang Dark Horse Sportwagen ist ein Modellfahrzeug für Jungs und Mädchen ab 9 Jahren sowie für erwachsene Modellauto-Sammler
 - Authentische Ford Designdetails: Der Ford Mustang Dark Horse Sportwagen verfügt über einen Heckflügel, einen Kühlergrill, Scheinwerfer, Endrohre, Ford Logos und ein detailreiches Interieur
 - Spielzeugautos zum Verschenken: Dieses LEGO Set mit Auto bietet ein faszinierendes Bau- und Spielerlebnis und ist tolles Auto-Geschenk für Kinder und Autofans ab 9 Jahren sowie für erwachsene Modellauto-Sammler
+- Modelle legendärer Autos zum Spielen und Ausstellen: LEGO Speed Champions Sets lassen Kinder und begeisterte Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
 - 1 Minifigur: Neben dem baubaren LEGO Auto mit abnehmbarem Dach beinhaltet das Set auch eine Fahrer-Minifigur mit Dark Horse Hoodie; dein Kind kann die Minifigur ans Steuer setzen und spannende LEGO Auto-Rennen fahren lassen
-- Ford Mustang Spielzeug-Auto für Kinder: Der LEGO Speed Champions Ford Mustang Dark Horse Sportwagen ist ein Modellfahrzeug für Jungs und Mädchen ab 9 Jahren sowie für erwachsene Modellauto-Sammler
 - LEGO Modell zum Ausstellen: Nachdem dein Kind einige Runden in der Stadt oder auf der Rennstrecke gedreht hat, kann es das LEGO Auto der Speed Champions Reihe im Regal oder auf dem Nachttisch ausstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

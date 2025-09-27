@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mit dem LEGO Friends Seenotrettungsboot können sich Kinder ab 7 Jahren, die Meerestiere und die Natur lieben, vorstellen, wie sie die Küsten von Heartlake City säubern
-- Es gibt auch ein kleines U-Boot-Spielzeug, mit dem die Kinder so tun können, als würden sie es herunterlassen und Nova dabei helfen, Müll vom Meeresboden aufzusammeln oder Wasserproben zu sammeln, die im Labor analysiert werden
 - Dieses Mini-Puppen-Spiel-Set enthält die LEGO Friends Figuren Aliya und Nova, den Bootskapitän Gunnar und seinen Freund Marco sowie 2 Delfin-Figuren und eine Baby-Delfin-Figur
+- Das Dach des LEGO Friends Schiffes lässt sich abnehmen und gibt den Blick auf die Innenkabine frei, in der die Kinder die LEGO Mini-Puppen in die Kojen legen können, wenn es Zeit für eine Pause ist
+- Es gibt auch ein kleines U-Boot-Spielzeug, mit dem die Kinder so tun können, als würden sie es herunterlassen und Nova dabei helfen, Müll vom Meeresboden aufzusammeln oder Wasserproben zu sammeln, die im Labor analysiert werden
+- Mit dem LEGO Friends Seenotrettungsboot können sich Kinder ab 7 Jahren, die Meerestiere und die Natur lieben, vorstellen, wie sie die Küsten von Heartlake City säubern
+- Ein tolles Geburtstags-Geschenk oder ein tolles Meerestier-Spielzeug für Kinder, Mädchen und Jungen ab 7 Jahren, die gerne neue Freunde finden und ihre eigenen Abenteuer erleben
 - Zum Zubehör gehören ein Netz und ein Stock zum Einsammeln von Müll, Schwimmwesten für alle LEGO Friends Figuren, verschiedene Arten von Müll, Wasserproben, Sonnencreme, eine Kaffeemaschine, eine Spritze und ein Mikroskop
 - Enthält einen baubaren LEGO Katamaran mit integriertem Labor; wenn der Katamaran kleine Gegenstände überrollt, werden diese im Netz gefangen, so dass die Kinder die Meeresreinigung nachspielen können
-- Das Dach des LEGO Friends Schiffes lässt sich abnehmen und gibt den Blick auf die Innenkabine frei, in der die Kinder die LEGO Mini-Puppen in die Kojen legen können, wenn es Zeit für eine Pause ist
-- Ein tolles Geburtstags-Geschenk oder ein tolles Meerestier-Spielzeug für Kinder, Mädchen und Jungen ab 7 Jahren, die gerne neue Freunde finden und ihre eigenen Abenteuer erleben
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPC9PT5Q{{</world>}}

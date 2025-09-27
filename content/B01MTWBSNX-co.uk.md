@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3D building instructions – Build like never before with the LEGO Builder app where you can save sets, track progress, zoom in and rotate models in 3D
 - Bookshelf decor – Make a DIY desk decor for the home or office with a detailed model kit featuring a slim profile and flat back for shelf display
-- Welcome to the zone – Discover a space for relaxation with the inspiring range of creative DIY building sets (sold separately) designed specifically for adults
-- Gifts for coffee lovers – This LEGO set for adults makes a great anniversary gift for men and women, for fans of LEGO model kits, food and travel
-- In the box – This home office decor kit includes elements to build a classic French bistro with a facade, hanging flowerpots and ornate seating
 - A detailed model building set for adults – Open the double doors to reveal a small seating area with regal wallpaper and dark-wood furnishings
+- Gifts for coffee lovers – This LEGO set for adults makes a great anniversary gift for men and women, for fans of LEGO model kits, food and travel
+- 3D building instructions – Build like never before with the LEGO Builder app where you can save sets, track progress, zoom in and rotate models in 3D
 - Collectible bistro model – Immerse yourself in the charm of French café culture with the LEGO Icons French Café building set for adults
+- In the box – This home office decor kit includes elements to build a classic French bistro with a facade, hanging flowerpots and ornate seating
+- Welcome to the zone – Discover a space for relaxation with the inspiring range of creative DIY building sets (sold separately) designed specifically for adults
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MTWBSNX{{</world>}}

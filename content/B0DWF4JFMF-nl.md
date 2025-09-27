@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief 2 Friends poppetjes en een speelgoed dieren figuur – deze set bevat poppetjes van Leo en Liann en een figuur van Churro de kat, zodat kinderen allerlei vriendschapsverhalen met de Friends personages kunnen naspelen
 - Fantasierijk bouwpakket voor kinderen – dit Zwembadfeestje met flamingo en eenhoorn speelgoed voor kinderen is een leuke verrassing voor meisjes en jongens vanaf 5 jaar en bevat 2 poppetjes, een LEGO kat en een heleboel accessoires
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- 2 bouwbare zwembanden – kinderen ontwikkelen hun bouwvaardigheden door de flamingozwemband met ruimte voor 2 Friends minifiguren, de eenhoornzwemband voor Churro de kattenfiguur en de ligstoel en een dj-booth in elkaar te zetten
+- Inclusief 2 Friends poppetjes en een speelgoed dieren figuur – deze set bevat poppetjes van Leo en Liann en een figuur van Churro de kat, zodat kinderen allerlei vriendschapsverhalen met de Friends personages kunnen naspelen
 - Boordevol acessoires voor creatief speelplezier – deze LEGO set bevat schattige rollenspellen accessoires om de creativiteit te stimuleren, zoals een parasol, 2 ijslollys, een drankje en een microfoon
 - Leuk cadeau voor meisjes en jongens – deze set is een leuk cadeau voor kinderen die graag vriendschapsverhalen bedenken en vertellen
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 - Vertel verhalen over vriendschap – met de LEGO Friends bouwsets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
-- 2 bouwbare zwembanden – kinderen ontwikkelen hun bouwvaardigheden door de flamingozwemband met ruimte voor 2 Friends minifiguren, de eenhoornzwemband voor Churro de kattenfiguur en de ligstoel en een dj-booth in elkaar te zetten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF4JFMF{{</world>}}

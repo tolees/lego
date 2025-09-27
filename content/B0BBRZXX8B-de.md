@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dieses Ford GT Modellauto verfügt über Details, die dem echten Auto nachempfunden sind, wie z.B. den V6-Motor mit beweglichen Kolben
-- Mit diesem LEGO Technic Modellauto-Bausatz für Erwachsene im Maßstab 1:12 kannst du jedes Detail des Ford GT 2022 nachbauen
-- Dieses LEGO Superauto wurde für erwachsene LEGO Baumeister entwickelt. Es bietet ein detailliertes Bauprojekt und ist eine tolle Ergänzung für jede LEGO Auto-Sammlung
-- Nimm dir Zeit, um authentische Merkmale wie den Hinterradantrieb mit Differential, die zu öffnenden Türen und den verstellbaren Spoilerflügel zusammenzubauen
 - Als Teil einer innovativen Kollektion von LEGO Auto-Sets für Erwachsene enthält es die LEGO Builder App, mit der du die Bauanleitungen immer griffbereit hast
+- Nimm dir Zeit, um authentische Merkmale wie den Hinterradantrieb mit Differential, die zu öffnenden Türen und den verstellbaren Spoilerflügel zusammenzubauen
 - Mit seiner klassischen dunkelblauen Farbe und den weißen Rennstreifen ist dieses sammelbare LEGO Technic Auto ein atemberaubendes Ausstellungsstück
+- Dieses Ford GT Modellauto verfügt über Details, die dem echten Auto nachempfunden sind, wie z.B. den V6-Motor mit beweglichen Kolben
+- Dieses LEGO Superauto wurde für erwachsene LEGO Baumeister entwickelt. Es bietet ein detailliertes Bauprojekt und ist eine tolle Ergänzung für jede LEGO Auto-Sammlung
+- Mit diesem LEGO Technic Modellauto-Bausatz für Erwachsene im Maßstab 1:12 kannst du jedes Detail des Ford GT 2022 nachbauen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRZXX8B{{</world>}}

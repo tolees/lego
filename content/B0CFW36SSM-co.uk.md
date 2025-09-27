@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gift for Marvel movie lovers – This buildable Spider-Man toy is a great Marvel-themed gift idea for young Super Heroes and motorcycle fans
-- LEGO Spider-Man building toy – Kids aged 6+ can let their imaginations race with LEGO Marvel action in Motorcycle Chase: Spider-Man vs. Doc Ock
 - Inspiring accessories – Fun role-play accessories included in the set are a rubbish bin, bottle, fish, bone, banana skin and dynamite
+- LEGO Spider-Man building toy – Kids aged 6+ can let their imaginations race with LEGO Marvel action in Motorcycle Chase: Spider-Man vs. Doc Ock
+- Easy-to-build Spidey toy – Spider-Man fits onto the driver’s seat of his bike, and Doc Ock’s arms can hold onto accessories and the streetlight
 - Expand the fun – This LEGO Marvel motorbike toy building kit is compatible with other LEGO Marvel sets, sold separately
 - Spider-Man vs. Doc Ock – This LEGO Marvel super-hero building toy set features a buildable Spider-Man motorbike toy with 2 stud shooters
-- Easy-to-build Spidey toy – Spider-Man fits onto the driver’s seat of his bike, and Doc Ock’s arms can hold onto accessories and the streetlight
+- Gift for Marvel movie lovers – This buildable Spider-Man toy is a great Marvel-themed gift idea for young Super Heroes and motorcycle fans
 - LEGO Marvel super heroes – Also includes 2 LEGO Marvel minifigures: Spider-Man with 2 web shooters and Doc Ock with 4 long, flexible tentacles
 
 [🛒 Check the deal!!]({{< param buyurl >}})

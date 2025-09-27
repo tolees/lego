@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - LEGO Geschenk für Gartenfreunde: Feiere einen Geburtstag oder einen anderen besonderen Anlass mit dieser tollen Geschenkidee für Gartenfreunde, Globetrotter und Fans der LEGO Bausets für Erwachsene
-- Modell eines Gartens zum Ausstellen und Umgestalten: Dank der Schlitze im Sockel des Springbrunnengartens lässt sich das Ausstellungsstück immer wieder umgestalten und auf neue Arten und Weisen bauen
-- Deko fürs Wohnzimmer oder Büro: Erschaffe mit diesem Set einen atemberaubenden Blickfang fürs Wohnzimmer oder Büro. Das detailreiche Ausstellungsstück spiegelt die Schönheit und Vielfalt der Gartenarchitektur perfekt wider
-- 3D-Bauanleitung: Freu dich auf ein neuartiges Bauerlebnis. Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen und 3D-Ansichten deines Modells vergrößern und drehen
-- Bauset für Erwachsene mit einem Ziergarten: Nimm dir eine Auszeit und freu dich auf ein achtsames Bauprojekt mit dem LEGO Icons Springbrunnengarten aus diesem Bauset
-- Willkommen in deiner Kreativ-Zone: Die ebenso inspirierenden wie kreativen LEGO Bausets und Modelle, die speziell für Erwachsene konzipiert werden, lassen dich einen Raum zum Entspannen entdecken
 - Inhalt der Box: Im LEGO Springbrunnengarten findest du neben einem Schalenbrunnen, einem verzierten Waschbecken, 2 Zypressen, blühenden Weinreben, 4 Laubengängen und gepflasterten Wegen auch noch eine Lunamotte, einen Vogel und einen Frosch
+- Deko fürs Wohnzimmer oder Büro: Erschaffe mit diesem Set einen atemberaubenden Blickfang fürs Wohnzimmer oder Büro. Das detailreiche Ausstellungsstück spiegelt die Schönheit und Vielfalt der Gartenarchitektur perfekt wider
+- Willkommen in deiner Kreativ-Zone: Die ebenso inspirierenden wie kreativen LEGO Bausets und Modelle, die speziell für Erwachsene konzipiert werden, lassen dich einen Raum zum Entspannen entdecken
+- 3D-Bauanleitung: Freu dich auf ein neuartiges Bauerlebnis. Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen und 3D-Ansichten deines Modells vergrößern und drehen
+- Modell eines Gartens zum Ausstellen und Umgestalten: Dank der Schlitze im Sockel des Springbrunnengartens lässt sich das Ausstellungsstück immer wieder umgestalten und auf neue Arten und Weisen bauen
+- Bauset für Erwachsene mit einem Ziergarten: Nimm dir eine Auszeit und freu dich auf ein achtsames Bauprojekt mit dem LEGO Icons Springbrunnengarten aus diesem Bauset
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NBG78WI{{</world>}}

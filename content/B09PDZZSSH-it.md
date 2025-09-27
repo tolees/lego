@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 66 pezzi
 - Divertiti a costruire il pappagallo tropicale, può trasformarsi in altri due animali
 - Include: 1 pappagallo
 - Dai 6 anni
+- 66 pezzi
 - Prodotto ufficiale LEGO Creator 3 in 1
 
 [🛒 Check the deal!!]({{< param buyurl >}})

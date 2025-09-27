@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Capture every detail in LEGO style creating the iconic Super Mario character with the LEGO Super Mario Piranha Plant model kit for adults to build
-- This model kit makes a cool Super Mario decoration, plus it includes 2 coin elements that reveal a hidden function once the LEGO plant is built
-- This LEGO Super Mario Piranha Plant makes a great gift for men, women, him or her and a welcome addition to any LEGO Super Mario collection
 - The Super Mario LEGO plant figure has a posable head, mouth, stalk and leaves, and a buildable pipe to mimic the plant growing, like in the game
-- Number of Pieces: 540
+- This model kit makes a cool Super Mario decoration, plus it includes 2 coin elements that reveal a hidden function once the LEGO plant is built
 - Part of a range of LEGO Sets for Adults who enjoy mindful, fun, creative activities; please note, this model has no digital play functions
+- Capture every detail in LEGO style creating the iconic Super Mario character with the LEGO Super Mario Piranha Plant model kit for adults to build
+- Number of Pieces: 540
+- This LEGO Super Mario Piranha Plant makes a great gift for men, women, him or her and a welcome addition to any LEGO Super Mario collection
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7DPF3C{{</world>}}

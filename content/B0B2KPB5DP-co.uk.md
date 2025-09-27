@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Search for dinosaurs around the island in the animal control vehicle and play as classic franchise characters like Eric and Paul Kirby.
+- Customise your own dinosaur collection: collect LEGO amber and experiment with DNA to create completely original dinosaurs.
 - Wreak havoc as LEGO dinosaurs: choose from 20 dinosaurs, including the friendly Triceratops, deadly Raptor, vicious Compy and even the mighty T. Rex.
 - Relive key moments from all four Jurassic films: an adventure 65 million years in the making - now in classic LEGO brick fun!
-- Customise your own dinosaur collection: collect LEGO amber and experiment with DNA to create completely original dinosaurs.
 - Play with friends with easy access drop-in, drop-out gameplay option.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Er zijn een heleboel poppenhuis accessoires om te verkennen, allemaal geïnspireerd op de hobbys van de vrienden, zoals een notitieboekje en een verrekijker, bakingrediënten, pompoenen, appels, kopjes en voer voor Daisy de schaapshond
 - Deze set voor kinderen van 7+ jaar bestaat uit een bouwbaar poppenhuis met 2 verdiepingen met gedetailleerde kamers en een heleboel accessoires en meubels -kinderen beleven eindeloos speelplezier met de 4 meegeleverde LEGO Friends mini poppetjes
 - Dit LEGO Friends poppenhuis speelgoed ziet er fantastisch uit als decoratie in een kinderkamer wanneer kinderen even uitgespeeld zijn - het is een geweldig verjaardagscadeau voor kinderen, meisjes en jongens die dol zijn op poppenhuizen, honden en andere huisdieren
-- Het speelhuis bestaat uit een keuken, een knusse woonkamer, eetkamer, badkamer, Autumns slaapkamer die geïnspireerd is op de natuur, een balkon met een telescoop en een zitgedeelte, plus een kleine stal voor het speelgoed paard
 - Dit LEGO Friends poppenhuis speelgoed ziet er fantastisch uit als decoratie in een kinderkamer wanneer kinderen even uitgespeeld zijn - het is een geweldig verjaardagscadeau-idee voor kinderen die dol zijn op honden en andere huisdieren
 - Inclusief 4 LEGO Friends mini poppetjes: Aliya, Leo die gek is op koken, natuurliefhebber Autumn en haar moeder Mia, plus Daisy de hond en het veulen van de familie, en talloze accessoires
 - Kinderen kunnen appels plukken uit de boom en Leo helpen om een heerlijke appeltaart te maken in de keuken; daarna kunnen ze samen met Aliya het veulen borstelen en genieten van een warme pumpkin spice latte bij het kampvuur
-- Er zijn een heleboel poppenhuis accessoires om te verkennen, allemaal geïnspireerd op de hobbys van de vrienden, zoals een notitieboekje en een verrekijker, bakingrediënten, pompoenen, appels, kopjes en voer voor Daisy de schaapshond
+- Het speelhuis bestaat uit een keuken, een knusse woonkamer, eetkamer, badkamer, Autumns slaapkamer die geïnspireerd is op de natuur, een balkon met een telescoop en een zitgedeelte, plus een kleine stal voor het speelgoed paard
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRYKXQB{{</world>}}

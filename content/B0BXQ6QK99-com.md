@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO gift idea – This 1,038-piece premium construction set for kids aged 9+ provides a fun-filled build-and-play experience and can be given as a birthday present or holiday gift
-- Display item – Standing over 9.5 in. (25 cm) tall, Jiro the elemental dragon can be displayed in kids’ bedrooms after they finish playing out daring clashes with it
-- 6 minifigures – Jay, Sora and Zane, who come with 2 golden katanas each to take on Lord Ras and his hammer, Empress Beatrix with her Imperium sword and an Imperium Guard with a staff
 - Flyer vehicle – The ninja can take to the skies in a flyer armed with golden blade wings and powerful shooters that can fire 4 studs
+- Display item – Standing over 9.5 in. (25 cm) tall, Jiro the elemental dragon can be displayed in kids’ bedrooms after they finish playing out daring clashes with it
+- Upgradable ninja dragon – The dragon Jiro can be upgraded into a bigger and more imposing model by adding the golden blade wings and stud shooters from the flyer
+- 6 minifigures – Jay, Sora and Zane, who come with 2 golden katanas each to take on Lord Ras and his hammer, Empress Beatrix with her Imperium sword and an Imperium Guard with a staff
 - Collectible yellow dragon power element – The ninja and Empress Beatrix are fighting over this power source, and kids can collect 4 more power elements in different colors in other LEGO NINJAGO sets
 - Dragon and mech playset – Boys and Girls ages 9+ can play out an epic showdown from the NINJAGO Dragons Rising TV series with the Elemental Dragon vs. The Empress Mech (71796) toy set
-- Upgradable ninja dragon – The dragon Jiro can be upgraded into a bigger and more imposing model by adding the golden blade wings and stud shooters from the flyer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BXQ6QK99{{</world>}}

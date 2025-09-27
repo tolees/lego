@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 4 LEGO Friends personages – deze set is inclusief poppetjes van LEGO Friends personages Leo, Aliya en Sara, plus een micropoppetje van Alba, zodat kinderen samen met de vrienden verschillende waterparkavonturen kunnen naspelen
+- Draaien en glijden – jonge LEGO bouwers kunnen de personages in het bubbelbad laten ronddraaien, ze van de glijbanen laten zoeven of de waterblasters uitproberen
 - Veel accessoires voor het waterpark – kenmerken en accessoires zijn onder meer een doucheruimte, toilet, kluisjes, handdoeken, zonnebrandcrème, snacks en decoraties van zeedieren
 - Ontdek meer verhalen over vriendschap – bekijk ook de andere bouwsets in het LEGO Friends assortiment (apart verkrijgbaar), waarmee kinderen diverse personages kunnen leren kennen terwijl ze avonturen uit het echte leven naspelen
-- Leuk verjaardagscadeau voor kinderen – deze set is een geweldig cadeaut voor kinderen die genieten van LEGO bouwsets en wateractiviteiten
+- 4 LEGO Friends personages – deze set is inclusief poppetjes van LEGO Friends personages Leo, Aliya en Sara, plus een micropoppetje van Alba, zodat kinderen samen met de vrienden verschillende waterparkavonturen kunnen naspelen
 - Waterparkspeelset voor meisjes en jongens vanaf 8 jaar – dit bouwpakket voor kinderen wordt geleverd met 3 LEGO Friends poppetjes, een micropoppetje en een bouwbaar waterpark met 3 glijbanen en een bubbelbad voor urenlang creatieve rollenspellen
-- Draaien en glijden – jonge LEGO bouwers kunnen de personages in het bubbelbad laten ronddraaien, ze van de glijbanen laten zoeven of de waterblasters uitproberen
+- Leuk verjaardagscadeau voor kinderen – deze set is een geweldig cadeaut voor kinderen die genieten van LEGO bouwsets en wateractiviteiten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH26JF2{{</world>}}

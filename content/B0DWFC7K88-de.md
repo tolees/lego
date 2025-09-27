@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Minecraft Geschenk für Gamer: Dieses LEGO Set zum Videospiel ist ein Geschenk für Kinder mit 7 Jahren; beliebtes Geschenk für Jungen und Mädchen und allen Minecraft Fans
-- Minecraft Spielzeug: Begegnung mit dem Wächter ist ein LEGO Spielset zum Videospiel; das LEGO Set zum Sammeln nimmt Jungen und Mädchen in eine gefährliche üppige Höhle mit, wo der große Wächter aus Minecraft auf sie lauert
+- Minecraft LEGO Figuren: Dieses LEGO Set beinhaltet die Minifigur Stummer Ranger, ein Huhn und einen Wächter; die große Actionfigur kann Kopf, Arme und Beine bewegen
 - Kreatives LEGO Spielset mit authentischem Zubehör: Dieses vielseitige Spielzeug beinhaltet vertraute Details aus dem Videospiel wie die goldene Karotte und einen Trank, um die Gesundheit wiederherzustellen und Kinder fantasievoll spielen zu lassen
 - Minecraft Bausteine mit Funktionen: Während Kinder in der üppigen Höhle nach Diamanten graben, lassen sie TNT explodieren und einen Felsen herabstürzen, um es mit dem großen Wächter aufzunehmen
-- Minecraft LEGO Figuren: Dieses LEGO Set beinhaltet die Minifigur Stummer Ranger, ein Huhn und einen Wächter; die große Actionfigur kann Kopf, Arme und Beine bewegen
-- Noch mehr Spielspaß: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls aktiv Rollenspiele spielen lassen
 - Minecraft Action in der echten Welt: LEGO Minecraft Spielsets lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen zum Leben erweckt
+- Minecraft Spielzeug: Begegnung mit dem Wächter ist ein LEGO Spielset zum Videospiel; das LEGO Set zum Sammeln nimmt Jungen und Mädchen in eine gefährliche üppige Höhle mit, wo der große Wächter aus Minecraft auf sie lauert
+- Minecraft Geschenk für Gamer: Dieses LEGO Set zum Videospiel ist ein Geschenk für Kinder mit 7 Jahren; beliebtes Geschenk für Jungen und Mädchen und allen Minecraft Fans
+- Noch mehr Spielspaß: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls aktiv Rollenspiele spielen lassen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWFC7K88{{</world>}}

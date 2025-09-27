@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Dieses Set enthält die LEGO NINJAGO Minifiguren Lloyd und Jay, die mit je 2 Katanas bewaffnet sind, und eine Minifigur des Kaiserlichen Klauenjägers mit einem großen Schwert
-- Das sammelbare Spielzeug enthält eine Photac-Bestie, die ihren Kopf, Schwanz und Beine bewegen kann und einen Sattel auf dem Rücken für eine Minifigur hat
 - Dieser Spielzeug für Kinder ab 6 Jahren enthält alles, um in NINJAGO City die Kämpfe und Tricks zwischen Gut und Böse nachzuspielen
-- Fans der Fernsehserie NINJAGO Dragons Rising begleiten Jay und Lloyd mit diesem Ninja-Spielzeugmonster für Kinder ab 6 Jahren, wenn sie es mit dem General des Imperiums Claw aufnehmen
-- Dieses Ninja-Spielzeug kann von Fans überallhin mitgenommen werden und ist ein tolles Geschenk für Jungen und Mädchen ab 6 Jahren und Fans der TV-Serie NINJAGO Dragons Rising
 - Die LEGO Builder App führt Kinder auf ein intuitives Bauabenteuer, denn sie können dort Sets speichern, ihren Fortschritt verfolgen und Modelle in 3D vergrößern und drehen, während sie bauen
+- Dieses Ninja-Spielzeug kann von Fans überallhin mitgenommen werden und ist ein tolles Geschenk für Jungen und Mädchen ab 6 Jahren und Fans der TV-Serie NINJAGO Dragons Rising
+- Fans der Fernsehserie NINJAGO Dragons Rising begleiten Jay und Lloyd mit diesem Ninja-Spielzeugmonster für Kinder ab 6 Jahren, wenn sie es mit dem General des Imperiums Claw aufnehmen
+- Das sammelbare Spielzeug enthält eine Photac-Bestie, die ihren Kopf, Schwanz und Beine bewegen kann und einen Sattel auf dem Rücken für eine Minifigur hat
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPCCLG16{{</world>}}

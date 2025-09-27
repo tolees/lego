@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geschenk für Kinder: Dieses Bauset ist ein tolles Geschenk für Mädchen und Jungen ab 8 Jahren sowie erwachsene Sammler, die Retro-Modelle lieben und gerne kreativ bauen
-- Viele Funktionen: Das Retro-Spielzeug-Telefon verfügt über einen abnehmbaren Hörer, eine Wählscheibe, eine Federfunktion sowie Zubehör wie einen LEGO Bleistift und einen Haftnotizblock
-- Nostalgische Modelle für kreativen Spielspaß: Kinder können mit dem kreativen Spielzeug Geschichten darstellen mit einem Wählscheibentelefon aus den 1960ern, einem Telefon aus den 1980ern und zwei Geräten aus den 2000ern
-- Noch mehr 3-in-1-Spaß: Modelle können mit anderen separat erhältlichen LEGO Creator 3-in-1 Sets kombiniert werden, um noch mehr kreative Geschichten zu erfinden
-- Modelle in Retro-Aufmachung zum Ausstellen: Jedes der farbenfrohen Spielzeuge eignet sich als coole Dekoration; die Modelle können nacheinander gebaut werden
-- 3 Retro-Telefone in 1 Box: Dieses LEGO Creator 3-in-1 Set lässt Kinder ab 8 Jahren aus denselben Steinen drei verschiedene Telefonspielzeuge im Retro-Look bauen und immer wieder neu gestalten
 - LEGO Lernspielzeug: Jedes LEGO Creator 3-in-1 Set lässt Kinder drei verschiedene Modelle aus ihren wichtigsten Interessenbereichen bauen, darunter Tiere, Fahrzeuge und Häuser
+- Viele Funktionen: Das Retro-Spielzeug-Telefon verfügt über einen abnehmbaren Hörer, eine Wählscheibe, eine Federfunktion sowie Zubehör wie einen LEGO Bleistift und einen Haftnotizblock
+- Geschenk für Kinder: Dieses Bauset ist ein tolles Geschenk für Mädchen und Jungen ab 8 Jahren sowie erwachsene Sammler, die Retro-Modelle lieben und gerne kreativ bauen
+- Modelle in Retro-Aufmachung zum Ausstellen: Jedes der farbenfrohen Spielzeuge eignet sich als coole Dekoration; die Modelle können nacheinander gebaut werden
+- Nostalgische Modelle für kreativen Spielspaß: Kinder können mit dem kreativen Spielzeug Geschichten darstellen mit einem Wählscheibentelefon aus den 1960ern, einem Telefon aus den 1980ern und zwei Geräten aus den 2000ern
+- 3 Retro-Telefone in 1 Box: Dieses LEGO Creator 3-in-1 Set lässt Kinder ab 8 Jahren aus denselben Steinen drei verschiedene Telefonspielzeuge im Retro-Look bauen und immer wieder neu gestalten
+- Noch mehr 3-in-1-Spaß: Modelle können mit anderen separat erhältlichen LEGO Creator 3-in-1 Sets kombiniert werden, um noch mehr kreative Geschichten zu erfinden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDLTKXH{{</world>}}

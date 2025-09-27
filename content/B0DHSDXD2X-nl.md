@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Speeltuin met glijbaan en draaimolen – de cavias kunnen van de glijbaan zoeven en ronddraaien op de draaimolen voordat ze iets gaan eten en zich lekker laten borstelen
 - Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Boordevol accessoires voor de speelgoed dieren – deze LEGO dieren set wordt geleverd met een borstel, zonnebloempitten, bladeren en een bol garen en is een leuk bouwpakket voor kinderen die graag voor huisdieren zorgen
 - Leuk cadeau voor meisjes en jongens – deze caviaspeelset is een leuk cadeau voor kinderen die van dieren houden en graag creatieve verhalen vertellen
 - 2 LEGO Friends poppetjes en 2 caviafiguren – dit sociaal-emotionele speelgoed biedt volop ruimte voor creativiteit wanneer kinderen verhalen vertellen over Aliya en Matilde, die een band krijgen door hun liefde voor cavias
-- Boordevol accessoires voor de speelgoed dieren – deze LEGO dieren set wordt geleverd met een borstel, zonnebloempitten, bladeren en een bol garen en is een leuk bouwpakket voor kinderen die graag voor huisdieren zorgen
 - Fantasierijk speelplezier voor dierenliefhebbers – dit cavia dieren speelgoed voor 5 jaar en ouder bevat 2 poppetjes, 2 figuren van cavias en accessoires voor rollenspellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creative building toy for 6+ year old girls and boys – LEGO Animal Crossing Isabelle’s House Visit gives kids hours of hands-on role play
-- Sets for storytellers – LEGO Animal Crossing toys give kids the creative freedom to customise scenes to create new stories with the characters
-- Play starters – This LEGO house includes 2 minifigures, Isabelle and Fauna, plus features such as the workbench and flying present-carrying balloon
-- Digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this set
-- Hands-on play for video game fans – These LEGO sets allow kids to keep using their creativity and storytelling skills to explore the world of Animal Crossing, even when on a screen break
 - Building toy for kids – Comes with lots of accessories and modular baseplates so kids can experiment and change up the look of the LEGO house
+- Hands-on play for video game fans – These LEGO sets allow kids to keep using their creativity and storytelling skills to explore the world of Animal Crossing, even when on a screen break
+- Play starters – This LEGO house includes 2 minifigures, Isabelle and Fauna, plus features such as the workbench and flying present-carrying balloon
 - Animal Crossing gift – This set makes a fun birthday gift for 6+ year old girls, boys and kids who love group or solo play that gives fans of the Animal Crossing video game series hours of customisation and role-play fun
+- Sets for storytellers – LEGO Animal Crossing toys give kids the creative freedom to customise scenes to create new stories with the characters
+- Creative building toy for 6+ year old girls and boys – LEGO Animal Crossing Isabelle’s House Visit gives kids hours of hands-on role play
+- Digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW1GJ59{{</world>}}

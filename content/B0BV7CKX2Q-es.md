@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Después de construir y explorar el coche deportivo, esta maqueta queda genial expuesta en la habitación de los niños, por sí sola o como un divertido complemento de cualquier colección de coches LEGO
-- Los sets de construcción LEGO Technic incluyen vehículos con movimientos y mecanismos realistas que introducen a los jóvenes constructores LEGO en el universo de la ingeniería de una forma cercana y realista
 - Los niños y los aficionados a los coches deportivos pueden construir y explorar el motor V10 en movimiento, la dirección y las puertas abatibles de este modelo LEGO Technic del Lamborghini Huracán Tecnica
+- Los sets de construcción LEGO Technic incluyen vehículos con movimientos y mecanismos realistas que introducen a los jóvenes constructores LEGO en el universo de la ingeniería de una forma cercana y realista
 - Inspirado en el modelo original, el coche LEGO Lamborghini de juguete presenta el icónico color verde, un diseño aerodinámico y puertas que se abren y que los fans estarán encantados de reconocer a primera vista
+- Después de construir y explorar el coche deportivo, esta maqueta queda genial expuesta en la habitación de los niños, por sí sola o como un divertido complemento de cualquier colección de coches LEGO
 - Los fans de Lamborghini pueden enfrentarse a un reto inolvidable montando todos los detalles de esta realista maqueta del coche de carreras LEGO Technic del Lamborghini Huracán Tecnica
 
 [🛒 Check the deal!!]({{< param buyurl >}})

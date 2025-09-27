@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Inspired by the real truck – This kids truck model is based on the real-world Mack electric garbage truck and features realistic movement for creative play
-- Steering and opening doors – The doors open to reveal the driver’s cab, and kids can use the gear element on top of the cab to steer the truck into position
-- Intuitive instructions – The LEGO Builder app guides your youngster on an intuitive building adventure with tools that let them zoom in and rotate models in 3D, save sets and track their progress
 - Measurements – 503-piece set with a truck measuring over 3.5 in. (9 cm) high, 9 in. (23 cm) long and 3 in. (8 cm) wide
+- Steering and opening doors – The doors open to reveal the driver’s cab, and kids can use the gear element on top of the cab to steer the truck into position
+- A truck gift for kids – This set for pretend play makes a fun birthday, holiday or special occasion gift for boys, girls and kids who love garbage truck toys and vehicles
 - Grab, lift and tip – Kids can act out recycling truck toy stories as they steer the truck into position then use the side loader to pick up the trash and tip it into the vehicle before unloading it
 - Truck toy for kids ages 8 and up – The LEGO Technic Mack LR Electric Garbage Truck for boys and girls features a side loader to grab, lift and tip the garbage cans
-- A truck gift for kids – This set for pretend play makes a fun birthday, holiday or special occasion gift for boys, girls and kids who love garbage truck toys and vehicles
+- Intuitive instructions – The LEGO Builder app guides your youngster on an intuitive building adventure with tools that let them zoom in and rotate models in 3D, save sets and track their progress
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CGY4YRSJ{{</world>}}

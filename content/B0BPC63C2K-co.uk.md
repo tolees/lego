@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO NINJAGO Elemental Dragon vs. The Empress Mech building toys set lets Kids aged 9+ play out battles from the NINJAGO Dragons Rising TV series
 - 6 NINJAGO minifigures are featured in the large LEGO set including Jay, Sora and Zane, who come with 2 golden katana ninja toys each
-- Ready to take on the ninja are Lord Ras and his hammer, Empress Beatrix with her Imperium sword and an Imperium Guard minifigure with a staff
-- There’s also a yellow dragon power element to battle over and kids can collect 4 more in different colours in other NINJAGO building toy sets
 - The posable fire dragon figure can be upgraded by adding golden blade wings and stud shooters from the flyer vehicle to take on the Empress’s mech
+- There’s also a yellow dragon power element to battle over and kids can collect 4 more in different colours in other NINJAGO building toy sets
+- Ready to take on the ninja are Lord Ras and his hammer, Empress Beatrix with her Imperium sword and an Imperium Guard minifigure with a staff
+- LEGO NINJAGO Elemental Dragon vs. The Empress Mech building toys set lets Kids aged 9+ play out battles from the NINJAGO Dragons Rising TV series
 - Features a dragon toy of the fearsome Jiro and a golden mech action figure with a large sword, plus a golden blade flyer vehicle with stud shooters
 
 [🛒 Buy it now!!]({{< param buyurl >}})

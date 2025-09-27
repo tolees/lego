@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Noch mehr Spaß mit der Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
-- Strand-Spielset für viele Geschichten: Ein baubares Paddelboot, eine Strandszene und eine detailreiche Ferienanlage inspirieren zu vielen kreativen Geschichten mit diesem Spielzeug
 - Geschenkidee für jede Menge Familienspaß: Dieses LEGO Friends Strandresort ist ein tolles Geschenk für Kinder, die den Strand lieben und gerne zusammen mit ihrer Familie und ihren Freunden ein Modell bauen würden
-- Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein tolles Gemeinschaftserlebnis, wenn Kinder zusammen mit ihren Liebsten LEGO Modelle und Spielzeuge bauen und alle Funktionen erforschen
+- Erlebe unendlichen Familienspaß: Familienurlaub im Strandresort ist ein LEGO Friends Set für Mädchen und Jungen ab 8 Jahren; 6 Minifiguren, ein Delfin und eine Schildkröte sowie jede Menge Zubehör lassen Kinder kreativ spielen
+- Strand-Spielset für viele Geschichten: Ein baubares Paddelboot, eine Strandszene und eine detailreiche Ferienanlage inspirieren zu vielen kreativen Geschichten mit diesem Spielzeug
 - 6 Mini-Puppen und 2 Meeresbewohner: Dieses Set stellt dar, dass Nova mit ihrer Schwester und ihrem Vater im Urlaub ist; die LEGO Friends Minifiguren Liann und Aron sowie die Resortmanagerin Mischa laden zu vielen Rollenspielen ein
 - Kreatives LEGO Spielset mit Strandresortzubehör: Getränke, Eiswaffeln, Surfbretter, Helme, eine Schaufel, eine Kamera, ein Koffer und ein Strandrollstuhl bieten viele Spielmöglichkeiten
-- Erlebe unendlichen Familienspaß: Familienurlaub im Strandresort ist ein LEGO Friends Set für Mädchen und Jungen ab 8 Jahren; 6 Minifiguren, ein Delfin und eine Schildkröte sowie jede Menge Zubehör lassen Kinder kreativ spielen
+- Noch mehr Spaß mit der Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein tolles Gemeinschaftserlebnis, wenn Kinder zusammen mit ihren Liebsten LEGO Modelle und Spielzeuge bauen und alle Funktionen erforschen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF3XB19{{</world>}}

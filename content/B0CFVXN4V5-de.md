@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Weck die Fantasie deines Kindes: LEGO Super Mario Bau-Spielzeug für Kinder lässt sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder auf (gemeinsame) Münzsammelmissionen zu schicken
-- Die LEGO Super Mario App: Lade dir die App herunter, um dir unter anderem Bauanleitungen, Tipps und tolle Bau- und Spielideen zu holen
-- Gamer-Geschenk für Kinder ab 7 Jahren: Dieses Set ist eine cooles Geschenk für Gamer und eignet sich prima als Geburtstagsgeschenk für Kinder, die bereits eines der LEGO Super Mario Startersets (71360, 71387 oder 71403) haben
-- 4 Super Mario Figuren aus LEGO Steinen: Lass LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren sind nicht enthalten) auf einem Dorrie reiten und den Cheep-Cheep, den Happ-Cheep und den Blooper besiegen
-- Action-Spielzeug zum Sammeln: Hol dir zufällige Belohnungen vom ?-Block und schau dir an, wie eine interaktive Figur reagiert, wenn ein Happ-Cheep an ihr herumknabbert
 - Dorrie und das versunkene Schiff – Erweiterungsset: Dieses baubare Super Mario Schiffswrack-Spielzeug für Kinder lässt dein Kind eine Schatzsuche zur LEGO Super Mario Spielwelt hinzufügen
+- Weck die Fantasie deines Kindes: LEGO Super Mario Bau-Spielzeug für Kinder lässt sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder auf (gemeinsame) Münzsammelmissionen zu schicken
 - Interaktives Abenteuer für die ganze Familie: Lasst eine interaktive Figur das Wrack erkunden, dreht die Plattform, um den Schlüsselblock in der Muschel preiszugeben, und öffnet die Schatztruhe, um euch den Edelstein zu holen
+- 4 Super Mario Figuren aus LEGO Steinen: Lass LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren sind nicht enthalten) auf einem Dorrie reiten und den Cheep-Cheep, den Happ-Cheep und den Blooper besiegen
+- Gamer-Geschenk für Kinder ab 7 Jahren: Dieses Set ist eine cooles Geschenk für Gamer und eignet sich prima als Geburtstagsgeschenk für Kinder, die bereits eines der LEGO Super Mario Startersets (71360, 71387 oder 71403) haben
+- Die LEGO Super Mario App: Lade dir die App herunter, um dir unter anderem Bauanleitungen, Tipps und tolle Bau- und Spielideen zu holen
+- Action-Spielzeug zum Sammeln: Hol dir zufällige Belohnungen vom ?-Block und schau dir an, wie eine interaktive Figur reagiert, wenn ein Happ-Cheep an ihr herumknabbert
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXN4V5{{</world>}}

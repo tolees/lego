@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Complete your Star Wars memorabilia with this model featuring a plaque with Luke Skywalkers words “Quick! Jam their comlinks. Centre switch!”
-- Includes LEGO Star Wars minifigures: Princess Leia and Luke Skywalker with green lightsaber, both in Endor outfits, plus Scout Trooper with blasters
-- Create a forest with buildable trees and new-for-May-2023 fern elements, then add a plaque with the Return of the Jedi 40th anniversary logo
-- The Return of the Jedi 40th Anniversary set features 2 speeder bikes; transparent elements allow for dynamic poses, as in the forests of Endor
-- Treat yourself or give this Star Wars set as a Christmas gift or birthday present to a friend or a collector of LEGO Star Wars dioramas
 - Build a cool scene from Star Wars with this LEGO Star Wars set for adults: Princess Leia and Luke Skywalker’s pursuit of a Scout Trooper on Endor
+- Includes LEGO Star Wars minifigures: Princess Leia and Luke Skywalker with green lightsaber, both in Endor outfits, plus Scout Trooper with blasters
+- The Return of the Jedi 40th Anniversary set features 2 speeder bikes; transparent elements allow for dynamic poses, as in the forests of Endor
+- Complete your Star Wars memorabilia with this model featuring a plaque with Luke Skywalkers words “Quick! Jam their comlinks. Centre switch!”
+- Treat yourself or give this Star Wars set as a Christmas gift or birthday present to a friend or a collector of LEGO Star Wars dioramas
+- Create a forest with buildable trees and new-for-May-2023 fern elements, then add a plaque with the Return of the Jedi 40th anniversary logo
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBVD4L66{{</world>}}

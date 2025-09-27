@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Die Londoner Themse wird durch transparente LEGO Steine auf der Grundplatte dargestellt
-- Der LEGO-Modellbausatz für Erwachsene und Kinder ab 12 Jahren beinhaltet die National Gallery, die Nelsonsäule, das London Eye, den Big Ben und die Tower Bridge
 - Inklusive Sammelheft mit Informationen über das Design, die Architektur und die Geschichte der Gebäude
+- Der LEGO-Modellbausatz für Erwachsene und Kinder ab 12 Jahren beinhaltet die National Gallery, die Nelsonsäule, das London Eye, den Big Ben und die Tower Bridge
 - Die LEGO-Architecture-Modelle sind mit allen kreativen LEGO-Modellbausätzen kompatibel und ideale Geschenkideen zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass
-- Baue ein detailliertes LEGO-Architecture-Modell der Londoner Skyline mit ihren berühmten Wahrzeichen nach!
 - Dieses LEGO-Set bietet ein lohnenswertes und entspannendes Bauerlebnis und ist eine ansprechende Haus- oder Büro-Deko
+- Die Londoner Themse wird durch transparente LEGO Steine auf der Grundplatte dargestellt
+- Baue ein detailliertes LEGO-Architecture-Modell der Londoner Skyline mit ihren berühmten Wahrzeichen nach!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01J41MPF8{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- The Amazing Spider-Man LEGO Art set comes with a premium booklet featuring details about this beloved Super Hero and instructions to guide you through the building process
+- In this piece of LEGO wall art, super hero Spider-Man breaks out from the frame and his head and fingers can be put into different poses
+- Pay homage to Spidey and spot 15 spiders in the picture to represent issue no. 15 of Amazing Fantasy in which Spider-Man first appeared in August 1962
 - A great Spider-Man gift for teenagers and adults who love super hero comics, or LEGO wall art sets; when the model is finished, the unique piece of art willl look amazing displayed on a wall
 - Celebrate one of the world’s most beloved Super Heroes with The Amazing Spider-Man LEGO Art set, a unique 3D canvas poster, with incredible details
-- Number of Pieces: 2,099
-- Pay homage to Spidey and spot 15 spiders in the picture to represent issue no. 15 of Amazing Fantasy in which Spider-Man first appeared in August 1962
-- In this piece of LEGO wall art, super hero Spider-Man breaks out from the frame and his head and fingers can be put into different poses
 - The backdrop of the buildable Spider-Man poster replicates the classic Ben-Day-dot printing technique from the 1960s used in the comics
-- The Amazing Spider-Man LEGO Art set comes with a premium booklet featuring details about this beloved Super Hero and instructions to guide you through the building process
+- Number of Pieces: 2,099
 - Scan the QR code to listen to a tailor-made soundtrack and immerse yourself in a creative project as you craft this piece of Spider-Man art
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Upstairs is a grooming area for pet play and pampering, complete with a bath and cat gym, plus a cat scratcher
-- Number of pieces: 111
 - Downstairs features the cash register, a toy scanner to check the patients, and an instrument cabinet packed with children’s vet kit
 - Manufacturer recommended age: 4+
+- Upstairs is a grooming area for pet play and pampering, complete with a bath and cat gym, plus a cat scratcher
 - Pet Clinic
+- Number of pieces: 111
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNTV9QJ{{</world>}}

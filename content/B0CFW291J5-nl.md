@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Crimson Firehawk ruimteschip en speeder bike bouwbaar speelgoed – jonge kinderen kunnen snel Star Wars voertuigen bouwen en verhalen naspelen als Star Wars: Young Jedi Adventures helden met deze startset
-- Leuk Star Wars cadeau voor jonge fans van Young Jedi Adventures – geef deze 136-delige, zelf te bouwen LEGO Star Wars set als verrassing of cadeau aan kinderen van 4 jaar en ouder
-- Eenvoudig te bouwen – de Crimson Firehawk heeft een startsteenbasis voor eenvoudig bouwen en een cockpit met ruimte voor de 3 Star Wars minifiguren - de speeder bike past achter in het ruimteschip
 - LEGO Star Wars personages – een Nash Durango LEGO minifiguur met een moersleutel, een LEGO minifiguur van Nubs met een lichtzwaard, plus een RJ-83 LEGO droid figuur die op de rug van Nash kan worden bevestigd
 - Leuke combo – deze set, die kan worden gecombineerd met de Tenoo Jedi tempel set (75358, apart verkrijgbaar), bevat ook een kleine marktplaats met een barbecue en voedselelementen om creatief spel te stimuleren
+- Crimson Firehawk ruimteschip en speeder bike bouwbaar speelgoed – jonge kinderen kunnen snel Star Wars voertuigen bouwen en verhalen naspelen als Star Wars: Young Jedi Adventures helden met deze startset
+- Eenvoudig te bouwen – de Crimson Firehawk heeft een startsteenbasis voor eenvoudig bouwen en een cockpit met ruimte voor de 3 Star Wars minifiguren - de speeder bike past achter in het ruimteschip
+- Leuk Star Wars cadeau voor jonge fans van Young Jedi Adventures – geef deze 136-delige, zelf te bouwen LEGO Star Wars set als verrassing of cadeau aan kinderen van 4 jaar en ouder
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW291J5{{</world>}}

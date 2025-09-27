@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Includes 4 LEGO Harry Potter minifigures: Harry, Draco Malfoy, Cedric Diggory and Cho Chang, plus 10 heads and hairstyles for unique players
+- With this LEGO Harry Potter Quidditch Trunk set fans play solo or against a friend in 3 different Quidditch games to win the Hogwarts House Cup
+- Kids build the toy trunk which unlocks to reveal a Quidditch field, Hogwarts House Banners and everything needed to play solo or 2-player games
 - Fans can play 3 different Quidditch games; shoot the Quaffle through the goal hoops, launch the bludgers at the beater and catch the Golden Snitch
 - Also includes authentic Harry Potter accessories; the Golden Snitch, a Quaffle, 2 bludgers, 2 bats and a house cup for kids to win
-- Kids build the toy trunk which unlocks to reveal a Quidditch field, Hogwarts House Banners and everything needed to play solo or 2-player games
-- With this LEGO Harry Potter Quidditch Trunk set fans play solo or against a friend in 3 different Quidditch games to win the Hogwarts House Cup
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCB9HFN{{</world>}}

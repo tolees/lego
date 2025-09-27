@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fans can recreate thrilling Star Wars: The Empire Strikes Back scenes with this TIE Star Wars Bomber Starfighter buildable model and 3 minifigures
-- This Star Wars model building kit for boys and girls aged 9 and up makes a cool birthday gift for fans of collectible Star Wars toy vehicles
 - Includes LEGO Star Wars minifigures: Darth Vader with a lightsaber, Vice Admiral Sloane and a TIE Bomber Pilot plus a Gonk Droid LEGO figure
-- Kids can use the cart to transport torpedoes to the model TIE Bomber; the cart has space for a minifigure and can load 2 torpedoes in the back
+- This Star Wars model building kit for boys and girls aged 9 and up makes a cool birthday gift for fans of collectible Star Wars toy vehicles
 - The Star Wars buildable toy has openable cockpit and warhead bay with torpedo-dropping function for 4 torpedoes (6 are included) and 2 stud shooters
+- Fans can recreate thrilling Star Wars: The Empire Strikes Back scenes with this TIE Star Wars Bomber Starfighter buildable model and 3 minifigures
+- Kids can use the cart to transport torpedoes to the model TIE Bomber; the cart has space for a minifigure and can load 2 torpedoes in the back
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZMRDP{{</world>}}

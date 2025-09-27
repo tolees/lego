@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wizarding World play and display set – Kids can recreate Hagrids motorcycle escape from Harry Potter and the Deathly Hallows with this building toy for 9+ year old girls and boys
-- Helping hand – Let the LEGO Builder app guide kids on an intuitive building adventure, where they zoom in and rotate models in 3D, track progress and save sets
 - Magical collection – LEGO Harry Potter toys for girls and boys let young witches, wizards and Muggles play out iconic scenes, make up their own stories or display the models
 - 3 LEGO Harry Potter figures – Features built-in, posable Harry Potter, Hedwig and Rubeus Hagrid figures riding on the motorbike toy and sidecar
-- Playful details – Kids drive the motorcycle, turn Hagrid’s head and pose his arms, pose Harry’s arms, and rotate Hedwig’s head and adjust her wings
 - Birthday gift for kids– This LEGO Harry Potter toy makes a fun gift for 9+ year old girls, boys and fans of Harry Potter and Wizarding World toys
+- Playful details – Kids drive the motorcycle, turn Hagrid’s head and pose his arms, pose Harry’s arms, and rotate Hedwig’s head and adjust her wings
+- Helping hand – Let the LEGO Builder app guide kids on an intuitive building adventure, where they zoom in and rotate models in 3D, track progress and save sets
+- Wizarding World play and display set – Kids can recreate Hagrids motorcycle escape from Harry Potter and the Deathly Hallows with this building toy for 9+ year old girls and boys
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCWKKK{{</world>}}

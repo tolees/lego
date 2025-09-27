@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Spelen zonder grenzen – kinderen openen de deur naar nog meer plezier en avonturen als ze deze set combineren met andere sets (apart verkrijgbaar) in het LEGO City assortiment
-- LEGO City speelgoed geïnspireerd op echte voertuigen en machines – kinderen kunnen de steunpoten uitklappen, de cabine draaien, de kraanarm uitschuiven en 360 graden draaien en de takel bedienen
+- Bouwspeelgoed met leuke accessoires – deze speelset bevat LEGO minifiguuraccessoires om te doen alsof, waaronder een blauwdruk, een moersleutel en een walkietalkie
 - Welkom in LEGO City – ontdek een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, LEGO voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - Wat zit er in de doos? – dit LEGO City kraan speelgoed bevat alles wat kinderen nodig hebben om een gedetailleerde mobiele bouwkraan, een mobiel toilet en 4 LEGO minifiguren van bouwvakkers te bouwen
+- LEGO City speelgoed geïnspireerd op echte voertuigen en machines – kinderen kunnen de steunpoten uitklappen, de cabine draaien, de kraanarm uitschuiven en 360 graden draaien en de takel bedienen
 - Creatief kerstcadeau voor kinderen van 9 jaar en ouder – maak elke dag bijzonder wanneer je deze LEGO speelset cadeau geeft aan jongens, meisjes en alle fans van cool bouwspeelgoed
-- Bouwspeelgoed met leuke accessoires – deze speelset bevat LEGO minifiguuraccessoires om te doen alsof, waaronder een blauwdruk, een moersleutel en een walkietalkie
 - Speelgoed kraan – het bouwen van je eigen stad is nog leuker met de LEGO City Gele mobiele bouwkraan voor jongens en meisjes vanaf 9 jaar
 
 [🛒 Check the deal!!]({{< param buyurl >}})

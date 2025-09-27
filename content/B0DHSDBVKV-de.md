@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Blumen: Der Strauß besteht aus 15 Kunstblumen, unter anderem aus Gänseblümchen, Kornblumen, Eukalyptus, Holunderblüten, Rosen, Butterblumen, Cymbidium-Orchideen, einer Seerosen-Dahlie und einer Glockenblume
 - LEGO Builder App: Für ein fesselndes Bauerlebnis sind sowohl gedruckte als auch digitale Bauanleitungen zu diesem LEGO Botanical Collection Set verfügbar
 - Baue noch mehr Blumenschmuck: Dieser Blumenstrauß kann auch mit den anderen separat erhältlichen LEGO Botanicals Sets kombiniert werden
+- Steck einen Blumenstrauß zusammen: Jede LEGO Blume der Botanik Kollektion hat einen verstellbaren Stiel, um einen maßgeschneiderten Blumenstrauß zusammenstecken zu können, der sich immer wieder umgestalten lässt
 - Geschenk für Naturfreunde: Die Blumen sind eine tolle Überraschung für Frauen, Männer und Blumenliebhaber und genau das richtige Geschenk zu besonderen Anlässen wie Einweihungspartys
 - LEGO Blumenschmuck: Der fertige LEGO Blumenstrauß kann in eine (nicht enthaltene) Vase gestellt werden und als toller Farbtupfer jedes Wohnzimmer oder Büro schmücken
-- Steck einen Blumenstrauß zusammen: Jede LEGO Blume der Botanik Kollektion hat einen verstellbaren Stiel, um einen maßgeschneiderten Blumenstrauß zusammenstecken zu können, der sich immer wieder umgestalten lässt
+- LEGO Blumen: Der Strauß besteht aus 15 Kunstblumen, unter anderem aus Gänseblümchen, Kornblumen, Eukalyptus, Holunderblüten, Rosen, Butterblumen, Cymbidium-Orchideen, einer Seerosen-Dahlie und einer Glockenblume
 - Blumenschmuck: LEGO Botanicals Schöner Rosafarbener Blumenstrauß ist ein Bauset für Erwachsene, das Naturfreunde kreativ werden lässt und Fans der LEGO Botanicals Collection begeistern wird
 
 [🛒 Check the deal!!]({{< param buyurl >}})

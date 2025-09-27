@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Noch mehr Spielspaß: Dieses Superhelden Spielset lässt sich wunderbar mit allen anderen (separat erhältlichen) LEGO Marvel Bauspielzeugen und Sets für noch mehr fantasievolle Abenteuer und Bauspaß kombinieren
-- Bauspielzeug mit LEGO Marvel Minifiguren: Das Set beinhaltet 2 Minifiguren – Iron Man mit aufklappbarem Helm und umdrehbarem Kopf (mit 2 unterschiedlichen Gesichtsausdrücken) sowie Ultron mit einem Laserstrahler
+- Iron Man Bau- und Spielset: Dieses LEGO Marvel Iron Man Mech vs. Ultron Set ist ein tolles Superhelden Spielzeug und bietet Jungen und Mädchen ab 6 Jahren riesigen Actionspaß
+- Beweglicher Iron Man Mech mit Funktionen: Die baubare Actionfigur des Mechs kann Arme, Beine und Finger bewegen; Klappt man den Oberkörper auf, kann man Iron Man ins Minifigur-Cockpit stecken
 - Iron Man Geschenk für Kinder: Dieses Iron Man Bauspielzeug ist eine tolle Belohnung für Jungen und Mädchen, die Superhelden, Mechs und LEGO Bausets aus der Marvel Welt lieben
 - Actionreicher Marvel Mech mit Shooter: Am Ende des rechten Arms der Actionfigur ist ein Doppel-Shooter eingebaut für spannende Abenteuer im Marvel Universum
-- Beweglicher Iron Man Mech mit Funktionen: Die baubare Actionfigur des Mechs kann Arme, Beine und Finger bewegen; Klappt man den Oberkörper auf, kann man Iron Man ins Minifigur-Cockpit stecken
-- Iron Man Bau- und Spielset: Dieses LEGO Marvel Iron Man Mech vs. Ultron Set ist ein tolles Superhelden Spielzeug und bietet Jungen und Mädchen ab 6 Jahren riesigen Actionspaß
 - Superhelden-Sammlerstücke für Kinder: LEGO Marvel Bauspielzeuge für Kinder bieten jungen Superhelden unzählige fantasievolle Bau- und Spielmöglichkeiten
+- Bauspielzeug mit LEGO Marvel Minifiguren: Das Set beinhaltet 2 Minifiguren – Iron Man mit aufklappbarem Helm und umdrehbarem Kopf (mit 2 unterschiedlichen Gesichtsausdrücken) sowie Ultron mit einem Laserstrahler
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCHKV6{{</world>}}

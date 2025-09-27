@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Le meilleur des univers LEGO et Marvel
 - Incarnez lun des héros de lunivers Marvel
+- Le meilleur des univers LEGO et Marvel
 - Partez a laventure dans la ville entierement modélisée de New York
 
 [🛒 Check the deal!!]({{< param buyurl >}})

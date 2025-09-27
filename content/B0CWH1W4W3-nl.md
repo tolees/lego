@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Een cadeau voor kinderen die van bouwvoertuigen houden – deze set is een geweldig cadeau voor jongens en meisjes vanaf 10 jaar die dol zijn op speelgoed vrachtwagens, rollenspellen en LEGO Technic bouwuitdagingen
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
-- Functies van de truck – bewonder de 6-cilindermotor met bewegende zuigers, stuur de truck in positie, koppel de oplegger los en klap de oprijplaat naar beneden om de graafmachine eraf te rollen
-- Bekijk de graafmachine – kinderen kunnen de graafmachine 360 graden draaien op zijn rupsbanden en vervolgens de pneumatische pomp gebruiken om de laadschop op en neer te bewegen
-- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
-- Volvo speelgoed truck met bouwbare graafmachine – inspireer kinderen om hun eigen zware bouwvoertuig te bouwen met een vrachtwagen, speelgoed graafmachine en laadstation
 - Elektrisch oplaadstation – kinderen die dol zijn op speelgoed voertuigen kunnen het laadstation met behulp van de schop en kettingen optillen en laten zakken, klaar om het aan de elektrische graafmachine te bevestigen
+- Functies van de truck – bewonder de 6-cilindermotor met bewegende zuigers, stuur de truck in positie, koppel de oplegger los en klap de oprijplaat naar beneden om de graafmachine eraf te rollen
+- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
+- Een cadeau voor kinderen die van bouwvoertuigen houden – deze set is een geweldig cadeau voor jongens en meisjes vanaf 10 jaar die dol zijn op speelgoed vrachtwagens, rollenspellen en LEGO Technic bouwuitdagingen
+- Bekijk de graafmachine – kinderen kunnen de graafmachine 360 graden draaien op zijn rupsbanden en vervolgens de pneumatische pomp gebruiken om de laadschop op en neer te bewegen
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Volvo speelgoed truck met bouwbare graafmachine – inspireer kinderen om hun eigen zware bouwvoertuig te bouwen met een vrachtwagen, speelgoed graafmachine en laadstation
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH1W4W3{{</world>}}

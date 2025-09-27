@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Audi model car for kids – LEGO Speed Champions Audi S1 e-tron quattro Race Car toy for 9+ year old boys and girls to, build, play and display
-- Authentic design details – Race Car toy features a towering rear wing, deep rear diffuser, front splitter and interior details including an e-brake
-- 1 minifigure – The LEGO vehicle includes a removable roof and a LEGO race driver minifigure with a helmet, wig and a wrench
-- Car gifts – Buildable model car kit provides a fun build-and-play experience and makes a fun birthday gift for 9+ year old boys and girls
-- Bigger racing adventures – Discover more LEGO Speed Champions buildable model cars with authentic details, sets sold separately
 - Kids bedroom decoration – After they have taken the Audi model car for a drive, kids can display their building toy on a shelf or bedside table
+- Bigger racing adventures – Discover more LEGO Speed Champions buildable model cars with authentic details, sets sold separately
+- 1 minifigure – The LEGO vehicle includes a removable roof and a LEGO race driver minifigure with a helmet, wig and a wrench
+- Authentic design details – Race Car toy features a towering rear wing, deep rear diffuser, front splitter and interior details including an e-brake
+- Car gifts – Buildable model car kit provides a fun build-and-play experience and makes a fun birthday gift for 9+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ1LCY{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Pretend-play toy hairdresser set for kids – This Hair Salon and Accessories Store set includes 3 mini dolls and creative hairstyling accessories
 - Creative gift idea – This set makes a great gift for 7+ year old girls and boys who like fun toys and friendship play with LEGO Friends characters
 - Hair salon toys for girls and boys – Fun features include a spinning window display and a cash register; kids can also visit the photo booth
-- Pretend-play toy hairdresser set for kids – This Hair Salon and Accessories Store set includes 3 mini dolls and creative hairstyling accessories
+- With 3 LEGO Friends characters – This buildable toy for 7+ year old girls and boys comes with Nova and Aliya mini dolls, plus Faraji the hair stylist
 - Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
 - Hair salon role-play toy – The mini dolls get a makeover at the hair salon, where there are styling chairs, toy hairdryers, brushes, wigs and more
-- With 3 LEGO Friends characters – This buildable toy for 7+ year old girls and boys comes with Nova and Aliya mini dolls, plus Faraji the hair stylist
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCZT95{{</world>}}

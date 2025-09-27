@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 2 Minipuppen und 3 Bauernhoftiere: Das Tierarzt-Spielzeug für Kinder beinhaltet die LEGO Friends Figuren Autumn und Gabriela sowie eine Ziege, ihr Zicklein und eine Hasen-Figur, die dein Kind sofort kreativ spielen lassen
 - Auf junge Baumeister zugeschnitten: Dieses Bauernhoftiere-Set erleichtert Kindern ab 4 Jahren, die gerade erst das Bauen lernen, die ersten Bauschritte; dein Kind kann Autumn und Gabriela die frisch geborene Ziegen-Figur versorgen lassen
 - LEGO Friends Farmtierklinik: Dieses Bauernhof-Spielzeug für Tiere liebende Mädchen und Jungen ab 4 Jahren beinhaltet 2 Minipuppen, 3 Spielzeug-Tiere und jede Menge Zubehör für Rollenspiele
+- 2 Minipuppen und 3 Bauernhoftiere: Das Tierarzt-Spielzeug für Kinder beinhaltet die LEGO Friends Figuren Autumn und Gabriela sowie eine Ziege, ihr Zicklein und eine Hasen-Figur, die dein Kind sofort kreativ spielen lassen
 - Geschenkidee für Kinder: Dieses LEGO Friends Set ist ein tolles Geschenk für Mädchen und Jungen zu Ostern oder zum Geburtstag, die Rollenspiele und Bauernhoftiere lieben
 - Jede Menge Zubehör: Neben tiermedizinischen Instrumenten beinhaltet das Kinderspielzeug auch Kirschen, eine Erdbeere, eine Biene, Kekse, eine Karotte, einen Becher und eine Shampooflasche
 - Lade die Tierfiguren auf den Anhänger: Das Set beinhaltet einen baubares Traktor-Spielzeug mit Anhänger, damit dein Kind so tun kann, als würde es die junge Mutter und ihr Baby durch den Eingangsbogen der Tierklinik fahren

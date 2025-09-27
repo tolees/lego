@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- This collectible LEGO THE BATMAN - BATCYCLE features a supporting kickstand so kids can display their build with pride on a shelf or desk
 - This LEGO Technic Batman bike toy measures over 16 cm (6.5 in.) high, 33 cm (13 in.) long and 11 cm (4.5 in.) wide. Contains 641 pieces
-- Fans can recreate an iconic vehicle with this LEGO Technic BATCYCLE toy motorcycle model building kit, as seen in the 2022 movie: THE BATMAN
-- This motorcycle model building kit makes a great Batman gift idea for kids ages 9+ and fans of super heroes, toy vehicles and comic book culture
 - Kids and fans can capture the spirit of the DC superhero and build the toy motorcycle piece by piece then recreate their favorite Batman moments
+- This motorcycle model building kit makes a great Batman gift idea for kids ages 9+ and fans of super heroes, toy vehicles and comic book culture
 - The Batman Bike is packed with realistic features including steering, suspension and a drive chain that connects the H4 engine to the rear wheel
+- Fans can recreate an iconic vehicle with this LEGO Technic BATCYCLE toy motorcycle model building kit, as seen in the 2022 movie: THE BATMAN
+- This collectible LEGO THE BATMAN - BATCYCLE features a supporting kickstand so kids can display their build with pride on a shelf or desk
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BLJ5LMPW{{</world>}}

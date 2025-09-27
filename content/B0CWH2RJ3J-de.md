@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Erschaffe eine Winkelgasse aus LEGO Steinen: Die beiden Läden in dieser Einkaufsstraße kann man miteinander oder mit anderen Läden aus separat erhältlichen LEGO Harry Potter Winkelgasse Sets verbinden
-- Madam Malkins Anzüge für alle Gelegenheiten: In dem Winkelgasse-Spielzeug findest du eine Schneiderei, 2 baubare Schaufensterpuppen sowie jede Menge Zubehörelemente wie Hüte und Mäntel, die zum Spielen einladen
-- Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, die Baumeister 3D-Ansichten ihrer Modelle vergrößern und drehen, ihren Baufortschritt verfolgen und LEGO Sets speichern lassen
-- Beinhaltet 6 LEGO Harry Potter Minifiguren zum Sammeln: Harry Potter, Garrick Ollivander, Madam Malkin, Padma Patil, einen Zauberschüler und eine Hexe mit einer Karre voll Blumen
-- Faszinierendes Geschenk für Harry Potter Fans: Dieses Bau- und Spielset ist ein magisches Geburtstags- oder Weihnachtsgeschenk für Mädchen, Jungen und alle Fans der Zauberwelt ab 8 Jahren
-- 2 Läden aus der Winkelgasse: Dieses Zauberer-Spielzeug ist eine tolle Geschenkidee für Harry Potter Fans; Das Set beinhaltet detailgetreue LEGO Modelle von Ollivanders und Madam Malkins Läden für magische Abenteuer
 - Ollivanders Zauberstabladen: Das Modell hat 2 aufklappbare Seitenwände; In dem Laden findest du baubare Regale mit Zauberstabschachteln (eine davon enthält Harry Potters Zauberstab), eine Leiter und 2 Gestelle mit 26 Zauberstäben
+- Faszinierendes Geschenk für Harry Potter Fans: Dieses Bau- und Spielset ist ein magisches Geburtstags- oder Weihnachtsgeschenk für Mädchen, Jungen und alle Fans der Zauberwelt ab 8 Jahren
+- Erschaffe eine Winkelgasse aus LEGO Steinen: Die beiden Läden in dieser Einkaufsstraße kann man miteinander oder mit anderen Läden aus separat erhältlichen LEGO Harry Potter Winkelgasse Sets verbinden
+- Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, die Baumeister 3D-Ansichten ihrer Modelle vergrößern und drehen, ihren Baufortschritt verfolgen und LEGO Sets speichern lassen
+- Madam Malkins Anzüge für alle Gelegenheiten: In dem Winkelgasse-Spielzeug findest du eine Schneiderei, 2 baubare Schaufensterpuppen sowie jede Menge Zubehörelemente wie Hüte und Mäntel, die zum Spielen einladen
+- 2 Läden aus der Winkelgasse: Dieses Zauberer-Spielzeug ist eine tolle Geschenkidee für Harry Potter Fans; Das Set beinhaltet detailgetreue LEGO Modelle von Ollivanders und Madam Malkins Läden für magische Abenteuer
+- Beinhaltet 6 LEGO Harry Potter Minifiguren zum Sammeln: Harry Potter, Garrick Ollivander, Madam Malkin, Padma Patil, einen Zauberschüler und eine Hexe mit einer Karre voll Blumen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RJ3J{{</world>}}

@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - De Disney set bevat 3 LEGO Disney minifiguren: Mickey Mouse, Minnie Mouse en Walt Disney, plus Bambi en Dumbo LEGO dieren figuren
-- Ook inbegrepen is een filmklapper met ruimte voor alle inbegrepen Disney personages, en een multiplane camera met 3 geprinte schermen die laten zien hoe Disneys Oude Molen werd gemaakt
 - Deze LEGO Disney set voor volwassenen, gemaakt om Disneys 100ste verjaardag te vieren, is een speciaal verjaardagscadeau voor vrouwen en mannen of een housewarming cadeau voor een Disney fan
-- Inclusief een premium boekje gevuld met details over Disney, de camera, de set zelf en instructies om je door het bouwproces te leiden
 - Vier Disneys 100ste verjaardag met de LEGO Walt Disney eerbetoon – camera set ; een displaywaardig verzamelstuk met een minifiguur van Walt Disney zelf, samen met een aantal van zijn geliefde personages
 - Deze nostalgische set heeft 811 onderdelen om verschillende items te maken, waaronder een vintage-stijl filmcamera met een scharnierend achterpaneel met een verrassing, plus een filmstrook met fotos uit 20 historische Disney-films
+- Ook inbegrepen is een filmklapper met ruimte voor alle inbegrepen Disney personages, en een multiplane camera met 3 geprinte schermen die laten zien hoe Disneys Oude Molen werd gemaakt
+- Inclusief een premium boekje gevuld met details over Disney, de camera, de set zelf en instructies om je door het bouwproces te leiden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BMPVS{{</world>}}

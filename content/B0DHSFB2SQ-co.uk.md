@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 6 LEGO Harry Potter character minifigures – Harry Potter, Neville Longbottom, Draco Malfoy, Professor McGonagall, Madam Hooch and Oliver Wood
+- 2 of 14 collectible Hogwarts portraits – This Harry Potter toy for 9+ year old boys and girls includes 2 of 14 random Hogwarts portrait elements
 - Harry Potter collection – This playset is part of a collection of modular sets (sold separately) that connect to create the detailed LEGO brick-built Hogwarts Castle scene
 - Magical toy playset – The foldout building has Quidditch equipment room, Transfiguration classroom, McGonagall’s office, trophy room and more
-- 6 LEGO Harry Potter character minifigures – Harry Potter, Neville Longbottom, Draco Malfoy, Professor McGonagall, Madam Hooch and Oliver Wood
-- Fun way to build – LEGO Builder app guides kids on an intuitive building adventure, where they can zoom in and rotate models in 3D, track progress and save sets
-- Wizarding World playset – Kids can play out Quidditch and Transfiguration classes with this LEGO Harry Potter Hogwarts Castle: Flying Lessons set
-- 2 of 14 collectible Hogwarts portraits – This Harry Potter toy for 9+ year old boys and girls includes 2 of 14 random Hogwarts portrait elements
 - Gift idea for kids – This magical toy set is a fun Harry Potter gift for 9+ year old boys, girls and fans of Harry Potter and Wizarding World toys
+- Wizarding World playset – Kids can play out Quidditch and Transfiguration classes with this LEGO Harry Potter Hogwarts Castle: Flying Lessons set
+- Fun way to build – LEGO Builder app guides kids on an intuitive building adventure, where they can zoom in and rotate models in 3D, track progress and save sets
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSFB2SQ{{</world>}}

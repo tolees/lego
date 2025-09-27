@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Expand Racing World - LEGO Speed Champions sets like Ferrari 812 Competizione (76914) and Porsche 963 (76916) await sports car lovers for more racing excitement
+- Distinctive F1 LM - The McLaren F1 LM race car toy showcases its iconic papaya orange color, central driving seat, and cooling ducts on both sides
+- McLaren F1 LM Dimensions - Measures over 4 cm (1.5 in.) high, 15 cm (5.5 in.) long, and 7 cm (2.5 in.) wide, containing 581 pieces for ages 9 and up
+- High-Speed Racing Fun - This model car building kit comes with 2 driver minifigures for setting up thrilling races with the car toys for boys and girls
 - Double-Pack LEGO Set - Features 2 buildable replica toy car models: McLaren Solus GT and McLaren F1 LM for kids and adults to build and display
 - Realistic Solus GT - The Solus GT toy car model includes authentic details: white, black, and orange color scheme, prominent wheel arches, and cockpit
-- McLaren F1 LM Dimensions - Measures over 4 cm (1.5 in.) high, 15 cm (5.5 in.) long, and 7 cm (2.5 in.) wide, containing 581 pieces for ages 9 and up
+- Expand Racing World - LEGO Speed Champions sets like Ferrari 812 Competizione (76914) and Porsche 963 (76916) await sports car lovers for more racing excitement
 - Rewarding Build Experience - Kids and adults can enjoy a satisfying build with the classic F1 LM and modern Solus GT replica model cars before racing and displaying them
-- Distinctive F1 LM - The McLaren F1 LM race car toy showcases its iconic papaya orange color, central driving seat, and cooling ducts on both sides
-- High-Speed Racing Fun - This model car building kit comes with 2 driver minifigures for setting up thrilling races with the car toys for boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BLJ3HSLH{{</world>}}

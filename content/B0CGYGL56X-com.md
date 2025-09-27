@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Measurements – 196-piece set with karaoke scene measuring over 3 in. (8 cm) high, 6 in. (16 cm) wide and 4 in. (10 cm) deep
-- Revolving stage – This kids’ building kit features a revolving toy stage so kids can act out the friendship story of Liann’s birthday party as the characters take turns performing
 - A gift idea for kids – This set makes a great holiday gift for girls and boys who love singing toys, musical toys, and karaoke party toys
+- 2 mini-dolls – Set includes LEGO Friends characters Nova and Liann with additional faces, plus a pet gecko figure, so the creative play starts right away
 - Accessories for storytelling – The set comes with microphones, drinks, cupcakes, a present, chocolate, flowers, tickets and balloons
 - Building sets for imaginative kids – Check out more fun toys in the range (sets sold separately), to fuel creative adventures for young builders who love pretend play
 - Play out a fun karaoke party – LEGO Friends Karaoke Music Party toy for girls, boys and kids ages 6 plus with 2 mini-dolls, a pet gecko figure, a revolving stage plus lots of accessories
-- 2 mini-dolls – Set includes LEGO Friends characters Nova and Liann with additional faces, plus a pet gecko figure, so the creative play starts right away
+- Revolving stage – This kids’ building kit features a revolving toy stage so kids can act out the friendship story of Liann’s birthday party as the characters take turns performing
+- Measurements – 196-piece set with karaoke scene measuring over 3 in. (8 cm) high, 6 in. (16 cm) wide and 4 in. (10 cm) deep
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CGYGL56X{{</world>}}

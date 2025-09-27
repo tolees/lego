@@ -30,11 +30,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Fesselndes Erlebnis: Die LEGO Builder App lässt dich jeden Schritt deines Projekts genießen und 3D-Modellansichten drehen und vergrößern, deinen Baufortschritt verfolgen und all deine Formel 1 Sets an einem Ort speichern
 - LEGO Bausets für Erwachsene: Die separat erhältlichen LEGO Technic Fahrzeuge und Sets für Erwachsene lassen dich faszinierende technische Konzepte erkunden und entspannende Bauprojekte genießen
-- Tolles Ausstellungsstück und Wohndeko: Dieses Modell des Ferrari SF-24 F1 Rennautos ist ein toller Hingucker für jedes Zimmer oder Büro und lässt dich deine Begeisterung für die Formel 1 feiern und zur Schau stellen
-- LEGO Technic Sammlerstück für Formel-1-Fans: Dieses Set ist eine tolle Geschenkidee für erwachsene F1-Fans, die anspruchsvolle Projekte lieben, und eine schöne Belohnung für dich selbst, falls du deinen eigenen Rennwagen bauen möchtest
-- Motor und Getriebe am LEGO Technic Fahrzeug sind detailgetreu nachgebildet: Nimm die Motorabdeckung des LEGO Autos ab, um das 2-Gang-Getriebe und den V6-Motor mit drehender MGU-H-Einheit zu bewundern
 - Formel 1 Modellauto mit authentischen Details: Erkunde wirklichkeitsgetreue Funktionen wie die Radaufhängung, die Lenkung und den verstellbaren Heckflügel, um mit diesem baubaren Auto die faszinierende F1-Saison nachzustellen
+- Tolles Ausstellungsstück und Wohndeko: Dieses Modell des Ferrari SF-24 F1 Rennautos ist ein toller Hingucker für jedes Zimmer oder Büro und lässt dich deine Begeisterung für die Formel 1 feiern und zur Schau stellen
+- Motor und Getriebe am LEGO Technic Fahrzeug sind detailgetreu nachgebildet: Nimm die Motorabdeckung des LEGO Autos ab, um das 2-Gang-Getriebe und den V6-Motor mit drehender MGU-H-Einheit zu bewundern
 - Bauset mit einem F1-Rennauto für Erwachsene: Hol dir die Poleposition mit dem LEGO Technic Ferrari SF-24 F1 Rennwagen; Das Modell aus diesem Bauset hat jede Menge Funktionen, die das Herz jedes F1-Fans höher schlagen lassen
+- LEGO Technic Sammlerstück für Formel-1-Fans: Dieses Set ist eine tolle Geschenkidee für erwachsene F1-Fans, die anspruchsvolle Projekte lieben, und eine schöne Belohnung für dich selbst, falls du deinen eigenen Rennwagen bauen möchtest
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCYDL2{{</world>}}

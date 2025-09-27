@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Encanto buildable toy for kids – The Magical Madrigal House building toy for 7-plus-year-old girls and boys is full of features and functions
-- 8 rooms of fun – This LEGO ǀ Disney set features a colourful house with 9 sections that can be built together, plus lots of film-inspired details
-- Disney gift for kids+ – A building toy set with well-known characters, locations and accessories that makes a fun gift for 7-plus-year-old girls, boys and film fans and sparks endless play
-- More characters – Also included in this Disney Princess building toy is an Antonio LEGO ǀ Disney micro-doll figure and 2 LEGO ǀ Disney animal figures
-- Disney’s Encanto characters – This playset features 6 LEGO ǀ Disney mini-doll figures: Abuela, Mirabel, Isabela, Dolores, Luisa and Camilo
 - A helping hand – Discover intuitive instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets
+- More characters – Also included in this Disney Princess building toy is an Antonio LEGO ǀ Disney micro-doll figure and 2 LEGO ǀ Disney animal figures
+- Disney gift for kids+ – A building toy set with well-known characters, locations and accessories that makes a fun gift for 7-plus-year-old girls, boys and film fans and sparks endless play
 - Creative LEGO building set – Kids can create the separate rooms then combine them to play out Encanto film scenes or imagine creative new stories
+- 8 rooms of fun – This LEGO ǀ Disney set features a colourful house with 9 sections that can be built together, plus lots of film-inspired details
+- Disney’s Encanto characters – This playset features 6 LEGO ǀ Disney mini-doll figures: Abuela, Mirabel, Isabela, Dolores, Luisa and Camilo
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH2S2C2{{</world>}}

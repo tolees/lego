@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mando en Grogus N-1 Starfighter bouwspeelgoed – kinderen van 4 jaar en ouder leren bouwen met LEGO stenen en bedenken hun eigen fantasieverhalen met Star Wars: The Mandalorian helden met deze leuke startset
 - Eenvoudige voertuigbouwset voor jonge kinderen – de Star Wars starfighter heeft een startsteenbasis voor eenvoudig bouwen, een cockpit die open kan voor de Mandalorian en een passagiersruimte voor Grogu
-- 3 LEGO Star Wars personages – inclusief een LEGO minifiguur van de Mandalorian, een LEGO figuur van Grogu en een R5-D4 LEGO droidfiguur
-- Compacte set om onderweg mee te spelen – het bouwbare voertuig in deze set met 92 onderdelen is ca. 5 cm hoog, 22 cm lang en 17 cm breed
-- Een leuke gezinsactiviteit – in de doos vind je stapsgewijze instructies met afbeeldingen. Bekijk ook de LEGO Builder app voor digitale functies om de creatieve ervaring nog leuker te maken
-- Authentieke, speelse accessoires – de Mandalorian heeft een darksaber en jetpack-accessoire, Grogu heeft zijn zweefkinderwagen en de set bevat ook een bouwbaar tankstation
 - Bouwen aan creativiteit – LEGO Star Wars sets voor kinderen vanaf 4 jaar laten jonge kinderen kennismaken met het Star Wars universum, leren ze bouwen en stimuleren de fantasie door middel van creatief spel
+- Een leuke gezinsactiviteit – in de doos vind je stapsgewijze instructies met afbeeldingen. Bekijk ook de LEGO Builder app voor digitale functies om de creatieve ervaring nog leuker te maken
+- Compacte set om onderweg mee te spelen – het bouwbare voertuig in deze set met 92 onderdelen is ca. 5 cm hoog, 22 cm lang en 17 cm breed
 - Star Wars cadeautje voor jongens, meisjes en fans vanaf 4 jaar – geef deze Star Wars: The Mandalorian bouw- en speelset cadeau aan een kleuter als traktatie of beloning
+- Mando en Grogus N-1 Starfighter bouwspeelgoed – kinderen van 4 jaar en ouder leren bouwen met LEGO stenen en bedenken hun eigen fantasieverhalen met Star Wars: The Mandalorian helden met deze leuke startset
+- 3 LEGO Star Wars personages – inclusief een LEGO minifiguur van de Mandalorian, een LEGO figuur van Grogu en een R5-D4 LEGO droidfiguur
+- Authentieke, speelse accessoires – de Mandalorian heeft een darksaber en jetpack-accessoire, Grogu heeft zijn zweefkinderwagen en de set bevat ook een bouwbaar tankstation
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSBCB59{{</world>}}

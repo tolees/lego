@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Klaar voor actie – dit LEGO Star Wars voertuig heeft verborgen wielen voor soepele bewegingen, een cockpit met ruimte voor een piloot, 2 noppenschieters, een STAP speeder in het achtervak en opklapbare zijpanelen voor toegang tot het interieur
 - Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen een digitale 3D-versie van hun modellen draaien tijdens het bouwen en meer
+- Ontdek het assortiment – met LEGO Star Wars verzamelsets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans onvergetelijke scènes naspelen, originele verhalen verzinnen en de modellen op een mooi plekje neerzetten als Star Wars decoratie
+- LEGO Star Wars cadeau voor jongens, meisjes en fans vanaf 9 jaar – geef dit bouwpakket voor kinderen cadeau aan jongens, meisjes en fans van Star Wars: The Clone Wars
 - Authentieke details – draai aan de knop boven op de MTT om het rek met droids te activeren, duw het door het voorluik en maak de Battle Droids los van het rek
 - LEGO Star Wars personages – inclusief LEGO Star Wars minifiguren van commandant Bly en Aayla Secura, 3 Commando Droid LEGO figuren, een Pilot Battle Droid en 6 Star Wars Battle Droid figuren met accessoires
-- Ontdek het assortiment – met LEGO Star Wars verzamelsets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans onvergetelijke scènes naspelen, originele verhalen verzinnen en de modellen op een mooi plekje neerzetten als Star Wars decoratie
-- Klaar voor actie – dit LEGO Star Wars voertuig heeft verborgen wielen voor soepele bewegingen, een cockpit met ruimte voor een piloot, 2 noppenschieters, een STAP speeder in het achtervak en opklapbare zijpanelen voor toegang tot het interieur
-- LEGO Star Wars cadeau voor jongens, meisjes en fans vanaf 9 jaar – geef dit bouwpakket voor kinderen cadeau aan jongens, meisjes en fans van Star Wars: The Clone Wars
 - Bouwbaar LEGO Star Wars: The Clone Wars speelgoed voor kinderen – kinderen worden de held in hun eigen versie van de Slag om Felucia met dit van stenen gebouwde Separatist MTT voertuig
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The Disney buildable toy for kids 7 years old is the best birthday gift for Space-Rangers-in-training who love Disney and Pixar’s Lightyear
-- Features 2 minifigures, including Disney’s Buzz Lightyear with his iconic wings and jetpack, plus Izzy Hawthorne, a LEGO robot and Sox cat figure
-- Izzy uses her stud shooter, Buzz straps on his jetpack and fires his laser shooter - by working as a team, they’ve beaten the bad guy
-- Combines with Zyclops Chase 76830 and XL-15 Spaceship 76832 to bring more scenes from Disney and Pixar’s Lightyear to fans’ bedrooms
 - Kids help stop Zurg from stealing the fuel cell from Buzz’s spacecraft with a range of cool weapons: a wrist laser, blaster and stud shooter
+- Combines with Zyclops Chase 76830 and XL-15 Spaceship 76832 to bring more scenes from Disney and Pixar’s Lightyear to fans’ bedrooms
+- Izzy uses her stud shooter, Buzz straps on his jetpack and fires his laser shooter - by working as a team, they’ve beaten the bad guy
+- The Disney buildable toy for kids 7 years old is the best birthday gift for Space-Rangers-in-training who love Disney and Pixar’s Lightyear
 - With this outer space robot toy Buzz Lightyear fans join the Space Ranger team in battling evil mech action figure villain Zurg
+- Features 2 minifigures, including Disney’s Buzz Lightyear with his iconic wings and jetpack, plus Izzy Hawthorne, a LEGO robot and Sox cat figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNVCZ2H{{</world>}}

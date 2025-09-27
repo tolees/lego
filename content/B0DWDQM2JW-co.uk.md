@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO DREAMZzz range – Continue the adventure with more LEGO DREAMZzz sets (sold separately), including animal playsets, mech toys and other creative building experiences
-- Rebuildable playset – Kids can build a shark toy, then transform it into either a shark submarine toy or a hammerhead shark battleship toy for action-packed play
-- Interactive toy with fun details – The building set includes detachable flyers, stud shooters, missiles that fire out of the sharks mouth, an opening cockpit and a prison inside the shark
-- Submarine toy for 9+ year old boys and girls – Let imaginations set sail with the LEGO DREAMZzz Nightmare Shark Submarine set, featuring 2 build options for fantasy-filled adventures
-- Be part of the action – Story-led instructions guide kids through the dream-world adventure and are also available digitally in the LEGO Builder app for an interactive building experience
 - LEGO minifigures – Mateo, Logan, Astrid, Dreamsmasher, two dreamers, Z-Blob and three Cyberlings bring the action to life and inspire storytelling, teamwork and creative role play
+- Submarine toy for 9+ year old boys and girls – Let imaginations set sail with the LEGO DREAMZzz Nightmare Shark Submarine set, featuring 2 build options for fantasy-filled adventures
 - Shark gift – This fantasy ship building set makes a great gift for 9+ year old boys and girls who love sea animals, interactive toys or action-packed vehicle playsets
+- LEGO DREAMZzz range – Continue the adventure with more LEGO DREAMZzz sets (sold separately), including animal playsets, mech toys and other creative building experiences
+- Interactive toy with fun details – The building set includes detachable flyers, stud shooters, missiles that fire out of the sharks mouth, an opening cockpit and a prison inside the shark
+- Rebuildable playset – Kids can build a shark toy, then transform it into either a shark submarine toy or a hammerhead shark battleship toy for action-packed play
+- Be part of the action – Story-led instructions guide kids through the dream-world adventure and are also available digitally in the LEGO Builder app for an interactive building experience
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDQM2JW{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- With a toy barber shop, vets, blogging studio, rooftop disco, comic shop, tech shop, caretaker’s room, hotel, pizzeria, juice bar and noodle stand
-- Celebrate with this LEGO City modular buildings set; a great Christmas present or birthday gift for kids, boys, girls aged 8 + years old
+- Theres a LEGO hotel with reception, solar panels and wind turbines, plus a street-food area to supply the locals with pizza, drinks and noodles
 - The LEGO City Centre modular building toy set for kids comes with feature-rich, combinable modular rooms with lots of fun details and functions
 - A LEGO road plate is included for easy connection to other LEGO City sets like Apartment Building (60365) and Street Skate Park (60364)
 - Kids can combine the rooms and toy shops to create their own bustling City Centre and play out stories with the included 14 LEGO minifigures
-- Theres a LEGO hotel with reception, solar panels and wind turbines, plus a street-food area to supply the locals with pizza, drinks and noodles
 - Accessories include a toy violin, scooter, sweeping brush, kitchen and hairdresser equipment, comic book and a LEGO NINJAGO collectible card
+- Celebrate with this LEGO City modular buildings set; a great Christmas present or birthday gift for kids, boys, girls aged 8 + years old
+- With a toy barber shop, vets, blogging studio, rooftop disco, comic shop, tech shop, caretaker’s room, hotel, pizzeria, juice bar and noodle stand
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPC55SRJ{{</world>}}

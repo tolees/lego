@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Fans von Avengers: Infinity Saga werden es lieben, alle Details dieses großen LEGO-Sets zu bauen, das eine Captain America-Minifigur mit eigenem Schild und Thors Hammer Mjölnir enthält, um diesem einzigartigen Ausstellungsstück hervorzuheben
 - Lass dich von deinem Smartphone oder Tablet unterstützen und lade die LEGO Builder App herunter. Dort gibt es auch eine digitale Version der Bauanleitung zu diesem Marvel-Sammlerstück
+- Der Modellbausatz enthält Captain Americas ikonisches Schild in den typischen Farben rot, weiß und blau mit einem Durchmesser von 47 cm (18,5 Zoll) und einem Ständer mit integriertem Namensschild
 - Marvel Avengers-Fans können mit diesem LEGO Marvel Captain Americas Schild das ultimative Emblem von Gut gegen Böse bauen, ein 3.128-teiliges LEGO Set für Erwachsene, um ein Stück Comic-Geschichte Stein für Stein nachzubilden
 - Dieser praktische Modellbausatz für Erwachsene ist ein tolles Geschenk für jeden Marvel-Avengers-Fan, LEGO-Liebhaber oder Modellbauer, ob als Geburtstagsgeschenk, Jubiläumsgeschenk für Männer und Frauen oder als Belohnung für sich selbst
-- Der Modellbausatz enthält Captain Americas ikonisches Schild in den typischen Farben rot, weiß und blau mit einem Durchmesser von 47 cm (18,5 Zoll) und einem Ständer mit integriertem Namensschild
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CN528{{</world>}}
