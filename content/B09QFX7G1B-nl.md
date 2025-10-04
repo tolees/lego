@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Gun jezelf deze toffe LEGO bouwset of verras een fan van Optimus Prime en het Transformers universum met dit originele verjaardagscadeau of cadeau voor de feestdagen
+- Open de borstholte om daar de Autobot Matrix of Leadership in te plaatsen, en bewonder de 19 scharnierpunten in de robotmodus, voordat je de jetpack vastmaakt in robotmodus en de ionblaster en Energon-bijl in de handen van de Autobot plaatst
 - Met deze gedetailleerde 2-in-1 set, gebaseerd op de legendarische Transformers figuur Autobot, kunnen volwassenen een LEGO model van Optimus Prime bouwen, die van een robot in een vrachtwagen verandert - en weer terug
+- Deze unieke Transformers collectible is een indrukwekkende blikvanger om vol trots neer te zetten in je huis of op kantoor - maak het model helemaal af met het informatieplaatje met Optimus Prime feiten
 - Deze LEGO Optimus Prime modelbouw set maakt deel uit van een reeks die is ontworpen voor volwassen bouwfans die van prachtige ontwerpen, complexe details en elegante architectuur houden
 - Herleef de Transformers saga met de vele accessoires, zoals de ionblaster, de Autobot Matrix of Leadership, een Energon-bijl, Energon-kubus en jetpack
-- Open de borstholte om daar de Autobot Matrix of Leadership in te plaatsen, en bewonder de 19 scharnierpunten in de robotmodus, voordat je de jetpack vastmaakt in robotmodus en de ionblaster en Energon-bijl in de handen van de Autobot plaatst
-- Deze unieke Transformers collectible is een indrukwekkende blikvanger om vol trots neer te zetten in je huis of op kantoor - maak het model helemaal af met het informatieplaatje met Optimus Prime feiten
-- Gun jezelf deze toffe LEGO bouwset of verras een fan van Optimus Prime en het Transformers universum met dit originele verjaardagscadeau of cadeau voor de feestdagen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFX7G1B{{</world>}}

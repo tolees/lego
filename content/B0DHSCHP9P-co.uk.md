@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO vehicles for adults – Explore engineering concepts and enjoy a relaxing building project with the collection of LEGO Technic vehicle sets for adults, sold separately
-- A LEGO Technic car for F1 fans – This set makes a gift idea for men and women who are F1 fans and enjoy challenging projects, or a treat for yourself if you want to build your own F1 car model
 - Immerse yourself – Discover intuitive instructions in the LEGO Builder app where you can zoom in and rotate models in 3D, track progress and save sets
+- A LEGO Technic car for F1 fans – This set makes a gift idea for men and women who are F1 fans and enjoy challenging projects, or a treat for yourself if you want to build your own F1 car model
 - Realistic features – Examine the 2-speed gearbox and differential, and remove the engine cover to explore the V6 engine with its moving pistons
 - Display with pride – This Oracle Red Bull Racing RB20 F1 car model makes a great display piece for any room or office, celebrating your passion for F1
-- Car model kit for adults – Stay focussed for an epic project as you assemble this detailed LEGO Technic Oracle Red Bull Racing RB20 F1 Car model set
 - Feature-packed F1 model – This model car kit for adults to build features front and rear suspension, steering, an adjustable spoiler and printed tyres
+- Car model kit for adults – Stay focussed for an epic project as you assemble this detailed LEGO Technic Oracle Red Bull Racing RB20 F1 Car model set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCHP9P{{</world>}}

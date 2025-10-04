@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Hours of play – The set is designed for kids aged 9 and up, who can spend hours of fun playing on their own or with friends
-- A helping hand – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
 - 2 ways to build – Kids can choose to customize the space toy with rockets and blasters or build a huge cannon, starfighter and mini-spaceship to accompany it
-- Dimensions – The spacebus measures over 4.5 in. (12 cm) high, 16 in. (41 cm) long and 13 in. (33 cm) wide
 - A space adventure – The set lets kids play at joining Mr. Oz and his monkey sidekick Albert as they escape Susan and her band of nightmare creatures. The spacebus features an opening cockpit, rear cargo ramps, rotating thrusters and blasters
-- Blast off into the dream world – Kids can enjoy imaginative play with the LEGO DREAMZzz Mr. Oz’s Spacebus (71460) building set, inspired by the adventures from the new LEGO DREAMZzz TV show
 - 2 minifigures – The set comes with minifigures of Mateo and Mr. Oz, plus figures of Mr. Oz’s monkey Albert, Z-Blob and Susan
+- Hours of play – The set is designed for kids aged 9 and up, who can spend hours of fun playing on their own or with friends
+- Blast off into the dream world – Kids can enjoy imaginative play with the LEGO DREAMZzz Mr. Oz’s Spacebus (71460) building set, inspired by the adventures from the new LEGO DREAMZzz TV show
+- A helping hand – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
+- Dimensions – The spacebus measures over 4.5 in. (12 cm) high, 16 in. (41 cm) long and 13 in. (33 cm) wide
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRFZGDD{{</world>}}

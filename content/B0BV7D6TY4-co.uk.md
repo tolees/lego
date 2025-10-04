@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The set includes LEGO DC Batman and The Joker minifigures, plus toy accessories like a helmet, Batmans cape, harpoon, handcuffs and a Batarang
-- The 1989 Batmobile LEGO car features a lift-off roof, which provides access to the vehicle’s cockpit, with room for a minifigure to sit
-- This LEGO DC Batman toy set featuring the 1989 Batmobile to build, is a fun birthday present or Christmas gift for boys, girls and all kids aged 8+ years old or a surprise toy treat for fans of Batman and DC super hero toys
-- Other features of the super hero toy car include a flip-open boot and a mechanism that raises the 2 built-in blasters into position
-- This Batman toy car has a flaming exhaust pipe, with a LEGO flame element that rotates as the car moves, great for bringing film chases to life
 - LEGO DC Batmobile: Batman vs. The Joker Chase features an iconic Batmobile toy car and 2 minifigures to bring the classic 1989 movie to life
+- This Batman toy car has a flaming exhaust pipe, with a LEGO flame element that rotates as the car moves, great for bringing film chases to life
 - Kids can zoom and rotate the set in 3D, save sets and check progress using the LEGO Builder app; once complete, the Batman car model will look great on display in their bedrooms
+- The set includes LEGO DC Batman and The Joker minifigures, plus toy accessories like a helmet, Batmans cape, harpoon, handcuffs and a Batarang
+- Other features of the super hero toy car include a flip-open boot and a mechanism that raises the 2 built-in blasters into position
+- This LEGO DC Batman toy set featuring the 1989 Batmobile to build, is a fun birthday present or Christmas gift for boys, girls and all kids aged 8+ years old or a surprise toy treat for fans of Batman and DC super hero toys
+- The 1989 Batmobile LEGO car features a lift-off roof, which provides access to the vehicle’s cockpit, with room for a minifigure to sit
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV7D6TY4{{</world>}}

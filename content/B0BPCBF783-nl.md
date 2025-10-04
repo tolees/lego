@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief accessoires en 4 skater LEGO City mini figuren met beschermende uitrusting waarmee kinderen allerlei coole skatestunts kunnen uitvoeren
-- De speelset bevat ook een LEGO wegplaat om het model met andere sets te verbinden in de LEGO City reeks, zoals de Appartementsgebouw (60365) en IJswinkel (60363) sets
+- Deze LEGO City speelset is een leuk verjaardagscadeau voor kinderen vanaf 6 jaar die houden van avontuur, stunts en bouwen
 - De set bevat modulaire hellingen om het park op verschillende manieren in te delen, plus een speelgoed fiets, een mini-skateboard, een step, rolschaatsen en een mobiele telefoon
 - De LEGO City Skatepark speelgoed set voor kinderen vanaf 6 jaar bevat een bouwbaar skatepark vol skate-apparatuur en accessoires, plus 4 minifiguren
-- Deze LEGO City speelset is een leuk verjaardagscadeau voor kinderen vanaf 6 jaar die houden van avontuur, stunts en bouwen
+- Inclusief accessoires en 4 skater LEGO City mini figuren met beschermende uitrusting waarmee kinderen allerlei coole skatestunts kunnen uitvoeren
+- De speelset bevat ook een LEGO wegplaat om het model met andere sets te verbinden in de LEGO City reeks, zoals de Appartementsgebouw (60365) en IJswinkel (60363) sets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCBF783{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief duidelijke en stapsgewijze instructies voor 5 eenvoudig te bouwen figuurtjes - een ananas, markeerstift, auto, alien en rolschaatsen
-- Jonge ontwerpers kunnen bouwen en spelen met de LEGO stenen set met 5 meegeleverde model ideeën, en inspiratie opdoen voor het maken van eigen creaties
-- 18 van de kleurrijke LEGO stenen in deze bouwspeelgoed set hebben expressieve ogen, zodat kinderen alles wat ze zich verbeelden tot leven kunnen wekken
 - LEGO Classic stenen speelgoed helpt kinderen vanaf 5 jaar bij het ontwikkelen van belangrijke vaardigheden en is een fantastisch creatief cadeau
 - Deze LEGO Classic bouwset bevat een doos met 333 bouwstenen in felle neonkleuren, plus oogelementen waarmee kinderen hun creaties tot leven kunnen brengen
+- Jonge ontwerpers kunnen bouwen en spelen met de LEGO stenen set met 5 meegeleverde model ideeën, en inspiratie opdoen voor het maken van eigen creaties
+- Inclusief duidelijke en stapsgewijze instructies voor 5 eenvoudig te bouwen figuurtjes - een ananas, markeerstift, auto, alien en rolschaatsen
+- 18 van de kleurrijke LEGO stenen in deze bouwspeelgoed set hebben expressieve ogen, zodat kinderen alles wat ze zich verbeelden tot leven kunnen wekken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01N5FKSBC{{</world>}}

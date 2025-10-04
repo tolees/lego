@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A bike toy inspired by the LEGO DREAMZzz TV show for creative kids aged 7+
 - 2 Building modes encourage young dreamers to choose their own adventure
 - Catbike mode has rolling wheels and speedy cat mode has turbo boosters
+- A bike toy inspired by the LEGO DREAMZzz TV show for creative kids aged 7+
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3DFWK{{</world>}}

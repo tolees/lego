@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mario Kart Auto Spielzeug: Setz Baby Mario in sein Pünktchen-Kart und Baby Luigi auf seinen Dreirad- Boliden und schleudere die Panzer, um die Luftballons umzustoßen
 - Nintendo Bausets zum Sammeln: Entdecke auch all die anderen separat erhältlichen LEGO Super Mario: Mario Kart Sets, um weitere Flitzer für spannende Rennen und Charaktere für viele Geschichten zu finden
-- Mario Kart Set mit Flitzern aus LEGO Steinen: Dieses LEGO Super Mario Spielset bietet dir Actionspaß mit Baby Mario oder Baby Luigi; Freu dich auf spannende Rennen und Duelle und stoße die Luftballons um
 - Interaktiver Spielspaß: Lass LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) mit dem Pünktchen-Kart oder dem Dreirad-Boliden fahren, um Sound-/Spezialeffekte aus Mario Kart auszulösen und das Geräusch beim Driften zu hören
-- 2 Nintendo Sammelfiguren für Rollenspiele: Dieses Abenteuer Spielzeug beinhaltet die beiden Spielzeugfiguren Baby Mario und Baby Luigi sowie 6 baubare (3 rote und 3 grüne) Luftballons
+- Mario Kart Set mit Flitzern aus LEGO Steinen: Dieses LEGO Super Mario Spielset bietet dir Actionspaß mit Baby Mario oder Baby Luigi; Freu dich auf spannende Rennen und Duelle und stoße die Luftballons um
 - Weck die Kreativität der Kinder: LEGO Super Mario Spielsets lassen sich für spannende Rollenspiele, Challenges und zum Sammeln digitaler Münzen vielseitig erweitern und umgestalten; Andere können gern mitspielen
+- 2 Nintendo Sammelfiguren für Rollenspiele: Dieses Abenteuer Spielzeug beinhaltet die beiden Spielzeugfiguren Baby Mario und Baby Luigi sowie 6 baubare (3 rote und 3 grüne) Luftballons
 - Mario Kart Geschenkidee für Kinder: Dieses LEGO Super Mario Spielzeug ist ein tolles Geschenk für Jungen, Mädchen und Gamer ab 8 Jahren; Für ein interaktives Spielerlebnis wird eines der separat erhältlichen Sets 71439, 71440 oder 71441 benötigt
+- Mario Kart Auto Spielzeug: Setz Baby Mario in sein Pünktchen-Kart und Baby Luigi auf seinen Dreirad- Boliden und schleudere die Panzer, um die Luftballons umzustoßen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDXPLY{{</world>}}

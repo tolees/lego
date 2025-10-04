@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Magical plant toy – Display the model of the screaming plant from Harry Potter in its buildable pot or remove the Mandrake from the pot for fun play
-- Unique Harry Potter toy – Pose the leaves of the Mandrake LEGO plant and move its chest up and down to animate its mouth and limbs
-- Fun LEGO Harry Potter gift for kids – This magical creature toy makes a special-occasion gift for 10-plus-year-old girls, boys and any Harry Potter fan
-- LEGO Harry Potter Mandrake plant toy for display – The first LEGO brick-built figure of a magical Mandrake plant from the Hogwarts Herbology class
-- Play and display – This LEGO Harry Potter set offers a rewarding build-and-play experience, plus the plant pot has a nameplate to add to the display
 - Part of an extensive collection – LEGO Harry Potter building toy sets let young witches, wizards and Muggles play out iconic scenes, make up their own stories or simply display the models
+- LEGO Harry Potter Mandrake plant toy for display – The first LEGO brick-built figure of a magical Mandrake plant from the Hogwarts Herbology class
 - A helping hand – Discover instructions in the LEGO Builder app, where kids can zoom in and rotate models in 3D, track progress and save sets
+- Fun LEGO Harry Potter gift for kids – This magical creature toy makes a special-occasion gift for 10-plus-year-old girls, boys and any Harry Potter fan
+- Unique Harry Potter toy – Pose the leaves of the Mandrake LEGO plant and move its chest up and down to animate its mouth and limbs
+- Play and display – This LEGO Harry Potter set offers a rewarding build-and-play experience, plus the plant pot has a nameplate to add to the display
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH4S4XH{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Afmetingen – dit model met 834 onderdelen is ca. 21 cm hoog, 31 cm breed en 17 cm diep
 - LEGO projecten voor volwassenen – maak ruimte voor ontspanning met de inspirerende reeks creatieve LEGO bouwsets (apart verkrijgbaar) die speciaal zijn ontworpen voor volwassenen
-- Bouwset met ijsvogelmodel – neem de tijd voor een ontspannende bouwervaring met de LEGO Icons IJsvogel bouwset voor volwassenen
-- Een creatief bouwproject – deze set bevat alles wat je nodig hebt om een LEGO versie te maken van de majestueuze ijsvogel met een vers gevangen vis, plus een wateromgeving als displaystandaard
-- Bureaudecoratie voor thuis of op kantoor – voeg een vleugje natuur toe aan elke ruimte met dit LEGO Icons IJsvogel model om neer te zetten
+- Afmetingen – dit model met 834 onderdelen is ca. 21 cm hoog, 31 cm breed en 17 cm diep
 - Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze set horen
+- Een creatief bouwproject – deze set bevat alles wat je nodig hebt om een LEGO versie te maken van de majestueuze ijsvogel met een vers gevangen vis, plus een wateromgeving als displaystandaard
+- Bouwset met ijsvogelmodel – neem de tijd voor een ontspannende bouwervaring met de LEGO Icons IJsvogel bouwset voor volwassenen
+- Bureaudecoratie voor thuis of op kantoor – voeg een vleugje natuur toe aan elke ruimte met dit LEGO Icons IJsvogel model om neer te zetten
 - Kenmerken en functies – het ijsvogelmodel heeft een beweegbare kop en poten en de wateromgeving met bouwbaar riet dient tevens als standaard
 - Een doordacht cadeau voor vogelliefhebbers – geef deze LEGO Icons bouwset cadeau voor de feestdagen of een verjaardag aan vogelkenners of fans van tropische vogels, interieurontwerp en LEGO bouwsets
 

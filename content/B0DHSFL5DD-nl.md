@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Fantasierijke functies voor realistisch speelplezier – kinderen kunnen de grijpkraan gebruiken om de speelgoedautos in de pletter te hijsen en op een hendel drukken om ze in pakketjes metaal te veranderen
+- Speelgoed voor autoliefhebbers vanaf 7 jaar – laat kinderen kennismaken met de belangrijke wereld van recycling met deze leuke LEGO City Schroothoop met autos speelset
+- Digitale bouwgids – de LEGO Builder app begeleidt je kind tijdens een intuïtief bouwavontuur met functies om in te zoomen, modellen te draaien in 3D tijdens het bouwen en de voortgang bij te houden
+- Afmetingen – het kantoorgebouw in deze 871-delige bouwset is ca. 22 cm hoog, 37 cm breed en 28 cm diep
 - Een leuk cadeau voor kinderen – geef dit LEGO bouwspeelgoed cadeau voor de feestdagen of zomaar tussendoor aan jongens en meisjes vanaf 7 jaar
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met speelgoedvoertuigen, gebouwen en personages die hen inspireren om te bouwen, creëren, ontdekken en spelen
-- Afmetingen – het kantoorgebouw in deze 871-delige bouwset is ca. 22 cm hoog, 37 cm breed en 28 cm diep
-- Accessoires voor LEGO minifiguren – deze speelgoedschroothoop wordt geleverd met leuke accessoires zoals een speelgoedcomputer en gereedschap, waaronder een drilboor, moersleutels en een hamer
 - Wat zit er in de doos? – deze LEGO schroothoopset bevat alles wat kinderen nodig hebben om een autokerkhof te bouwen met een grijpkraan, een pletter, een kantoorgebouw, 2 autos en 4 minifiguren van medewerkers
-- Digitale bouwgids – de LEGO Builder app begeleidt je kind tijdens een intuïtief bouwavontuur met functies om in te zoomen, modellen te draaien in 3D tijdens het bouwen en de voortgang bij te houden
-- Speelgoed voor autoliefhebbers vanaf 7 jaar – laat kinderen kennismaken met de belangrijke wereld van recycling met deze leuke LEGO City Schroothoop met autos speelset
-- Fantasierijke functies voor realistisch speelplezier – kinderen kunnen de grijpkraan gebruiken om de speelgoedautos in de pletter te hijsen en op een hendel drukken om ze in pakketjes metaal te veranderen
+- Accessoires voor LEGO minifiguren – deze speelgoedschroothoop wordt geleverd met leuke accessoires zoals een speelgoedcomputer en gereedschap, waaronder een drilboor, moersleutels en een hamer
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSFL5DD{{</world>}}

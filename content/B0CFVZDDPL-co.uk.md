@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes a brick-built Super Mario character – The LEGO Super Mario Bowser figure in this set has an Action Tag for interactive play
+- Collectible toy – Set Bowser in the driver’s seat, use the yellow lever to animate the bonnet mascot, and flick it to activate other fun tricks
 - For interactive play, one of the Starter Course sets is needed, featuring the LEGO Mario figure (71360), LEGO Luigi (71387) or LEGO Peach (71403)
 - Digital instructions are included in the LEGO Super Mario App with lots of creative ideas for kids to use with their Super Mario toy levels
-- Gift for gamers – This Collectible 458-piece LEGO Super Mario set makes a fun gift for 8+ year old boy, girls and kids who own a LEGO Super Mario starter course and love cool race car toys and Mario Kart character, Bowser
-- Collectible toy – Set Bowser in the driver’s seat, use the yellow lever to animate the bonnet mascot, and flick it to activate other fun tricks
 - Bowser’s muscle car toy for kids – Gear up for car-driving, big-battling, role-play fun with this LEGO Super Mario Expansion Set featuring Bowser
+- Includes a brick-built Super Mario character – The LEGO Super Mario Bowser figure in this set has an Action Tag for interactive play
 - Interactive play – LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) drive the toy car for sound effects and digital coins
+- Gift for gamers – This Collectible 458-piece LEGO Super Mario set makes a fun gift for 8+ year old boy, girls and kids who own a LEGO Super Mario starter course and love cool race car toys and Mario Kart character, Bowser
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZDDPL{{</world>}}

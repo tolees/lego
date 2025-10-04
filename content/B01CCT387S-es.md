@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Diseño resistente y duradero para disfrutar del juego durante horas
+- Coloca los garrotes en las manos de Jyn y gira la rueda para derribar al enemigo
 - Carga el rifle bláster y dispara el cañón automático
 - La figura para construir de Jyn Erso, altamente articulada, cuenta con un rifle bláster con función de disparo, brazos móviles de combate y garrotes desmontables a la espalda
 - Adopta temibles posturas de combate
-- Coloca los garrotes en las manos de Jyn y gira la rueda para derribar al enemigo
-- Diseño resistente y duradero para disfrutar del juego durante horas
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01CCT387S{{</world>}}

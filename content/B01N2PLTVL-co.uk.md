@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Creative building toys for kids – Toddlers learn to keep trying as they line up LEGO DUPLO bricks to attach to the studs on the green baseplate
-- Playful learning – All LEGO DUPLO building toys for kids are expertly designed to promote social and emotional development to give your little learner a great start in life
-- Birthday gift – This hands-on, engaging toy that’s bursting with play value makes a fun small gift for 1.5 plus year old toddlers, boys and girls
 - LEGO display base – The Green Building Plate construction toy for 1.5 plus year old boys and girls, gives kids a sturdy base for creative play
-- LEGO DUPLO baseplate – This 24x24-stud square grid has hundreds of aligned studs to give little builders the right grip for their creative building
+- Birthday gift – This hands-on, engaging toy that’s bursting with play value makes a fun small gift for 1.5 plus year old toddlers, boys and girls
 - Creative play – The building base holds LEGO DUPLO bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
+- Playful learning – All LEGO DUPLO building toys for kids are expertly designed to promote social and emotional development to give your little learner a great start in life
+- LEGO DUPLO baseplate – This 24x24-stud square grid has hundreds of aligned studs to give little builders the right grip for their creative building
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01N2PLTVL{{</world>}}

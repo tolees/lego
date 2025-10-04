@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO 30409 Friends Emmas Autoscooter, Polybeutel (verpackt)
 - Marke: LEGO
+- LEGO 30409 Friends Emmas Autoscooter, Polybeutel (verpackt)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07L5S2CD9{{</world>}}

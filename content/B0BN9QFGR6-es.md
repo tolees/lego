@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mejora la calidad de tu hogar
 - Sencillo de usar
+- Mejora la calidad de tu hogar
 - Producto para tu hogar
 
 [🛒 Check the deal!!]({{< param buyurl >}})

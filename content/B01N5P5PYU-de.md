@@ -31,8 +31,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Viele Rollen und Verwandlungen sind möglich, um Rätsel zu lösen und in geheime Bereiche vorzudringen
 - Auswahl von über 100 Fahrzeugen
 - Mit ihren mehr als 20 Bezirken ist LEGO City eine pulsierende Metropole
-- LEGO City Undercover bietet das gesamte klassische LEGO Gameplay, tolle Action, einzigartigen Humor
 - Plattform-Abschnitte, Rätsel, Forschungstouren, Kämpfe und eine originelle Story mit zahlreichen witzigen Szenen kombiniert - das sorgt regelmäßig für Lacher
+- LEGO City Undercover bietet das gesamte klassische LEGO Gameplay, tolle Action, einzigartigen Humor
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N5P5PYU{{</world>}}

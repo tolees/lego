@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lego Harry Potter Collection CIB. No incluye tarjeta física.
 - Videojuego Code-In-Box para Nintendo Switch
+- Lego Harry Potter Collection CIB. No incluye tarjeta física.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B4P68WM9{{</world>}}

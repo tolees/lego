@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Maak leren leuk – LEGO City bouwbare speelgoedsets stimuleren het zelfvertrouwen en belangrijke vaardigheden van kinderen door creatief spelen
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een politiemotor, skateboard en geldautomaat te bouwen, plus minifiguren van een politieagent en skateboarder voor rollenspellen
 - Een leuk cadeau voor jongens en meisjes – geef deze LEGO City set cadeau als een verrassing voor de feestdagen of een andere gelegenheid aan kinderen van 4 jaar en ouder
 - Speelgoed voor kinderen van 4 jaar en ouder – kinderen kunnen de politieagent op de motor zetten, de boef op het skateboard laten staan en het speelgoedbankbiljet in de geldautomaat plaatsen
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een politiemotor, skateboard en geldautomaat te bouwen, plus minifiguren van een politieagent en skateboarder voor rollenspellen
-- Maak leren leuk – LEGO City bouwbare speelgoedsets stimuleren het zelfvertrouwen en belangrijke vaardigheden van kinderen door creatief spelen
 - Leuke accessoires voor rollenspellen – deze LEGO politie speelgoed met voertuig bouwset bevat LEGO minifiguuraccessoires waaronder een speelgoedbankbiljet, een Gezocht-poster, een zaklamp, handboeien en een koevoet
 - LEGO politie motor speelgoed voor kinderen vanaf 4 jaar – laat je kleine held kennismaken met een wereld vol fantasierijk speelplezier met dit LEGO City Achtervolging op politiemotor bouwpakket voor kinderen
 - Eenvoudig te bouwen speelset met politievoertuig – inclusief een LEGO startsteen, eenvoudige bouwinstructies met afbeeldingen en digitale 3D-begeleiding in de LEGO Builder app

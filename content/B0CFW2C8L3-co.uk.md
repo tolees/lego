@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 4 LEGO Friends characters – Liann and Zoya mini-dolls, plus a pony and horse toys so kids can enjoy hours of pretend play as they create adventures
 - Nature and horse riding gifts – This set makes a great Christmas or anytime gift for 4+ year old girls, boys and kids who love horses and animal toys
+- Horse playset with animal figures – LEGO Friends buildable toy with car and horsebox to build, mini-dolls, a toy horse, a pony figure and accessories
+- 4 LEGO Friends characters – Liann and Zoya mini-dolls, plus a pony and horse toys so kids can enjoy hours of pretend play as they create adventures
 - Building toy with horse accessories – The set comes with lots of accessories to boost play, including a saddle, carrot, apple, brush and a ribbon
 - LEGO 4+ building toy – Kids who are learning to build can get off to a great start with this horse toy trailer set for young builders aged 4+
-- Horse playset with animal figures – LEGO Friends buildable toy with car and horsebox to build, mini-dolls, a toy horse, a pony figure and accessories
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW2C8L3{{</world>}}

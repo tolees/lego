@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bauspielzeuge zum Sammeln für Fans jeden Alters: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans legendäre Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
 - Geschenkidee für Kinder ab 9 Jahren: Dieses faszinierende Star Wars Spielset mit einem Spielzeug Sternenschiff ist ein tolles Geschenk für kreative Jungen, Mädchen und Fans von Star Wars: Die Rache der Sith
-- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App kann man beim Bauen beispielsweise 3D-Ansichten der Modelle vergrößern und drehen
 - Bauset mit 4 LEGO Star Wars Charakteren: Die Star Wars Minifiguren Odd Ball und Jag sowie ein dritter Klon-Pilot (jeweils mit Blaster-Pistole) und der LEGO Droide R4-P44 sind in diese Fanatsy Spielset mit dabei
+- Bauspielzeuge zum Sammeln für Fans jeden Alters: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans legendäre Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
+- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App kann man beim Bauen beispielsweise 3D-Ansichten der Modelle vergrößern und drehen
 - Sternenjäger aus LEGO Steinen: Das Modell verfügt über 3 aufklappbare Cockpits, einen Platz für R4-P44, 2 Shooter mit Federmechanismus und 6 Flügel. 4 der Flügel lassen sich mit einem Hebel in den Angriffs- oder Flugmodus schwenken
 - Star Wars Sternenjäger – ein spannendes Bauspielzeug für Kinder: Stell spannende Geschichten aus Star Wars: Die Rache der Sith mit diesem detailgetreuen LEGO Modell eines ARC-170 Starfighters nach
 - Star Wars Bau- und Spielset mit faszinierendem Zubehör: Die 3 LEGO Minifiguren haben Blaster-Pistolen für jede Menge Actionspaß und Abenteuer im Star Wars Universum

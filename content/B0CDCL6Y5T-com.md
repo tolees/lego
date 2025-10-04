@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A mindful gift idea – The LEGO Icons Tiny Plants building set makes a great birthday or any-day gift idea for adult fans of LEGO building sets and flowers
-- Creative building for plant-lovers – This set includes all you need to craft 9 plants based on arid, tropical and carnivorous species, each nestled in a buildable, terracotta-colored flower pot
 - Easy-care decor – Add a self-sufficient splash of color to any space with this buildable, zero-maintece floral display. Display proudly throughout your home, it makes great coffee table décor
+- Creative building for plant-lovers – This set includes all you need to craft 9 plants based on arid, tropical and carnivorous species, each nestled in a buildable, terracotta-colored flower pot
+- A mindful gift idea – The LEGO Icons Tiny Plants building set makes a great birthday or any-day gift idea for adult fans of LEGO building sets and flowers
 - Home décor building set for adults – Take time out or join friends and family for a relaxing building experience with the LEGO Icons Tiny Plants building set
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 

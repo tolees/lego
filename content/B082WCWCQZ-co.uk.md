@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This superheroes vs Deviant toy for kids 7+ years old gives kids superhero action that also looks great displayed in kids’ rooms
-- Number of pieces: 133
 - Manufacturer recommended age: 7+
 - Eternals’ Aerial Assault
+- Number of pieces: 133
+- This superheroes vs Deviant toy for kids 7+ years old gives kids superhero action that also looks great displayed in kids’ rooms
 - With 2 LEGO Marvel The Eternals minifigures – Ikaris and Sprite & an evil Deviant figure with movable wings, the scene is set for fast action
 
 [🛒 Buy it!!]({{< param buyurl >}})

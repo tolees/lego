@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Friends characters – 5 mini-dolls, with Autumn featuring an emotional face for her prosthetic arm, 2 baby figures, toy robot and dog figure
 - A gift for kids who love role-play toys – This LEGO Friends hospital set makes a fun gift for 7+ year old girls, boys and fans of building toys
-- Maternity ward and working lift – Areas of this toy hospital include examination room, maternity room, X-ray room, lift and employee break room
-- Creating friendship stories – Expand the fun with other sets (sold separately) from the LEGO Friends Heartlake City range
 - Intuitive instructions – The LEGO Builder app guides your child on an intuitive building adventure with tools that let them zoom in and rotate models in 3D, save sets and track their progress
 - Toy hospital set – The LEGO Friends Heartlake City Hospital set is a great toy for 7+ year old girls, boys and kids who love doctor role-play toys
+- LEGO Friends characters – 5 mini-dolls, with Autumn featuring an emotional face for her prosthetic arm, 2 baby figures, toy robot and dog figure
 - LEGO hospital accessories – Helicopter toy, X-ray scanner, wheelchair, bandage, casts, syringe, cots, baby bottles, balloons, chocolates and flowers
+- Creating friendship stories – Expand the fun with other sets (sold separately) from the LEGO Friends Heartlake City range
+- Maternity ward and working lift – Areas of this toy hospital include examination room, maternity room, X-ray room, lift and employee break room
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYXRYP{{</world>}}

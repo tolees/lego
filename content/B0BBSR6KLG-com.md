@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fun Restaurant Playset - Features a toy restaurant for kids ages 6+ with drive-through, outdoor seating, arcade game, moving jukebox, and 3 mini-dolls.
-- Accessory-Packed Playset - Includes a fridge, 2 drinks, money, 3 slices of bread for sandwiches, a napkin holder, wastebasket, and a toy skateboard.
-- Interactive Jukebox & Game - Kids can choose a song on the jukebox or play a video game with Aliya while waiting for Liann to arrive at the restaurant.
 - Next Generation Mini-dolls - This LEGO Friends set includes Liann, Aliya, and Charli mini-dolls from the 2023 generation and a mischievous cat figure.
+- Accessory-Packed Playset - Includes a fridge, 2 drinks, money, 3 slices of bread for sandwiches, a napkin holder, wastebasket, and a toy skateboard.
 - Creative Role-Play Fun - Little ones can pretend to make sandwiches or imagine being a restaurant customer with this engaging playset for kids.
+- Interactive Jukebox & Game - Kids can choose a song on the jukebox or play a video game with Aliya while waiting for Liann to arrive at the restaurant.
+- Fun Restaurant Playset - Features a toy restaurant for kids ages 6+ with drive-through, outdoor seating, arcade game, moving jukebox, and 3 mini-dolls.
 - Perfect Gift for Kids - A great birthday gift or any time treat for kids ages 6+ years old to role-play familiar scenarios with the next generation of LEGO Friends.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

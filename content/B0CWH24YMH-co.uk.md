@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 mini-dolls and a raccoon figure – Includes LEGO Friends Autumn, who comes with 2 faces to show how her expression changes as she takes aim
-- A gift idea for kids – This LEGO Friends set makes a fun gift for 6-plus-year-old girls and boys who love building toys and friendship stories
-- A learning toy packed with stories – Kids can create stories with this archery set as use the colour-coded difficulty scale to act out challenges
-- Archery role play toy – This Adventure Camp Archery Range toy for 6+-year-old girls and boys comes with 2 mini-dolls and loads of accessories
 - Explore new passions – Check out other LEGO building toys (sold separately) in the Friends universe, where kids discover diverse characters and act out real-life adventures
 - With a functioning bow and arrow set – Kids can use the toy bow to help Autumn and Nova shoot the arrows at the target to earn the archery badge
+- Archery role play toy – This Adventure Camp Archery Range toy for 6+-year-old girls and boys comes with 2 mini-dolls and loads of accessories
+- A learning toy packed with stories – Kids can create stories with this archery set as use the colour-coded difficulty scale to act out challenges
+- 2 mini-dolls and a raccoon figure – Includes LEGO Friends Autumn, who comes with 2 faces to show how her expression changes as she takes aim
+- A gift idea for kids – This LEGO Friends set makes a fun gift for 6-plus-year-old girls and boys who love building toys and friendship stories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH24YMH{{</world>}}

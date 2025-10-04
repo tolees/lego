@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- An open landscape for creative expression – this 32x32-stud LEGO baseplate provides a blank slate for all kinds of LEGO creations
-- The LEGO base board holds bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
-- The LEGO white building plate can be given as a birthday or any-other-day gift for kids aged 4+ for kids’ building projects and displays
-- Check out other LEGO Base Plates: 11023 green for nature builds, 11024 grey for town streets, and 11025 blue for ocean adventures
 - Sturdy and durable – 1,024 aligned studs provide builders with a firm and durable grip for their LEGO building bricks designs
+- The LEGO base board holds bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
+- Check out other LEGO Base Plates: 11023 green for nature builds, 11024 grey for town streets, and 11025 blue for ocean adventures
+- An open landscape for creative expression – this 32x32-stud LEGO baseplate provides a blank slate for all kinds of LEGO creations
+- The LEGO white building plate can be given as a birthday or any-other-day gift for kids aged 4+ for kids’ building projects and displays
 - From frozen lakes to Arctic landscapes, sunny ski slopes to winter wonderlands, kids can build whatever they imagine
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO City toy with fun accessories – This bus London bus toy comes with accessories for pretend play, including a toy microphone, phone and camera
-- A city without limits – LEGO City is a place where kids can unleash their limitless imaginations, with structures, vehicles and citizens that motivate them to build, create, explore and play
+- A fun gift for kids – This LEGO red bus playset makes a fun birthday gift for 7-plus-year-old boys, girls and kids who love cool LEGO vehicles
+- More sets to collect – Kids unleash more fun and adventures when they use this LEGO City set with others (sold separately) from the range
 - Double-decker bus toy – Fans LEGO vehicles will love this LEGO City Red Double-Decker Sightseeing Bus toy for 7-plus-year-old boys and girls
 - What’s in the box? – Includes a double-decker bus toy with an open-air sightseeing deck, plus 5 LEGO City minifigures, including a baby with a buggy
-- A fun gift for kids – This LEGO red bus playset makes a fun birthday gift for 7-plus-year-old boys, girls and kids who love cool LEGO vehicles
+- A city without limits – LEGO City is a place where kids can unleash their limitless imaginations, with structures, vehicles and citizens that motivate them to build, create, explore and play
 - Creative toys – Kids can rotate the destination display to choose from LEGO City downtown, the harbour, museum or the park
-- More sets to collect – Kids unleash more fun and adventures when they use this LEGO City set with others (sold separately) from the range
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CTHVQVCP{{</world>}}

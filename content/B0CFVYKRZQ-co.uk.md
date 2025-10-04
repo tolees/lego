@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- A fun gift idea for kids – This building toy makes a fun gift for 6+ year old girls, boys and kids who love shopping, fashion toys and LEGO sets
+- A social-emotional toy with 3 mini-dolls – Set includes 3 LEGO Friends characters plus a cat animal figure so the creative play starts right away
 - Choose outfits – This set comes with lots of upcycled fashion items for the LEGO Friends mini-dolls to wear, including hats, trousers and much more
 - Changing room and workshop – The set has a changing room, where the characters can change, plus a workshop with washing machine and sewing machine
-- A social-emotional toy with 3 mini-dolls – Set includes 3 LEGO Friends characters plus a cat animal figure so the creative play starts right away
 - LEGO Friends Vintage Fashion Store set – This fun set includes a buildable toy shop with 3 mini-dolls, a toy cat, plus lots of fashion accessories
-- A fun gift idea for kids – This building toy makes a fun gift for 6+ year old girls, boys and kids who love shopping, fashion toys and LEGO sets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYKRZQ{{</world>}}

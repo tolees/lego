@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inspired by the original – This Lamborghini toy features a classic green color scheme
-- Play and display – After building and exploring the car, kids can display their model with pride
 - Admire the details – Kids can build and explore the moving V10 engine, steering and opening doors of this Lamborghini Huracán Tecnica model
 - A build for Lamborghini fans and car collectors – Give sports car enthusiasts ages 9 years old an advanced building challenge as they assemble the LEGO Technic Lamborghini Huracán Tecnica (42161) model sports car toy
+- Play and display – After building and exploring the car, kids can display their model with pride
 - A Christmas gift for kids ages 9 and Up – Give this exotic Lamborghini sports car toy to a child who loves super cars, sports car toys and engineering.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

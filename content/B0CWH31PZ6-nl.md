@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Rollenspel cadeau voor jongens en meisjes– dit speelgoed auto bouwpakket biedt een leuke bouw- en speelervaring en is een leuk LEGO cadeau voor kinderen vanaf 10 jaar of volwassen verzamelaars van modelautos
 - Fraai displaymodel – nadat kinderen en autofans hebben genoten van het naspelen van verhalen met het Lamborghini model, kunnen ze het op een plank of nachtkastje neerzetten als kinderkamer decoratie
 - 1 minifiguur – de autospeelset bevat een minifiguur van een coureur in een Gran Turismo outfit en een helm, die kinderen in de cockpit kunnen plaatsen om races na te spelen
 - Authentieke Lamborghini details – de LEGO auto heeft een cockpit, een tweedelige achtervleugel, zeshoekige details op de velgen, dubbele uitlaatpijpen, Gran Turismo logos en Y-vormige achterlichten
-- Lamborghini auto speelgoed voor kinderen – LEGO Speed Champions Lamborghini Lambo V12 Vision GT supercar speelgoed auto voor jongens en meisjes vanaf 10 jaar, gamers en fans van het automerk
 - Modellen van bekende voertuigen om mee te spelen en neer te zetten – met LEGO Speed Champions autobouwpakketten kunnen kinderen en autoliefhebbers replicaversies bouwen van een aantal beroemde voertuigen
-- Rollenspel cadeau voor jongens en meisjes– dit speelgoed auto bouwpakket biedt een leuke bouw- en speelervaring en is een leuk LEGO cadeau voor kinderen vanaf 10 jaar of volwassen verzamelaars van modelautos
+- Lamborghini auto speelgoed voor kinderen – LEGO Speed Champions Lamborghini Lambo V12 Vision GT supercar speelgoed auto voor jongens en meisjes vanaf 10 jaar, gamers en fans van het automerk
 - Grotere race-avonturen – er zijn nog veel meer LEGO Speed Champions autospeelsets met authentieke details (apart verkrijgbaar)
 
 [🛒 Buy it!!]({{< param buyurl >}})

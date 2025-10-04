@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The LEGO Technic monster truck toy has dragon spikes and horns and realistic colours and stickers to create the real Monster Jam Monster Truck
-- Children use the The Toy wagons to ride along to recreate cool monster truck jumps and tricks from the Monster Jam Arena.
-- Features a 2-in-1 monster truck toy set with retraction function: this Monster Jam Dragon Truck rebuilds into a crocodile buggy racing car toy
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - When they are ready for the next challenge, children can convert the model into a crocodile buggy racing car off-road vehicle toy with pull-back function.
+- The LEGO Technic monster truck toy has dragon spikes and horns and realistic colours and stickers to create the real Monster Jam Monster Truck
+- Features a 2-in-1 monster truck toy set with retraction function: this Monster Jam Dragon Truck rebuilds into a crocodile buggy racing car toy
+- Children use the The Toy wagons to ride along to recreate cool monster truck jumps and tricks from the Monster Jam Arena.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBWHWNTN{{</world>}}

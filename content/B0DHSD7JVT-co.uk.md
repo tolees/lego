@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zebra print design – This LEGO airplane toy comes with a cool zebra print design to reflect the role that bush planes play in wildlife conservation
-- Toy plane with working features – Includes a spinning propeller, adjustable ailerons, an opening engine cover and a 4-cylinder piston engine
 - LEGO airplane set – Build and explore a fun LEGO Technic Bush Plane toy for 8+ year old boys and girls, with working mechanisms for imaginative play
-- An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young builders to the world of engineering
 - A great gift for kids – Send kids’ imaginations skywards with this small gift for 8 plus year old boys and girls, which delivers big play value as young pilots build and explore their bush plane model
+- An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young builders to the world of engineering
+- Toy plane with working features – Includes a spinning propeller, adjustable ailerons, an opening engine cover and a 4-cylinder piston engine
+- Zebra print design – This LEGO airplane toy comes with a cool zebra print design to reflect the role that bush planes play in wildlife conservation
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSD7JVT{{</world>}}

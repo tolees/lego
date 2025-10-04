@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Materiale resistente
 - Prodotto di qualità
 - Serie Ultimate Collector
-- Materiale resistente
 - Il modello da costruzione e da collezione Lego Star Wars A-wing Starfighter misura 14 cm di altezza, 42 cm di lunghezza e 26 cm di larghezza; grazie a queste dimensioni impressionanti, attirerà ogni occhio in qualsiasi ufficio o soggiorno
 
 [🛒 Check the deal!!]({{< param buyurl >}})

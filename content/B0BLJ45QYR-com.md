@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This Porsche replica toy car features classic red, black and white livery and prominent wheel arches, inspired by 1980s Porsche racing cars
-- Fans of model cars and supercar enthusiasts can recreate the details of the Porsche 963 Le Mans Daytona Hybrid with this LEGO Speed Champions set
-- For even more high-speed action check out other LEGO Speed Champions sets, including Ferrari 812 Competizione (76914) and Pagani Utopia (76915)
-- A great birthday gift or idea for kids ages 9+ or fans who love building race car toys - makes an eye-catching model to display with pride
-- A realistic LEGO reproduction with authentic features: a low hood, cockpit, rear wing and fin on the back are sure to delight race car fans
-- The Porsche car toy measures over 4 cm (1.5 in.) high, 17 cm (6.5 in.) long and 7 cm (2.5 in.) wide. Contains 280 pieces
 - A collectible model car building kit complete with a LEGO race driver minifigure to be placed in the cockpit plus a helmet and switchable hair
+- Fans of model cars and supercar enthusiasts can recreate the details of the Porsche 963 Le Mans Daytona Hybrid with this LEGO Speed Champions set
+- A great birthday gift or idea for kids ages 9+ or fans who love building race car toys - makes an eye-catching model to display with pride
+- For even more high-speed action check out other LEGO Speed Champions sets, including Ferrari 812 Competizione (76914) and Pagani Utopia (76915)
+- A realistic LEGO reproduction with authentic features: a low hood, cockpit, rear wing and fin on the back are sure to delight race car fans
+- This Porsche replica toy car features classic red, black and white livery and prominent wheel arches, inspired by 1980s Porsche racing cars
+- The Porsche car toy measures over 4 cm (1.5 in.) high, 17 cm (6.5 in.) long and 7 cm (2.5 in.) wide. Contains 280 pieces
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BLJ45QYR{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Star Wars Set für Fans jeden Alters: LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Fans klassische Szenen nachstellen, eigene Abenteuer erfinden oder die Modelle aus LEGO Steinen ausstellen
-- Kreatives Bau- und Spielset: Im Inneren des Sternenschiffs findest du die Brücke, den Kommandoraum, einen Pausenraum, eine Waffenkammer, mehrere Bedienpulte sowie eine Frachtbox mit Kyber-Kristallen und Thermaldetonatoren
-- Imperialer Sternzerstörer: LEGO Star Wars Spielset für Kinder: Mit diesem Bauspielzeug baust du einen detailgetreuen Imperialen Sternzerstörer aus LEGO Steinen und kannst legendäre Szenen aus Star Wars: Eine neue Hoffnung nachstellen
-- Nützlicher Helfer: In der LEGO Builder App können Kinder beim Bauen eine digitale Version des Bauspielzeugs vergrößern, drehen, näher betrachten, ihren Baufortschritt verfolgen und ihre Sets speichern
 - Geschenkidee für Star Wars Fans ab 10 Jahren: Dieses Modell zum Sammeln, Bauen und Spielen ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Jungen, Mädchen und alle Star Wars Fans
-- 7 LEGO Star Wars Mini-Figuren: Mit dabei sind Darth Vader, Commander Praji, ein Imperialer Bordschütze, ein Imperial Navy Trooper sowie Cal Kestis als Mini-Figur zum 25-jährigen LEGO Star Wars Jubiläum
+- Imperialer Sternzerstörer: LEGO Star Wars Spielset für Kinder: Mit diesem Bauspielzeug baust du einen detailgetreuen Imperialen Sternzerstörer aus LEGO Steinen und kannst legendäre Szenen aus Star Wars: Eine neue Hoffnung nachstellen
+- Kreatives Bau- und Spielset: Im Inneren des Sternenschiffs findest du die Brücke, den Kommandoraum, einen Pausenraum, eine Waffenkammer, mehrere Bedienpulte sowie eine Frachtbox mit Kyber-Kristallen und Thermaldetonatoren
+- LEGO Star Wars Set für Fans jeden Alters: LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Fans klassische Szenen nachstellen, eigene Abenteuer erfinden oder die Modelle aus LEGO Steinen ausstellen
 - Baue dein eigenes Star Wars Sternenschiff: Mit dem versteckten, ausklappbaren Tragegriff lässt sich das Raumschiff-Modell fliegen, 2 Shooter laden zum Spielen ein und dank abnehmbarem Dach und aufklappbaren Seitenwänden wird das Innere zugänglich
+- Nützlicher Helfer: In der LEGO Builder App können Kinder beim Bauen eine digitale Version des Bauspielzeugs vergrößern, drehen, näher betrachten, ihren Baufortschritt verfolgen und ihre Sets speichern
+- 7 LEGO Star Wars Mini-Figuren: Mit dabei sind Darth Vader, Commander Praji, ein Imperialer Bordschütze, ein Imperial Navy Trooper sowie Cal Kestis als Mini-Figur zum 25-jährigen LEGO Star Wars Jubiläum
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RPVS{{</world>}}

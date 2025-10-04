@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Maak deel uit van de actie – dit bouwpakket voor kinderen bevat bouwinstructies op basis van verhalen die ook digitaal beschikbaar zijn in de LEGO Builder app, waarmee kinderen tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
 - 4 LEGO DREAMZzz minifiguren – de set bevat Mateo en Logan, hun duistere dubbelgangers MadTeo en Dogan en speelgoed figuren van Sneak, Snivel en een raaf
-- 1 speelgoedset, 3 avonturen – kinderen kunnen 3 manieren ontdekken om de LEGO robot te bouwen: de ridder speelgoed mecha, de centaur-modus of de strijdmecha
 - Cadeau voor kinderen – deze herbouwbare speelset is een fantasierijk cadeau of verrassing voor fans van de LEGO DREAMZzz tv-serie, maar ook voor jongens en meisjes die van speelgoed robots en rollenspellen houden
+- 1 speelgoedset, 3 avonturen – kinderen kunnen 3 manieren ontdekken om de LEGO robot te bouwen: de ridder speelgoed mecha, de centaur-modus of de strijdmecha
 - Prikkel de fantasie – stimuleer creatief rollenspel met de LEGO DREAMZzz Mateo en Z-Blob de riddermecha speelset voor kinderen van 10 jaar en ouder
 - Een wereld vol wilde dromen – met de fantasierijke LEGO DREAMZzz collectie kunnen jonge dromers hun eigen avonturen kiezen terwijl ze de meest geweldige wezens en voertuigen bouwen
+- Maak deel uit van de actie – dit bouwpakket voor kinderen bevat bouwinstructies op basis van verhalen die ook digitaal beschikbaar zijn in de LEGO Builder app, waarmee kinderen tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
 - Fantasie speelgoed – elke variant heeft een cockpit die open kan, vleugels en boosters. Extra elementen zijn onder andere een speelgoed zwaard, schild, speer en 2 noppenschieters voor 6 noppen, plus een droompot om te verzamelen
 
 [🛒 Buy it!!]({{< param buyurl >}})

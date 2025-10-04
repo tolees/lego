@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wenn Kinder den Heckspoiler des Spielzeugautos herunterdrücken, heben sich die Hinterräder an und das Auto bewegt sich auf seinen Drachenpower-Elementen, sodass der Ninja es mit den bösen Drachenjägern aufnehmen kann
-- Das LEGO Ninja-Spielzeug für Kinder ab 7 Jahren enthält die LEGO NINJAGO Minifiguren Cole und Zane, die mit je 2 Katanas bewaffnet sind und mit denen Kinder Szenen aus der NINJAGO Dragons Rising TV-Serie nachspielen können
-- Das Bauspielzeug enthält 2 blaue Drachenpower-Elemente; Kinder können 4 weitere in verschiedenen Farben in anderen NINJAGO-Sets sammeln (separat erhältlich)
 - Mit diesem LEGO NINJAGO Spielzeug können Kinder superschnelle Action nachspielen, inklusive Spielzeug-Rennauto mit einer noch nie dagewesenen Kreiselfunktion, 2 Schwebeflugzeuge und 4 Minifiguren
+- Das LEGO Ninja-Spielzeug für Kinder ab 7 Jahren enthält die LEGO NINJAGO Minifiguren Cole und Zane, die mit je 2 Katanas bewaffnet sind und mit denen Kinder Szenen aus der NINJAGO Dragons Rising TV-Serie nachspielen können
 - Mit diesem 307-teiligen Konstruktionsspielzeug können leidenschaftliche Ninja-Fans ihre Fantasie spielen lassen und es macht ein tolles Geburtstags- oder Alltagsgeschenk für Kinder ab 7 Jahren
 - Enthält außerdem LEGO NINJAGO Minifiguren eines Kaiserlichen Wachkommandanten mit einem Schwert und eines Kaiserlichen Klauenjägers mit einem elektrischen Stab, beide mit coolen Schwebeflugzeugen
+- Das Bauspielzeug enthält 2 blaue Drachenpower-Elemente; Kinder können 4 weitere in verschiedenen Farben in anderen NINJAGO-Sets sammeln (separat erhältlich)
+- Wenn Kinder den Heckspoiler des Spielzeugautos herunterdrücken, heben sich die Hinterräder an und das Auto bewegt sich auf seinen Drachenpower-Elementen, sodass der Ninja es mit den bösen Drachenjägern aufnehmen kann
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCF2J79{{</world>}}

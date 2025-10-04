@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Item Trademark: IDEAS
 - Manufacturer: LEGO
+- Item Trademark: IDEAS
 - Material: Plastic
 
 [🛒 Check the deal!!]({{< param buyurl >}})

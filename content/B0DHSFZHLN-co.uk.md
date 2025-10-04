@@ -33,8 +33,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Revel in the details – This Star Wars building set for adults features intricate LEGO greebling details between the yellow letters and a hidden surprise inside the ‘T of Star Wars
 - LEGO Star Wars logo – Build and display this 18+ LEGO Star Wars set - a detailed brick recreation of the iconic logo that makes a striking centrepiece for fans, collectors and pop culture enthusiasts
 - Star Wars icon – Spark nostalgic memories of epic Star Wars adventures with this eye-catching 3D model, great for fans who love DIY projects and creative model kits
-- 3D building instructions – With the LEGO Builder app you can view a 3D digital version of this construction model, track your progress and save sets as you build
 - Star Wars desk and office decor – Display this build-and-display model on any flat surface at home or in the office as a bold statement piece for fans of the Star Wars saga
+- 3D building instructions – With the LEGO Builder app you can view a 3D digital version of this construction model, track your progress and save sets as you build
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFZHLN{{</world>}}

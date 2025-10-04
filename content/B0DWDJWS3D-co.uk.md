@@ -29,13 +29,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Moving features – This Aston Martin toy car features fun details like the steering, which is controlled by turning the knob on top of the car, and the pistons that move as the driver’s side wheel spins
-- An introduction to engineering – LEGO Technic buildable model sets (sold separately) feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
-- A car model kit for kids aged 9 and over – Let kids and sports car fans build their dream car with this LEGO Technic Aston Martin Valkyrie model, which includes heaps of authentic functions
 - A toy vehicle with fun functions – Discover lots of moving elements in this toy vehicle like the V12 engine with moving pistons, the differential and the opening gullwing doors
-- A creative gift for sports car fans – This Aston Martin model car set makes a great gift idea for kids who love LEGO vehicles and sports car toys
 - Measurements – A 707-piece set with a buildable car model measuring over 7 cm (2.5 in.) high, 29 cm (11 in.) long and 13 cm (5 in.) wide
 - Navigate with ease – Let the LEGO Builder app guide kids on an intuitive building adventure, where they can save sets, track progress and zoom in and rotate models in 3D while they build
+- An introduction to engineering – LEGO Technic buildable model sets (sold separately) feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
+- A creative gift for sports car fans – This Aston Martin model car set makes a great gift idea for kids who love LEGO vehicles and sports car toys
 - A vehicle toy with star appeal – This LEGO Technic car features an eye-catching teal colour scheme and can be placed on display until the next time kids take it for a spin
+- A car model kit for kids aged 9 and over – Let kids and sports car fans build their dream car with this LEGO Technic Aston Martin Valkyrie model, which includes heaps of authentic functions
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDJWS3D{{</world>}}

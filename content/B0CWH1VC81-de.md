@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Modell für NASA-Fans: Ruf dir die Apollo-17-Mission mit diesem Sammlerstück in Erinnerung. An dem LRV lassen sich 3 detailgetreue Ausrüstungssätze befestigen, denen jeweils eine eigene Infoplakette beiliegt
-- Spannende Bauanleitung: Freu dich auf ein anspruchsvolles Bauerlebnis. Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen
-- Lebenswichtige Ausrüstung: Dieses Set gewährt nähere Einblicke in die Apollo-Missionen und beinhaltet jede Menge Ausrüstung, wie Kommunikationsausstattung und Werkzeug zum Einsammeln von Gesteinsproben
-- Modell eines NASA-Rovers für Erwachsene: Freu dich auf ein achtsames Projekt und baue einen Rover mit all seinen Details wie den beiden Batterien, den Heiz- und Kühlelementen und der Kommunikationseinheit
 - NASA-Geschenk für Erwachsene, die sich für die Raumfahrt begeistern: Dieses Raumfahrzeug-Set ist eine tolle Geschenkidee und inspiriert Weltraumfans dazu, mehr über die Apollo-Missionen zu erfahren
 - Baue ein originalgetreues LEGO Technic Mondrover-Modell: Dieses Bauset für Erwachsene beinhaltet ein LRV mit vielen authentischen Details, beispielsweise Sitzen, Lenkung, Federung und wissenschaftlichen Instrumenten
+- Modell für NASA-Fans: Ruf dir die Apollo-17-Mission mit diesem Sammlerstück in Erinnerung. An dem LRV lassen sich 3 detailgetreue Ausrüstungssätze befestigen, denen jeweils eine eigene Infoplakette beiliegt
+- Lebenswichtige Ausrüstung: Dieses Set gewährt nähere Einblicke in die Apollo-Missionen und beinhaltet jede Menge Ausrüstung, wie Kommunikationsausstattung und Werkzeug zum Einsammeln von Gesteinsproben
+- Spannende Bauanleitung: Freu dich auf ein anspruchsvolles Bauerlebnis. Die LEGO Builder App lässt dich Sets speichern, deinen Baufortschritt verfolgen
+- Modell eines NASA-Rovers für Erwachsene: Freu dich auf ein achtsames Projekt und baue einen Rover mit all seinen Details wie den beiden Batterien, den Heiz- und Kühlelementen und der Kommunikationseinheit
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1VC81{{</world>}}

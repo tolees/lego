@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bewegliche Figur: Dieser große Drache kann Schwanz, Kopf und Maul sowie Flügel und Beine bewegen; unter jedem Flügel befindet sich ein Shooter, und auf seinem Rücken gibt es 2 Sitzpositionen für eine Minifigur
-- 4 NINJAGO Minifiguren: Für Duelle zwischen Gut und Böse beinhaltet dieses LEGO Bauset die Ninja Sora, Wyldfyre und Lloyd mit Ninja-Ausrüstung sowie den Bösewicht Zarkt
-- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; Kinder können in der App Sets speichern, den Baufortschritt verfolgen und beim Bauen 3D-Ansichten der Modelle vergrößern und drehen
-- LEGO NINJAGO Spielzeugdrache für Kinder: Rontu der Meisterdrache ist ein Spielzeug, das Jungen und Mädchen ab 7 Jahren Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen lässt
 - Geschenkidee für Kinder: Dieses LEGO Set bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Geschenk für Jungen und Mädchen ab 7 Jahren, die Ninja-Actionspaß lieben
+- 4 NINJAGO Minifiguren: Für Duelle zwischen Gut und Böse beinhaltet dieses LEGO Bauset die Ninja Sora, Wyldfyre und Lloyd mit Ninja-Ausrüstung sowie den Bösewicht Zarkt
 - Mini-Schrein: Das Actionset ermöglicht viele Rollenspiele mit dem kleinen Schrein aus LEGO Steinen, der von Zarkt bewacht wird; im Schrein verbirgt sich eine geheime Botschaft, die Lloyd mit seiner durchscheinenden Enthüllungsklinge aufdeckt
 - LEGO NINJAGO Sets in Hülle und Fülle: Das breite Spektrum an separat erhältlichen Ninja-Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
+- Bewegliche Figur: Dieser große Drache kann Schwanz, Kopf und Maul sowie Flügel und Beine bewegen; unter jedem Flügel befindet sich ein Shooter, und auf seinem Rücken gibt es 2 Sitzpositionen für eine Minifigur
+- LEGO NINJAGO Spielzeugdrache für Kinder: Rontu der Meisterdrache ist ein Spielzeug, das Jungen und Mädchen ab 7 Jahren Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen lässt
+- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; Kinder können in der App Sets speichern, den Baufortschritt verfolgen und beim Bauen 3D-Ansichten der Modelle vergrößern und drehen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRWJ33{{</world>}}

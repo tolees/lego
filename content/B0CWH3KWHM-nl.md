@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 4 LEGO Star Wars figuren om te verzamelen – een Mandalorian Nite Owl en Mandalorian strijder, elk met een blaster, en 2 Imperial Commandos, elk met een blasterpistool, plus 4 jetpackelementen
-- LEGO Star Wars: The Mandalorian Battle Pack voor kinderen – beleef de hinderlaag op Mandalore uit seizoen 3 van de Disney+ serie opnieuw en bedenk nieuwe avonturen met deze bouwbare speelgoed set
-- Interactief digitaal bouwplezier – met de LEGO Builder app kunnen kinderen tijdens het bouwen inzoomen en een digitale versie van hun bouwmodel draaien en visualiseren
-- Een leuk Star Wars cadeau voor kinderen vanaf 6 jaar – geef dit bouwbaar speelgoed om te verzamelen aan creatieve jongens, meisjes en jonge fans van Star Wars: The Mandalorian
 - Jetpack-actie – bevestig een LEGO Star Wars minifiguur aan het transparante element en gebruik het handvat om het personage door de lucht te laten vliegen
-- Bouwen en verbinden – de rotsformatie in deze LEGO Star Wars: The Mandalorian verzamelset kan worden verbonden met de Mandalorian basis uit de set 75386 Paz Vizsla en Moff Gideon duel (apart verkrijgbaar)
+- LEGO Star Wars: The Mandalorian Battle Pack voor kinderen – beleef de hinderlaag op Mandalore uit seizoen 3 van de Disney+ serie opnieuw en bedenk nieuwe avonturen met deze bouwbare speelgoed set
 - Bouwbaar Star Wars speelgoed voor kinderen – de set bestaat uit een bouwbare rotsformatie met een grot, een noppenschietend kanon en een opbergdoos met een thermisch ontstekerelement voor creatieve avonturen
+- Bouwen en verbinden – de rotsformatie in deze LEGO Star Wars: The Mandalorian verzamelset kan worden verbonden met de Mandalorian basis uit de set 75386 Paz Vizsla en Moff Gideon duel (apart verkrijgbaar)
+- 4 LEGO Star Wars figuren om te verzamelen – een Mandalorian Nite Owl en Mandalorian strijder, elk met een blaster, en 2 Imperial Commandos, elk met een blasterpistool, plus 4 jetpackelementen
+- Een leuk Star Wars cadeau voor kinderen vanaf 6 jaar – geef dit bouwbaar speelgoed om te verzamelen aan creatieve jongens, meisjes en jonge fans van Star Wars: The Mandalorian
+- Interactief digitaal bouwplezier – met de LEGO Builder app kunnen kinderen tijdens het bouwen inzoomen en een digitale versie van hun bouwmodel draaien en visualiseren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3KWHM{{</world>}}

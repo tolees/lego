@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features magical details and references to The Lord of the Rings film trilogy, including an elven forge, the Shards of Narsil, plus paintings and statues from the history of Middle-earth
-- Recreate iconic movie moments with an Elven gazebo, and the moment the Fellowship starts their journey over the brick-built bridge and flowing river
-- The building set for adults features 15 LEGO The Lord of the Rings minifigures, including legendary characters such as Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond and Gandalf the Grey
 - This large LEGO set makes a great Fathers Day gift and features the beautifully detailed House of Elrond, decorated with autumnal foliage that creates the feeling of being deep inside the Rivendell forest
-- This faithful 6,167-piece replica of Rivendell is a rewarding building project that will transport you to Middle-earth; an incredible The Lord of the Rings gift for fans
-- Join the Fellowship of the Ring as they arrive at Rivendell for the Council of Elrond with this 6,167 piece LEGO Icons The Lord of the Rings set for adults
+- Recreate iconic movie moments with an Elven gazebo, and the moment the Fellowship starts their journey over the brick-built bridge and flowing river
 - Create the Council of Elrond and seat the minifigures around the stone on which the One Ring is placed, then explore familiar interiors, such as Frodo’s bedroom and Elronds cluttered study
+- The building set for adults features 15 LEGO The Lord of the Rings minifigures, including legendary characters such as Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond and Gandalf the Grey
+- Features magical details and references to The Lord of the Rings film trilogy, including an elven forge, the Shards of Narsil, plus paintings and statues from the history of Middle-earth
+- Join the Fellowship of the Ring as they arrive at Rivendell for the Council of Elrond with this 6,167 piece LEGO Icons The Lord of the Rings set for adults
+- This faithful 6,167-piece replica of Rivendell is a rewarding building project that will transport you to Middle-earth; an incredible The Lord of the Rings gift for fans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BVMZ5NT5{{</world>}}

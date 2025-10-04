@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Verstelbare mechafiguur – het mechapak heeft verstelbare armen, benen en borst, houdt een groot gouden zwaard vast en kan noppen afvuren met 2 schieters
-- Accessoires – LEGO NINJAGO Jay is gewapend met een gouden zwaard, Meester Lloyd heeft 2 gouden katanas en de Wolvenmasker bewaker houdt een kruisboog vast
 - Speelgoedmecha boordevol actie voor kinderen – jongens en meisjes vanaf 6 jaar kunnen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie naspelen met Jays mecha strijdpakket
-- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed voor jongens en meisjes (sets apart verkrijgbaar) met mecha actiefiguren
-- Een universum vol ninja speelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
 - Ninjacadeau – dit ninja speelgoed biedt een leuke bouw- en speelervaring en is een leuk cadeau voor kinderen die een onverwachte traktatie verdienen
+- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed voor jongens en meisjes (sets apart verkrijgbaar) met mecha actiefiguren
 - 4 LEGO NINJAGO minifiguren – dit ninjabouwspeelgoed is inclusief Jay, een unieke minifiguur van Meester Lloyd, een Wolvenmasker klauwstrijder en een Wolvenmasker bewaker voor rollenspel actie
+- Accessoires – LEGO NINJAGO Jay is gewapend met een gouden zwaard, Meester Lloyd heeft 2 gouden katanas en de Wolvenmasker bewaker houdt een kruisboog vast
+- Een universum vol ninja speelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ532T{{</world>}}

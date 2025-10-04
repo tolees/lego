@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Nombre de pièces : 312
-- Âge recommandé par le fabricant : 6 ans
-- Ce lot comprend des mini-poupées LEGO Friends Olivia et sa famille, un Père Noël, un renne, un traîneau rempli de cadeaux de Noël et plus encore
 - Chaque jour, les enfants découvrent un nouveau jouet de Noël qui se combine pour créer une scène enchanteresse : Olivia et sa famille sur un marché de Noël
+- Âge recommandé par le fabricant : 6 ans
+- Nombre de pièces : 312
+- Ce lot comprend des mini-poupées LEGO Friends Olivia et sa famille, un Père Noël, un renne, un traîneau rempli de cadeaux de Noël et plus encore
 - LEGO Friends Calendrier de lAvent
 
 [🛒 Buy it!!]({{< param buyurl >}})

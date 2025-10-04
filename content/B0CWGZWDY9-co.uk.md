@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- The Lion King playset – Kids can play out fun stories with Simba and his ‘food’, then set the model on display in a variety of poses
 - Disney gift for kids – A building toy set featuring a Disney character with functions and accessories that makes a fun gift for 6-plus-year-old girls, boys and kids who deserve an everyday treat
+- LEGO ǀ Disney play – Add this The Lion King building toy to the extensive range of compatible LEGO ǀ Disney sets (sold separately) in the series
+- Celebrate The Lion King’s 30th anniversary – This Disney building toy features a Simba LEGO animal figure, plus a small leaf build with 4 ‘bugs’
+- Disney Building toy for kids – Simba the Lion King Cub buildable figure for 6-plus-year-old girls and boys is great for imaginative role play
 - Moving parts – The Simba animal figure has a rotating head and movable legs and tail, and it can be posed either standing up or sitting down
 - Expand life skills – With a LEGO ǀ Disney buildable character and a small side build and functions to enhance display, this kids’ construction toy helps foster life skills through fun
-- The Lion King playset – Kids can play out fun stories with Simba and his ‘food’, then set the model on display in a variety of poses
-- Celebrate The Lion King’s 30th anniversary – This Disney building toy features a Simba LEGO animal figure, plus a small leaf build with 4 ‘bugs’
-- LEGO ǀ Disney play – Add this The Lion King building toy to the extensive range of compatible LEGO ǀ Disney sets (sold separately) in the series
-- Disney Building toy for kids – Simba the Lion King Cub buildable figure for 6-plus-year-old girls and boys is great for imaginative role play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWGZWDY9{{</world>}}

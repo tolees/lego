@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features and functions – The LEGO Mclaren Formula One model car features working steering, rod suspension and an adjustable rear wing
-- model racing car for adults – This LEGO Icons McLaren MP4/4 & Ayrton Senna F1 model kit for adults to build is designed for fans of motorsports
-- Home or office décor – Includes a McLaren MP4/4 display stand with printed statistics and a minifigure display podium with a photo and an iconic quote
-- Car gift for racing fans – Give the LEGO Icons McLaren MP4/4 & Ayrton Senna construction set as a birthday gift for men, women, him or her, an anniversary gift for a husband or wife, or a thoughtful get-well-soon present
-- What’s in the box? – This LEGO set for adults features an in-scale replica of the McLaren MP4/4, plus display stands and an Ayrton Senna minifigure
-- More iconic features – The model car for adults also features slick tyres, mirrors, a gear stick and a detailed turbocharged V6 engine
 - Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO Icons vehicle set
+- Home or office décor – Includes a McLaren MP4/4 display stand with printed statistics and a minifigure display podium with a photo and an iconic quote
+- model racing car for adults – This LEGO Icons McLaren MP4/4 & Ayrton Senna F1 model kit for adults to build is designed for fans of motorsports
+- Features and functions – The LEGO Mclaren Formula One model car features working steering, rod suspension and an adjustable rear wing
+- What’s in the box? – This LEGO set for adults features an in-scale replica of the McLaren MP4/4, plus display stands and an Ayrton Senna minifigure
+- Car gift for racing fans – Give the LEGO Icons McLaren MP4/4 & Ayrton Senna construction set as a birthday gift for men, women, him or her, an anniversary gift for a husband or wife, or a thoughtful get-well-soon present
+- More iconic features – The model car for adults also features slick tyres, mirrors, a gear stick and a detailed turbocharged V6 engine
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW274ZS{{</world>}}

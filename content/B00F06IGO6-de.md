@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Shell V Power LEGO Ferrari FXX Modell-Set – Nummer 30195
-- Alle Bestellungen die von Montag bis tag vor 16:00 Uhr erhalten wurden, werden noch am selben Tag
 - Dieses fantastische Ferrari FXX ist ein offizielles Lizenzprodukt von Ferrari in limitierter Auflage mit 55-teiligem Set mit Pull-back-and-go-Funktion
-- Brandneuer Shop Lager Room find
 - Veröffentlicht von LEGO im Jahr 2012 als Teil der Shell V Power Promotion
+- Alle Bestellungen die von Montag bis tag vor 16:00 Uhr erhalten wurden, werden noch am selben Tag
+- Brandneuer Shop Lager Room find
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00F06IGO6{{</world>}}

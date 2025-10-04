@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Teil der LEGO Star Wars: Rebuild the Galaxy Kollektion: Kombiniere das Bauspielzeug mit den separat erhältlichen Sets Jedi Bobs Sternjäger (75388) und dem Mashup aus TIE Fighter & X-Wing (75393) für noch mehr Spielspaß
 - Cooles Geschenk für Kinder ab 10 Jahren: Das Spielzeug-Sternenschiff aus LEGO Steinen ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Jungen, Mädchen und alle Star Wars Fans
-- Leicht zugänglich: Klapp die oberen Verkleidungen hoch, um im Sternjäger zu spielen – mit Darth Jar Jars herausnehmbarem Thron, einer Kommandozentrale, dem Hyperantrieb, Stockbetten, einem Unterhaltungsbereich und einer Gefängniszelle
-- LEGO Star Wars Bauspielzeug für Kinder: Baue den Dunklen Millennium Falken, eine alternative Version des legendären Sternenschiffs aus dem Disney+ Special Rebuild the Galaxy, und stelle das Universum auf den Kopf
 - Enthält 6 LEGO Star Wars Mini-Figuren: Darth Jar Jar, Kopfgeldjäger C-3PO, Darth Dev, Darth Rey, Luke im Strand-Outfit und Jedi Vader sowie Lichtschwerter und ein Karton blaue Milch laden zum Spielen ein
-- Bauspielzeuge zum Sammeln für Fans jeden Alters: LEGO Star Wars Fantasy-Sets lassen Kinder und erwachsene Fans klassische Szenen nachstellen, eigene Abenteuer erfinden oder die Modelle ausstellen
 - Dunkler Millennium Falke aus LEGO Steinen: Der Spielzeug-Sternjäger verfügt über ein abnehmbares Cockpit für 2 LEGO Mini-Figuren, 2 Shooter mit Federmechanismus, rotierende Kanonen, einen Kanonierposten für 2 Mini-Figuren und eine Radarschüssel
+- LEGO Star Wars Bauspielzeug für Kinder: Baue den Dunklen Millennium Falken, eine alternative Version des legendären Sternenschiffs aus dem Disney+ Special Rebuild the Galaxy, und stelle das Universum auf den Kopf
+- Leicht zugänglich: Klapp die oberen Verkleidungen hoch, um im Sternjäger zu spielen – mit Darth Jar Jars herausnehmbarem Thron, einer Kommandozentrale, dem Hyperantrieb, Stockbetten, einem Unterhaltungsbereich und einer Gefängniszelle
+- Bauspielzeuge zum Sammeln für Fans jeden Alters: LEGO Star Wars Fantasy-Sets lassen Kinder und erwachsene Fans klassische Szenen nachstellen, eigene Abenteuer erfinden oder die Modelle ausstellen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FX31{{</world>}}

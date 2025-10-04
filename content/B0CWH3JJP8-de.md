@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Spielset für Kinder: Der LEGO Friends Smoothie-Stand am Strand ist ein tolles Spielzeug für Rollenspiele; Mädchen und Jungen ab 6 Jahren können Smoothies am Strand machen und jede Menge Spielspaß mit 2 Spielfiguren und einer Schildkröte erleben
+- Jede Menge Zubehör für spannende Geschichten: Smoothie-Zutaten – Erdbeere, Banane, Blaubeere, Orange, Joghurt und Erdnussbutter – sowie Gläser, ein Surfbrett, eine Schwimmweste und eine Dashboard-Kamera
 - 2 Spielfiguren und eine Schildkröte: Dieses Set beinhaltet eine Schildkröte und die Spielfiguren Niko und Nova; Für Nova ist ein zusätzliches Gesicht vorhanden, um ihre Reaktion darzustellen, wenn sie Sand in die Augen bekommt
 - Mixe verschiedene Smoothie-Sorten: Dieses LEGO Friends Spielzeug bietet Kindern ein fantasievolles Spielerlebnis und lässt sie Zutaten auswählen und im Mixer vermischen, um köstliche Getränke zu erschaffen
-- Geschenkidee für Kinder: Dieses LEGO Lebensmittel-Spielset ist eine coole Geschenkidee für Kinder, die Spielzeuglebensmittel und Freundschaftsgeschichten lieben
 - Gestalte eine Strandszene: Neben dem baubaren Smoothie-Stand beinhaltet dieses Set auch einen baubaren Strandbuggy, eine Schaukel, eine Kühlbox und einen Wegweiser, damit sich Kinder eigene Geschichten am Strand ausdenken können
-- Jede Menge Zubehör für spannende Geschichten: Smoothie-Zutaten – Erdbeere, Banane, Blaubeere, Orange, Joghurt und Erdnussbutter – sowie Gläser, ein Surfbrett, eine Schwimmweste und eine Dashboard-Kamera
-- Spielset für Kinder: Der LEGO Friends Smoothie-Stand am Strand ist ein tolles Spielzeug für Rollenspiele; Mädchen und Jungen ab 6 Jahren können Smoothies am Strand machen und jede Menge Spielspaß mit 2 Spielfiguren und einer Schildkröte erleben
+- Geschenkidee für Kinder: Dieses LEGO Lebensmittel-Spielset ist eine coole Geschenkidee für Kinder, die Spielzeuglebensmittel und Freundschaftsgeschichten lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH3JJP8{{</world>}}

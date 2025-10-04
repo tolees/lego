@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The creative building toy includes detailed LEGO DREAMZzz minifigures of Mrs. Castillo, Mateo and Zoey, plus Z-Blob and a Grimspawn
+- This LEGO DREAMZzz Mrs. Castillo’s Turtle Van set lets kids build the toy campervan from the dream world in party- or flying submarine mode
+- This buildable toy for 7+ year old boys, girls and all fans of the dream world is a great gift for kids; different building options encourage creativity
 - Mrs. Castillo’s turtle toy vehicle has moving wheels and a removable roof; kids can customise it using the story-led building instructions
-- Kids join the DREAMZzz characters Mateo, Zoey and Z-Blob to triumph over nightmares and rescue Mrs. Castillo, who has fallen asleep in her chair
+- The creative building toy includes detailed LEGO DREAMZzz minifigures of Mrs. Castillo, Mateo and Zoey, plus Z-Blob and a Grimspawn
 - The party mode has a moving tree, a spinning cactus and a treasure chest; the flying submarine mode has a rocket, moving periscope and Cat Cactus
 - Kids can enter the dream world with the LEGO DREAMZzz range; check out other sets in the collection for even more imaginative play adventures
-- This buildable toy for 7+ year old boys, girls and all fans of the dream world is a great gift for kids; different building options encourage creativity
-- This LEGO DREAMZzz Mrs. Castillo’s Turtle Van set lets kids build the toy campervan from the dream world in party- or flying submarine mode
+- Kids join the DREAMZzz characters Mateo, Zoey and Z-Blob to triumph over nightmares and rescue Mrs. Castillo, who has fallen asleep in her chair
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CXWJN{{</world>}}

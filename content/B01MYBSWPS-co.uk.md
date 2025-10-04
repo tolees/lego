@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO minifigure accessories – This Arctic truck playset includes fun accessories for pretend play, such as a shovel, ice axe, binoculars, camera, map and a pan for expedition adventures
-- A city without limits – Kids can expand their Arctic adventures by adding this truck toy to other LEGO City construction toys (sold separately) for even more exploration fun
-- Creative toys with a fun digital guide – The LEGO Builder app offers an intuitive building experience with tools to zoom, rotate models in 3D, save sets and track building progress easily
-- A fun building toy for model vehicle fans – Celebrate a birthday or any special occasion with this creative gift for 8+ year old boys and girls who love construction toys and building adventures
 - What’s in the box? – Includes a toy exploration truck, snowmobile, Arctic cave scene, plus 5 LEGO minifigures – driver, photographer, scientist, medic, mechanic – and 3 Arctic wolf animal figures
-- Arctic explorer truck toy for kids – Fans of STEM adventures will love the LEGO City Arctic Explorer Science Lab Truck building toy for 8+ year old boys and girls
 - Creative toy – Kids can open the model truck to access the driver’s cab, a science laboratory, and a living area with a kitchen, bathroom and cosy bedroom for imaginative role play
+- A fun building toy for model vehicle fans – Celebrate a birthday or any special occasion with this creative gift for 8+ year old boys and girls who love construction toys and building adventures
+- Creative toys with a fun digital guide – The LEGO Builder app offers an intuitive building experience with tools to zoom, rotate models in 3D, save sets and track building progress easily
+- A city without limits – Kids can expand their Arctic adventures by adding this truck toy to other LEGO City construction toys (sold separately) for even more exploration fun
+- LEGO minifigure accessories – This Arctic truck playset includes fun accessories for pretend play, such as a shovel, ice axe, binoculars, camera, map and a pan for expedition adventures
+- Arctic explorer truck toy for kids – Fans of STEM adventures will love the LEGO City Arctic Explorer Science Lab Truck building toy for 8+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MYBSWPS{{</world>}}

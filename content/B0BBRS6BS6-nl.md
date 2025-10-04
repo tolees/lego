@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met de intuïtieve bouwinstructies in de LEGO Builder app kunnen kinderen de modellen in 3D bekijken en erop inzoomen; ze kunnen hun voortgang bijhouden en sets opslaan terwijl ze veel plezier beleven aan het bouwen
-- Deze LEGO Friends speelgoed set voor kinderen vanaf 6 jaar bestaat uit een leuk restaurant met een drive-through, zitplaatsen buiten, een speelautomaat en een bewegende jukebox, plus 3 minipoppetjes voor urenlang creatief speelplezier
-- Deze speelset bevat 3 minipoppetjes uit de nieuwe generatie LEGO Friends personages voor 2023 waarmee kinderen nog meer leuke avonturen kunnen beleven: de hardwerkende Aliya, Liann met haar speelgoedskateboard, Charli en een ondeugende kattenfiguur
-- Bij de LEGO Friends restaurant speelset zijn een heleboel leuke accessoires inbegrepen, zoals een koelkast, 2 drankjes, speelgoedgeld, 3 boterhammen om sandwiches mee te maken, een servethouder, een prullenbak en een speelgoedskateboard
 - Met dit LEGO Friends speelgoed kunnen kinderen vanaf 6 jaar herkenbare taferelen in een restaurant op een leuke manier naspelen; het is een geweldig verjaardagscadeau of een leuke verrassing voor iedere gelegenheid
+- Deze LEGO Friends speelgoed set voor kinderen vanaf 6 jaar bestaat uit een leuk restaurant met een drive-through, zitplaatsen buiten, een speelautomaat en een bewegende jukebox, plus 3 minipoppetjes voor urenlang creatief speelplezier
+- Bij de LEGO Friends restaurant speelset zijn een heleboel leuke accessoires inbegrepen, zoals een koelkast, 2 drankjes, speelgoedgeld, 3 boterhammen om sandwiches mee te maken, een servethouder, een prullenbak en een speelgoedskateboard
+- Deze speelset bevat 3 minipoppetjes uit de nieuwe generatie LEGO Friends personages voor 2023 waarmee kinderen nog meer leuke avonturen kunnen beleven: de hardwerkende Aliya, Liann met haar speelgoedskateboard, Charli en een ondeugende kattenfiguur
+- Met de intuïtieve bouwinstructies in de LEGO Builder app kunnen kinderen de modellen in 3D bekijken en erop inzoomen; ze kunnen hun voortgang bijhouden en sets opslaan terwijl ze veel plezier beleven aan het bouwen
 - Kinderen kiezen een liedje op de jukebox door aan de knop te draaien, of ze spelen samen met Aliya een spelletje terwijl ze wachten op Liann die op haar skateboard aankomt; als iedereen er is, kunnen ze Charlis beroemde broodje klaarmaken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
