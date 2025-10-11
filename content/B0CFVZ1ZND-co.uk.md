@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Fun LEGO Star Wars sets for all ages – LEGO Star Wars building toys allow kids and adult fans to recreate iconic scenes, dream up their own creative stories or simply display the buildable models
 - 5 LEGO Star Wars characters – A Jod LEGO minifigure with a vintage-style blaster, plus Wim, KB, Fern and Neel LEGO minifigures with accessories
 - Authentic features – A cockpit, compartment with seats for 4 LEGO minifigures, rotating engines, 2 stud shooters, 2 rotating turrets and more
-- Star Wars: Skeleton Crew starship toy to buid – Children can play out missions aboard The Onyx Cinder with this detailed brick-built vehicle toy
 - Unlimited creative-play – The Onyx Cinder also has an opening cargo compartment with a grabbing claw, walkie-talkie, fruit and a pirate telescope
-- Interactive digital building – Using the LEGO Builder app, kids can zoom, rotate and visualise a digital version of this construction model
+- Fun LEGO Star Wars sets for all ages – LEGO Star Wars building toys allow kids and adult fans to recreate iconic scenes, dream up their own creative stories or simply display the buildable models
 - Star Wars gifts for 10+ year old boys and girls – This LEGO toy building set is a fun gift for kids and collectors of Star Wars memorabilia
+- Interactive digital building – Using the LEGO Builder app, kids can zoom, rotate and visualise a digital version of this construction model
+- Star Wars: Skeleton Crew starship toy to buid – Children can play out missions aboard The Onyx Cinder with this detailed brick-built vehicle toy
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ1ZND{{</world>}}

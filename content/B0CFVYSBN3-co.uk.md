@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 4 LEGO Marvel minifigures – The model plane has room in the cockpit for X-Men characters: Wolverine with attachable claws, Cyclops, Rogue and Magneto
-- LEGO gift for film lovers – This buildable toy plane makes a great Marvel-themed gift idea for boys, girls and all kids aged 8+ who love jet planes and X-Men
-- X-Men X-Jet – Take kids aboard the X-Jet from Marvel Studios’ X-Men ’97 TV series with this buildable X-Men toy plane for boys and girls
-- Buildable X-Men toy plane – The X-Jet model airplane has 2 stud shooters on either side, 2 spring shooters underneath and 2 removable boxes inside
 - 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- 4 LEGO Marvel minifigures – The model plane has room in the cockpit for X-Men characters: Wolverine with attachable claws, Cyclops, Rogue and Magneto
 - Play-and-display model plane – When the day’s Super Hero action is over, the buildable Marvel toy can be displayed for all to admire
+- LEGO gift for film lovers – This buildable toy plane makes a great Marvel-themed gift idea for boys, girls and all kids aged 8+ who love jet planes and X-Men
+- Buildable X-Men toy plane – The X-Jet model airplane has 2 stud shooters on either side, 2 spring shooters underneath and 2 removable boxes inside
+- X-Men X-Jet – Take kids aboard the X-Jet from Marvel Studios’ X-Men ’97 TV series with this buildable X-Men toy plane for boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYSBN3{{</world>}}

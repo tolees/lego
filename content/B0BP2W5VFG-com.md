@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Small
 - Product type: TOY BUILDING BLOCK
 - Dinosaur and Jeep car toy playset Inspire kids to recreate a memorable Jurassic Park scene and make up their own stories with this LEGO Jurassic Park Dilophosaurus Ambush building set
-- Small
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BP2W5VFG{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Weck die Fantasie deines Kindes: LEGO Super Mario Sets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf spannende Münzsammelmissionen zu schicken
-- 2 Super Mario Figuren aus LEGO Steinen: Der gelbe LEGO Super Mario Toad und Mopsie können Zubehör greifen und Mopsie hat außerdem eine baubare Tasche
+- Interaktives digitales Spielerlebnis: Wenn LEGO Mario, LEGO Luigi oder LEGO Peach (diese Figuren sind nicht enthalten) auf einen Funktionsstein springt, bekommen sie Essen; stampfen sie auf Mopsies Tasche, erhalten sie digitale Objekte
+- Super Mario Action-Spielzeug zum Sammeln mit vielen Details aus LEGO Steinen: In dem Laden befinden sich ein baubarer Softeisspender und ein Ofen, Stände mit Spielzeugen und Speisen sowie ein Einkaufswagen
 - LEGO Set mit einem gelbem Toad und Mopsie-Figur: Dieses LEGO Super Mario Erweiterungsset beinhaltet einen Spielzeug-Laden aus LEGO Steinen und jede Menge cooles Zubehör für spannende Rollenspiele in Toads Laden
 - Geschenk für Gamer ab 7 Jahren: Dieses kleine LEGO Set ist eine tolle Geschenkidee für Jungs und Mädche, die Super Mario Fanartikel lieben; für ein interaktives Spielerlebnis wird ein LEGO Super Mario Starterset (71360, 71387 oder 71403) benötigt
-- Super Mario Action-Spielzeug zum Sammeln mit vielen Details aus LEGO Steinen: In dem Laden befinden sich ein baubarer Softeisspender und ein Ofen, Stände mit Spielzeugen und Speisen sowie ein Einkaufswagen
-- Interaktives digitales Spielerlebnis: Wenn LEGO Mario, LEGO Luigi oder LEGO Peach (diese Figuren sind nicht enthalten) auf einen Funktionsstein springt, bekommen sie Essen; stampfen sie auf Mopsies Tasche, erhalten sie digitale Objekte
+- 2 Super Mario Figuren aus LEGO Steinen: Der gelbe LEGO Super Mario Toad und Mopsie können Zubehör greifen und Mopsie hat außerdem eine baubare Tasche
 - Nützlicher Helfer: Lade dir die LEGO Super Mario App herunter, um dir unter anderem Bauanleitungen, Tipps und tolle Bau- und Spielideen zu holen
+- Weck die Fantasie deines Kindes: LEGO Super Mario Sets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf spannende Münzsammelmissionen zu schicken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYJRZX{{</world>}}

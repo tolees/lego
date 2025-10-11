@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creative toy accessories – This LEGO vehicle set comes with a toy map, medic bag, binoculars and camera, plus a spider figure
-- A fun birthday gift for kids – This adventure playset makes a great birthday gift for 8-plus-year-old boys and girls who love cool LEGO vehicles and building toys for kids
-- Helicopter toy – This LEGO City Jungle Explorer Helicopter at Base Camp building toy set for boys and girls includes a detailed twin-rotor helicopter
-- What’s in the box? – Includes a twin-rotor helicopter, motorbike toy, swamp boat and jungle base, plus 5 minifigures and 3 gorilla toy animal figures
 - Building toys – Kids can seat 4 minifigures in the cockpit, use the winch to deliver the mobile base camp and spin the synchronised twin rotors
+- What’s in the box? – Includes a twin-rotor helicopter, motorbike toy, swamp boat and jungle base, plus 5 minifigures and 3 gorilla toy animal figures
+- A fun birthday gift for kids – This adventure playset makes a great birthday gift for 8-plus-year-old boys and girls who love cool LEGO vehicles and building toys for kids
+- Creative toy accessories – This LEGO vehicle set comes with a toy map, medic bag, binoculars and camera, plus a spider figure
+- Helicopter toy – This LEGO City Jungle Explorer Helicopter at Base Camp building toy set for boys and girls includes a detailed twin-rotor helicopter
 - Includes a combinable map tile – Connect the toy map included with this set to maps from 3 other playsets (sold separately) to reveal a guide to the LEGO City jungle
 - More sets to collect – Kids unleash more fun when they add this LEGO City Jungle set to others (sold separately) from the LEGO City range
 

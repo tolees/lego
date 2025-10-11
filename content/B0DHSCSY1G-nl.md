@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Fantasieset van LEGO stenen – Ahsoka Tano heeft 2 groene lichtzwaarden en Anakin Skywalker heeft een blauw lichtzwaard voor speelplezier boordevol actie
+- Ontdek het assortiment – met LEGO Star Wars verzamelsets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans klassieke scènes naspelen, hun eigen avonturen verzinnen en de bouwmodellen op een mooi plekje neerzetten
+- Jedi Interceptor bouwbaar ruimteschip speelgoed voor kinderen – speel spannende missies na met dit gedetailleerde LEGO model van Ahsokas Jedi Interceptor uit Star Wars: The Clone Wars
 - Star Wars cadeau voor kinderen vanaf 8 jaar – dit bouwbare LEGO Star Wars voertuig speelgoed voor 9 jaar en ouder is een leuk verjaadagscadeau, kerstcadeau of cadeau voor zomaar voor creatieve jongens, meisjes en fans van Star Wars: The Clone Wars
+- Fantasieset van LEGO stenen – Ahsoka Tano heeft 2 groene lichtzwaarden en Anakin Skywalker heeft een blauw lichtzwaard voor speelplezier boordevol actie
+- Star Wars ruimteschip – de Jedi Interceptor heeft een cockpit die open kan voor Ahsoka Tano, ruimte voor R7-A7, verstelbare vleugels, 2 schieters met veermechanisme en opbergruimte voor Ahsokas 2 lichtzwaarden
 - Een helpende hand – met de LEGO Builder app kunnen kinderen tijdens het bouwen inzoomen en een digitale versie van hun bouwmodel draaien en visualiseren, hun voortgang bijhouden en sets opslaan
 - 2 LEGO Star Wars minifiguren – dit bouwpakket voor kinderen is inclusief Ahsoka Tano en Anakin Skywalker, plus een R7-A7 LEGO droidfiguur
-- Star Wars ruimteschip – de Jedi Interceptor heeft een cockpit die open kan voor Ahsoka Tano, ruimte voor R7-A7, verstelbare vleugels, 2 schieters met veermechanisme en opbergruimte voor Ahsokas 2 lichtzwaarden
-- Jedi Interceptor bouwbaar ruimteschip speelgoed voor kinderen – speel spannende missies na met dit gedetailleerde LEGO model van Ahsokas Jedi Interceptor uit Star Wars: The Clone Wars
-- Ontdek het assortiment – met LEGO Star Wars verzamelsets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans klassieke scènes naspelen, hun eigen avonturen verzinnen en de bouwmodellen op een mooi plekje neerzetten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSCSY1G{{</world>}}

@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Dimensions – In its standard configuration, the toy skate park set measures over 7.5 in. (19 cm) high, 17.5 in. (44 cm) wide and 10 in. (25 cm) deep
-- What’s in the box? – Everything kids need to build a toy skate park with modular ramps and equipment for all kinds of stunts, plus a BMX bike, skateboard, scooter, in-line skates and 4 minifigures
-- Expand your city – Includes a LEGO Road Plate for connecting your skate park to other sets in the LEGO City
 - Skate park playset – Send kids’ imaginations soaring with this LEGO City Street Skate Park (60364), with ramp modules that can be attached to each other for different park configurations
 - A gift for any occasion – This LEGO City Street Skate Park makes a fun birthday, holiday or any-other-day gift for6 year old boys and girls
+- What’s in the box? – Everything kids need to build a toy skate park with modular ramps and equipment for all kinds of stunts, plus a BMX bike, skateboard, scooter, in-line skates and 4 minifigures
+- Expand your city – Includes a LEGO Road Plate for connecting your skate park to other sets in the LEGO City
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MXU9QXV{{</world>}}

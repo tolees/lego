@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dolls house accessories – Easter eggs and special details from the Disneys Lilo & Stitch, 2 surfboards, a mini guitar, mini record player and more
+- Disney-themed gift idea for kids – This LEGO ǀ Disney building set makes a fun gift for 9+ year old girls and boys who love extraterrestrial friends
+- Disney figures and more – Fans can build the LEGO house and spaceship, then play stories before putting the house on display when the play is done
 - Disney building toys – With an iconic house from the Disney hit Lilo & Stitch, 5 Disney characters and accessories, this building kit boosts life skills through fun play
 - A helping hand – Discover intuitive instructions in the LEGO Builder app with tools to zoom in and rotate models in 3D, track progress and save sets
-- Disney-themed gift idea for kids – This LEGO ǀ Disney building set makes a fun gift for 9+ year old girls and boys who love extraterrestrial friends
-- Disney building toys – This Lilo and Stitch Beach House buildable toy for 9+ year old girls and boys sparks creativity and hours of imaginative play
-- Disney figures and more – Fans can build the LEGO house and spaceship, then play stories before putting the house on display when the play is done
 - Buildable toy house – With 6 rooms and an observatory for the spaceship, LEGO ǀ Disney minifigures of Lilo, Stitch, Nani, David and Mr. Bubbles
+- Dolls house accessories – Easter eggs and special details from the Disneys Lilo & Stitch, 2 surfboards, a mini guitar, mini record player and more
+- Disney building toys – This Lilo and Stitch Beach House buildable toy for 9+ year old girls and boys sparks creativity and hours of imaginative play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDSWW4{{</world>}}

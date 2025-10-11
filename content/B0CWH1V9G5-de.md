@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Marvel Iron Man Bauspielzeug: Iron Man & Iron Legion vs. HYDRA-Soldat für Jungen und Mädchen ab 6 Jahren lässt Kinder die Actionszenen aus Avengers: Age of Ultron aus den Marvel Studios nachstellen
 - Authentische Details: Die Minifigur Iron Man hat ein aufklappbares Visier und hält einen Power-Blaster; Der HYDRA-Soldat hält einen Shooter, und spezielle Steine erwecken den Anschein, die Minifiguren würden fliegen
-- Noch mehr Spielspaß: Dieses Superhelden-Spielset lässt sich wunderbar mit allen anderen (separat erhältlichen) LEGO Marvel Bauspielzeugen kombinieren
+- LEGO Marvel Iron Man Bauspielzeug: Iron Man & Iron Legion vs. HYDRA-Soldat für Jungen und Mädchen ab 6 Jahren lässt Kinder die Actionszenen aus Avengers: Age of Ultron aus den Marvel Studios nachstellen
 - Abenteuer-Spielset für Kinder: Junge Superhelden können Iron Man und seine Iron Legion auf eine Mission begleiten und in die schwer befestigte HYDRA-Basis eindringen, um sich einen actionreichen Showdown mit dem HYDRA-Soldaten zu liefern
-- LEGO Marvel Geschenk für Kinder: Dieses Avengers Abenteuer-Bauspielzeug ist eine tolle Geschenkidee für Fans der Superhelden ab 6 Jahren
+- Noch mehr Spielspaß: Dieses Superhelden-Spielset lässt sich wunderbar mit allen anderen (separat erhältlichen) LEGO Marvel Bauspielzeugen kombinieren
 - Superhelden-Sammlerstücke für Kinder: LEGO Marvel Bauspielzeuge bieten jungen Superhelden unzählige fantasievolle Bau- und Spielmöglichkeiten
 - Enthält Superhelden-Minifiguren: Das Spielset beinhaltet 4 Minifiguren – Eine Iron Man Figur, 2 Helden der Iron Legion und einen HYDRA-Soldaten
+- LEGO Marvel Geschenk für Kinder: Dieses Avengers Abenteuer-Bauspielzeug ist eine tolle Geschenkidee für Fans der Superhelden ab 6 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH1V9G5{{</world>}}

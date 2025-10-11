@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Als Teil einer inspirierenden Reihe von LEGO Sets für Erwachsene ist dieses Modell für alle gedacht, die gerne achtsame und kreative Aktivitäten betreiben; bitte beachte, dass dieses Modell über keine digitalen Spielfunktionen verfügt
-- Die LEGO Super Mario Pflanze verfügt über einen beweglichen Kopf, einen Mund, einen Stiel und Blätter sowie ein baubares Rohr, um das „Wachsen“ der Pflanze genau wie im Spiel nachzuahmen
-- Genieße ein Bauabenteuer, während du mit dem LEGO Super Mario Piranha-Pflanze-Modellbausatz für Erwachsene die feineren Details einer legendären Super Mario-Figur im LEGO-Stil einfängst
 - Dieses LEGO Super Mario Piranha-Pflanze Set ist ein tolles Super-Mario-Geschenk für Männer, Frauen und Jugendliche, eine tolle Ergänzung für jede LEGO Super Mario Sammlung und ein tolles Deko-Stück
 - Dieser Bausatz ist eine coole Super Mario-Dekoration für Zuhause oder das Büro und enthält außerdem zwei Münzelemente, eine verborgene Funktion enthalten, sobald die LEGO Pflanze fertiggestellt ist
+- Genieße ein Bauabenteuer, während du mit dem LEGO Super Mario Piranha-Pflanze-Modellbausatz für Erwachsene die feineren Details einer legendären Super Mario-Figur im LEGO-Stil einfängst
+- Die LEGO Super Mario Pflanze verfügt über einen beweglichen Kopf, einen Mund, einen Stiel und Blätter sowie ein baubares Rohr, um das „Wachsen“ der Pflanze genau wie im Spiel nachzuahmen
+- Als Teil einer inspirierenden Reihe von LEGO Sets für Erwachsene ist dieses Modell für alle gedacht, die gerne achtsame und kreative Aktivitäten betreiben; bitte beachte, dass dieses Modell über keine digitalen Spielfunktionen verfügt
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7DPF3C{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Star Wars: The Book of Boba Fett fans can recreate details of the throne room and other parts of Jabba’s palace with this LEGO Star Wars set
+- LEGO Star Wars buildable toys for kids allow them to recreate memorable scenes, make up new adventures and display the building toys
 - The throne comes with a pop-up function to eject Bib Fortuna and a secret chamber containing weapons and beskar bar elements
 - The Star Wars buildable model of Jabba’s palace also has shaking steps to topple a guard, an opening gate and more!
-- Fold out the front of the buildable model and open the back to reveal a kitchen & barbecue area with a rotisserie, plus fun accessory elements
-- LEGO Star Wars buildable toys for kids allow them to recreate memorable scenes, make up new adventures and display the building toys
-- Star Wars: The Book of Boba Fett fans can recreate details of the throne room and other parts of Jabba’s palace with this LEGO Star Wars set
-- This toy for kids 9 plus years old makes a great birthday present or special gift to kids who are into Star Wars: The Book of Boba Fett
 - Includes 7 LEGO Star Wars minifigures: Boba Fett, Fennec Shand, Bib Fortuna, a Theelin Dancer, Weequay Guard, Gamorrean Guard and a Quarren
+- This toy for kids 9 plus years old makes a great birthday present or special gift to kids who are into Star Wars: The Book of Boba Fett
+- Fold out the front of the buildable model and open the back to reveal a kitchen & barbecue area with a rotisserie, plus fun accessory elements
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09JL1HHGH{{</world>}}

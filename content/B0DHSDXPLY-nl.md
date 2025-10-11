@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inspireer de creativiteit van kinderen – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en creatieve uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
-- Nintendo game bouwpakket voor kinderen – bekijk het LEGO Super Mario: Mario Kart assortiment (apart verkrijgbaar) voor nog meer voertuigen en personages om tegen te racen en verhalen mee te bedenken
-- Interactief speelplezier – bestuur de Biddybuggy of Driebander met LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) om Mario Kart geluiden en visuele effecten te activeren voor toeteren, driften en meer
 - 2 Nintendo figuren om te verzamelen voor leuke rollenspellen – dit bouwpakket voor kinderen bevat speelgoedfiguren van Baby Mario en Baby Luigi, plus 6 bouwbare ballonnen (3 rode en 3 groene)
 - Mario Kart cadeau voor kinderen – geef deze LEGO Super Mario set cadeau aan jongens, meisjes en gamers vanaf 8 jaar; een van de sets 71439, 71440 of 71441 (apart verkrijgbaar) is vereist voor interactief spelen
+- Nintendo game bouwpakket voor kinderen – bekijk het LEGO Super Mario: Mario Kart assortiment (apart verkrijgbaar) voor nog meer voertuigen en personages om tegen te racen en verhalen mee te bedenken
+- Inspireer de creativiteit van kinderen – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en creatieve uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
 - Bouwbaar Mario Kart game auto speelgoed – bundel je krachten met Baby Mario of Baby Luigi voor race-actie en gooi ballonnen om met deze avontuurlijke LEGO Super Mario speelset
+- Interactief speelplezier – bestuur de Biddybuggy of Driebander met LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) om Mario Kart geluiden en visuele effecten te activeren voor toeteren, driften en meer
 - Mario Kart voertuigen – zet Baby Mario in zijn Biddybuggy en Baby Luigi in zijn Driebander en lanceer schilden om de ballonnen omver te gooien
 
 [🛒 Check the deal!!]({{< param buyurl >}})

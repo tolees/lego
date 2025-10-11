@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Play through all nine films in a new, fun filled adventure
 - The galaxy is yours with LEGO Star Wars: The Skywalker Saga, Play all nine saga films and experience fun filled adventure in a galaxy far, far away
+- Play through all nine films in a new, fun filled adventure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07SH3DBLW{{</world>}}

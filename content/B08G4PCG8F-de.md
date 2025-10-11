@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Beide Blättersets können individuell arrangiert werden, um eine einzigartige Zimmerdekoration zu kreieren, die für einen atemberaubenden Blickfang in jedem Zuhause oder Büro sorgt
-- Die LEGO Botanik Kollektion enthält mehrere Elemente aus pflanzlichem Kunststoff, der aus nachhaltig angebautem Zuckerrohr hergestellt wird
 - LEGO Fans werden von der brandneuen Bautechnik und den unerwarteten Formen und Farben im Bauset „Bonsai Baum“ begeistert sein
 - Die Zimmerdekorationen der LEGO Botanik Kollektion enthalten eine Auswahl von Modellen für Liebhaber von Kunstblumen und sind einzigartige Ausstellungsstücke
+- Die LEGO Botanik Kollektion enthält mehrere Elemente aus pflanzlichem Kunststoff, der aus nachhaltig angebautem Zuckerrohr hergestellt wird
 - Dieses LEGO Bastelset in einzigartigem Kirschblüten-Design ist ein überraschendes Geschenk für Männer, Frauen, Teenager, Freundin oder Freund - für alle Bastler und Fans von DIY
 - Dank der austauschbaren Teile kannst du die Kunstpflanze mit klassischen grünen Blättern oder leuchtend rosa Kirschblüten gestalten
+- Beide Blättersets können individuell arrangiert werden, um eine einzigartige Zimmerdekoration zu kreieren, die für einen atemberaubenden Blickfang in jedem Zuhause oder Büro sorgt
 - Enthält ein künstliches Bonsai-Bastelmodell für Erwachsene mit einem rechteckigen Pflanzgefäß und Sockel in Holzlatten-Optik aus LEGO-Steinen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

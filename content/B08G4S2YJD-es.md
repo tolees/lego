@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
-- Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
-- Edad recomendada por el fabricante: 7+
 - Número de piezas: 84
+- Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
 - Unicorn DJ BeatBox
+- Edad recomendada por el fabricante: 7+
+- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08G4S2YJD{{</world>}}

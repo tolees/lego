@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Laat jonge kinderen kennismaken met de Chinese cultuur met dit veelzijdige LEGO DUPLO speelgoed voor peuters van 2+ jaar, geïnspireerd op verschillende Chinese tradities
-- Bij de set met leerzaam peuterspeelgoed zijn 3 LEGO DUPLO familie figuren inbegrepen (een volwassene, een jongen en een meisje) in traditionele Chinese kleding, plus een schattige pandafiguur met een bamboesnack
-- Dit educatieve speelgoed voor peuters bestaat uit een café, een tempel en een activiteitencentrum, plus een heleboel authentieke elementen die het traditionele Chinese leven in beeld brengen
 - Het Oriëntaals gedecoreerde activiteitencentrum bij deze LEGO DUPLO set bevat een Xiangqi schaakspel, maskers, een traditionele set met penseel en inkt en een Ruan speelgoedmuziekinstrument
 - Leer je kinderen over Chinese cultuur in de tempel, waar het dak versierd is met halve Yin-Yangdecoratie; de peutervriendelijke LEGO DUPLO stenen kunnen makkelijk worden opgepakt en verplaatst
+- Dit educatieve speelgoed voor peuters bestaat uit een café, een tempel en een activiteitencentrum, plus een heleboel authentieke elementen die het traditionele Chinese leven in beeld brengen
+- Bij de set met leerzaam peuterspeelgoed zijn 3 LEGO DUPLO familie figuren inbegrepen (een volwassene, een jongen en een meisje) in traditionele Chinese kleding, plus een schattige pandafiguur met een bamboesnack
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BN9RT3FD{{</world>}}

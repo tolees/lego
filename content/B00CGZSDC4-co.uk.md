@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - LEGO DUPLO Animals with character – Kitten and bear cub include happy and sad faces, allowing kids who may not be talking yet to express emotions
 - LEGO houses – Toddlers and parents role-play daily routines, talk through their emotions and build and rebuild the brightly coloured toy houses
-- Skill-building play – LEGO DUPLO learning toys are expertly designed to help toddlers develop their social, emotional, motor and creative skills
 - Preschool learning toys – LEGO DUPLO My First Daily Routines: Eating & Bedtime building toy helps toddlers learn about important daily activities
+- Skill-building play – LEGO DUPLO learning toys are expertly designed to help toddlers develop their social, emotional, motor and creative skills
 - Early development and activity toys – This engaging animal toys set comes with 4 animal family figures to help little ones understand their feelings
 
 [🛒 Buy it!!]({{< param buyurl >}})

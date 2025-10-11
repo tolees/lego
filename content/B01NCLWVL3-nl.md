@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kinderen kunnen zich inbeelden dat ze de schatkaart volgen, door met de kano in de rivier te varen en de wankele brug over te steken om de verborgen diamanten te vinden, voordat ze in de tent kruipen
 - De speelset voor 2+ jaar oude peuters en kleuters wordt geleverd met een kano, een bestuurbare speelgoed camper en een tent, plus een kampvuur, een waterval en een wankelende brug van DUPLO stenen
+- Inclusief 4 LEGO DUPLO Disney figuren: Katrien Duck en de neefjes Kwik, Kwek en Kwak, plus een schatkaart en speelgoed diamanten
 - Met deze LEGO DUPLO Disney Mickey and Friends Kampeeravontuur set voor peuters gaan kinderen samen met Disneys Katrien Duck en haar neefjes op een leuke familiereis
 - Het naspelen van familiescènes helpt kinderen om empathie en zelfexpressie te ontwikkelen - ouders kunnen ontwikkelingsmijlpalen delen door mee te spelen
-- Kinderen kunnen zich inbeelden dat ze de schatkaart volgen, door met de kano in de rivier te varen en de wankele brug over te steken om de verborgen diamanten te vinden, voordat ze in de tent kruipen
-- Inclusief 4 LEGO DUPLO Disney figuren: Katrien Duck en de neefjes Kwik, Kwek en Kwak, plus een schatkaart en speelgoed diamanten
 - Verras een kleine Disney-fan met dit educatieve constructie speelgoed voor peuters vanaf 2 jaar als cadeau voor een verjaardag of andere gelegenheid
 
 [🛒 Buy it!!]({{< param buyurl >}})

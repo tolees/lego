@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Modell für Erwachsene: Das LEGO Technic Ducati Panigale V4 S Motorrad aus diesem Bauset für Erwachsene ist dem leistungsstärksten Superbike aus dem Hause Ducati nachempfunden
-- Wirklichkeitsgetreues Schaltgetriebe: Schau dir das Schaltpedal und das Schaltgetriebe (3 Gänge und Neutral) an und dreh das Hinterrad, um die Kette anzutreiben, die das Getriebe mit dem V4-Motor verbindet
-- ﻿﻿﻿
+- LEGO Technic Ducati Panigale V4 S Motorrad: Das Motorradmodell verfügt über eine Fülle an imposanten Details und Funktionen wie der Lenkung und der Vorder- und Hinterradaufhängung
 - Entdecke die digitale Bauanleitung: In der LEGO Builder App ist eine digitale Version der Bauanleitung zu diesem Set verfügbar; diese macht den ganzen Bauprozess noch einfacher
 - LEGO Modelle für Erwachsene: Die Kollektion der LEGO Technic Fahrzeuge für Erwachsene lässt dich technische Konzepte erkunden und entspannende Bauprojekte genießen
+- ﻿﻿﻿
 - Geschenkidee für Motorradfans: Dieses Set beinhaltet auch einen Ständer und ist ein perfektes Geschenk für Erwachsene, die fesselnde Bauprojekte, Motorräder von Ducati und andere superschnelle Fahrzeuge lieben
-- LEGO Technic Ducati Panigale V4 S Motorrad: Das Motorradmodell verfügt über eine Fülle an imposanten Details und Funktionen wie der Lenkung und der Vorder- und Hinterradaufhängung
+- Wirklichkeitsgetreues Schaltgetriebe: Schau dir das Schaltpedal und das Schaltgetriebe (3 Gänge und Neutral) an und dreh das Hinterrad, um die Kette anzutreiben, die das Getriebe mit dem V4-Motor verbindet
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCQLM2{{</world>}}

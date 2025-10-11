@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Weck die Fantasie deines Kindes: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf coole Münzsammelmissionen zu schicken
-- Nintendo Geschenk für Jungen, Mädchen und alle Fans ab 7 Jahren: Für ein interaktives Spielerlebnis wird eines der separat erhältlichen Sets 71439, 71440 oder 71441 benötigt
-- Cooles Nintendo Sammlerstück: Freu dich auf viele Rollenspiele und Abenteuer auf dem Gumba-Spielplatz aus diesem LEGO Super Mario Spielset
-- 3 LEGO Super Mario Gumba-Spielzeugfiguren: Die Gumbas lassen sich aufeinanderstapeln
 - Abenteuer-Spielzet aus LEGO Steinen: Drück den Hebel auf der Rückseite des baubaren Baumstamms, um einen Gumba herauszukatapultieren, oder lass die Gumbas auf der Spielzeug-Wippe wippen
-- Nützlicher Helfer: Lade dir die LEGO Super Mario App herunter, um dir unter anderem Bauanleitungen und kreative Bau- und Spielideen zu holen; Eine Liste der kompatiblen Android- und iOS-Geräte findest du auf LEGO.com/devicecheck
+- Cooles Nintendo Sammlerstück: Freu dich auf viele Rollenspiele und Abenteuer auf dem Gumba-Spielplatz aus diesem LEGO Super Mario Spielset
+- Nintendo Geschenk für Jungen, Mädchen und alle Fans ab 7 Jahren: Für ein interaktives Spielerlebnis wird eines der separat erhältlichen Sets 71439, 71440 oder 71441 benötigt
 - Interaktives Spielerlebnis: Lass LEGO Mario, LEGO Luigi oder LEGO Peach für eine Balancier-Challenge auf den Funktionsstein der Wippe hüpfen; Diese Figuren sind nicht enthalten
+- 3 LEGO Super Mario Gumba-Spielzeugfiguren: Die Gumbas lassen sich aufeinanderstapeln
+- Weck die Fantasie deines Kindes: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf coole Münzsammelmissionen zu schicken
+- Nützlicher Helfer: Lade dir die LEGO Super Mario App herunter, um dir unter anderem Bauanleitungen und kreative Bau- und Spielideen zu holen; Eine Liste der kompatiblen Android- und iOS-Geräte findest du auf LEGO.com/devicecheck
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FWX5{{</world>}}

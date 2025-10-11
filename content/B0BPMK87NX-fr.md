@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- it article de collection, ne connt pas nécessairement comme cadeau denfant
-- Contient 36 pièces
-- Voiture vintage
 - Livré dans un sac en plastique scellé en usine
+- Voiture vintage
+- Contient 36 pièces
+- it article de collection, ne connt pas nécessairement comme cadeau denfant
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPMK87NX{{</world>}}

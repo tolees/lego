@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Inspired by the real truck – This model is based on the real-world Mack electric garbage truck and features realistic movement for imaginative play
-- A truck gift for kids – This garbage toy makes a fun birthday, Christmas or special occasion gift for boys, girls and kids who love LEGO vehicles and bin lorry toys
-- Truck toy for kids aged 8+ – The LEGO Technic Mack LR Electric Garbage Truck toy features a side loader to grab, lift and tip the rubbish bins
 - Grab, lift and tip – Kids can act out recycling truck toy stories as they use the side loader to load the LEGO vehicle with rubbish
 - Realistic functions – The doors open to reveal the driver’s cab, and kids can use the gear element on top of the cab to steer the truck into position
+- A truck gift for kids – This garbage toy makes a fun birthday, Christmas or special occasion gift for boys, girls and kids who love LEGO vehicles and bin lorry toys
+- Truck toy for kids aged 8+ – The LEGO Technic Mack LR Electric Garbage Truck toy features a side loader to grab, lift and tip the rubbish bins
+- Inspired by the real truck – This model is based on the real-world Mack electric garbage truck and features realistic movement for imaginative play
+- 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVY143H{{</world>}}

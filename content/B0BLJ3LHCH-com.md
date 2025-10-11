@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Creator 3in1 animal toy set features 3 animals for kids 7+ years old: a parrot toy perched on a branch, a playful frog and a toy fish
-- The easy-to-follow picture guide makes construction easy and fun, plus digital building instructions can also be found in the LEGO Builder app
-- The parrot can be rebuilt into a toy frog with posable legs or into a LEGO fish with movable fins and a seabed for creative adventures
 - The toy parrot is richly colored and comes with jointed parts that allow it to rotate its body on the branch and move its wings and tail
+- The parrot can be rebuilt into a toy frog with posable legs or into a LEGO fish with movable fins and a seabed for creative adventures
+- Kids can choose their building adventure with 3 LEGO Creator animal figures or fire up their imagination and create a new animal with the bricks
+- The easy-to-follow picture guide makes construction easy and fun, plus digital building instructions can also be found in the LEGO Builder app
 - The parrot toy measures over 22 cm (8.5 in.) high, 11 cm (4 in.) long and 12 cm (4.5 in.) wide. Contains 253 pieces
+- This LEGO Creator 3in1 animal toy set features 3 animals for kids 7+ years old: a parrot toy perched on a branch, a playful frog and a toy fish
 - This set makes a great birthday gift, Easter basket stuffer, holiday gift for girls and boys
 - With details such as the parrots branch covered in flowers, this building toy set will look awesome on display in kids rooms when play is over
-- Kids can choose their building adventure with 3 LEGO Creator animal figures or fire up their imagination and create a new animal with the bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BLJ3LHCH{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Explore some of the world’s most iconic cars with LEGO Speed Champions race car toy models
+- As you build with the LEGO Building Instructions app available for smartphones and tablets, zoom, rotate and view models from all angles
+- Explore it piece by piece as you recreate one of the worlds most unprecedented aerodynamic shapes
 - This car toy model for kids has plenty of room for a 2-seat cockpit and lots of authentic detailing
 - It comes with a LEGO racing driver minifigure with a Lotus racing suit, crash helmet, wig and a wrench
 - Recreate Britain’s first all-electric hypercar with this Lotus Evija replica car model and admire the toy sports cars innovative design
-- Explore it piece by piece as you recreate one of the worlds most unprecedented aerodynamic shapes
-- As you build with the LEGO Building Instructions app available for smartphones and tablets, zoom, rotate and view models from all angles
-- Explore some of the world’s most iconic cars with LEGO Speed Champions race car toy models
 - This innovative, all-electric race car toy model is a perfect birthday or any occasion gift for boys and girls who love toy sports cars!
 
 [🛒 Buy it!!]({{< param buyurl >}})

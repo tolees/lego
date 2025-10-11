@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Instructies zijn inbegrepen, en met de LEGO Builder app kunnen bouwers een digitale versie van het model van de starfighter visualiseren, draaien en erop inzoomen terwijl ze bouwen
+- De starfighter heeft een cockpit die open kan met ruimte voor 2 LEGO minifiguren, 2 noppenschieters, een inklapbaar landingsgestel, opbergclips voor het lichtzwaard en een bevestigingspunt op de vleugel voor het hoofd van de Star Wars droid figuur R4-P17
+- Wanneer kinderen even moe zijn van het spelen, kunnen ze dit LEGO Star Wars model van een starfighter mooi neerzetten op hun kamer als decoratie: dit indrukwekkende pronkstuk zal zeker de aandacht trekken!
 - Inclusief 2 LEGO minifiguren: Obi-Wan Kenobi met een lichtzwaard, en een nooit eerder verschenen versie van Taun We, plus een LEGO Star Wars figuur van een R4-P17 astromech droid
 - Kinderen kunnen spelen dat ze naar Kamino reizen met Obi-Wan en zijn vertrouwde R4-P17 astromech droid, voor een ontmoeting met Taun We die de uitkomst van de Clone Wars kan beïnvloeden
 - Verras kinderen van 7+ jaar met dit avontuurlijke constructie speelgoed als cadeau voor een verjaardag, kerst of een andere gelegenheid - fans van Star Wars: Attack of the Clones en LEGO Star Wars verzamelaars zullen helemaal in hun nopjes zijn
-- Wanneer kinderen even moe zijn van het spelen, kunnen ze dit LEGO Star Wars model van een starfighter mooi neerzetten op hun kamer als decoratie: dit indrukwekkende pronkstuk zal zeker de aandacht trekken!
 - Verras fans van Star Wars: Attack of the Clones met een LEGO model van Obi-Wan Kenobi’s iconische Jedi Starfighter om zelf te bouwen
-- Instructies zijn inbegrepen, en met de LEGO Builder app kunnen bouwers een digitale versie van het model van de starfighter visualiseren, draaien en erop inzoomen terwijl ze bouwen
-- De starfighter heeft een cockpit die open kan met ruimte voor 2 LEGO minifiguren, 2 noppenschieters, een inklapbaar landingsgestel, opbergclips voor het lichtzwaard en een bevestigingspunt op de vleugel voor het hoofd van de Star Wars droid figuur R4-P17
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFXRYYH{{</world>}}

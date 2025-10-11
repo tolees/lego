@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 1 set, 2 builds – This creative building toy lets kids choose their adventure by building Zian as a cat-owl or a cat-peacock fantasy animal figures
-- A dream world of adventures – Explore other fantasy toys (sold separately) for kids in the LEGO DREAMZzz range, where kids can immerse themselves in the action and meet hero figures
-- Inspired by LEGO DREAMZzz TV show – This small LEGO set lets kids immerse themselves in dream world adventures with toy owl and cat toy figure
-- 3 minifigures – Includes LEGO DREAMZzz heroes Zoey, Cooper and the villainous Night Hunter, plus Sneak and Snivel figures
-- A transforming animal toy – LEGO DREAMZzz Zoey and Zian the Cat-Owl building set unlocks kids imaginations with 2 exciting building options
-- Play with Zian – With a posable head, legs and tail, the Zian figure makes it easy for kids to enjoy imaginative play with mythical creatures
 - LEGO gifts for 9+ year old boys, girls and kids – Young dreamers enjoy hours of play with this buildable toy for kids who love mythical creatures and fantasy animals
+- 3 minifigures – Includes LEGO DREAMZzz heroes Zoey, Cooper and the villainous Night Hunter, plus Sneak and Snivel figures
+- Inspired by LEGO DREAMZzz TV show – This small LEGO set lets kids immerse themselves in dream world adventures with toy owl and cat toy figure
+- A dream world of adventures – Explore other fantasy toys (sold separately) for kids in the LEGO DREAMZzz range, where kids can immerse themselves in the action and meet hero figures
+- Play with Zian – With a posable head, legs and tail, the Zian figure makes it easy for kids to enjoy imaginative play with mythical creatures
+- 1 set, 2 builds – This creative building toy lets kids choose their adventure by building Zian as a cat-owl or a cat-peacock fantasy animal figures
+- A transforming animal toy – LEGO DREAMZzz Zoey and Zian the Cat-Owl building set unlocks kids imaginations with 2 exciting building options
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW14VNG{{</world>}}

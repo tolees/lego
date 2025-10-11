@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geschenk für Kinder: Dieses Modell eines T.Rex aus Jurassic World ist für Fans gedacht, die Dinosaurier und Abenteuer lieben; Das Bauspielzeug ist eine coole Überraschung für Jungen und Mädchen ab 7 Jahren, die eine Belohnung verdient haben
-- LEGO Modell zur TV-Serie Jurassic World: Neue Abenteuer: LEGO Bausets sollen Kinder für Spielzeug-Dinosaurier begeistern, sie in ihrer Kreativität fördern und ein Talent fürs Geschichtenerzählen entwickeln lassen
-- Beweglicher LEGO Dinosaurier: Der Dino aus diesem Bauset zur Animationsserie Jurassic World: Die Chaostheorie kann sein Maul aufklappen und Kopf, Schwanz, Arme und Beine bewegen, um ihn in verschiedene Posen bringen zu können
 - Noch mehr Spielspaß: Dieses detailreiche Spielset lässt Dino-Fans besonders kreativ spielen, wenn sie die Figur mit anderen separat erhältlichen LEGO Sets und vor allem mit weiteren Jurassic Word Modellen kombinieren
 - Modell des Dinos Little Eatie: Das Set beinhaltet eine kleine baubare T.Rex-Figur aus der Animationsserie Jurassic World: Neue Abenteuer sowie ein Steak, das zu lustigen Rollenspielen und Geschichten inspiriert
 - Spielzeug-T.Rex: Little Eatie: T.Rex ist ein Bauset, das Kinder ab 7 Jahren ihre Begeisterung für Dino-Abenteuer entdecken und ausleben lässt; Der baubare Dino bietet unzählige coole Bau- und Ausstellungsmöglichkeiten
+- LEGO Modell zur TV-Serie Jurassic World: Neue Abenteuer: LEGO Bausets sollen Kinder für Spielzeug-Dinosaurier begeistern, sie in ihrer Kreativität fördern und ein Talent fürs Geschichtenerzählen entwickeln lassen
+- Beweglicher LEGO Dinosaurier: Der Dino aus diesem Bauset zur Animationsserie Jurassic World: Die Chaostheorie kann sein Maul aufklappen und Kopf, Schwanz, Arme und Beine bewegen, um ihn in verschiedene Posen bringen zu können
+- Geschenk für Kinder: Dieses Modell eines T.Rex aus Jurassic World ist für Fans gedacht, die Dinosaurier und Abenteuer lieben; Das Bauspielzeug ist eine coole Überraschung für Jungen und Mädchen ab 7 Jahren, die eine Belohnung verdient haben
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSD6SVQ{{</world>}}

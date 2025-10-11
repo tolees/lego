@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This collectible toy car model building kit is a wonderful birthday gift idea that will delight kids and fans of LEGO racing car models
+- A stunning collectible model of an iconic Italian hypercar, great for playing high speed adventures, and makes an eye-catching display piece
 - The cockpit of this LEGO race car toy can be opened to insert the race driver minifigure included in the set, with helmet and switchable hair
 - This LEGO Speed Champions car model building kit features a buildable replica of one of the worlds most iconic hypercars: the Pagani Utopia
+- This collectible toy car model building kit is a wonderful birthday gift idea that will delight kids and fans of LEGO racing car models
 - The toy car has features of the real hypercar: central 4-pipe exhaust, swooping bodywork, front grille, wheel arches and an engine beneath glass
-- A stunning collectible model of an iconic Italian hypercar, great for playing high speed adventures, and makes an eye-catching display piece
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS1KGWC{{</world>}}

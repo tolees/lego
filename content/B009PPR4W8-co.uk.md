@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fun features –The building toy includes a crane to access the side of the building for kids to work on the mural, plus a stage with a dancing function
-- Modular building toy – This LEGO Friends Heartlake City Community Centre toy for 9+ year old girls and boys features 5 floors, each with different areas for kids to explore
 - Customisable dolls house – The modular style of this building toy lets kids arrange the various levels to create their own design, then switch it up whenever they want
-- Creative accessories – The model building kit includes a sewing machine plus lots of music, art, gardening and gaming accessories so kids can create their own stories
 - Lots to explore – The building set features a music room, recording studio, chill out zone, art studio, pool and greenhouse, plus a slide and platform to move from one floor to another
 - Birthday gift idea for kids – This fun interactive toy makes a great gift idea for 9+ girls and boys who enjoy fun adventures with the characters from Heartlake City
+- Creative accessories – The model building kit includes a sewing machine plus lots of music, art, gardening and gaming accessories so kids can create their own stories
 - LEGO Friends mini dolls - Includes Paisley, Liann, Olly, Nova and Zac mini dolls along with a Pickle the dog figure, plus City mayor Stephanie
+- Modular building toy – This LEGO Friends Heartlake City Community Centre toy for 9+ year old girls and boys features 5 floors, each with different areas for kids to explore
+- Fun features –The building toy includes a crane to access the side of the building for kids to work on the mural, plus a stage with a dancing function
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B009PPR4W8{{</world>}}

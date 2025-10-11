@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De bouwbare tv is ca. 22,5 cm hoog, 23,5 cm breed en 16 cm diep. Samen met het model van de NES zijn het geweldige blikvangers voor thuis of op kantoor. Dit is ook een fantastisch LEGO cadeau voor vrienden die gamen.
-- Deze zeer gewilde verzamelset voor volwassenen maakt deel uit van een reeks inspirerende LEGO modelbouwsets die speciaal zijn ontworpen voor jou, de kritische hobbyist die op zoek is naar een nieuw meeslepend doe-het-zelfproject.
-- Dankzij de eenvoudig te volgen instructies kun je vol zelfvertrouwen aan de slag met bouwen, zelfs als je een beginnende LEGO bouwer bent. De set is inclusief een geïllustreerd boekje over de creatie van het Nintendo Entertainment System en klassieke NES-games.
-- Was je vroeger een echte NES-gamer, ben je dol op retro-objecten of op zoek naar een leuk, boeiend en creatief hobbyproject waarmee je je even helemaal kunt ontspannen? Dan is deze modelbouwset met 2646 onderdelen ideaal voor jou.
-- De tv heeft een handmatig schuivend scherm en als je de actiesteen scant door LEGO Mario (figuur niet inbegrepen) in de opening aan de bovenkant te plaatsen, reageert hij op de vijanden, obstakels en power-ups die op het scherm verschijnen.
 - Haal jeugdherinneringen op tijdens het bouwen van dit prachtig gedetailleerde Nintendo Entertainment System (71374) van LEGO stenen en de interactieve televisie in jaren 1980-stijl waarop de klassieke Super Mario Bros. game wordt getoond.
-- Geen batterijen nodig – combineer deze speelset met de LEGO Mario figuur in de LEGO Super Mario Avonturen met Mario startset (71360) om de interactieve functies van de tv te activeren.
 - Super Mario Bros. fans zullen de authentieke details van de NES-console in LEGO stijl, waaronder een controller en een sleuf die open kan voor de bouwbare Game Pak met een realistische vergrendelingsfunctie, zeker kunnen waarderen.
+- Was je vroeger een echte NES-gamer, ben je dol op retro-objecten of op zoek naar een leuk, boeiend en creatief hobbyproject waarmee je je even helemaal kunt ontspannen? Dan is deze modelbouwset met 2646 onderdelen ideaal voor jou.
+- De bouwbare tv is ca. 22,5 cm hoog, 23,5 cm breed en 16 cm diep. Samen met het model van de NES zijn het geweldige blikvangers voor thuis of op kantoor. Dit is ook een fantastisch LEGO cadeau voor vrienden die gamen.
+- De tv heeft een handmatig schuivend scherm en als je de actiesteen scant door LEGO Mario (figuur niet inbegrepen) in de opening aan de bovenkant te plaatsen, reageert hij op de vijanden, obstakels en power-ups die op het scherm verschijnen.
+- Dankzij de eenvoudig te volgen instructies kun je vol zelfvertrouwen aan de slag met bouwen, zelfs als je een beginnende LEGO bouwer bent. De set is inclusief een geïllustreerd boekje over de creatie van het Nintendo Entertainment System en klassieke NES-games.
+- Deze zeer gewilde verzamelset voor volwassenen maakt deel uit van een reeks inspirerende LEGO modelbouwsets die speciaal zijn ontworpen voor jou, de kritische hobbyist die op zoek is naar een nieuw meeslepend doe-het-zelfproject.
+- Geen batterijen nodig – combineer deze speelset met de LEGO Mario figuur in de LEGO Super Mario Avonturen met Mario startset (71360) om de interactieve functies van de tv te activeren.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09QFK3R2N{{</world>}}

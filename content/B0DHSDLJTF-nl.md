@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een speelgoed auto waar van alles te ontdekken valt – met deze LEGO voertuig set kunnen jonge bouwers hun eigen Corvette model in elkaar zetten voordat ze spelenderwijs de leuke functies van het voertuig ontdekken
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Een Corvette model om neer te zetten als kinderkamer decoratie – deze voertuigset heeft een levendig kleurenschema waarmee fans van sportwagens een opvallende blikvanger kunnen creëren
 - LEGO auto speelgoed voor kinderen vanaf 9 jaar – laat meisjes en jongens een coole sportauto bouwen met het LEGO Technic Chevrolet Corvette Stingray auto bouwpakket voor kinderen
+- Een speelgoed auto waar van alles te ontdekken valt – met deze LEGO voertuig set kunnen jonge bouwers hun eigen Corvette model in elkaar zetten voordat ze spelenderwijs de leuke functies van het voertuig ontdekken
 - Een cadeau voor jongens, meisjes en autofans – deze set is een geweldig cadeau voor kinderen die van speelgoedautos en rollenspellen houden en voor iedereen die zijn eigen LEGO Corvette Stingray wil bouwen
 - LEGO Chevrolet boordevol realistische kenmerken – deze Corvette model set bevat werkende besturing, een bewegende 8-cilindermotor, een differentieel en deuren en een motorkap die open kunnen
-- Een Corvette model om neer te zetten als kinderkamer decoratie – deze voertuigset heeft een levendig kleurenschema waarmee fans van sportwagens een opvallende blikvanger kunnen creëren
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDLJTF{{</world>}}

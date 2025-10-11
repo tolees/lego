@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kids can relive their favourite scenes with their favourite Black Panther characters, and when the action is over, the toys look great on display
-- Connects with all other LEGO Marvel Super Hero sets, plus its compact size makes this Black Panther playset an ideal travel toy - kids can take it anywhere
 - This LEGO Black Panther submarine building toy for kids, boys and girls aged 7 years old makes a great birthday gift for Marvel Avengers fans
-- This LEGO Marvel building toy features a toy submarine and King Namor’s Throne Room from Marvel Studios Black Panther: Wakanda Forever
+- Kids can relive their favourite scenes with their favourite Black Panther characters, and when the action is over, the toys look great on display
 - Kids can play out endless adventures with the 3 LEGO Marvel minifigures of Shuri, Attuma and King Namor, plus cool toy weapons and accessories
+- This LEGO Marvel building toy features a toy submarine and King Namor’s Throne Room from Marvel Studios Black Panther: Wakanda Forever
 - The submarine toy for kids features stud shooters and King Namors throne room is decorated with seaweed, fish and an opening shark jaw throne
+- Connects with all other LEGO Marvel Super Hero sets, plus its compact size makes this Black Panther playset an ideal travel toy - kids can take it anywhere
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BPGNHP4{{</world>}}

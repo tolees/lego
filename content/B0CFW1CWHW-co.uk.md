@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 6 stickers for each retro toy – The set comes with 6 stickers for kids to add to each ‘photo’: a bunch of flowers, a dog, a giraffe, a camper van, a roller skate and a motorcycle
-- More 3in1 fun – Expand the 3in1 fun with other LEGO Creator sets (sold separately), including amazing animals, cool vehicles and detailed city scenes
-- Endless creative play possibilities – Kids can dream up their own fun-filled stories with creative toys: a toy camera, a video camera and a TV
-- Feature-packed 3in1 toy – Camera has a moving lens, buttons, loadable film and strap; toy video camera has an opening flap and the TV has an antenna
 - LEGO 3in1 retro toys – Kids aged 8+ can build and rebuild three vintage tech models using the same bricks in this LEGO Creator Retro Camera set
-- Photography gifts – This fun 3in1 build-and-play experience is great as an unexpected reward or everyday gift for girls and boys aged 8+
+- 6 stickers for each retro toy – The set comes with 6 stickers for kids to add to each ‘photo’: a bunch of flowers, a dog, a giraffe, a camper van, a roller skate and a motorcycle
+- Feature-packed 3in1 toy – Camera has a moving lens, buttons, loadable film and strap; toy video camera has an opening flap and the TV has an antenna
+- Endless creative play possibilities – Kids can dream up their own fun-filled stories with creative toys: a toy camera, a video camera and a TV
 - Cool desk decoration – Once built, all 3 LEGO creative retro toys for girls and boys can stand alone and be displayed as kids bedroom accessories
+- More 3in1 fun – Expand the 3in1 fun with other LEGO Creator sets (sold separately), including amazing animals, cool vehicles and detailed city scenes
+- Photography gifts – This fun 3in1 build-and-play experience is great as an unexpected reward or everyday gift for girls and boys aged 8+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1CWHW{{</world>}}

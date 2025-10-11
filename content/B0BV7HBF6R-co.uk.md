@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Shin Hati’s Starfighter has an opening minifigure cockpit, 2 stud shooters, space for Shin Hati’s and Baylan Skoll’s lightsabers and a blaster pistol
 - With this LEGO Star Wars buildable toy set, Star Wars: Ahsoka fans can stage a showdown between Shin Hati’s Starfighter and New Republic E-Wing
-- Four LEGO Star Wars characters: Baylan Skoll, Shin Hati, Morgan Elsbeth, Captain Porter, plus a New Republic LEGO Astromech Droid figure and weapons
 - The LEGO Star Wars New Republic E-Wing has 2 stud shooters, minifigure cockpit with space behind for a droid figure and retractable landing gear
+- Shin Hati’s Starfighter has an opening minifigure cockpit, 2 stud shooters, space for Shin Hati’s and Baylan Skoll’s lightsabers and a blaster pistol
+- Four LEGO Star Wars characters: Baylan Skoll, Shin Hati, Morgan Elsbeth, Captain Porter, plus a New Republic LEGO Astromech Droid figure and weapons
 - Give this 1,056-piece LEGO Star Wars buildable toy set as a Christmas gift, birthday present or special treat to LEGO Star Wars minifigures and Star Wars: Ahsoka fans
 
 [🛒 Buy it!!]({{< param buyurl >}})

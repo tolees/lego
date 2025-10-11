@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bauspielzeug für Kinder, die gern spielen: In der Spielzeug-Straßenbahn befinden sich Sitze für mitfahrende Minifiguren und aufschiebbare Doppeltüren; Auf dem Bahnsteig der Haltestelle erleichtern ausfahrbare Brückenplatten das Einsteigen
-- LEGO City Spielzeug-Straßenbahn mit Zubehör: Dieses kreative Bauset beinhaltet neben der Straßenbahn auch LEGO Minifiguren-Zubehör für Rollenspiele, beispielsweise einen Rollstuhl, eine Kaffeetasse, eine Zeitung, ein Handy und ein Ticket
-- Stadt ohne Limits: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und kreativ mit Bauwerken, Fahrzeugen und Figuren spielen, die zum Bauen und Erkunden einladen
 - Inhalt der Box: Dieses LEGO City Fahrzeug-Spielzeug beinhaltet alles, was Kinder brauchen, um eine Spielzeug-Straßenbahn mit Bahnsteig und Coffee-Shop zu bauen, sowie 6 Minifiguren und einen Blindenhund
 - Digitales Bauerlebnis: Zu dem kreativen Kinderspielzeug sind auch Bauanleitungen in der LEGO Builder App verfügbar; In der App können Kinder beim Bauen 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern
-- Geschenkidee für kreative Kinder: Dieses LEGO City Straßenbahn-Bauset ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Jungen, Mädchen und Straßenbahnfans ab 7 Jahren
+- LEGO City Spielzeug-Straßenbahn mit Zubehör: Dieses kreative Bauset beinhaltet neben der Straßenbahn auch LEGO Minifiguren-Zubehör für Rollenspiele, beispielsweise einen Rollstuhl, eine Kaffeetasse, eine Zeitung, ein Handy und ein Ticket
+- Stadt ohne Limits: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und kreativ mit Bauwerken, Fahrzeugen und Figuren spielen, die zum Bauen und Erkunden einladen
+- Bauspielzeug für Kinder, die gern spielen: In der Spielzeug-Straßenbahn befinden sich Sitze für mitfahrende Minifiguren und aufschiebbare Doppeltüren; Auf dem Bahnsteig der Haltestelle erleichtern ausfahrbare Brückenplatten das Einsteigen
 - Straßenbahn-Spielset: Fans von Straßen- und Eisenbahnen werden die LEGO City Straßenbahn mit Haltestelle für Jungen und Mädchen ab 7 Jahren lieben
+- Geschenkidee für kreative Kinder: Dieses LEGO City Straßenbahn-Bauset ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Jungen, Mädchen und Straßenbahnfans ab 7 Jahren
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH283WW{{</world>}}

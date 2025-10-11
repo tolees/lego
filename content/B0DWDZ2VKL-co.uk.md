@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Fortnite toy for 7+ year old boys and girls – The LEGO Fortnite Peely & Sparkplug’s Camp building set is great for kids who love creative adventures, gaming and collecting Fortnite figures
-- Fortnite gift for fans – A great gaming gift for 7+ year old boys and girls who love the Fortnite video game, creative building toys and LEGO minifigures featuring iconic characters
 - Video game building set – Based on the LEGO Fortnite Odyssey video game, this set includes a campfire, workbench and modular ruins with walls, doorframe and rock elements that can be reconfigured
-- Expand your display – Combine with other LEGO Fortnite building sets (sold separately) to create a gaming-inspired display or extend the action in imaginative ways
+- Fortnite gift for fans – A great gaming gift for 7+ year old boys and girls who love the Fortnite video game, creative building toys and LEGO minifigures featuring iconic characters
 - Bonus in-game item for gamers – Comes with a redeemable QR code that unlocks a Sparkplug Outfit in the LEGO Fortnite video game, offering extra fun for fans of both brick-building and gaming
+- Fortnite toy for 7+ year old boys and girls – The LEGO Fortnite Peely & Sparkplug’s Camp building set is great for kids who love creative adventures, gaming and collecting Fortnite figures
 - Discover LEGO Fortnite – Bring the gaming world to life with LEGO Fortnite sets, designed to unlock creativity and storytelling for gamers who enjoy interactive, hands-on play
+- Expand your display – Combine with other LEGO Fortnite building sets (sold separately) to create a gaming-inspired display or extend the action in imaginative ways
 - Fortnite figures and minifigures – Includes Peely, Sparkplug and skeleton LEGO minifigures, a Supply Llama figure and a wolf with movable legs and tail for action-packed play
 
 [🛒 Buy it now!!]({{< param buyurl >}})

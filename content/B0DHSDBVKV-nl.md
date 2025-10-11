@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bouw meer bloemen – dit bouwbare boeket kan worden gecombineerd met andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection
 - LEGO Builder app – deze set bevat gedrukte en digitale versies van de bouwinstructies voor een boeiende bouwervaring
-- Schik het LEGO boeket – elke LEGO bloem heeft een verstelbare steel, zodat bouwers een persoonlijk boeket kunnen maken door hun creatie te schikken en te herschikken
-- LEGO bloemendecor – eenmaal voltooid vormt deze LEGO bloemenset een kleurrijk stukje decoratie voor thuis of op kantoor, dat je zonder water in een vaas kunt zetten (niet inbegrepen)
-- Bloemen decoratie – laat je creativiteit opbloeien met het LEGO Botanicals Roze boeket, een op de natuur geïnspireerde decoratief kunstbloemen bouwpakket voor volwassenen
+- Bouw meer bloemen – dit bouwbare boeket kan worden gecombineerd met andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection
 - LEGO bloemen – de set bevat 15 bouwbare bloemstelen, waaronder madeliefjes, korenbloemen, eucalyptus, vlierbloesem, rozen, ranonkels, orchideeën, een campanula en een waterleliedahlia
+- LEGO bloemendecor – eenmaal voltooid vormt deze LEGO bloemenset een kleurrijk stukje decoratie voor thuis of op kantoor, dat je zonder water in een vaas kunt zetten (niet inbegrepen)
+- Schik het LEGO boeket – elke LEGO bloem heeft een verstelbare steel, zodat bouwers een persoonlijk boeket kunnen maken door hun creatie te schikken en te herschikken
+- Bloemen decoratie – laat je creativiteit opbloeien met het LEGO Botanicals Roze boeket, een op de natuur geïnspireerde decoratief kunstbloemen bouwpakket voor volwassenen
 - Cadeau voor haar en hem met natuurthema – het LEGO boeket is een prachtig geschenk voor bloemenliefhebbers en heel geschikt als valentijnscadeau, moederdagcadeau of housewarmingcadeau
 
 [🛒 Check the deal!!]({{< param buyurl >}})

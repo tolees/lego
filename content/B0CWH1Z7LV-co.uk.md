@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Buildable Star Wars toy for 8+ year old boys and girls – Includes a blue milk carton and banana element that fit in the storage compartment
-- Star Wars Jedi starfighter – Opening cockpit with a storage compartment, 2 spring-loaded shooters, clips for lightsabers and retractable landing gear
-- LEGO gift idea for kids – Give this brick-built adventure toy set as a birthday gift for 8+ year old boys, girls and any fan of Star Wars sets and Jedi Bob
-- Part of the LEGO Star Wars: Rebuild the Galaxy collection – Look out for 75389 The Dark Falcon and 75393 TIE Fighter & X-Wing Mash-up sets, sold separately
-- 2 LEGO Star Wars minifigures – Jedi Bob with a lightsaber, an Ackbar Trooper with a blaster, plus a Servo (SR-V0) LEGO droid Star Wars figure
 - LEGO Star Wars buildable toy set for kids – Build Jedi Bob’s Starfighter, as seen in the LEGO Star Wars: Rebuild the Galaxy Disney+ special
+- 2 LEGO Star Wars minifigures – Jedi Bob with a lightsaber, an Ackbar Trooper with a blaster, plus a Servo (SR-V0) LEGO droid Star Wars figure
+- Part of the LEGO Star Wars: Rebuild the Galaxy collection – Look out for 75389 The Dark Falcon and 75393 TIE Fighter & X-Wing Mash-up sets, sold separately
+- Star Wars Jedi starfighter – Opening cockpit with a storage compartment, 2 spring-loaded shooters, clips for lightsabers and retractable landing gear
+- Buildable Star Wars toy for 8+ year old boys and girls – Includes a blue milk carton and banana element that fit in the storage compartment
+- LEGO gift idea for kids – Give this brick-built adventure toy set as a birthday gift for 8+ year old boys, girls and any fan of Star Wars sets and Jedi Bob
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH1Z7LV{{</world>}}

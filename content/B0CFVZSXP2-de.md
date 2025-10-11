@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Minecraft Set im Wüstenbiom mit Kamel-Spielzeug: Beinhaltet vertraute Minecraft-Elemente, beispielsweise eine Werkbank, eine Hütte, ein Lagerfeuer, eine verzauberte Axt, ein Babykamel sowie einen kleinen Spielzeugkaktus
 - Spielzeug für selbstständige Rollenspiele: Dieses Minecraft Geschenk lässt sich rasch bauen und umgestalten. Nach all den Abenteuern in der Wüste können die Minecraft-Spieler das Modell einfach in ihrem Zimmer ausstellen
-- Bauspielzeug mit Minecraft-Figuren: Beinhaltet eine LEGO Minecraft Steve-Figur, ein fliegendes Phantom mit beweglichen Flügeln und zum allerersten Mal auch ein Babykamel
+- Minecraft Set im Wüstenbiom mit Kamel-Spielzeug: Beinhaltet vertraute Minecraft-Elemente, beispielsweise eine Werkbank, eine Hütte, ein Lagerfeuer, eine verzauberte Axt, ein Babykamel sowie einen kleinen Spielzeugkaktus
 - Minecraft Action in der echten Welt: LEGO Minecraft Action-Spielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
+- Bauspielzeug mit Minecraft-Figuren: Beinhaltet eine LEGO Minecraft Steve-Figur, ein fliegendes Phantom mit beweglichen Flügeln und zum allerersten Mal auch ein Babykamel
 - LEGO Minecraft Bau-Spielzeug für Kinder: Dieses LEGO Minecraft Set stellt Jungs und Mädchen ab 6 Jahren vor die Herausforderung, zum ersten Mal ein Minecraft-Haus im Wüstenbiom zu bauen und es vor dem fliegenden Phantom zu beschützen
 - Geschenk für Gamer und Kinder ab 6 Jahren: Überrasche Minecraft-Spieler mit diesem vielseitigen Gamer-Geschenk, das LEGO Minecraft-Figuren und ein Biom zum Bauen und Ausstellen beinhaltet; überrasche einen Fan zum Geburtstag oder zu Weihnachten
 

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De talloze accessoires bij dit reisspeelgoed helpen kinderen van 6+ jaar om leuke verhalen te bedenken met de poppetjes: er is een kookboek, mengkom, lepel, flessen, een camera en een coole lamp voor de camera
-- Kinderen kunnen spelen dat ze videomakers zijn met deze LEGO Friends Leos kamer speelset, inclusief studio en camera-apparatuur, een bakgedeelte met alle benodigdheden om heerlijke taarten te bakken, plus 2 minipoppetjes en een kattenfiguur
-- De speelset is inclusief LEGO Friends minipoppetjes: bakfanaat Leo en video-expert Olly, die hem helpt met filmen, plus Churro de kat - laat het speelgoed huisdier spelen door aan een hendel te draaien zodat het vissenspeeltje beweegt
-- Leos huis bevindt zich bij Harmony Beach in Heartlake City, dus er zijn leuke strandaccessoires te vinden in de slaapkamerinrichting, zoals een surfboard; daarnaast zijn er stapelbedden en een plek waar kinderen kunnen voetballen na het filmen
-- In 2023 introduceert LEGO Friends een nieuwe generatie, met personages uit de serie, leuke activiteiten en plekken, geïnspireerd op de interesses en passies van kinderen
 - Dit speelgoed om te verzamelen is onderdeel van een collectie LEGO Friends slaapkamer speelsets; kinderen kunnen alle kamers van de vrienden in Heartlake City verkennen, zoals Aliyas kamer (41740) of Novas kamer (41755)
+- Kinderen kunnen spelen dat ze videomakers zijn met deze LEGO Friends Leos kamer speelset, inclusief studio en camera-apparatuur, een bakgedeelte met alle benodigdheden om heerlijke taarten te bakken, plus 2 minipoppetjes en een kattenfiguur
+- Leos huis bevindt zich bij Harmony Beach in Heartlake City, dus er zijn leuke strandaccessoires te vinden in de slaapkamerinrichting, zoals een surfboard; daarnaast zijn er stapelbedden en een plek waar kinderen kunnen voetballen na het filmen
+- De speelset is inclusief LEGO Friends minipoppetjes: bakfanaat Leo en video-expert Olly, die hem helpt met filmen, plus Churro de kat - laat het speelgoed huisdier spelen door aan een hendel te draaien zodat het vissenspeeltje beweegt
+- In 2023 introduceert LEGO Friends een nieuwe generatie, met personages uit de serie, leuke activiteiten en plekken, geïnspireerd op de interesses en passies van kinderen
+- De talloze accessoires bij dit reisspeelgoed helpen kinderen van 6+ jaar om leuke verhalen te bedenken met de poppetjes: er is een kookboek, mengkom, lepel, flessen, een camera en een coole lamp voor de camera
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ39ZD{{</world>}}

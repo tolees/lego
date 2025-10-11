@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Jede Menge Zubehör für viele Freundschaftsgeschichten: Enthält ein Hubschrauber-Spielzeug für Kinder, ein Röntgengerät, einen Rollstuhl, einen Verband, Gipsverbände, eine Spritze, Kinderbetten, Nuckelflaschen, Luftballons, Pralinen und Blumen
-- Freundschaftsgeschichten: Erlebe noch mehr Spaß mit weiteren (separat erhältlichen) LEGO Friends Sets
-- Krankenhaus-Spielzeug für Kinder: Das LEGO Friends Heartlake City Krankenhaus lässt Mädchen und Jungen, die Arzt-Spielzeug lieben, viele Stunden kranke Patienten pflegen
 - Geschenk für Kinder, die Rollenspiele lieben: Dieses LEGO Friends Krankenhaus ist ein umfangreiches Spielzeug für 7-Jährige und macht zum Beispiel als Geburtstagsgeschenk für Kinder eine große Freude
+- Freundschaftsgeschichten: Erlebe noch mehr Spaß mit weiteren (separat erhältlichen) LEGO Friends Sets
 - LEGO Friends Figuren: Das Kinderspielzeug beinhaltet 5 Minipuppen, darunter auch LEGO Friends Autumn mit einem zusätzlichen Gesicht, um ihre Freude über die neue Prothese zu zeigen, sowie 2 Babys, einen Roboter und einen LEGO Friends Hund
+- Krankenhaus-Spielzeug für Kinder: Das LEGO Friends Heartlake City Krankenhaus lässt Mädchen und Jungen, die Arzt-Spielzeug lieben, viele Stunden kranke Patienten pflegen
 - Entbindungsstation und funktionierender Aufzug: Baue mit dem Baukasten die verschiedenen Bereiche eines Krankenhauses, unter anderem ein Behandlungszimmer, eine Entbindungsstation, ein Röntgenzimmer, einen Aufzug und einen Pausenraum fürs Personal
+- Jede Menge Zubehör für viele Freundschaftsgeschichten: Enthält ein Hubschrauber-Spielzeug für Kinder, ein Röntgengerät, einen Rollstuhl, einen Verband, Gipsverbände, eine Spritze, Kinderbetten, Nuckelflaschen, Luftballons, Pralinen und Blumen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYXRYP{{</world>}}

@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - This racing toy features awesome fierce pup design, colours and sticker details for an authentic finish to the fan favourite Monster Jam truck
-- When its time for something new, kids can rebuild this Monster Mutt Dalmatian truck model into a Racing Truck toy for twice the fun
-- Kids pull back the monster truck to launch it for fast pace races or to recreate epic tricks and jumps they’ve seen in the Monster Jam arenas
-- This LEGO Technic off-road vehicle set provides an introduction to engineering and mechanics for LEGO and Monster jam fans age 7 plus years old
 - This LEGO Technic Monster Jam Monster Truck toy set features a 2-in-1 pull-back action truck that can be rebuilt into a model racing truck toy
+- Kids pull back the monster truck to launch it for fast pace races or to recreate epic tricks and jumps they’ve seen in the Monster Jam arenas
+- When its time for something new, kids can rebuild this Monster Mutt Dalmatian truck model into a Racing Truck toy for twice the fun
+- This LEGO Technic off-road vehicle set provides an introduction to engineering and mechanics for LEGO and Monster jam fans age 7 plus years old
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRXFL11{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Harry Potter Hedwig 75979
-- This LEGO Harry Potter set doesnt need any batteries. The moving wings are powered purely by a hand-turned mechanism at the rear of the toy.
-- With a wingspan of over 13 (34cm) and a beak-to-tail measurement of over 7 (20cm), this mechanical Hedwig collectible LEGO set makes an impressive display that is sure to be the center of attention.
-- This authentic toy shows Hedwig the snowy owl delivering an important letter from Hogwarts. Also included is a detachable LEGO Harry Potter minifigure and a mini Hedwig toy.
 - Harry Potter fans will be captivated by the collectible LEGO Hedwig (75979) toy. The model includes impressive detail and a mechanism that makes the jointed wings move gracefully up and down
+- This LEGO Harry Potter set doesnt need any batteries. The moving wings are powered purely by a hand-turned mechanism at the rear of the toy.
+- LEGO Harry Potter Hedwig 75979
+- This authentic toy shows Hedwig the snowy owl delivering an important letter from Hogwarts. Also included is a detachable LEGO Harry Potter minifigure and a mini Hedwig toy.
+- With a wingspan of over 13 (34cm) and a beak-to-tail measurement of over 7 (20cm), this mechanical Hedwig collectible LEGO set makes an impressive display that is sure to be the center of attention.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08HGWHNGN{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Friends sets – Check out other creative building toys for kids in the LEGO Friends collection (sold separately), where young builders discover diverse characters as they act out real-life adventures
+- Kids’ toy food accessories – The cooking toy set comes with a croissant, 2 macarons, cookies, a cookie container, coffee machine, coffee cup, hot chocolate, mug, cup of tea, coin, book and a bone
+- Measurements – 125-piece set with cart measuring over 2.5 in. (6 cm) high, 3 in. (8 cm) long and 1.5 in. (4 cm) wide
+- Wheelable cart – Kids place Jules in the driver’s seat of the mobile food cart and wheel the toy vehicle into position, then act out the story as Jules stands behind the counter to serve customers
 - LEGO Friends Mobile Bakery Food Cart set – Includes 2 mini-dolls, a dog figure, a cart and lots of toy bakery accessories for girls, boys and kids ages 6 and up
 - 2 mini-dolls – Set includes LEGO Friends Aliya and Jules mini-dolls, plus a pet dog figure, so the creative play can start right away
-- Measurements – 125-piece set with cart measuring over 2.5 in. (6 cm) high, 3 in. (8 cm) long and 1.5 in. (4 cm) wide
-- Kids’ toy food accessories – The cooking toy set comes with a croissant, 2 macarons, cookies, a cookie container, coffee machine, coffee cup, hot chocolate, mug, cup of tea, coin, book and a bone
-- Wheelable cart – Kids place Jules in the driver’s seat of the mobile food cart and wheel the toy vehicle into position, then act out the story as Jules stands behind the counter to serve customers
+- LEGO Friends sets – Check out other creative building toys for kids in the LEGO Friends collection (sold separately), where young builders discover diverse characters as they act out real-life adventures
 - A small gift for kids – This set makes a fun birthday gift or anytime treat for girls, boys and kids who love food toy playsets and cooking pretend play
 
 [🛒 Buy it!!]({{< param buyurl >}})

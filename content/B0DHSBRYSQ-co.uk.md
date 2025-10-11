@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Magical collection – LEGO Harry Potter toys for girls and boys let young witches, wizards and Muggles play out iconic scenes, make up their own stories or display the models
+- Detailed LEGO model of the Knight Bus – The upper levels of the bus toy can be detached to access the interior with moving beds and a swinging chandelier
+- Magical LEGO Harry Potter toy – Kids can build the iconic Harry Potter Knight Bus toy for 8+ year old girls and boys and recreate scenes from Harry Potter and the Prisoner of Azkaban
 - Fun way to build – LEGO Builder app guides kids on an intuitive building adventure, where they can zoom in and rotate models in 3D, track progress and save sets
 - Playful details – The building set includes a lamppost and bench, Harry’s trunk with a Galleon coin element, a letter from Hogwarts and a Daily Prophet newspaper element
-- Magical LEGO Harry Potter toy – Kids can build the iconic Harry Potter Knight Bus toy for 8+ year old girls and boys and recreate scenes from Harry Potter and the Prisoner of Azkaban
-- Detailed LEGO model of the Knight Bus – The upper levels of the bus toy can be detached to access the interior with moving beds and a swinging chandelier
 - Birthday gift for kids – This LEGO Harry Potter building toy is a fun gift for 8+ year old girls, boys and fans of the Wizarding World and LEGO vehicles
+- Magical collection – LEGO Harry Potter toys for girls and boys let young witches, wizards and Muggles play out iconic scenes, make up their own stories or display the models
 - 5 LEGO Harry Potter characters – Includes LEGO Harry Potter, Ernie Prang, Stan Shunpike and sleeping witch minifigures, plus a Padfoot figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})

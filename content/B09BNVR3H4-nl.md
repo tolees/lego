@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met de gratis LEGO Bouwinstructies-app kunnen beginnende bouwers op het model visualiseren, draaien en erop inzoomen, zo beleven ze nog meer bouwplezier!
-- De speelgoednatuursets van LEGO Friends stimuleren het milieubewustzijn van kinderen - deze set is geweldig verjaardagscadeau, maar ook een leuke verrassing voor zomaar tussendoor, voor meisjes en jongens vanaf 6 jaar
-- Beginnende tuiniers kunnen de gieter vullen met de ouderwetse handpomp, de grond spitten met de spade of eikeltjes voeren aan de eekhoorns
-- Inclusief 2 minipoppetjes en 5 figuren van wilde dieren - kinderen kunnen deze set ook combineren met ander LEGO Friends speelgoed, zoals Woonboot (41702) en Vriendschapsboomhut (41703)
-- Bij deze leuke set met bomenplantwagen zit ook een kas, waar jongen boompjes geplant kunnen worden, en een heleboel tuingereedschap
-- De rijdende pick-uptruck heeft een takelarm, een laadklep die open kan en een dak dat eraf kan, zodat kinderen de minipoppetjes achter het stuur kunnen zetten
 - Dit LEGO natuurspeelgoed bevat een boomkwekerij, een rijdende pick-uptruck en heel wat leuke tuinaccessoires
+- De speelgoednatuursets van LEGO Friends stimuleren het milieubewustzijn van kinderen - deze set is geweldig verjaardagscadeau, maar ook een leuke verrassing voor zomaar tussendoor, voor meisjes en jongens vanaf 6 jaar
+- Inclusief 2 minipoppetjes en 5 figuren van wilde dieren - kinderen kunnen deze set ook combineren met ander LEGO Friends speelgoed, zoals Woonboot (41702) en Vriendschapsboomhut (41703)
+- Met de gratis LEGO Bouwinstructies-app kunnen beginnende bouwers op het model visualiseren, draaien en erop inzoomen, zo beleven ze nog meer bouwplezier!
+- De rijdende pick-uptruck heeft een takelarm, een laadklep die open kan en een dak dat eraf kan, zodat kinderen de minipoppetjes achter het stuur kunnen zetten
+- Bij deze leuke set met bomenplantwagen zit ook een kas, waar jongen boompjes geplant kunnen worden, en een heleboel tuingereedschap
+- Beginnende tuiniers kunnen de gieter vullen met de ouderwetse handpomp, de grond spitten met de spade of eikeltjes voeren aan de eekhoorns
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BNVR3H4{{</world>}}

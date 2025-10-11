@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Entdecke neue Interessen: Schau dir unbedingt die anderen separat erhältlichen LEGO Wicked Fantasy-Sets an, die auch in der LEGO Builder App enthalten sind, die Kinder auf ein spannendes Bauabenteuer mitnimmt
-- Basiert auf dem Film und Musical Wicked: Freu dich auf ein völlig neues Spielerlebnis und scanne den im Set versteckten QR-Code, um auf den Filmhit „Defying Gravity“ sowie auf besondere LEGO Wicked Inhalte zugreifen zu können
-- Fantasy-Spielzeug für Kinder: Elphaba und Glinda ist ein Set, das die Magie des Films Wicked ins Kinderzimmer holt. Das Spielset beinhaltet bewegliche Figuren zum Ausstellen, die 2 der wichtigsten Charaktere des Films detailgetreu darstellen
-- Geschenkidee für Kinder ab 10 Jahren und für Fans des Musicals und Films Wicked: Dieses Bauset ist ein tolles Geschenk für Mädchen und Jungen, die Rollenspiele lieben und gern Freundschaftsgeschichten darstellen
-- Bau- und Spielset zum Wicked Film und Musical: Kinder können die beiden Figuren der Hexen von Oz bauen und die legendäre Filmszene nachstellen oder sich eigene neue LEGO Wicked Abenteuer im Land Oz ausdenken
 - Hol dir die Magie des Films in dein Zimmer: LEGO Wicked Sets lassen Mädchen, Jungen und Fans des Films Wicked die Freundschaftsabenteuer nachstellen, die die gute Hexe des Südens Elphaba und die böse Hexe des Westens Glinda im Land Oz erleben
+- Fantasy-Spielzeug für Kinder: Elphaba und Glinda ist ein Set, das die Magie des Films Wicked ins Kinderzimmer holt. Das Spielset beinhaltet bewegliche Figuren zum Ausstellen, die 2 der wichtigsten Charaktere des Films detailgetreu darstellen
+- Basiert auf dem Film und Musical Wicked: Freu dich auf ein völlig neues Spielerlebnis und scanne den im Set versteckten QR-Code, um auf den Filmhit „Defying Gravity“ sowie auf besondere LEGO Wicked Inhalte zugreifen zu können
+- Geschenkidee für Kinder ab 10 Jahren und für Fans des Musicals und Films Wicked: Dieses Bauset ist ein tolles Geschenk für Mädchen und Jungen, die Rollenspiele lieben und gern Freundschaftsgeschichten darstellen
+- Entdecke neue Interessen: Schau dir unbedingt die anderen separat erhältlichen LEGO Wicked Fantasy-Sets an, die auch in der LEGO Builder App enthalten sind, die Kinder auf ein spannendes Bauabenteuer mitnimmt
 - Echte Filmmagie: Kinder können mit diesem Bauset die Figuren Elphaba und Glinda bauen, mit dem Spielzeugbesen, der Krone und der Handtasche ausstatten und in die richtigen Posen bringen, um die legendäre Filmszene nachzustellen
+- Bau- und Spielset zum Wicked Film und Musical: Kinder können die beiden Figuren der Hexen von Oz bauen und die legendäre Filmszene nachstellen oder sich eigene neue LEGO Wicked Abenteuer im Land Oz ausdenken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH34HB5{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The colourful beach buggy toy car has a cool box on the back with a banana and ice cream while the wave element includes a buildable palm tree
-- This LEGO Friends mini-dolls playset toy for kids, girls and boys aged 4+ lets little builders learn through play as they act beachfront adventures
 - LEGO 4+ sets for beginners contain Starter Brick ‘quick-start’ elements; digital instructions on the LEGO Builder app help build with confidence
 - Includes LEGO Friends characters Liann and Zac mini-dolls with a surf board, a pet pug dog figure with a bone and water bowl plus a dolphin figure
+- This LEGO Friends mini-dolls playset toy for kids, girls and boys aged 4+ lets little builders learn through play as they act beachfront adventures
 - Introduce kids 4+ to the world of LEGO Friends with this Beach Buggy Fun mini-doll playset featuring a toy car, surf board and 2 animal figures
+- The colourful beach buggy toy car has a cool box on the back with a banana and ice cream while the wave element includes a buildable palm tree
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCB975D{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Noch mehr Spaß: Dieses Spielset kann mit anderen separat erhältlichen LEGO Fortnite Modellen zu einem spektakulären großen Gaming-Ausstellungsstück kombiniert werden
-- In-Game-Bonus: Als Bonus für das Videospiel LEGO Fortnite beinhaltet das Lernspielzeug ein Zündkerzenkünstlerin-Outfit, das die Baumeister freischalten können, indem sie den QR-Code auf der Bauanleitung scannen
 - Entdecke LEGO Fortnite: Unsere Kollektion aus LEGO Fortnite Sets lässt dich besonders kreativ spielen und die Abenteuer aus dem Videospiel in die echte Welt holen
 - LEGO Spielzeug zum Videospiel: Das Set mit Lagerfeuer, Werkbank und Ruinen ist den ersten Herausforderungen nachempfunden, die Spieler im Videospiel LEGO Fortnite Odyssey meistern müssen
-- Minifiguren aus dem Videospiel: 3 LEGO Figuren – Schali, die Zündkerzenkünstlerin und ein Skelett – sowie ein Vorratslama und ein Wolf, der Schwanz und Beine bewegen kann, lassen Kinder verschiedene Szenen darstellen
 - LEGO Fortnite Spielset: LEGO Fortnite Das Lager von Schali und der Zündkerzenkünstlerin ist ein Bauset, das Kinder ab 7 Jahren fantasievoll spielen lässt
+- Noch mehr Spaß: Dieses Spielset kann mit anderen separat erhältlichen LEGO Fortnite Modellen zu einem spektakulären großen Gaming-Ausstellungsstück kombiniert werden
 - Gamer Geschenk: Der Baukasten ist ein tolles Geschenk für Jungen und Mädchen, die Videospiele lieben, sowie für LEGO Fortnite Fans jeden Alters
+- In-Game-Bonus: Als Bonus für das Videospiel LEGO Fortnite beinhaltet das Lernspielzeug ein Zündkerzenkünstlerin-Outfit, das die Baumeister freischalten können, indem sie den QR-Code auf der Bauanleitung scannen
+- Minifiguren aus dem Videospiel: 3 LEGO Figuren – Schali, die Zündkerzenkünstlerin und ein Skelett – sowie ein Vorratslama und ein Wolf, der Schwanz und Beine bewegen kann, lassen Kinder verschiedene Szenen darstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDZ2VKL{{</world>}}

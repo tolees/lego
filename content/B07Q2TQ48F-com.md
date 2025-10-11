@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Detailed Interior Design - Interior details include a cargo area with 2 containers, navigation computer with rotating chair, hidden smuggling compartment, and a hyperdrive for an immersive Star Wars experience.
+- Rotating Turrets Included - Features a rotating top/bottom turrets (bottom one fits 2 minifigures), 2 spring-loaded shooters, a lowering ramp, and an opening cockpit for an action-packed play experience.
 - Seven Iconic Characters - Comes with 7 characters: Finn, Chewbacca, Lando Calrissian, C-3PO, and Boolio minifigures, plus fan-favorite D-O and R2-D2 LEGO figures for a complete Star Wars collection.
 - Additional Model Features - This Corellian freighter model also includes a couch and Dejarik hologame table, galley, bunk, and the hyperdrives repair tools for added play.
-- Rotating Turrets Included - Features a rotating top/bottom turrets (bottom one fits 2 minifigures), 2 spring-loaded shooters, a lowering ramp, and an opening cockpit for an action-packed play experience.
+- Detailed Interior Design - Interior details include a cargo area with 2 containers, navigation computer with rotating chair, hidden smuggling compartment, and a hyperdrive for an immersive Star Wars experience.
 - Impressive Piece Count - With 1,351 pieces, this cool LEGO building toy packs so much detail into its over 5” (14cm) high, 17” (44cm) long, and 12” (32cm) wide form, perfect for fans of the series.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

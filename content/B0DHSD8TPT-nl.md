@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Minecraft in het echt – met LEGO Minecraft bouwspeelgoed voor kinderen beleven spelers de game op een andere manier met mobs, omgevingen en kenmerken die tot leven worden gebracht met LEGO stenen
-- LEGO Minecraft bouwpakket voor kinderen – het de Ghast-ballon aanval op het dorp speelgoed voor kinderen is een creatieve bouw- en speelset voor jongens en meisjes vanaf 10 jaar, die is gebaseerd op een scène uit de Minecraft film
-- 3D-bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
 - LEGO Minecraft game set voor tieners – als piglins projectielen afvuren vanuit hun Ghast-ballon, ontploft de fontein en moeten kinderen de dorpelingen en Steves gefrituurde kiprestaurant en craftinghut verdedigen
-- Minecraft speelgoed figuren – deze Minecraft videogame set bevat Minecraft minifiguren van Steve, Natalie, Dawn en een dorpeling, plus een Ghast-ballon, een kuiken, 2 piglins en een verstelbare figuur van een ijzergolem
+- 3D-bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
 - Minecraft cadeau voor gamers – dit gaming speelgoed voor kinderen van 10 jaar en ouder is een geweldig cadeau voor fans van de Minecraft film
+- LEGO Minecraft bouwpakket voor kinderen – het de Ghast-ballon aanval op het dorp speelgoed voor kinderen is een creatieve bouw- en speelset voor jongens en meisjes vanaf 10 jaar, die is gebaseerd op een scène uit de Minecraft film
+- Minecraft speelgoed figuren – deze Minecraft videogame set bevat Minecraft minifiguren van Steve, Natalie, Dawn en een dorpeling, plus een Ghast-ballon, een kuiken, 2 piglins en een verstelbare figuur van een ijzergolem
 - Interactief speelgoed voor 10 jaar en ouder – op het dak van het restaurant staat een groot kippenmodel met een leuke functie voor het leggen van eieren
 
 [🛒 Buy it now!!]({{< param buyurl >}})

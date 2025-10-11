@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Role-play toy with jobs around the farm – Kids help the LEGO Friends characters harvest vegetables, care for animals and make strawberry jam
-- More fun for little builders – Check out other LEGO Friends sets (sold separately), for more storytelling fun and creative adventures
-- Gift idea for kids – This LEGO Friends set makes a fun Christmas or anytime gift for 6+ year old girls, boys and kids who love animal toys and LEGO
-- Lots of accessories for kids – Toy food (carrots and strawberries) plus jars, a pitchfork, brush, broom, shovel, eggs, a haystack and a lantern
-- A helping hand – Discover intuitive instructions in the LEGO Builder app, where kids can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
 - Characters and animal figures – Animal playset includes 3 LEGO Friends characters and 5 farm animal toys, so the creative play can start right away
 - Farm animal toys – This farm toy for 6+ year old girls, boys and kids comes with 2 mini-dolls, 1 micro-doll, animal figures and a tractor toy
+- More fun for little builders – Check out other LEGO Friends sets (sold separately), for more storytelling fun and creative adventures
+- Lots of accessories for kids – Toy food (carrots and strawberries) plus jars, a pitchfork, brush, broom, shovel, eggs, a haystack and a lantern
+- Gift idea for kids – This LEGO Friends set makes a fun Christmas or anytime gift for 6+ year old girls, boys and kids who love animal toys and LEGO
+- A helping hand – Discover intuitive instructions in the LEGO Builder app, where kids can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
+- Role-play toy with jobs around the farm – Kids help the LEGO Friends characters harvest vegetables, care for animals and make strawberry jam
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1XJMQ{{</world>}}
