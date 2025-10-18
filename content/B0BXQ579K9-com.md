@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 3 characters and accessories – The set comes with 3 mini doll LEGO Friends characters Aliya, Paisley and Ella, plus 2 sled dog characters and lots of accessories for role play
 - A new generation of Heartlake City – In January 2023, the LEGO Friends universe expanded to introduce new characters and new locations to inspire more role-play adventures
 - Inspire imaginative play – Kids can create winter themed adventures for the characters using the camera, snowshoes, bowl with cookies, lava lamp, 2 cups of cocoa and firewood accessories
-- Measurements – The igloo measures over 3.5 in. (10 cm) high, 5.5 in. (14 cm) wide and 5 in. (13 cm) deep
-- 3 characters and accessories – The set comes with 3 mini doll LEGO Friends characters Aliya, Paisley and Ella, plus 2 sled dog characters and lots of accessories for role play
-- A gift for kids – This igloo building toy for kids makes a fun birthday, holiday, or anytime gift for 8-10 year old kids who love playing in the snow, glamping adventures and role play
-- Creative fun – Kids who love playing in the snow, glamping or storytelling can have lots of fun with this LEGO Friends Igloo Holiday Adventure building toy set for kids ages 8+ (41760)
 - A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
+- Creative fun – Kids who love playing in the snow, glamping or storytelling can have lots of fun with this LEGO Friends Igloo Holiday Adventure building toy set for kids ages 8+ (41760)
+- A gift for kids – This igloo building toy for kids makes a fun birthday, holiday, or anytime gift for 8-10 year old kids who love playing in the snow, glamping adventures and role play
+- Measurements – The igloo measures over 3.5 in. (10 cm) high, 5.5 in. (14 cm) wide and 5 in. (13 cm) deep
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BXQ579K9{{</world>}}

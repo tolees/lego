@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Luchtsluiselement – inclusief een speciaal luchtsluiselement, zodat kinderen dit model kunnen koppelen aan andere compatibele LEGO ruimte sets (apart verkrijgbaar) voor nog meer avonturen
-- Verticaal opstijgen en landen – kinderen kunnen het landingsgestel in- en uitklappen terwijl ze door middel van fantasierijk spel de mogelijkheden en uitdagingen van het leven en werken op verschillende planeten verkennen
-- Bouw een futuristisch speelgoed ruimteschip – jonge ruimtefans vanaf 10 jaar kunnen veel ontdekken terwijl ze bouwen en spelen met deze LEGO Technic VTOL Vrachtruimteschip LT81 speelgoedset
 - Ruimte speelgoed – dit bouwpakket voor kinderen en tieners is een leuk cadeau voor jongens en meisjes vanaf 10 jaar die geïnteresseerd zijn in ruimtevaart en futuristisch vliegtuig speelgoed
 - Handgreep en draaiende motoren – jonge ruimteverkenners kunnen de handgreep vastpakken, de motoren draaien en zich vergapen aan de cockpit die zichzelf in horizontale positie brengt terwijl ze verschillende vliegmanoeuvres naspelen
+- Bouw een futuristisch speelgoed ruimteschip – jonge ruimtefans vanaf 10 jaar kunnen veel ontdekken terwijl ze bouwen en spelen met deze LEGO Technic VTOL Vrachtruimteschip LT81 speelgoedset
 - Vracht vervoeren – inclusief een miniruimterover die in de vrachtcapsule kan worden geladen en onder het LEGO ruimteschip kan worden gehangen met behulp van de uitschuifbare klauw
+- Verticaal opstijgen en landen – kinderen kunnen het landingsgestel in- en uitklappen terwijl ze door middel van fantasierijk spel de mogelijkheden en uitdagingen van het leven en werken op verschillende planeten verkennen
 - Een kennismaking met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten LEGO bouwers op een laagdrempelige en levensechte manier kennismaken met de wereld van techniek
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 3 adventures – The panda chases down the raven on land, the bird pursues the raven in the sky and the mythical turtle toy tracks the raven underwater
+- Be part of the action – The LEGO DREAMZzz set includes story-led building instructions that are also available on the LEGO Builder app, where kids can rotate their builds and track progress
+- Let imaginations hatch – Unlock kids’ creativity with the LEGO DREAMZzz Izzie’s Dream Animals magic egg toy for 8-plus-year-old girls and boys
+- Izzie vs. Dizzy – The building toy includes Izzie and Dizzy minifigures, letting kids get acquainted with a hero figure and her evil doppelganger
+- Animal playset – Kids choose their own adventure by transforming the egg into 3 posable creatures: a red panda toy, a bird toy or a sea turtle toy
 - A world of kids’ wildest dreams – The LEGO DREAMZzz collection of creative toys unlocks imaginations and lets young dreamers choose their own adventures as they build fantastical creatures and vehicles
 - Fantasy gift for kids – The playset makes a fun birthday gift for 8-plus-year-old girls, boys and fans of the LEGO DREAMZzz TV show and sets
-- Let imaginations hatch – Unlock kids’ creativity with the LEGO DREAMZzz Izzie’s Dream Animals magic egg toy for 8-plus-year-old girls and boys
-- Be part of the action – The LEGO DREAMZzz set includes story-led building instructions that are also available on the LEGO Builder app, where kids can rotate their builds and track progress
-- Izzie vs. Dizzy – The building toy includes Izzie and Dizzy minifigures, letting kids get acquainted with a hero figure and her evil doppelganger
-- 3 adventures – The panda chases down the raven on land, the bird pursues the raven in the sky and the mythical turtle toy tracks the raven underwater
-- Animal playset – Kids choose their own adventure by transforming the egg into 3 posable creatures: a red panda toy, a bird toy or a sea turtle toy
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2DTPS{{</world>}}

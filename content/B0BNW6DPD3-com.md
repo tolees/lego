@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mandalorian Fang Fighter – Features an opening minifigure cockpit, weapon storage compartment and 2 spring-loaded shooters
-- Gift idea for ages 9 and up – Celebrate May the 4th and give this 957-piece LEGO brick building set as a holiday gift, birthday present or special treat to Star Wars: The Mandalorian fans
-- Build, play and display – The Fang Fighter measures over 1.5 in. (4 cm) high, 10 in. (26 cm) long and 9 in. (24 cm) wide
-- 3 LEGO minifigures – The Mandalorian with a darksaber, The Mandalorian Fleet Commander with a blaster pistol and jetpack and a TIE Pilot with a blaster pistol, plus an R2-E6 LEGO droid figure
 - TIE Interceptor – Features an opening minifigure cockpit and top hatch, plus 2 spring-loaded shooters
+- 3 LEGO minifigures – The Mandalorian with a darksaber, The Mandalorian Fleet Commander with a blaster pistol and jetpack and a TIE Pilot with a blaster pistol, plus an R2-E6 LEGO droid figure
+- Gift idea for ages 9 and up – Celebrate May the 4th and give this 957-piece LEGO brick building set as a holiday gift, birthday present or special treat to Star Wars: The Mandalorian fans
 - Mandalorian Fang Fighter vs. TIE Interceptor (75348) – Inspire children to play out Star Wars: The Mandalorian Season 3 stories and create their own epic adventures with buildable starfighter models
+- Build, play and display – The Fang Fighter measures over 1.5 in. (4 cm) high, 10 in. (26 cm) long and 9 in. (24 cm) wide
+- Mandalorian Fang Fighter – Features an opening minifigure cockpit, weapon storage compartment and 2 spring-loaded shooters
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BNW6DPD3{{</world>}}

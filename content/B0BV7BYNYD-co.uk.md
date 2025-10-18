@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The LEGO Hogwarts Castle model and grounds include the Main Tower, Astronomy Tower, courtyards, Great Hall, Boathouse, bridges and greenhouses
 - With 2,600 pieces, this LEGO Harry Potter set for adults makes a magical Mothers Day gift, birthday present or a thoughtful housewarming gift
+- This large LEGO set includes the Durmstrang Ship, Beauxbatons Carriage with winged horses and Ford Anglia in the branches of the Whomping Willow
 - Place the gold-coloured LEGO Hogwarts architect statue next to the “Hogwarts Castle” nameplate or at the corner to make an enchanting centrepiece
 - Recreate iconic locations in the Wizarding World with this detailed LEGO Harry Potter Hogwarts Castle and Grounds 2,660-piece set for adults and fans
+- The LEGO Hogwarts Castle model and grounds include the Main Tower, Astronomy Tower, courtyards, Great Hall, Boathouse, bridges and greenhouses
 - This intricate Hogwarts model features rocky landscape, Black Lake, Chamber of Secrets, Winged Key room, Potions Classroom and Chessboard Chamber
-- This large LEGO set includes the Durmstrang Ship, Beauxbatons Carriage with winged horses and Ford Anglia in the branches of the Whomping Willow
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BYNYD{{</world>}}

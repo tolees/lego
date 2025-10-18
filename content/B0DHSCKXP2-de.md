@@ -31,9 +31,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Gemeinsam bauen: Dieses LEGO Bauset lässt Familien und Freunde die Begeisterung für Fast and Furious miteinander ausleben; Beim Bauen des Modells wirst du dich bestimmt an deine Lieblingsfilmszenen erinnern
 - Spielzeugauto mit vielen Details: Baue den 6-Zylinder-Motor, die Lenkung, die aufklappbare Motorhaube und das abnehmbare Targa-Hardtop, um deine Lieblingsszenen aus den Fast and Furious-Filmen nachzustellen
 - Baubares Modellauto Toyota Supra: Dieser Spielzeug Sportwagen strotzt nur so vor Details und Anspielungen, die Fans der Filmreihe Fast and Furious begeistern werden; Hierzu zählen auch die beiden NOS-Lachgasflaschen im Kofferraum
-- Einführung in die Welt der Technik: LEGO Technic Spielsets und Baufahrzeuge stellen die Bewegungen und die Mechanik der Modelle wirklichkeitsgetreu dar, um jungen Baumeistern die Welt der Technik näherzubringen
 - Faszinierendes Bauspielzeug für Kinder: Dieses Set ist eine tolle Geschenkidee für kreative Jungen und Mädchen ab 9 Jahren, die Fast and Furious oder LEGO Technic Fahrzeuge und Autos lieben
 - Bauset mit Rennauto für Kinder ab 9 Jahren: Der LEGO Technic Fast and Furious Toyota Supra MK4 aus diesem Set bildet eines der legendärsten Autos der Filmgeschichte detailgetreu nach; Baue das Modell und freu dich auf riesigen Actionspaß
+- Einführung in die Welt der Technik: LEGO Technic Spielsets und Baufahrzeuge stellen die Bewegungen und die Mechanik der Modelle wirklichkeitsgetreu dar, um jungen Baumeistern die Welt der Technik näherzubringen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCKXP2{{</world>}}

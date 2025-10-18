@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Children can organise their LEGO building bricks and take them wherever they want for creative building on the go
 - Features a sturdy yellow suitcase with handy sorting compartments and a range of colourful pieces: building bricks, shapes, wheels and eyes
 - LEGO Classic toy building sets are compatible with all LEGO construction sets. Suitable for preschool children 4 years old
 - This LEGO Classic portable building bricks case makes a perfect starter set for budding LEGO builders as young as 4 years old
 - When they are done, they will place the bricks into their compartments, just the way they like, and off they go
+- Children can organise their LEGO building bricks and take them wherever they want for creative building on the go
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B075GQ87PV{{</world>}}

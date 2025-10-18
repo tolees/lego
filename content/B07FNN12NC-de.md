@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Mias Outdoor Abenteuer
+- Anzahl der Teile: 134
 - Zum Zubehör gehören eine Fernsteuerung für das Mountainboard, ein Fernglas und eine Wasserflasche
 - Vom Hersteller empfohlenes Alter: 6+
-- Anzahl der Teile: 134
-- Mias Outdoor Abenteuer
 - Dieses LEGO Abenteuerset bietet ein elektrisches Mountainboard, einen Beobachtungsturm, eine Brücke und einen Baum mit Bienenstock-Absenkfunktion
 
 [🛒 Buy it!!]({{< param buyurl >}})

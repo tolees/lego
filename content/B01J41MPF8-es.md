@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- El set ha sido diseñado para proporcionar una experiencia gratificante y relajante, y será una atractiva pieza de decoración para casa o para la oficina
 - ¡Crea una detallada maqueta de Londres con sus puntos de referencia más emblemáticos!
-- Esta maqueta para construir con ladrillos para adultos y niños de 12+ años incluye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben y Tower Bridge
-- Incluye un folleto coleccionable con información acerca del diseñador, la arquitectura y la historia de cada edificio
 - El río Támesis de Londres está representado en la base mediante placas transparentes
+- Incluye un folleto coleccionable con información acerca del diseñador, la arquitectura y la historia de cada edificio
+- Esta maqueta para construir con ladrillos para adultos y niños de 12+ años incluye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben y Tower Bridge
+- El set ha sido diseñado para proporcionar una experiencia gratificante y relajante, y será una atractiva pieza de decoración para casa o para la oficina
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01J41MPF8{{</world>}}

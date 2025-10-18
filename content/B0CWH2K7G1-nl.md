@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zelfstandig fantasierijk spelen – kinderen nemen het op tegen een volledig verstelbare speelgoed draak en verkennen vervolgens het schip met een afneembaar dak en openende zijkanten om toegang te krijgen tot het volledig uitgeruste interieur
+- Bouwpakket voor drakenliefhebbers – dit LEGO Minecraft speelgoed voor kinderen bevat authentieke details zoals wapens, het dekschild van de Enderverkenner, een vuurpijl en het felbegeerde drakenei
+- 3D bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets te bewaren en hun voortgang bij te houden
+- LEGO Minecraft game speelset – inclusief een bouwbare LEGO draak en schip, plus een Enderverkenner, Enderridder en Minecraft Enderman
 - De Enderdraak en het End-schip – dit LEGO Minecraft bouwbaar speelgoed voor jongens en meisjes vanaf 8 jaar zit boordevol Minecraft figuren, zodat kinderen drakenactie en avonturen aan boord van een schip kunnen naspelen
 - Minecraft in het echt – met LEGO Minecraft bouwbaar speelgoed voor kinderen beleven spelers de game op een andere manier met mobs, omgevingen en kenmerken die tot leven worden gebracht met LEGO stenen
-- Bouwpakket voor drakenliefhebbers – dit LEGO Minecraft speelgoed voor kinderen bevat authentieke details zoals wapens, het dekschild van de Enderverkenner, een vuurpijl en het felbegeerde drakenei
 - Minecraft cadeau – LEGO Minecraft De Enderdraak en het End-schip is een fantasierijke speelset voor kinderen vanaf 8 jaar die dol zijn op bouwbaar draken speelgoed, rollenspellen en de Minecraft game
-- LEGO Minecraft game speelset – inclusief een bouwbare LEGO draak en schip, plus een Enderverkenner, Enderridder en Minecraft Enderman
-- 3D bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets te bewaren en hun voortgang bij te houden
+- Zelfstandig fantasierijk spelen – kinderen nemen het op tegen een volledig verstelbare speelgoed draak en verkennen vervolgens het schip met een afneembaar dak en openende zijkanten om toegang te krijgen tot het volledig uitgeruste interieur
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2K7G1{{</world>}}

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Leuk cadeau voor meisjes, jongens en kinderen vanaf 5 jaar – deze LEGO ǀ Disney bouwset met 2 filmpersonages en een standaard met draaiplateau is een leuk verjaardagscadeau waarmee kinderen ook onderweg gemakkelijk kunnen spelen
 - Bouwplezier voor kinderen – zet de bouwset met Ariël, haar vork en een paraplu neer en voeg Botje en de diamant toe aan standaard, of speel nieuwe verhalen na met Ariël en Botje
+- Leuk cadeau voor meisjes, jongens en kinderen vanaf 5 jaar – deze LEGO ǀ Disney bouwset met 2 filmpersonages en een standaard met draaiplateau is een leuk verjaardagscadeau waarmee kinderen ook onderweg gemakkelijk kunnen spelen
 - Bouwpakket voor kinderen met ronddraaiende Ariël – verwen meisjes en jongens vanaf 5 jaar die van creatieve rollenspellen houden met deze Draaiende Ariël bouwset, een leuk model uit de Disney film De kleine zeemeermin
 - LEGO ǀ Disney speelplezier – combineer dit bouwspeelgoed met andere modellen in het uitgebreide assortiment LEGO bouwspeelgoed en LEGO ǀ Disney bouwsets (apart verkrijgbaar)
 - Bouwbaar Disney Princess speelgoed – dit bouwbaar prinsessenspeelgoed bestaat uit een standaard met draaiplateau en sleutel, een LEGO ǀ Disney poppetje van Ariël in een transformerende diamanten jurk en een LEGO ǀ Disney dieren figuur van Botje

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geef de iconische leider van The Avengers in handen van kinderen vanaf 8 jaar met deze beweegbare LEGO Marvel Captain America bouwfiguur
 - Jonge superhelden kunnen de LEGO Builder app downloaden met digitale hulpmiddelen om in te zoomen en modellen in 3D te draaien, sets op te slaan en de voortgang bij te houden
 - De actiefiguur heeft beweegbare schouder-, arm-, heup- en beengewrichten en is inclusief Captain Americas schild, dat aan zijn handen of rug bevestigd kan worden
-- Kinderen kunnen ook de andere LEGO Marvel bouwbare actiefiguren uit de serie verzamelen, waaronder Wolverine (76257), ideaal apart of om toe te voegen aan een LEGO Marvel collectie
 - Met dit LEGO Marvel bouwbare speelgoed kunnen kinderen de Avengers figuur positioneren en poseren terwijl ze missies uit de films nabootsen en genieten van avonturen die ze zelf verzinnen
+- Kinderen kunnen ook de andere LEGO Marvel bouwbare actiefiguren uit de serie verzamelen, waaronder Wolverine (76257), ideaal apart of om toe te voegen aan een LEGO Marvel collectie
+- Geef de iconische leider van The Avengers in handen van kinderen vanaf 8 jaar met deze beweegbare LEGO Marvel Captain America bouwfiguur
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPC9W5TY{{</world>}}

@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Deze LEGO Avatar set bevat gedrukte en digitale bouwinstructies, beschikbaar in de LEGO Builder app; kinderen kunnen deze digitale tool gebruiken om in te zoomen, te draaien en de modellen in deze set van alle kanten te bekijken
-- Combineer deze set met ander bouwspeelgoed uit de LEGO Avatar reeks om de speelmogelijkheden uit te breiden en je eigen versie van de exoplanetaire fantasiemaan Pandora te bouwen
 - De doos bevat alle LEGO stenen en onderdelen die kinderen nodig hebben om een skimwing figuur met folievleugels te bouwen, plus minifiguren van Tonowari en Jake Sully, een koraalrifomgeving en een displaystandaard
+- Kinderen vanaf 8 jaar kunnen de mooiste momenten uit Avatar: The Way of Water opnieuw beleven met deze LEGO Avatar bouwset, inclusief Avatar personages, locaties uit de film en een volledig verstelbare speelgoedfiguur van een skimwing
+- Combineer deze set met ander bouwspeelgoed uit de LEGO Avatar reeks om de speelmogelijkheden uit te breiden en je eigen versie van de exoplanetaire fantasiemaan Pandora te bouwen
 - Kinderen kunnen hun fantasie de vrije loop laten en zelf hun eigen Avatar scènes creëren, of ze kunnen het koraal gebruiken als displaystandaard voor de minifiguren en de skimwing om scènes uit de film Avatar: The Way of Water uit 2022 na te maken
 - Bij dit bouwbare LEGO Avatar speelgoed zijn leuke accessoires voor de minifiguren inbegrepen, zoals Tonowaris speer, een kruisboog en een vis uit Pandora; samen vormen ze een adembenemende blikvanger!
-- Kinderen vanaf 8 jaar kunnen de mooiste momenten uit Avatar: The Way of Water opnieuw beleven met deze LEGO Avatar bouwset, inclusief Avatar personages, locaties uit de film en een volledig verstelbare speelgoedfiguur van een skimwing
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRWRK4D{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Entdecke dieses Amazon exklusive LEGO Set, das nur bei Amazon oder bei ausgewählten Händlern erhältlich ist
+- Diverse Anpassungsoptionen lassen sie dieses Modell ganz individuell gestalten, mit Dach oder offen, mit klassischen oder verborgenen Scheinwerfern und mit Rennstreifen in verschiedenen Farben
 - Sammlerstück mit Retro-Accessoires, Modell des klassischen Autos mit coolen Accessoires wie den Plüschwürfeln, einem Automagazin und 2 verschiedenen Nummernschildern
 - Bauen Sie eine amerikanische Auto-Ikone, bilden sie all die Details des Chevrolet Camaro Z28 nach, beispielsweise die schwarze Lackierung und die silbernen Felgen, genießen sie dieses Bauprojekt für Erwachsene, das ihnen viele Anpassungsoptionen bietet
-- Abmessungen: Das Modell ist 10 cm hoch, 36 cm lang und 14 cm breit
 - Dem LEGO Chevrolet Camaro Z28 diente das Original aus dem Jahr 1969 als Vorbild, das Modell hat einen detailgetreuen V8-Motor und eine funktionierende Lenkung, Türen, Motorhaube und Kofferraumdeckel kann man öffnen
-- Diverse Anpassungsoptionen lassen sie dieses Modell ganz individuell gestalten, mit Dach oder offen, mit klassischen oder verborgenen Scheinwerfern und mit Rennstreifen in verschiedenen Farben
-- Entdecke dieses Amazon exklusive LEGO Set, das nur bei Amazon oder bei ausgewählten Händlern erhältlich ist
+- Abmessungen: Das Modell ist 10 cm hoch, 36 cm lang und 14 cm breit
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B84V2W8D{{</world>}}

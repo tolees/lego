@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Star Wars gifts for fans – This 921-piece LEGO building set for adults makes a great Fathers Day gift for dads who are fans of Star Wars: A New Hope
-- From a galaxy far, far away to your home – Collectible LEGO Star Wars sets are designed for people like you who enjoy immersive creative building projects to relax in a mindful way
 - Build your LEGO Star Wars starship with digital guidance – With the LEGO Builder app, you can build in 3D, track your progress and save all your sets in one place
 - Collectible Millennium Falcon model – Relive classic scenes with this model kit for adults as you build a LEGO recreation of the most iconic starship in the Star Wars universe
-- Authentically detailed LEGO Star Wars vehicle – With this building set for adults, fans have fun recreating features as seen in Star Wars: A New Hope, including the cockpit, satellite dish and cannons
 - Part of the LEGO Star Wars Starship Collection – This model kit for adults to build is part of a series of mid-scale LEGO Star Wars starship sets and makes a great addition to any colletcion
+- From a galaxy far, far away to your home – Collectible LEGO Star Wars sets are designed for people like you who enjoy immersive creative building projects to relax in a mindful way
 - Made for display – The buildable stand has a nameplate and LEGO Star Wars 25th anniversary brick to display the Millennium Falcon model at a dynamic angle
+- Authentically detailed LEGO Star Wars vehicle – With this building set for adults, fans have fun recreating features as seen in Star Wars: A New Hope, including the cockpit, satellite dish and cannons
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW29DZX{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Wat zit er in de doos? – dit creatieve bouwspeelgoed bestaat uit een LEGO schip, 2 vrachtcontainers, een werkende containerkraan, een haven met speelgoedwinkel en restaurant, een waterscooter, een bootje en 8 minifiguren
-- Haven en vrachtschip – geef kinderen een gezellige dag aan de kade met deze LEGO City Haven met vrachtschip speelset voor jongens en meisjes vanaf 8 jaar
 - Digitaal bouwplezier – deze maritieme LEGO City set bevat instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden en tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
+- Haven en vrachtschip – geef kinderen een gezellige dag aan de kade met deze LEGO City Haven met vrachtschip speelset voor jongens en meisjes vanaf 8 jaar
+- LEGO minifiguuraccessoires – deze avontuurlijke speelset bevat leuke accessoires om te doen alsof, waaronder een vishengel, een moersleutel, 2 walkietalkies, een visnet en een figuur van een speelgoed krab
+- Een leuk cadeau voor kinderen – geef dit LEGO boot speelgoed cadeau voor de feestdagen of zomaar tussendoor aan jongens en meisjes van 8 jaar en ouder
+- Wat zit er in de doos? – dit creatieve bouwspeelgoed bestaat uit een LEGO schip, 2 vrachtcontainers, een werkende containerkraan, een haven met speelgoedwinkel en restaurant, een waterscooter, een bootje en 8 minifiguren
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - Speelgoed voor kinderen die van fantasierijke rollenspellen houden – kinderen krijgen toegang tot de motor, de brug en de romp van het vrachtschip en kunnen de kraan bedienen om de containers met speelgoed voertuigen te laden en lossen
-- Een leuk cadeau voor kinderen – geef dit LEGO boot speelgoed cadeau voor de feestdagen of zomaar tussendoor aan jongens en meisjes van 8 jaar en ouder
-- LEGO minifiguuraccessoires – deze avontuurlijke speelset bevat leuke accessoires om te doen alsof, waaronder een vishengel, een moersleutel, 2 walkietalkies, een visnet en een figuur van een speelgoed krab
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2ZSRX{{</world>}}

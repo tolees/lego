@@ -31,10 +31,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Star Wars Spielzeug zum Sammeln: Erlebe das Wiedersehen zweier alter Freunde – stell C-3PO neben R2-D2 aus dem separat erhältlichen LEGO Set 75379 aus und winkle einen seiner Arme so ab, dass er R2-D2s Kopf tätschelt
 - Erfreue dich an den authentischen Details in diesem Star Wars Bauspielzeug: Stell C-3POs Look im typischen LEGO Stil nach, dreh seinen Kopf und bewege die Arme, um ihn in vertraute Posen zu bringen
 - LEGO Star Wars Mini-Figur C-3PO: Das baubare Hauptmodell von C-3PO aus diesem Set wird durch die LEGO Star Wars Mini-Figur C-3PO ergänzt
-- Geschenk für Erwachsene: Belohne dich selbst oder überrasche einen anderen Fan der klassischen Star Wars Trilogie oder einen begeisterten Sammler der LEGO Star Wars Bausets mit diesem Modell aus LEGO Steinen zum Sammeln und Ausstellen
+- LEGO Star Wars C-3PO – ein baubarer Droide: Hol dir mit diesem authentischen Roboter-Modell von C-3PO zum Bauen und Ausstellen einen der witzigsten Charaktere der Star Wars Galaxis nach Hause
 - Einst in einer weit entfernten Galaxis, heute in deinem Wohnzimmer: LEGO Star Wars Bausets für Erwachsene sind für alle gedacht, die bei kreativen Aktivitäten abschalten und entspannen möchten, und holen eine andere Galaxie direkt in dein Zuhause
 - Blickfang zum 25-jährigen Jubiläum: Dieses Spielset enthält einen Ständer mit C-3PO-Infoplakette, Platz für die LEGO Mini-Figur C-3PO und einen Jubiläumsstein – ein tolles Sammlerstück für alle Star Wars Fans
-- LEGO Star Wars C-3PO – ein baubarer Droide: Hol dir mit diesem authentischen Roboter-Modell von C-3PO zum Bauen und Ausstellen einen der witzigsten Charaktere der Star Wars Galaxis nach Hause
+- Geschenk für Erwachsene: Belohne dich selbst oder überrasche einen anderen Fan der klassischen Star Wars Trilogie oder einen begeisterten Sammler der LEGO Star Wars Bausets mit diesem Modell aus LEGO Steinen zum Sammeln und Ausstellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FMKS{{</world>}}

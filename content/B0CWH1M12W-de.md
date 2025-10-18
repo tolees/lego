@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Muttertagsgeschenk und Überraschung für alls, die Geschichte, Reisen und Kunst lieben – und ein tolles Paris Souvenir: Dein Bauprojekt folgt der tatsächlichen Entstehungsgeschichte der Kathedrale
-- LEGO Bausmodell für Erwachsene: Das Pariser Wahrzeichen aus LEGO Steinen ist ein tolles Modell zum Sammeln und Ausstellen und ein cooles Geschenk für Eltern, Geschwister und Freunde, die Geschichte, Architektur und Reisen lieben
-- LEGO Sets für Erwachsene: Dieses Modell aus der LEGO Architecture Landmarks Collection gehört zu einer ganzen Reihe von Architektur Modellbausätzen für Erwachsene, die sich gern kreativ betätigen
-- Detailgetreues Modell-Spielzeug der Kathedrale Notre-Dame: Bewundere die Rosenfenster, nimm das Dach ab, um die Pfeiler und Bögen im Inneren zu bestaunen, und entferne die Türme, um ins Modell hineinzuschauen
-- Pariser Charme für dein Zuhause: Platziere baubare LEGO Bäume entlang einer Seite des Notre Dame Modells und befestige das Namensschild vor oder neben dem Gebäude am Sockel
 - Schritt-für-Schritt-Anleitung für LEGO Paris Set: Bauanleitungen findest du sowohl in der LEGO Builder App als auch in der beiliegenden Broschüre, die zudem die Geschichte der Kathedrale sowie ein Interview mit dem LEGO Designer dieses Modells enthält
+- Muttertagsgeschenk und Überraschung für alls, die Geschichte, Reisen und Kunst lieben – und ein tolles Paris Souvenir: Dein Bauprojekt folgt der tatsächlichen Entstehungsgeschichte der Kathedrale
+- Pariser Charme für dein Zuhause: Platziere baubare LEGO Bäume entlang einer Seite des Notre Dame Modells und befestige das Namensschild vor oder neben dem Gebäude am Sockel
+- Detailgetreues Modell-Spielzeug der Kathedrale Notre-Dame: Bewundere die Rosenfenster, nimm das Dach ab, um die Pfeiler und Bögen im Inneren zu bestaunen, und entferne die Türme, um ins Modell hineinzuschauen
+- LEGO Sets für Erwachsene: Dieses Modell aus der LEGO Architecture Landmarks Collection gehört zu einer ganzen Reihe von Architektur Modellbausätzen für Erwachsene, die sich gern kreativ betätigen
 - Notre-Dame de Paris – Modell-Bauset eines architektonischen Meisterwerks: Dieses LEGO Architecture Set für Erwachsene lässt dich jede Bau- und Restaurierungsphase des legendären Pariser Wahrzeichens durchleben
+- LEGO Bausmodell für Erwachsene: Das Pariser Wahrzeichen aus LEGO Steinen ist ein tolles Modell zum Sammeln und Ausstellen und ein cooles Geschenk für Eltern, Geschwister und Freunde, die Geschichte, Architektur und Reisen lieben
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1M12W{{</world>}}

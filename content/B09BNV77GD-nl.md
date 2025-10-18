@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dit auto speelgoed bouwbare model voor kinderen heeft veel ruimte voor een 2-zits cockpit en veel authentieke details
 - Recreëer Groot-Brittanniës eerste volledig elektrische hypercar met dit Lotus Evija replica autobouwbare model en bewonder het innovatieve ontwerp van de speelgoed sportwagen
-- Terwijl je bouwt met de LEGO Bouwinstructies app beschikbaar voor smartphones en tablets, zoom, roteer en bekijk bouwbare modellen vanuit alle hoeken
 - Verken het stukje voor stukje terwijl je een van s werelds meest ongekende aerodynamische vorm nabouwt
 - Het wordt geleverd met een LEGO coureur minifiguur met een Lotus racepak, helm, pruik en een moersleutel
 - Deze innovatieve, volledig elektrische raceauto is een perfect verjaardagscadeau voor jongens en meisjes die van sportautos houden!
+- Terwijl je bouwt met de LEGO Bouwinstructies app beschikbaar voor smartphones en tablets, zoom, roteer en bekijk bouwbare modellen vanuit alle hoeken
+- Dit auto speelgoed bouwbare model voor kinderen heeft veel ruimte voor een 2-zits cockpit en veel authentieke details
 - Ontdek een aantal van s werelds meest iconische voertuigen met LEGO Speed Champions race auto speelgoed bouwbare modellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

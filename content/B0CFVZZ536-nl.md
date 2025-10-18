@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ninjacadeau – deze set biedt een leuke bouw- en speelervaring en is een mooi cadeau voor jongens en meisjes, alle kinderen die graag rollenspellen spelen boordevol actie
-- Fantasie speelgoed voor kinderen – jongens en meisjes van 8 jaar en ouder kunnen spannende scènes naspelen met de speelset Egalt de Meesterdraak
 - Waardevolle ninjaschatten – de set bevat een bouwbare boom met daarin de Hamer van Verbrijzeling en Gong van Verbrijzeling waar deze NINJAGO personages om kunnen strijden
-- 5 LEGO NINJAGO minifiguren – kinderen kunnen confrontaties naspelen waarbij NINJAGO Lloyd, Sora en Nya, allemaal gewapend met mini katanas, het opnemen tegen Lord Ras met zijn hamer en Cinder met een zwaard
 - Verstelbare speelgoed draak – kinderen kunnen scènes uit seizoen 2 van de NINJAGO Dragons Rising tv-serie naspelen met een Meesterdraak met een verstelbare kop, staart, poten en folievleugels
+- 5 LEGO NINJAGO minifiguren – kinderen kunnen confrontaties naspelen waarbij NINJAGO Lloyd, Sora en Nya, allemaal gewapend met mini katanas, het opnemen tegen Lord Ras met zijn hamer en Cinder met een zwaard
+- Fantasie speelgoed voor kinderen – jongens en meisjes van 8 jaar en ouder kunnen spannende scènes naspelen met de speelset Egalt de Meesterdraak
+- Ninjacadeau – deze set biedt een leuke bouw- en speelervaring en is een mooi cadeau voor jongens en meisjes, alle kinderen die graag rollenspellen spelen boordevol actie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZZ536{{</world>}}

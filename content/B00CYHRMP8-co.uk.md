@@ -30,11 +30,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - GIFT FOR TODDLERS – This building set makes a fun birthday gift for 2+ year old girls and boys who love Peppa Pig toys, DUPLO bricks and imaginative play
 - PEPPA PIG TOY FOR TODDLERS – The LEGO DUPLO Peppa Pig Funfair toy for 2+ year old girls and boys lets kids learn through play with characters from the TV show
-- WHATS IN THE BOX? – Includes LEGO DUPLO Danny Dog, Candy Cat and Peppa Pig figures, a rotating big wheel, a slide and juice bar mini build
-- LEARNING THROUGH PLAY – LEGO DUPLO building sets can help preschool kids reach their developmental milestones and learn through play in a fun and engaging way
-- FUN STORY STARTERS – Toddlers send the characters down the slide, place them in the big wheel gondolas and take them to the juice bar for a refreshing treat
-- DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this preschool playset
 - EDUCATIONAL TOY – This early development and activity toy encourages logical thinking, colour sorting and fine motor skills as kids learn to build and act out stories with the fun characters
+- DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this preschool playset
+- FUN STORY STARTERS – Toddlers send the characters down the slide, place them in the big wheel gondolas and take them to the juice bar for a refreshing treat
+- LEARNING THROUGH PLAY – LEGO DUPLO building sets can help preschool kids reach their developmental milestones and learn through play in a fun and engaging way
+- WHATS IN THE BOX? – Includes LEGO DUPLO Danny Dog, Candy Cat and Peppa Pig figures, a rotating big wheel, a slide and juice bar mini build
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00CYHRMP8{{</world>}}

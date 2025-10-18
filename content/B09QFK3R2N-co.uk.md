@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Fans can build a fantastic LEGO 3D model of The Mighty Bowser, to celebrate the iconic Super Mario boss, a large figure full of detail to display
-- Number of Pieces: 2,807
-- Press a button under the shell to open the figures mouth, activate the fireball launcher and knock down the 2 towers from the battle platform
-- The model building kit also includes a hidden POW block with Action Tag that LEGO Super Mario characters (figures not included) can interact with
-- Starter Courses featuring LEGO Mario (71360), LEGO Luigi (71387) or LEGO Peach (71403) figures (sold separately) are required for interactive play
-- This Super Mario collectible King of the Koopas figure has jointed arms, hands, legs, tail and rotating head and eyes to create different poses
 - The Super Mario 3D model measures 12.5 in. (32 cm) high and makes a great birthday gift for him or her, anniversary present for a husband or wife, fun house-warming gift or just beacause treat for all fans of the Super Mario universe
+- This Super Mario collectible King of the Koopas figure has jointed arms, hands, legs, tail and rotating head and eyes to create different poses
+- Number of Pieces: 2,807
+- Starter Courses featuring LEGO Mario (71360), LEGO Luigi (71387) or LEGO Peach (71403) figures (sold separately) are required for interactive play
+- Fans can build a fantastic LEGO 3D model of The Mighty Bowser, to celebrate the iconic Super Mario boss, a large figure full of detail to display
+- The model building kit also includes a hidden POW block with Action Tag that LEGO Super Mario characters (figures not included) can interact with
+- Press a button under the shell to open the figures mouth, activate the fireball launcher and knock down the 2 towers from the battle platform
 - The Super Mario 3D model building kit for adults and teens also has LEGO elements to authentically recreate the appearance of Bowsers spikes
 
 [🛒 Buy it now!!]({{< param buyurl >}})

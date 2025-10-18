@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creative play – Unleash more fun and adventures when you combine this LEGO vehicle set with others (sold separately) from the LEGO City range
-- An engaging toy – Kids can pop the driver minifigure into the cockpit of the monster truck toy and head off road to perform fun tricks and stunts
 - Monster truck building set – Kids can perform awesome driving displays with this LEGO City Blue Monster Truck toy for 5+ year old boys and girls
+- An engaging toy – Kids can pop the driver minifigure into the cockpit of the monster truck toy and head off road to perform fun tricks and stunts
 - Interactive guide – With the LEGO Builder app, kids can zoom in and rotate their building toys in 3D, track progress and save virtual playsets
 - What’s in this toy playset? – Everything kids need to build a blue mini monster truck racing toy and a LEGO City driver minifigure
+- Creative play – Unleash more fun and adventures when you combine this LEGO vehicle set with others (sold separately) from the LEGO City range
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZMSGQ{{</world>}}

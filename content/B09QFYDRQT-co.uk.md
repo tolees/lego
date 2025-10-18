@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- This ninja playset comes with a starter brick and each bag has a model and character; all to help kids start building right away
 - Includes 4 LEGO NINJAGO minifigures: Kai and Nya plus Sneaky Snake on a toy motorbike and Cobra Mechanic with a spear and catapult
-- This 161-piece ninja playset is a great birthday or Christmas gift idea for kids aged 4 and up to fuel their imaginations
 - Kids swoop into battle with Nya, her Ninja Dragon and Kai Minifigure against snake warriors with this LEGO NINJAGO set for kids 4 years old
 - This LEGO NINJAGO toy for kids age 4 comes with simple step by step picture instructions to guide kids through the building process
 - Features a dragon toy figure with a posable head, tail and wings, 2 ninja temples, 2 posable trees and a dragon’s egg in of the temples
-- This ninja playset comes with a starter brick and each bag has a model and character; all to help kids start building right away
+- This 161-piece ninja playset is a great birthday or Christmas gift idea for kids aged 4 and up to fuel their imaginations
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFYDRQT{{</world>}}

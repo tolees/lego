@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hol dir Keith Haring ins Wohnzimmer: LEGO Art Keith Haring – Tanzende Figuren ist ein Bauset für Erwachsene, mit dem du ein bekanntes Pop-Art-Motiv als rahmenloses LEGO Kunstwerk bauen und präsentieren kannst
-- Bauen als Gemeinschaftserlebnis: Das LEGO Modellbau enthält fünf separate Bauanleitungen – eine für jede Figur – und eignet sich gut für ein gemeinsames Bauprojekt mit Freunden oder der Familie
-- Geschenkidee für Erwachsene: Dieses LEGO Bauset ist eine kreative Beschäftigung für dich selbst oder ein originelles Geschenk für Kunstliebhaber; eine dekorative Ergänzung für Zuhause oder Büro
-- Zwei Optionen zum Ausstellen des Modells: Dieses LEGO Art Set zu Ehren von Keith Haring kann als Wanddekoration verwendet oder auf einer Fläche aufgestellt werden, je nach Raum und Stil
 - LEGO Art Sets für Erwachsene: Diese LEGO Sets bieten Erwachsenen die Möglichkeit, aus LEGO Steinen eigene Kunstwerke zu erschaffen und sie zu Hause oder im Büro auszustellen oder aufzuhängen
 - Hommage an eine Ikone: Dieses Pop-Art-Kunstwerk aus LEGO Steinen ist den tanzenden Figuren von Keith Haring nachempfunden; die charakteristischen Linien und kräftigen Farben verleihen dem Modell seinen besonderen Ausdruck
 - Individuell gestaltbares Pop-Art-Modell: Die fünf tanzenden Figuren lassen sich als separate LEGO Modelle bauen; du kannst selbst entscheiden, wie du sie aufstellst und kombinierst
+- Geschenkidee für Erwachsene: Dieses LEGO Bauset ist eine kreative Beschäftigung für dich selbst oder ein originelles Geschenk für Kunstliebhaber; eine dekorative Ergänzung für Zuhause oder Büro
+- Bauen als Gemeinschaftserlebnis: Das LEGO Modellbau enthält fünf separate Bauanleitungen – eine für jede Figur – und eignet sich gut für ein gemeinsames Bauprojekt mit Freunden oder der Familie
+- Hol dir Keith Haring ins Wohnzimmer: LEGO Art Keith Haring – Tanzende Figuren ist ein Bauset für Erwachsene, mit dem du ein bekanntes Pop-Art-Motiv als rahmenloses LEGO Kunstwerk bauen und präsentieren kannst
+- Zwei Optionen zum Ausstellen des Modells: Dieses LEGO Art Set zu Ehren von Keith Haring kann als Wanddekoration verwendet oder auf einer Fläche aufgestellt werden, je nach Raum und Stil
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DL9MQ4TL{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- F1 display model – After playing out racing stories with this LEGO KICK Sauber buildable car toy, kids can display it on a shelf or bedside table
-- Authentic details – F1 model car with 2024 design elements, including a rear wing, sponsor stickers, and wider rear tyres imprinted with “Pirelli”
-- More high-speed F1 action – Look out for other LEGO F1 building toys (sold separately) to build, display and race with the whole family
 - Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
-- 1 minifigure – The building toy includes a driver minifigure in a KICK Sauber F1 Team outfit and helmet, ready to be placed inside the LEGO car
 - Formula 1 gift idea – This KICK Sauber F1 Team race car toy offers a fun build-and-play experience and is a great gift for 10+ year old boys, girls and collectors
 - F1 toy car for kids – LEGO Speed Champions KICK Sauber F1 Team C44 Race Car toy for 10+ year old boys and girls to build, display and race
+- F1 display model – After playing out racing stories with this LEGO KICK Sauber buildable car toy, kids can display it on a shelf or bedside table
+- More high-speed F1 action – Look out for other LEGO F1 building toys (sold separately) to build, display and race with the whole family
+- 1 minifigure – The building toy includes a driver minifigure in a KICK Sauber F1 Team outfit and helmet, ready to be placed inside the LEGO car
+- Authentic details – F1 model car with 2024 design elements, including a rear wing, sponsor stickers, and wider rear tyres imprinted with “Pirelli”
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBYSRB{{</world>}}

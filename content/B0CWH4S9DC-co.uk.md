@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- A city without limits – LEGO City is a place where kids can unleash their limitless imaginations, with structures, vehicles and citizens that motivate them to build, create, explore and play
-- What’s in the box? – Includes an airplane toy, jungle cave setting, 2 LEGO City minifigures, a frog figure and 3 crocodile toy figures
-- A creative building toy for kids – Children enjoy a fun build before joining the photographer and pilot aboard the plane toy for exciting adventures
-- Toy seaplane playset – Delight a little adventurer with this LEGO City Jungle Explorer Water Plane toy for 6-plus-year-old boys and girls
 - A LEGO gift for kids – This LEGO City set makes a great any-day treat or birthday gift for 6-plus-year-old boys, girls and kids who love toy planes
-- Includes a combinable map tile – Connect the toy map included with this set to maps from 3 other playsets (sold separately) to reveal a guide to the LEGO City jungle
+- Toy seaplane playset – Delight a little adventurer with this LEGO City Jungle Explorer Water Plane toy for 6-plus-year-old boys and girls
 - Explorer toy with fun accessories – This LEGO City vehicle set comes with accessories for pretend play, including a camera and a printed map element
+- Includes a combinable map tile – Connect the toy map included with this set to maps from 3 other playsets (sold separately) to reveal a guide to the LEGO City jungle
+- What’s in the box? – Includes an airplane toy, jungle cave setting, 2 LEGO City minifigures, a frog figure and 3 crocodile toy figures
+- A city without limits – LEGO City is a place where kids can unleash their limitless imaginations, with structures, vehicles and citizens that motivate them to build, create, explore and play
+- A creative building toy for kids – Children enjoy a fun build before joining the photographer and pilot aboard the plane toy for exciting adventures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH4S9DC{{</world>}}

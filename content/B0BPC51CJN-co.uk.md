@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Plus Neville Longbottom with the Sword of Gryffindor, Scabior, Molly Weasley and Bellatrix Lestrange LEGO minifigures, and a Nagini figure
+- The toy castle modules can be rearranged to make the bridge from another memorable location from the Harry Potter movies
 - This LEGO modular building set connects with others in the LEGO Harry Potter series to create an entire LEGO Hogwarts Castle building
 - Includes 6 LEGO minifigures: Harry Potter and Voldemort, each with a wand with attachable LEGO elements to create a ‘spell-casting’ effect
-- The buildable Harry Potter toy features a detailed LEGO brick-built section of Hogwarts Castle that can be broken apart during epic battles
-- Plus Neville Longbottom with the Sword of Gryffindor, Scabior, Molly Weasley and Bellatrix Lestrange LEGO minifigures, and a Nagini figure
 - Fans can reenact the Voldemort vs. Harry Potter duel from Harry Potter and the Deathly Hallows – Part 2 with this collectible LEGO Harry Potter set
 - LEGO Harry Potter playsets put magical adventures into the hands of young wizards, witches and Muggles; this set makes a great Harry Potter-themed Christmas gift for 9 plus year old girls, boys and kids
-- The toy castle modules can be rearranged to make the bridge from another memorable location from the Harry Potter movies
+- The buildable Harry Potter toy features a detailed LEGO brick-built section of Hogwarts Castle that can be broken apart during epic battles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPC51CJN{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Weck die Fantasie deines Kindes: LEGO Super Mario Spielzeuge lassen sich vielseitig erweitern und umgestalten, um unzählige packende Herausforderungen zu bieten und Kinder (auch miteinander) auf spannende Münzsammelmissionen zu schicken
-- Interaktives digitales Spielerlebnis: Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figur nicht enthalten), Roy zu besiegen und seinen Kettenhund unter Kontrolle zu bringen, oder setz die Figur ans Klavier, um Musik ertönen zu lassen
-- Abenteuer-Spielset: Man kann den detailreichen Pilz-Palast zum Spielen auseinanderklappen; Das Modell besteht aus einstürzenden Mauern, einem Turm, einem Katapult, einem drehbaren Turm, einem Springbrunnen im Garten und versteckten Funktionssteinen
-- Spielset mit Nintendo Charakteren für Kinder: Dieses LEGO Super Mario Set mit dem Pilz-Palast lässt dich ein Prinzessinnenschloss erkunden, in die Rolle von Super Mario Charakteren schlüpfen und Duelle mit Roy austragen
 - LEGO Super Mario App: Lade dir die App herunter, um dir unter anderem Bauanleitungen und kreative Bau- und Spielideen zu holen; Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
 - Beinhaltet 3 LEGO Super Mario Minifiguren: Roy (der zum ersten Mal in einem LEGO Super Mario Set enthalten ist), einen Kettenhund und einen Toad
+- Weck die Fantasie deines Kindes: LEGO Super Mario Spielzeuge lassen sich vielseitig erweitern und umgestalten, um unzählige packende Herausforderungen zu bieten und Kinder (auch miteinander) auf spannende Münzsammelmissionen zu schicken
+- Interaktives digitales Spielerlebnis: Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figur nicht enthalten), Roy zu besiegen und seinen Kettenhund unter Kontrolle zu bringen, oder setz die Figur ans Klavier, um Musik ertönen zu lassen
+- Spielset mit Nintendo Charakteren für Kinder: Dieses LEGO Super Mario Set mit dem Pilz-Palast lässt dich ein Prinzessinnenschloss erkunden, in die Rolle von Super Mario Charakteren schlüpfen und Duelle mit Roy austragen
+- Abenteuer-Spielset: Man kann den detailreichen Pilz-Palast zum Spielen auseinanderklappen; Das Modell besteht aus einstürzenden Mauern, einem Turm, einem Katapult, einem drehbaren Turm, einem Springbrunnen im Garten und versteckten Funktionssteinen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1V9DS{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dinosaur action figure – Both LEGO dinosaur models feature an articulated head, mouth and tail, making it easy for kids to pose and play
-- LEGO gift – This building toy set is a creative birthday gift for 9-plus-year-old boys, girls and kids who are fans of the LEGO DREAMZzz TV show
 - 1 LEGO DREAMZzz set, 2 builds – Young dreamers can transform Cooper’s junkyard into a T. rex figure or a cool pterodactyl dinosaur toy
+- Dinosaur action figure – Both LEGO dinosaur models feature an articulated head, mouth and tail, making it easy for kids to pose and play
+- Be part of the action – This LEGO DREAMZzz set includes story-led building instructions that are also available digitally in the LEGO Builder app, where kids can zoom in and rotate models while they build
+- LEGO gift – This building toy set is a creative birthday gift for 9-plus-year-old boys, girls and kids who are fans of the LEGO DREAMZzz TV show
+- Roar into the dream world – LEGO DREAMZzz Cooper’s Robot Dinosaur C-Rex - a rebuildable T. rex dino toy for boys and girls aged 9 and over
 - 4 minifigures – The set is brought to life by heroes Zoey and Cooper, as well as their dark doppelgangers Doey and Dooper, plus a Sneak figure
 - A world of kids’ wildest dreams – The LEGO DREAMZzz collection unlocks imaginations and lets young dreamers choose their own adventures as they build fantastical creatures and vehicles
-- Be part of the action – This LEGO DREAMZzz set includes story-led building instructions that are also available digitally in the LEGO Builder app, where kids can zoom in and rotate models while they build
-- Roar into the dream world – LEGO DREAMZzz Cooper’s Robot Dinosaur C-Rex - a rebuildable T. rex dino toy for boys and girls aged 9 and over
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FZMC{{</world>}}

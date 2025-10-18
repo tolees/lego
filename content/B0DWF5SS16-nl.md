@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3-in-1 ninjavoertuig speelgoed voor kinderen – met dit Ninja strijdvoertuig kunnen jongens en meisjes vanaf 8 jaar in de lucht en op de grond actie naspelen die is geïnspireerd op seizoen 3 van de NINJAGO Dragons Rising tv-serie
-- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
-- 6 NINJAGO minifiguren – inclusief NINJAGO personages Kai, Wyldfyre, Cole, Nokt, een Draconische geestverkenner en voor het eerst Frak, plus een zweefvliegtuig
 - Afneembare LEGO NINJAGO voertuigen – het grote LEGO NINJAGO voertuig kan worden gesplitst in 3 kleinere voertuigen: Kais ninjamotor, Wyldfyres speelgoed motor en een klein speelgoed vliegtuig van Frak met 2 noppenschieters
-- Een universum vol ninjaspeelgoed – LEGO NINJAGO speelgoedsets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
 - Verjaardagscadeau voor kinderen – dit avontuurlijke speelgoed biedt een leuke bouw- en speelervaring en is een mooi cadeau voor jongens en meisjes die van fantasierijk spelen en avontuurlijke speelgoedsets houden
+- 6 NINJAGO minifiguren – inclusief NINJAGO personages Kai, Wyldfyre, Cole, Nokt, een Draconische geestverkenner en voor het eerst Frak, plus een zweefvliegtuig
+- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
+- 3-in-1 ninjavoertuig speelgoed voor kinderen – met dit Ninja strijdvoertuig kunnen jongens en meisjes vanaf 8 jaar in de lucht en op de grond actie naspelen die is geïnspireerd op seizoen 3 van de NINJAGO Dragons Rising tv-serie
+- Een universum vol ninjaspeelgoed – LEGO NINJAGO speelgoedsets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
 - Ninjawapens voor leuke rollenspellen – Kai, Wyldfyre en Frak hebben 2 gouden katanas, Cole heeft een doorschijnend onthullingszwaard en een lantaarn en Nokt en de Draconische geestverkenner hebben elk een speelgoed zwaard
 
 [🛒 Check the deal!!]({{< param buyurl >}})

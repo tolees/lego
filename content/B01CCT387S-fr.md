@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Un design solide pour un jeu daction intense !
 - La figurine de Jyn Erso à construire et hautement mobile comprend un fusil à ressorts, une fonction de bras de combat, et des matraques amovibles montées sur le dos.
+- Un design solide pour un jeu daction intense !
 - Entrez dans le combat avec jyn erso à construire et hautement mobile, comprenant un fusil à ressorts, une fonction de bras de combat et des matraques amovibles.
+- Age minimum : 7 ans
 - Entrez dans le combat avec jyn erso à construire et hautement mobile, comprenant un fusil à ressorts, une fonction de bras de combat et des matraques amovibles.
 - Fonce dans la bataille avec la sergente rebelle Jyn Erso !
-- Fonce dans la bataille avec la sergente rebelle jyn erso !
 - Rejouez un combat au corps-à-corps avec ce soldat surentraîné du film Star Wars : Rogue One.
-- Age minimum : 7 ans
+- Fonce dans la bataille avec la sergente rebelle jyn erso !
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01CCT387S{{</world>}}

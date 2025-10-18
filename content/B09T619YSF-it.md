@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Per i fan di Star Wars
-- I prodotti internazionali hanno termini separati, sono venduti dallestero e possono differire dai prodotti locali, tra cui vestibilità, età e lingua del prodotto, etichettatura o istruzioni.
 - Età consigliata: dagli 8 anni
+- I prodotti internazionali hanno termini separati, sono venduti dallestero e possono differire dai prodotti locali, tra cui vestibilità, età e lingua del prodotto, etichettatura o istruzioni.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09T619YSF{{</world>}}

@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - A treat for little Disney fans – This is a fun anytime gift idea for toddlers, girls and boys aged 2+ who love the Disney Junior Ariel TV show
-- 2 familiar characters – This toddler learning toy comes with 2 LEGO DUPLO | Disney figures: Ariel and Flounder from the Disney Junior TV show Ariel
-- Toddler learning toy for preschoolers – LEGO DUPLO toys support emotional and developmental learning through fun-filled, creative playtimes
 - Develops dexterity – This The Little Mermaid building toy is designed to help toddlers hone fine motor skills as they build with the DUPLO bricks
 - Educational building toys – Toddlers learn the names of fruit as they imagine ordering smoothies and hanging out with friends at this underwater café
+- Toddler learning toy for preschoolers – LEGO DUPLO toys support emotional and developmental learning through fun-filled, creative playtimes
+- 2 familiar characters – This toddler learning toy comes with 2 LEGO DUPLO | Disney figures: Ariel and Flounder from the Disney Junior TV show Ariel
 - Role-play toy for Little Mermaid fans – LEGO DUPLO | Disney Ariel and Flounder’s Café Stand building toy for 2+-year-old girls and boys
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Technic Auto für Formel 1 Fans: Dieses Set ist eine tolle Geschenkidee für erwachsene F1 Fans, die anspruchsvolle Projekte lieben, und eine schöne Belohnung für dich selbst, falls du dein eigenes F1 Modellauto bauen möchtest
 - Motor und Getriebe sind authentisch nachgebildet: Schau dir das 2-Gang-Differentialgetriebe an und nimm die Motorabdeckung ab, um den V6-Motor mit seinen beweglichen Kolben zu bestaunen
-- Modell eines F1 Autos mit vielen Funktionen: Feiere deine Motorsportbegeisterung und erkunde Details wie die Vorder- und Hinterradaufhängung, die Lenkung, den verstellbaren Heckflügel und die bedruckten Reifen
-- Baubares Modellauto für Erwachsene: Konzentrier dich voll und ganz auf das spannende Bauprojekt und füge das detailgetreue LEGO Technic Oracle Red Bull Racing RB20 F1 Rennauto aus diesem Bauset zusammen
 - Spannendes Erlebnis: Die LEGO Builder App lässt dich jeden Schritt deines Projekts genießen und 3D-Modellansichten drehen und vergrößern, deinen Baufortschritt verfolgen und all deine Bausets und Modelle an einem Ort speichern
+- Baubares Modellauto für Erwachsene: Konzentrier dich voll und ganz auf das spannende Bauprojekt und füge das detailgetreue LEGO Technic Oracle Red Bull Racing RB20 F1 Rennauto aus diesem Bauset zusammen
 - Tolles Ausstellungsstück: Dieses Modell des Oracle Red Bull Racing RB20 F1 Rennwagens ist ein toller Hingucker für jedes Zimmer oder Büro und lässt dich deine Begeisterung für die Formel 1 ausdrücken
+- Modell eines F1 Autos mit vielen Funktionen: Feiere deine Motorsportbegeisterung und erkunde Details wie die Vorder- und Hinterradaufhängung, die Lenkung, den verstellbaren Heckflügel und die bedruckten Reifen
+- LEGO Technic Auto für Formel 1 Fans: Dieses Set ist eine tolle Geschenkidee für erwachsene F1 Fans, die anspruchsvolle Projekte lieben, und eine schöne Belohnung für dich selbst, falls du dein eigenes F1 Modellauto bauen möchtest
 - LEGO Fahrzeuge für Erwachsene: Die separat erhältlichen LEGO Technic Fahrzeuge für Erwachsene lassen dich technische Konzepte erkunden und entspannende und kreative Bauprojekte genießen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

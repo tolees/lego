@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Recreate iconic movie moments with an Elven gazebo, and the moment the Fellowship starts their journey over the brick-built bridge and flowing river
-- This faithful 6,167-piece replica of Rivendell is a rewarding building project that will transport you to Middle-earth; an incredible The Lord of the Rings gift for fans
-- Create the Council of Elrond and seat the minifigures around the stone on which the One Ring is placed, then explore familiar interiors, such as Frodo’s bedroom and Elronds cluttered study
-- Join the Fellowship of the Ring as they arrive at Rivendell for the Council of Elrond with this 6,167 piece LEGO Icons The Lord of the Rings set for adults
-- The building set for adults features 15 LEGO The Lord of the Rings minifigures, including legendary characters such as Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond and Gandalf the Grey
 - This large LEGO set makes a great Fathers Day gift and features the beautifully detailed House of Elrond, decorated with autumnal foliage that creates the feeling of being deep inside the Rivendell forest
 - Features magical details and references to The Lord of the Rings film trilogy, including an elven forge, the Shards of Narsil, plus paintings and statues from the history of Middle-earth
+- Create the Council of Elrond and seat the minifigures around the stone on which the One Ring is placed, then explore familiar interiors, such as Frodo’s bedroom and Elronds cluttered study
+- This faithful 6,167-piece replica of Rivendell is a rewarding building project that will transport you to Middle-earth; an incredible The Lord of the Rings gift for fans
+- Join the Fellowship of the Ring as they arrive at Rivendell for the Council of Elrond with this 6,167 piece LEGO Icons The Lord of the Rings set for adults
+- The building set for adults features 15 LEGO The Lord of the Rings minifigures, including legendary characters such as Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond and Gandalf the Grey
+- Recreate iconic movie moments with an Elven gazebo, and the moment the Fellowship starts their journey over the brick-built bridge and flowing river
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BVMZ5NT5{{</world>}}

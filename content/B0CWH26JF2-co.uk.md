@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- A birthday gift idea for kids – This educational learning toy makes a great gift for 8-plus-year-old girls and boys who enjoy LEGO building toys
-- Lots of water park accessories – Includes a shower area, toilet, lockers, towels, sun cream, snacks and sea creature decorations
-- 4 characters – This set comes with Leo, Aliya and Sara LEGO Friends mini-dolls, plus an Alba micro-doll so kids can role-play water park adventures
 - Explore new passions – Check out other LEGO building toys (sold separately) in the Friends universe, where kids discover diverse characters and act out real-life adventures
-- Creative play – Kids can spin the LEGO Friends characters in the whirlpool, send them down the slides or test out the water blasters
 - Water park toy – This LEGO Friends building toy set for 8-plus-year-old girls and boys comes with 3 mini-dolls, a micro-doll and a water park
+- 4 characters – This set comes with Leo, Aliya and Sara LEGO Friends mini-dolls, plus an Alba micro-doll so kids can role-play water park adventures
+- A birthday gift idea for kids – This educational learning toy makes a great gift for 8-plus-year-old girls and boys who enjoy LEGO building toys
+- Creative play – Kids can spin the LEGO Friends characters in the whirlpool, send them down the slides or test out the water blasters
+- Lots of water park accessories – Includes a shower area, toilet, lockers, towels, sun cream, snacks and sea creature decorations
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH26JF2{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO vehicle display model – The building toy looks great on display as a kids bedroom decoration once the days races are over
 - Authentic design details – The Ford race Car toy includes a rear wing, a grille, headlights, exhaust pipes, Ford logos and interior details
-- 1 minifigure – The buildable car includes a removable roof and a LEGO race driver minifigure with a helmet, wig, wrench and a Dark Horse hoodie
-- Bigger racing adventures – Discover more LEGO Speed Champions buildable model cars with authentic details, sets sold separately
 - Car gifts – Buildable car model provides a fun experience and is a car gift for 9 plus year old boys, girls, kids or adult car-model collectors
 - Ford model car for kids – LEGO Speed Champions Ford Mustang Dark Horse Sports Car toy for boys and girls aged 9+ and adult car-model collectors
+- 1 minifigure – The buildable car includes a removable roof and a LEGO race driver minifigure with a helmet, wig, wrench and a Dark Horse hoodie
+- LEGO vehicle display model – The building toy looks great on display as a kids bedroom decoration once the days races are over
+- Bigger racing adventures – Discover more LEGO Speed Champions buildable model cars with authentic details, sets sold separately
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZRN8W{{</world>}}

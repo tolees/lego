@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Perfect for setting up high-speed races, the model car building kit also includes 2 driver minifigures - 1 to drive each of the car toys
-- This double-pack LEGO Speed Champions set features 2 buildable replica toy car models; McLaren Solus GT and McLaren F1 LM to build and display
-- The world of racing awaits sports car lovers with other LEGO Speed Champions sets like Ferrari 812 Competizione (76914) and Porsche 963 (76916)
 - Kids can enjoy a rewarding build with the classic F1 LM and modern Solus GT replica model cars before proudly racing and displaying them
 - This LEGO Speed Champions set featuring 2 iconic McLaren model cars, makes a great gift for 9-plus-year-old boys and girls who love cool LEGO vehicles
 - The McLaren F1 LM race car toy features its distinctive papaya orange colour with a central driving seat and cooling ducts on both sides
 - The Solus GT toy car model also includes details from the real version: white, black and orange colour scheme, prominent wheel arches and cockpit
+- This double-pack LEGO Speed Champions set features 2 buildable replica toy car models; McLaren Solus GT and McLaren F1 LM to build and display
+- The world of racing awaits sports car lovers with other LEGO Speed Champions sets like Ferrari 812 Competizione (76914) and Porsche 963 (76916)
+- Perfect for setting up high-speed races, the model car building kit also includes 2 driver minifigures - 1 to drive each of the car toys
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB13N{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Creator 3-in-1 constructie speelgoed is compatibel met alle LEGO bouwsets, voor nog meer speelmogelijkheden - verras kinderen van 7-12 jaar die gek zijn op dinos met dit leuke verjaardagscadeau
-- Zet de voor- en achterpoten, de kop en de staart van de T. rex in allerlei standen en maak de muil open om de vlijmscherpe tanden te zien
-- Deze 3-in-1 set met dinosaurus speelgoed bestaat uit een T. rex met feloranje ogen, verstelbare ledematen en kop, enorme klauwen en een muil vol scherpe tanden die open kan
 - Bij de set is ook een prooi van de dinosaurus inbegrepen, in de vorm van een ribbenkast om zelf te bouwen
 - Kinderen kunnen met dit LEGO Creator bouwspeelgoed ook 2 andere dino figuren bouwen: een Triceratops en een Pterodactylus
+- LEGO Creator 3-in-1 constructie speelgoed is compatibel met alle LEGO bouwsets, voor nog meer speelmogelijkheden - verras kinderen van 7-12 jaar die gek zijn op dinos met dit leuke verjaardagscadeau
+- Deze 3-in-1 set met dinosaurus speelgoed bestaat uit een T. rex met feloranje ogen, verstelbare ledematen en kop, enorme klauwen en een muil vol scherpe tanden die open kan
+- Zet de voor- en achterpoten, de kop en de staart van de T. rex in allerlei standen en maak de muil open om de vlijmscherpe tanden te zien
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01J41DNWM{{</world>}}

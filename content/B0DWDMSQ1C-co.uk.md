@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Fun accessories included – This police building set features LEGO minifigure accessories like a toy banknote, wanted poster, torch, handcuffs and crowbar for storytelling play
-- Police motorbike toy for 4+ year old boys and girls – Introduce your everyday heroes to creative play with this LEGO City Police Motorcycle Chase building set for imaginative adventures
-- A fun gift idea for everyday heroes – A great birthday or anytime gift for 4+ year old boys and girls who love creative toys, police adventures, motorbikes and building sets
-- Make learning fun – LEGO City construction toys help kids aged 4+ build confidence, develop life skills and enjoy endless open-ended play with creative building toys
-- Easy-to-build police vehicle playset – Includes a LEGO Starter Brick element, a simple picture guide and 3D digital instructions in the LEGO Builder app to support 4+ year old builders
 - LEGO 4+ set for kids who love construction toys – Kids can seat the police officer on the motorbike, stand the crook on the skateboard and hide the toy banknote inside the cash machine
 - What’s in the box? – Includes elements to build a toy motorbike, skateboard and cash machine setting, plus police officer and skateboarder LEGO minifigures for exciting role-play fun
+- Easy-to-build police vehicle playset – Includes a LEGO Starter Brick element, a simple picture guide and 3D digital instructions in the LEGO Builder app to support 4+ year old builders
+- Police motorbike toy for 4+ year old boys and girls – Introduce your everyday heroes to creative play with this LEGO City Police Motorcycle Chase building set for imaginative adventures
+- Fun accessories included – This police building set features LEGO minifigure accessories like a toy banknote, wanted poster, torch, handcuffs and crowbar for storytelling play
+- A fun gift idea for everyday heroes – A great birthday or anytime gift for 4+ year old boys and girls who love creative toys, police adventures, motorbikes and building sets
+- Make learning fun – LEGO City construction toys help kids aged 4+ build confidence, develop life skills and enjoy endless open-ended play with creative building toys
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDMSQ1C{{</world>}}

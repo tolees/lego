@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- For an even more fun experience, kids can download the LEGO Builder app which allows them to zoom and rotate their models in 3D and track progress
 - This LEGO Marvel Guardians of the Galaxy building toy makes a great Super Hero gift or special treat for kids, boys and girls aged 8 plus years old
 - Kids can role-play scenes from the movie and create their own missions with the iconic LEGO Marvel adult Rocket minifigure and Baby Rocket figure
 - This Guardians of the Galaxy buildable spaceship toy includes an opening cockpit, adjustable landing gear and 2 LEGO stud shooters
 - Kids help Baby Rocket escape in the yellow buildable spaceship toy, just like in the Marvel Studios Guardians of the Galaxy Volume 3 movie
 - The LEGO Marvel Baby Rockets Ship buildable toy puts the iconic spaceship from Marvel Studios Guardians of the Galaxy Volume 3 into kids hands
-- For an even more fun experience, kids can download the LEGO Builder app which allows them to zoom and rotate their models in 3D and track progress
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBSFHLN2{{</world>}}

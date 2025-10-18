@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Interactive LEGO Animal Crossing toy – The Blathers’s Museum Collection is a building toy for 7+ year old girls and boys who play Animal Crossing and enjoy animals and nature
-- Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video game series, which let kids continue their storytelling fun even when on a screen break
-- Creative toy with LEGO animal minifigures – The building set comes with 2 characters from the Animal Crossing video game series: Blathers owl and Lily frog minifigures
-- Animal Crossing gift – This creative toy makes a great gaming gift for 7+ year old girls, boys and Animal Crossing fans who love LEGO building sets and fun dinosaur toys
+- Customisable gaming toy – Hinged walls allow the museum to be configured in different ways, such as completely enclosed, or fully open for maximum accessibility
 - Dinosaur toys – Kids can use a spade to unearth the missing Triceratops tailbone, catch fish for the aquarium and capture butterflies and creepy-crawlies with a net
 - Digital building fun – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Customisable gaming toy – Hinged walls allow the museum to be configured in different ways, such as completely enclosed, or fully open for maximum accessibility
+- Creative toy with LEGO animal minifigures – The building set comes with 2 characters from the Animal Crossing video game series: Blathers owl and Lily frog minifigures
+- Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video game series, which let kids continue their storytelling fun even when on a screen break
+- Animal Crossing gift – This creative toy makes a great gaming gift for 7+ year old girls, boys and Animal Crossing fans who love LEGO building sets and fun dinosaur toys
+- Interactive LEGO Animal Crossing toy – The Blathers’s Museum Collection is a building toy for 7+ year old girls and boys who play Animal Crossing and enjoy animals and nature
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWXQX67V{{</world>}}

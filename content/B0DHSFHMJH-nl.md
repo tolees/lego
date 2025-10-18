@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een speelgoed ambulance te bouwen, plus een skatehelling en minifiguren van een skateboarder en verpleegkundige voor rollenspellen
-- Leuk dokter speelgoed voor kinderen – deze LEGO City bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor jongens en meisjes vanaf 5 jaar
-- Net als in het echt – kinderen kunnen de zijkanten van de ambulance omhoog klappen en de achterdeuren openen om toegang te krijgen tot de brancard en de medische hulpmiddelen aan boord
-- Accessoires voor rollenspellen – deze bouwset met een LEGO ambulance bevat leuke accessoires om mee te doen alsof, waaronder een LEGO injectiespuit, verband en een dokterstas
 - LEGO ambulance speelgoed voor kinderen vanaf 5 jaar – de LEGO City Ambulance speelset is uitgerust met veel realistische functies voor spannende reddingsavonturen
-- Meer sets om te ontdekken – kinderen beleven nog meer plezier en avonturen als ze deze voertuigspeelset combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
+- Leuk dokter speelgoed voor kinderen – deze LEGO City bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor jongens en meisjes vanaf 5 jaar
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, bouwspeelgoed, voertuigen en inwoners die hen inspireren om te creëren en te ontdekken
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een speelgoed ambulance te bouwen, plus een skatehelling en minifiguren van een skateboarder en verpleegkundige voor rollenspellen
+- Accessoires voor rollenspellen – deze bouwset met een LEGO ambulance bevat leuke accessoires om mee te doen alsof, waaronder een LEGO injectiespuit, verband en een dokterstas
+- Net als in het echt – kinderen kunnen de zijkanten van de ambulance omhoog klappen en de achterdeuren openen om toegang te krijgen tot de brancard en de medische hulpmiddelen aan boord
+- Meer sets om te ontdekken – kinderen beleven nog meer plezier en avonturen als ze deze voertuigspeelset combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFHMJH{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Authentieke Audi designdetails – de replica van de Audi S1 e-tron quattro speelgoed race auto heeft een hoge achtervleugel, een diepe diffuser aan de achterkant, een spoiler aan de voorkant en interieurdetails, waaronder een e-rem
-- Audi auto speelgoed voor kinderen – LEGO Speed Champions Audi S1 e-tron quattro racewagen model voor jongens en meisjes vanaf 9 jaar om te verzamelen, te bouwen, neer te zetten en mee te spelen
 - Grotere race-avonturen – ontdek meer LEGO Speed Champions autos (sets apart verkrijgbaar)
-- Modellen van bekende autos om mee te spelen en neer te zetten – met LEGO Speed Champions sets kunnen kinderen en autoliefhebbers replicaversies bouwen van een aantal bekende klassieke autos
 - LEG Audi auto bouwpakket om tentoon te stellen – nadat kinderen het Audi speelgoed hebben meegenomen voor een rit, kunnen ze het vol trots op een plank of nachtkastje neerzetten
-- 1 LEGO minifiguur – de LEG auto is inclusief een afneembaar dak en een minifiguur van een coureur met een helm, pruik en een moersleutel die kinderen achter het stuur kunnen plaatsen
+- Modellen van bekende autos om mee te spelen en neer te zetten – met LEGO Speed Champions sets kunnen kinderen en autoliefhebbers replicaversies bouwen van een aantal bekende klassieke autos
+- Authentieke Audi designdetails – de replica van de Audi S1 e-tron quattro speelgoed race auto heeft een hoge achtervleugel, een diepe diffuser aan de achterkant, een spoiler aan de voorkant en interieurdetails, waaronder een e-rem
 - Autocadeau – deze bouwbare autoset biedt een leuke bouw- en speelervaring en is een boeiend cadeau voor kinderen vanaf 9 jaar of voor volwassen verzamelaars van automodellen
+- 1 LEGO minifiguur – de LEG auto is inclusief een afneembaar dak en een minifiguur van een coureur met een helm, pruik en een moersleutel die kinderen achter het stuur kunnen plaatsen
+- Audi auto speelgoed voor kinderen – LEGO Speed Champions Audi S1 e-tron quattro racewagen model voor jongens en meisjes vanaf 9 jaar om te verzamelen, te bouwen, neer te zetten en mee te spelen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ1LCY{{</world>}}

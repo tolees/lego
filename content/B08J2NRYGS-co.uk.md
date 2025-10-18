@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Whether on land or in space, hundreds of vehicles from across the galaxy are yours to Command. Jump to light speed in the Millennium Falcon, fly the T-47 airspeeder as you take down AT-AT walkers on Hoth, and battle first Order tie fighters in resistance X-Wings.
 - Experience fun-filled adventures, whimsical humour, and the freedom to fully Immerse yourself in the LEGO Star Wars universe like never before.
 - Includes AMAZON EXCLUSIVE Classic Character DLC
+- Whether on land or in space, hundreds of vehicles from across the galaxy are yours to Command. Jump to light speed in the Millennium Falcon, fly the T-47 airspeeder as you take down AT-AT walkers on Hoth, and battle first Order tie fighters in resistance X-Wings.
 - Its the biggest LEGO Star Wars adventure to date!
-- Features hundreds of playable characters from throughout the galaxy. Choose from a legion of heroes like Luke Skywalker, qui-gonn jinn, Chewbacca, leia organa, and Poe Dameron or turn to the dark side as Darth Vader, Kylo Ren, Darth Maul, emperor palpatine, and more.
 - Play through all nine Star Wars saga films in a brand-new LEGO videogame unlike any other.
 - Players have the freedom to seamlessly travel to any planet, in any order, at any time.
+- Features hundreds of playable characters from throughout the galaxy. Choose from a legion of heroes like Luke Skywalker, qui-gonn jinn, Chewbacca, leia organa, and Poe Dameron or turn to the dark side as Darth Vader, Kylo Ren, Darth Maul, emperor palpatine, and more.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08J2NRYGS{{</world>}}

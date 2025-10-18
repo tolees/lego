@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ga er helemaal in op – je vindt de bouwinstructies in de LEGO Builder app en in het meegeleverde boekje, dat interviews bevat met de fan die de bouwset heeft bedacht en de LEGO ontwerpers ervan
-- Nostalgisch Disney Pixar cadeau voor mannen, vrouwen en fans – trakteer jezelf of geef deze LEGO set voor volwassenen cadeau aan mannen of vrouwen die dol zijn op de Disney Pixar film
-- De keuze van LEGO fans – deze bouwbare set is onderdeel van de LEGO Ideas serie waarin elke set is bedacht door een fan, waarna andere LEGO fans erop hebben gestemd en het model door de LEGO Groep in productie is genomen
-- Filmobject voor verzamelaars – dit bouwbare LEGO Ideas ǀ Disney Pixar Luxo Jr. model is in allerlei standen verstelbaar om de stuiterende, huppelende en draaiende bewegingen van het personage na te bootsen
 - Bouwpakket voor volwassenen – leg de speelse geest van Luxo Jr. vast met dit verstelbare LEGO model van het Disney Pixar personage dat voor het eerst te zien was in Luxo Jr., de baanbrekende korte Disney Pixar animatiefilm uit 1986
+- Ga er helemaal in op – je vindt de bouwinstructies in de LEGO Builder app en in het meegeleverde boekje, dat interviews bevat met de fan die de bouwset heeft bedacht en de LEGO ontwerpers ervan
+- Filmobject voor verzamelaars – dit bouwbare LEGO Ideas ǀ Disney Pixar Luxo Jr. model is in allerlei standen verstelbaar om de stuiterende, huppelende en draaiende bewegingen van het personage na te bootsen
+- Nostalgisch Disney Pixar cadeau voor mannen, vrouwen en fans – trakteer jezelf of geef deze LEGO set voor volwassenen cadeau aan mannen of vrouwen die dol zijn op de Disney Pixar film
 - Disney Pixar Ball om zelf te bouwen – de Pixar Ball bevat verborgen verwijzingen naar de bekende Disney Pixar films Up, The Incredibles, Ratatouille, Monsters, Inc., Toy Story en Finding Nemo
+- De keuze van LEGO fans – deze bouwbare set is onderdeel van de LEGO Ideas serie waarin elke set is bedacht door een fan, waarna andere LEGO fans erop hebben gestemd en het model door de LEGO Groep in productie is genomen
 - Leuke displaymogelijkheid – verwijder 2 afgeronde platen aan de zijkanten van de Pixar Ball om een basis te creëren waar Luxo Jr. op kan staan, zodat het eruitziet alsof de bal leegloopt; leuk als kantoor decoratie of woonaccessoire
 
 [🛒 Check the deal!!]({{< param buyurl >}})

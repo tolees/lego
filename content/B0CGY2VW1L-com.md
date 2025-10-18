@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Friends sets – Check out more kids’ building kits in the LEGO Friends range (sold separately), where young builders can discover diverse characters as they play together by acting out real-life adventures
-- A social-emotional toy with 3 mini-dolls – Set includes 3 LEGO Friends characters plus a cat figure so the creative play starts right away
-- Measurements – 409-piece set with building measuring over 7.5 in. (19 cm) high, 7 in. (18 cm) wide and 4.5 in. (11 cm) deep
 - Fitting room and workshop – This fashion toy set has a fitting room, where the characters can change, plus a workshop with washing machine and sewing machine role-play toy accessories
-- Choose new outfits – This kids’ toy set comes with lots of upcycled fashion items for the mini-dolls to wear, including hats, pants, a skirt, a pair of shoes, a handbag and fanny packs
+- A social-emotional toy with 3 mini-dolls – Set includes 3 LEGO Friends characters plus a cat figure so the creative play starts right away
 - LEGO Friends Vintage Fashion Store set – This social-emotional toy includes a buildable shop with workshop, 3 mini-dolls, a cat toy figure, plus lots of fashion accessories for kids aged 6 plus
+- Choose new outfits – This kids’ toy set comes with lots of upcycled fashion items for the mini-dolls to wear, including hats, pants, a skirt, a pair of shoes, a handbag and fanny packs
+- LEGO Friends sets – Check out more kids’ building kits in the LEGO Friends range (sold separately), where young builders can discover diverse characters as they play together by acting out real-life adventures
+- Measurements – 409-piece set with building measuring over 7.5 in. (19 cm) high, 7 in. (18 cm) wide and 4.5 in. (11 cm) deep
 - A fun gift idea for kids – This building kit makes a holiday gift or anytime treat for 6-year-old-and-up girls, boys and kids who love shopping, fashion toys and LEGO sets
 
 [🛒 Check the deal!!]({{< param buyurl >}})

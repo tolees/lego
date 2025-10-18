@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 3D building instructions – Kids can use the LEGO Builder app for an interactive building experience with digital tools to zoom, rotate models in 3D, save building sets and track progress
+- Expand the fun – Explore the full range of LEGO Minecraft building toys (sold separately) for more hands-on building and gaming adventures
+- LEGO Minecraft gift for kids – This LEGO building toy is a creative gamer gift for 10+ year old boys and girls who are fans of the popular video game
 - Video game character – This Minecraft Creeper figure is ready for action, whether stalking through the Minecraft world or standing on display as a cool addition to a kid’s bedroom
 - Posable Creeper toy for kids – This large LEGO Creeper figure is a fun buildable toy for 10+ year old boys and girls who love Minecraft, whether for hands-on play or as gaming room decor
 - LEGO Minecraft figure – This buildable Minecraft toy features four movable legs and a posable head that tilts up and down and moves side to side, bringing the iconic Creeper to life
-- LEGO Minecraft gift for kids – This LEGO building toy is a creative gamer gift for 10+ year old boys and girls who are fans of the popular video game
 - A hidden surprise – The front of this Minecraft mob figure’s head detaches to reveal a secret interior space with a first-version Creeper minifigure and a TNT element
-- Expand the fun – Explore the full range of LEGO Minecraft building toys (sold separately) for more hands-on building and gaming adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRZQYB{{</world>}}

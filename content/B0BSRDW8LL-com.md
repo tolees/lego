@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Buildable Funky Kong’s airplane/shop – The airplane has 2 Action Tags to activate special reactions in an interactive figure (not included): 1 when buying balloons and 1 when ’flying’ the plane
+- Diddy Kongs Mine Cart Ride Expansion Set (71425) – Recreate mine cart-riding, airplane-flying, rock-exploding Donkey Kong mine cart challenges with this LEGO Super Mario set for kids
+- 4 LEGO Super Mario figures from the Donkey Kong world – Funky Kong and Diddy Kong, plus a Snaggles to flip out of the way and a Mole Miner to defeat
 - Super Mario gift set for kids ages 8-10 – This 1,157-piece buildable game toy makes a fun birthday or holiday gift for kids who own a LEGO Super Mario Starter Course (71360, 71387 or 71403), which is needed for interactive play
 - Fun challenges – Ride the mine cart with LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) around the track and ’explode’ the rock to reveal a bunch of bananas to ’eat’
-- Buildable Funky Kong’s airplane/shop – The airplane has 2 Action Tags to activate special reactions in an interactive figure (not included): 1 when buying balloons and 1 when ’flying’ the plane
-- 4 LEGO Super Mario figures from the Donkey Kong world – Funky Kong and Diddy Kong, plus a Snaggles to flip out of the way and a Mole Miner to defeat
-- Diddy Kongs Mine Cart Ride Expansion Set (71425) – Recreate mine cart-riding, airplane-flying, rock-exploding Donkey Kong mine cart challenges with this LEGO Super Mario set for kids
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRDW8LL{{</world>}}

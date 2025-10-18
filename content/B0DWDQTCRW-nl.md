@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Dieren speelgoed voor kinderen met accessoires – ontdek diverse accessoires om creatieve verhalen te vertellen, waaronder een weegschaal, borstel, poepelement, schop, zonnepaneel, lantaarn, telefoon, pen, bamboe, een appel en meer
-- 2 Friends minifiguren en 3 pandafiguren – deze set vertelt het verhaal van LEGO Friends personages Autumn en Liann die voor de moederpanda en haar 2 jonkies zorgen, waardoor kinderen volop inspiratie krijgen om hun zorgzame kant te gebruiken
 - Fantasierijk speelgoed voor 7 jaar en ouder met boomhut en quad – de set bestaat uit een bouwbare boomhut, waar de pandaopvang is gevestigd, plus een quad om voedsel en benodigdheden te vervoeren om voor de speelgoed dieren te zorgen
-- Vertel verhalen over vriendschap – met de LEGO Friends bouwsets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- LEGO Dieren speelgoed voor kinderen met accessoires – ontdek diverse accessoires om creatieve verhalen te vertellen, waaronder een weegschaal, borstel, poepelement, schop, zonnepaneel, lantaarn, telefoon, pen, bamboe, een appel en meer
 - Gedetailleerd panda bouwpakket voor kinderen – deze bouw- en speelset voor meisjes, jongens en natuurliefhebbers van 7 jaar en ouder bevat 2 LEGO Friends poppetjes, 3 panda dieren figuren en accessoires voor rollenspellen
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Vertel verhalen over vriendschap – met de LEGO Friends bouwsets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
+- 2 Friends minifiguren en 3 pandafiguren – deze set vertelt het verhaal van LEGO Friends personages Autumn en Liann die voor de moederpanda en haar 2 jonkies zorgen, waardoor kinderen volop inspiratie krijgen om hun zorgzame kant te gebruiken
 - Verjaardagscadeau voor kinderen – deze set is een superleuk cadeau voor meisjes en jongens, voor een verjaardag, Pasen of een andere gelegenheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})

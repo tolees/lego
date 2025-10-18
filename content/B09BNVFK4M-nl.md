@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Herbeleef de gameplay van een klassieker in LEGO stijl en breng de magie van Sonic the Hedgehog tot leven met deze LEGO Sonic set – de bouwbare versie van de populaire platformgame
 - Verzamel Chaosdiamanten, net zoals in de game – verdien een diamant voor elk bouwwerk dat je afmaakt en plaats ze alle 7 op de standaard samen met de legendarische LEGO Sonic the Hedgehog minifiguur
 - Amazon Exclusief
 - Bouw authentieke details zoals de palmboom, brug, ringen, Dr. Eggmans Eggmobile en een veer voor Super Sonic Jumps, plus 7 ringen en 2 bouwbare tvs met 5 schermonderdelen en 5 stickermogelijkheden
-- Herbeleef de gameplay van een klassieker in LEGO stijl en breng de magie van Sonic the Hedgehog tot leven met deze LEGO Sonic set – de bouwbare versie van de populaire platformgame
 - Deze 1125-delige LEGO bouwset voor volwassenen staat garant voor vele uren bouwplezier
 - Een nostalgisch cadeau voor een verjaardag of speciale gelegenheid, perfect voor millennial Sonic the Hedgehog fans die van ontspannende projecten houden
 - Beleef de populaire platformgame Sonic the Hedgehog opnieuw en zet de nostalgische jaren 90 LEGO set daarna met trots neer in huis of op de werkkamer

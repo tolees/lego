@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4 LEGO Star Wars personages – met LEGO Star Wars minifiguren van Cassian Andor en Dedra Meero, elk met een blasterpistool, plus een LEGO minifiguur van een ISB tactisch agent en een K-2SO LEGO droidfiguur, elk met een blaster
-- Authentieke details – dit speelgoed ruimteschip heeft een functie om de vleugels van de landingsmodus naar de V-vormige vliegmodus te verstellen
-- Bouwbaar Starfighter ruimteschip speelgoed voor kinderen – speel heldhaftige avonturen uit Star Wars: Andor seizoen 2 na met dit LEGO model van een Rebel U-wing Starfighter
-- Ontdek het assortiment – met LEGO Star Wars verzamelsets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans klassieke scènes naspelen, hun eigen avonturen verzinnen en de bouwmodellen op een mooi plekje neerzetten
-- Star Wars cadeau voor jongens, meisjes en fans vanaf 8 jaar – deze LEGO Star Wars voertuig set is een cool cadeau voor de feestdagen of een verjaardag voor kinderen en Star Wars: Andor fans die dol zijn op bouwen en rollenspellen
 - Een leuke manier om te bouwen – met de LEGO Builder app kunnen kinderen tijdens het bouwen inzoomen en een digitale versie van hun bouwmodel draaien en visualiseren, hun voortgang bijhouden en sets opslaan
+- Ontdek het assortiment – met LEGO Star Wars verzamelsets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans klassieke scènes naspelen, hun eigen avonturen verzinnen en de bouwmodellen op een mooi plekje neerzetten
+- 4 LEGO Star Wars personages – met LEGO Star Wars minifiguren van Cassian Andor en Dedra Meero, elk met een blasterpistool, plus een LEGO minifiguur van een ISB tactisch agent en een K-2SO LEGO droidfiguur, elk met een blaster
+- Bouwbaar Starfighter ruimteschip speelgoed voor kinderen – speel heldhaftige avonturen uit Star Wars: Andor seizoen 2 na met dit LEGO model van een Rebel U-wing Starfighter
+- Authentieke details – dit speelgoed ruimteschip heeft een functie om de vleugels van de landingsmodus naar de V-vormige vliegmodus te verstellen
 - Iedereen aan boord voor actie – het U-wing Star Wars ruimteschip heeft een cockpit met een koepel die met een hendel kan worden ontgrendeld, een vak dat open kan voor passagiers en vracht en 2 schieters met veermechanisme
+- Star Wars cadeau voor jongens, meisjes en fans vanaf 8 jaar – deze LEGO Star Wars voertuig set is een cool cadeau voor de feestdagen of een verjaardag voor kinderen en Star Wars: Andor fans die dol zijn op bouwen en rollenspellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSC8HYM{{</world>}}
