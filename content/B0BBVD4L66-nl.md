@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De Return of the Jedi 40ste Verjaardagsset heeft 2 speederbikes met transparante elementen zodat het lijkt alsof ze door de bossen van Endor vliegen
-- Maak het bos met de bouwbare bomen en de nieuwe-voor-mei-2023 varenelementen, maak de set vervolgens compleet met het Star Wars: Return of the Jedi 40ste verjaardag logoplaatje
-- Bouw een dynamisch beeld van Princess Leia en Luke Skywalkers achtervolging van een Scout Trooper in de bossen van Endor met deze LEGO Star Wars set voor volwassenen
-- Het bouw-en-display model heeft ook een plaatje met Luke Skywalkers woorden ("Quick! Jam their comlinks. Center switch!") om het displaymodel compleet te maken
-- Trakteer jezelf of geef deze set als Star Wars cadeau aan een fan met een verjaardag of op een andere speciale dag
 - Inclusief 3 LEGO Star Wars mini figuren: Prinses Leia en Luke Skywalker met zijn iconische groene lichtzwaard, beiden in Endor-outfits, plus een Scout Trooper en 2 blasters
+- Trakteer jezelf of geef deze set als Star Wars cadeau aan een fan met een verjaardag of op een andere speciale dag
+- De Return of the Jedi 40ste Verjaardagsset heeft 2 speederbikes met transparante elementen zodat het lijkt alsof ze door de bossen van Endor vliegen
+- Het bouw-en-display model heeft ook een plaatje met Luke Skywalkers woorden ("Quick! Jam their comlinks. Center switch!") om het displaymodel compleet te maken
+- Bouw een dynamisch beeld van Princess Leia en Luke Skywalkers achtervolging van een Scout Trooper in de bossen van Endor met deze LEGO Star Wars set voor volwassenen
+- Maak het bos met de bouwbare bomen en de nieuwe-voor-mei-2023 varenelementen, maak de set vervolgens compleet met het Star Wars: Return of the Jedi 40ste verjaardag logoplaatje
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBVD4L66{{</world>}}

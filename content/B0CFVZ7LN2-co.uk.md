@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Marvel Building toys for kids – The playset features Spidey’s hover spinner with rotating propeller and lift-up cockpit and Green Goblin’s glider
 - Spider-Man building toys ­– Elements from the TV show include Spidey’s robot friend Trace-E, pumpkin projectiles, a golden web element and a crab
 - Marvel vehicle toy set – Includes Spidey, Green Goblin and Ghost-Spider minifigures, plus a large Starter Brick to make building quick and fun
-- Expand the fun – Check out the extensive range of compatible LEGO 4+ vehicles and LEGO Marvel building toy playsets
 - Fun gift for kids – With its Starter Brick and simple building steps, this LEGO vehicle set makes a great gift for 4+ year old kids, boys and girls
 - Spidey and His Amazing Friends building toy – Spidey vs. Green Goblin set for 4+ year old kids, boys and girls is designed for young Spider-Man fans
-- Marvel Building toys for kids – The playset features Spidey’s hover spinner with rotating propeller and lift-up cockpit and Green Goblin’s glider
+- Expand the fun – Check out the extensive range of compatible LEGO 4+ vehicles and LEGO Marvel building toy playsets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ7LN2{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Start je gevleugelde stuntmotor met vliegwielaandrijving en laat hem los - zorg dat je het ronddraaiende haaienrad niet raakt en beuk door de tonnen om bij de schatkist met diamanten te komen, maar pas op voor het enge skelet dat de schat bewaakt
-- Deze LEGO speelset is een ideaal cadeau voor kinderen vanaf 5 jaar en fans van snelheid, stunts en stoere voertuigen - voor een verjaardag, de feestdagen of een andere gelegenheid
-- Deze LEGO City Stuntz set bevat een speelgoed stuntmotor met vliegwielaandrijving en 2 minifiguren
-- Voor wie nog meer actie wil: deze set kan gecombineerd worden met ander LEGO City Stuntz bouwspeelgoed - laat het stuntshowspektakel beginnen!
-- Dit LEGO City Stuntz speelgoed bevat eenvoudig te volgen gedrukte bouwinstructies, zodat kinderen kunnen genieten van spannende actie en een creatieve bouwervaring
 - Met dit leuke speelgoed voor kinderen vanaf 5 jaar hebben kinderen alles wat ze nodig hebben om een spannende stuntuitdaging te bouwen
+- Deze LEGO speelset is een ideaal cadeau voor kinderen vanaf 5 jaar en fans van snelheid, stunts en stoere voertuigen - voor een verjaardag, de feestdagen of een andere gelegenheid
+- Voor wie nog meer actie wil: deze set kan gecombineerd worden met ander LEGO City Stuntz bouwspeelgoed - laat het stuntshowspektakel beginnen!
 - Inclusief 2 minifiguren, waaronder een piraat en stunt racer Chuck D. Goldberg uit de tv-serie LEGO City Adventures, plus een skelettenfiguur en diverse accessoires, zoals 2 speelgoeddiamanten, een gereedschapskist, een schatkaart en een schatkist
+- Dit LEGO City Stuntz speelgoed bevat eenvoudig te volgen gedrukte bouwinstructies, zodat kinderen kunnen genieten van spannende actie en een creatieve bouwervaring
+- Start je gevleugelde stuntmotor met vliegwielaandrijving en laat hem los - zorg dat je het ronddraaiende haaienrad niet raakt en beuk door de tonnen om bij de schatkist met diamanten te komen, maar pas op voor het enge skelet dat de schat bewaakt
+- Deze LEGO City Stuntz set bevat een speelgoed stuntmotor met vliegwielaandrijving en 2 minifiguren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFTNYSV{{</world>}}

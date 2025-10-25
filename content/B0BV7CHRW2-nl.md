@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Met de functies van de modelbouw set kan Indiana Jones ook aan een liaan in de grot slingeren en Indy achtervolgd zien worden door een enorme kei
 - Dit bouwpakket voor volwassenen is rijk aan details en heeft een basis met vier knoppen om verschillende functies te activeren; één om het beeld te laten zakken en te verlichten en één om een muur te laten instorten
-- Breng hulde aan Indiana Jones met de LEGO Tempel van het Gouden Beeld set, met de spannende openingsscène uit de film Raiders of the Lost Ark
 - Dit is een geweldig nostalgisch cadeau-idee voor volwassen Indiana Jones filmfans met een passie voor LEGO constructies en leuke bouwuitdagingen
 - 145 Duik in het avontuur met de meegeleverde LEGO minifiguren van 4 Indiana Jones personages: Indiana Jones, Satipo, Belloq en een Hovitos strijder
+- Breng hulde aan Indiana Jones met de LEGO Tempel van het Gouden Beeld set, met de spannende openingsscène uit de film Raiders of the Lost Ark
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7CHRW2{{</world>}}

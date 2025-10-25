@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Building toy for kids – Join your little one as they enjoy pretend play with the characters, who are learning about emotions, nature and friendships
-- Discover more LEGO sets and friendship stories – Check out other toys (sold separately) in the LEGO Friends range, where kids can enjoy building real-life adventures for a diverse range of characters
-- Pretend-play classroom playset – Heartlake City Preschool toy for 4+-year-old girls and boys features a buildable preschool and loads of accessories
 - Nursery accessories – Includes a pirate hat, plates, mugs, snacks, a paint palette and magnifying glass plus frog, ladybird and bee elements
+- Building toy for kids – Join your little one as they enjoy pretend play with the characters, who are learning about emotions, nature and friendships
+- Pretend-play classroom playset – Heartlake City Preschool toy for 4+-year-old girls and boys features a buildable preschool and loads of accessories
 - A best-friend gift – This LEGO Friends set makes a great gift idea for 4+-year-old girls and boys, with characters and accessories for storytelling
+- Discover more LEGO sets and friendship stories – Check out other toys (sold separately) in the LEGO Friends range, where kids can enjoy building real-life adventures for a diverse range of characters
 - Includes 2 mini-dolls and 4 micro-dolls – Comes with LEGO Friends characters Liann and Colette, Basem, Victoria, Peter and Alba, plus a bunny
 
 [🛒 Buy it!!]({{< param buyurl >}})

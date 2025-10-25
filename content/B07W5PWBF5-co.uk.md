@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Puppy Playground
-- Manufacturer recommended age: 4+
-- Accessories include Mias sunglasses, skateboard, hairbrush, bowl, dog biscuit, 2 bones and 2 bows and a biscuit for the dog figures!
 - Includes Mia minidoll figure with her dogs Cookie and Coco in Heartlake City Park - let kids join Mia for fun and games with her puppies!
+- Manufacturer recommended age: 4+
 - Number of pieces: 57
+- Puppy Playground
+- Accessories include Mias sunglasses, skateboard, hairbrush, bowl, dog biscuit, 2 bones and 2 bows and a biscuit for the dog figures!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07W5PWBF5{{</world>}}

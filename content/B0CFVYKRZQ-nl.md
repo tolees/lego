@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Kies nieuwe outfits – dit speelgoed voor kinderen is inclusief veel geüpcyclede modeartikelen die de LEGO Friends poppetjes kunnen dragen, waaronder hoeden, broeken, een rok, een paar schoenen, een handtas en heuptasjes
 - Paskamer en werkplaats – er is een paskamer waar de personages zich kunnen omkleden, plus een werkplaats met speelgoed accessoires voor rollenspellen waaronder een wasmachine en een naaimachine
-- Cadeau voor kinderen – deze bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor meisjes en jongens vanaf 6 jaar die van winkelen, mode, speelgoed en LEGO sets houden
-- Sociaal-emotioneel speelgoed met 3 minipoppetjes – de set bevat 3 LEGO Friends personages plus een speelgoedkat figuur, zodat het creatieve spel meteen kan beginnen
 - LEGO Friends Vintage kledingwinkel set – dit sociaal-emotionele speelgoed bevat een bouwbare speelgoedwinkel met werkplaats, 3 poppetjes, een kat en veel modeaccessoires voor kinderen vanaf 6 jaar
+- Sociaal-emotioneel speelgoed met 3 minipoppetjes – de set bevat 3 LEGO Friends personages plus een speelgoedkat figuur, zodat het creatieve spel meteen kan beginnen
+- Cadeau voor kinderen – deze bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor meisjes en jongens vanaf 6 jaar die van winkelen, mode, speelgoed en LEGO sets houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYKRZQ{{</world>}}

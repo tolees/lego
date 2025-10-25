@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bewegliche Figur: Kais Feuermech hat bewegliche Arme und Beine, die man in Actionposen drehen kann, und ein großes goldenes Schwert für Rollenspiele und Duelle mit dem Mech des Wolfsclans
-- NINJAGO-Geschenk: Dieses LEGO NINJAGO Action-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Geschenk für Jungs und Mädchen, die gern mit Actionfiguren spielen
-- Baue deinen eigenen LEGO NINJAGO Mech: Ninja-Fans können viele Stunden kreativ spielen und Kais Feuermech mit den Teilen von 2 separat erhältlichen Actionfiguren kombinieren, um ihren eigenen Mech zu erschaffen
-- 4 LEGO NINJAGO Figuren: Das Abenteuer-Spielzeug beinhaltet NINJAGO Kai, Zane und Jordana, die jeweils ein eigenes Schwert schwingen, sowie einen Wolfsjäger, damit dein Kind die Duelle aus der TV-Serie NINJAGO Aufstieg der Drachen nachstellen kann
-- Weitere Mechs zum Umgestalten: Dein Kind kann die Teile von Kais Feuermech mit Coles Erdmech (71806) und Soras Technikmech (71807) kombinieren; diese beiden Actionfiguren sind separat erhältlich
 - Actionfiguren-Spielzeug zum Umgestalten: LEGO Kais Feuermech ist ein Ninja-Spielzeug für 7-jährige Jungs und Mädchen; Arme, Beine und Oberkörper lassen sich abnehmen, um das Set auch mit 2 anderen separat erhältlichen Mechs kombinieren zu können
+- Baue deinen eigenen LEGO NINJAGO Mech: Ninja-Fans können viele Stunden kreativ spielen und Kais Feuermech mit den Teilen von 2 separat erhältlichen Actionfiguren kombinieren, um ihren eigenen Mech zu erschaffen
+- Weitere Mechs zum Umgestalten: Dein Kind kann die Teile von Kais Feuermech mit Coles Erdmech (71806) und Soras Technikmech (71807) kombinieren; diese beiden Actionfiguren sind separat erhältlich
+- Bewegliche Figur: Kais Feuermech hat bewegliche Arme und Beine, die man in Actionposen drehen kann, und ein großes goldenes Schwert für Rollenspiele und Duelle mit dem Mech des Wolfsclans
 - Ein ganzes Universum an Ninja-Spielzeugen: LEGO NINJAGO Sets beinhalten Drachen, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
+- NINJAGO-Geschenk: Dieses LEGO NINJAGO Action-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Geschenk für Jungs und Mädchen, die gern mit Actionfiguren spielen
+- 4 LEGO NINJAGO Figuren: Das Abenteuer-Spielzeug beinhaltet NINJAGO Kai, Zane und Jordana, die jeweils ein eigenes Schwert schwingen, sowie einen Wolfsjäger, damit dein Kind die Duelle aus der TV-Serie NINJAGO Aufstieg der Drachen nachstellen kann
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPLZ5{{</world>}}

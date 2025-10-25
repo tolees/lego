@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Nombre de pièces: 134
-- Laventure dans la forêt de Mia
 - Les accessoires incluent une télécommande de skateboard, des jumelles et une bouteille d’eau
 - Âge recommandé par le fabricant: 6+
+- Laventure dans la forêt de Mia
 - Cet ensemble d’aventure LEGO comprend un skateboard électrique, une tour de guet, un pont et un arbre avec une fonction de descente de la ruche
 
 [🛒 Buy it!!]({{< param buyurl >}})

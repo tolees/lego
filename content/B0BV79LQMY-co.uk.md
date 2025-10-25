@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO Minecraft buildable castle toy makes a fun-filled birthday gift for kids, boys and girls aged 9+ and offers endless play possibilities to experience the game in a new way
-- Kids build a Minecraft LEGO fortress toy with functional interiors and exteriors, then reconfigure it into an iron golem with huge movable arms
-- Kids can use the LEGO Builder app for an immersive building experience; they can zoom in and rotate models in 3D, save sets and track progress
 - Includes Crystal and Golden Knights, Minecraft iron golem, Charged Creeper and 2 skeleton horsemen Minecraft figures, plus a gold sword and bows
-- LEGO Minecraft The Iron Golem Fortress features a buildable castle toy that transforms into a Giant Golem, with loads of mobs and 2 heroes
+- Kids can use the LEGO Builder app for an immersive building experience; they can zoom in and rotate models in 3D, save sets and track progress
 - This Minecraft buildable toys for boys, girls and all fans makes a cool display for kids to show-off with pride when the days play is over
+- Kids build a Minecraft LEGO fortress toy with functional interiors and exteriors, then reconfigure it into an iron golem with huge movable arms
+- LEGO Minecraft The Iron Golem Fortress features a buildable castle toy that transforms into a Giant Golem, with loads of mobs and 2 heroes
+- This LEGO Minecraft buildable castle toy makes a fun-filled birthday gift for kids, boys and girls aged 9+ and offers endless play possibilities to experience the game in a new way
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV79LQMY{{</world>}}

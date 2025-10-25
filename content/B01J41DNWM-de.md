@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Die Arme, Beine, der Schwanz und der Kopf der gefährlichen T-Rex-Figur sind voll beweglich und sein Maul lässt sich öffnen, um seine scharfen Zähne zu zeigen
 - Dieses lustige Dino-Spielzeug ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Jungen, Mädchen und alle Kinder von 7-12 Jahren, die Fans prähistorischer Kreaturen sind
-- Die LEGO Creator 3-in-1-Spielzeuge sind mit allen LEGO Spielzeugsets kompatibel, damit Kinder noch kreativer bauen können
-- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
 - Dieses LEGO Creator 3-in-1 Dinosaurier-Spielzeug lässt sich zu einer T-Rex, Triceratops oder Pterodactylus-Figur zusammenbauen
+- 3-in-1-Modell: Lässt sich in einen Triceratops oder Pterodactylus umbauen.
+- Die LEGO Creator 3-in-1-Spielzeuge sind mit allen LEGO Spielzeugsets kompatibel, damit Kinder noch kreativer bauen können
 - Der T-Rex ist 11 cm groß
 - Das Spielzeugset aus LEGO Bausteinen enthält außerdem die Beute des Dinosauriers in Form abgenagter Rippen zum Zusammenbauen
+- Die Arme, Beine, der Schwanz und der Kopf der gefährlichen T-Rex-Figur sind voll beweglich und sein Maul lässt sich öffnen, um seine scharfen Zähne zu zeigen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01J41DNWM{{</world>}}

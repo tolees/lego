@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Interactive model – Inspire kids to build a representation of the Earth, Sun and Moon in orbit with this LEGO Technic space toy for kids
-- Educational space toy for 10+ year old boys and girls – Kids can turn the crank to see how the Earth and the Moon orbit around the Sun
 - Includes phases – The solar system toy includes printed details like month and moon phases to help kids see how the Earth’s orbit affects our seasons
 - A space gift for kids – This set promotes independent play and makes a fun gift for 10+ year old boys and girls who love learning about planets
 - Intuitive instructions – The LEGO Builder app lets your kids save sets, track their progress, zoom in and rotate their LEGO space set in 3D
+- Educational space toy for 10+ year old boys and girls – Kids can turn the crank to see how the Earth and the Moon orbit around the Sun
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYHXV5{{</world>}}

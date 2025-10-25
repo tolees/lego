@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze LEGO Classic constructie speelgoed set bevat 900 stenen die volwassenen en kinderen aanmoedigen om samen een van de 12 minifiguurtjes te maken
-- Kinderen beleven eindeloos bouwplezier met deze LEGO stenen bouwset, perfect als cadeau voor een verjaardag of als verrassing voor een andere gelegenheid
 - Geweldig familiespelletje voor kinderen en volwassenen om op een bijzondere gelegenheid samen te spelen, en als het feest voorbij is, houdt het bouwplezier niet op!
-- Deze LEGO Classic opbergdoos is gevuld met leuk bouwspeelgoed, suggesties voor het maken van 12 minifiguurtjes, plus een makkelijk te volgen gedrukte gids
 - De 6 zakjes bevatten elk bouwstenen en instructies voor het maken van 2 eenvoudig te bouwen figuurtjes, zoals een teddybeer, clown, eenhoorn, piñata en meer
+- Kinderen beleven eindeloos bouwplezier met deze LEGO stenen bouwset, perfect als cadeau voor een verjaardag of als verrassing voor een andere gelegenheid
+- Deze LEGO Classic opbergdoos is gevuld met leuk bouwspeelgoed, suggesties voor het maken van 12 minifiguurtjes, plus een makkelijk te volgen gedrukte gids
+- Deze LEGO Classic constructie speelgoed set bevat 900 stenen die volwassenen en kinderen aanmoedigen om samen een van de 12 minifiguurtjes te maken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N0REILO{{</world>}}

@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Creative display options – Kids turn Heiheis head, raise his wings or adjust his tail feathers, then stand the Disney figure on his feet or place him on the stand
+- Buildable animal toy for kids – Enchant fans with a LEGO |Disney Heihei toy for 9+ year old girls and boys that sparks creativity as kids assemble the fun companion from Disneys Moana 2
+- Disney gift for kids – This LEGO ǀ Disney Moana 2 building toy is a magical anytime treat or birthday gift for 9+ year old girls, boys and older fans
 - Buildable Disney playset– With a play and display character model from the Disney Moana and Moana 2 movies plus a brick-built stand, this display-worthy building set makes a great addition to any collection
 - Disney building toy – Features a posable play-and-display model of Moana’s rooster friend Heihei, along with a stand with decorative flowers and a nameplate
 - LEGO ǀ Disney Moana 2 Collection – Add this set to others in the range like Moanas Island Fun (43260) and Moanas Adventure Canoe (43270) to expand your kids collection of LEGO | Disney building toys
-- Disney gift for kids – This LEGO ǀ Disney Moana 2 building toy is a magical anytime treat or birthday gift for 9+ year old girls, boys and older fans
-- Buildable animal toy for kids – Enchant fans with a LEGO |Disney Heihei toy for 9+ year old girls and boys that sparks creativity as kids assemble the fun companion from Disneys Moana 2
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCG2KL{{</world>}}

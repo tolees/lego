@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Speelset met helikopter – dit LEGO City Jungleonderzoekers: helikopter bij de basis bouwpakket voor jongens en meisjes vanaf 8 jaar bevat een gedetailleerde helikopter met dubbele rotor
+- Bouwbaar speelgoed voor kinderen die van creatief spel houden – kinderen kunnen maximaal 4 minifiguren in de cockpit van de helikopter plaatsen, de lier gebruiken om het mobiele basiskamp te leveren en de gesynchroniseerde dubbele rotor laten draaien
 - Inclusief een combineerbare kaarttegel – verbind de speelgoed landkaart die bij deze set wordt geleverd met de landkaarten uit 3 andere speelsets (apart verkrijgbaar) om een gids voor de LEGO City jungle te creëren
 - Meer sets om te verzamelen – kinderen beleven nog meer plezier en avonturen als ze deze LEGO City jungleset combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
-- Avontuurlijk speelgoed met leuke accessoires – deze speelset voor kinderen bevat LEGO minifiguuraccessoires om te doen alsof, waaronder een landkaart, een EHBO-tas, een verrekijker, een camera en een spinnenfiguur
-- Wat zit er in de doos? – deze avontuurlijke speelgoed set bestaat uit een speelgoed helikopter met dubbele rotor, een speelgoed motor, een moerasboot en een junglebasis, plus 5 minifiguren van avonturiers en 3 speelgoed dieren figuren van gorillas
+- Speelset met helikopter – dit LEGO City Jungleonderzoekers: helikopter bij de basis bouwpakket voor jongens en meisjes vanaf 8 jaar bevat een gedetailleerde helikopter met dubbele rotor
 - Leuk cadeau voor kinderen – geef deze avontuurlijke speelset cadeau voor de feestdagen of een verjaardag aan jongens en meisjes van 8 jaar en ouder die van rollenspellen, speelgoed dieren en LEGO voertuigen houden
-- Bouwbaar speelgoed voor kinderen die van creatief spel houden – kinderen kunnen maximaal 4 minifiguren in de cockpit van de helikopter plaatsen, de lier gebruiken om het mobiele basiskamp te leveren en de gesynchroniseerde dubbele rotor laten draaien
+- Wat zit er in de doos? – deze avontuurlijke speelgoed set bestaat uit een speelgoed helikopter met dubbele rotor, een speelgoed motor, een moerasboot en een junglebasis, plus 5 minifiguren van avonturiers en 3 speelgoed dieren figuren van gorillas
+- Avontuurlijk speelgoed met leuke accessoires – deze speelset voor kinderen bevat LEGO minifiguuraccessoires om te doen alsof, waaronder een landkaart, een EHBO-tas, een verrekijker, een camera en een spinnenfiguur
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CVQRJLQP{{</world>}}

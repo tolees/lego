@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- LEGO FAUX FLOWERS – The bouquet blooms with 6 species of spring flowers, including billy buttons, bluebells, Cleopatra ferns, yarrows and a tulip
 - FLOWER GIFT – This building set is a great nature-inspired Christmas gift for 9+ year old girls, teenagers and women looking for a smaller LEGO set to add to their existing bouquet
-- ADJUSTABLE STEMS – The creative building toy features adjustable stems that encourage builders to get creative and customise their own bouquet
+- COLOURFUL DECORATION – Once the LEGO spring flowers have been built, they can be displayed as a fun piece of home or office desk decor
 - BUILD WITH FRIENDS AND FAMILY – The LEGO Builder app offers a fun and collaborative experience where you can share the fun of LEGO building
 - FLOWER DECOR – Grow kids’ creativity with the LEGO Botanicals Petite Sunny Bouquet, a fun building toy for 9+ year old girls, boys and teenagers
+- ADJUSTABLE STEMS – The creative building toy features adjustable stems that encourage builders to get creative and customise their own bouquet
 - BUILD MORE BLOOMS – This brick-built bouquet can be combined with other sets (sold separately) in the LEGO Botanicals collection
-- COLOURFUL DECORATION – Once the LEGO spring flowers have been built, they can be displayed as a fun piece of home or office desk decor
-- LEGO FAUX FLOWERS – The bouquet blooms with 6 species of spring flowers, including billy buttons, bluebells, Cleopatra ferns, yarrows and a tulip
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N5B2ILL{{</world>}}

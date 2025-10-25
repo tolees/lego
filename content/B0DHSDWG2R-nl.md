@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Cadeau voor koppels – maak je eigen kleine versie van Robert Indianas beroemde LOVE sculptuur met dit LEGO Art bouwpakket voor volwassenen
-- LEGO voor volwassenen – de LEGO Art collectie geeft volwassenen de kans om hun eigen kunstwerken te maken, geïnspireerd op hun grootste interesses, om thuis of op kantoor neer te zetten of aan de muur te hangen
 - Een leuke creatieve hobby om te delen – deze decoratieve set wordt geleverd met 2 boekjes met bouwinstructies, zodat je samen met een vriend of familielid je LOVE model kunt maken
-- LEGO woonaccessoire om te bewonderen – deze LEGO versie van het LOVE beeldhouwwerk is een indrukwekkende blikvanger in elke kamer van je huis en leuke kantoor decoratie
-- Een eerbetoon aan een beroemd kunstwerk van Robert Indiana – dit 3D LOVE model van LEGO stenen ziet eruit als de echte sculptuur, met hetzelfde ontwerp en levendige rode, blauwe en groene kleuren
+- LEGO voor volwassenen – de LEGO Art collectie geeft volwassenen de kans om hun eigen kunstwerken te maken, geïnspireerd op hun grootste interesses, om thuis of op kantoor neer te zetten of aan de muur te hangen
 - Lief cadeau voor haar of hem – geef dit LOVE hart model om alleen of samen te knutselen cadeau aan een vrouw of man die van creatieve activiteiten houden ter gelegenheid van Valentijnsdag, een verloving, trouwerij of Moederdag
+- Een eerbetoon aan een beroemd kunstwerk van Robert Indiana – dit 3D LOVE model van LEGO stenen ziet eruit als de echte sculptuur, met hetzelfde ontwerp en levendige rode, blauwe en groene kleuren
+- Cadeau voor koppels – maak je eigen kleine versie van Robert Indianas beroemde LOVE sculptuur met dit LEGO Art bouwpakket voor volwassenen
+- LEGO woonaccessoire om te bewonderen – deze LEGO versie van het LOVE beeldhouwwerk is een indrukwekkende blikvanger in elke kamer van je huis en leuke kantoor decoratie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSDWG2R{{</world>}}

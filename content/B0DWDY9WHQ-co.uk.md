@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- HALLOWEEN GIFT FOR KIDS – This spooky building toy provides an immersive build-and-play experience and makes a fun gift for 9+ year old girls and boys, fans of creative toys and building with LEGO bricks
 - ENDLESS PLAY OPTIONS – Kids can role-play stories with 3 different building toys (models cannot be built simultaneously): a haunted LEGO house, a train toy or a boat
-- 3IN1 BUILDING TOYS – LEGO Creator sets (sold separately) let kids build three different models inspired by their favourite things, including animals, vehicles and houses
 - A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive creative adventure as they save sets, track progress and zoom in and rotate models in 3D while they build
 - INTERACTIVE TOYS – The 2-storey haunted house includes an opening front gate, a graveyard, scary tree, an organ, a hidden ghost revealed by turning a wheel, and an opening back
-- HALLOWEEN GIFT FOR KIDS – This spooky building toy provides an immersive build-and-play experience and makes a fun gift for 9+ year old girls and boys, fans of creative toys and building with LEGO bricks
 - 5 LEGO MINIFIGURES – This building set comes with 5 scary characters: a werewolf, vampire, ghost with a glow-in-the-dark cape, Frankenstein’s monster and a skeleton, each with an accessory
+- 3IN1 BUILDING TOYS – LEGO Creator sets (sold separately) let kids build three different models inspired by their favourite things, including animals, vehicles and houses
 - HALLOWEEN TOYS FOR KIDS – The LEGO Creator 3in1 Haunted Mansion toy for 9+ year old girls and boys lets kids build and rebuild 3 creepy models using the same LEGO bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})

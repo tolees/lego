@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fans van de Minecraft game kunnen hun talenten goed gebruiken om de uitdagingen in LEGO Minecraft De Eindarena te doorstaan; met dit veelzijdige constructie speelgoed, compleet met Minecraft poppetjes, kunnen meerdere spelers tegen elkaar spelen
-- Dit speelgoed voor kinderen vanaf 8 jaar zit vol leuke functies: de beweegbare vloer kan uit elkaar worden geschoven om een kokendhete lavapoel onder de strijders te onthullen, terwijl lavablokken met een druk op de knop de lucht in worden geschoten
-- Spelers kunnen een End strijder en een bewapende drakenboogschutter tegen elkaar laten strijden in de legendarische Minecraft arena - bij het bouwspeelgoed zijn ook Minecraft mobs inbegrepen: een enderman en een shulker
-- Na afloop van het duel kunnen kinderen de LEGO Minecraft poppetjes helpen om te genezen, door de accessoire-elementen van een gouden wortel en een toverdrankje te gebruiken, zodat ze klaar zijn voor nog meer actie
-- Deze LEGO Minecraft set is een fantastisch verjaardagscadeau, zomaar cadeau of kerstcadeau voor jongens en meisjes die houden van speelgoed drakeen, poppetjes en games
 - Geef kinderen nog meer speelmogelijkheden door hun LEGO Minecraft universum uit te breiden met nog meer coole sets, zoals Het Moerasavontuur (21240) en Het Bijenhuisje (21241)
+- Fans van de Minecraft game kunnen hun talenten goed gebruiken om de uitdagingen in LEGO Minecraft De Eindarena te doorstaan; met dit veelzijdige constructie speelgoed, compleet met Minecraft poppetjes, kunnen meerdere spelers tegen elkaar spelen
+- Na afloop van het duel kunnen kinderen de LEGO Minecraft poppetjes helpen om te genezen, door de accessoire-elementen van een gouden wortel en een toverdrankje te gebruiken, zodat ze klaar zijn voor nog meer actie
+- Spelers kunnen een End strijder en een bewapende drakenboogschutter tegen elkaar laten strijden in de legendarische Minecraft arena - bij het bouwspeelgoed zijn ook Minecraft mobs inbegrepen: een enderman en een shulker
+- Dit speelgoed voor kinderen vanaf 8 jaar zit vol leuke functies: de beweegbare vloer kan uit elkaar worden geschoven om een kokendhete lavapoel onder de strijders te onthullen, terwijl lavablokken met een druk op de knop de lucht in worden geschoten
+- Deze LEGO Minecraft set is een fantastisch verjaardagscadeau, zomaar cadeau of kerstcadeau voor jongens en meisjes die houden van speelgoed drakeen, poppetjes en games
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRTBGK6{{</world>}}

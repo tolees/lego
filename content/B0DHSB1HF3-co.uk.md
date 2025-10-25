@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- On-the-go play – This toy garage comes with a carrying handle and unfolds to reveal a workshop where kids flick a lever to launch the F1 car toys
+- More high-speed F1 action – Look out for other LEGO Formula 1 toys for boys and girls (sold separately) to build, display and race with the whole family
 - Digital building guide – Includes instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D
 - Birthday gift idea for Formula 1 fans – This LEGO City F1 playset makes a fun gift for 7+ year old boys, girls and fans of F1 cars and building toys
-- More high-speed F1 action – Look out for other LEGO Formula 1 toys for boys and girls (sold separately) to build, display and race with the whole family
 - A world without limits – LEGO City is a place where kids can unleash their imaginations, with toy vehicles, structures and characters that inspire children to build, create, explore and play
 - In the box – Workbenches, tool and welding carts, a tower of tyres, two F1 car toys, a winner’s trophy and 2 drivers and 4 mechanic minifigures
+- On-the-go play – This toy garage comes with a carrying handle and unfolds to reveal a workshop where kids flick a lever to launch the F1 car toys
 - LEGO F1 car toy for kids – This LEGO City F1 Garage & Mercedes-AMG & Alpine Cars building toy brings the thrill of Formula 1 racing to kids’ play
 
 [🛒 Buy it!!]({{< param buyurl >}})

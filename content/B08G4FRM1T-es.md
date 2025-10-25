@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Número de piezas: 73
-- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
-- Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
-- Edad recomendada por el fabricante: 7+
 - HipHop Robot BeatBox
+- Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
+- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
+- Edad recomendada por el fabricante: 7+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08G4FRM1T{{</world>}}

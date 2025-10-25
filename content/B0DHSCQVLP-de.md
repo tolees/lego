@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Magisches Kinderspielzeug: Stell mit dem Schloss Hogwarts: Duellierclub aus LEGO Steinen die klassische Szene aus Harry Potter und die Kammer des Schreckens nach, in der Harry lernt, wie man in Duellen Magie anwendet
-- LEGO Harry Potter Sammlerstück: Der Duellierclub gehört zu einer Serie von (separat erhältlichen) modularen Sets, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
-- Abenteuer Spielset mit 4 LEGO Harry Potter Charakteren: Die Minifiguren Harry Potter und Draco Malfoy, die beide einen Zauberstab und Zauberelemente halten, sowie Gilderoy Lockhart und Severus Snape sind auch mit dabei
 - Harry Potter Bauspielzeug für Kinder ab 8 Jahren: Dieses Set ist eine tolle spontane Belohnung für Jungen, Mädchen und alle, die die Magie der Zauberwelt entdecken und erforschen möchten
-- Interaktives Spielset mit Umstürz-Funktion: Das Bauset beinhaltet einen Kamin und eine Duellplattform mit einer Funktion, um eine Minifigur von der Plattform zu stürzen; Hierzu muss man nur die Treppenstufen auf der anderen Seite herunterdrücken
-- 1 von 14 Hogwarts Porträts zum Sammeln: Der LEGO Harry Potter Duellierclub ist ein tolles Bauspielzeug für kleine und große Fans; 1 von 14 Hogwarts Porträts zum Sammeln ist enthalten und kann über dem Kamin aufgehängt werden
+- Magisches Kinderspielzeug: Stell mit dem Schloss Hogwarts: Duellierclub aus LEGO Steinen die klassische Szene aus Harry Potter und die Kammer des Schreckens nach, in der Harry lernt, wie man in Duellen Magie anwendet
 - Intuitive Bauanleitungen: In der LEGO Builder App sind interaktive Funktionen verfügbar, die Kinder 3D-Modellansichten vergrößern und drehen, ihre LEGO Harry Potter Sets speichern und ihren Baufortschritt verfolgen lassen
+- Interaktives Spielset mit Umstürz-Funktion: Das Bauset beinhaltet einen Kamin und eine Duellplattform mit einer Funktion, um eine Minifigur von der Plattform zu stürzen; Hierzu muss man nur die Treppenstufen auf der anderen Seite herunterdrücken
+- Abenteuer Spielset mit 4 LEGO Harry Potter Charakteren: Die Minifiguren Harry Potter und Draco Malfoy, die beide einen Zauberstab und Zauberelemente halten, sowie Gilderoy Lockhart und Severus Snape sind auch mit dabei
+- LEGO Harry Potter Sammlerstück: Der Duellierclub gehört zu einer Serie von (separat erhältlichen) modularen Sets, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
+- 1 von 14 Hogwarts Porträts zum Sammeln: Der LEGO Harry Potter Duellierclub ist ein tolles Bauspielzeug für kleine und große Fans; 1 von 14 Hogwarts Porträts zum Sammeln ist enthalten und kann über dem Kamin aufgehängt werden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCQVLP{{</world>}}

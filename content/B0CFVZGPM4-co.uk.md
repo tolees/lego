@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 1 of 14 collectible Hogwarts portraits – Includes a gold-coloured element printed with 1 of 14 random Hogwarts portraits to display in the Owlery
-- A helping hand – Discover instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets
-- LEGO Harry Potter toy for kids – The first-ever LEGO model of the Hogwarts Castle Owlery where Harry Potter invited Cho Chang to the Yule Ball
 - Buildable Wizarding World toys – This set is part of a series of modular sets (sold separately) that connect to create the most detailed LEGO brick-built Hogwarts Castle scene ever
-- 3 LEGO Harry Potter characters – Cho Chang, Argus Filch and Harry Potter LEGO minifigures, plus 5 different owl toy figures, including Pigwidgeon
 - Harry Potter gift idea for kids – This role play toy playset makes a fun Harry Potter-themed birthday gift for 8+ year-old girls, boys and kids who love Harry Potter and toy animal figures
+- A helping hand – Discover instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets
 - Detailed building toy for kids – The Owler is a tower with window ledges for the owls to perch on, an owl statue and accessories for owl care
+- 1 of 14 collectible Hogwarts portraits – Includes a gold-coloured element printed with 1 of 14 random Hogwarts portraits to display in the Owlery
+- 3 LEGO Harry Potter characters – Cho Chang, Argus Filch and Harry Potter LEGO minifigures, plus 5 different owl toy figures, including Pigwidgeon
+- LEGO Harry Potter toy for kids – The first-ever LEGO model of the Hogwarts Castle Owlery where Harry Potter invited Cho Chang to the Yule Ball
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZGPM4{{</world>}}

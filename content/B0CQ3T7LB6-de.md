@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Vielseitiges Spielzeugauto: Der Partybus hat einen Fahrersitz und eine Dachreling, an der sich Gus gut festhalten kann. Wenn man eine Seite herunterklappt, kommen das DJ-Pult, eine Tanzfläche und ein Whirlpool für wilde Partys zum Vorschein
-- Noch mehr Kinderspielzeug mit den Minions: Weitere LEGO Ich – Einfach unverbesserlich 4 Spielsets sind separat erhältlich, um Kindern noch mehr Spaß mit LEGO Minions Sets zu bieten
 - Spielzeugauto zum Film: LEGO Ich – Einfach unverbesserlich 4 Minions und der Party Bus mit dem lustigen Bus aus dem Film Ich – Einfach unverbesserlich 4 von Illumination ist ein faszinierendes Spielset für Jungen und Mädchen ab 7 Jahren
+- Kreatives Bau- und Spielerlebnis: Eine E-Gitarre, ein Klavier, ein Mikrofon, Lichter, Lautsprecher, Bildschirme, eine Flagge, ein Luftballon, Hüte, ein Eis und Getränke lassen Kinder besonders fantasievoll spielen
+- Spielzeugbus mit Minions: Man kann den baubaren Bus schieben oder in ein Partymobil für die 4 LEGO Minions Phil, Mel und Dave sowie den fliegenden Mega Minion Gus verwandeln
+- Noch mehr Kinderspielzeug mit den Minions: Weitere LEGO Ich – Einfach unverbesserlich 4 Spielsets sind separat erhältlich, um Kindern noch mehr Spaß mit LEGO Minions Sets zu bieten
 - 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen. Mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
 - Geschenkidee für Fans der Minions: Minions und der Party Bus ist ein unterhaltsames Geburtstagsgeschenk für Kinder, die die Filmreihe Ich – Einfach unverbesserlich von Illumination lieben
-- Spielzeugbus mit Minions: Man kann den baubaren Bus schieben oder in ein Partymobil für die 4 LEGO Minions Phil, Mel und Dave sowie den fliegenden Mega Minion Gus verwandeln
-- Kreatives Bau- und Spielerlebnis: Eine E-Gitarre, ein Klavier, ein Mikrofon, Lichter, Lautsprecher, Bildschirme, eine Flagge, ein Luftballon, Hüte, ein Eis und Getränke lassen Kinder besonders fantasievoll spielen
+- Vielseitiges Spielzeugauto: Der Partybus hat einen Fahrersitz und eine Dachreling, an der sich Gus gut festhalten kann. Wenn man eine Seite herunterklappt, kommen das DJ-Pult, eine Tanzfläche und ein Whirlpool für wilde Partys zum Vorschein
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CQ3T7LB6{{</world>}}

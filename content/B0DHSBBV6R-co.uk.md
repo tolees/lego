@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Ferrari SF-24 F1 Race Car Toy - Model Kit w/a Formula 1 Driver Minifigure - Gift for 10+ Year Old Boys  Girls & Adult Motorsport Fans - Christmas Treat - 77242'
-date: 2025-10-15 12:08:18
+date: 2025-10-25 03:33:14
 image: 'https://m.media-amazon.com/images/I/51CDBilTucL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0DHSBBV6R/?tag=tolees0a-21'
 descuento: '34.80'
-average: '14.9790909090911'
+average: '14.9800000000002'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - CHRISTMAS GIFT IDEA – This LEGO F1 set offers a fun build-and-play experience and makes a great gift for 10+ year old boys, girls and adult collectors
-- INCLUDES A MINIFIGURE – This building set includes a LEGO driver minifigure in a Ferrari outfit and helmet, ready to be placed in the cockpit for race action
+- F1 DETAILS – The model car is inspired by the real 2024 race car and features a rear wing, halo bar, sponsor stickers and wider rear tyres imprinted with “Pirelli”
 - FERRARI F1 DISPLAY MODEL – Kids can create exciting racing stories with this F1 car toy, then proudly display it on a shelf or bedside table
 - RACE CAR TOYS FOR ALL THE FAMILY – Kids can race against friends and family for the chequered flag with other LEGO F1 building sets (sold separately)
 - BUILD ICONIC CARS – LEGO Speed Champions sets let kids and car fans create brick-built versions of some of the world’s most legendary vehicles
-- F1 DETAILS – The model car is inspired by the real 2024 race car and features a rear wing, halo bar, sponsor stickers and wider rear tyres imprinted with “Pirelli”
 - FERRARI F1 TOY CAR FOR KIDS – 10+ year old boys and girls can build, display and race the LEGO Speed Champions Ferrari SF-24 F1 Race Car model kit
+- INCLUDES A MINIFIGURE – This building set includes a LEGO driver minifigure in a Ferrari outfit and helmet, ready to be placed in the cockpit for race action
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBBV6R{{</world>}}

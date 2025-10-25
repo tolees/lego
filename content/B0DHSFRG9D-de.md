@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bauspielzeug mit 2 NINJAGO Minifiguren: Das Bauset beinhaltet Lloyd in einer brandneuen Rüstung und mit 2 goldenen Katanas sowie einen Drachenkämpfer mit Schwert
 - Geschenk für junge Ninja: Dieses Actionspielzeug bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Geschenk für Jungen und Mädchen ab 7 Jahren, die Ninjas und LEGO Fahrzeuge lieben
-- Spielzeug-Rennauto für Rollenspiele: Mit Lloyds Actionflitzer können Jungen und Mädchen ab 7 Jahren rasante Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
-- Allererstes NINJAGO Auto Spielzeug mit Rückziehmotor: Um loszulegen, müssen Kinder Lloyds Actionflitzer nur zurückziehen und können ihn dann losflitzen lassen
-- Entdecke andere Bauspielzeuge für noch mehr Ninja-Abenteuer: Schau dir noch weitere separat erhältliche NINJAGO Spielsets mit Drachen, Mechs und Fahrzeugen an
 - Funktionen in Hülle und Fülle: Das schnittige Spielzeugauto hat 4 Reifen und ein Cockpit; Außerdem ist der Rennwagen mit grünen Blitzklingen verziert; Mit den beiden Beleuchtungselementen aus dem Set kann man eine kleine Hindernisstrecke bauen
+- Spielzeug-Rennauto für Rollenspiele: Mit Lloyds Actionflitzer können Jungen und Mädchen ab 7 Jahren rasante Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Allererstes NINJAGO Auto Spielzeug mit Rückziehmotor: Um loszulegen, müssen Kinder Lloyds Actionflitzer nur zurückziehen und können ihn dann losflitzen lassen
+- Bauspielzeug mit 2 NINJAGO Minifiguren: Das Bauset beinhaltet Lloyd in einer brandneuen Rüstung und mit 2 goldenen Katanas sowie einen Drachenkämpfer mit Schwert
+- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
+- Entdecke andere Bauspielzeuge für noch mehr Ninja-Abenteuer: Schau dir noch weitere separat erhältliche NINJAGO Spielsets mit Drachen, Mechs und Fahrzeugen an
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFRG9D{{</world>}}

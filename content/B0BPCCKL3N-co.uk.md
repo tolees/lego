@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Young explorers have everything they need in this LEGO underwater set to build an ultra-modern toy boat, mini submarine and a coral reef setting
-- Kids dive into adventures with this LEGO City Explorer Diving Boat set featuring a toy inflatable boat, mini submarine toy and sea animal figures
-- Includes 3 minifigures: the boats captain and two LEGO divers, plus manta ray, hammerhead shark, crab, 2 fish and 2 turtle sea animal figures
-- Check out the intuitive LEGO Builder app which lets kids zoom in and rotate models in 3D, and explore and save virtual playsets
-- Kids aged 5+ can create endless creative stories with this fun LEGO underwater set; check out the coral reef setting and sunken treasure chest
 - With this LEGO City ocean set, kids can use the crane on the toy boat to deploy the autonomous mini submarine toy and explore the ocean floor
+- Kids dive into adventures with this LEGO City Explorer Diving Boat set featuring a toy inflatable boat, mini submarine toy and sea animal figures
 - This LEGO City ocean playset makes a fun birthday gift, Christmas present or any-day treat toy for girls, boys and all kids aged 5+ years old
+- Check out the intuitive LEGO Builder app which lets kids zoom in and rotate models in 3D, and explore and save virtual playsets
+- Young explorers have everything they need in this LEGO underwater set to build an ultra-modern toy boat, mini submarine and a coral reef setting
+- Includes 3 minifigures: the boats captain and two LEGO divers, plus manta ray, hammerhead shark, crab, 2 fish and 2 turtle sea animal figures
+- Kids aged 5+ can create endless creative stories with this fun LEGO underwater set; check out the coral reef setting and sunken treasure chest
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCCKL3N{{</world>}}

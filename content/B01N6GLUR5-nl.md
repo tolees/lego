@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bereid kinderen, jongens en meisjes van 2+ voor op de kleuterschool en laat ze kennismaken met cijfers en kleuren met het LEGO DUPLO Het leven in een kinderdagverblijf educatieve speelgoed
 - Dit kleurrijke peuterspeelgoed bevat een kleuterjuf DUPLO figuur en 3 kinderen die peuters leren hoe ze moeten delen en samen spelen
-- Dit educatieve speelgoed wordt geleverd met een schommelpaard, scooter en rolstoel die zorgen voor veel leerzaam rollenspelplezier
-- Kinderen kunnen een kinderkamer bouwen met tal van leuke functies om te ontdekken, waaronder een kunsttafel, een badkamer en een snacktafel
-- Peuters vanaf 2 jaar zullen genieten van deze LEGO DUPLO speelset, net als ouders die graag de ontwikkeling mijlpalen van hun kinderen delen
+- Bereid kinderen, jongens en meisjes van 2+ voor op de kleuterschool en laat ze kennismaken met cijfers en kleuren met het LEGO DUPLO Het leven in een kinderdagverblijf educatieve speelgoed
 - Met de LEGO DUPLO stenen kunnen kinderen 2 kleurrijke bouwwerken of 1 grote kamer maken, een leerzaam bouwproject voor peuters vanaf 2 jaar
+- Peuters vanaf 2 jaar zullen genieten van deze LEGO DUPLO speelset, net als ouders die graag de ontwikkeling mijlpalen van hun kinderen delen
+- Kinderen kunnen een kinderkamer bouwen met tal van leuke functies om te ontdekken, waaronder een kunsttafel, een badkamer en een snacktafel
+- Dit educatieve speelgoed wordt geleverd met een schommelpaard, scooter en rolstoel die zorgen voor veel leerzaam rollenspelplezier
 - Goed voor het bevorderen van de fijne motoriek - dit speelgoed bestaat uit stenen die ontworpen zijn om kleuters te helpen met hun motorische ontwikkeling
 
 [🛒 Check the deal!!]({{< param buyurl >}})

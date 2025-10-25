@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Bluey’s family house toy – Kids can recreate the fun of the Heeler family home from the Bluey TV show with this LEGO building toy for 4+ year old girls and boys
-- Interactive toy – This modular toy house and garden set includes Bluey, Bingo, Mum and Bandit LEGO minifigures, plus detachable rooms like a playroom, kitchen, two bedrooms, a throne room, toilet and bathroom
-- A fun Bluey gift for 4+ year old girls and boys – This fun-packed toy house playset offers endless imaginative play possibilities for kids who love the Bluey preschool TV show
-- LEGO house with fun accessories – Includes a doll’s house, piano, food stall, fridge, oven, teapot, cup, frog, pizza, hot dog, table, rainbow cape, wand, chairs, magnifying glasses, plus Chattermax and Jeremy the gnome
 - Intuitive building guide – This LEGO 4+ set comes with a printed instruction booklet that helps kids build with ease and grow their confidence through fun, step-by-step guidance
+- Interactive toy – This modular toy house and garden set includes Bluey, Bingo, Mum and Bandit LEGO minifigures, plus detachable rooms like a playroom, kitchen, two bedrooms, a throne room, toilet and bathroom
+- LEGO house with fun accessories – Includes a doll’s house, piano, food stall, fridge, oven, teapot, cup, frog, pizza, hot dog, table, rainbow cape, wand, chairs, magnifying glasses, plus Chattermax and Jeremy the gnome
 - LEGO 4+ set for fans of Bluey TV show – This LEGO Bluey toy includes a buildable model in each bag, a large Starter Brick and simple instructions, making building fast, fun and easy for young builders
 - Boost kids’ fun and growth with Bluey – LEGO Bluey building toys inspire creative role play that kids will love, while giving parents a fun way to share in their child’s developmental milestones
+- A fun Bluey gift for 4+ year old girls and boys – This fun-packed toy house playset offers endless imaginative play possibilities for kids who love the Bluey preschool TV show
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF16QKX{{</world>}}

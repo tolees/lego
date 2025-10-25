@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Brandweer speelgoed voor kinderen vanaf 4 jaar – laat je kleine held kennismaken met de spannende wereld van LEGO City met dit speelgoed brandweerauto bouwpakket voor kinderen voor fantasierijke rollenspellen
 - Welkom in een wereld vol fantasierijk spel – ga voor nog meer plezier en avonturen door deze LEGO City speelset te combineren met andere sets (apart verkrijgbaar) uit het assortiment
-- Wat zit er in de doos? – deze LEGO voertuig speelgoedset bevat alles wat kinderen nodig hebben om een klassieke speelgoed brandweerauto te bouwen, plus 2 minifiguren van brandweerlieden, 2 LEGO vlammen en een handblusser
-- Inclusief een digitale gids – deze LEGO brandweer set is inclusief een LEGO startsteen, eenvoudige bouwinstructies met afbeeldingen en digitale 3D-begeleiding in de LEGO Builder app
 - Speelgoed brandweerwagen met leuke functies voor fantasierijke rollenspellen – de truck heeft een bestuurderscabine met 2 zitplaatsen, een ladder die omhoog kan worden gebracht en een speelgoedbrandblusser voor de minifiguren van brandweerlieden
-- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met speelgoedvoertuigen, gebouwen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - LEGO City cadeaus voor jongens en meisjes – geef deze speelset voor kinderen cadeau voor de feestdagen of zomaar tussendoor aan jongens en meisjes van 4 jaar en ouder die houden van brandweerspeelgoed, rollenspellen en bouwen
+- Brandweer speelgoed voor kinderen vanaf 4 jaar – laat je kleine held kennismaken met de spannende wereld van LEGO City met dit speelgoed brandweerauto bouwpakket voor kinderen voor fantasierijke rollenspellen
+- Wat zit er in de doos? – deze LEGO voertuig speelgoedset bevat alles wat kinderen nodig hebben om een klassieke speelgoed brandweerauto te bouwen, plus 2 minifiguren van brandweerlieden, 2 LEGO vlammen en een handblusser
+- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met speelgoedvoertuigen, gebouwen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Inclusief een digitale gids – deze LEGO brandweer set is inclusief een LEGO startsteen, eenvoudige bouwinstructies met afbeeldingen en digitale 3D-begeleiding in de LEGO Builder app
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSC841B{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Channel your creative Force with this LEGO Star Wars model: recreate the famous Wookies hairy body in LEGO style, with bandolier and giant bowcaster
+- The Chewbacca LEGO Star Wars figure includes a brick-built bowcaster, a bandolier, a built-in display stand and and informative character plaque
+- Build this cool LEGO Star Wars set for adults and display the 46 cm tall Star Wars figure in his iconic action pose as a home or office decoration
+- Number of Pieces: 2,319
 - Celebrate 40 years of Star Wars: Return of the Jedi and the heroic Wookiee with this detailed 2,319 piece LEGO Star Wars Chewbacca figure for adults
 - This LEGO Star Wars collectible model building kit for adults and teens includes a Chewbacca LEGO Star Wars minifigure with a stud-shooting bowcaster
 - Collectible LEGO Star Wars sets for adults are designed for you, the discerning hobbyist who enjoys mindful, creative projects to relax, plus they make great Star Wars-themed Fathers Day gifts for dad
-- Build this cool LEGO Star Wars set for adults and display the 46 cm tall Star Wars figure in his iconic action pose as a home or office decoration
-- Channel your creative Force with this LEGO Star Wars model: recreate the famous Wookies hairy body in LEGO style, with bandolier and giant bowcaster
-- Number of Pieces: 2,319
-- The Chewbacca LEGO Star Wars figure includes a brick-built bowcaster, a bandolier, a built-in display stand and and informative character plaque
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV7DR4B6{{</world>}}

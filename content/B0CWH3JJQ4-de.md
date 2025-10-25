@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Marvel Actionspielzeug: Der baubare „Flugwal“ Leviathan hat 6 bewegliche Flossen, ein aufklappbares Maul, einen Kopf, den man ein wenig zur Seite drehen kann, sowie 2 Shooter und durchsichtige Ständer
-- Superhelden-Bauspielzeug: Wenn Loki und ein Chitauri in ihrem „Flugwal“ Leviathan über der City auftauchen, müssen die LEGO Marvel Avengers die Lage retten
-- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
-- Avengers vs. Leviathan: Dieses LEGO Superhelden-Spielset zum Sammeln bildet den Showdown aus Marvel: The Avengers aus den Marvel Studios nach und ist ein tolles Geschenk für Jungen und Mädchen ab 7 Jahren
-- Weitere LEGO Marvel Spielsets: Das breite Spektrum an LEGO Marvel Bauspielzeugen eröffnet ein ganzes Spieluniversum, das sich ständig wandelt und Kinder zu unzähligen fantasievollen Superhelden-Abenteuern einlädt
-- Marvel Charaktere – der Hulk und 4 Minifiguren: Captain America mit seinem Schild, Black Widow mit einem Shooter, Loki mit Umhang und Helm und ein Chitauri mit Laserpistole
 - Avengers Geschenk für Kinder – mit dem Hulk: Dieses Bau- und Spielset ist ein tolles Geschenk für alle jungen Superhelden, die Actionspielzeug lieben, sowie für alle Fans des Hulks und der anderen Avengers
+- Avengers vs. Leviathan: Dieses LEGO Superhelden-Spielset zum Sammeln bildet den Showdown aus Marvel: The Avengers aus den Marvel Studios nach und ist ein tolles Geschenk für Jungen und Mädchen ab 7 Jahren
+- Marvel Charaktere – der Hulk und 4 Minifiguren: Captain America mit seinem Schild, Black Widow mit einem Shooter, Loki mit Umhang und Helm und ein Chitauri mit Laserpistole
+- LEGO Marvel Actionspielzeug: Der baubare „Flugwal“ Leviathan hat 6 bewegliche Flossen, ein aufklappbares Maul, einen Kopf, den man ein wenig zur Seite drehen kann, sowie 2 Shooter und durchsichtige Ständer
+- Weitere LEGO Marvel Spielsets: Das breite Spektrum an LEGO Marvel Bauspielzeugen eröffnet ein ganzes Spieluniversum, das sich ständig wandelt und Kinder zu unzähligen fantasievollen Superhelden-Abenteuern einlädt
+- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
+- Superhelden-Bauspielzeug: Wenn Loki und ein Chitauri in ihrem „Flugwal“ Leviathan über der City auftauchen, müssen die LEGO Marvel Avengers die Lage retten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH3JJQ4{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Entdecke weitere Bausets für Kinder: Schau dir für noch mehr Bauspaß auch noch andere (separat erhältliche) LEGO Friends Sets für kleine Baumeister an
 - Pferde-Spielzeug ab 4 Jahre: Dieses Kinderspielzeug mit Pferdeanhänger ist auf Kinder ab 4 Jahren zugeschnitten, die gerade erst das Bauen mit LEGO Steinen lernen
 - LEGO Set mit reichlich Zubehör für Rollenspiele: Unter anderem ein Sattel, eine Karotte, ein Apfel, eine Bürste und ein Band lassen dein Kind fantasievoll spielen
-- Geschenkideen für Kinder, die Tiere und die Natur lieben: Dieses Pferde-Spielzeug ist ein kreatives Geschenk für Kinder zum Geburtstag oder zu Ostern, die Rollenspiele mit Tierfiguren lieben
-- Spielzeug mit Pferde-Figuren: Dieses LEGO Friends Spielzeug für Mädchen und Jungen ab 4 Jahre beinhaltet ein Auto-Spielzeug und einen Pferdeanhänger zum Zusammenstecken, die Minipuppen Liann und Zoya, ein Pferd, ein Pony und Zubehör
 - 4 LEGO Friends Figuren: Dieses tolle Mini-Puppen-Set beinhaltet die Minipuppen Liann und Zoya sowie ein Pferd und ein Pony, die dein Kind zu unzähligen Rollenspielen und neuen Abenteuern einladen
+- Spielzeug mit Pferde-Figuren: Dieses LEGO Friends Spielzeug für Mädchen und Jungen ab 4 Jahre beinhaltet ein Auto-Spielzeug und einen Pferdeanhänger zum Zusammenstecken, die Minipuppen Liann und Zoya, ein Pferd, ein Pony und Zubehör
+- Entdecke weitere Bausets für Kinder: Schau dir für noch mehr Bauspaß auch noch andere (separat erhältliche) LEGO Friends Sets für kleine Baumeister an
+- Geschenkideen für Kinder, die Tiere und die Natur lieben: Dieses Pferde-Spielzeug ist ein kreatives Geschenk für Kinder zum Geburtstag oder zu Ostern, die Rollenspiele mit Tierfiguren lieben
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW2C8L3{{</world>}}

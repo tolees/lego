@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Versatile LEGO Minecraft toy – Minecraft weapons adventure set for kids offers boys and girls aged 7+ a gateway to creative Minecraft adventures
 - Combine for more fun – Minecraft Armoury can be combined with other LEGO Minecraft sets like The Nether Portal Ambush (21255), sold separately
-- Terracotta tiles – This authentically detailed LEGO Minecraft building toy includes terracotta tiles, highly prized by Minecraft players
 - Minecraft characters – Alex with a diamond sword and Armoursmith Minecraft figures, plus weapons, including a golden axe, enchanted trident and more
 - 3-part building toy – Workplace with anvil, furnace, grindstone and cauldron, an armour display room with weapon chest, and a Nether portal
+- Versatile LEGO Minecraft toy – Minecraft weapons adventure set for kids offers boys and girls aged 7+ a gateway to creative Minecraft adventures
+- Terracotta tiles – This authentically detailed LEGO Minecraft building toy includes terracotta tiles, highly prized by Minecraft players
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW1M2WB{{</world>}}

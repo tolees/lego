@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Interaktives Spielerlebnis: Lass LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren sind nicht enthalten) das Spielzeugauto fahren, um eine trötende Hupe, einen laufenden Motor und quietschende Reifen zu hören und digitale Münzen zu verdienen
 - Spielspaß für die ganze Familie: Setz die LEGO Bowser auf den Fahrersitz und zieh den gelben Hebel in eine Richtung, um die Zierelemente auf der Motorhaube zu bewegen; legst du ihn in die andere Richtung, werden noch andere Tricks ausgelöst
 - Super Mario Figuren aus LEGO Steinen: Für ein interaktives Spielerlebnis ist die LEGO Super Mario Bowser-Figur mit einem Funktionsstein versehen
-- Interaktives Spielerlebnis: Lass LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren sind nicht enthalten) das Spielzeugauto fahren, um eine trötende Hupe, einen laufenden Motor und quietschende Reifen zu hören und digitale Münzen zu verdienen
 - Bowsers Monsterkarre ist ein tolles Auto-Spielzeug für Kinder: Dieses LEGO Super Mario Erweiterungsset lässt dein Kind mit dem Bowser-Auto fahren, starke Wettkämpfe austragen und in verschiedene Rollen schlüpfen
 - Geschenk für Gamer ab 8 Jahren: Dieses Set ist ein tolles Gamer-Geschenk für Jungs und Mädchen und eignet sich prima als Geburtstagsgeschenk für Kinder, die bereits eines der erforderlichen LEGO Super Mario Startersets (71360, 71387 oder 71403) haben
 

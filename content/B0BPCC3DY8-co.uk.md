@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The LEGO City Deep-Sea Explorer Submarine toy set for kids aged 7+ features a shipwreck setting protected by sharks plus lots of cool equipment
-- Includes 6 explorer minifigures and 3 LEGO sharks, 2 jellyfish and 4 fish animal figures, plus accessories including torches, toy camera and spanner
-- The shipwreck setting in this LEGO underwater set features sunken treasure, 2 circling sharks and a shark-surprise function for kids to discover
-- The LEGO ocean explorer submarine toy features two mechanical arms, a bubble minifigure cockpit and a well equipped laboratory
-- Kids can open the subs fuselage to deploy the drone and use the working grabber claws to safely retrive the sunken treasure
-- The LEGO City ocean set also includes a launchable toy drone and a mech-style LEGO diving suit for fun seabed exploration missions
 - This LEGO City ocean set with submarine toy for kids aged 7+ makes a fun birthday gift for boys and girls, or Christmas present for all explorers
+- Kids can open the subs fuselage to deploy the drone and use the working grabber claws to safely retrive the sunken treasure
+- The LEGO City Deep-Sea Explorer Submarine toy set for kids aged 7+ features a shipwreck setting protected by sharks plus lots of cool equipment
+- The shipwreck setting in this LEGO underwater set features sunken treasure, 2 circling sharks and a shark-surprise function for kids to discover
+- Includes 6 explorer minifigures and 3 LEGO sharks, 2 jellyfish and 4 fish animal figures, plus accessories including torches, toy camera and spanner
+- The LEGO ocean explorer submarine toy features two mechanical arms, a bubble minifigure cockpit and a well equipped laboratory
+- The LEGO City ocean set also includes a launchable toy drone and a mech-style LEGO diving suit for fun seabed exploration missions
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCC3DY8{{</world>}}

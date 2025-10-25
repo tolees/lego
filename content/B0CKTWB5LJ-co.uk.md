@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- PACKAGING - Comes in a clear polybag
+- INCLUDED - Luke Skywalker Minifig with Dark Green Lightsaber, and a The Brick People tile!
 - SMALL PARTS - Figure Measures less than 2 Inches tall. - Not Suitable for Kids under 6 years of age.
 - Authentic LEGO Figure
-- INCLUDED - Luke Skywalker Minifig with Dark Green Lightsaber, and a The Brick People tile!
+- PACKAGING - Comes in a clear polybag
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CKTWB5LJ{{</world>}}

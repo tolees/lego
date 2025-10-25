@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Jet plane action – The LEGO vehicle is easy for kids to hold and features an opening cockpit, 2 stud shooters and a removable storage compartment
-- LEGO Marvel range – The extensive choice of LEGO Marvel building toys and figures is designed to deliver endless imaginative build-and-play possibilities
-- LEGO Marvel Avengers gift for kids – This set makes a fun birthday gift for 7 plus year old boys and girls who love jet planes and Super Hero building toys
-- Super Hero fun – LEGO Marvel Captain America vs. Red Hulk Battle is a buildable plane toy for 7+ year old boys and girls which includes 4 characters
-- 3D building instructions – The LEGO Builder app features digital tools to zoom in and rotate models in 3D, save sets and track progress
 - LEGO Marvel Avengers minifigures – The buildable set includes Captain America and Falcon (both with opening wings), Red Hulk and Ruth Bat-Seraph
+- LEGO Marvel Avengers gift for kids – This set makes a fun birthday gift for 7 plus year old boys and girls who love jet planes and Super Hero building toys
+- LEGO Marvel range – The extensive choice of LEGO Marvel building toys and figures is designed to deliver endless imaginative build-and-play possibilities
+- 3D building instructions – The LEGO Builder app features digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Super Hero fun – LEGO Marvel Captain America vs. Red Hulk Battle is a buildable plane toy for 7+ year old boys and girls which includes 4 characters
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPM1B{{</world>}}

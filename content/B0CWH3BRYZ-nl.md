@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Avonturen met interactieve LEGO Luigi speelgoed set – ga samen met LEGO Luigi op een missie om erachter te komen wie de tuin heeft vergiftigd met dit LEGO Super Mario speelgoed voor kinderen
+- 4 LEGO Super Mario figuren – deze Nintendo game speelset om te verzamelen bevat een interactief LEGO Luigi poppetje, plus Kamek, een roze baby Yoshi en een Boo
 - Nintendo cadeau voor kinderen – deze avontuurlijke LEGO Super Mario speelgoed set is een leuk cadeau voor jongens, meisjes en gamers vanaf 6 jaar
 - Tuinspeelset – begin bij de startbuis, begroet de roze baby Yoshi en pak een lantaarn, versla de Boo, eet het fruit, neem het op tegen Kamek en eindig bij de vlaggenstok
-- 4 LEGO Super Mario figuren – deze Nintendo game speelset om te verzamelen bevat een interactief LEGO Luigi poppetje, plus Kamek, een roze baby Yoshi en een Boo
-- Voed de creativiteit van kinderen – LEGO Super Mario bouwpakketten voor kinderen staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. De sets zijn ideaal om alleen of juist samen mee te spelen
 - Een helpende hand – download de LEGO Super Mario app voor bouwinstructies, creatieve ideeën en meer. Ga naar LEGO.com/devicecheck voor een lijst met compatibele Android- en iOS-apparaten
+- Voed de creativiteit van kinderen – LEGO Super Mario bouwpakketten voor kinderen staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. De sets zijn ideaal om alleen of juist samen mee te spelen
 - Strijd om Kameks bezem – help LEGO Luigi op het paddenstoelplatform te stampen om Kamek omver te werpen, hem te verslaan en weg te vliegen op zijn bezem
 
 [🛒 Check the deal!!]({{< param buyurl >}})

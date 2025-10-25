@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Value for money (Amazon Exclusive)
 - Made for display – Place your TIE Interceptor on the brick-built display stand, which has an information plaque, a LEGO Star Wars25th anniversary brick and space for the TIE Pilot and mouse droid
 - Collectible LEGO Star Warsstarfighter – Use neat building techniques to recreate the TIE Interceptor’s distinctive wing design, detailed cockpit with an opening hatch, laser cannons and more
-- Value for money (Amazon Exclusive)
 - A TIE Pilot and a Mouse Droid – This unique, creative building set includes a TIE Pilot LEGO minifigure with special arm decoration, plus a LEGO mouse droid figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})

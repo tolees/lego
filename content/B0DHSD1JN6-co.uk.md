@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Hands-on video game toy – Kids build a mooshroom-shaped LEGO house with a small farm on an island, go fishing in a boat and search for treasure
+- Minecraft made real – LEGO Minecraft building toys give players a different way to enjoy the game, with characters, mobs and locations brought to life with the hands-on creativity of LEGO bricks
 - Minecraft figures – Includes iconic character Steve, a red mooshroom, baby red mooshroom, brown mooshroom, calico cat and the hostile flying phantom
 - LEGO Minecraft set for kids – The Mooshroom House building toy for 8+ year old girls and boys is packed with features and Minecraft characters
-- Minecraft gift for kids – This LEGO Minecraft building toy is a fun birthday or any-day gift idea for 8 plus year old girls, boys and gamers
-- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Minecraft made real – LEGO Minecraft building toys give players a different way to enjoy the game, with characters, mobs and locations brought to life with the hands-on creativity of LEGO bricks
 - Authentic accessories – Includes a fishing rod, cod, hoe, netherite sword, bowl, boat with oars, chest, furnace, crafting table, bookshelf and a bed
-- Hands-on video game toy – Kids build a mooshroom-shaped LEGO house with a small farm on an island, go fishing in a boat and search for treasure
+- Minecraft gift for kids – This LEGO Minecraft building toy is a fun birthday or any-day gift idea for 8 plus year old girls, boys and gamers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSD1JN6{{</world>}}

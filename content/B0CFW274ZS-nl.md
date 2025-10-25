@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kenmerken en functies – deze LEGO Icons racewagenreplica beschikt over echt werkende besturing, stangophanging, een verstelbare achtervleugel, gladde banden, spiegels, een versnellingspook en een gedetailleerde V6-turbomotor
-- Wat zit er in de doos? – dit creatieve bouwpakket voor volwassenen bevat alles wat je nodig hebt om een replica op schaal van de McLaren MP4/4 Formule 1 auto te maken, plus een displaystandaard voor de racewagen en voor de minifiguur van Ayrton Senna
-- Huis of kantoor decoratie – inclusief een McLaren MP4/4 displaystandaard met gedrukte voertuigstatistieken en een displaystandaard voor de Ayrton Senna minifiguur met een foto en een bekend citaat van Senna
-- Creatieve hobby voor volwassenen – dit LEGO Icons project maakt deel uit van een reeks geavanceerde LEGO voor volwassenen en is een geweldig cadeau voor hem of haar
 - Verzamelmodel van een LEGO raceauto voor volwassenen – dit LEGO Icons McLaren MP4/4 en Ayrton Senna bouwproject is ontworpen voor fans van autosport en beroemde voertuigen
+- Wat zit er in de doos? – dit creatieve bouwpakket voor volwassenen bevat alles wat je nodig hebt om een replica op schaal van de McLaren MP4/4 Formule 1 auto te maken, plus een displaystandaard voor de racewagen en voor de minifiguur van Ayrton Senna
+- Kenmerken en functies – deze LEGO Icons racewagenreplica beschikt over echt werkende besturing, stangophanging, een verstelbare achtervleugel, gladde banden, spiegels, een versnellingspook en een gedetailleerde V6-turbomotor
+- Creatieve hobby voor volwassenen – dit LEGO Icons project maakt deel uit van een reeks geavanceerde LEGO voor volwassenen en is een geweldig cadeau voor hem of haar
+- Huis of kantoor decoratie – inclusief een McLaren MP4/4 displaystandaard met gedrukte voertuigstatistieken en een displaystandaard voor de Ayrton Senna minifiguur met een foto en een bekend citaat van Senna
 - Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO Icons bouwset horen
 
 [🛒 Buy it!!]({{< param buyurl >}})

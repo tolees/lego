@@ -30,12 +30,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Dieses Modell enthält 7500 Teile
 - In der Geschützstation gibt es einen Sitz für eine Minifigur und eine abnehmbare Rumpfplatte mit voll drehbarer Vierlingslaserkanone An der Unterseite ist eine weitere Vierlingslaserkanone montiert
-- In dem Heckfrachtraum befinden sich der Maschinenraum mit Hyperantrieb und Bedienkonsole, 2 Eingänge, ein im Boden versteckter Stauraum, 2 Luken zur Rettungskapsel, eine Technikkonsole und eine Zustiegsleiter zur Geschützstation
-- Ein Droid vom Typ BB-8, 2 baubare Porgs und ein baubarer Mynock sind als weitere Figuren enthalten
-- Außen befinden sich abnehmbare Rumpfplatten mit aufwendigen Details, eine absenkbare Einstiegsrampe, eine verborgene Blaster-Kanone, ein Cockpit mit abnehmbarem Kabinendach für 4 Minifiguren, austauschbare (runde oder eckige) Sensorschüsseln, Vierlingslaserkanonen oben und unten sowie 7 Landebeine
 - Ebenfalls enthalten sind 3 Crewmitglieder aus Episode VII/VIII als weitere Minifiguren: der ältere Han Solo, Rey und Finn
 - In dem Hauptfrachtraum gibt es einen Sitzbereich, ein Dejarik-Holospiel, einen Trainingssimulatorhelm, eine Technikstation mit Sitz für eine Minifigur und eine verzierte Tür, die einen Durchgang darstellt
+- In dem Heckfrachtraum befinden sich der Maschinenraum mit Hyperantrieb und Bedienkonsole, 2 Eingänge, ein im Boden versteckter Stauraum, 2 Luken zur Rettungskapsel, eine Technikkonsole und eine Zustiegsleiter zur Geschützstation
+- Außen befinden sich abnehmbare Rumpfplatten mit aufwendigen Details, eine absenkbare Einstiegsrampe, eine verborgene Blaster-Kanone, ein Cockpit mit abnehmbarem Kabinendach für 4 Minifiguren, austauschbare (runde oder eckige) Sensorschüsseln, Vierlingslaserkanonen oben und unten sowie 7 Landebeine
 - Enthält 4 Mitglieder der ursprünglichen Crew als Minifiguren: Han Solo, Chewbacca, Prinzessin Leia und C-3PO
+- Ein Droid vom Typ BB-8, 2 baubare Porgs und ein baubarer Mynock sind als weitere Figuren enthalten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B075PT2JH9{{</world>}}

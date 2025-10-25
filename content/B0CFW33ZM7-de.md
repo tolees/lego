@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3 LEGO Star Wars Minifiguren und Grogu: Kelleran Beq mit blauem und grünem Lichtschwert, die beiden Clone Troopers der 501. Legion mit Blastern sowie die LEGO Figur Grogu bzw. Baby Yoda
-- Bauspielzeug für unzählige Fantasy-Abenteuer: Das LEGO Star Wars Set beinhaltet auch ein kleines Modell der Kulisse aus der Rückblende mit dem Jedi-Tempel aus Star Wars: The Mandalorian, um Kinder kreativ spielen zu lassen
-- Star Wars Sammlerstücke für Fans jeden Alters: LEGO Star Wars Sets lassen Kinder und erwachsene Fans legendäre Szenen nachstellen, eigene Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
 - LEGO Star Wars BARC Speeder mit Beiwagen: Fans von Star Wars: The Mandalorian können mit diesem Bauset die Rückblende auf die waghalsige Flucht mit dem BARC Speeder aus der 3. Staffel der TV-Serie nachstellen
-- Geschenkidee für Kinder ab 8 Jahren: Der LEGO Star Wars BARC Speeder ist ein faszinierendes Bauspielzeug und ein tolles Geschenk für Jungen und Mädchen sowie für alle Sammler und Fans von Star Wars: The Mandalorian
-- Star Wars Spielzeug, das einen BARC Speeder darstellt: Das detailgetreue Spielzeug-Bike verfügt über ein Minifigur-Cockpit, 2 Shooter und einen abtrennbaren Beiwagen, in den Grogus baubarer Schwebekinderwagen hineinpasst
+- 3 LEGO Star Wars Minifiguren und Grogu: Kelleran Beq mit blauem und grünem Lichtschwert, die beiden Clone Troopers der 501. Legion mit Blastern sowie die LEGO Figur Grogu bzw. Baby Yoda
 - Intuitive Bauanleitung: In der LEGO Builder App können Kinder beim Bauen eine digitale Modellansicht dieses Star Wars Spielzeugs vergrößern, drehen und näher betrachten
+- Star Wars Spielzeug, das einen BARC Speeder darstellt: Das detailgetreue Spielzeug-Bike verfügt über ein Minifigur-Cockpit, 2 Shooter und einen abtrennbaren Beiwagen, in den Grogus baubarer Schwebekinderwagen hineinpasst
+- Bauspielzeug für unzählige Fantasy-Abenteuer: Das LEGO Star Wars Set beinhaltet auch ein kleines Modell der Kulisse aus der Rückblende mit dem Jedi-Tempel aus Star Wars: The Mandalorian, um Kinder kreativ spielen zu lassen
+- Geschenkidee für Kinder ab 8 Jahren: Der LEGO Star Wars BARC Speeder ist ein faszinierendes Bauspielzeug und ein tolles Geschenk für Jungen und Mädchen sowie für alle Sammler und Fans von Star Wars: The Mandalorian
+- Star Wars Sammlerstücke für Fans jeden Alters: LEGO Star Wars Sets lassen Kinder und erwachsene Fans legendäre Szenen nachstellen, eigene Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW33ZM7{{</world>}}

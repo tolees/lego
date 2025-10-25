@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Lässt sich mit dem Set „Mos Eisley Cantina“ (75205) kombinieren, um spannende Action-Abenteuer auf Tatooine zu erleben
+- Lade die Sandtrooper ein und fliege mit ihnen quer durch die Galaxie, um sie dorthin zu bringen, wo sie gebraucht werden
 - Die Ausrüstung umfasst eine Blaster-Pistole, 2 Blaster und Obi-Wans Lichtschwert
 - Die Imperiale Landefähre verfügt über Schwenkflügel für den Flug-/Landemodus, 2 Shooter, ein Fahrwerk, ein aufklappbares Minifiguren Cockpit und aufklappbare Dachplatten mit ausziehbarer Rampe sowie jede Menge Platz, um deine Minifiguren im Laderaum hinzusetzen oder aufzustellen
-- Lade die Sandtrooper ein und fliege mit ihnen quer durch die Galaxie, um sie dorthin zu bringen, wo sie gebraucht werden
 - Enthält 4 Minifiguren: Obi-Wan Kenobi, einen Imperialen Shuttlepiloten, einen Sandtrooper und einen Sandtrooper-Anführer sowie R2-D2!
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Elemente, die zum Spielen einladen: Dieses LEGO Prinzessin-Schloss-Spielzeug inspiriert Disney-Fans dazu, sich eigene Geschichten und Abenteuer auszudenken; sie können beispielsweise am Lagerfeuer Marshmallows rösten
-- Disney-Geschenk für Kinder und Fans ab 4 Jahren: Das Set ist ein tolles Geburtstagsgeschenk oder Weihnachtsgeschenk für Mädchen und Jungen, die von den unzähligen Spielmöglichkeiten und den Disney Prinzessinnen Figuren begeistert sein werden
-- Elsa-Spielzeug für 4-jährige Kinder: Überrasche Mädchen und Jungen mit LEGO Disney Elsas Eispalast, einem Eiskönigin-Spielzeug, dass die Fantasie der Kinder weckt; Beim Bauen und Spielen erfinden sie eigene Märchen aus der Welt der Eiskönigin
 - Viele Funktionen: In dem LEGO Frozen Schloss-Spielzeug gibt es eine drehbare Tanzfläche, einen Kamin und eine Futterstelle für die Tiere, und im Spielbereich findest du eine Schaukel, eine Rutsche und eine aufklappbare Schatztruhe
 - Eiskönigin-Schloss: Dieses Disney Frozen Bauset beinhaltet Elsas Palast, der dem Schloss aus den Filmen mit der Eiskönigin nachempfunden ist, die LEGO Disney Elsa und Anna Puppen sowie 2 LEGO Disney Tierfiguren – Bruni und ein Baby-Rentier
+- Disney-Geschenk für Kinder und Fans ab 4 Jahren: Das Set ist ein tolles Geburtstagsgeschenk oder Weihnachtsgeschenk für Mädchen und Jungen, die von den unzähligen Spielmöglichkeiten und den Disney Prinzessinnen Figuren begeistert sein werden
+- Elsa-Spielzeug für 4-jährige Kinder: Überrasche Mädchen und Jungen mit LEGO Disney Elsas Eispalast, einem Eiskönigin-Spielzeug, dass die Fantasie der Kinder weckt; Beim Bauen und Spielen erfinden sie eigene Märchen aus der Welt der Eiskönigin
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2WMSF{{</world>}}

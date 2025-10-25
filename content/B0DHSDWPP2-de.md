@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Legendäre Flitzer zum Bauen, Spielen und Ausstellen: LEGO Speed Champions Sets lassen Kinder und Autofans einige der berühmtesten Flitzer der Welt mit LEGO Steinen nachbilden
-- Modell eines F1 Rennautos zum Ausstellen und Sammeln: Nach den packenden Rennen können Kinder das Aston Martin Aramco F1 Spielzeug Auto in einem Regal oder auf dem Nachttisch ausstellen
 - Aston Martin Aramco F1 Spielzeugauto für Kinder: Jungen und Mädchen ab 10 Jahren können das LEGO Speed Champions Formel 1 Rennauto bauen, ausstellen und in spannende Rennen schicken
-- Authentische F1 Details: Das Modellauto hat dieselben Designdetails wie der echte Flitzer aus der Saison 2024, unter anderem einen Halo-Bügel, einen Heckflügel, Sponsorenaufkleber und breitere Hinterreifen mit dem Aufdruck „Pirelli“
+- Enthält 1 Rennfahrer Spielzeugfigur: Dieses Spielset beinhaltet einen Rennfahrer im Aston Martin Aramco F1 Rennoverall; Die Minifigur trägt einen Helm und lässt sich für spannende Rennen ins Cockpit setzen
+- Legendäre Flitzer zum Bauen, Spielen und Ausstellen: LEGO Speed Champions Sets lassen Kinder und Autofans einige der berühmtesten Flitzer der Welt mit LEGO Steinen nachbilden
 - Geschenkidee für F1 Fans: Dieses Premium-Modell eines Aston Martin Aramco F1-Rennautos bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle LEGO Geschenkidee für Kinder ab 10 Jahren und für Erwachsene, die Modellautos sammeln
 - Faszinierender F1 Spaß für die ganze Familie: Entdecke noch weitere separat erhältliche LEGO F1 Bausets und Modelle, um dir spannende Rennen mit deiner ganzen Familie zu liefern und wertvolle Zeit miteinander zu verbringen
-- Enthält 1 Rennfahrer Spielzeugfigur: Dieses Spielset beinhaltet einen Rennfahrer im Aston Martin Aramco F1 Rennoverall; Die Minifigur trägt einen Helm und lässt sich für spannende Rennen ins Cockpit setzen
+- Authentische F1 Details: Das Modellauto hat dieselben Designdetails wie der echte Flitzer aus der Saison 2024, unter anderem einen Halo-Bügel, einen Heckflügel, Sponsorenaufkleber und breitere Hinterreifen mit dem Aufdruck „Pirelli“
+- Modell eines F1 Rennautos zum Ausstellen und Sammeln: Nach den packenden Rennen können Kinder das Aston Martin Aramco F1 Spielzeug Auto in einem Regal oder auf dem Nachttisch ausstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSDWPP2{{</world>}}

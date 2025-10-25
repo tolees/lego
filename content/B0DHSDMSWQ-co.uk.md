@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Authentic accessories – This Star Wars playset includes a LEGO brick-built Sorgan frog, a shifter knob and a cookie for Grogu to hold in his hands
-- Build-and-display model – The Grogu figure features dial-operated arms, a posable head and ears, and can be displayed in or out of the hover pram
-- Star Wars gifts for kids – This 1,048-piece LEGO building kit makes a fun gift for 10+ year old boys, girls and Star Wars: The Mandalorian fans
-- Star Wars collectables – Includes a Grogu information plaque on a stand with space for the included standard-size LEGO Star Wars Grogu minifigure
-- Intuitive instructions – The LEGO Builder app guides kids on an intuitive building adventure with tools to zoom in and rotate a 3D digital version of the model
 - LEGO Star Wars sets for kids and adults – LEGO Star Wars collectable toy building sets (sold separately) let fans recreate classic scenes, make up stories or display the buildable models
+- Intuitive instructions – The LEGO Builder app guides kids on an intuitive building adventure with tools to zoom in and rotate a 3D digital version of the model
+- Star Wars collectables – Includes a Grogu information plaque on a stand with space for the included standard-size LEGO Star Wars Grogu minifigure
 - LEGO Star Wars buildable Grogu toy and hover pram to build – Let kids create a cute Star Wars: The Mandalorian display featuring the Grogu figure
+- Build-and-display model – The Grogu figure features dial-operated arms, a posable head and ears, and can be displayed in or out of the hover pram
+- Authentic accessories – This Star Wars playset includes a LEGO brick-built Sorgan frog, a shifter knob and a cookie for Grogu to hold in his hands
+- Star Wars gifts for kids – This 1,048-piece LEGO building kit makes a fun gift for 10+ year old boys, girls and Star Wars: The Mandalorian fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDMSWQ{{</world>}}

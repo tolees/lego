@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - Bouwset met interactieve gids – ontdek de LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
-- Foodtruckspeelgoed – fastfood serveren wordt kinderspel met de LEGO City Hamburgertruck speelgoed vrachtwagen keukenset voor kinderen vanaf 5 jaar
-- Een leuk cadeau voor elke gelegenheid – deze bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor jongens en meisjes vanaf 5 jaar
-- Wat zit er in deze LEGO voertuig bouwset? – alles wat kinderen nodig hebben om een hamburgertruck en minifiguren van een verkoper en een klant met een gehoorapparaat te bouwen, plus LEGO sausflessen en speelgoed eten
 - Welkom in een wereld vol fantasierijk spel – ga voor nog meer plezier en avonturen door deze set te combineren met andere LEGO City sets (apart verkrijgbaar)
+- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Wat zit er in deze LEGO voertuig bouwset? – alles wat kinderen nodig hebben om een hamburgertruck en minifiguren van een verkoper en een klant met een gehoorapparaat te bouwen, plus LEGO sausflessen en speelgoed eten
+- Een leuk cadeau voor elke gelegenheid – deze bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor jongens en meisjes vanaf 5 jaar
 - Speelset voor fantasiespel – kinderen kunnen het serviceluik omhoog klappen om een uithangbord met een gegrilde speelgoed hamburger te laten zien en het dak is afneembaar om klanten te bedienen vanuit de bereidingsruimte van de foodtruck
+- Foodtruckspeelgoed – fastfood serveren wordt kinderspel met de LEGO City Hamburgertruck speelgoed vrachtwagen keukenset voor kinderen vanaf 5 jaar
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2KC3H{{</world>}}

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Deze eenvoudig te bouwen LEGO 4+ speelset wordt geleverd met een handige LEGO startsteen en een handleiding met afbeeldingen, plus digitale instructies en tools op de LEGO Builder app
-- Dit educatieve speelgoed voor kinderen vanaf 4 jaar bevat 2 bouwvakker mini figuren en 1 figuur van een ingenieur plus koevoet, kruiwagen, walkietalkie en bouwtekening accessoires
-- Kiepwagen, bouwtruck en sloopkraan set voor jongens, meisjes en alle bouwvoertuig liefhebbende kinderen vanaf 4 jaar, met 3 voertuigen, 3 mini figuren en leuke accessoires
 - Kinderen kunnen met de giek zwaaien om het vervallen huis te slopen en vervolgens de sloopkogel vervangen door de emmer om het puin in de kiepwagen te scheppen
 - Boost de creativiteit van kinderen met dit educatieve speelgoed; het ideale kerstcadeau of verjaardagscadeau voor jongens en meisjes vanaf 4 jaar
+- Kiepwagen, bouwtruck en sloopkraan set voor jongens, meisjes en alle bouwvoertuig liefhebbende kinderen vanaf 4 jaar, met 3 voertuigen, 3 mini figuren en leuke accessoires
+- Dit educatieve speelgoed voor kinderen vanaf 4 jaar bevat 2 bouwvakker mini figuren en 1 figuur van een ingenieur plus koevoet, kruiwagen, walkietalkie en bouwtekening accessoires
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCD8L88{{</world>}}

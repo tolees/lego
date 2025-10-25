@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MONTESSORI SPEELGOED – het fantasierijke LEGO DUPLO speelgoed is vakkundig ontworpen om kleine leerlingen te helpen de wereld die ze om zich heen zien te begrijpen en de fijne motoriek te stimuleren
-- PEUTERSPEELGOED VOOR SPANNENDE VERHALEN – jonge kinderen leren spelenderwijs logisch te denken door voor het meisje te zorgen, haar te behandelen in de ambulance en haar vervolgens naar het ziekenhuis te brengen
 - VERJAARDAGSCADEAU VOOR PEUTERS – dit speelgoed is een geweldig cadeau voor een speciale gelegenheid of de feestdagen voor kinderen vanaf 2 jaar en jongens en meisjes die dol zijn op doen alsof
-- SOCIAAL-EMOTIONELE LEERACTIVITEITEN – inclusief figuren van een verpleegkundige en een meisje, een auto, een speelgoedtas en een EHBO-doos, zodat peuters sociale vaardigheden kunnen ontwikkelen terwijl ze leren hoe artsen voor patiënten zorgen
-- AMBULANCE SPEELGOED VOOR PEUTERS – peuters spelen reddingssituaties uit het echte leven na met het Ambulance met chauffeur peuterspeelgoed, dat bestaat uit een ambulance en een klein gebouw
-- CREATIEVE ROLLENSPELLEN – peuters ontwikkelen empathie terwijl ze zich voorstellen hoe de patiënt zich voelt met behulp van het digitale speelwiel in de bouwinstructies van de LEGO Builder app
+- PEUTERSPEELGOED VOOR SPANNENDE VERHALEN – jonge kinderen leren spelenderwijs logisch te denken door voor het meisje te zorgen, haar te behandelen in de ambulance en haar vervolgens naar het ziekenhuis te brengen
 - EDUCATIEF SPEELGOED VOOR KINDEREN – om kennis te maken met nog een ervaring uit het echte leven is er het LEGO DUPLO Stad Voor het eerst naar de dokter fantasiespeelgoed (apart verkrijgbaar)
+- AMBULANCE SPEELGOED VOOR PEUTERS – peuters spelen reddingssituaties uit het echte leven na met het Ambulance met chauffeur peuterspeelgoed, dat bestaat uit een ambulance en een klein gebouw
+- SOCIAAL-EMOTIONELE LEERACTIVITEITEN – inclusief figuren van een verpleegkundige en een meisje, een auto, een speelgoedtas en een EHBO-doos, zodat peuters sociale vaardigheden kunnen ontwikkelen terwijl ze leren hoe artsen voor patiënten zorgen
+- MONTESSORI SPEELGOED – het fantasierijke LEGO DUPLO speelgoed is vakkundig ontworpen om kleine leerlingen te helpen de wereld die ze om zich heen zien te begrijpen en de fijne motoriek te stimuleren
+- CREATIEVE ROLLENSPELLEN – peuters ontwikkelen empathie terwijl ze zich voorstellen hoe de patiënt zich voelt met behulp van het digitale speelwiel in de bouwinstructies van de LEGO Builder app
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00CYH1VLY{{</world>}}

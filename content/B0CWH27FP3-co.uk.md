@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spidey toy –Kids can recreate scenes from Spidey and His Amazing Friends with Spin’s Motorcycle Adventure toy for 2-plus-year-old boys and girls
 - Creative toys – Includes a LEGO DUPLO Spin figure, a motorbike toy, a build-and-rebuild toy HQ, a web element and a Trace-E robot spider brick
-- Playful learning – LEGO DUPLO Marvel toys are expertly designed with colourful, toddler-friendly bricks to develop fine motor skills and imaginative features to encourage open-ended, creative fun
 - Gift idea for Spidey fans – Delight kids who love toys with wheels with this set as a birthday gift for 2-plus-year-old toddlers, boys and girls
+- Spidey toy –Kids can recreate scenes from Spidey and His Amazing Friends with Spin’s Motorcycle Adventure toy for 2-plus-year-old boys and girls
+- Playful learning – LEGO DUPLO Marvel toys are expertly designed with colourful, toddler-friendly bricks to develop fine motor skills and imaginative features to encourage open-ended, creative fun
 - Toddler learning toy with DUPLO bricks – This fun toy helps toddlers develop logical thinking and self-expression while they role-play being Spin
 - Toys for preschoolers who love action play – Kids role-play being Spin, performing stunts on the motorcycle and catching bricks in the web element
 

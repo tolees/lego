@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief 3 LEGO Star Wars mini figuren: Darth Vader en Luke Skywalker, elk met lichtzwaarden, en Keizer Palpatine met 2 Sith bliksemschichtelementen
-- Trakteer jezelf of geef deze 807-delige set als episch Star Wars cadeau aan een fan met Kerstmis, een verjaardag of een andere bijzondere gelegenheid
 - Leg het drama van Darth Vader en Luke Skywalkers lichtzwaard duel in Star Wars: Return of the Jedi vast met deze LEGO Star Wars Troonzaal van de keizer diorama set voor volwassenen
 - Maak het iconische model af met een naamplaatje ter ere van de 40ste verjaardag van Star Wars: Return of the Jedi, waardoor het een geweldige collectible is om toe te voegen aan elke LEGO Star Wars collection
 - Bouw de troonzaal van de keizer, compleet met een Death Star vensterelement dat speciaal voor deze set is ontworpen en de draaiende troon van keizer Palpatine
 - Dit model bouwpakket voor volwassenen is onderdeel van een serie verzamelbare LEGO Star Wars diorama sets, die elk een memorabele Star Wars scène uitbeelden
+- Inclusief 3 LEGO Star Wars mini figuren: Darth Vader en Luke Skywalker, elk met lichtzwaarden, en Keizer Palpatine met 2 Sith bliksemschichtelementen
+- Trakteer jezelf of geef deze 807-delige set als episch Star Wars cadeau aan een fan met Kerstmis, een verjaardag of een andere bijzondere gelegenheid
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBVFZTY4{{</world>}}

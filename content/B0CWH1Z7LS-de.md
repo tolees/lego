@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bauspielzeug mit Iron Man und dem Hulk: LEGO Marvel Iron Man mit Bike und der Hulk ist ein Bau- und Spielset für Kinder, das auf Jungen und Mädchen ab 4 Jahren zugeschnitten ist
-- Weitere Superhelden-Spielsets: Schau dir die volle Auswahl an LEGO Marvel Bau- und Spielsets an, um noch mehr ebenso kreativen wie fantasievollen Bau- und Spielspaß zu erleben
-- Faszinierendes Abenteuer-Spielset: Kinder können eine Funktion aktivieren, um das Gebäude einstürzen zu lassen (das passiert häufiger, wenn der Hulk auftaucht), und das Haus neu errichten, damit der Hulk wieder etwas „zu tun“ hat
 - Superhelden-Set mit Minifiguren: Beinhaltet die Minifiguren Iron Man und den Hulk, Iron Mans baubares Schiebemotorrad, ein baubares Haus und cooles Zubehör
-- Auf junge Baumeister zugeschnitten: Ein vorgefertigter Fahrzeugrahmen dient als Starter-Bauelement, um Kinder rasch bauen und schneller spielen zu lassen; für unzählige spannende Baumöglichkeiten
+- Faszinierendes Abenteuer-Spielset: Kinder können eine Funktion aktivieren, um das Gebäude einstürzen zu lassen (das passiert häufiger, wenn der Hulk auftaucht), und das Haus neu errichten, damit der Hulk wieder etwas „zu tun“ hat
+- Bauspielzeug mit Iron Man und dem Hulk: LEGO Marvel Iron Man mit Bike und der Hulk ist ein Bau- und Spielset für Kinder, das auf Jungen und Mädchen ab 4 Jahren zugeschnitten ist
 - Bauspielzeuge für Vorschulkinder: LEGO 4+ Sets stellen Kindern ein ganzes Spieluniversum mit all ihren Lieblingsfiguren aus Film und Fernsehen und vielen Heldinnen und Helden des Alltags vor
+- Weitere Superhelden-Spielsets: Schau dir die volle Auswahl an LEGO Marvel Bau- und Spielsets an, um noch mehr ebenso kreativen wie fantasievollen Bau- und Spielspaß zu erleben
+- Auf junge Baumeister zugeschnitten: Ein vorgefertigter Fahrzeugrahmen dient als Starter-Bauelement, um Kinder rasch bauen und schneller spielen zu lassen; für unzählige spannende Baumöglichkeiten
 - LEGO Marvel Avengers Geschenk für Kinder: Dieses Bauspielzeug zum Sammeln lässt Superhelden ab 4 Jahren besonders kreativ spielen und ist ein tolles Geburtstags- oder Weihnachtsgeschenk
 
 [🛒 Buy it now!!]({{< param buyurl >}})

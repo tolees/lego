@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- HipHop Robot BeatBox
-- Anzahl der Teile: 73
-- Mit der kostenlosen LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
 - Vom Hersteller empfohlenes Alter: 7+
+- Mit der kostenlosen LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
+- Anzahl der Teile: 73
 - Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
+- HipHop Robot BeatBox
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08G4FRM1T{{</world>}}

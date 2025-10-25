@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Coscia di pollo e boccale di birra per un banchetto medievale
-- Comprimere i mantici per attivare il mattoncino luminoso
 - Set che riproduce la casa e la bottega di un fabbro medievale con il tetto rimovibile
 - La fucina del fabbro è piena di attrezzi, carbone e armature
+- Comprimere i mantici per attivare il mattoncino luminoso
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08W57ZSJN{{</world>}}
