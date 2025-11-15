@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Regalo LEGO Marvel para niños de 10 años o más: Este set LEGO es una idea de regalo óptima para apasionados de los superhéroes de juguete y, especialmente, de la película de Marvel Studios Capitán América: Civil War
-- Juego LEGO de aventuras de superhéroes: Una función de barril que explota y una aeronave Quinjet con alas replegables y cabina abatible fomentan las posibilidades para jugar y exponer con imaginación
-- Figuras LEGO Marvel: Incluye una gran figura LEGO completamente articulada de Ant-Man y 8 minifiguras de superhéroes de juguete del Capitán América, el Soldado de Invierno, Wanda, Falcon, Iron Man, Spider-Man, la Viuda Negra y Black Panther
 - Batalla de Capitán América: Civil War: Este juguete de construcción Marvel para niños y niñas a partir de 10 años recrea la escena del enfrentamiento en el aeropuerto de la película Marvel
 - Juguete del Capitán América: Tu peque puede recrear sus momentos favoritos de la película Capitán América: Civil War y con los superhéroes de juguete
+- Juego LEGO de aventuras de superhéroes: Una función de barril que explota y una aeronave Quinjet con alas replegables y cabina abatible fomentan las posibilidades para jugar y exponer con imaginación
+- Figuras LEGO Marvel: Incluye una gran figura LEGO completamente articulada de Ant-Man y 8 minifiguras de superhéroes de juguete del Capitán América, el Soldado de Invierno, Wanda, Falcon, Iron Man, Spider-Man, la Viuda Negra y Black Panther
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDMSXW{{</world>}}

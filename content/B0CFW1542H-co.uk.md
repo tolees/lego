@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CREATIVE FREEDOM FOR KIDS – The building set also includes a wheelbase so toddlers can give their LEGO DUPLO figures wheels instead of feet
-- LEARNING THROUGH PLAY – LEGO DUPLO building sets are carefully designed so preschool children can develop self-expression and fine motor skills in a fun way
 - CUSTOMISABLE LEARNING TOYS – LEGO DUPLO Town Buildable People with Big Emotions toy for 3+ year old boys and girls teaches little ones about emotions and how people look
-- FUN ROLE-PLAY TOYS – Includes 71 DUPLO bricks and pieces, including 5 buildable characters, 5 wigs and 10 face bricks for imaginative mix-and-match fun
-- GREAT FOR MONTESSORI – With this toddler learning toy, kids learn about feelings and creativity as they build 5 people, deciding on their height, outfits and expressions
 - LEGO GIFT FOR TODDLERS – This social and emotional learning toy makes a fun birthday gift idea for 3+ year old boys and girls who love creative, open-ended play
+- FUN ROLE-PLAY TOYS – Includes 71 DUPLO bricks and pieces, including 5 buildable characters, 5 wigs and 10 face bricks for imaginative mix-and-match fun
+- LEARNING THROUGH PLAY – LEGO DUPLO building sets are carefully designed so preschool children can develop self-expression and fine motor skills in a fun way
+- GREAT FOR MONTESSORI – With this toddler learning toy, kids learn about feelings and creativity as they build 5 people, deciding on their height, outfits and expressions
+- CREATIVE FREEDOM FOR KIDS – The building set also includes a wheelbase so toddlers can give their LEGO DUPLO figures wheels instead of feet
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFW1542H{{</world>}}

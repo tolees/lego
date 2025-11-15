@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Deze Amazon exclusive LEGO Friends Heartlake City Bus set is een fantastisch verjaardagscadeau, kerstcadeau of gewoon zomaar voor kinderen, meisjes en jongens vanaf 7 jaar
-- Kinderen van 7+ jaar oud kunnen met Paisley mee op een tour door de stad met de LEGO Friends Heartlake City Bus speelset, inclusief een coole speelgoed bus, 3 mini poppetjes en accessoires
 - Inclusief gave accessoires zoals een boek, een zonnebril en een smartphone om leuke verhalen te verzinnen, plus toegang tot de LEGO Builder app waar jonge bouwers kunnen inzoomen en modellen draaien in 3D, plus hun voortgang bijhouden en sets opslaan
-- De vriendschapsbus speelset bevat onder andere Paisley, buschauffeur en passagier mini poppetjes plus een speelgoed scootmobiel, een oprit en een oplader
-- Het dak van de speelgoedbus kan worden verwijderd en de zijwand kan worden geopend om toegang te krijgen tot de binnenkant, het bestemmingsbord kan ook worden veranderd naar verschillende locaties in Heartlake City
 - Kinderen kunnen de functie aan de zijkant van de bus activeren om de oprijplaat uit te klappen voor de passagiers, de oplader kan ook aan de bus bevestigd worden
 - Dit LEGO Friends speelgoed voor kinderen, meisjes en jongens van 7+ jaar is geweldig op zichzelf en een leuke toevoeging voor een Heartlake City collectie
+- De vriendschapsbus speelset bevat onder andere Paisley, buschauffeur en passagier mini poppetjes plus een speelgoed scootmobiel, een oprit en een oplader
+- Kinderen van 7+ jaar oud kunnen met Paisley mee op een tour door de stad met de LEGO Friends Heartlake City Bus speelset, inclusief een coole speelgoed bus, 3 mini poppetjes en accessoires
+- Het dak van de speelgoedbus kan worden verwijderd en de zijwand kan worden geopend om toegang te krijgen tot de binnenkant, het bestemmingsbord kan ook worden veranderd naar verschillende locaties in Heartlake City
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CCXTD{{</world>}}

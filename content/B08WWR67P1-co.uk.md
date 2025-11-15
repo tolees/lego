@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- The buildable game toy includes a Special Pipe: Speed Run offering players extra rewards while they compete to be the fastest coin-collector
 - The LEGO Super Mario Reznor Knockdown Expansion Set features spinning, seesawing, Blue Toad-rescuing & speed challenges on rotating platforms
 - Includes LEGO figures of iconic Super Mario characters – 2 Reznors, a seesawing Grrrol and a Blue Toad, plus a ? Block
-- The buildable game toy includes a Special Pipe: Speed Run offering players extra rewards while they compete to be the fastest coin-collector
 - Kids can play solo or connect via Bluetooth to a friend’s LEGO Mario or Luigi figures for 2-player social play where teamwork earns bonus coins
 - Kids spun platforms by turning LEGO Mario and/or LEGO Luigi figures (not included) on the connected stand or use a Skewer to knock enemies off
 

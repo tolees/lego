@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bij het bouwpakket zijn 5 LEGO Star Wars minifiguren inbegrepen, van Commander Cody, een 212th Clone Gunner en 3 212th Clone Troopers, plus 3 figuren van Battle Droids, allemaal met wapens, en een bouwbare Dwarf Spider Droid
 - Kinderen kunnen het uitklapbare handvat gebruiken om de AT-TE op te tillen en te verplaatsen; de afneembare cockpit en de 2 gedetailleerde cabines voor de Clone Troopers zijn eenvoudig toegankelijk
-- Kinderen kunnen spannende duels uit Star Wars: Revenge of the Sith naspelen, en wanneer ze even klaar zijn met spelen, kunnen ze de set mooi neerzetten in hun kamer en deze vol trots laten zien aan hun vrienden
-- Deze LEGO Star Wars bouwset is een fantastisch geschenk voor kinderen vanaf 9 jaar
-- Ontdek stapsgewijze instructies met afbeeldingen in de doos en download de LEGO Bouwinstructies app voor digitale bouwinstructies en een interactieve visualisatie van het AT-TE Walker model
-- Het LEGO Star Wars constructie speelgoed beschikt ook over een zitplaats voor de 212th Clone Gunner, 6 blasterkanonnen, 2 thermische ontstekers en meer
 - Dit LEGO Star Wars AT-TE Walker constructie speelgoed heeft verstelbare poten, een 360 graden ronddraaiend blasterkanon met 2 noppenschieters en ruimte voor maximaal 7 minifiguren
+- Deze LEGO Star Wars bouwset is een fantastisch geschenk voor kinderen vanaf 9 jaar
+- Bij het bouwpakket zijn 5 LEGO Star Wars minifiguren inbegrepen, van Commander Cody, een 212th Clone Gunner en 3 212th Clone Troopers, plus 3 figuren van Battle Droids, allemaal met wapens, en een bouwbare Dwarf Spider Droid
+- Kinderen kunnen spannende duels uit Star Wars: Revenge of the Sith naspelen, en wanneer ze even klaar zijn met spelen, kunnen ze de set mooi neerzetten in hun kamer en deze vol trots laten zien aan hun vrienden
+- Het LEGO Star Wars constructie speelgoed beschikt ook over een zitplaats voor de 212th Clone Gunner, 6 blasterkanonnen, 2 thermische ontstekers en meer
+- Ontdek stapsgewijze instructies met afbeeldingen in de doos en download de LEGO Bouwinstructies app voor digitale bouwinstructies en een interactieve visualisatie van het AT-TE Walker model
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFXTYDC{{</world>}}

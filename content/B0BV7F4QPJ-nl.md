@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geef kinderen de klassieke actie uit de Batman film van 1989 in handen met deze LEGO DC Batwing: Batman vs. The Joker set met een speelgoed vliegtuig om avonturen in de lucht te beleven met iconische personages
-- Het gedetailleerde Batwing speelgoed vliegtuig heeft 2 noppenschieters, een cockpit en een opbergvak voor Batmans Batarangs en handboeien; na het spelen, kan de Batwing ook aan de muur worden gehangen als Batman muurdecoratie
-- De Batman 1989 speelgoed set bevat een Batman LEGO minifiguur met zijn iconische zwarte cape en masker, plus een The Joker LEGO minifiguur met zijn klassieke paarse pak en hoed
-- Geef deze Batman speelgoed set aan jonge superhelden als verjaardagscadeau, kerstcadeau of cadeau voor een andere gelegenheid
-- Batman daalt neer in de straten van GOTHAM CITY in zijn geweldige Batwing waar hij de Joker ziet; met 2 Batarangs en een paar handboeien is de superheld uitgerust om de schurk te verslaan
 - Kinderen kunnen de LEGO Builder app downloaden voor een meeslepende bouwervaring, met digitale tools om in te zoomen en modellen in 3D te draaien, sets op te slaan en de voortgang bij te houden
+- Het gedetailleerde Batwing speelgoed vliegtuig heeft 2 noppenschieters, een cockpit en een opbergvak voor Batmans Batarangs en handboeien; na het spelen, kan de Batwing ook aan de muur worden gehangen als Batman muurdecoratie
+- Geef deze Batman speelgoed set aan jonge superhelden als verjaardagscadeau, kerstcadeau of cadeau voor een andere gelegenheid
+- Geef kinderen de klassieke actie uit de Batman film van 1989 in handen met deze LEGO DC Batwing: Batman vs. The Joker set met een speelgoed vliegtuig om avonturen in de lucht te beleven met iconische personages
+- De Batman 1989 speelgoed set bevat een Batman LEGO minifiguur met zijn iconische zwarte cape en masker, plus een The Joker LEGO minifiguur met zijn klassieke paarse pak en hoed
+- Batman daalt neer in de straten van GOTHAM CITY in zijn geweldige Batwing waar hij de Joker ziet; met 2 Batarangs en een paar handboeien is de superheld uitgerust om de schurk te verslaan
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV7F4QPJ{{</world>}}

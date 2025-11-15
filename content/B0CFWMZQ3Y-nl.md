@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ontdek een wereld vol fantasierijk speelplezier – kinderen beleven nog meer plezier en avonturen wanneer ze deze set combineren met andere LEGO City sets (apart verkrijgbaar) uit het LEGO City assortiment
 - LEGO Brandweerauto set met 3D-bouwhandleiding – ontdek de LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
 - Speelgoed brandweerkazerne en brandweerauto voor kinderen vanaf 6 jaar – LEGO City speelset met een moderne brandweerkazerne met controlecentrum en een speelgoed brandweerauto voor brandweeravonturen boordevol actie
-- Leuk cadeau voor kinderen – geef deze speelset cadeau voor een verjaardag, de feestdagen of zomaar tussendoor aan jongens en meisjes van 6 jaar en ouder
 - Leuke kenmerken voor LEGO brandweerlieden – inclusief een controlekamer, keukentje, bed en brandweerpaal voor de brandweer minifiguren, plus een speelgoed vrachtwagen met een slang en modulaire ladder- en blusaccessoires
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een speelgoed brandweer kazerne te bouwen met een helikopterplatform, drone, speelgoed brandweerwagen, 5 LEGO minifiguren van brandweerlieden en een speelgoed hond figuur
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een speelgoed brandweer kazerne te bouwen met een helikopterplatform, drone, speelgoed brandweerwagen, 5 LEGO minifiguren van brandweerlieden en een speelgoed hond figuur
+- Ontdek een wereld vol fantasierijk speelplezier – kinderen beleven nog meer plezier en avonturen wanneer ze deze set combineren met andere LEGO City sets (apart verkrijgbaar) uit het LEGO City assortiment
+- Leuk cadeau voor kinderen – geef deze speelset cadeau voor een verjaardag, de feestdagen of zomaar tussendoor aan jongens en meisjes van 6 jaar en ouder
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFWMZQ3Y{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A gift for kids who love role play – This LEGO Friends set makes a gift idea for any child aged 7 and up who would love to build a bus to play with
-- A new generation of Heartlake City – In January 2023, the LEGO Friends universe expanded to introduce new characters and new locations to inspire more role-play adventures
-- 3 characters and accessories – The set comes with LEGO Friends characters Paisley, plus the bus driver and a passenger with a mobility scooter
 - Sized for young builders – The LEGO Friends Heartlake City Bus measures over 4 in. (10 cm) high, 6 in. (16 cm) long and 3.5 in. (9 cm) wide
-- Transport role play for kids aged 7+ – Inspire kids to create their own travel stories as they build and play with this LEGO Friends Heartlake City Bus (41759) toy set
+- A gift for kids who love role play – This LEGO Friends set makes a gift idea for any child aged 7 and up who would love to build a bus to play with
 - Accessories – The accessories let kids create new stories each time they play and include a mobility scooter, ramp, pretend ‘electric’ charger, book, sunglasses and a smartphone
 - A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
+- 3 characters and accessories – The set comes with LEGO Friends characters Paisley, plus the bus driver and a passenger with a mobility scooter
+- A new generation of Heartlake City – In January 2023, the LEGO Friends universe expanded to introduce new characters and new locations to inspire more role-play adventures
+- Transport role play for kids aged 7+ – Inspire kids to create their own travel stories as they build and play with this LEGO Friends Heartlake City Bus (41759) toy set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRCKPYP{{</world>}}

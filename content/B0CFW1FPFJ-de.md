@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Retro-Deko zum Ausstellen: Alle 3 LEGO Retro-Modelle sind eigenständige Spielzeuge und eignen sich prima als Schlafzimmer-Deko, die man nach dem Spielen als Schreibtisch-Deko ausstellen kann
-- Retro-Spielzeug mit beweglichen Elementen: Man kann den Spielzeug-Rollschuh und das LEGO Skateboard auf den 4 drehbaren Rädern umherschieben und sie coole Tricks machen lassen
 - Unzählige Spielmöglichkeiten: Kinder können kreative Geschichten mit drei Retro-Modellen erleben – einem LEGO Rollschuh, einem Mini-Skateboard und einem Radio-Spielzeug im Boombox-Stil zum Bauen
-- LEGO Creator Spielzeuge: Jedes 3in1-Set lässt Kinder 3 verschiedene Modelle aus ihren wichtigsten Interessenbereichen bauen, die unter anderem Tiere, Fahrzeuge und detailreiche Szenen aus dem Stadtleben darstellen
 - Noch mehr 3-in-1-Spaß: Die Modelle lassen sich mit anderen separat erhältlichen LEGO Creator 3-in-1 Sets kombinieren – für noch mehr kreatives Bauen und Spielspaß
-- Geschenk für kreative Kinder und Skater: Dieses 3in1 LEGO Spielzeug für Mädchen und Jungs bietet ein faszinierendes Bau- und Spielerlebnis und ist ein kreatives Geburtstagsgeschenk für 8-Jährige, die DIYs und Basteln lieben
+- Retro-Deko zum Ausstellen: Alle 3 LEGO Retro-Modelle sind eigenständige Spielzeuge und eignen sich prima als Schlafzimmer-Deko, die man nach dem Spielen als Schreibtisch-Deko ausstellen kann
 - 3 Retro-Modelle in 1: Mit dem LEGO Creator Rollschuh können Mädchen und Jungen ab 8 Jahren aus denselben Teilen Rollschuh, Skateboard oder Boombox bauen und immer wieder neu gestalten
+- Geschenk für kreative Kinder und Skater: Dieses 3in1 LEGO Spielzeug für Mädchen und Jungs bietet ein faszinierendes Bau- und Spielerlebnis und ist ein kreatives Geburtstagsgeschenk für 8-Jährige, die DIYs und Basteln lieben
+- LEGO Creator Spielzeuge: Jedes 3in1-Set lässt Kinder 3 verschiedene Modelle aus ihren wichtigsten Interessenbereichen bauen, die unter anderem Tiere, Fahrzeuge und detailreiche Szenen aus dem Stadtleben darstellen
+- Retro-Spielzeug mit beweglichen Elementen: Man kann den Spielzeug-Rollschuh und das LEGO Skateboard auf den 4 drehbaren Rädern umherschieben und sie coole Tricks machen lassen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1FPFJ{{</world>}}

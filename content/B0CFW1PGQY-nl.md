@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Luchtsluis kan met andere modellen worden verbonden – deze set bevat een speciaal luchtsluiselement, zodat kinderen hem kunnen koppelen aan andere compatibele LEGO speelsets met ruimtethema (apart verkrijgbaar) voor nog meer avonturen
 - Ruimte speelgoed boordevol functies – dit bouwbare LEGO ruimte voertuig bevat een uitklapbare laadbak, vering, een beweegbare kraan, een lift, een generator, zwaailichten, een begeleidende rover, een woonruimte en een cockpit
-- Marsrover speelgoed voor jongens en meisjes vanaf 11 jaar – het LEGO Technic Verkenningsrover op Mars ruimtespeelgoed voor kinderen zit boordevol realistische functies, zodat jonge ontdekkingsreizigers spelenderwijs kunnen leren
-- LEGO ruimte cadeau voor kinderen die van NASA speelgoed houden – dit bouwpakket voor kinderen is een creatief cadeau voor jongens en meisjes vanaf 11 jaar die van leuk ruimte speelgoed houden
-- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
 - Wetenschappelijke accessoires – deze speelset voor ruimteverkenning bevat accessoires die zijn gemodelleerd naar de accessoires die door astronauten worden gebruikt, waaronder wetenschappelijke apparatuur en gasflessen
+- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
+- Marsrover speelgoed voor jongens en meisjes vanaf 11 jaar – het LEGO Technic Verkenningsrover op Mars ruimtespeelgoed voor kinderen zit boordevol realistische functies, zodat jonge ontdekkingsreizigers spelenderwijs kunnen leren
 - Rover wordt groter en kleiner – het model weerspiegelt hoe rovers zich aanpassen van compact voor onderweg naar ruimer om vracht te vervoeren wanneer ze eenmaal zijn geland
+- LEGO ruimte cadeau voor kinderen die van NASA speelgoed houden – dit bouwpakket voor kinderen is een creatief cadeau voor jongens en meisjes vanaf 11 jaar die van leuk ruimte speelgoed houden
+- Luchtsluis kan met andere modellen worden verbonden – deze set bevat een speciaal luchtsluiselement, zodat kinderen hem kunnen koppelen aan andere compatibele LEGO speelsets met ruimtethema (apart verkrijgbaar) voor nog meer avonturen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1PGQY{{</world>}}

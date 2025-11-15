@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- The gunnery station on this collectible set features a minifigure gunner’s seat and a detachable hull panel with a fully rotating quad laser cannon; an additional quad laser cannon is also mounted on the underside
+- Fans of the Galaxy far, far away can build and display the ultimate LEGO Star Wars Millennium Falcon model with this LEGO Star Wars 7,541 piece set, featuring loads of iconic details, plus crew members from the original and sequel Star Wars trilogies
 - Exterior features include removable hull panels, a lowering boarding ramp, concealed blaster cannon, a 4-minifigure cockpit with a detachable canopy, interchangeable sensor dishes, upper and lower quad laser cannons and 7 landing legs
 - The LEGO Star Wars UCS model kit features a main hold features a seating area, Dejarik holographic game, a combat remote training helmet, an engineering station with a turning minifigure seat and a doorway build with passageway decoration
-- Fans of the Galaxy far, far away can build and display the ultimate LEGO Star Wars Millennium Falcon model with this LEGO Star Wars 7,541 piece set, featuring loads of iconic details, plus crew members from the original and sequel Star Wars trilogies
-- The gunnery station on this collectible set features a minifigure gunner’s seat and a detachable hull panel with a fully rotating quad laser cannon; an additional quad laser cannon is also mounted on the underside
 - The Millennium Falcon Star Wars model also Includes 4 classic crew minifigures: Han Solo, Chewbacca, Princess Leia and C-3PO, plus 3 Episode VII/VIII crew minifigures: Older Han Solo, Rey and Finn and a BB-8 Star Wars droid figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})

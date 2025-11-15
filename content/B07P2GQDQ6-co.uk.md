@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Land Rover Defender
-- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
-- Manufacturer recommended age: 11+
 - Number of pieces: 2573
+- Manufacturer recommended age: 11+
 - The cabin features a detailed dashboard, working steering wheel and forward-folding rear seats that reveal the 4-speed sequential gearbox
+- The car model also features removable roof rack with storage box, pannier, ladder and traction mats, opening doors, bonnet and rear door
+- Land Rover Defender
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07P2GQDQ6{{</world>}}

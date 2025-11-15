@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Ha nacido una heroína
-- Una aventura de LEGO sin igual
-- Personaliza tu hogar y tus personajes
 - Reúne a tu equipo
+- Personaliza tu hogar y tus personajes
+- Una aventura de LEGO sin igual
 - ¡Aquí es donde entras tú!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

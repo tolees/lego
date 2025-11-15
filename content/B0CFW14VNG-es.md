@@ -30,10 +30,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - 3 minifiguras: incluye a los héroes de LEGO DREAMZzz Zoey y Cooper, y al malvado Cazador Nocturno; también contiene figuras de Sneak y Snivel
 - Todo un Mundo Sueños repleto de aventuras: explora otros juguetes de fantasía para niños y niñas de la gama LEGO DREAMZzz (a la venta por separado), diseñados para que se sumerjan en la acción y conozcan a sus héroes y heroínas
-- Juega con Zian: la figura de Zian tanto de Gato-Búho o Gato-Pavo Real, al contar con cabeza, patas y cola articuladas, proporciona a los niños un montón de posibilidades para dejar volar su imaginación
 - Juguete de ensueño: inspirado en la serie de televisión LEGO DREAMZzz, este pequeño set LEGO sumerge a los niños y niñas en sus aventuras favoritas del Mundo Sueños
-- Un animal de juguete transformable: los niños y las niñas de 9 años o más darán rienda suelta a su imaginación con el set de construcción LEGO DREAMZzz Zoey y Zian el Gato-Búho, que les ofrece 2 emocionantes opciones de construcción
 - 1 set, 2 modelos: el modelo de Zian de este creativo set de juguete puede construirse como Gato-Búho o como Gato-Pavo Real, lo que permite a los peques elegir su propia aventura
+- Juega con Zian: la figura de Zian tanto de Gato-Búho o Gato-Pavo Real, al contar con cabeza, patas y cola articuladas, proporciona a los niños un montón de posibilidades para dejar volar su imaginación
+- Un animal de juguete transformable: los niños y las niñas de 9 años o más darán rienda suelta a su imaginación con el set de construcción LEGO DREAMZzz Zoey y Zian el Gato-Búho, que les ofrece 2 emocionantes opciones de construcción
 - Idea de regalo para niños y niñas de 9 años o más: los pequeños soñadores podrán disfrutar de horas de juego creativo con este regalo lleno de animales fascinantes, óptimo como juguete para premiar o recompensar a los peques
 
 [🛒 Buy it now!!]({{< param buyurl >}})

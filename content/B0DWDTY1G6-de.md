@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Minecraft Geschenk für Jungen und Mädchen: Dieses Spielset ist ein Geschenk für Kinder & Minecraft Fans; ob zum Geburtstag oder zu anderen Anlässen, der Minecraft Fanartikel ist eine schöne Überraschung
-- LEGO Minecraft Spielzeug: Kinder können einen Schalter umlegen, um eine „Explosion“ auszulösen; Diese Funktion lässt das Dach und die Wände des Hauses einstürzen
-- Noch mehr Spielspaß: Schau dir auch all die anderen kreativen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls aktiv spielen lassen
 - LEGO Minecraft Spielzeug Haus: Das TNT-Dschungelhaus ist ein Fanartikel zum Videospiel; das Spielset zum Sammeln bietet Mädchen und Jungen ab 8 Jahren explosiven Minecraft Actionspaß
-- Minecraft Action in der echten Welt: LEGO Minecraft Bausets lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
+- Minecraft Geschenk für Jungen und Mädchen: Dieses Spielset ist ein Geschenk für Kinder & Minecraft Fans; ob zum Geburtstag oder zu anderen Anlässen, der Minecraft Fanartikel ist eine schöne Überraschung
+- Noch mehr Spielspaß: Schau dir auch all die anderen kreativen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls aktiv spielen lassen
 - Kreatives Spielzeug: Minecraft Gaamer können Steve, einem beliebten Charakter aus dem Videospiel, helfen, feindselige Kreaturen zu verscheuchen und ein Haus mit Sprengfunktion zu bauen
 - Minecraft Sammlerstücke: Das interaktive Spielzeug beinhaltet 3 Minifiguren – Steve, einen Creeper und einen Zombie – sowie einen Fisch, eine Angelrute und einen Papagei
+- LEGO Minecraft Spielzeug: Kinder können einen Schalter umlegen, um eine „Explosion“ auszulösen; Diese Funktion lässt das Dach und die Wände des Hauses einstürzen
+- Minecraft Action in der echten Welt: LEGO Minecraft Bausets lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDTY1G6{{</world>}}

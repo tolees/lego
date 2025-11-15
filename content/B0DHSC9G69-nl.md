@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - PLEZIER VOOR HET HELE GEZIN – deel je passie voor F1 met je peuter met deze set inclusief 10 bouwbare LEGO raceautos, 3 coureursstenen, een kraan, startlichten en een podium
-- CADEAU VOOR PEUTERS – vier de start van het F1 seizoen of trakteer een peuter op een creatief cadeau met dit leuke auto speelgoed
-- RACEAUTO SPEELGOED – neem je peuter mee naar de wereld van Formule 1 met dit F1 team racewagens en coureurs auto bouwpakket voor kinderen
 - MEER RAZENDSNELLE F1 ACTIE – kijk ook eens naar de andere LEGO Formule 1 bouwsets (apart verkrijgbaar) om met het hele gezin te bouwen, te racen en te bewonderen
-- EDUCATIEF SPEELGOED – peuters bootsen de spanning van een pitstop na door de autos aan de haak te bevestigen en ze op te tillen voor een snelle inspectie
-- BOUWEN AAN VAARDIGHEDEN – al het LEGO DUPLO speelgoed is ontworpen om belangrijke vaardigheden te versterken. Deze Montessori speelgoed set kan peuters helpen met hun ruimtelijk inzicht, oog-handcoördinatie en fijne motoriek
+- RACEAUTO SPEELGOED – neem je peuter mee naar de wereld van Formule 1 met dit F1 team racewagens en coureurs auto bouwpakket voor kinderen
 - SPEELGOED VOOR 2 JAAR EN OUDER – deze aanpasbare autos hebben authentieke kleuren en zijn versierd met Formule 1 logos, zodat jonge kinderen realistische F1 raceverhalen kunnen naspelen
+- BOUWEN AAN VAARDIGHEDEN – al het LEGO DUPLO speelgoed is ontworpen om belangrijke vaardigheden te versterken. Deze Montessori speelgoed set kan peuters helpen met hun ruimtelijk inzicht, oog-handcoördinatie en fijne motoriek
+- CADEAU VOOR PEUTERS – vier de start van het F1 seizoen of trakteer een peuter op een creatief cadeau met dit leuke auto speelgoed
+- EDUCATIEF SPEELGOED – peuters bootsen de spanning van een pitstop na door de autos aan de haak te bevestigen en ze op te tillen voor een snelle inspectie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC9G69{{</world>}}

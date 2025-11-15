@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Avonturen op de bouwplaats – met de LEGO Technic Vrachtwagen met kiepfunctie set kunnen kinderen vanaf 9 jaar leuke verhalen op de bouwplaats naspelen
-- Een verjaardagscadeau voor kinderen – dit bouwpakket voor kinderen is een leuk cadeau voor een verjaardag of zomaar tussendoor voor kinderen die dol zijn op LEGO voertuigen, speelgoed vrachtwagens en rollenspellen
 - Realistische functies – kinderen kunnen de truck in positie sturen, aan de knop aan de zijkant draaien om de laadbak te legen en de deuren openen om in de cabine te kijken
 - Bouwen en spelen – met deze klassieke kiepwagen kunnen jonge bouwers hun eigen speelgoed truck in elkaar zetten voordat ze de leuke functies van het LEGO voertuig ontdekken
+- Een verjaardagscadeau voor kinderen – dit bouwpakket voor kinderen is een leuk cadeau voor een verjaardag of zomaar tussendoor voor kinderen die dol zijn op LEGO voertuigen, speelgoed vrachtwagens en rollenspellen
 - Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets en bouwspeelgoed laten jonge LEGO bouwers kennismaken met de wereld van techniek
 
 [🛒 Check the deal!!]({{< param buyurl >}})

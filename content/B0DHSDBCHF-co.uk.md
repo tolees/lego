@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 4 LEGO Star Wars characters – Includes Odd Ball and Jag Clone Pilots LEGO Star Wars minifigures with blaster pistols, plus R4-P44 LEGO droid figure
-- Star Wars buildable toys for 9+ year old boys and girls – This LEGO Star Wars playset with 4 characters lets kids engage in imaginative action play
+- Star Wars gifts for kids – This LEGO Star Wars buildable toy makes a fun birthday gift for 9+ year old boys and girls, fans of Star Wars: Revenge of the Sith
 - A fun way to build – The LEGO Builder app guides kids on an intuitive adventure, letting them rotate a 3D digital version of models while building
+- Star Wars buildable toys for 9+ year old boys and girls – This LEGO Star Wars playset with 4 characters lets kids engage in imaginative action play
 - LEGO Star Wars playset for 9+ year old kids – This LEGO model of ARC-170 Starfighter lets kids play out epic Star Wars: Revenge of the Sith stories
 - LEGO brick-built starfighter – 3 opening cockpits, space for R4-P44, 6 wings, 4 lever-operated adjustable wings, and 2 spring-loaded shooters
-- Star Wars gifts for kids – This LEGO Star Wars buildable toy makes a fun birthday gift for 9+ year old boys and girls, fans of Star Wars: Revenge of the Sith
 - Collectible building toys – LEGO Star Wars sets (sold separately) enable kids and adult Star Wars fans to relive iconic scenes or display the buildable models
+- 4 LEGO Star Wars characters – Includes Odd Ball and Jag Clone Pilots LEGO Star Wars minifigures with blaster pistols, plus R4-P44 LEGO droid figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDBCHF{{</world>}}

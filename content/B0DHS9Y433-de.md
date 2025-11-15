@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bauspielzeug mit authentischen Formel 1 Details: Das F1-Rennauto hat dieselben Designdetails wie der echte Flitzer aus der Saison 2024, unter anderem Sponsorenaufkleber und breitere Hinterreifen mit dem Aufdruck „Pirelli“
-- Geschenk für F1 Fans: Dieses Premium-Modell eines F1-Rennautos bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle LEGO Geschenkidee für Kinder ab 10 Jahren und für Erwachsene, die Motorsport Fans sind
 - Mercedes-AMG PETRONAS F1 Team Spielzeugauto für Kinder: Jungen und Mädchen ab 10 Jahren können diesen LEGO Speed Champions Spielzeug Rennwagen bauen, ausstellen und in spannende Rennen schicken
-- Faszinierender F1 Spaß für die ganze Familie: Entdecke noch weitere separat erhältliche LEGO F1 Bausets und Modelle, um dir spannende Rennen mit deiner ganzen Familie zu liefern und wertvolle Zeit miteinander zu verbringen
 - Legendäre Flitzer zum Bauen, Spielen und Ausstellen: LEGO Speed Champions Sets lassen Kinder und Autofans einige der berühmtesten Flitzer der Welt mit LEGO Steinen nachbilden
-- Sammlerstück und Modell eines F1 Rennautos zum Ausstellen: Nach den packenden Rennen können Kinder das LEGO Modellauto in einem Regal oder auf dem Nachttisch im Kinderzimmer zur Schau stellen
+- Bauspielzeug mit authentischen Formel 1 Details: Das F1-Rennauto hat dieselben Designdetails wie der echte Flitzer aus der Saison 2024, unter anderem Sponsorenaufkleber und breitere Hinterreifen mit dem Aufdruck „Pirelli“
+- Faszinierender F1 Spaß für die ganze Familie: Entdecke noch weitere separat erhältliche LEGO F1 Bausets und Modelle, um dir spannende Rennen mit deiner ganzen Familie zu liefern und wertvolle Zeit miteinander zu verbringen
 - Set mit 1 Rennfahrer Minifigur: Dieses Spielset beinhaltet neben dem Auto auch einen Rennfahrer im Mercedes-AMG PETRONAS F1 Team Rennoverall; Die Spielzeugfigur trägt einen Helm und lässt sich für schnelle Rennen ins Cockpit setzen
+- Sammlerstück und Modell eines F1 Rennautos zum Ausstellen: Nach den packenden Rennen können Kinder das LEGO Modellauto in einem Regal oder auf dem Nachttisch im Kinderzimmer zur Schau stellen
+- Geschenk für F1 Fans: Dieses Premium-Modell eines F1-Rennautos bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle LEGO Geschenkidee für Kinder ab 10 Jahren und für Erwachsene, die Motorsport Fans sind
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHS9Y433{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Nintendo cadeau voor kinderen – deze avontuurlijke LEGO Super Mario speelgoed set is een leuk prinsessencadeau voor meisjes, jongens en gamers vanaf 6 jaar
-- Leuk wolken– maak met LEGO Peach saltos op de wolk om extra digitale munten te verdienen. Lakitu kan de wolk gebruiken om de picknickstoel aan te haken en de gele Toad gevangen te nemen
-- Een helpende hand – download de LEGO Super Mario app voor bouwinstructies, creatieve ideeën en meer. Ga naar LEGO.com/devicecheck voor een lijst met compatibele Android- en iOS-apparaten
 - Avontuurlijke speelset – begin bij de startbuis, ga picknicken, lees de brief, gooi Lakitu van zijn wolk, vlieg op de wolk, versla de Lava Bubble om de gele Toad vrij te laten en eindig bij de vlaggenstok
 - Stimuleer de fantasie – LEGO Super Mario bouwpakketten voor kinderen staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. De sets zijn ideaal om alleen of juist samen mee te spelen
-- Prinsessenspeelgoed set voor leuke avonturen met interactieve LEGO Peach figuur – ga samen met LEGO Peach op een picknick en help haar op Lakitus wolk te vliegen om de gele Toad te redden
 - 4 LEGO Super Mario figuren – deze Nintendo LEGO set bevat een interactieve LEGO Peach speelgoed figuur, plus Lakitu, een gele Toad en een Lava Bubble
+- Leuk wolken– maak met LEGO Peach saltos op de wolk om extra digitale munten te verdienen. Lakitu kan de wolk gebruiken om de picknickstoel aan te haken en de gele Toad gevangen te nemen
+- Prinsessenspeelgoed set voor leuke avonturen met interactieve LEGO Peach figuur – ga samen met LEGO Peach op een picknick en help haar op Lakitus wolk te vliegen om de gele Toad te redden
+- Nintendo cadeau voor kinderen – deze avontuurlijke LEGO Super Mario speelgoed set is een leuk prinsessencadeau voor meisjes, jongens en gamers vanaf 6 jaar
+- Een helpende hand – download de LEGO Super Mario app voor bouwinstructies, creatieve ideeën en meer. Ga naar LEGO.com/devicecheck voor een lijst met compatibele Android- en iOS-apparaten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH17Z6F{{</world>}}

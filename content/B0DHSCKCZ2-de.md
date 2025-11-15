@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bauset zum Sammeln, Bauen und Ausstellen: Bilde legendäre Merkmale des Flaggschiffs nach, das während der Schlacht von Endor unter dem Kommando von Admiral Ackbar stand; Nimm ein Seitensegment ab, um dir die Details im Inneren anzusehen
-- Aus einer weit, weit entfernten Galaxis zu dir nach Hause: LEGO Star Wars Sets zum Sammeln sind für Erwachsene wie dich gedacht, die gern bei ebenso abenteuerreichen ebenso wie entspannenden Aktivitäten abschalten wollen
-- Bauset mit fantasievollen Sternenschiff: Die allererste LEGO Nachbildung dieses Sternenschiffs aus Star Wars: Die Rückkehr der Jedi-Ritter lässt dich das Zusammenleben mit den Mon Calamari an Bord des Home One Starcruisers nachstellen
 - Nützlicher Helfer: Die LEGO Builder App lässt dich beim Bauen beispielsweise digitale 3D-Ansichten dieses baubaren Modells vergrößern und drehen, deinen Baufortschritt verfolgen und Sets speichern
+- Bauset mit fantasievollen Sternenschiff: Die allererste LEGO Nachbildung dieses Sternenschiffs aus Star Wars: Die Rückkehr der Jedi-Ritter lässt dich das Zusammenleben mit den Mon Calamari an Bord des Home One Starcruisers nachstellen
 - Teil der LEGO Sternenschiff Kollektion: Dieses Bauset für Erwachsene gehört zu einer Sammlerserie aus baubaren Modellen mittleren Maßstabs, die legendäre Star Wars Sternenschiffe darstellen
-- Erschaffe ein Star Wars Ausstellungsstück: Stell dein Modell auf dem Ständer mit Namensschild aus; Benutze das durchsichtige Element, um die Nebulon-B Medical Frigate aus LEGO Steinen den Sternenkreuzer eskortieren zu lassen
 - Star Wars Geschenk für kreative erwachsene Fans: Belohne dich selbst mit diesem LEGO Sammlerstück oder schenke es einem Freund, der sich für Star Wars und Sternenschiffe begeistert
+- Bauset zum Sammeln, Bauen und Ausstellen: Bilde legendäre Merkmale des Flaggschiffs nach, das während der Schlacht von Endor unter dem Kommando von Admiral Ackbar stand; Nimm ein Seitensegment ab, um dir die Details im Inneren anzusehen
+- Erschaffe ein Star Wars Ausstellungsstück: Stell dein Modell auf dem Ständer mit Namensschild aus; Benutze das durchsichtige Element, um die Nebulon-B Medical Frigate aus LEGO Steinen den Sternenkreuzer eskortieren zu lassen
+- Aus einer weit, weit entfernten Galaxis zu dir nach Hause: LEGO Star Wars Sets zum Sammeln sind für Erwachsene wie dich gedacht, die gern bei ebenso abenteuerreichen ebenso wie entspannenden Aktivitäten abschalten wollen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCKCZ2{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gönne es dir selbst oder verschenke dieses 807-teilige Set als grandioses Star Wars Geschenk, als Weihnachts- oder Geburtstagsgeschenk an einen Fan der klassischen Star Wars-Trilogie
-- Enthält LEGO Star Wars Minifiguren: Luke Skywalker und Darth Vader mit Lichtschwertern, und Imperator Palpatine mit 2 Macht-Blitzen
-- Dieser Modellbausatz für Erwachsene ist Teil der LEGO Star Wars Diorama-Sammelsets, die jeweils eine denkwürdige Star Wars Szene darstellen.
 - Bau den Thronsaal des Imperators mit einem speziell für dieses Set entworfenen runden Todesstern-Fenster, einen drehbaren Thron und 2 Bildschirmkonsolen
+- Dieser Modellbausatz für Erwachsene ist Teil der LEGO Star Wars Diorama-Sammelsets, die jeweils eine denkwürdige Star Wars Szene darstellen.
+- Enthält LEGO Star Wars Minifiguren: Luke Skywalker und Darth Vader mit Lichtschwertern, und Imperator Palpatine mit 2 Macht-Blitzen
 - Vervollständige dein Modell mit einer Plakette zum 40-jährigen Jubiläum von Star Wars: Die Rückkehr der Jedi-Ritter und ergänze jede LEGO Star Wars Sammlung mit diesem Sammlerstück
+- Gönne es dir selbst oder verschenke dieses 807-teilige Set als grandioses Star Wars Geschenk, als Weihnachts- oder Geburtstagsgeschenk an einen Fan der klassischen Star Wars-Trilogie
 - Erlebe das Lichtschwertduell zwischen Darth Vader und Luke Skywalker aus Star Wars: Die Rückkehr der Jedi-Ritter mit diesem LEGO Star Wars Diorama-Set für Erwachsene
 
 [🛒 Buy it!!]({{< param buyurl >}})

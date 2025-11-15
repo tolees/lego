@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Aanpasbare kunstbloemen – de bloemen kunnen in verschillende posities worden geplaatst en je kunt ook bouwbare bloemen toevoegen uit andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection
-- Model met natuurthema – dit 3D-model zonder lijst toont een prachtige tijger die door een verzameling decoratieve LEGO bloemen en planten gluurt
-- Decoratieve tijger en bloemen – voeg een vleugje kleur en natuur toe aan je huis met dit LEGO Art De Faunacollectie – Tijger (31217) bouwpakket voor volwassenen
 - Een boeiende bouwervaring – met deze bouwbare kunstset kunnen volwassenen creatief bezig zijn door hun eigen LEGO kunstwerk in elkaar te zetten
 - LEGO Art sets voor volwassenen – de LEGO Art collectie geeft volwassenen de kans om hun eigen kunstwerken te maken, geïnspireerd op hun grootste interesses, om te gebruiken als kantoor decoratie of woondecoratie
 - Creatief cadeau voor een vrouw of man – deze diy set is een traktatie voor jezelf en een leuk cadeau voor liefhebbers van dieren, de natuur of kunst
+- Aanpasbare kunstbloemen – de bloemen kunnen in verschillende posities worden geplaatst en je kunt ook bouwbare bloemen toevoegen uit andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection
+- Decoratieve tijger en bloemen – voeg een vleugje kleur en natuur toe aan je huis met dit LEGO Art De Faunacollectie – Tijger (31217) bouwpakket voor volwassenen
+- Model met natuurthema – dit 3D-model zonder lijst toont een prachtige tijger die door een verzameling decoratieve LEGO bloemen en planten gluurt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWF5PRWK{{</world>}}

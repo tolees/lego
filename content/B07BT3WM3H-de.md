@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- SCHIENEN ERWEITERUNG FÜR INTERAKTIVE DUPLO ZÜGE: Gut kombinierbar mit den Sets 10427 und 10428 – so wächst das Eisenbahnnetz ganz nach Wunsch mit und lädt zu immer neuen Strecken ein
 - MOTORIKSPIELZEUG MIT SPIELERISCHEM LERNEFFEKT: Kinder ab 2 Jahren verbessern beim Bauen und Spielen mit der Bahn Feinmotorik, Geduld und Problemlösungsfähigkeiten - ganz ohne Druck
-- MONTESSORI SPIELZEUG FÜR EISENBAHN-FANS AB 2 JAHREN: Das LEGO DUPLO Eisenbahntunnel und Schienen Erweiterungsset erweitert die Welt kleiner Lokführer um viele neue Spiel- und Lernmöglichkeiten
 - DUPLO EISENBAHN SET MIT VIELEN TEILEN: Mit 10 Schienensegmenten, Weiche, Tunnel, Trichter und einem Aktionsstein bietet das Set zusätzliche Streckenteile für kreative Zugabenteuer
-- GESCHENK FÜR JUNGEN UND MÄDCHEN AB 2 JAHREN: Ob zum Geburtstag oder als kleine Belohnung zwischendurch – das Zubehörset macht jede DUPLO Eisenbahn noch spannender
 - KLEINKIND SPIELZEUG IN DUPLO QUALITÄT: Die Bauteile sind extra groß, robust und auf Sicherheit geprüft – für kleine Hände und große Abenteuer
+- SCHIENEN ERWEITERUNG FÜR INTERAKTIVE DUPLO ZÜGE: Gut kombinierbar mit den Sets 10427 und 10428 – so wächst das Eisenbahnnetz ganz nach Wunsch mit und lädt zu immer neuen Strecken ein
+- MONTESSORI SPIELZEUG FÜR EISENBAHN-FANS AB 2 JAHREN: Das LEGO DUPLO Eisenbahntunnel und Schienen Erweiterungsset erweitert die Welt kleiner Lokführer um viele neue Spiel- und Lernmöglichkeiten
+- GESCHENK FÜR JUNGEN UND MÄDCHEN AB 2 JAHREN: Ob zum Geburtstag oder als kleine Belohnung zwischendurch – das Zubehörset macht jede DUPLO Eisenbahn noch spannender
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07BT3WM3H{{</world>}}

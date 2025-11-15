@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- REALISTISCHE SPIELFUNKTIONEN: Kinder können den LEGO Zug durch den Tunnel fahren lassen und dabei eine Felssturz-Funktion aktivieren oder Figuren per Seilrutsche vom Berg zum Außenposten schicken
-- KOMPATIBEL MIT ANDEREN LEGO SETS: In Kombination mit weiteren separat erhältlichen LEGO City Sets entstehen noch mehr Abenteuer in der Arktis
 - FERNGESTEUERTER SPIELZEUGZUG FÜR KINDER AB 7 JAHREN: Der LEGO City Arktis-Polarexpress begeistert MINT-Fans und Eisenbahnfreunde mit jeder Menge Action und Technik
-- POWERED UP FUNKTIONEN: Gesteuert wird die Lok mit der mitgelieferten Fernbedienung oder einem Mobilgerät über die LEGO Powered Up App (benötigt 10 AAA-Batterien, nicht enthalten)
 - UMFANGREICHES SPIELSET: Enthält eine ferngesteuerte Lok, einen Personenwagen, einen Flachwagen, einen Außenposten, einen Bergtunnel, einen Bergwerksstollen, 22 Gleiselemente, 6 Minifiguren inklusive Johnny Thunder und 2 Polarfüchse
-- GESCHENK FÜR JUNGEN UND MÄDCHEN AB 7 JAHREN: Dieses kreative Zugset ist ein spannendes Spielzeug für Kinder und LEGO City Fans; ob zum Geburtstag oder zu Weihnachten
+- REALISTISCHE SPIELFUNKTIONEN: Kinder können den LEGO Zug durch den Tunnel fahren lassen und dabei eine Felssturz-Funktion aktivieren oder Figuren per Seilrutsche vom Berg zum Außenposten schicken
 - DIGITALE BAUANLEITUNG INKLUSIVE: Die LEGO Builder App ermöglicht es, 3D-Ansichten der Modelle zu vergrößern, zu drehen und den Baufortschritt zu verfolgen
+- GESCHENK FÜR JUNGEN UND MÄDCHEN AB 7 JAHREN: Dieses kreative Zugset ist ein spannendes Spielzeug für Kinder und LEGO City Fans; ob zum Geburtstag oder zu Weihnachten
+- KOMPATIBEL MIT ANDEREN LEGO SETS: In Kombination mit weiteren separat erhältlichen LEGO City Sets entstehen noch mehr Abenteuer in der Arktis
+- POWERED UP FUNKTIONEN: Gesteuert wird die Lok mit der mitgelieferten Fernbedienung oder einem Mobilgerät über die LEGO Powered Up App (benötigt 10 AAA-Batterien, nicht enthalten)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDSYCZV{{</world>}}

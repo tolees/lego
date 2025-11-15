@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Be part of the action – The set includes story-led building instructions that encourage kids to immerse themselves in the dream world adventure
+- Fantasy gift idea – The set makes a fun gift for 8+ year old boys and girls who love LEGO vehicles or the LEGO DREAMZzz TV series
 - Fun details – The fantasy playset includes a removable windscreen, rolling wheels and 2 6-stud shooters for imaginative play
 - Dream toys – The set includes modular boosters, which can be attached to other sets (sold separately) in the LEGO DREAMZzz 2025 range
-- Be part of the action – The set includes story-led building instructions that encourage kids to immerse themselves in the dream world adventure
 - 1 set, 2 adventures – Young dreamers build the core model before choosing to rebuild it as an off-road racing car toy or speedy motorcycle toy
-- LEGO car toy – Ignite imaginations with the LEGO DREAMZzz set, Mateo and the Z-Blob Action Race Car building toy for 8+ year old boys and girls
 - 2 LEGO DREAMZzz minifigures – The set includes Mateo and villain D-Shock, as well as figures of Z-Blob, the Cyber Brain Spider and a VR Dreamling
-- Fantasy gift idea – The set makes a fun gift for 8+ year old boys and girls who love LEGO vehicles or the LEGO DREAMZzz TV series
+- LEGO car toy – Ignite imaginations with the LEGO DREAMZzz set, Mateo and the Z-Blob Action Race Car building toy for 8+ year old boys and girls
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSDLW2V{{</world>}}

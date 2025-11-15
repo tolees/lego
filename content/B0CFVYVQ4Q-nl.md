@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
-- Razendsnel plezier – deze McLaren speelgoed auto heeft een dubbele pull-backfunctie, zodat kinderen het offroad auto model kunnen laten racen terwijl ze doen alsof ze op het hoogste niveau van de autosport om de winst strijden
-- Een cadeautip voor kinderen vanaf 9 jaar – deze set is een leuk cadeau voor jongens en meisjes die van voertuigen en speelgoed houden
-- Intuïtieve instructies – de LEGO Builder app begeleidt je kind tijdens een intuïtief bouwavontuur met functies waarmee het kan inzoomen, modellen kan draaien in 3D, sets kan opslaan en de voortgang kan bijhouden
 - NEOM McLaren Formula E model auto met pull-backfunctie – met dit bouwpakket voor kinderen vanaf 9 jaar kunnen jonge racefans hun eigen speelgoed raceauto met pull-backactie bouwen
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Intuïtieve instructies – de LEGO Builder app begeleidt je kind tijdens een intuïtief bouwavontuur met functies waarmee het kan inzoomen, modellen kan draaien in 3D, sets kan opslaan en de voortgang kan bijhouden
 - Bestuur de auto – kinderen kunnen de stuurfunctie gebruiken om de wielen van deze LEGO auto te bewegen terwijl ze urenlang creatief speelplezier beleven met de LEGO Technic NEOM McLaren Formula E racewagen set
+- Een cadeautip voor kinderen vanaf 9 jaar – deze set is een leuk cadeau voor jongens en meisjes die van voertuigen en speelgoed houden
+- Razendsnel plezier – deze McLaren speelgoed auto heeft een dubbele pull-backfunctie, zodat kinderen het offroad auto model kunnen laten racen terwijl ze doen alsof ze op het hoogste niveau van de autosport om de winst strijden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYVQ4Q{{</world>}}

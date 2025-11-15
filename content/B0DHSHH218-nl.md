@@ -30,11 +30,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - F1 LEGO set met accessoires voor realistische pitstop rollenspellen – accessoires voor LEGO minifiguren zijn gereedschap, nieuwe banden en wielpistolen
 - LEGO F1 speelgoed voor kinderen – laat kinderen vanaf 6 jaar de spanning van Formule 1 races naspelen met het LEGO City F1 pitstop en pitcrew met Ferrari auto bouwpakket voor kinderen
-- Een F1 modelbouwset met leuke functies – rijd met de auto de pitstraat in en druk op een hendel om de pitcrew in positie te brengen om de banden supersnel te wisselen
-- Een leuk cadeau voor de feestdagen of een verjaardag voor kinderen – verras je jonge racer met deze LEGO City F1 speelset voor jongens en meisjes vanaf 6 jaar
 - Wat zit er in de doos? – alles wat kinderen nodig hebben om een F1 pitstop en Ferrari speelgoed auto te bouwen, plus een coureur en 4 minifiguren van monteurs
-- Meer razendsnelle Formule 1 actie – kijk ook eens naar de andere LEGO F1 bouwsets (apart verkrijgbaar) om met het hele gezin te bouwen, te racen en te bewonderen
+- Een F1 modelbouwset met leuke functies – rijd met de auto de pitstraat in en druk op een hendel om de pitcrew in positie te brengen om de banden supersnel te wisselen
 - Digitaal bouwplezier – dit kleine F1 pitstopspeelgoed bevat instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden en tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
+- Meer razendsnelle Formule 1 actie – kijk ook eens naar de andere LEGO F1 bouwsets (apart verkrijgbaar) om met het hele gezin te bouwen, te racen en te bewonderen
+- Een leuk cadeau voor de feestdagen of een verjaardag voor kinderen – verras je jonge racer met deze LEGO City F1 speelset voor jongens en meisjes vanaf 6 jaar
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSHH218{{</world>}}

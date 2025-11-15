@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bij deze set met constructie speelgoed zijn minifiguren van 2 monteurs en 2 chauffeurs inbegrepen, plus coole accessoires zoals een speelgoedlasapparaat, een laskap en een speelgoedgereedschapsset om de fantasie een versnelling hoger te zetten
 - Deze te gekke speelgoedgarage met 2 personaliseerbare autos heeft alles wat kinderen nodig hebben om hun eigen autowerkplaats te maken, compleet met ontwerpmuur, hellingen en een motortakel voor de mooiste creaties
-- In de autowerkplaats kunnen kinderen de voertuigen op de hellingen rijden om ze te spuiten en te lassen; daarna kunnen ze de takel gebruiken om verschillende motoren te installeren en het afstelstation gebruiken voordat de autos de weg op gaan
+- Bij deze set met constructie speelgoed zijn minifiguren van 2 monteurs en 2 chauffeurs inbegrepen, plus coole accessoires zoals een speelgoedlasapparaat, een laskap en een speelgoedgereedschapsset om de fantasie een versnelling hoger te zetten
 - Deze speelgoedgarage met aanpasbare speelgoedautos bevat een geïllustreerde handleiding en interactieve instructies in de LEGO Builder app - het speelgoed is een geweldig verjaardagscadeau voor kinderen vanaf 6 jaar die dol zijn op coole autos
 - Om de 2 speelgoedautos te personaliseren kunnen kinderen kiezen uit een reeks speelgoedmotoren en modulaire voor- en achtergedeelten met verschillende koplampen, bumpers en spoilers om hun eigen ontwerpen te maken en te bouwen
+- In de autowerkplaats kunnen kinderen de voertuigen op de hellingen rijden om ze te spuiten en te lassen; daarna kunnen ze de takel gebruiken om verschillende motoren te installeren en het afstelstation gebruiken voordat de autos de weg op gaan
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ7X66{{</world>}}

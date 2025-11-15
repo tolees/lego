@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Voor dit helikopter speelgoed op batterijen zijn 6 batterijen nodig; deze zijn niet bij het bouwpakket inbegrepen, 1 motor is er wel
-- LEGO Technic bouwspeelgoed bevat realistische bewegingen en mechanismen die jonge LEGO bouwers een interessant kijkje bieden in de wereld van techniek
-- Onder de handmatige functies behoren de tuimelschijf om de instelhoek van de rotorbladen aan te passen, de deuren van de cockpit en passagierscabine die open kunnen, plus motorkappen aan de voor- en achterkant om het stuurmechanisme te bekijken
 - Dit LEGO modelbouwpakket bestaat uit een opsporings- en reddingshelikopter met handmatige en motoraangedreven functies, waarmee kinderen leren hoe een helikopter precies werkt
 - Bij de motoraangedreven functies horen een ronddraaiende propeller, staartpropeller, inklapbaar landingsgestel, motorkap en rotatiemotor
+- LEGO Technic bouwspeelgoed bevat realistische bewegingen en mechanismen die jonge LEGO bouwers een interessant kijkje bieden in de wereld van techniek
+- Voor dit helikopter speelgoed op batterijen zijn 6 batterijen nodig; deze zijn niet bij het bouwpakket inbegrepen, 1 motor is er wel
+- Onder de handmatige functies behoren de tuimelschijf om de instelhoek van de rotorbladen aan te passen, de deuren van de cockpit en passagierscabine die open kunnen, plus motorkappen aan de voor- en achterkant om het stuurmechanisme te bekijken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG2V2XZ{{</world>}}

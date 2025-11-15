@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- LEGO STAR WARS FIGUREN SET MIT 8 DROIDEN: Boxendroide, Gonk-Droide, Buzz-Droide, Medi-Droide (Weihnachtsoutfit), B2EMO, Treadwell-Droide, Mausdroide (Weihnachtsoutfit), Sondendroide, 8 baubare LEGO Droiden
+- STAR WARS ADVENTSKALENDER 2025: Kinder können in die Rolle eines Droidenschmieds wie Babu Frik schlüpfen; An jedem Tag entdecken sie Spielzeuge zum Bauen, die sie ihre eigene Droidenschmiede erschaffen lassen
+- STAR WARS SETS ZUM SAMMELN UND AUSSTELLEN: Die Bausets lassen Fans klassische Szenen nachspielen, neue Fantasy-Abenteuer erfinden oder die Modelle einfach nur stolz ausstellen
 - LEGO STAR WARS MINIFIGUREN: Die LEGO Minifiguren C-3PO und ein Jawa (im Weihnachtsoutfit), die LEGO Figur Babu Frik, 5 LEGO Droiden: R7-A7, BD-72, Schrott-Kampfdroide, BB-8 (Schneemannkostüm), Super-Kampfdroide
+- LEGO STAR WARS WEIHNACHTEN MIT BAUSPASS: Mini-Modelle und Charaktere aus diesem Kalender lassen sich mit anderen separat erhältlichen LEGO Star Wars Sets kombinieren, um unzählige Geschichten darzustellen
 - ADVENTSKALENDER FÜR MÄDCHEN & JUNGEN: Werkbank, Stuhl, Werkzeugregal, Kiste voller Droidenteile, Kran, Eimer für den Aufbau einer Droidenschmiede sowie baubares Fahrzeug des Jawas und ein Weihnachtsbaum
 - LEGO STAR WARS ADVENTSKALENDER ALS KINDER GESCHENK: Ein beliebtes Geschenk für Kinder ab 6 Jahren, geeignet für Jungen, Mädchen und jeden kleinen oder großen Star Wars Fan
-- STAR WARS SETS ZUM SAMMELN UND AUSSTELLEN: Die Bausets lassen Fans klassische Szenen nachspielen, neue Fantasy-Abenteuer erfinden oder die Modelle einfach nur stolz ausstellen
-- STAR WARS ADVENTSKALENDER 2025: Kinder können in die Rolle eines Droidenschmieds wie Babu Frik schlüpfen; An jedem Tag entdecken sie Spielzeuge zum Bauen, die sie ihre eigene Droidenschmiede erschaffen lassen
-- LEGO STAR WARS FIGUREN SET MIT 8 DROIDEN: Boxendroide, Gonk-Droide, Buzz-Droide, Medi-Droide (Weihnachtsoutfit), B2EMO, Treadwell-Droide, Mausdroide (Weihnachtsoutfit), Sondendroide, 8 baubare LEGO Droiden
-- LEGO STAR WARS WEIHNACHTEN MIT BAUSPASS: Mini-Modelle und Charaktere aus diesem Kalender lassen sich mit anderen separat erhältlichen LEGO Star Wars Sets kombinieren, um unzählige Geschichten darzustellen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDZ6ZX7{{</world>}}

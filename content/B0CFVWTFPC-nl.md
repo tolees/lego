@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eindeloze speelmogelijkheden – kinderen beleven nog meer plezier en avonturen als ze deze set toevoegen aan andere LEGO City sets (apart verkrijgbaar)
-- Wat zit er in deze bouwset? – inclusief alles wat kinderen nodig hebben om een speelgoed reddingsvoertuig en minifiguur van een piloot te bouwen
 - Speelgoed helikopter voor kinderen vanaf 5 jaar – LEGO City Brandweerhelikopter bouwset voor brandweeravonturen boordevol actie
+- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - LEGO cadeau voor kinderen vanaf 5 jaar die van creatief spelen houden – verras je jonge held met deze leuke brandweerhelikopter speelset voor fans van speelplezier boordevol actie
 - LEGO brandweer bouwpakket met interactieve gids – ontdek de LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
-- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Eindeloze speelmogelijkheden – kinderen beleven nog meer plezier en avonturen als ze deze set toevoegen aan andere LEGO City sets (apart verkrijgbaar)
 - Fantasierijk speelplezier – kinderen kunnen de piloot in de open cockpit zetten, de rotors laten draaien en LEGO waterelementen afvuren uit de waterkanonnen van de speelgoed helikopter
+- Wat zit er in deze bouwset? – inclusief alles wat kinderen nodig hebben om een speelgoed reddingsvoertuig en minifiguur van een piloot te bouwen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTFPC{{</world>}}

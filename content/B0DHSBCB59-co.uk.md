@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Simple LEGO 4+ model for kids – Features a Starter Brick base for easy building, an opening cockpit for The Mandalorian and a space for Grogu
+- Star Wars gifts for 4+ year old boys and girls – This Star Wars: The Mandalorian buildable toy makes a fun treat and gift for preschool children
+- Fun family-bonding activity – Find step-by-step pictorial instructions in the box and check out the LEGO Builder app for digital viewing tools to make the creative experience extra fun
 - Mando and Grogu’s N-1 Starfighter – Kids aged 4+ learn to build with LEGO bricks and create stories in the Star Wars: The Mandalorian universe
 - Fun accessories – The Mandalorian minifigure has a darksaber and jetpack, Grogu has a hover pram, and the set also includes a fuel station to build
-- 3 LEGO Star Wars characters – This Star Wars playset includes the Mandalorian LEGO minifigure, a Grogu LEGO figure and an R5-D4 LEGO droid figure
-- Fun family-bonding activity – Find step-by-step pictorial instructions in the box and check out the LEGO Builder app for digital viewing tools to make the creative experience extra fun
 - Build creativity – LEGO Star Wars sets for ages 4+ introduce young kids to more complex builds and the Star Wars universe, helping them develop their imaginations
-- Star Wars gifts for 4+ year old boys and girls – This Star Wars: The Mandalorian buildable toy makes a fun treat and gift for preschool children
-- Simple LEGO 4+ model for kids – Features a Starter Brick base for easy building, an opening cockpit for The Mandalorian and a space for Grogu
+- 3 LEGO Star Wars characters – This Star Wars playset includes the Mandalorian LEGO minifigure, a Grogu LEGO figure and an R5-D4 LEGO droid figure
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSBCB59{{</world>}}

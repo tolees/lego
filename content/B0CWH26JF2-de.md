@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kreisen, rutschen und spritzen: Dieses Wasserpark-Spielzeug bietet LEGO Baumeistern viele lustige Rollenspiele. Sie können die Figuren im Whirlpool kreisen, die Rutschen hinuntersausen oder die Wasserkanonen ausprobieren lassen
-- Wasserpark-Spielset für Mädchen und Jungen ab 8 Jahren: Dieses Spielzeug beinhaltet 3 Spielfiguren, eine Mikro-Spielfigur und einen baubaren Wasserpark mit 3 Rutschen und Whirlpool, damit Kinder kreativ spielen können
 - Jede Menge Wasserparkzubehör: Duschbereich, Umkleide, Schließfächer, Handtücher, Sonnencreme, Snacks und Deko-Meeresbewohner
 - 4 LEGO Friends Figuren: Dieses Set beinhaltet die Spielfiguren Leo, Aliya und Sara sowie die Mikro-Spielfigur Alba, die Kinder zu verschiedenen Rollenspielen und Abenteuern im Wasserpark einladen
 - Geburtstagsgeschenk für Kinder: Dieses Kinderspielzeug ist eine tolle Geschenkidee für Kinder, die gern mit LEGO Steinen bauen und Wasserparks lieben
+- Kreisen, rutschen und spritzen: Dieses Wasserpark-Spielzeug bietet LEGO Baumeistern viele lustige Rollenspiele. Sie können die Figuren im Whirlpool kreisen, die Rutschen hinuntersausen oder die Wasserkanonen ausprobieren lassen
+- Wasserpark-Spielset für Mädchen und Jungen ab 8 Jahren: Dieses Spielzeug beinhaltet 3 Spielfiguren, eine Mikro-Spielfigur und einen baubaren Wasserpark mit 3 Rutschen und Whirlpool, damit Kinder kreativ spielen können
 - Entdecke weitere Freundschaftsgeschichten: Schau dir auch die anderen separat erhältlichen LEGO Friends Spielzeugen an, die Kinder diverse Charaktere entdecken und viele Alltagsabenteuer darstellen lassen
 
 [🛒 Buy it!!]({{< param buyurl >}})

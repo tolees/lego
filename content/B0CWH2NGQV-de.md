@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, in der Baumeister 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
 - NINJAGO Action-Spielzeug für Kinder: Mit der Turnier-Arena können Jungen und Mädchen ab 7 Jahren packende Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 - Interaktives Abenteuer-Spielzeug für Rollenspiele: Dieses Actionspielzeug beinhaltet 2 bewegliche Plattformen, auf die Kinder einen Ninja und einen Bösewicht stellen können, um sie packende Duelle austragen zu lassen
+- 6 LEGO NINJAGO Minifiguren: Dieses Ninja-Spielzeug beinhaltet die Ninja Kai und Sora, die es in ihrer Turnierrüstung mit Cinder und einem Wolfsjäger sowie (exklusiv in diesem Set) mit dem Bösen Jay und Tox aufnehmen müssen
 - Geschenk für junge Ninja: Dieses LEGO Ninja Spielset bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Geburtstagsgeschenk für Jungen und Mädchen ab 7 Jahren, die gern in die Rolle eines Ninja schlüpfen
 - Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Mechs, Fahrzeugen und weiterem Fantasy-Spielzeug an
-- Nützliche Helfer: Entdecke die intuitiven Bauanleitungen in der LEGO Builder App, in der Baumeister 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern können, während sie neue Fähigkeiten entwickeln
-- 6 LEGO NINJAGO Minifiguren: Dieses Ninja-Spielzeug beinhaltet die Ninja Kai und Sora, die es in ihrer Turnierrüstung mit Cinder und einem Wolfsjäger sowie (exklusiv in diesem Set) mit dem Bösen Jay und Tox aufnehmen müssen
 - Rollende Walze und einklappbare Treppe: Kinder können an einem Hebel ziehen, um die Treppe zusammenzuklappen und eine LEGO NINJAGO Minifigur in die Arena hinunterrutschen zu lassen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

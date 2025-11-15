@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO NINJAGO Actionspielzeug für Kinder: Arins Spinjitzumech lässt Jungen und Mädchen ab 7 Jahren spannende Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- Coole Geschenkidee für Kinder: Dieses LEGO Abenteuerspielzeug bietet ein packendes Bau- und Spielerlebnis und ist eine tolle kleine Belohnung für Jungen und Mädchen ab 7 Jahren, die spannende Ninja-Abenteuer lieben
 - Baue deinen eigenen Mech: Kinder können die Körperteile und die Ausrüstung von diesem Mech mit den anpassbaren Mechs aus den separat erhältlichen NINJAGO Sets zu ihrer ultimativen Actionfigur kombinieren
 - 2 NINJAGO Minifiguren: Für Duelle zwischen Gut und Böse beinhaltet dieses LEGO Set den Ninja Arin mit einem Kristallkatana und einen bösen Geisterdrachenkämpfer; ein Modell von Baby Riyu vervollständigt das Set
-- Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Tempeln und Fahrzeugen an
+- Coole Geschenkidee für Kinder: Dieses LEGO Abenteuerspielzeug bietet ein packendes Bau- und Spielerlebnis und ist eine tolle kleine Belohnung für Jungen und Mädchen ab 7 Jahren, die spannende Ninja-Abenteuer lieben
 - LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an Ninja-Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
+- Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Tempeln und Fahrzeugen an
 - Beweglicher Spielzeugmech: Arins Spinjitzumech kann Arme und Beine bewegen und seinen Oberkörper drehen; in seine aufklappbare Brust passen eine Minifigur und 2 große Schwerter
+- LEGO NINJAGO Actionspielzeug für Kinder: Arins Spinjitzumech lässt Jungen und Mädchen ab 7 Jahren spannende Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRZ3GC{{</world>}}

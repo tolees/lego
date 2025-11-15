@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GESCHENK FÜR JUNGEN UND MÄDCHEN: Ob zum Geburtstag oder als spontane Überraschung – diese Eisenbahn-Erweiterung ist ein schönes Geschenk für Kinder ab 2 Jahren
-- KOMPATIBEL MIT ANDEREN DUPLO ZUGSETS: Lässt sich mit den interaktiven LEGO DUPLO Eisenbahnsets wie 10427 und 10428 kombinieren, um die Bahnstrecke beliebig zu erweitern
-- MOTORIKSPIELZEUG AB 2 JAHREN: Beim Koppeln der Schienen und Überqueren der Brücke schulen Kinder spielerisch ihre Feinmotorik, Geduld und Problemlösefähigkeiten
-- SICHERES SPIELZEUG FÜR KLEINKINDER: Alle DUPLO Teile sind speziell für kleine Hände gemacht, robust und sicher – geprüft nach höchsten Qualitäts- und Sicherheitsstandards
-- KREATIVES SPIELZEUG FÜR KLEINKINDER: Das Spielset enthält 8 Schienensegmente, eine baubare Brücke, einen Aktionsstein und eine Techniker Minifigur mit Handy für fantasievolle Rollenspiele
 - DUPLO EISENBAHN ERWEITERUNG FÜR KINDER AB 2 JAHREN: Das LEGO DUPLO Eisenbahnbrücke und Schienen Set erweitert jedes DUPLO Eisenbahnset um eine spannende Brücke, zusätzliche Schienen und mehr Spielmöglichkeiten
+- KREATIVES SPIELZEUG FÜR KLEINKINDER: Das Spielset enthält 8 Schienensegmente, eine baubare Brücke, einen Aktionsstein und eine Techniker Minifigur mit Handy für fantasievolle Rollenspiele
+- KOMPATIBEL MIT ANDEREN DUPLO ZUGSETS: Lässt sich mit den interaktiven LEGO DUPLO Eisenbahnsets wie 10427 und 10428 kombinieren, um die Bahnstrecke beliebig zu erweitern
+- SICHERES SPIELZEUG FÜR KLEINKINDER: Alle DUPLO Teile sind speziell für kleine Hände gemacht, robust und sicher – geprüft nach höchsten Qualitäts- und Sicherheitsstandards
+- MOTORIKSPIELZEUG AB 2 JAHREN: Beim Koppeln der Schienen und Überqueren der Brücke schulen Kinder spielerisch ihre Feinmotorik, Geduld und Problemlösefähigkeiten
+- GESCHENK FÜR JUNGEN UND MÄDCHEN: Ob zum Geburtstag oder als spontane Überraschung – diese Eisenbahn-Erweiterung ist ein schönes Geschenk für Kinder ab 2 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00CREPP66{{</world>}}

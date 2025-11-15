@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- REGALO DE CUMPLEAÑOS PARA NIÑOS Y NIÑAS DE 2 AÑOS O MÁS: Este juguete Montessori es un gran regalo para niños y niñas pequeños que adoran las ambulancias de juguete y los vehículos de emergencia
+- JUEGO DE ROL CREATIVO PARA NIÑOS Y NIÑAS: Los peques aprenden sobre la empatía mientras imaginan cómo se siente la paciente usando la rueda de juego digital incluida en las instrucciones de construcción disponibles en la app LEGO Builder
+- AMBULANCIA DE JUGUETE PARA EL JUEGO DE ROL: Los peques interpretan situaciones de rescate con el juguete educativo Ambulancia y Conductor, que incluye una ambulancia y una pequeña maqueta de una casa
 - JUGUETE DIDÁCTICO SOBRE RESCATES: Los peques practican la interpretación y pensamiento lógico para cuidar de la figura de una chica, tratar su herida y llevarla al hospital en la ambulancia
 - JUGUETES MONTESSORI LLENOS DE DETALLES: Los juguetes educativos LEGO DUPLO, diseñados por expertos, ayudan a las jóvenes mentes curiosas a dar sentido a su entorno y a mejorar su motricidad fina
-- JUEGO DE ROL CREATIVO PARA NIÑOS Y NIÑAS: Los peques aprenden sobre la empatía mientras imaginan cómo se siente la paciente usando la rueda de juego digital incluida en las instrucciones de construcción disponibles en la app LEGO Builder
 - JUEGO PARA APRENDER EMOCIONES: Cuenta con figuras de un conductor de ambulancia y una chica, un vehículo, una bolsa y un botiquín de juguete para explorar las habilidades sociales y aprender cómo cuidan los paramédicos a los pacientes
-- AMBULANCIA DE JUGUETE PARA EL JUEGO DE ROL: Los peques interpretan situaciones de rescate con el juguete educativo Ambulancia y Conductor, que incluye una ambulancia y una pequeña maqueta de una casa
-- REGALO DE CUMPLEAÑOS PARA NIÑOS Y NIÑAS DE 2 AÑOS O MÁS: Este juguete Montessori es un gran regalo para niños y niñas pequeños que adoran las ambulancias de juguete y los vehículos de emergencia
 - JUGUETE EDUCATIVO SOCIOEMOCIONAL: Para explorar más primeras experiencias, echa un vistazo al juguete basado en el juego simbólico Mi Ciudad LEGO DUPLO Primera Vez: Visita al Médico (a la venta por separado)
 
 [🛒 Buy it!!]({{< param buyurl >}})

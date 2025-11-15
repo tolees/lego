@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Spielzeug-Fahrzeuge zum Verschenken: Dieses LEGO Set mit Auto bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Auto-Geschenk für 9-jährige Jungs, Mädchen und alle Autofans sowie für erwachsene Modellauto-Sammler
-- LEGO Audi zum Ausstellen: Nachdem dein Kind einige Runden in diesem flinken Rennauto-Spielzeug gedreht hat, kann es das Modell im Regal oder auf dem Nachttisch ausstellen
-- Modelle legendärer Autos zum Spielen und Ausstellen: LEGO Speed Champions Sets lassen Kinder und Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
-- Audi Spielzeugauto für Kinder: Der LEGO Speed Champions Audi S1 e-tron quattro Rennwagen zum Sammeln, Bauen, Spielen und Ausstellen ist ein Modellauto für Jungs und Mädchen ab 9 Jahren
 - 1 Minifigur: Neben dem LEGO Auto mit abnehmbarem Dach beinhaltet das Auto-Spielzeug auch eine Rennfahrer-Minifigur mit Helm, Haarteil und Schraubenschlüssel, die man hinters Lenkrad setzen und spannende Rennen fahren lassen kann
-- Noch spannendere Rennen: Entdecke auch die anderen separat erhältlichen LEGO Autos aus der Speed Champions Reihe mit ihren authentischen Details
+- Modelle legendärer Autos zum Spielen und Ausstellen: LEGO Speed Champions Sets lassen Kinder und Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
+- Spielzeug-Fahrzeuge zum Verschenken: Dieses LEGO Set mit Auto bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Auto-Geschenk für 9-jährige Jungs, Mädchen und alle Autofans sowie für erwachsene Modellauto-Sammler
 - Authentische Audi Designdetails: Diese Nachbildung des Audi S1 e-tron quattro Rennwagens verfügt über einen großen Heckflügel, einen tief sitzenden Heckdiffusor, einen Frontsplitter und ein detailreiches Interieur inklusive E-Bremse
+- LEGO Audi zum Ausstellen: Nachdem dein Kind einige Runden in diesem flinken Rennauto-Spielzeug gedreht hat, kann es das Modell im Regal oder auf dem Nachttisch ausstellen
+- Audi Spielzeugauto für Kinder: Der LEGO Speed Champions Audi S1 e-tron quattro Rennwagen zum Sammeln, Bauen, Spielen und Ausstellen ist ein Modellauto für Jungs und Mädchen ab 9 Jahren
+- Noch spannendere Rennen: Entdecke auch die anderen separat erhältlichen LEGO Autos aus der Speed Champions Reihe mit ihren authentischen Details
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ1LCY{{</world>}}

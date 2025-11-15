@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Star Wars cadeau voor kinderen vanaf 9 jaar – geef deze avontuurlijke om zelf te bouwen aan jongens, meisjes en Star Wars fans
-- Aanpasbaar bouwspeelgoed – verwijder de borgpennen om de vleugels van de bouwbare combimodellen los te maken en ze om te bouwen tot een klassieke TIE Fighter en een X-wing met intrekbaar landingsgestel
 - Onderdeel van de LEGO Star Wars: Rebuild the Galaxy collectie – bekijk ook de sets 75388 Jedi Bobs Starfighter en 75389 Dark Falcon, apart verkrijgbaar
-- Bouwbaar LEGO Star Wars speelgoed voor alle leeftijden – met LEGO Star Wars bouwspeelgoed kunnen kinderen en volwassen fans beroemde scènes nabouwen, hun eigen creatieve verhalen verzinnen en de bouwbare modellen op een mooi plekje neerzetten als Star Wars decoratie
+- Aanpasbaar bouwspeelgoed – verwijder de borgpennen om de vleugels van de bouwbare combimodellen los te maken en ze om te bouwen tot een klassieke TIE Fighter en een X-wing met intrekbaar landingsgestel
+- TIE-wing en X-fighter bouwbare Star Wars speelgoed voertuigen – elke starfighter heeft een cockpit die open kan met ruimte voor een LEGO minifiguur en 2 schieters met veermechanisme, en de vleugels van de X-wing zijn verstelbaar
 - TIE Fighter en X-wing combi – creëer gemixte TIE-wing en X-fighter starfighters, zoals te zien in de Rebuild the Galaxy Disney+ special, met deze LEGO Star Wars bouwpakket voor kinderen
 - 4 LEGO Star Wars minifiguren en een LEGO droid figuur – een rebellenpiloot en een TIE Pilot, elk met blasterpistolen, Yesi Scala met een gaffi stick en Sig Greebling, plus een LEGO figuur van de droid L3-G0
-- TIE-wing en X-fighter bouwbare Star Wars speelgoed voertuigen – elke starfighter heeft een cockpit die open kan met ruimte voor een LEGO minifiguur en 2 schieters met veermechanisme, en de vleugels van de X-wing zijn verstelbaar
+- Star Wars cadeau voor kinderen vanaf 9 jaar – geef deze avontuurlijke om zelf te bouwen aan jongens, meisjes en Star Wars fans
+- Bouwbaar LEGO Star Wars speelgoed voor alle leeftijden – met LEGO Star Wars bouwspeelgoed kunnen kinderen en volwassen fans beroemde scènes nabouwen, hun eigen creatieve verhalen verzinnen en de bouwbare modellen op een mooi plekje neerzetten als Star Wars decoratie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2386T{{</world>}}

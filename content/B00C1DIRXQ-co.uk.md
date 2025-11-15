@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Home or office desk decor – Enjoy an immersive building experience before putting your creation on display for all to explore and enjoy
-- What’s in the box? – This building set for adults includes a multistage rocket with 2 solid-fuel boosters, a NASA Orion capsule and a launch tower
-- Digital building instructions – The LEGO Builder app features a digital version of the instructions included with this LEGO Icons set for adults
 - Space-themed gift – This LEGO Icons NASA Artemis Space Launch System construction set makes a great birthday gift for men and women or a special treat for your favourite space enthusiast
-- Mindful LEGO projects for adults – This LEGO Icons project is part of a range of advanced building sets designed for adults
+- What’s in the box? – This building set for adults includes a multistage rocket with 2 solid-fuel boosters, a NASA Orion capsule and a launch tower
+- Home or office desk decor – Enjoy an immersive building experience before putting your creation on display for all to explore and enjoy
 - NASA model rocket set – Launch into a creative project with the LEGO Icons NASA Artemis Space Launch System model kit for adults to build
+- Digital building instructions – The LEGO Builder app features a digital version of the instructions included with this LEGO Icons set for adults
+- Mindful LEGO projects for adults – This LEGO Icons project is part of a range of advanced building sets designed for adults
 - Features – The rocket features retractable launch tower umbilicals, rocket support and crew bridge, detachable boosters and separating rocket stages
 
 [🛒 Buy it!!]({{< param buyurl >}})

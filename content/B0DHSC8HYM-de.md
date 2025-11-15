@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Star Wars Geschenk für Jungen, Mädchen und alle Fans ab 8 Jahren: Dieses LEGO Star Wars Fantasy-Set ist ein tolles Weihnachts- oder Ostergeschenk für Kinder und alle Fans von Star Wars: Andor
-- Raumschiff mit authentischen Details: Der baubare LEGO Star Wars Spielzeug-Sternenjäger hat eine Funktion, um die Flügel zum Fliegen aus dem Landemodus in die V-Stellung zu schwenken
-- Erkunde das gesamte Angebot: Die separat erhältlichen LEGO Star Wars Sets zum Sammeln lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
 - Modell eines Sternenjägers für Kinder: Dieser Star Wars Rebel U-Wing Starfighter aus LEGO Steinen lässt dich die heldenhaften Abenteuer aus der 2. Staffel von Star Wars: Andor erleben und nachspielen
 - 4 LEGO Star Wars Charaktere: Die beiden LEGO Minifiguren Cassian Andor und Dedra Meero tragen jeweils eine Blaster-Pistole; Der ISB-Agent (ebenfalls eine Minifigur) und der LEGO Droide K-2SO haben dagegen einen Blaster
+- Star Wars Geschenk für Jungen, Mädchen und alle Fans ab 8 Jahren: Dieses LEGO Star Wars Fantasy-Set ist ein tolles Weihnachts- oder Ostergeschenk für Kinder und alle Fans von Star Wars: Andor
 - Riesiger Actionspaß: Man kann das Cockpitdach des U-Wing Starfighters mit einem Hebel öffnen; In den aufklappbaren Laderaum passen Passagiere und Fracht; 2 Shooter mit Federmechanismus sorgen für die nötige Feuerkraft
+- Erkunde das gesamte Angebot: Die separat erhältlichen LEGO Star Wars Sets zum Sammeln lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
+- Raumschiff mit authentischen Details: Der baubare LEGO Star Wars Spielzeug-Sternenjäger hat eine Funktion, um die Flügel zum Fliegen aus dem Landemodus in die V-Stellung zu schwenken
 - Tolles Bauerlebnis: In der LEGO Builder App können Kinder beim Bauen unter anderem eine digitale Version dieses Modells vergrößern, drehen und näher betrachten, ihren Baufortschritt verfolgen und Sets speichern
 
 [🛒 Buy it now!!]({{< param buyurl >}})

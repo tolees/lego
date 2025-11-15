@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Accessories in this LEGO Friends animal rescue set include food and water for the puppy, binoculars, a helmet, bone, poo, litter bin, and poster
-- This LEGO Friends animal playset features Aliya - a scout leader and her younger friend Victoria mini-dolls, plus a cute toy puppy figure
-- There are lots of cool features in this animal playset; the park scene features a bench and a moving bush that lifts to reveal the missing pup
-- The trailer opens at the front and back to let the puppy inside with Victoria; Aliya can ride the toy bike to take them home after their mission
-- Kids Ages 6+ can use the dog poo and pawprint clues to help LEGO Friends Aliya and Victoria search Heartlake City and find the missing puppy
 - Give pet-loving kids a treat with this LEGO Friends Dog Rescue Bike animal playset, featuring toy bike with removable trailer and a park scene
+- Kids Ages 6+ can use the dog poo and pawprint clues to help LEGO Friends Aliya and Victoria search Heartlake City and find the missing puppy
+- The trailer opens at the front and back to let the puppy inside with Victoria; Aliya can ride the toy bike to take them home after their mission
 - Part of the new generation of Heartlake City with 2023 LEGO Friends characters and sets, check out more; including Dog Rescue Van (41741)
+- There are lots of cool features in this animal playset; the park scene features a bench and a moving bush that lifts to reveal the missing pup
+- This LEGO Friends animal playset features Aliya - a scout leader and her younger friend Victoria mini-dolls, plus a cute toy puppy figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBSJZ9CH{{</world>}}

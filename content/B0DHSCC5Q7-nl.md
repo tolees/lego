@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een universum vol LEGO NINJAGO speelgoed – de uitgebreide collectie kinderspeelgoed (sets apart verkrijgbaar) laat kinderen ontsnappen naar een fantasierijke wereld met hun ninjahelden
-- LEGO NINJAGO speelgoed voor kinderen – jongens en meisjes vanaf 6 jaar kunnen scènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen met het Spinjitzu drakenstrijdpakket
-- Grotere ninja-avonturen – kijk ook eens naar ander LEGO NINJAGO speelgoed (sets apart verkrijgbaar), waaronder draken, tempels en voertuigen
 - Tempel van de gevechtsarena met instortfunctie – Arin en Ras kunnen hun spinners upgraden met speciale gouden elementen, die ze winnen door de gevechtsarena te raken en in te laten storten
-- Ninjacadeau voor kinderen – deze kleine LEGO set biedt een leuke bouw- en speelervaring en is een verrassing voor ninjafans die dol zijn op fantasierijk spelen en avonturenspeelgoed
 - 2 minifiguren van NINJAGO personages – deze bouwset voor kinderen bevat ninja Arin gewapend met een speelgoed zwaard en de gemene Ras met een zwaard
+- LEGO NINJAGO speelgoed voor kinderen – jongens en meisjes vanaf 6 jaar kunnen scènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen met het Spinjitzu drakenstrijdpakket
 - 2 snelle spinners – kinderen kunnen de drakenspinners van Arin en Ras in hun lanceerders plaatsen en ze tollend op elkaar laten afgaan voor spannende duels
+- Grotere ninja-avonturen – kijk ook eens naar ander LEGO NINJAGO speelgoed (sets apart verkrijgbaar), waaronder draken, tempels en voertuigen
+- Ninjacadeau voor kinderen – deze kleine LEGO set biedt een leuke bouw- en speelervaring en is een verrassing voor ninjafans die dol zijn op fantasierijk spelen en avonturenspeelgoed
+- Een universum vol LEGO NINJAGO speelgoed – de uitgebreide collectie kinderspeelgoed (sets apart verkrijgbaar) laat kinderen ontsnappen naar een fantasierijke wereld met hun ninjahelden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCC5Q7{{</world>}}

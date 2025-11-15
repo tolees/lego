@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Expand the fun – Inspire more creative-play around Heartlake City with other building sets (sold separately) from the LEGO Friends range
+- Dolls house accessories – Includes a retractable ladder, a slide and a lift that Pickle the dog uses to access the different levels of the tree house, plus sunflowers, toy food and more
+- Tree house toy for kids – This LEGO Friends Friendship Tree House Hangout toy for 8+ year old girls and boys includes customisable elements and accessories for imaginative play
+- Creative toys – This building set inspires kids to role-play with LEGO Friends characters as they play, cook, sleep, and tend to the toy garden
 - LEGO Friends characters – Liann, Autumn, Leo and Zac mini dolls are included in the set, plus Pickle the dog and raccoon animal toys
 - Gift idea for kids – This building toy makes a fun birthday gift for 8+ year old girls and boys who love creative toys, nature, and friendship-based role play
-- Creative toys – This building set inspires kids to role-play with LEGO Friends characters as they play, cook, sleep, and tend to the toy garden
-- Expand the fun – Inspire more creative-play around Heartlake City with other building sets (sold separately) from the LEGO Friends range
-- Tree house toy for kids – This LEGO Friends Friendship Tree House Hangout toy for 8+ year old girls and boys includes customisable elements and accessories for imaginative play
-- Dolls house accessories – Includes a retractable ladder, a slide and a lift that Pickle the dog uses to access the different levels of the tree house, plus sunflowers, toy food and more
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCPGTZ{{</world>}}

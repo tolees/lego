@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dieses LEGO-Set ist das einzige mit Druig und Phastos und daher ein wunderbares Weihnachts- oder Geburtstagsgeschenk für Marvel- und LEGO-Fans
-- Kombiniere das Set mit anderen aus der „LEGO Marvel The Eternals“-Reihe für noch mehr Spielmöglichkeiten
-- Das leicht zusammenbaubare Raumschiff enthält eine einfache Bauanleitung, sodass Kinder sofort mit dem Bauen und Spielen beginnen können
-- Enthält 6 LEGO-Marvel-Minifiguren: Makkari, Ikaris, Thena, Sersi, Druig und Phastos sowie 2 Deviant-Action-Figuren mit Kro, dem Anführer der Deviants
-- Das Raumschiff beinhaltet ein Cockpit, ein Waffenlager voll mit coolen Waffen und ein Labor voll Technik – ein futuristischer Raum für die Wissenschaft
-- Kinder können eine Minifigur in den Fahrersitz des Raumschiffs setzen und so Kampfszenen zwischen den Superhelden-Figuren und den Deviant-Kreaturen nachspielen
 - Das Set LEGO Marvel Super Heroes Aufstieg des Domo enthält das Eternals-Raumschiff mit 3 aufklappbaren Seiten zum Erkunden und Spielen
+- Das Raumschiff beinhaltet ein Cockpit, ein Waffenlager voll mit coolen Waffen und ein Labor voll Technik – ein futuristischer Raum für die Wissenschaft
+- Dieses LEGO-Set ist das einzige mit Druig und Phastos und daher ein wunderbares Weihnachts- oder Geburtstagsgeschenk für Marvel- und LEGO-Fans
+- Enthält 6 LEGO-Marvel-Minifiguren: Makkari, Ikaris, Thena, Sersi, Druig und Phastos sowie 2 Deviant-Action-Figuren mit Kro, dem Anführer der Deviants
+- Das leicht zusammenbaubare Raumschiff enthält eine einfache Bauanleitung, sodass Kinder sofort mit dem Bauen und Spielen beginnen können
+- Kombiniere das Set mit anderen aus der „LEGO Marvel The Eternals“-Reihe für noch mehr Spielmöglichkeiten
+- Kinder können eine Minifigur in den Fahrersitz des Raumschiffs setzen und so Kampfszenen zwischen den Superhelden-Figuren und den Deviant-Kreaturen nachspielen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082WDCZTG{{</world>}}

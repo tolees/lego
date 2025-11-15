@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bauspielzeug mit 2 LEGO Star Wars Minifiguren: Dieses Bau- und Spielset beinhaltet Ahsoka Tano und Anakin Skywalker Spielzeugfiguren sowie den LEGO Droiden R7-A7
-- Sternenschiff Modell aus LEGO Steinen und mit faszinierenden Charakteren: Für Actionduelle hat Ahsoka Tano 2 grüne Lichtschwerter, und Anakin Skywalker schwingt ein blaues Lichtschwert
-- Erkunde das gesamte Angebot: Die separat erhältlichen LEGO Star Wars Sets zum Sammeln lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachstellen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
 - Jedi Interceptor – ein baubarer Spielzeug Sternenjäger für Kinder: Stell mit diesem detailgetreuen LEGO Modell von Ahsokas Jedi Interceptor spannende Missionen aus Star Wars: The Clone Wars nach
+- Sternenschiff Modell aus LEGO Steinen und mit faszinierenden Charakteren: Für Actionduelle hat Ahsoka Tano 2 grüne Lichtschwerter, und Anakin Skywalker schwingt ein blaues Lichtschwert
+- Bauspielzeug mit 2 LEGO Star Wars Minifiguren: Dieses Bau- und Spielset beinhaltet Ahsoka Tano und Anakin Skywalker Spielzeugfiguren sowie den LEGO Droiden R7-A7
 - Star Wars Spielset: Der Jedi Interceptor hat ein aufklappbares Cockpit für Ahsoka Tano, einen Platz für R7-A7, verstellbare Flügel, 2 Shooter mit Federmechanismus und ein Staufach für Ahsokas 2 Lichtschwerter
-- Star Wars Geschenkidee für Kinder ab 8 Jahren: Dieses LEGO Star Wars Bauspielzeug ist ein tolles Geburtstagsgeschenk für kreative Jungen, Mädchen und junge Fans von Star Wars: The Clone Wars
 - Nützlicher Helfer: In der LEGO Builder App können Kinder beim Bauen unter anderem eine digitale Version dieses Modells vergrößern, drehen und näher betrachten, ihren Baufortschritt verfolgen und Sets speichern
+- Erkunde das gesamte Angebot: Die separat erhältlichen LEGO Star Wars Sets zum Sammeln lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachstellen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
+- Star Wars Geschenkidee für Kinder ab 8 Jahren: Dieses LEGO Star Wars Bauspielzeug ist ein tolles Geburtstagsgeschenk für kreative Jungen, Mädchen und junge Fans von Star Wars: The Clone Wars
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSCSY1G{{</world>}}

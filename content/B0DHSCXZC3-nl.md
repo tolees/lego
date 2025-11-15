@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een bouwset vol accessoires – elementen zijn onder andere menukaarten, een oven, een blocnote, een kaasrasp, een blender, een mixer, een spuitzak, een zoutvaatje, een peperstrooier, een bezem en nog veel meer
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 - Fantasierijk spel voor creatieve koks in spe – dit Restaurant en kookschool speelgoed voor rollenspellen voor kinderen vanaf 8 jaar bevat allerlei etensaccessoires, 4 poppetjes, een kattenfiguur en een speelgoed scooter
-- Bedenk nieuwe gerechten – het speelgoed restaurant inspireert urenlange verhalen over de kookschool en wordt geleverd met speelgoed eten dat kinderen kunnen combineren terwijl ze hun eigen recepten maken die klanten komen proeven
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Een bouwset vol accessoires – elementen zijn onder andere menukaarten, een oven, een blocnote, een kaasrasp, een blender, een mixer, een spuitzak, een zoutvaatje, een peperstrooier, een bezem en nog veel meer
 - Inclusief 4 LEGO Friends poppetjes en een kat – LEGO Friends Aliya en Sara hebben verwisselbare gezichten, zodat kinderen hun gezichtsuitdrukking kunnen veranderen als ze het eten proberen
+- Bedenk nieuwe gerechten – het speelgoed restaurant inspireert urenlange verhalen over de kookschool en wordt geleverd met speelgoed eten dat kinderen kunnen combineren terwijl ze hun eigen recepten maken die klanten komen proeven
 - Cadeau voor meisjes, jongens en tieners – deze set is een superleuk cadeau voor een verjaardag of een andere gelegenheid voor kinderen die graag doen alsof en van koken en vriendschapsverhalen houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})

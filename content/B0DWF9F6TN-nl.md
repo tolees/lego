@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO boor en schop – bevestig de drilboor of de laadschop en gebruik vervolgens de versnellingsbak om de giek en arm van de graafmachine te bewegen en de acties van een echte bouwmachine na te bootsen
 - Cadeau voor mannen en vrouwen – deze set is een leuk cadeau voor volwassenen die van grote bouwprojecten houden
+- Gemotoriseerde LEGO voertuig set – deze LEGO graafmachine heeft een motor en versnellingsbak met 4 functies, waaronder een beweegbare giek en arm en een verwisselbare drilboor en laadschop
+- LEGO boor en schop – bevestig de drilboor of de laadschop en gebruik vervolgens de versnellingsbak om de giek en arm van de graafmachine te bewegen en de acties van een echte bouwmachine na te bootsen
+- Geavanceerde LEGO sets voor volwassenen – ontdek technische concepten en geniet van een ontspannend bouwproject met de collectie geavanceerde LEGO Technic bouwsets voor volwassenen
 - LEGO Technic graafmachine bouwpakket voor volwassenen – ga helemaal op in een boeiend bouwproject met deze gedetailleerde Volvo EC500 Hybrid graafmachine (42215) met gemotoriseerde functies
 - Digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO bouwset horen
-- Gemotoriseerde LEGO voertuig set – deze LEGO graafmachine heeft een motor en versnellingsbak met 4 functies, waaronder een beweegbare giek en arm en een verwisselbare drilboor en laadschop
-- Geavanceerde LEGO sets voor volwassenen – ontdek technische concepten en geniet van een ontspannend bouwproject met de collectie geavanceerde LEGO Technic bouwsets voor volwassenen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF9F6TN{{</world>}}

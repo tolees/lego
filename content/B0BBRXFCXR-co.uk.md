@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Check out other LEGO Marvel collectable action figures: LEGO Marvel Thanos Mech Armour (76242) or LEGO Marvel Rocket Mech Armour (76243)
+- This LEGO Avengers figure set includes a buildable Hulk mech action figure toy with posable arms, legs and crushing hands plus an opening cockpit
+- Young superheroes can transform the mighty Hulk into a bigger battling machine with this LEGO Marvel Hulk Mech Armour figure building toy set
 - Surprise Marvel, Hulk and the Avengers Infinity Saga fans with this LEGO Marvel building toy, a cool birthday gift for kids aged 6 plus
 - A stone pillar is included for kids to role-play the Hulk figure holding and swinging in the superhero adventure; the figure looks cool on display
-- This LEGO Avengers figure set includes a buildable Hulk mech action figure toy with posable arms, legs and crushing hands plus an opening cockpit
-- Check out other LEGO Marvel collectable action figures: LEGO Marvel Thanos Mech Armour (76242) or LEGO Marvel Rocket Mech Armour (76243)
-- Young superheroes can transform the mighty Hulk into a bigger battling machine with this LEGO Marvel Hulk Mech Armour figure building toy set
 - Kids place the LEGO Hulk Super Hero minifigure into the cockpit of the fully jointed mech figure and position the Mech to get ready for battle
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - - Dimensioni del modello: 11 x 14 x 17 cm (lunghezza x larghezza x altezza)
-- Il casco della Principessa Leia (Boushh) - Lego Star Wars 75351.
 - Incanalizza la tua Forza creativa per ricreare il casco del primo giocatore indossato dalla Principessa Leia per entrare nel palazzo di Jabba the Hutt in Star Wars, Il ritorno del Jedi.
 - Nore di parti: 670
+- Il casco della Principessa Leia (Boushh) - Lego Star Wars 75351.
 - - Il casco è accompagnato da un supporto in mattoni e da un cartello.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinder können mit dem LEGO Creator 3-in-1-Spielset Weltraum-Achterbahn eine Reise unternehmen, die nicht von dieser Welt ist, dank der 3 coolen LEGO Kirmes-Fahrgeschäfte zum Bauen und Umbauen in einer Box
-- Der 3-in-1 LEGO Weltraum-Vergnügungspark Set enthält außerdem einen LEGO Lichtstein, mit dem der Meteor des Rummelplatzes, die Triebwerke des Shuttles und die Kabine des Karussells der jeweiligen LEGO Gebäude beleuchtet werden können
-- Weltraum-Fans können drei verschiedene LEGO Vergnügungspark-Fahrgeschäfte bauen: die LEGO Weltraum-Achterbahn, den Fallturm mit Aufzug oder ein sich drehendes Weltraumkarussell
-- Die LEGO Achterbahn verfügt über eine kurvenreiche Strecke, auf der drei Karren umringt von Planeten, Sternschnuppen und Meteoren herumsausen können, während der Fallturm über einen Aufzug verfügt, der nach oben fährt, bevor er auf den Boden fällt
-- Um das rasante intergalaktische Abenteuer fortzusetzen, können junge Weltraumforscher den Bausatz in ein Karussell mit einer Mini LEGO Rakete und einem LEGO Space Shuttle umbauen, die sich schnell drehen
-- Enthält 5 Minifiguren: einen Astronauten, einen Vater mit zwei Kindern, einen Wissenschaftler und einen Baby-Astronauten, der die Fahrgeschäften fahren kann – die Outfits der Charaktere sind austauschbar, um lustige neue Looks zu kreieren
 - Mit einer Höhe von über 27 cm und einer Breite von 27 cm ist dieser LEGO Weltraum-Kirmes-Set ein tolles Ausstellungsstück für Kinderzimmer – perfekt für Fans von Wissenschaft, Technik und LEGO Space Shuttles
+- Enthält 5 Minifiguren: einen Astronauten, einen Vater mit zwei Kindern, einen Wissenschaftler und einen Baby-Astronauten, der die Fahrgeschäften fahren kann – die Outfits der Charaktere sind austauschbar, um lustige neue Looks zu kreieren
+- Um das rasante intergalaktische Abenteuer fortzusetzen, können junge Weltraumforscher den Bausatz in ein Karussell mit einer Mini LEGO Rakete und einem LEGO Space Shuttle umbauen, die sich schnell drehen
+- Die LEGO Achterbahn verfügt über eine kurvenreiche Strecke, auf der drei Karren umringt von Planeten, Sternschnuppen und Meteoren herumsausen können, während der Fallturm über einen Aufzug verfügt, der nach oben fährt, bevor er auf den Boden fällt
+- Weltraum-Fans können drei verschiedene LEGO Vergnügungspark-Fahrgeschäfte bauen: die LEGO Weltraum-Achterbahn, den Fallturm mit Aufzug oder ein sich drehendes Weltraumkarussell
+- Der 3-in-1 LEGO Weltraum-Vergnügungspark Set enthält außerdem einen LEGO Lichtstein, mit dem der Meteor des Rummelplatzes, die Triebwerke des Shuttles und die Kabine des Karussells der jeweiligen LEGO Gebäude beleuchtet werden können
+- Kinder können mit dem LEGO Creator 3-in-1-Spielset Weltraum-Achterbahn eine Reise unternehmen, die nicht von dieser Welt ist, dank der 3 coolen LEGO Kirmes-Fahrgeschäfte zum Bauen und Umbauen in einer Box
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7F29QL{{</world>}}

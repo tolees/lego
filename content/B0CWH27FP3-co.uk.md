@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CREATIVE LEARNING TOYS – Includes a LEGO DUPLO Marvel Spin figure, a motorbike toy, a build-and-rebuild HQ, a web element and a Trace-E robot spider brick
-- LEARNING THROUGH PLAY – LEGO DUPLO Marvel toys are expertly designed with colourful, toddler-friendly bricks to develop fine motor skills and include imaginative features to encourage open-ended, creative fun
 - CREATIVE ROLE PLAY – Kids take on the role of Spin, performing cool stunts on the toy motorbike and catching bricks in the web element
-- TODDLER LEARNING TOY – This LEGO DUPLO set helps toddlers develop logical thinking and self-expression as they create fun Spider-Man themed stories
-- GIFT FOR SPIDEY FANS – Treat Spidey and His Amazing Friends fans who love toy vehicles to this building set which makes a great birthday gift for 2+ year old boys and girls
 - SPIDEY TOY – Kids can recreate scenes from the Spidey and His Amazing Friends TV show with Spin’s Motorcycle Adventure toy for 2+ year old boys and girls
+- GIFT FOR SPIDEY FANS – Treat Spidey and His Amazing Friends fans who love toy vehicles to this building set which makes a great birthday gift for 2+ year old boys and girls
+- TODDLER LEARNING TOY – This LEGO DUPLO set helps toddlers develop logical thinking and self-expression as they create fun Spider-Man themed stories
+- LEARNING THROUGH PLAY – LEGO DUPLO Marvel toys are expertly designed with colourful, toddler-friendly bricks to develop fine motor skills and include imaginative features to encourage open-ended, creative fun
+- CREATIVE LEARNING TOYS – Includes a LEGO DUPLO Marvel Spin figure, a motorbike toy, a build-and-rebuild HQ, a web element and a Trace-E robot spider brick
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH27FP3{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Sonic toys – LEGO Sonic the Hedgehog sets introduce kids to fast-action fun and imaginative play with different characters and story possibilities
-- Cool functions – This Super Sonic LEGO set features a speed sphere launcher and speed sphere for Super Shadow, plus stud shooters on the Biolizard
+- 3D building instructions – Check out the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your model in 3D
+- Sonic lizard figure – The detachable pod on the Biolizard’s back contains the Chaos Emerald and releases when the speed sphere hits its side
 - Super Sonic toy – Boys and girls aged 9+ can reimagine stories with their favourite Sonic characters with this Super Shadow vs. Biolizard set
 - Gift for gamers – The set inspires endless stories with Super Shadow, Super Sonic and the Biolizard and makes a fun birthday gift for 9 plus year old boys and girls
-- Sonic lizard figure – The detachable pod on the Biolizard’s back contains the Chaos Emerald and releases when the speed sphere hits its side
-- 3D building instructions – Check out the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your model in 3D
 - LEGO Sonic set – Features a posable Biolizard figure, a speed sphere launcher with speed sphere, and 2 minifigures: Super Shadow and Super Sonic
+- LEGO Sonic toys – LEGO Sonic the Hedgehog sets introduce kids to fast-action fun and imaginative play with different characters and story possibilities
+- Cool functions – This Super Sonic LEGO set features a speed sphere launcher and speed sphere for Super Shadow, plus stud shooters on the Biolizard
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSB4VJ4{{</world>}}
