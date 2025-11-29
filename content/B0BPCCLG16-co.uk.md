@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The LEGO Builder app guides kids on an intuitive build; they can save sets, track progress and zoom in and rotate models in 3D while they build
-- The NINJAGO Dragons Rising TV series fans join Jay and Lloyd to take on the Imperium Claw General in this ninja building toy for 6+ year olds
 - The NINJAGO playset features a Photac beast mythical creature toy which can move its head, tail and legs, and has a saddle for a minifigure
+- The NINJAGO Dragons Rising TV series fans join Jay and Lloyd to take on the Imperium Claw General in this ninja building toy for 6+ year olds
 - Includes LEGO NINJAGO minifigures of Lloyd and Jay, armed with 2 katanas each, and an Imperium Claw General minifigure with a large sword
 - This monster building toy set comes with everything imaginative kids aged 6+ need to play out make-believe good vs. evil battles in NINJAGO City
+- The LEGO Builder app guides kids on an intuitive build; they can save sets, track progress and zoom in and rotate models in 3D while they build
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BPCCLG16{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Viele Spielmöglichkeiten: Dieses Batman Spielzeugmotorrad zum Sammeln und Ausstellen bietet jungen Superhelden großen Bau- und Spielspaß
-- Sammlerstück zu The Dark Knight: LEGO DC Batman: Batman Baufigur mit Batpod bietet Jungen und Mädchen ab 12 Jahren jede Menge Actionspaß mit der Batman-Actionfigur und dem Spielzeugmotorrad
 - Film-Spielzeug und Geschenk für Batman Fans: Dieses Actionspielzeug zu The Dark Knight ist ein tolles Geschenk für Kinder, die Action mit Superhelden und Fahrzeugen aus dem Film lieben
 - Bewegliche Superheldenfigur: Dank der beweglichen Gelenke an Schultern, Armen, Hüften und Beinen können Kinder ihren LEGO Batman – auch auf dem Motorrad mit den Katapulten – in coole Actionposen bringen
+- Sammlerstück zu The Dark Knight: LEGO DC Batman: Batman Baufigur mit Batpod bietet Jungen und Mädchen ab 12 Jahren jede Menge Actionspaß mit der Batman-Actionfigur und dem Spielzeugmotorrad
+- Viele Spielmöglichkeiten: Dieses Batman Spielzeugmotorrad zum Sammeln und Ausstellen bietet jungen Superhelden großen Bau- und Spielspaß
 - Filmgetreues Abenteuerspielzeug: Die Batman-Figur aus The Dark Knight trägt eine Maske und einen knöchellangen Umhang und kann auf den Batpod gesetzt werden
 
 [🛒 Buy it now!!]({{< param buyurl >}})

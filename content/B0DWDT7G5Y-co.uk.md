@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- 360-degree display – A removable, rotatable stand is provided with this buildable Marvel toy so the authentically detailed Quinjet can be admired from all angles
 - Gift idea for Marvel fans – This Avengers building toy makes a great Marvel gift for 12+ year old boys, girls and teenagers who enjoy Super Heroes, Marvel collectables and creative LEGO building sets
+- LEGO Marvel collectible – Avengers: Age of Ultron Quinjet is a realistically crafted building toy for 12+ year old boys and girls that lets kids recreate the iconic aircraft
 - Buildable LEGO ǀ Marvel sets – The extensive range of LEGO ǀ Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
 - Avengers Quinjet – The buildable plane toy has an opening cockpit, 2 stud shooters at the front, storage for weapon accessories and an opening rear door so kids can drive the motorcycle in and out
-- LEGO Marvel collectible – Avengers: Age of Ultron Quinjet is a realistically crafted building toy for 12+ year old boys and girls that lets kids recreate the iconic aircraft
-- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 - Super Hero minifigures – The buildable set includes 5 LEGO Marvel minifigures: Black Widow with a motorbike toy, Iron Man, Quicksilver, Ultimate Ultron, and Hawkeye with his bow and arrow
-- 360-degree display – A removable, rotatable stand is provided with this buildable Marvel toy so the authentically detailed Quinjet can be admired from all angles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDT7G5Y{{</world>}}

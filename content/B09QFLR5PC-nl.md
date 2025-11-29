@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - LEGO constructie speelgoed voor kinderen van 4+ jaar oud is speciaal ontworpen om kinderen voor te bereiden op belangrijke vaardigheden die ze nodig hebben op school, zoals concentratie, communicatie, verbeeldingsvermogen en jezelf uiten
+- Bij de accessoires is een zadel inbegrepen, zodat Anna kan paardrijden, en een borstel zodat kinderen voor het paard kunnen zorgen; daarnaast bevat de set een wortel, een taart, chocoladereep en een schatkist vol diamanten
 - Deze LEGO 4+ set bevat startstenen en eenvoudige instructies met afbeeldingen, zodat fans van Disney Frozen in no time hun eigen speelgoedkasteel kunnen bouwen
 - Verras jongens en meisjes met dit geweldige LEGO | Disney Frozen Arendelle constructie speelgoed met een kasteel, een minipoppetje van prinses Anna, en LEGO figuren van Olaf de sneeuwman en Kjekk het paard
-- Bij de accessoires is een zadel inbegrepen, zodat Anna kan paardrijden, en een borstel zodat kinderen voor het paard kunnen zorgen; daarnaast bevat de set een wortel, een taart, chocoladereep en een schatkist vol diamanten
 - Het speelgoedkasteel bestaat uit 2 verdiepingen, elegante kasteeldeuren, een centrale hal met een draaiende dansvloer en talloze authentieke accessoires om allerlei verhalen en leuke rollenspellen mee te bedenken
 
 [🛒 Buy it now!!]({{< param buyurl >}})

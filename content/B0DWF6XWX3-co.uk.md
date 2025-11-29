@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Disney Pixar gift idea – This model kit makes a fun treat for yourself or a nostalgic gift for men and women who are passionate about Disney Pixar movies
-- Buildable movie memorabilia – Capture the playful spirit of Luxo Jr. with this posable LEGO brick model of the character first seen in the 1986 Disney Pixar animated short film of the same name
-- Buildable Disney Pixar Ball – The Pixar Ball contains hidden Easter eggs referencing famous Disney Pixar films: Up, The Incredibles, Ratatouille, Toy Story, Finding Nemo and Monsters, Inc.
-- Collectible building set for adults – The Luxo Jr. model is fully articulated to recreate the character’s bouncing, hopping and rotating movements
 - The LEGO fans’ choice – This set is from the LEGO Ideas range, where each set is created by a fan designer, voted for by LEGO fans and produced by the LEGO Group
 - Fun home or office desk decor – Remove 2 rounded plates from either side of the Pixar Ball to create a base for Luxo Jr. to stand on, as if it is deflating the Pixar Ball
 - Immerse yourself – Find building instructions on the LEGO Builder app and in the included booklet, which features interviews with the construction set’s fan designer and LEGO designers
+- Disney Pixar gift idea – This model kit makes a fun treat for yourself or a nostalgic gift for men and women who are passionate about Disney Pixar movies
+- Collectible building set for adults – The Luxo Jr. model is fully articulated to recreate the character’s bouncing, hopping and rotating movements
+- Buildable Disney Pixar Ball – The Pixar Ball contains hidden Easter eggs referencing famous Disney Pixar films: Up, The Incredibles, Ratatouille, Toy Story, Finding Nemo and Monsters, Inc.
+- Buildable movie memorabilia – Capture the playful spirit of Luxo Jr. with this posable LEGO brick model of the character first seen in the 1986 Disney Pixar animated short film of the same name
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF6XWX3{{</world>}}

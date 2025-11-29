@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lord of the Rings gifts – This LEGO movie memorabilia building set makes a great gift for men and women fans of The Lord of the Rings film trilogy
-- Whats in the box – This Lord of the Rings LEGO set has 10 minifigures, including Sauron, Mouth of Sauron, Orc, Frodo, Sam and Gollum and Gothmog
-- Includes printed and digital building instructions – The LEGO Builder app offers a digital version of the instructions for this LEGO Icons set for adults
 - Armour accessories ⁠– This Lord of the Rings model features helmets for Sauron and Mouth of Sauron, The One Ring, light of Eärendil and Saurons mace
-- LEGO Icons The Lord of the Rings: Barad-dûr model ⁠– Build a detailed fortress replica, with the towering Eye of Sauron high above Middle-earth
-- LEGO building sets for adults – This LEGO Icons project is part of the range of LEGO creative building sets designed specifically for adults
+- Lord of the Rings gifts – This LEGO movie memorabilia building set makes a great gift for men and women fans of The Lord of the Rings film trilogy
 - Cool features ⁠– Automated black gate, illuminating Eye of Sauron, and modular design with detailed rooms like a forge, throne room, and prison
+- Includes printed and digital building instructions – The LEGO Builder app offers a digital version of the instructions for this LEGO Icons set for adults
+- LEGO building sets for adults – This LEGO Icons project is part of the range of LEGO creative building sets designed specifically for adults
+- Whats in the box – This Lord of the Rings LEGO set has 10 minifigures, including Sauron, Mouth of Sauron, Orc, Frodo, Sam and Gollum and Gothmog
+- LEGO Icons The Lord of the Rings: Barad-dûr model ⁠– Build a detailed fortress replica, with the towering Eye of Sauron high above Middle-earth
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D5W8J5YV{{</world>}}

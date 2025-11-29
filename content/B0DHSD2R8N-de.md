@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Zubehör für Rollenspiele: Zum Zuckerwattestand gehören auch Elemente, um die köstlichen Naschereien herzustellen und zu garnieren, sowie eine Kasse und Spielzeuggeld, damit Kinder viele kreative Geschichten darstellen können
+- Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - Bauset für Rollenspiele: Der LEGO Friends Zuckerwattestand ist ein Spielzeug für Mädchen, Jungen und Baumeister ab 6 Jahren; Das Set beinhaltet 2 Spielzeugfiguren, einen Stand auf Rädern und einen Motorroller mit Ständer
 - Geschenkidee für Mädchen und Jungen ab 6 Jahren: Dieses LEGO Friends Set und Bauspielzeug mit Mini Puppe ist eine tolle Belohnung und Geschnkidee für junge Baumeister, die gern kreativ spielen und die LEGO Friends Charaktere mögen
-- Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - Kreatives Spielzeug für Rollenspiele im Laden: Das Spielset lässt Kinder darstellen, wie sich die LEGO Friends Charaktere Liann und Jamila anfreunden, wenn sie zusammen Zuckerwatte kaufen und naschen
-- Zubehör für Rollenspiele: Zum Zuckerwattestand gehören auch Elemente, um die köstlichen Naschereien herzustellen und zu garnieren, sowie eine Kasse und Spielzeuggeld, damit Kinder viele kreative Geschichten darstellen können
 - Bauspielzeug mit 2 LEGO Friends Minifiguren: Das Set beinhaltet 2 Mini Puppen von Liann und Jamila sowie ein baubares Zuckerwattemaskottchen für zahlreiche fantasievolle Rollenspiele und Geschichten
 
 [🛒 Buy it!!]({{< param buyurl >}})

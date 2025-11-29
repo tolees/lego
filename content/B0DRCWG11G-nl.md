@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Technische avonturen – open de motorkap van het Volvo speelgoed om de 3 draaiende tandwielen te zien
-- Een cadeau voor jonge bouwers – deze set is een geweldig cadeau voor jongens en meisjes die dol zijn op rollenspellen en bouwen
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets (apart verkrijgbaar) laten jonge LEGO bouwers kennismaken met de wereld van techniek
-- Denkbeeldige laadaansluiting – het bouwvoertuig in dit bouwpakket voor kinderen is niet gemotoriseerd, waardoor jongens en meisjes hun fantasie kunnen gebruiken terwijl ze het laadstation omhoog brengen, laten zakken en doen alsof ze de lader opladen
 - LEGO voertuig speelgoed voor kinderen vanaf 9 jaar – geef kinderen een leuke bouwuitdaging waarbij ze alle onderdelen van deze LEGO Technic Volvo L120 Electric wiellader in elkaar zetten
-- Een speelgoed voertuig met leuke functies – kinderen kunnen hun eigen bouwplaatsavonturen bedenken met de shovel die ze kunnen laten heffen, zakken en kantelen door middel van de knop boven op de LEGO Technic lader
+- Technische avonturen – open de motorkap van het Volvo speelgoed om de 3 draaiende tandwielen te zien
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets (apart verkrijgbaar) laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Een cadeau voor jonge bouwers – deze set is een geweldig cadeau voor jongens en meisjes die dol zijn op rollenspellen en bouwen
 - Gemakkelijke navigatie – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur waarbij ze sets kunnen opslaan, hun voortgang kunnen bijhouden, kunnen inzoomen en hun modellen in 3D kunnen draaien tijdens het bouwen
+- Een speelgoed voertuig met leuke functies – kinderen kunnen hun eigen bouwplaatsavonturen bedenken met de shovel die ze kunnen laten heffen, zakken en kantelen door middel van de knop boven op de LEGO Technic lader
+- Denkbeeldige laadaansluiting – het bouwvoertuig in dit bouwpakket voor kinderen is niet gemotoriseerd, waardoor jongens en meisjes hun fantasie kunnen gebruiken terwijl ze het laadstation omhoog brengen, laten zakken en doen alsof ze de lader opladen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DRCWG11G{{</world>}}

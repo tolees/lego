@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Creatief LEGO voertuig – of ze nu alleen spelen of met vrienden: kinderen kunnen nieuwe wegen aanleggen met deze stoomwals, ontworpen voor kleine LEGO bouwers met een grote fantasie
-- Een leuk cadeau voor elke gelegenheid – verras je kleine bouwer met deze stoomwals voor jongens en meisjes vanaf 5 jaar die van fantasiespel houden
 - Inclusief interactieve gids – ontdek de intuïtieve LEGO Builder app waarmee kinderen kunnen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
-- Speelgoed stoomwals voor kinderen vanaf 5 jaar – LEGO City Stoomwals met enorme, dikke banden en een grote rollende trommel voor fans van machtige bouwvoertuigen en speelgoed voertuigen
-- Verzamelen en combineren – geef je kleine bouwer nog meer plezier en avonturen door deze set te combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een LEGO stoomwals te bouwen met een bestuurderscabine en een zwaailicht, plus een minifiguur van een bouwvakker met een schep en een veiligheidshelm
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Speelgoed stoomwals voor kinderen vanaf 5 jaar – LEGO City Stoomwals met enorme, dikke banden en een grote rollende trommel voor fans van machtige bouwvoertuigen en speelgoed voertuigen
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een LEGO stoomwals te bouwen met een bestuurderscabine en een zwaailicht, plus een minifiguur van een bouwvakker met een schep en een veiligheidshelm
+- Een leuk cadeau voor elke gelegenheid – verras je kleine bouwer met deze stoomwals voor jongens en meisjes vanaf 5 jaar die van fantasiespel houden
+- Verzamelen en combineren – geef je kleine bouwer nog meer plezier en avonturen door deze set te combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
+- Creatief LEGO voertuig – of ze nu alleen spelen of met vrienden: kinderen kunnen nieuwe wegen aanleggen met deze stoomwals, ontworpen voor kleine LEGO bouwers met een grote fantasie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW2G29P{{</world>}}

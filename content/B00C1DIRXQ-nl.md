@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zeldzaam collectors item bouwpakket van een NASA raket – lanceer een creatieve hobby met het LEGO Icons NASA Artemis ruimtelanceersysteem modelbouwproject voor volwassen ruimtefans
+- Creatieve hobby voor volwassenen – dit LEGO Icons project maakt deel uit van een reeks geavanceerde bouwpakketten die speciaal zijn ontworpen voor volwassenen
 - Ruimte cadeau voor hem of haar – verwen jezelf of geef deze LEGO Icons NASA Artemis ruimtelanceersysteem set cadeau voor de feestdagen of een andere gelegenheid aan je favoriete ruimtefan
+- Wat zit er in de doos? – dit creatieve en zeldzame bouwpakket voor volwassenen bevat alles wat je nodig hebt om een raket met meerdere trappen te maken met 2 boosters voor vaste brandstof, een Orion-capsule en een gedetailleerde mobiele lanceertoren
 - Kantoor decoratie of woonaccessoire – geniet van een boeiende bouwervaring voordat je je creatie neerzet op een plek waar iedereen hem kan bewonderen
 - Kenmerken en functies – dit LEGO raket model met NASA thema wordt geleverd met intrekbare umbilical-armen aan de lanceertoren, raketondersteuning en een bemanningsbrug, afneembare boosters voor vaste brandstof en afzonderlijke rakettrappen
-- Creatieve hobby voor volwassenen – dit LEGO Icons project maakt deel uit van een reeks geavanceerde bouwpakketten die speciaal zijn ontworpen voor volwassenen
-- Wat zit er in de doos? – dit creatieve en zeldzame bouwpakket voor volwassenen bevat alles wat je nodig hebt om een raket met meerdere trappen te maken met 2 boosters voor vaste brandstof, een Orion-capsule en een gedetailleerde mobiele lanceertoren
 - Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO voor volwassenen horen
+- Zeldzaam collectors item bouwpakket van een NASA raket – lanceer een creatieve hobby met het LEGO Icons NASA Artemis ruimtelanceersysteem modelbouwproject voor volwassen ruimtefans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00C1DIRXQ{{</world>}}

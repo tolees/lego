@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Perfect voor het spelen van spannende races, de auto speelgoed set bevat ook 2 coureur minifiguren om achter het stuur van iedere wagen te plaatsen
-- Deze dubbele LEGO Speed Champions auto set bevat 2 bouwbare replica speelgoed modelautos; McLaren Solus GT en McLaren F1 LM om te bouwen en tentoon te stellen
-- De wereld van het racen wacht op liefhebbers van raceautos met andere LEGO Speed Champions sets zoals de Ferrari 812 Competizione (76914) en Porsche 963 (76916)
-- Kinderen kunnen met deze voertuig set de klassieke F1 LM en moderne Solus GT iconische replicas bouwen en ze daarna met trots in hun kamer plaatsen
-- Het Solus GT-model bevat ook authentieke details van de echte versie: een wit, zwart en oranje kleurenschema, opvallende wielbogen en een cockpit
 - De McLaren F1 LM modelauto heeft de kenmerkende papaja-oranje kleur met een bestuurdersstoel in het midden en koelbuizen aan beide zijden
+- De wereld van het racen wacht op liefhebbers van raceautos met andere LEGO Speed Champions sets zoals de Ferrari 812 Competizione (76914) en Porsche 963 (76916)
+- Het Solus GT-model bevat ook authentieke details van de echte versie: een wit, zwart en oranje kleurenschema, opvallende wielbogen en een cockpit
+- Deze dubbele LEGO Speed Champions auto set bevat 2 bouwbare replica speelgoed modelautos; McLaren Solus GT en McLaren F1 LM om te bouwen en tentoon te stellen
+- Kinderen kunnen met deze voertuig set de klassieke F1 LM en moderne Solus GT iconische replicas bouwen en ze daarna met trots in hun kamer plaatsen
+- Perfect voor het spelen van spannende races, de auto speelgoed set bevat ook 2 coureur minifiguren om achter het stuur van iedere wagen te plaatsen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB13N{{</world>}}

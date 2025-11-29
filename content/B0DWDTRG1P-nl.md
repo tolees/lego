@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ontdek alle leuke functies – inspireer kinderen om met hun LEGO auto te spelen door hem vooruit en achteruit te laten rijden en bekijk de koplampen met details die licht geven in het donker
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
-- Een cadeau voor jongens, meisjes en autoliefhebbers – deze set is een leuke cadeautip voor kinderen die van automodellen en op afstand bestuurbaar speelgoed houden
-- Auto speelgoed voor kinderen – geef jongens en meisjes vanaf 10 jaar een spannend bouwproject waarbij ze de details van deze op afstand bestuurbare LEGO Technic Lamborghini Revuelto supersportwagen in elkaar zetten
-- Inclusief een oplaadbare batterij – deze LEGO sportwagen set wordt geleverd met een oplaadbare speelgoedbatterij (gebruikt een USB-C kabel, niet meegeleverd) om de LEGO auto van stroom te voorzien
 - Op afstand bestuurbare auto – met de CONTROL+ app kunnen kinderen de speelgoed auto besturen, de verlichting bedienen en live feedback bekijken terwijl ze hun rijvaardigheid perfectioneren
+- Auto speelgoed voor kinderen – geef jongens en meisjes vanaf 10 jaar een spannend bouwproject waarbij ze de details van deze op afstand bestuurbare LEGO Technic Lamborghini Revuelto supersportwagen in elkaar zetten
+- Een cadeau voor jongens, meisjes en autoliefhebbers – deze set is een leuke cadeautip voor kinderen die van automodellen en op afstand bestuurbaar speelgoed houden
+- Ontdek alle leuke functies – inspireer kinderen om met hun LEGO auto te spelen door hem vooruit en achteruit te laten rijden en bekijk de koplampen met details die licht geven in het donker
+- Inclusief een oplaadbare batterij – deze LEGO sportwagen set wordt geleverd met een oplaadbare speelgoedbatterij (gebruikt een USB-C kabel, niet meegeleverd) om de LEGO auto van stroom te voorzien
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
 - Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur. Ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
 
 [🛒 Buy it!!]({{< param buyurl >}})

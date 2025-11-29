@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO boot model met displaystandaard – na urenlang verhalen vertellen via rollenspellen kunnen ninjafans de standaard van het actiespeelgoed gebruiken om dit gedetailleerde speelgoed schip op een plank of nachtkastje neer te zetten
-- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
-- 6 NINJAGO minifiguren – de speelset is inclusief NINJAGO personages Zane, Cole, Wyldfyre, Nya, Rogue en Zarkt met wapenaccessoires en een doorschijnend onthullingszwaard waarmee je een geheime kaart op de tafel van de kapitein kunt laten verschijnen
 - Interactief bouwpakket voor kinderen met speelgoed boot – NINJAGO fans draaien aan een tandwiel om de zeilen te bewegen, verwijderen daken en vloeren om toegang te krijgen tot het interieur en een sushibar en klappen een tafel op om een geheime computer te ontdekken
-- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
+- 6 NINJAGO minifiguren – de speelset is inclusief NINJAGO personages Zane, Cole, Wyldfyre, Nya, Rogue en Zarkt met wapenaccessoires en een doorschijnend onthullingszwaard waarmee je een geheime kaart op de tafel van de kapitein kunt laten verschijnen
 - Cadeau voor NINJAGO fans – deze set biedt een leuke bouw- en speelervaring en is een geweldig cadeau voor jongens, meisjes en NINJAGO fans die graag verhalen verzinnen
+- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
+- LEGO boot model met displaystandaard – na urenlang verhalen vertellen via rollenspellen kunnen ninjafans de standaard van het actiespeelgoed gebruiken om dit gedetailleerde speelgoed schip op een plank of nachtkastje neer te zetten
+- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
 - Groot NINJAGO model om mee te spelen en neer te zetten – ninjafans van 14 jaar en ouder kunnen de actie uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen met het De Tempel Bounty schip speelgoed voor kinderen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

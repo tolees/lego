@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Completa los desafíos y gana recompensas
-- Combate a los enemigos utilizando habilidades y superpoderes como volar, trepar muros y la invisibilidad
-- Utiliza rápidos movimientos de combate y activa supermovimientos como la palmada de trueno de Hulk y la armadura de Iron Man
-- Supera 45 misiones cargadas de acción
 - Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
+- Supera 45 misiones cargadas de acción
+- Utiliza rápidos movimientos de combate y activa supermovimientos como la palmada de trueno de Hulk y la armadura de Iron Man
+- Combate a los enemigos utilizando habilidades y superpoderes como volar, trepar muros y la invisibilidad
+- Completa los desafíos y gana recompensas
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00FKQ4OFG{{</world>}}

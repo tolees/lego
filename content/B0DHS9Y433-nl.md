@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Mercedes-AMG PETRONAS F1 Team auto speelgoed voor kinderen – LEGO Speed Champions Mercedes-AMG PETRONAS F1 Team racewagen bouwakket voor kinderen vanaf 10 jaar om te bouwen, neer te zetten en te racen
-- 1 minifiguur van een F1 coureur – deze LEGO auto speelset is inclusief een minifiguur van een coureur in een Mercedes-AMG PETRONAS F1 Team outfit en een helm die kinderen in de cockpit kunnen plaatsen voor leuke F1 races
 - F1 plezier voor het hele gezin – race samen met het hele gezin om de geblokte vlag met andere bouwsets (apart verkrijgbaar) uit de LEGO F1 serie
+- F1 racewagen schaalmodel – nadat kinderen hebben genoten van het naspelen van raceverhalen met het Mercedes-AMG PETRONAS F1 Team speelgoed kunnen ze hem op een plank of nachtkastje neerzetten
+- 1 minifiguur van een F1 coureur – deze LEGO auto speelset is inclusief een minifiguur van een coureur in een Mercedes-AMG PETRONAS F1 Team outfit en een helm die kinderen in de cockpit kunnen plaatsen voor leuke F1 races
+- Mercedes-AMG PETRONAS F1 Team auto speelgoed voor kinderen – LEGO Speed Champions Mercedes-AMG PETRONAS F1 Team racewagen bouwakket voor kinderen vanaf 10 jaar om te bouwen, neer te zetten en te racen
+- Speel en zet iconische automodellen neer – met LEGO Speed Champions sets kunnen kinderen en autoliefhebbers van stenen gebouwde versies maken van een aantal van de meest beroemde voertuigen ter wereld
 - F1 cadeau voor jongens, meisjes en fans – deze F1 racewagen biedt een leuke bouw- en speelervaring en is een leuk LEGO cadeau voor kinderen vanaf 10 jaar en volwassen verzamelaars van automodellen
 - Mercedes auto boordevol authentieke details van het Mercedes-AMG PETRONAS F1 Team – de F1 racewagen heeft ontwerpdetails van de echte versie uit 2024, waaronder sponsorstickers en bredere achterbanden met Pirelli erop gedrukt
-- F1 racewagen schaalmodel – nadat kinderen hebben genoten van het naspelen van raceverhalen met het Mercedes-AMG PETRONAS F1 Team speelgoed kunnen ze hem op een plank of nachtkastje neerzetten
-- Speel en zet iconische automodellen neer – met LEGO Speed Champions sets kunnen kinderen en autoliefhebbers van stenen gebouwde versies maken van een aantal van de meest beroemde voertuigen ter wereld
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHS9Y433{{</world>}}

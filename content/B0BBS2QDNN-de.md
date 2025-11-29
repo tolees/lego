@@ -31,10 +31,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Das 3in1-Sortiment von LEGO Creator bietet jede Menge Spaß. Verpasse nicht die Sets Spaceshuttle (31134), Strandcampingbus (31138) und Gemütliches Haus (31139)
 - Entdecke intuitive Bauanleitungen in der LEGO Builder App, in der Kinder Modelle in 3D zoomen und drehen, ihren Fortschritt verfolgen und Sets speichern
 - Dieses LEGO Creator 3in1 Tier-Spielzeug-Set enthält 3 Tiere, die Kinder bauen können: einen Papagei, einen verspielten Frosch und einen Spielzeug-Fisch.
-- Mit Details wie dem Papageienzweig, der mit Blumen bedeckt ist, sieht dieses Bauset im Kinderzimmer toll aus, wenn der Spieltag vorbei ist.
-- Der Spielzeugpapagei ist farbenfroh und hat Gelenke, mit denen er seinen Körper auf dem Ast drehen und seine Flügel und seinen Schwanz bewegen kann.
 - Der Papagei kann in einen Spielzeugfrosch mit beweglichen Beinen oder in einen Fisch mit beweglichen Flossen für kreative Spielabenteuer verwandelt werden.
+- Der Spielzeugpapagei ist farbenfroh und hat Gelenke, mit denen er seinen Körper auf dem Ast drehen und seine Flügel und seinen Schwanz bewegen kann.
 - Kinder können ihr Bauabenteuer mit 3 LEGO Creator Tierspielzeugen wählen oder ihre Fantasie beflügeln und mit den Steinen ein neues Tier erschaffen
+- Mit Details wie dem Papageienzweig, der mit Blumen bedeckt ist, sieht dieses Bauset im Kinderzimmer toll aus, wenn der Spieltag vorbei ist.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBS2QDNN{{</world>}}

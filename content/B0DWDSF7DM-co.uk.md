@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Fun skills boost – With 9 LEGO ǀ Disney characters, a large separatable boat and lots of extra details, this LEGO ǀ Disney building set inspires creative play and builds vital life skills through fun
 - Moana toy building set measurements – This 572-piece buildable playset includes the Kakamora Barge, which measures over 22 cm (9 in.) high, 29 cm (11.5 in.) long and 14 cm (5.5 in.) wide
-- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
-- Detailed construction set – The Kakamora Barge features a coconut catapult, hidden treasure chest, playable drum, a spinning wheel and more
+- Disney’s Moana 2 toy building set for kids – Thrill girls, boys and fans ages 7 years and over who love adventure and fantasy princess play with this detailed Kakamora Barge buildable playset
+- Fun skills boost – With 9 LEGO ǀ Disney characters, a large separatable boat and lots of extra details, this LEGO ǀ Disney building set inspires creative play and builds vital life skills through fun
 - Buildable playset functions – Separate the barge into 3 boats, send Disney’s Moana or some Kakamora down the zipline between boats, or let them take a fast spin in the barrel or on the wheel
 - Moana boat building set – Includes a barge boat with 3 sections and a zipline, a smaller, 2-hulled canoe with storage space, Heihei the chicken, Moana, Maui, Kotu and 5 more LEGO ǀ Disney characters
 - Disney gift-giving idea for kids aged 7-year-olds and over – With a detailed barge boat, plus Disney’s Moana, Heihei and 7 other characters, this is a fun LEGO gift-giving idea for a special occasion
-- Disney’s Moana 2 toy building set for kids – Thrill girls, boys and fans ages 7 years and over who love adventure and fantasy princess play with this detailed Kakamora Barge buildable playset
+- Detailed construction set – The Kakamora Barge features a coconut catapult, hidden treasure chest, playable drum, a spinning wheel and more
+- A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDSF7DM{{</world>}}

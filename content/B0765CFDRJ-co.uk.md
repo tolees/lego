@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Includes a construction worker LEGO DUPLO figure with spade and suitcase accessory elements.
-- Show your child how easy it is to place the yellow action brick on the track to make any compatible LEGO DUPLO train, such as the 10874 Steam Train or 10875 Cargo Train, sound the horn as it passes over.
 - Features 8 straight track pieces, 4 sloped pieces to make the bridge and a yellow (horn sound) action brick.
+- Includes a construction worker LEGO DUPLO figure with spade and suitcase accessory elements.
 - The tracks included in this set are compatible with your child’s existing LEGO DUPLO train collection.
+- Show your child how easy it is to place the yellow action brick on the track to make any compatible LEGO DUPLO train, such as the 10874 Steam Train or 10875 Cargo Train, sound the horn as it passes over.
 - Use this set with the 10874 Steam Train or 10875 Cargo Train to extend the possibilities of your LEGO DUPLO train collection.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Star Wars Grogu in seiner Repulsorwiege: Erschaffe ein fantasievolles Ausstellungsstück zu Star Wars: The Mandalorian mit der baubaren Figur Grogu im Mittelpunkt des Bauspielzeugs
-- Perfektes Geschenk für Jungen, Mädchen und Fans: Dieses 1.048-teilige Bauset ist ein tolles Geschenk für Kinder ab 10 Jahren sowie für alle Sammler und Fans von Star Wars: The Mandalorian
 - LEGO Star Wars Sets für Fans jeden Alters: Die separat erhältlichen LEGO Star Wars Sets zum Sammeln und Bauen lassen Kinder und erwachsene Fans klassische Filmszenen nachspielen, neue Geschichten darstellen und die gebauten Modelle ausstellen
 - Spielset mit authentischem Zubehör: Dieses Fantasy Set beinhaltet einen Sorgan-Frosch aus LEGO Steinen, einen Schaltknauf und einen Keks, die man Grogu in die Hände stecken kann für noch mehr Spielspaß
+- Perfektes Geschenk für Jungen, Mädchen und Fans: Dieses 1.048-teilige Bauset ist ein tolles Geschenk für Kinder ab 10 Jahren sowie für alle Sammler und Fans von Star Wars: The Mandalorian
 - Erlebe spannende Abenteuer mit Grogu: Zu dem baubaren Hauptmodell gehört auch eine Infotafel auf einem Ständer mit Platz für die LEGO Figur Grogu im Minifigur-Maßstab in einer baubaren Repulsorwiege
+- LEGO Star Wars Grogu in seiner Repulsorwiege: Erschaffe ein fantasievolles Ausstellungsstück zu Star Wars: The Mandalorian mit der baubaren Figur Grogu im Mittelpunkt des Bauspielzeugs
 - Intuitive Anleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives Bauabenteuer mit; Coole Funktionen lassen Kinder beim Bauen digitale 3D-Ansichten der Modelle vergrößern und drehen
 - Modell zum Bauen und Ausstellen mit vielen verspielten Details: Man kann Grogus Arme, Ohren und Kopf mit Einstellrädern in die gewünschte Pose bringen; Die Minifigur kann separat oder in der Repulsorwiege ausgestellt werden
 

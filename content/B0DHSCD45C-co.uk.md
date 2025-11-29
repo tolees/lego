@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video games, which encourage kids to use storytelling skills even when on a screen break
-- Customisable play – This creative building toy for kids includes 4 LEGO baseplates that can be reassembled so kids can give the scene a fresh look
 - Gift idea – This LEGO building toy makes a fun Animal Crossing-themed birthday gift for 6 plus year old boys, girls and fans of the video game series
+- Customisable play – This creative building toy for kids includes 4 LEGO baseplates that can be reassembled so kids can give the scene a fresh look
+- Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video games, which encourage kids to use storytelling skills even when on a screen break
+- Role-play toy – Includes a minifigure of Animal Crossing character Celeste the owl, a telescope toy, astronomy book, campfire and lots of accessories
 - Cosmic fun – Kids role-play learning how to use the telescope with Celeste, before gathering star fragments and decorating the crescent-moon chair
 - Animal Crossing toy – Stargazing with Celeste is a creative anytime toy for 6 plus year old girls, boys and as fans of Animal Crossing video games
-- Role-play toy – Includes a minifigure of Animal Crossing character Celeste the owl, a telescope toy, astronomy book, campfire and lots of accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCD45C{{</world>}}

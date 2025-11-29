@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Water sports accessories – Comes with fishing rods, oars, helmets, life jackets, trophies, flippers, table tennis table, a kayaking badge and more
-- 3 LEGO Friends characters – This educational toy comes with Autumn, Liann and Zac mini-dolls, a bear figure, plus 2 kayaks to launch from the dock
-- Imaginative play – Kids can tell stories as they try the activities, from kayaking, fishing and raft building to painting and skipping stones
 - A LEGO Friends set for kids – This LEGO building toy for 7+-year-old girls and boys comes with 3 mini-dolls, a bear figure and lots of accessories
+- Imaginative play – Kids can tell stories as they try the activities, from kayaking, fishing and raft building to painting and skipping stones
+- 3 LEGO Friends characters – This educational toy comes with Autumn, Liann and Zac mini-dolls, a bear figure, plus 2 kayaks to launch from the dock
 - Explore new passions – Check out other LEGO building toys (sold separately) in the Friends universe, where kids discover diverse characters and act out real-life adventures
 - A gift idea – This camping toy set makes a great gift 7-plus-year-old girls, boys and kids who love role play and outdoor adventure activities
 

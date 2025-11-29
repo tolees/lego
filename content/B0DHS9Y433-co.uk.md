@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
-- Authentic details – This LEGO Mercedes car toy replicates the 2024 F1 model with sponsor stickers and wider rear tyres imprinted with “Pirelli”
-- Play and display iconic car models – LEGO Speed Champions sets let kids and car lovers build brick versions of some of the world’s most famous vehicles
 - F1 display model – After creating racing stories with the LEGO Mercedes-AMG PETRONAS F1 race car toy, kids can display it on a shelf or bedside table
 - F1 fun for all the family – Race for the checkered flag alongside the whole family using other LEGO F1 toy car-building sets (sold separately)
-- Mercedes building toys – LEGO Speed Champions Mercedes-AMG PETRONAS F1 Team Race Car toy for 10+ year old boys and girls to build, display and race
 - 1 driver minifigure – This LEGO car playset includes a driver minifigure in a Mercedes Team outfit and helmet, ready to be placed in the cockpit
+- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
+- Play and display iconic car models – LEGO Speed Champions sets let kids and car lovers build brick versions of some of the world’s most famous vehicles
+- Authentic details – This LEGO Mercedes car toy replicates the 2024 F1 model with sponsor stickers and wider rear tyres imprinted with “Pirelli”
+- Mercedes building toys – LEGO Speed Champions Mercedes-AMG PETRONAS F1 Team Race Car toy for 10+ year old boys and girls to build, display and race
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHS9Y433{{</world>}}

@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Mine interchangeable (standard mine)
-- Pen with LEGO 1 x 4 building board for fixing
 - Fine liner thickness approx. 1 mm
+- Pen with LEGO 1 x 4 building board for fixing
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B015FM2GWW{{</world>}}

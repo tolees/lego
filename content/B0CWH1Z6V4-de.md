@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Set zum Sammeln und Spielen: Das Spielset beinhaltet ein Boot mit eingebautem Katapult, die Figuren Tails und Sonic mit neuen Gesichtern, die Charaktere Tocky und Jawz sowie eine Insel mit Bogen und 3 Ringen
-- Intuitive Anleitung: Die LEGO Builder App bietet ein intuitives Bauabenteuer Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
 - LEGO Sonic Spielzeuge: Alle LEGO Sonic the Hedgehog Spielsets lassen Kinder mit verschiedenen Charakteren spielen und unzählige ebenso fantasievolle wie actionreiche Geschichten darstellen
-- Cooles Geschenk für Gamer: Dieses interaktive Spielzeugboot aus LEGO Steinen lädt zu Abenteuern auf hoher See mit Sonic und Tails ein und ist ein tolles Geschenk für Kinder und Fans des Videospiels, das sie auch gern ihren Freunden zeigen werden
+- Intuitive Anleitung: Die LEGO Builder App bietet ein intuitives Bauabenteuer Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
 - Spielzeug mit Sonic für Kinder: Tails’ Abenteuerboot lässt Kinder viele Geschichten mit ihren liebsten Sonic the Hedgehog Charakteren darstellen und ist ein tolles Geschenk für Jungen, Mädchen und Fans ab 8 Jahren
+- Cooles Geschenk für Gamer: Dieses interaktive Spielzeugboot aus LEGO Steinen lädt zu Abenteuern auf hoher See mit Sonic und Tails ein und ist ein tolles Geschenk für Kinder und Fans des Videospiels, das sie auch gern ihren Freunden zeigen werden
 - Videospiel-Spielset mit coolen Funktionen: Dieses faszinierendes LEGO Bauspielzeug beinhaltet ein einfach zu bedienendes Geschwindigkeitskugel-Katapult am Bug des Boots mit Hebel zum Abschießen der Kugel Es ist auch genug Platz zum Laden der Kugel
+- Set zum Sammeln und Spielen: Das Spielset beinhaltet ein Boot mit eingebautem Katapult, die Figuren Tails und Sonic mit neuen Gesichtern, die Charaktere Tocky und Jawz sowie eine Insel mit Bogen und 3 Ringen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH1Z6V4{{</world>}}

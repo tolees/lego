@@ -29,13 +29,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Features a front wheel mounted on one side, a removable engine cover with a brick-built engine beneath, plus working steering
-- Number of Pieces: 1106
 - Finishing touches include the Vespa logo, a classic 1960s Italian licence plate, a spare wheel, and a functioning kickstand
-- To celebrate Vespas 75th anniversary, LEGO designers worked with the Piaggio team to create a model to appeal to lovers of Italian culture
 - This LEGO model building kit for adults to build also includes a helmet and an accessories basket with a flower bouquet to complete
+- Number of Pieces: 1106
+- To celebrate Vespas 75th anniversary, LEGO designers worked with the Piaggio team to create a model to appeal to lovers of Italian culture
+- Presented in pastel blue, one of the Vespa’s original production colours and an extremely rare LEGO colour designed to appeal to LEGO fans
 - Assemble your own displayable, 2-seat LEGO Vespa 125 scooter model of an Italian icon with this LEGO building set for adults
 - With its functioning kickstand, this LEGO scooter model can be placed on display in the home or office, and makes a fab gift for men, women, him or her
-- Presented in pastel blue, one of the Vespa’s original production colours and an extremely rare LEGO colour designed to appeal to LEGO fans
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNX43N7{{</world>}}

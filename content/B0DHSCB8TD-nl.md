@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Interactieve NINJAGO draak – kinderen kunnen een schieter op de borst van de draak activeren en de grote vleugels van folie heen en weer bewegen met behulp van de hendel op de rug van deze LEGO draak
-- 8 NINJAGO minifiguren – deze LEGO bouwset is inclusief de ninjastrijders Lloyd, Cole, Wyldfyre en Kai en hun bondgenote Pixal, plus de schurken Drix, Zarkt en een Draconische strijder
-- Grotere ninja-avonturen – kijk ook eens naar ander LEGO NINJAGO speelgoed (sets apart verkrijgbaar) met nog meer draken, tempels en voertuigen
-- In allerlei standen verstelbare LEGO draken figuur – het Boogdraak van Concentratie kinderspeelgoed heeft een verstelbare staart, poten, voeten, kop, nek, kaak en klauwen
-- Ninja cadeau voor kinderen – deze LEGO set biedt een leuke bouw- en speelervaring en is een leuk cadeau voor jongens en meisjes vanaf 9 jaar die dol zijn op ninja-actie
 - Speelgoedspinner – deze LEGO set bevat ook een Spinjitzu spinnervoertuig, waar kinderen een minifiguur in kunnen plaatsen die ze snel kunnen laten rondtollen door op een knop op de lanceerder te drukken
 - NINJAGO draken speelgoed voor kinderen – met de 2-koppige Boogdraak van Concentratie kunnen jongens en meisjes vanaf 9 jaar spannende actiescènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen
+- Interactieve NINJAGO draak – kinderen kunnen een schieter op de borst van de draak activeren en de grote vleugels van folie heen en weer bewegen met behulp van de hendel op de rug van deze LEGO draak
+- 8 NINJAGO minifiguren – deze LEGO bouwset is inclusief de ninjastrijders Lloyd, Cole, Wyldfyre en Kai en hun bondgenote Pixal, plus de schurken Drix, Zarkt en een Draconische strijder
+- In allerlei standen verstelbare LEGO draken figuur – het Boogdraak van Concentratie kinderspeelgoed heeft een verstelbare staart, poten, voeten, kop, nek, kaak en klauwen
+- Ninja cadeau voor kinderen – deze LEGO set biedt een leuke bouw- en speelervaring en is een leuk cadeau voor jongens en meisjes vanaf 9 jaar die dol zijn op ninja-actie
+- Grotere ninja-avonturen – kijk ook eens naar ander LEGO NINJAGO speelgoed (sets apart verkrijgbaar) met nog meer draken, tempels en voertuigen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCB8TD{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BIRTHDAY GIFTS FOR KIDS – This hands-on LEGO DUPLO Train set makes a fun birthday gift for toddlers, boys and girls aged 18 months and over
 - TODDLER LEARNING TOYS – Kids learn colour-matching skills as they pair the animal figures with the coloured carriages from the LEGO train toy
-- TRAIN TOY FOR CREATIVE PLAY – Toddlers can follow the included cards to build farm animal toys or use the extra DUPLO bricks for creating their own inventions
-- Fun train toy with wheels – Delight toddlers who love vehicles, animal toys and nature-themed building sets with other LEGO DUPLO learning toys (sold separately) in the range
 - ANIMAL TRAIN SET – The LEGO DUPLO My First Animal Train toy for boys and girls aged 18 months and over includes 4 farm animal toys and 3 detachable carriages
 - FINE MOTOR SKILLS TOYS – This educational train toy for toddlers comes with fun functions that connect the carriages and wobble the rooster’s flexible neck
+- TRAIN TOY FOR CREATIVE PLAY – Toddlers can follow the included cards to build farm animal toys or use the extra DUPLO bricks for creating their own inventions
+- Fun train toy with wheels – Delight toddlers who love vehicles, animal toys and nature-themed building sets with other LEGO DUPLO learning toys (sold separately) in the range
+- BIRTHDAY GIFTS FOR KIDS – This hands-on LEGO DUPLO Train set makes a fun birthday gift for toddlers, boys and girls aged 18 months and over
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00CGYW6XW{{</world>}}

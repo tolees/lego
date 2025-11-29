@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - This LEGO | Disney and Pixar building toy features the house from Up with balloons, Carl and Russell LEGO minifigures plus Dug LEGO dog figure
-- Kids and fans will cherish this LEGO set celebrating Disneys 100th Anniversary as a special Disney gift with its many details and fun build
-- This LEGO | Disney and Pixar house building set is made for endless play sessions or a colourful, eye-catching display in kids’ (or adults’!) rooms
-- The LEGO Builder app guides kids on an adventure of their own, with tools to zoom and rotate 3D models, save sets and monitor progress
 - Accessories like the balloon inflator, squirrel figure, wilderness explorer backpack and the adventure book let fans relive their favourite scenes
+- The LEGO Builder app guides kids on an adventure of their own, with tools to zoom and rotate 3D models, save sets and monitor progress
+- This LEGO | Disney and Pixar house building set is made for endless play sessions or a colourful, eye-catching display in kids’ (or adults’!) rooms
 - The Up house model building kit includes a chimney, bedroom, porch and living room with fireplace, plus lots of recognisable film details
+- Kids and fans will cherish this LEGO set celebrating Disneys 100th Anniversary as a special Disney gift with its many details and fun build
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBSBDCP7{{</world>}}

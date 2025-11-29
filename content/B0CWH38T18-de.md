@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- NINJAGO Geschenk für Kinder: Dieses Action-Spielzeug bietet ein packendes Bau- und Spielerlebnis und ist ein tolles kleines Geschenk für Jungen und Mädchen ab 7 Jahren, die gern mit ihren Ninja-Helden spielen
 - Interaktives Ninja-Spielzeug: Ninja-Fans können das Hinterrad des Motorrads runterdrücken, um die Eisklingen an beiden Seiten auszuklappen und in den Angriffsmodus zu wechseln
-- Ninja-Spielzeugmotorrad: Mit Zanes Eismotorrad können Jungen und Mädchen ab 7 Jahren rasante Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen darstellen
-- Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Mechs und Fahrzeugen an
-- 1 NINJAGO Minifigur: Zane trägt hier zum allerersten Mal seine Turnierrüstung und schwingt 2 Katanas, um unzählige Actionrollenspiele darstellen zu können
 - NINJAGO Motorrad mit vielen Funktionen: Das Spielzeug-Motorrad verfügt über drehbare Räder, goldenen Klingen und ein gefedertes Hinterrad
 - Ninja-Spielzeuge in Hülle und Fülle: LEGO NINJAGO Sets beinhalten Drachen, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
+- 1 NINJAGO Minifigur: Zane trägt hier zum allerersten Mal seine Turnierrüstung und schwingt 2 Katanas, um unzählige Actionrollenspiele darstellen zu können
+- Größere Ninja-Abenteuer: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Mechs und Fahrzeugen an
+- NINJAGO Geschenk für Kinder: Dieses Action-Spielzeug bietet ein packendes Bau- und Spielerlebnis und ist ein tolles kleines Geschenk für Jungen und Mädchen ab 7 Jahren, die gern mit ihren Ninja-Helden spielen
+- Ninja-Spielzeugmotorrad: Mit Zanes Eismotorrad können Jungen und Mädchen ab 7 Jahren rasante Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen darstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH38T18{{</world>}}

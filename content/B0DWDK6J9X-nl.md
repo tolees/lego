@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- TOVENAARSWERELD SPEELGOED VOOR KINDEREN – elke dag in de aanloop naar Kerstmis wordt een fantasierijk avontuur voor kinderen met het LEGO Harry Potter Adventskalender 2025 bouwpakket voor kinderen
-- 8 LEGO MINIFIGUREN – Harry Potter, Cho Chang, Draco Malfidus, Hannah Albedil, Angelique Jansen, Loena Leeflang, Benno Zabini en Carlo Kannewasser, allemaal in Zweinstein kersttruien en met toverstokken
-- HARRY POTTER CADEAU – geef deze set cadeau aan kinderen en volwassen fans van de Harry Potter films om kerstverhalen op Zweinstein na te spelen
 - ONDERDEEL VAN EEN UITGEBREID ASSORTIMENT – met de LEGO Harry Potter bouw- en speelsets beleven jonge tovenaars, heksen en dreuzels samen met hun favoriete personages magische avonturen op bekende locaties
-- INSTRUCTIES MET AFBEELDINGEN – op de achterkant van ieder deurtje en in de LEGO Builder app vind je simpele bouwinstructies met afbeeldingen voor de leuke verzamelmodellen
-- 6 LEGO FIGUREN – deze set bevat Hedwig, Scheurbek met verstelbare vleugels, Aragog met verstelbare poten, een Terzieler met verstelbare vleugels, een Mandragora en een hertpatronus
 - 10 MINIMODELLEN – een acceptatiebrief van Zweinstein, chocoladekikker, Smekkies in Alle Smaken, boterbier, de Sorteerhoed, 3 drankjes, het Monsterlijke Monsterboek en 2 galjoenen
+- TOVENAARSWERELD SPEELGOED VOOR KINDEREN – elke dag in de aanloop naar Kerstmis wordt een fantasierijk avontuur voor kinderen met het LEGO Harry Potter Adventskalender 2025 bouwpakket voor kinderen
+- 6 LEGO FIGUREN – deze set bevat Hedwig, Scheurbek met verstelbare vleugels, Aragog met verstelbare poten, een Terzieler met verstelbare vleugels, een Mandragora en een hertpatronus
+- HARRY POTTER CADEAU – geef deze set cadeau aan kinderen en volwassen fans van de Harry Potter films om kerstverhalen op Zweinstein na te spelen
+- INSTRUCTIES MET AFBEELDINGEN – op de achterkant van ieder deurtje en in de LEGO Builder app vind je simpele bouwinstructies met afbeeldingen voor de leuke verzamelmodellen
+- 8 LEGO MINIFIGUREN – Harry Potter, Cho Chang, Draco Malfidus, Hannah Albedil, Angelique Jansen, Loena Leeflang, Benno Zabini en Carlo Kannewasser, allemaal in Zweinstein kersttruien en met toverstokken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDK6J9X{{</world>}}

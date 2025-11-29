@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Helping hand – Enjoy an intuitive building experience with the LEGO Builder app where you can view a 3D digital version of this construction model as you build
-- Build-and-display set – Recreate features of Admiral Ackbars frigate at the Battle of Endor and detach a side section to see interior details
-- LEGO Star Wars Starship Collection – This set is part of a series featuring mid-scale model kits of iconic Star Wars starships for adults to build
-- Star Wars memorabilia – Display the model on the stand with nameplate; use the transparent element to attach the Nebulon-B Medical Frigate in flight
-- From a galaxy far, far away to your living room – LEGO Star Wars collectable sets for adults are designed for people who enjoy hands-on creative projects to relax in a mindful and fun way
 - Star Wars gifts for teens and adults – This LEGO set makes a great birthday gift for men and women who love LEGO bricks and Star Wars vehicles
+- Star Wars memorabilia – Display the model on the stand with nameplate; use the transparent element to attach the Nebulon-B Medical Frigate in flight
+- Build-and-display set – Recreate features of Admiral Ackbars frigate at the Battle of Endor and detach a side section to see interior details
 - Buildable starship model – Experience life with the Mon Calamari aboard the Home One Starcruiser from Star Wars: Return of the Jedi in LEGO bricks
+- LEGO Star Wars Starship Collection – This set is part of a series featuring mid-scale model kits of iconic Star Wars starships for adults to build
+- From a galaxy far, far away to your living room – LEGO Star Wars collectable sets for adults are designed for people who enjoy hands-on creative projects to relax in a mindful and fun way
+- Helping hand – Enjoy an intuitive building experience with the LEGO Builder app where you can view a 3D digital version of this construction model as you build
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCKCZ2{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Der 3-in-1 LEGO Weltraum-Vergnügungspark Set enthält außerdem einen LEGO Lichtstein, mit dem der Meteor des Rummelplatzes, die Triebwerke des Shuttles und die Kabine des Karussells der jeweiligen LEGO Gebäude beleuchtet werden können
 - Um das rasante intergalaktische Abenteuer fortzusetzen, können junge Weltraumforscher den Bausatz in ein Karussell mit einer Mini LEGO Rakete und einem LEGO Space Shuttle umbauen, die sich schnell drehen
 - Kinder können mit dem LEGO Creator 3-in-1-Spielset Weltraum-Achterbahn eine Reise unternehmen, die nicht von dieser Welt ist, dank der 3 coolen LEGO Kirmes-Fahrgeschäfte zum Bauen und Umbauen in einer Box
-- Mit einer Höhe von über 27 cm und einer Breite von 27 cm ist dieser LEGO Weltraum-Kirmes-Set ein tolles Ausstellungsstück für Kinderzimmer – perfekt für Fans von Wissenschaft, Technik und LEGO Space Shuttles
+- Weltraum-Fans können drei verschiedene LEGO Vergnügungspark-Fahrgeschäfte bauen: die LEGO Weltraum-Achterbahn, den Fallturm mit Aufzug oder ein sich drehendes Weltraumkarussell
 - Die LEGO Achterbahn verfügt über eine kurvenreiche Strecke, auf der drei Karren umringt von Planeten, Sternschnuppen und Meteoren herumsausen können, während der Fallturm über einen Aufzug verfügt, der nach oben fährt, bevor er auf den Boden fällt
 - Enthält 5 Minifiguren: einen Astronauten, einen Vater mit zwei Kindern, einen Wissenschaftler und einen Baby-Astronauten, der die Fahrgeschäften fahren kann – die Outfits der Charaktere sind austauschbar, um lustige neue Looks zu kreieren
-- Der 3-in-1 LEGO Weltraum-Vergnügungspark Set enthält außerdem einen LEGO Lichtstein, mit dem der Meteor des Rummelplatzes, die Triebwerke des Shuttles und die Kabine des Karussells der jeweiligen LEGO Gebäude beleuchtet werden können
-- Weltraum-Fans können drei verschiedene LEGO Vergnügungspark-Fahrgeschäfte bauen: die LEGO Weltraum-Achterbahn, den Fallturm mit Aufzug oder ein sich drehendes Weltraumkarussell
+- Mit einer Höhe von über 27 cm und einer Breite von 27 cm ist dieser LEGO Weltraum-Kirmes-Set ein tolles Ausstellungsstück für Kinderzimmer – perfekt für Fans von Wissenschaft, Technik und LEGO Space Shuttles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7F29QL{{</world>}}

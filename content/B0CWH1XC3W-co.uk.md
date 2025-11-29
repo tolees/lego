@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Guardians of the Galaxy gift – Treat fans of Marvel’s Groot, Super Heroes and buildable LEGO toys to this interactive playset, which makes a fun Marvel-themed gift for 10-plus-year-old boys and girls
-- Super Hero playset – Groot’s head turns, his arms are posable, and the pot includes a built-in storage compartment for all the accessories
-- Dancing Super Hero – Includes a buildable Groot figure in a flower pot, 3 different nameplates plus headphones, sunglasses and extra leaves
+- Interactive dancing Groot – When kids turn a handle at the rear of the building toy, the jointed Groot Marvel figure gets funky
 - More LEGO Marvel playsets – The extensive range of LEGO Marvel building toys puts an ever-changing universe of imaginative Super Hero adventures into kids’ hands
 - Buildable Groot animated toy for kids – Dancing Groot is an interactive building toy for 10-plus-year-old boys and girls
 - 3D building instructions – With the LEGO Builder app, builders can zoom in and rotate models in 3D, track their progress and save virtual sets
-- Interactive dancing Groot – When kids turn a handle at the rear of the building toy, the jointed Groot Marvel figure gets funky
+- Super Hero playset – Groot’s head turns, his arms are posable, and the pot includes a built-in storage compartment for all the accessories
+- Dancing Super Hero – Includes a buildable Groot figure in a flower pot, 3 different nameplates plus headphones, sunglasses and extra leaves
+- Guardians of the Galaxy gift – Treat fans of Marvel’s Groot, Super Heroes and buildable LEGO toys to this interactive playset, which makes a fun Marvel-themed gift for 10-plus-year-old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1XC3W{{</world>}}

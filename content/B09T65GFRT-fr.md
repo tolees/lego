@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Type : Jouet de construction
+- Matériau : alliage Plastique et plastique
+- Pièces : 802 pièces
 - Gamme : Star Wars
 - À partir de 18 ans
-- Pièces : 802 pièces
-- Matériau : alliage Plastique et plastique
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09T65GFRT{{</world>}}

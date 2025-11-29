@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Science accessories – This space playset features accessories modelled on those used by astronauts, including scientific equipment and gas canisters
-- Rover expands – The model reflects how rovers adapt from being compact for transportation to expanding when they carry cargo after landing
-- More features – This outer space building toy for kids also includes a generator, beacons, companion rover, living quarters and cockpit
-- Space gift for kids who love NASA-inspired toys – This LEGO space set makes a creative gift for 11+ year old boys, girls and kids who love fun space toys
-- Mars Rover space toy for 11+ year old boys and girls – The LEGO Technic Mars Crew Exploration Rover for kids is packed with realistic features
 - Space Toy filled with features – This LEGO space set includes an expanding truck bed, suspension, a moving toy crane and a lift
+- Mars Rover space toy for 11+ year old boys and girls – The LEGO Technic Mars Crew Exploration Rover for kids is packed with realistic features
+- More features – This outer space building toy for kids also includes a generator, beacons, companion rover, living quarters and cockpit
+- Rover expands – The model reflects how rovers adapt from being compact for transportation to expanding when they carry cargo after landing
+- Space gift for kids who love NASA-inspired toys – This LEGO space set makes a creative gift for 11+ year old boys, girls and kids who love fun space toys
 - Air lock connects to other models – This set has a special space air-lock element so kids can connect other compatible space-themed LEGO playsets (sold separately) for more adventures
+- Science accessories – This space playset features accessories modelled on those used by astronauts, including scientific equipment and gas canisters
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1PGQY{{</world>}}

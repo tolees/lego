@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO vehicles – Kids can tilt the driver’s cab to access the engine, hitch the trailer and drop both deck ramps for boarding the 3 car toys
+- Transporter truck toy – Vehicle fans will love this LEGO City Car Transporter Truck with Sports Cars building toy for 7-plus-year-old boys and girls
 - Digital building fun – This LEGO truck and cars set features instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
+- LEGO truck toy with accessories – This creative toy comes with 4 LEGO City minifigures and accessories including a medic kit and fire extinguisher
 - A fun birthday gift for kids – This LEGO City truck and car set makes a great birthday gift for 7-plus-year-old boys and girls who love LEGO vehicles
 - A city without limits – LEGO City is a place where kids can unleash their limitless imaginations, with structures, vehicles and citizens that motivate them to build, create, explore and play
-- LEGO truck toy with accessories – This creative toy comes with 4 LEGO City minifigures and accessories including a medic kit and fire extinguisher
+- LEGO vehicles – Kids can tilt the driver’s cab to access the engine, hitch the trailer and drop both deck ramps for boarding the 3 car toys
 - What’s in the box? – This LEGO City set includes a toy truck with trailer, ’50s-style dragger car, ’70s-style muscle car and an electric car toy
-- Transporter truck toy – Vehicle fans will love this LEGO City Car Transporter Truck with Sports Cars building toy for 7-plus-year-old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2155C{{</world>}}

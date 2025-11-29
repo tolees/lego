@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO DREAMZzz toy set features a posable monster toy figure, 2 minifigures, a sidekick and accessories to help Mateo and Z-Blob rescue Cooper
 - Creative toys for 7 plus year old kids - boys and girls - are perfect for imaginative play; check out the LEGO DREAMZzz range for more adventures
 - Based on DREAMZzz TV action, the set lets kids build the villainous Grimkeeper figure and then rescue Cooper before he is taken to the Nightmare King
 - This cool dream toys set features a belt, pencil spear and hourglass accessories, plus story-led building instructions, also in the LEGO Builder app
+- This LEGO DREAMZzz toy set features a posable monster toy figure, 2 minifigures, a sidekick and accessories to help Mateo and Z-Blob rescue Cooper
 - Includes LEGO DREAMZzz Cooper and Mateo minifigures with his sidekick Z-Blob figure that can be built a mini-plane or a rescue hoverbike toy
 - The Grimkeeper monster toy figure has fully articulated arms, legs and torso with a cage to keep prisoners in during transport to the Nightmare King
 

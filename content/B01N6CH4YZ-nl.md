@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Onderhoudsvriendelijke decoratie voor thuis of op kantoor – voeg een kleuraccent toe aan elke ruimte met deze bouwbare, onderhoudsvrije bloemenset
-- Planten gemaakt van planten – deze set uit de LEGO Botanische Collectie bevat elementen die zijn gemaakt van plantaardig kunststof dat is vervaardigd uit duurzaam geteeld suikerriet
-- Decoratieve bouwset voor volwassenen – neem wat tijd voor jezelf of geniet samen met vrienden en familie van een ontspannende bouwervaring met de LEGO Icons Miniplantjes bouwset
-- LEGO Icons set voor nieuwe en ervaren bouwers – kies uit verschillende modellen voor een eenvoudige, gemiddelde of gevorderde moeilijkheidsgraad
+- Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze set horen
 - Creatief bouwen voor plantenliefhebbers – deze set bevat alles wat je nodig hebt om 9 plantjes te maken op basis van woestijnachtige, tropische en vleesetende soorten, elk in een bouwbare, terracottakleurige plantenpot
 - Een groen cadeau – de LEGO Icons Miniplantjes bouwset is een geweldig cadeau voor een verjaardag of een andere gelegenheid voor volwassen fans van LEGO bouwsets en iedereen met groene vingers
+- Planten gemaakt van planten – deze set uit de LEGO Botanische Collectie bevat elementen die zijn gemaakt van plantaardig kunststof dat is vervaardigd uit duurzaam geteeld suikerriet
+- Decoratieve bouwset voor volwassenen – neem wat tijd voor jezelf of geniet samen met vrienden en familie van een ontspannende bouwervaring met de LEGO Icons Miniplantjes bouwset
+- Onderhoudsvriendelijke decoratie voor thuis of op kantoor – voeg een kleuraccent toe aan elke ruimte met deze bouwbare, onderhoudsvrije bloemenset
 - Afmetingen – de hoogste plant in deze 758-delige bouwset (inclusief pot) is ca. 16 cm hoog, 10 cm breed en 6 cm diep
-- Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze set horen
+- LEGO Icons set voor nieuwe en ervaren bouwers – kies uit verschillende modellen voor een eenvoudige, gemiddelde of gevorderde moeilijkheidsgraad
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N6CH4YZ{{</world>}}

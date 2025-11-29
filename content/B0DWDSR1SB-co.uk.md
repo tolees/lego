@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ANIMAL TOYS FOR PET LOVERS – Kids can enjoy fun friendship role play with this LEGO 4+ set, which includes a slide, ladder and tube for the 3 toy animal figures to explore
 - FUN ACCESSORIES – This creative building toy includes a ball, dog biscuits, a bone, and even a dog poo element to make kids laugh as they create their own puppy adventures
-- LETS TELL A FRIENDSHIP STORY – LEGO Friends building toys let kids explore different friendship moments, with lots of opportunities to create their own imaginative stories and role-play adventures
-- ONLINE SERIES – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can meet Heartlake City characters
-- GIFT FOR DOG LOVERS – This LEGO Friends set makes a great birthday gift for 4+ year old girls and boys who love animal toys and friendship storytelling, while developing building confidence with easy-to-assemble bricks
 - ANIMAL PLAYSET FOR KIDS – The LEGO Friends Puppy Playground toy for 4+ year old girls and boys features a buildable playground, 2 mini dolls, 3 pet dog figures and fun accessories for creative play
+- ONLINE SERIES – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can meet Heartlake City characters
 - MINI DOLLS AND ANIMAL TOYS – Includes Aliya and Sara LEGO Friends mini dolls, plus cute puppies Aira, Dango and Maple, inspiring kids to act out social situations and create fun pet-care stories
+- LETS TELL A FRIENDSHIP STORY – LEGO Friends building toys let kids explore different friendship moments, with lots of opportunities to create their own imaginative stories and role-play adventures
+- ANIMAL TOYS FOR PET LOVERS – Kids can enjoy fun friendship role play with this LEGO 4+ set, which includes a slide, ladder and tube for the 3 toy animal figures to explore
+- GIFT FOR DOG LOVERS – This LEGO Friends set makes a great birthday gift for 4+ year old girls and boys who love animal toys and friendship storytelling, while developing building confidence with easy-to-assemble bricks
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDSR1SB{{</world>}}

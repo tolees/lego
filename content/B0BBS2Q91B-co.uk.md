@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Harry Potter fans can find fun ways to show off their Hogwarts house pride and keep their desk tidy with this back-to-school supplies set
-- Also includes a lockable secret box which kids can use to store their treasures, plus an 8x8 adhesive sticker to add fun and colour to any desk
-- This Harry Potter toy craft set includes a Golden Snitch note holder, scarf-shaped tray plus a customisable photo frame with decorative add-ons
 - Kids can use the different coloured tiles to decorate the pieces, plus there are 10 exclusive mosaic tiles with Harry Potter-inspired designs
 - LEGO DOTS Hogwarts desktop kit features 4 desk decor items plus an adhesive patch for kids to decorate and bring the magic of Harry Potter to life
+- Also includes a lockable secret box which kids can use to store their treasures, plus an 8x8 adhesive sticker to add fun and colour to any desk
+- This Harry Potter toy craft set includes a Golden Snitch note holder, scarf-shaped tray plus a customisable photo frame with decorative add-ons
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS2Q91B{{</world>}}

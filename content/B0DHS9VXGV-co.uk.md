@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Role-play toys – Creative kids can enjoy an interactive experience with a hidden dino egg, webs to trap villains, and a trigger-operated rockfall
-- Treat for kids – This buildable Spidey and His Amazing Friends toy makes a great gift for 4 plus year old boys and girls who are fans of the TV show Spidey And His Amazing Friends
 - Buildable Marvel toy – Team Spidey Dino Crawler Rescue building toy for 4+ year old boys and girls who love the Spidey And His Amazing Friends TV show
-- Expand the fun – Check out the extensive range of compatible LEGO vehicle toys and buildable LEGO Marvel playsets (sold separately) for kids aged 4 and over
+- Role-play toys – Creative kids can enjoy an interactive experience with a hidden dino egg, webs to trap villains, and a trigger-operated rockfall
 - Buildable preschool toys – LEGO 4+ sets for boys and girls introduce kids to a universe of film favourites, TV characters and everyday heroes
-- Adventures with dinosaur figures – Feature Spidey, Miles “Spin” Morales, Ghostosaurus and Dino-Rhino, plus a truck with a web attached to its rear
 - Minifigures, dinos and a truck toy – There’s 1 quick-to-build model per bag, plus a guide and large Starter Brick, so play can get started quickly
+- Expand the fun – Check out the extensive range of compatible LEGO vehicle toys and buildable LEGO Marvel playsets (sold separately) for kids aged 4 and over
+- Adventures with dinosaur figures – Feature Spidey, Miles “Spin” Morales, Ghostosaurus and Dino-Rhino, plus a truck with a web attached to its rear
+- Treat for kids – This buildable Spidey and His Amazing Friends toy makes a great gift for 4 plus year old boys and girls who are fans of the TV show Spidey And His Amazing Friends
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHS9VXGV{{</world>}}

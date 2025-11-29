@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - A universe of ninja toys – LEGO NINJAGO building kits let kids escape into a fantasy world of adventures with their ninja heroes
-- 4-in-1 ninja toy for kids – 9+ year old boys and girls can recreate NINJAGO Dragons Rising season 3 action with Zane’s Ultra Combiner Mech
-- Detachable ninja models – Zane’s Ultra Combiner Mech can be separated into 4 smaller models: a jet toy, a car toy, an action figure and a dragon toy
-- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) featuring cool characters, dragons, mechs and vehicles
-- Gift idea for kids – With 4 cool ninja toys in 1, this LEGO NINJAGO set makes a fun birthday gift for 9+ year old boys, girls and fans of the LEGO NINJAGO Dragons Rising TV show
 - 6 LEGO NINJAGO minifigures – This building set includes ninjas Sora, Cole and Pixal, who take on Nokt, a Dragonian Warrior and a Dragonian Scout
+- Detachable ninja models – Zane’s Ultra Combiner Mech can be separated into 4 smaller models: a jet toy, a car toy, an action figure and a dragon toy
+- Gift idea for kids – With 4 cool ninja toys in 1, this LEGO NINJAGO set makes a fun birthday gift for 9+ year old boys, girls and fans of the LEGO NINJAGO Dragons Rising TV show
 - Posable mech toy – The combiner mech has posable limbs, feet, wrists, fingers and head, plus dragon wings, a cockpit, 2 shooters and a sword accessory
+- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) featuring cool characters, dragons, mechs and vehicles
+- 4-in-1 ninja toy for kids – 9+ year old boys and girls can recreate NINJAGO Dragons Rising season 3 action with Zane’s Ultra Combiner Mech
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSBH37T{{</world>}}

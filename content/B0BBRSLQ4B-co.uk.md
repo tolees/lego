@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Features animal toys in their natural habitats: the toy bunny in a forest, the cockatoo parrot in the trees or the white seal swimming in the sea
 - LEGO Creator building toys for kids 8+ offer hours of imaginative play; this LEGO Creator set makes a great birthday gift for animal-loving kids
 - Kids will love this LEGO Creator 3in1 set featuring a white rabbit animal toy which can be rebuilt into a cute cockatoo parrot or a white seal
+- Features animal toys in their natural habitats: the toy bunny in a forest, the cockatoo parrot in the trees or the white seal swimming in the sea
+- Kids can take this portable animal building toy wherever they go; play possibilities and adventures never end with this brilliant 3in1 set
 - With posable LEGO animals: toy rabbit can move its head, legs, mouth and ears; cockatoo parrot moves wings, tail and rotates its head 360 degrees
 - The LEGO seal figure can move its mouth and flippers! This LEGO animal set also includes food elements (a carrot, a flower, seeds and a fish)
-- Kids can take this portable animal building toy wherever they go; play possibilities and adventures never end with this brilliant 3in1 set
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRSLQ4B{{</world>}}

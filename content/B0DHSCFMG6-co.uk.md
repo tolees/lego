@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Combo ninja vehicle – The large vehicle in this LEGO NINJAGO set can be separated into 2 smaller vehicles: Kai’s mech and Nya’s flying motorcycle
-- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) to play out action with Kai’s Mech Storm Rider
-- Packed with cool features – Kai’s mech toy has a posable head, arms and legs, plus a cockpit with space for a minifigure, and a storm blade accessory
-- Birthday gift for kids – This action toy makes a fun birthday gift idea for 7+ year old boys, girls and kids who love teaming up with their favourite ninja heroes
-- Nya’s flying motorbike toy has a minifigure cockpit, movable wings and 2 spring-loaded shooters for kids to play out epic battles with the ninja
 - Ninja toy for kids – 7+ year old boys and girls can play out battles from season 3 of the NINJAGO Dragons Rising TV show with Kai’s Mech Storm Rider
 - 3 LEGO NINJAGO minifigures – The set comes with NINJAGO characters Kai, Nya and a Dragonian Warrior, all with cool toy weapon accessories
+- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) to play out action with Kai’s Mech Storm Rider
+- Combo ninja vehicle – The large vehicle in this LEGO NINJAGO set can be separated into 2 smaller vehicles: Kai’s mech and Nya’s flying motorcycle
+- Packed with cool features – Kai’s mech toy has a posable head, arms and legs, plus a cockpit with space for a minifigure, and a storm blade accessory
+- Nya’s flying motorbike toy has a minifigure cockpit, movable wings and 2 spring-loaded shooters for kids to play out epic battles with the ninja
+- Birthday gift for kids – This action toy makes a fun birthday gift idea for 7+ year old boys, girls and kids who love teaming up with their favourite ninja heroes
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCFMG6{{</world>}}

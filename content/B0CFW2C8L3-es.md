@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ACCESORIOS PARA EL JUEGO CREATIVO: El set cuenta con infinidad de accesorios para fomentar el juego creativo, como una montura, una zanahoria de juguete, una manzana, un cepillo y un lazo
-- JUGUETE INFANTIL CON CABALLOS: Los peques que están aprendiendo a construir se divertirán practicando con este set de un remolque para caballos diseñado para constructores primerizos de 4 años o más
-- MINI MUÑECOS PARA EL JUEGO DE ROL: Este creativo regalo para niñas y niños contiene mini muñecos de Liann y Zoya, un caballo y un poni de juguete para pequeños jinetes y amazonas
-- REGALO PARA AMANTES DE LA NATURALEZA: Este set es óptimo como regalo de cumpleaños para niñas y niños de 4 años o más que disfrutan imaginando historias sobre animales
 - Más juguetes de construcción infantiles: explora la gama LEGO Friends y descubre más sets para pequeños constructores (a la venta por separado) con animales y vehículos de juguetes
+- REGALO PARA AMANTES DE LA NATURALEZA: Este set es óptimo como regalo de cumpleaños para niñas y niños de 4 años o más que disfrutan imaginando historias sobre animales
+- JUGUETE INFANTIL CON CABALLOS: Los peques que están aprendiendo a construir se divertirán practicando con este set de un remolque para caballos diseñado para constructores primerizos de 4 años o más
+- ACCESORIOS PARA EL JUEGO CREATIVO: El set cuenta con infinidad de accesorios para fomentar el juego creativo, como una montura, una zanahoria de juguete, una manzana, un cepillo y un lazo
+- MINI MUÑECOS PARA EL JUEGO DE ROL: Este creativo regalo para niñas y niños contiene mini muñecos de Liann y Zoya, un caballo y un poni de juguete para pequeños jinetes y amazonas
 - ANIMALES DE JUGUETE: Este set para peques a partir de 4 años incluye un coche de juguete y un remolque, mini muñecos de Liann y Zoya, una figura de un caballo, una figura de un poni y accesorios
 
 [🛒 Buy it!!]({{< param buyurl >}})

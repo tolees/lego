@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Non mirare agli occhi o al viso
 - Giocattolo contenuto allinterno_x000D_
 - Solo per uso domestico_x000D_
+- Non mirare agli occhi o al viso
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08WWTVMNZ{{</world>}}

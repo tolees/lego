@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- This LEGO Friends building toy for kids, girls and boys aged 7+ makes a great stand alone toy or fun addition to any Heartlake City collection
-- Kids can activate the function on the bus to move the ramp in and out to pick up the passengers, or attach the charger to the bus to refuel
 - The bus roof can be removed; a sidewall opens to access the inside; the destination sign can be changed to different locations in Heartlake City
-- Kids can join Paisley on a tour of the town with the LEGO Friends Heartlake City Bus playset, featuring a toy bus, 3 mini-dolls and accessories
+- Kids can activate the function on the bus to move the ramp in and out to pick up the passengers, or attach the charger to the bus to refuel
 - The friendship bus toy playset features Paisley, a bus driver and a passenger mini-dolls, a toy mobility scooter, ramp and ‘electric’ charger
+- Kids can join Paisley on a tour of the town with the LEGO Friends Heartlake City Bus playset, featuring a toy bus, 3 mini-dolls and accessories
+- This LEGO Friends building toy for kids, girls and boys aged 7+ makes a great stand alone toy or fun addition to any Heartlake City collection
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7CCXTD{{</world>}}

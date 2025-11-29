@@ -30,10 +30,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Buildable Marvel toys – Kids aged 8+ can recreate action from Marvel Studios’ Guardians of the Galaxy with LEGO Marvel Rocket’s Warbird vs. Ronan
 - 3D building instructions – Kids can download the LEGO Builder app with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Play and display – When the day’s Super Hero action is over, this buildable Guardians of the Galaxy toy can be put on display for all to admire
 - LEGO Marvel gift for kids – Treat fans of Marvel Studios’ Guardians of the Galaxy to this buildable LEGO Super Hero toy spaceship as a birthday gift for kids, boys and girls aged 8+ years old
-- Role-play toys – This buildable spaceship toy inspires imaginative action with 2 spring-shooter missiles on top and 2 6-stud shooters beneath the wings
 - Guardians of the Galaxy – Includes 2 minifigures: Rocket Raccoon with a blaster and Ronan the Accuser with his cape and Cosmi-Rod hammer
+- Play and display – When the day’s Super Hero action is over, this buildable Guardians of the Galaxy toy can be put on display for all to admire
+- Role-play toys – This buildable spaceship toy inspires imaginative action with 2 spring-shooter missiles on top and 2 6-stud shooters beneath the wings
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVY8SXL{{</world>}}

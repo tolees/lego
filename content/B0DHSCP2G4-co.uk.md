@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Buildable Marvel toy – The LEGO Marvel Spider-Verse: Miles Morales vs. The Spot is a build-and-play kids’ toy for 9 plus year old boys and girls
-- Build-and-play Super Hero toys – The shop’s exploding-wall feature allows the cash machine to be stolen by The Spot and inspires endless adventures
-- 3D building instructions – Kids can download the LEGO Builder app for digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Police car – The building toy also includes Officer Jefferson’s police vehicle which opens for kids to place 2 LEGO Marvel minifigures inside
 - Buildable toys for young Super Heroes – The extensive range of LEGO Marvel building toy sets gives kids an ever-changing universe of build-and-play Super Hero adventures
 - LEGO Spider-Man minifigures – The set comes with Miles Morales, The Spot, Gwen Stacy and Officer Jefferson minifigures, plus web-slinging accessories
-- Police car – The building toy also includes Officer Jefferson’s police vehicle which opens for kids to place 2 LEGO Marvel minifigures inside
+- 3D building instructions – Kids can download the LEGO Builder app for digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Build-and-play Super Hero toys – The shop’s exploding-wall feature allows the cash machine to be stolen by The Spot and inspires endless adventures
 - Spider-Man gift for kids – Fans of Super Heroes and Marvel Studios’ Spider-Man: Across the Spider-Verse can enjoy endless imaginative play with this set which makes a great gift for 9+ year old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})

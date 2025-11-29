@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Elk LEGO gebouw is open aan de achterkant en kan gedraaid worden voor nog meer speelmogelijkheden; de LEGO appartementen en winkels kunnen ook verbonden worden om een grote stad te vormen
+- Inclusief 6 minifiguren: een zanger en een gitarist die optreden op het dak van de muziekwinkel, een barman, een hotelreceptionist, een rolstoelgebruiker en een kind - het haar en de bovenlichamen van de personages kunnen worden verwisseld voor meer plezier
 - Deze 1.459-delige speelset biedt kinderen eindeloos plezier en kan als kerstcadeau of verjaardagscadeau gegeven worden aan jonge LEGO-fans vanaf 9 jaar met interesse in architectuur, speelgoed winkels of bouwen
 - Met behulp van de LEGO Builder app kunnen kleine bouwers hun model inzoomen, in 3D draaien en een digitale versie bekijken op een smartphone of tablet
-- Inclusief 6 minifiguren: een zanger en een gitarist die optreden op het dak van de muziekwinkel, een barman, een hotelreceptionist, een rolstoelgebruiker en een kind - het haar en de bovenlichamen van de personages kunnen worden verwisseld voor meer plezier
 - Kinderen vanaf 9 jaar kunnen leuke avonturen meemaken in een stad vol leven met dit LEGO Creator 3in1 bouwpakket inclusief een hoofdstraat, een art deco appartement en een marktstraat
 - Met behulp van de LEGO Builder app kunnen kleine bouwers hun model inzoomen, in 3D draaien en een digitale versie bekijken op een smartphone of tablet
 - De elegante art-decoflat van 4 verdiepingen bevat een inkomsthal, keuken, woonkamer, kantoor en park, en de marktstraat bevat appartementen, een fotostudio en een bloemenwinkel
 - LEGO fans kunnen 3 verschillende stadstaferelen bouwen: een straat met een hotel, muziekwinkel, platenzaak en café; een art deco appartement van 4 verdiepingen of een marktstraat met een boog
-- Elk LEGO gebouw is open aan de achterkant en kan gedraaid worden voor nog meer speelmogelijkheden; de LEGO appartementen en winkels kunnen ook verbonden worden om een grote stad te vormen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7C7X37{{</world>}}

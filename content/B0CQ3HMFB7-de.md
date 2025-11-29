@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Spielset mit Spielzeughaus und Baumhaus: LEGO Ich – Einfach unverbesserlich 4 Familienvilla von Gru und den Minions ist ein Spielset mit filmgetreuen Details und Figuren für Mädchen und Jungen ab 8 Jahren
-- Grus Familie und 3 Minion-Figuren: Triff Gru, Lucy, Margo, Edith, Agnes und das Baby sowie die Mega Minions Mel, Jerry und Tim
-- Noch mehr Kinderspielzeug mit den Minions: Weitere LEGO Ich – Einfach unverbesserlich 4 Spielsets sind separat erhältlich, um Kindern noch mehr Spaß mit den Minions zu bieten
-- Kinderspielzeug zum Film: Dieses Spielset beinhaltet ein baubares Haus, ein kleines Baumhaus, 6 Minifiguren, 3 baubare Spielzeug-Minions und jede Menge authentisches Zubehör
 - Spielset mit Gru und Minion-Haus: In diesem vielseitigen Spielzeughaus können Kinder viele Zimmer erkunden, Figuren treffen und fantasievolle Abenteuer erleben
-- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen. Mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
+- Grus Familie und 3 Minion-Figuren: Triff Gru, Lucy, Margo, Edith, Agnes und das Baby sowie die Mega Minions Mel, Jerry und Tim
 - Minion-Geschenkidee: Fans der Filmreihe Ich – Einfach unverbesserlich von Illumination werden Grus Haus und all die enthaltenen Funktionen und Figuren sofort erkennen, die das Set zu einem coolen Minions-Geschenk für Kinder machen
+- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen. Mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
+- Kinderspielzeug zum Film: Dieses Spielset beinhaltet ein baubares Haus, ein kleines Baumhaus, 6 Minifiguren, 3 baubare Spielzeug-Minions und jede Menge authentisches Zubehör
+- Noch mehr Kinderspielzeug mit den Minions: Weitere LEGO Ich – Einfach unverbesserlich 4 Spielsets sind separat erhältlich, um Kindern noch mehr Spaß mit den Minions zu bieten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CQ3HMFB7{{</world>}}

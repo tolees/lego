@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lego Star Wars 3 Minifigure - Cassian Andor, Lucen Layel e Silil Khan sono dotati di pistole blaster
-- 75338
 - Per bambini dai 9 anni in su: set da 679 pezzi per i fan del dramma live-action di Star Wars, Cassian Andor o collezionisti della serie LEGO Star Wars
 - Speeder Bike - Cassian Andor e Lucen Layel cavalcano con le armi
+- Lego Star Wars 3 Minifigure - Cassian Andor, Lucen Layel e Silil Khan sono dotati di pistole blaster
+- 75338
 - Attack Pods - Aprire i pod dallalto e laterale per visualizzare i dettagli interni come sedile pilota, 5 minifigure, ali regolabili, tiratori rotanti con perno W e rampe posteriori
 
 [🛒 Buy it!!]({{< param buyurl >}})

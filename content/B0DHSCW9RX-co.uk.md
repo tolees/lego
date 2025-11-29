@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Buildable toys for young Super Heroes – The extensive range of LEGO Marvel building sets gives kids an ever-changing universe of build-and-play Super Hero adventures
-- Large LEGO Marvel figure – The fully jointed, buildable Galactus action figure, is highly posable to enable endless dynamic Fantastic Four action
+- LEGO Marvel minifigures – Features Mr. Fantastic with extendable legs and The Human Torch with hand blasters, feet flames and a flight prop
 - LEGO Fantastic Four building toy – Fantastic Four vs. Galactus Construction Figure is based on Marvel Studios’ The Fantastic Four: First Steps
 - The first ever LEGO Fantastic Four set – This construction toy is rewarding to build, fun to play with and makes a great piece of kids bedroom decor
-- Fantastic Four birthday gift for kids – This versatile Marvel building toy is a great gift idea for 9+ year old boys and girls who are fans of Marvel Studios’ The Fantastic Four: First Steps
 - More Fantastic Four LEGO minifigures – The building toy set also features The Invisible Woman with force shields and The Thing with extra-large hands
-- LEGO Marvel minifigures – Features Mr. Fantastic with extendable legs and The Human Torch with hand blasters, feet flames and a flight prop
+- Fantastic Four birthday gift for kids – This versatile Marvel building toy is a great gift idea for 9+ year old boys and girls who are fans of Marvel Studios’ The Fantastic Four: First Steps
+- Large LEGO Marvel figure – The fully jointed, buildable Galactus action figure, is highly posable to enable endless dynamic Fantastic Four action
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCW9RX{{</world>}}
