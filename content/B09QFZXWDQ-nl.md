@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen kunnen spelen dat ze het strand in de gaten houden vanaf de strandwachterstoren, het luchtbed mee de zee in nemen, oefenen met windsurfen, een theorieles volgen op de surfschool of klanten helpen in de surfshop
-- Aantal stenen: 288
 - Aanbevolen leeftijd door de fabrikant: 6+
+- Aantal stenen: 288
 - De set bevat een figuur van een schildpad en minipoppetjes van LEGO Friends personages Stephanie, Koa en Maya, met leuke speelgoed accessoires zoals een verrekijker, een zwemvest, en een waterijsje
 - Surfer strandplezier
+- Kinderen kunnen spelen dat ze het strand in de gaten houden vanaf de strandwachterstoren, het luchtbed mee de zee in nemen, oefenen met windsurfen, een theorieles volgen op de surfschool of klanten helpen in de surfshop
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFZXWDQ{{</world>}}

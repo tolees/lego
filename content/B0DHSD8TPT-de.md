@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 3D-Bauanleitung: Für ein Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, LEGO Sets speichern
-- LEGO Minecraft Spielzeug für Gamer: Angriff des Ghast-Ballons ist ein Gaming Spielzeug; das kreative Spielset für Jungen und Mädchen ab 10 Jahren stellt eine Szene aus dem Minecraft-Film nach
 - Gaming Set zum Videospiel: Piglins katapultieren Scheiben aus ihrem Ghast-Ballon, auf den Springbrunnen; Kinder müssen die Dorfbewohner sowie Steves Brathähnchen-Restaurant und Handwerkshütte beschützen
-- Gamer Geschenk für Kinder: Das LEGO Set ist ein beliebtes Geschenk für Jungen und Mädchen ab 10 Jahren; auch als Kinder Mitbringsel geeignet
-- Minecraft Merch Spielzeug: Das Dach des Restaurants schmückt ein großes Hühnermodell mit lustiger Eierlegefunktion; nach dem Spielen als Minecraft Deko geeignet
-- Minecraft Action in der echten Welt: LEGO Minecraft Spielzeug lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen
+- LEGO Minecraft Spielzeug für Gamer: Angriff des Ghast-Ballons ist ein Gaming Spielzeug; das kreative Spielset für Jungen und Mädchen ab 10 Jahren stellt eine Szene aus dem Minecraft-Film nach
 - LEGO Figuren Set: 4 Minifiguren - Steve, Natalie, Dawn und ein Dorfbewohner - sowie ein Ghast-Ballon, 2 Piglins und ein beweglicher Eisengolem aus diesem Set zum Videospiel lassen Kinder aktiv spielen
+- Minecraft Action in der echten Welt: LEGO Minecraft Spielzeug lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen
+- Gamer Geschenk für Kinder: Das LEGO Set ist ein beliebtes Geschenk für Jungen und Mädchen ab 10 Jahren; auch als Kinder Mitbringsel geeignet
+- 3D-Bauanleitung: Für ein Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, LEGO Sets speichern
+- Minecraft Merch Spielzeug: Das Dach des Restaurants schmückt ein großes Hühnermodell mit lustiger Eierlegefunktion; nach dem Spielen als Minecraft Deko geeignet
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSD8TPT{{</world>}}

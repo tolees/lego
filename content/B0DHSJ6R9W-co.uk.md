@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 modular builds – Each model comprises 3 modular parts that can be combined, allowing kids to mix and match to create an array of toy vehicles
 - Building toys for 7+ year old boys and girls – Triple the excitement with the LEGO City Helicopter, Fire Engine & Submarine Remix set for kids
-- In the box – Elements to build a toy helicopter, submarine and fire engine, plus police officer, helmsman and LEGO City firefighter minifigures
-- Digital building fun – This LEGO submarine set includes instructions in the LEGO Builder app, where kids can save sets, track progress, zoom in and rotate models in 3D
+- 3 modular builds – Each model comprises 3 modular parts that can be combined, allowing kids to mix and match to create an array of toy vehicles
 - Gifts for 7+ year old kids, boys and girls – This 3-model playset makes a fun birthday gift or any-day treat for kids who love LEGO City building toys
+- Digital building fun – This LEGO submarine set includes instructions in the LEGO Builder app, where kids can save sets, track progress, zoom in and rotate models in 3D
+- In the box – Elements to build a toy helicopter, submarine and fire engine, plus police officer, helmsman and LEGO City firefighter minifigures
 - Play without limits – Kids can combine the models in this playset with other building toys (sold separately) from the LEGO City range for more action
 - Realistic play – The toy submarine has posable claw arms, the helicopter has spinning main and tail rotors and the fire engine has an extendable hose
 

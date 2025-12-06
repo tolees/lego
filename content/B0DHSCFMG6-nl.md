@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Combi-ninjavoertuig – dit grote NINJAGO voertuig kan worden opgedeeld in 2 kleinere LEGO voertuigen: Kais mecha en Nyas vliegende motor, zodat kinderen nog meer ninjaverhalen kunnen bedenken tijdens leuke rollenspellen
-- Ninja speelgoed voor kinderen – jongens en meisjes vanaf 7 jaar kunnen confrontaties uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen met Kais mechastormvoertuig
-- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
-- Verjaardagscadeau voor kinderen – dit actiespeelgoed biedt een leuke bouw- en speelervaring en is een mooi verjaardagscadeau voor kinderen die dol zijn op de NINJAGO Dragons Rising tv-serie, rollenspellen en bouwen
-- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed (sets apart verkrijgbaar) om actiescènes na te spelen met Kais mechastormvoertuig
-- 3 NINJAGO minifiguren – de speelset bevat Kai, Nya en een Draconische strijder, elk met accessoires waarmee kinderen epische confrontaties kunnen naspelen
 - Kinderspeelgoed boordevol functies – Kais mecha heeft een verstelbaar hoofd, armen en benen, een cockpit en een stormzwaard. Nyas vliegende motor heeft een cockpit, beweegbare vleugels en 2 schieters met veermechanisme
+- Een universum vol ninjaspeelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
+- 3 NINJAGO minifiguren – de speelset bevat Kai, Nya en een Draconische strijder, elk met accessoires waarmee kinderen epische confrontaties kunnen naspelen
+- Verjaardagscadeau voor kinderen – dit actiespeelgoed biedt een leuke bouw- en speelervaring en is een mooi verjaardagscadeau voor kinderen die dol zijn op de NINJAGO Dragons Rising tv-serie, rollenspellen en bouwen
+- Combi-ninjavoertuig – dit grote NINJAGO voertuig kan worden opgedeeld in 2 kleinere LEGO voertuigen: Kais mecha en Nyas vliegende motor, zodat kinderen nog meer ninjaverhalen kunnen bedenken tijdens leuke rollenspellen
+- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed (sets apart verkrijgbaar) om actiescènes na te spelen met Kais mechastormvoertuig
+- Ninja speelgoed voor kinderen – jongens en meisjes vanaf 7 jaar kunnen confrontaties uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen met Kais mechastormvoertuig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCFMG6{{</world>}}

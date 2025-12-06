@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GIFT FOR ANIMAL LOVERS – This LEGO Friends building set makes a fun birthday gift for 7+ year old girls and boys who love creative storytelling, toy animals and building with LEGO bricks
-- TOY VET SET FOR KIDS – This LEGO Friends Horse and Pet Vet Clinic toy for 7+ year old girls and boys includes 3 mini dolls, 3 toy dogs, a cat and a horse figure
-- ANIMAL CARE ACCESSORIES – This animal playset comes with sunflowers, pet food, a vet’s hat, pet poo elements, shampoo, soap and a cash register
-- ONLINE SHOW – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
-- MINI DOLLS AND ANIMAL FIGURES – Includes Autumn, Olly and Eniko the vet LEGO Friends mini dolls, so kids can tell the story of how the characters visit the vet clinic with the toy animals
 - TOY HORSE AND STABLE – Features Thunder the horse figure, a buildable stable and fun accessories including rider’s helmet, saddle, pitchfork, brush, hay and X-ray results
+- MINI DOLLS AND ANIMAL FIGURES – Includes Autumn, Olly and Eniko the vet LEGO Friends mini dolls, so kids can tell the story of how the characters visit the vet clinic with the toy animals
 - FUN FEATURES – The LEGO Friends building set has a working space for the vet, with an examination table, veterinary equipment and a scale to weigh the animal toys
+- ANIMAL CARE ACCESSORIES – This animal playset comes with sunflowers, pet food, a vet’s hat, pet poo elements, shampoo, soap and a cash register
+- TOY VET SET FOR KIDS – This LEGO Friends Horse and Pet Vet Clinic toy for 7+ year old girls and boys includes 3 mini dolls, 3 toy dogs, a cat and a horse figure
+- ONLINE SHOW – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
+- GIFT FOR ANIMAL LOVERS – This LEGO Friends building set makes a fun birthday gift for 7+ year old girls and boys who love creative storytelling, toy animals and building with LEGO bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDFZGD{{</world>}}

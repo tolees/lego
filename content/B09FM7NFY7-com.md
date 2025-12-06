@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Features 3 incredible jewelry box builds, 3 mini doll figures with diamond dresses inspired by Disney movies, and a LEGO DOTS bracelet!
 - Full of creative recreations of settings from animated movies & a LEGO DOTS bracelet, this set makes a magical gift for kids aged 6+
-- Let kids replay movie-based scenes with mini doll figures, build the jewelry box toys and use Merida’s tower as a pen holder to keep desk neat!
 - Wow the playground with this LEGO Disney Princess buildable toy coming with Interactive digital building zoom, rotate and visualize tools
+- Let kids replay movie-based scenes with mini doll figures, build the jewelry box toys and use Merida’s tower as a pen holder to keep desk neat!
 - To boost the fun, collect other diamond dress princesses from the LEGO Disney Diamond Dress collection (sold separately) for endless adventures
+- Features 3 incredible jewelry box builds, 3 mini doll figures with diamond dresses inspired by Disney movies, and a LEGO DOTS bracelet!
 - This 558-piece set includes 3 buildable items with functions for each princess & a diamond dress designed to store a mini doll figure inside
 
 [🛒 Buy it now!!]({{< param buyurl >}})

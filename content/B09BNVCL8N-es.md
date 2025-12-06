@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Basados en la vida real: Los sets LEGO City vienen con edificios, vehículos y personajes que inspiran el juego de interpretación imaginativo basado en escenarios de la vida real
-- Accesorios LEGO para minifiguras: El juego Coche de Policía cuenta con una linterna de juguete y un elemento que representa una gorra de policía para la minifigura incluida de un agente de policía
-- Para jugar en cualquier lugar: Cuando se termina de construir, el Coche de Policía de juguete mide aproximadamente 4 cm de altura, 11 cm de longitud y 5 cm de anchura. Es perfecto para que los peques jueguen dondequiera que vayan
-- ¿Qué contiene la caja? Todo lo que los peques necesitan para construir un coche de policía de juguete con espacio detrás del volante para la minifigura incluida de un agente de policía
-- Coche de policía de juguete para niños a partir de 5 años: Da un paso más en el juego creativo con el set LEGO City Coche de Policía (60312), con el que puedes construir y jugar
-- La seguridad es lo primero: Los componentes LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para verificar que satisfacen estrictos estándares mundiales de seguridad
-- Un regalo divertido para cualquier momento: El juguete LEGO City Coche de Policía es genial como regalo con motivo de un cumpleaños o una fiesta, o porque sí, para niños a partir de 5 años
-- Garantía de calidad: Todos los componentes LEGO cumplen rigurosas normas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y proporcionan una entretenida experiencia de construcción; así ha sido desde 1958
 - Juguete para construir y jugar con imaginación: Los niños pueden explorar el Coche de Policía de juguete mientras lo construyen, antes de poner al agente de policía al volante y salir a perseguir a los ladrones
+- Coche de policía de juguete para niños a partir de 5 años: Da un paso más en el juego creativo con el set LEGO City Coche de Policía (60312), con el que puedes construir y jugar
+- Para jugar en cualquier lugar: Cuando se termina de construir, el Coche de Policía de juguete mide aproximadamente 4 cm de altura, 11 cm de longitud y 5 cm de anchura. Es perfecto para que los peques jueguen dondequiera que vayan
+- Accesorios LEGO para minifiguras: El juego Coche de Policía cuenta con una linterna de juguete y un elemento que representa una gorra de policía para la minifigura incluida de un agente de policía
+- La seguridad es lo primero: Los componentes LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para verificar que satisfacen estrictos estándares mundiales de seguridad
+- Garantía de calidad: Todos los componentes LEGO cumplen rigurosas normas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y proporcionan una entretenida experiencia de construcción; así ha sido desde 1958
 - Orientación para jóvenes constructores: Este set de construcción se acompaña de una guía de construcción impresa con imágenes y de instrucciones de construcción digitales, disponibles en la app Instrucciones de Montaje LEGO
+- ¿Qué contiene la caja? Todo lo que los peques necesitan para construir un coche de policía de juguete con espacio detrás del volante para la minifigura incluida de un agente de policía
+- Basados en la vida real: Los sets LEGO City vienen con edificios, vehículos y personajes que inspiran el juego de interpretación imaginativo basado en escenarios de la vida real
+- Un regalo divertido para cualquier momento: El juguete LEGO City Coche de Policía es genial como regalo con motivo de un cumpleaños o una fiesta, o porque sí, para niños a partir de 5 años
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNVCL8N{{</world>}}

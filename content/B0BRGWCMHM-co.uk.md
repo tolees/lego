@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kids bedroom decoration – The LEGO heart makes a great home décor piece for display, or as a wall decoration for kids bedrooms
-- A celebration of love – Older kids with a passion for interior design can build a LEGO Heart Ornament toy for 9+ year old girls and boys
-- Highly customisable building toy – Kids can use the LEGO flowers, leaves and smaller hearts to decorate the display model
 - Heart Gifts – This building toy celebrating love, makes a great anytime treat or creative birthday gift for 9+ year old girls and boys
+- Highly customisable building toy – Kids can use the LEGO flowers, leaves and smaller hearts to decorate the display model
+- A celebration of love – Older kids with a passion for interior design can build a LEGO Heart Ornament toy for 9+ year old girls and boys
 - Creative building ideas – The LEGO building set also includes 2 inspirational images to spark kids’ creativity as they build
 
 [🛒 Check the deal!!]({{< param buyurl >}})

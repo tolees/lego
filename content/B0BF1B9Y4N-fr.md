@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- La plus grande liste de personnages jouables de la série LEGO Star Wars
 - Version code In Box (Code de téléchargement)
+- La plus grande liste de personnages jouables de la série LEGO Star Wars
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BF1B9Y4N{{</world>}}

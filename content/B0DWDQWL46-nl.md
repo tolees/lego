@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- 4 Friends minifiguren en 2 dolfijnen dieren figuren – deze speelgoed dieren en boot set bevat poppetjes van Paisley, Zac, Celine en Sky, plus figuren van een dolfijn en een babydolfijn
+- Speelgoed boot vol leuke kenmerken – kinderen kunnen de LEGO boot bouwen en vervolgens hun eigen verhalen voor de Friends personages bedenken waarin de vrienden spelen, zich ontspannen in het bubbelbad op de boot en dolfijnen spotten
 - Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
 - Boordevol leuke accessoires voor rollenspellen – deze LEGO speelset bevat accessoires voor rollenspellen, waaronder 2 waterscooters, een surfplank, zwemvliezen, reddingsvesten, eten en drinken, een zwemband en meer
-- 4 Friends minifiguren en 2 dolfijnen dieren figuren – deze speelgoed dieren en boot set bevat poppetjes van Paisley, Zac, Celine en Sky, plus figuren van een dolfijn en een babydolfijn
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 - Bouwpakket voor kinderen boordevol verhalen – de set Avontuurlijke bootreis voor meisjes en jongens vanaf 8 jaar bevat 4 Friends poppetjes, 2 dolfijnen dieren figuren en accessoires voor fantasierijk speelplezier
-- Speelgoed boot vol leuke kenmerken – kinderen kunnen de LEGO boot bouwen en vervolgens hun eigen verhalen voor de Friends personages bedenken waarin de vrienden spelen, zich ontspannen in het bubbelbad op de boot en dolfijnen spotten
 - Cadeau voor meisjes en jongens – deze speelgoedboot is een leuk cadeau voor kinderen die graag doen alsof en hun eigen vriendschapsverhalen bedenken
 
 [🛒 Buy it!!]({{< param buyurl >}})

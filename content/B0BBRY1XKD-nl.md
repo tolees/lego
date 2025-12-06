@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Breng iconen uit de wereld van kunst, muziek en film tot leven met LEGO Art sets voor volwassenen en ga helemaal op in een leuke creatieve hobby, een leuk valentijnscadeau voor hem en haar
-- Breng één van de meest iconische kunstwerken uit de laatste twee eeuwen tot leven met de LEGO Art Hokusai - De grote golf DIY set, met prachtige 3D kunst voor aan de muur
+- Dit leuke huisdecoratie knutselpakket voor volwassenen bevat 1810 onderdelen, 6 platen voor aan de muur, 2 ophangelementen, een stenenwipper en een decoratieve tegel met Hokusais handtekening
 - Deze ingelijste Japanse LEGO wanddecoratie is een fantastisch pronkstuk dat je vol trots kunt ophangen in huis of in de werkkamer - deze indrukwekkende decoratie is een fantastisch cadeau voor liefhebbers van kunst en design
 - Neem de tijd om te ontspannen terwijl je deze iconische LEGO Art set bouwt - scan de QR-code en luister naar een bijpassende soundtrack terwijl je geniet van een creatieve activiteit
 - Dit eerbetoon aan Hokusais schilderij van De grote golf wordt geleverd met een geïllustreerd boekje met details over zijn kunst, en instructies om je te helpen tijdens het bouwproces
-- Dit leuke huisdecoratie knutselpakket voor volwassenen bevat 1810 onderdelen, 6 platen voor aan de muur, 2 ophangelementen, een stenenwipper en een decoratieve tegel met Hokusais handtekening
+- Breng één van de meest iconische kunstwerken uit de laatste twee eeuwen tot leven met de LEGO Art Hokusai - De grote golf DIY set, met prachtige 3D kunst voor aan de muur
+- Breng iconen uit de wereld van kunst, muziek en film tot leven met LEGO Art sets voor volwassenen en ga helemaal op in een leuke creatieve hobby, een leuk valentijnscadeau voor hem en haar
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBRY1XKD{{</world>}}

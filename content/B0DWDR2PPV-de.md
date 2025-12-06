@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Weck die Kreativität der Kinder: LEGO Super Mario Spielsets lassen sich für spannende Rollenspiele, Challenges und zum Sammeln digitaler Münzen vielseitig erweitern und umgestalten; andere Fans können ebenfalls mitspielen
-- LEGO Super Mario Welt erweitern: Ergänze deine Sammlung mit weiteren Mario Kart Sets; entdecke neue LEGO Rennautos und Nintendo Figuren für abwechslungsreiche Rennen und spannende Duelle
-- Interaktives Spielzeug für Mädchen und Jungen: In Verbindung mit LEGO Mario, Luigi oder Peach (nicht enthalten) werden Sounds wie Hupen oder Driften ausgelöst
-- Spielzeug mit Figuren: Das LEGO Set enthält Bowser, Yoshi, einen Steinblock und einen Lava Blub; ein originelles Mitbringsel für Kinder, das mit liebevollen Details punktet
-- LEGO Super Mario Festung bauen: Dieses Super Mario: Mario Kart Set lässt Kinder Rennen mit Bowser und Yoshi fahren; die Flitzer durchbrechen Mauern und weichen dem pendelnden Steinblock geschickt aus
-- Geschenk für Kinder ab 9 Jahre mit Gaming Leidenschaft: Dieses LEGO Nintendo Set enthält beliebte Charaktere und sorgt bei Jungen und Mädchen und Fans ab 9 für jede Menge Bauspaß und Rennen voller Überraschungen
 - LEGO Mario Kart Rennstrecke gestalten: Die beiden Fahrzeuge rasen durchs Tor, schleudern Muscheln und müssen einem kreisenden Feuerbalken ausweichen, ein spannendes Spielzeug für Jungen mit jede Menge Action
+- Geschenk für Kinder ab 9 Jahre mit Gaming Leidenschaft: Dieses LEGO Nintendo Set enthält beliebte Charaktere und sorgt bei Jungen und Mädchen und Fans ab 9 für jede Menge Bauspaß und Rennen voller Überraschungen
+- Weck die Kreativität der Kinder: LEGO Super Mario Spielsets lassen sich für spannende Rollenspiele, Challenges und zum Sammeln digitaler Münzen vielseitig erweitern und umgestalten; andere Fans können ebenfalls mitspielen
+- LEGO Super Mario Festung bauen: Dieses Super Mario: Mario Kart Set lässt Kinder Rennen mit Bowser und Yoshi fahren; die Flitzer durchbrechen Mauern und weichen dem pendelnden Steinblock geschickt aus
+- LEGO Super Mario Welt erweitern: Ergänze deine Sammlung mit weiteren Mario Kart Sets; entdecke neue LEGO Rennautos und Nintendo Figuren für abwechslungsreiche Rennen und spannende Duelle
+- Spielzeug mit Figuren: Das LEGO Set enthält Bowser, Yoshi, einen Steinblock und einen Lava Blub; ein originelles Mitbringsel für Kinder, das mit liebevollen Details punktet
+- Interaktives Spielzeug für Mädchen und Jungen: In Verbindung mit LEGO Mario, Luigi oder Peach (nicht enthalten) werden Sounds wie Hupen oder Driften ausgelöst
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDR2PPV{{</world>}}

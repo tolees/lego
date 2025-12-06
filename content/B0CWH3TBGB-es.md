@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Instrucciones de construcción 3D: prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, seguir tus progresos y guardar sets
-- Coche de carreras LEGO Technic para adultos: el kit de maquetas McLaren P1 para adultos, cargado de detalles de gran realismo, permite construir una maqueta coleccionable a escala 1:8 para fans de los supercoches
-- Motor de pistones V8 y más: disfruta dando forma a los detalles de este absorbente proyecto, como la caja de cambios de 7 velocidades con tambor de cambio, las puertas que se abren, el alerón trasero ajustable y el motor de pistones V8
-- Un regalo para padres amantes de los coches: esta maqueta de coche es un gran regalo por el Día del Padre para entusiastas de los supercoches y fans de McLaren, ya que les ofrece tanto un proyecto creativo como una preciada pieza de exposición
 - Maqueta de coche a escala 1:8 para exponer como decoración del hogar o la oficina: desde la experiencia de desembalaje hasta el proyecto de construcción, este kit de maquetas plantea un gratificante desafío a los fans de LEGO Technic
+- Un regalo para padres amantes de los coches: esta maqueta de coche es un gran regalo por el Día del Padre para entusiastas de los supercoches y fans de McLaren, ya que les ofrece tanto un proyecto creativo como una preciada pieza de exposición
+- Motor de pistones V8 y más: disfruta dando forma a los detalles de este absorbente proyecto, como la caja de cambios de 7 velocidades con tambor de cambio, las puertas que se abren, el alerón trasero ajustable y el motor de pistones V8
+- Coche de carreras LEGO Technic para adultos: el kit de maquetas McLaren P1 para adultos, cargado de detalles de gran realismo, permite construir una maqueta coleccionable a escala 1:8 para fans de los supercoches
 - Cubierta con el número de serie: como el coche de carreras de verdad, la versión LEGO Technic tiene su propio número de serie, que te proporciona acceso a contenido en línea exclusivo
 
 [🛒 Check the deal!!]({{< param buyurl >}})

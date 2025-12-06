@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Racing gifts for kids – NASCAR playset is a fun build-and-play experience and a gift idea for 9+ year old boys, girls, NASCAR fans and collectors
 - Cool kids bedroom decoration – After kids have raced the buildable LEGO model car, they can proudly display it on a shelf or bedside table
 - LEGO minifigure – Collectible Chevy toy includes a NASCAR driver minifigure with helmet that kids can place behind the wheel to stage NASCAR races
-- Authentic Chevrolet details – This race car toy model features distinctive rear spoiler, front grille, headlights and realistic interior details
+- Play-and-display iconic vehicle toys – LEGO Speed Champions building sets let kids and car fans build replica versions of some of the world’s most famous vehicles
 - Bigger racing adventures – Look out for more LEGO Speed Champions vehicles playsets (sets sold separately) with authentic details, great for independent play
 - NASCAR toy car for kids – LEGO Speed Champions NASCAR Next Gen Chevrolet Camaro ZL1 racing car toy for 9+ year old boys and girls and NASCAR fans
-- Play-and-display iconic vehicle toys – LEGO Speed Champions building sets let kids and car fans build replica versions of some of the world’s most famous vehicles
+- Authentic Chevrolet details – This race car toy model features distinctive rear spoiler, front grille, headlights and realistic interior details
+- Racing gifts for kids – NASCAR playset is a fun build-and-play experience and a gift idea for 9+ year old boys, girls, NASCAR fans and collectors
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH47XBT{{</world>}}

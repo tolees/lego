@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lots of toy accessories – Vet medical toys and toy food included: cherries, a strawberry, a bee, biscuits, a carrot, a mug and a shampoo bottle
 - Discover more fun role-play toys – Check out other LEGO Friends playsets for young builders (sets sold separately) to inspire creative stories
 - Transport the goats on the toy tractor – Kids can act out the story as they give the new mum and her baby a ride to the vet toy clinic
+- LEGO Friends Farm Animal Vet Clinic toy – The set includes 2 mini-dolls, 3 animal figures and fun accessories for 4+ year old girls, boys and kids
+- 2 mini-dolls and 3 animal figures – The set includes LEGO Friends characters Autumn and Gabriela, plus a goat toy with her baby and a rabbit toy
+- Lots of toy accessories – Vet medical toys and toy food included: cherries, a strawberry, a bee, biscuits, a carrot, a mug and a shampoo bottle
 - A gift idea for kids – This LEGO Friends set makes a fun role-play Christmas gift for 4+ year old girls, boys and kids who love toy farm animals and building toys
 - LEGO 4+ role-play toy – Children who are just learning to build can help Autumn and Gabriela care for the goat toy, who has just given birth
-- 2 mini-dolls and 3 animal figures – The set includes LEGO Friends characters Autumn and Gabriela, plus a goat toy with her baby and a rabbit toy
-- LEGO Friends Farm Animal Vet Clinic toy – The set includes 2 mini-dolls, 3 animal figures and fun accessories for 4+ year old girls, boys and kids
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYYCS7{{</world>}}

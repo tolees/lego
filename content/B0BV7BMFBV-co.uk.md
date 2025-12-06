@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Sonic the Hedgehog Amy’s Animal Rescue Island toy set for kids aged 7+ features an activity-packed island with 6 characters and loads of fun!
-- The set also includes a drawbridge with a waterfall trap, and a bucket with sand elements for kids to have fun building toy sand castles
-- This LEGO Sonic the Hedgehog toy set makes a fun birthday gift or any-other-day toy treat for kids, boys and girls aged 7 plus years old who love Sonic, gaming toys and animals
-- Kids can download the LEGO Builder app that guides them on an intuitive building adventure with tools to zoom in and rotate models in 3D, save sets and track progress
 - With 2 ways to play - kids can set traps to outwit Badnik, then enjoy animal care role-play as they help Amy and Tails look after the animals
-- This Sonic LEGO set includes a buildable island, 6 Sonic the Hedgehog characters: Amy, a Tails figure, plus Crabmeat, Picky, Pocky and a Flicky
 - With this Sonic the Hedgehog buildable game, young fans can build a colourful island full of fun features including a slide, pool and merry-go-round
+- This LEGO Sonic the Hedgehog toy set makes a fun birthday gift or any-other-day toy treat for kids, boys and girls aged 7 plus years old who love Sonic, gaming toys and animals
+- This Sonic LEGO set includes a buildable island, 6 Sonic the Hedgehog characters: Amy, a Tails figure, plus Crabmeat, Picky, Pocky and a Flicky
+- Kids can download the LEGO Builder app that guides them on an intuitive building adventure with tools to zoom in and rotate models in 3D, save sets and track progress
+- The set also includes a drawbridge with a waterfall trap, and a bucket with sand elements for kids to have fun building toy sand castles
+- LEGO Sonic the Hedgehog Amy’s Animal Rescue Island toy set for kids aged 7+ features an activity-packed island with 6 characters and loads of fun!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV7BMFBV{{</world>}}

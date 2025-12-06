@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Inclusief een vat – de set wordt geleverd met een vat als accessoire, dat kinderen kunnen oppakken met de uitschuifbare grijparm van de onderzeeër
+- Cockpit die open kan – de transparante cockpit kan worden geopend voor toegang tot de stoel en de bedieningselementen
 - Onderzeeër speelgoed voor kinderen van 9 jaar en ouder – laat jonge wetenschappers en techniekliefhebbers hun eigen diepzeeavonturen bedenken met deze LEGO Technic Onderzeeër voor diepzeeonderzoek
-- Veel realistische functies – dit creatieve bouwpakket voor kinderen bevat veel realistische kenmerken, zoals de draaiende propellers en de grijparm, zodat kinderen kunnen ontdekken hoe onderzeeërs werken
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
 - Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
 - Leuk cadeau voor jongens en meisjes – deze set is een leuk cadeau voor kinderen die graag wetenschappelijk en technisch speelgoed ontdekken en voor iedereen die geïnteresseerd is in onderzeeërs en onderwatermissies
-- Cockpit die open kan – de transparante cockpit kan worden geopend voor toegang tot de stoel en de bedieningselementen
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Veel realistische functies – dit creatieve bouwpakket voor kinderen bevat veel realistische kenmerken, zoals de draaiende propellers en de grijparm, zodat kinderen kunnen ontdekken hoe onderzeeërs werken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSFG8F3{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Expand life skills – With two Disney puppy figures, small builds and posing features, this creative construction toy helps kids develop storytelling skills, creativity and confidence through play
 - Build together – Kids, pet lovers and adult fans can expand the fun by combining this building toy with the 101 Dalmatians Puppy set (43269, sold separately) for a classic Disney dogs experience
 - Buildable toy dogs for pet lovers – This LEGO | Disney Lucky and Penny 101 Dalmatians building toy for 6+ year old girls and boys inspires imaginative animal figure play and fun adventures
+- Expand life skills – With two Disney puppy figures, small builds and posing features, this creative construction toy helps kids develop storytelling skills, creativity and confidence through play
 - Cute Disney gift idea for kids – This building toy makes a fun gift for 6+ year old girls and boys who love dogs, pets, creative animal figures, and Disney toys
-- Toy dog figures ready for play – The buildable Disney puppy characters have movable heads, legs and tails, and can be posed standing up, sitting, or lying down for endless imaginative play
 - Disney building toy for kids – Create Lucky and Penny, play out fun pet stories and display the adorable toy dogs once playtime is over, delighting dog lovers of all ages
+- Toy dog figures ready for play – The buildable Disney puppy characters have movable heads, legs and tails, and can be posed standing up, sitting, or lying down for endless imaginative play
 - Dalmatian puppies – This kids’ building toy features Lucky and Penny animal figures from the classic 101 Dalmatians film, plus a brick-built bone and a small TV with a printed screen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

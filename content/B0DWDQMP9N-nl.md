@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Speelgoed voor kinderen met veel accessoires – ontdek details zoals een koffiezetapparaat, koelkast, oven, kraan, tafel, gebak, drankjes, krukken, boeketten, potplanten, een schaar, een gieter en meer
 - 4 LEGO Friends personages – deze set met café bevat Friends minifiguren van Aliya, Esma, Olly en Nova, plus een speelgoed dieren figuur van Nugget de kat en veel etensaccessoires, planten en LEGO bloemen
+- Creatief cadeau voor meisjes en jongens – deze set is een geweldig cadeau voor kinderen die graag gedetailleerde modelsets bouwen en neerzetten als kinderkamer decoratie
 - Bouwpakket voor kinderen boordevol vriendschap – laat de fantasie van kinderen groeien met de set LEGO Friends Plantencafé en bloemenwinkel voor meisjes en jongens met een speelgoedwinkel, een café en een speelgoedtram
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 - Vertel verhalen over vriendschap – met de LEGO Friends sets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
 - Fantasierijke set voor creatieve rollenspellen – deze gedetailleerde LEGO set bevat verschillende gedeelten die vriendschapsverhalen inspireren, waaronder een bloemenwinkel, een café met zitplaatsen, een speelgoed keuken en een tram
-- Creatief cadeau voor meisjes en jongens – deze set is een geweldig cadeau voor kinderen die graag gedetailleerde modelsets bouwen en neerzetten als kinderkamer decoratie
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Speelgoed voor kinderen met veel accessoires – ontdek details zoals een koffiezetapparaat, koelkast, oven, kraan, tafel, gebak, drankjes, krukken, boeketten, potplanten, een schaar, een gieter en meer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQMP9N{{</world>}}

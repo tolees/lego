@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Stadt ohne Limits: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und kreativ mit Bauwerken, Fahrzeugen und Figuren spielen, die zum Bauen und Erkunden einladen
-- Geschenkidee für Formel 1 Fans: Überrasche einen jungen Nachwuchsrennfahrer mit diesem LEGO City Formel 1 Bauset für Jungen und Mädchen ab 8 Jahren
-- Noch mehr rasante F1 Action: Schau dir noch weitere (separat erhältliche) LEGO Formel 1 Sets zum Bauen und Ausstellen an, die spannende Rennen mit der ganzen Familie ermöglichen
 - Originalgetreues Modell: Auf dem Auflieger befinden sich ein Formel 1 Simulatorraum und eine Doppelladefläche mit Heckklappe und vollständig aufklappbaren Seitenwänden; Mithilfe der Laderampen lassen sich die F1 Rennwagen RB20 und AMR24 aufladen
-- Formel 1 Set mit digitaler Bauanleitung: Zu dem Set sind auch Anleitungen in der LEGO Builder App verfügbar; In der App können Kinder beim Bauen 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern
+- Noch mehr rasante F1 Action: Schau dir noch weitere (separat erhältliche) LEGO Formel 1 Sets zum Bauen und Ausstellen an, die spannende Rennen mit der ganzen Familie ermöglichen
 - LEGO F1 Bauspielzeug mit Autotransporter: Der LEGO City F1 Transporter mit RB20 & AMR24 F1 Rennautos ist ein Premium-Spielset für junge Formel 1 Fans ab 8 Jahren
+- Formel 1 Set mit digitaler Bauanleitung: Zu dem Set sind auch Anleitungen in der LEGO Builder App verfügbar; In der App können Kinder beim Bauen 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern
+- Geschenkidee für Formel 1 Fans: Überrasche einen jungen Nachwuchsrennfahrer mit diesem LEGO City Formel 1 Bauset für Jungen und Mädchen ab 8 Jahren
 - Inhalt der Box: Alles, was Kinder brauchen, um einen LEGO F1 Spielzeug Autotransporter mit Auflieger und 2 Formel 1 Modellautos zu bauen, sowie 5 Minifiguren (2 Rennfahrer und 3 Mitglieder der Boxencrew) und ein Siegerpokal
 
 [🛒 Check the deal!!]({{< param buyurl >}})

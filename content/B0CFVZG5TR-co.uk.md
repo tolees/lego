@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A helping hand – The LEGO Builder app lets your kids save sets, track their progress, zoom in and rotate their LEGO building toy set in 3D
-- Disney gift for kids – A building toy set featuring a Disney character with functions and accessories that makes a fun gift for 9+ year old girls and boys
-- Expand life skills – With a LEGO ǀ Disney buildable toy character, accessories and functions to enhance display, this kids’ building toy helps foster life skills through fun
-- Disney’s Lilo and Stitch – Buildable LEGO ǀ Disney Stitch toy for 9 plus year old girls and boys, that sparks fans imaginations
 - Fun display – Create Stitch in his Hawaiian shirt, move his head and ears into different positions to show new expressions, then display him
+- Disney’s Lilo and Stitch – Buildable LEGO ǀ Disney Stitch toy for 9 plus year old girls and boys, that sparks fans imaginations
+- A helping hand – The LEGO Builder app lets your kids save sets, track their progress, zoom in and rotate their LEGO building toy set in 3D
 - Disney Stitch character – This LEGO set features a displayable model from Lilo and Stitch, a buildable ice-cream cone and a decorative flower
+- Disney gift for kids – A building toy set featuring a Disney character with functions and accessories that makes a fun gift for 9+ year old girls and boys
 - Moving parts – The Disney Stitch figure includes ears that can move up or down and a turning head, plus a hand that can hold the ice-cream cone
+- Expand life skills – With a LEGO ǀ Disney buildable toy character, accessories and functions to enhance display, this kids’ building toy helps foster life skills through fun
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZG5TR{{</world>}}

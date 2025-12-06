@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Lässt sich mit den Sets 41348 Abschleppwagen, 41349 Burgerladen und 41352 Das große Rennen kombinieren, um jede Menge LEGO Friends Rennspaß mit den Gokarts zu erleben!
+- Die Tuning-Werkstatt ist 16 cm hoch, 25 cm breit und 6 cm tief.
 - Benutze die Startfunktion, um Emma zu ihren Freundinnen flitzen zu lassen.
 - Enthält 2 Spielfiguren: Emma und Dean in Renn-Outfits mit Helmen sowie den Kater Chico als weitere Figur.
-- Die Tuning-Werkstatt ist 16 cm hoch, 25 cm breit und 6 cm tief.
 - Benutze alle Elemente, um fantastische Gokarts für Emma und Dean zu bauen und diese ganz individuell zu gestalten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

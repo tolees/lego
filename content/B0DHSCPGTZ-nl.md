@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief 4 LEGO Friends poppetjes en 2 speelgoed dieren figuren – er zijn 4 personages en figuren van een hond en een wasbeer, plus accessoires zoals zonnebloemen, groenten, snacks, een keyboard, een werkbank met gereedschap en meer
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
-- Ladder, glijbaan en hondenlift – leuke functies zijn onder andere de intrekbare ladder, de glijbaan en de lift die door Gurkie de hond wordt gebruikt om toegang te krijgen tot de verschillende verdiepingen van de boomhut
-- Een boomhutspeelset voor kinderen – deze kinderspeelgoed set is een geweldig cadeau voor meisjes, jongens en kinderen vanaf 8 jaar die van dieren, de natuur en rollenspellen over vriendschap houden
 - Een set vol vriendschapsverhalen – de speelset inspireert kinderen om verschillende verhalen na te spelen met ruimtes in de boomhut voor de personages om in te spelen, te koken en te slapen, plus een groenteperceel
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Inclusief 4 LEGO Friends poppetjes en 2 speelgoed dieren figuren – er zijn 4 personages en figuren van een hond en een wasbeer, plus accessoires zoals zonnebloemen, groenten, snacks, een keyboard, een werkbank met gereedschap en meer
+- Ladder, glijbaan en hondenlift – leuke functies zijn onder andere de intrekbare ladder, de glijbaan en de lift die door Gurkie de hond wordt gebruikt om toegang te krijgen tot de verschillende verdiepingen van de boomhut
 - Boomhut bouwpakket voor kinderen – deze boomhutset voor meisjes en jongens vanaf 8 jaar bevat aanpasbare elementen en veel accessoires voor creatieve rollenspellen
+- Een boomhutspeelset voor kinderen – deze kinderspeelgoed set is een geweldig cadeau voor meisjes, jongens en kinderen vanaf 8 jaar die van dieren, de natuur en rollenspellen over vriendschap houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCPGTZ{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BIRTHDAY GIFT IDEA – This feature-packed LEGO City train set is a great birthday gift for 7+ year old boys and girls who love interactive toys, as well as creative play
-- A CITY WITHOUT LIMITS – Upgrade with LEGO 88005 (sold separately) to enable working lights and expand the adventure by adding this train track set to other LEGO City playsets (sold separately)
-- WHATS IN THE BOX? – A remote-controlled train toy with a passenger coach, flat wagon, outpost, mountain tunnel, mine cave, 22 LEGO train track pieces, a Johnny Thunder minifigure, 5 explorers and 2 Arctic fox figures
-- DIGITAL GUIDE – The LEGO Builder app takes kids on an intuitive building journey with tools to zoom in, rotate models in 3D, and track progress as they build
 - FUN FEATURES – Kids can drive the train model through the mountain tunnel to activate a rockfall, rotate the cargo carriage’s 360-degree camera seat, and send the LEGO minifigures down a zip line
-- POWERED UP TRAIN SET – Kids can operate the remote-controlled train using the included remote or a smart device with the LEGO Powered Up app; Remote requires 10 x LR03 (AAA) batteries, not included
 - REMOTE CONTROLLED LEGO TRAIN SET – Fans of STEM and interactive toys will love this LEGO City Explorers’ Arctic Polar Express Train set, a feature-packed building toy for 7+ year old boys and girls
+- A CITY WITHOUT LIMITS – Upgrade with LEGO 88005 (sold separately) to enable working lights and expand the adventure by adding this train track set to other LEGO City playsets (sold separately)
+- BIRTHDAY GIFT IDEA – This feature-packed LEGO City train set is a great birthday gift for 7+ year old boys and girls who love interactive toys, as well as creative play
+- DIGITAL GUIDE – The LEGO Builder app takes kids on an intuitive building journey with tools to zoom in, rotate models in 3D, and track progress as they build
+- POWERED UP TRAIN SET – Kids can operate the remote-controlled train using the included remote or a smart device with the LEGO Powered Up app; Remote requires 10 x LR03 (AAA) batteries, not included
+- WHATS IN THE BOX? – A remote-controlled train toy with a passenger coach, flat wagon, outpost, mountain tunnel, mine cave, 22 LEGO train track pieces, a Johnny Thunder minifigure, 5 explorers and 2 Arctic fox figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDSYCZV{{</world>}}

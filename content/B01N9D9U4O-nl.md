@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bouw meer LEGO planten – deze LEGO bamboeplant kan worden neergezet naast andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection
-- LEGO Builder app – deze set bevat gedrukte en digitale versies van de bouwinstructies voor een boeiende bouwervaring
-- Leuk cadeau voor vrouw of man met natuurthema – geef de plant cadeau voor Valentijnsdag, een verjaardag, Moederdag, Vaderdag, het afstuderen of een housewarming aan iemand die van planten houdt
-- Geluksplant – de bamboeplant, die in de traditionele kunst de zomer vertegenwoordigt, brengt zijn eigenaar geluk
 - Bouwbare LEGO planten decoratie – geniet van een rustgevend, op de natuur geïnspireerd project met het LEGO Botanicals Bamboe bouwpakket voor volwassenen
-- Onderhoudsvrije planten decoratie – eenmaal voltooid vormt deze LEGO plant een rustgevend stukje decoratie voor thuis of op kantoor
 - Kunstplant met authentieke details – de LEGO bamboe plant bevat een pot op een sokkel met houteffect, kiezelsteentjes en 3 groene bamboestengels met bladeren voor een levensechte uitstraling
+- Geluksplant – de bamboeplant, die in de traditionele kunst de zomer vertegenwoordigt, brengt zijn eigenaar geluk
+- Bouw meer LEGO planten – deze LEGO bamboeplant kan worden neergezet naast andere sets (apart verkrijgbaar) uit de LEGO Botanicals collection
+- Onderhoudsvrije planten decoratie – eenmaal voltooid vormt deze LEGO plant een rustgevend stukje decoratie voor thuis of op kantoor
+- Leuk cadeau voor vrouw of man met natuurthema – geef de plant cadeau voor Valentijnsdag, een verjaardag, Moederdag, Vaderdag, het afstuderen of een housewarming aan iemand die van planten houdt
+- LEGO Builder app – deze set bevat gedrukte en digitale versies van de bouwinstructies voor een boeiende bouwervaring
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N9D9U4O{{</world>}}

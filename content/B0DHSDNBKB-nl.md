@@ -29,13 +29,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Accessoires voor LEGO minifiguren – deze zeepkistenset bevat accessoires voor fantasierijk spel waaronder een rolstoel, een trofee, een selfiestick en een gereedschapsrek voor monteurs
-- Speelgoed boordevol details voor fantasierijk speelplezier – kinderen zetten de hotdog- en toiletzeepkisten boven aan de schans en drukken op een hendel om ze vanaf de startlijn weg te laten racen
-- Afmetingen – de schans in deze 436-delige raceautoset is ca. 22 cm hoog, 33 cm breed en 14 cm diep
 - Digitaal bouwplezier – deze racewagenset bevat instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden, tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
-- Grenzeloze actie – combineer dit raceautospeelgoed met andere speelsets (apart verkrijgbaar) uit het LEGO City assortiment voor nog meer razendsnel speelplezier
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een schans, zeepkisten in de vorm van een hotdog en een toilet te bouwen, plus 4 minifiguren waaronder een hotdogverkoper en een loodgieter als coureurs
-- Zeepkistenraceset – laat kinderen razendsnelle races naspelen met deze LEGO City Snelle schans voor raceautos zeepkistenset voor voertuigliefhebbers vanaf 6 jaar
 - Creatief cadeau voor kinderen – geef deze LEGO speelgoedschans cadeau voor de feestdagen of een verjaardag aan jongens en meisjes van 6 jaar en ouder
+- Afmetingen – de schans in deze 436-delige raceautoset is ca. 22 cm hoog, 33 cm breed en 14 cm diep
+- Grenzeloze actie – combineer dit raceautospeelgoed met andere speelsets (apart verkrijgbaar) uit het LEGO City assortiment voor nog meer razendsnel speelplezier
+- Zeepkistenraceset – laat kinderen razendsnelle races naspelen met deze LEGO City Snelle schans voor raceautos zeepkistenset voor voertuigliefhebbers vanaf 6 jaar
+- Speelgoed boordevol details voor fantasierijk speelplezier – kinderen zetten de hotdog- en toiletzeepkisten boven aan de schans en drukken op een hendel om ze vanaf de startlijn weg te laten racen
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een schans, zeepkisten in de vorm van een hotdog en een toilet te bouwen, plus 4 minifiguren waaronder een hotdogverkoper en een loodgieter als coureurs
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDNBKB{{</world>}}

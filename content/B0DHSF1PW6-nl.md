@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 1 F1 coureur minifiguur – de LEGO voertuig set bevat een minifiguur van een Formule 1 coureur in een Alpine outfit met een helm die kinderen in de cockpit kunnen plaatsen om spannende F1 races
-- F1 cadeau voor jongens, meisjes en volwassenen – dit F1 racewagen speelgoed biedt een leuke bouw- en speelervaring en is een leuk LEGO cadeau voor kinderen vanaf 10 jaar, Formule 1 fans en volwassen verzamelaars van automodellen
-- Alpine F1 Team auto speelgoed voor kinderen – LEGO Speed Champions BWT Alpine F1 Team A524 racewagen auto bouwpakket voor kinderen vanaf 10 jaar om te bouwen, neer te zetten en mee te racen
-- Bouw iconische automodellen – met LEGO Speed Champions sets kunnen kinderen en autoliefhebbers van stenen gebouwde versies maken van een aantal van de meest beroemde voertuigen ter wereld
-- F1 plezier voor het hele gezin – race samen met het hele gezin om de geblokte vlag met andere bouwsets (apart verkrijgbaar) uit de LEGO F1 serie
-- LEGO auto boordevol authentieke BWT Alpine F1 Team details – een LEGO F1 racewagen met ontwerpdetails van de echte versie uit 2024, inclusief halo, achtervleugel, sponsorstickers en bredere achterbanden met Pirelli erop gedrukt
 - Formule 1 decoratie – nadat kinderen hebben genoten van het naspelen van raceverhalen met de F1 speelgoed auto kunnen ze hem op een plank of nachtkastje neerzetten als F1 kinderkamer decoratie
+- F1 cadeau voor jongens, meisjes en volwassenen – dit F1 racewagen speelgoed biedt een leuke bouw- en speelervaring en is een leuk LEGO cadeau voor kinderen vanaf 10 jaar, Formule 1 fans en volwassen verzamelaars van automodellen
+- LEGO auto boordevol authentieke BWT Alpine F1 Team details – een LEGO F1 racewagen met ontwerpdetails van de echte versie uit 2024, inclusief halo, achtervleugel, sponsorstickers en bredere achterbanden met Pirelli erop gedrukt
+- Alpine F1 Team auto speelgoed voor kinderen – LEGO Speed Champions BWT Alpine F1 Team A524 racewagen auto bouwpakket voor kinderen vanaf 10 jaar om te bouwen, neer te zetten en mee te racen
+- F1 plezier voor het hele gezin – race samen met het hele gezin om de geblokte vlag met andere bouwsets (apart verkrijgbaar) uit de LEGO F1 serie
+- Bouw iconische automodellen – met LEGO Speed Champions sets kunnen kinderen en autoliefhebbers van stenen gebouwde versies maken van een aantal van de meest beroemde voertuigen ter wereld
+- 1 F1 coureur minifiguur – de LEGO voertuig set bevat een minifiguur van een Formule 1 coureur in een Alpine outfit met een helm die kinderen in de cockpit kunnen plaatsen om spannende F1 races
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSF1PW6{{</world>}}

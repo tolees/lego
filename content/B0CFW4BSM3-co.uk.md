@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Buildable Spider-Man toy – Put Marvel adventures into the hands of kids aged 6+ with LEGO Marvel Venom Mech Armour vs. Miles Morales
-- Many ways to play – The Venom LEGO minifigure fits into the opening cockpit of the mech Marvel figure for endless play-and-display possibilities
-- Authentic accessories – This Marvel building toy includes 2 handheld web shooters and a flexible web ‘rope’, which attaches to the mech
 - Expand the fun – This buildable LEGO Marvel Spider-Man building toy is compatible with the many other LEGO Marvel sets (sold separately)
+- Authentic accessories – This Marvel building toy includes 2 handheld web shooters and a flexible web ‘rope’, which attaches to the mech
+- Buildable Spider-Man toy – Put Marvel adventures into the hands of kids aged 6+ with LEGO Marvel Venom Mech Armour vs. Miles Morales
 - Posable mech – Includes a buildable Venom mech action figure with jointed legs, arms and fingers, plus Miles Morales and Venom LEGO minifigures
+- Many ways to play – The Venom LEGO minifigure fits into the opening cockpit of the mech Marvel figure for endless play-and-display possibilities
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW4BSM3{{</world>}}

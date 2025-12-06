@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Intuitive instructions – The LEGO Builder app features tools that let kids zoom in and rotate models in 3D, save sets and track progress
-- Role-play toy accessories – Ahsoka Tano has 2 green Lightsabers and Jedi Anakin Skywalker has a blue Lightsaber for fun action play
-- Explore the range – Collectible LEGO Star Wars sets (sold separately) enable kids and adult Star Wars fans to recreate classic scenes, create their own stories or simply display the buildable models
-- Star Wars gift idea for kids – This LEGO Star Wars vehicle set makes a fun birthday gift for 8 plus year old boys, girls and Star Wars: The Clone Wars fans
 - Star Wars building toy for kids – Play out thrilling missions with this detailed model of Ahsoka’s Jedi Interceptor from Star Wars: The Clone Wars
+- Explore the range – Collectible LEGO Star Wars sets (sold separately) enable kids and adult Star Wars fans to recreate classic scenes, create their own stories or simply display the buildable models
 - 2 LEGO Star Wars minifigures – This buildable playset includes Ahsoka Tano and Anakin Skywalker, plus an R7-A7 LEGO Star Wars droid figure
 - Starship model – Features an opening cockpit for Ahsoka, space for R7-A7, adjustable wings, 2 spring-loaded shooters and storage for 2 Lightsabers
+- Role-play toy accessories – Ahsoka Tano has 2 green Lightsabers and Jedi Anakin Skywalker has a blue Lightsaber for fun action play
+- Intuitive instructions – The LEGO Builder app features tools that let kids zoom in and rotate models in 3D, save sets and track progress
+- Star Wars gift idea for kids – This LEGO Star Wars vehicle set makes a fun birthday gift for 8 plus year old boys, girls and Star Wars: The Clone Wars fans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSCSY1G{{</world>}}

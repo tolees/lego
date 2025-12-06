@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Adventure playset with accessories – Comes with 2 water scooters, a surfboard, flippers, life jackets, food and drinks, a floatie and more to inspire pretend-play
-- A gift for kids who love creative toys – This LEGO Friends set makes a great birthday gift for 8+ year old girls and boys who enjoy storytelling, imaginative play and building with LEGO bricks
-- Detailed interior for creative play – Kids can lift off the top of the boat toy to reveal a dining area, kitchenette, gaming zone with a screen and controllers, plus two stalls with a shower and bathroom
-- LEGO boat to build – Includes a top deck with a steering wheel and beds, two lounge chairs with drinks at the front, a hot tub with a floatie at the back, and a removable roof for interior play
 - Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know the characters of Heartlake City
+- A gift for kids who love creative toys – This LEGO Friends set makes a great birthday gift for 8+ year old girls and boys who enjoy storytelling, imaginative play and building with LEGO bricks
+- LEGO boat to build – Includes a top deck with a steering wheel and beds, two lounge chairs with drinks at the front, a hot tub with a floatie at the back, and a removable roof for interior play
+- Detailed interior for creative play – Kids can lift off the top of the boat toy to reveal a dining area, kitchenette, gaming zone with a screen and controllers, plus two stalls with a shower and bathroom
 - A building set packed with stories – This LEGO Friends Travel Boat Adventure toy for 8+ year old girls and boys features a toy boat, 4 mini dolls, 2 dolphins and cool accessories
 - 4 mini dolls and 2 dolphin toys – Includes Paisley, Zac, Celine and Sky LEGO Friends mini dolls, plus dolphin and baby dolphin animal figures for fun friendship adventures and storytelling
+- Adventure playset with accessories – Comes with 2 water scooters, a surfboard, flippers, life jackets, food and drinks, a floatie and more to inspire pretend-play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDQWL46{{</world>}}

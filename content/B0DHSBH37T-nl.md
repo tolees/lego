@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 4-in--1 mecha speelgoed voor kinderen – jongens en meisjes vanaf 9 jaar kunnen actiescènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen met Zanes ultra-combomecha
+- Verjaardagscadeau voor kinderen – deze avontuurlijke speelset biedt een leuke bouw- en speelervaring en is een mooi cadeau voor kinderen die van fantasierijke rollenspellen met hun ninjahelden houden
+- Afneembare ninjamodellen – Zanes ultra-combomecha kan worden opgesplitst in 4 kleinere modellen: een speelgoed vliegtuig, een LEGO auto, een actiefiguur en een speelgoed draak
+- Verstelbaar NINJAGO speelgoed voor 9 jaar en ouder – de grote combomecha heeft verstelbare benen, voeten, armen, polsen, vingers en hoofd, plus drakenvleugels, een cockpit, 2 schieters en een groot speelgoed zwaard
 - Een universum vol ninjaspeelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
 - Grotere ninja-avonturen – kijk ook eens naar ander NINJAGO speelgoed (sets apart verkrijgbaar), waaronder tempels, mecha en voertuigen
-- 4-in--1 mecha speelgoed voor kinderen – jongens en meisjes vanaf 9 jaar kunnen actiescènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen met Zanes ultra-combomecha
-- Verstelbaar NINJAGO speelgoed voor 9 jaar en ouder – de grote combomecha heeft verstelbare benen, voeten, armen, polsen, vingers en hoofd, plus drakenvleugels, een cockpit, 2 schieters en een groot speelgoed zwaard
 - 6 LEGO NINJAGO minifiguren – deze avontuurlijke speelset is inclusief de ninjas Sora en Cole en hun bondgenote Pixal, die het opnemen tegen het gemene trio Nokt, een Draconische strijder en een Draconische verkenner
-- Afneembare ninjamodellen – Zanes ultra-combomecha kan worden opgesplitst in 4 kleinere modellen: een speelgoed vliegtuig, een LEGO auto, een actiefiguur en een speelgoed draak
-- Verjaardagscadeau voor kinderen – deze avontuurlijke speelset biedt een leuke bouw- en speelervaring en is een mooi cadeau voor kinderen die van fantasierijke rollenspellen met hun ninjahelden houden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSBH37T{{</world>}}

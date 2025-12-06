@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wat zit er in de doos? – deze LEGO voertuig set bevat alles wat kinderen nodig hebben om een camper te bouwen met een gedetailleerde woonruimte, plus een kampvuur, 2 minifiguren en een baby
 - Digitale bouwgids – de LEGO Builder app neemt kinderen mee op een intuïtief bouwavontuur met functies waarmee ze kunnen inzoomen, modellen kunnen draaien in 3D en hun voortgang kunnen bijhouden tijdens het bouwen
-- Leuke accessoires – dit kampeerspeelgoed wordt geleverd met accessoires voor de LEGO minifiguren, waaronder een gitaar, een babyfles, 2 mokken en een croissant
-- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met speelgoedvoertuigen, gebouwen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - Leuk kampeer set– kinderen van 6 jaar en ouder kunnen elke dag op vakantie gaan met dit LEGO City Avontuurlijke camper bouwpakket voor kinderen
 - Voor kinderen die van fantasierijke rollenspellen houden – de speelgoed camper kan open voor eenvoudige toegang tot de leefruimte met een keuken, toilet, 2 stapelbedden, een wieg en een uitneembare eethoek voor gebruik in de openlucht
+- Leuke accessoires – dit kampeerspeelgoed wordt geleverd met accessoires voor de LEGO minifiguren, waaronder een gitaar, een babyfles, 2 mokken en een croissant
 - Een leuk cadeau voor jongens en meisjes – geef deze camperbouwset cadeau voor de feestdagen of zomaar tussendoor aan kinderen vanaf 6 jaar
+- Wat zit er in de doos? – deze LEGO voertuig set bevat alles wat kinderen nodig hebben om een camper te bouwen met een gedetailleerde woonruimte, plus een kampvuur, 2 minifiguren en een baby
+- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met speelgoedvoertuigen, gebouwen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSD643W{{</world>}}

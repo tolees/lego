@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- WHATS IN THE BOX? – All you need to craft 12 faux roses with long green stems and 4 baby’s breath sprigs with small white LEGO flowers
-- A THOUGHTFUL CHRISTMAS GIFT – Celebrate birthdays, the festive season or surprise loved ones with a LEGO flower bouquet for adult fans of building sets and artificial plants
-- BLOOMING BUDS – The LEGO Botanicals flower bouquet building set for adults depicts 4 artificial red roses in full bloom, 4 blossoming and 4 in bud
-- FESTIVE FUN FOR THE FAMILY – This LEGO artificial flowers set includes 6 brick bags and separate instructions for the 3 flowering stages
-- LEGO FLOWERS FOR HOME DECOR – Indulge yourself or join friends for a mindful project with the LEGO Botanicals Bouquet of Roses building set for adults
-- COLOURFUL HOME DECOR – Looking for unique home accessories? Brighten any space with this zero-maintenance LEGO faux flowers set for home or office decor
 - LEGO BOTANICAL COLLECTION – Discover a space for relaxation with the wide range of LEGO construction sets designed for adults
+- A THOUGHTFUL CHRISTMAS GIFT – Celebrate birthdays, the festive season or surprise loved ones with a LEGO flower bouquet for adult fans of building sets and artificial plants
+- FESTIVE FUN FOR THE FAMILY – This LEGO artificial flowers set includes 6 brick bags and separate instructions for the 3 flowering stages
+- COLOURFUL HOME DECOR – Looking for unique home accessories? Brighten any space with this zero-maintenance LEGO faux flowers set for home or office decor
+- WHATS IN THE BOX? – All you need to craft 12 faux roses with long green stems and 4 baby’s breath sprigs with small white LEGO flowers
+- LEGO FLOWERS FOR HOME DECOR – Indulge yourself or join friends for a mindful project with the LEGO Botanicals Bouquet of Roses building set for adults
+- BLOOMING BUDS – The LEGO Botanicals flower bouquet building set for adults depicts 4 artificial red roses in full bloom, 4 blossoming and 4 in bud
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MRT58RZ{{</world>}}

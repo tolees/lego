@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Camping playset – The LEGO Friends Adventure Camp Tree House toy for 8+-year-old girls and boys comes with 5 minidolls and lots of animal figures
-- Nature-spotting adventures – The learning toy set features hidden minibeasts and woodland creatures, including beavers and a squirrel
-- Creative play accessories – Summer camp accessories include a campfire, foraging guide and basket, water bottles, granola bars, life jackets, sleeping bags, walkie-talkies, a telescope, a radio and more
-- 5 minidolls – This building toy for kids comes with Friends characters Leo, Aliya, Jamila and Olly, plus camp counsellor Jonathan minidoll figures
-- A gift packed with friendship stories – This building set makes a great gift for 8-plus-year-old girls and boys who love outdoor playsets and camping adventures
-- Dynamic LEGO Friends characters – The Leo and Olly minidolls have alternate faces to show their reactions as they take on new challenges
 - Obstacle course – Kids build the obstacle course, then put the LEGO Friends characters to the test on the zip line, climbing wall and log bridge
+- Dynamic LEGO Friends characters – The Leo and Olly minidolls have alternate faces to show their reactions as they take on new challenges
+- Creative play accessories – Summer camp accessories include a campfire, foraging guide and basket, water bottles, granola bars, life jackets, sleeping bags, walkie-talkies, a telescope, a radio and more
+- Nature-spotting adventures – The learning toy set features hidden minibeasts and woodland creatures, including beavers and a squirrel
+- 5 minidolls – This building toy for kids comes with Friends characters Leo, Aliya, Jamila and Olly, plus camp counsellor Jonathan minidoll figures
+- Camping playset – The LEGO Friends Adventure Camp Tree House toy for 8+-year-old girls and boys comes with 5 minidolls and lots of animal figures
+- A gift packed with friendship stories – This building set makes a great gift for 8-plus-year-old girls and boys who love outdoor playsets and camping adventures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1RBQW{{</world>}}

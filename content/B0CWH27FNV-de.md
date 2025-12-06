@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 2 Minifiguren: Neben dem Spielzeughaus beinhaltet dieser Kunst-Modellbausatz auch 2 Minifiguren mit austauschbaren Outfits
+- Geschenke für LEGO Fans: Dieses LEGO Creator 3-in-1-Set ist ein tolles Geschenk für Kinder, die gern detailreiche Modellhäuser bauen, um spannende Geschichten darzustellen
 - Unzählige Spielmöglichkeiten: Kinder können Geschichten und Rollenspiele in 3 verschiedenen Spielzeughäusern darstellen: in einem modernen Strandhaus, einem schicken 3-geschossigen Stadthaus mit Dachterrasse oder in einer Waldhütte
 - Modelle zum Ausstellen: Alle 3 LEGO Häuser sind eigenständige Modelle, die nach dem Spielen auch in einem Regal oder auf dem Nachttisch im Kinderzimmer ausgestellt werden können
-- Geschenke für LEGO Fans: Dieses LEGO Creator 3-in-1-Set ist ein tolles Geschenk für Kinder, die gern detailreiche Modellhäuser bauen, um spannende Geschichten darzustellen
-- 2 Minifiguren: Neben dem Spielzeughaus beinhaltet dieser Kunst-Modellbausatz auch 2 Minifiguren mit austauschbaren Outfits
 - 3 Spielzeughäuser für Kinder in 1 Set: LEGO Creator Modernes Haus ist ein Spielset, das Jungen und Mädchen ab 9 Jahren 3 detailreiche Modelle aus denselben LEGO Steinen bauen lässt
 
 [🛒 Check the deal!!]({{< param buyurl >}})

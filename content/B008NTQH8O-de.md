@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lego Friends (CD1)
 - Marke: Universum Film GmbH
+- Lego Friends (CD1)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B008NTQH8O{{</world>}}

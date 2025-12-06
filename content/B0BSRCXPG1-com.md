@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Marvel fan gift idea – Give this multifaceted playset as a birthday, holiday or any-day gift to a young Super Hero aged 10 and up
 - Famous minifigures – The Marvel playset includes Captain Marvel, Okoye, Wanda Maximoff, Shuri and Valkyrie minifigures, plus a Thanos big figure and The Wasp microfigure
-- Avengers battle action – LEGO Marvel Endgame Final Battle (76266) recreates the decisive showdown at the end of Marvel Studios’ Avengers: Endgame with classic characters in an inspiring setting
-- Many ways to play – There are lots of places to attach the minifigures around the highly detailed, 360-degree battleground, which also reconfigures to a more shelf-friendly, linear design
 - Hidden surprises – Iconic items from the Marvel Avengers movies are concealed within the Marvel collectible for kids to discover: Captain Americas Shield, Thors hammer, the Time Stone and the portal-opening rat
+- Many ways to play – There are lots of places to attach the minifigures around the highly detailed, 360-degree battleground, which also reconfigures to a more shelf-friendly, linear design
+- Avengers battle action – LEGO Marvel Endgame Final Battle (76266) recreates the decisive showdown at the end of Marvel Studios’ Avengers: Endgame with classic characters in an inspiring setting
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BSRCXPG1{{</world>}}

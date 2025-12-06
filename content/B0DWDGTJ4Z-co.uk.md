@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- DIGITAL GUIDE – The LEGO Builder app takes kids on an intuitive building journey with tools that let them zoom, rotate models in 3D and save their LEGO building sets
+- CREATIVE TOY ACCESSORIES – This building set includes LEGO minifigure accessories for imaginative play, including a toy phone, ticket, croissant and a cup
+- BIRTHDAY GIFT FOR KIDS – This creative building toy makes a fun anytime or birthday gift for 7+ year old boys and girls who love train sets and vehicle toys
 - TOY TRAIN STATION FOR KIDS – Set the scene for adventure with the LEGO City Central Train Station set, a creative building toy for 7+ year old boys and girls
 - EXPAND THE PLAY – Kids can add this toy train station to other LEGO City construction toys (sold separately) for even bigger railway adventures and endless creative play
-- CREATIVE TOY ACCESSORIES – This building set includes LEGO minifigure accessories for imaginative play, including a toy phone, ticket, croissant and a cup
 - WHATS IN THE BOX? – Includes everything needed to build a toy train station and railway maintenance vehicle with raisable cherry picker, plus 6 LEGO minifigures, a baby and two pigeon figures
-- BIRTHDAY GIFT FOR KIDS – This creative building toy makes a fun anytime or birthday gift for 7+ year old boys and girls who love train sets and vehicle toys
 - JUST LIKE THE REAL THING – The LEGO train set features two platforms, a timetable, a ticket machine, working lift, a clock tower, control room, coffee bar and a seating area with a transparent roof
-- DIGITAL GUIDE – The LEGO Builder app takes kids on an intuitive building journey with tools that let them zoom, rotate models in 3D and save their LEGO building sets
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDGTJ4Z{{</world>}}

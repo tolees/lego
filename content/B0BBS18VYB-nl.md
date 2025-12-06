@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Kinderen kunnen het hoofd van de sneeuwpop eraf slaan om te strijden tegen Fliprus die ijsballen smijt, of ze kunnen de Freezie verslaan door het verborgen bevroren fruit-element te bereiken en dit aan de babypinguïn te geven
+- Door te schaatsen op het ijs banen spelers zich een weg door het level; ze moeten oppassen om niet in het water te vallen... als het te koud wordt, kunnen ze opwarmen bij het vuur! (een startset 71360, 71387 of 71403 is vereist voor interactief spel)
+- Deze set bevat 4 LEGO Super Mario figuren voor spannende avonturen in de sneeuw: een Fliprus, een Freezie, een rode Koopa Troopa en een babypinguïn, plus een sneeuwpop om te bouwen en een platform
 - Spelers kunnen digitale munten verdienen door de LEGO Mario, LEGO Luigi of LEGO Peach personages (poppetjes niet inbegrepen) te helpen, terwijl ze genieten van eindeloos speelplezier en leuke rollenspellen met deze uitbreiding
 - Spelers kunnen spannend ijsplezier toevoegen aan hun LEGO Super Mario wereld met de Uitbreidingsset: Fliprus sneeuwavontuur, inclusief 4 personages en nieuwe elementen om te combineren en te bouwen, voor ijzige avonturen
-- Deze set bevat 4 LEGO Super Mario figuren voor spannende avonturen in de sneeuw: een Fliprus, een Freezie, een rode Koopa Troopa en een babypinguïn, plus een sneeuwpop om te bouwen en een platform
-- Door te schaatsen op het ijs banen spelers zich een weg door het level; ze moeten oppassen om niet in het water te vallen... als het te koud wordt, kunnen ze opwarmen bij het vuur! (een startset 71360, 71387 of 71403 is vereist voor interactief spel)
 - Deze set met bouwbaar game speelgoed voor kinderen van 7+ jaar kan herbouwd en gecombineerd worden om de LEGO Super Mario wereld uit te breiden; download de LEGO Super Mario app voor bouwinstructies, creatieve ideeën en meer
-- Kinderen kunnen het hoofd van de sneeuwpop eraf slaan om te strijden tegen Fliprus die ijsballen smijt, of ze kunnen de Freezie verslaan door het verborgen bevroren fruit-element te bereiken en dit aan de babypinguïn te geven
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBS18VYB{{</world>}}

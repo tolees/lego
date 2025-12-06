@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Flugzeug-Spielzeug: Der X-Jet der X-Men hat einen Shooter auf jeder Seite, 2 Shooter mit Federmechanismus unter den Flügeln und 2 herausnehmbare Kisten, in denen dein Kind Ersatzprojektile und Wolverines aufsteckbaren Klauen verstauen kann
 - LEGO Geschenk für Filmliebhaber: Dieses baubare LEGO Flugzeug-Modell ist ein beliebtes Spielzeug unter Marvel-Fans und ein besonderes Marvel-Geschenk für Kinder, die Bauspielzeug und X-Men-Filme lieben
-- Marvel Flugzeug-Modell zum Ausstellen: Nach all den Actionabenteuern der X-Men kann das LEGO Superhelden-Spielzeug ausgestellt und von allen bestaunt werden
 - Mit 4 Minifiguren: In beide Cockpits des Kampfflugzeugs passen die LEGO Marvel X-Men Minifiguren von Cyclops, Rogue, Magneto sowie die Wolverine-Figur
 - X-Jet aus X-Men 97: Dieses baubare LEGO Modellflugzeug lässt dein Kind ein aufregendes Spielzeug-Flugzeug zum Spielen und Ausstellen bauen sowie den ikonischen X-Jet aus der TV-Serie X-Men ’97 erkunden
+- LEGO Flugzeug-Spielzeug: Der X-Jet der X-Men hat einen Shooter auf jeder Seite, 2 Shooter mit Federmechanismus unter den Flügeln und 2 herausnehmbare Kisten, in denen dein Kind Ersatzprojektile und Wolverines aufsteckbaren Klauen verstauen kann
+- Marvel Flugzeug-Modell zum Ausstellen: Nach all den Actionabenteuern der X-Men kann das LEGO Superhelden-Spielzeug ausgestellt und von allen bestaunt werden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYSBN3{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Extra play possibilities – Explore the range of LEGO Super Mario: Mario Kart sets (sold separately) for other vehicles and characters to race against
-- 2 Super Mario characters – This LEGO Mario Kart set features 2 Blue Toad (Pit Crew) figures in blue pit crew uniform, plus assorted accessories
+- Interactive play – Place LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) in the kart or on the Action Tags for digital interactions
 - Nintendo character set – Let kids role-play as pit crew preparing a B Dasher for action at Toad’s garage with this LEGO Super Mario: Mario Kart toy
 - Inspire kids’ imaginations – LEGO Super Mario toy playsets are designed for solo or social play, offering role play, digital coin-collecting and fun challenges through expansion and rebuilding
+- Extra play possibilities – Explore the range of LEGO Super Mario: Mario Kart sets (sold separately) for other vehicles and characters to race against
 - Mechanic toys – Place the kart on the lift to attach Standard Tyres or Blue Standard Tyres and attach the horn or engine from the Customisation Machines
-- Interactive play – Place LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) in the kart or on the Action Tags for digital interactions
 - LEGO Super Mario gift – This set makes a fun birthday gift for boys, girls and Nintendo gamers aged 8 and over; a starter course set 71439, 71440 or 71441 (sold separately) is needed for interactive play
+- 2 Super Mario characters – This LEGO Mario Kart set features 2 Blue Toad (Pit Crew) figures in blue pit crew uniform, plus assorted accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSHGWHZ{{</world>}}

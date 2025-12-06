@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bluey beach-trip building set – A fun interactive toy for 4+ year old girls and boys, LEGO Bluey’s Beach & Family Car Trip includes a cool vehicle and plenty of imaginative play for preschool kids
-- Build skills with Bluey – LEGO Bluey building toys inspire creative role play that kids will love, while giving parents a fun way to share in their child’s developmental milestones
-- Imaginative play with Bluey on the beach – Features a sandcastle, sand-mermaid tail for a LEGO minifigure, reclining chair, parasol, palm tree, tiny crab, ice cream, sunglasses and sun cream for endless beach fun
+- LEGO 4+ set for fans of the Bluey TV show – This LEGO Bluey toy includes a buildable model in each bag, a large Starter Brick and simple instructions, making building fast, fun and easy for young builders
 - Interactive toy for kids – This fun-packed playset includes LEGO minifigures, a toy car with surfboards and hands-on activities for a beach day adventure with Bluey, Bingo and Mum
+- Bluey beach-trip building set – A fun interactive toy for 4+ year old girls and boys, LEGO Bluey’s Beach & Family Car Trip includes a cool vehicle and plenty of imaginative play for preschool kids
 - Discover more LEGO Bluey toys – Explore other LEGO Bluey building toys (sold separately), with sets for toddlers, preschoolers and kids aged 4+
 - A fun Bluey gift for 4+ year old girls and boys – This seaside playset offers endless fun for kids who love toy vehicles and enjoy the Bluey preschool TV show
-- LEGO 4+ set for fans of the Bluey TV show – This LEGO Bluey toy includes a buildable model in each bag, a large Starter Brick and simple instructions, making building fast, fun and easy for young builders
+- Build skills with Bluey – LEGO Bluey building toys inspire creative role play that kids will love, while giving parents a fun way to share in their child’s developmental milestones
+- Imaginative play with Bluey on the beach – Features a sandcastle, sand-mermaid tail for a LEGO minifigure, reclining chair, parasol, palm tree, tiny crab, ice cream, sunglasses and sun cream for endless beach fun
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF3TB7V{{</world>}}

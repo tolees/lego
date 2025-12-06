@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Gift for Disney’s Frozen fans – With a selection of standard and LEGO DUPLO bricks, this set makes a magical birthday gift for 4+ year old girls, boys and fans who love Disney’s Frozen characters and buildable animal toys
 - Disney Frozen building toy – Thrill 4+ year old girls and boys with Anna’s Sleigh Adventure set that encourages kids to play out winter stories
-- 4 Disney characters – Includes Anna and Kristoff LEGO ǀ Disney minidoll figures, an Olaf snowman figure and a Sven LEGO ǀ Disney reindeer figure
-- Intuitive instructions – The LEGO Builder app features tools that let kids zoom in and rotate models in 3D, save sets and track progress
 - Buildable princess toy – This creative set lets Disney fans have fun like sledging or enjoying hot chocolate and snacks with the characters
+- Intuitive instructions – The LEGO Builder app features tools that let kids zoom in and rotate models in 3D, save sets and track progress
+- 4 Disney characters – Includes Anna and Kristoff LEGO ǀ Disney minidoll figures, an Olaf snowman figure and a Sven LEGO ǀ Disney reindeer figure
 - Fun features – a sleigh with a a harness and storage in the back, a hot chocolate stand with a counter and attached stable, plus a sledging hill
 
 [🛒 Check the deal!!]({{< param buyurl >}})

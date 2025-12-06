@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Sonic toys – All LEGO Sonic the Hedgehog playsets introduce kids to fast action fun and imaginative play with different characters and story possibilities
+- Collectible set for play – Features a boat toy with launcher, Tails and Sonic figures, Tocky and Jawz characters, and an island with an arch
 - Fun gamer gift – The brick-built interactive boat toy and island make a fun gift for 8-plus-year-old boys, girls and Sonic the Hedgehog fans
 - A helping hand – With the LEGO Builder app, builders can zoom in and rotate models in 3D, track their progress and save virtual sets
-- Collectible set for play – Features a boat toy with launcher, Tails and Sonic figures, Tocky and Jawz characters, and an island with an arch
-- Sonic the Hedgehog toy – This action-packed Tails’ Adventure Boat toy set for 8-plus-year-old boys and girls lets kids create cool stories
 - Video game set – This fun LEGO Sonic set features an easy-to-use speed sphere launcher that’s built into the front of the boat toy
+- Sonic the Hedgehog toy – This action-packed Tails’ Adventure Boat toy set for 8-plus-year-old boys and girls lets kids create cool stories
+- LEGO Sonic toys – All LEGO Sonic the Hedgehog playsets introduce kids to fast action fun and imaginative play with different characters and story possibilities
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH1Z6V4{{</world>}}

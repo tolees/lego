@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Jet toy for kids – 8 plus year old boys and girls can role-play aerial action from NINJAGO Dragons Rising season 3 with Ras and Arin’s Super Storm Jet
-- A universe of ninja toys – LEGO NINJAGO sets let kids escape into a fantasy world of adventures with their ninja heroes
 - Birthday gift for kids – This fun roe-play toy makes a great birthday gift for 8+ year old boys, girls and kids who love cool ninja toys
-- 3 LEGO NINJAGO minifigures – This set features Arin with a crystal katana sword, Ras with a golden hammer, a Dragonian Warrior and a mini toy dragon
+- A universe of ninja toys – LEGO NINJAGO sets let kids escape into a fantasy world of adventures with their ninja heroes
 - Packed with features – Ras and Arin’s Super Storm Jet plane toy has 2 spring-loaded shooters, adjustable wings and swirling storm blades
-- Combo ninja toy – The jet toy includes a detachable dragon-headed drone with 2 cockpits, including one that can be detached to use as an escape pod
 - Bigger ninja adventures – Look out for more LEGO NINJAGO toys (sets sold separately) to play out action with Ras and Arin’s Super Storm Jet
+- Jet toy for kids – 8 plus year old boys and girls can role-play aerial action from NINJAGO Dragons Rising season 3 with Ras and Arin’s Super Storm Jet
+- Combo ninja toy – The jet toy includes a detachable dragon-headed drone with 2 cockpits, including one that can be detached to use as an escape pod
+- 3 LEGO NINJAGO minifigures – This set features Arin with a crystal katana sword, Ras with a golden hammer, a Dragonian Warrior and a mini toy dragon
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCCBMT{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Fun desk decor – The model kit includes a display stand which has a built-in information plaque and space for the included, smaller LEGO Star Wars Battle Droid figure with its STAP speeder
-- Battle Droid with STAP build-and-display model – Let kids show off their Star Wars passion with this LEGO brick-built Battle Droid figure with a STAP speeder building toy for 12+ year old boys and girls
 - The LEGO Star Wars collection – LEGO Star Wars sets (sold separately) let kids and adult fans recreate iconic scenes, make up new stories or display the buildable models
+- 3D building instructions – The LEGO Builder app guides your child on an intuitive building adventure with tools that let them zoom in and rotate a 3D digital version of their model as they build
+- Battle Droid with STAP build-and-display model – Let kids show off their Star Wars passion with this LEGO brick-built Battle Droid figure with a STAP speeder building toy for 12+ year old boys and girls
 - Customisable building set for kids – Place the Battle Droid riding its STAP speeder on the stand or change up the display by posing the Battle Droid on its own next to the STAP and stand
 - Posable Star Wars figure – The Battle Droid can be posed in various ways and has a brick-built blaster that can be attached to its back or held in its hands
-- 3D building instructions – The LEGO Builder app guides your child on an intuitive building adventure with tools that let them zoom in and rotate a 3D digital version of their model as they build
 - LEGO Star Wars gift for fans – This fun building toy makes a great birthday gift for 12+ year old boys, girls and Star Wars: The Phantom Menace fans
+- Fun desk decor – The model kit includes a display stand which has a built-in information plaque and space for the included, smaller LEGO Star Wars Battle Droid figure with its STAP speeder
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDQ58Y4{{</world>}}

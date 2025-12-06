@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an separat erhältlichen Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
-- Bewegliche NINJAGO Actionfigur: Der große Kombi-Mech kann Kopf, Drachenflügel, Beine, Füße, Arme, Handgelenke und Finger bewegen und hat ein Cockpit, 2 Shooter und ein großes Schwert
-- 4-in-1 Spielzeug Mech für Kinder: Zanes Ultra-Kombi-Mech lässt Jungen und Mädchen ab 9 Jahren packende Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 - Entdecke andere Sets für weitere Ninja Abenteuer: Schau dir auch weitere separat erhältliche LEGO NINJAGO Spielsets mit Mechs, Tempeln und Fahrzeugen an
-- 6 LEGO NINJAGO Minifiguren: Dieses Spielset beinhaltet die Ninja Sora und Cole sowie ihren Verbündeten Pixal; Die Helden müssen es mit 3 Bösewichten – mit Nokt, einem Drachenkämpfer und einem Drachenspäher – aufnehmen
-- Abtrennbare Ninja Modelle: Zanes Ultra-Kombi-Mech lässt sich in 4 kleinere Modelle zerlegen; Dann laden ein Jet, ein Spielzeug Auto, eine Actionfigur und ein Drache zum Spielen ein
+- 4-in-1 Spielzeug Mech für Kinder: Zanes Ultra-Kombi-Mech lässt Jungen und Mädchen ab 9 Jahren packende Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 - Weihnachts-oder Geburtstagsgeschenk für Kinder: Dieses Abenteuer Spielset bietet ein packendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder, die gern fantasievoll mit ihren Ninja-Helden spielen
+- Bewegliche NINJAGO Actionfigur: Der große Kombi-Mech kann Kopf, Drachenflügel, Beine, Füße, Arme, Handgelenke und Finger bewegen und hat ein Cockpit, 2 Shooter und ein großes Schwert
+- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an separat erhältlichen Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
+- Abtrennbare Ninja Modelle: Zanes Ultra-Kombi-Mech lässt sich in 4 kleinere Modelle zerlegen; Dann laden ein Jet, ein Spielzeug Auto, eine Actionfigur und ein Drache zum Spielen ein
+- 6 LEGO NINJAGO Minifiguren: Dieses Spielset beinhaltet die Ninja Sora und Cole sowie ihren Verbündeten Pixal; Die Helden müssen es mit 3 Bösewichten – mit Nokt, einem Drachenkämpfer und einem Drachenspäher – aufnehmen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSBH37T{{</world>}}

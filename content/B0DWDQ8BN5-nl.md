@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Een STEM-bouwset boordevol functies – geniet van het in elkaar zetten van de ophanging, de V6-motor, de onafhankelijke achteras en het imperiaal met 2 tractieplaten van deze LEGO auto
 - Gebruik het reservewiel om de auto te besturen – bestuur de SUV met het reservewiel aan de achterkant van de speelgoed auto
-- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
-- Opvallende details – deze offroad auto heeft een fraai rood kleurenschema met zwarte details, zodat de LEGO auto er tussen het spelen door ook prachtig uitziet als kinderkamer decoratie
-- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee kinderen kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
 - Een cadeau voor jongens en meisjes die dol zijn op autos – deze set is een geweldig cadeau voor jongens en meisjes en voor iedereen die van terreinwagens houdt
 - Ford Bronco auto bouwpakket voor kinderen – inspireer meisjes en jongens vanaf 9 jaar om hun eigen offroad verhalen te bedenken met dit LEGO Technic Ford Bronco SUV speelgoed voor kinderen
+- Een STEM-bouwset boordevol functies – geniet van het in elkaar zetten van de ophanging, de V6-motor, de onafhankelijke achteras en het imperiaal met 2 tractieplaten van deze LEGO auto
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic sets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Een helpende hand – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee kinderen kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
+- Opvallende details – deze offroad auto heeft een fraai rood kleurenschema met zwarte details, zodat de LEGO auto er tussen het spelen door ook prachtig uitziet als kinderkamer decoratie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDQ8BN5{{</world>}}

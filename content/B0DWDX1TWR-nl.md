@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Minecraft dorpsgevecht – het Plunderaar buitenpost en Verwoester bouwpakket voor kinderen van 9 jaar en ouder zit boordevol spannende actie uit het Minecraft spel
 - Cadeau voor gamers – dit avontuurlijke LEGO Minecraft speelgoed om zelf te bouwen is een geweldig cadeau voor jongens en meisjes die dol zijn op de minecraft game en bouwen
+- LEGO Minecraft dorpsgevecht – het Plunderaar buitenpost en Verwoester bouwpakket voor kinderen van 9 jaar en ouder zit boordevol spannende actie uit het Minecraft spel
 - Verstelbare figuren – dit interactieve LEGO Minecraft speelgoed bevat Minecraft minifiguren van een Ruimtewachter, Verschoppeling, metselaarsdorpeling en Verdediger, plus bouwbare figuren van een Verwoester en een varken
-- Verwoester aanval – de bouwbare Verwoester heeft een hendel waarmee kinderen zijn kaak kunnen laten klappen en met zijn kop kunnen rammen terwijl de Verwoester de strijd tegemoet gaat
-- Samen bouwen met vrienden en familie – de LEGO Builder app biedt een leuke modus om met meerdere mensen te bouwen, zodat je het LEGO bouwplezier met anderen kunt delen
 - Authentieke accessoires voor rollenspellen – een trainingspop, een fakkel, een wortel, een ijzerstaaf, een diamanten helm, een diamanten zwaard, een kruisboog en een bijl zorgen voor fantasierijk spel
+- Samen bouwen met vrienden en familie – de LEGO Builder app biedt een leuke modus om met meerdere mensen te bouwen, zodat je het LEGO bouwplezier met anderen kunt delen
 - Minecraft in het echt – met LEGO Minecraft bouwspeelgoed voor kinderen beleven spelers de game op een andere manier met mobs, omgevingen en kenmerken die tot leven worden gebracht met LEGO stenen
+- Verwoester aanval – de bouwbare Verwoester heeft een hendel waarmee kinderen zijn kaak kunnen laten klappen en met zijn kop kunnen rammen terwijl de Verwoester de strijd tegemoet gaat
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDX1TWR{{</world>}}

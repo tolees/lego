@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Firefighter Bob Adventure - Join LEGO City TV’s firefighter Bob aboard the fire pickup, head to the scene and send up a cool fire drone to extinguish the flames.
-- LEGO Minifigures & Cat - This LEGO Fire & Police set includes 3 LEGO minifigures with LEGO City TV character, Bob and a cat animal figure for imaginative role play.
-- Emergency Vehicles Included - Features a range of toy emergency vehicles: fire pickup with a drone, police toy motorcycle, crook’s car, and a fire scene with traffic lights.
 - Perfect Birthday Gift - LEGO City Adventures police & fire toys make great birthday gifts ideas for boys and girls who love action-packed play with emergency vehicles.
-- Accessory Elements Included - The toy accessory elements in this set include a fish, handcuffs, 2 walkie-talkies, 3 bills and a crook’s sack.
 - Water Splat Drone Action - Kids can shoot water splat elements from the drone, activate the toppling traffic light, and raise & lower the LEGO flames at the fire scene.
+- LEGO Minifigures & Cat - This LEGO Fire & Police set includes 3 LEGO minifigures with LEGO City TV character, Bob and a cat animal figure for imaginative role play.
+- Accessory Elements Included - The toy accessory elements in this set include a fish, handcuffs, 2 walkie-talkies, 3 bills and a crook’s sack.
+- Emergency Vehicles Included - Features a range of toy emergency vehicles: fire pickup with a drone, police toy motorcycle, crook’s car, and a fire scene with traffic lights.
+- Firefighter Bob Adventure - Join LEGO City TV’s firefighter Bob aboard the fire pickup, head to the scene and send up a cool fire drone to extinguish the flames.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FMZCX4X{{</world>}}

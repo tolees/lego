@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Build more plants – This artificial indoor plant can be displayed alongside other sets (sold separately) from the LEGO Botanical collection
-- Lucky plant – Representing the season of summer in traditional art, the bamboo plant is believed to bring good fortune to its owners
-- Buildable artificial plant decor – Enjoy a nature-inspired creative project with the LEGO Botanicals Lucky Bamboo set for adults
-- Maintenance-free plant – Once complete, the LEGO plant becomes a piece of home or office decor that will add a touch of tranquillity to any room
 - Nature gift – Part of the LEGO Botanical Collection, this faux plant set makes a thoughtful Valentine’s Day gift, Mother’s Day present or housewarming gift for women, men and plant lovers
+- Maintenance-free plant – Once complete, the LEGO plant becomes a piece of home or office decor that will add a touch of tranquillity to any room
+- Build more plants – This artificial indoor plant can be displayed alongside other sets (sold separately) from the LEGO Botanical collection
+- Buildable artificial plant decor – Enjoy a nature-inspired creative project with the LEGO Botanicals Lucky Bamboo set for adults
 - LEGO Builder app – This building kit for adults includes printed and digital versions of the building instructions for an immersive experience
+- Lucky plant – Representing the season of summer in traditional art, the bamboo plant is believed to bring good fortune to its owners
 - Authentic details – The lifelike LEGO bamboo plant includes a buildable pot with a wood-effect plinth, pebbles and 3 green bamboo stems with
 
 [🛒 Buy it now!!]({{< param buyurl >}})

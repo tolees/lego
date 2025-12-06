@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Detailreiche LEGO Deko: Enthält einen Ginkgo Bonsai, eine Schwarzkiefer und einen Blauregen – drei stilvolle LEGO Pflanzen, die als beruhigende Deko Bäumchen begeistern
-- Anpassbare Dekoration: Die Blätter der LEGO Bonsai-Bäume lassen sich austauschen, um individuelle Kombinationen zu gestalten und deinem LEGO Spielzeug eine persönliche Note zu verleihen
-- Geschenk für Naturliebhaber: Dieses LEGO Geschenk für Frauen, Männer und Pflanzenfreunde eignet sich wunderbar für Anlässe wie Geburtstage
 - Entspanntes Bauerlebnis für Erwachsene: Das LEGO Bonsai Set lässt drei Minibäume entstehen, die Entspannung ausstrahlen und ein meditativer Teil deiner LEGO Botanical Collection werden
-- Vielfältig arrangierbare Zimmerpflanzen: Zwei Zierständer ermöglichen es, die LEGO Blumen auf unterschiedlichen Höhen auszustellen und kreativ als stilvolle Zimmerdeko zu kombinieren
+- Anpassbare Dekoration: Die Blätter der LEGO Bonsai-Bäume lassen sich austauschen, um individuelle Kombinationen zu gestalten und deinem LEGO Spielzeug eine persönliche Note zu verleihen
 - Digitale Bauhilfe nutzen: Mit der LEGO Builder App lassen sich die LEGO Bonsai Modelle in 3D betrachten, drehen und der Baufortschritt ganz einfach verfolgen
+- Geschenk für Naturliebhaber: Dieses LEGO Geschenk für Frauen, Männer und Pflanzenfreunde eignet sich wunderbar für Anlässe wie Geburtstage
+- Vielfältig arrangierbare Zimmerpflanzen: Zwei Zierständer ermöglichen es, die LEGO Blumen auf unterschiedlichen Höhen auszustellen und kreativ als stilvolle Zimmerdeko zu kombinieren
+- Detailreiche LEGO Deko: Enthält einen Ginkgo Bonsai, eine Schwarzkiefer und einen Blauregen – drei stilvolle LEGO Pflanzen, die als beruhigende Deko Bäumchen begeistern
 - Kollektion erweitern: Kombiniere die Bonsais mit weiteren Sets aus der LEGO Botanical Collection wie LEGO Blumensträußen oder Bambuspflanzen für noch mehr Pflanzenvielfalt
 
 [🛒 Buy it!!]({{< param buyurl >}})

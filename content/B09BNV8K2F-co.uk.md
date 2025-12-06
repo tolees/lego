@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes the LEGO Thor minifigure, the Mighty Thor with storm breaker, as well as Valkyrie, Korg and Gorr with their weapons
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - The goat teeth grinders and teeth bleakers are raised from the ground, so that children can easily push the ship while playing
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Includes the LEGO Thor minifigure, the Mighty Thor with storm breaker, as well as Valkyrie, Korg and Gorr with their weapons
 - Accessories of the LEGO Thor set include: helmet, boat key, fire extinguisher, a map of New Asgard, bottle and sunstone crystal. The toy from 8 years brings exciting adventures aboard a Viking longship and looks great when displayed. The model can be combined with other LEGO Marvel Avengers building toys and is a great LEGO gift for Marvel fans
 
 [🛒 Buy it!!]({{< param buyurl >}})

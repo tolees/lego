@@ -32,8 +32,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Des créatures fantastiques fascinantes - Ce jouet LEGO DREAMZzz inclut des créatures mythiques tel que Pégase le méchant cheval volant; le trône et loiseau de Zoey qui peuvent se connecter au dos de la créature pour un jeu de rôle amusant
 - Les instructions guidées par lhistoire permettent aux enfants de laisser libre cours à leur imagination en décidant du chemin de Zoey ; les instructions sont aussi dans lapplication LEGO Builder
 - Le jeu de construction comprend des minifigurines LEGO DREAMZzz de Zoey avec un arc et des flèches, Nova et le Roi des cauchemars, ainsi quune figurine de gnome Susan
-- Ce jeu créatif permet aux fans de sévader dans un monde de jouets LEGO DREAMZzz avec des personnages sympathiques et un jeu imaginatif ; cest un super cadeau danniversaire ou de Noël pour enfants
 - Ce jouet LEGO DREAMZzz Pégase, le Cheval Volant propose deux options de construction pour les enfants de 8 ans, garçons et filles, afin de jouer des scènes de lémission télévisée
+- Ce jeu créatif permet aux fans de sévader dans un monde de jouets LEGO DREAMZzz avec des personnages sympathiques et un jeu imaginatif ; cest un super cadeau danniversaire ou de Noël pour enfants
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BV793KCY{{</world>}}

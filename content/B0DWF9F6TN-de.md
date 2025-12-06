@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Motorisiertes LEGO Set: Der LEGO Technic Bagger verfügt über einen Motor und ein Getriebe mit vier Funktionen; Ausleger, Arm, Hammer und Schaufel lassen sich bewegen und die Anbaugeräte austauschen
 - Enthält einen batteriebetriebenen Motor: Das Set wird mit einem batteriebetriebenen Motor geliefert, der den LEGO Spielzeug-Bagger antreibt. Es werden 6x LR6 (AA)-Batterien benötigt – nicht enthalten
 - LEGO Anbaugeräte, Hammer oder Schaufel: Das Modell enthält austauschbare Anbaugeräte; mit dem Getriebe lassen sich Ausleger und Arm bewegen und die Funktionen einer echten Baumaschine nachstellen
 - Komplexere LEGO Sets für Erwachsene: LEGO Technic Sets für Erwachsene ermöglichen das Erkunden technischer Konzepte; gleichzeitig bieten sie ein entspannendes Bauerlebnis für Technikbegeisterte
-- Der LEGO Technic Bagger: Ein Bauset für Erwachsene: Der detailreiche Volvo EC500 Hybrid Bagger (42215) bietet ein fesselndes Bauprojekt; ein Bauset für Erwachsene mit motorisierten Funktionen für zusätzlichen Spielwert
-- Motorisiertes LEGO Set: Der LEGO Technic Bagger verfügt über einen Motor und ein Getriebe mit vier Funktionen; Ausleger, Arm, Hammer und Schaufel lassen sich bewegen und die Anbaugeräte austauschen
 - Bauset für Erwachsene: Dieses Set ist eine Geschenkidee für Männer und Frauen; passend für alle, die Baukästen und fesselnde Modellbaukästen für Erwachsene mögen
+- Der LEGO Technic Bagger: Ein Bauset für Erwachsene: Der detailreiche Volvo EC500 Hybrid Bagger (42215) bietet ein fesselndes Bauprojekt; ein Bauset für Erwachsene mit motorisierten Funktionen für zusätzlichen Spielwert
 - Digitale Bauanleitung: In der LEGO Builder App ist eine digitale Anleitung enthalten; sie ergänzt das LEGO Bauset und unterstützt beim Bauen Schritt für Schritt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
