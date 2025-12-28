@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ontdek het volledige assortiment – met LEGO Star Wars bouwsets (apart verkrijgbaar) kunnen kinderen en volwassen fans klassieke scènes opnieuw beleven, hun eigen verhalen verzinnen of de bouwbare modellen op een mooi plekje neerzetten
 - Klein Star Wars cadeau voor jongens, meisjes en fans vanaf 6 jaar – geef Star Wars: Ahsoka fans of LEGO liefhebbers een leuke verrassing met dit bouwspeelgoed boordevol actie; ideaal voor kinderen die dol zijn op de Star Wars films, bouwen en rollenspellen
-- Death Trooper en Night Trooper Battle Pack bouwpakket voor kinderen – vervoer een peloton en speel Star Wars: Ahsoka avonturen na met dit bouwbare speelgoed voor kinderen met een dropship van LEGO stenen
 - Berg de LEGO Star Wars blasters op – klem de blasters van de troepen vast aan de achterkant van het dropship, klaar om de denkbeeldige strijd aan te gaan
 - 4 LEGO Star Wars minifiguren – 2 Death Troopers en 2 Night Troopers, elk met een Star Wars helm en een blaster
+- Ontdek het volledige assortiment – met LEGO Star Wars bouwsets (apart verkrijgbaar) kunnen kinderen en volwassen fans klassieke scènes opnieuw beleven, hun eigen verhalen verzinnen of de bouwbare modellen op een mooi plekje neerzetten
 - LEGO Star Wars Battle Packs voor verzamelaars – kijk ook eens naar de andere LEGO Star Wars Battle Packs (apart verkrijgbaar) om kinderen te helpen hun pelotons te bouwen en fantasierijke avonturen na te spelen
 - Bouwbaar speelgoed voor kinderen – het dropship heeft ruimte voor 4 LEGO Star Wars minifiguren van personages achterin, 2 noppenschieters en een cockpit voor een LEGO minifiguur met een afneembare koepel
+- Death Trooper en Night Trooper Battle Pack bouwpakket voor kinderen – vervoer een peloton en speel Star Wars: Ahsoka avonturen na met dit bouwbare speelgoed voor kinderen met een dropship van LEGO stenen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF1N45H{{</world>}}

@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Jouet de construction créatif inspiré du jeu vidéo – Le set LEGO Animal Crossing Marie en Visite propose des heures de jeu de rôle aux garçons et aux filles dès 6 ans
-- Instructions de montage numériques – L’application LEGO Builder propose une version numérique des instructions incluses dans la boîte
 - Jouet à manipuler pour les fans du jeu vidéo – Ces sets LEGO permettent aux enfants de faire appel à leur créativité et à leurs compétences narratives et de continuer à explorer l’univers d’Animal Crossing, même lorsque les écrans sont éteints
+- Instructions de montage numériques – L’application LEGO Builder propose une version numérique des instructions incluses dans la boîte
 - Des sets riches en fonctions pour les narrateurs – Les jouets créatifs LEGO Animal Crossing offrent aux enfants une grande liberté créative pour personnaliser les décors et créer de nouveaux scénarios autour des personnages
 - Une mine d’inspiration pour jouer – Ce set LEGO Animal Crossing inclut 2 minifigurines (Marie et Bibi), ainsi que des éléments reconnaissables tels que l’établi et le ballon volant qui transporte un cadeau
 - Un cadeau Animal Crossing – Idéal pour jouer en groupe ou en solo, ce set constitue un beau cadeau pour un anniversaire ou une occasion spéciale et offre aux fans du jeu vidéo des heures de jeu de rôle et de nombreuses options de personnalisation

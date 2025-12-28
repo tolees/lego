@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Danach kann das Set zu einem Raumschiff-Spielzeug umgebaut werden, mit dem die Kinder in den Orbit fliegen können, oder zu einer beweglichen Astronauten-Figur mit Jetpack
-- Schau dir auch die anderen LEGO 3in1 Sets an, darunter das Oldtimer Motorrad (31135), Exotischer Papagei (31136) und Niedliche Hunde (31137)
 - In diesem LEGO Set erhalten Kinder 3 verschiedene Bau- und Spielerlebnisse; ein außergewöhnliches Geschenk für Kinder ab 6 Jahren zum Geburtstag.
-- Mit der LEGO Builder App können Kinder eine digitale Version ihres Modells auf ihren Smartphones oder Tablets zoomen, drehen und visualisieren
+- Schau dir auch die anderen LEGO 3in1 Sets an, darunter das Oldtimer Motorrad (31135), Exotischer Papagei (31136) und Niedliche Hunde (31137)
 - Dieses 3in1 LEGO Weltraumspielzeug-Bauset enthält ein Spaceshuttle, das sich in eine Astronauten-Figur mit beweglichen Beinen und Armen oder ein Raumschiff umbauen lässt
+- Mit der LEGO Builder App können Kinder eine digitale Version ihres Modells auf ihren Smartphones oder Tablets zoomen, drehen und visualisieren
 - Kinder ab 6 Jahren können das supercoole Spaceshuttle mit einer zu öffnenden Luke bauen, in der sich ein herausnehmbarer und ausziehbarer Satellit befindet
 
 [🛒 Check the deal!!]({{< param buyurl >}})

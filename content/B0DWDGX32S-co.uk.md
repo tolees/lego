@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Playground playset for preschoolers – This LEGO Bluey toy features a buildable model in each bag, a large Starter Brick and simple instructions, making building fast, fun and easy for little builders
-- Interactive building toys for kids – Fans can join Bluey and Chloe LEGO minifigures in a colourful playground, featuring a pink seesaw, slide, climbing frame, noughts and crosses game and more
-- LEGO Bluey toy – Playground Fun with Bluey and Chloe is a fun building toy for 4+ year old girls and boys, featuring characters and activities from the Bluey TV show in a fun LEGO construction set
-- Boost kids’ development with Bluey – LEGO Bluey sets inspire creative role play that kids will love, while giving parents a fun way to share in their child’s developmental milestones
-- Many ways to play – This LEGO 4+ set includes a rotating pelican ride, three plants for jumping fun, a tower with a telescope and a cosy picnic area with drinks and cakes
 - Discover more LEGO Bluey toys – Explore other LEGO Bluey building toys (sold separately), with sets for toddlers, preschoolers and kids aged 4+
+- LEGO Bluey toy – Playground Fun with Bluey and Chloe is a fun building toy for 4+ year old girls and boys, featuring characters and activities from the Bluey TV show in a fun LEGO construction set
+- Playground playset for preschoolers – This LEGO Bluey toy features a buildable model in each bag, a large Starter Brick and simple instructions, making building fast, fun and easy for little builders
+- Many ways to play – This LEGO 4+ set includes a rotating pelican ride, three plants for jumping fun, a tower with a telescope and a cosy picnic area with drinks and cakes
+- Interactive building toys for kids – Fans can join Bluey and Chloe LEGO minifigures in a colourful playground, featuring a pink seesaw, slide, climbing frame, noughts and crosses game and more
+- Boost kids’ development with Bluey – LEGO Bluey sets inspire creative role play that kids will love, while giving parents a fun way to share in their child’s developmental milestones
 - Bluey-themed gift for 4+ year old girls and boys – This fun-packed playground building set is bursting with play possibilities for kids who love the TV show and creative Bluey toys
 
 [🛒 Buy it now!!]({{< param buyurl >}})

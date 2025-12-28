@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Manufacturer minimum age: 48.0
-- Lego Beutel;Premiumprodukt;30510;LEGO
 - Material: Kunststoff
 - Educational objective: Teambildung Fähigkeiten
+- Manufacturer minimum age: 48.0
 - Theme: Automobile
+- Lego Beutel;Premiumprodukt;30510;LEGO
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B1MP2W2F{{</world>}}

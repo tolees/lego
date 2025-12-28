@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lustiges Feuerwehr-Geschenk für jeden Anlass: Dieses LEGO City Camping-Spielzeug mit Auto und Boot eignet sich als Weihnachtsgeschenk oder oder Geburtstagsgeschenk für Jungen und Mädchen ab 5 Jahren
-- Inhalt dieses LEGO Feuerwehr-Spielzeugs: Ein Baukasten, um einen Feuerwehrgeländewagen, einen Anhänger, ein Boot-Spielzeug, ein Zelt und eine Campingkulisse mit Lagerfeuer sowie 3 Minifiguren – einen Camper und 2 Feuerwehrleute – zu bauen
 - Bauset mit Rettungswagen-Spielzeug: Der LEGO City Feuerwehrgeländewagen mit Rettungsboot für Kinder ab 5 Jahren ist eine faszinierende Kombi für doppeltes Spielvergnügen
+- Endlose Spielmöglichkeiten: Für weitere spannende Abenteuer musst du dieses LEGO Boot- und Auto-Spielzeug nur mit anderen separat erhältlichen LEGO City Feuerwehr-Sets kombinieren
+- Inhalt dieses LEGO Feuerwehr-Spielzeugs: Ein Baukasten, um einen Feuerwehrgeländewagen, einen Anhänger, ein Boot-Spielzeug, ein Zelt und eine Campingkulisse mit Lagerfeuer sowie 3 Minifiguren – einen Camper und 2 Feuerwehrleute – zu bauen
+- Lustiges Feuerwehr-Geschenk für jeden Anlass: Dieses LEGO City Camping-Spielzeug mit Auto und Boot eignet sich als Weihnachtsgeschenk oder oder Geburtstagsgeschenk für Jungen und Mädchen ab 5 Jahren
 - Digitale Bauanleitung für noch mehr Bauspaß: In der LEGO Builder App für Smartphones und Tablets sind Funktionen verfügbar, die dein Kind beim Bauen eine digitale Ansicht dieses Modells vergrößern, drehen und aus jedem Winkel betrachten lassen
 - Jede Menge Funktionen für ein fantasievolles Spielerlebnis: Das LEGO Offroad-Auto hat ein abnehmbares Dach, das Zugang zum Cockpit bietet, einen Feuerlöscher, ein Werkzeug-Staufach und einen Anhänger mit abnehmbarem Rettungsschlauchboot
-- Endlose Spielmöglichkeiten: Für weitere spannende Abenteuer musst du dieses LEGO Boot- und Auto-Spielzeug nur mit anderen separat erhältlichen LEGO City Feuerwehr-Sets kombinieren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVXYTFR{{</world>}}

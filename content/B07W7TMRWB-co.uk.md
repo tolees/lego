@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The specialised competition digger car used in drag racing features a back spoiler, engine and bigger back tyres for faster performance
-- Number of pieces: 163
 - The green-yellow monster truck features a heavy-duty working suspension and oversized tyres, ideal to roll over obstacles, like small cars
-- Monster Truck
 - Manufacturer recommended age: 7+
+- Number of pieces: 163
+- Monster Truck
+- The specialised competition digger car used in drag racing features a back spoiler, engine and bigger back tyres for faster performance
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07W7TMRWB{{</world>}}

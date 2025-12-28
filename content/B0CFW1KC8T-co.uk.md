@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A helping hand – Kids can download the LEGO Builder app which features digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Expand the Super Hero fun – There are more LEGO Marvel construction figures in the series to collect, sets sold separately
-- Captain America figure – The LEGO Marvel New Captain America Construction Figure set is a fun Super Hero building toy for 8+ year old boys and girls
 - Posable character– The Marvel figure features movable shoulder, arm, hip and leg joints that allow kids to create realistic Super Hero action poses
 - Gift for Marvel film lovers – This buildable Super Hero toy makes a great gift for 8 plus year old boys, girls and fans of Avengers action from the Marvel Cinematic Universe
 - Iconic Avengers character – For this incarnation of the Marvel super soldier, the winged Falcon figure takes on the role of Captain America
+- A helping hand – Kids can download the LEGO Builder app which features digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Captain America figure – The LEGO Marvel New Captain America Construction Figure set is a fun Super Hero building toy for 8+ year old boys and girls
+- Expand the Super Hero fun – There are more LEGO Marvel construction figures in the series to collect, sets sold separately
 - Authentic accessories – Captain America carries his iconic shield and has a buildable Redwing drone toy fixed to his back, which kids can detach
 
 [🛒 Check the deal!!]({{< param buyurl >}})

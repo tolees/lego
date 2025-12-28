@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- INCLUDES A MINIFIGURE – This building set includes a LEGO driver minifigure in a Ferrari outfit and helmet, ready to be placed in the cockpit for race action
-- F1 DETAILS – The model car is inspired by the real 2024 race car and features a rear wing, halo bar, sponsor stickers and wider rear tyres imprinted with “Pirelli”
-- FERRARI F1 TOY CAR FOR KIDS – 10+ year old boys and girls can build, display and race the LEGO Speed Champions Ferrari SF-24 F1 Race Car model kit
-- RACE CAR TOYS FOR ALL THE FAMILY – Kids can race against friends and family for the chequered flag with other LEGO F1 building sets (sold separately)
-- FERRARI F1 DISPLAY MODEL – Kids can create exciting racing stories with this F1 car toy, then proudly display it on a shelf or bedside table
-- BUILD ICONIC CARS – LEGO Speed Champions sets let kids and car fans create brick-built versions of some of the world’s most legendary vehicles
 - CHRISTMAS GIFT IDEA – This LEGO F1 set offers a fun build-and-play experience and makes a great gift for 10+ year old boys, girls and adult collectors
+- FERRARI F1 TOY CAR FOR KIDS – 10+ year old boys and girls can build, display and race the LEGO Speed Champions Ferrari SF-24 F1 Race Car model kit
+- FERRARI F1 DISPLAY MODEL – Kids can create exciting racing stories with this F1 car toy, then proudly display it on a shelf or bedside table
+- RACE CAR TOYS FOR ALL THE FAMILY – Kids can race against friends and family for the chequered flag with other LEGO F1 building sets (sold separately)
+- BUILD ICONIC CARS – LEGO Speed Champions sets let kids and car fans create brick-built versions of some of the world’s most legendary vehicles
+- F1 DETAILS – The model car is inspired by the real 2024 race car and features a rear wing, halo bar, sponsor stickers and wider rear tyres imprinted with “Pirelli”
+- INCLUDES A MINIFIGURE – This building set includes a LEGO driver minifigure in a Ferrari outfit and helmet, ready to be placed in the cockpit for race action
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBBV6R{{</world>}}

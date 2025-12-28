@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mit Zugriff auf sechs Charaktere, zwei Fahrzeuge, das Jurassic-Einsatzfahrzeug, das Jurassic world-Shuttle und mehr
-- Erkunden Sie die weitläufigen Gegenden von Isla Nublar und Isla Sorna indem Sie die eigenen Saurier auf die Weide stellen
 - Lego Jurassic World ist das erste Videospiel, in dem Spieler Schlüsselmomente und unvergessliche Szenen aus allen vier Jurassic-Filmen erleben können
+- Erkunden Sie die weitläufigen Gegenden von Isla Nublar und Isla Sorna indem Sie die eigenen Saurier auf die Weide stellen
+- Mit Zugriff auf sechs Charaktere, zwei Fahrzeuge, das Jurassic-Einsatzfahrzeug, das Jurassic world-Shuttle und mehr
 - Wählen Sie aus 20 Dinosauriern, die Angst und Schrecken verbreiten oder erschaffen Sie Ihre eigenen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

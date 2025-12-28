@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Disney Moana 2 Moana s Adventure Canoe - Buildable Toy boat with a Textile Sail Removable Deck Campfire & 3 Mini Dolls incl. Loto and Moni - Gift for 6+ Year Old Girls & Fans - 43270'
-date: 2025-12-19 03:14:17
+date: 2025-12-27 18:55:45
 image: 'https://m.media-amazon.com/images/I/51k5zH+8mgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.co.uk/dp/B0DHSDL4JT/?tag=tolees0a-21'
 descuento: '36.37'
-average: '35.24'
+average: '35.2268421052631'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO | Disney Princess playset – The canoe has a rope lei hulu to find wind direction, a small house for Pua the pig, a lean-to for Moana and more
-- LEGO boat toy – Kids build a double-hulled canoe with a patterned textile sail, removable deck, living area, plus 4 LEGO ǀ Disney movie characters
-- LEGO ǀ Disney Moana 2 Collection – Add this set to others in the range like Moanas Island Fun (43260) and Heihei (43272) to expand your kids collection of LEGO | Disney building toys
 - Buildable Moana toy for kids – Thrill Moana 2 movie fans with this LEGO | Disney Moanas Adventure Canoe toy for 6+ year old girls and boys
-- Creative toy functions – Kids can remove the upper deck of the buildable toy boat to explore and play, or climb the rope lei hulu with Loto or Moana to get a better view
-- LEGO ǀ Disney gifts for kids – The LEGO canoe with textile sail makes a fun gift for 6+ year old girls, boys and older fans of Disneys Moana 2
+- LEGO ǀ Disney Moana 2 Collection – Add this set to others in the range like Moanas Island Fun (43260) and Heihei (43272) to expand your kids collection of LEGO | Disney building toys
+- LEGO | Disney Princess playset – The canoe has a rope lei hulu to find wind direction, a small house for Pua the pig, a lean-to for Moana and more
 - Fun skills boost – 4 Disney figures, a double-hulled canoe with textile sail, and detailed features in this LEGO ǀ Disney set inspire creative play and help build life skills
+- LEGO ǀ Disney gifts for kids – The LEGO canoe with textile sail makes a fun gift for 6+ year old girls, boys and older fans of Disneys Moana 2
+- LEGO boat toy – Kids build a double-hulled canoe with a patterned textile sail, removable deck, living area, plus 4 LEGO ǀ Disney movie characters
+- Creative toy functions – Kids can remove the upper deck of the buildable toy boat to explore and play, or climb the rope lei hulu with Loto or Moana to get a better view
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDL4JT{{</world>}}

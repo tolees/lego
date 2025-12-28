@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Star Wars set with fun features – Flick levers to ‘blast’ open the entrance door to the corridor and topple LEGO minifigures during play
-- Fun Star Wars gift for fans – This collectible building toy makes a great birthday gift for 8+ year old boys, girls and Star Wars: A New Hope fans
-- LEGO Star Wars Tantive IV set – Recreate the iconic Boarding scene from Star Wars: A New Hope with this building toy for 8+ year old boys and girls
-- 7 LEGO Star Wars minifigures – Features LEGO Darth Vader, 2 Stormtroopers, 2 Rebel Fleet Troopers and Captain Antilles minifigures
 - A helping hand – Using the LEGO Builder app, kids can zoom, rotate and visualise a digital version of this construction toy as they build, track their progress, save sets and more
+- 7 LEGO Star Wars minifigures – Features LEGO Darth Vader, 2 Stormtroopers, 2 Rebel Fleet Troopers and Captain Antilles minifigures
+- LEGO Star Wars set with fun features – Flick levers to ‘blast’ open the entrance door to the corridor and topple LEGO minifigures during play
 - Star Wars memorabilia – This building toy also includes a LEGO Star Wars 25th anniversary minifigure of ARC Trooper Fives with a display stand
 - Collectible LEGO Star Wars building toy for kids – Connectors allow builders to add another 75387 set (sold separately) to extend the corridor
+- LEGO Star Wars Tantive IV set – Recreate the iconic Boarding scene from Star Wars: A New Hope with this building toy for 8+ year old boys and girls
+- Fun Star Wars gift for fans – This collectible building toy makes a great birthday gift for 8+ year old boys, girls and Star Wars: A New Hope fans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW28JMN{{</world>}}

@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - LEGO space set with working functions – Kids can use the rotating arm to lift the mining rover and the sample container from the main rover ready to search for Moon rocks
 - An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
-- Gift idea for space enthusiasts – A fun gift for 10+ year old boys and girls who enjoy science building sets, LEGO bricks and robot toys or anyone with a passion for space travel and lunar exploration
-- A fun way to build model kits – The LEGO Builder app guides kids on an intuitive building adventure, letting them save sets, track progress and zoom in and rotate models in 3D while they build
-- Brick-built interactive toys – An all-terrain Moon rover with rocker suspension, 4-wheel steering and deployable solar panels, plus a smaller mining rover, sample container and MAPP rover
-- Collect Moon rocks with a lunar crane toy – Builders use the mining rovers dynamic scoop to grab the Moon rock elements and store them inside the sample container
 - Buildable space toy for kids – Inspire young builders to learn more about the Moon with the LEGO Technic Lunar Outpost Moon Rover Space Vehicle building toy for 10+ year old boys and girls
+- Brick-built interactive toys – An all-terrain Moon rover with rocker suspension, 4-wheel steering and deployable solar panels, plus a smaller mining rover, sample container and MAPP rover
+- A fun way to build model kits – The LEGO Builder app guides kids on an intuitive building adventure, letting them save sets, track progress and zoom in and rotate models in 3D while they build
+- Gift idea for space enthusiasts – A fun gift for 10+ year old boys and girls who enjoy science building sets, LEGO bricks and robot toys or anyone with a passion for space travel and lunar exploration
+- Collect Moon rocks with a lunar crane toy – Builders use the mining rovers dynamic scoop to grab the Moon rock elements and store them inside the sample container
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDM1BQ6{{</world>}}

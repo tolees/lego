@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Role-play toy– This Heartlake City Café toy for 6+-year-old girls and boys comes with 3 mini-dolls, a dog figure, plus food-themed accessories
 - Get creative at the toy cake shop – The imaginative play starts right away as kids help Beatriz prepare treats to sell in the patisserie-style café
-- Includes LEGO Friends characters – With this learning toy, kids can tell the story of Paisley and Olly visiting their favourite café
 - Discover more friendship stories – Check out other LEGO Friends sets (sold separately) in the range, where kids can discover diverse characters and act out real-life adventures
-- A gift idea for kids who love imaginative play – This role-play building toy set makes a fun birthday gift for 6-plus-year-old girls and boys
 - Lots of accessories – This LEGO Friends set comes with macarons, a croissant, scooter, helmet, delivery box, dog bowl, trophy and a broom
+- Role-play toy– This Heartlake City Café toy for 6+-year-old girls and boys comes with 3 mini-dolls, a dog figure, plus food-themed accessories
+- Includes LEGO Friends characters – With this learning toy, kids can tell the story of Paisley and Olly visiting their favourite café
+- A gift idea for kids who love imaginative play – This role-play building toy set makes a fun birthday gift for 6-plus-year-old girls and boys
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3HQV9{{</world>}}

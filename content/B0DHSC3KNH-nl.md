@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 LEGO Friends poppetjes en een speelgoed kat figuur – kinderen kunnen allerlei verschillende verhalen bedenken met de Friens personages en leuke accessoires in deze LEGO dieren set
+- Verjaardagscadeau voor meisjes en jongens – deze set is een leuk cadeau voor meisjes en jongens die graag creatief spelen en van zoetigheid houden
 - Rollenspel in de snoepwinkel – dit speelgoed voor meisjes en jongens is ontworpen om de sociale ontwikkeling van kinderen te ondersteunen door te doen alsof ze klanten bedienen of vriendjes zijn met Leo en zijn zusje Alba
+- Fantasierijk speelgoed voor kinderen – deze Heartlake City snoepwinkel voor meisjes en jongens vanaf 6 jaar bevat 3 poppetjes en een speelgoed dieren figuur van een kat, plus veel accessoires voor rollenspellen
 - Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 - Plezier in de speelgoedwinkel – de set bevat veel leuke kenmerken waaronder schepsnoep, een gigantische lolly, een kauwgomballenautomaat en een ruimte om snoep te maken met ingrediënten, een schaar en een pan
-- Verjaardagscadeau voor meisjes en jongens – deze set is een leuk cadeau voor meisjes en jongens die graag creatief spelen en van zoetigheid houden
-- Fantasierijk speelgoed voor kinderen – deze Heartlake City snoepwinkel voor meisjes en jongens vanaf 6 jaar bevat 3 poppetjes en een speelgoed dieren figuur van een kat, plus veel accessoires voor rollenspellen
+- 3 LEGO Friends poppetjes en een speelgoed kat figuur – kinderen kunnen allerlei verschillende verhalen bedenken met de Friens personages en leuke accessoires in deze LEGO dieren set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC3KNH{{</world>}}

@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kit de decoración para la estantería: Desliza la maqueta entre tus novelas favoritas a modo de ventana con vistas a la Tierra Media o ábrela para convertirla en un cautivador objeto de adorno
-- Características y funciones: Abre el diorama y coloca la minifigura de Gandalf el Gris y la figura del Balrog en la pose que prefieras para recrear su enfrentamiento sobre el puente de Khazad-dûm en una pieza de exposición llena de dinamismo
 - Kit de construcción de un evocador rincón entre libros muy cinematográfico: Crea una ventana con vistas a la Tierra Media con el set de construcción para adultos LEGO Icons Rincón entre Libros: El Señor de los Anillos: Balrog
-- Contenido de la caja: Incluye todo lo que necesitarás para construir el Rincón entre Libros: El Señor de los Anillos: Balrog LEGO Icons, una figura del Balrog con un látigo ardiente y una minifigura de Gandalf el Gris con un bastón y una espada
+- Instrucciones de construcción 3D: Prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, consultar tu progreso y guardar sets
+- Dimensiones: Abierto para colocarlo en exposición, el set Rincón entre Libros: El Señor de los Anillos: Balrog, compuesto por 1201 piezas, mide aproximadamente 22 cm de altura, 44 cm de anchura y 17 cm de profundidad
 - Proyectos de construcción LEGO para adultos: Este proyecto de construcción de una maqueta LEGO Icons pertenece a la inspiradora gama de sets de construcción creativa LEGO diseñados expresamente para adultos
 - Regalo para amantes de los libros: Date el gusto de tener este set de construcción LEGO Icons o regálaselo a un fan de la trilogía cinematográfica de El señor de los anillos por su cumpleaños o con motivo de una fiesta especial
-- Dimensiones: Abierto para colocarlo en exposición, el set Rincón entre Libros: El Señor de los Anillos: Balrog, compuesto por 1201 piezas, mide aproximadamente 22 cm de altura, 44 cm de anchura y 17 cm de profundidad
-- Instrucciones de construcción 3D: Prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, consultar tu progreso y guardar sets
+- Características y funciones: Abre el diorama y coloca la minifigura de Gandalf el Gris y la figura del Balrog en la pose que prefieras para recrear su enfrentamiento sobre el puente de Khazad-dûm en una pieza de exposición llena de dinamismo
+- Kit de decoración para la estantería: Desliza la maqueta entre tus novelas favoritas a modo de ventana con vistas a la Tierra Media o ábrela para convertirla en un cautivador objeto de adorno
+- Contenido de la caja: Incluye todo lo que necesitarás para construir el Rincón entre Libros: El Señor de los Anillos: Balrog LEGO Icons, una figura del Balrog con un látigo ardiente y una minifigura de Gandalf el Gris con un bastón y una espada
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDM6VZ8{{</world>}}

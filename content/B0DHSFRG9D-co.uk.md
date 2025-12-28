@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (each set sold separately) featuring dragons, mechs and vehicles
-- NINJAGO’s first ever pull-back car – Kids can make Lloyd’s Pull-Back toy race car speed forward by pulling it back and releasing it
-- 2 NINJAGO minifigures – This Building kit includes Lloyd with 2 golden katana sword accessories and a Dragonian Warrior with a sword accessory
 - Race car toy – 7+ year old boys and girls can play out action from season 3 of the NINJAGO Dragons Rising TV show with Lloyd’s Pull-Back Race Car toy
+- 2 NINJAGO minifigures – This Building kit includes Lloyd with 2 golden katana sword accessories and a Dragonian Warrior with a sword accessory
+- NINJAGO’s first ever pull-back car – Kids can make Lloyd’s Pull-Back toy race car speed forward by pulling it back and releasing it
+- For imaginative role play – The ninja toy set also comes with 2 lightning elements to set up a small obstacle course for the toy car
 - Packed with features – The sleek race car in this LEGO NINJAGO set has 4 tyres and a cockpit and is decorated with green lightning blades
 - Ninja gift – This action toy provides an immersive build-and-play experience and is a fun birthday gift idea for 7 plus year old boys and girls who love NINJAGO vehicles
-- For imaginative role play – The ninja toy set also comes with 2 lightning elements to set up a small obstacle course for the toy car
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFRG9D{{</world>}}

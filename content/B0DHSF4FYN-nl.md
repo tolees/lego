@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Draaibaar Bat-Signal – de Bat-Signal speelgoedprojector (geeft geen licht) die kinderen kunnen gebruiken om Batman op te roepen, kantelt en draait 360 graden in beide richtingen
-- 3D-bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
-- LEGO Batman Tumbler Batmobile – de speelgoedauto heeft een vlamelement bij de uitlaat, kan worden geopend en bevat een bedieningspaneel en een cockpit met ruimte voor de Batman minifiguur
-- Speelgoed voor kinderen met Batman voertuig – geef kinderen de Batmobile uit de Dark Knight films in handen met deze hoogwaardige LEGO speelset voor jongens en meisjes vanaf 8 jaar
-- LEGO DC superhelden – een minifiguur van Batman met zijn Batarang, een minifiguur van The Joker met een stapel geld en een minifiguur van Two-Face met zijn kenmerkende zilveren munt
-- Batman cadeau voor jongens en meisjes – verras jongens en meisjes die fan zijn van superhelden, voertuigen, de Batman films en rollenspellen met dit LEGO speelgoed
 - LEGO DC speelgoed – de uitgebreide reeks LEGO DC bouwsets biedt kinderen die van rollenspellen met superhelden houden eindeloze fantasierijke bouw- en speelmogelijkheden
+- Speelgoed voor kinderen met Batman voertuig – geef kinderen de Batmobile uit de Dark Knight films in handen met deze hoogwaardige LEGO speelset voor jongens en meisjes vanaf 8 jaar
+- Batman cadeau voor jongens en meisjes – verras jongens en meisjes die fan zijn van superhelden, voertuigen, de Batman films en rollenspellen met dit LEGO speelgoed
+- LEGO DC superhelden – een minifiguur van Batman met zijn Batarang, een minifiguur van The Joker met een stapel geld en een minifiguur van Two-Face met zijn kenmerkende zilveren munt
+- 3D-bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
+- Draaibaar Bat-Signal – de Bat-Signal speelgoedprojector (geeft geen licht) die kinderen kunnen gebruiken om Batman op te roepen, kantelt en draait 360 graden in beide richtingen
+- LEGO Batman Tumbler Batmobile – de speelgoedauto heeft een vlamelement bij de uitlaat, kan worden geopend en bevat een bedieningspaneel en een cockpit met ruimte voor de Batman minifiguur
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSF4FYN{{</world>}}

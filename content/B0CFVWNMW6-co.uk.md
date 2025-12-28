@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Includes a ‘wanted’ poster – With an adult’s permission, kids can scan the QR code in the building instructions or on the box for a fun video
 - Police truck toy – Tracking crooks is the name of the game with this LEGO City Police Mobile Crime Lab Truck toy set for 7+ year old boys and girls
 - Pretend play – Kids open the truck toy to reveal a 2-level crime lab with workstations, map, CCTV screens, microscope, coffee machine and jail cell
 - Fun build-and-play police toys for kids – Includes everything kids need to build a mobile crime lab, toy quad bike, forensic scene and 5 minifigures
-- Includes a ‘wanted’ poster – With an adult’s permission, kids can scan the QR code in the building instructions or on the box for a fun video
 - Play without limits – Kids unleash more fun and adventures when they add this police toy set to others (sold separately) from the LEGO City range
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Creatief speelgoed – bekijk ook de andere LEGO Animal Crossing sets (apart verkrijgbaar) die geïnspireerd zijn op de games en kinderen door laten spelen met hun eigen leuke verhalen zonder dat het ze schermtijd kost
 - Animal Crossing cadeau voor gamers – trakteer kinderen die van creatief spelen houden op dit gamingspeelgoed met personages waarmee ze Animal Crossing avonturen in eigen handen krijgen
-- Dieren- en natuurspeelgoed – kinderen kunnen een schop gebruiken om het ontbrekende staartbeen van de Triceratops op te graven, vissen binnenhalen voor het aquarium en vlinders en griezelige beestjes vangen met een net
-- Digitaal bouwplezier – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
 - Speelgoed met LEGO dieren figuren – de set wordt geleverd met minifiguren van de uil Blathers en de kikker Lily uit de Animal Crossing videogame serie
+- Dieren- en natuurspeelgoed – kinderen kunnen een schop gebruiken om het ontbrekende staartbeen van de Triceratops op te graven, vissen binnenhalen voor het aquarium en vlinders en griezelige beestjes vangen met een net
 - Aanpasbare LEGO dinosaurus set – dankzij de scharnierende wanden kan het museum op verschillende manieren worden ingedeeld, zoals gesloten of volledig open voor maximale toegankelijkheid
+- Digitaal bouwplezier – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
+- Creatief speelgoed – bekijk ook de andere LEGO Animal Crossing sets (apart verkrijgbaar) die geïnspireerd zijn op de games en kinderen door laten spelen met hun eigen leuke verhalen zonder dat het ze schermtijd kost
 - Animal Crossing bouwpakket voor kinderen – de set Blathers museumcollectie is leuk dieren speelgoed voor kinderen die Animal Crossing spelen en voor meisjes en jongens vanaf 7 jaar die van dieren en de natuur houden
 
 [🛒 Buy it!!]({{< param buyurl >}})

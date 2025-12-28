@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Boordevol details – de tijgermecha en de speelgoedrobot zijn in allerlei standen verstelbaar, de voertuigmodellen hebben rollende wielen en er zijn accessoires zoals noppenschieters en een speelgoedzwaard
-- 3 LEGO minifiguren – Cooper, Zero en een onschuldige dromer, plus Z-Blob, een cyberbreinspin en 2 Cyberwezens, brengen de actie tot leven en stimuleren zelfstandig spelen
-- Breid het plezier uit – de set bevat modulaire boosters en voorvleugels die aan andere sets (apart verkrijgbaar) uit het LEGO DREAMZzz assortiment van 2025 kunnen worden bevestigd voor nog meer creatief speelplezier
-- Fantasierijk cadeau voor jongens en meisjes – deze set is een leuk cadeau voor kinderen die dol zijn op de LEGO DREAMZzz tv-serie, maar ook voor tijgerliefhebbers en autofans
 - 2 bouwmogelijkheden – kinderen helpen Cooper om zijn rode vliegtuig om te toveren tot een tijgermecha en een hot rod auto of tot een snelle LEGO raceauto en een speelgoed robot wezen
+- 3 LEGO minifiguren – Cooper, Zero en een onschuldige dromer, plus Z-Blob, een cyberbreinspin en 2 Cyberwezens, brengen de actie tot leven en stimuleren zelfstandig spelen
+- Boordevol details – de tijgermecha en de speelgoedrobot zijn in allerlei standen verstelbaar, de voertuigmodellen hebben rollende wielen en er zijn accessoires zoals noppenschieters en een speelgoedzwaard
+- Breid het plezier uit – de set bevat modulaire boosters en voorvleugels die aan andere sets (apart verkrijgbaar) uit het LEGO DREAMZzz assortiment van 2025 kunnen worden bevestigd voor nog meer creatief speelplezier
 - Bouwpakket voor kinderen met raceauto – zoef de Droomwereld in met het LEGO DREAMZzz Coopers tijgermecha en Zeros hot rod auto speelgoed kinderen van 9 jaar en ouder
 - Maak deel uit van de actie – de set bevat bouwinstructies op basis van verhalen waarmee kinderen helemaal kunnen opgaan in het avontuur van de Droomwereld
+- Fantasierijk cadeau voor jongens en meisjes – deze set is een leuk cadeau voor kinderen die dol zijn op de LEGO DREAMZzz tv-serie, maar ook voor tijgerliefhebbers en autofans
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCC5QP{{</world>}}

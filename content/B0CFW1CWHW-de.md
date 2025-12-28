@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3in1-Set mit vielen Funktionen: Die Spielzeug-Kamera hat ein bewegliches Objektiv, Bedienknöpfe an der Oberseite, einen hinten einlegbaren Film und einen Trageriemen; die Videokamera kann man zum Filmen aufklappen, und der Fernseher hat eine Antenne
-- Unzählige kreative Spielmöglichkeiten: Dein Kind kann sich faszinierende Geschichten mit den 3 verschiedenen Retro-Spielzeugen – Fotoapparat, Videokamera und Fernseher – einfallen lassen
-- Retro-Geschenk für kleine Fotografen: Dieses 3in1 Retro-Spielzeug bietet Jungen und Mädchen ab 8 Jahren ein faszinierendes Bau- und Spielerlebnis und eignet sich als kreatives Fotografie-Geschenk für Kinder oder spontane Belohnung
-- Modelle zum Ausstellen: Alle 3 LEGO Retro-Apparate sind eigenständige Modelle, die nach dem Spielen im Kinderzimmer als Schreibtisch-Deko oder Büro-Deko ausgestellt werden können
 - 3 Retro-Apparate in 1 Box: Die LEGO Creator Retro Kamera ist ein 3in1 Spielzeug für Mädchen und Jungen, das Kinder ab 8 Jahren 3 verschiedene Retro-Modelle mit denselben LEGO Steinen bauen lässt
+- Modelle zum Ausstellen: Alle 3 LEGO Retro-Apparate sind eigenständige Modelle, die nach dem Spielen im Kinderzimmer als Schreibtisch-Deko oder Büro-Deko ausgestellt werden können
+- 3in1-Set mit vielen Funktionen: Die Spielzeug-Kamera hat ein bewegliches Objektiv, Bedienknöpfe an der Oberseite, einen hinten einlegbaren Film und einen Trageriemen; die Videokamera kann man zum Filmen aufklappen, und der Fernseher hat eine Antenne
+- Retro-Geschenk für kleine Fotografen: Dieses 3in1 Retro-Spielzeug bietet Jungen und Mädchen ab 8 Jahren ein faszinierendes Bau- und Spielerlebnis und eignet sich als kreatives Fotografie-Geschenk für Kinder oder spontane Belohnung
+- Unzählige kreative Spielmöglichkeiten: Dein Kind kann sich faszinierende Geschichten mit den 3 verschiedenen Retro-Spielzeugen – Fotoapparat, Videokamera und Fernseher – einfallen lassen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1CWHW{{</world>}}

@@ -33,8 +33,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Collectible building set for adults – The Luxo Jr. model is fully articulated to recreate the character’s bouncing, hopping and rotating movements
 - Fun home or office desk decor – Remove 2 rounded plates from either side of the Pixar Ball to create a base for Luxo Jr. to stand on, as if it is deflating the Pixar Ball
 - Buildable movie memorabilia – Capture the playful spirit of Luxo Jr. with this posable LEGO brick model of the character first seen in the 1986 Disney Pixar animated short film of the same name
-- The LEGO fans’ choice – This set is from the LEGO Ideas range, where each set is created by a fan designer, voted for by LEGO fans and produced by the LEGO Group
 - Disney Pixar gift idea – This model kit makes a fun treat for yourself or a nostalgic gift for men and women who are passionate about Disney Pixar movies
+- The LEGO fans’ choice – This set is from the LEGO Ideas range, where each set is created by a fan designer, voted for by LEGO fans and produced by the LEGO Group
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF6XWX3{{</world>}}

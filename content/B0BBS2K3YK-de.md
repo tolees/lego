@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kompaktes Star Wars Spielzeug für unterwegs: Passt in jeden Kinderrucksack und ist ein tolles Star Wars Geschenk für jeden Anlass – für Clone Wars Spaß bei Groß und Klein
 - Kinder ab 6 Jahren und Star Wars-Fans werden Spaß daran haben, ihre eigene Einheit Clone Squadron mit 4 Star Wars Mini-Figuren, Waffen und einer AV-7 Anti-Fahrzeug-Kanone zu bauen, um actionreiche Szenen aus The Clone Wars nachzustellen
+- Kompaktes Star Wars Spielzeug für unterwegs: Passt in jeden Kinderrucksack und ist ein tolles Star Wars Geschenk für jeden Anlass – für Clone Wars Spaß bei Groß und Klein
 - Baubare AV-7 Anti-Fahrzeug-Kanone: Mit verstellbaren Beinen, anhebbarer Kanone, federunterstütztem Shooter und einem Sitz für eine LEGO Star Wars Mini-Figur zur Bedienung
-- Lernspielzeug mit digitaler Unterstützung: Mit einer klaren, leicht verständlichen Bauanleitung und der LEGO Builder App, die eine digitale Version mit Zoom- und Drehfunktionen bietet, um das Baumodell während des Baus zu betrachten
 - Enthält 4 LEGO Star Wars Spiel-Figuren: Einen Offizier mit Blasterpistole, einen Clone Specialist mit Blastergewehr und 2 Heavy Trooper mit Blastern
+- Lernspielzeug mit digitaler Unterstützung: Mit einer klaren, leicht verständlichen Bauanleitung und der LEGO Builder App, die eine digitale Version mit Zoom- und Drehfunktionen bietet, um das Baumodell während des Baus zu betrachten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBS2K3YK{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dekoratives Spielzeug: Die LEGO Tiere eignen sich auch als Zimmer Deko; das Pferd kann auf 2, 3 oder 4 Beinen positioniert und individuell ausgestellt werden
-- Interaktives Spielzeug: Mit der LEGO Builder App entdecken Kinder 3D-Ansichten, verfolgen ihren Fortschritt und erleben ein kreatives, intuitives Konstruktionsspielzeug
 - Rollenspiel mit Tierfiguren: Kinder können mit LEGO Tieren wie Pferd, Bär oder Hirsch spannende Geschichten erfinden; die Modelle lassen sich abwechselnd bauen und spielen
-- Bewegliche LEGO Tiere: Pferd, Bär und Hirsch verfügen über bewegliche Beine und Köpfe; so entstehen lebendige Szenen mit diesem kreativen Spielzeug für fantasievolles Spielen
 - Vielseitiges 3-in-1-Tierset: Mit LEGO Creator 3-in-1 bauen Kinder ein Spielzeugpferd, einen LEGO Hirsch oder einen LEGO Bär aus nur einer Box und erleben kreativen Spielspaß
+- Bewegliche LEGO Tiere: Pferd, Bär und Hirsch verfügen über bewegliche Beine und Köpfe; so entstehen lebendige Szenen mit diesem kreativen Spielzeug für fantasievolles Spielen
 - Vielfalt mit LEGO Creator: Die separat erhältlichen LEGO Creator-Sets ermöglichen den Bau von Tieren, Fahrzeugen und Häusern; und sorgen so für nich mehr Spaß
 - Tolles Geschenk für Kinder: Dieses LEGO Creator 3-in-1-Set begeistert Mädchen und Jungen mit abwechslungsreichem Bauspaß und ist ein Highlight zum Geburtstag oder als Überraschung
+- Dekoratives Spielzeug: Die LEGO Tiere eignen sich auch als Zimmer Deko; das Pferd kann auf 2, 3 oder 4 Beinen positioniert und individuell ausgestellt werden
+- Interaktives Spielzeug: Mit der LEGO Builder App entdecken Kinder 3D-Ansichten, verfolgen ihren Fortschritt und erleben ein kreatives, intuitives Konstruktionsspielzeug
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDXTHX3{{</world>}}

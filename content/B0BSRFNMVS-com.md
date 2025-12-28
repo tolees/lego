@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - News-reporter pretend play for kids ages 6+ – Kids who are passionate about protecting wildlife can enjoy hours of play with this LEGO Friends Newsroom Van toy (41749)
-- A gift for roving reporters and wildlife lovers – This LEGO Friends set makes a gift idea for any child aged 6 and up who would love to film and report local news
-- Sized for young builders – The LEGO Friends Newsroom Van measures over 4 in. (10 cm) high, 5.5 in. (14 cm) long and3 in. (8 cm) wide
 - 3 characters and accessories – The set comes with LEGO Friends characters Aliya, Peter the logger, and Darrel, who is protesting about the tree being cut down
-- Act out the story – Kids can enjoy recording the news time after time. The tree branch can be knocked down, causing the egg to fall from the nest, while the extendable camera crane captures the events
-- Filming and reporting the news – Kids can create endless newsroom stories with the accessories, which include a walkie-talkie, microphone, an owl with an egg, a sign and a chainsaw
+- A gift for roving reporters and wildlife lovers – This LEGO Friends set makes a gift idea for any child aged 6 and up who would love to film and report local news
 - A helping hand – Discover intuitive instructions in the LEGO Builder app, where builders can zoom in and rotate models in 3D, track their progress and save sets as they develop new skills
+- Sized for young builders – The LEGO Friends Newsroom Van measures over 4 in. (10 cm) high, 5.5 in. (14 cm) long and3 in. (8 cm) wide
+- Filming and reporting the news – Kids can create endless newsroom stories with the accessories, which include a walkie-talkie, microphone, an owl with an egg, a sign and a chainsaw
+- Act out the story – Kids can enjoy recording the news time after time. The tree branch can be knocked down, causing the egg to fall from the nest, while the extendable camera crane captures the events
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRFNMVS{{</world>}}

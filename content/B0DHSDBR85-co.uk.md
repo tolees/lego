@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Animal Crossing toy gift – Makes a fun gift for 7 plus year old girls, boys and Animal Crossing fans who love pretend play and role-play toys toys
+- 2 LEGO Animal Crossing character minifigures – This garden shop playset includes Leif, a sloth, and Poppy, a squirrel, from the video game series
+- Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video games, which encourage kids to use their storytelling skills even when on a screen break
 - Many ways to play – Kids imagine driving the attachable toy car and caravan, setting up the plant shop, planting seeds and watering them with the can
 - Car and caravan toy – Leif’s Caravan & Garden Shop Animal Crossing toy for 7 plus year old girls, boys and fans sparks hours of imaginative play
 - Versatile LEGO vehicle – The caravan toy’s sides open out so kids can settle Leif in after cooking a meal of fresh veg on the camping stove
-- Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video games, which encourage kids to use their storytelling skills even when on a screen break
-- 2 LEGO Animal Crossing character minifigures – This garden shop playset includes Leif, a sloth, and Poppy, a squirrel, from the video game series
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDBR85{{</world>}}

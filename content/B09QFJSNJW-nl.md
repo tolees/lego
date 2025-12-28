@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - OP AFSTAND BESTUURBARE TREIN – nclusief een op afstand bestuurbare LEGO trein met een restauratiewagon, passagierswagon en een stationsperron met een boom, bankje en een bord, plus 24 railelementen; 16 gebogen en 8 rechte
-- CADEAU VOOR JONGENS EN MEISJES – verras kinderen vanaf 7 jaar die gek zijn op coole voertuigen en treinen met dit leuke LEGO speelgoed, ideaal voor jongens en meisjes die houden van treinen
-- ROLLENSPEL PLEZIER – kinderen zien de aerodynamische locomotief aankomen op het perron; vervolgens stappen ze aan boord van de restauratiewagon voor een croissant en te drinken, of ze gaan door naar de passagierswagon, waar ruimte is voor de bagage en een speelgoed fiets
-- MET 6 MINIFIGUREN – 4 passagiers, een cafémedewerker en een machinist, plus diverse accessoires, zoals een laptop, telefoon, fiets, rolstoel, aktetas, rugzak, hotdog en croissant
-- MET REALISTISCHE FUNCTIES – de speelgoedtrein met werkende, dimbare koplampen kan worden bestuurd met de afstandsbediening in de set of vanaf een smartphone of tablet met de LEGO Powered Up-app
 - LEGO CITY TREIN SPEELGOED VOOR KINDEREN – deze LEGO City trein set bestaat uit een op afstand bestuurbare speelgoed trein met werkende, dimbare koplampen, en LEGO Powered Up technologie
+- CADEAU VOOR JONGENS EN MEISJES – verras kinderen vanaf 7 jaar die gek zijn op coole voertuigen en treinen met dit leuke LEGO speelgoed, ideaal voor jongens en meisjes die houden van treinen
+- MET REALISTISCHE FUNCTIES – de speelgoedtrein met werkende, dimbare koplampen kan worden bestuurd met de afstandsbediening in de set of vanaf een smartphone of tablet met de LEGO Powered Up-app
+- MET 6 MINIFIGUREN – 4 passagiers, een cafémedewerker en een machinist, plus diverse accessoires, zoals een laptop, telefoon, fiets, rolstoel, aktetas, rugzak, hotdog en croissant
 - HANDIGE INSTRUCTIES – Het constructie speelgoed bevat stapsgewijze instructies voor ieder model, zodat kinderen met zelfvertrouwen kunnen beginnen aan het bouwen van de op afstand bestuurbare trein, het perron en de spoorbaan
+- ROLLENSPEL PLEZIER – kinderen zien de aerodynamische locomotief aankomen op het perron; vervolgens stappen ze aan boord van de restauratiewagon voor een croissant en te drinken, of ze gaan door naar de passagierswagon, waar ruimte is voor de bagage en een speelgoed fiets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFJSNJW{{</world>}}

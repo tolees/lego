@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- The adventure toy set features story-led building instructions (also available in the LEGO Builder app) to lead kids on a creative journey
 - The model building kit includes 4 LEGO DREAMZzz minifigures: Mateo, Izzie, Nova and the Nightmare King to help bring the magical TV story to life
 - Night Hunter combined Izzie’s favourite cuddly toy with a pirate ship to create a monster vehicle; the boat toy can be built in ship- or tank mode
-- Full of fun features; the shark boat toy has an opening jaw, a secret treasure chest, removable rear cabin, cage, trapdoor and swivelling turrets
-- The adventure toy set features story-led building instructions (also available in the LEGO Builder app) to lead kids on a creative journey
+- This cool vehicle toy playset allows kids to escape into the world of LEGO DREAMZzz; imaginative play toys make great birthday gifts or Christmas presents for kids, girls and boys
 - This LEGO DREAMZzz building toys ship mode has powerful engines and sails, while the tank mode features cool accessories and flying eyeballs
 - This LEGO DREAMZzz Nightmare Shark Ship building set with a dream pirate ship toy and 4 minifigures lets kids build an awesome vehicle toy in 2 ways
-- This cool vehicle toy playset allows kids to escape into the world of LEGO DREAMZzz; imaginative play toys make great birthday gifts or Christmas presents for kids, girls and boys
+- Full of fun features; the shark boat toy has an opening jaw, a secret treasure chest, removable rear cabin, cage, trapdoor and swivelling turrets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BV7C2C3X{{</world>}}

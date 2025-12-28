@@ -29,13 +29,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 4 reindeer figures – Transporting kids’ imaginations to the North Pole, the sleigh is pulled by 4 reindeer toys to encourage festive pretend play
+- LEGO SEASONS AND OCCASIONS – Explore other festive building sets (sold separately) to spread even more seasonal cheer
 - IMAGINATION TAKES FLIGHT – Budding elves will have fun building the red-and-gold sleigh before discovering all the Christmas gifts packed inside
+- CHRISTMAS GIFT FOR KIDS – This festive building set makes a great gift for 9+ year old boys and girls, as well as adults who love LEGO sets and Christmas decor
+- 4 ANIMAL FIGURES – Transporting kids’ imaginations to the North Pole, the sleigh is pulled by 4 reindeer toys to encourage festive pretend play
 - MEET SANTA – Bringing the magic to life, this set includes a LEGO Santa Claus minifigure that can be seated at the front of the sleigh
 - FESTIVE PRESENTS – Kids will love discovering the gift elements in the sleigh, including a toy guitar, a teddy bear and a pair of skis
-- CHRISTMAS GIFT FOR KIDS – This festive building set makes a great gift for 9+ year old boys and girls, as well as adults who love LEGO sets and Christmas decor
 - LEGO SLEIGH – Let kids’ creativity soar any time of year with this LEGO Santa’s Sleigh Christmas toy for 9+ year old boys and girls
-- 4 ANIMAL FIGURES – Transporting kids’ imaginations to the North Pole, the sleigh is pulled by 4 reindeer toys to encourage festive pretend play
-- LEGO SEASONS AND OCCASIONS – Explore other festive building sets (sold separately) to spread even more seasonal cheer
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09HNZ431F{{</world>}}

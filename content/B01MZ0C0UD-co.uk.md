@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bricks that build skills – LEGO Classic building toys are filled with ideas and inspiration, and allow parents to share building fun and developmental milestones with their kids
-- Imaginative play – Kids build T. rex, pterosaur, triceratops, brontosaurus, baby T. rex, palm tree and volcano toys, then build their own creations
 - Step-by-step guide – This creative dino building toy set includes a simple, intuitive guide to inspire kids’ creative construction skills
-- Dinosaur toys – The LEGO Classic Creative Dinosaurs set is an endlessly versatile build-and-play kids’ toy for 5 plus year old boys and girls
+- Bricks that build skills – LEGO Classic building toys are filled with ideas and inspiration, and allow parents to share building fun and developmental milestones with their kids
 - Assorted LEGO bricks – Kids build dinosaur figures using colourful bricks in a variety of shapes, plus special pieces, such as LEGO eyes and mouths
 - Expand the fun – Check out the full range of LEGO Classic building toys (sold separately) for more hands-on imaginative play
+- Imaginative play – Kids build T. rex, pterosaur, triceratops, brontosaurus, baby T. rex, palm tree and volcano toys, then build their own creations
 - Dinosaur gift – This LEGO Classic set featuring cool dinosaur toys makes a fun any time treat or birthday gift for 5 plus year old boys and girls
+- Dinosaur toys – The LEGO Classic Creative Dinosaurs set is an endlessly versatile build-and-play kids’ toy for 5 plus year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MZ0C0UD{{</world>}}

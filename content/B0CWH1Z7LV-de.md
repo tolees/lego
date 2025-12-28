@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bauspielzeug mit 2 faszinierenden LEGO Star Wars Minifiguren: Dieses Bauspielzeug enthält den Jedi Bob mit Lichtschwert und einen Ackbar-Truppler mit Blaster sowie den LEGO Droide Servo (SR-V0)
 - Star Wars Jedi-Sternjäger: Das Spielzeug-Sternenschiff aus LEGO Steinen hat ein aufklappbares Cockpit mit Staufach, 2 Shooter mit Federmechanismus, Clips für Lichtschwerter und ein einziehbares Fahrwerk
-- LEGO Star Wars Bau- und Spielset für Kinder: Jedi Bobs Sternjäger, der aus dem Serien-Special LEGO Star Wars: Rebuild the Galaxy auf Disney+ bekannt ist, lässt Kinder einen beliebten Helden begleiten
-- Star Wars Zubehör zum Spielen: Das Bauset beinhaltet einen Karton mit blauer Milch und eine Banane, die ins Staufach des Sternjägers passen, als spaßiges Zubehör für noch mehr Action und Rollenspiele
 - Teil der LEGO Star Wars: Rebuild the Galaxy Kollektion: Kombiniere dieses Spielset mit den beiden separat erhältlichen Sets Dunkler Millennium Falke (75389) und Mashup aus TIE Fighter & X-Wing (75393)
 - Coole LEGO Geschenkidee für Kinder ab 8 Jahren: Dieses Abenteuer-Spielzeug aus LEGO Steinen ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Jungen, Mädchen und alle jungen Fans, die den Jedi Bob und Star Wars Sets lieben
+- LEGO Star Wars Bau- und Spielset für Kinder: Jedi Bobs Sternjäger, der aus dem Serien-Special LEGO Star Wars: Rebuild the Galaxy auf Disney+ bekannt ist, lässt Kinder einen beliebten Helden begleiten
+- Bauspielzeug mit 2 faszinierenden LEGO Star Wars Minifiguren: Dieses Bauspielzeug enthält den Jedi Bob mit Lichtschwert und einen Ackbar-Truppler mit Blaster sowie den LEGO Droide Servo (SR-V0)
+- Star Wars Zubehör zum Spielen: Das Bauset beinhaltet einen Karton mit blauer Milch und eine Banane, die ins Staufach des Sternjägers passen, als spaßiges Zubehör für noch mehr Action und Rollenspiele
 - Erkunde das gesamte Angebot: LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachstellen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

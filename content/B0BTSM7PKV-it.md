@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Un tocco divertente in più per una festa di compleanno.
 - LEGO Creator Treno Compleanno
+- Un tocco divertente in più per una festa di compleanno.
 - Questo colorato set ferroviario comprende una locomotiva con candela sul tetto e un carro con regalo a pagamento.
 
 [🛒 Buy it!!]({{< param buyurl >}})

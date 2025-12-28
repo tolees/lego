@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO FIGUREN KOMBINIEREN: Weitere Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
-- GESCHENK FÜR KINDER ZUR WEIHNACHTSZEIT: Dieses LEGO Friends Set ist ein beliebtes Adventsgeschenk oder ein vorgezogenes Weihnachtgeschenk für Kinder, die weihnachtliche Aktivitäten lieben
 - SPIELZEUG ADVENTSKALENDER MIT TÄGLICHER ÜBERRASCHUNG: Dieser Adventskalender ist ein Bauset für Kinder; Hinter den 24 Türchen erwarten Mädchen und Jungen ab 6 Jahren jeden Tag neue Überraschungen
-- 5 LEGO Friends Figuren: Der kreative Modellbau beinhaltet die Minifiguren Aliya, Autumn, Liann, Nova & Leo, 5 LEGO Tiere: 2 Hunde, Meerschweinchen, Gecko und Katze; für Spielspaß mit Tierfiguren
+- LEGO FIGUREN KOMBINIEREN: Weitere Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - LEGO FRIENDS TIERE & GESCHICHTEN KREATIV KOMBINIEREN: Die verschiedenen separat erhältlichen LEGO Friends Bausets lassen Kinder unterschiedliche Freundschaftsmomente darstellen
-- LERNSPIELZEUG MIT ZUBEHÖR: Für jede Tierfigur ist Zubehör enthalten: ein Knochen für Aira, ein Wasserspender für Popcorn, ein Kratzbaum für Churro, ein Bett für Ruby und eine Futterstation für Pickle
+- 5 LEGO Friends Figuren: Der kreative Modellbau beinhaltet die Minifiguren Aliya, Autumn, Liann, Nova & Leo, 5 LEGO Tiere: 2 Hunde, Meerschweinchen, Gecko und Katze; für Spielspaß mit Tierfiguren
+- GESCHENK FÜR KINDER ZUR WEIHNACHTSZEIT: Dieses LEGO Friends Set ist ein beliebtes Adventsgeschenk oder ein vorgezogenes Weihnachtgeschenk für Kinder, die weihnachtliche Aktivitäten lieben
 - WEIHNACHTSKALENDER FÜR JUNGEN & MÄDCHEN: Lass die LEGO Spielfiguren einen Wunschzettel für den Weihnachtsmann schreiben, den Baum schmücken, Karaoke singen, Steckenpferd reiten, heiße Schokolade machen
+- LERNSPIELZEUG MIT ZUBEHÖR: Für jede Tierfigur ist Zubehör enthalten: ein Knochen für Aira, ein Wasserspender für Popcorn, ein Kratzbaum für Churro, ein Bett für Ruby und eine Futterstation für Pickle
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDX4DJ5{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Star Wars Geschenk für Erwachsene: Dieses Premium-Set ist ein tolles Geschenk für dich selbst oder einen anderen erwachsenen Star Wars Fan und alle, die eifrig LEGO Star Wars Sets sammeln
-- Einst in einer weit, weit entfernten Galaxis, heute in deinem Wohnzimmer – LEGO Star Wars Sets für Erwachsene: Diese Sets sind für Erwachsene, Männer und Frauen oder jeden Fan gedacht, die gerne bei kreativen Aktivitäten abschalten und entspannen
 - LEGO Star Wars Sammlerstück zum Ausstellen mit verspielten Details: Bewege die Arme des Droidekas vor und zurück, um seine Schießbewegung nachzuahmen, und leg seine Beine an, um ihm seine Kugelform zu verleihen
-- LEGO Droideka: Dem baubaren Hauptmodell des Zerstörerdroiden liegt auch die LEGO Figur eines kleinen Droidekas bei
 - Blickfang zum 25-jährigen Jubiläum: Dieses einzigartige Set beinhaltet einen Ständer mit Platz für den kleinen LEGO Droideka, eine Infoplakette zu dem Zerstörerdroiden sowie einen Stein zum 25-jährigen LEGO Star Wars Jubiläums
-- 3D-Bauanleitung für die Deko für das Büro: Die LEGO Builder App lässt dich unter anderem beim Bauen digitale 3D-Ansichten dieses baubaren Modells vergrößern und drehen, deinen Baufortschritt verfolgen oder Sets speichern
+- LEGO Star Wars Geschenk für Erwachsene: Dieses Premium-Set ist ein tolles Geschenk für dich selbst oder einen anderen erwachsenen Star Wars Fan und alle, die eifrig LEGO Star Wars Sets sammeln
 - Baubarer LEGO Droideka zum Sammeln und Ausstellen: Baue ein faszinierendes Modell eines Zerstörerdroiden vom Typ Droideka, der in Star Wars: Die dunkle Bedrohung und in Star Wars: The Clone Wars zu sehen war
+- LEGO Droideka: Dem baubaren Hauptmodell des Zerstörerdroiden liegt auch die LEGO Figur eines kleinen Droidekas bei
+- 3D-Bauanleitung für die Deko für das Büro: Die LEGO Builder App lässt dich unter anderem beim Bauen digitale 3D-Ansichten dieses baubaren Modells vergrößern und drehen, deinen Baufortschritt verfolgen oder Sets speichern
+- Einst in einer weit, weit entfernten Galaxis, heute in deinem Wohnzimmer – LEGO Star Wars Sets für Erwachsene: Diese Sets sind für Erwachsene, Männer und Frauen oder jeden Fan gedacht, die gerne bei kreativen Aktivitäten abschalten und entspannen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2QDPP{{</world>}}

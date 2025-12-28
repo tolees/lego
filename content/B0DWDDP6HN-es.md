@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Una divertida forma de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción; podrán acercar y girar versiones en 3D de sus modelos a medida que construyen, consultar su progreso y guardar sets
+- 6 minifiguras LEGO: El juego incluye a Zane, Cole, Wyldfyre, Nya, Rogue y Zarkt con armas y una espada reveladora translúcida que ayudará a hacer visible un mapa secreto en la mesa del capitán
+- Barco de juguete interactivo: Los adolescentes girarán un mecanismo para mover las velas, quitarán los techos y suelos para acceder al interior del barco de juguete y a un bar de sushi, y plegarán la mesa del camarote para revelar un secreto
+- Un universo de juguetes LEGO NINJAGO: Con la extensa colección de juguetes ninja, los peques se transportan a un universo de fantasía y juego imaginativo habitado por sus héroes ninja
+- Regalo para fans de NINJAGO: Este set proporciona una divertida experiencia de construcción y juego, y es una gran idea de regalo para chicos y chicas de 14 años en adelante que hayan crecido viendo su serie favorita LEGO NINJAGO
 - Maqueta de barco con base de exposición: Tras interpretar historias mediante el juego de rol, los fans de NINJAGO podrán exponer este detallado barco de juguete en un estante o la mesita de noche como decoración del dormitorio juvenil
 - Juguete NINJAGO para exponer y contar historias: Los fans de los ninja a partir de 14 años podrán recrear la acción de la temporada 3 de la serie para televisión NINJAGO: El Renacer de los Dragones con el juguete Bounty del Templo
-- Barco de juguete interactivo: Los adolescentes girarán un mecanismo para mover las velas, quitarán los techos y suelos para acceder al interior del barco de juguete y a un bar de sushi, y plegarán la mesa del camarote para revelar un secreto
-- 6 minifiguras LEGO: El juego incluye a Zane, Cole, Wyldfyre, Nya, Rogue y Zarkt con armas y una espada reveladora translúcida que ayudará a hacer visible un mapa secreto en la mesa del capitán
-- Un universo de juguetes LEGO NINJAGO: Con la extensa colección de juguetes ninja, los peques se transportan a un universo de fantasía y juego imaginativo habitado por sus héroes ninja
-- Una divertida forma de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción; podrán acercar y girar versiones en 3D de sus modelos a medida que construyen, consultar su progreso y guardar sets
-- Regalo para fans de NINJAGO: Este set proporciona una divertida experiencia de construcción y juego, y es una gran idea de regalo para chicos y chicas de 14 años en adelante que hayan crecido viendo su serie favorita LEGO NINJAGO
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDDP6HN{{</world>}}

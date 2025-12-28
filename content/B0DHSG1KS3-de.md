@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Spannende Camping-Abenteuer: Zu dem Wohnmobil aus diesem Bauset gehören auch 3 Minifiguren und ein Frettchen, mit denen Mädchen und Jungen ab 7 Jahren viele kreative Freundschaftsgeschichten darstellen können
-- Kreatives Spielerlebnis mit einem coolen Camping-Spielset: 3 LEGO Friends Minifiguren und die Tierfigur eines Frettchens lassen Kinder viele fantasievolle Geschichten und Rollenspiele darstellen
-- LEGO Wohnmobil mit vielen Details: Wenn Kinder das Wohnmobil aufklappen, haben sie Zugang zum detailreichen Innenleben; Die Koch-, Schlaf- und Wohnbereiche bieten unzählige Spielmöglichkeiten
-- Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - Jede Menge Zubehör: Ein Fahrrad, ein Picknicktisch, eine Toilette mit funktionierender Spülung, eine Outdoor-Dusche und ganz viel Campingausrüstung (z.B. ein Fernglas, Kompass und Schraubenschlüssel) laden zum Spielen mit dem Bauspielzeug ein
+- Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- LEGO Wohnmobil mit vielen Details: Wenn Kinder das Wohnmobil aufklappen, haben sie Zugang zum detailreichen Innenleben; Die Koch-, Schlaf- und Wohnbereiche bieten unzählige Spielmöglichkeiten
 - Geschenk für Kinder ab 7 Jahren: Dieses Spielzeug-Wohnmobil ist eine tolle Belohnung für junge Entdecker, die Spielzeugtiere und die freie Natur lieben oder gern eigene Camping-Abenteuer darstellen
+- Kreatives Spielerlebnis mit einem coolen Camping-Spielset: 3 LEGO Friends Minifiguren und die Tierfigur eines Frettchens lassen Kinder viele fantasievolle Geschichten und Rollenspiele darstellen
+- Spannende Camping-Abenteuer: Zu dem Wohnmobil aus diesem Bauset gehören auch 3 Minifiguren und ein Frettchen, mit denen Mädchen und Jungen ab 7 Jahren viele kreative Freundschaftsgeschichten darstellen können
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSG1KS3{{</world>}}

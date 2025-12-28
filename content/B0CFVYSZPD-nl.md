@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Speelgoed vliegtuig – dit LEGO City Brandweervliegtuig heeft allerlei leuke kenmerken voor realistisch speelplezier voor kinderen van 6 jaar en ouder
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Cadeautip voor vliegtuigfans – geef deze speelset cadeau aan jongens en meisjes van 6 jaar en ouder voor de feestdagen of een verjaardag
 - Creatief spelen zonder grenzen – kinderen beleven nog meer plezier en avonturen als ze deze set toevoegen aan andere LEGO City sets (apart verkrijgbaar)
+- Wat zit er in de doos? – deze reddingsset heeft alles wat kinderen nodig hebben om een brandweervliegtuig en een bosbrandtafereel te bouwen, plus minifiguren van een piloot, brandblusspecialist en brandweerman met jetpack
 - Net echt – kinderen kunnen de functie om water te laten vallen en de waterelementwerpers van het speelgoedvliegtuig bedienen en futuristische brandweerverhalen naspelen met de minifiguur van een brandweerman met jetpack
 - Bouwbaar brandblusvliegtuig met digitale gids – ontdek de LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
-- Cadeautip voor vliegtuigfans – geef deze speelset cadeau aan jongens en meisjes van 6 jaar en ouder voor de feestdagen of een verjaardag
-- Wat zit er in de doos? – deze reddingsset heeft alles wat kinderen nodig hebben om een brandweervliegtuig en een bosbrandtafereel te bouwen, plus minifiguren van een piloot, brandblusspecialist en brandweerman met jetpack
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYSZPD{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Voiture vintage
 - Contient 36 pièces
 - it article de collection, ne connt pas nécessairement comme cadeau denfant
+- Voiture vintage
 - Livré dans un sac en plastique scellé en usine
 
 [🛒 Check the deal!!]({{< param buyurl >}})

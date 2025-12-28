@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Star Wars Sets für Fans jeden Alters: LEGO Star Wars Bauspielzeuge ermöglichen es Kindern und erwachsenen Fans, klassische Filmszenen nachzustellen, eigene Geschichten zu erfinden und ihre Modelle auszustellen
-- Der LEGO Droide R2-D2 und eine LEGO Star Wars Mini-Figur: Das Hauptmodell R2-D2 wird durch die exklusive Mini-Figur von Darth Malak zum 25-jährigen LEGO Star Wars Jubiläum ergänzt
-- Detailgetreues Modell zum Ausstellen mit verspielten Funktionen: R2-D2s Kopf lässt sich um 360 Grad drehen, ein drittes Bein sorgt für Beweglichkeit und ein Sehrohr sowie Werkzeug lassen sich anbringen
 - LEGO R2-D2 Star Wars Figur zum Bauen und Spielen: Baue ein detailreiches Spielzeug-Modell aus LEGO Steinen, das einen der beliebtesten Charaktere des Star Wars Universums zum Leben erweckt
-- Geschenk für Star Wars Fans ab 10 Jahren: Dieses LEGO Bau- und Spielset zum Sammeln begeistert Kinder, die Star Wars lieben, ebenso wie Sammler von Star Wars Bausets
-- Imposanter Blickfang: Das Modell wird durch eine Infoplakette zu R2-D2 und einen Ständer mit dem Logo des 25-jährigen LEGO Star Wars Jubiläums für die LEGO Mini-Figur Darth Malak ergänzt
+- Detailgetreues Modell zum Ausstellen mit verspielten Funktionen: R2-D2s Kopf lässt sich um 360 Grad drehen, ein drittes Bein sorgt für Beweglichkeit und ein Sehrohr sowie Werkzeug lassen sich anbringen
+- Der LEGO Droide R2-D2 und eine LEGO Star Wars Mini-Figur: Das Hauptmodell R2-D2 wird durch die exklusive Mini-Figur von Darth Malak zum 25-jährigen LEGO Star Wars Jubiläum ergänzt
 - Interaktives digitales Bauerlebnis: In der LEGO Builder App können Kinder das Bauspielzeug digital vergrößern, drehen, genauer betrachten, ihren Baufortschritt verfolgen und ihre Sets speichern
+- Imposanter Blickfang: Das Modell wird durch eine Infoplakette zu R2-D2 und einen Ständer mit dem Logo des 25-jährigen LEGO Star Wars Jubiläums für die LEGO Mini-Figur Darth Malak ergänzt
+- Geschenk für Star Wars Fans ab 10 Jahren: Dieses LEGO Bau- und Spielset zum Sammeln begeistert Kinder, die Star Wars lieben, ebenso wie Sammler von Star Wars Bausets
+- LEGO Star Wars Sets für Fans jeden Alters: LEGO Star Wars Bauspielzeuge ermöglichen es Kindern und erwachsenen Fans, klassische Filmszenen nachzustellen, eigene Geschichten zu erfinden und ihre Modelle auszustellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZC2GF{{</world>}}

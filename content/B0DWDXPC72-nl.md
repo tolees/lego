@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 LEGO Friends minifiguren en een corgi – deze set bevat poppetjes van Paisley, Zac en Elsa D, een corgi speelgoed dieren figuur, een mascotte in de vorm van muzieknoten die op het appartement bevestigd kan worden, een trap met pianotoetsen en meer
-- Vertel verhalen over vriendschap – met de LEGO Friends bouwsets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
-- Fantasierijke verhalen over vriendschap – deze speelgoedwinkel en appartement set inspireert kinderen om verhalen te bedenken met de Friends personages waarin ze verschillende sociale situaties naspelen in de muziekwinkel en het gezellige appartement
 - Cadeau voor meisjes en jongens die houden van muziek – deze LEGO set is een geweldig cadeau voor meisjes, jongens en muziekliefhebbers vanaf 7 jaar of geweldig speelgoed voor kinderen die genieten van leuke sets en rollenspellen over vriendschap
-- Boordevol accessoires voor rollenspellen – spelen is elke keer anders, want kinderen bedenken zelf verhalen voor de personages met behulp van de accessoires zoals een platenspeler, een doos met langspeelplaten, een synthesizer en een koptelefoon
 - Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Fantasierijke verhalen over vriendschap – deze speelgoedwinkel en appartement set inspireert kinderen om verhalen te bedenken met de Friends personages waarin ze verschillende sociale situaties naspelen in de muziekwinkel en het gezellige appartement
+- 3 LEGO Friends minifiguren en een corgi – deze set bevat poppetjes van Paisley, Zac en Elsa D, een corgi speelgoed dieren figuur, een mascotte in de vorm van muzieknoten die op het appartement bevestigd kan worden, een trap met pianotoetsen en meer
 - Bouwpakket voor kinderen die dol zijn op muziek – deze LEGO Friends Muziekwinkel en appartement set bevat tal van muzikale accessoires, waaronder een drumstel, piano, gitaar, saxofoon en nog veel meer
+- Boordevol accessoires voor rollenspellen – spelen is elke keer anders, want kinderen bedenken zelf verhalen voor de personages met behulp van de accessoires zoals een platenspeler, een doos met langspeelplaten, een synthesizer en een koptelefoon
+- Vertel verhalen over vriendschap – met de LEGO Friends bouwsets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDXPC72{{</world>}}

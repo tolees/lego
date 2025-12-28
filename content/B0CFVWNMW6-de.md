@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inklusive Steckbrief: Mit Erlaubnis eines Elternteils können Kinder den QR-Code in der Bauanleitung oder auf der Box scannen, um sich ein Video mit einem spannenden LEGO City Polizei-Abenteuer anzuschauen
 - LEGO Geschenk für 7-jährige Kinder: Überrasche einen jungen Alltagshelden mit diesem Polizei-Spielset als Geschenk zum Geburtstags oder zu Weihnachten für fantasievolle Kinder
+- Polizeiwagen-Spielzeug für Rollenspiele: Kinder können das LKW-Spielzeug aufklappen, um Zugang zu den Computern, der Landkarte, den Monitoren für die Überwachungskameras, dem Mikroskop, der Kaffeemaschine und der Gefängniszelle zu erhalten
 - Faszinierendes Spiel- und Bauset für Kinder: Beinhaltet alles, was Kinder brauchen, um ein mobiles Kriminallabor, ein Quad-Spielzeug und eine Tatortkulisse zu bauen, sowie 5 Minifiguren, darunter 2 Polizisten, 1 Kriminaltechniker und 2 Ganoven
 - Über LEGO City Polizei Sets: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und mit Bauwerken, Fahrzeugen und Figuren aus der echten Welt spannende Abenteuer erleben
 - LKW-Spielzeug der Polizei mit Kriminallabor: Der LEGO City Polizeitruck mit Labor ist ein vielseitiges Polizei-Spielzeug, das Nachwuchsforensiker ab 7 Jahren nach geflüchteten Ganoven suchen lässt
-- Polizeiwagen-Spielzeug für Rollenspiele: Kinder können das LKW-Spielzeug aufklappen, um Zugang zu den Computern, der Landkarte, den Monitoren für die Überwachungskameras, dem Mikroskop, der Kaffeemaschine und der Gefängniszelle zu erhalten
+- Inklusive Steckbrief: Mit Erlaubnis eines Elternteils können Kinder den QR-Code in der Bauanleitung oder auf der Box scannen, um sich ein Video mit einem spannenden LEGO City Polizei-Abenteuer anzuschauen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVWNMW6{{</world>}}

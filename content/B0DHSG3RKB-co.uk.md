@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Build-and-display starship model – Relive dramatic Battle of Geonosis with this mid-scale Acclamator-Class Assault Ship LEGO Star Wars set for adults
 - 3D building instructions – With the LEGO Builder app you can view a 3D digital version of this construction model as you build, track your progress and save sets
 - From a galaxy far, far away to your home – LEGO Star Wars collectible sets for adults are designed for people who enjoy hands-on creative projects to relax and recharge
-- Authentically detailed Star Wars LEGO vehicle – Recreate features of the Acclamator-Class Assault Ship as seen in Star Wars: Attack of the Clones
 - Star Wars gifts for teens and adults – This LEGO set makes a great birthday gift for men and women with a passion for LEGO Star Wars vehicles
+- Build-and-display starship model – Relive dramatic Battle of Geonosis with this mid-scale Acclamator-Class Assault Ship LEGO Star Wars set for adults
+- Authentically detailed Star Wars LEGO vehicle – Recreate features of the Acclamator-Class Assault Ship as seen in Star Wars: Attack of the Clones
 - Part of the LEGO Star Wars Starship Collection – This set is part of a collectable series featuring mid-scale models of iconic Star Wars starships
 - Made for display – This Star Wars memorabilia model for adults to build will look great on display on the buildable stand with a nameplate
 

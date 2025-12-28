@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bloques de juguete para construir
 - Star Wars Spider Tank
+- Bloques de juguete para construir
 - Momentos de diversión
 
 [🛒 Buy it now!!]({{< param buyurl >}})

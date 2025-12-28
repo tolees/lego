@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Spielzeugflieger für Kinder ab 8 Jahren: Baue und erkunde ein cooles LEGO Technic Propellerflugzeug mit drehendem Propeller, verstellbaren Querrudern und 4-Zylinderkolbenmotor
 - Bauspielzeug mit Zebramuster: Dieses LEGO Flugzeug Spielzeug ziert ein cooles Zebramuster, das die Bedeutung der Buschpiloten und ihrer Propellerflugzeuge für den Tier- und Naturschutz in Afrika widerspiegelt
-- Modellflugzeug mit funktionierenden Elementen: Kinder können ihren LEGO Flieger auf unzählige kreative Tierschutzmissionen schicken und kreativ mit dem Modell spielen
+- Spielzeugflieger für Kinder ab 8 Jahren: Baue und erkunde ein cooles LEGO Technic Propellerflugzeug mit drehendem Propeller, verstellbaren Querrudern und 4-Zylinderkolbenmotor
 - Einführung in die Welt der Technik: LEGO Technic Bauspielzeuge stellen die Bewegungen und die Mechanik der echten Vorbilder realistisch dar, um jungen LEGO Baumeistern die Welt der Technik näherzubringen
+- Modellflugzeug mit funktionierenden Elementen: Kinder können ihren LEGO Flieger auf unzählige kreative Tierschutzmissionen schicken und kreativ mit dem Modell spielen
 - Ein tolles Geschenk für Kinder: Schick junge Buschpiloten mit diesem LEGO Technic Bauset auf fantasievolle Tierschutzmissionen und lass sie alle Funktionen des Modells erkunden
 
 [🛒 Buy it!!]({{< param buyurl >}})

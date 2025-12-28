@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Let’s tell a friendship story – LEGO Friends building toys help kids explore different friendship moments, offering lots of opportunities for imaginative storytelling and role-play adventures
-- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can meet Heartlake City characters
 - A building set for cat-loving kids – This LEGO Friends Cat Birthday Party & Tree House toy for 6+ year old girls and boys features 2 mini dolls, 5 cat figures, and fun details for creative storytelling
+- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can meet Heartlake City characters
 - A cat tree house toy – Kids can enjoy caring for 5 playful animal figures in the buildable LEGO tree house, which includes a fish-shaped piñata with treats inside, cat grass, a litter tray and a water fountain
-- LEGO Friends characters – This creative toy comes with Leo and Paisley LEGO Friends mini dolls and 5 cat figures for fun role play
 - Cat-themed accessories – This LEGO Friends set includes a birthday cake with a candle, gifts, banners, cat-shaped balloons, a birthday hat and cat treats
 - A gift for kids who love cats – This animal playset is a great birthday gift for 6+ year old girls, boys, and cat lovers, or for anyone who enjoys building and storytelling with LEGO bricks
+- Let’s tell a friendship story – LEGO Friends building toys help kids explore different friendship moments, offering lots of opportunities for imaginative storytelling and role-play adventures
+- LEGO Friends characters – This creative toy comes with Leo and Paisley LEGO Friends mini dolls and 5 cat figures for fun role play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDWMVZ4{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
 - Authentic details – F1 model car with 2024 design features like a halo bar, rear wing, sponsor stickers, and wider rear tyres with “Pirelli” print
-- Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
-- LEGO car toy for kids – LEGO Speed Champions MoneyGram Haas F1 Team VF-24 Race Car toy for 10+ year old boys and girls to build, display and race
-- F1 car model to display – After creating racing stories with the MoneyGram Haas F1 Team car toy, kids can display it on a shelf or bedside table
 - 1 minifigure – The F1 toy car includes a driver minifigure in a MoneyGram Haas F1 Team outfit and helmet, ready to be placed inside the cars cockpit
+- LEGO car toy for kids – LEGO Speed Champions MoneyGram Haas F1 Team VF-24 Race Car toy for 10+ year old boys and girls to build, display and race
+- Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
+- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
 - F1 fun for all the family – Race for the checkered flag alongside the whole family with other building toys (sold separately) in the LEGO F1 range
+- F1 car model to display – After creating racing stories with the MoneyGram Haas F1 Team car toy, kids can display it on a shelf or bedside table
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDJ148{{</world>}}

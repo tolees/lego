@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Cool functions – Check out the pedal lever with 3-speed gearbox and use the back wheel to drive the chain, which connects to the gearbox and V4 engine
-- LEGO Technic Ducati Panigale V4 S – The building set for adults is packed with authentic features like the front and rear suspension and steering
-- LEGO builds for adults – Explore engineering concepts and enjoy a relaxing building project with the collection of LEGO Technic vehicle sets for adults
-- Digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO motorcycle set
-- Motorbike model – Set pulses racing with this LEGO Technic Ducati Panigale V4 S Motorcycle modelled on Ducati’s highest-performing motorcycle
 - Motorcycle gift – This LEGO vehicle set for adults makes a great gift for men and women who enjoy immersive building projects and Ducati motorcycles
+- Motorbike model – Set pulses racing with this LEGO Technic Ducati Panigale V4 S Motorcycle modelled on Ducati’s highest-performing motorcycle
+- LEGO Technic Ducati Panigale V4 S – The building set for adults is packed with authentic features like the front and rear suspension and steering
+- Cool functions – Check out the pedal lever with 3-speed gearbox and use the back wheel to drive the chain, which connects to the gearbox and V4 engine
+- Digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO motorcycle set
+- LEGO builds for adults – Explore engineering concepts and enjoy a relaxing building project with the collection of LEGO Technic vehicle sets for adults
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCQLM2{{</world>}}

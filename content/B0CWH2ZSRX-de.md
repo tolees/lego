@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Frachtschiff-Spielzeug für Kinder, die gern fantasievoll spielen: Kinder haben Zugang zum Maschinenraum, der Brücke und dem Rumpf des Frachtschiffs und können Container auf- und abladen
 - Digitales Bauerlebnis: Zu diesem LEGO Hafen-Set sind auch Bauanleitungen in der LEGO Builder App verfügbar; In der App können Kinder beim Bauen 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern
-- Inhalt der Box: Dieses kreative Spielzeug beinhaltet ein LEGO Schiff, 2 Frachtcontainer, einen funktionierenden Containerkran, einen Hafen mit Laden und Restaurant, ein Wassermotorrad, ein Paddelboot und 8 Minifiguren
-- Coole Geschenkidee für Kinder: Dieses LEGO Bauspielzeug ist ein tolles Weihnachtsgeschenk oder eine schöne spontane Überraschung für Jungen und Mädchen ab 8 Jahren
 - Stadt ohne Limits: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und kreativ mit Bauwerken, Fahrzeugen und Figuren spielen, die zum Bauen und Erkunden einladen
 - Hafen mit Spielzeug-Frachtschiff: Der LEGO City Hafen mit Frachtschiff ist ein Spielset für Mädchen und Jungen ab 8 Jahren, das sowohl das rege Treiben als auch die gemütliche Seite eines Hafens zeigt
-- Frachtschiff-Spielzeug für Kinder, die gern fantasievoll spielen: Kinder haben Zugang zum Maschinenraum, der Brücke und dem Rumpf des Frachtschiffs und können Container auf- und abladen
+- Coole Geschenkidee für Kinder: Dieses LEGO Bauspielzeug ist ein tolles Weihnachtsgeschenk oder eine schöne spontane Überraschung für Jungen und Mädchen ab 8 Jahren
+- Inhalt der Box: Dieses kreative Spielzeug beinhaltet ein LEGO Schiff, 2 Frachtcontainer, einen funktionierenden Containerkran, einen Hafen mit Laden und Restaurant, ein Wassermotorrad, ein Paddelboot und 8 Minifiguren
 - LEGO Minifiguren-Zubehör: Dieses Fahrzeug-Spielset beinhaltet jede Menge Zubehör für Rollenspiele, beispielsweise eine Angelrute, einen Schraubenschlüssel, 2 Funkgeräte, ein Krabbennetz und eine Krabbe
 
 [🛒 Buy it now!!]({{< param buyurl >}})
