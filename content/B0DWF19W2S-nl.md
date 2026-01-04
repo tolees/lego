@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cadeau voor meisjes en jongens die graag doen alsof – deze set is een leuk cadeau voor 6 jaar en ouder; ideaal voor kinderen die graag rollenspellen over vriendschap spelen en LEGO voertuigen bouwen
-- Veel accessoires voor een roadtrip – inclusief een kajak met roeispanen, 2 helmen en een reddingsvest, een mini-skateboard, skeelers, 2 stoelen en een koelbox met speelgoed eten en een snack voor de hond
-- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
-- Camping bouwpakket voor kinderen boordevol speelplezier – dit Samen op roadtrip auto speelgoed voor kinderen van 6 jaar en ouder bevat 2 Friends poppetjes, een puppy en accessoires voor rollenspellen
-- Bouwbare LEGO auto met aanhanger – beleef veel plezier met het bouwen van het speelgoed voertuig dat je vervolgens kunt inpakken met alles wat de LEGO Friends personages nodig hebben voor hun roadtrip, inclusief een kajak en koelbox
-- Vertel verhalen over vriendschap – met de LEGO Friends sets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
 - 2 LEGO Friends minifiguren en een puppy – deze speelgoed dieren set bevat poppetjes van Liann en Aliya en een LEGO dieren figuur van een hond, zodat kinderen allerlei mogelijkheden hebben om hun eigen avonturen te bedenken
+- Camping bouwpakket voor kinderen boordevol speelplezier – dit Samen op roadtrip auto speelgoed voor kinderen van 6 jaar en ouder bevat 2 Friends poppetjes, een puppy en accessoires voor rollenspellen
+- Cadeau voor meisjes en jongens die graag doen alsof – deze set is een leuk cadeau voor 6 jaar en ouder; ideaal voor kinderen die graag rollenspellen over vriendschap spelen en LEGO voertuigen bouwen
+- Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Vertel verhalen over vriendschap – met de LEGO Friends sets kunnen kinderen verschillende vriendschapsmomenten ontdekken, met veel mogelijkheden om hun eigen fantasierijke verhalen te bedenken
+- Veel accessoires voor een roadtrip – inclusief een kajak met roeispanen, 2 helmen en een reddingsvest, een mini-skateboard, skeelers, 2 stoelen en een koelbox met speelgoed eten en een snack voor de hond
+- Bouwbare LEGO auto met aanhanger – beleef veel plezier met het bouwen van het speelgoed voertuig dat je vervolgens kunt inpakken met alles wat de LEGO Friends personages nodig hebben voor hun roadtrip, inclusief een kajak en koelbox
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF19W2S{{</world>}}

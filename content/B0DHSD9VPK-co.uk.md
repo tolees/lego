@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
-- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
+- Formula 1 display model – After kids have enjoyed playing out racing stories with the F1 car model, they can display it on a shelf or bedside table
 - 1 minifigure – The LEGO car set includes a driver minifigure in a Williams Racing outfit and helmet, ready to be placed inside the toy cars cockpit
+- F1 fun for all the family – Race for the checkered flag alongside the whole family with other building toys (sold separately) in the LEGO F1 range
+- F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
 - Williams Racing building toys – LEGO Speed Champions Williams Racing FW46 F1 Race Car toy for 10+ year old boys and girls to build, display and race
 - Authentic details – F1 race car toy with 2024 design features like a halo bar, rear wing, sponsor stickers, and wider rear tyres imprinted with “Pirelli”
-- F1 fun for all the family – Race for the checkered flag alongside the whole family with other building toys (sold separately) in the LEGO F1 range
-- Formula 1 display model – After kids have enjoyed playing out racing stories with the F1 car model, they can display it on a shelf or bedside table
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSD9VPK{{</world>}}

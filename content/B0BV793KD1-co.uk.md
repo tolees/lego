@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- LEGO City Passenger Aeroplane toy set features a model airplane, realistic features and functions, 4 LEGO airport vehicles and 9 minifigures
+- The toy plane has an easiley removable roof, detailed interior with a cockpit for the LEGO pilot and passenger minifigures, toilet and catering area
 - Kids can help the toy planes ground crew load up the LEGO vehicle, roll the airstair, show the passengers to their seats and check the lavatory!
 - Young builders can zoom in and rotate and view the models in this set from all angles as they construct them with the LEGO Builder app for smartphones and tablets
-- LEGO City Passenger Aeroplane toy set features a model airplane, realistic features and functions, 4 LEGO airport vehicles and 9 minifigures
-- The model airplane measures over 47 cm (18.5 in.) long and makes a great birthday or Christmas gift for kids, boys and girls that love LEGO vehicles and planes
-- The toy plane has an easiley removable roof, detailed interior with a cockpit for the LEGO pilot and passenger minifigures, toilet and catering area
 - 9 LEGO City minifigures: pilot, copilot, ground crew and passengers, a suitcase, camera, backpack, briefcase, walkie-talkie, 2 drinks cans and 2 cups
 - Model plane set also includes an airstair, Apron toy Bus, Pushback Tug to wheel out the plane, Container Loader to load supplies and a Baggage Truck
+- The model airplane measures over 47 cm (18.5 in.) long and makes a great birthday or Christmas gift for kids, boys and girls that love LEGO vehicles and planes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BV793KD1{{</world>}}

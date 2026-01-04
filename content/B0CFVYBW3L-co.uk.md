@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms that introduce young kids to the world of engineering
-- Pull-back car – Give kids a fun building project with the NEOM McLaren Extreme E Race Car toy for 7+ year old boys and girls, with pull-back action
-- A car gift for kids – This set makes a fun birthday gift for 7 plus year old boys, girls and kids who love LEGO vehicles and model cars
-- Chunky tyres – The toy car model features authentic details inspired by the real racing car, including off-road tyres and partner logos
 - Toy racing car – Kids send their LEGO Technic model speeding along using the pull-back action as they imagine racing like a real Extreme E driver
+- An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms that introduce young kids to the world of engineering
+- A car gift for kids – This set makes a fun birthday gift for 7 plus year old boys, girls and kids who love LEGO vehicles and model cars
+- Pull-back car – Give kids a fun building project with the NEOM McLaren Extreme E Race Car toy for 7+ year old boys and girls, with pull-back action
+- Chunky tyres – The toy car model features authentic details inspired by the real racing car, including off-road tyres and partner logos
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYBW3L{{</world>}}

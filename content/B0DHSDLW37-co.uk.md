@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Musical gift for kids – This 3in1 building toy makes a fun gift for 8+ year old girls and boys, fans of arts and crafts, music toys and LEGO flowers
 - Retro-style home decor – Each model (note that models cannot be built simultaneously) makes a colourful display idea for any room of the house
+- 3in1 model kit – The LEGO Creator Record Player with Flowers toy for 8+ year old girls and boys lets kids build 3 different retro-style models
 - Arts and crafts for kids – Kids can create a Record Player with Flowers toy or a radio toy with flowers or a classic microphone with LEGO flowers
-- More 3in1 fun – Expand kids’ playful stories with other building toys (sold separately) from the LEGO Creator 3in1 sets range
 - LEGO Creator toys – Every 3in1 set lets kids build 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
 - Fun features – The record player has moving parts, a stylus and 2 records, the toy radio has an adjustable aerial and the microphone can be rotated
-- 3in1 model kit – The LEGO Creator Record Player with Flowers toy for 8+ year old girls and boys lets kids build 3 different retro-style models
+- More 3in1 fun – Expand kids’ playful stories with other building toys (sold separately) from the LEGO Creator 3in1 sets range
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDLW37{{</world>}}

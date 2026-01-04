@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Star Wars Spider Tank
-- Momentos de diversión
 - Bloques de juguete para construir
+- Momentos de diversión
+- Star Wars Spider Tank
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BYCF92LG{{</world>}}

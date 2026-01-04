@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO NINJAGO draken speelgoed voor kinderen – met de Bliksemtand Draak van Chaos speelset kunnen jongens en meisjes vanaf 8 jaar spannende scènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen
-- 6 NINJAGO minifiguren – deze LEGO bouwset is inclusief de ninjastrijders Lloyd, Nya, Arin en Sora, plus Nokt en Tyr, de leider van de Draconiërs, zodat kinderen de strijd tussen goed en kwaad kunnen naspelen
+- In allerlei standen verstelbare LEGO draak – deze grote speelgoed draak heeft een verstelbare staart, poten, vleugels, voeten, kop en kaak, plus een noppenschieter onder elke vleugel
 - Cadeau voor Kerstmis – deze LEGO set biedt een leuke bouw- en speelervaring en is een cadeautip voor jongens en meisjes vanaf 8 jaar met een passie voor ninja-actie
 - Klein bouwmodel met kettingen – de Bliksemtand Draak van Chaos is vastgeketend aan een klein bouwmodel en kan worden bevrijd met 2 Prismazwaarden
 - Grotere ninja-avonturen – kijk ook eens naar andere LEGO NINJAGO speelsets (apart verkrijgbaar) met nog meer draken, tempels en voertuigen
+- LEGO NINJAGO draken speelgoed voor kinderen – met de Bliksemtand Draak van Chaos speelset kunnen jongens en meisjes vanaf 8 jaar spannende scènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen
 - Een universum vol LEGO NINJAGO sets – met de uitgebreide collectie speelgoedsets (apart verkrijgbaar) kunnen kinderen ontsnappen naar een fantasierijke wereld met hun ninjahelden
-- In allerlei standen verstelbare LEGO draak – deze grote speelgoed draak heeft een verstelbare staart, poten, vleugels, voeten, kop en kaak, plus een noppenschieter onder elke vleugel
+- 6 NINJAGO minifiguren – deze LEGO bouwset is inclusief de ninjastrijders Lloyd, Nya, Arin en Sora, plus Nokt en Tyr, de leider van de Draconiërs, zodat kinderen de strijd tussen goed en kwaad kunnen naspelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCPL2Z{{</world>}}

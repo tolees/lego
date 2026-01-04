@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - ANIMAL TOYS FOR KIDS AND TEENS – The LEGO Friends Beekeepers’ House and Flower Garden set includes 4 mini dolls and cute animal toys for 12+ year old girls and boys
-- 4 LEGO FRIENDS MINI DOLLS – Includes Paisley, Aliya, grandparents Orla and Terence, plus rabbit Amos and Peri the pet cat toy animal figures
+- ONLINE SHOW – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
 - LEGO HOUSE TOY – Kids can display this 2-storey dolls house model and toy garden with realistic flowers and trees, beehives, a shop and a bedroom
-- FUN BIRTHDAY GIFT IDEA – Makes a creative gift for 12+ year old girls, boys and teenagers who love cute animal toys and buildable models for play and display
 - A FUN WAY TO BUILD – With the LEGO Builder app, kids can save sets, track progress and zoom in and rotate models in 3D while they build
 - DOLLS HOUSE ACCESSORIES – This building toy comes with bee and ladybird tiles, vegetables, a seed packet, a watering can, compost bin and more
-- ONLINE SHOW – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
+- 4 LEGO FRIENDS MINI DOLLS – Includes Paisley, Aliya, grandparents Orla and Terence, plus rabbit Amos and Peri the pet cat toy animal figures
+- FUN BIRTHDAY GIFT IDEA – Makes a creative gift for 12+ year old girls, boys and teenagers who love cute animal toys and buildable models for play and display
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBCQLL{{</world>}}

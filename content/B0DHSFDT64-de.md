@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 4 Minecraft Figuren: Beinhaltet 3 Illager, 1 Helden und diverses authentisches Zubehör, beispielsweise ein Diamantschwert, eine Diamantrüstung und einen Diamantschild
-- Minecraft Fanartikel für noch mehr Spielspaß: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls aktiv spielen lassen
-- LEGO Baukasten zum Videospiel: Kinder benutzen coole Ausrüstung und schnippen Raketen mit den Fingern los, um die Illager daran zu hindern, ihren Schatz zu stibitzen
-- LEGO Minecraft Spielzeug in der Wüste: Die Illager-Wüstenpatrouille ist ein Spielset, das Kinder jede Menge Action aus dem Videospiel nachstellen lässt; eine kreatives Spiel für Jungen und Mädchen ab 7 Jahren
-- Geschenk für Minecraft Fans: Dieses kleine Bauset ist ein cooles Geschenk für Jungen und Mädchen, die kreative Abenteuer lieben und das Videospiel Minecraft mit großer Begeisterung spielen
 - Gamer Spielzeug mit Wüstenfestung: Dieses kleine LEGO Set lässt Kinder spannende Minecraft Action nachstellen und ein Fass voller Schätze beschützen; für interaktiven Spielspaß
+- Minecraft Fanartikel für noch mehr Spielspaß: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls aktiv spielen lassen
+- Geschenk für Minecraft Fans: Dieses kleine Bauset ist ein cooles Geschenk für Jungen und Mädchen, die kreative Abenteuer lieben und das Videospiel Minecraft mit großer Begeisterung spielen
+- LEGO Baukasten zum Videospiel: Kinder benutzen coole Ausrüstung und schnippen Raketen mit den Fingern los, um die Illager daran zu hindern, ihren Schatz zu stibitzen
+- 4 Minecraft Figuren: Beinhaltet 3 Illager, 1 Helden und diverses authentisches Zubehör, beispielsweise ein Diamantschwert, eine Diamantrüstung und einen Diamantschild
+- LEGO Minecraft Spielzeug in der Wüste: Die Illager-Wüstenpatrouille ist ein Spielset, das Kinder jede Menge Action aus dem Videospiel nachstellen lässt; eine kreatives Spiel für Jungen und Mädchen ab 7 Jahren
 - Minecraft Action in der echten Welt: LEGO Minecraft Spielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen zum Leben erweckt
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Faszinierendes Sortiment: Dieses kleine Baumodell gehört zu einer coolen Sammlerserie aus rasch gebauten (separat erhältlichen) LEGO Star Wars Microfighters, die man für weitere Actionabenteuer mit anderen Modellen aus LEGO Steinen kombinieren kann
-- LEGO Star Wars Sets zum Sammeln: Die separat erhältlichen LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
-- LEGO Star Wars Bauspielzeug im Mikromaßstab: Bring jungen Kindern die Abenteuer aus Star Wars: The Clone Wars mit Plo Koons Jedi Starfighter in Gestalt eines LEGO Star Wars Microfighters näher.
-- Stundenlange Rollenspiele: Zu dem Bauset gehört auch der Kopf von R7-D4, den man vor dem Cockpit auf den Rumpf stecken kann, damit der treue Star Wars Droide Plo Koon auf dessen Missionen begleitet
 - Das erste baubare LEGO Star Wars Microfighter Modell eines Jedi-Sternjägers: Diese Miniaturausführung des Jedi-Sternjägers in Plo Koons eigenen Farben hat ein Cockpit für eine LEGO Mini-Figur und 2 Shooter
-- Star Wars Geschenk für Jungen, Mädchen und Fans ab 6 Jahren: Dieses baubare LEGO Star Wars Spielzeugsternenschiff ist ein faszinierendes Überraschungsgeschenk für kreative Kinder
 - LEGO Mini-Figur Plo Koon: Das Fantasy-Bauset beinhaltet den Star Wars Charakter Plo Koon mit einem blauen Lichtschwert, das man unter dem Microfighter befestigen kann
+- LEGO Star Wars Sets zum Sammeln: Die separat erhältlichen LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
+- Star Wars Geschenk für Jungen, Mädchen und Fans ab 6 Jahren: Dieses baubare LEGO Star Wars Spielzeugsternenschiff ist ein faszinierendes Überraschungsgeschenk für kreative Kinder
+- Stundenlange Rollenspiele: Zu dem Bauset gehört auch der Kopf von R7-D4, den man vor dem Cockpit auf den Rumpf stecken kann, damit der treue Star Wars Droide Plo Koon auf dessen Missionen begleitet
+- LEGO Star Wars Bauspielzeug im Mikromaßstab: Bring jungen Kindern die Abenteuer aus Star Wars: The Clone Wars mit Plo Koons Jedi Starfighter in Gestalt eines LEGO Star Wars Microfighters näher.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDJVSVG{{</world>}}

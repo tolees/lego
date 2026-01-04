@@ -31,10 +31,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Rotatable Bat-Signal toy – The Bat-Signal projector (does not light up) that kids use to summon Batman tilts and turns 360 degrees in both directions
 - DC Super Heroes – Includes a LEGO Batman minifigure with his Batarang, The Joker holding a wad of cash, and Two-Face with his trademark silver coin
 - Batman gift for kids – This LEGO DC set featuring the iconic tumbler from the Dark Knight Trilogy makes a great gift for 8+ year old boys and girls
-- Batman vehicle toy – Put the Batmobile from the Dark Knight films into kids’ hands with this LEGO building toy set for 8+ year old boys and girls
-- 3D building instructions – Kids can download the LEGO Builder app for digital tools to zoom in and rotate models in 3D, save sets and track progress
-- LEGO DC toys – The extensive range of LEGO DC building sets is designed to deliver endless imaginative build-and-play possibilities for kids who enjoy super-hero role play
 - Batman Tumbler – The Batmobile toy car has a flame element attached to the exhaust pipe and opens to reveal an instrument panel and minifigure cockpit
+- LEGO DC toys – The extensive range of LEGO DC building sets is designed to deliver endless imaginative build-and-play possibilities for kids who enjoy super-hero role play
+- 3D building instructions – Kids can download the LEGO Builder app for digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Batman vehicle toy – Put the Batmobile from the Dark Knight films into kids’ hands with this LEGO building toy set for 8+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSF4FYN{{</world>}}

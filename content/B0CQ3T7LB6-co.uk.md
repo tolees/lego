@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3D building guide – Discover instructions in the LEGO Builder app where kids can zoom in and rotate models in 3D, track their progress and save sets
-- LEGO vehicle set – It’s party time for kids on the LEGO Despicable Me 4 Minions’ Music Party Bus toy for 7-plus-year-old girls and boys
-- Minions gift ideas – The Minions’ Music Party Bus toy makes a fun-packed birthday gift for 7-plus-year-old girls, boys and kids who are fans of Illumination’s Despicable Me films
-- Versatile LEGO set – The bus has a driver’s seat and splits open halfway down one side to reveal a DJ station, dance floor and hot tub for parties
-- Buildable Minions toy – Includes a push-along bus toy that converts into a mobile party for LEGO Minions figures: Phil, Mel, Dave and Mega Minion Gus
-- Creative toys for kids – Accessories, include an electric guitar, piano, microphone, speakers, screens, a flag, balloon, hats, ice cream and drinks
 - More Minions movie toys – There are additional LEGO Despicable Me 4 building toys available (sold separately) for kids who want to collect, combine and customise the Minions fun
+- Creative toys for kids – Accessories, include an electric guitar, piano, microphone, speakers, screens, a flag, balloon, hats, ice cream and drinks
+- Versatile LEGO set – The bus has a driver’s seat and splits open halfway down one side to reveal a DJ station, dance floor and hot tub for parties
+- Minions gift ideas – The Minions’ Music Party Bus toy makes a fun-packed birthday gift for 7-plus-year-old girls, boys and kids who are fans of Illumination’s Despicable Me films
+- LEGO vehicle set – It’s party time for kids on the LEGO Despicable Me 4 Minions’ Music Party Bus toy for 7-plus-year-old girls and boys
+- 3D building guide – Discover instructions in the LEGO Builder app where kids can zoom in and rotate models in 3D, track their progress and save sets
+- Buildable Minions toy – Includes a push-along bus toy that converts into a mobile party for LEGO Minions figures: Phil, Mel, Dave and Mega Minion Gus
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CQ3T7LB6{{</world>}}

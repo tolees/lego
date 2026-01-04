@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- IMMERSE YOURSELF – Enjoy your build with the LEGO Builder app, which lets you zoom and rotate your model in 3D, track progress and save sets in one place
-- WITH TRUE-TO-LIFE FEATURES – The LEGO Ferrari includes realistic suspension, steering, and an adjustable spoiler that let you capture the thrill of the F1 season
-- FORMULA ONE GIFT IDEA – his building set for adults makes a great Christmas gift for men and women, fans of challenging projects, LEGO vehicles and Ferrari race cars
-- F1 CAR MODEL – Take pole position with this LEGO Technic Ferrari SF-24 F1 model car kit for adults, packed with intricate features to delight motorsport fans
-- DETAILED ENGINE AND GEARBOX – Remove the engine cover to explore the model cars 2-speed gearbox and the V6 engine with its spinning MGU-H
 - DISPLAY WITH PRIDE – This 1:8 scale model Ferrari SF-24 F1 car features intricate details, making it a standout piece of home or office desk decor
+- DETAILED ENGINE AND GEARBOX – Remove the engine cover to explore the model cars 2-speed gearbox and the V6 engine with its spinning MGU-H
+- WITH TRUE-TO-LIFE FEATURES – The LEGO Ferrari includes realistic suspension, steering, and an adjustable spoiler that let you capture the thrill of the F1 season
+- F1 CAR MODEL – Take pole position with this LEGO Technic Ferrari SF-24 F1 model car kit for adults, packed with intricate features to delight motorsport fans
+- IMMERSE YOURSELF – Enjoy your build with the LEGO Builder app, which lets you zoom and rotate your model in 3D, track progress and save sets in one place
+- FORMULA ONE GIFT IDEA – his building set for adults makes a great Christmas gift for men and women, fans of challenging projects, LEGO vehicles and Ferrari race cars
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCYDL2{{</world>}}

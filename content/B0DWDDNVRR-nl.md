@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bouw je eigen Mario Kart races – werk samen met Wario in de Blingbolide en King Boo in de Knuffelquad om schilden te lanceren, te driften, te zweven, te racen en pylonnen te ontwijken
-- 2 LEGO Super Mario figuren – deze speelset bevat Wario en King Boo speelgoedfiguren voor rollenspellen vol actie
 - Interactief speelplezier – bestuur de Blingbolide of Knuffelquad met LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) om Mario Kart geluiden en visuele effecten te activeren voor toeteren, driften en meer
-- Driftende Mario Kart speelgoedvoertuigen – de Blingbolide en Knuffelquad hebben elk een functie om schilden te lanceren en te driften, en de Blingbolide heeft een afneembare vlieger die ook op de Knuffelquad past
-- Cadeau met Nintendo personages voor jongens, meisjes en fans vanaf 8 jaar – geef deze bouwset cadeau aan kinderen en gamers; een van de sets 71439, 71440, 71441 of 72043 (apart verkrijgbaar) is nodig om interactief te kunnen spelen
 - Afmetingen – de Blingbolide in deze 512-delige speelset is ca. 4 cm hoog, 15 cm lang en 7 cm breed
+- Cadeau met Nintendo personages voor jongens, meisjes en fans vanaf 8 jaar – geef deze bouwset cadeau aan kinderen en gamers; een van de sets 71439, 71440, 71441 of 72043 (apart verkrijgbaar) is nodig om interactief te kunnen spelen
+- Bouw je eigen Mario Kart races – werk samen met Wario in de Blingbolide en King Boo in de Knuffelquad om schilden te lanceren, te driften, te zweven, te racen en pylonnen te ontwijken
+- Driftende Mario Kart speelgoedvoertuigen – de Blingbolide en Knuffelquad hebben elk een functie om schilden te lanceren en te driften, en de Blingbolide heeft een afneembare vlieger die ook op de Knuffelquad past
+- 2 LEGO Super Mario figuren – deze speelset bevat Wario en King Boo speelgoedfiguren voor rollenspellen vol actie
 - Inspireer fantasierijk spel – LEGO Super Mario speelsets zijn ontworpen voor rollenspellen, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
 - Nintendo LEGO sets om te verzamelen – bekijk het LEGO Super Mario: Mario Kart assortiment (apart verkrijgbaar) voor nog meer voertuigen en personages om tegen te racen en verhalen mee te bedenken
 

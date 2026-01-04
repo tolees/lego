@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Minecraft in het echt – met LEGO Minecraft bouwspeelgoed voor kinderen beleven spelers de game op een andere manier met mobs, omgevingen en kenmerken die tot leven worden gebracht met LEGO stenen
 - Cadeau voor gamers – deze speelset met een huis is een leuk cadeau voor een verjaardag, de feestdagen of een andere gelegenheid voor kinderen vanaf 8 jaar met een passie voor het Minecraft spel, LEGO bouwsets of videogames
+- Minecraft in het echt – met LEGO Minecraft bouwspeelgoed voor kinderen beleven spelers de game op een andere manier met mobs, omgevingen en kenmerken die tot leven worden gebracht met LEGO stenen
 - LEGO Minecraft huis set – geef kinderen explosieve Minecraft actie in handen met het TNT junglehuis, een bouwpakket voor kinderen vanaf 8 jaar met gamingthema
 - Creatief speelgoed voor kinderen – Minecraft spelers kunnen samen met Steve, een populair personage uit de Minecraft game, de strijd aangaan met vijandige mobs en een huis bouwen in de vorm van TNT met een explosiefunctie
 - Minecraft set voor verzamelaars – dit speelgoed voor 8 jaar en ouder bevat Minecraft minifiguren van personage Steve, een Creeper en een zombie, plus accessoires waaronder een speelgoed boot, hengel en een speelgoed Minecraft dieren figuur van een papegaai en vis voor fantasierijke rollenspellen

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kit de maquetas: Expón tu creación junto a la placa informativa del AT-ST y una minifigura LEGO Star Wars de un piloto de AT-ST con el escudo imperial en los brazos y una pistola bláster
+- Sets de la colección LEGO Star Wars para adultos: Desde una galaxia muy, muy lejana llegan hasta tu hogar los kits de maquetas LEGO Star Wars, diseñados para adultos a los que les encante relajarse con actividades creativas y conscientes
+- Exposición personalizada: Gira la “cabeza” del AT-ST, abre y cierra las cubiertas de los visores, ajusta los cañones láser y exponlo como decoración del hogar o la oficina
 - Instrucciones intuitivas: Disfruta de cada paso de esta compleja construcción con la app LEGO Builder, donde puedes ver una versión digital 3D de la maqueta a medida que la construyes, así como consultar tu progreso y guardar sets
 - Maqueta para adultos de Caminante AT-ST: Construye una versión LEGO Star Wars Ultimate Collector Series de un caminante AT-ST como los que vimos en las batallas de la saga Star Wars clásica
-- Sets de la colección LEGO Star Wars para adultos: Desde una galaxia muy, muy lejana llegan hasta tu hogar los kits de maquetas LEGO Star Wars, diseñados para adultos a los que les encante relajarse con actividades creativas y conscientes
 - Detalles de gran autenticidad: Multitud de detalles con ladrillos LEGO del vehículo todoterreno, como sus inconfundibles patas, la escotilla superior que se abre o la detallada cabina biplaza
-- Exposición personalizada: Gira la “cabeza” del AT-ST, abre y cierra las cubiertas de los visores, ajusta los cañones láser y exponlo como decoración del hogar o la oficina
+- Kit de maquetas: Expón tu creación junto a la placa informativa del AT-ST y una minifigura LEGO Star Wars de un piloto de AT-ST con el escudo imperial en los brazos y una pistola bláster
 - Regalo de Star Wars para hombres y mujeres fans: Date un capricho o regala esta maqueta para adultos a otro fan de Star Wars, constructor LEGO avanzado o coleccionista de sets LEGO Star Wars UCS
 
 [🛒 Buy it now!!]({{< param buyurl >}})

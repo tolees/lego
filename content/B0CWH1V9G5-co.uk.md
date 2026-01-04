@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Marvel Iron Man toy – Put action from Marvel Studios’ Avengers: Age of Ultron into kids’ hands with the Iron Man & Iron Legion vs. Hydra Soldier set
-- LEGO Marvel Avengers set – Young Super Heroes join Iron Man and his Legion on a mission to infiltrate the heavily fortified Hydra base
-- Authentic details – The super hero building toy also includes special LEGO bricks that give the impression that the minifigures are flying
-- LEGO Marvel gift for kids – This buildable Avengers adventure toy is a fun Marvel-themed gift idea for 6-plus-year-old boys, girls and Super Hero fans
 - Expand the fun – This Super Hero playset is compatible with all other LEGO Marvel buildable toys, sold separately
+- LEGO Marvel Avengers set – Young Super Heroes join Iron Man and his Legion on a mission to infiltrate the heavily fortified Hydra base
+- LEGO Marvel gift for kids – This buildable Avengers adventure toy is a fun Marvel-themed gift idea for 6-plus-year-old boys, girls and Super Hero fans
+- Authentic details – The super hero building toy also includes special LEGO bricks that give the impression that the minifigures are flying
+- Marvel Iron Man toy – Put action from Marvel Studios’ Avengers: Age of Ultron into kids’ hands with the Iron Man & Iron Legion vs. Hydra Soldier set
 - Super Hero minifigures – The playset includes 4 LEGO Marvel character minifigures: Iron Man, 2 Iron Legionnaires and a Hydra Trooper
 
 [🛒 Check the deal!!]({{< param buyurl >}})

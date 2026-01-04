@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Onderdeel van een uitgebreide collectie – met LEGO Harry Potter bouwsets (apart verkrijgbaar) kunnen fans en verzamelaars beroemde scènes naspelen, hun eigen verhalen bedenken of de gedetailleerde modellen neerzetten en bewonderen
-- Harry Potter cadeau voor meisjes en jongens – deze set is een leuk fantasycadeau voor meisjes, jongens en tovenaars, heksen of dreuzels vanaf 8 jaar die houden van de tovenaarswereld, om hun nieuwe liefde voor Harry Potter verhalen te ontwikkelen
 - Feniks bouwpakket voor kinderen vanaf 8 jaar – stimuleer de passie van je kind voor Harry Potter avonturen met deze LEGO figuur van Felix, de feniks van Perkamentus
-- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen inzoomen en hun modellen in 3D draaien tijdens het bouwen, hun voortgang bijhouden en sets opslaan
-- Mythisch wezen – de figuur van Felix heeft een verstelbare kop, snavel, vleugels en grijpklauwen en kan op een bouwbare stok worden geplaatst met daaronder as-elementen
-- Herkenbare accessoires – deze speelse bouw- en displayset bevat een van stenen gebouwde Sorteerhoed en het Zwaard van Griffoendor dat Felix in zijn klauwen kan vasthouden, plus een babyfiguur van Felix
 - Speelgoed voor kinderen – deze compacte set biedt Harry Potter fans die nog niet eerder een LEGO set hebben gebouwd een boeiende bouwervaring en bevat authentieke details voor creatieve rollenspellen, ook leuke Harry Potter decoratie voor in huis
+- Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen inzoomen en hun modellen in 3D draaien tijdens het bouwen, hun voortgang bijhouden en sets opslaan
+- Harry Potter cadeau voor meisjes en jongens – deze set is een leuk fantasycadeau voor meisjes, jongens en tovenaars, heksen of dreuzels vanaf 8 jaar die houden van de tovenaarswereld, om hun nieuwe liefde voor Harry Potter verhalen te ontwikkelen
+- Herkenbare accessoires – deze speelse bouw- en displayset bevat een van stenen gebouwde Sorteerhoed en het Zwaard van Griffoendor dat Felix in zijn klauwen kan vasthouden, plus een babyfiguur van Felix
+- Mythisch wezen – de figuur van Felix heeft een verstelbare kop, snavel, vleugels en grijpklauwen en kan op een bouwbare stok worden geplaatst met daaronder as-elementen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWF14BMK{{</world>}}

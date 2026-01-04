@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Weck die Kreativität der Kinder: LEGO Super Mario Spielsets lassen sich für spannende Rollenspiele, Challenges und zum Sammeln digitaler Münzen vielseitig erweitern und umgestalten; andere Fans können gern mitspielen
-- Nintendo LEGO zum Erweitern: Ergänze dein Renn-Setup mit weiteren LEGO Mario Kart Sets, entdecke neue Karts und Charaktere und baue dein eigenes Rennuniversum
 - Kreatives Spielzeug für Kinder mit Figuren: Das Set enthält 3 LEGO Super Mario Figuren - Mario, Bob-omb und einen Steinblock - dazu eine Banane mit Gesicht für kreative Rollenspiele
-- Spielset für Jungen und Mädchen mit Spaß am Bauen: Standard-Kart, Driftfunktion, Itembox, Leitkegel und Funktionssteine sorgen für Bauspaß und Rennaction; ein Highlight für junge Tüftler
+- Weck die Kreativität der Kinder: LEGO Super Mario Spielsets lassen sich für spannende Rollenspiele, Challenges und zum Sammeln digitaler Münzen vielseitig erweitern und umgestalten; andere Fans können gern mitspielen
 - Geschenk für Jungen und Mädchen ab 7 Jahre: Dieses LEGO Super Mario Set lädt zu vielen kreativen Rollenspielen ein; ein spannendes Kinder Geschenk für alle kleinen Gamer
+- Spielset für Jungen und Mädchen mit Spaß am Bauen: Standard-Kart, Driftfunktion, Itembox, Leitkegel und Funktionssteine sorgen für Bauspaß und Rennaction; ein Highlight für junge Tüftler
 - Bauset zum Spielen und Ausstellen: LEGO Mario (inklusive) rast durchs Set, sammelt digitale Belohnungen und reagiert auf farbige Platten, ein Spielzeug für Kinder mit Technikbegeisterung
 - LEGO Mario Kart für rasante Rennen: Mit diesem Nintendo Set baust du eine spannende Super Mario Rennstrecke, LEGO Mario tritt im Standard-Kart an und liefert sich packende Duelle
+- Nintendo LEGO zum Erweitern: Ergänze dein Renn-Setup mit weiteren LEGO Mario Kart Sets, entdecke neue Karts und Charaktere und baue dein eigenes Rennuniversum
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF3YGN3{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Robot gift – This LEGO Creator 3in1 set provides a fun build-and-play experience for space fans and makes an out-of-this-world birthday gift for 8+ year old boys and girls
-- More 3in1 fun – Expand your little ones adventures with other kids building toy sets (sold separately) from the LEGO Creator 3in1 range
-- LEGO Creator toys – Every 3in1 set lets kids build 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
-- 3 building options in 1 box – LEGO Creator 3in1 Space Robot toy for 8+ year old boys and girls lets kids build 3 different toys using the same bricks
-- Multiple possibilities – Kids can choose to build a Space Robot toy, a space dog figure or a space rocket toy (models cannot be built simultaneously)
 - Illuminated robot models – All 3 LEGO space models in this building kit light up when kids press down on a special light brick (batteries included)
 - Posable space toys – The robot has posable arms, fingers and a head and body that can spin around; the toy dog has a rotating head and posable legs
+- 3 building options in 1 box – LEGO Creator 3in1 Space Robot toy for 8+ year old boys and girls lets kids build 3 different toys using the same bricks
+- More 3in1 fun – Expand your little ones adventures with other kids building toy sets (sold separately) from the LEGO Creator 3in1 range
+- Multiple possibilities – Kids can choose to build a Space Robot toy, a space dog figure or a space rocket toy (models cannot be built simultaneously)
+- LEGO Creator toys – Every 3in1 set lets kids build 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
+- Robot gift – This LEGO Creator 3in1 set provides a fun build-and-play experience for space fans and makes an out-of-this-world birthday gift for 8+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSBVRR7{{</world>}}

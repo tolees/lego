@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Minecraft Geschenk für Kinder: Dieses LEGO Spielset ist ein Geschenk für Jungen und Mädchen; ob als Geburtstagsgeschenk oder als Mitbringsel für Kinder ab 10 Jahren
-- Minecraft Fanartikel mit Überraschung: Nimmt man die Vorderseite des Kopfes vom LEGO Minecraft Creeper ab, kommen ein TNT-Block und eine kleine Version des ersten Creepers zum Vorschein
-- Minecraft Action in der echten Welt: LEGO Minecraft Bauset lassen Kinder das Videospiel auf eine ganz andere Art erleben. Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
 - Minecraft Spielzeug zum Sammeln: Der Creeper ist jederzeit für Action bereit, ob er nun durch die Minecraft Welt stapft oder als Kinderzimmer Deko ausgestellt ist
-- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, LEGO Sets speichern und den Baufortschritt verfolgen
 - Minecraft Creeper: Eine bewegliche LEGO Figur für Kinder; dieses große Spielzeug für Jungen und Mädchen ab 10 Jahren ist ein interaktives Spielzeug für Kinder, die gern Videospiele spielen
+- Minecraft Action in der echten Welt: LEGO Minecraft Bauset lassen Kinder das Videospiel auf eine ganz andere Art erleben. Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
+- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, LEGO Sets speichern und den Baufortschritt verfolgen
 - Minecraft LEGO Set: Dieser Modellbau zum Spielen und Ausstellen hat 4 bewegliche Beine; Die Figur kann ihren Kopf zur Seite drehen und neigen
+- Minecraft Fanartikel mit Überraschung: Nimmt man die Vorderseite des Kopfes vom LEGO Minecraft Creeper ab, kommen ein TNT-Block und eine kleine Version des ersten Creepers zum Vorschein
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRZQYB{{</world>}}

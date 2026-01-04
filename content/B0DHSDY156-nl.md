@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Aanpasbare Harry Potter decoratie – zet het model neer als een straat met 2 kanten, als één lange rij gebouwen, of verdeel het in 5 modules om elk gebouw van dichterbij te bekijken
-- Kleine winkels aan de Wegisweg – bouw bekende locaties na op microschaal, waaronder Braakbals Uilenboetiek, Goudgrijp Tovenaarsbank, de Lekke Ketel en het hoofdkwartier van De Ochtendprofeet, plus de Collectebus
-- Harry Potter set om te verzamelen – deze LEGO Harry Potter bouwset op microschaal maakt deel uit van een groot assortiment LEGO voor volwassenen die zich graag ontspannen met een praktische, creatieve hobby
-- Harry Potter cadeau voor haar of hem – verwen jezelf of geef deze LEGO set van de Wegisweg cadeau aan een volwassen fan en verzamelaar van de Harry Potter boeken en films
-- 3D-bouwinstructies – maak je creatieve ervaring nog leuker met de intuïtieve LEGO Builder app waarmee je kunt inzoomen, je model in 3D kunt draaien, je voortgang kunt bijhouden en meer
 - LEGO Harry Potter De Wegisweg bouwpakket voor volwassenen – leg de betoverende sfeer van de Wegisweg en de authentieke details van de tovenaarswinkels vast met dit micromodel
+- Harry Potter set om te verzamelen – deze LEGO Harry Potter bouwset op microschaal maakt deel uit van een groot assortiment LEGO voor volwassenen die zich graag ontspannen met een praktische, creatieve hobby
+- Aanpasbare Harry Potter decoratie – zet het model neer als een straat met 2 kanten, als één lange rij gebouwen, of verdeel het in 5 modules om elk gebouw van dichterbij te bekijken
 - 12 LEGO Harry Potter microfiguren – Harry Potter, Ron Wemel, Hermelien Griffel, Fred Wemel, George Wemel, Belinda Broom, Ginny Wemel, Draco Malfidus, Narcissa Malfidus, meneer Odius en meer
+- Harry Potter cadeau voor haar of hem – verwen jezelf of geef deze LEGO set van de Wegisweg cadeau aan een volwassen fan en verzamelaar van de Harry Potter boeken en films
+- Kleine winkels aan de Wegisweg – bouw bekende locaties na op microschaal, waaronder Braakbals Uilenboetiek, Goudgrijp Tovenaarsbank, de Lekke Ketel en het hoofdkwartier van De Ochtendprofeet, plus de Collectebus
+- 3D-bouwinstructies – maak je creatieve ervaring nog leuker met de intuïtieve LEGO Builder app waarmee je kunt inzoomen, je model in 3D kunt draaien, je voortgang kunt bijhouden en meer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDY156{{</world>}}

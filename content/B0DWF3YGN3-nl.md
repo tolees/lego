@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inspireer de creativiteit van kinderen – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
-- Bouwbare Mario Kart speelgoedset voor kinderen – creëer een superleuk LEGO Super Mario parcours voor interactieve races met LEGO Mario in zijn standaardkart met deze Nintendo LEGO set
-- Interactief speelgoed – race met LEGO Mario in de standaardkart, verdien digitale beloningen uit de voorwerpkist, versla de Bob-omb en Thwomp, zie hoe LEGO Mario reageert op de groene en rode LEGO platen en meer
-- Onbeperkte speelmogelijkheden – bekijk het volledige assortiment LEGO Super Mario: Mario Kart sets (apart verkrijgbaar) en ontdek andere bouwbare karts en personages om tegen te racen
-- Spannend cadeau voor jongens, meisjes en gamers van 7 jaar en ouder – geef kinderen urenlang raceplezier en fantasierijk spel cadeau met deze LEGO Super Mario bouwset
 - 3 LEGO Super Mario speelgoedfiguren – een interactieve LEGO Mario figuur, Bob-omb en Thwomp figuren, plus een banaan met gezichtje
-- Bouwen en racen – bevat een standaardkart om mee te driften met een functie om schilden te lanceren, een voorwerpkist, 3 koppelbare vangrails, 2 pylonnen en een startgedeelte en erepodium met actietags
 - Afmetingen – de standaardkart in deze 278-delige set is ca. 5 cm hoog, 13 cm lang en 8 cm breed
+- Bouwbare Mario Kart speelgoedset voor kinderen – creëer een superleuk LEGO Super Mario parcours voor interactieve races met LEGO Mario in zijn standaardkart met deze Nintendo LEGO set
+- Spannend cadeau voor jongens, meisjes en gamers van 7 jaar en ouder – geef kinderen urenlang raceplezier en fantasierijk spel cadeau met deze LEGO Super Mario bouwset
+- Interactief speelgoed – race met LEGO Mario in de standaardkart, verdien digitale beloningen uit de voorwerpkist, versla de Bob-omb en Thwomp, zie hoe LEGO Mario reageert op de groene en rode LEGO platen en meer
+- Bouwen en racen – bevat een standaardkart om mee te driften met een functie om schilden te lanceren, een voorwerpkist, 3 koppelbare vangrails, 2 pylonnen en een startgedeelte en erepodium met actietags
+- Inspireer de creativiteit van kinderen – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
+- Onbeperkte speelmogelijkheden – bekijk het volledige assortiment LEGO Super Mario: Mario Kart sets (apart verkrijgbaar) en ontdek andere bouwbare karts en personages om tegen te racen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF3YGN3{{</world>}}

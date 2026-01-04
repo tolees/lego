@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 1 minifigure – This model kit for adults to build includes a driver minifigure in an RB outfit and helmet, ready to be placed in the car’s cockpit
-- Build and display LEGO vehicles – Speed Champions sets let car lovers create brick-built versions of some of the world’s most famous vehicles
-- Formula 1 gifts – This LEGO F1 set is a great gift idea for men, women, F1 lovers and fans of the RB F1 racing team seeking a rewarding project
-- F1 display model – After you’ve enjoyed a rewarding building experience, this LEGO RB F1 car model can be proudly displayed at home or in the office
 - F1 fun for all the family – Race for the checkered flag alongside the whole family with other model cars (sold separately) in the LEGO F1 range
-- Authentic details – This model car for adults replicates the real 2024 version with sponsor stickers, a halo bar, and wider rear tyres with “Pirelli”
 - LEGO RB Formula 1 vehicle kit – LEGO Speed Champions Visa Cash App RB VCARB 01 F1 Race Car set for adults, F1 lovers and RB F1 racing team fans
+- Build and display LEGO vehicles – Speed Champions sets let car lovers create brick-built versions of some of the world’s most famous vehicles
+- F1 display model – After you’ve enjoyed a rewarding building experience, this LEGO RB F1 car model can be proudly displayed at home or in the office
+- Formula 1 gifts – This LEGO F1 set is a great gift idea for men, women, F1 lovers and fans of the RB F1 racing team seeking a rewarding project
+- Authentic details – This model car for adults replicates the real 2024 version with sponsor stickers, a halo bar, and wider rear tyres with “Pirelli”
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHS9JVGJ{{</world>}}

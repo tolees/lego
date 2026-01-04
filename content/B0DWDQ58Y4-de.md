@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Anpassbares Modellspielzeug für Kinder: Stell den Kampfdroiden auf seiner STAP auf den Ständer, der Kampfdroide und die STAP können aber auch neben dem Ständer platziert werden
-- Coole Star Wars-Schreibtischdeko: Auf oder neben dem Ständer mit integrierter Infotafel finden der LEGO Kampfdroide und seine STAP Platz
 - 3D-Bauanleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives Bauabenteuer mit, coole Funktionen lassen Kinder beim Bauen digitale 3D-Ansichten der Baumodelle vergrößern und drehen
-- Baubare bewegliche LEGO-Figur: Man kann den Kampfdroiden in verschiedene Posen bringen; den Blaster aus LEGO-Steinen kann er auf dem Rücken tragen oder in den Händen halten
 - LEGO Star Wars-Geschenk für Jungen, Mädchen und alle Fans: Dieses Bauspielzeug ist ein tolles Geschenk für Star Wars-Fans und Sammler ab 12 Jahren
-- LEGO Star Wars-Bauspielzeuge für Fans jeden Alters: Die separat erhältlichen LEGO Star Wars-Sets lassen Kinder und erwachsene Fans legendäre Filmszenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
 - Kampfdroide mit STAP – ein Bauspielzeug zum Ausstellen: Der Kampfdroide mit STAP aus LEGO-Bausteinen lässt Kinder ihre Star Wars Begeisterung voll ausleben
+- Baubare bewegliche LEGO-Figur: Man kann den Kampfdroiden in verschiedene Posen bringen; den Blaster aus LEGO-Steinen kann er auf dem Rücken tragen oder in den Händen halten
+- Coole Star Wars-Schreibtischdeko: Auf oder neben dem Ständer mit integrierter Infotafel finden der LEGO Kampfdroide und seine STAP Platz
+- LEGO Star Wars-Bauspielzeuge für Fans jeden Alters: Die separat erhältlichen LEGO Star Wars-Sets lassen Kinder und erwachsene Fans legendäre Filmszenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
+- Anpassbares Modellspielzeug für Kinder: Stell den Kampfdroiden auf seiner STAP auf den Ständer, der Kampfdroide und die STAP können aber auch neben dem Ständer platziert werden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDQ58Y4{{</world>}}

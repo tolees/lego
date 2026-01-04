@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Erweitere deine Spielgalaxie: Die Figuren können auch mit anderen LEGO Raumfahrt-Setskombiniert werden, zum Beispiel mit den entsprechenden LEGO City Bausets
-- Fantasievolles Spielerlebnis im Weltraum: Das LEGO Alien-Set ist ein tolles Spielzeug, das Kinder ab 7 Jahren Freundschaft mit Aliens schließen lässt
 - Geschenkidee für Mädchen und Jungen: Dieses Weltraum-Spielzeug ist ein tolles Geschenk für junge Astronauten und neugierige Kinder
 - Abmessungen: Die Landschaft aus diesem 181-teiligen Set ist 7 cm hoch, 6 cm breit und 7 cm tief
-- LEGO Astronaut: Das Set beinhaltet eine LEGO Minifigur, die einen Raumanzug trägt, sowie ein Raumfahrzeug, in das sich der Astronaut hineinsetzen kann
 - Außerirdische Freunde: Mach Bekanntschaft mit 6 Aliens, die mit neuen Gesichtern und Augen verziert sind
+- Erweitere deine Spielgalaxie: Die Figuren können auch mit anderen LEGO Raumfahrt-Setskombiniert werden, zum Beispiel mit den entsprechenden LEGO City Bausets
+- LEGO Astronaut: Das Set beinhaltet eine LEGO Minifigur, die einen Raumanzug trägt, sowie ein Raumfahrzeug, in das sich der Astronaut hineinsetzen kann
+- Fantasievolles Spielerlebnis im Weltraum: Das LEGO Alien-Set ist ein tolles Spielzeug, das Kinder ab 7 Jahren Freundschaft mit Aliens schließen lässt
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D35VDTD2{{</world>}}

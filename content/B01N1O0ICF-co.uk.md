@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 2 characters – A LEGO DUPLO Mickey Mouse figure and a Toodles computer element, plus a buildable car toy from the Mickey Mouse Clubhouse TV show
+- Mickey Mouse building toy for toddlers – LEGO DUPLO | Disney Mickey Mouse Clubhouse & Car inspires activity-packed playtimes for preschool kids
+- Digital building instructions – The LEGO Builder app features a digital version of the instructions included with this buildable Disney toy
+- Buildable learning toy for preschoolers – LEGO DUPLO educational construction toys support social and emotional learning through fun-filled, creative playtimes
 - Gift idea for toddlers – This buildable Mickey Mouse toy makes a great Disney-themed gift for 2 plus year old girls and boys who love building with colourful LEGO DUPLO bricks
 - Buildable role-play toy – Toddlers recreate fun by spinning the Mousekedoer wheel to send Mickey Mouse to complete activities around the Clubhouse
-- Mickey Mouse building toy for toddlers – LEGO DUPLO | Disney Mickey Mouse Clubhouse & Car inspires activity-packed playtimes for preschool kids
-- 2 characters – A LEGO DUPLO Mickey Mouse figure and a Toodles computer element, plus a buildable car toy from the Mickey Mouse Clubhouse TV show
-- Digital building instructions – The LEGO Builder app features a digital version of the instructions included with this buildable Disney toy
 - Learn through play – Colour-sorting toy for 2+ year old boys and girls helps to develop toddlers’ matching skills as they pair pictures with elements
-- Buildable learning toy for preschoolers – LEGO DUPLO educational construction toys support social and emotional learning through fun-filled, creative playtimes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N1O0ICF{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inklusive Steckbrief: Mit Erlaubnis eines Elternteils können Kinder den QR-Code in der Bauanleitung oder auf der Box scannen, um sich ein Video mit einem spannenden LEGO City Polizei-Abenteuer anzuschauen
-- Polizei-Spielzeug für Kinder, die Rollenspiele lieben: Setz den Polizisten und die Ganovin in ihre Autos und freu dich auf viele spannende Abenteuer in einer kreativen Spielwelt
 - Inhalt dieses Bausets: Alles, was Kinder brauchen, um ein LEGO City Polizeiauto und ein Rennauto-Spielzeug zu bauen, sowie 2 Minifiguren – ein Polizist und eine Ganovin – für spannende Rollenspiele
-- Kreativer Spielspaß ohne Limits: Für weitere spannende Abenteuer muss dein Kind dieses Fahrzeug-Spielzeug nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
-- Polizeiauto-Spielzeug für ein actionreiches Spielerlebnis: Die LEGO City Verfolgungsjagd mit Polizeiauto und Muscle Car ist ein Auto-Spielzeug für Kinder ab 6 Jahren, mit dem dein Kind ein spannendes Autorennen inszenieren kann
 - Tolles Auto-Geschenk für Fans von LEGO City Polizei-Spielsets: Dieses LEGO City Auto-Bauset ist ein tolles Polizei-Geschenk zum Geburtstag oder zu Weihnachten für Jungs und Mädchen ab 6 Jahren
+- Kreativer Spielspaß ohne Limits: Für weitere spannende Abenteuer muss dein Kind dieses Fahrzeug-Spielzeug nur mit anderen separat erhältlichen LEGO City Modellen kombinieren
+- Polizei-Spielzeug für Kinder, die Rollenspiele lieben: Setz den Polizisten und die Ganovin in ihre Autos und freu dich auf viele spannende Abenteuer in einer kreativen Spielwelt
+- Polizeiauto-Spielzeug für ein actionreiches Spielerlebnis: Die LEGO City Verfolgungsjagd mit Polizeiauto und Muscle Car ist ein Auto-Spielzeug für Kinder ab 6 Jahren, mit dem dein Kind ein spannendes Autorennen inszenieren kann
+- Inklusive Steckbrief: Mit Erlaubnis eines Elternteils können Kinder den QR-Code in der Bauanleitung oder auf der Box scannen, um sich ein Video mit einem spannenden LEGO City Polizei-Abenteuer anzuschauen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1BPKM{{</world>}}

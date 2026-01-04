@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Arrange the bouquet – Each LEGO flower has an adjustable stem, encouraging builders to create a bespoke bouquet which can easily be customised
-- LEGO flowers – Features 15 buildable flower stems, including daisies, cornflowers, eucalyptus, elderflowers, cymbidium orchids and LEGO roses
-- Build more blooms – This brick-built bouquet can be combined with other sets (sold separately) in the LEGO Botanicals collection
-- Nature gift – The flowers make a lovely gift for women, men and flower lovers and can be given as a Valentine’s Day gift, Mother’s Day gift or housewarming gift
 - Artificial flower decor – Let creativity bloom with the LEGO Botanicals Pretty Pink Flower Bouquet, a nature-inspired home decor set for adults
+- Build more blooms – This brick-built bouquet can be combined with other sets (sold separately) in the LEGO Botanicals collection
+- LEGO flowers – Features 15 buildable flower stems, including daisies, cornflowers, eucalyptus, elderflowers, cymbidium orchids and LEGO roses
 - LEGO decor – Once complete, the LEGO Botanicals set becomes a piece of colourful home or office decor that can be displayed in a vase (not included)
 - Even more faux flowers – The LEGO set for adults and flower lovers also includes ranunculus, a campanula and a waterlily dahlia
+- Arrange the bouquet – Each LEGO flower has an adjustable stem, encouraging builders to create a bespoke bouquet which can easily be customised
+- Nature gift – The flowers make a lovely gift for women, men and flower lovers and can be given as a Valentine’s Day gift, Mother’s Day gift or housewarming gift
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDBVKV{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Part of an innovative collection of LEGO model car kits for adults to build, this set includes the LEGO Builder app with digital instructions
+- Enjoy a rewarding building experience shaping every detail of the 2022 Ford GT with this 1:12 scale LEGO Technic car model kit for adults
+- Take your time assembling details like the rear-wheel drive with differential, opening doors, adjustable spoiler wing and opening bonnet
+- The model car includes authentic features, such as a V6 engine with moving pistons, independent suspension on all wheels and front-axle steering
 - With its classic dark blue finish with white racing stripes, this LEGO Technic model car kit for adults makes a stunning display piece
 - This LEGO supercar model is designed for adult builders, offering a detailed building project, and makes a great gift for men and women to add to their LEGO vehicle collection
-- Take your time assembling details like the rear-wheel drive with differential, opening doors, adjustable spoiler wing and opening bonnet
-- Part of an innovative collection of LEGO model car kits for adults to build, this set includes the LEGO Builder app with digital instructions
-- The model car includes authentic features, such as a V6 engine with moving pistons, independent suspension on all wheels and front-axle steering
 - Number of Pieces: 1,466
-- Enjoy a rewarding building experience shaping every detail of the 2022 Ford GT with this 1:12 scale LEGO Technic car model kit for adults
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRZXX8B{{</world>}}

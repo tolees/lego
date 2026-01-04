@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- F1 gifts for men and women – Mark a birthday or special occasion with this collectible LEGO F1 model car kit, packed with intricate details
-- Features and functions – The model car features working steering, wide rear slick tyres with printed Goodyear lettering, plus a detailed engine
-- What’s in the box? – A LEGO F1 Williams Racing FW14B car model, Nigel Mansell minifigure, a display stand, podium, driver’s helmet and a trophy
-- 3D building instructions – Use the LEGO Builder app to view this LEGO F1 model car for adults in 3D, track your progress and explore other sets
-- Car model kit for home or office – Includes a LEGO Williams Racing FW14B display stand with stats, plus a Nigel Mansell minifigure podium and quote
 - Collectible race car set – Celebrate historic F1 innovation with LEGO Icons Williams Racing FW14B & Nigel Mansell model car for adults to build
+- Features and functions – The model car features working steering, wide rear slick tyres with printed Goodyear lettering, plus a detailed engine
+- F1 gifts for men and women – Mark a birthday or special occasion with this collectible LEGO F1 model car kit, packed with intricate details
+- What’s in the box? – A LEGO F1 Williams Racing FW14B car model, Nigel Mansell minifigure, a display stand, podium, driver’s helmet and a trophy
+- Car model kit for home or office – Includes a LEGO Williams Racing FW14B display stand with stats, plus a Nigel Mansell minifigure podium and quote
+- 3D building instructions – Use the LEGO Builder app to view this LEGO F1 model car for adults in 3D, track your progress and explore other sets
 - More high-speed F1 action – Look out for other LEGO Formula One vehicle sets (sold separately) to build, display and race with the whole family
 
 [🛒 Buy it now!!]({{< param buyurl >}})

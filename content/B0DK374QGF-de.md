@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- FESTLICHE GESCHENKIDEE FÜR KINDER UND ERWACHSENE: Diese Zimmer Deko ist ein beliebtes Geschenk für Mädchen und Jungen sowie für Fans der LEGO Sets für Erwachsene
 - TISCHDEKO MIT LICHT: Diese LEGO Deko besteht aus einer roten Kerze in der Mitte, die von roten Beeren, goldenen Sternen und grünen Blättern umsäumt wird; sie kann individuell verändert werden
-- SPIELZEUG FÜR MÄDCHEN UND JUNGEN: Dieser Adventskranz kann auch zusammen mit Freunden oder der Familie gebaut werden, um in der Weihnachtszeit eine schöne Zeit zusammen zu verbringen
 - LEGO WEIHNACHTEN MIT WEITEREN SETS ERWEITERN: Weitere separat erhältliche Bausets aus der LEGO Weihnachtskollektion verbreiten noch mehr Festtagsstimmung; kombiniere verschiedene Sets für noch mehr Freude
-- KERZENSTÄNDER FÜR KINDER: Das fertige Kerzenhalter Modell ziert als Tischschmuck jeden Tisch und sorgt für eine warme, kreative Stimmung; Kinder können ihr Baumodell stolz ausstellen oder verschenken
 - MODELLBAU MIT FESTLICHEM STIL: Das LEGO Weihnachtsgesteck für Mädchen und Jungen ab 12 Jahren lässt Kinder in der Weihnachtszeit kreativ werden und sorgt für stundenlangen Bauspaß
+- FESTLICHE GESCHENKIDEE FÜR KINDER UND ERWACHSENE: Diese Zimmer Deko ist ein beliebtes Geschenk für Mädchen und Jungen sowie für Fans der LEGO Sets für Erwachsene
+- SPIELZEUG FÜR MÄDCHEN UND JUNGEN: Dieser Adventskranz kann auch zusammen mit Freunden oder der Familie gebaut werden, um in der Weihnachtszeit eine schöne Zeit zusammen zu verbringen
+- KERZENSTÄNDER FÜR KINDER: Das fertige Kerzenhalter Modell ziert als Tischschmuck jeden Tisch und sorgt für eine warme, kreative Stimmung; Kinder können ihr Baumodell stolz ausstellen oder verschenken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DK374QGF{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; in der App kann man Sets speichern, den Baufortschritt verfolgen und beim Bauen 3D-Ansichten der Modelle vergrößern und drehen
-- Abtrennbare Ninja-Fahrzeuge: Der NINJAGO Actionflitzer lässt sich in 3 kleinere Fahrzeuge zerteilen, um Kai auf seinem Ninja-Bike, Wyldfyre auf ihrem Ninja-Bike und Fraks Jet mit 2 Shootern loszuschicken
 - 3-in-1-Ninja-Flitzer: Mit diesem Ninja-Actionflitzer können Jungen und Mädchen ab 8 Jahren die spannenden Duelle aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- Ninja-Ausrüstung: Kai, Wyldfyre und Frak haben jeweils 2 Katanas und Cole trägt eine durchscheinende Enthüllungsklinge und eine Laterne; nokt und der Geisterdrachenmensch schwingen jeweils ein Schwert
 - Ninja-Spielzeuge in Hülle und Fülle: LEGO NINJAGO Spielsets lassen Kinder mit ihren Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen
+- Abtrennbare Ninja-Fahrzeuge: Der NINJAGO Actionflitzer lässt sich in 3 kleinere Fahrzeuge zerteilen, um Kai auf seinem Ninja-Bike, Wyldfyre auf ihrem Ninja-Bike und Fraks Jet mit 2 Shootern loszuschicken
 - 6 NINJAGO Minifiguren: Kai, Wyldfyre, Cole, Nokt, ein Geisterdrachenmensch und zum allerersten Mal auch der Ninja Frak sowie ein Gleiter und das Modell einer Kreatur laden zum Spielen ein
+- Ninja-Ausrüstung: Kai, Wyldfyre und Frak haben jeweils 2 Katanas und Cole trägt eine durchscheinende Enthüllungsklinge und eine Laterne; nokt und der Geisterdrachenmensch schwingen jeweils ein Schwert
+- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; in der App kann man Sets speichern, den Baufortschritt verfolgen und beim Bauen 3D-Ansichten der Modelle vergrößern und drehen
 - Geschenkidee für Kinder: Dieses Actionspielzeug bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Geschenk für Kinder, die gern fantasievoll spielen und Abenteuerspielsets lieben
 
 [🛒 Check the deal!!]({{< param buyurl >}})

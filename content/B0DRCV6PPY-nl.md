@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Maak deel uit van de actie – de bouwinstructies op basis van verhalen laten kinderen helemaal opgaan in de Droomwereld en zijn ook digitaal beschikbaar in de LEGO Builder app
 - Speelgoed voor kinderen boordevol details – inclusief noppenschieters, een cockpit die open kan en modulaire boosters die compatibel zijn met andere sets (apart verkrijgbaar) in de LEGO DREAMZzz collectie van 2025
-- LEGO truck speelgoed voor kinderen – stimuleer de creativiteit met het LEGO DREAMZzz Mateos spuitbustruck bouwpakket voor kinderen vanaf 9 jaar, inclusief 2 bouwmogelijkheden
-- 5 LEGO DREAMZzz minifiguren – inclusief figuren van DREAMZzz personages Mateo, Cooper, Meneer Oz, One, D-Shock en Albert, en 2 cyberbreinspinnen die de set tot leven brengen en fantasierijke rollenspellen met fanrasiewezens stimuleren
+- Fantasievoertuig voor kinderen – deze bouw- en speelset is een creatief cadeau voor jongens en meisjes die van trucks, de LEGO DREAMZz tv-serie en kunst houden
 - LEGO DREAMZzz collectie – laat het fantasierijke spel verder gaan met andere LEGO DREAMZzz bouwsets (apart verkrijgbaar), waaronder dierenspeelsets en speelgoedmecha
 - Herbouwbaar voertuigmodel – LEGO DREAMZzz fans zullen veel plezier beleven aan het maken van een LEGO truck voordat ze hem kunnen ombouwen tot een gigantische spuitbus of een spuitbusraketwerper
-- Fantasievoertuig voor kinderen – deze bouw- en speelset is een creatief cadeau voor jongens en meisjes die van trucks, de LEGO DREAMZz tv-serie en kunst houden
+- 5 LEGO DREAMZzz minifiguren – inclusief figuren van DREAMZzz personages Mateo, Cooper, Meneer Oz, One, D-Shock en Albert, en 2 cyberbreinspinnen die de set tot leven brengen en fantasierijke rollenspellen met fanrasiewezens stimuleren
+- LEGO truck speelgoed voor kinderen – stimuleer de creativiteit met het LEGO DREAMZzz Mateos spuitbustruck bouwpakket voor kinderen vanaf 9 jaar, inclusief 2 bouwmogelijkheden
+- Maak deel uit van de actie – de bouwinstructies op basis van verhalen laten kinderen helemaal opgaan in de Droomwereld en zijn ook digitaal beschikbaar in de LEGO Builder app
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DRCV6PPY{{</world>}}

@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Buildable microscale model of Hogwarts Castle, hut of Hagrid, Whomping Willow tree and 5 boats
 - Hagrid’s hut has Aragog the spider and buildable pumpkins
-- The Whomping Willow includes the buildable blue Flying Ford Anglia car in its spinning branches
-- Hogwarts Castle features the Great Hall with buildable ‘stained glass windows, house banners, benches, tables, flaming torches and moving staircases
 - Accessory elements include the Sword of Gryffindor, Helga Hufflepuff´s cup, wands, potions, house banners, flames, a cauldron and 2 magnifying glasses. (Amazon Exclusive)
+- Hogwarts Castle features the Great Hall with buildable ‘stained glass windows, house banners, benches, tables, flaming torches and moving staircases
+- The Whomping Willow includes the buildable blue Flying Ford Anglia car in its spinning branches
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07BLDTWVW{{</world>}}

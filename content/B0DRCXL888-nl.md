@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Technic auto boordevol authentieke functies – deze 2 Fast 2 Furious auto zit boordevol realistische details, waaronder de besturing, voor- en achterwielophanging, deuren die open kunnen, een verstelbare spoiler en 3 NOS-flessen
-- Digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze set horen
-- LEGO sets voor volwassenen – ontdek technische concepten en geniet van een boeiend bouwproject met de collectie LEGO Technic voertuigsets (apart verkrijgbaar) voor volwassenen
-- Een cadeau voor Fast & Furious fans – deze modelautoset is een geweldig creatief cadeau voor mannen en vrouwen die dol zijn op de Nissan Skyline GT-R (R34) auto en op zoek zijn naar een creatieve hobby
-- 6-cilindermotor met bewegende zuigers – haal de monteur in je naar boven terwijl je bewegende details van de modelauto, zoals de 6-cilindermotor, in elkaar zet
-- Speel hoogtepunten uit de film na – de driftfunctie (de allereerste in een LEGO Technic set) zorgt ervoor dat de LEGO raceauto hoger komt te liggen, zodat je indrukwekkende manoeuvres uit je favoriete racescènes kunt naspelen
 - LEGO Fast & Furious auto bouwpakket voor volwassenen – bouw de LEGO Technic 2 Fast 2 Furious Nissan Skyline GT-R (R34) auto en gebruik vervolgens de driftfunctie om klassieke Fast & Furious films scènes na te spelen
+- Speel hoogtepunten uit de film na – de driftfunctie (de allereerste in een LEGO Technic set) zorgt ervoor dat de LEGO raceauto hoger komt te liggen, zodat je indrukwekkende manoeuvres uit je favoriete racescènes kunt naspelen
+- LEGO Technic auto boordevol authentieke functies – deze 2 Fast 2 Furious auto zit boordevol realistische details, waaronder de besturing, voor- en achterwielophanging, deuren die open kunnen, een verstelbare spoiler en 3 NOS-flessen
+- LEGO sets voor volwassenen – ontdek technische concepten en geniet van een boeiend bouwproject met de collectie LEGO Technic voertuigsets (apart verkrijgbaar) voor volwassenen
+- 6-cilindermotor met bewegende zuigers – haal de monteur in je naar boven terwijl je bewegende details van de modelauto, zoals de 6-cilindermotor, in elkaar zet
+- Digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze set horen
+- Een cadeau voor Fast & Furious fans – deze modelautoset is een geweldig creatief cadeau voor mannen en vrouwen die dol zijn op de Nissan Skyline GT-R (R34) auto en op zoek zijn naar een creatieve hobby
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DRCXL888{{</world>}}

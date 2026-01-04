@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Einführung ins Bauen mit LEGO Steinen: LEGO Sets ab 4 bringen Kindern bei, wie man Modelle baut; der Rest der Familie kann bei diesem Spaß gern mitmachen
 - Ninja-Spielzeug, das Kindern das Bauen beibringt: Arins Battle Mech ist ein Action-Spielzeug, das Jungs und Mädchen ab 4 Jahren entdecken lässt, wie viel Freude das Bauen und das Darstellen von Ninja-Geschichten macht
 - Gleiter und Kristallhöhle: Dieses Spielset beinhaltet einen Gleiter mit beweglichen Flügeln, Scheiben-Shooter und 2 Speeren, eine Kristallhöhle mit magischem Hammer und einen Ausrüstungsständer für 2 Katanas
-- Bewegliche Mech-Figur: Dieser LEGO NINJAGO Mech hat ein Cockpit, bewegliche Glieder, eine rotierende Klinge und ein großes Schwert, damit Kinder die spannenden Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen können
-- Entdecke weitere Ninja-Spielzeuge für Kinder: Schau dir auch unbedingt die anderen separat erhältlichen NINJAGO Sets mit Drachen, Mechs und legendären Ninja-Figuren an
 - 2 LEGO NINJAGO Figuren: Dieses LEGO NINJAGO Set beinhaltet die NINJAGO Minifigur Arin mit einem Mini-Katana für spannende Rollenspiele und Duelle mit dem Wolfsjäger, der ein Spielzeug-Schwert schwingt
-- Einführung ins Bauen mit LEGO Steinen: LEGO Sets ab 4 bringen Kindern bei, wie man Modelle baut; der Rest der Familie kann bei diesem Spaß gern mitmachen
+- Entdecke weitere Ninja-Spielzeuge für Kinder: Schau dir auch unbedingt die anderen separat erhältlichen NINJAGO Sets mit Drachen, Mechs und legendären Ninja-Figuren an
+- Bewegliche Mech-Figur: Dieser LEGO NINJAGO Mech hat ein Cockpit, bewegliche Glieder, eine rotierende Klinge und ein großes Schwert, damit Kinder die spannenden Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen können
 - Ninja-Geschenk: Dieses kleine LEGO Set bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder ab 4 Jahren, die LEGO NINJAGO Actionfiguren & Mechs lieben
 
 [🛒 Check the deal!!]({{< param buyurl >}})

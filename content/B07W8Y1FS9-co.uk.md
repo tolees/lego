@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - The set accessories include a stolen safe with gold bars and a banknote, a crate of fish, handcuffs and a road stop to crash the cars!
-- Police Highway Arrest
-- Manufacturer recommended age: 5+
-- Includes 2 minifigures: Duke DeTain and thief Vito to recreate scenes from LEGO City Adventures TV series in car chase plays
 - Number of pieces: 185
+- Police Highway Arrest
+- Includes 2 minifigures: Duke DeTain and thief Vito to recreate scenes from LEGO City Adventures TV series in car chase plays
+- Manufacturer recommended age: 5+
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W8Y1FS9{{</world>}}

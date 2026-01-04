@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEUK LEGO CADEAU VOOR JONGENS EN MEISJES – geef dit treinspeelgoed boordevol functies cadeau aan jongens, meisjes en treinliefhebbers vanaf 7 jaar
-- WAT ZIT ER IN DE DOOS? – een locomotief, rijtuig, platte wagon, uitvalsbasis, bergtunnel, mijngrot, 22 spoordelen, LEGO minifiguur van Johnny Thunder, 5 minifiguren van ontdekkingsreizigers en 2 poolvossen speelgoed dieren figuren
-- SET MET OP AFSTAND BESTUURBARE TREIN – fans van trein speelgoed die ook houden van rollenspellen, zullen dol zijn op dit LEGO City Onderzoekstrein op de Noordpool bouwpakket voor kinderen vanaf 7 jaar
-- KENMERKEN EN FUNCTIES – kinderen kunnen met de LEGO trein door de bergtunnel rijden om een vallende steen-functie te activeren en de LEGO minifiguren via een tokkelbaan van de berg naar de Arctische uitvalsbasis sturen
-- TREIN SPEELGOED MET EEN LEUKE, DIGITALE BOUWGIDS– de LEGO Builder app neemt kinderen mee op een intuïtief bouwavontuur met functies waarmee ze kunnen inzoomen en modellen in 3D kunnen draaien tijdens het bouwen
 - EEN STAD ZONDER GRENZEN – kinderen beleven nog meer plezier en avonturen als ze deze treinset toevoegen aan andere speelsets (apart verkrijgbaar) uit het LEGO City assortiment
+- WAT ZIT ER IN DE DOOS? – een locomotief, rijtuig, platte wagon, uitvalsbasis, bergtunnel, mijngrot, 22 spoordelen, LEGO minifiguur van Johnny Thunder, 5 minifiguren van ontdekkingsreizigers en 2 poolvossen speelgoed dieren figuren
+- KENMERKEN EN FUNCTIES – kinderen kunnen met de LEGO trein door de bergtunnel rijden om een vallende steen-functie te activeren en de LEGO minifiguren via een tokkelbaan van de berg naar de Arctische uitvalsbasis sturen
+- LEUK LEGO CADEAU VOOR JONGENS EN MEISJES – geef dit treinspeelgoed boordevol functies cadeau aan jongens, meisjes en treinliefhebbers vanaf 7 jaar
 - POWERED UP SPEELGOED VOOR KINDEREN VANAF 7 JAAR – kinderen besturen de treinlocomotief met de afstandsbediening of een smartphone of tablet met de LEGO Powered Up app; de speelgoed trein werkt op 10 AAA-batterijen (LR03, niet inbegrepen)
+- SET MET OP AFSTAND BESTUURBARE TREIN – fans van trein speelgoed die ook houden van rollenspellen, zullen dol zijn op dit LEGO City Onderzoekstrein op de Noordpool bouwpakket voor kinderen vanaf 7 jaar
+- TREIN SPEELGOED MET EEN LEUKE, DIGITALE BOUWGIDS– de LEGO Builder app neemt kinderen mee op een intuïtief bouwavontuur met functies waarmee ze kunnen inzoomen en modellen in 3D kunnen draaien tijdens het bouwen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDSYCZV{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief interactieve gids – ontdek de intuïtieve LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen uit deze LEGO Monstertruck set draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
 - Speelgoed Monstertruck set – kinderen kunnen geweldige autoshows naspelen met deze LEGO City Blauwe monstertruck speelset
-- Wat zit er in deze speelgoedset? – alles wat kinderen nodig hebben om een blauwe monstertruck offroad auto en een minifiguur van een bestuurder te bouwen
-- Een leuk cadeau voor alle gelegenheden – deze monstertruck race set is een leuk cadeau voor kinderen en racefans van 5 jaar en ouder voor de feestdagen of zomaar tussendoor
+- Inclusief interactieve gids – ontdek de intuïtieve LEGO Builder app; hiermee kunnen kinderen inzoomen en modellen uit deze LEGO Monstertruck set draaien in 3D, hun bouwvoortgang bijhouden en virtuele speelsets ontdekken en opslaan
 - Leuk auto speelgoed – kinderen kunnen de minifiguur van de bestuurder in de cabine van de speelgoed monstertruck plaatsen en doen alsof ze de weg op gaan om leuke trucs en stunts uit te voeren
-- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - Onbegrensd creatief spelen – ga voor nog meer plezier en avonturen door deze set te combineren met andere LEGO City sets (apart verkrijgbaar)
+- Een leuk cadeau voor alle gelegenheden – deze monstertruck race set is een leuk cadeau voor kinderen en racefans van 5 jaar en ouder voor de feestdagen of zomaar tussendoor
+- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, voertuigen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Wat zit er in deze speelgoedset? – alles wat kinderen nodig hebben om een blauwe monstertruck offroad auto en een minifiguur van een bestuurder te bouwen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZMSGQ{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 11 Harry Potter characters – The LEGO castle set Includes Harry Potter, Ron Weasley, Hermione Granger, Albus Dumbledore and Professor Quirrell
+- 5 of 14 collectible Hogwarts portraits – This Harry Potter building toy includes 5 of 14 random Hogwarts portrait elements to display in the 3 rooms
+- Harry Potter-themed gift idea for kids – This magical toy building set makes a fun Wizarding World gift for 10-plus-year-old boys, girls and any Harry Potter fan
+- More LEGO Harry Potter minifigures – Also includes Leanne, Daphne Greengrass, Terry Boot, Professor Vector, the Fat Friar and a mountain troll figure
 - Imaginative play – Build the Great Hall, courtyard and a dungeon with a secret entrance in the rock face, plus 3 rooms that slide out for easy play
 - LEGO Harry Potter Hogwarts Castle toy – This magical Harry Potter toy for kids features the largest, most detailed LEGO model of the Great Hall ever created
 - LEGO Harry Potter collection – The Great Hall is the main model in a series of modular sets (sold separately) that connect to create the most detailed LEGO brick-built Hogwarts Castle scene ever
-- 11 Harry Potter characters – The LEGO castle set Includes Harry Potter, Ron Weasley, Hermione Granger, Albus Dumbledore and Professor Quirrell
-- 5 of 14 collectible Hogwarts portraits – This Harry Potter building toy includes 5 of 14 random Hogwarts portrait elements to display in the 3 rooms
-- More LEGO Harry Potter minifigures – Also includes Leanne, Daphne Greengrass, Terry Boot, Professor Vector, the Fat Friar and a mountain troll figure
-- Harry Potter-themed gift idea for kids – This magical toy building set makes a fun Wizarding World gift for 10-plus-year-old boys, girls and any Harry Potter fan
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWGPB8ZD{{</world>}}

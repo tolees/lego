@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Castle building set – The Flying Keys and Wizard Chess rooms in the castle’s rocky foundations are removable and can be swapped with other modular rooms; includes 6 of 14 collectible Hogwarts portraits
 - Intuitive instructions – The LEGO Builder app gives kids interactive tools that let them zoom in and rotate models in 3D, track their progress and save their LEGO Harry Potter sets
-- Interactive toy with authentic details – Features a trapdoor escape from Fluffy’s room, trigger-activated Devil’s Snare, Flying Keys function, swivelling Grand Staircase to Dumbledore’s office, the Mirror of Erised, and more
-- Fun collectible – This LEGO Harry Potter building toy is part of a series of modular sets (sold separately) that connect to form the most detailed buildable Hogwarts Castle scene yet
-- Hogwarts Castle building set – This LEGO Harry Potter castle toy for 10+ year old boys and girls lets fans build an iconic Hogwarts scene, with a main tower that connects to the Great Hall (76535, sold separately)
 - Harry Potter-themed gift for kids – This LEGO Hogwarts Castle set makes a magical gift for 10+ year old boys, girls, and fans of the Wizarding World and building toys
+- Castle building set – The Flying Keys and Wizard Chess rooms in the castle’s rocky foundations are removable and can be swapped with other modular rooms; includes 6 of 14 collectible Hogwarts portraits
+- Interactive toy with authentic details – Features a trapdoor escape from Fluffy’s room, trigger-activated Devil’s Snare, Flying Keys function, swivelling Grand Staircase to Dumbledore’s office, the Mirror of Erised, and more
+- Hogwarts Castle building set – This LEGO Harry Potter castle toy for 10+ year old boys and girls lets fans build an iconic Hogwarts scene, with a main tower that connects to the Great Hall (76535, sold separately)
+- Fun collectible – This LEGO Harry Potter building toy is part of a series of modular sets (sold separately) that connect to form the most detailed buildable Hogwarts Castle scene yet
 - 12 LEGO Harry Potter minifigures – Including Harry Potter, Hermione Granger, Neville Longbottom, Professor Kettleburn, Nearly Headless Nick and Albus Dumbledore, plus Fluffy, Hedwig and Fawkes figures
 
 [🛒 Buy it now!!]({{< param buyurl >}})

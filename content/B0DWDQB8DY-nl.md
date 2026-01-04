@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 926-delige speelset – de pagode is ca. 29 cm hoog, 16 cm breed en 10 cm diep
-- LEGO ONE PIECE verzamelsets – met LEGO ONE PIECE speelgoed krijgen jonge fans de personages, locaties en avonturen uit de Netflix serie in eigen handen
-- Leuk avonturenspeelgoed voor kinderen – jonge actiehelden gaan samen met de Strohoedpiraten op een gewaagde missie bij de pagode van Arlong Park, die leidt tot een epische confrontatie met een rivaliserende piratenbende
-- Animecadeau om mee te doen alsof – deze LEGO bouw- en displayset voor kinderen is een geweldig cadeau voor jongens en meisjes die fan zijn van de ONE PIECE live action-serie op Netflix
-- 3D-bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
-- LEGO anime-minifiguren – de set wordt geleverd met minifiguren van Luffy, met elementen om zijn armen langer te maken, Nami, Usopp, Arlong en Chu
 - De strijd bij Arlong Park bouwset – deze LEGO ONE PIECE animeset is een leuk cadeau voor jongens en meisjes vanaf 9 jaar, waarmee ze de strijd tussen de Strohoedpiraten en de Arlong-piraten kunnen naspelen
 - LEGO piratenspeelgoed boordevol actie – kinderen kunnen op de bovenkant van de pagode duwen om deze te laten ontploffen, oefenen met richten in de schiettent, de schurk in het haaiengebouw plaatsen en nog veel meer
+- Animecadeau om mee te doen alsof – deze LEGO bouw- en displayset voor kinderen is een geweldig cadeau voor jongens en meisjes die fan zijn van de ONE PIECE live action-serie op Netflix
+- 926-delige speelset – de pagode is ca. 29 cm hoog, 16 cm breed en 10 cm diep
+- 3D-bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
+- Leuk avonturenspeelgoed voor kinderen – jonge actiehelden gaan samen met de Strohoedpiraten op een gewaagde missie bij de pagode van Arlong Park, die leidt tot een epische confrontatie met een rivaliserende piratenbende
+- LEGO anime-minifiguren – de set wordt geleverd met minifiguren van Luffy, met elementen om zijn armen langer te maken, Nami, Usopp, Arlong en Chu
+- LEGO ONE PIECE verzamelsets – met LEGO ONE PIECE speelgoed krijgen jonge fans de personages, locaties en avonturen uit de Netflix serie in eigen handen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDQB8DY{{</world>}}

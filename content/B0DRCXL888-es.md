@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Funciones de gran realismo: Este coche LEGO Technic cuenta con infinidad de detalles realistas, como la dirección, la suspensión delantera y trasera, las puertas que se abren, un alerón ajustable y 3 bombonas de óxido nitroso
-- Coche de Fast&Furious con motor de 6 cilindros con pistones móviles: Saca al ingeniero que llevas dentro mientras construyes los detalles móviles de la maqueta de coche, como el motor de 6 cilindros
 - Maquetas LEGO para adultos: Explora conceptos de ingeniería a través de gratificantes proyectos de construcción con la colección de sets LEGO Technic de vehículos para adultos (a la venta por separado)
 - Maqueta para adultos de un coche de Fast & Furious: Construye el Coche Nissan Skyline GT-R (R34) de 2 Fast 2 Furious LEGO Technic y, después, usa la función de derrape para recrear famosas escenas de la película
 - Un regalo para hombres y mujeres fans de Fast & Furious: Esta maqueta de coche es idónea como regalo para padres, maridos y parejas con pasión por el coche Nissan Skyline GT-R (R34)
-- Instrucciones de construcción digitales: La app LEGO Builder incluye una versión digital de las instrucciones de construcción que vienen con este set
 - Recrea los momentos más impactantes de la película: La función de derrape (la primera en LEGO Technic) levanta la maqueta del coche para que puedas divertirte recreando las impresionantes maniobras de tus escenas de carreras favoritas
+- Instrucciones de construcción digitales: La app LEGO Builder incluye una versión digital de las instrucciones de construcción que vienen con este set
+- Funciones de gran realismo: Este coche LEGO Technic cuenta con infinidad de detalles realistas, como la dirección, la suspensión delantera y trasera, las puertas que se abren, un alerón ajustable y 3 bombonas de óxido nitroso
+- Coche de Fast&Furious con motor de 6 cilindros con pistones móviles: Saca al ingeniero que llevas dentro mientras construyes los detalles móviles de la maqueta de coche, como el motor de 6 cilindros
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DRCXL888{{</world>}}

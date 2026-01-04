@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Flowers made of LEGO bricks – Let flower lovers aged 8 and over create a brick-built LEGO flower bouquet with this LEGO Botanicals Daffodils set
-- Gift for florists – This LEGO set is great as a desk decoration and makes a fun gift for girls and boys aged 8 and up who love flowers
-- Mark a special occasion – Makes a houghtful Valentines Day or Mothers Day gift to show that special someone just how much you care; compatible with the LEGO Flower Bouquet sets
-- Delicate Faux flowers – 4 blooms of LEGO building kit come in delicate shades of yellow and white and feature long green stems for easy vase display
 - LEGO flower bouquet – Girls and boys can combine these Daffodils with other LEGO flower sets (sold separately) to create a bespoke desk decoration
+- Flowers made of LEGO bricks – Let flower lovers aged 8 and over create a brick-built LEGO flower bouquet with this LEGO Botanicals Daffodils set
+- Mark a special occasion – Makes a houghtful Valentines Day or Mothers Day gift to show that special someone just how much you care; compatible with the LEGO Flower Bouquet sets
+- Gift for florists – This LEGO set is great as a desk decoration and makes a fun gift for girls and boys aged 8 and up who love flowers
+- Delicate Faux flowers – 4 blooms of LEGO building kit come in delicate shades of yellow and white and feature long green stems for easy vase display
 - Acquire flower arranging skills – Kids can create a unique flower decoration by adjusting the 2 leaves that accompany each LEGO flower stem
 
 [🛒 Check the deal!!]({{< param buyurl >}})

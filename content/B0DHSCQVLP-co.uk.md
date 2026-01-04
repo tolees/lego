@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Intuitive instructions – The LEGO Builder app gives kids interactive tools that let them zoom in and rotate models in 3D, save their LEGO Harry Potter sets and track progress
-- LEGO Harry Potter collectible – This wizard duel playset is part of a series of modular sets (sold separately) that connect to create the LEGO brick-built Hogwarts Castle scene
-- 1 of 14 collectible Hogwarts portraits – This LEGO Harry Potter building toy for 8+ year old girls and boys includes random Hogwarts portrait element
 - Wizarding World toy – Kids can relive the scene from Harry Potter and the Chamber of Secrets with this LEGO Hogwarts Castle: Duelling Club playset
+- 1 of 14 collectible Hogwarts portraits – This LEGO Harry Potter building toy for 8+ year old girls and boys includes random Hogwarts portrait element
+- Harry Potter small gift idea – Makes a fun everyday gift for 8+ year old boys, girls and kids who love Wizarding World, Harry Potter and castle toys
 - Interactive role-play toys – Includes a battle platform with a minifigure-toppling function (push steps to topple the opponent) and a fireplace
 - 4 LEGO Harry Potter characters – Harry Potter and Draco Malfoy minifigures with wands and spell elements, plus Gilderoy Lockhart and Severus Snape
-- Harry Potter small gift idea – Makes a fun everyday gift for 8+ year old boys, girls and kids who love Wizarding World, Harry Potter and castle toys
+- Intuitive instructions – The LEGO Builder app gives kids interactive tools that let them zoom in and rotate models in 3D, save their LEGO Harry Potter sets and track progress
+- LEGO Harry Potter collectible – This wizard duel playset is part of a series of modular sets (sold separately) that connect to create the LEGO brick-built Hogwarts Castle scene
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCQVLP{{</world>}}

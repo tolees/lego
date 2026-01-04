@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Fun features – This learning toy includes a swing, slide, toy train, 4-seat cupcake-tin buggy, bath, a selection of cosy beds and a large starter brick to give kids a head start
-- More Gabby’s Dollhouse playsets – Check out the full range of LEGO 4+ Gabby’s Dollhouse sets (sold separately) for even more ways to play
-- Dolls house toy for kids – This LEGO Gabbys Dollhouse toy for 4+ year old girls and boys gives fans of the DreamWorks Animation TV show many ways to play
 - Role-play toys – Dolls house accessories to inspire imaginative play include a bottle of shampoo, a hairbrush, bottle, storybook, cat-lamp, a mug and 2 biscuits
+- More Gabby’s Dollhouse playsets – Check out the full range of LEGO 4+ Gabby’s Dollhouse sets (sold separately) for even more ways to play
 - Gift for kids – This creative toy is designed to engage and entertain fans of DreamWorks Animation’s Gabby’s Dollhouse and makes a fun birthday gift for 4+ year old girls and boys
 - LEGO Gabbys Dollhouse figures – Includes a Gabby mini doll plus Pandy Paws, Baby Kittycorn, Baby Me-Owl and 4 Baby Cupcake figures
+- Dolls house toy for kids – This LEGO Gabbys Dollhouse toy for 4+ year old girls and boys gives fans of the DreamWorks Animation TV show many ways to play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MYX0AQC{{</world>}}

@@ -33,8 +33,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Onderdeel van de LEGO Star Wars: Rebuild the Galaxy collectie – bekijk ook de sets 75388 Jedi Bobs Starfighter en 75389 Dark Falcon, apart verkrijgbaar
 - TIE Fighter en X-wing combi – creëer gemixte TIE-wing en X-fighter starfighters, zoals te zien in de Rebuild the Galaxy Disney+ special, met deze LEGO Star Wars bouwpakket voor kinderen
 - Star Wars cadeau voor kinderen vanaf 9 jaar – geef deze avontuurlijke om zelf te bouwen aan jongens, meisjes en Star Wars fans
-- Aanpasbaar bouwspeelgoed – verwijder de borgpennen om de vleugels van de bouwbare combimodellen los te maken en ze om te bouwen tot een klassieke TIE Fighter en een X-wing met intrekbaar landingsgestel
 - Bouwbaar LEGO Star Wars speelgoed voor alle leeftijden – met LEGO Star Wars bouwspeelgoed kunnen kinderen en volwassen fans beroemde scènes nabouwen, hun eigen creatieve verhalen verzinnen en de bouwbare modellen op een mooi plekje neerzetten als Star Wars decoratie
+- Aanpasbaar bouwspeelgoed – verwijder de borgpennen om de vleugels van de bouwbare combimodellen los te maken en ze om te bouwen tot een klassieke TIE Fighter en een X-wing met intrekbaar landingsgestel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2386T{{</world>}}

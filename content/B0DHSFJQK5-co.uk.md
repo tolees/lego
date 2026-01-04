@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Endless play options – Kids can choose to build a spider toy, a scorpion figure or a snake toy with this set (models cannot be built simultaneously)
-- More 3in1 fun – Expand your little ones adventures with other kids building toy sets (sold separately) from the LEGO Creator 3in1 range
-- LEGO building set for play and display – Kids can pull out a neon-yellow web from the spider toy’s back to hang it from a LEGO brick
 - LEGO Creator toys – Every 3in1 set lets kids build 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
-- 3 toy animals in 1 box – The LEGO Creator Wild Animals: Surprising Spider toy lets kids build 3 different animals with the same LEGO bricks
 - Posable animal figures – All 3 LEGO models have posable features, including legs and bodies, so kids can place them into different stances
+- Endless play options – Kids can choose to build a spider toy, a scorpion figure or a snake toy with this set (models cannot be built simultaneously)
 - Birthday gift for kids – This 3in1 animal toy provides an immersive build-and-play experience for little builders and makes a fun gift for 7+ year old boys and girls
+- More 3in1 fun – Expand your little ones adventures with other kids building toy sets (sold separately) from the LEGO Creator 3in1 range
+- 3 toy animals in 1 box – The LEGO Creator Wild Animals: Surprising Spider toy lets kids build 3 different animals with the same LEGO bricks
+- LEGO building set for play and display – Kids can pull out a neon-yellow web from the spider toy’s back to hang it from a LEGO brick
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSFJQK5{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Creator toys – Every 3in1 set lets kids build 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
 - Endless play options – Kids can choose to build a dragon figure, a sea serpent or a phoenix toy with this set (models cannot be built simultaneously)
 - Creative toys for play and display – The phoenix comes with a brick-built stand, and all 3 models look great on display on a shelf or bedside table
-- Posable animal figures – All 3 kids toys have posable parts so builders can enjoy imaginative play as they place them into different positions
-- 3 mythical creature toys in 1 box – The LEGO Creator 3in1 Medieval Dragon toy lets kids build and rebuild 3 different playsets using the same bricks
 - Dragon gift for kids – 3in1 toy provides an immersive build-and-play experience and makes a magical birthday gift for 9+ year old boys and girls
+- 3 mythical creature toys in 1 box – The LEGO Creator 3in1 Medieval Dragon toy lets kids build and rebuild 3 different playsets using the same bricks
+- Posable animal figures – All 3 kids toys have posable parts so builders can enjoy imaginative play as they place them into different positions
+- LEGO Creator toys – Every 3in1 set lets kids build 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
 - A fun way to build – Let the LEGO Builder app guide kids on an intuitive creative adventure as they save sets, track progress and zoom in and rotate models in 3D while they build
 
 [🛒 Check the deal!!]({{< param buyurl >}})

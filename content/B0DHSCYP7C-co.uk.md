@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Mech toy for kids – This speedy Cyclone vs. Metal Sonic set with fun Sonic characters is a cool building toy for 8+ year old boys and girls
-- Extend the fun – Check out other LEGO Sonic the Hedgehog sets and feed your young video game fan’s passion with other models (sold separately)
 - Gaming gifts for kids – This action toy makes a fun gift for 8+ year old boys, girls and fans of Sonic, LEGO bricks and fun building toys
-- Convertible robot toy – This LEGO set features Tails’ mech that converts from walking to flying when the legs are folded up and rotated forwards
+- Mech toy for kids – This speedy Cyclone vs. Metal Sonic set with fun Sonic characters is a cool building toy for 8+ year old boys and girls
 - LEGO Sonic toys – LEGO Sonic the Hedgehog playsets introduce kids to fast-action fun and imaginative play with different characters and story possibilities
 - Fun Sonic toys – Features a mech with a cockpit, articulated legs and a turret, plus a hidden Chaos Emerald, and Metal Sonic and Tails minifigures
+- Convertible robot toy – This LEGO set features Tails’ mech that converts from walking to flying when the legs are folded up and rotated forwards
+- Extend the fun – Check out other LEGO Sonic the Hedgehog sets and feed your young video game fan’s passion with other models (sold separately)
 - Sonic role-play toys – Tails’ mech toy also includes a minifigure cockpit, mech tool storage space and an articulated turret with a stud shooter
 
 [🛒 Buy it!!]({{< param buyurl >}})

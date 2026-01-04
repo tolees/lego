@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- The Spider Tank features flexible legs, grabbing claws, an opening cockpit with space for a LEGO minifigure, and an elevating hatch with 2 stud shooters
-- Set comes with intuitive instructions. Using the LEGO Builder app, kids can zoom in, rotate sets in 3D and visualize a digital version of the real-life construction model as they build
-- Includes 3 LEGO Star Wars characters: The Mandalorian Din Djarin with a darksaber, blaster pistol and jetpack element, Bo-Katan Kryze with 2 blasters and a jetpack element, plus a Grogu LEGO figure
-- With the buildable Spider Tank toy playset (75361), kids can team up with their heroes to battle against a detailed, stud-shooting LEGO brick model of the Spider Tank from Star Wars: The Mandalorian Season 3
 - Makes a fun gift idea for kids aged 9 and up. Give this 526-piece building toy as a holiday gift, birthday present or special reward to Star Wars: The Mandalorian fans
+- With the buildable Spider Tank toy playset (75361), kids can team up with their heroes to battle against a detailed, stud-shooting LEGO brick model of the Spider Tank from Star Wars: The Mandalorian Season 3
+- Set comes with intuitive instructions. Using the LEGO Builder app, kids can zoom in, rotate sets in 3D and visualize a digital version of the real-life construction model as they build
+- The Spider Tank features flexible legs, grabbing claws, an opening cockpit with space for a LEGO minifigure, and an elevating hatch with 2 stud shooters
+- Includes 3 LEGO Star Wars characters: The Mandalorian Din Djarin with a darksaber, blaster pistol and jetpack element, Bo-Katan Kryze with 2 blasters and a jetpack element, plus a Grogu LEGO figure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BSRF4FSK{{</world>}}
