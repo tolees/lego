@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Ha nacido una heroína
+- Personaliza tu hogar y tus personajes
 - ¡Aquí es donde entras tú!
 - Reúne a tu equipo
-- Ha nacido una heroína
 - Una aventura de LEGO sin igual
-- Personaliza tu hogar y tus personajes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DJFDKC2P{{</world>}}

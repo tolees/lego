@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Construction pour les passionnés de la NASA – Faites un saut dans le passé et remémorez-vous la mission Apollo 17 avec un bel objet décoratif composé d’un véhicule d’exploration lunaire et de 3 équipements détaillés, chacun doté de sa propre plaque
-- Rover de la NASA pour adultes – Savourez un projet de construction LEGO relaxant qui vous invite à recréer les détails du rover et de ses équipements, dont une batterie, des éléments chauffants et refroidissants et une unité de communication
-- Équipements essentiels – Ce set LEGO offre un aperçu des missions Apollo et inclut de nombreux accessoires réalistes, dont des équipements de communication, des outils pour prélever des échantillons lunaires et plus encore
-- Version réaliste d’un rover lunaire LEGO Technic à construire – Ce set de construction LEGO du LRV pour adultes regorge de détails réalistes, dont des sièges, une direction, une suspension et des outils scientifiques, pour encore plus de découvertes
 - Instructions de montage stimulantes – Envolez-vous pour une formidable aventure de construction LEGO pour adultes avec l’application LEGO Builder, qui permet d’enregistrer des sets et de suivre votre progression
+- Équipements essentiels – Ce set LEGO offre un aperçu des missions Apollo et inclut de nombreux accessoires réalistes, dont des équipements de communication, des outils pour prélever des échantillons lunaires et plus encore
+- Construction pour les passionnés de la NASA – Faites un saut dans le passé et remémorez-vous la mission Apollo 17 avec un bel objet décoratif composé d’un véhicule d’exploration lunaire et de 3 équipements détaillés, chacun doté de sa propre plaque
+- Version réaliste d’un rover lunaire LEGO Technic à construire – Ce set de construction LEGO du LRV pour adultes regorge de détails réalistes, dont des sièges, une direction, une suspension et des outils scientifiques, pour encore plus de découvertes
+- Rover de la NASA pour adultes – Savourez un projet de construction LEGO relaxant qui vous invite à recréer les détails du rover et de ses équipements, dont une batterie, des éléments chauffants et refroidissants et une unité de communication
 - Cadeau pour les adultes passionnés de la NASA et de l’espace – Ce set est une excellente idée de cadeau danniversaire qui invite les amateurs de l’espace, hommes et femmes à partir à laventure sur la lune avec les missions Apollo
 
 [🛒 Buy it!!]({{< param buyurl >}})

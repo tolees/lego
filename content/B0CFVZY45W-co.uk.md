@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO Minecraft gift for kids – This LEGO building toy is a creative gaming gift idea for 8+ year old boys and girls who are fans of the popular video game
+- LEGO Minecraft accessories – The building set includes furniture, toy food elements, farm crops to harvest, a crafting table, furnace, chest, fishing rod, toy boat and a trident
 - LEGO house toy for kids – The LEGO Minecraft The Frog house toy for 8+ year old boys and girls is packed with authentic details, animal mobs and Minecraft figures
 - Expand the fun – Check out the full range of LEGO Minecraft building toy sets (sold separately) for even more ways to play
-- Many ways to play – This creative Minecraft toy offers kids multiple play scenarios, including creative construction, battle action and animal nurturing
 - 3D instructions – Kids can use the LEGO Builder app for a fun experience, with digital viewing tools, plus they can save sets and track progress
+- Many ways to play – This creative Minecraft toy offers kids multiple play scenarios, including creative construction, battle action and animal nurturing
 - Minecraft characters – This building toy includes a LEGO house with Minecraft figures: the Swamp Explorer, a zombie, a drowned, a slime and 3 frog toys
-- LEGO Minecraft accessories – The building set includes furniture, toy food elements, farm crops to harvest, a crafting table, furnace, chest, fishing rod, toy boat and a trident
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZY45W{{</world>}}

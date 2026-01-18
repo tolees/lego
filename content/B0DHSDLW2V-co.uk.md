@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 2 LEGO DREAMZzz minifigures – The set includes Mateo and villain D-Shock, as well as figures of Z-Blob, the Cyber Brain Spider and a VR Dreamling
 - Be part of the action – The set includes story-led building instructions that encourage kids to immerse themselves in the dream world adventure
+- 2 LEGO DREAMZzz minifigures – The set includes Mateo and villain D-Shock, as well as figures of Z-Blob, the Cyber Brain Spider and a VR Dreamling
 - Dream toys – The set includes modular boosters, which can be attached to other sets (sold separately) in the LEGO DREAMZzz 2025 range
 - LEGO car toy – Ignite imaginations with the LEGO DREAMZzz set, Mateo and the Z-Blob Action Race Car building toy for 8+ year old boys and girls
+- Fun details – The fantasy playset includes a removable windscreen, rolling wheels and 2 6-stud shooters for imaginative play
 - 1 set, 2 adventures – Young dreamers build the core model before choosing to rebuild it as an off-road racing car toy or speedy motorcycle toy
 - Fantasy gift idea – The set makes a fun gift for 8+ year old boys and girls who love LEGO vehicles or the LEGO DREAMZzz TV series
-- Fun details – The fantasy playset includes a removable windscreen, rolling wheels and 2 6-stud shooters for imaginative play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSDLW2V{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enjoy a relaxing project with the LEGO Botanicals Tiny Plants Set for adults, featuring 9 plants with flowers in a terracotta-coloured pot
 - The LEGO Botanicals Tiny Plants building kit makes a great Valentines Day gift for women and men, anniversary gift for a wife or husband or anyday gift idea
-- Transform any space into a haven of colour with this beautiful, low-maintenance, floral creation adult LEGO set for women, men or any nature fan
 - This home decor set is part of the LEGO Botanical Collection, and includes elements of plant-based plastic that’s made using sustainable sugar cane
-- A range of models to suit; beginners can gain experience from the simple artificial plants, while experienced builders can turn to advanced models
+- Enjoy a relaxing project with the LEGO Botanicals Tiny Plants Set for adults, featuring 9 plants with flowers in a terracotta-coloured pot
 - Includes 9 LEGO plants based on arid, tropical and carnivorous species, in terracotta-coloured pots - great as home decor or desk accessories
+- A range of models to suit; beginners can gain experience from the simple artificial plants, while experienced builders can turn to advanced models
+- Transform any space into a haven of colour with this beautiful, low-maintenance, floral creation adult LEGO set for women, men or any nature fan
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N6CH4YZ{{</world>}}

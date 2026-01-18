@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO 3D wall decor – A Milky Way Galaxy artwork created from 3,091 layered LEGO bricks and pieces to produce a 3D effect with depth and texture
-- Listen and learn – Builders can scan a QR code in the building instructions to discover more about the Milky Way through the set’s Soundtrack
-- LEGO Art sets – The rest of the LEGO Art range gives adults the chance to create their own piece of brick-built art to display at home or in the office
 - Milky Way wall art – Enjoy a creative activity and build a large Milky Way Galaxy piece of wall art for the living room with this LEGO set for adults
+- LEGO Art sets – The rest of the LEGO Art range gives adults the chance to create their own piece of brick-built art to display at home or in the office
+- Listen and learn – Builders can scan a QR code in the building instructions to discover more about the Milky Way through the set’s Soundtrack
+- LEGO 3D wall decor – A Milky Way Galaxy artwork created from 3,091 layered LEGO bricks and pieces to produce a 3D effect with depth and texture
 - Packed with features – Includes some of the Milky Way’s most famous spectacles, including the Pleiades, the Crab Nebula and the Pillars of Creation
-- Space gift idea – LEGO Art set for adults makes a great home or office décor piece and a fun Mothers Day gift or birthday present for lovers of astronomy and fun creative activities
 - A social building experience – This building set for adults is made with 5 different panels, each with its own building instructions booklet
+- Space gift idea – LEGO Art set for adults makes a great home or office décor piece and a fun Mothers Day gift or birthday present for lovers of astronomy and fun creative activities
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1RMBZ{{</world>}}

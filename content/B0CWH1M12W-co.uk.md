@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Step-by-step guide – The included instruction booklet features the Notre-Dame story and an interview with the LEGO designer of this model
-- LEGO gift for adults – This collectible LEGO Paris set makes a fun gift for men, women, him, her, or a friend who is a lover of history, architecture, travel or France
+- LEGO Paris set – Your building journey follows that of the actual Notre-Dame cathedral, starting with its curved back and ending with the spire
 - Notre-Dame de Paris model – Experience every step in the evolution of an iconic Paris landmark with this LEGO Architecture building set for adults
 - Paris decorations for home or office décor – Place buildable trees along one side of the cathedral and attach the nameplate to the base
+- LEGO gift for adults – This collectible LEGO Paris set makes a fun gift for men, women, him, her, or a friend who is a lover of history, architecture, travel or France
 - Authentically detailed – Admire the rose windows, remove the roof to view interior columns and arches and lift off the towers to take a look inside
+- Step-by-step guide – The included instruction booklet features the Notre-Dame story and an interview with the LEGO designer of this model
 - LEGO Sets for Adults – This LEGO Architecture Landmarks Collection model is part of an assortment of premium-quality building sets for adults like you who enjoy hands-on creative activities
-- LEGO Paris set – Your building journey follows that of the actual Notre-Dame cathedral, starting with its curved back and ending with the spire
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1M12W{{</world>}}

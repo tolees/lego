@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Displayable LEGO set for adults – This LEGO vehicle can be displayed in flight or landing modes making it a fun decoration for the home or office
-- Movie Memorabilia – The LEGO replica of the Dune Atreides Royal Ornithopter features fold-out, flappable wings and deployable landing gear
-- Minifigure characters – Includes Paul Atreides, Lady Jessica, Gurney Halleck, Chani, Leto Atreides, Liet Kynes, Duncan Idaho and Baron Harkonnen
-- With digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO vehicle set
 - Mindful LEGO projects – This LEGO Icons project is part of a range of advanced LEGO sets for adults, and makes a great aviation-themed Christmas gift for men, women, him or her, or as a thoughtful anniversary present for a wife or husband
 - Building set for Dune movie fans – Collectible LEGO Icons Dune Atreides Royal Ornithopter model kit for adults to build featuring 8 minifigures
+- Displayable LEGO set for adults – This LEGO vehicle can be displayed in flight or landing modes making it a fun decoration for the home or office
+- With digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO vehicle set
+- Movie Memorabilia – The LEGO replica of the Dune Atreides Royal Ornithopter features fold-out, flappable wings and deployable landing gear
+- Minifigure characters – Includes Paul Atreides, Lady Jessica, Gurney Halleck, Chani, Leto Atreides, Liet Kynes, Duncan Idaho and Baron Harkonnen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N1O0F2K{{</world>}}

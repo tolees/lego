@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Super Hero battle action for kids – Avengers: Endgame Thor vs. Chitauri is a buildable LEGO Marvel Avengers toy for 8+ year old boys and girls who are fans of mech toys and action heroes
-- Marvel gift for fans – Treat kids and fans of mech toys, action heroes and the Marvel Studios’ Avengers: Endgame film to this Super Hero buildable playset, which makes a great gift for 8+ year old boys and girls
-- Buildable Super Hero figures for kids – Includes 2 large, buildable LEGO Marvel figures that are jointed for dynamic play: the Iron Patriot mech with 4 stud shooters, and a fearsome Chitauri gorilla
-- Buildable LEGO Marvel sets – The extensive range of LEGO Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
-- Accessories for action and adventure – Other features include 2 jet scooters and a small environment for the Thor minifigure, where spare shooter studs can be stored
 - LEGO Marvel minifigures – The building set features Iron Patriot MK2, Rocket with a large stud shooter, Thor with Stormbreaker, and 4 Chitauri, 2 of which have golden stud shooters
+- Super Hero battle action for kids – Avengers: Endgame Thor vs. Chitauri is a buildable LEGO Marvel Avengers toy for 8+ year old boys and girls who are fans of mech toys and action heroes
+- Buildable LEGO Marvel sets – The extensive range of LEGO Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
 - 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Marvel gift for fans – Treat kids and fans of mech toys, action heroes and the Marvel Studios’ Avengers: Endgame film to this Super Hero buildable playset, which makes a great gift for 8+ year old boys and girls
+- Accessories for action and adventure – Other features include 2 jet scooters and a small environment for the Thor minifigure, where spare shooter studs can be stored
+- Buildable Super Hero figures for kids – Includes 2 large, buildable LEGO Marvel figures that are jointed for dynamic play: the Iron Patriot mech with 4 stud shooters, and a fearsome Chitauri gorilla
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF1V6CT{{</world>}}

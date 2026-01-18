@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wat zit er in de doos? – alles wat je nodig hebt om een LEGO replica te maken van het Dune Atreides Royal Ornithopter vliegtuig met uitvouwbare, beweegbare vleugels en een uitklapbaar landingsgestel, plus 8 LEGO Dune minifiguren uit de film
-- Een verzamelobject uit de film – dit LEGO replica vliegtuigmodel kan worden neergezet in de vlieg- of landingsmodus en wordt geleverd met 8 minifiguren voor het creëren van onvergetelijke Dune filmscènes
-- Dune bouwpakket voor volwassenen – LEGO Icons Dune Atreides Royal Ornithopter is een leuk bouwproject en creatieve hobby voor fans en verzamelaars van de film Dune uit 2021
-- Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO Icons set horen
-- Film cadeau voor hem of haar – geef deze LEGO Icons Dune Atreides Royal Ornithopter bouwset cadeau aan Dune fans en filmliefhebbers
-- Minifiguurpersonages – inclusief Paul Atreides, Vrouwe Jessica, Gurney Halleck, Chani, Leto Atreides, Liet Kynes, Duncan Idaho en Baron Harkonnen in zijn lange gewaad
 - Ontspannende LEGO voor volwassenen – dit LEGO Icons project maakt deel uit van een reeks geavanceerde bouwsets die speciaal zijn ontworpen voor volwassenen
+- Inclusief digitale bouwinstructies – de LEGO Builder app bevat een digitale versie van de bouwinstructies die bij deze LEGO Icons set horen
+- Dune bouwpakket voor volwassenen – LEGO Icons Dune Atreides Royal Ornithopter is een leuk bouwproject en creatieve hobby voor fans en verzamelaars van de film Dune uit 2021
+- Een verzamelobject uit de film – dit LEGO replica vliegtuigmodel kan worden neergezet in de vlieg- of landingsmodus en wordt geleverd met 8 minifiguren voor het creëren van onvergetelijke Dune filmscènes
+- Minifiguurpersonages – inclusief Paul Atreides, Vrouwe Jessica, Gurney Halleck, Chani, Leto Atreides, Liet Kynes, Duncan Idaho en Baron Harkonnen in zijn lange gewaad
+- Wat zit er in de doos? – alles wat je nodig hebt om een LEGO replica te maken van het Dune Atreides Royal Ornithopter vliegtuig met uitvouwbare, beweegbare vleugels en een uitklapbaar landingsgestel, plus 8 LEGO Dune minifiguren uit de film
+- Film cadeau voor hem of haar – geef deze LEGO Icons Dune Atreides Royal Ornithopter bouwset cadeau aan Dune fans en filmliefhebbers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N1O0F2K{{</world>}}

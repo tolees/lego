@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält 12 Minifiguren: Neben Harry Potter, Hermine Granger, Neville Longbottom, Professor Kesselbrand, Albus Dumbledore und dem Fast Kopflosen Nick beinhaltet das Set auch die Tierfiguren Fluffy, Hedwig und Fawkes
-- Magisches Geschenk für Kinder: Dieses LEGO Hogwarts Schloss ist ein zauberhaftes Harry Potter Geschenk für Jungen, Mädchen und alle Fans ab 10 Jahren
-- Set mit Spielzeugschloss: Die Kammer mit den Fliegenden Schlüsseln und das Zauberschachzimmer im felsigen Fundament des Schlosses lassen sich zum Spielen herausnehmen; Achte auch auf die 6 von insgesamt 14 Hogwarts Porträts zum Sammeln
-- Cooles Sammlerstück: Dieses LEGO Harry Potter Bauset gehört zu einer Serie von (separat erhältlichen) modularen Sets, die man zum bisher detailreichsten Modell von Schloss Hogwarts zusammenfügen kann
-- Authentische Details: Eine Falltür zur Flucht aus Fluffys Kammer, eine per Auslöser aktivierte Teufelsschlinge, eine Funktion, um Schlüssel fliegen zu lassen, ein schwenkbares Treppenhaus zu Dumbledores Büro hinauf und der Spiegel Nerhegeb
 - Intuitive Bauanleitungen: In der LEGO Builder App sind interaktive Funktionen verfügbar, die Kinder 3D-Modellansichten vergrößern und drehen, ihre LEGO Harry Potter Sets speichern und ihren Baufortschritt verfolgen lassen
+- Set mit Spielzeugschloss: Die Kammer mit den Fliegenden Schlüsseln und das Zauberschachzimmer im felsigen Fundament des Schlosses lassen sich zum Spielen herausnehmen; Achte auch auf die 6 von insgesamt 14 Hogwarts Porträts zum Sammeln
+- Magisches Geschenk für Kinder: Dieses LEGO Hogwarts Schloss ist ein zauberhaftes Harry Potter Geschenk für Jungen, Mädchen und alle Fans ab 10 Jahren
+- Authentische Details: Eine Falltür zur Flucht aus Fluffys Kammer, eine per Auslöser aktivierte Teufelsschlinge, eine Funktion, um Schlüssel fliegen zu lassen, ein schwenkbares Treppenhaus zu Dumbledores Büro hinauf und der Spiegel Nerhegeb
+- Cooles Sammlerstück: Dieses LEGO Harry Potter Bauset gehört zu einer Serie von (separat erhältlichen) modularen Sets, die man zum bisher detailreichsten Modell von Schloss Hogwarts zusammenfügen kann
 - LEGO Harry Potter Schloss Hogwarts Set: Baue mit diesem Abenteuer-Spielset aus der Zauberwelt das bisher größte Modell des Hauptturms von Schloss Hogwarts im Minifigur-Maßstab
+- Enthält 12 Minifiguren: Neben Harry Potter, Hermine Granger, Neville Longbottom, Professor Kesselbrand, Albus Dumbledore und dem Fast Kopflosen Nick beinhaltet das Set auch die Tierfiguren Fluffy, Hedwig und Fawkes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHZ5B366{{</world>}}

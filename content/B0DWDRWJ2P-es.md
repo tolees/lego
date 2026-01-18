@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Decoración para el hogar personalizable: Junta o separa los 3 módulos expositores construibles y luego coloca la colección de minerales en ellos, cambiándolos de sitio cuando quieras
-- Decoración para el salón: Expón la Colección de Minerales LEGO Ideas como decoración del hogar basada en la naturaleza que cuenta con 6 minerales que puedes colocar en 3 módulos expositores
-- 6 minerales: Usa ladrillos LEGO para recrear una variada colección de minerales con pirita dorada, amatista púrpura, fluorita azul, turmalina sandía, rodocrosita rosa rojizo y cuarzo mandarina
-- La elección de los fans de LEGO: Este set LEGO para adultos forma parte de los sets de construcción de la colección LEGO Ideas, cada uno de ellos creado por un fan diseñador, votado por fans de LEGO y producido por The LEGO Group
-- Un encantador regalo para coleccionistas de minerales: Date un capricho o regala este kit de maquetas para adultos a otros amantes del arte y la naturaleza o coleccionistas de sets LEGO
 - Una envolvente experiencia creativa: Dedícate tiempo y disfruta de tus aficiones ensamblando ladrillos LEGO transparentes para reproducir los vibrantes colores y el juego de reflejos de estos minerales
+- 6 minerales: Usa ladrillos LEGO para recrear una variada colección de minerales con pirita dorada, amatista púrpura, fluorita azul, turmalina sandía, rodocrosita rosa rojizo y cuarzo mandarina
 - Instrucciones de construcción 3D: Disfruta de cada paso de la construcción con la app LEGO Builder, que te permite ver tus modelos desde todos los ángulos mientras construyes, consultar tu progreso y guardar todos tus sets en un mismo lugar
+- Decoración para el salón: Expón la Colección de Minerales LEGO Ideas como decoración del hogar basada en la naturaleza que cuenta con 6 minerales que puedes colocar en 3 módulos expositores
+- Un encantador regalo para coleccionistas de minerales: Date un capricho o regala este kit de maquetas para adultos a otros amantes del arte y la naturaleza o coleccionistas de sets LEGO
+- Decoración para el hogar personalizable: Junta o separa los 3 módulos expositores construibles y luego coloca la colección de minerales en ellos, cambiándolos de sitio cuando quieras
+- La elección de los fans de LEGO: Este set LEGO para adultos forma parte de los sets de construcción de la colección LEGO Ideas, cada uno de ellos creado por un fan diseñador, votado por fans de LEGO y producido por The LEGO Group
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDRWJ2P{{</world>}}

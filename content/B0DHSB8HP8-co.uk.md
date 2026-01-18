@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Expand the fun – Check out the extensive range of compatible LEGO vehicle toys and buildable LEGO Marvel playsets (sold separately) for kids aged 4 and over
-- Buildable toy vehicles – There’s 1 buildable model per bag, plus a guide and large Starter Brick, so young fans can get play started quickly
-- Build-and-play dino toy – Fans of Spidey And His Amazing Friends can join the dino-web action with Spin and Electro Dinosaur Vehicle Chase
-- LEGO Marvel minifigures – Kids join Spin in a stegosaurus car chasing Electro on her dilophosaurus motorcycle after the villain steals a crystal
-- Many ways to play – A large web element, a crystal hidden inside a rock and other accessories inspire kids’ creative role play with the building toys
-- Buildable learning toys – LEGO 4+ sets for boys and girls introduce kids to a universe of film favourites, TV characters and everyday heroes
 - Treat for Spidey fans – This buildable Spidey toy vehicle set makes a fun birthday gift for 4 plus year old boys and girls who love the Disney+ TV show Spidey And His Amazing Friends
+- Build-and-play dino toy – Fans of Spidey And His Amazing Friends can join the dino-web action with Spin and Electro Dinosaur Vehicle Chase
+- Many ways to play – A large web element, a crystal hidden inside a rock and other accessories inspire kids’ creative role play with the building toys
+- LEGO Marvel minifigures – Kids join Spin in a stegosaurus car chasing Electro on her dilophosaurus motorcycle after the villain steals a crystal
+- Buildable learning toys – LEGO 4+ sets for boys and girls introduce kids to a universe of film favourites, TV characters and everyday heroes
+- Buildable toy vehicles – There’s 1 buildable model per bag, plus a guide and large Starter Brick, so young fans can get play started quickly
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSB8HP8{{</world>}}

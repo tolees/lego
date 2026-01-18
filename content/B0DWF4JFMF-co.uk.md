@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Building toy for kids – The LEGO Friends Unicorn & Flamingo Pool Party set is a fun toy for 5+ year old girls and boys, featuring 2 mini dolls, a pet cat figure and lots of creative accessories
-- Includes 2 mini dolls and a cat figure – This LEGO Friends set comes with Leo and Liann mini dolls and a Churro the cat animal figure, inspiring kids to role-play friendship and poolside adventures
-- Let’s tell a friendship story – LEGO Friends building toys let kids explore different friendship moments, with lots of opportunities to create their own imaginative stories and role-play adventures
-- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know the characters of Heartlake City
-- Birthday gift for kids – This LEGO Friends set makes a great gift for 5+ year old girls and boys who love friendship-based play, unicorn toys, creative storytelling and building with LEGO bricks
 - 2 buildable pool toys – Kids develop their building skills as they assemble a flamingo floatie that fits 2 mini dolls, a unicorn floatie for Churro the cat and a poolside scene with a sunlounger and DJ booth
 - Creative toys with fun accessories – This building set comes with accessories, including sun cream, 2 ice lollies, a drink and a microphone to inspire imaginative summer-themed role play
+- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know the characters of Heartlake City
+- Let’s tell a friendship story – LEGO Friends building toys let kids explore different friendship moments, with lots of opportunities to create their own imaginative stories and role-play adventures
+- Building toy for kids – The LEGO Friends Unicorn & Flamingo Pool Party set is a fun toy for 5+ year old girls and boys, featuring 2 mini dolls, a pet cat figure and lots of creative accessories
+- Birthday gift for kids – This LEGO Friends set makes a great gift for 5+ year old girls and boys who love friendship-based play, unicorn toys, creative storytelling and building with LEGO bricks
+- Includes 2 mini dolls and a cat figure – This LEGO Friends set comes with Leo and Liann mini dolls and a Churro the cat animal figure, inspiring kids to role-play friendship and poolside adventures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF4JFMF{{</world>}}

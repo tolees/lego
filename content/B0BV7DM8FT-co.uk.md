@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- This LEGO Technic Audi RS Q e-tron app controlled toy car for boys, girls and all vehicle fans aged 10 and over makes an exciting gift for any occasion
 - The LEGO rally car model incorporates many realistic details, like the individual suspension on each of the remote control cars 4 wheels
-- The off-road remote control car also includes a LEGO Technic wheel element created especially for this set to reflect the original Audi’s wheel design
 - Kids will love putting their remote-controlled toy car to the test, using the CONTROL+ app to drive forwards and backwards and steer the car
 - LEGO Technic sets introduce LEGO builders to engineering and feature realistic movement and mechanisms, helping to develop new skills
+- The off-road remote control car also includes a LEGO Technic wheel element created especially for this set to reflect the original Audi’s wheel design
+- This LEGO Technic Audi RS Q e-tron app controlled toy car for boys, girls and all vehicle fans aged 10 and over makes an exciting gift for any occasion
 - Kids aged 10+ who love LEGO rally car toys and remote control cars can learn new engineering skills with this LEGO Technic Audi RS Q e-tron
 
 [🛒 Check the deal!!]({{< param buyurl >}})

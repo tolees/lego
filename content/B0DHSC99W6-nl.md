@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Auto speelgoed voor kinderen – trakteer je kind op heerlijke avonturen met het LEGO City Donuttruck bouwpakket voor kinderen van 5 jaar en ouder
-- Mobiele donutkraam voor fantasierijk spel – kinderen kunnen lekkere recepten bereiden in het keukengedeelte van de truck en heerlijke donuts en drankjes serveren vanuit het raam
-- Wat zit er in de doos? – deze kinderspeelgoed set bevat alles wat kinderen nodig hebben om een donuttruck met afneembare kiosk te maken, plus minifiguren van een verkoper en klant en diverse accessoires voor rollenspellen
-- Accessoires voor LEGO minifiguren – deze kinderspeelset bevat allerlei accessoires om mee te doen alsof, waaronder een koffiezetapparaat, een kassa, een donutbord, 4 donuts en 2 mokken
-- Een leuk cadeau voor jongens en meisjes – deze bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor jongens en meisjes vanaf 5 jaar
 - Welkom in een wereld vol fantasierijk spel – ga voor nog meer plezier en avonturen door deze LEGO City speelset te combineren met andere sets (apart verkrijgbaar) uit het assortiment
 - Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met gebouwen, speelgoedautos en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Mobiele donutkraam voor fantasierijk spel – kinderen kunnen lekkere recepten bereiden in het keukengedeelte van de truck en heerlijke donuts en drankjes serveren vanuit het raam
+- Auto speelgoed voor kinderen – trakteer je kind op heerlijke avonturen met het LEGO City Donuttruck bouwpakket voor kinderen van 5 jaar en ouder
+- Een leuk cadeau voor jongens en meisjes – deze bouwset is een leuk cadeau voor de feestdagen of zomaar tussendoor voor jongens en meisjes vanaf 5 jaar
+- Accessoires voor LEGO minifiguren – deze kinderspeelset bevat allerlei accessoires om mee te doen alsof, waaronder een koffiezetapparaat, een kassa, een donutbord, 4 donuts en 2 mokken
+- Wat zit er in de doos? – deze kinderspeelgoed set bevat alles wat kinderen nodig hebben om een donuttruck met afneembare kiosk te maken, plus minifiguren van een verkoper en klant en diverse accessoires voor rollenspellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC99W6{{</world>}}

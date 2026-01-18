@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 1 set, 2 adventures – Young dreamers build a bunny toy before accessorising it with a skateboard toy and boosters or a jetpack
-- LEGO DREAMZzz minifigure – Hero Izzie, who attaches to Bunchurro, brings the action to life and encourages creative role play
-- Bunny gift – The animal LEGO set makes a fun gift for 7+ year old boys and girls who love the LEGO DREAMZzz TV series, as well as young gamers and animal-lovers
-- Be part of the action – The set includes story-led building instructions, encouraging kids to immerse themselves in the dream world adventure
-- Expand the fun – The building toy for kids has modular boosters which can be attached to other sets (sold separately) in the LEGO DREAMZzz 2025 range
 - Dream toys – The fantasy LEGO set also features a Cyberling and Dreamling Carrot, letting kids role-play the whole story
+- Be part of the action – The set includes story-led building instructions, encouraging kids to immerse themselves in the dream world adventure
 - Imaginative play – Unlock kids’ creativity with LEGO DREAMZzz Izzie and Bunchurro the Gaming Bunny building toy for 7+ year old girls and boys
+- LEGO DREAMZzz minifigure – Hero Izzie, who attaches to Bunchurro, brings the action to life and encourages creative role play
+- 1 set, 2 adventures – Young dreamers build a bunny toy before accessorising it with a skateboard toy and boosters or a jetpack
+- Bunny gift – The animal LEGO set makes a fun gift for 7+ year old boys and girls who love the LEGO DREAMZzz TV series, as well as young gamers and animal-lovers
+- Expand the fun – The building toy for kids has modular boosters which can be attached to other sets (sold separately) in the LEGO DREAMZzz 2025 range
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDHHPG{{</world>}}

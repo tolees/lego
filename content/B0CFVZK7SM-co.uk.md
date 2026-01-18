@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Intuitive instructions – Using the LEGO Builder app, you can zoom, rotate and visualise a digital version of this Star Wars model as you build
-- Celebrating 25 years of LEGO Star Wars – The model kit also includes a LEGO Star Wars 25th anniversary brick and a plaque with a Qui-Gon Jinn quote
-- Made for display – This LEGO Star Wars memorabilia set features the Arch Canyon part of Tatooine’s Mos Espa Podracing circuit
 - LEGO Star Wars Diorama set – Capture a moment from the Mos Espa Podrace in Star Wars: The Phantom Menace with this model kit for adults to build
-- Build your collection – This set is part of a series of collectible, buildable LEGO Star Wars diorama models (sold separately) that depict iconic Star Wars moments
-- Brick-built Star Wars Podracers – This LEGO Star Wars set for adults includes detailed models of Anakin Skywalker’s and his rival Sebulba’s Podracers
 - Star Wars gift for adults – This premium-quality set makes a great Star Wars-themed gift for men, women, him or her, or as a treat for yourself, another Star Wars fan or a collector of LEGO Star Wars dioramas
+- Brick-built Star Wars Podracers – This LEGO Star Wars set for adults includes detailed models of Anakin Skywalker’s and his rival Sebulba’s Podracers
+- Build your collection – This set is part of a series of collectible, buildable LEGO Star Wars diorama models (sold separately) that depict iconic Star Wars moments
+- Intuitive instructions – Using the LEGO Builder app, you can zoom, rotate and visualise a digital version of this Star Wars model as you build
+- Made for display – This LEGO Star Wars memorabilia set features the Arch Canyon part of Tatooine’s Mos Espa Podracing circuit
+- Celebrating 25 years of LEGO Star Wars – The model kit also includes a LEGO Star Wars 25th anniversary brick and a plaque with a Qui-Gon Jinn quote
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZK7SM{{</world>}}

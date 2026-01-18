@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Posable Superman toy – The LEGO mech has movable arms, legs and fingers, and its torso opens to reveal a cockpit that can hold the Superman minifigure
-- DC characters – Superman with a fabric cape and reversible head showing alternative expressions, and Lex Luthor with a stud shooter and Kryptonite
-- Epic LEGO Super-Hero adventures – There are 2 adjustable thrusters on the back of the LEGO Superman mech figure that allow it to ‘fly’
-- More mechs and minifigures – There are lots more LEGO Super Hero sets available (sold separately) that kids can collect and combine to expand the imaginative play possibilities even further
-- Superman gift for kids – This fun-packed LEGO DC set is a great gift idea for 6+ year old boys and girls who are fans of Super Hero mech action
-- LEGO DC range – The extensive choice of LEGO DC building toys is designed to deliver endless imaginative build-and-play possibilities
 - Superman mech set – Put super-hero action into kids’ hands with LEGO DC Superman Mech vs. Lex Luthor building toy for 6+ year old boys and girls
+- Superman gift for kids – This fun-packed LEGO DC set is a great gift idea for 6+ year old boys and girls who are fans of Super Hero mech action
+- DC characters – Superman with a fabric cape and reversible head showing alternative expressions, and Lex Luthor with a stud shooter and Kryptonite
+- LEGO DC range – The extensive choice of LEGO DC building toys is designed to deliver endless imaginative build-and-play possibilities
+- More mechs and minifigures – There are lots more LEGO Super Hero sets available (sold separately) that kids can collect and combine to expand the imaginative play possibilities even further
+- Posable Superman toy – The LEGO mech has movable arms, legs and fingers, and its torso opens to reveal a cockpit that can hold the Superman minifigure
+- Epic LEGO Super-Hero adventures – There are 2 adjustable thrusters on the back of the LEGO Superman mech figure that allow it to ‘fly’
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSB4P94{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Batman Auto Spielzeug für viele Abenteuer: Dieses LEGO Spielset mit Batmobil für Jungen und Mädchen ab 8 Jahren lässt Kinder kreativ Abenteuer aus der Filmreihe The Dark Knight nachstellen
-- LEGO DC Super Heroes: Für die 3 Minifiguren ist besonderes Zubehör enthalten; Batman hat seinen Batarang, The Joker hält ein Bündel Geldscheine und Two-Face hat seine berühmte Silbermünze in der Hand
 - Drehbares Bat-Signal: Das Bat-Signal leuchtet zwar nicht, aber Kinder können es benutzen, um Batman herbeizurufen; Man kann den Projektor kippen und um 360 Grad in beide Richtungen drehen
-- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, Sets speichern und den Baufortschritt verfolgen
-- LEGO DC Spielzeuge: Das breite Spektrum an LEGO DC Bausets soll Kindern, die Rollenspiele mit Superhelden lieben, unzählige fantasievolle Bau- und Spielmöglichkeiten bieten
+- LEGO DC Super Heroes: Für die 3 Minifiguren ist besonderes Zubehör enthalten; Batman hat seinen Batarang, The Joker hält ein Bündel Geldscheine und Two-Face hat seine berühmte Silbermünze in der Hand
 - Batman Geschenk für Kinder: Überrasche Jungen und Mädchen, die Superhelden und schnelle Flitzer lieben und gern kreative LEGO Modelle bauen, mit diesem actionreichen Spielzeug
+- Batman Auto Spielzeug für viele Abenteuer: Dieses LEGO Spielset mit Batmobil für Jungen und Mädchen ab 8 Jahren lässt Kinder kreativ Abenteuer aus der Filmreihe The Dark Knight nachstellen
+- LEGO DC Spielzeuge: Das breite Spektrum an LEGO DC Bausets soll Kindern, die Rollenspiele mit Superhelden lieben, unzählige fantasievolle Bau- und Spielmöglichkeiten bieten
 - LEGO Batman Tumbler: Aus dem Auspuff des Spielzeugautos schlägt eine Flamme; Und man kann das Batmobil aufklappen, um die Batman Figur in das Cockpit zu setzen und die Instrumententafel zu bestaunen
+- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, Sets speichern und den Baufortschritt verfolgen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSF4FYN{{</world>}}

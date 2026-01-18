@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Luke Skywalker
 - Livré avec étiquettes
+- Luke Skywalker
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D3FL8FFB{{</world>}}

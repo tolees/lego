@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Make your worlds come to life with customisable characters, both friendly and fearsome.
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Race, soar, zoom, and ride on a variety of vehicles and creatures from diggers and helicopters to horses and dragons Create and Customise your own LEGO World.
 - Uncover hidden treasures in environments that range from the fun to the fantastical.
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- Make your worlds come to life with customisable characters, both friendly and fearsome.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B074M9WCPN{{</world>}}

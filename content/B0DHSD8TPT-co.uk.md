@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Minecraft village – This Minecraft building toy features a village with a buildable fountain, Steves fried chicken restaurant and a crafting shack
-- Expand the fun – Explore the full range of LEGO Minecraft building toys (sold separately) for more hands-on building and gaming adventures
-- More characters – A Minecraft ghast balloon with a shooting function, baby chicken, 2 piglins and a posable iron golem figure are also included in the set
-- LEGO Minecraft set – LEGO Minecraft Ghast Balloon Village Attack toy for 10+ year old boys and girls recreates a scene from the Minecraft movie
 - Minecraft gift for kids – This fun building set makes a great gaming gift for 10+ year old boys, girls and teenagers who are fans of the film and the iconic video game
 - Minecraft figures – The building set includes Steve, Natalie, Dawn and a villager LEGO Minecraft minifigures for kids to enjoy creative movie role play
+- LEGO Minecraft set – LEGO Minecraft Ghast Balloon Village Attack toy for 10+ year old boys and girls recreates a scene from the Minecraft movie
+- More characters – A Minecraft ghast balloon with a shooting function, baby chicken, 2 piglins and a posable iron golem figure are also included in the set
+- Minecraft village – This Minecraft building toy features a village with a buildable fountain, Steves fried chicken restaurant and a crafting shack
+- Expand the fun – Explore the full range of LEGO Minecraft building toys (sold separately) for more hands-on building and gaming adventures
 - Interactive toy – The roof of the restaurant in this Minecraft toy features a large chicken model, which includes a fun egg-laying function
 
 [🛒 Buy it now!!]({{< param buyurl >}})

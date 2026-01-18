@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - A Monster Jam toy for kids – This set makes a fun birthday gift for 7+ year old boys, girls and kids who love Monster Jam and building LEGO vehicles
-- Monster truck toy – LEGO Technic Monster Jam DIGatron Pull-Back truck toy for 7+ year old boys and girls who love monster trucks and LEGO vehicles
-- Pull-back action – Kids pull the monster truck toy back and then release it to send it speeding to recreate cool arena-style tricks and stunts
-- Functions to build and explore – This Monster Jam toy features authentic details, like the shovel and grabber, plus realistic Digatron-inspired tyres
 - An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young builders to the world of engineering
+- Monster truck toy – LEGO Technic Monster Jam DIGatron Pull-Back truck toy for 7+ year old boys and girls who love monster trucks and LEGO vehicles
+- Functions to build and explore – This Monster Jam toy features authentic details, like the shovel and grabber, plus realistic Digatron-inspired tyres
+- Pull-back action – Kids pull the monster truck toy back and then release it to send it speeding to recreate cool arena-style tricks and stunts
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHS9F966{{</world>}}

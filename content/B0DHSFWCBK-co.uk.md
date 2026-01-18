@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- LEGO Minecraft gift for kids – This LEGO building toy is a creative gaming gift for 8+ year old boys and girls who are fans of the popular video game
+- Minecraft made real – LEGO Minecraft sets give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
+- Video game toy – The building set features a mine in the game’s Savanna biome, and includes Minecraft figures: a cave spider toy, a wolf and 2 armadillos
+- Interactive toys – The Minecraft LEGO set also includes a lever-controlled TNT function that blasts away a piece of the terrain to reveal precious ore
 - Expand the fun – Check out the full range of LEGO Minecraft building toys (sold separately) for more hands-on gaming sets
 - Expand the fun – Check out the full range of LEGO Minecraft building toy sets (sold separately) for more hands-on gaming sets
-- LEGO Minecraft gift for kids – This LEGO building toy is a creative gaming gift for 8+ year old boys and girls who are fans of the popular video game
-- Interactive toys – The Minecraft LEGO set also includes a lever-controlled TNT function that blasts away a piece of the terrain to reveal precious ore
-- Minecraft made real – LEGO Minecraft sets give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
 - Minecraft toy for kids – LEGO Minecraft The Armadillo Mine Expedition is a fun building toy for 8+ year old boys and girls that features fun characters for the video game
-- Video game toy – The building set features a mine in the game’s Savanna biome, and includes Minecraft figures: a cave spider toy, a wolf and 2 armadillos
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFWCBK{{</world>}}

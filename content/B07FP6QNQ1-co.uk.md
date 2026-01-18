@@ -31,8 +31,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Build the Sunset Track racer and then rebuild for high-speed motor sportaction behind the wheel of an open-top Classic Race Car or a powerful LEGOSpeed Boat.
 - Number of pieces: 221
 - Manufacturer recommended age: 7+
-- Sunset Track is based on a real motorsport racing car, this cool model features aerodynamic bodywork with large air intakes.
 - Sunset Track Racer
+- Sunset Track is based on a real motorsport racing car, this cool model features aerodynamic bodywork with large air intakes.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07FP6QNQ1{{</world>}}

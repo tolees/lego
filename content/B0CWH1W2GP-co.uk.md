@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Building toy for 7-plus-year-old girls and boys – K.K.s Concert in the Plaza gives kids who love the Animal Crossing video game series hours of fun
+- Lots to explore – Kids can perform a concert, go about their business inside Resident Services, hang out at the café or open up the camper
 - Hands-on play for video game fans – These LEGO sets allow kids to keep using their creativity and storytelling skills to explore the world of Animal Crossing, even when on a screen break
 - Pretend play toy – With lots of accessories, spare tiles for the flag and modular baseplates, kids have the freedom to experiment with the playset
+- 3 Animal Crossing characters – The playset includes K.K., Isabelle and Audie minifigures, a Resident Services model with a café, and a camper van toy
 - LEGO Animal Crossing toy gifts for kids – This building toy, inspired by the Animal Crossing video game series, makes a fun birthday gift for 7-plus-year-old girls, boys and fans
 - Digital building instructions – The LEGO Builder app features a digital version of the instructions included with this Animal Crossing building toy
-- 3 Animal Crossing characters – The playset includes K.K., Isabelle and Audie minifigures, a Resident Services model with a café, and a camper van toy
-- Lots to explore – Kids can perform a concert, go about their business inside Resident Services, hang out at the café or open up the camper
+- Building toy for 7-plus-year-old girls and boys – K.K.s Concert in the Plaza gives kids who love the Animal Crossing video game series hours of fun
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH1W2GP{{</world>}}

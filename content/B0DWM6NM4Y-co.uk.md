@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Collectible gift for adults – Treat yourself or surprise a Super Mario fan with this buildable Mario Kart LEGO model kit, a great gift for men, women and adult gamers
-- Designed for dynamic display – The Super Mario figure has a posable head and arms, and the stand allows you to display the Standard Kart at dynamic angles as if it is drifting or being driven fast
 - LEGO Super Mario collectible – Part of a wide range of LEGO sets for adults, this building kit offers a hands-on, creative activity for fans who enjoy relaxing through mindful building
-- LEGO Super Mario set for adults – Show off your love for Mario Kart with this brick-built model kit featuring Mario in his Standard Kart, great for display and gaming-room decor
-- An immersive building set for adults – A creative project for advanced LEGO builders, this model kit comes with step-by-step instructions so even LEGO newcomers can enjoy the experience
-- LEGO Builder app – Download the app for intuitive 3D building instructions, with tools to zoom, rotate your model, track progress, and enhance your LEGO building experience
+- Designed for dynamic display – The Super Mario figure has a posable head and arms, and the stand allows you to display the Standard Kart at dynamic angles as if it is drifting or being driven fast
+- Collectible gift for adults – Treat yourself or surprise a Super Mario fan with this buildable Mario Kart LEGO model kit, a great gift for men, women and adult gamers
 - Super Mario decor idea – This build-and-display LEGO Super Mario set adds a fun, creative touch to any Super Mario fan’s room, gaming setup or office space
+- An immersive building set for adults – A creative project for advanced LEGO builders, this model kit comes with step-by-step instructions so even LEGO newcomers can enjoy the experience
+- LEGO Super Mario set for adults – Show off your love for Mario Kart with this brick-built model kit featuring Mario in his Standard Kart, great for display and gaming-room decor
+- LEGO Builder app – Download the app for intuitive 3D building instructions, with tools to zoom, rotate your model, track progress, and enhance your LEGO building experience
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWM6NM4Y{{</world>}}

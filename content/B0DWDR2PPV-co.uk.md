@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Bowser’s Castle toy – Stage Bowser vs. Yoshi races, smash through walls and dodge the plunging Thwomp with this LEGO Super Mario: Mario Kart toy for 9+ year old boys and girls
+- Super Mario gift – This building toy makes a great gaming gift for 9+ year old boys & girls; one of the starter sets 71439, 71440, 71441 or 72043 (sold separately) is needed for interactive play
+- LEGO Super Mario car toys – Launch shells from the Standard Quad and Mach 8 kart, race around the castle (or through its foldout walls!), dodge falling boulder and spinning Fire Bar, and more
 - Interactive toys – Place LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) in the toy vehicles to trigger Mario Kart sound/visual effects for honking, drifting and more
 - 4 LEGO Super Mario figures – This LEGO building set includes Bowser, a Yoshi figure, a Thwomp and a Lava Bubble, plus a Banana element with face decoration
-- LEGO Super Mario car toys – Launch shells from the Standard Quad and Mach 8 kart, race around the castle (or through its foldout walls!), dodge falling boulder and spinning Fire Bar, and more
-- Bowser’s Castle toy – Stage Bowser vs. Yoshi races, smash through walls and dodge the plunging Thwomp with this LEGO Super Mario: Mario Kart toy for 9+ year old boys and girls
 - Unlimited play possibilities – Explore the full range of LEGO Super Mario: Mario Kart toys (sold separately) and discover other buildable Mario Kart vehicles and characters to race against
-- Super Mario gift – This building toy makes a great gaming gift for 9+ year old boys & girls; one of the starter sets 71439, 71440, 71441 or 72043 (sold separately) is needed for interactive play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDR2PPV{{</world>}}

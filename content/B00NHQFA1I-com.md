@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Good product for use
-- Easy to use
-- Good quality
 - Good performance
+- Good quality
+- Easy to use
+- Good product for use
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00NHQFA1I{{</world>}}

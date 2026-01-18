@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Display as a LEGO vehicle or robot – Pose Bumblebee’s articulated joints or catch it mid-conversion for a dynamic home or office display piece
+- A LEGO robot model – The buildable Transformers Autobot in this model kit for adults to build converts from Autobot to vehicle mode
+- What’s in the box? – This LEGO Icons set features a Transformers figure with articulated joints, an ion blaster and a jetpack, plus a display plaque
+- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO Icons set
 - Transformers gift – This LEGO Icons building set for adults makes a great gift for men, women, Transformers fans and sci-fi film enthusiasts
 - Transformers action figure building set for adults – Collectible LEGO Icons Transformers Bumblebee figure for sci-fi film enthusiasts
-- A LEGO robot model – The buildable Transformers Autobot in this model kit for adults to build converts from Autobot to vehicle mode
-- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO Icons set
-- What’s in the box? – This LEGO Icons set features a Transformers figure with articulated joints, an ion blaster and a jetpack, plus a display plaque
+- Display as a LEGO vehicle or robot – Pose Bumblebee’s articulated joints or catch it mid-conversion for a dynamic home or office display piece
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N1O0FES{{</world>}}

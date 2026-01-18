@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Architectuurcadeau – deze LEGO bouwset om te verzamelen is een bijzonder cadeau voor jezelf of een andere creatieve volwassene die dol is op geschiedenis, architectuur, reizen of bekende Europese bezienswaardigheden
-- Bouwset met authentieke details – bewonder de hoge torens van het kasteel, geniet van het landschap met bomen die het seizoen aangeven en volg het pad door de binnenplaats
-- Ga helemaal op in het moment – geniet van elke stap van het bouwproces met het meegeleverde boekje en de LEGO Builder app, waarmee je kunt inzoomen en je model in 3D kunt draaien, je voortgang kunt bijhouden en al je sets op één plek kunt opslaan
-- Monumentale modelset – geniet van het bouwen van deze iconische Beierse bestemming met de 3455-delige Slot Neuschwanstein bouwset voor volwassenen
 - Afmetingen – dit 3455-delige displaymodel van kasteel Neuschwanstein is ca. 31 cm hoog, 46 cm breed en 20 cm diep en vormt een prachtig cadeau voor architectuurliefhebbers
-- Ontspannende activiteit voor volwassenen – bepaal of het zomer of herfst is met de bomen, bevestig het naamplaatje op de basis aan de voorkant van het LEGO kasteel en zet je model neer op een plek waar iedereen het kan bewonderen
+- Monumentale modelset – geniet van het bouwen van deze iconische Beierse bestemming met de 3455-delige Slot Neuschwanstein bouwset voor volwassenen
 - Een stukje Europese geschiedenis – tijdens het bouwen kun je het Beierse kasteel in al zijn glorie nabouwen terwijl je nieuwe bouwtechnieken ontdekt
 - LEGO bouwsets voor volwassenen – deze LEGO Architecture set maakt deel uit van een collectie hoogwaardige sets (apart verkrijgbaar) voor volwassenen die net als jij houden van praktische en creatieve activiteiten
+- Bouwset met authentieke details – bewonder de hoge torens van het kasteel, geniet van het landschap met bomen die het seizoen aangeven en volg het pad door de binnenplaats
+- Ontspannende activiteit voor volwassenen – bepaal of het zomer of herfst is met de bomen, bevestig het naamplaatje op de basis aan de voorkant van het LEGO kasteel en zet je model neer op een plek waar iedereen het kan bewonderen
+- Ga helemaal op in het moment – geniet van elke stap van het bouwproces met het meegeleverde boekje en de LEGO Builder app, waarmee je kunt inzoomen en je model in 3D kunt draaien, je voortgang kunt bijhouden en al je sets op één plek kunt opslaan
+- Architectuurcadeau – deze LEGO bouwset om te verzamelen is een bijzonder cadeau voor jezelf of een andere creatieve volwassene die dol is op geschiedenis, architectuur, reizen of bekende Europese bezienswaardigheden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDX63HC{{</world>}}

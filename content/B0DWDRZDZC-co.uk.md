@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO plants – Encourage creativity to grow with the LEGO Botanicals Happy Plants building toy for 9+ year old girls and boys, which becomes fun shelf or desk decor
-- Gift idea for kids – The building toy makes a great birthday gift for 9+ year old girls, as well as a gift for plant-loving teenagers and women who like crafting nature
-- Build more blooms – These brick-built artificial plants can be combined with other sets (sold separately) in the LEGO Botanicals collection
-- Colourful desk decor – Once complete, these LEGO plants become decorations that will add a touch of cheer to kids’ bedrooms, or to any living or working space when used as home or office decor
-- Colourful planters – The building set features a baby dracaena artificial plant that’s standing up and a baby pilea plant that’s sitting down, as well as interchangeable blue and yellow LEGO plant pots
-- LEGO Botanicals range – LEGO Botanicals building sets encourage kids and nature lovers to let their creativity bloom as they build lifelike faux flowers and plants
 - Crafts kit for kids – Girls and boys can build the faux plants independently or share the fun by building them with a friend or family member
+- Build more blooms – These brick-built artificial plants can be combined with other sets (sold separately) in the LEGO Botanicals collection
+- LEGO plants – Encourage creativity to grow with the LEGO Botanicals Happy Plants building toy for 9+ year old girls and boys, which becomes fun shelf or desk decor
+- LEGO Botanicals range – LEGO Botanicals building sets encourage kids and nature lovers to let their creativity bloom as they build lifelike faux flowers and plants
+- Gift idea for kids – The building toy makes a great birthday gift for 9+ year old girls, as well as a gift for plant-loving teenagers and women who like crafting nature
+- Colourful planters – The building set features a baby dracaena artificial plant that’s standing up and a baby pilea plant that’s sitting down, as well as interchangeable blue and yellow LEGO plant pots
+- Colourful desk decor – Once complete, these LEGO plants become decorations that will add a touch of cheer to kids’ bedrooms, or to any living or working space when used as home or office decor
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRZDZC{{</world>}}

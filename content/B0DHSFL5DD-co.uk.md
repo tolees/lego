@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Construction toys for 8+ year old boys and girls – Introduce kids to the world of recycling with this fun LEGO City Scrapyard with Cars playset
 - Gifts for 8+ year old boys and girls – Give this LEGO building toy as a birthday or any-other-day gift for kids and fans of fun educational toys
-- A city without limits – LEGO City is a place where kids can unleash their imaginations, with toy vehicles, structures and citizens that motivate them to build, create, explore and play
-- Creative toys, realistic play – Kids use the toy crane to hoist the car toys into the crusher and press a lever to transform them into scrap cubes
-- Whats in the box? – Everything kids need to build a toy scrapyard with a claw crane toy, crusher, office building, 2 cars and 4 worker minifigures
-- LEGO City minifigure accessories – This fun playset includes a toy computer and tools including a drill, wrenches and a hammer
 - Fun digital guide – The LEGO Builder app guides kids on an intuitive building adventure with tools that let them zoom in, rotate models in 3D and track progress
+- Creative toys, realistic play – Kids use the toy crane to hoist the car toys into the crusher and press a lever to transform them into scrap cubes
+- A city without limits – LEGO City is a place where kids can unleash their imaginations, with toy vehicles, structures and citizens that motivate them to build, create, explore and play
+- Construction toys for 8+ year old boys and girls – Introduce kids to the world of recycling with this fun LEGO City Scrapyard with Cars playset
+- LEGO City minifigure accessories – This fun playset includes a toy computer and tools including a drill, wrenches and a hammer
+- Whats in the box? – Everything kids need to build a toy scrapyard with a claw crane toy, crusher, office building, 2 cars and 4 worker minifigures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSFL5DD{{</world>}}

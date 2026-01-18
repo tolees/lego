@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kinderen kunnen leuke kampeeravonturen naspelen met deze LEGO City Terreinwagen avonturen speelset, inclusief een 4x4 speelgoedauto, 2 speelgoed fietsen en 2 minifiguren
 - Bij deze set is een geïllustreerde handleiding inbegrepen en een interactieve bouwgids in de LEGO Builder app waarmee het bouwen nog leuker wordt: kinderen kunnen de app gebruiken om de modellen van alle kanten te bekijken terwijl ze bouwen
-- De speelgoed terreinwagen beschikt over enorme banden en superhoge vering voor ruig terrein - het LEGO voertuig heeft ook een laadruimte voor het vervoeren van de mountainbikes; klaar voor een ritje vol actie
-- Na aankomst op de kampeerplek kunnen kinderen leuke rollenspellen spelen waarin ze de omgeving verkennen, de tent opzetten en het avondeten bereiden bij het kampvuur, voordat ze in hun knusse slaapzakken kruipen om lekker te gaan slapen
 - Geef deze leuke LEGO City kampeerset als verjaardagscadeau, speciale verrassing of kleinigheidje aan kinderen vanaf 6 jaar die dol zijn op autos, monstertruck speelgoed, kamperen en avonturen in de natuur
+- Kinderen kunnen leuke kampeeravonturen naspelen met deze LEGO City Terreinwagen avonturen speelset, inclusief een 4x4 speelgoedauto, 2 speelgoed fietsen en 2 minifiguren
+- De speelgoed terreinwagen beschikt over enorme banden en superhoge vering voor ruig terrein - het LEGO voertuig heeft ook een laadruimte voor het vervoeren van de mountainbikes; klaar voor een ritje vol actie
 - Inclusief 2 minifiguren, een dierenfiguur van een konijn en een heleboel leuke accessoires: fietshelmen voor de poppetjes, slaapzakken, een kampvuur, speelgoedcamera, schop, pan en een rugzak, goed voor urenlang fantasierijk speelplezier
+- Na aankomst op de kampeerplek kunnen kinderen leuke rollenspellen spelen waarin ze de omgeving verkennen, de tent opzetten en het avondeten bereiden bij het kampvuur, voordat ze in hun knusse slaapzakken kruipen om lekker te gaan slapen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BBS5CJK2{{</world>}}

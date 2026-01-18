@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bewegliche Sarlacc-Grube: Mit den Hebeln kann man die Tentakeln des Sarlaccs bewegen; Und in das aufklappbare Maul des Sarlaccs passt eine LEGO Minifigur für noch mehr spannende Spielmöglichkeiten
+- Enthält 6 LEGO Star Wars Minifiguren mit Zubehör: Luke Skywalker, Han Solo, Chewbacca, Lando Calrissian und Boba Fett sowie die exklusive Minifigur Nien Nunb zur Feier des 25-jährigen LEGO Star Wars Jubiläums
 - Geschenk für Kinder ab 9 Jahren: Dieses Abenteuer-Set zum Bauen, Spielen und Sammeln ist ein tolles Geschenk für Jungen und Mädchen sowie für alle Fans der klassischen Star Wars Trilogie und für Star Wars Sammler
-- LEGO Star Wars Sets für Fans jeden Alters: LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Fans legendäre Szenen nachspielen, neue Abenteuergeschichten darstellen oder die Modelle aus LEGO Steinen einfach nur ausstellen
+- Intuitive Bauanleitung: In der LEGO Builder App können Kinder beim Bauen eine digitale Modellansicht dieses Bauspielzeugs vergrößern, drehen und näher betrachten
 - Baubares LEGO Star Wars Schiff: Durchsichtige Elemente erwecken den Eindruck, das Wüsten-Skiff würde schweben; Luke Skywalker kann über eine Planke gehen, und die brüchige Reling, die Han Solo fast zum Verhängnis geworden wäre, ist auch vorhanden
 - LEGO Bauspielzeug zum Film Star Wars: Die Rückkehr der Jedi-Ritter: Ein Wüsten-Skiff und eine Sarlacc-Grube aus LEGO Steinen sowie legendäre Charaktere lassen dich eine dramatische Szene aus der klassischen Star Wars Trilogie nachstellen
-- Intuitive Bauanleitung: In der LEGO Builder App können Kinder beim Bauen eine digitale Modellansicht dieses Bauspielzeugs vergrößern, drehen und näher betrachten
-- Enthält 6 LEGO Star Wars Minifiguren mit Zubehör: Luke Skywalker, Han Solo, Chewbacca, Lando Calrissian und Boba Fett sowie die exklusive Minifigur Nien Nunb zur Feier des 25-jährigen LEGO Star Wars Jubiläums
+- Bewegliche Sarlacc-Grube: Mit den Hebeln kann man die Tentakeln des Sarlaccs bewegen; Und in das aufklappbare Maul des Sarlaccs passt eine LEGO Minifigur für noch mehr spannende Spielmöglichkeiten
+- LEGO Star Wars Sets für Fans jeden Alters: LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Fans legendäre Szenen nachspielen, neue Abenteuergeschichten darstellen oder die Modelle aus LEGO Steinen einfach nur ausstellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH1SN5Q{{</world>}}

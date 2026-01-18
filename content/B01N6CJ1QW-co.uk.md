@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SMALL LEGO PLANT WITH A BIG MEANING – The orchid represents the season of spring, and in traditional art it is believed to represent new beginnings
-- BUILD MORE BLOOMS – This LEGO Botanicals Mini Orchid is part of the Four Gentlemen series, which represents the 4 seasons, with sets (sold separately) designed to be displayed together
-- AUTHENTIC DETAILS – This faux flowers set includes 5 peach blooms, a few buds and green leaves, plus a light terracotta-coloured pot with a wood-effect plinth
 - COLOURFUL LEGO DECORATION – Once complete, this model kit for adults becomes a great piece of nature-themed home or office decor that will never wilt
+- BUILD MORE BLOOMS – This LEGO Botanicals Mini Orchid is part of the Four Gentlemen series, which represents the 4 seasons, with sets (sold separately) designed to be displayed together
+- SMALL LEGO PLANT WITH A BIG MEANING – The orchid represents the season of spring, and in traditional art it is believed to represent new beginnings
 - DIGITAL INSTRUCTIONS – This building set includes printed and digital versions of the instructions for an immersive experience
-- CHRISTMAS GIFT – This artificial flowers set makes a thoughtful housewarming gift, birthday present or festive gift for women and men who are nature lovers
 - FLORAL DISPLAY – Let creativity blossom with this artificial flowers building set for adults, featuring a mini orchid from the LEGO Botanical Collection
+- CHRISTMAS GIFT – This artificial flowers set makes a thoughtful housewarming gift, birthday present or festive gift for women and men who are nature lovers
+- AUTHENTIC DETAILS – This faux flowers set includes 5 peach blooms, a few buds and green leaves, plus a light terracotta-coloured pot with a wood-effect plinth
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N6CJ1QW{{</world>}}

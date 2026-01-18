@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- For play and display – When playtime is over, the LEGO animal figures look great on display, with 2 transparent stands provided for the orca family
-- Posable animal figures – The pandas mouth, head and paws can move, the orca can move its body and fin and the penguins flippers and feet can move
 - Endless play – Kids can choose to build a panda toy, an orca toy or a penguin animal figure, each with its offspring (models cannot be built simultaneously)
-- A fun way to build – The LEGO Builder app allows kids to save sets, track progress and zoom in and rotate their toy animals in 3D while they build
-- Panda gift for kids – This LEGO Creator 3in1 building toy provides a fun build-and-play experience for little builders and makes a great birthday gift for 8+ year old girls and boys
-- LEGO Creator toys – Each 3in1 set lets kids build 3 different models inspired by their biggest passions, including animals, vehicles and houses
 - 3 animal playsets in 1 box – The LEGO Creator Wild Animals: Panda Family toy for 8+ year old girls and boys lets kids build 3 different animal families with the same bricks
+- Panda gift for kids – This LEGO Creator 3in1 building toy provides a fun build-and-play experience for little builders and makes a great birthday gift for 8+ year old girls and boys
+- A fun way to build – The LEGO Builder app allows kids to save sets, track progress and zoom in and rotate their toy animals in 3D while they build
+- Posable animal figures – The pandas mouth, head and paws can move, the orca can move its body and fin and the penguins flippers and feet can move
+- For play and display – When playtime is over, the LEGO animal figures look great on display, with 2 transparent stands provided for the orca family
+- LEGO Creator toys – Each 3in1 set lets kids build 3 different models inspired by their biggest passions, including animals, vehicles and houses
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSF89CQ{{</world>}}

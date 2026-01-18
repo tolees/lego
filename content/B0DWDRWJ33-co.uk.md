@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mini shrine – This LEGO NINJAGO set includes a small brick-built shrine guarded by Zarkt, containing a secret message that Lloyd can decode using his translucent reveal blade accessory
-- Highly posable dragon figure – This large buildable dragon toy features a movable tail, legs, wings, head and jaw, two minifigure seats on its back, and a stud shooter under each wing
-- A fun way to build – The LEGO Builder app offers an intuitive building experience, allowing kids to save sets, track progress, and zoom in or rotate models in 3D as they build
 - 4 NINJAGO minifigures – This building set comes with ninja warriors Sora, Wyldfyre, Lloyd and the villainous Zarkt with ninja toy weapon accessories for kids to play out good vs. evil battles
-- NINJAGO gift idea for kids – This LEGO set offers a fun build-and-play experience and makes a great birthday gift for 7+ year old boys and girls who love ninja toys
 - A universe of LEGO NINJAGO sets – The wide range of ninja building toys (sold separately) lets kids dive into a fantasy world of imaginative adventures with their ninja heroes
+- Mini shrine – This LEGO NINJAGO set includes a small brick-built shrine guarded by Zarkt, containing a secret message that Lloyd can decode using his translucent reveal blade accessory
+- NINJAGO gift idea for kids – This LEGO set offers a fun build-and-play experience and makes a great birthday gift for 7+ year old boys and girls who love ninja toys
+- A fun way to build – The LEGO Builder app offers an intuitive building experience, allowing kids to save sets, track progress, and zoom in or rotate models in 3D as they build
 - LEGO NINJAGO dragon toy for kids – Rontu the Master Dragon building toy for 7+ year old boys and girls lets kids recreate scenes from season 3 of the NINJAGO Dragons Rising TV show
+- Highly posable dragon figure – This large buildable dragon toy features a movable tail, legs, wings, head and jaw, two minifigure seats on its back, and a stud shooter under each wing
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRWJ33{{</world>}}

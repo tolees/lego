@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3D building instructions – Kids can download the LEGO Builder app for an immersive experience as they build their Spider-Man set using digital tools to zoom in and rotate models and track progress
-- Buildable LEGO Marvel sets – The extensive range of LEGO Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
-- Subway train set for kids – This Super Hero gift for 9+ year old boys and girls makes a great treat for fans of Marvel films, action adventures and LEGO building toys
 - LEGO Marvel collectibles – The Spider-Man minifigure comes with masked and unmasked heads and the train’s lift-off roof provides access to an interior with room for a passenger to sit
-- Spider-Man building toy – LEGO Marvel Spider-Man vs. Doc Ock Subway Train Scene is a fun play-and-display Super Hero toy for 9+ year old boys and girls
-- LEGO Marvel minifigures – The building set includes minifigures from Marvel Studios’ Spider-Man 2 film: Spider-Man, Doc Ock, J. Jonah Jameson and Aunt May
+- Buildable LEGO Marvel sets – The extensive range of LEGO Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
 - Action adventures – Spider-Man uses a large web to stop a runaway train with passengers on board, but Doc Ock swings a mechanical tentacle over the train toy, crushing it in his grip
+- Subway train set for kids – This Super Hero gift for 9+ year old boys and girls makes a great treat for fans of Marvel films, action adventures and LEGO building toys
+- LEGO Marvel minifigures – The building set includes minifigures from Marvel Studios’ Spider-Man 2 film: Spider-Man, Doc Ock, J. Jonah Jameson and Aunt May
+- 3D building instructions – Kids can download the LEGO Builder app for an immersive experience as they build their Spider-Man set using digital tools to zoom in and rotate models and track progress
+- Spider-Man building toy – LEGO Marvel Spider-Man vs. Doc Ock Subway Train Scene is a fun play-and-display Super Hero toy for 9+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF13RP3{{</world>}}

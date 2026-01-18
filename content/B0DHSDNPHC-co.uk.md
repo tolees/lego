@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Fun Mario characters – For the first time in a LEGO Super Mario set, find a Light-Blue Yoshi figure, plus a Banana element with face decoration
-- Yoshi toy bike – Place Light-Blue Yoshi on the Yoshi Bike and drive between 4 traffic cones, launch shells from and swerve around the Banana
-- Interactive Super Mario toys – Ride the bike with LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) to trigger sound/visual effects
-- Inspire imaginations – LEGO Super Mario buildable toys for 7+ year old boys and girls offer digital coin-collecting and fun social or independent play through expansion and rebuilding
-- Nintendo collectible – Explore the full range of LEGO Super Mario: Mario Kart toys to build (sold separately) and find other vehicles and characters
 - Gifts for 7+ year old boys and girls – This LEGO Super Mario playset requires sets 71439, 71440 or 71441 (sold separately) for interactive play
+- Nintendo collectible – Explore the full range of LEGO Super Mario: Mario Kart toys to build (sold separately) and find other vehicles and characters
+- Inspire imaginations – LEGO Super Mario buildable toys for 7+ year old boys and girls offer digital coin-collecting and fun social or independent play through expansion and rebuilding
 - Nintendo gifts for gamers – Drive and drift on a brick-built model of the Yoshi Bike with this LEGO Super Mario: Mario Kart adventure toy playset
+- Interactive Super Mario toys – Ride the bike with LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) to trigger sound/visual effects
+- Yoshi toy bike – Place Light-Blue Yoshi on the Yoshi Bike and drive between 4 traffic cones, launch shells from and swerve around the Banana
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDNPHC{{</world>}}

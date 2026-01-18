@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Star Wars cadeau voor jongens, meisjes en fans vanaf 9 jaar – geef dit hoogwaardige bouwbare ruimteschip cadeau aan kinderen en fans van Star Wars: The Clone Wars
-- LEGO Star Wars: The Clone Wars starfighter – ga met een heldhaftig Star Wars personage op spannende missies met dit gedetailleerde V-19 Torrent starfighter bouwpakket voor kinderen
-- Klaar voor actie – vouw de 3 vleugels naar beneden en gebruik de centrale vleugel onder de starfighter als handvat om ermee te vliegen; gebruik het model na het bouwen als Star Wars decoratie
 - 3 LEGO Star Wars minifiguren en droid – Asajj Ventress met 2 rode lichtzwaarden met gebogen handvatten, generaal Obi-Wan Kenobi met een blauw lichtzwaard en een Clone Pilot met een blasterpistool
-- Star Wars starfighter van LEGO stenen – het LEGO Star Wars voertuig beschikt over een cockpit die open kan, verstelbare vleugels voor de vlieg- en landingsmodus en 2 noppenschieters voor fantasierijk speelplezier
+- LEGO Star Wars cadeau voor jongens, meisjes en fans vanaf 9 jaar – geef dit hoogwaardige bouwbare ruimteschip cadeau aan kinderen en fans van Star Wars: The Clone Wars
 - Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen een digitale 3D-versie van hun modellen draaien tijdens het bouwen en meer
+- Star Wars starfighter van LEGO stenen – het LEGO Star Wars voertuig beschikt over een cockpit die open kan, verstelbare vleugels voor de vlieg- en landingsmodus en 2 noppenschieters voor fantasierijk speelplezier
+- Klaar voor actie – vouw de 3 vleugels naar beneden en gebruik de centrale vleugel onder de starfighter als handvat om ermee te vliegen; gebruik het model na het bouwen als Star Wars decoratie
+- LEGO Star Wars: The Clone Wars starfighter – ga met een heldhaftig Star Wars personage op spannende missies met dit gedetailleerde V-19 Torrent starfighter bouwpakket voor kinderen
 - Ontdek het assortiment – met LEGO Star Wars sets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans klassieke scènes nabouwen, nieuwe verhalen verzinnen en de bouwbare modellen op een mooi plekje neerzetten
 
 [🛒 Buy it!!]({{< param buyurl >}})

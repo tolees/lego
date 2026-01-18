@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- COOLE MINIFIGUR: Das Set enthält eine Rennfahrer-Minifigur im Dodge-Rennoverall, die Kinder ans Steuer setzen und für spannende Rennen einsetzen können
-- Modernes Ausstellmodell: Das Dodge Hellcat Modell aus LEGO Steinen eignet sich zum Spielen und stilvollen Ausstellen im Regal oder auf dem Schreibtisch
 - Geschenk für Autofans: Dieses LEGO Muscle-Car ist eine tolle Geschenkidee für Kinder ab 9 Jahren und erwachsene Sammler, die ein faszinierendes Bau- und Spielerlebnis suchen
 - Authentische Muscle-Car-Details: Das LEGO Hellcat Modell zeigt realistische Merkmale wie die lange Motorhaube mit Lufthutze, den markanten Kühlergrill und die doppelten Auspuffrohre
-- Legendäre Fahrzeuge zum Spielen: LEGO Speed Champions Sets ermöglichen Kindern und Autofans den Bau detailgetreuer Nachbildungen legendärer Autos zum Spielen und Ausstellen
+- Modernes Ausstellmodell: Das Dodge Hellcat Modell aus LEGO Steinen eignet sich zum Spielen und stilvollen Ausstellen im Regal oder auf dem Schreibtisch
 - Muscle-Car für Kinder: Der LEGO Speed Champions Dodge Challenger SRT Hellcat begeistert Jungen, Mädchen und Fans ab 9 Jahren zum Bauen, Ausstellen und Rennenfahren
 - Mehr Rennspaß mit LEGO Speed Champions: Ergänze deine Sammlung mit weiteren originalgetreu nachgebildeten LEGO Rennautos für noch mehr Renn-Action
+- COOLE MINIFIGUR: Das Set enthält eine Rennfahrer-Minifigur im Dodge-Rennoverall, die Kinder ans Steuer setzen und für spannende Rennen einsetzen können
+- Legendäre Fahrzeuge zum Spielen: LEGO Speed Champions Sets ermöglichen Kindern und Autofans den Bau detailgetreuer Nachbildungen legendärer Autos zum Spielen und Ausstellen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF1X7C5{{</world>}}

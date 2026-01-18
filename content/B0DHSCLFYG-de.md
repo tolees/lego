@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Digitales Bauerlebnis: Dieses LEGO F1 Set beinhaltet ein LEGO Starter-Bauelement und eine einfache Bildanleitung. Und in der LEGO Builder App ist zudem eine digitale 3D-Anleitung verfügbar
-- So macht das Lernen Spaß: LEGO City Bauspielzeuge lassen dein Kind beim kreativen Bauen und Spielen Selbstvertrauen und wichtige Fähigkeiten fürs ganze Leben entwickeln
-- Cooles Geschenk für Kinder: Überrasche einen jungen Motorsportfan mit diesem LEGO F1 Spielset. Die Rennautos sind eine tolle spontane Belohnung für Jungen und Mädchen ab 4 Jahren
-- Inhalt der Box: Alles, was Kinder brauchen, um 2 Formel 1 Spielzeugrennautos und 2 Rennfahrer-Minifiguren aus den F1-Teams von Williams Racing und Haas zu bauen
 - Noch mehr rasante Formel 1 Action: Schau dir noch weitere (separat erhältliche) LEGO Formel-1-Sets zum Bauen und Ausstellen an, die spannende Rennen mit der ganzen Familie ermöglichen
+- Inhalt der Box: Alles, was Kinder brauchen, um 2 Formel 1 Spielzeugrennautos und 2 Rennfahrer-Minifiguren aus den F1-Teams von Williams Racing und Haas zu bauen
+- Digitales Bauerlebnis: Dieses LEGO F1 Set beinhaltet ein LEGO Starter-Bauelement und eine einfache Bildanleitung. Und in der LEGO Builder App ist zudem eine digitale 3D-Anleitung verfügbar
+- Cooles Geschenk für Kinder: Überrasche einen jungen Motorsportfan mit diesem LEGO F1 Spielset. Die Rennautos sind eine tolle spontane Belohnung für Jungen und Mädchen ab 4 Jahren
 - Tolle Flitzer zum Spielen und Ausstellen: Setz die Rennfahrer-Minifiguren der Teams Williams Racing und Haas in die Cockpits der F1 Spielzeugautos und freu dich auf spannende Rollenspiele und Geschichten
+- So macht das Lernen Spaß: LEGO City Bauspielzeuge lassen dein Kind beim kreativen Bauen und Spielen Selbstvertrauen und wichtige Fähigkeiten fürs ganze Leben entwickeln
 - LEGO City Set mit F1 Spielzeugrennautos: LEGO City F1 Williams Racing und Haas F1 Rennautos ist ein Bauset, das Kinder ab 4 Jahren den Nervenkitzel echter Rennen im eigenen Kinderzimmer erleben lässt
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spelers kunnen digitale munten verdienen door de LEGO Mario, LEGO Luigi of LEGO Peach poppetjes (niet inbegrepen) te helpen om de puntige roller die Reuzen-Spike naar ze gooit te ontwijken
-- Vervolgens kunnen ze op de oranje paddenstoeltrampolines springen om bij het platform van Boomerang Bro te komen, en door het supersterblok te gebruiken kunnen ze op de wipwap springen en de Piranha Plant verslaan
-- Deze LEGO Super Mario set is een uitbreiding met poppetjes van 3 beroemde vijanden: een Reuzen-Spike, een Boomerang Bro en een Piranha Plant, voor nog meer leuke uitdagingen tussen de wolken
-- Met de LEGO Super Mario app kunnen kinderen nog meer speelplezier ontgrendelen - ze kunnen de app gebruiken voor creatieve inspiratie, bouwinstructies en meer; kijk op LEGO.com/devicecheck voor een lijst met compatibele apparaten
 - Kinderen kunnen hun bouwbare Super Mario game uitbreiden met deze speelgoed set - om het spel te kunnen spelen hebben ze een LEGO Super Mario startset (71360, 71387 of 71403) nodig
+- Spelers kunnen digitale munten verdienen door de LEGO Mario, LEGO Luigi of LEGO Peach poppetjes (niet inbegrepen) te helpen om de puntige roller die Reuzen-Spike naar ze gooit te ontwijken
+- Deze LEGO Super Mario set is een uitbreiding met poppetjes van 3 beroemde vijanden: een Reuzen-Spike, een Boomerang Bro en een Piranha Plant, voor nog meer leuke uitdagingen tussen de wolken
+- Vervolgens kunnen ze op de oranje paddenstoeltrampolines springen om bij het platform van Boomerang Bro te komen, en door het supersterblok te gebruiken kunnen ze op de wipwap springen en de Piranha Plant verslaan
+- Met de LEGO Super Mario app kunnen kinderen nog meer speelplezier ontgrendelen - ze kunnen de app gebruiken voor creatieve inspiratie, bouwinstructies en meer; kijk op LEGO.com/devicecheck voor een lijst met compatibele apparaten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QFWNZJH{{</world>}}

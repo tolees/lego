@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Des rires pour toute la famille.Cette expérience vidéoludique LEGO hilarante et créative convient aux adultes et enfants de tout âge
-- Type de jeu : Action-aventure
 - Découvrez des lieux mythiques. Voyagez jusqu’à vos planètes préférées issues de l’univers Star Wars et parcourez les vastes espaces inspirés des décors inoubliables des films tels que le désert de Géonosis, les marais de Dagobah
+- Type de jeu : Action-aventure
 - Explorez les trilogies. Commencez votre aventure en sélectionnant la trilogie de votre choix, puis plongez dans les 9 films de la saga Skywalker
 - Incarnez des héros et des méchants emblématiques. Il y a plus de 300 personnages jouables, venus de toute la galaxie de Luke Skywalker à Kylo Ren
+- Des rires pour toute la famille.Cette expérience vidéoludique LEGO hilarante et créative convient aux adultes et enfants de tout âge
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07SC92YY9{{</world>}}

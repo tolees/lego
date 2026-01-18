@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Minecraft gift for kids – This LEGO building toy is a creative gaming gift idea for 7+ year old boys and girls who are fans of the popular video game
-- Desert castle toy – This small LEGO Minecraft building set is filled with Minecraft battle action centred around protecting a barrel full of treasure
-- Minecraft toys for kids – Fans use cool weapons and launch missiles with a flick of their finger to stop illagers stealing their valuable treasure
 - Minecraft made real – LEGO Minecraft building toys for kids give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
-- Minecraft desert action – LEGO Minecraft The Illager Desert Patrol is an action-packed toy for 7+ year old boys and girls that brings the popular video game to life
-- Expand the fun – Check out the full range of LEGO Minecraft building toy sets (sold separately) for more hands-on gaming sets
+- Desert castle toy – This small LEGO Minecraft building set is filled with Minecraft battle action centred around protecting a barrel full of treasure
 - 4 LEGO Minecraft figures – Includes 3 illagers, 1 hero character and a variety of authentic accessories, including a diamond sword toy, shield and armour
+- Minecraft desert action – LEGO Minecraft The Illager Desert Patrol is an action-packed toy for 7+ year old boys and girls that brings the popular video game to life
+- Minecraft toys for kids – Fans use cool weapons and launch missiles with a flick of their finger to stop illagers stealing their valuable treasure
+- LEGO Minecraft gift for kids – This LEGO building toy is a creative gaming gift idea for 7+ year old boys and girls who are fans of the popular video game
+- Expand the fun – Check out the full range of LEGO Minecraft building toy sets (sold separately) for more hands-on gaming sets
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSFDT64{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO Icons vehicle set
-- What’s in the box? – This LEGO set for adults features an in-scale replica of the McLaren MP4/4, plus display stands and an Ayrton Senna minifigure
-- Home or office décor – Includes a McLaren MP4/4 display stand with printed statistics and a minifigure display podium with a photo and an iconic quote
-- model racing car for adults – This LEGO Icons McLaren MP4/4 & Ayrton Senna F1 model kit for adults to build is designed for fans of motorsports
-- Car gift for racing fans – Give the LEGO Icons McLaren MP4/4 & Ayrton Senna construction set as a birthday gift for men, women, him or her, an anniversary gift for a husband or wife, or a thoughtful get-well-soon present
 - More iconic features – The model car for adults also features slick tyres, mirrors, a gear stick and a detailed turbocharged V6 engine
+- Car gift for racing fans – Give the LEGO Icons McLaren MP4/4 & Ayrton Senna construction set as a birthday gift for men, women, him or her, an anniversary gift for a husband or wife, or a thoughtful get-well-soon present
+- What’s in the box? – This LEGO set for adults features an in-scale replica of the McLaren MP4/4, plus display stands and an Ayrton Senna minifigure
+- Includes digital building instructions – The LEGO Builder app features a digital version of the building instructions included with this LEGO Icons vehicle set
+- model racing car for adults – This LEGO Icons McLaren MP4/4 & Ayrton Senna F1 model kit for adults to build is designed for fans of motorsports
 - Features and functions – The LEGO Mclaren Formula One model car features working steering, rod suspension and an adjustable rear wing
+- Home or office décor – Includes a McLaren MP4/4 display stand with printed statistics and a minifigure display podium with a photo and an iconic quote
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW274ZS{{</world>}}

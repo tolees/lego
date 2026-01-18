@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - LEGO STAR WARS CHRISTMAS GIFT – This Advent calendar toy makes a fun Christmas holiday gift for 6+ year old boys, girls and older Star Wars fans
-- 9 MINI BUILD STAR WARS TOYS – A workbench, chair, tool rack, shelves, box of extra droid parts, crane and a bucket to create a droidsmith’s workshop, plus a Jawa buildable vehicle and a Christmas tree
-- LEGO STAR WARS ADVENT CALENDAR 2025 – Kids become droidsmiths like Babu Frik in the run-up to Christmas as they discover unique building toys for 6+ year old boys and girls, and create their own droid workshop
-- LEGO STAR WARS COLLECTIBLES – LEGO Star Wars building sets enable kids and adult fans to recreate classic scenes, role-play their own fantasy adventures or simply display the brick-built models
 - LEGO Star Wars characters – C-3PO and Jawa (Holiday) LEGO Star Wars minifigures, a Babu Frik figure, plus 5 LEGO droid figures: R7-A7, BD-72, a Scrap Battle Droid, BB-8 (Snowman) and a Super Battle Droid
 - 8 LEGO STAR WARS DROIDS – A Pit Droid, Gonk Droid, Buzz Droid, Medical Droid (Holiday), B2EMO, Treadwell Droid, Mouse Droid (Holiday) and a Probe Droid are also included in the building set
+- 9 MINI BUILD STAR WARS TOYS – A workbench, chair, tool rack, shelves, box of extra droid parts, crane and a bucket to create a droidsmith’s workshop, plus a Jawa buildable vehicle and a Christmas tree
 - BUILD AND PLAY – The mini builds and characters in this customisable set can be used together with other LEGO Star Wars sets (sold separately) to create unlimited stories
+- LEGO STAR WARS COLLECTIBLES – LEGO Star Wars building sets enable kids and adult fans to recreate classic scenes, role-play their own fantasy adventures or simply display the brick-built models
+- LEGO STAR WARS ADVENT CALENDAR 2025 – Kids become droidsmiths like Babu Frik in the run-up to Christmas as they discover unique building toys for 6+ year old boys and girls, and create their own droid workshop
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDZ6ZX7{{</world>}}
