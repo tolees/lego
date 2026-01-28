@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Toyota Supra speelgoed auto bouwpakket voor kinderen – deze sportwagen zit boordevol details en leuke verwijzingen voor fans van de Fast and Furious reeks, waaronder 2 NOS-flessen in de kofferbak van de LEGO auto
-- Auto speelgoed voor kinderen vanaf 9 jaar – bouw een gedetailleerde modelversie van een van de bekendste autos uit de filmgeschiedenis met deze LEGO Technic Fast and Furious Toyota Supra MK4 set
-- Samen bouwen – deze LEGO voertuigset is een ideale manier voor familie en vrienden om hun passie voor de Fast and Furious films te delen en herinneringen op te halen aan favoriete scènes
 - Een LEGO raceauto boordevol details – zet de 6-cilindermotor, de stuurinrichting, de motorkap die open kan en het afneembare Targa-dak in elkaar en speel je favoriete Fast and Furious scènes na
+- Auto speelgoed voor kinderen vanaf 9 jaar – bouw een gedetailleerde modelversie van een van de bekendste autos uit de filmgeschiedenis met deze LEGO Technic Fast and Furious Toyota Supra MK4 set
 - Leuk cadeau voor kinderen – deze set is een creatieve cadeautip voor jongens en meisjes die dol zijn op Fast and Furious of LEGO Technic autos
 - Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Samen bouwen – deze LEGO voertuigset is een ideale manier voor familie en vrienden om hun passie voor de Fast and Furious films te delen en herinneringen op te halen aan favoriete scènes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCKXP2{{</world>}}

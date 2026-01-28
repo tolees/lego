@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bigger ninja adventures – Look out for more LEGO NINJAGO toys (sets sold separately) featuring dragons, temples and vehicles
-- 2 LEGO NINJAGO minifigures – This ninja toy for kids comes with ninja Arin armed with a sword accessory and the villainous Ras with a sword accessory
-- 2 fast-paced spinner toys – Kids place Arin and Ras’s dragon spinjitzu spinners into their launchers before firing them into exciting battles
-- A universe of LEGO NINJAGO toys – An extensive collection of kids’ toys (sets sold separately) lets children escape into a fantasy world for imaginative play with their ninja heroes
 - Ninja gift idea for kids – This small LEGO set makes a fun birthday gift for 6+ year old boys, girls and young ninja fans who love adventure toys
-- Collapsible battle arena – The ninja upgrade their spinners with special golden elements, which they win by hitting and collapsing the battle arena
 - LEGO NINJAGO toy for kids – 6+ year old boys and girls can play out NINJAGO Dragons Rising season 3 scenes with the Dragon Spinjitzu Battle Pack
+- 2 fast-paced spinner toys – Kids place Arin and Ras’s dragon spinjitzu spinners into their launchers before firing them into exciting battles
+- Bigger ninja adventures – Look out for more LEGO NINJAGO toys (sets sold separately) featuring dragons, temples and vehicles
+- A universe of LEGO NINJAGO toys – An extensive collection of kids’ toys (sets sold separately) lets children escape into a fantasy world for imaginative play with their ninja heroes
+- Collapsible battle arena – The ninja upgrade their spinners with special golden elements, which they win by hitting and collapsing the battle arena
+- 2 LEGO NINJAGO minifigures – This ninja toy for kids comes with ninja Arin armed with a sword accessory and the villainous Ras with a sword accessory
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCC5Q7{{</world>}}

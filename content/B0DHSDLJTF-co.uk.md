@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A car toy with lots to explore – This set lets young builders assemble a Corvette model before playing with the vehicle and exploring its functions
 - A gift for fans of car model kits – This building set makes a great gift for 9+ year old boys and girls who love cool LEGO Technic car toys
-- Realistic features – This LEGO Corvette includes moving functions with steering, a moving 8-cylinder engine, differential and opening doors and bonnet
-- LEGO vehicle for display – This sports car toy features a vibrant colour scheme to thrill motorsport fans and makes an eye-catching display piece
-- Car toy for kids – Let 9+ year old boys and girls race into an exciting project with the LEGO Technic Chevrolet Corvette Stingray car model kit
 - An introduction to engineering – LEGO Technic buildable model sets feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
+- Realistic features – This LEGO Corvette includes moving functions with steering, a moving 8-cylinder engine, differential and opening doors and bonnet
+- Car toy for kids – Let 9+ year old boys and girls race into an exciting project with the LEGO Technic Chevrolet Corvette Stingray car model kit
+- A car toy with lots to explore – This set lets young builders assemble a Corvette model before playing with the vehicle and exploring its functions
+- LEGO vehicle for display – This sports car toy features a vibrant colour scheme to thrill motorsport fans and makes an eye-catching display piece
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDLJTF{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- This large LEGO model ship toy for kids, boys and girls aged 7+ years old makes a cool birthday gift, Christmas present for fans of big LEGO sets
 - LEGO City Arctic Explorer Ship features a large toy boat that floats on water, dinghy, ROV sub, Viking shipwreck, 7 minifigures and an orca figure
-- Kids can sail the model ship on water and use the telescopic arm of the toy crane to deploy the ROV submarine to explore the Viking shipwreck
+- Discover the intuitive LEGO Builder app where kids can zoom in, rotate models in 3D, track building progress, explore and save virtual playsets
+- Features 7 minifigures with winter clothing and diving suits, an orca whale toy and accessories: a laptop, walkie-talkie, camera and syringe
 - Includes fins, scuba tanks and a diving mask, two mugs, spanner, binoculars and an axe, a shield and a Viking helmet for endless creative play
 - This large LEGO set has lots of play opportunities, kids can launch the helicopter toy from the boat’s landing pad and deploy divers from dinghy
-- Features 7 minifigures with winter clothing and diving suits, an orca whale toy and accessories: a laptop, walkie-talkie, camera and syringe
-- This large LEGO model ship toy for kids, boys and girls aged 7+ years old makes a cool birthday gift, Christmas present for fans of big LEGO sets
-- Discover the intuitive LEGO Builder app where kids can zoom in, rotate models in 3D, track building progress, explore and save virtual playsets
+- Kids can sail the model ship on water and use the telescopic arm of the toy crane to deploy the ROV submarine to explore the Viking shipwreck
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BPCBSN89{{</world>}}

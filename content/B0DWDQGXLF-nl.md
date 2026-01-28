@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een politieboot en rubberboot van een boef te bouwen, plus minifiguren van 2 politieagenten en een boef en een figuur van een haai
 - Meer sets om te verzamelen – kinderen beleven nog meer plezier en avonturen als ze deze speelset combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een politieboot en rubberboot van een boef te bouwen, plus minifiguren van 2 politieagenten en een boef en een figuur van een haai
+- Een stad waar alles kan – LEGO City sets inspireren eindeloos fantasierijk spel met gebouwen, voertuigen en inwoners die kinderen inspireren om te bouwen, creëren, ontdekken en spelen
 - LEGO cadeau voor jongens en meisjes – geef deze set cadeau aan fans van speelgoedboten, rollenspellen en cool politie speelgoed vanaf 6 jaar
+- Accessoires voor rollenspellen – deze LEGO boot bouwset voor kinderen bevat leuke LEGO accessoires, waaronder een speelgoedrobijn, handboeien, zaklamp, keten en reddingsboei
 - LEGO politie speelgoed boordevol functies – kinderen kunnen de 2 minifiguren van agenten in de cockpit van de politieboot plaatsen, de boef in zijn cel opsluiten en zowel de rubberboot van de boef als de politieboot laten drijven voor spannend waterspel
 - Achtervolging met politieboot bouwpakket voor kinderen met speelgoed boot – kinderen van 6 jaar en ouder kunnen een duik nemen in een oceaan vol avonturen met de LEGO City Achtervolging met politieboot set
-- Een stad waar alles kan – LEGO City sets inspireren eindeloos fantasierijk spel met gebouwen, voertuigen en inwoners die kinderen inspireren om te bouwen, creëren, ontdekken en spelen
-- Accessoires voor rollenspellen – deze LEGO boot bouwset voor kinderen bevat leuke LEGO accessoires, waaronder een speelgoedrobijn, handboeien, zaklamp, keten en reddingsboei
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQGXLF{{</world>}}

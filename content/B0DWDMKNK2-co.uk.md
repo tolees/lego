@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Display model kit – Packed with details to thrill fans, the video game mech figure can be posed in different directions at the hips, arms, feet and head and comes with a sword accessory
-- LEGO Builder app – This set is available in the LEGO Builder app, where builders can zoom in and rotate models in 3D and track and save their progress
-- Collectible minifigure – Also included is a LEGO minifigure based on the same character that can be placed in the cockpit in the robot figure’s chest
-- Gift idea for gamers – This LEGO Fortnite set makes a fun piece of desk decor, and a great gift for men and women who love gaming, LEGO Fortnite and collectible model kits
-- LEGO Fortnite figure for gaming fans – Create a collectible gaming figure with this LEGO Fortnite Mecha Team Leader building set for adults
 - Discover LEGO Fortnite – Unlock new levels of creativity with our collection of LEGO Fortnite sets (sold separately) and bring the gaming adventure into the real world
+- Display model kit – Packed with details to thrill fans, the video game mech figure can be posed in different directions at the hips, arms, feet and head and comes with a sword accessory
+- LEGO Fortnite figure for gaming fans – Create a collectible gaming figure with this LEGO Fortnite Mecha Team Leader building set for adults
 - Digital bonus – This collectible LEGO set for adults includes digital bonus items: Mecha Team Leader and Mecha Team Shadow Outfits, redeemable in the LEGO Fortnite and Fortnite games
+- LEGO Builder app – This set is available in the LEGO Builder app, where builders can zoom in and rotate models in 3D and track and save their progress
+- Gift idea for gamers – This LEGO Fortnite set makes a fun piece of desk decor, and a great gift for men and women who love gaming, LEGO Fortnite and collectible model kits
+- Collectible minifigure – Also included is a LEGO minifigure based on the same character that can be placed in the cockpit in the robot figure’s chest
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDMKNK2{{</world>}}

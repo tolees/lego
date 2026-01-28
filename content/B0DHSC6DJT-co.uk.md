@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 LEGO vehicles – The set comes with a buildable toy scooter and land yacht, each with space for a mini doll and a toy dog figure, plus accessories
 - Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids can get to know the characters of Heartlake City
+- 2 LEGO vehicles – The set comes with a buildable toy scooter and land yacht, each with space for a mini doll and a toy dog figure, plus accessories
+- Cute toy pets – This set comes with Sage and Paisley mini dolls so young animal lovers can enjoy creating friendship stories each time they play
 - Kids’ gift idea – This LEGO Friends set makes a fun treat or gift for 6+ year old girls and boys who like imaginative play and creative toys
 - LEGO Friends set with accessories – Includes sunloungers, refreshment elements, a bucket, a ball and 2 helmets so kids can act out different scenes
 - LEGO Friends animal figures – This Surfing Dogs and Scooter Adventure toy for 6+ year old girls and boys comes with 2 mini dolls and 2 corgi figures
-- Cute toy pets – This set comes with Sage and Paisley mini dolls so young animal lovers can enjoy creating friendship stories each time they play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC6DJT{{</world>}}

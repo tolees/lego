@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Interactive display – Kids can quickly and easily return the minifigures to their hidden position to reassemble the buildable LEGO Avengers set
+- Buildable toys for Super Hero kids – The extensive range of LEGO Marvel sets gives kids an ever-changing universe of build-and-play Super Hero adventures
+- 3D building instructions – Kids can download the LEGO Builder app for digital tools to zoom in and rotate models in 3D, save sets and track progress
 - Marvel Avengers collectibles – Young Super Heroes can press 3 separate buttons on the top of the Marvel model to make the 5 minifigures burst out
 - MARVEL Logo & Minifigures set – Kids can recreate the famous MARVEL logo with this LEGO Marvel building toy for 12+ year old boys and girls
-- 3D building instructions – Kids can download the LEGO Builder app for digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Buildable toys for Super Hero kids – The extensive range of LEGO Marvel sets gives kids an ever-changing universe of build-and-play Super Hero adventures
 - LEGO Marvel minifigures – The buildable set contains Hulk, Thor, Iron Man, Black Widow and Captain America minifigures with fun accessories
 - Marvel-themed gift for kids – This collectible MARVEL logo buildable toy is a great gift for 12+ year old boys girls and teenagers who are fans of Super Heroes and Marvel Studios’ films
+- Interactive display – Kids can quickly and easily return the minifigures to their hidden position to reassemble the buildable LEGO Avengers set
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSCVF64{{</world>}}

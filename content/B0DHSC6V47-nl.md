@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inclusief 2 LEGO FRiends poppetjes – deze voertuigspeelset bevat de LEGO Friends personages Paisley en Elsa D voor creatief speelplezier
-- Veel accessoires voor rollenspel – jonge bouwers kunnen doen alsof ze zoete lekkernijen maken met behulp van de accessoires, waaronder ijshoorntjes en bolletjes ijs in de smaken aardbei, vanille en chocolade
 - Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
+- Inclusief 2 LEGO FRiends poppetjes – deze voertuigspeelset bevat de LEGO Friends personages Paisley en Elsa D voor creatief speelplezier
 - Bouwpakket voor kinderen met ijskar om te doen alsof – deze Heartlake City ijscotruck voor meisjes en jongens vanaf 4 jaar bevat 2 LEGO poppetjes, een speelgoed konijn dieren figuur en accessoires voor creatieve rollenspellen
 - Een cadeau voor meisjes en jongens vanaf 4 jaar – deze LEGO Friends set voor meisjes en jongens is een leuk cadeau voor de feestdagen voor kinderen die van fantasierijke verhalen houden
 - Creëer verhalen over vriendschap – deze kleuterspeelset ondersteunt de sociale ontwikkeling van kinderen door ze te inspireren om verschillende vriendschapsverhalen en klantinteracties na te spelen
+- Veel accessoires voor rollenspel – jonge bouwers kunnen doen alsof ze zoete lekkernijen maken met behulp van de accessoires, waaronder ijshoorntjes en bolletjes ijs in de smaken aardbei, vanille en chocolade
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSC6V47{{</world>}}

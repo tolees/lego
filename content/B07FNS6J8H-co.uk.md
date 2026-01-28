@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Contains 174 pieces. Ages 7+.
-- Launch the wheel rim at the alien with the catapult toy. Recreate scenes from THE LEGO MOVIE 2 with this fun-packed creative toy.
 - Includes a new-for-January-2019 Emmet minifigure, plus a brick-built alien invader with a chomping mouth and rotating eye. Emmet’s Thricycle features a minifigure seat, 3 rubber tires, foldout stabilizers and Emmet’s best friend Planty (brick-built).
+- Launch the wheel rim at the alien with the catapult toy. Recreate scenes from THE LEGO MOVIE 2 with this fun-packed creative toy.
+- Contains 174 pieces. Ages 7+.
 - Easy-to-build fuel station features a toy gas pump with a hose, wheel-rim catapult function and a parking spot for the Thricycle. Fold out the Thricycles stabilizers so it can stand on its own.
 - Emmet’s Thricycle construction vehicle toy measures over 6” (16cm) high, 2” (7cm) long and 1” (3cm) wide. Fuel station measures over 2” (7cm) high, 4” (11cm) wide and 3” (9cm) deep.
 

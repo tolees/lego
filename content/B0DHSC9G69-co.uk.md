@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- WHATS IN THE BOX? – This toddler learning toy includes 10 buildable race car toys representing each of the Formula 1 teams, plus 3 driver bricks, a crane toy, starting lights and a podium
-- ROLE-PLAY TOYS – The customisable cars come in authentic colours and are decorated with Formula 1 logos so toddlers can recreate exciting F1 race scenarios
 - F1 TOY CARS – Transport kids to the world of Formula 1 with the F1 Team Race Cars & Drivers building toy for 2+ year old boys and girls
+- ROLE-PLAY TOYS – The customisable cars come in authentic colours and are decorated with Formula 1 logos so toddlers can recreate exciting F1 race scenarios
 - MORE F1 RACE ACTION – Look out for other LEGO Formula 1 construction sets (sold separately) to build, display and race with the whole family
-- GIFTS FOR TODDLERS – Celebrate the start of the F1 season with a creative toy that makes a fun birthday gift for 2+ year old boys and girls who love building with LEGO DUPLO bricks
+- WHATS IN THE BOX? – This toddler learning toy includes 10 buildable race car toys representing each of the Formula 1 teams, plus 3 driver bricks, a crane toy, starting lights and a podium
 - CRANE TOY ELEVATES THE FUN – Kids recreate the excitement of a pitstop and develop fine motor skills by attaching the toy cars to the hook to raise them for a speedy inspection
+- GIFTS FOR TODDLERS – Celebrate the start of the F1 season with a creative toy that makes a fun birthday gift for 2+ year old boys and girls who love building with LEGO DUPLO bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC9G69{{</world>}}

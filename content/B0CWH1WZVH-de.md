@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO ǀ Disney Bauset für Erwachsene: Simba, der junge König der Löwen ist ein tolles Geschenk für einen erwachsenen Fan von Der König der Löwen. Oder belohne dich selbst mit diesem Bauspielzeug und schwelge in Nostalgie
 - Bauspaß: Dieses LEGO Bauset zum Sammeln bietet erwachsenen Fans eine entspannende Aktivität und ein anspruchsvolles Bauprojekt. Das Set lässt dich einen attraktiven Hingucker erschaffen, der dein Zuhause schmückt
-- Ein fesselndes Erlebnis: Die LEGO Builder App lässt dich jeden Schritt deines Projekts genießen und 3D-Ansichten deines Modells drehen und vergrößern, deinen Baufortschritt verfolgen und all deine Sets an einem Ort speichern
-- Feiere einen Meilenstein der Filmgeschichte: Zur Feier des 30-jährigen Jubiläums von Der König der Löwen beinhaltet dieses König der Löwen Spielzeug für Erwachsene eine Simba-Figur (mit beweglichem Kopf) in einer klassischen Pose
 - Disney Geschenk für Erwachsene: Die Simba-Tierfigur hat einen beweglichen Kopf und ist ein tolles Modell zum Ausstellen für nostalgische Filmfans oder eine schöne Belohnung für erwachsene Disney Fans wie dich
+- Feiere einen Meilenstein der Filmgeschichte: Zur Feier des 30-jährigen Jubiläums von Der König der Löwen beinhaltet dieses König der Löwen Spielzeug für Erwachsene eine Simba-Figur (mit beweglichem Kopf) in einer klassischen Pose
+- LEGO ǀ Disney Bauset für Erwachsene: Simba, der junge König der Löwen ist ein tolles Geschenk für einen erwachsenen Fan von Der König der Löwen. Oder belohne dich selbst mit diesem Bauspielzeug und schwelge in Nostalgie
 - Kreatives Projekt: Diese LEGO ǀ Disney Tierfigur stellt Simba mit beweglichem Kopf dar. Freu dich auf ein gemeinsames Projekt mit einem jüngeren Baumeister, der das separat erhältliche Pendant für Kinder – Simba, das Löwenjunge des Königs – baut
+- Ein fesselndes Erlebnis: Die LEGO Builder App lässt dich jeden Schritt deines Projekts genießen und 3D-Ansichten deines Modells drehen und vergrößern, deinen Baufortschritt verfolgen und all deine Sets an einem Ort speichern
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1WZVH{{</world>}}

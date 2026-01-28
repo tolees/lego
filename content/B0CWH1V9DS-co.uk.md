@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Collapsing walls, a catapult, rotating throne, hidden Action Tags and more
-- Nintendo character toy playset for kids featuring Peach’s castle
 - 3 LEGO Super Mario toy figures: Roy, a Chain Chomp and Toad
+- Nintendo character toy playset for kids featuring Peach’s castle
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1V9DS{{</world>}}

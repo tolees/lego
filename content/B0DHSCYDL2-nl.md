@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ga helemaal op in de wereld van bouwen – geniet van elke stap van het bouwproces met de LEGO Builder app, waarmee je kunt inzoomen en het model in 3D kunt draaien, je voortgang kunt bijhouden en al je sets op één plek kunt opslaan
-- Een Formule 1 auto op 1:8 schaal met levensechte kenmerken – beleef de spanning van het F1 seizoen terwijl je de realistische functies van de LEGO auto bekijkt, waaronder de ophanging, de stuurinrichting en een verstelbare spoiler
-- F1 auto bouwpakket voor volwassenen – neem de polepositie met deze LEGO Technic Ferrari SF-24 F1 auto set voor volwassenen, boordevol functies voor F1 fans
-- Een LEGO Technic auto voor F1 fans – deze LEGO Ferrari set is een leuk cadeau voor Kerstmis voor alle F1-fans die van uitdagende projecten houden en een leuke traktatie voor jezelf als je je eigen F1 auto wilt bouwen en houdt van spannende F1 races
-- LEGO raceauto met gedetailleerde motor en versnellingsbak – verwijder de motorkap om de versnellingsbak met 2 versnellingen van de LEGO Technic auto en de V6-motor met draaiende MGU-H te bekijken
-- Met trots neerzetten als F1 decoratie – deze versie van de Ferrari SF-24 F1 auto is een geweldig pronkstuk voor elke kamer in huis of kantoor en viert je passie voor de F1; ideaal als kerstdecoratie of decoratie voor een andere gelegenheid
 - LEGO voor volwassenen – ontdek technische concepten en geniet van een ontspannend bouwproject met de LEGO Technic voertuig sets voor volwassenen
+- Met trots neerzetten als F1 decoratie – deze versie van de Ferrari SF-24 F1 auto is een geweldig pronkstuk voor elke kamer in huis of kantoor en viert je passie voor de F1; ideaal als kerstdecoratie of decoratie voor een andere gelegenheid
+- Een LEGO Technic auto voor F1 fans – deze LEGO Ferrari set is een leuk cadeau voor Kerstmis voor alle F1-fans die van uitdagende projecten houden en een leuke traktatie voor jezelf als je je eigen F1 auto wilt bouwen en houdt van spannende F1 races
+- Een Formule 1 auto op 1:8 schaal met levensechte kenmerken – beleef de spanning van het F1 seizoen terwijl je de realistische functies van de LEGO auto bekijkt, waaronder de ophanging, de stuurinrichting en een verstelbare spoiler
+- LEGO raceauto met gedetailleerde motor en versnellingsbak – verwijder de motorkap om de versnellingsbak met 2 versnellingen van de LEGO Technic auto en de V6-motor met draaiende MGU-H te bekijken
+- F1 auto bouwpakket voor volwassenen – neem de polepositie met deze LEGO Technic Ferrari SF-24 F1 auto set voor volwassenen, boordevol functies voor F1 fans
+- Ga helemaal op in de wereld van bouwen – geniet van elke stap van het bouwproces met de LEGO Builder app, waarmee je kunt inzoomen en het model in 3D kunt draaien, je voortgang kunt bijhouden en al je sets op één plek kunt opslaan
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCYDL2{{</world>}}

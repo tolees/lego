@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Meer razendsnelle F1 actie – kijk ook eens naar de andere LEGO Formule 1 bouwsets (apart verkrijgbaar) om met het hele gezin te bouwen, te racen en te bewonderen
-- LEGO F1 speelgoedgarage met autos – geef jongens en meisjes vanaf 7 jaar de spanning van Formule 1 racen in handen met de LEGO City F1 garage met Mercedes-AMG en Alpine autos bouwpakket voor kinderen
 - Een F1 auto model om onderweg mee te spelen – de F1 speelgoed garage heeft een praktisch handvat en kan worden opengevouwen om een werkplaats te onthullen waar kinderen op een hendel kunnen drukken om de F1 raceautos te lanceren
-- LEGO F1 voertuigset met een digitale bouwgids – inclusief instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden en tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
 - Een wereld waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met speelgoedvoertuigen, gebouwen en personages die hen inspireren om te bouwen, creëren, ontdekken en spelen
-- Auto speelgoed voor 7 jaar en ouder – verras je jonge racer met deze LEGO City F1 speelset, een geweldig verjaardags- of kerstcadeau voor jongens en meisjes vanaf 7 jaar of volwassenen fans van F1 races
 - Wat zit er in de doos? – inclusief een garage voor speelgoed autos met werkbanken, gereedschaps- en laskarren, een stapel gladde banden en 2 F1 raceautos, plus een trofee voor de winnaar en minifiguren van 2 coureurs en 4 monteurs
+- LEGO F1 speelgoedgarage met autos – geef jongens en meisjes vanaf 7 jaar de spanning van Formule 1 racen in handen met de LEGO City F1 garage met Mercedes-AMG en Alpine autos bouwpakket voor kinderen
+- LEGO F1 voertuigset met een digitale bouwgids – inclusief instructies in de LEGO Builder app, waarmee kinderen sets kunnen opslaan, hun voortgang kunnen bijhouden en tijdens het bouwen kunnen inzoomen en modellen in 3D kunnen draaien
+- Auto speelgoed voor 7 jaar en ouder – verras je jonge racer met deze LEGO City F1 speelset, een geweldig verjaardags- of kerstcadeau voor jongens en meisjes vanaf 7 jaar of volwassenen fans van F1 races
+- Meer razendsnelle F1 actie – kijk ook eens naar de andere LEGO Formule 1 bouwsets (apart verkrijgbaar) om met het hele gezin te bouwen, te racen en te bewonderen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSB1HF3{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
 - Barrel accessory – The LEGO Technic set comes with a barrel accessory, which kids can pick up using the submarine’s extending grabbing arm
+- An introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
 - A gift for kids – This creative toy makes a fun birthday gift for 9+ year old boys, girls and kids who are interested in submarines and deep-sea exploration
-- A helping hand – Discover intuitive instructions in the LEGO Builder app - kids can zoom in and rotate models in 3D, track progress and save sets
 - Realistic features – This creative building toy features rotating propellers and a grabbing arm to help kids explore how submarines work
-- Submarine toy set for kids – Let young science fans create their own deep-sea adventures with this LEGO Technic Deep-Sea Research Submarine toy
 - Opening cockpit for imaginative play – The transparent cockpit of the toy submarine opens to give access to the seat and controls
+- Submarine toy set for kids – Let young science fans create their own deep-sea adventures with this LEGO Technic Deep-Sea Research Submarine toy
+- A helping hand – Discover intuitive instructions in the LEGO Builder app - kids can zoom in and rotate models in 3D, track progress and save sets
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSFG8F3{{</world>}}

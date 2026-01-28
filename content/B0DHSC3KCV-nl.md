@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Super Mario cadeau voor kinderen – geef deze set cadeau aan jongens, meisjes en gamers vanaf 8 jaar; een van de sets 71439, 71440 of 71441 (apart verkrijgbaar) is vereist voor interactief spelen
-- 4 Mario Kart personages om te verzamelen – dit LEGO bouwpakket voor kinderen wordt geleverd met speelgoedfiguren van Baby Peach, Lakitu, Lemmy en een Toad, plus diverse accessoires voor avontuurlijke rollenspellen
-- Aanpasbaar speelgoed voor kinderen – de set bevat Wiggler-quad, Flitsfregat en Standaardmotor voertuigen die schilden kunnen lanceren, Toads snoepkar, een startpoort, Lakitus wolk en een winnaarspodium
-- Extra speelmogelijkheden – bekijk het volledige assortiment LEGO Super Mario: Mario Kart sets (apart verkrijgbaar) en ontdek andere bouwbare Mario Kart speelgoedvoertuigen en personages om tegen te racen
 - Stimuleer de verbeelding – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spelen
+- 4 Mario Kart personages om te verzamelen – dit LEGO bouwpakket voor kinderen wordt geleverd met speelgoedfiguren van Baby Peach, Lakitu, Lemmy en een Toad, plus diverse accessoires voor avontuurlijke rollenspellen
+- Extra speelmogelijkheden – bekijk het volledige assortiment LEGO Super Mario: Mario Kart sets (apart verkrijgbaar) en ontdek andere bouwbare Mario Kart speelgoedvoertuigen en personages om tegen te racen
+- Aanpasbaar speelgoed voor kinderen – de set bevat Wiggler-quad, Flitsfregat en Standaardmotor voertuigen die schilden kunnen lanceren, Toads snoepkar, een startpoort, Lakitus wolk en een winnaarspodium
 - Interactief speelplezier – plaats LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) in de speelgoed voertuigen, op de actietags van andere bouwwerken of op de 2 voorwerpkisten voor digitale reacties
 - Cadeau met Nintendo personages – bouw een Mario Kart baan en voertuigen, race naar de overwinning en neem even pauze voor een ijsje met deze LEGO Super Mario: Mario Kart – Baby Peach en grand prix-set voor kinderen
+- LEGO Super Mario cadeau voor kinderen – geef deze set cadeau aan jongens, meisjes en gamers vanaf 8 jaar; een van de sets 71439, 71440 of 71441 (apart verkrijgbaar) is vereist voor interactief spelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC3KCV{{</world>}}

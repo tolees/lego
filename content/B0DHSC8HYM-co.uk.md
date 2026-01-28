@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Authentic details – This LEGO Star Wars buildable starfighter toy has a swing-wing function to adjust the wings from landing mode into ‘V’ formation for flight
 - Explore the range – Collectible LEGO Star Wars sets (sold separately) enable kids and adult Star Wars fans to relive classic scenes, create their own stories or simply display the buildable models
 - A fun way to build – Using the LEGO Builder app, kids can zoom, rotate and visualise a digital version of this construction model as they build, track their progress and save sets
 - Authentic details – The LEGO Star Wars building set features a starfighter with a swing‑wing function that shifts the wings from landing mode to a ‘V formation for flight
-- Authentic details – This LEGO Star Wars buildable starfighter toy has a swing-wing function to adjust the wings from landing mode into ‘V’ formation for flight
 - 4 LEGO Star Wars characters – Cassian Andor and Dedra Meero LEGO minifigures, each with a blaster pistol, and an ISB Tactical Agent LEGO minifigure and a K-2SO LEGO droid figure, each with a blaster
 
 [🛒 Buy it now!!]({{< param buyurl >}})

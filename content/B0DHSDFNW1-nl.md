@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - LEGO Marvel Spider-Man mecha vs. Anti-Venom – dit bouwbare speelgoed voor kinderen bestaat uit een grote mecha en 2 minifiguren, waarmee jongens en meisjes vanaf 6 jaar kunnen genieten van eindeloos superheldenplezier
-- Spider-Man cadeau voor jongens en meisjes – deze LEGO bouwset is een leuke cadeautip voor jongens en meisjes die fan zijn van de Spider-Man films, superheldenavonturen en grootschalige mecha-actie
-- Spider-Man bouwfiguur – de LEGO Marvel mecha heeft beweegbare armen, benen en vingers en de borstkas kan open en bevat een cockpit waar de Spider-Man minifiguur in past
 - Spider-Man bouwpakket voor kinderen – dit superhelden speelgoed voor 6 jaar en ouder om zelf te bouwen wordt geleverd met minifiguren van Spider-Man en Anti-Venom, plus accessoires voor fantasierijke rollenspellen
 - Bouwbaar kinderspeelgoed voor jonge superhelden – het uitgebreide assortiment LEGO Marvel bouwsets biedt kinderen een steeds veranderend universum vol superheldenavonturen om te bouwen en te spelen
-- Meer LEGO mecha en minifiguren – er zijn nog veel meer LEGO sets met superhelden (apart verkrijgbaar) die kinderen kunnen verzamelen en combineren om de fantasierijke speelmogelijkheden uit te breiden
+- Spider-Man bouwfiguur – de LEGO Marvel mecha heeft beweegbare armen, benen en vingers en de borstkas kan open en bevat een cockpit waar de Spider-Man minifiguur in past
 - LEGO bouwset voor superheldenavonturen – kinderen kunnen een groot, flexibel web gebruiken dat in de hand van de mecha past om de minifiguur van Anti-Venom te vangen
+- Spider-Man cadeau voor jongens en meisjes – deze LEGO bouwset is een leuke cadeautip voor jongens en meisjes die fan zijn van de Spider-Man films, superheldenavonturen en grootschalige mecha-actie
+- Meer LEGO mecha en minifiguren – er zijn nog veel meer LEGO sets met superhelden (apart verkrijgbaar) die kinderen kunnen verzamelen en combineren om de fantasierijke speelmogelijkheden uit te breiden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDFNW1{{</world>}}

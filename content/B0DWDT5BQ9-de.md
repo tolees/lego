@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Funktionsreiche Ritterburg: Die LEGO Ritterburg bietet viele Spielmöglichkeiten mit Zugbrücke, Schatztruhe, Schmiede, Stall und aufklappbarer Rückwand
-- Digitale Bauunterstützung: Mit der LEGO Builder App erleben Kinder ein kreatives Bauabenteuer, verfolgen ihren Fortschritt und erkunden das Konstruktionsspielzeug in 3D
 - Vielseitige LEGO Creator Spielzeuge: Die separat erhältlichen LEGO Creator-Sets bieten kreativen Bauspaß mit Tieren, Fahrzeugen oder einem LEGO Schloss
-- Rollenspiel in der Ritterwelt: Ritterburg, Turnierplatz und Stadt laden zu Abenteuern mit Ritterfiguren ein; die Modelle lassen sich abwechselnd bauen und fantasievoll bespielen
-- Mittelalterliche Ritterfiguren: Mit 6 Minifiguren und 2 Pferden lädt das Set zu spannenden Abenteuern im LEGO Mittelalter ein – vom König bis zum Schlangenritter
+- Digitale Bauunterstützung: Mit der LEGO Builder App erleben Kinder ein kreatives Bauabenteuer, verfolgen ihren Fortschritt und erkunden das Konstruktionsspielzeug in 3D
 - Mittelalterlicher 3-in-1-Bauspaß: Mit der LEGO Creator 3-in-1 Ritterburg bauen Kinder ein LEGO Schloss, einen Turnierplatz oder eine Stadt im LEGO Mittelalter
 - Abenteuerliches Kinder Geschenk: Dieses LEGO Creator 3-in-1-Set begeistert Kinder, die Rittergeschichten lieben, und eignet sich wunderbar als Geschenk für Mädchen und Jungen
+- Mittelalterliche Ritterfiguren: Mit 6 Minifiguren und 2 Pferden lädt das Set zu spannenden Abenteuern im LEGO Mittelalter ein – vom König bis zum Schlangenritter
+- Rollenspiel in der Ritterwelt: Ritterburg, Turnierplatz und Stadt laden zu Abenteuern mit Ritterfiguren ein; die Modelle lassen sich abwechselnd bauen und fantasievoll bespielen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDT5BQ9{{</world>}}

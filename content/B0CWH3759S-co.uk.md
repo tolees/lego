@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - LEGO Minecraft building set – Fans can enjoy hands-on exploration of a fortress and forest with LEGO Minecraft The Wolf Stronghold toy for 8+ year old boys and girls
 - 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- LEGO Minecraft gift for kids – This LEGO building toy is a creative gaming gift idea for 8+ year old boys and girls who are fans of the popular video game
-- Minecraft castle toy – The entrance to the Wolf Tamer’s base features a large, buildable wolf’s head with a face that kids can quickly switch from friendly to angry
 - Expand the fun – Check out the full range of LEGO Minecraft building toy sets (sold separately) for even more ways to play
 - Creative Minecraft toy for kids – This LEGO set features fun items from the video game including a Minecraft crafting table, blast furnace, anvil and a smithing table
 - LEGO Minecraft figures – Also included in this fortress playset are a LEGO Minecraft Wolf Tamer character, 2 skeleton figures and 2 wolf toys
+- LEGO Minecraft gift for kids – This LEGO building toy is a creative gaming gift idea for 8+ year old boys and girls who are fans of the popular video game
+- Minecraft castle toy – The entrance to the Wolf Tamer’s base features a large, buildable wolf’s head with a face that kids can quickly switch from friendly to angry
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3759S{{</world>}}

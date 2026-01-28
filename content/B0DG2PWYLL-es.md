@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mejora de efectos posteriores
-- Mapas de sombras de alta resolución
-- Incluye todos los DLCs anteriores
-- Resolución nativa 4K; retroalimentación háptica
 - 60 fps
+- Resolución nativa 4K; retroalimentación háptica
+- Mejora de efectos posteriores
+- Incluye todos los DLCs anteriores
+- Mapas de sombras de alta resolución
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DG2PWYLL{{</world>}}

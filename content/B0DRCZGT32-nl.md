@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- In-game bonusitem – de set wordt geleverd met een extra Island Adventure Peely outfit om te gebruiken in het LEGO Fortnite spel die bouwers kunnen inwisselen door de QR-code op de bouwinstructies te scannen
+- LEGO Builder app – instructies voor deze set zijn beschikbaar in de LEGO Builder app, waarmee bouwers kunnen inzoomen, sets kunnen draaien en hun voortgang kunnen bijhouden
 - 2 LEGO Fortnite minifiguren – inclusief minifiguren van Island Adventure Peely en Oro, die op de rug van Klombo kunnen worden bevestigd om fantasierijke rollenspellen te stimuleren
 - LEGO Fortnite game speelgoed voor kinderen – moedig kinderen aan om een bekend personage uit de Fortnite videogame na te bouwen met deze LEGO Fortnite Klombo bouwset voor jongens en meisjes vanaf 10 jaar
 - Ontdek LEGO Fortnite sets – bereik een nieuw niveau van creativiteit met onze collectie LEGO Fortnite bouwsets (apart verkrijgbaar) en breng de avonturen uit de game naar de echte wereld
-- LEGO Builder app – instructies voor deze set zijn beschikbaar in de LEGO Builder app, waarmee bouwers kunnen inzoomen, sets kunnen draaien en hun voortgang kunnen bijhouden
-- Klombo figuur – kinderen kunnen de speelgoed dieren figuur bouwen voordat ze de beweegbare poten, openende bek en draaibare staart ontdekken
-- In-game bonusitem – de set wordt geleverd met een extra Island Adventure Peely outfit om te gebruiken in het LEGO Fortnite spel die bouwers kunnen inwisselen door de QR-code op de bouwinstructies te scannen
 - Cadeau voor gamers – dit bouwpakket is een geweldig cadeau voor kinderen die van speelgoed dieren houden en voor gamers en LEGO Fortnite fans van alle leeftijden
+- Klombo figuur – kinderen kunnen de speelgoed dieren figuur bouwen voordat ze de beweegbare poten, openende bek en draaibare staart ontdekken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DRCZGT32{{</world>}}

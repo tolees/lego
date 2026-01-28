@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 2 minifiguren van coureurs – elk bouwbaar LEGO voertuig wordt geleverd met een minifiguur van een coureur in een Mercedes-AMG outfit, zodat kinderen razendsnelle races kunnen naspelen
-- Leuk cadeau voor kinderen – deze Mercedes-AMG autospeelset biedt een leuke bouw- en speelervaring en is een leuk cadeau voor jongens en meisjes vanaf 10 jaar of volwassen verzamelaars
-- Mercedes-AMG auto speelgoed voor kinderen – LEGO Speed Champions Mercedes-AMG G 63 en Mercedes-AMG SL 63 voertuig speelgoed set voor jongens en meisjes vanaf 10 jaar en volwassen verzamelaars van automodellen
-- Authentiek Mercedes-AMG design – elk verzamelmodel heeft designdetails van de echte versie, waaronder grilles aan de voorkant, motorkappen, wielen, interieurkenmerken en de beroemde Mercedes-AMG uitstraling
-- Displaymodellen – nadat kinderen urenlang hebben gespeeld met de 2 LEGO speelgoed autos, kunnen de voertuigen op een plank of nachtkastje worden neergezet als fraaie kinderkamerdecoratie
 - Bouwbare speelgoed autos om mee te spelen en neer te zetten – met LEGO Speed Champions auto sets kunnen kinderen en autoliefhebbers replicas bouwen van een aantal van de bekendste voertuigen ter wereld
+- Leuk cadeau voor kinderen – deze Mercedes-AMG autospeelset biedt een leuke bouw- en speelervaring en is een leuk cadeau voor jongens en meisjes vanaf 10 jaar of volwassen verzamelaars
 - Grotere race-avonturen – ontdek nog veel meer bouwbare LEGO Speed Champions auto bouwpakketten voor kinderen en volwassenen met realistische details (apart verkrijgbaar)
+- Displaymodellen – nadat kinderen urenlang hebben gespeeld met de 2 LEGO speelgoed autos, kunnen de voertuigen op een plank of nachtkastje worden neergezet als fraaie kinderkamerdecoratie
+- Mercedes-AMG auto speelgoed voor kinderen – LEGO Speed Champions Mercedes-AMG G 63 en Mercedes-AMG SL 63 voertuig speelgoed set voor jongens en meisjes vanaf 10 jaar en volwassen verzamelaars van automodellen
+- 2 minifiguren van coureurs – elk bouwbaar LEGO voertuig wordt geleverd met een minifiguur van een coureur in een Mercedes-AMG outfit, zodat kinderen razendsnelle races kunnen naspelen
+- Authentiek Mercedes-AMG design – elk verzamelmodel heeft designdetails van de echte versie, waaronder grilles aan de voorkant, motorkappen, wielen, interieurkenmerken en de beroemde Mercedes-AMG uitstraling
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH3J5D6{{</world>}}

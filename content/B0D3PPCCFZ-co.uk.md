@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Harry Potter toy – Welcome kids into the Wizarding World adventures with this model of Harry Potter’s pet owl Hedwig at 4 Privet Drive
-- LEGO Harry Potter animal toy featuring a Hedwig figure – Young fans recreate an iconic Harry Potter film scene with this posable owl figure
-- Playful accessories – Includes a buildable trunk with a portrait of Harry Potter and his parents, an A History of Magic book and a wand in its case
 - LEGO Harry Potter toy for kids – The first-ever LEGO model of the Hogwarts Castle Owlery where Harry Potter invited Cho Chang to the Yule Ball
-- Small treat toy for kids – This compact set offers a rewarding build for Harry Potter fans who are new to LEGO building toys
 - Detailed building toy for kids – The Owler is a tower with window ledges for the owls to perch on, an owl statue and accessories for owl care
 - 3 LEGO Harry Potter characters – Cho Chang, Argus Filch and Harry Potter LEGO minifigures, plus 5 different owl toy figures, including Pigwidgeon
 - 1 of 14 collectible Hogwarts portraits – Includes a gold-coloured element printed with 1 of 14 random Hogwarts portraits to display in the Owlery
+- Playful accessories – Includes a buildable trunk with a portrait of Harry Potter and his parents, an A History of Magic book and a wand in its case
+- Small treat toy for kids – This compact set offers a rewarding build for Harry Potter fans who are new to LEGO building toys
+- LEGO Harry Potter toy – Welcome kids into the Wizarding World adventures with this model of Harry Potter’s pet owl Hedwig at 4 Privet Drive
+- LEGO Harry Potter animal toy featuring a Hedwig figure – Young fans recreate an iconic Harry Potter film scene with this posable owl figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D3PPCCFZ{{</world>}}

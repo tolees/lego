@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Birthday gift for kids – This LEGO NINJAGO set makes a fun gift for 4+ year old boys, girls and fans of the LEGO NINJAGO Dragons Rising TV show
 - Discover more action toys for kids – Look out for other NINJAGO building toy playsets (sold separately) featuring dragons, mechs and ninja legends
-- Introduction to building with LEGO bricks – LEGO 4+ sets help youngsters learn how to build while allowing the rest of the family to share in the fun
+- Learn-to-build ninja toy for kids – 4+ year old boys and girls can discover the joy of LEGO building with this Ninja Spinjitzu Temple playset
+- Birthday gift for kids – This LEGO NINJAGO set makes a fun gift for 4+ year old boys, girls and fans of the LEGO NINJAGO Dragons Rising TV show
 - Detailed ninja temple – Features a toy teahouse, a weapons training area, a small garden and a tournament stage with 2 turning battle plates
 - 4 LEGO NINJAGO minifigures – The set features Ninja warriors Zane, Nya, Kai and Lloyd minifigures, plus a Baby Riyu dragon toy
-- Learn-to-build ninja toy for kids – 4+ year old boys and girls can discover the joy of LEGO building with this Ninja Spinjitzu Temple playset
 - Ninja accessories – This role-play toy set includes ninja weapons: 2 swords and 3 staffs, as well as a hammer, a bird, a frog, a trophy and more!
+- Introduction to building with LEGO bricks – LEGO 4+ sets help youngsters learn how to build while allowing the rest of the family to share in the fun
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDC4QB{{</world>}}

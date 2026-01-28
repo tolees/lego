@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 1 NINJAGO minifiguur – de LEGO set bevat een minifiguur van Meester Wu met een staf
-- Boordevol details uit de Monsterlijk serie – de displaystandaard van de Drakenbewaker bevat een vijver, een zwevend magisch speelgoed zwaard, lantaarnelementen en een poort voor het vertellen van ninjaverhalen
 - Een leuke bouwervaring – de LEGO Builder app begeleidt kinderen op een intuïtief bouwavontuur: ze kunnen sets opslaan, hun voortgang bijhouden, inzoomen en hun modellen in 3D draaien tijdens het bouwen
-- Cadeau voor jongens, meisjes en NINJAGO fans – deze speelset biedt een boeiende bouwervaring en is een geweldig cadeau voor fans van de NINJAGO Monsterlijk tv-serie
-- NINJAGO draak speelgoed voor kinderen – oudere NINJAGO fans kunnen hun verzameling LEGO NINJAGO modellen uitbreiden met het De Drakenbewaker bouwpakket voor kinderen
+- 1 NINJAGO minifiguur – de LEGO set bevat een minifiguur van Meester Wu met een staf
 - Verstelbare LEGO draak – ninjafans kunnen de kop, poten en schubben van de NINJAGO draak met stoffen vleugels in verschillende posities zetten nadat ze hem op een plank of nachtkastje hebben neergezet als kinderkamer decoratie
+- NINJAGO draak speelgoed voor kinderen – oudere NINJAGO fans kunnen hun verzameling LEGO NINJAGO modellen uitbreiden met het De Drakenbewaker bouwpakket voor kinderen
+- Cadeau voor jongens, meisjes en NINJAGO fans – deze speelset biedt een boeiende bouwervaring en is een geweldig cadeau voor fans van de NINJAGO Monsterlijk tv-serie
+- Boordevol details uit de Monsterlijk serie – de displaystandaard van de Drakenbewaker bevat een vijver, een zwevend magisch speelgoed zwaard, lantaarnelementen en een poort voor het vertellen van ninjaverhalen
 - Een universum vol ninja speelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
 
 [🛒 Buy it now!!]({{< param buyurl >}})

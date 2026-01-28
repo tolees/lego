@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lamborghini Huracan Super Trofeo EVO
-- Enthält 70 Teile, einschließlich Rückzugmotor
-- LEGO Speed Champions Polybag-Set
 - Kleines Sammlerstück, nicht unbedingt als Geschenk für Kinder geeignet
+- Lamborghini Huracan Super Trofeo EVO
+- LEGO Speed Champions Polybag-Set
+- Enthält 70 Teile, einschließlich Rückzugmotor
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B084CWBTCV{{</world>}}

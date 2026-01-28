@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Discover LEGO Fortnite sets – Bring the gaming adventure into the real world with more LEGO Fortnite building sets (sold separately), great for creative play, gaming displays and cool desk decor
 - Fortnite figure with play features – Kids can build Klombo and explore its movable legs, opening mouth and rotating tail, then feed it Klomberries from the bush to make friends
-- Fortnite gift for fans – A great gaming gift for 10+ year old boys and girls who love the Fortnite video game, creative building toys and LEGO minifigures featuring iconic characters
-- Bonus in-game item – Features a redeemable QR code for a bonus Fortnite Island Adventure Peely Outfit in the LEGO Fortnite video game, adding digital fun to the brick-building adventure
 - Buildable Fortnite toy for 10+ year old boys and girls – Build the iconic Klombo figure with this fun LEGO building set for gamers, collectors and fans
-- 2 LEGO Fortnite minifigures – Includes Island Adventure Peely and Oro minifigures that attach to Klombo’s back, sparking imaginative role play
+- Bonus in-game item – Features a redeemable QR code for a bonus Fortnite Island Adventure Peely Outfit in the LEGO Fortnite video game, adding digital fun to the brick-building adventure
+- Fortnite gift for fans – A great gaming gift for 10+ year old boys and girls who love the Fortnite video game, creative building toys and LEGO minifigures featuring iconic characters
+- Discover LEGO Fortnite sets – Bring the gaming adventure into the real world with more LEGO Fortnite building sets (sold separately), great for creative play, gaming displays and cool desk decor
 - LEGO Builder app – Digital instructions are available in the LEGO Builder app to allow builders to zoom, rotate and track their LEGO Fortnite model in 3D as they build
+- 2 LEGO Fortnite minifigures – Includes Island Adventure Peely and Oro minifigures that attach to Klombo’s back, sparking imaginative role play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DRCZGT32{{</world>}}

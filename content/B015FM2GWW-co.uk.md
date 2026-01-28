@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IQ - Lego LE51513 3 Pack Gel Pens Assorted Colours'
-date: 2026-01-26 07:03:58
+date: 2026-01-28 08:13:03
 image: 'https://m.media-amazon.com/images/I/31ZYib9W-ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: 'IQ'
 buyurl: 'https://www.amazon.co.uk/dp/B015FM2GWW/?tag=tolees0a-21'
 descuento: '24.35'
-average: '7.94499999999999'
+average: '7.9090909090909'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

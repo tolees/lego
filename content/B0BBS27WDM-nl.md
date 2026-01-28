@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dit LEGO Disney Princess kasteel bouwspeelgoed bevat Belle en Assepoester minipoppetjes, plus alles wat kinderen nodig hebben om verschillende kastelen te maken
 - Bevat Lumière uit Disneys Belle en het Beest en Assepoesters Gus LEGO figuren, plus accessoires, zoals een kam, spiegel, keukengerei en meer
-- LEGO Disney Princess bouwsets stimuleren de fantasie van kinderen bij het naspelen van bekende verhalen uit de films of het bedenken van nieuwe avonturen
-- Deze Disney bouwset bevat 140 LEGO stenen om aparte prinsessenkastelen voor Belle en Assepoester, 1 groter speelgoed kasteel of eigen unieke kasteelcreaties te maken
 - Dit draagbare reisspeelgoed wordt geleverd in een handige opbergdoos die kinderen kunnen gebruiken om hun stenen in op te bergen en mee te nemen voor onderweg
+- Dit LEGO Disney Princess kasteel bouwspeelgoed bevat Belle en Assepoester minipoppetjes, plus alles wat kinderen nodig hebben om verschillende kastelen te maken
+- Deze Disney bouwset bevat 140 LEGO stenen om aparte prinsessenkastelen voor Belle en Assepoester, 1 groter speelgoed kasteel of eigen unieke kasteelcreaties te maken
+- LEGO Disney Princess bouwsets stimuleren de fantasie van kinderen bij het naspelen van bekende verhalen uit de films of het bedenken van nieuwe avonturen
 - Inclusief 2 instructiegidsen die kinderen alleen of met vrienden en familie laten spelen en bouwen terwijl ze belangrijke sociale vaardigheden ontwikkelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

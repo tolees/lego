@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- F1 plezier voor het hele gezin – race samen met het hele gezin om de geblokte vlag met andere bouwsets (apart verkrijgbaar) uit de LEGO F1 serie
 - 1 F1 coureur minifiguur – de LEGO voertuig set bevat een minifiguur van een Formule 1 coureur in een RB outfit met een helm die bouwers in de cockpit kunnen plaatsen om spannende race-actie na te spelen
-- RB Formule 1 auto bouwpakket voor volwassenen – LEGO Speed Champions Visa Cash App RB VCARB 01 F1 racewagen set voor volwassenen, F1 fans en fans van het RB F1 raceteam
-- F1 decoratie – nadat je hebt genoten van een lonende bouwervaring kun je dit RB F1 automodel met trots neerzetten als kantoor decoratie of woonaccessoire
 - LEGO auto boordevol authentieke RB details – deze LEFO F1 racewagen heeft ontwerpdetails van de echte versie uit 2024, waaronder sponsorstickers, een halo en bredere achterbanden met Pirelli erop gedrukt
-- Formule 1 cadeau voor hem of haar – deze F1 merchandise is een geweldig cadeau voor hem of haar, F1 fans en fans van het RB F1 raceteam die willen genieten van een lonend project
+- RB Formule 1 auto bouwpakket voor volwassenen – LEGO Speed Champions Visa Cash App RB VCARB 01 F1 racewagen set voor volwassenen, F1 fans en fans van het RB F1 raceteam
 - Bouw en zet iconische LEGO voertuigen neer – met Speed Champions sets kunnen autoliefhebbers van stenen gebouwde versies maken van een aantal van de meest beroemde voertuigen ter wereld
+- Formule 1 cadeau voor hem of haar – deze F1 merchandise is een geweldig cadeau voor hem of haar, F1 fans en fans van het RB F1 raceteam die willen genieten van een lonend project
+- F1 plezier voor het hele gezin – race samen met het hele gezin om de geblokte vlag met andere bouwsets (apart verkrijgbaar) uit de LEGO F1 serie
+- F1 decoratie – nadat je hebt genoten van een lonende bouwervaring kun je dit RB F1 automodel met trots neerzetten als kantoor decoratie of woonaccessoire
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHS9JVGJ{{</world>}}

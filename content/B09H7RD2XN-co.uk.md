@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Packaged in clear polybag
 - Choking Hazard for Children 5 and under.
-- Very small.
 - Authentic LEGO figure.
+- Very small.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09H7RD2XN{{</world>}}

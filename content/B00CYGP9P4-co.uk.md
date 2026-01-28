@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- FUN GIFT FOR TODDLERS – Kids can have fun while learning through play with this building toy, which makes a great birthday gift for 2+ year old girls and boys who love cute animal toys
-- LEGO GARDEN – The LEGO DUPLO Town Creative Garden & Flowers stacking toy for 2+ year old girls and boys encourages open-ended imaginative play
-- TOYS FOR PLAYING AND LEARNING – LEGO DUPLO construction toys help little ones make sense of the world around them as they build and play with their parents and caregivers
 - EDUCATIONAL TOY – Great for Montessori, the assortment of LEGO DUPLO bricks depicts numbers, flowers and animals so kids can have fun recreating the world they see around them
-- DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this toddler toy, which has been highly tested to ensure a safe play experience
 - 3 ANIMAL FIGURES – This nature toy for toddlers comes with 3 LEGO DUPLO insect and animal figures: a frog, butterfly toy and a bee
+- DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this toddler toy, which has been highly tested to ensure a safe play experience
+- TOYS FOR PLAYING AND LEARNING – LEGO DUPLO construction toys help little ones make sense of the world around them as they build and play with their parents and caregivers
+- LEGO GARDEN – The LEGO DUPLO Town Creative Garden & Flowers stacking toy for 2+ year old girls and boys encourages open-ended imaginative play
+- FUN GIFT FOR TODDLERS – Kids can have fun while learning through play with this building toy, which makes a great birthday gift for 2+ year old girls and boys who love cute animal toys
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00CYGP9P4{{</world>}}

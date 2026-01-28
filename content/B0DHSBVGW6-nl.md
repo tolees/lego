@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Magisch Harry Potter speelgoed voor fantasierijke rollenspelen – speelse details zijn onder andere een vallende kroonluchter, de bekende lange tafel in de salon, een cel om Harry Potter in op te sluiten en 2 trappen
-- Het huis van Draco Malfidus – bouwers maken de toegangspoort, de gedetailleerde architectuur van het huis en de kamers na, waaronder de salon, Dracos slaapkamer, de kelder, keuken en badkamer
-- Tovenaarsspeelgoed – beleef betoverende scènes uit Harry Potter en de Relieken van de Dood opnieuw met het allereerste LEGO Harry Potter Villa Malfidus model
-- Intuïtieve instructies – de LEGO Builder app begeleidt kinderen tijdens een intuïtief bouwavontuur met functies waarmee ze kunnen inzoomen, modellen kunnen draaien in 3D, sets kunnen opslaan en hun voortgang kunnen bijhouden
-- 10 Harry Potter personages – met minifiguren van Harry Potter, Narcissa Malfidus, Hermelien Griffel, Bellatrix van Detta, Draco Malfidus, Lucius Malfidus, Loena Leeflang, Heer Voldemort en Dobby, plus een speelgoedfiguur van Nagini
-- Harry Potter cadeau voor kinderen vanaf 10 jaar – deze speel- en displayset is een magisch cadeau voor jongens, meisjes en superfans van de Tovenaarswereld
 - Harry Potter verzamelset – deze set maakt deel uit van een collectie LEGO Harry Potter bouwspeelgoed waarmee fans bekende scènes kunnen naspelen, hun eigen verhalen kunnen bedenken en de modellen op een mooi plekje kunnen neerzetten
+- Het huis van Draco Malfidus – bouwers maken de toegangspoort, de gedetailleerde architectuur van het huis en de kamers na, waaronder de salon, Dracos slaapkamer, de kelder, keuken en badkamer
+- Intuïtieve instructies – de LEGO Builder app begeleidt kinderen tijdens een intuïtief bouwavontuur met functies waarmee ze kunnen inzoomen, modellen kunnen draaien in 3D, sets kunnen opslaan en hun voortgang kunnen bijhouden
+- Tovenaarsspeelgoed – beleef betoverende scènes uit Harry Potter en de Relieken van de Dood opnieuw met het allereerste LEGO Harry Potter Villa Malfidus model
+- Magisch Harry Potter speelgoed voor fantasierijke rollenspelen – speelse details zijn onder andere een vallende kroonluchter, de bekende lange tafel in de salon, een cel om Harry Potter in op te sluiten en 2 trappen
+- Harry Potter cadeau voor kinderen vanaf 10 jaar – deze speel- en displayset is een magisch cadeau voor jongens, meisjes en superfans van de Tovenaarswereld
+- 10 Harry Potter personages – met minifiguren van Harry Potter, Narcissa Malfidus, Hermelien Griffel, Bellatrix van Detta, Draco Malfidus, Lucius Malfidus, Loena Leeflang, Heer Voldemort en Dobby, plus een speelgoedfiguur van Nagini
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBVGW6{{</world>}}

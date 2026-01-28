@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Aanpasbare actiefiguur voor kinderen – Kais elementaire vuurmecha is ninja speelgoed voor jongens en meisjes vanaf 7 jaar dat kan worden gecombineerd met 2 andere mecha (apart verkrijgbaar) dankzij de afneembare benen, armen en borst
-- Meer aanpasbare mecha – kinderen kunnen onderdelen van Kais mecha omwisselen en combineren met Coles elementaire aardemecha (71806) en Soras elementaire techmecha (71807) (apart verkrijgbaar)
-- Ninja cadeau voor kinderen – dit speelgoed biedt een leuke bouw- en speelervaring en is een cadeautip voor elke dag voor kinderen die graag verhalen boordevol actie naspelen
-- 4 NINJAGO minifiguren – de set bevat NINJAGO Kai, Zane en Jordana, ieder met een zwaard, en een Wolvenmasker strijder, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
-- Verstelbare figuur – Kais mecha heeft verstelbare armen en benen die naar alle kanten kunnen worden gedraaid en een groot gouden zwaard voor rollenspel confrontaties met een Wolvenmecha
 - Bouw je eigen mechapak – kinderen kunnen genieten van urenlang creatief speelplezier terwijl ze onderdelen van dit ninjaspeelgoed (sets apart verkrijgbaar) combineren om hun eigen LEGO NINJAGO mech te creëren
+- Aanpasbare actiefiguur voor kinderen – Kais elementaire vuurmecha is ninja speelgoed voor jongens en meisjes vanaf 7 jaar dat kan worden gecombineerd met 2 andere mecha (apart verkrijgbaar) dankzij de afneembare benen, armen en borst
 - Een universum vol ninjaspeelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
+- Verstelbare figuur – Kais mecha heeft verstelbare armen en benen die naar alle kanten kunnen worden gedraaid en een groot gouden zwaard voor rollenspel confrontaties met een Wolvenmecha
+- 4 NINJAGO minifiguren – de set bevat NINJAGO Kai, Zane en Jordana, ieder met een zwaard, en een Wolvenmasker strijder, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
+- Ninja cadeau voor kinderen – dit speelgoed biedt een leuke bouw- en speelervaring en is een cadeautip voor elke dag voor kinderen die graag verhalen boordevol actie naspelen
+- Meer aanpasbare mecha – kinderen kunnen onderdelen van Kais mecha omwisselen en combineren met Coles elementaire aardemecha (71806) en Soras elementaire techmecha (71807) (apart verkrijgbaar)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPLZ5{{</world>}}

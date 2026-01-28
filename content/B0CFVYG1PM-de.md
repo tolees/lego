@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Noch mehr Superhelden-Spaß: Entdecke auch die weiteren separat erhältlichen LEGO Marvel Baufiguren zum Sammeln aus dieser Reihe
-- Geschenk für Fans der Marvel Filme: Dieser baubare Superschurke ist ein tolles Geschenk für Kinder, die Superhelden-Action und das Spider-Man Universum lieben
-- Authentisches Zubehör: Green Goblin kann auf seinen Gleiter gesteckt werden und 2 Kürbisbomben halten, die auch ins Staufach hinten im Gleiter passen
-- Viele Spielmöglichkeiten: Diese Marvel Superschurken-Baufigur zum Sammeln und Ausstellen bietet jungen Superhelden großen Bau- und Spielspaß
-- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
-- Superschurken-Baufigur für junge Superhelden: Die LEGO Marvel Green Goblin Baufigur lässt Jungen und Mädchen ab 8 Jahren Marvel Actionabenteuer mit den eigenen Händen darstellen
 - Bewegliche Baufigur: Dank beweglicher Gelenke an Schultern, Armen, Hüften und Beinen können Kinder Green Goblin in coole Actionposen bringen und in viele aufregende Abenteuer schicken
+- Noch mehr Superhelden-Spaß: Entdecke auch die weiteren separat erhältlichen LEGO Marvel Baufiguren zum Sammeln aus dieser Reihe
+- Superschurken-Baufigur für junge Superhelden: Die LEGO Marvel Green Goblin Baufigur lässt Jungen und Mädchen ab 8 Jahren Marvel Actionabenteuer mit den eigenen Händen darstellen
+- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
+- Authentisches Zubehör: Green Goblin kann auf seinen Gleiter gesteckt werden und 2 Kürbisbomben halten, die auch ins Staufach hinten im Gleiter passen
+- Geschenk für Fans der Marvel Filme: Dieser baubare Superschurke ist ein tolles Geschenk für Kinder, die Superhelden-Action und das Spider-Man Universum lieben
+- Viele Spielmöglichkeiten: Diese Marvel Superschurken-Baufigur zum Sammeln und Ausstellen bietet jungen Superhelden großen Bau- und Spielspaß
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVYG1PM{{</world>}}

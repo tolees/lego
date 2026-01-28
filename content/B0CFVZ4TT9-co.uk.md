@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Storytelling accessories – This musical toys set comes with toy microphones, drinks, cupcakes, a present, chocolate, flowers, tickets and balloons
-- Fun karaoke singing toy – LEGO Friends Karaoke Music Party toy for 6+ year old girls, boys and kids features 2 mini-dolls and a pet gecko figure
+- Revolving stage – This kids’ building kit features a revolving toy stage so kids can pretend play the friendship story of Liann’s birthday party
 - A gift idea for kids – This set makes a great Christmas gift for 6+ year old girls, boys and kids who love singing toys and musical pretend play
 - 2 mini-dolls – With LEGO Friends characters Nova and Liann, and additional faces, plus a pet gecko figure, so the creative play starts right away
-- Revolving stage – This kids’ building kit features a revolving toy stage so kids can pretend play the friendship story of Liann’s birthday party
+- Storytelling accessories – This musical toys set comes with toy microphones, drinks, cupcakes, a present, chocolate, flowers, tickets and balloons
+- Fun karaoke singing toy – LEGO Friends Karaoke Music Party toy for 6+ year old girls, boys and kids features 2 mini-dolls and a pet gecko figure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ4TT9{{</world>}}

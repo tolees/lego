@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Prikkel de verbeelding – LEGO Super Mario speelsets staan voor rollenspel, digitaal munten verzamelen en leuke uitdagingen doordat ze uit te breiden en om te bouwen zijn. Ze zijn ideaal om alleen of juist samen mee te spel
-- Avontuurlijke speelset – het LEGO spookhuis kan worden geopend om mee te spelen en bevat een opstijgende sofa, een boekenkast waarin een sleutel is verstopt, een muntenblok, een schatkistblok en een sleutelblok
-- LEGO Super Mario spookhuisset voor kinderen – verken King Boos spookhuis, neem het op tegen griezelige vijanden en ga op zoek naar de sleutel van de schatkist met deze Nintendo game set
-- Interactief digitaal speelplezier – help LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) de sleutel van de schatkist te vinden, King Boo van de tafel op de binnenplaats te gooien en nog veel meer
 - Een helpende hand – download de bijbehorende LEGO Super Mario app voor bouwinstructies, creatieve tips en meer. Ga naar LEGO.com/devicecheck voor een lijst met compatibele Android- en iOS-apparaten
+- Interactief digitaal speelplezier – help LEGO Mario, LEGO Luigi of LEGO Peach (figuren niet inbegrepen) de sleutel van de schatkist te vinden, King Boo van de tafel op de binnenplaats te gooien en nog veel meer
+- Avontuurlijke speelset – het LEGO spookhuis kan worden geopend om mee te spelen en bevat een opstijgende sofa, een boekenkast waarin een sleutel is verstopt, een muntenblok, een schatkistblok en een sleutelblok
 - Inclusief 4 LEGO Super Mario speelgoed figuren – King Boo, een gele Baby Yoshi, een Dry Bones en een Boo
+- LEGO Super Mario spookhuisset voor kinderen – verken King Boos spookhuis, neem het op tegen griezelige vijanden en ga op zoek naar de sleutel van de schatkist met deze Nintendo game set
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2368G{{</world>}}

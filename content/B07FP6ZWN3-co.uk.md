@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Activate the pullback motor to experience the ideal power of thisPolice Pursuit vehicle
-- Check out the blue, white and black colour scheme with cool police stickers
-- This play vehicle is ideal for budding LEGO Technic builders, improving handeye coordination and sparking imaginative play
 - Build an ideal police vehicle with a powerful pullback motor, red and blue warning beacons, aerodynamic front bumper, large rear spoiler and wide black rims with low profile tires
 - Bring on the 42090 Getaway Truck pullback and let the chase begin or combine with the 42090 Getaway Truck to create the ideal Ultimate 4 x 4 combi model
+- This play vehicle is ideal for budding LEGO Technic builders, improving handeye coordination and sparking imaginative play
+- Check out the blue, white and black colour scheme with cool police stickers
+- Activate the pullback motor to experience the ideal power of thisPolice Pursuit vehicle
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07FP6ZWN3{{</world>}}

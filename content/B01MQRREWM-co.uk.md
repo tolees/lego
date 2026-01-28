@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3 DISNEY FIGURES – Kids explore the castle from the Disney Junior Ariel TV show with LEGO DUPLO Disney figures of Ariel, Fernie and Sebastian
 - THE LITTLE MERMAID GIFT FOR TODDLERS – This colourful building toy is a fun Disney-themed gift for 2+ year old girls and boys who love creative toys and the Disney Junior Ariel TV show
-- EDUCATIONAL TOYS – LEGO DUPLO Disney building sets support your little ones emotional and developmental learning through fun-filled, creative playtimes
-- BUILDABLE DISNEY CASTLE TOY – Toddlers enjoy undersea construction fun with the LEGO DUPLO Disney Ariel’s Magical Underwater Palace toy for 2+ year old girls and boys
 - TODDLER LEARNING TOYS – Kids hone their fine motor skills using fun functions such as the spinning toy dancefloor and the movable swing
+- BUILDABLE DISNEY CASTLE TOY – Toddlers enjoy undersea construction fun with the LEGO DUPLO Disney Ariel’s Magical Underwater Palace toy for 2+ year old girls and boys
 - FUN ACCESSORIES INCLUDED – In the bedroom, ballroom and play area are elements to spark stories, such as a brush, camera, guitar, pitcher and a plate
+- EDUCATIONAL TOYS – LEGO DUPLO Disney building sets support your little ones emotional and developmental learning through fun-filled, creative playtimes
+- 3 DISNEY FIGURES – Kids explore the castle from the Disney Junior Ariel TV show with LEGO DUPLO Disney figures of Ariel, Fernie and Sebastian
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MQRREWM{{</world>}}

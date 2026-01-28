@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Entwicklungsförderndes Motorik-Spielzeug für Vorschulkinder: Wenn Kleinkinder die Seilwinde drehen, den Propeller anwerfen, die Türen aufklappen und unterschiedliche Raumfahrzeuge bauen, entwickeln sie Fingerfertigkeit und Kreativität
-- Weck die Neugier deines Kleinkinds: LEGO DUPLO Bausets helfen Kleinkindern, Fähigkeiten fürs ganze Leben zu entwickeln und besonders einfallsreich zu spielen – sogar im Weltraum
 - Mit Leuchtstein: Der faszinierende Leuchtstein (Batterien liegen bei) sorgt für visuelle Effekte und verleiht dem Spielerlebnis mit dieser LEGO Rakete eine weitere Dimension
 - Vielfältiger Inhalt der Box: Diverse bunte DUPLO Steine und Zubehörelemente sowie ein Alien und 2 LEGO DUPLO Astronaut-Figuren lassen Kleinkinder unzählige Weltraumabenteuer erfinden und darstellen
+- Entwicklungsförderndes Motorik-Spielzeug für Vorschulkinder: Wenn Kleinkinder die Seilwinde drehen, den Propeller anwerfen, die Türen aufklappen und unterschiedliche Raumfahrzeuge bauen, entwickeln sie Fingerfertigkeit und Kreativität
 - Weltraum-Geschenk für Vorschulkinder: Dieses LEGO Raketen-Spielzeug für Kinder ist ein tolles Geschenk für Weltraum-Fans, die kreative Rollenspiele lieben; verschenke es als Geburtstags- oder Weihnachtsgeschenk an kleine Astronauten ab 3 Jahren
 - LEGO Raumschiff-Spielzeug zum Bauen und Umbauen: Das LEGO DUPLO 3-in-1-Spaceshuttle für viele Abenteuer ist ein Weltraum-Spielzeug für kleine Astronauten ab 3 Jahren, die sich für die Raumfahrt begeistern
+- Weck die Neugier deines Kleinkinds: LEGO DUPLO Bausets helfen Kleinkindern, Fähigkeiten fürs ganze Leben zu entwickeln und besonders einfallsreich zu spielen – sogar im Weltraum
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW1YT9C{{</world>}}

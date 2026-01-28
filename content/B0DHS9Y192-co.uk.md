@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO McLaren display model – After kids have enjoyed playing out racing stories with the F1 car toy, they can display it on a shelf or bedside table
-- 1 minifigure – The building toy includes a driver minifigure in a McLaren outfit and helmet, ready to be placed inside the vehicles cockpit
 - LEGO car set for kids and adults – The LEGO Speed Champions McLaren F1 Team MCL38 Race Car toy for 10+ year old boys, girls and motorsport fans
+- LEGO McLaren display model – After kids have enjoyed playing out racing stories with the F1 car toy, they can display it on a shelf or bedside table
 - F1 fun for all the family – Race for the checkered flag alongside the whole family with other building toys (sold separately) in the LEGO F1 range
+- 1 minifigure – The building toy includes a driver minifigure in a McLaren outfit and helmet, ready to be placed inside the vehicles cockpit
+- Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
 - F1 gift idea – Enjoy spending some quality time building with dad with this F1 toy car, which makes a thoughtful Fathers Day gift
 - Authentic details – A McLaren F1 car toy with 2024 design features like a halo bar, rear wing, sponsor stickers, and wider rear tyres with “Pirelli”
-- Build iconic car models – LEGO Speed Champions sets let kids and car lovers create brick-built versions of some of the world’s most famous vehicles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHS9Y192{{</world>}}

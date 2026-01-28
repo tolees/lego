@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Faszinierende Funktionen: Eine Lok mit einer Drehscheibe, die man mithilfe eines Hebels kreisen lässt, und mit einem Superstern-Block, ein Personenwagen mit abnehmbarem Dach und ?-Block sowie ein Kanonen-Waggon mit Shooter (mit Federmechanismus)
+- Die LEGO Super Mario Begleit-App: Lade dir die App herunter, um dir unter anderem Bauanleitungen, Tipps und tolle Bau- und Spielideen zu holen; Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
+- Interaktives digitales Spielerlebnis: Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figur nicht enthalten), den Spielzeugzug auf der Draisine zu verfolgen, alle Gegner zu besiegen und den Zug in den Bahnhof einfahren zu lassen
 - Abenteuer-Spielset mit 6 LEGO Super Mario Figuren: Ein Hammer-Bruder, ein Bumm Bumm, 2 Gumbas und 2 Parapünktchen laden zum Spielen ein
 - Der Bowser-Schnellzug – ein faszinierendes Bauspielzeug: Dieses LEGO Super Mario Spielset beinhaltet einen detailreichen Zug, 2 Bahnhöfe und eine Draisine für viele spannende Rollenspiele
-- Die LEGO Super Mario Begleit-App: Lade dir die App herunter, um dir unter anderem Bauanleitungen, Tipps und tolle Bau- und Spielideen zu holen; Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
 - Weck die Fantasie deines Kindes: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige packende Herausforderungen zu bieten und Kinder (auch miteinander) auf spannende Münzsammelmissionen zu schicken
-- Interaktives digitales Spielerlebnis: Hilf LEGO Mario, LEGO Luigi oder LEGO Peach (Figur nicht enthalten), den Spielzeugzug auf der Draisine zu verfolgen, alle Gegner zu besiegen und den Zug in den Bahnhof einfahren zu lassen
-- Faszinierende Funktionen: Eine Lok mit einer Drehscheibe, die man mithilfe eines Hebels kreisen lässt, und mit einem Superstern-Block, ein Personenwagen mit abnehmbarem Dach und ?-Block sowie ein Kanonen-Waggon mit Shooter (mit Federmechanismus)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1QW3K{{</world>}}

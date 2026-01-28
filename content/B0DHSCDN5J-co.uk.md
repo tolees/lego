@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Encanto building toy – Features an opening house with key, Mirabel and Antonio LEGO ǀ Disney micro doll figures and a capybara Disney animal figure
+- Disney gift for kids – This LEGO building set featuring 3 Disney Princess characters and an opening house makes a fun birthday gift for 5+ year old girls and boys
 - LEGO | Disney house – This Encanto building toy for 5+ year old girls and boys features a model of the Madrigal house and 3 Disney characters
 - Mini dolls house display – After the days play is over, kids can create a magical display with buildable Encanto house and everything tucked inside
-- Disney gift for kids – This LEGO building set featuring 3 Disney Princess characters and an opening house makes a fun birthday gift for 5+ year old girls and boys
-- Encanto building toy – Features an opening house with key, Mirabel and Antonio LEGO ǀ Disney micro doll figures and a capybara Disney animal figure
-- Fun functions – Kids can lock and unlock the Encanto house with the key, then open the front door to head inside, and drop the slide from the balcony
 - LEGO ǀ Disney play – Check out other sets in the extensive assortment of LEGO ǀ Disney building toys (sold separately) in the range
+- Fun functions – Kids can lock and unlock the Encanto house with the key, then open the front door to head inside, and drop the slide from the balcony
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCDN5J{{</world>}}

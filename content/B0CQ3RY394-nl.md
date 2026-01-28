@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Minions speelgoed voor kinderen – inclusief accessoires uit de film, waaronder sambaballen, een fruithoed, een hoofdpropeller, een walkietalkie, een megafoon, een ukelele en een scheetkanon
-- Minions cadeau – dit leuke kinderspeelgoed is een creatief verjaardagscadeau voor kinderen en alle fans van Minions personages, filmspeelgoed en de Illuminations Verschrikkelijke ikke reeks
-- Minions rollenspellen speelgoed – kinderen bouwen een Gru figuur met beweegbare armen, handen en vingers en 5 Minion personages met opvallende accessoires, beweegbare hoofden en verstelbare ogen
-- 3D bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets te bewaren en hun voortgang bij te houden
-- Om mee te spelen en neer te zetten – kinderen plaatsen Gru in hun favoriete houdingen en draaien de zittende Minion Mel om de anderen rond hun baas te laten dansen
-- Meer Minions speelgoed voor kinderen – er zijn nog meer LEGO Verschrikkelijke ikke 4 speelsets (apart verkrijgbaar) voor kinderen die Minions spulletjes verzamelen en sets willen combineren
 - Gru figuur en dansende Minions – LEGO Verschrikkelijke ikke 4 Bouwbare Gru en Minions is bouwbaar speelgoed om mee te spelen en neer te zetten voor jongens en meisjes vanaf 9 jaar die fan zijn van de Minions films
+- Minions speelgoed voor kinderen – inclusief accessoires uit de film, waaronder sambaballen, een fruithoed, een hoofdpropeller, een walkietalkie, een megafoon, een ukelele en een scheetkanon
+- Minions rollenspellen speelgoed – kinderen bouwen een Gru figuur met beweegbare armen, handen en vingers en 5 Minion personages met opvallende accessoires, beweegbare hoofden en verstelbare ogen
+- Meer Minions speelgoed voor kinderen – er zijn nog meer LEGO Verschrikkelijke ikke 4 speelsets (apart verkrijgbaar) voor kinderen die Minions spulletjes verzamelen en sets willen combineren
+- Minions cadeau – dit leuke kinderspeelgoed is een creatief verjaardagscadeau voor kinderen en alle fans van Minions personages, filmspeelgoed en de Illuminations Verschrikkelijke ikke reeks
+- Om mee te spelen en neer te zetten – kinderen plaatsen Gru in hun favoriete houdingen en draaien de zittende Minion Mel om de anderen rond hun baas te laten dansen
+- 3D bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets te bewaren en hun voortgang bij te houden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CQ3RY394{{</world>}}

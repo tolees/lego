@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 2 LEGO Friends Minifiguren: Mit den beiden Mini-Puppen Paisley und Aliya können Kinder verschiedene Situationen und Interaktionen nachspielen, indem sich die beiden Freundinnen Filme in Paisleys Garten anschauen
 - Spiele deine liebsten Freundschaftsabenteuer nach: Die verschiedenen LEGO Friends Spielzeuge und Sets lassen Kinder unterschiedliche Freundschaftsmomente und fantasievolle Geschichten darstellen
-- Spielzeug für Kinder: LEGO Friends Filmabend mit Freunden beinhaltet 2 Mini-Puppen für fantasievolle Rollenspiele; Das Set ist ein tolles Geschenk für Mädchen und Jungen ab 6 Jahren
-- Spannendes Zubehör für Rollenspiele: Das LEGO Friends Spielzeug kommt mit spannenden Accessoires - ein Projektor mit Leuchtstein (Batterie liegt bei), 2 Dias mit Filmmotiven, 2 Getränke, 2 baubare Sitzsäcke, eine Popcornschachtel und ein Comic-Heft
 - Geschenkidee für ebenso kreative wie fantasievolle Rollenspiele: Dieses Spielset ist ein tolles Geschenk für Mädchen, Jungen und Filmfans ab 6 Jahren; egal ob zum Geburtstag, zur Einschulung oder einfach so
 - Noch mehr Spaß mit der Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - Tolles Kinderspielzeug für Filmeabende: Das Spielset kommt mit einem einen Mini-Projektor und 2 Dias; Wenn Kinder ein Dia in den Projektor stecken und auf den Leuchtstein drücken, erscheint ein Bild auf der großen Leinwand
-- 2 LEGO Friends Minifiguren: Mit den beiden Mini-Puppen Paisley und Aliya können Kinder verschiedene Situationen und Interaktionen nachspielen, indem sich die beiden Freundinnen Filme in Paisleys Garten anschauen
+- Spannendes Zubehör für Rollenspiele: Das LEGO Friends Spielzeug kommt mit spannenden Accessoires - ein Projektor mit Leuchtstein (Batterie liegt bei), 2 Dias mit Filmmotiven, 2 Getränke, 2 baubare Sitzsäcke, eine Popcornschachtel und ein Comic-Heft
+- Spielzeug für Kinder: LEGO Friends Filmabend mit Freunden beinhaltet 2 Mini-Puppen für fantasievolle Rollenspiele; Das Set ist ein tolles Geschenk für Mädchen und Jungen ab 6 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDJTNDT{{</world>}}

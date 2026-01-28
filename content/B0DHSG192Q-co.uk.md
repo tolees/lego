@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Animal Crossing characters – The role-play toy features LEGO minifigures of Mabel the hedgehog and Sasha the rabbit, plus lots of accessories
 - Creative toy – Includes modular baseplates to change the layout of the set and even swap parts with other LEGO Animal Crossing sets, sold separately
-- Imaginative play – The building toy for kids includes a workshop area and rack of clothes, plus a garden build with a peach tree and pond
 - LEGO Animal Crossing gift – Delight fans of the video game and creative kids with this detailed building kit, which makes a great birthday or special-occasion gift for 6 plus year old girls and boys
-- Shop toy for fun fashion role play – Girls, boys and fans of Animal Crossing can recreate scenes with the Able Sisters Clothing Shop building set
-- Shop toy accessories – This playset includes a cap, sunglasses, 1 pair of trousers, 2 jumpers, a bag, scissors and a sewing machine mini build
 - Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video games, which encourage kids to use their storytelling skills even when on a screen break
+- Shop toy accessories – This playset includes a cap, sunglasses, 1 pair of trousers, 2 jumpers, a bag, scissors and a sewing machine mini build
+- Animal Crossing characters – The role-play toy features LEGO minifigures of Mabel the hedgehog and Sasha the rabbit, plus lots of accessories
+- Shop toy for fun fashion role play – Girls, boys and fans of Animal Crossing can recreate scenes with the Able Sisters Clothing Shop building set
+- Imaginative play – The building toy for kids includes a workshop area and rack of clothes, plus a garden build with a peach tree and pond
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSG192Q{{</world>}}

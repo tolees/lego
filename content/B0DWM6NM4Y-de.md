@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bauspiel-Set für Nintendo Fans: Baue Mario in seinem legendären Standard-Kart und erwecke den Videospielklassiker zum Leben – ein Mario-Kart-Sammlermodell mit kultiger Rennwagen-Figur zum Ausstellen und Feiern deiner Gaming-Leidenschaft
-- LEGO Builder App: Lade dir die App mit Bauanleitungen für Bauspielzeug für Männer und Frauen und coolen Funktionen herunter; in der App kannst du beim Bauen unter anderem eine digitale 3D-Ansicht deines Nintendo-Modells vergrößern, drehen und den Baufortschritt speichern
-- Originelle Mario-Kart-Dekoration: Die bewegliche Rennfahrer-Figur sitzt im baubaren Kart, das auf dem Ständer so positioniert werden kann, als würde es mit voller Geschwindigkeit durchs Ziel rasen – tolle Gaming-Deko zum Ausstellen
 - Kreatives Bauspielzeug für Erwachsene: Ob LEGO Fan oder Neueinsteiger – dieses Modell-Bauset bietet eine spannende Herausforderung; dank der Schritt-für-Schritt-Anleitung gelingt der Bau ganz einfach
 - Kreative Auszeit für Erwachsene: Der Modellbau ist toll für alle, die beim Bauen abschalten, den Alltag vergessen und ihre Leidenschaft für Gaming und ikonische Nintendo-Figuren ausleben möchten
-- Gamer-Sammelstück zum Ausstellen: Dieses LEGO Baumodell für Erwachsene mit Mario-Kart-Figur und Kart wertet jedes Regal, Büro oder Gamer-Zimmer auf
+- Originelle Mario-Kart-Dekoration: Die bewegliche Rennfahrer-Figur sitzt im baubaren Kart, das auf dem Ständer so positioniert werden kann, als würde es mit voller Geschwindigkeit durchs Ziel rasen – tolle Gaming-Deko zum Ausstellen
+- LEGO Builder App: Lade dir die App mit Bauanleitungen für Bauspielzeug für Männer und Frauen und coolen Funktionen herunter; in der App kannst du beim Bauen unter anderem eine digitale 3D-Ansicht deines Nintendo-Modells vergrößern, drehen und den Baufortschritt speichern
+- Bauspiel-Set für Nintendo Fans: Baue Mario in seinem legendären Standard-Kart und erwecke den Videospielklassiker zum Leben – ein Mario-Kart-Sammlermodell mit kultiger Rennwagen-Figur zum Ausstellen und Feiern deiner Gaming-Leidenschaft
 - Geschenkidee für Gamer: Dieser Super-Mario-Fanartikel mit Rennfahrer-Figur ist ein originelles Geschenk für Männer, die Videospiele lieben; das Bauset ist toll zum Sammeln, Ausstellen oder Verschenken
+- Gamer-Sammelstück zum Ausstellen: Dieses LEGO Baumodell für Erwachsene mit Mario-Kart-Figur und Kart wertet jedes Regal, Büro oder Gamer-Zimmer auf
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWM6NM4Y{{</world>}}

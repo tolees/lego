@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Disney-themed gift idea – This detailed building kit makes a fun gift for 9+ year old girls and boys who love dress-up play and Disney Princess dolls
-- Buildable Disney toys – Fans build Cinderella’s dress and stand, play with Disney Princess characters, then display the dress after play
-- Disney building toys – This Cinderella’s Dress buildable toy for 9+ year old girls and boys sparks creativity as kids build the dress and stand
 - Disney figures and more – A buildable dress with stands, 2 secret rooms and space for a Cinderella LEGO ǀ Disney mini doll and Gus animal figure
-- Fun extras – The stand holds LEGO ǀ Disney Princess mini doll in a hidden space and can be customised with extra elements like a profile tile
 - Disney building toys – With a LEGO Cinderella mini doll, a buildable dress and a display stand, this set fosters a love for fashion and life skills through play
 - A helping hand – Discover intuitive instructions in the LEGO Builder app with tools to zoom in and rotate models in 3D, track progress and save sets
+- Disney building toys – This Cinderella’s Dress buildable toy for 9+ year old girls and boys sparks creativity as kids build the dress and stand
+- Disney-themed gift idea – This detailed building kit makes a fun gift for 9+ year old girls and boys who love dress-up play and Disney Princess dolls
+- Fun extras – The stand holds LEGO ǀ Disney Princess mini doll in a hidden space and can be customised with extra elements like a profile tile
+- Buildable Disney toys – Fans build Cinderella’s dress and stand, play with Disney Princess characters, then display the dress after play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSG1KRN{{</world>}}
