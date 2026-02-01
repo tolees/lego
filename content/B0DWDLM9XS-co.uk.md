@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Building set for adult Marvel fans – The Iron Spider-Man Bust is a collectible build-and-display set for experienced model-makers and adult Super Hero enthusiasts
-- Authentically detailed – The realistic recreation of the celebrated Marvel character features a rotatable head and comes with a LEGO Marvel Iron Spider-Man minifigure
+- Super Hero display piece – Comes with 2 interchangeable bases incorporating a name plaque: one with space for the detachable LEGO Marvel Iron Spider-Man minifigure and one without
 - High-quality instructions – A coffee-table-style guide provides step-by-step building instructions, design details and more, and the LEGO Builder app includes a digital version of the same guide
 - LEGO Marvel gift for adults – This build-and-display building set makes a fun Avengers-themed gift for men and women who are fans of Spider-Man and buildable movie memorabilia
-- More building sets for adults – This model kit is one of a collection of Super Hero busts (each sold separately) and part of a wider range of rewarding and immersive LEGO Sets for Adults
-- Super Hero display piece – Comes with 2 interchangeable bases incorporating a name plaque: one with space for the detachable LEGO Marvel Iron Spider-Man minifigure and one without
 - DIY Iron Spider-Man suit – This model kit features Spider-Man wearing his Iron Man armour complete with 2 movable mechanical arms
+- Building set for adult Marvel fans – The Iron Spider-Man Bust is a collectible build-and-display set for experienced model-makers and adult Super Hero enthusiasts
+- More building sets for adults – This model kit is one of a collection of Super Hero busts (each sold separately) and part of a wider range of rewarding and immersive LEGO Sets for Adults
+- Authentically detailed – The realistic recreation of the celebrated Marvel character features a rotatable head and comes with a LEGO Marvel Iron Spider-Man minifigure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDLM9XS{{</world>}}

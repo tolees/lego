@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Robustheit
 - Hochwertige material
+- Robustheit
 - Langlebigkeit
 - Die besten Produkte
 

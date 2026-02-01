@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Sammlermodell eines LEGO Rennwagens für Erwachsene: LEGO Icons McLaren MP4/4 & Ayrton Senna ist ein Bauprojekt für Motorsportfans und Liebhaber legendärer Autos
+- Heimdekoration für den Schreibtisch: Auf dem Ständer für den McLaren MP4/4 sind Statistiken des Fahrzeugs aufgedruckt. Der Ständer für die Minifigur ist einem Siegerpodest nachempfunden und trägt ein Foto und ein berühmtes Zitat von Ayrton Senna
 - Kreatives Hobby für Erwachsene: Dieses LEGO Icons Bauset gehört zu einer ganzen Reihe von anspruchsvolleren LEGO Sets für Erwachsene
-- Geschenk für Autoliebhaber: LEGO Icons McLaren MP4/4 & Ayrton Senna ist ein tolles Bauset und ein faszinierendes Geburtstagsgeschenk für einen Mann, eine Frau, und alle Fans, die klassische Autos und Bausätze lieben
+- Details und Funktionen: Diese LEGO Icons Nachbildung verfügt über eine funktionierende Lenkung, eine Schubstreben-Aufhängung, einen verstellbaren Heckflügel, Slicks, Außenspiegel, eine Gangschaltung und einen detailgetreuen V6-Turbomotor
 - Inhalt der Box: Dieses Bauset beinhaltet alles, was du brauchst, um eine maßstabsgetreue Nachbildung des McLaren MP4/4 zu bauen, sowie Ständer für den Rennwagen und die Minifigur Ayrton Senna
 - Inklusive digitaler Bauanleitung: Die LEGO Builder App beinhaltet eine digitale Version der Bauanleitung zu diesem LEGO Icons Bauset
-- Heimdekoration für den Schreibtisch: Auf dem Ständer für den McLaren MP4/4 sind Statistiken des Fahrzeugs aufgedruckt. Der Ständer für die Minifigur ist einem Siegerpodest nachempfunden und trägt ein Foto und ein berühmtes Zitat von Ayrton Senna
-- Details und Funktionen: Diese LEGO Icons Nachbildung verfügt über eine funktionierende Lenkung, eine Schubstreben-Aufhängung, einen verstellbaren Heckflügel, Slicks, Außenspiegel, eine Gangschaltung und einen detailgetreuen V6-Turbomotor
-- Sammlermodell eines LEGO Rennwagens für Erwachsene: LEGO Icons McLaren MP4/4 & Ayrton Senna ist ein Bauprojekt für Motorsportfans und Liebhaber legendärer Autos
+- Geschenk für Autoliebhaber: LEGO Icons McLaren MP4/4 & Ayrton Senna ist ein tolles Bauset und ein faszinierendes Geburtstagsgeschenk für einen Mann, eine Frau, und alle Fans, die klassische Autos und Bausätze lieben
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW274ZS{{</world>}}

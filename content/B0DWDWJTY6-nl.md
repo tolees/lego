@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Samen bouwen met vrienden en familie – de LEGO Builder app biedt een leuke modus om met meerdere mensen te bouwen, zodat je het LEGO bouwplezier met anderen kunt delen
-- Stadsgedeelte met meerdere modellen – de actie vindt plaats bij 3 gebouwen: het appartement van Miles Morales boven een juwelierszaak, het Oscorp gebouw en Venoms appartement boven een supermarkt
 - Marvel cadeau voor jongens, meisjes en fans – dit grote, aanpasbare model is een leuk cadeau voor jongens en meisjes die dol zijn op superhelden, Marvel films en bouwmodellen om mee te spelen en neer te zetten
+- Samen bouwen met vrienden en familie – de LEGO Builder app biedt een leuke modus om met meerdere mensen te bouwen, zodat je het LEGO bouwplezier met anderen kunt delen
+- Minifiguren van superhelden – dit bouwpakket voor kinderen bevat 8 LEGO minifiguren: Spider-Man, Spider-Woman, Miles Morales, Eddie Brock, Ghost-Spider, Norman Osborn, Kraven the Hunter en Green Goblin
+- Stadsgedeelte met meerdere modellen – de actie vindt plaats bij 3 gebouwen: het appartement van Miles Morales boven een juwelierszaak, het Oscorp gebouw en Venoms appartement boven een supermarkt
+- Spider-Man speelgoed voor kinderen – Spider-Man vs. Oscorp is hoogwaardig LEGO | Marvel bouwspeelgoed voor jongens, meisjes en fans van superheldenactie vanaf 10 jaar
 - LEGO | Marvel bouwsets – het uitgebreide assortiment LEGO | Marvel bouw- en speelsets biedt kinderen een steeds veranderend universum vol superheldenavonturen
 - Realistische rollenspellen – deze set bevat een speelgoed motor, speelgoed vliegtuig, wapens, accessoires in elke kamer en transparante staven waarmee kinderen de personages eenvoudig kunnen neerzetten in realistische poses als kinderkamer decoratie
-- Minifiguren van superhelden – dit bouwpakket voor kinderen bevat 8 LEGO minifiguren: Spider-Man, Spider-Woman, Miles Morales, Eddie Brock, Ghost-Spider, Norman Osborn, Kraven the Hunter en Green Goblin
-- Spider-Man speelgoed voor kinderen – Spider-Man vs. Oscorp is hoogwaardig LEGO | Marvel bouwspeelgoed voor jongens, meisjes en fans van superheldenactie vanaf 10 jaar
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDWJTY6{{</world>}}

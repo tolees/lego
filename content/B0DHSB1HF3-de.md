@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- F1 Modell zum Mitnehmen: An der Box befindet sich ein praktischer Tragegriff; Klappt man die Box auf, kommt eine detailreiche Autowerkstatt zum Vorschein; Mithilfe eines Hebels können Kinder die F1-Rennautos aus den Startboxen losflitzen lassen
-- Formel 1 Set mit digitaler Bauanleitung: Zu dem Set sind auch Anleitungen in der LEGO Builder App verfügbar; In der App können Kinder beim Bauen 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern
-- Inhalt der Box: eine Spielzeug-Autowerkstatt mit Werkbänken, Werkzeugwagen, fahrbaren Schweißgeräten und Reifenturm mit Slicks, sowie 2 F1 Modellautos, ein Siegerpokal und 6 Minifiguren – 2 Rennfahrer und 4 Mechaniker
-- LEGO F1 Bauspielzeug mit Autowerkstatt: LEGO City F1 Garage mit Mercedes-AMG & Alpine Rennautos ist ein Bauset für Kinder ab 7 Jahren, das den Nervenkitzel echter Formel 1 Rennen ins Kinderzimmer holt
 - Stadt ohne Limits: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und kreativ mit Bauwerken, Fahrzeugen und Figuren spielen, die zum Bauen und Erkunden einladen
 - Spielzeugautos für Formel 1 Fans: Überrasche einen jungen Nachwuchsrennfahrer an Weihnachten oder zum Geburtstag mit diesem LEGO City F1 Bauset für Jungen und Mädchen ab 7 Jahren
 - Noch mehr rasante F1 Action: Schau dir noch weitere (separat erhältliche) LEGO Formel 1 Sets zum Bauen und Ausstellen an, die spannende Rennen mit der ganzen Familie ermöglichen
+- Inhalt der Box: eine Spielzeug-Autowerkstatt mit Werkbänken, Werkzeugwagen, fahrbaren Schweißgeräten und Reifenturm mit Slicks, sowie 2 F1 Modellautos, ein Siegerpokal und 6 Minifiguren – 2 Rennfahrer und 4 Mechaniker
+- F1 Modell zum Mitnehmen: An der Box befindet sich ein praktischer Tragegriff; Klappt man die Box auf, kommt eine detailreiche Autowerkstatt zum Vorschein; Mithilfe eines Hebels können Kinder die F1-Rennautos aus den Startboxen losflitzen lassen
+- LEGO F1 Bauspielzeug mit Autowerkstatt: LEGO City F1 Garage mit Mercedes-AMG & Alpine Rennautos ist ein Bauset für Kinder ab 7 Jahren, das den Nervenkitzel echter Formel 1 Rennen ins Kinderzimmer holt
+- Formel 1 Set mit digitaler Bauanleitung: Zu dem Set sind auch Anleitungen in der LEGO Builder App verfügbar; In der App können Kinder beim Bauen 3D-Ansichten der Modelle vergrößern und drehen, den Baufortschritt verfolgen und Sets speichern
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSB1HF3{{</world>}}

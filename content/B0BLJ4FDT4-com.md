@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- With this LEGO Creator 3 in 1 set, kids get 3 different build and play experiences; makes an out of this world gift for kids ages 6+ years old
-- LEGO Creator 3 in 1 space toy building set features a space shuttle which rebuilds into an astronaut figure with jointed limbs or a spaceship toy
-- Using the LEGO Builder app, kids can zoom, rotate and visualize a digital version of their model space toys on a smartphone or tablet
 - The LEGO Creator 3 in 1 set can also be rebuilt into a posable astronaut figure with a jetpack and a flag to be planted on a stand
 - This durable Space Shuttle toy measures over 6 cm (2.5 in.) high, 12 cm (5 in.) long and 16 cm (6 in.) wide. Contains 144 pieces
-- Kids ages 6+ can choose to build the supercool space shuttle toy with an opening hatch which contains a removable and extendable satellite inside
+- LEGO Creator 3 in 1 space toy building set features a space shuttle which rebuilds into an astronaut figure with jointed limbs or a spaceship toy
 - Next, kids can use the LEGO bricks to rebuild the set into a cool spaceship toy with moving wings so they can role-play flying into orbit
+- With this LEGO Creator 3 in 1 set, kids get 3 different build and play experiences; makes an out of this world gift for kids ages 6+ years old
+- Using the LEGO Builder app, kids can zoom, rotate and visualize a digital version of their model space toys on a smartphone or tablet
+- Kids ages 6+ can choose to build the supercool space shuttle toy with an opening hatch which contains a removable and extendable satellite inside
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BLJ4FDT4{{</world>}}

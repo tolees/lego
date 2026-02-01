@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO sets for adults – This LEGO Architecture model is part of an assortment of building sets for adults like you who enjoy hands-on creative activities
 - LEGO gift for adults – This collectible building set makes a great anniversary present or birthday gift for men and women who love history, architecture or travel
-- Step-by-step guide – Find building instructions in the booklet, which features the history of the Trevi Fountain or follow a digital version on the LEGO Builder app
-- DIY model kit for history and travel lovers – Build the iconic fountain in all its glory while enjoying updated LEGO building techniques
-- Trevi Fountain landmark model – Recreate the iconic Rome baroque monument with this 1,880-piece Trevi Fountain LEGO building set for adults
-- Home office desk decor – Place buildable streetlamps and bollards at the front of the fountain, attach the nameplate and display the model with pride
 - Authentic details – Admire the facade’s backdrop, the details of the statue figures, mini hippocampi, small ’Lovers’ Fountain’ and more
+- Trevi Fountain landmark model – Recreate the iconic Rome baroque monument with this 1,880-piece Trevi Fountain LEGO building set for adults
+- Step-by-step guide – Find building instructions in the booklet, which features the history of the Trevi Fountain or follow a digital version on the LEGO Builder app
+- LEGO sets for adults – This LEGO Architecture model is part of an assortment of building sets for adults like you who enjoy hands-on creative activities
+- DIY model kit for history and travel lovers – Build the iconic fountain in all its glory while enjoying updated LEGO building techniques
+- Home office desk decor – Place buildable streetlamps and bollards at the front of the fountain, attach the nameplate and display the model with pride
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSD22WP{{</world>}}

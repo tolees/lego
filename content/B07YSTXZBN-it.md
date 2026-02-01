@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- La penna ha borchie LEGO 1x4 in modo da poter creare la tua costruzione con diverse penne, unire le penne o riordinarle in una scatola di penne abbinata
 - Penna gel LEGO con cui scrivere
-- Spessore scrittura 0,7 mm
 - Include una minifigura LEGO
+- La penna ha borchie LEGO 1x4 in modo da poter creare la tua costruzione con diverse penne, unire le penne o riordinarle in una scatola di penne abbinata
+- Spessore scrittura 0,7 mm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07YSTXZBN{{</world>}}

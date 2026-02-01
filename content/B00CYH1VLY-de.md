@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- TOLLES KINDER GESCHENK AB 2 JAHREN: Das Lernspielzeug ist ein tolles Geschenk für Kinder ab 2 Jahren; für Mädchen und Jungen, die gern mit Spielzeugautos und anderen Fahrzeugen spielen
-- DUPLO SPIELZEUG FÜR KREATIVE ROLLENSPIELE: Kinder entwickeln Empathie, wenn sie sich vorstellen, wie sich der Patient fühlt; mit digitalem Gefühlsrad in der LEGO Builder App
 - RETTUNGSWAGEN SPIELZEUG FÜR ROLLENSPIELE: Rettungswagen mit Fahrer und einem kleinem Haus; Dieses LEGO DUPLO Spielzeug lässt Kleinkinder spannende Rettungseinsätze nachspielen
 - SPIELZEUG AB 2 JAHREN FÜR NEUGIERIGE KLEINKINDER: Die fantasievollen LEGO DUPLO Bauspielzeuge werden fachkundig konzipiert, damit wissbegierige junge Köpfe ihre Umwelt besser verstehen können
-- MONTESSORI SPIELZEUG FÜR KREATIVE KINDER: Schau dir auch LEGO DUPLO Town Erster Arztbesuch an; dieses separat erhältliche Spielzeug lässt Kleinkinder noch weitere erste Erfahrungen nachspielen
+- DUPLO SPIELZEUG FÜR KREATIVE ROLLENSPIELE: Kinder entwickeln Empathie, wenn sie sich vorstellen, wie sich der Patient fühlt; mit digitalem Gefühlsrad in der LEGO Builder App
 - LEGO MINIFIGUREN FÜR KREATIVE ROLLENSPIELE: Ein Fahrer, ein Mädchen, ein Auto, eine Tasche und ein Erste-Hilfe-Kasten lassen Kleinkinder darstellen, wie Rettungssanitäter Patienten versorgen
+- TOLLES KINDER GESCHENK AB 2 JAHREN: Das Lernspielzeug ist ein tolles Geschenk für Kinder ab 2 Jahren; für Mädchen und Jungen, die gern mit Spielzeugautos und anderen Fahrzeugen spielen
+- MONTESSORI SPIELZEUG FÜR KREATIVE KINDER: Schau dir auch LEGO DUPLO Town Erster Arztbesuch an; dieses separat erhältliche Spielzeug lässt Kleinkinder noch weitere erste Erfahrungen nachspielen
 - KLEINKIND SPIELZEUG FÜR ROLLENSPIELE: Vorschulkinder können sich in Rollenspielen üben und Feinmotorik entwickeln, wenn sie die Minifiguren in dem Krankenwagen versorgen und ins Krankenhaus fahren
 
 [🛒 Buy it!!]({{< param buyurl >}})

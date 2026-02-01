@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BOORDEVOL FUNCTIES – het LEGO huis met 2 verdiepingen heeft een poort die open kan, een kerkhof, een enge LEGO boom, een orgel en een spook dat verschijnt als je aan een wiel draait
+- EINDELOZE SPEELMOGELIJKHEDEN – kinderen kunnen spookverhalen bedenken met 3 griezelige modellen (de modellen kunnen niet tegelijkertijd worden gebouwd): een spookhuis, spooktrein of spookschip
 - HALLOWEEN CADEAU VOOR JONGENS EN MEISJES– dit boot en trein speelgoed voor kinderen biedt een boeiende bouwervaring voor kinderen die houden van griezellige rollenspellen
 - 3-IN-1 LEGO SETS – met elke 3-in-1 set (apart verkrijgbaar) kunnen kinderen 3 modellen bouwen, geïnspireerd op hun grootste passies, waaronder dieren, voertuigen en huizen
-- 5 MINIFIGUREN – dit LEGO Halloween speelgoed voor kinderen wordt geleverd met 5 enge personages: een weerwolf, een vampier, een spook met een cape die oplicht in het donker, het monster van Frankenstein en een skelet, elk met een accessoire
-- GRIEZELIG HALLOWEEN BOUWPAKKET VOOR KINDEREN – met het LEGO Creator 3in1 Spookhuis Halloween speelgoed kunnen kinderen 3 verschillende enge modellen bouwen en herbouwen met dezelfde stenen
 - LEUKE HALLOWEEN DECORATIE – deze set biedt kinderen eindeloos bouw- en speelplezier en vormt na het bouwen fraaie kinderkamer decoratie voor Halloween of op elk ander moment
-- EINDELOZE SPEELMOGELIJKHEDEN – kinderen kunnen spookverhalen bedenken met 3 griezelige modellen (de modellen kunnen niet tegelijkertijd worden gebouwd): een spookhuis, spooktrein of spookschip
+- 5 MINIFIGUREN – dit LEGO Halloween speelgoed voor kinderen wordt geleverd met 5 enge personages: een weerwolf, een vampier, een spook met een cape die oplicht in het donker, het monster van Frankenstein en een skelet, elk met een accessoire
+- BOORDEVOL FUNCTIES – het LEGO huis met 2 verdiepingen heeft een poort die open kan, een kerkhof, een enge LEGO boom, een orgel en een spook dat verschijnt als je aan een wiel draait
+- GRIEZELIG HALLOWEEN BOUWPAKKET VOOR KINDEREN – met het LEGO Creator 3in1 Spookhuis Halloween speelgoed kunnen kinderen 3 verschillende enge modellen bouwen en herbouwen met dezelfde stenen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDY9WHQ{{</world>}}

@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - DREAMZzz minifiguren – inclusief LEGO DREAMZzz personages held Mateo en schurk Zero, plus figuren van Logan, een Cyberwezen en Z-Blob, brengen het verhaal tot leven en stimuleren creatieve rollenspellen
-- Boordevol details – de set bevat modulaire boosters die compatibel zijn met andere LEGO DREAMZzz sets (apart verkrijgbaar) uit de collectie van 2025
-- Maak deel uit van de actie – de bouwinstructies op basis van verhalen laten kinderen helemaal opgaan in de Droomwereld en zijn ook digitaal beschikbaar in de LEGO Builder app
-- Cadeau voor jongens en meisjes – de set is een leuk verjaardagscadeau voor jongens, meisjes en fans van de LEGO DREAMZzz tv-serie, maar ook voor kinderen die dol zijn op dieren figuren, reptielen en mecha
 - Bouwpakket voor kinderen met fantasiewezen – geef de creativiteit van kinderen de ruimte met LEGO DREAMZzz Mateos vuurkameleon, een set voor jongens en meisjes vanaf 7 jaar met 2 bouwmogelijkheden
+- Cadeau voor jongens en meisjes – de set is een leuk verjaardagscadeau voor jongens, meisjes en fans van de LEGO DREAMZzz tv-serie, maar ook voor kinderen die dol zijn op dieren figuren, reptielen en mecha
 - LEGO DREAMZzz speelgoed – laat het fantasierijke spel verder gaan met andere LEGO DREAMZzz bouwsets (apart verkrijgbaar), waaronder voertuigspeelsets en speelgoedmecha
+- Maak deel uit van de actie – de bouwinstructies op basis van verhalen laten kinderen helemaal opgaan in de Droomwereld en zijn ook digitaal beschikbaar in de LEGO Builder app
 - Herbouwbaar dieren speelgoed voor kinderen – de kameleon heeft een verstelbare bek, kop, staart, ogen en poten en kan worden gebouwd als een vuurkameleon met een blasterkoepel en noppenschieters of een klein speelgoed vliegtuig met een LEGO mech
+- Boordevol details – de set bevat modulaire boosters die compatibel zijn met andere LEGO DREAMZzz sets (apart verkrijgbaar) uit de collectie van 2025
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF1R89S{{</world>}}

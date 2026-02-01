@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Modell eines Rettungsflugzeugs: Das LEGO City Notfallrettungsflugzeug ist ein Spielset mit vielen Funktionen und schickt Kinder ab 6 Jahren auf spannende Rettungseinsätze
-- Detailreiches LEGO Flugzeugmodell: Kinder können die Bordtreppe herunterklappen und den Rumpf öffnen, um Zugang zu verschiedenen Bereichen wie dem Cockpit und dem ausklappbaren Labor mit Bildschirmen und Arbeitsstation zu erhalten
-- Inhalt der Box: Alles, was Kinder brauchen, um einen Spielzeug-Rettungsflieger, ein Schneemobil, eine kleine Flughafenkulisse mit Windsack sowie 4 Mini-Figuren (Pilot, Arzt, Rettungssanitäter und Skifahrer) zu bauen
 - LEGO Minifigur-Zubehör: Zu dem Lernspielzeug gehört einiges Erste-Hilfe-Zubehör, beispielsweise eine Trage, eine Arzttasche, eine Spritze und eine Wasserflasche
-- Geschenk für Kinder und Fans von Modellflugzeugen: Dieses Bauspielzeug ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Jungen und Mädchen ab 6 Jahren
+- Modell eines Rettungsflugzeugs: Das LEGO City Notfallrettungsflugzeug ist ein Spielset mit vielen Funktionen und schickt Kinder ab 6 Jahren auf spannende Rettungseinsätze
 - Stadt ohne Limits: In LEGO City können Kinder ihrer Fantasie freien Lauf lassen und kreativ mit Bauwerken, Fahrzeugen und Figuren spielen, die zum Bauen und Erkunden einladen
 - Erweitere das Spielerlebnis: Für noch mehr spannende Abenteuer können Kinder dieses Baumodell-Flugzeug mit anderen separat erhältlichen LEGO City Modellen kombinieren
+- Geschenk für Kinder und Fans von Modellflugzeugen: Dieses Bauspielzeug ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Jungen und Mädchen ab 6 Jahren
+- Detailreiches LEGO Flugzeugmodell: Kinder können die Bordtreppe herunterklappen und den Rumpf öffnen, um Zugang zu verschiedenen Bereichen wie dem Cockpit und dem ausklappbaren Labor mit Bildschirmen und Arbeitsstation zu erhalten
+- Inhalt der Box: Alles, was Kinder brauchen, um einen Spielzeug-Rettungsflieger, ein Schneemobil, eine kleine Flughafenkulisse mit Windsack sowie 4 Mini-Figuren (Pilot, Arzt, Rettungssanitäter und Skifahrer) zu bauen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNK1Q{{</world>}}

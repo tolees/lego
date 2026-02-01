@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- INTERACTIVE TRAIN SET – Toddlers embark on a stimulating learning journey with the LEGO DUPLO Interactive Adventure Train toy for 2+ year old boys and girls
-- GREAT FOR MONTESSORI – LEGO DUPLO build-and-rebuild train toys are designed to develop toddlers’ patience, focus, perseverance and creative problem-solving skills
 - 3 INTERACTIVE DUPLO BRICKS – Great for use as a Montessori toy, the train set sparks kids imaginations with lights and sounds; requires 4x AAA batteries (1.5V or 1.2V rechargeable, not included)
+- WHATS IN THE BOX? – Includes 4 DUPLO figures, a toy train that features lights and plays sounds, 3 destination builds and 14 LEGO train track pieces
+- GREAT FOR MONTESSORI – LEGO DUPLO build-and-rebuild train toys are designed to develop toddlers’ patience, focus, perseverance and creative problem-solving skills
 - TODDLER LEARNING TOYS – With this building set, preschoolers use problem-solving skills to pack items and build toy train tracks to the station, park, or beach
+- INTERACTIVE TRAIN SET – Toddlers embark on a stimulating learning journey with the LEGO DUPLO Interactive Adventure Train toy for 2+ year old boys and girls
 - INTERACTIVE APP – The free LEGO DUPLO Interactive Trains app lets kids record their own sounds and drive the train toy using a portable electronic device
 - GIFT FOR TODDLERS – This LEGO DUPLO construction toy makes a fun gift for 2+ year old boys and girls who like train sets and fun interactive toys
-- WHATS IN THE BOX? – Includes 4 DUPLO figures, a toy train that features lights and plays sounds, 3 destination builds and 14 LEGO train track pieces
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH4J73Z{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Nintendo verzamelobject – dit LEGO bouw- en displaymodel maak deel uit van een uitgebreide reeks LEGO sets voor volwassenen, ontworpen voor mensen die graag praktische en creatieve activiteiten ondernemen om te ontspannen
 - Nostalgisch cadeau voor gamers – verwen jezelf of geef deze coole LEGO Nintendo game set voor volwassenen cadeau aan gamers die fan zijn van Super Mario of The Legend of Zelda
-- Een leuk bouwproces – de set biedt een boeiende activiteit voor ervaren LEGO bouwers en bevat stapsgewijze instructies, zodat Game Boy fans die nog niet eerder met LEGO sets hebben gebouwd ook van de uitdaging kunnen genieten
 - Pas je model aan – inclusief verwisselbare, van stenen gebouwde The Legend of Zelda: Links Awakening of Super Mario Land Game Boy Game Paks en schermen met 3D effect, plus een Nintendo startscherm
+- Nintendo verzamelobject – dit LEGO bouw- en displaymodel maak deel uit van een uitgebreide reeks LEGO sets voor volwassenen, ontworpen voor mensen die graag praktische en creatieve activiteiten ondernemen om te ontspannen
 - Authentieke details – bouw de +Control Pad, de A- en B-knoppen, SELECT en START, de contrast- en volumeknop en de Game Pak-sleuf na en zet je Game Boy op de standaard om hem te gebruiken als woondecoratie
 - LEGO bouwpakket voor volwassenen – haal herinneringen op aan klassieke videogames met dit replicamodel (op schaal van bijna 1:1) van de originele Game Boy draagbare spelcomputer van Nintendo
+- Een leuk bouwproces – de set biedt een boeiende activiteit voor ervaren LEGO bouwers en bevat stapsgewijze instructies, zodat Game Boy fans die nog niet eerder met LEGO sets hebben gebouwd ook van de uitdaging kunnen genieten
 - 3D-bouwinstructies – geniet van elke stap van het bouwproces met de LEGO Builder app, waarmee je kunt inzoomen en je model in 3D kunt draaien, je voortgang kunt bijhouden en al je sets op één plek kunt opslaan
 
 [🛒 Check the deal!!]({{< param buyurl >}})

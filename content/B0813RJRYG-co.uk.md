@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The roof flips up to reveal a DJ terrace complete with speakers, lights and a keyboard; below, there is a beach shower to freshen up
-- Beach House
 - Includes 2 Andrea and Mia mini dolls, flamingo and dolphin animal figures, and a paddleboat and surfboard to play out summer adventures
+- The roof flips up to reveal a DJ terrace complete with speakers, lights and a keyboard; below, there is a beach shower to freshen up
 - Number of pieces: 444
 - Manufacturer recommended age: 6+
+- Beach House
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813RJRYG{{</world>}}

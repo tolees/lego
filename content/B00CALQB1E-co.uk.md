@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- EASY-CARE HOME OR OFFICE DECOR – Add a self-sufficient splash of colour to any space with this buildable, zero-maintenance artificial flower
-- PART OF THE LEGO BOTANICAL COLLECTION – Discover a space for relaxation with the wide range of LEGO construction sets designed specifically for adults
-- LEGO FLOWER SET FOR ADULTS – Take time out or join friends and family for a relaxing building experience with the LEGO Botanicals Plum Blossom flower set
-- WHATS IN THE BOX? – This building set for adults features a plum blossom flower and a pastel-blue pot with a golden band and wood-effect plinth
-- DETAILED ARTIFICIAL FLOWERS – This LEGO interpretation of a plum blossom plant comes with an elegant woody stem and vivid red-and-magenta flowers
 - GIFT FOR NATURE LOVERS – The LEGO Botanicals Plum Blossom model kit for adults to build makes a great birthday gift for women and men who are fans of LEGO building sets and faux flowers
+- EASY-CARE HOME OR OFFICE DECOR – Add a self-sufficient splash of colour to any space with this buildable, zero-maintenance artificial flower
+- WHATS IN THE BOX? – This building set for adults features a plum blossom flower and a pastel-blue pot with a golden band and wood-effect plinth
+- LEGO FLOWER SET FOR ADULTS – Take time out or join friends and family for a relaxing building experience with the LEGO Botanicals Plum Blossom flower set
 - DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this set
+- PART OF THE LEGO BOTANICAL COLLECTION – Discover a space for relaxation with the wide range of LEGO construction sets designed specifically for adults
+- DETAILED ARTIFICIAL FLOWERS – This LEGO interpretation of a plum blossom plant comes with an elegant woody stem and vivid red-and-magenta flowers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00CALQB1E{{</world>}}

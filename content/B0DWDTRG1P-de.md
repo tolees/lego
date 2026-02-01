@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Einführung in die Welt der Technik: LEGO Technic Bausets zeigen mechanische Abläufe und Bewegungen auf anschauliche Weise; so entdecken Kinder spielerisch technische Zusammenhänge
-- Faszinierendes Bauerlebnis: Die LEGO Builder App unterstützt beim Bauen; Kinder können Sets speichern, den Baufortschritt verfolgen und 3D-Modelle vergrößern und drehen
-- Ferngesteuerter Lamborghini: Dieses Lamborghini Spielzeugauto wird per CONTROL+ App gesteuert; Kinder können lenken, Lichter ein- und ausschalten und Fahrdaten in Echtzeit abrufen
 - Faszinierende Details und Funktionen: Das Automodell kann vorwärts und rückwärts fahren; die leuchtenden Scheinwerfer sorgen für besondere Effekte bei Dunkelheit
 - Geschenk für Autofans: Dieses Bauset ist eine schöne Geschenkidee für Kinder ab 10 Jahren; besonders für alle, die ferngesteuerte Spielzeugautos mögen
 - Modell mit Akku: Der Akku wird per USB-C-Kabel (nicht enthalten) aufgeladen; so bleibt das LEGO Spielzeugauto jederzeit einsatzbereit
+- Ferngesteuerter Lamborghini: Dieses Lamborghini Spielzeugauto wird per CONTROL+ App gesteuert; Kinder können lenken, Lichter ein- und ausschalten und Fahrdaten in Echtzeit abrufen
+- Faszinierendes Bauerlebnis: Die LEGO Builder App unterstützt beim Bauen; Kinder können Sets speichern, den Baufortschritt verfolgen und 3D-Modelle vergrößern und drehen
 - MINT-Bauspielzeug für Kinder: Der LEGO Technic Lamborghini Revuelto Supersportwagen ist ein spannendes Projekt für Jungen und Mädchen ab 10 Jahren; ein ferngesteuertes Auto zum Bauen und Spielen
+- Einführung in die Welt der Technik: LEGO Technic Bausets zeigen mechanische Abläufe und Bewegungen auf anschauliche Weise; so entdecken Kinder spielerisch technische Zusammenhänge
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDTRG1P{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een universum vol LEGO NINJAGO speelgoed voor kinderen – met de uitgebreide collectie speelgoedsets kunnen kinderen ontsnappen naar een fantasierijke wereld met hun ninjahelden
-- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed (sets apart verkrijgbaar) waaronder draken, tempels en voertuigen
-- LEGO NINJAGO speelgoed voor 6 jaar en ouder – met Zanes strijdmecha kunnen jongens en meisjes vanaf 6 jaar spannende scènes uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen
-- Ninja cadeau voor kinderen – deze kleine LEGO set biedt een leuke bouw- en speelervaring en is een verrassing voor jongens en meisjes vanaf 6 jaar die dol zijn op ninjaverhalen
-- Met acessoires voor leuke rollenspellen – elke minifiguur van een NINJAGO personage heeft een speelgoed wapen voor meer speelplezier: Zane heeft 2 shuriken, Wyldfyre heeft een kristallen katana en Drix heeft 2 sikkels
 - Verstelbare speelgoed robot – Zanes strijdmecha heeft verstelbare armen, benen en handen, een bovenlichaam dat 360 graden kan draaien, een borstkas die open kan om een minifiguur in te plaatsen en 2 grote speelgoed zwaard accessoires voor rollenspellen
+- Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed (sets apart verkrijgbaar) waaronder draken, tempels en voertuigen
+- Een universum vol LEGO NINJAGO speelgoed voor kinderen – met de uitgebreide collectie speelgoedsets kunnen kinderen ontsnappen naar een fantasierijke wereld met hun ninjahelden
+- Met acessoires voor leuke rollenspellen – elke minifiguur van een NINJAGO personage heeft een speelgoed wapen voor meer speelplezier: Zane heeft 2 shuriken, Wyldfyre heeft een kristallen katana en Drix heeft 2 sikkels
+- Ninja cadeau voor kinderen – deze kleine LEGO set biedt een leuke bouw- en speelervaring en is een verrassing voor jongens en meisjes vanaf 6 jaar die dol zijn op ninjaverhalen
 - 3 NINJAGO minifiguren – dit LEGO bouwpakket voor kinderen bevat NINJAGO Zane gekleed in een nog niet eerder uitgebracht harnas, Wyldfyre en de Meester van Zwermen Drix, waarmee ninjafans scènes boordevol actie kunnen naspelen
+- LEGO NINJAGO speelgoed voor 6 jaar en ouder – met Zanes strijdmecha kunnen jongens en meisjes vanaf 6 jaar spannende scènes uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDYGTX{{</world>}}

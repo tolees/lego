@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Product 2: LEGO Architecture models are compatible with all LEGO construction sets for creative building
-- Product 1: Capture the architectural essence of New York City with this magnificent set that brings together iconic buildings in an inspirational skyline setting
 - Product 1: This wonderful model focuses on the amazing architectural diversity of one of the worlds most dynamic cities
-- Product 2: Includes collectible booklet containing information about the design, architecture and history of the building
-- Product 2: Model features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge
 - Product 1: Build a detailed model of the New York City Skyline, including the miniature Statue of Liberty, and 4x32 tiled base with decorative nameplate
 - Product 2: Build a detailed model of the London skyline
 - Product 1: Model features the Flatiron, Chrysler, Empire State and One World Trade Center Buildings and is 10”/26cm high, 9”/25cm wide and 1”/4cm deep
+- Product 2: Model features the National Gallery, Nelson’s Column, London Eye, Big Ben and Tower Bridge
+- Product 2: Includes collectible booklet containing information about the design, architecture and history of the building
+- Product 2: LEGO Architecture models are compatible with all LEGO construction sets for creative building
+- Product 1: Capture the architectural essence of New York City with this magnificent set that brings together iconic buildings in an inspirational skyline setting
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08P3LM5J7{{</world>}}

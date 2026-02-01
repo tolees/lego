@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ein ganzes Universum an coolen Ninja-Spielzeugen: LEGO NINJAGO Sets beinhalten Mechs, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
-- Set mit Drachen-Spielzeug für Kinder: Mit dem LEGO NINJAGO Riyu der Babydrache Spielzeug für 6-Jährige können Jungs und Mädchen die Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 - Geschenk für kleine Ninjas: Dieses Action-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder, Jungen und Mädchen, die gern in die Rolle ihrer Ninja-Helden schlüpfen
 - Bewegliches Modell: Dein Kind kann die Flügel, die Beine und den Schwanz der Drachen-Figur in die gewünschte Position bringen und dann eine der NINJAGO Figuren in den Sattel setzen und die beiden losfliegen lassen
+- Ein ganzes Universum an coolen Ninja-Spielzeugen: LEGO NINJAGO Sets beinhalten Mechs, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
 - 3 NINJAGO Minifiguren: Dieses LEGO Ninja-Spielzeug beinhaltet Arin mit Kletterhaken und Katana, Sora mit einem Katana und einen Wolfsjäger mit Schwert
+- Set mit Drachen-Spielzeug für Kinder: Mit dem LEGO NINJAGO Riyu der Babydrache Spielzeug für 6-Jährige können Jungs und Mädchen die Actionszenen aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYQ5CF{{</world>}}

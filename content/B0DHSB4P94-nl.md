@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geweldige superheldenavonturen – aan de achterkant van de mecha zitten 2 verstelbare boosters waarmee de mecha kan vliegen
 - LEGO DC collectie – de uitgebreide reeks LEGO DC bouwspeelgoed is ontworpen voor eindeloze fantasierijke bouw- en speelmogelijkheden
+- Superman cadeau voor kinderen – deze leuke LEGO bouwset is een cadeautip voor jongens en meisjes die fan zijn van superheldenavonturen en grootschalige mecha-actie
+- 120-delige speelset – deze bouwbare Superman mecha is ca. 11 cm hoog en geeft jonge superhelden spannende avonturen in eigen handen
 - Meer mecha en minifiguren – er zijn nog veel meer LEGO sets met superhelden (apart verkrijgbaar) die kinderen kunnen verzamelen en combineren om de fantasierijke speelmogelijkheden uit te breiden
 - Superman mechaspeelset – geef kinderen superheldenactie in eigen handen met de LEGO DC Superman mecha vs. Lex Luthor: figuren boordevol leuke kenmerken voor jongens en meisjes vanaf 6 jaar
-- 120-delige speelset – deze bouwbare Superman mecha is ca. 11 cm hoog en geeft jonge superhelden spannende avonturen in eigen handen
-- LEGO DC figuren – de set bevat 2 minifiguren: Superman met een stoffen cape en omkeerbaar hoofd met alternatieve uitdrukkingen en Lex Luthor met een noppenschieter en een kryptonietkristal
-- Superman cadeau voor kinderen – deze leuke LEGO bouwset is een cadeautip voor jongens en meisjes die fan zijn van superheldenavonturen en grootschalige mecha-actie
+- Geweldige superheldenavonturen – aan de achterkant van de mecha zitten 2 verstelbare boosters waarmee de mecha kan vliegen
 - Verstelbaar Superman speelgoed – de bouwbare mecha heeft beweegbare armen, benen en vingers en de romp kan open en bevat een cockpit waar de Superman minifiguur in kan zitten
+- LEGO DC figuren – de set bevat 2 minifiguren: Superman met een stoffen cape en omkeerbaar hoofd met alternatieve uitdrukkingen en Lex Luthor met een noppenschieter en een kryptonietkristal
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSB4P94{{</world>}}

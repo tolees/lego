@@ -32,9 +32,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Display with pride – This 1:8 scale model Ferrari SF-24 F1 car features intricate details, making it a standout decor piece for any room or office
 - LEGO model car kits to build for adults and F1 fans – Explore engineering concepts and enjoy a relaxing project with LEGO Technic vehicle sets for adults, sold separately
 - F1 car model – Take pole position with this LEGO Technic Ferrari SF-24 F1 model car kit for adults, packed with intricate features to delight F1 fans
-- Immerse yourself – Enjoy your build with the LEGO Builder app, which lets you zoom and rotate your model in 3D, track progress and save sets in one place
-- Detailed engine and gearbox – Remove the engine cover to explore the LEGO vehicles 2-speed gearbox and the V6 engine with its spinning MGU-H
 - Ferrari model car with true-to-life features – Realistic suspension, steering, and an adjustable spoiler let you capture the thrill of the F1 season
+- Detailed engine and gearbox – Remove the engine cover to explore the LEGO vehicles 2-speed gearbox and the V6 engine with its spinning MGU-H
+- Immerse yourself – Enjoy your build with the LEGO Builder app, which lets you zoom and rotate your model in 3D, track progress and save sets in one place
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCYDL2{{</world>}}

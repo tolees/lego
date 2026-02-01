@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 ways to play – Creative kids can choose to transform the toy castle playset into an imposing fortress or an elegant tower toy
 - Kids’ toy castle – Boys and girls aged 9 and over unlock their imaginations with this LEGO DREAMZzz The Sandman’s Tower building toy
-- Intuitive building – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
-- Gift idea for kids – The fantasy building toy can be given as a toy treat or birthday gift for boys and girls aged 9 and over
 - 5 LEGO DREAMZzz minifigures – The set includes Izzie, Mateo, Logan, the Sandman and the villainous Never Witch, plus a figure of minion Sneak
+- Intuitive building – The set features story-led building instructions, which are also available digitally in the LEGO Builder app
 - Mythical creatures – The building set includes a spider toy and bird toy animal figures, both of which are posable
+- 2 ways to play – Creative kids can choose to transform the toy castle playset into an imposing fortress or an elegant tower toy
+- Gift idea for kids – The fantasy building toy can be given as a toy treat or birthday gift for boys and girls aged 9 and over
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVYKCBY{{</world>}}

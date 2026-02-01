@@ -29,13 +29,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Onderdeel van de LEGO Star Wars ruimteschipcollectie – deze fantasierijke voertuigset maakt deel uit van een serie bouwbare verzamelmodellen op middelgrote schaal van bekende Star Wars ruimteschepen
-- Creatief Star Wars cadeau voor volwassen fans – trakteer jezelf of geef deze LEGO bouwset voor volwassenen cadeau aan een vriend(in) die helemaal weg is van Star Wars
 - Bouwbare ruimteschipset – stel je het leven voor met de Mon Calamari aan boord van de Home One Starcruiser met de allereerste LEGO versie van dit ruimteschip uit Star Wars: Return of the Jedi
-- Creëer een Star Wars display – zet je creatie op de standaard met naamplaatje en gebruik het transparante element om een van stenen gebouwd Nebulon-B medisch fregat te bevestigen, zodat het lijkt alsof het ernaast vliegt
-- Afmetingen – het ruimteschip in deze 559-delige LEGO modelbouwset is ca. 14 cm hoog, 33 cm lang en 14 cm breed
+- Creatief Star Wars cadeau voor volwassen fans – trakteer jezelf of geef deze LEGO bouwset voor volwassenen cadeau aan een vriend(in) die helemaal weg is van Star Wars
 - Bouw- en displayset om te verzamelen – bouw de opvallende kenmerken na van het fregat onder bevel van admiraal Ackbar tijdens de Slag om Endor en maak de zijkant los om de details van het interieur te bekijken
-- Een helpende hand – geniet van een intuïtieve bouwervaring met de LEGO Builder app, waar je tijdens het bouwen een digitale 3D-versie van dit bouwmodel kunt bekijken, je voortgang kunt bijhouden en sets kunt opslaan
 - Van een sterrenstelsel hier ver, ver vandaan tot in je woonkamer – LEGO Star Wars verzamelsets voor volwassenen zijn ontworpen voor mensen zoals jij, die zich graag ontspannen met praktische en creatieve activiteiten
+- Creëer een Star Wars display – zet je creatie op de standaard met naamplaatje en gebruik het transparante element om een van stenen gebouwd Nebulon-B medisch fregat te bevestigen, zodat het lijkt alsof het ernaast vliegt
+- Een helpende hand – geniet van een intuïtieve bouwervaring met de LEGO Builder app, waar je tijdens het bouwen een digitale 3D-versie van dit bouwmodel kunt bekijken, je voortgang kunt bijhouden en sets kunt opslaan
+- Afmetingen – het ruimteschip in deze 559-delige LEGO modelbouwset is ca. 14 cm hoog, 33 cm lang en 14 cm breed
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSCKCZ2{{</world>}}

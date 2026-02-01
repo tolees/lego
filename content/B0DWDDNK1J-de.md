@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Digitale Bauhilfe nutzen: Mit der LEGO Builder App lassen sich die LEGO Bonsai Modelle in 3D betrachten, drehen und der Baufortschritt ganz einfach verfolgen
-- Kollektion erweitern: Kombiniere die Bonsais mit weiteren Sets aus der LEGO Botanical Collection wie LEGO Blumensträußen oder Bambuspflanzen für noch mehr Pflanzenvielfalt
 - Anpassbare Dekoration: Die Blätter der LEGO Bonsai-Bäume lassen sich austauschen, um individuelle Kombinationen zu gestalten und deinem LEGO Spielzeug eine persönliche Note zu verleihen
-- Detailreiche LEGO Deko: Enthält einen Ginkgo Bonsai, eine Schwarzkiefer und einen Blauregen – drei stilvolle LEGO Pflanzen, die als beruhigende Deko Bäumchen begeistern
-- Geschenk für Naturliebhaber: Dieses LEGO Geschenk für Frauen, Männer und Pflanzenfreunde eignet sich wunderbar für Anlässe wie Geburtstage
-- Vielfältig arrangierbare Zimmerpflanzen: Zwei Zierständer ermöglichen es, die LEGO Blumen auf unterschiedlichen Höhen auszustellen und kreativ als stilvolle Zimmerdeko zu kombinieren
+- Kollektion erweitern: Kombiniere die Bonsais mit weiteren Sets aus der LEGO Botanical Collection wie LEGO Blumensträußen oder Bambuspflanzen für noch mehr Pflanzenvielfalt
 - Entspanntes Bauerlebnis für Erwachsene: Das LEGO Bonsai Set lässt drei Minibäume entstehen, die Entspannung ausstrahlen und ein meditativer Teil deiner LEGO Botanical Collection werden
+- Geschenk für Naturliebhaber: Dieses LEGO Geschenk für Frauen, Männer und Pflanzenfreunde eignet sich wunderbar für Anlässe wie Geburtstage
+- Digitale Bauhilfe nutzen: Mit der LEGO Builder App lassen sich die LEGO Bonsai Modelle in 3D betrachten, drehen und der Baufortschritt ganz einfach verfolgen
+- Detailreiche LEGO Deko: Enthält einen Ginkgo Bonsai, eine Schwarzkiefer und einen Blauregen – drei stilvolle LEGO Pflanzen, die als beruhigende Deko Bäumchen begeistern
+- Vielfältig arrangierbare Zimmerpflanzen: Zwei Zierständer ermöglichen es, die LEGO Blumen auf unterschiedlichen Höhen auszustellen und kreativ als stilvolle Zimmerdeko zu kombinieren
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNK1J{{</world>}}

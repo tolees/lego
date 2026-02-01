@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- A LEGO gift for history lovers – This LEGO Icons Leonardo da Vincis Flying Machine set makes a great history or aviation gift for him and her
 - Building kits for adults – Discover a space for relaxation with the range of LEGO sets (sold separately) designed specifically for adults
+- Trigger-activated wings – Recreate the flying machine with its flappable textile wings and tail driven by a mechanism of string, hinges and pulleys
+- A LEGO gift for history lovers – This LEGO Icons Leonardo da Vincis Flying Machine set makes a great history or aviation gift for him and her
 - Da Vinci ornithopter building set for adults – Discover the history of aeronautical innovation with LEGO Icons Leonardo da Vinci’s Flying Machine
+- Home and office desk decor – This detailed LEGO history set for adults is a great display piece for fans of Leonardo da Vincis flying inventions
 - 3D building instructions – Get ready to build with the LEGO Builder app, where you can save sets, track progress, zoom in and rotate models in 3D
 - What’s in the box – LEGO version of da Vinci’s visionary ornithopter, a display stand and a Leonardo da Vinci minifigure holding a quill and sketch
-- Trigger-activated wings – Recreate the flying machine with its flappable textile wings and tail driven by a mechanism of string, hinges and pulleys
-- Home and office desk decor – This detailed LEGO history set for adults is a great display piece for fans of Leonardo da Vincis flying inventions
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NAELBNS{{</world>}}

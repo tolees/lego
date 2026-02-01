@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Intuitive Bauanleitung zum Bauspielzeug: Die farbenfrohe Bauanleitung in Form einer Bildergeschichte lässt Kinder selbstbewusst bauen und fördert sie in ihrer Entwicklung
-- LEGO Abenteuer im Baumhaus: Trapster, Ghost-Spider, Gobby-Raptor, Spidey-Rex, Dino-Spin und Trace-E laden Kinder zum Spielen mit ihren geliebten Helden, Dinos und Bösewichten ein
 - Baumhaus für jede Menge Spielspaß: Jeder Steinebeutel enthält die Bausteine, ein großes Starter-Bauelement und die Anleitung für 1 Modell, um Kinder rasch bauen und spielen zu lassen
 - Bauspielzeuge für Vorschulkinder: LEGO Bausets für Kinder ab 4 Jahren stellen Vorschulkindern ein Universum mit vielen beliebten Charakteren aus Film und Fernsehen sowie mit Helden des Alltags vor
-- Baubare Spielzeugdinos für Kinder: Showdown am Baumhaus: Spidey-Rex vs. Gobby-Raptor ist ein tolles Geschenk für Jungen und Mädchen ab 4 Jahren, die Superhelden, Dinosaurier und Bauspielzeuge lieben
+- Intuitive Bauanleitung zum Bauspielzeug: Die farbenfrohe Bauanleitung in Form einer Bildergeschichte lässt Kinder selbstbewusst bauen und fördert sie in ihrer Entwicklung
 - Baubare Spielzeugdinos für Rollenspiele: Trapsters Flieger hat 2 Shooter. Und auch große Netze, rote Diamanten, eine Schatzkiste, eine Schatzkarte, eine Wurst, ein Ei und ein Fernglas lassen Kinder fantasievoll spielen
+- LEGO Abenteuer im Baumhaus: Trapster, Ghost-Spider, Gobby-Raptor, Spidey-Rex, Dino-Spin und Trace-E laden Kinder zum Spielen mit ihren geliebten Helden, Dinos und Bösewichten ein
+- Baubare Spielzeugdinos für Kinder: Showdown am Baumhaus: Spidey-Rex vs. Gobby-Raptor ist ein tolles Geschenk für Jungen und Mädchen ab 4 Jahren, die Superhelden, Dinosaurier und Bauspielzeuge lieben
 - Geschenk für Spidey-Fans: Dieses Bau- und Spielset mit Superhelden und Dinos ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans von Spidey und seine Super-Freunde
 
 [🛒 Check the deal!!]({{< param buyurl >}})

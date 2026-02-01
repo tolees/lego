@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bekende locatie – het huis heeft een serre en kan worden opengevouwen voor gemakkelijke toegang tot de keuken met een uitneembare eettafel, woonkamer, Dirks slaapkamer en Harrys slaapkamer
 - LEGO Harry Potter verzamelset – deze fantasierijke avonturenset maakt deel uit van een uitgebreide collectie LEGO Harry potter bouwspeelgoed (apart verkrijgbaar) om mee te spelen en neer te zetten als Harry Potter decoratie
-- Magisch Harry Potter cadeau voor fans van de Tovenaarswereld – dit LEGO Harry Potter speelgoed voor kinderen is een geweldig cadeau voor meisjes, jongens, tovenaars, heksen en dreuzels vanaf 8 jaar die dol zijn op de Harry Potter film: Gevangene van Azkaban
-- 3D-bouwinstructies – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
-- Betoverend huis – beleef het bezoek van tante Margot aan het huis van haar broer Herman Duffeling aan Ligusterlaan 4 opnieuw met dit LEGO Harry Potter bouwpakket voor kinderen
 - Authentieke details – een geheime deur aan de achterkant van het huis naar de kast onder de trap, afneembare tralies voor Harrys raam, het Privet Drive bord, een lantaarnpaal en meer
 - 5 LEGO Harry Potter minifiguren – inclusief Harry Potter personages Margot Duffeling, Herman Duffeling, Petunia Duffeling, Dirk Duffeling en Harry potter, plus een opgeblazen figuur van tante Margot en een figuur van Grompie de hond
-- Bekende locatie – het huis heeft een serre en kan worden opengevouwen voor gemakkelijke toegang tot de keuken met een uitneembare eettafel, woonkamer, Dirks slaapkamer en Harrys slaapkamer
+- Betoverend huis – beleef het bezoek van tante Margot aan het huis van haar broer Herman Duffeling aan Ligusterlaan 4 opnieuw met dit LEGO Harry Potter bouwpakket voor kinderen
+- Magisch Harry Potter cadeau voor fans van de Tovenaarswereld – dit LEGO Harry Potter speelgoed voor kinderen is een geweldig cadeau voor meisjes, jongens, tovenaars, heksen en dreuzels vanaf 8 jaar die dol zijn op de Harry Potter film: Gevangene van Azkaban
+- 3D-bouwinstructies – ontdek intuïtieve bouwinstructies in de LEGO Builder app waarmee bouwers kunnen inzoomen en hun model kunnen draaien in 3D, hun voortgang kunnen bijhouden en sets kunnen opslaan terwijl ze nieuwe vaardigheden ontwikkelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDSPKLS{{</world>}}

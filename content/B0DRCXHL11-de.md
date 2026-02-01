@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Austauschbare Mechs: Kinder können die Mechs aus den beiden separat erhältlichen Sets Kais Sturmreiter-Mech (71830) und Kais Mech-Bike EVO (71783) auf dem Rücken des Drachen aus diesem Set befestigen
-- Bewegliche Actionfiguren: Der Mech hat bewegliche Arme und Beine sowie eine aufklappbare Brust, in die eine Minifigur und ein Schwert hineinpassen; der Drache hat ein Schwert und kann Flügel, Beine, Kiefer, Kopf und Schwanz bewegen
-- Spielset mit Mech und Drachen: Kinder können mit dem Mech und dem allerersten NINJAGO Roboterdrachen spielen und die beiden Spielzeugfiguren dann zu Rogues Mech-Drachenreiter kombinieren
-- Ninja-Kinderspielzeug: Rogues Mech-Drachenreiter ist ein Abenteuerspielzeug, das Mädchen und Jungen ab 8 Jahren die Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen lässt
-- Ninja-Spielzeuge in Hülle und Fülle: LEGO NINJAGO Sets lassen Kinder mit ihren Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen
 - Geschenkidee für Kinder: Dieses Actionspielzeug bietet ein packendes Bau- und Spielerlebnis und ist ein tolles Geschenk für Kinder, die gerne in die Rolle der mutigen Ninja-Helden schlüpfen
+- Ninja-Spielzeuge in Hülle und Fülle: LEGO NINJAGO Sets lassen Kinder mit ihren Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen
+- Ninja-Kinderspielzeug: Rogues Mech-Drachenreiter ist ein Abenteuerspielzeug, das Mädchen und Jungen ab 8 Jahren die Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen lässt
+- Bewegliche Actionfiguren: Der Mech hat bewegliche Arme und Beine sowie eine aufklappbare Brust, in die eine Minifigur und ein Schwert hineinpassen; der Drache hat ein Schwert und kann Flügel, Beine, Kiefer, Kopf und Schwanz bewegen
 - 4 Minifiguren: Rogue, Arin, Rox und ein Geisterdrachenkämpfer; die beiden Bösewichte haben ein Banner mit einer Geheimbotschaft, die nur mit Arins Enthüllungsklinge entschlüsselt werden kann
+- Spielset mit Mech und Drachen: Kinder können mit dem Mech und dem allerersten NINJAGO Roboterdrachen spielen und die beiden Spielzeugfiguren dann zu Rogues Mech-Drachenreiter kombinieren
+- Austauschbare Mechs: Kinder können die Mechs aus den beiden separat erhältlichen Sets Kais Sturmreiter-Mech (71830) und Kais Mech-Bike EVO (71783) auf dem Rücken des Drachen aus diesem Set befestigen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DRCXHL11{{</world>}}

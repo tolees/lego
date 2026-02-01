@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Weitere Mechs zum Umgestalten: Dein Kind kann die Teile von Soras Technikmech mit Coles Erdmech (71806) und Kais Feuermech (71808) kombinieren; diese beiden Actionfiguren sind separat erhältlich
-- Ein ganzes Universum an Ninja-Spielzeugen: LEGO NINJAGO Sets beinhalten Drachen, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
-- Bewegliche Actionfigur: Der Technikmech hat ein Cockpit für Sora, ein großes Schwert, eine rotierende Klinge und bewegliche Arme und Beine, damit man die Figur in viele Actionposen bringen kann
 - Baue deinen eigenen LEGO NINJAGO Mech: Fans von Ninja-Spielzeug können viele Stunden kreativ spielen und Soras Technikmech mit den Teilen von 2 separat erhältlichen Actionfiguren kombinieren, um ihren eigenen Mech zu erschaffen
+- Ein ganzes Universum an Ninja-Spielzeugen: LEGO NINJAGO Sets beinhalten Drachen, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
+- Weitere Mechs zum Umgestalten: Dein Kind kann die Teile von Soras Technikmech mit Coles Erdmech (71806) und Kais Feuermech (71808) kombinieren; diese beiden Actionfiguren sind separat erhältlich
 - 2 LEGO NINJAGO Figuren: Das Abenteuer-Spielzeug beinhaltet Sora mit ihren beiden Katanas sowie einen Wolfsklauenjäger, damit dein Kind die Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen kann
 - NINJAGO-Geschenk: Dieses LEGO NINJAGO Action-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis und ist ein tolles Geschenk für Jungs und Mädchen, die gern mit Actionfiguren spielen
+- Bewegliche Actionfigur: Der Technikmech hat ein Cockpit für Sora, ein großes Schwert, eine rotierende Klinge und bewegliche Arme und Beine, damit man die Figur in viele Actionposen bringen kann
 - Actionfiguren-Spielzeug zum Umgestalten: LEGO NINJAGO Soras Technikmech ist ein Spielzeug für 7-jährige Jungs und Mädchen; Arme, Beine und Oberkörper lassen sich abnehmen, um das Set auch mit 2 anderen separat erhältlichen Mechs kombinieren zu können
 
 [🛒 Buy it!!]({{< param buyurl >}})

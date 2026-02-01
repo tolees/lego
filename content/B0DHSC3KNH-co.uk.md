@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fun food toy accessories – Includes a pick ‘n’ mix selection, a giant lollipop, a gumball machine, scissors and a cooking pot to make sweets
-- LEGO Friends characters – Kids can create different stories with LEGO Friends Leo and Gigi mini dolls, plus an Alba micro doll and a pet cat animal figure
-- Expand the fun – Inspire more creative-play around Heartlake City with other building sets (sold separately) from the LEGO Friends range
-- Sweet shop role play toy – This LEGO Friends building set lets kids act out customer interactions or create sibling stories with Leo and his sister, Alba
 - Creative building toys – This LEGO Friends Heartlake City Sweet Shop toy for 6+ year old girls and boys includes 2 mini dolls, a micro-doll, a cat figure and fun accessories
 - Birthday gifts for kids – This LEGO Friends building set makes a fun gift for 6+ year old girls and boys who like creative toys and shop role play
+- Fun food toy accessories – Includes a pick ‘n’ mix selection, a giant lollipop, a gumball machine, scissors and a cooking pot to make sweets
+- Sweet shop role play toy – This LEGO Friends building set lets kids act out customer interactions or create sibling stories with Leo and his sister, Alba
+- Expand the fun – Inspire more creative-play around Heartlake City with other building sets (sold separately) from the LEGO Friends range
+- LEGO Friends characters – Kids can create different stories with LEGO Friends Leo and Gigi mini dolls, plus an Alba micro doll and a pet cat animal figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC3KNH{{</world>}}

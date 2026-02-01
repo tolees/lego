@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 3 mini-dolls and cat – This set includes Olivia and Julian, classic LEGO Friends characters, plus mission commander Aveline and a space cat figure
+- LEGO Friends Mars Space Base and Rocket – This space toy for 8+ year old girls and boys comes with a rocket toy, research base and LEGO Mars rover
 - A birthday gift idea for kids – With lots to build and plenty of role-play inspiration, this building kit makes a space-themed gift for 8+ year old girls, boys and kids who love space toys and cool LEGO vehicles
 - Customisable science toy – Features a modular research base with individual living and research pods which can be configured in different ways
 - LEGO toy accessories – Includes details to fuel role play: a LEGO rover, drone and scientific tools so kids can act out Mars missions
-- LEGO Friends Mars Space Base and Rocket – This space toy for 8+ year old girls and boys comes with a rocket toy, research base and LEGO Mars rover
 - Air lock connects to other models – This LEGO space set features a special air lock element so kids can connect other compatible space-themed LEGO playsets (sold separately) for more adventures
 - Buildable outer space toys – Kids can assemble the spaceship toy, LEGO rover and Mars research base with its different pods for role-play fun
 

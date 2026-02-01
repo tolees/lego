@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fantasierijk race auto speelgoed voor 7 jaar en ouder – jongens en meisjes vanaf 7 jaar kunnen supersnelle actiescènes uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen met Lloyds pull-back racewagen
-- Grotere ninja-avonturen – kijk uit naar meer NINJAGO speelgoed (elke set is apart verkrijgbaar) waaronder LEGO draken, mecha en voertuigen
-- Speelgoed auto boordevol functies – de gestroomlijnde racewagen heeft 4 banden en een cockpit en is versierd met groene bliksemschichten. De set wordt ook geleverd met 2 bliksemelementen om een kleine hindernisbaan te maken
-- NINJAGOs allereerste pull-back auto – kinderen kunnen Lloyds pull-back racewagen vooruit laten razen door hem naar achteren te trekken en los te laten
-- 2 NINJAGO minifiguren – dit bouwpakket voor kinderen bevat Lloyd in een nog niet eerder uitgebracht harnas met 2 gouden katanas en een Draconische strijder met een zwaardaccessoire voor rollenspellen
 - Een universum vol ninja speelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
+- NINJAGOs allereerste pull-back auto – kinderen kunnen Lloyds pull-back racewagen vooruit laten razen door hem naar achteren te trekken en los te laten
+- Fantasierijk race auto speelgoed voor 7 jaar en ouder – jongens en meisjes vanaf 7 jaar kunnen supersnelle actiescènes uit seizoen 3 van de tv-serie NINJAGO De Drakenstrijd naspelen met Lloyds pull-back racewagen
+- Speelgoed auto boordevol functies – de gestroomlijnde racewagen heeft 4 banden en een cockpit en is versierd met groene bliksemschichten. De set wordt ook geleverd met 2 bliksemelementen om een kleine hindernisbaan te maken
 - Ninja cadeau voor jongens en meisjes – dit actiespeelgoed biedt een boeiende bouw- en speelervaring en is een leuke verrassing voor jongens en meisjes vanaf 7 jaar die dol zijn op ninja voertuigen en de Dragons Rising tv-serie
+- 2 NINJAGO minifiguren – dit bouwpakket voor kinderen bevat Lloyd in een nog niet eerder uitgebracht harnas met 2 gouden katanas en een Draconische strijder met een zwaardaccessoire voor rollenspellen
+- Grotere ninja-avonturen – kijk uit naar meer NINJAGO speelgoed (elke set is apart verkrijgbaar) waaronder LEGO draken, mecha en voertuigen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFRG9D{{</world>}}

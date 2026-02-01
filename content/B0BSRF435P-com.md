@@ -30,13 +30,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - 2 Minecraft worlds in 1 set – LEGO Minecraft The Crafting Box 4.0 (21249) building toy inspires players with 2 large-scale sets and endless free-building fun in 1 epic collection of Minecraft bricks and pieces
 - The creative fun never stops – With 2 large model options and endless free-building fun, this stimulating building toy for 8 year old kids makes a lasting birthday, holiday or any-day gift
-- Packed with Minecraft action – This Minecrfat toy set includes lots of familiar figures and mobs from the game, including Steve, Alex, a zombie, Creeper, cats and sheep
-- Safety assured – LEGO bricks and pieces are dropped, heated, crushed, twisted and analyzed to make sure they satisfy rigorous global safety standards
-- Dimensions – The fortress measures over 8 in. (21 cm) high, 14 in. (36 cm) wide and 8.5 in. (21 cm) deep. The cat house measures over 5 in. (13 cm) high, 14.5 in. (37 cm) wide and 7.5 in. (20 cm) deep
-- Endless play possibilities – Minecraft players can bring to life fortress battle action, a cat-themed community, plus various suggested builds and infinite imaginative adventures of their own
 - Quality guaranteed – LEGO components meet stringent industry quality standards to ensure they are consistent, compatible and easy to build with
 - Intuitive building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Dimensions – The fortress measures over 8 in. (21 cm) high, 14 in. (36 cm) wide and 8.5 in. (21 cm) deep. The cat house measures over 5 in. (13 cm) high, 14.5 in. (37 cm) wide and 7.5 in. (20 cm) deep
+- Safety assured – LEGO bricks and pieces are dropped, heated, crushed, twisted and analyzed to make sure they satisfy rigorous global safety standards
+- Endless play possibilities – Minecraft players can bring to life fortress battle action, a cat-themed community, plus various suggested builds and infinite imaginative adventures of their own
 - Minecraft made real – LEGO Minecraft sets give kids a different way to enjoy the popular game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks
+- Packed with Minecraft action – This Minecrfat toy set includes lots of familiar figures and mobs from the game, including Steve, Alex, a zombie, Creeper, cats and sheep
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BSRF435P{{</world>}}

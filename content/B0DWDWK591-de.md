@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Entdecke das ganze Sortiment: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans legendäre Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
+- Ein Highlight für Fans von LEGO Droiden und LEGO Star Wars Sets: Zum Nachspielen von spannender Geschichten und kreativem Rollenspiel; für stundenlangen Spielspaß
 - Cooles Star Wars Bauspielzeug für Kinder: das Star Wars Spielzeug ist eine große Freude für Kinder ab 7 Jahren; zum Bauen, Spielen und Ausstellen
+- LEGO Star Wars Battle Pack mit vielen Details: Erlebe Die Rache der Sith mit Klonsoldaten und baubaren Star Wars Droiden und genieße diesen spannenden Modellbau
+- Interaktives digitales Bauerlebnis: In der LEGO Builder App können Kinder beim Bauen eine digitale Version der baubaren Modelle vergrößern, drehen und näher betrachten
 - Realistischer AT-RT mit Shooter und Spinnendroide: Nutze das Cockpit für LEGO Minifiguren und starte deine Battle Pack Action; spiele alleine oder gemeinsam mit Freunden
 - Coole Star Wars Geschenkidee für Kinder ab 7 Jahren: Dieses LEGO Star Wars Bauspielzeug ist ein Geschenk für Jungen, Mädchen und junge Fans des LEGO Bauerlebnisses
-- Ein Highlight für Fans von LEGO Droiden und LEGO Star Wars Sets: Zum Nachspielen von spannender Geschichten und kreativem Rollenspiel; für stundenlangen Spielspaß
-- Entdecke das ganze Sortiment: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans legendäre Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
-- Interaktives digitales Bauerlebnis: In der LEGO Builder App können Kinder beim Bauen eine digitale Version der baubaren Modelle vergrößern, drehen und näher betrachten
-- LEGO Star Wars Battle Pack mit vielen Details: Erlebe Die Rache der Sith mit Klonsoldaten und baubaren Star Wars Droiden und genieße diesen spannenden Modellbau
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDWK591{{</world>}}

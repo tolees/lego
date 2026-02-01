@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Cool Star Wars cadeau voor jongens en meisjes vanaf 7 jaar – dit LEGO Star Wars bouwspeelgoed is een leuk cadeautje voor jongens, meisjes en alle jonge fans en liefhebbers van LEGO bouwspeelgoed
-- Gemaakt voor Star Wars actie – de set bevat een AT-RT walker met een cockpit voor een LEGO Star Wars minifiguur, een noppenschieter, opbergruimte voor een blaster en een verrekijker, een verstelbare Star Wars Spider Droid en een geschutskoepel met noppenschieter
-- Interactief digitaal bouwplezier – met de LEGO Builder app kunnen kinderen tijdens het bouwen inzoomen en een digitale versie van hun bouwmodellen draaien en visualiseren
-- 4 LEGO Star Wars personages – 4 327th Clone Troopers met een blasterpistool, 2 blasters en een blastergeweer, plus 3 LEGO figuren van Super Battle Droids
 - LEGO Star Wars Battle Pack bouwpakket voor kinderen – laat kinderen hun eigen peloton van 327th Star Corps Clone Troopers bouwen en speel actiescènes uit Star Wars: Revenge of the Sith na met de Super Battle Droids
-- Onderdeel van de LEGO Star Wars collectie – bekijk ook de andere LEGO Star Wars Battle Packs (apart verkrijgbaar) met pelotons van LEGO minifiguren, modellen en accessoires voor extra speelplezier
+- Interactief digitaal bouwplezier – met de LEGO Builder app kunnen kinderen tijdens het bouwen inzoomen en een digitale versie van hun bouwmodellen draaien en visualiseren
+- Gemaakt voor Star Wars actie – de set bevat een AT-RT walker met een cockpit voor een LEGO Star Wars minifiguur, een noppenschieter, opbergruimte voor een blaster en een verrekijker, een verstelbare Star Wars Spider Droid en een geschutskoepel met noppenschieter
 - Ontdek het volledige assortiment – met LEGO Star Wars sets (apart verkrijgbaar) kunnen kinderen en volwassen Star Wars fans onvergetelijke scènes naspelen, originele verhalen verzinnen en de bouwbare modellen op een mooi plekje neerzetten als Star Wars decoratie
+- 4 LEGO Star Wars personages – 4 327th Clone Troopers met een blasterpistool, 2 blasters en een blastergeweer, plus 3 LEGO figuren van Super Battle Droids
+- Onderdeel van de LEGO Star Wars collectie – bekijk ook de andere LEGO Star Wars Battle Packs (apart verkrijgbaar) met pelotons van LEGO minifiguren, modellen en accessoires voor extra speelplezier
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDWK591{{</world>}}

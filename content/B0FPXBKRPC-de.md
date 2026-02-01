@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO SET MIT ACTION: Jungen und Mädchen ab 6 Jahren können mit dem LEGO NINJAGO Set Nya vs. Mutationsmonster-Spinner spannende Szenen aus Staffel 4 der TV-Serie NINJAGO Aufstieg der Drachen nachspielen
-- LEGO NINJAGO BAUSETS: Dieses breite Spektrum an Kinderspielzeug lässt Ninja-Fans in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
 - GESCHENK FÜR KINDER: Dieses LEGO Set bietet ein packendes Bau- und Spielerlebnis und ist eine grandiose Geschenkidee für Kinder, die Fantasy-Abenteuer mit Actionspielzeug lieben
-- SPINNING-SPIELZEUG MIT COOLEN FUNKTIONEN: Kinder drücken den Knopf am Starter, um den Spinner in rasante Drehung zu versetzen – und können beobachten, wie die beiden Elementarkraft-Teile abfliegen, wenn er auf sein Ziel trifft
+- LEGO NINJAGO BAUSETS: Dieses breite Spektrum an Kinderspielzeug lässt Ninja-Fans in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
 - KONSTRUKTIONSSPIELZEUG MIT FIGUREN: Zwei Minifiguren - Nya mit Glefe und das Mutationsmonster mit Klauen - bieten packende Duelle zwischen Gut und Böse und machen das Spiel besonders lebendig
+- SPINNING-SPIELZEUG MIT COOLEN FUNKTIONEN: Kinder drücken den Knopf am Starter, um den Spinner in rasante Drehung zu versetzen – und können beobachten, wie die beiden Elementarkraft-Teile abfliegen, wenn er auf sein Ziel trifft
 - MODELLBAU UND LEGO DEKO IN EINEM: Das kompakte Set mit 49 Teilen führt Kinder in den Modellbau ein und wird nach dem Spielen zur coolen LEGO Deko auf dem Regal, Schreibtisch oder der Fensterbank
 - NOCH MEHR NINJA-ABENTEUER: Schau dir noch weitere separat erhältliche LEGO NINJAGO Spielsets mit detailreichen Drachen, Mechs, Tempeln und Fahrzeugen an
 

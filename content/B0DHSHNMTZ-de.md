@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Mario Kart Set: Das Auto Spielzeug verfügt über einen abnehmbaren Standard-Gleiter, Räder, die sich zum Driften eignen, und eine Katapultfunktion, um Panzer auf die Zielscheibe an der Werkbank zu schleudern
 - LEGO Super Mario Set mit Spielzeugflitzer: Freu dich auf spannende Rennen mit Toad (Boxencrew), dem Standard-Kart (aus LEGO Steinen) aus Mario Kart und einer Werkbank; Lass die Modelle nach Herzenslust driften und gleiten
-- LEGO Super Mario Geschenk: Dieses Auto Spielzeug ist ein tolles Geschenk für Jungen, Mädchen und Nintendo Gamer ab 7 Jahren; Für ein interaktives Spielerlebnis wird eines der separat erhältlichen Sets 71439, 71440 oder 71441 benötigt
-- Interaktives Spielerlebnis: Setz LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) ins Kart und freu dich auf Sound-/Spezialeffekte; Stampfe auf den Funktionsstein an der Werkbank, um weitere digitale Reaktionen hervorzurufen
 - Weck die Fantasie deines Kindes: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf coole Münzsammelmissionen zu schicken
+- Mario Kart Set: Das Auto Spielzeug verfügt über einen abnehmbaren Standard-Gleiter, Räder, die sich zum Driften eignen, und eine Katapultfunktion, um Panzer auf die Zielscheibe an der Werkbank zu schleudern
+- LEGO Super Mario Geschenk: Dieses Auto Spielzeug ist ein tolles Geschenk für Jungen, Mädchen und Nintendo Gamer ab 7 Jahren; Für ein interaktives Spielerlebnis wird eines der separat erhältlichen Sets 71439, 71440 oder 71441 benötigt
 - Nintendo Sets zum Bauen und Sammeln: Schau dir all die verschiedenen LEGO Super Mario: Mario Kart Abenteuersets an, um noch weitere separat erhältliche Flitzer zu finden, an denen du den Standard-Gleiter befestigen kannst
+- Interaktives Spielerlebnis: Setz LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) ins Kart und freu dich auf Sound-/Spezialeffekte; Stampfe auf den Funktionsstein an der Werkbank, um weitere digitale Reaktionen hervorzurufen
 - Nintendo Sammlerstück mit Toad Figur: Dieses LEGO Mario Kart Spielset beinhaltet einen Flitzer aus LEGO Steinen, einen Toad (Boxencrew) im roten Boxencrew-Overall sowie eine Banane mit Gesicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})
