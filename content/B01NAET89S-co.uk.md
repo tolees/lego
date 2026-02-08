@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO Botanicals Bouquet of Pink Roses - Artificial Flowers Building Set for Adults - incl. 12 Faux Roses & 4 Sprigs of Baby s Breath for Home Decor - DIY Gift Idea - Valentine s Day Treat - 10374'
+date: 2026-02-07 01:39:37
+image: 'https://m.media-amazon.com/images/I/51VXCgy8ryL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01NAET89S-co.uk LEGO Botanicals Bouquet of Pink Roses - Artificial...'
+sku: 'B01NAET89S-co.uk'
+tags: [ 'lego','🇬🇧', ]
+actualPrice: 40.99 GBP
+currency: GBP
+price: 40.99
+comparePrice: 54.99 GBP
+prodname: 'LEGO Botanicals Bouquet of Pink Roses - Artificial Flowers Building Set for Adults - incl. 12 Faux Roses & 4 Sprigs of Baby s Breath for Home Decor - DIY Gift Idea - Valentine s Day Treat - 10374'
+country: 'co.uk'
+flag: '🇬🇧'
+brand: ''
+buyurl: 'https://www.amazon.co.uk/dp/B01NAET89S/?tag=tolees0a-21'
+descuento: '25.46'
+average: '40.99'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- BOND OVER BUDS – The kit includes 3 sets of building instructions for the 3 stages of flowering, making it a fun DIY project to complete with friends or family
+- FLOWER BOUQUET MODEL KIT – Plant creative joy with this LEGO Botanicals Bouquet of Pink Roses building set for adults, which blooms with creative details
+- LEGO FLOWERS – The set features 4 faux roses in full bloom, 4 roses blossoming and 4 rosebuds, as well as 4 sprigs of baby’s-breath with white artificial flowers
+- BUILD MORE BLOOMS – Combine this building set with other LEGO Botanicals sets for adults (sold separately) to create a large, bespoke floral display for home or office
+- VALENTINES DAY GIFT IDEA – This LEGO Botanicals building set makes a fun birthday gift or Valentines present for women and men who are flower lovers and enjoy colourful model kits for adults
+- FLORAL HOME DECOR IDEA – Once the LEGO flower arrangement is complete, display it as everlasting faux flowers for desk or office decor
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B01NAET89S{{</world>}}
