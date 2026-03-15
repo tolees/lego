@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO City Le Vaisseau Interstellaire Jouet de Construction de l espace Cadeau pour Garçons et Filles Dès 6 Ans Jeu Créatif avec Véhicule et Minifigurines d Astronaute 60430'
+date: 2026-03-06 14:33:10
+image: 'https://m.media-amazon.com/images/I/51l--9fjfrL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CFW17QG2-fr LEGO City Le Vaisseau Interstellaire Jouet de Construction...'
+sku: 'B0CFW17QG2-fr'
+tags: [ 'lego','🇫🇷', ]
+actualPrice: 13.12 EUR
+currency: EUR
+price: 13.12
+comparePrice: 19.99 EUR
+prodname: 'LEGO City Le Vaisseau Interstellaire Jouet de Construction de l espace Cadeau pour Garçons et Filles Dès 6 Ans Jeu Créatif avec Véhicule et Minifigurines d Astronaute 60430'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B0CFW17QG2/?tag=tolees0d-21'
+descuento: '34.37'
+average: '13.12'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Guide de construction numérique : embarquez votre passionné de lespace dans une aventure de construction amusante avec lapplication LEGO Builder, où il peut voir les modèles sous tous les angles pendant quil construit
+- Vaisseau spatial jouet pour un jeu imaginatif : les jeunes amoureux de lespace seront ravis de partir à la recherche de laction intergalactique avec lensemble Le Vaisseau Interstellaire LEGO City
+- Jeu créatif : insérez des piles jouets pour alimenter les propulseurs principaux déployables du vaisseau et voyager à la vitesse de la lumière dans lespace, puis transformez le drone robotisé en jetpack
+- Jeu illimité : les ensembles spatiaux LEGO City comprennent des véhicules réalistes, des structures détaillées et des personnages intéressants qui mélangent la fantaisie et la réalité pour encourager un jeu imaginatif illimité
+- Que contient la boîte ? Ce jeu de construction amusant pour les 6 ans et plus comprend tout ce dont votre enfant a besoin pour construire un vaisseau spatial interstellaire avec un drone robotique et une figurine dastronaute
+- Découvrez dautres jouets LEGO pour lespace : votre enfant aura encore plus de plaisir et daventure lorsquil ajoutera cet ensemble aux autres jouets de la gamme LEGO City Space (vendus séparément)
+- Un cadeau pour les amoureux des vaisseaux spatiaux : propulsez limagination des enfants en orbite en offrant ce vaisseau spatial jouet comme cadeau danniversaire ou doccasion spéciale à un garçon ou une fille âgé(e) de 6 ans ou plus
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0CFW17QG2{{</world>}}
