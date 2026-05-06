@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO | Disney Casa sulla Spiaggia di Lilo e Stitch - Modellino Giocattolo con 6 Stanze Osservatorio Astronave e 5 Minifigure Giochi per Bambine e Bambini da 9 Anni Idea Regalo di Compleanno 43268'
+date: 2026-05-04 09:48:39
+image: 'https://m.media-amazon.com/images/I/51qLpRFpEKL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DHSDSWW4-it LEGO | Disney Casa sulla Spiaggia di Lilo e Stitch -...'
+sku: 'B0DHSDSWW4-it'
+tags: [ 'lego','🇮🇹', ]
+actualPrice: 66.7 EUR
+currency: EUR
+price: 66.7
+comparePrice: 89.99 EUR
+prodname: 'LEGO | Disney Casa sulla Spiaggia di Lilo e Stitch - Modellino Giocattolo con 6 Stanze Osservatorio Astronave e 5 Minifigure Giochi per Bambine e Bambini da 9 Anni Idea Regalo di Compleanno 43268'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0DHSDSWW4/?tag=tolees00-21'
+descuento: '25.88'
+average: '67.1014285714286'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Set di gioco Disney: contiene una casa LEGO con 6 stanze e un osservatorio sul tetto per l’astronave, oltre alle minifigure LEGO | Disney di Lilo, Stitch, Nani, David e Cobra Bubbles
+- Elementi LEGO per i giochi fantasy: la casa è piena di sorprese e di dettagli ispirati al film Disney Lilo e Stitch, comprende 2 tavole da surf, mini-chitarra, mini-giradischi e molto altro
+- Casa giocattolo LEGO | Disney di Lilo e Stitch: questo gioco per bambine e bambini da 9 anni permette di costruire la Casa sulla Spiaggia di Lilo e Stitch, per divertenti ore insieme ai personaggi del film Disney
+- Una guida semplice da seguire: con le istruzioni presenti nell’app LEGO Builder i giovani costruttori possono ingrandire e ruotare i modelli in 3D, tenere traccia dei loro progressi e salvare i set in ogni momento della costruzione
+- Gioco creativo: i fan di Lilo e Stitch Disney possono costruire la casa giocattolo e l’astronave, creare storie insieme ai personaggi Disney, per poi mettere in mostra la casa LEGO nella loro camera da letto
+- Regalo di compleanno per bambini e bambine: un ottimo regalo Disney con cui ampliare la propria collezione di personaggi della serie, pensato per i fan delle case delle bambole e gli amici degli extraterrestri
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0DHSDSWW4{{</world>}}

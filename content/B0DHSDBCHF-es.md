@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO Star Wars ARC-170 Starfighter Building Toy with 3 Clone Pilot Minifigures Plus an R4-P44 Droid Figure Birthday Gift Idea for Revenge of The Sith Fans 9+ Year Old Boys and Girls 75402'
+date: 2026-05-04 12:40:36
+image: 'https://m.media-amazon.com/images/I/51Usp6za4eL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DHSDBCHF-es LEGO Star Wars ARC-170 Starfighter Building Toy with 3...'
+sku: 'B0DHSDBCHF-es'
+tags: [ 'lego','🇪🇸', ]
+actualPrice: 52.49 EUR
+currency: EUR
+price: 52.49
+comparePrice: 69.99 EUR
+prodname: 'LEGO Star Wars ARC-170 Starfighter Building Toy with 3 Clone Pilot Minifigures Plus an R4-P44 Droid Figure Birthday Gift Idea for Revenge of The Sith Fans 9+ Year Old Boys and Girls 75402'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DHSDBCHF/?tag=tolees-21'
+descuento: '25.00'
+average: '55.120714285714'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Caza estelar LEGO para construir: Está equipado con 3 cabinas abatibles, espacio para R4-P44, 6 alas (4 de ellas ajustables que cambian de la posición de crucero a la de ataque moviendo una palanca) y 2 cañones automáticos
+- Una forma divertida de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción en la que podrán acercar y girar una versión digital 3D de sus modelos a medida que los construyen y mucho más
+- Juguete de colección de Star Wars: Las minifiguras LEGO del piloto clon Odd Ball, el piloto clon Jag y el piloto clon tienen cada una pistolas bláster para incorporar más acción de fantasía al juego de rol
+- 4 personajes LEGO Star Wars: Minifiguras LEGO Star Wars de un piloto clon Odd Ball, un piloto clon Jag y un piloto clon, cada uno con pistolas bláster, además de una figura LEGO de un droide R4-P44
+- Juguete de construcción de un caza estelar de Star Wars para niños de 9 años o más: Interpreta las épicas historias de Star Wars: La Venganza de los Sith con este detallado modelo LEGO construible de un caza estelar ARC-170
+- Regalo de cumpleaños del universo Star Wars para mayores de 9 años: Puedes regalarle este juguete LEGO con una nave estelar construible a niños y niñas de 9 añoso más o a cualquier fan de Star Wars: La Venganza de los Sith
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0DHSDBCHF{{</world>}}

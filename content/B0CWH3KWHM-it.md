@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO Star Wars Battle Pack Agguato su Mandalore Gioco d Avventura per Bambini e Bambine da 6 Anni in su con 4 Personaggi da The Mandalorian Giocattolo con Armi Jetpack e Grotta da Costruire 75373'
+date: 2026-05-04 09:06:52
+image: 'https://m.media-amazon.com/images/I/51sPNLVY84L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CWH3KWHM-it LEGO Star Wars Battle Pack Agguato su Mandalore Gioco d...'
+sku: 'B0CWH3KWHM-it'
+tags: [ 'lego','🇮🇹', ]
+actualPrice: 12.6 EUR
+currency: EUR
+price: 12.6
+comparePrice: 21.99 EUR
+prodname: 'LEGO Star Wars Battle Pack Agguato su Mandalore Gioco d Avventura per Bambini e Bambine da 6 Anni in su con 4 Personaggi da The Mandalorian Giocattolo con Armi Jetpack e Grotta da Costruire 75373'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0CWH3KWHM/?tag=tolees00-21'
+descuento: '42.70'
+average: '15.241'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Set di giochi LEGO Star Wars: The Mandalorian per bambini e bambine 6+: con il set di giochi davventura, il Battle Pack Agguato su Mandalore, i piccoli fan possono rivivere la scena dell’imboscata su Mandalore dalla Stagione 3 della serie Disney+
+- Giochi Star Wars per bambini: il set include una formazione rocciosa costruibile con una grotta, un cannone spara-bottoncini e una scatola con un elemento detonatore termico per tanti giochi creativi
+- Una divertente idea regalo Star Wars per bambini: regala questo piccolo set giocattolo LEGO StarWars da collezione, alle bambine e ai bambini creativi e a tutti i giovani fan di Star Wars: The Mandalorian
+- 4 minifigure dei personaggi LEGO Star Wars da collezione: contiene unaction figure Nite Owl mandaloriano e un Guerriero mandaloriano, ciascuno con un blaster, e 2 Commando imperiali, ciascuno con una pistola blaster, oltre a 4 elementi jetpack
+- Costruzione digitale interattiva: lapp LEGO Builder consente di ingrandire, ruotare e visualizzare una versione digitale del modello in costruzione
+- Giochi dazione in volo con jetpack e accessori LEGO: utilizza lelemento trasparente con una minifigure LEGO e usa la maniglia per farla “volare” ilpersonaggio Star Wars del battle pack
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0CWH3KWHM{{</world>}}

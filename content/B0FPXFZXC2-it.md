@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO Technic Auto Porsche 911 GT3 R REXY AO Racing - Macchina Giocattolo - Kit di Modellismo con Motore a 6 Cilindri Trazione Posteriore e Design da Dinosauro - Regalo per Bambini da 11 Anni - 42224'
+date: 2026-05-02 15:06:14
+image: 'https://m.media-amazon.com/images/I/51M2kFmOX8L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXFZXC2-it LEGO Technic Auto Porsche 911 GT3 R REXY AO Racing -...'
+sku: 'B0FPXFZXC2-it'
+tags: [ 'lego','🇮🇹', ]
+actualPrice: 107.77 EUR
+currency: EUR
+price: 107.77
+comparePrice: 139.99 EUR
+prodname: 'LEGO Technic Auto Porsche 911 GT3 R REXY AO Racing - Macchina Giocattolo - Kit di Modellismo con Motore a 6 Cilindri Trazione Posteriore e Design da Dinosauro - Regalo per Bambini da 11 Anni - 42224'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B0FPXFZXC2/?tag=tolees00-21'
+descuento: '23.02'
+average: '107.77'
+---
+
+There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- REGALO PER I FAN DELLE AUTO LEGO TECHNIC: unavvincente idea regalo di compleanno per gli amanti dei modellini di Porsche LEGO da collezione e dei dinosauri giocattolo
+- SCOPRI ALTRI SET: esplora il resto dei giocattoli LEGO Technic (disponibili separatamente), una gamma di veicoli che presentano movimenti e meccanismi realistici per ispirare i giovani costruttori
+- FUNZIONI REALISTICHE: il veicolo giocattolo include sterzo, sospensioni su tutte le ruote, differenziale, motore boxer a 6 cilindri, portiere e bagagliaio apribili, martinetti pneumatici sincronizzati e una funzione con cui sollevare lauto
+- MACCHINA GIOCATTOLO PORSCHE DA COSTRUIRE: il gioco per bambini e bambine da 11 anni in su LEGO Technic Auto Porsche 911 GT3 R REXY AO Racing stimola la creatività dei giovani piloti
+- DETTAGLI DA DINOSAURO LEGO: scopri la livrea a tema dinosauro e celebra uno dei modellini auto da corsa di maggior successo del mondo delle gare, con questa macchina LEGO ispirata al T. rex
+- KIT DI MODELLISMO PER IL GIOCO E LESPOSIZIONE: i piccoli possono divertirsi con un progetto gratificante assemblando la Porsche 911 LEGO Technic, che poi possono esporre come decorazione della camera da letto
+
+[🛒 Buy it now!!]({{< param buyurl >}})
+{{<world>}}B0FPXFZXC2{{</world>}}

@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO Creator 3in1 Astronaut im Weltraum Spielzeug Modellbausatz mit Hund und Raumschiff für Kinder Kinderzimmer-Deko kreatives Geschenk für Jungs und Mädchen ab 9 Jahren 31152'
+date: 2026-03-16 13:43:11
+image: 'https://m.media-amazon.com/images/I/41tnMyC6q+L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CFW2SH2H-de LEGO Creator 3in1 Astronaut im Weltraum Spielzeug...'
+sku: 'B0CFW2SH2H-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
+comparePrice: 49.99 EUR
+prodname: 'LEGO Creator 3in1 Astronaut im Weltraum Spielzeug Modellbausatz mit Hund und Raumschiff für Kinder Kinderzimmer-Deko kreatives Geschenk für Jungs und Mädchen ab 9 Jahren 31152'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0CFW2SH2H/?tag=tolees0ca-21'
+descuento: '30.01'
+average: '34.6945945945944'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Unzählige Spielmöglichkeiten: 3 verschiedene Weltraum-Modelle – eine Astronaut-Figur, ein Weltraum-Hund und ein Viper-Weltraumjet – lassen Kinder zu kühnen Abenteuern ins Weltall aufbrechen
+- 3 LEGO Weltraum-Spielzeuge in 1 Box: Raumfahrtbegeisterte Jungen und Mädchen ab 9 Jahren können mit dem LEGO Creator Astronaut im Weltraum 3 verschiedene Modelle mit denselben LEGO Steinen bauen, umbauen und als Kinderzimmer-Deko ausstellen
+- Modelle zum Ausstellen: Zu allen 3 LEGO Weltraum-Modellen liegen Ständer aus LEGO Steinen bei, damit dein Kind diese tollen Hingucker nach dem Spielen im Kinderzimmer als Schlafzimmer-Deko ausstellen kann
+- LEGO Creator Spielzeuge: Jeder 3in1 Modellbausatz lässt Kinder 3 verschiedene Modelle aus ihren wichtigsten Interessenbereichen bauen, die unter anderem Tiere, Fahrzeuge und detailreiche Szenen aus dem Stadtleben darstellen
+- Bewegliche Weltraum-Figuren: Der Spielzeug-Astronaut hat bewegliche Beine, Füße, Arme und Finger, während der LEGO Hund seinen Schwanz und seine Beine bewegen kann; dein Kind hat also die Wahl, in welche Position es die Figuren bringt
+- Kreatives Geschenk aus der Themenwelt der Raumfahrt: Dieses coole 3in1-Spielzeug bietet ein faszinierendes Bau- und Spielerlebnis, ist ein prima Geschenk für 9-jährige Jungs und Mädchen und lädt dein Kind zu vielen spannenden Rollenspielen ein
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0CFW2SH2H{{</world>}}
