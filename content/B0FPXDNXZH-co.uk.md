@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- TIE-IN WITH ASPHALT LEGENDS – Includes a redeemable code to unlock a digital version of this LEGO Bugatti model car in the ASPHALT LEGENDS online video game
+- DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
 - CAR GIFT FOR KIDS – This Bugatti toy car makes a fun birthday gift for 9+ year old boys and girls who love racing games and LEGO building sets
+- RACE CAR MODEL KIT – Race into action with the LEGO Technic Bugatti Chiron Pur Sport Hypercar toy for 9+ year old boys and girls who love racing games
 - AUTHENTIC DETAILS – Explore the details in this car model building kit, like the steering, W16 engine, opening doors and opening bonnet, then check out the vibrant orange bodywork and black livery
 - BUILD, PLAY, DISPLAY – Kids can enjoy assembling the building set, then stage fun races with their race car toy before placing it on display until it’s time to play again
-- DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
-- TIE-IN WITH ASPHALT LEGENDS – Includes a redeemable code to unlock a digital version of this LEGO Bugatti model car in the ASPHALT LEGENDS online video game
-- RACE CAR MODEL KIT – Race into action with the LEGO Technic Bugatti Chiron Pur Sport Hypercar toy for 9+ year old boys and girls who love racing games
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDNXZH{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- SUPER HERO ROLE PLAY – Every part of this mech action figure is jointed for dynamic action, and an opening torso reveals a cockpit where kids can place the Miles Morales minifigure
+- MORE SUPER HERO MECHS – Kids can collect and combine a wide range of LEGO mech figure building sets (sold separately) to expand their Super Hero adventures
+- 2 LEGO MARVEL MINIFIGURES – This action-packed building set for young Super Heroes features Miles Morales and Spider-Man 2099 from the alternate universe of Earth-928
+- ACCESSORIES FOR ACTION – The Spider-Man toy includes a powerful 3-stud shooter, web rope and razor web power blasts attached to the Miles Morales mech’s arms
 - A UNIVERSE OF LEGO MARVEL SETS – Transport kids into imaginative, hands-on adventures featuring a cast of iconic characters and action-packed scenes from Marvel movies
 - SPIDER-MAN GIFT IDEA – LEGO Marvel Miles Morales Mech vs. Spider-Man 2099 makes a great Marvel-themed birthday gift for 6+ year old boys and girls who love action with buildable mech toys
-- MORE SUPER HERO MECHS – Kids can collect and combine a wide range of LEGO mech figure building sets (sold separately) to expand their Super Hero adventures
-- SUPER HERO ROLE PLAY – Every part of this mech action figure is jointed for dynamic action, and an opening torso reveals a cockpit where kids can place the Miles Morales minifigure
-- 2 LEGO MARVEL MINIFIGURES – This action-packed building set for young Super Heroes features Miles Morales and Spider-Man 2099 from the alternate universe of Earth-928
 - POSABLE MECH TOY – Get set for supersized action from Spider-Man: Across the Spider-Verse with this building toy for 6+ year old boys and girls, featuring a large, fully jointed LEGO Marvel figure
-- ACCESSORIES FOR ACTION – The Spider-Man toy includes a powerful 3-stud shooter, web rope and razor web power blasts attached to the Miles Morales mech’s arms
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGZQ1Y{{</world>}}

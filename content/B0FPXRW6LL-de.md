@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- STAR WARS GESCHENK FÜR KINDER: Mach Fans eine Freude mit diesem reaktionsstarken Spielzeug; eine galaktische Geschenkidee zum Geburtstag für Jungen und Mädchen ab 9 Jahren sowie für jugendliche Fans und erwachsene Sammler
-- DIE GALAXIS SPIELT MIT: Wird der SMART Brick auf den SMART Tag im Thron, auf den Duellplattformen, dem A-Wing oder dem Geschützturm platziert, reagiert er auf Bewegung und Farben mit Licht- und Soundeffekten oder spielt sogar „The Imperial March"
-- SMART BRICK FUNKTIONEN: Bietet bis zu 45 Minuten Akkulaufzeit pro Ladung und ist mit anderen SMART Play Sets kompatibel, für noch größere Abenteuer (Bitte beachten: Der SMART Brick ist nicht separat erhältlich)
-- BILDSCHIRMFREIER SPIELSPASS: Stelle ikonische Kampfszenen aus Die Rückkehr der Jedi-Ritter mit Freunden und der Familie nach: Liefere dir Lichtschwert-Duelle mit dynamischen Reaktionen und erlebe im Rollenspiel einen A-Wing-Angriff auf den Todesstern
 - INTERAKTIVES STAR WARS SPIELZEUG: Dieses LEGO SMART Play All-in-1 Set enthält 2 SMART Bricks mit Ladegerät, 5 SMART Tags und 3 SMART Minifiguren, die ein intensives Spielerlebnis ermöglichen und auf jede deiner Bewegungen reagieren
-- LEGO SMART ASSIST APP: Hilft beim Einstieg, bei Fehlerbehebung, Steuern der Lautstärke, Herunterladen von Updates, Aktivieren des integrierten Mikrofons für zukünftige Funktionen (Aktivierung erfordert deine Zustimmung und ein Firmware-Update)
 - 3 LEGO SMART MINIFIGUREN: Der SMART Brick erweckt die SMART Luke Skywalker, SMART Imperator Palpatine und SMART Darth Vader Minifiguren zum Leben, indem ihre einzigartigen Stimmen und Reaktionen aktiviert werden
+- SMART BRICK FUNKTIONEN: Bietet bis zu 45 Minuten Akkulaufzeit pro Ladung und ist mit anderen SMART Play Sets kompatibel, für noch größere Abenteuer (Bitte beachten: Der SMART Brick ist nicht separat erhältlich)
+- LEGO SMART ASSIST APP: Hilft beim Einstieg, bei Fehlerbehebung, Steuern der Lautstärke, Herunterladen von Updates, Aktivieren des integrierten Mikrofons für zukünftige Funktionen (Aktivierung erfordert deine Zustimmung und ein Firmware-Update)
+- BILDSCHIRMFREIER SPIELSPASS: Stelle ikonische Kampfszenen aus Die Rückkehr der Jedi-Ritter mit Freunden und der Familie nach: Liefere dir Lichtschwert-Duelle mit dynamischen Reaktionen und erlebe im Rollenspiel einen A-Wing-Angriff auf den Todesstern
+- DIE GALAXIS SPIELT MIT: Wird der SMART Brick auf den SMART Tag im Thron, auf den Duellplattformen, dem A-Wing oder dem Geschützturm platziert, reagiert er auf Bewegung und Farben mit Licht- und Soundeffekten oder spielt sogar „The Imperial March"
+- STAR WARS GESCHENK FÜR KINDER: Mach Fans eine Freude mit diesem reaktionsstarken Spielzeug; eine galaktische Geschenkidee zum Geburtstag für Jungen und Mädchen ab 9 Jahren sowie für jugendliche Fans und erwachsene Sammler
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXRW6LL{{</world>}}

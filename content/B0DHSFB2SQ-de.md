@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Magische Geschenkidee für Kinder ab 9 Jahren: Das zauberhafte Harry Potter Set ist ein tolles Geschenk für Jungen, Mädchen und alle Harry Potter Liebhaber; Es zaubert jedem Fan der Zauberwelt ein Lächeln ins Gesicht
-- Magisches Abenteuer-Bauset mit 6 LEGO Harry Potter Minifiguren: Harry Potter, Neville Longbottom, Draco Malfoy, Professor McGonagall, Madam Hooch und Oliver Wood sorgen für ganz viel Bauspaß
-- Harry Potter Sammlerstück: Dieses Spielset gehört zu einer Serie von (separat erhältlichen) Modulen, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
-- 2 von 14 Hogwarts Porträts zum Sammeln: Dieses LEGO Harry Potter Bauspielzeug beinhaltet 2 von 14 zufällig ausgewählten Hogwarts Porträts, die im Trophäenraum aufgehängt werden können
 - Spielset für Kinder mit einem Turm: LEGO Harry Potter Schloss Hogwarts: Flugstunden ist ein Abenteuerset, mit dem Kinder das Quidditch Training und den Verwandlungsunterricht nachstellen können
+- Harry Potter Sammlerstück: Dieses Spielset gehört zu einer Serie von (separat erhältlichen) Modulen, die man zum bisher detailreichsten Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
 - Klassenzimmer-Spielset: Das ausklappbare Gebäude beherbergt den Quidditch Ausrüstungsraum, das Klassenzimmer für den Verwandlungsunterricht, Professor McGonagalls Büro, den Trophäenraum und Besenflugfunktionen
+- 2 von 14 Hogwarts Porträts zum Sammeln: Dieses LEGO Harry Potter Bauspielzeug beinhaltet 2 von 14 zufällig ausgewählten Hogwarts Porträts, die im Trophäenraum aufgehängt werden können
+- Magische Geschenkidee für Kinder ab 9 Jahren: Das zauberhafte Harry Potter Set ist ein tolles Geschenk für Jungen, Mädchen und alle Harry Potter Liebhaber; Es zaubert jedem Fan der Zauberwelt ein Lächeln ins Gesicht
 - Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App kann man Sets speichern, den Baufortschritt verfolgen und beim Bauen 3D-Ansichten der Modelle vergrößern und drehen
+- Magisches Abenteuer-Bauset mit 6 LEGO Harry Potter Minifiguren: Harry Potter, Neville Longbottom, Draco Malfoy, Professor McGonagall, Madam Hooch und Oliver Wood sorgen für ganz viel Bauspaß
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSFB2SQ{{</world>}}

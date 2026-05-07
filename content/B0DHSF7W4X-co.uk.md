@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gift idea for art lovers – This building set for adults makes a great anniversary gift for men and women and lets all art lovers enjoy an immersive and creative activity
-- 3D wall decor – Bring the beauty of the famous paintings into your home with this LEGO Art Vincent van Gogh – Sunflowers building set for adults
 - Adjustable petals – The sunflower petals can be adjusted, and there’s a tile featuring Van Gogh’s signature to complete the DIY display
+- 3D wall decor – Bring the beauty of the famous paintings into your home with this LEGO Art Vincent van Gogh – Sunflowers building set for adults
+- A homage to Van Gogh – Inspired by how Van Gogh created his renowned artworks, this LEGO Art model kit includes a horizontal strip in the canvas
+- Podcast – This LEGO Art set for adults comes with an instruction booklet and a QR code to access a podcast about Van Gogh and his inspiration
 - Vibrant colours – Created in collaboration with the Van Gogh Museum in Amsterdam, this LEGO model kit reimagines Van Gogh’s masterpiece
 - Wall decoration for the living room – This home office decor idea features 16 sunflowers inside a removable frame with a hanger element on the back
-- Podcast – This LEGO Art set for adults comes with an instruction booklet and a QR code to access a podcast about Van Gogh and his inspiration
-- A homage to Van Gogh – Inspired by how Van Gogh created his renowned artworks, this LEGO Art model kit includes a horizontal strip in the canvas
+- Gift idea for art lovers – This building set for adults makes a great anniversary gift for men and women and lets all art lovers enjoy an immersive and creative activity
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSF7W4X{{</world>}}

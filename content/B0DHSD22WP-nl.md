@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Stapsgewijze instructies – bekijk de bouwinstructies in het meegeleverde boekje dat de geschiedenis van de Trevifontein beschrijft, of maak gebruik van een digitale versie in de LEGO Builder app
-- Authentiek gedetailleerd model – bewonder de façade op de achtergrond, de details van de standbeelden, de hippocampi op miniatuurschaal en de kleine liefdesfontein, plus andere fraaie kenmerken
 - Model van de Trevi fontein in Rome – geniet van elke stap terwijl je dit barokke monument in Rome namaakt met dit nostalgische bouwpakket voor volwassenen, die bestaat uit 1880 onderdelen
-- Cadeau voor reizigers en cultuurliefhebbers – deze LEGO set om te verzamelen is een geweldig cadeau voor een man of vrouw die van geschiedenis, architectuur, reizen en Italië houdt
 - Haal een stukje Italië in huis – plaats de bouwbare straatlantaarns en paaltjes aan de voorkant van de fontein, bevestig het naamplaatje aan de voet van het displaymodel en stel dit model tentoon als kantoor decoratie of woondecoratie
-- Souvenir uit Rome voor geschiedenis- en reisliefhebbers – tijdens het bouwen, kun je dit beroemde monument in Rome in al zijn glorie nabouwen terwijl je geniet van nieuwe bouwtechnieken
+- Stapsgewijze instructies – bekijk de bouwinstructies in het meegeleverde boekje dat de geschiedenis van de Trevifontein beschrijft, of maak gebruik van een digitale versie in de LEGO Builder app
 - LEGO voor volwassenen – dit LEGO Architecture model maakt deel uit van een collectie LEGO sets voor volwassenen die net als jij houden van praktische en creatieve activiteiten
+- Souvenir uit Rome voor geschiedenis- en reisliefhebbers – tijdens het bouwen, kun je dit beroemde monument in Rome in al zijn glorie nabouwen terwijl je geniet van nieuwe bouwtechnieken
+- Authentiek gedetailleerd model – bewonder de façade op de achtergrond, de details van de standbeelden, de hippocampi op miniatuurschaal en de kleine liefdesfontein, plus andere fraaie kenmerken
+- Cadeau voor reizigers en cultuurliefhebbers – deze LEGO set om te verzamelen is een geweldig cadeau voor een man of vrouw die van geschiedenis, architectuur, reizen en Italië houdt
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSD22WP{{</world>}}

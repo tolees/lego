@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- More fun features – The LEGO NINJAGO mech also has an opening chest to place a minifigure inside and 2 big toy sword accessories
+- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) featuring dragons, temples and vehicles
 - Cool accessories – Each character comes with a weapon accessory: Zane has 2 shurikens, Wyldfyre has a crystal katana sword and Drix has 2 sickles
 - Ninja gift idea for kids – This small LEGO NINJAGO set provides a fun build-and-play experience and is a great gift idea for 6+ year old boys and girls who have a passion for ninja adventures
-- 3 LEGO NINJAGO minifigures – This ninja toy set comes with Zane, Wyldfyre and Master of Swarm Drix for fans to play out action-packed battles
-- More fun features – The LEGO NINJAGO mech also has an opening chest to place a minifigure inside and 2 big toy sword accessories
 - LEGO NINJAGO set – Zane’s Battle Suit Mech toy for 6+ year old boys and girls lets fans recreate scenes from NINJAGO Dragons Rising season 3
+- 3 LEGO NINJAGO minifigures – This ninja toy set comes with Zane, Wyldfyre and Master of Swarm Drix for fans to play out action-packed battles
 - Posable mech toy for kids – Zane’s Battle Suit has posable arms, legs and hands, plus an upper body that rotates through 360 degrees
-- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) featuring dragons, temples and vehicles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDYGTX{{</world>}}

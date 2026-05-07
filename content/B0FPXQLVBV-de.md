@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DIE GALAXIS SPIELT MIT: Wenn ein LEGO SMART Brick (nicht enthalten) mit einem der SMART Tags im Raumschiff verbunden ist, werden Funktionen wie Training mit dem Lichtschwert üben, Laser schießen und der Hyperantrieb aktiviert
+- 4 LEGO SMART STAR WARS MINIFIGUREN: Erwecke SMART Luke Skywalker mit Lichtschwert, SMART Han Solo, SMART Chewbacca und SMART C-3PO mit dem SMART Brick (nicht enthalten) zum Leben für ein reaktionsstarkes Spiel mit einzigartigen Stimmen und Reaktionen
 - STAR WARS GESCHENK FÜR KINDER: Begeistere einen Fan mit diesem interaktiven Bauspielzeug, ein galaktisches Geburtstagsgeschenk für Jungen und Mädchen ab 9 Jahren sowie für jugendliche und erwachsene Sammler
+- BILDSCHIRMFREIES SPIEL: Spiele mit Freunden Szenen nach: Hilf Luke Skywalker, die Wege der Macht zu erlernen, spiele Holoschach, transportiere den instabilen Treibstoffbehälter und nutze den Lichtgeschwindigkeitsmodus, um dem Imperium zu entkommen
+- DIGITALE ANLEITUNGEN: Die LEGO Builder App begleitet dein Kind auf ein intuitives Bauerlebnis, bei dem es mittels 3D-Anleitungen hineinzoomen und Modelle drehen sowie den Fortschritt speichern und verfolgen kann
 - SO AKTIVIERST DU DEIN SET: Ein LEGO SMART Brick aus den All-in-1-Sets 75421, 75423 oder 75427 (separat erhältlich) wird benötigt, um die immersiven Spielfunktionen zu aktivieren (bitte beachte: Der SMART Brick ist nicht als Einzelprodukt erhältlich)
 - INTERAKTIVES STAR WARS SPIELZEUG: Dieses mit LEGO SMART Play kompatible Set beinhaltet einen Millennium Falken mit 4 SMART Tags, 2 Shootern und aufklappbaren Platten für vollständigen Zugang zum Innenraum sowie 4 LEGO SMART Minifiguren
-- DIGITALE ANLEITUNGEN: Die LEGO Builder App begleitet dein Kind auf ein intuitives Bauerlebnis, bei dem es mittels 3D-Anleitungen hineinzoomen und Modelle drehen sowie den Fortschritt speichern und verfolgen kann
-- BILDSCHIRMFREIES SPIEL: Spiele mit Freunden Szenen nach: Hilf Luke Skywalker, die Wege der Macht zu erlernen, spiele Holoschach, transportiere den instabilen Treibstoffbehälter und nutze den Lichtgeschwindigkeitsmodus, um dem Imperium zu entkommen
-- 4 LEGO SMART STAR WARS MINIFIGUREN: Erwecke SMART Luke Skywalker mit Lichtschwert, SMART Han Solo, SMART Chewbacca und SMART C-3PO mit dem SMART Brick (nicht enthalten) zum Leben für ein reaktionsstarkes Spiel mit einzigartigen Stimmen und Reaktionen
+- DIE GALAXIS SPIELT MIT: Wenn ein LEGO SMART Brick (nicht enthalten) mit einem der SMART Tags im Raumschiff verbunden ist, werden Funktionen wie Training mit dem Lichtschwert üben, Laser schießen und der Hyperantrieb aktiviert
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXQLVBV{{</world>}}

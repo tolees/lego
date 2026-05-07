@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geschenk für Kinder, die Tiere und die Natur lieben: Das Set ist eine coole Geschenkidee für Kinder, die gern kreativ spielen und Geschichten und Rollenspiele darstellen
 - Spielset mit den LEGO Friends Charakteren Autumn und Leo: Für kreativen Spielspaß beinhaltet das Set 2 Spielfiguren, das Frettchen Bandit und eine Vogel Figur
 - Autumns Zimmer ist ein Set für Rollenspiele: Dieses Bauset für Mädchen und Jungen ab 6 Jahren beinhaltet 2 Minifiguren der Charaktere, ein Frettchen, einen Vogel und Zubehör für viele kreative Rollenspiele
-- Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 - Kreatives Zubehör: Unter anderem laden ein Vogelbeobachtungsbuch, eine Kamera, eine Sonnenblume, eine Schatzkarte, eine Taschenlampe, Vogelfutter, ein Fernglas und ein Glas voller Glühwürmchen zum Spielen ein
+- Geschenk für Kinder, die Tiere und die Natur lieben: Das Set ist eine coole Geschenkidee für Kinder, die gern kreativ spielen und Geschichten und Rollenspiele darstellen
 - Kinderspielzeug: LEGO Friends Autumns Zimmer ist ein Bauset und Lernspielzeug, das Kinder verschiedene Abenteuer darstellen lässt und ganz spielerisch in ihrer sozialen Entwicklung fördert
+- Online-Serie: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSDNDY8{{</world>}}

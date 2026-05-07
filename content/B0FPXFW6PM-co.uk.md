@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MEET MORE DROIDS – Display the BB-8 model true to scale with R2-D2 (75379), C-3PO (75398) and other brick-built droids of LEGO Star Wars collectible sets, all sold separately
+- FUN FEATURES – A detailed BB-8 model with opening hatch, a "burner arm" like the one he used to give Finn a "thumbs-up", plus an info plaque and a standard-size BB-8 LEGO figure
 - STAR WARS LEGO DROID FIGURE – Inspire kids to create the LEGO Star Wars BB-8 Astromech Droid toy for 10+ year old boys and girls, capturing the charm of the character from The Force Awakens
 - DIGITAL INSTRUCTIONS – The LEGO Builder app guides your child on an intuitive adventure that lets them zoom in and rotate sets using 3D instructions, as well as save and track their progress
-- STAR WARS GIFT IDEA – This model building kit makes a great birthday gift for 10+ year old boys, girls and teenagers, as well as adult fans and collectors
-- FUN FEATURES – A detailed BB-8 model with opening hatch, a "burner arm" like the one he used to give Finn a "thumbs-up", plus an info plaque and a standard-size BB-8 LEGO figure
-- KIDS ROOM DECOR – Display the LEGO droid figure as a playful piece of Star Wars room decor for any kid’s bedroom, great for a desk or bedside table
 - DYNAMIC PLAY – Move the BB-8 Star Wars figure across a flat surface to make his head spin in random directions, just like in the movies
+- KIDS ROOM DECOR – Display the LEGO droid figure as a playful piece of Star Wars room decor for any kid’s bedroom, great for a desk or bedside table
+- STAR WARS GIFT IDEA – This model building kit makes a great birthday gift for 10+ year old boys, girls and teenagers, as well as adult fans and collectors
+- MEET MORE DROIDS – Display the BB-8 model true to scale with R2-D2 (75379), C-3PO (75398) and other brick-built droids of LEGO Star Wars collectible sets, all sold separately
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFW6PM{{</world>}}

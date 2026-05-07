@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Instrucciones de construcción 3D: Prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, seguir tus progresos y guardar sets
-- Sets LEGO de héroes: Este modelo LEGO The Legend of Zelda, inspirado en dos de los videojuegos, combina emblemáticos personajes y una experiencia de construcción con LEGO relajante, creativa y desafiante
-- Maqueta para adultos del Árbol Deku: Date el gusto de tener este detallado set “2 en 1” de 2500 piezas con 2 versiones del Árbol Deku para crear un modelo de exposición o regálaselo a otro fan de la serie The Legend of Zelda
-- Regalo LEGO Nintendo para gamers adultos: El set, formado por una maqueta “2 en 1” The Legend of Zelda de un árbol construible y 2 modelos más pequeños, es un detallado regalo que los fans pueden exponer como decoración del hogar
-- Set de construcción “2 en 1” para adultos: Incluye un Gran Árbol Deku con detalles cuidadosamente seleccionados para cada versión y 4 minifiguras de personajes del videojuego (una figura de la heroína aventurera Princesa Zelda y 3 versiones de Link)
-- 2500 piezas para disfrutar creando: Ambas versiones del Árbol Deku vienen con pequeños modelos y elementos inspirados en los videojuegos, como la casa de Link, y cuentan con rasgos faciales articulados y paneles laterales accesibles
 - Merchandising del videojuego Zelda para coleccionar: Este set LEGO The Legend of Zelda contiene diversos objetos cuidadosamente seleccionados de cada juego, como la Ocarina del Tiempo, un Escudo Hyliano, la Espada Maestra y más
+- Set de construcción “2 en 1” para adultos: Incluye un Gran Árbol Deku con detalles cuidadosamente seleccionados para cada versión y 4 minifiguras de personajes del videojuego (una figura de la heroína aventurera Princesa Zelda y 3 versiones de Link)
+- Maqueta para adultos del Árbol Deku: Date el gusto de tener este detallado set “2 en 1” de 2500 piezas con 2 versiones del Árbol Deku para crear un modelo de exposición o regálaselo a otro fan de la serie The Legend of Zelda
+- Sets LEGO de héroes: Este modelo LEGO The Legend of Zelda, inspirado en dos de los videojuegos, combina emblemáticos personajes y una experiencia de construcción con LEGO relajante, creativa y desafiante
+- Regalo LEGO Nintendo para gamers adultos: El set, formado por una maqueta “2 en 1” The Legend of Zelda de un árbol construible y 2 modelos más pequeños, es un detallado regalo que los fans pueden exponer como decoración del hogar
+- Instrucciones de construcción 3D: Prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, seguir tus progresos y guardar sets
+- 2500 piezas para disfrutar creando: Ambas versiones del Árbol Deku vienen con pequeños modelos y elementos inspirados en los videojuegos, como la casa de Link, y cuentan con rasgos faciales articulados y paneles laterales accesibles
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DG2RXK46{{</world>}}

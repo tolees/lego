@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Preschool building toy – A wide range of engaging developmental LEGO sets for kids aged 4 and over introduces a universe of movie favourites, TV characters and everyday heroes
-- Birthday gift for kids – This LEGO Gabbys Dollhouse toy makes a fun gift for 4+ year old girls, boys and fans of DreamWorks Animation’s Gabby’s Dollhouse: The Movie
 - Dolls house accessories – There’s lots to discover, including shells, plants, sea life, a slide, a giant bubble that the characters can ‘float’ in, and coral that moves to reveal a treasure chest
-- Expand the fun – Kids can supplement this building toy with set 11205 (sold separately) to create the three expansive worlds depicted in the movie
-- Gabbys Dollhouse toy for kids – Fans of DreamWorks Animation’s Gabby’s Dollhouse can join their favourite kitty pals for fun with Mermaid Gabby’s Aquarium Adventure toy for 4+ year old girls and boys
 - Creative building toy – This LEGO 4+ set has a Gabby mini doll in a mermaid outfit, MerCat and Jellyfish Gabbys Dollhouse figures plus a Starter Brick for speedy assembly
+- Expand the fun – Kids can supplement this building toy with set 11205 (sold separately) to create the three expansive worlds depicted in the movie
+- Preschool building toy – A wide range of engaging developmental LEGO sets for kids aged 4 and over introduces a universe of movie favourites, TV characters and everyday heroes
+- Gabbys Dollhouse toy for kids – Fans of DreamWorks Animation’s Gabby’s Dollhouse can join their favourite kitty pals for fun with Mermaid Gabby’s Aquarium Adventure toy for 4+ year old girls and boys
+- Birthday gift for kids – This LEGO Gabbys Dollhouse toy makes a fun gift for 4+ year old girls, boys and fans of DreamWorks Animation’s Gabby’s Dollhouse: The Movie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDJYSKZ{{</world>}}

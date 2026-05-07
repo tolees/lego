@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DESIGNED FOR LITTLE HANDS – LEGO DUPLO development toys come with easy-to-handle bricks and engaging features to help toddlers take the first confident steps in their LEGO building journey
+- GIFT IDEA FOR TODDLERS – This LEGO DUPLO set is great for use as a Montessori toy, and makes a fun birthday gift for 2+ year old toddlers, boys and girls
 - 3 TIMES THE FUN – Kids use the same set of DUPLO bricks to build a digger and a tow truck with a rotating arm, or a scissor lift and a second tow truck with a smaller hook for lifting bricks
-- EXPLORE CREATIVITY TOGETHER – Toddlers can create 3 pairs of construction vehicles (pairs cannot be built simultaneously), starting with a loader with a tipping bucket and a dump truck toy
+- DESIGNED FOR LITTLE HANDS – LEGO DUPLO development toys come with easy-to-handle bricks and engaging features to help toddlers take the first confident steps in their LEGO building journey
 - CREATIVE CONSTRUCTION VEHICLE TOYS – The LEGO DUPLO 3 in 1 Construction Vehicles toy for 2+ year old boys and girls, features 22 big bricks and pieces for little ones to build pairs of cool trucks
 - EDUCATIONAL TODDLER TOYS – Encourage little builders to use their creativity, problem solving, perseverance and fine motor skills to experiment with different solutions to make inventive vehicles
-- GIFT IDEA FOR TODDLERS – This LEGO DUPLO set is great for use as a Montessori toy, and makes a fun birthday gift for 2+ year old toddlers, boys and girls
+- EXPLORE CREATIVITY TOGETHER – Toddlers can create 3 pairs of construction vehicles (pairs cannot be built simultaneously), starting with a loader with a tipping bucket and a dump truck toy
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MTWBPPI{{</world>}}

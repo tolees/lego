@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - KIDS CRAFTS WITH FUN FEATURES – The toy dog has a posable head, ears, legs, tail, brows and mouth; the squirrel has a posable tail and head; and the duck has a posable head
-- ENDLESS PRETEND-PLAY OPTIONS – Kids can play out fun stories with 3 cute toy animals (models cannot be built simultaneously): a LEGO dog, a squirrel or a duck
+- DETAILED ACCESSORIES – The building set includes a collar with a tag, a toy bone and a water bowl for the dog, the squirrel has an acorn to hold and the duck comes with a greenery-filled pond
+- 3in1 ANIMAL TOY – The LEGO Creator Cute Animals: Playful Puppy Dog toy for 8+ year old girls and boys lets kids build and rebuild 3 animal figures with the same LEGO bricks
 - MORE CREATIVE FUN – Enjoy even more building adventures with other sets (sold separately) from the extensive LEGO Creator 3in1 range
 - GIFT FOR KIDS – This LEGO Creator 3in1 set makes a cute birthday gift for 8+ year old girls and boys who love animals, creative toys and imaginative play
-- 3in1 ANIMAL TOY – The LEGO Creator Cute Animals: Playful Puppy Dog toy for 8+ year old girls and boys lets kids build and rebuild 3 animal figures with the same LEGO bricks
-- DETAILED ACCESSORIES – The building set includes a collar with a tag, a toy bone and a water bowl for the dog, the squirrel has an acorn to hold and the duck comes with a greenery-filled pond
+- ENDLESS PRETEND-PLAY OPTIONS – Kids can play out fun stories with 3 cute toy animals (models cannot be built simultaneously): a LEGO dog, a squirrel or a duck
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCHLDX{{</world>}}

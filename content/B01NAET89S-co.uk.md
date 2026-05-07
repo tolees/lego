@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- BUILD MORE BLOOMS – Combine this building set with other LEGO Botanicals sets for adults (sold separately) to create a large, bespoke floral display for home or office
+- LEGO BUILDER APP – The set is available in the LEGO Builder app, where builders and budding florists can zoom and rotate their builds and track their progress
 - FLOWER GIFT IDEA – This LEGO Botanicals building set makes a fun birthday gift for women, men and flower lovers who enjoy colourful model kits for adults
+- LEGO FLOWERS – The set features 4 faux roses in full bloom, 4 roses blossoming and 4 rosebuds, as well as 4 sprigs of baby’s-breath with white artificial flowers
 - FLORAL HOME DECOR IDEA – Once the LEGO flower arrangement is complete, display it as everlasting faux flowers for desk or office decor
 - BOND OVER BUDS – The kit includes 3 sets of building instructions for the 3 stages of flowering, making it a fun DIY project to complete with friends or family
-- BUILD MORE BLOOMS – Combine this building set with other LEGO Botanicals sets for adults (sold separately) to create a large, bespoke floral display for home or office
 - FLOWER BOUQUET BUILDING KIT – Plant creative joy with this LEGO Botanicals Bouquet of Pink Roses building set for adults, which blooms with creative details
-- LEGO FLOWERS – The set features 4 faux roses in full bloom, 4 roses blossoming and 4 rosebuds, as well as 4 sprigs of baby’s-breath with white artificial flowers
-- LEGO BUILDER APP – The set is available in the LEGO Builder app, where builders and budding florists can zoom and rotate their builds and track their progress
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01NAET89S{{</world>}}

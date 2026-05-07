@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- WHATS IN THE BOX? – The Minecraft toy features a chicken-shaped coop that lays eggs and dispenses seeds, plus torches, hay, an axe, smoker stove and more
-- GAMER GIFT FOR FANS – This LEGO Minecraft building toy makes a great birthday or Easter gift for 7+ year old boys, girls and fans of the popular sandbox game
-- LEGO MINECRAFT MINIFIGURE AND MOBS – The building set includes a Chicken Fan minifigure, plus a baby zombie Minecraft figure (who likes to ride the chicken), fox, cold chicken and a baby chicken
 - MINECRAFT MADE REAL – Kids with a passion for Minecraft can create and customise scenes from the game; rearranging, rebuilding and reimagining as new adventures take shape
-- LEGO MINECRAFT FARM TOY – Kids can enjoy creative adventures while caring for animal figures with this LEGO Minecraft Chicken Farm toy for 7+ year old boys and girls
+- LEGO MINECRAFT MINIFIGURE AND MOBS – The building set includes a Chicken Fan minifigure, plus a baby zombie Minecraft figure (who likes to ride the chicken), fox, cold chicken and a baby chicken
+- WHATS IN THE BOX? – The Minecraft toy features a chicken-shaped coop that lays eggs and dispenses seeds, plus torches, hay, an axe, smoker stove and more
 - FEATURES AND FUNCTIONS – With this building set, fans can look after the chickens using the fun features in the coop while fending off a baby zombie figure trying to hitch a ride on a chicken
+- GAMER GIFT FOR FANS – This LEGO Minecraft building toy makes a great birthday or Easter gift for 7+ year old boys, girls and fans of the popular sandbox game
+- LEGO MINECRAFT FARM TOY – Kids can enjoy creative adventures while caring for animal figures with this LEGO Minecraft Chicken Farm toy for 7+ year old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDBPSZ{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Authentic details – The toy car includes the 5 round air-intake features on the side, alloy wheels, headlights, horseshoe radiator grille, overhanging rear wing and 4 rear exhaust pipes
 - Bigger racing adventures – Explore more LEGO Speed Champions car playsets (sold separately), packed with authentic details for fans of LEGO vehicles
 - Bugatti car toy for kids – The LEGO Speed Champions Bugatti Centodieci Hyper Sports Car building toy for 9+ year old boys and girls lets car fans build, race and display the model
-- Bugatti display model built with LEGO bricks – After playing out racing stories with the brick-built race car toy, kids can proudly display it on a shelf or bedside table
-- Motorsport gift – This Bugatti car model kit offers a fun build-and-play experience and makes a great gift for 9+ year old boys and girls, as well as adult car-model collectors
 - Iconic vehicles for play and display – LEGO Speed Champions car building sets let fans build replica versions of some of the world’s most famous vehicles
 - 1 LEGO minifigure – The car model kit includes a driver minifigure wearing a Bugatti outfit, which kids can place behind the wheel to play out racing action
+- Motorsport gift – This Bugatti car model kit offers a fun build-and-play experience and makes a great gift for 9+ year old boys and girls, as well as adult car-model collectors
+- Authentic details – The toy car includes the 5 round air-intake features on the side, alloy wheels, headlights, horseshoe radiator grille, overhanging rear wing and 4 rear exhaust pipes
+- Bugatti display model built with LEGO bricks – After playing out racing stories with the brick-built race car toy, kids can proudly display it on a shelf or bedside table
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF3CTHV{{</world>}}

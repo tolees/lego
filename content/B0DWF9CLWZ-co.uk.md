@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- LEGO Star Wars minifigures – Commander Bly and Aayla Secura, 3 Commando Droid figures, a Pilot Battle Droid and 6 LEGO Star Wars Battle Droid figures with accessories
+- Ready for action – The MTT has hidden wheels for smooth movement, a pilot cockpit, 2 stud shooters, a STAP speeder in the rear compartment and fold-up side panels to access interior details
 - Explore the range – Collectible LEGO Star Wars sets (sold separately) enable kids and adult Star Wars fans to relive iconic scenes, create original stories or simply display the buildable models
 - LEGO Star Wars gift idea for kids – This play-and-display building toy makes a great gift for 9+ year old boys and girls who are Star Wars: The Clone Wars fans
-- LEGO Star Wars: The Clone Wars building toy – Kids become the heroes in their own epic Battle of Felucia scenes with this brick-built Separatist MTT vehicle
-- LEGO Star Wars minifigures – Commander Bly and Aayla Secura, 3 Commando Droid figures, a Pilot Battle Droid and 6 LEGO Star Wars Battle Droid figures with accessories
 - Authentic details – Turn the knob on top of the MTT to activate the droid-deployment rack, pushing it out from the front hatch, then unclip the Battle Droids from the rack
-- Ready for action – The MTT has hidden wheels for smooth movement, a pilot cockpit, 2 stud shooters, a STAP speeder in the rear compartment and fold-up side panels to access interior details
+- LEGO Star Wars: The Clone Wars building toy – Kids become the heroes in their own epic Battle of Felucia scenes with this brick-built Separatist MTT vehicle
 - A fun way to build – Let the LEGO Builder app guide kids on an intuitive building adventure where they can rotate a 3D digital version of their construction models as they build, and more
 
 [🛒 Check the deal!!]({{< param buyurl >}})

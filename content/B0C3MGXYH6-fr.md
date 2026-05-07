@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Dark Vador est attaché à une chaîne en métal robuste avec un anneau porte-clés.
 - Remarque : La mini figurine LEGO ne se détache pas de la chaîne en métal
-- Idée cadeau pour les enfants à partir de 6 ans : Le porte-clés mesure 8 cm de long.
 - Ce it cadeau amusant ravira les enfants et tous les fans des kits de construction LEGO Star Wars
+- Idée cadeau pour les enfants à partir de 6 ans : Le porte-clés mesure 8 cm de long.
 - Peut être utilisé comme porte-clé ou sac : Lanneau en métal se fixe facilement et en toute sécurité aux clés, sacs à dos et autres
 
 [🛒 Check the deal!!]({{< param buyurl >}})

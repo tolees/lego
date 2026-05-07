@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3D MODELL MIT PRÄSENTATIONSSOCKEL: Nach dem Aufbau wird das AT-AT Modell auf dem Ständer mit Namensschild präsentiert und entwickelt sich als LEGO Deko zu einem markanten Blickfang im Regal
-- KOMPATIBEL MIT WEITEREN DROIDEN: Das Modell lässt sich maßstabsgetreu neben BB-8, R2-D2 oder C-3PO aus der LEGO Star Wars Sammlerreihe ausstellen, alle separat erhältlich
-- BAUANLEITUNG FÜR ENTSPANNTE BAUZEIT: Die LEGO Builder App unterstützt mit drehbaren 3D-Ansichten, Zoom-Funktionen und gespeicherten Baufortschritten und sorgt für ein ruhiges, fokussiertes Bauerlebnis
-- SAMMLERSET FÜR STAR WARS FANS: Dieses Modell ergänzt die Sammlung mittelgroßer LEGO Star Wars Sets um ein ikonisches Fahrzeug und spricht Fans an, die legendäre Szenen der Filmgeschichte schätzen
 - GESCHENK FÜR ERWACHSENE ZUM VATERTAG: Ein besonderes Geschenk zum Vatertag für Papa und kreative Erwachsene, die Freude am Bauen haben und ikonische Momente der ursprünglichen Star Wars Trilogie mögen
 - AUTHENTISCHE SZENE DER SCHLACHT VON HOTH: Der Snowspeeder legt sein Schleppseil um die Beine des AT-AT und bildet einen dynamischen Filmmoment nach, der die Spannung des Klassikers eindrucksvoll einfängt
+- KOMPATIBEL MIT WEITEREN DROIDEN: Das Modell lässt sich maßstabsgetreu neben BB-8, R2-D2 oder C-3PO aus der LEGO Star Wars Sammlerreihe ausstellen, alle separat erhältlich
 - STAR WARS BAUSET FÜR ERWACHSENE: Baue ein detailreiches LEGO Diorama der Schlacht von Hoth aus Das Imperium schlägt zurück mit AT-AT und Snowspeeder als ausdrucksstarkes Ausstellungsmodell für Erwachsene
+- 3D MODELL MIT PRÄSENTATIONSSOCKEL: Nach dem Aufbau wird das AT-AT Modell auf dem Ständer mit Namensschild präsentiert und entwickelt sich als LEGO Deko zu einem markanten Blickfang im Regal
+- BAUANLEITUNG FÜR ENTSPANNTE BAUZEIT: Die LEGO Builder App unterstützt mit drehbaren 3D-Ansichten, Zoom-Funktionen und gespeicherten Baufortschritten und sorgt für ein ruhiges, fokussiertes Bauerlebnis
+- SAMMLERSET FÜR STAR WARS FANS: Dieses Modell ergänzt die Sammlung mittelgroßer LEGO Star Wars Sets um ein ikonisches Fahrzeug und spricht Fans an, die legendäre Szenen der Filmgeschichte schätzen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFZXCN{{</world>}}

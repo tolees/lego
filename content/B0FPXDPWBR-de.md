@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PUPPENHAUS ZUBEHÖR: Futternäpfe, Gaming-TV und Controller, Kühlschrank, Popcornmaschine, Donuts, Erdbeeren, Waffeln, Geheimcomputer, Staffelei, Toilette, Drohne mit Startrampe und mehr
-- CLUBHAUS SPIELZEUG FÜR MÄDCHEN UND JUNGEN AB 8 JAHREN: Kinder können Geschichten erzählen und tolle Aktivitäten mit dem LEGO Friends Heartlake City Clubhaus der Freunde Spielzeug erleben
 - 5 MINI PUPPEN UND 3 LEGO TIERFIGUREN: Enthält die kleinen Puppen Autumn, Nova, Aliya, Leo und Liann sowie die Haustiere Churro die Katze, Honey der Hase und Popcorn der Gecko
-- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
-- ZUSAMMEN BAUEN MODUS: Die LEGO Builder App bietet ein gemeinsames Bauerlebnis mit Freunden und Familie, bei dem alle Spaß haben und jeweils einen Teil des Sets mit ihrem eigenen Gerät bauen können
 - FÜR KREATIVES ROLLENSPIEL: Kinder können Alltagsgeschichten und Missionen im Clubhaus spielen, das eine Kletterwand, eine Rutsche, eine Seilrutsche, eine Küche und Bereiche für die Haustiere bietet
+- CLUBHAUS SPIELZEUG FÜR MÄDCHEN UND JUNGEN AB 8 JAHREN: Kinder können Geschichten erzählen und tolle Aktivitäten mit dem LEGO Friends Heartlake City Clubhaus der Freunde Spielzeug erleben
 - GESCHENK FÜR MÄDCHEN UND JUNGEN: Dieses Bauset ist ein tolles Geburtstagsgeschenk für Mädchen und Jungen ab 8 Jahren, die fantasievolles Spielen mit Familie und Freunden lieben
+- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- PUPPENHAUS ZUBEHÖR: Futternäpfe, Gaming-TV und Controller, Kühlschrank, Popcornmaschine, Donuts, Erdbeeren, Waffeln, Geheimcomputer, Staffelei, Toilette, Drohne mit Startrampe und mehr
+- ZUSAMMEN BAUEN MODUS: Die LEGO Builder App bietet ein gemeinsames Bauerlebnis mit Freunden und Familie, bei dem alle Spaß haben und jeweils einen Teil des Sets mit ihrem eigenen Gerät bauen können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDPWBR{{</world>}}

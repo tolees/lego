@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - FIGURA ARTICULADA DE GATO: La pata se balancea para reproducir el movimiento de saludo o de seña para entrar de las figuras decorativas de gatos de la suerte tradicionales
-- KIT DE MAQUETAS DE UN GATO: El divertido kit de maquetas LEGO Gato de la Buena Suerte es una llamativa pieza de exposición que traerá buena suerte y prosperidad a quien lo posea
-- DECORACIÓN PARA EL AÑO NUEVO CHINO: Coloca en la barriguita de la figura del gato LEGO el adorno con forma de moneda de oro o el deseo de buena fortuna y exponlo como deocración en el dormitorio
-- GATO DE LA SUERTE CON MUCHOS DETALLES: Construye los detalles del gato de la suerte y agrega los ojos sonrientes, sus bigotes, sus mejillas sonrosadas, las almohadillas de las patas y la cola
 - REGALO PARA NIÑOS Y NIÑAS DE 9 AÑOS EN ADELANTE: Esta figura decorativa es un regalo especial para desear suerte a niños, niñas y cualquier persona que celebre el Año Nuevo Chino
+- GATO DE LA SUERTE CON MUCHOS DETALLES: Construye los detalles del gato de la suerte y agrega los ojos sonrientes, sus bigotes, sus mejillas sonrosadas, las almohadillas de las patas y la cola
+- DECORACIÓN PARA EL AÑO NUEVO CHINO: Coloca en la barriguita de la figura del gato LEGO el adorno con forma de moneda de oro o el deseo de buena fortuna y exponlo como deocración en el dormitorio
+- KIT DE MAQUETAS DE UN GATO: El divertido kit de maquetas LEGO Gato de la Buena Suerte es una llamativa pieza de exposición que traerá buena suerte y prosperidad a quien lo posea
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DTVS54FX{{</world>}}

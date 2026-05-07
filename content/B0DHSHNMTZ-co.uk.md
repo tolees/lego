@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Super Mario gifts for gamers – This LEGO Super Mario playset requires sets 71439, 71440 or 71441 (sold separately) for interactive play
-- LEGO Super Mario car toy playset – Join Toad (Pit Crew) for racing and drifting action with a brick-built model of the Standard Kart from Mario Kart
-- Creative toys for kids – Place LEGO Mario, LEGO Luigi or LEGO Peach (not included) in the kart for sound/visual effects and stomp on the Action Tag
 - Mario Kart car – The Standard Kart features a detachable Super Glider, wheels for drifting and a launch function to fire shells
+- Creative toys for kids – Place LEGO Mario, LEGO Luigi or LEGO Peach (not included) in the kart for sound/visual effects and stomp on the Action Tag
 - Super Mario toy figure – This LEGO Mario Kart set includes a Toad (Pit Crew) figure in a red crew uniform, plus a Banana element with face decoration
-- Inspire imaginations – LEGO Super Mario buildable toys for 7+ year old boys and girls offer digital coin-collecting and fun social or independent play through expansion and rebuilding
+- LEGO Super Mario gifts for gamers – This LEGO Super Mario playset requires sets 71439, 71440 or 71441 (sold separately) for interactive play
 - Nintendo collectible building sets – Explore the LEGO Super Mario: Mario Kart sets and discover other vehicles (sold separately) to race against
+- Inspire imaginations – LEGO Super Mario buildable toys for 7+ year old boys and girls offer digital coin-collecting and fun social or independent play through expansion and rebuilding
+- LEGO Super Mario car toy playset – Join Toad (Pit Crew) for racing and drifting action with a brick-built model of the Standard Kart from Mario Kart
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSHNMTZ{{</world>}}

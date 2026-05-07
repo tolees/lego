@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- GESCHENKIDEE FÜR KINDER: Der LEGO Porsche eignet sich wunderbar als Geschenk für Jungen und Mädchen ab 11 Jahren, die schnelle Fahrzeuge und detailreiche Techniksets lieben
-- AUFFÄLLIGES DINO-DESIGN MIT WIEDERERKENNUNGSWERT: Der T.Rex-Look des LEGO Technic Porsche 911 GT3 R begeistert Motorsportfans und macht dieses Porsche Modell zum originellen Geschenk für Autofans
-- AUFBAU- UND SPIELSPASS FÜR KINDER AB 11 JAHREN: Mit dem LEGO Technic Porsche Rennwagen entsteht ein detailliertes Porsche Modellauto, das nach dem Aufbau Rennen gewinnt oder stolz ausgestellt wird
-- ENTDECKE REALISTISCHE LEGO FAHRZEUGE: Die separat erhältlichen LEGO Technic Autos bieten vielfältigen Bauspaß für Jungen und Mädchen, die komplexe Technik gern spielerisch erkunden
 - TECHNIK, DIE BEGEISTERT: Das LEGO Technic Porsche Modell punktet mit funktionierender Lenkung, Einzelradaufhängung, Air Jacks und einem realistischen Sechszylinder-Boxermotor
-- SPIELZEUG FÜR MODELLBAU FANS: Kinder setzen das Porsche Modell aus vielen Teilen zusammen, erleben dabei echtes Konstruktionsspielzeug und erwecken den Flitzer danach im Spiel zum Leben
 - DIGITALE HILFE BEIM MODELLBAU: Mit der LEGO Builder App erleben Kinder ein modernes Bauerlebnis, verfolgen den Fortschritt und betrachten das LEGO Fahrzeug in interaktiven 3D-Ansichten
+- SPIELZEUG FÜR MODELLBAU FANS: Kinder setzen das Porsche Modell aus vielen Teilen zusammen, erleben dabei echtes Konstruktionsspielzeug und erwecken den Flitzer danach im Spiel zum Leben
+- AUFFÄLLIGES DINO-DESIGN MIT WIEDERERKENNUNGSWERT: Der T.Rex-Look des LEGO Technic Porsche 911 GT3 R begeistert Motorsportfans und macht dieses Porsche Modell zum originellen Geschenk für Autofans
+- ENTDECKE REALISTISCHE LEGO FAHRZEUGE: Die separat erhältlichen LEGO Technic Autos bieten vielfältigen Bauspaß für Jungen und Mädchen, die komplexe Technik gern spielerisch erkunden
+- GESCHENKIDEE FÜR KINDER: Der LEGO Porsche eignet sich wunderbar als Geschenk für Jungen und Mädchen ab 11 Jahren, die schnelle Fahrzeuge und detailreiche Techniksets lieben
+- AUFBAU- UND SPIELSPASS FÜR KINDER AB 11 JAHREN: Mit dem LEGO Technic Porsche Rennwagen entsteht ein detailliertes Porsche Modellauto, das nach dem Aufbau Rennen gewinnt oder stolz ausgestellt wird
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXFZXC2{{</world>}}

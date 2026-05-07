@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - WHATS IN THE BOX? – Includes everything kids need to build the toy truck with a detachable kiosk, removable roof for access to the prep area and a sliding service window to serve hungry customers
-- MORE LEGO CITY SETS TO DISCOVER – Kids can expand the fun by adding this set to 60404 Burger Truck and 60452 Doughnut Truck (sold separately) for more tasty street food adventures
-- GIFTS FOR CREATIVE KIDS – This building set makes a fun anytime treat or birthday gift for 5+ year old boys and girls who love vehicle toys, immersive play and LEGO building
 - A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions while they build
+- PLAY FOOD ACCESSORIES – The LEGO vehicle set comes with toy food accessories including a fryer, ketchup bottle and a carton of fries
 - 2 LEGO CITY MINIFIGURES – Use the included vendor and customer minifigure to role-play serving fries, taking orders and enjoying tasty snacks
 - FOOD TRUCK TOY FOR KIDS – Serving up crispy fries is the name of the game with the LEGO City Fries Truck toy for 5+ year old boys and girls who love imaginative play
-- PLAY FOOD ACCESSORIES – The LEGO vehicle set comes with toy food accessories including a fryer, ketchup bottle and a carton of fries
+- GIFTS FOR CREATIVE KIDS – This building set makes a fun anytime treat or birthday gift for 5+ year old boys and girls who love vehicle toys, immersive play and LEGO building
+- MORE LEGO CITY SETS TO DISCOVER – Kids can expand the fun by adding this set to 60404 Burger Truck and 60452 Doughnut Truck (sold separately) for more tasty street food adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXBGJFX{{</world>}}

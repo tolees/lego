@@ -32,8 +32,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - SUPEREROI CONTRO I VEICOLI DEI CATTIVI: il sottomarino LEGO di Spidey ha una trappola ragnatela, quello di Ghost-Spider ha un guscio apribile, e quello di Doc Ock ha uno shooter sulle pinne
 - SOTTOMARINO GIOCATTOLO DI SPIDEY: tuffati nellavventura con il set LEGO | Marvel Spidey: Veicoli Subacquei, un gioco per bambini e bambine da 4 anni, fan della serie TV Spidey e i Suoi Fantastici Amici
 - 3 MINIFIGURE LEGO MARVEL: con il personaggio di Spidey, di Ghost-Spider e di Doc Ock, oltre ad accessori tra cui una banana, una gemma e uno scrigno del tesoro
-- COSTRUISCI E GIOCA: i Starter Brick aiutano lo sviluppo della motricità fine dei piccoli mentre costruiscono il sottomarino-granchio di Spidey, il sottomarino-tartaruga di Ghost-Spider e il sottomarino-balena di Doc Ock
 - TUTTA LAZIONI DEI SUPEREROI: scopri gli altri set LEGO | Marvel Spidey, tra cui Spidey sulla sua Moto Contro Rhino (11206) e La Nave Pirata del Team Spidey (11208), venduti separatamente
+- COSTRUISCI E GIOCA: i Starter Brick aiutano lo sviluppo della motricità fine dei piccoli mentre costruiscono il sottomarino-granchio di Spidey, il sottomarino-tartaruga di Ghost-Spider e il sottomarino-balena di Doc Ock
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPVTSQ3G{{</world>}}

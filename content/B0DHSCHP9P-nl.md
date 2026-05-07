@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ga helemaal op in het moment – geniet van elke stap van het bouwproces met de LEGO Builder app, waarmee je kunt inzoomen en je model in 3D kunt draaien, je voortgang kunt bijhouden en al je sets op één plek kunt opslaan
-- Een F1 racewagen boordevol authentieke kenmerken – voel je liefde voor de autosport terwijl je alle details ontdekt, waaronder de voor- en achterwielophanging, stuurinrichting, verstelbare spoiler en banden met opdruk
-- Een LEGO Technic auto voor F1 fans – deze set is een cadeautip voor volwassen F1 fans die van uitdagende projecten houden – of een traktatie voor jezelf
-- Auto bouwpakket voor volwassenen – concentreer je op een geweldig bouwproject terwijl je stap voor stap deze gedetailleerde LEGO Technic Oracle Red Bull Racing RB20 F1 auto in elkaar zet
-- LEGO voertuigen voor volwassenen – ontdek technische concepten en geniet van een ontspannend bouwproject met de collectie LEGO Technic voertuigsets voor volwassenen (apart verkrijgbaar)
 - Toon hem met trots – deze versie van de Oracle Red Bull Racing RB20 F1 auto is een geweldige blikvanger voor thuis of op kantoor om je passie voor de F1 aan iedereen te laten zien
+- Een LEGO Technic auto voor F1 fans – deze set is een cadeautip voor volwassen F1 fans die van uitdagende projecten houden – of een traktatie voor jezelf
+- LEGO voertuigen voor volwassenen – ontdek technische concepten en geniet van een ontspannend bouwproject met de collectie LEGO Technic voertuigsets voor volwassenen (apart verkrijgbaar)
+- Een F1 racewagen boordevol authentieke kenmerken – voel je liefde voor de autosport terwijl je alle details ontdekt, waaronder de voor- en achterwielophanging, stuurinrichting, verstelbare spoiler en banden met opdruk
+- Ga helemaal op in het moment – geniet van elke stap van het bouwproces met de LEGO Builder app, waarmee je kunt inzoomen en je model in 3D kunt draaien, je voortgang kunt bijhouden en al je sets op één plek kunt opslaan
+- Auto bouwpakket voor volwassenen – concentreer je op een geweldig bouwproject terwijl je stap voor stap deze gedetailleerde LEGO Technic Oracle Red Bull Racing RB20 F1 auto in elkaar zet
 - LEGO auto met realistische motor en versnellingsbak – bekijk de versnellingsbak met 2 versnellingen en het differentieel en verwijder de motorkap om de V6-motor met bewegende zuigers te bewonderen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

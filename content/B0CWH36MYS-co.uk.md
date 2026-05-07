@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gifts for dinosaur-lovers – This LEGO Creator 3in1 toy provides a fun build-and-play experience and makes a fun birthday gift 9-plus-year-old boys, girls and kids who love staging action with dinosaurs
 - More 3in1 fun – Expand the fun with other sets (sold separately) from the LEGO Creator 3in1 range, including vehicles, animals and buildings
-- Create a cool dino display – The triceratops toy has movable legs and head, and the pterodactyl toy has movable wings
-- 3 dinosaur toys in 1 set – Boys and girls aged 9+ can build 3 different animal toys using the same bricks with this LEGO Creator T. rex dino playset
-- Posable dinosaur figures – The Tyrannosaurus rex model has a movable head, tail, jaw, feet, legs, arms, toes and heels
 - Endless possibilities – Kids role-play with 3 different dino toys: roaming the jungle with the T. rex figure, a triceratops toy or a pterodactyl
+- Posable dinosaur figures – The Tyrannosaurus rex model has a movable head, tail, jaw, feet, legs, arms, toes and heels
+- Create a cool dino display – The triceratops toy has movable legs and head, and the pterodactyl toy has movable wings
+- Gifts for dinosaur-lovers – This LEGO Creator 3in1 toy provides a fun build-and-play experience and makes a fun birthday gift 9-plus-year-old boys, girls and kids who love staging action with dinosaurs
+- 3 dinosaur toys in 1 set – Boys and girls aged 9+ can build 3 different animal toys using the same bricks with this LEGO Creator T. rex dino playset
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH36MYS{{</world>}}

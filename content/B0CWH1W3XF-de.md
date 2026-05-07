@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Willkommen in Emerald City ist ein tolles Spielzeug und Sammlerstück: Kinder können auf ein LEGO Bauabenteuer gehen und mit dem 3-geschossigen Turm aus diesem Set eine legendäre Szene aus dem Film und Musical Wicked nachspielen
-- Zauberhaftes Bauerlebnis: Noch mehr Filmmagie bieten dir die anderen separat erhältlichen LEGO Wicked Spielsets, die auch alle in der intuitiven LEGO Builder App enthalten sind, und für noch mehr spannende Wicked Abenteuer sorgen
 - Kinder stehen im Mittelpunkt des magischen Abenteuers im Land Oz: Sie können die Läden in Emerald City durchstöbern, mit dem Fahrradkaffeewagen fahren, das Kartenzimmer im Turm erkunden und The Wizard treffen
+- Fantasy-Spielzeug: Diese Spielzeugversion von Emerald City lässt Kinder die Heldinnen Elphaba und Glinda auf Abenteuer ins Land Oz begleiten. Man muss nur den im Set versteckten QR-Code scannen, um weitere coole LEGO Wicked Momente zu erleben
+- Fantasy-Spielzeug mit jeder Menge vertrauter Funktionen: Zu dem Turm gehören auch das Zauberbuch Grimmerie, ein Stand mit kandierten Äpfeln, der Heißluftballon von The Wizard und dessen riesiger sprechender Kopf aus dem Film
 - Geschenkidee für Kinder ab 9 Jahren sowie für Fans des Films und Musicals Wicked: Dieses Set ist ein tolles Geschenk für Kinder, die den Film Wicked und Puppenhaus-Spielsets lieben; zaubere jedem kleinen und großen Fann ein Lächeln ins Gesicht
 - Fantasy-Spielzeug für Kinder ab 9 Jahren mit 5 LEGO Wicked Minifiguren: Die Hexen von Oz Glinda und Elphaba, The Wizard, Madame Morrible und Fiyero sowie eine Szene in Emerald City laden zum Spielen im Land Oz ein
-- Fantasy-Spielzeug mit jeder Menge vertrauter Funktionen: Zu dem Turm gehören auch das Zauberbuch Grimmerie, ein Stand mit kandierten Äpfeln, der Heißluftballon von The Wizard und dessen riesiger sprechender Kopf aus dem Film
-- Fantasy-Spielzeug: Diese Spielzeugversion von Emerald City lässt Kinder die Heldinnen Elphaba und Glinda auf Abenteuer ins Land Oz begleiten. Man muss nur den im Set versteckten QR-Code scannen, um weitere coole LEGO Wicked Momente zu erleben
+- Willkommen in Emerald City ist ein tolles Spielzeug und Sammlerstück: Kinder können auf ein LEGO Bauabenteuer gehen und mit dem 3-geschossigen Turm aus diesem Set eine legendäre Szene aus dem Film und Musical Wicked nachspielen
+- Zauberhaftes Bauerlebnis: Noch mehr Filmmagie bieten dir die anderen separat erhältlichen LEGO Wicked Spielsets, die auch alle in der intuitiven LEGO Builder App enthalten sind, und für noch mehr spannende Wicked Abenteuer sorgen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1W3XF{{</world>}}

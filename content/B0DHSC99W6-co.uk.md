@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Doughnut food truck toy – The LEGO City Doughnut Truck building set is a fun toy for 5 plus year old boys, girls and fans of fun creative toys
-- Role-play toys – Kids can rustle up tasty recipes in the truck’s prep area and serve delicious doughnuts and drinks from the service window
-- A city without limits – LEGO City is a place where kids can unleash their imaginations, with structures, construction toys, vehicles and citizens that inspire them to create and explore
-- In the box – This LEGO City set comes with elements to build a truck toy with a detachable kiosk, seller and customer minifigures and accessories
 - Welcome to a world of imaginative play – Unleash more fun and adventures when you combine this LEGO City set with others (sold separately) from the range
-- Fun toy food and accessories – This kids’ playset comes with a toy coffee machine, cash register, doughnut sign, 4 doughnuts, 2 mugs and more
 - Gifts for 5+ year old boys and girls – This building set makes a fun anytime treat or birthday gift for kids, plus fans of LEGO City sets and creative toys
+- A city without limits – LEGO City is a place where kids can unleash their imaginations, with structures, construction toys, vehicles and citizens that inspire them to create and explore
+- Fun toy food and accessories – This kids’ playset comes with a toy coffee machine, cash register, doughnut sign, 4 doughnuts, 2 mugs and more
+- Role-play toys – Kids can rustle up tasty recipes in the truck’s prep area and serve delicious doughnuts and drinks from the service window
+- In the box – This LEGO City set comes with elements to build a truck toy with a detachable kiosk, seller and customer minifigures and accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC99W6{{</world>}}

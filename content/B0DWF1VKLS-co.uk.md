@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Super Hero action – A separate build features a cosmic stone to inspire imaginative play as Captain America attempts to stop Thanos stealing the precious gem
-- Super Hero building toy for kids – LEGO Marvel Captain America vs. Thanos is a fun building toy for 4+ year old boys and girls who are fans of Super Heroes, spaceships and cool vehicles
-- Spaceships – Thanos’s ship is inspired by his Infinity Gauntlet, and has moving ‘fingers and a missile launcher, while Captain America pilots his Quinjet, featuring 2 shooters and an opening cockpit
 - Preschool buildable toys – LEGO sets for kids aged 4 and over introduce children to a universe of film favourites, TV characters and everyday heroes
+- Super Hero building toy for kids – LEGO Marvel Captain America vs. Thanos is a fun building toy for 4+ year old boys and girls who are fans of Super Heroes, spaceships and cool vehicles
 - 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 - LEGO Marvel minifigures – A Captain America minifigure with his shield and a Thanos minifigure with his helmet put iconic characters into the hands of young Super Heroes as they play
+- Spaceships – Thanos’s ship is inspired by his Infinity Gauntlet, and has moving ‘fingers and a missile launcher, while Captain America pilots his Quinjet, featuring 2 shooters and an opening cockpit
 - Gift for Marvel fans – This Captain America and Thanos building toy set is a great Avengers themed gift idea for 4+ year old boys and girls who love building with their favourite Super Heroes
 
 [🛒 Buy it!!]({{< param buyurl >}})

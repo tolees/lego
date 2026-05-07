@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- REGALO INFANTIL: Este juguete de construcción LEGO Harry Potter es un regalo de cumpleaños mágico para niñas y niños mayores de 9 años y fans del universo de los magos
-- CASTILLO DE HOGWARTS DE JUGUETE: Vive las trepidantes aventuras con el juguete de construcción LEGO Harry Potter Castillo de Hogwarts: Ala de Enfermería para niños, niñas y fans mayores de 9 años
-- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar sets y consultar su progreso, podrán acercar y girar sus modelos usando las instrucciones 3D
 - 7 MINIFIGURAS LEGO HARRY POTTER: Los personajes de Harry Potter Remus Lupin, Ron Weasley, un Dementor, Harry Potter, Hermione Granger, Penelope Clearwater y la Dama Gris
 - DETALLES Y ACCESORIOS: Busca el Patronus lobo, perteneciente a la colección de Patronus del 25º aniversario de LEGO Harry Potter (en sets a la venta por separado) y 2 de los 14 retratos coleccionables de Hogwarts
+- CASTILLO DE HOGWARTS DE JUGUETE: Vive las trepidantes aventuras con el juguete de construcción LEGO Harry Potter Castillo de Hogwarts: Ala de Enfermería para niños, niñas y fans mayores de 9 años
 - MAQUETA DE 3 NIVELES: Explora el edificio de Harry Potter con 3 niveles, que incluye el el aula de Defensa Contra las Artes Oscuras (desmontable) en el nivel inferior, el Ala de Enfermería y la sala común de Ravenclaw
+- REGALO INFANTIL: Este juguete de construcción LEGO Harry Potter es un regalo de cumpleaños mágico para niñas y niños mayores de 9 años y fans del universo de los magos
+- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar sets y consultar su progreso, podrán acercar y girar sus modelos usando las instrucciones 3D
 - COLECCIONABLES LEGO HARRY POTTER: Los modelos que construyes con este kit pertenecen a una serie de sets modulares (a la venta por separado) que, juntos, crean la escena del Castillo de Hogwarts construida con ladrillos más detallada hasta ahora
 
 [🛒 Buy it now!!]({{< param buyurl >}})

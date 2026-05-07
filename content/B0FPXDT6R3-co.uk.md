@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DOLLS HOUSE ACCESSORIES – The family home is packed with details that reflect Liann’s passions and family life, including art supplies, skateboards, chopsticks, noodle boxes, soy sauce, milk and orange juice
-- LOTS TO EXPLORE – The 2-floor toy house includes a kitchen, living area, bedroom, balcony and garden, plus a skatepark for performing tricks and a mural
-- 4 MINI DOLLS AND 2 ANIMAL FIGURES – Includes Liann, Michelle, Paisley and Nova mini dolls, plus pet gecko and axolotl toy figures with their own terrariums and food
 - BIRTHDAY GIFT IDEA – This building set makes a great birthday gift idea for 7+ year old girls and boys who love imaginative play with family and friends
-- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
-- DOLLS HOUSE TOY – Invite kids to play at LEGO Friends Liann’s Family House toy for 7+ year old girls and boys, which comes with 4 mini dolls and 2 animal figures to inspire imaginative play
+- 4 MINI DOLLS AND 2 ANIMAL FIGURES – Includes Liann, Michelle, Paisley and Nova mini dolls, plus pet gecko and axolotl toy figures with their own terrariums and food
 - DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
+- LOTS TO EXPLORE – The 2-floor toy house includes a kitchen, living area, bedroom, balcony and garden, plus a skatepark for performing tricks and a mural
+- DOLLS HOUSE TOY – Invite kids to play at LEGO Friends Liann’s Family House toy for 7+ year old girls and boys, which comes with 4 mini dolls and 2 animal figures to inspire imaginative play
+- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
+- DOLLS HOUSE ACCESSORIES – The family home is packed with details that reflect Liann’s passions and family life, including art supplies, skateboards, chopsticks, noodle boxes, soy sauce, milk and orange juice
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDT6R3{{</world>}}

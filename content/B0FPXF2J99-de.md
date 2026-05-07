@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- INTERAKTIVES BAUERLEBNIS: Die LEGO Builder App lässt Kinder selbstständig bauen, 3D Modelle vergrößern und drehen; die digitale Bauanleitung zeigt den Baufans aber auch, wie weit sie mit dem Modell schon sind
-- WEHRTURM: Stell eine LEGO Minifigur an den Doppelshooter, dreh die Kuppel, um in jede Richtung zielen zu können, und öffne den Sockel, um dir das Waffengestell und den Stauraum anzuschauen
-- ENTDECKE DAS GANZE SORTIMENT: Schau dir weitere separat erhältliche LEGO Star Wars Sammlersets zu Star Wars: The Mandalorian and Grogu an, um spannende Szenen nachzuspielen
-- VOLL EINSATZBEREITER AT-RT: Bewege die Beine des AT-RT, feure mit dem Doppelshooter und entferne einen Instrumententafel-Stein, damit Grogu genug Platz hat, um den Mandalorianer zu begleiten
 - KREATIVES SPIELZEUG: LEGO Star Wars: Angriff des AT-RT bietet dir Actionspaß mit 2 Modellen aus Steinen; der AT-RT und der Wehrturm des Restimperiums haben Doppelshooter
+- ENTDECKE DAS GANZE SORTIMENT: Schau dir weitere separat erhältliche LEGO Star Wars Sammlersets zu Star Wars: The Mandalorian and Grogu an, um spannende Szenen nachzuspielen
 - 3 LEGO STAR WARS FIGUREN: Verbünde dich mit dem Mandalorianer und Grogu, um es mit dem AT-RT-Piloten des Restimperiums aufzunehmen
+- WEHRTURM: Stell eine LEGO Minifigur an den Doppelshooter, dreh die Kuppel, um in jede Richtung zielen zu können, und öffne den Sockel, um dir das Waffengestell und den Stauraum anzuschauen
 - STAR WARS GESCHENK FÜR KINDER: Dieses Bauspielzeug ist ein cooles Geschenk für Jungen, Mädchen und alle Fans ab 7 Jahren, die Star Wars: The Mandalorian and Grogu lieben
+- VOLL EINSATZBEREITER AT-RT: Bewege die Beine des AT-RT, feure mit dem Doppelshooter und entferne einen Instrumententafel-Stein, damit Grogu genug Platz hat, um den Mandalorianer zu begleiten
+- INTERAKTIVES BAUERLEBNIS: Die LEGO Builder App lässt Kinder selbstständig bauen, 3D Modelle vergrößern und drehen; die digitale Bauanleitung zeigt den Baufans aber auch, wie weit sie mit dem Modell schon sind
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXF2J99{{</world>}}

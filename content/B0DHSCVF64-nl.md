@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Interactief superheldendisplay – het is snel en eenvoudig om de minifiguren terug te zetten op hun verborgen plek en de LEGO bouwset weer in elkaar te zetten, zodat deze gebruikt kan worden als fraaie Marvel decoratie in de kinderkamer
-- Avengers verzamelset – kinderen drukken op 3 afzonderlijke knoppen aan de bovenkant van het Marvel model om er 5 minifiguren uit te laten knallen, waardoor de actie van de Avengers voor hun ogen tot leven komt
-- Cadeau voor tieners met Marvel Avengers thema – deze bouwset met MARVEL logo is een cadeau voor jongens, meisjes, fans en verzamelaars van alles wat met superhelden en Marvel films te maken heeft
-- Bouwbaar speelgoed voor kinderen met MARVEL logo en minifiguren – kinderen en fans van superhelden kunnen het beroemde MARVEL logo nabouwen met dit LEGO Marvel Avengers bouwpakket voor kinderen met een explosieve verrassing voor jongens en meisjes vanaf 12 jaar
-- LEGO Marvel minifiguren – dit bouwpakket voor kinderen bevat minifiguren van Hulk, Thor, Iron Man, Black Widow en Captain America met accessoires voor leuke rollenspellen
 - Bouwbaar speelgoed voor kinderen en tieners – het uitgebreide assortiment LEGO Marvel bouwsets biedt kinderen een steeds veranderend universum vol superheldenavonturen om te bouwen en te spelen
+- LEGO Marvel minifiguren – dit bouwpakket voor kinderen bevat minifiguren van Hulk, Thor, Iron Man, Black Widow en Captain America met accessoires voor leuke rollenspellen
+- Interactief superheldendisplay – het is snel en eenvoudig om de minifiguren terug te zetten op hun verborgen plek en de LEGO bouwset weer in elkaar te zetten, zodat deze gebruikt kan worden als fraaie Marvel decoratie in de kinderkamer
+- Cadeau voor tieners met Marvel Avengers thema – deze bouwset met MARVEL logo is een cadeau voor jongens, meisjes, fans en verzamelaars van alles wat met superhelden en Marvel films te maken heeft
+- Avengers verzamelset – kinderen drukken op 3 afzonderlijke knoppen aan de bovenkant van het Marvel model om er 5 minifiguren uit te laten knallen, waardoor de actie van de Avengers voor hun ogen tot leven komt
+- Bouwbaar speelgoed voor kinderen met MARVEL logo en minifiguren – kinderen en fans van superhelden kunnen het beroemde MARVEL logo nabouwen met dit LEGO Marvel Avengers bouwpakket voor kinderen met een explosieve verrassing voor jongens en meisjes vanaf 12 jaar
 - 3D-bouwinstructies – kinderen kunnen de LEGO Builder app downloaden voor een complete bouwervaring met digitale functies om in te zoomen en modellen in 3D te draaien, sets op te slaan en hun voortgang bij te houden
 
 [🛒 Buy it!!]({{< param buyurl >}})

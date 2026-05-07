@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Construction toy with fun accessories – This playset comes with accessories including a toy architectural blueprint, jackhammer and walkie-talkie
+- Digital building fun – There are instructions for this creative toy in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
+- Fun gift for kids – This LEGO building toy makes a great gift for 8-plus-year-old boys and girls who love cool LEGO vehicles and creative activities
 - For kids who love role-play toys – This Excavator toy features ground-gripping tracks, a versatile boom and a driver’s cab that rotates 360 degrees
 - A city without limits – LEGO City is a place where kids can unleash their limitless imaginations, with structures, vehicles and citizens that motivate them to build, create, explore and play
 - What’s in the box? – This LEGO City set includes a digger truck toy, 2 cordon barriers and 3 LEGO construction worker minifigures for fun role play
-- Digital building fun – There are instructions for this creative toy in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
-- Fun gift for kids – This LEGO building toy makes a great gift for 8-plus-year-old boys and girls who love cool LEGO vehicles and creative activities
 - Excavator toy – Fans of cool vehicles will love this LEGO City Yellow Construction Excavator building toy set for 8-plus-year-old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})

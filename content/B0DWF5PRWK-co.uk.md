@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A rewarding building experience – This creative DIY project offers adults a relaxing activity as they assemble a piece of LEGO art with multiple display options for home or office
-- Wildlife home decor – This frameless 3D wall art model features a brick-built tiger peeking through decorative flowers and plants, great for stylish home or office decor
-- Housewarming gift idea – A creative treat for yourself or a thoughtful home decor gift for men and women who love animals, nature or art and enjoy building stylish LEGO wall art
-- Tiger and flowers decor – Add a 3D wall art to your home with this LEGO Art The Fauna Collection – Tiger building set for adults, a creative DIY project and stylish wall art for living room or office
 - Customisable LEGO set for adults – The LEGO flowers can be moved into different positions, or you can add brick-built flowers from other sets (sold separately) in the LEGO Botanicals collection
+- Wildlife home decor – This frameless 3D wall art model features a brick-built tiger peeking through decorative flowers and plants, great for stylish home or office decor
+- Tiger and flowers decor – Add a 3D wall art to your home with this LEGO Art The Fauna Collection – Tiger building set for adults, a creative DIY project and stylish wall art for living room or office
+- Housewarming gift idea – A creative treat for yourself or a thoughtful home decor gift for men and women who love animals, nature or art and enjoy building stylish LEGO wall art
 - LEGO Art sets for adults – Explore a range of brick-built wall art designed for adults who enjoy hands-on creativity and want to display their passions at home or in the office
+- A rewarding building experience – This creative DIY project offers adults a relaxing activity as they assemble a piece of LEGO art with multiple display options for home or office
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWF5PRWK{{</world>}}

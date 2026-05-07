@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Iron Man gift for kids – This versatile LEGO building set makes a great Marvel-themed gift for 8+ year old boys and girls who are fans of Super Hero adventures and Marvel movies
-- Fun accessories – The set also includes a buildable Dum-E robot, a fire extinguisher, 2 fire elements and more for imaginative play possibilities
-- LEGO Marvel building set for young Super Heroes – Iron Man’s Laboratory: Hall of Armour is a fun buildable Avengers toy for 8+ year old boys and girls
 - Battle-ready features – A maintenance platform with 2 robotic arms, a large scanning device and 2 stud shooters are also included in the building set
-- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Iron Man action and adventure – This Marvel building toy features 3 armour pods, which can be connected to pods from previous versions of the set
 - Iconic characters – MK1, MK43 and MK6 Iron Man armour, Pepper Potts and Aldrich Killian LEGO Marvel minifigures plus MK3 mech figure with movable arms
+- LEGO Marvel building set for young Super Heroes – Iron Man’s Laboratory: Hall of Armour is a fun buildable Avengers toy for 8+ year old boys and girls
+- Fun accessories – The set also includes a buildable Dum-E robot, a fire extinguisher, 2 fire elements and more for imaginative play possibilities
+- Iron Man action and adventure – This Marvel building toy features 3 armour pods, which can be connected to pods from previous versions of the set
+- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Iron Man gift for kids – This versatile LEGO building set makes a great Marvel-themed gift for 8+ year old boys and girls who are fans of Super Hero adventures and Marvel movies
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDK7GR{{</world>}}

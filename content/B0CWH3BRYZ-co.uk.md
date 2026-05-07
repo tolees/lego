@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Luigi, Kamek, Boo and Pink Baby Yoshi toy figures
 - LEGO Luigi toy playset for interactive adventures in a poisoned garden
+- LEGO Luigi, Kamek, Boo and Pink Baby Yoshi toy figures
 - Defeat the Boo hiding in the tree and ‘eat’ the fruit
 
 [🛒 Check the deal!!]({{< param buyurl >}})

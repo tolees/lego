@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Disney Princess building toy for 6+ year old girls and boys – Inspire imaginative adventures with this Princess Castle and Royal Pets building toy, great for creative play and display fun
+- LEGO set for fans of Disney toys – Kids can build a detailed castle with rooms for each Disney Princess, plus enjoy activities like following a treasure map, training and creative play
 - A Disney gift for 6+ year old girls and boys – This building set with 10 Disney characters, including Ariel, Rapunzel, Mulan, Jasmine and Moana, is a fun gift for kids to enjoy with friends or family
-- Expand life skills – With 10 LEGO│Disney characters and a castle filled with fun features, this building toy helps children foster life skills like creativity, storytelling and teamwork
+- What’s inside? – This Disney Princess building set features a detailed castle toy to build with multiple rooms, five LEGO│Disney mini dolls, five LEGO│Disney animal figures and more
+- Disney Princess building toy for 6+ year old girls and boys – Inspire imaginative adventures with this Princess Castle and Royal Pets building toy, great for creative play and display fun
 - Build Together with friends and family – The LEGO Builder app offers a fun and collaborative experience where you can share the fun of building and play with this LEGO ǀ Disney building set
 - Buildable castle with moving parts – The castle toy has sides that close for display, removable furniture, a hidden cave, an opening waterfall and a launching bow for training play
-- What’s inside? – This Disney Princess building set features a detailed castle toy to build with multiple rooms, five LEGO│Disney mini dolls, five LEGO│Disney animal figures and more
-- LEGO set for fans of Disney toys – Kids can build a detailed castle with rooms for each Disney Princess, plus enjoy activities like following a treasure map, training and creative play
+- Expand life skills – With 10 LEGO│Disney characters and a castle filled with fun features, this building toy helps children foster life skills like creativity, storytelling and teamwork
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DRCWYJDH{{</world>}}

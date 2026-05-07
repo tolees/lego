@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gifts for 6+ year old boys and girls – Give this LEGO camper van set as a birthday gift or any-day surprise for kids and fans of creative toys
+- Digital construction guide – The LEGO Builder app features tools that let kids zoom in and rotate models in 3D and track progress as they build
 - Role-play toys – This creative toy van opens up for full access to living space with a kitchen, toilet, 2 bunk beds, a cot and a removable dining set
-- LEGO Camper van toy for 6+ year old boys and girls – Kids enjoy holidays every day with this LEGO City Holiday Adventure Camper Van building set for
 - Building toy accessories – This camping toy comes with LEGO minifigure accessories including a guitar, baby bottle, 2 mugs and a croissant
 - What’s in the box? – The elements to build a LEGO camper van toy with a detailed living space, a campfire setting, 2 minifigures and a baby figure
-- Digital construction guide – The LEGO Builder app features tools that let kids zoom in and rotate models in 3D and track progress as they build
+- Gifts for 6+ year old boys and girls – Give this LEGO camper van set as a birthday gift or any-day surprise for kids and fans of creative toys
+- LEGO Camper van toy for 6+ year old boys and girls – Kids enjoy holidays every day with this LEGO City Holiday Adventure Camper Van building set for
 - A city without limits – LEGO City is a place where kids can unleash their imaginations, with structures, construction toys, vehicles and citizens that inspire them to create and explore
 
 [🛒 Buy it!!]({{< param buyurl >}})

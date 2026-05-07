@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fans van coole draken, ninjas en actie zullen dit LEGO NINJAGO speelgoed met 285 onderdelen geweldig vinden - verras kinderen van 7+ jaar met dit leuke cadeau voor hun verjaardag of een andere gelegenheid
-- De speelgoeddraak heeft een verstelbaar lichaam, hoofd en poten, plus ruimte voor Cole om op zijn rug te zitten; kinderen kunnen de draak upgraden door gouden vleugels, hoorns en een staart toe te voegen om hem te helpen de vijand te verslaan
 - De Bottenschorpioen kan de strijd aangaan op de meegeleverde 6-potige schorpioenfiguur; als kinderen erin slagen hem te verslaan, worden ze beloond met een verzamelvaandel voor Kracht die ze aan de draak kunnen bevestigen
 - Ontdek ook andere LEGO NINJAGO sets om het speelplezier nog verder mee uit te breiden: Lloyd’s Mech Battle EVO (71781), Kai’s Mech Rider EVO (71783), Jay’s Bliksemstraaljager EVO (71784)
 - Kinderen spelen meeslepende confrontaties na met LEGO NINJAGO Coles Aardedraak set met een grote drakenfiguur die geüpgraded kan worden tijdens de strijd, om hem nog groter en indrukwekkender te maken!
 - Bij de set met draken speelgoed is een LEGO NINJAGO poppetje van personage Cole inbegrepen, gewapend met een gouden katana en een sloophamer, plus de skeletstrijder Bottenschorpioen, gewapend met een zeis, en andere wapens voor bottenstrijders
+- Fans van coole draken, ninjas en actie zullen dit LEGO NINJAGO speelgoed met 285 onderdelen geweldig vinden - verras kinderen van 7+ jaar met dit leuke cadeau voor hun verjaardag of een andere gelegenheid
+- De speelgoeddraak heeft een verstelbaar lichaam, hoofd en poten, plus ruimte voor Cole om op zijn rug te zitten; kinderen kunnen de draak upgraden door gouden vleugels, hoorns en een staart toe te voegen om hem te helpen de vijand te verslaan
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRWZ5Q1{{</world>}}

@@ -33,8 +33,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - 7 minifiguras LEGO Star Wars: entre ellas Darth Vader, el Comandante Praji, un artillero imperial, un soldado de la armada imperial, un soldado de asalto y una minifigura de Cal Kestis conmemorativa del 25 aniversario de LEGO Star Wars
 - Una práctica ayuda: con la app LEGO Builder, los peques pueden acercar, girar y visualizar una versión digital de este juguete de construcción a medida que construyen, así como seguir sus progresos, guardar sets y más
 - Idea de regalo para niños y niñas de 10 años o más fans de Star Wars: este juguete de construcción coleccionable es un divertido regalo de cumpleaños para niños y niñas fans de Star Wars para jugar y exponer como decoración del dormitorio
-- Sets LEGO Star Wars para todas las edades: los juguetes de construcción LEGO Star Wars ofrecen a niños y fans adultos la oportunidad de recrear clásicas escenas, inventar nuevas historias de aventuras o, simplemente, exponer sus maquetas
 - Juguete de construcción creativa: el interior de la nave estelar alberga el puente, la sala de mando, la sala de descanso, la armería, tableros de operaciones y una caja con elementos que representan un cristal de Kyber y detonadores térmicos
+- Sets LEGO Star Wars para todas las edades: los juguetes de construcción LEGO Star Wars ofrecen a niños y fans adultos la oportunidad de recrear clásicas escenas, inventar nuevas historias de aventuras o, simplemente, exponer sus maquetas
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RPVS{{</world>}}

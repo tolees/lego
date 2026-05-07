@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - LEGO MINIFIGUR: Mateo und ein Träumling bieten nicht nur Actionspaß, sondern laden auch zu fantasievollen Rollenspielen ein; das kreative Spielzeug sorgt bei Kindern für Begeisterung
 - LEGO DREAMZZZ SPIELZEUGE: Andere separat erhältliche LEGO DREAMZzz Bausets enthalten LEGO Fahrzeuge und Spielzeugtiere, damit der fantasievolle Spielspaß nicht so schnell endet
-- LEGO MECH ZUM SPIELEN UND BAUEN: Konstruktionsspielzeug, für Jungen und Mädchen; Kinder können eine bunte Kapsel bauen und diese dann in einen Cyberhirn-Mech oder einen Cyberhirn-Skorpion verwandeln
-- KINDERSPIELZEUG: LEGO DREAMZzz Mateo vs. Cyberhirn-Mech ist ein Bauset, mit dem Kinder ab 8 Jahren eine bunte Kapsel bauen und dann in 2 verschiedene Mechs verwandeln können
 - SPANNENDES BAUPROJEKT: Eine Bauanleitung in Form einer Bildergeschichte lässt Kinder in die Traumwelt eintauchen; Eine digitale Version dieser Anleitung ist auch in der LEGO Builder App verfügbar
 - GESCHENKIDEE FÜR KINDER: Dieses Bauset ist ein beliebtes Geschenk für Jungen, Mädchen, LEGO DREAMZzz Fans und für alle, die gern mit Spielzeugskorpionen, Spielzeugspinnen und Mechs spielen
+- LEGO MECH ZUM SPIELEN UND BAUEN: Konstruktionsspielzeug, für Jungen und Mädchen; Kinder können eine bunte Kapsel bauen und diese dann in einen Cyberhirn-Mech oder einen Cyberhirn-Skorpion verwandeln
+- KINDERSPIELZEUG: LEGO DREAMZzz Mateo vs. Cyberhirn-Mech ist ein Bauset, mit dem Kinder ab 8 Jahren eine bunte Kapsel bauen und dann in 2 verschiedene Mechs verwandeln können
 - LERNSPIELZEUG MIT DETAILS: Shooter, eine Mega-Glibber-Kanone, ein aufklappbares Cockpit und Shooter-Module, die sich mit anderen LEGO DREAMZzz Sets kombinieren lassen, die 2025 separat erhältlich sind
 
 [🛒 Check the deal!!]({{< param buyurl >}})

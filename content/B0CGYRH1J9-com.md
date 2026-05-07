@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO bouquet – The cherry blossoms can be combined with other LEGO flowers (sold separately) to create a colorful arrangement
-- Beautiful spring colors – This LEGO set features 2 cherry blossom cuttings covered in buds in hues of pastel pink and white to create wonderful room decor.
-- Buildable blooms – Sow the seeds of creativity with this LEGO Cherry Blossoms celebration gift for kids aged 8 and up and adults who love flowers
 - Celebration gifts – The spring flower cherry blossoms can be given as a gift for kids with green thumbs, Valentine’s Day gift idea, or Mother’s Day gift for nature-lovers
 - Floral decor – Once complete, the cherry blossoms become spring-inspired decor that can be displayed in any room
-- Measurements – The set includes 430 pieces and each cherry blossom twig measures over 14 in. (35 cm) long
+- Beautiful spring colors – This LEGO set features 2 cherry blossom cuttings covered in buds in hues of pastel pink and white to create wonderful room decor.
+- Buildable blooms – Sow the seeds of creativity with this LEGO Cherry Blossoms celebration gift for kids aged 8 and up and adults who love flowers
 - Customize the flowers – Builders can combine the colors of the buds to create 2 unique stems
+- Measurements – The set includes 430 pieces and each cherry blossom twig measures over 14 in. (35 cm) long
+- LEGO bouquet – The cherry blossoms can be combined with other LEGO flowers (sold separately) to create a colorful arrangement
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CGYRH1J9{{</world>}}

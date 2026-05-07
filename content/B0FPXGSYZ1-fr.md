@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- UNE FAÇON AMUSANTE DASSEMBLER – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
 - FONCTIONNALITÉS RÉALISTES FAVORISANT LE JEU CRÉATIF – Lhélicoptère inclut des portes coulissantes, des rotors pivotants et un treuil fonctionnel, ainsi quune capsule de sauvetage qui s’ouvre pour accéder à lintérieur détaillé
-- ÉLARGISSEZ L’UNIVERS DE LEGO CITY – Les enfants peuvent combiner ce jeu de recherche et de sauvetage avec dautres sets de construction de la gamme LEGO City (vendus séparément), pour des aventures encore plus passionnantes
+- ACCESSOIRES POUR MINIFIGURINES LEGO – Le set contient une trousse médicale, des jumelles, un talkie-walkie et une bouée de sauvetage inspirant le jeu interactif
 - CADEAU AMUSANT POUR GARÇON OU FILLE DÈS 7 ANS – Le jeu Lhélicoptère des garde-côte est un superbe cadeau pour les enfants dès 7 ans qui aiment les véhicules de secours et la construction LEGO
 - JEU DE CONSTRUCTION AVEC HELICOPTÈRE DE SECOURS – Des aventures de sauvetage passionnantes vous attendent avec le kit Lhélicoptère des garde-côtes LEGO City pour les enfants dès 7 ans
 - QUE CONTIENT LA BOÎTE ? – Inclut tout ce dont vous avez besoin pour construire un hélicoptère de sauvetage en mer détaillé, les minifigurines d’un pilote, d’un civil et de 2 garde-côtes, ainsi qu’un requin pour le jeu de rôle
-- UNE FAÇON AMUSANTE DASSEMBLER – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D
-- ACCESSOIRES POUR MINIFIGURINES LEGO – Le set contient une trousse médicale, des jumelles, un talkie-walkie et une bouée de sauvetage inspirant le jeu interactif
+- ÉLARGISSEZ L’UNIVERS DE LEGO CITY – Les enfants peuvent combiner ce jeu de recherche et de sauvetage avec dautres sets de construction de la gamme LEGO City (vendus séparément), pour des aventures encore plus passionnantes
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGSYZ1{{</world>}}

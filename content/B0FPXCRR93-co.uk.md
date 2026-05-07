@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- INTERACTIVE TOY GIFT IDEA – This model vehicle kit makes a fun STEM toy and a great birthday gift for 7+ year old boys, girls and kids who love hands-on imaginative play and creative building
-- MIX AND MATCH LEGO VEHICLES – Kids can quickly and easily split and reassemble the sections of the vehicles to create custom models for exciting search-and-rescue missions
 - 3 LEGO MINIFIGURES AND ACCESSORIES – , Includes medic, coast guard and mountain rescuer minifigures plus accessories: a toy lifebuoy, wrench and medic kit for imaginative play
 - INCLUDES 3 ICONIC VEHICLES – This model building kit includes a LEGO City medical plane toy, coast guard hovercraft and service truck toy
-- A HELPING HAND – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 - MORE LEGO CITY SETS TO DISCOVER – Unleash more fun and adventures when you add this toy plane, hovercraft and truck building kit to other sets (sold separately) from the LEGO City range
+- INTERACTIVE TOY GIFT IDEA – This model vehicle kit makes a fun STEM toy and a great birthday gift for 7+ year old boys, girls and kids who love hands-on imaginative play and creative building
+- A HELPING HAND – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 - 3 EMERGENCY VEHICLE TOYS IN 1 SET – The LEGO City Airplane, Truck & Hovercraft Remix set features 3 mix-and-match rescue vehicle toys for 7+ year old boys and girls
+- MIX AND MATCH LEGO VEHICLES – Kids can quickly and easily split and reassemble the sections of the vehicles to create custom models for exciting search-and-rescue missions
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCRR93{{</world>}}

@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Minecraft Geschenk für Fans: Dieses Spielset zum Videospiel lässt Kinder aktiv spielen und ist ein Geschenk für Jungen und Mädchen, die Bauspielzeuge lieben, die viele Aktivitäten bieten
-- LEGO Minecraft Spielzeug: Spieler müssen all ihr Können zeigen, um antiken Schutt aufzusammeln, herabströmender Lava auszuweichen, Kreaturen zu verscheuchen und sich auf einer Minecraft Figur reitend in Sicherheit zu bringen
-- LEGO Spielset für Minecraft Modellbau: Beinhaltet ein baubares Segment der Brücke zur Netherfestung sowie vier LEGO Minecraft Figuren: Alex, ein Wither-Skelett, eine Lohe und einen Schreiter
 - Minecraft Fanartikel für noch mehr Spielspaß: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Bausets an, die dein Kind ebenfalls aktiv spielen lassen
+- LEGO Spielset für Minecraft Modellbau: Beinhaltet ein baubares Segment der Brücke zur Netherfestung sowie vier LEGO Minecraft Figuren: Alex, ein Wither-Skelett, eine Lohe und einen Schreiter
+- LEGO Minecraft Spielzeug: Spieler müssen all ihr Können zeigen, um antiken Schutt aufzusammeln, herabströmender Lava auszuweichen, Kreaturen zu verscheuchen und sich auf einer Minecraft Figur reitend in Sicherheit zu bringen
 - Gamer Set mit jeder Menge Zubehör: Das LEGO Skelett schwingt ein Steinschwert, die wirbelnde Lohe lässt ihre Stäbe kreisen, der Schreiter hat bewegliche Beine und einen Sattel
 - Gamer Spielzeug für kreative Kinder: Das Lava-Duell im Nether ist ein kleines LEGO Minecraft Set, das Jungen und Mädchen ab 6 Jahren, die das Videospiel lieben, großen Bau- und Spielspaß bietet
 

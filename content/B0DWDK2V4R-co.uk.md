@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Play and display model – Also includes a service cart with a seat for a LEGO minifigure and ammunition storage; the cart can be used to move the starship or as a display stand
-- LEGO Star Wars gift idea for kids – This buildable Star Wars toy makes a great birthday gift for 9+ year old boys and girls who are Star Wars: Attack of the Clones fans
-- 3 LEGO Star Wars minifigures – The building set includes Jango Fett with 2 blaster pistols and a jetpack, Young Boba Fett and Lama Su, for kids to role-play fun adventures
-- Authentically detailed LEGO Star Wars starship – Features an opening cockpit for 2 LEGO minifigures, 4 stud shooters, a seismic-charge-dropping function and wings that rotate with gravity
 - Join in the fun – Look out for Jango Fett’s Firespray-Class Starship set for adults (75409, sold separately), a companion set that allows kids and adults to enjoy building at the same time
+- Authentically detailed LEGO Star Wars starship – Features an opening cockpit for 2 LEGO minifigures, 4 stud shooters, a seismic-charge-dropping function and wings that rotate with gravity
 - LEGO Star Wars: Attack of the Clones starship – Role-play as Star Wars bounty hunter characters and play out exciting adventures with this building toy for 9+ year old boys and girls
+- 3 LEGO Star Wars minifigures – The building set includes Jango Fett with 2 blaster pistols and a jetpack, Young Boba Fett and Lama Su, for kids to role-play fun adventures
+- LEGO Star Wars gift idea for kids – This buildable Star Wars toy makes a great birthday gift for 9+ year old boys and girls who are Star Wars: Attack of the Clones fans
 - Intuitive instructions – The LEGO Builder app leads kids on an intuitive building adventure where they can rotate a 3D digital version of their construction models as they build, and more
+- Play and display model – Also includes a service cart with a seat for a LEGO minifigure and ammunition storage; the cart can be used to move the starship or as a display stand
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDK2V4R{{</world>}}

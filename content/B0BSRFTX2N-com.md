@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Rotating stage platforms – Place LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) center stage and turn them to make the connected stage platforms rotate, activating musical sounds
-- Set the stage for musical fun – Kids can visit the jungle home of Donkey Kong with this LEGO Super Mario Dixie Kong’s Jungle Jam Expansion Set (71421) and enjoy a musical adventure
 - Social play – There is space on the stage for a second interactive figure. The buildable toy game also includes jungle scenery including 2 buildable palm trees, a loudspeaker, lighting and flower s
-- Super Mario gift set for boys and girls ages 7-9 – This 174-piece set makes a fun birthday or holiday gift for kids who own a LEGO Super Mario Starter Course (71360, 71387 or 71403), which is needed for interactive play
+- Set the stage for musical fun – Kids can visit the jungle home of Donkey Kong with this LEGO Super Mario Dixie Kong’s Jungle Jam Expansion Set (71421) and enjoy a musical adventure
 - 2 LEGO Super Mario figures with musical accessories from the jungle home of Donkey Kong – Dixie Kong with a guitar and Squawks the parrot with a buildable microphone, plus buildable bongos and an amplifier
+- Super Mario gift set for boys and girls ages 7-9 – This 174-piece set makes a fun birthday or holiday gift for kids who own a LEGO Super Mario Starter Course (71360, 71387 or 71403), which is needed for interactive play
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSRFTX2N{{</world>}}

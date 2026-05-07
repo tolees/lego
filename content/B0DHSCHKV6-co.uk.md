@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Expand the fun – This fun Super Hero playset is compatible with all other LEGO Marvel buildable toys (sold separately) in the range
 - Iron Man gift for kids – This LEGO Marvel set makes a great gift for 6+ year old boys and girls who are fans of the Avengers and Super-Hero action
+- Expand the fun – This fun Super Hero playset is compatible with all other LEGO Marvel buildable toys (sold separately) in the range
 - Super Hero collectibles for kids – LEGO Marvel buildable toys are designed to deliver endless imaginative build-and-play possibilities for young Super Heroes
-- LEGO Marvel mech action – The end of the right arm of the Iron Man mech figure features a built-in dual stud shooter for exciting role play
 - 2 LEGO Marvel minifigures – Iron Man with a flip-open helmet and reversible head showing alternative expressions, and Ultron with a laser beam element
+- LEGO Marvel mech action – The end of the right arm of the Iron Man mech figure features a built-in dual stud shooter for exciting role play
 - Buildable Iron Man mech – The posable figure has movable arms, legs and fingers and the torso opens to reveal a cockpit for the Iron Man minifigure
 - Buildable LEGO Iron Man playset – Scale up the Super Hero action with Iron Man Mech vs. Ultron building toy for 6 plus year old boys and girls
 

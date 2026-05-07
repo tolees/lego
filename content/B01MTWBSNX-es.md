@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Decoración para la estantería: Decora tu hogar, tu oficina o cualquier otro espacio con una detallada maqueta de edificio que, por su anchura y parte trasera plana, puedes exponer en un estante
 - Kit de maqueta coleccionable de un bistró: Sumérgete en el encanto de las típicas cafeterías parisinas con el proyecto de construcción para adultos LEGO Icons Cafetería Francesa
-- Maqueta para construir para adultos detallada: Abre las puertas dobles para vislumbrar un detallado saloncito interior con un señorial papel pintado y muebles de madera oscura
 - Un regalo para amantes de las cafeterías: Celebra un cumpleaños o una ocasión especial con este regalo para mujeres y hombres fans de las manualidades para adultos, la buena comida y los viajes
+- Maqueta para construir para adultos detallada: Abre las puertas dobles para vislumbrar un detallado saloncito interior con un señorial papel pintado y muebles de madera oscura
+- Decoración para la estantería: Decora tu hogar, tu oficina o cualquier otro espacio con una detallada maqueta de edificio que, por su anchura y parte trasera plana, puedes exponer en un estante
 - Contenido: Esta pieza de decoración para el hogar o la oficina trae todo lo que necesitas para crear un bistró francés clásico con una pintoresca fachada, macetas colgantes y asientos ornamentados, con elementos que representan comida y vajilla
 
 [🛒 Buy it!!]({{< param buyurl >}})

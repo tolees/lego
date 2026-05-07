@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Posable figures – The LEGO NINJAGO mech features movable arms and legs, an opening chest for a minifigure and a sword, while the dragon toy includes posable wings, head, jaw, legs, tail and its own sword
 - Ninja toy for kids – Rogues Mech Dragon Rider adventure toy for 8+ year old boys and girls lets kids play out battle scenes from season 3 of the NINJAGO Dragons Rising TV show
 - Interchangeable NINJAGO mechs – Kids can also attach the mechs from Kais Mech Storm Rider (71830) and Kais Mech Rider EVO (71783) playsets (sold separately) to the back of this sets dragon figure
-- A universe of ninja toys – LEGO NINJAGO building sets let kids dive into a fantasy world of action-packed adventures alongside their ninja heroes
-- 4 NINJAGO minifigures – Includes Rogue, Arin, and the villainous duo Rox and a Spectral Dragonian Warrior, plus a banner with a secret message revealed only with Arin’s translucent blade accessory
-- Posable figures – The LEGO NINJAGO mech features movable arms and legs, an opening chest for a minifigure and a sword, while the dragon toy includes posable wings, head, jaw, legs, tail and its own sword
 - LEGO mech and dragon toy – Kids can play with the posable mech and toy dragon figure separately or combine them to form Rogues Mech Dragon Rider, the first-ever NINJAGO mech robot dragon
 - NINJAGO gift idea for kids – This LEGO set offers a fun build-and-play experience and makes a great birthday gift for 8+ year old boys and girls who enjoy playing with ninja toys
+- 4 NINJAGO minifigures – Includes Rogue, Arin, and the villainous duo Rox and a Spectral Dragonian Warrior, plus a banner with a secret message revealed only with Arin’s translucent blade accessory
+- A universe of ninja toys – LEGO NINJAGO building sets let kids dive into a fantasy world of action-packed adventures alongside their ninja heroes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DRCXHL11{{</world>}}

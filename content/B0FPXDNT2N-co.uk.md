@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 3D INSTRUCTIONS – Get ready to build like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set
-- DISCOVER MORE SETS – Explore more model building kits in the LEGO Technic range (sold separately) with realistic features and functions for adults who enjoy immersive projects
+- BUILD AND DISPLAY WITH PRIDE – Experience an engaging build, then showcase your vintage car model as fun home or office desk decor paying tribute to the iconic race car
 - GIFT IDEA FOR ADULTS – This LEGO Technic building set makes a cool motorsport gift for men and women who enjoy building detailed car models
+- DISCOVER MORE SETS – Explore more model building kits in the LEGO Technic range (sold separately) with realistic features and functions for adults who enjoy immersive projects
 - REALISTIC FEATURES – Explore the iconic racing car’s realistic functions, using the knob on top to steer, opening the doors and pressing the lever inside to open the bonnet
 - CAR MODEL BUILDING KIT – Build a classic car as you assemble the intricate details of this LEGO Technic 1966 Ford GT40 MKII Race Car model building set for adults
 - DETAILED V8 ENGINE AND CAR DESIGN – Open the cover to reveal the V8 engine, then admire the original stylish black-and-silver livery, inspired by the real-life 1966 Ford GT40 MKII car
-- BUILD AND DISPLAY WITH PRIDE – Experience an engaging build, then showcase your vintage car model as fun home or office desk decor paying tribute to the iconic race car
+- 3D INSTRUCTIONS – Get ready to build like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDNT2N{{</world>}}

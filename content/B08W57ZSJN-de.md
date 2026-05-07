@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält 4 Minifiguren: einen Schmied, Bogenschütze und 2 Black Falcon Knights mit 4 Schwertern, 3 Schilden und eine Hellebarde für Perfekter Modellbau. Enthält auch eine bewegliche Pferdefigur mit einem baubaren Wagen, einen Hund und Froschfiguren und eine LR41-Batterie für den LEGO Lichtbau. Das 2.164-teilige Modellbausatz für Erwachsene zum Bauen, Fotografieren und Teilen ist ein Top-Geschenk für sich selbst oder LEGO Fans und Hobbyisten
-- Das Dach des Modellhauses und der Werkstatt und die oberen 2 Ebenen heben sich ab, um das voll möblierte Schlafzimmer und die Küche mit erstaunlichen Details zu sehen.
 - Dieses LEGO Set für Erwachsene verfügt über ein voll möbliertes, 3-stöckiges Gebäude mit einer Werkstatt, glühender Kohleschmiede, ein Schlafzimmer, eine Küche und einen Garten
-- Enthält Zubehörelemente wie Werkzeuge, Kohle und Rüstung, und kommt mit LEGO Leichtbaustein in der Schmiedekohlenschmiede, die leuchtet
 - Die Werkstatt ist vollgepackt mit Gegenständen, die Sie in einem echten gesehen haben mittelalterliche Schmiede Schmiede; der Garten verfügt über ein Apfelbaummodell und einen Brunnen
+- Das Dach des Modellhauses und der Werkstatt und die oberen 2 Ebenen heben sich ab, um das voll möblierte Schlafzimmer und die Küche mit erstaunlichen Details zu sehen.
+- Enthält 4 Minifiguren: einen Schmied, Bogenschütze und 2 Black Falcon Knights mit 4 Schwertern, 3 Schilden und eine Hellebarde für Perfekter Modellbau. Enthält auch eine bewegliche Pferdefigur mit einem baubaren Wagen, einen Hund und Froschfiguren und eine LR41-Batterie für den LEGO Lichtbau. Das 2.164-teilige Modellbausatz für Erwachsene zum Bauen, Fotografieren und Teilen ist ein Top-Geschenk für sich selbst oder LEGO Fans und Hobbyisten
+- Enthält Zubehörelemente wie Werkzeuge, Kohle und Rüstung, und kommt mit LEGO Leichtbaustein in der Schmiedekohlenschmiede, die leuchtet
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08W57ZSJN{{</world>}}

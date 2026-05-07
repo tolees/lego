@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Luchtambulance – er wachten kinderen vanaf 6 jaar reddingsmissies boordevol actie met dit LEGO City Ambulancevliegtuig bouwpakket voor kinderen boordevol leuke kenmerken
-- Wat zit er in de doos? – alles wat kinderen nodig hebben om een speelgoed ambulance, een sneeuwscooter en een klein vliegveldgedeelte met een windzak te bouwen, plus minifiguren van een piloot, arts, ambulancemedewerker en skiër
-- Gedetailleerd LEGO vliegtuig model – kinderen kunnen de trap naar beneden klappen en de romp openen om toegang te krijgen tot verschillende delen, zoals de cockpit en een uitklapbaar medisch laboratorium met schermen en een werkplek
-- Cadeau voor jongens en meisjes – geef deze set met speelgoed vliegtuig cadeau voor de feestdagen of een verjaardag aan jongens en meisjes van 6 jaar en ouder
-- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met LEGO voertuigen, gebouwen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
 - Nog meer speelplezier – kinderen beleven nog meer plezier en avonturen als ze deze vliegtuigspeelset combineren met andere sets (apart verkrijgbaar) uit het LEGO City assortiment
+- Luchtambulance – er wachten kinderen vanaf 6 jaar reddingsmissies boordevol actie met dit LEGO City Ambulancevliegtuig bouwpakket voor kinderen boordevol leuke kenmerken
+- Een stad waar alles kan – LEGO City is een plek waar kinderen hun grenzeloze fantasie de vrije loop kunnen laten met LEGO voertuigen, gebouwen en inwoners die hen motiveren om te bouwen, creëren, ontdekken en spelen
+- Cadeau voor jongens en meisjes – geef deze set met speelgoed vliegtuig cadeau voor de feestdagen of een verjaardag aan jongens en meisjes van 6 jaar en ouder
+- Wat zit er in de doos? – alles wat kinderen nodig hebben om een speelgoed ambulance, een sneeuwscooter en een klein vliegveldgedeelte met een windzak te bouwen, plus minifiguren van een piloot, arts, ambulancemedewerker en skiër
 - Accessoires voor rollenspellen – deze speelset bevat EHBO-accessoires, waaronder een brancard, een dokterstas, een injectiespuit en een waterfles
+- Gedetailleerd LEGO vliegtuig model – kinderen kunnen de trap naar beneden klappen en de romp openen om toegang te krijgen tot verschillende delen, zoals de cockpit en een uitklapbaar medisch laboratorium met schermen en een werkplek
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNK1Q{{</world>}}

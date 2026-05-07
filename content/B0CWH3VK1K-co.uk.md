@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- NINJAGO gift – This mech toy provides a fun build-and-play experience and is a fun birthday gift idea for 12+ year-old boys, girls and kids
-- 1 LEGO NINJAGO minifigure – Ninja toy playset comes with NINJAGO character, Mech Cole armed with 2 golden katana sword accessories
-- Dragon wings and sword – The mech ninja toy also has a pair of dragon wings on its back, a large sword and a cockpit for the Cole minifigure
-- Ninja adventure toy for kids – Boys and girls aged 12+ can recreate scenes from NINJAGO Dragons Rising season 2 with Cole’s Titan Dragon Mech toy
-- Bigger ninja adventures – Look out for more LEGO NINJAGO toys (sets sold separately) to play out action with Cole’s Titan Dragon Mech
 - Posable NINJAGO mech – This is the biggest ever NINJAGO titan mech, with posable arms, legs, head, body, and rotation points and joints
+- NINJAGO gift – This mech toy provides a fun build-and-play experience and is a fun birthday gift idea for 12+ year-old boys, girls and kids
+- Ninja adventure toy for kids – Boys and girls aged 12+ can recreate scenes from NINJAGO Dragons Rising season 2 with Cole’s Titan Dragon Mech toy
+- Dragon wings and sword – The mech ninja toy also has a pair of dragon wings on its back, a large sword and a cockpit for the Cole minifigure
+- Bigger ninja adventures – Look out for more LEGO NINJAGO toys (sets sold separately) to play out action with Cole’s Titan Dragon Mech
+- 1 LEGO NINJAGO minifigure – Ninja toy playset comes with NINJAGO character, Mech Cole armed with 2 golden katana sword accessories
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH3VK1K{{</world>}}

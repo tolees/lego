@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Speelgoed eten om mee te doen alsof – de suikerspinkraam bevat accessoires om de suikerspinnen te maken, een kassa en speelgoedgeld, zodat kinderen creatieve verhalen kunnen naspelen
+- Bouwpakket voor fantasierijke rollenspellen – deze LEGO Friends Suikerspinkraam en scooter set voor meisjes, jongens en bouwers van 6 jaar en ouder bevat 2 poppetjes, een eetkraam en een scooter met een standaard
+- Cadeau voor meisjes en jongens vanaf 6 jaar – deze LEGO Friends set voor kinderen is een leuke traktatie voor jonge bouwers die van creatief spel houden
 - Online serie – inspireer meer creatief spel met andere sets (apart verkrijgbaar) en de online serie LEGO Friends: Een Nieuw Hoofdstuk, waar kinderen de personages van Heartlake City kunnen leren kennen
 - Inclusief 2 LEGO Friends poppetjes – de set bevat 2 poppetjes van Friends personages en een bouwbare figuur van een suikerspinmascotte
-- Cadeau voor meisjes en jongens vanaf 6 jaar – deze LEGO Friends set voor kinderen is een leuke traktatie voor jonge bouwers die van creatief spel houden
 - Creatief speelgoed voor kinderen – met de set kunnen kinderen verhalen vertellen over de vriendinnen Liann en Jamila, die suikerspinnen serveren en kopen om samen van te genieten
-- Bouwpakket voor fantasierijke rollenspellen – deze LEGO Friends Suikerspinkraam en scooter set voor meisjes, jongens en bouwers van 6 jaar en ouder bevat 2 poppetjes, een eetkraam en een scooter met een standaard
+- Speelgoed eten om mee te doen alsof – de suikerspinkraam bevat accessoires om de suikerspinnen te maken, een kassa en speelgoedgeld, zodat kinderen creatieve verhalen kunnen naspelen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSD2R8N{{</world>}}

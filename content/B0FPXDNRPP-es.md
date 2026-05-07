@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DIVERSIÓN INTERACTIVA POTENCIADA: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar su progreso y consultarlo, podrán acercar y girar sus sets usando las instrucciones 3D
+- KIT DE CONSTRUCCIÓN PARA JUGAR Y EXPONER: Descubre a la familia Lovegood con el set LEGO Harry Potter Casa de Luna Lovegood, de Harry Potter y las reliquias de la muerte, para niñas y niños mayores de 10 años
 - DETALLES AUTÉNTICOS: Capta el encanto excéntrico de la casa de la familia Lovegood, que cuenta con cocina, la imprenta/salón de Xenophilius y el dormitorio de Luna
 - 5 MINIFIGURAS LEGO HARRY POTTER: Luna Lovegood, Xenophilius Lovegood, Harry Potter, Hermione Granger y un Mortífago, cada uno con una varita, además de una figura del Patronus liebre de la colección del 25.º aniversario
-- KIT DE CONSTRUCCIÓN PARA JUGAR Y EXPONER: Descubre a la familia Lovegood con el set LEGO Harry Potter Casa de Luna Lovegood, de Harry Potter y las reliquias de la muerte, para niñas y niños mayores de 10 años
-- REGALO DE HARRY POTTER: Este set de juego y exposición LEGO Harry Potter es un mágico regalo de cumpleaños para niñas, niños y fans de Harry Potter mayores de 10 años
 - PARTE DE UNA EXTENSA GAMA: Los sets LEGO Harry Potter coleccionables ofrecen a las jóvenes brujas, magos y Muggles la oportunidad de interpretar inolvidables escenas, crear sus propias aventuras de fantasía o, simplemente, exponer los modelos
 - PROYECTOR CON LADRILLO LEGO CON LUZ: Activa el ladrillo LEGO con luz (pila incluida) para proyectar imágenes de La fábula de los tres hermanos en la pared de la cocina que añade un toque mágico
+- DIVERSIÓN INTERACTIVA POTENCIADA: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar su progreso y consultarlo, podrán acercar y girar sus sets usando las instrucciones 3D
+- REGALO DE HARRY POTTER: Este set de juego y exposición LEGO Harry Potter es un mágico regalo de cumpleaños para niñas, niños y fans de Harry Potter mayores de 10 años
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDNRPP{{</world>}}

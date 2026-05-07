@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Build Together with friends and family – The LEGO Builder app makes building a fun and collaborative experience, allowing families and friends to share the joy of LEGO Harry Potter sets
-- Create a Diagon Alley shopping street – This playset’s two toy shops connect to each other and to other LEGO Harry Potter Diagon Alley sets (sold separately) for an expanded Wizarding World scene
 - Wizarding World Harry Potter gift – This toy building set makes a magical birthday or Christmas gift for 8+ year old boys, girls, and fans of Harry Potter, construction toys and imaginative play
 - Florean Fortescue’s Ice Cream Parlour – The building set opens up for easy play and features a serving counter, an upper-level seating area, an outdoor café space, and an ice cream stand
-- Quality Quidditch Supplies shop – This toy shop features a floating broomstick function and is filled with Quidditch gear, including a Slytherin uniform, Quaffle, Bludger, Golden Snitch and trophies
-- 6 LEGO Harry Potter minifigures – Includes Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang, and a shopkeeper for endless Wizarding World adventures
 - Diagon Alley toy shop playset – A toy for 8+ year old girls and boys, this LEGO Harry Potter set lets kids recreate magical scenes with Quality Quidditch Supplies and Florean Fortescue’s Ice Cream Parlour models
+- Create a Diagon Alley shopping street – This playset’s two toy shops connect to each other and to other LEGO Harry Potter Diagon Alley sets (sold separately) for an expanded Wizarding World scene
+- 6 LEGO Harry Potter minifigures – Includes Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang, and a shopkeeper for endless Wizarding World adventures
+- Build Together with friends and family – The LEGO Builder app makes building a fun and collaborative experience, allowing families and friends to share the joy of LEGO Harry Potter sets
+- Quality Quidditch Supplies shop – This toy shop features a floating broomstick function and is filled with Quidditch gear, including a Slytherin uniform, Quaffle, Bludger, Golden Snitch and trophies
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWF4JR58{{</world>}}

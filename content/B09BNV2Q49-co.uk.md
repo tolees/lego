@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The LEGO designers have worked carefully to create a model that looks as close as possible to the real thing, with great attention to detail
-- Inspired by a real orchid, this stylish model version features 6 large faux flowers and 2 newly opened flowers, plus a buildable blue fluted vase
 - This LEGO artificial plant set from the Botanical Collection makes a thoughtful Mothers Day gift, anniversary present for a wife, or as a just because treat for someone special
 - Rotate the model’s stems, blooms, roots and leaves to create your preferred look, and rebuild the stems to create new flower arrangements
-- With this LEGO Orchid, you can create a low-maintenance but original plant display to enhance your home or office décor
+- Inspired by a real orchid, this stylish model version features 6 large faux flowers and 2 newly opened flowers, plus a buildable blue fluted vase
+- The LEGO designers have worked carefully to create a model that looks as close as possible to the real thing, with great attention to detail
 - Build your own orchid with this LEGO artificial plant and flowers set - a special LEGO set for adults from the Botanical Collection
+- With this LEGO Orchid, you can create a low-maintenance but original plant display to enhance your home or office décor
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNV2Q49{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 4 LEGO Friends mini dolls and an animal figure – Includes Aliya, Esma, Olly and Nova mini dolls, plus a Nugget the cat figure, toy kitchen accessories and lots of plant and flower elements for creative play
 - Creative accessories – Includes a coffee machine, fridge, oven, sink, table, pastries, drinks, stools, bouquets, potted plants, scissors, a watering can and more to inspire pretend play
+- 4 LEGO Friends mini dolls and an animal figure – Includes Aliya, Esma, Olly and Nova mini dolls, plus a Nugget the cat figure, toy kitchen accessories and lots of plant and flower elements for creative play
 - Creative toy for kids – This detailed LEGO Friends café and shop set features different areas, including a toy kitchen, outdoor seating, a flower shop and a tram for fun adventures
-- Birthday gift for kids – This LEGO Friends building set makes a great gift for 9+ year old girls and boys who love building with LEGO bricks and role-playing fun friendship stories
-- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can meet Heartlake City characters
 - Let’s tell a friendship story – LEGO Friends building toys help kids explore different friendship moments, offering lots of opportunities for imaginative storytelling and role-play adventures
+- Birthday gift for kids – This LEGO Friends building set makes a great gift for 9+ year old girls and boys who love building with LEGO bricks and role-playing fun friendship stories
 - A building set blooming with friendship – Let kids’ imaginations grow with the LEGO Friends Plant Café & Flower Shop, a fun building toy for 9+ year old girls and boys featuring a shop toy and tram
+- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can meet Heartlake City characters
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQMP9N{{</world>}}

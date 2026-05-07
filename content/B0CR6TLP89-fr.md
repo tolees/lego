@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 46 pièces pour un montage rapide et facile, idéal pour les jeunes constructeurs âgés de 6 ans et plus.
+- Matériau : plastique
 - Comprend une ravissante mini-figurine Asha
+- Age minimum du fabricant : 72.0
 - Construisez le charmant stand de bienvenue dAsha, avec un livre dor, deux bouquets de roses et une figurine étoile amicale perchée sur le dessus.
 - Objectif éducatif : pensée créative
-- 46 pièces pour un montage rapide et facile, idéal pour les jeunes constructeurs âgés de 6 ans et plus.
-- Age minimum du fabricant : 72.0
-- Matériau : plastique
 - Particularité : Non toxique
 
 [🛒 Buy it now!!]({{< param buyurl >}})

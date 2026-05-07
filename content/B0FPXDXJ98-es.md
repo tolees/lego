@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- IDEA DE REGALO INFANTIL: Este camión de bomberos LEGO City es un divertido regalo de cumpleaños para niños y niñas de 7 años o más a los que les encanten los vehículos de emergencias de juguete
-- MÁS SETS LEGO CITY POR DESCUBRIR: Los niños darán rienda suelta a más diversión y aventuras en cuanto combinen el vehículo de juguete de este juego con otros sets (a la venta por separado) de la gama LEGO City
-- ACCIÓN DE RESCATE EN INCENDIOS: Los niños pueden girar una rueda para conducir el camión de juguete, sentar a las 4 minifiguras LEGO de bomberos en la detallada cabina y lanzar agua con el extintor
-- VEHÍCULO DE EMERGENCIA REALISTA: Incluye todo lo necesario para construir una maqueta de camión de bomberos con brazo extintor 360° en el techo, compartimentos laterales que se abren y 6 neumáticos de goma gruesos
-- EXPERIENCIA DE CONSTRUCCIÓN INTERACTIVA: Los peques pueden acercar y girar el modelo en 3D y también consultar su progreso con la app LEGO Builder, una guía divertida e intuitiva que les ayuda a construir con confianza
 - CAMIÓN DE BOMBEROS DE JUGUETE: Regala a un pequeño héroe el Camión de Bomberos Aeroportuario LEGO City, un juguete para niños y niñas a partir de 7 años, con funciones y 4 minifiguras de bomberos
+- ACCIÓN DE RESCATE EN INCENDIOS: Los niños pueden girar una rueda para conducir el camión de juguete, sentar a las 4 minifiguras LEGO de bomberos en la detallada cabina y lanzar agua con el extintor
+- MÁS SETS LEGO CITY POR DESCUBRIR: Los niños darán rienda suelta a más diversión y aventuras en cuanto combinen el vehículo de juguete de este juego con otros sets (a la venta por separado) de la gama LEGO City
+- IDEA DE REGALO INFANTIL: Este camión de bomberos LEGO City es un divertido regalo de cumpleaños para niños y niñas de 7 años o más a los que les encanten los vehículos de emergencias de juguete
+- VEHÍCULO DE EMERGENCIA REALISTA: Incluye todo lo necesario para construir una maqueta de camión de bomberos con brazo extintor 360° en el techo, compartimentos laterales que se abren y 6 neumáticos de goma gruesos
 - ACCESORIOS PARA MINIFIGURAS: Este juguete educativo incluye accesorios LEGO, como cascos de bombero, llave inglesa y tableta gráfica de juguete para disfrutar de emocionantes juegos de rescate
+- EXPERIENCIA DE CONSTRUCCIÓN INTERACTIVA: Los peques pueden acercar y girar el modelo en 3D y también consultar su progreso con la app LEGO Builder, una guía divertida e intuitiva que les ayuda a construir con confianza
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDXJ98{{</world>}}

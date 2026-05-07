@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The green baseplates in this build it yourself set measure over 6-inch long and 6-inch wide, and 4-inch long and 2-inch respectively. Kids will get to build and play with 790 pieces and is ideal for boys and girls of any age
-- This brick box includes 8 different types of toy windows and toy doors, 2 green baseplates and 6 toy tires and toy wheel rims to create hours of creativity for kids
-- Kids will become creative builders as they use these color toys to build a figure or build a castle while also engaging in kids playtime
 - The large build and play LEGO Creative Brick toy playset is compatible with all LEGO construction sets for never-ending creative play
-- Engage your kids in pretend play by letting them build their own play toys, such as creating a toy house or toy scooter. This classic creative kit of LEGO bricks comes includes 33 different colors of bricks
 - The LEGO inspired packaging serves as toy storage solution for home or classrooms
+- Kids will become creative builders as they use these color toys to build a figure or build a castle while also engaging in kids playtime
+- This brick box includes 8 different types of toy windows and toy doors, 2 green baseplates and 6 toy tires and toy wheel rims to create hours of creativity for kids
+- The green baseplates in this build it yourself set measure over 6-inch long and 6-inch wide, and 4-inch long and 2-inch respectively. Kids will get to build and play with 790 pieces and is ideal for boys and girls of any age
+- Engage your kids in pretend play by letting them build their own play toys, such as creating a toy house or toy scooter. This classic creative kit of LEGO bricks comes includes 33 different colors of bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00NHQF6MG{{</world>}}

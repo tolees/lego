@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 3-ETAGEN-GEBÄUDE MIT KLASSENZIMMER: Das Schlossmodell besteht aus drei Etagen und enthält ein Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel und den Gemeinschaftsraum von Ravenclaw
 - MODULARES HARRY POTTER SAMMELSET: Dieser Modellbau ist Teil einer modularen LEGO Reihe, die sich zu einer besonders detailreichen Nachbildung von Schloss Hogwarts zusammensetzen lässt
 - 7 LEGO HARRY POTTER FIGUREN: Mit den beiliegenden Minifiguren, darunter Harry, Hermine, Ron, Remus Lupin, Penelope Clearwater, die Graue Dame und ein Dementor, lassen sich viele Filmszenen nachspielen
+- HARRY POTTER GESCHENK: Dieses LEGO Harry Potter Bauset ist ein schönes Geschenk für Kinder ab 9 Jahren und begeistert sowohl Einsteiger als auch eingefleischte Fans der Zauberwelt
 - BAUSET MIT MAGISCHEN DETAILS UND ZUBEHÖR: Neben authentischem Zubehör wie dem Wolfs-Patronus und zwei Hogwarts-Porträts zum Sammeln sind viele weitere zauberhafte Elemente enthalten
 - HOGWARTS SCHLOSS SPIELSET: Mit dem LEGO Harry Potter Set „Hogwarts Schloss: Krankenflügel“ können Jungen, Mädchen und Fans ab 9 Jahren magische Abenteuer erleben und eine der berühmtesten Szenen nachbauen
-- 3-ETAGEN-GEBÄUDE MIT KLASSENZIMMER: Das Schlossmodell besteht aus drei Etagen und enthält ein Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel und den Gemeinschaftsraum von Ravenclaw
 - INTERAKTIVER BAUSPAß MIT APP: Die LEGO Builder App unterstützt Kinder beim Bauen mit digitalen 3D-Anleitungen zum Zoomen, Drehen und Speichern ihres Fortschritts
-- HARRY POTTER GESCHENK: Dieses LEGO Harry Potter Bauset ist ein schönes Geschenk für Kinder ab 9 Jahren und begeistert sowohl Einsteiger als auch eingefleischte Fans der Zauberwelt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXCK2QL{{</world>}}

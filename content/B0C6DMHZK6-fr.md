@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Mettez-vous dans la meilleure ambiance de Noël en construisant et en affichant ce joli bonhomme de neige mobile.
-- Matériau : plastique
-- Le bonhomme de neige porte un chapeau rouge et une écharpe bleue et tient un balai.
-- Âge minimum du fabricant : 72,0
 - Nombre de pièces : 78
+- Âge minimum du fabricant : 72,0
+- Le bonhomme de neige porte un chapeau rouge et une écharpe bleue et tient un balai.
+- Matériau : plastique
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0C6DMHZK6{{</world>}}

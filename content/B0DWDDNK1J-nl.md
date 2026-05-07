@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Cadeau met natuurthema – de bouwset is een leuk cadeau voor plantenliefhebbers voor speciale gelegenheden, zoals een housewarmingparty of Valentijnsdag
+- Set met bonsaiboompjes – bouw 3 bomen die rust en evenwicht vertegenwoordigen met deze LEGO Botanicals Mini bonsaiboompjes bouwset voor volwassenen, een boeiend project voor natuurliefhebbers
 - Boomdecoratie – de bouwset bevat een ginkgo bonsaiboompje met gele bladeren, een zwarte den bonsaiboompje met groene naalden en een blauweregen bonsaiboompje met hangende lila bloemen
 - Bouw meer bloemen – combineer deze bouwbare bomen met andere sets (apart verkrijgbaar) uit de LEGO Botanicals collectie, waar je LEGO boeketten, bamboe en meer kunt ontdekken
-- Cadeau met natuurthema – de bouwset is een leuk cadeau voor plantenliefhebbers voor speciale gelegenheden, zoals een housewarmingparty of Valentijnsdag
+- LEGO Builder app – bouwinstructies zijn beschikbaar in de LEGO Builder app, waar je in 3D kunt inzoomen op je LEGO bonsaiboompjes en je voortgang kunt bijhouden
+- Kamerplanten – de set bevat 2 sierlijke standaards waarmee de bonsaiboompjes op verschillende hoogtes en in verschillende combinaties kunnen worden neergezet voor een uniek display
 - Aanpasbaar displaymodel – de bomen hebben verwisselbare bladeren, zodat je de bonsaiboompjes kunt aanpassen door bijvoorbeeld de stam van de blauweregen te combineren met de bladeren van de Japanse notenboom
 - Afmetingen – het Japanse blauweregen bonsaiboompje in deze 709-delige set is ca. 19 cm hoog, 14 cm breed en 10 cm diep
-- Kamerplanten – de set bevat 2 sierlijke standaards waarmee de bonsaiboompjes op verschillende hoogtes en in verschillende combinaties kunnen worden neergezet voor een uniek display
-- LEGO Builder app – bouwinstructies zijn beschikbaar in de LEGO Builder app, waar je in 3D kunt inzoomen op je LEGO bonsaiboompjes en je voortgang kunt bijhouden
-- Set met bonsaiboompjes – bouw 3 bomen die rust en evenwicht vertegenwoordigen met deze LEGO Botanicals Mini bonsaiboompjes bouwset voor volwassenen, een boeiend project voor natuurliefhebbers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNK1J{{</world>}}

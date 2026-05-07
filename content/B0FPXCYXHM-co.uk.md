@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LIGHTNING McQUEEN CARS TOY – Kids can celebrate the 20th anniversary of the movie Cars with this LEGO Speed Champion Lightning McQueen toy for 9+ year old boys and girls
 - AUTHENTIC DESIGN – The car model includes details from the movie version, including the lightning bolt, headlight stickers, number 95, Rust-Eze sponsor logo and Lightyear logo imprinted on the tyres
 - DISNEY PIXAR GIFT FOR KIDS – This Lightning McQueen model provides a fun build-and-play experience and is a great birthday gift for 9+ year old boys and girls, as well as nostalgic adults
-- DETAILED UNDERCARRIAGE – This Lightning McQueen toy is the only LEGO Speed Champions car model with a detailed undercarriage for extra play value
 - EXPAND THE RACING FUN – Discover more LEGO Speed Champions car model kits (sold separately) packed with authentic details for kids and passionate car fans
+- DETAILED UNDERCARRIAGE – This Lightning McQueen toy is the only LEGO Speed Champions car model with a detailed undercarriage for extra play value
+- LIGHTNING McQUEEN CARS TOY – Kids can celebrate the 20th anniversary of the movie Cars with this LEGO Speed Champion Lightning McQueen toy for 9+ year old boys and girls
 - FOR PLAY AND DISPLAY – After kids have enjoyed a rewarding build with this collectable building set, they can proudly display their creation on a shelf, desk or bedside table
 
 [🛒 Check the deal!!]({{< param buyurl >}})

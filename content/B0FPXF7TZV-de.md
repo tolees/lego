@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- KOMPATIBLE BOTANICALS KOLLEKTION: Der Modellbausatz lässt sich mit weiteren LEGO Botanicals Modellen kombinieren, um eine vielfältige Sammlung aus Rosen, Sonnenblumen, Kirschblüten und mehr zu gestalten
+- BLÜHENDER KAKTUS ALS SPIELZEUG: Begeistere Natur- und Pflanzenfans mit dem LEGO Botanicals Blühender Kaktus Bauset, das kreativen Bauspaß für Mädchen und Jungen ab 9 Jahren bietet
+- ZWEI KAKTEEN ALS IMMERGRÜNE KUNSTPFLANZEN: Kinder bauen einen großen Kaktus in voller Blüte sowie einen kleineren mit Knospen in verschiedenen Wachstumsstadien
 - PINKFARBENE LEGO BLUMEN: Der große Kaktus besitzt eine pinke Blüte mit gelber Mitte, während der kleine Kaktus rosafarbene Knospen trägt, die besonders realistisch wirken
 - GESCHENK FÜR MÄDCHEN UND JUNGEN AB 9 JAHREN: Dieses LEGO Spielset ist ein beliebtes Geschenk zum Geburtstag oder anderen Anlässen und bereitet auch erwachsenen Pflanzenliebhabern Freude
-- LEGO BUILDER APP: In der LEGO Builder App können Kinder digitale Bauanleitungen nutzen, den Baufortschritt speichern und ihr 3D Modell aus jedem Winkel betrachten
-- ZWEI KAKTEEN ALS IMMERGRÜNE KUNSTPFLANZEN: Kinder bauen einen großen Kaktus in voller Blüte sowie einen kleineren mit Knospen in verschiedenen Wachstumsstadien
-- BLÜHENDER KAKTUS ALS SPIELZEUG: Begeistere Natur- und Pflanzenfans mit dem LEGO Botanicals Blühender Kaktus Bauset, das kreativen Bauspaß für Mädchen und Jungen ab 9 Jahren bietet
 - LEGO DEKO FÜR SCHREIBTISCH & REGAL: Dank des pastellblauen Blumentopfes wird die fertige Sukkulente zu einer Deko fürs Kinderzimmer, Büro oder Schlafzimmer, die nie gegossen werden muss
-- KOMPATIBLE BOTANICALS KOLLEKTION: Der Modellbausatz lässt sich mit weiteren LEGO Botanicals Modellen kombinieren, um eine vielfältige Sammlung aus Rosen, Sonnenblumen, Kirschblüten und mehr zu gestalten
+- LEGO BUILDER APP: In der LEGO Builder App können Kinder digitale Bauanleitungen nutzen, den Baufortschritt speichern und ihr 3D Modell aus jedem Winkel betrachten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXF7TZV{{</world>}}

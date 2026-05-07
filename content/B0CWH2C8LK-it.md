@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Modellino di auto fuoristrada Mercedes-Benz G 500 da costruire: celebra il 45° anniversario di uno dei fuoristrada più amati al mondo, con questo coinvolgente set di veicolo Mercedes-Benz G 500 PROFESSIONAL Line LEGO Technic per adulti
 - Modellino da costruire 4x4 della Classe G: dedicati a un progetto immersivo assemblando tutti i dettagli di questa macchina Mercedes LEGO Technic, come lo sterzo funzionante e le sospensioni rialzate
 - Un regalo Mercedes-Benz da collezione: questo set è unottima idea regalo per i costruttori LEGO adulti e i fan dei fuoristrada Mercedes-Benz; un progetto coinvolgente e un pezzo da esposizione tutto da assaporare
-- Ammira i dettagli dellauto da costruire: apri le portiere per dare un’occhiata agli interni ed esplora accessori come la scaletta, la ruota di scorta e il portapacchi, oltre al portellone posteriore e al cofano apribili
 - Scopri tutte le funzioni: il veicolo LEGO include un motore a 6 cilindri con pistoni in linea, il cambio con le sue impostazioni – guida, folle e retromarcia – e i 2 blocchi del differenziale
+- Modellino di auto fuoristrada Mercedes-Benz G 500 da costruire: celebra il 45° anniversario di uno dei fuoristrada più amati al mondo, con questo coinvolgente set di veicolo Mercedes-Benz G 500 PROFESSIONAL Line LEGO Technic per adulti
 - Istruzioni per la costruzione 3D: preparati a costruire come mai prima d’ora con l’app LEGO Builder, che ti consente di salvare i set, monitorare i tuoi progressi, ingrandire e ruotare il tuo modello in 3D
+- Ammira i dettagli dellauto da costruire: apri le portiere per dare un’occhiata agli interni ed esplora accessori come la scaletta, la ruota di scorta e il portapacchi, oltre al portellone posteriore e al cofano apribili
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH2C8LK{{</world>}}

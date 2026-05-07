@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Authentische Funktionen: Ein Cockpit, eine Kabine mit Sitzen für 4 LEGO Minifiguren, Triebwerke, die man zum Starten/Landen oder fürs Fliegen drehen kann, 2 Shooter sowie 2 drehbare Geschütztürme mit jeweils 2 Shootern laden zum Spielen ein
 - 5 LEGO Star Wars Charaktere: Die LEGO Minifigur Jod mit klassischem Blaster sowie die LEGO Star Wars Minifiguren Wim, KB, Fern und Neel, die alle mit einer baubaren Taschenlampe ausgerüstet sind
-- Baubares Sternenschiff-Modell aus Star Wars: Skeleton Crew: Dieses detailreiche Spielzeug-Sternenschiff macht Kinder zu den Helden der eigenen Missionen an Bord der Onyx Cinder und erlaubt unzählige Abenteuer im Weltraum
-- Kreatives Spielerlebnis ohne Grenzen: Die Onyx Cinder verfügt auch über einen aufklappbaren Frachtraum mit Greifklaue, Funkgerät, Obst und Piratenfernrohr sowie Staufächer für den Blaster und die Taschenlampen
 - Geschenk für Star Wars Fans ab 10 Jahren: Dieses LEGO Set zum Bauen, Spielen und Sammeln ist ein tolles Geschenk für Kinder, die Star Wars: Skeleton Crew lieben, sowie für Sammler von Star Wars Souvenirs
-- Interaktives digitales Bauerlebnis: In der LEGO Builder App können Kinder beim Bauen eine digitale Modellansicht des Spielzeug-Rennwagens vergrößern, drehen und näher betrachten
+- Kreatives Spielerlebnis ohne Grenzen: Die Onyx Cinder verfügt auch über einen aufklappbaren Frachtraum mit Greifklaue, Funkgerät, Obst und Piratenfernrohr sowie Staufächer für den Blaster und die Taschenlampen
 - Coole LEGO Star Wars Sets für Fans jeden Alters: LEGO Star Wars Bauspielzeuge lassen Kinder und erwachsene Fans legendäre Filmszenen nachstellen, kreative eigene Geschichten darstellen und die gebauten Modelle ausstellen
+- Authentische Funktionen: Ein Cockpit, eine Kabine mit Sitzen für 4 LEGO Minifiguren, Triebwerke, die man zum Starten/Landen oder fürs Fliegen drehen kann, 2 Shooter sowie 2 drehbare Geschütztürme mit jeweils 2 Shootern laden zum Spielen ein
+- Baubares Sternenschiff-Modell aus Star Wars: Skeleton Crew: Dieses detailreiche Spielzeug-Sternenschiff macht Kinder zu den Helden der eigenen Missionen an Bord der Onyx Cinder und erlaubt unzählige Abenteuer im Weltraum
+- Interaktives digitales Bauerlebnis: In der LEGO Builder App können Kinder beim Bauen eine digitale Modellansicht des Spielzeug-Rennwagens vergrößern, drehen und näher betrachten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ1ZND{{</world>}}

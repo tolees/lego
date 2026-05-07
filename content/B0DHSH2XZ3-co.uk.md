@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Sonic set – This feature-packed toy for 7 plus year old boys and girls features a speed sphere launcher, speed sphere and campfire area
-- Cool functions – Boost the action and fun with a speed sphere launcher that sends the speed sphere, with Sonic inside, zooming at the robot figures
 - Nostalgic toy – Includes a campfire build, Chaos Emerald, 3 Gold Sonic Rings and a backpack for the G.U.N. Hunter robot figure to carry the Tocky in
-- Extend the fun – Check out other premium LEGO Sonic the Hedgehog playsets and feed your young video game fan’s passion with other action-packed models (sold separately)
 - 4 Sonic the Hedgehog Characters – The set also includes 4 LEGO Sonic figures: Sonic, a G.U.N. Beetle robot drone, G.U.N. Hunter robot and a Tocky
-- Gift for gamers – This LEGO Sonic toy inspires endless adventures with Sonic, the robots and the Tocky, and is a fun gift for 7 plus year old boys, girls and fans to show friends and take on playdates
+- Cool functions – Boost the action and fun with a speed sphere launcher that sends the speed sphere, with Sonic inside, zooming at the robot figures
+- Extend the fun – Check out other premium LEGO Sonic the Hedgehog playsets and feed your young video game fan’s passion with other action-packed models (sold separately)
 - Sonic toy for kids – LEGO Sonic’s Campfire Clash set encourages kids to reimagine stories with their favourite Sonic the Hedgehog characters
+- LEGO Sonic set – This feature-packed toy for 7 plus year old boys and girls features a speed sphere launcher, speed sphere and campfire area
+- Gift for gamers – This LEGO Sonic toy inspires endless adventures with Sonic, the robots and the Tocky, and is a fun gift for 7 plus year old boys, girls and fans to show friends and take on playdates
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSH2XZ3{{</world>}}

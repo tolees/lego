@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Yoshi-Bike zum Spielen: Setz den hellblauen Yoshi auf das Spielzeugbike und lenke es an den Verkehrshütchen vorbei, schleudere vom Motorrad aus Panzer und mach einen Schlenker um die Banane
-- Cooles Geburtstagsgeschenk: Dieses Bau- und Spielset ist ein tolles Geschenk für Jungen, Mädchen und Nintendo Gamer ab 7 Jahren; Für ein interaktives Spielerlebnis wird eines der separat erhältlichen Sets 71439, 71440 oder 71441 benötigt
 - Interaktiver Spielspaß: Lass LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) mit dem Bike Spielzeug fahren, um Sound-/Spezialeffekte aus Mario Kart auszulösen und dir digitale Items aus der Itembox zu holen
-- Mit Spielzeugfigur: Zum allerersten Mal findest du in einem LEGO Super Mario Set eine hellblauen Yoshi Figur; Neben dieser Minifigur beinhaltet das Set auch noch eine Banane mit Gesicht
-- Nintendo Sammlerstück: Entdecke auch all die anderen separat erhältlichen LEGO Super Mario: Mario Kart Sets, um weitere Flitzer für spannende Rennen und Charaktere für noch mehr Rollenspiele zu finden
+- Yoshi-Bike zum Spielen: Setz den hellblauen Yoshi auf das Spielzeugbike und lenke es an den Verkehrshütchen vorbei, schleudere vom Motorrad aus Panzer und mach einen Schlenker um die Banane
 - Nintendo Geschenkidee für Kinder: Dieses LEGO Super Mario: Mario Kart Abenteuer-Spielset lässt dich ein Modell des Yoshi-Bikes aus LEGO Steinen bauen, mit dem du fahren und wunderbar driften kannst
+- Nintendo Sammlerstück: Entdecke auch all die anderen separat erhältlichen LEGO Super Mario: Mario Kart Sets, um weitere Flitzer für spannende Rennen und Charaktere für noch mehr Rollenspiele zu finden
+- Cooles Geburtstagsgeschenk: Dieses Bau- und Spielset ist ein tolles Geschenk für Jungen, Mädchen und Nintendo Gamer ab 7 Jahren; Für ein interaktives Spielerlebnis wird eines der separat erhältlichen Sets 71439, 71440 oder 71441 benötigt
+- Mit Spielzeugfigur: Zum allerersten Mal findest du in einem LEGO Super Mario Set eine hellblauen Yoshi Figur; Neben dieser Minifigur beinhaltet das Set auch noch eine Banane mit Gesicht
 - Weck die Fantasie deines Kindes: LEGO Super Mario Spielsets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf coole Münzsammelmissionen zu schicken
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Includes an Elsa Frozen mini doll figure plus 2 reindeer figures: Sven and a baby reindeer, a Frozen picnic area and a Starter Brick base
-- This building toy set for kids 4 to 7 years old with Frozen figures is a fanciful birthday or Christmas gift idea for all Frozen movies fans
-- Combine with 41165 Anna’s Canoe Expedition toy for 4+ years old to add more Disney magic and to help your child develop fine motor skills
-- This LEGO Frozen 2 buildable toy for age 4 - 7 includes a Starter Brick base to let even first-time builders feel confident while they build
 - Accessories include a carrot, cookie, cookie box, marshmallow and a brush. 4+ sets are specially designed to be an easy build for young fans
+- Combine with 41165 Anna’s Canoe Expedition toy for 4+ years old to add more Disney magic and to help your child develop fine motor skills
+- This building toy set for kids 4 to 7 years old with Frozen figures is a fanciful birthday or Christmas gift idea for all Frozen movies fans
+- Includes an Elsa Frozen mini doll figure plus 2 reindeer figures: Sven and a baby reindeer, a Frozen picnic area and a Starter Brick base
+- This LEGO Frozen 2 buildable toy for age 4 - 7 includes a Starter Brick base to let even first-time builders feel confident while they build
 - Features Elsa’s wagon for 2 mini doll figures, harness to attach it to Sven, stable with water trough and campfire, plus a hay feeder
 
 [🛒 Buy it!!]({{< param buyurl >}})

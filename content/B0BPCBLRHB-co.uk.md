@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The Harry Potter building toy features a posable head, ears, arms and fingers so kids can change his look, plus he can hold the brick-built accessories
-- Includes fun Harry Potter accessories: Aunt Petunia’s ‘floating’ pudding cake and a model of Tom Riddle’s diary with Harry Potter’s sock
-- The first LEGO Harry Potter buildable model of Dobby the House-Elf - fans can build one the most beloved characters in the Wizarding World!
 - The Harry Potter character comes with a brick-built stand with a nameplate so he can be displayed as a Harry Potter bedroom accessory or decoration
+- The Harry Potter building toy features a posable head, ears, arms and fingers so kids can change his look, plus he can hold the brick-built accessories
+- The first LEGO Harry Potter buildable model of Dobby the House-Elf - fans can build one the most beloved characters in the Wizarding World!
 - This LEGO Dobby the House-Elf figure is a magical Harry Potter gift for 8-plus-year-old girls, boys, and collectors of Harry Potter memorabilia
+- Includes fun Harry Potter accessories: Aunt Petunia’s ‘floating’ pudding cake and a model of Tom Riddle’s diary with Harry Potter’s sock
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BPCBLRHB{{</world>}}

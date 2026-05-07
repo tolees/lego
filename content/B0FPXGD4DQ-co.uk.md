@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ARTIFICIAL FLOWER BOUQUET – Let creativity grow tall as you create colourful home decor with the LEGO Botanicals Sunflower Bouquet building set for adults
-- BOTANICALS COLLECTION – Build more blooms with other artificial flower sets (sold separately) in the LEGO Botanicals range, where you’ll find roses, tulips, potted plants and more
-- GIFT FOR NATURE LOVERS – Sunflowers are thought to represent positivity, love and luck, making this set a great flower gift for women and men on birthdays or any other special occasion
 - HOME DECOR ACCESSORIES – When the bouquet is complete, it can be displayed in any room or office or combined with other LEGO Botanicals sets (sold separately) to make a large floral display
-- ADJUSTABLE PETALS – The LEGO bouquet also features 4 eucalyptus stems, plus adjustable petals and stems so builders can create a bespoke floral display
 - DIGITAL INSTRUCTIONS – This set for adults is available in the LEGO Builder app, where budding florists can access digital instructions and create together with loved ones
+- GIFT FOR NATURE LOVERS – Sunflowers are thought to represent positivity, love and luck, making this set a great flower gift for women and men on birthdays or any other special occasion
+- BOTANICALS COLLECTION – Build more blooms with other artificial flower sets (sold separately) in the LEGO Botanicals range, where you’ll find roses, tulips, potted plants and more
 - LEGO SUNFLOWERS – The bouquet includes 6 faux flowers in various stages: 1 sunflower bud, 3 sunflowers beginning to bloom and 2 big fully opened sunflowers
+- ADJUSTABLE PETALS – The LEGO bouquet also features 4 eucalyptus stems, plus adjustable petals and stems so builders can create a bespoke floral display
+- ARTIFICIAL FLOWER BOUQUET – Let creativity grow tall as you create colourful home decor with the LEGO Botanicals Sunflower Bouquet building set for adults
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGD4DQ{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bouwpakket voor kinderen met raceauto – zoef de Droomwereld in met het LEGO DREAMZzz Coopers tijgermecha en Zeros hot rod auto speelgoed kinderen van 9 jaar en ouder
-- Boordevol details – de tijgermecha en de speelgoedrobot zijn in allerlei standen verstelbaar, de voertuigmodellen hebben rollende wielen en er zijn accessoires zoals noppenschieters en een speelgoedzwaard
-- Maak deel uit van de actie – de set bevat bouwinstructies op basis van verhalen waarmee kinderen helemaal kunnen opgaan in het avontuur van de Droomwereld
-- Breid het plezier uit – de set bevat modulaire boosters en voorvleugels die aan andere sets (apart verkrijgbaar) uit het LEGO DREAMZzz assortiment van 2025 kunnen worden bevestigd voor nog meer creatief speelplezier
-- 2 bouwmogelijkheden – kinderen helpen Cooper om zijn rode vliegtuig om te toveren tot een tijgermecha en een hot rod auto of tot een snelle LEGO raceauto en een speelgoed robot wezen
 - Fantasierijk cadeau voor jongens en meisjes – deze set is een leuk cadeau voor kinderen die dol zijn op de LEGO DREAMZzz tv-serie, maar ook voor tijgerliefhebbers en autofans
+- Maak deel uit van de actie – de set bevat bouwinstructies op basis van verhalen waarmee kinderen helemaal kunnen opgaan in het avontuur van de Droomwereld
+- 2 bouwmogelijkheden – kinderen helpen Cooper om zijn rode vliegtuig om te toveren tot een tijgermecha en een hot rod auto of tot een snelle LEGO raceauto en een speelgoed robot wezen
+- Breid het plezier uit – de set bevat modulaire boosters en voorvleugels die aan andere sets (apart verkrijgbaar) uit het LEGO DREAMZzz assortiment van 2025 kunnen worden bevestigd voor nog meer creatief speelplezier
+- Boordevol details – de tijgermecha en de speelgoedrobot zijn in allerlei standen verstelbaar, de voertuigmodellen hebben rollende wielen en er zijn accessoires zoals noppenschieters en een speelgoedzwaard
+- Bouwpakket voor kinderen met raceauto – zoef de Droomwereld in met het LEGO DREAMZzz Coopers tijgermecha en Zeros hot rod auto speelgoed kinderen van 9 jaar en ouder
 - 3 LEGO minifiguren – Cooper, Zero en een onschuldige dromer, plus Z-Blob, een cyberbreinspin en 2 Cyberwezens, brengen de actie tot leven en stimuleren zelfstandig spelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

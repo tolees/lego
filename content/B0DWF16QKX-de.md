@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Familienspaß mit Bluey: LEGO DUPLO Bluey Lernspielzeuge inspirieren zu kreativen Rollenspielen, die Kleinkinder nachvollziehen können; Beim Spielen machen Kinder wichtige Entwicklungsschritte, die ihre Eltern nicht verpassen möchten
-- Enthält Zubehör im Haus: Puppenhaus, Klavier, Kaufmannsladen, Kühlschrank, Ofen, Teekanne, Tasse, Frosch, Pizza, Hotdog, Tisch, Regenbogenumhang, Zauberstab, Stühle, Lupen sowie Quatschimax und der Gnom Jeremy
-- Spielzeughaus für Kinder ab 4 Jahren: Das LEGO Bluey Set enthält in jedem Beutel ein Modell, ein Starter-Bauelement und eine simple Anleitung, mit der junge Baumeister schnell, einfach und mit viel Spaß bauen können
 - Geschenk für Fans von Bluey: Dieses Bauset bietet Jungen und Mädchen ab 4 Jahren, die die TV-Serie Bluey für Vorschulkinder lieben, unzählige Spielmöglichkeiten
 - Spielzeug für Rollenspiele: Zu dem modularen Spielhaus und dem Garten gehören auch die Minifiguren Bluey, Bingo, Mum und Bandit; Man kann das Spielzimmer, die Küche, die Schlafzimmer, den Thronsaal, die Toilette und das Badezimmer herausnehmen
 - Lernspielzeug mit intuitiver Bauanleitung: Die gedruckte Bauanleitung inspiriert Kleinkinder und lässt sie zu selbstbewussten Baumeistern werden
+- Familienspaß mit Bluey: LEGO DUPLO Bluey Lernspielzeuge inspirieren zu kreativen Rollenspielen, die Kleinkinder nachvollziehen können; Beim Spielen machen Kinder wichtige Entwicklungsschritte, die ihre Eltern nicht verpassen möchten
+- Spielzeughaus für Kinder ab 4 Jahren: Das LEGO Bluey Set enthält in jedem Beutel ein Modell, ein Starter-Bauelement und eine simple Anleitung, mit der junge Baumeister schnell, einfach und mit viel Spaß bauen können
+- Enthält Zubehör im Haus: Puppenhaus, Klavier, Kaufmannsladen, Kühlschrank, Ofen, Teekanne, Tasse, Frosch, Pizza, Hotdog, Tisch, Regenbogenumhang, Zauberstab, Stühle, Lupen sowie Quatschimax und der Gnom Jeremy
 - Spielset mit Blueys Haus: Kinder können mit Blueys Haus die lustigen Szenen aus der TV-Serie Bluey nachspielen; Das Bauset wurde speziell auf Jungen und Mädchen ab 4 Jahren zugeschnitten
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Different display options – The Star Wars figure’s arms and centre wheel can be easily removed, allowing fans to display him with retracted limbs just like in Star Wars: Ahsoka
-- Build-and-display set – The building toy includes a display stand with an information plaque, plus a standard-size Chopper (C1-10P) LEGO Star Wars droid figure to complete the collection
 - LEGO Star Wars building toy for 10+ year old boys and girls – Create a playful display with a buildable figure of beloved astromech droid Chopper (C1-10P), as seen in the Star Wars: Ahsoka adventure series
-- LEGO Star Wars droid with authentic details – Rotate Chopper’s lever-activated head, adjust his antenna, pose his arms and legs, or fold out a tool from his chest for interactive play and display
-- LEGO Star Wars sets for all ages – Collectible LEGO Star Wars building sets (sold separately) let kids and adult fans relive classic scenes, create stories or display the buildable models
-- Build Together with family and friends – Use the LEGO Builder app to collaborate on the build, track progress and enjoy a fun and interactive LEGO Star Wars experience
 - LEGO Star Wars gift for kids and families – This building toy makes a great birthday gift for 10+ year old boys, girls, Star Wars fans and families who enjoy building together
+- LEGO Star Wars sets for all ages – Collectible LEGO Star Wars building sets (sold separately) let kids and adult fans relive classic scenes, create stories or display the buildable models
+- Different display options – The Star Wars figure’s arms and centre wheel can be easily removed, allowing fans to display him with retracted limbs just like in Star Wars: Ahsoka
+- Build Together with family and friends – Use the LEGO Builder app to collaborate on the build, track progress and enjoy a fun and interactive LEGO Star Wars experience
+- Build-and-display set – The building toy includes a display stand with an information plaque, plus a standard-size Chopper (C1-10P) LEGO Star Wars droid figure to complete the collection
+- LEGO Star Wars droid with authentic details – Rotate Chopper’s lever-activated head, adjust his antenna, pose his arms and legs, or fold out a tool from his chest for interactive play and display
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSG5LF6{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CRAFTS KIT FOR KIDS – Girls and boys can build the faux plants independently or share the fun by building them with a friend or family member
-- BUILD MORE BLOOMS – These brick-built artificial plants can be combined with other sets (sold separately) in the LEGO Botanicals collection
 - GIFT IDEA FOR KIDS – The building toy makes a great birthday gift for 9+ year old girls and boys, as well as a gift for plant-loving teenagers and adults who like crafting nature
+- CRAFTS KIT FOR KIDS – Girls and boys can build the faux plants independently or share the fun by building them with a friend or family member
+- COLOURFUL DESK DECOR – Once complete, these LEGO plants become decorations that will add a touch of cheer to kids’ bedrooms, or to any living or working space when used as home or office decor
 - LEGO ARTIFICIAL PLANTS – Encourage creativity to grow with the LEGO Botanicals Happy Plants building toy for 9+ year old girls and boys, which becomes fun shelf or desk decor
 - WHATS IN THE BOX? – The building set features a baby dracaena artificial plant that’s standing up and a baby pilea plant that’s sitting down, as well as interchangeable blue and yellow LEGO plant pots
-- COLOURFUL DESK DECOR – Once complete, these LEGO plants become decorations that will add a touch of cheer to kids’ bedrooms, or to any living or working space when used as home or office decor
+- BUILD MORE BLOOMS – These brick-built artificial plants can be combined with other sets (sold separately) in the LEGO Botanicals collection
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRZDZC{{</world>}}

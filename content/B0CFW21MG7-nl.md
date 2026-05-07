@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Leuke combinaties – deze LEGO Harry Potter speelgoedauto kan worden gecombineerd met modellen uit andere LEGO Harry Potter bouwsets (apart verkrijgbaar) voor extra speelmogelijkheden
-- Ford Anglia auto – met deuren die open kunnen, een afneembaar dak, stoelen voor de 2 Harry Potter minifiguren en ruimte voor Hedwig, plus een kofferbak die open kan met daarin plek voor de koffer, toverstokken en Schurfie
-- Avontuurlijke speelgoedset met 4 LEGO Harry Potter personages – met minifiguren van Harry Potter en Ron Wemel en speelgoed dieren figuren van Hedwig en Schurfie, plus een koffer en 2 toverstokken
-- Leuk speelgoed voor rollenspellen – kinderen kunnen de bekende scène uit Harry Potter en de Geheime Kamer naspelen waarin Harry en Ron met de auto naar Zweinstein vliegen
 - Onderdeel van een uitgebreide reeks – met de LEGO Harry Potter bouw- en speelsets kunnen jonge tovenaars, heksen en dreuzels beroemde scènes naspelen, hun eigen avonturen bedenken of de modellen neerzetten en bewonderen
-- LEGO Harry Potter speelgoed auto set – geef kinderen een magische introductie in de Tovenaarswereld met dit bouwbare model van de betoverde Vliegende Ford Anglia van de familie Wemel
+- Leuke combinaties – deze LEGO Harry Potter speelgoedauto kan worden gecombineerd met modellen uit andere LEGO Harry Potter bouwsets (apart verkrijgbaar) voor extra speelmogelijkheden
+- Avontuurlijke speelgoedset met 4 LEGO Harry Potter personages – met minifiguren van Harry Potter en Ron Wemel en speelgoed dieren figuren van Hedwig en Schurfie, plus een koffer en 2 toverstokken
 - Geweldig Harry Potter cadeau voor fans– dit bouwpakket voor kinderen is een leuke verrassing of cadeau voor jongens en meisjes vanaf 7 jaar die de magie van de Tovenaarswereld ontdekken
+- Ford Anglia auto – met deuren die open kunnen, een afneembaar dak, stoelen voor de 2 Harry Potter minifiguren en ruimte voor Hedwig, plus een kofferbak die open kan met daarin plek voor de koffer, toverstokken en Schurfie
+- Leuk speelgoed voor rollenspellen – kinderen kunnen de bekende scène uit Harry Potter en de Geheime Kamer naspelen waarin Harry en Ron met de auto naar Zweinstein vliegen
+- LEGO Harry Potter speelgoed auto set – geef kinderen een magische introductie in de Tovenaarswereld met dit bouwbare model van de betoverde Vliegende Ford Anglia van de familie Wemel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW21MG7{{</world>}}

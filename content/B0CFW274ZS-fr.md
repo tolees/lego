@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Instructions de montage numériques – L’application LEGO Builder propose une version numérique des instructions incluses dans ce set de construction pour adultes LEGO Icons
 - Voiture de course à collectionner pour adultes – Le jouet de construction LEGO Icons McLaren MP4/4 et Ayrton Senna est conçu pour les fans de voitures de sport et de véhicules mythiques
+- Instructions de montage numériques – L’application LEGO Builder propose une version numérique des instructions incluses dans ce set de construction pour adultes LEGO Icons
 - Idée cadeau pour les fans de voitures – Offrez ce jouet de construction LEGO Icons McLaren MP4/4 et Ayrton Senna à un adulte pour les fêtes ou comme cadeau pour un anniversaire
-- Objet décoratif pour la maison ou le bureau – Inclut un présentoir pour la McLaren MP4/4 qui affiche les données du véhicule et un podium pour exposer la minifigurine d’Ayrton Senna avec une photo et une citation du pilote
 - Fonctionnalités – Cette voiture de course LEGO Icons présente une direction fonctionnelle, une suspension à tige, un aileron ajustable, des pneus profilés, des rétroviseurs, un levier de vitesses et un moteur V6 turbo détaillé
+- Objet décoratif pour la maison ou le bureau – Inclut un présentoir pour la McLaren MP4/4 qui affiche les données du véhicule et un podium pour exposer la minifigurine d’Ayrton Senna avec une photo et une citation du pilote
 - Que contient la boîte ? – Ce set LEGO de construction créative pour adultes inclut tout le nécessaire pour réaliser un modèle réduit de la McLaren MP4/4, ainsi que des supports pour exposer la voiture de course et la minifigurine d’Ayrton Senna
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Soapbox race car set – Send kids’ play soaring with this LEGO City No Limits: Race Car Ramp Track soapbox toy for 6+ year old boys and girls
-- Pretend-play accessories – This LEGO race car kit includes a wheelchair, a winner’s trophy, a selfie stick, a tool rack with mechanic’s tools
-- Creative gifts for 6+ year old boys and girls – Give this LEGO car ramp toy as an anytime treat or birthday gift to kids and fans of LEGO vehicles
-- Action without limits – Add this race car toy to other building toys (sold separately) from the LEGO City range for more high-speed fun
-- Creative building toys – Kids place the hot dog and toilet car toys at the ramp’s peak and flick a lever to send them hurtling from the starting line
-- In the box – Elements to build a toy car ramp, hot dog and toilet soapbox cars, plus 4 minifigures, including a hot-dog seller and plumber drivers
 - Digital building fun – Kids can zoom in and rotate models in 3D, track building progress and save virtual playsets in the intuitive LEGO Builder app
+- Soapbox race car set – Send kids’ play soaring with this LEGO City No Limits: Race Car Ramp Track soapbox toy for 6+ year old boys and girls
+- Creative gifts for 6+ year old boys and girls – Give this LEGO car ramp toy as an anytime treat or birthday gift to kids and fans of LEGO vehicles
+- Pretend-play accessories – This LEGO race car kit includes a wheelchair, a winner’s trophy, a selfie stick, a tool rack with mechanic’s tools
+- Creative building toys – Kids place the hot dog and toilet car toys at the ramp’s peak and flick a lever to send them hurtling from the starting line
+- Action without limits – Add this race car toy to other building toys (sold separately) from the LEGO City range for more high-speed fun
+- In the box – Elements to build a toy car ramp, hot dog and toilet soapbox cars, plus 4 minifigures, including a hot-dog seller and plumber drivers
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDNBKB{{</world>}}

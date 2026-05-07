@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- REGALO PR EL DÍA DE LA MADRE: El juguete de construcción es un divertido regalo para madres e hijas a partir de 9 años, para hacer juntas manualidades en este día tan especial
-- SETS DE FLORES LEGO: Los kits de construcción de la colección LEGO Botanicals hacen brotar la imaginación de las niñas, niños y aprendices de jardinero mientras descubren el fascinante universo de las plantas
-- RAMO DE FLORES LEGO: Los aprendices de florista se divertirán construyendo 3 margaritas artificiales grandes, 2 margaritas pequeñas, 3 flores de lavanda y tallos verdes para crear una decoración floral
-- COLECCIÓN BOTANICALS: Construye más flores con otros sets de construcción (a la venta por separado) de la gama LEGO Botanicals, donde encontrarás rosas, flores de cerezo, girasoles y más
-- DECORACIÓN PARA EL HOGAR: Una vez que los niños hayan disfrutado construyendo las flores artificiales, podrán colocarlas (jarrón no incluido) y exponerlas como decoración en su habitación o escritorio
 - FLORES ARTIFICIALES: Construye un colorido ramo de flores LEGO con margaritas y lavanda realistas, y completa el set con una encantadora figura de mariquita para darle un toque natural adicional
 - DECORACIÓN CON FLORES ARTIFICIALES: Fomenta el amor de los niños por la naturaleza con este set LEGO Botanicals Margaritas, un juguete para construir flores para niñas y niños a partir de 9 años
+- DECORACIÓN PARA EL HOGAR: Una vez que los niños hayan disfrutado construyendo las flores artificiales, podrán colocarlas (jarrón no incluido) y exponerlas como decoración en su habitación o escritorio
+- RAMO DE FLORES LEGO: Los aprendices de florista se divertirán construyendo 3 margaritas artificiales grandes, 2 margaritas pequeñas, 3 flores de lavanda y tallos verdes para crear una decoración floral
+- REGALO PR EL DÍA DE LA MADRE: El juguete de construcción es un divertido regalo para madres e hijas a partir de 9 años, para hacer juntas manualidades en este día tan especial
+- COLECCIÓN BOTANICALS: Construye más flores con otros sets de construcción (a la venta por separado) de la gama LEGO Botanicals, donde encontrarás rosas, flores de cerezo, girasoles y más
+- SETS DE FLORES LEGO: Los kits de construcción de la colección LEGO Botanicals hacen brotar la imaginación de las niñas, niños y aprendices de jardinero mientras descubren el fascinante universo de las plantas
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDY3X2{{</world>}}

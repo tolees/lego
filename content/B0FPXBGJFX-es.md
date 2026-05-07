@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción que les permite acercar y girar sus modelos usando las instrucciones 3D, consultar su progreso y guardar sets
 - REGALO PARA NIÑOS CREATIVOS: Este juguete de construcción es un regalo de cumpleaños idóneo para niños y niñas de 5 años en adelante que adoren los camiones de juguete
 - MÁS SETS LEGO CITY POR DESCUBRIR: Los niños pueden ampliar la diversión añadiendo este set al 60404 Camión Hamburguesería y al 60452 Camión de Dónuts (a la venta por separado) para más aventuras de comida callejera
 - CONTENIDO DE LA CAJA: Incluye todo lo que los niños necesitan para construir un camión de juguete con puesto desmontable, techo extraíble para acceder al área de preparación y ventanilla corredera para atender a clientes
-- CAMIÓN DE JUGUETE: Servir patatas fritas crujientes es el objetivo principal del set LEGO City Camión de Patatas Fritas de juguete para niños y niñas de 5 años en adelante
-- 2 MINIFIGURAS LEGO CITY: Utiliza las minifiguras de la vendedora y el cliente incluidas para jugar a servir patatas, atender pedidos y disfrutar de sabrosos aperitivos en el food truck
 - ACCESORIOS DE COMIDA RÁPIDA DE JUGUETE: El vehículo LEGO incluye accesorios de comida de juguete como una freidora, una botella de kétchup y un cartón de patatas fritas
+- 2 MINIFIGURAS LEGO CITY: Utiliza las minifiguras de la vendedora y el cliente incluidas para jugar a servir patatas, atender pedidos y disfrutar de sabrosos aperitivos en el food truck
+- CAMIÓN DE JUGUETE: Servir patatas fritas crujientes es el objetivo principal del set LEGO City Camión de Patatas Fritas de juguete para niños y niñas de 5 años en adelante
+- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción que les permite acercar y girar sus modelos usando las instrucciones 3D, consultar su progreso y guardar sets
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXBGJFX{{</world>}}

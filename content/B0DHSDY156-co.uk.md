@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- More Harry Potter characters – The LEGO set for adults also includes Ginny Weasley, Draco Malfoy, Narcissa Malfoy, Mr. Borgin microfigures and more
-- 12 LEGO Harry Potter microfigures – Features Harry Potter, Ron Weasley, Hermione Granger, Fred Weasley, George Weasley and Lavender Brown
-- Harry Potter gift idea – LEGO Harry Potter Diagon Alley makes a great treat for yourself or a magical gift for women and men who are fans of Harry Potter memorabilia
-- LEGO Harry Potter set for adults – Capture the atmosphere of Diagon Alley and the authentic details of its wizarding shops with this micromodel
-- Diagon Alley stores – Create microscale versions of Eeylops Owl Emporium, Gringotts, the Leaky Cauldron and The Daily Prophet HQ, plus the Knight Bus
 - Customisable display set – Display the model either as a 2-sided street, as one long row of buildings, or divide it into 5 separate modules
+- Diagon Alley stores – Create microscale versions of Eeylops Owl Emporium, Gringotts, the Leaky Cauldron and The Daily Prophet HQ, plus the Knight Bus
+- More Harry Potter characters – The LEGO set for adults also includes Ginny Weasley, Draco Malfoy, Narcissa Malfoy, Mr. Borgin microfigures and more
+- LEGO Harry Potter set for adults – Capture the atmosphere of Diagon Alley and the authentic details of its wizarding shops with this micromodel
 - Harry Potter collectible – This LEGO Harry Potter microscale set is part of a large assortment of LEGO building Sets for Adults who enjoy hands-on, mindful activities to relax and unwind
+- Harry Potter gift idea – LEGO Harry Potter Diagon Alley makes a great treat for yourself or a magical gift for women and men who are fans of Harry Potter memorabilia
+- 12 LEGO Harry Potter microfigures – Features Harry Potter, Ron Weasley, Hermione Granger, Fred Weasley, George Weasley and Lavender Brown
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDY156{{</world>}}

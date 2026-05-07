@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Build-and-play Super Hero toy – LEGO Marvel Iron Man & War Machine vs. Hammer Drones is a fun building toy for 7+ year old boys, girls and older fans
+- Buildable Marvel toys – The Hammer Drones are fully jointed so kids can pose the buildable LEGO Marvel figures for realistic dynamic play
+- Robots built for battle – The green Hammer Drone has a spring shooter on its shoulder and the blue Hammer Drone has a push shooter on each shoulder
+- LEGO Marvel minifigures – Includes an Iron Man minifigure with blue hand and feet blasters and laser beam weapons and War Machine with red hand and feet blasters and a stud shooter
+- Marvel gift for kids – Treat kids who like Iron Man, battle action or Marvel films to this build-and-play toy, which makes a great gift for 7+ year old boys and girls
 - Buildable LEGO Marvel sets – The extensive range of LEGO Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
 - 3D building instructions – Kids can download the LEGO Builder app for an immersive experience as they build their Spider-Man set using digital tools to zoom in and rotate models and track progress
-- Robots built for battle – The green Hammer Drone has a spring shooter on its shoulder and the blue Hammer Drone has a push shooter on each shoulder
-- Marvel gift for kids – Treat kids who like Iron Man, battle action or Marvel films to this build-and-play toy, which makes a great gift for 7+ year old boys and girls
-- Buildable Marvel toys – The Hammer Drones are fully jointed so kids can pose the buildable LEGO Marvel figures for realistic dynamic play
-- LEGO Marvel minifigures – Includes an Iron Man minifigure with blue hand and feet blasters and laser beam weapons and War Machine with red hand and feet blasters and a stud shooter
+- Build-and-play Super Hero toy – LEGO Marvel Iron Man & War Machine vs. Hammer Drones is a fun building toy for 7+ year old boys, girls and older fans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF4HG57{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Truck toy for kids aged 8+ – The LEGO Technic Mack LR Electric Garbage Truck toy features a side loader to grab, lift and tip the rubbish bins
-- Grab, lift and tip – Kids can act out recycling truck toy stories as they use the side loader to load the LEGO vehicle with rubbish
 - Realistic functions – The doors open to reveal the driver’s cab, and kids can use the gear element on top of the cab to steer the truck into position
 - Inspired by the real truck – This model is based on the real-world Mack electric garbage truck and features realistic movement for imaginative play
+- Grab, lift and tip – Kids can act out recycling truck toy stories as they use the side loader to load the LEGO vehicle with rubbish
+- Truck toy for kids aged 8+ – The LEGO Technic Mack LR Electric Garbage Truck toy features a side loader to grab, lift and tip the rubbish bins
 - 3D instructions – Kids can download the LEGO Builder app, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 
 [🛒 Buy it now!!]({{< param buyurl >}})

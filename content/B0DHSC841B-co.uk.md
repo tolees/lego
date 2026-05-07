@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- For fans of creative preschool toys – The truck comes with a 2-seater driver’s cab and a raisable ladder with a toy extinguisher for the minifigures
-- LEGO City gifts for 4+ year old boys and girls – Give this kids’ toy as a birthday gift or a surprise treat to kids and fans of emergency vehicle toys
-- In the box – Elements to build a classic toy fire engine and 2 firefighter minifigures, plus 2 LEGO flicker flames and a toy handheld extinguisher
-- Fire truck toy for 4+ year old boys and girls – Introduce kids to the world of LEGO City with this firefighter truck toy for imaginative play
-- A digital guide – This LEGO 4+ set includes a LEGO Starter Brick element, a simple pictorial building guide and a 3D guide in the LEGO Builder app
-- Imaginative play – Unleash more fun and adventures when you combine this LEGO vehicle playset with others (sold separately) from the range
 - A city without limits – LEGO City is a place where kids can unleash their imaginations, with toy vehicles, structures and citizens that motivate them to build, create, explore and play
+- In the box – Elements to build a classic toy fire engine and 2 firefighter minifigures, plus 2 LEGO flicker flames and a toy handheld extinguisher
+- LEGO City gifts for 4+ year old boys and girls – Give this kids’ toy as a birthday gift or a surprise treat to kids and fans of emergency vehicle toys
+- Imaginative play – Unleash more fun and adventures when you combine this LEGO vehicle playset with others (sold separately) from the range
+- Fire truck toy for 4+ year old boys and girls – Introduce kids to the world of LEGO City with this firefighter truck toy for imaginative play
+- For fans of creative preschool toys – The truck comes with a 2-seater driver’s cab and a raisable ladder with a toy extinguisher for the minifigures
+- A digital guide – This LEGO 4+ set includes a LEGO Starter Brick element, a simple pictorial building guide and a 3D guide in the LEGO Builder app
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSC841B{{</world>}}

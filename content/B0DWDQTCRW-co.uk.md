@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Let’s tell a friendship story – LEGO Friends building sets let kids explore different friendship moments, with lots of opportunities to create their own imaginative stories and role-play adventures
 - Animal figures and accessories – Fun details include scales, a brush, poo element, shovel, solar panel, lantern, phone, pen, bamboo, an apple and more to fuel imaginative role play with creative toys
 - 2 mini dolls and 3 panda toys – This LEGO Friends set follows the story of Autumn and Liann as they care for a mummy panda and her 2 babies, inspiring nurturing play and creative storytelling
 - Online series – Inspire more storytelling fun with other LEGO Friends sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know the characters of Heartlake City
-- A birthday gift for kids – This buildable tree house toy makes a great gift for 7+ year old girls and boys or an anytime treat for kids who love nature, animal toys and building with LEGO bricks
-- Panda building set for kids – the Panda Sanctuary Animal Care set is a fun building toy for 7+ year old girls and boys, featuring 2 mini dolls, 3 panda figures and accessories for pretend play
-- Let’s tell a friendship story – LEGO Friends building sets let kids explore different friendship moments, with lots of opportunities to create their own imaginative stories and role-play adventures
 - LEGO treehouse with quad bike toy – Includes a buildable tree house toy as home to the panda sanctuary, plus a quad bike to transport food and supplies, helping kids role-play caring for the animals
+- Panda building set for kids – the Panda Sanctuary Animal Care set is a fun building toy for 7+ year old girls and boys, featuring 2 mini dolls, 3 panda figures and accessories for pretend play
+- A birthday gift for kids – This buildable tree house toy makes a great gift for 7+ year old girls and boys or an anytime treat for kids who love nature, animal toys and building with LEGO bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQTCRW{{</world>}}

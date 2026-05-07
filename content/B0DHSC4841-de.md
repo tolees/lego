@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, Sets speichern und den Baufortschritt verfolgen
-- LEGO Avengers Figuren: Die Minifiguren Captain America, Black Panther, Iron Man, Scarlet Witch, Ant-Man, Iron Spider, Doctor Strange, Falcon und Chitauri sowie die Figur Thanos und ein Ant-Man Mech laden zum Spielen ein
-- Superhelden-Geschenk für Kinder: Dieses LEGO Bauspielzeug ist eine tolle Geschenkidee für Jungen und Mädchen, die die Abenteuer von Iron Man, Black Panther und Thanos aus Avengers: Endgame aus den Marvel Studios lieben
 - Bauspielzeuge für junge Superhelden: Das breite Spektrum an LEGO ǀ Marvel Bausets lässt Kinder ein sich ständig wandelndes Universum zum Bauen und Spielen erschaffen, in dem sie viele Superhelden-Abenteuer darstellen können
+- LEGO Avengers Figuren: Die Minifiguren Captain America, Black Panther, Iron Man, Scarlet Witch, Ant-Man, Iron Spider, Doctor Strange, Falcon und Chitauri sowie die Figur Thanos und ein Ant-Man Mech laden zum Spielen ein
+- 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den digitalen Funktionen kann man 3D-Modellansichten vergrößern und drehen, Sets speichern und den Baufortschritt verfolgen
 - Captain America Minifigur: Diese Figur kommt mit Thors Hammer und seinem Schild, um mächtige Schlachten zu schlagen; Das sieht ausgestellt besonders imposant aus
 - Superhelden-Bauspielzeug: Die Helden stürzen sich durch magische Portale, um sich einen spannenden Showdown mit Thanos zu liefern; Kinder können eine legendäre Filmszene nachstellen und eigene Abenteuer mit den Superhelden darstellen
+- Superhelden-Geschenk für Kinder: Dieses LEGO Bauspielzeug ist eine tolle Geschenkidee für Jungen und Mädchen, die die Abenteuer von Iron Man, Black Panther und Thanos aus Avengers: Endgame aus den Marvel Studios lieben
 - Erwecke den Showdown ausAvengers: Endgame zum Leben: Dieses LEGO ǀ Marvel Avengers Set zum Bauen, Spielen und Ausstellen ist ein detailgetreu nachgebildetes Modell für Jungen und Mädchen ab 10 Jahren
 
 [🛒 Buy it now!!]({{< param buyurl >}})

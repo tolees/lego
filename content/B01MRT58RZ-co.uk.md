@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- BUILD SOLO OR WITH FRIENDS AND FAMILY – This LEGO artificial flowers set includes 6 brick bags and separate instructions for 3 flowering stages
 - PART OF THE LEGO BOTANICAL COLLECTION – Discover a space for relaxation with the wide range of LEGO construction sets designed for adults
-- A THOUGHTFUL GIFT IDEA – Celebrate birthdays or surprise loved ones with a LEGO flower bouquet for women and men who are fans of building sets and home décor
+- BLOOMING BUDS – The LEGO Botanicals flower bouquet model kit for adults depicts 4 artificial red roses in full bloom, 4 blossoming and 4 in bud
+- LEGO FLOWERS FOR HOME DECOR – Indulge yourself or join friends for a mindful project building the LEGO Botanicals roses building set for adults
 - BOUQUET OF ROSES – Are you looking for unique home accessories? Brighten any space with this zero-maintenance LEGO faux flowers set for home or office decor
 - WHATS IN THE BOX? – All you need to craft 12 faux rose flowers with long green stems and 4 baby’s breath sprigs with small white LEGO flowers
-- LEGO FLOWERS FOR HOME DECOR – Indulge yourself or join friends for a mindful project building the LEGO Botanicals roses building set for adults
-- BUILD SOLO OR WITH FRIENDS AND FAMILY – This LEGO artificial flowers set includes 6 brick bags and separate instructions for 3 flowering stages
-- BLOOMING BUDS – The LEGO Botanicals flower bouquet model kit for adults depicts 4 artificial red roses in full bloom, 4 blossoming and 4 in bud
+- A THOUGHTFUL GIFT IDEA – Celebrate birthdays or surprise loved ones with a LEGO flower bouquet for women and men who are fans of building sets and home décor
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MRT58RZ{{</world>}}

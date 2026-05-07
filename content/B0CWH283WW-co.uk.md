@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Tram toy playset – Fans of tramcars and toy trains will love this LEGO City Downtown Tram and Station toy for 7-plus-year-old boys and girls
-- LEGO tram model with fun accessories – This playset comes with accessories, including a wheelchair, toy coffee cup, newspaper, phone and ticket
-- Building toys for kids – The toy tram has seating and opening double doors, while the station platform features extendable bridging plates
-- A city without limits – LEGO City is a place where kids can unleash their limitless imaginations with structures, vehicles and citizens that motivate them to build, create, explore and play
 - A helping hand – With the LEGO Builder app, builders can zoom in and rotate models in 3D, track their progress and save virtual sets
+- LEGO tram model with fun accessories – This playset comes with accessories, including a wheelchair, toy coffee cup, newspaper, phone and ticket
 - A creative gift for kids – This LEGO City tram building toy set makes a fun birthday gift for 7-plus-year-old boys, girls, kids and tram enthusiasts
+- A city without limits – LEGO City is a place where kids can unleash their limitless imaginations with structures, vehicles and citizens that motivate them to build, create, explore and play
 - What’s in the box? – This LEGO City set includes a toy tram and station with a passenger platform and coffee shop, 6 minifigures and a dog figure
+- Building toys for kids – The toy tram has seating and opening double doors, while the station platform features extendable bridging plates
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH283WW{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Made for creative play – This camping toy for 7+ year old girls and boys includes LEGO Friends characters Autumn Liann and Olly mini dolls
-- Role-play toys with fun features – Kids can open the van to access the detailed interior, where there are spaces for cooking, sleeping and relaxing
 - Gift for 7+ year old girls and boys – This RV toy makes a fun gift for kids who like animal toys, LEGO vehicles and camping adventures
 - Fun accessories – Includes a bike, picnic table, ‘flushing’ toilet, outdoor shower and camping toy accessories, including toy binoculars
+- Made for creative play – This camping toy for 7+ year old girls and boys includes LEGO Friends characters Autumn Liann and Olly mini dolls
 - Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
 - LEGO camper van toy – This Friendship Camper Van Adventure building set includes 3 mini dolls and a ferret animal toy figure to play out fun stories
+- Role-play toys with fun features – Kids can open the van to access the detailed interior, where there are spaces for cooking, sleeping and relaxing
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSG1KS3{{</world>}}

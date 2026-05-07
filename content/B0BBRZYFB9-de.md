@@ -31,9 +31,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Ein 2-in-1 LEGO NINJAGO Spielzeugauto, das sich durch Austauschen der 4 Räder von einem coolen Geländewagenmodell in ein tolles Straßenrennauto verwandeln lässt
 - Enthält eine NINJAGO Kai Minifigur mit Ninja-Helm, bewaffnet mit 2 goldenen Katana-Spielzeugschwertern, die während der epischen Renn-Action an den Seiten des Ninja-Autos befestigt werden können
 - Wenn es schnell gehen muss, kann der Geländewagen durch den Austausch der 4 Räder und das Entfernen des Spoilers von einem Geländewagen in ein leistungsfähiges und schnelles Straßenrennauto umgewandelt werden
+- Kleine Ninjas werden es lieben, allein oder mit Freunden zu spielen und Abenteuer zu erleben. Dieses Set ist ein tolles Geschenk zum Geburtstag für Kinder ab 6 Jahren
 - Halte Ausschau nach weiteren LEGO Auto-Sets aus der LEGO NINJAGO Reihe: Lloyds Mech-Duell EVO (71781), Coles Erddrache EVO (71782) und Jays Donner-Jet EVO (71784) für weitere Ninja-Abenteuer
 - Das rote NINJAGO Rennwagen-Spielzeug hat ein zu öffnendes Cockpit mit Platz für eine Minifigur, große LEGO-Reifen und einen beeindruckenden goldenen Flügelspoiler am Heck
-- Kleine Ninjas werden es lieben, allein oder mit Freunden zu spielen und Abenteuer zu erleben. Dieses Set ist ein tolles Geschenk zum Geburtstag für Kinder ab 6 Jahren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BBRZYFB9{{</world>}}

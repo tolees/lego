@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO BUILDER APP: Es sind sowohl gedruckte als auch digitale Bauanleitungen zu diesem Modellbausatz verfügbar; mit der LEGO Builder App kannst du das Modell in 3D betrachten und den Baufortschritt verfolgen
-- KUNSTBLUMEN ZUM BAUEN: Lass deine Kreativität aufblühen mit diesem LEGO Botanicals Mini-Orchidee Set für Erwachsene und stelle es nach dem Bauen auf dem Tisch oder im Regal aus
 - KLEINE LEGO PFLANZE MIT GROßER BEDEUTUNG: Die hübsche Orchidee steht für die Jahreszeit Frühling und gilt in der traditionellen Kunst als Symbol für Neubeginn
-- MODELLBAU MIT AUTHENTISCHEN DETAILS: Dieses künstliche Blumen Set enthält fünf pfirsichfarbene Blüten, einige Knospen und grüne Blätter sowie einen hellen Terrakotta Topf mit einem Sockel in Holzoptik
-- MUTTERTAGSGESCHENK FÜR KREATIVE MAMAS: Der kreative Modellbau ist ein beliebtes Geschenk für Mama, das keine Pflege benötigt und dauerhaft Freude bereitet
 - NOCH MEHR LEGO BLÜTEN BAUEN: Diese Blume aus der LEGO Botanicals Kollektion gehört zur Vier Herren Serie, die für die vier Jahreszeiten steht; die separat erhältlichen Sets können gemeinsam ausgestellt werden
+- MUTTERTAGSGESCHENK FÜR KREATIVE MAMAS: Der kreative Modellbau ist ein beliebtes Geschenk für Mama, das keine Pflege benötigt und dauerhaft Freude bereitet
+- MODELLBAU MIT AUTHENTISCHEN DETAILS: Dieses künstliche Blumen Set enthält fünf pfirsichfarbene Blüten, einige Knospen und grüne Blätter sowie einen hellen Terrakotta Topf mit einem Sockel in Holzoptik
+- KUNSTBLUMEN ZUM BAUEN: Lass deine Kreativität aufblühen mit diesem LEGO Botanicals Mini-Orchidee Set für Erwachsene und stelle es nach dem Bauen auf dem Tisch oder im Regal aus
+- LEGO BUILDER APP: Es sind sowohl gedruckte als auch digitale Bauanleitungen zu diesem Modellbausatz verfügbar; mit der LEGO Builder App kannst du das Modell in 3D betrachten und den Baufortschritt verfolgen
 - FARBENFROHE LEGO DEKORATION: Nach dem Zusammenbauen wird dieses 3D Modell für Frauen und Männer zu einer naturinspirierten DIY Deko fürs Büro, den Schreibtisch oder das Wohnzimmer
 
 [🛒 Buy it now!!]({{< param buyurl >}})

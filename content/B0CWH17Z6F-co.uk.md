@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A LEGO Peach princess toy figure, plus Lakitu, a Yellow Toad and a Lava Bubble
 - Princess toy playset for interactive adventures with LEGO Peach
 - A buildable cloud toy with a fishing pole to lift the Yellow Toad’s chair
+- A LEGO Peach princess toy figure, plus Lakitu, a Yellow Toad and a Lava Bubble
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH17Z6F{{</world>}}

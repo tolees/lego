@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 2 MINI PUPPEN UND 3 TIERFIGUREN: Geschichtenerzählen macht mit diesem Set besonders viel Spaß; enthalten sind die kleinen Puppen Nova und Aliya sowie Kätzchen, Hund und Frosch LEGO Figuren
-- ROLLENSPIELE MIT MOPS-VAN: Freu dich darauf, mit dem LEGO Fahrzeug Waren auszuliefern; der Lieferwagen hat ein Welpengesicht und einen Schwanz, der beim Fahren wedelt; eine Mini Puppe passt in den Van
 - LERNSPIELZEUG MIT ZUBEHÖR: Öffne den Transporter, um Hüte für die LEGO Haustiere zu finden, darunter Regenhut, Cowboyhut, Zylinder und Blumenkranz, sowie eine Kasse und eine Preisliste
 - ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
-- KINDER GESCHENK FÜR TIERLIEBHABER: Dieses lustige Tierspielset bietet eine kreative spielerische Erfahrung und ist ein beliebtes Geburtstagsgeschenk für Mädchen und Jungen ab 6 Jahren
-- HAUSTIER SPIELSET MIT EINEM VAN: Mädchen und Jungen ab 6 Jahren können mit dem LEGO Friends Haustierzubehör-Van endlose Geschichten erschaffen
 - DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
+- KINDER GESCHENK FÜR TIERLIEBHABER: Dieses lustige Tierspielset bietet eine kreative spielerische Erfahrung und ist ein beliebtes Geburtstagsgeschenk für Mädchen und Jungen ab 6 Jahren
+- 2 MINI PUPPEN UND 3 TIERFIGUREN: Geschichtenerzählen macht mit diesem Set besonders viel Spaß; enthalten sind die kleinen Puppen Nova und Aliya sowie Kätzchen, Hund und Frosch LEGO Figuren
+- HAUSTIER SPIELSET MIT EINEM VAN: Mädchen und Jungen ab 6 Jahren können mit dem LEGO Friends Haustierzubehör-Van endlose Geschichten erschaffen
+- ROLLENSPIELE MIT MOPS-VAN: Freu dich darauf, mit dem LEGO Fahrzeug Waren auszuliefern; der Lieferwagen hat ein Welpengesicht und einen Schwanz, der beim Fahren wedelt; eine Mini Puppe passt in den Van
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXF1CG6{{</world>}}

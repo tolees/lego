@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bandmates
-- Número de piezas: 11
-- Cada caja de sorpresa contiene una mini figura de Bandmates Edición 1, dos BeatBits elegidos al azar, un BeatBit especial y un accesorio addicional para una diversión infinita.
 - Edad recomendada por el fabricante: 7+
+- Cada caja de sorpresa contiene una mini figura de Bandmates Edición 1, dos BeatBits elegidos al azar, un BeatBit especial y un accesorio addicional para una diversión infinita.
 - Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
+- Número de piezas: 11
+- Bandmates
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08G4JXV79{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO Friends for kids and teens – This Heartlake City Apartments and Stores set includes 3 LEGO houses, a bakery, a ceramics studio and a launderette
 - 9 LEGO Friends characters – Features 7 mini dolls including Paisley Zac and Ella, a micro-doll, a baby figure and 3 toy cat figures
 - LEGO toy houses to buid – The apartments feature fun details that are personalised to the different characters, with lots of rooms and accessories
+- Gifts for teenage girls and boys – This LEGO Friends set makes a fun gift for 12+ year old kids who enjoy creative building projects and LEGO friendship stories
+- LEGO Friends for kids and teens – This Heartlake City Apartments and Stores set includes 3 LEGO houses, a bakery, a ceramics studio and a launderette
 - The community scene – Bakery, ceramics studio with a spinning pottery wheel, a launderette with a rolling door and 2 spinning washing machines
 - Creative toy house model – This set is packed with fun details so kids can explore different storylines before placing their model on display
 - Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
-- Gifts for teenage girls and boys – This LEGO Friends set makes a fun gift for 12+ year old kids who enjoy creative building projects and LEGO friendship stories
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSDPN8S{{</world>}}

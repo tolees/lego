@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Includes a statue minifigure – Place the gold-colored Hogwarts architect statue next to the “Hogwarts Castle” nameplate or at the corner of the baseplate to complete the display
+- Gift idea – Treat yourself or give this 2,660-piece buildable display model to adult Harry Potter fans and collectors as a holiday gift, birthday present or special surprise
 - Collectible Harry Potter building set for adults – This LEGO Harry Potter model kit is part of a large assortment of LEGO Sets for Adults who enjoy hands-on, mindful activities to relax and unwind
+- Revel in details – Check out the Chamber of Secrets, The Winged Key room, Potions Classroom and Chessboard Chamber, plus the Durmstrang Ship, Beauxbatons Carriage, Whomping Willow and Ford Anglia
+- Build and display – This 2,660-piece Hogwarts Castle model measures over8.5 in. (21 cm) high, 13.5 in. (35 cm) wide and 10 in. (25 cm) deep
 - Scale model – Build and display Hogwarts Castle and its surrounding area, including the Main Tower, Astronomy Tower, Great Hall, courtyards, bridges, greenhouses, Boathouse and the Black Lake
 - The first LEGO brick model of the Hogwarts Castle and Grounds (76419) – Recreate the most iconic location with this buildable LEGO Harry Potter display set
-- Gift idea – Treat yourself or give this 2,660-piece buildable display model to adult Harry Potter fans and collectors as a holiday gift, birthday present or special surprise
-- Build and display – This 2,660-piece Hogwarts Castle model measures over8.5 in. (21 cm) high, 13.5 in. (35 cm) wide and 10 in. (25 cm) deep
-- Revel in details – Check out the Chamber of Secrets, The Winged Key room, Potions Classroom and Chessboard Chamber, plus the Durmstrang Ship, Beauxbatons Carriage, Whomping Willow and Ford Anglia
-- Includes a statue minifigure – Place the gold-colored Hogwarts architect statue next to the “Hogwarts Castle” nameplate or at the corner of the baseplate to complete the display
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BXQ6NRRN{{</world>}}

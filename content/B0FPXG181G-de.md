@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- SPASS AUF DEM LAUFSTEG: Kinder können Modedesigner spielen mit diesem DIY Bastelset, das einen Laufsteg, eine drehbare Plattform für den großen Auftritt, einen Schminktisch und viele Accessoires enthält
-- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
-- GESCHENK FÜR MÄDCHEN UND JUNGEN AB 7 JAHREN: Ein beliebtes Kinder Geschenk für junge Fans von Kunst und Design, das sich für Geburtstage oder andere besondere Anlässe eignet
 - OUTFITS MIT 3 PUPPEN: Kombiniere die enthaltenen Oberteile, Perücken, Hüte und weitere Requisiten, um die LEGO Friends kleine Puppen Paisley, Liann und Nova am Schminktisch für die Show zu stylen
 - DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
-- MODEDESIGN SET FÜR MÄDCHEN UND JUNGEN: Das LEGO Friends Modeschau in Heartlake City Spielzeug für Mädchen und Jungen ab 7 Jahren ermutigt Kinder, kreativ zu werden und 3 Mini Puppen für den Laufsteg zu stylen
 - MODE ACCESSOIRES: Anziehpuppen mit Tüllrock aus Stoff und ein Stoffmantel, Jacke, Jeans, Top, Schal, Handtasche, Perücken, Blumenkrone, Schleife, Sonnenbrille, Lippenstift, Haarbürste, Spiegel und Kameras
+- SPASS AUF DEM LAUFSTEG: Kinder können Modedesigner spielen mit diesem DIY Bastelset, das einen Laufsteg, eine drehbare Plattform für den großen Auftritt, einen Schminktisch und viele Accessoires enthält
+- MODEDESIGN SET FÜR MÄDCHEN UND JUNGEN: Das LEGO Friends Modeschau in Heartlake City Spielzeug für Mädchen und Jungen ab 7 Jahren ermutigt Kinder, kreativ zu werden und 3 Mini Puppen für den Laufsteg zu stylen
+- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- GESCHENK FÜR MÄDCHEN UND JUNGEN AB 7 JAHREN: Ein beliebtes Kinder Geschenk für junge Fans von Kunst und Design, das sich für Geburtstage oder andere besondere Anlässe eignet
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXG181G{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Minecraft Minifiguren für Rollenspiele: Kinder graben in der Mine nach Erzen, laden diese in eine Lore und befördern sie auf den Schienen zur Schatztruhe; dabei müssen sie einen feindseligen Spinnenreiter verscheuchen
-- Geschenk für Minecraft Spieler: Dieses LEGO Minecraft Spielzeug für kreative Bauabenteuer ist ein Kinder Geschenk für Jungen, Mädchen und Minecraft Fans
 - LEGO Sammelfiguren und explosiver Actionspaß: Wenn die Lore mit TNT beladen ist, können Kinder sie mithilfe einer Spezialfunktion gegen die Felswand krachen lassen, um sich den Weg nach draußen freizusprengen
-- Minecraft Action in der echten Welt: LEGO Minecraft Spielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen zum Leben erweckt
-- Minecraft LEGO Set: Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein schönes Gemeinschaftserlebnis, wenn Kinder zusammen mit anderen LEGO Modelle bauen
 - LEGO Minecraft Spielzeug mit Spitzhackenmine: Die Spitzhackenmine lässt Jungen und Mädchen ab 8 Jahren aktiv spielen und eignet sich für Kinder, die Minecraft, kreative Spielsets und Deko fürs Gaming-Zimmer lieben
+- Minecraft LEGO Set: Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein schönes Gemeinschaftserlebnis, wenn Kinder zusammen mit anderen LEGO Modelle bauen
+- Minecraft Minifiguren für Rollenspiele: Kinder graben in der Mine nach Erzen, laden diese in eine Lore und befördern sie auf den Schienen zur Schatztruhe; dabei müssen sie einen feindseligen Spinnenreiter verscheuchen
 - LEGO Minecraft Figuren zum Sammeln: Das Spielset beinhaltet 3 Minifiguren – Alex, einen Bergarbeiter und einen streunenden Spinnenreiter – sowie eine reitbare Spinne und einen kleinen Eisbären
+- Minecraft Action in der echten Welt: LEGO Minecraft Spielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen zum Leben erweckt
+- Geschenk für Minecraft Spieler: Dieses LEGO Minecraft Spielzeug für kreative Bauabenteuer ist ein Kinder Geschenk für Jungen, Mädchen und Minecraft Fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDH1M2S{{</world>}}

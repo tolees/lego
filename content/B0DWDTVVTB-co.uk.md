@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CREATIVE GIFT FOR WOMEN AND MEN – A thoughtful gift idea for fans of the Wicked movies or adults who enjoy DIY projects, fantasy themes and LEGO building sets for adults
-- BUILD-AND-DISPLAY PROJECT – A fun model kit for adults, combining Emerald City, Shiz University, the Emerald City train and the Wizard’s balloon into one vibrant fantasy scene
-- INCLUDES 7 LEGO MINIFIGURES – Elphaba flying over Emerald City and Glinda floating in her bubble, as well as Dorothy Gale, Cowardly Lion, Scarecrow, Tin Man and Toto
-- FUN FEATURES – The LEGO Art set includes 2 points on the back to hang it on a wall, and also comes with fun hidden Easter Eggs: flying monkeys, the yellow brick road and flowers
-- 3D DIY WALL ART – This creative home decor build features Emerald City in iconic greens, pinks and yellows, capturing the magic of key scenes from the Wicked movies
-- MAGICAL LEGO HOME DECOR – LEGO Wicked sets offer fantasy fans a way to build scenes they love, making them fun creative gifts and striking DIY wall decor
 - LEGO SETS FOR ADULTS – Bring the world of Wicked into your home with this Emerald City Wall Art building set, featuring 6 LEGO minifigures, a Toto figure and hidden details
+- INCLUDES 7 LEGO MINIFIGURES – Elphaba flying over Emerald City and Glinda floating in her bubble, as well as Dorothy Gale, Cowardly Lion, Scarecrow, Tin Man and Toto
+- CREATIVE GIFT FOR WOMEN AND MEN – A thoughtful gift idea for fans of the Wicked movies or adults who enjoy DIY projects, fantasy themes and LEGO building sets for adults
+- MAGICAL LEGO HOME DECOR – LEGO Wicked sets offer fantasy fans a way to build scenes they love, making them fun creative gifts and striking DIY wall decor
+- FUN FEATURES – The LEGO Art set includes 2 points on the back to hang it on a wall, and also comes with fun hidden Easter Eggs: flying monkeys, the yellow brick road and flowers
+- BUILD-AND-DISPLAY PROJECT – A fun model kit for adults, combining Emerald City, Shiz University, the Emerald City train and the Wizard’s balloon into one vibrant fantasy scene
+- 3D DIY WALL ART – This creative home decor build features Emerald City in iconic greens, pinks and yellows, capturing the magic of key scenes from the Wicked movies
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDTVVTB{{</world>}}

@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - ALLES FÜR DEN SPIELSPASS ENTHALTEN: Im Spielset sind ein Spielzeug LKW, zwei coole Motorräder und zwei Fahrer Minifiguren enthalten, für erstes Motorikspielzeug und kreativen Aufbau-Spaß
-- KINDER GESCHENK FÜR MOTORRADFANS: Das Bauset ist eine schöne Überraschung für Jungen und Mädchen ab 4 Jahren, die Motorrad Spielzeug und jede Menge Action lieben
+- KOMBINATION MIT ANDEREN LEGO CITY SETS: Für noch mehr Spielmöglichkeiten lässt sich der Motorradtransporter mit weiteren separat erhältlichen LEGO City Fahrzeugen erweitern
 - LIEBEVOLLES ZUBEHÖR FÜR NOCH MEHR SPASS: Der LEGO Transporter kommt mit Zubehör wie einen Schraubenschlüssel, Becher und Smartphone, für kreatives Spielen mit Konstruktionsspielzeug
 - SPIELZEUG FAHRZEUG FÜR KINDER AB 4 JAHREN: Der LEGO City Motorradtransporter ist ein beliebtes Einsteigerset für Jungen und Mädchen ab 4 Jahren, die Lastwagen und Rennautos lieben
-- KOMBINATION MIT ANDEREN LEGO CITY SETS: Für noch mehr Spielmöglichkeiten lässt sich der Motorradtransporter mit weiteren separat erhältlichen LEGO City Fahrzeugen erweitern
+- KINDER GESCHENK FÜR MOTORRADFANS: Das Bauset ist eine schöne Überraschung für Jungen und Mädchen ab 4 Jahren, die Motorrad Spielzeug und jede Menge Action lieben
 - REALISTISCHE FUNKTIONEN FÜR ROLLENSPIELE: Kinder können die Rampe befestigen, die Motorräder aufladen und eine Minifigur ins Führerhaus setzen, so entstehen viele fantasievolle Abenteuer mit LEGO Fahrzeugen
 - KINDERLEICHTER BAUSPASS MIT STARTERSTEIN: Dank LEGO Starter-Stein, einfacher Anleitung und 3D-Hilfe in der LEGO Builder App können junge Baumeister ganz selbstständig mit dem STEM Spielzeug loslegen
 

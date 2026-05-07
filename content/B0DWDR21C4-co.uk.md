@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO display model – WALL-E has moving wheels, M-O has a spinning brush, WALL-E, EVE and M-O have movable heads and arms and, with Hal, the group is ready for display
-- Build Together with friends and family – The LEGO Builder app offers a fun and collaborative experience that lets you share the joy and satisfaction of LEGO building and creativity with others
-- Desk decor idea – This collectible model kit for adults includes 4 iconic LEGO ǀ Disney film characters and offers a mindful build experience with advanced construction techniques to spark creativity
-- LEGO ǀ Disney building set for adults – Treat yourself or any adult fan of the Disney and Pixar film to a detailed WALL-E and EVE, 811-piece building set to inspire relaxation
 - LEGO ǀ Disney characters – This immersive construction set features 4 Disney and Pixar’s WALL-E characters: WALL-E, EVE, M-O and Hal, making it a creative choice for home or office decor
+- LEGO ǀ Disney building set for adults – Treat yourself or any adult fan of the Disney and Pixar film to a detailed WALL-E and EVE, 811-piece building set to inspire relaxation
 - Creative Disney gift idea – This building set for adults featuring Disney and Pixar’s WALL-E animated film-inspired details, makes a great gift idea for women and men
 - LEGO building sets for adults – This LEGO ǀ Disney character collectible set offers adult fans a relaxing, joy-filled building experience that results in a display-worthy model
+- Build Together with friends and family – The LEGO Builder app offers a fun and collaborative experience that lets you share the joy and satisfaction of LEGO building and creativity with others
+- Desk decor idea – This collectible model kit for adults includes 4 iconic LEGO ǀ Disney film characters and offers a mindful build experience with advanced construction techniques to spark creativity
+- LEGO display model – WALL-E has moving wheels, M-O has a spinning brush, WALL-E, EVE and M-O have movable heads and arms and, with Hal, the group is ready for display
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDR21C4{{</world>}}

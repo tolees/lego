@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creative playset – With this Marvel building toy, kids can recreate favourite movie moments and explore endless imaginative adventures of their own
-- LEGO Marvel gift for kids – This versatile set makes a fun birthday gift for 10 plus year old boys, girls and fans of Marvel Studios’ Captain America: Civil War
-- Marvel characters – This Captain America building toy includes a large, fully jointed Ant-Man LEGO Marvel figure which stands over 24 cm (9.5 in.) tall
 - Captain America: Civil War Action Battle – This Marvel building toy for 10+ year old boys and girls brings the airport scene from the MCU film to life
-- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- Super Hero building toy – The set also includes an exploding barrel feature and a Quinjet aircraft with foldable wings and an opening cockpit
+- Creative playset – With this Marvel building toy, kids can recreate favourite movie moments and explore endless imaginative adventures of their own
 - Includes 8 minifigures – Captain America, Winter Soldier, Wanda, Falcon, Iron Man, Spider-Man, Black Widow and Black Panther LEGO Marvel minifigures
+- Super Hero building toy – The set also includes an exploding barrel feature and a Quinjet aircraft with foldable wings and an opening cockpit
+- LEGO Marvel gift for kids – This versatile set makes a fun birthday gift for 10 plus year old boys, girls and fans of Marvel Studios’ Captain America: Civil War
+- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- Marvel characters – This Captain America building toy includes a large, fully jointed Ant-Man LEGO Marvel figure which stands over 24 cm (9.5 in.) tall
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDMSXW{{</world>}}

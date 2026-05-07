@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Creative toy – The building set features familiar elements from the video game, including a Minecraft crafting table, shelter, campfire, enchanted axe and a small cactus
-- LEGO Minecraft building set – Steves Desert Expedition is a fun Minecraft toy for 6+ year old boys and girls, set in the desert biome with a house model for kids to defend against a flying Phantom
 - Play and display toy – This LEGO Minecraft set is easy to build and reconfigure, plus when the day’s play is over, kids can proudly put it on display in their room
-- Building toy with Minecraft figures – Includes the popular Minecraft character Steve, a Baby Camel animal toy and a flying Phantom with movable wings
+- LEGO Minecraft building set – Steves Desert Expedition is a fun Minecraft toy for 6+ year old boys and girls, set in the desert biome with a house model for kids to defend against a flying Phantom
 - Expand the fun – Theres a wide range of LEGO Minecraft toys (sold separately) for kids to collect featuring iconic Minecraft characters and locations
+- Building toy with Minecraft figures – Includes the popular Minecraft character Steve, a Baby Camel animal toy and a flying Phantom with movable wings
 - LEGO Minecraft gifts – This hands-on, building toy featuring Minecraft characters in a biome packed with play-and-display possibilities makes a great gaming gift for 6+ year old boys and girls
+- Creative toy – The building set features familiar elements from the video game, including a Minecraft crafting table, shelter, campfire, enchanted axe and a small cactus
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVZSXP2{{</world>}}

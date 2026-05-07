@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Il piano inferiore ospita la cassa, uno scanner giocattolo e un armadietto con il kit da veterinario
+- Il primo piano ospita unarea da toletta per coccolare gli animali, completa di vasca, palestrina e tiragraffi per gatti
 - Età consigliata dal produttore: 4+
 - Numero di pezzi: 111
 - Clinica veterinaria
-- Il piano inferiore ospita la cassa, uno scanner giocattolo e un armadietto con il kit da veterinario
-- Il primo piano ospita unarea da toletta per coccolare gli animali, completa di vasca, palestrina e tiragraffi per gatti
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNTV9QJ{{</world>}}

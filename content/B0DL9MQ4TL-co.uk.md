@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- LEGO Art sets for adults – The LEGO Art range gives adults the chance to create brick-built artworks inspired by some of their biggest passions to display at home or in the office
+- Keith Haring LEGO Art set – Bring one of the art world’s most famous motifs into your home with this frameless LEGO Art Keith Haring – Dancing Figures building set for adults
+- Art gift idea for adults – A treat for yourself or a home decor gift idea for men and women who are art lovers and want to enjoy an immersive and creative activity
 - 2 display options – This LEGO art building set for adults can be hung on a wall or displayed on a flat surface as a fun piece of home or office desk decor
 - Celebration of an icon – This brick-built piece of pop art is inspired by Keith Haring’s dancing figures, featuring their instantly recognisable bold lines and vibrant colours
 - Customisable pop art model kit – The 5 dancing figures are built as separate models to give you the choice of how to order and display them
 - A social building experience – This buildable art set comes with 5 building instruction booklets, 1 for each figure, so you can create your Keith Haring dancing people models with friends or family
-- Keith Haring LEGO Art set – Bring one of the art world’s most famous motifs into your home with this frameless LEGO Art Keith Haring – Dancing Figures building set for adults
-- Art gift idea for adults – A treat for yourself or a home decor gift idea for men and women who are art lovers and want to enjoy an immersive and creative activity
-- LEGO Art sets for adults – The LEGO Art range gives adults the chance to create brick-built artworks inspired by some of their biggest passions to display at home or in the office
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DL9MQ4TL{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gift for kids – This 3in1 building toy provides an immersive build-and-play experience and makes a fun birthday gift for 8+ year old girls and boys
-- Posable LEGO animal figures – All 3 models have posable features, including heads and legs, and the cockatoo figure can rotate its head 360 degrees
-- 3 building options in 1 box – LEGO Creator 3in1 Wild Animals: Pink Flamingo toy for 8+ year old girls and boys lets kids build 3 different animal figures with the same LEGO bricks
 - LEGO Creator toys – Every 3in1 set (sets sold separately) lets kids build 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
-- Endless play options – Kids can choose to build a pink flamingo toy, a pink cockatoo toy or a pink axolotl (models cannot be built simultaneously)
+- Posable LEGO animal figures – All 3 models have posable features, including heads and legs, and the cockatoo figure can rotate its head 360 degrees
 - LEGO Animal toys to build and display – The animal figures in this building set make great display items in a kid’s bedroom on a shelf or bedside table
 - More 3in1 fun – Expand kids’ adventures with other building toy sets (sold separately) from the extensive LEGO Creator 3in1 range
+- Endless play options – Kids can choose to build a pink flamingo toy, a pink cockatoo toy or a pink axolotl (models cannot be built simultaneously)
+- 3 building options in 1 box – LEGO Creator 3in1 Wild Animals: Pink Flamingo toy for 8+ year old girls and boys lets kids build 3 different animal figures with the same LEGO bricks
+- Gift for kids – This 3in1 building toy provides an immersive build-and-play experience and makes a fun birthday gift for 8+ year old girls and boys
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSGF8FD{{</world>}}

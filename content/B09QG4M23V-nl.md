@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen bouwen de speelgoedboot Hope en spelen dat ze de boot bemannen onder leiding van Kapitein Maxine, terwijl ze proberen om in een recordtijd de aarde rond te zeilen
 - De LEGO Bouwinstructies app laat kinderen op een leuke en interactieve manier zien hoe ze deze zeilboot kunnen bouwen - de speelset bevat daarnaast ook duidelijke gedrukte instructies, zodat kinderen meteen aan de slag kunnen
+- Inclusief 3 minipoppetjes van LEGO Friends personages Stephanie, Maxine en Elijah in sportieve zeiloutfits, plus talloze accessoires, zoals een tablet om mee naar huis te bellen, een walkie-talkie, een speelgoed verrekijker, een drone met afstandsbediening en 3 zwemvesten
+- Kinderen bouwen de speelgoedboot Hope en spelen dat ze de boot bemannen onder leiding van Kapitein Maxine, terwijl ze proberen om in een recordtijd de aarde rond te zeilen
 - Dit sportieve LEGO Friends speelgoed is een geweldig cadeau of een leuk geschenk voor een andere gelegenheid, voor meisjes of jongens vanaf 7 jaar die gek zijn op reizen, zeilen en avonturen
 - Dit avontuurlijke speelgoed bestaat uit een zeilboot met een flexibel zeil, een finishlijn aan de kade en 3 minipoppetjes.
-- Inclusief 3 minipoppetjes van LEGO Friends personages Stephanie, Maxine en Elijah in sportieve zeiloutfits, plus talloze accessoires, zoals een tablet om mee naar huis te bellen, een walkie-talkie, een speelgoed verrekijker, een drone met afstandsbediening en 3 zwemvesten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QG4M23V{{</world>}}

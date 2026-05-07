@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Set zum Horizon Videospiel für Kinder: Aloy und Varl vs. Panzerwanderer und Sägezahn bietet Jungen und Mädchen ab 9 Jahren, die das Videospiel LEGO Horizon Adventures lieben, jede Menge Spielspaß
-- LEGO Abenteuerspielzeug: Kinder begleiten Aloy und Varl in ein Duell mit 2 voll beweglichen Maschinen, dem Panzerwanderer und dem Sägezahn; Für Feuer-, Schock- oder Gefrier-Attacken lassen sich Elemente am Speer und Bogen austauschen
 - Spannendes Horizon Geschenk für Kinder: Dieses LEGO Set zum Videospiel ist eine tolle Geschenkidee für Spieler, die die Figuren und Abenteuer aus Horizon Adventures lieben
-- Spielspaß in der echten und der digitalen Welt: Mit Zustimmung der Eltern können sich Kinder LEGO Horizon Adventures ansehen; Dieses Videospiel voller Action und Abenteuer ist der Welt von Horizon nachempfunden
-- Enthält LEGO Horizon Adventures Minifiguren: Die Minifigur Aloy hält einen Bogen, und die Minifigur Varl trägt einen Speer; Beide lassen sich für unterschiedliche Angriffsmethoden upgraden
-- Digitaler Bauspaß: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den intuitiven Funktionen kann man 3D-Modellansichten vergrößern und drehen, Sets speichern und den Baufortschritt verfolgen
 - Horizon Spielzeugroboter: Der Panzerwanderer hat einen Schild, eine Energiekapsel, bewegliche Beine und Arme und einen aufklappbaren Kiefer; Der Sägezahn kann dagegen seinen Oberkörper drehen, den Kiefer aufklappen und Hals, Kopf und Beine bewegen
+- LEGO Set zum Horizon Videospiel für Kinder: Aloy und Varl vs. Panzerwanderer und Sägezahn bietet Jungen und Mädchen ab 9 Jahren, die das Videospiel LEGO Horizon Adventures lieben, jede Menge Spielspaß
+- Spielspaß in der echten und der digitalen Welt: Mit Zustimmung der Eltern können sich Kinder LEGO Horizon Adventures ansehen; Dieses Videospiel voller Action und Abenteuer ist der Welt von Horizon nachempfunden
+- LEGO Abenteuerspielzeug: Kinder begleiten Aloy und Varl in ein Duell mit 2 voll beweglichen Maschinen, dem Panzerwanderer und dem Sägezahn; Für Feuer-, Schock- oder Gefrier-Attacken lassen sich Elemente am Speer und Bogen austauschen
+- Digitaler Bauspaß: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; Mit den intuitiven Funktionen kann man 3D-Modellansichten vergrößern und drehen, Sets speichern und den Baufortschritt verfolgen
+- Enthält LEGO Horizon Adventures Minifiguren: Die Minifigur Aloy hält einen Bogen, und die Minifigur Varl trägt einen Speer; Beide lassen sich für unterschiedliche Angriffsmethoden upgraden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DHSDB91W{{</world>}}

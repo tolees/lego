@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Minifigure accessories – This LEGO building set includes fun police toys and accessories like a toy ruby, handcuffs, torch, chain and life buoy to spark imaginative adventures
-- More sets to collect – Kids can add this toy boat set to other LEGO City construction toys (sold separately) to expand their adventures with more vehicles, structures and imaginative play
-- Police boat chase for everyday heroes – Kids dive into an ocean of adventure with the LEGO City Police Boat Chase set, packed with police action and construction toys for 6+ year old boys and girls
-- What’s in the box? – Includes everything needed to build a toy boat, crook’s power dinghy, two police officer LEGO minifigures, a crook minifigure and a shark animal figure for ocean fun
-- A city without limits – LEGO City building toys inspire kids to create, explore and play with structures, vehicles, citizens, animal toys and exciting adventures for endless creative fun
 - A LEGO gift for any occasion – A brilliant anytime surprise or a birthday gift for 6+ year old boys and girls, for fans of police playsets, shark toys and animal figures
 - Features and functions – Kids can seat two officer minifigures in the police toy boat’s cockpit, lock the crook in the cell and float the crook’s dinghy and the toy boat for thrilling water play
+- More sets to collect – Kids can add this toy boat set to other LEGO City construction toys (sold separately) to expand their adventures with more vehicles, structures and imaginative play
+- Police boat chase for everyday heroes – Kids dive into an ocean of adventure with the LEGO City Police Boat Chase set, packed with police action and construction toys for 6+ year old boys and girls
+- A city without limits – LEGO City building toys inspire kids to create, explore and play with structures, vehicles, citizens, animal toys and exciting adventures for endless creative fun
+- Minifigure accessories – This LEGO building set includes fun police toys and accessories like a toy ruby, handcuffs, torch, chain and life buoy to spark imaginative adventures
+- What’s in the box? – Includes everything needed to build a toy boat, crook’s power dinghy, two police officer LEGO minifigures, a crook minifigure and a shark animal figure for ocean fun
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQGXLF{{</world>}}

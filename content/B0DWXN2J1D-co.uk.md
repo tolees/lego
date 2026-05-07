@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 houses to build and customise – With 4 modules to create a fresh look for every season, kids can choose to put the 2 house toys next to each other, or build 1 on top of the other to create a 2-storey house
-- LEGO Animal Crossing minifigures – The building set comes with 3 characters from the video game series: the bear, Stitches, the deer, Fuchsia, and the wolf, Fang
-- Animal Crossing house toy with minifigures – Fans can enjoy some home-building fun with the LEGO Animal Crossing Creative Houses: Seasons of Fun gaming toy for 7+ year old girls and boys
-- Video game toy for imaginative role play – All 3 Animal Crossing characters have their own furniture, and a moving trolley enables house-moving role play
 - Creative building toys – Check out other LEGO Animal Crossing sets (sold separately) inspired by the video game series, which let kids continue their storytelling fun even when on a screen break
+- Animal Crossing house toy with minifigures – Fans can enjoy some home-building fun with the LEGO Animal Crossing Creative Houses: Seasons of Fun gaming toy for 7+ year old girls and boys
 - Digital building fun – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
+- LEGO Animal Crossing minifigures – The building set comes with 3 characters from the video game series: the bear, Stitches, the deer, Fuchsia, and the wolf, Fang
+- Video game toy for imaginative role play – All 3 Animal Crossing characters have their own furniture, and a moving trolley enables house-moving role play
+- 2 houses to build and customise – With 4 modules to create a fresh look for every season, kids can choose to put the 2 house toys next to each other, or build 1 on top of the other to create a 2-storey house
 - Animal Crossing gift – This creative toy makes a great gaming gift for 7+ year old girls, boys and Animal Crossing fans who love to build dream homes with colourful LEGO bricks
 
 [🛒 Check the deal!!]({{< param buyurl >}})

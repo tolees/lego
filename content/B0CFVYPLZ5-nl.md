@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Meer aanpasbare mecha – kinderen kunnen onderdelen van Kais mecha omwisselen en combineren met Coles elementaire aardemecha (71806) en Soras elementaire techmecha (71807) (apart verkrijgbaar)
-- Aanpasbare actiefiguur voor kinderen – Kais elementaire vuurmecha is ninja speelgoed voor jongens en meisjes vanaf 7 jaar dat kan worden gecombineerd met 2 andere mecha (apart verkrijgbaar) dankzij de afneembare benen, armen en borst
-- Ninja cadeau voor kinderen – dit speelgoed biedt een leuke bouw- en speelervaring en is een cadeautip voor elke dag voor kinderen die graag verhalen boordevol actie naspelen
-- Bouw je eigen mechapak – kinderen kunnen genieten van urenlang creatief speelplezier terwijl ze onderdelen van dit ninjaspeelgoed (sets apart verkrijgbaar) combineren om hun eigen LEGO NINJAGO mech te creëren
-- 4 NINJAGO minifiguren – de set bevat NINJAGO Kai, Zane en Jordana, ieder met een zwaard, en een Wolvenmasker strijder, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
 - Een universum vol ninjaspeelgoed – LEGO NINJAGO sets bevatten draken, voertuigen en tempels, waarmee kinderen samen met hun ninjahelden kunnen ontsnappen naar een fantasiewereld vol avontuur
+- Meer aanpasbare mecha – kinderen kunnen onderdelen van Kais mecha omwisselen en combineren met Coles elementaire aardemecha (71806) en Soras elementaire techmecha (71807) (apart verkrijgbaar)
+- 4 NINJAGO minifiguren – de set bevat NINJAGO Kai, Zane en Jordana, ieder met een zwaard, en een Wolvenmasker strijder, zodat kinderen confrontaties uit seizoen 2 van de NINJAGO Dragons Rising tv-serie kunnen naspelen
+- Bouw je eigen mechapak – kinderen kunnen genieten van urenlang creatief speelplezier terwijl ze onderdelen van dit ninjaspeelgoed (sets apart verkrijgbaar) combineren om hun eigen LEGO NINJAGO mech te creëren
 - Verstelbare figuur – Kais mecha heeft verstelbare armen en benen die naar alle kanten kunnen worden gedraaid en een groot gouden zwaard voor rollenspel confrontaties met een Wolvenmecha
+- Ninja cadeau voor kinderen – dit speelgoed biedt een leuke bouw- en speelervaring en is een cadeautip voor elke dag voor kinderen die graag verhalen boordevol actie naspelen
+- Aanpasbare actiefiguur voor kinderen – Kais elementaire vuurmecha is ninja speelgoed voor jongens en meisjes vanaf 7 jaar dat kan worden gecombineerd met 2 andere mecha (apart verkrijgbaar) dankzij de afneembare benen, armen en borst
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPLZ5{{</world>}}

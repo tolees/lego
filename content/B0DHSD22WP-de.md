@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Sets für Erwachsene: Dieses LEGO Architecture Modell gehört zu einer ganzen Reihe von faszinierenden und entspannenden Bausets für Erwachsene wie dich, die kreative Aktivitäten lieben
-- Modell des Trevi-Brunnens: Genieße jeden Schritt beim Bauen und Nachbilden des legendären Barockmonuments mit diesem Bauset für Erwachsene; Der Trevi-Brunnen ist ein nostalgisches Geschenk für Erwachsene
 - Architektur Geschenk für Erwachsene: Dieses Set ist nicht nur ein faszinierendes Sammlerstück und Deko, sondern auch ein tolles Geschenk für kreative Erwachsene, die sich für Geschichte, Architektur, das Reisen oder Italien begeistern
+- Modell des Trevi-Brunnens: Genieße jeden Schritt beim Bauen und Nachbilden des legendären Barockmonuments mit diesem Bauset für Erwachsene; Der Trevi-Brunnen ist ein nostalgisches Geschenk für Erwachsene
 - Schritt-für-Schritt-Anleitung: Eine Bauanleitung zu diesem Set findest du in der beiliegenden Broschüre, die auch die Geschichte des Trevi-Brunnens enthält; Oder du folgst der in der LEGO Builder App verfügbaren digitalen Version
-- Andenken an Italien: Stell die baubaren Straßenlaternen und Poller vor den Brunnen und steck die Namenstafel vor dem Brunnen auf die Bauplatte; Fertig ist ein spektakulärer Hingucker für dein Büro oder Wohnzimmer
 - Detailgetreues Modell: Bestaune die Fassade, die den Hintergrund des Modells bildet, die Details an den Statuen, die winzigen hippocampi und den kleinen Brunnen der „Liebenden“ sowie weitere Elemente, die das Bauset vervollständigen
+- Andenken an Italien: Stell die baubaren Straßenlaternen und Poller vor den Brunnen und steck die Namenstafel vor dem Brunnen auf die Bauplatte; Fertig ist ein spektakulärer Hingucker für dein Büro oder Wohnzimmer
+- LEGO Sets für Erwachsene: Dieses LEGO Architecture Modell gehört zu einer ganzen Reihe von faszinierenden und entspannenden Bausets für Erwachsene wie dich, die kreative Aktivitäten lieben
 - Souvenir für Geschichtsbegeisterte und Reisefans: Dieses Bauprojekt lässt dich den legendärsten Brunnen Roms in seiner ganzen Pracht nachbilden; Freu dich auf faszinierende Bautechniken, die du bisher noch nicht kanntest
 
 [🛒 Buy it!!]({{< param buyurl >}})

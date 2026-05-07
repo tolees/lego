@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; in der App kann man beim Bauen beispielsweise 3D-Ansichten der Baumodelle vergrößern und drehen
-- Fantastisches Star Wars Spielzeug zum Ausstellen: Ein Hingucker für Fans mit Faible für LEGO und galaktische Abenteuer; DIY Deko für den Schreibtisch oder Kinderzimmer
-- Baue coole Lichtschwert Duelle nach: Mit blauem und rotem Lichtschwert sorgt das LEGO Spielset für kreatives Spielen und Förderung von logischem Denken
-- LEGO Star Wars Set aus The Clone Wars: Fliege spannende Einsätze mit dem V-19 Sternjäger und entdecke dein neues Lieblingsmodell zum Bauen und Spielen
-- Entdecke das ganze Sortiment: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
 - LEGO Star Wars Geschenk für Jungen und Mädchen ab 9 Jahren: Der Sternjäger aus diesem hochwertigen Baukasten ist ein schönes Geschenk für Fans von Star Wars: The Clone Wars
+- Fantastisches Star Wars Spielzeug zum Ausstellen: Ein Hingucker für Fans mit Faible für LEGO und galaktische Abenteuer; DIY Deko für den Schreibtisch oder Kinderzimmer
+- LEGO Star Wars Set aus The Clone Wars: Fliege spannende Einsätze mit dem V-19 Sternjäger und entdecke dein neues Lieblingsmodell zum Bauen und Spielen
+- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; in der App kann man beim Bauen beispielsweise 3D-Ansichten der Baumodelle vergrößern und drehen
+- Entdecke das ganze Sortiment: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
 - Star Wars Raumschiff mit beweglichen Flügeln: Bring dein LEGO Raumschiff in den Flugmodus und feuere die Shooter ab; für fantasievolle Rollenspiele mit jede Menge Action
+- Baue coole Lichtschwert Duelle nach: Mit blauem und rotem Lichtschwert sorgt das LEGO Spielset für kreatives Spielen und Förderung von logischem Denken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF4GPYK{{</world>}}

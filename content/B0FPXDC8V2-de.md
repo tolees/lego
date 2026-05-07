@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - NOCH MEHR RASANTER F1 ACTIONSPASS: Schau dir noch weitere (separat erhältliche) LEGO Formel-1-Sets zum Bauen und Ausstellen an, die die ganze Familie spannende Rennen austragen lassen
-- 3D-BAUANLEITUNG: Die LEGO Builder App lässt dich das Optimum aus diesem F1 Bauset und dem Formel 1 Auto herausholen; in der App kannst du dir 3D Modelle ansehen und andere Sets entdecken
-- DETAILS UND FUNKTIONEN: Das Modellauto hat eine funktionierende Lenkung, ein detailgetreues Cockpit und einen V10-Motor; auf den Rennreifen mit Profil ist der Schriftzug Bridgestone Potenza drauf
-- GESCHENKIDEE FÜR FORMEL 1 FANS: Dieses LEGO F1 Modellauto zum Bauen und Sammeln ist ein beliebtes Geburtstagsgeschenk für Männer und Frauen
-- F1 FANARTIKEL MIT VIELEN DETAILS: Auf den Ständer für das LEGO Rennauto sind die Fahrzeugstatistiken aufgedruckt, und das Siegerpodest ist mit einem Bild und einem Zitat von Michael Schumacher bedruckt
 - F1-MODELLAUTO FÜR ERWACHSENE: LEGO Icons Ferrari F2004 und Michael Schumacher ist ein Formel 1 Set, das Erwachsene und Sammelbegeisterte eine Legende der Rennstrecke feiern lässt
+- DETAILS UND FUNKTIONEN: Das Modellauto hat eine funktionierende Lenkung, ein detailgetreues Cockpit und einen V10-Motor; auf den Rennreifen mit Profil ist der Schriftzug Bridgestone Potenza drauf
+- F1 FANARTIKEL MIT VIELEN DETAILS: Auf den Ständer für das LEGO Rennauto sind die Fahrzeugstatistiken aufgedruckt, und das Siegerpodest ist mit einem Bild und einem Zitat von Michael Schumacher bedruckt
+- 3D-BAUANLEITUNG: Die LEGO Builder App lässt dich das Optimum aus diesem F1 Bauset und dem Formel 1 Auto herausholen; in der App kannst du dir 3D Modelle ansehen und andere Sets entdecken
 - FERRARI ZUM BAUEN: Alles, was du brauchst, um eine detailgetreue Nachbildung des Ferrari F2004 F1 Rennautos sowie die Michael Schumacher LEGO Minifigur, Ständer, Siegerpodest, Rennfahrerhelm und Siegerpokal zu bauen
+- GESCHENKIDEE FÜR FORMEL 1 FANS: Dieses LEGO F1 Modellauto zum Bauen und Sammeln ist ein beliebtes Geburtstagsgeschenk für Männer und Frauen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXDC8V2{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Iconic Disney Princess characters – The building toy features Elsa and Anna LEGO ǀ Disney mini doll figures and an Olaf LEGO ǀ Disney snowman figure
-- Disney Princess birthday gift – This building toy with 3 characters and a castle with accessories makes a fun gift for 5+ year old girls, boys and film fans who love hands-on, creative play
-- Buildable castle toy – This LEGO | Disney Arendelle Frozen Castle building toy for 5+ year old girls and boys is great for imaginative role play
 - LEGO ǀ Disney play – Check out other sets in the extensive assortment of LEGO ǀ Disney building toys (sold separately) in the range
+- Iconic Disney Princess characters – The building toy features Elsa and Anna LEGO ǀ Disney mini doll figures and an Olaf LEGO ǀ Disney snowman figure
 - Frozen castle model – Features doors that open into a dining room, a bedroom with 2 movable beds, 3 Disney Frozen characters, 2 sledges and more
+- Disney Princess birthday gift – This building toy with 3 characters and a castle with accessories makes a fun gift for 5+ year old girls, boys and film fans who love hands-on, creative play
 - Creative building set – Kids assemble the buildable castle toy, then join the Disney figures to role-play their favourite scenes or create their own stories
+- Buildable castle toy – This LEGO | Disney Arendelle Frozen Castle building toy for 5+ year old girls and boys is great for imaginative role play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBJQWD{{</world>}}

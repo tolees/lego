@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Build together with friends and family – Use the LEGO Builder app for a shared building experience, bringing the Minecraft Pickaxe mine set to life in a fun way
 - Expand the fun – Explore the full range of LEGO Minecraft building toys (sold separately) for more hands-on building and gaming adventures
 - LEGO Minecraft gift for kids – This LEGO building toy is a creative gamer gift for 8+ year old boys and girls who are fans of the popular video game
 - Hands-on mining and battle adventures – Kids can mine ore, load it into a minecart, send it along the track to a storage chest, and defend against hostile Minecraft mobs
 - Minecraft building toy for kids – The LEGO Minecraft Pickaxe Mine toy for 8+ year old boys and girls offers hands-on fun for kids who love gaming and interactive toys
 - Interactive toys – Kids can load the minecart with TNT and use a special feature to blast through the rock wall, just like in the Minecraft video game
 - Collectible LEGO Minecraft figures – The building set includes Minecraft Alex, Miner and stray spider jockey figures, plus a ridable spider toy and a polar bear figure
+- Build together with friends and family – Use the LEGO Builder app for a shared building experience, bringing the Minecraft Pickaxe mine set to life in a fun way
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDH1M2S{{</world>}}

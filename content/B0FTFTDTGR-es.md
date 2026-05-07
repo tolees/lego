@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DECORACIÓN PARA LA PARED: Los adolescentes y los fans pueden mostrar su amor por el deporte colgando esta pieza mural en la habitación o dormitorio junto a otros objetos de colección y recuerdos deportivos
-- UN TÍPICO DÍA DE PARTIDO: El cuadro de Messi incluye camiseta de franjas con el 10 en primer plano y montones de referencias a su vida y trayectoria, una auténtica delicia para los superfans
-- SALTA AL TERRENO DIGITAL: Las jóvenes promesas del deporte pueden acceder a instrucciones digitales en la app LEGO Builder, que les permiten consultar su progreso y girar sus modelos
 - REGALO DE FÚTBOL PARA NIÑOS: El set es un divertido regalo de cumpleaños para chicos, chicas y fans de Lionel Messi a partir de 14 años, idóneo para celebrar su pasión por el fútbol
+- SALTA AL TERRENO DIGITAL: Las jóvenes promesas del deporte pueden acceder a instrucciones digitales en la app LEGO Builder, que les permiten consultar su progreso y girar sus modelos
 - SU EMBLEMÁTICA POSE: Sumérgete en un proyecto que te hará disfrutar dando forma a Lionel Messi en su clásica pose de victoria, señalando hacia arriba, ante un fondo de campo de fútbol y cielo
+- UN TÍPICO DÍA DE PARTIDO: El cuadro de Messi incluye camiseta de franjas con el 10 en primer plano y montones de referencias a su vida y trayectoria, una auténtica delicia para los superfans
+- DECORACIÓN PARA LA PARED: Los adolescentes y los fans pueden mostrar su amor por el deporte colgando esta pieza mural en la habitación o dormitorio junto a otros objetos de colección y recuerdos deportivos
 - KIT DE CONSTRUCCIÓN DEDICADO A MESSI: Anima a una leyenda del fútbol con el set coleccionable LEGO Editions Lionel Messi: Celebración, una maqueta 3D para chicos y chicas a partir de 14 años
 
 [🛒 Check the deal!!]({{< param buyurl >}})

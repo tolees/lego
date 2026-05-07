@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- NINJAGO Mech: Der Feuerritter-Mech ist eine tolle Ergänzung zu den LEGO NINJAGO Modellen, die ältere NINJAGO Fans und Teenager bereits gesammelt haben
-- 2 NINJAGO Minifiguren: Der Ninja Kai mit einer Klinge, den man auch in die Brust des Mechs setzen kann, sowie ein Fischer mit Paddel in einem Boot inspirieren zu weiteren Geschichten
-- Ninja-Spielzeuge in Hülle und Fülle: LEGO NINJAGO Sets lassen Kinder mit ihren Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen
 - Ninja-Set zum Ausstellen: Das Modell stellt die Szene dar, in der sich Der Feuerritter-Mech (mit Umhang und Speer) ein Duell mit einem alten Monster liefert, das aus dem Meer auftaucht; Ein toller Hingucker für dein Zimmer
-- Interaktives Modell: Ninja-Fans können das Modell vom Sockel nehmen, um mit dem beweglichen Mech und dem Monster, das seine Tentakeln bewegen kann, Abenteuer aus der Serie NINJAGO Legends Monstrosity nachzustellen
 - Fantastisches Geschenk für NINJAGO Fans: Dieses Modell ist ein tolles Geschenk für Fans der Serie NINJAGO Legends Monstrosity, die allen zeigen möchten, wie sehr sie sich für die Ninja begeistern
 - Inklusive Poster: Dieses LEGO Bauset wird mit exklusiven Postern geliefert, die NINJAGO Fans lieben werden und dem Bauspaß eine zusätzliche Dimension verleihen
+- 2 NINJAGO Minifiguren: Der Ninja Kai mit einer Klinge, den man auch in die Brust des Mechs setzen kann, sowie ein Fischer mit Paddel in einem Boot inspirieren zu weiteren Geschichten
+- NINJAGO Mech: Der Feuerritter-Mech ist eine tolle Ergänzung zu den LEGO NINJAGO Modellen, die ältere NINJAGO Fans und Teenager bereits gesammelt haben
+- Interaktives Modell: Ninja-Fans können das Modell vom Sockel nehmen, um mit dem beweglichen Mech und dem Monster, das seine Tentakeln bewegen kann, Abenteuer aus der Serie NINJAGO Legends Monstrosity nachzustellen
+- Ninja-Spielzeuge in Hülle und Fülle: LEGO NINJAGO Sets lassen Kinder mit ihren Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQTCRV{{</world>}}

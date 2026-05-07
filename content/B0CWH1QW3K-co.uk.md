@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 6 LEGO Super Mario toy figures including a Hammer Bro and 2 Goombas
-- A spinning platform, spring-loaded shooter, Super Star Block, ? Block and more
 - The Bowser Express Train toy for kids, with 2 train stations and a handcar
+- A spinning platform, spring-loaded shooter, Super Star Block, ? Block and more
+- 6 LEGO Super Mario toy figures including a Hammer Bro and 2 Goombas
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1QW3K{{</world>}}

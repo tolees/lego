@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - CADEAU LEGO SPIDER-MAN – Offrez à un.e jeune super-héros/héroïne deux fois plus d’amusement pour son anniversaire avec ce set LEGO ǀ Marvel
-- TOUT UN UNIVERS DE SETS LEGO ǀ MARVEL – Invitez les jeunes constructeurs.trices à vivre des aventures pleines d’imagination mettant en scène les personnages culte et les scènes débordantes d’action des films Marvel
 - 3 MINIFIGURINES LEGO ǀ MARVEL – Affrontez l’horrible Docteur Octopus aux côtés de Spider-Man et Ghost-Spider dans un combat épique entre robots
 - ACCESSOIRES – Le jeu de construction comprend 2 fusils à tenons mobiles pour le robot au style Iron Spider, 4 tentacules articulés pour le robot de Docteur Octopus et 2 toiles pour Ghost-Spider qui sattachent au torse du robot de Docteur Octopus
+- JEU DE CONSTRUCTION : COMBAT DE ROBOTS – Deux armures robot entièrement articulées et 3 minifigurines LEGO ǀ Marvel garantissent un affrontement XXL entre super-héros dans ce set pour garçons et filles dès 6 ans
 - AUTRES ROBOTS DE SUPER-HÉROS – Les enfants peuvent collectionner et combiner une vaste gamme de sets de construction de robots LEGO (vendus séparément) pour enrichir leurs aventures de super-héros
 - JEU DE RÔLE AVEC SUPER HÉROS – Les robots de Spider-Man et Docteur Octopus sont entièrement articulés pour maximiser les possibilités de jeu ; ils comprennent des cockpits qui accueillent les minifigurines des pilotes
-- JEU DE CONSTRUCTION : COMBAT DE ROBOTS – Deux armures robot entièrement articulées et 3 minifigurines LEGO ǀ Marvel garantissent un affrontement XXL entre super-héros dans ce set pour garçons et filles dès 6 ans
+- TOUT UN UNIVERS DE SETS LEGO ǀ MARVEL – Invitez les jeunes constructeurs.trices à vivre des aventures pleines d’imagination mettant en scène les personnages culte et les scènes débordantes d’action des films Marvel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFPLRZ{{</world>}}

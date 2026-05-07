@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Astrologie-Geschenk für Kinder: Dieses Spielzeug ab 7 Jahre für Mädchen und Jungen ist ein faszinierendes Geschenk für Weltraum-Fans zu besonderen Anlässen; überrasche einen jungen Astrologen mit diesem Oster- oder Geburtstagsgeschenk für Kinder
-- Faszinierendes Sterngucker-Campingfahrzeug: Dieser Bausatz für Kinder ab 7 Jahren beinhaltet ein baubares Wohnwagen-Spielzeug mit Dachzelt, 2 LEGO Friends Figuren, einen Hund, einen Igel und jede Menge Zubehör
 - 2 Minipuppen und 2 Tiere: Das LEGO Friends Camping Set beinhaltet die LEGO Friends Minipuppen Nova und Aliya sowie einen Hund und einen Igel, die dein Kind sofort kreativ spielen lassen
 - Zaubere Sternbilder auf den Hintergrund: Kinder, die sich für Wissenschaft und Astrologie-Spielzeug begeistern, werden es lieben, den Hintergrund mit Planeten und Sternen zu schmücken, welche die Figuren am Nachthimmel entdecken können
+- Faszinierendes Sterngucker-Campingfahrzeug: Dieser Bausatz für Kinder ab 7 Jahren beinhaltet ein baubares Wohnwagen-Spielzeug mit Dachzelt, 2 LEGO Friends Figuren, einen Hund, einen Igel und jede Menge Zubehör
 - Kreative Kinderpielzeuge: Schau dir auch die anderen separat erhältlichen LEGO Friends Sets an, die Kinder diverse Charaktere entdecken und viele Freundschaftsgeschichten und Alltagsabenteuer darstellen lassen
 - Campingzubehör für Rollenspiele und Abenteuer: Das Abenteuer-Spielzeug beinhaltet ein Teleskop-Spielzeug, Becher, Kekse, ein Fernglas und eine Taschenlampe; mit den Sternen und Grafiken verschiedener Planeten lassen sich viele Sternbilder darstellen
+- Astrologie-Geschenk für Kinder: Dieses Spielzeug ab 7 Jahre für Mädchen und Jungen ist ein faszinierendes Geschenk für Weltraum-Fans zu besonderen Anlässen; überrasche einen jungen Astrologen mit diesem Oster- oder Geburtstagsgeschenk für Kinder
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFW2CPTP{{</world>}}

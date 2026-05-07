@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO minifigure – Race car toy playset includes a Ferrari driver minifigure, with a helmet, wig and wrench, that kids can place behind the wheel
 - Play-and-display iconic vehicle toys – LEGO Speed Champions building sets let kids and car fans build replica versions of some of the world’s most famous vehicles
-- LEGO Ferrari authentic details – F40’s iconic rear spoiler, nose, exhaust pipes, alloy wheels and air-intake features, plus gear lever and red seats
 - Bigger racing adventures – Look out for more LEGO Speed Champions car playsets and buildable toys for 9+ year old boys and girls (sold separately)
+- LEGO Ferrari authentic details – F40’s iconic rear spoiler, nose, exhaust pipes, alloy wheels and air-intake features, plus gear lever and red seats
+- Ferrari gifts for kids – A fun build-and-play experience and a cool LEGO gift idea for 9+ year old boys and girls or adult car-model collectors
 - Ferrari display model – When action-packed playtime with Ferrari F40 model car is over, this LEGO vehicle will be a fun kids bedroom decoration
 - Ferrari toy car for kids – LEGO Speed Champions Ferrari F40 Supercar buildable vehicle for boys and girls aged 9+, car-lovers and Ferrari fans
-- Ferrari gifts for kids – A fun build-and-play experience and a cool LEGO gift idea for 9+ year old boys and girls or adult car-model collectors
+- LEGO minifigure – Race car toy playset includes a Ferrari driver minifigure, with a helmet, wig and wrench, that kids can place behind the wheel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH1Q8B4{{</world>}}

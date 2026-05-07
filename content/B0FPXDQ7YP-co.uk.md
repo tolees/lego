@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- GAMER GIFT FOR FANS – This LEGO Minecraft building toy set makes a great gaming gift for 7+ year old boys, girls and fans of the popular sandbox game
 - FEATURES AND FUNCTIONS – With this Minecraft toy, kids can retrieve the resin clumps by either removing the bark or by pushing the pin on the back of the LEGO tree to eject it
 - LEGO MINECRAFT MINIFIGURE AND MOBS – A brick-built Minecraft Creaking figure takes on the heroic, winged Mothman while a Creeper and skeleton figure prowl around the pale garden biome
 - LEGO MINECRAFT BIOME – Take gamers into the weird and wonderful world of LEGO Minecraft The Pale Garden with this building toy for 7+ year old boys, girls and gaming fans
-- MINECRAFT MADE REAL – Kids with a passion for Minecraft can create and customise scenes from the game; rearranging, rebuilding and reimagining as new adventures take shape
+- GAMER GIFT FOR FANS – This LEGO Minecraft building toy set makes a great gaming gift for 7+ year old boys, girls and fans of the popular sandbox game
 - WHATS IN THE BOX? – Includes a pale oak tree, resin clumps and the all-important Creaking Heart, plus accessories including an enchanted axe, bow, storage chest, campfire, elytra wings and diamond armour
+- MINECRAFT MADE REAL – Kids with a passion for Minecraft can create and customise scenes from the game; rearranging, rebuilding and reimagining as new adventures take shape
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXDQ7YP{{</world>}}

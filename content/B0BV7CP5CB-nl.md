@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Voor een nog ontspannendere bouwervaring kun je de bijgeleverde LEGO Builder app gebruiken met een stap-voor-stap handleiding en veel creatieve ideeën
-- De LEGO Architecture set bevat alles wat je nodig hebt om een sierlijke Zen-tuin te bouwen en is eenvoudig te herschikken - Na het bouwen heb je fraaie decoratie voor thuis of op kantoor
 - Word helemaal zen met het LEGO Architecture Himeji Kasteel bouwpakket voor volwassenen, ideaal als je van creatief tuinieren houdt en je je eigen Japanse oase van rust wilt creëren
 - Deze LEGO Architecture set is onderdeel van een collectie modelbouwsets voor volwassen fans van Japanse architectuur, ze zijn het ideale cadeau voor hem of haar
+- Voor een nog ontspannendere bouwervaring kun je de bijgeleverde LEGO Builder app gebruiken met een stap-voor-stap handleiding en veel creatieve ideeën
+- De LEGO Architecture set bevat alles wat je nodig hebt om een sierlijke Zen-tuin te bouwen en is eenvoudig te herschikken - Na het bouwen heb je fraaie decoratie voor thuis of op kantoor
 - Liefhebbers van de Japanse cultuur kunnen een boogbrug, een beekje, koikarpers, lotus LEGO bloemen, kersenbomen, rotsen, lantaarns en een paviljoen bouwen met deze LEGO set voor volwassenen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

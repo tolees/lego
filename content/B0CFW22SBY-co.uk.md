@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Car-building toys – Kids can build and customise their own vehicles with LEGO Classic Creative Vehicles toy for boys and girls aged 5 and over
-- LEGO vehicles – Kids use LEGO bricks to create a police car toy, ice-cream van, ATV, front loader, truck toy, estate car, off-roader and a limo
 - Bricks that build skills – LEGO Classic car model kits put open-ended play and creative self-expression into the hands of young builders
 - Inspire young builders – Special pieces, including 52 LEGO wheels, and simple step-by-step instructions encourage kids to customise vehicles
+- LEGO vehicles – Kids use LEGO bricks to create a police car toy, ice-cream van, ATV, front loader, truck toy, estate car, off-roader and a limo
 - Endless creativity – Includes 10 ideas to kick-start free-building fun, so kids can take their creative toy construction to the next level
 
 [🛒 Buy it!!]({{< param buyurl >}})

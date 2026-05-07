@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SPIELZEUG PIRATENSCHIFF: Kinder können das Modell in ein Piratenschiff mit Bugkanone, seitlichen Shootern, aufklappbarem Maul, Stauraum für Schätze im Heck und mit Anker verwandeln
-- VERWANDELBARES HAI SPIELZEUG: Entfache die Vorstellungskraft mit dem LEGO DREAMZzz 2-in-1 Tigerhai Fahrzeug Spielset für Mädchen und Jungen ab 9 Jahren, das 2 lustige Baumöglichkeiten bietet
 - 5 LEGO MINIFIGUREN: Die Minifiguren Mateo, Izzie, Mr. Oz, der Albtraumkaiser und Arika laden ebenso zu Rollenspielen ein wie Z-Blob, ein Albgnom, 3 Spinnen, 2 Träumlinge und 2 Schatzkreaturen
-- HAI FAHRZEUG ZUM SPIELEN: Kinder können ein rollendes Tigerhai Fahrzeug mit aufklappbarem Maul, beweglichem Schwanz, Stauraum, zwei Seitenkapseln mit Shootern und Platz für eine Minifigur am Steuer bauen
+- VERWANDELBARES HAI SPIELZEUG: Entfache die Vorstellungskraft mit dem LEGO DREAMZzz 2-in-1 Tigerhai Fahrzeug Spielset für Mädchen und Jungen ab 9 Jahren, das 2 lustige Baumöglichkeiten bietet
 - KINDER GESCHENK: All die tollen Details machen dieses Bauspielzeug zu einem coolen Geburtstags- oder Überraschungsgeschenk für Kinder ab 9 Jahren und für alle LEGO DREAMZzz Fans
-- INTUITIVES BAUERLEBNIS: Mit der LEGO Builder App sind digitale Funktionen verfügbar und lassen Kinder 3D Modelle vergrößern und drehen und zeigen, wie weit sie schon sind
+- SPIELZEUG PIRATENSCHIFF: Kinder können das Modell in ein Piratenschiff mit Bugkanone, seitlichen Shootern, aufklappbarem Maul, Stauraum für Schätze im Heck und mit Anker verwandeln
 - ENTDECKE NOCH MEHR KREATIVES SPIELZEUG: Weitere separat erhältliche LEGO DREAMZzz Sets mit unterschiedlichsten Tieren, Mechs und Fahrzeugen lassen Kinder noch mehr fantasievolle Abenteuer erleben
+- INTUITIVES BAUERLEBNIS: Mit der LEGO Builder App sind digitale Funktionen verfügbar und lassen Kinder 3D Modelle vergrößern und drehen und zeigen, wie weit sie schon sind
+- HAI FAHRZEUG ZUM SPIELEN: Kinder können ein rollendes Tigerhai Fahrzeug mit aufklappbarem Maul, beweglichem Schwanz, Stauraum, zwei Seitenkapseln mit Shootern und Platz für eine Minifigur am Steuer bauen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXG554X{{</world>}}

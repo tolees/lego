@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LEGO NINJAGO set packed with details – The Guardian Dragon’s display stand includes a pond, a floating magical sword, lantern elements and a gate, adding depth to ninja storytelling
-- 1 NINJAGO minifigure – This LEGO building toy includes a Master Wu minifigure with a staff accessory, adding to the adventure and display possibilities
-- Posable dragon figure – Ninja fans can adjust the dragon toy’s head, arms and scales into different positions, making it a dynamic display piece for a shelf or bedside table
 - NINJAGO gift for 14+ year old boys and girls – This building set is a great birthday gift for teenagers and fans of the NINJAGO Monstrosity series who want to showcase their fandom
+- LEGO NINJAGO set packed with details – The Guardian Dragon’s display stand includes a pond, a floating magical sword, lantern elements and a gate, adding depth to ninja storytelling
+- NINJAGO dragon model – Older NINJAGO fans can expand their collection with The Guardian Dragon figure, a detailed LEGO dragon building set designed for epic displays
+- Posable dragon figure – Ninja fans can adjust the dragon toy’s head, arms and scales into different positions, making it a dynamic display piece for a shelf or bedside table
+- 1 NINJAGO minifigure – This LEGO building toy includes a Master Wu minifigure with a staff accessory, adding to the adventure and display possibilities
 - Posters included – This LEGO NINJAGO set comes with exclusive posters that NINJAGO fans will love, adding an extra layer of fun and collectability to the building toy
 - A universe of ninja toys – LEGO NINJAGO building sets transport kids into an action-packed fantasy world where they can join their ninja heroes on epic adventures
-- NINJAGO dragon model – Older NINJAGO fans can expand their collection with The Guardian Dragon figure, a detailed LEGO dragon building set designed for epic displays
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDS6X8Y{{</world>}}

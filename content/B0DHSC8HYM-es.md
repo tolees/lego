@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Modelo alliance rebelde
 - Nave espacial construcción lego
 - Diseño detallado coleccionable
+- Modelo alliance rebelde
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSC8HYM{{</world>}}

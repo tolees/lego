@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gift idea for Star Wars fans – This collectible building toy featuring iconic characters makes a fun Star Wars-themed birthday gift for 10+ year old boys and girls
 - LEGO Star Wars sets for all ages – LEGO Star Wars building toys enable kids and adult fans to recreate classic scenes, make up new adventure stories or simply display the brick-built models
 - A helping hand – Using the LEGO Builder app, kids can zoom and rotate a digital version of this set as they build, track progress, save sets and more
-- LEGO Star Wars minifigures – Darth Vader, Commander Praji, Imperial Gunner, Imperial Navy Trooper, Stormtrooper and a 25th anniversary Cal Kestis
+- Gift idea for Star Wars fans – This collectible building toy featuring iconic characters makes a fun Star Wars-themed birthday gift for 10+ year old boys and girls
 - Fun functions – Features a foldout carry handle for flight, 2 spring-loaded shooters and a lift-off top panel and foldout side panels for inside access
-- Creative set – Interior features include the bridge, command room, break room, armoury, control panels, cargo box with Kyber Crystal and thermal detonators
 - Star Wars building toy for 10+ year old boys and girls – Construct a detailed and playful version of the Imperial Star Destroyer and recreate iconic Star Wars: A New Hope scenes
+- LEGO Star Wars minifigures – Darth Vader, Commander Praji, Imperial Gunner, Imperial Navy Trooper, Stormtrooper and a 25th anniversary Cal Kestis
+- Creative set – Interior features include the bridge, command room, break room, armoury, control panels, cargo box with Kyber Crystal and thermal detonators
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RPVS{{</world>}}

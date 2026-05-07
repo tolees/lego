@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Interactive digital building – Using the LEGO Builder app, kids can zoom in, rotate and visualise a digital version of this model as they build
-- The first-ever LEGO model of Captain Rex’s Y-wing – This miniature scale LEGO Star Wars starfighter has a minifigure cockpit and 2 stud shooters
-- Creative building toys for all ages – Collectible LEGO Star Wars sets enable kids and adult Star Wars fans to create their own adventures or simply display the buildable models
-- LEGO Star Wars collectible – This buildable creative toy playset is a fun match-up for other LEGO Star Wars Microfighters (sold separately)
+- LEGO Star Wars vehicle toy – Inspire kids to create Star Wars: The Clone Wars adventures with this brick-built Captain Rex’s Y-Wing Microfighter
 - LEGO Star Wars gift for kids – This LEGO brick-built starship toy makes a fun birthday gift for 6-plus-year-old boys, girls and any Star Wars fan
 - Captain Rex LEGO Star Wars minifigure –This buildable playset includes the Star Wars character Captain Rex with 2 blaster pistols for action play
-- LEGO Star Wars vehicle toy – Inspire kids to create Star Wars: The Clone Wars adventures with this brick-built Captain Rex’s Y-Wing Microfighter
+- The first-ever LEGO model of Captain Rex’s Y-wing – This miniature scale LEGO Star Wars starfighter has a minifigure cockpit and 2 stud shooters
+- Interactive digital building – Using the LEGO Builder app, kids can zoom in, rotate and visualise a digital version of this model as they build
+- Creative building toys for all ages – Collectible LEGO Star Wars sets enable kids and adult Star Wars fans to create their own adventures or simply display the buildable models
+- LEGO Star Wars collectible – This buildable creative toy playset is a fun match-up for other LEGO Star Wars Microfighters (sold separately)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RPXN{{</world>}}

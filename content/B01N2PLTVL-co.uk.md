@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BIRTHDAY GIFT FOR TODDLERS – This hands-on, engaging toy bursting with play value makes a fun small gift for 18 month old boys and girls
-- EDUCATIONAL TOYS – Toddlers learn to keep trying as they line up LEGO DUPLO bricks to attach to the studs on the green baseplate
-- MADE FOR LITTLE FINGERS – The building base holds LEGO DUPLO bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
-- LEGO DUPLO DISPLAY BASE – The Green Building Plate toy for 1.5+ year old boys and girls, gives little ones a sturdy base for creative play
 - CREATIVE BUILDING – This 16x16-stud square grid has hundreds of aligned studs to give little builders the right grip for their construction toys
+- LEGO DUPLO DISPLAY BASE – The Green Building Plate toy for 1.5+ year old boys and girls, gives little ones a sturdy base for creative play
+- MADE FOR LITTLE FINGERS – The building base holds LEGO DUPLO bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
 - PLAYFUL LEARNING – All LEGO DUPLO building toys for kids are expertly designed to promote social and emotional development to give your little learner a great start in life
+- EDUCATIONAL TOYS – Toddlers learn to keep trying as they line up LEGO DUPLO bricks to attach to the studs on the green baseplate
+- BIRTHDAY GIFT FOR TODDLERS – This hands-on, engaging toy bursting with play value makes a fun small gift for 18 month old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01N2PLTVL{{</world>}}

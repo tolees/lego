@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Build your own NINJAGO mech – Kids can mix and match body parts and weapons from this set with customisable mechs in the 2024 NINJAGO range (sold separately) to create their own mech figure
-- Bigger ninja adventures – Discover more LEGO NINJAGO building toys (sets sold separately), featuring dragons, temples and vehicles for even more action-packed play
-- Posable mech toy – Arins Spinjitzu Battle Mech features posable arms and legs, a rotating torso, an opening chest to fit a minifigure and two large sword accessories
-- A universe of LEGO NINJAGO sets – Buildable ninja toys let kids dive into a fantasy world of action-packed adventures alongside their ninja heroes
+- 2 NINJAGO minifigures – Includes Arin with a crystal katana accessory and a villainous Spectral Dragonian Warrior for epic good vs. evil battles, plus a Baby Riyu model for added fun
 - Fun NINJAGO gift for kids – This LEGO NINJAGO set offers a fun build-and-play experience and makes a great small gift for 7+ year old boys and girls who love ninja toys
 - LEGO NINJAGO battle set – Arins Spinjitzu Battle Mech is a fun building toy for 7+ year old boys and girls, great for recreating action scenes from season 3 of the NINJAGO Dragons Rising TV show
-- 2 NINJAGO minifigures – Includes Arin with a crystal katana accessory and a villainous Spectral Dragonian Warrior for epic good vs. evil battles, plus a Baby Riyu model for added fun
+- A universe of LEGO NINJAGO sets – Buildable ninja toys let kids dive into a fantasy world of action-packed adventures alongside their ninja heroes
+- Build your own NINJAGO mech – Kids can mix and match body parts and weapons from this set with customisable mechs in the 2024 NINJAGO range (sold separately) to create their own mech figure
+- Posable mech toy – Arins Spinjitzu Battle Mech features posable arms and legs, a rotating torso, an opening chest to fit a minifigure and two large sword accessories
+- Bigger ninja adventures – Discover more LEGO NINJAGO building toys (sets sold separately), featuring dragons, temples and vehicles for even more action-packed play
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRZ3GC{{</world>}}
