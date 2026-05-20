@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO Ninjago Le Combat du Robot Dragon de Jay - Jouet Ninja avec 2 Figurines d action 2 Minifigurines Katana & Sabre - Cadeau d anniversaire pour Garçon dès 4 Ans ou Fans 71853'
+date: 2026-05-18 08:59:37
+image: 'https://m.media-amazon.com/images/I/510INzUc48L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXDPNP7-fr LEGO Ninjago Le Combat du Robot Dragon de Jay - Jouet...'
+sku: 'B0FPXDPNP7-fr'
+tags: [ 'lego','🇫🇷', ]
+actualPrice: 13.3 EUR
+currency: EUR
+price: 13.3
+comparePrice: 19.99 EUR
+prodname: 'LEGO Ninjago Le Combat du Robot Dragon de Jay - Jouet Ninja avec 2 Figurines d action 2 Minifigurines Katana & Sabre - Cadeau d anniversaire pour Garçon dès 4 Ans ou Fans 71853'
+country: 'fr'
+flag: '🇫🇷'
+brand: ''
+buyurl: 'https://www.amazon.fr/dp/B0FPXDPNP7/?tag=tolees0d-21'
+descuento: '33.47'
+average: '13.047619047619'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- ACCESSOIRES – Ce set daction inclut 4 armes interchangeables renforçant sa dimension ludique : 2 sabres, une lance et un jeu de griffes
+- JOUET ROBOT POUR APPRENDRE À CONSTRUIRE FACILEMENT – Garçons & filles de 4 ans et plus apprennent à créer, puis à mettre en scène des combats de ninja, avec le jeu de construction Le combat du robot dragon de Jay LEGO NINJAGO
+- ENCORE PLUS D’AVENTURES AVEC LES NINJAS – Découvrez d’autres jouets NINJAGO (sets vendus séparément) incluant des robots, des dragons, des temples et des véhicules détaillés
+- FIGURINES ARTICULÉES – Les deux robots aux corps articulés ont un cockpit ouvrant pour accueillir une minifigurine et son arme et peuvent bouger queue, jambes et bras pour adopter différentes postures de combat
+- CADEAU AMUSANT POUR FAN DE NINJA – Ce ensemble LEGO, fait pour la construction et le jeu, est un superbe cadeau à offrir aux enfants dès 4 ans pour stimuler leur imagination et développer leurs compétences narratives
+- INTRODUCTION À LA CONSTRUCTION – Avec les sets LEGO pour enfants de 4 ans et plus, les plus jeunes apprennent à construire et partagent des moments agréables en famille
+- 2 MINIFIGURINES NINJAGO – Ce jeu interactif inclut Jay et un méchant monstre mutant, invitant les enfants à recréer l’action de la saison 4 de la série TV NINJAGO Le soulèvement des dragons
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0FPXDPNP7{{</world>}}
