@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - SETS DE CONSTRUCCIÓN PARA ADULTOS ORIENTADOS A PRACTICAR LA ATENCIÓN PLENA: Explora la fascinante gama de creativos kits de construcción (a la venta por separado) diseñados específicamente para mayores de 18 años
-- MAQUETA PARA ADULTOS DE UN JARDÍN EN MINIATURA: El set LEGO Icons Jardín Rural Otoñal es un kit de maquetas para adultos apasionados por la construcción creativa y la decoración otoñal
-- REGALO PARA MUJERES Y HOMBRES AMANTES DE LA NATURALEZA: Date un capricho o sorprende a alguien especial para ti con este kit de construcción LEGO Icons para mayores de 18 años
 - DECORACIÓN DE OTOÑO PARA EL HOGAR: Abre la casita para acceder al interior de la acogedora cocina, y mueve los árboles, las plantas y otras decoraciones de estética bucólica para crear tu propio jardín
-- FIGURAS DE ANIMALES: Casita de jardín, 4 árboles, flores artificiales, reloj de sol, carro de verduras, gnomo de jardín y animales del bosque, como un petirrojo, un trepador, una ardilla, una rana y un caracol
-- KIT DE MAQUETAS: Crea una decoración para el hogar o la oficina con plantas y flores artificiales de estilo otoñal con esta incorporación a la colección LEGO Icons Jardines del Mundo
 - INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, una app que te permite acercar y girar tu modelo con las instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
+- KIT DE MAQUETAS: Crea una decoración para el hogar o la oficina con plantas y flores artificiales de estilo otoñal con esta incorporación a la colección LEGO Icons Jardines del Mundo
+- FIGURAS DE ANIMALES: Casita de jardín, 4 árboles, flores artificiales, reloj de sol, carro de verduras, gnomo de jardín y animales del bosque, como un petirrojo, un trepador, una ardilla, una rana y un caracol
+- REGALO PARA MUJERES Y HOMBRES AMANTES DE LA NATURALEZA: Date un capricho o sorprende a alguien especial para ti con este kit de construcción LEGO Icons para mayores de 18 años
+- MAQUETA PARA ADULTOS DE UN JARDÍN EN MINIATURA: El set LEGO Icons Jardín Rural Otoñal es un kit de maquetas para adultos apasionados por la construcción creativa y la decoración otoñal
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXG6FS8{{</world>}}

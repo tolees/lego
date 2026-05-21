@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- HOME DECOR – Once kids have enjoyed building the decorative faux flowers, they can arrange them (vase not included) and display them proudly as bedroom or desk decor
-- COLOURFUL FAUX FLOWERS – Build a colourful LEGO flower bouquet featuring realistic daisies and lavender, complete with a charming ladybird figure for extra floral charm
-- FLORAL GIFT IDEA FOR ALL AGES – This building set makes a fun birthday gift for 9+ year old girls and boys, as well as for flower-loving adult fans
 - BOTANICAL COLLECTION – Grow your display by building more blooms from the LEGO Botanicals range (sold separately), including roses, bonsai trees, potted plants and more
-- LEGO FLOWER BOUQUET – Budding florists will enjoy building 3 large artificial daisies, 2 stems of small daisies, 3 calming lavender sprigs and green stems for a vibrant floral arrangement
+- HOME DECOR – Once kids have enjoyed building the decorative faux flowers, they can arrange them (vase not included) and display them proudly as bedroom or desk decor
 - ARTIFICIAL FLOWER DECOR – Encourage kids’ love of nature with this LEGO Botanicals Daisies set, a flower building toy for 9+ year old girls and boys
+- LEGO FLOWER BOUQUET – Budding florists will enjoy building 3 large artificial daisies, 2 stems of small daisies, 3 calming lavender sprigs and green stems for a vibrant floral arrangement
+- FLORAL GIFT IDEA FOR ALL AGES – This building set makes a fun birthday gift for 9+ year old girls and boys, as well as for flower-loving adult fans
+- COLOURFUL FAUX FLOWERS – Build a colourful LEGO flower bouquet featuring realistic daisies and lavender, complete with a charming ladybird figure for extra floral charm
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDY3X2{{</world>}}

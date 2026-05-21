@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- PACKED WITH DETAILS AND ACCESSORIES – Look out for the Wolf Patronus, part of a LEGO Harry Potter 25th anniversary Patronus collection (in sets sold separately), and 2 of 14 collectible Hogwarts portraits
-- 7 LEGO HARRY POTTER MINIFIGURES – With Harry Potter characters Remus Lupin, Ron Weasley, a Dementor, Harry Potter, Hermione Granger, Penelope Clearwater and The Grey Lady
 - A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions while they build
-- HOGWARTS CASTLE TOY – Play out Harry Potter fantasy adventures with the LEGO Harry Potter Hogwarts Castle: Hospital Wing building toy for 9+ year old boys, girls and fans
+- PACKED WITH DETAILS AND ACCESSORIES – Look out for the Wolf Patronus, part of a LEGO Harry Potter 25th anniversary Patronus collection (in sets sold separately), and 2 of 14 collectible Hogwarts portraits
 - HARRY POTTER GIFT FOR KIDS – This LEGO building toy makes a magical birthday gift for 9+ year old girls, boys and older fans of the Wizarding World
-- LEGO HARRY POTTER COLLECTIBLE – This model building kit is part of a series of modular sets (sold separately) that together create the most detailed brick-built Hogwarts Castle scene to date
 - 3-LEVEL BUILDING – Explore the Harry Potter castle toy with 3 levels, featuring the removable Defence Against the Dark Arts (DADA) classroom on the lower level, the Hospital Wing and the Ravenclaw Common Room
+- LEGO HARRY POTTER COLLECTIBLE – This model building kit is part of a series of modular sets (sold separately) that together create the most detailed brick-built Hogwarts Castle scene to date
+- HOGWARTS CASTLE TOY – Play out Harry Potter fantasy adventures with the LEGO Harry Potter Hogwarts Castle: Hospital Wing building toy for 9+ year old boys, girls and fans
+- 7 LEGO HARRY POTTER MINIFIGURES – With Harry Potter characters Remus Lupin, Ron Weasley, a Dementor, Harry Potter, Hermione Granger, Penelope Clearwater and The Grey Lady
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXCK2QL{{</world>}}

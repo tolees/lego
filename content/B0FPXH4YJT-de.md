@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3 LEGO DREAMZzz MINIFIGUREN: Neben den Minifiguren Mateo, Cooper und Arika sorgen auch Z-Blob und eine orangefarbene Schatzkreatur für jede Menge Actionspaß
 - 1 SET, 2 BAUOPTIONEN: Kinder können entweder einen Skorpionbagger mit Greifscheren und Baggerschaufel oder eine biomechanische Wespe mit beweglichen Flügeln und Baggerschaufel-Giftstachel bauen
-- ENTDECKE NOCH MEHR KREATIVES SPIELZEUG: Weitere separat erhältliche LEGO DREAMZzz Sets mit unterschiedlichsten Tieren, Mechs und Fahrzeugen lassen Kinder noch mehr fantasievolle Abenteuer erleben
-- SKORPION BAGGER SPIELZEUG: Entfache die Fantasie der Kinder mit dem LEGO DREAMZzz 2-in-1 Albtraum-Skorpionbagger Spielset für Mädchen und Jungen ab 7 Jahren
+- 3 LEGO DREAMZzz MINIFIGUREN: Neben den Minifiguren Mateo, Cooper und Arika sorgen auch Z-Blob und eine orangefarbene Schatzkreatur für jede Menge Actionspaß
 - SPIELSET MIT ACTIONMECH UND ZUBEHÖR: Zusätzlichen Spielspaß bieten ein Diamant-Ei, das von Bösewichten verdorben wurde, sowie ein Mech mit beweglichen Armen, Beinen und Klauen sowie mit einem Shooter für Cooper
+- SKORPION BAGGER SPIELZEUG: Entfache die Fantasie der Kinder mit dem LEGO DREAMZzz 2-in-1 Albtraum-Skorpionbagger Spielset für Mädchen und Jungen ab 7 Jahren
 - INTUITIVES BAUERLEBNIS: Mit der LEGO Builder App sind digitale Funktionen verfügbar und lassen Kinder 3D Modelle vergrößern und drehen und zeigen, wie weit sie schon sind
+- ENTDECKE NOCH MEHR KREATIVES SPIELZEUG: Weitere separat erhältliche LEGO DREAMZzz Sets mit unterschiedlichsten Tieren, Mechs und Fahrzeugen lassen Kinder noch mehr fantasievolle Abenteuer erleben
 - GESCHENKIDEE FÜR KINDER: Der Spielzeugbagger aus diesem Set ist ein beliebtes Geburtstagsgeschenk für Jungen und Mädchen, die Spielzeugmonster, Actionspielzeug lieben
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DESIGNED FOR LITTLE HANDS – LEGO DUPLO development toys come with easy-to-handle bricks and engaging features to help toddlers take the first confident steps in their LEGO building journey
-- GIFT IDEA FOR TODDLERS – This LEGO DUPLO building set provides a playful learning experience and makes a fun birthday gift for 2+ year old boys, girls and toddlers who love emergency vehicles
 - TOOLS FOR HEROIC MISSIONS – The fire truck toy includes a flexible hose, a hinged rotating ladder with a basket, detachable trailer and a transparent LEGO DUPLO brick water tank
-- EDUCATIONAL TODDLER TOYS – As kids build and transform the fire truck, they develop fine motor skills, creativity and emotional intelligence while learning about the roles of everyday heroes
 - LEGO DUPLO FIGURES – Little ones can role-play rescue stories with the included firefighter figure with a helmet and axe, a squirrel animal figure, a tree, and a wood effect brick with flame elements
+- EDUCATIONAL TODDLER TOYS – As kids build and transform the fire truck, they develop fine motor skills, creativity and emotional intelligence while learning about the roles of everyday heroes
+- GIFT IDEA FOR TODDLERS – This LEGO DUPLO building set provides a playful learning experience and makes a fun birthday gift for 2+ year old boys, girls and toddlers who love emergency vehicles
 - READY FOR RESCUE FUN – Little ones imagine life as an everyday hero with the LEGO DUPLO Fire Engine with Hose and Firefighter Montessori toy for 2+ year old boys and girls
+- DESIGNED FOR LITTLE HANDS – LEGO DUPLO development toys come with easy-to-handle bricks and engaging features to help toddlers take the first confident steps in their LEGO building journey
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NAEKPWW{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- VATERTAGSGESCHENK FÜR PAPA: Ob als Geschenk für Männer, Frauen oder für die eigene Sammlung, dieses LEGO Set begeistert alle, die Retro-Gaming und ikonische Nintendo Klassiker schätzen
-- MODELLBAU FÜR MÄNNER MIT RETRO-CHARME: Die originalgetreue LEGO Nachbildung des Game Boy weckt Erinnerungen an klassische Videospiele und bringt ikonisches Retro-Design als Sammlerstück für erwachsene Gamer ins Regal
-- GALAKTISCHE AUSZEIT VOM ALLTAG: Dieses LEGO Star Wars Modell bietet eine kreative Pause zum Abschalten und bringt ein Stück der weit entfernten Galaxis ins eigene Zuhause
-- FÜR GAMER MIT SAMMELLEIDENSCHAFT: Steuerkreuz, Tasten, Kontrasteinstellung und Lautstärkeregler werden detailgetreu nachgebaut und machen das Nintendo Modell zu einem Highlight für Fans klassischer Videospiele
-- BAUSET MIT MODULEN: Zwei austauschbare Spielmodule mit The Legend of Zelda: Link’s Awakening und Super Mario Land ermöglichen ein individuelles Ausstellen mit Lentikularbild oder Nintendo Startbildschirm
 - LEGO FÜR ERWACHSENE: Das Set bietet ein kreatives Bauprojekt für erfahrene Baumeister und Einsteiger und verbindet entspanntes Bauen mit nostalgischem Videospiel-Feeling für Mäner und Frauen
+- VATERTAGSGESCHENK FÜR PAPA: Ob als Geschenk für Männer, Frauen oder für die eigene Sammlung, dieses LEGO Set begeistert alle, die Retro-Gaming und ikonische Nintendo Klassiker schätzen
+- GALAKTISCHE AUSZEIT VOM ALLTAG: Dieses LEGO Star Wars Modell bietet eine kreative Pause zum Abschalten und bringt ein Stück der weit entfernten Galaxis ins eigene Zuhause
+- MODELLBAU FÜR MÄNNER MIT RETRO-CHARME: Die originalgetreue LEGO Nachbildung des Game Boy weckt Erinnerungen an klassische Videospiele und bringt ikonisches Retro-Design als Sammlerstück für erwachsene Gamer ins Regal
+- BAUSET MIT MODULEN: Zwei austauschbare Spielmodule mit The Legend of Zelda: Link’s Awakening und Super Mario Land ermöglichen ein individuelles Ausstellen mit Lentikularbild oder Nintendo Startbildschirm
+- FÜR GAMER MIT SAMMELLEIDENSCHAFT: Steuerkreuz, Tasten, Kontrasteinstellung und Lautstärkeregler werden detailgetreu nachgebaut und machen das Nintendo Modell zu einem Highlight für Fans klassischer Videospiele
 - 3D-BAUANLEITUNG: Die LEGO Builder App begleitet den Aufbau mit drehbaren 3D-Ansichten und Zoom-Funktionen; das Modell verzichtet bewusst auf digitale Spielfunktionen, Licht oder Sound
 
 [🛒 Check the deal!!]({{< param buyurl >}})

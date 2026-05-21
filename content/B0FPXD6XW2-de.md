@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- FORD MODEL T MIT FUNKTIONEN: Falte das Dach zurück und leg die Windschutzscheibe um; stell beide Seiten der Motorhaube auf und dreh die Kurbel, um das Gebläse rotieren zu lassen; heb den Sitz hoch, um Zugang zum Benzintank zu erhalten
 - BELIEBTES GESCHENK FÜR AUTOFANS: Der Oldtimer aus diesem Bauset ist ein fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für alle, die amerikanische Autoklassiker lieben
 - DIGITALE BAUANLEITUNG INKLUSIVE: Mit der LEGO Builder App kannst du das 3D Puzzle digital erleben, dein Modell vergrößern, drehen und den Fortschritt speichern
+- FORD MODEL T MIT FUNKTIONEN: Falte das Dach zurück und leg die Windschutzscheibe um; stell beide Seiten der Motorhaube auf und dreh die Kurbel, um das Gebläse rotieren zu lassen; heb den Sitz hoch, um Zugang zum Benzintank zu erhalten
 - OLTIMDER BAUSET FÜR ERWACHSENE: Dieses LEGO Modellauto begeistert mit nostalgischem Charme und lädt alle Fans von LEGO Oldtimern zu einem entspannenden Modellbau Erlebnis ein
 - ELEGANTE LEGO DEKO: Der stilvolle Oldtimer ist ein echter Blickfang und eignet sich als Schreibtisch Deko, Büro Accessoire oder Retro Deko fürs Wohnzimmer
 - DETAILREICHES MODELLAUTO: Das LEGO Icons Ford Model T zeigt sich als originalgetreuer Bausatz mit schwarzer Karosserie, Stofffaltdach, goldenen Details und weißen Reifen auf Speichenfelgen

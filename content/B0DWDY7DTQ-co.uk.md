@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Creative toy for kids – This set encourages storytelling as kids role-play party adventures, snap pictures in the photo booth, and act out scenes with their mini dolls, a cat figure and a horse figure
-- Online series – Discover other LEGO Friends brick building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know Heartlake City characters
-- A gift idea for kids – This building set makes a great birthday gift for 6+ year old girls and boys who love unicorn toys, dress-up role play and friendship storytelling
-- 4 mini dolls and 2 LEGO animal figures – Get the party started with Autumn, Olly, Leo, Paisley and their pets as they dress up as a bumblebee, merman, magician, bunny, fairy and a unicorn
 - A helping hand – Check out intuitive instructions in the LEGO Builder app, where kids can zoom in, rotate models in 3D, track progress and save sets as they develop building skills
+- A gift idea for kids – This building set makes a great birthday gift for 6+ year old girls and boys who love unicorn toys, dress-up role play and friendship storytelling
 - A building set to inspire imaginative play – This LEGO Friends Costume Party with Unicorn & Fairy toy for 6+ year old girls and boys features a party scene with a DJ booth and accessories
+- 4 mini dolls and 2 LEGO animal figures – Get the party started with Autumn, Olly, Leo, Paisley and their pets as they dress up as a bumblebee, merman, magician, bunny, fairy and a unicorn
 - Costume-party accessories – This LEGO Friends set comes with lots of accessories to spark role play, including a slushie machine, cakes, drinks, balloons, hats, a merman’s trident, a fairy wand and more
+- Online series – Discover other LEGO Friends brick building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know Heartlake City characters
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDY7DTQ{{</world>}}

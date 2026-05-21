@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CAR TOY BUILDING SET FOR KIDS – Build, display and play with this detailed LEGO Harry Potter Enchanted Flying Ford Anglia model car designed for 14+ year old boys and girls
-- 3 LEGO HARRY POTTER FIGURES – Place brick-built Ron Weasley and Harry Potter figures in the car with Harry’s owl pet Hedwig to relive iconic scenes
-- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
-- MAGICAL FUNCTIONS – Push the rear bumper to open the boot and doors of the car model, and push the front bumper to eject the trunk from the boot, like in Harry Potter and the Chamber of Secrets
 - BUILD WITH DAD THIS FATHERS DAY – This LEGO Harry Potter set makes a thoughtful Fathers Day gift for kids and parents to share the joy of building together
+- CAR TOY BUILDING SET FOR KIDS – Build, display and play with this detailed LEGO Harry Potter Enchanted Flying Ford Anglia model car designed for 14+ year old boys and girls
+- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
 - PART OF AN EXTENSIVE RANGE – LEGO Harry Potter collectible sets (sold separately) let fans role-play iconic scenes, create their own stories or simply display the detailed models
 - PLAY AND DISPLAY – This LEGO Harry Potter car set offers a rewarding build with authentic details to inspire imaginative play and makes a magical display piece to decorate any fan’s room.
+- MAGICAL FUNCTIONS – Push the rear bumper to open the boot and doors of the car model, and push the front bumper to eject the trunk from the boot, like in Harry Potter and the Chamber of Secrets
+- 3 LEGO HARRY POTTER FIGURES – Place brick-built Ron Weasley and Harry Potter figures in the car with Harry’s owl pet Hedwig to relive iconic scenes
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGWLDH{{</world>}}

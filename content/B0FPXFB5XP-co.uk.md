@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 3in1 GAMER ROOM DECOR – LEGO Creator Retro Gaming Console toy for 8+ year old boys and girls lets kids build and rebuild 3 different retro toys with the same LEGO bricks
 - GAMING GIFT – This LEGO Creator 3in1 set makes a great birthday gift for 8+ year old boys, girls, older gamers and nostalgic adults who love retro tech
 - MORE CREATIVE FUN – Enjoy even more building adventures with other sets (sold separately) from the extensive LEGO Creator 3in1 range
+- GREAT FOR PLAY AND DISPLAY – When playtime is over, each build in this model kit can be displayed as gaming room decor for children to share with family and friends
 - KIDS CRAFTS WITH FUN FEATURES – The gaming console in this building set has 2 buttons and 2 joysticks, plus a choice of 3 game cartridges to insert and the computer has a keyboard
 - ENDLESS PRETEND-PLAY OPTIONS – Kids can play out stories with 3 creative toys (models cannot be built simultaneously): a gaming console, a mini computer or a mini arcade game machine
-- GREAT FOR PLAY AND DISPLAY – When playtime is over, each build in this model kit can be displayed as gaming room decor for children to share with family and friends
+- 3in1 GAMER ROOM DECOR – LEGO Creator Retro Gaming Console toy for 8+ year old boys and girls lets kids build and rebuild 3 different retro toys with the same LEGO bricks
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXFB5XP{{</world>}}

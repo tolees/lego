@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Juguete infantil: Numerosos detalles como conchas, plantas, animales marinos, un tobogán, una burbuja gigante en la que “flotan” los personajes y un coral detrás del cual encontrar un tesoro oculto
-- Juguete de construcción infantil: La extensa variedad de sets LEGO para el desarrollo, dirigidos a niñas y niños a partir de 4 años, introduce un universo de populares películas, personajes de televisión y héroes cotidianos
-- Más diversión: Los niños pueden complementar este juguete con el set 11205 (a la venta por separado) para crear los tres universos representados en la película que amplían los conocidos escenarios
 - Inspirado en La casa de muñecas de Gabby: La película: Incluye una mini muñeca de Gabby con cola de sirena, figuras de las gatas Siregata y Medusa, y un ladrillo para principiantes
-- Mini Muñeca de Gabby sirena: Este set es un gran regalo para niñas y niños de 4 años o más con el que disfrutarán recreando historias con la mini muñeca de Gabby en el acuario
 - Juguete para niñas a partir de 4 años: Los pequeños fans de La casa de muñecas de Gabby, de DreamWorks Animation, acompañarán a sus gatiamigas favoritas en el set Aventura en el Acuario de Gabby Sirena
+- Mini Muñeca de Gabby sirena: Este set es un gran regalo para niñas y niños de 4 años o más con el que disfrutarán recreando historias con la mini muñeca de Gabby en el acuario
+- Más diversión: Los niños pueden complementar este juguete con el set 11205 (a la venta por separado) para crear los tres universos representados en la película que amplían los conocidos escenarios
+- Juguete de construcción infantil: La extensa variedad de sets LEGO para el desarrollo, dirigidos a niñas y niños a partir de 4 años, introduce un universo de populares películas, personajes de televisión y héroes cotidianos
+- Juguete infantil: Numerosos detalles como conchas, plantas, animales marinos, un tobogán, una burbuja gigante en la que “flotan” los personajes y un coral detrás del cual encontrar un tesoro oculto
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDJYSKZ{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SPANNENDER SAURONS HELM MODELLBAU: Reise in die feurigen Berge Mordors mit dem LEGO Icons Der Herr der Ringe: Saurons Helm Set für erwachsene Filmfans
-- EINDRUCKSVOLLE DIGITALE ANLEITUNG: Mit der intuitiven LEGO Builder App kannst du eine Schritt-für-Schritt-3D-Bauanleitung nutzen, das 3D Modell zoomen und drehen sowie deinen Fortschritt verfolgen
 - GESCHENK FÜR MÄNNER UND FRAUEN: Dieses Bauset ist ein beliebtes Geschenk für Herr der Ringe Fans und begeistert durch die vielen Details, die es zu einer Überraschung zum Geburtstag machen
 - LEGO ICONS KOLLEKTION FÜR ERWACHSENE: Entdecke weitere fesselnde Bauprojekte aus der LEGO Icons Kollektion (Sets separat erhältlich) zum Ausstellen
-- BEEINDRUCKENDE, VOM FILM INSPIRIERTE DETAILS: Aufwendig gestaltet, um den bedrohlichen Look von Saurons Helm einzufangen, inspiriert von der epischen Fantasy-Filmtrilogie
 - 3D PUZZLE FÜR HERR DER RINGE FANS: Dieses Konstruktionsspielzeug enthält Steine zum Bauen einer Nachbildung von Saurons Helm, mit Ständer, Namensschild und einer Sauron LEGO Minifigur mit dem Einen Ring
 - SCHREIBTISCH DEKO: Dieses LEGO Modell ist nicht nur ein schöner Blickfang fürs Wohnzimmer oder Büro, sondern ergänzt auch jede Der Herr der Ringe-Fanartikelsammlung
+- EINDRUCKSVOLLE DIGITALE ANLEITUNG: Mit der intuitiven LEGO Builder App kannst du eine Schritt-für-Schritt-3D-Bauanleitung nutzen, das 3D Modell zoomen und drehen sowie deinen Fortschritt verfolgen
+- BEEINDRUCKENDE, VOM FILM INSPIRIERTE DETAILS: Aufwendig gestaltet, um den bedrohlichen Look von Saurons Helm einzufangen, inspiriert von der epischen Fantasy-Filmtrilogie
+- SPANNENDER SAURONS HELM MODELLBAU: Reise in die feurigen Berge Mordors mit dem LEGO Icons Der Herr der Ringe: Saurons Helm Set für erwachsene Filmfans
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N4NJ3HX{{</world>}}

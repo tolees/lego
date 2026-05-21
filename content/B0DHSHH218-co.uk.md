@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Digital building fun – This miniature F1 pit stop toy features instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
 - A fun birthday gift for kids – Surprise your budding racer with this LEGO City F1 themed birthday gift for 6 plus year old boys and girls
 - F1 LEGO set with accessories for realistic pit stop action – Accessories in this building toy set include tools, fresh slicks and wheel guns
-- What’s in the box? – Everything needed to build an F1 pit and Ferrari toy for 6+ year old boys and girls, plus a driver and 4 pit crew minifigures
+- More high-speed Formula 1 action – Look out for other LEGO F1 building toy sets (sold separately) to build, display and race with the whole family
 - Fun functions – Kids drive the toy car into the pit box and press a lever to move the pit crew into position for a turbocharged tyre change
 - LEGO F1 car toy – Bring the excitement of Formula 1 to kids’ play with the LEGO City F1 Pit Stop & Pit Crew with Ferrari Car toy for boys and girls
-- Digital building fun – This miniature F1 pit stop toy features instructions in the LEGO Builder app, where kids can save sets, track progress and zoom in and rotate models in 3D while they build
-- More high-speed Formula 1 action – Look out for other LEGO F1 building toy sets (sold separately) to build, display and race with the whole family
+- What’s in the box? – Everything needed to build an F1 pit and Ferrari toy for 6+ year old boys and girls, plus a driver and 4 pit crew minifigures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSHH218{{</world>}}

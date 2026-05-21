@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CREATIVE ACCESSORIES – Includes lots of toy animal accessories to care for the pets such as a brush, yarn ball, carrot cupcake, food and water for the bunnies and a shovel
-- DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
-- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
-- FUN HOTEL FEATURES – Build and explore the toy bunny hotel, which includes a pet door and a sleeping area with beds for the bunnies and lots of sweet details including a carrot-shaped rug
 - 2 MINI DOLLS AND 2 ANIMAL FIGURES – Kids can play out endless stories as they help LEGO Friends Paisley and Leo mini dolls care for the 2 toy rabbits
+- FUN HOTEL FEATURES – Build and explore the toy bunny hotel, which includes a pet door and a sleeping area with beds for the bunnies and lots of sweet details including a carrot-shaped rug
 - GIFT IDEA FOR 5+ YEAR OLD GIRLS AND BOYS – This playset makes a fun birthday gift for kids aged 5+ who are animal lovers and enjoy making up their own fun stories
+- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
+- DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 - BRICK BUILT BUNNY HOTEL – Hop into storytelling fun with the LEGO Friends Heartlake City Bunny Hotel toy for 5+ year old girls and boys which includes 2 mini dolls and 2 animal figures
+- CREATIVE ACCESSORIES – Includes lots of toy animal accessories to care for the pets such as a brush, yarn ball, carrot cupcake, food and water for the bunnies and a shovel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPVRWS6R{{</world>}}

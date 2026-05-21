@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - AUTHENTIC DETAILS – The building set features details from the movie version including rear air vents, a cockpit, the flux capacitor, time calculator and so much more
-- BACK TO THE FUTURE CAR TOY – LEGO Speed Champions Time Machine from Back to the Future toy for 9+ year old boys and girls to build, display and recreate movie scenes
-- BACK TO THE FUTURE GIFT – This LEGO Back to the Future building toy provides a fun build-and-play experience and is a great birthday gift for 9+ year old boys, girls, movie fans and nostalgic adults
 - 2 LEGO MINIFIGURES – This Back to the Future toy comes with 2 characters from the movie franchise, Doc Brown and Marty McFly, to place inside the cockpit and enjoy role play
+- BACK TO THE FUTURE GIFT – This LEGO Back to the Future building toy provides a fun build-and-play experience and is a great birthday gift for 9+ year old boys, girls, movie fans and nostalgic adults
 - 2 PLAY OPTIONS – The car model has a lightning hook from the first movie, or it can be rebuilt into flying mode with sideways wheels and Mr. Fusion from the second movie
+- BACK TO THE FUTURE CAR TOY – LEGO Speed Champions Time Machine from Back to the Future toy for 9+ year old boys and girls to build, display and recreate movie scenes
 - EXPAND THE RACING FUN – Discover more LEGO Speed Champions car model kits (sold separately) packed with authentic details for kids and passionate car enthusiasts
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SMALL GIFT FOR KIDS – This LEGO building toy provides an action-packed play experience and is a fun birthday gift idea for 6+ year old boys and girls
-- 2 LEGO NINJAGO MINIFIGURES – Includes Lloyd with a sword accessory and a villainous Earth Monster who has a big claw and can ride inside the spinner
-- BATTLE TOY – Kids can play out scenes from season 4 of the Dragons Rising TV show with this LEGO NINJAGO Lloyd vs. Earth Monster Spinner toy for 6+ year old boys and girls
-- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
 - SPINNING TOY WITH FUN FEATURES – Kids can push the launcher’s button to unleash the spinner into a quick spin and watch to see if 2 elemental power parts fly off it when it hits its target
+- BATTLE TOY – Kids can play out scenes from season 4 of the Dragons Rising TV show with this LEGO NINJAGO Lloyd vs. Earth Monster Spinner toy for 6+ year old boys and girls
+- 2 LEGO NINJAGO MINIFIGURES – Includes Lloyd with a sword accessory and a villainous Earth Monster who has a big claw and can ride inside the spinner
+- SMALL GIFT FOR KIDS – This LEGO building toy provides an action-packed play experience and is a fun birthday gift idea for 6+ year old boys and girls
 - CHALLENGE A FRIEND - Kids can stage epic battling tops action when they combine this set with 71849 Nya vs. Mutation Monster Spinner (sold separately)
+- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXGK2NW{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DAILY BUGLE BUILDING SET – Explore the Spider-Man vs. Mysterio: The Daily Bugle toy for 10+ year old boys and girls, featuring a 4-level building and 7 LEGO Marvel minifigures
+- 7 LEGO MARVEL MINIFIGURES – Spider-Man, Miles Morales, Ghost Spider, J. Jonah Jameson, Mysterio, Venomized Captain America and Rhino, plus a mech figure and 3 transparent posing sticks for mid-air action
 - PLAY AND DISPLAY – This LEGO Marvel building set has a detailed exterior and interior and includes fun features, such as a slider that alters the graphic shown on the billboard
-- FUN ACCESSORIES – Inspire Superhero action with 3 white spiderwebs, Venomized Captain America’s shield, a photocopier, skateboard, safe containing money, pizza tray and more
-- BUILD TOGETHER – The LEGO Builder app offers a guided, collaborative experience with friends and family where everyone has fun building part of the set using their own devices
+- DAILY BUGLE BUILDING SET – Explore the Spider-Man vs. Mysterio: The Daily Bugle toy for 10+ year old boys and girls, featuring a 4-level building and 7 LEGO Marvel minifigures
 - MODULAR BUILDING SETS – Combine with other models from the LEGO Modular Buildings Collection, such as 76324 (sold separately), to create your own street scene
 - SPIDER-MAN GIFT FOR FANS – Put epic action into kids’ hands with this towering model kit, which makes a great Marvel-themed birthday gift for 10+ year old boys and girls who are fans of Super Hero building toys
-- 7 LEGO MARVEL MINIFIGURES – Spider-Man, Miles Morales, Ghost Spider, J. Jonah Jameson, Mysterio, Venomized Captain America and Rhino, plus a mech figure and 3 transparent posing sticks for mid-air action
+- FUN ACCESSORIES – Inspire Superhero action with 3 white spiderwebs, Venomized Captain America’s shield, a photocopier, skateboard, safe containing money, pizza tray and more
+- BUILD TOGETHER – The LEGO Builder app offers a guided, collaborative experience with friends and family where everyone has fun building part of the set using their own devices
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXG5S99{{</world>}}

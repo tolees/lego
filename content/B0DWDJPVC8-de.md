@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Intuitive Anleitung: In der LEGO Builder App können Kinder beim Bauen unter anderem eine digitale Version dieses Baumodells vergrößern, drehen und näher betrachten, ihren Baufortschritt verfolgen und Sets speichern
-- STAP: Zu diesem LEGO Star Wars Set gehört auch das baubare Modell einer STAP für Solitus, um Kindern noch mehr spannende Spielmöglichkeiten zu bieten, ein Baumodell mit vielen Action-Elementen
-- 1 Set, 2 LEGO Star Wars Fahrzeuge: The Force Burner Snowspeeder hat Flammenaufkleber, ein aufklappbares Doppelcockpit mit verstecktem Speederbike und einen Shooter am Heck, ein beliebtes Spielzeug für Jungen ab 7 Jahren
+- 3 LEGO Star Wars Minifiguren: Sig Greebling mit Lichtschwert, Darth Dev mit Lichtschwert und Solitus mit Doppelklingen-Lichtschwert an einer Kette, ein spannendes LEGO Star Wars Figuren Set für Sammler und Kinder
 - Ein besonderer Schneegleiter und ein tolles Bauspielzeug für Kinder: The Force Burner Snowspeeder aus der 2. Staffel von LEGO Star Wars: Rebuild the Galaxy auf Disney+ bietet jede Menge Actionspaß beim Bauen und Spielen
 - Erkunde das gesamte Angebot: LEGO Star Wars Sammelmodell lassen Kinder und erwachsene Star Wars Fans klassische Szenen nachspielen, eigene Abenteuer darstellen oder die gebauten Modelle einfach nur ausstellen
-- 3 LEGO Star Wars Minifiguren: Sig Greebling mit Lichtschwert, Darth Dev mit Lichtschwert und Solitus mit Doppelklingen-Lichtschwert an einer Kette, ein spannendes LEGO Star Wars Figuren Set für Sammler und Kinder
+- 1 Set, 2 LEGO Star Wars Fahrzeuge: The Force Burner Snowspeeder hat Flammenaufkleber, ein aufklappbares Doppelcockpit mit verstecktem Speederbike und einen Shooter am Heck, ein beliebtes Spielzeug für Jungen ab 7 Jahren
+- Intuitive Anleitung: In der LEGO Builder App können Kinder beim Bauen unter anderem eine digitale Version dieses Baumodells vergrößern, drehen und näher betrachten, ihren Baufortschritt verfolgen und Sets speichern
 - Star Wars Geschenk für Kinder ab 7 Jahren: Dieses hochwertige LEGO Star Wars Spielset ist ein schönes Geschenk für Jungen, Mädchen und alle Fans der Serie Star Wars: Rebuild the Galaxy
+- STAP: Zu diesem LEGO Star Wars Set gehört auch das baubare Modell einer STAP für Solitus, um Kindern noch mehr spannende Spielmöglichkeiten zu bieten, ein Baumodell mit vielen Action-Elementen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDJPVC8{{</world>}}

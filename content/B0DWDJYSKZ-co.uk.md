@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Gabby s Dollhouse Mermaid Gabby s Aquarium Adventure Toy - incl. a Gabby Mini Doll & MerCat Figure plus Fun Accessories - Gift for 4+ Year Old Girls & Movie Fans - 11204'
-date: 2026-03-26 08:58:42
+date: 2026-05-20 11:51:25
 image: 'https://m.media-amazon.com/images/I/51u-f-ubWNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Creative building toy – This LEGO 4+ set has a Gabby mini doll in a mermaid outfit, MerCat and Jellyfish Gabbys Dollhouse figures plus a Starter Brick for speedy assembly
 - Expand the fun – Kids can supplement this building toy with set 11205 (sold separately) to create the three expansive worlds depicted in the movie
-- Dolls house accessories – There’s lots to discover, including shells, plants, sea life, a slide, a giant bubble that the characters can ‘float’ in, and coral that moves to reveal a treasure chest
-- Birthday gift for kids – This LEGO Gabbys Dollhouse toy makes a fun gift for 4+ year old girls, boys and fans of DreamWorks Animation’s Gabby’s Dollhouse: The Movie
 - Preschool building toy – A wide range of engaging developmental LEGO sets for kids aged 4 and over introduces a universe of movie favourites, TV characters and everyday heroes
 - Gabbys Dollhouse toy for kids – Fans of DreamWorks Animation’s Gabby’s Dollhouse can join their favourite kitty pals for fun with Mermaid Gabby’s Aquarium Adventure toy for 4+ year old girls and boys
-- Creative building toy – This LEGO 4+ set has a Gabby mini doll in a mermaid outfit, MerCat and Jellyfish Gabbys Dollhouse figures plus a Starter Brick for speedy assembly
+- Birthday gift for kids – This LEGO Gabbys Dollhouse toy makes a fun gift for 4+ year old girls, boys and fans of DreamWorks Animation’s Gabby’s Dollhouse: The Movie
+- Dolls house accessories – There’s lots to discover, including shells, plants, sea life, a slide, a giant bubble that the characters can ‘float’ in, and coral that moves to reveal a treasure chest
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDJYSKZ{{</world>}}

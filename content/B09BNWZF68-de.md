@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Baue ein detailliertes LEGO Star Wars Sammlerstück des Mandalorianer Helms und zolle dem legendären Kopfgeldjäger Tribut
-- Entdecke die gesamte Palette der LEGO Star Wars Modelle und finde eine Vielzahl von Star Wars Geschenken oder Weihnachtsgeschenkideen für Männer, Frauen, Mütter oder Väter
 - In der Schachtel findest du eine Schritt für Schritt Anleitung, so dass du das LEGO Set für Erwachsene auch als LEGO Neuling nachbauen kannst
 - Der LEGO Mandalorianer Helm macht als Star Wars Deko zu Hause oder im Büro eine gute Figur
+- Entdecke die gesamte Palette der LEGO Star Wars Modelle und finde eine Vielzahl von Star Wars Geschenken oder Weihnachtsgeschenkideen für Männer, Frauen, Mütter oder Väter
 - Fange den Glanz und die ikonischen Merkmale von deinem LEGO Star Wars Helm ein und präsentiere ihn stolz auf dem Ständer mit Namensschild
+- Baue ein detailliertes LEGO Star Wars Sammlerstück des Mandalorianer Helms und zolle dem legendären Kopfgeldjäger Tribut
 - Mit speziell lackierten LEGO Steinen in verschiedenen Grautönen lässt sich das metallische Aussehen der Beskar-Rüstung nachbilden
 
 [🛒 Buy it now!!]({{< param buyurl >}})

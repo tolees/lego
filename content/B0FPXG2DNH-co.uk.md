@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- MORE NINJAGO ADVENTURES – Discover other LEGO sets (sold separately) featuring detailed dragons, mechs, temples and vehicles
+- POSABLE MECH ACTION FIGURE – The mech has a posable head, arms, shoulder armour, fingers, legs and ankles, and a cockpit for Cole in its chest, plus a backpack to store its weapon accessories
 - GIFT IDEA FOR KIDS – This NINJAGO building toy provides an action-packed play experience and is a great birthday gift for 7+ year old boys and girls with a passion for fantasy and adventure
+- MORE NINJAGO ADVENTURES – Discover other LEGO sets (sold separately) featuring detailed dragons, mechs, temples and vehicles
 - 3 LEGO NINJAGO MINIFIGURES – This building set includes Cole with a hammer accessory, Dragon Form Zane with a sword and an Acid Monster with a staff for fans to play out good vs. evil battles
 - 3 MECH WEAPON ACCESSORIES – Mech comes with 3 weapons: a sword, a staff and a spring-loaded blaster with 2 darts, which can be swapped with weapons from Riyu Ninja Dragon (71855), sold separately
-- POSABLE MECH ACTION FIGURE – The mech has a posable head, arms, shoulder armour, fingers, legs and ankles, and a cockpit for Cole in its chest, plus a backpack to store its weapon accessories
 - NINJA TOYS FOR KIDS – Cole’s Mission Mech & Dragon Zane building toy for 7+ year old boys and girls lets kids recreate adventures from season 4 of the NINJAGO Dragons Rising TV show
 
 [🛒 Buy it now!!]({{< param buyurl >}})

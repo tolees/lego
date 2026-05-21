@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bonsai tree model kit – Build 3 trees that represent peace and balance with this LEGO Botanicals Mini Bonsai Trees building set for adults, which offers an immersive project for nature lovers
 - Build more blooms – Combine these brick-built bonsai trees with other building sets (sold separately) in the LEGO Botanicals collection, including LEGO bouquets, bamboo plants and more
-- Artificial indoor plants for desk decor – Includes 2 ornamental stands to display the bonsai trees at different heights and in various combinations, creating bespoke faux plant arrangements
-- LEGO Builder app – Digital instructions are available in the LEGO Builder app, where you can zoom and rotate your LEGO bonsai trees in 3D and track your building progress
-- DIY decor for faux plant lovers – Includes a ginkgo bonsai tree with yellow leaves, a black pine bonsai tree with green needles and a wisteria bonsai tree with cascading lilac flowers
 - Customisable home decor idea – The trees feature interchangeable foliage, letting you swap leaves to create personalised bonsai displays, like decorating the wisteria trunk with ginkgo leaves
 - Plant gift for women and men – This nature-inspired building set makes a thoughtful gift for plant lovers and a great housewarming or birthday gift for her or him
+- Bonsai tree model kit – Build 3 trees that represent peace and balance with this LEGO Botanicals Mini Bonsai Trees building set for adults, which offers an immersive project for nature lovers
+- DIY decor for faux plant lovers – Includes a ginkgo bonsai tree with yellow leaves, a black pine bonsai tree with green needles and a wisteria bonsai tree with cascading lilac flowers
+- LEGO Builder app – Digital instructions are available in the LEGO Builder app, where you can zoom and rotate your LEGO bonsai trees in 3D and track your building progress
+- Artificial indoor plants for desk decor – Includes 2 ornamental stands to display the bonsai trees at different heights and in various combinations, creating bespoke faux plant arrangements
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNK1J{{</world>}}

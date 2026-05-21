@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dinosaur toy set – This Raptor Off-Road Escape set is a fun building toy for 6+ year old boys and girls, with action-packed play for kids who love car toys, dino adventures and Jurassic World stories
-- Dinosaur and car building set – Includes moulded LEGO dinosaur figures of a baby Aquilops and a Velociraptor, plus an off-road vehicle and two LEGO minifigures, Reuben and Isabella, for action play
-- A fun way to build – With the LEGO Builder app, kids can zoom, rotate and track their model in 3D, save sets and enjoy an intuitive digital building experience from start to finish
 - Jurassic World dinosaur gift for kids – A brilliant gift for 6+ year old girls and boys who love toy dinosaurs, LEGO building sets, vehicles and fun dinosaur figures from the Jurassic World Rebirth movie
-- Dino play features – The Velociraptor toy dinosaur has a movable jaw, and the bush element includes a ‘jumping’ function that makes the dino toy leap out when kids push the base
+- A fun way to build – With the LEGO Builder app, kids can zoom, rotate and track their model in 3D, save sets and enjoy an intuitive digital building experience from start to finish
 - Storytelling accessories included – This LEGO Jurassic World Rebirth dinosaur toy includes a tracking device, injector, syringe, liquorice for Dolores and a steak for the hungry Velociraptor
+- Dino play features – The Velociraptor toy dinosaur has a movable jaw, and the bush element includes a ‘jumping’ function that makes the dino toy leap out when kids push the base
+- Dinosaur and car building set – Includes moulded LEGO dinosaur figures of a baby Aquilops and a Velociraptor, plus an off-road vehicle and two LEGO minifigures, Reuben and Isabella, for action play
+- Dinosaur toy set – This Raptor Off-Road Escape set is a fun building toy for 6+ year old boys and girls, with action-packed play for kids who love car toys, dino adventures and Jurassic World stories
 - Boost creativity through dino play – LEGO Jurassic World sets inspire kids to expand their love of building toys, dinosaurs and nature while developing storytelling confidence and creativity
 
 [🛒 Buy it now!!]({{< param buyurl >}})

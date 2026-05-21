@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- HARRY POTTER GIFT FOR KIDS – This building set makes a fun toy birthday gift for 8+ year old girls, boys and fans to build their love of Harry Potter stories
-- INSPIRE KIDS’ CREATIVITY – This LEGO Harry Potter toy for kids and fans offers a rewarding build and has authentic details to inspire pretend play
-- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
-- POSABLE HARRY POTTER FIGURE – Build the first 1:1 scale LEGO Cornish Pixie and create a display from Harry Potter and the Chamber of Secrets with this building toy for 8+ year old girls and boys
 - PART OF AN EXTENSIVE RANGE – LEGO Harry Potter collectible building sets (sold separately) let fans role-play iconic scenes, make up their own stories or simply display the detailed models
-- ICONIC ACCESSORIES – Kids can display the Cornish Pixie figure with the buildable Gilderoy Lockhart book and mid-spill bottle of ink
 - POSE AND PLAY – Move the Cornish Pixie’s head, arms and fingers, pose it in flying position on the transparent display stand or pose it in a standing position and play with it on its own
+- HARRY POTTER GIFT FOR KIDS – This building set makes a fun toy birthday gift for 8+ year old girls, boys and fans to build their love of Harry Potter stories
+- ICONIC ACCESSORIES – Kids can display the Cornish Pixie figure with the buildable Gilderoy Lockhart book and mid-spill bottle of ink
+- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
+- INSPIRE KIDS’ CREATIVITY – This LEGO Harry Potter toy for kids and fans offers a rewarding build and has authentic details to inspire pretend play
+- POSABLE HARRY POTTER FIGURE – Build the first 1:1 scale LEGO Cornish Pixie and create a display from Harry Potter and the Chamber of Secrets with this building toy for 8+ year old girls and boys
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGPT4J{{</world>}}

@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - PFERDE SPIELZEUG ALS GESCHENK: Das Heartlake City Set ist ein schönes Geschenk für Mädchen und Jungen; Es ist sowohl zum Geburtstag oder zu anderen Anlässen eine gelungene Überraschung
-- SPIELSET MIT VIELEN FIGUREN: Aliya und Liann, die Mikro-Spielfiguren Victoria und Ella, eine Katze, 3 Ponys und jede Menge Zubehör laden zu kreativen Rollenspielen ein
 - LEGO SET MIT ZUBEHÖR: Der Modellbau enthält viele Accessoires für kreative Rollenspiele; Zum Stall und Wohnbereich gehören u.a. Bänder, Bürsten, Ofen, Kekse, Brombeeren, Karotte & pferdeförmige Außenlaternen
-- SPIELZEUG FÜR KINDER: LEGO Friends Ponyhof & Stall ist ein Spielset mit baubarem Stall, Wagen, Heulift und vielen weiteren Elementen, das Mädchen und Jungen ab 7 Jahren begeistert spielen lässt
 - MODELLBAU FÜR FREUNDE: Mit den verschiedenen LEGO Friends Bausets lassen sich viele schöne Geschichten erfinden, rund um Freundschaft, Familie ,Tiere und kreative Erlebnisse
+- SPIELZEUG FÜR KINDER: LEGO Friends Ponyhof & Stall ist ein Spielset mit baubarem Stall, Wagen, Heulift und vielen weiteren Elementen, das Mädchen und Jungen ab 7 Jahren begeistert spielen lässt
 - SPIELZEUG PFERDE MIT INTERAKTIVEN FUNKTIONEN: Der funktionierende Heulift lässt Kinder die Ballen auf den Heuboden oder in den Ponywagen laden und viele eigene Geschichten im Stall darstellen
+- SPIELSET MIT VIELEN FIGUREN: Aliya und Liann, die Mikro-Spielfiguren Victoria und Ella, eine Katze, 3 Ponys und jede Menge Zubehör laden zu kreativen Rollenspielen ein
 - KOBINATION MIT ANDEREN SETS: Die verschiedenen LEGO Friends Sets lassen Kinder unterschiedliche Freundschaftsmomente und fantasievolle eigene Geschichten darstellen; kombiniere es mit anderen LEGO Sets
 
 [🛒 Check the deal!!]({{< param buyurl >}})

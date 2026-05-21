@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- PLAY AND DISPLAY – Let kids create magical brews with LEGO Harry Potter Cauldron: Secret Potions Classroom toy for 10+ year old girls, boys and fans
+- HARRY POTTER GIFT FOR FANS – This play and display set makes a cool creative LEGO gift for 10+ year old girls, boys and fans to build their love of Harry Potter fantasy adventures
+- 2 LEGO HARRY POTTER MINIFIGURES – Recreate a Hogwarts potions class with this building set, and relieve scenes with Professor Snape and Hermione Granger LEGO minifigures, each with a wand accessory
 - SPECIAL DETAILS – Look out for Hermione’s Otter Patronus, part of a LEGO Harry Potter 25th anniversary Patronus collection (in sets sold separately), and 1 of 14 collectable Hogwarts portraits
+- LEGO HARRY POTTER COLLECTION – LEGO Harry Potter collectible building sets (sold separately) let fans recreate iconic scenes, make up their own stories or simply display the detailed models
+- PLAY AND DISPLAY – Let kids create magical brews with LEGO Harry Potter Cauldron: Secret Potions Classroom toy for 10+ year old girls, boys and fans
 - SECRET CLASSROOM – Move the stirring stick and reveal the hidden classroom with removable tables for easy play, a blackboard, potion bottles and LEGO ingredients for Wolfsbane, Polyjuice and Love Potions
 - DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app guides kids on a digital building adventure that lets them zoom in and rotate sets using 3D instructions, as well as save and track their progress
-- LEGO HARRY POTTER COLLECTION – LEGO Harry Potter collectible building sets (sold separately) let fans recreate iconic scenes, make up their own stories or simply display the detailed models
-- 2 LEGO HARRY POTTER MINIFIGURES – Recreate a Hogwarts potions class with this building set, and relieve scenes with Professor Snape and Hermione Granger LEGO minifigures, each with a wand accessory
-- HARRY POTTER GIFT FOR FANS – This play and display set makes a cool creative LEGO gift for 10+ year old girls, boys and fans to build their love of Harry Potter fantasy adventures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPVT4VG7{{</world>}}

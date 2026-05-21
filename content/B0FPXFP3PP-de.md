@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO DEKO FÜR KINDERZIMMER: Nach dem Spielen wird Grogus Zuhause zur süßen Star Wars Deko und passt super auf ein Regal, den Nachttisch oder den Schreibtisch von jungen Fans
-- FÖRDERT MOTORIK & FANTASIE: Große LEGO Bausteine sind leicht zu greifen und unterstützen Vorschulkinder beim Bauen, Entwickeln und Geschichtenerzählen
-- SPIELZEUG MIT ZUBEHÖR: Mit dabei sind ein blauer Sorgan-Frosch, Macarons, ein Topf, eine Schleuder, Tentakel und ein Marshmallow am Stab für kreative Star Wars Geschichten
 - SPIELSET MIT KATAPULT: Kinder setzen den LEGO Frosch auf die Katapultfunktion und lassen ihn fliegen, um Szenen aus The Mandalorian nachzuspielen oder eigene Abenteuer zu erfinden
-- GESCHENK FÜR JUNGEN & MÄDCHEN: Ein cooles Geschenk für kleine Baby-Yoda-Fans, die Star Wars lieben und gerne fantasievolle Rollenspiele mit Freunden oder alleine spielen
-- BAUSPASS FÜR KINDER AB 4 JAHREN: Mit Steinen bauen Kinder LEGO Star Wars Grogus Zuhause und tauchen spielerisch in die Welt von Baby Yoda ein für kleine Baumeister
+- SPIELZEUG MIT ZUBEHÖR: Mit dabei sind ein blauer Sorgan-Frosch, Macarons, ein Topf, eine Schleuder, Tentakel und ein Marshmallow am Stab für kreative Star Wars Geschichten
 - GROGU FIGUR ZUM BEWEGEN: Baby Yoda kann Kopf, Arme und Ohren bewegen und sorgt mit seinen niedlichen Ideen für lustige Rollenspiele im Kinderzimmer
+- GESCHENK FÜR JUNGEN & MÄDCHEN: Ein cooles Geschenk für kleine Baby-Yoda-Fans, die Star Wars lieben und gerne fantasievolle Rollenspiele mit Freunden oder alleine spielen
+- FÖRDERT MOTORIK & FANTASIE: Große LEGO Bausteine sind leicht zu greifen und unterstützen Vorschulkinder beim Bauen, Entwickeln und Geschichtenerzählen
+- LEGO DEKO FÜR KINDERZIMMER: Nach dem Spielen wird Grogus Zuhause zur süßen Star Wars Deko und passt super auf ein Regal, den Nachttisch oder den Schreibtisch von jungen Fans
+- BAUSPASS FÜR KINDER AB 4 JAHREN: Mit Steinen bauen Kinder LEGO Star Wars Grogus Zuhause und tauchen spielerisch in die Welt von Baby Yoda ein für kleine Baumeister
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFP3PP{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Posable LEGO mech – NINJAGO Kai’s mech has posable arms and legs that can be tilted and twisted into battle stances, and a big golden sword
-- Build your own mech – NINJAGO fans can mix and match parts from this and other action figure toys (sets sold separately) to create their own mech
+- 4 NINJAGO characters – Features Kai, Zane and Jordana NINJAGO minifigures, each with a sword element, plus a Wolf Mask Warrior minifigure
 - Action figure – Kais Elemental Earth Mech toy for kids combines with 2 other mechs (sold separately) thanks to detachable legs, arms and torso
 - Ninja gift – This building toy makes a great birthday gift for 7+ year old boys, girls and kids who are fans of the NINJAGO Dragons Rising TV show
-- 4 NINJAGO characters – Features Kai, Zane and Jordana NINJAGO minifigures, each with a sword element, plus a Wolf Mask Warrior minifigure
+- Build your own mech – NINJAGO fans can mix and match parts from this and other action figure toys (sets sold separately) to create their own mech
+- Posable LEGO mech – NINJAGO Kai’s mech has posable arms and legs that can be tilted and twisted into battle stances, and a big golden sword
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPLZ5{{</world>}}

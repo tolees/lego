@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eine Sammlung für Fans von Star Wars Sets: Entdecke neue Baumodelle, LEGO Figuren und Transporter zum Nachspielen galaktischer Szenen
-- Erlebe LEGO Star Wars The Clone Wars hautnah: Baue den MTT der Separatisten und erfinde Schlachten mit Lichtschwert und Taktik; LEGO Spielzeug für fantasievolle Rollenspiele
-- LEGO Star Wars Geschenkidee für Jungen und Mädchen ab 9 Jahren: Der Transporter aus diesem hochwertigen Set zum Spielen und Ausstellen ist ein Geschenk für Fans von Star Wars: The Clone Wars
 - Mit raffiniertem Mechanismus am LEGO Transporter: Dreh den Knauf und setze die Droiden in Bewegung für dein LEGO Diorama; freue dich auf jede Menge Bauspaß
-- Geschenk für Mädchen ab 9 Jahren: Das LEGO Spielset begeistert mit Details und Atmosphäre aus der Star Wars Welt; lass deiner Kreativität freien Lauf
-- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; in der App kann man beim Bauen beispielsweise eine digitale 3D-Version der Modelle vergrößern und drehen
 - Entdecke das ganze Sortiment: Separat erhältliche LEGO Star Wars Sets zum Sammeln lassen Kinder und erwachsene Star Wars Fans legendäre Szenen nachspielen, eigene Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
+- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; in der App kann man beim Bauen beispielsweise eine digitale 3D-Version der Modelle vergrößern und drehen
+- Erlebe LEGO Star Wars The Clone Wars hautnah: Baue den MTT der Separatisten und erfinde Schlachten mit Lichtschwert und Taktik; LEGO Spielzeug für fantasievolle Rollenspiele
+- Eine Sammlung für Fans von Star Wars Sets: Entdecke neue Baumodelle, LEGO Figuren und Transporter zum Nachspielen galaktischer Szenen
+- LEGO Star Wars Geschenkidee für Jungen und Mädchen ab 9 Jahren: Der Transporter aus diesem hochwertigen Set zum Spielen und Ausstellen ist ein Geschenk für Fans von Star Wars: The Clone Wars
+- Geschenk für Mädchen ab 9 Jahren: Das LEGO Spielset begeistert mit Details und Atmosphäre aus der Star Wars Welt; lass deiner Kreativität freien Lauf
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF9CLWZ{{</world>}}

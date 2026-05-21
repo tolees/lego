@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ACCESSORIES FOR PLAY AND DISPLAY – Each prehistoric animal figure comes with an accessory featuring a dinosaur skull and rib cage, a set of dinosaur eggs and a plant, for both play and display
-- ENDLESS PRETEND-PLAY OPTIONS – Kids can enjoy creative stories with 3 dinosaur figures (models cannot be built simultaneously): a Velociraptor toy, a Stegosaurus or Pterosaur
-- POSABLE DINOSAUR FIGURES – The Velociraptor in the building set has a posable jaw, head, arms, legs and tail; the Stegosaurus toy can move its tail, head and legs; and the Pterosaur has posable wings, head and feet
-- GIFT FOR KIDS – This LEGO Creator 3in1 set makes a cool birthday gift for 8+ year old boys and girls and over who love creative building toys and cool dinosaurs
 - 3in1 DINO TOY – The LEGO Creator Fierce Dinosaur toy for 8+ year old boys and girls lets kids get creative as they build and rebuild 3 dinosaur figures with the same LEGO bricks
+- ENDLESS PRETEND-PLAY OPTIONS – Kids can enjoy creative stories with 3 dinosaur figures (models cannot be built simultaneously): a Velociraptor toy, a Stegosaurus or Pterosaur
+- GIFT FOR KIDS – This LEGO Creator 3in1 set makes a cool birthday gift for 8+ year old boys and girls and over who love creative building toys and cool dinosaurs
 - MORE CREATIVE FUN – Enjoy even more building adventures with other sets (sold separately) from the extensive LEGO Creator 3in1 range
+- POSABLE DINOSAUR FIGURES – The Velociraptor in the building set has a posable jaw, head, arms, legs and tail; the Stegosaurus toy can move its tail, head and legs; and the Pterosaur has posable wings, head and feet
+- ACCESSORIES FOR PLAY AND DISPLAY – Each prehistoric animal figure comes with an accessory featuring a dinosaur skull and rib cage, a set of dinosaur eggs and a plant, for both play and display
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXD9B3S{{</world>}}

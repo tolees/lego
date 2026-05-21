@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Un universo de juegos ninja: Los juguetes LEGO NINJAGO transportan a los niños a un lugar de fantasía lleno de aventuras con sus héroes ninja favoritos
-- Pósters incluidos: Este set de construcción LEGO incluye pósters exclusivos que encantarán a los fans de NINJAGO, ya que añaden diversión y posibilidad de coleccionarlos a la experiencia de construcción
 - Decoración para el dormitorio ninja: Expón en tu habitación, como accesorio de escritorio o estantería, esta figura articulada del Caballero del Fuego con capa y lanza envuelto en una lucha contra un monstruo ancestral que emerge del mar
+- Un universo de juegos ninja: Los juguetes LEGO NINJAGO transportan a los niños a un lugar de fantasía lleno de aventuras con sus héroes ninja favoritos
+- Kit de maqueta de un meca NINJAGO: Los fans adolescentes de NINJAGO podrán ampliar su colección de maquetas para construir y figuras articuladas LEGO NINJAGO con el detalladísimo Meca Caballero del Fuego
+- Pósters incluidos: Este set de construcción LEGO incluye pósters exclusivos que encantarán a los fans de NINJAGO, ya que añaden diversión y posibilidad de coleccionarlos a la experiencia de construcción
 - Un fascinante regalo para fans de NINJAGO: Esta figura de acción articulada es una gran idea de regalo para chicos y chicas de 14 años o más y adolescentes fans de NINJAGO: Destino Monstruoso que quieran mostrar con orgullo su ADN de fan
 - 2 minifiguras LEGO NINJAGO: La maqueta incluye también a Kai con una espada, a quien puedes sentar dentro del pecho del meca, y un pescador con un remo en una barca para crear nuevas tramas
-- Kit de maqueta de un meca NINJAGO: Los fans adolescentes de NINJAGO podrán ampliar su colección de maquetas para construir y figuras articuladas LEGO NINJAGO con el detalladísimo Meca Caballero del Fuego
 - Figura articulada interactiva: Los fans de los ninja pueden quitar la maqueta de la base para interpretar historias de la serie NINJAGO: Destino Monstruoso entre el meca articulado y un monstruo con tentáculos móviles mediante el juego de rol
 
 [🛒 Check the deal!!]({{< param buyurl >}})

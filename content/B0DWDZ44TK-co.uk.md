@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gift for animal lovers – This LEGO 3in1 set offers a fun build-and-play experience and makes a cool birthday gift for 9+ year old boys and girls, fans of nature-inspired creative toys and tropical animal figures
-- LEGO Creator toys to build – 3in1 building sets (sold separately) let kids create 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
-- More 3in1 fun – Expand kids adventures with other creative building toys (sold separately) from the LEGO Creator 3in1 range
-- Posable animal figures – The toucan figure can move its beak, wings and tail feathers; the butterfly toy can move its wings; and the fish toy can move its fins and rotate 360 degrees on its stand
-- 3 building options in 1 box – The LEGO Creator 3in1 Wild Animals: Tropical Toucan building toy for 9+ year old girls and boys lets kids build and rebuild 3 animal figures using the same bricks
-- Kids’ bedroom decor display models – When playtime is over, each brick-built toy animal can be placed on its nature-inspired stand and displayed on a shelf or a bedside table
 - Endless play possibilities – Kids can dream up fun-filled stories with 3 different toy animals to build (models cannot be built simultaneously): a toucan LEGO bird toy, a butterfly or a fish toy
+- Kids’ bedroom decor display models – When playtime is over, each brick-built toy animal can be placed on its nature-inspired stand and displayed on a shelf or a bedside table
+- 3 building options in 1 box – The LEGO Creator 3in1 Wild Animals: Tropical Toucan building toy for 9+ year old girls and boys lets kids build and rebuild 3 animal figures using the same bricks
+- Posable animal figures – The toucan figure can move its beak, wings and tail feathers; the butterfly toy can move its wings; and the fish toy can move its fins and rotate 360 degrees on its stand
+- More 3in1 fun – Expand kids adventures with other creative building toys (sold separately) from the LEGO Creator 3in1 range
+- LEGO Creator toys to build – 3in1 building sets (sold separately) let kids create 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
+- Gift for animal lovers – This LEGO 3in1 set offers a fun build-and-play experience and makes a cool birthday gift for 9+ year old boys and girls, fans of nature-inspired creative toys and tropical animal figures
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDZ44TK{{</world>}}

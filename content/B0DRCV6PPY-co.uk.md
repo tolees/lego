@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO DREAMZzz range – Keep the imaginative play going with other LEGO DREAMZzz building toys (sold separately), including creative animal playsets, mech toys and interactive builds
-- Rebuildable vehicle model – LEGO DREAMZzz fans can build a colourful truck toy, then choose to customise it with either a giant spray can or a spray can rocket launcher for action-packed play
-- Be part of the action – Story-led building instructions encourage kids to immerse themselves in the dream-world adventure and are also available digitally in the LEGO Builder app
-- Truck toy for 9+ year old boys and girls – Drive creativity with the LEGO DREAMZzz Mateo’s Spray Paint Truck, a fantasy building set with 2 build options for imaginative, interactive play
-- Fantasy vehicle gift for kids – This building set makes a great gift for 9+ year old boys and girls who love creative toys, art-themed builds and LEGO DREAMZzz adventures
 - Interactive toy packed with details – Includes stud shooters, an opening cockpit and modular boosters that are compatible with other building sets (sold separately) in the 2025 LEGO DREAMZzz range
+- Be part of the action – Story-led building instructions encourage kids to immerse themselves in the dream-world adventure and are also available digitally in the LEGO Builder app
+- Rebuildable vehicle model – LEGO DREAMZzz fans can build a colourful truck toy, then choose to customise it with either a giant spray can or a spray can rocket launcher for action-packed play
+- Truck toy for 9+ year old boys and girls – Drive creativity with the LEGO DREAMZzz Mateo’s Spray Paint Truck, a fantasy building set with 2 build options for imaginative, interactive play
 - 5 LEGO minifigures – Mateo, Cooper, Mr. Oz, One and D-Shock, as well as an Albert figure and 2 Cyber Brain figures, bring the set to life and encourage imaginative role play
+- Fantasy vehicle gift for kids – This building set makes a great gift for 9+ year old boys and girls who love creative toys, art-themed builds and LEGO DREAMZzz adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DRCV6PPY{{</world>}}

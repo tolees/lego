@@ -30,11 +30,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Collectible LEGO Star Wars set – Recreate the TIE Interceptor’s distinctive wing design, detailed cockpit with an opening hatch and laser cannons
 - LEGO Star Wars gift – This premium-quality set makes an out-of-this-world Star Wars-themed gift for men, women, passionate Star Wars fans, advanced LEGO builders or collectors of LEGO Star Wars UCS sets
-- 3D instructions – Tackle this build with help the LEGO Builder app, which lets you zoom in and rotate a 3D digital version of the construction model
-- Buildable TIE Interceptor – Build a large-scale LEGO Star Wars UCS version of a TIE Interceptor, first seen in Star Wars: Return of the Jedi
 - A TIE Pilot and a Mouse Droid – This building set for adults includes a TIE Pilot LEGO Star Wars minifigure, plus a LEGO mouse droid figure
-- LEGO Star Wars sets for adults – From a galaxy far, far away to your home, LEGO Star Wars building sets for adults are designed for people like you who enjoy relaxing, creative activities
+- 3D instructions – Tackle this build with help the LEGO Builder app, which lets you zoom in and rotate a 3D digital version of the construction model
 - Made for display – Place your TIE Interceptor on the display stand, which has an information plaque and a LEGO Star Wars 25th-anniversary brick
+- Buildable TIE Interceptor – Build a large-scale LEGO Star Wars UCS version of a TIE Interceptor, first seen in Star Wars: Return of the Jedi
+- LEGO Star Wars sets for adults – From a galaxy far, far away to your home, LEGO Star Wars building sets for adults are designed for people like you who enjoy relaxing, creative activities
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH2DGNN{{</world>}}

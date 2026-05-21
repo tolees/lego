@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DIGITALE UNTERSTÜTZUNG BEIM BAUEN: Die LEGO Builder App begleitet Kinder mit einer intuitiven 3D-Anleitung, in der sie Modelle drehen, vergrößern und ihren Fortschritt jederzeit verfolgen können
 - RETTUNGSHUBSCHRAUBER SPIELZEUG FÜR KINDER AB 7 JAHREN: Mit dem LEGO City Hubschrauber der Küstenwache erleben Kinder spannende Rettungseinsätze auf See und tauchen in actionreiche Rollenspiele ein
+- STEM SPIELZEUG MIT FUNKTIONEN: Der Hubschrauber verfügt über drehbare Rotoren, seitliche Schiebetüren, eine funktionierende Seilwinde und eine Rettungskapsel, die sich öffnen lässt, um den Innenraum zu erkunden
+- DIGITALE UNTERSTÜTZUNG BEIM BAUEN: Die LEGO Builder App begleitet Kinder mit einer intuitiven 3D-Anleitung, in der sie Modelle drehen, vergrößern und ihren Fortschritt jederzeit verfolgen können
+- LEGO MINIFIGUREN ZUBEHÖR: Enthält ein Spielzeug Arztset, ein Fernglas, ein Walkie-Talkie und einen Rettungsring für viele spannende Rollenspiele und Rettungseinsätze
 - INTERAKTIVES SPIELZEUG FÜR KINDER: Das Spielset enthält einen Spielzeug Hubschrauber, aufklappbare Rettungskapsel, vier Minifiguren, darunter Pilot, Zivilperson und zwei Mitglieder der Küstenwache und Hai-Figur
 - LEGO GESCHENK FÜR KINDER: Der Hubschrauber der Küstenwache ist ein beliebtes Geschenk für Jungen und Mädchen ab 7 Jahren, die gern mit kreativem Spielzeug spielen
 - MEHR SPASS IN LEGO CITY: Das Flughafen-Set lässt sich mit weiteren separat erhältlichen LEGO City Sets kombinieren und erweitert so das Spielerlebnis um viele weitere spannende Geschichten
-- LEGO MINIFIGUREN ZUBEHÖR: Enthält ein Spielzeug Arztset, ein Fernglas, ein Walkie-Talkie und einen Rettungsring für viele spannende Rollenspiele und Rettungseinsätze
-- STEM SPIELZEUG MIT FUNKTIONEN: Der Hubschrauber verfügt über drehbare Rotoren, seitliche Schiebetüren, eine funktionierende Seilwinde und eine Rettungskapsel, die sich öffnen lässt, um den Innenraum zu erkunden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGSYZ1{{</world>}}

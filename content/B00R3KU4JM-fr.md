@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - La figurine nest pas détachable de la chaîne en métal
-- Porte-clés Lego Star Wars Yoda (2015) - 853449
 - LEGO Star Wars Yoda 2015 Mini figurine porte-clés 853449
+- Porte-clés Lego Star Wars Yoda (2015) - 853449
 - Dernière version du porte-clés LEGO Yoda (2015)
 - Dispose dune authentique figurine Lego Star Wars Yoda attachée à un anneau en métal robuste et à une chaîne. Attachez-la à vos clés ou sac à dos.
 

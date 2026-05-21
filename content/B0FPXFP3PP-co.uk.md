@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- FAMILY-BONDING ACTIVITY – Find step-by-step pictorial instructions in the box and check out the LEGO Builder app for digital viewing tools to make the build extra fun for kids
-- BUILD AND LEARN – Give young padawans a fun first build-and-play experience with LEGO Star Wars Grogu’s Homestead toy for 4+ year old boys and girls, based on Star Wars: The Mandalorian Season 1
-- STAR WARS GIFT FOR PRESCHOOL KIDS – This Star Wars: The Mandalorian building set makes a fun LEGO gift for 4+ year old boys and girls who love characters from the Star Wars galaxy
-- POSABLE GROGU FIGURE – Includes a movable head, arms and hands, plus 2 mini builds, a Sorgan frog, a catapult, a cooking pot, 2 tentacles, a marshmallow on a stick and 2 blue macaron elements
-- BUILD CREATIVITY – LEGO Star Wars 4+ sets introduce young kids to the Star Wars universe, helping them learn to build and develop their imaginations through creative play
 - KIDS ROOM DECOR – Once playtime is over, Grogu’s Homestead makes a cute Star Wars decoration for a child’s bedroom, perfect for displaying on a desk, bedside table or shelf
+- BUILD AND LEARN – Give young padawans a fun first build-and-play experience with LEGO Star Wars Grogu’s Homestead toy for 4+ year old boys and girls, based on Star Wars: The Mandalorian Season 1
+- POSABLE GROGU FIGURE – Includes a movable head, arms and hands, plus 2 mini builds, a Sorgan frog, a catapult, a cooking pot, 2 tentacles, a marshmallow on a stick and 2 blue macaron elements
+- FAMILY-BONDING ACTIVITY – Find step-by-step pictorial instructions in the box and check out the LEGO Builder app for digital viewing tools to make the build extra fun for kids
+- STAR WARS GIFT FOR PRESCHOOL KIDS – This Star Wars: The Mandalorian building set makes a fun LEGO gift for 4+ year old boys and girls who love characters from the Star Wars galaxy
+- BUILD CREATIVITY – LEGO Star Wars 4+ sets introduce young kids to the Star Wars universe, helping them learn to build and develop their imaginations through creative play
 - CATAPULT PLAY FEATURE – Kids can place the Sorgan frog on the catapult and launch it into the air to recreate fun moments from Star Wars: The Mandalorian
 
 [🛒 Check the deal!!]({{< param buyurl >}})

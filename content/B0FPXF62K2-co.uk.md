@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MARVEL STUDIOS’ GUARDIANS OF THE GALAXY – The LEGO Marvel figure has a detonator with 2 buttons and 2 levers, so kids can relive movie scenes and create imaginative adventures of their own
-- GROOT FIGURE BUILDING SET – Bring the lovable Super Hero to life with LEGO Marvel Ravager Jumpsuit Groot, a highly posable building toy for 10+ year old boys and girls
-- A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
-- BUILDING SETS FOR SUPER HERO FANS – Transport kids into imaginative, hands-on adventures featuring a cast of iconic characters and action-packed scenes from Marvel movies
 - PLAY-AND-DISPLAY – Put dynamic fun into kids’ hands with fully articulated shoulders, arms, fingers, legs, feet and neck, plus adjustable eyebrows for varied facial expressions
+- MARVEL STUDIOS’ GUARDIANS OF THE GALAXY – The LEGO Marvel figure has a detonator with 2 buttons and 2 levers, so kids can relive movie scenes and create imaginative adventures of their own
 - MARVEL GIFT IDEA – This versatile LEGO Marvel Baby Groot building toy makes a great birthday gift for 10+ year old boys, girls and Guardians of the Galaxy Vol. 2 fans
+- BUILDING SETS FOR SUPER HERO FANS – Transport kids into imaginative, hands-on adventures featuring a cast of iconic characters and action-packed scenes from Marvel movies
+- A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
+- GROOT FIGURE BUILDING SET – Bring the lovable Super Hero to life with LEGO Marvel Ravager Jumpsuit Groot, a highly posable building toy for 10+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXF62K2{{</world>}}

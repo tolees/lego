@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MORE EPIC MOMENTS – This building set is part of the LEGO Marvel Epic Moment Collection (sold separately), eye-catching recreations of spectacular scenes from the Marvel Universe
-- SUPER HERO PLAY AND DISPLAY – Put the LEGO Marvel model on display, or detach the minifigures and Hulkbuster armour from the base of the building toy to explore endless play possibilities
 - THE HULK AND IRON MAN BUILDING SET – Bring battle action from Avengers: Age of Ultron to life with the LEGO Marvel Epic Battle: Hulkbuster vs. The Hulk toy for 9+ year old boys and girls
 - BATTLE ACTION ACCESSORIES – Set amid a street environment complete with debris and collapsing steel structures, movie-accurate accessories include a traffic light that Hulk can use as a weapon
-- A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
-- AVENGERS GIFT IDEA – Put epic action into kids’ hands with this model kit, which makes a great Marvel-themed birthday gift for 9+ year old boys and girls who are fans of Super Hero building toys
 - MECH AND 2 MINIFIGURES – This building set features Hulk and Iron Man LEGO Marvel minifigures and a fully articulated Hulkbuster mech toy, inspiring kids’ imaginations through Super Hero role play
+- AVENGERS GIFT IDEA – Put epic action into kids’ hands with this model kit, which makes a great Marvel-themed birthday gift for 9+ year old boys and girls who are fans of Super Hero building toys
+- A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
+- SUPER HERO PLAY AND DISPLAY – Put the LEGO Marvel model on display, or detach the minifigures and Hulkbuster armour from the base of the building toy to explore endless play possibilities
+- MORE EPIC MOMENTS – This building set is part of the LEGO Marvel Epic Moment Collection (sold separately), eye-catching recreations of spectacular scenes from the Marvel Universe
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFWSHG{{</world>}}

@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Fine motor skills toy for preschool kids – This toy for 2+ year olds comes with child and pilot DUPLO figures, plus a LEGO DUPLO teddy bear, giving toddlers different characters to role play
-- Preschool learning toy – This educational toddler toy helps families explore preschoolers feelings about flying while supporting logical thinking and fine motor skill development
-- LEGO DUPLO airport gift for toddlers – This toddler toy for 2+ year old boys makes a fun birthday or special occasion gift for preschoolers who love imaginative play, building bricks and vehicle toys
 - Learn through play – Check out the LEGO DUPLO Town Ambulance & Driver and First Time: Visit with the Doctor pretend-play toys (sold separately) to explore more first time experiences
-- DUPLO bricks for imaginative travel play – This airport toy set inspires creative play as toddlers scan luggage, send it down the chute or role-play flight control in the tower
+- Preschool learning toy – This educational toddler toy helps families explore preschoolers feelings about flying while supporting logical thinking and fine motor skill development
 - Airport playset sparks imaginative fun – First Time at the Airport is a toddler learning toy featuring a plane toy with a removable roof to help preschoolers explore travel, emotions and storytelling
+- LEGO DUPLO airport gift for toddlers – This toddler toy for 2+ year old boys makes a fun birthday or special occasion gift for preschoolers who love imaginative play, building bricks and vehicle toys
+- DUPLO bricks for imaginative travel play – This airport toy set inspires creative play as toddlers scan luggage, send it down the chute or role-play flight control in the tower
 - Carefully crafted learning toys for curious preschoolers – LEGO DUPLO building bricks feature fun stories and everyday heroes to help toddlers make sense of the world around them
 
 [🛒 Check the deal!!]({{< param buyurl >}})

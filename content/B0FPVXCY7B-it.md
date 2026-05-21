@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Disney Winnie the Pooh - Kit di Modellismo per Adulti - Decorazione di Casa con Vaso di Miele Minifigure da Collezione e Personaggio di Ih-Oh - Idea Regalo Fai da Te per i Fan - 43300'
-date: 2026-03-13 09:10:29
+date: 2026-05-20 14:36:10
 image: 'https://m.media-amazon.com/images/I/51u8YvBlJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPVXCY7B/?tag=tolees00-21'
 descuento: '20.00'
-average: '129.74'
+average: '126.49'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- RICORDI INDELEBILI: il vaso di miele apribile include 2 api; al suo interno ci sono due stanze nascoste con la minifigure LEGO di Winnie the Pooh, la figura di Ih-Oh e molto altro
-- COSTRUISCI ED ESPONI: questa costruzione, parte della gamma LEGO Disney da esposizione (altri set disponibili separatamente), è pensata per i collezionisti e i fan adulti, e può essere abbinata al set Il Divertente Compleanno di Pimpi (43305)
 - POSIZIONI CREATIVE: metti in posa lorsetto girando la testa, muovendo le orecchie, sollevando le braccia e ruotando le mani, e crea una decorazione per la casa fai da te ricca di effetto
 - KIT DI MODELLISMO LEGO DA COLLEZIONE: festeggia il 100° compleanno di Winnie the Pooh con questo set da costruire LEGO Disney per adulti, che celebra un iconico personaggio amato da tutti
+- COSTRUISCI ED ESPONI: questa costruzione, parte della gamma LEGO Disney da esposizione (altri set disponibili separatamente), è pensata per i collezionisti e i fan adulti, e può essere abbinata al set Il Divertente Compleanno di Pimpi (43305)
 - DAL BOSCO DEI CENTO ACRI: include laction figure del personaggio Disney di Winnie the Pooh in mattoncini, un vasetto di miele costruibile con sorprese nascoste, oltre a due piccole figure da scoprire
 - REGALO PER I FAN DEI FILM DISNEY: un set LEGO da esposizione ottimo come idea regalo per un uomo o una donna fan dei gadget Disney e di Winnie the Pooh, con cui festeggiare un compleanno o unoccasione speciale
+- RICORDI INDELEBILI: il vaso di miele apribile include 2 api; al suo interno ci sono due stanze nascoste con la minifigure LEGO di Winnie the Pooh, la figura di Ih-Oh e molto altro
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPVXCY7B{{</world>}}

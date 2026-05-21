@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Enthält 4 Harry Potter Charaktere: Das Set beinhaltet die Minifiguren Harry Potter und Ron Weasley sowie die Figuren Hedwig und Krätze, die man in den Zug setzen kann
 - Zauberhaftes Geschenk für Harry Potter Fans: Das Bauspielzeug ist ein fantastisches Geschenk für Jungen und Mädchen sowie für Zauberer, Hexen und Muggel ab 10 Jahren
+- Entdecke weitere Sets: Dieses Set gehört zu einer ganzen Reihe von LEGO Harry Potter Spielzeugen, die Fans legendäre Szenen nachstellen, eigene magische Geschichten darstellen oder die fertigen Modelle einfach nur ausstellen lassen
+- Zauberhafte Buchstütze als Spielzeug: Die allererste LEGO Harry Potter Buchstütze besteht aus der baubaren Lok und einem baubaren Wagen des Hogwarts Express und ist ein magischer Hingucker zwischen deinen Büchern
+- Enthält 4 Harry Potter Charaktere: Das Set beinhaltet die Minifiguren Harry Potter und Ron Weasley sowie die Figuren Hedwig und Krätze, die man in den Zug setzen kann
 - Cooles Harry Potter Sammlerstück: Baue einen Teil vom Hogwarts Express und das legendäre Gleis 9¾ im Londoner Bahnhof King’s Cross und setze Harry, Ron und ihre Tiere in den Zug
 - Anpassbares Ausstellungsstück: Öffne das Modell, um besser am Bahnsteig spielen zu können; Die seitlichen Ausschnitte bieten leichten Zugang zu den Abteilen; Zusammengeklappt passt das Modell zwischen Bücher; Geteilt erhältst du 2 Buchstützen
-- Zauberhafte Buchstütze als Spielzeug: Die allererste LEGO Harry Potter Buchstütze besteht aus der baubaren Lok und einem baubaren Wagen des Hogwarts Express und ist ein magischer Hingucker zwischen deinen Büchern
-- Entdecke weitere Sets: Dieses Set gehört zu einer ganzen Reihe von LEGO Harry Potter Spielzeugen, die Fans legendäre Szenen nachstellen, eigene magische Geschichten darstellen oder die fertigen Modelle einfach nur ausstellen lassen
 - Intuitive Anleitung: Die LEGO Builder App nimmt dein Kind auf ein intuitives kreatives Abenteuer mit; Coole Funktionen lassen Kinder 3D-Ansichten der Modelle vergrößern und drehen, Sets speichern und ihren Baufortschritt verfolgen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
