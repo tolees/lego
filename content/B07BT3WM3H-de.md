@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'LEGO DUPLO Eisenbahntunnel und Schienen – Erweiterungsset - Lernspielzeug für Kleinkinder – 10-teilige Bahnstrecke mit Trichter und Weiche – Geschenk für Jungen & Mädchen ab 2 Jahren - 10425'
+date: 2026-06-23 23:32:35
+image: 'https://m.media-amazon.com/images/I/51nK1eIZ1PL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07BT3WM3H-de LEGO DUPLO Eisenbahntunnel und Schienen – Erweiterungsset...'
+sku: 'B07BT3WM3H-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
+comparePrice: 19.99 EUR
+prodname: 'LEGO DUPLO Eisenbahntunnel und Schienen – Erweiterungsset - Lernspielzeug für Kleinkinder – 10-teilige Bahnstrecke mit Trichter und Weiche – Geschenk für Jungen & Mädchen ab 2 Jahren - 10425'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B07BT3WM3H/?tag=tolees0ca-21'
+descuento: '35.02'
+average: '13.04'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- KLEINKIND SPIELZEUG IN DUPLO QUALITÄT: Die Bauteile sind extra groß, robust und auf Sicherheit geprüft – für kleine Hände und große Abenteuer
+- SCHIENEN ERWEITERUNG FÜR INTERAKTIVE DUPLO ZÜGE: Gut kombinierbar mit den Sets 10427 und 10428 – so wächst das Eisenbahnnetz ganz nach Wunsch mit und lädt zu immer neuen Strecken ein
+- GESCHENK FÜR JUNGEN UND MÄDCHEN AB 2 JAHREN: Ob zum Geburtstag oder als kleine Belohnung zwischendurch – das Zubehörset macht jede DUPLO Eisenbahn noch spannender
+- MOTORIKSPIELZEUG MIT SPIELERISCHEM LERNEFFEKT: Kinder ab 2 Jahren verbessern beim Bauen und Spielen mit der Bahn Feinmotorik, Geduld und Problemlösungsfähigkeiten - ganz ohne Druck
+- MONTESSORI SPIELZEUG FÜR EISENBAHN-FANS AB 2 JAHREN: Das LEGO DUPLO Eisenbahntunnel und Schienen Erweiterungsset erweitert die Welt kleiner Lokführer um viele neue Spiel- und Lernmöglichkeiten
+- DUPLO EISENBAHN SET MIT VIELEN TEILEN: Mit 10 Schienensegmenten, Weiche, Tunnel, Trichter und einem Aktionsstein bietet das Set zusätzliche Streckenteile für kreative Zugabenteuer
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B07BT3WM3H{{</world>}}
