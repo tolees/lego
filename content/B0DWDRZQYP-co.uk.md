@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - ONE PIECE pirate toy – Kids bring ONE PIECE adventures to life with this Windmill Village Hut building kit, a LEGO building toy for 8+ year old boys, girls and fans
-- Authentic elements – There is a ‘Wanted’ poster included in the set, plus the side panel of the hut can hold all 8 different Wanted posters that can be collected from other sets (sold separately)
 - Creative toy – Kids can remove the roof of the beachside shop to access a fun-filled interior and cross the jetty to set sail in a pirate boat toy
 - LEGO ONE PIECE collectibles – LEGO ONE PIECE toys put the Netflix show’s characters, locations and exciting adventures into the hands of young fans
-- Anime gift for fans – This LEGO ONE PIECE toy featuring a fun location and iconic characters makes a great birthday gift for 8+ year old boys, girls and older fans
 - Fun characters – The building set includes LEGO ONE PIECE minifigures of Luffy with his hat, Shanks and Makino - 3 well-known characters from the Netflix show, plus a Devil Fruit and more accessories
+- Authentic elements – There is a ‘Wanted’ poster included in the set, plus the side panel of the hut can hold all 8 different Wanted posters that can be collected from other sets (sold separately)
+- Anime gift for fans – This LEGO ONE PIECE toy featuring a fun location and iconic characters makes a great birthday gift for 8+ year old boys, girls and older fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDRZQYP{{</world>}}

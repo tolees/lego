@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- CASTILLO DE HOGWARTS DE JUGUETE: Vive las trepidantes aventuras con el juguete de construcción LEGO Harry Potter Castillo de Hogwarts: Ala de Enfermería para niños, niñas y fans mayores de 9 años
-- REGALO INFANTIL: Este juguete de construcción LEGO Harry Potter es un regalo de cumpleaños mágico para niñas y niños mayores de 9 años y fans del universo de los magos
-- COLECCIONABLES LEGO HARRY POTTER: Los modelos que construyes con este kit pertenecen a una serie de sets modulares (a la venta por separado) que, juntos, crean la escena del Castillo de Hogwarts construida con ladrillos más detallada hasta ahora
-- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar sets y consultar su progreso, podrán acercar y girar sus modelos usando las instrucciones 3D
-- MAQUETA DE 3 NIVELES: Explora el edificio de Harry Potter con 3 niveles, que incluye el el aula de Defensa Contra las Artes Oscuras (desmontable) en el nivel inferior, el Ala de Enfermería y la sala común de Ravenclaw
 - DETALLES Y ACCESORIOS: Busca el Patronus lobo, perteneciente a la colección de Patronus del 25º aniversario de LEGO Harry Potter (en sets a la venta por separado) y 2 de los 14 retratos coleccionables de Hogwarts
+- MAQUETA DE 3 NIVELES: Explora el edificio de Harry Potter con 3 niveles, que incluye el el aula de Defensa Contra las Artes Oscuras (desmontable) en el nivel inferior, el Ala de Enfermería y la sala común de Ravenclaw
+- CASTILLO DE HOGWARTS DE JUGUETE: Vive las trepidantes aventuras con el juguete de construcción LEGO Harry Potter Castillo de Hogwarts: Ala de Enfermería para niños, niñas y fans mayores de 9 años
+- COLECCIONABLES LEGO HARRY POTTER: Los modelos que construyes con este kit pertenecen a una serie de sets modulares (a la venta por separado) que, juntos, crean la escena del Castillo de Hogwarts construida con ladrillos más detallada hasta ahora
 - 7 MINIFIGURAS LEGO HARRY POTTER: Los personajes de Harry Potter Remus Lupin, Ron Weasley, un Dementor, Harry Potter, Hermione Granger, Penelope Clearwater y la Dama Gris
+- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar sets y consultar su progreso, podrán acercar y girar sus modelos usando las instrucciones 3D
+- REGALO INFANTIL: Este juguete de construcción LEGO Harry Potter es un regalo de cumpleaños mágico para niñas y niños mayores de 9 años y fans del universo de los magos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXCK2QL{{</world>}}

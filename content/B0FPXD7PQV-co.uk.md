@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- GIFT IDEA FOR KIDS – This LEGO Technic building toy makes a fun birthday gift for 7+ year old boys and girls who love Monster Jam and pull-back vehicles
+- DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
+- ENCOURAGES CREATIVE PLAY – With this building set, kids can create their own epic Monster Jam events and adventures as they play with their truck toy
+- MONSTER TRUCK TOY WITH PULL-BACK ACTION – Pull the truck toy back, then release it to recreate the thrills of the Monster Jam arena with exciting tricks and stunts
 - MONSTER JAM TOY – The LEGO Technic Monster Jam Sparkle Smash Pull-Back truck toy for 7+ year old boys and girls offers hours of play for kids who enjoy monster trucks and unicorn toys
 - UNICORN DETAILS – This Monster Jam car model features authentic design details like the sparkling stars and iconic unicorn horn inspired by the real Monster Jam Sparkle Smash truck
-- MONSTER TRUCK TOY WITH PULL-BACK ACTION – Pull the truck toy back, then release it to recreate the thrills of the Monster Jam arena with exciting tricks and stunts
-- GIFT IDEA FOR KIDS – This LEGO Technic building toy makes a fun birthday gift for 7+ year old boys and girls who love Monster Jam and pull-back vehicles
-- ENCOURAGES CREATIVE PLAY – With this building set, kids can create their own epic Monster Jam events and adventures as they play with their truck toy
-- DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXD7PQV{{</world>}}

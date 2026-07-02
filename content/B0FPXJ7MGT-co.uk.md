@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- GIFT IDEA FOR ADULTS – The detailed LEGO Paris set is a great architecture gift for men and women who love travel, history and the City of Love
+- ICONIC PARIS LANDMARKS SET – Embrace your love of travel and art with this detailed LEGO Architecture Paris – City of Love building set for adults
+- 3D INSTRUCTIONS – Get ready to build like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set
+- STANDING OR HANGING 3D WALL ART – Recreate the Eiffel Tower, Notre-Dame de Paris, the Arc de Triomphe and the Louvre, with a starlit city background in a frame, to hang up or stand on a shelf
 - EXPLORE PARIS IN DETAIL – This LEGO home decor set features 4 Paris architecture icons amid a city background and sky full of stars, framed in white bricks
 - LEGO ARCHITECTURE SETS – This model kit is part of a collection of building sets (each sold separately) for women, men and adults like you who enjoy hands-on creative activities
 - BUILD AND DISPLAY – This model kit for adults lets you build the framed artwork, attach the decorated City of Love brick to the front and display it as wall decor anywhere
-- ICONIC PARIS LANDMARKS SET – Embrace your love of travel and art with this detailed LEGO Architecture Paris – City of Love building set for adults
-- STANDING OR HANGING 3D WALL ART – Recreate the Eiffel Tower, Notre-Dame de Paris, the Arc de Triomphe and the Louvre, with a starlit city background in a frame, to hang up or stand on a shelf
-- 3D INSTRUCTIONS – Get ready to build like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set
+- GIFT IDEA FOR ADULTS – The detailed LEGO Paris set is a great architecture gift for men and women who love travel, history and the City of Love
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXJ7MGT{{</world>}}

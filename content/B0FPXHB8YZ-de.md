@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- REITERHOF SPIELSET: Kinder können in stundenlangen Spielspaß galoppieren mit diesem LEGO Friends Pferdestall und Reitschule Spielzeug für Mädchen und Jungen ab 7 Jahren
 - PFERDE ZUBEHÖR: Unzählige Details lassen Kinder fantasievoll spielen, zum Beispiel eine Pferdedecke, Hindernisse, eine Schubkarre, Heukisten, eine Karotte, ein Whiteboard, Pokale, eine Waschstation und Betten
-- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
+- 3 MINI PUPPEN UND 4 TIERFIGUREN: Enthält die LEGO Friends kleine Puppen Liann, Aliya und Reitlehrerin Cindy sowie zwei Spielzeug Pferde mit Sätteln, eine Hundefigur und eine Katzenfigur
 - GESCHENK FÜR MÄDCHEN UND JUNGEN AB 7 JAHREN: Dieses LEGO Friends Bauset bietet ein spielerisches Erlebnis für naturbegeisterte Kinder und ist ein Geschenk zu Geburtstagen oder anderen Anlässen
 - REITGESCHICHTEN DARSTELLEN: Das Bauernhof Spielzeug beinhaltet ein Hauptgebäude mit 2 Pferdeställen und 2 Schiebetüren zum Unterrichtsraum, dazu einen Nebenbau mit Zubehör und 2 Hindernisse zum Springen
-- 3 MINI PUPPEN UND 4 TIERFIGUREN: Enthält die LEGO Friends kleine Puppen Liann, Aliya und Reitlehrerin Cindy sowie zwei Spielzeug Pferde mit Sätteln, eine Hundefigur und eine Katzenfigur
+- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
 - ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- REITERHOF SPIELSET: Kinder können in stundenlangen Spielspaß galoppieren mit diesem LEGO Friends Pferdestall und Reitschule Spielzeug für Mädchen und Jungen ab 7 Jahren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXHB8YZ{{</world>}}

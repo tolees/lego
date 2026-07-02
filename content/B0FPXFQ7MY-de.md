@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - GESCHENK FÜR KINDER AB 7 JAHREN: Dieses LEGO Technic Bauset ist eine tolle Geschenkidee für Kinder, die Monster Jam lieben und Spaß daran haben, ihr eigenes Rennfahrzeug zusammenzubauen
-- KINDERZIMMER DEKO: Der LEGO Grave Digger ist auf einer Seite mit Flammen und auf der anderen mit eisblauen Details gestaltet und begeistert als auffälliger Blickfang im Kinderzimmer
 - KREATIVES SPIELZEUG FÜR ROLLENSPIELE: Kinder schicken ihren Monstertruck in selbst erfundene Rennen oder denken sich Geschichten rund um das berühmte Monster Jam Event aus und fördern so ihre Fantasie
 - MONSTERTRUCK MIT RÜCKZIEHMOTOR: Mit dem LEGO Technic Monster Jam Grave Digger Feuer und Eis erleben Jungen und Mädchen ab 7 Jahren actionreichen Spielspaß mit einem robusten Spielzeugauto zum Selberbauen
+- KINDERZIMMER DEKO: Der LEGO Grave Digger ist auf einer Seite mit Flammen und auf der anderen mit eisblauen Details gestaltet und begeistert als auffälliger Blickfang im Kinderzimmer
 - SPIELZEUG MIT FAHRFUNKTION: Dank Rückziehmotor flitzt der Monstertruck über den Boden und lässt Kinder waghalsige Stunts aus der Monster Jam Arena mit ihrem eigenen Konstruktionsspielzeug nachspielen
 - WEITERE TECHNIKMODELLE ENTDECKEN: Die separat erhältlichen LEGO Technic Sets mit authentischen Mechaniken bieten jungen Modellbau Fans immer neue Möglichkeiten zum Lernen und Bauen
 - DIGITALES BAUABENTEUER: Mit der LEGO Builder App können Kinder Baufortschritte speichern, Modelle in 3D drehen und vergrößern und beim Spielen ein noch intensiveres Bauerlebnis genießen

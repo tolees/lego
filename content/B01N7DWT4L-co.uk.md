@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - CUTE ANIMAL TOYS – The building set includes 2 LEGO DUPLO owl figures, 2 tactile opening eggs and a toy tree house with a hinged window
-- TREE HOUSE TOY – Sharpen skills and grow imaginations with the LEGO DUPLO My First Balancing & Stacking Tree toddler learning toy 1.5+ year old girls and boys
-- FOR CREATIVE PLAY – Helps develop fine motor skills, creativity and perseverance as toddlers build and rebuild this LEGO DUPLO building set
-- DIGITAL INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this educational toy, which has been tested to ensure a safe play experience
 - STACKING TOYS – Toddlers use problem-solving skills to place the elements and make the tree house balance, or match the owls to their coloured eggs
+- DIGITAL INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this educational toy, which has been tested to ensure a safe play experience
+- FOR CREATIVE PLAY – Helps develop fine motor skills, creativity and perseverance as toddlers build and rebuild this LEGO DUPLO building set
+- TREE HOUSE TOY – Sharpen skills and grow imaginations with the LEGO DUPLO My First Balancing & Stacking Tree toddler learning toy 1.5+ year old girls and boys
 - GIFT FOR TODDLERS – This LEGO DUPLO nature toy makes a great birthday gift for 1.5+ year old girls and boys who love animals and colourful toys
 
 [🛒 Check the deal!!]({{< param buyurl >}})

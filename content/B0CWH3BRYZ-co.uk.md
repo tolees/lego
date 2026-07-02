@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Luigi, Kamek, Boo and Pink Baby Yoshi toy figures
-- Defeat the Boo hiding in the tree and ‘eat’ the fruit
 - LEGO Luigi toy playset for interactive adventures in a poisoned garden
+- Defeat the Boo hiding in the tree and ‘eat’ the fruit
+- LEGO Luigi, Kamek, Boo and Pink Baby Yoshi toy figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3BRYZ{{</world>}}

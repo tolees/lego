@@ -30,10 +30,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - GESCHENK FÜR KINDER: Dieses LEGO Set bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder ab 4 Jahren, denn dieses Spielzeug weckt ihre Fantasie und bringt ihnen bei, wie man Geschichten darstellt
 - EINFÜHRUNG INS BAUEN MIT LEGO STEINEN: LEGO Spielsets bringen Kindern bei, wie man Modelle baut; der Rest der Familie kann bei diesem Spaß gern mitmachen
+- MODELLBAU MIT AUSRÜSTUNG: Schwerter, Speer, Klauen, das Actionspielzeug enthält austauschbare Ausrüstung für kreative Geschichten rund um die mutigen NINJAGO Helden
 - SPIELZEUG MIT BEWEGLICHEN MECHS: Beide Mech Figuren haben bewegliche Gliedmaßen und ein aufklappbares Cockpit, damit kleine Kinder mit den Figuren spannende Ninja-Posen nachspielen können
 - KINDERSPIELZEUG MIT FIGUREN: Die Minifiguren Jay und das Mutationsmonster aus der Serie Aufstieg der Drachen ermöglichen Rollenspiele rund um den ewigen Kampf zwischen Gut und Böse
 - NOCH MEHR NINJA-ABENTEUER: Schau dir noch weitere separat erhältliche LEGO Ninja Spielsets mit detailreichen Drachen, Mechs, Tempeln und Fahrzeugen an
-- MODELLBAU MIT AUSRÜSTUNG: Schwerter, Speer, Klauen, das Actionspielzeug enthält austauschbare Ausrüstung für kreative Geschichten rund um die mutigen NINJAGO Helden
 - LEGO SET FÜR KINDER AB 4 JAHREN: Mit dem LEGO NINJAGO Set Duell mit Jays Drachen-Mech (71853) lernen Kinder ab 4 Jahren spielerisch das Modellbauen und erleben Actionduelle aus NINJAGO Aufstieg der Drachen
 
 [🛒 Buy it!!]({{< param buyurl >}})

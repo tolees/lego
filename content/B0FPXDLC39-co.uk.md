@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - RACE CAR TOY FOR KIDS – LEGO NINJAGO 2in1 Jay’s Transforming Car toy for 8+ year old boys and girls lets kids play out fast-paced action from season 4 of the Dragons Rising TV show
-- DIGITAL GUIDE – Let the LEGO Builder app guide kids on an intuitive adventure, where they can save sets, track progress and zoom in and rotate models in 3D
+- GIFT IDEA FOR KIDS – This LEGO building set provides an action-packed play experience and is a great birthday gift for 8+ year old boys and girls with a passion for cars and adventure
 - A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
+- DIGITAL GUIDE – Let the LEGO Builder app guide kids on an intuitive adventure, where they can save sets, track progress and zoom in and rotate models in 3D
+- FUN FEATURES – Jay’s Transforming Car model also features a spring-loaded shooter with 2 darts, which can be detached and placed on a small plant-covered side build for kids to play out battles
 - 2 in 1 VEHICLE – Kids have the choice to enjoy action with two different versions, regular mode or flipping the front for dragon mode, which reveals a golden dragon head and claws, plus rotating shurikens
 - 5 LEGO NINJAGO MINIFIGURES – Ninja toy comes with Jay, Nya, Dragon Form Kai, the villainous Earth Monster and Loyalist Leader, plus sword and shuriken weapon accessories
-- FUN FEATURES – Jay’s Transforming Car model also features a spring-loaded shooter with 2 darts, which can be detached and placed on a small plant-covered side build for kids to play out battles
-- GIFT IDEA FOR KIDS – This LEGO building set provides an action-packed play experience and is a great birthday gift for 8+ year old boys and girls with a passion for cars and adventure
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDLC39{{</world>}}

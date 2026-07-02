@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- PLAY AND DISPLAY FUN – Build Olaf the snowman and a salamander figure of Bruni with violet flames; add a cosy picnic blanket & colourful leaves to the display
+- CUTE BRICK-BUILT DISNEY FIGURES – Surprise both young and nostalgic Frozen fans with this LEGO Disney Olaf and Brunis Picnic Fun toy for 7+ year old girls and boys
 - RECREATE FAVOURITE DISNEY MOMENTS – Tell adorable stories and customise this set with a cup of hot chocolate, marshmallows on a bonfire stick and a decorative snowflake
 - DISNEY FROZEN GIFT FOR KIDS AND FANS – This fun building set featuring 2 lovable characters makes a great special occasion or birthday gift for 7+ year old girls, boys and teenage fans
-- CUTE BRICK-BUILT DISNEY FIGURES – Surprise both young and nostalgic Frozen fans with this LEGO Disney Olaf and Brunis Picnic Fun toy for 7+ year old girls and boys
 - INTERACTIVE FUN – The LEGO Builder app helps your child build independently with tools that let them zoom in, rotate sets, track progress and save them in one place
-- PLAY AND DISPLAY FUN – Build Olaf the snowman and a salamander figure of Bruni with violet flames; add a cosy picnic blanket & colourful leaves to the display
 - DIY KIDS ROOM DECOR – Olaf and Bruni can be proudly displayed on a desk or a shelf, making a delightful addition to any child’s bedroom decor
 
 [🛒 Check the deal!!]({{< param buyurl >}})

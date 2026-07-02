@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- STANDS WITH ACCESSORIES – All 3 models can be displayed on a stand, plus the hummingbird and butterfly come with flowers and the tropical fish comes with colourful underwater plants
-- KIDS CRAFTS WITH FUN FEATURES – The hummingbird is in a dynamic flying pose and its neck, wings and tail can move, while the butterflys wings can be moved
-- MORE CREATIVE FUN – Enjoy even more building adventures with other sets (sold separately) from the extensive LEGO Creator 3in1 range
 - ENDLESS PRETEND-PLAY OPTIONS – Kids can enjoy fun-filled stories with 3 animal toys (models cannot be built simultaneously): a hummingbird, butterfly or tropical fish
-- GIFT FOR KIDS – This LEGO Creator 3in1 set makes a cute birthday gift for 8+ year old girls and boys who love animals, creative toys and imaginative play
+- MORE CREATIVE FUN – Enjoy even more building adventures with other sets (sold separately) from the extensive LEGO Creator 3in1 range
+- KIDS CRAFTS WITH FUN FEATURES – The hummingbird is in a dynamic flying pose and its neck, wings and tail can move, while the butterflys wings can be moved
 - 3in1 NATURE TOYS – The LEGO Creator Wild Animals: Colourful Hummingbird toy for 8+ year old girls and boys lets kids build and rebuild 3 animal figures on stands with the same LEGO bricks
+- GIFT FOR KIDS – This LEGO Creator 3in1 set makes a cute birthday gift for 8+ year old girls and boys who love animals, creative toys and imaginative play
+- STANDS WITH ACCESSORIES – All 3 models can be displayed on a stand, plus the hummingbird and butterfly come with flowers and the tropical fish comes with colourful underwater plants
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXJT7BW{{</world>}}

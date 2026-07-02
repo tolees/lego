@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO BATMAN MINIFIGURE – Includes a commemorative armoured Batman minifigure with a fabric cape, plus a golden coin built into the Batmobile cockpit
+- RECREATE MOVIE ACTION – This replica Batmobile toy car from BATMAN V SUPERMAN features a front-mounted, non-functioning shooter, opening cockpit and headlight details depicted with graphic stickers
 - DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 - BATMOBILE CAR TOY – Celebrate the 20th anniversary of LEGO DC Batman with the Batman v Superman Batmobile collectible Superhero toy for 9+ year old boys and girls
-- BATMAN GIFT FOR KIDS – This LEGO DC set makes a great birthday gift for 9+ year old boys, girls, as well as older fans of LEGO building and Superhero model kits
+- LEGO BATMAN MINIFIGURE – Includes a commemorative armoured Batman minifigure with a fabric cape, plus a golden coin built into the Batmobile cockpit
 - MORE LEGO DC – Inspire endless imaginative, play-and-display fun with the extensive range of LEGO DC building sets for fans of all ages
 - DIGITAL UNLOCK FEATURE – Redeem the Batman v Superman Batmobile and a golden variant in the LEGO Batman - Legacy of the Dark Knight video game; scan the QR code on the instructions and follow the directions.
-- RECREATE MOVIE ACTION – This replica Batmobile toy car from BATMAN V SUPERMAN features a front-mounted, non-functioning shooter, opening cockpit and headlight details depicted with graphic stickers
+- BATMAN GIFT FOR KIDS – This LEGO DC set makes a great birthday gift for 9+ year old boys, girls, as well as older fans of LEGO building and Superhero model kits
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFHX1B{{</world>}}

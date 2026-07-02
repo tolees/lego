@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - TOY FOOD ACCESSORIES – Role-play elements to feed young imaginations include a menu card, doughnuts, cookies, milk, cups and a bone, plus hats for the characters and their pets
-- GIFT FOR PET LOVERS – This kids’ dog bakery building set makes a fun anytime treat or birthday gift for 6+ year old girls and boys who love cute animals
-- DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
-- 2 LEGO MINI DOLLS AND 4 ANIMAL FIGURES – Comes with Aliya and Sage mini dolls plus 4 toy pet dogs and lots of fun animal-friendly details like a pet door, treats, fun signage and a pet carrier
-- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 - PLAY OUT PET STORIES – The animal playset includes a bakery with an oven, coffee machine, refrigerator, seating and a ramp to the counter, so the pups can help serve customers
+- 2 LEGO MINI DOLLS AND 4 ANIMAL FIGURES – Comes with Aliya and Sage mini dolls plus 4 toy pet dogs and lots of fun animal-friendly details like a pet door, treats, fun signage and a pet carrier
+- GIFT FOR PET LOVERS – This kids’ dog bakery building set makes a fun anytime treat or birthday gift for 6+ year old girls and boys who love cute animals
 - BRICK-BUILT PET BAKERY TOY – Unleash storytelling fun for pet lovers with the LEGO Friends Dog Treats Bakery toy for 6+ year old girls and boys, which includes 2 mini dolls and 4 animal figures
+- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
+- DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXF1CJ5{{</world>}}

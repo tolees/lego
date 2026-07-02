@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ABENTEUER MIT LEGO CITY FAHRZEUGEN: Drück einen Hebel, um den LEGO Sportwagen mit Pizzakatapult losflitzen zu lassen oder liefere Bestellungen mit Drohne und Roller aus
+- PIZZA SPIELZEUG: In diesem Spielset ist alles vorhanden, was Kinder brauchen, um Geschichten mit Holzofen, Zubereitungstheke, Essbereich, Kasse, Spielautomaten und 5 LEGO Minifiguren darzustellen
+- SPIELSET MIT LEGO RESTAURANT: LEGO City Pizza-Liefererlebnis mit Fahrzeugen ist ein Bauset für Kinder, die Pizza und Restaurants lieben und gerne fantasievolle Rollenspiele spielen
+- KREATIVES KINDERSPIELZEUG: Dreh das Rad, um Flammen lodern zu lassen, wenn du köstliche Pizzen in den LEGO Ofen schiebst
+- GESCHENK FÜR KINDER AB 6 JAHREN: Das 3D Puzzle Set ist ein fantastisches Geburtstagsgeschenk für Jungen und Mädchen ab 6 Jahren, die gerne mit Freunden oder Geschwistern Restaurant spielen
 - NÜTZLICHER HELFER FÜR BAUFANS: Die LEGO Builder App nimmt Kinder auf eine kreative Reise mit. In der App können Baufans 3D Modelle vergrößern und drehen und beim Bauen verfolgen
 - WEITERE LEGO CITY ABENTEUER ZUM ENTDECKEN: Für noch mehr Spielspaß können Kinder dieses Spielset mit anderen separat erhältlichen LEGO City Modellen kombinieren
-- PIZZA SPIELZEUG: In diesem Spielset ist alles vorhanden, was Kinder brauchen, um Geschichten mit Holzofen, Zubereitungstheke, Essbereich, Kasse, Spielautomaten und 5 LEGO Minifiguren darzustellen
-- GESCHENK FÜR KINDER AB 6 JAHREN: Das 3D Puzzle Set ist ein fantastisches Geburtstagsgeschenk für Jungen und Mädchen ab 6 Jahren, die gerne mit Freunden oder Geschwistern Restaurant spielen
-- KREATIVES KINDERSPIELZEUG: Dreh das Rad, um Flammen lodern zu lassen, wenn du köstliche Pizzen in den LEGO Ofen schiebst
-- SPIELSET MIT LEGO RESTAURANT: LEGO City Pizza-Liefererlebnis mit Fahrzeugen ist ein Bauset für Kinder, die Pizza und Restaurants lieben und gerne fantasievolle Rollenspiele spielen
+- ABENTEUER MIT LEGO CITY FAHRZEUGEN: Drück einen Hebel, um den LEGO Sportwagen mit Pizzakatapult losflitzen zu lassen oder liefere Bestellungen mit Drohne und Roller aus
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXF7Q9H{{</world>}}

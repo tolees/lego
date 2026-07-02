@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - REGALO PARA FANS DE LAS MAQUETAS DE VEHÍCULOS: Este set es un gran regalo de cumpleaños o navideño para niños y niñas a partir de 6 años a los que les encanten las maquetas de avión y coche de juguete
-- DETALLES REALISTAS PARA FOMENTAR EL JUEGO IMAGINATIVO: Los niños pueden deslizar una palanca para activar los posquemadores del jet y abrir el habitáculo del supercoche de juguete para acceder a su interior
 - UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva experiencia de construcción que les permite acercar y girar sus sets en 3D y consultar su progreso
-- MÁS SETS LEGO CITY POR DESCUBRIR: Los niños pueden combinar este juego de avión y coche de juguete con otros kits de construcción (a la venta por separado) de la gama LEGO City
-- CONTENIDO DE LA CAJA: Incluye todo lo que los peques necesitan para construir un supercoche con habitáculo para una minifigura y un avión a reacción de juguete con alas en flecha, doble deriva vertical y estabilizadores
+- DETALLES REALISTAS PARA FOMENTAR EL JUEGO IMAGINATIVO: Los niños pueden deslizar una palanca para activar los posquemadores del jet y abrir el habitáculo del supercoche de juguete para acceder a su interior
 - COCHE Y AVIÓN DE JUGUETE: Regala a tu peque horas de diversión con carreras a máxima velocidad con el set LEGO City Jet vs. Coche para niños y niñas de 6 años en adelante
+- CONTENIDO DE LA CAJA: Incluye todo lo que los peques necesitan para construir un supercoche con habitáculo para una minifigura y un avión a reacción de juguete con alas en flecha, doble deriva vertical y estabilizadores
 - 2 MINIFIGURAS LEGO CITY: Añade las minifiguras LEGO del piloto y el conductor de competición incluidas, con pelo y cascos intercambiables, para disfrutar de horas de épicas carreras
+- MÁS SETS LEGO CITY POR DESCUBRIR: Los niños pueden combinar este juego de avión y coche de juguete con otros kits de construcción (a la venta por separado) de la gama LEGO City
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXH4F66{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Figurines de super-héros à construire – Inclut 2 grandes figurines LEGO articulées pour favoriser le jeu interactif : le robot Iron Patriot avec 4 lance-tenons & un redoutable gorille Chitauri
 - Cadeau pour un garçon ou une fille dès 8 ans, fan de Marvel – Faites le bonheur des enfants et des fans de robots, de héros d’action et du film Avengers : Endgame avec ce set à construire, inspiré de l’univers des super-héros
 - Jouets à construire LEGO ǀ Marvel – La vaste gamme de sets LEGO ǀ Marvel offre aux enfants un univers d’aventures infinies, de construction et de jeux créatifs avec des super-héros
+- Figurines de super-héros à construire – Inclut 2 grandes figurines LEGO articulées pour favoriser le jeu interactif : le robot Iron Patriot avec 4 lance-tenons & un redoutable gorille Chitauri
 - Encore plus doptions de jeu - Cette maquette peut être combinée avec le set Combat final d’Avengers : Endgame (76323) pour les garçons, les filles et les fans dès 10 ans
 - Minifigurines LEGO ǀ Marvel – Ce jouet LEGO inclut 7 minifigurines : Iron Patriot MK2, Rocket avec un gros lance-tenons, Thor avec Stormbreaker & 4 Chitauri, dont 2 avec des lance-tenons dorés
 - Jeu de construction avec super-héros pour garçon ou fille dès 8 ans - Les enfants revivront l’action de combats épiques avec ce set Avengers : Endgame pour tous les fans de robots et de héros

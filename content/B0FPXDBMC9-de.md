@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MODELLBAU MIT INTERAKTIVER APP: Die LEGO Builder App zeigt 3D-Ansichten und speichert den Fortschritt, damit Kinder selbstständig bauen und direkt mit dem Spielen starten können
-- MEHR ACTION MIT WEITEREN LEGO SETS: Mit zusätzlichen LEGO Star Wars Sets (separat erhältlich) wächst die Armee und es entstehen noch größere Schlachten auf Mandalore
 - BARRIKADE FÜR DAS SCHLACHTFELD: Die Barrikade lässt sich umkippen, bietet Deckung für die Klonkrieger und verfügt ebenfalls über einen Stud Shooter für spannende Gefechte
+- MEHR ACTION MIT WEITEREN LEGO SETS: Mit zusätzlichen LEGO Star Wars Sets (separat erhältlich) wächst die Armee und es entstehen noch größere Schlachten auf Mandalore
 - SPEEDER FÜR SCHNELLE ANGRIFFE: Die Fahrer LEGO Figur kann losrasen, während der Gunner mit dem Stud Shooter für Action sorgt und in spannenden Gefechten den Gegner überrascht
-- 4 MINIFIGUREN FÜR GEFÄHRLICHE EINSÄTZE: 2 Mandalorianische Superkommandos mit Jetpacks kämpfen gegen 2 Clone Trooper der 501. Legion (Ahsoka-Version), alle mit Blastern ausgerüstet
-- ACTION SPIELZEUG FÜR KINDER AB 6 JAHREN: Mit diesem LEGO Star Wars Belagerung von Mandalore Battle Pack erleben Jungen und Mädchen spannende Mandalore-Abenteuer und bauen mit LEGO Bausteinen sofort los
 - KINDER GESCHENK FÜR STAR WARS FANS: Das Spielset ist ein beliebtes Geschenk für Jungen und Mädchen ab 6 Jahren und allen Fans, die The Clone Wars lieben und Action im Kinderzimmer wollen
+- ACTION SPIELZEUG FÜR KINDER AB 6 JAHREN: Mit diesem LEGO Star Wars Belagerung von Mandalore Battle Pack erleben Jungen und Mädchen spannende Mandalore-Abenteuer und bauen mit LEGO Bausteinen sofort los
+- MODELLBAU MIT INTERAKTIVER APP: Die LEGO Builder App zeigt 3D-Ansichten und speichert den Fortschritt, damit Kinder selbstständig bauen und direkt mit dem Spielen starten können
+- 4 MINIFIGUREN FÜR GEFÄHRLICHE EINSÄTZE: 2 Mandalorianische Superkommandos mit Jetpacks kämpfen gegen 2 Clone Trooper der 501. Legion (Ahsoka-Version), alle mit Blastern ausgerüstet
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDBMC9{{</world>}}

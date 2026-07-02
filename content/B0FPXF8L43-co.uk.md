@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- SETS FOR MINECRAFT PLAYERS – LEGO Minecraft building toys offer kids a huge range of familiar scenes, features and mobs from the popular game
 - VIDEO-GAME-INSPIRED ACCESSORIES – LEGO Minecraft accessories include netherite armour, a mace, diamond pickaxe, gold sword, diamond helmet, crafting table, torch and a chest containing bread, bone and rotten flesh
 - BATTLE WITH MINECRAFT MOBS – The Zombie Dungeon is a collectible LEGO Minecraft toy for 8+ year old boys and girls that takes kids on an exciting adventure against a horde of zombies
-- MINECRAFT MADE REAL – Kids with a passion for Minecraft can create and customise scenes from the game; rearranging, rebuilding and reimagining as new adventures take shape
+- GAMER GIFT FOR FANS – This LEGO Minecraft building set makes a great gift for 8+ year old boys and girls, fans of gaming and interactive building toys
 - INTERACTIVE MINECRAFT TOY FOR GAMERS – This LEGO Minecraft desert biome offers hands-on features to inspire imaginative play such as a rotating, zombie-spawning chamber and sliding piece to trigger a rockfall
 - LEGO MINECRAFT MINIFIGURE AND MOBS - Includes a Wastelands Wanderer minifigure, a slime and 3 Minecraft zombie figures, including one with enchanted leggings and gold sword and one with diamond helmet
-- SETS FOR MINECRAFT PLAYERS – LEGO Minecraft building toys offer kids a huge range of familiar scenes, features and mobs from the popular game
-- GAMER GIFT FOR FANS – This LEGO Minecraft building set makes a great gift for 8+ year old boys and girls, fans of gaming and interactive building toys
+- MINECRAFT MADE REAL – Kids with a passion for Minecraft can create and customise scenes from the game; rearranging, rebuilding and reimagining as new adventures take shape
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXF8L43{{</world>}}

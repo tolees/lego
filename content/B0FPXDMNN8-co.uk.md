@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 8 LEGO NINJAGO MINIFIGURES – Kids’ ninja toy comes with Zane, Sora, Arin, Dragon Form Lloyd, Dragon Form Cole, Acid Monster, Earth Monster and Loyalist Leader for imaginative play
-- POSABLE FIGURE – The green dragon figure can spread its wings out wide or tuck them in, and comes with a posable jaw, head, neck, legs, ankle, claws, tail and a saddle for a minifigure
 - DRAGON TOY – Kids can play out action-packed scenes from season 4 of the Dragons Rising TV show with this LEGO NINJAGO The Dragon of Life building toy for 8+ year old boys and girls
 - GIFT IDEA FOR KIDS – This role-play toy provides a fun build-and-play experience and is a great birthday gift idea for 8+ year old boys and girls with a passion for fantasy and adventure
+- 8 LEGO NINJAGO MINIFIGURES – Kids’ ninja toy comes with Zane, Sora, Arin, Dragon Form Lloyd, Dragon Form Cole, Acid Monster, Earth Monster and Loyalist Leader for imaginative play
+- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
+- POSABLE FIGURE – The green dragon figure can spread its wings out wide or tuck them in, and comes with a posable jaw, head, neck, legs, ankle, claws, tail and a saddle for a minifigure
 - MECH TOY – There is also a villainous mini mech included in the building set, with posable pincer arms, shoulders, legs, torso, hips and knees and a cockpit for the Earth Monster minifigure
 - DIGITAL GUIDE – Let the LEGO Builder app guide kids on an intuitive adventure, where they can save sets, track progress and zoom in and rotate models in 3D
-- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDMNN8{{</world>}}

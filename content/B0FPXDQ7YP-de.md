@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO MINECRAFT MINIFIGUR UND MOBS: Eine baubare Minecraft Figur tritt gegen den heldenhaften Mottenmann mit Flügeln an, während ein Creeper und ein Skelett durchs bleiche Gartenbiom schleichen
+- BELIEBTES GAMER GESCHENK FÜR KINDER UND MINECRAFT FANS: Dieses LEGO Minecraft Bauset ist ein großartiges Geschenk für Jungen, Mädchen und alle, die Minecraft Spielzeug lieben
+- MINECRAFT WIRD REAL: Kinder mit einer Leidenschaft für Minecraft und Videospiele können Spielszenen aus dem Game erschaffen, umbauen und kreativ neu gestalten mit diesem fantasievollen DIY Set
 - FUNKTIONEN UND FEATURES: Kinder können die Harzklumpen entweder durch das Entfernen der Rinde oder durch das Drücken eines Pins auf der Rückseite des LEGO Baums herausholen
 - LEGO MINECRAFT BIOM: Mit diesem LEGO Minecraft Set „Der blasse Garten“ tauchen Gamer in eine seltsame und wunderbare Welt ein für Jungen, Mädchen und Gaming Fans ab 7 Jahren
-- MINECRAFT WIRD REAL: Kinder mit einer Leidenschaft für Minecraft und Videospiele können Spielszenen aus dem Game erschaffen, umbauen und kreativ neu gestalten mit diesem fantasievollen DIY Set
+- LEGO MINECRAFT MINIFIGUR UND MOBS: Eine baubare Minecraft Figur tritt gegen den heldenhaften Mottenmann mit Flügeln an, während ein Creeper und ein Skelett durchs bleiche Gartenbiom schleichen
 - WAS IST IN DEM SPIELSET: Enthalten sind ein heller Eichenbaum, Harzklumpen und das geheimnisvolle „Knarrende Herz“ – plus Zubehör wie eine verzauberte Axt, ein Bogen, eine Truhe, ein Lagerfeuer, Elytren-Flügel und Diamantrüstung
-- BELIEBTES GAMER GESCHENK FÜR KINDER UND MINECRAFT FANS: Dieses LEGO Minecraft Bauset ist ein großartiges Geschenk für Jungen, Mädchen und alle, die Minecraft Spielzeug lieben
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXDQ7YP{{</world>}}

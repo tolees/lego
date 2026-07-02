@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Digital building fun – Kids can download the LEGO Builder app for an immersive building experience, with intuitive tools to zoom in and rotate models in 3D, save sets and track progress
+- Horizon gifts for gamers – This LEGO buildable gaming set is a fun gift idea for 9+ year old boys, girls, and players who like role-play monster toys
+- Toys for 9+ year old boys and girls – Kids battle jointed machines, Shell-Walker and Sawtooth, using weapon elements for fire, shock or chill attacks
 - LEGO Horizon Adventures minifigures – Includes Aloy with a bow and Varl with a spear, both with upgrades that enable different attack methods
 - Robot-creature toys – Shell-Walker has a shield, energy pod, posable limbs and claws; Sawtooth has jaws, a swiveling torso, and posable parts
-- Horizon gifts for gamers – This LEGO buildable gaming set is a fun gift idea for 9+ year old boys, girls, and players who like role-play monster toys
 - Horizon game LEGO set for kids – The Aloy & Varl vs. Shell-Walker & Sawtooth playset is packed with hands-on fun for fans of creative gaming toys
-- Toys for 9+ year old boys and girls – Kids battle jointed machines, Shell-Walker and Sawtooth, using weapon elements for fire, shock or chill attacks
-- Digital building fun – Kids can download the LEGO Builder app for an immersive building experience, with intuitive tools to zoom in and rotate models in 3D, save sets and track progress
 - Gaming in the real and digital worlds – With parental approval, kids can check out LEGO Horizon Adventures, the action-adventure video game inspired by the world of Horizon
 
 [🛒 Buy it!!]({{< param buyurl >}})

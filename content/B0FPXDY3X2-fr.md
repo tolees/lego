@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- JEU DE CONSTRUCTION AVEC FAUSSES FLEURS À CONSTRUIRE DÈS 9 ANS – Encouragez la passion des enfants pour la nature avec ce set Marguerites LEGO Botanicals, un set de construction de plantes pour filles & garçons dès 9 ans
+- BOUQUET DE FLEURS LEGO – Les jeunes fleuristes prendront plaisir à assembler 3 grandes marguerites artificielles, 2 tiges de petites marguerites, 3 brins de lavande apaisante, ainsi que des tiges vert vif
 - DÉCORATION INTÉRIEURE – Après la construction des fausses plantes, les enfants peuvent les arranger et les exposer fièrement pour décorer une chambre ou un bureau (vase non inclus)
 - PLANTES ARTIFICIELLES – Assemblez une composition florale LEGO colorée qui comprend des plantes réalistes, complétée par une figurine de coccinelle pour rajouter de la couleur au bouquet
-- COLLECTION BOTANIQUE – Créez encore plus de fleurs avec dautres kits de construction de la gamme LEGO Botanicals (vendus séparément), proposant des roses, des fleurs de cerisier, des tournesols et plus encore
-- JEU DE CONSTRUCTION AVEC FAUSSES FLEURS À CONSTRUIRE DÈS 9 ANS – Encouragez la passion des enfants pour la nature avec ce set Marguerites LEGO Botanicals, un set de construction de plantes pour filles & garçons dès 9 ans
 - IDÉE DE CADEAU POUR MAMAN AVEC BOUQUET ARTIFICIEL – Ce kit de construction est un cadeau original à offrir à loccasion de la fête des mères à une femme amoureuses des plantes
 - SETS DE FLEURS LEGO – Les kits de construction de la collection LEGO Botanicals invitent les filles, les garçons et les jeunes jardinièr.e.s à laisser libre cours à leur imagination et à en apprendre davantage sur les plantes
-- BOUQUET DE FLEURS LEGO – Les jeunes fleuristes prendront plaisir à assembler 3 grandes marguerites artificielles, 2 tiges de petites marguerites, 3 brins de lavande apaisante, ainsi que des tiges vert vif
+- COLLECTION BOTANIQUE – Créez encore plus de fleurs avec dautres kits de construction de la gamme LEGO Botanicals (vendus séparément), proposant des roses, des fleurs de cerisier, des tournesols et plus encore
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDY3X2{{</world>}}

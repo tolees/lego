@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LA MAGIA DE WICKED EN TU HOGAR: Los sets de construcción LEGO Wicked ofrecen a los fans la oportunidad de construir entrañables escenas cinematográficas y revivir momentos mágicos que perduran en el recuerdo
-- REGALO PARA CINÉFILOS: Esta maqueta para adultos es un gran regalo para mujeres y hombres fans de Wicked y para constructores creativos
 - DECORACIÓN PARA EL HOGAR DE WICKED: Este set para colagr representa Emerald City con sus emblemáticos verdes, rosas y amarillos, y elementos icónicos que evocan inolvidables escenas de ambas partes de Wicked
-- SET INTERACTIVO PARA EXPONER: Crea un paisaje artístico al estilo LEGO que combina Emerald City, Shiz University, el tren de Emerald City y el globo aerostático de The Wizard
-- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, consultar tu progreso y guardar sets
 - MAQUETA 3D PARA ADULTOS: Expón en casa un pedacito de las películas de Wicked con el set Arte Mural: Emerald City, un set con 6 minifiguras, una figura del perro Toto y sorpresas ocultas
+- LA MAGIA DE WICKED EN TU HOGAR: Los sets de construcción LEGO Wicked ofrecen a los fans la oportunidad de construir entrañables escenas cinematográficas y revivir momentos mágicos que perduran en el recuerdo
+- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, consultar tu progreso y guardar sets
+- SET INTERACTIVO PARA EXPONER: Crea un paisaje artístico al estilo LEGO que combina Emerald City, Shiz University, el tren de Emerald City y el globo aerostático de The Wizard
+- REGALO PARA CINÉFILOS: Esta maqueta para adultos es un gran regalo para mujeres y hombres fans de Wicked y para constructores creativos
 - 7 MINIFIGURAS LEGO WICKED: Esta maqueta 3D LEGO presenta a Elphaba volando sobre Emerald City, Glinda flotando en su burbuja, Dorothy Gale, Cowardly Lion, Scarecrow, Tin Man y Toto
 
 [🛒 Check the deal!!]({{< param buyurl >}})

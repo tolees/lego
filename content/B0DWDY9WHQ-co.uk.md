@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A fun way to build – The LEGO Builder app guides kids on an intuitive creative adventure as they save sets, track progress and zoom in and rotate models in 3D while they build
 - 3in1 LEGO building toys – 3in1 building sets (sold separately) let kids create 3 different models inspired by some of their biggest passions, including animals, vehicles and houses
-- Endless play options – Kids can role-play stories with 3 different building toys (models cannot be built simultaneously): a haunted LEGO house, a train toy or a boat toy
 - Interactive toys to build – The 2-storey haunted house toy includes an opening front gate, a graveyard, scary tree, an organ, a hidden ghost revealed by turning a wheel and an opening back
 - LEGO gift for kids – The 3in1 toy provides an immersive build-and-play experience and makes a fun birthday gift for 9+ year old girls and boys, fans of creative toys, train sets and LEGO bricks
+- A fun way to build – The LEGO Builder app guides kids on an intuitive creative adventure as they save sets, track progress and zoom in and rotate models in 3D while they build
 - 3 spooky toys to build in 1 box – The LEGO Creator 3in1 Haunted Mansion set is a fun building toy for 9+ year old girls and boys to build and rebuild 3 creepy models using the same LEGO bricks
 - 5 LEGO minifigures – The building set comes with 5 scary characters: werewolf, vampire, ghost with a glow-in-the-dark cape, Frankensteins monster and a skeleton, each with an accessory
+- Endless play options – Kids can role-play stories with 3 different building toys (models cannot be built simultaneously): a haunted LEGO house, a train toy or a boat toy
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDY9WHQ{{</world>}}

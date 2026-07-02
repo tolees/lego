@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 MINI DOLLS AND 4 ANIMAL FIGURES – LEGO Friends Autumn and Matilde mini dolls, plus a toy horse, foal, puppy and frog figures inspire hours of creative storytelling
-- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
-- TOY HORSE PLAYSET WITH TRAILER – Animal lovers can gallop into imaginative play with this LEGO Friends Horse & Baby Foal Trailer toy for 7+ year old girls and boys
-- GROOM, RIDE AND PLAY – Girls and boys can create fun stories with a car toy, trailer and a small side build with a picnic area, signpost, lake and a fence
-- ACCESSORIES FOR ROLE PLAY – Accessories include a saddle, sandwiches, a crate, a brush, carrots for the horses, and 2 small flowers to decorate the blanket
 - GIFT FOR HORSE LOVERS – This LEGO Friends building set provides a playful experience for nature-loving kids and makes a great birthday gift for 7+ year old girls and boys
+- TOY HORSE PLAYSET WITH TRAILER – Animal lovers can gallop into imaginative play with this LEGO Friends Horse & Baby Foal Trailer toy for 7+ year old girls and boys
 - DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
+- GROOM, RIDE AND PLAY – Girls and boys can create fun stories with a car toy, trailer and a small side build with a picnic area, signpost, lake and a fence
+- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
+- ACCESSORIES FOR ROLE PLAY – Accessories include a saddle, sandwiches, a crate, a brush, carrots for the horses, and 2 small flowers to decorate the blanket
+- 2 MINI DOLLS AND 4 ANIMAL FIGURES – LEGO Friends Autumn and Matilde mini dolls, plus a toy horse, foal, puppy and frog figures inspire hours of creative storytelling
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCTVTW{{</world>}}

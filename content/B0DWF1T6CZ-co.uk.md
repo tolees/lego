@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Birthday gift idea for kids – This LEGO City set makes a fun gift for 8+ year old boys and girls who love building sets, construction vehicle toys and creative STEM construction play
-- Construction toy inspired by real vehicles and machines – Kids can raise the front blade, lower the dual-shank ripper and push the vehicle to activate the moving pistons and spinning engine cooler fan
-- A city without limits – LEGO City creative toys inspire kids to explore, build and create a world full of vehicles, structures, LEGO minifigures and endless imaginative adventures
-- LEGO construction playset with accessories – This fun building toy comes with LEGO minifigure accessories including a construction sign, wrench and walkie-talkie for realistic site play
-- Whats in the box? – This LEGO City building set includes a toy bulldozer, plus three LEGO minifigures: a driver and two construction workers for role-play adventures
-- Expand the play – Kids can expand their adventures by adding this construction toy to other LEGO City building sets (sold separately) for more fun on the site
 - A buildable bulldozer toy for kids – Building your own city is big fun with the LEGO City Yellow Bulldozer building toy for 8 year old boys, girls and older fans of construction vehicle toys
+- Construction toy inspired by real vehicles and machines – Kids can raise the front blade, lower the dual-shank ripper and push the vehicle to activate the moving pistons and spinning engine cooler fan
+- Birthday gift idea for kids – This LEGO City set makes a fun gift for 8+ year old boys and girls who love building sets, construction vehicle toys and creative STEM construction play
+- Whats in the box? – This LEGO City building set includes a toy bulldozer, plus three LEGO minifigures: a driver and two construction workers for role-play adventures
+- LEGO construction playset with accessories – This fun building toy comes with LEGO minifigure accessories including a construction sign, wrench and walkie-talkie for realistic site play
+- A city without limits – LEGO City creative toys inspire kids to explore, build and create a world full of vehicles, structures, LEGO minifigures and endless imaginative adventures
+- Expand the play – Kids can expand their adventures by adding this construction toy to other LEGO City building sets (sold separately) for more fun on the site
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF1T6CZ{{</world>}}

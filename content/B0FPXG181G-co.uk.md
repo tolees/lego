@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- FUN ON THE CATWALK – Imagine role-playing life as a clothes designer with this DIY arts and crafts set, which includes a catwalk, rotating platform, a vanity table and lots of accessories
+- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 - FASHION ACCESSORIES – Includes a fabric tulle skirt and coat, plus a jacket, jeans, top, scarf, handbag, wigs, flower crown, bow, sunglasses, lipstick, hairbrush, mirror, cameras and more
 - FASHION DESIGNER KIT FOR GIRLS AND BOYS – The LEGO Friends Heartlake City Fashion Show toy for 7+ year old girls and boys encourages kids to get creative and style 3 mini dolls for the catwalk
 - DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
+- FUN ON THE CATWALK – Imagine role-playing life as a clothes designer with this DIY arts and crafts set, which includes a catwalk, rotating platform, a vanity table and lots of accessories
 - BIRTHDAY GIFT FOR 7+ YEAR OLD GIRLS AND BOYS – Treat a young fan of art and design to this fun building set, which makes a great gift idea to celebrate birthdays or any other special occasion
-- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 - CUSTOMISE OUTFITS WITH 3 MINI DOLLS – Combine the included torsos, wigs, hats and other props to style LEGO Friends Paisley, Liann and Nova mini dolls at the vanity table before the show begins
 
 [🛒 Buy it!!]({{< param buyurl >}})

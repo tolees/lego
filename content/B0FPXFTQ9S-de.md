@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- SPIELZEUG ZUM BAUEN: Die LEGO Star Wars Razor Crest mit detailgetreuer Lackierung aus The Mandalorian and Grogu lädt Kinder dazu ein, eigene Missionen zu bauen und galaktische Abenteuer zu erleben
+- DIGITALE BAUANLEITUNGEN: Die LEGO Builder App bietet ein digitales Bauabenteuer. 3D-Anleitungen lassen Kinder das Modell vergrößern und drehen. Die App zeigt außerdem, wie weit man mit dem Modell schon ist
+- ENTDECKE DAS GANZE SORTIMENT: Schau dir weitere separat erhältliche LEGO Star Wars Sammlersets zu The Mandalorian and Grogu an, um spannende Szenen nachzuspielen und eigene Geschichten zu erfinden
+- 5 LEGO STAR WARS CHARAKTERE: Der Mandalorianer mit Blasterpistole und Raketenrucksack, der Sturmtruppler des Restimperiums mit Blasterkanone, Colonel Ward, Zeb Orrelios und die LEGO Figur Grogu laden zum Spielen ein
 - 5 LEGO STAR WARS FIGUREN: Mit Grogu, Colonel Ward, Zeb Orrelios, einem Sturmtruppler und dem Mandalorianer samt Blaster und Raketenrucksack wird das Spielset zum actionreichen Abenteuer
 - STAR WARS GESCHENK FÜR KINDER: Dieses Bauspielzeug für jede Menge Actionspaß ist eine tolle Überraschung für Kinder und alle Fans ab 10 Jahren, die Star Wars: The Mandalorian and Grogu lieben
 - E-NETZ-BLASTERKANONE: Die baubare E-Netz-Blasterkanone des Sturmtrupplers bringt Action in den Modellbau und lässt Kinder epische Gefechte im LEGO Star Wars Universum nachstellen
-- 5 LEGO STAR WARS CHARAKTERE: Der Mandalorianer mit Blasterpistole und Raketenrucksack, der Sturmtruppler des Restimperiums mit Blasterkanone, Colonel Ward, Zeb Orrelios und die LEGO Figur Grogu laden zum Spielen ein
-- ENTDECKE DAS GANZE SORTIMENT: Schau dir weitere separat erhältliche LEGO Star Wars Sammlersets zu The Mandalorian and Grogu an, um spannende Szenen nachzuspielen und eigene Geschichten zu erfinden
-- DIGITALE BAUANLEITUNGEN: Die LEGO Builder App bietet ein digitales Bauabenteuer. 3D-Anleitungen lassen Kinder das Modell vergrößern und drehen. Die App zeigt außerdem, wie weit man mit dem Modell schon ist
-- SPIELZEUG ZUM BAUEN: Die LEGO Star Wars Razor Crest mit detailgetreuer Lackierung aus The Mandalorian and Grogu lädt Kinder dazu ein, eigene Missionen zu bauen und galaktische Abenteuer zu erleben
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFTQ9S{{</world>}}

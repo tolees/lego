@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Tempelarena, die zum Einsturz gebracht werden kann: Arin und Ras können ihre Spinner mit speziellen goldenen Elemente upgraden; Diese Elemente erhalten sie, wenn sie die Tempelarena treffen und zum Einsturz bringen
-- Geschenkidee für junge Ninjas: Dieses kleine LEGO Set bietet ein packendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Jungen und Mädchen ab 6 Jahren, die Abenteuer-Spielzeug lieben und gern fantasievoll spielen
-- LEGO NINJAGO Action Spielzeug für Kinder: Mit dem Drachen-Spinjitzu Battle Pack können Jungen und Mädchen ab 6 Jahren die Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an separat erhältlichen Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
-- 2 NINJAGO Minifiguren für noch mehr Spielspaß: Dieses Bauset für Kinder beinhaltet den Ninja Arin mit einem Schwert und den Bösewicht Ras, der ebenfalls ein Schwert schwingt
-- 2 Spinner für rasanten Actionspaß: Kinder können die Drachen-Spinjitzu-Spinner von Arin und Ras in die Startkatapulte stecken und dann loswirbeln lassen, damit sich die beiden spannende Duelle liefern
 - Entdecke andere Sets für weitere Ninja Abenteuer: Schau dir auch weitere separat erhältliche LEGO NINJAGO Spielsets mit Drachen, Tempeln und Fahrzeugen an
+- Tempelarena, die zum Einsturz gebracht werden kann: Arin und Ras können ihre Spinner mit speziellen goldenen Elemente upgraden; Diese Elemente erhalten sie, wenn sie die Tempelarena treffen und zum Einsturz bringen
+- LEGO NINJAGO Spielzeug in Hülle und Fülle: Das breite Spektrum an separat erhältlichen Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja-Helden spielen können
+- LEGO NINJAGO Action Spielzeug für Kinder: Mit dem Drachen-Spinjitzu Battle Pack können Jungen und Mädchen ab 6 Jahren die Actionszenen aus der 3. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Geschenkidee für junge Ninjas: Dieses kleine LEGO Set bietet ein packendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Jungen und Mädchen ab 6 Jahren, die Abenteuer-Spielzeug lieben und gern fantasievoll spielen
+- 2 Spinner für rasanten Actionspaß: Kinder können die Drachen-Spinjitzu-Spinner von Arin und Ras in die Startkatapulte stecken und dann loswirbeln lassen, damit sich die beiden spannende Duelle liefern
+- 2 NINJAGO Minifiguren für noch mehr Spielspaß: Dieses Bauset für Kinder beinhaltet den Ninja Arin mit einem Schwert und den Bösewicht Ras, der ebenfalls ein Schwert schwingt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCC5Q7{{</world>}}

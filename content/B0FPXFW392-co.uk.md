@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- FUN NATURE DETAILS – Look closely and you’ll discover cupcake pieces for the flower carpels, brown frogs as wood knots, egg pieces for the buds and ice cream swirls for the bud tips
-- DIGITAL INSTRUCTIONS – This set for adults is available in the LEGO Builder app, where budding florists can access digital instructions and create together with loved ones
 - BOTANICALS COLLECTION – Build more blooms with other artificial flower sets (sold separately) in the LEGO Botanicals range, where you’ll find roses, tulips, potted plants and more
-- HOME DECOR ACCESSORIES – When the bouquet is complete, it can be displayed in any room or office or combined with other LEGO Botanicals sets (sold separately) to make a large floral display
+- DIGITAL INSTRUCTIONS – This set for adults is available in the LEGO Builder app, where budding florists can access digital instructions and create together with loved ones
 - ARTIFICIAL FLOWERS – Includes 5 magnolia branches, with 2 of the branches showing the full development of the flower, from the tiny bud to the open petals
 - FLORAL GIFT IDEA – This LEGO building set is great for living room or bedroom decor and makes a thoughtful flower gift for women and men on birthdays or any other special occasion
+- FUN NATURE DETAILS – Look closely and you’ll discover cupcake pieces for the flower carpels, brown frogs as wood knots, egg pieces for the buds and ice cream swirls for the bud tips
+- HOME DECOR ACCESSORIES – When the bouquet is complete, it can be displayed in any room or office or combined with other LEGO Botanicals sets (sold separately) to make a large floral display
 - LEGO MAGNOLIAS – Create floral home decor with the LEGO Botanicals Magnolia Branches building set for adults, designed around realistic faux flower branches
 
 [🛒 Buy it now!!]({{< param buyurl >}})

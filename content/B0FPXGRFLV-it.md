@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- REGALO A TEMA FORMULA 1: unavvincente idea regalo di compleanno per bambini e bambine, ragazzi e ragazze amanti dei set LEGO da collezione, e per gli adulti appassionati di corse sportive e di gadget della F1
 - MINIFIGURE DI PILOTA: include la minifigure del pilota con casco e tuta Audi, da posizionare all’interno del cockpit del modellino di macchina LEGO da Formula 1
 - DA ESPORRE NELLA CAMERETTA: al termine delle corse i giovani piloti possono mettere in mostra con orgoglio il veicolo LEGO come decorazione della camera da letto
-- MACCHINA GIOCATTOLO DA COSTRUIRE: il modello LEGO Speed Champions di Auto da Corsa Audi Revolut F1 Team R26 è un gioco per bambini e bambine da 10 anni, che permette di ricreare tutta lazione delle gare di Formula 1
 - AUTO LEGO AUDI F1: il veicolo giocattolo è una replica della monoposto che si unirà alla griglia di partenza nel 2026, con alettone posteriore, loghi degli sponsor, sospensioni anteriori e pneumatici con scritta “Pirelli”, come la versione reale
 - AUTO ICONICHE PER IL GIOCO E L’ESPOSIZIONE: questo kit di modellismo può essere aggiunto agli altri iconici veicoli della gamma LEGO F1 (disponibili separatamente), per creare un grande garage di macchine sportive
-- REGALO A TEMA FORMULA 1: unavvincente idea regalo di compleanno per bambini e bambine, ragazzi e ragazze amanti dei set LEGO da collezione, e per gli adulti appassionati di corse sportive e di gadget della F1
+- MACCHINA GIOCATTOLO DA COSTRUIRE: il modello LEGO Speed Champions di Auto da Corsa Audi Revolut F1 Team R26 è un gioco per bambini e bambine da 10 anni, che permette di ricreare tutta lazione delle gare di Formula 1
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGRFLV{{</world>}}

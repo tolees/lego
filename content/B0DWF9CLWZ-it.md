@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Ricco di dettagli e funzioni: ruota la manopola sulla parte superiore del veicolo giocattolo per attivare la piattaforma di dispiegamento dei droidi LEGO, e tieniti pronto a sganciare i droidi da battaglia
 - Giocattolo LEGO Star Wars da costruire: il set di giochi per bambini, bambine e fan MTT separatista Battaglia di Felucia, che contiene un veicolo LEGO in mattoncini, consente di ricreare le scene del film Star Wars: Le guerre dei cloni
+- Minifigure LEGO Star Wars: con i personaggi del Comandante Bly e di Aayla Secura, 3 Commando Droid LEGO, un pilota Battle Droid e 6 Battle Droid LEGO con accessori
 - Idea regalo LEGO Star Wars per bambini e bambine: regala questo modellino LEGO Star Wars costruibile ai giovani Jedi fan della saga: un ottimo oggetto LEGO Star Wars da collezione e da esposizione
 - Un modo divertente per costruire: utilizza l’app LEGO Builder come guida per la costruzione, usando gli strumenti per ruotare una versione digitale 3D del modellino durante lassemblaggio
-- Minifigure LEGO Star Wars: con i personaggi del Comandante Bly e di Aayla Secura, 3 Commando Droid LEGO, un pilota Battle Droid e 6 Battle Droid LEGO con accessori
-- Ricco di dettagli e funzioni: ruota la manopola sulla parte superiore del veicolo giocattolo per attivare la piattaforma di dispiegamento dei droidi LEGO, e tieniti pronto a sganciare i droidi da battaglia
 - Pronto all’azione: l’MTT ha ruote nascoste per gli spostamenti sul terreno, cabina di pilotaggio, 2 shooter, speeder STAP nella stiva posteriore e pannelli laterali apribili per accedere agli interni
 
 [🛒 Check the deal!!]({{< param buyurl >}})

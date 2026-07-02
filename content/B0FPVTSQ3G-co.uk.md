@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- SUPER HEROES VS. VILLAIN VEHICLES – Spidey’s crab submarine has a large web trap, Ghost-Spider’s turtle sub has an opening transparent shell, Doc Ock’s whale sub has shooters on the fins
-- 3 LEGO MARVEL MINIFIGURES – Featuring Spidey, Ghost-Spider and Doc Ock minifigures, plus cool accessories including a banana, gem and a treasure chest
-- BUILD AND PLAY – Large LEGO Starter Bricks let preschool kids quickly build 3 submarine toys, including Spidey’s crab, Ghost-Spider’s turtle, and Doc Ock’s whale, while developing fine motor skills
-- SPIDEY SUBMARINE TOYS – Dive into adventure with the LEGO Marvel Spidey: Underwater Vehicles toy for 4+ year old boys and girls who love the Spidey and his Amazing Friends TV show
 - SPIDEY GIFT FOR FANS – This LEGO Marvel building set helps preschoolers develop fine motor skills and creativity, making it a great birthday gift for 4+ year old boys and girls
 - MORE SUPERHERO ACTION – Check out the range of LEGO Marvel Spidey sets including (11206) Spidey on his Motorcycle vs. Rhino, and (11208) Team Spidey Pirate Ship (sets sold separately)
+- SUPER HEROES VS. VILLAIN VEHICLES – Spidey’s crab submarine has a large web trap, Ghost-Spider’s turtle sub has an opening transparent shell, Doc Ock’s whale sub has shooters on the fins
+- SPIDEY SUBMARINE TOYS – Dive into adventure with the LEGO Marvel Spidey: Underwater Vehicles toy for 4+ year old boys and girls who love the Spidey and his Amazing Friends TV show
+- 3 LEGO MARVEL MINIFIGURES – Featuring Spidey, Ghost-Spider and Doc Ock minifigures, plus cool accessories including a banana, gem and a treasure chest
+- BUILD AND PLAY – Large LEGO Starter Bricks let preschool kids quickly build 3 submarine toys, including Spidey’s crab, Ghost-Spider’s turtle, and Doc Ock’s whale, while developing fine motor skills
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPVTSQ3G{{</world>}}

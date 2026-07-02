@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- COLLECTABLE LEGO MINECRAFT TOY – Each biome features authentic details, such as lava, gold, cacti, trees, a waterfall, cave, coral reef, shipwreck, temple, pumpkin, ocean, beach and a treasure chest
-- GAMING DECORATION WITH 5 MINECRAFT FIGURES - Features a reversible backdrop that switches from day and night-time designs, plus Steve, Creeper, Mooshroom, Husk and Pillager microfigures
-- MINECRAFT GIFT FOR GAMERS - This LEGO building set makes a great gaming gift for 12+ year old boys, girls and teens who are passionate fans of video games, Minecraft bedroom decor and merchandise
 - 5 REMOVABLE MINECRAFT BIOMES – The LEGO set includes micro-scaled worlds: mountain, flower forest, mushroom fields, desert and savanna biomes, that can be removed and swapped around for customisation
 - MINECRAFT MADE REAL – Kids and teens with a passion for Minecraft can create and customise scenes from the game; rearranging, rebuilding and reimagining as new adventures take shape
+- MINECRAFT GIFT FOR GAMERS - This LEGO building set makes a great gaming gift for 12+ year old boys, girls and teens who are passionate fans of video games, Minecraft bedroom decor and merchandise
 - LEGO MINECRAFT BIOMES DISPLAY SET – Showcase kids’ passion for Minecraft building with the Mini Biomes toy for 12+ year old boys, girls, and teens who love gaming decor
+- COLLECTABLE LEGO MINECRAFT TOY – Each biome features authentic details, such as lava, gold, cacti, trees, a waterfall, cave, coral reef, shipwreck, temple, pumpkin, ocean, beach and a treasure chest
 - SETS FOR MINECRAFT PLAYERS – LEGO Minecraft building toys offer kids a huge range of familiar scenes, features and mobs from the popular game
+- GAMING DECORATION WITH 5 MINECRAFT FIGURES - Features a reversible backdrop that switches from day and night-time designs, plus Steve, Creeper, Mooshroom, Husk and Pillager microfigures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXG6D7P{{</world>}}

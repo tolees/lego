@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Erkunde die beliebte Welt von Horizon und steh den beeindruckenden Maschinen des Spiels von Angesicht zu Angesicht gegenüber
-- Erlebe spannende Online- und Couch-Koop-Action mit Freunden & Familie (Online-Spiele erfordern möglicherweise ein kostenpflichtiges Online-Abo)
-- Erlebe atemberaubende Kinobilder, gebaut aus lebensechten LEGO-Steinen
 - Erfreue dich an einer aufregenden Mischung aus Action, Erkundung, Anpassung und urkomischem LEGO-Humor
+- Erlebe atemberaubende Kinobilder, gebaut aus lebensechten LEGO-Steinen
+- Erlebe spannende Online- und Couch-Koop-Action mit Freunden & Familie (Online-Spiele erfordern möglicherweise ein kostenpflichtiges Online-Abo)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DJF5PS12{{</world>}}

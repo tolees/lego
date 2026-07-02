@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75440 AT-AT - Modellbau Set für Erwachsene - Mit Snowspeeder Ständer & Namensschild - DIY Deko fürs Regal - Geschenk für Fans von Das Imperium schlägt zurück'
-date: 2026-06-30 05:37:33
+date: 2026-07-01 17:13:48
 image: 'https://m.media-amazon.com/images/I/514gqNvRetL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFZXCN/?tag=tolees0ca-21'
 descuento: '35.39'
-average: '45.3347368421053'
+average: '45.1675'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BAUANLEITUNG FÜR ENTSPANNENDE BAUZEIT: Mit der LEGO Builder App lassen sich 3D-Modelle drehen, vergrößern und der Baufortschritt speichern, für ein ruhiges und konzentriertes Bauerlebnis
-- 3D MODELL MIT PRÄSENTATIONSSOCKEL: Nach dem Bauen wird das AT-AT Modell auf dem beiliegenden Ständer mit Namensschild präsentiert und als LEGO Deko zum Blickfang
-- STAR WARS BAUSET FÜR ERWACHSENE: Baue ein detailreiches LEGO Diorama der Schlacht von Hoth aus Das Imperium schlägt zurück mit AT-AT und Snowspeeder als Ausstellungsmodell
 - AUTHENTISCHE SZENE DER SCHLACHT VON HOTH: Der Snowspeeder legt sein Schleppseil um die Beine des AT-AT und stellt einen dynamischen Moment aus dem legendären Filmklassiker nach
-- SAMMLERSET FÜR STAR WARS FANS: Ein weiteres ikonisches Fahrzeug für die Sammlung mittelgroßer LEGO Star Wars Modelle und ein Highlight für Fans kultiger Filmaugenblicke
 - GESCHENK FÜR ERWACHSENE STAR WARS FANS: Eine besondere Überraschung für kreative Erwachsene, die Bauen lieben und ikonische Momente der ursprünglichen Trilogie mit Luke Skywalker schätzen
 - KOMPATIBEL MIT MEHR DROIDEN: Stelle das BB-8 Modell maßstabsgetreu neben R2-D2 (75379), C-3PO (75398) und weitere baubare LEGO Star Wars Droiden aus der Sammlerreihe aus, alle separat erhältlich
+- STAR WARS BAUSET FÜR ERWACHSENE: Baue ein detailreiches LEGO Diorama der Schlacht von Hoth aus Das Imperium schlägt zurück mit AT-AT und Snowspeeder als Ausstellungsmodell
+- SAMMLERSET FÜR STAR WARS FANS: Ein weiteres ikonisches Fahrzeug für die Sammlung mittelgroßer LEGO Star Wars Modelle und ein Highlight für Fans kultiger Filmaugenblicke
+- 3D MODELL MIT PRÄSENTATIONSSOCKEL: Nach dem Bauen wird das AT-AT Modell auf dem beiliegenden Ständer mit Namensschild präsentiert und als LEGO Deko zum Blickfang
+- BAUANLEITUNG FÜR ENTSPANNENDE BAUZEIT: Mit der LEGO Builder App lassen sich 3D-Modelle drehen, vergrößern und der Baufortschritt speichern, für ein ruhiges und konzentriertes Bauerlebnis
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFZXCN{{</world>}}

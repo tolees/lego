@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - A helping hand – Discover intuitive instructions in the LEGO Builder app, where kids can zoom in and rotate models in 3D, track their progress and save models as they develop new skills
-- Fun functions – Separate the barge into 3 buildable toy boats, send the Moana mini doll or some Kakamora down the zipline between boats, or let them take a fast spin in the barrel or on the wheel
-- Buildable Moana 2 toy boat – Includes a barge boat with 3 sections and a zipline, a smaller, 2-hulled canoe with storage space, plus a Moana mini doll, Heihei, a Maui figure and 6 Kakamora including Kotu
-- Detailed LEGO boat – The Kakamora Barge in this model kit features a coconut catapult, hidden treasure chest, playable drum, a spinning wheel and more
 - Disney’s Moana 2 toy building set – Thrill fans who love adventure and fantasy play with this detailed Kakamora Barge Construction toy for 7+ year old girls and boys
+- Detailed LEGO boat – The Kakamora Barge in this model kit features a coconut catapult, hidden treasure chest, playable drum, a spinning wheel and more
+- Buildable Moana 2 toy boat – Includes a barge boat with 3 sections and a zipline, a smaller, 2-hulled canoe with storage space, plus a Moana mini doll, Heihei, a Maui figure and 6 Kakamora including Kotu
+- Fun functions – Separate the barge into 3 buildable toy boats, send the Moana mini doll or some Kakamora down the zipline between boats, or let them take a fast spin in the barrel or on the wheel
 - Disney gift idea – With a detailed barge boat, plus LEGO | Disney Moana, Heihei and 7 other characters, this set makes a magical birthday gift for 7+ year old girls, boys and adult Disney fans
 
 [🛒 Buy it!!]({{< param buyurl >}})

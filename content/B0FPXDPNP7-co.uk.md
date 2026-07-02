@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- POSABLE ACTION FIGURES – Both mechs have an opening cockpit for a minifigure and posable tail, legs, arms and body for kids to place them into different battle stances
-- GIFT FOR KIDS – This LEGO set provides a fun build-and-play experience and is a great birthday gift idea for 4+ year old boys and girls to fuel their imaginations and develop storytelling skills
-- A SOLID START – A Starter Brick – a partly constructed base that gets kids building quickly and with confidence is also included in this learning toy
 - 2 LEGO NINJAGO MINIFIGURES – The building set comes with Jay and a villainous Mutation Monster, plus 4 interchangeable weapons: 2 swords, a spear and a set of claws
-- INTRODUCTION TO BUILDING – Educational LEGO preschool toys help children learn how to build, while allowing the rest of the family to share in the fun
+- A SOLID START – A Starter Brick – a partly constructed base that gets kids building quickly and with confidence is also included in this learning toy
 - MORE NINJAGO ADVENTURES – Discover other LEGO sets (sold separately) featuring detailed dragons, mechs, temples and vehicles
+- POSABLE ACTION FIGURES – Both mechs have an opening cockpit for a minifigure and posable tail, legs, arms and body for kids to place them into different battle stances
+- INTRODUCTION TO BUILDING – Educational LEGO preschool toys help children learn how to build, while allowing the rest of the family to share in the fun
+- GIFT FOR KIDS – This LEGO set provides a fun build-and-play experience and is a great birthday gift idea for 4+ year old boys and girls to fuel their imaginations and develop storytelling skills
 - LEARN-TO-BUILD MECH TOY – Young Dragons Rising fans can learn to build before playing out ninja battles with this LEGO NINJAGO Jay’s Dragon Mech Fight ninja toy for 4+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})

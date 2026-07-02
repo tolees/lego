@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Jonge foodies ontmoeten hun favoriete LEGO Friends personages bij de Heartlake City Pizzeria, met een restaurant, 2 minipoppetjes, speelgoed eten en nog veel meer creatieve accessoires
-- Dit LEGO Friends speelgoed is een origineel cadeau voor kinderen vanaf 5 jaar die houden van lekker eten en het leuk vinden om restaurantje te spelen
 - Inclusief 2 LEGO Friends minipoppetjes: Ethan, met een skateboard en een helm, en Olivia, met een koksmuts
 - Kinderen kunnen het LEGO Friends restaurant aankleden met hangplanten en een groot bord in de vorm van een pizza, om het de uitstraling te geven van een echte pizzeria
+- Dit LEGO Friends speelgoed is een origineel cadeau voor kinderen vanaf 5 jaar die houden van lekker eten en het leuk vinden om restaurantje te spelen
 - Kinderen kunnen spelen dat ze in een pizzeria werken: ze kunnen de chef zijn, achter de kassa van het afhaalrestaurant staan of gasten bedienen op het terras - ze kunnen het restaurant naar eigen wens indelen, voor eindeloze speelmogelijkheden
 - Deze LEGO Friends set bevat verschillende accessoires: een pizzaoven met een schep en een pizza; kaas, een rasp en een sausfles, plus een afhaalgedeelte en een los zitgedeelte buiten
 

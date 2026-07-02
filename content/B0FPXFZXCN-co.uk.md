@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- COMPLEX BUILD DESIGNED FOR DISPLAY – Enjoy a mindful and challenging construction project, then proudly showcase your creation on the stand with a nameplate
+- STAR WARS GIFT – This model kit makes a fun treat for yourself or a great gift for an adult fan of the classic trilogy who loves cool Star Wars memorabilia
+- EXPAND YOUR COLLECTION – This collectible set complements the LEGO Star Wars range of mid-scale buildable models of iconic Star Wars starships
 - STAR WARS BUILDING SET FOR ADULTS – Relive Battle of Hoth action from Star Wars: The Empire Strikes Back with this mid-scale LEGO AT-AT display model with a Snowspeeder included
+- FROM A GALAXY FAR, FAR AWAY TO YOUR HOME – LEGO Star Wars collectible sets for adults are designed for people who enjoy hands-on creative activities to relax and recharge
 - CAPTURE THE DRAMA – Create a dynamic LEGO brick-built snapshot of an attacking Snowspeeder wrapping its tow cable around the legs of a AT-AT to try and topple it
 - 3D BUILDING INSTRUCTIONS – Get ready to create like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set with 3D instructions
-- COMPLEX BUILD DESIGNED FOR DISPLAY – Enjoy a mindful and challenging construction project, then proudly showcase your creation on the stand with a nameplate
-- EXPAND YOUR COLLECTION – This collectible set complements the LEGO Star Wars range of mid-scale buildable models of iconic Star Wars starships
-- FROM A GALAXY FAR, FAR AWAY TO YOUR HOME – LEGO Star Wars collectible sets for adults are designed for people who enjoy hands-on creative activities to relax and recharge
-- STAR WARS GIFT – This model kit makes a fun treat for yourself or a great gift for an adult fan of the classic trilogy who loves cool Star Wars memorabilia
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFZXCN{{</world>}}

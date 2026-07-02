@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- JEU DE RÔLE – Les jeunes enfants découvrent l’empathie en imaginant comment le patient se sent à l’aide de la roue des émotions numérique incluse dans les instructions de montage de l’application LEGO Builder
-- CADEAU D’ANNIVERSAIRE POUR GARÇON OU FILLE DÈS 2 ANS – Ce jouet de construction est un beau cadeau à offrir pour une occasion spéciale à un enfant passionné de jeux mettant en scène des véhicules d’urgence
-- JOUET INTERACTIF CONÇU POUR DÉVELOPPER LA MOTRICITÉ FINE - Les tout-petits font appel à leur logique pour imaginer l’intervention d’un ambulancier où ils viennent en aide à la jeune fille et la soignent
-- JOUETS D’APPRENTISSAGE LEGO – Pour explorer d’autres « premières fois », découvrez le jeu d’imitation LEGO DUPLO Ma ville 10449 Première visite chez le médecin (vendu séparément)
 - AMBULANCE LEGO DANS UN JEU INTERACTIF – Les enfants dès 24 mois jouent à venir en aide à quelqu’un avec ce set LEGO qui inclut une ambulance et une petite maison
-- JOUETS INTERACTIFS SOPHISTIQUÉS POUR LES JEUNES CURIEUX – Les jouets LEGO DUPLO sont conçus avec soin pour aider les tout-petits à comprendre le monde qui les entoure
 - ACTIVITÉS D’APPRENTISSAGE SOCIO-ÉMOTIONNEL – Inclut un chauffeur d’ambulance & une jeune fille, une voiture, une valise & une trousse de secours qui permettent aux enfants d’apprendre comment prendre en charge un blessé
+- CADEAU D’ANNIVERSAIRE POUR GARÇON OU FILLE DÈS 2 ANS – Ce jouet de construction est un beau cadeau à offrir pour une occasion spéciale à un enfant passionné de jeux mettant en scène des véhicules d’urgence
+- JOUETS D’APPRENTISSAGE LEGO – Pour explorer d’autres « premières fois », découvrez le jeu d’imitation LEGO DUPLO Ma ville 10449 Première visite chez le médecin (vendu séparément)
+- JEU DE RÔLE – Les jeunes enfants découvrent l’empathie en imaginant comment le patient se sent à l’aide de la roue des émotions numérique incluse dans les instructions de montage de l’application LEGO Builder
+- JOUET INTERACTIF CONÇU POUR DÉVELOPPER LA MOTRICITÉ FINE - Les tout-petits font appel à leur logique pour imaginer l’intervention d’un ambulancier où ils viennent en aide à la jeune fille et la soignent
+- JOUETS INTERACTIFS SOPHISTIQUÉS POUR LES JEUNES CURIEUX – Les jouets LEGO DUPLO sont conçus avec soin pour aider les tout-petits à comprendre le monde qui les entoure
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00CYH1VLY{{</world>}}

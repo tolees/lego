@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Magical building toy – Kitty Garden is a fantastical retreat with hidden gems to discover and a crystal flower throne where Kitty Fairy sits
-- Gabbys Dollhouse toy for kids – Sweet Treat Mountain & Kitty Garden is an imaginative toy for 4+ year old girls, boys and fans of DreamWorks Animation’s Gabby’s Dollhouse: The Movie
-- Fun with Gabby and friends – The LEGO 4+ set contains Gabbys Dollhouse figures including Gabby, Pandy Paws and Kitty Fairy and features 2 key locations from the movie
-- Creative toys – With this building set, kids can sit the characters on doughnuts and slide them through Sweet Treat Mountain’s colourful waterfall
-- Preschool building toy – A wide range of engaging, developmental LEGO sets for kids aged 4 and over introduces a universe of movie favourites, TV characters and everyday heroes
 - Birthday gift for kids – This LEGO Gabbys Dollhouse toy featuring fun characters and locations makes a fun gift for 4+ year old girls, boys and fans
+- Preschool building toy – A wide range of engaging, developmental LEGO sets for kids aged 4 and over introduces a universe of movie favourites, TV characters and everyday heroes
+- Gabbys Dollhouse toy for kids – Sweet Treat Mountain & Kitty Garden is an imaginative toy for 4+ year old girls, boys and fans of DreamWorks Animation’s Gabby’s Dollhouse: The Movie
 - Expand the fun – This set can combine with 11204 Mermaid Gabbys Aquarium Adventure (sold separately) to build a total of 3 portal worlds
+- Fun with Gabby and friends – The LEGO 4+ set contains Gabbys Dollhouse figures including Gabby, Pandy Paws and Kitty Fairy and features 2 key locations from the movie
+- Magical building toy – Kitty Garden is a fantastical retreat with hidden gems to discover and a crystal flower throne where Kitty Fairy sits
+- Creative toys – With this building set, kids can sit the characters on doughnuts and slide them through Sweet Treat Mountain’s colourful waterfall
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF9JG81{{</world>}}

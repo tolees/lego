@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Open World Gotham City: Zip from building to building using the grapnel launcher, soar over the city with the Batglider, or cruise around in style with a range of Batmobiles and Batcycles.
-- Build the Legacy of the Dark Knight: Begin with a young Bruce Wayne training with The Leagueof Shadows and play through key events on the way to becoming the Dark Knight. Throughout the campaign, build a family of allies with Jim Gordon, Robin, Nightwing, Batgirl, Catwoman, and Talia al Ghul to help face off against the likes of The Joker, The Penguin, Poison Ivy, Ra’s al Ghul, Bane, and more.
-- Pre-order LEGO Batman: Legacy of the Dark Knight and get “The Dark Knight Returns” Batsuit inspired by the legendary comic series.
 - Dynamic LEGO Batman Combat: New LEGO Batman combat system delivers an authentic expression of Batman’s fighting style with fluid attack chains, over-the-top takedowns and powerful gadgets.
+- Open World Gotham City: Zip from building to building using the grapnel launcher, soar over the city with the Batglider, or cruise around in style with a range of Batmobiles and Batcycles.
+- Pre-order LEGO Batman: Legacy of the Dark Knight and get “The Dark Knight Returns” Batsuit inspired by the legendary comic series.
 - Difficulty Settings: Caped Crusader enhanced difficulty setting and an even more challenging Dark Knight difficulty level provide a tougher playthrough for seasoned gamers, in addition to the traditional LEGO game experience.
+- Build the Legacy of the Dark Knight: Begin with a young Bruce Wayne training with The Leagueof Shadows and play through key events on the way to becoming the Dark Knight. Throughout the campaign, build a family of allies with Jim Gordon, Robin, Nightwing, Batgirl, Catwoman, and Talia al Ghul to help face off against the likes of The Joker, The Penguin, Poison Ivy, Ra’s al Ghul, Bane, and more.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0G6LQK7T1{{</world>}}

@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - VASTE GAMME LEGO HARRY POTTER – Les sets de construction LEGO Harry Potter placent des personnages emblématiques, des lieux mythiques et des aventures magiques entre les mains des jeunes sorciers, sorcières et moldus
-- JEU DE CONSTRUCTION POUR GARÇON OU FILLE DÈS 7 ANS AVEC CALENDRIER DE L’AVENT LEGO HARRY POTTER – À l’approche de Noël, chaque jour devient une aventure fantastique pour les enfants avec ce set de construction Harry Potter
-- 8 MINIFIGURINES LEGO – Harry Potter, Cho Chang, Drago Malefoy, Hannah Abbott, Angelina Johnson, Luna Lovegood, Blaise Zabini & Cédric Diggory, portant chacun un pull de Noël aux couleurs de Poudlard et tenant une baguette
 - INSTRUCTIONS ILLUSTRÉES – Retrouvez derrière chaque fenêtre du calendrier de l’Avent et dans l’application LEGO Builder des instructions illustrées simples pour assembler les modèles amusants à collectionner
 - CADEAU DE LAVENT HARRY POTTER POUR UN GARÇON OU UNE FILLE DÈS 7 ANS – Ce jouet de construction à offrir en attendant les fêtes invite les enfants et les fans adultes à recréer des histoires de Noël à Poudlard
-- 10 CONSTRUCTIONS MINIATURES – Lettre d’admission à Poudlard, chocogrenouille, dragées surprises de Bertie Crochue, bièreaubeurre, Choixpeau magique, 3 potions, Le monstrueux livre des monstres et 2 gallions
+- 8 MINIFIGURINES LEGO – Harry Potter, Cho Chang, Drago Malefoy, Hannah Abbott, Angelina Johnson, Luna Lovegood, Blaise Zabini & Cédric Diggory, portant chacun un pull de Noël aux couleurs de Poudlard et tenant une baguette
 - RETROUVEZ 6 FIGURINES LEGO À CONSTRUIRE – Hedwige, Buck avec des ailes mobiles, Aragog avec des pattes mobiles, un sombral avec des ailes mobiles, une mandragore & un Patronus de cerf
+- 10 CONSTRUCTIONS MINIATURES – Lettre d’admission à Poudlard, chocogrenouille, dragées surprises de Bertie Crochue, bièreaubeurre, Choixpeau magique, 3 potions, Le monstrueux livre des monstres et 2 gallions
+- JEU DE CONSTRUCTION POUR GARÇON OU FILLE DÈS 7 ANS AVEC CALENDRIER DE L’AVENT LEGO HARRY POTTER – À l’approche de Noël, chaque jour devient une aventure fantastique pour les enfants avec ce set de construction Harry Potter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDK6J9X{{</world>}}

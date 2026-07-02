@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- GIFT FOR PLANT LOVERS – This LEGO Botanicals Succulents building kit makes a thoughtful birthday, anniversary or housewarming gift for adults who love plants, design or creative hobbies
-- COLOURFUL, TEXTURED MODELS – Admire the range of shapes, textures and colours that make up this striking botanical display, with each plant offering something unique
 - LOW-MAINTENANCE DECOR – This LEGO set for adults features 9 different LEGO artificial plants creating a low-maintenance display to enhance your office or home décor
-- FUN TO BUILD TOGETHER – Includes 3 sets of building instructions so you can enjoy a relaxing, shared activity with friends or family
-- HIDDEN LEGO ELEMENTS – Look closely to find fun parts repurposed in clever ways, with design details inspired by other LEGO sets
 - DISPLAY YOUR WAY – Customise the arrangement by combining all 9 plants into one group, or separate them into smaller displays to suit your personal style
 - INSPIRED BY REAL PLANTS – Each faux plant in this LEGO Botanicals set is based on a real-life succulent, designed to bring a contemporary, nature-inspired touch to any space
+- COLOURFUL, TEXTURED MODELS – Admire the range of shapes, textures and colours that make up this striking botanical display, with each plant offering something unique
+- GIFT FOR PLANT LOVERS – This LEGO Botanicals Succulents building kit makes a thoughtful birthday, anniversary or housewarming gift for adults who love plants, design or creative hobbies
+- FUN TO BUILD TOGETHER – Includes 3 sets of building instructions so you can enjoy a relaxing, shared activity with friends or family
+- HIDDEN LEGO ELEMENTS – Look closely to find fun parts repurposed in clever ways, with design details inspired by other LEGO sets
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09BNV7VS1{{</world>}}

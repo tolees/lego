@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- FLORALE BÜRO DEKO: Die fertigen Sonnenblumen kann man dann ausstellen oder mit anderen separat erhältlichen LEGO Botanicals Sets zu einer großen LEGO Dekoration kombinieren
-- BEWEGLICHE BLÜTENBLÄTTER: Zu dem LEGO Blumenstrauß gehören auch 4 Eukalyptuszweige sowie anpassbare Blütenblätter und Stängel, um Baufans ihre ganz persönliche Blumendeko gestalten zu lassen
-- GESCHENK FÜR FRAUEN UND MÄNNER: Sonnenblumen stehen für Glück; deshalb ist das Set ein beliebtes Geschenk für Erwachsene zu Anlässen wie Valentinstag, Muttertag oder Einweihungsparty
 - BUILDER APP: Digitale Bauanleitungen zu diesem Bauset sind auch in der LEGO Builder App verfügbar; die App lässt Blumenfans gemeinsam mit ihren Lieben bauen
-- BOTANICALS KOLLEKTION: Baue noch weitere Blumen mit den separat erhältlichen LEGO Botanicals Bausets; in dem Sortiment findest du unter anderem Rosen, Tulpen und Topfpflanzen.
-- MODELLBAU MIT KUNSTBLUMEN: Die LEGO Botanicals Sonnenblumen aus diesem detailgetreuen Bauset für Erwachsene lassen dich deine Kreativität voll ausleben
 - LEGO KUNSTPFLANZE ZUM BAUEN: Der Strauß besteht aus 6 Sonnenblumen: 1 Sonnenblumenknospe, 3 Sonnenblumen, die gerade erst aufgehen, und 2 großen voll geöffneten Sonnenblumen
+- FLORALE BÜRO DEKO: Die fertigen Sonnenblumen kann man dann ausstellen oder mit anderen separat erhältlichen LEGO Botanicals Sets zu einer großen LEGO Dekoration kombinieren
+- GESCHENK FÜR FRAUEN UND MÄNNER: Sonnenblumen stehen für Glück; deshalb ist das Set ein beliebtes Geschenk für Erwachsene zu Anlässen wie Valentinstag, Muttertag oder Einweihungsparty
+- BEWEGLICHE BLÜTENBLÄTTER: Zu dem LEGO Blumenstrauß gehören auch 4 Eukalyptuszweige sowie anpassbare Blütenblätter und Stängel, um Baufans ihre ganz persönliche Blumendeko gestalten zu lassen
+- MODELLBAU MIT KUNSTBLUMEN: Die LEGO Botanicals Sonnenblumen aus diesem detailgetreuen Bauset für Erwachsene lassen dich deine Kreativität voll ausleben
+- BOTANICALS KOLLEKTION: Baue noch weitere Blumen mit den separat erhältlichen LEGO Botanicals Bausets; in dem Sortiment findest du unter anderem Rosen, Tulpen und Topfpflanzen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGD4DQ{{</world>}}

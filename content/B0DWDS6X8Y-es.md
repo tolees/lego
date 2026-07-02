@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Figura articulada de un dragón: Los fans de los ninja podrán mover la cabeza, los brazos y las escamas del dragón de juguete para colocarlas en diferentes posiciones cuando lo expongan como decoración del dormitorio en una estantería o escritorio
-- Infinidad de detalles: La base de exposición del kit de maquetas Dragón Guardián tiene un estanque, una espada mágica flotante, faroles y una puerta para contar historias ninja
+- Un universo de juegos ninja: Los juguetes LEGO NINJAGO transportan a los niños a un lugar de fantasía lleno de aventuras con sus héroes ninja favoritos
 - Maqueta de un dragón LEGO NINJAGO: Los fans de NINJAGO adolescentes podrán ampliar su colección de maquetas de construcción LEGO NINJAGO con el set Dragón Guardián
+- Infinidad de detalles: La base de exposición del kit de maquetas Dragón Guardián tiene un estanque, una espada mágica flotante, faroles y una puerta para contar historias ninja
 - Pósters incluidos: Este set de construcción LEGO incluye pósters exclusivos que encantarán a los fans de NINJAGO, ya que añaden diversión y posibilidad de coleccionarlos a la experiencia de construcción
 - Regalo para fans de NINJAGO: Este juego ninja proporciona una gratificante experiencia y es una gran idea de regalo para chicos y chicas adolescentes de 14 años o más seguidores de la serie NINJAGO: Destino Monstruoso
 - 1 minifigura LEGO NINJAGO: El juguete de construcción con ladrillos LEGO incluye una minifigura del Maestro Wu con un elemento que representa un bastón
-- Un universo de juegos ninja: Los juguetes LEGO NINJAGO transportan a los niños a un lugar de fantasía lleno de aventuras con sus héroes ninja favoritos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDS6X8Y{{</world>}}

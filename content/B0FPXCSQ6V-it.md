@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 6 MINIFIGURE LEGO NINJAGO: con i personaggi NINJAGO della serie TV: Maya, Ray, Nya, il fabbro Kai, il Maestro Wu e un Maestro della Terra Elementale collezionabile
-- MODELLO CON FABBRO: la casa giocattolo LEGO include un laboratorio con attrezzi; aprendo il modello si scoprono una camera da letto e una fucina ricca di dettagli della storia
 - GADGET REGALO DI COMPLEANNO: questo kit di modellismo è unavvincente idea regalo di compleanno per bambini e bambine, con cui festeggiare lanniversario dei ninja, pensata anche per i fan adulti di giochi LEGO NINJAGO da collezione
-- GUIDA DIGITALE: lascia che lapp LEGO Builder guidi i piccoli in unavventura intuitiva, nella quale possono salvare i set, tenere traccia dei progressi e ingrandire e ruotare i modelli in 3D
-- CARATTERISTICHE DIVERTENTI: il set celebra i Maestri dello Spinjitzu e include delle tessere nascoste dietro il casco e il cappuccio; i giovani possono spingere un cartello per rivelare la mappa segreta delle armi doro
 - SET ANNIVERSARIO LEGO NINJAGO: La Bottega delle Quattro Armi – 15° Anniversario è un gioco per bambini e bambine da 14 anni in su, che riproduce il primo scenario in assoluto dellepisodio pilota della serie TV
+- CARATTERISTICHE DIVERTENTI: il set celebra i Maestri dello Spinjitzu e include delle tessere nascoste dietro il casco e il cappuccio; i giovani possono spingere un cartello per rivelare la mappa segreta delle armi doro
+- GUIDA DIGITALE: lascia che lapp LEGO Builder guidi i piccoli in unavventura intuitiva, nella quale possono salvare i set, tenere traccia dei progressi e ingrandire e ruotare i modelli in 3D
+- MODELLO CON FABBRO: la casa giocattolo LEGO include un laboratorio con attrezzi; aprendo il modello si scoprono una camera da letto e una fucina ricca di dettagli della storia
+- 6 MINIFIGURE LEGO NINJAGO: con i personaggi NINJAGO della serie TV: Maya, Ray, Nya, il fabbro Kai, il Maestro Wu e un Maestro della Terra Elementale collezionabile
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCSQ6V{{</world>}}

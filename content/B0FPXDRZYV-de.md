@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- GESCHENK FÜR F1 FANS: Dieses MINT Bauset ist ein beliebtes Geschenk für Männer und Frauen, die Technik-Bausets und das McLaren F1 Team lieben
+- V6-MOTOR UND DRS: Nimm die Motorabdeckung ab, um den V6-Motor des F1 Autos zu bestaunen, und sieh dir dann das 2-Gang-Getriebe und den DRS-Aktivator an, der den Heckflügel flacher stellt
+- ANSPRUCHSVOLLES BAUPROJEKT: Die separat erhältlichen LEGO Technic Fahrzeuge für Erwachsene lassen dich technische Konzepte erkunden und anspruchsvolle Bauprojekte genießen
+- BAUEN UND AUSSTELLEN: Freu dich auf ein fesselndes Bauprojekt mit diesem Bauset.; stell das fertige 3D Puzzle im Maßstab 1:8 dann im Wohnzimmer oder Büro aus, um deine Begeisterung für F1 Flitzer zu feiern
 - SAMMLE DEINE 3D MODELLE: Die LEGO Builder App lässt dich deine Modelle mithilfe von 3D-Bauanleitungen erschaffen und all deine Sets speichern; die App zeigt dir außerdem, wie weit du mit deinem Modell schon bist
 - F1 RENNAUTO FÜR ERWACHSENE: Der LEGO Technic McLaren MCL39 F1 Rennwagen hat unzählige Details, die erwachsene F1 Fans begeistern und jedes Rennen dominieren lassen
-- GESCHENK FÜR F1 FANS: Dieses MINT Bauset ist ein beliebtes Geschenk für Männer und Frauen, die Technik-Bausets und das McLaren F1 Team lieben
-- BAUEN UND AUSSTELLEN: Freu dich auf ein fesselndes Bauprojekt mit diesem Bauset.; stell das fertige 3D Puzzle im Maßstab 1:8 dann im Wohnzimmer oder Büro aus, um deine Begeisterung für F1 Flitzer zu feiern
-- ANSPRUCHSVOLLES BAUPROJEKT: Die separat erhältlichen LEGO Technic Fahrzeuge für Erwachsene lassen dich technische Konzepte erkunden und anspruchsvolle Bauprojekte genießen
-- V6-MOTOR UND DRS: Nimm die Motorabdeckung ab, um den V6-Motor des F1 Autos zu bestaunen, und sieh dir dann das 2-Gang-Getriebe und den DRS-Aktivator an, der den Heckflügel flacher stellt
 - MODELLBAU MIT AUTHENTISCHEN FUNKTIONEN: Entdecke die originalgetreuen Details des Rennautos; die Pushrod/Pullrod-Radaufhängung, die Lenkung und das Differential
 
 [🛒 Check the deal!!]({{< param buyurl >}})

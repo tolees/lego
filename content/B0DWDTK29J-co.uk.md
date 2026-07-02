@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Star Wars gift for fans – Treat yourself or give this building set as a gift to men and women who are Star Wars fans, advanced LEGO builders or collectors of LEGO Star Wars UCS sets
-- Authentic details – Use LEGO bricks to recreate instantly recognisable features of the all-terrain Star Wars vehicle, including its distinctive legs and opening top hatch to the detailed 2-person cockpit
-- AT-ST Walker building set for adults – Build the LEGO Star Wars Ultimate Collector Series version of the AT-ST Walker, as seen on the battlefields in the classic Star Wars saga
-- Customise your display – Rotate the ‘head’ of the AT-ST, open and close the shutters over the viewports, and adjust the laser cannons before displaying the model as a fun piece of home decor
 - LEGO Star Wars collectible sets for adults – From a galaxy far, far away to your home, LEGO Star Wars model kits for adults are designed for people who enjoy mindful, craft activities to relax
+- AT-ST Walker building set for adults – Build the LEGO Star Wars Ultimate Collector Series version of the AT-ST Walker, as seen on the battlefields in the classic Star Wars saga
+- Star Wars gift for fans – Treat yourself or give this building set as a gift to men and women who are Star Wars fans, advanced LEGO builders or collectors of LEGO Star Wars UCS sets
 - Intuitive instructions – Enjoy every step of this complex build with the LEGO Builder app; you can view a 3D digital version of the construction model as you build, track your progress and save sets
+- Customise your display – Rotate the ‘head’ of the AT-ST, open and close the shutters over the viewports, and adjust the laser cannons before displaying the model as a fun piece of home decor
 - Build-and-display model – Display your creation next to the AT-ST information plaque and unique AT-ST Driver LEGO Star Wars minifigure with the Imperial crest on its arms and a blaster pistol
+- Authentic details – Use LEGO bricks to recreate instantly recognisable features of the all-terrain Star Wars vehicle, including its distinctive legs and opening top hatch to the detailed 2-person cockpit
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDTK29J{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Outils amovibles – Fixez le marteau ou la pelle, puis utilisez la transmission pour actionner la flèche et le bras de la pelleteuse afin de recréer les mouvements d’un véritable engin de chantier
-- Kit de construction avec moteur alimenté par piles – Ce set inclut un moteur à piles permettant dalimenter la pelleteuse LEGO ; nécessite 6 piles LR6 (AA) non fournies
 - Set de construction pour adulte avec Pelleteuse LEGO Technic à créer – Plongez dans un projet immersif avec ce kit détaillé et construisez la Pelleteuse Volvo EC500 hybride (42215) intégrant des fonctionnalités motorisées
+- Kit de construction avec moteur alimenté par piles – Ce set inclut un moteur à piles permettant dalimenter la pelleteuse LEGO ; nécessite 6 piles LR6 (AA) non fournies
+- Outils amovibles – Fixez le marteau ou la pelle, puis utilisez la transmission pour actionner la flèche et le bras de la pelleteuse afin de recréer les mouvements d’un véritable engin de chantier
 - Maquettes LEGO à construire pour adulte avec niveau avancé – Explorez des concepts d’ingénierie et de mécanique, et savourez un projet de construction relaxant grâce à la collection de véhicules LEGO Technic pour adulte
 - Instructions de montage numériques – L’application LEGO Builder propose une version numérique des instructions incluses dans ce set de construction LEGO
 - Set LEGO motorisé – Cette maquette réduite de pelleteuse inclut un moteur et une transmission avec 4 fonctions, dont une flèche et un bras mobiles et des outils (marteau et pelle) interchangeables

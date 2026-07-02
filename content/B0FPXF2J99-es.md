@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- TORRE DEFENSIVA: Pon una minifigura LEGO Star Wars tras el cañón doble que dispara, orienta la torreta giratoria para apuntar, y abre la base para descubrir un armero y espacio de almacenamiento
-- EXPLORA LA GAMA: Descubre más sets LEGO Star Wars coleccionables inspirados en Star Wars: The Mandalorian and Grogu (a la venta por separado) para revivir emocionantes escenas y crear nuevas aventuras de fantasía
-- KIT DE CONSTRUCCIÓN DE STAR WARS: Recrea el Ataque del AT-RT de Star Wars: The Mandalorian and Grogu con un AT-RT y una torre defensiva del Remanente Imperial, ambos armados con cañones
-- DIVERSIÓN INTERACTIVA POTENCIADA: La app LEGO Builder ayuda a tu peque a construir por su cuenta con herramientas que le permiten acercar y girar los modelos siguiendo instrucciones 3D, consultar su progreso y guardar sus sets en un mismo lugar
 - FIGURA ARTICUALADA DE AT-RT: Mueve las patas del AT-RT para colocarlo en distintas posturas, apunta y dispara el cañón doble; retira un ladrillo del tablero de mandos para hacer sitio a Grogu junto al Mandaloriano
-- REGALO DEL UNIVERSO STAR WARS PARA PEQUES: Este trepidante juguete de construcción es un divertido regalo para niños, niñas y cualquier fan a partir de 7 años
 - 3 PERSONAJES LEGO STAR WARS: Forma equipo con la minifigura LEGO del Mandaloriano y la figura LEGO de Grogu para luchar contra el piloto de AT-RT del Remanente Imperial
+- DIVERSIÓN INTERACTIVA POTENCIADA: La app LEGO Builder ayuda a tu peque a construir por su cuenta con herramientas que le permiten acercar y girar los modelos siguiendo instrucciones 3D, consultar su progreso y guardar sus sets en un mismo lugar
+- REGALO DEL UNIVERSO STAR WARS PARA PEQUES: Este trepidante juguete de construcción es un divertido regalo para niños, niñas y cualquier fan a partir de 7 años
+- KIT DE CONSTRUCCIÓN DE STAR WARS: Recrea el Ataque del AT-RT de Star Wars: The Mandalorian and Grogu con un AT-RT y una torre defensiva del Remanente Imperial, ambos armados con cañones
+- EXPLORA LA GAMA: Descubre más sets LEGO Star Wars coleccionables inspirados en Star Wars: The Mandalorian and Grogu (a la venta por separado) para revivir emocionantes escenas y crear nuevas aventuras de fantasía
+- TORRE DEFENSIVA: Pon una minifigura LEGO Star Wars tras el cañón doble que dispara, orienta la torreta giratoria para apuntar, y abre la base para descubrir un armero y espacio de almacenamiento
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXF2J99{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A fun way to build – The LEGO Builder app offers an intuitive building experience, allowing kids to save sets, track progress, and zoom in or rotate models in 3D as they build
 - 6 NINJAGO minifigures – Includes Kai, Wyldfyre, Cole, Nokt, a Spectral Dragonian Scout and Frak (appearing for the first time), plus a glider toy vehicle and a creature model
-- 3-in-1 ninja combat vehicle – This LEGO building toy for 8+ year old boys and girls lets kids role-play air and ground battles inspired by season 3 of the NINJAGO Dragons Rising TV show
 - Detachable ninja vehicles – The large NINJAGO vehicle splits into three smaller ones: Kais ninja motorbike toy, Wyldfyres ninja bike, and Frak’s jet aircraft with two stud shooters
-- Ninja toy weapons – Kai, Wyldfyre and Frak each come with two golden katana accessories, Cole has a translucent reveal blade and a lantern, while Nokt and the Spectral Dragonian Scout both carry a sword
-- Birthday gift for kids – This LEGO NINJAGO set offers a fun build-and-play experience and makes a great gift for 8+ year old boys and girls who enjoy imaginative play with ninja toys
 - A universe of ninja toys – LEGO NINJAGO building sets let kids dive into a fantasy world of action-packed adventures alongside their ninja heroes
+- Birthday gift for kids – This LEGO NINJAGO set offers a fun build-and-play experience and makes a great gift for 8+ year old boys and girls who enjoy imaginative play with ninja toys
+- Ninja toy weapons – Kai, Wyldfyre and Frak each come with two golden katana accessories, Cole has a translucent reveal blade and a lantern, while Nokt and the Spectral Dragonian Scout both carry a sword
+- 3-in-1 ninja combat vehicle – This LEGO building toy for 8+ year old boys and girls lets kids role-play air and ground battles inspired by season 3 of the NINJAGO Dragons Rising TV show
+- A fun way to build – The LEGO Builder app offers an intuitive building experience, allowing kids to save sets, track progress, and zoom in or rotate models in 3D as they build
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWF5SS16{{</world>}}

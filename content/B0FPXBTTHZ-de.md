@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- STAR WARS GESCHENK: Dieses fantastische Spielset ist ein beliebtes Geschenk für Jungen, Mädchen und alle Fans von Star Wars: The Mandalorian and Grogu ab 9 Jahren
+- STERNENSCHIFF ZUM BAUEN UND SPIELEN: Das LEGO Star Wars Sternenschiff der Anzellaner aus Star Wars: The Mandalorian and Grogu lässt Kinder coole Droiden bauen
 - ENTDECKE DAS GANZE SORTIMENT: Schau dir weitere separat erhältliche LEGO Sammlersets zu Star Wars: The Mandalorian and Grogu an, um Szenen nachzuspielen und eigene originelle Geschichten darzustellen
-- LEGO FIGUREN SET: Nimm das Dach ab, um Zugang zum Hauptrumpf zu erhalten, und stell die Werkbank vors Sternenschiff, um mehr Platz fürs Reparieren der Droiden zu haben
+- STAR WARS GESCHENK: Dieses fantastische Spielset ist ein beliebtes Geschenk für Jungen, Mädchen und alle Fans von Star Wars: The Mandalorian and Grogu ab 9 Jahren
+- DIGITALE BAUANLEITUNGEN: In der LEGO Builder App erleben Kinder ein intuitives Bauabenteuer mit 3D-Bauanleitungen, können Modelle vergrößern und drehen und jederzeit sehen und speichern
 - 3 LEGO STAR WARS FIGUREN: Steck die Figur Grogu und 2 Anzellaner ins Cockpit oder in den Hauptrumpf des Sternenschiffs und stelle bekannte Szenen nach oder erfinde eigene Abenteuer
 - LEGO RAUMSCHIFF MIT COOLEN FUNKTIONEN: Zieh die Rampe herunter, baue Kampfdroiden mit den Droidenteilen und Werkzeugen im Werkstattbereich und lass einen der Anzellaner am Tisch einen blauen Keks knabbern
-- DIGITALE BAUANLEITUNGEN: In der LEGO Builder App erleben Kinder ein intuitives Bauabenteuer mit 3D-Bauanleitungen, können Modelle vergrößern und drehen und jederzeit sehen und speichern
-- STERNENSCHIFF ZUM BAUEN UND SPIELEN: Das LEGO Star Wars Sternenschiff der Anzellaner aus Star Wars: The Mandalorian and Grogu lässt Kinder coole Droiden bauen
+- LEGO FIGUREN SET: Nimm das Dach ab, um Zugang zum Hauptrumpf zu erhalten, und stell die Werkbank vors Sternenschiff, um mehr Platz fürs Reparieren der Droiden zu haben
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXBTTHZ{{</world>}}

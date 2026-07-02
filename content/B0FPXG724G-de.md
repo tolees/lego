@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- GESCHENK FÜR GAMER: Dieses Spielset ist ein beliebtes Geburtstagsgeschenk für Kinder ab 10 Jahren und für Videospielfans, die Minecraft Fanartikel lieben
 - KREATIVES BAUSET: Dieser spektakuläre Fanartikel zum Videospiel hält Pfeil und Bogen in den Händen und trägt einen abnehmbaren Diamanthelm auf dem Kopf
-- LEGO MINECRAFT FIGUR: Die Figur hat Gelenke an Hals und Armen. Das kleine Skelett steht auf einem Grassockel und lässt sich leicht in dynamische Posen bringen
-- FASZINIERENDES BAUERLEBNIS: Die 3D-Bauanleitungen in der LEGO Builder App bieten ein intuitives Bauabenteuer. Kinder können in der App Sets speichern, 3D Modelle vergrößern und drehen und sich anschauen, wie weit sie schon sind
 - SCHALTE EIN IN-GAME-ITEM FREI: Kinder können einen QR-Code auf der Bauanleitung scannen, um eine Diamantmütze im Videospiel Minecraft freizuschalten
 - SKELETT ZUM BAUEN UND SPIELEN: Das Skelett stellt einen der legendärsten Minecraft Charaktere dar und ist eine tolle Überraschung für Gamer, LEGO Fans und alle, die DIY Deko sammeln
+- LEGO MINECRAFT FIGUR: Die Figur hat Gelenke an Hals und Armen. Das kleine Skelett steht auf einem Grassockel und lässt sich leicht in dynamische Posen bringen
+- GESCHENK FÜR GAMER: Dieses Spielset ist ein beliebtes Geburtstagsgeschenk für Kinder ab 10 Jahren und für Videospielfans, die Minecraft Fanartikel lieben
+- FASZINIERENDES BAUERLEBNIS: Die 3D-Bauanleitungen in der LEGO Builder App bieten ein intuitives Bauabenteuer. Kinder können in der App Sets speichern, 3D Modelle vergrößern und drehen und sich anschauen, wie weit sie schon sind
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXG724G{{</world>}}

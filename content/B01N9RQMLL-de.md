@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3D PUZZLE FÜR ERWACHSENE: Alles, was du brauchst, um eine Nachbildung des Raumschiffs aus „Der Astronaut“ im Mikromaßstab, einen funktionierenden Ständer, die Minifigur Ryland Grace und die Figur Rocky zu bauen
 - LEGO SETS FÜR ERWACHSENE: Als Teil der LEGO Icons Reihe richtet sich das Modell an LEGO für Erwachsene und ergänzt bestehende Sammlungen um ein anspruchsvolles Bauprojekt mit Designfokus
 - VOLL FUNKTIONSFÄHIGES BASTELSET: Durch Drehen der Kurbel am Ständer wird das Crew-Modul bewegt und das Fliehkraftsystem des Raumschiffs erlebbar gemacht
-- 3D BAUANLEITUNG FÜR DEINE WELTRAUM DEKO: In der LEGO Builder App kannst du dir 3D Modelle ansehen, andere Bausets entdecken und verfolgen, wie weit du mit deinem Modell schon bist
+- GESCHENKE FÜR SCIENCE-FICTION-FANS: Feiere einen besonderen Anlass wie einen Geburtstag mit dem Raumschiff aus diesem LEGO Bauset für Erwachsene, die Science-Fiction-Filme und Weltraumabenteuer lieben
 - LEGO RAUMSCHIFF ALS ZIMMERDEKO: Erschaffe eine futuristische Deko fürs Wohnzimmer oder dein Büro und entspanne dich bei dieser kreativen DIY Aktivität
 - MODELLBAU ZUM FILM „DER ASTRONAUT“: LEGO Icons Der Astronaut ist ein Bauset mit einem Raumschiff im Mikromaßstab, das Erwachsene in die Welt eines Science-Fiction-Films schickt
-- GESCHENKE FÜR SCIENCE-FICTION-FANS: Feiere einen besonderen Anlass wie einen Geburtstag mit dem Raumschiff aus diesem LEGO Bauset für Erwachsene, die Science-Fiction-Filme und Weltraumabenteuer lieben
+- 3D BAUANLEITUNG FÜR DEINE WELTRAUM DEKO: In der LEGO Builder App kannst du dir 3D Modelle ansehen, andere Bausets entdecken und verfolgen, wie weit du mit deinem Modell schon bist
+- 3D PUZZLE FÜR ERWACHSENE: Alles, was du brauchst, um eine Nachbildung des Raumschiffs aus „Der Astronaut“ im Mikromaßstab, einen funktionierenden Ständer, die Minifigur Ryland Grace und die Figur Rocky zu bauen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N9RQMLL{{</world>}}

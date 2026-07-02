@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- KINDER GESCHENK FÜR SPIDER-MAN FANS: Dieses LEGO Marvel Spielzeug ist ein beliebtes Geschenk für Jungen ab 6 Jahren, die Superhelden Spielzeug und Spiderman Figuren lieben
+- NOCH MEHR SUPERHELDEN-MECHS: Kinder können eine große Auswahl an LEGO Mech Figuren Sets (separat erhältlich) sammeln und kombinieren, um ihre Superhelden-Abenteuer zu erweitern
 - 3 LEGO MARVEL MINIFIGUREN: Mit Spider-Man, Ghost-Spider und Doc Ock enthält das Set drei beliebte Superhelden Figuren, die Kinder in kreative Rollen schlüpfen lassen
 - MECH-VS.-MECH SET: Ein spannendes Superhelden-Duell erwartet Jungen und Mädchen ab 6 Jahren mit diesem LEGO Marvel Bauset, das zwei bewegliche Mech-Anzüge und jede Menge Action bietet
 - SUPERHELDEN MECHS MIT COCKPIT: Die LEGO Mechs von Spider-Man und Doc Ock sind vollständig beweglich und bieten Cockpits für die LEGO Figuren, sodass Kinder spannende Kämpfe inszenieren können
 - GROßE AUSWAHL AN LEGO MARVEL SETS: Ob Ghost-Spider Figur, LEGO Spiderman, Autos oder Mechs, die LEGO Marvel Reihe bietet eine große Auswahl an Sets mit legendären Charakteren aus dem Marvel Universum
-- NOCH MEHR SUPERHELDEN-MECHS: Kinder können eine große Auswahl an LEGO Mech Figuren Sets (separat erhältlich) sammeln und kombinieren, um ihre Superhelden-Abenteuer zu erweitern
+- KINDER GESCHENK FÜR SPIDER-MAN FANS: Dieses LEGO Marvel Spielzeug ist ein beliebtes Geschenk für Jungen ab 6 Jahren, die Superhelden Spielzeug und Spiderman Figuren lieben
 - KONSTRUKTIONSSPIELZEUG MIT ACTION-ZUBEHÖR: Mit Spinnennetzen, Shootern, Tentakeln und Schleudern ist dieses Spiderman Geschenk voller Zubehör für stundenlangen Spielspaß
 
 [🛒 Check the deal!!]({{< param buyurl >}})

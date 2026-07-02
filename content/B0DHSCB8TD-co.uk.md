@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Interactive spinner toy – Includes a Spinjitzu spinner vehicle with a minifigure launcher that activates a rapid spin for exciting action
+- 8 LEGO NINJAGO minifigures – Ninja warriors Lloyd, Cole, Wyldfyre and Kai, and their ally Pixal, plus villains Drix, Zarkt and a Dragonian Warrior
+- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) featuring even more dragons, temples and vehicles
 - Interactive NINJAGO toy dragon – Kids can activate a shooter in the dragon’s chest and move its large foil wings back and forth using a lever
 - Dragon toy for 9+ year old boys and girls – The 2-headed Arc Dragon of Focus brings action from season 3 of LEGO NINJAGO Dragons Rising TV show
-- Interactive spinner toy – Includes a Spinjitzu spinner vehicle with a minifigure launcher that activates a rapid spin for exciting action
 - Ninja gift idea for kids – This LEGO set is a fun build-and-play experience and a great gift for 9+ year old boys and girls who love interactive ninja toys
-- Bigger ninja adventures – Look out for more LEGO NINJAGO building toys (sets sold separately) featuring even more dragons, temples and vehicles
-- 8 LEGO NINJAGO minifigures – Ninja warriors Lloyd, Cole, Wyldfyre and Kai, and their ally Pixal, plus villains Drix, Zarkt and a Dragonian Warrior
 - Highly posable dragon figure – The Arc Dragon of Focus ninja building toy features a posable tail, legs, feet, head, neck, jaw and claws
 
 [🛒 Buy it now!!]({{< param buyurl >}})

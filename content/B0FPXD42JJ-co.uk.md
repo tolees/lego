@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- KIDS CRAFTS WITH FUN FEATURES – The shark toy has a posable mouth, body, side fins and tail fin; the anglerfish can move its mouth, side fins and tail fin; and the manta ray has a posable tail fin
 - STANDS WITH ACCESSORIES FOR DISPLAY – All 3 models can be displayed on a stand, plus the shark comes with a treasure chest and crab, the anglerfish comes with sea plants and the manta ray with a clamshell
-- ENDLESS PRETEND-PLAY OPTIONS – Kids can enjoy fun stories with 3 sea creatures (models cannot be built simultaneously): a shark figure with a treasure chest, or an anglerfish or manta ray
 - 3in1 SEA ANIMAL TOYS – The LEGO Creator Fierce Shark with a Treasure Chest toy for 8+ year old girls and boys lets kids build and rebuild 3 ocean animal figures with the same LEGO bricks
-- GIFT IDEA FOR KIDS – This LEGO Creator 3in1 set makes a fun anytime treat and a great birthday gift for 8+ year old boys and girls who love creative toys
 - MORE CREATIVE FUN – Enjoy even more building adventures with other sets (sold separately) from the extensive LEGO Creator 3in1 range
+- KIDS CRAFTS WITH FUN FEATURES – The shark toy has a posable mouth, body, side fins and tail fin; the anglerfish can move its mouth, side fins and tail fin; and the manta ray has a posable tail fin
+- ENDLESS PRETEND-PLAY OPTIONS – Kids can enjoy fun stories with 3 sea creatures (models cannot be built simultaneously): a shark figure with a treasure chest, or an anglerfish or manta ray
+- GIFT IDEA FOR KIDS – This LEGO Creator 3in1 set makes a fun anytime treat and a great birthday gift for 8+ year old boys and girls who love creative toys
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXD42JJ{{</world>}}

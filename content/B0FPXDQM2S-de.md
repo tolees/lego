@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- McLAREN RENNWAGEN SPIELZEUG: Baue, präsentiere und erlebe rasante Rennen mit dem LEGO Speed Champions McLaren W1 Supersportwagen für Jungen und Mädchen ab 9 Jahren
+- GESCHENK FÜR KINDER: Dieses LEGO Speed Champions McLaren Auto bietet ein spannendes Bauerlebnis und ist ein schönes Geburtstagsgeschenk für Jungen und Mädchen ab 9 Jahren oder Motorsportfans
 - LEGO DEKO FÜR KINDERZIMMER: Nachdem du mit diesem sammelbaren Bauset spannende Geschichten gespielt hast, kannst du es stolz in deinem Zimmer auf einem Regal, Schreibtisch oder Nachttisch präsentieren
-- IKONISCHE AUTOS ZUM SPIELEN UND AUSSTELLEN: Mit dem LEGO Speed Champions Set kannst du als Kind oder Autofan Nachbildungen berühmter Fahrzeuge bauen, mit ihnen spielen und sie ausstellen
+- McLAREN RENNWAGEN SPIELZEUG: Baue, präsentiere und erlebe rasante Rennen mit dem LEGO Speed Champions McLaren W1 Supersportwagen für Jungen und Mädchen ab 9 Jahren
 - LEGO FAHRZEUG MIT AUTHENTISCHEN DETAILS: Zeigt Elemente des echten Sportwagens, darunter 1 verstellbaren Heckflügel zum Cruisen oder für Rennen, Heckmotor, Cockpit und zentrales Infotainment-Display
 - 1 LEGO FAHRER MINIFIGUR: Dieses Rennwagen Modellset enthält eine Fahrer Minifigur mit McLaren-Outfit und Helm, Perücke und Schraubenschlüssel, du kannst sie im Cockpit platzieren
-- GESCHENK FÜR KINDER: Dieses LEGO Speed Champions McLaren Auto bietet ein spannendes Bauerlebnis und ist ein schönes Geburtstagsgeschenk für Jungen und Mädchen ab 9 Jahren oder Motorsportfans
+- IKONISCHE AUTOS ZUM SPIELEN UND AUSSTELLEN: Mit dem LEGO Speed Champions Set kannst du als Kind oder Autofan Nachbildungen berühmter Fahrzeuge bauen, mit ihnen spielen und sie ausstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDQM2S{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- CADEAU FOOT POUR AMATEURS.TRICES DE SPORT DÈS 10 ANS – Ce kit LEGO est une superbe idée de cadeau à offrir aux garçons, aux filles et aux adultes fans de Kylian Mbappé, pour un anniversaire, ou une autre occasion spéciale
-- MINIFIGURINE LEGO DE JOUEUR DE FOOTBALL – La minifigurine de Kylian Mbappé donne vie à la scène ; le set inclut différentes surprises cachées, clins d’œil à son histoire et à sa carrière
 - AIDE À LA CONSTRUCTION – Les jeunes stars du foot peuvent accéder aux instructions numériques de l’appli LEGO Builder, où ils peuvent suivre leur progression et visualiser leur maquette en 3D sur le thème du football
 - DÉCORATION DIY POUR CHAMBRE DENFANT – Exposez cette maquette pour créer un décor sportif, seul ou avec d’autres sets LEGO Editions Best of, vendus séparément
-- PRODUIT DÉRIVÉ POUR PASSIONNÉ.E.S DE SPORT – La base du modèle forme l’initiale de Mbappé et le kit affiche le numéro 10, les couleurs de l’équipe française, ainsi qu’une plaque collector portant sa signature et ses statistiques
+- MINIFIGURINE LEGO DE JOUEUR DE FOOTBALL – La minifigurine de Kylian Mbappé donne vie à la scène ; le set inclut différentes surprises cachées, clins d’œil à son histoire et à sa carrière
 - JEU DE CONSTRUCTION SUR LE THÈME DU FOOT DÈS 10 ANS – Rendez hommage à une star du football avec le set Kylian Mbappé – Best of LEGO Editions, un diorama à exposer pour les fans, garçons ou filles
+- CADEAU FOOT POUR AMATEURS.TRICES DE SPORT DÈS 10 ANS – Ce kit LEGO est une superbe idée de cadeau à offrir aux garçons, aux filles et aux adultes fans de Kylian Mbappé, pour un anniversaire, ou une autre occasion spéciale
+- PRODUIT DÉRIVÉ POUR PASSIONNÉ.E.S DE SPORT – La base du modèle forme l’initiale de Mbappé et le kit affiche le numéro 10, les couleurs de l’équipe française, ainsi qu’une plaque collector portant sa signature et ses statistiques
 - COLLECTION LEGO EDITIONS – Exprimez votre passion pour les légendes du foot avec d’autres sets de la même gamme (vendus séparément)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

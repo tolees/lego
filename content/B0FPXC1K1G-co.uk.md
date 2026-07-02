@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
-- BUILD AN INDOOR PLAYGROUND – Let kids’ imaginations roam wild as they explore this LEGO Friends Fun Indoor Playground toy for 7+ year old girls and boys, which includes 3 mini dolls
 - GIFT FOR 7+ YEAR OLD GIRLS AND BOYS – This LEGO Friends building set provides a playful experience for adventurous kids and makes a great gift to celebrate birthdays or any other special occasion
-- 3 LEGO FRIENDS MINI DOLLS – Liann, Nova and Sonia mini dolls encourage girls and boys to create fun stories with the playground rides and included accessories
 - LOTS OF PLAYFUL SURPRISES – Find fun moments around every corner, including a climbing net, obstacles, a carousel ride, a ball pit, a slide, a bunny ride and a snack bar for the mini dolls
-- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
+- DIGITAL INSTRUCTIONS – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
+- 3 LEGO FRIENDS MINI DOLLS – Liann, Nova and Sonia mini dolls encourage girls and boys to create fun stories with the playground rides and included accessories
+- BUILD AN INDOOR PLAYGROUND – Let kids’ imaginations roam wild as they explore this LEGO Friends Fun Indoor Playground toy for 7+ year old girls and boys, which includes 3 mini dolls
 - LOTS OF ACCESSORIES – Fuel storytelling with slushies, hot dogs, a phone, a gumball machine, cash registers, and a coin, plus a side build with a dance machine, a trampoline and more
+- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXC1K1G{{</world>}}

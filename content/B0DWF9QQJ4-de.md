@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- LEGO FÜR MÄDCHEN UND JUNGEN: Beinhaltet 2 wunderschöne Bauwerke zum Ausstellen; Ein LEGO Spielzeugschloss und ein Modell von Emerald City mit vielen Elementen aus dem Film und geheimen Spielfunktionen
+- LEGO DEKORATION: Nach dem Aufbauen und Spielen kann dieses Spielset im Büro, auf dem Schreibtisch oder im Kinderzimmer ausgestellt werden; es ist ein kreatives Sammelmodell
+- GESCHENK FÜR MÄDCHEN, JUNGEN UND WICKED FANS: Das Baumodell ist ein beliebtes Geschenk für Kinder ab 9 Jahren, die kreative Spielideen lieben, ob allein oder gemeinsam mit Freunden
 - KREATIVES SPIELZEUG MIT DIGITALER ANLEITUNG: Die LEGO Builder App bietet intuitive 3D-Ansichten, speichert Bausets und hilft Kindern dabei, ihr Bauabenteuer Schritt für Schritt zu begleiten
 - MODELLBAU MIT MAGIE UND ABENTEUER: LEGO Emerald City & Kiamo Ko Castle ist ein Bau- und Spielset mit 2 baubaren Modellen, den Wicked Spielfiguren Elphaba und Glinda, einem fliegenden Affen und Regenbogen
-- GESCHENK FÜR MÄDCHEN, JUNGEN UND WICKED FANS: Das Baumodell ist ein beliebtes Geschenk für Kinder ab 9 Jahren, die kreative Spielideen lieben, ob allein oder gemeinsam mit Freunden
-- LEGO DEKORATION: Nach dem Aufbauen und Spielen kann dieses Spielset im Büro, auf dem Schreibtisch oder im Kinderzimmer ausgestellt werden; es ist ein kreatives Sammelmodell
 - LEGO SCHLOSS MIT SZENEN ZUM NACHSTELLEN: Begleite Glinda ins Schlafzimmer, entdecke eine verborgene Karte, dreh die Drehscheibe im Schloss und hilf Elphaba, über den Regenbogen zu verschwinden
-- LEGO FÜR MÄDCHEN UND JUNGEN: Beinhaltet 2 wunderschöne Bauwerke zum Ausstellen; Ein LEGO Spielzeugschloss und ein Modell von Emerald City mit vielen Elementen aus dem Film und geheimen Spielfunktionen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF9QQJ4{{</world>}}

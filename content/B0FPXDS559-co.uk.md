@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- BIRTHDAY GIFT IDEA FOR KIDS – Offering 2 building adventures, this sea creature playset makes a unique birthday present or anytime gift for 8+ year old boys and girls
-- 3 LEGO MINIFIGURES – Heroes Logan and Zoey and villain Arika, plus 2 toy spiders, a collectible Blue Treasure Creature figure and a Grimspawn figure bring the action to life
 - FANTASY SUBMARINE TOY FOR KIDS – Kids can dive into a new pretend-play adventure and unleash their imaginations with the LEGO DREAMZzz 2in1 Crocodile Submarine toy for 8+ year old boys and girls
 - AN IMMERSIVE BUILD – This LEGO DREAMZzz set includes story-led instructions that are also available digitally in the LEGO Builder app, where kids can zoom, rotate and track their progress
+- BIRTHDAY GIFT IDEA FOR KIDS – Offering 2 building adventures, this sea creature playset makes a unique birthday present or anytime gift for 8+ year old boys and girls
 - DISCOVER MORE CREATIVE TOYS – Continue the imagination adventure with other building sets (sold separately) in the LEGO DREAMZzz collection, featuring an array of animal, mech and vehicle toys
 - ACTION TOYS – The crocodile submarine toy and flying eagle submarine toy are both equipped with dual boosters with side-mounted shooters and hidden compartments on each side
+- 3 LEGO MINIFIGURES – Heroes Logan and Zoey and villain Arika, plus 2 toy spiders, a collectible Blue Treasure Creature figure and a Grimspawn figure bring the action to life
 - 1 SET, 2 BUILDING OPTIONS – Using the same bricks, kids can choose to build a crocodile submarine toy with a posable head, legs and tail or an eagle submarine with posable wings
 
 [🛒 Buy it!!]({{< param buyurl >}})

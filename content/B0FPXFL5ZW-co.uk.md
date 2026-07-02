@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- AUTHENTIC LOADING FUNCTION – With this model kit, kids can lower the detailed F1 toy car from the truck to ground level using the lifting platform
-- FORMULA 1 TOY CAR SET – Young fans of fast cars and racing will love this premium-quality LEGO City F1 Display Truck with Audi F1 Race Car toy for 7+ year old boys and girls
+- 3 LEGO CITY F1 MINIFIGURES – An Audi racing driver and 2 pit crew minifigures plus accessories including a removable F1 steering wheel for the car, and a racing helmet for imaginative play
 - WHATS IN THE BOX? – Includes everything kids need to build a LEGO F1 display truck toy with a driver cab, storage compartments, engine bay and 6 rubber tyres, plus and an Audi Formula 1 race car
 - A HELPING HAND – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
-- F1 GIFTS FOR KIDS – This LEGO vehicle building set makes a great birthday gift for 7+ year old boys, girls and motorsport fans who love racing and creative play
-- 3 LEGO CITY F1 MINIFIGURES – An Audi racing driver and 2 pit crew minifigures plus accessories including a removable F1 steering wheel for the car, and a racing helmet for imaginative play
 - MORE HIGH-SPEED FORMULA 1 ACTION – Look out for other LEGO F1 building sets (sold separately) to build, display and race with the whole family
+- F1 GIFTS FOR KIDS – This LEGO vehicle building set makes a great birthday gift for 7+ year old boys, girls and motorsport fans who love racing and creative play
+- FORMULA 1 TOY CAR SET – Young fans of fast cars and racing will love this premium-quality LEGO City F1 Display Truck with Audi F1 Race Car toy for 7+ year old boys and girls
+- AUTHENTIC LOADING FUNCTION – With this model kit, kids can lower the detailed F1 toy car from the truck to ground level using the lifting platform
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXFL5ZW{{</world>}}
