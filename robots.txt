@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lego.tole.es/sitemap.xml
