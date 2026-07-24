@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'LEGO Marvel Iron Spider-Man Baufigur Superhelden-Actionspielzeug für Kinder ab 8 Jahren Jungen & Mädchen Set mit Rüstung baubares Modell Avengers Geschenk-Idee für Fans der Marvel Filme 76298'
+date: 2026-06-07 04:20:38
+image: 'https://m.media-amazon.com/images/I/41pSwn7mueL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CFW25H6Z-de LEGO Marvel Iron Spider-Man Baufigur Superhelden-...'
+sku: 'B0CFW25H6Z-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 24.28 EUR
+currency: EUR
+price: 24.28
+comparePrice: 34.99 EUR
+prodname: 'LEGO Marvel Iron Spider-Man Baufigur Superhelden-Actionspielzeug für Kinder ab 8 Jahren Jungen & Mädchen Set mit Rüstung baubares Modell Avengers Geschenk-Idee für Fans der Marvel Filme 76298'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0CFW25H6Z/?tag=tolees0ca-21'
+descuento: '30.61'
+average: '25.5561111111111'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Rollenspiele und Abenteuer: Die voll bewegliche Iron Spider-Man Figur hat Gelenke an Schultern, Armen, Hüften und Beinen, um den Superhelden in unzählige fantasievolle Actionposen bringen zu können
+- Filmgetreue Details: Die Figur trägt die von Tony Stark entwickelte Iron Spider-Man Hightech-Rüstung mit 4 voll beweglichen zusätzlichen Armen
+- Geschenk für junge Superhelden: Mit diesem originalgetreuen und vielseitigen LEGO Marvel Spider-Man Set können Fans ihre Begeisterung für Spider-Man beim Bauen, Spielen und Ausstellen zeigen
+- Geschenk für Fans der Marvel Filme: Dieser baubare Superheld ist ein tolles Geschenk für Kinder, die Actionabenteuer und das Spider-Man Universum lieben
+- Iron Spider-Man Baufigur für Kinder: Mit der detailgetreuen und beweglichen LEGO Marvel Iron Spider-Man Baufigur können Jungen und Mädchen ab 8 Jahren spannende Superhelden-Actionabenteuer darstellen
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0CFW25H6Z{{</world>}}
