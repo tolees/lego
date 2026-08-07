@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- HOME DECOR IDEA – Once complete, the LEGO Botanicals set becomes a piece of colourful home or office decor that can be displayed in a vase (not included)
-- EVEN MORE FAUX FLOWERS – The LEGO set for adults and flower lovers also includes ranunculus, a campanula and a waterlily dahlia
-- ARRANGE THE BOUQUET – Each flower has an adjustable stem, encouraging builders to create a bespoke bouquet which can easily be customised
-- ARTIFICIAL FLOWER DECOR – Let creativity bloom with the LEGO Botanicals Pretty Pink Flower Bouquet, a nature-inspired home decor building set for adults
-- VALENTINES DAY GIFT IDEA – The flowers make a lovely treat for women, men and flower lovers and can be given as a thoughtful Valentines gift gift or birthday present
-- WHATS IN THE BOX? – Features 15 buildable flower stems, including faux daisies, cornflowers, eucalyptus, elderflowers, cymbidium orchids and roses
 - BUILD MORE BLOOMS – This brick-built bouquet can be combined with other sets (sold separately) in the LEGO Botanicals collection
+- EVEN MORE FAUX FLOWERS – The LEGO set for adults and flower lovers also includes ranunculus, a campanula and a waterlily dahlia
+- HOME DECOR IDEA – Once complete, the LEGO Botanicals set becomes a piece of colourful home or office decor that can be displayed in a vase (not included)
+- WHATS IN THE BOX? – Features 15 buildable flower stems, including faux daisies, cornflowers, eucalyptus, elderflowers, cymbidium orchids and roses
+- ARTIFICIAL FLOWER DECOR – Let creativity bloom with the LEGO Botanicals Pretty Pink Flower Bouquet, a nature-inspired home decor building set for adults
+- ARRANGE THE BOUQUET – Each flower has an adjustable stem, encouraging builders to create a bespoke bouquet which can easily be customised
+- VALENTINES DAY GIFT IDEA – The flowers make a lovely treat for women, men and flower lovers and can be given as a thoughtful Valentines gift gift or birthday present
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDBVKV{{</world>}}

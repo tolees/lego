@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Realistic doors – The model car features a dihedral synchro-helix door system, which allows the doors to rotate 90 degrees while moving outwards
-- Car enthusiast gift – This car model building kit makes a great birthday gift for 10-plus year old boys, girls and kids who love cool vehicles and want to build a model version of one of the fastest road-legal cars in the world
-- A helping hand – Discover instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets
 - Introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young builders to the universe of engineering
+- Realistic doors – The model car features a dihedral synchro-helix door system, which allows the doors to rotate 90 degrees while moving outwards
 - Features to explore – Builders learn lots of engineering concepts as they assemble the articulated V8 engine and differential then test the steering
+- A helping hand – Discover instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets
+- Car enthusiast gift – This car model building kit makes a great birthday gift for 10-plus year old boys, girls and kids who love cool vehicles and want to build a model version of one of the fastest road-legal cars in the world
 - A race car toy for boys and girls aged 10+ – This LEGO Technic Koenigsegg Jesko Absolut Grey Hypercar car set features loads of authentic details
 
 [🛒 Check the deal!!]({{< param buyurl >}})

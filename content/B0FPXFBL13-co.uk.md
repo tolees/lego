@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- DIY KIDS BEDROOM DECOR – This display model becomes a piece of sports-themed shelf or desk decor that kids can show off on its own or alongside other LEGO Editions Football sets (sold separately)
+- LEGO FOOTBALL PLAYER MINIFIGURE – A Lionel Messi minifigure brings the scene to life and the set includes lots of Easter eggs that nod to his background and career
 - FOOTBALL MODEL KIT FOR KIDS – Score a creative goal with the LEGO Editions Lionel Messi – Football Highlights building toy for 10+ year old boys, girls and sports fans
 - A HELPING HAND – Budding football stars can access instructions digitally in the LEGO Builder app, where they can track progress and zoom in and rotate their football model in 3D
-- MESSI MERCHANDISE – The base is formed in the shape of Messis initial and features the colours of the Argentinian team, a number 10, and a collectible plaque with player stats and Messis name
-- LEGO FOOTBALL PLAYER MINIFIGURE – A Lionel Messi minifigure brings the scene to life and the set includes lots of Easter eggs that nod to his background and career
-- GIFT FOR SPORTS LOVERS – The 3D display model makes a great football gift for 10+ year old boys, girls and teenage fans on birthdays or any other special occasions
-- DIY KIDS BEDROOM DECOR – This display model becomes a piece of sports-themed shelf or desk decor that kids can show off on its own or alongside other LEGO Editions Football sets (sold separately)
 - LEGO EDITIONS – Show your love for more legendary sports stars with other sets in the collection, like 43012 Cristiano Ronaldo – Football Highlights (sold separately)
+- GIFT FOR SPORTS LOVERS – The 3D display model makes a great football gift for 10+ year old boys, girls and teenage fans on birthdays or any other special occasions
+- MESSI MERCHANDISE – The base is formed in the shape of Messis initial and features the colours of the Argentinian team, a number 10, and a collectible plaque with player stats and Messis name
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFBL13{{</world>}}

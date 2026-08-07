@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Role-play toys – Kids can fold up the side panels of the ambulance and open the rear doors to access the onboard stretcher and medical kit
-- Educational toy accessories – This building toy comes with fun accessories for pretend play, including a toy LEGO syringe, bandage and medic bag
-- Birthday gift idea for kids – This LEGO City ambulance toy makes a fun gift for 5+ year old boys, girls and fans of LEGO City sets and doctor toys
-- More sets to discover – Kids unleash more fun and adventures when they add the educational building toys to others (sold separately) from the LEGO City range
-- A city without limits – LEGO City is a place where kids can unleash their imaginations, with structures, construction toys, vehicles and citizens that inspire them to create and explore
-- Ambulance toy for 5+ year old boys and girls – The LEGO City Emergency Ambulance playset includes lots of features for exciting rescue adventures
 - What’s in the box? – Elements to build an ambulance toy, plus a skate ramp setting and skateboarder and paramedic minifigures for fun role play
+- Ambulance toy for 5+ year old boys and girls – The LEGO City Emergency Ambulance playset includes lots of features for exciting rescue adventures
+- A city without limits – LEGO City is a place where kids can unleash their imaginations, with structures, construction toys, vehicles and citizens that inspire them to create and explore
+- Birthday gift idea for kids – This LEGO City ambulance toy makes a fun gift for 5+ year old boys, girls and fans of LEGO City sets and doctor toys
+- Educational toy accessories – This building toy comes with fun accessories for pretend play, including a toy LEGO syringe, bandage and medic bag
+- Role-play toys – Kids can fold up the side panels of the ambulance and open the rear doors to access the onboard stretcher and medical kit
+- More sets to discover – Kids unleash more fun and adventures when they add the educational building toys to others (sold separately) from the LEGO City range
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSFHMJH{{</world>}}

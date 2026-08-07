@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BUILDABLE FOOTBALL MERCHANDISE – The base forms Vini’s initial and features the colours of the Brazilian team and his shirt number, plus a collectible plaque displaying his signature and player stats
-- A HELPING HAND – Budding football stars can access instructions digitally in the LEGO Builder app, where they can track progress and rotate their football model in 3D
-- FOOTBALL MODEL KIT FOR KIDS – Celebrate a Brazilian football star with the LEGO Editions Vini Jr. – Football Highlights building toy for 10+ year old boys, girls and sports fans
 - LEGO FOOTBALL PLAYER MINIFIGURE – A Vini Jr. minifigure brings the 3D display model to life and is depicted in his signature goal scoring pose
+- FOOTBALL MODEL KIT FOR KIDS – Celebrate a Brazilian football star with the LEGO Editions Vini Jr. – Football Highlights building toy for 10+ year old boys, girls and sports fans
+- BUILDABLE FOOTBALL MERCHANDISE – The base forms Vini’s initial and features the colours of the Brazilian team and his shirt number, plus a collectible plaque displaying his signature and player stats
+- COLLECTIBLE FOOTBALL DECOR – Once the built, the set becomes a piece of shelf or desk decor that fans can display on its own or alongside other LEGO Editions Football Highlights sets, sold separately
+- A HELPING HAND – Budding football stars can access instructions digitally in the LEGO Builder app, where they can track progress and rotate their football model in 3D
 - GIFT FOR SPORTS LOVERS – This DIY LEGO football set makes a great gift idea for 10+ year old boys, girls and teenage fans on birthdays or any other special occasions
 - LEGO EDITIONS – Show your love for more legendary sports stars with other sets in the collection, like 43012 Cristiano Ronaldo – Football Highlights (sold separately)
-- COLLECTIBLE FOOTBALL DECOR – Once the built, the set becomes a piece of shelf or desk decor that fans can display on its own or alongside other LEGO Editions Football Highlights sets, sold separately
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXF9SQ3{{</world>}}

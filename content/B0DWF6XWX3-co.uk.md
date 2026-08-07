@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - IMMERSE YOURSELF – Find building instructions on the LEGO Builder app and in the included booklet, which features interviews with the construction set’s fan designer and LEGO designers
+- COLLECTIBLE LEGO SET FOR ADULTS – The Luxo Jr. model is fully articulated to recreate the character’s bouncing, hopping and rotating movements
 - DISNEY PIXAR BALL – The included Pixar Ball contains hidden Easter eggs referencing famous Disney Pixar films: Up, The Incredibles, Ratatouille, Toy Story, Finding Nemo and Monsters, Inc.
 - DISNEY GIFT IDEA – This model kit makes a fun treat for yourself or a nostalgic gift for men and women who are passionate about Disney Pixar movies
-- COLLECTIBLE LEGO SET FOR ADULTS – The Luxo Jr. model is fully articulated to recreate the character’s bouncing, hopping and rotating movements
-- BUILDABLE MOVIE MEMORABILIA – Capture the playful spirit of Luxo Jr. with this posable LEGO brick model of the character first seen in the 1986 Disney Pixar animated short film of the same name
 - HOME OR OFFICE DESK DECOR – Remove 2 rounded plates from either side of the Pixar Ball to create a base for Luxo Jr. to stand on, as if it is deflating the ball
+- BUILDABLE MOVIE MEMORABILIA – Capture the playful spirit of Luxo Jr. with this posable LEGO brick model of the character first seen in the 1986 Disney Pixar animated short film of the same name
 - THE LEGO FANS CHOICE – This set is from the LEGO Ideas range, where each set is created by a fan designer, voted for by LEGO fans and produced by the LEGO Group
 
 [🛒 Check the deal!!]({{< param buyurl >}})

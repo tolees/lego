@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - DECORACIÓN DEL DORMITORIO JUVENIL: Este set de Lewis Hamilton se convierte en una pieza de decoración para la estantería para exponer con orgullo junto a otros cascos de F1 LEGO (a la venta por separado)
-- SET LEGO FÓRMULA 1: Inspirado en los cascos de F1 que Lewis Hamilton ha usado a lo largo de los años, este casco LEGO de color amarillo lleva decoraciones impresas, incluido el número de piloto de Lewis (el 44)
-- UNA PARADA EN BOXES DIGITAL: Los futuros campeones mundiales pueden sumergirse en la acción de la F1 haciendo un seguimiento de su progreso y también acercando y girando sus creaciones en la app LEGO Builder
-- REGALOS DE F1: Este set LEGO coleccionable es un óptimo regalo de cumpleaños para chicos y chicas a partir de 14 años, seguidores de la Fórmula 1 y amantes del motor
 - CASCO DE F1: Acelera tu creatividad y construye este artículo de colección de la Fórmula 1 con el kit de construcción LEGO Editions Scuderia Ferrari HP: Casco de Lewis Hamilton para chicos y chicas a partir de 14 años
+- SET LEGO FÓRMULA 1: Inspirado en los cascos de F1 que Lewis Hamilton ha usado a lo largo de los años, este casco LEGO de color amarillo lleva decoraciones impresas, incluido el número de piloto de Lewis (el 44)
 - LEGO EDITIONS: Explora la colección LEGO Editions para descubrir más sets inspirados en la F1 (a la venta por separado) que encantarán a los aficionados a la Fórmula 1
+- REGALOS DE F1: Este set LEGO coleccionable es un óptimo regalo de cumpleaños para chicos y chicas a partir de 14 años, seguidores de la Fórmula 1 y amantes del motor
 - MINIFIGURA LEGO DE PILOTO: El kit de maquetas de F1 incluye una minifigura de Lewis Hamilton, además de una placa con su firma, idónea para los coleccionistas seguidores de las carreras de coches
+- UNA PARADA EN BOXES DIGITAL: Los futuros campeones mundiales pueden sumergirse en la acción de la F1 haciendo un seguimiento de su progreso y también acercando y girando sus creaciones en la app LEGO Builder
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFB54W{{</world>}}

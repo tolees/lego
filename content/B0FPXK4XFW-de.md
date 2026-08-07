@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3 LEGO MINIFIGUREN: Ergänze deine Sammlung mit einem Oni-Krieger sowie Kai und Nya in Piloten-Outfits, deren Gesichter sich austauschen lassen, um sie in Jin und Mira zu verwandeln
-- FASZINIERENDES KREATIVES ERLEBNIS: In der LEGO Builder App speichern Teenager Sets, zoomen und drehen 3D Modelle und verfolgen ihren Baufortschritt beim intuitiven Bauen
-- GESCHENKIDEE FÜR KINDER: Dieses Ninja Spielzeug bietet Fans der TV-Serie ein anspruchsvolles Bauerlebnis und viele Möglichkeiten für fantasievolles Spielen
-- SEHR BEWEGLICHE 3D MODELLE: Beide Mechs haben ein Cockpit für Minifiguren, bewegen Kopf, Hals, Schultern, Beine und Gelenke und tauschen Arme und Ausrüstung für neue Spielmöglichkeiten
-- BAUE 2 MECH ACTIONFIGUREN: Die Zwillings-Titanmechs aus diesem Bauset zur neuen TV-Serie NINJAGO Legends: Duskfall lassen Fans ab 12 Jahren spannende Actionszenen nachspielen
 - NOCH MEHR SPIELSPASS: Weitere LEGO NINJAGO Spielzeuge erweitern die Fantasy-Welt und laden zu noch mehr kreativen Abenteuern ein (separat erhältlich)
 - DYNAMISCHE ZIMMER DEKO: Du kannst die fertigen LEGO Figuren auf einem Ständer in Flugposen bringen und in einem Regal oder auf einem Tisch ausstellen
+- BAUE 2 MECH ACTIONFIGUREN: Die Zwillings-Titanmechs aus diesem Bauset zur neuen TV-Serie NINJAGO Legends: Duskfall lassen Fans ab 12 Jahren spannende Actionszenen nachspielen
+- FASZINIERENDES KREATIVES ERLEBNIS: In der LEGO Builder App speichern Teenager Sets, zoomen und drehen 3D Modelle und verfolgen ihren Baufortschritt beim intuitiven Bauen
+- 3 LEGO MINIFIGUREN: Ergänze deine Sammlung mit einem Oni-Krieger sowie Kai und Nya in Piloten-Outfits, deren Gesichter sich austauschen lassen, um sie in Jin und Mira zu verwandeln
+- GESCHENKIDEE FÜR KINDER: Dieses Ninja Spielzeug bietet Fans der TV-Serie ein anspruchsvolles Bauerlebnis und viele Möglichkeiten für fantasievolles Spielen
+- SEHR BEWEGLICHE 3D MODELLE: Beide Mechs haben ein Cockpit für Minifiguren, bewegen Kopf, Hals, Schultern, Beine und Gelenke und tauschen Arme und Ausrüstung für neue Spielmöglichkeiten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXK4XFW{{</world>}}

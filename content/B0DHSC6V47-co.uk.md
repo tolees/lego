@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dolls house accessories – Kids can create sweet treats using toy ice cream cones, servings of strawberry, vanilla and chocolate ice cream
-- Includes 2 LEGO Friends characters – This vehicle playset comes with LEGO Friends characters Paisley and Elsa D for creative play
-- Pretend play building kit – This Heartlake City Ice Cream Van toy for 4+ year old girls and boys includes 2 mini dolls, bunny figure and accessories
-- Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
 - Role-play building toys – This LEGO Friends set inspires young builders to role play different LEGO friendship stories and customer interactions
+- Includes 2 LEGO Friends characters – This vehicle playset comes with LEGO Friends characters Paisley and Elsa D for creative play
+- Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
+- Dolls house accessories – Kids can create sweet treats using toy ice cream cones, servings of strawberry, vanilla and chocolate ice cream
+- Pretend play building kit – This Heartlake City Ice Cream Van toy for 4+ year old girls and boys includes 2 mini dolls, bunny figure and accessories
 - A gift idea for kids aged 4+ – This LEGO Friends set for girls and boys is a fun role-play toy or Christmas gift for kids who love creative toys
 
 [🛒 Buy it now!!]({{< param buyurl >}})

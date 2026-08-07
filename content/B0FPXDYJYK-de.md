@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ZWEI LEGO MARVEL MINIFIGUREN: Begeistere junge Marvel Fans mit einem actionreichen Spielset mit Spidey und Rhino sowie vielen coolen Zubehörteilen
 - SPIDEY MOTORRAD SPIELZEUG: Kinder erleben aufregende Superhelden Abenteuer mit dem LEGO Marvel Spidey auf Motorrad vs. Rhino Spielset für Jungen und Mädchen ab 4 Jahren
+- ZWEI LEGO MARVEL MINIFIGUREN: Begeistere junge Marvel Fans mit einem actionreichen Spielset mit Spidey und Rhino sowie vielen coolen Zubehörteilen
 - EINFACH ZU BAUENDES LERNSPIELZEUG: LEGO Starter Elemente ermöglichen Vorschulkindern einen schnellen Einstieg ins Bauen; mit gut greifbaren Steinen können sie Superhelden Abenteuer nachspielen
 - NOCH MEHR SUPERHELDEN ACTION: Entdecke weitere LEGO Marvel Spidey Sets wie Spidey Unterwasserfahrzeuge (11207) und Team Spidey Piratenschiff (11208) (Sets separat erhältlich)
 - SPIDEY GESCHENK FÜR FANS: Dieses LEGO Bauset ist ein beliebtes Kinder Geschenk für zwischendurch oder zum Geburtstag für Jungen und Mädchen ab 4 Jahren, die Marvel Superhelden lieben

@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - LEGO MODEL KIT FOR ADULTS – Inspire memories of classic video games with this near 1:1 scale replica model of the original Game Boy handheld game system from Nintendo
-- A JOYFUL BUILD – The model kit offers an immersive activity for experienced LEGO builders and includes step-by-step instructions so Game Boy fans who are LEGO newcomers can also enjoy the challenge
+- PERSONALISE YOUR DISPLAY – Includes lenticular screens for the game paks and a Nintendo start screen so you can customise your creation to complete a nostalgic shelf or desk décor display for the home or office
 - BRICK BUILT GAME PAKS – Includes The Legend of Zelda: Links Awakening and Super Mario Land Game Boy Game Paks (for display purposes only - does not have Game Boy gameplay functionality)
+- A JOYFUL BUILD – The model kit offers an immersive activity for experienced LEGO builders and includes step-by-step instructions so Game Boy fans who are LEGO newcomers can also enjoy the challenge
 - AUTHENTIC DETAILS – Recreate the +Control Pad, A and B Buttons, SELECT and START, the contrast adjustment, volume dial and the Game Pak slot
 - NOSTALGIC GIFT FOR VIDEO GAME FANS – This building set for adults makes a great treat for yourself or a fun gaming gift for men and women who are fans of Super Mario or The Legend of Zelda
-- PERSONALISE YOUR DISPLAY – Includes lenticular screens for the game paks and a Nintendo start screen so you can customise your creation to complete a nostalgic shelf or desk décor display for the home or office
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDGVHM6{{</world>}}

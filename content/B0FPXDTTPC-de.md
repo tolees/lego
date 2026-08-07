@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- FASZINIERENDES BAUERLEBNIS: In der LEGO Builder App speichern Kinder Sets, zoomen und drehen 3D Modelle und verfolgen ihren Baufortschritt beim intuitiven Bauen
-- 3-IN-1 SPIELZEUG AUTO: Kinder bauen den Wüstensegler in ein fliegendes Schiff mit offenem Deck, einen Geländewagen und ein LEGO Motorrad um und entdecken dabei immer neue Spielmöglichkeiten
-- DIY SET MIT VIELEM FASZINIERENDEN DETAILS: Der Wüstensegler bietet ein 2-Sitzer-Cockpit, 6 goldene Räder, einen Shooter und ein Banner für actionreiche Abenteuer
-- GESCHENKIDEE FÜR KINDER: Dieses Spielset ist ein schönes Geschenk für Jungen, Mädchen und Ninja Fans, die sich auf ein kreatives Bauerlebnis freuen und viele Stunden fantasievoll spielen
 - LEGO NINJAGO SPIELSETS IN HÜLLE UND FÜLLE: Das breite Sortiment lässt Ninja-Fans in eine Fantasy-Welt eintauchen und mit Ninja und Bösewichten kreative Abenteuer erleben
-- 6 NINJAGO MINIFIGUREN: Mit Drachen-Form-Lloyd, Jay, Zane, Nya sowie Säure- und Feuermonster stellen Kinder spannende Duelle dar und erfinden actionreiche Ninja-Abenteuer
+- FASZINIERENDES BAUERLEBNIS: In der LEGO Builder App speichern Kinder Sets, zoomen und drehen 3D Modelle und verfolgen ihren Baufortschritt beim intuitiven Bauen
 - SPIELZEUG FLITZER FÜR KINDER: Kinder ab 9 Jahren spielen rasante Actionszenen aus der 4. Staffel von NINJAGO Aufstieg der Drachen mit dem LEGO NINJAGO Wüstensegler nach
+- 6 NINJAGO MINIFIGUREN: Mit Drachen-Form-Lloyd, Jay, Zane, Nya sowie Säure- und Feuermonster stellen Kinder spannende Duelle dar und erfinden actionreiche Ninja-Abenteuer
+- 3-IN-1 SPIELZEUG AUTO: Kinder bauen den Wüstensegler in ein fliegendes Schiff mit offenem Deck, einen Geländewagen und ein LEGO Motorrad um und entdecken dabei immer neue Spielmöglichkeiten
+- GESCHENKIDEE FÜR KINDER: Dieses Spielset ist ein schönes Geschenk für Jungen, Mädchen und Ninja Fans, die sich auf ein kreatives Bauerlebnis freuen und viele Stunden fantasievoll spielen
+- DIY SET MIT VIELEM FASZINIERENDEN DETAILS: Der Wüstensegler bietet ein 2-Sitzer-Cockpit, 6 goldene Räder, einen Shooter und ein Banner für actionreiche Abenteuer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDTTPC{{</world>}}

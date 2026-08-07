@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- FÜR KREATIVE ROLLENSPIELE: Regt zu stundenlangem, fantasievollem Geschichtenerzählen mit den Friends und ihren Tieren an, die die Rutsche hinunter in den Pool sausen und im drehenden Brunnen planschen
-- NÜTZLICHE HELFER: Folge den digitalen Bauanleitungen in der LEGO Builder App, mit der Kinder neue Fähigkeiten entwickeln, während sie ihre Sets speichern, 3D-Modelle vergrößern und drehen und ihren Baufortschritt verfolgen können
-- GESCHENKIDEE FÜR MÄDCHEN UND JUNGEN: Dieses DIY Set zum Bauen ist eine schöne Geschenkidee für Kinder, die Tiere lieben und gerne in fantasievolle Spielstunden eintauchen
-- LERNSPIELZEUG MIT ZUBEHÖR: Kinder üben soziale und fürsorgliche Fähigkeiten, während sie Nova und Leo helfen, sich um 4 LEGO Tierfiguren zu kümmern und mit ihnen zu spielen
 - NEUE FREUNDE FINDEN: Entdecke weitere kreative Spielideen mit anderen Sets (separat erhältlich) und der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Figuren aus Heartlake City kennenlernen
+- NÜTZLICHE HELFER: Folge den digitalen Bauanleitungen in der LEGO Builder App, mit der Kinder neue Fähigkeiten entwickeln, während sie ihre Sets speichern, 3D-Modelle vergrößern und drehen und ihren Baufortschritt verfolgen können
+- FÜR KREATIVE ROLLENSPIELE: Regt zu stundenlangem, fantasievollem Geschichtenerzählen mit den Friends und ihren Tieren an, die die Rutsche hinunter in den Pool sausen und im drehenden Brunnen planschen
+- LERNSPIELZEUG MIT ZUBEHÖR: Kinder üben soziale und fürsorgliche Fähigkeiten, während sie Nova und Leo helfen, sich um 4 LEGO Tierfiguren zu kümmern und mit ihnen zu spielen
 - HAUSTIER WASSERPARK SPIELZEUG: Tauche ein in eine kreative Welt mit dem LEGO Friends Set Lustiger Tag im Wasserpark für Mädchen, Jungen und alle Tierfreunde ab 6 Jahren
 - BASTELSET FÜR KINDER: Jede Spielstunde wird zu einer einzigartigen Erfahrung dank zahlreicher Details, die zum Rollenspiel anregen: Tierfutter, Eiscreme, Sonnencreme, Telefon, Ball, Regenhut, Sonnenbrille und mehr
+- GESCHENKIDEE FÜR MÄDCHEN UND JUNGEN: Dieses DIY Set zum Bauen ist eine schöne Geschenkidee für Kinder, die Tiere lieben und gerne in fantasievolle Spielstunden eintauchen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGQ1DK{{</world>}}

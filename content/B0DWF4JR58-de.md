@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Magisches Geschenk für Harry Potter Fans: Dieses Bauspielzeug ist ein magisches Geburtstags- oder Weihnachtsgeschenk für Mädchen, Jungen und alle Fans der Zauberwelt ab 8 Jahren
 - Fortescues Eissalon: Man kann das Gebäude zum Spielen aufklappen; Es gibt einen Servicebereich und einen Sitzbereich im Obergeschoss sowie Sitzplätze und einen Eisstand im Freien
+- Das Sportgeschäft Qualität für Quidditch: In dem Laden befindet sich neben einem „schwebenden“ Besen auch jede Menge Quidditch-Ausrüstung – Slytherin Schulkleidung, ein Quaffel, ein Klatscher, ein goldener Schnatz und Siegerpokale
+- Magisches Geschenk für Harry Potter Fans: Dieses Bauspielzeug ist ein magisches Geburtstags- oder Weihnachtsgeschenk für Mädchen, Jungen und alle Fans der Zauberwelt ab 8 Jahren
 - Erschaffe die Winkelgasse aus LEGO Steinen: Die beiden Läden in dieser Einkaufsstraße kann man miteinander oder mit anderen Läden aus separat erhältlichen LEGO Harry Potter Winkelgasse Sets verbinden
+- Inklusive 6 LEGO Harry Potter Minifiguren: Dieses Fantasy-Set beinhaltet Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang und einen Ladenbesitzer
 - Spielset mit Läden aus der Winkelgasse: Die detailgetreu mit LEGO Steinen nachgebildeten Läden aus der Winkelgasse – Fortescues Eissalon und Qualität für Quidditch – lassen Kinder magische Harry Potter Szenen nachstellen
 - Gemeinsam bauen – mit Freunden und mit der Familie: Die LEGO Builder App bietet ein tolles Gemeinschaftserlebnis, wenn Kinder zusammen mit anderen LEGO Modelle bauen
-- Inklusive 6 LEGO Harry Potter Minifiguren: Dieses Fantasy-Set beinhaltet Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang und einen Ladenbesitzer
-- Das Sportgeschäft Qualität für Quidditch: In dem Laden befindet sich neben einem „schwebenden“ Besen auch jede Menge Quidditch-Ausrüstung – Slytherin Schulkleidung, ein Quaffel, ein Klatscher, ein goldener Schnatz und Siegerpokale
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWF4JR58{{</world>}}

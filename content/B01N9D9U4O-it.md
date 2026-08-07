@@ -32,8 +32,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - REGALO DI COMPLEANNO A TEMA NATURA: un kit LEGO per adulti ottimo come idea regalo per donna o uomo, con cui festeggiare una laurea o l’inaugurazione di casa, e per gli appassionati di piante e fiori finti da costruire
 - COSTRUISCI TANTE PIANTE: il bambù LEGO può essere esposto insieme ad altri set della collezione LEGO Botanicals (disponibili separatamente)
 - KIT DI COSTRUZIONI PER AMANTI DELLE PIANTE E DEI FIORI ARTIFICIALI: dedicati a un progetto rilassante ispirato alla natura, con il kit fai-da-te Bambù del Buon Auspicio LEGO Botanicals per adulti
-- CARATTERISTICHE AUTENTICHE: la pianta finta di bambù LEGO include un vaso con base effetto legno, ciottoli e 3 steli di bambù verde con foglie, che donano un aspetto realistico alla pianta artificiale in mattoncini
 - PIANTA LEGO DA ARREDAMENTO: questa pianta da interni rappresenta la stagione estiva nell’arte tradizionale; si ritiene che il bambù porti fortuna ai suoi proprietari
+- CARATTERISTICHE AUTENTICHE: la pianta finta di bambù LEGO include un vaso con base effetto legno, ciottoli e 3 steli di bambù verde con foglie, che donano un aspetto realistico alla pianta artificiale in mattoncini
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01N9D9U4O{{</world>}}

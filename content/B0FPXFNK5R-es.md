@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75439 Darth Vader Bust - Display Model Kit for Adults Incl. Collectible Sith Minifigure w/Red Lightsaber - DIY Shelf or Room Decor - Gift Idea for A New Hope Fans'
-date: 2026-08-06 08:27:06
+date: 2026-08-07 08:36:50
 image: 'https://m.media-amazon.com/images/I/410ahguVwrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXFNK5R/?tag=tolees-21'
 descuento: '34.01'
-average: '35.3233333333333'
+average: '34.74'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DETALLES GENUINOS: Recrea el casco y la parte superior del cuerpo de Darth Vader, mueve la cabeza a izquierda y derecha; además, incluye 3 piezas LEGO especiales: dos para la boca y una para la nariz
 - DESDE UNA GALAXIA MUY, MUY LEJANA HASTA TU HOGAR: Los sets LEGO Star Wars coleccionables para adultos se han diseñado para personas que disfruten con actividades manuales inmersivas llenas de creatividad
 - AMPLÍA TU COLECCIÓN: Este set, que forma parte de la Colección de Bustos LEGO Star Wars (cada set se vende por separado), es idóneo para colocarlo como decoración en la estantería de tu hogar u oficina
-- MAQUETA DE STAR WARS PARA EXPONER: Coloca tu creación en el soporte con placa identificativa junto a la minifigura LEGO de Darth Vader y gira el busto en el soporte para verlo desde todos los ángulos
 - REGALO PARA HOMBRES Y MUEJRES FANS DEL UNIVERSO STAR WARS: Date un capricho o regala este fascinante kit de construcción de Darth Vader a otro adulto con pasión por la trilogía de Star Wars
+- DETALLES GENUINOS: Recrea el casco y la parte superior del cuerpo de Darth Vader, mueve la cabeza a izquierda y derecha; además, incluye 3 piezas LEGO especiales: dos para la boca y una para la nariz
 - INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, una app que te permite acercar y girar tu modelo siguiendo instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
 - KIT DE MAQUETAS PARA ADULTOS: Siente la presencia del Lado Oscuro con el kit de maquetas para adultos LEGO Star Wars Busto de Darth Vader, un fascinante modelo para construir y exponer
+- MAQUETA DE STAR WARS PARA EXPONER: Coloca tu creación en el soporte con placa identificativa junto a la minifigura LEGO de Darth Vader y gira el busto en el soporte para verlo desde todos los ángulos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXFNK5R{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Une construction amusante – Ce kit propose une activité créative immersive aux constructeurs LEGO expérimentés et inclut des instructions étape par étape permettant aux débutants fans de Game Boy d’apprécier ce défi
-- Cadeau LEGO Nintendo pour les passionnés de jeux vidéo – Faites-vous plaisir ou offrez ce set de construction LEGO fascinant aux gamers adultes, fans de Super Mario ou de The Legend of Zelda
-- Maquette Nintendo à collectionner – Ce set LEGO à construire et à exposer fait partie d’une vaste collection de sets LEGO conçus pour les adultes qui aiment les activités manuelles créatives propices à la détente
-- Des détails authentiques – Recréez la croix directionnelle, les boutons A et B, SELECT et START, le contrôle du contraste et la molette de volume, ainsi que le port pour cartouche
-- Set de construction LEGO Super Mario pour adulte – Éveillez des souvenirs denfance avec cette maquette quasi grandeur nature de la console de jeu Game Boy de Nintendo
-- Cartouches de jeux vidéo en briques – Inclut les cartouches Game Boy de The Legend of Zelda: Links Awakening & Super Mario Land (uniquement pour la décoration - ne possèdent pas les fonctionnalités des jeux Game Boy)
 - Personnalisez votre écran – Inclut les cartouches Game Boy en briques interchangeables des jeux The Legend of Zelda & Super Mario Land avec des écrans lenticulaires affichant des images différentes en fonction de langle de vue
+- Cartouches de jeux vidéo en briques – Inclut les cartouches Game Boy de The Legend of Zelda: Links Awakening & Super Mario Land (uniquement pour la décoration - ne possèdent pas les fonctionnalités des jeux Game Boy)
+- Maquette Nintendo à collectionner – Ce set LEGO à construire et à exposer fait partie d’une vaste collection de sets LEGO conçus pour les adultes qui aiment les activités manuelles créatives propices à la détente
+- Set de construction LEGO Super Mario pour adulte – Éveillez des souvenirs denfance avec cette maquette quasi grandeur nature de la console de jeu Game Boy de Nintendo
+- Une construction amusante – Ce kit propose une activité créative immersive aux constructeurs LEGO expérimentés et inclut des instructions étape par étape permettant aux débutants fans de Game Boy d’apprécier ce défi
+- Des détails authentiques – Recréez la croix directionnelle, les boutons A et B, SELECT et START, le contrôle du contraste et la molette de volume, ainsi que le port pour cartouche
+- Cadeau LEGO Nintendo pour les passionnés de jeux vidéo – Faites-vous plaisir ou offrez ce set de construction LEGO fascinant aux gamers adultes, fans de Super Mario ou de The Legend of Zelda
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDGVHM6{{</world>}}

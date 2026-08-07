@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- VON FANS AUSGEWÄHLT: Dieses Modell gehört zu einer Reihe von LEGO Ideas Sets für Erwachsene, die von einem kreativen Fan entworfen, von der LEGO Fan-Community ausgewählt und dann von der LEGO Gruppe hergestellt werden
-- BAUPROJEKT FÜR ERWACHSENE: Dieses LEGO Bauset bietet nostalgischen erwachsenen Fans der Tim und Struppi Comics ein ebenso fesselndes wie kreatives Bauprojekt und lässt sie eine Retro Deko erschaffen
-- GESCHENK FÜR ERWACHSENE: Diese LEGO Rakete zum Bauen und Ausstellen ist ein beliebtes Geschenk für Männer und Frauen wie dich, die die Tim ud Struppi Comics lieben
-- VERSTECKTER KONTROLLRAUM: Entferne eine Platte von der Spitze der Rakete, um den detailreichen Kontrollraum zu enthüllen, und stell eine LEGO Minifigur ohne Helm und Sauerstoffflasche hinein
 - 6 TIM UND STRUPPI MINIFIGUREN: Die LEGO Minifiguren Tim, Kapitän Haddock, Schulze und Schultze sowie Professor Bienlein tragen Raumanzüge, Helme und Sauerstoffflaschen, auch die Figur Struppi ist dabei
-- 3D-BAUANLEITUNGEN: Freu dich auf ein neuartiges Bauerlebnis mit den 3D-Bauanleitungen in der LEGO Builder App. Du kannst in der App Sets speichern, ein 3D Modell vergrößern und drehen und dir ansehen, wie weit du mit deinem Modell schon bist
+- VON FANS AUSGEWÄHLT: Dieses Modell gehört zu einer Reihe von LEGO Ideas Sets für Erwachsene, die von einem kreativen Fan entworfen, von der LEGO Fan-Community ausgewählt und dann von der LEGO Gruppe hergestellt werden
 - BAUBARE MODELLRAKETE: Begib dich mit LEGO Ideas Die Mondrakete von Tim auf eine spannende Mission und baue das legendäre Modell aus den klassischen Comics Reiseziel Mond und Schritte auf dem Mond nach
+- GESCHENK FÜR ERWACHSENE: Diese LEGO Rakete zum Bauen und Ausstellen ist ein beliebtes Geschenk für Männer und Frauen wie dich, die die Tim ud Struppi Comics lieben
+- 3D-BAUANLEITUNGEN: Freu dich auf ein neuartiges Bauerlebnis mit den 3D-Bauanleitungen in der LEGO Builder App. Du kannst in der App Sets speichern, ein 3D Modell vergrößern und drehen und dir ansehen, wie weit du mit deinem Modell schon bist
+- BAUPROJEKT FÜR ERWACHSENE: Dieses LEGO Bauset bietet nostalgischen erwachsenen Fans der Tim und Struppi Comics ein ebenso fesselndes wie kreatives Bauprojekt und lässt sie eine Retro Deko erschaffen
+- VERSTECKTER KONTROLLRAUM: Entferne eine Platte von der Spitze der Rakete, um den detailreichen Kontrollraum zu enthüllen, und stell eine LEGO Minifigur ohne Helm und Sauerstoffflasche hinein
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXLJJSK{{</world>}}

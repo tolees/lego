@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- YELLOW TAXI MODEL CAR KIT – Treat kids to this LEGO City Taxi building set, featuring a yellow taxi car toy for 5+ year old boys and girls who love toy vehicles and creative storytelling
+- 2 LEGO CITY MINIFIGURES – Kids can remove the roof to seat the driver and tourist minifigures, open the boot to store the luggage and lift the bonnet to access the toy electric car motor
 - MORE LEGO CITY SETS TO DISCOVER – Kids can unleash more fun and adventures when they add this model Yellow Taxi playset to other sets (sold separately) from the LEGO City range
+- WHAT’S IN THE BOX? – This model kit includes everything kids need to construct a toy electric taxi with GPS screen, taxi logo, advertisement and battery stickers, plus luggage accessories
 - PLAY AND LEARN – This easy-to-build electric taxi toy supports fine motor skills development as kids build, role-play stories and explore vehicle functions through imaginative play
 - EASY TO BUILD – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
+- YELLOW TAXI MODEL CAR KIT – Treat kids to this LEGO City Taxi building set, featuring a yellow taxi car toy for 5+ year old boys and girls who love toy vehicles and creative storytelling
 - BIRTHDAY GIFTS FOR CAR LOVERS – Makes a great anytime treat or small gift idea for 5+ year old boys and girls who love toy cars and model building kits
-- 2 LEGO CITY MINIFIGURES – Kids can remove the roof to seat the driver and tourist minifigures, open the boot to store the luggage and lift the bonnet to access the toy electric car motor
-- WHAT’S IN THE BOX? – This model kit includes everything kids need to construct a toy electric taxi with GPS screen, taxi logo, advertisement and battery stickers, plus luggage accessories
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXBMY57{{</world>}}

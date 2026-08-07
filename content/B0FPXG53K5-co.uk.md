@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
-- DIGITAL UNLOCK FEATURE – Redeem the Batman v Superman Batmobile and a golden variant in the LEGO Batman - Legacy of the Dark Knight video game; scan the QR code on the instructions and follow the directions.
 - DETAILED FEATURES – Fans of Batman movies and Superhero vehicles will recognise the iconic Batmobile in this model kit, with its removable bonnet, detailed cockpit and graphic stickers
-- MORE LEGO DC – Inspire endless imaginative, play-and-display fun with the extensive range of LEGO DC building sets for fans of all ages
 - BATMOBILE TOY CAR – Build and display The Batman Batmobile car model and celebrate the 20th anniversary of LEGO DC Batman with this Superhero toy for 9+ year old boys and girls
 - BATMAN GIFT FOR KIDS – This LEGO DC set makes a great birthday gift for 9+ year old boys, girls, as well as older fans of LEGO building and Superhero model kits
+- DIGITAL UNLOCK FEATURE – Redeem the Batman v Superman Batmobile and a golden variant in the LEGO Batman - Legacy of the Dark Knight video game; scan the QR code on the instructions and follow the directions.
 - LEGO BATMAN MINIFIGURE – Includes a Batman minifigure with a fabric cape and a commemorative golden coin built into the Batmobile model under the removable bonnet
+- MORE LEGO DC – Inspire endless imaginative, play-and-display fun with the extensive range of LEGO DC building sets for fans of all ages
+- DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXG53K5{{</world>}}

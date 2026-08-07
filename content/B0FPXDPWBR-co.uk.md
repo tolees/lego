@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - BIRTHDAY GIFT IDEA – This building set makes a great birthday gift idea for 8+ year old girls and boys who love imaginative play with family and friends
 - BUILD TOGETHER MODE – The LEGO Builder app offers a guided, collaborative experience with friends and family where everyone has fun creating part of the set using their own devices
-- FOR CREATIVE ROLE PLAY – Create everyday stories and missions in the club house, which features a climbing wall, slide, a zipline, kitchen and areas for the pets
-- CLUB HOUSE TOY FOR 8+ YEAR OLD GIRLS AND BOYS – Kids can tell stories and explore fun activities with the LEGO Friends Heartlake City Friends Club House building set
-- 5 MINI DOLLS AND 3 ANIMAL FIGURES – Includes Autumn, Nova, Aliya, Leo and Liann mini dolls, plus pets Churro the cat, Honey the bunny and Popcorn the gecko
-- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 - DOLLS HOUSE ACCESSORIES – Pet bowls, a gaming TV and controllers, a fridge, a popcorn machine, doughnuts, strawberries, waffles, a secret computer, an easel, a toilet, a drone with launchpad and more
+- FOR CREATIVE ROLE PLAY – Create everyday stories and missions in the club house, which features a climbing wall, slide, a zipline, kitchen and areas for the pets
+- ONLINE SHOW – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
+- 5 MINI DOLLS AND 3 ANIMAL FIGURES – Includes Autumn, Nova, Aliya, Leo and Liann mini dolls, plus pets Churro the cat, Honey the bunny and Popcorn the gecko
+- CLUB HOUSE TOY FOR 8+ YEAR OLD GIRLS AND BOYS – Kids can tell stories and explore fun activities with the LEGO Friends Heartlake City Friends Club House building set
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDPWBR{{</world>}}

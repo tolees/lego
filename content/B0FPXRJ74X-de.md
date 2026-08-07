@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75422 SMART Play: Jedi-Training an Yodas Hütte - Kompatibles Interaktives Spielzeug inkl. 2 SMART Tags und 2 Minifiguren - Geschenk für Jungen und Mädchen ab 8 Jahren & Erwachsene Fans'
-date: 2026-08-05 09:56:29
+date: 2026-08-07 10:18:57
 image: 'https://m.media-amazon.com/images/I/517AejvHhtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXRJ74X/?tag=tolees0ca-21'
 descuento: '34.29'
-average: '57.7890909090908'
+average: '55.9738461538461'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- STAR WARS GESCHENK FÜR KINDER: Begeistere einen Fan mit diesem interaktiven Bauspielzeug, ein galaktisches Geburtstagsgeschenk für Jungen und Mädchen ab 8 Jahren sowie für jugendliche und erwachsene Sammler
-- DIE GALAXIS SPIELT MIT: Wird ein LEGO SMART Brick (nicht enthalten) mit einem der SMART Tags verbunden, aktiviert er den Herd mit Misch- und Schlürfgeräuschen und den Trainingsbereich mit Licht- und Soundeffekten, sowie „Gleichgewicht der Macht“
 - SO AKTIVIERST DU DEIN SET: Ein LEGO SMART Brick aus den All-in-1-Sets 75421, 75423 oder 75427 (separat erhältlich) wird benötigt, um die immersiven Spielfunktionen zu aktivieren (bitte beachte: Der SMART Brick ist nicht als Einzelprodukt erhältlich)
-- BILDSCHIRMFREIE SPIELZEIT: Erlebe mit Freunden und Familie ikonische Szenen: Koche auf dem Herd eine Mahlzeit für Yoda und hilf Luke Skywalker dabei, mithilfe von Kisten und sogar der R2-D2 Droidenfigur das Gleichgewicht der Macht zu erlernen
-- DIGITALE ANLEITUNGEN: Die LEGO Builder App begleitet dein Kind auf ein intuitives Bauerlebnis, bei dem es mittels 3D-Anleitungen hineinzoomen und Modelle drehen sowie den Fortschritt speichern und verfolgen kann
-- 2 LEGO SMART STAR WARS MINIFIGUREN: Erwecke SMART Luke Skywalker mit Lichtschwert und SMART Yoda mit einem SMART Brick (nicht enthalten) zum Leben und erlebe ein reaktionsstarkes Spiel mit einzigartigen Stimmen und Reaktionen
+- STAR WARS GESCHENK FÜR KINDER: Begeistere einen Fan mit diesem interaktiven Bauspielzeug, ein galaktisches Geburtstagsgeschenk für Jungen und Mädchen ab 8 Jahren sowie für jugendliche und erwachsene Sammler
 - INTERAKTIVES STAR WARS SPIELZEUG: Dieses LEGO SMART Play kompatible Set umfasst Yodas Hütte mit abnehmbarem Dach, Bett und Kochbereich mit Feuerstelle, Jedi-Trainingsplattform, 2 SMART Tags, 2 SMART Minifiguren und eine R2-D2 Figur
+- DIE GALAXIS SPIELT MIT: Wird ein LEGO SMART Brick (nicht enthalten) mit einem der SMART Tags verbunden, aktiviert er den Herd mit Misch- und Schlürfgeräuschen und den Trainingsbereich mit Licht- und Soundeffekten, sowie „Gleichgewicht der Macht“
+- BILDSCHIRMFREIE SPIELZEIT: Erlebe mit Freunden und Familie ikonische Szenen: Koche auf dem Herd eine Mahlzeit für Yoda und hilf Luke Skywalker dabei, mithilfe von Kisten und sogar der R2-D2 Droidenfigur das Gleichgewicht der Macht zu erlernen
+- 2 LEGO SMART STAR WARS MINIFIGUREN: Erwecke SMART Luke Skywalker mit Lichtschwert und SMART Yoda mit einem SMART Brick (nicht enthalten) zum Leben und erlebe ein reaktionsstarkes Spiel mit einzigartigen Stimmen und Reaktionen
+- DIGITALE ANLEITUNGEN: Die LEGO Builder App begleitet dein Kind auf ein intuitives Bauerlebnis, bei dem es mittels 3D-Anleitungen hineinzoomen und Modelle drehen sowie den Fortschritt speichern und verfolgen kann
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXRJ74X{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MARVEL GIFT IDEA – Give a young Super Hero double the fun for their birthday with this building set, which makes a fun Spider-Man gift for 6+ year old boys and girls
-- MECH VS. MECH BUILDING TOY – 2 fully jointed mech suits and 3 LEGO ǀ Marvel minifigures set the scene for a supersized, Super Hero showdown in this building toy for 6+ year old boys and girls
-- MORE SUPER HERO MECHS – Kids can collect and combine a wide range of LEGO mech figure building sets (sold separately) to expand their Super Hero adventures
 - SUPER HERO ROLE PLAY – The Spider-Man and Doc Ock mech action figures are fully jointed to maximise dynamic play possibilities and they feature opening cockpits for their minifigure pilots
 - 3 LEGO MARVEL MINIFIGURES – Join Spider-Man and Ghost-Spider as they face off against the villain Doc Ock in an epic mech toy battle
+- MORE SUPER HERO MECHS – Kids can collect and combine a wide range of LEGO mech figure building sets (sold separately) to expand their Super Hero adventures
+- MARVEL GIFT IDEA – Give a young Super Hero double the fun for their birthday with this building set, which makes a fun Spider-Man gift for 6+ year old boys and girls
+- MECH VS. MECH BUILDING TOY – 2 fully jointed mech suits and 3 LEGO ǀ Marvel minifigures set the scene for a supersized, Super Hero showdown in this building toy for 6+ year old boys and girls
 - LEGO BATTLE ACTION AND ACCESSORIES – The building toy features 2 web ropes, 2 stud shooters for the Iron Spider mech, 4 jointed tentacles for the Doc Ock mech and 2 slings for Ghost-Spider
 
 [🛒 Check the deal!!]({{< param buyurl >}})

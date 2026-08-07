@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 LEGO FIGUREN ZUM VIDEOSPIEL: 3 große Charaktere aus Steinen erwecken die virtuellen Abenteuer zum Leben: ein Zombiebaby, ein Küken und ein Huhn als coole Minecraft Figuren
-- SPIELEN UND AUSSTELLEN: Junge Fans können lustige Rollenspiele erleben und danach eine dynamische Minecraft Deko erschaffen, die ins Regal oder auf den Schreibtisch passt
-- ERSCHAFFE EINEN HÜHNERREITER: Kinder können einen legendären Moment aus dem Videospiel nachstellen, indem sie das Zombiebaby auf das LEGO Huhn setzen
 - GESCHENKIDEE FÜR GAMER: Dieses vielseitige Minecraft Spielzeug ist ein beliebtes Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 9 Jahren
 - WEITERE BAUSETS ZUM VIDEOSPIEL: Entdecke die komplette Minecraft LEGO Kollektion und hol dir das Abenteuer aus dem Minecraft Kinderzimmer in die echte Welt
 - MINECRAFT BAUSPIELZEUG: Der Hühnerreiter bietet ein faszinierendes Bauerlebnis; vertraute Kreaturen laden Kinder zu einem wilden Ritt mit dem LEGO Minecraft Set ein
+- ERSCHAFFE EINEN HÜHNERREITER: Kinder können einen legendären Moment aus dem Videospiel nachstellen, indem sie das Zombiebaby auf das LEGO Huhn setzen
+- 3 LEGO FIGUREN ZUM VIDEOSPIEL: 3 große Charaktere aus Steinen erwecken die virtuellen Abenteuer zum Leben: ein Zombiebaby, ein Küken und ein Huhn als coole Minecraft Figuren
+- SPIELEN UND AUSSTELLEN: Junge Fans können lustige Rollenspiele erleben und danach eine dynamische Minecraft Deko erschaffen, die ins Regal oder auf den Schreibtisch passt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0GJD5421Z{{</world>}}

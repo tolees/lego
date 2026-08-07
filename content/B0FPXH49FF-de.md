@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - MARVEL BAUSET ZUM SAMMELN: Der LEGO ǀ Marvel S.H.I.E.L.D.-Helicarrier ist ein Set für Erwachsene, das dich den legendären Flieger aus The Avengers (2012) von den Marvel Studios in seiner vollen Pracht nachbilden lässt
-- DYNAMISCHE MARVEL DEKO: Entferne eine Landebahn für Zugang zum Innenleben, nimm die Abdeckung ab, um die Triebwerke zu sehen, und stelle mit einem Stab einen Quinjet im Anflug dar
-- 3D BAUANLEITUNGEN: Freu dich auf ein neuartiges Bauerlebnis mit der LEGO Builder App, speichere Sets, drehe das 3D Modell und behalte deinen Baufortschritt im Blick
 - GESCHENK FÜR ERWACHSENE MARVEL FANS: Dieses anspruchsvolle Bauset ist ein tolles Geburtstags- oder Überraschungsgeschenk für Erwachsene, die Superhelden und LEGO Modelle lieben und gern bauen
-- 6 MINIFIGUREN: Neben dem detailgetreuen Helicarrier bieten auch die Minifiguren Winter Soldier, Captain America, Phil Coulson, Maria Hill, Hawkeye und Nick Fury jede Menge Avengers Actionspaß
 - FESSELNDES BAUERLEBNIS: Der Modellbau aus 3.057 Teilen bietet dir ein facettenreiches Bauprojekt, bei dem du Start- und Landebahnen, Triebwerke, Tower, Flugzeuge und das Innenleben bauen kannst
+- DYNAMISCHE MARVEL DEKO: Entferne eine Landebahn für Zugang zum Innenleben, nimm die Abdeckung ab, um die Triebwerke zu sehen, und stelle mit einem Stab einen Quinjet im Anflug dar
+- 6 MINIFIGUREN: Neben dem detailgetreuen Helicarrier bieten auch die Minifiguren Winter Soldier, Captain America, Phil Coulson, Maria Hill, Hawkeye und Nick Fury jede Menge Avengers Actionspaß
+- 3D BAUANLEITUNGEN: Freu dich auf ein neuartiges Bauerlebnis mit der LEGO Builder App, speichere Sets, drehe das 3D Modell und behalte deinen Baufortschritt im Blick
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXH49FF{{</world>}}

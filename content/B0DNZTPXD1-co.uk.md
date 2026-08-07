@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Film-inspired LEGO playset – Packed with Jurassic World Rebirth details, this set features a boat launcher, dock and shed, a toy boat for kids, an ATV toy and accessories for action-packed role play
+- Jurassic World dinosaur gift for kids – A fun birthday or anytime gift for 5+ year old boys and girls who love dinosaur figures, building toys and action-packed stories
+- Building toy for 5+ year old boys and girls – This T. rex River Escape set is a thrilling dinosaur building set for young Jurassic World fans who love toy dinosaurs, boats and adventure play
+- Interactive dinosaur toy functions – The T. rex can destroy and rebuild the shed, and kids can launch the boat toy with the working dock feature, encouraging creative dino adventures
 - Boost creativity and storytelling – LEGO Jurassic World dinosaur sets help kids build confidence and imagination as they explore nature, dinosaurs, animals and the fun of building toys
 - A fun way to build – The LEGO Builder app gives kids an interactive building experience, with tools to zoom, rotate models in 3D, save building sets and track their progress as they go
 - Jurassic World figures – Includes a moulded LEGO Jurassic World T. rex dinosaur figure with movable legs, arms, tail, head and jaw, plus Teresa Delgado and Xavier Dobbs LEGO minifigures
-- Film-inspired LEGO playset – Packed with Jurassic World Rebirth details, this set features a boat launcher, dock and shed, a toy boat for kids, an ATV toy and accessories for action-packed role play
-- Building toy for 5+ year old boys and girls – This T. rex River Escape set is a thrilling dinosaur building set for young Jurassic World fans who love toy dinosaurs, boats and adventure play
-- Interactive dinosaur toy functions – The T. rex can destroy and rebuild the shed, and kids can launch the boat toy with the working dock feature, encouraging creative dino adventures
-- Jurassic World dinosaur gift for kids – A fun birthday or anytime gift for 5+ year old boys and girls who love dinosaur figures, building toys and action-packed stories
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DNZTPXD1{{</world>}}

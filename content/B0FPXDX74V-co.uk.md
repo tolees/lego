@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hogwarts Castle: Sorting Hat Ceremony Toy - Collectible Patronus Hermione & Draco Malfoy Minifigures with Wands & a Spinning Wheel - Gift for 7+ Year Old Girls & Boys - 76460'
-date: 2026-08-05 19:29:08
+date: 2026-08-06 19:32:01
 image: 'https://m.media-amazon.com/images/I/51UnF2QJ0oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDX74V/?tag=tolees0a-21'
 descuento: '38.49'
-average: '8.32333333333333'
+average: '8.23999999999999'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4 LEGO HARRY POTTER MINIFIGURES – Role-play the Sorting Hat ceremony with Professor McGonagall, Harry Potter, Hermione Granger and Draco Malfoy, each with a wand accessory
-- LEGO HARRY POTTER COLLECTIBLE – This adventure toy is part of a series of modular sets (sold separately) that together create the most detailed brick-built Hogwarts Castle scene to date
-- MORE PLAYFUL DETAILS – Create stories with the Cat Patronus, part of a LEGO Harry Potter 25th anniversary Patronus collection (in sets sold separately), a food-laden table, and a house points counter
 - SORTING WHEEL – Includes a sorting wheel to spin, and a Sorting Hat that can be placed on each student to discover whether they will join the Slytherin, Ravenclaw, Hufflepuff or Gryffindor house
+- LEGO HARRY POTTER COLLECTIBLE – This adventure toy is part of a series of modular sets (sold separately) that together create the most detailed brick-built Hogwarts Castle scene to date
 - HOGWARTS CASTLE TOY FOR KIDS – Recreate the Hogwarts Castle: Sorting Hat Ceremony from Harry Potter and the Philosopher’s Stone with this 25th anniversary LEGO Harry Potter toy for 7+ year old girls and boys
+- 4 LEGO HARRY POTTER MINIFIGURES – Role-play the Sorting Hat ceremony with Professor McGonagall, Harry Potter, Hermione Granger and Draco Malfoy, each with a wand accessory
+- MORE PLAYFUL DETAILS – Create stories with the Cat Patronus, part of a LEGO Harry Potter 25th anniversary Patronus collection (in sets sold separately), a food-laden table, and a house points counter
 - HARRY POTTER GIFT FOR KIDS – This LEGO Harry Potter building toy for kids makes a magical birthday gift for 7+ year old girls, boys and older Harry Potter fans
 - ENHANCED, INTERACTIVE FUN – The LEGO Builder app guides kids on a digital building adventure that lets them zoom in and rotate sets using 3D instructions, as well as save and track their progress
 

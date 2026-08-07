@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - GIFT FOR GAMERS AND CAR LOVERS – This Bugatti Vision GT car model provides a fun build-and-play experience and is a great gaming gift for 9+ year old boys and girls, or adult Gran Turismo fans
-- BUGATTI TOY CAR – LEGO Speed Champions Bugatti Vision Gran Turismo Hyper Sports Car toy for 9+ year old boys, girls and gamers to build, race and display
-- 1 LEGO DRIVER MINIFIGURE – This race car toy includes a driver minifigure wearing a Bugatti outfit and helmet with a wig and wrench, which can also be used to apply stickers and separate bricks
-- ICONIC CARS FOR PLAY AND DISPLAY – LEGO Speed Champions car building kits let kids and passionate car fans build replica versions of famous vehicles
-- AUTHENTIC DETAILS – Includes details from the car model created by Bugatti for the Gran Turismo video game in 2015, including a horseshoe front grille, rear wing and 8-eye headlights
 - KIDS BEDROOM DECOR – After boys and girls have enjoyed playing out racing stories with this collectible LEGO building set, they can proudly display it in their room on a shelf, desk or bedside table
+- ICONIC CARS FOR PLAY AND DISPLAY – LEGO Speed Champions car building kits let kids and passionate car fans build replica versions of famous vehicles
+- BUGATTI TOY CAR – LEGO Speed Champions Bugatti Vision Gran Turismo Hyper Sports Car toy for 9+ year old boys, girls and gamers to build, race and display
+- AUTHENTIC DETAILS – Includes details from the car model created by Bugatti for the Gran Turismo video game in 2015, including a horseshoe front grille, rear wing and 8-eye headlights
+- 1 LEGO DRIVER MINIFIGURE – This race car toy includes a driver minifigure wearing a Bugatti outfit and helmet with a wig and wrench, which can also be used to apply stickers and separate bricks
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPVT4VG6{{</world>}}

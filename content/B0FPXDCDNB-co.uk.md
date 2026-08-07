@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions F1 ACADEMY Race Car Toy - Model Kit w/a Female Formula 1 Driver Minifigure - Birthday Gift for 10+ Year Old Girls Boys & Adult Motorsport Fans - 77258'
-date: 2026-08-05 07:57:27
+date: 2026-08-06 15:42:18
 image: 'https://m.media-amazon.com/images/I/51gLZEoolOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDCDNB/?tag=tolees0a-21'
 descuento: '34.80'
-average: '14.3382608695653'
+average: '14.3904'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - F1 ACADEMY CAR TOY – In 2026, the LEGO Group joins the F1 ACADEMY grid for the first time with their own race car toy for 10+ year old girls, boys and teenagers to build and display
 - F1 DETAILS – This toy car is an authentically detailed display model of the F1 ACADEMY Race Car and features a cockpit, rear wing, halo and tyres imprinted with “Pirelli”
+- TEEN ROOM DECOR – Kids can create exciting racing stories after completing the build, then proudly display the LEGO vehicle in their room on a shelf, desk or bedside table
+- FORMULA 1 GIFT IDEA – This race car model kit offers a fun build-and-play experience and makes a great birthday gift idea for 10+ year old girls, boys and teenagers, as well as adult F1 fans
 - MODEL CARS FOR PLAY AND DISPLAY – LEGO Speed Champions sets let kids and motorsport lovers create brick-built versions of vehicles from around the world
 - 1 MINIFIGURE – The LEGO Speed Champions car model kit includes a female F1 driver minifigure with a helmet, wig and wrench, to place inside the cockpit
-- FORMULA 1 GIFT IDEA – This race car model kit offers a fun build-and-play experience and makes a great birthday gift idea for 10+ year old girls, boys and teenagers, as well as adult F1 fans
-- TEEN ROOM DECOR – Kids can create exciting racing stories after completing the build, then proudly display the LEGO vehicle in their room on a shelf, desk or bedside table
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDCDNB{{</world>}}

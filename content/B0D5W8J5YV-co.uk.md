@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cool features ⁠– Automated black gate, illuminating Eye of Sauron, and modular design with detailed rooms like a forge, throne room, and prison
+- Lord of the Rings gifts – This LEGO movie memorabilia building set makes a great gift for men and women fans of The Lord of the Rings film trilogy
 - Includes printed and digital building instructions – The LEGO Builder app offers a digital version of the instructions for this LEGO Icons set for adults
 - LEGO building sets for adults – This LEGO Icons project is part of the range of LEGO creative building sets designed specifically for adults
+- Cool features ⁠– Automated black gate, illuminating Eye of Sauron, and modular design with detailed rooms like a forge, throne room, and prison
 - Whats in the box – This Lord of the Rings LEGO set has 10 minifigures, including Sauron, Mouth of Sauron, Orc, Frodo, Sam and Gollum and Gothmog
 - Armour accessories ⁠– This Lord of the Rings model features helmets for Sauron and Mouth of Sauron, The One Ring, light of Eärendil and Saurons mace
-- Lord of the Rings gifts – This LEGO movie memorabilia building set makes a great gift for men and women fans of The Lord of the Rings film trilogy
 - LEGO Icons The Lord of the Rings: Barad-dûr model ⁠– Build a detailed fortress replica, with the towering Eye of Sauron high above Middle-earth
 
 [🛒 Check the deal!!]({{< param buyurl >}})

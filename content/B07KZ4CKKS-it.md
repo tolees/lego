@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 6 nuove location e tantissimi collezionabili
 - Combattimento migliorato
+- 6 nuove location e tantissimi collezionabili
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07KZ4CKKS{{</world>}}

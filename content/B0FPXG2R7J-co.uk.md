@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PART OF AN EXTENSIVE RANGE – LEGO Harry Potter collectible sets let young witches, wizards and Muggles play out iconic scenes, make up their own stories or simply display the models
-- MOTORBIKE TOY FOR KIDS – Recreate Hagrid & Harry’s Privet Drive Escape to The Burrow in Harry Potter and the Deathly Hallows with this LEGO Harry Potter toy for 8+ year old boys and girls
-- 4 LEGO HARRY POTTER MINIFIGURES – Includes Harry Potter, Rubeus Hagrid with his signature motorcycle goggles, and two Death Eaters; place Hagrid on the motorcycle and Harry in the sidecar to recreate scenes
-- PRIVET DRIVE STREET SCENE – Encourage creative play by allowing kids to create their own mini build street scene, featuring a lamppost and two flowerpots in a planter that can be flipped over mid-action
-- SMALL HARRY POTTER GIFT FOR KIDS – This LEGO Harry Potter building set makes a magical Wizarding World gift for 8+ year old boys, girls and fans
 - MOTORCYCLE MODEL WITH SIDECAR – Play and display set featuring the first minifigure-scale LEGO model of Hagrids flying motorcycle, complete with a sidecar
 - A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions while they build
+- PART OF AN EXTENSIVE RANGE – LEGO Harry Potter collectible sets let young witches, wizards and Muggles play out iconic scenes, make up their own stories or simply display the models
+- MOTORBIKE TOY FOR KIDS – Recreate Hagrid & Harry’s Privet Drive Escape to The Burrow in Harry Potter and the Deathly Hallows with this LEGO Harry Potter toy for 8+ year old boys and girls
+- SMALL HARRY POTTER GIFT FOR KIDS – This LEGO Harry Potter building set makes a magical Wizarding World gift for 8+ year old boys, girls and fans
+- 4 LEGO HARRY POTTER MINIFIGURES – Includes Harry Potter, Rubeus Hagrid with his signature motorcycle goggles, and two Death Eaters; place Hagrid on the motorcycle and Harry in the sidecar to recreate scenes
+- PRIVET DRIVE STREET SCENE – Encourage creative play by allowing kids to create their own mini build street scene, featuring a lamppost and two flowerpots in a planter that can be flipped over mid-action
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXG2R7J{{</world>}}

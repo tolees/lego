@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Marvel minifigures – Kids join Trapster, Ghost-Spider, Gobby-Raptor, Spidey-Rex, Dino-Spin and Trace-E for fun with heroes and villains
-- Dinosaur toys – Fans can recreate fun scenes with the Spidey and Gobby’s Raptor Battle at Tree House HQ building toy for 4+ year old boys and girls
-- Buildable preschool toys – LEGO 4+ sets for boys and girls introduce kids to a universe of film favourites, TV characters and everyday heroes
-- Fun-filled tree house – Each bag includes 1 model with a guide and large Starter Brick to give kids quick, fun builds that get play started quickly
-- Buildable dinosaur toys – Trapster’s aircraft has 2 shooters and accessories include web elements, diamonds, treasure chest, map and binoculars
-- Gift for Spidey fans – This creative role-play toy is a fun birthday gift for 4 plus year old boys, girls and fans of Spidey And His Amazing Friends
 - Intuitive building instructions – The colourful picture-story guide is designed to inspire kids and develop their building confidence
+- Buildable preschool toys – LEGO 4+ sets for boys and girls introduce kids to a universe of film favourites, TV characters and everyday heroes
+- Buildable dinosaur toys – Trapster’s aircraft has 2 shooters and accessories include web elements, diamonds, treasure chest, map and binoculars
+- Fun-filled tree house – Each bag includes 1 model with a guide and large Starter Brick to give kids quick, fun builds that get play started quickly
+- Dinosaur toys – Fans can recreate fun scenes with the Spidey and Gobby’s Raptor Battle at Tree House HQ building toy for 4+ year old boys and girls
+- Gift for Spidey fans – This creative role-play toy is a fun birthday gift for 4 plus year old boys, girls and fans of Spidey And His Amazing Friends
+- LEGO Marvel minifigures – Kids join Trapster, Ghost-Spider, Gobby-Raptor, Spidey-Rex, Dino-Spin and Trace-E for fun with heroes and villains
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSD3TXW{{</world>}}

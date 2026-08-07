@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Bugatti Chiron Pur Sport Hypercar Toy - Race Car Model Kit w/a W16 Engine Steering & Opening Doors - Gift for 9+ Year Old Boys & Motorsport Fans - 42222'
-date: 2026-08-05 07:57:35
+date: 2026-08-06 15:42:26
 image: 'https://m.media-amazon.com/images/I/51lrHB-e5JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXDNXZH-co.uk LEGO Technic Bugatti Chiron Pur Sport Hypercar Toy -...'
 sku: 'B0FPXDNXZH-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 38.99 GBP
+actualPrice: 38.49 GBP
 currency: GBP
-price: 38.99
+price: 38.49
 comparePrice: 59.99 GBP
 prodname: 'LEGO Technic Bugatti Chiron Pur Sport Hypercar Toy - Race Car Model Kit w/a W16 Engine Steering & Opening Doors - Gift for 9+ Year Old Boys & Motorsport Fans - 42222'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDNXZH/?tag=tolees0a-21'
-descuento: '35.01'
-average: '39.7538181818183'
+descuento: '35.84'
+average: '39.7094736842106'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- RACE CAR MODEL KIT – Race into action with the LEGO Technic Bugatti Chiron Pur Sport Hypercar toy for 9+ year old boys and girls who love racing games
-- AUTHENTIC DETAILS – Explore the details in this car model building kit, like the steering, W16 engine, opening doors and opening bonnet, then check out the vibrant orange bodywork and black livery
-- TIE-IN WITH ASPHALT LEGENDS – Includes a redeemable code to unlock a digital version of this LEGO Bugatti model car in the ASPHALT LEGENDS online video game
 - CAR GIFT FOR KIDS – This Bugatti toy car makes a fun birthday gift for 9+ year old boys and girls who love racing games and LEGO building sets
+- RACE CAR MODEL KIT – Race into action with the LEGO Technic Bugatti Chiron Pur Sport Hypercar toy for 9+ year old boys and girls who love racing games
+- TIE-IN WITH ASPHALT LEGENDS – Includes a redeemable code to unlock a digital version of this LEGO Bugatti model car in the ASPHALT LEGENDS online video game
+- AUTHENTIC DETAILS – Explore the details in this car model building kit, like the steering, W16 engine, opening doors and opening bonnet, then check out the vibrant orange bodywork and black livery
 - BUILD, PLAY, DISPLAY – Kids can enjoy assembling the building set, then stage fun races with their race car toy before placing it on display until it’s time to play again
 - DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
 

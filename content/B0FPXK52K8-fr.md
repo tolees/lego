@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DÉTAILS AUTHENTIQUES – Éléments fidèles à l’original, dont un habitacle avec cabine avancée, un aileron arrière, des sorties d’échappement hautes et des jantes ornées du célèbre écusson Ferrari
 - MINIFIGURINE LEGO DE PILOTE – Ce kit inclut une minifigurine de pilote avec une combinaison & un casque Ferrari, des cheveux, ainsi qu’une clé pour appliquer les autocollants et séparer les briques
-- DÉCORATION DE CHAMBRE POUR ENFANT – Garçons & filles peuvent exposer fièrement ce jeu de construction LEGO collector dans leur chambre, sur une étagère ou une table de chevet
-- VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques des plus grandes légendes automobiles
 - CADEAU POUR FANS DE VOITURES – Cette maquette de Ferrari offre une expérience de construction amusante et constitue un superbe cadeau danniversaire pour un garçon, une fille dès 9 ans ou un fan adulte de sport automobile
+- VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques des plus grandes légendes automobiles
 - JOUET VOITURE FERRARI ROUGE – La Voiture de course Ferrari SF90 XX Stradale LEGO Speed Champions permet aux garçons & aux filles dès 9 ans de construire, exposer et jouer à la course sur piste ou sur la route
+- DÉCORATION DE CHAMBRE POUR ENFANT – Garçons & filles peuvent exposer fièrement ce jeu de construction LEGO collector dans leur chambre, sur une étagère ou une table de chevet
+- DÉTAILS AUTHENTIQUES – Éléments fidèles à l’original, dont un habitacle avec cabine avancée, un aileron arrière, des sorties d’échappement hautes et des jantes ornées du célèbre écusson Ferrari
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXK52K8{{</world>}}

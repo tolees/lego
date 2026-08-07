@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- NINTENDO BAUSATZ: Dieses Set gehört zu einem großen Sortiment aus LEGO Sets für Erwachsene und lässt sich mit Mario Kart: Mario & Standard-Kart (72037) kombinieren. Dieses Set ist separat erhältlich
 - 3D-BAUANLEITUNGEN: Freu dich auf ein neues Bauerlebnis mit den 3D-Bauanleitungen in der LEGO Builder App; du kannst in der App Sets speichern, ein 3D Modell vergrößern und drehen
-- MARIO KART BÜRO DEKO: Dieses LEGO Super Mario Bauset mit Figur und Flitzer ist eine originelle DIY Deko fürs Wohnzimmer und ein echter Hingucker fürs Regal
+- LEGO FÜR ERWACHSENE: Bewege den Kopf, die Arme und die Hände von Luigi und stell den Turboflitzer auf dem Ständer aus; beim Fahren dreht sich der Flammenauspuff, steuere den Flitzer mit dem Lenkrad
 - MARIO KART 3D PUZZLE: Das Set bietet erfahrenen Baufans eine kreative Herausforderung; mit der Schritt-für-Schritt-Anleitung meistern auch Super Mario Fans, die noch kein LEGO Modell gebaut haben, diese Aufgabe
 - BASTELSET FÜR ERWACHSENE: LEGO Super Mario: Mario Kart: Luigi & Turboflitzer lässt dich deine Begeisterung für Mario Kart ausleben, beinhaltet neben dem legendären Charakter Luigi auch ein Turboflitzer
 - MARIO KART GESCHENK FÜR ERWACHSENE GAMER: Dieses LEGO Set ist ein beliebtes Geschenk für Männer, Frauen und Super Mario Fans wie dich
-- LEGO FÜR ERWACHSENE: Bewege den Kopf, die Arme und die Hände von Luigi und stell den Turboflitzer auf dem Ständer aus; beim Fahren dreht sich der Flammenauspuff, steuere den Flitzer mit dem Lenkrad
+- NINTENDO BAUSATZ: Dieses Set gehört zu einem großen Sortiment aus LEGO Sets für Erwachsene und lässt sich mit Mario Kart: Mario & Standard-Kart (72037) kombinieren. Dieses Set ist separat erhältlich
+- MARIO KART BÜRO DEKO: Dieses LEGO Super Mario Bauset mit Figur und Flitzer ist eine originelle DIY Deko fürs Wohnzimmer und ein echter Hingucker fürs Regal
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGBHMZ{{</world>}}

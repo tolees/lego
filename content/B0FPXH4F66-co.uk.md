@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Jet vs. Car Toy - Building Kit w/Plane Supercar Plus Pilot & Driver Minifigures - Creative Birthday Gift Idea for 6+ Year Old Boys - 60489'
-date: 2026-08-05 07:58:38
+date: 2026-08-06 15:43:16
 image: 'https://m.media-amazon.com/images/I/51xUCmbQAOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - A HELPING HAND – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 - MORE LEGO CITY SETS TO DISCOVER – Kids can combine this toy plane and car playset with other building kits (sold separately) from the LEGO City range
-- 2 LEGO CITY MINIFIGURES – Add the included pilot and racing driver LEGO minifigures with swappable hair and helmets, for hours of epic racing action
 - BIRTHDAY GIFT FOR KIDS – A great treat or birthday gift for 6+ year old boys and girls who love racing car toys and model airplanes
+- WHAT’S IN THE BOX? – The model kit includes everything kids need to build a supercar with a minifigure cockpit, and a jet plane model with swept-back wings, twin vertical fins and stabilisers
+- 2 LEGO CITY MINIFIGURES – Add the included pilot and racing driver LEGO minifigures with swappable hair and helmets, for hours of epic racing action
 - REALISTIC DETAILS FOR IMAGINATIVE PLAY – Kids can slide a lever to engage the afterburners on the airplane toy and open the cockpit of model car to access its interior
 - RACING CAR AND PLANE TOYS FOR KIDS – Hours of high-speed race play await with this LEGO City Jet vs. Car toy for 6+ year old boys and girls
-- WHAT’S IN THE BOX? – The model kit includes everything kids need to build a supercar with a minifigure cockpit, and a jet plane model with swept-back wings, twin vertical fins and stabilisers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXH4F66{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- VERSTECKTE GEHEIMNISSE: In Geheimfächern des Bausets verbergen sich Gryffindors Schwert, Hufflepuffs Trinkpokal, Ravenclaws Diadem und Slytherins Medaillon, mit Platz für weitere Objekte
 - HARRY POTTER GESCHENK FÜR JUNGEN UND MÄDCHEN: Dieses LEGO Modell ist ein zauberhaftes Geburtstagsgeschenk für Teenager und Fans ab 12 Jahren
-- DIGITALE ANLEITUNGEN: Mit der LEGO Builder App 3D Modelle drehen, zoomen, Fortschritt ansehen und speichern für ein interaktives Bauerlebnis
-- MODELLBAU ZUM AUSSTELLEN: Stell das Wappen auf dem Ständer aus und befestige das Banner mit dem Hogwarts Motto, um eine spektakuläre DIY Deko zu erschaffen
-- MAGISCHE HARRY POTTER FANARTIKEL ZUM SAMMELN: Die separat erhältlichen LEGO Sets lassen Fans legendäre Szenen nachspielen, eigene Geschichten darstellen und die detailreichen Modelle ausstellen
-- BASTELSET MIT AUTHENTISCHEN DETAILS: Baue das Wappen mit detailreichen LEGO Nachbildungen der Wappentiere von Gryffindor, Slytherin, Hufflepuff und Ravenclaw
 - LEGO HARRY POTTER SPIELZEUG AB 12 JAHREN: Hogwarts Hauswappen lässt dich eine magische Hommage an die Häuser Gryffindor, Hufflepuff, Ravenclaw und Slytherin erschaffen
+- MODELLBAU ZUM AUSSTELLEN: Stell das Wappen auf dem Ständer aus und befestige das Banner mit dem Hogwarts Motto, um eine spektakuläre DIY Deko zu erschaffen
+- DIGITALE ANLEITUNGEN: Mit der LEGO Builder App 3D Modelle drehen, zoomen, Fortschritt ansehen und speichern für ein interaktives Bauerlebnis
+- BASTELSET MIT AUTHENTISCHEN DETAILS: Baue das Wappen mit detailreichen LEGO Nachbildungen der Wappentiere von Gryffindor, Slytherin, Hufflepuff und Ravenclaw
+- MAGISCHE HARRY POTTER FANARTIKEL ZUM SAMMELN: Die separat erhältlichen LEGO Sets lassen Fans legendäre Szenen nachspielen, eigene Geschichten darstellen und die detailreichen Modelle ausstellen
+- VERSTECKTE GEHEIMNISSE: In Geheimfächern des Bausets verbergen sich Gryffindors Schwert, Hufflepuffs Trinkpokal, Ravenclaws Diadem und Slytherins Medaillon, mit Platz für weitere Objekte
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXDT4CG{{</world>}}

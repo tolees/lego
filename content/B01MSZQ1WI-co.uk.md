@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Pretend-play food toy playset – LEGO Classic Creative Food Friends is an imaginative build-and-play toy for 4 plus year old boys and girls
+- Gift for 4 plus year old boys and girls – This LEGO 4+ set makes a fun birthday for kids who like to role-play with food toys and fun characters
 - Expand the fun – Check out the full range of LEGO Classic building toys for kids (sold separately) for more hands-on imaginative play
-- Step-by-step guide – a simple intuitive construction guide shows kids how to build a toy cupcake, ice cream, avocado and taco food toys
+- Pretend-play food toy playset – LEGO Classic Creative Food Friends is an imaginative build-and-play toy for 4 plus year old boys and girls
+- Creative toys – Kids can rebuild the toys into a cake with sprinkles, bubble tea, pear and a panini, then launch into unlimited free-building fun
 - Assorted bricks and fun elements – Includes colourful lego bricks in a variety of shapes, plus special pieces, such as lego eyes and mouths
 - Bricks that build skills – LEGO Classic toys are filled with ideas and inspiration and allow parents to share building fun and developmental milestones with their kids
-- Gift for 4 plus year old boys and girls – This LEGO 4+ set makes a fun birthday for kids who like to role-play with food toys and fun characters
-- Creative toys – Kids can rebuild the toys into a cake with sprinkles, bubble tea, pear and a panini, then launch into unlimited free-building fun
+- Step-by-step guide – a simple intuitive construction guide shows kids how to build a toy cupcake, ice cream, avocado and taco food toys
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MSZQ1WI{{</world>}}

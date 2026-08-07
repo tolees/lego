@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DIGITAL GUIDE – Let the LEGO Builder app guide kids on an intuitive adventure, where they can save sets, track progress and zoom in and rotate models in 3D
-- 6 LEGO NINJAGO MINIFIGURES – This building set comes with Kai, Zane, Dragon Form Jay and Euphrasia, plus swords and other weapon accessories
-- FUN FEATURES – the 3-storey tree house toy features a workshop, tearoom, terrace, trap that releases a rock, rotating bridge, stud shooter and swinging vine rope
-- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
 - TOY TREE HOUSE FOR KIDS – The Ninja Vehicle Tree House Battle building toy for 7+ year old boys and girls lets fans recreate battle scenes from season 4 of the LEGO NINJAGO Dragons Rising TV show
-- 2 NINJA VEHICLES – Ninja motorbike toy has moving wheels, a saddle-cockpit for a minifigure and 2 stud shooters, and the helicopter has an opening cockpit and rotating blades
+- DIGITAL GUIDE – Let the LEGO Builder app guide kids on an intuitive adventure, where they can save sets, track progress and zoom in and rotate models in 3D
+- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
 - GIFT IDEA FOR KIDS – NINJAGO playset comes packed with a 3-storey tree house, helicopter toy and motorcycle and makes a great birthday gift for 7+ year old boys and girls with a passion for fantasy and imagination toys
+- 6 LEGO NINJAGO MINIFIGURES – This building set comes with Kai, Zane, Dragon Form Jay and Euphrasia, plus swords and other weapon accessories
+- 2 NINJA VEHICLES – Ninja motorbike toy has moving wheels, a saddle-cockpit for a minifigure and 2 stud shooters, and the helicopter has an opening cockpit and rotating blades
+- FUN FEATURES – the 3-storey tree house toy features a workshop, tearoom, terrace, trap that releases a rock, rotating bridge, stud shooter and swinging vine rope
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPVT6L4X{{</world>}}
