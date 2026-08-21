@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- REGALO CREATIVO: unidea regalo per una donna o per un uomo, con cui festeggiare una ricorrenza, il compleanno o un anniversario, pensato per gli amanti dei set LEGO da collezione di fiori e piante artificiali
-- DECORAZIONE PER LA CASA O PER LUFFICIO: il bouquet di fiori LEGO diventa un elemento per larredamento di casa, da combinare con gli altri set della gamma (disponibili separatamente)
-- DETTAGLI DELLA NATURA: questi fiori artificiali realistici sono caratterizzati da pezzi di cupcake per i carpelli dei fiori, rane marroni come nodi del legno, pezzi di uova per i boccioli e spirali di gelato per le punte dei boccioli
-- PIANTA DI MAGNOLIA LEGO: il kit comprende 5 rametti di magnolia, 2 dei quali mostrano il pieno sviluppo del fiore finto LEGO, dal piccolo bocciolo ai petali aperti
 - KIT DI MODELLISMO CON FIORI LEGO: crea decorazioni floreali con il set Rametti di Magnolia LEGO Botanicals per adulti, un kit fai da te con rametti e fiori da costruire in mattoncini
+- REGALO CREATIVO: unidea regalo per una donna o per un uomo, con cui festeggiare una ricorrenza, il compleanno o un anniversario, pensato per gli amanti dei set LEGO da collezione di fiori e piante artificiali
+- PIANTA DI MAGNOLIA LEGO: il kit comprende 5 rametti di magnolia, 2 dei quali mostrano il pieno sviluppo del fiore finto LEGO, dal piccolo bocciolo ai petali aperti
+- DETTAGLI DELLA NATURA: questi fiori artificiali realistici sono caratterizzati da pezzi di cupcake per i carpelli dei fiori, rane marroni come nodi del legno, pezzi di uova per i boccioli e spirali di gelato per le punte dei boccioli
+- DECORAZIONE PER LA CASA O PER LUFFICIO: il bouquet di fiori LEGO diventa un elemento per larredamento di casa, da combinare con gli altri set della gamma (disponibili separatamente)
 - APP BUILDER: la composizione floreale delle magnolie è disponibile nell’app LEGO Builder, con cui gli aspiranti fioristi possono accedere alle istruzioni digitali e monitorare i loro progressi
 
 [🛒 Buy it now!!]({{< param buyurl >}})

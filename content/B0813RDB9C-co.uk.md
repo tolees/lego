@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Olivia’s Flower Garden includes a buildable mini-doll figure, farmer Zobo the robot figure, cute hamster figure, and, of course, flowers!
-- Olivias Flower Garden
-- Manufacturer recommended age: 6+
 - Also includes a strawberry cake, hat, bucket, fork and shovel to help young botanists nurture rare plants and study them with Olivia!
 - Number of pieces: 92
+- Manufacturer recommended age: 6+
+- Olivia’s Flower Garden includes a buildable mini-doll figure, farmer Zobo the robot figure, cute hamster figure, and, of course, flowers!
+- Olivias Flower Garden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0813RDB9C{{</world>}}

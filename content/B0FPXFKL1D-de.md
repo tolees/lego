@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- SPIELZEUG FÜR KINDER AB 10 JAHREN: LEGO Harry Potter Schloss Hogwarts: Ostflügel ist ein detaillierter Modellbau, der die Geheimnisse der Kammer des Schreckens sowie Viadukt und Brücke darstellt
 - BAUSATZ MIT VERSPIELTEN DETAILS: Lass den Basilisken Harry Potter in der Kammer auflauern und such nach Tom Riddles Tagebuch, dem Schwert von Gryffindor und 4 von 14 Hogwarts Porträts zum Sammeln
-- GEMEINSAM BAUEN: Mit der LEGO Builder App parallel auf mehreren Geräten bauen, Fortschritte teilen und gemeinsam am Spielset arbeiten
 - KREATIVE KINDERZIMMER DEKO: Verbotene Abteilung und Mädchentoilette mit geheimer Rutsche erkunden; Kammer und Slytherin-Gemeinschaftsraum herausziehen für besseres Spielen
-- 13 LEGO MINIFIGUREN: Mit Harry Potter, Hermine Granger, Ron Weasley, Argus Filch und dem Blutigen Baron sowie Mrs. Norris, Hirschkuh-Patronus, Basilisk und Fawkes für vielseitige Rollenspiele
 - HARRY POTTER GESCHENK FÜR JUNGEN UND MÄDCHEN: Dieses Spielzeugschloss ist eine zauberhafte spontane Überraschung oder Geburtstagsgeschenk für Kinder und Fans ab 10 Jahren
 - SAMMELN UND VERBINDEN: Dieses Bauspielzeug gehört zu einer Serie von (separat erhältlichen) modularen Sets, die man zum bisher detailliertestem Modell von Schloss Hogwarts aus LEGO Steinen zusammenfügen kann
-- SPIELZEUG FÜR KINDER AB 10 JAHREN: LEGO Harry Potter Schloss Hogwarts: Ostflügel ist ein detaillierter Modellbau, der die Geheimnisse der Kammer des Schreckens sowie Viadukt und Brücke darstellt
+- GEMEINSAM BAUEN: Mit der LEGO Builder App parallel auf mehreren Geräten bauen, Fortschritte teilen und gemeinsam am Spielset arbeiten
+- 13 LEGO MINIFIGUREN: Mit Harry Potter, Hermine Granger, Ron Weasley, Argus Filch und dem Blutigen Baron sowie Mrs. Norris, Hirschkuh-Patronus, Basilisk und Fawkes für vielseitige Rollenspiele
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFKL1D{{</world>}}

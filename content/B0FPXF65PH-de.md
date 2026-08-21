@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- COOLE DIY DEKO: Fans des Films können den fertigen Toyota Supra MK4 im Kinderzimmer, auf dem Schreibtisch oder auf dem Nachttisch ausstellen
-- LEGO MINIFIGUR BRIAN O’CONNER: Setz die detailgetreue Minifigur im T-Shirt und Jeans ans Steuer des ikonischen orangen Sportwagens und erwecke den Filmhelden zum Leben
-- GESCHENK FÜR KINDER: Dieser Fast and Furious Fanartikel ist eine beliebte Geschenkidee für Jungen und Mädchen, aber auch erwachsene Autofans haben Freude daran
-- LEGO FAST AND FURIOUS MIT DETAILS: Dieses Fast & Furious Sammlerstück begeistert mit Troy Lees „Nuclear Gladiator“-Grafik an der Seite, einem markanten Heckflügel und 4 neuartigen Chromfelgen
 - FAST & FURIOUS FLITZER: Der LEGO Speed Champions The Fast and The Furious Toyota Supra MK4 lässt Kinder ab 10 Jahren ein detailgetreues 3D Modell bauen, ausstellen und spannende Filmszenen nachspielen
+- LEGO FAST AND FURIOUS MIT DETAILS: Dieses Fast & Furious Sammlerstück begeistert mit Troy Lees „Nuclear Gladiator“-Grafik an der Seite, einem markanten Heckflügel und 4 neuartigen Chromfelgen
+- GESCHENK FÜR KINDER: Dieser Fast and Furious Fanartikel ist eine beliebte Geschenkidee für Jungen und Mädchen, aber auch erwachsene Autofans haben Freude daran
 - GEMEINSAM BAUEN: Die LEGO Builder App ermöglicht ein gemeinsames Bauerlebnis, bei dem alle mit ihren eigenen Smartgeräten an verschiedenen Teilen des Sets bauen können
 - LEGENDÄRE FLITZER ZUM SPIELEN UND AUSSTELLEN: LEGO Speed Champions Sets lassen Kinder und Autofans detailgetreue Nachbildungen berühmter Autos bauen und ausstellen
+- LEGO MINIFIGUR BRIAN O’CONNER: Setz die detailgetreue Minifigur im T-Shirt und Jeans ans Steuer des ikonischen orangen Sportwagens und erwecke den Filmhelden zum Leben
+- COOLE DIY DEKO: Fans des Films können den fertigen Toyota Supra MK4 im Kinderzimmer, auf dem Schreibtisch oder auf dem Nachttisch ausstellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXF65PH{{</world>}}

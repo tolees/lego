@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Modellbau für Kinder mit Figuren: Neben dem baubaren Bowser enthält das Nintendo LEGO Set rosa Yoshi, Prinz Florian, Wunder-Bowser Jr. und eine Piranha-Feuernote für Rollenspiele
-- Nintendo LEGO Geschenk für Fans ab 9 Jahren: Dieses Set ist ein cooles Geschenk für Jungen und Mädchen und bietet viele Möglichkeiten zum Bauen, Sammeln und Spielen in der Super Mario Welt
-- Interaktives Spielzeug: Ergänze das Set mit LEGO Mario, Luigi oder Peach (nicht enthalten), um digitale Effekte und den Showdown aus Super Mario Bros Wonder zu erleben
-- Spielzeug für jede Menge Action: Dieser imposante Schloss-Bowser feuert Feuerbälle und bringt epische Duelle ins Kinderzimmer; ein LEGO Super Mario Set für Jungen und Mädchen mit Spaß an Abenteuern
 - Lass Kinder fantasievoll spielen: LEGO Super Mario Sets lassen sich vielseitig erweitern und umgestalten, um unzählige kreative Herausforderungen zu bieten und Kinder (auch miteinander) auf coole Münzsammelmissionen zu schicken
+- Interaktives Spielzeug: Ergänze das Set mit LEGO Mario, Luigi oder Peach (nicht enthalten), um digitale Effekte und den Showdown aus Super Mario Bros Wonder zu erleben
+- Nintendo LEGO Geschenk für Fans ab 9 Jahren: Dieses Set ist ein cooles Geschenk für Jungen und Mädchen und bietet viele Möglichkeiten zum Bauen, Sammeln und Spielen in der Super Mario Welt
 - LEGO Piranha Pflanze & Co. entdecken: Das Schloss kann vom Ständer genommen werden, um das Innere mit Prinz Florians Zelle zu enthüllen; ein kreatives Spielzeug für Abenteurer
+- Spielzeug für jede Menge Action: Dieser imposante Schloss-Bowser feuert Feuerbälle und bringt epische Duelle ins Kinderzimmer; ein LEGO Super Mario Set für Jungen und Mädchen mit Spaß an Abenteuern
 - Kreatives Set Spiel: Die kostenlose LEGO Super Mario App liefert Bauanleitungen und Spielideen - so wird das Spielset zum digitalen Begleiter für fantasievolle Abenteuer
 
 [🛒 Buy it!!]({{< param buyurl >}})

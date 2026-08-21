@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - GAMING GESCHENK FÜR KINDER: Dieses Gamer Geschenk ist eine schöne Überraschung für Jungen und Mädchen ab 8 Jahren, die LEGO lieben und sich für Minecraft Figuren begeistern
 - INTERAKTIVES GAMING SPIELZEUG: Das LEGO Set enthält eine Explosionfunktion für den Wither und ein sich „öffnendes“ Nether-Portal; entdecke die vielen Funktionen dieses actionreichen Kinder Spielzeugs für fantasievolle Abenteuer
-- KOMBINIERBAR MIT ANDEREN SETS FÜR MINECRAFT SPIELER: Die LEGO Minecraft Bausets bieten Kindern eine große Auswahl an bekannten Szenen und Mobs aus dem beliebten Videospiel
-- LEGO MINECRAFT SPIELSET: Reise mit diesem Minecraft Bastelset durch das Nether-Portal zum Schrein des Wither; dieses Modellbau Set ist ein beliebtes Minecraft Spielzeug ab 8 Jahren
-- KREATIVES BAUSET MIT VIEL ZUBEHÖR: Mit Werkbank, Heiltrank, Streitkolben, Schädeln und Nether-Stern für kreative Minecraft Szenen und Rollenspielen im Kinderzimmer
 - LEGO MINECRAFT MINIFIGUR UND MOBS: Das Spielset beinhaltet eine Minecraft Minifigur (Karmesin-Krieger), 2 Wither-Skelette, Strider, Baby-Strider, Wither und Magmawürfel
+- KREATIVES BAUSET MIT VIEL ZUBEHÖR: Mit Werkbank, Heiltrank, Streitkolben, Schädeln und Nether-Stern für kreative Minecraft Szenen und Rollenspielen im Kinderzimmer
+- LEGO MINECRAFT SPIELSET: Reise mit diesem Minecraft Bastelset durch das Nether-Portal zum Schrein des Wither; dieses Modellbau Set ist ein beliebtes Minecraft Spielzeug ab 8 Jahren
+- KOMBINIERBAR MIT ANDEREN SETS FÜR MINECRAFT SPIELER: Die LEGO Minecraft Bausets bieten Kindern eine große Auswahl an bekannten Szenen und Mobs aus dem beliebten Videospiel
 - BAUMODELL MIT GEMEINSAM BAUEN-MODUS: Die LEGO Builder App ermöglicht das gleichzeitige Bauen mit Freunden und Familie; es ist ein cooles Feature, um gemeinsam dieses DIY Set zusammzubauen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

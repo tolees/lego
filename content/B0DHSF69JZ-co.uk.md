@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app features a digital version of the instructions included with this building toy set
-- BIRTHDAY GIFT FOR TODDLERS – This DUPLO building toy makes a fun gift for 2+ year old girls and boys, plus fans of Peppa Pig figures and Montessori toys
-- CAMPING TOY FOR TODDLERS – LEGO DUPLO Peppa Pig Camping Trip toy for 2+ year old girls, boys and fans includes lots of LEGO bricks and pieces for creative play
 - EARLY DEVELOPMENT TOYS – LEGO DUPLO bricks support toddlers’ fine motor skills and emotional development through fun-filled, creative playtimes
-- DUPLO BRICKS AND ACCESSORIES – This LEGO set includes a camera toy, 2 mugs, 2 sleeping bags, a campfire, map, buildable tent toy, a tree and flowers
+- CAMPING TOY FOR TODDLERS – LEGO DUPLO Peppa Pig Camping Trip toy for 2+ year old girls, boys and fans includes lots of LEGO bricks and pieces for creative play
 - CREATIVE ROLE PLAY TOYS – Kids help Peppa Pig and Daddy Pig figures set up camp, pitch a tent and invent creative stories to act out in their canoe toy
+- DUPLO BRICKS AND ACCESSORIES – This LEGO set includes a camera toy, 2 mugs, 2 sleeping bags, a campfire, map, buildable tent toy, a tree and flowers
 - TODDLER LEARNING TOYS – Teach kids how to care for nature and explore their emotions around camping with this creative building set
+- BIRTHDAY GIFT FOR TODDLERS – This DUPLO building toy makes a fun gift for 2+ year old girls and boys, plus fans of Peppa Pig figures and Montessori toys
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSF69JZ{{</world>}}

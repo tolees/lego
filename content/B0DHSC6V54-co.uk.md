@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Tipping Dump Truck Toy with Steering & Moving Dump Box - Construction Vehicle Set for 9+ Years Old Boys & Girls - Fun Birthday Idea - 42203'
-date: 2026-03-10 09:35:48
+date: 2026-08-21 07:52:54
 image: 'https://m.media-amazon.com/images/I/51P6UMP96ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DHSC6V54-co.uk LEGO Technic Tipping Dump Truck Toy with Steering &...'
 sku: 'B0DHSC6V54-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 32.9 GBP
+actualPrice: 31.99 GBP
 currency: GBP
-price: 32.9
+price: 31.99
 comparePrice: 44.99 GBP
 prodname: 'LEGO Technic Tipping Dump Truck Toy with Steering & Moving Dump Box - Construction Vehicle Set for 9+ Years Old Boys & Girls - Fun Birthday Idea - 42203'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DHSC6V54/?tag=tolees0a-21'
-descuento: '26.87'
-average: '31.572'
+descuento: '28.90'
+average: '31.6416666666667'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Construction vehicle toy – This classic kids’ dump truck set lets young builders assemble their own toy tipper truck before playing with the vehicle
-- Realistic features – Kids can steer the truck toy into position, turn the knob on the side to tip the lid, and open the doors to see inside the cab
 - A birthday gift for kids – This building set is a fun gift for 9 plus year old boys, girls and kids who love LEGO vehicles or construction toys
+- Realistic features – Kids can steer the truck toy into position, turn the knob on the side to tip the lid, and open the doors to see inside the cab
 - Introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young builders to the universe of engineering
 - Building site adventures – The LEGO Technic Tipping Dump Truck toy for 9+ year old boys and girls lets kids create fun construction site stories
+- Construction vehicle toy – This classic kids’ dump truck set lets young builders assemble their own toy tipper truck before playing with the vehicle
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSC6V54{{</world>}}

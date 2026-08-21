@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Planet Earth and Moon in Orbit Model Building Set Outer Space Toys for 10 Plus Year Old Kids Boys & Girls Solar System Toy for Imaginative Independent Play Birthday Gift Idea 42179'
-date: 2026-07-27 19:44:00
+date: 2026-08-21 07:51:09
 image: 'https://m.media-amazon.com/images/I/418F+7rIXpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CFVYHXV5-co.uk LEGO Technic Planet Earth and Moon in Orbit Model...'
 sku: 'B0CFVYHXV5-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 52.49 GBP
+actualPrice: 51.99 GBP
 currency: GBP
-price: 52.49
+price: 51.99
 comparePrice: 69.99 GBP
 prodname: 'LEGO Technic Planet Earth and Moon in Orbit Model Building Set Outer Space Toys for 10 Plus Year Old Kids Boys & Girls Solar System Toy for Imaginative Independent Play Birthday Gift Idea 42179'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0CFVYHXV5/?tag=tolees0a-21'
-descuento: '25.00'
-average: '54.6699999999999'
+descuento: '25.72'
+average: '54.3126666666665'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Includes phases – The solar system toy includes printed details like month and moon phases to help kids see how the Earth’s orbit affects our seasons
 - A space gift for kids – This set promotes independent play and makes a fun gift for 10+ year old boys and girls who love learning about planets
+- Includes phases – The solar system toy includes printed details like month and moon phases to help kids see how the Earth’s orbit affects our seasons
 - Educational space toy for 10+ year old boys and girls – Kids can turn the crank to see how the Earth and the Moon orbit around the Sun
 - Intuitive instructions – The LEGO Builder app lets your kids save sets, track their progress, zoom in and rotate their LEGO space set in 3D
 - Interactive model – Inspire kids to build a representation of the Earth, Sun and Moon in orbit with this LEGO Technic space toy for kids

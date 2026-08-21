@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BUILDABLE ORCHID MODEL – Craft your own elegant orchid with this LEGO Botanicals artificial plant set for adults, a relaxing creative project for nature lovers
 - STYLISH HOME OR OFFICE DECOR – Add a splash of colour and serenity to any space with this unique, zero-maintenance orchid display
-- DETAILED DESIGN – Created with close attention to detail, this orchid model kit captures the beauty and elegance of a real orchid
-- INSPIRED BY REAL ORCHIDS – This realistic plant display features 6 large faux flowers, 2 newly opened blooms and a buildable blue fluted vase
-- GIFT FOR FLOWER FANS – This LEGO Botanicals Orchid building set makes a thoughtful birthday, anniversary or anytime gift for women, men and plant lovers
 - CUSTOMISE YOUR ARRANGEMENT – Rotate the stems, flowers, roots and leaves or rebuild the stems to create a fresh floral display anytime
+- GIFT FOR FLOWER FANS – This LEGO Botanicals Orchid building set makes a thoughtful birthday, anniversary or anytime gift for women, men and plant lovers
+- INSPIRED BY REAL ORCHIDS – This realistic plant display features 6 large faux flowers, 2 newly opened blooms and a buildable blue fluted vase
+- BUILDABLE ORCHID MODEL – Craft your own elegant orchid with this LEGO Botanicals artificial plant set for adults, a relaxing creative project for nature lovers
+- DETAILED DESIGN – Created with close attention to detail, this orchid model kit captures the beauty and elegance of a real orchid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNV2Q49{{</world>}}

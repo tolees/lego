@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Marvel Avengers: Age of Ultron Quinjet – Superhelden Spielzeug Flugzeug mit Motorrad und 5 Minifiguren darunter Iron Man Black Widow und Ultron – Geschenk für Jungen ab 12 Jahren – 76325'
-date: 2026-03-23 13:59:57
+date: 2026-08-21 09:56:16
 image: 'https://m.media-amazon.com/images/I/41g3y48IWvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DWDT7G5Y-de LEGO | Marvel Avengers: Age of Ultron Quinjet –...'
 sku: 'B0DWDT7G5Y-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 82.99 EUR
+actualPrice: 85.99 EUR
 currency: EUR
-price: 82.99
+price: 85.99
 comparePrice: 119.99 EUR
 prodname: 'LEGO | Marvel Avengers: Age of Ultron Quinjet – Superhelden Spielzeug Flugzeug mit Motorrad und 5 Minifiguren darunter Iron Man Black Widow und Ultron – Geschenk für Jungen ab 12 Jahren – 76325'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDT7G5Y/?tag=tolees0ca-21'
-descuento: '30.84'
-average: '85.96'
+descuento: '28.34'
+average: '85.9675'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 360-Grad-Ausstellungsstück: Der detailgetreue Quinjet lässt sich auf dem abnehm- und drehbaren Ständer präsentieren; ein Highlight für Fans von Avengers Spielzeug und Marvel Sammlerstücken
 - Avengers Quinjet: Das Flugzeug Spielzeug verfügt über ein aufklappbares Cockpit; zwei Shooter an der Vorderseite; Staufächer für Ausrüstung und eine Heckladeluke zum Verladen des Motorrads
 - LEGO Marvel Sammlerstück: Der Quinjet aus Avengers: Age of Ultron ist detailgetreu nachgebildet; ein Bau-Spielzeug für Jungen und Mädchen ab 12 Jahren, die den legendären Flieger bauen und ausstellen möchten
-- 360-Grad-Ausstellungsstück: Der detailgetreue Quinjet lässt sich auf dem abnehm- und drehbaren Ständer präsentieren; ein Highlight für Fans von Avengers Spielzeug und Marvel Sammlerstücken
-- LEGO Marvel Bausets: Das breite Angebot an LEGO Marvel Bausets ermöglicht Kindern fantasievolle Bau- und Spielabenteuer; ideal für Fans von Avengers und Marvel Spielzeug
-- Superhelden-Minifiguren: Enthält fünf LEGO Marvel Minifiguren – Schwarze Witwe auf ihrem Motorrad; Iron Man; Quicksilver; Ultimate Ultron und Hawkeye mit Pfeil und Bogen
 - 3D-Bauanleitung: Mit der LEGO Builder App können Kinder 3D-Modelle vergrößern und drehen; Sets speichern und ihren Baufortschritt verfolgen; so wird das Bauerlebnis noch intuitiver
 - Geschenkidee für Fans der Marvel-Filme: Ein Modell zum Bauen, Spielen und Ausstellen; passend für Jungen und Mädchen, die Marvel Spielzeug, Avengers Geschenke und kreative LEGO Bauprojekte mögen
+- LEGO Marvel Bausets: Das breite Angebot an LEGO Marvel Bausets ermöglicht Kindern fantasievolle Bau- und Spielabenteuer; ideal für Fans von Avengers und Marvel Spielzeug
+- Superhelden-Minifiguren: Enthält fünf LEGO Marvel Minifiguren – Schwarze Witwe auf ihrem Motorrad; Iron Man; Quicksilver; Ultimate Ultron und Hawkeye mit Pfeil und Bogen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDT7G5Y{{</world>}}

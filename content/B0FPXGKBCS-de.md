@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Ken Blocks 1965 Ford Mustang Hoonicorn V1 - Muscle Car Spielzeug - Modellbau mit Minifigur zum Sammeln - Kinderzimmer Deko - Mint Geschenk für Jungen ab 9 Jahren und Fans - 77262'
-date: 2026-08-18 19:04:02
+date: 2026-08-21 10:02:01
 image: 'https://m.media-amazon.com/images/I/51Vg5wi3cPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGKBCS/?tag=tolees0ca-21'
 descuento: '35.01'
-average: '20.4699999999999'
+average: '20.2017647058823'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DIY DEKO: Nach spannenden Rennen lässt sich das Mustang Spielzeug Auto als Sammlerstück im Regal im Kinderzimmer oder auf dem Nachttisch ausstellen
-- LEGO MINIFIGUR STELLT KEN BLOCK DAR: Das Bauset enthält eine Minifigur von Ken Block mit Hoonicorn Mütze und Jacke, optional kann er beim Fahren auch einen Helm tragen
-- 3D PUZZLE MIT DETAILS: Das Modell zeigt viele Merkmale des echten Fahrzeugs, das von Ken Block und HOONIGAN für den Film Gymkhana SEVEN (2014) mitentwickelt wurde, darunter Ansaugtrichter auf der Motorhaube und markante Felgen
-- GESCHENK FÜR AUTOFANS: Dieser Spielzeug Mustang bietet ein spannendes Bau- und Spielerlebnis und ist eine beliebte Geschenkidee für Kinder ab 9 Jahren sowie für Erwachsene, die Modellautos sammeln
-- NOCH MEHR RENNSPASS: Entdecke weitere separat erhältliche LEGO Speed Champions Bausets mit detailgetreuen Flitzern und erweitere deine Sammlung
 - MODELLBAU MIT MUSTANG RENNAUTO: LEGO Speed Champions Ken Blocks 1965 Ford Mustang Hoonicorn V1 lässt Kinder ab 9 Jahren ein detailgetreues Modell bauen, ausstellen und in spannende Rennen schicken
+- NOCH MEHR RENNSPASS: Entdecke weitere separat erhältliche LEGO Speed Champions Bausets mit detailgetreuen Flitzern und erweitere deine Sammlung
+- LEGO MINIFIGUR STELLT KEN BLOCK DAR: Das Bauset enthält eine Minifigur von Ken Block mit Hoonicorn Mütze und Jacke, optional kann er beim Fahren auch einen Helm tragen
+- GESCHENK FÜR AUTOFANS: Dieser Spielzeug Mustang bietet ein spannendes Bau- und Spielerlebnis und ist eine beliebte Geschenkidee für Kinder ab 9 Jahren sowie für Erwachsene, die Modellautos sammeln
+- DIY DEKO: Nach spannenden Rennen lässt sich das Mustang Spielzeug Auto als Sammlerstück im Regal im Kinderzimmer oder auf dem Nachttisch ausstellen
+- 3D PUZZLE MIT DETAILS: Das Modell zeigt viele Merkmale des echten Fahrzeugs, das von Ken Block und HOONIGAN für den Film Gymkhana SEVEN (2014) mitentwickelt wurde, darunter Ansaugtrichter auf der Motorhaube und markante Felgen
 - LEGENDÄRE AUTOS ZUM SPIELEN UND AUSSTELLEN: Erschaffe LEGO Nachbildungen echter Rennautos und Sportwagen sowie beliebter Flitzer aus Videospielen, TV Serien und Kinofilmen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

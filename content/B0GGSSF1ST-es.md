@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DESDE UNA GALAXIA MUY, MUY LEJANA HASTA TU HOGAR: Los sets LEGO Star Wars coleccionables para adultos se han diseñado para personas que disfruten relajándose y recargando energías con actividades manuales inmersivas llenas de creatividad
 - COLECCIÓN STAR WARS: Comparte tu pasión por este emblemático personaje y exponlo junto a la minifigura LEGO de Boba Fett con accesorios en un soporte con una placa informativa para disfrutarlo como decoración en la estantería
 - REGALO DE STAR WARS PARA FANS: Date un capricho u obsequia a un coleccionista adulto con este gran regalo para hombres y mujeres fans de las maquetas de Star Wars
-- CONSTRUYE AL INFAME CAZARRECOMPENSAS: Demuestra tu admiración por el cazarrecompensas más temido de la galaxia con el kit de maquetas para adultos LEGO Star Wars Boba Fett
-- RECONOCIBLES DETALLES: Recrea la inconfundible armadura de Boba tal y como aparece en Star Wars: El Retorno del Jedi, así como su característico casco con telémetro giratorio, mochila propulsora, bláster y capa de tela
-- ELIGE LA POSE: Da forma a la figura Star Wars articulada sobre una base que representa las arenas de Tatooine, y ajusta la postura de la cabeza, los brazos y las manos para crear siniestras poses
 - MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder ofrece una experiencia guiada y de colaboración con amigos y familiares en la que cada uno construye una parte del set usando su propio dispositivo y todos se divierten juntos en el proceso
+- DESDE UNA GALAXIA MUY, MUY LEJANA HASTA TU HOGAR: Los sets LEGO Star Wars coleccionables para adultos se han diseñado para personas que disfruten relajándose y recargando energías con actividades manuales inmersivas llenas de creatividad
+- CONSTRUYE AL INFAME CAZARRECOMPENSAS: Demuestra tu admiración por el cazarrecompensas más temido de la galaxia con el kit de maquetas para adultos LEGO Star Wars Boba Fett
+- ELIGE LA POSE: Da forma a la figura Star Wars articulada sobre una base que representa las arenas de Tatooine, y ajusta la postura de la cabeza, los brazos y las manos para crear siniestras poses
+- RECONOCIBLES DETALLES: Recrea la inconfundible armadura de Boba tal y como aparece en Star Wars: El Retorno del Jedi, así como su característico casco con telémetro giratorio, mochila propulsora, bláster y capa de tela
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0GGSSF1ST{{</world>}}

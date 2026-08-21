@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- GIFT FOR TODDLERS – This building toy is great for Montessori and makes a fun birthday gift for 2+ year old boys and girls who love trains, and a creative present for young fans of the Peppa Pig TV show
-- FUN FARM SHOP TOY – Toddlers use their creativity to imagine selling carrots, watermelon and jam, then have fun using their little hands to drive the big toy tractor
+- DESIGNED FOR LITTLE HANDS – LEGO DUPLO development toys come with easy-to-handle bricks and engaging features to help toddlers take the first confident steps in their LEGO building journey
 - EDUCATIONAL TODDLER TOYS – This Peppa Pig playset promotes memory and problem-solving skills as young kids imitate scenes from the TV show, and can teach them about nature and buying local food
+- GIFT FOR TODDLERS – This building toy is great for Montessori and makes a fun birthday gift for 2+ year old boys and girls who love trains, and a creative present for young fans of the Peppa Pig TV show
+- PEPPA PIG TOY – Toddlers can recreate scenes from their favourite TV show while they role-play running a farm shop with the LEGO DUPLO Peppa Pig Tractor and Market toy for 2+ year old girls and boys
 - INCLUDES 2 PEPPA PIG FIGURES – This farm building toy comes with a drivable red tractor, food bricks, and Pedro Pony and Peppa Pig figures to spark imaginative play
 - LEARN WITH PEPPA PIG – These learning toys (sets sold separately) can help little builders develop early skills while immersed in imaginative play
-- DESIGNED FOR LITTLE HANDS – LEGO DUPLO development toys come with easy-to-handle bricks and engaging features to help toddlers take the first confident steps in their LEGO building journey
-- PEPPA PIG TOY – Toddlers can recreate scenes from their favourite TV show while they role-play running a farm shop with the LEGO DUPLO Peppa Pig Tractor and Market toy for 2+ year old girls and boys
+- FUN FARM SHOP TOY – Toddlers use their creativity to imagine selling carrots, watermelon and jam, then have fun using their little hands to drive the big toy tractor
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MYVG8M7{{</world>}}

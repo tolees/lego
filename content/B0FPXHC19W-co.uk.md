@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ANIMAL FIGURE AND 3 MINIFIGURES – Build a Hedwig snowy owl figure as the centrepiece of this LEGO Harry Potter set, and add Harry Potter, Hermione Granger and Ron Weasley LEGO Harry Potter minifigures
-- HARRY POTTER GIFT FOR ADULTS – Treat yourself or gift this special LEGO Harry Potter 25th anniversary display model to men, women, fellow Harry Potter fans and collectors who love fun home decor
-- LEGO SETS FOR ADULTS – This LEGO Harry Potter model kit is part of a collection of premium-quality building sets for adults who enjoy mindful, hands-on creative activities
-- FUN FUNCTIONS – Turn the 3 dials to blow the side off Harry Potter’s trunk and reveal a microscale troll’s bathroom attack scene; turn Hedwig’s head; or move the Queen on the Wizard Chessboard
-- COLLECTIBLE LEGO HARRY POTTER SET – Celebrate the 25th anniversary of the first Harry Potter film with LEGO Harry Potter Philosophers Stone – Collectors Edition building set for adults
-- 3D BUILDING INSTRUCTIONS – Get ready to build like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set with 3D building instructions
 - ICONIC SCENES AND MORE – Recreate microscale Harry Potter and the Philosopher’s Stone scenes, a Chocolate Frog card featuring Albus Dumbledore, the Philosopher’s Stone, 2 Galleons and more details
+- LEGO SETS FOR ADULTS – This LEGO Harry Potter model kit is part of a collection of premium-quality building sets for adults who enjoy mindful, hands-on creative activities
+- HARRY POTTER GIFT FOR ADULTS – Treat yourself or gift this special LEGO Harry Potter 25th anniversary display model to men, women, fellow Harry Potter fans and collectors who love fun home decor
+- FUN FUNCTIONS – Turn the 3 dials to blow the side off Harry Potter’s trunk and reveal a microscale troll’s bathroom attack scene; turn Hedwig’s head; or move the Queen on the Wizard Chessboard
+- 3D BUILDING INSTRUCTIONS – Get ready to build like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set with 3D building instructions
+- ANIMAL FIGURE AND 3 MINIFIGURES – Build a Hedwig snowy owl figure as the centrepiece of this LEGO Harry Potter set, and add Harry Potter, Hermione Granger and Ron Weasley LEGO Harry Potter minifigures
+- COLLECTIBLE LEGO HARRY POTTER SET – Celebrate the 25th anniversary of the first Harry Potter film with LEGO Harry Potter Philosophers Stone – Collectors Edition building set for adults
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXHC19W{{</world>}}

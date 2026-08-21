@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO Star Wars collectible Battle Packs – Look out for other LEGO Star Wars Battle Pack sets (sold separately) to help kids build their platoons and play out fantasy adventures
-- 4 LEGO Star Wars minifigures – 2 Death Troopers and 2 Night Troopers each with a helmet and a blaster
 - Dropship building toy – The dropship has space for 4 LEGO minifigures in the back, 2 stud shooters and a LEGO minifigure cockpit with a removable canopy
-- Small gift for boys, girls and any fans aged 6 years old and over – Give kids who are Star Wars: Ahsoka fans or LEGO lovers a cool surprise with this action-packed construction toy
-- Explore the full range – LEGO Star Wars building sets (sold separately) enable kids and adult fans to relive classic scenes, create original stories or simply display the buildable models
-- Death Trooper & Night Trooper Battle Pack – Transport a platoon and play out Star Wars: Ahsoka adventures with this building toy for kids, featuring a LEGO brick-built dropship
+- 4 LEGO Star Wars minifigures – 2 Death Troopers and 2 Night Troopers each with a helmet and a blaster
 - Stow the LEGO Star Wars blasters – Clip the troopers’ blasters next to them in the back of the dropship, ready for pretend-play battles
+- LEGO Star Wars collectible Battle Packs – Look out for other LEGO Star Wars Battle Pack sets (sold separately) to help kids build their platoons and play out fantasy adventures
+- Explore the full range – LEGO Star Wars building sets (sold separately) enable kids and adult fans to relive classic scenes, create original stories or simply display the buildable models
 - Measurements – The buildable dropship in this 119-piece set measures over 6 cm (2.5 in.) high, 9 cm (3.5 in.) long and 7 cm (3 in.) wide
+- Death Trooper & Night Trooper Battle Pack – Transport a platoon and play out Star Wars: Ahsoka adventures with this building toy for kids, featuring a LEGO brick-built dropship
+- Small gift for boys, girls and any fans aged 6 years old and over – Give kids who are Star Wars: Ahsoka fans or LEGO lovers a cool surprise with this action-packed construction toy
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF1N45H{{</world>}}

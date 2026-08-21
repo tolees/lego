@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- RENNFAHRER MIT LEGO HELM: Das Set enthält ein detailreiches LEGO Rennauto sowie eine Rennfahrer Minifigur mit Helm und Audi Outfit, die direkt ins Cockpit gesetzt werden kann
-- LEGENDÄRE FLITZER ZUM SPIELEN UND AUSSTELLEN: LEGO Speed Champions Bausets lassen Kinder und leidenschaftliche Autofans viele Nachbildungen berühmter Autos bauen
 - GESCHENK FÜR TEENAGER: Dieses LEGO Set eignet sich als Geschenk für Jungen, Mädchen und erwachsenen Fans, die LEGO F1, Rennautos und actionreiche Bauprojekte mit Bezug zum Motorsport schätzen
+- AUDI REVOLUT F1 TEAM RENNWAGEN: LEGO Speed Champions Audi Revolut F1 Team R26 Rennwagen ist ein LEGO F1 Modellauto, das Fans ab 10 Jahren ein spannendes Modellbau Erlebnis rund um den Motorsport bietet
+- RENNFAHRER MIT LEGO HELM: Das Set enthält ein detailreiches LEGO Rennauto sowie eine Rennfahrer Minifigur mit Helm und Audi Outfit, die direkt ins Cockpit gesetzt werden kann
+- MEHR FORMEL 1 ACTION: In Kombination mit weiteren LEGO Speed Champions Sets entsteht ein vielseitiges Spielerlebnis, das Rennen, Vergleiche und kreatives Spiel rund um F1 Merch ermöglicht
 - AUTHENTISCHES FORMEL 1 DESIGN: Der LEGO Audi Rennwagen greift markante Details des neuen Teams auf und macht den Rennauto Look der Saison 2026 als Formel 1 Fanartikel erlebbar
 - MODELLAUTO ZUM AUSSTELLEN: Nach dem Aufbau wird der LEGO Rennwagen zu einem Blickfang im Regal oder auf dem Schreibtisch und verbindet Spielspaß mit einem hochwertigen Sportauto
-- MEHR FORMEL 1 ACTION: In Kombination mit weiteren LEGO Speed Champions Sets entsteht ein vielseitiges Spielerlebnis, das Rennen, Vergleiche und kreatives Spiel rund um F1 Merch ermöglicht
-- AUDI REVOLUT F1 TEAM RENNWAGEN: LEGO Speed Champions Audi Revolut F1 Team R26 Rennwagen ist ein LEGO F1 Modellauto, das Fans ab 10 Jahren ein spannendes Modellbau Erlebnis rund um den Motorsport bietet
+- LEGENDÄRE FLITZER ZUM SPIELEN UND AUSSTELLEN: LEGO Speed Champions Bausets lassen Kinder und leidenschaftliche Autofans viele Nachbildungen berühmter Autos bauen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGRFLV{{</world>}}

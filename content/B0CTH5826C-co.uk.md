@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - CUSTOM FLOWER DECOR – Kids can arrange the stems and leaves of the yellow faux flowers to create a customised sunflower decoration
-- BUILDABLE SUNFLOWER DISPLAY – With this LEGO Botanicals Sunflowers set, kids aged 8+ and flower lovers can create their own colourful faux flower display
 - FLOWER GIFT FOR KIDS – This building set is great as a desk decoration and makes a fun gift for 8+ year old girls and boys who love flowers
 - BRING SUNSHINE TO ANY ROOM – This artificial sunflower set includes 2 blooms with adjustable green stems and leaves - ideal for short vases
+- BUILDABLE SUNFLOWER DISPLAY – With this LEGO Botanicals Sunflowers set, kids aged 8+ and flower lovers can create their own colourful faux flower display
 - EXPAND YOUR FLOWER DISPLAY – This artificial flowers set can be combined with LEGO Roses (40460) to add an extra splash of colour to the bouquet
 
 [🛒 Check the deal!!]({{< param buyurl >}})

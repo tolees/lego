@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MÁS AVENTURAS NINJA: Descubre otros juguetes LEGO NINJAGO (sets a la venta por separado) con detallados mecas, templos y vehículos inspirados en la popular serie para televisión
-- IDEA DE REGALO PARA FANS: Estas feroces figuras de dragón y monstruo proporcionan una divertida experiencia de construcción y horas de juego a los niños y niñas a partir de 7 años
-- ARMAS NINJA: Cada personaje está equipado con armas para las batallas; Kai tiene garras, alas de dragón y cola de dragón; Nya, una espada dorada de juguete y Zilvar,una espada plateada y portaespadas
 - MONSTRUO DE JUGUETE: Con el set LEGO NINJAGO Zilvar y Bestia Dragón Grimtak los niños y niñas a partir de 7 años recrean trepidantes escenas de la temporada 4 de la serie NINJAGO: El renacer de los dragones
-- FIGURA ARTICULADA DE UN DRAGÓN: Interpreta épicas batallas de aventura y fantasía con este aterrador monstruo que posee colmillos, tiene patas y garras móviles y lleva una montura en el lomo para Zilvar
+- IDEA DE REGALO PARA FANS: Estas feroces figuras de dragón y monstruo proporcionan una divertida experiencia de construcción y horas de juego a los niños y niñas a partir de 7 años
+- MÁS AVENTURAS NINJA: Descubre otros juguetes LEGO NINJAGO (sets a la venta por separado) con detallados mecas, templos y vehículos inspirados en la popular serie para televisión
 - 3 MINIFIGURAS NINJAGO: Los peques podrán interpretar aventuras del bien contra el mal con las minifiguras de Nya, Zilvar y Kai Forma Dragón mediante el juego de rol
+- ARMAS NINJA: Cada personaje está equipado con armas para las batallas; Kai tiene garras, alas de dragón y cola de dragón; Nya, una espada dorada de juguete y Zilvar,una espada plateada y portaespadas
+- FIGURA ARTICULADA DE UN DRAGÓN: Interpreta épicas batallas de aventura y fantasía con este aterrador monstruo que posee colmillos, tiene patas y garras móviles y lleva una montura en el lomo para Zilvar
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDVDFR{{</world>}}

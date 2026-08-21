@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MAQUETTE AVEC FONCTIONNALITÉS EXPLOSIVES – Coupez des arbres pour bloquer l’entrée de l’abri, puis préparez-vous à l’action lorsque la fonction explosion le fait voler en éclats
-- JOUET INTERACTIF MINECRAFT POUR GARÇON OU FILLE DÈS 8 ANS – Embarquez pour L’aventure de la première nuit LEGO Minecraft invitant les joueurs.ses à extraire des ressources pour construire un abri tout en repoussant les créatures hostiles
-- MINECRAFT DANS LA VIE RÉELLE – Les joueurs.ses peuvent créer et personnaliser des décors du célèbre jeu, puis réagencer, recréer et réinventer la maquette au fil du jeu
-- 7 FIGURINES EN BRIQUES POUR LE JEU CRÉATIF – Rejouez des scènes culte du jeu vidéo dans le biome de la forêt de bouleaux et de la taïga enneigée avec Alex, un squelette, un Creeper, un loup des bois, un cochon froid, un lapin albinos et une abeille
-- ENCORE PLUS DE POSSIBILITÉS DE JEU – Explorez la gamme complète de kits de construction (vendus séparément) pour placer l’action palpitante du jeu vidéo entre les mains des enfants
 - CADEAU POUR GAMERS – Ce set est un beau cadeau danniversaire à offrir à un garçon ou une fille dès 8 ans qui aime le jeu vidéo Minecraft et les loisirs créatifs
+- ENCORE PLUS DE POSSIBILITÉS DE JEU – Explorez la gamme complète de kits de construction (vendus séparément) pour placer l’action palpitante du jeu vidéo entre les mains des enfants
+- 7 FIGURINES EN BRIQUES POUR LE JEU CRÉATIF – Rejouez des scènes culte du jeu vidéo dans le biome de la forêt de bouleaux et de la taïga enneigée avec Alex, un squelette, un Creeper, un loup des bois, un cochon froid, un lapin albinos et une abeille
 - DÉCORATION GAMING – Profitez daccessoires réalistes, comme la pelle d’Alex, un établi, des torches, un coffre avec des graines, un os et des cerises
+- MAQUETTE AVEC FONCTIONNALITÉS EXPLOSIVES – Coupez des arbres pour bloquer l’entrée de l’abri, puis préparez-vous à l’action lorsque la fonction explosion le fait voler en éclats
+- MINECRAFT DANS LA VIE RÉELLE – Les joueurs.ses peuvent créer et personnaliser des décors du célèbre jeu, puis réagencer, recréer et réinventer la maquette au fil du jeu
+- JOUET INTERACTIF MINECRAFT POUR GARÇON OU FILLE DÈS 8 ANS – Embarquez pour L’aventure de la première nuit LEGO Minecraft invitant les joueurs.ses à extraire des ressources pour construire un abri tout en repoussant les créatures hostiles
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXHJ4ZZ{{</world>}}

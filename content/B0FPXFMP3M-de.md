@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- STAR WARS SPIELZEUG: Mit LEGO Star Wars Grogu (Lehrling des Mandalorianers) erschaffen Jungen und Mädchen ab 10 Jahren eine beeindruckende Figur aus Star Wars: The Mandalorian and Grogu
 - STAR WARS GESCHENK FÜR KINDER: Dieses Spielset ist ein fantastisches Geschenk für Jungen, Mädchen und Fans von Star Wars: The Mandalorian and Grogu ab 10 Jahren
 - 3D PUZZLE MIT AUTHENTISCHEN DETAILS: Bilde Grogus Look mit der Beskar-Rüstung nach, baue seinen Beutel mit einem blauen Keks und steck ihm einen Keks in der Hand
-- 3D-BAUANLEITUNGEN: Entdecke ein interaktives Bauerlebnis mit der LEGO Builder App, in der du dein 3D-Modell drehen, vergrößern, speichern und deinen Baufortschritt jederzeit verfolgen kannst
-- ENTDECKE DAS GANZE SORTIMENT: Finde weitere separat erhältliche LEGO Star Wars Sets zu The Mandalorian and Grogu, um epische Szenen nachzuspielen oder eigene Abenteuer zu erfinden
-- ORIGINELLE LEGO DEKO: Stell das baubare Hauptmodell gemeinsam mit der Grogu-Infotafel und der LEGO Star Wars Figur Grogu in Standardgröße aus und schaffe so eine magische Dekoration für jedes Zimmer
+- STAR WARS SPIELZEUG: Mit LEGO Star Wars Grogu (Lehrling des Mandalorianers) erschaffen Jungen und Mädchen ab 10 Jahren eine beeindruckende Figur aus Star Wars: The Mandalorian and Grogu
 - BEWEGLICHE LEGO FIGUR: Dreh Grogus Kopf mithilfe des Hebels, bewege Mund, Ohren, Hände und Finger und befestige die Arme anders, um die Figur in viele typische Posen zu bringen
+- ORIGINELLE LEGO DEKO: Stell das baubare Hauptmodell gemeinsam mit der Grogu-Infotafel und der LEGO Star Wars Figur Grogu in Standardgröße aus und schaffe so eine magische Dekoration für jedes Zimmer
+- ENTDECKE DAS GANZE SORTIMENT: Finde weitere separat erhältliche LEGO Star Wars Sets zu The Mandalorian and Grogu, um epische Szenen nachzuspielen oder eigene Abenteuer zu erfinden
+- 3D-BAUANLEITUNGEN: Entdecke ein interaktives Bauerlebnis mit der LEGO Builder App, in der du dein 3D-Modell drehen, vergrößern, speichern und deinen Baufortschritt jederzeit verfolgen kannst
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFMP3M{{</world>}}

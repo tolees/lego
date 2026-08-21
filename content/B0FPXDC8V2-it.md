@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - MODELLO DI AUTO LEGO F1 PER ADULTI: celebra una leggenda della pista con il set LEGO Icons Ferrari F2004 e Michael Schumacher (11375), un kit di costruzioni per i fan adulti e per i collezionisti
-- KIT DI MODELLISMO CON MACCHINA LEGO: include una replica dettagliata della Ferrari F2004, la minifigure LEGO di Michael Schumacher, un espositore, un espositore-podio, un casco da pilota e un trofeo
-- CARATTERISTICHE E FUNZIONI: il modellino di Formula 1 LEGO è dotato di sterzo funzionante, cockpit e motore V10 dettagliati, e pneumatici slick scanalati con scritta Bridgestone Potenza stampata
-- ISTRUZIONI PER LA COSTRUZIONE 3D: ottieni il massimo da questo kit con l’app LEGO Builder, con cui puoi visualizzare il modello in 3D, seguire i progressi fatti ed esplorare altri set
 - DECORAZIONE PER CASA O PER LUFFICIO: include un supporto per l’auto da corsa con statistiche della Ferrari F1, un podio da esposizione per la minifigure con unimmagine, e una citazione di Michael Schumacher
+- KIT DI MODELLISMO CON MACCHINA LEGO: include una replica dettagliata della Ferrari F2004, la minifigure LEGO di Michael Schumacher, un espositore, un espositore-podio, un casco da pilota e un trofeo
+- ISTRUZIONI PER LA COSTRUZIONE 3D: ottieni il massimo da questo kit con l’app LEGO Builder, con cui puoi visualizzare il modello in 3D, seguire i progressi fatti ed esplorare altri set
+- CARATTERISTICHE E FUNZIONI: il modellino di Formula 1 LEGO è dotato di sterzo funzionante, cockpit e motore V10 dettagliati, e pneumatici slick scanalati con scritta Bridgestone Potenza stampata
 - REGALO CREATIVO PER I FAN: questo set LEGO da collezione è unottima idea regalo per un uomo o una donna amanti delle gare di Formula 1, con cui festeggiare un compleanno o un’occasione speciale
 
 [🛒 Buy it!!]({{< param buyurl >}})

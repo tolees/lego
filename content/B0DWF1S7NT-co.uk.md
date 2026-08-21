@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Authentic Porsche details – The LEGO toy car features the real-life vehicle’s iconic silhouette, including the rear wing, air intake features on the bonnet and novelty alloy wheels
+- Porsche model built with LEGO bricks – After playing out racing action with the buildable Porsche toy car, kids can proudly display it on a shelf or bedside table
 - Bigger racing adventures – Explore more LEGO Speed Champions car playsets (sold separately), packed with authentic details for fans of LEGO vehicles
 - 1 LEGO minifigure – The race car toy building set includes a Porsche driver minifigure with a helmet for kids to place behind the wheel and stage races
 - Iconic vehicles for play and display – LEGO Speed Champions car building sets let fans build replica versions of some of the world’s most famous vehicles
-- Birthday gift for kids – This Porsche 911 car model kit provides a fun build-and-play experience and makes a great LEGO gift for 9+ year old boys and girls, as well as adult car-model collectors
-- Porsche model built with LEGO bricks – After playing out racing action with the buildable Porsche toy car, kids can proudly display it on a shelf or bedside table
 - Porsche toy car for kids – LEGO Speed Champions Porsche 911 GT3 RS Super Car model kit is a fun building toy for 9+ year old boys and girls and Porsche fans
+- Authentic Porsche details – The LEGO toy car features the real-life vehicle’s iconic silhouette, including the rear wing, air intake features on the bonnet and novelty alloy wheels
+- Birthday gift for kids – This Porsche 911 car model kit provides a fun build-and-play experience and makes a great LEGO gift for 9+ year old boys and girls, as well as adult car-model collectors
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWF1S7NT{{</world>}}

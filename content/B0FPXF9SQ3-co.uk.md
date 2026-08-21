@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Vini Jr. – Football Highlights Toy - 3D Display Model Kit w/Collectible Minifigure - Kids Room Decor - Gift for 10+ Year Old Boys Girls & Adult Sports Fans - 43027'
-date: 2026-08-19 16:47:32
+date: 2026-08-20 21:39:43
 image: 'https://m.media-amazon.com/images/I/51Rs0-ifQGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXF9SQ3/?tag=tolees0a-21'
 descuento: '35.01'
-average: '16.4483333333333'
+average: '16.4185714285714'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - FOOTBALL MODEL KIT FOR KIDS – Celebrate a Brazilian football star with the LEGO Editions Vini Jr. – Football Highlights building toy for 10+ year old boys, girls and sports fans
 - COLLECTIBLE FOOTBALL DECOR – Once the built, the set becomes a piece of shelf or desk decor that fans can display on its own or alongside other LEGO Editions Football Highlights sets, sold separately
-- BUILDABLE FOOTBALL MERCHANDISE – The base forms Vini’s initial and features the colours of the Brazilian team and his shirt number, plus a collectible plaque displaying his signature and player stats
 - LEGO EDITIONS – Show your love for more legendary sports stars with other sets in the collection, like 43012 Cristiano Ronaldo – Football Highlights (sold separately)
 - A HELPING HAND – Budding football stars can access instructions digitally in the LEGO Builder app, where they can track progress and rotate their football model in 3D
 - LEGO FOOTBALL PLAYER MINIFIGURE – A Vini Jr. minifigure brings the 3D display model to life and is depicted in his signature goal scoring pose
+- BUILDABLE FOOTBALL MERCHANDISE – The base forms Vini’s initial and features the colours of the Brazilian team and his shirt number, plus a collectible plaque displaying his signature and player stats
 - GIFT FOR SPORTS LOVERS – This DIY LEGO football set makes a great gift idea for 10+ year old boys, girls and teenage fans on birthdays or any other special occasions
 
 [🛒 Check the deal!!]({{< param buyurl >}})

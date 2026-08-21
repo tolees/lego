@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Porsche 911 GT3 R Rexy AO Racing Rennwagen - Porsche Modellauto - Rennwagen zum Sammeln und Ausstellen - Porsche Modell Bauset ab 11 Jahren - Geschenk für Kinder & Autofans - 42224'
-date: 2026-06-08 19:33:21
+date: 2026-08-21 09:59:36
 image: 'https://m.media-amazon.com/images/I/51xmNz5Lp0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXFZXC2-de LEGO Technic Porsche 911 GT3 R Rexy AO Racing Rennwagen -...'
 sku: 'B0FPXFZXC2-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 104.99 EUR
+actualPrice: 92.99 EUR
 currency: EUR
-price: 104.99
+price: 92.99
 comparePrice: 139.99 EUR
 prodname: 'LEGO Technic Porsche 911 GT3 R Rexy AO Racing Rennwagen - Porsche Modellauto - Rennwagen zum Sammeln und Ausstellen - Porsche Modell Bauset ab 11 Jahren - Geschenk für Kinder & Autofans - 42224'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFZXC2/?tag=tolees0ca-21'
-descuento: '25.00'
-average: '104.52'
+descuento: '33.57'
+average: '103.07875'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DIGITALE HILFE BEIM MODELLBAU: Mit der LEGO Builder App erleben Kinder ein modernes Bauerlebnis, verfolgen den Fortschritt und betrachten das LEGO Fahrzeug in interaktiven 3D-Ansichten
-- SPIELZEUG FÜR MODELLBAU FANS: Kinder setzen das Porsche Modell aus vielen Teilen zusammen, erleben dabei echtes Konstruktionsspielzeug und erwecken den Flitzer danach im Spiel zum Leben
-- TECHNIK, DIE BEGEISTERT: Das LEGO Technic Porsche Modell punktet mit funktionierender Lenkung, Einzelradaufhängung, Air Jacks und einem realistischen Sechszylinder-Boxermotor
-- GESCHENKIDEE FÜR KINDER: Der LEGO Porsche eignet sich wunderbar als Geschenk für Jungen und Mädchen ab 11 Jahren, die schnelle Fahrzeuge und detailreiche Techniksets lieben
 - AUFFÄLLIGES DINO-DESIGN MIT WIEDERERKENNUNGSWERT: Der T.Rex-Look des LEGO Technic Porsche 911 GT3 R begeistert Motorsportfans und macht dieses Porsche Modell zum originellen Geschenk für Autofans
+- GESCHENKIDEE FÜR KINDER: Der LEGO Porsche eignet sich wunderbar als Geschenk für Jungen und Mädchen ab 11 Jahren, die schnelle Fahrzeuge und detailreiche Techniksets lieben
+- SPIELZEUG FÜR MODELLBAU FANS: Kinder setzen das Porsche Modell aus vielen Teilen zusammen, erleben dabei echtes Konstruktionsspielzeug und erwecken den Flitzer danach im Spiel zum Leben
+- DIGITALE HILFE BEIM MODELLBAU: Mit der LEGO Builder App erleben Kinder ein modernes Bauerlebnis, verfolgen den Fortschritt und betrachten das LEGO Fahrzeug in interaktiven 3D-Ansichten
 - ENTDECKE REALISTISCHE LEGO FAHRZEUGE: Die separat erhältlichen LEGO Technic Autos bieten vielfältigen Bauspaß für Jungen und Mädchen, die komplexe Technik gern spielerisch erkunden
+- TECHNIK, DIE BEGEISTERT: Das LEGO Technic Porsche Modell punktet mit funktionierender Lenkung, Einzelradaufhängung, Air Jacks und einem realistischen Sechszylinder-Boxermotor
 - AUFBAU- UND SPIELSPASS FÜR KINDER AB 11 JAHREN: Mit dem LEGO Technic Porsche Rennwagen entsteht ein detailliertes Porsche Modellauto, das nach dem Aufbau Rennen gewinnt oder stolz ausgestellt wird
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ACCESORIOS: Bandera pirata, estandartes y lámparas, armas para la transformación de Wapol, laboratorio para Chopper, menaje de cocina para preparar comida y 4 expedientes secretos por descubrir
-- CASTILLO DE JUGUETE: Lidera la victoria en la emocionante Batalla en el Castillo de Drum LEGO ONE PIECE, basado en la serie de acción real de Netflix, para niños y niñas de 9 años en adelante
-- 6 MINIFIGURAS: La fortaleza de varios niveles está llena de conocidos personajes como Monkey D. Luffy, Nami, Sanji, Vivi, Tony Tony Chopper y el tiránico Rey Wapol, cuyo cuerpo se transforma en armas
-- JUEGO DE ROL: Abre los muros para descubrir la primera planta con una chimenea en forma de hipopótamo; la segunda, con el laboratorio de Chopper y la cama de Nami; y la sala del trono en la tercera
 - UNA DIVERTIDA FORMA DE CREAR: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción en la que podrán acercar y girar sus modelos siguiendo instrucciones 3D, consultar su progreso y guardar sets
+- 6 MINIFIGURAS: La fortaleza de varios niveles está llena de conocidos personajes como Monkey D. Luffy, Nami, Sanji, Vivi, Tony Tony Chopper y el tiránico Rey Wapol, cuyo cuerpo se transforma en armas
+- ACCESORIOS: Bandera pirata, estandartes y lámparas, armas para la transformación de Wapol, laboratorio para Chopper, menaje de cocina para preparar comida y 4 expedientes secretos por descubrir
+- JUEGO DE ROL: Abre los muros para descubrir la primera planta con una chimenea en forma de hipopótamo; la segunda, con el laboratorio de Chopper y la cama de Nami; y la sala del trono en la tercera
 - REGALO ONE PIECE PARA NIÑOS: Esta maqueta de castillo inspirado en la Banda del Sombrero de Paja para niños y niñas a partir de 9 años es un merchandising óptimo como regalo para fans de la serie
+- CASTILLO DE JUGUETE: Lidera la victoria en la emocionante Batalla en el Castillo de Drum LEGO ONE PIECE, basado en la serie de acción real de Netflix, para niños y niñas de 9 años en adelante
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0GGSZZ69C{{</world>}}

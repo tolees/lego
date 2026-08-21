@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Wednesday Schwarze Dahlie Spielzeug - Spielset zum Bauen und Ausstellen mit 2 Minifiguren & Zubehör - Modellbau - Kinder Geschenk für Mädchen Jungen & Fans der TV-Serie ab 9 Jahren - 76784'
-date: 2026-08-03 08:10:23
+date: 2026-08-20 10:04:24
 image: 'https://m.media-amazon.com/images/I/51dC1K+s2KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DWDWWLZT-de LEGO Wednesday Schwarze Dahlie Spielzeug - Spielset zum...'
 sku: 'B0DWDWWLZT-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 17.48 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 17.48
+price: 14.99
 comparePrice: 24.99 EUR
 prodname: 'LEGO Wednesday Schwarze Dahlie Spielzeug - Spielset zum Bauen und Ausstellen mit 2 Minifiguren & Zubehör - Modellbau - Kinder Geschenk für Mädchen Jungen & Fans der TV-Serie ab 9 Jahren - 76784'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDWWLZT/?tag=tolees0ca-21'
-descuento: '30.05'
-average: '17.4733333333334'
+descuento: '40.02'
+average: '17.1185714285715'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO Figuren Set: Das spektakuläre Modellbau Set zum Sammeln und Ausstellen lässt Kinder kreativ spielen; das Kinder Bauset fördert die Fantasie und macht vor allem mit Freunden Spaß
 - LEGO Spielzeug zum Bauen: Überrasche Wednesday Fans mit einem detailreichen Modellbau mit Spielfiguren zum Spielen, Sammeln und Ausstellen; das Modellbau Set lädt zu Detektivgeschichten ein
 - Kinder Geschenk für Fans: Das LEGO Spielset ist ein beliebtes Geschenk für Mädchen und Jungen zum Geburtstag; auch für Fans von Wednesday Addams und der gleichnamigen TV-Serie
+- LEGO Figuren Set: Das spektakuläre Modellbau Set zum Sammeln und Ausstellen lässt Kinder kreativ spielen; das Kinder Bauset fördert die Fantasie und macht vor allem mit Freunden Spaß
 - LEGO Wednesday Sets lassen Fans Erzählkünste und Kreativität entwickeln; die Bausets können mit weiteren Wednesday Spielzeugen kombiniert werden für noch mehr Spielspaß
 - Lade dir die LEGO Builder App herunter und freu dich auf ein interaktives Bauerlebnis, der Fortschritt der Baumodelle kann so ganz einfach nachverfolgt werden
 - Zwei Minifiguren für jede Menge Spaß: Die LEGO Figuren Wednesday Addams und ihre Botaniklehrerin Thornhill laden zum Spielen ein; erfinde kreative Rollenspiele im Wintergarten

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- COLLECTIBLE SETS – LEGO Star Wars kits (sold separately) enable kids and adult fans to replay classic scenes, create new stories or simply display the brick-built models
+- STAR WARS SPEEDER BIKE – Spark kids’ imaginations to recreate The Mandalorian Season 1 adventures with LEGO Star Wars The Mandalorian & Grogus Speeder Bike toy for 6+ year old boys and girls
 - STAR WARS GIFT FOR 6+ YEAR OLD BOYS AND GIRLS – This small building toy makes a cool gift for boys, girls and any LEGO Star Wars fan aged 6 years old and up
 - 2 LEGO STAR WARS MINIFIGURES – Role-play thrilling rides with a Grogu figure & The Mandalorian minifigure, equipped with a blaster pistol that converts into a blaster rifle
+- COLLECTIBLE SETS – LEGO Star Wars kits (sold separately) enable kids and adult fans to replay classic scenes, create new stories or simply display the brick-built models
 - HOURS OF ACTION PACKED PLAY – This speeder bike is designed to be a quick & easy build so the action starts fast for young Star Wars fans
-- STAR WARS SPEEDER BIKE – Spark kids’ imaginations to recreate The Mandalorian Season 1 adventures with LEGO Star Wars The Mandalorian & Grogus Speeder Bike toy for 6+ year old boys and girls
 - AUTHENTIC DETAILS – Attach the Mandalorian’s blaster rifle to the back of the speeder bike, and place him in the driver’s seat with Grogu alongside in the attached satchel
 - DIGITAL BUILDING INSTRUCTIONS – The LEGO Builder app guides your child on a building adventure that lets them zoom in and rotate sets using 3D instructions, as well as save and track their progress
 

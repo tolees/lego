@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Extend the fun – Dinosaur fans can add this detailed playset to other LEGO sets (sold separately), including those in the LEGO Jurassic World series
-- Little Eatie dinosaur – Features a buildable T. rex figure from the Jurassic World: Camp Cretaceous animated TV show, plus a brick-built steak
 - Dinosaur gift for kids – This T. rex Jurassic World building toy is a fun birthday gift for 7+ year old boys and girls who deserve a treat
 - T. rex dinosaur toy – The LEGO Jurassic World Little Eatie: T. rex dinosaur toy for 7+ year old boys and girls features fun play-and-display options
+- Little Eatie dinosaur – Features a buildable T. rex figure from the Jurassic World: Camp Cretaceous animated TV show, plus a brick-built steak
+- Extend the fun – Dinosaur fans can add this detailed playset to other LEGO sets (sold separately), including those in the LEGO Jurassic World series
 - Posable LEGO dinosaur – Great for display, the Jurassic World dino toy has opening jaws, a movable head and tail, and articulated arms and legs
 
 [🛒 Check the deal!!]({{< param buyurl >}})

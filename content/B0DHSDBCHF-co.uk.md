@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars ARC-170 Starfighter Building Toy with 3 Clone Pilot Minifigures plus an R4-P44 Droid Figure Birthday Gift Idea for Revenge of The Sith Fans 9+ Year Old Boys and Girls 75402'
-date: 2026-04-04 11:59:36
+date: 2026-08-20 08:33:01
 image: 'https://m.media-amazon.com/images/I/51Usp6za4eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DHSDBCHF-co.uk LEGO Star Wars ARC-170 Starfighter Building Toy with 3...'
 sku: 'B0DHSDBCHF-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 44.99 GBP
+actualPrice: 45.0 GBP
 currency: GBP
-price: 44.99
+price: 45.0
 comparePrice: 59.99 GBP
 prodname: 'LEGO Star Wars ARC-170 Starfighter Building Toy with 3 Clone Pilot Minifigures plus an R4-P44 Droid Figure Birthday Gift Idea for Revenge of The Sith Fans 9+ Year Old Boys and Girls 75402'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DHSDBCHF/?tag=tolees0a-21'
-descuento: '25.00'
-average: '44.99'
+descuento: '24.99'
+average: '44.992'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO brick-built starfighter – 3 opening cockpits, space for R4-P44, 6 wings, 4 lever-operated adjustable wings, and 2 spring-loaded shooters
-- Star Wars buildable toys for 9+ year old boys and girls – This LEGO Star Wars playset with 4 characters lets kids engage in imaginative action play
-- Collectible building toys – LEGO Star Wars sets (sold separately) enable kids and adult Star Wars fans to relive iconic scenes or display the buildable models
-- LEGO Star Wars playset for 9+ year old kids – This LEGO model of ARC-170 Starfighter lets kids play out epic Star Wars: Revenge of the Sith stories
 - Star Wars gifts for kids – This LEGO Star Wars buildable toy makes a fun birthday gift for 9+ year old boys and girls, fans of Star Wars: Revenge of the Sith
+- Collectible building toys – LEGO Star Wars sets (sold separately) enable kids and adult Star Wars fans to relive iconic scenes or display the buildable models
+- Star Wars buildable toys for 9+ year old boys and girls – This LEGO Star Wars playset with 4 characters lets kids engage in imaginative action play
+- LEGO Star Wars playset for 9+ year old kids – This LEGO model of ARC-170 Starfighter lets kids play out epic Star Wars: Revenge of the Sith stories
 - A fun way to build – The LEGO Builder app guides kids on an intuitive adventure, letting them rotate a 3D digital version of models while building
+- LEGO brick-built starfighter – 3 opening cockpits, space for R4-P44, 6 wings, 4 lever-operated adjustable wings, and 2 spring-loaded shooters
 - 4 LEGO Star Wars characters – Includes Odd Ball and Jag Clone Pilots LEGO Star Wars minifigures with blaster pistols, plus R4-P44 LEGO droid figure
 
 [🛒 Check the deal!!]({{< param buyurl >}})

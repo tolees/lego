@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 PERSONAGGI LEGO STAR WARS: posiziona Grogu e i 2 Anzellani nella cabina di pilotaggio del veicolo giocattolo oppure nello scomparto principale dell’astronave
-- PROGETTATO PER IL GIOCO CREATIVO: solleva il tetto dellastronave LEGO per accedere allo scomparto principale, e porta il banco di lavoro fuori dal veicolo per riparare i droidi facilmente
 - REGALO STAR WARS: un giocattolo LEGO ottimo come idea regalo di compleanno per bambini e bambine appassionati di modellini da costruire, e per tutti i fan della saga
 - ASTRONAVE GIOCATTOLO COSTRUIBILE: il gioco di ruolo per bambini e bambine da 9 anni in su LEGO Star Wars Astronave Anzellan permette di dar vita alle scene di Star Wars: Il Mandaloriano e Grogu
 - APP DIGITALE: l’app LEGO Builder è una comoda guida per il montaggio del set, con strumenti per ingrandire e per ruotare il modello in 3D, e per salvare i progressi fatti durante il montaggio
 - CARATTERISTICHE DIVERTENTI: abbassa la rampa, costruisci o ripara i Battle Droid con le parti e gli attrezzi nell’area dell’officina, metti un Anzellano al tavolo per mangiare un biscotto, e altro ancora
+- 3 PERSONAGGI LEGO STAR WARS: posiziona Grogu e i 2 Anzellani nella cabina di pilotaggio del veicolo giocattolo oppure nello scomparto principale dell’astronave
+- PROGETTATO PER IL GIOCO CREATIVO: solleva il tetto dellastronave LEGO per accedere allo scomparto principale, e porta il banco di lavoro fuori dal veicolo per riparare i droidi facilmente
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXBTTHZ{{</world>}}

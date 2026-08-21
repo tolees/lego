@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - REMOTE CONTROL TRAIN SET – Comes with an oval train track and a motorised police locomotive that can be controlled via the included remote or a smart device with the Powered Up app
-- WHAT’S IN THE BOX? – This toy train set includes all kids need to build a Powered Up locomotive, 3 flat wagons, a rally car toy, helicopter, prison cell, bank safe and railroad crossing
-- BIRTHDAY GIFT FOR KIDS AND COLLECTORS – This police train playset makes a fun birthday gift for 7+ year old boys, girls and adult LEGO collectors who love police toys and toy model train sets
-- MORE LEGO CITY SETS TO DISCOVER – Unleash more fun and adventures when you add this kids’ train set to other building toys (sold separately) from the LEGO City range
-- A HELPING HAND – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
-- FUN FEATURES FOR ROLE PLAY – Functions include a crook’s helicopter toy with a grabbing claw for heisting the bank safe, rally car and prison cell from the police train model
 - POLICE TOY TRAIN SET – The LEGO City Police Train Heist model kit features a motorised train toy for 7+ year old boys and girls, plus a helicopter, rally car, circular track and 6 minifigures
+- MORE LEGO CITY SETS TO DISCOVER – Unleash more fun and adventures when you add this kids’ train set to other building toys (sold separately) from the LEGO City range
+- WHAT’S IN THE BOX? – This toy train set includes all kids need to build a Powered Up locomotive, 3 flat wagons, a rally car toy, helicopter, prison cell, bank safe and railroad crossing
+- FUN FEATURES FOR ROLE PLAY – Functions include a crook’s helicopter toy with a grabbing claw for heisting the bank safe, rally car and prison cell from the police train model
+- BIRTHDAY GIFT FOR KIDS AND COLLECTORS – This police train playset makes a fun birthday gift for 7+ year old boys, girls and adult LEGO collectors who love police toys and toy model train sets
+- A HELPING HAND – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFQZFJ{{</world>}}

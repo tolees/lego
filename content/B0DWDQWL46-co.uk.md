@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Friends Travel Boat Adventure Set - incl. a Boat Toy with a Spinning Sail 4 Mini Dolls & 2 Dolphin Figures plus Fun Accessories - Creative Birthday Gift for 8+ Year Old Girls - 42664'
-date: 2026-05-13 07:43:32
+title: 'LEGO Friends Travel Adventure Set - incl. a Toy with a Spinning Sail 4 Mini Dolls & 2 Dolphin Figures Accessories - Creative Birthday Gift for 8+ Year Old Girls - 42664'
+date: 2026-08-21 07:54:59
 image: 'https://m.media-amazon.com/images/I/51xXtzmmSHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDQWL46-co.uk LEGO Friends Travel Boat Adventure Set - incl. a Boat...'
+slug: 'B0DWDQWL46-co.uk LEGO Friends Travel Adventure Set - incl. a Toy with a...'
 sku: 'B0DWDQWL46-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 48.99 GBP
+actualPrice: 57.26 GBP
 currency: GBP
-price: 48.99
+price: 57.26
 comparePrice: 69.99 GBP
-prodname: 'LEGO Friends Travel Boat Adventure Set - incl. a Boat Toy with a Spinning Sail 4 Mini Dolls & 2 Dolphin Figures plus Fun Accessories - Creative Birthday Gift for 8+ Year Old Girls - 42664'
+prodname: 'LEGO Friends Travel Adventure Set - incl. a Toy with a Spinning Sail 4 Mini Dolls & 2 Dolphin Figures Accessories - Creative Birthday Gift for 8+ Year Old Girls - 42664'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DWDQWL46/?tag=tolees0a-21'
-descuento: '30.00'
-average: '45.865'
+descuento: '18.19'
+average: '46.8044444444445'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- A gift for kids who love creative toys – This LEGO Friends set makes a great birthday gift for 8+ year old girls and boys who enjoy storytelling, imaginative play and building with LEGO bricks
 - 4 mini dolls and 2 dolphin toys – Includes Paisley, Zac, Celine and Sky LEGO Friends mini dolls, plus dolphin and baby dolphin animal figures for fun friendship adventures and storytelling
 - A building set packed with stories – This LEGO Friends Travel Boat Adventure toy for 8+ year old girls and boys features a toy boat, 4 mini dolls, 2 dolphins and cool accessories
-- Adventure playset with accessories – Comes with 2 water scooters, a surfboard, flippers, life jackets, food and drinks, a floatie and more to inspire pretend-play
-- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know the characters of Heartlake City
 - Detailed interior for creative play – Kids can lift off the top of the boat toy to reveal a dining area, kitchenette, gaming zone with a screen and controllers, plus two stalls with a shower and bathroom
+- A gift for kids who love creative toys – This LEGO Friends set makes a great birthday gift for 8+ year old girls and boys who enjoy storytelling, imaginative play and building with LEGO bricks
+- Online series – Inspire more storytelling fun with other LEGO Friends building sets (sold separately) and the LEGO Friends: The Next Chapter online series, where kids can get to know the characters of Heartlake City
+- Adventure playset with accessories – Comes with 2 water scooters, a surfboard, flippers, life jackets, food and drinks, a floatie and more to inspire pretend-play
 - LEGO boat to build – Includes a top deck with a steering wheel and beds, two lounge chairs with drinks at the front, a hot tub with a floatie at the back, and a removable roof for interior play
 
 [🛒 Buy it!!]({{< param buyurl >}})

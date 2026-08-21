@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Restaurante Hamburrrguesa - Juguete de Construcción con Minifiguras de Bombardera Playera Caudillo Cárnico Esqueleto y Parco - Regalo Gamer para Niños y Niñas de 10+ Años 77076'
-date: 2026-08-10 11:18:15
+date: 2026-08-20 16:39:35
 image: 'https://m.media-amazon.com/images/I/51c98CrqSML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DWDY53FC-es LEGO Fortnite Restaurante Hamburrrguesa - Juguete de...'
 sku: 'B0DWDY53FC-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 35.95 EUR
+actualPrice: 35.91 EUR
 currency: EUR
-price: 35.95
+price: 35.91
 comparePrice: 59.99 EUR
 prodname: 'LEGO Fortnite Restaurante Hamburrrguesa - Juguete de Construcción con Minifiguras de Bombardera Playera Caudillo Cárnico Esqueleto y Parco - Regalo Gamer para Niños y Niñas de 10+ Años 77076'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDY53FC/?tag=tolees-21'
-descuento: '40.07'
-average: '40.0266666666667'
+descuento: '40.14'
+average: '39.81'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- App LEGO Builder: Las instrucciones de este set están disponibles en la app LEGO Builder, que permite a los constructores acercar y girar versiones digitales de los modelos, además de consultar su progreso
 - Edificio Modular: Incluye una caja registradora, un puesto de salsas, una máquina de refrescos, el rótulo del restaurante y el menú de ventanilla de pedidos, así como una planta de guindillas y fertilizante
+- Descubre LEGO Fortnite: Desbloquea nuevos niveles de creatividad con nuestra colección de sets de construcción LEGO Fortnite (a la venta por separado) y traslada la aventura del videojuego a la realidad
 - Objeto de bonificación: Escaneando el código QR de las instrucciones, los constructores canjean la bonificación y consiguen un traje de Caudillo cárnico para sus partidas del videojuego LEGO Fortnite
 - 4 minifiguras LEGO: Las minifiguras de Bombardera playera, Caudillo cárnico, Parco y un esqueleto dan vida a la acción y fomentan el juego de roles imaginativo
-- Restaurante Hamburrrguesa: Alimenta la imaginación de tu peque con el juguete LEGO Fortnite Restaurante Hamburrrguesa para niños y niñas a partir de 10 años, idóneo como decoración de la estantería
-- App LEGO Builder: Las instrucciones de este set están disponibles en la app LEGO Builder, que permite a los constructores acercar y girar versiones digitales de los modelos, además de consultar su progreso
 - Regalo para niños y niñas de 10 años o más: Este kit de maquetas LEGO Fortnite es un regalo sensacional para gamers, pequeños chefs y fans de LEGO Fortnite de todas las edades
-- Descubre LEGO Fortnite: Desbloquea nuevos niveles de creatividad con nuestra colección de sets de construcción LEGO Fortnite (a la venta por separado) y traslada la aventura del videojuego a la realidad
+- Restaurante Hamburrrguesa: Alimenta la imaginación de tu peque con el juguete LEGO Fortnite Restaurante Hamburrrguesa para niños y niñas a partir de 10 años, idóneo como decoración de la estantería
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DWDY53FC{{</world>}}

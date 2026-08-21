@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Construye como nunca con LEGO Builder, una app que permite a los usuarios acercar y girar su modelo siguiendo instrucciones de construcción 3D, consultar su progreso y guardar sus sets
 - SETS DE CONSTRUCCIÓN PARA ADULTOS: La gama de sets LEGO para adultos está diseñada para inspirar a los constructores adultos con proyectos gratificantes e inmersivos
-- DECORACIÓN PARA LA ESTANTERÍA: Retira una pista de aterrizaje para acceder al detallado interior, destapa el motor para revelar las llamas y coloca un Quinjet suspendido en el aire usando una varilla
-- REGALO PARA FANS: Este desafiante y gratificante kit de construcción es una óptima idea de regalo de cumpleaños para hombres y mujeres fans de los superhéroes y amantes de los proyectos LEGO Marvel
-- KIT DE CONSTRUCCIÓN DE MARVEL PARA ADULTOS: Reproduce el esplendor del portaaviones de que aparece en la película Vengadores (2012) con el kit de maquetas LEGO | Marvel Helitransporte de S.H.I.E.L.D.
 - 6 MINIFIGURAS DE SUPERHÉROES LEGO MARVEL: Recrea las aventuras de los Vengadores con las figuras incluidas del Soldado de Invierno, Capitán América, Phil Coulson, María Hill, Ojo de Halcón y Nick Furia
+- REGALO PARA FANS: Este desafiante y gratificante kit de construcción es una óptima idea de regalo de cumpleaños para hombres y mujeres fans de los superhéroes y amantes de los proyectos LEGO Marvel
+- DECORACIÓN PARA LA ESTANTERÍA: Retira una pista de aterrizaje para acceder al detallado interior, destapa el motor para revelar las llamas y coloca un Quinjet suspendido en el aire usando una varilla
+- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Construye como nunca con LEGO Builder, una app que permite a los usuarios acercar y girar su modelo siguiendo instrucciones de construcción 3D, consultar su progreso y guardar sus sets
+- KIT DE CONSTRUCCIÓN DE MARVEL PARA ADULTOS: Reproduce el esplendor del portaaviones de que aparece en la película Vengadores (2012) con el kit de maquetas LEGO | Marvel Helitransporte de S.H.I.E.L.D.
 - NAVE LEGO: Esta maqueta de portaaviones, compuesta por 3057 piezas, incorpora pistas de aterrizaje, motores, una torre de control, aeronaves, estancias interiores y mucho más
 
 [🛒 Buy it!!]({{< param buyurl >}})

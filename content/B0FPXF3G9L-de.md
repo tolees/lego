@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GESCHENKIDEE FÜR KINDER: Dieser Modellbau zum Videospiel ist ein cooles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Gamer
-- 3 LEGO FORTNITE MINIFIGUREN: 3 Figuren – Fischstäbchen mit Dynamit, Leviathan mit einer Axt und der Lebkuchenkanonier mit Schild und Fackel – lassen Kinder besonders kreativ spielen
-- LEGO FORTNITE SPIELZEUG FÜR KINDER: Vorratslieferung ist ein Bauset, mit dem Kinder und Gamer ab 10 Jahren den Actionspaß aus dem Videospiel ganz ohne Bildschirm erleben können
-- BONUS-IN-GAME-ITEM: In der LEGO Builder App findest du die Bauanleitung und kannst zusätzlich das Deko-Pack Vorratslieferung im Videospiel LEGO Fortnite freischalten
-- GAMING DIY DEKO: Benutze das Spielset zum Nachspielen von Szenen aus LEGO Fortnite oder als kreative Gaming Deko für dein Zimmer mit vielen detailreichen Elementen
 - DETAILREICHES SPIELSET: Das Modell besteht aus 3 Segmenten: dem Sockel, dem Rauch und der Vorratslieferung selbst. Wenn du es aufklappst, kommen Schlürfsaft, Wolle, eine Banane und Himbeersamen zum Vorschein
+- 3 LEGO FORTNITE MINIFIGUREN: 3 Figuren – Fischstäbchen mit Dynamit, Leviathan mit einer Axt und der Lebkuchenkanonier mit Schild und Fackel – lassen Kinder besonders kreativ spielen
+- GAMING DIY DEKO: Benutze das Spielset zum Nachspielen von Szenen aus LEGO Fortnite oder als kreative Gaming Deko für dein Zimmer mit vielen detailreichen Elementen
+- GESCHENKIDEE FÜR KINDER: Dieser Modellbau zum Videospiel ist ein cooles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Gamer
+- BONUS-IN-GAME-ITEM: In der LEGO Builder App findest du die Bauanleitung und kannst zusätzlich das Deko-Pack Vorratslieferung im Videospiel LEGO Fortnite freischalten
+- LEGO FORTNITE SPIELZEUG FÜR KINDER: Vorratslieferung ist ein Bauset, mit dem Kinder und Gamer ab 10 Jahren den Actionspaß aus dem Videospiel ganz ohne Bildschirm erleben können
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXF3G9L{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- An introduction to engineering – LEGO Technic model building kits feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
-- A fun way to build – Let the LEGO Builder app guide kids on an intuitive building adventure, where they can save sets, track progress and zoom in and rotate models in 3D while they build
 - Lamborghini LEGO car – Give kids a fun project as they assemble the details of this remote-controlled LEGO Technic Lamborghini Revuelto Super Sports Car toy for 10+ year old boys and girls
-- Includes a rechargeable battery – A rechargeable battery (uses a USB-C cable, not included) to power the car is also included in this LEGO Technic set
+- An introduction to engineering – LEGO Technic model building kits feature realistic movement and mechanisms to introduce young LEGO builders to the universe of engineering
 - Explore the fun features – Inspire kids to play with their Lamborghini toy car as they steer forwards and backwards then check out the lights, which include glow-in-the-dark elements
 - Remote-controlled car – The model car set comes with the CONTROL+ app where kids can operate the steering, control the lights and see live data feedback as they perfect their driving skills
+- A fun way to build – Let the LEGO Builder app guide kids on an intuitive building adventure, where they can save sets, track progress and zoom in and rotate models in 3D while they build
+- Includes a rechargeable battery – A rechargeable battery (uses a USB-C cable, not included) to power the car is also included in this LEGO Technic set
 - A gift for car enthusiasts – This building set makes a great birthday gift for 10+ year old boys and girls who love model car kits and remote-control toys
 
 [🛒 Buy it!!]({{< param buyurl >}})

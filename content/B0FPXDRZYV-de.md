@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic McLaren MCL39 F1 Rennwagen - Modellbau für Erwachsene - Sammler Set mit V6-Motor Differential & DRS-Aktivierung - Geschenkidee für Racing- & Motorsport Fans - 42228'
-date: 2026-08-18 19:01:13
+date: 2026-08-21 10:00:49
 image: 'https://m.media-amazon.com/images/I/51r76HgSEvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDRZYV/?tag=tolees0ca-21'
 descuento: '34.78'
-average: '156.244000000001'
+average: '154.457142857144'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- F1 RENNAUTO FÜR ERWACHSENE: Der LEGO Technic McLaren MCL39 F1 Rennwagen hat unzählige Details, die erwachsene F1 Fans begeistern und jedes Rennen dominieren lassen
-- GESCHENK FÜR F1 FANS: Dieses MINT Bauset ist ein beliebtes Geschenk für Männer und Frauen, die Technik-Bausets und das McLaren F1 Team lieben
-- V6-MOTOR UND DRS: Nimm die Motorabdeckung ab, um den V6-Motor des F1 Autos zu bestaunen, und sieh dir dann das 2-Gang-Getriebe und den DRS-Aktivator an, der den Heckflügel flacher stellt
-- SAMMLE DEINE 3D MODELLE: Die LEGO Builder App lässt dich deine Modelle mithilfe von 3D-Bauanleitungen erschaffen und all deine Sets speichern; die App zeigt dir außerdem, wie weit du mit deinem Modell schon bist
-- MODELLBAU MIT AUTHENTISCHEN FUNKTIONEN: Entdecke die originalgetreuen Details des Rennautos; die Pushrod/Pullrod-Radaufhängung, die Lenkung und das Differential
-- BAUEN UND AUSSTELLEN: Freu dich auf ein fesselndes Bauprojekt mit diesem Bauset.; stell das fertige 3D Puzzle im Maßstab 1:8 dann im Wohnzimmer oder Büro aus, um deine Begeisterung für F1 Flitzer zu feiern
 - ANSPRUCHSVOLLES BAUPROJEKT: Die separat erhältlichen LEGO Technic Fahrzeuge für Erwachsene lassen dich technische Konzepte erkunden und anspruchsvolle Bauprojekte genießen
+- V6-MOTOR UND DRS: Nimm die Motorabdeckung ab, um den V6-Motor des F1 Autos zu bestaunen, und sieh dir dann das 2-Gang-Getriebe und den DRS-Aktivator an, der den Heckflügel flacher stellt
+- F1 RENNAUTO FÜR ERWACHSENE: Der LEGO Technic McLaren MCL39 F1 Rennwagen hat unzählige Details, die erwachsene F1 Fans begeistern und jedes Rennen dominieren lassen
+- BAUEN UND AUSSTELLEN: Freu dich auf ein fesselndes Bauprojekt mit diesem Bauset.; stell das fertige 3D Puzzle im Maßstab 1:8 dann im Wohnzimmer oder Büro aus, um deine Begeisterung für F1 Flitzer zu feiern
+- SAMMLE DEINE 3D MODELLE: Die LEGO Builder App lässt dich deine Modelle mithilfe von 3D-Bauanleitungen erschaffen und all deine Sets speichern; die App zeigt dir außerdem, wie weit du mit deinem Modell schon bist
+- GESCHENK FÜR F1 FANS: Dieses MINT Bauset ist ein beliebtes Geschenk für Männer und Frauen, die Technik-Bausets und das McLaren F1 Team lieben
+- MODELLBAU MIT AUTHENTISCHEN FUNKTIONEN: Entdecke die originalgetreuen Details des Rennautos; die Pushrod/Pullrod-Radaufhängung, die Lenkung und das Differential
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDRZYV{{</world>}}

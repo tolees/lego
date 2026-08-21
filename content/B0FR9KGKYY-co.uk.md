@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LIONEL MESSI LEGO SET – Kids create a sporting icon with the LEGO Editions Lionel Messi – Football Legend building toy for 12+ year old for boys, girls and teenage fans
-- GIFT FOR SPORTS LOVERS – This DIY model kit makes a great football gift for 12+ year old boys, girls and teenage fans on birthdays or any other special occasions
-- 2 POSE OPTIONS – Assemble the Messi 3D Display model in his signature victory pose that shows him point towards the sky or in a dynamic running pose that shows him dribbling a ball across a pitch
-- MESSI MERCH – The football LEGO set includes a large number 10, which is one
-- DIY KIDS BEDROOM DECOR – Assemble the Lionel Messi figure and proudly display it as shelf or desk decor that kids can show off alongside other LEGO Editions Football sets (sold separately)
-- A HELPING HAND – Budding football stars can access instructions digitally in the LEGO Builder app, where they can track progress and rotate their football model in 3D
 - LEGO EDITIONS COLLECTION – Show your love for more legendary football stars with other sets like 43016 Cristiano Ronaldo – Football Legend (sold separately)
+- LIONEL MESSI LEGO SET – Kids create a sporting icon with the LEGO Editions Lionel Messi – Football Legend building toy for 12+ year old for boys, girls and teenage fans
+- 2 POSE OPTIONS – Assemble the Messi 3D Display model in his signature victory pose that shows him point towards the sky or in a dynamic running pose that shows him dribbling a ball across a pitch
+- GIFT FOR SPORTS LOVERS – This DIY model kit makes a great football gift for 12+ year old boys, girls and teenage fans on birthdays or any other special occasions
+- DIY KIDS BEDROOM DECOR – Assemble the Lionel Messi figure and proudly display it as shelf or desk decor that kids can show off alongside other LEGO Editions Football sets (sold separately)
+- MESSI MERCH – The football LEGO set includes a large number 10, which is one
+- A HELPING HAND – Budding football stars can access instructions digitally in the LEGO Builder app, where they can track progress and rotate their football model in 3D
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FR9KGKYY{{</world>}}

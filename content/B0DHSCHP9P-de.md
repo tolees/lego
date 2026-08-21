@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Oracle Red Bull Racing RB20 F1 Rennauto Modell - Formel 1 Bauset zum Sammeln - V6-Motor Getriebe Lenkung & DRS im Maßstab 1:8 - Geschenkidee für Erwachsene & Teenager 42206'
-date: 2026-03-16 13:51:56
+date: 2026-08-20 08:23:36
 image: 'https://m.media-amazon.com/images/I/51f6dt0EpxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DHSCHP9P-de LEGO Technic Oracle Red Bull Racing RB20 F1 Rennauto...'
 sku: 'B0DHSCHP9P-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 167.99 EUR
+actualPrice: 149.99 EUR
 currency: EUR
-price: 167.99
+price: 149.99
 comparePrice: 229.99 EUR
 prodname: 'LEGO Technic Oracle Red Bull Racing RB20 F1 Rennauto Modell - Formel 1 Bauset zum Sammeln - V6-Motor Getriebe Lenkung & DRS im Maßstab 1:8 - Geschenkidee für Erwachsene & Teenager 42206'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DHSCHP9P/?tag=tolees0ca-21'
-descuento: '26.96'
-average: '165.965'
+descuento: '34.78'
+average: '163.682857142857'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Modell eines F1 Autos mit vielen Funktionen: Feiere deine Motorsportbegeisterung und erkunde Details wie die Vorder- und Hinterradaufhängung, die Lenkung, den verstellbaren Heckflügel und die bedruckten Reifen
-- Baubares Modellauto für Erwachsene: Konzentrier dich voll und ganz auf das spannende Bauprojekt und füge das detailgetreue LEGO Technic Oracle Red Bull Racing RB20 F1 Rennauto aus diesem Bauset zusammen
-- Spannendes Erlebnis: Die LEGO Builder App lässt dich jeden Schritt deines Projekts genießen und 3D-Modellansichten drehen und vergrößern, deinen Baufortschritt verfolgen und all deine Bausets und Modelle an einem Ort speichern
-- Motor und Getriebe sind authentisch nachgebildet: Schau dir das 2-Gang-Differentialgetriebe an und nimm die Motorabdeckung ab, um den V6-Motor mit seinen beweglichen Kolben zu bestaunen
 - LEGO Fahrzeuge für Erwachsene: Die separat erhältlichen LEGO Technic Fahrzeuge für Erwachsene lassen dich technische Konzepte erkunden und entspannende und kreative Bauprojekte genießen
-- LEGO Technic Auto für Formel 1 Fans: Dieses Set ist eine tolle Geschenkidee für erwachsene F1 Fans, die anspruchsvolle Projekte lieben, und eine schöne Belohnung für dich selbst, falls du dein eigenes F1 Modellauto bauen möchtest
+- Spannendes Erlebnis: Die LEGO Builder App lässt dich jeden Schritt deines Projekts genießen und 3D-Modellansichten drehen und vergrößern, deinen Baufortschritt verfolgen und all deine Bausets und Modelle an einem Ort speichern
 - Tolles Ausstellungsstück: Dieses Modell des Oracle Red Bull Racing RB20 F1 Rennwagens ist ein toller Hingucker für jedes Zimmer oder Büro und lässt dich deine Begeisterung für die Formel 1 ausdrücken
+- Motor und Getriebe sind authentisch nachgebildet: Schau dir das 2-Gang-Differentialgetriebe an und nimm die Motorabdeckung ab, um den V6-Motor mit seinen beweglichen Kolben zu bestaunen
+- Baubares Modellauto für Erwachsene: Konzentrier dich voll und ganz auf das spannende Bauprojekt und füge das detailgetreue LEGO Technic Oracle Red Bull Racing RB20 F1 Rennauto aus diesem Bauset zusammen
+- Modell eines F1 Autos mit vielen Funktionen: Feiere deine Motorsportbegeisterung und erkunde Details wie die Vorder- und Hinterradaufhängung, die Lenkung, den verstellbaren Heckflügel und die bedruckten Reifen
+- LEGO Technic Auto für Formel 1 Fans: Dieses Set ist eine tolle Geschenkidee für erwachsene F1 Fans, die anspruchsvolle Projekte lieben, und eine schöne Belohnung für dich selbst, falls du dein eigenes F1 Modellauto bauen möchtest
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSCHP9P{{</world>}}

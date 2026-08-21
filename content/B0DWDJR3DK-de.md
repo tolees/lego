@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Beißendes Monsterbuch der Monster – Interaktives Spielzeug mit Rückziehmotor und beißendem Mund – mit Neville Longbottom Mini-Figur – Geschenk für Kinder Harry Potter Fans – 76449'
-date: 2026-06-23 23:39:55
+date: 2026-08-20 08:11:13
 image: 'https://m.media-amazon.com/images/I/51oSL6irDjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DWDJR3DK-de LEGO Harry Potter Beißendes Monsterbuch der Monster –...'
 sku: 'B0DWDJR3DK-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 40.99 EUR
+actualPrice: 43.79 EUR
 currency: EUR
-price: 40.99
+price: 43.79
 comparePrice: 59.99 EUR
 prodname: 'LEGO Harry Potter Beißendes Monsterbuch der Monster – Interaktives Spielzeug mit Rückziehmotor und beißendem Mund – mit Neville Longbottom Mini-Figur – Geschenk für Kinder Harry Potter Fans – 76449'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDJR3DK/?tag=tolees0ca-21'
-descuento: '31.67'
-average: '40.7523076923078'
+descuento: '27.00'
+average: '40.9692857142858'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Interaktives Bauspielzeug: Das Buch verfügt über Räder und eine Rückziehfunktion; einfach auf eine Fläche legen, zurückziehen und schon saust das Harry Potter Spielzeug los und schnappt mit seinem Maul nach allem, was ihm in die Quere kommt
-- Zauberhaftes Geschenk für Jungen & Mädchen: Ein beliebtes Geburtstagsgeschenk für Kinder ab 9 Jahren; das LEGO Modellbauset kombiniert Bauspaß mit fantasievollen Rollenspielen für magische Abenteuer und stundenlanges Spielvergnügen
-- Neville Longbottom-Figur mit authentischen Details: Beim Bauen entdecken Kinder spannende Elemente wie das zottelige Fell auf dem Einband, bewegliche Augen und scharfe Zähne – detailgetreu nachgebildet mit LEGO Steinen
 - Bauset für Kinder: Dieses kreative LEGO Set ab 9 Jahren lässt Jungen und Mädchen ein furchteinflößendes Monsterbuch mit beweglichem Maul und vielen Details zusammenbauen
-- Digitale Bauanleitung: Die intuitive Bauanleitung in der LEGO Builder App begleitet dein Kind auf ein kreatives Harry-Potter-Lernspiel – mit 3D-Ansichten zum Zoomen und Drehen und einer Set-Übersicht
-- Spielfiguren aus der Zauberwelt: Das Set enthält eine LEGO-Figur von Neville Longbottom, der eine Mini-Ausgabe des Buchs in den Händen hält; das fertiggebaute Modell ist ein spaßiges Motorik-Spielzeug und eine tolle Harry Potter-Dekoration
 - Magisches Spielzeugbuch: Mit diesem LEGO Harry Potter Bauset für Kinder ab 9 Jahren baust du dein eigenes Beißendes Monsterbuch der Monster; es ist ein Spielzeug, das Kinder in ihrer Kreativität fördert
+- Neville Longbottom-Figur mit authentischen Details: Beim Bauen entdecken Kinder spannende Elemente wie das zottelige Fell auf dem Einband, bewegliche Augen und scharfe Zähne – detailgetreu nachgebildet mit LEGO Steinen
+- Zauberhaftes Geschenk für Jungen & Mädchen: Ein beliebtes Geburtstagsgeschenk für Kinder ab 9 Jahren; das LEGO Modellbauset kombiniert Bauspaß mit fantasievollen Rollenspielen für magische Abenteuer und stundenlanges Spielvergnügen
+- Spielfiguren aus der Zauberwelt: Das Set enthält eine LEGO-Figur von Neville Longbottom, der eine Mini-Ausgabe des Buchs in den Händen hält; das fertiggebaute Modell ist ein spaßiges Motorik-Spielzeug und eine tolle Harry Potter-Dekoration
+- Digitale Bauanleitung: Die intuitive Bauanleitung in der LEGO Builder App begleitet dein Kind auf ein kreatives Harry-Potter-Lernspiel – mit 3D-Ansichten zum Zoomen und Drehen und einer Set-Übersicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDJR3DK{{</world>}}

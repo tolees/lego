@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- FUSSBALL DEKO FÜRS KINDERZIMMER ZUM SAMMELN: Stell die fertige Figur des 3D Puzzles im Zimmer oder Büro aus und lass dich von Lionell Messi zu eigenen Erfolgen inspirieren
-- GESCHENK FÜR JUNGEN, MÄDCHEN UND SPORTFANS: Dieses Bastelset für Kinder ist ein beliebtes Geburtstagsgeschenk für Kinder und bereitet auch erwachsenen Messi Fans eine Freude
 - BASTELSET FÜR FUSSBALLFANS: Mit LEGO Editions Lionel Messi Fußballlegende bauen Jungen und Mädchen ab 12 Jahren eine detailreiche Hommage an eine Sportikone, die nach dem Bauen als DIY Deko ausgestellt werden kann
-- LEGO EDITIONS KOLLEKTION: Zeig deine Begeisterung für andere legendäre Fußballstars mit weiteren separat erhältlichen Sets
 - MESSI FANARTIKEL: Das LEGO Set beinhaltet eine große Nummer 10, eine der legendärsten Trikotnummern des Spielers, den Namen MESSI und eine Namensplakette sowie ein neues Design und einen neuen Fußball
-- MODELLBAU MIT 2 VARIANTEN ZUM AUSSTELLEN: Du kannst die LEGO Figur so bauen, dass Messi in seiner typischen Siegerpose zum Himmel zeigt oder mit dem Ball über das Spielfeld dribbelt
+- FUSSBALL DEKO FÜRS KINDERZIMMER ZUM SAMMELN: Stell die fertige Figur des 3D Puzzles im Zimmer oder Büro aus und lass dich von Lionell Messi zu eigenen Erfolgen inspirieren
 - NÜTZLICHER HELFER: In der LEGO Builder App ist eine digitale Bauanleitung verfügbar, die junge Fußballfans das 3D Modell drehen lässt, dort sehen Kinder auch, wie weit sie schon sind
+- LEGO EDITIONS KOLLEKTION: Zeig deine Begeisterung für andere legendäre Fußballstars mit weiteren separat erhältlichen Sets
+- MODELLBAU MIT 2 VARIANTEN ZUM AUSSTELLEN: Du kannst die LEGO Figur so bauen, dass Messi in seiner typischen Siegerpose zum Himmel zeigt oder mit dem Ball über das Spielfeld dribbelt
+- GESCHENK FÜR JUNGEN, MÄDCHEN UND SPORTFANS: Dieses Bastelset für Kinder ist ein beliebtes Geburtstagsgeschenk für Kinder und bereitet auch erwachsenen Messi Fans eine Freude
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FR9KGKYY{{</world>}}

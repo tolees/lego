@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DIGITAL UNLOCK FEATURE – Redeem a golden character to play in the LEGO Batman - Legacy of the Dark Knight video game; scan the QR code on the building instructions and follow the directions
-- MORE LEGO DC – Inspire endless imaginative, play-and-display fun with the extensive range of LEGO DC building sets for fans of all ages
-- BATMAN BUILDING TOY – Celebrate the 20th anniversary of LEGO DC Batman with the Batman Logo Super Hero toy for 12+ year old boys, girls and teens
 - AUTHENTIC ACCESSORIES – The Bat-Signal sign has a greeble finish featuring accessories from the DC Universe which can be removed and repositioned, including Batarangs and the Harley Quin hammer
-- 2 LEGO BATMAN MINIFIGURES – Includes a commemorative golden Batman minifigure and golden anniversary coin, plus a classic Batman minifigure that fits into a hatch at the centre of the model
+- MORE LEGO DC – Inspire endless imaginative, play-and-display fun with the extensive range of LEGO DC building sets for fans of all ages
 - BATMAN GIFT FOR TEENS – This LEGO DC set makes a great birthday gift for teenage boys and girls aged 12+, as well as older fans of LEGO building and Superhero model kits
+- 2 LEGO BATMAN MINIFIGURES – Includes a commemorative golden Batman minifigure and golden anniversary coin, plus a classic Batman minifigure that fits into a hatch at the centre of the model
 - BUILD AND DISPLAY – Show off this iconic piece of Batman room decor, which can be displayed on its sturdy stand or mounted on a wall using the built-in support
+- BATMAN BUILDING TOY – Celebrate the 20th anniversary of LEGO DC Batman with the Batman Logo Super Hero toy for 12+ year old boys, girls and teens
+- DIGITAL UNLOCK FEATURE – Redeem a golden character to play in the LEGO Batman - Legacy of the Dark Knight video game; scan the QR code on the building instructions and follow the directions
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXD2Y9T{{</world>}}

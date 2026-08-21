@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Build together with friends and family – The LEGO Builder app offers a fun and collaborative experience, where you can share the fun of LEGO building
-- Buildable LEGO Marvel sets – The extensive range of LEGO Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
-- Multi-model city scene – The action takes place inside and outside 3 buildings: Miles Morales’s apartment above a jewellery shop; the Oscorp building; and Venom’s apartment above a newsagent
-- Gift idea for Spider-Man fans – This LEGO Marvel gift for 10+ year old boys and girls is a large, customisable treat for kids who enjoy Super Heroes, Marvel collectibles and play-and-display building models
+- Realistic role play – The building set includes a motorbike toy, glider, weapons, relevant accessories in each room and transparent sticks so kids can position and pose characters with realistic ease
 - Super Hero minifigures – The buildable set includes 8 LEGO Marvel minifigures: Spider-Man, Spider-Woman, Miles Morales, Eddie Brock, Ghost-Spider, Norman Osborn, Kraven the Hunter and Green Goblin
 - Spider-Man building toy for kids – Spider-Man vs. Oscorp is a fun LEGO Marvel building toy for 10+ year old boys, girls and fans of Super Hero action
-- Realistic role play – The building set includes a motorbike toy, glider, weapons, relevant accessories in each room and transparent sticks so kids can position and pose characters with realistic ease
+- Build together with friends and family – The LEGO Builder app offers a fun and collaborative experience, where you can share the fun of LEGO building
+- Multi-model city scene – The action takes place inside and outside 3 buildings: Miles Morales’s apartment above a jewellery shop; the Oscorp building; and Venom’s apartment above a newsagent
+- Buildable LEGO Marvel sets – The extensive range of LEGO Marvel build-and-play sets gives kids an ever-changing universe of hands-on Super Hero adventures
+- Gift idea for Spider-Man fans – This LEGO Marvel gift for 10+ year old boys and girls is a large, customisable treat for kids who enjoy Super Heroes, Marvel collectibles and play-and-display building models
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDWJTY6{{</world>}}

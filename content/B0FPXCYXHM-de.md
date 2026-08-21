@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ECHTE FILMDETAILS ZUM NACHBAUEN: Das Kinderauto zeigt ikonische Merkmale wie den gelb-orangen Blitz, die Startnummer 95, das Rust-Eze Logo und „Lightyear“-Reifen; es ist ein Muss für Cars-Fans
-- FÜR SAMMLER UND RENNENFANS: LEGO Speed Champions Bausets lassen große und kleine Autofans legendäre Flitzer nachbauen, ausstellen und in fantasievollen Rennen gegeneinander antreten
-- AUTO SPIELZEUG FÜR FILMFANS: Mit dem LEGO Speed Champions Set Lightning McQueen feiern Kinder ab 9 Jahren das Jubiläum von Cars und bauen ihr eigenes detailreiches Modellauto aus dem Pixar-Universum
-- SPIELAUTO MIT BESONDEREM FAHRWERK: Als einziger Flitzer der LEGO Speed Champions Serie bietet Lightning McQueen ein sichtbares Fahrwerk, das für realistische Bewegungen und kreatives Spielen sorgt
-- ENTDECKE WEITERE FLITZER: Die separat erhältlichen LEGO Speed Champions Autos erweitern jede Sammlung um weitere spannende Spielsachen und berühmte Rennwagen aus aller Welt
-- GESCHENKIDEE FÜR KINDER UND ERWACHSENE: Das Cars Modell ist nicht nur ein Spielzeug, sondern auch ein nostalgisches Geschenk für Jungs, Mädchen oder erwachsene Fans, die Lightning McQueen lieben
 - AUSSTELLUNGSMODELL FÜR FANS: Nach dem Spielen wird das LEGO Auto zum Hingucker im Regal oder auf dem Schreibtisch; ein beliebtes Kinder Spielzeug für Filmbegeisterte und Modellbau Fans
+- AUTO SPIELZEUG FÜR FILMFANS: Mit dem LEGO Speed Champions Set Lightning McQueen feiern Kinder ab 9 Jahren das Jubiläum von Cars und bauen ihr eigenes detailreiches Modellauto aus dem Pixar-Universum
+- ECHTE FILMDETAILS ZUM NACHBAUEN: Das Kinderauto zeigt ikonische Merkmale wie den gelb-orangen Blitz, die Startnummer 95, das Rust-Eze Logo und „Lightyear“-Reifen; es ist ein Muss für Cars-Fans
+- GESCHENKIDEE FÜR KINDER UND ERWACHSENE: Das Cars Modell ist nicht nur ein Spielzeug, sondern auch ein nostalgisches Geschenk für Jungs, Mädchen oder erwachsene Fans, die Lightning McQueen lieben
+- SPIELAUTO MIT BESONDEREM FAHRWERK: Als einziger Flitzer der LEGO Speed Champions Serie bietet Lightning McQueen ein sichtbares Fahrwerk, das für realistische Bewegungen und kreatives Spielen sorgt
+- FÜR SAMMLER UND RENNENFANS: LEGO Speed Champions Bausets lassen große und kleine Autofans legendäre Flitzer nachbauen, ausstellen und in fantasievollen Rennen gegeneinander antreten
+- ENTDECKE WEITERE FLITZER: Die separat erhältlichen LEGO Speed Champions Autos erweitern jede Sammlung um weitere spannende Spielsachen und berühmte Rennwagen aus aller Welt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCYXHM{{</world>}}

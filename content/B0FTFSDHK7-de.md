@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MARVEL FANARTIKEL MIT ZUBEHÖR: Möbel, Bauwerkzeug, ein Empfangsbereich, ein Park und der aufklappbare Wagen der Hotdogverkäuferin bieten viele Details zum Entdecken
-- STADTKULISSE AUS MODULEN: Kombiniere das Set mit weiteren separat erhältlichen Modellen aus der LEGO Kollektion „Bauen mit Modulen“, zum Beispiel mit 76324, und erschaffe deine eigene Stadtkulisse
-- SUPERHELDEN SPIELZEUG: Großer Showdown: Spider-Man vs. Hulk lässt dich actionreiche Szenen aus Spider-Man: Brand New Day mit legendären Superhelden nachspielen
-- GEMEINSAM BAUEN: Die LEGO Builder App ermöglicht ein gemeinsames Bauerlebnis, bei dem alle mit dem eigenen Smartphone an verschiedenen Teilen des Spielsets bauen können
-- DYNAMISCHES SPIELERLEBNIS MIT MODELLBAU: Drück den Hebel auf der Rückseite, um die vordere Wand auseinanderzusprengen und den Hulk freizulegen, danach lässt sich die Fassade wieder zusammenbauen
-- GESCHENK FÜR SPIDER MAN FANS: Dieses Marvel Spielzeug ist ein eliebtes Geschenk zum Geburtstag, zu Weihnachten oder als Überraschung für Superheldenfans ab 8 Jahren
 - 6 LEGO FIGUREN: Die Minifiguren Spider Man, Tarantula, Scorpion, Boomerang und die Hotdogverkäuferin können mithilfe transparenter Stäbe um das Gebäude „schweben“, zusätzlich lässt sich eine große Hulk Figur bauen
+- SUPERHELDEN SPIELZEUG: Großer Showdown: Spider-Man vs. Hulk lässt dich actionreiche Szenen aus Spider-Man: Brand New Day mit legendären Superhelden nachspielen
+- STADTKULISSE AUS MODULEN: Kombiniere das Set mit weiteren separat erhältlichen Modellen aus der LEGO Kollektion „Bauen mit Modulen“, zum Beispiel mit 76324, und erschaffe deine eigene Stadtkulisse
+- DYNAMISCHES SPIELERLEBNIS MIT MODELLBAU: Drück den Hebel auf der Rückseite, um die vordere Wand auseinanderzusprengen und den Hulk freizulegen, danach lässt sich die Fassade wieder zusammenbauen
+- MARVEL FANARTIKEL MIT ZUBEHÖR: Möbel, Bauwerkzeug, ein Empfangsbereich, ein Park und der aufklappbare Wagen der Hotdogverkäuferin bieten viele Details zum Entdecken
+- GEMEINSAM BAUEN: Die LEGO Builder App ermöglicht ein gemeinsames Bauerlebnis, bei dem alle mit dem eigenen Smartphone an verschiedenen Teilen des Spielsets bauen können
+- GESCHENK FÜR SPIDER MAN FANS: Dieses Marvel Spielzeug ist ein eliebtes Geschenk zum Geburtstag, zu Weihnachten oder als Überraschung für Superheldenfans ab 8 Jahren
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FTFSDHK7{{</world>}}

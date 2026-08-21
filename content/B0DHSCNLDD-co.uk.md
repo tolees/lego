@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Loaded with details – This LEGO DREAMZzz set includes movable legs, arms, feet and wings, spinning propellers and a stud shooter
-- Gift idea – Give this fantasy playset as a gift for 7+ year old boys and girls who love the LEGO DREAMZzz TV series or robot and vehicle toys
-- Be part of the action – The set includes story-led building instructions that encourage kids to immerse themselves in the dream world adventure
-- Rebuildable toy for 7+ year old boys and girls – Kids can rebuild the Z-Blob mech model into 19 modes, including a stunt plane toy, drone and jet
 - LEGO minifigure – The set includes LEGO DREAMZzz hero Mateo, who comes with a pencil accessory and encourages imaginative play
+- Gift idea – Give this fantasy playset as a gift for 7+ year old boys and girls who love the LEGO DREAMZzz TV series or robot and vehicle toys
+- Loaded with details – This LEGO DREAMZzz set includes movable legs, arms, feet and wings, spinning propellers and a stud shooter
+- Rebuildable toy for 7+ year old boys and girls – Kids can rebuild the Z-Blob mech model into 19 modes, including a stunt plane toy, drone and jet
+- Be part of the action – The set includes story-led building instructions that encourage kids to immerse themselves in the dream world adventure
 - Also includes – Robot toy, turbo jet, helicopter, submarine, space shuttle toy, RC car, turtlebot, two-legged robot, walker, scorpion and more
 - LEGO Mech toys – Drive kids’ creativity with the LEGO DREAMZzz building set Z-Blob’s Robot and Vehicle Adventures which includes 20 building modes
 

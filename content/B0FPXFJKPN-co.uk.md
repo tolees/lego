@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GIFT IDEA FOR ADULTS – Give this buildable framed wall art as a birthday gift for women and men with a passion for Japanese culture and travel, who also enjoy immersive creative activities
-- HOMAGE TO JAPAN – This LEGO reimagination of a traditional Japanese landscape features Mount Fuji, a teahouse, Japanese cranes and ‘Sango-Kaku maple, cherry blossom and Japanese umbrella pine trees
 - EXPLORE MORE LEGO ART – The extensive range gives adults the chance to create artworks inspired by some of their biggest passions to display at home or in the office
+- GIFT IDEA FOR ADULTS – Give this buildable framed wall art as a birthday gift for women and men with a passion for Japanese culture and travel, who also enjoy immersive creative activities
 - HOME OFFICE DECOR – This DIY model kit for adults has 2 display options: the black lacquer shadow box frame with gold details can be mounted on a wall or stood on a flat surface like a desk or a shelf
-- JAPANESE 3D WALL ART – Build a detailed and colourful home decor piece with the LEGO Art Japanese Cherry Blossom Landscape building set for adults
+- HOMAGE TO JAPAN – This LEGO reimagination of a traditional Japanese landscape features Mount Fuji, a teahouse, Japanese cranes and ‘Sango-Kaku maple, cherry blossom and Japanese umbrella pine trees
 - 3D INSTRUCTIONS – Get ready to build like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your model in 3D
+- JAPANESE 3D WALL ART – Build a detailed and colourful home decor piece with the LEGO Art Japanese Cherry Blossom Landscape building set for adults
 - ADJUSTABLE 3D WATERFALL – The LEGO Art set features a waterfall that flows beyond the frame so that on a wall it pours directly out, or when stood up can be adjusted to spill onto a flat surface
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- GEMEINSAM BAUEN: Die LEGO Builder App bietet ein geführtes, gemeinsames Bauerlebnis mit Freunden und Familie und macht das LEGO Marvel Infinity Saga zu einem interaktiven Bauerlebnis
-- IRON MAN SET FÜR ERWACHSENE: Mit der LEGO Marvel Iron Man Mark 3 Sammleredition (76344) können erwachsene Fans der Infinity Saga ein beeindruckendes Superhelden Modell bauen und ausstellen
-- HOHE BEWEGLICHKEIT UND STABILITÄT: Kopf, Taille, Schultern, Handgelenke und Hände sind voll beweglich, sodass sich die LEGO Figur auf dem stabilen Sockel mit Namensschild dynamisch in Szene setzen lässt
 - DETAILREICHE SUPERHELDEN DEKO: Der LEGO Marvel Bausatz überzeugt mit originalgetreuem Arc-Reaktor, beweglichen Gelenken und goldfarbenen Akzenten
 - BEEINDRUCKENDE LEGO FIGUR: Die bewegliche Figur zeigt Iron Man in seinem kultigen Anzug und enthält zusätzlich eine Iron Man Minifigur, die als Detail an der großen Figur befestigt werden kann
+- GEMEINSAM BAUEN: Die LEGO Builder App bietet ein geführtes, gemeinsames Bauerlebnis mit Freunden und Familie und macht das LEGO Marvel Infinity Saga zu einem interaktiven Bauerlebnis
+- HOHE BEWEGLICHKEIT UND STABILITÄT: Kopf, Taille, Schultern, Handgelenke und Hände sind voll beweglich, sodass sich die LEGO Figur auf dem stabilen Sockel mit Namensschild dynamisch in Szene setzen lässt
 - NOCH MEHR BAUSETS FÜR ERWACHSENE: Die LEGO Sets für Erwachsene sind so gestaltet, dass sie lohnende und fesselnde Bauprojekte für erwachsene Modellbauer ermöglichen
+- IRON MAN SET FÜR ERWACHSENE: Mit der LEGO Marvel Iron Man Mark 3 Sammleredition (76344) können erwachsene Fans der Infinity Saga ein beeindruckendes Superhelden Modell bauen und ausstellen
 - KREATIVES MARVEL GESCHENK: Dieses Spielset ist ein beliebtes Geschenk für Erwachsene, ob zum Geburtstag, zu Weihnachten oder einfach als kreative Überraschung für Fans von Iron Man und LEGO Marvel
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Spark kids’ creativity – LEGO Super Mario toy playsets are designed for solo or social play, offering role play, digital coin-collecting and fun challenges through expansion and rebuilding
+- Interactive play – Drive the 2 car toys with LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) to trigger Mario Kart sound/visual effects
+- Mario Kart toy vehicles – Place Baby Mario in his Biddybuggy and Baby Luigi on his Tri-Speeder and launch shells to try to knock over the balloons
 - Extra play possibilities – Explore the range of LEGO Super Mario: Mario Kart sets (sold separately) for other vehicles and characters to race against
-- 2 Super Mario characters – This toy for 8 plus year old boys and girls includes Baby Mario and Baby Luigi toy figures, plus 6 buildable balloons
 - LEGO Mario Kart set – Join forces with Baby Mario or Baby Luigi for balloon-busting battles and racing action with this LEGO Super Mario toy playset
 - Mario Kart birthday gift idea for gamers – This LEGO Super Mario set makes a great birthday gift for boys and girls aged 8 and over; one of sets 71439, 71440 or 71441 (sold separately) is needed for interactive play
-- Interactive play – Drive the 2 car toys with LEGO Mario, LEGO Luigi or LEGO Peach (figures not included) to trigger Mario Kart sound/visual effects
-- Spark kids’ creativity – LEGO Super Mario toy playsets are designed for solo or social play, offering role play, digital coin-collecting and fun challenges through expansion and rebuilding
-- Mario Kart toy vehicles – Place Baby Mario in his Biddybuggy and Baby Luigi on his Tri-Speeder and launch shells to try to knock over the balloons
+- 2 Super Mario characters – This toy for 8 plus year old boys and girls includes Baby Mario and Baby Luigi toy figures, plus 6 buildable balloons
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDXPLY{{</world>}}

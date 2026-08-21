@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- KIT DI MODELLISMO RICCO DI DETTAGLI: il casco è nei colori papaya, per celebrare il 1.000° Gran Premio della McLaren F1, e giallo fluorescente, caratteristico del pilota
 - REGALO PER I FAN DELLAUTOMOBILISMO: unottima idea regalo per un uomo, una donna o un adolescente amanti dei gadget di Lando Norris, delle auto da corsa e delle macchine McLaren LEGO da costruire, con cui festeggiare un compleanno
-- MERCH DI LANDO NORRIS F1: include una minifigure LEGO da collezione e una targhetta con la firma, oltre a dettagli personali come il numero di pilota e il logo LN
-- MODELLINO DI CASCO LEGO: accendi la creatività e crea il gadget da Formula 1 Casco di Lando Norris McLaren Mastercard F1 Team1 LEGO Editions, un modello da esposizione per ragazzi e ragazze da 14 anni in su
-- UNA GAMMA DA COLLEZIONARE: crea i tuoi modelli con l’app LEGO Builder; usa le istruzioni digitali per monitorare i tuoi progressi e salvare tutti i set in un solo posto
 - DECORAZIONE PER LA CAMERETTA: questo set fai da te è unavvincente decorazione da scrivania o da scaffale che farà felici gli amanti dello sport, da esporre con orgoglio insieme agli altri caschi F1 LEGO (disponibili separatamente)
+- UNA GAMMA DA COLLEZIONARE: crea i tuoi modelli con l’app LEGO Builder; usa le istruzioni digitali per monitorare i tuoi progressi e salvare tutti i set in un solo posto
+- MODELLINO DI CASCO LEGO: accendi la creatività e crea il gadget da Formula 1 Casco di Lando Norris McLaren Mastercard F1 Team1 LEGO Editions, un modello da esposizione per ragazzi e ragazze da 14 anni in su
+- MERCH DI LANDO NORRIS F1: include una minifigure LEGO da collezione e una targhetta con la firma, oltre a dettagli personali come il numero di pilota e il logo LN
+- KIT DI MODELLISMO RICCO DI DETTAGLI: il casco è nei colori papaya, per celebrare il 1.000° Gran Premio della McLaren F1, e giallo fluorescente, caratteristico del pilota
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFT73X{{</world>}}

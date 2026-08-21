@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft The Fox Toy - 3D Puzzle Animal Figure with Accessories - DIY Gaming Room or Bedroom Decor - Birthday Gift Idea for 10+ Year Old Boys Girls & Fans - 21588'
-date: 2026-06-25 07:30:03
+date: 2026-08-21 07:53:38
 image: 'https://m.media-amazon.com/images/I/51HGSkVPY2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXJ7MDK-co.uk LEGO Minecraft The Fox Toy - 3D Puzzle Animal Figure...'
 sku: 'B0FPXJ7MDK-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 25.89 GBP
+actualPrice: 24.99 GBP
 currency: GBP
-price: 25.89
+price: 24.99
 comparePrice: 39.99 GBP
 prodname: 'LEGO Minecraft The Fox Toy - 3D Puzzle Animal Figure with Accessories - DIY Gaming Room or Bedroom Decor - Birthday Gift Idea for 10+ Year Old Boys Girls & Fans - 21588'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXJ7MDK/?tag=tolees0a-21'
-descuento: '35.26'
-average: '27.8066666666667'
+descuento: '37.51'
+average: '27.525'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- PLAY-AND-DISPLAY TOY – This collectible fox figure can turn its head to the side and features a reversible eye section that shows the fox with its eyes open and closed
-- MINECRAFT GIFT FOR GAMERS - Surprise kids with this LEGO animal toy figure, a great gaming gift for 10+ year old boys and girls that will delight fans of the video game
-- LEGO MINECRAFT FOX TOY – Build, customise, play and display with LEGO Minecraft The Fox, a posable gaming toy for 10+ year old boys, girls and fans
 - SETS FOR MINECRAFT PLAYERS – LEGO Minecraft building toys offer kids a huge range of familiar scenes, features and mobs from the popular game
-- POSABLE ANIMAL FIGURE – This LEGO Minecraft building toy set recreates the classic character from the video game with adjustable legs and a movable head and tail to place the fox in different positions
 - A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
+- PLAY-AND-DISPLAY TOY – This collectible fox figure can turn its head to the side and features a reversible eye section that shows the fox with its eyes open and closed
 - GAMING DECOR - A fun decoration for kids gaming rooms, packed with details and creative possibilities, featuring an Easter egg with an egg and a berry in its belly
+- LEGO MINECRAFT FOX TOY – Build, customise, play and display with LEGO Minecraft The Fox, a posable gaming toy for 10+ year old boys, girls and fans
+- POSABLE ANIMAL FIGURE – This LEGO Minecraft building toy set recreates the classic character from the video game with adjustable legs and a movable head and tail to place the fox in different positions
+- MINECRAFT GIFT FOR GAMERS - Surprise kids with this LEGO animal toy figure, a great gaming gift for 10+ year old boys and girls that will delight fans of the video game
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXJ7MDK{{</world>}}

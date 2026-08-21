@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Überfall auf den Polizeizug - Ferngesteuerter Spielzeug Zug - Modellbau mit kreisförmiger Strecke Helikopter Rallyeauto und 6 Minifiguren - Geschenk für Jungen ab 7 Jahren - 60508'
-date: 2026-06-24 00:55:04
+date: 2026-08-21 09:59:07
 image: 'https://m.media-amazon.com/images/I/513A7FQGzaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXFQZFJ-de LEGO City Überfall auf den Polizeizug - Ferngesteuerter...'
 sku: 'B0FPXFQZFJ-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 128.19 EUR
+actualPrice: 126.99 EUR
 currency: EUR
-price: 128.19
+price: 126.99
 comparePrice: 199.99 EUR
 prodname: 'LEGO City Überfall auf den Polizeizug - Ferngesteuerter Spielzeug Zug - Modellbau mit kreisförmiger Strecke Helikopter Rallyeauto und 6 Minifiguren - Geschenk für Jungen ab 7 Jahren - 60508'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFQZFJ/?tag=tolees0ca-21'
-descuento: '35.90'
-average: '137.595'
+descuento: '36.50'
+average: '134.06'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- SPIELSET MIT VIEL ZUBEHÖR: Kinder finden hier alles, was sie brauchen, um eine Lok, 3 Flachwagen, 1 Rallyeauto, 1 Hubschrauber, 1 Gefängniszelle, 1 Tresor, 1 Bahnübergang und 1 Figuren Team zu bauen
-- DIGITALE BAUANLEITUNG FÜR MEHR SPIELSPASS: Mit der LEGO Builder App können Kinder Sets speichern, ihren Baufortschritt verfolgen und Modelle in 3D drehen und heranzoomen für ein noch intuitiveres Bauerlebnis
-- SPIELZEUG MIT POLIZEIZUG: Dieses spannende LEGO City Set bringt Action auf die Schienen mit einem motorisierten Zug, Hubschrauber, Rallyeauto, Schienen sowie 6 Minifiguren für fantasievolles Spiel
 - MEHR LEGO CITY SETS ZU ENTDECKEN: Noch mehr Spaß und Abenteuer entstehen, wenn dieses Zugset mit weiteren Bausets (separat erhältlich) aus der LEGO City Reihe kombiniert wird
+- ELEKTRONISCHER SPIELZUG MIT APP-STEUERUNG: Die motorisierte Lok fährt auf einer ovalen Strecke und lässt sich ganz bequem mit der beiliegenden Fernbedienung oder via Powered Up App über ein Smartgerät steuern
+- SPIELZEUG MIT POLIZEIZUG: Dieses spannende LEGO City Set bringt Action auf die Schienen mit einem motorisierten Zug, Hubschrauber, Rallyeauto, Schienen sowie 6 Minifiguren für fantasievolles Spiel
 - SPANNENDE FUNKTIONEN FÜR ROLLENSPIELE: Enthält einen Ganoven-Helikopter mit Greifklaue zum Stehlen des Banktresors, Rallyeautos und der Gefängniszelle vom Polizeizug
 - MODELLEISENBAHN ALS KINDER GESCHENK: Dieses Bauset ist ein cooles Geburtstagsgeschenk für Jungen und Mädchen ab 7 Jahren, die Spielzeugzüge und Polizeispielsets mögen
-- ELEKTRONISCHER SPIELZUG MIT APP-STEUERUNG: Die motorisierte Lok fährt auf einer ovalen Strecke und lässt sich ganz bequem mit der beiliegenden Fernbedienung oder via Powered Up App über ein Smartgerät steuern
+- DIGITALE BAUANLEITUNG FÜR MEHR SPIELSPASS: Mit der LEGO Builder App können Kinder Sets speichern, ihren Baufortschritt verfolgen und Modelle in 3D drehen und heranzoomen für ein noch intuitiveres Bauerlebnis
+- SPIELSET MIT VIEL ZUBEHÖR: Kinder finden hier alles, was sie brauchen, um eine Lok, 3 Flachwagen, 1 Rallyeauto, 1 Hubschrauber, 1 Gefängniszelle, 1 Tresor, 1 Bahnübergang und 1 Figuren Team zu bauen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFQZFJ{{</world>}}

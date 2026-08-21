@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MOTOR V6 Y DRS: Retira la cubierta para examinar el motor V6 de la maqueta de coche de F1 y, después, echa un vistazo a la caja de cambios de 2 velocidades y al activador del DRS, que ajusta el alerón trasero
+- IDEA DE REGALO INSPIRADO EN LA F1: Este proyecto STEM es un óptimo regalo para hombres y mujeres aficionados a los kits de maquetas de ingeniería y a la escudería McLaren F1 Team
 - MAQUETA DE COCHE DE F1: Explora los realistas detalles del coche, como la suspensión “push-rod” y “pull-rod”, la dirección y el diferencial, mientras revives la emoción de la temporada de F1 con tu réplica del monoplaza
 - KIT DE MAQUETAS PARA ADULTOS: Domina el circuito con el Coche McLaren MCL39 F1 LEGO Technic para adultos, repleto de características que entusiasmarán a los aficionados de la F1
-- DECORACIÓN PARA LA ESTANTERÍA: Primero disfruta de un envolvente proyecto de construcción con este kit y luego expón la maqueta del coche a escala 1:8 como decoración en la habitación o en la oficina
+- MOTOR V6 Y DRS: Retira la cubierta para examinar el motor V6 de la maqueta de coche de F1 y, después, echa un vistazo a la caja de cambios de 2 velocidades y al activador del DRS, que ajusta el alerón trasero
 - COLECCIONA TUS MODELOS: Con la app LEGO Builder, puedes construir tus modelos siguiendo instrucciones 3D, consultar tu progreso y guardar todos tus sets en la app
-- IDEA DE REGALO INSPIRADO EN LA F1: Este proyecto STEM es un óptimo regalo para hombres y mujeres aficionados a los kits de maquetas de ingeniería y a la escudería McLaren F1 Team
+- DECORACIÓN PARA LA ESTANTERÍA: Primero disfruta de un envolvente proyecto de construcción con este kit y luego expón la maqueta del coche a escala 1:8 como decoración en la habitación o en la oficina
 - DISFRUTA DE UN GRATIFICANTE PROYECTO: Explora conceptos de ingeniería a través de gratificantes proyectos de construcción con la colección de sets LEGO Technic de vehículos para adultos (a la venta por separado)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

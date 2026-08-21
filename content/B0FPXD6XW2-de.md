@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Icons Ford Model T - Retro Auto Modellbau für Erwachsene - Sammler Ausstellungsset mit Stofffaltdach hohen Rädern & geteilter Windschutzscheibe - Geschenk für Fans klassischer Fahrzeuge - 11376'
-date: 2026-05-18 10:12:31
-image: 'https://m.media-amazon.com/images/I/51ie6Pld4+L._SL500_._SL400_.jpg'
+date: 2026-08-20 10:31:49
+image: 'https://m.media-amazon.com/images/I/513BZk7EoZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD6XW2/?tag=tolees0ca-21'
 descuento: '26.93'
-average: '96.94'
+average: '96.4525'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DETAILREICHES MODELLAUTO: Das LEGO Icons Ford Model T zeigt sich als originalgetreuer Bausatz mit schwarzer Karosserie, Stofffaltdach, goldenen Details und weißen Reifen auf Speichenfelgen
+- OLTIMDER BAUSET FÜR ERWACHSENE: Dieses LEGO Modellauto begeistert mit nostalgischem Charme und lädt alle Fans von LEGO Oldtimern zu einem entspannenden Modellbau Erlebnis ein
 - BELIEBTES GESCHENK FÜR AUTOFANS: Der Oldtimer aus diesem Bauset ist ein fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für alle, die amerikanische Autoklassiker lieben
+- DETAILREICHES MODELLAUTO: Das LEGO Icons Ford Model T zeigt sich als originalgetreuer Bausatz mit schwarzer Karosserie, Stofffaltdach, goldenen Details und weißen Reifen auf Speichenfelgen
 - FORD MODEL T MIT FUNKTIONEN: Falte das Dach zurück und leg die Windschutzscheibe um; stell beide Seiten der Motorhaube auf und dreh die Kurbel, um das Gebläse rotieren zu lassen; heb den Sitz hoch, um Zugang zum Benzintank zu erhalten
 - ELEGANTE LEGO DEKO: Der stilvolle Oldtimer ist ein echter Blickfang und eignet sich als Schreibtisch Deko, Büro Accessoire oder Retro Deko fürs Wohnzimmer
-- OLTIMDER BAUSET FÜR ERWACHSENE: Dieses LEGO Modellauto begeistert mit nostalgischem Charme und lädt alle Fans von LEGO Oldtimern zu einem entspannenden Modellbau Erlebnis ein
 - DIGITALE BAUANLEITUNG INKLUSIVE: Mit der LEGO Builder App kannst du das 3D Puzzle digital erleben, dein Modell vergrößern, drehen und den Fortschritt speichern
 
 [🛒 Buy it now!!]({{< param buyurl >}})

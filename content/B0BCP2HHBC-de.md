@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- NOCH MEHR LEGO WEIHNACHTEN ENTDECKEN: Ergänze deine Sammlung mit weiteren LEGO Weihnachtssets (separat erhältlich) und kreiere eine eigene kleine Weihnachtswelt zum Spielen und Ausstellen
 - EINE LEGO DEKO ZUM SAMMELN UND AUSSTELLEN: Dieses winterliche LEGO Weihnachtsset eignet sich wunderbar als festliche Dekoration und bringt stimmungsvolle Atmosphäre in jedes Zimmer
 - WEIHNACHTSDEKO SELBST GESTALTEN: Jeder Baum ist liebevoll mit bunten Ornamenten und Kerzen geschmückt und wird von einem gelben Stern gekrönt, ein hübsches Modellbau Projekt für Feststimmung
+- FESTLICHES LEGO WEIHNACHTSBAUM SET: Das 2-in-1 LEGO Weihnachtsbaum Bauset für Jungen und Mädchen ab 9 Jahren lässt entweder einen großen oder zwei kleine Bäume entstehen
 - FESTLICHE LEGO DEKO ZUM BAUEN: Kinder können aus diesem LEGO Weihnachten Set einen großen Baum oder zwei kleine Weihnachtsbäume bauen, die als festliche Tischdeko oder Spielzeug verwendet werden können
 - DIGITAL UNTERSTÜTZTER MODELLBAU: Mit der LEGO Builder App können Kinder das Modell digital in 3D drehen und vergrößern, den Fortschritt verfolgen und Sets speichern
+- NOCH MEHR LEGO WEIHNACHTEN ENTDECKEN: Ergänze deine Sammlung mit weiteren LEGO Weihnachtssets (separat erhältlich) und kreiere eine eigene kleine Weihnachtswelt zum Spielen und Ausstellen
 - GESCHENK ZU WEIHNACHTEN: Das Bauset ist mehr als nur ein Spielzeug, es ist eine tolle Gelegenheit für gemeinsames Bauen mit Kindern, Geschwistern oder Eltern, das Groß und Klein zur Weihnachtszeit verbindet
-- FESTLICHES LEGO WEIHNACHTSBAUM SET: Das 2-in-1 LEGO Weihnachtsbaum Bauset für Jungen und Mädchen ab 9 Jahren lässt entweder einen großen oder zwei kleine Bäume entstehen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BCP2HHBC{{</world>}}

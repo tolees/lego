@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- VIEL ZU ENTDECKEN AN BORD: Kinder können die Decks des Boots abnehmen, um die Brücke, die Küche und die Schlafbereiche zu erkunden, oder das Schlauchboot von der Rampe zu Wasser lassen
-- RETTUNGSBOOT SPIELZEUG FÜR KINDER AB 7 JAHREN: Dieses LEGO City Rettungsboot der Küstenwache mit Hubschrauber und zwei Schlauchbooten lässt Kinder ab 7 Jahren in spannende Rettungseinsätze eintauchen
-- SPIELSET MIT VIEL ZUBEHÖR: Das LEGO Set enthält ein großes, schwimmfähiges Rettungsboot mit mehreren Decks, einen Hubschrauber, zwei Schlauchboote, fünf Minifiguren und eine Hundefigur für viele kreative Spielmöglichkeiten
-- STEM SPIELZEUG MIT LEGO MINIFIGUR: Für kreative Rollenspiele mit dem LEGO Schiff enthält das Kinderspielzeug einen Feuerlöscher, Verbandskasten, Rettungsring, Funkgerät und Hundenapf
 - MEHR LEGO CITY SETS ZU ENTDECKEN: Kinder können noch mehr Spielspaß entfalten, wenn sie dieses Einsatzfahrzeug Spielset mit weiteren LEGO City Sets (separat erhältlich) kombinieren.
-- GESCHENK FÜR KINDER, DIE SPIEL FAHRZEUGE LIEBEN: Dieses LEGO Minifiguren Set ist ein beliebtes Geschenk für Jungen und Mädchen ab 7 Jahren, die Konstruktionspielzeug und spannende Rettungseinsätze lieben
+- VIEL ZU ENTDECKEN AN BORD: Kinder können die Decks des Boots abnehmen, um die Brücke, die Küche und die Schlafbereiche zu erkunden, oder das Schlauchboot von der Rampe zu Wasser lassen
+- STEM SPIELZEUG MIT LEGO MINIFIGUR: Für kreative Rollenspiele mit dem LEGO Schiff enthält das Kinderspielzeug einen Feuerlöscher, Verbandskasten, Rettungsring, Funkgerät und Hundenapf
 - GRANDIOSES BAUERLEBNIS: Die 3D Bauanleitungen in der LEGO Builder App bieten ein intuitives Bauabenteuer; Kinder können in der App Sets speichern, 3D Modelle vergrößern und drehen
+- GESCHENK FÜR KINDER, DIE SPIEL FAHRZEUGE LIEBEN: Dieses LEGO Minifiguren Set ist ein beliebtes Geschenk für Jungen und Mädchen ab 7 Jahren, die Konstruktionspielzeug und spannende Rettungseinsätze lieben
+- SPIELSET MIT VIEL ZUBEHÖR: Das LEGO Set enthält ein großes, schwimmfähiges Rettungsboot mit mehreren Decks, einen Hubschrauber, zwei Schlauchboote, fünf Minifiguren und eine Hundefigur für viele kreative Spielmöglichkeiten
+- RETTUNGSBOOT SPIELZEUG FÜR KINDER AB 7 JAHREN: Dieses LEGO City Rettungsboot der Küstenwache mit Hubschrauber und zwei Schlauchbooten lässt Kinder ab 7 Jahren in spannende Rettungseinsätze eintauchen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXF8YRH{{</world>}}

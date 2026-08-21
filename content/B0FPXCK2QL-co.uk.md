@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hogwarts Castle: Hospital Wing Toy - DIY Miniature Model Kit with 7 Minifigures incl. Hermione & Ron - Gift Idea for 9+ Year Old Girls Boys & Fans - 76463'
-date: 2026-08-19 08:13:54
+date: 2026-08-21 11:49:05
 image: 'https://m.media-amazon.com/images/I/51jpshGUhSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCK2QL/?tag=tolees0a-21'
 descuento: '35.00'
-average: '60.19'
+average: '59.7042857142857'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions while they build
 - LEGO HARRY POTTER COLLECTIBLE – This model building kit is part of a series of modular sets (sold separately) that together create the most detailed brick-built Hogwarts Castle scene to date
 - PACKED WITH DETAILS AND ACCESSORIES – Look out for the Wolf Patronus, part of a LEGO Harry Potter 25th anniversary Patronus collection (in sets sold separately), and 2 of 14 collectible Hogwarts portraits
-- A FUN WAY TO BUILD – The LEGO Builder app guides kids on an intuitive building adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions while they build
-- 7 LEGO HARRY POTTER MINIFIGURES – With Harry Potter characters Remus Lupin, Ron Weasley, a Dementor, Harry Potter, Hermione Granger, Penelope Clearwater and The Grey Lady
+- HARRY POTTER GIFT FOR KIDS – This LEGO building toy makes a magical birthday gift for 9+ year old girls, boys and older fans of the Wizarding World
 - 3-LEVEL BUILDING – Explore the Harry Potter castle toy with 3 levels, featuring the removable Defence Against the Dark Arts (DADA) classroom on the lower level, the Hospital Wing and the Ravenclaw Common Room
 - HOGWARTS CASTLE TOY – Play out Harry Potter fantasy adventures with the LEGO Harry Potter Hogwarts Castle: Hospital Wing building toy for 9+ year old boys, girls and fans
-- HARRY POTTER GIFT FOR KIDS – This LEGO building toy makes a magical birthday gift for 9+ year old girls, boys and older fans of the Wizarding World
+- 7 LEGO HARRY POTTER MINIFIGURES – With Harry Potter characters Remus Lupin, Ron Weasley, a Dementor, Harry Potter, Hermione Granger, Penelope Clearwater and The Grey Lady
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXCK2QL{{</world>}}

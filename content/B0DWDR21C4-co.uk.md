@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Disney Pixar WALL-E and EVE - Display Model Kit for Adults - Brick-Built Robots with M-O & Hal Figures - DIY Home Decor - Collectible Gift for Fans - 43279'
-date: 2026-07-23 00:58:27
+date: 2026-08-21 03:11:40
 image: 'https://m.media-amazon.com/images/I/51y9Ri9H5wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DWDR21C4/?tag=tolees0a-21'
 descuento: '31.69'
-average: '44.2254545454545'
+average: '43.7261538461538'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO ǀ Disney building set for adults – Treat yourself or any adult fan of the Disney and Pixar film to a detailed WALL-E and EVE, 811-piece building set to inspire relaxation
 - LEGO display model – WALL-E has moving wheels, M-O has a spinning brush, WALL-E, EVE and M-O have movable heads and arms and, with Hal, the group is ready for display
 - Desk decor idea – This collectible model kit for adults includes 4 iconic LEGO ǀ Disney film characters and offers a mindful build experience with advanced construction techniques to spark creativity
-- Creative Disney gift idea – This building set for adults featuring Disney and Pixar’s WALL-E animated film-inspired details, makes a great gift idea for women and men
-- Build Together with friends and family – The LEGO Builder app offers a fun and collaborative experience that lets you share the joy and satisfaction of LEGO building and creativity with others
+- LEGO ǀ Disney building set for adults – Treat yourself or any adult fan of the Disney and Pixar film to a detailed WALL-E and EVE, 811-piece building set to inspire relaxation
 - LEGO building sets for adults – This LEGO ǀ Disney character collectible set offers adult fans a relaxing, joy-filled building experience that results in a display-worthy model
+- Build Together with friends and family – The LEGO Builder app offers a fun and collaborative experience that lets you share the joy and satisfaction of LEGO building and creativity with others
+- Creative Disney gift idea – This building set for adults featuring Disney and Pixar’s WALL-E animated film-inspired details, makes a great gift idea for women and men
 - LEGO ǀ Disney characters – This immersive construction set features 4 Disney and Pixar’s WALL-E characters: WALL-E, EVE, M-O and Hal, making it a creative choice for home or office decor
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- JUEGO DE ROL: Los peques imaginan aventuras en la costa mientras transportan a las minifiguras por la playa, con muelle, carrito de los helados, zona de pesca y 5 figuras de animales
-- GUÍA DIGITAL INTERACTIVA: La app LEGO Builder guiará a los niños en un intuitivo viaje en el que podrán acercar y girar versiones 3D de sus modelos y consultar su progreso a medida que construyen
-- TRANVÍA DE JUGUETE: Regala a tu peque infinitas emociones sobre raíles con el kit de construcción LEGO City Tranvía Clásico de la Costa de juguete para niños y niñas a partir de 7 años entusiastas de los trenes
 - DETALLADAS CARACTERÍSTICAS: Los niños se divertirán creando un tranvía tradicional con escalones de acceso, bancos, barras verticales para agarrarse y techo desmontable para colocar minifiguras en el interior
+- TRANVÍA DE JUGUETE: Regala a tu peque infinitas emociones sobre raíles con el kit de construcción LEGO City Tranvía Clásico de la Costa de juguete para niños y niñas a partir de 7 años entusiastas de los trenes
 - MÁS AVENTURAS LEGO CITY POR DESCUBRIR: Los peques pueden ampliar las posibilidades de juego combinando este tranvía de juguete con otros sets (a la venta por separado) de la gama LEGO City
 - IDEA DE REGALO: Este set con tranvía de juguete es un gran regalo de cumpleaños o por alguna ocasión especial para niños y niñas a partir de 7 años apasionados de los trenes
+- JUEGO DE ROL: Los peques imaginan aventuras en la costa mientras transportan a las minifiguras por la playa, con muelle, carrito de los helados, zona de pesca y 5 figuras de animales
 - ACCESORIOS PARA MINIFIGURAS LEGO: Un implante coclear para la conductora, una caña de pescar, un cubo, un salvavidas, una tabla de surf y monedas de oro (para descubrirlas enterradas en la arena)
+- GUÍA DIGITAL INTERACTIVA: La app LEGO Builder guiará a los niños en un intuitivo viaje en el que podrán acercar y girar versiones 3D de sus modelos y consultar su progreso a medida que construyen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXHJ4Z2{{</world>}}

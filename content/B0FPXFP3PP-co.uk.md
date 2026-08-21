@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75443 Star Wars Grogu s Homestead - Building Toy w/a Grogu Figure & Sorgan Frog a Catapult & Blue Macarons - Gift for 4+ Year Old Boys Girls & The Mandalorian Fans'
-date: 2026-08-19 16:48:10
+date: 2026-08-20 21:40:26
 image: 'https://m.media-amazon.com/images/I/51Xt41+bORL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFP3PP/?tag=tolees0a-21'
 descuento: '35.02'
-average: '10.9524999999999'
+average: '10.9748484848484'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BUILD AND LEARN – Give young padawans a fun first build-and-play experience with LEGO Star Wars Grogu’s Homestead toy for 4+ year old boys and girls, based on Star Wars: The Mandalorian Season 1
-- CATAPULT PLAY FEATURE – Kids can place the Sorgan frog on the catapult and launch it into the air to recreate fun moments from Star Wars: The Mandalorian
-- KIDS ROOM DECOR – Once playtime is over, Grogu’s Homestead makes a cute Star Wars decoration for a child’s bedroom, perfect for displaying on a desk, bedside table or shelf
-- FAMILY-BONDING ACTIVITY – Find step-by-step pictorial instructions in the box and check out the LEGO Builder app for digital viewing tools to make the build extra fun for kids
 - POSABLE GROGU FIGURE – Includes a movable head, arms and hands, plus 2 mini builds, a Sorgan frog, a catapult, a cooking pot, 2 tentacles, a marshmallow on a stick and 2 blue macaron elements
+- CATAPULT PLAY FEATURE – Kids can place the Sorgan frog on the catapult and launch it into the air to recreate fun moments from Star Wars: The Mandalorian
 - BUILD CREATIVITY – LEGO Star Wars 4+ sets introduce young kids to the Star Wars universe, helping them learn to build and develop their imaginations through creative play
+- BUILD AND LEARN – Give young padawans a fun first build-and-play experience with LEGO Star Wars Grogu’s Homestead toy for 4+ year old boys and girls, based on Star Wars: The Mandalorian Season 1
+- FAMILY-BONDING ACTIVITY – Find step-by-step pictorial instructions in the box and check out the LEGO Builder app for digital viewing tools to make the build extra fun for kids
+- KIDS ROOM DECOR – Once playtime is over, Grogu’s Homestead makes a cute Star Wars decoration for a child’s bedroom, perfect for displaying on a desk, bedside table or shelf
 - STAR WARS GIFT FOR PRESCHOOL KIDS – This Star Wars: The Mandalorian building set makes a fun LEGO gift for 4+ year old boys and girls who love characters from the Star Wars galaxy
 
 [🛒 Check the deal!!]({{< param buyurl >}})

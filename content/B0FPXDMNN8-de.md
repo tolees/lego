@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App können sie Sets speichern, beim Bauen ein 3D-Modell vergrößern und drehen
-- BELIEBTES KINDER GESCHENK: Dieses kreative Bauset bietet Kindern ein fesselndes Erlebnis beim Bauen und Spielen und ist ein tolles Geschenk für Jungen und Mädchen
 - KINDERSPIELZEUG MIT MECH: Neben dem Drachen gibt es einen beweglichen Mini-Mech mit Zangenarmen und Cockpit, der für die Bösewichte geeignet ist und weiteren Actionspaß bietet
-- KOMBINIERBARE LEGO NINJAGO SPIELSETS: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
-- MODELLBAU MIT BEWEGLICHEM DRACHEN: Der große grüne Drache kann seine Flügel spreizen oder anlegen und Kopf, Kiefer, Hals, Schwanz und Klauen bewegen; im Sattel sitzt eine Minifigur für epische Flugduelle
-- SPIELZEUGDRACHE FÜR ACTIONFANS: Mit dem LEGO NINJAGO Set Der Drache des Lebens (71859) bauen Kinder ab 8 Jahren ein Modell und stellen die spannenden Szenen aus der TV-Serie NINJAGO Aufstieg der Drachen nach
 - LEGO SET MIT 8 FIGUREN: Für fantasievolle Abenteuer enthält das Spielset acht Minifiguren, darunter Drachen-Form-Lloyd, Drachen-Form-Cole, Sora, Arin, das Säuremonster, das Erdmonster, Zane und der Loyalistenanführer
+- FASZINIERENDES BAUERLEBNIS: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App können sie Sets speichern, beim Bauen ein 3D-Modell vergrößern und drehen
+- KOMBINIERBARE LEGO NINJAGO SPIELSETS: Das breite Spektrum an Spielsets lässt Kinder in eine Fantasy-Welt eintauchen, in der sie besonders fantasievoll mit ihren Ninja Helden spielen können
+- BELIEBTES KINDER GESCHENK: Dieses kreative Bauset bietet Kindern ein fesselndes Erlebnis beim Bauen und Spielen und ist ein tolles Geschenk für Jungen und Mädchen
+- SPIELZEUGDRACHE FÜR ACTIONFANS: Mit dem LEGO NINJAGO Set Der Drache des Lebens (71859) bauen Kinder ab 8 Jahren ein Modell und stellen die spannenden Szenen aus der TV-Serie NINJAGO Aufstieg der Drachen nach
+- MODELLBAU MIT BEWEGLICHEM DRACHEN: Der große grüne Drache kann seine Flügel spreizen oder anlegen und Kopf, Kiefer, Hals, Schwanz und Klauen bewegen; im Sattel sitzt eine Minifigur für epische Flugduelle
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDMNN8{{</world>}}
