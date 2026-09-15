@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- COCHE DE CARRERAS FERRARI: Construye el coche de juguete LEGO Speed Champions Ferrari 499P para niños y niñas a partir de 9 años, disfruta exponiéndolo y recrea emocionantes carreras con él
-- FIELES DETALLES: Este coche deportivo cuenta con detalles característicos de la multiganadora versión de competición real, como el alerón trasero, la toma de aire en el techo y los neumáticos con la inscripción “Michelin”
 - MODELO DE EXPOSICIÓN: Este objeto de coleccionista con el sello Ferrari LEGO es una gran decoración para la habitación del peque sobre la una estantería, escritorio o mesita de noche
+- 1 MINIFIGURA LEGO DE PILOTO: Coloca una minifigura vestida con el emblemático traje rojo al volante de este coche de juguete y vive aventuras a máxima velocidad
+- FIELES DETALLES: Este coche deportivo cuenta con detalles característicos de la multiganadora versión de competición real, como el alerón trasero, la toma de aire en el techo y los neumáticos con la inscripción “Michelin”
+- COCHE DE CARRERAS FERRARI: Construye el coche de juguete LEGO Speed Champions Ferrari 499P para niños y niñas a partir de 9 años, disfruta exponiéndolo y recrea emocionantes carreras con él
 - REGALO PARA PEQUES: Este kit de construcción ofrece una divertida experiencia de juego y es una óptima idea de regalo para niños y fans de las carreras a partir de 9 años
 - EMBLEMÁTICOS COCHES PARA JUGAR Y EXPONER: Construye con ladrillos impresionantes réplicas de coches de carreras y supercoches de la vida real o populares vehículos de videojuegos, series para televisión y películas
 - AMPLÍA LA DIVERSIÓN AL VOLANTE: Descubre más coches LEGO Speed Champions para niños (a la venta por separado) repletos de detalles de gran realismo
-- 1 MINIFIGURA LEGO DE PILOTO: Coloca una minifigura vestida con el emblemático traje rojo al volante de este coche de juguete y vive aventuras a máxima velocidad
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXGT7K7{{</world>}}

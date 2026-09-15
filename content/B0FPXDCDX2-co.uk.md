@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- FOOTBALL MODEL KIT FOR KIDS – Celebrate a football star with the LEGO Editions Kylian Mbappé – Football Highlights building toy for 10+ year old boys, girls and sports fans
-- LEGO FOOTBALL PLAYER MINIFIGURE – A Kylian Mbappé minifigure brings the scene to life and theres a collection of Easter eggs that nod to his history and career
-- BUILDABLE FOOTBALL MERCHANDISE – The base of the model forms Mbappé’s initial and the set features the number 10, the colours of the French team and a plaque displaying his stats and signature
 - A HELPING HAND – Budding football stars can access instructions digitally in the LEGO Builder app, where they can track progress and rotate their football model in 3D
-- GIFT FOR SPORTS LOVERS – The 3D display model makes a great football gift for 10+ year old boys, girls and teenage fans on birthdays or any other special occasions
-- DIY FOOTBALL DECOR – Show the display model off as a sports-themed piece of shelf or desk decor on its own or alongside other LEGO Editions Football Highlights sets, sold separately
 - LEGO EDITIONS – Show your love for more legendary sports stars with other sets in the collection, like 43011 Lionel Messi – Football Highlights Set
+- FOOTBALL MODEL KIT FOR KIDS – Celebrate a football star with the LEGO Editions Kylian Mbappé – Football Highlights building toy for 10+ year old boys, girls and sports fans
+- BUILDABLE FOOTBALL MERCHANDISE – The base of the model forms Mbappé’s initial and the set features the number 10, the colours of the French team and a plaque displaying his stats and signature
+- GIFT FOR SPORTS LOVERS – The 3D display model makes a great football gift for 10+ year old boys, girls and teenage fans on birthdays or any other special occasions
+- LEGO FOOTBALL PLAYER MINIFIGURE – A Kylian Mbappé minifigure brings the scene to life and theres a collection of Easter eggs that nod to his history and career
+- DIY FOOTBALL DECOR – Show the display model off as a sports-themed piece of shelf or desk decor on its own or alongside other LEGO Editions Football Highlights sets, sold separately
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDCDX2{{</world>}}

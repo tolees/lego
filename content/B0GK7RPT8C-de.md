@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GESCHENKIDEE FÜR GAMER UND GAMERINNEN: Dieses LEGO Set ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Pokémon-Fans ab 7 Jahren, die Videospiele, Sammlerstücke und Sammelbilder mögen
-- SPIELSPASS OHNE BILDSCHIRM: Kinder können gemeinsam auf fantasievolle Abenteuer mit dem Pokémon gehen
 - DYNAMISCHES BAUSPIELZEUG: Trainer-Buggyabenteuer mit Schiggy (72156) ist ein LEGO SMART Play kompatibles Set, das Kinder auf eine wilde Pokémon Fahrt schickt
 - FANTASIEVOLLE ABENTEUER: Das Fahrzeug hat eine Knicklenkung, ein Staufach für Wasserelemente und 2 Wasser-Shooter, damit Schiggy und der Trainer oder der Trainerin die Flammen am Grill mit dem Veggie-Burger löschen können
-- POKÉMON-REAKTIONEN: SMART Tags in Schiggy und im Buggy aktivieren SMART Bricks (nicht enthalten), die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten aufeinander reagieren lassen
 - BEWEGLICHE FIGUR: Lasse Schiggy auf dem „ferngesteuerten“ Buggy lossausen und und höre, wie viel Spaß das Pokémon auf der wilden Fahrt hat
 - SO AKTIVIERST DU DEIN SET: Mit einem LEGO SMART Brick aus einem All-in-1 Set (separat erhältlich) aktivierst du faszinierende Spielfunktionen. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
+- POKÉMON-REAKTIONEN: SMART Tags in Schiggy und im Buggy aktivieren SMART Bricks (nicht enthalten), die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten aufeinander reagieren lassen
+- SPIELSPASS OHNE BILDSCHIRM: Kinder können gemeinsam auf fantasievolle Abenteuer mit dem Pokémon gehen
+- GESCHENKIDEE FÜR GAMER UND GAMERINNEN: Dieses LEGO Set ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Pokémon-Fans ab 7 Jahren, die Videospiele, Sammlerstücke und Sammelbilder mögen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0GK7RPT8C{{</world>}}

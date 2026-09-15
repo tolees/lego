@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BAUSATZ MIT ELEFANT AUF EINER WOLKE: Der Baby-Elefant sitzt auf einer Wolke, kann seinen Kopf drehen und wird von Mond und Sternen liebevoll in Szene gesetzt
 - INDIVIDUELL GESTALTBARE LEGO DEKO: Luftballon und Windel in Rosa, Blau, Grün oder Gold lassen dich dein Tier ganz persönlich gestalten und stilvoll ausstellen
-- DIY SET MIT ZUBEHÖR: Erlebe großen Spaß beim Bauen und Ausstellen des Baby-Elefanten und verleihe dem 3D Modell mit einer Windel und einem Luftballon in diversen Farben einen ganz individuellen Touch
 - BABY GESCHENK FÜR ELTERN: Kreatives Set für Erwachsene als liebevolles Geschenk zur Geburt und schönes Andenken an Gender-Reveal- und Babypartys
 - BABY ELEFANT ZUM VERSCHENKEN: LEGO Schwebender Baby-Elefant auf Wolke ist ein liebevolles Baby Geschenk für frischgebackene Eltern
+- DIY SET MIT ZUBEHÖR: Erlebe großen Spaß beim Bauen und Ausstellen des Baby-Elefanten und verleihe dem 3D Modell mit einer Windel und einem Luftballon in diversen Farben einen ganz individuellen Touch
+- BAUSATZ MIT ELEFANT AUF EINER WOLKE: Der Baby-Elefant sitzt auf einer Wolke, kann seinen Kopf drehen und wird von Mond und Sternen liebevoll in Szene gesetzt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FFNTTDLK{{</world>}}

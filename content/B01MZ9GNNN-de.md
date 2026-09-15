@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- JAGUAR-MODELLAUTO FÜR ERWACHSENE: Das LEGO Icons Jaguar E-Type Bauset lässt dich ein für seine Innovationen berühmtes Auto erschaffen und es bietet Sportwagenfans ein lohnendes kreatives Erlebnis
-- REALISTISCHE FUNKTIONEN: Mit Reihensechszylindermotor, Stofffaltdach, funktionierendem Lenkrad, aufklappbaren Türen, Kofferraum & Motorhaube und ein 5-teiliges Werkzeugset, das sich auf Knopfdruck im Kofferraum verstauen lässt
-- NOCH MEHR SETS ZUM ENTDECKEN: Die separat erhältlichen Bausets aus der LEGO Icons Kollektion bieten Erwachsenen faszinierende kreative Projekte und lassen dich wunderbar abschalten
-- AUTHENTISCHE DETAILS: Diese detailgetreue Nachbildung stellt die windschnittige Silhouette und die eleganten Rundungen des E-Type perfekt dar, mit klassisch grüner Karosserie und Speichenfelgen
 - DIGITALE 3D-ANLEITUNG: Die Anleitung in der LEGO Builder App lässt dich eine 3D-Version deines Modells vergrößern und drehen und zeigt dir, wie weit du schon bist
 - GESCHENK FÜR AUTOFANS: Überrasche einen Erwachsenen, der Autoklassiker liebt, an seinem Geburtstag oder bei anderen besonderen Anlässen mit diesem Jaguar Modellauto
+- REALISTISCHE FUNKTIONEN: Mit Reihensechszylindermotor, Stofffaltdach, funktionierendem Lenkrad, aufklappbaren Türen, Kofferraum & Motorhaube und ein 5-teiliges Werkzeugset, das sich auf Knopfdruck im Kofferraum verstauen lässt
+- NOCH MEHR SETS ZUM ENTDECKEN: Die separat erhältlichen Bausets aus der LEGO Icons Kollektion bieten Erwachsenen faszinierende kreative Projekte und lassen dich wunderbar abschalten
+- JAGUAR-MODELLAUTO FÜR ERWACHSENE: Das LEGO Icons Jaguar E-Type Bauset lässt dich ein für seine Innovationen berühmtes Auto erschaffen und es bietet Sportwagenfans ein lohnendes kreatives Erlebnis
+- AUTHENTISCHE DETAILS: Diese detailgetreue Nachbildung stellt die windschnittige Silhouette und die eleganten Rundungen des E-Type perfekt dar, mit klassisch grüner Karosserie und Speichenfelgen
 - SPORTWAGEN ZUM SAMMELN UND AUSSTELLEN: Dieses Modellauto eignet sich als Deko für das Regal, Wohnzimmer oder den Büro Schreibtisch für Autofans
 
 [🛒 Buy it!!]({{< param buyurl >}})

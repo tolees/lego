@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- WIEDERAUFLADBARER AKKU: Der Akku kann immer wieder mithilfe eines nicht enthaltenen USB-C-Kabels aufgeladen werden, um das Spielzeugauto zu versorgen
-- ENTDECKE WEITERE SETS: Schau dir noch andere separat erhältliche LEGO Technic CONTROL+ Sets an, die Kinder faszinierende Fahrfunktionen aktivieren und spannende Aufgaben meistern lassen
 - FERNGESTEUERTES SPIELZEUGAUTO: Der LEGO Technic Batmobile Tumbler aus diesem Bauset bietet Kindern ab 12 Jahren jede Menge Superhelden Actionspaß
-- MODELLAUTO MIT DÜSENANTRIEB: Genau wie der Flitzer im Film hat auch dieser LEGO Batman Tumbler eine Booster-Funktion mit zusätzlichem Schub für die Ganovenjagd
-- GESCHENKIDEE FÜR KINDER: Dieses Batman Spielzeug ist ein beliebtes Geburtstagsgeschenk für Kinder ab 12 Jahren, die Batman und Autos lieben
+- WIEDERAUFLADBARER AKKU: Der Akku kann immer wieder mithilfe eines nicht enthaltenen USB-C-Kabels aufgeladen werden, um das Spielzeugauto zu versorgen
 - DYNAMISCHES SPIELERLEBNIS: Zu diesem Spielset gehört auch die CONTROL+ App, die Kinder den Flitzer lenken, die Lichter einschalten und bei spannenden Rennen ihr fahrerisches Können auf die Probe stellen lässt
+- GESCHENKIDEE FÜR KINDER: Dieses Batman Spielzeug ist ein beliebtes Geburtstagsgeschenk für Kinder ab 12 Jahren, die Batman und Autos lieben
+- MODELLAUTO MIT DÜSENANTRIEB: Genau wie der Flitzer im Film hat auch dieser LEGO Batman Tumbler eine Booster-Funktion mit zusätzlichem Schub für die Ganovenjagd
+- ENTDECKE WEITERE SETS: Schau dir noch andere separat erhältliche LEGO Technic CONTROL+ Sets an, die Kinder faszinierende Fahrfunktionen aktivieren und spannende Aufgaben meistern lassen
 - 3D BAUANLEITUNGEN: Entdecke die digitalen Anleitungen in der LEGO Builder App; Kinder können ihr 3D Puzzle Auto vergrößern und drehen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

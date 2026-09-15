@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- PIZZA CHEF’S PARADISE – Kids have everything they need to create realistic food-themed stories with a wood-fired oven, prep area, dining area, cash register, arcade machine and 5 LEGO minifigures
-- TOY PIZZA RESTAURANT – Serve up speedy food fun with the LEGO City Pizza Delivery Experience with Vehicles building toy for 6+ year old boys and girls who love pizza and imaginative play
-- MORE LEGO CITY ADVENTURES TO DISCOVER – Unleash even more fun when you add this restaurant playset to other models (sold separately) from the LEGO City range
-- GIFT IDEA FOR KIDS – A great anytime treat or birthday gift for 6+ year old boys and girls who love restaurant play, fast vehicles and cool building toys
 - HIGH SPEED DELIVERY VEHICLES – Reach the customer quick by pushing a lever to deploy the sports car with its built-in pizza launcher, or attach a delivery box to the drone or the back of the scooter
-- A HELPING HAND FOR BUILDERS – The LEGO Builder app takes kids on a creative journey where they can zoom in, rotate models in 3D and track and save their progress as they build
+- MORE LEGO CITY ADVENTURES TO DISCOVER – Unleash even more fun when you add this restaurant playset to other models (sold separately) from the LEGO City range
+- TOY PIZZA RESTAURANT – Serve up speedy food fun with the LEGO City Pizza Delivery Experience with Vehicles building toy for 6+ year old boys and girls who love pizza and imaginative play
 - FUN KITCHEN FUNCTIONS – Turn the dial and see the flames flicker as delicious pizzas are fed into the oven in the toy kitchen
+- PIZZA CHEF’S PARADISE – Kids have everything they need to create realistic food-themed stories with a wood-fired oven, prep area, dining area, cash register, arcade machine and 5 LEGO minifigures
+- GIFT IDEA FOR KIDS – A great anytime treat or birthday gift for 6+ year old boys and girls who love restaurant play, fast vehicles and cool building toys
+- A HELPING HAND FOR BUILDERS – The LEGO Builder app takes kids on a creative journey where they can zoom in, rotate models in 3D and track and save their progress as they build
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXF7Q9H{{</world>}}

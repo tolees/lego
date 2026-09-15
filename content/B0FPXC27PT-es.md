@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MÁS SETS LEGO CITY POR DESCUBRIR: Los peques darán rienda suelta a más diversión y aventuras en cuanto combinen el juego Aeropuerto con Avión con otros sets (a la venta por separado) de la gama LEGO City
-- FUNCIONES REALISTAS PARA EL JUEGO DE ROL: Pasa el equipaje por el escáner y la cinta transportadora, gira el detector de metales para mostrar la radiografía, cambia la pantalla de salidas y mucho más
-- REGALO PARA VIAJEROS: Con un aeropuerto para construir, un avión de juguete a escala y 9 minifiguras, este set de construcción LEGO es un regalo de cumpleaños idóneo para niños y niñas de 8 años en adelante
-- MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder ofrece una experiencia guiada y de colaboración con amigos y familiares en la que cada uno construye una parte del set usando su propio dispositivo y todos se divierten juntos en el proceso
-- ACCESORIOS PARA MINIFIGURAS: Este aeropuerto de juguete incluye accesorios como 3 maletas, 2 tarjetas de embarque, bastones de señalización, cordón con girasoles, pasaporte, periódico, mapa y cruasán
 - AVENTURAS VIAJERAS: Incluye todo lo que los niños necesitan para construir un aeropuerto de juguete, maqueta de avión, pasarela, remolcador y 9 minifiguras LEGO para el juego de rol
+- MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder ofrece una experiencia guiada y de colaboración con amigos y familiares en la que cada uno construye una parte del set usando su propio dispositivo y todos se divierten juntos en el proceso
+- REGALO PARA VIAJEROS: Con un aeropuerto para construir, un avión de juguete a escala y 9 minifiguras, este set de construcción LEGO es un regalo de cumpleaños idóneo para niños y niñas de 8 años en adelante
+- ACCESORIOS PARA MINIFIGURAS: Este aeropuerto de juguete incluye accesorios como 3 maletas, 2 tarjetas de embarque, bastones de señalización, cordón con girasoles, pasaporte, periódico, mapa y cruasán
 - JUEGO EN EL AEROPUERTO: Despega la imaginación con este set de LEGO City Aeropuerto con Avión para niños y niñas mayores de 8 años, con terminal de aeropuerto, avión de pasajeros y 9 minifiguras
+- FUNCIONES REALISTAS PARA EL JUEGO DE ROL: Pasa el equipaje por el escáner y la cinta transportadora, gira el detector de metales para mostrar la radiografía, cambia la pantalla de salidas y mucho más
+- MÁS SETS LEGO CITY POR DESCUBRIR: Los peques darán rienda suelta a más diversión y aventuras en cuanto combinen el juego Aeropuerto con Avión con otros sets (a la venta por separado) de la gama LEGO City
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXC27PT{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- SPIELZEUG FÜR JEDE MENGE SPIELSPASS: Glumandas und Kleinsteins Höhlenduell (72157) ist ein LEGO SMART Play kompatibles Set, das Kinder Felsen werfen und zertrümmern lässt
-- FANTASIEVOLLES ABENTEUER: Begib dich als Pokémon Trainer oder Trainerin auf dein erstes Abenteuer. Spalte Felsen auf der Suche nach dem verborgenen Kristall und weiche einem Angriff von Kleinstein aus
-- 2 FIGUREN: Erkunde mit Glumanda eine Höhle und entdecke Kleinstein, der herumwirbelt, mit Felsen wirft und Scheiben schleudert. Bei diesem Showdown reagieren die beiden Figuren mit SMART Play Sound- und Lichteffekten
 - SPIELSPASS OHNE BILDSCHIRM: Kinder können sich gemeinsam in spannende Abenteuer stürzen und jede Menge Spielspaß mit dem feurigen Glumanda und dem kampflustigen Kleinstein erleben
-- POKÉMON GESCHENKIDEE: Dieses Spielset zum Sammeln ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 6 Jahren und lässt Fans aufregende Duelle nachspielen
-- POKÉMON-REAKTIONEN: SMART Tags in den beiden Pokémon aktivieren SMART Bricks (nicht enthalten), die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten aufeinander reagieren lassen
 - SO AKTIVIERST DU DEIN SET: Mit einem LEGO SMART Brick aus einem All-in-1 Set (separat erhältlich) aktivierst du faszinierende Spielfunktionen. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
+- FANTASIEVOLLES ABENTEUER: Begib dich als Pokémon Trainer oder Trainerin auf dein erstes Abenteuer. Spalte Felsen auf der Suche nach dem verborgenen Kristall und weiche einem Angriff von Kleinstein aus
+- SPIELZEUG FÜR JEDE MENGE SPIELSPASS: Glumandas und Kleinsteins Höhlenduell (72157) ist ein LEGO SMART Play kompatibles Set, das Kinder Felsen werfen und zertrümmern lässt
+- POKÉMON-REAKTIONEN: SMART Tags in den beiden Pokémon aktivieren SMART Bricks (nicht enthalten), die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten aufeinander reagieren lassen
+- 2 FIGUREN: Erkunde mit Glumanda eine Höhle und entdecke Kleinstein, der herumwirbelt, mit Felsen wirft und Scheiben schleudert. Bei diesem Showdown reagieren die beiden Figuren mit SMART Play Sound- und Lichteffekten
+- POKÉMON GESCHENKIDEE: Dieses Spielset zum Sammeln ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 6 Jahren und lässt Fans aufregende Duelle nachspielen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0GK7JZF5F{{</world>}}

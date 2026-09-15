@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ERWEITERE DEINEN GARTEN MIT KÜNSTLICHEN PFLANZEN: Such dir dein nächstes Projekt aus den LEGO Botanicals Sets aus, in dieser Kollektion sind unter anderem farbenfrohe Blumensträuße und Topfpflanzen separat erhältlich
-- HOL DIR EIN STÜCK NATUR INS ZIMMER: Dieses authentisch nachgebildete Stück Waldboden mit Kunstpflanzen ist eine besondere Deko für Wohnzimmer oder Büro
-- SPANNENDES BASTELSET: Die LEGO Builder App lässt dich deine Modelle mithilfe von 3D Bauanleitungen zusammenstecken, all deine Sets in der App speichern und verfolgen, wie weit du mit deinem Modell schon bist
-- GESCHENKIDEE FÜR FRAUEN & MÄNNER: Dieses LEGO Set für Erwachsene ist eine Geschenkidee für Naturfans, ob zum Geburtstag, bei einer Wohnungseinweihung, am Valentinstag oder zum Muttertag
-- MODELLBAU FÜR FRAUEN & MÄNNER: LEGO Botanicals Waldpilze ist ein Bauset, das Erwachsene kreativ werden lässt und eine faszinierende DIY Deko entstehen lässt
-- 3D PUZZLE MIT LEGO PILZE: Freu dich auf ein fesselndes Bauprojekt und erschaffe ein Modell mit Fliegenpilzen in der Mitte, die von einem Rübenfüßigen, Risspilz, Wetterstern, Pfifferling, Helmling und einem Austernpilz umsäumt werden
 - BAUSETS MIT KUNSTBLUMEN UND VIELEN DETAILS: Farnkraut und 2 violette Herbstzeitlose bilden den Rahmen für das 3D Modell und stellen das Leben am Waldboden authentisch dar
+- ERWEITERE DEINEN GARTEN MIT KÜNSTLICHEN PFLANZEN: Such dir dein nächstes Projekt aus den LEGO Botanicals Sets aus, in dieser Kollektion sind unter anderem farbenfrohe Blumensträuße und Topfpflanzen separat erhältlich
+- SPANNENDES BASTELSET: Die LEGO Builder App lässt dich deine Modelle mithilfe von 3D Bauanleitungen zusammenstecken, all deine Sets in der App speichern und verfolgen, wie weit du mit deinem Modell schon bist
+- HOL DIR EIN STÜCK NATUR INS ZIMMER: Dieses authentisch nachgebildete Stück Waldboden mit Kunstpflanzen ist eine besondere Deko für Wohnzimmer oder Büro
+- 3D PUZZLE MIT LEGO PILZE: Freu dich auf ein fesselndes Bauprojekt und erschaffe ein Modell mit Fliegenpilzen in der Mitte, die von einem Rübenfüßigen, Risspilz, Wetterstern, Pfifferling, Helmling und einem Austernpilz umsäumt werden
+- MODELLBAU FÜR FRAUEN & MÄNNER: LEGO Botanicals Waldpilze ist ein Bauset, das Erwachsene kreativ werden lässt und eine faszinierende DIY Deko entstehen lässt
+- GESCHENKIDEE FÜR FRAUEN & MÄNNER: Dieses LEGO Set für Erwachsene ist eine Geschenkidee für Naturfans, ob zum Geburtstag, bei einer Wohnungseinweihung, am Valentinstag oder zum Muttertag
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXH5T6S{{</world>}}

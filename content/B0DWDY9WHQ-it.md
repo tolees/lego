@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3 in 1 Villa Spettrale - Casa Giocattolo Interattiva che si Trasforma in Nave Fantasma o in Treno - Include 5 Minifigure - Regalo Creativo per Bambini e Bambine da 9 Anni in su - 31167'
-date: 2026-09-10 07:10:34
+date: 2026-09-13 10:07:51
 image: 'https://m.media-amazon.com/images/I/51ko5oqTPPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDY9WHQ/?tag=tolees00-21'
 descuento: '23.89'
-average: '68.2945000000001'
+average: '68.3038095238096'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

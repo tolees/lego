@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A gift for kids – This LEGO Technic set makes a great kids bedroom decoration and a fun birthday gift for 10-plus-year-old boys, girls and kids who love race car toys and Porsche gifts
 - Introduction to engineering – LEGO Technic sets feature realistic movement and mechanisms to introduce young builders to the universe of engineering
-- A helping hand – Discover instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets
-- Remote control car – This car toy set comes with the CONTROL+ app where kids can operate the steering, control the lights and see live data feedback
-- Includes a rechargeable battery – This LEGO vehicle set comes with a rechargeable toy battery to power the remote-controlled Porsche toy car
 - Porsche toy car for kids – Boys and girls aged 10+ can get creative with the remote-controlled LEGO Technic Porsche GT4 e-Performance racing car toy
+- A helping hand – Discover instructions in the LEGO Builder app where builders can zoom in and rotate models in 3D, track their progress and save sets
+- Includes a rechargeable battery – This LEGO vehicle set comes with a rechargeable toy battery to power the remote-controlled Porsche toy car
+- Remote control car – This car toy set comes with the CONTROL+ app where kids can operate the steering, control the lights and see live data feedback
 - Features and functions – Kids can steer forwards and backwards with the model car, then check out the opening doors and working lights
+- A gift for kids – This LEGO Technic set makes a great kids bedroom decoration and a fun birthday gift for 10-plus-year-old boys, girls and kids who love race car toys and Porsche gifts
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CWH44JKC{{</world>}}

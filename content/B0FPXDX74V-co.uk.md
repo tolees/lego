@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - ENHANCED, INTERACTIVE FUN – The LEGO Builder app guides kids on a digital building adventure that lets them zoom in and rotate sets using 3D instructions, as well as save and track their progress
-- 4 LEGO HARRY POTTER MINIFIGURES – Role-play the Sorting Hat ceremony with Professor McGonagall, Harry Potter, Hermione Granger and Draco Malfoy, each with a wand accessory
 - SORTING WHEEL – Includes a sorting wheel to spin, and a Sorting Hat that can be placed on each student to discover whether they will join the Slytherin, Ravenclaw, Hufflepuff or Gryffindor house
+- LEGO HARRY POTTER COLLECTIBLE – This adventure toy is part of a series of modular sets (sold separately) that together create the most detailed brick-built Hogwarts Castle scene to date
 - MORE PLAYFUL DETAILS – Create stories with the Cat Patronus, part of a LEGO Harry Potter 25th anniversary Patronus collection (in sets sold separately), a food-laden table, and a house points counter
 - HOGWARTS CASTLE TOY FOR KIDS – Recreate the Hogwarts Castle: Sorting Hat Ceremony from Harry Potter and the Philosopher’s Stone with this 25th anniversary LEGO Harry Potter toy for 7+ year old girls and boys
-- LEGO HARRY POTTER COLLECTIBLE – This adventure toy is part of a series of modular sets (sold separately) that together create the most detailed brick-built Hogwarts Castle scene to date
 - HARRY POTTER GIFT FOR KIDS – This LEGO Harry Potter building toy for kids makes a magical birthday gift for 7+ year old girls, boys and older Harry Potter fans
+- 4 LEGO HARRY POTTER MINIFIGURES – Role-play the Sorting Hat ceremony with Professor McGonagall, Harry Potter, Hermione Granger and Draco Malfoy, each with a wand accessory
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDX74V{{</world>}}

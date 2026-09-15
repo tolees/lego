@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GIFT IDEAS FOR KIDS – With a buildable airport, model plane and 9 minifigures, this LEGO building set makes a great birthday gift for 8+ year old boys and girls
-- MINIFIGURE ACCESSORIES – This airport toy comes with accessories, including 3 suitcases, 2 boarding passes, marshalling wands, a sunflower lanyard, passport, newspaper, map and croissant
-- MORE LEGO CITY SETS TO DISCOVER – Kids can unleash more fun and adventures when they add this model airport with airplane playset to other sets (sold separately) from the LEGO City range
 - BUILD TOGETHER MODE – The LEGO Builder app offers a guided, collaborative experience with friends and family where everyone has fun building part of the set using their own devices
-- AIRPORT PLAYSET – Play will take flight with this Build Together LEGO City Airport with Airplane toy for 8+ year old boys and girls, including an airport terminal, passenger plane and 9 minifigures
 - REALISTIC FUNCTIONS FOR PRETEND PLAY – Pass luggage through the toy scanner and the carousel, rotate the walk-through metal detector to display an X-ray skeleton, change the departure display and more
+- MINIFIGURE ACCESSORIES – This airport toy comes with accessories, including 3 suitcases, 2 boarding passes, marshalling wands, a sunflower lanyard, passport, newspaper, map and croissant
+- GIFT IDEAS FOR KIDS – With a buildable airport, model plane and 9 minifigures, this LEGO building set makes a great birthday gift for 8+ year old boys and girls
+- MORE LEGO CITY SETS TO DISCOVER – Kids can unleash more fun and adventures when they add this model airport with airplane playset to other sets (sold separately) from the LEGO City range
+- AIRPORT PLAYSET – Play will take flight with this Build Together LEGO City Airport with Airplane toy for 8+ year old boys and girls, including an airport terminal, passenger plane and 9 minifigures
 - TRAVEL ADVENTURES FOR KIDS – Includes everything children need to build a toy airport, model airplane, jet bridge and airport tug, plus 9 LEGO minifigures for imaginative play
 
 [🛒 Check the deal!!]({{< param buyurl >}})

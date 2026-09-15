@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DINOSAUR DESIGN DETAILS – Check out the cool dinosaur livery and celebrate a fan favourite in the world of endurance racing with this T. rex-inspired car model building kit
-- RACE CAR TOY FOR KIDS – Fuel the fun for kids and teens with this LEGO Technic Porsche 911 GT3 R REXY AO Racing Car toy for 11+ year old boys and girls
-- REALISTIC FUNCTIONS – This model car includes steering, independent suspension on all 4 wheels, differential, 6-cylinder boxer engine, opening doors and boot and synchronised air jacks
+- PLAY AND DISPLAY – Kids can enjoy a rewarding project assembling all the details of this building set, then play with their Porsche model before placing it on display until next time
 - DIGITAL GUIDE – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress and zoom in and rotate models using 3D instructions as they build
 - GIFT FOR CAR LOVERS – This LEGO Technic set makes a fun anytime treat or birthday gift for 11+ year old boys, girls and teenage motorsport fans
-- PLAY AND DISPLAY – Kids can enjoy a rewarding project assembling all the details of this building set, then play with their Porsche model before placing it on display until next time
+- RACE CAR TOY FOR KIDS – Fuel the fun for kids and teens with this LEGO Technic Porsche 911 GT3 R REXY AO Racing Car toy for 11+ year old boys and girls
+- REALISTIC FUNCTIONS – This model car includes steering, independent suspension on all 4 wheels, differential, 6-cylinder boxer engine, opening doors and boot and synchronised air jacks
+- DINOSAUR DESIGN DETAILS – Check out the cool dinosaur livery and celebrate a fan favourite in the world of endurance racing with this T. rex-inspired car model building kit
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXFZXC2{{</world>}}

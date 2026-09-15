@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BAUSPIELZEUG FÜR ACTIONDUELLE: Nachtaras und Knakracks Duell um die Meisterschaft (72165) ist ein LEGO SMART Play kompatibles Set, das aus Pokémon-Trainern echte Champs macht
-- POKÉMON REAKTIONEN: SMART Tags in Nachtara und Knakrack aktivieren nicht enthaltene SMART Bricks, die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten reagieren lassen
+- GESCHENKIDEE FÜR KINDER: Dieses Sammlerset mit 2 spektakulären Pokémon Figuren ist das perfekte Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 10 Jahren
 - SO AKTIVIERST DU DEIN SET: Füge einen LEGO SMART Brick aus einem separat erhältlichen All-in-1 Set hinzu, um faszinierende Spielfunktionen zu aktivieren. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
+- POKÉMON REAKTIONEN: SMART Tags in Nachtara und Knakrack aktivieren nicht enthaltene SMART Bricks, die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten reagieren lassen
+- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können zusammen mit anderen fantasievoll spielen und spannende Duelle austragen
 - VIDEOSPIELABENTEUER IN DER ECHTEN WELT: Kinder können packende Actionszenen darstellen und die Pokémon Duelle um den Siegerpokal austragen lassen
 - 2 POKÉMON FIGUREN: Die detailreichen und besonders beweglichen Figuren bieten unzählige Spielmöglichkeiten. Außerdem können sich Fans auf coole SMART Play Interaktionen bei den Duellen zwischen Nachtara und Knakrack freuen
-- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können zusammen mit anderen fantasievoll spielen und spannende Duelle austragen
-- GESCHENKIDEE FÜR KINDER: Dieses Sammlerset mit 2 spektakulären Pokémon Figuren ist das perfekte Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 10 Jahren
+- BAUSPIELZEUG FÜR ACTIONDUELLE: Nachtaras und Knakracks Duell um die Meisterschaft (72165) ist ein LEGO SMART Play kompatibles Set, das aus Pokémon-Trainern echte Champs macht
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0GK7C1S46{{</world>}}

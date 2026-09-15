@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- PERSONAJES ICÓNICOS: Interpreta historias de aventuras con minifiguras de Harry Potter y Sirius Black, 2 figuras de Dementores y un Patronus ciervo coleccionable creado para el 25.º aniversario de LEGO Harry Potter
-- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los niños a través de una intuitiva aventura creativa en la que podrán acercar y girar sus modelos siguiendo instrucciones 3D mientras construyen, consultar su progreso y guardar sets
-- REGALO DE HARRY POTTER: Este juguete de construcción es un mágico regalo de cumpleaños para niños, niñas y entusiastas de Harry Potter a partir de 7 años
 - KIT DE MAQUETAS PERSONALIZABLE: Ajusta las ramas de los árboles, pon a las figuras de Harry y Sirius o el Patronus ciervo en el centro de la escena y coloca a los Dementores en diferentes posturas
 - PARTE DE UNA AMPLIA GAMA: Los sets LEGO Harry Potter coleccionables (a la venta por separado) ofrecen a los fans la oportunidad de interpretar clásicas escenas, crear sus propias historias o, simplemente, exponer los detallados modelos
-- JUEGO DE ROL DE FANTASÍA: Recrea la escena del bosque en la que Harry lanza el encantamiento Expecto Patronum para invocar a su Patronus ciervo, ahuyentar a los Dementores, y salvarse a sí mismo y a Sirius Black
+- PERSONAJES ICÓNICOS: Interpreta historias de aventuras con minifiguras de Harry Potter y Sirius Black, 2 figuras de Dementores y un Patronus ciervo coleccionable creado para el 25.º aniversario de LEGO Harry Potter
+- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los niños a través de una intuitiva aventura creativa en la que podrán acercar y girar sus modelos siguiendo instrucciones 3D mientras construyen, consultar su progreso y guardar sets
 - JUGUETE DE HARRY POTTER: Revive hechizantes aventuras de Harry Potter y el prisionero de Azkabán con el set LEGO Harry Potter Bosque Prohibido: Expecto Patronum para niños y niñas a partir de 7 años
+- JUEGO DE ROL DE FANTASÍA: Recrea la escena del bosque en la que Harry lanza el encantamiento Expecto Patronum para invocar a su Patronus ciervo, ahuyentar a los Dementores, y salvarse a sí mismo y a Sirius Black
+- REGALO DE HARRY POTTER: Este juguete de construcción es un mágico regalo de cumpleaños para niños, niñas y entusiastas de Harry Potter a partir de 7 años
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXG7VZ1{{</world>}}

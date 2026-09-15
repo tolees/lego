@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SCHIFFSMODELL FÜR ROLLENSPIELE: Das detailgetreue Marineschlachtschiff begeistert mit Hundegalionsfigur, fünf Foliensegeln, Flagge und Banner sowie einem aufklappbaren Deck mit Kartenraum und Garps Büro
-- GESCHENK FÜR KINDER: Dieser coole Fanartikel zur Netflix-Serie ist eine schöne Geschenkidee zum Geburtstag und begeistert Jungen und Mädchen ab 9 Jahren mit spannenden Abenteuern
-- ONE PIECE FANARTIKEL ZUM SAMMELN: Junge Fans können die vertrauten Charaktere in spannende Abenteuer an exotischen Schauplätzen schicken
-- KONSTRUKTIONSSPIELZEUG MIT ZUBEHÖR: Ausrüstung, Schriftrollen und Navigationsgeräte auf dem Schiff sowie Bücher, Brillen, eine Telefonzelle auf dem Markt und 5 Geheimakten laden zum Spielen ein
-- SPIELZEUG SCHLACHTSCHIFF: LEGO ONE PIECE Garps Marineschlachtschiff lädt dazu ein, die Segel zu setzen und die Strohhut-Piraten zu neuen Abenteuern an Land zu begleiten basierend auf der Netflix-Serie ONE PIECE
-- FESSELNDES BAUERLEBNIS: Die 3D-Bauanleitungen in der LEGO Builder App ermöglichen ein intuitives Bauabenteuer, bei dem Kinder Sets speichern, Modelle vergrößern und drehen und ihren Baufortschritt verfolgen
 - 8 LEGO MINIFIGUREN: Begleite Zorro, Lysop, Miss All Sunday, Nami, Tashigi, Helmeppo, Vizeadmiral Garp und Corby zu Actionabenteuern auf See und an Land; auf dem Markt herrscht reges Treiben
+- ONE PIECE FANARTIKEL ZUM SAMMELN: Junge Fans können die vertrauten Charaktere in spannende Abenteuer an exotischen Schauplätzen schicken
+- SPIELZEUG SCHLACHTSCHIFF: LEGO ONE PIECE Garps Marineschlachtschiff lädt dazu ein, die Segel zu setzen und die Strohhut-Piraten zu neuen Abenteuern an Land zu begleiten basierend auf der Netflix-Serie ONE PIECE
+- KONSTRUKTIONSSPIELZEUG MIT ZUBEHÖR: Ausrüstung, Schriftrollen und Navigationsgeräte auf dem Schiff sowie Bücher, Brillen, eine Telefonzelle auf dem Markt und 5 Geheimakten laden zum Spielen ein
+- GESCHENK FÜR KINDER: Dieser coole Fanartikel zur Netflix-Serie ist eine schöne Geschenkidee zum Geburtstag und begeistert Jungen und Mädchen ab 9 Jahren mit spannenden Abenteuern
+- SCHIFFSMODELL FÜR ROLLENSPIELE: Das detailgetreue Marineschlachtschiff begeistert mit Hundegalionsfigur, fünf Foliensegeln, Flagge und Banner sowie einem aufklappbaren Deck mit Kartenraum und Garps Büro
+- FESSELNDES BAUERLEBNIS: Die 3D-Bauanleitungen in der LEGO Builder App ermöglichen ein intuitives Bauabenteuer, bei dem Kinder Sets speichern, Modelle vergrößern und drehen und ihren Baufortschritt verfolgen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0GGSFQR8L{{</world>}}

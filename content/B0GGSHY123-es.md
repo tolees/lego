@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - DETALLES EMBLEMÁTICOS PARA FANS DEL MOTOR: Este modelo de coche de F1 coleccionable a escala 1:8 cuenta con motor V6, dirección, suspensión delantera y trasera, diferencial funcional, caja de cambios y alerón
 - COCHE A ESCALA COLECCIONABLE: Este kit de construcción es un complemento idóneo para cualquier colección de objetos de Fórmula 1 y se puede exponer como decoración en una estantería, un escritorio o una mesa
-- COLECCIONA TUS MODELOS: Con la app LEGO Builder, puedes crear tus modelos siguiendo instrucciones 3D, consultar tu progreso y guardar todos tus sets
-- DESCUBRE MÁS SETS: Encuentra más inspiración en la gama LEGO Technic (a la venta por separado), compuesta por vehículos con características y funciones realistas para adultos que disfrutan sumergiéndose en proyectos detallados
-- IDEA DE REGALO DEL MUNDO DE LA F1: Una divertida idea de regalo para hombres y mujeres fans de Aston Martin Aramco y adultos a los que les encante construir detalladas maquetas de coches de carrera
 - MAQUETA DE COCHE LEGO ASTON MARTIN: Admira la caja de cambios de 2 velocidades y activa el DRS, que eleva el alerón al meter la marcha larga
+- DESCUBRE MÁS SETS: Encuentra más inspiración en la gama LEGO Technic (a la venta por separado), compuesta por vehículos con características y funciones realistas para adultos que disfrutan sumergiéndose en proyectos detallados
+- COLECCIONA TUS MODELOS: Con la app LEGO Builder, puedes crear tus modelos siguiendo instrucciones 3D, consultar tu progreso y guardar todos tus sets
+- IDEA DE REGALO DEL MUNDO DE LA F1: Una divertida idea de regalo para hombres y mujeres fans de Aston Martin Aramco y adultos a los que les encante construir detalladas maquetas de coches de carrera
 - MERCHANDISING DE F1: Enfréntate a un gratificante desafío y amplía tu colección de automovilismo con el kit de maquetas para adultos LEGO Technic Coche de F1 Aston Martin Aramco AMR25
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 3 SPIELZEUG FAHRZEUGE: Das Bauset beinhaltet neben Rettungsflugzeug, dem Luftkissenboot der Küstenwache und dem Wartungsfahrzeug auch 3 LEGO Minifiguren, die Mitglieder des Rettungsdienstes, Küstenwache und Bergwacht sind
 - GESCHENK FÜR KINDER: Ob zum Geburtstag oder einfach so zwischendurch – dieses vielseitige Fahrzeugset ist ein beliebtes Geschenk für Jungen und Mädchen, die gerne bauen
 - VIEL ZUBEHÖR FÜR ROLLENSPIELE: Ein Rettungsring, ein Schraubenschlüssel und ein Arztset sorgen für realistische Details und erweitern die Möglichkeiten beim kreativen Spielen
-- 3 SPIELZEUG FAHRZEUGE: Das Bauset beinhaltet neben Rettungsflugzeug, dem Luftkissenboot der Küstenwache und dem Wartungsfahrzeug auch 3 LEGO Minifiguren, die Mitglieder des Rettungsdienstes, Küstenwache und Bergwacht sind
 - 3 RETTUNGSFAHRZEUGE IN 1 SET: Das LEGO City Set mit Flugzeug, Wartungsfahrzeug und Luftkissenboot beinhaltet 3 vielseitig kombinierbare Modelle, die Kinder ab 7 Jahren für viele Rollenspiele benutzen können
 - DIGITALES BAUABENTEUER MIT DER LEGO BUILDER APP: Die kostenlose LEGO Builder App begleitet Kinder durch den Bauprozess und bietet interaktive 3D-Anleitungen zum Drehen und Zoomen
 - NOCH MEHR ABENTEUER IN LEGO CITY: Dieses LEGO Minifiguren Set lässt sich mit weiteren separat erhältlichen City Sets kombinieren und lädt zu noch größeren Einsätzen und fantasievollen Geschichten ein

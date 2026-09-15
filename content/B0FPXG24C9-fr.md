@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- INSTRUCTIONS DE MONTAGE EN 3D – Plongez dans la construction avec l’application LEGO Builder qui vous permet d’enregistrer vos sets, de suivre votre progression, de zoomer et de faire pivoter vos modèles en 3D
-- UN PODCAST À ÉCOUTER – Scannez le code QR dans le livret dinstructions pour écouter un conservateur du Metropolitan Museum of Art sur Claude Monet et ce qui a inspiré ses œuvres
 - DÉCORATION INTÉRIEURE RAFFINÉE – Plongez dans une construction amusante qui utilise de manière créative des éléments LEGO, dont des papillons, des cerises, des bananes, des épées et des boucliers, pour recréer lœuvre de Monet
+- INSTRUCTIONS DE MONTAGE EN 3D – Plongez dans la construction avec l’application LEGO Builder qui vous permet d’enregistrer vos sets, de suivre votre progression, de zoomer et de faire pivoter vos modèles en 3D
+- SET DE CONSTRUCTION POUR ADULTE INSPIRÉ DE CLAUDE MONET – Créez votre propre tableau impressioniste avec le set détaillé et coloré Claude Monet : le bassin aux nymphéas, harmonie verte
+- UN PODCAST À ÉCOUTER – Scannez le code QR dans le livret dinstructions pour écouter un conservateur du Metropolitan Museum of Art sur Claude Monet et ce qui a inspiré ses œuvres
 - CADEAU ORIGINAL POUR ADULTE – Ce set LEGO qui apportera de lapaisement à votre maison est un superbe cadeau danniversaire pour un.e adulte passionné.e dart et de loisirs créatifs
 - HOMMAGE À UN CHEF-D’OEUVRE – Ce tableau LEGO a été créé en collaboration avec le Metropolitan Museum of Art de New York, où est exposée la peinture à l’huile originale du peintre
 - UNE ÉLÉGANTE DÉCORATION POUR LA MAISON – Cette version en briques du tableau des Nymphéas intègre un système de suspension au dos pour lexposer et ajouter une touche de couleur, de nature et de sérénité à votre intérieur
-- SET DE CONSTRUCTION POUR ADULTE INSPIRÉ DE CLAUDE MONET – Créez votre propre tableau impressioniste avec le set détaillé et coloré Claude Monet : le bassin aux nymphéas, harmonie verte
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXG24C9{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- PINK LEGO FLOWERS – The larger LEGO cactus features a pink artificial flower with a yellow centre on the top, while the smaller cactus features small pink buds
 - SUCCULENT PLANT DECOR – The building set includes a pastel blue plant pot, making it a realistic home decor piece to display on a desk or shelf once completed
 - A HELPING HAND – Digital instructions for this artificial plant set are available in the LEGO Builder app, where budding florists can save sets and track their progress
 - NATURE GIFT FOR 9+ YEAR OLD GIRLS AND BOYS – This LEGO cactus craft kit makes a great birthday gift for kids, as well as a fun present for adult plant lovers
-- BUILD 2 ARTIFICIAL PLANTS – Budding gardeners can build 2 LEGO cacti: a larger cactus in full bloom and a smaller cactus with buds in various stages
+- PINK LEGO FLOWERS – The larger LEGO cactus features a pink artificial flower with a yellow centre on the top, while the smaller cactus features small pink buds
 - BOTANICAL COLLECTION – Build more blooms with other sets (sold separately) from the LEGO Botanicals range, including roses, bonsai trees, potted plants and more
+- BUILD 2 ARTIFICIAL PLANTS – Budding gardeners can build 2 LEGO cacti: a larger cactus in full bloom and a smaller cactus with buds in various stages
 - CACTUS TOY IN BLOOM – Delight kids and adult nature lovers with this LEGO Botanicals Flowering Cactus building toy for 9+ year old girls and boys
 
 [🛒 Buy it!!]({{< param buyurl >}})

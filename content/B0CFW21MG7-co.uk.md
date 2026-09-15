@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - LEGO Harry Potter car toy – Give kids a magical introduction to the Wizarding World with this buildable model of the Weasleys’ Flying Ford Anglia car
-- Fun building toy – Kids can recreate the iconic Harry Potter and the Chamber of Secrets scene where Harry and Ron fly the car to Hogwarts
-- High-quality gift idea for fans – This building set makes a fun everyday treat or Harry Potter-themed birthday gift for 7+ year old boys, girls and kids who are discovering the magic of the Wizarding World
-- Harry Potter car toy – The LEGO vehicle features seats for the 2 LEGO Harry Potter minifigures and space behind for the Hedwig owl figure
 - Fun combos – This LEGO Harry Potter car toy can be mixed with models from other LEGO Harry Potter building sets (sold separately) for extra play possibilities
 - Featuring 4 LEGO Harry Potter characters – Harry Potter and Ron Weasley minifigures, Hedwig and Scabbers figures, plus a suitcase and 2 wand elements
+- Fun building toy – Kids can recreate the iconic Harry Potter and the Chamber of Secrets scene where Harry and Ron fly the car to Hogwarts
+- Harry Potter car toy – The LEGO vehicle features seats for the 2 LEGO Harry Potter minifigures and space behind for the Hedwig owl figure
+- High-quality gift idea for fans – This building set makes a fun everyday treat or Harry Potter-themed birthday gift for 7+ year old boys, girls and kids who are discovering the magic of the Wizarding World
 - Storage space – Model car also features opening doors, a removable roof and an opening boot with room inside for the suitcase, wands and Scabbers
 
 [🛒 Buy it!!]({{< param buyurl >}})

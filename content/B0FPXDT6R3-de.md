@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 4 MINI PUPPEN UND 2 TIERFIGUREN: Enthält kleine Puppen Liann, Michelle, Paisley und Nova sowie die LEGO Tierfiguren Gecko und Axolotl mit eigenen Terrarien und Futter
-- PUPPENHAUS ZUBEHÖR: Das Familienhaus ist voller Details, die Lianns Interessen und Familienleben zeigen, inkl. Kunstmaterialien, Skateboards, Essstäbchen, Nudelschachteln, Sojasauce, Milch, Orangensaft
-- PUPPENHAUS SPIELZEUG: Lade Kinder zum Spielen im LEGO Friends Lianns Familienhaus Spielzeug für Mädchen und Jungen ab 7 Jahren ein, das 4 Mini Puppen und 2 Tierfiguren für fantasievolle Rollenspiele enthält
-- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
 - VIEL ZU ERKUNDEN: Das zweistöckige Haus enthält eine Küche, ein Wohnzimmer, ein Schlafzimmer, einen Balkon und einen Garten sowie einen Skatepark für Tricks und ein Wandbild
-- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- PUPPENHAUS ZUBEHÖR: Das Familienhaus ist voller Details, die Lianns Interessen und Familienleben zeigen, inkl. Kunstmaterialien, Skateboards, Essstäbchen, Nudelschachteln, Sojasauce, Milch, Orangensaft
+- 4 MINI PUPPEN UND 2 TIERFIGUREN: Enthält kleine Puppen Liann, Michelle, Paisley und Nova sowie die LEGO Tierfiguren Gecko und Axolotl mit eigenen Terrarien und Futter
 - KINDER GEBURTSTAGSGESCHENK: Dieses Bauset ist ein beliebtes Geschenk für Mädchen und Jungen ab 5 Jahren, die fantasievolles Spielen mit Familie und Freunden lieben
+- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
+- PUPPENHAUS SPIELZEUG: Lade Kinder zum Spielen im LEGO Friends Lianns Familienhaus Spielzeug für Mädchen und Jungen ab 7 Jahren ein, das 4 Mini Puppen und 2 Tierfiguren für fantasievolle Rollenspiele enthält
+- ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDT6R3{{</world>}}

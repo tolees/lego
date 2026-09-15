@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- KREATIVES BAU-ERLEBNIS: Erlebe beim Bauen eine entspannte Auszeit und hole dir ein Stück der weit entfernten Galaxis als würdiges Sammlerstück nach Hause
-- GESCHENK FÜR STAR WARS FANS: Ein schönes Geschenk für Männer und Frauen, die Raumschiffmodelle lieben und eine Leidenschaft für die Ära der Republik haben
 - DIGITALE BAUANLEITUNG MIT 3D-ANSICHTEN: Mit der LEGO Builder App Modelle drehen, vergrößern und den Fortschritt speichern, um beim Aufbau jederzeit den Überblick zu behalten
-- AUTHENTISCHE REPUBLIK-DETAILS: Die markante Form und die roten Markierungen des Venators spiegeln ein wichtiges Schiff aus den Klonkriegen wider und sprechen Fans der Prequel-Ära an
-- RAUMSCHIFFMODELL FÜR ERWACHSENE: Baue den Angriffskreuzer der Venator-Klasse aus Die Rache der Sith mit LEGO Bausteinen und genieße ein anspruchsvolles Star Wars Bauprojekt zum Ausstellen
-- MODELLBAU FÜR REGAL ODER WOHNZIMMER: Mit dem baubaren Ständer und Namensschild lässt sich der Venator als dekoratives Highlight präsentieren und bringt galaktisches Flair in jeden Raum
+- KREATIVES BAU-ERLEBNIS: Erlebe beim Bauen eine entspannte Auszeit und hole dir ein Stück der weit entfernten Galaxis als würdiges Sammlerstück nach Hause
 - FÜR SAMMLER VON STAR WARS IKONEN: Der Venator ergänzt die Sammlung mittelgroßer Raumschiffmodelle und passt hervorragend neben den Super Star Destroyer oder die Death Star Displaymodelle
+- MODELLBAU FÜR REGAL ODER WOHNZIMMER: Mit dem baubaren Ständer und Namensschild lässt sich der Venator als dekoratives Highlight präsentieren und bringt galaktisches Flair in jeden Raum
+- AUTHENTISCHE REPUBLIK-DETAILS: Die markante Form und die roten Markierungen des Venators spiegeln ein wichtiges Schiff aus den Klonkriegen wider und sprechen Fans der Prequel-Ära an
+- GESCHENK FÜR STAR WARS FANS: Ein schönes Geschenk für Männer und Frauen, die Raumschiffmodelle lieben und eine Leidenschaft für die Ära der Republik haben
+- RAUMSCHIFFMODELL FÜR ERWACHSENE: Baue den Angriffskreuzer der Venator-Klasse aus Die Rache der Sith mit LEGO Bausteinen und genieße ein anspruchsvolles Star Wars Bauprojekt zum Ausstellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXBMXFN{{</world>}}

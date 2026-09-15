@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MODELLBAU MIT MUSTANG RENNAUTO: LEGO Speed Champions Ken Blocks 1965 Ford Mustang Hoonicorn V1 lässt Kinder ab 9 Jahren ein detailgetreues Modell bauen, ausstellen und in spannende Rennen schicken
-- DIY DEKO: Nach spannenden Rennen lässt sich das Mustang Spielzeug Auto als Sammlerstück im Regal im Kinderzimmer oder auf dem Nachttisch ausstellen
-- LEGENDÄRE AUTOS ZUM SPIELEN UND AUSSTELLEN: Erschaffe LEGO Nachbildungen echter Rennautos und Sportwagen sowie beliebter Flitzer aus Videospielen, TV Serien und Kinofilmen
-- NOCH MEHR RENNSPASS: Entdecke weitere separat erhältliche LEGO Speed Champions Bausets mit detailgetreuen Flitzern und erweitere deine Sammlung
-- LEGO MINIFIGUR STELLT KEN BLOCK DAR: Das Bauset enthält eine Minifigur von Ken Block mit Hoonicorn Mütze und Jacke, optional kann er beim Fahren auch einen Helm tragen
 - 3D PUZZLE MIT DETAILS: Das Modell zeigt viele Merkmale des echten Fahrzeugs, das von Ken Block und HOONIGAN für den Film Gymkhana SEVEN (2014) mitentwickelt wurde, darunter Ansaugtrichter auf der Motorhaube und markante Felgen
+- LEGO MINIFIGUR STELLT KEN BLOCK DAR: Das Bauset enthält eine Minifigur von Ken Block mit Hoonicorn Mütze und Jacke, optional kann er beim Fahren auch einen Helm tragen
+- MODELLBAU MIT MUSTANG RENNAUTO: LEGO Speed Champions Ken Blocks 1965 Ford Mustang Hoonicorn V1 lässt Kinder ab 9 Jahren ein detailgetreues Modell bauen, ausstellen und in spannende Rennen schicken
+- LEGENDÄRE AUTOS ZUM SPIELEN UND AUSSTELLEN: Erschaffe LEGO Nachbildungen echter Rennautos und Sportwagen sowie beliebter Flitzer aus Videospielen, TV Serien und Kinofilmen
+- DIY DEKO: Nach spannenden Rennen lässt sich das Mustang Spielzeug Auto als Sammlerstück im Regal im Kinderzimmer oder auf dem Nachttisch ausstellen
 - GESCHENK FÜR AUTOFANS: Dieser Spielzeug Mustang bietet ein spannendes Bau- und Spielerlebnis und ist eine beliebte Geschenkidee für Kinder ab 9 Jahren sowie für Erwachsene, die Modellautos sammeln
+- NOCH MEHR RENNSPASS: Entdecke weitere separat erhältliche LEGO Speed Champions Bausets mit detailgetreuen Flitzern und erweitere deine Sammlung
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGKBCS{{</world>}}

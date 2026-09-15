@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75408 Jango Fett Helmet - Mandalorian Model Kit for Adults - Building Set incl. a Stand Nameplate & Adjustable Rangefinder Antenna - Gift for Attack of the Clones Fans'
-date: 2026-09-12 09:16:43
+date: 2026-09-13 17:07:02
 image: 'https://m.media-amazon.com/images/I/510yfrKPKDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DHSBVRFM/?tag=tolees00-21'
 descuento: '23.75'
-average: '60.7127777777778'
+average: '60.7273684210527'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

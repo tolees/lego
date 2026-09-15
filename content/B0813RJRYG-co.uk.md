@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Number of pieces: 444
-- Includes 2 Andrea and Mia mini dolls, flamingo and dolphin animal figures, and a paddleboat and surfboard to play out summer adventures
-- Manufacturer recommended age: 6+
 - Beach House
+- Manufacturer recommended age: 6+
+- Includes 2 Andrea and Mia mini dolls, flamingo and dolphin animal figures, and a paddleboat and surfboard to play out summer adventures
 - The roof flips up to reveal a DJ terrace complete with speakers, lights and a keyboard; below, there is a beach shower to freshen up
 
 [🛒 Check the deal!!]({{< param buyurl >}})

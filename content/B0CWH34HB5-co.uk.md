@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wicked toy for kids – Bring the magic of the Wicked movie to kids’ bedrooms with this building toy for 10+ year old girls and boys, featuring posable display figures of the 2 lead characters
-- Bring home the magic of the film – LEGO Wicked sets let girls, boys and fans of the Wicked film relive Elphaba and Glinda’s friendship adventure through the land of Oz
 - Magical accessories – Kids accessorise the LEGO figures with the broom, crown and purse, then pose them to recreate an iconic scene
-- Wicked film inspiration – Kids take the play to another level by scanning the hidden QR code on the building set to access the ”Defying Gravity” hit from the film
-- Inspired by the Wicked movie – Kids assemble the 2 Wicked figures, then recreate iconic film moments or invent their own adventures
 - A gift idea for Wicked fans – This building toy makes a fun birthday gift for 10+ year old girls and boys who love role-play toys and friendship stories
+- Wicked toy for kids – Bring the magic of the Wicked movie to kids’ bedrooms with this building toy for 10+ year old girls and boys, featuring posable display figures of the 2 lead characters
+- Inspired by the Wicked movie – Kids assemble the 2 Wicked figures, then recreate iconic film moments or invent their own adventures
+- Wicked film inspiration – Kids take the play to another level by scanning the hidden QR code on the building set to access the ”Defying Gravity” hit from the film
+- Bring home the magic of the film – LEGO Wicked sets let girls, boys and fans of the Wicked film relive Elphaba and Glinda’s friendship adventure through the land of Oz
 - More building toys for kids – Check out other building sets (sold separately) inspired by the Wicked movie, all of which feature on the LEGO Builder app
 
 [🛒 Check the deal!!]({{< param buyurl >}})

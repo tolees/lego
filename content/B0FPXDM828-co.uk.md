@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- WHAT’S INSIDE? – Create a fun beach scene with a surf shop toy, shave-ice shop, stage, moving rocket ride, a slide and more, and LEGO Disney Lilo and Stitch minifigures to spark imaginative play
+- PRESCHOOL TOYS – Discover more sets designed for young builders, all sold separately, to spark play with a world of age-appropriate characters from beloved movies
+- EDUCATIONAL TOYS – Kids can work on their fine motor skills development as they build the set, plus Starter Brick elements make building fast and easy for young fans
 - DISNEY GIFT IDEA FOR KIDS – This buildable Lilo & Stitch toy provides a rewarding play experience and is a fun birthday gift idea for 4+ year old girls and boys
 - A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track progress and save sets as they develop new skills
-- WHAT’S INSIDE? – Create a fun beach scene with a surf shop toy, shave-ice shop, stage, moving rocket ride, a slide and more, and LEGO Disney Lilo and Stitch minifigures to spark imaginative play
 - STORYTELLING ACCESSORIES – Kids can grow their creative storytelling skills with accessories including a guitar, surfboard, ring float, flippers, 2 shave-ice cones, cup and cash register
-- PRESCHOOL TOYS – Discover more sets designed for young builders, all sold separately, to spark play with a world of age-appropriate characters from beloved movies
 - LILO & STITCH TOY BUILDING SET – Preschool kids can enjoy creative fantasy play and fun with this Beach Fun with Lilo & Stitch toy for 4+ year old girls and boys
-- EDUCATIONAL TOYS – Kids can work on their fine motor skills development as they build the set, plus Starter Brick elements make building fast and easy for young fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDM828{{</world>}}

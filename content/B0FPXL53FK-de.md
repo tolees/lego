@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- BAUBARE KUNSTBLUMEN: LEGO Botanicals Seerosen lässt pflanzenbegeisterte Kinder ab 9 Jahren kreativ bauen und spielen und eigene kleine Naturwelten erschaffen
-- GESCHENKIDEE FÜR MÄDCHEN & JUNGEN: Diese Kunstblumen für Kinder sind eine schöne Überraschung zum Geburtstag zu Weihnachten und zu anderen besonderen Anlässen
-- 3D PUZZLE MIT GEMEINSCHAFTSERLEBNIS: Freu dich auf ein tolles Gemeinschaftserlebnis mit der LEGO Builder App, die Kinder gemeinsam mit anderen bauen lässt
-- BASTELSET MIT KÜNSTLICHEN PFLANZEN UND VASEN: Die Vasen bestehen aus blauen Elementen, oben gehen diese Teile in transparente Elemente über, um die Illusion zu erzeugen, dass die Vasen mit Wasser gefüllt sind
-- 2 LEGO SEEROSEN: Pflanzenfans können eine weiße Seerose mit gelben Akzenten sowie eine rosafarbene Seerose bauen, die Blütenblätter an beiden Blumen lassen sich anpassen, um die Blüten zu öffnen oder zu schließen
-- LEGO BOTANICALS KOLLEKTION: Erweitere deinen Garten mit anderen separat erhältlichen LEGO Botanicals Sets, in dieser Kollektion findest du farbenfrohe Blumensträuße Sukkulenten und andere Pflanzen
 - BLUMEN DEKO: Mit diesen LEGO Blumen holst du dir ein Stück Natur mit all ihrer Schönheit ins Zimmer, Kinder und Pflanzenfans können sich die fertigen Modelle auf den Schreibtisch oder ins Regal stellen
+- GESCHENKIDEE FÜR MÄDCHEN & JUNGEN: Diese Kunstblumen für Kinder sind eine schöne Überraschung zum Geburtstag zu Weihnachten und zu anderen besonderen Anlässen
+- 2 LEGO SEEROSEN: Pflanzenfans können eine weiße Seerose mit gelben Akzenten sowie eine rosafarbene Seerose bauen, die Blütenblätter an beiden Blumen lassen sich anpassen, um die Blüten zu öffnen oder zu schließen
+- BASTELSET MIT KÜNSTLICHEN PFLANZEN UND VASEN: Die Vasen bestehen aus blauen Elementen, oben gehen diese Teile in transparente Elemente über, um die Illusion zu erzeugen, dass die Vasen mit Wasser gefüllt sind
+- 3D PUZZLE MIT GEMEINSCHAFTSERLEBNIS: Freu dich auf ein tolles Gemeinschaftserlebnis mit der LEGO Builder App, die Kinder gemeinsam mit anderen bauen lässt
+- LEGO BOTANICALS KOLLEKTION: Erweitere deinen Garten mit anderen separat erhältlichen LEGO Botanicals Sets, in dieser Kollektion findest du farbenfrohe Blumensträuße Sukkulenten und andere Pflanzen
+- BAUBARE KUNSTBLUMEN: LEGO Botanicals Seerosen lässt pflanzenbegeisterte Kinder ab 9 Jahren kreativ bauen und spielen und eigene kleine Naturwelten erschaffen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXL53FK{{</world>}}

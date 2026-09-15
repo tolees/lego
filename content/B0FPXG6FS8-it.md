@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- GIARDINO AUTUNNALE: include un cottage con 4 alberi LEGO, fiori, una meridiana, una casa per gli uccelli, un carretto delle verdure, uno gnomo da giardino e delle creature del bosco (pettirosso, picchio, scoiattolo, rana e lumaca)
-- KIT DI MODELLISMO CON CASA LEGO: la costruzione LEGO Icons per adulti Giardino Autunnale del Cottage, offre un progetto rilassante per gli appassionati di costruzioni creative in mattoncini
 - SET LEGO DA COLLEZIONE: questo modellino da costruire LEGO per adulti fai da te, parte della Collezione Giardini del Mondo LEGO Icons, presenta elementi con colori mai utilizzati prima
-- ISTRUZIONI PER LA COSTRUZIONE 3D: preparati a costruire come mai prima con l’app LEGO Builder, che consente di salvare i set, di monitorare i progressi fatti, e di ingrandire e ruotare il modello in 3D
+- KIT DI MODELLISMO CON CASA LEGO: la costruzione LEGO Icons per adulti Giardino Autunnale del Cottage, offre un progetto rilassante per gli appassionati di costruzioni creative in mattoncini
 - REGALI CREATIVI GLI AMANTI DELLA NATURA: sorprendi una persona cara con questo regalo artistico; un pensiero per una donna o un uomo amanti delle decorazioni e dei set botanici LEGO Icons
+- GIARDINO AUTUNNALE: include un cottage con 4 alberi LEGO, fiori, una meridiana, una casa per gli uccelli, un carretto delle verdure, uno gnomo da giardino e delle creature del bosco (pettirosso, picchio, scoiattolo, rana e lumaca)
+- ISTRUZIONI PER LA COSTRUZIONE 3D: preparati a costruire come mai prima con l’app LEGO Builder, che consente di salvare i set, di monitorare i progressi fatti, e di ingrandire e ruotare il modello in 3D
 - DECORAZIONE PER LA CASA O PER LUFFICIO PERSONALIZZABILE: apri il cottage per accedere allinterno con cucina, e sposta gli alberi, le piante LEGO e gli elementi decorativi per creare il tuo design in giardino
 
 [🛒 Buy it now!!]({{< param buyurl >}})

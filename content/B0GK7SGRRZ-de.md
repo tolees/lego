@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- SO AKTIVIERST DU DEIN SET: Füge einen LEGO SMART Brick aus einem separat erhältlichen All-in-1 Set hinzu, um faszinierende Spielfunktionen zu aktivieren. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
-- GESCHENKIDEE FÜR KINDER: Dieses Set ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk, das Kinder und Pokémon Fans ab 8 Jahren zu unzähligen Rollenspielen inspiriert
-- ABENTEUER-BAUSPIELZEUG: Evoli und Lapras auf Schatzsuche (72162) ist ein LEGO Pokémon SMART Play kompatibles Set, das Kinder unzählige fantasievolle Abenteuer auf hoher See erleben lässt
-- FANTASIEVOLLES SPIELERLEBNIS: Kinder können Pokémon-Trainer werden, einer Karte zum Schiffswrack folgen und den Mast herablassen, um einen Felsen hochzuheben und darunter eine Schatzkiste voller Münzen und Edelsteine zu entdecken
-- 2 BEWEGLICHE POKÉMON: Das niedliche Evoli kann Schwanz und Ohren bewegen und das große Lapras hat bewegliche Flossen. Lass die beiden Pokémon den Schatz suchen, Musik hören und Duelle austragen – mit interaktiven SMART Play Funktionen
-- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können fantasievoll zusammen mit anderen spielen, auf Evolis Floß steigen und sich mit Lapras in Abenteuer stürzen und jede Menge Actionspaß erleben
 - POKÉMON-REAKTIONEN: SMART Tags in Evoli, Lapras und der Schatzkiste aktivieren nicht enthaltene SMART Bricks, die die Pokémon bei interaktiven Rollenspielen mit Licht- und Soundeffekten reagieren lassen
+- FANTASIEVOLLES SPIELERLEBNIS: Kinder können Pokémon-Trainer werden, einer Karte zum Schiffswrack folgen und den Mast herablassen, um einen Felsen hochzuheben und darunter eine Schatzkiste voller Münzen und Edelsteine zu entdecken
+- GESCHENKIDEE FÜR KINDER: Dieses Set ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk, das Kinder und Pokémon Fans ab 8 Jahren zu unzähligen Rollenspielen inspiriert
+- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können fantasievoll zusammen mit anderen spielen, auf Evolis Floß steigen und sich mit Lapras in Abenteuer stürzen und jede Menge Actionspaß erleben
+- SO AKTIVIERST DU DEIN SET: Füge einen LEGO SMART Brick aus einem separat erhältlichen All-in-1 Set hinzu, um faszinierende Spielfunktionen zu aktivieren. SMART Bricks sind nicht als eigenständiges Produkt erhältlich
+- ABENTEUER-BAUSPIELZEUG: Evoli und Lapras auf Schatzsuche (72162) ist ein LEGO Pokémon SMART Play kompatibles Set, das Kinder unzählige fantasievolle Abenteuer auf hoher See erleben lässt
+- 2 BEWEGLICHE POKÉMON: Das niedliche Evoli kann Schwanz und Ohren bewegen und das große Lapras hat bewegliche Flossen. Lass die beiden Pokémon den Schatz suchen, Musik hören und Duelle austragen – mit interaktiven SMART Play Funktionen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0GK7SGRRZ{{</world>}}

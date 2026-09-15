@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Easy to use
 - Good performance
+- Easy to use
 - Good product for use
 - Good quality
 

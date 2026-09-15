@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEGO NINJAGO SPIELSETS IN HÜLLE UND FÜLLE: Das breite Sortiment lässt Kinder in eine Fantasy-Welt eintauchen und mit ihren Ninja fantasievolle Abenteuer erleben
-- 3 NINJAGO MINIFIGUREN: Kinder lassen Kai und Cole spannende Duelle mit dem erstmals enthaltenen Eismonster austragen und erfinden actionreiche Geschichten rund um ihre Ninja Abenteuer
-- 2 SPIELZEUG FLITZER: Geländebuggy mit Cockpit und Shooter sowie ein Motorrad mit abnehmbaren Schwertern und Banner sorgen für vielseitige Rollenspiele
-- NINJA SPIELZEUG AB 7 JAHREN: Freu dich darauf, die spannenden Actionszenen aus der 4. Staffel von NINJAGO Aufstieg der Drachen mit Kais und Coles Kombi-Flitzer nachzuspielen
 - BASTELSET MIT TRANSFORMATIONSFUNKTION: Kinder bauen Buggy und Motorrad zu neuen Dreiradmodellen um, tauschen die Heckteile aus und entdecken immer wieder neue Spielmöglichkeiten
+- 2 SPIELZEUG FLITZER: Geländebuggy mit Cockpit und Shooter sowie ein Motorrad mit abnehmbaren Schwertern und Banner sorgen für vielseitige Rollenspiele
+- LEGO NINJAGO SPIELSETS IN HÜLLE UND FÜLLE: Das breite Sortiment lässt Kinder in eine Fantasy-Welt eintauchen und mit ihren Ninja fantasievolle Abenteuer erleben
 - KREATIVE GESCHENKIDEE FÜR KINDER: Dieses Spielset ist ein schönes Geschenk für Kinder, die Ninja lieben, gerne kreativ spielen und sich für spannende Fantasy-Abenteuer begeistern
+- 3 NINJAGO MINIFIGUREN: Kinder lassen Kai und Cole spannende Duelle mit dem erstmals enthaltenen Eismonster austragen und erfinden actionreiche Geschichten rund um ihre Ninja Abenteuer
 - NOCH MEHR NINJA ABENTEUER: Entdecke weitere LEGO NINJAGO Sets mit Drachen, Mechs, Tempeln und Fahrzeugen und erweitere deine Ninja-Abenteuerwelt (separat erhältlich)
+- NINJA SPIELZEUG AB 7 JAHREN: Freu dich darauf, die spannenden Actionszenen aus der 4. Staffel von NINJAGO Aufstieg der Drachen mit Kais und Coles Kombi-Flitzer nachzuspielen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXHBQSM{{</world>}}

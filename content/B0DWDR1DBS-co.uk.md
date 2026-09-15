@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LEGO ONE PIECE collectibles – LEGO ONE PIECE toys put the Netflix show’s characters, locations and exciting adventures into the hands of young fans
-- Expandable play – The 3 tent sections can be used to form a large tent when connected with tent sections from additional copies of this building set (sold separately)
 - Role-play toy – Kids can rescue Luffy from the water tank by launching the front off, help Zoro escape the spinning wheel, free Nami from the hanging birdcage then fend off Buggy
+- Many ways to play – The buildable tent can be flipped around to create a larger play space with detachable chair sections and Buggys throne for a whole new set of adventures
 - ONE PIECE circus adventures – Buggy the Clown’s Circus Tent is a fun LEGO ONE PIECE toy for 8+ year old boys and girls that takes kids’ imaginations to the circus for creative role-play action
 - Anime gift for fans – This LEGO ONE PIECE building toy makes a great anytime treat or birthday gift for 8+ year old boys, girls and older fans of the live-action ONE PIECE Netflix show
-- Many ways to play – The buildable tent can be flipped around to create a larger play space with detachable chair sections and Buggys throne for a whole new set of adventures
 - Fun characters – The building toy set comes with Luffy, Zoro, Nami and Buggy the Clown Pirate LEGO minifigures, plus authentic accessories and weapons
+- Expandable play – The 3 tent sections can be used to form a large tent when connected with tent sections from additional copies of this building set (sold separately)
+- LEGO ONE PIECE collectibles – LEGO ONE PIECE toys put the Netflix show’s characters, locations and exciting adventures into the hands of young fans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDR1DBS{{</world>}}

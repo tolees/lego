@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Idea regalo di compleanno per bambini e bambine da 6 anni in su: questo piccolo set LEGO offre una divertente esperienza di costruzione; unottima idea regalo per i giovani fan dei giochi ninja e per gli appassionati di avventure LEGO NINJAGO
-- Grandi avventure ninja: cerca altri giocattoli LEGO NINJAGO (set disponibili separatamente) con draghi, templi e veicoli
+- 3 minifigure di personaggi NINJAGO: questo set di costruzione LEGO per bambini include Zane, dotato di un’armatura mai vista prima, Wyldfyre e il Maestro dello Sciame Drix, per consentire ai fan dei ninja di ricreare battaglie ricche di azione
 - Armi giocattolo ninja: ogni minifigure dei personaggi LEGO NINJAGO è dotata di un’arma per offrire valore aggiunto al gioco: Zane ha 2 shuriken, Wyldfyre ha una spada katana di cristallo e Drix ha 2 falci
 - Giochi LEGO NINJAGO per bambini e bambine da 6 anni in su: il Mech da Battaglia di Zane consente ai piccoli fan di ricreare le emozionanti scene della stagione 3 del programma TV LEGO NINJAGO La rivolta dei draghi
-- 3 minifigure di personaggi NINJAGO: questo set di costruzione LEGO per bambini include Zane, dotato di un’armatura mai vista prima, Wyldfyre e il Maestro dello Sciame Drix, per consentire ai fan dei ninja di ricreare battaglie ricche di azione
+- Grandi avventure ninja: cerca altri giocattoli LEGO NINJAGO (set disponibili separatamente) con draghi, templi e veicoli
+- Idea regalo di compleanno per bambini e bambine da 6 anni in su: questo piccolo set LEGO offre una divertente esperienza di costruzione; unottima idea regalo per i giovani fan dei giochi ninja e per gli appassionati di avventure LEGO NINJAGO
 - Mech giocattolo snodabile: il Mech LEGO NINJAGO è dotato di braccia, gambe e mani snodabili, parte superiore del corpo che ruota di 360 gradi, torace apribile per posizionare una minifigure al suo interno e 2 grandi spade giocattolo accessorie
 
 [🛒 Check the deal!!]({{< param buyurl >}})

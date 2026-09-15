@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ZUBEHÖR FÜR ROLLENSPIELE: Das Zubehör umfasst einen Sattel, Sandwiches, eine Kiste, eine Bürste, Karotten für die Pferde und zwei kleine Blumen zur Dekoration der Decke
-- KINDER GESCHENK FÜR PFERDEFANS: Dieses LEGO Friends Bauset bietet ein spielerisches Erlebnis für naturverbundene Kinder und ist ein beliebtes Geburtstagsgeschenk für Mädchen und Jungen ab 7 Jahren
-- 2 MINI PUPPEN UND 4 TIERFIGUREN: LEGO Friends kleine Puppen Autumn und Matilde sowie ein Spielzeugpferd, Fohlen, Welpe und Frosch inspirieren zu stundenlangem kreativem Spielen
-- SPIELZEUG PFERDESET MIT ANHÄNGER: Tierliebhaber können in fantasievolles Spielen galoppieren mit dem LEGO Friends Pferd und Fohlen mit Pferdeanhänger Spielzeug für Mädchen und Jungen ab 7 Jahren
-- PFLEGEN, REITEN UND SPIELEN: Mädchen und Jungen können Geschichten mit LEGO Auto, Anhänger und einem kleinen Nebenmodell mit Picknickbereich, Wegweiser, See und Zaun erfinden
-- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
 - ONLINE-SERIE: Weitere kreative Spielideen für andere separat erhältliche Sets findest du in der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Freunde in Heartlake City kennenlernen
+- DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
+- SPIELZEUG PFERDESET MIT ANHÄNGER: Tierliebhaber können in fantasievolles Spielen galoppieren mit dem LEGO Friends Pferd und Fohlen mit Pferdeanhänger Spielzeug für Mädchen und Jungen ab 7 Jahren
+- ZUBEHÖR FÜR ROLLENSPIELE: Das Zubehör umfasst einen Sattel, Sandwiches, eine Kiste, eine Bürste, Karotten für die Pferde und zwei kleine Blumen zur Dekoration der Decke
+- 2 MINI PUPPEN UND 4 TIERFIGUREN: LEGO Friends kleine Puppen Autumn und Matilde sowie ein Spielzeugpferd, Fohlen, Welpe und Frosch inspirieren zu stundenlangem kreativem Spielen
+- KINDER GESCHENK FÜR PFERDEFANS: Dieses LEGO Friends Bauset bietet ein spielerisches Erlebnis für naturverbundene Kinder und ist ein beliebtes Geburtstagsgeschenk für Mädchen und Jungen ab 7 Jahren
+- PFLEGEN, REITEN UND SPIELEN: Mädchen und Jungen können Geschichten mit LEGO Auto, Anhänger und einem kleinen Nebenmodell mit Picknickbereich, Wegweiser, See und Zaun erfinden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCTVTW{{</world>}}

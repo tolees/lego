@@ -30,11 +30,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - BUILD TOGETHER – The LEGO Builder app offers a guided, collaborative experience with friends and family where everyone has fun building part of the set using their own devices
 - SUPER HERO DISPLAY – Recreate Iron Man’s appearance in Marvel Studios’ Avengers: Infinity Saga movies with this LEGO Marvel figure, which includes an attachable Iron Man minifigure
-- IRON MAN FIGURE – Fans can indulge their passion with LEGO Marvel Iron Man Mark 3 Collectors’ Edition building set for adults, a posable display figure standing over 38 cm (15 in.) tall
-- DYNAMIC DISPLAY – With jointed neck, waist, shoulders, wrists and hands, plus gold-lacquered accents, this posable LEGO Avengers figure stands on a sturdy base with a name plaque
 - MARVEL GIFT FOR ADULTS – This Super Hero building set makes a great birthday or any-day gift idea for men and women who are Iron Man fans or LEGO collectors
 - IMMERSIVE MODEL KIT – The authentically detailed, 1,297-piece Iron Man suit also comes with an Arc Reactor, providing a satisfying reward for adult model builders
 - MORE BUILDING SETS FOR ADULTS – The range of LEGO Sets for Adults is designed to deliver rewarding, immersive projects for adult model makers
+- IRON MAN FIGURE – Fans can indulge their passion with LEGO Marvel Iron Man Mark 3 Collectors’ Edition building set for adults, a posable display figure standing over 38 cm (15 in.) tall
+- DYNAMIC DISPLAY – With jointed neck, waist, shoulders, wrists and hands, plus gold-lacquered accents, this posable LEGO Avengers figure stands on a sturdy base with a name plaque
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXDNJ1T{{</world>}}

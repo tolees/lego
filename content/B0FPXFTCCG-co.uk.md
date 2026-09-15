@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LOTS OF ACCESSORIES – Find endless ways to accessorise this playset with snacks, drinks, pet food, beds, a lamp, plant, watering can, rug, camera and a phone with map
-- LEGO FRIENDS MINI DOLLS – Kids can have lots of fun playing with the Nova and Liann mini dolls, along with their cute pet, Shadow the toy kitten
-- MAKE MORE FRIENDS – Discover more role-play toys with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 - GLAMPING DOLLS HOUSE TOY – Kids can create their own camping adventures with the LEGO Friends Nature Glamping Cabin building toy for 6+ year old girls and boys
+- MAKE MORE FRIENDS – Discover more role-play toys with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 - A HELPING HAND – Follow digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
+- LEGO FRIENDS MINI DOLLS – Kids can have lots of fun playing with the Nova and Liann mini dolls, along with their cute pet, Shadow the toy kitten
+- LOTS OF ACCESSORIES – Find endless ways to accessorise this playset with snacks, drinks, pet food, beds, a lamp, plant, watering can, rug, camera and a phone with map
 - GIFT IDEA FOR KIDS – This camping toy makes a fun anytime treat or birthday gift for 6+ year old girls and boys who love nature, animals and creative play
 - HOLIDAYS AWAIT – Build, explore and role-play realistic adventures with the detailed A-frame cabin’s beds, kitchen, garden with plants and a mountain bike
 

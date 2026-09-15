@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MAKE MORE FRIENDS – Kids can get to know the characters of Heartlake City with more sets (sold separately) and the LEGO Friends: The Next Chapter online show
-- PRETEND-PLAY ACCESSORIES – Inspire endless storytelling with details inside and out: colourful flowers, vases, scissors, a cup, cash register and a phone
 - FLOWER SHOP TOY – Nurture storytelling skills and creative play with the LEGO Friends Creative Flower Shop toy for 7+ year old girls and boys
-- 2 LEGO FRIENDS MINI DOLLS – Kids can have fun playing with the Nova and Astrid mini dolls, taking them along for a ride on the tandem bike toy or hanging out at the shop
 - FUN GIFT IDEA FOR KIDS – This fun flower shop toy provides a fun build-and-play experience and makes a great anytime treat or birthday gift for 7+ year old girls and boys
 - A HELPING HAND – Follow digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
 - SHOPPING ROLE PLAY – See kids’ imaginations grow as they act out stories in the pretend toy shop and create custom artificial flower displays and bouquets
+- MAKE MORE FRIENDS – Kids can get to know the characters of Heartlake City with more sets (sold separately) and the LEGO Friends: The Next Chapter online show
+- 2 LEGO FRIENDS MINI DOLLS – Kids can have fun playing with the Nova and Astrid mini dolls, taking them along for a ride on the tandem bike toy or hanging out at the shop
+- PRETEND-PLAY ACCESSORIES – Inspire endless storytelling with details inside and out: colourful flowers, vases, scissors, a cup, cash register and a phone
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFGX19{{</world>}}

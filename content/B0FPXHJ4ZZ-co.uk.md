@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- BIRTHDAY GIFT FOR GAMERS – This set makes a fun piece of kids room decor and a great Minecraft-themed gift for 8+ year old boys and girls who are fans of the video game
-- EXPAND THE FUN – Check out the full range of building sets (sold separately) and take hands-on gaming to the next level
-- BATTLE BUILDING TOY – Embark on a LEGO Minecraft First Night Adventure, where 8+ year old boys and girls must mine resources to build a shelter while fending off attacks by hostile mobs
 - AUTHENTIC ACCESSORIES – Realistic details, including Alex’s shovel, a crafting table, torches and a chest containing seeds, a bone and cherries help kids recreate gaming adventures in real life
+- BIRTHDAY GIFT FOR GAMERS – This set makes a fun piece of kids room decor and a great Minecraft-themed gift for 8+ year old boys and girls who are fans of the video game
 - EXPLOSIVE PRETEND PLAY – Chop down trees to seal off the entrance to the shelter, then prepare for action as the explosion function on this interactive Minecraft toy blasts the barricade to pieces
 - 7 LEGO MINECRAFT FIGURES – Join Alex, a skeleton, Creeper, woods wolf, cold pig, albino rabbit and a bee and play out classic gaming adventures in the birch forest biome and the snowy taiga biome
+- EXPAND THE FUN – Check out the full range of building sets (sold separately) and take hands-on gaming to the next level
+- BATTLE BUILDING TOY – Embark on a LEGO Minecraft First Night Adventure, where 8+ year old boys and girls must mine resources to build a shelter while fending off attacks by hostile mobs
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXHJ4ZZ{{</world>}}

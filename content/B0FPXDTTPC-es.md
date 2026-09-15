@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - DIVERTIDOS DETALLES: Prepárate para un viaje épico con la nueva versión del Navío de Tierra (70677), que cuenta con cabina biplaza, 6 ruedas doradas, un cañón y un estandarte
-- VEHÍCULO “3 EN 1”: Los jóvenes constructores pueden separar el Bounty Terrestre en 3 modelos más pequeños; un barco volador con cubierta abierta, un buggy todoterreno con habitáculo y una moto de juguete
 - REGALO PARA PEQUES: Este set es un regalo óptimo para niños y niñas a partir de 9 años fans de los ninja, que disfrutarán de una creativa experiencia de construcción
+- VEHÍCULO “3 EN 1”: Los jóvenes constructores pueden separar el Bounty Terrestre en 3 modelos más pequeños; un barco volador con cubierta abierta, un buggy todoterreno con habitáculo y una moto de juguete
+- SET DE ACCIÓN NINJA: Recrea las trepidantes escenas de la temporada 4 de la serie NINJAGO: El renacer de los dragones con el kit de construcción LEGO NINJAGO Bounty Terrestre para niños y niñas a partir de 9 años
+- 6 MINIFIGURAS NINJAGO: Los niños y las niñas podrán sumergirse en emocionantes juegos de rol con Lloyd Forma Dragón, Jay Forma Dragón, Zane Forma Dragón y Nya Forma Dragón, y los villanos Monstruo Ácido y Monstruo de Fuego con armas ninja
 - UNA MANERA DIVERTIDA DE CONSTRUIR: La app LEGO Builder guiará a los niños a través de una intuitiva aventura que les permite acercar y girar sus modelos en 3D a medida que los construyen, consultar su progreso y guardar sets
 - UN UNIVERSO DE SETS LEGO NINJAGO: Esta amplia colección ofrece a los peques y los fans de los ninja la oportunidad de sumergirse en un envolvente mundo de fantasía para jugar con creatividad con sus héroes y villanos favoritos
-- 6 MINIFIGURAS NINJAGO: Los niños y las niñas podrán sumergirse en emocionantes juegos de rol con Lloyd Forma Dragón, Jay Forma Dragón, Zane Forma Dragón y Nya Forma Dragón, y los villanos Monstruo Ácido y Monstruo de Fuego con armas ninja
-- SET DE ACCIÓN NINJA: Recrea las trepidantes escenas de la temporada 4 de la serie NINJAGO: El renacer de los dragones con el kit de construcción LEGO NINJAGO Bounty Terrestre para niños y niñas a partir de 9 años
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDTTPC{{</world>}}

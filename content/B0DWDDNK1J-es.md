@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Regalo para mujeres y hombres: Este kit de construcción es un divertido regalo para amantes de las plantas, por el Día de San Valentín o por la inauguración de una casa
-- Decoración floral: Los árboles cuentan con hojas intercambiables, así podrás divertirte colocando las hojas de unos bonsáis LEGO en otros (puedes decorar el tronco de la glicinia con las hojas del ginkgo)
-- Plantas decorativas: El kit de construcción incluye un bonsái LEGO de ginkgo con hojas amarillas, un bonsái de pino negro con agujas verdes y uno de glicinia con racimos de flores de color malva
-- Set de bonsáis LEGO: Da forma a 3 árboles que representan la paz y el equilibrio con el kit de maquetas para adultos LEGO Botanicals Minibonsáis, un envolvente proyecto para amantes de la naturaleza
-- App LEGO Builder: Las instrucciones digitales del set están disponibles en la app LEGO Builder, que te permite acercar y girar tus bonsáis LEGO en 3D y consultar en qué momento del proceso de construcción te encuentras
-- Plantas artificiales: La maqueta para adultos incluye 2 bases ornamentales que permiten exponer los bonsáis a distintas alturas y en diferentes combinaciones para crear una decoración del salón u oficina personalizada
 - Construye más flores: Combina estos árboles construidos con ladrillos con otros sets (a la venta por separado) de la colección LEGO Botanicals, donde descubrirás ramos de flores, bambúes y otras plantas LEGO
+- Regalo para mujeres y hombres: Este kit de construcción es un divertido regalo para amantes de las plantas, por el Día de San Valentín o por la inauguración de una casa
+- Set de bonsáis LEGO: Da forma a 3 árboles que representan la paz y el equilibrio con el kit de maquetas para adultos LEGO Botanicals Minibonsáis, un envolvente proyecto para amantes de la naturaleza
+- Plantas artificiales: La maqueta para adultos incluye 2 bases ornamentales que permiten exponer los bonsáis a distintas alturas y en diferentes combinaciones para crear una decoración del salón u oficina personalizada
+- Plantas decorativas: El kit de construcción incluye un bonsái LEGO de ginkgo con hojas amarillas, un bonsái de pino negro con agujas verdes y uno de glicinia con racimos de flores de color malva
+- App LEGO Builder: Las instrucciones digitales del set están disponibles en la app LEGO Builder, que te permite acercar y girar tus bonsáis LEGO en 3D y consultar en qué momento del proceso de construcción te encuentras
+- Decoración floral: Los árboles cuentan con hojas intercambiables, así podrás divertirte colocando las hojas de unos bonsáis LEGO en otros (puedes decorar el tronco de la glicinia con las hojas del ginkgo)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWDDNK1J{{</world>}}

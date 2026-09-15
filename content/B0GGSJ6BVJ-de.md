@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - 2 ZUSÄTZLICHE SPIELZEUG FAHRZEUGE: Finde die INT-4-Rettungskapsel des Imperialen Kriegsherrn im Hauptladeraum, klapp die Flügel aus, um sie fliegen zu lassen und öffne die Heckklappe, damit das Speeder Bike losdüsen kann
 - STAR WARS GESCHENK FÜR KINDER: Dieses Modell Bausatz ist ein cooles Geburtstagsgeschenk für Jungen und Mädchen ab 10 Jahren und Star Wars: The Mandalorian und Grogu Film Fans
-- LEGO STAR WARS MINIFIGUREN UND FIGUREN: Mando The Mandalorian, ein Imperialer Kriegsherr, ein AT-AT Pilot, ein Schneetruppler und 2 Schneetruppler des Restimperiums, plus eine Grogu Figur
-- SPIELERISCHE DETAILS: Bewege den Kopf und die Beine des AT-AT Kampfläufers, feure mit den beiden Shootern und öffne das Cockpit, die Seitenwände und die beiden Luken auf dem Dach, um an Bord zu spielen
-- FASZINIERENDES BAUERLEBNIS: Die 3D-Bauanleitungen in der LEGO Builder App bieten ein intuitives Bauabenteuer, Kinder können in der App 3D-Modelle vergrößern und drehen und sich anschauen, wie weit sie schon sind
 - ERKUNDE DIE GALAXIS: Schau dir auch die anderen separat erhältlichen sammelbaren Sets zu Star Wars: The Mandalorian and Grogu an, um spannende Szenen nachzuspielen oder neue Abenteuer darzustellen
 - AT-AT BAUSATZ FÜR KINDER: Spiele das Restimperium AT-AT mit INT-4 aus Star Wars: The Mandalorian and Grogu nach mit diesem baubaren Spielzeug für Jungen und Mädchen ab 10 Jahren
+- FASZINIERENDES BAUERLEBNIS: Die 3D-Bauanleitungen in der LEGO Builder App bieten ein intuitives Bauabenteuer, Kinder können in der App 3D-Modelle vergrößern und drehen und sich anschauen, wie weit sie schon sind
+- SPIELERISCHE DETAILS: Bewege den Kopf und die Beine des AT-AT Kampfläufers, feure mit den beiden Shootern und öffne das Cockpit, die Seitenwände und die beiden Luken auf dem Dach, um an Bord zu spielen
+- LEGO STAR WARS MINIFIGUREN UND FIGUREN: Mando The Mandalorian, ein Imperialer Kriegsherr, ein AT-AT Pilot, ein Schneetruppler und 2 Schneetruppler des Restimperiums, plus eine Grogu Figur
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0GGSJ6BVJ{{</world>}}

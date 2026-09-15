@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DEKO TIERE ZUM AUSSTELLEN: Jede Zahl steht auf einer Grundplatte und wird zur dekorativen LEGO Tortendeko im Kinderzimmer
-- FEIERE GEBURTSTAGE: Die Zahlen lassen sich immer wieder als Party- oder Torten DIY Deko nutzen und machen jeden LEGO Geburtstag besonders
-- ERINNERUNGSFOTOS: Halte jedes Jahr besondere Momente fest und schaffe ein persönliches Geschenk für Kind 6 Jahre mit bleibendem Wert
-- BAUEN UND TEILEN: Kinder bauen die Zahlen allein oder gemeinsam und erleben kreativen Spielspaß mit einem vielseitigen Baukasten für Kinder
 - BASTELSET MIT TIERZAHLEN: Die LEGO Geburtstagszahlen aus diesem Bauset für Jungen und Mädchen ab 6 Jahren lassen Kinder besonders kreativ spielen
+- ERINNERUNGSFOTOS: Halte jedes Jahr besondere Momente fest und schaffe ein persönliches Geschenk für Kind 6 Jahre mit bleibendem Wert
+- FEIERE GEBURTSTAGE: Die Zahlen lassen sich immer wieder als Party- oder Torten DIY Deko nutzen und machen jeden LEGO Geburtstag besonders
 - LERNSPIELZEUG UND GESCHENK: Fördert spielerisch Zählen und Tierwissen und eignet sich als Lernspielzeug und Geschenk für Kinder ab 6 Jahren
 - 10 LEGO Tierfiguren: Das Spielset beinhaltet 10 verschiedene Tiere – einen Hund, eine Ente, eine Krabbe, einen Hahn, einen Tukan, einen Flamingo, ein Krokodil, eine Spinne, einen Wal und eine Schlange
+- DEKO TIERE ZUM AUSSTELLEN: Jede Zahl steht auf einer Grundplatte und wird zur dekorativen LEGO Tortendeko im Kinderzimmer
+- BAUEN UND TEILEN: Kinder bauen die Zahlen allein oder gemeinsam und erleben kreativen Spielspaß mit einem vielseitigen Baukasten für Kinder
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01G4Z6E6S{{</world>}}

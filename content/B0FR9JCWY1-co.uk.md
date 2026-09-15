@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 2 DISNEY MOVIE FIGURES – Inspire pretend play with Jasmine and Aladdin LEGO Disney mini doll figures, each wearing their well-known movie outfits, and Jasmine with a new wig
-- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track progress and save sets as they develop new skills
-- DISNEY PRINCESS BEDROOM DECORATION – Fans can store their treasures inside, then display the model as a fun piece of kids room decor on a bookshelf, desk or bedside table
-- FUNCTIONAL TOY JEWELLERY BOX – Turn the handle on the jewellery box to move the magic carpet up and down, remove the carpet, or open the drawers and store the 2 wearable rings or other things inside
 - DISNEY GIFT IDEA – This detailed kids crafts kit makes a fun birthday gift choice for 6+ year old girls and boys who are fans of Disneys Aladdin
+- FUNCTIONAL TOY JEWELLERY BOX – Turn the handle on the jewellery box to move the magic carpet up and down, remove the carpet, or open the drawers and store the 2 wearable rings or other things inside
+- 2 DISNEY MOVIE FIGURES – Inspire pretend play with Jasmine and Aladdin LEGO Disney mini doll figures, each wearing their well-known movie outfits, and Jasmine with a new wig
 - ALADDIN BUILDING TOY FOR KIDS – Spark kids imaginations with this LEGO Disney Jasmine’s Jewellery Box toy for 6+ year old girls and boys that offers a rewarding creative activity and real functions
+- DISNEY PRINCESS BEDROOM DECORATION – Fans can store their treasures inside, then display the model as a fun piece of kids room decor on a bookshelf, desk or bedside table
+- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track progress and save sets as they develop new skills
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FR9JCWY1{{</world>}}

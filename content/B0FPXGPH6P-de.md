@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MONTESSORI SPIELZEUG MIT VIELEN FUNKTIONEN: Kinder entdecken spannende Details wie die Augen, den Propeller und die gewölbten Elemente, die sie besonders kreativ bauen lassen
+- LERNSPIELZEUG: Die mit 1, 2 und 3 bedruckten Steine stellen Kleinkindern erste Zahlen vor; das Spielset lässt junge Baufans auch experimentieren und geduldig fantasievolle eigene Werke erschaffen
 - LUSTIGES SPIELZEUG AB 1 JAHR: LEGO DUPLO Bunte Kreativbox gibt Kindern die Freiheit, fantasievolle eigene Spielzeugtiere, Fahrzeuge, Lebensmittel und Ähnliches zu erschaffen
+- MONTESSORI SPIELZEUG MIT VIELEN FUNKTIONEN: Kinder entdecken spannende Details wie die Augen, den Propeller und die gewölbten Elemente, die sie besonders kreativ bauen lassen
 - GESCHENKIDEE FÜR KLEINKINDER: Dieses kreative Spielzeug ist ein beliebtes Geschenk für Jungen und Mädchen ab 18 Monaten
 - WEITERE BAUIDEEN: Bauanleitungen inspirieren zu vielen Modellen; leicht zu greifende Teile sind geprüft und erfüllen alle Sicherheitsstandards für Kinderspielzeug
-- LERNSPIELZEUG: Die mit 1, 2 und 3 bedruckten Steine stellen Kleinkindern erste Zahlen vor; das Spielset lässt junge Baufans auch experimentieren und geduldig fantasievolle eigene Werke erschaffen
 - ENTWICKLUNGSFÖRDERNDES SPIELZEUG: LEGO DUPLO Sets fördern Fingerfertigkeit, Konzentration und Ausdauer, wenn Kinder allein oder gemeinsam bauen und spielen
 - KREATIVE SPIELIDEEN UND ROLLENSPIELE: Die leicht zu befolgenden Anleitungen inspirieren Kleinkinder, die 80 Bausteine zu Blumen, Wal, Ente, Flugzeug, Rakete, Eiscreme und weiteren Modellen zusammenzustecken
 
