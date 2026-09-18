@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Art Colección Fauna: Tigre - Maqueta 3D para Adultos con Decoración Floral de Botanical - Decoración para el Hogar y Oficina - Cuadro de Tigre - Regalo para Mujeres y Hombres 31217'
-date: 2026-09-12 16:24:12
+date: 2026-09-18 16:23:51
 image: 'https://m.media-amazon.com/images/I/51V-aRD6FeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWF5PRWK/?tag=tolees-21'
 descuento: '30.01'
-average: '44.388'
+average: '44.17'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

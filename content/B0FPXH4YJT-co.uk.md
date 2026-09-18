@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- GIFT IDEA FOR KIDS – The excavator toy building set makes a fun gift birthday gift for 7+ year old boys, girls and fans of action toys and LEGO DREAMZzz sets
+- 1 SET, 2 BUILD OPTIONS – Kids can choose to create a scorpion digger toy with clawed pincers and a crushing excavator or a biomechanical wasp with posable wings and a venomous stinger
 - 3 LEGO DREAMZzz MINIFIGURES – The set includes Mateo, Cooper and Arika minifigures to bring the action to life, plus a Z-Blob figure and a collectible Orange Treasure Creature figure
+- AN IMMERSIVE BUILD – This LEGO DREAMZzz set includes story-led instructions that are also available digitally in the LEGO Builder app, where kids can zoom, rotate and track their progress
 - MECH TOY WITH ACCESSORIES – Have fun discovering a diamond egg side build, which has been corrupted by the villains, plus a mech suit for Cooper with posable arms, legs, claws and a shooter
 - DISCOVER MORE CREATIVE TOYS – Continue the imagination adventure with other building sets (sold separately) in the LEGO DREAMZzz collection, featuring an array of animal, mech and vehicle toys
-- 1 SET, 2 BUILD OPTIONS – Kids can choose to create a scorpion digger toy with clawed pincers and a crushing excavator or a biomechanical wasp with posable wings and a venomous stinger
-- GIFT IDEA FOR KIDS – The excavator toy building set makes a fun gift birthday gift for 7+ year old boys, girls and fans of action toys and LEGO DREAMZzz sets
-- AN IMMERSIVE BUILD – This LEGO DREAMZzz set includes story-led instructions that are also available digitally in the LEGO Builder app, where kids can zoom, rotate and track their progress
 - SCORPION EXCAVATOR TOY – Ignite kids’ imaginations with the LEGO DREAMZzz 2in1 Nightmare Scorpion Digger toy for 7+ year old boys and girls
 
 [🛒 Buy it!!]({{< param buyurl >}})

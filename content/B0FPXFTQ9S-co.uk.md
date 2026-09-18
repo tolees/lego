@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- STAR WARS BUILDING TOY FOR KIDS – Let 10+ year old boys and girls play out heroic missions with a LEGO model of The Razor Crest, as seen in Star Wars: The Mandalorian and Grogu
+- STAR WARS GIFT FOR KIDS – This building set makes a cool LEGO gift for 10+ year old boys, girls and older Star Wars: The Mandalorian and Grogu fans
+- FIVE STAR WARS CHARACTERS – The Mandalorian, with a blaster pistol and jetpack, an Imperial Remnant Stormtrooper with a blaster, Colonel Ward, Zeb Orrelios, and a Grogu figure
 - 3D INSTRUCTIONS – Kids can create like never before with the LEGO Builder app, where they can save sets, track progress, zoom in and rotate their set with 3D instructions
 - SENTRY E-WEB – Dial up the battle action with this model kit including an Imperial Remnant Stormtrooper’s Sentry E-Web blaster to try and take down the Razor Crest
-- STAR WARS GIFT FOR KIDS – This building set makes a cool LEGO gift for 10+ year old boys, girls and older Star Wars: The Mandalorian and Grogu fans
-- THE RAZOR CREST – Place 2 LEGO Star Wars minifigures and Grogu in the cockpit, open the side panels for access to the engine and cargo compartment, fold down the landing ramps and activate the 2 stud shooters
 - EXPLORE THE ASSORTMENT – Look out for more collectible LEGO Star Wars sets inspired by Star Wars: The Mandalorian and Grogu (sold separately) to relive epic scenes or create original stories
-- STAR WARS BUILDING TOY FOR KIDS – Let 10+ year old boys and girls play out heroic missions with a LEGO model of The Razor Crest, as seen in Star Wars: The Mandalorian and Grogu
-- FIVE STAR WARS CHARACTERS – The Mandalorian, with a blaster pistol and jetpack, an Imperial Remnant Stormtrooper with a blaster, Colonel Ward, Zeb Orrelios, and a Grogu figure
+- THE RAZOR CREST – Place 2 LEGO Star Wars minifigures and Grogu in the cockpit, open the side panels for access to the engine and cargo compartment, fold down the landing ramps and activate the 2 stud shooters
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFTQ9S{{</world>}}

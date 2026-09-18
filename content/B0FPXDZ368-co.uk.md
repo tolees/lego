@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SURF STYLE – This building set includes a removable surfboard accessory so kids can imagine taking a road trip up the coast in their Jeep branded LEGO vehicle
-- JEEP MODEL KIT FOR KIDS – Build and explore this realistic LEGO Technic Jeep Wrangler Rubicon SUV car toy for 10+ year old boys and girls
-- STEERING, SUSPENSION, ENGINE – Use the spare tyre to steer the car model, test out the suspension that lets the Jeep toy drive over obstacles, and lift the bonnet to find the V6 engine
 - DUCK DUCK JEEP – This LEGO Technic model car kit includes a rubber duck for ducking, a custom where fans place a rubber duck toy on other Jeep vehicles
 - BIRTHDAY GIFT IDEA – This STEM toy set makes a fun gift idea for 10+ year old boys and girls who love off-road vehicles and car model building kits
+- STEERING, SUSPENSION, ENGINE – Use the spare tyre to steer the car model, test out the suspension that lets the Jeep toy drive over obstacles, and lift the bonnet to find the V6 engine
+- SURF STYLE – This building set includes a removable surfboard accessory so kids can imagine taking a road trip up the coast in their Jeep branded LEGO vehicle
+- JEEP MODEL KIT FOR KIDS – Build and explore this realistic LEGO Technic Jeep Wrangler Rubicon SUV car toy for 10+ year old boys and girls
 - DISCOVER MORE SETS – Explore more action-packed play with the range of LEGO Technic sets (sold separately), which feature realistic movement and mechanisms to inspire young builders
 
 [🛒 Buy it now!!]({{< param buyurl >}})

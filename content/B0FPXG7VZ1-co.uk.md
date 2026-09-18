@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- FANTASY ADVENTURES – Recreate the forest scene where Harry successfully uses the Expecto Patronum charm to summon his Stag Patronus to drive away the Dementors and save himself and Sirius Black
+- HARRY POTTER FOREST TOY – Relive spellbinding Harry Potter and the Prisoner of Azkaban adventures with this LEGO Harry Potter Forbidden Forest: Expecto Patronum toy for 7+ year old boys and girls
 - KIDS ROOM DECOR – Adjust the branches, place Harry and Sirius or the Stag Patronus at the centre of the scene and pose the Dementors to create a magical display for a self or bedside table
+- FANTASY ADVENTURES – Recreate the forest scene where Harry successfully uses the Expecto Patronum charm to summon his Stag Patronus to drive away the Dementors and save himself and Sirius Black
 - ICONIC CHARACTERS – Role-play adventure stories with LEGO Harry Potter and Sirius Black minifigures, 2 Dementor figures and a LEGO Harry Potter 25th anniversary collectible Stag Patronus
 - HARRY POTTER GIFT FOR KIDS – This model building kit makes an enchanting birthday gift for 7+ year old boys, girls and older fans of Harry Potter and the Prisoner of Azkaban
 - DIGITAL INSTRUCTIONS – The LEGO Builder app guides your child on a creative adventure that lets them zoom in and rotate sets using 3D instructions, as well as save and track their progress
-- HARRY POTTER FOREST TOY – Relive spellbinding Harry Potter and the Prisoner of Azkaban adventures with this LEGO Harry Potter Forbidden Forest: Expecto Patronum toy for 7+ year old boys and girls
 - EXPLORE THE EXTENSIVE RANGE – LEGO Harry Potter collectible sets (sold separately) let fans play out classic scenes, create their own fantasy stories or simply display the detailed models
 
 [🛒 Buy it now!!]({{< param buyurl >}})

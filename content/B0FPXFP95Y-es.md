@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SETS LEGO ARCHITECTURE: Este set de construcción decorativo forma parte de una gama de sets arquitectónicos de primera calidad (cada uno a la venta por separado) para adultos que, como tú, disfrutan realizando actividades creativas y manuales
-- MONUMENTOS ICÓNICOS: Recrea el Puente de Brooklyn, el Empire State Building, el Museo Guggenheim, el Museo Metropolitano de Arte, el One World Trade Center y la Estatua de la Libertad
-- CONSTRUYE Y EXPÓN: Esta relajante manualidad para adultos te permite construir este recuerdo de Estados Unidos, fijar la baldosa con la inscripción “New York, New York” en la parte frontal y exponerla en una estantería de tu hogar
-- REGALO PARA VIAJEROS: Esta maqueta 3D es un regalo fascinante para mujeres y hombres apasionados de los viajes por un cumpleaños, inauguración de la casa o alguna ocasión especial
-- EXPLORA NUEVA YORK: Esta maqueta en miniatura cuenta con 6 iconos arquitectónicos en blanco, un fondo negro con forma de manzana, un cielo estrellado, una silueta urbana y Central Park
 - MAQUETA PARA ADULTOS: Los viajeros podrán compartir su amor por NY con este kit de construcción LEGO Architecture Ciudad de Nueva York: La Gran Manzana, idóneo como decoración del hogar
+- REGALO PARA VIAJEROS: Esta maqueta 3D es un regalo fascinante para mujeres y hombres apasionados de los viajes por un cumpleaños, inauguración de la casa o alguna ocasión especial
+- MONUMENTOS ICÓNICOS: Recrea el Puente de Brooklyn, el Empire State Building, el Museo Guggenheim, el Museo Metropolitano de Arte, el One World Trade Center y la Estatua de la Libertad
+- EXPLORA NUEVA YORK: Esta maqueta en miniatura cuenta con 6 iconos arquitectónicos en blanco, un fondo negro con forma de manzana, un cielo estrellado, una silueta urbana y Central Park
+- SETS LEGO ARCHITECTURE: Este set de construcción decorativo forma parte de una gama de sets arquitectónicos de primera calidad (cada uno a la venta por separado) para adultos que, como tú, disfrutan realizando actividades creativas y manuales
+- CONSTRUYE Y EXPÓN: Esta relajante manualidad para adultos te permite construir este recuerdo de Estados Unidos, fijar la baldosa con la inscripción “New York, New York” en la parte frontal y exponerla en una estantería de tu hogar
 - COLECCIONA TUS MODELOS: Con la app LEGO Builder, puedes construir tus modelos siguiendo instrucciones 3D, controlar tu progreso y grabar todos tus sets en la app
 
 [🛒 Buy it now!!]({{< param buyurl >}})

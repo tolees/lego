@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Tomatenkopf - Interaktive Figur mit Restaurant Innenraum - Zimmer- oder Schreibtischdeko für Kinder - Gaming Geschenk für Jungen Mädchen und Fans ab 10 Jahren - 77079'
-date: 2026-09-16 10:36:59
+date: 2026-09-18 16:00:53
 image: 'https://m.media-amazon.com/images/I/41ImAeg+3RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGFLTL/?tag=tolees0ca-21'
 descuento: '32.69'
-average: '10.336153846154'
+average: '10.3185714285716'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Pferd und Fohlen mit Pferdeanhänger - Pferde Spielset mit Pflegezubehör 4 Tierfiguren Auto & 2 Mini Puppen - Geschenkidee zum Geburtstag für Mädchen ab 7 Jahren - 42695'
-date: 2026-09-16 10:34:52
+date: 2026-09-18 15:50:35
 image: 'https://m.media-amazon.com/images/I/51RPWe6NrpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCTVTW/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.0990728476821'
+average: '19.1218064516128'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

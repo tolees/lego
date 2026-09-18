@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MORE NINJA ADVENTURES – Discover other LEGO NINJAGO sets (sold separately) featuring detailed dragons, mechs, temples and vehicles
 - 3 LEGO NINJAGO MINIFIGURES – Play out exciting battles between heroes and villains with ninja warriors Kai and Cole, plus an Ice Monster, all with accessories including toy katanas
-- BIRTHDAY GIFT IDEA FOR KIDS – This ninja toy set makes a great anytime treat or special occasion gift for 7+ year old boys and girls who love fantasy adventures
-- 2 LEGO VEHICLES – Spark endless pretend play with an off-road race buggy car toy that has a cockpit and a shooter, and a motorbike decorated in detachable golden swords and a banner
-- NINJA TOY – Play out exciting action from season 4 of the NINJAGO Dragons Rising TV show with Kai and Cole’s Combiner Vehicles, a fun building toy for 7+ year old boys and girls
+- MORE NINJA ADVENTURES – Discover other LEGO NINJAGO sets (sold separately) featuring detailed dragons, mechs, temples and vehicles
 - TRANSFORMING FUNCTIONS – Kids can rebuild both the buggy and the toy motorbike into a new 3-wheel bike model by detaching and swapping their back sections
+- 2 LEGO VEHICLES – Spark endless pretend play with an off-road race buggy car toy that has a cockpit and a shooter, and a motorbike decorated in detachable golden swords and a banner
+- BIRTHDAY GIFT IDEA FOR KIDS – This ninja toy set makes a great anytime treat or special occasion gift for 7+ year old boys and girls who love fantasy adventures
+- NINJA TOY – Play out exciting action from season 4 of the NINJAGO Dragons Rising TV show with Kai and Cole’s Combiner Vehicles, a fun building toy for 7+ year old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXHBQSM{{</world>}}

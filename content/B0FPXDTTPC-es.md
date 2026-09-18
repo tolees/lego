@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Bounty Terrestre – Set Ninja 3en1 se Transforma en Barco Volador Coche y Moto – 6 Minifiguras – Regalo de Cumpleaños para Niños de 9+ Años y Fans de El Renacer de los Dragones – 71869'
-date: 2026-09-15 16:44:33
+date: 2026-09-17 16:58:01
 image: 'https://m.media-amazon.com/images/I/51-F6YMcerL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDTTPC/?tag=tolees-21'
 descuento: '25.39'
-average: '102.862'
+average: '101.883333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BMW MODEL CAR KIT – Speed into action with the LEGO Technic BMW M4 GT3 EVO Race Car toy for 11+ year old boys, girls and teens who love sports cars or BMW
-- DISCOVER MORE SETS – Explore more action-packed play with the range of LEGO Technic sets (sold separately), which feature realistic movement and mechanisms to inspire young builders
 - TIE-IN WITH ASPHALT LEGENDS – Includes a redeemable code to unlock a digital version of this LEGO Technic racing car toy in the Asphalt Legends online video game
 - GAMING GIFT FOR KIDS – This building set makes a fun birthday gift idea for 11+ year old boys, girls and teenagers who love building toys and racing games
-- AUTHENTIC DETAILS – Explore realistic details in this STEM toy like the steering, 6-cylinder engine and opening doors, plus the iconic BMW detailing
+- BMW MODEL CAR KIT – Speed into action with the LEGO Technic BMW M4 GT3 EVO Race Car toy for 11+ year old boys, girls and teens who love sports cars or BMW
+- DISCOVER MORE SETS – Explore more action-packed play with the range of LEGO Technic sets (sold separately), which feature realistic movement and mechanisms to inspire young builders
 - BUILD, PLAY, DISPLAY – Kids can enjoy assembling the car model, then play with their LEGO Technic BMW before placing it on display until it’s time to race again
+- AUTHENTIC DETAILS – Explore realistic details in this STEM toy like the steering, 6-cylinder engine and opening doors, plus the iconic BMW detailing
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFKGQR{{</world>}}

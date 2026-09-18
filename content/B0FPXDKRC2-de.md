@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Gabbys Puppenhaus Gabbys Katzenfreunde - Spielzeug mit 6 Tierfiguren inkl. Meerkätzchen und Kitty Fairy - Ständer zum Ausstellen - Geschenk für Mädchen ab 6 Jahren - 11215'
-date: 2026-09-16 10:37:31
+date: 2026-09-18 16:00:42
 image: 'https://m.media-amazon.com/images/I/51CXaBi8t0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDKRC2/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '32.396111111111'
+average: '32.1555'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DISCOVER MORE CREATIVE FUN – Expand the adventure by adding this flowerpot decoration to others in the extensive assortment of LEGO Disney building toys (all sold separately) for even more fun
 - BRICK-BUILT FLOWERS WITH SECRETS – Features an opening flowerpot with 2 decorative artificial flowers and hidden rooms, plus a LEGO Disney Sally mini doll and a black cat figure
-- SURPRISE INSIDE – Open the flowerpot to find a hidden kitchen where Sally crafts her potions, complete with a basket, buildable table, small flower, spoon and a cauldron for creative storytelling
-- DIY KIDS BEDROOM DECOR – The colourful building set can be displayed open or closed and looks great on a shelf or desk in kids bedrooms
 - DISNEY GIFT IDEA – This creative LEGO Disney set makes a great birthday gift idea for 9+ year old girls and boys, as well as adult fans of The Nightmare Before Christmas
 - ENCHANTED BUILDING SET – Kids and Tim Burton’s The Nightmare Before Christmas fans will enjoy recreating iconic movie scenes with this LEGO Disney Sallys Flowerpot toy for 9+ year old girls and boys
 - A FUN WAY TO BUILD – The LEGO Builder app guides children with interactive 3D instructions, allowing them to save sets, track progress, and explore models in detail
+- DISCOVER MORE CREATIVE FUN – Expand the adventure by adding this flowerpot decoration to others in the extensive assortment of LEGO Disney building toys (all sold separately) for even more fun
+- DIY KIDS BEDROOM DECOR – The colourful building set can be displayed open or closed and looks great on a shelf or desk in kids bedrooms
+- SURPRISE INSIDE – Open the flowerpot to find a hidden kitchen where Sally crafts her potions, complete with a basket, buildable table, small flower, spoon and a cauldron for creative storytelling
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCXS3B{{</world>}}

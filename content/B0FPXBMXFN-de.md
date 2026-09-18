@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75441 Angriffskreuzer der Venator-Klasse - Modellbau-Set des republikanischen Kriegsschiffs für Erwachsene - Deko für Wohnzimmer & Regal - Geschenk für Fans von Die Rache der Sith'
-date: 2026-09-16 10:33:20
+date: 2026-09-18 15:30:59
 image: 'https://m.media-amazon.com/images/I/51oyKifHgCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXBMXFN/?tag=tolees0ca-21'
 descuento: '37.18'
-average: '51.9436538461539'
+average: '51.880925925926'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - SET LEGO BOTANICALS POUR AMATRICES.TEURS DE FLEURS – Cette composition florale de fausses fleurs est une activité amusante à faire entre ami.e.s ou en famille ; le pot est interchangeable avec celui de L’orchidée 10311 (vendue séparément)
-- COLLECTION BOTANIQUE – Créez encore plus de fleurs avec dautres sets de construction de la gamme LEGO Botanicals (vendus séparément), proposant des roses, des bonsaïs, des plantes en pot et plus encore
-- APPLICATION DE CONSTRUCTION – Ce set de fleurs de lune à assembler est disponible dans lapplication LEGO Builder, où les constructrices.teurs peuvent accéder à des instructions numériques et suivre leur progression
-- MAQUETTE DE DÉCORATION FLORALE – Créez des fleurs qui ne faneront jamais avec ce kit de construction DIY Les fleurs de lune LEGO Botanicals pour adulte, un projet immersif de loisirs créatifs pour une femme ou un homme
 - DÉCORATION INTÉRIEURE – Exposez les fleurs de lune artificielles sur leur support : une décoration intemporelle pour la maison ou le bureau qui ajoutera une touche de lumière à tout espace
 - PLANTE À OFFRIR POUR ADULTE – Ce set de construction de fleurs LEGO est un cadeau danniversaire unique et durable pour une femme ou un homme qui aime la nature
+- MAQUETTE DE DÉCORATION FLORALE – Créez des fleurs qui ne faneront jamais avec ce kit de construction DIY Les fleurs de lune LEGO Botanicals pour adulte, un projet immersif de loisirs créatifs pour une femme ou un homme
+- COLLECTION BOTANIQUE – Créez encore plus de fleurs avec dautres sets de construction de la gamme LEGO Botanicals (vendus séparément), proposant des roses, des bonsaïs, des plantes en pot et plus encore
+- APPLICATION DE CONSTRUCTION – Ce set de fleurs de lune à assembler est disponible dans lapplication LEGO Builder, où les constructrices.teurs peuvent accéder à des instructions numériques et suivre leur progression
 - PLANTE ARTIFICIELLE À CONSTRUIRE – 6 fleurs de lune à différentes étapes de floraison : des boutons enroulés aux fleurs pleinement épanouies, en passant par les fleurs ouvrantes
 
 [🛒 Buy it now!!]({{< param buyurl >}})

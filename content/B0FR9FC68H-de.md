@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Blueys Familie Steinen - Lernspielzeug inkl. 4 Figuren mit verschiedenen Gesichtsausdrücken & Zubehör - Montessori Set - Geburtstagsgeschenk für Mädchen & Jungen ab 5 Jahren - 11217'
-date: 2026-09-16 10:42:03
+date: 2026-09-18 16:06:49
 image: 'https://m.media-amazon.com/images/I/51vCudvrlnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FR9FC68H/?tag=tolees0ca-21'
 descuento: '32.86'
-average: '48.5514285714287'
+average: '48.3562500000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

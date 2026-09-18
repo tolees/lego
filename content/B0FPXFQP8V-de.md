@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - DISNEY PALAST MIT SCHIENE UND SCHLITTEN: Enthält ein zweistöckiges Spielzeugschloss mit Thronsaal, Balkon, 2 Betten und einer Küche sowie eine LEGO Zugschiene mit Treppe und einen Schlitten mit 3 Wagen
-- 7 LEGO FIGUREN UND ZUBEHÖR: Enthält die Mini Puppen Elsa und Anna, Olaf, Bruni und 3 Snowgies sowie eine Schneekugel, eine Laterne, 2 Eiswaffeln und eine aufklappbare Truhe mit einer Krone und einem Zepter
-- LERNSPIELZEUG: Beim Bauen des Schlosses mithilfe der 5 enthaltenen LEGO Starter-Steine trainieren Kinder ihre Feinmotorik; außerdem enthält jeder Beutel mit Steinen ein Modell und eine Figur
-- GRANDIOSES BAUERLEBNIS: Die digitalen Bauanleitungen in der LEGO Builder App bieten ein intuitives Bauabenteuer; Kinder können in der App Sets speichern, 3D Modelle vergrößern und drehen
-- FANTASIEVOLLES SPIELZEUG FÜR KINDER AB 4 JAHREN: Dieses Elsas Schlittenfahrt um den Eispalast Spielzeug mit LEGO Schloss, Schlitten und Figuren fördert das kreative Spielen und Erzählen von Geschichten
-- ENTDECKE NOCH WEITERE KREATIVE SETS: Kombiniere dieses Schloss Spiel mit anderen fantasievollen (und separat erhältlichen) LEGO ǀ Disney Bausets aus dieser Themenwelt
 - DISNEY GESCHENK FÜR KINDER UND FANS: Ein beliebtes Geschenk zum Geburtstag für Mädchen und Jungen ab 4 Jahren, die Modellschlösser, die Frozen Filme und Disney Prinzessinnen Spielzeuge lieben
+- 7 LEGO FIGUREN UND ZUBEHÖR: Enthält die Mini Puppen Elsa und Anna, Olaf, Bruni und 3 Snowgies sowie eine Schneekugel, eine Laterne, 2 Eiswaffeln und eine aufklappbare Truhe mit einer Krone und einem Zepter
+- GRANDIOSES BAUERLEBNIS: Die digitalen Bauanleitungen in der LEGO Builder App bieten ein intuitives Bauabenteuer; Kinder können in der App Sets speichern, 3D Modelle vergrößern und drehen
+- ENTDECKE NOCH WEITERE KREATIVE SETS: Kombiniere dieses Schloss Spiel mit anderen fantasievollen (und separat erhältlichen) LEGO ǀ Disney Bausets aus dieser Themenwelt
+- FANTASIEVOLLES SPIELZEUG FÜR KINDER AB 4 JAHREN: Dieses Elsas Schlittenfahrt um den Eispalast Spielzeug mit LEGO Schloss, Schlitten und Figuren fördert das kreative Spielen und Erzählen von Geschichten
+- LERNSPIELZEUG: Beim Bauen des Schlosses mithilfe der 5 enthaltenen LEGO Starter-Steine trainieren Kinder ihre Feinmotorik; außerdem enthält jeder Beutel mit Steinen ein Modell und eine Figur
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXFQP8V{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Birthday gift for kids – The LEGO Classic bricks storage box with construction toys makes a great gift for 4-plus-year-old boys and girls
+- LEGO storage box – The construction toy set comes in a useful brick-shaped box for storing all of the pieces once the days play is over
 - LEGO bricks – Kids can use the coloured LEGO pieces build a toy digger, moped, castle and camera, or whatever their imaginations come up with
 - Creative toys – This building toy set for 4-plus-year-old boys and girls features loads of LEGO bricks in 33 colours plus windows, doors and more
 - Creative toy elements – LEGO 4+ set also includes 2 green baseplates, plus a selection of eyes, wheels, and other pieces to inspire imaginative play
 - A helping hand – Ideas for LEGO building toys are included in the set, and more are available online at LEGO.com/classic to help kids get started
-- LEGO storage box – The construction toy set comes in a useful brick-shaped box for storing all of the pieces once the days play is over
+- Birthday gift for kids – The LEGO Classic bricks storage box with construction toys makes a great gift for 4-plus-year-old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00PY3EYQO{{</world>}}

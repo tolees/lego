@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - UNLOCK AN IN-GAME ITEM – Players can scan a QR code on the building instructions to redeem an evoker hooded mantle and vex plumed wings for use in the Minecraft video game
 - BUILD TOGETHER MODE – The LEGO Builder app offers an interactive, collaborative experience where friends and family create part of the set using their own devices
-- PLAY AND DISPLAY – Kids can create a complete village scene in their room and display the library, mason’s house toy and meeting point alongside the full cast of characters on a shelf or desk
 - MINECRAFT MADE REAL – Players can construct and customise scenes from the popular game, rearranging, recreating and reimagining as new adventures take shape
 - BUILD A LEGO MINECRAFT VILLAGE – This Evoker Village Attack building toy for 9+ year old boys and girls has everything kids need to bring gaming action to life
-- BIRTHDAY GIFT FOR GAMERS – This set makes a fun piece of kids room decor and a great Minecraft-themed gift for 9+ year old boys and girls who are fans of the video game
+- PLAY AND DISPLAY – Kids can create a complete village scene in their room and display the library, mason’s house toy and meeting point alongside the full cast of characters on a shelf or desk
 - 11 LEGO MINECRAFT FIGURES – Play out endless stories with lots of characters, including the mason, librarian, evoker, iron golem, Raccoon Adventurer, Undying Protector, 3 vexes, a sheep and a cat
+- BIRTHDAY GIFT FOR GAMERS – This set makes a fun piece of kids room decor and a great Minecraft-themed gift for 9+ year old boys and girls who are fans of the video game
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGPPDX{{</world>}}

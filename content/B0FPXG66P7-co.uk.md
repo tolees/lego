@@ -31,9 +31,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - KIDS ROOM DECOR – When the days fantasy play is over, the model looks great on display on a shelf or bedside table in kids bedrooms
 - PLAY POSSIBILITIES – Recreate classic movie scenes with LEGO Disney Princess Belle and The Beast mini dolls, plus Lumière and Cogsworth figures, a book, a magic mirror and more
 - DETAILED CASTLE MODEL – The castle is decorated with a colourful façade and can be turned to reveal 6 rooms including a ballroom with a turntable, the forbidden room with the rose and the dining room
-- BUILDABLE DISNEY PRINCESS TOY FOR KIDS – Treat 5+ year old girls and boys to this LEGO Disney Princess Belle & the Beast’s Enchanted Castle toy based on the movie
 - A FUN WAY TO BUILD – Find digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
 - DISNEY GIFT IDEA – This Beauty and the Beast toy makes a great birthday gift idea for 5+ year old girls and boys who love creative building challenges
+- BUILDABLE DISNEY PRINCESS TOY FOR KIDS – Treat 5+ year old girls and boys to this LEGO Disney Princess Belle & the Beast’s Enchanted Castle toy based on the movie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXG66P7{{</world>}}

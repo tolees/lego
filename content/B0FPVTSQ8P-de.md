@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Disney Vaiana Kakamora - Spielzeug inkl. 2 Blumentopf Figuren mit künstlichen Blumen als Zimmerdeko - Geschenk für Mädchen ab 9 Jahren und Filmfans - 43293'
-date: 2026-09-16 10:32:32
+date: 2026-09-17 14:14:13
 image: 'https://m.media-amazon.com/images/I/51cV13peVGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Dragón Guardián - Kit de Maquetas - Figura Articulada de Dragón Minifigura del Maestro Wu y Base de Exposición con Efecto de Roca - Regalo para Chicos de 14+ Años y Adolescentes 71847'
-date: 2026-09-15 17:55:52
+date: 2026-09-17 05:34:32
 image: 'https://m.media-amazon.com/images/I/41anxKz70XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDS6X8Y/?tag=tolees-21'
 descuento: '25.34'
-average: '115.122222222221'
+average: '114.808999999998'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Lianns Familienhaus - Miniatur Spielset mit Garten 4 Mini Puppen Axolotl- & Gecko Tierfigur sowie Zubehör - Geburtstagsgeschenk für Mädchen ab 7 Jahren - 42687'
-date: 2026-09-16 10:39:55
+date: 2026-09-18 16:02:55
 image: 'https://m.media-amazon.com/images/I/51MDYnX6ZgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDT6R3/?tag=tolees0ca-21'
 descuento: '34.29'
-average: '48.44'
+average: '48.1821052631579'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

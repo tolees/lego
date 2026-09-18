@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Bugatti Chiron Pur Sport Hypercar - Modellauto - Rennauto zum Sammeln - Bugatti Spielzeugauto - Technic Sportwagen mit Lenkung W16-Motor & Türen - Geschenk ab 9 Jahren - 42222'
-date: 2026-09-16 10:38:02
+date: 2026-09-17 14:21:52
 image: 'https://m.media-amazon.com/images/I/51Pu6BBTY6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDNXZH/?tag=tolees0ca-21'
 descuento: '38.47'
-average: '37.9471428571427'
+average: '38.0399999999998'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

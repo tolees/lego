@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Waldpilze - Künstliches Pflanzen Set für Erwachsene - inkl. Fliegenpilz & Kunstblumen für Wohnzimmer- oder Schlafzimmer Deko - DIY Geschenkidee - 11505'
-date: 2026-09-16 10:39:12
+date: 2026-09-18 16:04:03
 image: 'https://m.media-amazon.com/images/I/51mRNscyuaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH5T6S/?tag=tolees0ca-21'
 descuento: '37.50'
-average: '52.7172727272728'
+average: '52.2976923076924'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

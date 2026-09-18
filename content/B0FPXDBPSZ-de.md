@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Hühnerfarm - Spielzeug zum Bauen mit Hühner Fan Minifigur Baby Zombie und Fuchs Figuren - Set mit Minecraft Figur - Gamer Geschenk für Jungen und Mädchen ab 7 Jahren - 21585'
-date: 2026-09-16 10:36:52
+date: 2026-09-18 15:59:54
 image: 'https://m.media-amazon.com/images/I/41YxzZjpSIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDBPSZ/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '12.9095588235293'
+average: '12.911857142857'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

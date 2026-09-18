@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions McLaren MasterCard F1 Team: Casco de Lando Norris - Merchandising de Fórmula 1 - Kit de Maquetas con Minifigura Coleccionable - Regalo para Chicos de 14+ Años y Fans del Motor - 43023'
-date: 2026-09-15 10:23:24
+date: 2026-09-18 07:07:18
 image: 'https://m.media-amazon.com/images/I/51ktwaaWssL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXFT73X/?tag=tolees-21'
 descuento: '20.00'
-average: '72.3233333333333'
+average: '72.24'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

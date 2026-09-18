@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75425 SMART Play: Mos Eisley Cantina - Compatible Interactive Toy Set incl. 3 SMART Tags and 2 Minifigures - Gift Idea for 8+ Year Old Boys Girls & Adult Fans'
-date: 2026-09-16 10:41:24
+title: 'LEGO Star Wars SMART Play: Mos Eisley Cantina - Spielzeug für Kinder - Kompatibles Set mit 3 SMART Tags und 5 Minifiguren - Geschenk für Jungen Mädchen und Star Wars Fans ab 8 Jahren - 75425'
+date: 2026-09-18 16:06:30
 image: 'https://m.media-amazon.com/images/I/51NfuyZkDLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXS67NL-de LEGO Star Wars 75425 SMART Play: Mos Eisley Cantina -...'
+slug: 'B0FPXS67NL-de LEGO Star Wars SMART Play: Mos Eisley Cantina - Spielzeug...'
 sku: 'B0FPXS67NL-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 53.55 EUR
+actualPrice: 50.37 EUR
 currency: EUR
-price: 53.55
+price: 50.37
 comparePrice: 79.99 EUR
-prodname: 'LEGO Star Wars 75425 SMART Play: Mos Eisley Cantina - Compatible Interactive Toy Set incl. 3 SMART Tags and 2 Minifigures - Gift Idea for 8+ Year Old Boys Girls & Adult Fans'
+prodname: 'LEGO Star Wars SMART Play: Mos Eisley Cantina - Spielzeug für Kinder - Kompatibles Set mit 3 SMART Tags und 5 Minifiguren - Geschenk für Jungen Mädchen und Star Wars Fans ab 8 Jahren - 75425'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXS67NL/?tag=tolees0ca-21'
-descuento: '33.05'
-average: '56.1695454545454'
+descuento: '37.03'
+average: '55.9865217391304'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Blühender Kaktus - Set mit Kunstpflanze mit 2 Kakteen & künstlichen Blüten - DIY Deko - Geschenkidee zum Geburtstag für Mädchen ab 9 Jahren & Erwachsene Pflanzenliebhaber - 11509'
-date: 2026-09-16 10:31:03
+date: 2026-09-18 16:05:55
 image: 'https://m.media-amazon.com/images/I/51LMIILeJqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF7TZV/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '19.3742028985508'
+average: '19.3633802816901'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

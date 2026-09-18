@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Setas del Bosque – Kit de Construcción con Plantas Artificiales: Setas Rojas y Flores Artificiales – Decoración para Salón y Dormitorio – Regalo de Manualidades para Adultos – 11505'
-date: 2026-09-12 11:40:16
+date: 2026-09-16 19:05:28
 image: 'https://m.media-amazon.com/images/I/51mRNscyuaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXH5T6S/?tag=tolees-21'
 descuento: '21.25'
-average: '63.09'
+average: '63.0566666666667'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

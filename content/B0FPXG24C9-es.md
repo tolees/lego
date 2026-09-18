@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - DECORACIÓN DEL HOGAR: Esta versión en ladrillo del cuadro de los nenúfares de Monet incluye un gancho en la parte posterior para colgarlo, para añadir un toque de color y serenidad a cualquier espacio
-- HOMENAJE A UNA OBRA DE ARTE: Esta pieza de decoración para la pared de tu hogar se ha creado en colaboración con el Museo Metropolitano de Arte de Nueva York, donde se exhibe el óleo de Monet de 1899
-- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con la app LEGO Builder, donde podrás acercar y girar tu modelo siguiendo instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
 - CUADRO LEGO IMPRESIONISTA: Sumérgete en una divertida construcción en la que usarás conocidos elementos LEGO, como mariposas, cerezas, plátanos, espadas y escudos, para recrear la obra maestra de Monet
-- REGALO DE MANUALIDADES PARA ADULTOS: Este cuadro LEGO es un gran regalo para mujeres y hombres con pasión por las grandes obras de la pintura
 - ESCUCHA EL PÓDCAST: Escanea el código QR que aparece en el folleto de instrucciones para escuchar un pódcast sobre Claude Monet y las fuentes de inspiración de su obra, con la participación de un conservador del Museo Metropolitano de Arte
 - ARTE MURAL BASADO EN UNA OBRA DE CLAUDE MONET: Con el kit de construcción para adultos Claude Monet: Puente sobre Estanque de Nenúfares podrás crear tu propio, detallado y vistoso cuadro basado en la obra del artista
+- HOMENAJE A UNA OBRA DE ARTE: Esta pieza de decoración para la pared de tu hogar se ha creado en colaboración con el Museo Metropolitano de Arte de Nueva York, donde se exhibe el óleo de Monet de 1899
+- REGALO DE MANUALIDADES PARA ADULTOS: Este cuadro LEGO es un gran regalo para mujeres y hombres con pasión por las grandes obras de la pintura
+- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con la app LEGO Builder, donde podrás acercar y girar tu modelo siguiendo instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXG24C9{{</world>}}

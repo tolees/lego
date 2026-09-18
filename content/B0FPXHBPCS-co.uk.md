@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- SUPER HERO HQ BUILDING TOY – Zoom into endless imaginative adventures with LEGO Marvel Iron Man and His Awesome Friends Loki vs. Team Iron Man for ages 4 and over
 - PREPARE FOR AN EPIC MISSION – Iron Man uses his spinning hologram to get ready for battle, Hulk is lifted into the mech’s cockpit by an elevator arm, Ironheart uses tools and oil to tune the vehicles
-- 4 LEGO MARVEL MINIFIGURES – Prepare for Super Hero action with Iron Man and his powerful jet plane toy, Iron Hulk and his big mech action figure, Ironheart and his speedy car and the mischievous Loki
-- MARVEL GIFT FOR KIDS – Starter Bricks and simple building steps make this a great birthday gift idea for 4+ year old boys and girls, to support development and to expand the imagination
 - IMAGINATIVE ROLE PLAY – With this educational 4+ toy, kids can recreate action from the popular TV show and play out endless adventures of their own with the included characters and vehicles
+- MARVEL GIFT FOR KIDS – Starter Bricks and simple building steps make this a great birthday gift idea for 4+ year old boys and girls, to support development and to expand the imagination
+- 4 LEGO MARVEL MINIFIGURES – Prepare for Super Hero action with Iron Man and his powerful jet plane toy, Iron Hulk and his big mech action figure, Ironheart and his speedy car and the mischievous Loki
+- SUPER HERO HQ BUILDING TOY – Zoom into endless imaginative adventures with LEGO Marvel Iron Man and His Awesome Friends Loki vs. Team Iron Man for ages 4 and over
 - MORE IRON MAN THRILLS – Inspire young Super Heroes and fans of the Disney Jr. and Disney+ TV show with the full range of creative construction sets, sold separately
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Motorradtransporter - Spielzeug zur Förderung der Feinmotorik mit Transporter 2 Motorrädern 2 Minifiguren Rampe und Zubehör - Geburtstagsgeschenk für Jungen ab 4 Jahren - 60491'
-date: 2026-09-16 10:35:41
+date: 2026-09-18 15:59:14
 image: 'https://m.media-amazon.com/images/I/51ykMgb5-KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD23ST/?tag=tolees0ca-21'
 descuento: '32.52'
-average: '13.3803921568629'
+average: '13.384528301887'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

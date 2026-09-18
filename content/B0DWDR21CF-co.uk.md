@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ONE PIECE model kit for adults – This detailed LEGO recreation of the iconic ONE PIECE location is a fun building set for manga lovers, pirate fans and men and women who love model building
-- 10 LEGO ONE PIECE minifigures – Classic scenes can be reproduced with minifigures of Luffy, Zoro, Nami, Usopp, Sanji, Zeff, Garp, Helmeppo, Koby and Mihawk
-- LEGO ONE PIECE anime gift – This build-and-display set makes a fun home or office decor piece and a great gift for men and women who are fans of the live-action ONE PIECE Netflix show
-- Detailed, accessible interior – The ship-shaped design of this DIY building set contains many rooms within its interiors, including kitchen and dining areas, Zeff’s quarters and the treasure room
-- Building sets for adults – This buildable model is part of the LEGO Sets for Adults range, (sets sold separately) designed to deliver a rewarding and immersive escape for any model-making enthusiast
-- High-quality instructions – A coffee-table-style guide provides step-by-step building instructions, design details and more, and the LEGO Builder app includes a digital version of the same guide
 - Authentic accessories – The model kit comes with 5 Wanted posters, plus lots of food and drink accessories, an iconic transponder snail (snail telephone) and Mihawks distinctive boat
+- Building sets for adults – This buildable model is part of the LEGO Sets for Adults range, (sets sold separately) designed to deliver a rewarding and immersive escape for any model-making enthusiast
+- Detailed, accessible interior – The ship-shaped design of this DIY building set contains many rooms within its interiors, including kitchen and dining areas, Zeff’s quarters and the treasure room
+- LEGO ONE PIECE anime gift – This build-and-display set makes a fun home or office decor piece and a great gift for men and women who are fans of the live-action ONE PIECE Netflix show
+- ONE PIECE model kit for adults – This detailed LEGO recreation of the iconic ONE PIECE location is a fun building set for manga lovers, pirate fans and men and women who love model building
+- High-quality instructions – A coffee-table-style guide provides step-by-step building instructions, design details and more, and the LEGO Builder app includes a digital version of the same guide
+- 10 LEGO ONE PIECE minifigures – Classic scenes can be reproduced with minifigures of Luffy, Zoro, Nami, Usopp, Sanji, Zeff, Garp, Helmeppo, Koby and Mihawk
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDR21CF{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ENHANCED, INTERACTIVE FUN – The LEGO Builder app helps your child build independently with tools that let them zoom in and rotate sets using 3D instructions, track progress and save them in one place
-- STAR WARS BUILDING TOY – Play out exciting movie action with the LEGO Star Wars AT-RT Attack building toy for 7+ year old boys and girls
-- STAR WARS GIFT FOR KIDS – This building set makes a cool LEGO gift for 7+ year old boys, girls and older Star Wars: The Mandalorian and Grogu fans
 - EXPLORE THE RANGE – Look out for more collectible LEGO Star Wars sets inspired by Star Wars: The Mandalorian and Grogu (sold separately) to relive thrilling scenes and create new fantasy adventures
-- THREE LEGO STAR WARS CHARACTERS – Team up with The Mandalorian LEGO Star Wars minifigure and Grogu figure to battle against the Imperial Remnant AT-RT Driver
 - AT-RT MODEL KIT – Pose the legs of the AT-RT, aim and fire the dual stud shooter and remove a dashboard brick to make room for Grogu to ride with The Mandalorian
 - DEFENSIVE TOWER – Place a LEGO minifigure behind the dual stud shooter, turn the rotating turret to aim in any direction, and open the base to reveal a weapons rack and storage space
+- ENHANCED, INTERACTIVE FUN – The LEGO Builder app helps your child build independently with tools that let them zoom in and rotate sets using 3D instructions, track progress and save them in one place
+- THREE LEGO STAR WARS CHARACTERS – Team up with The Mandalorian LEGO Star Wars minifigure and Grogu figure to battle against the Imperial Remnant AT-RT Driver
+- STAR WARS GIFT FOR KIDS – This building set makes a cool LEGO gift for 7+ year old boys, girls and older Star Wars: The Mandalorian and Grogu fans
+- STAR WARS BUILDING TOY – Play out exciting movie action with the LEGO Star Wars AT-RT Attack building toy for 7+ year old boys and girls
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXF2J99{{</world>}}

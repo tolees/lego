@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ACTIONFIGUR FÜR KINDER: LEGO Fortnite KIT ist ein Bauset für Kinder ab 12 Jahren und basiert auf einem Outfit aus dem Videospiel. Gamer werden kreativ mit der Actionfigur spielen
 - LEGO FORTNITE MINIFIGUR: Du kannst die Figur KIT neben das 3D Modell stellen und spannende Actionszenen wie im Videospiel nachspielen
-- DETAILREICHER MODELLBAU: Das KIT verfügt über bewegliche Arme und Beine und hält eine Powerkralle in der Hand; über die Kurbel am Rücken lässt sich das Rad des Bikes drehen
+- ACTIONFIGUR FÜR KINDER: LEGO Fortnite KIT ist ein Bauset für Kinder ab 12 Jahren und basiert auf einem Outfit aus dem Videospiel. Gamer werden kreativ mit der Actionfigur spielen
 - LEGO FORTNITE GESCHENK FÜR KINDER: Das Spielzeug ist ein beliebtes Geburtstags- oder Weihnachtsgeschenk, das bei Kindern und Gamern für Begeisterung sorgt
+- DETAILREICHER MODELLBAU: Das KIT verfügt über bewegliche Arme und Beine und hält eine Powerkralle in der Hand; über die Kurbel am Rücken lässt sich das Rad des Bikes drehen
 - SPIELEN UND ALS DIY GAMER DEKO AUSSTELLEN: Fans können mit dem Mech LEGO Fortnite Abenteuer nachspielen und das Modell anschließend auf dem Schreibtisch oder im Regal präsentieren
 - BONUS-IN-GAME-ITEM: In der LEGO Builder App findest du die Bauanleitung und der Mech wird zum Bonus-In-Game-Item, dem Cate Meowdy Outfit, das im Videospiel LEGO Fortnite freigeschaltet werden kann
 

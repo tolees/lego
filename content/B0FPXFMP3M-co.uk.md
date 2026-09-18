@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- STAR WARS GIFT FOR KIDS – This building set makes a cool LEGO gift for 10+ year old boys, girls and older Star Wars: The Mandalorian and Grogu fans
-- POSABLE STAR WARS FIGURE – Move the lever to turn Grogu’s head, reattach his arms in different ways and adjust his mouth, ears, hands and fingers to create many characteristic poses
-- STAR WARS DECORATION – Create a playful display with this LEGO Star Wars Grogu (Mandalorian Apprentice) building toy for 10+ year old boys, girls and teenage fans
-- EXPLORE THE RANGE – Look out for more collectible LEGO Star Wars sets inspired by Star Wars: The Mandalorian and Grogu (sold separately) to relive thrilling scenes or create new stories
-- KIDS BEDROOM DECOR – Display the main buildable toy model with the Grogu info plaque and standard-size Grogu LEGO Star Wars figure
-- AUTHENTIC DETAILS – Capture the look of Grogu’s beskar armour, build his satchel with a blue cookie accessory inside, and place a cookie in his hand
 - 3D INSTRUCTIONS – Kids can create like never before with the LEGO Builder app, where they can save sets, track progress, zoom in and rotate their set with 3D instructions
+- AUTHENTIC DETAILS – Capture the look of Grogu’s beskar armour, build his satchel with a blue cookie accessory inside, and place a cookie in his hand
+- STAR WARS DECORATION – Create a playful display with this LEGO Star Wars Grogu (Mandalorian Apprentice) building toy for 10+ year old boys, girls and teenage fans
+- KIDS BEDROOM DECOR – Display the main buildable toy model with the Grogu info plaque and standard-size Grogu LEGO Star Wars figure
+- EXPLORE THE RANGE – Look out for more collectible LEGO Star Wars sets inspired by Star Wars: The Mandalorian and Grogu (sold separately) to relive thrilling scenes or create new stories
+- POSABLE STAR WARS FIGURE – Move the lever to turn Grogu’s head, reattach his arms in different ways and adjust his mouth, ears, hands and fingers to create many characteristic poses
+- STAR WARS GIFT FOR KIDS – This building set makes a cool LEGO gift for 10+ year old boys, girls and older Star Wars: The Mandalorian and Grogu fans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFMP3M{{</world>}}

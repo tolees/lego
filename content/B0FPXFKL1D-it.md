@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 13 MINIFIGURE: con i personaggi di Harry Potter, Hermione Granger, Ron Weasley, Argus Filch e il Barone Sanguinario, il gatto Mrs Purr, il Patronus Cerva, il Basilisco, Fanny e altro ancora
-- MODALITÀ BUILD TOGETHER: l’app LEGO Builder consente una costruzione collaborativa con amici e familiari usando i propri dispositivi; il set può essere collegato ad altri della gamma (disponibili a parte) per unambientazione completa
-- REGALO HARRY POTTER: unottima idea regalo di compleanno per bambine e bambini amanti della serie, pensata per i fan dei gadget e delle decorazioni di Harry Potter da collezione
-- CASTELLO LEGO DA ESPOSIZIONE: esplora la sezione proibita della biblioteca e il bagno con scivolo segreto nella Camera dei Segreti, ed estrai la camera e la sala comune di Serpeverde per facilitare i giochi creativi
 - DECORAZIONE DA CAMERETTA: incontra il Basilisco nella Camera pronto a combattere Harry Potter, e cerca il diario di Tom Riddle, la Spada di Grifondoro e 4 dei 14 ritratti collezionabili di Hogwarts
+- CASTELLO LEGO DA ESPOSIZIONE: esplora la sezione proibita della biblioteca e il bagno con scivolo segreto nella Camera dei Segreti, ed estrai la camera e la sala comune di Serpeverde per facilitare i giochi creativi
+- REGALO HARRY POTTER: unottima idea regalo di compleanno per bambine e bambini amanti della serie, pensata per i fan dei gadget e delle decorazioni di Harry Potter da collezione
+- MODALITÀ BUILD TOGETHER: l’app LEGO Builder consente una costruzione collaborativa con amici e familiari usando i propri dispositivi; il set può essere collegato ad altri della gamma (disponibili a parte) per unambientazione completa
 - GIOCO DI RUOLO PER BAMBINE E BAMBINI DA 10 ANNI IN SU: dai vita ai misteri della Camera dei Segreti con il dettagliato giocattolo LEGO Harry Potter Castello di Hogwarts: Ala orientale, che include un viadotto e un ponte
 
 [🛒 Buy it!!]({{< param buyurl >}})

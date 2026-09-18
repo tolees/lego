@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Disney Stitch und Scrump - 2 Figuren mit Zubehör inkl. Ukulele als Zimmerdeko - Geburtstagsgeschenk für Mädchen Jungen und Filmfans ab 9 Jahren - 43296'
-date: 2026-09-16 10:41:57
+date: 2026-09-18 16:06:42
 image: 'https://m.media-amazon.com/images/I/51PEqzlvywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FQP58M4R/?tag=tolees0ca-21'
 descuento: '32.86'
-average: '48.7816666666667'
+average: '48.5257142857143'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

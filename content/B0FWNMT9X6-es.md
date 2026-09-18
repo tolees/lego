@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- RÉPLICA DEL CASCO: Codiseñado por Oscar Piastri y su equipo, la maqueta luce el distintivo color papaya de McLaren para celebrar el GRAN PREMIO número 1000 del equipo y el característico color azul de Oscar
+- LEGO EDITIONS: Explora la colección LEGO Editions para descubrir más sets inspirados en la F1 (a la venta por separado) que encantarán a los aficionados a la Fórmula 1
+- DECORACIÓN DE LA HABIATCIÓN JUVENIL: Esta maqueta 3D del casco de Oscar Piastri se convierte en una decoración deportiva que los fans pueden exponer con orgullo junto a otros cascos de F1 LEGO (a la venta por separado)
 - UNA PARADA EN BOXES DIGITAL: Los aspirantes a pilotos pueden sumergirse en la acción de la F1 haciendo un seguimiento de su progreso y también acercando y girando sus creaciones en la app LEGO Builder
 - MERCHANDISING DE FÓRMULA 1: incluye una minifigura de Oscar Piastri con la ropa que lleva antes de la carrera, placa con su firma y número de piloto, y su logotipo OP en la parte inferior
-- RÉPLICA DEL CASCO: Codiseñado por Oscar Piastri y su equipo, la maqueta luce el distintivo color papaya de McLaren para celebrar el GRAN PREMIO número 1000 del equipo y el característico color azul de Oscar
-- CASCO DE F1 LEGO: Abróchate el cinturón y construye el set LEGO Editions McLaren Mastercard F1 Team: Casco de Oscar Piastri, un kit de maquetas para niños y niñas a partir de 14 años
-- LEGO EDITIONS: Explora la colección LEGO Editions para descubrir más sets inspirados en la F1 (a la venta por separado) que encantarán a los aficionados a la Fórmula 1
 - REGALOS DE F1: Este kit de maquetas McLaren F1 es un gran regalo de cumpleaños para chicos y chicas de 14 años en adelante y seguidores del automovilismo
-- DECORACIÓN DE LA HABIATCIÓN JUVENIL: Esta maqueta 3D del casco de Oscar Piastri se convierte en una decoración deportiva que los fans pueden exponer con orgullo junto a otros cascos de F1 LEGO (a la venta por separado)
+- CASCO DE F1 LEGO: Abróchate el cinturón y construye el set LEGO Editions McLaren Mastercard F1 Team: Casco de Oscar Piastri, un kit de maquetas para niños y niñas a partir de 14 años
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FWNMT9X6{{</world>}}

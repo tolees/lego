@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75444 Angriff des AT-RT - Modellbau mit imperialem Walker Turm Mandalorianer Minifigur & Grogu Figur - Geburtstagsgeschenk für Jungen ab 7 Jahren & Fans'
-date: 2026-09-16 10:41:51
+date: 2026-09-18 16:05:24
 image: 'https://m.media-amazon.com/images/I/514WU-qm8nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF2J99/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '32.106'
+average: '31.8570588235294'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

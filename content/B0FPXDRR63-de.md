@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Sports Offizieller Pokal der FIFA Fußball-Weltmeisterschaft - 3D DIY Modell mit sammelbarer Minifigur - Fußball Geschenk für Jungen & Mädchen ab 12 Jahren und Erwachsene Fans - 43020'
-date: 2026-09-16 10:39:05
+date: 2026-09-18 16:02:12
 image: 'https://m.media-amazon.com/images/I/51iF6a5CQ1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDRR63/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '130.572666666667'
+average: '129.327647058823'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DREAMZzz 2in1 Krokodil-U-Boot - Spielzeug verwandelbar in Adler-U-Boot - inkl. 3 Minifiguren 2 Spinnen und Einer sammelbaren blauen Schatz-Kreatur - Geschenk für Jungen ab 8 Jahren - 71512'
-date: 2026-09-16 10:39:22
+date: 2026-09-18 16:02:27
 image: 'https://m.media-amazon.com/images/I/51iaWkFK4pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDS559/?tag=tolees0ca-21'
 descuento: '42.86'
-average: '44.6048'
+average: '44.262962962963'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

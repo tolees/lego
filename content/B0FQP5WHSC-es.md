@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4 MINI MUÑECOS Y 3 FIGURAS DE ANIMALES: Mini Muñeca de Ariel, Eric, el Rey Tritón con su tridente, Úrsula en forma de Vanessa, el perrito Max, el cangrejo Sebastián de juguete y Flounder
-- MÁS DIVERSIÓN: Amplía la colección de tu peque con este modelo inspirado en La sirenita y explora el extenso surtido de imaginativos juguetes de construcción LEGO | Disney, a la venta por separado
-- IDEA DE REGALO DISNEY: Sorprende a una niña, un niño o cualquier fan de La sirenita de Disney a partir de 6 años con este divertido regalo para cumpleaños y ocasiones especiales
-- UNA AYUDA PRÁCTICA: Descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los niños pueden acercar y girar modelos en 3D, consultar su progreso y guardar sets a medida que adquieren nuevas habilidades
-- ACCESORIOS PARA EL JUEGO DE ROL: Candelabro con cubiertos, telescopio, cofre del tesoro con joyas, Ariel en forma de sirena, carruaje tirado por un delfín y más accesorios que exponer como deocración de la habitación
 - CREATIVAS FUNCIONES: Gira el timón del barco de juguete y quita la cubierta para descubrir un camarote, descubre espacio de almacenamiento debajo del cubrecama y baila en la pista giratoria de la proa
 - BARCO DE JUGUETE DE LA SIRENITA: Con el set LEGO princesas Disney Barco de la Boda Real de Ariel de juguete, las niñas y niños a partir de 6 años podrán desarrollar su imaginación creando historias
+- IDEA DE REGALO DISNEY: Sorprende a una niña, un niño o cualquier fan de La sirenita de Disney a partir de 6 años con este divertido regalo para cumpleaños y ocasiones especiales
+- 4 MINI MUÑECOS Y 3 FIGURAS DE ANIMALES: Mini Muñeca de Ariel, Eric, el Rey Tritón con su tridente, Úrsula en forma de Vanessa, el perrito Max, el cangrejo Sebastián de juguete y Flounder
+- UNA AYUDA PRÁCTICA: Descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los niños pueden acercar y girar modelos en 3D, consultar su progreso y guardar sets a medida que adquieren nuevas habilidades
+- ACCESORIOS PARA EL JUEGO DE ROL: Candelabro con cubiertos, telescopio, cofre del tesoro con joyas, Ariel en forma de sirena, carruaje tirado por un delfín y más accesorios que exponer como deocración de la habitación
+- MÁS DIVERSIÓN: Amplía la colección de tu peque con este modelo inspirado en La sirenita y explora el extenso surtido de imaginativos juguetes de construcción LEGO | Disney, a la venta por separado
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FQP5WHSC{{</world>}}

@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - MORE LEGO MINECRAFT TOYS – Check out the full range of building sets (sold separately) and take kids’ game-inspired play to the next level
-- KIDS ROOM DECOR – Once the characters are built, fans of the popular video game can proudly display them on a shelf or desk in their bedrooms
-- MINECRAFT FIGURES – Build, play and display with posable figures from the popular game with the LEGO Minecraft Chicken Jockey Desert Attack toy for 9+ year old boys and girls
-- 6 BRICK-BUILT CHARACTERS – Create LEGO Minecraft mobs; a baby husk, chicken, rabbit, baby villager, baby wolf and iron golem, all jointed for dynamic fun
-- GIFT FOR GAMERS – Treat creative kids and older fans to this Minecraft-themed birthday gift idea for 9+ year old boys and girls
 - RECREATE MINECRAFT ACTION – Put the baby husk on the chicken to make a chicken jockey, add a collar to tame the wild baby wolf, and launch an arm-swinging golem attack by pressing the model’s head
+- GIFT FOR GAMERS – Treat creative kids and older fans to this Minecraft-themed birthday gift idea for 9+ year old boys and girls
+- MINECRAFT FIGURES – Build, play and display with posable figures from the popular game with the LEGO Minecraft Chicken Jockey Desert Attack toy for 9+ year old boys and girls
+- KIDS ROOM DECOR – Once the characters are built, fans of the popular video game can proudly display them on a shelf or desk in their bedrooms
+- 6 BRICK-BUILT CHARACTERS – Create LEGO Minecraft mobs; a baby husk, chicken, rabbit, baby villager, baby wolf and iron golem, all jointed for dynamic fun
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXD8SVZ{{</world>}}

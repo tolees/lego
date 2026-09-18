@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Peppa Wutz Familienhaus - Lernspielzeug zur Förderung der Motorik - Montessori Spielzeug mit 5 Figuren & Puppenhaus Zubehör - Geschenk für Mädchen & Jungen ab 2 Jahren - 10467'
-date: 2026-09-16 10:37:23
+date: 2026-09-18 16:01:37
 image: 'https://m.media-amazon.com/images/I/51BiJcT21cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGMSQ3/?tag=tolees0ca-21'
 descuento: '35.72'
-average: '47.19'
+average: '46.9311764705882'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City F1 Truck mit Audi F1 Rennwagen - Spielzeug Modellbau mit 3 Minifiguren und Fahrzeug Hebefunktion - Geschenkidee für Jungen ab 7 Jahren und Motorsportfans - 60493'
-date: 2026-09-16 10:32:52
+date: 2026-09-18 15:28:38
 image: 'https://m.media-amazon.com/images/I/51uPXFXrLlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFL5ZW/?tag=tolees0ca-21'
 descuento: '44.45'
-average: '27.7699999999999'
+average: '27.5640740740739'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

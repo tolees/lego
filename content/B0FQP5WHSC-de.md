@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - ZUBEHÖR FÜR FANTASIEVOLLE ROLLENSPIELE: Ein Armleuchter mit Besteck, ein Fernrohr, eine Schatzkiste voller Edelsteine sowie Arielle in Gestalt einer Meerjungfrau lassen Kinder Filmszenen nachspielen
-- NÜTZLICHE HELFER: Die LEGO Builder App bietet intuitive Bauanleitungen, mit denen Kinder 3D Modelle vergrößern, drehen und ihren Baufortschritt verfolgen können
 - WEITERE SPIELSACHEN: Erweitere die Sammlung mit diesem Arielle Fanartikel, die Meerjungfrau und entdecke das breite Angebot an fantasievollen (separat erhältlichen) LEGO ǀ Disney Bauspielzeugen
-- DISNEY GESCHENK FÜR MÄDCHEN UND JUNGEN: Dieser Bausatz ist ein beliebtes Geschenk für Kinder ab 6 Jahren und für Fans des Disney Films Arielle, die Meerjungfrau
-- DISNEY PRINCESS SPIELSET: Arielles Königliches Hochzeitsboot ist ein Spielzeug mit vielen Details, das Kinder ein besseres Vorstellungsvermögen entwickeln und viele fantasievolle Geschichten darstellen lässt
-- 7 FIGUREN: Die LEGO ǀ Disney Princess Figuren Arielle, Prinz Erik, König Triton mit seinem Dreizack, Ursula als Vanessa sowie Max, Sebastian und Fabius laden Kinder zum Spielen ein
 - MODELLBAU MIT VIELEN FUNKTIONEN: Dreh am Ruder und nimm das Oberdeck ab, um ein Schlafzimmer zu enthüllen, unter der Bettdecke findest du einen Staukasten, wechsle dich dann mit den anderen auf der Tanzfläche ab
+- DISNEY GESCHENK FÜR MÄDCHEN UND JUNGEN: Dieser Bausatz ist ein beliebtes Geschenk für Kinder ab 6 Jahren und für Fans des Disney Films Arielle, die Meerjungfrau
+- 7 FIGUREN: Die LEGO ǀ Disney Princess Figuren Arielle, Prinz Erik, König Triton mit seinem Dreizack, Ursula als Vanessa sowie Max, Sebastian und Fabius laden Kinder zum Spielen ein
+- DISNEY PRINCESS SPIELSET: Arielles Königliches Hochzeitsboot ist ein Spielzeug mit vielen Details, das Kinder ein besseres Vorstellungsvermögen entwickeln und viele fantasievolle Geschichten darstellen lässt
+- NÜTZLICHE HELFER: Die LEGO Builder App bietet intuitive Bauanleitungen, mit denen Kinder 3D Modelle vergrößern, drehen und ihren Baufortschritt verfolgen können
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FQP5WHSC{{</world>}}

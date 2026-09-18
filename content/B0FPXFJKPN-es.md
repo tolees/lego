@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- MAQUETA 3D CON CASCADA: El set LEGO Art tiene una cascada que atraviesa el marco y colgado en la pared, parece salir directamente de él; y si lo colocas de pie, el agua parece caer sobre la superficie
 - EXPLORA MÁS ARTE LEGO ART: La gama LEGO Art ofrece a los adultos la oportunidad de crear obras de arte inspiradas en sus mayores aficiones para exponerlas en casa o en la oficina
+- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, donde puedes acercar y girar tu modelo con las instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
+- MAQUETA PARA ADULTOS DE JAPÓN: Construye tu propia decoración japonesa para tu hogar con el kit de construcción para adultos LEGO Art Paisaje Japonés con Cerezos en Flor
+- MARCO CON PROFUNDIDAD: Este kit de maquetas incluye un marco negro con profundidad y detalles dorados para colocarse en la pared o de pie como decoración del escritorio o estantería
 - REGALO PARA MUJERES Y HOMBRES APASIONADOS POR JAPÓN: Obsequia con este kit de manualidades para adultos de un cuadro de paisaje a mujeres y hombres apasionados por Japón, los viajes, el arte o la decoración
 - DECORACIÓN JAPONESA: Esta recreación LEGO de un paisaje japonés incluye el monte Fuji, una casa de té, grullas japonesas, arces ‘Sango-kaku’, cerezos japoneses en flor y pinos sombrilla
-- INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, donde puedes acercar y girar tu modelo con las instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
-- MARCO CON PROFUNDIDAD: Este kit de maquetas incluye un marco negro con profundidad y detalles dorados para colocarse en la pared o de pie como decoración del escritorio o estantería
-- MAQUETA PARA ADULTOS DE JAPÓN: Construye tu propia decoración japonesa para tu hogar con el kit de construcción para adultos LEGO Art Paisaje Japonés con Cerezos en Flor
-- MAQUETA 3D CON CASCADA: El set LEGO Art tiene una cascada que atraviesa el marco y colgado en la pared, parece salir directamente de él; y si lo colocas de pie, el agua parece caer sobre la superficie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFJKPN{{</world>}}

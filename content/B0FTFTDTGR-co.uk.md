@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- KIDS ROOM DECOR – Teens and fans can showcase their passion for the sport by hanging this collectible wall art display in a bedroom or office alongside other Messi merchandise and memorabilia
 - AN ICONIC POSE – Enjoy an immersive project with this building set as you create Lionel Messi in his signature victory pose with fingers pointing against a backdrop of sky and pitch
 - FOOTBALL GIFT FOR SPORTS FANS – The set is a fun gift idea for 14+ year old teenage boys and girls, as well as adult Lionel Messi fans on birthdays or simply to celebrate the love of the game
 - EXPLORE THE LEGO EDITIONS COLLECTION – Show your love for other legendary sports stars with a wide range of models (sold separately) for fans
-- 3D MESSI WALL ART – Cheer on an iconic player with the collectible LEGO Editions Lionel Messi – Celebration set for 14+ year old teenage boys and girls
-- KIDS ROOM DECOR – Teens and fans can showcase their passion for the sport by hanging this collectible wall art display in a bedroom or office alongside other Messi merchandise and memorabilia
-- MATCH DAY FEATURES – The player’s striped “10” shirt takes centre stage, and the set is packed with Easter eggs that nod to his life and career, a surprising treat for super fans
 - A DIGITAL ASSIST – Budding sports stars can access instructions digitally in the LEGO Builder app, where they can track progress and rotate their models
+- MATCH DAY FEATURES – The player’s striped “10” shirt takes centre stage, and the set is packed with Easter eggs that nod to his life and career, a surprising treat for super fans
+- 3D MESSI WALL ART – Cheer on an iconic player with the collectible LEGO Editions Lionel Messi – Celebration set for 14+ year old teenage boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FTFTDTGR{{</world>}}

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track progress and save sets as they develop new skills
+- BUILD A DINOSAUR FIGURE – Fans can practise their building skills as they construct and admire the details of the Pteranodon dino toy, plus a red squid
+- COLLECTIBLE SETS – Discover more LEGO Jurassic World toys (sold separately) and foster a kid’s love of dinosaurs, helping them to expand their creativity and develop storytelling skills
 - KIDS ROOM DECOR – Pose the interactive toy by opening its jaw, moving its head and legs, and flapping its wings, to create a cute display on a shelf or desk
 - PTERANODON TOY FOR KIDS – Inspire kids to explore their passion for prehistoric Cretaceous-era animals with this LEGO Jurassic World Baby Dinosaur: Pteranodon toy for 7+ year old boys and girls
-- COLLECTIBLE SETS – Discover more LEGO Jurassic World toys (sold separately) and foster a kid’s love of dinosaurs, helping them to expand their creativity and develop storytelling skills
-- DINOSAUR GIFT IDEA FOR KIDS – This baby dinosaur toy makes a fun anytime treat or birthday gift for 7+ year old boys and girls who love animals and nature
-- BUILD A DINOSAUR FIGURE – Fans can practise their building skills as they construct and admire the details of the Pteranodon dino toy, plus a red squid
 - CREATIVE PLAY POSSIBILITIES – Encourage endless pretend play with the adorable dinosaur – make the baby pteranodon chase the squid and try to catch it for a snack
-- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track progress and save sets as they develop new skills
+- DINOSAUR GIFT IDEA FOR KIDS – This baby dinosaur toy makes a fun anytime treat or birthday gift for 7+ year old boys and girls who love animals and nature
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0GGSC1GMH{{</world>}}

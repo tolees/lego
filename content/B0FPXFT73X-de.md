@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions McLaren MasterCard F1 Team Lando Norris’ Helm - F1 Fanartikel - Modellbau mit Minifigur zum Sammeln - Geschenk für Jungen ab 14 Jahren & Erwachsene Motorsportfans - 43023'
-date: 2026-09-16 10:34:31
+date: 2026-09-18 15:48:58
 image: 'https://m.media-amazon.com/images/I/51ktwaaWssL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

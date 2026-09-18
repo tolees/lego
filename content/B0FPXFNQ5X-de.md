@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Sonic the Hedgehog Silvers Auto vs. Knuckles’ Monstertruck - Kinder Spielzeug mit 2 Flitzern und 2 Minifiguren - Geschenk für Jungen und Mädchen ab 8 Jahren - Sonic Fanartikel für Gamer - 77118'
-date: 2026-09-16 10:33:27
+date: 2026-09-18 15:34:26
 image: 'https://m.media-amazon.com/images/I/51awqE3bl8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFNQ5X/?tag=tolees0ca-21'
 descuento: '37.51'
-average: '25.5724242424244'
+average: '25.539142857143'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

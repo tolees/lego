@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Captain America, Black Widow, Loki and Chitauri minifigures, and a Hulk figure
 - The LEGO Marvel Avengers must save the city from attack by the Leviathan
+- Captain America, Black Widow, Loki and Chitauri minifigures, and a Hulk figure
 - Playset based on the final battle scene in Marvel Studios’ Marvel: The Avengers
 
 [🛒 Buy it!!]({{< param buyurl >}})

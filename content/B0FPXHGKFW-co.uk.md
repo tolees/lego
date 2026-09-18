@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - SUPER HERO TOY FOR FUN – Kids’ imaginations soar with this buildable Marvel toy as they place Ultron in his flying ship, then power up when Iron Man is placed in the posable mech
+- MARVEL GIFT IDEA FOR KIDS – This set makes a great birthday gift idea for 4+ year old boys and girls, to support development and to expand the imagination
 - CREATIVE ROLE PLAY – With this educational toy, kids can recreate action from the popular TV show and use their imaginations to play out endless adventures of their own
+- MORE IRON MAN THRILLS – Inspire young Super Heroes and fans of the Disney Jr. and Disney+ TV show with the full range of creative construction sets, sold separately
 - 2 LEGO MARVEL MINIFIGURES – Includes Iron Man and Ultron minifigures, a mech action figure and a flying ship, plus large Starter Bricks to make assembling fast and fun
 - LEGO IRON MAN MECH SET – Ignite the imaginations of young Super Heroes with LEGO Marvel Iron Man and His Awesome Friends Ultron vs. Iron Man toy for 4+ year old boys and girls
-- MARVEL GIFT IDEA FOR KIDS – This set makes a great birthday gift idea for 4+ year old boys and girls, to support development and to expand the imagination
-- MORE IRON MAN THRILLS – Inspire young Super Heroes and fans of the Disney Jr. and Disney+ TV show with the full range of creative construction sets, sold separately
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXHGKFW{{</world>}}

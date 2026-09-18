@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO 3-in-1 Baufahrzeuge - Pädagogisches Montessori Spielzeug für Kleinkinder mit Lastwagen Bagger und Radlader - Geburtstagsgeschenk für Jungen und Mädchen ab 2 Jahren - 10475'
-date: 2026-09-16 10:30:05
+date: 2026-09-18 14:52:42
 image: 'https://m.media-amazon.com/images/I/51dv+ba-8RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTWBPPI/?tag=tolees0ca-21'
 descuento: '40.02'
-average: '15.6864761904759'
+average: '15.6609174311924'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

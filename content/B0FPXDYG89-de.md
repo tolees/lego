@@ -31,10 +31,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - SPIELSACHEN MIT 3D BAUANLEITUNG: Freu dich auf ein neuartiges Bauerlebnis mit den digitalen Bauanleitungen in der LEGO Builder App; du kannst in der App Sets speichern, ein 3D-Modell vergrößern und drehen
 - WINNIE PUUH MODELLBAU: Das Bauset beinhaltet neben vielen anderen fantasievollen Elementen auch eine Geburtstagstorte mit Kerze; klappt man die Torte auf, kommen 2 Räume zum Vorschein
 - VIELE KREATIVE POSEN: Bewege Ferkels Kopf, Ohren, Arme und Füße, drück ihm das Zubehör in die Hände und stell die LEGO Figur neben die geöffnete oder geschlossene Spielzeug Torte
-- DISNEY MODELL ZUM BAUEN: Die LEGO Figur aus dem Disney Classic Ferkels Geburtstagsspaß Set zum Spielen lässt Kinder ab 9 Jahren ihre Begeisterung für Winnie Puuh ausleben und seinen 100. Geburtstag feiern
-- GESCHENKIDEE FÜR KINDER: Das Modell aus LEGO Steinen zum Bauen, Spielen und Ausstellen ist eine beliebte Geschenkidee für Mädchen und Jungen ab 9 Jahren, die den Disney Film Winnie Pooh lieben
 - BELIEBTE DISNEY FIGUR: Das Ferkels Geburtstagsspaß 3D Puzzle beinhaltet unter anderem eine große LEGO Figur von Ferkel sowie eine sich öffnende Geburtstagstorte mit Kerze
+- DISNEY MODELL ZUM BAUEN: Die LEGO Figur aus dem Disney Classic Ferkels Geburtstagsspaß Set zum Spielen lässt Kinder ab 9 Jahren ihre Begeisterung für Winnie Puuh ausleben und seinen 100. Geburtstag feiern
 - BAUEN, SPIELEN UND AUSSTELLEN: Dieses 3D Modell gehört zu einer ganzen Reihe von separat erhältlichen Disney Figuren zum Spielen und Ausstellen für Kinder und Filmfans, die gerne bauen und sammeln
+- GESCHENKIDEE FÜR KINDER: Das Modell aus LEGO Steinen zum Bauen, Spielen und Ausstellen ist eine beliebte Geschenkidee für Mädchen und Jungen ab 9 Jahren, die den Disney Film Winnie Pooh lieben
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDYG89{{</world>}}

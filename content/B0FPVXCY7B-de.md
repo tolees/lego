@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- KREATIVE POSIERMÖGLICHKEITEN: Bewege Winnie Puuhs Kopf, Ohren, Arme und Hände, um ausdrucksstarke Posen zu kreieren, und entdecke versteckte Überraschungen im 3D Puzzle
-- DIGITALE BAUANLEITUNG: Mit der intuitiven LEGO Builder App kannst du Schritt-für-Schritt-3D-Anleitungen verfolgen, das Baumodell zoomen und drehen sowie deinen Baufortschritt im Blick behalten
+- TEIL EINER SAMMLERREIHE: Dieses Winnie Pooh Set gehört zu einer größeren Kollektion ikonischer Filmfiguren, die für erwachsene Fans und Sammler entwickelt wurde (jeweils separat erhältlich)
 - SAMMELMODELL WINNIE PUH: Feiere den 100. Geburtstag der beliebten Bären Figur mit dem LEGO Disney Winnie Puuh Set für erwachsene Fans und erinnere dich an seine vielen Abenteuer
 - NOSTALGISCHES GESCHENK FÜR ERWACHSENE: Dieses detailreiche Disney Modell ist ein besonderes Geburtstagsgeschenk für Frauen und Männer, die mit Winnie Puuh aufgewachsen sind
+- KREATIVE POSIERMÖGLICHKEITEN: Bewege Winnie Puuhs Kopf, Ohren, Arme und Hände, um ausdrucksstarke Posen zu kreieren, und entdecke versteckte Überraschungen im 3D Puzzle
 - AUS DEM HUNDERTMORGENWALD: Der Modellbau enthält eine baubare Winnie Puuh Figur, einen baubaren Honig-Topf mit versteckten Details sowie geheime Überraschungen und zwei LEGO Minifiguren zum Entdecken
-- TEIL EINER SAMMLERREIHE: Dieses Winnie Pooh Set gehört zu einer größeren Kollektion ikonischer Filmfiguren, die für erwachsene Fans und Sammler entwickelt wurde (jeweils separat erhältlich)
+- DIGITALE BAUANLEITUNG: Mit der intuitiven LEGO Builder App kannst du Schritt-für-Schritt-3D-Anleitungen verfolgen, das Baumodell zoomen und drehen sowie deinen Baufortschritt im Blick behalten
 - SCHÖNE ERINNERUNGEN: Der Honigtopf enthält zwei Bienen und lässt sich öffnen, um zwei versteckte Räume freizugeben – mit einer kleinen Winnie Puuh- und einer I-Aah LEGO Tierfigur sowie vielen Details
 
 [🛒 Buy it!!]({{< param buyurl >}})

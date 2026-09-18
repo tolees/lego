@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Jeep Wrangler Rubicon Geländewagen - Off-Road Spielzeug Fahrzeug Modellbau mit V6-Motor Lenkung & Federung - STEM Geburtstagsgeschenk für Jungen ab 10 Jahren - 42227'
-date: 2026-09-16 10:40:34
+date: 2026-09-18 16:03:54
 image: 'https://m.media-amazon.com/images/I/518xwyLs0gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDZ368/?tag=tolees0ca-21'
 descuento: '36.93'
-average: '43.535'
+average: '43.3229166666666'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Skeleton toy – The magic of the building set is brought to life by a LEGO skeleton minifigure that has an open mouth, conjuring up hours of creative role play
 - Display toy – Once complete, the haunted barn can continue to enchant kids when showcased in their bedrooms or when used as LEGO Halloween decor
+- Skeleton toy – The magic of the building set is brought to life by a LEGO skeleton minifigure that has an open mouth, conjuring up hours of creative role play
 - Halloween toy for kids – Let creativity bubble over with this fun LEGO Halloween Barn building toy for 8+ year old boys and girls
 - Halloween gift for kids – This LEGO building toy set makes a great anytime treat, Halloween or birthday gift for 8+ year old boys and girls
 - Packed with details – This creative toy features teeth hidden behind the door, bat and lamp toys, as well as a decorated eye, a green bottle, a black jar and an old tree

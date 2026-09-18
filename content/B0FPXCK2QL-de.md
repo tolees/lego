@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Schloss Hogwarts: Krankenflügel - DIY Set mit 7 Minifiguren - Modellbau mit Hermine und Ron Figuren - Kreatives Geschenk für Mädchen Jungen und Fans ab 9 Jahren - 76463'
-date: 2026-09-16 10:34:24
+date: 2026-09-18 15:45:32
 image: 'https://m.media-amazon.com/images/I/51mBL3SK6kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCK2QL/?tag=tolees0ca-21'
 descuento: '35.00'
-average: '67.1545945945946'
+average: '67.0435897435897'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

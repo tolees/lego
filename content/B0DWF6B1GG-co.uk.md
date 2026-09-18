@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Toddler learning toys – This 3in1 dinosaur toy helps toddlers develop creativity, focus and perseverance, as well as gross and fine motor skills, logical thinking and colour sorting
-- 6 dinosaur figures – Includes 108 toddler-friendly bricks for preschoolers to build into a Diplodocus and T. rex, a Triceratops and Stegosaurus or Parasaurolophus and Pteranodon toys
-- Digital building instructions – The LEGO Builder app features a digital version of the instructions included with this animal toy, which has been rigorously tested to ensure a safe play experience
 - Gift for toddlers – This educational LEGO DUPLO toy makes an engaging special occasion, birthday or everyday gift for 3+ year old boys and girls who love vehicles or dinosaur toys
+- Toddler learning toys – This 3in1 dinosaur toy helps toddlers develop creativity, focus and perseverance, as well as gross and fine motor skills, logical thinking and colour sorting
 - Fine motor skills toys with moving parts – Little fingers will love to explore the dinosaur toys moving necks, articulated tails, flapping wings and mouths that open and close
-- Toddler toy for 3+ year old boys and girls – The LEGO DUPLO Town 3in1 Dinosaurs on Wheels set includes colourful dino toys to spark imagination and support fun, hands-on, learn-through-play moments
 - Toys that help toddlers learn through play – LEGO DUPLO toddler learning toys support preschoolers in developing key skills and building confidence for a lifelong learning journey
+- Digital building instructions – The LEGO Builder app features a digital version of the instructions included with this animal toy, which has been rigorously tested to ensure a safe play experience
+- 6 dinosaur figures – Includes 108 toddler-friendly bricks for preschoolers to build into a Diplodocus and T. rex, a Triceratops and Stegosaurus or Parasaurolophus and Pteranodon toys
+- Toddler toy for 3+ year old boys and girls – The LEGO DUPLO Town 3in1 Dinosaurs on Wheels set includes colourful dino toys to spark imagination and support fun, hands-on, learn-through-play moments
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DWF6B1GG{{</world>}}

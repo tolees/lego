@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City: Der LEGO Lieferwagen - Modellbau mit 2 Minifiguren Transportwagen und Zubehör - Geburtstagsgeschenk für Jungen ab 6 Jahren - 60500'
-date: 2026-09-16 10:39:35
+date: 2026-09-18 16:04:25
 image: 'https://m.media-amazon.com/images/I/51IgyzRdUFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHJ3C2/?tag=tolees0ca-21'
 descuento: '41.88'
-average: '17.9727058823527'
+average: '17.9602298850572'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

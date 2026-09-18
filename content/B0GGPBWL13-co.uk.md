@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- GIFT IDEA FOR KIDS – Treat fans of the ONE PIECE Netflix live-action show to this fun piece of merch as a birthday gift for 9+ year old boys and girls
-- MOUNTAIN HIDEOUT TOY – Step inside the wonderful world of the eccentric healer with the LEGO ONE PIECE Dr. Hiriluk’s Hideout toy for 9+ year old boys and girls
-- EXPAND THE FUN – With a wide variety of sets in the range (sold separately), kids can collect and combine models to take their imaginative play possibilities to the next level
 - 3 LEGO ONE PIECE MINIFIGURES – Explore exciting adventures with Tony Tony Chopper wearing his famous antler hat, Dr. Hiriluk with his distinctive hat, and Dr. Kureha
-- KIDS ROOM DECOR – Create a display featuring details, such as a table full of equipment for experiments, desk, chairs, books, pirate flag, fireplace and 1 of 8 collectible secret dossiers to discover
 - ROLE-PLAY TOY – Open the hinged mountain to reveal an expansive interior containing a cosy cave bursting with bottles and books, where Dr. Hiriluk dreams, experiments and mentors his friend Chopper
+- KIDS ROOM DECOR – Create a display featuring details, such as a table full of equipment for experiments, desk, chairs, books, pirate flag, fireplace and 1 of 8 collectible secret dossiers to discover
+- MOUNTAIN HIDEOUT TOY – Step inside the wonderful world of the eccentric healer with the LEGO ONE PIECE Dr. Hiriluk’s Hideout toy for 9+ year old boys and girls
+- GIFT IDEA FOR KIDS – Treat fans of the ONE PIECE Netflix live-action show to this fun piece of merch as a birthday gift for 9+ year old boys and girls
+- EXPAND THE FUN – With a wide variety of sets in the range (sold separately), kids can collect and combine models to take their imaginative play possibilities to the next level
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0GGPBWL13{{</world>}}

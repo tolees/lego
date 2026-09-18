@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Good performance
 - Good quality
 - Good product for use
-- Good performance
 - Easy to use
 
 [🛒 Buy it!!]({{< param buyurl >}})

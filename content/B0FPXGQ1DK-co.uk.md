@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - CREATIVE TOY – Inspire hours of imaginative storytelling with the Friends and the toy animals, zooming down the slide into the pool and splashing in the rotating fountain
-- PET-CARE ACCESSORIES – Every playtime is unique with lots of realistic details to encourage role play; kids will discover pet food, ice cream, sun cream, a phone, ball, rain hat, sunglasses and more
-- 2 LEGO FRIENDS MINI DOLLS – Kids can practise their social and nurturing skills as they help Nova and Leo care for and play with the 4 animal figures, including 2 dogs, a toy cat and a guinea pig
-- FUN GIFT IDEA FOR KIDS – This building set makes a great birthday gift for 6+ year old girls and boys who love animals and imaginative play
-- MAKE MORE FRIENDS – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
-- PET WATER PARK PLAYSET – Splash into creativity with this LEGO Friends Fun Water Park Day building toy for 6+ year old girls and boys who are animal lovers
 - A HELPING HAND – Follow digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
+- 2 LEGO FRIENDS MINI DOLLS – Kids can practise their social and nurturing skills as they help Nova and Leo care for and play with the 4 animal figures, including 2 dogs, a toy cat and a guinea pig
+- PET WATER PARK PLAYSET – Splash into creativity with this LEGO Friends Fun Water Park Day building toy for 6+ year old girls and boys who are animal lovers
+- FUN GIFT IDEA FOR KIDS – This building set makes a great birthday gift for 6+ year old girls and boys who love animals and imaginative play
+- PET-CARE ACCESSORIES – Every playtime is unique with lots of realistic details to encourage role play; kids will discover pet food, ice cream, sun cream, a phone, ball, rain hat, sunglasses and more
+- MAKE MORE FRIENDS – Discover more creative play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know the characters of Heartlake City
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGQ1DK{{</world>}}

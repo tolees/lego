@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-in-1-Set Wilder Hai mit Schatztruhe - Kreatives Spielzeug & Konstruktionsspielzeug - Meerestiere Bauset mit Hai Figur - Geschenk für Kinder ab 8 Jahren mit 3 Bauoptionen - 31381'
-date: 2026-09-16 10:35:54
+date: 2026-09-17 14:15:43
 image: 'https://m.media-amazon.com/images/I/513aeqNR39L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD42JJ/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '22.2971276595743'
+average: '22.2833684210525'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

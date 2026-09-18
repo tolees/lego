@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GAMING GIFT FOR KIDS – The building kit makes a cool Fortnite gift for 10+ year old boys, girls and gamers on birthdays or any other special occasion
-- LEGO FORTNITE TOY FOR KIDS – Unlock an off-screen gaming adventure with this LEGO Fortnite Tomatohead building toy for 10+ year old boys, girls and older gamers
-- LEGO FORTNITE COLLECTIBLES – Add to your video game merch collection with other building sets for gamers in the range, all sold separately
+- KIDS GAMING ROOM DECOR – Fans can add the set to their LEGO Fortnite merch collection and show it off as a fun decoration for a shelf or bedside table
 - TOMATOHEAD FORTNITE FIGURE – Create a detailed replica of the Tomatohead Outfit featured in the LEGO Fortnite video game, with eyes, a mouth and a moustache
 - BONUS IN-GAME ITEM – This set comes with a bonus in-game item: a Tomatohead’s Hothouse decor pack gamers can redeem in the LEGO Fortnite game
-- KIDS GAMING ROOM DECOR – Fans can add the set to their LEGO Fortnite merch collection and show it off as a fun decoration for a shelf or bedside table
+- GAMING GIFT FOR KIDS – The building kit makes a cool Fortnite gift for 10+ year old boys, girls and gamers on birthdays or any other special occasion
+- LEGO FORTNITE TOY FOR KIDS – Unlock an off-screen gaming adventure with this LEGO Fortnite Tomatohead building toy for 10+ year old boys, girls and older gamers
 - UNCLE PETE’S PIZZA PIT – Open up the model to discover a miniature version of Uncle Pete’s Pizza Pit complete with a mini Tomatohead
+- LEGO FORTNITE COLLECTIBLES – Add to your video game merch collection with other building sets for gamers in the range, all sold separately
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGFLTL{{</world>}}

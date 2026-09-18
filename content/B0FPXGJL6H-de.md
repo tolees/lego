@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Cristiano Ronaldo - Fußball-Highlights Spielzeug - 3D Modellbau mit Minifigur zum Sammeln - Kinderzimmer Deko - Geschenk für Jungen Mädchen ab 10 Jahren und erwachsene Sportfans - 43012'
-date: 2026-09-16 13:10:36
+date: 2026-09-18 16:01:00
 image: 'https://m.media-amazon.com/images/I/514jEbAdGeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGJL6H/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.4349999999999'
+average: '20.4138095238094'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

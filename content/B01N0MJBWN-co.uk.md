@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- PACKED WITH FEATURES – Includes a LEGO DUPLO Spidey T. rex dinosaur figure with a mouth that opens and closes, Green Goblin on a flying vehicle with a water cannon, a treasure chamber and an arch
-- ACTION PLAY – Inspired by the Spidey and His Amazing Friends show, this buildable LEGO Marvel toy sees the dino Super Hero roar into action to keep the treasure safe from Green Goblin
 - MARVEL GIFT FOR TODDLERS – This small building set makes a fun birthday gift for 2+ year old boys and girls who are fans of dinosaurs and Marvel Super Heroes
+- PACKED WITH FEATURES – Includes a LEGO DUPLO Spidey T. rex dinosaur figure with a mouth that opens and closes, Green Goblin on a flying vehicle with a water cannon, a treasure chamber and an arch
 - SUPERHERO TOY – Toddlers can enjoy play with the T. rex version of their favourite webslinger in this LEGO Marvel Dinosaur Spidey-Rex vs. Green Goblin building toy for 2+ year old boys and girls
+- ACTION PLAY – Inspired by the Spidey and His Amazing Friends show, this buildable LEGO Marvel toy sees the dino Super Hero roar into action to keep the treasure safe from Green Goblin
 - EDUCATIONAL TODDLER TOY – Kids can grow their creativity as they act out scenes from the TV show as well as develop social and emotional learning through playing out a battle of good versus bad
 - LEARNING THROUGH PLAY – This LEGO DUPLO set is designed to encourage toddlers to grow skills, such as fine motor dexterity and emotional literacy, through creative play
 

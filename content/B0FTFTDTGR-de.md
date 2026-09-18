@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Torjubel - 3D DIY Wandbild Set - DIY Deko für Kinder - Fußball Geschenk für Jugendliche ab 14 Jahren Mädchen Jungen und Erwachsene Sportfans - 43018'
-date: 2026-09-16 10:42:23
+date: 2026-09-18 16:07:12
 image: 'https://m.media-amazon.com/images/I/51fZ5NuHG3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FTFTDTGR/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '120.015000000001'
+average: '120.013684210528'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

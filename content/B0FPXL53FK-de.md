@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Seerosen - Kunstblumen Set mit 2 künstlichen Topfpflanzen in transparenten Vasen - DIY Kinderzimmer Deko - Geschenk für Mädchen ab 9 Jahren & Erwachsene Blumenliebhaber - 11511'
-date: 2026-09-16 10:40:42
+date: 2026-09-18 16:06:12
 image: 'https://m.media-amazon.com/images/I/51bljPeQnyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXL53FK/?tag=tolees0ca-21'
 descuento: '37.51'
-average: '26.3899999999999'
+average: '26.2823076923076'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

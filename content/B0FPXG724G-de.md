@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Das Skelett - Mob Figur mit Diamanthelm Bogen und Pfeil sowie Grasbasis als Zimmerdeko für Kinder - Gaming Geschenk für Jungen Mädchen und Fans ab 10 Jahren - 21594'
-date: 2026-09-16 10:36:29
+date: 2026-09-18 16:00:21
 image: 'https://m.media-amazon.com/images/I/41SGzy1UvUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG724G/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '32.847142857143'
+average: '32.4900000000002'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

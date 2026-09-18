@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- AUTHENTIC DETAILS – This collectible Fast & Furious merch includes Troy Lee’s ‘Nuclear Gladiator’ graphic on the side of the car model, a rear wing and 4 novelty alloy wheels with a chrome look
 - ICONIC CARS FOR PLAY AND DISPLAY – LEGO Speed Champions sets let kids and passionate fans create replica versions from a large range of vehicles
-- BUILD TOGETHER MODE – The LEGO Builder app offers a guided, collaborative experience with friends and family where everyone has fun assembling part of the set using their own devices
+- KIDS ROOM DECOR – After completing this fun build, fans of the movie can display the Toyota Supra MK4 model car on a shelf, desk or bedside table
+- AUTHENTIC DETAILS – This collectible Fast & Furious merch includes Troy Lee’s ‘Nuclear Gladiator’ graphic on the side of the car model, a rear wing and 4 novelty alloy wheels with a chrome look
+- GIFT FOR KIDS – This piece of movie memorabilia makes a fun birthday gift idea for 10+ year old boys and girls as well as teenage and adult car lovers
 - ICONIC FAST & FURIOUS CAR – Build, display and recreate movie scenes with this LEGO Speed Champions The Fast and The Furious Toyota Supra MK4 car toy for 10+ year old boys and girls
 - BRIAN O’CONNER MINIFIGURE – Place a LEGO minifigure version of the popular movie character wearing his signature T-shirt and jeans behind the wheel of the orange sports car toy
-- GIFT FOR KIDS – This piece of movie memorabilia makes a fun birthday gift idea for 10+ year old boys and girls as well as teenage and adult car lovers
-- KIDS ROOM DECOR – After completing this fun build, fans of the movie can display the Toyota Supra MK4 model car on a shelf, desk or bedside table
+- BUILD TOGETHER MODE – The LEGO Builder app offers a guided, collaborative experience with friends and family where everyone has fun assembling part of the set using their own devices
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXF65PH{{</world>}}

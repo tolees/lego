@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons 11373 Der Herr der Ringe: Saurons Helm bauset'
-date: 2026-09-16 10:30:17
+date: 2026-09-18 14:52:55
 image: 'https://m.media-amazon.com/images/I/41DJ5vZGPzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4NJ3HX/?tag=tolees0ca-21'
 descuento: '34.67'
-average: '51.6054285714285'
+average: '51.464054054054'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

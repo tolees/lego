@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A universe of ninja toys – LEGO NINJAGO building sets transport kids into an action-packed fantasy world where they can join their ninja heroes on epic adventures
-- Gift for 14+ year old boys and girls – This high-quality model makes a great birthday gift for teenagers and fans of NINJAGO Monstrosity who want to showcase their fandom
 - NINJAGO mech model – Older NINJAGO fans can expand their collection with The Fire Knight Mech, a highly detailed LEGO NINJAGO building set packed with action and adventure
-- Interactive NINJAGO toy – Ninja fans can remove the model from its base to recreate epic battles from the NINJAGO Monstrosity series between the toy mech and a monster with movable tentacles
-- Ninja display set – The scene features The Fire Knight Mech, complete with a cape and spear, battling an ancient sea monster, making it a cool action figure display for any NINJAGO fan’s room
-- 2 NINJAGO minifigures – Includes ninja Kai with a prismatic reveal blade, who can sit inside the mech’s chest, and a fisherman with a paddle in a boat, adding more storytelling possibilities
 - Posters included – This LEGO NINJAGO set comes with exclusive posters that NINJAGO fans will love, adding an extra layer of fun and collectability to the building toy
+- Ninja display set – The scene features The Fire Knight Mech, complete with a cape and spear, battling an ancient sea monster, making it a cool action figure display for any NINJAGO fan’s room
+- Gift for 14+ year old boys and girls – This high-quality model makes a great birthday gift for teenagers and fans of NINJAGO Monstrosity who want to showcase their fandom
+- Interactive NINJAGO toy – Ninja fans can remove the model from its base to recreate epic battles from the NINJAGO Monstrosity series between the toy mech and a monster with movable tentacles
+- 2 NINJAGO minifigures – Includes ninja Kai with a prismatic reveal blade, who can sit inside the mech’s chest, and a fisherman with a paddle in a boat, adding more storytelling possibilities
+- A universe of ninja toys – LEGO NINJAGO building sets transport kids into an action-packed fantasy world where they can join their ninja heroes on epic adventures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQTCRV{{</world>}}

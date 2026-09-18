@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO ǀ Disney Princess Cinderellas Tierpalast - Lernspielzeug mit Mini Puppe und 4 Tierfiguren - Geburtstagsgeschenk für Mädchen und Fans ab 4 Jahren - 43283'
-date: 2026-09-16 10:41:05
+date: 2026-09-18 16:06:20
 image: 'https://m.media-amazon.com/images/I/512hu3MPjgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

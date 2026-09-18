@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Nombre de pièces : 78
 - Le bonhomme de neige porte un chapeau rouge et une écharpe bleue et tient un balai.
+- Nombre de pièces : 78
 - Âge minimum du fabricant : 72,0
 - Matériau : plastique
 - Mettez-vous dans la meilleure ambiance de Noël en construisant et en affichant ce joli bonhomme de neige mobile.

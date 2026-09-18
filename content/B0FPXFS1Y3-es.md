@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ESTIMULA EL JUEGO CREATIVO: Empuja el coche de juguete por la vía de la montaña rusa, pincha discos en la cabina de DJ, desmonta la pista de baile para descubrir un esqueleto y saca un elemento de nieve para activar la dinamita
-- BONIFICACIÓN PARA EL JUEGO: Las instrucciones están disponibles en la app LEGO Builder y el set viene con un objeto de regalo para el juego (un traje de Líder del equipo arrumacos que se puede canjear en el juego LEGO Fortnite)
+- MÁS SETS CON EL SELLO LEGO FORTNITE: Amplía tu botín con otros sets de construcción para gamers de la colección, todos a la venta por separado
+- IDEA DE REGALO IGAMER: Gana puntos regalando este juguete LEGO Fornite a un niño, una niña o cualquier fan los videojuegos a partir e 12 años por su cumpleaños o en alguna ocasión especial
 - 6 MINIFIGURAS LEGO FORTNITE: Evie, Operaciones especiales funky, Líder del equipo arrumacos, Aura, Llama DJ y Soldado fiestero dan vida a la escena y fomentan el juego de rol
+- ESTIMULA EL JUEGO CREATIVO: Empuja el coche de juguete por la vía de la montaña rusa, pincha discos en la cabina de DJ, desmonta la pista de baile para descubrir un esqueleto y saca un elemento de nieve para activar la dinamita
 - DETALLES REALISTAS: El set, basado en una ubicación instantáneamente reconocible del videojuego LEGO Fortnite, incluye una gran cabeza del Líder del equipo arrumacos, una montaña y una montaña rusa
 - MONTAÑA RUSA DE JUGUETE: Da rienda suelta a la imaginación con el kit de construcción LEGO Fortnite Caverna Descontrol para niños, niñas y gamers a partir de 12 años
-- IDEA DE REGALO IGAMER: Gana puntos regalando este juguete LEGO Fornite a un niño, una niña o cualquier fan los videojuegos a partir e 12 años por su cumpleaños o en alguna ocasión especial
-- MÁS SETS CON EL SELLO LEGO FORTNITE: Amplía tu botín con otros sets de construcción para gamers de la colección, todos a la venta por separado
+- BONIFICACIÓN PARA EL JUEGO: Las instrucciones están disponibles en la app LEGO Builder y el set viene con un objeto de regalo para el juego (un traje de Líder del equipo arrumacos que se puede canjear en el juego LEGO Fortnite)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFS1Y3{{</world>}}

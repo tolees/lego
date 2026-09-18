@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Der Enderdrache - Interaktives Spielzeug mit schlagenden Flügeln und Exit Portal-Ständer als Zimmerdeko für Kinder - Gaming-Geschenk für Jungen Mädchen und Fans ab 10 Jahren - 21595'
-date: 2026-09-16 10:40:27
+date: 2026-09-18 16:06:04
 image: 'https://m.media-amazon.com/images/I/414gA9Ozp2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJYG33/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '40.4445454545454'
+average: '40.3746153846153'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO NINJAGO 15-jähriges Jubiläum: X-1 Ninja Supercar - Rennwagen Modellbau mit Motorrad und 3 Minifiguren inkl. Kai - Geschenkidee für Jungen ab 14 Jahren und Erwachsene Fans - 71867'
-date: 2026-09-16 08:59:48
+date: 2026-09-18 16:05:39
 image: 'https://m.media-amazon.com/images/I/5132nm8VhDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

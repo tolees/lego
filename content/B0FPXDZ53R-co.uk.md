@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - MORE EPIC MOMENTS – This building set is part of the LEGO Marvel Epic Moment Collection (sold separately), eye-catching recreations of scenes from the Marvel Universe
-- 3 LEGO MARVEL MINIFIGURES – This building set comes with 3 minifigures battling on a construction site: Spider-Man, Venom with tentacles and Sandman with a brick-built base and a supersized arm
-- PLAY-AND-DISPLAY SET – The detachable minifigures on the LEGO Marvel toy let kids re-enact movie moments or pretend-play stories of their own and then display the scene in their room for all to admire
-- A UNIVERSE OF LEGO MARVEL SETS – Transport kids into imaginative, hands-on adventures featuring a cast of iconic characters and action-packed scenes from the MCU
-- FUN ACCESSORIES – The LEGO building set includes movie-accurate accessories, including a web rope for Super Hero action, such as when Spider-Man swings from the top of a construction tower
 - SPIDER-MAN GIFT IDEA – This model kit featuring Spider-Man, Venom and Sandman makes a great Marvel-themed birthday gift for 9+ year old boys and girls
 - SPIDER-MAN BUILDING TOY – Bring Marvel Studios’ Spider-Man 3 to life and spark kids’ creative role-play adventures with this collectable Super Hero toy for 9+ year old boys and girls
+- PLAY-AND-DISPLAY SET – The detachable minifigures on the LEGO Marvel toy let kids re-enact movie moments or pretend-play stories of their own and then display the scene in their room for all to admire
+- 3 LEGO MARVEL MINIFIGURES – This building set comes with 3 minifigures battling on a construction site: Spider-Man, Venom with tentacles and Sandman with a brick-built base and a supersized arm
+- FUN ACCESSORIES – The LEGO building set includes movie-accurate accessories, including a web rope for Super Hero action, such as when Spider-Man swings from the top of a construction tower
+- A UNIVERSE OF LEGO MARVEL SETS – Transport kids into imaginative, hands-on adventures featuring a cast of iconic characters and action-packed scenes from the MCU
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDZ53R{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- IMAGINATIVE PLAY – Pick berries from the tree and mix them into a smoothie, then act out a Pokémon Trainer’s first adventure by nurturing Bulbasaur and Bidoof to prepare for a fun battle
+- SCREEN-FREE PLAYTIME – Kids can join friends and family to recreate exciting scenes and embark on adventures of their own with the 2 popular Pokémon
+- POKÉMON PLAY BACK – SMART Tags in Bulbasaur and Bidoof activate SMART Bricks (not included), triggering sounds and lights as the Pokémon react to each other and kids’ interactive role play
 - HOW TO ACTIVATE YOUR SET – Add a LEGO SMART Brick from an All-in-One set (sold separately) to enable immersive play functions. SMART Bricks are not available to purchase as a stand-alone product
 - GIFT IDEA FOR KIDS – Treat fans of Pokémon, video games, collectables and trading cards to a world of open-ended adventures with this fun-packed gift idea for girls and boys aged 7 and over
 - 2 FIGURES – Battle like a champion with Bulbasaur and Bidoof, generating responsive sounds and lights as the pair go head-to-head
-- POKÉMON PLAY BACK – SMART Tags in Bulbasaur and Bidoof activate SMART Bricks (not included), triggering sounds and lights as the Pokémon react to each other and kids’ interactive role play
-- SCREEN-FREE PLAYTIME – Kids can join friends and family to recreate exciting scenes and embark on adventures of their own with the 2 popular Pokémon
+- IMAGINATIVE PLAY – Pick berries from the tree and mix them into a smoothie, then act out a Pokémon Trainer’s first adventure by nurturing Bulbasaur and Bidoof to prepare for a fun battle
 - POKÉMON BUILDING TOY – Berry Bash with Bulbasaur and Bidoof (72155) is a LEGO SMART Play Compatible set that puts endless adventures and battles into kids’ hands
 
 [🛒 Buy it now!!]({{< param buyurl >}})
