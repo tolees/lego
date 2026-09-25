@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
-- LEGO ONE PIECE minifigures – The building set comes with authentically detailed minifigures of Monkey D. Luffy with his hat, Zoro, Nami, Usopp and Sanji
-- LEGO boat toy for young pirates – The large ship has masts, sails, a figurehead and a rudder, and, below deck, it features a crew’s cabin, a kitchen, food and poster storage and an accessory workshop
 - Anime gift for kids – This LEGO ONE PIECE build-play-and-display set makes a great birthday gift for 10+ year old boys and girls who are anime lovers and fans of creative LEGO building toys
 - Pirate ship toy for kids – The LEGO ONE PIECE Going Merry Pirate Ship toy for 10+ year old boys and girls is a fun play-and-display building set for fans of the Netflix ONE PIECE live-action show
+- LEGO boat toy for young pirates – The large ship has masts, sails, a figurehead and a rudder, and, below deck, it features a crew’s cabin, a kitchen, food and poster storage and an accessory workshop
+- LEGO ONE PIECE minifigures – The building set comes with authentically detailed minifigures of Monkey D. Luffy with his hat, Zoro, Nami, Usopp and Sanji
 - LEGO ONE PIECE collectibles – LEGO ONE PIECE toys put the Netflix show’s characters, locations and exciting adventures into the hands of young fans
 - Authentically detailed pirate toy – The Luffy character can take his favourite spot on the sheep figurehead at the front of the ship, below which is a cannon-style shooter to fend off enemies
+- 3D building instructions – Kids can download the LEGO Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDQYB87{{</world>}}

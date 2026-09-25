@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LEARN ABOUT LETTERS AND NUMBERS – Toddlers can explore colourful bricks and discover letters and numbers through hands-on play, creating and recreating simple shapes with the help of a grown-up
-- FROZEN BUILDING TOY – This LEGO DUPLO Frozen Creative Box with Elsa and Olaf toy for 2+ year old girls and boys lets toddlers have hours of play with 37 big bricks and pieces designed for small hands
 - DISNEY FROZEN GIFT IDEA – This set makes a fun birthday gift idea for 2+ year old toddlers, girls and boys who love Disney characters and imaginative play
-- SPARK CREATIVE PLAY – The set comes with LEGO DUPLO | Disney figures of Elsa and Olaf, plus accessories including a teapot, cup, brush, wand and cake decorated bricks
 - EXPLORE THE RANGE OF LEGO DUPLO TOYS – Introduce toddlers to even more creative adventures with other free-build sets that help preschool kids learn skills through play
+- FROZEN BUILDING TOY – This LEGO DUPLO Frozen Creative Box with Elsa and Olaf toy for 2+ year old girls and boys lets toddlers have hours of play with 37 big bricks and pieces designed for small hands
+- SPARK CREATIVE PLAY – The set comes with LEGO DUPLO | Disney figures of Elsa and Olaf, plus accessories including a teapot, cup, brush, wand and cake decorated bricks
 - EDUCATIONAL TOY FOR TODDLERS – Watch young builders grow their creativity, colour-matching skills, and storytelling as they become immersed in fun role play with the characters
+- LEARN ABOUT LETTERS AND NUMBERS – Toddlers can explore colourful bricks and discover letters and numbers through hands-on play, creating and recreating simple shapes with the help of a grown-up
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01N9DA50W{{</world>}}

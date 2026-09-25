@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75421 SMART Play: Darth Vader s TIE Fighter - All-in-One Interactive Toy Set incl. SMART Brick Tag Minifigure & Charger - Gift Idea for 8+ Year Old Boys Girls & Adult Fans'
-date: 2026-08-30 07:41:41
+title: 'LEGO Star Wars SMART Play: Darth Vaders TIE Fighter - interaktives Spielzeug - All-in-1-Spielset - EIN SMART Brick reagiert darauf wie du spielst - Geschenk für Jungen Mädchen & Kinder ab 8-75421'
+date: 2026-09-25 11:47:28
 image: 'https://m.media-amazon.com/images/I/51QYz1Rq7ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXVHD1Y-de LEGO Star Wars 75421 SMART Play: Darth Vader s TIE Fighter...'
+slug: 'B0FPXVHD1Y-de LEGO Star Wars SMART Play: Darth Vaders TIE Fighter -...'
 sku: 'B0FPXVHD1Y-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 58.99 EUR
+actualPrice: 44.99 EUR
 currency: EUR
-price: 58.99
+price: 44.99
 comparePrice: 69.99 EUR
-prodname: 'LEGO Star Wars 75421 SMART Play: Darth Vader s TIE Fighter - All-in-One Interactive Toy Set incl. SMART Brick Tag Minifigure & Charger - Gift Idea for 8+ Year Old Boys Girls & Adult Fans'
+prodname: 'LEGO Star Wars SMART Play: Darth Vaders TIE Fighter - interaktives Spielzeug - All-in-1-Spielset - EIN SMART Brick reagiert darauf wie du spielst - Geschenk für Jungen Mädchen & Kinder ab 8-75421'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXVHD1Y/?tag=tolees0ca-21'
-descuento: '15.72'
-average: '65.759230769231'
+descuento: '35.72'
+average: '61.8650000000002'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,13 +28,6 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- INTERAKTIVES STAR WARS SPIELZEUG: Dieses LEGO SMART Play All-in-1 Set enthält einen SMART Brick mit Ladegerät, einen SMART Tag und eine SMART Minifigur, die ein intensives Spielerlebnis ermöglichen und auf jede deiner Bewegungen reagieren
-- LEGO SMART STAR WARS MINIFIGUR: Erwecke SMART Darth Vader mit dem SMART Brick zum Leben und erlebe reaktionsstarkes Spielen, bei dem auf Bewegungen und die Situationen reagiert wird, die er erlebt
-- BILDSCHIRMFREIER SPIELSPASS: Stelle epische Filmszenen mit Freunden und der Familie nach: Hilf dem Rebellen-Flottensoldat, den Rebellen-Außenposten zu verteidigen, mit einem Doppelshooter und einem Satelliten für stundenlanges Rollenspiel
-- LEGO SMART ASSIST APP: Hilft beim Einstieg, bei Fehlerbehebung, Steuern der Lautstärke, Herunterladen von Updates, Aktivieren des integrierten Mikrofons für zukünftige Funktionen (Aktivierung erfordert deine Zustimmung und ein Firmware-Update)
-- STAR WARS GESCHENK FÜR KINDER: Mach Fans eine Freude mit diesem reaktionsstarken Spielzeug; eine galaktische Geschenkidee zum Geburtstag für Jungen und Mädchen ab 8 Jahren sowie für jugendliche Fans und erwachsene Sammler
-- SMART BRICK FUNKTIONEN: Bietet bis zu 45 Minuten Akkulaufzeit pro Ladung und ist mit anderen SMART Play Sets kompatibel, für noch größere Abenteuer (Bitte beachten: Der SMART Brick ist nicht separat erhältlich)
-- DIE GALAXIS SPIELT MIT: Wird der SMART Brick mit dem SMART Tag des TIE Fighters verbunden, reagiert er auf Bewegung und Farben mit Licht- und Soundeffekten und aktiviert Laser-Schuss-, Auftank- und Reparaturfunktionen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXVHD1Y{{</world>}}

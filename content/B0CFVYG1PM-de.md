@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschenk für Fans der Marvel Filme: Dieser baubare Superschurke ist ein tolles Geschenk für Kinder, die Superhelden-Action und das Spider-Man Universum lieben
 - Bewegliche Baufigur: Dank beweglicher Gelenke an Schultern, Armen, Hüften und Beinen können Kinder Green Goblin in coole Actionposen bringen und in viele aufregende Abenteuer schicken
-- Viele Spielmöglichkeiten: Diese Marvel Superschurken-Baufigur zum Sammeln und Ausstellen bietet jungen Superhelden großen Bau- und Spielspaß
+- Superschurken-Baufigur für junge Superhelden: Die LEGO Marvel Green Goblin Baufigur lässt Jungen und Mädchen ab 8 Jahren Marvel Actionabenteuer mit den eigenen Händen darstellen
 - Noch mehr Superhelden-Spaß: Entdecke auch die weiteren separat erhältlichen LEGO Marvel Baufiguren zum Sammeln aus dieser Reihe
 - Authentisches Zubehör: Green Goblin kann auf seinen Gleiter gesteckt werden und 2 Kürbisbomben halten, die auch ins Staufach hinten im Gleiter passen
-- Superschurken-Baufigur für junge Superhelden: Die LEGO Marvel Green Goblin Baufigur lässt Jungen und Mädchen ab 8 Jahren Marvel Actionabenteuer mit den eigenen Händen darstellen
+- Viele Spielmöglichkeiten: Diese Marvel Superschurken-Baufigur zum Sammeln und Ausstellen bietet jungen Superhelden großen Bau- und Spielspaß
+- Geschenk für Fans der Marvel Filme: Dieser baubare Superschurke ist ein tolles Geschenk für Kinder, die Superhelden-Action und das Spider-Man Universum lieben
 - 3D-Bauanleitung: Für ein fesselndes Bauerlebnis können sich Kinder die LEGO Builder App herunterladen; mit den digitalen Funktionen kann man 3D-Modellansichten drehen und vergrößern, Sets speichern und den Baufortschritt verfolgen
 
 [🛒 Buy it!!]({{< param buyurl >}})

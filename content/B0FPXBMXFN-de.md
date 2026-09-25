@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75441 Angriffskreuzer der Venator-Klasse - Modellbau-Set des republikanischen Kriegsschiffs für Erwachsene - Deko für Wohnzimmer & Regal - Geschenk für Fans von Die Rache der Sith'
-date: 2026-09-18 15:30:59
+title: 'LEGO Star Wars Angriffskreuzer der Venator-Klasse 75441'
+date: 2026-09-23 07:43:07
 image: 'https://m.media-amazon.com/images/I/51oyKifHgCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXBMXFN-de LEGO Star Wars 75441 Angriffskreuzer der Venator-Klasse -...'
+slug: 'B0FPXBMXFN-de LEGO Star Wars Angriffskreuzer der Venator-Klasse 75441'
 sku: 'B0FPXBMXFN-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 50.25 EUR
+actualPrice: 57.49 EUR
 currency: EUR
-price: 50.25
+price: 57.49
 comparePrice: 79.99 EUR
-prodname: 'LEGO Star Wars 75441 Angriffskreuzer der Venator-Klasse - Modellbau-Set des republikanischen Kriegsschiffs für Erwachsene - Deko für Wohnzimmer & Regal - Geschenk für Fans von Die Rache der Sith'
+prodname: 'LEGO Star Wars Angriffskreuzer der Venator-Klasse 75441'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXBMXFN/?tag=tolees0ca-21'
-descuento: '37.18'
-average: '51.880925925926'
+descuento: '28.13'
+average: '51.9829090909092'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

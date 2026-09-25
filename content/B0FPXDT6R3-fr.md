@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- IDÉE DE CADEAU DANNIVERSAIRE – Ce set de construction est un superbe cadeau danniversaire pour une fille ou un garçon dès 5 ans qui aiment le jeu de rôle en famille ou entre ami.e.s
-- SÉRIE EN LIGNE – Découvrez encore plus d’idées de jeux créatifs avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, où les enfants font connaissance avec les personnages de Heartlake City
 - JOUET MAISON DE POUPÉES – Invitez les enfants à jouer dans La maison de famille de Liann LEGO Friends pour fille ou garçon dès 7 ans, incluant 2 figurines danimaux pour inspirer le jeu créatif
-- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide les enfants dans le processus de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en utilisant les instructions 3D
-- ACCESSOIRES POUR MAISON DE POUPÉES – La maison familiale regorge de détails reflétant les passions de Liann et sa vie de famille : matériel artistique, skates, baguettes, boîtes de nouilles, sauce soja, lait & jus dorange
-- UN UNIVERS À EXPLORER – La maison jouet à 2 étages comprend une cuisine, un salon, une chambre, un balcon & un jardin, ainsi quune fresque et un skatepark pour exécuter des figures
+- SÉRIE EN LIGNE – Découvrez encore plus d’idées de jeux créatifs avec d’autres sets (vendus séparément) et la série en ligne LEGO Friends : Un Nouveau Chapitre, où les enfants font connaissance avec les personnages de Heartlake City
 - 4 MINI-POUPÉES & 2 FIGURINES DANIMAUX – Inclut les mini-poupées de Liann, Michelle, Paisley & Nova, ainsi que des figurines de jouets Gecko & Axolotl, disposant de nourriture et de leur propre terrarium
+- ACCESSOIRES POUR MAISON DE POUPÉES – La maison familiale regorge de détails reflétant les passions de Liann et sa vie de famille : matériel artistique, skates, baguettes, boîtes de nouilles, sauce soja, lait & jus dorange
+- IDÉE DE CADEAU DANNIVERSAIRE – Ce set de construction est un superbe cadeau danniversaire pour une fille ou un garçon dès 5 ans qui aiment le jeu de rôle en famille ou entre ami.e.s
+- INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide les enfants dans le processus de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en utilisant les instructions 3D
+- UN UNIVERS À EXPLORER – La maison jouet à 2 étages comprend une cuisine, un salon, une chambre, un balcon & un jardin, ainsi quune fresque et un skatepark pour exécuter des figures
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDT6R3{{</world>}}

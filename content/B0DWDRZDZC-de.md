@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Botanicals Fröhliche Pflanzen - Spielzeug für Kinder mit 2 Kunstpflanzen 2 bunten Blumentöpfen & austauschbaren Cartoon-Gesichtern - Geschenkidee für Mädchen ab 9 Jahren - 10349'
-date: 2026-09-19 08:45:55
+title: 'LEGO Botanicals Fröhliche Pflanzen 10349'
+date: 2026-09-23 07:42:20
 image: 'https://m.media-amazon.com/images/I/41ZR5SEHK8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDRZDZC-de LEGO Botanicals Fröhliche Pflanzen - Spielzeug für Kinder...'
+slug: 'B0DWDRZDZC-de LEGO Botanicals Fröhliche Pflanzen 10349'
 sku: 'B0DWDRZDZC-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 11.49 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 11.49
+price: 11.99
 comparePrice: 19.99 EUR
-prodname: 'LEGO Botanicals Fröhliche Pflanzen - Spielzeug für Kinder mit 2 Kunstpflanzen 2 bunten Blumentöpfen & austauschbaren Cartoon-Gesichtern - Geschenkidee für Mädchen ab 9 Jahren - 10349'
+prodname: 'LEGO Botanicals Fröhliche Pflanzen 10349'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDRZDZC/?tag=tolees0ca-21'
-descuento: '42.52'
-average: '13.1392857142857'
+descuento: '40.02'
+average: '13.0996551724138'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

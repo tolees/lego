@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO Schwebender Baby-Elefant - Bauset für Erwachsene - Modellbau mit Tierfigur und Zubehör als Zimmerdeko - Geschenkidee zur Geburt für Eltern - 40814'
-date: 2026-09-19 08:37:53
+title: 'LEGO Schwebender Baby-Elefant 40814'
+date: 2026-09-23 07:37:52
 image: 'https://m.media-amazon.com/images/I/51eg4J9vnKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FFNTTDLK-de LEGO Schwebender Baby-Elefant - Bauset für Erwachsene -...'
+slug: 'B0FFNTTDLK-de LEGO Schwebender Baby-Elefant 40814'
 sku: 'B0FFNTTDLK-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
 comparePrice: 29.99 EUR
-prodname: 'LEGO Schwebender Baby-Elefant - Bauset für Erwachsene - Modellbau mit Tierfigur und Zubehör als Zimmerdeko - Geschenkidee zur Geburt für Eltern - 40814'
+prodname: 'LEGO Schwebender Baby-Elefant 40814'
 country: 'de'
 flag: '🇩🇪'
 brand: ''

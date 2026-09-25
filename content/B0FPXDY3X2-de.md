@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Gänseblümchen - Strauß aus Kunstblumen mit Gänseblümchen & Lavendel - DIY Deko fürs Kinderzimmer - Geschenkidee zum Geburtstag für Mädchen ab 9 Jahren - 11508'
-date: 2026-09-19 16:30:46
+date: 2026-09-20 22:01:01
 image: 'https://m.media-amazon.com/images/I/51K5FR0PjqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDY3X2/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '10.3449999999998'
+average: '10.3263157894735'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

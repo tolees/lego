@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75440 AT-AT - Modellbau Set für Erwachsene - Mit Snowspeeder Ständer & Namensschild - DIY Deko fürs Regal - Geschenk für Fans von Das Imperium schlägt zurück'
-date: 2026-09-19 16:36:59
+title: 'LEGO Star Wars AT-AT 75440'
+date: 2026-09-25 11:40:08
 image: 'https://m.media-amazon.com/images/I/514gqNvRetL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXFZXCN-de LEGO Star Wars 75440 AT-AT - Modellbau Set für Erwachsene...'
+slug: 'B0FPXFZXCN-de LEGO Star Wars AT-AT 75440'
 sku: 'B0FPXFZXCN-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99
 comparePrice: 64.99 EUR
-prodname: 'LEGO Star Wars 75440 AT-AT - Modellbau Set für Erwachsene - Mit Snowspeeder Ständer & Namensschild - DIY Deko fürs Regal - Geschenk für Fans von Das Imperium schlägt zurück'
+prodname: 'LEGO Star Wars AT-AT 75440'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFZXCN/?tag=tolees0ca-21'
 descuento: '33.85'
-average: '43.6106521739128'
+average: '43.5726530612243'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

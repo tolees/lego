@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO Shrek: Shrek Esel und Der Gestiefelte Kater - Film Modellbau für Erwachsene - Ausstellungsset mit 3 Figuren als DIY Deko für Regal oder Schreibtisch - Nostalgische Geschenkidee für Fans - 72423'
-date: 2026-09-19 08:38:45
+title: 'LEGO Shrek Shrek Esel und Der Gestiefelte Kater 72423'
+date: 2026-09-23 07:39:02
 image: 'https://m.media-amazon.com/images/I/51J0-MLS+hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0G2XLJR3R-de LEGO Shrek: Shrek Esel und Der Gestiefelte Kater - Film...'
+slug: 'B0G2XLJR3R-de LEGO Shrek Shrek Esel und Der Gestiefelte Kater 72423'
 sku: 'B0G2XLJR3R-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 91.9 EUR
 currency: EUR
 price: 91.9
 comparePrice: 119.99 EUR
-prodname: 'LEGO Shrek: Shrek Esel und Der Gestiefelte Kater - Film Modellbau für Erwachsene - Ausstellungsset mit 3 Figuren als DIY Deko für Regal oder Schreibtisch - Nostalgische Geschenkidee für Fans - 72423'
+prodname: 'LEGO Shrek Shrek Esel und Der Gestiefelte Kater 72423'
 country: 'de'
 flag: '🇩🇪'
 brand: ''

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Pokémon Evoli Figur - Bauset für Erwachsene - Anime Modellbau mit beweglichen Gliedmaßen Ohren und Schwanz - DIY Deko für Zimmer oder Schreibtisch - Sammler Geschenkidee für Gaming Fans – 72151'
-date: 2026-09-19 16:27:53
+title: 'LEGO Pokémon Evoli 72151'
+date: 2026-09-25 11:37:50
 image: 'https://m.media-amazon.com/images/I/4196F5dXrdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXD1GCR-de LEGO Pokémon Evoli Figur - Bauset für Erwachsene - Anime...'
+slug: 'B0FPXD1GCR-de LEGO Pokémon Evoli 72151'
 sku: 'B0FPXD1GCR-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 39.49 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 39.49
+price: 39.99
 comparePrice: 59.99 EUR
-prodname: 'LEGO Pokémon Evoli Figur - Bauset für Erwachsene - Anime Modellbau mit beweglichen Gliedmaßen Ohren und Schwanz - DIY Deko für Zimmer oder Schreibtisch - Sammler Geschenkidee für Gaming Fans – 72151'
+prodname: 'LEGO Pokémon Evoli 72151'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD1GCR/?tag=tolees0ca-21'
-descuento: '34.17'
-average: '41.0455555555556'
+descuento: '33.34'
+average: '40.7816666666667'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

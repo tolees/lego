@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- NOCH MEHR 3D MODELL BLÜTEN BAUEN: Dieser aus Steinen gebaute Blumenstrauß lässt sich mit anderen separat erhältlichen Sets der LEGO Botanicals Kollektion kombinieren
-- INDIVIDUELL GESTALTEN: Jede LEGO Pflanze der Botanik Kollektion hat einen verstellbaren Stiel, um einen individuellen Blumenstrauß zusammenstecken zu können, der sich immer wieder umgestalten lässt
-- LEGO BLUMEN: Der Strauß besteht aus 15 künstlichen Blumen, u.a. aus Gänseblümchen, Kornblumen, Eukalyptus, Holunderblüten, Rosen, Butterblumen, Cymbidium-Orchideen, Seerosen-Dahlie und Glockenblume
-- DEKO FÜRS WOHNZIMMER ODER BÜRO: Nach jeder Menge Bauspaß sorgt dein LEGO Blumenstrauß in jedem Zimmer für einen frischen Farbakzent mit dem Vorteil, dass die Modellbau Blumen nie verwelken
 - KUNSTBLUMEN ZUM BAUEN: Der LEGO Botanicals Schöner Rosafarbener Blumenstrauß ist ein kreatives Bauset für Erwachsene und kann nach dem Bauen auf dem Schreibtisch oder im Regal ausgestellt werden
+- DEKO FÜRS WOHNZIMMER ODER BÜRO: Nach jeder Menge Bauspaß sorgt dein LEGO Blumenstrauß in jedem Zimmer für einen frischen Farbakzent mit dem Vorteil, dass die Modellbau Blumen nie verwelken
+- NOCH MEHR 3D MODELL BLÜTEN BAUEN: Dieser aus Steinen gebaute Blumenstrauß lässt sich mit anderen separat erhältlichen Sets der LEGO Botanicals Kollektion kombinieren
+- LEGO BLUMEN: Der Strauß besteht aus 15 künstlichen Blumen, u.a. aus Gänseblümchen, Kornblumen, Eukalyptus, Holunderblüten, Rosen, Butterblumen, Cymbidium-Orchideen, Seerosen-Dahlie und Glockenblume
 - LEGO BUILDER APP: Es sind sowohl gedruckte als auch digitale Bauanleitungen zu diesem Modellbausatz verfügbar; mit der LEGO Builder App kannst du das Modell in 3D betrachten und den Baufortschritt verfolgen
+- INDIVIDUELL GESTALTEN: Jede LEGO Pflanze der Botanik Kollektion hat einen verstellbaren Stiel, um einen individuellen Blumenstrauß zusammenstecken zu können, der sich immer wieder umgestalten lässt
 - GESCHENK ZUM GEBURTSTAG: Die Blumendeko ist eine schöne Überraschung für deinen Freund, Partnerin oder anderen Blumenliebhabern und eine beliebte Geschenkidee zu besonderen Anlässen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

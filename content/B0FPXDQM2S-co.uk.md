@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- KIDS BEDROOM DECOR – After boys and girls have enjoyed playing out racing stories with this collectible LEGO building set, they can proudly display it in their room on a shelf, desk or bedside table
+- ICONIC CARS FOR PLAY AND DISPLAY – LEGO Speed Champions car model kits let kids and passionate car fans build replica versions of famous vehicles
 - AUTHENTIC DETAILS – Includes design details from the real supercar, including an adjustable rear wing for cruising or racing, a rear engine, a cockpit and an interior infotainment screen
+- KIDS BEDROOM DECOR – After boys and girls have enjoyed playing out racing stories with this collectible LEGO building set, they can proudly display it in their room on a shelf, desk or bedside table
+- GIFT FOR KIDS – This LEGO Speed Champions McLaren car toy provides a fun build-and-play experience and is a great birthday gift idea for 9+ year old boys and girls, or adult motorsport fans
 - 1 LEGO DRIVER MINIFIGURE – This race car model kit includes a driver minifigure, with a wig and wrench and wearing a McLaren outfit and helmet, for kids to place inside the cockpit
 - McLAREN RACE CAR TOY – LEGO Speed Champions McLaren W1 Supercar toy for 9+ year old boys and girls to build, display and play out racing action
-- ICONIC CARS FOR PLAY AND DISPLAY – LEGO Speed Champions car model kits let kids and passionate car fans build replica versions of famous vehicles
-- GIFT FOR KIDS – This LEGO Speed Champions McLaren car toy provides a fun build-and-play experience and is a great birthday gift idea for 9+ year old boys and girls, or adult motorsport fans
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXDQM2S{{</world>}}

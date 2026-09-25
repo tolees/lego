@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The LEGO Super Mario app – Download the app for building instructions, inspiring tips and more
 - Garden set – Begin at the Start Pipe, greet the Baby Yoshi toy and grab a lantern, defeat the Boo, ‘eat’ fruit, take on Kamek and end at the Goal Pole
-- Adventures with interactive LEGO Luigi – Kids team up with LEGO Luigi on a mission with this LEGO Super Mario toy for 6-plus-year-old boys and girls
+- 4 LEGO Super Mario figures – This Nintendo collectible playset includes an interactive LEGO Luigi toy figure, plus Kamek, a Pink Baby Yoshi and a Boo
 - Nurture kids’ creativity – LEGO Super Mario playsets are designed for solo or social play, offering role play, digital coin-collecting and fun challenges through expansion and rebuilding
 - Nintendo gift for kids – This LEGO Super Mario adventure building toy set makes a fun gift toy for 6-plus-year-old boys, girls and gamers
+- Adventures with interactive LEGO Luigi – Kids team up with LEGO Luigi on a mission with this LEGO Super Mario toy for 6-plus-year-old boys and girls
+- The LEGO Super Mario app – Download the app for building instructions, inspiring tips and more
 - Battle for Kamek’s broomstick – Help LEGO Luigi stomp on the Mushroom Platform to knock over Kamek, defeat him and fly away on his broomstick
-- 4 LEGO Super Mario figures – This Nintendo collectible playset includes an interactive LEGO Luigi toy figure, plus Kamek, a Pink Baby Yoshi and a Boo
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH3BRYZ{{</world>}}

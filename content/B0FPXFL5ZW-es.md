@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO City Camión de Exposición de F1 con Coche de Carreras Audi F1 de Juguete - Kit de Maquetas con 3 Minifiguras y Plataforma Elevadora - Regalo para Niños de 7+ Años y Fans del Motor - 60493'
-date: 2026-09-18 06:05:55
+title: 'LEGO City Camión de Exposición de F1 con Coche de Carreras Audi F1 60493'
+date: 2026-09-23 12:16:25
 image: 'https://m.media-amazon.com/images/I/51uPXFXrLlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
 comparePrice: 44.99 EUR
-prodname: 'LEGO City Camión de Exposición de F1 con Coche de Carreras Audi F1 de Juguete - Kit de Maquetas con 3 Minifiguras y Plataforma Elevadora - Regalo para Niños de 7+ Años y Fans del Motor - 60493'
+prodname: 'LEGO City Camión de Exposición de F1 con Coche de Carreras Audi F1 60493'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXFL5ZW/?tag=tolees-21'
 descuento: '20.00'
-average: '36.99'
+average: '36.8081818181819'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

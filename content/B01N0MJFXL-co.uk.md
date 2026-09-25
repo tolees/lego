@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- CREATIVE GIFT FOR TODDLERS – This buildable Mickey Mouse toy makes a fun Disney gift idea for 2+ year old girls and boys who are fans of the Disney Jr Mickey Mouse Clubhouse show
-- EDUCATIONAL TODDLER TOYS – Help little builders practise their fine motor skills as they place the garden tools and paint brush in the characters’ hands
-- PACKED WITH ACTIVITIES – From painting to digging the garden, caring for Pluto or playing on the slide, toddlers can decide which fun activity the characters do next by spinning the Mousekedoer wheel
 - MICKEY MOUSE CLUBHOUSE PLAYSET – Toddlers join their favourite Disney Jr friends with the Mickey Mouse Clubhouse with Minnie & Pluto building toy for 2+ year old girls and boys
 - LEARNING THROUGH PLAY – This LEGO DUPLO set is designed to encourage toddlers to grow skills, such as fine motor dexterity and emotional literacy, through creative play
+- CREATIVE GIFT FOR TODDLERS – This buildable Mickey Mouse toy makes a fun Disney gift idea for 2+ year old girls and boys who are fans of the Disney Jr Mickey Mouse Clubhouse show
+- EDUCATIONAL TODDLER TOYS – Help little builders practise their fine motor skills as they place the garden tools and paint brush in the characters’ hands
 - DISNEY FAVOURITES – This brick-built house toy includes a LEGO DUPLO Disney Mickey Mouse figure, Minnie Mouse, Pluto and a Toodles computer brick for pretend play inspired by the show
+- PACKED WITH ACTIVITIES – From painting to digging the garden, caring for Pluto or playing on the slide, toddlers can decide which fun activity the characters do next by spinning the Mousekedoer wheel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N0MJFXL{{</world>}}

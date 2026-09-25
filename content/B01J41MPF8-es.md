@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Architecture Londres Kit de Construcción Creativa London Eye Big Ben Tower Bridge Maqueta de Monumentos Coleccionable Manualidades para Adultos Regalo para Hombres y Mujeres 21034'
-date: 2026-09-11 17:56:41
+title: 'LEGO Architecture Londres 21034'
+date: 2026-09-23 05:34:53
 image: 'https://m.media-amazon.com/images/I/41r+5r7JUZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01J41MPF8-es LEGO Architecture Londres Kit de Construcción Creativa...'
+slug: 'B01J41MPF8-es LEGO Architecture Londres 21034'
 sku: 'B01J41MPF8-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 31.59 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 31.59
+price: 29.99
 comparePrice: 39.99 EUR
-prodname: 'LEGO Architecture Londres Kit de Construcción Creativa London Eye Big Ben Tower Bridge Maqueta de Monumentos Coleccionable Manualidades para Adultos Regalo para Hombres y Mujeres 21034'
+prodname: 'LEGO Architecture Londres 21034'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21'
-descuento: '21.01'
-average: '32.9584615384614'
+descuento: '25.01'
+average: '32.8698507462685'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

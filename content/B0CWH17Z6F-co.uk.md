@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The LEGO Super Mario app – Download the app for building instructions, inspiring tips and more
-- Nintendo gift for kids – This LEGO Super Mario adventure toy playset makes a fun princess gift toy for 6-plus-year-old girls, boys and gamers
-- Nurture kids’ creativity – LEGO Super Mario playsets are designed for solo or social play, offering role play, digital coin-collecting and fun challenges through expansion and rebuilding
-- 4 LEGO Super Mario figures – This Nintendo LEGO set includes an interactive LEGO Princess Peach figure, plus Lakitu, a Yellow Toad and a Lava Bubble
 - Fun toy – Help LEGO Peach perform flips on the cloud to earn digital coins; Lakitu can use the cloud to hook the picnic chair and capture the Toad
+- 4 LEGO Super Mario figures – This Nintendo LEGO set includes an interactive LEGO Princess Peach figure, plus Lakitu, a Yellow Toad and a Lava Bubble
+- Nintendo gift for kids – This LEGO Super Mario adventure toy playset makes a fun princess gift toy for 6-plus-year-old girls, boys and gamers
+- The LEGO Super Mario app – Download the app for building instructions, inspiring tips and more
+- Nurture kids’ creativity – LEGO Super Mario playsets are designed for solo or social play, offering role play, digital coin-collecting and fun challenges through expansion and rebuilding
 - Adventure playset – Begin at the Start Pipe, have a picnic, knock Lakitu off his cloud and defeat the Lava Bubble to release the Yellow Toad
 - Super Mario toy with interactive LEGO Peach – Join LEGO Peach for a picnic tea party and help her fly on Lakitu’s cloud to rescue the Yellow Toad
 

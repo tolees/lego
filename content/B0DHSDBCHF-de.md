@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75402 ARC-170 Starfighter Spielzeug mit 4 Minifiguren inkl. Klon-Piloten und R4-P44 Droide Sammlerstück Geschenk für Fans von Die Rache der Sith und Jungen und Mädchen ab 9 Jahren'
-date: 2026-08-20 09:58:54
+title: 'LEGO Star Wars ARC-170 Starfighter 75402'
+date: 2026-09-22 10:38:42
 image: 'https://m.media-amazon.com/images/I/51Usp6za4eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSDBCHF-de LEGO Star Wars 75402 ARC-170 Starfighter Spielzeug mit 4...'
+slug: 'B0DHSDBCHF-de LEGO Star Wars ARC-170 Starfighter 75402'
 sku: 'B0DHSDBCHF-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 44.99 EUR
+actualPrice: 52.23 EUR
 currency: EUR
-price: 44.99
+price: 52.23
 comparePrice: 69.99 EUR
-prodname: 'LEGO Star Wars 75402 ARC-170 Starfighter Spielzeug mit 4 Minifiguren inkl. Klon-Piloten und R4-P44 Droide Sammlerstück Geschenk für Fans von Die Rache der Sith und Jungen und Mädchen ab 9 Jahren'
+prodname: 'LEGO Star Wars ARC-170 Starfighter 75402'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DHSDBCHF/?tag=tolees0ca-21'
-descuento: '35.72'
-average: '47.09'
+descuento: '25.38'
+average: '47.41125'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,6 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bauset mit 4 LEGO Star Wars Charakteren: Die Star Wars Minifiguren Odd Ball und Jag sowie ein dritter Klon-Pilot (jeweils mit Blaster-Pistole) und der LEGO Droide R4-P44 sind in diese Fanatsy Spielset mit dabei
-- Geschenkidee für Kinder ab 9 Jahren: Dieses faszinierende Star Wars Spielset mit einem Spielzeug Sternenschiff ist ein tolles Geschenk für kreative Jungen, Mädchen und Fans von Star Wars: Die Rache der Sith
-- Sternenjäger aus LEGO Steinen: Das Modell verfügt über 3 aufklappbare Cockpits, einen Platz für R4-P44, 2 Shooter mit Federmechanismus und 6 Flügel. 4 der Flügel lassen sich mit einem Hebel in den Angriffs- oder Flugmodus schwenken
-- Bauspielzeuge zum Sammeln für Fans jeden Alters: Separat erhältliche LEGO Star Wars Sets lassen Kinder und erwachsene Star Wars Fans legendäre Szenen nachspielen, neue Geschichten darstellen oder die gebauten Modelle einfach nur ausstellen
-- Star Wars Sternenjäger – ein spannendes Bauspielzeug für Kinder: Stell spannende Geschichten aus Star Wars: Die Rache der Sith mit diesem detailgetreuen LEGO Modell eines ARC-170 Starfighters nach
-- Faszinierendes Bauerlebnis: Die LEGO Builder App nimmt Kinder auf ein intuitives Bauabenteuer mit; In der App kann man beim Bauen beispielsweise 3D-Ansichten der Modelle vergrößern und drehen
-- Star Wars Bau- und Spielset mit faszinierendem Zubehör: Die 3 LEGO Minifiguren haben Blaster-Pistolen für jede Menge Actionspaß und Abenteuer im Star Wars Universum
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDBCHF{{</world>}}

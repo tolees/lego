@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO City Hubschrauber der Küstenwache - Spielzeug Einsatzfahrzeug - Modellbau mit Schiebetüren Winde 4 Minifiguren und Hai Figur - Geburtstagsgeschenk für Jungen ab 7 Jahren - 60503'
-date: 2026-08-31 11:39:34
+title: 'LEGO City Hubschrauber der Küstenwache 60503'
+date: 2026-09-25 11:44:14
 image: 'https://m.media-amazon.com/images/I/51qcTAC8rGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXGSYZ1-de LEGO City Hubschrauber der Küstenwache - Spielzeug...'
+slug: 'B0FPXGSYZ1-de LEGO City Hubschrauber der Küstenwache 60503'
 sku: 'B0FPXGSYZ1-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99
 comparePrice: 59.99 EUR
-prodname: 'LEGO City Hubschrauber der Küstenwache - Spielzeug Einsatzfahrzeug - Modellbau mit Schiebetüren Winde 4 Minifiguren und Hai Figur - Geburtstagsgeschenk für Jungen ab 7 Jahren - 60503'
+prodname: 'LEGO City Hubschrauber der Küstenwache 60503'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGSYZ1/?tag=tolees0ca-21'
 descuento: '35.01'
-average: '40.5870588235294'
+average: '40.4983333333334'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,13 +28,6 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DIGITALE UNTERSTÜTZUNG BEIM BAUEN: Die LEGO Builder App begleitet Kinder mit einer intuitiven 3D-Anleitung, in der sie Modelle drehen, vergrößern und ihren Fortschritt jederzeit verfolgen können
-- INTERAKTIVES SPIELZEUG FÜR KINDER: Das Spielset enthält einen Spielzeug Hubschrauber, aufklappbare Rettungskapsel, vier Minifiguren, darunter Pilot, Zivilperson und zwei Mitglieder der Küstenwache und Hai-Figur
-- RETTUNGSHUBSCHRAUBER SPIELZEUG FÜR KINDER AB 7 JAHREN: Mit dem LEGO City Hubschrauber der Küstenwache erleben Kinder spannende Rettungseinsätze auf See und tauchen in actionreiche Rollenspiele ein
-- LEGO GESCHENK FÜR KINDER: Der Hubschrauber der Küstenwache ist ein beliebtes Geschenk für Jungen und Mädchen ab 7 Jahren, die gern mit kreativem Spielzeug spielen
-- LEGO MINIFIGUREN ZUBEHÖR: Enthält ein Spielzeug Arztset, ein Fernglas, ein Walkie-Talkie und einen Rettungsring für viele spannende Rollenspiele und Rettungseinsätze
-- STEM SPIELZEUG MIT FUNKTIONEN: Der Hubschrauber verfügt über drehbare Rotoren, seitliche Schiebetüren, eine funktionierende Seilwinde und eine Rettungskapsel, die sich öffnen lässt, um den Innenraum zu erkunden
-- MEHR SPASS IN LEGO CITY: Das Flughafen-Set lässt sich mit weiteren separat erhältlichen LEGO City Sets kombinieren und erweitert so das Spielerlebnis um viele weitere spannende Geschichten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGSYZ1{{</world>}}

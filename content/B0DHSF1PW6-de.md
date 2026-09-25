@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto - Spielzeug mit Formel 1 Minifigur zum Sammeln - Geschenk für Jungen & Mädchen ab 10 Jahren und Erwachsene Motorsport Fans 77248'
-date: 2026-09-19 08:38:12
+title: 'LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto 77248'
+date: 2026-09-23 07:38:16
 image: 'https://m.media-amazon.com/images/I/51Ew3Rv2R6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSF1PW6-de LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto -...'
+slug: 'B0DHSF1PW6-de LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto 77248'
 sku: 'B0DHSF1PW6-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 16.5 EUR
+actualPrice: 15.99 EUR
 currency: EUR
-price: 16.5
+price: 15.99
 comparePrice: 26.99 EUR
-prodname: 'LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto - Spielzeug mit Formel 1 Minifigur zum Sammeln - Geschenk für Jungen & Mädchen ab 10 Jahren und Erwachsene Motorsport Fans 77248'
+prodname: 'LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto 77248'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DHSF1PW6/?tag=tolees0ca-21'
-descuento: '38.87'
-average: '17.59875'
+descuento: '40.76'
+average: '17.5344'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

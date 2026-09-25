@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Kosmeen - Künstlicher Blumenstrauß mit 3 Kosmeen & 2 Lampenputzergras Stielen - DIY Kunstblumen Kinderzimmer Deko - Geburtstagsgeschenk für Mädchen ab 9 Jahren & Erwachsene - 11514'
-date: 2026-09-19 16:25:19
+date: 2026-09-20 22:03:02
 image: 'https://m.media-amazon.com/images/I/41yv0UwCGnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FRSNNYQJ/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '10.1857142857143'
+average: '10.16125'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

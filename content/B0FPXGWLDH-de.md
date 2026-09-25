@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Harry Potter Fliegender Ford Anglia - Auto Spielzeug Set für Kinder mit 3 Figuren zum Spielen und Ausstellen - Geschenk für Jungen Mädchen und alle Fans ab 14 Jahren - 76470'
-date: 2026-09-19 16:39:14
+title: 'LEGO Harry Potter Fliegender Ford Anglia 76470'
+date: 2026-09-25 11:44:41
 image: 'https://m.media-amazon.com/images/I/51zhJFABcxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXGWLDH-de LEGO Harry Potter Fliegender Ford Anglia - Auto Spielzeug...'
+slug: 'B0FPXGWLDH-de LEGO Harry Potter Fliegender Ford Anglia 76470'
 sku: 'B0FPXGWLDH-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 48.73 EUR
+actualPrice: 49.99 EUR
 currency: EUR
-price: 48.73
+price: 49.99
 comparePrice: 79.99 EUR
-prodname: 'LEGO Harry Potter Fliegender Ford Anglia - Auto Spielzeug Set für Kinder mit 3 Figuren zum Spielen und Ausstellen - Geschenk für Jungen Mädchen und alle Fans ab 14 Jahren - 76470'
+prodname: 'LEGO Harry Potter Fliegender Ford Anglia 76470'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGWLDH/?tag=tolees0ca-21'
-descuento: '39.08'
-average: '50.646842105263'
+descuento: '37.50'
+average: '50.6139999999998'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

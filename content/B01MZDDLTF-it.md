@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Diventa il migliore di lego city
 - Esplora la città, diventa un maestro dei travestimenti, più di 100 veicoli
+- Diventa il migliore di lego city
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MZDDLTF{{</world>}}

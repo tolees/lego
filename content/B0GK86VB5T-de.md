@@ -29,12 +29,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - INHALT DER BOX: 1 SMART Brick (ungefähr 45 Minuten Spielzeit bei voller Ladung, mit anderen SMART Play Sets kompatibel), 1 SMART Ladegerät, 4 SMART Tags, 1 Pikachu-Figur und ein Baumhaus aus LEGO Steinen
-- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können fantasievoll zusammen mit anderen spielen, Pikachu für Duelle trainieren lassen und sich auf unzählige Rollenspiele und Abenteuer mit dem beliebten Pokémon freuen
 - INTERAKTIVES PIKACHU-BAUSPIELZEUG: Trainingshaus mit Pikachu (72164) ist ein LEGO SMART Play All-in-1 Set mit SMART Brick, SMART Ladegerät und 4 SMART Tags für ein fesselndes Spielerlebnis
-- LEGO SMART ASSIST APP: Die App hilft bei den ersten Schritten und bei Störungen. Lade Updates herunter und aktiviere für potenzielle künftige Funktionen das eingebaute Mikrofon (Zustimmung und Firmware-Update für Aktivierung erforderlich)
-- SMARTE POKÉMON FIGUR: Erwecke Pikachu mit einem SMART Brick zum Leben, der spürt, wie Kinder spielen und die Figur bewegen, und der das Pokémon entsprechend reagieren lässt
-- GESCHENKIDEE FÜR KINDER: Dieses Sammlerstück ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Kinder ab 6 Jahren, die Pokémon und Bauspielzeuge lieben
 - FREU DICH AUF JEDE MENGE ACTIONSPASS: Der integrierte SMART Brick lässt Pikachu mit Sound- und Lichteffekten reagieren, wenn sich die Figur einem SMART Tag nähert, zum Beispiel beim Training für ein Duell
+- SMARTE POKÉMON FIGUR: Erwecke Pikachu mit einem SMART Brick zum Leben, der spürt, wie Kinder spielen und die Figur bewegen, und der das Pokémon entsprechend reagieren lässt
+- SPIELSPASS GANZ OHNE BILDSCHIRM: Kinder können fantasievoll zusammen mit anderen spielen, Pikachu für Duelle trainieren lassen und sich auf unzählige Rollenspiele und Abenteuer mit dem beliebten Pokémon freuen
+- LEGO SMART ASSIST APP: Die App hilft bei den ersten Schritten und bei Störungen. Lade Updates herunter und aktiviere für potenzielle künftige Funktionen das eingebaute Mikrofon (Zustimmung und Firmware-Update für Aktivierung erforderlich)
+- GESCHENKIDEE FÜR KINDER: Dieses Sammlerstück ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Kinder ab 6 Jahren, die Pokémon und Bauspielzeuge lieben
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0GK86VB5T{{</world>}}

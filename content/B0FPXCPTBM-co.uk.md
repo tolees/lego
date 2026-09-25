@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
 - DIGITAL GUIDE – Let the LEGO Builder app guide kids on an intuitive adventure, where they can save sets, track progress and zoom in and rotate models in 3D
-- LEGO MONASTERY – The ninja toy includes steps, opening doors, a lantern, a cherry tree in blossom and a tearoom at the back, plus it can display 8 minifigures
-- NINJAGO ANNIVERSARY SET – Teenage fans can celebrate the Masters of Spinjitzu with the LEGO NINJAGO Ninja Character Display 15th Anniversary building set for 14+ year old boys and girls
-- FUN FEATURES – The minifigures can be attached to the gate in mid-air poses and the tearoom includes stickers depicting a famous battle between Wu and Garmadon from the pilot season of the TV show
 - 8 LEGO NINJAGO MINIFIGURES – Kai, Zane, Cole, Jay, Lloyd, Wu and Samurai X from season 1 of the TV show, and, for the first time, a collectible Elemental Master of Lightning on a separate stand
+- A UNIVERSE OF LEGO NINJAGO SETS – This extensive collection lets children escape into an immersive fantasy world for imaginative play with their ninja heroes
+- LEGO MONASTERY – The ninja toy includes steps, opening doors, a lantern, a cherry tree in blossom and a tearoom at the back, plus it can display 8 minifigures
 - GIFT IDEA FOR TEENAGERS – This LEGO NINJAGO Anniversary model kit makes a great birthday gift idea for 14+ year old teenage boys, girls and older fans
+- FUN FEATURES – The minifigures can be attached to the gate in mid-air poses and the tearoom includes stickers depicting a famous battle between Wu and Garmadon from the pilot season of the TV show
+- NINJAGO ANNIVERSARY SET – Teenage fans can celebrate the Masters of Spinjitzu with the LEGO NINJAGO Ninja Character Display 15th Anniversary building set for 14+ year old boys and girls
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXCPTBM{{</world>}}

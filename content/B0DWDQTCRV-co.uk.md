@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A universe of ninja toys – LEGO NINJAGO building sets transport kids into an action-packed fantasy world where they can join their ninja heroes on epic adventures
 - NINJAGO mech model – Older NINJAGO fans can expand their collection with The Fire Knight Mech, a highly detailed LEGO NINJAGO building set packed with action and adventure
+- A universe of ninja toys – LEGO NINJAGO building sets transport kids into an action-packed fantasy world where they can join their ninja heroes on epic adventures
 - Posters included – This LEGO NINJAGO set comes with exclusive posters that NINJAGO fans will love, adding an extra layer of fun and collectability to the building toy
 - 2 NINJAGO minifigures – Includes ninja Kai with a prismatic reveal blade, who can sit inside the mech’s chest, and a fisherman with a paddle in a boat, adding more storytelling possibilities
 - Ninja display set – The scene features The Fire Knight Mech, complete with a cape and spear, battling an ancient sea monster, making it a cool action figure display for any NINJAGO fan’s room

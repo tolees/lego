@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- FIGURA ARTICULADA DE TOMATOIDE: Crea una detallada réplica del traje Tomatoide que aparece en el videojuego LEGO Fortnite y úsala como decoración gamer para el escritorio o estantería de la habitación
-- JUGUETE LEGO FORTNITE: Desbloquea una aventura del videojuego fuera de la pantalla con el kit de construcción LEGO Fornite Tomatoide, un juguete para niños, niñas y gamers a partir de 10 años
-- BONIFICACIÓN PARA EL JUEGO: Este set viene con un objeto de regalo para el juego; consiste en un pack de decoración de Tomatina de Tomatoide que los jugadores pueden canjear en el juego LEGO Fortnite
 - SETS LEGO FORTNITE COLECCIONABLES: Amplía tu colección de modelos basados en videojuegos con otros sets de construcción para gamers de la gama, todos a la venta por separado
+- FIGURA ARTICULADA DE TOMATOIDE: Crea una detallada réplica del traje Tomatoide que aparece en el videojuego LEGO Fortnite y úsala como decoración gamer para el escritorio o estantería de la habitación
+- BONIFICACIÓN PARA EL JUEGO: Este set viene con un objeto de regalo para el juego; consiste en un pack de decoración de Tomatina de Tomatoide que los jugadores pueden canjear en el juego LEGO Fortnite
+- JUGUETE LEGO FORTNITE: Desbloquea una aventura del videojuego fuera de la pantalla con el kit de construcción LEGO Fornite Tomatoide, un juguete para niños, niñas y gamers a partir de 10 años
 - POZO DE PIZZA DEL TÍO PETE: Abre la figura de Fornite y descubre una versión en miniatura del Pozo de pizza del tío Pete con un mini-Tomatoide para el juego de rol
 - REGALO GAMER: El kit de construcción es un regalo divertido y llamativo para niños, niñas y fans de los videojuegos a partir de 10 años, idóneo como detalle de cumpleaños o por alguna ocasión especial
 - PIEZA DE EXPOSICIÓN INSPIRADA EN EL VIDEOJUEGO: Los peques pueden incorporar el set a su colección de maquetas LEGO Fortnite y exponerlo con orgullo como decoración gamer para la estantería o escritorio de la habitación

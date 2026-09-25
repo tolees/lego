@@ -31,9 +31,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - EDUCATIONAL TOYS – Little ones practise role-play and logical thinking to treat the girl in the ambulance toy before driving her away to the hospital
 - CREATIVE TOYS – Kids develop empathy as they imagine how the patient feels using the digital play wheel in the instructions on the LEGO Builder app
 - BIRTHDAY GIFT FOR TODDLERS – This fun toddler learning toy makes a great gift for 2+ year old boys and girls who love imaginative play with emergency vehicle toys
+- LEGO DUPLO FIGURES – Includes ambulance driver and girl figures, a toy car, bag and first aid kit so kids can learn how paramedics care for patients
 - AMBULANCE TOY – Kids role-play real-life rescue scenarios with the LEGO DUPLO Ambulance & Driver toddler toy for 2+ year old boys and girls, which comes with a small house build
 - SOCIAL-EMOTIONAL LEARNING TOYS – To explore more ‘first time’ experiences check out the LEGO DUPLO Town First Time: Visit with the Doctor 10449 (sold separately)
-- LEGO DUPLO FIGURES – Includes ambulance driver and girl figures, a toy car, bag and first aid kit so kids can learn how paramedics care for patients
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00CYH1VLY{{</world>}}

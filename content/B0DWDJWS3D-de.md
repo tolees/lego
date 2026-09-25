@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Technic Aston Martin Valkyrie Rennwagen Spielzeug - Modell-Bauset mit V12-Motor und aufklappbaren Flügeltüren - Sammlergeschenk für Jungen und Mädchen ab 9 Jahren - 42208'
-date: 2026-09-19 08:39:54
+title: 'LEGO Technic Aston Martin Valkyrie 42208'
+date: 2026-09-23 07:40:15
 image: 'https://m.media-amazon.com/images/I/51jYlhOQzfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDJWS3D-de LEGO Technic Aston Martin Valkyrie Rennwagen Spielzeug -...'
+slug: 'B0DWDJWS3D-de LEGO Technic Aston Martin Valkyrie 42208'
 sku: 'B0DWDJWS3D-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 32.99 EUR
+actualPrice: 41.11 EUR
 currency: EUR
-price: 32.99
+price: 41.11
 comparePrice: 59.99 EUR
-prodname: 'LEGO Technic Aston Martin Valkyrie Rennwagen Spielzeug - Modell-Bauset mit V12-Motor und aufklappbaren Flügeltüren - Sammlergeschenk für Jungen und Mädchen ab 9 Jahren - 42208'
+prodname: 'LEGO Technic Aston Martin Valkyrie 42208'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDJWS3D/?tag=tolees0ca-21'
-descuento: '45.01'
-average: '38.6854545454546'
+descuento: '31.47'
+average: '38.7908695652175'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

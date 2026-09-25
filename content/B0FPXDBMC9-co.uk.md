@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 4 LEGO STAR WARS MINIFIGURES – Equip the 2 Mandalorian Super Commandos with 2 jetpacks and 3 blaster pistols, and the 2 332nd Clone Troopers with a blaster and blaster rifle
 - SPEEDER BIKE TOY – Put a Mandalorian Super Commando in the driver’s seat of the LEGO Star Wars vehicle and the other at the back with the stud-shooting blaster
-- BUILT FOR ACTION PLAY – Place the Clone Troopers behind the barricade, stow ammo in its storage container, aim and activate the mounted stud shooter
-- ENHANCED, INTERACTIVE FUN – The LEGO Builder app helps your child build independently with tools that let them zoom in and rotate sets using 3D instructions, track progress and save them in one place
-- MANDALORIAN TOY FOR 6+ YEAR OLD BOYS AND GIRLS – Play out the epic stories from Star Wars: The Clone Wars with this LEGO Star Wars Siege of Mandalore Battle Pack
-- STAR WARS GIFT FOR 6+ BOYS AND GIRLS – This building toy makes an great birthday gift for boys, girls and Star Wars: The Clone Wars fans aged 6 years old and up
 - BUILD BIGGER BATTLES – Look out for other LEGO Star Wars collectible Battle Pack sets (sold separately) to help kids expand their armies and play out even more fantasy adventures
+- ENHANCED, INTERACTIVE FUN – The LEGO Builder app helps your child build independently with tools that let them zoom in and rotate sets using 3D instructions, track progress and save them in one place
+- 4 LEGO STAR WARS MINIFIGURES – Equip the 2 Mandalorian Super Commandos with 2 jetpacks and 3 blaster pistols, and the 2 332nd Clone Troopers with a blaster and blaster rifle
+- STAR WARS GIFT FOR 6+ BOYS AND GIRLS – This building toy makes an great birthday gift for boys, girls and Star Wars: The Clone Wars fans aged 6 years old and up
+- MANDALORIAN TOY FOR 6+ YEAR OLD BOYS AND GIRLS – Play out the epic stories from Star Wars: The Clone Wars with this LEGO Star Wars Siege of Mandalore Battle Pack
+- BUILT FOR ACTION PLAY – Place the Clone Troopers behind the barricade, stow ammo in its storage container, aim and activate the mounted stud shooter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDBMC9{{</world>}}

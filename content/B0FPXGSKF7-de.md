@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO City Klassischer Dampfzug Spielzeug - STEM Modellbausatz - Set mit Bahnhof Schienen Führerstand Steuerung Haltesignal und 5 Minifiguren - Geburtstagsgeschenk für Jungen ab 7 Jahren - 60511'
-date: 2026-09-19 08:38:56
+title: 'LEGO City Klassischer Dampfzug 60511'
+date: 2026-09-23 07:39:21
 image: 'https://m.media-amazon.com/images/I/517R5zhJKaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXGSKF7-de LEGO City Klassischer Dampfzug Spielzeug - STEM...'
+slug: 'B0FPXGSKF7-de LEGO City Klassischer Dampfzug 60511'
 sku: 'B0FPXGSKF7-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99
 comparePrice: 89.99 EUR
-prodname: 'LEGO City Klassischer Dampfzug Spielzeug - STEM Modellbausatz - Set mit Bahnhof Schienen Führerstand Steuerung Haltesignal und 5 Minifiguren - Geburtstagsgeschenk für Jungen ab 7 Jahren - 60511'
+prodname: 'LEGO City Klassischer Dampfzug 60511'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGSKF7/?tag=tolees0ca-21'
 descuento: '30.00'
-average: '63.94'
+average: '63.75'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

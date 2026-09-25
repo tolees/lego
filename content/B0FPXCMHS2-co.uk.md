@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - GEAR UP FOR PLAY? – Includes a motorbike toy with moving wheels, a police officer figure with a helmet, a traffic light decorated DUPLO brick and 2 orange road cones
-- DRIVE INTO LEARNING ADVENTURES – The LEGO DUPLO Blue Police Motorcycle is a fun Montessori toy for 2+ year old boys and girls that helps kids learn about traffic rules while driving around obstacles
+- EDUCATIONAL TODDLER TOYS – With the double-sided traffic light brick, featuring red on one side and green on the other, this building set teaches little ones to recognise stop and go signals while they play out roleplay stories
 - DESIGNED FOR LITTLE HANDS – LEGO DUPLO development toys come with easy-to-handle bricks and engaging features to help toddlers take the first confident steps in their LEGO building journey
 - GIFT IDEA FOR TODDLERS – This LEGO DUPLO police toy provides a playful learning experience and makes a great anytime treat or birthday gift for 2+ year old toddlers, boys and girls
+- DRIVE INTO LEARNING ADVENTURES – The LEGO DUPLO Blue Police Motorcycle is a fun Montessori toy for 2+ year old boys and girls that helps kids learn about traffic rules while driving around obstacles
 - LEARNING THROUGH PLAY – As kids build the set and drive the police officer around the cones on the toy motorbike, they develop fine motor skills and improve coordination through engaging play
-- EDUCATIONAL TODDLER TOYS – With the double-sided traffic light brick, featuring red on one side and green on the other, this building set teaches little ones to recognise stop and go signals while they play out roleplay stories
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXCMHS2{{</world>}}

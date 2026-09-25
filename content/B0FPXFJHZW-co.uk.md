@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- EDUCATIONAL TOY – Included Starter Bricks and simple building steps support development and expand kids imaginations as they recreate familiar stories from the Bluey TV show or create their own
 - ROLE-PLAY TOY – Kids can give the baby a bottle and place it in an incubator or buggy; the café is equipped with play food accessories including a pan, teapot, 2 cups, 2 waffles and a fish
+- SCHOOL BUILDING TOY – Kids join Bluey and Rusty on a trip to Glasshouse Primary School with this LEGO Bluey toy for 4+ year old girls and boys
 - DISCOVER MORE BLUEY FUN – Check out more sets in the range (sold separately), including age-appropriate toys for toddlers, preschoolers and kids aged 4 and over
 - BLUEY GIFT FOR KIDS – This fun learning toy makes a great birthday gift idea for 4+ year old girls and boys who are fans of the Bluey TV show
-- EDUCATIONAL TOY – Included Starter Bricks and simple building steps support development and expand kids imaginations as they recreate familiar stories from the Bluey TV show or create their own
 - 2 LEGO MINIFIGURES – Recreate the Early Baby episode with Bluey and Rusty minifigures in the different areas of the school: a mini toy kitchen, café, hospital and a baby-care section
-- SCHOOL BUILDING TOY – Kids join Bluey and Rusty on a trip to Glasshouse Primary School with this LEGO Bluey toy for 4+ year old girls and boys
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXFJHZW{{</world>}}

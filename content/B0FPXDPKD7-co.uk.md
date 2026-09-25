@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- FEATURES AND FUNCTIONS – Open the lock function of the tower with the key and reveal the 2 sides and 4 small rooms; one side includes a window with opening shutters
-- PRETEND-PLAY ACCESSORIES – With this Tangled toy, kids can create the lockable mini-tower and discover a frying pan, magic flower, easel and paintbrush to inspire hours of play
-- DISNEY GIFT FOR KIDS – The building set makes a fun anytime treat or birthday or gift-giving idea for 5+ year old girls and boys who love imaginative play and Disney’s Tangled movie
-- DISNEY PRINCESS BUILDING TOY FOR KIDS – This LEGO | Disney Rapunzel’s Mini Tower toy for 5+ year old girls and boys offers kids a simplified creative experience packed with storytelling details
 - ENHANCED, INTERACTIVE FUN – Find digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track progress and save sets as they develop new skills
+- FEATURES AND FUNCTIONS – Open the lock function of the tower with the key and reveal the 2 sides and 4 small rooms; one side includes a window with opening shutters
+- DISNEY GIFT FOR KIDS – The building set makes a fun anytime treat or birthday or gift-giving idea for 5+ year old girls and boys who love imaginative play and Disney’s Tangled movie
 - 3 FAMILIAR MOVIE CHARACTERS – Young fans can play out their favourite movie scenes or imagine new stories with LEGO Disney Rapunzel and Flynn mini dolls, plus a figure of Pascal the chameleon
+- DISNEY PRINCESS BUILDING TOY FOR KIDS – This LEGO | Disney Rapunzel’s Mini Tower toy for 5+ year old girls and boys offers kids a simplified creative experience packed with storytelling details
+- PRETEND-PLAY ACCESSORIES – With this Tangled toy, kids can create the lockable mini-tower and discover a frying pan, magic flower, easel and paintbrush to inspire hours of play
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXDPKD7{{</world>}}

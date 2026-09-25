@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO | Disney Vaiana Kakamora - Spielzeug inkl. 2 Blumentopf Figuren mit künstlichen Blumen als Zimmerdeko - Geschenk für Mädchen ab 9 Jahren und Filmfans - 43293'
-date: 2026-09-20 10:32:50
+title: 'LEGO Disney Princess Kakamora 43293'
+date: 2026-09-25 11:29:40
 image: 'https://m.media-amazon.com/images/I/51cV13peVGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPVTSQ8P-de LEGO | Disney Vaiana Kakamora - Spielzeug inkl. 2...'
+slug: 'B0FPVTSQ8P-de LEGO Disney Princess Kakamora 43293'
 sku: 'B0FPVTSQ8P-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
 comparePrice: 39.99 EUR
-prodname: 'LEGO | Disney Vaiana Kakamora - Spielzeug inkl. 2 Blumentopf Figuren mit künstlichen Blumen als Zimmerdeko - Geschenk für Mädchen ab 9 Jahren und Filmfans - 43293'
+prodname: 'LEGO Disney Princess Kakamora 43293'
 country: 'de'
 flag: '🇩🇪'
 brand: ''

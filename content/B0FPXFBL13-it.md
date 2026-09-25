@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- GADGET DA CALCIO PER BAMBINI E BAMBINE DA 10 ANNI IN SU: segna un goal creativo con il set LEGO Editions Lionel Messi Highlights Calcistici, un kit di modellismo per il gioco e per lesposizione
+- MINIFIGURE DEL GOAT: include una minifigure di Messi con la maglia da calcio e diversi Easter egg che fanno riferimento al suo background e alla sua carriera
 - DECORAZIONE CAMERETTA FAI DA TE A TEMA CALCISTICO: un elemento da esporre come decorazione da scrivania o da scaffale, da abbinare al set LEGO Editions Lionel Messi – Leggenda del Calcio (43015), disponibile separatamente
 - REGALO DA CALCIO PER BAMBINI E RAGAZZI: unottima idea regalo per i giovani fan dello sport, un set LEGO da collezione con cui festeggiare il compleanno degli adulti appassionati del gioco del pallone
 - SET CALCIO LEGO PER I FAN DELLO SPORT: la base ha la forma delle iniziali del calciatore e presenta i colori della squadra argentina, un numero 10 e una targa con le statistiche e il nome del giocatore
 - LEGO EDITIONS: mostra il tuo amore per le leggendarie stelle sportive, collezionando gli altri set della gamma sportiva (ognuno disponibile a parte)
-- MINIFIGURE DEL GOAT: include una minifigure di Messi con la maglia da calcio e diversi Easter egg che fanno riferimento al suo background e alla sua carriera
-- GADGET DA CALCIO PER BAMBINI E BAMBINE DA 10 ANNI IN SU: segna un goal creativo con il set LEGO Editions Lionel Messi Highlights Calcistici, un kit di modellismo per il gioco e per lesposizione
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFBL13{{</world>}}

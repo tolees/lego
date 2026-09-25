@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO DUPLO Peppa Wutz Familienhaus - Lernspielzeug zur Förderung der Motorik - Montessori Spielzeug mit 5 Figuren & Puppenhaus Zubehör - Geschenk für Mädchen & Jungen ab 2 Jahren - 10467'
-date: 2026-09-19 16:38:31
+title: 'LEGO DUPLO Peppa Pig Familienhaus 10467'
+date: 2026-09-22 10:49:59
 image: 'https://m.media-amazon.com/images/I/51BiJcT21cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXGMSQ3-de LEGO DUPLO Peppa Wutz Familienhaus - Lernspielzeug zur...'
+slug: 'B0FPXGMSQ3-de LEGO DUPLO Peppa Pig Familienhaus 10467'
 sku: 'B0FPXGMSQ3-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99
 comparePrice: 69.99 EUR
-prodname: 'LEGO DUPLO Peppa Wutz Familienhaus - Lernspielzeug zur Förderung der Motorik - Montessori Spielzeug mit 5 Figuren & Puppenhaus Zubehör - Geschenk für Mädchen & Jungen ab 2 Jahren - 10467'
+prodname: 'LEGO DUPLO Peppa Pig Familienhaus 10467'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGMSQ3/?tag=tolees0ca-21'
 descuento: '35.72'
-average: '46.8233333333334'
+average: '46.64'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

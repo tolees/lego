@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO Geburtstagstorte Spielzeug - Bastelset für Kinder mit 10 Kerzen Zuckerguss und bunten Blumen als Zimmerdeko - Geschenkidee für Mädchen Jungen und Familien ab 7 Jahren - 40815'
-date: 2026-09-19 08:40:53
+title: 'LEGO Geburtstagstorte 40815'
+date: 2026-09-23 07:40:56
 image: 'https://m.media-amazon.com/images/I/41gs0xb-mjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FHKYPTQB-de LEGO Geburtstagstorte Spielzeug - Bastelset für Kinder mit...'
+slug: 'B0FHKYPTQB-de LEGO Geburtstagstorte 40815'
 sku: 'B0FHKYPTQB-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
 comparePrice: 14.99 EUR
-prodname: 'LEGO Geburtstagstorte Spielzeug - Bastelset für Kinder mit 10 Kerzen Zuckerguss und bunten Blumen als Zimmerdeko - Geschenkidee für Mädchen Jungen und Familien ab 7 Jahren - 40815'
+prodname: 'LEGO Geburtstagstorte 40815'
 country: 'de'
 flag: '🇩🇪'
 brand: ''

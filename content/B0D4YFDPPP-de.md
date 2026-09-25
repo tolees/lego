@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Botanicals Kirschblüten - Spielzeug mit Kunstblumen – Kreative Deko für Schreibtisch – Spielset mit Blumen zum Bauen und Ausstellen Geschenk für Mädchen und Teenager ab 8 Jahren – 40725'
-date: 2026-09-16 12:59:52
+title: 'LEGO Botanicals Kirschblüten 40725'
+date: 2026-09-23 13:22:42
 image: 'https://m.media-amazon.com/images/I/41s2mUXpatL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0D4YFDPPP-de LEGO Botanicals Kirschblüten - Spielzeug mit Kunstblumen –...'
+slug: 'B0D4YFDPPP-de LEGO Botanicals Kirschblüten 40725'
 sku: 'B0D4YFDPPP-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 8.99 EUR
+actualPrice: 7.9 EUR
 currency: EUR
-price: 8.99
+price: 7.9
 comparePrice: 14.99 EUR
-prodname: 'LEGO Botanicals Kirschblüten - Spielzeug mit Kunstblumen – Kreative Deko für Schreibtisch – Spielset mit Blumen zum Bauen und Ausstellen Geschenk für Mädchen und Teenager ab 8 Jahren – 40725'
+prodname: 'LEGO Botanicals Kirschblüten 40725'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0D4YFDPPP/?tag=tolees0ca-21'
-descuento: '40.03'
-average: '8.99'
+descuento: '47.30'
+average: '8.445'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

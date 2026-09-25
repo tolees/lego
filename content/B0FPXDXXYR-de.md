@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Zeitmaschine aus Zurück in die Zukunft - Kinder Spielzeug mit Automodell und 2 Minifiguren - Marty McFly und Doc Brown - Kreatives Geschenk für Kinder ab 9 Jahren - 77256 Spielzeug'
-date: 2026-09-01 06:23:26
+title: 'LEGO Speed Champions Zeitmaschine aus Zurück in die Zukunft - Kinder Spielzeug mit Automodell und 2 Minifiguren - Marty McFly und Doc Brown - Kreatives Geschenk für Kinder ab 9 Jahren - 77256'
+date: 2026-09-21 00:10:45
 image: 'https://m.media-amazon.com/images/I/51Y9Z-av2ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXDXXYR-de LEGO Speed Champions Zeitmaschine aus Zurück in die...'
 sku: 'B0FPXDXXYR-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 19.99 EUR
+actualPrice: 16.49 EUR
 currency: EUR
-price: 19.99
+price: 16.49
 comparePrice: 27.99 EUR
-prodname: 'LEGO Speed Champions Zeitmaschine aus Zurück in die Zukunft - Kinder Spielzeug mit Automodell und 2 Minifiguren - Marty McFly und Doc Brown - Kreatives Geschenk für Kinder ab 9 Jahren - 77256 Spielzeug'
+prodname: 'LEGO Speed Champions Zeitmaschine aus Zurück in die Zukunft - Kinder Spielzeug mit Automodell und 2 Minifiguren - Marty McFly und Doc Brown - Kreatives Geschenk für Kinder ab 9 Jahren - 77256'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDXXYR/?tag=tolees0ca-21'
-descuento: '28.58'
-average: '19.7433333333335'
+descuento: '41.09'
+average: '19.6676744186048'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,6 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MINIFIGUREN FÜR ROLLENSPIELE: Marty McFly und Doc Brown begleiten das Set als LEGO Figuren und laden zu fantasievollen Spielszenen im kultigen Zeitreisemobil ein
-- FILMDETAILS FÜR NOSTALGIKER: Cockpit, Luftauslässe, Fluxkompensator und Zeitanzeige; dieses Modellauto enthält viele bekannte Elemente aus den Zurück in die Zukunft Filmen
-- ENTDECKE WEITERE FLITZER: Weitere LEGO Speed Champions Sets mit legendären Autos bieten zusätzlichen Bauspaß für alle, die Rennwagen und Kultfahrzeuge lieben
-- MODELLAUTO ZU ZURÜCK IN DIE ZUKUNFT: Mit dem LEGO Speed Champions Bauset bauen Kinder ab 9 Jahren einen legendären DeLorean und erleben detailreichen Modellbau mit filmreifem Spielspaß
-- GESCHENK FÜR FILMFANS: Dieses Bauset ist ein tolles Geschenk für Kinder, Sammler und erwachsene Fans, die Spielzeug mit Nostalgiefaktor und spannenden Bauideen mögen
-- UMBAU ZUM FLUGMODUS: Das LEGO Spielzeugauto lässt sich sowohl mit Fangstange als auch mit umgeklappten Rädern und Fusionsgenerator als Flugversion aus dem zweiten Film bauen
-- SPANNENDE LEGO SPIELSETS: LEGO Speed Champions lässt Kinder und Erwachsene berühmte Autos bauen, kreativ spielen und ihre Lieblingsmodelle ausstellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDXXYR{{</world>}}

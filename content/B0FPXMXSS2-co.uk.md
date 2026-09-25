@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- DISNEY PRINCESS ACCESSORIES – Inspire creative play with lots of details and accessories, including 3 beds, a chair, grooming accessories, dining table, cupcakes and more
+- CHARACTERS FOR STORYTELLING – Kids can join a LEGO Disney Princess Cinderella mini doll and some of her animal friends, including Gus the mouse, Lucifer the cat, Bruno the dog and a pony
 - A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track progress and save sets as they develop new skills
 - HANDS-ON PLAY AND SKILL BUILDING – Starter Brick elements make building fast and easy for young kids, helping develop fine motor skills, with a character in each bag sparking play right away
-- CHARACTERS FOR STORYTELLING – Kids can join a LEGO Disney Princess Cinderella mini doll and some of her animal friends, including Gus the mouse, Lucifer the cat, Bruno the dog and a pony
-- DISNEY GIFT IDEA – This educational toy provides a rewarding play experience and is a fun birthday gift idea for 4+ year old girls and boys who love animals
 - BUILDABLE DISNEY CASTLE TOY – The LEGO Disney Princess Cinderella Animal Friends Castle toy for 4+ year old girls and boys lets kids construct a detailed, easy-to-build model designed for endless play
-- DISNEY PRINCESS ACCESSORIES – Inspire creative play with lots of details and accessories, including 3 beds, a chair, grooming accessories, dining table, cupcakes and more
+- DISNEY GIFT IDEA – This educational toy provides a rewarding play experience and is a fun birthday gift idea for 4+ year old girls and boys who love animals
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXMXSS2{{</world>}}

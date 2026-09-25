@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO NINJAGO 15-jähriges Jubiläum: X-1 Ninja Supercar - Rennwagen Modellbau mit Motorrad und 3 Minifiguren inkl. Kai - Geschenkidee für Jungen ab 14 Jahren und Erwachsene Fans - 71867'
-date: 2026-09-19 16:40:43
+title: 'LEGO Ninjago 15-jähriges Jubiläum: X-1 Ninja Supercar 71867'
+date: 2026-09-25 11:46:14
 image: 'https://m.media-amazon.com/images/I/5132nm8VhDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXJYG2H-de LEGO NINJAGO 15-jähriges Jubiläum: X-1 Ninja Supercar -...'
+slug: 'B0FPXJYG2H-de LEGO Ninjago 15-jähriges Jubiläum: X-1 Ninja Supercar 71867'
 sku: 'B0FPXJYG2H-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99
 comparePrice: 79.99 EUR
-prodname: 'LEGO NINJAGO 15-jähriges Jubiläum: X-1 Ninja Supercar - Rennwagen Modellbau mit Motorrad und 3 Minifiguren inkl. Kai - Geschenkidee für Jungen ab 14 Jahren und Erwachsene Fans - 71867'
+prodname: 'LEGO Ninjago 15-jähriges Jubiläum: X-1 Ninja Supercar 71867'
 country: 'de'
 flag: '🇩🇪'
 brand: ''

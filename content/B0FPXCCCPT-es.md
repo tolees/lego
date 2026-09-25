@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- SETS PARA JUGADORES DE MINECRAFT: Los juguetes de construcción LEGO Minecraft ofrecen a los peques una amplísima gama de conocidas escenas, características y criaturas del popular videojuego
 - REGALO PARA GAMERS: Este kit de construcción LEGO Minecraft es un gran regalo de cumpleaños para niños y niñas de 8 años en adelante aficionados a los juguetes de construcción LEGO y a los videojuegos
-- PORTAL Y SANTUARIO DE JUGUETE MINECRAFT: Viaja a través del portal del Nether con el juguete interactivo La Batalla Contra el Wither para niños y niñas de 8 años o más y fans del videojuego
-- MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder proporciona una experiencia interactiva y de colaboración con amigos y familiares en la que cada uno construye una parte del set usando sus propios dispositivos
-- ACCESORIOS PARA LA BATALLA: Una mesa de trabajo, una poción de salud, una maza, 3 calaveras de esqueletos de Wither, un bastón con hongos distorsionados y una valiosa estrella del Nether
 - JUGUETE INTERACTIVO: Este juguete de acción Minecraft lleva a los peques hasta el santuario del Wither, que incluye una función de explosión que hace aparecer a Wither y un portal Nether que se abre
+- PORTAL Y SANTUARIO DE JUGUETE MINECRAFT: Viaja a través del portal del Nether con el juguete interactivo La Batalla Contra el Wither para niños y niñas de 8 años o más y fans del videojuego
+- ACCESORIOS PARA LA BATALLA: Una mesa de trabajo, una poción de salud, una maza, 3 calaveras de esqueletos de Wither, un bastón con hongos distorsionados y una valiosa estrella del Nether
+- MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder proporciona una experiencia interactiva y de colaboración con amigos y familiares en la que cada uno construye una parte del set usando sus propios dispositivos
+- SETS PARA JUGADORES DE MINECRAFT: Los juguetes de construcción LEGO Minecraft ofrecen a los peques una amplísima gama de conocidas escenas, características y criaturas del popular videojuego
 - MINIFIGURAS LEGO MINECRAFT: Únete a un Guerrero Carmesí con un hacha y 2 figuras de esqueletos de Wither, figuras LEGO Minecraft de Lavagante, un Lavagante bebé, un Wither y un cubo de magma
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- BAUE MIT FAMILIE UND FREUNDEN: Dieses kreative Bauset bietet Kindern und Erwachsenen ein fesselndes Gemeinschaftserlebnis bei einem coolen Halloween-Bauprojekt
 - HALLOWEEN GESCHENK FÜR KINDER: Dieses LEGO Pickup Spielzeugauto und Kürbiskopf Bauset ist ein Geschenk für jede Gelegenheit, als Halloween Überraschung oder Geburtstagsgeschenk für Jungen und Mädchen ab 8 Jahre
+- BAUE MIT FAMILIE UND FREUNDEN: Dieses kreative Bauset bietet Kindern und Erwachsenen ein fesselndes Gemeinschaftserlebnis bei einem coolen Halloween-Bauprojekt
 - HALLOWEEN DEKORATION: Verleihe deinem Zimmer einen schaurigen Touch mit diesem Modellbausatz, der sich gut in dem Regal, auf dem Schreibtisch oder Nachttisch macht
 - LEGO HALLOWEEN SPIELZEUG: Mache Kindern, die die gruselige Jahreszeit lieben, mit diesem baubaren Pickup mit Halloweenkürbis Modellbausatz Spielzeug für Jungen und Mädchen ab 8 Jahre eine Freude
 - KREATIVES MODELL: Enthält ein Pickup Spielzeugauto und einen Kürbis, der sich öffnen lässt und versteckte Überraschungen enthüllt, darunter einen Kürbiskopf, Totenkopf sowie eine Farmer Minifigur

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- TWO ARTIFICIAL PLANTS – Craft a delosperma (ice plant) named Lumi with purple buds, an echeveria named Ellie with a tall stem and coral buds, plus 2 plant pots with arms, legs and smiley faces
-- COLOURFUL KIDS BEDROOM DECOR – The pots have adorable smiley faces and rounded bases, so they rock when nudged, plus girls and boys can display the plants proudly as bookshelf or desk decor
-- GIFT IDEA FOR KIDS – Spread seeds of joy by giving this set as a creative birthday gift for 9+ year old girls, boys and anyone who appreciates LEGO flowers
-- PASTEL-COLOURED POTS – The building set comes with a pale green and a pale pink pot that are interchangeable, plus, when lifted, the plants have tiny roots, adding an extra splash of cuteness
-- MIX AND MATCH – These plants and pots are compatible with the LEGO Botanicals Happy Plants (10349) set, sold separately, so kids can create a custom plant display
-- LEGO BOTANICALS – Grow your garden with other flower sets (sold separately) from the LEGO Botanicals collection, where you’ll find vibrant bouquets, potted plants and more
 - CUTE LEGO FLOWER SET – Help kids grow their creativity with the LEGO Botanicals Rocking Plants toy for 9+ year old for girls, boys, and older nature lovers
+- LEGO BOTANICALS – Grow your garden with other flower sets (sold separately) from the LEGO Botanicals collection, where you’ll find vibrant bouquets, potted plants and more
+- GIFT IDEA FOR KIDS – Spread seeds of joy by giving this set as a creative birthday gift for 9+ year old girls, boys and anyone who appreciates LEGO flowers
+- MIX AND MATCH – These plants and pots are compatible with the LEGO Botanicals Happy Plants (10349) set, sold separately, so kids can create a custom plant display
+- COLOURFUL KIDS BEDROOM DECOR – The pots have adorable smiley faces and rounded bases, so they rock when nudged, plus girls and boys can display the plants proudly as bookshelf or desk decor
+- TWO ARTIFICIAL PLANTS – Craft a delosperma (ice plant) named Lumi with purple buds, an echeveria named Ellie with a tall stem and coral buds, plus 2 plant pots with arms, legs and smiley faces
+- PASTEL-COLOURED POTS – The building set comes with a pale green and a pale pink pot that are interchangeable, plus, when lifted, the plants have tiny roots, adding an extra splash of cuteness
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXFLNR7{{</world>}}

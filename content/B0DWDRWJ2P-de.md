@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Ideas Mineraliensammlung - Set für Erwachsene - Modellbau mit Kristallelementen inkl. Amethyst Fluorit & Tangerinquarz sowie 3 Ständern - DIY Wohn Deko Geschenkidee - 21362'
-date: 2026-09-19 08:45:35
+title: 'LEGO Ideas Mineraliensammlung 21362'
+date: 2026-09-23 07:42:01
 image: 'https://m.media-amazon.com/images/I/517ttb3G25L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDRWJ2P-de LEGO Ideas Mineraliensammlung - Set für Erwachsene -...'
+slug: 'B0DWDRWJ2P-de LEGO Ideas Mineraliensammlung 21362'
 sku: 'B0DWDRWJ2P-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 39.49 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 39.49
+price: 39.99
 comparePrice: 59.99 EUR
-prodname: 'LEGO Ideas Mineraliensammlung - Set für Erwachsene - Modellbau mit Kristallelementen inkl. Amethyst Fluorit & Tangerinquarz sowie 3 Ständern - DIY Wohn Deko Geschenkidee - 21362'
+prodname: 'LEGO Ideas Mineraliensammlung 21362'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DWDRWJ2P/?tag=tolees0ca-21'
-descuento: '34.17'
-average: '41.5663636363636'
+descuento: '33.34'
+average: '41.435'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

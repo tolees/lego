@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Aston Martin Aramco F1 AMR24 Rennauto - Spielzeug mit Formel 1 Minifigur zum Sammeln - baubares Modellauto für Jungen und Mädchen ab 10 Jahren und erwachsene Motorsport Fans 77245'
-date: 2026-09-19 08:48:22
+title: 'LEGO Speed Champions Aston Martin Aramco F1 AMR24 Rennauto 77245'
+date: 2026-09-23 07:51:47
 image: 'https://m.media-amazon.com/images/I/51yL++qw8XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
 comparePrice: 26.99 EUR
-prodname: 'LEGO Speed Champions Aston Martin Aramco F1 AMR24 Rennauto - Spielzeug mit Formel 1 Minifigur zum Sammeln - baubares Modellauto für Jungen und Mädchen ab 10 Jahren und erwachsene Motorsport Fans 77245'
+prodname: 'LEGO Speed Champions Aston Martin Aramco F1 AMR24 Rennauto 77245'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DHSDWPP2/?tag=tolees0ca-21'
 descuento: '44.46'
-average: '17.0'
+average: '16.8883333333333'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

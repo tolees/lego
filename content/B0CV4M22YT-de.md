@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Is assembly required : True
-- LEGO BrickHeadz Potted Groot – Kinder, Marvel-Fans und Jungen und Mädchen ab 10 Jahren können niedliche Baby-Groot im bunten BrickHeadz-Stil bauen
-- Manufacturer minimum age : 120.0
-- Theme : Film
-- Special feature : Geringes Gewicht.
-- Number of pieces : 113
 - Batteries required : False
+- Theme : Film
 - Material : Kunststoff
+- Manufacturer minimum age : 120.0
+- LEGO BrickHeadz Potted Groot – Kinder, Marvel-Fans und Jungen und Mädchen ab 10 Jahren können niedliche Baby-Groot im bunten BrickHeadz-Stil bauen
+- Special feature : Geringes Gewicht.
+- Is assembly required : True
+- Number of pieces : 113
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CV4M22YT{{</world>}}

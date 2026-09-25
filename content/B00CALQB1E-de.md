@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Botanicals Pflaumenblüte - Pflegeleichte Blumendeko aus der Botanik Kollektion - Kreatives Bauset für Erwachsene - Entspannende Aktivität - Künstliche Pflanze zum Sammeln 10369'
-date: 2026-09-19 07:11:30
+title: 'LEGO Botanicals Pflaumenblüte 10369'
+date: 2026-09-25 12:45:18
 image: 'https://m.media-amazon.com/images/I/415KEAkbHfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00CALQB1E-de LEGO Botanicals Pflaumenblüte - Pflegeleichte Blumendeko...'
+slug: 'B00CALQB1E-de LEGO Botanicals Pflaumenblüte 10369'
 sku: 'B00CALQB1E-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 18.49 EUR
+actualPrice: 18.89 EUR
 currency: EUR
-price: 18.49
+price: 18.89
 comparePrice: 29.99 EUR
-prodname: 'LEGO Botanicals Pflaumenblüte - Pflegeleichte Blumendeko aus der Botanik Kollektion - Kreatives Bauset für Erwachsene - Entspannende Aktivität - Künstliche Pflanze zum Sammeln 10369'
+prodname: 'LEGO Botanicals Pflaumenblüte 10369'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CALQB1E/?tag=tolees0ca-21'
-descuento: '38.35'
-average: '19.6208070866142'
+descuento: '37.01'
+average: '19.609476744186'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

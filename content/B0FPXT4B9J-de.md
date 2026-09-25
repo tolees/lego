@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Lukes Landspeeder - Spielzeug für Kinder - Kompatibles Set mit SMART Tag und 2 Minifiguren - Geschenk für Jungen Mädchen und Fans ab 6 Jahren - 75420'
-date: 2026-09-20 16:24:40
+date: 2026-09-25 11:47:15
 image: 'https://m.media-amazon.com/images/I/51080iuDywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXT4B9J/?tag=tolees0ca-21'
 descuento: '41.79'
-average: '27.1577272727273'
+average: '26.9102127659575'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

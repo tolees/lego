@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Botanicals Waldpilze - Künstliches Pflanzen Set für Erwachsene - inkl. Fliegenpilz & Kunstblumen für Wohnzimmer- oder Schlafzimmer Deko - DIY Geschenkidee - 11505'
-date: 2026-09-19 16:39:49
+title: 'LEGO Botanicals Waldpilze 11505'
+date: 2026-09-25 11:45:29
 image: 'https://m.media-amazon.com/images/I/51mRNscyuaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXH5T6S-de LEGO Botanicals Waldpilze - Künstliches Pflanzen Set für...'
+slug: 'B0FPXH5T6S-de LEGO Botanicals Waldpilze 11505'
 sku: 'B0FPXH5T6S-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 49.99 EUR
+actualPrice: 52.99 EUR
 currency: EUR
-price: 49.99
+price: 52.99
 comparePrice: 79.99 EUR
-prodname: 'LEGO Botanicals Waldpilze - Künstliches Pflanzen Set für Erwachsene - inkl. Fliegenpilz & Kunstblumen für Wohnzimmer- oder Schlafzimmer Deko - DIY Geschenkidee - 11505'
+prodname: 'LEGO Botanicals Waldpilze 11505'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH5T6S/?tag=tolees0ca-21'
-descuento: '37.50'
-average: '52.1328571428572'
+descuento: '33.75'
+average: '52.1076470588235'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- RELAXING ACTIVITY – This building set for adults offers a fun, mindful project for nature lovers, whether new to LEGO sets or more experienced builders
-- GIFTS FOR DOG LOVERS – This relaxing 3D puzzle makes a fun piece of shelf decor and a great birthday or special occasion gift for women and men who are animal lovers
 - 2 SEA ANIMAL FIGURES – This cute arts and crafts kit features a detailed LEGO model of a mother otter relaxing in water with a removable brick-built pup figure
-- CUTE HOME DECOR – Pose the mother sea otter’s head, mouth, arms and flippers, and place the pup on her belly; or display mum with the buildable clam
-- FUN HOME DECOR – Take time out to capture the cuteness, calm and mutual love of 2 floating sea otters with this LEGO Ideas craft kit for adults
-- 3D INSTRUCTIONS – Get ready to create like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set with 3D instructions
 - THE LEGO FANS’ CHOICE – This model kit for adults is part of the LEGO Ideas collection, where each set is created by a fan designer, voted for by fans and produced by the LEGO Group
+- FUN HOME DECOR – Take time out to capture the cuteness, calm and mutual love of 2 floating sea otters with this LEGO Ideas craft kit for adults
+- GIFTS FOR DOG LOVERS – This relaxing 3D puzzle makes a fun piece of shelf decor and a great birthday or special occasion gift for women and men who are animal lovers
+- 3D INSTRUCTIONS – Get ready to create like never before with the LEGO Builder app, where you can save sets, track your progress, zoom in and rotate your set with 3D instructions
+- RELAXING ACTIVITY – This building set for adults offers a fun, mindful project for nature lovers, whether new to LEGO sets or more experienced builders
+- CUTE HOME DECOR – Pose the mother sea otter’s head, mouth, arms and flippers, and place the pup on her belly; or display mum with the buildable clam
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDCQCV{{</world>}}

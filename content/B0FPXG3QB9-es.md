@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- DECORACIÓN PARA LA HABITACIÓN DE NIÑAS Y NIÑOS: Pon un toque de color en el dormitorio de tu peque colocando este set como decoración en la estantería o escritorio
 - REGALO INFANTIL: Este juguete es un regalo tanto para niñas y niños creativos a partir de 8 años como para apasionados de la moda y la belleza, idóneo como detalle de cumpleaños o por alguna ocasión especial
 - 3 OPCIONES DE CONSTRUCCIÓN: Crea 3 modelos inspirados en la moda y actualidad, un frasco de perfume, un jarrón y un refresco (no se pueden construir simultáneamente), todos con flores artificiales
-- KIT DE MANUALIDADES: El frasco cuenta con espray funcional, el jarrón personalizable con flores transparentes y el refreso con pajita móvil y vistosas etiquetas para personalizar la maqueta 3D
-- DECORACIÓN PARA LA HABITACIÓN DE NIÑAS Y NIÑOS: Pon un toque de color en el dormitorio de tu peque colocando este set como decoración en la estantería o escritorio
 - JUGUETE DE CONSTRUCCIÓN FLORAL: Con el set LEGO Creator 3 en 1 Frasco Decorativo de Perfume Floral, las niñas y niños a partir de 8 años construyen 3 maquetas 3D diferentes usando los mismos ladrillos
+- KIT DE MANUALIDADES: El frasco cuenta con espray funcional, el jarrón personalizable con flores transparentes y el refreso con pajita móvil y vistosas etiquetas para personalizar la maqueta 3D
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXG3QB9{{</world>}}

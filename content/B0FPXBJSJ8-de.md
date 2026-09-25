@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Creator 3-in-1-Set Meerestiere: Wunderschöne Delfine - Tierfiguren - Set mit 3 Optionen: Delfine Seepferdchen & Krabbe - Spielzeug für Kinder ab 9 Jahren - Geschenk für Mädchen & Jungen - 31385'
-date: 2026-09-19 16:26:41
+title: 'LEGO Creator 3in1 Meerestiere: Wunderschöne Delfine 31385'
+date: 2026-09-25 11:29:54
 image: 'https://m.media-amazon.com/images/I/51B2+Q2akRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXBJSJ8-de LEGO Creator 3-in-1-Set Meerestiere: Wunderschöne Delfine...'
+slug: 'B0FPXBJSJ8-de LEGO Creator 3in1 Meerestiere: Wunderschöne Delfine 31385'
 sku: 'B0FPXBJSJ8-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 32.76 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 32.76
+price: 32.99
 comparePrice: 49.99 EUR
-prodname: 'LEGO Creator 3-in-1-Set Meerestiere: Wunderschöne Delfine - Tierfiguren - Set mit 3 Optionen: Delfine Seepferdchen & Krabbe - Spielzeug für Kinder ab 9 Jahren - Geschenk für Mädchen & Jungen - 31385'
+prodname: 'LEGO Creator 3in1 Meerestiere: Wunderschöne Delfine 31385'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXBJSJ8/?tag=tolees0ca-21'
-descuento: '34.47'
-average: '32.8237681159421'
+descuento: '34.01'
+average: '32.8306944444445'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

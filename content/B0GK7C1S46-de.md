@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon SMART Play: Nachtaras und Knakracks Duell um die Meisterschaft - kompatibles interaktives Set mit 2 SMART Tags und 2 Pokémon Figuren für Fans ab 10 Jahren - 72165'
-date: 2026-09-19 08:48:16
+date: 2026-09-23 07:51:25
 image: 'https://m.media-amazon.com/images/I/51Y5Jnrn+bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GK7C1S46/?tag=tolees0ca-21'
 descuento: '18.75'
-average: '71.3649999999999'
+average: '70.6566666666666'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

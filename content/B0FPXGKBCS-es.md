@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DISFRUTA AÚN MÁS DE LAS CARRERAS: Descubre réplicas de coches de carreras reales y de vehículos populares de videojuegos, series de televisión y películas con los sets Speed Champions para niños (a la venta por separado)
+- FIELES DETALLES: Reproduce detalles del vehículo creado por Ken Block y HOONIGAN para el vídeo Gymkhana SEVEN, rodado en 2014, como las trompetas de admisión al descubierto en el capó y los neumáticos personalizados
+- MINIFIGURA LEGO DE KEN BLOCK: Este kit de construcción incluye una minifigura coleccionable de Ken Block con gorra, cazadora Hoonicorn y un casco para ponérselo cuando le la coloques al volante
 - COCHE DE CARRERAS DE JUGUETE: Construye, expón y juega a conducir el kit de maquetas LEGO Speed Champions 65 Ford Mustang Hoonicorn V1 de Ken Block para niños y niñas a partir de 9 años
+- DISFRUTA AÚN MÁS DE LAS CARRERAS: Descubre réplicas de coches de carreras reales y de vehículos populares de videojuegos, series de televisión y películas con los sets Speed Champions para niños (a la venta por separado)
 - DECORACIÓN PARA EL DORMITORIO: Después de que los niños hayan disfrutado interpretando emocionantes maniobras con esta maqueta de coche Ford Mustang de juguete, podrán exponerlo en una estantería o escritorio
 - REGALO PARA AMANTES DE LOS COCHES: Este kit de maquetas es una óptima idea de regalo para niños y niñas a partir de 9 años o coleccionistas adultos de réplicas y miniaturas de coches
-- MINIFIGURA LEGO DE KEN BLOCK: Este kit de construcción incluye una minifigura coleccionable de Ken Block con gorra, cazadora Hoonicorn y un casco para ponérselo cuando le la coloques al volante
-- FIELES DETALLES: Reproduce detalles del vehículo creado por Ken Block y HOONIGAN para el vídeo Gymkhana SEVEN, rodado en 2014, como las trompetas de admisión al descubierto en el capó y los neumáticos personalizados
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXGKBCS{{</world>}}

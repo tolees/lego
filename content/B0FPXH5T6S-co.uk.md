@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- GROW YOUR GARDEN – Pick your next project in the LEGO Botanicals collection, where you’ll find vibrant faux flower bouquets, potted plants and more, all sold separately
+- DIY ROOM DECOR – Unearth creativity and craft a whimsical piece of home decor to treasure forever with this LEGO Botanicals Woodland Mushrooms building set for adults
 - COLLECT YOUR BUILDS – With the LEGO Builder app, you can assemble your models using 3D instructions, track your progress and save all your sets within the app
 - NATURE DECORATION – Bring a touch of woodland magic into your home by displaying this mushroom model as a nature-inspired living room or bedroom decor piece
-- DIY ROOM DECOR – Unearth creativity and craft a whimsical piece of home decor to treasure forever with this LEGO Botanicals Woodland Mushrooms building set for adults
 - SPROUTING WITH DETAILS – Framed by bracken fronds and artificial flowers including 2 purple autumn crocuses, this decorative plant model captures an authentic forest feel
-- PLANT GIFT – This crafts kit for adults makes a great gift idea for women, men and nature lovers on birthdays, housewarmings or any other special occasion
 - 3D PUZZLE – Enjoy an immersive project as you create a display featuring fly agaric “toadstool” mushrooms surrounded by fibrecap, earthstar, chanterelle, bonnet and oyster mushrooms
+- PLANT GIFT – This crafts kit for adults makes a great gift idea for women, men and nature lovers on birthdays, housewarmings or any other special occasion
+- GROW YOUR GARDEN – Pick your next project in the LEGO Botanicals collection, where you’ll find vibrant faux flower bouquets, potted plants and more, all sold separately
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FPXH5T6S{{</world>}}

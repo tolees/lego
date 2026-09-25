@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO ǀ Disney Princess Cinderellas Tierpalast - Lernspielzeug mit Mini Puppe und 4 Tierfiguren - Geburtstagsgeschenk für Mädchen und Fans ab 4 Jahren - 43283'
-date: 2026-09-19 16:41:18
+title: 'LEGO Disney Princess Cinderellas Tierpalast 43283'
+date: 2026-09-25 11:46:37
 image: 'https://m.media-amazon.com/images/I/512hu3MPjgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXMXSS2-de LEGO ǀ Disney Princess Cinderellas Tierpalast -...'
+slug: 'B0FPXMXSS2-de LEGO Disney Princess Cinderellas Tierpalast 43283'
 sku: 'B0FPXMXSS2-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09
 comparePrice: 29.99 EUR
-prodname: 'LEGO ǀ Disney Princess Cinderellas Tierpalast - Lernspielzeug mit Mini Puppe und 4 Tierfiguren - Geburtstagsgeschenk für Mädchen und Fans ab 4 Jahren - 43283'
+prodname: 'LEGO Disney Princess Cinderellas Tierpalast 43283'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
