@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Minecraft Mini-Biome 21589'
+date: 2026-09-28 18:47:09
+image: 'https://m.media-amazon.com/images/I/5178yde7HyL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXG6D7P-de LEGO Minecraft Mini-Biome 21589'
+sku: 'B0FPXG6D7P-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
+comparePrice: 59.99 EUR
+prodname: 'LEGO Minecraft Mini-Biome 21589'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXG6D7P/?tag=tolees0ca-21'
+descuento: '33.34'
+average: '40.2339024390244'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0FPXG6D7P{{</world>}}
