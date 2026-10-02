@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Jay s Transforming Car 71856'
-date: 2026-09-29 06:28:02
+date: 2026-09-30 19:20:26
 image: 'https://m.media-amazon.com/images/I/51hwiApRAaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDLC39/?tag=tolees0a-21'
 descuento: '33.34'
-average: '29.942380952381'
+average: '29.9445454545455'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

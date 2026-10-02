@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Jeep Wrangler Rubicon SUV 42227'
-date: 2026-09-29 06:29:09
+date: 2026-09-30 19:25:27
 image: 'https://m.media-amazon.com/images/I/518xwyLs0gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDZ368/?tag=tolees0a-21'
 descuento: '33.34'
-average: '39.0388000000001'
+average: '39.0574509803923'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

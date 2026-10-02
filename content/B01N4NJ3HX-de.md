@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Icons Der Herr der Ringe: Saurons Helm 11373'
-date: 2026-09-28 18:39:36
-image: 'https://m.media-amazon.com/images/I/41DJ5vZGPzL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:46:47
+image: 'https://m.media-amazon.com/images/I/41adGv8RRNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4NJ3HX/?tag=tolees0ca-21'
 descuento: '34.67'
-average: '51.1127906976743'
+average: '51.0184444444444'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

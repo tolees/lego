@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Millennium Falcon Starship Building Toy for Kids - Compatible Set with 4 SMART Tags and 4 Minifigures - Gift for 9+ Year Old Boys Girls & Fans - 75426'
-date: 2026-09-29 06:34:21
-image: 'https://m.media-amazon.com/images/I/51CrqKh6CtL._SL500_._SL400_.jpg'
+date: 2026-09-30 19:56:19
+image: 'https://m.media-amazon.com/images/I/51UWvRQoElL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXQLVBV/?tag=tolees0a-21'
 descuento: '33.34'
-average: '61.994'
+average: '61.66'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

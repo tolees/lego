@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- POSABLE FIGURES – Kids can move the lion and lioness’ heads, mouths and legs, placing them in a standing or lying position, and adjust the 2 cubs’ legs, ankles, wrists, ears, necks and tails
 - 3-IN-1 ANIMAL TOY – The LEGO Creator 3 in 1 Wild Animals: Majestic Lion toy for 9+ year old boys and girls lets kids create one of three different models using the same bricks
 - BIRTHDAY GIFT IDEA – This arts and crafts kit for kids makes a great gift for 9+ year old boys and girls who are animal lovers and enjoy imaginative play
+- POSABLE FIGURES – Kids can move the lion and lioness’ heads, mouths and legs, placing them in a standing or lying position, and adjust the 2 cubs’ legs, ankles, wrists, ears, necks and tails
 - ENDLESS PLAY OPTIONS – Embark on adventures on the savannah with 4 safari animal figures (cannot be built simultaneously): a lion, lioness or 2 cubs, all with habitat side builds
 - ENHANCED, INTERACTIVE FUN – The LEGO Builder app guides kids on an intuitive adventure where they can save sets, track progress, and zoom in and rotate models using 3D instructions
 - DIY KIDS ROOM DECOR – When playtime is over, young builders can create a full safari display scene and place their chosen build on a shelf, desk or bedside table alongside its stand

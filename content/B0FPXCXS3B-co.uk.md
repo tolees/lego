@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Disney Sally s Flowerpot 43288'
-date: 2026-09-29 06:27:32
-image: 'https://m.media-amazon.com/images/I/5192KIWk68L._SL500_._SL400_.jpg'
+date: 2026-09-30 19:15:58
+image: 'https://m.media-amazon.com/images/I/51FYhLR34LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCXS3B/?tag=tolees0a-21'
 descuento: '33.34'
-average: '29.9896875'
+average: '29.989705882353'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

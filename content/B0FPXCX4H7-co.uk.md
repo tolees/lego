@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Peace Lily 11504'
-date: 2026-09-29 06:27:17
+date: 2026-09-30 19:14:05
 image: 'https://m.media-amazon.com/images/I/41kwIepk1TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXCX4H7-co.uk LEGO Botanicals Peace Lily 11504'
 sku: 'B0FPXCX4H7-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 32.99 GBP
+actualPrice: 35.99 GBP
 currency: GBP
-price: 32.99
+price: 35.99
 comparePrice: 54.99 GBP
 prodname: 'LEGO Botanicals Peace Lily 11504'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCX4H7/?tag=tolees0a-21'
-descuento: '40.01'
-average: '31.9746666666667'
+descuento: '34.55'
+average: '32.1041935483871'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

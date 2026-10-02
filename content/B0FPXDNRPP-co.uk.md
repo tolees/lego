@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Luna Lovegood s House 76467'
-date: 2026-09-29 06:28:08
+date: 2026-09-30 19:21:43
 image: 'https://m.media-amazon.com/images/I/51lukLoxA+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDNRPP/?tag=tolees0a-21'
 descuento: '33.34'
-average: '62.9876'
+average: '62.7655555555556'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

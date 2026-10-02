@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Wichtel 76461'
-date: 2026-09-28 18:48:57
-image: 'https://m.media-amazon.com/images/I/518VGfWp1zL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:35:39
+image: 'https://m.media-amazon.com/images/I/51S-oPndNuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGPT4J/?tag=tolees0ca-21'
 descuento: '33.68'
-average: '19.6651428571433'
+average: '19.6693457943929'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

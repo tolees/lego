@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Zombieverlies 21587'
-date: 2026-09-28 19:04:09
+date: 2026-10-01 02:23:36
 image: 'https://m.media-amazon.com/images/I/51wCCDrb3zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF8L43/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '18.6908860759497'
+average: '18.6982716049386'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Botanicals Sunflower Bouquet 11502'
-date: 2026-09-29 06:33:40
-image: 'https://m.media-amazon.com/images/I/51KyTKSHO3L._SL500_._SL400_.jpg'
+date: 2026-09-30 19:46:44
+image: 'https://m.media-amazon.com/images/I/41UYbUmjVWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXGD4DQ/?tag=tolees0a-21'
 descuento: '34.55'
-average: '36.578292682927'
+average: '36.5509302325583'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

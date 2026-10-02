@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: AT-ST Angriff auf Endor - Spielzeug für Kinder - Kompatibles Set mit 2 SMART Tags und 3 Minifiguren - Geschenk für Jungen Mädchen & Star Wars Fans ab 8 Jahren - 75424'
-date: 2026-09-28 18:54:15
+date: 2026-09-29 19:50:04
 image: 'https://m.media-amazon.com/images/I/514uAFQNDrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPYB5C2J/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '38.1300000000001'
+average: '37.7600000000001'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

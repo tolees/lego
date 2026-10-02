@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Mech-Duell: Spider-Man vs. Doc Ock 76338'
-date: 2026-09-28 18:45:14
+date: 2026-10-01 02:32:16
 image: 'https://m.media-amazon.com/images/I/51pp-4XQ7wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFPLRZ/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '19.9685714285714'
+average: '19.9697297297297'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft The Fox 21588'
-date: 2026-09-29 06:34:08
+date: 2026-09-30 19:53:05
 image: 'https://m.media-amazon.com/images/I/51HGSkVPY2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXJ7MDK/?tag=tolees0a-21'
 descuento: '33.73'
-average: '26.5826829268292'
+average: '26.5788372093022'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

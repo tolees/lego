@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Niedliche Tiere: Verspielter Welpe 31382'
-date: 2026-09-28 18:46:40
+date: 2026-09-29 19:36:23
 image: 'https://m.media-amazon.com/images/I/517LTiXWLzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCHLDX/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '18.7823529411762'
+average: '18.7731395348834'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

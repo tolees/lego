@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Offizieller Pokal der FIFA Fußball-Weltmeisterschaft 43020'
-date: 2026-09-28 18:52:36
+date: 2026-09-29 19:44:28
 image: 'https://m.media-amazon.com/images/I/51iF6a5CQ1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXDRR63-de LEGO Editions Offizieller Pokal der FIFA Fußball-...'
 sku: 'B0FPXDRR63-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 119.99 EUR
+actualPrice: 129.99 EUR
 currency: EUR
-price: 119.99
+price: 129.99
 comparePrice: 179.99 EUR
 prodname: 'LEGO Editions Offizieller Pokal der FIFA Fußball-Weltmeisterschaft 43020'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDRR63/?tag=tolees0ca-21'
-descuento: '33.34'
-average: '126.891739130436'
+descuento: '27.78'
+average: '127.020833333334'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

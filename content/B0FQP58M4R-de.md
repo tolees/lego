@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Stitch und Scrump 43296'
-date: 2026-09-28 18:54:41
+date: 2026-10-01 01:55:23
 image: 'https://m.media-amazon.com/images/I/51PEqzlvywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FQP58M4R/?tag=tolees0ca-21'
 descuento: '32.86'
-average: '48.0650000000001'
+average: '47.9672727272728'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

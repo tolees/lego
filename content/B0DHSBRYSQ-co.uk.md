@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Knight Bus Adventure 76446'
-date: 2026-09-29 11:22:22
+date: 2026-10-01 21:32:52
 image: 'https://m.media-amazon.com/images/I/51hQ35Kau-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DHSBRYSQ/?tag=tolees0a-21'
 descuento: '33.34'
-average: '31.5790909090909'
+average: '31.4466666666667'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

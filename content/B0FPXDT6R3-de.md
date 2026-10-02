@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Friends Lianns Familienhaus 42687'
-date: 2026-09-28 18:53:26
-image: 'https://m.media-amazon.com/images/I/51MDYnX6ZgL._SL500_._SL400_.jpg'
+date: 2026-10-01 02:16:37
+image: 'https://m.media-amazon.com/images/I/51MSiVFyLZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDT6R3/?tag=tolees0ca-21'
 descuento: '34.29'
-average: '47.6560000000001'
+average: '47.5325925925926'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

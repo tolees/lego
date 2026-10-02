@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Angriff des AT-RT 75444'
-date: 2026-09-28 18:58:37
+date: 2026-10-01 02:22:31
 image: 'https://m.media-amazon.com/images/I/514WU-qm8nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF2J99/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '31.3699999999998'
+average: '31.2595999999998'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO City Klassische Strandstraßenbahn 60506'
-date: 2026-09-28 18:51:09
-image: 'https://m.media-amazon.com/images/I/51w83RIGd8L._SL500_._SL400_.jpg'
+date: 2026-10-01 01:36:57
+image: 'https://m.media-amazon.com/images/I/510i1FnXVbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHJ4Z2/?tag=tolees0ca-21'
 descuento: '35.72'
-average: '45.3005263157896'
+average: '45.2709523809525'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu Lehrling des Mandalorianers 75446'
-date: 2026-09-29 04:43:58
+date: 2026-10-01 02:30:00
 image: 'https://m.media-amazon.com/images/I/51ktm4uMknL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFMP3M/?tag=tolees0ca-21'
 descuento: '36.16'
-average: '87.943846153846'
+average: '87.5899999999998'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

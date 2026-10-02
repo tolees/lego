@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Airplane Service Truck & Hovercraft Remix 60505'
-date: 2026-09-29 06:26:51
+date: 2026-09-30 19:10:09
 image: 'https://m.media-amazon.com/images/I/518TMgpYPcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXCRR93-co.uk LEGO City Airplane Service Truck & Hovercraft Remix 60505'
 sku: 'B0FPXCRR93-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 37.99 GBP
+actualPrice: 38.0 GBP
 currency: GBP
-price: 37.99
+price: 38.0
 comparePrice: 59.99 GBP
 prodname: 'LEGO City Airplane Service Truck & Hovercraft Remix 60505'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCRR93/?tag=tolees0a-21'
-descuento: '36.67'
-average: '38.2291304347827'
+descuento: '36.66'
+average: '38.2242553191491'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

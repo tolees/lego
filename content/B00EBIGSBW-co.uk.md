@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Cement Mixer 60478'
-date: 2026-09-29 06:26:01
+date: 2026-10-01 23:46:58
 image: 'https://m.media-amazon.com/images/I/51Z8p2lKVkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00EBIGSBW/?tag=tolees0a-21'
 descuento: '34.30'
-average: '23.0367441860468'
+average: '23.0346666666669'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

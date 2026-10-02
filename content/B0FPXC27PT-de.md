@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO City Flughafen mit Flugzeug 60502'
-date: 2026-09-28 18:46:27
-image: 'https://m.media-amazon.com/images/I/51TYwtRcM7L._SL500_._SL400_.jpg'
+date: 2026-10-01 01:56:12
+image: 'https://m.media-amazon.com/images/I/51dncx44-9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXC27PT/?tag=tolees0ca-21'
 descuento: '35.00'
-average: '63.7963157894735'
+average: '63.9099999999998'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

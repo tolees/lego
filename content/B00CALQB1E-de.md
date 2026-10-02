@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Pflaumenblüte 10369'
-date: 2026-09-28 17:16:48
+date: 2026-10-01 02:33:53
 image: 'https://m.media-amazon.com/images/I/415KEAkbHfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CALQB1E/?tag=tolees0ca-21'
 descuento: '37.01'
-average: '19.6039423076923'
+average: '19.5984923664122'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

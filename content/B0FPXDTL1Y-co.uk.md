@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ENDLESS PRETEND-PLAY OPTIONS – Kids can enjoy creative stories with 3 wild animal toys (models cannot be built simultaneously): a turtle with a pink flower, a chameleon or a frog
-- KIDS CRAFTS FOR PLAY AND DISPLAY – When playtime is over, each model can be proudly displayed for young builders and their friends and family to enjoy
-- POSABLE ANIMAL FIGURES – The turtle toy has a posable head and mouth; the colourful chameleon lizard can nod its head and twist its tail; and the frog figure can open its mouth
 - GIFT FOR KIDS – This creative building toy makes a fun birthday gift for 7+ year old boys and girls who love cute animals and imaginative play
-- 3in1 ANIMAL TOY FOR KIDS – The LEGO Creator Turtle with a Water Lily Flower toy for 7+ year old girls and boys lets kids build and rebuild 3 cute animal figures with the same LEGO bricks
 - MORE CREATIVE FUN – Enjoy even more building adventures with other sets (sold separately) from the extensive LEGO Creator 3in1 range
+- KIDS CRAFTS FOR PLAY AND DISPLAY – When playtime is over, each model can be proudly displayed for young builders and their friends and family to enjoy
+- ENDLESS PRETEND-PLAY OPTIONS – Kids can enjoy creative stories with 3 wild animal toys (models cannot be built simultaneously): a turtle with a pink flower, a chameleon or a frog
+- POSABLE ANIMAL FIGURES – The turtle toy has a posable head and mouth; the colourful chameleon lizard can nod its head and twist its tail; and the frog figure can open its mouth
+- 3in1 ANIMAL TOY FOR KIDS – The LEGO Creator Turtle with a Water Lily Flower toy for 7+ year old girls and boys lets kids build and rebuild 3 cute animal figures with the same LEGO bricks
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXDTL1Y{{</world>}}

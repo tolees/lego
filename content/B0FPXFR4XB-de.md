@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Schloss Hogwarts: Kräuterkunde-Pflanzen 76474'
-date: 2026-09-28 18:45:46
-image: 'https://m.media-amazon.com/images/I/51Blp+GJI7L._SL500_._SL400_.jpg'
+date: 2026-10-01 01:33:34
+image: 'https://m.media-amazon.com/images/I/51GSelwUuJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0FPXFR4XB-de LEGO Harry Potter Schloss Hogwarts: Kräuterkunde-Pflanzen...'
 sku: 'B0FPXFR4XB-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 66.99 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 66.99
+price: 59.99
 comparePrice: 99.99 EUR
 prodname: 'LEGO Harry Potter Schloss Hogwarts: Kräuterkunde-Pflanzen 76474'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFR4XB/?tag=tolees0ca-21'
-descuento: '33.00'
-average: '66.2399999999999'
+descuento: '40.00'
+average: '65.8962499999999'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

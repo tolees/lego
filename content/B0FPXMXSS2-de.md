@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Cinderellas Tierpalast 43283'
-date: 2026-09-28 18:53:18
-image: 'https://m.media-amazon.com/images/I/512hu3MPjgL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:49:32
+image: 'https://m.media-amazon.com/images/I/51VwfY7-a4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

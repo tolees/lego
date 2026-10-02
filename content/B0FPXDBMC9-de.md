@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Belagerung von Mandalore Battle Pack 75449'
-date: 2026-09-28 18:49:32
+date: 2026-10-01 02:08:58
 image: 'https://m.media-amazon.com/images/I/51IYPVSTJDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDBMC9/?tag=tolees0ca-21'
 descuento: '32.52'
-average: '12.9270588235293'
+average: '12.9399999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

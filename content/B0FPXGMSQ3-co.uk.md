@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Peppa Pig Family House 10467'
-date: 2026-09-29 06:33:45
+date: 2026-09-30 19:48:19
 image: 'https://m.media-amazon.com/images/I/51BiJcT21cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXGMSQ3/?tag=tolees0a-21'
 descuento: '33.34'
-average: '40.1288888888886'
+average: '40.1251351351349'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

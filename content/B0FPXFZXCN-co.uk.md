@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars AT-AT - 75440'
-date: 2026-09-29 06:33:16
+date: 2026-09-30 19:41:15
 image: 'https://m.media-amazon.com/images/I/514gqNvRetL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFZXCN/?tag=tolees0a-21'
 descuento: '33.34'
-average: '39.8768750000001'
+average: '39.8894444444445'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

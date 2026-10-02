@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Throne Room Duel & A-Wing Interactive Building Toy - All-In-One Set - Reacts to How You Move and Play with a SMART Brick - Gift for 9+ Year Old Boys & Girls - 75427'
-date: 2026-09-29 06:25:29
-image: 'https://m.media-amazon.com/images/I/51INh2cWFlL._SL500_._SL400_.jpg'
+date: 2026-09-30 20:00:22
+image: 'https://m.media-amazon.com/images/I/519p772hP9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXRW6LL/?tag=tolees0a-21'
 descuento: '35.72'
-average: '90.9395652173913'
+average: '90.8636'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

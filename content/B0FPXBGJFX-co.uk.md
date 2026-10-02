@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Fries Food Truck 60488'
-date: 2026-09-29 06:26:19
+date: 2026-10-01 23:47:12
 image: 'https://m.media-amazon.com/images/I/51TO7z-43dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXBGJFX/?tag=tolees0a-21'
 descuento: '33.35'
-average: '11.9216666666668'
+average: '11.9269230769232'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

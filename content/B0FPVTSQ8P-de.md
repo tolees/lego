@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Kakamora 43293'
-date: 2026-09-28 18:45:40
-image: 'https://m.media-amazon.com/images/I/51cV13peVGL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:50:56
+image: 'https://m.media-amazon.com/images/I/51X49gepm8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

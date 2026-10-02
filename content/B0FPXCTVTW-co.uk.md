@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Horse & Baby Foal Trailer 42695'
-date: 2026-09-29 06:26:57
+date: 2026-09-30 19:11:17
 image: 'https://m.media-amazon.com/images/I/51RPWe6NrpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCTVTW/?tag=tolees0a-21'
 descuento: '40.02'
-average: '15.8976923076923'
+average: '15.8705970149254'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

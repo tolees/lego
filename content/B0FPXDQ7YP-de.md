@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Blasser Garten 21586'
-date: 2026-09-28 18:51:42
+date: 2026-10-01 02:14:47
 image: 'https://m.media-amazon.com/images/I/51rcHU4+0YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDQ7YP/?tag=tolees0ca-21'
 descuento: '32.52'
-average: '12.8104651162793'
+average: '12.8406666666669'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

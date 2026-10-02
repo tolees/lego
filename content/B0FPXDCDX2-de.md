@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Kylian Mbappé – Fußball-Highlights 43013'
-date: 2026-09-28 18:50:02
+date: 2026-10-01 02:10:51
 image: 'https://m.media-amazon.com/images/I/41diIUbEdIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDCDX2/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.3141379310345'
+average: '20.2932258064515'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

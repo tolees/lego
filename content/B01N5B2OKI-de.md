@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO DUPLO Marvel Team Spideys Hauptquartier 10464'
-date: 2026-09-28 18:44:27
-image: 'https://m.media-amazon.com/images/I/51CeC-cp3XL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:46:59
+image: 'https://m.media-amazon.com/images/I/51Xj65Ug3QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N5B2OKI/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '33.093448275862'
+average: '33.0867741935484'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hagrid & Harry s Privet Drive Escape 76459'
-date: 2026-09-29 06:33:21
+date: 2026-09-30 19:42:46
 image: 'https://m.media-amazon.com/images/I/51rZjrCdz8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXG2R7J/?tag=tolees0a-21'
 descuento: '38.85'
-average: '11.5181249999999'
+average: '11.4876470588234'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

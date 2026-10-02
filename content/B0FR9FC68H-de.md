@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Bluey: Blueys Familie Steinen 11217'
-date: 2026-09-28 18:57:06
-image: 'https://m.media-amazon.com/images/I/51vCudvrlnL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:58:57
+image: 'https://m.media-amazon.com/images/I/51pr3rRCtfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FR9FC68H/?tag=tolees0ca-21'
 descuento: '32.86'
-average: '47.9836363636365'
+average: '47.9008333333334'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

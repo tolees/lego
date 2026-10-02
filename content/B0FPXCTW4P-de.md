@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Cobb Vanths Speeder 75437'
-date: 2026-09-28 18:47:45
+date: 2026-10-01 02:02:11
 image: 'https://m.media-amazon.com/images/I/51hz9jMhnPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCTW4P/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '19.3665909090909'
+average: '19.393695652174'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

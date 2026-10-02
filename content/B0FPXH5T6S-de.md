@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Waldpilze 11505'
-date: 2026-09-28 18:50:35
+date: 2026-10-01 01:36:37
 image: 'https://m.media-amazon.com/images/I/51mRNscyuaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH5T6S/?tag=tolees0ca-21'
 descuento: '33.75'
-average: '52.2005263157894'
+average: '52.2757142857143'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

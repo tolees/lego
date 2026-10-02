@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Chicken Farm 21585'
-date: 2026-09-29 06:27:51
+date: 2026-09-30 19:18:31
 image: 'https://m.media-amazon.com/images/I/41YxzZjpSIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDBPSZ/?tag=tolees0a-21'
 descuento: '33.35'
-average: '12.0137500000002'
+average: '12.0133018867926'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

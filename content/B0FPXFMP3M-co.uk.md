@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu Mandalorian Apprentice 75446'
-date: 2026-09-29 06:32:20
+date: 2026-09-30 19:33:24
 image: 'https://m.media-amazon.com/images/I/51ktm4uMknL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFMP3M/?tag=tolees0a-21'
 descuento: '41.67'
-average: '72.3541904761904'
+average: '72.3099999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

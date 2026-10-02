@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Hühnerfarm 21585'
-date: 2026-09-28 18:49:46
+date: 2026-10-01 02:09:53
 image: 'https://m.media-amazon.com/images/I/41YxzZjpSIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDBPSZ/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '12.9180263157894'
+average: '12.9198717948718'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Nature Glamping Cabin 42682'
-date: 2026-09-29 06:32:38
+date: 2026-09-30 19:36:25
 image: 'https://m.media-amazon.com/images/I/511ybTwNoWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFTCCG/?tag=tolees0a-21'
 descuento: '32.52'
-average: '13.74'
+average: '13.7042857142857'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City F1 Display Truck with Audi F1 Race Car 60493'
-date: 2026-09-29 06:29:35
+date: 2026-09-30 19:32:16
 image: 'https://m.media-amazon.com/images/I/51uPXFXrLlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFL5ZW/?tag=tolees0a-21'
 descuento: '37.51'
-average: '25.0633333333333'
+average: '25.0594736842105'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

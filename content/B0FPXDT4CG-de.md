@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hogwarts Hauswappen 76462'
-date: 2026-09-28 18:53:11
+date: 2026-09-29 19:44:58
 image: 'https://m.media-amazon.com/images/I/51Loz5Xly5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDT4CG/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '34.8990909090908'
+average: '34.7399999999999'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Minecraft Der Enderdrache 21595'
-date: 2026-09-28 18:52:44
-image: 'https://m.media-amazon.com/images/I/414gA9Ozp2L._SL500_._SL400_.jpg'
+date: 2026-10-01 01:47:23
+image: 'https://m.media-amazon.com/images/I/41NyUD6dwOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJYG33/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '40.2531578947368'
+average: '40.2280952380952'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

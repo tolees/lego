@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Arielles Königliches Hochzeitsboot 43299'
-date: 2026-09-28 18:55:00
-image: 'https://m.media-amazon.com/images/I/51L84vccSzL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:57:02
+image: 'https://m.media-amazon.com/images/I/51QgInMgMwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

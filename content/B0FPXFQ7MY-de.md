@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Technic Monster Jam Grave Digger Feuer und EIS 42219'
-date: 2026-09-28 18:45:33
-image: 'https://m.media-amazon.com/images/I/51634crI1pL._SL500_._SL400_.jpg'
+date: 2026-10-01 02:33:06
+image: 'https://m.media-amazon.com/images/I/41KxLXMWS1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFQ7MY/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '19.2162025316458'
+average: '19.210617283951'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

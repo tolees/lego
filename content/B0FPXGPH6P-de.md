@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Classic Bunte Kreativbox 10479'
-date: 2026-09-28 18:48:29
+date: 2026-09-29 19:45:24
 image: 'https://m.media-amazon.com/images/I/513UtCxTBTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGPH6P/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '13.3448387096776'
+average: '13.3337500000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

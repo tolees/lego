@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wilder Dinosaurier 31379'
-date: 2026-09-28 18:49:17
+date: 2026-10-01 02:08:02
 image: 'https://m.media-amazon.com/images/I/51uFNhevEcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD9B3S/?tag=tolees0ca-21'
 descuento: '36.01'
-average: '15.7896825396825'
+average: '15.795846153846'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

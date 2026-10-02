@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Minecraft Mini-Biome 21589'
-date: 2026-09-28 18:47:09
-image: 'https://m.media-amazon.com/images/I/5178yde7HyL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:34:42
+image: 'https://m.media-amazon.com/images/I/418ZZL8aujL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG6D7P/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '40.2339024390244'
+average: '40.2225581395348'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

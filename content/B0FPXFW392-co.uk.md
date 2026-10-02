@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Magnolia Branches 11510'
-date: 2026-09-29 06:32:45
+date: 2026-09-30 19:37:49
 image: 'https://m.media-amazon.com/images/I/51ttZ0ukk2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFW392/?tag=tolees0a-21'
 descuento: '37.79'
-average: '27.7559375000002'
+average: '27.7607142857145'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

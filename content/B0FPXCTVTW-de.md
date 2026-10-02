@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Pferd und Fohlen mit Pferdeanhänger 42695'
-date: 2026-09-28 18:47:30
+date: 2026-10-01 02:00:04
 image: 'https://m.media-amazon.com/images/I/51RPWe6NrpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCTVTW/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.1834730538921'
+average: '19.2021052631578'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

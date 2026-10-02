@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Meerestiere: Wunderschöne Delfine 31385'
-date: 2026-09-28 18:46:05
-image: 'https://m.media-amazon.com/images/I/51B2+Q2akRL._SL500_._SL400_.jpg'
+date: 2026-10-01 01:54:38
+image: 'https://m.media-amazon.com/images/I/51Rg1NyuEdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXBJSJ8/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '32.835'
+average: '32.8390789473684'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Motorradtransporter 60491'
-date: 2026-09-28 18:48:38
+date: 2026-10-01 02:04:58
 image: 'https://m.media-amazon.com/images/I/51ykMgb5-KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD23ST/?tag=tolees0ca-21'
 descuento: '33.52'
-average: '13.3918644067798'
+average: '13.388524590164'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
