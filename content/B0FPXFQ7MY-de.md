@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Technic Monster Jam Grave Digger Feuer und EIS 42219'
+date: 2026-10-03 21:59:54
+image: 'https://m.media-amazon.com/images/I/41KxLXMWS1L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXFQ7MY-de LEGO Technic Monster Jam Grave Digger Feuer und EIS 42219'
+sku: 'B0FPXFQ7MY-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
+comparePrice: 29.99 EUR
+prodname: 'LEGO Technic Monster Jam Grave Digger Feuer und EIS 42219'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXFQ7MY/?tag=tolees0ca-21'
+descuento: '36.68'
+average: '19.2053012048197'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0FPXFQ7MY{{</world>}}

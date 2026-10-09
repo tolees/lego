@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO City Túnel de Autolavado de Juguete – Kit de Construcción con 2 Maquetas de Coches – Juego Interactivo con Rodillos Giratorios “Agua” y Accesorios – Regalo para Niños de 6+ Años – 60497'
+date: 2026-09-10 10:04:27
+image: 'https://m.media-amazon.com/images/I/51lrpbD2voL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXJ4LLJ-es LEGO City Túnel de Autolavado de Juguete – Kit de...'
+sku: 'B0FPXJ4LLJ-es'
+tags: [ 'lego','🇪🇸', ]
+actualPrice: 41.2 EUR
+currency: EUR
+price: 41.2
+comparePrice: 54.99 EUR
+prodname: 'LEGO City Túnel de Autolavado de Juguete – Kit de Construcción con 2 Maquetas de Coches – Juego Interactivo con Rodillos Giratorios “Agua” y Accesorios – Regalo para Niños de 6+ Años – 60497'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FPXJ4LLJ/?tag=tolees-21'
+descuento: '25.08'
+average: '41.2'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0FPXJ4LLJ{{</world>}}
