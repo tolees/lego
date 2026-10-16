@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Hubschrauber der Küstenwache 60503'
-date: 2026-10-14 10:31:02
+date: 2026-10-15 10:42:21
 image: 'https://m.media-amazon.com/images/I/513UrhlO98L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGSYZ1/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '40.2573913043478'
+average: '40.2462499999999'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

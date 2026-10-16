@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Throne Room Duel & A-Wing 75427'
-date: 2026-10-14 12:05:42
+date: 2026-10-15 13:24:16
 image: 'https://m.media-amazon.com/images/I/519p772hP9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXRW6LL/?tag=tolees0a-21'
 descuento: '39.29'
-average: '88.8699999999999'
+average: '88.6975555555555'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

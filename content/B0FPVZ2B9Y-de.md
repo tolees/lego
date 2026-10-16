@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Einhorn-Traumcafé 42684'
-date: 2026-10-14 10:30:41
+date: 2026-10-15 10:37:48
 image: 'https://m.media-amazon.com/images/I/512ya29wygL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPVZ2B9Y/?tag=tolees0ca-21'
 descuento: '32.53'
-average: '25.6150684931503'
+average: '25.6335135135131'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City F1 Truck mit Audi F1 Rennwagen 60493'
-date: 2026-10-14 10:27:12
+date: 2026-10-15 10:37:58
 image: 'https://m.media-amazon.com/images/I/51uPXFXrLlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFL5ZW/?tag=tolees0ca-21'
 descuento: '35.56'
-average: '27.4899999999997'
+average: '27.5240909090906'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

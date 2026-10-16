@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Technic Hipercoche Koenigsegg Jesko Absolut Gris 42173'
-date: 2026-10-14 12:42:20
+title: 'LEGO Technic Hipercoche Koenigsegg Jesko Absolut Gris 42173 | Juguetes para niños de 10+ años kit de maquetas de coche de carreras regalo de cumpleaños 801 piezas'
+date: 2026-10-15 17:19:49
 image: 'https://m.media-amazon.com/images/I/51FFYhLtjWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CWGZTRKJ-es LEGO Technic Hipercoche Koenigsegg Jesko Absolut Gris 42173'
+slug: 'B0CWGZTRKJ-es LEGO Technic Hipercoche Koenigsegg Jesko Absolut Gris...'
 sku: 'B0CWGZTRKJ-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 43.99 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 43.99
+price: 39.99
 comparePrice: 52.99 EUR
-prodname: 'LEGO Technic Hipercoche Koenigsegg Jesko Absolut Gris 42173'
+prodname: 'LEGO Technic Hipercoche Koenigsegg Jesko Absolut Gris 42173 | Juguetes para niños de 10+ años kit de maquetas de coche de carreras regalo de cumpleaños 801 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWGZTRKJ/?tag=tolees-21'
-descuento: '16.98'
-average: '44.1678260869564'
+descuento: '24.53'
+average: '43.8335999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

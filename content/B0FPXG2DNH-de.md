@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Coles Action-Mech und Drachen-Zane 71854'
-date: 2026-10-14 10:28:11
+date: 2026-10-15 10:38:53
 image: 'https://m.media-amazon.com/images/I/51k5yb7L8WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG2DNH/?tag=tolees0ca-21'
 descuento: '33.84'
-average: '19.332426035503'
+average: '19.3383625730994'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Cristiano Ronaldo – Fußballlegende 43016'
-date: 2026-10-14 20:51:02
+date: 2026-10-16 02:03:30
 image: 'https://m.media-amazon.com/images/I/417HbV3z9RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FQP4PJKX/?tag=tolees0ca-21'
 descuento: '32.50'
-average: '57.168'
+average: '56.8790909090909'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

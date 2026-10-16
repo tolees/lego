@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Ken Blocks 1965 Ford Mustang Hoonicorn V1 77262'
-date: 2026-10-14 20:49:23
+date: 2026-10-16 01:37:16
 image: 'https://m.media-amazon.com/images/I/51vK8ZtR59L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGKBCS/?tag=tolees0ca-21'
 descuento: '35.01'
-average: '18.9799999999999'
+average: '18.9580555555554'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Hundekuchenbäckerei 42677'
-date: 2026-10-14 16:59:01
+date: 2026-10-16 01:46:01
 image: 'https://m.media-amazon.com/images/I/51vZ3LUl8dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF1CJ5/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.7830693069306'
+average: '19.7849999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Monster Jam Sparkle Smash mit Rückziehmotor 42220'
-date: 2026-10-14 16:51:10
+date: 2026-10-16 01:33:49
 image: 'https://m.media-amazon.com/images/I/51fCNF5oVLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD7PQV/?tag=tolees0ca-21'
 descuento: '36.71'
-average: '19.4390243902438'
+average: '19.4334939759035'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

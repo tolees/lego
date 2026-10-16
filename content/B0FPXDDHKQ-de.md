@@ -31,10 +31,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - TIERGESCHICHTEN NACHSPIELEN: Das Set enthält außerdem einen kleinen Nebenbau mit künstlichen Pflanzen, Blumen und Wasser, damit Kinder den natürlichen Lebensraum für die Axolotl gestalten können
 - DIGITALE ANLEITUNGEN: Die LEGO Builder App führt Kinder auf ein intuitives Abenteuer, bei dem sie Sets speichern, den Fortschritt verfolgen und Modelle mit 3D-Anleitungen heranzoomen und drehen können
 - GESCHENK FÜR MÄDCHEN UND JUNGEN AB 5 JAHREN: Dieses Bauset ist ein beliebtes Geschenk für kreative Kinder, die Tiere und Abenteuer lieben, als Überraschung zwischendurch oder zu einem besonderen Anlass
+- SPIELZEUG MIT WEDLENDEM SCHWANZ: Das Boot besitzt ein niedliches Axolotl-Gesicht und einen Schwanz, der beim Fahren wackelt; ein lustiges Detail für Spielspaß
+- 2 LEGO FIGUREN & 2 TIERFIGUREN: Enthält Leo und die Mikro Puppe Alba sowie zwei niedliche Axolotl Tiere für jede Menge kreative Abenteuer auf dem Wasser
 - SPIELSET FÜR ABENTEUER AUF DEM WASSER: Mädchen und Jungen ab 5 Jahren können mit diesem LEGO Friends Axolotl-Abenteuerboot fantasievolle Naturreisen und spannende Tiergeschichten spielen
 - ONLINE-SERIE: Entdecke noch mehr Spielideen mit anderen Sets (separat erhältlich) und der Online-Serie LEGO Friends: Das nächste Kapitel, in der Kinder die Charaktere aus Heartlake City kennenlernen
-- 2 LEGO FIGUREN & 2 TIERFIGUREN: Enthält Leo und die Mikro Puppe Alba sowie zwei niedliche Axolotl Tiere für jede Menge kreative Abenteuer auf dem Wasser
-- SPIELZEUG MIT WEDLENDEM SCHWANZ: Das Boot besitzt ein niedliches Axolotl-Gesicht und einen Schwanz, der beim Fahren wackelt; ein lustiges Detail für Spielspaß
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FPXDDHKQ{{</world>}}

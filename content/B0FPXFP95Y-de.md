@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture New York City – The Big Apple 21066'
-date: 2026-10-14 10:27:20
+date: 2026-10-15 10:38:07
 image: 'https://m.media-amazon.com/images/I/51SEUBVjcCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFP95Y/?tag=tolees0ca-21'
 descuento: '33.57'
-average: '95.365'
+average: '95.1011111111112'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

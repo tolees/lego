@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Heartlake City Hasenhotel 42679'
-date: 2026-10-14 10:30:01
+date: 2026-10-15 10:37:28
 image: 'https://m.media-amazon.com/images/I/51Bwrb+dMWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPVRWS6R/?tag=tolees0ca-21'
 descuento: '36.05'
-average: '15.5577647058825'
+average: '15.5626744186048'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

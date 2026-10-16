@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Sea Animals: Beautiful Dolphins 31385'
-date: 2026-10-14 11:45:20
+date: 2026-10-15 12:54:50
 image: 'https://m.media-amazon.com/images/I/51Rg1NyuEdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXBJSJ8/?tag=tolees0a-21'
 descuento: '33.32'
-average: '29.8066990291261'
+average: '29.8103809523809'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

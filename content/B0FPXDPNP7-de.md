@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Duell mit Jays Drachen-Mech 71853'
-date: 2026-10-14 16:52:07
+date: 2026-10-16 01:36:12
 image: 'https://m.media-amazon.com/images/I/510INzUc48L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDPNP7/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '13.6400000000001'
+average: '13.5100000000001'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

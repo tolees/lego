@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Fußball-Highlights 43011'
-date: 2026-10-14 20:51:30
+date: 2026-10-16 02:02:46
 image: 'https://m.media-amazon.com/images/I/51d0gR8xHqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFBL13/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '20.1045283018868'
+average: '20.1022222222222'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Baufahrzeuge – 3-in-1-Set 10475'
-date: 2026-10-14 10:28:25
+date: 2026-10-15 10:36:48
 image: 'https://m.media-amazon.com/images/I/51dv+ba-8RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTWBPPI/?tag=tolees0ca-21'
 descuento: '37.66'
-average: '15.65219858156'
+average: '15.6511888111885'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

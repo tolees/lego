@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hagrids und Harrys Flucht aus dem Ligusterweg 76459'
-date: 2026-10-14 10:28:17
+date: 2026-10-15 10:38:59
 image: 'https://m.media-amazon.com/images/I/51rZjrCdz8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG2R7J/?tag=tolees0ca-21'
 descuento: '35.07'
-average: '12.875714285714'
+average: '12.8771830985912'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

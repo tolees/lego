@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Angriff des Magiers auf das Dorf 21596'
-date: 2026-10-14 10:30:35
+date: 2026-10-15 10:42:11
 image: 'https://m.media-amazon.com/images/I/51nF+mDDeWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGPPDX/?tag=tolees0ca-21'
 descuento: '33.35'
-average: '59.639'
+average: '59.6552380952381'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

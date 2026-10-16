@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Kombinationsset Flugzeug Wartungsfahrzeug Luftkissenboot 60505'
-date: 2026-10-14 16:50:32
+date: 2026-10-16 01:31:35
 image: 'https://m.media-amazon.com/images/I/516wPg6gqXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCRR93/?tag=tolees0ca-21'
 descuento: '33.29'
-average: '45.3213114754098'
+average: '45.3433870967741'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

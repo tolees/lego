@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Flughafenlöschfahrzeug 60499'
-date: 2026-10-14 16:57:10
+date: 2026-10-16 01:38:52
 image: 'https://m.media-amazon.com/images/I/51th4YHCueL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDXJ98/?tag=tolees0ca-21'
 descuento: '34.30'
-average: '45.9008536585367'
+average: '45.9018072289157'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

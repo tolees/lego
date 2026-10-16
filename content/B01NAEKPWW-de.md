@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Löschauto mit Schlauch und Feuerwehrmann 10473'
-date: 2026-10-14 10:29:15
+date: 2026-10-15 10:37:12
 image: 'https://m.media-amazon.com/images/I/51G2zqPPhgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NAEKPWW/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '18.8120560747664'
+average: '18.8137037037038'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Der Astromech-Droide BB-8 75452'
-date: 2026-10-14 10:27:48
+date: 2026-10-15 10:38:34
 image: 'https://m.media-amazon.com/images/I/51SFxPOvunL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFW6PM/?tag=tolees0ca-21'
 descuento: '37.78'
-average: '57.8037768240341'
+average: '57.7883404255317'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

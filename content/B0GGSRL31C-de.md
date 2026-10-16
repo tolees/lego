@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Olivia Rodrigos Blumenstrauß 11507'
-date: 2026-10-14 20:58:55
+date: 2026-10-16 02:04:51
 image: 'https://m.media-amazon.com/images/I/519no0UMXsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSRL31C/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '30.82875'
+average: '30.4022222222222'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

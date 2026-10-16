@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Millennium Falke 75426'
-date: 2026-10-14 20:50:50
+date: 2026-10-16 02:03:13
 image: 'https://m.media-amazon.com/images/I/51UWvRQoElL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXQLVBV/?tag=tolees0ca-21'
 descuento: '40.00'
-average: '70.3345762711866'
+average: '69.9954098360657'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

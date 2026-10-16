@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Wither Battle 21590'
-date: 2026-10-14 11:45:26
+date: 2026-10-15 12:55:17
 image: 'https://m.media-amazon.com/images/I/51MQ9wxOWfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCCCPT/?tag=tolees0a-21'
 descuento: '36.67'
-average: '38.1674509803921'
+average: '38.1640384615384'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

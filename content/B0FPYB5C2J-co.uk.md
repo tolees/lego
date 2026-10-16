@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: AT-ST Attack on Endor 75424'
-date: 2026-10-14 12:09:12
+date: 2026-10-15 12:53:58
 image: 'https://m.media-amazon.com/images/I/514uAFQNDrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPYB5C2J/?tag=tolees0a-21'
 descuento: '33.34'
-average: '29.74'
+average: '29.7757142857143'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

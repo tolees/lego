@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Picknickspaß mit Olaf und Bruni 43287'
-date: 2026-10-14 20:49:36
+date: 2026-10-16 01:42:14
 image: 'https://m.media-amazon.com/images/I/51HoO0HKfpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH5GX1/?tag=tolees0ca-21'
 descuento: '34.03'
-average: '32.3813793103448'
+average: '32.3915254237288'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

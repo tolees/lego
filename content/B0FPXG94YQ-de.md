@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Deko-Blumengemälde 31390'
-date: 2026-10-14 10:29:41
+date: 2026-10-15 10:39:42
 image: 'https://m.media-amazon.com/images/I/51iOWDr1sML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG94YQ/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.5410344827586'
+average: '19.5556666666667'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

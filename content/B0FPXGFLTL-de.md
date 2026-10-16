@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Tomatenkopf 77079'
-date: 2026-10-14 10:29:54
+date: 2026-10-15 10:39:53
 image: 'https://m.media-amazon.com/images/I/41ImAeg+3RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGFLTL/?tag=tolees0ca-21'
 descuento: '32.76'
-average: '10.2317777777778'
+average: '10.2284782608696'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

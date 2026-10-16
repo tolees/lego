@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Luke s Landspeeder 75420'
-date: 2026-10-14 12:07:28
+date: 2026-10-15 13:27:10
 image: 'https://m.media-amazon.com/images/I/51080iuDywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXT4B9J/?tag=tolees0a-21'
 descuento: '42.84'
-average: '21.4023'
+average: '21.3748039215687'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

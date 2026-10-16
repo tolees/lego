@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Lianns Familienhaus 42687'
-date: 2026-10-14 16:56:12
+date: 2026-10-16 01:38:25
 image: 'https://m.media-amazon.com/images/I/51MSiVFyLZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDT6R3/?tag=tolees0ca-21'
 descuento: '34.30'
-average: '47.1463888888888'
+average: '47.1148648648648'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wilde Tiere: Majestätischer Löwe 31386'
-date: 2026-10-14 15:37:04
+date: 2026-10-16 01:29:57
 image: 'https://m.media-amazon.com/images/I/51AWd4+7hwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFKHL7/?tag=tolees0ca-21'
 descuento: '33.85'
-average: '43.0108333333333'
+average: '43.0092307692308'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

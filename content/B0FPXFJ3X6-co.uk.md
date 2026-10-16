@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Beach House with Seals 42699'
-date: 2026-10-14 11:56:25
+date: 2026-10-15 13:12:06
 image: 'https://m.media-amazon.com/images/I/51xVy3Vgg2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFJ3X6/?tag=tolees0a-21'
 descuento: '33.34'
-average: '28.3477777777777'
+average: '28.4342105263157'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

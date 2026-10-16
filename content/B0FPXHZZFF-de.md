@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Gelber Baggerlader 60480'
-date: 2026-10-14 20:50:22
+date: 2026-10-16 02:02:27
 image: 'https://m.media-amazon.com/images/I/51GGu7+5MHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHZZFF/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '20.86375'
+average: '20.7535294117647'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

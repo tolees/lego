@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Magnolienzweige 11510'
-date: 2026-10-14 10:27:41
+date: 2026-10-15 10:38:26
 image: 'https://m.media-amazon.com/images/I/51ttZ0ukk2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFW392/?tag=tolees0ca-21'
 descuento: '34.03'
-average: '32.3921276595743'
+average: '32.3983157894735'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

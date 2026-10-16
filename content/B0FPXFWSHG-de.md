@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Duell der Giganten: Hulkbuster vs. Hulk 76343'
-date: 2026-10-14 10:27:55
+date: 2026-10-15 10:38:41
 image: 'https://m.media-amazon.com/images/I/51+zC0EfdJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFWSHG/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '33.5468571428571'
+average: '33.5313888888888'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

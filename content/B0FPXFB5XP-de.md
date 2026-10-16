@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Retro-Spielkonsole 31380'
-date: 2026-10-14 17:01:37
+date: 2026-10-16 02:02:33
 image: 'https://m.media-amazon.com/images/I/51GpfgxDrwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFB5XP/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '12.1200000000001'
+average: '12.1374000000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

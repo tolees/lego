@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Verfolgungsjagd mit Polizeiauto und Muscle Car 60415'
-date: 2026-10-09 03:44:20
+date: 2026-10-15 10:37:20
 image: 'https://m.media-amazon.com/images/I/516I3ztq7yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CFW1BPKM/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '14.5493333333334'
+average: '14.4518750000001'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Bluey: Pizza-Schwestern mit Muffin und Bluey 10469'
-date: 2026-10-14 10:29:23
+date: 2026-10-15 10:39:36
 image: 'https://m.media-amazon.com/images/I/512Z-5sl+zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG94XQ/?tag=tolees0ca-21'
 descuento: '32.51'
-average: '24.8012500000001'
+average: '25.0444444444445'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

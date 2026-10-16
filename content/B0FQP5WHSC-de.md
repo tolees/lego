@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Arielles Königliches Hochzeitsboot 43299'
-date: 2026-10-14 20:51:13
+date: 2026-10-16 02:03:50
 image: 'https://m.media-amazon.com/images/I/51QgInMgMwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FQP5WHSC/?tag=tolees0ca-21'
 descuento: '32.88'
-average: '46.7704'
+average: '46.7784615384616'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

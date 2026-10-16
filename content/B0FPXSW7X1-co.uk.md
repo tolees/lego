@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Luke s Red Five X-Wing 75423'
-date: 2026-10-14 12:06:36
+date: 2026-10-15 13:25:47
 image: 'https://m.media-amazon.com/images/I/51caR7oS3OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXSW7X1/?tag=tolees0a-21'
 descuento: '33.75'
-average: '53.5454545454546'
+average: '53.4991666666667'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Millennium Falcon 75426'
-date: 2026-10-12 10:27:07
+date: 2026-10-16 02:49:07
 image: 'https://m.media-amazon.com/images/I/51CrqKh6CtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXQLVBV/?tag=tolees0a-21'
 descuento: '33.35'
-average: '60.702142857143'
+average: '60.6118750000002'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Chicken Farm 21585'
-date: 2026-10-14 11:50:28
+date: 2026-10-15 13:03:02
 image: 'https://m.media-amazon.com/images/I/51bZLKIvoJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXDBPSZ-co.uk LEGO Minecraft Chicken Farm 21585'
 sku: 'B0FPXDBPSZ-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 11.99 GBP
+actualPrice: 13.49 GBP
 currency: GBP
-price: 11.99
+price: 13.49
 comparePrice: 17.99 GBP
 prodname: 'LEGO Minecraft Chicken Farm 21585'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDBPSZ/?tag=tolees0a-21'
-descuento: '33.35'
-average: '12.0099193548387'
+descuento: '25.01'
+average: '12.0334126984127'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

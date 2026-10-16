@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Cristiano Ronaldo – Fußball-Highlights 43012'
-date: 2026-10-14 10:30:09
+date: 2026-10-15 10:41:58
 image: 'https://m.media-amazon.com/images/I/51EGUy4vRAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGJL6H/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '20.2799999999999'
+average: '20.2749999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

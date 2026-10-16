@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Bluey: Schule mit Rusty und Bluey 11221'
-date: 2026-10-14 20:59:22
+date: 2026-10-16 02:03:36
 image: 'https://m.media-amazon.com/images/I/511mluVz3wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFJHZW/?tag=tolees0ca-21'
 descuento: '36.01'
-average: '16.0400000000001'
+average: '16.0344444444445'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DREAMZzz 2in1 Crocodile Submarine 71512'
-date: 2026-10-14 11:55:11
+date: 2026-10-15 13:09:22
 image: 'https://m.media-amazon.com/images/I/51IsO7+eaeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDS559/?tag=tolees0a-21'
 descuento: '33.32'
-average: '40.413243243243'
+average: '40.3920512820511'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

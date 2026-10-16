@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Airplane Service Truck & Hovercraft Remix 60505'
-date: 2026-10-03 19:34:26
+date: 2026-10-15 12:57:46
 image: 'https://m.media-amazon.com/images/I/518TMgpYPcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCRR93/?tag=tolees0a-21'
 descuento: '36.66'
-average: '38.2151020408165'
+average: '38.1133333333334'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

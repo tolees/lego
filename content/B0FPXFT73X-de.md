@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions McLaren MasterCard F1 Team Lando Norris’ Helm 43023'
-date: 2026-10-14 10:27:35
+date: 2026-10-15 10:38:19
 image: 'https://m.media-amazon.com/images/I/51kmtq6fCpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFT73X/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '59.89'
+average: '59.8933333333333'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

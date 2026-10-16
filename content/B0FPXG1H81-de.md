@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic Kreative Bunte Steine 11045'
-date: 2026-10-14 10:28:03
+date: 2026-10-15 10:38:47
 image: 'https://m.media-amazon.com/images/I/51OzRaLYZbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG1H81/?tag=tolees0ca-21'
 descuento: '34.03'
-average: '33.0323809523807'
+average: '33.0311627906974'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

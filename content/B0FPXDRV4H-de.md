@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic NASA Artemis SLS-Schwerlastrakete 42221'
-date: 2026-10-14 16:55:18
+date: 2026-10-16 01:37:58
 image: 'https://m.media-amazon.com/images/I/41IWVnlsqVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDRV4H/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '39.8387951807231'
+average: '39.8423529411766'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

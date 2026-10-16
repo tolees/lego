@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Der Enderdrache 21595'
-date: 2026-10-14 20:50:35
+date: 2026-10-16 02:02:51
 image: 'https://m.media-amazon.com/images/I/41NyUD6dwOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJYG33/?tag=tolees0ca-21'
 descuento: '35.01'
-average: '40.1229999999998'
+average: '40.086451612903'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

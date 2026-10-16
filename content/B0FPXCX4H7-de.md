@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Friedenslilie 11504'
-date: 2026-10-14 16:50:48
+date: 2026-10-16 01:32:29
 image: 'https://m.media-amazon.com/images/I/41VfUBMtIiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCX4H7/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '38.8597727272725'
+average: '38.8848888888886'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

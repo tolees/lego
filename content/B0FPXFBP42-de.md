@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Kreative Sprungschanzen mit kleinen Flitzern 3-in-1-Set 10478'
-date: 2026-10-14 20:58:36
+date: 2026-10-16 02:02:57
 image: 'https://m.media-amazon.com/images/I/51szDF-0paL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Disney Frozen Kreativbox mit ELSA und Olaf 10462'
-date: 2026-10-14 10:29:01
+date: 2026-10-15 10:37:04
 image: 'https://m.media-amazon.com/images/I/51lB9rZh63L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9DA50W/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '13.692'
+average: '13.6281818181818'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

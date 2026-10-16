@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Winnie Puuh 43300'
-date: 2026-10-14 10:30:28
+date: 2026-10-15 10:37:41
 image: 'https://m.media-amazon.com/images/I/51u8YvBlJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPVXCY7B/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '106.840000000001'
+average: '106.350714285715'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DREAMZzz 2in1 Nightmare Scorpion Digger 71513'
-date: 2026-10-12 10:22:35
+date: 2026-10-14 23:32:55
 image: 'https://m.media-amazon.com/images/I/51DidAcaTiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXH4YJT/?tag=tolees0a-21'
 descuento: '24.38'
-average: '31.0235714285715'
+average: '31.3981250000001'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Batman vs. Superman: Batmobil 76331'
-date: 2026-10-14 20:59:10
+date: 2026-10-16 02:03:25
 image: 'https://m.media-amazon.com/images/I/51vtYRSOhNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFHX1B/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '21.665'
+average: '21.4257142857142'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

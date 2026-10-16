@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Cement Mixer 60478'
-date: 2026-10-14 11:40:42
+date: 2026-10-15 12:54:04
 image: 'https://m.media-amazon.com/images/I/51Z8p2lKVkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00EBIGSBW-co.uk LEGO City Cement Mixer 60478'
 sku: 'B00EBIGSBW-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 22.99 GBP
+actualPrice: 22.79 GBP
 currency: GBP
-price: 22.99
+price: 22.79
 comparePrice: 34.99 GBP
 prodname: 'LEGO City Cement Mixer 60478'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00EBIGSBW/?tag=tolees0a-21'
-descuento: '34.30'
-average: '23.0279245283022'
+descuento: '34.87'
+average: '23.0235185185188'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

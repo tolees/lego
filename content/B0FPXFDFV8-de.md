@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Scuderia Ferrari HP Charles Leclerc Helm 43014'
-date: 2026-10-14 20:58:47
+date: 2026-10-16 02:03:08
 image: 'https://m.media-amazon.com/images/I/411w9FHkl2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFDFV8/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '61.7299999999999'
+average: '61.6864999999999'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

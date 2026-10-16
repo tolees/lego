@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Pixar Blaze s Horse Ranch 43304'
-date: 2026-10-14 12:01:52
+date: 2026-10-15 13:18:42
 image: 'https://m.media-amazon.com/images/I/51y757oTDpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXG718F/?tag=tolees0a-21'
 descuento: '33.34'
-average: '29.4338000000001'
+average: '29.4551923076924'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

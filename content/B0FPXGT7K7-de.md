@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Ferrari 499P 77261'
-date: 2026-10-14 10:31:17
+date: 2026-10-15 10:42:26
 image: 'https://m.media-amazon.com/images/I/51zhSHoE5EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGT7K7/?tag=tolees0ca-21'
 descuento: '35.73'
-average: '18.4563636363637'
+average: '18.4460000000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

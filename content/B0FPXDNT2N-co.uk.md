@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic 1966 Ford GT40 MKII Race Car 42223'
-date: 2026-10-14 11:52:48
+date: 2026-10-15 13:05:13
 image: 'https://m.media-amazon.com/images/I/51NZ5hQnTkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDNT2N/?tag=tolees0a-21'
 descuento: '34.62'
-average: '42.5120000000001'
+average: '42.5100000000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

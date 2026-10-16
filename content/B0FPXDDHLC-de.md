@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Tierklinik 42696'
-date: 2026-10-13 01:54:12
+date: 2026-10-15 01:03:08
 image: 'https://m.media-amazon.com/images/I/51-1JWxb8ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDDHLC/?tag=tolees0ca-21'
 descuento: '33.68'
-average: '19.3940372670806'
+average: '19.4001226993864'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

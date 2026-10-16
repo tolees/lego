@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wild Animals: Colourful Hummingbird 31384'
-date: 2026-09-30 19:54:47
-image: 'https://m.media-amazon.com/images/I/51NSS3vujYL._SL500_._SL400_.jpg'
+date: 2026-10-15 13:21:27
+image: 'https://m.media-amazon.com/images/I/51AefjtNEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXJT7BW/?tag=tolees0a-21'
 descuento: '32.01'
-average: '15.5858208955226'
+average: '15.6265217391306'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

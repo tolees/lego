@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Das Skelett 21594'
-date: 2026-10-14 10:29:09
+date: 2026-10-15 10:39:30
 image: 'https://m.media-amazon.com/images/I/41U8FzibK2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG724G/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '31.2021212121212'
+average: '31.1664705882353'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

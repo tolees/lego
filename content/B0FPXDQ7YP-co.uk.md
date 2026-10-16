@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft The Pale Garden 21586'
-date: 2026-10-14 11:54:34
+date: 2026-10-15 13:08:02
 image: 'https://m.media-amazon.com/images/I/51rcHU4+0YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDQ7YP/?tag=tolees0a-21'
 descuento: '33.35'
-average: '11.932752293578'
+average: '11.9337837837838'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

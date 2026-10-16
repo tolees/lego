@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Fierce Dinosaur 31379'
-date: 2026-10-14 11:49:45
+date: 2026-10-15 13:01:47
 image: 'https://m.media-amazon.com/images/I/51uFNhevEcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXD9B3S/?tag=tolees0a-21'
 descuento: '40.02'
-average: '12.6134782608696'
+average: '12.5875000000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Monster Jam Grave Digger Fire and Ice 42219'
-date: 2026-10-14 11:58:35
+date: 2026-10-15 13:15:57
 image: 'https://m.media-amazon.com/images/I/41KxLXMWS1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFQ7MY/?tag=tolees0a-21'
 descuento: '36.41'
-average: '15.748888888889'
+average: '15.7539285714287'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

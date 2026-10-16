@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Jurassic World Transporter für den Jungen T.Rex 77978'
-date: 2026-10-14 20:58:41
+date: 2026-10-16 02:04:26
 image: 'https://m.media-amazon.com/images/I/518xY6+ZHvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSK36SN/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.58'
+average: '20.4816666666666'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

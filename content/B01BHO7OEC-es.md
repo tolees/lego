@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Tipo de producto: videojuego
-- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
-- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
-- Los jugadores se pondrán en el papel de los héroes de la película
 - Plataforma del juego: PlayStation Vita
+- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
+- Los jugadores se pondrán en el papel de los héroes de la película
+- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01BHO7OEC{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Jays Transformationsflitzer 71856'
-date: 2026-10-14 16:51:55
+date: 2026-10-16 01:35:49
 image: 'https://m.media-amazon.com/images/I/51hwiApRAaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDLC39/?tag=tolees0ca-21'
 descuento: '34.03'
-average: '32.5323976608188'
+average: '32.5375722543354'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

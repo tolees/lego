@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wilde Tiere: Bunter Kolibri 31384'
-date: 2026-10-14 20:50:28
+date: 2026-10-16 02:02:40
 image: 'https://m.media-amazon.com/images/I/51NSS3vujYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJT7BW/?tag=tolees0ca-21'
 descuento: '36.71'
-average: '18.9745454545458'
+average: '18.974626865672'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

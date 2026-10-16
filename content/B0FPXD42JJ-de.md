@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wilder Hai mit Schatztruhe 31381'
-date: 2026-10-14 16:51:03
+date: 2026-10-16 01:33:19
 image: 'https://m.media-amazon.com/images/I/512jVAfPbuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD42JJ/?tag=tolees0ca-21'
 descuento: '34.30'
-average: '22.390625'
+average: '22.3959292035398'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Düsenflieger vs. Rennauto 60489'
-date: 2026-10-14 20:49:30
+date: 2026-10-16 01:40:06
 image: 'https://m.media-amazon.com/images/I/51xUCmbQAOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH4F66/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.8148275862067'
+average: '19.8176271186439'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Parfümflasche mit Blumendeko 31383'
-date: 2026-10-14 10:28:33
+date: 2026-10-15 10:39:08
 image: 'https://m.media-amazon.com/images/I/51deP9ws+6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG3QB9/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '20.0325'
+average: '19.824'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

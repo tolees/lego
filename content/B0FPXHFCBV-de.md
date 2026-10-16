@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Passagierjet 60492'
-date: 2026-10-14 20:49:48
+date: 2026-10-16 01:47:25
 image: 'https://m.media-amazon.com/images/I/51n43oMtIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHFCBV/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.674'
+average: '20.56'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

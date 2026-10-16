@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Heartlake City Friends Club House 42689'
-date: 2026-10-14 11:53:44
+date: 2026-10-15 13:06:32
 image: 'https://m.media-amazon.com/images/I/51MSFHhg-8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDPWBR/?tag=tolees0a-21'
 descuento: '33.75'
-average: '52.0287500000001'
+average: '52.0852941176472'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

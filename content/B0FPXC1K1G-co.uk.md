@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Fun Indoor Playground 42686'
-date: 2026-10-08 17:37:01
+date: 2026-10-15 12:54:56
 image: 'https://m.media-amazon.com/images/I/51SavIumf+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXC1K1G/?tag=tolees0a-21'
 descuento: '36.37'
-average: '35.0702409638554'
+average: '35.0683529411765'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
