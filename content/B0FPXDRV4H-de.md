@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Technic NASA Artemis SLS-Schwerlastrakete 42221'
+date: 2026-10-14 16:55:18
+image: 'https://m.media-amazon.com/images/I/41IWVnlsqVL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXDRV4H-de LEGO Technic NASA Artemis SLS-Schwerlastrakete 42221'
+sku: 'B0FPXDRV4H-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
+comparePrice: 59.99 EUR
+prodname: 'LEGO Technic NASA Artemis SLS-Schwerlastrakete 42221'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXDRV4H/?tag=tolees0ca-21'
+descuento: '33.34'
+average: '39.8387951807231'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B0FPXDRV4H{{</world>}}
