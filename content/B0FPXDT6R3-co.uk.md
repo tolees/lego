@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Friends Liann s Family House 42687 | Toys for 7+ Year Old Girls 4 Mini Dolls Pet Axolotl & Gecko Animal Figures Garden & Accessories Birthday Gift 946 Pieces'
-date: 2026-10-23 07:56:06
-image: 'https://m.media-amazon.com/images/I/51MSiVFyLZL._SL500_._SL400_.jpg'
+title: 'LEGO Friends Liann s Family House 42687 | Toys for 7+ Year Old Girls & Boys 4 Mini Dolls Pet Axolotl & Gecko Animal Figures Garden & Accessories Gift 946 pieces'
+date: 2026-10-30 09:14:08
+image: 'https://m.media-amazon.com/images/I/51COBC2LrrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0FPXDT6R3-co.uk LEGO Friends Liann s Family House 42687 | Toys for 7+...'
 sku: 'B0FPXDT6R3-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 44.99 GBP
+actualPrice: 45.0 GBP
 currency: GBP
-price: 44.99
+price: 45.0
 comparePrice: 59.99 GBP
-prodname: 'LEGO Friends Liann s Family House 42687 | Toys for 7+ Year Old Girls 4 Mini Dolls Pet Axolotl & Gecko Animal Figures Garden & Accessories Birthday Gift 946 Pieces'
+prodname: 'LEGO Friends Liann s Family House 42687 | Toys for 7+ Year Old Girls & Boys 4 Mini Dolls Pet Axolotl & Gecko Animal Figures Garden & Accessories Gift 946 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDT6R3/?tag=tolees0a-21'
-descuento: '25.00'
-average: '42.7504761904761'
+descuento: '24.99'
+average: '42.9460869565217'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

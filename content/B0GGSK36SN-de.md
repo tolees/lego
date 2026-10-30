@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Jurassic World Transporter für den Jungen T.Rex 77978 | Spielzeug ab 4 Jahren für Jungen und Mädchen 2 Minifiguren und Quad Bauset für Rollenspiele mit T.Rex Geschenk 115 Teile'
-date: 2026-10-28 19:43:24
+date: 2026-10-29 23:14:15
 image: 'https://m.media-amazon.com/images/I/51REemop3YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSK36SN/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '19.7866666666667'
+average: '19.736875'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

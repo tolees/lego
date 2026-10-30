@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO DUPLO Peppa Pig Traktor und Marktstand 10468'
-date: 2026-10-14 10:28:44
-image: 'https://m.media-amazon.com/images/I/51hgswn-62L._SL500_._SL400_.jpg'
+title: 'LEGO DUPLO Peppa Pig Traktor und Marktstand 10468 | Spielzeug ab 2 Jahren für Jungen & Mädchen Montessori Set mit 2 Figuren inkl. Pedro Pony Geschenk für Kleinkinder 18 Teile'
+date: 2026-10-30 19:32:15
+image: 'https://m.media-amazon.com/images/I/51O1CG9okkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01MYVG8M7-de LEGO DUPLO Peppa Pig Traktor und Marktstand 10468'
+slug: 'B01MYVG8M7-de LEGO DUPLO Peppa Pig Traktor und Marktstand 10468 |...'
 sku: 'B01MYVG8M7-de'
 tags: [ 'lego','🇩🇪', ]
 actualPrice: 13.92 EUR
 currency: EUR
 price: 13.92
 comparePrice: 19.99 EUR
-prodname: 'LEGO DUPLO Peppa Pig Traktor und Marktstand 10468'
+prodname: 'LEGO DUPLO Peppa Pig Traktor und Marktstand 10468 | Spielzeug ab 2 Jahren für Jungen & Mädchen Montessori Set mit 2 Figuren inkl. Pedro Pony Geschenk für Kleinkinder 18 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''

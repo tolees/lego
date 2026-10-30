@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Bugatti Chiron Pur Sport Hypercar 42222 | Spielzeug ab 9 Jahren für Jungen Sportwagen Modellauto mit Lenkung W16-Motor und Türen Rennauto Geschenk 771 Teile'
-date: 2026-10-27 10:16:25
+date: 2026-10-29 10:24:36
 image: 'https://m.media-amazon.com/images/I/51mzaW-XEGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDNXZH/?tag=tolees0ca-21'
 descuento: '32.33'
-average: '39.5732258064515'
+average: '39.7109374999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

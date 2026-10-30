@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Marvel Duell der Giganten: Hulkbuster vs. Hulk 76343 | Superhelden Spielzeug ab 9 Jahren für Jungen mit Actionfigur & 2 Minifiguren inkl. Iron Man Avengers Geschenk 413 Teile'
-date: 2026-10-28 23:08:33
-image: 'https://m.media-amazon.com/images/I/51Q+J4XyzaL._SL500_._SL400_.jpg'
+date: 2026-10-30 11:11:36
+image: 'https://m.media-amazon.com/images/I/51NrIExG5YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFWSHG/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '33.4136956521738'
+average: '33.4046808510637'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

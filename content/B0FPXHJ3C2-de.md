@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO City Der LEGO Lieferwagen 60500 | Spielzeug ab 6 Jahren für Jungen Modellbau mit 2 Minifiguren Transportwagen und Zubehör Geburtstagsgeschenk 276 Teile'
-date: 2026-10-25 15:35:51
-image: 'https://m.media-amazon.com/images/I/51l1IEjuTyL._SL500_._SL400_.jpg'
+date: 2026-10-30 11:15:53
+image: 'https://m.media-amazon.com/images/I/51BX+nY2E9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHJ3C2/?tag=tolees0ca-21'
 descuento: '41.91'
-average: '17.8270535714283'
+average: '17.8100862068963'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

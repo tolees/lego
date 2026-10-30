@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Große Weihnachtsmann-Minifigur 40820 | Spielzeug ab 10 Jahren für Jungen feierlicher Modellbausatz mit Weihnachtsmann Figur weihnachtliches Geschenk 761 Teile'
-date: 2026-10-27 10:15:27
+date: 2026-10-29 10:22:34
 image: 'https://m.media-amazon.com/images/I/41WImQemDyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FTX2GX3N/?tag=tolees0ca-21'
 descuento: '27.09'
-average: '45.59'
+average: '45.3257142857143'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

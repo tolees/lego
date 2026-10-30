@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO City Airplane Service Truck & Hovercraft Remix 60505 | Toys for 7+ Year Old Boys Mix & Match Model Vehicles Kit 3 Minifigures STEM Set Birthday Gift Idea 990 Pieces'
-date: 2026-10-28 16:44:45
+title: 'LEGO City Airplane Service Truck & Hovercraft Remix 60505 | Toys for 7+ Year Old Boys & Girls Mix & Match Model Vehicles Kit 3 Minifigures STEM Set Birthday Gift Idea 990 pieces'
+date: 2026-10-30 20:37:22
 image: 'https://m.media-amazon.com/images/I/516wPg6gqXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 38.0 GBP
 currency: GBP
 price: 38.0
 comparePrice: 59.99 GBP
-prodname: 'LEGO City Airplane Service Truck & Hovercraft Remix 60505 | Toys for 7+ Year Old Boys Mix & Match Model Vehicles Kit 3 Minifigures STEM Set Birthday Gift Idea 990 Pieces'
+prodname: 'LEGO City Airplane Service Truck & Hovercraft Remix 60505 | Toys for 7+ Year Old Boys & Girls Mix & Match Model Vehicles Kit 3 Minifigures STEM Set Birthday Gift Idea 990 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCRR93/?tag=tolees0a-21'
 descuento: '36.66'
-average: '38.095625'
+average: '38.0927272727273'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

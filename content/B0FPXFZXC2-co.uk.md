@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Technic Porsche 911 GT3 R REXY AO Racing Car 42224'
-date: 2026-10-02 02:28:21
-image: 'https://m.media-amazon.com/images/I/51FpcF0mu2L._SL500_._SL400_.jpg'
+title: 'LEGO Technic Porsche 911 GT3 R REXY AO Racing Car 42224 | Toys for 11+ Year Old Boys & Girls Model Kit 6-Cylinder Engine & Rear-Wheel Drive Dinosaur Design Gift Idea 1313 pieces'
+date: 2026-10-30 09:14:22
+image: 'https://m.media-amazon.com/images/I/51rm7lEkmrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXFZXC2-co.uk LEGO Technic Porsche 911 GT3 R REXY AO Racing Car 42224'
+slug: 'B0FPXFZXC2-co.uk LEGO Technic Porsche 911 GT3 R REXY AO Racing Car 42224...'
 sku: 'B0FPXFZXC2-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 92.99 GBP
+actualPrice: 95.0 GBP
 currency: GBP
-price: 92.99
+price: 95.0
 comparePrice: 129.99 GBP
-prodname: 'LEGO Technic Porsche 911 GT3 R REXY AO Racing Car 42224'
+prodname: 'LEGO Technic Porsche 911 GT3 R REXY AO Racing Car 42224 | Toys for 11+ Year Old Boys & Girls Model Kit 6-Cylinder Engine & Rear-Wheel Drive Dinosaur Design Gift Idea 1313 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFZXC2/?tag=tolees0a-21'
-descuento: '28.46'
-average: '86.8691666666666'
+descuento: '26.92'
+average: '87.4946153846153'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

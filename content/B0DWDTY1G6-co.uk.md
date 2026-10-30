@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Minecraft The TNT Jungle House 21275 | Toys for 8+ Year Old Girls & Boys Interactive Set with a Boat model Steve Figure Creeper & Zombie Gaming Gift 287 Pieces'
-date: 2026-10-23 11:46:46
-image: 'https://m.media-amazon.com/images/I/515349Yg54L._SL500_._SL400_.jpg'
+date: 2026-10-30 13:00:07
+image: 'https://m.media-amazon.com/images/I/41mwldH-jUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

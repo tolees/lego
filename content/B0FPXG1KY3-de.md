@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Showdown auf der Drachenklinge 71871 | Spielzeug ab 9 Jahren für Jungen Drache Mech Actionfigur & 4 Minifiguren mit Katanas Zimmer Deko Geschenk 1016 Teile'
-date: 2026-10-28 11:48:53
+date: 2026-10-30 15:34:24
 image: 'https://m.media-amazon.com/images/I/51kH3J19tTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG1KY3/?tag=tolees0ca-21'
 descuento: '33.44'
-average: '61.2108333333332'
+average: '61.1099999999999'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

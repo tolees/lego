@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Hühnerfarm 21585 | Spielzeug ab 7 Jahren für Mädchen & Jungen mit Hühner Fan Minifigur Baby Zombie & Fuchs Figuren Gaming Geschenk 233 Teile'
-date: 2026-10-28 23:08:13
+date: 2026-10-30 11:10:38
 image: 'https://m.media-amazon.com/images/I/51H8V0q4i0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDBPSZ/?tag=tolees0ca-21'
 descuento: '40.02'
-average: '12.8493750000003'
+average: '12.8405154639178'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

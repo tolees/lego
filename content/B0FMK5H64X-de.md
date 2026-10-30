@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Spidey Piratenschiff von Spideys Team 11208 | Spielzeug ab 4 Jahren für Jungen und Mädchen Superhelden Set mit Schiffsmodell 2 Booten 4 Minifiguren Geschenk 201 Teile'
-date: 2026-10-28 19:42:57
+date: 2026-10-29 23:15:09
 image: 'https://m.media-amazon.com/images/I/51ae8T3lZOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FMK5H64X/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '33.2909523809523'
+average: '33.140909090909'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

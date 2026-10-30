@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Friends Fun Indoor Playground 42686 | Toys for 7+ Year Old Girls Slide & Roundabout 3 Mini Dolls & Accessories Birthday Gift Idea 668 Pieces'
-date: 2026-10-28 16:44:21
+title: 'LEGO Friends Fun Indoor Playground 42686 | Toys for 7+ Year Old Girls & Boys Slide & Roundabout 3 Mini Dolls & Accessories Birthday Gift Idea 668 pieces'
+date: 2026-10-30 20:36:53
 image: 'https://m.media-amazon.com/images/I/51D+Ai1HcgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 34.99 GBP
 currency: GBP
 price: 34.99
 comparePrice: 54.99 GBP
-prodname: 'LEGO Friends Fun Indoor Playground 42686 | Toys for 7+ Year Old Girls Slide & Roundabout 3 Mini Dolls & Accessories Birthday Gift Idea 668 Pieces'
+prodname: 'LEGO Friends Fun Indoor Playground 42686 | Toys for 7+ Year Old Girls & Boys Slide & Roundabout 3 Mini Dolls & Accessories Birthday Gift Idea 668 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXC1K1G/?tag=tolees0a-21'
 descuento: '36.37'
-average: '35.0522429906542'
+average: '35.05'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

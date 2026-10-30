@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Torjubel 43018 | Spielzeug ab 14 Jahren für Jugendliche DIY Deko 3D DIY Wandbild Set Teenager Fußball Geschenk für Sportfans 1427 Teile'
-date: 2026-10-28 19:43:13
+date: 2026-10-29 23:14:03
 image: 'https://m.media-amazon.com/images/I/51r8vFsu1fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FTFTDTGR/?tag=tolees0ca-21'
 descuento: '44.45'
-average: '115.080769230771'
+average: '114.852121212123'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

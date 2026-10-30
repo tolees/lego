@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons Der Herr der Ringe: Saurons Helm 11373 | Bausatz für Erwachsene Modellbau zum Ausstellen inkl. dem Einen Ring & Sammler Minifigur Geschenk für Filmfans 538 Teile'
-date: 2026-10-27 15:37:44
+date: 2026-10-30 11:07:05
 image: 'https://m.media-amazon.com/images/I/41SMcQkyUPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4NJ3HX/?tag=tolees0ca-21'
 descuento: '34.67'
-average: '50.3714545454545'
+average: '50.3229824561403'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

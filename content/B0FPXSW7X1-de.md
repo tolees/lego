@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Lukes Rot Fünf X-Wing - interaktives Spielzeug - All-in-1-Set - SMART Brick lässt Set darauf reagieren wie du spielst - Geschenk für Jungen Mädchen ab 6 Jahren - 75423'
-date: 2026-10-28 11:49:23
+date: 2026-10-29 15:22:57
 image: 'https://m.media-amazon.com/images/I/51dSsptCXzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXSW7X1/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '71.3895652173913'
+average: '70.9145833333333'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

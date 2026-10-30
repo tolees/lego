@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic NASA Artemis SLS-Schwerlastrakete 42221 | Spielzeug ab 9 Jahren für Jungen Rakete und Raumschiff Baumodell Konstruktionsspielzeug & Modellbau Geschenk 632 Teile'
-date: 2026-10-28 19:46:24
+date: 2026-10-29 23:19:19
 image: 'https://m.media-amazon.com/images/I/41Xtx5fxaDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDRV4H/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '39.6052631578949'
+average: '39.6131958762888'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

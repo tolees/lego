@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Minecraft Das Skelett 21594 | Spielzeug ab 10 Jahren für Jungen Mob Figur Diamanthelm Bogen Pfeil & Grasbasis Zimmerdeko Gaming Geschenk 502 Teile'
-date: 2026-10-28 23:09:03
-image: 'https://m.media-amazon.com/images/I/51aijSL4fEL._SL500_._SL400_.jpg'
+date: 2026-10-30 11:12:25
+image: 'https://m.media-amazon.com/images/I/51VsARXNnTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG724G/?tag=tolees0ca-21'
 descuento: '35.56'
-average: '30.7627272727273'
+average: '30.7233333333334'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Kombinationsset Flugzeug Wartungsfahrzeug Luftkissenboot 60505 | Spielzeug ab 7 Jahren für Jungen Fahrzeug-Spielzeug Mix & Match Modellbau mit 3 Minifiguren Geburtstagsgeschenk 990 Teile'
-date: 2026-10-28 23:06:53
+date: 2026-10-29 23:16:54
 image: 'https://m.media-amazon.com/images/I/516wPg6gqXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCRR93/?tag=tolees0ca-21'
 descuento: '33.29'
-average: '45.5140845070419'
+average: '45.5304166666663'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

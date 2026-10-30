@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Editions Offizieller Pokal der FIFA Fußball-Weltmeisterschaft 43020 | Spielzeug ab 12 Jahren für Jungen 3D DIY Modell mit sammelbarer Minifigur Fußball Geschenk für Sportfans 2842 Teile'
-date: 2026-10-28 11:48:58
-image: 'https://m.media-amazon.com/images/I/41frAAmFBNL._SL500_._SL400_.jpg'
+date: 2026-10-30 15:34:33
+image: 'https://m.media-amazon.com/images/I/41DCeQAQnRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDRR63/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '124.005084745763'
+average: '123.750158730159'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

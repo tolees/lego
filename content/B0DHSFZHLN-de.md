@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars: Logo Steinen 75407 | Bausatz für Erwachsene Popkultur-Modell Bauset zum Sammeln Ausstellungsstück für das Büro Geschenkidee 700 Teile'
-date: 2026-10-27 10:15:33
+date: 2026-10-29 10:22:39
 image: 'https://m.media-amazon.com/images/I/4159YHdqSBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DHSFZHLN/?tag=tolees0ca-21'
 descuento: '32.88'
-average: '46.2211538461536'
+average: '46.2492592592591'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

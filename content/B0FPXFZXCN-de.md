@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars AT-AT 75440 | Bausatz für Erwachsene Das Imperium Modellbau Snowspeeder Ständer & Namensschild DIY Deko fürs Regal Geschenk 525 Teile'
-date: 2026-10-25 15:51:44
+date: 2026-10-30 19:32:38
 image: 'https://m.media-amazon.com/images/I/41ldtujVBjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFZXCN/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '43.1543859649123'
+average: '42.6517647058824'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Gabby s Dollhouse Kitty Fees Gartenhaus 11212 | Spielzeug ab 4 Jahren für Jungen und Mädchen Puppen Gabby & Kitty Fee Minifiguren Puppenhaus Zubehör Geschenk 103 Teile'
-date: 2026-10-28 11:48:21
+date: 2026-10-29 15:23:13
 image: 'https://m.media-amazon.com/images/I/51dOB7sPEXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGPD1N9S/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '9.97888888888888'
+average: '9.97999999999999'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

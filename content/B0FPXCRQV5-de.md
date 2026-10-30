@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Aristocats: Bezaubernde Marie 43286 | Spielzeug ab 7 Jahren für Mädchen Katzenfigur mit Zubehör Textilschleife DIY Deko fürs Schlafzimmer Geschenk 369 Teile'
-date: 2026-10-28 23:06:49
+date: 2026-10-29 23:16:38
 image: 'https://m.media-amazon.com/images/I/51-sOgk5UiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCRQV5/?tag=tolees0ca-21'
 descuento: '32.51'
-average: '26.5107017543861'
+average: '26.5189655172415'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

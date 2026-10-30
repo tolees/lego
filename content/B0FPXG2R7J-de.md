@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hagrids und Harrys Flucht aus dem Ligusterweg 76459 | Spielzeug ab 8 Jahren für Jungen & Mädchen Motorrad Modell mit 4 Minifiguren 2 Todesser Straßenszene Geschenk 124 Teile'
-date: 2026-10-28 19:44:55
+date: 2026-10-29 23:18:03
 image: 'https://m.media-amazon.com/images/I/51HeN5Rs3eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG2R7J/?tag=tolees0ca-21'
 descuento: '35.07'
-average: '12.88141025641'
+average: '12.8826582278479'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

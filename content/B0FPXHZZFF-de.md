@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Gelber Baggerlader 60480 | Spielzeug ab 7 Jahren für Jungen Traktor mit 2 Minifiguren Baufahrzeug Modellbausatz Geburtstagsgeschenk 301 Teile'
-date: 2026-10-28 23:11:14
+date: 2026-10-30 11:06:27
 image: 'https://m.media-amazon.com/images/I/51GJ3XVS1jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHZZFF/?tag=tolees0ca-21'
 descuento: '36.68'
-average: '20.1003703703704'
+average: '20.0607142857143'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

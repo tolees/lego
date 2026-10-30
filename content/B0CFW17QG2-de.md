@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO City Raumschiff Weltraum-Spielzeug mit Space Shuttle für Kinder zum Bauen Jungen und Mädchen ab 6 Jahren Set mit Astronaut-Figur 60430'
-date: 2026-03-30 11:48:10
-image: 'https://m.media-amazon.com/images/I/51l--9fjfrL._SL500_._SL400_.jpg'
+title: 'LEGO City Raumschiff 60430 | Spielzeug ab 6 Jahren für Jungen Space Shuttle Weltraum-Spielzeug Set mit Astronaut-Figur Geschenk für Kinder 240 Teile'
+date: 2026-10-29 15:23:28
+image: 'https://m.media-amazon.com/images/I/51zKfOFCFTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CFW17QG2-de LEGO City Raumschiff Weltraum-Spielzeug mit Space Shuttle...'
+slug: 'B0CFW17QG2-de LEGO City Raumschiff 60430 | Spielzeug ab 6 Jahren für...'
 sku: 'B0CFW17QG2-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 14.99 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 14.99
+price: 12.99
 comparePrice: 19.99 EUR
-prodname: 'LEGO City Raumschiff Weltraum-Spielzeug mit Space Shuttle für Kinder zum Bauen Jungen und Mädchen ab 6 Jahren Set mit Astronaut-Figur 60430'
+prodname: 'LEGO City Raumschiff 60430 | Spielzeug ab 6 Jahren für Jungen Space Shuttle Weltraum-Spielzeug Set mit Astronaut-Figur Geschenk für Kinder 240 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CFW17QG2/?tag=tolees0ca-21'
-descuento: '25.01'
-average: '14.7717073170733'
+descuento: '35.02'
+average: '14.6888372093024'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,6 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschenk für Weltraum-Fans: Dieses LEGO City Bauset ist ein tolles Weltraum-Geschenk für Kinder zum Geburtstag oder zu Weihnachten, das Jungen und Mädchen ab 6 Jahren besonders viel Spaß macht
-- Kreatives Spielen: Dein Kind kann einen Spielzeug-Akkusatz in das LEGO City Raumschiff stecken, um die Hauptschubdüsen des Raumschiffs auszuklappen und mit Lichtgeschwindigkeit zu fliegen, und den Drohnenroboter in einen Raketenrucksack verwandeln
-- Inhalt der Box: Dieses faszinierende Weltraum-Spielzeug für Kinder ab 6 Jahren beinhaltet alles, was Kinder brauchen, um ein LEGO Space Shuttle-Spielzeug, einen Drohnenroboter und eine Astronaut-Figur zu bauen
-- Raumschiff-Spielzeug für ein fantasievolles Spielerlebnis: Junge Weltraum-Fans können mit diesem LEGO City Raumschiff zu galaktischen Actionabenteuern aufbrechen
-- Entdecke weitere LEGO Weltraum-Spielsets: Für weitere spannende Abenteuer muss dein Kind dieses Astronaut-Spielzeug nur mit anderen separat erhältlichen LEGO City Sets kombinieren
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFW17QG2{{</world>}}

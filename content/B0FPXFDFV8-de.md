@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Scuderia Ferrari HP Charles Leclerc Helm 43014 | Spielzeug ab 14 Jahren für Jugendliche F1 Modellbausatz mit sammelbarer Minifigur Formel 1 Geschenk 886 Teile'
-date: 2026-10-28 23:07:04
+date: 2026-10-29 23:16:33
 image: 'https://m.media-amazon.com/images/I/411bv4++bhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFDFV8/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '61.3748979591838'
+average: '61.3472000000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

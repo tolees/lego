@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Motorradtransporter 60491 | Spielzeug ab 4 Jahren für Jungen und Mädchen Transporter & 2 Motorräder Modelle Rampe & Zubehör Geschenk 88 Teile'
-date: 2026-10-28 23:07:27
+date: 2026-10-29 23:17:29
 image: 'https://m.media-amazon.com/images/I/51+gYtZpdcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD23ST/?tag=tolees0ca-21'
 descuento: '33.52'
-average: '13.3686075949366'
+average: '13.3676249999999'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

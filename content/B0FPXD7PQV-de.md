@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Technic Monster Jam Sparkle Smash mit Rückziehmotor 42220 | Spielzeug ab 7 Jahren für Jungen Monstertruck und Einhorn Monster Truck Spielzeug kreatives Geschenk 243 Teile'
-date: 2026-10-28 23:07:37
-image: 'https://m.media-amazon.com/images/I/51+Fo510JLL._SL500_._SL400_.jpg'
+date: 2026-10-29 23:17:40
+image: 'https://m.media-amazon.com/images/I/51yKwGmeKrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD7PQV/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '19.3208602150537'
+average: '19.3067021276596'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

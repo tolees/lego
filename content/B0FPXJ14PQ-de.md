@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Feentassen-Karussell mit Blumendeko 42702 | Spielzeug ab 7 Jahren für Mädchen Spielzeug mit 3 Minifiguren Fotokabine & Zubehör Kinderzimmer Deko Geschenk 321 Teile'
-date: 2026-10-28 23:11:19
+date: 2026-10-30 11:06:33
 image: 'https://m.media-amazon.com/images/I/51wmeWW9gBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXJ14PQ-de LEGO Friends Feentassen-Karussell mit Blumendeko 42702 |...'
 sku: 'B0FPXJ14PQ-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 26.99 EUR
+actualPrice: 26.9 EUR
 currency: EUR
-price: 26.99
+price: 26.9
 comparePrice: 39.99 EUR
 prodname: 'LEGO Friends Feentassen-Karussell mit Blumendeko 42702 | Spielzeug ab 7 Jahren für Mädchen Spielzeug mit 3 Minifiguren Fotokabine & Zubehör Kinderzimmer Deko Geschenk 321 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJ14PQ/?tag=tolees0ca-21'
-descuento: '32.51'
-average: '26.6057894736842'
+descuento: '32.73'
+average: '26.6205'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

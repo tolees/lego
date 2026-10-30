@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO City Verfolgungsjagd mit Polizeiauto und Muscle Car 60415 | Spielzeug ab 6 Jahren für Jungen Auto-Spielezug mit 2 Rennautos mit Polizist und Ganovin-Minifiguren Geschenk 213 Teile'
-date: 2026-10-22 10:38:08
-image: 'https://m.media-amazon.com/images/I/516I3ztq7yL._SL500_._SL400_.jpg'
+date: 2026-10-29 23:14:52
+image: 'https://m.media-amazon.com/images/I/51mXKOKJfbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CFW1BPKM/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '14.2894444444445'
+average: '14.221052631579'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

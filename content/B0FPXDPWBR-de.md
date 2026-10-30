@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Heartlake City Clubhaus der Freunde 42689 | Spielzeug ab 8 Jahren für Mädchen mit 5 Mini Puppen 3 Tierfiguren inkl. Spielzeug Katze und Zubehör Geschenk 794 Teile'
-date: 2026-10-28 23:09:13
+date: 2026-10-30 11:12:12
 image: 'https://m.media-amazon.com/images/I/51Of6CB-JSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDPWBR/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '60.3905714285713'
+average: '60.3794444444444'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

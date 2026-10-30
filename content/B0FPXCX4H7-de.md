@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Friedenslilie 11504 | Bausatz für Erwachsene künstliche weiße Blüten und Knospen DIY Deko Set mit Kunstpflanze Geschenkidee 474 Teile'
-date: 2026-10-28 23:07:09
+date: 2026-10-29 23:17:12
 image: 'https://m.media-amazon.com/images/I/415t33B38JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCX4H7/?tag=tolees0ca-21'
 descuento: '43.34'
-average: '38.1801851851852'
+average: '38.104'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

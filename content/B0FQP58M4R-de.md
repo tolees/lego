@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Stitch und Scrump 43296 | Spielzeug ab 9 Jahren für Mädchen & Jungen 2 Figuren mit Zubehör Ukulele als Zimmerdeko Geburtstagsgeschenk 713 Teile'
-date: 2026-10-28 19:42:16
+date: 2026-10-29 23:13:33
 image: 'https://m.media-amazon.com/images/I/51+uk3IpxML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FQP58M4R/?tag=tolees0ca-21'
 descuento: '32.88'
-average: '47.389512195122'
+average: '47.379761904762'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

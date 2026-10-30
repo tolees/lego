@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Ken Block s 65 Ford Mustang Hoonicorn V1-77262 | Toys for 9+ Year Old Boys Muscle Car Model Kit Driver Minifigure Kids Room Decor STEM Gift Idea 345 Pieces'
-date: 2026-10-28 08:44:39
+title: 'LEGO Speed Champions Ken Block s 65 Ford Mustang Hoonicorn V1 - 77262 | Toys for 9+ Year Old Boys & Girls Muscle Car Model Kit Driver Minifigure Kids Room Decor STEM Gift Idea 345 pieces'
+date: 2026-10-30 13:20:56
 image: 'https://m.media-amazon.com/images/I/51vK8ZtR59L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 15.99 GBP
 currency: GBP
 price: 15.99
 comparePrice: 22.99 GBP
-prodname: 'LEGO Speed Champions Ken Block s 65 Ford Mustang Hoonicorn V1-77262 | Toys for 9+ Year Old Boys Muscle Car Model Kit Driver Minifigure Kids Room Decor STEM Gift Idea 345 Pieces'
+prodname: 'LEGO Speed Champions Ken Block s 65 Ford Mustang Hoonicorn V1 - 77262 | Toys for 9+ Year Old Boys & Girls Muscle Car Model Kit Driver Minifigure Kids Room Decor STEM Gift Idea 345 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''

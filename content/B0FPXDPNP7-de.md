@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Duell mit Jays Drachen-Mech 71853 | Spielzeug ab 4 Jahren für Jungen & Mädchen Modellbau 2 Actionfiguren 2 Minifiguren Katana & Schwert Geschenk 107 Teile'
-date: 2026-10-28 19:44:49
+date: 2026-10-29 23:18:50
 image: 'https://m.media-amazon.com/images/I/51bUtT-QA0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDPNP7/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '13.1820000000002'
+average: '13.1645454545456'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

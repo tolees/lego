@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Star Wars Grogu Mandalorian Apprentice 75446 | Toys for 10+ Year Old Boys Display Figure Model Kit Beskar Armour Kids Room Decor Gift Idea 1200 Pieces'
-date: 2026-10-28 16:46:09
+title: 'LEGO Star Wars Grogu Mandalorian Apprentice 75446 | Toys for 10+ Year Old Boys & Girls Display Figure Model Kit Beskar Armour Kids Room Decor Gift Idea 1200 pieces'
+date: 2026-10-30 20:39:34
 image: 'https://m.media-amazon.com/images/I/51DV-SZS94L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 74.99 GBP
 currency: GBP
 price: 74.99
 comparePrice: 119.99 GBP
-prodname: 'LEGO Star Wars Grogu Mandalorian Apprentice 75446 | Toys for 10+ Year Old Boys Display Figure Model Kit Beskar Armour Kids Room Decor Gift Idea 1200 Pieces'
+prodname: 'LEGO Star Wars Grogu Mandalorian Apprentice 75446 | Toys for 10+ Year Old Boys & Girls Display Figure Model Kit Beskar Armour Kids Room Decor Gift Idea 1200 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFMP3M/?tag=tolees0a-21'
 descuento: '37.50'
-average: '71.9047586206895'
+average: '71.9875838926174'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

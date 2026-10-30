@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Sonnenblumen 11502 | Bausatz für Erwachsene künstliche Sonnenblumen & Eukalyptuszweige Deko im Wohn- oder Schlafzimmer Geschenkidee 686 Teile'
-date: 2026-10-28 19:46:37
+date: 2026-10-29 23:18:19
 image: 'https://m.media-amazon.com/images/I/41vlVOC7yfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGD4DQ/?tag=tolees0ca-21'
 descuento: '41.67'
-average: '38.1370588235294'
+average: '37.9622222222222'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

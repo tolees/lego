@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Engage in explosive combat with spectacular weapons, power-ups, and gadgets.
-- Enjoy an exciting mix of action, exploration, customization and laugh-out-loud LEGO humor.
-- Experience thrilling online and couch co-op action with friends and family
 - Explore the much-loved world of Horizon and come face-to-face with the game’s awe-inspiring machines – all faithfully recreated in LEGO bricks.
+- Enjoy an exciting mix of action, exploration, customization and laugh-out-loud LEGO humor.
+- Engage in explosive combat with spectacular weapons, power-ups, and gadgets.
+- Experience thrilling online and couch co-op action with friends and family
 - Customize your home and your characters
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic Kreative Bunte Steine 11045 | Spielzeug ab 5 Jahren für Jungen Lernspielzeug mit Dinosaurierfiguren & Fahrzeuge inkl. Flugzeug & Auto Geschenk 820 Teile'
-date: 2026-10-28 23:08:49
+date: 2026-10-30 11:11:47
 image: 'https://m.media-amazon.com/images/I/51vDir6ts4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG1H81/?tag=tolees0ca-21'
 descuento: '34.03'
-average: '33.0215094339621'
+average: '33.0207407407405'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

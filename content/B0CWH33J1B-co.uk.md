@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 5 Modules, including an off-roader, that rearrange for multiple ways to play
-- Collectible Avengers LEGO Marvel characters, including Thor and Hulk figures
 - Avengers playset building toy based on Marvel Studios’ Avengers: Age of Ultron
+- Collectible Avengers LEGO Marvel characters, including Thor and Hulk figures
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CWH33J1B{{</world>}}

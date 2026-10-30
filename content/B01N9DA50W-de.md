@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Disney Frozen Kreativbox mit ELSA und Olaf 10462 | Spielzeug ab 2 Jahren für Jungen & Mädchen Montessori Set mit 2 Figuren Lernspielzeug Geschenk für Kinder 37 Teile'
-date: 2026-10-28 11:48:36
+date: 2026-10-29 15:23:23
 image: 'https://m.media-amazon.com/images/I/51lB9rZh63L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9DA50W/?tag=tolees0ca-21'
 descuento: '33.87'
-average: '13.3731578947367'
+average: '13.3654999999998'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

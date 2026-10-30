@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Technic Ford Bronco SUV 42213'
-date: 2026-10-07 07:07:13
-image: 'https://m.media-amazon.com/images/I/51z-rb07uML._SL500_._SL400_.jpg'
+title: 'LEGO Technic Ford Bronco SUV 42213 | Toys for 9+ Year Old Boys & Girls Off-Road Car Model Kit Opening Doors & Suspension Birthday Gift Idea 943 pieces'
+date: 2026-10-29 20:31:14
+image: 'https://m.media-amazon.com/images/I/51Yn+HO2oXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDQ8BN5-co.uk LEGO Technic Ford Bronco SUV 42213'
+slug: 'B0DWDQ8BN5-co.uk LEGO Technic Ford Bronco SUV 42213 | Toys for 9+ Year...'
 sku: 'B0DWDQ8BN5-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 36.99 GBP
+actualPrice: 37.99 GBP
 currency: GBP
-price: 36.99
+price: 37.99
 comparePrice: 54.99 GBP
-prodname: 'LEGO Technic Ford Bronco SUV 42213'
+prodname: 'LEGO Technic Ford Bronco SUV 42213 | Toys for 9+ Year Old Boys & Girls Off-Road Car Model Kit Opening Doors & Suspension Birthday Gift Idea 943 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DWDQ8BN5/?tag=tolees0a-21'
-descuento: '32.73'
-average: '38.3233333333333'
+descuento: '30.91'
+average: '38.19'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

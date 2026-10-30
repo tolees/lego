@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto 77248 | Spielzeug ab 10 Jahren für Jungen mit Formel 1 Minifigur zum Sammeln Motorsport Fans F1 Geschenk für Kinder 258 Teile'
-date: 2026-10-27 10:15:50
-image: 'https://m.media-amazon.com/images/I/51Ew3Rv2R6L._SL500_._SL400_.jpg'
+date: 2026-10-29 10:22:54
+image: 'https://m.media-amazon.com/images/I/51dlrTW9iTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0DHSF1PW6/?tag=tolees0ca-21'
 descuento: '38.90'
-average: '17.3012903225807'
+average: '17.2759375000001'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

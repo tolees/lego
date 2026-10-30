@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO City Flughafen mit Flugzeug 60502 | Spielzeug ab 8 Jahren für Jungen Miniatur Modellbau 9 Minifiguren & Zubehör Spielzeug-Flugzeug Geschenk 887 Teile'
-date: 2026-10-28 23:06:32
-image: 'https://m.media-amazon.com/images/I/51WpuE3SY6L._SL500_._SL400_.jpg'
+date: 2026-10-29 23:16:04
+image: 'https://m.media-amazon.com/images/I/51IP0Ik1saL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXC27PT/?tag=tolees0ca-21'
 descuento: '36.00'
-average: '64.1067567567565'
+average: '64.103684210526'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

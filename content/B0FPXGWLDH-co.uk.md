@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Enchanted Flying Ford Anglia 76470 | Set for 14+ Year Old Boys & Girls Car Model Kit Harry & Ron Figures Hedwig Owl Gift Idea for Teenagers 868 Pieces'
-date: 2026-10-28 16:46:43
+date: 2026-10-30 20:40:17
 image: 'https://m.media-amazon.com/images/I/51SFcC1KPAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXGWLDH/?tag=tolees0a-21'
 descuento: '38.59'
-average: '43.5572222222225'
+average: '43.5475210084037'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

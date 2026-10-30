@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Rapunzels Schloss 43297 | Spielzeug ab 6 Jahren für Mädchen Ausstellungsmodell mit 4 Mini Puppen Pascal Figur & Zubehör Geschenk 676 Teile'
-date: 2026-10-28 19:42:30
+date: 2026-10-29 23:13:42
 image: 'https://m.media-amazon.com/images/I/51EpHWVYCpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FR9JYZBR/?tag=tolees0ca-21'
 descuento: '36.00'
-average: '65.8024999999998'
+average: '65.695882352941'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

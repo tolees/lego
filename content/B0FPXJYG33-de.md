@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Minecraft Der Enderdrache 21595 | Interaktives Spielzeug ab 10 Jahren für Jungen schlagende Flügel & Exit Portal-Ständer Deko Gaming Geschenk 710 Teile'
-date: 2026-10-28 23:05:48
-image: 'https://m.media-amazon.com/images/I/41aTYqjrG1L._SL500_._SL400_.jpg'
+date: 2026-10-29 23:12:21
+image: 'https://m.media-amazon.com/images/I/41o9FTGOVvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJYG33/?tag=tolees0ca-21'
 descuento: '38.34'
-average: '39.4397499999998'
+average: '39.3799999999998'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

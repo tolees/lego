@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Der Astromech-Droide BB-8 75452 | Spielzeug ab 10 Jahren für Jungen & Mädchen Sammelbares Spielzeug zum Spielen und Ausstellen DIY Deko Geschenk 569 Teile'
-date: 2026-10-28 11:48:47
+date: 2026-10-30 15:34:19
 image: 'https://m.media-amazon.com/images/I/51iUbZ5zTtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFW6PM/?tag=tolees0ca-21'
 descuento: '33.35'
-average: '57.8819607843133'
+average: '57.9143629343626'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

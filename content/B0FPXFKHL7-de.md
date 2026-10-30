@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wilde Tiere: Majestätischer Löwe 31386 | Spielzeug ab 9 Jahren für Jungen Bauset mit Löwe Löwin oder 2 Löwenjunge zum Bauen und Ausstellen Geschenk 839 Teile'
-date: 2026-10-28 23:07:22
+date: 2026-10-29 23:16:49
 image: 'https://m.media-amazon.com/images/I/51tBrLY0tSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFKHL7/?tag=tolees0ca-21'
 descuento: '33.85'
-average: '42.9777272727272'
+average: '42.9782608695651'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

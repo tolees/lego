@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Millennium Falke - Spielzeug für Kinder - Kompatibles Set mit 4 SMART Tags und 4 Minifiguren - Geschenk für Jungen Mädchen und Star Wars Fans ab 9 Jahren - 75426'
-date: 2026-10-28 19:37:57
-image: 'https://m.media-amazon.com/images/I/51l6f6u3utL._SL500_._SL400_.jpg'
+date: 2026-10-29 23:12:40
+image: 'https://m.media-amazon.com/images/I/51Yl5SLpREL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXQLVBV/?tag=tolees0ca-21'
 descuento: '40.00'
-average: '67.427027027027'
+average: '67.2313157894736'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Rosenstrauß 10328 | Bausatz für Erwachsene Set aus Kunstblumen DIY Deko zum bauen 12 künstlichen Rosen & Schleierkraut Geschenk 822 Teile'
-date: 2026-10-27 10:15:21
+date: 2026-10-29 10:22:28
 image: 'https://m.media-amazon.com/images/I/51ph17VrvEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MRT58RZ/?tag=tolees0ca-21'
 descuento: '37.51'
-average: '41.3824218750003'
+average: '41.3225384615388'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

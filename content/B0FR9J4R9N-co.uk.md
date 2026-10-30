@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Disney Princess Pua 43292 | Toys for 9+ Year Old Girls Pig Animal Figure Crab & Raft Stand Kids Bedroom Decor Birthday Gift 885 Pieces'
-date: 2026-10-28 16:47:26
+title: 'LEGO Disney Princess Pua 43292 | Toys for 9+ Year Old Girls & Boys Pig Animal Figure Crab & Raft Stand Kids Bedroom Decor Birthday Gift 885 pieces'
+date: 2026-10-30 20:41:00
 image: 'https://m.media-amazon.com/images/I/51FXyPkllnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 39.99 GBP
 currency: GBP
 price: 39.99
 comparePrice: 59.99 GBP
-prodname: 'LEGO Disney Princess Pua 43292 | Toys for 9+ Year Old Girls Pig Animal Figure Crab & Raft Stand Kids Bedroom Decor Birthday Gift 885 Pieces'
+prodname: 'LEGO Disney Princess Pua 43292 | Toys for 9+ Year Old Girls & Boys Pig Animal Figure Crab & Raft Stand Kids Bedroom Decor Birthday Gift 885 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FR9J4R9N/?tag=tolees0a-21'
 descuento: '33.34'
-average: '40.8844444444444'
+average: '40.7218181818182'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

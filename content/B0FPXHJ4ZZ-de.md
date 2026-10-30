@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Erstes Abenteuer in der Nacht 21593 | Interaktives Spielzeug ab 8 Jahren für Jungen mit 7 Figuren inkl. Alex Skelett & Waldwolf Gaming Geschenk 301 Teile'
-date: 2026-10-28 23:11:04
+date: 2026-10-30 11:16:06
 image: 'https://m.media-amazon.com/images/I/51taqf8ydnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHJ4ZZ/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.2899999999999'
+average: '20.266923076923'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

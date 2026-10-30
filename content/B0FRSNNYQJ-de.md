@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Kosmeen 11514 | Spielzeug ab 9 Jahren für Mädchen künstlicher Blumenstrauß DIY Kunstblumen Kinderzimmer Deko Geschenk 171 Teile'
-date: 2026-10-28 19:42:52
+date: 2026-10-29 23:13:53
 image: 'https://m.media-amazon.com/images/I/41arfRfkrVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FRSNNYQJ/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '10.1378947368421'
+average: '10.1305'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

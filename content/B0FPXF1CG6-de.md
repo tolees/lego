@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Haustierzubehör-Van 42678 | Spielzeug ab 6 Jahren für Mädchen & Jungen mit 2 Mini Puppen Hund- Katzen- & Froschfigur Geschenk 237 Teile'
-date: 2026-10-28 23:09:18
+date: 2026-10-30 11:12:31
 image: 'https://m.media-amazon.com/images/I/51ZuyM6tTuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF1CG6/?tag=tolees0ca-21'
 descuento: '35.07'
-average: '12.4634426229511'
+average: '12.4717741935486'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Editions Kylian Mbappé – Fußball-Highlights 43013 | Spielzeug ab 10 Jahren für Jungen 3D Modellbau mit Minifigur zum Sammeln Kinderzimmer Deko Geschenk 490 Teile'
-date: 2026-10-28 23:08:29
-image: 'https://m.media-amazon.com/images/I/51n8Tou4MsL._SL500_._SL400_.jpg'
+date: 2026-10-30 11:11:08
+image: 'https://m.media-amazon.com/images/I/51lreRpv2xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDCDX2/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '20.1755999999999'
+average: '20.1717647058822'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

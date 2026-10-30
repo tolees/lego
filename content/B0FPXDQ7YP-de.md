@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Blasser Garten 21586 | Spielzeug ab 7 Jahren für Jungen Minecraft Figuren Spielzeugbiom Mottenmann Creeper Skelett & Knarz Geschenk 243 Teile'
-date: 2026-10-28 19:45:00
+date: 2026-10-29 23:19:08
 image: 'https://m.media-amazon.com/images/I/51MSrcWWxeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDQ7YP/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '12.8552845528458'
+average: '12.8574400000003'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

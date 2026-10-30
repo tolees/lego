@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Peppa Pig Familienhaus 10467 | Spielzeug ab 2 Jahren für Jungen und Mädchen Montessori Spielzeug mit 5 Figuren und Puppenhaus Zubehör Geschenk 84 Teile'
-date: 2026-10-28 23:09:23
+date: 2026-10-30 11:12:44
 image: 'https://m.media-amazon.com/images/I/51c2Eq+ioqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGMSQ3/?tag=tolees0ca-21'
 descuento: '34.29'
-average: '46.5354545454544'
+average: '46.5233333333332'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

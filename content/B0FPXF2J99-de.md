@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Star Wars Angriff des AT-RT 75444 | Spielzeug ab 7 Jahren für Jungen mit imperialem Walker Turm Mandalorianer Minifigur & Grogu Figur Geschenk 297 Teile'
-date: 2026-10-28 23:09:33
-image: 'https://m.media-amazon.com/images/I/51pXN8o2zmL._SL500_._SL400_.jpg'
+date: 2026-10-30 11:09:55
+image: 'https://m.media-amazon.com/images/I/51-zxTAFhML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF2J99/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '30.8885714285714'
+average: '30.8676744186047'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Rollschuh 31148 | Spielzeug ab 8 Jahren für Mädchen und Jungen Bausatz umbaubar in Mini-Skateboard oder Boombox Radio Geschenk 342 Teile'
-date: 2026-10-27 10:16:43
-image: 'https://m.media-amazon.com/images/I/518pxfVoNeL._SL500_._SL400_.jpg'
+date: 2026-10-29 10:24:56
+image: 'https://m.media-amazon.com/images/I/51aNPTYe6GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0CFW1FPFJ/?tag=tolees0ca-21'
 descuento: '37.01'
-average: '19.9876576576575'
+average: '19.9682300884954'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

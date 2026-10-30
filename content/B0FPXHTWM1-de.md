@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Bluey: Omas mit Bingo und Bluey 11216 | Spielzeug ab 4 Jahren für Jungen & Mädchen 2 Minifiguren und Garten Lernspielzeug mit Auto Modell Geschenk 80 Teile'
-date: 2026-10-28 23:11:09
+date: 2026-10-30 11:06:22
 image: 'https://m.media-amazon.com/images/I/51VM-TyKQWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHTWM1/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '9.89625000000001'
+average: '9.90666666666667'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Einhorn-Traumcafé 42684 | Spielzeug ab 6 Jahren für Mädchen Kuchenladen mit 3 Mini Puppen Kasse & Spielzeug Lebensmittelzubehör Geschenk 475 Teile'
-date: 2026-10-28 23:06:28
+date: 2026-10-29 23:15:47
 image: 'https://m.media-amazon.com/images/I/51BoTWOKGbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPVZ2B9Y/?tag=tolees0ca-21'
 descuento: '32.53'
-average: '25.7796385542164'
+average: '25.7939285714281'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

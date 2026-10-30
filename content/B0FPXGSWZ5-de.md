@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Zaubererläden in der Winkelgasse 76471 | Spielzeug ab 8 Jahren für Jungen Miniatur Modellbau mit 8 Minifiguren und sammelbarem Patronus Deko Geschenk 788 Teile'
-date: 2026-10-28 23:09:53
+date: 2026-10-30 11:13:09
 image: 'https://m.media-amazon.com/images/I/51sAkJeN9cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGSWZ5/?tag=tolees0ca-21'
 descuento: '35.00'
-average: '64.9227272727271'
+average: '64.9256521739129'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

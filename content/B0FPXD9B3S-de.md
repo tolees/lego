@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Wilder Dinosaurier 31379 | Spielzeug ab 8 Jahren für Jungen 3 Bauoptionen: Velociraptor Stegosaurus oder Flugsaurier Figuren Geschenk 283 Teile'
-date: 2026-10-28 19:44:29
+date: 2026-10-29 23:17:56
 image: 'https://m.media-amazon.com/images/I/51vxo2pD7HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD9B3S/?tag=tolees0ca-21'
 descuento: '36.05'
-average: '15.8290243902437'
+average: '15.8308433734938'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

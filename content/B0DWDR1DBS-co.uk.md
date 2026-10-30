@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO ONE PIECE Buggy the Clown s Circus Tent 75637 | Toys for 8+ Year Old Boys & Girls Interactive Set 4 Minifigures 2 Collectible Wanted Posters Gift Idea 573 Pieces'
-date: 2026-10-21 07:24:17
-image: 'https://m.media-amazon.com/images/I/512m4vmZvGL._SL500_._SL400_.jpg'
+date: 2026-10-30 09:13:56
+image: 'https://m.media-amazon.com/images/I/51B4WmGtMHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
