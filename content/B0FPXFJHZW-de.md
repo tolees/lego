@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Bluey: Schule mit Rusty und Bluey 11221 | Spielzeug ab 4 Jahren für Jungen & Mädchen 2 Minifiguren & Spiellebensmittel Zubehör Montessori Geschenk 106 Teile'
+date: 2026-10-28 19:44:19
+image: 'https://m.media-amazon.com/images/I/51ARCTtD5JL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXFJHZW-de LEGO Bluey: Schule mit Rusty und Bluey 11221 | Spielzeug...'
+sku: 'B0FPXFJHZW-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
+comparePrice: 24.99 EUR
+prodname: 'LEGO Bluey: Schule mit Rusty und Bluey 11221 | Spielzeug ab 4 Jahren für Jungen & Mädchen 2 Minifiguren & Spiellebensmittel Zubehör Montessori Geschenk 106 Teile'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXFJHZW/?tag=tolees0ca-21'
+descuento: '36.01'
+average: '16.0629411764705'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0FPXFJHZW{{</world>}}

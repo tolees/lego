@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Icons Cachorro de Golden Retriever 11384 | Set para adultos maqueta 3D figura articulada de perro con collar y medallón regalo de cumpleaños 2102 piezas'
+date: 2026-10-25 08:19:15
+image: 'https://m.media-amazon.com/images/I/41O1fNdn0WL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXFPJFY-es LEGO Icons Cachorro de Golden Retriever 11384 | Set para...'
+sku: 'B0FPXFPJFY-es'
+tags: [ 'lego','🇪🇸', ]
+actualPrice: 104.99 EUR
+currency: EUR
+price: 104.99
+comparePrice: 139.99 EUR
+prodname: 'LEGO Icons Cachorro de Golden Retriever 11384 | Set para adultos maqueta 3D figura articulada de perro con collar y medallón regalo de cumpleaños 2102 piezas'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FPXFPJFY/?tag=tolees-21'
+descuento: '25.00'
+average: '109.996666666667'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0FPXFPJFY{{</world>}}
