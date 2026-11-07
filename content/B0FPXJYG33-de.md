@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Minecraft Der Enderdrache 21595 | Interaktives Spielzeug ab 10 Jahren Jungen & Mädchen Flügel & Exit Portal-Ständer Deko Gaming-Geschenk 710 Teile'
+date: 2026-11-03 19:16:04
+image: 'https://m.media-amazon.com/images/I/41o9FTGOVvL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXJYG33-de LEGO Minecraft Der Enderdrache 21595 | Interaktives...'
+sku: 'B0FPXJYG33-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
+comparePrice: 59.99 EUR
+prodname: 'LEGO Minecraft Der Enderdrache 21595 | Interaktives Spielzeug ab 10 Jahren Jungen & Mädchen Flügel & Exit Portal-Ständer Deko Gaming-Geschenk 710 Teile'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXJYG33/?tag=tolees0ca-21'
+descuento: '35.01'
+average: '39.3618604651161'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0FPXJYG33{{</world>}}

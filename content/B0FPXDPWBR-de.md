@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Friends Heartlake City Clubhaus der Freunde 42689 | Spielzeug ab 8 Jahren Mädchen & Jungen mit 5 Minipuppen 3 Tierfiguren inkl. Katze & Zubehör Geschenk 794 Teile'
+date: 2026-11-05 11:22:05
+image: 'https://m.media-amazon.com/images/I/51Of6CB-JSL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXDPWBR-de LEGO Friends Heartlake City Clubhaus der Freunde 42689 |...'
+sku: 'B0FPXDPWBR-de'
+tags: [ 'lego','🇩🇪', ]
+actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
+comparePrice: 89.99 EUR
+prodname: 'LEGO Friends Heartlake City Clubhaus der Freunde 42689 | Spielzeug ab 8 Jahren Mädchen & Jungen mit 5 Minipuppen 3 Tierfiguren inkl. Katze & Zubehör Geschenk 794 Teile'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0FPXDPWBR/?tag=tolees0ca-21'
+descuento: '33.34'
+average: '60.34050000000002'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0FPXDPWBR{{</world>}}
