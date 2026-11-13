@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Harry Potter Cornish Pixie Toy - Bedroom or Desk Decor Figure w/Gilderoy Lockhart s Book and Wand - Birthday Gift for 8+ Year Old Girls & Boys - 76461'
-date: 2026-08-27 09:25:28
-image: 'https://m.media-amazon.com/images/I/518VGfWp1zL._SL500_._SL400_.jpg'
+title: 'LEGO Harry Potter Cornish Pixie 76461 | Toys for 8+ Year Old Girls & Boys Figure with Gilderoy Lockhart s Book & Wand Bedroom or Desk Decor Gift Idea 320 Pieces'
+date: 2026-11-13 16:51:06
+image: 'https://m.media-amazon.com/images/I/51gWT+CBBmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXGPT4J-co.uk LEGO Harry Potter Cornish Pixie Toy - Bedroom or Desk...'
+slug: 'B0FPXGPT4J-co.uk LEGO Harry Potter Cornish Pixie 76461 | Toys for 8+...'
 sku: 'B0FPXGPT4J-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 16.99 GBP
+actualPrice: 14.0 GBP
 currency: GBP
-price: 16.99
+price: 14.0
 comparePrice: 24.99 GBP
-prodname: 'LEGO Harry Potter Cornish Pixie Toy - Bedroom or Desk Decor Figure w/Gilderoy Lockhart s Book and Wand - Birthday Gift for 8+ Year Old Girls & Boys - 76461'
+prodname: 'LEGO Harry Potter Cornish Pixie 76461 | Toys for 8+ Year Old Girls & Boys Figure with Gilderoy Lockhart s Book & Wand Bedroom or Desk Decor Gift Idea 320 Pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXGPT4J/?tag=tolees0a-21'
-descuento: '32.01'
-average: '16.3478571428571'
+descuento: '43.98'
+average: '16.054374999999961'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,13 +28,6 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- A HELPING HAND – Discover digital instructions in the LEGO Builder app, where kids can zoom in and rotate models using 3D instructions, track their progress and save sets as they develop new skills
-- INSPIRE KIDS’ CREATIVITY – This LEGO Harry Potter toy for kids and fans offers a rewarding build and has authentic details to inspire pretend play
-- PART OF AN EXTENSIVE RANGE – LEGO Harry Potter collectible building sets (sold separately) let fans role-play iconic scenes, make up their own stories or simply display the detailed models
-- ICONIC ACCESSORIES – Kids can display the Cornish Pixie figure with the buildable Gilderoy Lockhart book and mid-spill bottle of ink
-- POSABLE HARRY POTTER FIGURE – Build the first 1:1 scale LEGO Cornish Pixie and create a display from Harry Potter and the Chamber of Secrets with this building toy for 8+ year old girls and boys
-- HARRY POTTER GIFT FOR KIDS – This building set makes a fun toy birthday gift for 8+ year old girls, boys and fans to build their love of Harry Potter stories
-- POSE AND PLAY – Move the Cornish Pixie’s head, arms and fingers, pose it in flying position on the transparent display stand or pose it in a standing position and play with it on its own
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPXGPT4J{{</world>}}

@@ -33,8 +33,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Juguete de fantasía para niñas y niños: Haz volar la magia por la habitación de tu peque con este juego, compuesto por detalladas figuras articuladas para exponer de Elphaba y Glinda, los 2 personajes principales de la película musical Wicked
 - Explora nuevas aficiones: echa un vistazo a otros juguetes de construcción LEGO Wicked (a la venta por separado), todos disponibles en la app LEGO Builder, que transportarán a los peques a divertidas aventuras de construcción
 - Con la película Wicked como inspiración: escanea el código QR oculto del set para acceder al famoso tema “Defying gravity” de la banda sonora de la película y a contenido LEGO Wicked exclusivo para que las figuras "bailen" al ritmo de la canción
-- Llévate la magia de la película Wicked a casa: los sets LEGO Wicked permiten a niños, niñas y fans de la película musical Wicked revivir la aventura de la amistad entre Elphaba y Glinda en Oz
 - Juguete de construcción inspirado en la película Wicked: los niños podrán construir las 2 figuras articuladas y, después, recrear el inolvidable momento de la película o inventar nuevas aventuras al estilo LEGO Wicked
+- Llévate la magia de la película Wicked a casa: los sets LEGO Wicked permiten a niños, niñas y fans de la película musical Wicked revivir la aventura de la amistad entre Elphaba y Glinda en Oz
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWH34HB5{{</world>}}

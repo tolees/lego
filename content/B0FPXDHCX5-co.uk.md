@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Police Prisoner Transport Van 60479 | Toys for 6+ Year Old Boys & Girls Model Truck Kit with Motorbike 3 Minifigures Removable Cell Door Gift Idea 198 pieces'
-date: 2026-11-12 09:13:45
+date: 2026-11-13 16:49:22
 image: 'https://m.media-amazon.com/images/I/51vDrsDhs3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDHCX5/?tag=tolees0a-21'
 descuento: '33.35'
-average: '11.12999999999999'
+average: '11.262307692307683'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

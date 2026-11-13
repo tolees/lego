@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Ninfee 11511 | Giochi per bambini da 9 anni con fiori finti in 2 vasi trasparenti decorazione per camera da letto idea regalo 259 pezzi'
-date: 2026-11-06 15:00:46
+date: 2026-11-13 08:05:00
 image: 'https://m.media-amazon.com/images/I/51zVUG-b2OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0FPXL53FK/?tag=tolees00-21'
 descuento: '25.01'
-average: '30.229999999999997'
+average: '30.195714285714285'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

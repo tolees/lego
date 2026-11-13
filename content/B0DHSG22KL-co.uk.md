@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 2 mini dolls, dog and dolphin toy figures – This set comes with fun characters and accessories, including a surfboard, radio, pizza and ice cream
 - Customisable LEGO case – This LEGO set for fans of travel toys comes with a sticker sheet so kids can have fun customising the LEGO suitcase
-- Buildable toy for 5+ year old girls and boys – This LEGO Friends Creative Beach and Travel Suitcase playset features 3 models for role-play fun
-- Creative gift idea – This LEGO Friends set makes a fun gift for 5+ year old girls and boys who like 2-in-1 travel toys and pretend-play sets
 - Online show – Inspire creative-play ideas with other sets (sold separately) and the LEGO Friends: The Next Chapter online show, where kids get to know Heartlake City characters
+- Creative gift idea – This LEGO Friends set makes a fun gift for 5+ year old girls and boys who like 2-in-1 travel toys and pretend-play sets
+- Buildable toy for 5+ year old girls and boys – This LEGO Friends Creative Beach and Travel Suitcase playset features 3 models for role-play fun
+- 2 mini dolls, dog and dolphin toy figures – This set comes with fun characters and accessories, including a surfboard, radio, pizza and ice cream
 - Build and rebuild – A beach scene with a seaplane, relaxation area, and café, which rebuilds into a speedboat, outdoor seating area, and pizza shop
 
 [🛒 Buy it!!]({{< param buyurl >}})

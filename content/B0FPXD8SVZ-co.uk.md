@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Chicken Jockey Desert Attack 21592 | Toys for 9+ Year Old Boys & Girls 6 Figures Iron Golem & Baby Wolf Mobs Kids Room Decor Gaming Gift 428 Pieces'
-date: 2026-11-12 16:33:49
+date: 2026-11-13 16:49:15
 image: 'https://m.media-amazon.com/images/I/51QAUeLm1aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXD8SVZ/?tag=tolees0a-21'
 descuento: '35.02'
-average: '13.390000000000002'
+average: '13.323333333333334'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

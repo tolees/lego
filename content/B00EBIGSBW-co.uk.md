@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Cement Mixer 60478 | Toys for 7+ Year Old Boys & Girls Educational Construction Site Vehicle Model 3 Minifigures Birthday Gift Idea 371 pieces'
-date: 2026-11-12 09:10:12
+date: 2026-11-13 16:46:37
 image: 'https://m.media-amazon.com/images/I/51C47TEif1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B00EBIGSBW/?tag=tolees0a-21'
 descuento: '37.15'
-average: '22.892763157895029'
+average: '22.881038961039252'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

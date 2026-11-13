@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Magnolia Branches 11510 | Set for Adults Artificial Flowers 5 Faux Magnolias DIY Living Room or Bedroom Decor Gift Idea 435 Pieces'
-date: 2026-11-12 09:14:13
+date: 2026-11-13 16:50:44
 image: 'https://m.media-amazon.com/images/I/514AjXwrBKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFW392/?tag=tolees0a-21'
 descuento: '33.34'
-average: '28.515000000000114'
+average: '28.532987804878161'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

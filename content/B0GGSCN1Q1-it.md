@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Donkey Kong Arcade 72051 | Set per adulti kit di modellismo 3D interattivo joystick e barili decorazione stanza da gaming idea regalo 1367 pezzi'
-date: 2026-11-07 19:35:30
+date: 2026-11-13 12:17:09
 image: 'https://m.media-amazon.com/images/I/51+9HCT4UVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGSCN1Q1/?tag=tolees00-21'
 descuento: '21.65'
-average: '143.74565217391324'
+average: '142.90040000000019'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

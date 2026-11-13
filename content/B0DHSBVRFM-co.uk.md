@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75408 Jango Fett Helmet - Mandalorian Model Kit for Adults - Building Set incl. a Stand Nameplate & Adjustable Rangefinder Antenna - Gift for Attack of the Clones Fans'
-date: 2026-08-27 09:29:40
-image: 'https://m.media-amazon.com/images/I/510yfrKPKDL._SL500_._SL400_.jpg'
+title: 'LEGO Star Wars Jango Fett Helmet 75408 | Set for Adults Mandalorian Model Kit Adjustable Antenna Nameplate & Display Stand for Shelf Decor Gift Idea 616 Pieces'
+date: 2026-11-13 16:47:05
+image: 'https://m.media-amazon.com/images/I/41P3TODtBGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSBVRFM-co.uk LEGO Star Wars 75408 Jango Fett Helmet - Mandalorian...'
+slug: 'B0DHSBVRFM-co.uk LEGO Star Wars Jango Fett Helmet 75408 | Set for Adults...'
 sku: 'B0DHSBVRFM-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 52.3 GBP
+actualPrice: 51.99 GBP
 currency: GBP
-price: 52.3
+price: 51.99
 comparePrice: 69.99 GBP
-prodname: 'LEGO Star Wars 75408 Jango Fett Helmet - Mandalorian Model Kit for Adults - Building Set incl. a Stand Nameplate & Adjustable Rangefinder Antenna - Gift for Attack of the Clones Fans'
+prodname: 'LEGO Star Wars Jango Fett Helmet 75408 | Set for Adults Mandalorian Model Kit Adjustable Antenna Nameplate & Display Stand for Shelf Decor Gift Idea 616 Pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DHSBVRFM/?tag=tolees0a-21'
-descuento: '25.28'
-average: '51.0408333333334'
+descuento: '25.72'
+average: '51.113846153846218'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,6 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- A rewarding LEGO Star Wars building set for adults – This challenging model kit immerses fans in a hands-on building experience while recreating epic moments from Star Wars: Attack of the Clones
-- LEGO Star Wars Jango Fett Helmet model kit – Build and display this 18+ LEGO Star Wars set, a detailed replica honouring the legendary Mandalorian bounty hunter from Star Wars: Attack of the Clones
-- From a galaxy far, far away to your living room – LEGO Star Wars sets for adults offer a fun and creative way to relax, making them great desk decor or gifts for fans who love Star Wars collectibles
-- Immerse yourself in the build – Use the LEGO Builder app to view a 3D digital version of this Star Wars construction model, track progress and save sets while building
-- Star Wars gift for men and women – Treat yourself or surprise a LEGO Star Wars fan with this adult building set, whether they are experienced builders or newcomers to brick-built model kits
-- Build your collection – This Star Wars collectible build-and-display set is part of the LEGO Star Wars helmets series, designed for fans who love model kits and iconic display pieces (sold separately)
-- Create Star Wars desk decor – Recreate the unique features of Jango Fett’s helmet, including the adjustable rangefinder antenna, and showcase it on the buildable stand with a nameplate
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSBVRFM{{</world>}}

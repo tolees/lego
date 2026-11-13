@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Divertido y moderno brick
-- Colección apilable
-- Divertido y moderno brick
-- Material resistente
-- Fácil de limpiar
-- Colección multicolor
-- Colección multicolor
-- Colección apilable
 - Diseño divertido y moderno
+- Divertido y moderno brick
+- Colección apilable
+- Colección multicolor
+- Colección multicolor
+- Material resistente
+- Divertido y moderno brick
+- Fácil de limpiar
+- Colección apilable
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B003NE5L9K{{</world>}}

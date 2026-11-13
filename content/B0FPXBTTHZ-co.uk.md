@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Anzellan Starship 75445 | Toys for 9+ Year Old Boys & Girls The Mandalorian & Grogu Model Kit 3 Figures Droid Workshop Birthday Gift 701 pieces'
-date: 2026-11-12 09:11:52
+date: 2026-11-13 16:48:03
 image: 'https://m.media-amazon.com/images/I/51EW8lLaLFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXBTTHZ/?tag=tolees0a-21'
 descuento: '38.45'
-average: '40.363793103448401'
+average: '40.351666666666787'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

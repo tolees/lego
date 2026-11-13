@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO City Holiday Adventure Camper Van 60454'
-date: 2026-10-07 07:05:33
-image: 'https://m.media-amazon.com/images/I/51Wt2g3WiBL._SL500_._SL400_.jpg'
+title: 'LEGO City Holiday Adventure Camper Van 60454 | Toys for 6+ Year Old Boys & Girls Creative Building Set 3 Minifigures & Accessories Birthday Gift Idea 385 pieces'
+date: 2026-11-13 16:47:25
+image: 'https://m.media-amazon.com/images/I/51tVG0fZZSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSD643W-co.uk LEGO City Holiday Adventure Camper Van 60454'
+slug: 'B0DHSD643W-co.uk LEGO City Holiday Adventure Camper Van 60454 | Toys for...'
 sku: 'B0DHSD643W-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 15.95 GBP
+actualPrice: 17.99 GBP
 currency: GBP
-price: 15.95
+price: 17.99
 comparePrice: 24.99 GBP
-prodname: 'LEGO City Holiday Adventure Camper Van 60454'
+prodname: 'LEGO City Holiday Adventure Camper Van 60454 | Toys for 6+ Year Old Boys & Girls Creative Building Set 3 Minifigures & Accessories Birthday Gift Idea 385 pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DHSD643W/?tag=tolees0a-21'
-descuento: '36.17'
-average: '16.97'
+descuento: '28.01'
+average: '17.31'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

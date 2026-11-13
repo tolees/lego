@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft First Night Adventure 21593 | Toys for 8+ Year Old Boys & Girls Interactive Set 7 Figures Including Alex Skeleton & Creeper Gaming Gift 301 Pieces'
-date: 2026-11-12 09:14:33
+date: 2026-11-13 16:51:52
 image: 'https://m.media-amazon.com/images/I/51taqf8ydnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXHJ4ZZ/?tag=tolees0a-21'
 descuento: '36.01'
-average: '16.49'
+average: '16.39'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Peace Lily 11504 | Set for Adults Artificial Potted Plant Faux White Flowers & Buds DIY Living Room or Bedroom Decor Gift Idea 474 Pieces'
-date: 2026-11-12 09:12:22
+date: 2026-11-13 16:48:59
 image: 'https://m.media-amazon.com/images/I/415t33B38JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCX4H7/?tag=tolees0a-21'
 descuento: '34.53'
-average: '32.443829787234073'
+average: '32.517916666666693'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

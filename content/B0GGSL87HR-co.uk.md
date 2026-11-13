@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel The Fantastic Four H.E.R.B.I.E. 76339 | Toys for 10+ Year Old Boys & Girls Collectible Robot Figure with Accessories Desk Decor Superhero Gift Idea 747 pieces'
-date: 2026-11-12 09:14:51
+date: 2026-11-13 16:52:13
 image: 'https://m.media-amazon.com/images/I/41LbWzVGCQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0GGSL87HR/?tag=tolees0a-21'
 descuento: '33.34'
-average: '40.520909090909136'
+average: '40.476666666666709'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

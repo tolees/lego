@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Small collectable item - not necessarily suitable as a childs gift
-- LEGO Friends Promo Set
 - Contains 57 Pieces
+- LEGO Friends Promo Set
 - Garden Flower and Butterfly
 
 [🛒 Check the deal!!]({{< param buyurl >}})

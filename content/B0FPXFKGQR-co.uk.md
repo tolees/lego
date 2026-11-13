@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic BMW M4 GT3 EVO Race Car 42226 | Toys for 11+ Year Old Boys & Girls Model Kit V6 Engine & Steering Gaming Decor Motorsport Gift Idea 747 pieces'
-date: 2026-11-12 16:34:06
+date: 2026-11-13 16:50:17
 image: 'https://m.media-amazon.com/images/I/51ODoWjsccL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFKGQR/?tag=tolees0a-21'
 descuento: '35.01'
-average: '40.575846153845895'
+average: '40.528507462686321'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

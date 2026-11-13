@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Jeep Wrangler Rubicon SUV 42227 | Toys for 10+ Year Old Boys & Girls SUV Car Model Kit with V6 Engine Steering & Suspension STEM Birthday Gift 723 pieces'
-date: 2026-11-12 16:33:55
+date: 2026-11-13 16:49:46
 image: 'https://m.media-amazon.com/images/I/51hfdLXot7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDZ368/?tag=tolees0a-21'
 descuento: '33.34'
-average: '39.143850931677001'
+average: '39.154233128834342'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

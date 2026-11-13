@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Wither Battle 21590 | Toys for 8+ Year Old Boys & Girls Interactive Set Magma Cube 2 Wither Skeleton Mob Figures Gaming Gift 494 Pieces'
-date: 2026-11-12 09:12:05
+date: 2026-11-13 16:48:20
 image: 'https://m.media-amazon.com/images/I/51ITCHP8zzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCCCPT/?tag=tolees0a-21'
 descuento: '36.67'
-average: '38.110666666666653'
+average: '38.10907894736841'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

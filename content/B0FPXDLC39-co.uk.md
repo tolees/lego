@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Jay s Transforming Car 71856 | Toys for 8+ Year Old Boys & Girls Ninja Truck Model 5 Minifigures Shurikens & Swords Birthday Gift Idea 387 pieces'
-date: 2026-11-12 09:13:50
+date: 2026-11-13 16:49:28
 image: 'https://m.media-amazon.com/images/I/517bKT0kNfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDLC39/?tag=tolees0a-21'
 descuento: '33.34'
-average: '29.971818181818129'
+average: '29.972142857142806'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

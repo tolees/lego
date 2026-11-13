@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney The Aristocats Adorable Marie 43286 | Toys for 7+ Year Old Girls & Boys Cat Animal Figure Textile Bow & Accessories DIY Bedroom Decor Gift Idea 369 pieces'
-date: 2026-11-12 09:12:11
+date: 2026-11-13 16:48:28
 image: 'https://m.media-amazon.com/images/I/51-sOgk5UiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXCRQV5/?tag=tolees0a-21'
 descuento: '49.99'
-average: '18.86316666666675'
+average: '18.840819672131229'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
