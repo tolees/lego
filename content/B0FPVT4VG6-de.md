@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Bugatti Vision GT Hypersportwagen 77253 | Spielzeug ab 9 Jahren Jungen & Mädchen Modellbau mit Fahrer Minifigur Motorsport Fans Geschenk für Kinder 284 Teile'
-date: 2026-11-12 11:23:53
+date: 2026-11-14 23:46:40
 image: 'https://m.media-amazon.com/images/I/51NZIn2UAHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPVT4VG6/?tag=tolees0ca-21'
 descuento: '35.73'
-average: '18.099677419354602'
+average: '18.097936507936275'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

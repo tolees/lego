@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Cristiano Ronaldo – Fußball-Highlights 43012 | Spielzeug ab 10 Jahren Jungen & Mädchen 3D Modellbau mit Minifigur zum Sammeln Kinderzimmer Deko Geschenk 490 Teile'
-date: 2026-11-12 11:44:55
+date: 2026-11-14 23:56:30
 image: 'https://m.media-amazon.com/images/I/51J2i5B3lEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGJL6H/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '20.166329113924014'
+average: '20.163999999999966'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

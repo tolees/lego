@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture Tower Bridge 21067 | Set per adulti miniatura 3D decorazione con ponte levatoio base con Tamigi e autobus di Londra idea regalo 3745 pezzi'
-date: 2026-11-13 16:37:19
+date: 2026-11-14 20:46:16
 image: 'https://m.media-amazon.com/images/I/513umgfvHcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGPD67DQ/?tag=tolees00-21'
 descuento: '21.65'
-average: '241.25'
+average: '240.36142857142858'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

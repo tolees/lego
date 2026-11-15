@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture New York City – The Big Apple 21066 | Bausatz für Erwachsene Miniatur Bauset 3D Regal Deko mit Wahrzeichen inkl. Empire State Building Geschenkidee 1465 Teile'
-date: 2026-11-12 11:40:04
+date: 2026-11-14 23:49:52
 image: 'https://m.media-amazon.com/images/I/51VEQgspKaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFP95Y/?tag=tolees0ca-21'
 descuento: '33.57'
-average: '93.623333333333534'
+average: '93.602903225806657'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

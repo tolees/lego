@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Les Quatre Fantastiques H.E.R.B.I.E. 76339 | Jouet pour enfant dès 10 ans figurine collector robot jouet déco de chambre ou bureau cadeau d’anniversaire 747 pièces'
-date: 2026-11-12 11:32:48
+date: 2026-11-14 23:07:58
 image: 'https://m.media-amazon.com/images/I/41LbWzVGCQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0GGSL87HR/?tag=tolees0d-21'
 descuento: '34.29'
-average: '46.917500000000011'
+average: '46.846153846153854'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

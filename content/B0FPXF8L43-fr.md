@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Le Donjon de Zombies 21587 | Jouet pour enfant dès 8 ans jeu interactif 3 figurines de zombies Vagabond Slime Établi cadeau gaming 284 pièces'
-date: 2026-11-10 22:41:18
+date: 2026-11-14 23:14:02
 image: 'https://m.media-amazon.com/images/I/41oTNU2BK6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXF8L43-fr LEGO Minecraft Le Donjon de Zombies 21587 | Jouet pour...'
 sku: 'B0FPXF8L43-fr'
 tags: [ 'lego','🇫🇷', ]
-actualPrice: 19.99 EUR
+actualPrice: 15.39 EUR
 currency: EUR
-price: 19.99
+price: 15.39
 comparePrice: 29.99 EUR
 prodname: 'LEGO Minecraft Le Donjon de Zombies 21587 | Jouet pour enfant dès 8 ans jeu interactif 3 figurines de zombies Vagabond Slime Établi cadeau gaming 284 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF8L43/?tag=tolees0d-21'
-descuento: '33.34'
-average: '18.38368421052623'
+descuento: '48.68'
+average: '18.233999999999917'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

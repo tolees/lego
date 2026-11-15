@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Wüstensegler 71869 | Spielzeug ab 9 Jahren Jungen & Mädchen umbaubar in fliegendes Boot Auto & Motorrad 6 Minifiguren Geschenk 1214 Teile'
-date: 2026-11-12 15:19:33
+date: 2026-11-14 23:55:30
 image: 'https://m.media-amazon.com/images/I/51PaGtzz2VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDTTPC/?tag=tolees0ca-21'
 descuento: '33.08'
-average: '92.942380952381342'
+average: '92.671818181818551'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

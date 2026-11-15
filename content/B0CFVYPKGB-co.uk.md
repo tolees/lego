@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Flatbed Truck with Helicopter 31146 | Toys for 7+ Year Old Boys & Girls Rebuilds as a Propeller Plane Model & Lorry or Hot Rod & SUV Cars Gift Idea 270 pieces'
-date: 2026-11-10 08:51:08
+date: 2026-11-15 08:38:57
 image: 'https://m.media-amazon.com/images/I/51do0ljf62L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0CFVYPKGB/?tag=tolees0a-21'
 descuento: '27.79'
-average: '13.175769230769323'
+average: '13.162500000000085'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

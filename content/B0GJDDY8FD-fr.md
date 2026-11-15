@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Kpop Demon Hunters Derpy Le Tigre et Suzy la Pie 72537 | Jouet pour fille ou garçon dès 9 ans décoration de chambre 2 figurines animales et pot de fleurs idée cadeau 825 pièces'
-date: 2026-11-06 14:22:03
+date: 2026-11-14 23:08:10
 image: 'https://m.media-amazon.com/images/I/51E3ORpePvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

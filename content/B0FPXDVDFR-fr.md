@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Zilvar et Grimtak la bête draconique 71863 | Jouet pour enfant dès 7 ans jouet ninja avec figurine Kai et Nya Soulèvement des Dragons cadeau anniversaire 232 pièces'
-date: 2026-11-12 11:33:12
+date: 2026-11-14 23:12:59
 image: 'https://m.media-amazon.com/images/I/5121RO0nBkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

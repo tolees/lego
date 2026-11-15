@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Hundekuchenbäckerei 42677 | Spielzeug ab 6 Jahren Mädchen & Jungen Laden mit 2 Minipuppen 4 Tierfiguren Tragetasche & Zubehör Geschenk 278 Teile'
-date: 2026-11-12 11:44:44
+date: 2026-11-14 23:56:35
 image: 'https://m.media-amazon.com/images/I/51z5BMMvxxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXF1CJ5/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.816967213114591'
+average: '19.818292682926668'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

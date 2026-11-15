@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Passagierjet 60492 | Spielzeug ab 4 Jahren für Jungen und Mädchen Flugzeug Modellbausatz mit 4 Minifiguren Geburtstagsgeschenk 118 Teile'
-date: 2026-11-06 15:53:38
+date: 2026-11-14 23:58:13
 image: 'https://m.media-amazon.com/images/I/51n43oMtIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXHFCBV/?tag=tolees0ca-21'
 descuento: '43.35'
-average: '18.15285714285702'
+average: '18.099999999999881'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

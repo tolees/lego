@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu apprenti du Mandalorien 75446 | Jouet pour garçon ou fille dès 10 ans figurine armure en beskar décoration de chambre idée cadeau 1200 pièces'
-date: 2026-11-12 22:24:48
+date: 2026-11-14 23:14:49
 image: 'https://m.media-amazon.com/images/I/51abFcwV5FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXFMP3M-fr LEGO Star Wars Grogu apprenti du Mandalorien 75446 | Jouet...'
 sku: 'B0FPXFMP3M-fr'
 tags: [ 'lego','🇫🇷', ]
-actualPrice: 79.99 EUR
+actualPrice: 74.99 EUR
 currency: EUR
-price: 79.99
+price: 74.99
 comparePrice: 129.99 EUR
 prodname: 'LEGO Star Wars Grogu apprenti du Mandalorien 75446 | Jouet pour garçon ou fille dès 10 ans figurine armure en beskar décoration de chambre idée cadeau 1200 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFMP3M/?tag=tolees0d-21'
-descuento: '38.46'
-average: '80.466190476190533'
+descuento: '42.31'
+average: '80.217272727272786'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

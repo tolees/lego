@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Evoli 72151 | Bausatz für Erwachsene Anime Modellbau mit beweglichen Gliedmaßen Ohren & Schwanz Gamer Deko Gaming Geschenk 587 Teile'
-date: 2026-11-12 11:28:50
+date: 2026-11-14 23:48:13
 image: 'https://m.media-amazon.com/images/I/41T3ijFVpfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD1GCR/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '39.417931034482677'
+average: '39.436666666666589'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

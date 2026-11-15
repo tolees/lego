@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Jet vs. Car 60489 | Toys for 6+ Year Old Boys & Girls Supercar & Plane Model Kit Pilot & Driver Minifigures Birthday Gift Idea 259 pieces'
-date: 2026-11-13 16:51:27
+date: 2026-11-14 20:42:53
 image: 'https://m.media-amazon.com/images/I/41YjPWXiGuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXH4F66/?tag=tolees0a-21'
 descuento: '36.01'
-average: '16.06655913978479'
+average: '16.064947368420899'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

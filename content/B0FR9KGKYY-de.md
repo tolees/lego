@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Fußballlegende 43015 | Spielzeug ab 12 Jahren für Jungen & Mädchen 3D Figuren Modellbau DIY Kinderzimmer Deko Geschenk für Sportfans 958 Teile'
-date: 2026-11-12 11:37:28
+date: 2026-11-14 23:59:37
 image: 'https://m.media-amazon.com/images/I/41pg8xowOrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FR9KGKYY/?tag=tolees0ca-21'
 descuento: '33.75'
-average: '52.864615384615327'
+average: '52.869259259259202'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

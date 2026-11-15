@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO ONE PIECE Woogey vs. Boogey – Riesen aus Little Garden 75644 | Interaktives Spielzeug ab 9 Jahren für Jungen & Mädchen mit 2 Actionfiguren & 5 Minifiguren Geschenk für Kinder 733 Teile'
-date: 2026-11-12 19:10:58
+date: 2026-11-14 23:43:17
 image: 'https://m.media-amazon.com/images/I/51Q1P91KGeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSL5HLJ/?tag=tolees0ca-21'
 descuento: '33.75'
-average: '55.858333333333434'
+average: '55.743600000000093'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Torjubel 43018 | Spielzeug ab 14 Jahren für Jugendliche DIY Deko 3D DIY Wandbild Set Teenager Fußball Geschenk für Sportfans 1427 Teile'
-date: 2026-11-12 11:19:23
+date: 2026-11-14 23:42:55
 image: 'https://m.media-amazon.com/images/I/51r8vFsu1fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FTFTDTGR-de LEGO Editions Lionel Messi – Torjubel 43018 | Spielzeug ab...'
 sku: 'B0FTFTDTGR-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 98.58 EUR
+actualPrice: 98.31 EUR
 currency: EUR
-price: 98.58
+price: 98.31
 comparePrice: 179.99 EUR
 prodname: 'LEGO Editions Lionel Messi – Torjubel 43018 | Spielzeug ab 14 Jahren für Jugendliche DIY Deko 3D DIY Wandbild Set Teenager Fußball Geschenk für Sportfans 1427 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FTFTDTGR/?tag=tolees0ca-21'
-descuento: '45.23'
-average: '112.87802631578994'
+descuento: '45.38'
+average: '112.68883116883163'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

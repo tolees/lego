@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Flughafenlöschfahrzeug 60499 | Spielzeug ab 7 Jahren Jungen & Mädchen Modellbau mit 4 Feuerwehr Minifiguren Einsatzfahrzeug Geschenk 691 Teile'
-date: 2026-11-06 15:51:40
+date: 2026-11-14 23:55:53
 image: 'https://m.media-amazon.com/images/I/51ujabZACVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXDXJ98-de LEGO City Flughafenlöschfahrzeug 60499 | Spielzeug ab 7...'
 sku: 'B0FPXDXJ98-de'
 tags: [ 'lego','🇩🇪', ]
-actualPrice: 44.99 EUR
+actualPrice: 45.98 EUR
 currency: EUR
-price: 44.99
+price: 45.98
 comparePrice: 69.99 EUR
 prodname: 'LEGO City Flughafenlöschfahrzeug 60499 | Spielzeug ab 7 Jahren Jungen & Mädchen Modellbau mit 4 Feuerwehr Minifiguren Einsatzfahrzeug Geschenk 691 Teile'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDXJ98/?tag=tolees0ca-21'
-descuento: '35.72'
-average: '45.893571428571391'
+descuento: '34.30'
+average: '45.663819095477351'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

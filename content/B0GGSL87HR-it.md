@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel I Fantastici Quattro H.E.R.B.I.E. 76339 | Giochi per bambini da 10 anni action figure di robot giocattolo set da collezione con accessori idea regalo 747 pezzi'
-date: 2026-11-12 23:14:10
+date: 2026-11-13 23:16:42
 image: 'https://m.media-amazon.com/images/I/41LbWzVGCQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGSL87HR/?tag=tolees00-21'
 descuento: '34.99'
-average: '49.065'
+average: '48.740909090909085'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

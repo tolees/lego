@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Pixar Kevin und Dug 43290 | Spielzeug ab 9 Jahren Mädchen & Jungen Spielzeug-Golden Retriever Hund & exotischer Vogel Zimmer Deko Geschenk 628 Teile'
-date: 2026-11-12 11:44:20
+date: 2026-11-14 23:56:13
 image: 'https://m.media-amazon.com/images/I/51ZWDRfkmZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDZ8VH/?tag=tolees0ca-21'
 descuento: '36.67'
-average: '38.204078947368352'
+average: '38.201298701298633'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

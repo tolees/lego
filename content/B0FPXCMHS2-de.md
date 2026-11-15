@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Blaues Polizeimotorrad 10471 | Spielzeug ab 2 Jahren für Jungen & Mädchen inkl. Motorrad Polizisten Figur und Verkehrsampel Geschenk für Kinder 11 Teile'
-date: 2026-11-11 23:19:16
+date: 2026-11-14 23:47:26
 image: 'https://m.media-amazon.com/images/I/51oLY001cQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCMHS2/?tag=tolees0ca-21'
 descuento: '35.04'
-average: '6.51'
+average: '6.5083333333333338'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

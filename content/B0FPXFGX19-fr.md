@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Le fleuriste 42693 | Jouet pour enfant 7 ans boutique 2 mini-poupées bouquets fleurs artificielles & vélo cadeau d’anniversaire 377 pièces'
-date: 2026-11-12 17:52:00
+date: 2026-11-14 23:14:28
 image: 'https://m.media-amazon.com/images/I/51zvgts-yeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFGX19/?tag=tolees0d-21'
 descuento: '33.34'
-average: '20.24'
+average: '20.189999999999998'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

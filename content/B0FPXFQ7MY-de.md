@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Monster Jam Grave Digger Feuer und EIS 42219 | Spielzeug ab 7 Jahren für Jungen Monstertruck Modellbau & Konstruktionsspielzeug mit Rückziehmotor Geschenk 263 Teile'
-date: 2026-11-08 23:12:08
+date: 2026-11-14 23:50:03
 image: 'https://m.media-amazon.com/images/I/51COuZkyZ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFQ7MY/?tag=tolees0ca-21'
 descuento: '36.71'
-average: '19.150454545454902'
+average: '19.148918918919275'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

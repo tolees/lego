@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu Mandalorian Apprentice 75446 | Toys for 10+ Year Old Boys & Girls Display Figure Model Kit Beskar Armour Kids Room Decor Gift Idea 1200 pieces'
-date: 2026-11-13 16:50:32
+date: 2026-11-14 20:42:16
 image: 'https://m.media-amazon.com/images/I/51DV-SZS94L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFMP3M/?tag=tolees0a-21'
 descuento: '41.67'
-average: '72.245204678362555'
+average: '72.21913294797686'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

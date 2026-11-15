@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Animal Crossing Excursion Maritime d Amiral Jouet de Construction Créatif pour Enfants 2 Minifigurines du Jeu Vidéo Dont Mathéo Cadeau d’Anniversaire pour Filles et Garçons Dès 6 Ans 77048'
-date: 2026-10-21 09:25:22
+date: 2026-11-14 23:08:36
 image: 'https://m.media-amazon.com/images/I/51eowYxWLxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CFVXRTJL-fr LEGO Animal Crossing Excursion Maritime d Amiral Jouet de...'
 sku: 'B0CFVXRTJL-fr'
 tags: [ 'lego','🇫🇷', ]
-actualPrice: 21.83 EUR
+actualPrice: 19.57 EUR
 currency: EUR
-price: 21.83
+price: 19.57
 comparePrice: 29.99 EUR
 prodname: 'LEGO Animal Crossing Excursion Maritime d Amiral Jouet de Construction Créatif pour Enfants 2 Minifigurines du Jeu Vidéo Dont Mathéo Cadeau d’Anniversaire pour Filles et Garçons Dès 6 Ans 77048'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0CFVXRTJL/?tag=tolees0d-21'
-descuento: '27.21'
-average: '21.9308333333333'
+descuento: '34.74'
+average: '21.749230769230739'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

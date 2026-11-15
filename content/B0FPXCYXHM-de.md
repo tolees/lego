@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Lightning McQueen 77255 | Spielzeug ab 9 Jahren für Jungen & Mädchen Auto Spielset von Cars DIY Deko für Kinderzimmer kreatives Geschenk 270 Teile'
-date: 2026-11-12 06:09:40
+date: 2026-11-14 23:48:02
 image: 'https://m.media-amazon.com/images/I/512VDBVzNiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCYXHM/?tag=tolees0ca-21'
 descuento: '35.73'
-average: '19.328695652173874'
+average: '19.300212765957411'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

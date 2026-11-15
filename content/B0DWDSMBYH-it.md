@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO DUPLO Gioco al castello con Salterello 10450 | Giochi didattici per bambine e bambini da 3 anni 3 animali giocattolo sviluppo motricità fine idea regalo 47 pezzi'
-date: 2026-10-15 06:47:48
-image: 'https://m.media-amazon.com/images/I/514DzfOQ0YL._SL500_._SL400_.jpg'
+date: 2026-11-15 13:06:08
+image: 'https://m.media-amazon.com/images/I/51yKHsIq9fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

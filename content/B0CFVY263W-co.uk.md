@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- EDUCATIONAL TOYS FOR KIDS – The LEGO DUPLO Town Caring for Animals at the Farm toy for 2+ year old girls and boys lets little ones role-play life as a busy farmer
 - FINE MOTOR SKILLS TOYS – A fun learning toy with coloured DUPLO bricks and pieces designed to be engaging for toddlers to explore and assemble
-- HELPS DEVELOP LIFE SKILLS – This toddler learning toy helps preschoolers enjoy nurturing play and develop empathy as they care for the toy animals
 - PACKED WITH ACCESSORIES – This farm toy for toddlers has elements for little ones to feed animals and even clean up the horse poop with a shovel
+- HELPS DEVELOP LIFE SKILLS – This toddler learning toy helps preschoolers enjoy nurturing play and develop empathy as they care for the toy animals
 - FARM ANIMAL TOYS – Features a farmhouse, stable, chicken coop and hayloft, plus 8 animal figures: 2 toy horses, a sheep, cat, cow, chicken and chicks
+- EDUCATIONAL TOYS FOR KIDS – The LEGO DUPLO Town Caring for Animals at the Farm toy for 2+ year old girls and boys lets little ones role-play life as a busy farmer
 - LEGO BUILDING TOYS FOR FAMILY PLAY – Makes a great gift for 2+ year old girls and boys who love farm animal toys, plus it lets families enjoy play as toddlers explore passions and skills
 
 [🛒 Buy it now!!]({{< param buyurl >}})

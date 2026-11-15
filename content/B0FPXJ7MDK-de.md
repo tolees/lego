@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Der Fuchs 21588 | Spielzeug ab 10 Jahren Jungen & Mädchen 3D-Puzzle Tierfigur mit Zubehör für Gamer Gaming Geschenk 497 Teile'
-date: 2026-11-12 19:12:55
+date: 2026-11-14 23:58:49
 image: 'https://m.media-amazon.com/images/I/51ClAT3MBuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJ7MDK/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '29.927666666666788'
+average: '29.928688524590282'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

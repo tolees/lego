@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Modernes Familienhaus mit Figuren – 3-in-1-Set 10470 | Spielzeug ab 2 Jahren für Jungen & Mädchen Montessori Spielzeug mit Puppenhaus Zubehör Geschenk für Kleinkinder 166 Teile'
-date: 2026-11-12 15:19:20
+date: 2026-11-14 23:54:40
 image: 'https://m.media-amazon.com/images/I/51nr0OUiVwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDPTP6/?tag=tolees0ca-21'
 descuento: '32.50'
-average: '53.562222222222481'
+average: '53.567167630058059'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

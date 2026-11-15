@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Advent Calendar 2026 43298 | Toys for 5+ Year Old Girls & Boys 24 Surprises 4 Micro Dolls & 4 Animal Figures Christmas Countdown Gift Idea 290 pieces'
-date: 2026-11-13 16:46:24
+date: 2026-11-14 20:43:28
 image: 'https://m.media-amazon.com/images/I/51jaEKXfISL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

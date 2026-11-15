@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Les robots Titan jumeaux 71870 | Jouet pour ado dès 12 ans décoration de chambre 2 figurines jouet ninja Kai & Nya cadeau d’anniversaire 1707 pièces'
-date: 2026-11-12 22:21:05
+date: 2026-11-14 23:07:05
 image: 'https://m.media-amazon.com/images/I/515mNq+iskL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXK4XFW/?tag=tolees0d-21'
 descuento: '35.01'
-average: '92.816666666666663'
+average: '92.554285714285712'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

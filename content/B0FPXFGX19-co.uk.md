@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Creative Flower Shop 42693 | Toys for 7+ Year Old Girls & Boys Artificial Flowers 2 Mini Dolls Bike & Accessories Birthday Gift 377 pieces'
-date: 2026-11-13 16:50:10
+date: 2026-11-14 20:41:55
 image: 'https://m.media-amazon.com/images/I/51zvgts-yeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFGX19/?tag=tolees0a-21'
 descuento: '36.61'
-average: '15.49947368421048'
+average: '15.516499999999956'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

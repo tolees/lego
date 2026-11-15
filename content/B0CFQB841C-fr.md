@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Figurine Sonic
 - Livré avec étiquettes
+- Figurine Sonic
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFQB841C{{</world>}}

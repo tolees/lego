@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Kylian Mbappé – Best of 43013 | Jouet pour garçon ou fille dès 10 ans minifigurine collector déco de chambre jeu de football idée cadeau 490 pièces'
-date: 2026-11-06 14:16:27
+date: 2026-11-14 23:10:10
 image: 'https://m.media-amazon.com/images/I/51lreRpv2xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

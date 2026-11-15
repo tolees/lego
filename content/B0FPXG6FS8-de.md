@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons Herbstlicher Landhausgarten 11372 | Bausatz für Erwachsene Modellbau im Landhausstil Tiere Minifiguren umgestaltbare Schreibtischdeko Geschenk 1102 Teile'
-date: 2026-11-12 11:44:13
+date: 2026-11-14 23:55:47
 image: 'https://m.media-amazon.com/images/I/517eaQxxcvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG6FS8/?tag=tolees0ca-21'
 descuento: '36.37'
-average: '75.27904761904766'
+average: '75.0386363636364'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

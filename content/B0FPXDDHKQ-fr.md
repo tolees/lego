@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Le bateau d’aventures axolotl 42681 | Jouet pour enfant dès 5 ans 2 mini-poupées 2 figurines d animaux fleurs & plantes cadeau d’anniversaire 95 pièces'
-date: 2026-11-12 11:32:54
+date: 2026-11-14 23:10:17
 image: 'https://m.media-amazon.com/images/I/514hJp60lYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDDHKQ/?tag=tolees0d-21'
 descuento: '35.04'
-average: '6.5317142857142745'
+average: '6.5305555555555443'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

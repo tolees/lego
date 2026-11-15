@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Duell mit dem Ultradrachen 71872 | Spielzeug ab 12 Jahren Jungen & Mädchen Actionfigur Schlange & 4 Minifiguren Katanas Zimmer-Deko Geschenk 2178 Teile'
-date: 2026-11-12 11:39:51
+date: 2026-11-14 23:50:09
 image: 'https://m.media-amazon.com/images/I/51mfeimdQiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDFRHC/?tag=tolees0ca-21'
 descuento: '35.00'
-average: '136.67000000000013'
+average: '136.41307692307706'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

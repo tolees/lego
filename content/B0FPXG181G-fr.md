@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Le défilé de mode de Heartlake City 42685 | Jouet enfant 7 ans 3 mini-poupées jeu sur la mode avec accessoires podium manteau & chapeaux idée cadeau 410 pièces'
-date: 2026-11-12 22:25:46
+date: 2026-11-14 23:15:41
 image: 'https://m.media-amazon.com/images/I/514PnEWNejL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXG181G/?tag=tolees0d-21'
 descuento: '36.01'
-average: '32.873043478260868'
+average: '32.83625'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

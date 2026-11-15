@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Verbotener Wald: Expecto Patronum 76475 | Spielzeug ab 7 Jahren Jungen & Mädchen Set mit 2 Dementoren Hirsch & 2 Minifiguren inkl. Sirius Black Geschenk 244 Teile'
-date: 2026-11-12 11:44:27
+date: 2026-11-15 11:36:24
 image: 'https://m.media-amazon.com/images/I/51qw4ggHqXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXG7VZ1/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '19.878888888888824'
+average: '19.884736842105202'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

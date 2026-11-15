@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Betonmischer 60478 | Spielzeug ab 7 Jahren Jungen & Mädchen lehrreicher Baufahrzeug-Bausatz mit 3 Minifiguren Geburtstagsgeschenk 371 Teile'
-date: 2026-11-12 11:37:56
+date: 2026-11-14 23:46:08
 image: 'https://m.media-amazon.com/images/I/51C47TEif1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EBIGSBW/?tag=tolees0ca-21'
 descuento: '35.01'
-average: '25.881935483870944'
+average: '25.888484848484826'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

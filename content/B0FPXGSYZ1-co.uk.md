@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Coast Guard Helicopter 60503 | Toys for 7+ Year Old Boys & Girls Emergency Vehicle Model Sliding Doors & Winch 4 Minifigures Birthday Gift 551 pieces'
-date: 2026-11-13 16:51:21
+date: 2026-11-14 20:42:48
 image: 'https://m.media-amazon.com/images/I/51USlf9F+lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXGSYZ1/?tag=tolees0a-21'
 descuento: '32.73'
-average: '36.235875000000085'
+average: '36.254268292683008'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Feentassen-Karussell mit Blumendeko 42702 | Spielzeug ab 7 Jahren Mädchen & Jungen 3 Minifiguren Fotokabine & Zubehör Kinderzimmer Deko Geschenk 321 Teile'
-date: 2026-11-12 11:46:25
+date: 2026-11-14 23:58:43
 image: 'https://m.media-amazon.com/images/I/51wmeWW9gBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXJ14PQ/?tag=tolees0ca-21'
 descuento: '32.73'
-average: '26.707241379310357'
+average: '26.713666666666679'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

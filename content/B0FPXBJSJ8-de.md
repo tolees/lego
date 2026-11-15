@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Meerestiere: Wunderschöne Delfine 31385 | Spielzeug ab 9 Jahren für Mädchen & Jungen 3 Bauoptionen: Delfine Seepferdchen oder Krabbe Geschenk für Kinder 542 Teile'
-date: 2026-11-12 11:38:58
+date: 2026-11-14 23:46:57
 image: 'https://m.media-amazon.com/images/I/51RJH7TslJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXBJSJ8/?tag=tolees0ca-21'
 descuento: '34.03'
-average: '32.810970873786573'
+average: '32.812596153846315'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

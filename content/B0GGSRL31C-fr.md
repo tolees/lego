@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Bouquet de fleurs d Olivia Rodrigo 11507 | Jouet pour enfant dès 9 ans avec 11 fleurs artificielles dont roses décoration de chambre d enfant idée cadeau 400 pièces'
-date: 2026-11-12 22:22:18
+date: 2026-11-14 23:08:04
 image: 'https://m.media-amazon.com/images/I/519no0UMXsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0GGSRL31C/?tag=tolees0d-21'
 descuento: '33.34'
-average: '30.228095238095204'
+average: '30.217272727272693'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

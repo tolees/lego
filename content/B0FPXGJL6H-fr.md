@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Cristiano Ronaldo – Best of 43012 | Jouet pour garçon ou fille dès 10 ans minifigurine collector déco de chambre jeu de football idée cadeau 490 pièces'
-date: 2026-11-06 14:16:10
+date: 2026-11-14 23:05:44
 image: 'https://m.media-amazon.com/images/I/51E6DwN9aEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGJL6H/?tag=tolees0d-21'
 descuento: '33.64'
-average: '19.956249999999969'
+average: '19.955263157894706'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

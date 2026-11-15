@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Yoda s Hut and Jedi Training - Building Toy for Role Play - Compatible Set with 2 Tags and 2 Minifigures - Gift for 8+ Year Old Boys Girls & Fans - 75422'
-date: 2026-11-12 16:34:25
+date: 2026-11-15 13:03:57
 image: 'https://m.media-amazon.com/images/I/51PV-j8T+WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXRJ74X-co.uk LEGO Star Wars SMART Play: Yoda s Hut and Jedi Training...'
 sku: 'B0FPXRJ74X-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 29.98 GBP
+actualPrice: 29.99 GBP
 currency: GBP
-price: 29.98
+price: 29.99
 comparePrice: 59.99 GBP
 prodname: 'LEGO Star Wars SMART Play: Yoda s Hut and Jedi Training - Building Toy for Role Play - Compatible Set with 2 Tags and 2 Minifigures - Gift for 8+ Year Old Boys Girls & Fans - 75422'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXRJ74X/?tag=tolees0a-21'
-descuento: '50.03'
-average: '33.178115183245836'
+descuento: '50.01'
+average: '33.112717948717716'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

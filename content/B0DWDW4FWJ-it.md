@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Lamborghini Revuelto e Huracán STO - 77238 | Giochi per bambini da 10 anni modellini di auto da corsa con 2 minifigure dei piloti regalo di compleanno 607 pezzi'
-date: 2026-11-04 12:37:56
+date: 2026-11-14 08:17:13
 image: 'https://m.media-amazon.com/images/I/41l2gagUO4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDW4FWJ/?tag=tolees00-21'
 descuento: '22.18'
-average: '36.1123076923078'
+average: '36.21555555555566'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

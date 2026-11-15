@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Groot en tenue de Ravageur 76341 | Jouet pour enfant dès 10 ans jouet collector de super-héros déco pour chambre ou bureau cadeau d’anniversaire 604 pièces'
-date: 2026-11-06 14:19:09
+date: 2026-11-14 23:13:48
 image: 'https://m.media-amazon.com/images/I/41phQbwTkML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXF62K2-fr LEGO Marvel Groot en tenue de Ravageur 76341 | Jouet pour...'
 sku: 'B0FPXF62K2-fr'
 tags: [ 'lego','🇫🇷', ]
-actualPrice: 36.79 EUR
+actualPrice: 38.9 EUR
 currency: EUR
-price: 36.79
+price: 38.9
 comparePrice: 59.99 EUR
 prodname: 'LEGO Marvel Groot en tenue de Ravageur 76341 | Jouet pour enfant dès 10 ans jouet collector de super-héros déco pour chambre ou bureau cadeau d’anniversaire 604 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF62K2/?tag=tolees0d-21'
-descuento: '38.67'
-average: '38.052241379310189'
+descuento: '35.16'
+average: '38.066610169491369'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

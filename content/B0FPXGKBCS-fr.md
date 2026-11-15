@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Ford Mustang Hoonicorn V1 de 1965 de Ken Block 77262 | Jouet voiture pour enfant dès 9 ans maquette minifigurine collector décoration chambre d enfant idée cadeau 345 pièces'
-date: 2026-11-12 22:20:11
+date: 2026-11-14 23:05:49
 image: 'https://m.media-amazon.com/images/I/51vK8ZtR59L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGKBCS/?tag=tolees0d-21'
 descuento: '35.12'
-average: '18.018399999999968'
+average: '18.023846153846126'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

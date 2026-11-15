@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Ken Blocks 1965 Ford Mustang Hoonicorn V1 77262 | Spielzeug ab 9 Jahren Jungen & Mädchen Muscle Car Set Modellbau mit Minifigur Kinderzimmer Deko Geschenk 345 Teile'
-date: 2026-11-12 11:45:00
+date: 2026-11-14 23:56:40
 image: 'https://m.media-amazon.com/images/I/51vK8ZtR59L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGKBCS/?tag=tolees0ca-21'
 descuento: '35.01'
-average: '18.670909090908864'
+average: '18.662321428571207'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

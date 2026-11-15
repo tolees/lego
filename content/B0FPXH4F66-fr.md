@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le jet contre la voiture 60489 | Jeu de construction pour enfant dès 6 ans avion & supercar minifigurines de pilotes idée de cadeau 259 pièces'
-date: 2026-11-12 22:20:31
+date: 2026-11-14 23:06:12
 image: 'https://m.media-amazon.com/images/I/41YjPWXiGuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXH4F66/?tag=tolees0d-21'
 descuento: '33.34'
-average: '19.951553398058067'
+average: '19.951923076922892'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

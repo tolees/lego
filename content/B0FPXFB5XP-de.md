@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3in1 Retro-Spielkonsole 31380 | Spielzeug ab 8 Jahren Jungen & Mädchen 3 Bauoptionen: Konsole Computer oder Spielautomat Geschenk für Kinder 268 Teile'
-date: 2026-11-06 15:46:48
+date: 2026-11-14 23:57:14
 image: 'https://m.media-amazon.com/images/I/51exhQCrarL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXFB5XP/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '12.334153846154008'
+average: '12.344090909091069'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

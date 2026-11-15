@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Dodge Viper GTS-R Sports Car 42234 | Toys for 10+ Year Old Boys & Girls Model Kit with V10 Engine Steering & Differential Gaming Gift Idea 805 pieces'
-date: 2026-11-09 20:56:30
+date: 2026-11-15 08:39:23
 image: 'https://m.media-amazon.com/images/I/51b6AP4pE1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0GGSPC7W8/?tag=tolees0a-21'
 descuento: '33.34'
-average: '40.103999999999921'
+average: '39.901785714285637'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

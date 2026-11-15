@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions La Toyota Supra MK4 de Fast and Furious 77260 | Jouet voiture pour enfant dès 10 ans ou ado maquette avec minifigurine de Brian O’Conner idée de cadeau STEM 292 pièces'
-date: 2026-11-12 22:24:19
+date: 2026-11-14 23:13:54
 image: 'https://m.media-amazon.com/images/I/51Sz6S8fQZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF65PH/?tag=tolees0d-21'
 descuento: '35.73'
-average: '17.820303030302963'
+average: '17.825294117646994'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

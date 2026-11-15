@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago 15-jähriges Jubiläum: Lloyds Titan-Mech 71860 | Spielzeug ab 14 Jahren für Jugendliche Ninja Action mit sammelbarer Minifigur mit Schild & Schwert Geschenk 1293 Teile'
-date: 2026-11-12 19:12:36
+date: 2026-11-14 23:55:41
 image: 'https://m.media-amazon.com/images/I/51JeueSrEFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDV2NK/?tag=tolees0ca-21'
 descuento: '38.46'
-average: '83.484444444444435'
+average: '83.359642857142845'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

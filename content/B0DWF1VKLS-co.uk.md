@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Captain America vs. Thanos 76319 | Toys for 4+ Year Old Boys & Girls Superhero Building Set Jet Plane Model 2 Minifigures Avengers Gift Idea 107 Pieces'
-date: 2026-11-06 08:40:22
+date: 2026-11-14 09:19:31
 image: 'https://m.media-amazon.com/images/I/51ncSBi6mpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0DWF1VKLS/?tag=tolees0a-21'
 descuento: '24.97'
-average: '21.106363636363728'
+average: '21.222500000000085'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

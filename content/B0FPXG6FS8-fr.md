@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons Le Jardin d automne 11372 | Set pour adulte décoration DIY maquette miniature maison 4 arbres figurines animales et fleurs idée cadeau 1102 pièces'
-date: 2026-11-12 22:25:58
+date: 2026-11-14 23:15:54
 image: 'https://m.media-amazon.com/images/I/51GXeNvExrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXG6FS8/?tag=tolees0d-21'
 descuento: '34.08'
-average: '74.249999999999972'
+average: '74.147058823529392'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

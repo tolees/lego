@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Lustiger Tag im Wasserpark 42676 | Spielzeug ab 6 Jahren Mädchen & Jungen 2 Minifiguren 4 Tierfiguren und Tierzubehör Kinderzimmer Deko Geschenk 278 Teile'
-date: 2026-11-12 11:45:20
+date: 2026-11-14 23:57:09
 image: 'https://m.media-amazon.com/images/I/51l0YEDapjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGQ1DK/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.089999999999918'
+average: '20.082857142857069'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

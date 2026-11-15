@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Düsenflieger vs. Rennauto 60489 | Spielzeug ab 6 Jahren Jungen & Mädchen Rennwagen mit Pilot & Fahrer Minifigur mit Flugzeug Modellbau Geschenk 259 Teile'
-date: 2026-11-12 11:45:58
+date: 2026-11-14 23:58:01
 image: 'https://m.media-amazon.com/images/I/41YjPWXiGuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXH4F66/?tag=tolees0ca-21'
 descuento: '33.38'
-average: '19.85846153846132'
+average: '19.859999999999783'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

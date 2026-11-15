@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Tierklinik 42696 | Spielzeug ab 4 Jahren für Jungen & Mädchen 2 Mini Puppen Hund- Kaninchen- und Katzenfigur & Zubehör Geschenk 141 Teile'
-date: 2026-11-12 11:39:34
+date: 2026-11-14 23:49:41
 image: 'https://m.media-amazon.com/images/I/51MgD2XsdGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDDHLC/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '19.47184079602004'
+average: '19.457241379310482'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

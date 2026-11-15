@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars SMART Play: Mos Eisley Cantina 75425'
-date: 2026-10-09 22:14:27
+title: 'LEGO Star Wars SMART Play: Mos Eisley Cantina Toy Building Set for Kids - Compatible Set with 3 Tags and 5 Minifigures - Gift for 8+ Year Old Boys Girls & Fans - 75425'
+date: 2026-11-14 09:21:07
 image: 'https://m.media-amazon.com/images/I/51NfuyZkDLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXS67NL-co.uk LEGO Star Wars SMART Play: Mos Eisley Cantina 75425'
+slug: 'B0FPXS67NL-co.uk LEGO Star Wars SMART Play: Mos Eisley Cantina Toy...'
 sku: 'B0FPXS67NL-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 49.99 GBP
+actualPrice: 52.49 GBP
 currency: GBP
-price: 49.99
+price: 52.49
 comparePrice: 69.99 GBP
-prodname: 'LEGO Star Wars SMART Play: Mos Eisley Cantina 75425'
+prodname: 'LEGO Star Wars SMART Play: Mos Eisley Cantina Toy Building Set for Kids - Compatible Set with 3 Tags and 5 Minifigures - Gift for 8+ Year Old Boys Girls & Fans - 75425'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXS67NL/?tag=tolees0a-21'
-descuento: '28.58'
-average: '44.33046875'
+descuento: '25.00'
+average: '44.456'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

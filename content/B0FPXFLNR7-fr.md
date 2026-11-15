@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Petites plantes dansantes 11506 | Jouet pour enfant dès 9 ans avec fleurs artificielles 2 fausses plantes & 2 pots décoration de chambre cadeau 253 pièces'
-date: 2026-11-06 14:21:38
+date: 2026-11-14 23:14:38
 image: 'https://m.media-amazon.com/images/I/41m5cCo2tvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFLNR7/?tag=tolees0d-21'
 descuento: '40.02'
-average: '12.076060606060592'
+average: '12.074356435643551'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

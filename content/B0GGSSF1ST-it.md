@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Boba Fett 75455 | Set per adulti action figure con armatura beskar blaster e minifigure decorazione da scrivania idea regalo 1544 pezzi'
-date: 2026-11-12 08:32:43
+date: 2026-11-14 14:09:09
 image: 'https://m.media-amazon.com/images/I/419W6KQnQDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0GGSSF1ST/?tag=tolees00-21'
 descuento: '20.00'
-average: '139.26428571428656'
+average: '138.85500000000073'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

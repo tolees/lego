@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Zombie Dungeon 21587 | Toys for 8+ Year Old Boys & Girls Interactive Set Wanderer Minifigure Slime & 3 Zombie Figures Gaming Gift 284 Pieces'
-date: 2026-11-13 16:49:52
+date: 2026-11-14 20:41:41
 image: 'https://m.media-amazon.com/images/I/41oTNU2BK6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXF8L43/?tag=tolees0a-21'
 descuento: '36.01'
-average: '17.7990909090909'
+average: '17.520769230769226'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

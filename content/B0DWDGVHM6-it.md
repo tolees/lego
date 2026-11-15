@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Game Boy 72046 | Set per adulti kit di modellismo Nintendo da collezione con 2 cartucce e schermi lenticolari regalo per gamer 421 pezzi'
-date: 2026-11-12 12:01:51
+date: 2026-11-13 23:16:14
 image: 'https://m.media-amazon.com/images/I/41uII1ZMbPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B0DWDGVHM6/?tag=tolees00-21'
 descuento: '25.00'
-average: '49.324081632653027'
+average: '49.237399999999965'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

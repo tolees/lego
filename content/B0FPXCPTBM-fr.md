@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago 15e Anniversaire : Collection des Personnages Ninjas 71866 | Jouet pour ado dès 14 ans 8 minifigurines collector porte de monastère sabres cadeau d’anniversaire 447 pièces'
-date: 2026-11-12 22:23:18
+date: 2026-11-14 23:09:19
 image: 'https://m.media-amazon.com/images/I/51q8a7N8ExL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCPTBM/?tag=tolees0d-21'
 descuento: '32.51'
-average: '27.133999999999848'
+average: '27.128461538461394'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

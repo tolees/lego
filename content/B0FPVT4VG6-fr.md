@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Hypercar Bugatti Vision GT 77253 | Jouet pour enfant dès 9 ans minifigurine collector de pilote voiture jouet voiture sport idée cadeau gaming 284 pièces'
-date: 2026-11-12 22:22:53
+date: 2026-11-14 23:08:44
 image: 'https://m.media-amazon.com/images/I/41Q6v4wisuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPVT4VG6/?tag=tolees0d-21'
 descuento: '35.12'
-average: '18.103809523809503'
+average: '18.106363636363618'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

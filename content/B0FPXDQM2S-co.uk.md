@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions McLaren W1 - 77257 | Toys for 9+ Year Old Boys & Girls Car Model Building Kit Collectible Driver Minifigure Birthday Gift Idea 287 pieces'
-date: 2026-11-13 16:49:40
+date: 2026-11-14 20:41:16
 image: 'https://m.media-amazon.com/images/I/41ZQeGa9p3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXDQM2S/?tag=tolees0a-21'
 descuento: '39.15'
-average: '15.41125'
+average: '15.253333333333334'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

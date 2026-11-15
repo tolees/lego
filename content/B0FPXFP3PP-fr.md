@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Chez Grogu 75443 | Jouet pour enfant dès 4 ans figurine de Grogu et grenouille de Sorgan catapulte macarons bleus idée cadeau 107 pièces'
-date: 2026-11-12 22:24:54
+date: 2026-11-14 23:15:04
 image: 'https://m.media-amazon.com/images/I/51VCxZfnyuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFP3PP/?tag=tolees0d-21'
 descuento: '44.07'
-average: '12.458549222797981'
+average: '12.445435897435951'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

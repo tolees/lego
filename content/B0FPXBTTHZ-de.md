@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Sternenschiff der Anzellaner 75445 | Spielzeug ab 9 Jahren für Jungen & Mädchen Spielset mit 3 Figuren und Droiden Werkstatt Geschenk für Fans 701 Teile'
-date: 2026-11-12 19:11:30
+date: 2026-11-14 23:47:02
 image: 'https://m.media-amazon.com/images/I/51EW8lLaLFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXBTTHZ/?tag=tolees0ca-21'
 descuento: '37.34'
-average: '51.4227272727274'
+average: '51.292352941176596'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

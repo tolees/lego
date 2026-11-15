@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City F1 Display Truck with Audi F1 Race Car 60493 | Toys for 7+ Year Old Boys & Girls Formula 1 Model Kit Vehicle Lifting Function 3 Minifigures Gift Idea 508 Pieces'
-date: 2026-11-13 16:50:24
+date: 2026-11-14 20:42:09
 image: 'https://m.media-amazon.com/images/I/51XWIDTt9CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFL5ZW/?tag=tolees0a-21'
 descuento: '37.51'
-average: '24.886486486486501'
+average: '24.889210526315804'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

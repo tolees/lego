@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Airport with Airplane 60502 | Toys for 8+ Year Old Boys & Girls Miniature Model Kit Plane Terminal & Tug Car 9 Minifigures Birthday Gift 887 pieces'
-date: 2026-11-13 16:48:13
+date: 2026-11-14 20:39:56
 image: 'https://m.media-amazon.com/images/I/51WpuE3SY6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXC27PT/?tag=tolees0a-21'
 descuento: '35.56'
-average: '62.087647058823535'
+average: '61.656315789473688'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

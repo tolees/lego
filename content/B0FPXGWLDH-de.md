@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Fliegender Ford Anglia 76470 | Spielzeug ab 14 Jahren für Jugendliche Auto Modellbau mit 3 Figuren zum Spielen und Ausstellen Geschenk 868 Teile'
-date: 2026-11-12 19:12:48
+date: 2026-11-14 23:57:32
 image: 'https://m.media-amazon.com/images/I/51iEBOXfVUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXGWLDH/?tag=tolees0ca-21'
 descuento: '37.50'
-average: '50.223357664233468'
+average: '50.219999999999892'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

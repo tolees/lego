@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Gänseblümchen 11508 | Spielzeug ab 9 Jahren Mädchen & Jungen Kunstblumen Strauß mit Gänseblümchen & Lavendel DIY Deko Geschenk 133 Teile'
-date: 2026-11-12 11:44:01
+date: 2026-11-14 23:56:03
 image: 'https://m.media-amazon.com/images/I/410Ctul0eqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDY3X2/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '10.184473684210614'
+average: '10.179487179487264'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

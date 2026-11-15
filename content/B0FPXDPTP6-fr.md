@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO La maison familiale moderne 3-en-1 10470 | Jouet pour fille ou garçon dès 2 ans set Montessori interactif maison de poupées motricité fine idée cadeau 166 pièces'
-date: 2026-11-12 11:33:06
+date: 2026-11-14 23:12:47
 image: 'https://m.media-amazon.com/images/I/51PSRDXx9VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDPTP6/?tag=tolees0d-21'
 descuento: '47.51'
-average: '48.96'
+average: '47.798333333333332'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

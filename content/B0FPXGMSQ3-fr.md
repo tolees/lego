@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Peppa Pig La maison familiale 10467 | Jouet pour fille ou garçon dès 2 ans jeu éducatif en bas âge set Montessori 5 figurines motricité idée cadeau 84 pièces'
-date: 2026-11-12 22:20:18
+date: 2026-11-14 23:05:57
 image: 'https://m.media-amazon.com/images/I/51BiJcT21cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGMSQ3/?tag=tolees0d-21'
 descuento: '36.01'
-average: '44.989428571428483'
+average: '44.986619718309768'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

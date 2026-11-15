@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Der Drache des Lebens 71859 | Spielzeug ab 9 Jahren Jungen & Mädchen Drachenfigur Mini-Mech 8 Minifiguren & Schwerter Ninja Geschenk 1050 Teile'
-date: 2026-11-12 15:17:53
+date: 2026-11-14 23:54:02
 image: 'https://m.media-amazon.com/images/I/517-cD4cWOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXDMNN8/?tag=tolees0ca-21'
 descuento: '33.00'
-average: '63.642558139534657'
+average: '63.718636363636144'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

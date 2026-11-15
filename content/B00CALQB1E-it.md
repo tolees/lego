@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Prugno giapponese 10369 | Set per adulti fiore finto da costruire decorazione floreale artificiale per casa hobby creativi idea regalo 327 pezzi'
-date: 2026-11-13 08:05:06
+date: 2026-11-14 20:46:05
 image: 'https://m.media-amazon.com/images/I/41czpkZ5xJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: ''
 buyurl: 'https://www.amazon.it/dp/B00CALQB1E/?tag=tolees00-21'
 descuento: '20.01'
-average: '23.18617647058835'
+average: '23.209142857142968'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

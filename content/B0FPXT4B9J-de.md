@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play: Lukes Landspeeder 75420 | SMART Brick nicht enthalten Kompatibles Set 1 Tag 1 Minifigur Geschenkidee für Jungen & Mädchen ab 6 Jahren 215 Teile'
-date: 2026-11-12 11:19:08
+date: 2026-11-14 23:59:15
 image: 'https://m.media-amazon.com/images/I/51XQu+4tYnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXT4B9J/?tag=tolees0ca-21'
 descuento: '50.01'
-average: '25.11071428571443'
+average: '25.038591549295916'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

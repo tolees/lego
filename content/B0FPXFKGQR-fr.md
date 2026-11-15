@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Voiture de course BMW M4 GT3 EVO 42226 | Jeu de construction pour enfant dès 11 ans maquette moteur V6 direction & portes cadeau gaming pour ado 747 pièces'
-date: 2026-11-10 15:02:45
+date: 2026-11-14 23:14:33
 image: 'https://m.media-amazon.com/images/I/51ODoWjsccL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFKGQR/?tag=tolees0d-21'
 descuento: '33.85'
-average: '44.0193333333334'
+average: '43.955000000000062'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft La Bataille du Wither 21590 | Jouet pour enfant dès 8 ans jeu interactif cube de magma arpenteur Guerrier écarlate cadeau gaming 494 pièces'
-date: 2026-11-12 22:23:00
+date: 2026-11-14 23:08:58
 image: 'https://m.media-amazon.com/images/I/51HDVYwHD6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCCCPT/?tag=tolees0d-21'
 descuento: '36.16'
-average: '41.55798449612378'
+average: '41.556946564885251'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

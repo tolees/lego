@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Seerosen 11511 | Spielzeug ab 9 Jahren Mädchen & Jungen Kunstblumen und künstlichen Topfpflanzen in transparenten Vasen Geschenk 259 Teile'
-date: 2026-11-12 11:46:32
+date: 2026-11-14 23:58:59
 image: 'https://m.media-amazon.com/images/I/417NEn54koL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXL53FK/?tag=tolees0ca-21'
 descuento: '34.26'
-average: '26.246250000000035'
+average: '26.246923076923114'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Magnolia Branches 11510 | Set for Adults Artificial Flowers 5 Faux Magnolias DIY Living Room or Bedroom Decor Gift Idea 435 Pieces'
-date: 2026-11-13 16:50:44
+date: 2026-11-14 20:42:26
 image: 'https://m.media-amazon.com/images/I/514AjXwrBKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXFW392-co.uk LEGO Botanicals Magnolia Branches 11510 | Set for...'
 sku: 'B0FPXFW392-co.uk'
 tags: [ 'lego','🇬🇧', ]
-actualPrice: 29.99 GBP
+actualPrice: 29.95 GBP
 currency: GBP
-price: 29.99
+price: 29.95
 comparePrice: 44.99 GBP
 prodname: 'LEGO Botanicals Magnolia Branches 11510 | Set for Adults Artificial Flowers 5 Faux Magnolias DIY Living Room or Bedroom Decor Gift Idea 435 Pieces'
 country: 'co.uk'
 flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFW392/?tag=tolees0a-21'
-descuento: '33.34'
-average: '28.532987804878161'
+descuento: '33.43'
+average: '28.550060240963969'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Angriff des Hühnerreiters in der Wüste 21592 | Spielzeug ab 9 Jahren Jungen & Mädchen mit 6 Figuren inkl. Eisengolem & Baby Wolf Deko Gaming-Geschenk 428 Teile'
-date: 2026-11-12 19:12:10
+date: 2026-11-14 23:48:49
 image: 'https://m.media-amazon.com/images/I/51QAUeLm1aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXD8SVZ/?tag=tolees0ca-21'
 descuento: '36.01'
-average: '16.6395'
+average: '16.60857142857143'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

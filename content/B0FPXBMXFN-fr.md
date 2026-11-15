@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Le croiseur d’assaut de Classe Venator 75441 | Set collector pour adulte maquette du vaisseau de la République décoration pour chambre ou salon idée cadeau 643 pièces'
-date: 2026-11-06 14:14:21
+date: 2026-11-14 23:08:51
 image: 'https://m.media-amazon.com/images/I/41k0sIDeezL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXBMXFN-fr LEGO Star Wars Le croiseur d’assaut de Classe Venator...'
 sku: 'B0FPXBMXFN-fr'
 tags: [ 'lego','🇫🇷', ]
-actualPrice: 51.48 EUR
+actualPrice: 51.49 EUR
 currency: EUR
-price: 51.48
+price: 51.49
 comparePrice: 79.99 EUR
 prodname: 'LEGO Star Wars Le croiseur d’assaut de Classe Venator 75441 | Set collector pour adulte maquette du vaisseau de la République décoration pour chambre ou salon idée cadeau 643 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXBMXFN/?tag=tolees0d-21'
-descuento: '35.64'
-average: '51.347983870967809'
+descuento: '35.63'
+average: '51.350238095238161'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

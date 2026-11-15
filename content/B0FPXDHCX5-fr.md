@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le fourgon pénitentiaire 60479 | Camion jouet pour enfant dès 6 ans maquette de van avec moto 3 minifigurines idée de cadeau d’anniversaire 198 pièces'
-date: 2026-11-12 22:23:47
+date: 2026-11-14 23:12:41
 image: 'https://m.media-amazon.com/images/I/51LY1eTaMVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDHCX5/?tag=tolees0d-21'
 descuento: '35.47'
-average: '12.69251428571434'
+average: '12.694858757062201'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

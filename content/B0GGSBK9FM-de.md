@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Batmobile Tumbler 42239 | Spielzeug ab 12 Jahren für Jungen ferngesteuertes Spielzeugauto mit Lenkung & Scheinwerfern Fanartikel Geschenk 719 Teile'
-date: 2026-11-12 11:37:45
+date: 2026-11-15 11:34:14
 image: 'https://m.media-amazon.com/images/I/51IVlYKK4rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0GGSBK9FM/?tag=tolees0ca-21'
 descuento: '34.97'
-average: '134.39047619047599'
+average: '133.89772727272708'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

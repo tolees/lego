@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Cornish Pixie 76461 | Toys for 8+ Year Old Girls & Boys Figure with Gilderoy Lockhart s Book & Wand Bedroom or Desk Decor Gift Idea 320 Pieces'
-date: 2026-11-13 16:51:06
+date: 2026-11-14 20:42:37
 image: 'https://m.media-amazon.com/images/I/51gWT+CBBmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXGPT4J/?tag=tolees0a-21'
 descuento: '43.98'
-average: '16.054374999999961'
+average: '15.826111111111075'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

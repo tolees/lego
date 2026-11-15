@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hogwarts Herbology Plants 76474 | Toys for 12+ Year Old Boys & Girls Artificial Potted Plants with Flowers Interactive Set Room Decor Gift Idea 817 Pieces'
-date: 2026-11-09 20:55:49
+date: 2026-11-15 13:03:46
 image: 'https://m.media-amazon.com/images/I/51TsnKNufIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇬🇧'
 brand: ''
 buyurl: 'https://www.amazon.co.uk/dp/B0FPXFR4XB/?tag=tolees0a-21'
 descuento: '33.35'
-average: '59.563157894736825'
+average: '59.603333333333318'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

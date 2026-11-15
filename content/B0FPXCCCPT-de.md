@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Duell mit dem Wither 21590 | Spielzeug ab 8 Jahren Jungen & Mädchen & Gamer Bauset mit Kreaturen & Werkbank Merchandising Gaming-Geschenk 494 Teile'
-date: 2026-11-12 19:11:36
+date: 2026-11-14 23:47:09
 image: 'https://m.media-amazon.com/images/I/51HDVYwHD6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B0FPXCCCPT/?tag=tolees0ca-21'
 descuento: '33.85'
-average: '44.964999999999932'
+average: '44.833333333333272'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

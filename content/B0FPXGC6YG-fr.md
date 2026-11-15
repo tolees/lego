@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Pikachu et Poké Ball 72152 | Set pour adulte maquette de figurine anime articulée présentoir dynamique déco de chambre idée cadeau gaming 2050 pièces'
-date: 2026-11-06 14:15:43
+date: 2026-11-14 23:16:04
 image: 'https://m.media-amazon.com/images/I/41cGbRLMgaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXGC6YG-fr LEGO Pokémon Pikachu et Poké Ball 72152 | Set pour adulte...'
 sku: 'B0FPXGC6YG-fr'
 tags: [ 'lego','🇫🇷', ]
-actualPrice: 123.78 EUR
+actualPrice: 129.99 EUR
 currency: EUR
-price: 123.78
+price: 129.99
 comparePrice: 199.99 EUR
 prodname: 'LEGO Pokémon Pikachu et Poké Ball 72152 | Set pour adulte maquette de figurine anime articulée présentoir dynamique déco de chambre idée cadeau gaming 2050 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGC6YG/?tag=tolees0d-21'
-descuento: '38.11'
-average: '126.69047619047619'
+descuento: '35.00'
+average: '126.76720930232558'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
